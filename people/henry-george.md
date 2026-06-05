@@ -1,0 +1,34 @@
+---
+title: "Henry George"
+category: people
+tags: [henry-george, georgism, land-value-tax, political-economy, single-tax]
+stub: false
+born: 1839
+died: 1897
+sources: [george-1879, andelson-2003]
+---
+
+## Life
+
+Henry George was born on 2 September 1839 in Philadelphia, Pennsylvania, the second of ten children in a modest middle-class family. He left school at fourteen, worked as a sailor and typesetter, and eventually made his way to California during the Gold Rush era, arriving in San Francisco in 1858. He spent most of his working life as a journalist and newspaper editor, struggling financially for much of it.
+
+The intellectual crisis that shaped his life's work came in the late 1860s. Watching San Francisco grow rapidly while poverty deepened among its labouring classes, George formed the question that would organise his career: *why does economic progress so often leave the poor behind?* His answer, developed over a decade of thinking and writing, was published in 1879 as *Progress and Poverty*.
+
+## Progress and Poverty
+
+*Progress and Poverty: An Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth — the Remedy* was self-published after multiple rejection letters. It became one of the bestselling books of the 19th century, eventually selling millions of copies worldwide and being translated into dozens of languages. George's central argument was that land — held privately but valued by the community — captures the gains from economic growth through rising rents, while wages and returns to capital stagnate. The remedy was a single tax on land values sufficient to replace all other taxes.
+
+## Political Career
+
+George's ideas attracted a mass following. He ran for mayor of New York City in 1886, narrowly losing to Abram Hewitt in a race that placed him ahead of the Republican candidate Theodore Roosevelt in the popular vote. He ran again in 1897 and died of a stroke four days before the election, at the age of 58. Hundreds of thousands attended or lined the streets at his funeral procession.
+
+## Influence
+
+George's influence crossed ideological lines in ways unusual for any single thinker. Tolstoy called him one of the greatest social philosophers of the century. Sun Yat-sen acknowledged George's influence on the land policy of the Republic of China. George Bernard Shaw credited George with turning him toward socialism. Economists from Alfred Marshall to Milton Friedman (who called LVT "the least bad tax") have engaged seriously with his work. The Henry George Foundation, the Lincoln Institute of Land Policy, and numerous policy institutes worldwide continue to develop his ideas.
+
+## See Also
+
+- [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
+- [Land Value Tax](/wiki/land-value-tax/) — the policy at the centre of George's programme
+- [Georgism](/wiki/georgism/) — the political-economic movement built on George's ideas
+- [Single Tax](/wiki/single-tax/) — George's specific policy prescription
