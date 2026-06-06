@@ -33,3 +33,9 @@ The thesis is controversial among academic economists but is supported by consid
 - [ATCOR](/wiki/atcor/) — the theorem associated with Gaffney
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the foundational text
 - [Fred Harrison](/wiki/fred-harrison/) — co-author of *The Corruption of Economics*
+
+## Sources
+
+1. Mason Gaffney — complete career archive (100+ papers, free). [masongaffney.org](https://masongaffney.org/publications.html)
+2. Mason Gaffney & Fred Harrison (1994), *The Corruption of Economics* (book).
+3. [The Hidden Taxable Capacity of Land (2009) — wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
