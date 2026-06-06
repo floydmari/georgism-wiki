@@ -23,3 +23,8 @@ For a wiki organised around evidence, the Lincoln Institute matters because so m
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Henry George](/wiki/henry-george/)
+
+## Sources
+
+1. Lincoln Institute of Land Policy — official site & publications. [lincolninst.edu](https://www.lincolninst.edu/)
+2. Dye & England (2010), *Assessing the Theory and Practice of Land Value Taxation*, Lincoln Institute. [Report](https://www.lincolninst.edu/publications/policy-focus-reports/assessing-theory-practice-land-value-taxation/)
