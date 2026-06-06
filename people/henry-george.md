@@ -32,3 +32,9 @@ George's influence crossed ideological lines in ways unusual for any single thin
 - [Land Value Tax](/wiki/land-value-tax/) — the policy at the centre of George's programme
 - [Georgism](/wiki/georgism/) — the political-economic movement built on George's ideas
 - [Single Tax](/wiki/single-tax/) — George's specific policy prescription
+
+## Sources
+
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — biographical and bibliographic resources.
