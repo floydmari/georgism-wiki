@@ -17,7 +17,7 @@ Matthew Rognlie's 2015 *Brookings Papers on Economic Activity* article is among 
 
 ## Why It Matters for Georgism
 
-Because the value of housing is dominated by the value of the **land** underneath it — structures depreciate and can be reproduced, locations cannot — Rognlie's result implies that the modern rise in "capital's" share is largely a rise in **land rent's** share. This is precisely the dynamic Henry George described: as economies grow, the gains accrue disproportionately to landowners. The finding was independently confirmed with European data by [Bonnet et al. (2021)](/wiki/research/) and reframes inequality debates around land rather than capital in the productive sense.
+Because the value of housing is dominated by the value of the **land** underneath it — structures depreciate and can be reproduced, locations cannot — Rognlie's result implies that the modern rise in "capital's" share is largely a rise in **land rent's** share. This is precisely the dynamic Henry George described: as economies grow, the gains accrue disproportionately to landowners. The finding was independently confirmed with European data by [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/) and reframes inequality debates around land rather than capital in the productive sense.
 
 ## Bears On
 
