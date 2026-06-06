@@ -1,0 +1,28 @@
+---
+title: "Ecological Georgism"
+category: concepts
+tags: [concepts, ecological-georgism, environment, carbon, pigouvian, resource-rents]
+stub: false
+excerpt: "The extension of Georgist rent-capture to all natural resources and environmental externalities — taxing pollution, carbon, and resource extraction as forms of rent."
+---
+
+## Definition
+
+**Ecological Georgism** (sometimes "green Georgism") extends Henry George's principle beyond land to **all natural resources and environmental sinks**. If the value of land belongs to the community, so does the value of the atmosphere, oceans, minerals, water, and the spectrum — and the right to pollute or extract from them.
+
+## The Argument
+
+Pollution and resource extraction use commonly-owned natural assets without paying for them — a form of unpriced [resource rent](/wiki/resource-rents/). Ecological Georgists support **carbon taxes, severance taxes, congestion charges, and pollution fees** as the environmental application of rent capture: charge for the use of the commons, and (often) return the proceeds as a [citizen's dividend](/wiki/citizens-dividend/). This aligns the Georgist tradition with **Pigouvian** environmental economics — both charge for socially-costly use of shared resources.
+
+## Significance
+
+Ecological Georgism reframes climate and environmental policy as a rent problem, and is a major theme in modern Georgist writing (e.g. Alanna Hartzok's *The Earth Belongs to Everyone*).
+
+## See Also
+
+- [Resource Rents](/wiki/resource-rents/) · [Citizen's Dividend](/wiki/citizens-dividend/) · [Georgism](/wiki/georgism/)
+
+## Sources
+
+1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* (book).
+2. IMF (2012), "Issues in Extractive Resource Taxation." [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)
