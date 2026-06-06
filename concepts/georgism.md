@@ -38,3 +38,9 @@ The tradition continues through the [Henry George Foundation](https://www.henryg
 - [Land Value Tax](/wiki/land-value-tax/) — the central policy proposal
 - [Single Tax](/wiki/single-tax/) — the 19th-century political movement
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the foundational text
+
+## Sources
+
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+2. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* (3rd ed.) — the definitive comparative reference (book).
+3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — custodian of George's works.
