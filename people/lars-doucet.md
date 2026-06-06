@@ -23,3 +23,9 @@ Doucet represents the contemporary, empirically minded wing of Georgism: less co
 ## See Also
 
 - [Henry George](/wiki/henry-george/) · [Progress and Poverty](/wiki/progress-and-poverty/) · [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
+
+## Sources
+
+1. Lars Doucet (2021–22), *Does Georgism Work?* — [wiki summary](/wiki/doucet-does-georgism-work/)
+2. Lars Doucet (2023), *Land Is a Big Deal*. [landisabigdeal.com](https://www.landisabigdeal.com/)
+3. Doucet's collected writing at [Game of Rent](https://gameofrent.com/).
