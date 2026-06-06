@@ -23,3 +23,8 @@ This 2021 *European Economic Review* paper by Bonnet, Chapelle, Trannoy, and Was
 
 - **Outcome:** [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - **Outcome:** [LVT can replace capital taxes without efficiency loss](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)
+
+## Sources
+
+1. Odran Bonnet, Guillaume Chapelle, Alain Trannoy & Etienne Wasmer (2021), "Land is Back, It Should Be Taxed, It Can Be Taxed," *European Economic Review* 134. [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)
+2. US precursor: [Rognlie (2015) — wiki summary](/wiki/rognlie-capital-share/)
