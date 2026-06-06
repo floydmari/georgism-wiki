@@ -37,3 +37,8 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 - [Land Value Tax](/wiki/land-value-tax/) — the policy George proposes
 - [Economic Rent](/wiki/economic-rent/) — the theoretical foundation
 - [Mason Gaffney](/wiki/mason-gaffney/) — who documented the suppression of Georgist economics
+
+## Sources
+
+1. Henry George (1879), *Progress and Poverty*. [Full text online](https://www.henrygeorge.org/pcontents.htm)
+2. Authoritative editions published by the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/).
