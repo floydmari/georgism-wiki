@@ -87,6 +87,7 @@ def upsert(path):
         "visibility": "public",
         "featured": bool(fm.get("featured", False)),
         "custom_template": "custom-wiki-entry",            # GOTCHA 2: or it renders as an article
+        "authors": [{"slug": "progress-llm"}],             # all wiki entries attributed to Progress LLM
         "tags": build_tags(fm, folder),
     }
 
