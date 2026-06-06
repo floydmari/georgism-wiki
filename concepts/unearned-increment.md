@@ -30,3 +30,9 @@ Winston Churchill made a memorable version of this argument in a 1909 speech: *"
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response
 - [Henry George](/wiki/henry-george/) — who built his case on the unearned increment
 - [Land Monopoly](/wiki/land-monopoly/) — the structural condition that enables it
+
+## Sources
+
+1. John Stuart Mill (1848), *Principles of Political Economy* — origin of the "unearned increment." [Full text](https://www.econlib.org/library/Mill/mlP.html)
+2. Winston Churchill (1909), speech on the land monopolist ("the People's Budget" debates).
+3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
