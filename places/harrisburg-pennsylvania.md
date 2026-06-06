@@ -38,3 +38,9 @@ Pennsylvania is unusual in allowing cities to split their property tax rate. Sev
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Estonia](/wiki/estonia/) — a national-level implementation
 - [Denmark](/wiki/denmark/) — another example
+
+## Sources
+
+1. Wallace Oates & Robert Schwab (1997), Pittsburgh split-rate study — [wiki summary](/wiki/oates-schwab-pittsburgh/)
+2. Plassmann & Tideman (2000), 15-municipality Pennsylvania panel — [wiki summary](/wiki/plassmann-tideman-construction/)
+3. Zhou Yang (2021), "Split-Rate Taxation Impacts on Tax Base," Lincoln Institute. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/yang_wp21zy1.pdf)
