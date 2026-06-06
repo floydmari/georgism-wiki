@@ -5,10 +5,14 @@ Markdown source files for the Georgism & Land Value Taxation wiki at [progress.o
 Content is synced to Ghost CMS via the Ghost Admin API. Each file maps to a Ghost post tagged `wiki`.
 
 ## Categories
-- `concepts/` — Economic concepts (LVT, economic rent, deadweight loss, etc.)
-- `people/` — Economists and thinkers (Henry George, Mason Gaffney, Fred Harrison)
-- `places/` — Jurisdictions that have implemented LVT (Estonia, Denmark, Harrisburg PA)
-- `theories/` — Academic frameworks and books (Progress and Poverty, ATCOR)
+- `concepts/` — Ideas & terms (LVT, economic rent, ATCOR, deadweight loss, unearned increment)
+- `people/` — Thinkers & reformers (Henry George, Gaffney, Harrison, Mill, Ricardo)
+- `places/` — Jurisdictions & their land-tax record (Estonia, Denmark, Harrisburg, Taiwan)
+- `events/` — Events & Campaigns: political attempts & movements (1886 NYC race, 1909 People's Budget)
+- `outcomes/` — Evidence-backed claims about what LVT/rent policy actually does (links to research/)
+- `research/` — The papers, studies & datasets themselves (the source index, one entry each)
+- `organizations/` — Institutions carrying the movement (Lincoln Institute, Schalkenbach, HG School)
+- `objections/` — Serious counterarguments and their responses
 
 ## License
 CC BY 4.0 — freely reusable with attribution.
