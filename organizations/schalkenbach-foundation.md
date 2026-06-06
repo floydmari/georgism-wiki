@@ -23,3 +23,8 @@ RSF is the institutional through-line of the Georgist movement — the body that
 ## See Also
 
 - [Henry George](/wiki/henry-george/) · [Lincoln Institute of Land Policy](/wiki/lincoln-institute/) · [Single Tax](/wiki/single-tax/)
+
+## Sources
+
+1. Robert Schalkenbach Foundation — official site. [schalkenbach.org](https://schalkenbach.org/)
+2. Publisher of authoritative editions of *[Progress and Poverty](/wiki/progress-and-poverty/)*.
