@@ -14,13 +14,22 @@ Replacing taxes on **capital** with a tax on **land** improves economic efficien
 
 ## The Evidence
 
-- [Bonnet, Chapelle, Trannoy & Wasmer (2021)](/wiki/bonnet-land-is-back/) show formally and empirically that taxing land dominates taxing capital.
-- Schwerhoff, Edenhofer & Fleurbaey (2022, IMF working paper) reach the same conclusion using optimal-taxation theory with heterogeneous households, finding LVT both efficient and capable of being progressive.
+| Source | Approach | Finding |
+|--------|----------|---------|
+| [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/) | Theory + European data | Taxing land **dominates** taxing capital; a land tax can substitute for capital taxes without the efficiency cost |
+| Schwerhoff, Edenhofer & Fleurbaey (2022), IMF WP | Optimal-taxation theory, heterogeneous households | LVT is efficient **and** can be made progressive — efficiency and equity are not in tension |
+
+This rests on the oldest result in the field: a tax on a factor in perfectly inelastic supply causes no change in quantity, hence no deadweight loss — a point on which economists from Henry George to Milton Friedman (who called LVT the "least bad tax") agree.
 
 ## Strength of Evidence
 
-**Strong** — grounded in well-established theory (inelastic supply ⇒ no deadweight loss) and confirmed by independent calibrated models.
+**Strong** — grounded in well-established theory and confirmed by independent calibrated models.
 
 ## See Also
 
 - [Deadweight Loss](/wiki/deadweight-loss/) · [ATCOR](/wiki/atcor/) · [Land Value Tax](/wiki/land-value-tax/)
+
+## Sources
+
+1. Bonnet, Chapelle, Trannoy & Wasmer (2021), *European Economic Review* — [wiki summary](/wiki/bonnet-land-is-back/) · [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)
+2. Schwerhoff, Edenhofer & Fleurbaey (2022), "Equity and Efficiency Effects of Land Value Taxation," *IMF Working Paper*. [PDF](https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf)
