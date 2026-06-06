@@ -1,0 +1,24 @@
+---
+title: "Deciphering the Fall and Rise in the Net Capital Share"
+category: research
+tags: [research, piketty, capital-share, land, housing, inequality]
+authors: [Matthew Rognlie]
+year: 2015
+source_url: https://mattrognlie.com/brookings_capitalshare.pdf
+tier: core
+stub: false
+supports: [capital-share-rise-is-land]
+excerpt: "Shows that the long-run rise in capital's share of income documented by Piketty is almost entirely attributable to housing — that is, to land — not to reproducible capital."
+---
+
+## Summary
+
+Matthew Rognlie's 2015 *Brookings Papers on Economic Activity* article is among the most influential modern findings for Georgist economics, though Rognlie did not frame it that way. Responding to Thomas Piketty's *Capital in the Twenty-First Century*, Rognlie decomposed the rising share of national income going to capital and found that essentially **all** of the long-run increase across developed economies comes from the **housing** sector.
+
+## Why It Matters for Georgism
+
+Because the value of housing is dominated by the value of the **land** underneath it — structures depreciate and can be reproduced, locations cannot — Rognlie's result implies that the modern rise in "capital's" share is largely a rise in **land rent's** share. This is precisely the dynamic Henry George described: as economies grow, the gains accrue disproportionately to landowners. The finding was independently confirmed with European data by [Bonnet et al. (2021)](/wiki/research/) and reframes inequality debates around land rather than capital in the productive sense.
+
+## Bears On
+
+- **Outcome:** [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
