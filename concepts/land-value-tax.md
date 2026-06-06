@@ -41,3 +41,9 @@ The 2011 Mirrlees Review, commissioned by the UK's Institute for Fiscal Studies 
 - [Henry George](/wiki/henry-george/) — the economist who made LVT the centrepiece of a global movement
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — a documented American implementation
 - [ATCOR](/wiki/atcor/) — the theorem that all taxes ultimately come out of rent
+
+## Sources
+
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
+2. James Mirrlees et al. (2011), *Tax by Design* (the Mirrlees Review), Institute for Fiscal Studies. [IFS](https://ifs.org.uk/books/tax-by-design)
+3. Richard Dye & Richard England (2010), *Assessing the Theory and Practice of Land Value Taxation*, Lincoln Institute. [Report](https://www.lincolninst.edu/publications/policy-focus-reports/assessing-theory-practice-land-value-taxation/)
