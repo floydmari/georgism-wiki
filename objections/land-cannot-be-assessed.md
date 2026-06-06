@@ -9,21 +9,30 @@ excerpt: "The most common practical objection to LVT — that you can't separate
 
 ## The Objection
 
-A land value tax requires assessing the value of land **separately** from the buildings on it. Critics argue this separation is impractical: in dense cities, land rarely changes hands unimproved, so there are few "pure land" sales to benchmark against. If assessments are inaccurate or arbitrary, the tax is unfair and legally vulnerable.
+A land value tax requires assessing land **separately** from the buildings on it. Critics argue this is impractical: in dense cities, land rarely sells unimproved, so there are few "pure land" sales to benchmark against. Inaccurate or arbitrary assessments would make the tax unfair and legally vulnerable.
 
-## The Response
+## The Response, with Evidence
 
-The objection is serious but is generally treated by practitioners as a **solvable engineering problem**, not a fundamental barrier:
+The objection is serious but is generally treated as a **solvable engineering problem**, not a fundamental barrier.
 
-1. **It is already done.** Jurisdictions including Estonia, Denmark, and many Australian states assess land values separately as routine practice. Most US property assessments already produce a land/improvement split.
-2. **Mass-appraisal methods work.** Modern computer-assisted mass appraisal (CAMA), hedonic regression, and techniques like the [Shapley-value land/building separation](/wiki/research/) (Nature, 2020) estimate land values from sales of comparable sites and the residual after accounting for structures.
-3. **Empirical assessment.** Lars Doucet's *"Does Georgism Work? Part 3"* (2022) examined the assessment problem directly and concluded that land can be assessed with accuracy comparable to — often better than — existing whole-property assessments, because land value is *smoother* across space than building value.
-4. **Errors are bounded and self-correcting.** Because land is immobile and visible, gross mis-assessment is easy to challenge, and assessment quality improves with investment (the Center for Land Economics works specifically on this).
+**1. It is already done at scale.** Estonia (pure land tax since **1993**), Denmark's *grundskyld*, and several Australian states assess land values separately as routine practice. Most US assessments already publish a land/improvement split.
+
+**2. Land is *easier* to assess than buildings, not harder.** In *Does Georgism Work? Part 3* (2022), [Lars Doucet](/wiki/doucet-does-georgism-work/) makes the key counter-intuitive point: land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house. That smoothness means location-based methods (comparable vacant-lot sales, teardown sales, and the "residual" of sale price minus depreciated structure cost) can estimate land value with accuracy **comparable to or better than** whole-property assessment.
+
+**3. Modern methods exist.** Computer-assisted mass appraisal (CAMA), hedonic regression, and cooperative-game approaches such as the [Shapley-value land/building separation](https://www.nature.com/articles/s41599-020-0444-1) (*Humanities and Social Sciences Communications*, 2020) formalise the split.
+
+**4. Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet).
 
 ## Net Assessment
 
-Assessment difficulty raises the **cost and care** required to implement LVT well; it does not undermine the case for it. The objection is best read as an implementation agenda, not a refutation.
+Assessment difficulty raises the **cost and care** of implementing LVT well; it does not undermine the case. The objection is best read as an **implementation agenda**, not a refutation.
 
 ## See Also
 
-- [Land Value Tax](/wiki/land-value-tax/) · [Deadweight Loss](/wiki/deadweight-loss/)
+- [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
+
+## Sources
+
+1. Lars Doucet (2022), "Does Georgism Work? Part 3: Can Unimproved Land Value Be Accurately Assessed?", *Astral Codex Ten* — [wiki summary](/wiki/doucet-does-georgism-work/) · [original](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved)
+2. Kumar et al. (2020), "Land and building separation based on Shapley values," *Humanities and Social Sciences Communications* (Nature). [Article](https://www.nature.com/articles/s41599-020-0444-1)
+3. Lincoln Institute of Land Policy — assessment research. [wiki summary](/wiki/lincoln-institute/)
