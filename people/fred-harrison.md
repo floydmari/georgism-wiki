@@ -34,3 +34,9 @@ The 2008 collapse confirmed the prediction with notable accuracy.
 - [Mason Gaffney](/wiki/mason-gaffney/) — co-author of *The Corruption of Economics*
 - [ATCOR](/wiki/atcor/) — the theorem central to *Ricardo's Law*
 - [Land Value Tax](/wiki/land-value-tax/)
+
+## Sources
+
+1. Fred Harrison (1983), *The Power in the Land* (book).
+2. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/)
+3. Fred Harrison (2006), *Ricardo's Law*; articles at [Share The Rents](https://sharetherents.org/publications/).
