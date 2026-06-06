@@ -33,3 +33,8 @@ The "single tax" label largely fell out of use, but the underlying policy — LV
 - [Henry George](/wiki/henry-george/) — the movement's originator
 - [Land Value Tax](/wiki/land-value-tax/) — the contemporary policy form
 - [Georgism](/wiki/georgism/) — the broader philosophy
+
+## Sources
+
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
