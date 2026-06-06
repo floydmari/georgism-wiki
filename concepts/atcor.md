@@ -35,3 +35,9 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 - [Mason Gaffney](/wiki/mason-gaffney/) — primary developer of ATCOR
 - [Fred Harrison](/wiki/fred-harrison/) — *Ricardo's Law*
 - [Economic Rent](/wiki/economic-rent/)
+
+## Sources
+
+1. Mason Gaffney — collected work on ATCOR and land's taxable capacity. [Free archive](https://masongaffney.org/publications.html)
+2. Fred Harrison (2006), *Ricardo's Law: House Prices and the Great Tax Clawback Scam*. [Share The Rents](https://sharetherents.org/publications/)
+3. Related: [The Hidden Taxable Capacity of Land — wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
