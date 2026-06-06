@@ -26,3 +26,8 @@ The 1886 race marked the peak of Georgism as a mass political force in the Unite
 ## See Also
 
 - [Henry George](/wiki/henry-george/) · [Single Tax](/wiki/single-tax/) · [Progress and Poverty](/wiki/progress-and-poverty/)
+
+## Sources
+
+1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+2. Henry George (1879), *Progress and Poverty* — the book that made George a national figure. [wiki summary](/wiki/progress-and-poverty/)
