@@ -34,3 +34,9 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 - [Unearned Increment](/wiki/unearned-increment/) — John Stuart Mill's term for the same concept
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
 - [Deadweight Loss](/wiki/deadweight-loss/) — why taxing rent is efficient
+
+## Sources
+
+1. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text](https://www.econlib.org/library/Ricardo/ricP.html)
+2. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+3. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
