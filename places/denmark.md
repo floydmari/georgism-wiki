@@ -29,3 +29,8 @@ In more recent decades, the share of Danish local government revenue coming from
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Estonia](/wiki/estonia/) — a more complete national LVT implementation
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — US split-rate case study
+
+## Sources
+
+1. IMF Fiscal Affairs (2013), "Taxing Immovable Property: Revenue Potential and Implementation Challenges" — global property/land tax assessment incl. Nordic systems. [PDF](https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf)
+2. Background on the Danish *grundskyld* (ground-duty) within the Single Tax tradition.
