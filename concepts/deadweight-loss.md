@@ -33,3 +33,8 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 - [Land Value Tax](/wiki/land-value-tax/) — the zero-deadweight-loss tax
 - [Economic Rent](/wiki/economic-rent/) — the base that LVT targets
 - [ATCOR](/wiki/atcor/) — the stronger theorem about tax incidence
+
+## Sources
+
+1. James Mirrlees et al. (2011), *Tax by Design* (the Mirrlees Review), Institute for Fiscal Studies. [IFS](https://ifs.org.uk/books/tax-by-design)
+2. Standard public-economics treatment of excess burden and tax incidence under inelastic supply.
