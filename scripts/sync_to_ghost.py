@@ -43,12 +43,14 @@ GHOST_URL = os.environ["GHOST_URL"].rstrip("/")
 KEY_ID, SECRET = os.environ["GHOST_ADMIN_KEY"].split(":")
 
 CATEGORY_TAG = {            # folder -> (category tag slug, display name)
-    "concepts":   ("wiki-concepts",   "Concepts"),
-    "people":     ("wiki-people",     "People"),
-    "places":     ("wiki-places",     "Places"),
-    "theories":   ("wiki-theories",   "Theories"),
-    "events":     ("wiki-events",     "Events"),
-    "inventions": ("wiki-inventions", "Inventions"),
+    "concepts":      ("wiki-concepts",      "Concepts"),
+    "people":        ("wiki-people",        "People"),
+    "places":        ("wiki-places",        "Places"),
+    "events":        ("wiki-events",        "Events & Campaigns"),
+    "outcomes":      ("wiki-outcomes",      "Outcomes"),
+    "research":      ("wiki-research",       "Research"),
+    "organizations": ("wiki-organizations", "Organizations"),
+    "objections":    ("wiki-objections",    "Objections"),
 }
 
 def headers():
