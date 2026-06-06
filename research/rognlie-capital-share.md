@@ -22,3 +22,9 @@ Because the value of housing is dominated by the value of the **land** underneat
 ## Bears On
 
 - **Outcome:** [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
+
+## Sources
+
+1. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share," *Brookings Papers on Economic Activity*. [PDF](https://mattrognlie.com/brookings_capitalshare.pdf)
+2. Earlier note: Matthew Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital." [PDF](https://gabriel-zucman.eu/files/teaching/Rognlie14.pdf)
+3. European confirmation: [Bonnet et al. (2021) — wiki summary](/wiki/bonnet-land-is-back/)
