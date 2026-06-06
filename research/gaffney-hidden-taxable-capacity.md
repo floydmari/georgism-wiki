@@ -22,3 +22,8 @@ Gaffney enumerates "hidden" sources of land and resource rent typically left out
 
 - **Outcome:** [Land rent could fund government](/wiki/land-rent-could-fund-government/)
 - **Concept:** [ATCOR](/wiki/atcor/)
+
+## Sources
+
+1. Mason Gaffney (2009), "The Hidden Taxable Capacity of Land: Enough and to Spare." [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
+2. Complete free archive of Gaffney's work: [masongaffney.org](https://masongaffney.org/publications.html)
