@@ -26,3 +26,8 @@ A higher tax rate on land, relative to the rate on structures, is associated wit
 ## Bears On
 
 - **Outcome:** [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
+
+## Sources
+
+1. Florenz Plassmann & Nicolaus Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2):216–247. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X)
+2. Companion single-city case: [Oates & Schwab (1997) — wiki summary](/wiki/oates-schwab-pittsburgh/)
