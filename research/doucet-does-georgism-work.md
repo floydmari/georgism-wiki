@@ -24,3 +24,8 @@ Lars Doucet's *"Does Georgism Work?"* series, published on Astral Codex Ten in 2
 
 - **Outcome:** [Landlords cannot pass LVT on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 - **Objection:** [Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
+
+## Sources
+
+1. Lars Doucet (2021–22), *Does Georgism Work?* — [Part 1: Is Land Really a Big Deal?](https://www.astralcodexten.com/p/does-georgism-work-is-land-really) · [Part 2: Can Landlords Pass LVT to Tenants?](https://www.astralcodexten.com/p/does-georgism-work-part-2-can-landlords) · [Part 3: Can Land Be Assessed?](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved), *Astral Codex Ten*
+2. Lars Doucet (2023), *Land Is a Big Deal* (book). [landisabigdeal.com](https://www.landisabigdeal.com/)
