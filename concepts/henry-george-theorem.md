@@ -25,3 +25,8 @@ The theorem gives Georgism a rigorous foundation in mainstream theory: it is not
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [ATCOR](/wiki/atcor/)
+
+## Sources
+
+1. Richard Arnott & Joseph Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *QJE* — [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/) · [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf)
+2. Joseph Stiglitz (1977), "The Theory of Local Public Goods."
