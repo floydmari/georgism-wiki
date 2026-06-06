@@ -28,3 +28,8 @@ Land monopoly has direct implications for housing affordability. When land in de
 - [Land Value Tax](/wiki/land-value-tax/) — the corrective
 - [Unearned Increment](/wiki/unearned-increment/) — the value captured through land monopoly
 - [Deadweight Loss](/wiki/deadweight-loss/) — the efficiency cost of monopoly
+
+## Sources
+
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+2. Henry George (1883), *Social Problems* — George's accessible follow-up on land monopoly.
