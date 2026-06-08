@@ -1,0 +1,23 @@
+---
+title: "The Modern Georgism of Respected Economists"
+category: research
+tags: [research, online-writing, mainstream, endorsements, stiglitz]
+authors: [Progress and Poverty Institute]
+year: 2023
+source_url: https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected
+tier: important
+stub: false
+excerpt: "Documents how a roster of mainstream and Nobel-laureate economists have endorsed conclusions central to Georgism."
+---
+
+## Summary
+
+This essay from the *Progress and Poverty* Substack compiles the surprising breadth of mainstream economic support for Georgist conclusions — useful for countering the perception that land value taxation is a fringe idea.
+
+## What It Shows
+
+It assembles endorsements and supporting work from across the spectrum: [Joseph Stiglitz](/wiki/joseph-stiglitz/) (Henry George Theorem), [William Vickrey](/wiki/william-vickrey/), [Milton Friedman](/wiki/milton-friedman/) ("least bad tax"), and others, alongside the modern empirical literature ([Rognlie](/wiki/rognlie-capital-share/), [Bonnet et al.](/wiki/bonnet-land-is-back/), IMF work). The cumulative point: the core Georgist claims about land's efficiency and equity as a tax base are not heterodox — they are quietly held across mainstream economics.
+
+## Sources
+
+1. "The Modern Georgism of Respected Economists," *Progress and Poverty Substack*. [Article](https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected)
