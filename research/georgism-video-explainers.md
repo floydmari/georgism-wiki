@@ -1,0 +1,28 @@
+---
+title: "Georgism Video Explainers"
+category: research
+tags: [research, video, accessible, introduction, youtube]
+authors: [Various]
+year: 2022
+source_url: https://www.youtube.com/watch?v=smi_iIoKybg
+tier: important
+stub: false
+excerpt: "A curated set of accessible YouTube explainers introducing Georgism and land value taxation to general audiences."
+---
+
+## Summary
+
+Several well-produced YouTube videos serve as short, accessible introductions to Georgism and land value taxation for viewers who prefer video to text. They are among the most common first encounters with the ideas online.
+
+## Notable Explainers
+
+- **"The Best Idea That Will Never Happen: Georgism 101"** — a high-production-value overview of the core argument.
+- **"What Is Georgism? ft. [Lars Doucet](/wiki/lars-doucet/)"** — an explainer featuring the modern movement's leading populariser.
+- **"Henry George & Land Value Tax"** and other **"Georgism 101"** videos — concise overviews of [Henry George](/wiki/henry-george/) and the [land value tax](/wiki/land-value-tax/).
+- **[Dominic Frisby's](/wiki/dominic-frisby/) "A Simple Guide to Land Value Tax"** — a UK-focused introduction.
+
+## Sources
+
+1. "The Best Idea That Will Never Happen: Georgism 101." [YouTube](https://www.youtube.com/watch?v=smi_iIoKybg)
+2. "What Is Georgism? ft. Lars Doucet." [YouTube](https://www.youtube.com/watch?v=anrWTf1brSE)
+3. "Henry George & Land Value Tax." [YouTube](https://www.youtube.com/watch?v=Zbw5yqaDD84)
