@@ -24,4 +24,4 @@ The authors build a measure of the **implicit land tax** — derived from the we
 
 ## Sources
 
-1. Daniel Murphy & Nathan Seegert (2023), "Implicit Land Taxes and Their Effect on the Real Economy." [PDF](https://www.maxwell.syr.edu/docs/default-source/research/cpr/property-tax-webinar-series/2023-2024/murphyseegert-landtax-accessible.pdf)
+1. Daniel Murphy & Nathan Seegert (2023), "Implicit Land Taxes and Their Effect on the Real Economy." [PDF](https://www.maxwell.syr.edu/docs/default-source/research/cpr/property-tax-webinar-series/2023-2024/murphyseegert-landtax-accessible.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/murphy-seegert-implicit-land-taxes.pdf)
