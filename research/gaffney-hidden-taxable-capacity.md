@@ -25,5 +25,5 @@ Gaffney enumerates "hidden" sources of land and resource rent typically left out
 
 ## Sources
 
-1. Mason Gaffney (2009), "The Hidden Taxable Capacity of Land: Enough and to Spare." [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
+1. Mason Gaffney (2009), "The Hidden Taxable Capacity of Land: Enough and to Spare." [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/gaffney-hidden-taxable-capacity.pdf)
 2. Complete free archive of Gaffney's work: [masongaffney.org](https://masongaffney.org/publications.html)
