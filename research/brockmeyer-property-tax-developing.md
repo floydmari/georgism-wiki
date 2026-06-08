@@ -27,4 +27,4 @@ The study is valuable because rigorous causal evidence on land and property taxa
 
 ## Sources
 
-1. Brockmeyer, Estefan, Ramírez Arras & Suárez Serrato (2021), "Taxing Property in Developing Countries: Theory and Evidence from Mexico," *NBER Working Paper 28637*. [PDF](https://www.nber.org/system/files/working_papers/w28637/w28637.pdf)
+1. Brockmeyer, Estefan, Ramírez Arras & Suárez Serrato (2021), "Taxing Property in Developing Countries: Theory and Evidence from Mexico," *NBER Working Paper 28637*. [PDF](https://www.nber.org/system/files/working_papers/w28637/w28637.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/brockmeyer-property-tax-developing.pdf)
