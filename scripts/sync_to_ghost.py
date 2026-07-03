@@ -51,6 +51,7 @@ CATEGORY_TAG = {            # folder -> (category tag slug, display name)
     "research":      ("wiki-research",       "Research"),
     "organizations": ("wiki-organizations", "Organizations"),
     "objections":    ("wiki-objections",    "Objections"),
+    "narratives":    ("wiki-narratives",    "Narratives"),
 }
 
 def headers():
