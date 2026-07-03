@@ -42,12 +42,18 @@ narratives 0→12+, thin→0, claim-level citations→100%, cross-links 3+out/2+
 - [ ] [BULK] tier:T3 status:todo — scan remaining registry sources; set Scan Depth / Status / citations
 
 ## Phase 2 — Linkage (outcomes + narratives)  [depends on: Phase 1]
-- [ ] [DESIGN] tier:T1 status:todo — Design the narrative framework: the taxonomy of ~12 narratives,
-      the evidence-status rubric, and deployment guidance. (Produces the template WS2 pages fill.)
-- [ ] [DRAFT] tier:T2 status:todo — narratives: 12 pages from the taxonomy (Single Tax; Tax land not
-      labor; Unearned increment; Rentier economy; Community creates land value; Land speculation
-      causes cycles; Housing affordability; Citizens Dividend; Green/ecological rent; Tax avoidance
-      impossible with land; The Corruption of Economics; The Great Land Robbery)
+- [x] [DESIGN] tier:T1 status:done — Narrative framework designed (narratives/_framework.md): 12-narrative
+      taxonomy, evidence-status map, slug convention, deployment notes. Exemplar shipped:
+      narratives/unearned-increment-narrative.md.
+- [ ] [DRAFT] tier:T2 status:todo — narratives: 11 remaining pages per narratives/_framework.md
+      (tax-land-not-labor; the-rentier-economy; community-creates-land-value; land-speculation-causes-cycles;
+      the-housing-crisis-is-a-land-crisis; citizens-dividend-narrative; ecological-rent; the-tax-you-cant-dodge;
+      the-corruption-of-economics; the-great-land-robbery; single-tax-narrative). Follow the exemplar's
+      structure/sourcing density. NOTE per framework: `ecological-rent` needs sprawl/carbon-as-rent SOURCES
+      first (T2 research); `the-corruption-of-economics` + `the-great-land-robbery` need a counter-source /
+      enclosure-history page before drafting.
+- [ ] [BULK] tier:T3 status:todo — wire inbound links INTO narrative pages as they ship (concept twins,
+      relevant people/events/outcomes → "Narrative that uses this evidence" See Also links) so none orphan.
 - [ ] [JUDGE] tier:T1 status:todo — For all 13 existing outcomes: set evidence_strength, add
       challenged_by where counter-evidence exists, verify supported_by resolves + is bidirectional
 - [ ] [DRAFT] tier:T2 status:todo — 12 new outcome/evidence pages (reduces inequality; prevents
