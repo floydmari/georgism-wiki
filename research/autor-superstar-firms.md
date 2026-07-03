@@ -148,6 +148,8 @@ capital-share trends specifically:
 
 ## See Also
 
+- [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — the same concentration pattern read as market power rather than scale economies
+
 - [Deciphering the Fall and Rise in the Net Capital Share (Rognlie)](/wiki/rognlie-capital-share/) — the land/housing decomposition this paper is most often set against
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/) — the outcome page this paper qualifies
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — cites this paper as the leading rival account it must answer honestly

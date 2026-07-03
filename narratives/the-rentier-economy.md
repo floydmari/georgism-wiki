@@ -215,6 +215,8 @@ the wiki; the extensions beyond land are newer and thinner.
 
 ## See Also
 
+- [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — the markup evidence behind the rent-extraction reading of modern profits
+
 - [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) — the underlying concepts
 - [Capital-share rise is land](/wiki/capital-share-rise-is-land/) — the narrative's strongest evidence
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/) — the productivity channel
