@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, efficiency, capital-tax, lvt, deadweight-loss]
 stub: false
 evidence_strength: "Strong (theory + calibrated empirical models)"
-supported_by: [bonnet-land-is-back]
+supported_by: [bonnet-land-is-back, mirrlees-review]
 excerpt: "Shifting tax from capital to land raises welfare: land taxes carry no deadweight loss while capital taxes discourage investment."
 ---
 
