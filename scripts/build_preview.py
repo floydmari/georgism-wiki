@@ -104,6 +104,60 @@ def page_shell(root, title, inner):
             f"<span class='badge cite'>needs-citation</span></footer></div></body></html>")
 
 
+def build_single(pages, changed, linked):
+    """Emit one self-contained, content-only HTML file (no doctype/head/body) with client-side
+    hash navigation — works opened locally AND as a Claude Artifact. All articles inlined."""
+    def badges_for(slug, p):
+        b = []
+        if slug in changed: b.append('<span class="badge changed">changed</span>')
+        if p["meta"].get("stub") is True: b.append('<span class="badge stub">stub</span>')
+        if slug not in linked: b.append('<span class="badge orphan">orphan</span>')
+        if p["meta"].get("evidence_strength"):
+            b.append(f'<span class="badge ev">{html.escape(str(p["meta"]["evidence_strength"]))}</span>')
+        nc = len(re.findall(r"\[CITATION NEEDED", p["body"])) + len(re.findall(r"\[VERIFY", p["body"]))
+        if nc: b.append(f'<span class="badge cite">{nc} needs-citation</span>')
+        return "".join(b)
+
+    sections = []
+    # home
+    cat_counts = {c: sum(1 for x in pages.values() if x["cat"] == c) for c in CATEGORIES}
+    home = [f"<h1>Georgism Wiki — preview</h1><p class='muted'>{len(pages)} articles · "
+            f"{len(changed)} changed vs origin/main · renderer {RENDERER}. Click any title; "
+            f"use the top bar to browse categories.</p>"]
+    for c in CATEGORIES:
+        items = sorted((s, p) for s, p in pages.items() if p["cat"] == c)
+        links = " · ".join(f"<a href='#{s}'>{html.escape(p['meta'].get('title', s))}</a>"
+                           for s, p in items)
+        home.append(f"<h2 id='cat-{c}'>{c} ({cat_counts[c]})</h2><p class='cats'>{links}</p>")
+    sections.append(f"<section class='view' id='home'>{''.join(home)}</section>")
+    # articles
+    for slug, p in sorted(pages.items()):
+        body = re.sub(r"/wiki/([a-z0-9\-]+)/", r"#\1", p["body"])   # cross-links -> hash nav
+        sections.append(
+            f"<section class='view article' id='{slug}'>"
+            f"<div class='cat'>{p['cat']} · <a href='#cat-{p['cat']}'>all {p['cat']}</a></div>"
+            f"<h1>{html.escape(p['meta'].get('title', slug))}</h1>"
+            f"<div class='badges'>{badges_for(slug, p)}</div><hr>{to_html(body)}</section>")
+
+    nav = "".join(f"<a href='#cat-{c}'>{c}</a>" for c in CATEGORIES)
+    script = ("<script>function show(){var h=(location.hash||'#home').slice(1);"
+              "document.querySelectorAll('.view').forEach(function(v){v.style.display='none'});"
+              "var el=document.getElementById(h)||document.getElementById('home');"
+              "el.style.display='block';window.scrollTo(0,0);}"
+              "window.addEventListener('hashchange',show);window.addEventListener('load',show);</script>")
+    doc = (f"<style>{CSS}\n.topbar{{position:sticky;top:0;background:var(--bg);border-bottom:1px "
+           f"solid var(--line);padding:10px 16px;display:flex;gap:14px;flex-wrap:wrap;z-index:5}}"
+           f".topbar a{{color:var(--fg);text-decoration:none;font-size:13px}}.topbar a:hover{{color:var(--accent)}}"
+           f".view{{max-width:820px;margin:0 auto;padding:20px 16px}}.article{{display:none}}"
+           f".cats{{font-size:13px;line-height:1.9}}.muted{{color:var(--muted)}}.badges{{margin:6px 0}}</style>"
+           f"<div class='topbar'><a href='#home'><b>Georgism Wiki Preview</b></a>{nav}</div>"
+           f"{''.join(sections)}{script}")
+    path = os.path.join(OUT, "wiki-preview.html")
+    open(path, "w", encoding="utf-8").write(doc)
+    print(f"build_preview --single: wrote {os.path.relpath(path, ROOT)} "
+          f"({len(pages)} articles, self-contained)")
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     pages, texts = {}, []
@@ -159,9 +213,12 @@ def main():
     open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(
         page_shell("", "Georgism Wiki preview", inner))
 
+    build_single(pages, changed, linked)   # also emit the self-contained single-file preview
+
     print(f"build_preview: wrote {len(pages)+len(CATEGORIES)+1} html files to preview/ "
           f"({len(changed)} changed vs main) · renderer={RENDERER}")
     print("serve:  python3 -m http.server -d preview 8000  → http://localhost:8000")
+    print("single: open preview/wiki-preview.html directly (no server needed)")
 
 
 if __name__ == "__main__":
