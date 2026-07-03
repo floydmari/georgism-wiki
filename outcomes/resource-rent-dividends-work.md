@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, resource-rents, citizens-dividend, alaska]
 stub: false
 evidence_strength: "Strong (decades of real-world operation)"
-supported_by: [jones-marinescu-alaska-pfd]
+supported_by: [jones-marinescu-alaska-pfd, hartwick-rule, segal-resource-dividend]
 excerpt: "Alaska's decades-long Permanent Fund Dividend shows that capturing natural-resource rent and distributing it as a citizen's dividend is administratively and politically durable."
 challenged_by: [martinez-colombia-resource-rents]
 ---
