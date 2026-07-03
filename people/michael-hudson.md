@@ -12,7 +12,7 @@ Michael Hudson (b. 1939) is an American economist known for his analysis of debt
 
 ## Key Work
 
-- ***Killing the Host*** (2015) argues that the financial sector increasingly extracts rents — much of it ultimately **land rent** via mortgage credit — rather than funding productive investment.
+- ***[Killing the Host](/wiki/hudson-killing-the-host/)*** (2015) argues that the financial sector increasingly extracts rents — much of it ultimately **land rent** via mortgage credit — rather than funding productive investment.
 - **"Finance Capitalism versus Industrial Capitalism"** (2021, *Review of Radical Political Economics*) is the peer-reviewed statement of his thesis.
 - He co-authored the 2021 [super-stimulus paper](/wiki/goodhart-stimulus/) with Goodhart, Kumhof, and Tideman, linking his rent analysis to a concrete land-tax policy proposal.
 

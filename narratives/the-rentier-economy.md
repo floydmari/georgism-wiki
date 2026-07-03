@@ -228,7 +228,8 @@ the wiki; the extensions beyond land are newer and thinner.
 1. Michael Hudson, *Killing the Host: How Financial Parasites and Debt Bondage Destroy
    the Global Economy*, Nation Books / CounterPunch, 2015.
    [Free PDF (CounterPunch)](https://www.counterpunch.org/wp-content/uploads/2015/08/Killing-The-Host_PDF_V7.pdf) ·
-   [Internet Archive](https://archive.org/details/isbn_9780989763752) — used for the
+   [Internet Archive](https://archive.org/details/isbn_9780989763752) ·
+   [wiki summary](/wiki/hudson-killing-the-host/) — used for the
    FIRE-sector rent-extraction thesis (D-claim, attributed).
 2. Charles Goodhart, Michael Hudson, Michael Kumhof & Nicolaus Tideman, "Post-Corona
    Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto Land," CEPR
