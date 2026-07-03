@@ -23,6 +23,7 @@ Hudson connects Georgist land-rent theory to the dynamics of debt and banking, a
 ## See Also
 
 - [Economic Rent](/wiki/economic-rent/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Fred Harrison](/wiki/fred-harrison/)
+- [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the rent-extraction critique he helped shape
 
 ## Sources
 

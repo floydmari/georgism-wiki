@@ -22,6 +22,7 @@ Foldvary connected Georgism to public-choice and libertarian economics, arguing 
 ## See Also
 
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Geolibertarianism](/wiki/geolibertarianism/)
+- [*Public Goods and Private Communities* (1994)](/wiki/foldvary-public-revenue/) — his book on financing public goods from land rent
 
 ## Sources
 

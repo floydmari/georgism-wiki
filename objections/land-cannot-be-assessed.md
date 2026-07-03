@@ -30,6 +30,7 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
+- [Narrative: The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/) — where under-assessment (not evasion) is the real leak
 
 ## Sources
 

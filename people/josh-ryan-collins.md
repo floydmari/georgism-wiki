@@ -23,6 +23,7 @@ Ryan-Collins brings the land-and-credit analysis — close to [Michael Hudson's]
 ## See Also
 
 - [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/) · [Michael Hudson](/wiki/michael-hudson/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/)
+- [*Rethinking the Economics of Land and Housing* (2017)](/wiki/ryan-collins-rethinking-land-housing/) — his book, in depth
 
 ## Sources
 
