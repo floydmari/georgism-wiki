@@ -33,11 +33,13 @@ def _need(mod):
 jwt = _need("jwt"); requests = _need("requests"); html2text = _need("html2text")
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from _secrets import require_ghost   # resolves from env or 1Password (op)
 
 
 def headers():
-    GHOST_ADMIN_KEY = os.environ["GHOST_ADMIN_KEY"]
-    KEY_ID, SECRET = GHOST_ADMIN_KEY.split(":")
+    KEY, _ = require_ghost()
+    KEY_ID, SECRET = KEY.split(":")
     iat = int(time.time())
     token = jwt.encode({"iat": iat, "exp": iat + 300, "aud": "/admin/"},
                        bytes.fromhex(SECRET), algorithm="HS256",
@@ -46,7 +48,8 @@ def headers():
 
 
 def pull(folder, slug):
-    GHOST_URL = os.environ["GHOST_URL"].rstrip("/")
+    _, GHOST_URL = require_ghost()
+    GHOST_URL = GHOST_URL.rstrip("/")
     url = f"{GHOST_URL}/ghost/api/admin/posts/slug/{slug}/?formats=html&include=tags"
     r = requests.get(url, headers=headers())
     if r.status_code != 200:

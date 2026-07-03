@@ -39,8 +39,12 @@ import os, sys, glob, time, jwt, requests
 import frontmatter
 import markdown as md
 
-GHOST_URL = os.environ["GHOST_URL"].rstrip("/")
-KEY_ID, SECRET = os.environ["GHOST_ADMIN_KEY"].split(":")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from _secrets import require_ghost   # resolves from env or 1Password (op)
+
+_KEY, GHOST_URL = require_ghost()
+GHOST_URL = GHOST_URL.rstrip("/")
+KEY_ID, SECRET = _KEY.split(":")
 
 CATEGORY_TAG = {            # folder -> (category tag slug, display name)
     "concepts":      ("wiki-concepts",      "Concepts"),
