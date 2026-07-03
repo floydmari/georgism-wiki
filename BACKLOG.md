@@ -19,6 +19,16 @@ narratives 0→12+, thin→0, claim-level citations→100%, cross-links 3+out/2+
 - [x] [BULK] tier:T3 status:done — sync_to_ghost.py narratives category; .gitignore; narratives/ dir
 - [x] [DESIGN] tier:T1 status:done — LOOP.md tier-aware loop prompt
 
+## Standing rule — Google Sheet mirror of the source registry
+Any task that edits `sources/registry.csv` must sync the master Google Sheet per LOOP.md step 3
+(export via `scripts/export_registry_for_sheet.py`, then Drive snapshot or a loud [SHEET-SYNC] task
+here). Last synced: **2026-07-03** — snapshot "Georgism Wiki — Source Registry (git sync 2026-07-03)"
+created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED from loops 1–7).
+- [ ] [SHEET-SYNC] tier:T3 status:todo — durable write-back: once a Google service-account JSON is
+      in the Emma vault (per the 1Password/op plumbing) and the master Sheet is shared with that
+      service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
+      Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
+
 ## Phase 0 — remaining (needs credentials, not Fable)
 - [ ] [RECONCILE] tier:T3 status:todo — Backfill the 6 Common Wealth Canada pages missing from git
       (common-wealth-canada, natural-common-wealth-economic-rent-canada, british-columbia,

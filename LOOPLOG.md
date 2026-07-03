@@ -89,5 +89,21 @@ Every new page is cited at claim level, cross-linked in both directions, and lin
 `[CITATION NEEDED]`/`[VERIFY]` markers remain where the egress proxy blocked a primary source —
 these are transparent to-dos, not gaps hidden by fabrication.
 
+## Process fixes discovered by running the loops
+
+- **2026-07-03 — Google Sheet mirror went silently stale.** Loops 1–7 correctly updated
+  `sources/registry.csv` in git, but the write-back to the master Google Sheet (the source index
+  Floyd actually reads) never ran: the environment's Drive tooling can create files but cannot edit
+  cells in the existing Sheet, and the loop's "sheet sync pending" log line was invisible. Floyd
+  caught it. Fixes: (1) a dated snapshot spreadsheet with a Δ column was created in Drive
+  ("Georgism Wiki — Source Registry (git sync 2026-07-03)"); (2) `scripts/export_registry_for_sheet.py`
+  now derives the delta mechanically from `git diff` of the registry, so the report can't depend on
+  memory; (3) `LOOP.md` step 3 makes the sheet mirror mandatory-and-loud — every registry-touching
+  iteration must either push a snapshot or add a visible `[SHEET-SYNC]` task to `BACKLOG.md`;
+  (4) a durable in-place write-back via a Sheets-API service account is queued in the backlog.
+  Also caught in the same review: the Ryan-Collins registry row hadn't been flipped to
+  `Scanned` when its page shipped — LOOP.md now states the registry-row flip is part of the same
+  iteration, not a follow-up.
+
 Update this log at the end of each loop (or wave) so the descriptive record stays in step with
 `git log`.

@@ -30,7 +30,16 @@ If you are unsure whether a task needs T1 judgment, leave it for T1.
    `[CITATION NEEDED]` / `[VERIFY]`). New empirical claim ⇒ ensure a `research/` entry exists.
    Create no new orphans (wire ≥2 inbound links). Add every source you use to
    `sources/registry.csv` (Title, Category, Author(s), Status, Wiki Page, Scan Depth,
-   In-Wiki Citations, Year, Tier, Format, URL).
+   In-Wiki Citations, Year, Tier, Format, URL). **When a source's wiki page ships, flip its
+   registry row to Status=Scanned and fill Wiki Page in the same iteration** — a page without
+   its registry row updated is an incomplete task.
+   **Sheet mirror (MANDATORY, never silent):** any iteration that changes `sources/registry.csv`
+   must, before finishing: run `python3 scripts/export_registry_for_sheet.py` and EITHER
+   (a) push the export to Floyd's Google Drive as a dated snapshot spreadsheet (via available
+   Drive/Sheets tooling), OR (b) if no Drive access, append a loud
+   `- [ ] [SHEET-SYNC] tier:T3 status:todo — push registry export to the master Google Sheet
+   (last synced: <date>)` line to `BACKLOG.md`. A log line saying "sync pending" is NOT
+   sufficient — the staleness must be visible in the backlog Floyd reads.
 4. **`[CITE]` tasks** additionally produce the A–E report (revised text · Sources · still-needs-
    citation · softened claims · stronger sources to find) in `reports/<slug>.cite.md`.
 5. **Self-review** against `QUALITY_RUBRIC.md`. T1 adds the adversarial pass: *"what would a
