@@ -187,7 +187,8 @@ values — is among the better-evidenced propositions in the wiki:
   prospective-only version.[2]
 - **Pairing.** Works best alongside the forward-looking fiscal version of the same
   idea (planned narrative `community-creates-land-value`) and, for economist
-  audiences, the efficiency narrative (planned `tax-land-not-labor`): fairness opens
+  audiences, the efficiency narrative
+  ([Tax Land, Not Labor](/wiki/tax-land-not-labor/)): fairness opens
   the door, efficiency closes the argument.
 
 ## See Also
