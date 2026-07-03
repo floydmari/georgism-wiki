@@ -89,6 +89,25 @@ Every new page is cited at claim level, cross-linked in both directions, and lin
 `[CITATION NEEDED]`/`[VERIFY]` markers remain where the egress proxy blocked a primary source —
 these are transparent to-dos, not gaps hidden by fabrication.
 
+## Wave 3 — loops 8–22 (2026-07-03, "deep-scan originals + commonwealth.ca + 18.6-yr cycle")
+
+15 loops run as parallel T2 subagents on disjoint files, orchestrator (T1) reviewing each:
+commits `ad60457`…`a9167c7` + the loop-15 cross-linking commit.
+
+| Loops | What | Files |
+|-------|------|-------|
+| 8–13 (deepen-scans) | Dedicated research pages for Hudson *Killing the Host*, Churchill *The People's Rights*, Mazzucato *Value of Everything*, Autor et al. *Superstar Firms*, Mill *Principles* Book V, Rothbard *Single Tax* | +6 `research/` pages; Scan Depths Light→Medium (Heavy honestly withheld — primary texts proxy-blocked) |
+| 14–15 (George originals) | *The Land Question* (→Heavy) and *Social Problems* deepened in place from thin stubs | 2 rewrites |
+| 16–19 (commonwealth.ca) | Org page, *Natural Common Wealth* flagship report, distributional-impacts study, British Columbia place page — **resolves the CWC git↔Ghost drift with git as master** | +4 pages |
+| 20–21 (18.6-yr cycle) | `research/progress-18-6-year-cycle` + `narratives/land-speculation-causes-cycles` (5th narrative) | +2 pages |
+| 22 | Bulk orphan cross-linking pass | ~25 link edits |
+
+Notable judgment calls the loop made: Autor et al. wired as `challenged_by` on the capital-share
+outcome (first use of the field — the honest-counterweight pattern working); the CWC distributional
+agent **declined** to claim `supports_outcomes: [land-value-tax-can-be-progressive]` because the
+study's raw finding (LVT alone regressive by income, progressive only with the credit design)
+nuances rather than supports it. Net: 146→158+ pages; registry 166→173 rows.
+
 ## Process fixes discovered by running the loops
 
 - **2026-07-03 — Google Sheet mirror went silently stale.** Loops 1–7 correctly updated

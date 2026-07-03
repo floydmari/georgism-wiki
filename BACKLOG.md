@@ -30,24 +30,30 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
 
 ## Deepen-scan queue (Tier ≥ Important currently at Light — per EDITORIAL.md Scan Depth policy)
-- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Churchill, *The People's Rights* (1910, important): mine the
+- [x] [DEEPEN-SCAN] tier:T2 status:done — ALL SIX below completed 2026-07-03 (wave 3): dedicated
+      research/ pages created, Scan Depths →Medium (Heavy withheld pending primary-text access —
+      the egress proxy blanket-blocks WebFetch; queue Heavy re-passes when access improves).
+- [x] [DEEPEN-SCAN] tier:T2 status:done — Churchill, *The People's Rights* (1910, important): mine the
       land-monopoly chapters beyond the one Edinburgh quote; candidate dedicated research/ page.
-- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Hudson, *Killing the Host* (2015, important): NOTE master
+- [x] [DEEPEN-SCAN] tier:T2 status:done — Hudson, *Killing the Host* (2015, important): NOTE master
       Sheet already records this Heavy via people/michael-hudson — reconcile first, then mine the
       rent/financialization argument into the-rentier-economy + a dedicated research/ page.
-- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Mazzucato, *The Value of Everything* (2018, important):
+- [x] [DEEPEN-SCAN] tier:T2 status:done — Mazzucato, *The Value of Everything* (2018, important):
       value-extraction vs value-creation framework; dedicated research/ page.
-- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Autor et al., *Fall of the Labor Share* (2020, important):
+- [x] [DEEPEN-SCAN] tier:T2 status:done — Autor et al., *Fall of the Labor Share* (2020, important):
       superstar-firms mechanism vs land-rent explanation; strengthens the-rentier-economy honesty section.
-- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Mill, *Principles of Political Economy* (1848, core):
+- [x] [DEEPEN-SCAN] tier:T2 status:done — Mill, *Principles of Political Economy* (1848, core):
       Book V land-taxation chapters beyond the one §5 quote; candidate research/ page.
-- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Rothbard, *The Single Tax* (1957, important): mine the full
+- [x] [DEEPEN-SCAN] tier:T2 status:done — Rothbard, *The Single Tax* (1957, important): mine the full
       critique into objections/lvt-austrian-critique (currently cites it only indirectly).
       (Friedman 1978 symposium stays Light — a two-paragraph remark, fully extracted.)
 
 - [ ] [DEEPEN-SCAN] tier:T2 status:todo — George, *Social Problems* follow-up: chapter-by-chapter
       mine of the remaining ~17 chapters once direct primary-text access is available (current pass
       covered 4 chapters via search corroboration; Core tier targets Heavy).
+
+- [ ] [DRAFT] tier:T2 status:todo — objections: "cycles are chiefly monetary/credit, not land" —
+      the counter-position page the cycles narrative flags as missing (Borio/BIS as steelman source).
 
 ## Registry ↔ master Sheet reconciliation
 - [ ] [RECONCILE] tier:T3 status:todo — Merge the master Google Sheet's per-source rows into
@@ -57,7 +63,12 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       One-time import keyed by Title; keep the Sheet's Scan Depth/Status where richer.
 
 ## Phase 0 — remaining (needs credentials, not Fable)
-- [ ] [RECONCILE] tier:T3 status:todo — Backfill the 6 Common Wealth Canada pages missing from git
+- [x] [RECONCILE] tier:T3 status:done — CWC drift RESOLVED 2026-07-03 by fresh git-master authorship
+      (wave 3): common-wealth-canada, natural-common-wealth-economic-rent-canada, british-columbia,
+      cwc-distributional-impacts-lvt created; common-wealth-fund + price-reaction covered within the
+      org/report pages (create dedicated pages only if needed). NOTE: if the live Ghost versions
+      contain material beyond these, a credentialed pull_from_ghost.py diff can merge later.
+- [ ] [RECONCILE-superseded] (original task, kept for record) — Backfill the 6 Common Wealth Canada pages missing from git
       (common-wealth-canada, natural-common-wealth-economic-rent-canada, british-columbia,
       cwc-distributional-impacts-lvt, cwc-lvt-price-reaction-model, common-wealth-fund) via
       `scripts/pull_from_ghost.py` once GHOST_ADMIN_KEY is set; then review frontmatter/citations,
