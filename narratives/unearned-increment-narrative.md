@@ -216,7 +216,8 @@ values — is among the better-evidenced propositions in the wiki:
    values" proposal, and his reply to the purchaser argument (A/C-claims).
 4. Winston Churchill, speech at the King's Theatre, Edinburgh, 17 July 1909, reprinted
    in *The People's Rights*, Hodder & Stoughton, 1910.
-   [Full text (Internet Archive)](https://archive.org/details/peoplesrights00chur) —
+   [Full text (Internet Archive)](https://archive.org/details/peoplesrights00chur) ·
+   [wiki summary](/wiki/churchill-peoples-rights/) —
    used for the "landlord sits still" quotation (A-claim; quotation trimmed to under
    50 words).
 5. David Lloyd George, Limehouse speech, 30 July 1909.

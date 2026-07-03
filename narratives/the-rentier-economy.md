@@ -239,7 +239,8 @@ the wiki; the extensions beyond land are newer and thinner.
    (C/B-claims); see also [wiki summary](/wiki/goodhart-stimulus/).
 3. Mariana Mazzucato, *The Value of Everything: Making and Taking in the Global
    Economy*, PublicAffairs, 2018. No open-access edition located; publisher page:
-   [PublicAffairs](https://www.hachettebookgroup.com/titles/mariana-mazzucato/the-value-of-everything/9781610397308/) —
+   [PublicAffairs](https://www.hachettebookgroup.com/titles/mariana-mazzucato/the-value-of-everything/9781610397308/) ·
+   [wiki summary](/wiki/mazzucato-value-of-everything/) —
    used for the value-creation/value-extraction distinction (D-claim, attributed).
 4. Mariana Mazzucato, Josh Ryan-Collins & Giorgos Gouzoulis, "Mapping modern economic
    rents," *Cambridge Journal of Economics*, 2023.
@@ -289,6 +290,7 @@ the wiki; the extensions beyond land are newer and thinner.
 14. David Autor, David Dorn, Lawrence Katz, Christina Patterson & John Van Reenen,
     "The Fall of the Labor Share and the Rise of Superstar Firms," *Quarterly Journal
     of Economics* 135(2), 2020; NBER Working Paper 23396.
+    [wiki summary](/wiki/autor-superstar-firms/) ·
     [NBER page](https://www.nber.org/papers/w23396) (working-paper PDF access may
     require NBER registration) — used as the strongest available competing
     explanation of the same aggregate trend (E-claim, the objection this narrative

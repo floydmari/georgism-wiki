@@ -27,4 +27,4 @@ Although the land value duties themselves were complex, under-yielding, and late
 ## Sources
 
 1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
-2. Winston Churchill's 1909 speeches in support of the land duties (the "land monopolist" passages).
+2. Winston Churchill's 1909 speeches in support of the land duties (the "land monopolist" passages), collected in *The People's Rights* — [wiki summary](/wiki/churchill-peoples-rights/).

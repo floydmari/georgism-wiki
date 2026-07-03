@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, revenue-sufficiency, atcor, land-rent]
 stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"
-supported_by: [gaffney-hidden-taxable-capacity, mirrlees-review]
+supported_by: [gaffney-hidden-taxable-capacity, mirrlees-review, natural-common-wealth-economic-rent-canada]
 excerpt: "Estimates of total land rent suggest it could fund a substantial fraction — by some accounts most — of government, though figures are sensitive to assumptions."
 ---
 

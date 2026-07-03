@@ -57,10 +57,11 @@ D-claim — this is Churchill's argument, not a demonstrated economic finding):
 - **The unearned-increment mechanism.** Churchill's fullest statement of the mechanism: "Roads
   are made, streets are made, services are improved, electric light turns night into day, water
   is brought from reservoirs a hundred miles off in the mountains — and all the while the
-  landlord sits still. […] To not one of those improvements does the land monopolist, as a land
-  monopolist, contribute, and yet by every one of them the value of his land is enhanced."[2] He
-  drew the inference explicitly: "The unearned increment on the land is reaped by the land
-  monopolist in exact proportion, not to the service, but to the disservice done."[3] This is the
+  landlord sits still."[2] The sentence continues (paraphrased rather than quoted directly, to
+  stay within the per-quotation word limit): none of those improvements is contributed by the
+  land monopolist as such, yet every one of them raises the value of his land. He drew the
+  inference explicitly: "The unearned increment on the land is reaped by the land monopolist in
+  exact proportion, not to the service, but to the disservice done."[3] This is the
   same historical passage already cited on the [unearned increment
   narrative](/wiki/unearned-increment-narrative/) page; it is repeated here because it is the
   book's central argument, not a peripheral remark.

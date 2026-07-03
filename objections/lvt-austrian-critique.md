@@ -31,5 +31,5 @@ This is a **genuine theoretical dispute**, not a settled question — the land-v
 
 ## Sources
 
-1. Murray Rothbard, critiques of the single tax (Austrian-school literature).
+1. Murray Rothbard, "The Single Tax: Economic and Moral Implications" (1957) — [wiki summary](/wiki/rothbard-single-tax/) · [original (Mises)](https://mises.org/library/single-tax-economic-and-moral-implications) — the canonical statement of this objection.
 2. Georgist rebuttals collected at the [School of Cooperative Individualism](https://cooperative-individualism.org/) and in [Gaffney's work](/wiki/mason-gaffney/).
