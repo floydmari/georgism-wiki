@@ -119,6 +119,7 @@ def upsert(path):
 def main():
     targets = sys.argv[1:] or [
         p for folder in CATEGORY_TAG for p in glob.glob(f"{folder}/*.md")
+        if not os.path.basename(p).startswith("_")   # _-prefixed = internal, never published
     ]
     print(f"Syncing {len(targets)} entr{'y' if len(targets)==1 else 'ies'} to {GHOST_URL}")
     for path in targets:

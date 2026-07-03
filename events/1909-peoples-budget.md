@@ -22,6 +22,7 @@ Although the land value duties themselves were complex, under-yielding, and late
 ## See Also
 
 - [Single Tax](/wiki/single-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/)
+- [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the argument this budget was built on
 
 ## Sources
 

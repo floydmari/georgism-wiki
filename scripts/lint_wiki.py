@@ -105,6 +105,8 @@ def load_all():
     for cat in CATEGORIES:
         for path in glob.glob(os.path.join(ROOT, cat, "*.md")):
             slug = os.path.splitext(os.path.basename(path))[0]
+            if slug.startswith("_"):
+                continue                       # _-prefixed = internal design doc, not an article
             text = open(path, encoding="utf-8").read()
             meta, body = parse_frontmatter(text)
             rel = os.path.relpath(path, ROOT)

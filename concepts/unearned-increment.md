@@ -30,6 +30,7 @@ Winston Churchill made a memorable version of this argument in a 1909 speech: *"
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response
 - [Henry George](/wiki/henry-george/) — who built his case on the unearned increment
 - [Land Monopoly](/wiki/land-monopoly/) — the structural condition that enables it
+- [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — how this argument is used to persuade, from Mill to Churchill to today
 
 ## Sources
 
