@@ -24,6 +24,7 @@ See [AI Editor Instructions](https://www.notion.so/AI-Editor-Instructions-How-to
 - **[`EDITORIAL.md`](EDITORIAL.md)** — the constitution: claim taxonomy, citation & evidence rules, source-quality hierarchy, per-category templates, publishing rules. Read this first.
 - **[`QUALITY_RUBRIC.md`](QUALITY_RUBRIC.md)** — the 6-dimension scoring rubric.
 - **[`LOOP.md`](LOOP.md)** — the tiered improvement loop any model runs (T1 Fable / T2 Sonnet / T3 Flash-Haiku).
+- **[`LOOPLOG.md`](LOOPLOG.md)** — the descriptive record of what each loop actually changed (the history behind `LOOP.md`).
 - **[`BACKLOG.md`](BACKLOG.md)** — the prioritized task queue and persistent memory.
 - **`sources/registry.csv`** — the source register (mirror of the master Google Sheet). Regenerate/seed with `python3 scripts/seed_registry.py`.
 
