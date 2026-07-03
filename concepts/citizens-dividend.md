@@ -20,6 +20,8 @@ The **Alaska Permanent Fund Dividend** is the closest large-scale implementation
 
 ## See Also
 
+- [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — evidence a permanent dividend does not reduce aggregate employment
+
 - [Economic Rent](/wiki/economic-rent/) · [Georgism](/wiki/georgism/) · [Land Value Tax](/wiki/land-value-tax/)
 
 ## Sources
