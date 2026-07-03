@@ -100,7 +100,7 @@ commits `ad60457`…`a9167c7` + the loop-15 cross-linking commit.
 | 14–15 (George originals) | *The Land Question* (→Heavy) and *Social Problems* deepened in place from thin stubs | 2 rewrites |
 | 16–19 (commonwealth.ca) | Org page, *Natural Common Wealth* flagship report, distributional-impacts study, British Columbia place page — **resolves the CWC git↔Ghost drift with git as master** | +4 pages |
 | 20–21 (18.6-yr cycle) | `research/progress-18-6-year-cycle` + `narratives/land-speculation-causes-cycles` (5th narrative) | +2 pages |
-| 22 | Bulk orphan cross-linking pass | ~25 link edits |
+| 22 | Bulk orphan cross-linking pass — **orphans 24 → 0**, warnings 319→290, incl. one pre-existing mislabeled-link fix (ebenezer-howard) | 28 files, link edits only |
 
 Notable judgment calls the loop made: Autor et al. wired as `challenged_by` on the capital-share
 outcome (first use of the field — the honest-counterweight pattern working); the CWC distributional

@@ -18,6 +18,13 @@ This essay from the *Progress and Poverty* Substack compiles the surprising brea
 
 It assembles endorsements and supporting work from across the spectrum: [Joseph Stiglitz](/wiki/joseph-stiglitz/) (Henry George Theorem), [William Vickrey](/wiki/william-vickrey/), [Milton Friedman](/wiki/milton-friedman/) ("least bad tax"), and others, alongside the modern empirical literature ([Rognlie](/wiki/rognlie-capital-share/), [Bonnet et al.](/wiki/bonnet-land-is-back/), IMF work). The cumulative point: the core Georgist claims about land's efficiency and equity as a tax base are not heterodox — they are quietly held across mainstream economics.
 
+Blogger-economist [Noah Smith's essays](/wiki/noah-smith-on-georgism/) make a related but distinct case: not just that respected economists agree, but how to sell the idea to a broader, non-academic audience.
+
+## See Also
+
+- [Noah Smith on Georgism](/wiki/noah-smith-on-georgism/) — the popularisation and political-economy counterpart to this survey
+- [LVT research priorities for 2025 and beyond](/wiki/lvt-research-priorities-2025/) — the same publisher's map of what remains to be established
+
 ## Sources
 
 1. "The Modern Georgism of Respected Economists," *Progress and Poverty Substack*. [Article](https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected)

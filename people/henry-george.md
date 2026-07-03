@@ -24,7 +24,7 @@ George's ideas attracted a mass following. He ran for mayor of New York City in 
 
 ## Influence
 
-George's influence crossed ideological lines in ways unusual for any single thinker. Tolstoy called him one of the greatest social philosophers of the century. Sun Yat-sen acknowledged George's influence on the land policy of the Republic of China. George Bernard Shaw credited George with turning him toward socialism. Economists from Alfred Marshall to Milton Friedman (who called LVT "the least bad tax") have engaged seriously with his work. The Henry George Foundation, the Lincoln Institute of Land Policy, and numerous policy institutes worldwide continue to develop his ideas.
+George's influence crossed ideological lines in ways unusual for any single thinker. [Leo Tolstoy](/wiki/leo-tolstoy/) called him one of the greatest social philosophers of the century. [Sun Yat-sen](/wiki/sun-yat-sen/) acknowledged George's influence on the land policy of the Republic of China. George Bernard Shaw credited George with turning him toward socialism. Economists from Alfred Marshall to Milton Friedman (who called LVT "the least bad tax") have engaged seriously with his work. The Henry George Foundation, the Lincoln Institute of Land Policy, and numerous policy institutes worldwide continue to develop his ideas.
 
 ## See Also
 
@@ -33,6 +33,8 @@ George's influence crossed ideological lines in ways unusual for any single thin
 - [Georgism](/wiki/georgism/) — the political-economic movement built on George's ideas
 - [Single Tax](/wiki/single-tax/) — George's specific policy prescription
 - [The Land Question](/wiki/the-land-question/) (1881) · [Social Problems](/wiki/social-problems/) (1883) — his other major works, in depth
+- [The Science of Political Economy](/wiki/science-of-political-economy/) (1898) · [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) (1892) — his late theoretical and philosophical treatises
+- [Protection or Free Trade](/wiki/protection-or-free-trade/) (1886) — his free-trade case, the first book read in full into the US Congressional Record
 
 ## Sources
 

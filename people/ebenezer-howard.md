@@ -16,7 +16,7 @@ Howard's key insight was financial as much as spatial: a garden city would hold 
 
 ## Legacy
 
-Howard founded Letchworth (1903) and Welwyn Garden City (1920) on these principles. His model directly influenced 20th-century planning and the [community land trust](/wiki/land-value-capture/) movement, demonstrating Georgist land economics at the scale of a whole town.
+Howard founded Letchworth (1903) and Welwyn Garden City (1920) on these principles. His model directly influenced 20th-century planning and the [community land trust](/wiki/community-land-trust/) movement, demonstrating Georgist land economics at the scale of a whole town.
 
 ## See Also
 

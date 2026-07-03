@@ -21,6 +21,7 @@ The system is most associated with **Pennsylvania**, where state law permits mun
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) · [Pittsburgh](/wiki/pittsburgh/)
+- [Detroit Land Value Tax Proposal (2023–24)](/wiki/detroit-lvt-proposal/) — a recent attempt to bring split-rate taxation to a major US city outside Pennsylvania
 
 ## Sources
 

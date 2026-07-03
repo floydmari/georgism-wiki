@@ -14,7 +14,7 @@ The **International Union for Land Value Taxation** (the IU), founded in **1926*
 
 ## Role
 
-The IU holds international conferences, publishes on land and tax policy, and represents the land-value-taxation movement in international forums (including consultative status at the United Nations). It serves as the connective tissue among the many national bodies — [Prosper Australia](/wiki/prosper-australia/), the [Henry George Foundation](/wiki/schalkenbach-foundation/) tradition, and others — sustaining Georgism as a global rather than purely national project.
+The IU holds international conferences, publishes on land and tax policy, and represents the land-value-taxation movement in international forums (including consultative status at the United Nations). It serves as the connective tissue among the many national bodies — [Prosper Australia](/wiki/prosper-australia/), [Common Ground USA](/wiki/common-ground-usa/), the [Henry George Foundation](/wiki/schalkenbach-foundation/) tradition, and others — sustaining Georgism as a global rather than purely national project.
 
 ## Significance
 

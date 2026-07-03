@@ -24,6 +24,10 @@ The **[Alaska Permanent Fund](/wiki/alaska-permanent-fund/)** has, since 1982, p
 
 Alaska is the closest large-scale, long-running proof of concept for the Georgist idea that the rent of [natural resources](/wiki/resource-rents/) belongs to all and can be returned directly to citizens.
 
+## Caveats
+
+Not every resource-rent windfall behaves like Alaska's transparent, per-capita dividend. [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that in Colombia, municipalities receiving large resource-rent transfers show *weaker* local tax effort and accountability — a local "resource curse" that cuts the other way. The lesson is that *how* rent is captured and distributed (transparent, equal, direct dividend vs. opaque government transfer) matters as much as the fact of capture itself.
+
 ## See Also
 
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Resource Rents](/wiki/resource-rents/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)

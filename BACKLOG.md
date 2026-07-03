@@ -22,7 +22,7 @@ narratives 0→12+, thin→0, claim-level citations→100%, cross-links 3+out/2+
 ## Standing rule — Google Sheet mirror of the source registry
 Any task that edits `sources/registry.csv` must sync the master Google Sheet per LOOP.md step 3
 (export via `scripts/export_registry_for_sheet.py`, then Drive snapshot or a loud [SHEET-SYNC] task
-here). Last synced: **2026-07-03** — snapshot "Georgism Wiki — Source Registry (git sync 2026-07-03)"
+here). Last synced: **2026-07-03 (wave 3 delta pushed same day)** — full snapshot "Georgism Wiki — Source Registry (git sync 2026-07-03)" + delta sheet "Wave 3 delta"
 created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED from loops 1–7).
 - [ ] [SHEET-SYNC] tier:T3 status:todo — durable write-back: once a Google service-account JSON is
       in the Emma vault (per the 1Password/op plumbing) and the master Sheet is shared with that

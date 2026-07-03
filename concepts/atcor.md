@@ -41,3 +41,4 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 1. Mason Gaffney — collected work on ATCOR and land's taxable capacity. [Free archive](https://masongaffney.org/publications.html)
 2. Fred Harrison (2006), *Ricardo's Law: House Prices and the Great Tax Clawback Scam*. [Share The Rents](https://sharetherents.org/publications/)
 3. Related: [The Hidden Taxable Capacity of Land — wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
+4. Henry George (1886), *Protection or Free Trade* — [wiki summary](/wiki/protection-or-free-trade/), used for George's own early statement of the logic later called ATCOR.

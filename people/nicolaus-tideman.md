@@ -29,5 +29,5 @@ Tideman bridges the Georgist tradition and rigorous modern economics — he is t
 
 1. Plassmann & Tideman (2000), *Journal of Urban Economics* — [wiki summary](/wiki/plassmann-tideman-construction/)
 2. Nicolaus Tideman et al. (1994), *Land and Taxation* (book).
-3b. Tideman & Plassmann (2008), "Providing Incentives for Efficient Land Assembly" — [wiki summary](/wiki/tideman-plassmann-land-assembly/)
-3. Goodhart, Hudson, Kumhof & Tideman (2021), "Post-Corona Balanced-Budget Super-Stimulus" — [wiki summary](/wiki/goodhart-stimulus/)
+3. Tideman & Plassmann (2008), "Providing Incentives for Efficient Land Assembly" — [wiki summary](/wiki/tideman-plassmann-land-assembly/)
+4. Goodhart, Hudson, Kumhof & Tideman (2021), "Post-Corona Balanced-Budget Super-Stimulus" — [wiki summary](/wiki/goodhart-stimulus/)

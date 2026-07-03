@@ -25,6 +25,7 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 ## See Also
 
 - [Unearned Increment](/wiki/unearned-increment/) · [Taiwan](/wiki/taiwan/) · [Singapore](/wiki/singapore/)
+- [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — the empirical basis LVC mechanisms recover
 
 ## Sources
 

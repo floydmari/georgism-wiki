@@ -16,7 +16,7 @@ COST is a generalisation of the Georgist idea: it captures the holding value of 
 
 ## Origins and Reception
 
-Named after economist Arnold Harberger, the mechanism was popularised by Eric Posner and Glen Weyl in *Radical Markets* (2018). It has been influential in technology and crypto circles — Ethereum's Vitalik Buterin endorsed it as a tool for property and digital-asset reform.
+Named after economist Arnold Harberger, the mechanism was popularised by Eric Posner and Glen Weyl in *Radical Markets* (2018). It has been influential in technology and crypto circles — Ethereum's [Vitalik Buterin endorsed it](/wiki/buterin-on-radical-markets/) as a tool for property and digital-asset reform.
 
 ## See Also
 
@@ -25,4 +25,4 @@ Named after economist Arnold Harberger, the mechanism was popularised by Eric Po
 ## Sources
 
 1. Eric Posner & Glen Weyl (2018), *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*, Princeton University Press. [Publisher](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)
-2. Vitalik Buterin (2018), "On Radical Markets." [Essay](https://vitalik.eth.limo/general/2018/04/20/radical_markets.html)
+2. Vitalik Buterin (2018), "On Radical Markets" — [wiki summary](/wiki/buterin-on-radical-markets/). [Essay](https://vitalik.eth.limo/general/2018/04/20/radical_markets.html)
