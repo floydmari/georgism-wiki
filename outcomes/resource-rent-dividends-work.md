@@ -6,6 +6,7 @@ stub: false
 evidence_strength: "Strong (decades of real-world operation)"
 supported_by: []
 excerpt: "Alaska's decades-long Permanent Fund Dividend shows that capturing natural-resource rent and distributing it as a citizen's dividend is administratively and politically durable."
+challenged_by: [martinez-colombia-resource-rents]
 ---
 
 ## The Claim

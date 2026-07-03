@@ -230,6 +230,20 @@ def main():
         if slug not in linked_to:
             warn(p["path"], "orphan — not linked from any other page")
 
+    # evidence-coverage gauge: every outcome should have >= 5 supporting research pages
+    goal, met = 5, 0
+    coverage = []
+    for slug, p in sorted(pages.items()):
+        if p["folder"] != "outcomes":
+            continue
+        n = len(aslist(p["meta"].get("supported_by")))
+        met += n >= goal
+        coverage.append(f"  {'✓' if n >= goal else '·'} {n}/{goal}  {slug}")
+    if coverage:
+        n_out = len(coverage)
+        warnings.append(f"COVERAGE: {met}/{n_out} outcomes have >= {goal} supporting papers\n"
+                        + "\n".join(coverage))
+
     # report
     for w in warnings: print(w)
     for e in errors: print(e)

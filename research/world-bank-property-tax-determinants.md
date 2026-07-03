@@ -8,6 +8,7 @@ source_url: https://documents1.worldbank.org/curated/en/360151600192574693/pdf/D
 tier: important
 stub: false
 excerpt: "A cross-country analysis of property-tax revenue performance across 128 countries, identifying what drives successful property and land taxation."
+supports_outcomes: [property-tax-raises-welfare-developing]
 ---
 
 ## Summary

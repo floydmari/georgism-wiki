@@ -8,6 +8,7 @@ source_url: https://www.nber.org/
 tier: core
 stub: false
 excerpt: "The 1977 Joseph Stiglitz paper that coined the 'Henry George Theorem' — showing that under optimal conditions, land rents exactly fund optimal public-goods spending."
+supports_outcomes: [public-goods-fundable-from-land-rent]
 ---
 
 ## Summary

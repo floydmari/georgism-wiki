@@ -29,6 +29,79 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
       Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
 
+## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
+Standard task file: `tasks/research-page-task.md`. Format: slug — Author Year *Title* (tier) → supports_outcomes.
+Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
+**Capitalization** (→ public-investment-capitalizes-into-land):
+- [ ] [DRAFT] tier:T2 — oates-1969-capitalization — Oates 1969 (core)
+- [ ] [DRAFT] tier:T2 — gibbons-machin-rail-access — Gibbons & Machin 2005 (important)
+- [ ] [DRAFT] tier:T2 — mohammad-rail-meta-analysis — Mohammad et al. 2013 (important)
+- [ ] [DRAFT] tier:T2 — albouy-what-are-cities-worth — Albouy 2016 (core; also land-rent-could-fund-government)
+- [ ] [DRAFT] tier:T2 — davis-heathcote-us-land — Davis & Heathcote 2007 (important)
+**Land value scale** (→ land-rent-could-fund-government):
+- [ ] [DRAFT] tier:T2 — larson-us-land-value — Larson 2015 BEA (core)
+- [ ] [DRAFT] tier:T2 — albouy-ehrlich-shin-metro-land — Albouy, Ehrlich & Shin 2018 (important)
+**Capital share** (→ capital-share-rise-is-land):
+- [ ] [DRAFT] tier:T2 — knoll-schularick-steger-house-prices — Knoll et al. 2017 AER (core)
+- [ ] [DRAFT] tier:T2 — la-cava-housing-capital-share — La Cava 2016 (important)
+- [ ] [DRAFT] tier:T2 — piketty-capital-21st-century — Piketty 2014 (core; context for Rognlie)
+- [ ] [DRAFT] tier:T2 — barkai-declining-shares — Barkai 2020 (important; also challenged_by on capital-share + supports corporate-profits-increasingly-rents)
+**Efficiency** (→ lvt-can-replace-capital-taxes-without-efficiency-loss):
+- [ ] [DRAFT] tier:T2 — oecd-taxation-economic-growth — Johansson et al. 2008 (core)
+- [ ] [DRAFT] tier:T2 — arnold-tax-growth-ej — Arnold et al. 2011 EJ (important)
+- [ ] [DRAFT] tier:T2 — brueckner-site-value-taxation — Brueckner 1986 (core)
+**Construction/split-rate** (→ split-rate-increases-construction):
+- [ ] [DRAFT] tier:T2 — banzhaf-lavery-pa-sprawl — Banzhaf & Lavery 2010 (important; also anti-sprawl)
+- [ ] [DRAFT] tier:T2 — gemmell-grimes-skidmore-nz — Gemmell, Grimes & Skidmore 2019 (important)
+- [ ] [DRAFT] tier:T2 — yang-split-rate-tax-base — Yang 2018/2021 Lincoln (important; registry row exists)
+**Affordability** (→ lvt-improves-housing-affordability):
+- [ ] [DRAFT] tier:T2 — saiz-housing-supply-elasticity — Saiz 2010 (core)
+- [ ] [DRAFT] tier:T2 — glaeser-gyourko-housing-supply — Glaeser & Gyourko 2018 JEP (core)
+- [ ] [DRAFT] tier:T2 — hilber-vermeulen-england-supply — Hilber & Vermeulen 2016 (important)
+**Productivity** (→ high-land-rents-suppress-productivity):
+- [ ] [DRAFT] tier:T2 — hsieh-moretti-spatial-misallocation — Hsieh & Moretti 2019 (core)
+- [ ] [DRAFT] tier:T2 — duranton-puga-urban-growth — Duranton & Puga 2020 (important)
+**Incidence** (→ landlords-cannot-pass-lvt-to-tenants):
+- [ ] [DRAFT] tier:T2 — mieszkowski-property-tax-incidence — Mieszkowski 1972 (core)
+- [ ] [DRAFT] tier:T2 — zodrow-three-views — Zodrow 2001 (important)
+- [ ] [DRAFT] tier:T2 — hamilton-benefit-tax — Hamilton 1976 (important; challenged_by — benefit-view counter-tradition)
+- [ ] [DRAFT] tier:T2 — palmon-smith-capitalization — Palmon & Smith 1998 (important)
+**Speculation/cycles** (→ lvt-dampens-land-speculation):
+- [ ] [DRAFT] tier:T2 — hoyt-chicago-land-values — Hoyt 1933 (important; registry row exists)
+- [ ] [DRAFT] tier:T2 — foldvary-business-cycle-synthesis — Foldvary 1997 AJES (important; registry row exists)
+- [ ] [DRAFT] tier:T2 — cunningham-seattle-options — Cunningham 2006 (important)
+- [ ] [DRAFT] tier:T2 — glaeser-real-estate-bubbles — Glaeser 2017 (important)
+- [ ] [DRAFT] tier:T2 — case-shiller-2003-bubble — Case & Shiller 2003 (important)
+**HGT/public goods** (→ public-goods-fundable-from-land-rent):
+- [ ] [DRAFT] tier:T2 — arnott-hgt-practical-guide — Arnott 2004 (important)
+- [ ] [DRAFT] tier:T2 — kanemoto-hgt-cite — best verified Kanemoto/second HGT empirical cite (agent verifies)
+**Progressivity** (→ land-value-tax-can-be-progressive):
+- [ ] [DRAFT] tier:T2 — plummer-lvt-distribution — Plummer 2010 (important)
+- [ ] [DRAFT] tier:T2 — bowman-bell-lvt-distribution — Bowman & Bell (agent verifies best cite)
+**Developing world** (→ property-tax-raises-welfare-developing):
+- [ ] [DRAFT] tier:T2 — world-bank-changing-wealth — World Bank 2021 Changing Wealth of Nations (important)
+**Resource dividends** (→ resource-rent-dividends-work):
+- [ ] [DRAFT] tier:T2 — jones-marinescu-alaska-pfd — Jones & Marinescu 2022 AEJ (core)
+- [ ] [DRAFT] tier:T2 — widerquist-howard-pfd — Widerquist & Howard 2012 (important)
+- [ ] [DRAFT] tier:T2 — hartwick-rule — Hartwick 1977 (core)
+- [ ] [DRAFT] tier:T2 — segal-resource-dividend — Segal 2011 (important; also developing-world)
+**Tech/corporate rents** (→ NEW outcome corporate-profits-increasingly-rents + rentier narrative):
+- [ ] [JUDGE] tier:T1 — outcomes/corporate-profits-increasingly-rents.md — new outcome page (T1 writes; evidence_strength calibrated)
+- [ ] [DRAFT] tier:T2 — de-loecker-eeckhout-unger-markups — De Loecker, Eeckhout & Unger 2020 QJE (core)
+- [ ] [DRAFT] tier:T2 — furman-orszag-firm-rents — Furman & Orszag 2015 (important)
+- [ ] [DRAFT] tier:T2 — bessen-regulatory-rents — Bessen 2016 (important)
+- [ ] [DRAFT] tier:T2 — philippon-great-reversal — Philippon 2019 (important)
+- [ ] [DRAFT] tier:T2 — crouzet-eberly-intangibles — Crouzet & Eberly 2019 (important; challenged_by side)
+- [ ] [DRAFT] tier:T2 — korinek-ng-digital-superstars — Korinek & Ng (important)
+- [ ] [DRAFT] tier:T2 — haskel-westlake-capitalism-without-capital — Haskel & Westlake 2017 (important)
+- [ ] [DRAFT] tier:T2 — zingales-political-theory-firm — Zingales 2017 (important)
+- [ ] [DRAFT] tier:T2 — akcigit-ates-business-dynamism — Akcigit & Ates 2021 (important)
+- [ ] [DRAFT] tier:T2 — eeckhout-profit-paradox — Eeckhout 2021 (important)
+- [ ] [DRAFT] tier:T2 — rochet-tirole-two-sided — Rochet & Tirole 2003 (important)
+- [ ] [DRAFT] tier:T2 — data-as-labor — Arrieta-Ibarra et al. 2018 (supplementary)
+- [ ] [DRAFT] tier:T2 — hazlett-spectrum-rents — Hazlett spectrum property rights (supplementary)
+- [ ] [DRAFT] tier:T2 — cea-2016-market-power — CEA 2016 brief (supplementary)
+
 ## Deepen-scan queue (Tier ≥ Important currently at Light — per EDITORIAL.md Scan Depth policy)
 - [x] [DEEPEN-SCAN] tier:T2 status:done — ALL SIX below completed 2026-07-03 (wave 3): dedicated
       research/ pages created, Scan Depths →Medium (Heavy withheld pending primary-text access —

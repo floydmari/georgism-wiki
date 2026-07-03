@@ -9,6 +9,7 @@ source_url: https://commonwealth.ca/research/distributional-impacts
 stub: false
 excerpt: "A Common Wealth Canada modelling exercise on a national land value tax coupled with income-tax reform: LVT alone looks regressive by income decile, but a large flat refundable credit reverses this for most households."
 last_reviewed: 2026-07-03
+supports_outcomes: [land-value-tax-can-be-progressive]
 ---
 
 ## Summary
