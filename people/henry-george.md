@@ -32,6 +32,7 @@ George's influence crossed ideological lines in ways unusual for any single thin
 - [Land Value Tax](/wiki/land-value-tax/) — the policy at the centre of George's programme
 - [Georgism](/wiki/georgism/) — the political-economic movement built on George's ideas
 - [Single Tax](/wiki/single-tax/) — George's specific policy prescription
+- [The Land Question](/wiki/the-land-question/) (1881) · [Social Problems](/wiki/social-problems/) (1883) — his other major works, in depth
 
 ## Sources
 

@@ -8,7 +8,7 @@ excerpt: "Industrialist-turned-reformer who, converted by Henry George's writing
 
 ## Overview
 
-Tom L. Johnson (1854–1911) was an American businessman who made a fortune in street railways, then — after reading Henry George's *Social Problems* and *[Progress and Poverty](/wiki/progress-and-poverty/)* — devoted his career to Georgist reform. He is remembered as one of the most effective reform mayors in US history.
+Tom L. Johnson (1854–1911) was an American businessman who made a fortune in street railways, then — after reading Henry George's *[Social Problems](/wiki/social-problems/)* and *[Progress and Poverty](/wiki/progress-and-poverty/)* — devoted his career to Georgist reform. He is remembered as one of the most effective reform mayors in US history.
 
 ## Career
 

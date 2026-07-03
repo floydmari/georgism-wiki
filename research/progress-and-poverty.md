@@ -37,6 +37,8 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 - [Land Value Tax](/wiki/land-value-tax/) — the policy George proposes
 - [Economic Rent](/wiki/economic-rent/) — the theoretical foundation
 - [Mason Gaffney](/wiki/mason-gaffney/) — who documented the suppression of Georgist economics
+- [The Land Question](/wiki/the-land-question/) — the theory applied to the Irish Land War
+- [Social Problems](/wiki/social-problems/) — George's popular companion statement
 
 ## Sources
 

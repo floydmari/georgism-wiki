@@ -45,6 +45,10 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       critique into objections/lvt-austrian-critique (currently cites it only indirectly).
       (Friedman 1978 symposium stays Light — a two-paragraph remark, fully extracted.)
 
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — George, *Social Problems* follow-up: chapter-by-chapter
+      mine of the remaining ~17 chapters once direct primary-text access is available (current pass
+      covered 4 chapters via search corroboration; Core tier targets Heavy).
+
 ## Registry ↔ master Sheet reconciliation
 - [ ] [RECONCILE] tier:T3 status:todo — Merge the master Google Sheet's per-source rows into
       sources/registry.csv: the registry was seeded from repo frontmatter + a curated list, so some
