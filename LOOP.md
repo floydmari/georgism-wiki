@@ -17,6 +17,15 @@ Each `BACKLOG.md` task is tagged `tier:T1|T2|T3`. Only pick tasks matching your 
 
 If you are unsure whether a task needs T1 judgment, leave it for T1.
 
+**External models as T2/T3 (e.g. ollama-cloud GLM):** tiers are roles, not models. A non-Claude
+model runs a drafting task via `scripts/llm_worker.py` (env: `LLM_API_KEY`, `LLM_BASE_URL`,
+`LLM_MODEL`). Because such models have **no web access or lint tools**, the driver forbids them
+from citing anything not supplied in the task context (they must use `[CITATION NEEDED]` instead),
+and their drafts get a **stricter T1 review**: T1 verifies every citation against the registry/web,
+runs lint, and wires links before commit. Cost-tiering guidance: near-free external models are the
+default for `[BULK]`, `[DEEPEN-SCAN]` extraction, and first drafts from *supplied* source material;
+tasks needing live web research stay on tool-using agents.
+
 ## One iteration
 
 1. **Sync & gate.** `git pull`. Run `python3 scripts/lint_wiki.py`. If it reports errors, fixing

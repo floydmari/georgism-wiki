@@ -63,6 +63,23 @@ Review each page sentence by sentence. Classify each claim and cite it according
   7. Wiki page or blog — navigation only, never primary evidence
 - **Every source used must have a row in `sources/registry.csv`** (add one if missing).
 
+### Scan Depth policy — Tier sets the target
+`Scan Depth` records how much of a source's extractable value is actually in the wiki, so it must
+track **Tier** and **source size**, not just whether the source was ever cited:
+
+| Tier | Target depth |
+|------|--------------|
+| Core | **Heavy** — systematically mined; findings woven into multiple pages |
+| Important | **Medium minimum; Heavy for books/major reports** |
+| Supplementary | Light acceptable |
+
+- **Light** = one or two points pulled incidentally (a quote, a single finding). Fine for a
+  short article or a two-paragraph remark (a Light scan of Friedman's 1978 symposium comment is
+  effectively complete); inadequate for a book.
+- Any registry row with **Tier ≥ Important and Scan Depth = Light** (where the source is more than
+  a few pages) is an open task: add a `[DEEPEN-SCAN tier:T2]` item to `BACKLOG.md` to mine it and,
+  where warranted, give it a dedicated `research/` page.
+
 ## 4. Claim-strength language
 
 Match wording to evidence. Prefer: "According to…", "Gaffney argues…", "The theorem states…",

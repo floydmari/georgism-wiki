@@ -29,6 +29,29 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
       Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
 
+## Deepen-scan queue (Tier ≥ Important currently at Light — per EDITORIAL.md Scan Depth policy)
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Churchill, *The People's Rights* (1910, important): mine the
+      land-monopoly chapters beyond the one Edinburgh quote; candidate dedicated research/ page.
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Hudson, *Killing the Host* (2015, important): NOTE master
+      Sheet already records this Heavy via people/michael-hudson — reconcile first, then mine the
+      rent/financialization argument into the-rentier-economy + a dedicated research/ page.
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Mazzucato, *The Value of Everything* (2018, important):
+      value-extraction vs value-creation framework; dedicated research/ page.
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Autor et al., *Fall of the Labor Share* (2020, important):
+      superstar-firms mechanism vs land-rent explanation; strengthens the-rentier-economy honesty section.
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Mill, *Principles of Political Economy* (1848, core):
+      Book V land-taxation chapters beyond the one §5 quote; candidate research/ page.
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — Rothbard, *The Single Tax* (1957, important): mine the full
+      critique into objections/lvt-austrian-critique (currently cites it only indirectly).
+      (Friedman 1978 symposium stays Light — a two-paragraph remark, fully extracted.)
+
+## Registry ↔ master Sheet reconciliation
+- [ ] [RECONCILE] tier:T3 status:todo — Merge the master Google Sheet's per-source rows into
+      sources/registry.csv: the registry was seeded from repo frontmatter + a curated list, so some
+      Sheet rows (e.g. Killing the Host [Heavy], The Power in the Land, Boom Bust, Land Is a Big
+      Deal, Radical Markets, Land and Liberty) are missing or wrongly flagged NEW in exports.
+      One-time import keyed by Title; keep the Sheet's Scan Depth/Status where richer.
+
 ## Phase 0 — remaining (needs credentials, not Fable)
 - [ ] [RECONCILE] tier:T3 status:todo — Backfill the 6 Common Wealth Canada pages missing from git
       (common-wealth-canada, natural-common-wealth-economic-rent-canada, british-columbia,
