@@ -1,31 +1,56 @@
 ---
 title: "The Land Question"
 category: research
-tags: [research, primary-text, henry-george, ireland, land-reform]
+tags: [research, primary-text, henry-george, ireland, land-reform, irish-land-war, peasant-proprietorship]
 authors: [Henry George]
 year: 1881
 source_url: https://www.henrygeorge.org/
 tier: important
 stub: false
-excerpt: "Henry George's 1881 tract (originally on the Irish land question) arguing that the problem is private land ownership itself, not who the landlords are — a concise entry point to his thought."
+excerpt: "Henry George's 1881 tract on the Irish Land War — originally *The Irish Land Question* — arguing that peasant proprietorship would not cure Ireland's poverty and that only land value taxation addresses the underlying cause."
+last_reviewed: 2026-07-03
 ---
 
 ## Summary
 
-*The Land Question* (1881), originally published as *The Irish Land Question*, applies Henry George's analysis to the land agitation then convulsing Ireland. It is one of George's shortest and most pointed works.
+*The Land Question* was first published in early 1881 under the title ***The Irish Land Question: What It Involves, and How Alone It Can Be Settled — An Appeal to the Land Leagues*** (D. Appleton and Company, New York), and was retitled *The Land Question* in later editions to signal that its argument was not confined to Ireland [VERIFY: exact month of first publication — sources give "early 1881" and "March 1881"]. It is one of [Henry George](/wiki/henry-george/)'s shortest and most pointed works, applying the analysis of *[Progress and Poverty](/wiki/progress-and-poverty/)* (1879) directly to a live political crisis rather than developing it from first principles.
 
-## Argument
+## Origins: The Irish Land War
 
-Irish reformers blamed absentee *English* landlords for Ireland's poverty. George argued they had misdiagnosed the problem: the injustice is not the **nationality** of the landlords but the **institution of private property in land** itself. Replacing English landlords with Irish ones would change nothing; only capturing land rent for the community — the [single tax](/wiki/single-tax/) remedy — addresses the cause. He thus reframed a nationalist grievance as a universal question of [land monopoly](/wiki/land-monopoly/).
+George wrote the book at the height of the **Irish Land War** (1879–82), the mass agitation led by the **Irish National Land League** — founded by **Michael Davitt** and presided over by **Charles Stewart Parnell** — against evictions and rack-renting by (mostly absentee, mostly Protestant) landlords. The Land League's programme centred on the "Three Fs" (fair rent, fixity of tenure, free sale) and, increasingly, on schemes for **peasant proprietorship**: buying out landlords and transferring titles to tenant farmers. The British government's response, Gladstone's **Land Law (Ireland) Act 1881**, partially codified the Three Fs and opened state-assisted land purchase.
 
-## Significance
+The book's reception drew George directly into the conflict. Later in 1881 he sailed for Ireland as a correspondent for Patrick Ford's New York paper *The Irish World*, reporting on the Land War for roughly a year and lecturing across Ireland and Britain — including a well-received address on "Land and Labour" for the Political Prisoners' Aid Society at the Rotunda, Dublin, in November 1881. He corresponded and worked with Davitt, and in August 1882 was twice briefly detained by police near Athenry, County Galway, on suspicion of Land League association — an episode that drew press attention on both sides of the Atlantic and some official embarrassment for the British administration [CITATION NEEDED: contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882].
 
-The work extended George's influence to the British Isles and the Irish land movement, and is frequently recommended as a brief, vivid introduction to his core thesis before tackling *[Progress and Poverty](/wiki/progress-and-poverty/)*.
+## The Argument
+
+Irish reformers, League and government alike, largely framed the crisis as a dispute over **who** owned the land — foreign landlords versus native tenants — and over the **terms** of tenancy. George rejected that framing. He argued that the Irish case was not a "mere local question" but a "universal question" involving "the great problem of the distribution of wealth, which is everywhere forcing itself upon attention" (Henry George, *The Land Question*, 1881). What was wrong, he wrote, was not the nationality or conduct of individual landlords but "the wide-spread institution of private property in land" itself (Henry George, *The Land Question*, 1881).
+
+From this he drew a conclusion that put him at odds with the mainstream of the Land League movement: **peasant proprietorship was not the remedy**. Buying out landlords and distributing freehold titles to tenant farmers — the policy direction of the 1881 Land Act and of subsequent land purchase acts — would, in George's analysis, simply create a new class of small landowners who would in time reproduce the same dynamic: land values would rise with population and improvement, rent would once again separate from labour's product, and a later generation of Irish smallholders (or their successors, through sale, debt, or subdivision) could reconstitute the very monopoly the League was fighting. Fixity of tenure and fair-rent courts addressed the landlord–tenant relationship but left untouched the deeper cause: private capture of the [economic rent](/wiki/economic-rent/) generated by the whole community. His alternative was to leave legal title where it lay if necessary, but to tax land values so as to capture that rent for public use — the **[single tax](/wiki/single-tax/)** — which he presented as available to Ireland immediately, without the fiscal burden of a landlord buy-out and without merely relocating [land monopoly](/wiki/land-monopoly/) rather than ending it.
+
+## Reception and Influence
+
+The book, together with George's year in Ireland and his parallel lecture tours of Britain, was central to establishing George's reputation and readership in the British Isles ahead of the wider circulation of English editions of *Progress and Poverty*. Michael Davitt engaged seriously with George's ideas, and the two maintained a correspondence and periods of collaboration even as Davitt's own preferred remedy — leaning toward state land nationalisation and, at times, accommodation with peasant-proprietorship politics — diverged from George's tax-based approach [VERIFY: the precise nature and timing of any disagreement between George and Davitt over remedy]. The historian Andrew Phemister's *Land and Liberalism: Henry George and the Irish Land War* (Cambridge University Press, 2023) is the fullest modern academic treatment of this episode, situating George's Irish writing and travels as a formative moment for Anglo-American land reform politics of the 1880s.
+
+Within the wiki's frame, this episode is one of the routes by which George's analysis reached British reformers such as [Alfred Russel Wallace](/wiki/alfred-russel-wallace/), whose Land Nationalisation Society pursued a state-ownership variant of the same late-19th-century "land question," and it fed into currents that Mill's earlier **Land Tenure Reform Association** had already opened — see [John Stuart Mill](/wiki/john-stuart-mill/) on the "[unearned increment](/wiki/unearned-increment/)."
+
+## Relation to George's Other Works
+
+*The Land Question* is best read as a **case study application** of *Progress and Poverty*'s general theory rather than an independent theoretical statement: it assumes the earlier book's analysis of rent and the single-tax remedy and demonstrates it against a specific, urgent policy dispute. It anticipates the more popular, applied register George would use again in *[Social Problems](/wiki/social-problems/)* (1883), and its polemic against alternative "remedies" that leave the root cause intact prefigures the sustained argumentative style of *[A Perplexed Philosopher](/wiki/a-perplexed-philosopher/)* (1892). Because of its brevity and concrete stakes, it is often recommended — including within George's own circle — as a short, vivid entry point to his thought for readers not yet ready for the length of *Progress and Poverty*.
 
 ## See Also
 
-- [Henry George](/wiki/henry-george/) · [Land Monopoly](/wiki/land-monopoly/) · [Single Tax](/wiki/single-tax/)
+- [Henry George](/wiki/henry-george/) — the author
+- [Progress and Poverty](/wiki/progress-and-poverty/) — the theoretical work this book applies to Ireland
+- [Social Problems](/wiki/social-problems/) — George's next popular, applied work
+- [Land Monopoly](/wiki/land-monopoly/) — the structural problem George identifies as common to Ireland and elsewhere
+- [Single Tax](/wiki/single-tax/) — the remedy George proposes in place of peasant proprietorship
+- [Alfred Russel Wallace](/wiki/alfred-russel-wallace/) — contemporary British land reformer shaped by the same "land question" ferment
+- [John Stuart Mill](/wiki/john-stuart-mill/) — precursor whose Land Tenure Reform Association anticipated parts of the argument
 
 ## Sources
 
-1. Henry George (1881), *The Land Question* (orig. *The Irish Land Question*). Full text via the Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/)
+1. Henry George (1881), *The Irish Land Question: What It Involves, and How Alone It Can Be Settled*, retitled *The Land Question* in later printings. D. Appleton and Company. Full text hosted by the Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/) and the Schalkenbach-affiliated archive [wealthandwant.com](https://www.wealthandwant.com/HG/irish_land_question.html) — used for the book's title, subtitle, and the two direct quotations on the "universal question" framing and the indictment of "private property in land."
+2. Andrew Phemister (2023), *Land and Liberalism: Henry George and the Irish Land War*, Cambridge University Press. [Newcastle University ePrints record](https://eprints.ncl.ac.uk/286794) — used for the historical framing of George's Irish sojourn, his relationship with Davitt and the Land League, and the book's place in Anglo-American land reform politics.
+3. RTÉ Brainstorm (2021), "Could a 19th century economist unlock the Irish rental crisis?" [rte.ie](https://www.rte.ie/brainstorm/2021/1026/1255890-henry-george-ireland-rent-land-war/) — used to corroborate the Irish Land War context and George's on-the-ground reporting role for *The Irish World*.
+4. The Irish Story (2014), "'Progress and Poverty' – Henry George and Land Reform in modern Ireland." [theirishstory.com](https://www.theirishstory.com/2014/08/24/progress-and-poverty-henry-george-and-land-reform-in-modern-ireland/) — used to corroborate George's 1881–82 Irish lecture tour and reception.
+5. Authoritative editions from the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic reference.
