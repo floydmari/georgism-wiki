@@ -26,3 +26,5 @@ Georgist analysis treats private capture of land rent as the foundational form o
 
 1. Anne Krueger (1974), "The Political Economy of the Rent-Seeking Society," *American Economic Review*.
 2. Mazzucato, Ryan-Collins & Gouzoulis (2023) — [wiki summary](/wiki/mazzucato-mapping-rents/)
+3. Louis Kaplow (2019), "Market Power and Income Taxation" · [wiki summary](/wiki/kaplow-market-power/) — used for how rents from market power should be taxed.
+4. Rothschild & Scheuer (2011), "Optimal Taxation with Rent-Seeking" · [wiki summary](/wiki/rothschild-scheuer-rent-seeking/) — used for the optimal-tax case for taxing rent extraction more heavily.

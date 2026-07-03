@@ -46,15 +46,15 @@ is the completed model page. Match its structure, sourcing density, and tone.
 | # | Proposed slug | Title | Type | Core claim (short) |
 |---|---------------|-------|------|--------------------|
 | 1 | `single-tax-narrative` | The Single Tax | practical | One levy on land values could replace taxation of work and enterprise |
-| 2 | `tax-land-not-labor` | Tax Land, Not Labor | economic | Shift taxes off wages and investment onto land, which cannot shrink when taxed |
+| 2 | [`tax-land-not-labor`](/wiki/tax-land-not-labor/) ✅ | Tax Land, Not Labor | economic | Shift taxes off wages and investment onto land, which cannot shrink when taxed |
 | 3 | [`unearned-increment-narrative`](/wiki/unearned-increment-narrative/) ✅ | The Unearned Increment | moral | Rising land values are created by the community, not the owner |
-| 4 | `the-rentier-economy` | The Rentier Economy | economic | Growing income flows reward asset ownership and rent extraction over production |
+| 4 | [`the-rentier-economy`](/wiki/the-rentier-economy/) ✅ | The Rentier Economy | economic | Growing income flows reward asset ownership and rent extraction over production |
 | 5 | `community-creates-land-value` | The Community Creates Land Value | moral | Location value is produced by public investment and the surrounding community |
-| 6 | `land-speculation-causes-cycles` | Land Speculation Causes Boom and Bust | economic | Speculative land-price cycles drive credit booms and crashes |
+| 6 | [`land-speculation-causes-cycles`](/wiki/land-speculation-causes-cycles/) ✅ | Land Speculation Causes Boom and Bust | economic | Speculative land-price cycles drive credit booms and crashes |
 | 7 | `the-housing-crisis-is-a-land-crisis` | The Housing Crisis Is a Land Crisis | practical | Housing is dear because land is dear; tax land, free the land market |
 | 8 | `citizens-dividend-narrative` | A Dividend from Common Wealth | moral | Rent from land and resources, shared equally, gives everyone a stake |
 | 9 | `ecological-rent` | Green Georgism: Charging for the Earth | environmental | Pollution and extraction are unpaid takings of common natural wealth |
-| 10 | `the-tax-you-cant-dodge` | The Tax You Can't Dodge | practical | Land cannot be hidden or moved offshore — the hardest base to avoid |
+| 10 | [`the-tax-you-cant-dodge`](/wiki/the-tax-you-cant-dodge/) ✅ | The Tax You Can't Dodge | practical | Land cannot be hidden or moved offshore — the hardest base to avoid |
 | 11 | `the-corruption-of-economics` | The Corruption of Economics | historical | Early neoclassical economics buried land as a factor, advocates argue |
 | 12 | `the-great-land-robbery` | The Great Land Robbery | historical | Land titles descend from dispossession; rent capture is bloodless restitution |
 
@@ -90,7 +90,7 @@ Type balance: moral ×3, economic ×3, practical ×3, environmental ×1, histori
   modern advocates soften to "a much larger land tax" rather than literal single-tax
   purism — the page should say so.
 
-### 2. Tax Land, Not Labor — `tax-land-not-labor` (economic)
+### 2. Tax Land, Not Labor — [`tax-land-not-labor`](/wiki/tax-land-not-labor/) (economic) — ✅ DRAFTED
 
 - **Core claim:** Taxes on wages and investment discourage the activity that creates
   wealth; a tax on land value discourages nothing, because the land is there regardless.
@@ -122,7 +122,7 @@ the narrative page covers its persuasive career from
 [Mill](/wiki/john-stuart-mill/) through the
 [1909 People's Budget](/wiki/1909-peoples-budget/) to modern capitalization evidence.
 
-### 4. The Rentier Economy — `the-rentier-economy` (economic)
+### 4. The Rentier Economy — [`the-rentier-economy`](/wiki/the-rentier-economy/) (economic) — ✅ DRAFTED
 
 - **Core claim:** A rising share of income flows to those who own assets and extract
   [economic rent](/wiki/economic-rent/) — above all land under housing — rather than to
@@ -172,7 +172,7 @@ the narrative page covers its persuasive career from
   the [unearned-increment narrative](/wiki/unearned-increment-narrative/): this one is
   forward-looking finance, that one is backward-looking fairness.
 
-### 6. Land Speculation Causes Boom and Bust — `land-speculation-causes-cycles` (economic)
+### 6. Land Speculation Causes Boom and Bust — [`land-speculation-causes-cycles`](/wiki/land-speculation-causes-cycles/) (economic) — ✅ DRAFTED
 
 - **Core claim:** Recurrent land-price speculation, financed by credit, drives the boom
   and the crash (advocates describe an [~18-year cycle](/wiki/18-year-land-cycle/));
@@ -260,7 +260,7 @@ the narrative page covers its persuasive career from
 - **Deployment:** climate-concerned audiences; frame carbon charges as rent for using a
   commons rather than a punitive tax; do not oversell LVT itself as climate policy.
 
-### 10. The Tax You Can't Dodge — `the-tax-you-cant-dodge` (practical)
+### 10. The Tax You Can't Dodge — [`the-tax-you-cant-dodge`](/wiki/the-tax-you-cant-dodge/) (practical) — ✅ DRAFTED
 
 - **Core claim:** Land cannot be hidden, moved offshore, or re-domiciled; its ownership
   and value are public and local. That makes land the hardest tax base to avoid in an
