@@ -67,26 +67,70 @@ def changed_vs_main():
 
 
 CSS = """
-:root{--fg:#1a1a1a;--muted:#666;--line:#e2e2e2;--accent:#0b6;--bg:#fff}
-*{box-sizing:border-box}body{font:16px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;
-color:var(--fg);background:var(--bg);margin:0}
+:root{
+  --bg:#f7f7f4;--panel:#fefefe;--fg:#1c2420;--muted:#5c6b63;--line:#d9ddd6;
+  --accent:#1f7a5a;--link:#146c53;
+  --changed-bg:#fbeecb;--changed-fg:#7a5a12;--changed-ln:#e0c877;
+  --stub-bg:#f7dede;--stub-fg:#8a2f2f;--orphan-bg:#eceee9;--orphan-fg:#8a8f88;
+  --cite-bg:#f7dede;--cite-fg:#8a2f2f;--ev-bg:#e2f1e9;--ev-fg:#1f5f45;
+  --serif:Palatino,"Palatino Linotype","Iowan Old Style",Georgia,"Times New Roman",serif;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#12160f;--panel:#181d15;--fg:#e7ebe4;--muted:#93a094;--line:#2b332b;
+  --accent:#4fbf8f;--link:#6fce9f;
+  --changed-bg:#3a3211;--changed-fg:#e6cd7e;--changed-ln:#6b5a1e;
+  --stub-bg:#3a1d1d;--stub-fg:#eb9d9d;--orphan-bg:#232722;--orphan-fg:#8a938a;
+  --cite-bg:#3a1d1d;--cite-fg:#eb9d9d;--ev-bg:#173028;--ev-fg:#7fd7b1;
+}}
+:root[data-theme="light"]{
+  --bg:#f7f7f4;--panel:#fefefe;--fg:#1c2420;--muted:#5c6b63;--line:#d9ddd6;
+  --accent:#1f7a5a;--link:#146c53;--changed-bg:#fbeecb;--changed-fg:#7a5a12;--changed-ln:#e0c877;
+  --stub-bg:#f7dede;--stub-fg:#8a2f2f;--orphan-bg:#eceee9;--orphan-fg:#8a8f88;
+  --cite-bg:#f7dede;--cite-fg:#8a2f2f;--ev-bg:#e2f1e9;--ev-fg:#1f5f45;
+}
+:root[data-theme="dark"]{
+  --bg:#12160f;--panel:#181d15;--fg:#e7ebe4;--muted:#93a094;--line:#2b332b;
+  --accent:#4fbf8f;--link:#6fce9f;--changed-bg:#3a3211;--changed-fg:#e6cd7e;--changed-ln:#6b5a1e;
+  --stub-bg:#3a1d1d;--stub-fg:#eb9d9d;--orphan-bg:#232722;--orphan-fg:#8a938a;
+  --cite-bg:#3a1d1d;--cite-fg:#eb9d9d;--ev-bg:#173028;--ev-fg:#7fd7b1;
+}
+*{box-sizing:border-box}
+body{font:16px/1.65 var(--sans);color:var(--fg);background:var(--bg);margin:0;
+  -webkit-font-smoothing:antialiased}
 .wrap{max-width:820px;margin:0 auto;padding:24px}
 header.site{border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:2}
 header.site .wrap{display:flex;gap:16px;flex-wrap:wrap;align-items:baseline;padding:14px 24px}
-header.site a{color:var(--fg);text-decoration:none;font-size:14px}
+header.site a{color:var(--fg);text-decoration:none;font-size:13.5px}
 header.site a:hover{color:var(--accent)}
-h1{margin:.2em 0}.cat{color:var(--muted);text-transform:uppercase;font-size:12px;letter-spacing:.08em}
-a{color:#06c}.badge{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px;
-margin:0 4px 4px 0;border:1px solid var(--line)}
-.badge.changed{background:#fff0c8;border-color:#e8c860}.badge.stub{background:#ffe0e0}
-.badge.orphan{background:#eee;color:#888}.badge.cite{background:#ffe6e6;color:#900}
-.badge.ev{background:#e6f7ee;color:#064}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
-.card{border:1px solid var(--line);border-radius:8px;padding:12px}
-.card h3{margin:.1em 0;font-size:15px}.excerpt{color:var(--muted);font-size:13px}
-footer{color:var(--muted);font-size:12px;border-top:1px solid var(--line);margin-top:40px}
-table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:6px 10px}
-code{background:#f4f4f4;padding:1px 4px;border-radius:4px}
+h1,h2,h3{font-family:var(--serif);font-weight:600;text-wrap:balance;line-height:1.2}
+h1{margin:.15em 0 .1em;font-size:2rem}h2{font-size:1.35rem;margin:1.4em 0 .4em}
+h3{font-size:1.05rem}
+.cat{color:var(--muted);text-transform:uppercase;font-size:11.5px;letter-spacing:.09em}
+a{color:var(--link);text-decoration-thickness:1px;text-underline-offset:2px}
+a:hover{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
+hr{border:0;border-top:1px solid var(--line);margin:1em 0}
+.badge{display:inline-block;font-size:11px;font-weight:600;padding:2px 9px;border-radius:999px;
+  margin:0 5px 5px 0;border:1px solid transparent;letter-spacing:.02em}
+.badge.changed{background:var(--changed-bg);color:var(--changed-fg);border-color:var(--changed-ln)}
+.badge.stub{background:var(--stub-bg);color:var(--stub-fg)}
+.badge.orphan{background:var(--orphan-bg);color:var(--orphan-fg)}
+.badge.cite{background:var(--cite-bg);color:var(--cite-fg)}
+.badge.ev{background:var(--ev-bg);color:var(--ev-fg)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.card{border:1px solid var(--line);border-radius:10px;padding:14px;background:var(--panel)}
+.card h3{margin:.1em 0;font-size:15px}.card h3 a{text-decoration:none}
+.excerpt{color:var(--muted);font-size:13px;margin-top:4px}
+footer{color:var(--muted);font-size:12px;border-top:1px solid var(--line);margin-top:44px;
+  padding-top:14px;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+table{border-collapse:collapse;font-variant-numeric:tabular-nums}
+td,th{border:1px solid var(--line);padding:7px 12px;text-align:left}
+th{background:var(--panel);font-family:var(--sans);font-size:13px;letter-spacing:.03em}
+code{background:var(--panel);border:1px solid var(--line);padding:1px 5px;border-radius:5px;
+  font-family:var(--mono);font-size:.88em}
+blockquote{border-left:3px solid var(--accent);margin:1em 0;padding:.2em 1em;color:var(--muted)}
 """
 
 NAV = '<header class="site"><div class="wrap"><a href="{root}index.html"><b>Georgism Wiki — Preview</b></a>' \
