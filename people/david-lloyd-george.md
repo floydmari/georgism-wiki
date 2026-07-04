@@ -145,12 +145,14 @@ turned to war finance and, from December 1916, the premiership.[12]
 ## Premiership and Later Life
 
 Lloyd George became Prime Minister in December 1916, leading a wartime coalition government to
-victory and then remaining in office through the postwar settlement.[4] His government revived
-land policy studies in the mid-1920s (*The Land and the Nation* and *Towns and the Land*, both
-1925) as the basis of a prospective new land campaign, but by then he led the Liberal Party from
-opposition rather than government, and no comparable legislation followed.[4] [CITATION NEEDED:
-a primary or scholarly source on the substance and reception of the 1925 land reports, beyond
-their mention as background to a possible future campaign.] His coalition government fell in
+victory and then remaining in office through the postwar settlement.[4]
+
+Now leading the Liberal Party from opposition, he mounted a **second land campaign** in
+1925–29, launched with the rural report *The Land and the Nation* (1925) — known from its
+cover colour as the **"Green Book"** — followed by the urban companion *Towns and the Land*
+(1925); the campaign argued that the existing system of agricultural tenure had broken down
+and could not be rescued by subsidy alone, but, unlike the pre-war campaign, it was conducted
+entirely out of government and produced no legislation.[4][14] His coalition government fell in
 October 1922 after Conservative backbenchers voted at the Carlton Club to end their support,
 precipitated by the Chanak crisis; Lloyd George never again held office, though he remained an
 MP until shortly before his death in 1945.[4] Winston Churchill, his one-time ally in the land
@@ -210,10 +212,19 @@ British duties chiefly tried to do.[11]
    [wiki summary](/wiki/churchill-peoples-rights/) — used for Churchill's parallel 1909 campaign
    and his later cooling toward land taxation as Chancellor in the 1920s (D-claim; see the
    linked page for `[VERIFY]`/`[CITATION NEEDED]` flags on the latter).
-8. UK Parliament, "The Parliament Acts."
-   [Text](https://www.parliament.uk/about/how/laws/parliamentacts/) — used for the Lords'
-   November 1909 rejection of the budget, the two 1910 general elections, the threatened mass
-   creation of peers, and the terms of the Parliament Act 1911 (A-claims).
+8. UK Parliament, "The Parliament Acts,"
+   [Text](https://www.parliament.uk/about/how/laws/parliamentacts/); History & Policy, "The 1909
+   budget and the destruction of the unwritten constitution,"
+   [Text](https://historyandpolicy.org/policy-papers/papers/the-1909-budget-and-the-destruction-of-the-unwritten-constitution/);
+   UK Parliament, "'Mr Balfour's poodle'?"
+   [Text](https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/parliamentacts/overview/balfourspoodle/)
+   — used for the 30 November 1909 rejection of the budget, the two 1910 general elections,
+   Edward VII's and George V's roles in the peerage-creation question, and the Balfour
+   "bluff" account of the Lords' capitulation (A/D-claims; the disputed "genuine threat vs.
+   bluff" characterization is flagged `[VERIFY]` in the body text). Note: UK Parliament's
+   dedicated "Limehouse" collections page returned an access error (HTTP 403) to this
+   session's tools and was not used as a source; only the pages above, which fetched
+   successfully, are cited.
 9. *Parliament Act 1911*, 1 & 2 Geo. 5 c. 13 (UK Public General Act). — used for the removal of
    the Lords' veto over money bills and the reduction of their delaying power over other
    legislation (A-claim, primary statute).
@@ -234,3 +245,16 @@ British duties chiefly tried to do.[11]
     — used for the 1912 launch of the Land Enquiry Committee, the 1913 Bedford/Swindon speeches,
     the rural and urban reports, the "Ministry of Land" proposal, the 4 May 1914 budget, and its
     23 June 1914 partial withdrawal (A-claims).
+13. David Lloyd George, speech at Newcastle upon Tyne, 9 October 1909, reported in *The Times*,
+    11 October 1909; quoted at
+    [Journal of Liberal History, "Lloyd George on the People's Budget"](https://liberalhistory.org.uk/history/lloyd-george-on-the-peoples-budget/)
+    and corroborated at [Quotefancy](https://quotefancy.com/quote/1203879/David-Lloyd-George-A-fully-equipped-duke-costs-as-much-to-keep-up-as-two-Dreadnoughts-and)
+    — used for the "fully-equipped duke ... two Dreadnoughts" quotation, correctly attributed to
+    the Newcastle speech rather than Limehouse (A-claim).
+14. The Spectator Archive, "Mr. Lloyd George's Agricultural Policy," 26 September 1925,
+    [Text](http://archive.spectator.co.uk/article/26th-september-1925/5/mr-lloyd-georges---agricultural-policy)
+    — used, alongside source 4, for the 1925–29 second land campaign, *The Land and the Nation*
+    ("Green Book") and *Towns and the Land*, and the campaign's argument that agricultural
+    tenure had broken down (A-claim). [VERIFY: the "Green Book" nickname and its cover-colour
+    origin are corroborated by general secondary reference material but not confirmed against a
+    library catalogue record or facsimile in this session.]
