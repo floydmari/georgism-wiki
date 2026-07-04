@@ -7,7 +7,17 @@ incidence trio, efficiency trio, Knoll, Cunningham, Hsieh-Moretti, De Loecker). 
 0a. **FLYWHEEL NOW ACTIVE** (see LOOP.md "growth flywheel"): every loop stubs its discoveries in
    ALL categories; `[PRIORITIZE] tier:T1` ranks the Stub queue each wave; backfills re-mine the
    corpus via tasks/backfill-page-task.md. Lint prints a STUBS gauge.
-0. **FIRST: [SYNTHESIS] tier:T1 — catch-up harvest over waves 1-2, CREATE STUBS** (the discovery channel was
+0. **FIRST: [DISCOVERY-SWEEP] one-time full-corpus retrospective (Task 0 — run BEFORE the
+   flywheel resumes).** All material ingested before 2026-07-04 predates the discovery channel,
+   so it was never mined for candidate pages. Recipe: fan out T2/T3 agents over the ENTIRE
+   corpus in chunks (~15 pages per agent, by category or alphabetical research/ slices), each
+   returning ONLY a DISCOVERED list (all 8 categories: proposed slug, category, rationale, 1-2
+   citations from the chunk) — no file edits. T1 then dedupes across chunk reports, triages
+   (accept/reject with reason), creates stubs per EDITORIAL's stub standard, and seeds the Stub
+   queue. Known misses this will catch: people/homer-hoyt (registry row + citations, no page),
+   people/david-lloyd-george (Limehouse cited, no page), places/vancouver (anchors the BC story),
+   plus whatever the 47 legacy research pages imply. Includes the waves-1-2 candidates already
+   noted below — fold them into the same triage:** (the discovery channel was
    missing while 16 sources were ingested). Known candidates already surfaced by agents:
    outcomes/corporate-profits-increasingly-rents (queued below; De Loecker+Barkai+Furman evidence);
    objections/cash-transfers-reduce-work (Jones-Marinescu counters it); objections/zoning-not-lvt-
