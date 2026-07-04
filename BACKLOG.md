@@ -10,8 +10,7 @@ candidates → 20 sourced stubs created + 10 rejected-with-reason), the 14th out
 "Georgism Wiki — Source Registry (git sync 2026-07-04)". Branch claude/wiki-improvement-w5; PR open.
 
 A fresh session resumes with, in order:
-1. `git status` + lint. Verify people/david-lloyd-george.md got backfilled (stub: false); if not,
-   run tasks/backfill-page-task.md on it.
+1. `git status` + lint (all three first-round backfills are done: homer-hoyt, vancouver, david-lloyd-george).
 2. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (18 stubs remain), run top
    3-5 [BACKFILL]s per wave, harvest DISCOVERED candidates into new stubs. STUBS gauge in lint.
 3. Remaining evidence depth (queue below): the 8 unchecked tech-rents papers (korinek-ng,
@@ -70,7 +69,7 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       tier; move the top 3-5 into [BACKFILL] tasks (tasks/backfill-page-task.md).
 Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 rejected-with-reason in LOOPLOG):
 - [x] [BACKFILL] tier:T2 status:done — people/homer-hoyt backfilled 2026-07-04 (FHA/redlining role addressed with Ware 2021 RSF cite)
-- [ ] [BACKFILL] tier:T2 status:in-progress — people/david-lloyd-george (backfill agent relaunched 2026-07-04; verify completion)
+- [x] [BACKFILL] tier:T2 status:done — people/david-lloyd-george backfilled 2026-07-04 (226 lines; Limehouse venue disambiguated, Dreadnoughts/Green-Book misattributions corrected)
 - [ ] [BACKFILL] tier:T2 status:todo — people/winston-churchill (People's Rights corpus page live; 2 chunks)
 - [x] [BACKFILL] tier:T2 status:done — places/vancouver backfilled 2026-07-04 (note: british-columbia.md still cites STALE 0.5%/2% SVT rates — see follow-up below)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/superstar-firms (pairs with tech-rents cluster + new outcome)
