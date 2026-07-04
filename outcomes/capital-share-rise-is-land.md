@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, capital-share, land, housing, inequality, piketty]
 stub: false
 evidence_strength: "Strong (independently replicated across US and European data)"
-supported_by: [rognlie-capital-share, bonnet-land-is-back]
+supported_by: [rognlie-capital-share, bonnet-land-is-back, knoll-schularick-steger-house-prices]
 challenged_by: [autor-superstar-firms]
 excerpt: "The much-discussed rise in capital's share of income is, on decomposition, overwhelmingly a rise in the value of land under housing — vindicating a core Georgist claim."
 ---
