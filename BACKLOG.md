@@ -90,15 +90,15 @@ comprehensiveness watermark: 136 external-source rows (first invocation complete
 Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 rejected-with-reason in LOOPLOG):
 - [x] [BACKFILL] tier:T2 status:done — people/homer-hoyt backfilled 2026-07-04 (FHA/redlining role addressed with Ware 2021 RSF cite)
 - [x] [BACKFILL] tier:T2 status:done — people/david-lloyd-george backfilled 2026-07-04 (226 lines; Limehouse venue disambiguated, Dreadnoughts/Green-Book misattributions corrected)
-- [ ] [BACKFILL] tier:T2 status:todo — people/winston-churchill (People's Rights corpus page live; 2 chunks)
+- [x] [BACKFILL] tier:T2 status:done — people/winston-churchill (GLM wave 3) (People's Rights corpus page live; 2 chunks)
 - [x] [BACKFILL] tier:T2 status:done — places/vancouver backfilled 2026-07-04 (note: british-columbia.md still cites STALE 0.5%/2% SVT rates — see follow-up below)
 - [x] [BACKFILL] tier:T2 status:done — concepts/superstar-firms (GLM wave 2) (pairs with tech-rents cluster + new outcome)
 - [x] [BACKFILL] tier:T2 status:done — concepts/fire-sector (GLM wave 2) (rentier-economy narrative dependency)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/mass-appraisal-methods (assessment objection's practical answer)
-- [ ] [BACKFILL] tier:T2 status:todo — events/2008-financial-crisis (cycle narrative proof-point)
+- [x] [BACKFILL] tier:T2 status:done — concepts/mass-appraisal-methods (GLM wave 3) (assessment objection's practical answer)
+- [x] [BACKFILL] tier:T2 status:done — events/2008-financial-crisis (GLM wave 3) (cycle narrative proof-point)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
-- [ ] [BACKFILL] tier:T2 status:todo — people/john-bates-clark (corruption-of-economics narrative dependency)
-- [ ] [BACKFILL] tier:T2 status:todo — people/charles-tiebout, people/murray-rothbard, people/michael-davitt, people/l-d-taylor
+- [x] [BACKFILL] tier:T2 status:done — people/john-bates-clark (GLM wave 3) (corruption-of-economics narrative dependency)
+- [~] [BACKFILL] tier:T2 status:partial — charles-tiebout + murray-rothbard done (GLM wave 3); michael-davitt, l-d-taylor remain
 - [ ] [BACKFILL] tier:T2 status:todo — events/irish-land-war, organizations/fairhope-single-tax-corporation
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/holdout-problem, concepts/production-boundary, concepts/radical-markets, concepts/land-value-increment-tax
 Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson (sourcing thin), Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
