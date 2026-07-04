@@ -177,6 +177,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [x] [DRAFT] tier:T2 — cea-2016-market-power — CEA 2016 brief (supplementary) — GLM wave 1
 
 ## Follow-ups discovered by the 2026-07-04 session (wave 5)
+- [ ] [DRAFT] tier:T2 status:todo — research/foldvary-reply-gochenour-caplan — Foldvary 2014 RAE 27(4) 451-461, the direct peer-reviewed reply (exists, verified; text 403'd this session) — completes the objection's dialectic
 - [ ] [UPDATE] tier:T3 status:todo — places/british-columbia.md cites stale BC Speculation & Vacancy Tax rates (0.5%/2%); current: 1%/3% for 2026, 4% foreign from 2027 (vancouver.md has fresh cites) — refresh + registry
 - [x] [DRAFT] tier:T2 status:done — research/loffler-siegloch-german-pass-through — wired as challenged_by on the incidence outcome; page explains why Grundsteuer (land+structure) pass-through does not refute pure-LVT incidence (2026-07-05)
 - [x] [DRAFT] tier:T2 status:done — research/england-zhao-lvt-distribution — Dover NH regressive finding, wired as challenged_by on the progressivity outcome (2026-07-05)

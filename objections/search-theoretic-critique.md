@@ -13,7 +13,7 @@ excerpt: "The search-theoretic critique of Georgism, associated with Gochenour a
 
 ## The Objection
 
-The search-theoretic critique of Georgism, associated with Zachary Gochenour and Bryan Caplan, argues that a full land value tax undermines the incentive to *search for* and discover the best uses (and hidden qualities) of land: if all site value is taxed away, nobody profits from finding out what a site is really worth, so valuable information goes unproduced. [CITATION NEEDED: the primary Gochenour & Caplan search-theoretic paper — cite and summarize it directly rather than only via Doucet's rebuttal.]
+The search-theoretic critique of Georgism, associated with Zachary Gochenour and Bryan Caplan, argues that a full land value tax undermines the incentive to *search for* and discover the best uses (and hidden qualities) of land: if all site value is taxed away, nobody profits from finding out what a site is really worth, so valuable information goes unproduced. The primary source is now covered in full: [Gochenour & Caplan (2013), An Entrepreneurial Critique of Georgism](/wiki/gochenour-caplan-search-theoretic/) (*Review of Austrian Economics* 26(4)) — the published version of the 2012 search-theoretic working paper.
 
 ## The Response
 
