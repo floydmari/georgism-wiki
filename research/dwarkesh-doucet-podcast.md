@@ -21,3 +21,7 @@ The conversation covers the whole arc — why land is economically distinct, whe
 ## Sources
 
 1. "Lars Doucet — Georgism, Land, and the Housing Theory of Everything," *Dwarkesh Podcast* (2023). [dwarkesh.com](https://www.dwarkesh.com/p/lars-doucet) · [YouTube](https://www.youtube.com/watch?v=sL-qkv7Pzxo)
+
+## See Also
+
+- [Objection: search-theoretic critique](/wiki/search-theoretic-critique/)

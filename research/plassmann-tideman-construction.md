@@ -25,6 +25,8 @@ A higher tax rate on land, relative to the rate on structures, is associated wit
 
 ## Bears On
 
+- [Florenz Plassmann](/wiki/florenz-plassmann/)
+
 - **Outcome:** [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 
 ## Sources

@@ -40,6 +40,8 @@ Common Wealth Canada is part of a newer, quantitatively oriented wave of Georgis
 
 ## See Also
 
+- [Canada](/wiki/canada/)
+
 - [Land Value Capture](/wiki/land-value-capture/) · [Resource Rents](/wiki/resource-rents/) · [Citizen's Dividend](/wiki/citizens-dividend/) · [Land Value Tax](/wiki/land-value-tax/) · [Center for Land Economics](/wiki/center-for-land-economics/)
 
 ## Sources

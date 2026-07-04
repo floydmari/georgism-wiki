@@ -21,6 +21,8 @@ The Fund is the most prominent, durable demonstration that [resource-rent divide
 
 ## See Also
 
+- [Alaska](/wiki/alaska/)
+
 - [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — the leading causal evaluation of the PFD's labor-market effects
 - [Widerquist & Howard (2012)](/wiki/widerquist-howard-pfd/) — the book-length examination of the PFD as an exportable model
 

@@ -58,6 +58,8 @@ But the paper disciplines any claim that the HGT is a ready-made *practical poli
 
 ## See Also
 
+- [Richard Arnott](/wiki/richard-arnott/)
+
 - [Henry George Theorem](/wiki/henry-george-theorem/)
 - [Arnott & Stiglitz (1979): Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size](/wiki/arnott-stiglitz-henry-george-theorem/)
 - [The Henry George Theorem in a Second-Best World (Behrens, Kanemoto & Murata 2015)](/wiki/behrens-hgt-second-best/)
