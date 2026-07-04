@@ -145,6 +145,15 @@ Core claim (1–2 sentences) · Who promotes it (→ `people/`) · Research that
 Georgist responses (→ `objections/`) · Historical examples (→ `places/`, `events/`) ·
 How to deploy it (framing tips, audience guidance).
 
+### Stub standard (the discovery unit)
+A **stub** is a valid minimal page created the moment a loop discovers a warranted topic, in ANY
+category (concepts, people, places, organizations, objections, events, outcomes, narratives):
+full frontmatter with `stub: true`, a 2-4 sentence sourced definition/overview, >=2 wiki links
+out, >=1 inbound link wired from the discovering page, and a Sources section citing at least the
+source(s) that justified it. Stubs are honest scaffolding, not embarrassments — they carry the
+`stub` tag on Ghost and appear in the lint STUBS gauge until backfilled via
+`tasks/backfill-page-task.md`. Never create a stub without at least one real citation.
+
 ### Annotated Sources section
 Each reference gets a one-line "used for" note:
 ```

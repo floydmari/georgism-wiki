@@ -56,10 +56,13 @@ tasks needing live web research stay on tool-using agents.
 6. **Lint until clean.** Re-run `lint_wiki.py`; resolve errors. Warnings should trend down.
 7. **Preview.** Run `python3 scripts/build_preview.py`. Confirm the changed pages render and
    cross-links resolve. (Serve locally with `python3 -m http.server -d preview 8000`.)
-8. **Harvest discoveries.** Triage the generator's DISCOVERED candidates: accept each as a
-   `[NEW] tier:T2` (or `[JUDGE] tier:T1` for outcomes) BACKLOG item with its rationale, or
-   reject with a one-line reason in the review notes. Ingestion must grow breadth, not only
-   depth — a wave that adds 8 research pages and 0 candidate pages is a smell.
+8. **Harvest discoveries → create stubs.** Triage the generator's DISCOVERED candidates (all
+   categories). For each ACCEPTED candidate, immediately create a **stub** per EDITORIAL.md's
+   stub standard (`stub: true`, sourced 2-4 sentence definition, >=2 links out, >=1 inbound link,
+   cited Sources) and add it to BACKLOG's Stub queue; reject the rest with a one-line reason.
+   Ingestion must grow breadth, not only depth — a wave that adds 8 research pages and 0
+   candidates is a smell. Stubs make discovery *visible on the wiki itself* (tagged `stub` on
+   Ghost, counted in lint's STUBS gauge).
 9. **Update `BACKLOG.md`.** Mark the task `done` (T1 REVIEW loop) or `needs-review` (T2/T3 DRAFT
    loop). Append any follow-up tasks you discovered, tier-tagged.
 10. **Commit & push (GitHub is the master record).** One task per commit:
@@ -67,6 +70,19 @@ tasks needing live web research stay on tool-using agents.
    DRAFT-loop work (cheap output must not auto-publish).
 11. **Publish — REVIEW loop only.** After T1 approval + merge, if `GHOST_ADMIN_KEY` is set:
     `python3 scripts/sync_to_ghost.py <changed files>`. Otherwise log `publish pending`.
+
+## The growth flywheel
+
+The loop is not a straight pipeline; it is a cycle that feeds itself:
+
+**INGEST** sources (research pages) → **EXTRACT** claims into existing pages → **DISCOVER**
+warranted new topics in every category → **STUB** them immediately (visible, sourced, tracked) →
+**PRIORITIZE** (`[PRIORITIZE] tier:T1`: rank the stub queue by inbound-link demand, evidence
+already present in the ingested corpus, and citing-source tier) → **BACKFILL** the top stubs via
+`tasks/backfill-page-task.md`, whose first step **re-mines the existing corpus** (earlier pages
+were written before the stub existed, so their sources were never extracted for it) → backfilled
+pages cite new sources and surface new candidates → next INGEST. Each turn of the wheel makes
+every earlier ingest more valuable. `[SYNTHESIS]` (below) is the same motion at the set level.
 
 ## Loop roles
 

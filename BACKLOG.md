@@ -4,7 +4,10 @@
 State: 174 pages, lint green, coverage **41/65** (gauge prints on every `lint_wiki.py` run).
 Waves 1–2 of the 50-paper build-out are done (15 pages: PFD cluster, capitalization cluster,
 incidence trio, efficiency trio, Knoll, Cunningham, Hsieh-Moretti, De Loecker). A fresh session resumes with:
-0. **FIRST: [SYNTHESIS] tier:T1 — catch-up harvest over waves 1-2** (the discovery channel was
+0a. **FLYWHEEL NOW ACTIVE** (see LOOP.md "growth flywheel"): every loop stubs its discoveries in
+   ALL categories; `[PRIORITIZE] tier:T1` ranks the Stub queue each wave; backfills re-mine the
+   corpus via tasks/backfill-page-task.md. Lint prints a STUBS gauge.
+0. **FIRST: [SYNTHESIS] tier:T1 — catch-up harvest over waves 1-2, CREATE STUBS** (the discovery channel was
    missing while 16 sources were ingested). Known candidates already surfaced by agents:
    outcomes/corporate-profits-increasingly-rents (queued below; De Loecker+Barkai+Furman evidence);
    objections/cash-transfers-reduce-work (Jones-Marinescu counters it); objections/zoning-not-lvt-
@@ -58,6 +61,12 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
 
 - [ ] [SHEET-SYNC] tier:T3 status:todo — push registry export to the master Google Sheet (last synced: 2026-07-03 wave-3 delta; ~18 rows added since — run scripts/export_registry_for_sheet.py --base 34b56cf and upload via Drive)
+
+## Stub queue (flywheel intake — stubs created at discovery, ranked by [PRIORITIZE])
+- [ ] [PRIORITIZE] tier:T1 status:recurring — each wave: rank stubs below by (a) inbound-link
+      demand from existing pages, (b) evidence already in the ingested corpus, (c) citing-source
+      tier; move the top 3-5 into [BACKFILL] tasks (tasks/backfill-page-task.md).
+(queue currently empty — the wave 1-2 catch-up synthesis seeds it; see RESUME step 0)
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
 Standard task file: `tasks/research-page-task.md`. Format: slug — Author Year *Title* (tier) → supports_outcomes.

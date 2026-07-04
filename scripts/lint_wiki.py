@@ -212,7 +212,7 @@ def main():
         if vf: warn(f, f"{vf} unresolved [VERIFY] marker(s)")
         if "## Sources" in body and not re.search(r"—\s*used for|—\s*Used for", body):
             warn(f, "Sources section not annotated (add '— used for …' notes)")
-        if len(p["text"].splitlines()) < 30:
+        if len(p["text"].splitlines()) < 30 and p["meta"].get("stub") is not True:
             warn(f, f"thin article ({len(p['text'].splitlines())} lines) — deepen")
 
     # registry <-> repo consistency (drift like the CWC cluster)
@@ -229,6 +229,17 @@ def main():
     for slug, p in pages.items():
         if slug not in linked_to:
             warn(p["path"], "orphan — not linked from any other page")
+
+    # stub gauge: discovery-created pages awaiting backfill, by category
+    stubs = {}
+    for slug, p in pages.items():
+        if p["meta"].get("stub") is True:
+            stubs.setdefault(p["folder"], []).append(slug)
+    if stubs:
+        lines = [f"  {cat}: {len(sl)} ({', '.join(sorted(sl)[:6])}{'…' if len(sl)>6 else ''})"
+                 for cat, sl in sorted(stubs.items())]
+        warnings.append(f"STUBS awaiting backfill: {sum(len(v) for v in stubs.values())}\n"
+                        + "\n".join(lines))
 
     # evidence-coverage gauge: every outcome should have >= 5 supporting research pages
     goal, met = 5, 0

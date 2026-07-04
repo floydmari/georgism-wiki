@@ -41,6 +41,14 @@ Success metrics: articles 139→300+ (now 176), research 47→100+ (now ~76), na
 outcomes each ≥5 supporting papers, zero fabricated citations ever (enforced by
 `[CITATION NEEDED]`/`[VERIFY]` discipline + lint).
 
+## The growth flywheel (added 2026-07-04)
+
+Ingest → extract → **discover across all categories** → stub immediately (sourced, visible,
+tracked by lint's STUBS gauge) → T1 prioritizes the stub queue each wave → backfill re-mines the
+already-ingested corpus before new web research → repeat. Breadth and depth grow together; each
+ingest raises the value of every earlier one. Mechanics: LOOP.md (flywheel + step 8),
+tasks/backfill-page-task.md, EDITORIAL.md stub standard.
+
 ## Standing constraints & pending items (outside the content loop)
 
 - **Ghost publishing** is gated on `OP_SERVICE_ACCOUNT_TOKEN` (1Password service account → Emma
