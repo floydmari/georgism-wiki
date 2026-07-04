@@ -9,7 +9,7 @@ source_url: https://doi.org/10.1093/qje/qjz041
 stub: false
 excerpt: "Firm-level evidence that average U.S. markups rose from ~21% above marginal cost in 1980 to ~61% by 2016, concentrated in a rising upper tail — a leading account of falling labor share and business dynamism, contested on measurement grounds."
 last_reviewed: 2026-07-03
-supports_outcomes: []
+supports_outcomes: [corporate-profits-increasingly-rents]
 ---
 
 ## Summary
