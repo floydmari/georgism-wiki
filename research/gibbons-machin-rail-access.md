@@ -89,6 +89,7 @@ the limit.
 
 1. Stephen Gibbons & Stephen Machin (2005), "Valuing Rail Access Using Transport Innovations,"
    *Journal of Urban Economics* 57(1): 148–169. [DOI](https://doi.org/10.1016/j.jue.2004.10.002) ·
-   [LSE working-paper version](https://cep.lse.ac.uk/pubs/download/dp0611.pdf) — used for the
-   design, setting, and findings (B-claims; magnitudes flagged [VERIFY] pending first-hand access
-   to the published tables).
+   [LSE working-paper version](https://cep.lse.ac.uk/pubs/download/dp0611.pdf) — used for
+   authorship, venue, abstract quotations, and the study design and setting; precise magnitudes
+   are flagged [VERIFY] pending first-hand access to the published tables (see Findings and
+   Nuances and Limits above).
