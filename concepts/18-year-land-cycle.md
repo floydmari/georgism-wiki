@@ -20,6 +20,8 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
+- [Boom-Bust Cycle](/wiki/boom-bust-cycle/)
+
 - [Fred Harrison](/wiki/fred-harrison/) · [Homer Hoyt](/wiki/homer-hoyt/) · [Land Monopoly](/wiki/land-monopoly/) · [Economic Rent](/wiki/economic-rent/)
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the persuasive framing built on this cycle
 - [Progress and Poverty's 18.6-year cycle](/wiki/progress-18-6-year-cycle/) — the research-page record of the cycle literature

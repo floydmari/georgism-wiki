@@ -36,6 +36,8 @@ land rent.
 
 ## See Also
 
+- [Tiebout Model](/wiki/tiebout-model/)
+
 - [Oates (1969), capitalization of property taxes and public spending](/wiki/oates-1969-capitalization/)
 - [Hamilton's Benefit View](/wiki/hamilton-benefit-tax/)
 - [Tax Capitalization](/wiki/tax-capitalization/)

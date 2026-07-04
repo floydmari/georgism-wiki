@@ -37,6 +37,8 @@ The 2011 Mirrlees Review, commissioned by the UK's Institute for Fiscal Studies 
 
 ## See Also
 
+- [Site Value](/wiki/site-value/)
+
 - [Land Value Capture](/wiki/land-value-capture/)
 
 - [Economic rent](/wiki/economic-rent/) — the concept on which LVT is theoretically grounded

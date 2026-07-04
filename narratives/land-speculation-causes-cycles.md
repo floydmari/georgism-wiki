@@ -237,6 +237,8 @@ This is the narrative's honest weak point, and it should be presented as such:
 
 ## See Also
 
+- [Jordà, Schularick & Taylor — The Great Mortgaging](/wiki/great-mortgaging/)
+
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept this narrative deploys
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's original theory of
   land speculation and industrial depressions

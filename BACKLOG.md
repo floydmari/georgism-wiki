@@ -78,8 +78,7 @@ comprehensiveness watermark: 136 external-source rows (first invocation complete
 - [ ] [DRAFT] tier:T2 status:todo — concepts: carbon pricing / Pigouvian taxation within the
       Georgist frame (audit corpus-gap; ecological-georgism cites it) and outcomes/lvt-reduces-sprawl
       (Banzhaf-Lavery evidence)
-- [ ] [DRAFT] tier:T2 status:todo — research/great-mortgaging — Jordà-Schularick-Taylor 2014
-      (registry row exists, Light; deep pass flags it as page-worthy)
+- [x] [DRAFT] tier:T2 status:done — research/great-mortgaging — Jordà-Schularick-Taylor 2014 — GLM wave 1 (full text read; honest supports_outcomes:[] — credit-side complement)
 
 ## Stub queue (flywheel intake — stubs created at discovery, ranked by [PRIORITIZE])
 - [ ] [PRIORITIZE] tier:T1 status:recurring — each wave: rank stubs below by (a) inbound-link
@@ -109,7 +108,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [x] [DRAFT] tier:T2 — gibbons-machin-rail-access — Gibbons & Machin 2005 (important)
 - [x] [DRAFT] tier:T2 — mohammad-rail-meta-analysis — Mohammad et al. 2013 (important)
 - [x] [DRAFT] tier:T2 — albouy-what-are-cities-worth — Albouy 2016 (core) — agent kept only public-investment-capitalizes-into-land; dropped the fund-government wiring as unsupported
-- [ ] [DRAFT] tier:T2 — davis-heathcote-us-land — Davis & Heathcote 2007 (important)
+- [x] [DRAFT] tier:T2 — davis-heathcote-us-land — Davis & Heathcote 2007 (important) — GLM wave 1, conservative draft (source paywalled; Light scan)
 **Land value scale** (→ land-rent-could-fund-government):
 - [x] [DRAFT] tier:T2 — larson-us-land-value — Larson 2015 BEA (core)
 - [x] [DRAFT] tier:T2 — albouy-ehrlich-shin-metro-land — Albouy, Ehrlich & Shin 2018 (important)
@@ -129,7 +128,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 **Affordability** (→ lvt-improves-housing-affordability):
 - [x] [DRAFT] tier:T2 — saiz-housing-supply-elasticity — Saiz 2010 (core)
 - [x] [DRAFT] tier:T2 — glaeser-gyourko-housing-supply — Glaeser & Gyourko 2018 JEP (core)
-- [ ] [DRAFT] tier:T2 — hilber-vermeulen-england-supply — Hilber & Vermeulen 2016 (important)
+- [x] [DRAFT] tier:T2 — hilber-vermeulen-england-supply — Hilber & Vermeulen 2016 (important) — GLM wave 1, conservative draft (source paywalled; [VERIFY]-heavy, Light scan)
 **Productivity** (→ high-land-rents-suppress-productivity):
 - [x] [DRAFT] tier:T2 — hsieh-moretti-spatial-misallocation — Hsieh & Moretti 2019 (core)
 - [x] [DRAFT] tier:T2 — duranton-puga-urban-growth — Duranton & Puga 2020 (important)
@@ -166,13 +165,13 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [x] [DRAFT] tier:T2 — crouzet-eberly-intangibles — Crouzet & Eberly 2019 (important; challenged_by on the new outcome, as designed; Heavy scan, primary text read)
 - [ ] [DRAFT] tier:T2 — korinek-ng-digital-superstars — Korinek & Ng (important)
 - [ ] [DRAFT] tier:T2 — haskel-westlake-capitalism-without-capital — Haskel & Westlake 2017 (important)
-- [ ] [DRAFT] tier:T2 — zingales-political-theory-firm — Zingales 2017 (important)
-- [ ] [DRAFT] tier:T2 — akcigit-ates-business-dynamism — Akcigit & Ates 2021 (important)
+- [x] [DRAFT] tier:T2 — zingales-political-theory-firm — Zingales 2017 (important) — GLM wave 1
+- [x] [DRAFT] tier:T2 — akcigit-ates-business-dynamism — Akcigit & Ates 2021 (important) — GLM wave 1
 - [x] [DRAFT] tier:T2 — eeckhout-profit-paradox — Eeckhout 2021 (important)
 - [ ] [DRAFT] tier:T2 — rochet-tirole-two-sided — Rochet & Tirole 2003 (important)
 - [ ] [DRAFT] tier:T2 — data-as-labor — Arrieta-Ibarra et al. 2018 (supplementary)
 - [ ] [DRAFT] tier:T2 — hazlett-spectrum-rents — Hazlett spectrum property rights (supplementary)
-- [ ] [DRAFT] tier:T2 — cea-2016-market-power — CEA 2016 brief (supplementary)
+- [x] [DRAFT] tier:T2 — cea-2016-market-power — CEA 2016 brief (supplementary) — GLM wave 1
 
 ## Follow-ups discovered by the 2026-07-04 session (wave 5)
 - [ ] [UPDATE] tier:T3 status:todo — places/british-columbia.md cites stale BC Speculation & Vacancy Tax rates (0.5%/2%); current: 1%/3% for 2026, 4% foreign from 2027 (vancouver.md has fresh cites) — refresh + registry
@@ -237,9 +236,9 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
       Without Design, Escaping the Housing Trap  (one page each)
 - [ ] [DRAFT] tier:T2 status:todo — research: complete Gaffney / Tideman / Hudson / Stiglitz coverage
       against the registry (fill gaps toward research 47→100+)
-- [ ] [DRAFT] tier:T2 status:todo — concepts: Site Value, Law of Rent, Boom-Bust Cycle, Betterment
-      Levy, Tiebout Model, Land Value Capture, EBCOR, Rentier, Land Speculation, Land Bubble,
-      Marginal Productivity, Land as Commons  (toward concepts 22→40+)
+- [~] [DRAFT] tier:T2 status:partial — concepts: DONE 2026-07-04 via GLM wave 1: Site Value, Law of
+      Rent, Boom-Bust Cycle, Tiebout Model, Rentier, Land Speculation. REMAINING: Betterment Levy,
+      EBCOR, Land Bubble, Marginal Productivity, Land as Commons (Land Value Capture already exists)
 - [ ] [BULK] tier:T3 status:todo — scan remaining registry sources; set Scan Depth / Status / citations
 
 ## Phase 2 — Linkage (outcomes + narratives)  [depends on: Phase 1]

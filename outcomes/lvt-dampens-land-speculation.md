@@ -39,6 +39,8 @@ The supporting studies divide into three tiers, and it matters which claim each 
 
 ## See Also
 
+- [Land Speculation](/wiki/land-speculation/)
+
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land Monopoly](/wiki/land-monopoly/) · [Estonia](/wiki/estonia/) · [2008 Financial Crisis](/wiki/2008-financial-crisis/)
 
 ## Sources

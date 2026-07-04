@@ -30,6 +30,8 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 
 ## See Also
 
+- [Law of Rent](/wiki/law-of-rent/)
+
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response to economic rent
 - [Unearned Increment](/wiki/unearned-increment/) — John Stuart Mill's term for the same concept
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
