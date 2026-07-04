@@ -8,7 +8,7 @@ excerpt: "Taiwan implements a Land Value Increment Tax rooted in Sun Yat-sen's '
 
 ## Overview
 
-Taiwan operates one of Asia's most explicit applications of Georgist land policy, through its **Land Value Increment Tax (LVIT)** and broader land-value-capture system. The intellectual lineage runs directly to **Sun Yat-sen**, founder of the Republic of China, whose principle of **"equalization of land rights"** (one of his Three Principles of the People) was directly influenced by Henry George.
+Taiwan operates one of Asia's most explicit applications of Georgist land policy, through its **[Land Value Increment Tax](/wiki/land-value-increment-tax/) (LVIT)** and broader land-value-capture system. The intellectual lineage runs directly to **Sun Yat-sen**, founder of the Republic of China, whose principle of **"equalization of land rights"** (one of his Three Principles of the People) was directly influenced by Henry George.
 
 ## The System
 
@@ -20,7 +20,7 @@ Taiwan demonstrates that Georgist land-value capture can be embedded in a nation
 
 ## See Also
 
-- [Unearned Increment](/wiki/unearned-increment/) · [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
+- [Land Value Increment Tax](/wiki/land-value-increment-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
 
 ## Sources
 

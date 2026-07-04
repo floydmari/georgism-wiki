@@ -21,9 +21,9 @@ essay-based synthesis — Hudson himself compiled much of it from prior columns 
 rather than a work of original econometric research, and the wiki treats its central claims
 accordingly: as Hudson's argument, not as settled empirical fact (EDITORIAL taxonomy
 C/D — theoretical and interpretive claims). The book's core target is what Hudson calls the
-**FIRE sector** (finance, insurance, and real estate), which he argues has displaced industrial
-capitalism as the dominant force in the modern economy by extracting **economic rent** rather
-than funding production.
+[**FIRE sector**](/wiki/fire-sector/) (finance, insurance, and real estate), which he argues has
+displaced industrial capitalism as the dominant force in the modern economy by extracting
+**economic rent** rather than funding production.
 
 ## The Argument
 
@@ -139,6 +139,7 @@ The strongest sourced criticisms of the book fall into three categories:
 
 ## See Also
 
+- [FIRE Sector](/wiki/fire-sector/) — the concept page for Hudson's central category
 - [Michael Hudson](/wiki/michael-hudson/) — the author's broader body of work
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the narrative this book anchors, including its evidentiary limits
 - [Economic Rent](/wiki/economic-rent/) — the underlying classical/Georgist concept

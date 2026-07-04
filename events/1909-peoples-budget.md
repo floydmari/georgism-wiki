@@ -9,7 +9,7 @@ excerpt: "Lloyd George's 1909 budget proposed land value duties, triggering a co
 
 ## Overview
 
-The **People's Budget** of 1909, introduced by Chancellor **David Lloyd George** in the British Liberal government, was the high-water mark of land value taxation in British politics. It proposed new **land value duties** — taxes on the unearned increase in land values — alongside other progressive measures to fund social programs and naval spending.
+The **People's Budget** of 1909, introduced by Chancellor **[David Lloyd George](/wiki/david-lloyd-george/)** in the British Liberal government, was the high-water mark of land value taxation in British politics. It proposed new **land value duties** — taxes on the unearned increase in land values — alongside other progressive measures to fund social programs and naval spending. **[Winston Churchill](/wiki/winston-churchill/)**, then President of the Board of Trade, campaigned alongside Lloyd George for the duties, later collecting his speeches as *The People's Rights*.
 
 ## The Constitutional Crisis
 

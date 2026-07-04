@@ -1,0 +1,83 @@
+---
+title: "What Are Cities Worth? Land Rents, Local Productivity, and the Total Value of Amenities"
+category: research
+tags: [research, land-rents, capitalization, spatial-equilibrium, amenities, urban-economics, rosen-roback]
+authors: [David Albouy]
+year: 2016
+tier: Core
+source_url: https://doi.org/10.1162/REST_a_00550
+stub: false
+excerpt: "Albouy's Rosen-Roback model infers city-level land rents, productivity, and total amenity value from U.S. wage and housing-cost data, finding productivity — not quality of life — drives most cross-city price variation."
+last_reviewed: 2026-07-03
+supports_outcomes: [public-investment-capitalizes-into-land]
+---
+
+## Summary
+
+"What Are Cities Worth? Land Rents, Local Productivity, and the Total Value of Amenities" is a peer-reviewed article by **David Albouy** (University of Illinois at Urbana-Champaign and NBER), published in **The Review of Economics and Statistics**, July 2016, vol. 98, no. 3, pp. 477–487 (DOI: [10.1162/REST_a_00550](https://doi.org/10.1162/REST_a_00550)). The paper was first circulated as **NBER Working Paper No. 14981** in May 2009 under the closely related title "What are Cities Worth? Land Rents, Local Productivity, and the Capitalization of Amenity Values," and was revised for several years (the published version records the manuscript as received February 2012 and accepted April 2015) [VERIFY: exact revision history between the 2009 NBER draft and the 2016 published version; the two versions differ somewhat in title and framing]. It carries weight as a Core source for this wiki because it is a peer-reviewed article in a well-regarded economics journal, it extends the canonical **Rosen (1979)–Roback (1982)** spatial-equilibrium framework that underlies most modern urban/regional economics work on amenity valuation, and it is cited as a methodological reference by later work applying the same framework outside the U.S. (e.g., Albouy, Leibovici & Warman's 2013 Canadian application, cited in the paper's own reference list).
+
+The paper is technical and quantitative rather than policy-oriented: it is not about land value taxation, and it makes no argument about government revenue or public finance. Its relevance to Georgism is narrower and more specific than that of the [Mirrlees Review](/wiki/mirrlees-review/) — it is evidence about a *mechanism* (capitalization of productivity and amenities into land rents), not a policy proposal.
+
+## The Core Argument and Findings
+
+Albouy builds an intercity spatial-equilibrium model in the Rosen-Roback tradition, extended to separate **land rents from housing costs** and to account for **federal income taxes** and a **locally produced, non-traded "home good" sector** (housing services), which earlier applications of the framework did not fully distinguish (Albouy 2016, pp. 477–478). Because land is treated as a distinct, home-good-producing input separate from labor and capital, the model can back out a city-specific **land rent differential** from observed wage and housing-cost differentials, rather than simply equating housing costs with land value as some prior studies did — a distinction the paper argues matters empirically (p. 478).
+
+Key empirical results, using 2000 U.S. Census/IPUMS data for 276 metropolitan areas and non-metro state residuals [VERIFY: exact sample year and whether later vintages were also used]:
+
+- **Productivity, not quality of life, explains most cross-city price variation.** A variance decomposition finds that of the variation in log wages, housing costs, land rents, and total amenity value across metro areas, "trade productivity" (the productivity of city firms selling traded goods) accounts for a substantially larger share than "quality of life" does; the paper reports trade productivity as the dominant component of wage and housing-cost variation, with quality of life "hav[ing] a greater influence on land rents by a slight margin" (Table 3, p. 483; text p. 483). [CITATION NEEDED: exact percentage-point split from the Table 3 variance decomposition, e.g. the reported fractions-of-variance figures for land rents (variance 1.056; trade-productivity share 0.356, quality-of-life share 0.282, per Table 3) should be quoted precisely if used elsewhere in the wiki.]
+- **Land rents vary enormously across cities.** The paper's central empirical city ranking (Table 1) shows San Francisco with the highest inferred land-rent differential and estimates that, at the extremes, "the highest-value metro area, San Francisco, has land on average 100 times more valuable per acre than the lowest-value land in McAllen, Texas" (p. 482).
+- **Population, education, and natural amenities jointly explain about 90% of variation.** A parsimonious set of regressors — log metro population, share of population with a college degree, a residential land-use regulation index, heating/cooling degree days, annual sunshine, distance to coast, land slope, and latitude — yields coefficients of determination (R²) around 0.90 for trade productivity, land rents, and total amenity value (Table 4, p. 486; text p. 485).
+- **A doubling of city population raises the total value of local amenities by roughly 1.8% of income, of which about five-ninths is captured in local land values and the remainder in federal tax revenue** (p. 485). This is one of the few places in the paper where the split between land-value capitalization and other channels (here, federal tax capture via the tax-externality term in the model) is made explicit and quantified.
+- **A 10-percentage-point increase in college-educated population share is associated with roughly a 5.8% increase in the total value of local amenities, of which "federal taxes expropriate one-tenth"** (p. 485) — again illustrating the model's finding that gains from local productivity/amenity improvements are split between private capitalization (largely into land) and federal tax revenue, rather than being fully captured by land alone.
+- The most "trade-productive" city is San Francisco, followed by other large or resort-adjacent metros (New York, Los Angeles, Boston, Chicago, Washington–Baltimore, Detroit, plus smaller Monterey, Santa Barbara, and Hartford); combining productivity and quality of life, San Francisco is also the highest total-value metro (Table 2, p. 484).
+
+The paper's stated scope is explicitly cross-sectional and descriptive of equilibrium relationships, not causal: Albouy cautions that regressions using individual amenities "must be treated cautiously, as attributes may be endogenous" and that "[e]stimates should not be interpreted causally" (p. 484).
+
+## Relation to the Georgist Case
+
+### Supports: public investment/productivity capitalizes into land value
+
+The paper's core theoretical and empirical exercise is precisely the mechanism the [tax capitalization](/wiki/tax-capitalization/) and [outcome: public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) pages describe, generalized from local public investment to local productivity and amenities broadly. Albouy's model does **separately identify land rents** — not merely wages or total compensation — as a distinct object that responds to city-level productivity and amenity differences; this is the paper's central methodological contribution over prior studies that used housing costs as a stand-in for land value (p. 477–478). The explicit finding that a chunk of the value created by higher population/productivity or higher local human capital shows up specifically as increased **land value** (the "five-ninths... captured in local land values" result, p. 485) is a direct, quantified instance of value creation capitalizing into land rather than purely into wages. This directly supports the outcome page's claim that public-investment-driven (and, by extension, productivity/amenity-driven) value gains are capitalized into land.
+
+One caveat on scope: Albouy's paper is about productivity and *amenities* generally (climate, coastal access, education levels, population agglomeration), not about discrete public infrastructure projects (transit lines, parks) specifically, which is the more common empirical referent of the "public investment capitalizes into land" outcome page (whose current sources are about transit and rail). Albouy's paper is best read as complementary, higher-level evidence for the same general mechanism — that local advantages of many kinds, including agglomeration effects plausibly tied to public infrastructure and services, capitalize partly into land — rather than as a direct test of a specific public-investment project's effect on nearby parcels.
+
+### Not supported, or only very weakly: land rent as a fiscal base
+
+The assigned second wiring, **land-rent-could-fund-government**, is **not supported by this paper** and should be **dropped**. Having read the full text (introduction, model, empirical sections, and conclusion), the paper contains **no discussion of land value taxation, public finance policy, or government revenue as a normative or fiscal question**. "Federal tax" appears only as an empirical input to the model — an existing distortion that expropriates part of the value of amenities and productivity gains via the federal income tax base (e.g., the "one-tenth" and "the rest in federal tax revenues" figures above) — and the paper's citations to "local fiscal conditions" research (e.g., Gyourko & Tracy 1991, cited in the bibliography) are about how local public finance affects wages and quality-of-life measurement, not about the revenue-raising capacity of a land tax. The paper produces **no aggregate or national total-value figure** for U.S. land rents or amenity value in the way Gaffney's estimate does for the `land-rent-could-fund-government` outcome — its Table 1 gives standardized (log-differential) rankings and a national-average row of summary statistics, not a dollar aggregate. There is therefore no aggregate figure in this paper that could honestly be cited as evidence for the scale of a land-tax base. This wiring is dropped rather than weakly kept.
+
+## Nuances and Limits
+
+- **Correlational, not causal.** Albouy explicitly disclaims a causal interpretation of the individual-amenity regressions (p. 484), citing standard concerns about omitted variables, simultaneity, and multicollinearity in cross-sectional hedonic/amenity regressions (citing Gyourko, Saiz & Summers 2008).
+- **Land rent is inferred, not directly observed.** Lacking direct land-rent data for most cities, the model imputes land rents from housing costs under an assumption (unobserved home-productivity differences are zero) that the author states biases the land-rent estimates in a specific direction and to a greater degree than the trade-productivity estimates (p. 478). This is a structural limitation of the entire literature this paper improves on, not unique to Albouy, but it means the land-rent figures are model-derived rather than measured.
+- **Endogeneity of amenities and population.** The paper itself flags that "attributes may be endogenous" (e.g., high quality of life may raise population, which can itself generate agglomeration productivity gains) — a two-way relationship the variance decomposition cannot resolve (p. 483).
+- **Cross-sectional snapshot, not a study of policy or of infrastructure investment.** The paper analyzes one Census cross-section (2000) [VERIFY: whether Albouy's later related papers, e.g. Albouy & Ehrlich 2012 or Albouy & Stuart 2014, update this to more recent data] and does not evaluate any specific public investment, transit line, or tax reform; it is a measurement paper about the *stock* of amenity and productivity differences priced into land and wages, not an event study of a *change*.
+- **No welfare or policy conclusion is drawn.** The paper stops at description and measurement ("a clean and intuitive framework for understanding... variation," p. 486); it explicitly leaves extensions (intracity structure, population heterogeneity, dynamics) to future work and takes no position on tax policy.
+
+## Bears On
+
+- [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — Albouy's finding that local productivity and amenity gains are partly and measurably capitalized into land rents specifically (not just wages) is generalizable, complementary evidence for this outcome's mechanism, though the paper studies broad productivity/amenities rather than discrete public-infrastructure projects.
+- [Concept: Tax Capitalization](/wiki/tax-capitalization/) — the paper's land-rent inference method is a worked empirical application of capitalization theory to city-level productivity and amenities.
+- [Concept: Henry George Theorem](/wiki/henry-george-theorem/) — Albouy's finding that a fraction of population-driven amenity value is captured in land rents (rather than being fully dissipated or fully captured elsewhere) is thematically adjacent to the Henry George Theorem's land-rent/public-goods equivalence, though Albouy does not test or invoke the theorem itself. [VERIFY: whether any of Albouy's other papers, e.g. on population and city size, engage the Henry George Theorem directly]
+- [Concept: Economic Rent](/wiki/economic-rent/) — the paper is a rigorous empirical demonstration of how location-specific rent is generated by and reflects local productivity and amenity differences.
+- [Research: Hsieh & Moretti, Spatial Misallocation](/wiki/hsieh-moretti-spatial-misallocation/) — a related strand of spatial-equilibrium literature on how local (often land-use-driven) frictions affect aggregate outcomes; useful cross-reference for readers of Albouy's framework.
+
+## See Also
+
+- [Tax Capitalization](/wiki/tax-capitalization/)
+- [Henry George Theorem](/wiki/henry-george-theorem/)
+- [Economic Rent](/wiki/economic-rent/)
+- [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/)
+- [Research: Hsieh & Moretti, Spatial Misallocation](/wiki/hsieh-moretti-spatial-misallocation/)
+
+## Sources
+
+1. David Albouy (2016), "What Are Cities Worth? Land Rents, Local Productivity, and the Total Value of Amenities," *The Review of Economics and Statistics* 98(3), 477–487. DOI: [10.1162/REST_a_00550](https://doi.org/10.1162/REST_a_00550) — used for the model, all empirical findings, tables, and figures cited above; full text read directly (PDF via author's site, cross-checked against MIT Press and RePEc listings).
+2. David Albouy, NBER Working Paper No. 14981, "What are Cities Worth? Land Rents, Local Productivity, and the Capitalization of Amenity Values," first circulated May 2009. [NBER](https://www.nber.org/papers/w14981) — used for confirming the working-paper history and title change ahead of publication; not used as the primary citation since the published, peer-reviewed version is available and should be preferred per editorial policy.
+3. David Albouy faculty research page. [davidalbouy.com](https://davidalbouy.com/research/dntcs75pbx18io9l825rl4tcyo0ydy) — used to confirm author identity, affiliation (University of Illinois and NBER, per the paper's own title-page footnote), and to obtain the full-text PDF.
+4. IDEAS/RePEc listing. [ideas.repec.org](https://ideas.repec.org/a/tpr/restat/v98y2016i3p477-487.html) — used to cross-verify volume/issue/page numbers, year, and JEL codes (H2, H4, J3, Q5, R1).
+
+[CITATION NEEDED: exact numeric split from Table 3's variance decomposition if a future page wants to quote precise percentage points rather than the qualitative "productivity explains more" finding.]
+
+[VERIFY: the precise revision timeline and framing differences between the 2009 NBER working paper (title emphasizes "Capitalization of Amenity Values") and the 2016 published version (title emphasizes "Total Value of Amenities") — this session could not fetch the NBER working paper PDF directly to compare text, only its landing page.]
+
+[VERIFY: whether any of Albouy's follow-up papers (Albouy & Ehrlich 2012 on housing productivity; Albouy & Stuart 2014 on population levels) update the land-rent or amenity-value estimates with more recent data than the 2000 Census cross-section used here.]

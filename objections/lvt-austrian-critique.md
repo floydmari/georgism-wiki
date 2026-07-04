@@ -9,7 +9,7 @@ excerpt: "The Austrian-school objections to land value taxation — that land is
 
 ## The Objection
 
-Austrian-school economists, following Murray Rothbard, raise several objections to LVT:
+Austrian-school economists, following [Murray Rothbard](/wiki/murray-rothbard/), raise several objections to LVT:
 
 1. **Land is just capital.** There is no economically meaningful distinction between land and other capital goods, so singling out land for taxation is arbitrary.
 2. **Calculation problem.** Without a market in *unimproved* land, the state cannot objectively know land value; assessment is arbitrary central planning.
@@ -27,6 +27,7 @@ This is a **genuine theoretical dispute**, not a settled question — the land-v
 
 ## See Also
 
+- [Murray Rothbard](/wiki/murray-rothbard/) — the economist whose arguments this objection represents
 - [Geolibertarianism](/wiki/geolibertarianism/) · [Deadweight Loss](/wiki/deadweight-loss/)
 
 ## Sources

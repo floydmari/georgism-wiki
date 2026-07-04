@@ -138,5 +138,51 @@ Coverage 19/65 -> 41/65. Pattern proven: concurrent forward-links get temporaril
 to keep lint green, restored when the sibling lands. Remaining queue + resume protocol at the
 top of BACKLOG.md.
 
+
+## Wave 5 — Task 0 discovery sweep + campaign completion: COVERAGE 14/14 (2026-07-04)
+
+The session that closed the evidence campaign. Three phases, ~45 subagents, orchestrated from a
+single T1 session (survived one session-limit interruption mid-wave; recovered from git + agent
+output files):
+
+**Task 0 — one-time full-corpus DISCOVERY-SWEEP.** 10 report-only T2 agents over all 176 pages in
+chunks; 29 deduped candidates; T1 triage accepted 20 / rejected 9 with reasons (recorded in
+BACKLOG's stub queue). 5 stub-writer agents created all 20 sourced stubs per EDITORIAL's standard
+with inbound links wired. All three known misses confirmed and fixed (homer-hoyt, david-lloyd-george,
+vancouver). First flywheel round then backfilled homer-hoyt and vancouver to full pages.
+
+**Evidence waves 3–5.** 32 new research pages across three 9-16-agent waves, every outcome wired
+to ≥5 supporting papers. Coverage 1/13 → 14/14 (incl. the new 14th outcome
+outcomes/corporate-profits-increasingly-rents, T1-written, supported by the tech-rents cluster:
+De Loecker-Eeckhout-Unger, Furman-Orszag, Barkai, Philippon, Eeckhout; challenged by
+Crouzet-Eberly intangibles + superstar-firms efficiency reading).
+
+**Honesty calls the loop made (the pattern holding under pressure):**
+- Gemmell-Grimes-Skidmore NZ verified as a NULL result for new construction → supports_outcomes:[],
+  written into the split-rate outcome as a caveat instead of coverage.
+- Piketty reclassified context-only by its own drafting agent's recommendation (the land
+  decomposition is Rognlie's, not Piketty's) — the 5th capital-share slot went to Furman-Orszag's
+  housing decomposition instead.
+- Barkai wired as challenged_by on capital-share-rise-is-land while supporting the corporate-rents
+  outcome — the same paper honestly cuts both ways.
+- World Bank CWON 2021 re-wired by its agent from the developing-world outcome to
+  land-rent-could-fund-government (wealth-accounting is scale evidence, not welfare evidence).
+- The speculation outcome got a three-tier evidence map (phenomenon / mechanism / policy) so its
+  6 supporting papers can't be misread as six tests of LVT.
+- Norway explicitly REJECTED as a dividends cite (no per-capita dividend — a save-and-budget fund).
+
+**Registry:** 193 → 228 rows; 3 corrections including a wrong URL on Foldvary 1997 (both circulating
+SJSU links resolve to unrelated documents; corrected to JSTOR 3487330 + free mirror, and the two
+citing pages fixed). Drive snapshot "Georgism Wiki — Source Registry (git sync 2026-07-04)" pushed;
+a post-snapshot delta (~13 wave-D rows) is a loud [SHEET-SYNC] todo.
+
+**Process notes for future loops:** (1) Two draft agents initially stopped claiming to "wait for a
+background agent" — a SendMessage nudge ("YOU are the drafting agent") fixed both; one backfill
+agent looped without editing and needed a fresh relaunch with "do not delegate or wait" up front —
+now baked into backfill prompts. (2) Frontmatter references to not-yet-existing outcome slugs fail
+lint, so the tech-rents drafts shipped with supports_outcomes:[] + prose notes, wired by T1 in the
+same commit as the outcome page. (3) Concurrent agents must not share file ownership — disjoint
+edit sets per agent worked with zero conflicts across ~45 agents.
+
 Update this log at the end of each loop (or wave) so the descriptive record stays in step with
 `git log`.

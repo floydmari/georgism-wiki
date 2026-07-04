@@ -153,6 +153,7 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
 
 ## See Also
 
+- [Winston Churchill (land-monopoly campaign)](/wiki/winston-churchill/) — the man and his broader 1909-10 campaign
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the legislative fight this book was written to win
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the broader argument Churchill's speeches belong to
 - [Henry George](/wiki/henry-george/) — the theorist whose ideas Churchill drew on

@@ -13,7 +13,7 @@ Around the turn of the 20th century, Georgist reformers founded **single-tax col
 
 ## Fairhope and Arden
 
-- **Fairhope, Alabama** (founded **1894**) was established by the Fairhope Single Tax Corporation. The Corporation owns the land and leases it to residents, charging an annual rent based on land value in lieu of the land being privately owned — and uses the proceeds for community purposes. Fairhope grew into a thriving town, and the Single Tax Corporation still operates.
+- **Fairhope, Alabama** (founded **1894**) was established by the [Fairhope Single Tax Corporation](/wiki/fairhope-single-tax-corporation/). The Corporation owns the land and leases it to residents, charging an annual rent based on land value in lieu of the land being privately owned — and uses the proceeds for community purposes. Fairhope grew into a thriving town, and the Single Tax Corporation still operates.
 - **Arden, Delaware** (founded **1900**) by Frank Stephens and Will Price as an arts-and-crafts single-tax community; it too retains its land-rent system and remains an incorporated village today.
 
 ## Significance
@@ -22,7 +22,7 @@ The colonies are living, century-long demonstrations that community land ownersh
 
 ## See Also
 
-- [Single Tax](/wiki/single-tax/) · [Henry George](/wiki/henry-george/) · [Land Value Capture](/wiki/land-value-capture/)
+- [Single Tax](/wiki/single-tax/) · [Henry George](/wiki/henry-george/) · [Land Value Capture](/wiki/land-value-capture/) · [Fairhope Single Tax Corporation](/wiki/fairhope-single-tax-corporation/)
 
 ## Sources
 

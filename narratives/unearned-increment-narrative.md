@@ -45,13 +45,14 @@ beyond economics.
   the whole of land rent: "to abolish all taxation save that upon land values"
   (Book VIII, Ch. 2).[3] The argument powered the [Single Tax](/wiki/single-tax/)
   movement and George's [1886 New York mayoral run](/wiki/1886-nyc-mayoral-election/).
-- **The Edwardian Liberals** made it a governing programme. Winston Churchill, then a
-  Liberal minister, put it in its most-quoted form in a speech at the King's Theatre,
-  Edinburgh, on 17 July 1909, reprinted in *The People's Rights* (1910): "Roads are
-  made, streets are made, services are improved … and all the while the landlord sits
-  still. To not one of those improvements does the land monopolist, as a land
-  monopolist, contribute, and yet by every one of them the value of his land is
-  enhanced."[4] Chancellor David Lloyd George defended the
+- **The Edwardian Liberals** made it a governing programme. [Winston
+  Churchill](/wiki/winston-churchill/), then a Liberal minister, put it in its
+  most-quoted form in a speech at the King's Theatre, Edinburgh, on 17 July 1909,
+  reprinted in *The People's Rights* (1910): "Roads are made, streets are made,
+  services are improved … and all the while the landlord sits still. To not one of
+  those improvements does the land monopolist, as a land monopolist, contribute, and
+  yet by every one of them the value of his land is enhanced."[4] Chancellor
+  [David Lloyd George](/wiki/david-lloyd-george/) defended the
   [People's Budget](/wiki/1909-peoples-budget/)'s land duties in the same terms at
   Limehouse on 30 July 1909, including its "halfpenny tax on unearned increment."[5]
 - **Modern economists and practitioners** carry it forward in drier language.

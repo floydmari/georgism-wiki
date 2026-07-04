@@ -17,7 +17,7 @@ last_reviewed: 2026-07-03
 
 ## Origins: The Irish Land War
 
-George wrote the book at the height of the **Irish Land War** (1879–82), the mass agitation led by the **Irish National Land League** — founded by **Michael Davitt** and presided over by **Charles Stewart Parnell** — against evictions and rack-renting by (mostly absentee, mostly Protestant) landlords. The Land League's programme centred on the "Three Fs" (fair rent, fixity of tenure, free sale) and, increasingly, on schemes for **peasant proprietorship**: buying out landlords and transferring titles to tenant farmers. The British government's response, Gladstone's **Land Law (Ireland) Act 1881**, partially codified the Three Fs and opened state-assisted land purchase.
+George wrote the book at the height of the **[Irish Land War](/wiki/irish-land-war/)** (1879–82), the mass agitation led by the **Irish National Land League** — founded by **[Michael Davitt](/wiki/michael-davitt/)** and presided over by **Charles Stewart Parnell** — against evictions and rack-renting by (mostly absentee, mostly Protestant) landlords. The Land League's programme centred on the "Three Fs" (fair rent, fixity of tenure, free sale) and, increasingly, on schemes for **peasant proprietorship**: buying out landlords and transferring titles to tenant farmers. The British government's response, Gladstone's **Land Law (Ireland) Act 1881**, partially codified the Three Fs and opened state-assisted land purchase.
 
 The book's reception drew George directly into the conflict. Later in 1881 he sailed for Ireland as a correspondent for Patrick Ford's New York paper *The Irish World*, reporting on the Land War for roughly a year and lecturing across Ireland and Britain — including a well-received address on "Land and Labour" for the Political Prisoners' Aid Society at the Rotunda, Dublin, in November 1881. He corresponded and worked with Davitt, and in August 1882 was twice briefly detained by police near Athenry, County Galway, on suspicion of Land League association — an episode that drew press attention on both sides of the Atlantic and some official embarrassment for the British administration [CITATION NEEDED: contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882].
 
@@ -40,6 +40,8 @@ Within the wiki's frame, this episode is one of the routes by which George's ana
 ## See Also
 
 - [Henry George](/wiki/henry-george/) — the author
+- [The Irish Land War](/wiki/irish-land-war/) — the crisis this book intervened in
+- [Michael Davitt](/wiki/michael-davitt/) — founder of the Irish National Land League, George's collaborator and rival on the remedy
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the theoretical work this book applies to Ireland
 - [Social Problems](/wiki/social-problems/) — George's next popular, applied work
 - [Land Monopoly](/wiki/land-monopoly/) — the structural problem George identifies as common to Ireland and elsewhere

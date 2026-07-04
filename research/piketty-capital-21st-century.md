@@ -1,0 +1,231 @@
+---
+title: "Capital in the Twenty-First Century"
+category: research
+tags: [research, piketty, capital-share, wealth-income-ratio, inequality, housing, land]
+authors: [Thomas Piketty]
+year: 2014
+tier: Core
+source_url: https://www.hup.harvard.edu/books/9780674430006
+stub: false
+excerpt: "Piketty's bestselling data-driven inequality book documents rising wealth-income ratios and capital's share of income — the empirical starting point that Rognlie, Bonnet et al., and La Cava later re-decompose as substantially a land/housing phenomenon."
+last_reviewed: 2026-07-04
+supports_outcomes: []
+---
+
+## Summary
+
+*Capital in the Twenty-First Century* is a 2013 book by French economist **Thomas Piketty**
+(Paris School of Economics, EHESS), published in French as *Le Capital au XXIe siècle* and in
+English translation by Arthur Goldhammer in 2014 by the **Belknap Press of Harvard University
+Press**. Built on more than a decade of historical data work by Piketty and collaborators
+(including Emmanuel Saez, Gabriel Zucman, and Anthony Atkinson) assembled in the World Wealth and
+Income Database, the book documents long-run trends in wealth and income concentration across
+France, the UK, the US, and other advanced economies, in some series stretching back to the
+18th century. It became an unexpected global bestseller and one of the most widely discussed
+economics books of the 2010s, credited with returning wealth and capital concentration — as
+opposed to income inequality alone — to the center of both academic and popular economic debate.
+
+Piketty is not a Georgist and the book does not discuss land value taxation or Henry George.
+Its relevance to this wiki is almost entirely as an **empirical starting point that other
+researchers re-decomposed**: the book's headline data on rising wealth-income ratios and a
+rising capital share of income is the very dataset that [Matthew Rognlie's 2014–2015
+critique](/wiki/rognlie-piketty-note/) worked from and reinterpreted as substantially a story
+about **housing, and therefore land**, rather than about the broad category "capital" (machines,
+equipment, financial assets) that Piketty's framing emphasizes. Because of this, the book is
+best read on this wiki not as a piece of pro-land-tax or land-decomposition research in its own
+right, but as **the widely credentialed data source and thesis that the land-decomposition
+literature (Rognlie, Bonnet et al., La Cava, Knoll-Schularick-Steger) subsequently refines and
+partially redirects**.
+
+## The Core Argument
+
+1. **Wealth-income ratios have risen back toward historically high, pre-WWI levels.** Using
+   national accounts and historical wealth estimates, Piketty (with Zucman, in the companion
+   paper "Capital is Back," *Quarterly Journal of Economics*, 2014) shows that private
+   wealth-to-national-income ratios in the US, UK, France, Germany, Japan, and other rich
+   countries fell sharply across the World Wars and mid-20th century, then rose steadily from
+   roughly 200–300% of national income around 1970 to 400–600% by 2010 — approaching the
+   600–700% ratios observed in 18th- and 19th-century Europe. [CITATION NEEDED: page-level
+   citation from the book itself; the ratio figures above are drawn from the companion Piketty
+   & Zucman (2014) QJE paper and secondary summaries, as this session's web access could not
+   directly fetch and quote the book's primary text or tables.]
+2. **The central r > g mechanism.** Piketty's headline theoretical claim (taxonomy D,
+   interpretive/argumentative, built on the empirical r and g series) is that whenever the rate
+   of return on capital (r) persistently exceeds the economy's growth rate (g), wealth
+   accumulated in the past grows faster than output and income, so inherited wealth tends to
+   dominate wealth created through current work and enterprise, and wealth concentration rises
+   over time absent countervailing shocks (wars, depressions) or policy (progressive taxation).
+   Piketty reports that historically r − g has typically been on the order of several
+   percentage points, narrowing sharply only during the mid-20th-century era of wars, high
+   growth, and progressive taxation, and argues this gap is likely to widen again as growth
+   slows in the 21st century.
+3. **Rising capital's share of national income.** Piketty presents the rise in wealth-income
+   ratios alongside a rise in the share of national income accruing to capital (as opposed to
+   labour) in several advanced economies since the 1970s–1980s, treating this as a related and
+   mutually reinforcing trend with the wealth-ratio rise.
+4. **Proposed remedy: a global progressive wealth tax.** Piketty's main policy proposal is a
+   coordinated, progressive annual tax on individual net wealth (capital in Piketty's broad
+   sense, spanning financial assets, business equity, and real estate), which he argues is
+   better suited than income taxation alone to arresting rising wealth concentration, alongside
+   highly progressive income and inheritance taxation. The book does not propose or discuss a
+   land value tax, and it does not treat land or housing as a category requiring separate tax
+   treatment from other forms of capital.
+
+## Relation to the Georgist Case
+
+Piketty's book supplies the widely credentialed **raw material and framing question** — is
+capital's share of income and the stock of accumulated wealth rising, and if so why — that the
+land-decomposition literature this wiki treats as central evidence answers with a specific,
+narrower claim: that the rise Piketty documents is concentrated in **housing**, and within
+housing substantially in the **land** component rather than in reproducible structures or
+productive equipment.
+
+- [Matthew Rognlie's 2014 note](/wiki/rognlie-piketty-note/) and [2015 *Brookings Papers*
+  article](/wiki/rognlie-capital-share/) directly re-analyze Piketty's own data (and the
+  underlying national accounts) and report that once depreciation is properly netted out, the
+  long-run rise in the *net* capital share across seven major advanced economies is
+  concentrated in housing; ex-housing, the net capital share shows little long-run trend.
+  Rognlie states the conclusion sharply: the justification behind Piketty's projection —
+  "the simultaneous long-term rise in the capital/income ratio and the net capital share of
+  income" — "vanishes once we remove housing" [VERIFY: quotation reconstructed from
+  aggregated secondary summaries of Rognlie's Brookings paper (Marginal Revolution's coverage
+  of the paper), not a directly re-fetched primary quotation in this session; a future editor
+  should confirm page number and exact wording against the PDF].
+- [Bonnet, Chapelle, Trannoy & Wasmer (2021)](/wiki/bonnet-land-is-back/) independently confirm,
+  using French and other European data, that the long-run rise in wealth-income ratios Piketty
+  documents is overwhelmingly a rise in **land values**, not produced capital.
+- [La Cava (2016)](/wiki/la-cava-housing-capital-share/) and
+  [Knoll, Schularick & Steger (2017)](/wiki/knoll-schularick-steger-house-prices/) further
+  refine *why* housing's income and price contribution rose (falling mortgage rates
+  interacting with inelastic land supply; land, not construction cost, driving the postwar
+  house-price boom), reinforcing the same land-centred reading of the Piketty-era data.
+
+Piketty did not accept this reframing without qualification. In work with Zucman responding to
+Rognlie, Piketty and Zucman acknowledge that housing capital's income share has risen, consistent
+with Rognlie, but argue that a meaningful rise in the *non-housing* capital share remains in
+some of their preferred specifications, and that Rognlie's own account attributes much of the
+residual non-housing rise to increased market/monopoly power rather than to a rise in the
+"pure" return to reproducible capital that Piketty's r > g mechanism describes [VERIFY: this
+characterization of the Piketty–Zucman rebuttal is drawn from converging secondary accounts
+(financial and policy press summaries of the exchange); this session could not directly fetch
+and quote the primary Piketty–Zucman rejoinder, so a future editor should locate and cite it
+directly]. The scholarly consensus that has since formed — reflected in this wiki's
+[capital-share-rise-is-land](/wiki/capital-share-rise-is-land/) outcome page, which rates the
+evidence "Strong (independently replicated across US and European data)" — favours the
+Rognlie/Bonnet-et-al./La Cava land-centred reading over Piketty's original broad-capital
+framing, but the point remains contested in its particulars (see [Autor et al. (2020) on
+superstar firms](/wiki/autor-superstar-firms/) for the leading non-land rival account of a
+related trend, the falling labour share).
+
+**Because the finding this wiki relies on for the [capital-share-rise-is-land](/wiki/capital-share-rise-is-land/)
+outcome is Rognlie's and the later literature's *re-decomposition* of Piketty's data — not a
+claim Piketty's book itself makes or endorses — readers should understand Piketty's own role
+here as supplying the credentialed empirical starting point and the thesis being refined, not
+as itself providing land-specific evidence.** The book is indispensable context for that
+literature; it is not, on its own terms, a source *for* the land-specific claim.
+
+## Nuances and Limits
+
+- **Piketty's "capital" is a broad accounting category, not land or housing specifically.**
+  It aggregates housing, other real estate, financial assets, and business capital into a single
+  wealth stock; the book's own analysis does not decompose this stock into land versus
+  structures versus financial/productive capital, which is precisely the decomposition Rognlie
+  and the subsequent literature perform.
+- **Methodological critiques beyond the housing/land question.** The book drew substantial
+  academic scrutiny on other grounds too — for example, a widely reported *Financial Times*
+  review (Chris Giles, 2014) raised questions about data transcription and adjustments in the
+  underlying wealth-inequality series for the UK and Europe; Piketty published a detailed
+  rebuttal disputing the FT's methodology and conclusions. [CITATION NEEDED: direct citation to
+  the FT's original piece and Piketty's response, which this session could not fetch directly;
+  the exchange is included here for balance since it is a well-known part of the book's
+  reception, but should be sourced directly before being cited as a load-bearing claim.]
+- **The r > g mechanism is a stylized long-run generalization, not a structural growth
+  model.** Economists including Rognlie and others have questioned whether the elasticity of
+  substitution between capital and labour that Piketty's projection implicitly assumes is
+  empirically plausible; if capital and labour substitute less easily than Piketty's framing
+  requires, accumulating capital drives down its own rate of return, capping rather than
+  amplifying capital's income share — a point [Rognlie's 2014 note](/wiki/rognlie-piketty-note/)
+  makes explicitly as a *second*, separate critique from the housing-decomposition finding.
+- **The book's own policy proposal (a global wealth tax) is not a land value tax**, and
+  Piketty does not treat land as warranting distinct tax treatment from other capital; readers
+  looking for Piketty's own view on land taxation will not find one in this book.
+- **Scope.** The book's core historical wealth-inequality series concentrate on France, the UK,
+  the US, Germany, and a handful of other rich countries; its global inequality claims beyond
+  these economies rely on thinner data, a limitation Piketty himself acknowledges.
+
+## Bears On
+
+- **Outcome:** [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/) —
+  Piketty's documented rise in wealth-income ratios and capital's income share is the dataset
+  and thesis that Rognlie, Bonnet et al., and La Cava subsequently re-decompose and substantially
+  attribute to land/housing; Piketty's book itself does not establish the land-specific finding,
+  so this page's support for the outcome is *indirect* — as essential context and the thesis
+  being refined, not as independent land-specific evidence. [VERIFY: orchestrator should
+  confirm whether `supports_outcomes` is the honest wiring here, or whether this page should be
+  context-only with no `supports_outcomes`, given that the land-specific claim is Rognlie's
+  contribution, not Piketty's.]
+- **Research:** [Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital"](/wiki/rognlie-piketty-note/) —
+  the first and most direct critique/re-decomposition of this book's data.
+- **Research:** [Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share"](/wiki/rognlie-capital-share/) —
+  the peer-reviewed development of the housing/land finding.
+- **Research:** [Bonnet, Chapelle, Trannoy & Wasmer (2021)](/wiki/bonnet-land-is-back/) —
+  independent European confirmation that the wealth-income ratio rise Piketty documents is a
+  land-price phenomenon.
+- **Research:** [La Cava (2016)](/wiki/la-cava-housing-capital-share/) — supplies a causal
+  mechanism (falling mortgage rates, inelastic land supply) for the housing-income-share rise
+  within Piketty-era capital-share data.
+- **Research:** [Autor, Dorn, Katz, Patterson & Van Reenen (2020)](/wiki/autor-superstar-firms/) —
+  the leading rival, non-land explanation for a related trend (the falling labour share),
+  relevant to assessing how much of "capital's rise" beyond housing is genuinely a land story.
+- **Concept:** [Economic Rent](/wiki/economic-rent/) — the underlying theoretical category
+  (land rent as a return distinct from capital's return) that the Georgist reframing of
+  Piketty's data depends on.
+
+## See Also
+
+- [Deciphering the Fall and Rise in the Net Capital Share (Rognlie 2015)](/wiki/rognlie-capital-share/)
+- [A Note on Piketty and Diminishing Returns to Capital (Rognlie 2014)](/wiki/rognlie-piketty-note/)
+- [Land is Back, It Should Be Taxed, It Can Be Taxed (Bonnet et al. 2021)](/wiki/bonnet-land-is-back/)
+- [Housing Prices, Mortgage Interest Rates and the Rising Share of Capital Income (La Cava 2016)](/wiki/la-cava-housing-capital-share/)
+- [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
+- [Economic Rent](/wiki/economic-rent/)
+
+## Sources
+
+1. Thomas Piketty (2014), *Capital in the Twenty-First Century*, trans. Arthur Goldhammer,
+   Belknap Press of Harvard University Press. [Harvard University Press](https://www.hup.harvard.edu/books/9780674430006) —
+   used for publisher, translator, and publication details.
+2. Thomas Piketty & Gabriel Zucman (2014), "Capital is Back: Wealth-Income Ratios in Rich
+   Countries, 1700–2010," *Quarterly Journal of Economics* 129(3), pp. 1255–1310. [QJE/Oxford
+   Academic](https://academic.oup.com/qje/article-abstract/129/3/1255/1818714) ·
+   [author copy](https://gabriel-zucman.eu/files/PikettyZucman2014QJE.pdf) — used for the
+   wealth-income ratio figures and the companion dataset underlying the book's core empirical
+   claims.
+3. Matthew Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital." [PDF](https://gabriel-zucman.eu/files/teaching/Rognlie14.pdf) —
+   [wiki summary](/wiki/rognlie-piketty-note/) — used for the diminishing-returns critique and
+   the first statement of the housing/land re-decomposition.
+4. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share," *Brookings
+   Papers on Economic Activity*. [PDF](https://mattrognlie.com/brookings_capitalshare.pdf) ·
+   [Brookings summary](https://www.brookings.edu/articles/deciphering-the-fall-and-rise-in-the-net-capital-share/) —
+   [wiki summary](/wiki/rognlie-capital-share/) — used for the peer-reviewed housing-decomposition
+   finding and the "vanishes once we remove housing" characterization of Piketty's data.
+5. Odran Bonnet, Guillaume Chapelle, Alain Trannoy & Etienne Wasmer (2021), "Land is Back, It
+   Should Be Taxed, It Can Be Taxed," *European Economic Review* 134. [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf) —
+   [wiki summary](/wiki/bonnet-land-is-back/) — used for the European confirmation of the
+   land-centred reading.
+6. Gianni La Cava (2016), "Housing Prices, Mortgage Interest Rates and the Rising Share of
+   Capital Income in the United States," BIS Working Papers No. 572. [PDF](https://www.bis.org/publ/work572.pdf) —
+   [wiki summary](/wiki/la-cava-housing-capital-share/) — used for the mechanism linking
+   falling interest rates and inelastic land supply to the housing-income-share rise.
+7. Marginal Revolution (Tyler Cowen), "Matt Rognlie on Piketty, net capital returns, and
+   housing" (2015). [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2015/03/matt-rognlie-on-piketty-net-capital-and-housing.html) —
+   used as a secondary source corroborating Rognlie's headline conclusion and its wording, since
+   this session's direct fetch access to the primary PDF's exact page text was unavailable.
+
+[CITATION NEEDED: This page was drafted primarily from search-result snippets, secondary
+summaries, and other wiki pages' existing citations; this session's web access could not
+directly fetch and quote Piketty's primary text (Harvard University Press, piketty.pse.ens.fr,
+or Internet Archive copies all returned empty or blocked responses). A future editor with
+working access to the book's text should verify the r − g figures, the wealth-income ratio
+numbers, and the Piketty–Zucman rebuttal to Rognlie directly against primary sources, and add
+page-level citations.]

@@ -12,7 +12,7 @@ The **18-year land cycle** is the observation that real-estate land prices, and 
 
 ## History of the Idea
 
-The pattern was documented by economist **Homer Hoyt**, who traced Chicago land values from 1830 to 1933 and found a recurring ~18-year rhythm. **[Fred Harrison](/wiki/fred-harrison/)** revived and popularised it, using it to **forecast the early-1990s recession** (nine years ahead) and the **2008 crash** (over a decade ahead). The mechanism is Georgist: rising land values attract speculation and bank credit, which inflate prices until the burden of land costs and debt triggers collapse.
+The pattern was documented by economist **[Homer Hoyt](/wiki/homer-hoyt/)**, who traced Chicago land values from 1830 to 1933 and found a recurring ~18-year rhythm. **[Fred Harrison](/wiki/fred-harrison/)** revived and popularised it, using it to **forecast the early-1990s recession** (nine years ahead) and the **2008 crash** (over a decade ahead). The mechanism is Georgist: rising land values attract speculation and bank credit, which inflate prices until the burden of land costs and debt triggers collapse.
 
 ## Significance
 
@@ -20,7 +20,7 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
-- [Fred Harrison](/wiki/fred-harrison/) · [Land Monopoly](/wiki/land-monopoly/) · [Economic Rent](/wiki/economic-rent/)
+- [Fred Harrison](/wiki/fred-harrison/) · [Homer Hoyt](/wiki/homer-hoyt/) · [Land Monopoly](/wiki/land-monopoly/) · [Economic Rent](/wiki/economic-rent/)
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the persuasive framing built on this cycle
 - [Progress and Poverty's 18.6-year cycle](/wiki/progress-18-6-year-cycle/) — the research-page record of the cycle literature
 

@@ -8,7 +8,7 @@ excerpt: "Hong Kong funds much of its government from land — the state owns al
 
 ## Overview
 
-Hong Kong operates one of the world's most significant systems of public **land value capture**. Almost all land is owned by the government and granted to users through long-term **leases** rather than freehold sale. Revenue from land leases and land-related charges has historically funded a large share of public spending, allowing famously low income-tax rates.
+Hong Kong operates one of the world's most significant systems of public **land value capture** through [public land leasing](/wiki/public-land-leasing/). Almost all land is owned by the government and granted to users through long-term **leases** rather than freehold sale. Revenue from land leases and land-related charges has historically funded a large share of public spending, allowing famously low income-tax rates.
 
 ## The Mechanism
 
@@ -20,7 +20,7 @@ Hong Kong shows the revenue power of capturing land value. It also illustrates a
 
 ## See Also
 
-- [Land Value Capture](/wiki/land-value-capture/) · [Singapore](/wiki/singapore/) · [Economic Rent](/wiki/economic-rent/)
+- [Land Value Capture](/wiki/land-value-capture/) · [Public Land Leasing](/wiki/public-land-leasing/) · [Singapore](/wiki/singapore/) · [Economic Rent](/wiki/economic-rent/)
 
 ## Sources
 

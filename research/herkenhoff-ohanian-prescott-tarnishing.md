@@ -1,0 +1,78 @@
+---
+title: "Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S. Economic Slowdown"
+category: research
+tags: [research, land-use-regulation, misallocation, tfp, productivity, macroeconomics, general-equilibrium]
+authors: [Kyle F. Herkenhoff, Lee E. Ohanian, Edward C. Prescott]
+year: 2018
+tier: Important
+source_url: https://doi.org/10.1016/j.jmoneco.2017.11.001
+stub: false
+excerpt: "A general-equilibrium model in which tightening state land-use restrictions in California and New York misallocate labor and capital, finding deregulation could raise US aggregate TFP and output growth substantially."
+last_reviewed: 2026-07-04
+supports_outcomes: [high-land-rents-suppress-productivity]
+---
+
+## Summary
+
+"Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S. Economic Slowdown" is a paper by **Kyle F. Herkenhoff** (University of Minnesota, Federal Reserve Bank of Minneapolis), **Lee E. Ohanian** (UCLA, Hoover Institution, Federal Reserve Bank of Minneapolis), and **Edward C. Prescott** (Arizona State University, Federal Reserve Bank of Minneapolis, and the 2004 Nobel Memorial Prize in Economic Sciences laureate). It was circulated as **NBER Working Paper No. 23790** (September 2017, following an earlier April 2017 draft titled "Tarnishing the Golden State") and published in the ***Journal of Monetary Economics***, vol. 93 (2018), pp. 89–109 (DOI: [10.1016/j.jmoneco.2017.11.001](https://doi.org/10.1016/j.jmoneco.2017.11.001)). All three authors are mainstream macroeconomists with no Georgist affiliation — Prescott a Nobel laureate for work on business-cycle theory — which places this paper alongside [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) and [Duranton & Puga (2023)](/wiki/duranton-puga-urban-growth/) as rigorous, independently derived evidence for a mechanism the wiki also documents from the land-value-taxation side.
+
+The paper's subject, like Hsieh & Moretti and Duranton & Puga, is **land-use and housing regulation**, not land value taxation — the authors do not propose or model an LVT. Its relevance to this wiki's [high land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/) outcome runs through the same misallocation channel: state-level restrictions on land use raise the price of land and housing in the country's most productive states, which slows the reallocation of labor and capital toward those states and depresses aggregate US output and productivity below what it would otherwise be.
+
+## The Core Argument and Model
+
+Herkenhoff, Ohanian, and Prescott build a **multi-regional optimal growth model of the 48 continental US states**, in which each state (or "region") differs in (1) exogenous productivity, (2) exogenous amenities, (3) usable land, and (4) an exogenous, time-varying **state-specific policy distortion** that restricts the effective supply of land available for housing and production — a stand-in for zoning, density restrictions, environmental review, and other land-use regulation. Land is modeled as a genuinely fixed factor that enters both final-goods production and housing production; capital and labor are mobile across states, but housing supply in each state is constrained by how much of that state's land its policies allow to be used.
+
+The authors calibrate the model to state-level data from 1950–2014 on labor productivity, housing and land prices, and employment shares (drawing on USDA, Census, and BEA sources), which lets them **back out an inferred time series of each state's land-use policy distortion** rather than measuring regulation directly from statute text. This inferred-distortion approach is a different empirical strategy from Ganong & Shoag's (2017) land-use-court-case index or the Wharton Regulatory Land Use Index used elsewhere in the literature; the authors note this is deliberate — the model-based approach lets them connect regulation directly to output and TFP within one internally consistent general-equilibrium framework, at the cost of the inference being conditional on the model's structure. They find that land-use restrictions have **tightened substantially since 1950, especially in California and New York** (the paper's title's "Golden and Empire States"), and that California and New York are simultaneously among the states with the **highest model-inferred TFP** and the **highest model-inferred degree of land-use distortion** — i.e., exactly the productive-but-restricted combination the misallocation mechanism requires.
+
+### Quantitative counterfactuals
+
+The authors use the calibrated model to run "deregulation experiments" that roll back inferred land-use restrictions to earlier, looser levels and re-solve for the resulting equilibrium:
+
+- Deregulating existing urban land in all states from **2014 restriction levels back to 2000 levels** is estimated to have raised US GDP growth by **roughly 0.5 percentage points per year from 2000–2014**, bringing output and TFP growth closer to their pre-2000 historical trend.
+- In a version of the model with a modest **agglomeration productivity externality**, moving all states halfway from their 2014 policy distortion toward the (least-distorted) 2014 Texas level is estimated to raise aggregate **US labor productivity by up to 17%** and **consumption by up to 14%**.
+- The most significant population and output gains under these counterfactuals accrue to **California, New York, and the Mid-Atlantic**, which draw workers from the South and Rust Belt in the model — with general-equilibrium **capital reallocation across states** identified as accounting for much of the aggregate gain.
+
+The authors are explicit that **congestion externalities partly offset these gains**: because housing markets must clear and housing is itself produced using capital and land, an inflow of workers into a deregulated state raises that state's housing costs and diverts capital into housing production, which dampens (without eliminating) the output and productivity gains from deregulation relative to a partial-equilibrium calculation.
+
+## Relation to Adjacent Literature
+
+The paper explicitly positions itself relative to two other papers already used on this wiki. It credits **Ganong & Shoag (2017)**, "Why Has Regional Income Convergence in the U.S. Declined?" (*Journal of Urban Economics*, 102: 76–90) — not currently a wiki page — for documenting the empirical facts of declining migration and income convergence that motivate this paper's model, while noting that Ganong & Shoag measure regulation using a land-use court-case index rather than a full general-equilibrium model. It also directly contrasts itself with [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/): where Hsieh and Moretti use a partial-equilibrium, Roback-style model with house prices proxied by the Wharton Regulatory Land Use Index and compute each city's contribution to a snapshot of US output in 1964 and 2009, Herkenhoff, Ohanian, and Prescott build a full dynamic general-equilibrium model in which all markets — including land and housing — clear, which lets congestion and capital-reallocation forces offset part of the gain from deregulation in a way the partial-equilibrium approach cannot capture. The authors describe the two papers as "complementary" rather than competing.
+
+## Relation to the Georgist Case
+
+Like Hsieh & Moretti and Duranton & Puga, this paper is evidence for **land-use deregulation**, not for **land value taxation** — the two policy levers are distinct, and the paper offers no evidence on LVT incidence, capitalization, or administrability. Its relevance to the Georgist case is that it independently reaches, via a different modeling strategy (a full dynamic general-equilibrium growth model rather than a static spatial-equilibrium or agglomeration model), the same broad conclusion as the wiki's other sources on this outcome: **when the most productive locations restrict the effective supply of land, the resulting scarcity rents misallocate labor and capital nationally and measurably lower aggregate TFP and output.** This is precisely the land-rent-driven misallocation mechanism the outcome page describes, now corroborated by a third, mainstream, methodologically distinct paper (alongside [Bakker, 2023](/wiki/bakker-land-rents-tfp/) and [Hsieh & Moretti, 2019](/wiki/hsieh-moretti-spatial-misallocation/)) with authorship carrying particular weight given Prescott's stature in macroeconomic modeling.
+
+**Honest caveat:** as with Hsieh & Moretti and Duranton & Puga, a reader should not treat this paper as evidence *for a land value tax*. It is evidence that restricting the *quantity* of land available for development in high-productivity states is aggregate-output-costly — the Georgist inference that *taxing* land value (rather than *deregulating* its use) would relieve the same misallocation is not addressed or tested here, and the paper is silent on whether the two policies are complements or substitutes.
+
+## Nuances and Limits
+
+- **Regulation is inferred from the model, not measured directly.** The paper's land-use-distortion series is backed out from the requirement that the calibrated model match observed state-level prices, output, and employment shares, rather than built from an independent audit of zoning codes or court cases (contrast Ganong & Shoag's land-use-litigation index or the Wharton index used by Hsieh & Moretti). This is a methodological strength (internal consistency with the output/TFP counterfactuals) and a limitation (the distortion estimates are conditional on the model's functional-form and calibration choices).
+- **Counterfactual magnitudes are model-dependent.** As with the wiki's other structural-model sources on this outcome ([Hsieh & Moretti](/wiki/hsieh-moretti-spatial-misallocation/), [Duranton & Puga](/wiki/duranton-puga-urban-growth/)), the 0.5-point growth figure and the 17%/14% productivity/consumption figures come from a calibrated model with specific elasticity and externality assumptions (notably, the larger 17%/14% figures require assuming a modest agglomeration productivity externality — a version of the model without that externality would show smaller gains) rather than from a natural experiment or reduced-form causal design.
+- **A published formal comment exists.** The *Journal of Monetary Economics* printed a comment on this paper alongside publication (Tonetti, 2018, JME 93: 110–113), indicating the model's approach and magnitudes have been subject to open peer critique in the normal course of publication; this wiki has not yet reviewed that comment's specific objections in detail [VERIFY: substance of the Tonetti comment — not fetched in this session].
+- **Congestion effects are modeled but do not fully undo the gains.** The authors are careful to note that general-equilibrium housing-market congestion offsets *some* of the gains from deregulation, which should temper any reading of the headline figures as a free lunch with no distributional cost to incumbent residents of deregulating states.
+- **Does not address land value taxation.** As above, the paper's policy lever is land-use deregulation, and it makes no claims about the effects of a land value tax specifically.
+
+## Bears On
+
+- **Outcome:** [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/) — supplies a third, independently derived general-equilibrium estimate that restricting land use in high-productivity states misallocates labor and capital and lowers aggregate US TFP and output, corroborating [Bakker (2023)](/wiki/bakker-land-rents-tfp/) and [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) via a distinct dynamic general-equilibrium modeling strategy.
+- **Research:** [Hsieh & Moretti (2019), Housing Constraints and Spatial Misallocation](/wiki/hsieh-moretti-spatial-misallocation/) — explicitly compared and contrasted in this paper (partial- vs. general-equilibrium treatment of housing markets); the two papers are described by these authors as complementary.
+- **Research:** [Duranton & Puga (2023), Urban Growth and Its Aggregate Implications](/wiki/duranton-puga-urban-growth/) — a related, later structural model of land-use regulation's aggregate costs, with endogenous rather than model-inferred regulation.
+- **Research:** [Bakker (2023), Urban Land Rents and TFP](/wiki/bakker-land-rents-tfp/) — a parallel measurement of the aggregate-TFP cost of privately captured urban land rent via a different (non-structural) empirical strategy.
+
+## See Also
+
+- [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
+- [Hsieh & Moretti (2019): Housing Constraints and Spatial Misallocation](/wiki/hsieh-moretti-spatial-misallocation/)
+- [Duranton & Puga (2023): Urban Growth and Its Aggregate Implications](/wiki/duranton-puga-urban-growth/)
+- [Bakker (2023): Urban Land Rents and TFP](/wiki/bakker-land-rents-tfp/)
+- [Deadweight Loss](/wiki/deadweight-loss/)
+
+## Sources
+
+1. Kyle F. Herkenhoff, Lee E. Ohanian & Edward C. Prescott (2018), "Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S. Economic Slowdown," *Journal of Monetary Economics*, 93: 89–109. [DOI: 10.1016/j.jmoneco.2017.11.001](https://doi.org/10.1016/j.jmoneco.2017.11.001) — used for the published citation, venue, and volume/page details.
+2. Kyle F. Herkenhoff, Lee E. Ohanian & Edward C. Prescott, "Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S. Economic Slowdown," NBER Working Paper No. 23790 (September 2017). [NBER](https://www.nber.org/papers/w23790) — used for the working-paper circulation history.
+3. Kyle F. Herkenhoff, Lee E. Ohanian & Edward C. Prescott, "Tarnishing the Golden State: Regulations and the US Slowdown" (earlier draft, April 18, 2017). [Author copy, NYU Stern](https://www.stern.nyu.edu/sites/default/files/assets/documents/Herkenhoff_Ohanian_Prescott.pdf) — directly fetched and read in this session; used for the verbatim abstract, author affiliations, model description, and the 0.5-percentage-point and 17%/14% counterfactual figures.
+4. Peter Ganong & Daniel Shoag (2017), "Why Has Regional Income Convergence in the U.S. Declined?", *Journal of Urban Economics*, 102: 76–90. [NBER Working Paper No. 23609 PDF](https://www.nber.org/system/files/working_papers/w23609/w23609.pdf) — directly fetched and read in this session; used for confirming this related paper's actual scope (income convergence and skill-sorting via migration, not a direct aggregate-TFP estimate), which is why it is cited here as context rather than made the subject of its own page for this outcome.
+5. Christopher Tonetti, "Comment on 'Tarnishing the golden and empire states: Land-use regulations and the U.S. economic slowdown,' by Herkenhoff, Ohanian, and Prescott," *Journal of Monetary Economics*, 93 (2018): 110–113. [Author copy](https://christophertonetti.com/files/papers/Tonetti_HOPComment.pdf) — noted for the existence of a published formal comment; not fetched or reviewed in this session.
+
+[VERIFY: the substance of the Tonetti (2018) published comment on this paper — flagged for a future editor to review and, if warranted, fold into the Nuances and Limits section above.]
