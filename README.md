@@ -21,6 +21,7 @@ CC BY 4.0 — freely reusable with attribution.
 See [AI Editor Instructions](https://www.notion.so/AI-Editor-Instructions-How-to-Push-Updates-to-the-Wiki-372e068c43f58175b5ccfecdf757c236) for how to add or edit articles.
 
 ### Editorial system (in-repo, model-agnostic)
+- **[`ROADMAP.md`](ROADMAP.md)** — the master plan: vision, model tiers, work-stream status, pending items.
 - **[`EDITORIAL.md`](EDITORIAL.md)** — the constitution: claim taxonomy, citation & evidence rules, source-quality hierarchy, per-category templates, publishing rules. Read this first.
 - **[`QUALITY_RUBRIC.md`](QUALITY_RUBRIC.md)** — the 6-dimension scoring rubric.
 - **[`LOOP.md`](LOOP.md)** — the tiered improvement loop any model runs (T1 Fable / T2 Sonnet / T3 Flash-Haiku).
