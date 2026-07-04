@@ -49,6 +49,15 @@ already-ingested corpus before new web research → repeat. Breadth and depth gr
 ingest raises the value of every earlier one. Mechanics: LOOP.md (flywheel + step 8),
 tasks/backfill-page-task.md, EDITORIAL.md stub standard.
 
+## The comprehensiveness loop (added 2026-07-04, separate from the main loop)
+
+A periodically-invoked audit (`LOOP-COMPREHENSIVENESS.md`): re-scan every SOURCE in the registry —
+not the wiki pages — to catch anything the original single-purpose extraction missed across all 8
+categories, with a dedicated authors channel (repeat contributors and Core-paper authors get
+people/ pages). Phases: deterministic pre-pass (`scripts/comprehensiveness_prepass.py`) → source
+sweep (report-only agents) → T1 triage → stubs → content development from the existing corpus →
+watermark. Invoke after every ~50 new registry rows. Not part of LOOP.md's forward cycle.
+
 ## Standing constraints & pending items (outside the content loop)
 
 - **Ghost publishing** is gated on `OP_SERVICE_ACCOUNT_TOKEN` (1Password service account → Emma

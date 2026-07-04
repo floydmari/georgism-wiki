@@ -98,6 +98,12 @@ every earlier ingest more valuable. `[SYNTHESIS]` (below) is the same motion at 
   reprioritize `BACKLOG.md`, staleness sweep (`last_reviewed`, dead links), and re-check
   registry↔repo↔sheet consistency (`lint_wiki.py` surfaces drift).
 
+## Related loops
+
+`LOOP-COMPREHENSIVENESS.md` — the source-comprehensiveness audit (re-mine all registry sources for
+missed stubs in every category + the authors channel). Invoked separately, after major ingest
+campaigns; never run concurrently with a drafting wave.
+
 ## Guardrails
 - GitHub first, Ghost second, always via `scripts/sync_to_ghost.py`.
 - Never delete an article; never fabricate a citation; ≤50 words quoted; free/legal sources.

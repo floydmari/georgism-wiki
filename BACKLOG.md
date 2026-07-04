@@ -63,6 +63,12 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
 - [x] [SHEET-SYNC] done 2026-07-04 — full snapshot "Georgism Wiki — Source Registry (git sync 2026-07-04)" pushed to Floyd's Drive (215 rows, Δ 23 NEW + 3 UPDATED vs main).
 - [ ] [SHEET-SYNC] tier:T3 status:todo — ~13 wave-D rows (Arnott, Kanemoto, Herkenhoff, Goldsmith, Carroll-Yinger, Franzsen, Furman, Barkai, Philippon, Eeckhout, Crouzet, Piketty + IMF row fix) added AFTER the 2026-07-04 snapshot — push a fresh export next iteration
 
+## Comprehensiveness loop (LOOP-COMPREHENSIVENESS.md — invokable audit, separate from the main loop)
+comprehensiveness watermark: 0 external-source rows (never run — first invocation 2026-07-04 in progress)
+- [ ] [COMPREHENSIVENESS-SWEEP] tier:T2 status:in-progress — first full sweep of all 136 external
+      registry sources (13 batches; prepass: 42 author candidates, 46 under-mined sources).
+      On completion: T1 triage -> stubs -> Phase 3 content development -> update watermark here.
+
 ## Stub queue (flywheel intake — stubs created at discovery, ranked by [PRIORITIZE])
 - [ ] [PRIORITIZE] tier:T1 status:recurring — each wave: rank stubs below by (a) inbound-link
       demand from existing pages, (b) evidence already in the ingested corpus, (c) citing-source
