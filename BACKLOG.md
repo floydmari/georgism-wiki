@@ -9,10 +9,21 @@ candidates → 20 sourced stubs created + 10 rejected-with-reason), the 14th out
 (homer-hoyt, vancouver done; david-lloyd-george verify), registry 193→~228 rows, Drive snapshot
 "Georgism Wiki — Source Registry (git sync 2026-07-04)". Branch claude/wiki-improvement-w5; PR open.
 
-NOTE 2026-07-05: the main loop now runs T2 volume on GLM (see LOOP.md 'GLM IS THE DEFAULT T2/T3
-EXECUTOR'); concepts queue complete (40 concepts); counter-evidence pages wired; PR #4 open.
+NOTE 2026-07-05 (post GLM waves 1-5): main loop runs T2 volume on GLM (LOOP.md 'GLM IS THE
+DEFAULT T2/T3 EXECUTOR'; worker: scripts/glm_draft_worker.py). 281 pages. Concepts queue COMPLETE
+(22->40+). Stub queue 43->8 (remaining: floyd-marinescu [owner to supply bio], radical-markets,
+land-value-increment-tax, land-value-increment/margin leftovers per gauge). Counter-evidence
+wired: england-zhao + loffler-siegloch (challenged_by) + gochenour-caplan primary read in full
+(Foldvary 2014 reply queued). PR #4 open and growing; PR #3 merged+live.
 
-A fresh session resumes with, in order:
+A fresh session resumes with, in order (SUPERSEDES the numbered list below where they conflict):
+A. NARRATIVES LAYER — the 7 remaining pages per narratives/_framework.md. This is T1-heavy
+   persuasive-framing work: GLM may draft from the framework + corpus, but Fable must rework
+   framing, sourcing density per the unearned-increment exemplar. Start fresh-context.
+B. Remaining 8 stubs + [COHESION] tasks (BC/Vancouver scope split, terminology pass).
+C. [SHEET-SYNC] loud todo below; WS8 [CITE] retrofit; staleness sweep.
+
+Original resume list:
 1. `git status` + lint (all three first-round backfills are done: homer-hoyt, vancouver, david-lloyd-george).
 2. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (18 stubs remain), run top
    3-5 [BACKFILL]s per wave, harvest DISCOVERED candidates into new stubs. STUBS gauge in lint.
