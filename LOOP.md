@@ -56,7 +56,11 @@ tasks needing live web research stay on tool-using agents.
 6. **Lint until clean.** Re-run `lint_wiki.py`; resolve errors. Warnings should trend down.
 7. **Preview.** Run `python3 scripts/build_preview.py`. Confirm the changed pages render and
    cross-links resolve. (Serve locally with `python3 -m http.server -d preview 8000`.)
-8. **Update `BACKLOG.md`.** Mark the task `done` (T1 REVIEW loop) or `needs-review` (T2/T3 DRAFT
+8. **Harvest discoveries.** Triage the generator's DISCOVERED candidates: accept each as a
+   `[NEW] tier:T2` (or `[JUDGE] tier:T1` for outcomes) BACKLOG item with its rationale, or
+   reject with a one-line reason in the review notes. Ingestion must grow breadth, not only
+   depth — a wave that adds 8 research pages and 0 candidate pages is a smell.
+9. **Update `BACKLOG.md`.** Mark the task `done` (T1 REVIEW loop) or `needs-review` (T2/T3 DRAFT
    loop). Append any follow-up tasks you discovered, tier-tagged.
 9. **Commit & push (GitHub is the master record).** One task per commit:
    `content: <what> (<TYPE> tier:T<n>)`. Push to the working branch. **Open/refresh a PR** for
@@ -69,6 +73,11 @@ tasks needing live web research stay on tool-using agents.
 - **DRAFT loop** (T2/T3): steps 1–9, ending at `needs-review` + PR. Never publishes.
 - **REVIEW loop** (T1): pulls `needs-review` items, applies judgment, approves, merges, and is the
   only loop that runs step 10. Also runs T1-native `[DESIGN]/[JUDGE]/[AUDIT]` tasks.
+- Every ~10 research pages ingested, run a **`[SYNTHESIS] tier:T1`** pass: reread the recent
+  ingests as a set and ask what they collectively justify — a claim with enough evidence for a
+  new OUTCOME page, a recurring mechanism deserving a CONCEPT page, a recurring counterargument
+  deserving an OBJECTION page (steelmanned), a persuasive pattern deserving a NARRATIVE. Create
+  or queue them. This is the bottom-up growth channel; the curated lists are top-down only.
 - Every ~10th REVIEW iteration, run an **`[AUDIT]`**: rubric-score 8 random articles, refresh and
   reprioritize `BACKLOG.md`, staleness sweep (`last_reviewed`, dead links), and re-check
   registry↔repo↔sheet consistency (`lint_wiki.py` surfaces drift).

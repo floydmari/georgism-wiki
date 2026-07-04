@@ -4,6 +4,14 @@
 State: 174 pages, lint green, coverage **41/65** (gauge prints on every `lint_wiki.py` run).
 Waves 1–2 of the 50-paper build-out are done (15 pages: PFD cluster, capitalization cluster,
 incidence trio, efficiency trio, Knoll, Cunningham, Hsieh-Moretti, De Loecker). A fresh session resumes with:
+0. **FIRST: [SYNTHESIS] tier:T1 — catch-up harvest over waves 1-2** (the discovery channel was
+   missing while 16 sources were ingested). Known candidates already surfaced by agents:
+   outcomes/corporate-profits-increasingly-rents (queued below; De Loecker+Barkai+Furman evidence);
+   objections/cash-transfers-reduce-work (Jones-Marinescu counters it); objections/zoning-not-lvt-
+   is-the-binding-constraint (Hsieh-Moretti implies; pairs with housing-affordability honesty);
+   concepts/land-credit-cycle (Hudson+Ryan-Collins+Knoll mechanism); concepts/option-value-of-land
+   (Cunningham); possibly concepts/benefit-view-of-property-tax (Hamilton/Tiebout cluster).
+   Triage each: create, queue, or reject-with-reason. Then:
 1. `git status` — commit any straggler agent output (a Brueckner site-value draft may be in the
    working tree or missing; if missing, redraft from the queue below). Check for neutralized
    forward-links to restore (grep the last commits for "neutralized").
