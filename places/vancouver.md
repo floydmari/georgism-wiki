@@ -29,6 +29,8 @@ Vancouver, and British Columbia generally, does not currently levy a general lan
 
 ## See Also
 
+- [Transitional Gains Trap](/wiki/transitional-gains-trap/)
+
 - [Christopher England](/wiki/christopher-england/)
 
 - [British Columbia](/wiki/british-columbia/) — the provincial context; roughly two-thirds of BC municipalities followed Vancouver's example by 1914

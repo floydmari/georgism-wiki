@@ -51,6 +51,8 @@ The paper's poverty-reduction estimates (20-40% for Alaska generally; a specific
 
 ## See Also
 
+- [Norway](/wiki/norway/)
+
 - [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
 - [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)

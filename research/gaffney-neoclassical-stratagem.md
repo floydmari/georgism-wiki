@@ -24,6 +24,8 @@ The thesis is controversial and contested by historians of economic thought, but
 
 ## Bears On
 
+- [Richard T. Ely](/wiki/richard-t-ely/)
+
 - **People:** [Mason Gaffney](/wiki/mason-gaffney/) · [Henry George](/wiki/henry-george/) · [John Bates Clark](/wiki/john-bates-clark/)
 - **Concept:** [Land Monopoly](/wiki/land-monopoly/)
 
