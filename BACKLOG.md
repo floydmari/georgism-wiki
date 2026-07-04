@@ -161,7 +161,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [ ] [DRAFT] tier:T2 status:todo — research/loffler-siegloch-german-pass-through — German property-tax pass-through to rents (the strongest counter-evidence to landlords-cannot-pass-lvt-to-tenants; carroll-yinger page flags it [VERIFY]; likely belongs in challenged_by when verified)
 - [ ] [DRAFT] tier:T2 status:todo — research/england-zhao-2005 — the Dover NH study Bowman & Bell replicate (regressive finding — honest counterweight for land-value-tax-can-be-progressive)
 - [ ] [STUB] tier:T2 status:todo — concepts/sector-model (Hoyt's urban-structure model; discovered by homer-hoyt backfill; no coverage anywhere)
-- [ ] [STUB] tier:T3 status:todo — candidates from backfills, triage next [PRIORITIZE]: organizations/bc-assessment-authority; events/1913-bc-real-estate-crash; people/henry-george-jr
+- [ ] [STUB] tier:T3 status:todo — candidates from backfills, triage next [PRIORITIZE]: organizations/bc-assessment-authority; events/1913-bc-real-estate-crash; people/henry-george-jr; events/parliament-act-1911; organizations/land-enquiry-committee (the 1913-14 'The Land' reports); events/1925-green-book-campaign (people/arthur-balfour surfaced too but likely fails the substantive-discussion bar — reject unless more corpus demand appears)
 - [ ] [DEEPEN-SCAN] tier:T2 status:todo — research/hoyt-chicago-land-values Heavy re-pass (519pp on archive.org) to resolve its 6 [VERIFY] markers incl. the 1836/1856/1872/1890/1925 peak-year list
 
 ## Deepen-scan queue (Tier ≥ Important currently at Light — per EDITORIAL.md Scan Depth policy)
