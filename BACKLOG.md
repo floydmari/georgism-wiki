@@ -1,5 +1,25 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+## ⟳ RESUME HERE (checkpoint 2026-07-04, evidence build-out in progress)
+State: 174 pages, lint green, coverage **41/65** (gauge prints on every `lint_wiki.py` run).
+Waves 1–2 of the 50-paper build-out are done (15 pages: PFD cluster, capitalization cluster,
+incidence trio, efficiency trio, Knoll, Cunningham, Hsieh-Moretti, De Loecker). A fresh session resumes with:
+1. `git status` — commit any straggler agent output (a Brueckner site-value draft may be in the
+   working tree or missing; if missing, redraft from the queue below). Check for neutralized
+   forward-links to restore (grep the last commits for "neutralized").
+2. Run the next waves from the unchecked `[DRAFT]` items below via `tasks/research-page-task.md`
+   (8-9 parallel T2 agents on disjoint files; T1 reviews each: registry row + bidirectional
+   supported_by/challenged_by + inbound links + lint green + commit per batch).
+   Priority order: speculation cluster (2/5), split-rate (2/5), affordability (3/5),
+   land-value scale (3/5), progressivity (3/5), then the tech-rents cluster + its NEW outcome
+   page outcomes/corporate-profits-increasingly-rents.md (T1 writes that one).
+3. Per-wave wrap-up: registry delta → Drive Sheet snapshot (mandatory-loud rule), LOOPLOG entry,
+   preview rebuild + artifact redeploy (same URL).
+4. Stop when the COVERAGE gauge reads 14/14 ≥5 (incl. the new tech-rents outcome).
+Done so far (checked off below): jones-marinescu, widerquist-howard, hartwick, segal, oates-1969,
+gibbons-machin, mohammad, hsieh-moretti, de-loecker, oecd-taxation, arnold-ej, mieszkowski,
+hamilton (challenger), zodrow, knoll, cunningham.
+
 The loop's work source and persistent memory. One task per line:
 `- [ ] [TYPE] tier:T1|T2|T3 status:todo|in-progress|needs-review|done — description`
 
@@ -28,6 +48,8 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
       in the Emma vault (per the 1Password/op plumbing) and the master Sheet is shared with that
       service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
       Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
+
+- [ ] [SHEET-SYNC] tier:T3 status:todo — push registry export to the master Google Sheet (last synced: 2026-07-03 wave-3 delta; ~18 rows added since — run scripts/export_registry_for_sheet.py --base 34b56cf and upload via Drive)
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
 Standard task file: `tasks/research-page-task.md`. Format: slug — Author Year *Title* (tier) → supports_outcomes.

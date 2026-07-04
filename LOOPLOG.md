@@ -124,5 +124,19 @@ nuances rather than supports it. Net: 146→158+ pages; registry 166→173 rows.
   `Scanned` when its page shipped — LOOP.md now states the registry-row flip is part of the same
   iteration, not a follow-up.
 
+
+## Wave 4 — evidence build-out, waves 1-2 of the 50-paper campaign (2026-07-03/04)
+
+Goal: every outcome >= 5 supporting papers (gauge in lint_wiki.py COVERAGE block). 16 new
+research pages committed across two 8-9-agent parallel waves + salvage after a session-limit
+interruption (recovered entirely from git state — proof the loop survives context resets):
+PFD/dividends cluster (Jones-Marinescu, Widerquist-Howard, Hartwick, Segal), capitalization
+cluster (Oates 1969, Gibbons-Machin, Mohammad meta-analysis), incidence trio (Mieszkowski,
+Zodrow, Hamilton-as-challenger), efficiency trio (OECD 2008, Arnold EJ 2011, + Mirrlees),
+Knoll AER 2017, Cunningham 2006, Hsieh-Moretti 2019, De Loecker-Eeckhout-Unger 2020.
+Coverage 19/65 -> 41/65. Pattern proven: concurrent forward-links get temporarily neutralized
+to keep lint green, restored when the sibling lands. Remaining queue + resume protocol at the
+top of BACKLOG.md.
+
 Update this log at the end of each loop (or wave) so the descriptive record stays in step with
 `git log`.
