@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, split-rate, construction, empirical, pennsylvania]
 stub: false
 evidence_strength: "Moderate–strong (multiple empirical studies, consistent direction)"
-supported_by: [oates-schwab-pittsburgh, plassmann-tideman-construction]
+supported_by: [oates-schwab-pittsburgh, plassmann-tideman-construction, brueckner-site-value-taxation]
 excerpt: "Across US case studies, shifting property tax off buildings and onto land is followed by more construction — the effect Georgist theory predicts."
 ---
 
