@@ -40,7 +40,15 @@ def main() -> None:
     for c in CATS:
         for p in sorted(glob.glob(os.path.join(ROOT, c, "*.md"))):
             rel = os.path.relpath(p, ROOT)
-            parts.append(f"===== PAGE: {rel} =====\n{open(p).read()}")
+            txt = open(p).read()
+            if c == "research":
+                # digest only: frontmatter + section headings (keeps total under the ~600k-char
+                # request envelope the cloud gateway accepts; full-text research auditing would 502)
+                import itertools
+                fm = txt.split("---")[1] if txt.startswith("---") else ""
+                heads = "\n".join(l for l in txt.splitlines() if l.startswith("#"))
+                txt = f"---{fm}---\n{heads}\n[research page digest — full text omitted]"
+            parts.append(f"===== PAGE: {rel} =====\n{txt}")
     corpus = "\n\n".join(parts)
     print(f"corpus: {len(parts)} pages, {len(corpus):,} chars")
     body = json.dumps({

@@ -184,5 +184,34 @@ lint, so the tech-rents drafts shipped with supports_outcomes:[] + prose notes, 
 same commit as the outcome page. (3) Concurrent agents must not share file ownership — disjoint
 edit sets per agent worked with zero conflicts across ~45 agents.
 
+
+## [COMPREHENSIVENESS] Invocation 1 — the source-corpus audit loop, built and run (2026-07-04)
+
+New invokable loop (LOOP-COMPREHENSIVENESS.md) per Floyd's directive: re-mine the SOURCES (not the
+wiki pages) so the wiki is cohesive with respect to everything its corpus substantively treats,
+with a dedicated people channel for repeat contributors. Built after 13 concurrent Sonnet scanners
+exhausted the session quota with all reports lost — the replacement architecture runs on GLM via
+local ollama at ZERO Claude quota: local fetch (HTML/pdftotext) + GLM extraction, resumable JSONL.
+Claude concurrency now capped at 3-4 everywhere (LOOP.md guardrail).
+
+Numbers: 136 sources swept (64 full texts) + 46 deep full-text re-scans at the verified 1M-token
+window (needle tests: 273k and 635k chars pass; num_ctx raised from 262144 after T1 caught the
+truncation risk). ~200 raw candidates -> T1 triage -> 29 stubs (11 researcher people pages closing
+the authors-channel gap, 5 places, 7 concepts, 2 events, 1 org, 1 objection + earlier batch),
+4 backfilled to full pages same-day via corpus-aware single-call GLM drafting (grounding check:
+every number verified against supplied corpus; 3 flagged were correct constitutional facts).
+
+Whole-corpus cohesion audit (257 pages, one 592k-char call, 36s): 25 findings — the high-severity
+one (BC page's stale SVT rates contradicting the fresh Vancouver page) plus a Hoyt date error,
+a Harrison forecast-lead-time conflation, an Estonia date vagueness, and 6 missing cross-links all
+FIXED same-day; scope-split, terminology, and gap items queued as [COHESION]/[DRAFT] tasks.
+
+T1-gate catches on GLM output this invocation (external-model rule working): a factual inversion
+(NZ stub claiming Gemmell supports construction effects — it's our recorded null result), a
+systematic /wiki/<category>/ link-format bug in 23 drafts, an 'entire secular rise' overstatement,
+an uncertain Book-V attribution, 12 over-length excerpts, and an objection missing its enforced
+template sections. Cost profile: entire invocation used ~6 GLM calls' worth of Claude context for
+review; all scanning/drafting tokens were external.
+
 Update this log at the end of each loop (or wave) so the descriptive record stays in step with
 `git log`.

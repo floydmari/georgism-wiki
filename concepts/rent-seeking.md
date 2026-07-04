@@ -20,6 +20,8 @@ Georgist analysis treats private capture of land rent as the foundational form o
 
 ## See Also
 
+- [FIRE Sector](/wiki/fire-sector/)
+
 - [Economic Rent](/wiki/economic-rent/) · [Land Monopoly](/wiki/land-monopoly/) · [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/)
 
 ## Sources

@@ -64,10 +64,22 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
 - [ ] [SHEET-SYNC] tier:T3 status:todo — ~13 wave-D rows (Arnott, Kanemoto, Herkenhoff, Goldsmith, Carroll-Yinger, Franzsen, Furman, Barkai, Philippon, Eeckhout, Crouzet, Piketty + IMF row fix) added AFTER the 2026-07-04 snapshot — push a fresh export next iteration
 
 ## Comprehensiveness loop (LOOP-COMPREHENSIVENESS.md — invokable audit, separate from the main loop)
-comprehensiveness watermark: 0 external-source rows (never run — first invocation 2026-07-04 in progress)
-- [ ] [COMPREHENSIVENESS-SWEEP] tier:T2 status:in-progress — first full sweep of all 136 external
-      registry sources (13 batches; prepass: 42 author candidates, 46 under-mined sources).
-      On completion: T1 triage -> stubs -> Phase 3 content development -> update watermark here.
+comprehensiveness watermark: 136 external-source rows (first invocation completed 2026-07-04; next invocation sweeps rows added after #136 unless --full)
+- [x] [COMPREHENSIVENESS-SWEEP] status:done 2026-07-04 — full sweep of 136 sources via GLM
+      (zero Claude quota): light pass + deep pass (46 full-text Core/under-mined scans at 1M ctx).
+      ~200 raw candidates -> 29 stubs accepted (11+ people incl. Arnott/Oates/Rognlie/Glaeser/
+      Piketty/Ely), 4 backfilled same-day (alaska, canada, wallace-oates, edward-glaeser).
+      Cohesion audit (whole corpus, 1 call): 25 findings, 12 fixed same-day, rest queued below.
+- [ ] [COHESION] tier:T2 status:todo — BC/Vancouver scope split (audit: heavy duplication;
+      give british-columbia the provincial/CWC scope, vancouver the city single-tax story)
+- [ ] [COHESION] tier:T3 status:todo — terminology normalization pass (citizen's dividend /
+      18-year cycle / single-tax variants; audit lists pages) + land-value-capture vs
+      public-land-leasing overlap trim
+- [ ] [DRAFT] tier:T2 status:todo — concepts: carbon pricing / Pigouvian taxation within the
+      Georgist frame (audit corpus-gap; ecological-georgism cites it) and outcomes/lvt-reduces-sprawl
+      (Banzhaf-Lavery evidence)
+- [ ] [DRAFT] tier:T2 status:todo — research/great-mortgaging — Jordà-Schularick-Taylor 2014
+      (registry row exists, Light; deep pass flags it as page-worthy)
 
 ## Stub queue (flywheel intake — stubs created at discovery, ranked by [PRIORITIZE])
 - [ ] [PRIORITIZE] tier:T1 status:recurring — each wave: rank stubs below by (a) inbound-link

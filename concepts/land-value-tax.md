@@ -27,7 +27,7 @@ Henry George, drawing on David Ricardo's earlier work, argued that land value is
 Several jurisdictions have applied LVT in whole or in part:
 
 - **Pennsylvania split-rate cities** — Harrisburg, Allentown, Pittsburgh, and others taxed land at a higher millage rate than improvements through most of the 20th century, with documented increases in construction activity.
-- **Estonia** — After independence, Estonia adopted a national land value tax with no tax on building improvements, making it one of the purest implementations of the concept anywhere in the world.
+- **Estonia** — After independence (land tax in force since 1993), Estonia adopted a national land value tax with no tax on building improvements, making it one of the purest implementations of the concept anywhere in the world.
 - **Denmark** — A *grundskyld* (ground tax) applied to land values is a longstanding feature of the Danish fiscal system.
 - **New South Wales, Australia** — State land tax has been levied since 1895, with periodic debates about expanding the base.
 
@@ -36,6 +36,8 @@ Several jurisdictions have applied LVT in whole or in part:
 The 2011 Mirrlees Review, commissioned by the UK's Institute for Fiscal Studies and led by Nobel laureate Sir James Mirrlees, concluded that a comprehensive move toward taxing land values was among the most important reforms available to improve the efficiency of the British tax system. The OECD has repeatedly ranked recurrent land and property taxes as the least growth-distorting revenue source available to governments.
 
 ## See Also
+
+- [Land Value Capture](/wiki/land-value-capture/)
 
 - [Economic rent](/wiki/economic-rent/) — the concept on which LVT is theoretically grounded
 - [Henry George](/wiki/henry-george/) — the economist who made LVT the centrepiece of a global movement

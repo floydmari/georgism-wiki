@@ -24,6 +24,8 @@ Land monopoly has direct implications for housing affordability. When land in de
 
 ## See Also
 
+- [Speculative Vacancy](/wiki/speculative-vacancy/)
+
 - [Economic Rent](/wiki/economic-rent/) — the income stream that land monopoly generates
 - [Land Value Tax](/wiki/land-value-tax/) — the corrective
 - [Unearned Increment](/wiki/unearned-increment/) — the value captured through land monopoly
