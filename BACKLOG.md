@@ -89,8 +89,8 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [x] [BACKFILL] tier:T2 status:done — people/david-lloyd-george backfilled 2026-07-04 (226 lines; Limehouse venue disambiguated, Dreadnoughts/Green-Book misattributions corrected)
 - [ ] [BACKFILL] tier:T2 status:todo — people/winston-churchill (People's Rights corpus page live; 2 chunks)
 - [x] [BACKFILL] tier:T2 status:done — places/vancouver backfilled 2026-07-04 (note: british-columbia.md still cites STALE 0.5%/2% SVT rates — see follow-up below)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/superstar-firms (pairs with tech-rents cluster + new outcome)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/fire-sector (rentier-economy narrative dependency)
+- [x] [BACKFILL] tier:T2 status:done — concepts/superstar-firms (GLM wave 2) (pairs with tech-rents cluster + new outcome)
+- [x] [BACKFILL] tier:T2 status:done — concepts/fire-sector (GLM wave 2) (rentier-economy narrative dependency)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/mass-appraisal-methods (assessment objection's practical answer)
 - [ ] [BACKFILL] tier:T2 status:todo — events/2008-financial-crisis (cycle narrative proof-point)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
@@ -163,12 +163,12 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [ ] [DRAFT] tier:T2 — bessen-regulatory-rents — Bessen 2016 (important)
 - [x] [DRAFT] tier:T2 — philippon-great-reversal — Philippon 2019 (important)
 - [x] [DRAFT] tier:T2 — crouzet-eberly-intangibles — Crouzet & Eberly 2019 (important; challenged_by on the new outcome, as designed; Heavy scan, primary text read)
-- [ ] [DRAFT] tier:T2 — korinek-ng-digital-superstars — Korinek & Ng (important)
+- [x] [DRAFT] tier:T2 — korinek-ng-digital-superstars — Korinek & Ng (important) — GLM wave 2, conservative (source paywalled; supports stripped to [] per T1)
 - [ ] [DRAFT] tier:T2 — haskel-westlake-capitalism-without-capital — Haskel & Westlake 2017 (important)
 - [x] [DRAFT] tier:T2 — zingales-political-theory-firm — Zingales 2017 (important) — GLM wave 1
 - [x] [DRAFT] tier:T2 — akcigit-ates-business-dynamism — Akcigit & Ates 2021 (important) — GLM wave 1
 - [x] [DRAFT] tier:T2 — eeckhout-profit-paradox — Eeckhout 2021 (important)
-- [ ] [DRAFT] tier:T2 — rochet-tirole-two-sided — Rochet & Tirole 2003 (important)
+- [x] [DRAFT] tier:T2 — rochet-tirole-two-sided — Rochet & Tirole 2003 (important) — GLM wave 2 (context page, supports [])
 - [ ] [DRAFT] tier:T2 — data-as-labor — Arrieta-Ibarra et al. 2018 (supplementary)
 - [ ] [DRAFT] tier:T2 — hazlett-spectrum-rents — Hazlett spectrum property rights (supplementary)
 - [x] [DRAFT] tier:T2 — cea-2016-market-power — CEA 2016 brief (supplementary) — GLM wave 1
@@ -236,9 +236,9 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
       Without Design, Escaping the Housing Trap  (one page each)
 - [ ] [DRAFT] tier:T2 status:todo — research: complete Gaffney / Tideman / Hudson / Stiglitz coverage
       against the registry (fill gaps toward research 47→100+)
-- [~] [DRAFT] tier:T2 status:partial — concepts: DONE 2026-07-04 via GLM wave 1: Site Value, Law of
-      Rent, Boom-Bust Cycle, Tiebout Model, Rentier, Land Speculation. REMAINING: Betterment Levy,
-      EBCOR, Land Bubble, Marginal Productivity, Land as Commons (Land Value Capture already exists)
+- [x] [DRAFT] tier:T2 status:done — concepts queue COMPLETE 2026-07-05 (GLM waves 1-2): Site Value,
+      Law of Rent, Boom-Bust Cycle, Tiebout Model, Rentier, Land Speculation, Betterment Levy,
+      EBCOR, Land Bubble, Marginal Productivity, Land as Commons — concepts 22 -> 40
 - [ ] [BULK] tier:T3 status:todo — scan remaining registry sources; set Scan Depth / Status / citations
 
 ## Phase 2 — Linkage (outcomes + narratives)  [depends on: Phase 1]

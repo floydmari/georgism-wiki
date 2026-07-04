@@ -36,6 +36,8 @@ land-tax advocacy.[2]
 
 ## See Also
 
+- [Rochet & Tirole — Two-Sided Markets](/wiki/rochet-tirole-two-sided/)
+
 - [Harberger Tax (COST)](/wiki/harberger-tax/)
 - [Vitalik Buterin: On Radical Markets](/wiki/buterin-on-radical-markets/)
 - [Land Value Tax](/wiki/land-value-tax/)

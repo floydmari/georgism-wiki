@@ -30,6 +30,8 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 
 ## See Also
 
+- [EBCOR](/wiki/ebcor/)
+
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Deadweight Loss](/wiki/deadweight-loss/) — the efficiency argument
 - [Mason Gaffney](/wiki/mason-gaffney/) — primary developer of ATCOR

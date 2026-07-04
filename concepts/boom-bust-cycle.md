@@ -55,6 +55,8 @@ The land-cycle reading's evidence base has genuine strengths but also acknowledg
 
 ## See Also
 
+- [Land Bubble](/wiki/land-bubble/)
+
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the specific periodicity claim and its evidence
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the persuasive framing
 - [Land Value Tax](/wiki/land-value-tax/) — the policy remedy proposed by the land-cycle reading

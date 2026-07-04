@@ -33,6 +33,8 @@ about land's disappearance from the standard factors of production are widely ac
 
 ## See Also
 
+- [Marginal Productivity](/wiki/marginal-productivity/)
+
 - [Mason Gaffney](/wiki/mason-gaffney/) — the economist who made this argument
 - [Neo-classical Economics as a Stratagem Against Henry George (research summary)](/wiki/gaffney-neoclassical-stratagem/)
 - [Land Monopoly](/wiki/land-monopoly/)
