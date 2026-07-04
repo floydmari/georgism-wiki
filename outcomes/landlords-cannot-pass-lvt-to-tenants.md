@@ -5,6 +5,7 @@ tags: [outcomes, incidence, landlords, tenants, lvt]
 stub: false
 evidence_strength: "Strong (basic tax-incidence theory, widely accepted)"
 supported_by: [doucet-does-georgism-work, mieszkowski-property-tax-incidence, zodrow-three-views, palmon-smith-capitalization, carroll-yinger-benefit-tax-rental]
+challenged_by: [loffler-siegloch-german-pass-through]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — it cannot be shifted to tenants through higher rents."
 ---
 
