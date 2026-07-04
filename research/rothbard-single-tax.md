@@ -167,6 +167,7 @@ that source, mined directly rather than referenced generically.
 
 ## See Also
 
+- [Murray Rothbard](/wiki/murray-rothbard/) — the essay's author
 - [Objection: the Austrian critique of LVT](/wiki/lvt-austrian-critique/) — the Georgist
   responses to the arguments on this page
 - [Geolibertarianism](/wiki/geolibertarianism/) — the rival libertarian synthesis that

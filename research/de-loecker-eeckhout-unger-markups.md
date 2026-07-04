@@ -107,8 +107,8 @@ factor shares since around 1980.
 is concentrated in a shrinking upper tail of firms, together with reallocation of sales toward
 those firms, is the same underlying pattern that [Autor, Dorn, Katz, Patterson & Van Reenen
 (2020)](/wiki/autor-superstar-firms/) document and interpret very differently. Autor et al. read
-the growth of high-markup "superstar firms" substantially as a story of **legitimate
-technology-driven productivity divergence** — the most productive firms in an industry win
+the growth of high-markup ["superstar firms"](/wiki/superstar-firms/) substantially as a story of
+**legitimate technology-driven productivity divergence** — the most productive firms in an industry win
 disproportionate market share through genuine efficiency and scale economies, not through
 rent extraction, and their high markups are in significant part a return to that productivity
 advantage. De Loecker, Eeckhout & Unger's own framing is more agnostic about *why* markups rose —
@@ -207,6 +207,7 @@ have roughly tripled since 1980" as settled fact.
 - [Economic Rent](/wiki/economic-rent/)
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
+- [Superstar Firms](/wiki/superstar-firms/) — the concept this paper's tech/superstar dimension bears on
 - [Autor, Dorn, Katz, Patterson & Van Reenen — The Fall of the Labor Share and the Rise of Superstar Firms](/wiki/autor-superstar-firms/)
 - [Rognlie — Deciphering the Fall and Rise in the Net Capital Share](/wiki/rognlie-capital-share/)
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)

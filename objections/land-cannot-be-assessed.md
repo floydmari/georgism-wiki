@@ -19,7 +19,7 @@ The objection is serious but is generally treated as a **solvable engineering pr
 
 **2. Land is *easier* to assess than buildings, not harder.** In *Does Georgism Work? Part 3* (2022), [Lars Doucet](/wiki/doucet-does-georgism-work/) makes the key counter-intuitive point: land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house. That smoothness means location-based methods (comparable vacant-lot sales, teardown sales, and the "residual" of sale price minus depreciated structure cost) can estimate land value with accuracy **comparable to or better than** whole-property assessment.
 
-**3. Modern methods exist.** Computer-assisted mass appraisal (CAMA), hedonic regression, and cooperative-game approaches such as the [Shapley-value land/building separation](https://www.nature.com/articles/s41599-020-0444-1) (*Humanities and Social Sciences Communications*, 2020) formalise the split.
+**3. Modern methods exist.** [Computer-assisted mass appraisal (CAMA), hedonic regression, and cooperative-game approaches](/wiki/mass-appraisal-methods/) such as the [Shapley-value land/building separation](https://www.nature.com/articles/s41599-020-0444-1) (*Humanities and Social Sciences Communications*, 2020) formalise the split.
 
 **4. Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet).
 
@@ -30,6 +30,7 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
+- [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/)
 - [Narrative: The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/) — where under-assessment (not evasion) is the real leak
 
 ## Sources

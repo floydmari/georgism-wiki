@@ -14,7 +14,7 @@ supports_outcomes: [public-investment-capitalizes-into-land]
 
 ## Summary
 
-"The Effects of Property Taxes and Local Public Spending on Property Values: An Empirical Study of Tax Capitalization and the Tiebout Hypothesis" is a 1969 article by **Wallace E. Oates**, published in the ***Journal of Political Economy***, vol. 77, no. 6 (Nov./Dec. 1969), pp. 957–971 ([DOI: 10.1086/259584](https://doi.org/10.1086/259584)). It is the founding empirical paper in the tax-capitalization literature: the first systematic attempt to test, with real cross-sectional data, whether local property taxes and local public spending show up in the price of housing. It is also the paper that gave Charles Tiebout's 1956 theoretical "voting with your feet" model of local public finance ("A Pure Theory of Local Expenditures," *Journal of Political Economy* 64(5)) its first empirical grounding, launching decades of subsequent capitalization studies. Oates is the same economist as in Oates & Schwab's later [Pittsburgh split-rate study](/wiki/oates-schwab-pittsburgh/) (1997); across nearly three decades his work forms one of the most cited empirical threads connecting local public finance to land and property values.
+"The Effects of Property Taxes and Local Public Spending on Property Values: An Empirical Study of Tax Capitalization and the Tiebout Hypothesis" is a 1969 article by **Wallace E. Oates**, published in the ***Journal of Political Economy***, vol. 77, no. 6 (Nov./Dec. 1969), pp. 957–971 ([DOI: 10.1086/259584](https://doi.org/10.1086/259584)). It is the founding empirical paper in the tax-capitalization literature: the first systematic attempt to test, with real cross-sectional data, whether local property taxes and local public spending show up in the price of housing. It is also the paper that gave [Charles Tiebout](/wiki/charles-tiebout/)'s 1956 theoretical "voting with your feet" model of local public finance ("A Pure Theory of Local Expenditures," *Journal of Political Economy* 64(5)) its first empirical grounding, launching decades of subsequent capitalization studies. Oates is the same economist as in Oates & Schwab's later [Pittsburgh split-rate study](/wiki/oates-schwab-pittsburgh/) (1997); across nearly three decades his work forms one of the most cited empirical threads connecting local public finance to land and property values.
 
 ## The Core Argument and Findings
 
@@ -52,6 +52,7 @@ The paper's finding is about the *general property tax* (land plus improvements)
 
 ## See Also
 
+- [Charles Tiebout](/wiki/charles-tiebout/) — author of the sorting model this paper empirically tests
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Henry George Theorem](/wiki/henry-george-theorem/)
 - [Oates & Schwab, "The Impact of Urban Land Taxation: The Pittsburgh Experience" (1997)](/wiki/oates-schwab-pittsburgh/)

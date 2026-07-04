@@ -8,7 +8,7 @@ excerpt: "Singapore's model of large-scale state land ownership and long-term le
 
 ## Overview
 
-Singapore is frequently cited as a quasi-Georgist success story. The state owns the large majority of land and grants long-term **leases** rather than selling freehold. As the economy grows and land values rise, much of that increase accrues to the public landowner — the state — rather than to private speculators.
+Singapore is frequently cited as a quasi-Georgist success story, built on a system of [public land leasing](/wiki/public-land-leasing/). The state owns the large majority of land and grants long-term **leases** rather than selling freehold. As the economy grows and land values rise, much of that increase accrues to the public landowner — the state — rather than to private speculators.
 
 ## The Mechanism
 
@@ -20,7 +20,7 @@ Singapore shows a different route to the Georgist goal — public land leasing i
 
 ## See Also
 
-- [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [Taiwan](/wiki/taiwan/)
+- [Public Land Leasing](/wiki/public-land-leasing/) · [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [Taiwan](/wiki/taiwan/)
 
 ## Sources
 

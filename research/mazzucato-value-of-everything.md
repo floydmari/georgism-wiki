@@ -39,7 +39,7 @@ with the mixed reception described in [Criticisms and Limits](#criticisms-and-li
 
 ### The "production boundary"
 
-Mazzucato's organizing concept is what she calls the **production boundary**: the historically
+Mazzucato's organizing concept is what she calls the [**production boundary**](/wiki/production-boundary/): the historically
 shifting line that economic theory and national-accounting convention draw between activity
 counted as productive (inside the boundary, adding to national output) and activity treated as
 unproductive or merely redistributive (outside it). Multiple independent reviews converge on
@@ -227,6 +227,7 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
 ## See Also
 
 - [Mariana Mazzucato](/wiki/mariana-mazzucato/)
+- [Production Boundary](/wiki/production-boundary/) — the concept page for the book's organizing device
 - [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
 - [Economic Rent](/wiki/economic-rent/)

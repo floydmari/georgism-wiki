@@ -194,7 +194,8 @@ This is the narrative's honest weak point, and it should be presented as such:
   *Boom Bust* (2005) apply the cycle to the British land market across multiple
   20th-century booms and busts, using **Homer Hoyt's** 1830–1933 Chicago land-value
   series as the founding empirical study of the pattern.[2][3]
-- **The 2008 financial crisis.** The narrative's central proof-point: Foldvary's 1997
+- **[The 2008 financial crisis](/wiki/2008-financial-crisis/).** The narrative's central
+  proof-point: Foldvary's 1997
   paper and Harrison's 2005 book both pointed to a downturn arriving around 2007–2010,
   ahead of the consensus, and Bezemer's independent post-hoc survey names both among the
   analysts who gave detailed advance warning.[5][4][11] Gaffney's *After the Crash*
@@ -271,7 +272,7 @@ This is the narrative's honest weak point, and it should be presented as such:
 5. Fred Foldvary, "The Business Cycle: A Georgist-Austrian Synthesis," *American Journal
    of Economics and Sociology*, 1997; related paper "The Real Estate Cycle and the
    Depression of 2008."
-   [Full text (SJSU ScholarWorks)](https://scholarworks.sjsu.edu/econ_pub/70/) — used
+   [JSTOR](https://www.jstor.org/stable/3487330); [full text (cooperative-individualism.org)](https://cooperative-individualism.org/foldvary-fred_the-business-cycle-a-georgist-austrian-synthesis-1997-oct.pdf); [wiki summary](/wiki/foldvary-business-cycle-synthesis/) — used
    for the direct quotation of the 1997 prediction of an "around 2008" downturn
    (A-claim; quotation under 50 words).
 6. Fred Foldvary, "The Depression of 2026," Progress.org, 2012.

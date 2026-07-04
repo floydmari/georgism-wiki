@@ -16,7 +16,7 @@ This essay — the centerpiece of *The Corruption of Economics* (1994), co-autho
 
 ## The Argument
 
-Gaffney marshals archival evidence that early American economics departments were funded by landed and corporate interests, and that influential economists (notably John Bates Clark) reframed economic theory to **merge land into capital** — erasing the classical distinction between earned income (from labour and capital) and unearned income (from land rent). Once land was no longer a separate category, the moral and economic case for taxing its rent lost its analytical foundation.
+Gaffney marshals archival evidence that early American economics departments were funded by landed and corporate interests, and that influential economists (notably [John Bates Clark](/wiki/john-bates-clark/)) reframed economic theory to **merge land into capital** — erasing the classical distinction between earned income (from labour and capital) and unearned income (from land rent). Once land was no longer a separate category, the moral and economic case for taxing its rent lost its analytical foundation.
 
 ## Reception
 
@@ -24,7 +24,7 @@ The thesis is controversial and contested by historians of economic thought, but
 
 ## Bears On
 
-- **People:** [Mason Gaffney](/wiki/mason-gaffney/) · [Henry George](/wiki/henry-george/)
+- **People:** [Mason Gaffney](/wiki/mason-gaffney/) · [Henry George](/wiki/henry-george/) · [John Bates Clark](/wiki/john-bates-clark/)
 - **Concept:** [Land Monopoly](/wiki/land-monopoly/)
 
 ## Sources

@@ -16,10 +16,11 @@ COST is a generalisation of the Georgist idea: it captures the holding value of 
 
 ## Origins and Reception
 
-Named after economist Arnold Harberger, the mechanism was popularised by Eric Posner and Glen Weyl in *Radical Markets* (2018). It has been influential in technology and crypto circles — Ethereum's [Vitalik Buterin endorsed it](/wiki/buterin-on-radical-markets/) as a tool for property and digital-asset reform.
+Named after economist Arnold Harberger, the mechanism was popularised by Eric Posner and Glen Weyl in [*Radical Markets*](/wiki/radical-markets/) (2018). It has been influential in technology and crypto circles — Ethereum's [Vitalik Buterin endorsed it](/wiki/buterin-on-radical-markets/) as a tool for property and digital-asset reform.
 
 ## See Also
 
+- [Radical Markets](/wiki/radical-markets/) — the broader Posner & Weyl program this mechanism comes from
 - [Land Value Tax](/wiki/land-value-tax/) · [Land Monopoly](/wiki/land-monopoly/)
 
 ## Sources

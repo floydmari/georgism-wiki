@@ -33,10 +33,11 @@ distinguishes it from the related
 
 - **[Michael Hudson](/wiki/michael-hudson/)** gives the narrative its sharpest modern
   form. In *Killing the Host: How Financial Parasites and Debt Bondage Destroy the
-  Global Economy* (2015) he argues that the finance, insurance, and real-estate (FIRE)
-  sector has come to extract rent — much of it channelled through mortgage credit into
-  land prices — at the expense of industrial, wage-earning capitalism, and that
-  national accounts wrongly record much of this extraction as productive output.[1]
+  Global Economy* (2015) he argues that the [FIRE sector](/wiki/fire-sector/) (finance,
+  insurance, and real estate) has come to extract rent — much of it channelled through
+  mortgage credit into land prices — at the expense of industrial, wage-earning
+  capitalism, and that national accounts wrongly record much of this extraction as
+  productive output.[1]
   He co-authored the applied policy version of the argument with
   [Goodhart, Kumhof and Tideman](/wiki/goodhart-stimulus/) (2021), modelling a shift of
   taxation from income onto land.[2]
@@ -216,6 +217,7 @@ the wiki; the extensions beyond land are newer and thinner.
 ## See Also
 
 - [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — the markup evidence behind the rent-extraction reading of modern profits
+- [FIRE Sector](/wiki/fire-sector/) — Hudson's category for the finance/real-estate rent-extraction mechanism
 
 - [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) — the underlying concepts
 - [Capital-share rise is land](/wiki/capital-share-rise-is-land/) — the narrative's strongest evidence

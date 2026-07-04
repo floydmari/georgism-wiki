@@ -22,8 +22,8 @@ same authors' 2017 *American Economic Review: Papers and Proceedings* companion 
 cited modern accounts of why labor's share of national income has fallen across advanced
 economies, and it explains that fall **without invoking land** — it attributes the decline
 primarily to rising market concentration and the growing weight of high-markup, low-labor-share
-"superstar firms," which the authors frame substantially as a story of technology-driven
-productivity divergence between firms rather than of rent extraction. For a wiki built around the
+["superstar firms"](/wiki/superstar-firms/), which the authors frame substantially as a story of
+technology-driven productivity divergence between firms rather than of rent extraction. For a wiki built around the
 claim that land rent is the central driver of rising non-labor income, this paper is important
 precisely because it is the most credible **rival** explanation of the same broad phenomenon —
 and it deserves to be represented on its own terms, not as a strawman.
@@ -148,6 +148,7 @@ capital-share trends specifically:
 
 ## See Also
 
+- [Superstar Firms](/wiki/superstar-firms/) — the concept page for the term this paper coined
 - [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — the same concentration pattern read as market power rather than scale economies
 
 - [Deciphering the Fall and Rise in the Net Capital Share (Rognlie)](/wiki/rognlie-capital-share/) — the land/housing decomposition this paper is most often set against

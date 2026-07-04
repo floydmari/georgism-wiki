@@ -12,7 +12,7 @@ excerpt: "Proposes auction-based mechanisms to overcome the holdout problem in a
 
 ## Summary
 
-This 2008 paper by [Nicolaus Tideman](/wiki/nicolaus-tideman/) and Florenz Plassmann tackles the **holdout problem**: when a project needs many adjacent parcels, individual owners can block it or extort excess payment by refusing to sell.
+This 2008 paper by [Nicolaus Tideman](/wiki/nicolaus-tideman/) and Florenz Plassmann tackles the [**holdout problem**](/wiki/holdout-problem/): when a project needs many adjacent parcels, individual owners can block it or extort excess payment by refusing to sell.
 
 ## Key Contribution
 
