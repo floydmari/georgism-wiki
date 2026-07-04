@@ -9,6 +9,9 @@ candidates → 20 sourced stubs created + 10 rejected-with-reason), the 14th out
 (homer-hoyt, vancouver done; david-lloyd-george verify), registry 193→~228 rows, Drive snapshot
 "Georgism Wiki — Source Registry (git sync 2026-07-04)". Branch claude/wiki-improvement-w5; PR open.
 
+NOTE 2026-07-05: the main loop now runs T2 volume on GLM (see LOOP.md 'GLM IS THE DEFAULT T2/T3
+EXECUTOR'); concepts queue complete (40 concepts); counter-evidence pages wired; PR #4 open.
+
 A fresh session resumes with, in order:
 1. `git status` + lint (all three first-round backfills are done: homer-hoyt, vancouver, david-lloyd-george).
 2. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (18 stubs remain), run top

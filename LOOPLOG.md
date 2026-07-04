@@ -213,5 +213,32 @@ an uncertain Book-V attribution, 12 over-length excerpts, and an objection missi
 template sections. Cost profile: entire invocation used ~6 GLM calls' worth of Claude context for
 review; all scanning/drafting tokens were external.
 
+
+## Waves 6-8 — the main loop on the GLM executor (2026-07-04/05)
+
+LOOP.md now runs T2 volume on glm-5.2:cloud (scripts/glm_draft_worker.py: local source fetch,
+full corpus digest in the 1M window, template+exemplar, parallel workers, zero Claude quota);
+Claude subagents (capped 3-4) only for open-web forage; Fable is the T1 gate.
+
+- Wave 1 (12 drafts): Great Mortgaging (full text; honest supports:[]), Zingales, Akcigit-Ates,
+  CEA 2016 (corporate-rents outcome -> 8 supporters); conservative no-figure drafts for paywalled
+  Hilber-Vermeulen + Davis-Heathcote; concepts site-value, law-of-rent, boom-bust-cycle,
+  tiebout-model, rentier, land-speculation.
+- Wave 2 (12): Phase-1 concepts queue COMPLETE (22->40 incl. betterment-levy, ebcor, land-bubble,
+  marginal-productivity, land-as-commons); 5 stubs backfilled (arnott, rognlie, spencer,
+  superstar-firms, fire-sector); Korinek-Ng + Rochet-Tirole as context pages — T1 stripped
+  Korinek's supports_outcomes (fetch failed; no-source pages don't count as outcome evidence).
+- Claude forage pair: england-zhao-lvt-distribution and loffler-siegloch-german-pass-through —
+  the two honest COUNTER-EVIDENCE pages, wired as challenged_by on the progressivity and
+  incidence outcomes. Both outcomes now show jurisdiction-dependence/counter-readings in
+  frontmatter, not just support.
+- Wave 3: 10 more stub backfills (churchill, clark, tiebout, rothbard, mass-appraisal, 2008,
+  production-boundary, NZ, chicago, norway).
+
+T1-gate pattern holding: every GLM draft passes automated structural + grounding checks; fetch-
+failed research drafts ship conservative (years/DOIs only) at Light scan or lose their
+supports_outcomes claim. people/floyd-marinescu created at the subject's request (NPOV, [VERIFY]
+for backfill).
+
 Update this log at the end of each loop (or wave) so the descriptive record stays in step with
 `git log`.
