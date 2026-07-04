@@ -74,6 +74,26 @@ in the corpus. Prolific researchers whose papers anchor multiple outcomes belong
 if no wiki page discusses them biographically yet — that is precisely the gap this loop exists to
 catch.
 
+## The 1M-context strategy (GLM's window is the asset — fill it where it adds value)
+
+GLM 5.2 on Ollama Cloud has a ~1M-token context window (verified: ~275k-char needle test passes
+in ~20s). Use it deliberately:
+
+1. **Light pass (default sweep):** papers get ~45k chars of document text — most papers fit whole.
+2. **Deep pass (`--deep`):** Core-tier and under-mined sources get up to ~900k chars (whole books,
+   pdftotext up to 400 pages) PLUS the full wiki corpus digest (title+excerpt of every page), so
+   dedupe happens against real content, not slug names. Output goes to
+   `preview/comprehensiveness_sweep_deep.jsonl`. This doubles as the Heavy-scan upgrade the
+   registry's Scan Depth policy wants for books.
+3. **Whole-corpus cohesion audit (`scripts/cohesion_audit_glm.py`):** the ENTIRE wiki (~1.5M chars
+   ≈ 350k tokens) in ONE call → contradictions, duplications, missing cross-links, terminology
+   drift, stale/inconsistent facts, corpus-scale gaps. Run it as **Phase 3.5** each invocation,
+   after stubs are created; its findings feed T1 fix-ups and the main loop's queues.
+4. **Corpus-aware drafting (Phase 3):** when backfilling a stub, a single GLM call can hold the
+   full text of the discovering sources + every related wiki page — draft with total context,
+   then T1 review. Prefer this over web-searching Claude agents whenever the material is already
+   in the corpus.
+
 ## Phase 2 — T1 triage → stubs
 
 T1 dedupes across all chunk reports (and against the wiki + BACKLOG), accepts/rejects each

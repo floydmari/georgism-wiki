@@ -26,7 +26,11 @@ OLLAMA = os.environ.get("OLLAMA_LOCAL", "http://localhost:11434")
 BATCHES = os.path.join(ROOT, "preview/comprehensiveness_batches.json")
 OUT = os.path.join(ROOT, "preview/comprehensiveness_sweep_results.jsonl")
 WORKERS = int(os.environ.get("SWEEP_WORKERS", "3"))
-MAX_DOC_CHARS = 45000
+MAX_DOC_CHARS = 45000            # light mode
+DEEP_DOC_CHARS = 900000          # deep mode: whole books (GLM 1M-token window)
+NUM_CTX = int(os.environ.get("SWEEP_NUM_CTX", "65536"))
+DEEP_NUM_CTX = int(os.environ.get("SWEEP_DEEP_NUM_CTX", "262144"))
+DEEP = False
 
 CATS = ["concepts", "people", "places", "organizations", "objections", "events", "outcomes", "narratives"]
 
@@ -37,6 +41,18 @@ def slug_list() -> str:
         for f in sorted(os.listdir(os.path.join(ROOT, c))):
             if f.endswith(".md"):
                 out.append(f"{c}/{f[:-3]}")
+    return "\n".join(out)
+
+
+def corpus_digest() -> str:
+    """Title + excerpt of every wiki page (~40k chars) — real-content dedupe for deep mode."""
+    import glob
+    out = []
+    for c in CATS + ["research"]:
+        for p in sorted(glob.glob(os.path.join(ROOT, c, "*.md"))):
+            txt = open(p).read()
+            m = re.search(r'^excerpt:\s*"?(.*?)"?\s*$', txt, re.M)
+            out.append(f"{c}/{os.path.basename(p)[:-3]} — {(m.group(1) if m else '')[:180]}")
     return "\n".join(out)
 
 
@@ -53,7 +69,7 @@ def fetch(url: str) -> str:
                 tf.write(data)
                 path = tf.name
             try:
-                txt = subprocess.run(["pdftotext", "-l", "60", path, "-"], capture_output=True, timeout=60)
+                txt = subprocess.run(["pdftotext", "-l", "400" if DEEP else "60", path, "-"], capture_output=True, timeout=180)
                 return txt.stdout.decode("utf-8", "ignore")
             finally:
                 os.unlink(path)
@@ -102,7 +118,7 @@ def glm(prompt: str) -> dict:
         "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": prompt}],
         "stream": False,
         "format": "json",
-        "options": {"temperature": 0.2, "num_ctx": 32768},
+        "options": {"temperature": 0.2, "num_ctx": DEEP_NUM_CTX if DEEP else NUM_CTX},
     }).encode()
     for attempt in range(3):
         try:
@@ -124,11 +140,18 @@ def glm(prompt: str) -> dict:
 
 
 def main() -> None:
+    global DEEP, OUT
     limit = None
     if "--limit" in sys.argv:
         limit = int(sys.argv[sys.argv.index("--limit") + 1])
+    DEEP = "--deep" in sys.argv
     data = json.load(open(BATCHES))
     sources = [s for b in data["batches"] for s in b]
+    if DEEP:
+        OUT = os.path.join(ROOT, "preview/comprehensiveness_sweep_deep.jsonl")
+        under = {u["title"] for u in data.get("under_mined", [])}
+        sources = [s for s in sources
+                   if s["Title"] in under or (s.get("Tier", "").strip().lower() == "core")]
     done = set()
     if os.path.exists(OUT):
         for line in open(OUT):
@@ -140,6 +163,8 @@ def main() -> None:
     if limit:
         todo = todo[:limit]
     slugs = slug_list()
+    global DIGEST
+    DIGEST = corpus_digest() if DEEP else ""
     backlog = open(os.path.join(ROOT, "BACKLOG.md")).read()
     queued = "\n".join(l for l in backlog.splitlines()
                        if re.search(r"\[(STUB|BACKFILL|DRAFT)\]|Rejected \(do not re-propose", l))[:6000]
@@ -158,11 +183,12 @@ def main() -> None:
             rp = research_page(s.get("Wiki Page", ""))
             prompt = (
                 f"SOURCE METADATA: {json.dumps(s)}\n\n"
-                f"EXISTING WIKI SLUGS (do not re-propose):\n{slugs}\n\n"
+                + (f"FULL WIKI CORPUS DIGEST (title+excerpt of every page — use for real dedupe):\n{DIGEST}\n\n" if DEEP else "")
+                + f"EXISTING WIKI SLUGS (do not re-propose):\n{slugs}\n\n"
                 f"ALREADY QUEUED/REJECTED IN BACKLOG (do not re-propose):\n{queued}\n\n"
                 f"WHAT THE WIKI ALREADY EXTRACTED (research page, orientation only):\n{rp or '(no dedicated research page)'}\n\n"
                 f"DOCUMENT TEXT ({'fetched' if fetched else 'FETCH FAILED — metadata-only mode'}):\n"
-                f"{doc[:MAX_DOC_CHARS] if fetched else '(unavailable)'}"
+                f"{doc[:(DEEP_DOC_CHARS if DEEP else MAX_DOC_CHARS)] if fetched else '(unavailable)'}"
             )
             res = glm(prompt)
             rec = {"title": s["Title"], "url": s.get("URL", ""), "fetched": fetched, "result": res}
