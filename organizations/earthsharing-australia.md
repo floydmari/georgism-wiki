@@ -13,7 +13,7 @@ excerpt: "The environmental and educational outreach arm of Prosper Australia, p
 
 ## Work
 
-Earthsharing produces *Progress* magazine, ran the **Georgist Podcourse** (a structured audio introduction to the ideas), and conducts public education linking land, environment, and economics — the practical expression of [ecological Georgism](/wiki/ecological-georgism/). It serves as an accessible on-ramp for environmentally-motivated audiences into land-rights economics.
+Earthsharing produces *Progress* magazine, ran the **[Georgist Podcourse](/wiki/earthsharing-podcourse/)** (a structured audio introduction to the ideas), and conducts public education linking land, environment, and economics — the practical expression of [ecological Georgism](/wiki/ecological-georgism/). It serves as an accessible on-ramp for environmentally-motivated audiences into land-rights economics.
 
 ## See Also
 

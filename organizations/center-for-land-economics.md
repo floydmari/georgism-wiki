@@ -22,6 +22,7 @@ Where older organisations preserve and teach the tradition, the Center for Land 
 ## See Also
 
 - [Lars Doucet](/wiki/lars-doucet/) · [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
+- [Common Wealth Canada](/wiki/common-wealth-canada/) — a comparable data-driven org focused on Canada
 
 ## Sources
 

@@ -22,8 +22,9 @@ Although the land value duties themselves were complex, under-yielding, and late
 ## See Also
 
 - [Single Tax](/wiki/single-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/)
+- [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the argument this budget was built on
 
 ## Sources
 
 1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
-2. Winston Churchill's 1909 speeches in support of the land duties (the "land monopolist" passages).
+2. Winston Churchill's 1909 speeches in support of the land duties (the "land monopolist" passages), collected in *The People's Rights* — [wiki summary](/wiki/churchill-peoples-rights/).

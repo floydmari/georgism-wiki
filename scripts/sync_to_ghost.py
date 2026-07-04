@@ -39,8 +39,12 @@ import os, sys, glob, time, jwt, requests
 import frontmatter
 import markdown as md
 
-GHOST_URL = os.environ["GHOST_URL"].rstrip("/")
-KEY_ID, SECRET = os.environ["GHOST_ADMIN_KEY"].split(":")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from _secrets import require_ghost   # resolves from env or 1Password (op)
+
+_KEY, GHOST_URL = require_ghost()
+GHOST_URL = GHOST_URL.rstrip("/")
+KEY_ID, SECRET = _KEY.split(":")
 
 CATEGORY_TAG = {            # folder -> (category tag slug, display name)
     "concepts":      ("wiki-concepts",      "Concepts"),
@@ -51,6 +55,7 @@ CATEGORY_TAG = {            # folder -> (category tag slug, display name)
     "research":      ("wiki-research",       "Research"),
     "organizations": ("wiki-organizations", "Organizations"),
     "objections":    ("wiki-objections",    "Objections"),
+    "narratives":    ("wiki-narratives",    "Narratives"),
 }
 
 def headers():
@@ -114,6 +119,7 @@ def upsert(path):
 def main():
     targets = sys.argv[1:] or [
         p for folder in CATEGORY_TAG for p in glob.glob(f"{folder}/*.md")
+        if not os.path.basename(p).startswith("_")   # _-prefixed = internal, never published
     ]
     print(f"Syncing {len(targets)} entr{'y' if len(targets)==1 else 'ies'} to {GHOST_URL}")
     for path in targets:

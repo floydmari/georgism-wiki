@@ -14,7 +14,7 @@ The **Lincoln Institute of Land Policy** is a non-profit research and education 
 
 ## Role in the Field
 
-The Institute traces its mission to the ideas of Henry George via its founder, John C. Lincoln, an industrialist influenced by *Progress and Poverty*. It runs research programmes, publishes policy-focus reports (including the standard reference *[Assessing the Theory and Practice of Land Value Taxation](/wiki/dye-england-assessing-lvt/)* by Dye & England), maintains property-tax databases, and hosts the *Land Matters* podcast. Its working-paper series is a primary venue for split-rate and assessment research, such as Zhou Yang's Pennsylvania studies.
+The Institute traces its mission to the ideas of Henry George via its founder, John C. Lincoln, an industrialist influenced by *Progress and Poverty*. It runs research programmes, publishes policy-focus reports (including the standard reference *[Assessing the Theory and Practice of Land Value Taxation](/wiki/dye-england-assessing-lvt/)* by Dye & England), maintains property-tax databases, and hosts the *[Land Matters](/wiki/land-matters-podcast/)* podcast. Its working-paper series is a primary venue for split-rate and assessment research, such as Zhou Yang's Pennsylvania studies.
 
 ## Why It Matters
 

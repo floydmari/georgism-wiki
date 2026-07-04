@@ -16,13 +16,14 @@ Pollution and resource extraction use commonly-owned natural assets without payi
 
 ## Significance
 
-Ecological Georgism reframes climate and environmental policy as a rent problem, and is a major theme in modern Georgist writing (e.g. Alanna Hartzok's *The Earth Belongs to Everyone*).
+Ecological Georgism reframes climate and environmental policy as a rent problem, and is a major theme in modern Georgist writing (e.g. [Alanna Hartzok's](/wiki/alanna-hartzok/) *The Earth Belongs to Everyone*).
 
 ## See Also
 
 - [Resource Rents](/wiki/resource-rents/) · [Citizen's Dividend](/wiki/citizens-dividend/) · [Georgism](/wiki/georgism/)
+- [Alanna Hartzok](/wiki/alanna-hartzok/) — leading advocate connecting land rent to environmental justice
 
 ## Sources
 
-1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* (book).
+1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* (book) — [wiki summary](/wiki/alanna-hartzok/).
 2. IMF (2012), "Issues in Extractive Resource Taxation." [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)

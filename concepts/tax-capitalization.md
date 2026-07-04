@@ -21,6 +21,7 @@ Capitalization explains several core features of land value taxation:
 ## See Also
 
 - [ATCOR](/wiki/atcor/) · [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) · [Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
+- [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — capitalization applied to public-investment uplift specifically
 
 ## Sources
 

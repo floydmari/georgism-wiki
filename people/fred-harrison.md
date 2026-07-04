@@ -34,6 +34,7 @@ The 2008 collapse confirmed the prediction with notable accuracy.
 - [Mason Gaffney](/wiki/mason-gaffney/) — co-author of *The Corruption of Economics*
 - [ATCOR](/wiki/atcor/) — the theorem central to *Ricardo's Law*
 - [Land Value Tax](/wiki/land-value-tax/)
+- [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the narrative page built on his 18-year cycle forecasting
 
 ## Sources
 

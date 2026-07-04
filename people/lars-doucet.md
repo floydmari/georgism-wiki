@@ -12,9 +12,16 @@ Lars Doucet is an American game developer, writer, and land-assessment entrepren
 
 ## Contributions
 
-- **"Does Georgism Work?"** — His [three-part Astral Codex Ten series](/wiki/doucet-does-georgism-work/) (2021–22) examined the main empirical objections to LVT (magnitude, incidence, assessment).
+- **"Does Georgism Work?"** — His [three-part Astral Codex Ten series](/wiki/doucet-does-georgism-work/) (2021–22) examined the main empirical objections to LVT (magnitude, incidence, assessment). The series grew out of his [prize-winning ACX book review of *Progress and Poverty*](/wiki/doucet-acx-book-review/) (2021), credited with sparking the modern Georgism revival online.
 - ***Land Is a Big Deal*** (2023) — A book expanding the series into the most accessible modern introduction to Georgism, praised by Vitalik Buterin, Scott Alexander, and Noah Smith.
 - **Center for Land Economics** — Doucet co-founded this nonprofit, which works on practical land assessment and LVT research, directly addressing the assessment objection.
+
+## Listening & Watching
+
+Doucet is a frequent audio/video presence: his long-form conversation on the
+[Dwarkesh Podcast](/wiki/dwarkesh-doucet-podcast/) is a widely recommended single-sitting
+introduction to Georgism, and he appears in several of the
+[Georgism video explainers](/wiki/georgism-video-explainers/) circulating on YouTube.
 
 ## Significance
 

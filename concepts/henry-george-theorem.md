@@ -29,4 +29,4 @@ The theorem gives Georgism a rigorous foundation in mainstream theory: it is not
 ## Sources
 
 1. Richard Arnott & Joseph Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *QJE* — [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/) · [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf)
-2. Joseph Stiglitz (1977), "The Theory of Local Public Goods."
+2. Joseph Stiglitz (1977), "The Theory of Local Public Goods" — [wiki summary](/wiki/stiglitz-theory-local-public-goods/), the paper that coined the theorem's name.

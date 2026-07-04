@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, housing, affordability, speculation, contested]
 stub: false
 evidence_strength: "Contested (sound mechanism; depends on complementary policy)"
-supported_by: [oates-schwab-pittsburgh, tomson-estonia-lvt]
+supported_by: [oates-schwab-pittsburgh, tomson-estonia-lvt, hsieh-moretti-spatial-misallocation]
 excerpt: "By discouraging speculation and encouraging development, LVT can ease housing costs — but only alongside permissive land-use policy; capturing land value alone need not lower prices."
 ---
 

@@ -8,6 +8,7 @@ source_url: https://www.sciencedirect.com/science/article/abs/pii/S0094119014000
 tier: important
 stub: false
 excerpt: "Extends the Henry George Theorem to realistic economies with increasing returns, distortions, and property taxes, deriving a robust second-best version."
+supports_outcomes: [public-goods-fundable-from-land-rent]
 ---
 
 ## Summary

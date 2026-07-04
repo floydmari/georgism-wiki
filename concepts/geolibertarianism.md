@@ -21,8 +21,9 @@ The view descends from classical liberals and from Henry George himself, who saw
 ## See Also
 
 - [Georgism](/wiki/georgism/) · [Land Value Tax](/wiki/land-value-tax/) · [Objection: the Austrian critique](/wiki/lvt-austrian-critique/)
+- [Rhee, Fairness of Land Value Taxation: A Rawlsian Derivation](/wiki/rhee-rawlsian-lvt/) — a distinct, non-libertarian moral foundation for the same policy conclusion
 
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-2. Geolibertarian writings collected at the [School of Cooperative Individualism](https://cooperative-individualism.org/).
+2. Geolibertarian writings collected at the [School of Cooperative Individualism](/wiki/school-of-cooperative-individualism/) ([site](https://cooperative-individualism.org/)).

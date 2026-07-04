@@ -20,6 +20,24 @@ CC BY 4.0 — freely reusable with attribution.
 ## Contributing
 See [AI Editor Instructions](https://www.notion.so/AI-Editor-Instructions-How-to-Push-Updates-to-the-Wiki-372e068c43f58175b5ccfecdf757c236) for how to add or edit articles.
 
+### Editorial system (in-repo, model-agnostic)
+- **[`ROADMAP.md`](ROADMAP.md)** — the master plan: vision, model tiers, work-stream status, pending items.
+- **[`EDITORIAL.md`](EDITORIAL.md)** — the constitution: claim taxonomy, citation & evidence rules, source-quality hierarchy, per-category templates, publishing rules. Read this first.
+- **[`QUALITY_RUBRIC.md`](QUALITY_RUBRIC.md)** — the 6-dimension scoring rubric.
+- **[`LOOP.md`](LOOP.md)** — the tiered improvement loop any model runs (T1 Fable / T2 Sonnet / T3 Flash-Haiku).
+- **[`LOOPLOG.md`](LOOPLOG.md)** — the descriptive record of what each loop actually changed (the history behind `LOOP.md`).
+- **[`BACKLOG.md`](BACKLOG.md)** — the prioritized task queue and persistent memory.
+- **`sources/registry.csv`** — the source register (mirror of the master Google Sheet). Regenerate/seed with `python3 scripts/seed_registry.py`.
+
+### Tooling
+```bash
+python3 scripts/lint_wiki.py                       # quality gate (zero deps); --strict for CI
+python3 scripts/build_preview.py                   # render the branch to preview/
+python3 -m http.server -d preview 8000             # browse locally before publishing
+python3 scripts/pull_from_ghost.py <folder> <slug> # reconcile a page that drifted onto Ghost
+```
+Nothing publishes until `scripts/sync_to_ghost.py` runs — GitHub is the master record.
+
 
 ## Publishing to Ghost — three critical gotchas
 

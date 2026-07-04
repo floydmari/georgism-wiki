@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, equity, progressivity, lvt, wealth]
 stub: false
 evidence_strength: "Strong (theory + concentration of land ownership)"
-supported_by: [schwerhoff-imf-equity-efficiency, rognlie-capital-share]
+supported_by: [schwerhoff-imf-equity-efficiency, rognlie-capital-share, cwc-distributional-impacts-lvt]
 excerpt: "Because land ownership is concentrated among the wealthy, a land value tax falls disproportionately on high-wealth households — making it both efficient and progressive."
 ---
 
