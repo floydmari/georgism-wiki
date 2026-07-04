@@ -16,7 +16,7 @@ import glob, json, os, re, time, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL = os.environ.get("SWEEP_MODEL", "glm-5.2:cloud")
 OLLAMA = os.environ.get("OLLAMA_LOCAL", "http://localhost:11434")
-NUM_CTX = int(os.environ.get("AUDIT_NUM_CTX", "524288"))
+NUM_CTX = int(os.environ.get("AUDIT_NUM_CTX", "1000000"))
 CATS = ["concepts", "people", "places", "organizations", "objections", "events", "outcomes",
         "narratives", "research"]
 

@@ -29,7 +29,7 @@ WORKERS = int(os.environ.get("SWEEP_WORKERS", "3"))
 MAX_DOC_CHARS = 45000            # light mode
 DEEP_DOC_CHARS = 900000          # deep mode: whole books (GLM 1M-token window)
 NUM_CTX = int(os.environ.get("SWEEP_NUM_CTX", "65536"))
-DEEP_NUM_CTX = int(os.environ.get("SWEEP_DEEP_NUM_CTX", "262144"))
+DEEP_NUM_CTX = int(os.environ.get("SWEEP_DEEP_NUM_CTX", "1000000"))  # verified: 1M accepted, needles at 635k chars pass
 DEEP = False
 
 CATS = ["concepts", "people", "places", "organizations", "objections", "events", "outcomes", "narratives"]
