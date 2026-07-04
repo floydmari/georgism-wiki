@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, productivity, tfp, urban-land, misallocation]
 stub: false
 evidence_strength: "Emerging (theory + recent macro studies)"
-supported_by: [bakker-land-rents-tfp, hsieh-moretti-spatial-misallocation, fiorentino-moogan-agglomeration]
+supported_by: [bakker-land-rents-tfp, hsieh-moretti-spatial-misallocation, fiorentino-moogan-agglomeration, duranton-puga-urban-growth]
 excerpt: "High urban land rents price the most productive workers and firms out of the best locations, misallocating labour and capital and lowering aggregate productivity."
 ---
 
@@ -20,7 +20,7 @@ Productive cities offer high wages and returns because of agglomeration — but 
 
 - [Bakker (2023, IMF)](/wiki/bakker-land-rents-tfp/) models and measures the channel, finding high urban land rents reduce aggregate TFP via misallocation.
 - [Fiorentino & Moogan (2025)](/wiki/fiorentino-moogan-agglomeration/) model the same channel from the agglomeration side, finding that taxing land value eases the misallocation and improves both efficiency and equity in how cities form.
-- The result complements a large "housing-as-misallocation" literature (e.g. work on how housing costs in superstar cities lower national output).
+- [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) provide the fullest quantification of that "housing-as-misallocation" literature, estimating that housing-supply constraints in high-productivity US cities substantially lowered aggregate US growth over 1964–2009.
 
 ## Strength of Evidence
 

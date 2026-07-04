@@ -1,0 +1,63 @@
+---
+title: "Do Local Property Taxes Affect New Building Development? Results from a Quasi-Natural Experiment in New Zealand"
+category: research
+tags: [research, new-zealand, property-tax, land-value-tax, construction, empirical, rating-valuation]
+authors: [Norman Gemmell, Arthur Grimes, Mark Skidmore]
+year: 2019
+tier: Important
+source_url: https://doi.org/10.1007/s11146-017-9651-y
+stub: false
+excerpt: "A quasi-natural experiment from Auckland's 2010 council amalgamation finds little evidence that shifting local rates from a land-value to a capital-value base affected new building development, though it found stronger effects on alterations."
+last_reviewed: 2026-07-03
+supports_outcomes: []
+---
+
+## Summary
+
+"Do Local Property Taxes Affect New Building Development? Results from a Quasi-Natural Experiment in New Zealand" is a 2019 paper by **Norman Gemmell** (Victoria University of Wellington), **Arthur Grimes** (Motu Economic and Public Policy Research / Victoria University of Wellington), and **Mark Skidmore** (Michigan State University), published in *The Journal of Real Estate Finance and Economics*, volume 58, issue 2, pages 310–333 (an earlier version circulated as a Victoria University of Wellington Chair in Public Finance working paper by Gemmell and Grimes). It is a peer-reviewed empirical study exploiting a genuine policy discontinuity — the 2010 amalgamation of Auckland's local councils — to test whether the structure of local property taxation affects the pace of new building development. Because Grimes is a long-standing New Zealand public-finance economist closely associated with land-value research (including at Motu, which has published extensively on New Zealand land value databases and rating systems), and because the paper's design directly targets the land-value-vs-capital-value rating question central to the Georgist case, it is directly relevant to this wiki even though — as detailed below — its headline result is a **null finding for new construction**, not a confirming one.
+
+## The Quasi-Natural Experiment
+
+New Zealand's local "rates" (property taxes) can legally be levied on either a **land value (LV)** basis — an unimproved-value base close to a pure land value tax — or a **capital value (CV)** basis that also taxes the value of buildings and other improvements. Before 2010, several of the territorial authorities that would become Auckland Council used LV rating (including, in whole or part, former councils such as Waitakere, North Shore, Rodney, and Papakura), while others used CV rating. In November 2010, central government amalgamated eight separate councils in the Auckland region into a single unitary Auckland Council. As part of the transition, legislation required the new council to use a single rating base across the whole region; Auckland Council adopted a **capital-value base**, so former LV-rating areas were shifted onto CV rating. The amalgamation also changed the relative level of rates across the former council areas as they were harmonised into one system, and altered **Development Contributions** — a separate charge levied specifically on new and altered buildings to fund growth-related infrastructure. Gemmell, Grimes, and Skidmore treat this bundle of simultaneous, centrally-imposed, non-voluntary changes as a quasi-natural experiment: because individual property owners and developers did not choose the reform and could not have anticipated its precise design, the authors argue the resulting variation is closer to exogenous than typical cross-sectional comparisons of tax structure.
+
+## Method and Data
+
+The authors use **difference-in-differences-style regression analysis** of building consent data (New Zealand's equivalent of building permits) for new construction and, separately, for alterations to existing buildings, comparing former council areas that moved from LV to CV rating (and experienced the associated changes in relative rate levels and Development Contributions) against areas whose rating base did not change, before and after the 2010 amalgamation. This design is structurally similar to the identification strategy in [Plassmann & Tideman (2000)](/wiki/plassmann-tideman-construction/), which also exploits variation in land-vs-improvement tax ratios across jurisdictions over time, though the Auckland case is a single discrete policy shock rather than decades of gradual rate-setting variation, and the post-reform observation window in this study is short — the authors note their data cover only about two years after amalgamation.
+
+## Key Finding: A Null Result for New Construction
+
+The paper's central, and for this wiki's purposes most important, finding is that the authors report **"little evidence of tax effects on new building development after the amalgamation, but... stronger support for such effects on building alterations."** In other words, shifting from land-value to capital-value rating (a move that, other things equal, Georgist theory predicts should *discourage* new construction, since it re-introduces a tax penalty on improvements) was **not** associated with a detectable change in new building consents in the two years studied. The authors did find some evidence of an effect on alterations to existing buildings, which they suggest may reflect that alteration decisions can respond more quickly than new-build decisions to a change in the tax and Development Contribution regime, since new construction involves longer planning, financing, and construction lags that a two-year post-reform window may not fully capture.
+
+## Relation to the Georgist Case
+
+This paper's relationship to the Georgist case is best described as **complicating, not supporting**. The prediction tested — that taxing improvements (via a capital-value base) discourages new building relative to taxing land alone — is the same directional prediction underlying the [outcome that split-rate taxation increases construction](/wiki/split-rate-increases-construction/), for which [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) and [Plassmann & Tideman (2000)](/wiki/plassmann-tideman-construction/) found supporting evidence in Pennsylvania. Gemmell, Grimes, and Skidmore test essentially the same hypothesis in a different institutional setting (New Zealand rather than Pennsylvania, a large discrete reform rather than gradual multi-decade rate variation) and **do not find a significant effect on new construction**, only on alterations. A fair reading is that this is a genuine null result on the specific outcome (new building development) that the Pennsylvania studies found effects for — not a confirming data point, and not obviously a refutation of the broader theory either, given the limitations below. It should not be listed as supporting evidence for the construction outcome; if anything it belongs alongside that outcome's evidence base as a data point that complicates the claim that the effect generalises quickly across institutional contexts.
+
+## Nuances and Limits
+
+- **Short post-reform window.** The authors themselves flag that only about two years of post-amalgamation data were available at the time of study, which may be too short to detect effects on new construction given the multi-year lags typical in planning, consenting, and construction — a very different situation from the decades of data available to Plassmann & Tideman.
+- **Confounded, bundled reform.** The amalgamation simultaneously changed the rating base, the relative level of rates across former council areas, and Development Contributions. Disentangling which specific change (if any) drives the alterations result is harder than in Pennsylvania, where the land-to-building tax ratio is the primary variable of interest and rates were set independently by many municipalities over a long period.
+- **Direction of the reform runs opposite to the "Georgist" direction.** Where the Pittsburgh and Pennsylvania studies examine jurisdictions moving *toward* heavier land taxation, the Auckland reform moved former LV-rating areas *toward* capital-value rating — i.e., away from a land-only base. A null result on new construction in this context does not straightforwardly confirm or refute the Pennsylvania findings; it tests the same mechanism from the opposite direction, in a setting with a much shorter observation period.
+- **External validity.** As with the Pennsylvania evidence, results from one country's specific institutional reform may not generalise elsewhere; the authors do not claim a general finding beyond the Auckland case.
+
+## Bears On
+
+- **Outcome:** [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/) — tests the same directional hypothesis as the Pennsylvania studies supporting this outcome, but in New Zealand finds no significant effect on new building development (only on alterations); a complicating data point rather than confirming evidence, and best read alongside rather than folded into the outcome's core supporting evidence.
+- **Place:** [New South Wales, Australia](/wiki/new-south-wales/) — another Australasian jurisdiction with long-running land-value rating, useful comparison for assessing how rating-base design plays out in the region.
+- **Place:** [Denmark](/wiki/denmark/) — another country whose local land tax (*grundskyld*) coexists with, and is periodically debated against, capital/property-value-based approaches.
+
+## See Also
+
+- [Plassmann & Tideman (2000): Two-Rate Property Taxes and Construction](/wiki/plassmann-tideman-construction/)
+- [Oates & Schwab (1997): The Pittsburgh Experience](/wiki/oates-schwab-pittsburgh/)
+- [Outcome: Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
+- [New South Wales, Australia](/wiki/new-south-wales/)
+- [Denmark](/wiki/denmark/)
+
+## Sources
+
+1. Norman Gemmell, Arthur Grimes & Mark Skidmore (2019), "Do Local Property Taxes Affect New Building Development? Results from a Quasi-Natural Experiment in New Zealand," *The Journal of Real Estate Finance and Economics* 58(2):310–333. [DOI](https://doi.org/10.1007/s11146-017-9651-y) — used for the paper's bibliographic details, methodology, and headline finding (paywalled publisher version; abstract and findings verified via the publisher record and independent secondary summaries, see below).
+2. Motu Economic and Public Policy Research, working paper summary page for this study. [Motu](https://www.motu.nz/our-research/urban-and-regional/housing/do-local-property-taxes-affect-new-building-development-results-from-a-quasi-natural-experiment-in-new-zealand) — used for the plain-language description of the Auckland amalgamation, the land-value-to-capital-value rating shift, Development Contributions, and confirmation of the "little evidence... on new building development... stronger support... for alterations" finding. Note: this Motu page lists the working-paper version's visible authors as Gemmell and Grimes; Skidmore is confirmed as a co-author of the published *Journal of Real Estate Finance and Economics* version via IDEAS/RePEc (below).
+3. IDEAS/RePEc, Mark Skidmore author profile and publication record. [IDEAS/RePEc](https://ideas.repec.org/e/psk65.html) — used to confirm Skidmore's co-authorship, the final journal, volume, issue, page numbers, and 2019 (February) publication date.
+4. [Plassmann & Tideman (2000) — wiki summary](/wiki/plassmann-tideman-construction/) and [Oates & Schwab (1997) — wiki summary](/wiki/oates-schwab-pittsburgh/) — used for comparison of methodology and findings against the Pennsylvania split-rate literature.
+
+[VERIFY: A future editor with full-text access to the published *Journal of Real Estate Finance and Economics* version (paywalled in this session) should confirm the precise regression specification, sample size/number of consents, and any effect-size estimates for alterations, and add page-level citations. This session could not directly fetch the publisher's full text or a public working-paper PDF; the findings above are corroborated by two independent secondary sources (the Motu summary and an IDEAS/RePEc-derived abstract) that agree on substance, but direct primary-text verification is still needed.]

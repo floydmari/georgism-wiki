@@ -1,0 +1,77 @@
+---
+title: "Can the Land Tax Help Curb Urban Sprawl? Evidence from Growth Patterns in Pennsylvania"
+category: research
+tags: [research, pennsylvania, split-rate, construction, sprawl, density, empirical]
+authors: [H. Spencer Banzhaf, Nathan Lavery]
+year: 2010
+tier: important
+source_url: https://doi.org/10.1016/j.jue.2009.08.005
+stub: false
+excerpt: "Panel study of Pennsylvania Census tracts (1970–2000) finding split-rate taxation raises the capital/land ratio mainly by increasing the number of housing units, not their size — evidence it can increase density."
+last_reviewed: 2026-07-03
+supports_outcomes: [split-rate-increases-construction]
+---
+
+## Summary
+
+H. Spencer Banzhaf (then at Georgia State University, also a Faculty Research Fellow at the [NBER](https://www.nber.org/)) and Nathan Lavery (Vermont Legislative Joint Fiscal Office) published "Can the Land Tax Help Curb Urban Sprawl? Evidence from Growth Patterns in Pennsylvania" in the *Journal of Urban Economics* 67(2), pages 169–179, in March 2010 (received 2008, revised and available online August 2009). The paper was supported by the Lincoln Institute of Land Policy and the Property and Environment Research Center (PERC), and was reviewed by Jan Brueckner, William Fischel, Wallace Oates, Robert Schwab, and other prominent urban and public economists credited in the acknowledgments.
+
+The paper sits alongside [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) and [Plassmann & Tideman (2000)](/wiki/plassmann-tideman-construction/) as one of the three central empirical studies of Pennsylvania's split-rate property tax experience, and it explicitly builds on both. Its distinctive contribution is methodological: rather than using building permits (the outcome those two papers use) as a proxy for construction activity, Banzhaf and Lavery use decade-over-decade US Census data (1970, 1980, 1990, 2000) at the Census-tract level to directly measure changes in **housing units, average dwelling size, and population density** — and to decompose the split-rate tax's effect on the capital/land ratio into a "density effect" (more housing units per unit of land) versus a "dwelling size effect" (bigger or higher-quality dwellings). This decomposition is what makes the paper relevant to sprawl specifically, since a rise in construction activity is compatible with either more houses or bigger houses, and only the former is straightforwardly an anti-sprawl outcome.
+
+## The Core Argument and Findings
+
+### Theoretical setup
+
+The authors start from the standard result that a tax on land (fixed in supply) is non-distortionary, while a uniform property tax that also taxes improvements reduces the equilibrium capital/land ratio — the "improvement effect" (citing Brueckner and Kim, 2003). They note this improvement effect could show up in either of two ways: a **density effect** (more housing units per unit of land) or a **dwelling size effect** (larger/nicer housing units per household), and that theoretical models disagree about which should dominate (Brueckner & Kim, 2003 predict density; Song & Zenou, 2006 predict dwelling size can dominate under some preference structures). Whether split-rate taxation actually reduces sprawl, the authors argue, hinges on which effect dominates in practice — a question they say had not been directly tested before this paper.
+
+### Empirical strategy
+
+Banzhaf and Lavery study the roughly 18 Pennsylvania municipalities that adopted a split-rate tax between 1970 and 2000 (including Pittsburgh, Scranton, and Harrisburg, which had already adopted it earlier but continued to adjust their land-to-structure tax ratios), using the state's other municipalities as controls. Using Geolytics' Neighborhood Change Database (which normalizes Census tract boundaries to the 2000 boundaries), they estimate a tract-level fixed-effects, difference-in-difference-in-differences model: the percentage change in an outcome (total rooms, rooms per unit, or housing units, each normalized per unit land area) in a decade is regressed on a tract fixed effect, a decade effect, lagged demographic/land-use controls, latitude-longitude-decade interactions (to absorb regional trends), and either a split-rate dummy or the log of the jurisdiction's land-to-structure tax ratio. Standard errors are clustered at the jurisdiction level. This design identifies the effect from **deviations from each tract's own pre-existing trend**, relative to control tracts — addressing the concern that split-rate adopters might simply be different kinds of places to begin with.
+
+### Results
+
+- **Improvement effect confirmed.** Adopting the split-rate tax is associated with a **5–6 percentage-point increase** (relative to pre-existing trend and controls) in the growth of total rooms per unit land area over the first two decades after adoption — the authors' proxy for the capital/land ratio. This is consistent with the improvement effect found via building permits by Oates & Schwab (1997) and Plassmann & Tideman (2000).
+- **Density effect dominates.** Decomposing this improvement effect, the authors find **housing units increase by about 4–5 percentage points** per decade relative to controls, while the effect on the **average number of rooms per dwelling unit is small and, in most specifications, statistically insignificant** (0–1.2 percentage points, and even where marginally significant it accounts for only about one-fifth of the total room increase). In the authors' words, "the primary effect is in more housing units, rather than bigger units."
+- **Effect concentrated in high-density structures.** Split-rate adoption is associated with a large, statistically significant increase in construction of **multi-unit structures**, especially those with **five or more dwelling units** (a roughly 12–22 percentage-point increase across specifications), while the effect on detached single-family houses is negative (though not statistically significant). This is presented as corroborating evidence that the new housing built under split-rate taxation is disproportionately higher-density.
+- **Population effects are mixed.** Some specifications show a 4–5 percentage-point relative increase in population growth; others (the tax-ratio specifications) show no detectable effect, which the authors flag as an open question rather than resolve.
+- **Robust to alternative methods.** A non-parametric propensity-score matching estimator produces similar point estimates (though with wider, sometimes non-significant, confidence intervals given the smaller effective sample).
+
+## Relation to the Georgist Case
+
+This paper strengthens the empirical case (already made via building permits by Oates & Schwab and Plassmann & Tideman) that split-rate taxation increases construction — supporting the outcome [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/) — by showing the increase in construction activity these earlier studies detected corresponds to **more housing units**, not merely bigger or more valuable ones. This is a meaningfully stronger and more specific finding for Georgist arguments about density and land-use efficiency: it directly supports the claim that shifting taxation off buildings and onto land encourages more intensive land use in the sense of more dwellings per acre, which is the mechanism underlying **anti-sprawl arguments** for land value taxation (see also [Ecological Georgism](/wiki/ecological-georgism/), which frames land-use efficiency as an environmental as well as a fiscal question).
+
+## Nuances and Limits
+
+The authors themselves are unusually careful about what their results do and do not show, and these caveats matter for how the paper should be cited:
+
+- **The authors explicitly decline to claim their results show reduced sprawl.** They write plainly that they "do not claim that our empirical work shows that the split-rate tax, as employed in Pennsylvania, has resulted in less sprawl," nor that housing/population density in particular locations is "a proxy for sprawl." Their claim is narrower: the split-rate tax increases density **in the locations where it is applied**. Whether that reduces sprawl at the metropolitan-area level depends on where it is applied.
+- **Density in the wrong place can increase sprawl.** The paper explicitly notes that if a split-rate tax is adopted by a fringe or exurban jurisdiction, increased density there could, by some measures, count as *more* sprawl for the wider metro area — especially if it draws population from the urban core. They call this "a further distinction" that qualifies the "smart growth" interpretation of their results.
+- **A "timing effect" complicates the normative claim.** Citing Mills (1981) and Capozza & Li (1994), the authors note that when land is assessed at current use rather than highest-and-best-use, a land tax can create a bias toward earlier development — a real distortion, even though it happens to reinforce (rather than undercut) the paper's positive/empirical finding of higher density.
+- **External validity is limited to Pennsylvania.** As with the Oates-Schwab and Plassmann-Tideman studies, the empirical base is the small set of Pennsylvania municipalities that have experimented with split-rate taxation (about 18 as of 2000) — by far the largest concentration of this natural experiment among US states.
+- **The Song & Zenou (2006) contrast.** The authors contrast their findings with Song and Zenou's finding that urbanized areas with *higher* average property tax rates are more geographically compact. Banzhaf and Lavery offer a reconciliation (differing tax rates across a metro area can create a different density gradient without changing overall urbanized-area compactness as conventionally measured) but do not resolve it empirically, calling for "further detailed exploration of the spatial structure of actual cities."
+- **Modest statistical power in the matching-estimator robustness check.** The non-parametric matching approach (Table 6 in the paper) produces similar point estimates but larger standard errors, with the housing-unit density effect not reaching conventional significance there (one-tail p-values of 0.18–0.29).
+
+## Bears On
+
+- **Outcome:** [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/) — this paper adds a density/dwelling-unit decomposition to the construction-activity evidence already established by Oates & Schwab and Plassmann & Tideman, and its finding that the effect is driven by more units (not bigger units) is the strongest evidence in the Pennsylvania literature that split-rate taxation specifically affects density.
+- **Concept:** [Ecological Georgism](/wiki/ecological-georgism/) — the paper's evidence that split-rate taxation can increase housing density (subject to its own caveat about where it is applied) is directly relevant to anti-sprawl arguments sometimes made under the ecological-Georgist banner, since denser development is generally associated with less land conversion and lower per-capita infrastructure and transportation externalities.
+- **Concept:** [Land Value Tax](/wiki/land-value-tax/) — provides one of the few direct empirical tests of the land-use efficiency argument for LVT beyond aggregate construction value.
+- **Concept:** [Deadweight Loss](/wiki/deadweight-loss/) — the paper's opening theoretical framing (a tax on a fixed factor is non-distortionary; a tax on improvements is) restates the standard efficiency argument this concept page documents.
+
+## See Also
+
+- [Oates & Schwab (1997) — The Pittsburgh Experience](/wiki/oates-schwab-pittsburgh/)
+- [Plassmann & Tideman (2000) — Markov Chain Monte Carlo Analysis](/wiki/plassmann-tideman-construction/)
+- [Brueckner (1986) — A Modern Analysis of the Effects of Site Value Taxation](/wiki/brueckner-site-value-taxation/)
+- [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
+- [Ecological Georgism](/wiki/ecological-georgism/)
+- [Land Value Tax](/wiki/land-value-tax/)
+- [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/)
+
+## Sources
+
+1. H. Spencer Banzhaf & Nathan Lavery (2010), "Can the Land Tax Help Curb Urban Sprawl? Evidence from Growth Patterns in Pennsylvania," *Journal of Urban Economics* 67(2):169–179. [DOI/Publisher](https://doi.org/10.1016/j.jue.2009.08.005) — used for all findings, methodology, data, and quotations in this article; full text obtained via a free PDF mirror ([Tagesspiegel document repository](https://www.tagesspiegel.de/wirtschaft/immobilien/downloads/bodensteuer-pennsylvania)) and cross-checked against the ScienceDirect/RePEc abstract and record.
+2. Wallace E. Oates & Robert M. Schwab (1997), "The Impact of Urban Land Taxation: The Pittsburgh Experience," *National Tax Journal* 50(1):1–21 — [wiki summary](/wiki/oates-schwab-pittsburgh/) — used for comparison of methodology (building permits vs. Census housing-unit data) and for the paper's own framing of prior literature.
+3. Florenz Plassmann & Nicolaus Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2):216–247 — [wiki summary](/wiki/plassmann-tideman-construction/) — used for the same comparison.
+4. Jan K. Brueckner & Hyun-A Kim (2003), "Urban Sprawl and the Property Tax," *International Tax and Public Finance* 10:5–23 — used (via Banzhaf & Lavery's citation and summary) for the theoretical distinction between the "density effect" and "dwelling size effect" that structures this paper's empirical strategy. [CITATION NEEDED: direct verification of Brueckner & Kim's own text — this session relied on Banzhaf & Lavery's characterization of it]
+5. Yan Song & Yves Zenou (2006), "Property Tax and Urban Sprawl: Theory and Implications for US Cities," *Journal of Urban Economics* 60:519–534 — used (via Banzhaf & Lavery's citation and summary) for the contrasting finding that higher average property tax rates are associated with more compact urbanized areas, discussed in the Nuances section above. [CITATION NEEDED: direct verification of Song & Zenou's own text]

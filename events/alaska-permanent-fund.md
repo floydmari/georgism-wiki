@@ -22,6 +22,7 @@ The Fund is the most prominent, durable demonstration that [resource-rent divide
 ## See Also
 
 - [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — the leading causal evaluation of the PFD's labor-market effects
+- [Widerquist & Howard (2012)](/wiki/widerquist-howard-pfd/) — the book-length examination of the PFD as an exportable model
 
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Resource Rents](/wiki/resource-rents/) · [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 
