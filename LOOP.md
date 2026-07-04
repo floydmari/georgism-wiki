@@ -62,17 +62,17 @@ tasks needing live web research stay on tool-using agents.
    depth — a wave that adds 8 research pages and 0 candidate pages is a smell.
 9. **Update `BACKLOG.md`.** Mark the task `done` (T1 REVIEW loop) or `needs-review` (T2/T3 DRAFT
    loop). Append any follow-up tasks you discovered, tier-tagged.
-9. **Commit & push (GitHub is the master record).** One task per commit:
+10. **Commit & push (GitHub is the master record).** One task per commit:
    `content: <what> (<TYPE> tier:T<n>)`. Push to the working branch. **Open/refresh a PR** for
    DRAFT-loop work (cheap output must not auto-publish).
-10. **Publish — REVIEW loop only.** After T1 approval + merge, if `GHOST_ADMIN_KEY` is set:
+11. **Publish — REVIEW loop only.** After T1 approval + merge, if `GHOST_ADMIN_KEY` is set:
     `python3 scripts/sync_to_ghost.py <changed files>`. Otherwise log `publish pending`.
 
 ## Loop roles
 
-- **DRAFT loop** (T2/T3): steps 1–9, ending at `needs-review` + PR. Never publishes.
+- **DRAFT loop** (T2/T3): steps 1–10, ending at `needs-review` + PR. Never publishes.
 - **REVIEW loop** (T1): pulls `needs-review` items, applies judgment, approves, merges, and is the
-  only loop that runs step 10. Also runs T1-native `[DESIGN]/[JUDGE]/[AUDIT]` tasks.
+  only loop that runs step 11. Also runs T1-native `[DESIGN]/[JUDGE]/[AUDIT]` tasks.
 - Every ~10 research pages ingested, run a **`[SYNTHESIS] tier:T1`** pass: reread the recent
   ingests as a set and ask what they collectively justify — a claim with enough evidence for a
   new OUTCOME page, a recurring mechanism deserving a CONCEPT page, a recurring counterargument
