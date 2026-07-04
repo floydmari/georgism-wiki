@@ -48,6 +48,8 @@ This sits alongside [Common Wealth Canada's distributional modelling](/wiki/cwc-
 
 ## See Also
 
+- [England & Zhao (2005), the Dover NH study](/wiki/england-zhao-lvt-distribution/)
+
 - [Land Value Tax](/wiki/land-value-tax/)
 - [A land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)
 - [Assessing the Distributional Impacts of a Land Value Tax (Common Wealth Canada)](/wiki/cwc-distributional-impacts-lvt/)
