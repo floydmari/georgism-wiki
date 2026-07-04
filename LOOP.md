@@ -105,6 +105,10 @@ missed stubs in every category + the authors channel). Invoked separately, after
 campaigns; never run concurrently with a drafting wave.
 
 ## Guardrails
+- **Concurrency cap:** never run more than 3–4 concurrent Claude subagents — Claude session
+  limits are the binding constraint (13 concurrent scanners burned a full quota on 2026-07-04).
+  Volume scan/extract work goes to the near-free external-model path first (`scripts/llm_worker.py`,
+  `scripts/comprehensiveness_sweep_glm.py` — GLM via local ollama, zero session quota).
 - GitHub first, Ghost second, always via `scripts/sync_to_ghost.py`.
 - Never delete an article; never fabricate a citation; ≤50 words quoted; free/legal sources.
 - One task per iteration keeps commits reviewable and the preview diff legible.

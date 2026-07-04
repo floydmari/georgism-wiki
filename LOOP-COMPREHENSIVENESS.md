@@ -34,7 +34,19 @@ Run `python3 scripts/comprehensiveness_prepass.py`. It emits, from `sources/regi
    `Scan Depth` is below their Tier's target (per EDITORIAL.md §3) — these sources are the likeliest
    to be hiding material.
 
-## Phase 1 — SOURCE-SWEEP (report-only T2/T3 agents, ~10–12 sources per agent)
+## Phase 1 — SOURCE-SWEEP (default execution: near-free external model, NOT Claude agents)
+
+**Run `python3 scripts/comprehensiveness_sweep_glm.py`** (background; resumable JSONL output in
+`preview/comprehensiveness_sweep_results.jsonl`). It fetches each source document locally (HTML,
+or PDF via pdftotext), supplies the source's research page as already-extracted orientation, and
+has GLM on Ollama Cloud enumerate candidates — **zero Claude session quota**. Per LOOP.md's
+external-model rule its output gets a stricter T1 review: every candidate is verified at triage
+before any stub is written, and fetch-failed sources are marked confidence=low by construction.
+Claude subagents are the FALLBACK only (when ollama is unavailable), and then capped at 3–4
+concurrent — session limits are the binding constraint, learned 2026-07-04 when 13 concurrent
+Sonnet scanners exhausted the quota before reporting.
+
+### Fallback agent spec (only if the script path is unavailable): report-only T2/T3 agents, ~10–12 sources per agent
 
 Each scan agent receives its batch of registry rows (Title, Authors, Year, Tier, URL, Wiki Page)
 and, for each source:
