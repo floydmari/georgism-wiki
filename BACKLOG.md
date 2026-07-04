@@ -98,9 +98,9 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [x] [BACKFILL] tier:T2 status:done — events/2008-financial-crisis (GLM wave 3) (cycle narrative proof-point)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
 - [x] [BACKFILL] tier:T2 status:done — people/john-bates-clark (GLM wave 3) (corruption-of-economics narrative dependency)
-- [~] [BACKFILL] tier:T2 status:partial — charles-tiebout + murray-rothbard done (GLM wave 3); michael-davitt, l-d-taylor remain
-- [ ] [BACKFILL] tier:T2 status:todo — events/irish-land-war, organizations/fairhope-single-tax-corporation
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/holdout-problem, concepts/production-boundary, concepts/radical-markets, concepts/land-value-increment-tax
+- [x] [BACKFILL] tier:T2 status:done — charles-tiebout, murray-rothbard (wave 3); michael-davitt, l-d-taylor (wave 4)
+- [x] [BACKFILL] tier:T2 status:done — events/irish-land-war, organizations/fairhope-single-tax-corporation (GLM wave 4)
+- [~] [BACKFILL] tier:T2 status:partial — holdout-problem + production-boundary done (waves 3-4); radical-markets, land-value-increment-tax remain
 Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson (sourcing thin), Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
