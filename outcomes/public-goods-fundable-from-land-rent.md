@@ -16,14 +16,23 @@ Public goods — transit, parks, security, schools — raise the value of nearby
 
 This is the [Henry George Theorem](/wiki/henry-george-theorem/), formalised by [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/) and [Stiglitz (1977)](/wiki/joseph-stiglitz/). The intuition: public goods are capitalized into land values (see [tax capitalization](/wiki/tax-capitalization/)), so the rent they create is exactly the right pool to fund them.
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
-
-- [Stiglitz (1977)](/wiki/stiglitz-theory-local-public-goods/) — The 1977 Joseph Stiglitz paper that coined the 'Henry George Theorem' — showing that under optimal conditions, land rents exactly fund optimal public-goods spending.
-- [Behrens et al. (2015)](/wiki/behrens-hgt-second-best/) — Extends the Henry George Theorem to realistic economies with increasing returns, distortions, and property taxes, deriving a robust second-best version.
-- [Arnott (2004)](/wiki/arnott-hgt-practical-guide/) — Arnott's own retrospective on the theorem he co-founded: the Henry George Theorem generalizes far beyond its textbook form, but turning it into an empirical test of whether real cities are over- or underpopulated remains unproven — 'the jury is not yet in.'.
-- [Kanemoto et al. (1996)](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/) — The first empirical attempt to test the Henry George Theorem: estimates agglomeration economies for 17 Japanese metro areas and finds no evidence Tokyo is disproportionately overpopulated relative to other cities.
+The theorem's paper trail runs from statement to stress-test to attempted
+measurement. [Stiglitz (1977)](/wiki/stiglitz-theory-local-public-goods/) coined
+the "Henry George Theorem" itself: under optimal conditions, aggregate land rents
+exactly fund optimal public-goods spending.
+[Behrens, Kanemoto & Murata (2015)](/wiki/behrens-hgt-second-best/) stress-test it
+against realistic economies — increasing returns, distortions, property taxes —
+and derive a robust second-best version.
+[Arnott (2004)](/wiki/arnott-hgt-practical-guide/), the theorem's co-founder,
+supplies the honest retrospective: the result generalizes far beyond its textbook
+form, but converting it into an empirical test of whether real cities are over-
+or under-populated remains unproven — "the jury is not yet in." The first such
+attempt, [Kanemoto, Ohkawara & Suzuki (1996)](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/),
+estimated agglomeration economies for 17 Japanese metro areas and found no
+evidence that even Tokyo is disproportionately overpopulated — a null that cuts
+in the theorem's favor as a benchmark while underlining how hard it is to test.
 
 ## Strength of Evidence
 
