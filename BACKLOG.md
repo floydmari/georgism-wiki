@@ -1,6 +1,17 @@
 # BACKLOG.md — Wiki Improvement Queue
 
-## ⟳ RESUME HERE (checkpoint 2026-07-05, WS2 NARRATIVES COMPLETE — 12/12)
+## ⟳ RESUME HERE (checkpoint 2026-07-05 loop 2, WS2 COMPLETE 12/12 + surveys triaged)
+LOOP-2 DELTA (same day, after the block below was written): stubs 17→15
+(john-bates-clark, superstar-firms, fire-sector backfilled; karl-widerquist stub added);
+citdiv.org + progress.org surveys DONE and triaged — both full scans now sit in the
+Site-scan queue as status:blocked on the SAME two unblocks: (a) OP_SERVICE_ACCOUNT_TOKEN
+(gives the Ghost API for progress.org Batch 0 AND publishing) or proxy allowlist, and
+(b) Floyd downloading the citdiv eBook. Next wave order: [SHEET-SYNC] Drive refresh (8
+rows behind) → remaining top backfills (mass-appraisal-methods, 2008-financial-crisis,
+public-land-leasing) → progress.org TOP-16 extraction candidates (LOOPLOG 2026-07-05b)
+which need only WebSearch, not the blocked Batch 0 → WS8 [CITE] retrofit.
+
+## (superseded same-day checkpoint follows — still accurate for environment notes)
 State: 240 pages, lint green (0 errors), COVERAGE 14/14. **All twelve narratives are now shipped**
 (2026-07-05 session: 7 written T1-direct — single-tax, community-creates-land-value,
 housing-crisis-is-a-land-crisis, citizens-dividend, ecological-rent, the-corruption-of-economics,
