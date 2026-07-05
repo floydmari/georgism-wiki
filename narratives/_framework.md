@@ -45,14 +45,14 @@ is the completed model page. Match its structure, sourcing density, and tone.
 
 | # | Proposed slug | Title | Type | Core claim (short) |
 |---|---------------|-------|------|--------------------|
-| 1 | `single-tax-narrative` | The Single Tax | practical | One levy on land values could replace taxation of work and enterprise |
+| 1 | [`single-tax-narrative`](/wiki/single-tax-narrative/) ✅ | The Single Tax | practical | One levy on land values could replace taxation of work and enterprise |
 | 2 | [`tax-land-not-labor`](/wiki/tax-land-not-labor/) ✅ | Tax Land, Not Labor | economic | Shift taxes off wages and investment onto land, which cannot shrink when taxed |
 | 3 | [`unearned-increment-narrative`](/wiki/unearned-increment-narrative/) ✅ | The Unearned Increment | moral | Rising land values are created by the community, not the owner |
 | 4 | [`the-rentier-economy`](/wiki/the-rentier-economy/) ✅ | The Rentier Economy | economic | Growing income flows reward asset ownership and rent extraction over production |
-| 5 | `community-creates-land-value` | The Community Creates Land Value | moral | Location value is produced by public investment and the surrounding community |
+| 5 | [`community-creates-land-value`](/wiki/community-creates-land-value/) ✅ | The Community Creates Land Value | moral | Location value is produced by public investment and the surrounding community |
 | 6 | [`land-speculation-causes-cycles`](/wiki/land-speculation-causes-cycles/) ✅ | Land Speculation Causes Boom and Bust | economic | Speculative land-price cycles drive credit booms and crashes |
-| 7 | `the-housing-crisis-is-a-land-crisis` | The Housing Crisis Is a Land Crisis | practical | Housing is dear because land is dear; tax land, free the land market |
-| 8 | `citizens-dividend-narrative` | A Dividend from Common Wealth | moral | Rent from land and resources, shared equally, gives everyone a stake |
+| 7 | [`the-housing-crisis-is-a-land-crisis`](/wiki/the-housing-crisis-is-a-land-crisis/) ✅ | The Housing Crisis Is a Land Crisis | practical | Housing is dear because land is dear; tax land, free the land market |
+| 8 | [`citizens-dividend-narrative`](/wiki/citizens-dividend-narrative/) ✅ | A Dividend from Common Wealth | moral | Rent from land and resources, shared equally, gives everyone a stake |
 | 9 | `ecological-rent` | Green Georgism: Charging for the Earth | environmental | Pollution and extraction are unpaid takings of common natural wealth |
 | 10 | [`the-tax-you-cant-dodge`](/wiki/the-tax-you-cant-dodge/) ✅ | The Tax You Can't Dodge | practical | Land cannot be hidden or moved offshore — the hardest base to avoid |
 | 11 | `the-corruption-of-economics` | The Corruption of Economics | historical | Early neoclassical economics buried land as a factor, advocates argue |
@@ -62,7 +62,7 @@ Type balance: moral ×3, economic ×3, practical ×3, environmental ×1, histori
 
 ---
 
-### 1. The Single Tax — `single-tax-narrative` (practical)
+### 1. The Single Tax — [`single-tax-narrative`](/wiki/single-tax-narrative/) (practical) — ✅ DRAFTED
 
 - **Core claim:** Government could be funded by a single levy on land values, replacing
   taxation of work, enterprise, and exchange — radical simplification with no penalty
@@ -146,7 +146,7 @@ the narrative page covers its persuasive career from
 - **Deployment:** left-leaning, heterodox, and inequality-focused audiences; the
   Rognlie decomposition of Piketty's data is the anchor fact.
 
-### 5. The Community Creates Land Value — `community-creates-land-value` (moral)
+### 5. The Community Creates Land Value — [`community-creates-land-value`](/wiki/community-creates-land-value/) (moral) — ✅ DRAFTED
 
 - **Core claim:** Location value is produced by the surrounding community and by public
   investment, not by the titleholder — so recovering it for public use returns value to
@@ -195,7 +195,7 @@ the narrative page covers its persuasive career from
 - **Deployment:** investors, macro commentators, and post-crash windows; keep the
   deterministic "18 years" attributed to Harrison/Patel, never asserted.
 
-### 7. The Housing Crisis Is a Land Crisis — `the-housing-crisis-is-a-land-crisis` (practical)
+### 7. The Housing Crisis Is a Land Crisis — [`the-housing-crisis-is-a-land-crisis`](/wiki/the-housing-crisis-is-a-land-crisis/) (practical) — ✅ DRAFTED
 
 - **Core claim:** Housing is expensive mainly because the land under it is expensive;
   taxing land values discourages speculation and underuse and — with permissive zoning —
@@ -219,7 +219,7 @@ the narrative page covers its persuasive career from
 - **Deployment:** YIMBY/urbanist audiences and city politics; present LVT and zoning
   reform as a single package to preempt the strongest objection.
 
-### 8. A Dividend from Common Wealth — `citizens-dividend-narrative` (moral)
+### 8. A Dividend from Common Wealth — [`citizens-dividend-narrative`](/wiki/citizens-dividend-narrative/) (moral) — ✅ DRAFTED
 
 - **Core claim:** Rent from land and natural resources is common property; paid out as
   an equal [citizen's dividend](/wiki/citizens-dividend/), it gives every person a
