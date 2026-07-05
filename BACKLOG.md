@@ -62,9 +62,12 @@ Any task that edits `sources/registry.csv` must, per LOOP.md step 3: (1) run
 `sources/exports/registry-export-YYYY-MM-DD.csv`** (the definitive, GitHub-viewable snapshot —
 Floyd's request 2026-07-05; GitHub renders CSVs as sortable tables), AND (2) push a Drive snapshot
 spreadsheet (or leave a loud [SHEET-SYNC] task here if Drive is unreachable).
-Last synced: **2026-07-05** — repo export `sources/exports/registry-export-2026-07-05.csv` + Drive
-snapshot "Georgism Wiki — Source Registry (git sync 2026-07-05)" (259 rows, 29 NEW in Δ column;
-covers the previously-pending wave-D delta).
+Last synced: **2026-07-05** — repo export `sources/exports/registry-export-2026-07-05.csv`
+(refreshed same day to 267 rows after the loop-2 additions) + Drive snapshot "Georgism Wiki —
+Source Registry (git sync 2026-07-05)" (259 rows at push time; covers the wave-D delta).
+- [ ] [SHEET-SYNC] tier:T3 status:todo — 8 loop-2 rows (citdiv.org + 7 FIRE-sector sources) were
+      added AFTER the 2026-07-05 Drive snapshot — push a fresh Drive export next iteration (the
+      committed repo export already includes them).
 - [ ] [SHEET-SYNC] tier:T3 status:todo — durable write-back: once a Google service-account JSON is
       in the Emma vault (per the 1Password/op plumbing) and the master Sheet is shared with that
       service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
@@ -99,9 +102,24 @@ comprehensiveness watermark: 0 external-source rows (never run — first invocat
       Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;
       verify author/venue/content before drafting; would give the citizens-dividend concept page
       its first scholarly-tier source beyond George + Alaska.
-- [ ] [SCAN] tier:T2 status:todo — **progress.org, ALL sections EXCEPT /wiki/** (the wiki is this
-      repo's own output — do not re-ingest it). Articles, archives, static pages. Survey pass to
-      map sections, then batch the extract→register→stub pipeline.
+- [x] [SCAN-SURVEY] tier:T2 status:done 2026-07-05 — progress.org (non-wiki) surveyed
+      (snippet-based; proxy blocks the domain). FINDINGS: independent publication, editors Floyd
+      Marinescu + Martin Adams (NOT run by PPI — that's the renamed Schalkenbach Foundation);
+      Progress Report lineage since 1997 (Foldvary wrote weekly 1997–2021, 307 essays migrated);
+      ~700–1,500 articles across 59 contributors; 16 top-value extraction candidates identified
+      (list in LOOPLOG 2026-07-05b); "Progress LLM" byline (139 AI-authored essays) is
+      NON-CITABLE for this zero-fabrication wiki — inventory only.
+- [ ] [SCAN] tier:T2 status:blocked — progress.org FULL SCAN, Batch 0 first: enumerate all
+      non-wiki posts via the repo's own Ghost Content API (one /posts/ call — needs the same
+      OP_SERVICE_ACCOUNT_TOKEN/GHOST key that gates publishing) OR proxy allowlist for
+      progress.org. Then by-author batches: 1=Foldvary (307, split ~3), 2=core Georgists
+      (Gaffney/JJ-Smith-46/Doucet-21/Harrison/Anderson/Widerquist/Davies), 3=editors+institutional
+      (Adams, HGS), 4=Progress-LLM inventory-only, 5=tags/static sweep.
+- [ ] [STUB-CREATE] tier:T2 status:todo — people candidates from the progress.org authors channel,
+      pending per-person verification: martin-adams (co-editor; *Land: A New Paradigm*),
+      jeffery-j-smith (46 essays, long-time Progress Report figure), hanno-t-beck (Banneker
+      Center, ran the 1997-era Progress Report infrastructure), lindy-davies (Henry George
+      Institute). karl-widerquist stub created 2026-07-05 (already twice in registry).
 - FUTURE LOOPS (queued by Floyd — do NOT scan yet): **gameofrent.com** (Lars Doucet) and the
       **Progress and Poverty Substack** — to be addressed in later loops.
 
@@ -123,7 +141,7 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [ ] [BACKFILL] tier:T2 status:todo — people/winston-churchill (People's Rights corpus page live; 2 chunks)
 - [x] [BACKFILL] tier:T2 status:done — places/vancouver backfilled 2026-07-04 (note: british-columbia.md still cites STALE 0.5%/2% SVT rates — see follow-up below)
 - [x] [BACKFILL] tier:T2 status:done — concepts/superstar-firms backfilled 2026-07-05 (corpus re-mine: mechanism section, efficiency-vs-market-power dispute mapped via Philippon/Barkai/Furman-Orszag, wired to corporate-rents outcome)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/fire-sector (rentier-economy narrative dependency)
+- [x] [BACKFILL] tier:T2 status:done — concepts/fire-sector backfilled 2026-07-05 (honest acronym origin pre-Hudson; scale data: Greenwood-Scharfstein 2.8→8.3% GDP, JST mortgage share 30→60%, FRED ~20-21%; Hudson thesis incl. peer-reviewed RRPE 2021; Cochrane counter-view; 7 registry rows)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/mass-appraisal-methods (assessment objection's practical answer)
 - [ ] [BACKFILL] tier:T2 status:todo — events/2008-financial-crisis (cycle narrative proof-point)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)

@@ -238,3 +238,41 @@ pushed (259 data rows, 29 NEW in Δ column; also covers the previously-pending w
 **Next wave:** Floyd's site scans (needs web quota), stub backfills (john-bates-clark and
 fire-sector now have live narrative dependencies), WS8 [CITE] retrofit, comprehensiveness sweep
 completion.
+
+---
+
+## 2026-07-05b — Loop 2: site surveys + 3 stub backfills (Floyd: "continue looping")
+
+**Shipped (4 commits):** people/john-bates-clark (full backfill, both historiographies),
+concepts/superstar-firms (corpus re-mine, no web needed), concepts/fire-sector (forage-fed:
+honest acronym origin, verified scale numbers, Hudson thesis + Cochrane counter-view),
+people/karl-widerquist (new sourced stub). Stubs 17→15 net. citdiv.org + progress.org surveys
+triaged into BACKLOG.
+
+**Survey verdicts:**
+- citdiv.org: Anderson advocacy microsite/lead-funnel; level-6 source only; NO org page; eBook
+  email-gated — blocked follow-up filed (needs Floyd download or proxy allowlist). Anderson
+  person-page rejection STANDS (new evidence all self-published).
+- progress.org: independent publication (editors Floyd Marinescu + Martin Adams; NOT PPI — that's
+  the renamed Schalkenbach Foundation). ~700–1,500 articles, 59 contributors. Batch 0 = one Ghost
+  Content API call (same credential that gates publishing) or proxy allowlist. Batches 1-5 by
+  author: Foldvary(307)→core Georgists→editors/institutional→Progress-LLM(139, AI-authored,
+  NON-CITABLE, inventory only)→tags/static.
+- progress.org TOP-16 extraction candidates (URLs under progress.org/articles/):
+  the-case-against-the-case-against-the-single-tax · mason-gaffney-predicted-the-china-crash ·
+  the-corruption-of-economics (Adams) · how-land-barons-industrialists-and-bankers-corrupted-economics ·
+  kinetic-rent-and-potential-rent (Foldvary) · exporting-the-alaska-model (Widerquist) ·
+  bounty-true-total-trillions-yanks-spend-on-land (JJ Smith) · take-the-donald-seriously (Anderson) ·
+  five-stages-of-the-georgist-movement (DiMare) · real-estate-4-ransom (Adams) ·
+  henry-george-and-the-single-tax-documentary-and-interview · the-4-major-land-gain-income-taxes… ·
+  guardian-columnist-george-monbiot-land-acts · michigans-government-failure (Foldvary) ·
+  land-worth-more-than-enough · geo-libertarianism-gets-criticized (Foldvary).
+
+**Honesty calls:** FIRE page prints only forage-verified numbers (Greenwood-Scharfstein 2.8→8.3%;
+JST 30→60%; Krippner 5x) — the unverified 1950 FIRE share and Hudson's "80% of bank loans" claim
+were EXCLUDED; FRED current value marked [VERIFY]. Hudson quotes paraphrased, not quoted (no
+in-situ read). citdiv's stale 2006-era Alaska figure documented as why it's never an empirical
+source. Widerquist progress.org article marked [VERIFY] (survey-surfaced, unfetched).
+
+**Registry:** 260→267 rows (citdiv + 7 FIRE). Repo export refreshed; Drive snapshot 8 rows behind
+— loud [SHEET-SYNC] filed per rule.
