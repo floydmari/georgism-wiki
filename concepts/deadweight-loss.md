@@ -30,6 +30,8 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 
 ## See Also
 
+- [Pigouvian Taxation](/wiki/pigouvian-taxation/)
+
 - [Land Value Tax](/wiki/land-value-tax/) — the zero-deadweight-loss tax
 - [Economic Rent](/wiki/economic-rent/) — the base that LVT targets
 - [ATCOR](/wiki/atcor/) — the stronger theorem about tax incidence

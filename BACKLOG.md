@@ -196,6 +196,11 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [ ] [STUB] tier:T3 status:todo — candidates from backfills, triage next [PRIORITIZE]: organizations/bc-assessment-authority; events/1913-bc-real-estate-crash; people/henry-george-jr; events/parliament-act-1911; organizations/land-enquiry-committee (the 1913-14 'The Land' reports); events/1925-green-book-campaign (people/arthur-balfour surfaced too but likely fails the substantive-discussion bar — reject unless more corpus demand appears)
 - [ ] [DEEPEN-SCAN] tier:T2 status:todo — research/hoyt-chicago-land-values Heavy re-pass (519pp on archive.org) to resolve its 6 [VERIFY] markers incl. the 1836/1856/1872/1890/1925 peak-year list
 
+## New outcome evidence queue — outcomes/lvt-reduces-sprawl (created 2026-07-05, 1/5 supporters)
+- [ ] [DRAFT] tier:T2 status:todo — research/song-zenou-property-tax-sprawl — Song & Zenou 2006 JUE "Property tax and urban sprawl" (verify) — the direct second study
+- [ ] [DRAFT] tier:T2 status:todo — research/brueckner-kim-sprawl — Brueckner & Kim 2003 "Urban sprawl and the property tax" (verify) — the theory anchor
+- [ ] [DRAFT] tier:T2 status:todo — 2 further sprawl-evidence papers (agent verifies best: Burchfield et al. 2006 causes-of-sprawl; McGrath 2005) to reach 5/5
+
 ## Deepen-scan queue (Tier ≥ Important currently at Light — per EDITORIAL.md Scan Depth policy)
 - [x] [DEEPEN-SCAN] tier:T2 status:done — ALL SIX below completed 2026-07-03 (wave 3): dedicated
       research/ pages created, Scan Depths →Medium (Heavy withheld pending primary-text access —
