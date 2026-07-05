@@ -4,8 +4,9 @@ category: outcomes
 tags: [outcomes, split-rate, construction, empirical, pennsylvania]
 stub: false
 evidence_strength: "Moderate–strong (multiple empirical studies, consistent direction)"
-supported_by: [oates-schwab-pittsburgh, plassmann-tideman-construction, brueckner-site-value-taxation, banzhaf-lavery-pa-sprawl, yang-split-rate-tax-base]
+supported_by: [oates-schwab-pittsburgh, plassmann-tideman-construction, brueckner-site-value-taxation, banzhaf-lavery-pa-sprawl, yang-split-rate-tax-base, harrison-power-in-the-land]
 excerpt: "Across US case studies, shifting property tax off buildings and onto land is followed by more construction — the effect Georgist theory predicts."
+last_reviewed: 2026-07-04
 ---
 
 ## The Claim
@@ -25,6 +26,8 @@ The findings are mutually reinforcing: the Pittsburgh case shows a large effect 
 
 **An honest caveat from abroad:** [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/) studied Auckland's forced move *away* from land-value rating after the 2010 council amalgamation and found little effect on new building consents (only on alterations) over a short two-year window. It is a confounded reform and a short panel, so it does not overturn the Pennsylvania results — but it is a reminder that the construction effect is not automatic in every institutional setting.
 
+**International corroboration — Victoria, Australia (Harrison 1983):** Harrison (1983) presents Australian state-level data providing independent corroboration from a different country and institutional setting. In Victoria (1966–78), cities taxing only site value (SVR) saw dwelling growth of **+12.9%**, while cities taxing land plus buildings (NAV) saw only **+2.8%** (Harrison 1983, Ch. 15). Building permits in 1975–78 were **39.9%** of the 1966–69 level in SVR cities versus only **9.5%** in NAV cities — a more than fourfold difference (Harrison 1983, Ch. 15). When Caulfield switched from SVR to composite rating in 1969–70, building permits dropped **66%**, compared to a 16% drop in SVR cities (Harrison 1983, Ch. 15). The Australian evidence is observational rather than experimental, but it predates and independently corroborates the Pennsylvania findings from a different continent and tax system.
+
 ## The Evidence — Paper by Paper
 
 The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
@@ -38,8 +41,11 @@ The full evidence wiring for this outcome (each page carries its external citati
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) · [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/)
+- [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the Australian SVR vs NAV evidence
+- [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — the companion outcome page using the same Australian data
 
 ## Sources
 
 1. Oates & Schwab (1997), "The Impact of Urban Land Taxation: The Pittsburgh Experience," *National Tax Journal* — [wiki summary](/wiki/oates-schwab-pittsburgh/) · [PDF](https://cooperative-individualism.org/oates-wallace_the-impact-of-urban-land-taxation-1997-mar.pdf)
 2. Plassmann & Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2) — [wiki summary](/wiki/plassmann-tideman-construction/) · [publisher](https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X)
+3. Fred Harrison (1983), *The Power in the Land*, Shepheard-Walwyn. [Publisher](https://shepheardwalwyn.com/product/the-power-in-the-land/) · [wiki summary](/wiki/harrison-power-in-the-land/) — used for the Victoria SVR vs NAV dwelling growth and building permit data (B-claim; empirical).
