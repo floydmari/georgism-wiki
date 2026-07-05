@@ -83,6 +83,7 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 - [Harrison, Boom Bust](/wiki/harrison-boom-bust/) — the primary Tier 1 source for the cycle model and historical timetable
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the 1983 foundational cycle study
 - [Anderson, The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — the US cycle evidence and banking-credit mechanism
+- [Patel, The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/) — the cycle from an investment perspective (2023)
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the persuasive framing built on this cycle
 - [Progress and Poverty's 18.6-year cycle](/wiki/progress-18-6-year-cycle/) — the research-page record of the cycle literature
 
