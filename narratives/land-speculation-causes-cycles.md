@@ -85,6 +85,16 @@ rather than merely regulating the credit that finances it.
   narrative says drives the cycle: land or housing held empty for anticipated capital
   gain rather than use, measured directly by [Prosper Australia](/wiki/prosper-australia/)
   using water-consumption data.
+- **Doucet's modern synthesis of the speculation mechanism.** Lars Doucet's
+  *Land is a Big Deal* (Chs. 7–8) provides the most accessible modern restatement of
+  George's land-speculation theory, framing it as a structural feature of unregulated
+  land markets: when land can be held cheaply (no LVT, low holding costs), the expected
+  capital gain from waiting exceeds the return from developing, so land is systematically
+  underused during booms and dumped during busts — amplifying the cycle's amplitude.
+  Doucet also cites Michael Hudson's finding that "most land rent is paid out as interest
+  to banks and that bank credit is a major driver of increases in housing prices" (Ch. 16),
+  bridging the Georgist and credit-cycle readings by locating the causal engine in the
+  land-collateral channel. See [[books/land-is-a-big-deal]].
 - **Outside academic validation of the prediction record.** Dirk Bezemer's 2009
   cross-analyst survey of who anticipated the 2008 crisis in advance, and why, lists
   Harrison and Foldvary among roughly a dozen analysts who issued detailed, public,
@@ -149,6 +159,38 @@ This is the narrative's honest weak point, and it should be presented as such:
   forecasts point to a downturn in the mid-2020s, and that window has only just opened,
   the narrative currently rests on an *unresolved* prediction as much as a *confirmed*
   one. Advocates should not claim vindication in advance of the outcome.
+
+## The "Scissors" Mechanism
+
+Harrison (1983) identifies a structural driver he calls the "scissors" divergence: over roughly two decades, returns to capital trend downward while returns to land trend upward (Ch. 6, citing Phelps Brown & Weber). The mechanism operates because land can be held idle indefinitely — it is non-perishable and can be refinanced — while capital depreciates. As land rents claim a growing share of output, profits are squeezed across the economy, construction becomes unprofitable, and the system eventually collapses under the weight of land costs and accumulated debt (Harrison 1983, Ch. 5–6).
+
+Harrison documents a simultaneous profit decline across four economies with very different labour institutions — Sweden (highly planned), Japan (company unions), USA (weak unions), UK (strong unions) — which he argues undermines the thesis that union power caused the profit slump (Harrison 1983, Ch. 21). US after-tax profits of non-financial corporations fell to **4%** by the early 1980s; UK Treasury advisor Prof. Terry Burns reported the rate of return to industrial/commercial companies fell from ~8% to 2–3% during the 1970s, with "no easy explanation" (Harrison 1983, Ch. 21). Harrison argues the rising claim of land rent on output is the common factor the conventional accounts miss.
+
+## The Banking-Credit Cycle
+
+Anderson (2008) provides the most detailed account of the banking mechanism that links land speculation to credit cycles. His central argument is that "no capitalised rent, no real estate cycle" (Ch. 16): the cycle is not caused by banking per se — Anderson describes fractional reserve banking as "overwhelmingly beneficial to society" — but by the institutional permission to mortgage land, which allows the economic rent of land to be capitalised into a tradable price.
+
+Anderson describes the mechanism as self-reinforcing: banks lend against land collateral; as land values rise, more credit becomes available, which pushes land prices higher; eventually interest payments on land-backed loans absorb all rental income, making construction unprofitable (Anderson 2008, Ch. 16, 22). He writes: "Banks own the earth not because they create credit but because we permit them to mortgage it. No capitalised rent, no need for the vast amount of fractional reserve banking required to buy it" (Anderson 2008, Ch. 22, pp. 294–295).
+
+Anderson documents specific banking crises at each cycle peak: the US free banking era failures (1837), the Panic of 1873, the 1929 bank failures, the 1973 USNB collapse, and the 2008 sub-prime crisis (Anderson 2008, Ch. 16).
+
+## Historical Episodes
+
+### The Japanese Land Bubble (1955–1974)
+
+Harrison (1983) documents that Japanese urban land prices rose **2,200%** from 1955 to the first half of 1973, peaking with a +34.7% rise in 12 months, followed by the first postwar decline of −9% in 1974 (Ch. 12). Speculators poured ¥5–10 trillion (US $25–50bn) into Japanese land purchases in 1972–73 alone. In Tokyo, land represented 60–70% of single-family-home cost, compared to 20–40% in US large cities (Ch. 22).
+
+### The US REIT Bubble (1969–1974)
+
+Harrison (1983) documents the US Real Estate Investment Trust bubble: REIT assets grew from $1bn (1969) to over $20bn (1972–74), with banks lending ~$11bn in 1972–74 (Ch. 9). The first major collapse was Walter J. Kassuba Realty ($550m in 120 properties), which filed bankruptcy in December 1974. Chase Manhattan Mortgage & Realty Trust, the largest US REIT, defaulted on over $38m in loan notes on May 1, 1978 (Ch. 9).
+
+### The 1818 US Land Boom
+
+Harrison (1983) notes that the 1818 US land-value peak is notable because the US government repealed all federal taxes that year due to the volume of land-sale revenue, followed by the 1819 panic (Ch. 10).
+
+### The 2001 Suppressed Mid-Cycle Recession
+
+Harrison (2005) argues Britain should have experienced a recession in 2001 based on historical trends, but Gordon Brown "silently shifted responsibility onto Britain's households" through a private debt-fuelled consumption boom (Ch. 1 §2, p.21–22). Personal debt reached **£1 trillion by July 2004** (Ch. 1 §2, p.22), and the savings ratio dropped from over 10% in 1997 to 4% in 2000 (Ch. 1 §2, p.23). Harrison argues the suppression merely inflated the subsequent 2008 crash.
 
 ## Counter-Arguments and Georgist Responses
 
@@ -240,6 +282,9 @@ This is the narrative's honest weak point, and it should be presented as such:
 - [Jordà, Schularick & Taylor — The Great Mortgaging](/wiki/great-mortgaging/)
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept this narrative deploys
+- [Harrison, Boom Bust](/wiki/harrison-boom-bust/) — the primary Tier 1 source for the 18-year cycle model
+- [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the 1983 foundational cycle study with the "scissors" mechanism and international evidence
+- [Anderson, The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — the US cycle evidence and banking-credit mechanism
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's original theory of
   land speculation and industrial depressions
 - [Fred Harrison](/wiki/fred-harrison/) · [Fred Foldvary](/wiki/fred-foldvary/) ·
@@ -261,16 +306,25 @@ This is the narrative's honest weak point, and it should be presented as such:
 2. Fred Harrison, *The Power in the Land*, Shepheard-Walwyn, 1983; on Hoyt's Chicago data
    see also Harrison, "The Hoyt Heist," reprinted at
    [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
-   — used for Harrison's application of the cycle to Britain and his account of Hoyt's
-   findings (A-claim).
+   · [wiki summary](/wiki/harrison-power-in-the-land/) — used for Harrison's application of
+   the cycle to Britain, the "scissors" divergence mechanism, the cross-country profit
+   squeeze evidence, the Japanese land bubble, the US REIT bubble, and the 1818 US land
+   boom (A/B/C-claim).
+2b. Phillip J. Anderson, *The Secret Life of Real Estate and Banking*, Shepheard-Walwyn,
+    2008. [Publisher](https://shepheardwalwyn.com/product/the-secret-life-of-real-estate-and-banking/)
+    · [wiki summary](/wiki/anderson-secret-life-real-estate/) — used for the banking-credit
+    cycle mechanism, the "no capitalised rent, no real estate cycle" thesis, and the
+    documented banking crises at each cycle peak (A/C-claim; quotation under 50 words).
 3. Homer Hoyt, *One Hundred Years of Land Values in Chicago*, University of Chicago
    Press, 1933. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich)
    — used for the founding empirical study of the ~18-year Chicago land-value rhythm
    (B-claim).
 4. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*,
-   Shepheard-Walwyn, 2005. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) —
+   Shepheard-Walwyn, 2005. [Publisher](https://shepheardwalwyn.com/product/boom-bust/)
+   · [wiki summary](/wiki/harrison-boom-bust/) —
    used for the 2005 forecast of a 2007–2010 downturn made against a consensus
-   soft-landing view (A/B-claim).
+   soft-landing view (A/B-claim), the suppressed 2001 mid-cycle recession argument,
+   the £1 trillion personal debt figure, and the 2019/2028 cycle prediction (D-claim).
 5. Fred Foldvary, "The Business Cycle: A Georgist-Austrian Synthesis," *American Journal
    of Economics and Sociology*, 1997; related paper "The Real Estate Cycle and the
    Depression of 2008."
@@ -314,3 +368,7 @@ This is the narrative's honest weak point, and it should be presented as such:
     [PDF (NBER)](https://www.nber.org/system/files/working_papers/w20501/w20501.pdf) —
     used as the representative mainstream credit-centred account of housing-linked
     financial crises that the narrative must answer (E-claim).
+14. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Chs. 7–8, 16 —
+    used for the modern restatement of George's land-speculation theory as a structural
+    feature of unregulated land markets and Hudson's bank-credit finding (A/B-claim).
+    See [[books/land-is-a-big-deal]].

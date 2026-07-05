@@ -404,3 +404,39 @@ Counting Bounty (incl. Tideman's $31T via private correspondence) — attribute 
 Unblock routes for full texts documented (danwahl transcripts, gameofrent mirrors).
 Registry 318→324. All three Doucet parts now have de-reference passes; cycle 1 of the standing
 rule closed pending full-text confirmations.
+
+---
+
+## 2026-07-05 — Hermes overnight w1: verification queue + book scans
+
+**Branch:** hermes/enrichment-w1 (PR #6)
+**Agent:** Hermes (glm-5.2:cloud), running overnight 2026-07-04/05
+**Scope:** Task A (verification queue burn-down) + Task B (book scans and synthesis)
+
+### Tally
+- Markers resolved: 12 (Hsieh-Moretti x3, Glaeser-Gyourko x3, IMF Building Tax Capacity x1, Knoll-Schularick-Steger x6, Progress 18.6-year cycle x2, Anderson CITATION NEEDED x1)
+- Markers corrected (primary contradicted wiki): 1 — Hsieh-Moretti Caplan correction: the corrected GDP impact is LARGER than originally published (~14% not 3.7%), confirmed against Caplan Econlib article
+- Markers not found / left in place: 33 (mostly paywalled journal articles still inaccessible)
+- Books scanned: 4 (Harrison Boom Bust, Harrison Power in the Land, Anderson Secret Life of Real Estate, Patel Secret Wealth Advantage)
+- New research pages created: 4
+- Existing pages enriched with book findings: 5
+- Existing pages cleared of VERIFY markers: 5
+- Registry rows added: 5
+- Registry export committed: sources/exports/registry-export-2026-07-05-hermes.csv
+- Total commits: 11
+- Lint: 0 errors, 485 warnings (down from 490)
+
+### CORRECTED items (primary contradicted wiki)
+1. Hsieh-Moretti — Verified against Caplan Econlib article (April 5, 2021): the corrected figures are +36% for Table 4 (not +8.9%) and +14% for Table 5 (not +3.7%). The corrected GDP impact is LARGER, not smaller.
+
+### Papers downloaded and verified against primary text
+- Hsieh and Moretti (2019) — author-copy PDF from UC Berkeley / Chicago Booth
+- Glaeser and Gyourko (2017) — Wharton working paper 802
+- IMF Building Tax Capacity (2025) — full PDF from IMF
+- Caplan (2021) — full article from Econlib
+
+### What was NOT done
+- Ricardo Law research page not yet created (subagent was still running at wrap-up time)
+- Many VERIFY markers on paywalled papers could not be cleared (ScienceDirect, Wiley, SAGE return HTTP 403)
+- No new wiki category books-publications was created (lint script CATEGORIES cannot be edited per spec); book pages placed in research/ with books-publications tag
+- verification_queue.py script mentioned in spec does not exist; markers tracked via grep

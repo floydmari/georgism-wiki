@@ -24,6 +24,14 @@ Fred Harrison's *Ricardo's Law* (2006) argues a closely related point: existing 
 
 ATCOR is the stronger version of the standard efficiency argument for LVT. The standard argument holds that LVT has zero deadweight loss because the supply of land is inelastic. ATCOR adds that all other taxes create deadweight loss and that this loss ultimately falls on land rents — making the case for LVT not just efficiency-neutral but actively superior to all alternatives.
 
+## Gaffney's "Negative Shifting" — the ATCOR Precursor
+
+The term "ATCOR" was coined by Mason Gaffney in 2005, not in his 1994 *The Corruption of Economics*. However, the conceptual foundation is already present there. Gaffney describes what he calls **"negative shifting"** (Ch. 2): taxing land rent does not raise prices to consumers but instead *lowers* them, because the supply-side effects of taxing rent "will raise supplies of goods and services, and raise the demand for labor." Feder's postscript states the converse: "when these taxes are reduced, the primary result of tax un-shifting is an increase in the gross rent of land" (Gaffney & Harrison, *The Corruption of Economics*, 1994, Ch. 2, Postscript). See [[books/the-corruption-of-economics]].
+
+## Doucet's Modern Exposition
+
+Lars Doucet provides the most accessible modern explanation of ATCOR in *Land is a Big Deal* (Ch. 15): any reduction in taxes on income and capital causes a proportionate increase in land rental values, because workers and investors bid up land prices with their after-tax gains. If ATCOR holds, a Single Tax policy is self-financing — abolishing income and capital taxes shifts revenue to land rents, which 100% LVT then captures. Doucet cautions that ATCOR remains a hypothesis requiring empirical testing, not a proven theorem (*Land is a Big Deal*, Ch. 15). See [[books/land-is-a-big-deal]].
+
 ## Caveats
 
 ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not all taxes are fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney and Harrison argue the mechanism operates over the medium-to-long term.
@@ -33,9 +41,13 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 - [EBCOR](/wiki/ebcor/)
 
 - [Land Value Tax](/wiki/land-value-tax/)
+
 - [Deadweight Loss](/wiki/deadweight-loss/) — the efficiency argument
+
 - [Mason Gaffney](/wiki/mason-gaffney/) — primary developer of ATCOR
+
 - [Fred Harrison](/wiki/fred-harrison/) — *Ricardo's Law*
+
 - [Economic Rent](/wiki/economic-rent/)
 
 ## Sources
@@ -44,3 +56,5 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 2. Fred Harrison (2006), *Ricardo's Law: House Prices and the Great Tax Clawback Scam*. [Share The Rents](https://sharetherents.org/publications/)
 3. Related: [The Hidden Taxable Capacity of Land — wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
 4. Henry George (1886), *Protection or Free Trade* — [wiki summary](/wiki/protection-or-free-trade/), used for George's own early statement of the logic later called ATCOR.
+5. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Ch. 2 — used for "negative shifting" and the ATCOR precursor concept (A-claim). See [[books/the-corruption-of-economics]].
+6. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 15 — used for the modern exposition of ATCOR and the Single Tax self-financing argument (A-claim). See [[books/land-is-a-big-deal]].

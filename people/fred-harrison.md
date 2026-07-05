@@ -35,6 +35,9 @@ The 2008 collapse confirmed the prediction with notable accuracy.
 - [Homer Hoyt](/wiki/homer-hoyt/) — the economist whose Chicago land-value data founded the 18-year cycle
 - [ATCOR](/wiki/atcor/) — the theorem central to *Ricardo's Law*
 - [Land Value Tax](/wiki/land-value-tax/)
+- [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the 1983 foundational book
+- [Harrison, Boom Bust](/wiki/harrison-boom-bust/) — the 2005 sequel
+- [Harrison, Ricardo's Law](/wiki/harrison-ricardos-law/) — the 2006 tax clawback analysis
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the narrative page built on his 18-year cycle forecasting
 
 ## Sources
