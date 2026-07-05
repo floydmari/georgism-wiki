@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (620 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (619 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -67,7 +67,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (126)
+## needs-unblocked-web (proxy allowlist or manual fetch) (125)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -105,7 +105,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `places/chicago.md` — **VERIFY** ` pending direct confirmation against Hoyt's primary text. 5. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 20
 - `organizations/common-wealth-canada.md` — **VERIFY** primary organisational bio page could not be fetched directly.
 - `organizations/common-wealth-canada.md` — **VERIFY** all commonwealth.ca figures above against the primary PDFs directly.
-- `organizations/robert-schalkenbach-foundation.md` — **VERIFY** founding year 1925 and the AJES relationship against an independent source on direct read.
 - `objections/homevoters-will-block-lvt.md` — **VERIFY** chapter cites on direct read
 - `events/saratoga-single-tax-debate.md` — **VERIFY** the hosting body (American Social Science Association) and published proceedings citation on direct read.
 - `narratives/citizens-dividend-narrative.md` — **VERIFY** add a stable free-text URL — session web access exhausted before the link could be confirmed.

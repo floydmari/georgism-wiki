@@ -53,7 +53,7 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 18 of 126
+## needs-unblocked-web (proxy allowlist or manual fetch) — 18 of 125
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows

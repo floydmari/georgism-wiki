@@ -103,8 +103,10 @@ If unsure whether a task needs editorial judgment, leave it for T1.
    research, books). Accept a candidate only if **≥2 existing pages would naturally link to
    it** or it directly strengthens an outcome/objection; create accepted ones as sourced
    stubs immediately (EDITORIAL stub standard), reject the rest with a one-line reason.
-   Before creating, **grep for name variants** (`grep -ril "ely" people/`) — the wiki already
-   covers more than the slug list suggests (lesson: richard-ely vs richard-t-ely, 2026-07-06).
+   Before creating, **check for existing coverage BOTH ways**: `ls <category>/` for slug
+   variants AND `grep -ril "<surname>" <category>/` for name mentions — and read the full
+   result list, not the first screen (lessons: richard-ely vs richard-t-ely, AND
+   robert-schalkenbach-foundation vs schalkenbach-foundation, both 2026-07-06).
    - **Digest before you scan (gap-2 machinery, 2026-07-06):** cap new stubs at **~8 per
      shift**, and **launch no new site/book scans while ≥2 discovery reports sit untriaged**
      in `sources/inbox/`. The wiki grows by *digesting* what it has read — an unread pile of
