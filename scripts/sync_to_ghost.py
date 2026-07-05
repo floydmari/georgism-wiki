@@ -88,6 +88,9 @@ CATEGORY_TAG = {            # folder -> category tag slug (ID looked up from TAG
     "organizations": "wiki-organizations",
     "objections":    "wiki-objections",
     "narratives":    "wiki-narratives",
+    # books: create a 'wiki-books' tag in Ghost admin, then add its ID to TAG_IDS
+    # above — _tag() raises loudly until then, so books pages can't half-publish.
+    "books":         "wiki-books",
 }
 
 def headers():

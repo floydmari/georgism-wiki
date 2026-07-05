@@ -7,7 +7,33 @@
 > raw-evidence hand-offs where a full edit isn't warranted. Two rules survive
 > unchanged: Hermes never merges its own PRs, and copyrighted book files/long
 > excerpts are NEVER committed — books stay in Floyd's private storage; the wiki
-> carries a research/ summary page per book (≤50-word quotes, page-cited).
+> carries a summary page per book (≤50-word quotes, page-cited) in the **`books/`
+> category** (ratified 2026-07-06 — Hermes's `books/*.md` pages made this a
+> first-class category; frontmatter standard in EDITORIAL.md §5).
+
+## Discovery is universal (generalized 2026-07-06, Floyd)
+
+**Every source Hermes processes — book scan, paper, article, or verification-queue
+item — must ALSO produce a discovery report**, not only the summary/marker work. The
+original rule covered book scans; it now covers everything. For each source
+processed, file `DISCOVERY-<slug>.report.md` (in the PR next to the work, or in this
+inbox; the earlier `BOOKSCAN-<slug>.report.md` name is accepted for books) listing
+candidates in **ALL wiki categories**:
+
+- **research** — papers/studies the source cites that bear on wiki outcomes
+- **people** — scholars, reformers, politicians, critics warranting a bio
+- **events** — historical episodes (campaigns, crashes, enactments, repeals)
+- **places** — jurisdictions with land-policy experience
+- **concepts** — mechanisms/terms the wiki lacks
+- **organizations** — institutes, movements, publishers
+- **objections** — recurring counterarguments not yet steelmanned on the wiki
+- **books** — further books referenced (→ `sources/wanted-books.md` if no free/legal
+  e-copy; a `books/` page once scanned)
+
+Per candidate, one line: name · category · why warranted (which wiki page needs it) ·
+where found (page/section locator). The T1 loop triages every report — accepted
+candidates become stubs per EDITORIAL.md's stub standard, rejected ones get a
+one-line reason. A scan that produces zero candidates is a smell, not a clean bill.
 
 This directory is the **hand-off point between Floyd's Hermes agent (unblocked web
 access, book procurement) and the wiki's editorial loop (T1 review gate)**. Hermes

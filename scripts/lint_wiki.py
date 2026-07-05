@@ -33,7 +33,7 @@ import os, re, sys, csv, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATEGORIES = ["concepts", "people", "places", "events", "outcomes",
-              "research", "organizations", "objections", "narratives"]
+              "research", "organizations", "objections", "narratives", "books"]
 REGISTRY = os.path.join(ROOT, "sources", "registry.csv")
 
 BANNED = [r"\bproves\b", r"\balways\b", r"\ball taxes\b", r"\bthe only\b",

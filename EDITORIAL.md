@@ -106,6 +106,11 @@ flags these for review.
 - `narratives/`: `narrative_type` (`moral|economic|practical|environmental|historical`),
   `supported_by`, `related_people`, `related_places`.
 - `people/`: optional `born`, `died`. `places/`, `events/`, `organizations/`: as existing.
+- `books/` (added 2026-07-06, Floyd): `authors` (list), `year`, `tier`, optional `publisher`,
+  `isbn`, `page_count`, `scanned_by` (e.g. `hermes`), `scan_date`. The universal fields
+  (`title`/`category`/`tags`/`stub`/`excerpt`) are REQUIRED here like everywhere — book pages
+  arriving from Hermes's pipeline with its native schema get normalized to this at T1 merge
+  review, not rejected.
 
 **Bidirectional linking is enforced by lint:** if outcome X lists `supported_by: [r]`, research
 `r` should list `supports_outcomes: [x]`. Same for `challenged_by` / `related_*`.
@@ -145,9 +150,20 @@ Core claim (1–2 sentences) · Who promotes it (→ `people/`) · Research that
 Georgist responses (→ `objections/`) · Historical examples (→ `places/`, `events/`) ·
 How to deploy it (framing tips, audience guidance).
 
+### Book pages (`books/` — added 2026-07-06)
+The wiki's citable reference for a book, especially one held privately (Floyd's library) whose
+file can NEVER be committed. Structure: `## Bibliographic Information` → `## Core Thesis` →
+structure/argument walk-through → key claims with **page-cited quotes ≤50 words** → limits and
+reception → `## See Also` → `## Sources`. A book page is a *summary and index*, not a
+reproduction: no long excerpts, no chapter-length paraphrase. Wiki pages citing the book link
+to its `books/` page so page-level cites have an on-wiki anchor. Every book page ships with its
+discovery report (see LOOP-COMPREHENSIVENESS / inbox README): the papers, people, events,
+places, concepts, organizations, and further books it surfaces.
+
 ### Stub standard (the discovery unit)
 A **stub** is a valid minimal page created the moment a loop discovers a warranted topic, in ANY
-category (concepts, people, places, organizations, objections, events, outcomes, narratives):
+category (concepts, people, places, organizations, objections, events, outcomes, narratives,
+books):
 full frontmatter with `stub: true`, a 2-4 sentence sourced definition/overview, >=2 wiki links
 out, >=1 inbound link wired from the discovering page, and a Sources section citing at least the
 source(s) that justified it. Stubs are honest scaffolding, not embarrassments — they carry the

@@ -239,6 +239,21 @@ the DISCOVERED-candidates channel; Floyd is sending Hermes a supplementary extra
       as sources/inbox/BOOKSCAN-<slug>.report.md. T1 then triages -> stubs/registry per the
       standard accept/reject-with-reason discipline. Applies retroactively to the 5 books
       already scanned and as a standing requirement for the rest of wanted-books.
+      **GENERALIZED 2026-07-06 (Floyd):** discovery now applies to EVERY source Hermes
+      processes (not just books) and covers ALL wiki categories INCLUDING the new books
+      category — spec moved to sources/inbox/README.md ("Discovery is universal";
+      DISCOVERY-<slug>.report.md, BOOKSCAN- name still accepted for books).
+
+### books/ category (ratified 2026-07-06 — Hermes's PR created it; Floyd approved)
+`books` is now a first-class wiki category: added to lint/preview/ghost category lists,
+frontmatter standard in EDITORIAL.md §5, page template in §6. Book pages are the on-wiki
+citable anchor for privately-held books (files never committed; quotes ≤50 words page-cited).
+- [ ] [RECONCILE] tier:T1 status:todo — at Hermes-PR merge review: normalize the 5+ existing
+      books/*.md pages from Hermes's native schema (type/scan_tier/scanned_by, no category/
+      stub/excerpt) to the EDITORIAL.md standard (add category: books, stub: false, excerpt,
+      authors as list; keep publisher/isbn/page_count/scanned_by/scan_date); wire >=2 inbound
+      links per book page (the wiki pages that cite each book); add registry rows/flip Status
+      for scanned books; lint must be green post-merge.
 
 ### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
 - [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because
