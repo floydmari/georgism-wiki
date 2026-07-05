@@ -64,7 +64,7 @@ The book provides an extended treatment of Henry George as a key intellectual pr
 - George proposed "appropriat[ing] land rent for public use, by taxation" — the "simpler, easier and quieter way" to achieve common ownership (p. 41)
 - His tax would be much higher than modern property taxes (the full land rent) but would exempt all structure value
 - By 1933, John Dewey estimated *Progress and Poverty* "had a wider distribution than almost all other books on political economy put together" (p. 43)
-- The board game Monopoly was originally *The Landlord's Game* (1904), designed by Elizabeth Magie to educate the public about George's ideas (p. 43)
+- The board game Monopoly was originally *The Landlord's Game* (1904), designed by [Elizabeth Magie](/wiki/elizabeth-magie/) to educate the public about George's ideas (p. 43)
 
 **Georgism's identified defects:**
 1. **Investment inefficiency:** Taxing away all land value removes incentives to invest in or care for the land (p. 44)

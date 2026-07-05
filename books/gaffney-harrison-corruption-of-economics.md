@@ -96,7 +96,7 @@ Gaffney identifies nine constructive reconciliations in George's reform proposal
 ### Institutional Mechanisms
 
 1. **Academic firings:** Allen Eaton (Oregon), Elisha Andrews (Brown), Scott Nearing (Pennsylvania/Wharton) — all fired for Georgist sympathies
-2. **AEA capture:** Founded in 1885 by George's personal adversaries (Walker, Clark, Seligman, Ely) with an undemocratic Council "to prevent our organization from being captured by some economic sect or group of reformers"
+2. **AEA capture:** Founded in 1885 by George's personal adversaries (Walker, [Clark](/wiki/john-bates-clark/), [Seligman](/wiki/era-seligman/), [Ely](/wiki/richard-ely/)) with an undemocratic Council "to prevent our organization from being captured by some economic sect or group of reformers"
 3. **University patronage:** Clark recruited to Columbia by Seth Low (George's political opponent); Gilman's network controlling Hopkins
 4. **Funded institutes:** Ely's Institute for Research in Land Economics, funded by railroads and NAREB, attacked the Ralston-Nolan federal land tax bill (1919–24)
 5. **Textbook dominance:** Ely's *Outlines of Economics* was "the bread-and-butter text from 1893 to about 1930"
@@ -108,7 +108,7 @@ Gaffney identifies nine constructive reconciliations in George's reform proposal
 |-----------|------|---------------------|
 | J.B. Clark | Merged land into capital | Recruited by George's political opponent (Seth Low) |
 | E.R.A. Seligman | Created public finance field opposing single tax | Scion of wealthy banking family |
-| Richard T. Ely | Founded AEA, land economics institute | Funded by railroads, utilities, NAREB |
+| [Richard T. Ely](/wiki/richard-ely/) | Founded AEA, land economics institute | Funded by railroads, utilities, NAREB |
 | F.Y. Edgeworth | Pareto Optimality, indifference curves | Heir to Irish landlord estates (Edgeworthstown) |
 | Frank Knight | Chicago School anti-Georgism | Inherited Clark's campaign via Alvin Johnson |
 | Vilfredo Pareto | Redefined rent, ordinal welfare | Expressed contempt for egalitarianism |

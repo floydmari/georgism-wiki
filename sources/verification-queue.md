@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (613 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (616 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -66,7 +66,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (117)
+## needs-unblocked-web (proxy allowlist or manual fetch) (120)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -80,6 +80,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/charles-tiebout.md` — **VERIFY** the precise framing of Tiebout's own caveats should be verified against the primary text
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to the primary text — bibliographic details are corroborated across multiple independent corpus pages and are high-confidence, but the exact wordi
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session could not fetch the original paper from JSTOR or the University of Chicago Press. The bibliographi
+- `people/era-seligman.md` — **VERIFY** exact venue/proceedings citation for the Saratoga session on direct read.
 - `people/george-monbiot.md` — **VERIFY** exact proposal wording on direct read.
 - `people/herbert-spencer.md` — **VERIFY** specific chapter references, page numbers, and direct quotations could not be verified in this session — the primary text was not fetched.
 - `people/herbert-spencer.md` — **CITATION NEEDED** Primary text of Spencer's *Social Statics* (1851), especially the chapter(s) on land rights — to verify Spencer's original argument, its exact wording, and the 
@@ -96,6 +97,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/peter-mieszkowski.md` — **VERIFY** these URLs are cited from the wiki's research page for Mieszkowski's 1972 paper; they were not independently fetched in this session.
 - `people/thomas-piketty.md` — **VERIFY** exact r − g magnitudes and page-level citations could not be confirmed against the primary text in the supplied corpus.
 - `people/wallace-oates.md` — **CITATION NEEDED** direct access to regression tables for exact sample size, data year, and coefficients — the primary text could not be fetched in the source session; qualitative
+- `people/william-vickrey.md` — **VERIFY** page cites for the "two taxes" formulation on direct read.
 - `places/alaska.md` — **VERIFY** exact figures could not be confirmed from the primary PDF in the source session; they are corroborated across multiple secondary sources citing the paper.
 - `places/chicago.md` — **VERIFY** this exact peak-year list against Hoyt's primary text directly; the wiki's own [Progress and the 18.6-Year Cycle
 - `places/chicago.md` — **VERIFY** ` pending direct confirmation against Hoyt's primary text. 5. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 20
@@ -108,6 +110,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/autor-superstar-firms.md` — **VERIFY** precise firm/industry counts and the 80%-of-employment figure are drawn from a Richmond Fed research summary of the paper, not the primary text directly
 - `research/autor-superstar-firms.md` — **VERIFY** this sentence is reconstructed from aggregated secondary search summaries rather than a direct quotation confirmed against the primary PDF, which this session's
 - `research/autor-superstar-firms.md` — **CITATION NEEDED** a directly fetched/verified copy of the QJE 2020 primary text (or the NBER working-paper PDF) — this session's web access could not retrieve any version of the 
+- `research/bezemer-no-one-saw-this-coming.md` — **VERIFY** the exact inclusion list and criteria wording on direct read of the MPRA text.
 - `research/bowman-bell-lvt-distribution.md` — **VERIFY** full text not directly fetched this session — journals.uchicago.edu and jstor.org both returned HTTP 403; findings triangulated from the RePEc abstract plus mul
 - `research/bowman-bell-lvt-distribution.md` — **CITATION NEEDED** a stable DOI/JSTOR link for this paper — not independently verified with a direct fetch this session; cited here on the basis of multiple agreeing secondary sum
 - `research/brueckner-site-value-taxation.md` — **VERIFY** this session's network policy blocked a direct fetch of this page, so its exact contents (full text vs. borrow-only access) were not independently confirmed

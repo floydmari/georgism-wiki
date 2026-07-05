@@ -16,12 +16,14 @@ Sun encountered George's work and explicitly endorsed capturing land-value incre
 
 ## Legacy
 
-Sun's land principle became constitutional doctrine in the Republic of China and was implemented in **[Taiwan](/wiki/taiwan/)** through the Land Value Increment Tax, making Sun the channel by which Georgist ideas reached East Asian land policy at national scale.
+Sun's land principle became constitutional doctrine in the Republic of China and was implemented in **[Taiwan](/wiki/taiwan/)** through the [land value increment tax](/wiki/land-value-increment-tax/), making Sun the channel by which Georgist ideas reached East Asian land policy at national scale. [Posner & Weyl's *Radical Markets*](/wiki/posner-weyl-radical-markets/) treats his self-assessment mechanism (the state may buy at the owner's declared price) as a precursor of their COST proposal, noting the Taiwan implementation largely failed to enforce the buyout threat (Ch. 1, p. 46 per the wiki's book scan).[2]
 
 ## See Also
 
-- [Taiwan](/wiki/taiwan/) · [Unearned Increment](/wiki/unearned-increment/) · [Henry George](/wiki/henry-george/)
+- [Taiwan](/wiki/taiwan/) · [Land Value Increment Tax](/wiki/land-value-increment-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [Henry George](/wiki/henry-george/)
+- [Radical Markets (book)](/wiki/posner-weyl-radical-markets/) — the self-assessment lineage
 
 ## Sources
 
-1. Lincoln Institute (1998), "Policies and Mechanisms on Land Value Capture: Taiwan Case Study." [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf)
+1. Lincoln Institute (1998), "Policies and Mechanisms on Land Value Capture: Taiwan Case Study." [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf) — used for the equalization-of-land-rights principle and its Taiwan implementation (A/B-claims).
+2. Eric A. Posner & E. Glen Weyl, *Radical Markets* (2018), Ch. 1 — used for the COST-precursor reading (A-claim). [Book page](/wiki/posner-weyl-radical-markets/)

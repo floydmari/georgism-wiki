@@ -95,7 +95,7 @@ rather than merely regulating the credit that finances it.
   to banks and that bank credit is a major driver of increases in housing prices" (Ch. 16),
   bridging the Georgist and credit-cycle readings by locating the causal engine in the
   land-collateral channel. See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
-- **Outside academic validation of the prediction record.** Dirk Bezemer's 2009
+- **Outside academic validation of the prediction record.** [Dirk Bezemer's 2009 survey](/wiki/bezemer-no-one-saw-this-coming/)
   cross-analyst survey of who anticipated the 2008 crisis in advance, and why, lists
   Harrison and Foldvary among roughly a dozen analysts who issued detailed, public,
   pre-crisis warnings — grounded, he finds, in accounting/flow-of-funds models of debt

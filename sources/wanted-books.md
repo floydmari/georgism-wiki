@@ -53,3 +53,7 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 - George's own works (P&P, Land Question, Perplexed Philosopher, Protection or Free Trade, Science of Political Economy, Social Problems) — free full texts registered.
 - Barnes, *Capitalism 3.0* — author-released free PDF (boell.de) in registry.
 - Churchill, *The People's Rights* — archive.org.
+| **Oliver Marriott, *The Property Boom* (1967)** | Key primary on UK postwar land speculation (Centre Point, Hyams) — Harrison's main Ch. 6-7 source in *The Power in the Land*; would de-reference those cites. Discovery: Hermes w1 report. |
+| **Robert V. Andelson (ed.), *Critics of Henry George* (1979/2003)** | The scholarly anthology of the objections literature — directly feeds the objections build-out 9→15 (steelman sources per critic). Discovery: Hermes w1 report. |
+| **H. Darin-Drabkin, *Land Policy and Urban Growth* (1977)** | Israeli/Swedish public-land-policy evidence — feeds public-land-leasing and land-value-capture pages. Discovery: Hermes w1 report. |
+| **Leonie Sandercock, *The Land Racket* (1979)** | Australian land-speculation critique cited (and disputed) by Harrison — counter-source diversity for the cycle pages. Discovery: Hermes w1 report. |

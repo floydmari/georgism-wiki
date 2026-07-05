@@ -23,6 +23,8 @@ Tideman bridges the Georgist tradition and rigorous modern economics — he is t
 
 ## See Also
 
+- [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — the letter he organized
+
 - [Land Value Tax](/wiki/land-value-tax/) · [Henry George Theorem](/wiki/henry-george-theorem/)
 
 ## Sources

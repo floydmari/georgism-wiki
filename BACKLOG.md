@@ -281,7 +281,18 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       Rethinking the Economics of Land & Housing): confirm you own/licensed legitimate copies,
       or the pages' scan-depth upgrades stay frozen. Prohibited-channel rule now in
       sources/inbox/README.md.
-- [ ] [TRIAGE] tier:T1 status:todo — triage the 10 DISCOVERY-*.report.md files from Hermes w1
+- [ ] [TRIAGE] tier:T1 status:in-progress — WAVE 1 DONE 2026-07-06 (quota 8): ACCEPTED richard-ely,
+      era-seligman, elizabeth-magie stubs + events/open-letter-to-gorbachev +
+      research/bezemer-no-one-saw-this-coming (de-references the narrative's Bezemer cite);
+      ENRICHED existing william-vickrey + sun-yat-sen (Radical Markets/HGT/Gorbachev wiring);
+      4 books to wanted-books (Marriott, Andelson, Darin-Drabkin, Sandercock). REJECTED this
+      wave (reasons): Weber Glasgow data + Guntermann (cited-through-Harrison datapoints, no
+      standalone page warranted); Tanaka Building a New Japan, Gilder, Bartlett, Lipsey,
+      Rothbard-For-a-New-Liberty (mentioned-in-passing, <2 inbound-demand pages); Smith/Marx/
+      Ricardo/Keynes core texts (already covered by existing people/concept pages).
+      REMAINING: reports for corruption-of-economics, land-is-a-big-deal, rethinking,
+      economic-theory-in-retrospect, boom-bust, ricardos-law, anderson, patel — next waves.
+      Original task: triage the 10 DISCOVERY-*.report.md files from Hermes w1
       (sources/inbox/): accept→stubs per EDITORIAL stub standard + registry rows,
       reject-with-reason. Power-in-the-Land report alone lists ~24 books + ~14 people;
       expect several waves. High-value candidates spotted at review: Marriott The Property

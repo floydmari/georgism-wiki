@@ -64,6 +64,8 @@ points on direct read.]
 
 ## See Also
 
+- [E. R. A. Seligman](/wiki/era-seligman/) — the prior generation's leading academic critic
+
 - [Rothbard's 1957 critique](/wiki/rothbard-single-tax/) — the other canonical hostile statement on file
 - [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
 
