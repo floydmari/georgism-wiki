@@ -59,7 +59,10 @@ growing rent extraction: the shift of national income away from labor.
   market-power interpretation prevail, superstar markups become a species of
   monopoly rent — the platform/finance extension mapped on
   [The Rentier Economy](/wiki/the-rentier-economy/) narrative — which that page
-  explicitly flags as more contested than the land case.
+  explicitly flags as more contested than the land case. (The economics of
+  platform pricing itself is anchored by
+  [Rochet & Tirole's two-sided-markets theory](/wiki/rochet-tirole-two-sided/),
+  carried on the wiki as context, not outcome evidence.)
 
 ## See Also
 

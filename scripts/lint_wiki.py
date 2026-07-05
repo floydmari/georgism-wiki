@@ -217,8 +217,9 @@ def main():
         if re.search(r"\[\[[^\]]+\]\]", body):
             err(f, "Obsidian-style [[wikilink]] — use [text](/wiki/slug/) markdown links")
         for q in re.findall(r'"([^"\n]{200,}?)"', body):
-            # skip likely between-quote spans: real quotations rarely carry markdown
-            if any(ch in q for ch in ("*", "](", "[", "#")):
+            # skip likely between-quote spans: real quotations rarely carry markdown,
+            # and they start with a letter (spans start mid-sentence with space/punct)
+            if any(ch in q for ch in ("*", "](", "[", "#")) or not q[:1].isalpha():
                 continue
             if len(q.split()) > 50:
                 warn(f, f"quote may exceed 50-word cap ({len(q.split())} words): \"{q[:60]}…\"")

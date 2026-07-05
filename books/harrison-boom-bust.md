@@ -85,7 +85,7 @@ Harrison's central policy prescription is a fiscal shift: raise public revenue f
 3. The charge must be levied on **current market values** freely determined by users.
 4. People would be **compensated with equivalent reductions** in income, capital, and consumption taxes.
 
-Harrison argues: "The tool that can deliver these outcomes is to be found in fiscal policy. Taxation arouses animosity, but the key to reform is to understand that the problem is not with how much is taken from people to be spent on common services. What matters is how that revenue is raised" (Ch. 12 §3, p.273).
+Harrison argues: "The tool that can deliver these outcomes is to be found in fiscal policy. Taxation arouses animosity, but the key to reform is to understand that the problem is not with how much is taken from people to be spent on common services" — what matters, he concludes, is how the revenue is raised (Ch. 12 §3, p.273).
 
 ### Historical Precedents (Ch. 12 §4, p.276–281)
 

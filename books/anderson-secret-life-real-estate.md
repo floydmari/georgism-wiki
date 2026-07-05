@@ -14,6 +14,8 @@ supports_outcomes: [lvt-dampens-land-speculation]
 
 ## Summary
 
+*Author bio: [Phillip J. Anderson](/wiki/phillip-j-anderson/).*
+
 *The Secret Life of Real Estate and Banking* is a book by **Phillip J. Anderson**, published by Shepheard-Walwyn (London) in 2008 (ISBN 978-0-85683-263-5, ~350 pp.). Anderson is director of Economic Indicator Services Ltd (EIS), a business-cycle forecasting service. The book was first published as *The Secret Life of Real Estate* in 2008, reprinted under the new title in 2009, and has been reprinted multiple times through 2023.
 
 The book argues that US real estate cycles have peaked with remarkable regularity approximately every 18 years since the official beginning of US land sales on May 10, 1800. Anderson attributes the cycle to the capitalization and enclosure of ground rent — the economic rent of land — facilitated by the banking and credit system. The book combines detailed US land speculation and banking history from 1792 through the 20th century with analytical chapters on why the cycle repeats and why it is approximately 18 years long.

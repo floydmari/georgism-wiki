@@ -141,7 +141,7 @@ Léon Walras, one of the three fathers of the marginal revolution, stated: "Decl
 
 > "Declaring individual land ownership … means … thwarting the beneficial effects of free competition by preventing the land from being used as is most advantageous for society." — Léon Walras, quoted p. 40
 
-> "If taxes are to be levied … on … the value of … properties … allow each … owner … to declare the value of his own property, make the declared values … public, and require that an owner sell his property to any bidder … willing to pay … the declared value." — Arnold Harberger, quoted p. 58
+> "If taxes are to be levied … on … the value of … properties allow each … owner … to declare the value of his own property, make the declared values … public, and require that an owner sell his property to any bidder … willing to pay … the declared value." — Arnold Harberger, quoted p. 58
 
 > "We refer to this tax as a 'common ownership self-assessed tax' (COST) on wealth. The COST on wealth is also the cost of (holding) wealth." (p. 64)
 
