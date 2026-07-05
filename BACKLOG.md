@@ -57,9 +57,13 @@ supported_by frontmatter and Evidence sections; (3) PUBLIC-DOMAIN FULL TEXTS (ED
 pre-1931 works may be held in full — new texts/ category (lint/preview/ghost wired,
 public_domain: true exempts the quote cap), sources/publicdomain/ for full books, Hermes PD
 delivery channel opened.
-- [ ] [RECONCILE] tier:T2 status:todo — evidence-ordering pass over the 15 outcome pages +
-      major concept evidence lists: reorder supported_by frontmatter and Evidence sections
-      strongest-first per EDITORIAL §3; one commit per ~5 pages.
+- [x] [RECONCILE] tier:T2 status:done 2026-07-06 — evidence-ordering pass: all 15 outcomes'
+      supported_by reordered strongest-first (quasi-experimental/top-journal > peer-reviewed >
+      institutional > working paper > advocacy/synthesis); challenged_by too (landlords:
+      Löffler-Siegloch now leads Tsoodle-Turner); contested sources demoted within lists
+      (Hsieh-Moretti below Duranton-Puga Econometrica + HOP given the correction dispute);
+      slug-set equality asserted per page (no evidence added/dropped, order only). Evidence
+      SECTIONS in bodies follow prose order — spot-adjust at next touch per page.
 - [ ] [DRAFT] tier:T2 status:todo — seed the texts/ category (route acquisition via Hermes
       work order; each needs provenance + headnote + ≥2 inbound links): (1) Paine, Agrarian
       Justice (1797); (2) Saratoga single-tax debate proceedings (1890); (3) Johnson, The

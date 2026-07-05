@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, property-tax, developing-countries, welfare, empirical]
 stub: false
 evidence_strength: "Moderate (rigorous but single-country causal evidence)"
-supported_by: [brockmeyer-property-tax-developing, imf-taxing-immovable-property, world-bank-property-tax-determinants, imf-building-tax-capacity, franzsen-mccluskey-property-tax-africa]
+supported_by: [brockmeyer-property-tax-developing, imf-taxing-immovable-property, franzsen-mccluskey-property-tax-africa, imf-building-tax-capacity, world-bank-property-tax-determinants]
 excerpt: "Causal evidence from Mexico shows raising property-tax rates increases welfare — though coercive enforcement, unlike rate increases, can reduce it."
 ---
 

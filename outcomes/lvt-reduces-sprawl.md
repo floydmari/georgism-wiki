@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, sprawl, density, split-rate, land-use, empirical]
 stub: false
 evidence_strength: "Moderate for the density mechanism (observational + cross-city + simulation + supportive review); the metro-level sprawl claim itself remains inferential, and the Bentick–Mills timing critique is carried as counter-evidence"
-supported_by: [banzhaf-lavery-pa-sprawl, tomson-estonia-lvt, brueckner-site-value-taxation, cho-two-rate-density, taranu-verbeeck-property-tax-sprawl]
+supported_by: [banzhaf-lavery-pa-sprawl, cho-two-rate-density, taranu-verbeeck-property-tax-sprawl, brueckner-site-value-taxation, tomson-estonia-lvt]
 challenged_by: [bentick-mills-timing-neutrality]
 related_places: [pennsylvania, pittsburgh, harrisburg-pennsylvania]
 excerpt: "Split-rate taxation increases housing density in the locations where it is applied — the mechanism anti-sprawl arguments predict — but whether this reduces sprawl at the metropolitan level depends on where the tax is adopted."

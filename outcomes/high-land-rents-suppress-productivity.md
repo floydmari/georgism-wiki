@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, productivity, tfp, urban-land, misallocation]
 stub: false
 evidence_strength: "Emerging (theory + recent macro studies)"
-supported_by: [bakker-land-rents-tfp, hsieh-moretti-spatial-misallocation, fiorentino-moogan-agglomeration, duranton-puga-urban-growth, herkenhoff-ohanian-prescott-tarnishing]
+supported_by: [duranton-puga-urban-growth, herkenhoff-ohanian-prescott-tarnishing, hsieh-moretti-spatial-misallocation, bakker-land-rents-tfp, fiorentino-moogan-agglomeration]
 excerpt: "High urban land rents price the most productive workers and firms out of the best locations, misallocating labour and capital and lowering aggregate productivity."
 ---
 

@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, speculation, land-cycle, holding-cost, lvt]
 stub: false
 evidence_strength: "Moderate (strong theory; suggestive empirics)"
-supported_by: [tomson-estonia-lvt, cunningham-seattle-options, foldvary-business-cycle-synthesis, hoyt-chicago-land-values, glaeser-real-estate-bubbles, case-shiller-2003-bubble, harrison-power-in-the-land]
+supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land]
 excerpt: "By imposing an annual cost on holding land, LVT reduces the incentive to hold sites idle for speculative gain — shrinking the booms and busts of the land cycle."
 last_reviewed: 2026-07-04
 ---

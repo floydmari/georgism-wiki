@@ -5,7 +5,7 @@ tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"
 supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, mieszkowski-property-tax-incidence, zodrow-three-views, doucet-does-georgism-work]
-challenged_by: [tsoodle-turner-rents, loffler-siegloch-german-pass-through]
+challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
 last_reviewed: 2026-07-05
 ---
