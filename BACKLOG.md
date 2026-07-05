@@ -13,6 +13,19 @@ sections is queued below. (3) Synthesis de-referencing is now a T1 review gate (
       dedicated counter-evidence section; progressive-LVT page now presents its England-Zhao vs
       Bowman-Bell dispute openly as jurisdiction-dependent.
 
+EXA DELTA (Floyd directive, 2026-07-06): Exa API key delivered — stored in env only (this
+container's shell profile + to be added as `EXA_API_KEY` in the cloud environment settings for
+future sessions); NEVER committed. New standing rule in LOOP.md step 3: every people/ page
+creation or backfill starts with `python3 scripts/exa_enrich.py "<Name>"` (report-only; T1
+verifies and cites what it finds). Current blocker: the egress proxy 403s api.exa.ai — until
+allowlisted, fall back to WebSearch and leave pages in the sweep below. The key works
+immediately from Hermes's unblocked environment.
+- [ ] [ENRICH] tier:T2 status:blocked-on-allowlist — Exa enrichment sweep over ALL existing
+      people/ pages (~35+): per page run scripts/exa_enrich.py, T1 verifies/cites findings,
+      upgrade thin bios, resolve [VERIFY] markers where Exa's text extracts settle them.
+      Unblock = api.exa.ai in the proxy allowlist OR delegate the sweep to Hermes (its
+      environment is unblocked; same report-only + T1-gate protocol applies).
+
 LOOP-2 DELTA (same day, after the block below was written): stubs 17→15
 (john-bates-clark, superstar-firms, fire-sector backfilled; karl-widerquist stub added);
 citdiv.org + progress.org surveys DONE and triaged — both full scans now sit in the

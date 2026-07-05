@@ -51,6 +51,12 @@ tasks needing live web research stay on tool-using agents.
    - `needs-review` if you are the REVIEW-loop runner (T1).
    Set it to `status:in-progress` in `BACKLOG.md`.
 3. **Do the work — per `EDITORIAL.md`.** Web-research first; cite every substantive claim at
+   **People pages (standing rule, Floyd 2026-07-06):** every `people/` page CREATION or BACKFILL
+   starts with an Exa enrichment pass — `python3 scripts/exa_enrich.py "<Name>"` (key:
+   `EXA_API_KEY` env var; report-only, T1 verifies and cites what it finds). An enrichment
+   sweep over ALL existing people pages is queued in BACKLOG. If api.exa.ai is unreachable
+   (current egress proxy blocks it), fall back to WebSearch corroboration and leave the
+   page's enrichment flag in the queue.
    claim level; classify claims A–F; match language to evidence; never fabricate (use
    `[CITATION NEEDED]` / `[VERIFY]`). New empirical claim ⇒ ensure a `research/` entry exists.
    Create no new orphans (wire ≥2 inbound links). Add every source you use to
