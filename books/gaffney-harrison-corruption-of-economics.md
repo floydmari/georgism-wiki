@@ -1,6 +1,9 @@
 ---
 title: "The Corruption of Economics"
-author: ["Mason Gaffney", "Fred Harrison", "Kris Feder"]
+category: books
+stub: false
+excerpt: "Gaffney and Harrison's 1994 polemical history arguing neoclassical economics was deliberately reshaped — by Clark, Ely, Seligman and their patrons — to bury George's land question by merging land into capital. The wiki's corruption narrative rests on it; an argument, not a detached survey. Book summary page."
+authors: [Mason Gaffney, Fred Harrison, Kris Feder]
 year: 1994
 publisher: "Shepheard-Walwyn / Centre for Incentive Taxation"
 isbn: "978-1-8568-3552-0"
@@ -162,8 +165,8 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 
 ## See Also
 
-- [[books/land-is-a-big-deal]] — Doucet's modern empirical defense of Georgism
-- [[books/radical-markets]] — Posner & Weyl's COST as extension of George's land tax
+- [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defense of Georgism
+- [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST as extension of George's land tax
 - [[concepts/atcor]] — All Taxes Come Out of Rent (formalized by Gaffney 2005)
 - [[concepts/economic-rent]] — Classical vs. neoclassical definitions of rent
 - [[concepts/land-value-tax]] — The single tax proposal

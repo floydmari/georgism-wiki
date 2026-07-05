@@ -8,8 +8,8 @@ These are our own work product (not copyrighted text) and safe to distribute.
 | Title | Author(s) | Year | Wiki Page |
 |------|-----------|------|-----------|
 | Land is a Big Deal | Lars Doucet | 2022 | `books/land-is-a-big-deal.md` |
-| The Corruption of Economics | Gaffney & Harrison | 1994 | `books/the-corruption-of-economics.md` |
-| Radical Markets | Posner & Weyl | 2018 | `books/radical-markets.md` |
+| The Corruption of Economics | Gaffney & Harrison | 1994 | `books/gaffney-harrison-corruption-of-economics.md` |
+| Radical Markets | Posner & Weyl | 2018 | `books/posner-weyl-radical-markets.md` |
 | Rethinking Economics of Land & Housing | Ryan-Collins et al. | 2017 | `books/rethinking-economics-land-housing.md` |
 | Economic Theory in Retrospect | Mark Blaug | 1997 | `books/economic-theory-in-retrospect.md` |
 | Boom Bust | Fred Harrison | 2005 | `books/harrison-boom-bust.md` |

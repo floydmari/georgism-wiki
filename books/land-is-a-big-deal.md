@@ -1,6 +1,9 @@
 ---
 title: "Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it"
-author: "Lars A. Doucet"
+category: books
+stub: false
+excerpt: "Doucet's 2022 book-length case (from the prize-winning ACX series) that land remains economically dominant: land-value scale estimates, the non-pass-through evidence including the Danish natural experiment, and modern assessment methods. The movement's best modern popularization. Book summary page."
+authors: [Lars A. Doucet]
 year: 2022
 publisher: "Shack Simple Press"
 isbn: "979-8-9853225-2-1"
@@ -189,8 +192,8 @@ The Monopoly board game connection: Elizabeth Magie designed *The Landlord's Gam
 
 ## See Also
 
-- [[books/the-corruption-of-economics]] — Gaffney & Harrison's argument for keeping land separate from capital
-- [[books/radical-markets]] — Posner & Weyl's COST proposal extending George's land tax to all property
+- [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
+- [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST proposal extending George's land tax to all property
 - [[concepts/land-value-tax]] — The traditional Georgist proposal
 - [[concepts/atcor]] — All Taxes Come Out of Rent
 - [[concepts/economic-rent]] — Rent as unearned income from land

@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (631 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (613 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -66,7 +66,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (120)
+## needs-unblocked-web (proxy allowlist or manual fetch) (117)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -142,15 +142,12 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/hilber-vermeulen-england-supply.md` — **CITATION NEEDED** methodology, data sources, identification strategy, sample period, and specific quantitative results — none of these could be verified without fetching the sour
 - `research/hilber-vermeulen-england-supply.md` — **CITATION NEEDED** a full-text read of the source PDF to confirm all findings, methodology, data sources, identification strategy, quantitative results, publication venue, and the
 - `research/hoyt-chicago-land-values.md` — **VERIFY** this exact peak-year list against Hoyt's primary text directly; the wiki's own [progress-18-6-year-cycle
-- `research/hsieh-moretti-spatial-misallocation.md` — **VERIFY** exact wording/scope of this "36%" growth-rate figure — this session could not directly fetch the AEA/NBER PDF to confirm the precise abstract phrasing against s
 - `research/hsieh-moretti-spatial-misallocation.md` — **VERIFY** precise corrected magnitude — not independently confirmed against Greaney's primary text in this session
+- `research/hsieh-moretti-spatial-misallocation.md` — **VERIFY** precise corrected magnitude — not independently confirmed against Greaney's primary text in this session.
 - `research/imf-building-tax-capacity.md` — **VERIFY** the exact title on the PDF's cover/running header
 - `research/imf-building-tax-capacity.md` — **CITATION NEEDED** the paper's own page/section number for the property-tax discussion — this session's fetches of the primary PDF and the IMF eLibrary article page both returned 
-- `research/imf-building-tax-capacity.md` — **CITATION NEEDED** direct access to the primary PDF (btcgdea.pdf) and/or the IMF eLibrary article page (elibrary.imf.org/view/journals/087/2025/007/article-A001-en.xml) to verify 
 - `research/johnson-1914-single-tax-critique.md` — **VERIFY** Johnson's article in the Atlantic archive for exact page range and fuller quotation; Foldvary's rebuttal points on direct read.
 - `research/jones-marinescu-alaska-pfd.md` — **VERIFY** This session's web access to the AEA, NBER, SSRN, IZA, and university-hosted PDF versions of this paper returned network/access errors (proxy 403s), so the full
-- `research/knoll-schularick-steger-house-prices.md` — **VERIFY** the exact roster of all 14 countries could not be confirmed against the primary text in this session, as direct fetches of the AER, SSRN, EconStor, and working-
-- `research/knoll-schularick-steger-house-prices.md` — **VERIFY** exact data-construction details and caveats stated by the authors themselves — not independently confirmed from primary text in this session
 - `research/korinek-ng-digital-superstars.md` — **VERIFY** exact institutional affiliation and paper abstract — source text not fetched in this session
 - `research/korinek-ng-digital-superstars.md` — **VERIFY** the following summary is reconstructed from the paper's title, metadata, and its placement in the broader literature; the source text could not be fetched in th
 - `research/korinek-ng-digital-superstars.md` — **CITATION NEEDED** direct quotations, specific findings, model structure, and empirical claims from the paper — the source text was not fetched in this session. All substantive cl
@@ -189,7 +186,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zodrow-three-views.md` — **VERIFY** the precise wording of Zodrow's stated preference could not be quoted directly from the primary text in this session; the characterization above is drawn from h
 - `research/zodrow-three-views.md` — **CITATION NEEDED** a directly fetched, page-level-cited copy of the primary 2001 National Tax Journal text — this session's egress policy returned 403 responses for ideas.repec.or
 
-## needs-new-source (research/forage task) (32)
+## needs-new-source (research/forage task) (31)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** empirical evidence on betterment levy effects on transaction volumes.
 - `concepts/boom-bust-cycle.md` — **VERIFY** the strongest peer-reviewed statistical test, if any, of the cycle's statistical significance against retrospective-fitting concerns.
@@ -221,10 +218,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/brueckner-site-value-taxation.md` — **VERIFY** whether this paper, versus a more general capital-taxation framework, is the ideal primary citation for that broader outcome — the fit is closer for the split-r
 - `research/cwc-distributional-impacts-lvt.md` — **CITATION NEEDED** regional/provincial distributional breakdown, if the study provides one.
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full citation for the Cambridge *Historical Journal* article summarized here — this session located the article by title and journal via search 
-- `research/progress-18-6-year-cycle.md` — **CITATION NEEDED** a primary or reviewed source for Anderson's specific dating methodology
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 
-## unclassified (T1 triage) (423)
+## unclassified (T1 triage) (409)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
@@ -507,10 +503,8 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/gemmell-grimes-skidmore-nz.md` — **VERIFY** A future editor with full-text access to the published *Journal of Real Estate Finance and Economics* version (paywalled in this session) should confirm the pre
 - `research/gibbons-machin-rail-access.md` — **VERIFY** exact point estimate(s), distance bands, and specification — this session's egress access to the published tables, the ScienceDirect full text, and the CEP work
 - `research/gibbons-machin-rail-access.md` — **VERIFY** pending first-hand access to the published tables (see Findings and Nuances and Limits above).
-- `research/glaeser-gyourko-housing-supply.md` — **VERIFY** whether the published JEP version retains the exact "2 percent" lower-bound figure and Hsieh-Moretti citation year found in the September 2017 NBER working-pape
 - `research/glaeser-gyourko-housing-supply.md` — **VERIFY** this session located these critiques via search snippets referencing Murray (2021, *Urban Studies* / SAGE) and Caplan's "The Zoning Tax: A Mere Illusion?" comme
 - `research/glaeser-gyourko-housing-supply.md` — **VERIFY** note below. 4. Joseph Gyourko, Albert Saiz & Anita A. Summers (2008), "A New Measure of the Local Regulatory Environment for Housing Markets: The Wharton Reside
-- `research/glaeser-gyourko-housing-supply.md` — **VERIFY** word-for-word identity between the September 2017 NBER working-paper text (directly read in this session) and the final published Winter 2018 JEP version for th
 - `research/glaeser-real-estate-bubbles.md` — **VERIFY** whether a future editor should also draft a page for the 2016/2017 paper under a different slug; this page covers only the 2013 AER paper.
 - `research/glaeser-real-estate-bubbles.md` — **VERIFY** whether the paper includes any formal statistical tests beyond the historical narrative and stylized price-series comparisons; this session relied on the abstra
 - `research/glaeser-real-estate-bubbles.md` — **CITATION NEEDED** page-level citations for the specific historical episodes (1830s Alabama cotton land, 1920s Florida, 1920s Manhattan skyscrapers) drawn from the paper's body ra
@@ -542,20 +536,10 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/hoyt-chicago-land-values.md` — **VERIFY** whether Hoyt's original text itself asserts a fixed ~18-year period, or only documents irregular but recurring booms and busts
 - `research/hoyt-chicago-land-values.md` — **CITATION NEEDED** a specific source documenting Hoyt's direct role in redlining-adjacent FHA underwriting practice, if the wiki later creates a dedicated people/homer-hoyt.md pag
 - `research/hoyt-chicago-land-values.md` — **VERIFY** confirm this quotation against the primary Internet Archive text directly in a future revision
-- `research/hsieh-moretti-spatial-misallocation.md` — **VERIFY** this figure and its precise relationship to the "36%" growth-rate figure — both numbers are consistently reported across independent secondary sources (AEA/NBER
-- `research/hsieh-moretti-spatial-misallocation.md` — **VERIFY** the specific corrected percentage — secondary sources cite conflicting replacement figures (variously described as roughly 9%, 14%, or 36% depending on which co
-- `research/hsieh-moretti-spatial-misallocation.md` — **VERIFY** where the precise abstract wording could not be confirmed first-hand. 2. Brian Greaney (2026), "Housing Constraints and Spatial Misallocation: Comment," *Americ
-- `research/hsieh-moretti-spatial-misallocation.md` — **VERIFY** and drawn from secondary description only. 4. Bryan Caplan, "Hsieh Replies to Greaney." [Bet On It
-- `research/hsieh-moretti-spatial-misallocation.md` — **CITATION NEEDED** direct primary-source confirmation of the exact abstract wording for the "36%" aggregate-growth figure and the "3.7%" GDP-level figure, and of the precise corre
 - `research/hudson-killing-the-host.md` — **CITATION NEEDED** primary-text passage and page reference for Hudson's specific account of the marginalist/neoclassical elision of rent theory
 - `research/hudson-killing-the-host.md` — **VERIFY** quotations sourced from a search-engine snippet of the full review, not a directly read copy of the article; wording should be re-confirmed against the original
 - `research/hudson-killing-the-host.md` — **VERIFY** quotations sourced from a search-engine snippet, not a directly read copy of the post; wording should be re-confirmed before further reuse
 - `research/imf-building-tax-capacity.md` — **VERIFY** whether the 2025 departmental paper itself repeats these specific figures and examples, or whether they are unique to the 2024 blog post — this session could no
-- `research/imf-building-tax-capacity.md` — **CITATION NEEDED** note above). 2. Martin Grote, Mario Mansour & Jean-François Wen, "How Property Taxes Can Help Low-Income Countries to Develop," IMF Blog, November 11, 2024. [IM
-- `research/knoll-schularick-steger-house-prices.md` — **VERIFY** the "about 80 percent" figure is corroborated by the paper's own abstract as reproduced across multiple independent secondary sources (the AEA journal listing, 
-- `research/knoll-schularick-steger-house-prices.md` — **VERIFY** where used. 3. Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 208 (2014), same title. [Dallas Fed
-- `research/knoll-schularick-steger-house-prices.md` — **VERIFY** notes above. 5. IDEAS/RePEc listing for the published AER version. [IDEAS/RePEc
-- `research/knoll-schularick-steger-house-prices.md` — **VERIFY** This page's factual claims about the paper's content rest on converging search-engine-indexed excerpts and secondary summaries (AEA, IDEAS/RePEc, CEPR VoxEU, if
 - `research/korinek-ng-digital-superstars.md` — **VERIFY** whether the paper makes this specific argument
 - `research/korinek-ng-digital-superstars.md` — **VERIFY** whether the paper uses this framing
 - `research/korinek-ng-digital-superstars.md` — **VERIFY** whether the paper emphasizes global scaling
@@ -604,15 +588,13 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/plummer-lvt-distribution.md` — **CITATION NEEDED** specific capitalization magnitudes from the paper.
 - `research/plummer-lvt-distribution.md` — **VERIFY** a future editor with direct NTJ/JSTOR access should confirm the precise Suits Index values, exact income-decile breakdowns if reported, and full capitalization 
 - `research/progress-18-6-year-cycle.md` — **VERIFY** byline not confirmed
-- `research/progress-18-6-year-cycle.md` — **VERIFY** article byline and exact publication date
-- `research/progress-18-6-year-cycle.md` — **VERIFY** ` accordingly. This is a T2 limitation of this research pass, not a claim that the figures are wrong. ## The Argument, as the Article Presents It ### Four phase
+- `research/progress-18-6-year-cycle.md` — **VERIFY** exact phase boundaries and "Winner's Curse" wording
 - `research/progress-18-6-year-cycle.md` — **VERIFY** exact peak-year list as stated by the article
 - `research/progress-18-6-year-cycle.md` — **VERIFY** Wenzlick's findings and dates — no primary Wenzlick source was independently retrieved for this page
 - `research/progress-18-6-year-cycle.md` — **VERIFY** whether this article is by Foldvary, another named contributor, or unsigned
 - `research/progress-18-6-year-cycle.md` — **VERIFY** precise percentages and index/measure used — e.g., Dow vs. S&P 500, peak-to-trough dates
 - `research/progress-18-6-year-cycle.md` — **VERIFY** article's exact framing of the current-cycle dating
 - `research/progress-18-6-year-cycle.md` — **VERIFY** whether the Oxford Review piece engages with cycle-length claims at all
-- `research/progress-18-6-year-cycle.md` — **VERIFY** ` throughout this page marks unconfirmed specifics, including author and exact publication date. 2. Fred E. Foldvary, "The Business Cycle: A Georgist-Austrian S
 - `research/rochet-tirole-two-sided.md` — **VERIFY** whether the paper frames this as a per-transaction model or also considers membership fees — the 2003 JEEA paper and the later 2006 *International Journal of In
 - `research/rochet-tirole-two-sided.md` — **CITATION NEEDED** specific theorem or proposition number for the non-neutrality result
 - `research/rochet-tirole-two-sided.md` — **CITATION NEEDED** a source that explicitly connects Rochet–Tirole two-sided market theory to rent extraction or platform monopoly — the paper itself does not make this connection

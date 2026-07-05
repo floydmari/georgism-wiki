@@ -440,3 +440,30 @@ rule closed pending full-text confirmations.
 - Many VERIFY markers on paywalled papers could not be cleared (ScienceDirect, Wiley, SAGE return HTTP 403)
 - No new wiki category books-publications was created (lint script CATEGORIES cannot be edited per spec); book pages placed in research/ with books-publications tag
 - verification_queue.py script mentioned in spec does not exist; markers tracked via grep
+
+---
+
+## 2026-07-06b — T1 REVIEW: Hermes PR #6 approved & merged + reconciliation
+
+**Verdict: APPROVED.** Review-first items checked: the CORRECTED Hsieh-Moretti/Caplan figures
+re-derived independently (1.0149^45/1.00795^45 ≈ +36%; Table-5 variant ≈ +14% — arithmetic
+correct); marker clearances spot-checked against the diffs (Glaeser-Gyourko via Wharton WP #802,
+KSS abstract 80% figure, IMF DP 2025/007 Heavy, 18.6-cycle); Hermes also FIXED a committed
+conflict-marker block on main (hsieh-moretti). Books: 10 pages + 10 discovery reports (locator-
+cited, all categories — the universal-discovery rule ran retroactively). No book files committed;
+no protected files touched.
+
+**Merged to main** (merge commit 30358c1), then main merged into the campaign branch with
+conflicts resolved (BACKLOG/LOOPLOG union; registry union + Patel dedupe).
+
+**Reconciliation fixes applied on this branch:** books frontmatter normalized (5 pages);
+slug-collision renames (posner-weyl-radical-markets, gaffney-harrison-corruption-of-economics);
+30 [[books/…]] wikilinks repaired; 2 committed conflict-marker blocks on main fixed (arnott,
+bowman-bell); anderson NPOV trim; DØRS cross-links added to the two Danish-experiment sections;
+Harrison Victoria data C-claim relabel; 4 over-cap Blaug quotes trimmed to ≤50 words.
+
+**FLAG for Floyd:** two book scans (Blaug; Ryan-Collins et al.) named libgen.vg as procurement
+source — provenance-pending [VERIFY] flags placed, shadow-library channels now PROHIBITED in
+sources/inbox/README.md, owner attestation task filed in BACKLOG.
+
+State post-merge: 319 pages, lint 0 errors / ~509 warnings, registry ~330 rows.

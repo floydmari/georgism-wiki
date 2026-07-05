@@ -58,11 +58,8 @@ But the paper disciplines any claim that the HGT is a ready-made *practical poli
 
 ## See Also
 
-<<<<<<< HEAD
 - [Kanemoto, Ohkawara & Suzuki (1996)](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/) — the Japanese optimal-city-size test the practical-guide question builds on
-=======
 - [Richard Arnott](/wiki/richard-arnott/)
->>>>>>> origin/main
 
 - [Henry George Theorem](/wiki/henry-george-theorem/)
 - [Arnott & Stiglitz (1979): Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size](/wiki/arnott-stiglitz-henry-george-theorem/)

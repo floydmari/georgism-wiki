@@ -244,12 +244,27 @@ the DISCOVERED-candidates channel; Floyd is sending Hermes a supplementary extra
 `books` is now a first-class wiki category: added to lint/preview/ghost category lists,
 frontmatter standard in EDITORIAL.md §5, page template in §6. Book pages are the on-wiki
 citable anchor for privately-held books (files never committed; quotes ≤50 words page-cited).
-- [ ] [RECONCILE] tier:T1 status:todo — at Hermes-PR merge review: normalize the 5+ existing
-      books/*.md pages from Hermes's native schema (type/scan_tier/scanned_by, no category/
-      stub/excerpt) to the EDITORIAL.md standard (add category: books, stub: false, excerpt,
-      authors as list; keep publisher/isbn/page_count/scanned_by/scan_date); wire >=2 inbound
-      links per book page (the wiki pages that cite each book); add registry rows/flip Status
-      for scanned books; lint must be green post-merge.
+- [x] [RECONCILE] tier:T1 status:done 2026-07-06 — Hermes PR #6 reviewed (APPROVED) and merged
+      to main; reconciliation applied on the campaign branch: 5 book pages normalized to the
+      EDITORIAL schema; slug collisions renamed (books/posner-weyl-radical-markets,
+      books/gaffney-harrison-corruption-of-economics); 30 broken [[books/...]] wikilinks fixed;
+      libgen provenance lines replaced with [VERIFY] attestation flags (2 pages — see task
+      below); registry deduped (Patel double row) + book rows repointed; committed conflict
+      markers inherited from main fixed (arnott, bowman-bell); phillip-j-anderson NPOV trim
+      (testimonial cut, marketing claims framed as level-6); Danish-experiment sections now
+      link the wiki's own DØRS page; Harrison Victoria data relabeled C-claim
+      (advocacy-reported observational). Lint 0 errors post-merge.
+- [ ] [VERIFY] tier:owner status:blocked-on-floyd — provenance attestation for two Hermes book
+      scans sourced from libgen.vg (Blaug, Economic Theory in Retrospect; Ryan-Collins et al.,
+      Rethinking the Economics of Land & Housing): confirm you own/licensed legitimate copies,
+      or the pages' scan-depth upgrades stay frozen. Prohibited-channel rule now in
+      sources/inbox/README.md.
+- [ ] [TRIAGE] tier:T1 status:todo — triage the 10 DISCOVERY-*.report.md files from Hermes w1
+      (sources/inbox/): accept→stubs per EDITORIAL stub standard + registry rows,
+      reject-with-reason. Power-in-the-Land report alone lists ~24 books + ~14 people;
+      expect several waves. High-value candidates spotted at review: Marriott The Property
+      Boom, Darin-Drabkin land policy, Andelson Critics of Henry George, Sandercock The Land
+      Racket, Bezemer no-one-saw-this-coming primary.
 
 ### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
 - [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because

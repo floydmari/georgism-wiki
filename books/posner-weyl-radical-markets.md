@@ -1,6 +1,9 @@
 ---
 title: "Radical Markets: Uprooting Capitalism and Democracy for a Just Society"
-author: ["Eric A. Posner", "E. Glen Weyl"]
+category: books
+stub: false
+excerpt: "Posner & Weyl's 2018 mechanism-design manifesto: its Common Ownership Self-Assessed Tax (COST) extends George's land tax to all property via Harberger self-assessment — a modern descendant that departs from George by taxing capital as well as land. Book summary page; scanned by Hermes at T2."
+authors: [Eric A. Posner, E. Glen Weyl]
 year: 2018
 publisher: "Princeton University Press"
 isbn: "978-0-691-17750-2"
@@ -204,8 +207,8 @@ The COST is presented as resolving all three through its partial (below-100%) ta
 
 ## See Also
 
-- [[books/the-corruption-of-economics]] — Gaffney & Harrison's argument for keeping land separate from capital
-- [[books/land-is-a-big-deal]] — Doucet's modern data-driven Georgist defense
+- [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
+- [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern data-driven Georgist defense
 - [[concepts/land-value-tax]] — The traditional Georgist proposal
 - [[concepts/economic-rent]] — Rent as unearned income from land and natural resources
 - [[concepts/atcor]] — All Taxes Come Out of Rent

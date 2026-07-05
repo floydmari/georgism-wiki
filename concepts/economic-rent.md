@@ -30,11 +30,11 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 
 ## The Neoclassical Redefinition of Rent
 
-Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [[books/the-corruption-of-economics]].
+Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
 
 ## Land as a Share of Modern Wealth
 
-Lars Doucet reports that land constitutes approximately **40% of US household wealth** (citing OECD via Tideman), and 70.9% of urban real estate value in San Francisco (AEI, 2020). In New York City, land accounts for ~93% of total real estate value. Globally, land is ~39% of all real assets (McKinsey, 2021). These figures underscore that land rent — the surplus George and Ricardo identified — remains economically dominant in the modern economy, not a relic of agrarian ages (Doucet, *Land is a Big Deal*, Ch. 14). See [[books/land-is-a-big-deal]].
+Lars Doucet reports that land constitutes approximately **40% of US household wealth** (citing OECD via Tideman), and 70.9% of urban real estate value in San Francisco (AEI, 2020). In New York City, land accounts for ~93% of total real estate value. Globally, land is ~39% of all real assets (McKinsey, 2021). These figures underscore that land rent — the surplus George and Ricardo identified — remains economically dominant in the modern economy, not a relic of agrarian ages (Doucet, *Land is a Big Deal*, Ch. 14). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 
 ## See Also
 
@@ -50,5 +50,5 @@ Lars Doucet reports that land constitutes approximately **40% of US household we
 1. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text](https://www.econlib.org/library/Ricardo/ricP.html)
 2. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
 3. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
-4. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Chs. 1, 7 — used for Pareto's redefinition of rent and the neoclassical merger of land into capital (A-claim). See [[books/the-corruption-of-economics]].
-5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [[books/land-is-a-big-deal]].
+4. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Chs. 1, 7 — used for Pareto's redefinition of rent and the neoclassical merger of land into capital (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
+5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).

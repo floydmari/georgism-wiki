@@ -48,11 +48,8 @@ This sits alongside [Common Wealth Canada's distributional modelling](/wiki/cwc-
 
 ## See Also
 
-<<<<<<< HEAD
 - [Plummer (2010)](/wiki/plummer-lvt-distribution/) — the closest companion distributional study
-=======
 - [England & Zhao (2005), the Dover NH study](/wiki/england-zhao-lvt-distribution/)
->>>>>>> origin/main
 
 - [Land Value Tax](/wiki/land-value-tax/)
 - [A land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)

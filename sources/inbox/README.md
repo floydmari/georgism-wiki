@@ -54,8 +54,15 @@ edits pages. Division of labor, agreed 2026-07-05:
    verifying.
 2. `sources/wanted-books.md` — the book list with wiki targets. **Free/legal copies
    only** (open-access PDFs, publisher-released files, Internet Archive lending,
-   author-hosted copies). No pirated files — deliveries that can't name a legal
-   provenance will be discarded.
+   author-hosted copies, or a copy Floyd verifiably owns). No pirated files —
+   deliveries that can't name a legal provenance will be discarded.
+   **HARD RULE (added 2026-07-06 after two w1 pages named libgen.vg as source):**
+   Library Genesis, Z-Library, Anna's Archive, Sci-Hub and similar shadow-library
+   sources are PROHIBITED as procurement channels, even when the file never touches
+   the repo. Every book page's Origin line must name a legal provenance (owned copy,
+   OA, lending, publisher). Pages sourced from a prohibited channel get a
+   provenance-pending [VERIFY] flag at T1 review and their scan-depth upgrades are
+   frozen until the owner attests a legitimate copy.
 
 ## Delivery format
 

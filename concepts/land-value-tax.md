@@ -37,11 +37,11 @@ The 2011 Mirrlees Review, commissioned by the UK's Institute for Fiscal Studies 
 
 ## Empirical Revenue Estimates
 
-Lars Doucet synthesizes twelve estimation methods in *Land is a Big Deal* (Ch. 14), producing a US total land value range of **$24–$44 trillion** (2020). Converting to annual rents at 5–8% cap rates yields **$1.2–$3.5 trillion per year** — enough to cover defense and Social Security at the low end, or up to 80% of all US government revenue at the high end (Ch. 15). Doucet also notes that land constitutes approximately **40% of US household wealth** (citing OECD via Tideman), making it the largest single asset class in the national balance sheet (Ch. 14). See [[books/land-is-a-big-deal]].
+Lars Doucet synthesizes twelve estimation methods in *Land is a Big Deal* (Ch. 14), producing a US total land value range of **$24–$44 trillion** (2020). Converting to annual rents at 5–8% cap rates yields **$1.2–$3.5 trillion per year** — enough to cover defense and Social Security at the low end, or up to 80% of all US government revenue at the high end (Ch. 15). Doucet also notes that land constitutes approximately **40% of US household wealth** (citing OECD via Tideman), making it the largest single asset class in the national balance sheet (Ch. 14). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 
 ## The Danish Natural Experiment
 
-In 2007, Denmark redrew all municipal boundaries, creating a semi-random shuffling of LVT rates across roughly 250 areas — an exogenous trigger. Høj, Jørgensen, & Schou (2017) found that LVT is **fully capitalized** into property prices: the selling price of land falls proportionately to how much land income is taxed away, confirming that landlords cannot pass the tax on to tenants. Doucet surveys 13+ additional studies with 12 supporting full capitalization (Doucet, *Land is a Big Deal*, Ch. 20). See [[books/land-is-a-big-deal]].
+In 2007, Denmark redrew all municipal boundaries, creating a semi-random shuffling of LVT rates across roughly 250 areas — an exogenous trigger. [Høj, Jørgensen & Schou (2017)](/wiki/dors-land-taxes-housing-prices/) — the DØRS study the wiki carries directly — found that LVT is **fully capitalized** into property prices: the selling price of land falls proportionately to how much land income is taxed away, confirming that landlords cannot pass the tax on to tenants. Doucet surveys 13+ additional studies with 12 supporting full capitalization (Doucet, *Land is a Big Deal*, Ch. 20). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 
 ## Friedman's Endorsement
 
@@ -49,7 +49,7 @@ Milton Friedman called LVT "the least bad tax" — the strongest endorsement fro
 
 ## Modern Extensions: Posner & Weyl's COST
 
-Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radical Markets* (2018, Ch. 1). Their **Common Ownership Self-Assessed Tax (COST)** combines LVT with Harberger self-assessment: possessors declare their asset's value, pay an annual tax on it (~7% for typical assets), and must sell to anyone willing to pay the declared price. Unlike George's 100% land-rent tax, the COST sets the rate below full rent to preserve investment incentives, and extends the tax base beyond land to all property — a departure George himself would have resisted, since he distinguished land (natural, taxable) from "artificial capital" (human-made, exempt). See [[books/radical-markets]].
+Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radical Markets* (2018, Ch. 1). Their **Common Ownership Self-Assessed Tax (COST)** combines LVT with Harberger self-assessment: possessors declare their asset's value, pay an annual tax on it (~7% for typical assets), and must sell to anyone willing to pay the declared price. Unlike George's 100% land-rent tax, the COST sets the rate below full rent to preserve investment incentives, and extends the tax base beyond land to all property — a departure George himself would have resisted, since he distinguished land (natural, taxable) from "artificial capital" (human-made, exempt). See [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/).
 
 ## See Also
 
@@ -68,5 +68,5 @@ Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radica
 2. James Mirrlees et al. (2011), *Tax by Design* (the Mirrlees Review), Institute for Fiscal Studies. [IFS](https://ifs.org.uk/books/tax-design) · [wiki summary](/wiki/mirrlees-review/)
 3. Richard Dye & Richard England (2010), *Assessing the Theory and Practice of Land Value Taxation*, Lincoln Institute. [Report](https://www.lincolninst.edu/publications/policy-focus-reports/assessing-theory-practice-land-value-taxation/)
 4. Robert V. Andelson, ed. (2001), *Land Value Taxation Around the World* — [wiki summary](/wiki/andelson-lvt-around-the-world/), the standard country-by-country reference on how LVT has actually been implemented.
-5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Chs. 14–15, 20 — used for US land value estimates ($24–44T), annual rent estimates ($1.2–3.5T), land as ~40% of household wealth, the Danish natural experiment (Høj et al. 2017), and Friedman's "least bad tax" endorsement (A/B-claim). See [[books/land-is-a-big-deal]].
-6. Eric A. Posner & E. Glen Weyl, *Radical Markets*, Princeton University Press, 2018, Ch. 1 — used for the COST as a modern extension of LVT to all property (A-claim). See [[books/radical-markets]].
+5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Chs. 14–15, 20 — used for US land value estimates ($24–44T), annual rent estimates ($1.2–3.5T), land as ~40% of household wealth, the Danish natural experiment (Høj et al. 2017), and Friedman's "least bad tax" endorsement (A/B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+6. Eric A. Posner & E. Glen Weyl, *Radical Markets*, Princeton University Press, 2018, Ch. 1 — used for the COST as a modern extension of LVT to all property (A-claim). See [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/).
