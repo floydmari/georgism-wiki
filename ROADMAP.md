@@ -29,7 +29,7 @@ only afterward via `scripts/sync_to_ghost.py`.
 | # | Stream | Status |
 |---|--------|--------|
 | WS-infra | Editorial system, lint gate, preview, registry, hooks | ✅ done |
-| WS2 | Narratives layer (12 planned) | 5 shipped; 7 queued (see `narratives/_framework.md`) |
+| WS2 | Narratives layer (12 planned) | ✅ **12/12 shipped 2026-07-05** (`narratives/_framework.md`) |
 | WS3 | Research comprehensiveness (47→100+) | ~76 pages; 50-paper evidence campaign in progress |
 | WS1 | Benefit→research linkage, ≥5 papers per outcome | **43/65 slots; 1/13 outcomes at goal** — active campaign, gauge in `lint_wiki.py` |
 | WS6 | Concepts expansion (22→40+) | queued |
@@ -37,7 +37,7 @@ only afterward via `scripts/sync_to_ghost.py`.
 | WS8 | Claim-level citation retrofit of legacy pages | queued (`[CITE]` tasks) |
 | WS4/7 | Full cross-link graph, UX polish, `last_reviewed` everywhere | orphans 0 as of wave 3; rest queued |
 
-Success metrics: articles 139→300+ (now 176), research 47→100+ (now ~76), narratives 0→12 (now 5),
+Success metrics: articles 139→300+ (now 240), research 47→100+ (now ~85), narratives 0→12 (✅ 12),
 outcomes each ≥5 supporting papers, zero fabricated citations ever (enforced by
 `[CITATION NEEDED]`/`[VERIFY]` discipline + lint).
 

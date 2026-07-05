@@ -1,29 +1,35 @@
 # BACKLOG.md — Wiki Improvement Queue
 
-## ⟳ RESUME HERE (checkpoint 2026-07-04, EVIDENCE CAMPAIGN COMPLETE — 14/14)
-State: 227 pages, lint green (0 errors), **COVERAGE 14/14 outcomes ≥5 supporting papers — the
-50-paper campaign's termination condition was reached 2026-07-04** (was 1/13 at wave-2 checkpoint).
-Also done that day: Task 0 DISCOVERY-SWEEP (10 report-only agents over the whole corpus → 29
-candidates → 20 sourced stubs created + 10 rejected-with-reason), the 14th outcome
-(corporate-profits-increasingly-rents, T1-written), first flywheel BACKFILL round
-(homer-hoyt, vancouver done; david-lloyd-george verify), registry 193→~228 rows, Drive snapshot
-"Georgism Wiki — Source Registry (git sync 2026-07-04)". Branch claude/wiki-improvement-w5; PR open.
+## ⟳ RESUME HERE (checkpoint 2026-07-05, WS2 NARRATIVES COMPLETE — 12/12)
+State: 240 pages, lint green (0 errors), COVERAGE 14/14. **All twelve narratives are now shipped**
+(2026-07-05 session: 7 written T1-direct — single-tax, community-creates-land-value,
+housing-crisis-is-a-land-crisis, citizens-dividend, ecological-rent, the-corruption-of-economics,
+the-great-land-robbery) plus 4 prerequisite research pages (barnes-who-owns-the-sky,
+fairlie-enclosure-history, blaug-henry-george-rebel [the anti-Gaffney counter-source],
+song-zenou-property-tax-sprawl). Registry ~231→260 rows. Branch
+claude/georgism-wiki-campaign-xz5anj (note: earlier w5 branch/PR were merged as PR #3; this is the
+successor working branch).
+
+Environment notes for successors: (a) no local ollama/GLM in this container — T1/T2 work runs on
+Claude; volume drafting via subagents, max 3-4 concurrent; (b) the egress proxy 403s most direct
+fetches — forage agents corroborate via WebSearch snippets and pages ship conservative at Light
+scan with [VERIFY] flags; (c) this session's WebSearch quota ran out mid-session — budget searches.
 
 A fresh session resumes with, in order:
-1. `git status` + lint (all three first-round backfills are done: homer-hoyt, vancouver, david-lloyd-george).
-2. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (18 stubs remain), run top
-   3-5 [BACKFILL]s per wave, harvest DISCOVERED candidates into new stubs. STUBS gauge in lint.
-3. Remaining evidence depth (queue below): the 8 unchecked tech-rents papers (korinek-ng,
-   haskel-westlake, zingales, akcigit-ates, rochet-tirole, data-as-labor, hazlett, cea-2016) enrich
-   the new outcome beyond 5; Follow-ups section (esp. loffler-siegloch and england-zhao — HONEST
-   COUNTER-EVIDENCE pages the outcomes need for NPOV); hilber-vermeulen (affordability margin);
-   davis-heathcote (capitalization margin).
-4. Next structural work per ROADMAP: WS2 narratives (7 remaining), WS6 concepts expansion (queue in
-   Phase 1), WS8 [CITE] retrofit (Phase 3), staleness sweep (BC SVT rates follow-up).
-5. Per-wave wrap-up unchanged: registry flip in-iteration → Sheet snapshot (mandatory-loud, one
-   [SHEET-SYNC] todo is pending) → LOOPLOG → preview rebuild + artifact redeploy (same URL:
+1. `git status` + lint.
+2. **Floyd's new site-scan queue** (Comprehensiveness section below): citdiv.org + all of
+   progress.org except /wiki/. Survey pass first; needs web access.
+3. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (17 stubs), run top 3-5
+   [BACKFILL]s per wave — john-bates-clark and fire-sector now have narrative dependencies live.
+4. Remaining evidence depth (queue below): 8 unchecked tech-rents papers; loffler-siegloch and
+   england-zhao counter-evidence pages; hilber-vermeulen; davis-heathcote.
+5. WS8 [CITE] retrofit (Phase 3), staleness sweep (BC SVT rates follow-up), WS6 concepts.
+6. Per-wave wrap-up unchanged: registry flip in-iteration → Sheet snapshot (mandatory-loud; TWO
+   [SHEET-SYNC] todos now pending) → LOOPLOG → preview rebuild + artifact redeploy (same URL:
    https://claude.ai/code/artifact/71d156a4-a38a-4de8-be83-4e3ef69df163). Ghost publish still
    gated on GHOST_ADMIN_KEY (1Password service token) — everything stays commit-only until then.
+7. **Wanted-books channel**: sources/wanted-books.md lists ~20 books awaiting e-copies from Floyd;
+   when one lands, spawn its [DEEPEN-SCAN] and upgrade the citing pages past Light.
 
 Wiring conventions proven this campaign (keep following): supports_outcomes only when honestly
 earned (null results get [], e.g. gemmell; context-only sources get [], e.g. piketty); counter
@@ -50,24 +56,47 @@ narratives 0→12+, thin→0, claim-level citations→100%, cross-links 3+out/2+
 - [x] [BULK] tier:T3 status:done — sync_to_ghost.py narratives category; .gitignore; narratives/ dir
 - [x] [DESIGN] tier:T1 status:done — LOOP.md tier-aware loop prompt
 
-## Standing rule — Google Sheet mirror of the source registry
-Any task that edits `sources/registry.csv` must sync the master Google Sheet per LOOP.md step 3
-(export via `scripts/export_registry_for_sheet.py`, then Drive snapshot or a loud [SHEET-SYNC] task
-here). Last synced: **2026-07-03 (wave 3 delta pushed same day)** — full snapshot "Georgism Wiki — Source Registry (git sync 2026-07-03)" + delta sheet "Wave 3 delta"
-created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED from loops 1–7).
+## Standing rule — registry mirrors (GitHub exports + Google Sheet)
+Any task that edits `sources/registry.csv` must, per LOOP.md step 3: (1) run
+`scripts/export_registry_for_sheet.py` and **commit the dated export to
+`sources/exports/registry-export-YYYY-MM-DD.csv`** (the definitive, GitHub-viewable snapshot —
+Floyd's request 2026-07-05; GitHub renders CSVs as sortable tables), AND (2) push a Drive snapshot
+spreadsheet (or leave a loud [SHEET-SYNC] task here if Drive is unreachable).
+Last synced: **2026-07-05** — repo export `sources/exports/registry-export-2026-07-05.csv` + Drive
+snapshot "Georgism Wiki — Source Registry (git sync 2026-07-05)" (259 rows, 29 NEW in Δ column;
+covers the previously-pending wave-D delta).
 - [ ] [SHEET-SYNC] tier:T3 status:todo — durable write-back: once a Google service-account JSON is
       in the Emma vault (per the 1Password/op plumbing) and the master Sheet is shared with that
       service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
       Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
 
 - [x] [SHEET-SYNC] done 2026-07-04 — full snapshot "Georgism Wiki — Source Registry (git sync 2026-07-04)" pushed to Floyd's Drive (215 rows, Δ 23 NEW + 3 UPDATED vs main).
-- [ ] [SHEET-SYNC] tier:T3 status:todo — ~13 wave-D rows (Arnott, Kanemoto, Herkenhoff, Goldsmith, Carroll-Yinger, Franzsen, Furman, Barkai, Philippon, Eeckhout, Crouzet, Piketty + IMF row fix) added AFTER the 2026-07-04 snapshot — push a fresh export next iteration
+- [x] [SHEET-SYNC] done 2026-07-05 — wave-D delta + this session's 29 new rows all covered by the 2026-07-05 full snapshot (Drive + repo export in sources/exports/).
 
 ## Comprehensiveness loop (LOOP-COMPREHENSIVENESS.md — invokable audit, separate from the main loop)
 comprehensiveness watermark: 0 external-source rows (never run — first invocation 2026-07-04 in progress)
 - [ ] [COMPREHENSIVENESS-SWEEP] tier:T2 status:in-progress — first full sweep of all 136 external
       registry sources (13 batches; prepass: 42 author candidates, 46 under-mined sources).
       On completion: T1 triage -> stubs -> Phase 3 content development -> update watermark here.
+
+### Site-scan queue (added by Floyd 2026-07-05 — whole-site ingest targets)
+- [ ] [SCAN] tier:T2 status:todo — **https://citdiv.org/** — full-site scan: survey pass first
+      (site not yet inspected — this session's web quota ran out before it could be fetched), then
+      extract citable claims/sources, add registry rows, create/extend pages, harvest DISCOVERED
+      candidates into stubs.
+- [ ] [SCAN] tier:T2 status:todo — **progress.org, ALL sections EXCEPT /wiki/** (the wiki is this
+      repo's own output — do not re-ingest it). Articles, archives, static pages. Survey pass to
+      map sections, then batch the extract→register→stub pipeline.
+- FUTURE LOOPS (queued by Floyd — do NOT scan yet): **gameofrent.com** (Lars Doucet) and the
+      **Progress and Poverty Substack** — to be addressed in later loops.
+
+### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
+- [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because
+      no free e-copy is reachable from this environment (proxy blocks archive.org lending too).
+      Each unblocks as Floyd supplies an electronic version; spawn one [DEEPEN-SCAN] per title as
+      copies land. Top of the list: The Corruption of Economics (full book), Who Owns the Sky,
+      England's Land and Liberty (2023), Harrison's Power in the Land / Boom Bust,
+      Rethinking the Economics of Land and Housing.
 
 ## Stub queue (flywheel intake — stubs created at discovery, ranked by [PRIORITIZE])
 - [ ] [PRIORITIZE] tier:T1 status:recurring — each wave: rank stubs below by (a) inbound-link

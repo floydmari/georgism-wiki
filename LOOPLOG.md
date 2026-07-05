@@ -186,3 +186,55 @@ edit sets per agent worked with zero conflicts across ~45 agents.
 
 Update this log at the end of each loop (or wave) so the descriptive record stays in step with
 `git log`.
+
+---
+
+## 2026-07-05 — WS2 completion wave (narratives 5/12 → 12/12) + Floyd's scan-queue & export-policy changes
+
+**Environment:** fresh remote container on branch `claude/georgism-wiki-campaign-xz5anj` (successor
+to the merged w5/PR-#3 line). No local ollama/GLM here — all drafting was T1-direct (Fable), with
+3 concurrent Claude forage subagents for web verification. Egress proxy 403'd nearly every direct
+fetch; all three foragers fell back to multi-source WebSearch corroboration (4-6 independent
+snippets per claim, exact-phrase matches for quotes). Session WebSearch quota ran out mid-wave.
+
+**Shipped (3 commits):**
+1. Four well-evidenced narratives, T1-written per the unearned-increment exemplar:
+   single-tax-narrative, community-creates-land-value, the-housing-crisis-is-a-land-crisis,
+   citizens-dividend-narrative. Inbound links wired from concept twins + outcome pages.
+2. The three source-gap narratives + their prerequisite research pages:
+   ecological-rent ← barnes-who-owns-the-sky + song-zenou-property-tax-sprawl;
+   the-corruption-of-economics ← blaug-henry-george-rebel (the anti-Gaffney counter-source);
+   the-great-land-robbery ← fairlie-enclosure-history (with Clark & Clark 2001 revisionist
+   counter-evidence on the same page). **WS2 COMPLETE: 12/12.** Registry +29 rows (~231→260).
+3. Wrap-up: BACKLOG resume block, ROADMAP WS2 ✅, sheet snapshot, this entry.
+
+**Honesty calls this wave:**
+- All fetch-blocked sources shipped at Scan Depth **Light** with explicit verification notes;
+  [VERIFY] flags left where a primary read is still needed (Barnes free-copy, Blaug names-Gaffney
+  question, Milgate page numbers, Paine URL).
+- Forager corrected the brief's numbers before they entered the wiki: Fairlie says ONE SIXTH of
+  England (not one-fifth — that figure is UK Parliament's, different period/definition); the 2019
+  carbon-dividend statement is 3,500+/27 Nobels (not 3,600/28); both distinctions are cited to
+  their actual sources.
+- Song & Zenou is property-tax (not LVT) anti-sprawl evidence — its page and the ecological
+  narrative both state the mechanism difference explicitly; never cite interchangeably with
+  Banzhaf & Lavery.
+- the-great-land-robbery opens by acknowledging Newkirk's 2019 Atlantic use of the title and
+  draws the rent-capture-is-not-land-back line explicitly.
+- supports_outcomes kept honest: Barnes/Fairlie/Blaug/Song-Zenou all ship with
+  supports_outcomes:[] (proposal, history, historiography, adjacent-mechanism evidence).
+
+**Floyd's mid-session directives (both queued in BACKLOG):**
+- Site-scan queue: citdiv.org + all of progress.org except /wiki/; gameofrent.com and the
+  Progress & Poverty Substack explicitly deferred to future loops.
+- Wanted-books channel created: `sources/wanted-books.md` (~20 titles, tiered, each with its wiki
+  target) — unblocks as e-copies arrive.
+- NEW STANDING RULE: dated registry exports now COMMIT to `sources/exports/` (GitHub-viewable,
+  definitive) in addition to the Drive snapshot. First one: registry-export-2026-07-05.csv.
+
+**Registry:** ~231→260 rows. Drive snapshot "Georgism Wiki — Source Registry (git sync 2026-07-05)"
+pushed (259 data rows, 29 NEW in Δ column; also covers the previously-pending wave-D delta).
+
+**Next wave:** Floyd's site scans (needs web quota), stub backfills (john-bates-clark and
+fire-sector now have live narrative dependencies), WS8 [CITE] retrofit, comprehensiveness sweep
+completion.
