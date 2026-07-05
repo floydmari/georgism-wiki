@@ -16,7 +16,7 @@ George was not proposing a modest land tax as one element of a diversified tax s
 
 The Single Tax movement emerged in the 1880s and reached its peak influence in the 1890s and early 1900s. It attracted followers across the political spectrum — labour unionists who saw it as a path to higher wages, libertarians who saw it as the only just tax, and progressives who saw it as a tool against concentrated wealth.
 
-Key figures in the American movement included **Tom L. Johnson**, mayor of Cleveland (1901–1909) and a significant political reformer; **Joseph Fels**, a soap manufacturer who funded Single Tax campaigns in the US and UK; and **Louis Post**, who served as assistant secretary of labour under Woodrow Wilson.
+Key figures in the American movement included **Tom L. Johnson**, mayor of Cleveland (1901–1909) and a significant political reformer; **[Joseph Fels](/wiki/joseph-fels/)**, a soap manufacturer who funded Single Tax campaigns in the US and UK; and **Louis Post**, who served as assistant secretary of labour under Woodrow Wilson.
 
 In Britain, the movement intersected with Liberal Party politics. **David Lloyd George's** 1909 "People's Budget" included a land value duty, which passed the Commons but was blocked by the House of Lords in a constitutional crisis.
 

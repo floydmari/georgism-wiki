@@ -25,4 +25,4 @@ Capitalization explains several core features of land value taxation:
 
 ## Sources
 
-1. Standard public-finance treatment of property-tax capitalization; see [Dye & England (2010)](/wiki/dye-england-assessing-lvt/).
+1. Standard public-finance treatment of property-tax capitalization — used for the mechanism (A-claim); see [Dye & England (2010)](/wiki/dye-england-assessing-lvt/) for the LVT application and [Oates (1969)](/wiki/oates-1969-capitalization/) for the founding empirical test.

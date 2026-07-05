@@ -34,6 +34,6 @@ Winston Churchill made a memorable version of this argument in a 1909 speech: *"
 
 ## Sources
 
-1. John Stuart Mill (1848), *Principles of Political Economy* — origin of the "unearned increment." [Full text](https://www.econlib.org/library/Mill/mlP.html)
-2. Winston Churchill (1909), speech on the land monopolist ("the People's Budget" debates).
-3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+1. John Stuart Mill (1848), *Principles of Political Economy* — used for the term's origin and Mill's taxation proposal (A-claims). [Full text](https://www.econlib.org/library/Mill/mlP.html)
+2. Winston Churchill (1909), land-monopolist speech (the [People's Budget](/wiki/1909-peoples-budget/) debates) — used for the quoted passage (A-claim; quote ≤50 words).
+3. Henry George (1879), *Progress and Poverty* — used for the Georgist radicalization of Mill's idea (A-claim). [wiki summary](/wiki/progress-and-poverty/)

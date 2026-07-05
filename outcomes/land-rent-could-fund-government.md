@@ -48,6 +48,9 @@ table's other attributed aggregations.
 
 ## See Also
 
+- [Tideman, Kumhof, Hudson & Goodhart (2021)](/wiki/tideman-kumhof-hudson-goodhart-super-stimulus/) — the macro-model tax-shift case (stub, pending full read)
+- [Dwyer (2003), Taxable Capacity of Australian Land](/wiki/dwyer-taxable-capacity-australia/) — the national calculation (stub, pending full read)
+
 - [World Bank, The Changing Wealth of Nations 2021](/wiki/world-bank-changing-wealth/) — wealth-accounting scale evidence
 
 - [ATCOR](/wiki/atcor/) · [Single Tax](/wiki/single-tax/) · [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)

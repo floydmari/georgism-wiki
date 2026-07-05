@@ -35,5 +35,5 @@ Land monopoly has direct implications for housing affordability. When land in de
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-2. Henry George (1883), *Social Problems* — George's accessible follow-up on land monopoly.
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) — used for the concept's definition and the monopoly framing (A-claims).
+2. Henry George (1883), *Social Problems* — used for George's popular restatement of the land-monopoly argument (A-claim). [wiki summary](/wiki/social-problems/)

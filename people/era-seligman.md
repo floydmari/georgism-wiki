@@ -13,7 +13,7 @@ Edwin R. A. Seligman (1861–1939), professor of political economy at Columbia, 
 the leading American public-finance economist of his generation; his *The Shifting
 and Incidence of Taxation* (1899, 2nd ed. 1902) founded the systematic study of who
 actually bears a tax.[1] He was also the **single tax's most formidable academic
-critic**: he addressed the famous single-tax discussion at Saratoga (September
+critic**: he addressed the famous [single-tax debate at Saratoga](/wiki/saratoga-single-tax-debate/) (September
 1890) opposite [Henry George](/wiki/henry-george/)'s position, and his incidence
 framework became the professional lens through which
 [the movement's claims](/wiki/single-tax-narrative/) were judged.[1][2] The wiki's

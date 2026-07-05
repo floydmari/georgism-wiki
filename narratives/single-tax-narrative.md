@@ -36,7 +36,7 @@ vulnerability lie.
   major-city ballot and outpolled Theodore Roosevelt.
 - **The movement it built.** [Tom L. Johnson](/wiki/tom-l-johnson/) governed Cleveland
   (1901–1909) as an avowed single-taxer; soap magnate Joseph Fels bankrolled campaigns
-  on two continents; Louis Post carried the idea into the Wilson administration.
+  on two continents; [Louis Post](/wiki/louis-f-post/) carried the idea into the Wilson administration.
   Christopher England's scholarly history dates the movement's peak influence to the
   1890s–1910s Progressive Era.[2]
 - **International admirers.** [Leo Tolstoy](/wiki/leo-tolstoy/) promoted George's

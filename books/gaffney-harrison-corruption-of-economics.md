@@ -98,7 +98,7 @@ Gaffney identifies nine constructive reconciliations in George's reform proposal
 1. **Academic firings:** Allen Eaton (Oregon), Elisha Andrews (Brown), Scott Nearing (Pennsylvania/Wharton) — all fired for Georgist sympathies
 2. **AEA capture:** Founded in 1885 by George's personal adversaries (Walker, [Clark](/wiki/john-bates-clark/), [Seligman](/wiki/era-seligman/), [Ely](/wiki/richard-t-ely/)) with an undemocratic Council "to prevent our organization from being captured by some economic sect or group of reformers"
 3. **University patronage:** Clark recruited to Columbia by Seth Low (George's political opponent); Gilman's network controlling Hopkins
-4. **Funded institutes:** Ely's Institute for Research in Land Economics, funded by railroads and NAREB, attacked the Ralston-Nolan federal land tax bill (1919–24)
+4. **Funded institutes:** Ely's Institute for Research in Land Economics, funded by railroads and NAREB, attacked the [Ralston-Nolan federal land tax bill](/wiki/ralston-nolan-bill/) (1919–24)
 5. **Textbook dominance:** Ely's *Outlines of Economics* was "the bread-and-butter text from 1893 to about 1930"
 6. **The Great Red Scare (1919–89):** "George's ideas and the allied Progressive Movement fell, not from failure to deliver, but to the Great Marathon Red Scare"
 

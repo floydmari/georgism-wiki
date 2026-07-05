@@ -45,4 +45,4 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty*. [Full text online](https://www.henrygeorge.org/pcontents.htm)
-2. Authoritative editions published by the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/).
+2. Authoritative editions published by the [Robert [Schalkenbach](/wiki/robert-schalkenbach-foundation/) Foundation](/wiki/schalkenbach-foundation/).

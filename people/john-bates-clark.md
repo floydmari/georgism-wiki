@@ -84,6 +84,8 @@ set the terms on which George was forgotten, whatever the motive.
 
 ## See Also
 
+- [The Saratoga Single Tax Debate (1890)](/wiki/saratoga-single-tax-debate/) — his in-person confrontation with George
+
 - [Narrative: The Corruption of Economics](/wiki/the-corruption-of-economics/) — the contested history in which Clark is the central figure
 - [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/) — Gaffney's case
 - [Blaug: Henry George — Rebel with a Cause](/wiki/blaug-henry-george-rebel/) — the mainstream counter-source

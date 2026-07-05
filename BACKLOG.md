@@ -294,7 +294,22 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       standalone page warranted); Tanaka Building a New Japan, Gilder, Bartlett, Lipsey,
       Rothbard-For-a-New-Liberty (mentioned-in-passing, <2 inbound-demand pages); Smith/Marx/
       Ricardo/Keynes core texts (already covered by existing people/concept pages).
-      REMAINING: reports for corruption-of-economics, land-is-a-big-deal, rethinking,
+      WAVE 2 DONE 2026-07-06 (quota 7/8): from corruption-of-economics report — people/
+      louis-f-post, people/joseph-fels, organizations/robert-schalkenbach-foundation,
+      events/saratoga-single-tax-debate, events/ralston-nolan-bill; from land-is-a-big-deal
+      report — research/tideman-kumhof-hudson-goodhart-super-stimulus + research/
+      dwyer-taxable-capacity-australia (both de-reference Doucet Ch. 14-16 cites).
+      ROUTED not stubbed: Doucet Ch. 21's capitalization-studies cluster -> task below.
+      REJECTED with reasons: Haymarket/Berlin Wall/GI Bill/LA riots (context events, <2
+      demand); most corruption-report places (existing pages cover or <2 demand); concepts
+      wax-works/engine-oil (metaphors, not mechanisms); Grant/Knight objection variants
+      (covered by existing objection pages + book page's counter-claims table).
+- [ ] [DRAFT] tier:T2 status:todo — landlords-outcome de-referencing cluster from Doucet
+      Ch. 21 (Borge-Rattso Norway; Capozza-Green-Hendershott; Hilber 2017 synthesis;
+      Buettner Germany; Choi-Sjoquist 2015): one research page each as evidence depth for
+      landlords-cannot-pass-lvt-to-tenants (already 7 supports; these complete the survey).
+      Oates 1969 + Palmon-Smith + Mills already covered.
+      REMAINING: reports for corruption-of-economics (DONE), land-is-a-big-deal (DONE), rethinking,
       economic-theory-in-retrospect, boom-bust, ricardos-law, anderson, patel — next waves.
       Original task: triage the 10 DISCOVERY-*.report.md files from Hermes w1
       (sources/inbox/): accept→stubs per EDITORIAL stub standard + registry rows,
