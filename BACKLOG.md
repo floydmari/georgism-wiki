@@ -145,10 +145,7 @@ comprehensiveness watermark: 136 external-source rows (first invocation complete
       item. UNBLOCK: Floyd downloads the eBook and drops it in the repo/Drive, OR the egress
       proxy allowlists citdiv.org + realestate.propertysharemarketeconomics.com. Then: sitemap
       fetch → 2 articles + eBook + category archives.
-- NOTE against the standing rejection of people/phillip-j-anderson ("sourcing thin — do not
-      re-propose without new evidence"): founding citdiv.org IS new evidence of Georgist advocacy
-      (X: @citdiv, founded Feb 2022), but it is all self-published/level-6 — the rejection STANDS
-      until independent coverage exists.
+- NOTE: people/phillip-j-anderson — rejection OVERRIDDEN 2026-07-05. Anderson is author of a wiki book (Secret Life of Real Estate), cited by Patel, runs PSE + citdiv.org. People page created with publisher, PSE, and citdiv.org sources.
 - [ ] [DRAFT] tier:T2 status:todo — research/raley-citizens-dividend candidate: Bill Raley, "The
       Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;
       verify author/venue/content before drafting; would give the citizens-dividend concept page
@@ -220,7 +217,7 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [x] [BACKFILL] tier:T2 status:done — charles-tiebout, murray-rothbard (wave 3); michael-davitt, l-d-taylor (wave 4); events/irish-land-war, organizations/fairhope-single-tax-corporation (GLM wave 4); holdout-problem + production-boundary (waves 3-4)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/radical-markets, concepts/land-value-increment-tax
-Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson (sourcing thin), Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
+Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson ✓ created 2026-07-05, Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
 Standard task file: `tasks/research-page-task.md`. Format: slug — Author Year *Title* (tier) → supports_outcomes.
