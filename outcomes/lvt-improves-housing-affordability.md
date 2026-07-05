@@ -24,6 +24,8 @@ Land value taxation can improve housing affordability by discouraging [speculati
 
 ## See Also
 
+- [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
+
 - [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) · [Speculative Vacancy](/wiki/speculative-vacancy/) · [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/)
 
 ## Sources
