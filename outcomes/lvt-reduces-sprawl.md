@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, sprawl, density, split-rate, land-use, empirical]
 stub: false
 evidence_strength: "Weak–moderate (single direct study showing density increase; authors explicitly decline to claim sprawl reduction)"
-supported_by: [banzhaf-lavery-pa-sprawl]
+supported_by: [banzhaf-lavery-pa-sprawl, tomson-estonia-lvt, brueckner-site-value-taxation]
 related_places: [pennsylvania, pittsburgh, harrisburg-pennsylvania]
 excerpt: "Split-rate taxation increases housing density in the locations where it is applied — the mechanism anti-sprawl arguments predict — but whether this reduces sprawl at the metropolitan level depends on where the tax is adopted."
 last_reviewed: 2026-07-05
@@ -22,9 +22,15 @@ This connects to broader Georgist concerns about [land speculation](/wiki/land-s
 
 ## The Evidence
 
-| Study | Setting | What they found |
-|-------|---------|-----------------|
-| [Banzhaf & Lavery (2010)](/wiki/banzhaf-lavery-pa-sprawl/) | Pennsylvania Census tracts, 1970–2000 | Split-rate adoption raises the capital/land ratio mainly through **more housing units** (4–5 pp/decade relative to controls), not bigger ones; effect concentrated in **multi-unit structures** (5+ units: ~12–22 pp increase); effect on detached single-family houses **negative** (not significant) |
+The evidence is best read in three tiers — theory, direct LVT evidence, and
+adjacent property-tax evidence — which should not be conflated:
+
+| Tier | Study | Setting | What they found |
+|------|-------|---------|-----------------|
+| Theory | [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) | General-equilibrium model | The canonical result: shifting tax from improvements to site value **raises capital intensity** (development per unit of land) — the density mechanism the anti-sprawl argument rests on |
+| Direct (density channel) | [Banzhaf & Lavery (2010)](/wiki/banzhaf-lavery-pa-sprawl/) | Pennsylvania Census tracts, 1970–2000 | Split-rate adoption raises the capital/land ratio mainly through **more housing units** (4–5 pp/decade relative to controls), not bigger ones; effect concentrated in **multi-unit structures** (5+ units: ~12–22 pp increase); effect on detached single-family houses **negative** (not significant) |
+| Direct (cross-city comparison) | [Tomson (2016)](/wiki/tomson-estonia-lvt/) | Tallinn (pure land tax since 1993) vs Riga | **Higher inner-city density and more construction** under the land-only tax — suggestive rather than definitive, as the cities differ in other ways |
+| Adjacent (property tax) | [Song & Zenou (2006)](/wiki/song-zenou-property-tax-sprawl/) | US urbanized areas, 2000 | Higher *conventional property* taxes associated with **smaller urban footprints** — anti-sprawl in direction, but via a partly opposite mechanism (discouraging structures), so it is cited here as adjacent context, not as LVT evidence, and is deliberately not wired as a supporting paper |
 
 Banzhaf & Lavery's distinctive contribution is their **decomposition** of the improvement effect into a density channel and a dwelling-size channel. Using decade-over-decade Census data at the tract level, they find that the increase in total rooms per unit of land area (5–6 percentage points over two decades) is driven overwhelmingly by **more housing units**, while the effect on rooms per dwelling unit is small and statistically insignificant in most specifications. Construction of multi-unit structures with five or more dwelling units rises sharply; detached single-family construction does not. This is the pattern an anti-sprawl mechanism would predict: denser infill, not larger houses on the same lots.
 
