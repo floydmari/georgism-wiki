@@ -1,4 +1,12 @@
-# sources/inbox/ — Hermes delivery protocol (evidence courier lane)
+# sources/inbox/ — Hermes delivery protocol (the Fact-Check Desk's field agent)
+
+> **The mission you are working for:** the definitive, honest reference on Georgism and land
+> value taxation (progress.org/wiki) — every claim cited, every counterargument steelmanned,
+> every important source read and mined. Your environment (unblocked web + Floyd's book
+> library) can resolve the fact-checks this repo's environment cannot: your standing
+> assignment is **`sources/hermes-workorder.md`** (auto-generated each shift from the
+> verification queue), plus book scans from `sources/wanted-books.md`. Accuracy beats
+> coverage: a CORRECTED or NOT-FOUND verdict is as valuable as a CONFIRMED one.
 
 > **UPDATE 2026-07-05 (Floyd's authorization):** Hermes is promoted to running FULL
 > DRAFT-loop iterations — it edits wiki pages directly on its own `hermes/*` branch

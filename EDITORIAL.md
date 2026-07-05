@@ -1,6 +1,18 @@
 # EDITORIAL.md — The Wiki Constitution
 
-This is the single source of editorial truth for the Georgism wiki. Every model and
+## §0 The Mission (canonical statement — quoted by every executor prompt)
+
+> We are building **the definitive, honest reference on Georgism and land value
+> taxation** — the source of truth behind progress.org/wiki. A reader starting from any
+> question — *does a land tax get passed on to renters? can land even be assessed? who
+> fought Henry George and why?* — should find the strongest available evidence, the
+> strongest counterargument, and the primary sources, all cited. The wiki grows by
+> **finding** the literature, **reading and mining** every source it touches,
+> **synthesizing** what the sources collectively show into its argument pages, and
+> **verifying** relentlessly — every claim we couldn't confirm says so, visibly, on the
+> page.
+
+This file is the single source of editorial truth for that mission. Every model and
 human editing this repo must follow it. It is written to be **self-contained**: a model
 with only this file, repo read access, and web search can produce compliant work.
 

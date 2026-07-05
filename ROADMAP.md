@@ -6,6 +6,9 @@ an iteration) and `EDITORIAL.md` (content rules).
 
 ## Vision
 
+(Canonical short form: EDITORIAL.md §0 — quoted by every executor prompt so all models,
+Claude or otherwise, work from the same mission.)
+
 Make progress.org/wiki the definitive, Wikipedia-quality reference for the Georgist ecosystem.
 A reader can: (1) click any **benefit** and see every study that supports *or challenges* it,
 inline-cited; (2) browse the persuasive **narratives** for LVT and see which have research

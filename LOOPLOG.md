@@ -508,3 +508,17 @@ discovery reports sit untriaged; ≤8 stubs/shift; accept bar ≥2 demanding pag
 name-variant grep before creating people pages (lesson: today's richard-ely duplicate of
 richard-t-ely — merged, my wave-1 corroboration resolved 4 of the old page's open
 fact-checks, duplicate deleted, links repointed).
+
+---
+
+## 2026-07-06e — Mission framing propagated into every executor prompt (Floyd's ask)
+
+The reframe now reaches the prompts the models actually consume, not just LOOP.md:
+EDITORIAL.md gains §0 The Mission (canonical statement); llm_worker.py + glm_draft_worker.py
+system prompts open as "staff writer on the research desk building the definitive, honest
+reference…"; comprehensiveness_sweep_glm.py opens with the source-isn't-done-until-mined rule;
+tasks/research-page-task.md re-titled as the READ & MINE step; tasks/backfill-page-task.md as
+the EXPAND/BUILD OUT step; sources/inbox/README.md (Hermes's contract) opens with the mission
++ its standing assignment (the auto-generated work order); BACKLOG header states what the
+queue is FOR; ROADMAP points at §0 as the canonical short form. One mission, quoted
+everywhere — no executor works from process jargon alone.

@@ -1,5 +1,9 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+*(The work queue for the mission in EDITORIAL.md §0: the definitive, honest reference on
+Georgism and LVT. Tasks are the FIND / READ & MINE / SYNTHESIZE / VERIFY / EXPAND motions of
+LOOP.md, tier-tagged by role: T1 editor · T2 staff writers · T3 copy desk.)*
+
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
 HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,
 Anderson Secret Life of Real Estate, Patel Secret Wealth Advantage) → 4 new research pages +
