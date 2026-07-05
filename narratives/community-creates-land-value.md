@@ -1,145 +1,214 @@
 ---
 title: "Narrative: The Community Creates Land Value"
 category: narratives
-tags: [narratives, moral, land-value-capture, capitalization, henry-george-theorem, infrastructure]
-narrative_type: moral
-supported_by: [public-investment-capitalizes-into-land, public-goods-fundable-from-land-rent, land-rent-could-fund-government]
-related_people: [henry-george, joseph-stiglitz, ebenezer-howard, william-vickrey]
-related_places: [hong-kong, singapore]
+tags: [narratives, moral-argument, land-value-capture, capitalization, henry-george-theorem, public-investment]
 stub: false
-excerpt: "Location value is produced by the surrounding community and by public investment — the subway, the school, the neighbors — not by the titleholder. Recovering it for public use is not taking; it is returning value to the people who created it."
+excerpt: "The forward-looking fiscal case that location value is produced by public investment and the surrounding community — so recovering it for public use returns value to those who created it. The evidence, the limits of the Henry George Theorem, and how to deploy the story."
+narrative_type: moral
+supported_by: [public-investment-capitalizes-into-land, public-goods-fundable-from-land-rent]
+related_people: [henry-george, joseph-stiglitz, ebenezer-howard, winston-churchill]
+related_places: [hong-kong, denmark]
 last_reviewed: 2026-07-05
 ---
 
+*This narrative is the forward-looking twin of the
+[unearned-increment narrative](/wiki/unearned-increment-narrative/): that one argues it
+is unfair for owners to keep community-created gains; this one argues those gains are a
+natural public revenue. For the policy family, see
+[Land Value Capture](/wiki/land-value-capture/).*
+
 ## Core Claim
 
-The value of a location is created by everything *around* it — public infrastructure,
-schools, safety, and the presence and productivity of the surrounding community — and
-almost never by anything the landowner did to the unimproved site. When a city builds a
-subway stop, nearby land values rise before the owner lifts a finger. The narrative's
-conclusion: capturing that value for public use is not confiscation but **restitution to
-its creators** — "who paid for the subway that raised that lot's value?"
-
-This is the forward-looking, finance-the-city twin of the
-[unearned increment narrative](/wiki/unearned-increment-narrative/): that one asks who
-*deserves* past land gains; this one asks who should pay for the public investments that
-create future ones.
+A parcel of urban land is valuable because of what surrounds it — streets, transit,
+schools, safety, customers, workers, neighbours — none of which its owner produced.
+The narrative holds that location value is a *joint product of the community*, and
+that recovering it through a [land value tax](/wiki/land-value-tax/) or
+[land value capture](/wiki/land-value-capture/) is not redistribution but a return of
+value to its makers: the public that built the infrastructure and the neighbours whose
+presence gives the site its worth. Where the unearned-increment version argues
+backward from fairness, this version argues forward to finance: *the community can
+fund what it builds from the land value that building creates.*
 
 ## Who Promotes It
 
-- [Henry George](/wiki/henry-george/) made community-created value the moral core of
-  *Progress and Poverty* (1879): the growth of the community, not the owner's effort,
-  raises land values.[1]
-- [Joseph Stiglitz](/wiki/joseph-stiglitz/) gave it a formal fiscal expression: under the
-  [Henry George Theorem](/wiki/henry-george-theorem/), in an optimally sized city
-  aggregate land rents exactly equal spending on the public goods that generate them —
-  public investment literally *becomes* land value.[2]
-- [Ebenezer Howard](/wiki/ebenezer-howard/) built the Garden City movement on collective
-  ownership of the uplift the town itself would create.
-- Institutionally, the [Lincoln Institute](/wiki/lincoln-institute/) and development
-  banks promote the framing worldwide under the label
-  [land value capture](/wiki/land-value-capture/), from transit "betterment" charges to
-  [public land leasing](/wiki/public-land-leasing/).
+- **[Henry George](/wiki/henry-george/)** grounded the whole Georgist programme on it:
+  land value "is the creation of the whole community" and therefore the natural fund
+  for common purposes (*Progress and Poverty*, Book VIII).[1]
+- **[Winston Churchill](/wiki/winston-churchill/)** gave it the canonical political
+  form in 1909: roads are made, services improved, "and all the while the landlord
+  sits still" — every improvement made by others enhances his land.[2]
+- **[Joseph Stiglitz](/wiki/joseph-stiglitz/)** and Richard Arnott formalized it: the
+  [Henry George Theorem](/wiki/henry-george-theorem/) shows that under optimality
+  conditions the aggregate land rent a city generates equals its spending on public
+  goods — public goods literally *become* land value.[3][4]
+- **[Ebenezer Howard](/wiki/ebenezer-howard/)** engineered it: his garden cities were
+  financed by the town retaining the ground-rent uplift its own growth created.
+- **The [Lincoln Institute](/wiki/lincoln-institute/)** and a global practitioner
+  community promote the mechanism today as *land value capture* — betterment levies,
+  special assessments, and the [Hong Kong](/wiki/hong-kong/) "Rail + Property" model.
 
 ## Research That Supports It
 
-The empirical core is the [capitalization literature](/wiki/public-investment-capitalizes-into-land/)
-— now one of the strongest evidence bases on the wiki (5 supporting studies):
+This is, with its twin, the best-evidenced narrative premise in the wiki:
 
-- [Oates (1969)](/wiki/oates-1969-capitalization/) founded the field: local public
-  spending and taxes capitalize into property values.[3]
-- [Gibbons & Machin (2005)](/wiki/gibbons-machin-rail-access/) showed London rail access
-  raising nearby property values in a quasi-experimental setting.[4]
-- [Mohammad et al. (2013)](/wiki/mohammad-rail-meta-analysis/) confirmed the pattern
-  across 102 estimates worldwide: rail investment shows up in land and property prices.[5]
-- [Albouy (2016)](/wiki/albouy-what-are-cities-worth/) showed city land rents
-  capitalizing local productivity and amenities at metropolitan scale.[6]
-- On the theory side, [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/)
-  and [Stiglitz (1977)](/wiki/stiglitz-theory-local-public-goods/) establish the
-  rent–public-goods equality, with [Behrens et al.](/wiki/behrens-hgt-second-best/)
-  extending it to second-best settings; [Kanemoto et al. (1996)](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/)
-  and [Arnott (2004)](/wiki/arnott-hgt-practical-guide/) probe how far it can be taken
-  empirically.[2]
-
-The scale evidence — [Larson's BEA estimates](/wiki/larson-us-land-value/) and
-[Albouy, Ehrlich & Shin's metropolitan land values](/wiki/albouy-ehrlich-shin-metro-land/)
-— shows the community-created pool is fiscally enormous, which is what makes the
-narrative a governing proposition rather than a curiosity.
+- **Public investment demonstrably becomes land value.** The capitalization
+  literature — from [Oates (1969)](/wiki/oates-1969-capitalization/) on local public
+  spending,[5] through [Gibbons & Machin (2005)](/wiki/gibbons-machin-rail-access/) on
+  London rail access,[6] to the [Mohammad et al. (2013) meta-analysis](/wiki/mohammad-rail-meta-analysis/)
+  across dozens of rail projects[7] — consistently finds public amenities raise nearby
+  land and property values. See
+  [public investment capitalizes into land](/wiki/public-investment-capitalizes-into-land/)
+  (evidence strength: strong).
+- **Amenity value is a large share of what cities are worth.**
+  [Albouy (2016)](/wiki/albouy-what-are-cities-worth/) shows quality-of-life and
+  productivity amenities are capitalized into US metro land rents at first-order
+  magnitudes[8] — the "surroundings" component of land value is not a rounding error.
+- **The fiscal counterpart is a theorem.** Arnott & Stiglitz (1979) and
+  [Stiglitz (1977)](/wiki/stiglitz-theory-local-public-goods/) prove the rent
+  generated by optimal public-goods provision equals its cost;[3][4]
+  [Behrens, Kanemoto & Murata (2015)](/wiki/behrens-hgt-second-best/) extend a
+  second-best version.[9] See
+  [public goods fundable from land rent](/wiki/public-goods-fundable-from-land-rent/).
+- **Working precedents exist.** Hong Kong's MTR finances metro lines from the property
+  value they create; betterment-levy and special-assessment districts do the same at
+  retail scale ([land value capture](/wiki/land-value-capture/);
+  [tax capitalization](/wiki/tax-capitalization/) is the underlying mechanism).
 
 ## Research That Challenges It — or Is Missing
 
-- **The HGT equality is a knife-edge result.** It holds exactly only at optimal city
-  size under restrictive assumptions; [Arnott (2004)](/wiki/arnott-hgt-practical-guide/)
-  — a co-author of the theorem — concludes it is "promising" but *not yet* a practical
-  guide to sizing budgets, and [Kanemoto et al.](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/)
-  could only test it indirectly.
-- **Attribution is empirically hard.** Capitalization studies identify the uplift from
-  *specific* projects cleanly only in quasi-experimental settings; carving a particular
-  parcel's value into "community-created" versus "owner-created" components is contested
-  in practice — the honest version of the
-  [assessment objection](/wiki/land-cannot-be-assessed/).
-- **Capitalization can cut against the narrative's politics:** the same mechanism means
-  a *pre-announced* land tax lowers land prices immediately, concentrating the cost on
-  current owners — the [transition wealth shock](/wiki/lvt-transition-wealth-shock/)
-  objection.
+- **The theorem is a benchmark, not a guarantee.** The Henry George Theorem's equality
+  holds under optimal city size and optimal public-goods provision; real cities are
+  neither. Behrens et al. show the second-best version departs from exact
+  equality.[9] Deployment should say "rent *can* fund much of it," not "rent always
+  suffices."
+- **Attribution at parcel level is hard.** The capitalization literature identifies
+  average uplifts around identifiable public actions; there is no accepted method for
+  decomposing a *specific* parcel's value into community-created and owner-created
+  parts. Betterment levies therefore always draw boundary disputes.
+- **Capture can be captured.** The [Hong Kong](/wiki/hong-kong/) model shows value
+  capture funding infrastructure superbly while housing stays very expensive — value
+  *capture* is not value *reduction*, a distinction the
+  [capture-didn't-make-housing-cheap objection](/wiki/land-capture-didnt-make-housing-cheap/)
+  presses. This narrative claims a revenue source, not cheap housing; conflating the
+  two invites the rebuttal.
+- **Not all land value is public action.** Private agglomeration — the presence of
+  firms and residents — creates much of it, which supports taxing rent *generally*
+  but weakens the "the government built it, the government should recoup it" retail
+  version of the story.
 
 ## Counter-Arguments and Georgist Responses
 
-- **"The owner took the risk and paid market price for the location."** Response: buying
-  a claim on future community-created value does not make the owner its creator; the
-  purchase price simply capitalized expected uplift ([tax capitalization](/wiki/tax-capitalization/)).
-  The transition objection is real, which is why serious proposals phase in rates or
-  credit recent purchasers.
-- **"The owner improved the neighborhood too."** Response: improvements are the owner's
-  and under LVT go untaxed by design; the claim is only about the unimproved site value
-  — the part that would persist if the building burned down.
-- **"Government would waste the money."** Response: this is an argument about spending,
-  not about who created the value; the same revenue can cut taxes on wages and buildings
-  ([efficiency outcome](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)) or
-  fund a [citizen's dividend](/wiki/citizens-dividend/).
+1. **"The owner took the risk of buying here — the gain is the return."** Response:
+   the risk argument justifies returns to *anticipating* community growth, not
+   producing it; and expected uplift is already in the purchase price, which is the
+   [transition problem](/wiki/lvt-transition-wealth-shock/), answered by prospective
+   application and phase-ins, not by leaving the flow private forever.
+2. **"Which community? The city, the province, the nation?"** A genuine design
+   question: capitalization is local, so Georgists generally assign land revenue to
+   the level that provides the services — the practice in
+   [Denmark](/wiki/denmark/)'s municipal grundskyld. The narrative survives any
+   answer; deployment should pick the local one, where the causal chain is visible.
+3. **"Public investment is already paid for by taxes."** Response: paid for by taxes
+   *on production*, while the benefit lands as a windfall on nearby titles — a double
+   distortion the [Henry George Theorem](/wiki/henry-george-theorem/) shows is
+   unnecessary: the project can be financed from the value it creates, cutting taxes
+   on work to boot.[3]
+4. **"If you tax the uplift, you kill support for local growth."** The homevoter
+   worry inverted: owners lobby *for* amenities precisely to harvest uplift. Response:
+   under uplift capture, residents still gain the amenity itself; and the revenue
+   funds more amenities — the flywheel Howard's garden cities ran voluntarily.
 
 ## Historical Examples
 
-- **The 1909 People's Budget** — [Lloyd George's](/wiki/david-lloyd-george/) land duties
-  were argued in exactly these terms at [Limehouse](/wiki/1909-peoples-budget/): the
-  landlord's value "is not created by him, but by the industry of the community."
-- **Hong Kong and Singapore** finance a large share of government from
-  [public land leasing](/wiki/public-land-leasing/) — community-created location value
-  flowing to the treasury (with the honest caveat that revenue capture did not make
-  housing cheap: see [the objection](/wiki/land-capture-didnt-make-housing-cheap/)).
-- **Modern transit value capture** — from London's Jubilee Line studies
-  ([Gibbons & Machin](/wiki/gibbons-machin-rail-access/)) to betterment-levy practice
-  ([betterment levy](/wiki/betterment-levy/)) — applies the narrative project by project.
+- **Garden cities (Letchworth, Welwyn).** [Ebenezer Howard](/wiki/ebenezer-howard/)'s
+  towns held land in trust and financed community services from the ground-rent
+  growth the towns themselves generated — the narrative implemented as a business
+  plan.
+- **Hong Kong's Rail + Property model.** The MTR builds transit and is granted
+  development rights above stations; the capitalized uplift funds the railway.
+  Financially celebrated; a caution on affordability (see above;
+  [Hong Kong](/wiki/hong-kong/)).
+- **The 1909 People's Budget.** Churchill and Lloyd George sold land duties to a mass
+  electorate on exactly this story ([event page](/wiki/1909-peoples-budget/);
+  [Churchill's speeches](/wiki/churchill-peoples-rights/)).[2]
+- **Denmark's grundskyld** — a century of municipal finance drawn from site values,
+  the standing administrative proof that the revenue channel works
+  ([Denmark](/wiki/denmark/)).
+- **Modern transit value capture** — special assessment districts and betterment
+  levies from London's Crossrail to Bogotá's *contribución de valorización* apply the
+  principle project-by-project ([land value capture](/wiki/land-value-capture/)).
 
 ## How to Deploy It
 
-Best with local officials, infrastructure-funding debates, and transit advocates. Make
-it concrete and parcel-specific: name the subway stop, the school, the park that made
-the lot valuable, then ask who paid for them. Lead with the capitalization evidence
-(it is the strongest empirical base in the Georgist portfolio) and concede the
-attribution and transition caveats up front — the narrative is strongest as "recover
-the uplift from *new* public investment," where attribution is cleanest.
+- **Audience.** Local officials, infrastructure advocates, and municipal-finance
+  debates — anywhere the question "how do we pay for it?" is live. This is the
+  Georgist narrative that arrives as an *answer* rather than a critique.
+- **Make it concrete and causal.** Name the project: "who paid for the subway that
+  doubled that parking lot's value?" The
+  [capitalization evidence](/wiki/public-investment-capitalizes-into-land/) supplies
+  documented magnitudes; Churchill supplies the rhetoric.[2]
+- **Claim revenue, not cheap housing.** The Hong Kong precedent shows the mechanism
+  funds infrastructure; pair with zoning reform before promising affordability
+  (see [The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)).
+- **Use the theorem as a frame, not a proof.** "Public goods pay for themselves
+  through land value — that's a theorem under ideal conditions, and a good
+  approximation for high-value urban infrastructure" is defensible; an unqualified
+  "rent covers everything" is not.[9]
+- **Pairing.** Backward-looking fairness
+  ([unearned increment](/wiki/unearned-increment-narrative/)) opens hearts; this
+  narrative closes budgets. For economist audiences, follow with
+  [Tax Land, Not Labor](/wiki/tax-land-not-labor/).
 
 ## See Also
 
-- [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) · [Henry George Theorem](/wiki/henry-george-theorem/) · [Land Value Capture](/wiki/land-value-capture/) · [Public investment capitalizes into land](/wiki/public-investment-capitalizes-into-land/) · [Betterment Levy](/wiki/betterment-levy/)
+- [Land Value Capture](/wiki/land-value-capture/) — the policy family
+- [Henry George Theorem](/wiki/henry-george-theorem/) — the formal core
+- [Public investment capitalizes into land](/wiki/public-investment-capitalizes-into-land/) — the empirical engine
+- [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the backward-looking twin
+- [Tax Capitalization](/wiki/tax-capitalization/) — the mechanism
+- [Georgism](/wiki/georgism/) — the wider philosophy
 
 ## Sources
 
-1. Henry George, *Progress and Poverty* (1879), Book IV — the community-growth theory of
-   land value. [Full text](https://www.gutenberg.org/ebooks/55308) — used for the
-   narrative's origin and core claim.
-2. Richard Arnott & Joseph Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public
-   Goods, and Optimal City Size," *QJE* 93(4). [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf)
-   — used for the Henry George Theorem's formal statement and its conditions.
-3. Wallace E. Oates (1969), "The Effects of Property Taxes and Local Public Spending on
-   Property Values," *JPE* 77(6). [JSTOR](https://www.jstor.org/stable/1837209) — used
-   for the founding capitalization evidence.
-4. Stephen Gibbons & Stephen Machin (2005), "Valuing Rail Access Using Transport
-   Innovations," *JUE* 57(1). [DOI](https://doi.org/10.1016/j.jue.2004.10.002) — used for
-   the London rail quasi-experiment.
-5. Mohammad et al. (2013), "A meta-analysis of the impact of rail projects on land and
-   property values," *Transportation Research A* 50. [DOI](https://doi.org/10.1016/j.tra.2013.01.013)
-   — used for the cross-country generality of rail capitalization.
-6. David Albouy (2016), "What Are Cities Worth?" *REStat* 98(3). [DOI](https://doi.org/10.1162/REST_a_00550)
-   — used for metropolitan-scale capitalization of productivity and amenities into land rents.
+1. Henry George, *Progress and Poverty*, 1879, Book VIII.
+   [Full text (Project Gutenberg)](https://www.gutenberg.org/ebooks/55308) — used for
+   the community-creation claim in George's own programme (A/C-claims).
+2. Winston Churchill, speech at the King's Theatre, Edinburgh, 17 July 1909, reprinted
+   in *The People's Rights*, 1910.
+   [Full text (Internet Archive)](https://archive.org/details/peoplesrights00chur) ·
+   [wiki summary](/wiki/churchill-peoples-rights/) — used for the canonical political
+   statement (A-claim; quotation under 50 words).
+3. Richard Arnott & Joseph Stiglitz, "Aggregate Land Rents, Expenditure on Public
+   Goods, and Optimal City Size," *Quarterly Journal of Economics*, 1979.
+   [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf)
+   · [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/) — used for the Henry
+   George Theorem (C-claims).
+4. Joseph Stiglitz, "The Theory of Local Public Goods," in Feldstein & Inman (eds.),
+   *The Economics of Public Services*, 1977.
+   [wiki summary](/wiki/stiglitz-theory-local-public-goods/) — used for the theorem's
+   original statement (C-claim).
+5. Wallace E. Oates, "The Effects of Property Taxes and Local Public Spending on
+   Property Values," *Journal of Political Economy*, 1969.
+   [DOI](https://doi.org/10.1086/259584) ·
+   [wiki summary](/wiki/oates-1969-capitalization/) — used as the founding
+   capitalization study (B-claim).
+6. Stephen Gibbons & Stephen Machin, "Valuing Rail Access Using Transport
+   Innovations," *Journal of Urban Economics*, 2005.
+   [DOI](https://doi.org/10.1016/j.jue.2004.10.002) ·
+   [wiki summary](/wiki/gibbons-machin-rail-access/) — used for causal transit-uplift
+   evidence (B-claim).
+7. Sara Mohammad, Daniel Graham, Patricia Melo & Richard Anderson, "A Meta-Analysis of
+   the Impact of Rail Projects on Land and Property Values," *Transportation Research
+   Part A*, 2013. [DOI](https://doi.org/10.1016/j.tra.2013.01.013) ·
+   [wiki summary](/wiki/mohammad-rail-meta-analysis/) — used for the breadth of the
+   uplift literature (B-claim).
+8. David Albouy, "What Are Cities Worth? Land Rents, Local Productivity, and the Total
+   Value of Amenities," *Review of Economics and Statistics*, 2016.
+   [DOI](https://doi.org/10.1162/REST_a_00550) ·
+   [wiki summary](/wiki/albouy-what-are-cities-worth/) — used for the magnitude of
+   amenity capitalization (B-claim).
+9. Kristian Behrens, Yoshitsugu Kanemoto & Yasusada Murata, "The Henry George Theorem
+   in a Second-Best World," *Journal of Urban Economics*, 2015.
+   [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0094119014000771)
+   · [wiki summary](/wiki/behrens-hgt-second-best/) — used for the second-best
+   qualification (C-claim).

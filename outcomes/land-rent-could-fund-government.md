@@ -21,11 +21,23 @@ The total economic rent of land and natural resources is large enough to fund a 
 
 The gap turns on two things: **what counts as rent** (Gaffney includes resource, spectrum, and under-assessed urban rent that standard accounts omit) and whether one credits the [ATCOR](/wiki/atcor/) effect — that abolishing other taxes raises land values, enlarging the LVT base.
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Adam et al. (2011)](/wiki/mirrlees-review/) — The UK's most authoritative modern tax review, chaired by Nobel laureate Sir James Mirrlees, concludes that land value should be taxed and proposes replacing business rates with a land value tax.
+- [Canada (2023)](/wiki/natural-common-wealth-economic-rent-canada/) — A January 2023 report from the Canadian advocacy think tank Common Wealth Canada estimating Canada's total annual economic rent from land and natural resources at roughly $421 billion, of which it argues $241 billion could be newly captured as public revenue.
+- [Larson (2015)](/wiki/larson-us-land-value/) — A U.S. Bureau of Economic Analysis working paper estimating the total value of land in the contiguous United States at roughly $23 trillion (2009), using hedonic methods rather than the older residual approach.
+- [Albouy et al. (2018)](/wiki/albouy-ehrlich-shin-metro-land/) — The first cross-sectional, transaction-based land-value index for every US metro area, finding urban land worth over twice GDP and just five metro areas — New York, LA, San Francisco, DC, Chicago — holding 48% of all US urban land value.
+
+- [Davis & Heathcote (2007)](/wiki/davis-heathcote-us-land/) — A foundational paper constructing a quarterly price and quantity index for residential land in the US using a residual method, producing the widely cited Davis-Heathcote land price series.
 ## Strength of Evidence
 
 **Contested.** That land rent is *large* is well established; *how large relative to government* depends heavily on method. Honest framing: enough to be a **major** revenue source, with **full** replacement an open question.
 
 ## See Also
+
+- [World Bank, The Changing Wealth of Nations 2021](/wiki/world-bank-changing-wealth/) — wealth-accounting scale evidence
 
 - [ATCOR](/wiki/atcor/) · [Single Tax](/wiki/single-tax/) · [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
 

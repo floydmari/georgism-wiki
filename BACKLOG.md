@@ -1,46 +1,65 @@
 # BACKLOG.md — Wiki Improvement Queue
 
-## ⟳ RESUME HERE (checkpoint 2026-07-04, EVIDENCE CAMPAIGN COMPLETE — 14/14)
-State: 227 pages, lint green (0 errors), **COVERAGE 14/14 outcomes ≥5 supporting papers — the
-50-paper campaign's termination condition was reached 2026-07-04** (was 1/13 at wave-2 checkpoint).
-Also done that day: Task 0 DISCOVERY-SWEEP (10 report-only agents over the whole corpus → 29
-candidates → 20 sourced stubs created + 10 rejected-with-reason), the 14th outcome
-(corporate-profits-increasingly-rents, T1-written), first flywheel BACKFILL round
-(homer-hoyt, vancouver done; david-lloyd-george verify), registry 193→~228 rows, Drive snapshot
-"Georgism Wiki — Source Registry (git sync 2026-07-04)". Branch claude/wiki-improvement-w5; PR open.
+## ⟳ RESUME HERE (checkpoint 2026-07-05 loop 2, WS2 COMPLETE 12/12 + surveys triaged)
+LOOP-3 DELTA (Floyd directives, 2026-07-05 evening): (1) GHOST/1PASSWORD DE-SCOPED — deployment
+is Floyd's separate process; the loop ends at commit+push+preview; never chase the token again
+(LOOP.md step 11 rewritten). (2) NEW LINT GATE `BODY-PARITY` — frontmatter evidence must be
+walked through in the body; first corpus scan caught 11 drifted outcome pages, all fixed with
+generated paper-by-paper sections (from reviewed excerpts) — a T1 prose-polish pass over those
+sections is queued below. (3) Synthesis de-referencing is now a T1 review gate (LOOP.md step 5).
+(4) landlords outcome expanded to 7 supports + 2 challenged_by incl. the Danish land-tax study.
+- [ ] [DEEPEN] tier:T1 status:todo — prose-polish the 11 generated "Evidence — Paper by Paper"
+      sections (they are accurate excerpt-derived bullets; weave the best into each page's
+      narrative evidence discussion where it reads better as prose).
 
-NOTE 2026-07-05 (post GLM waves 1-5): main loop runs T2 volume on GLM (LOOP.md 'GLM IS THE
+LOOP-2 DELTA (same day, after the block below was written): stubs 17→15
+(john-bates-clark, superstar-firms, fire-sector backfilled; karl-widerquist stub added);
+citdiv.org + progress.org surveys DONE and triaged — both full scans now sit in the
+Site-scan queue as status:blocked on the SAME two unblocks: (a) OP_SERVICE_ACCOUNT_TOKEN
+(gives the Ghost API for progress.org Batch 0 AND publishing) or proxy allowlist, and
+(b) Floyd downloading the citdiv eBook. Next wave order: [SHEET-SYNC] Drive refresh (8
+rows behind) → remaining top backfills (mass-appraisal-methods, 2008-financial-crisis,
+public-land-leasing) → progress.org TOP-16 extraction candidates (LOOPLOG 2026-07-05b)
+which need only WebSearch, not the blocked Batch 0 → WS8 [CITE] retrofit.
+
+## (superseded same-day checkpoint follows — still accurate for environment notes)
+State: 240 pages, lint green (0 errors), COVERAGE 14/14. **All twelve narratives are now shipped**
+(2026-07-05 session: 7 written T1-direct — single-tax, community-creates-land-value,
+housing-crisis-is-a-land-crisis, citizens-dividend, ecological-rent, the-corruption-of-economics,
+the-great-land-robbery) plus 4 prerequisite research pages (barnes-sky-trust,
+fairlie-short-history-enclosure, blaug-henry-george-rebel [the anti-Gaffney counter-source],
+song-zenou-property-tax-sprawl). Registry ~231→260 rows. Branch
+claude/georgism-wiki-campaign-xz5anj (note: earlier w5 branch/PR were merged as PR #3; this is the
+successor working branch).
+
+Environment notes for successors: (a) no local ollama/GLM in this container — T1/T2 work runs on
+Claude; volume drafting via subagents, max 3-4 concurrent; (b) the egress proxy 403s most direct
+fetches — forage agents corroborate via WebSearch snippets and pages ship conservative at Light
+scan with [VERIFY] flags; (c) this session's WebSearch quota ran out mid-session — budget searches.
+
+HISTORICAL NOTE from the w5/PR-#4 branch (merged 2026-07-05): NOTE 2026-07-05 (post GLM waves 1-5): main loop runs T2 volume on GLM (LOOP.md 'GLM IS THE
 DEFAULT T2/T3 EXECUTOR'; worker: scripts/glm_draft_worker.py). 281 pages. Concepts queue COMPLETE
 (22->40+). Stub queue 43->8 (remaining: floyd-marinescu [owner to supply bio], radical-markets,
 land-value-increment-tax, land-value-increment/margin leftovers per gauge). Counter-evidence
 wired: england-zhao + loffler-siegloch (challenged_by) + gochenour-caplan primary read in full
 (Foldvary 2014 reply queued). PR #4 open and growing; PR #3 merged+live.
+[Merge resolution: the three-narrative gap the note describes was closed on this branch the same day — 12/12 via T1-direct drafts; parallel GLM drafts of 4 narratives + fire-sector/superstar-firms/john-bates-clark superseded by T1 versions; barnes/fairlie/loffler duplicate research pages deduped, unique content grafted.]
 
-A fresh session resumes with, in order (SUPERSEDES the numbered list below where they conflict):
-A. NARRATIVES LAYER — 3 remaining (9/12 live as of 2026-07-05); ALL PREREQUISITES NOW IN CORPUS:
-   ecological-rent (barnes-sky-trust + pigouvian-taxation + lvt-reduces-sprawl), the-corruption-
-   of-economics (missemer-pottier counter-source + milgate review cited therein), the-great-land-
-   robbery (fairlie-short-history-enclosure). Originally: the 7 remaining pages per narratives/_framework.md. This is T1-heavy
-   persuasive-framing work: GLM may draft from the framework + corpus, but Fable must rework
-   framing, sourcing density per the unearned-increment exemplar. Start fresh-context.
-B. Remaining 8 stubs + [COHESION] tasks (BC/Vancouver scope split, terminology pass).
-C. [SHEET-SYNC] loud todo below; WS8 [CITE] retrofit; staleness sweep.
-
-Original resume list:
-1. `git status` + lint (all three first-round backfills are done: homer-hoyt, vancouver, david-lloyd-george).
-2. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (18 stubs remain), run top
-   3-5 [BACKFILL]s per wave, harvest DISCOVERED candidates into new stubs. STUBS gauge in lint.
-3. Remaining evidence depth (queue below): the 8 unchecked tech-rents papers (korinek-ng,
-   haskel-westlake, zingales, akcigit-ates, rochet-tirole, data-as-labor, hazlett, cea-2016) enrich
-   the new outcome beyond 5; Follow-ups section (esp. loffler-siegloch and england-zhao — HONEST
-   COUNTER-EVIDENCE pages the outcomes need for NPOV); hilber-vermeulen (affordability margin);
-   davis-heathcote (capitalization margin).
-4. Next structural work per ROADMAP: WS2 narratives (7 remaining), WS6 concepts expansion (queue in
-   Phase 1), WS8 [CITE] retrofit (Phase 3), staleness sweep (BC SVT rates follow-up).
-5. Per-wave wrap-up unchanged: registry flip in-iteration → Sheet snapshot (mandatory-loud, one
-   [SHEET-SYNC] todo is pending) → LOOPLOG → preview rebuild + artifact redeploy (same URL:
+A fresh session resumes with, in order:
+1. `git status` + lint.
+2. **Floyd's new site-scan queue** (Comprehensiveness section below): citdiv.org + all of
+   progress.org except /wiki/. Survey pass first; needs web access.
+3. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (17 stubs), run top 3-5
+   [BACKFILL]s per wave — john-bates-clark and fire-sector now have narrative dependencies live.
+4. Remaining evidence depth (queue below): 8 unchecked tech-rents papers; loffler-siegloch and
+   england-zhao counter-evidence pages; hilber-vermeulen; davis-heathcote.
+5. WS8 [CITE] retrofit (Phase 3), staleness sweep (BC SVT rates follow-up), WS6 concepts.
+6. Per-wave wrap-up unchanged: registry flip in-iteration → Sheet snapshot (mandatory-loud; TWO
+   [SHEET-SYNC] todos now pending) → LOOPLOG → preview rebuild + artifact redeploy (same URL:
    https://claude.ai/code/artifact/71d156a4-a38a-4de8-be83-4e3ef69df163). Ghost publish still
    gated on GHOST_ADMIN_KEY (1Password service token) — everything stays commit-only until then.
+7. **Wanted-books channel**: sources/wanted-books.md lists ~20 books awaiting e-copies from Floyd;
+   when one lands, spawn its [DEEPEN-SCAN] and upgrade the citing pages past Light.
 
 Wiring conventions proven this campaign (keep following): supports_outcomes only when honestly
 earned (null results get [], e.g. gemmell; context-only sources get [], e.g. piketty); counter
@@ -67,18 +86,25 @@ narratives 0→12+, thin→0, claim-level citations→100%, cross-links 3+out/2+
 - [x] [BULK] tier:T3 status:done — sync_to_ghost.py narratives category; .gitignore; narratives/ dir
 - [x] [DESIGN] tier:T1 status:done — LOOP.md tier-aware loop prompt
 
-## Standing rule — Google Sheet mirror of the source registry
-Any task that edits `sources/registry.csv` must sync the master Google Sheet per LOOP.md step 3
-(export via `scripts/export_registry_for_sheet.py`, then Drive snapshot or a loud [SHEET-SYNC] task
-here). Last synced: **2026-07-03 (wave 3 delta pushed same day)** — full snapshot "Georgism Wiki — Source Registry (git sync 2026-07-03)" + delta sheet "Wave 3 delta"
-created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED from loops 1–7).
+## Standing rule — registry mirrors (GitHub exports + Google Sheet)
+Any task that edits `sources/registry.csv` must, per LOOP.md step 3: (1) run
+`scripts/export_registry_for_sheet.py` and **commit the dated export to
+`sources/exports/registry-export-YYYY-MM-DD.csv`** (the definitive, GitHub-viewable snapshot —
+Floyd's request 2026-07-05; GitHub renders CSVs as sortable tables), AND (2) push a Drive snapshot
+spreadsheet (or leave a loud [SHEET-SYNC] task here if Drive is unreachable).
+Last synced: **2026-07-05** — repo export `sources/exports/registry-export-2026-07-05.csv`
+(refreshed same day to 267 rows after the loop-2 additions) + Drive snapshot "Georgism Wiki —
+Source Registry (git sync 2026-07-05)" (259 rows at push time; covers the wave-D delta).
+- [ ] [SHEET-SYNC] tier:T3 status:todo — 8 loop-2 rows (citdiv.org + 7 FIRE-sector sources) were
+      added AFTER the 2026-07-05 Drive snapshot — push a fresh Drive export next iteration (the
+      committed repo export already includes them).
 - [ ] [SHEET-SYNC] tier:T3 status:todo — durable write-back: once a Google service-account JSON is
       in the Emma vault (per the 1Password/op plumbing) and the master Sheet is shared with that
       service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
       Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
 
 - [x] [SHEET-SYNC] done 2026-07-04 — full snapshot "Georgism Wiki — Source Registry (git sync 2026-07-04)" pushed to Floyd's Drive (215 rows, Δ 23 NEW + 3 UPDATED vs main).
-- [ ] [SHEET-SYNC] tier:T3 status:todo — ~13 wave-D rows (Arnott, Kanemoto, Herkenhoff, Goldsmith, Carroll-Yinger, Franzsen, Furman, Barkai, Philippon, Eeckhout, Crouzet, Piketty + IMF row fix) added AFTER the 2026-07-04 snapshot — push a fresh export next iteration
+- [x] [SHEET-SYNC] done 2026-07-05 — wave-D delta + this session's 29 new rows all covered by the 2026-07-05 full snapshot (Drive + repo export in sources/exports/).
 
 ## Comprehensiveness loop (LOOP-COMPREHENSIVENESS.md — invokable audit, separate from the main loop)
 comprehensiveness watermark: 136 external-source rows (first invocation completed 2026-07-04; next invocation sweeps rows added after #136 unless --full)
@@ -97,6 +123,77 @@ comprehensiveness watermark: 136 external-source rows (first invocation complete
       (Banzhaf-Lavery evidence)
 - [x] [DRAFT] tier:T2 status:done — research/great-mortgaging — Jordà-Schularick-Taylor 2014 — GLM wave 1 (full text read; honest supports_outcomes:[] — credit-side complement)
 
+### Site-scan queue (added by Floyd 2026-07-05 — whole-site ingest targets)
+- [x] [SCAN-SURVEY] tier:T2 status:done 2026-07-05 — citdiv.org surveyed (snippet-based; proxy
+      blocks the domain). VERDICT: small advocacy microsite (~10-25 pages, Oct 2021–2024) founded
+      by Phillip J. Anderson as a lead funnel for Property Sharemarket Economics; standard
+      rent-funded-UBI advocacy, no novel scholarship; its one concrete number (cumulative Alaska
+      PFD total) is a stale ~2006 Wikipedia figure. NO organizations page warranted. Registry row
+      added (level-6 advocate source); cited as advocate framing on citizens-dividend-narrative.
+- [ ] [SCAN] tier:T2 status:blocked — citdiv.org REMAINDER: the email-gated eBook ("Citizen's
+      Dividend", presumably Anderson; also FR/中文/Thai versions) is the only high-value unread
+      item. UNBLOCK: Floyd downloads the eBook and drops it in the repo/Drive, OR the egress
+      proxy allowlists citdiv.org + realestate.propertysharemarketeconomics.com. Then: sitemap
+      fetch → 2 articles + eBook + category archives.
+- NOTE against the standing rejection of people/phillip-j-anderson ("sourcing thin — do not
+      re-propose without new evidence"): founding citdiv.org IS new evidence of Georgist advocacy
+      (X: @citdiv, founded Feb 2022), but it is all self-published/level-6 — the rejection STANDS
+      until independent coverage exists.
+- [ ] [DRAFT] tier:T2 status:todo — research/raley-citizens-dividend candidate: Bill Raley, "The
+      Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;
+      verify author/venue/content before drafting; would give the citizens-dividend concept page
+      its first scholarly-tier source beyond George + Alaska.
+
+### Standing rule — synthesis sources get de-referenced (Floyd, 2026-07-05)
+Wherever the wiki cites a SYNTHESIS (Doucet's ACX series, Andelson's compendium, review articles),
+the wiki must itself work through the underlying literature: every research paper the synthesis
+cites gets its own ingestion pass (registry row; research/ page where it carries weight). The
+synthesis then becomes navigation, not load-bearing evidence.
+- [~] [SCAN] tier:T2 status:mostly-done 2026-07-05 — de-reference Doucet ACX Part 2: forage
+      verified the incidence cluster; 4 research pages shipped (tsoodle-turner-rents +
+      loffler-siegloch-property-tax as challenged_by; schwegman-yinger-homestead +
+      dors-land-taxes-housing-prices as supports; Orr/Heinberg-Oates/Dusansky registered as
+      context rows). HONEST FLAG: could NOT confirm Doucet Part 2 actually cites the Orr line —
+      snippets indicate his empirical core is the land-tax CAPITALIZATION literature culminating
+      in the Danish DØRS study (~13 papers per one secondary source). REMAINING: open the ACX
+      article with unblocked access, enumerate the actual 13 citations, diff vs registry, ingest
+      the missing; settle Dusansky 1981 full-vs-partial magnitude; Hyman & Pasour 1973 rents
+      paper could not be verified (only their property-VALUES paper) — do not cite until
+      confirmed.
+- [ ] [SCAN] tier:T2 status:todo — de-reference Doucet ACX Parts 1 & 3 (land value scale;
+      assessment) the same way — enumerate citations, diff against registry, ingest the missing.
+- [x] [DRAFT] tier:T2 status:done 2026-07-05 — research/loffler-siegloch-property-tax shipped
+      (IZA DP 14195; full pass-through in 3 years; supply-elasticity heterogeneity noted as
+      cutting toward the land-tax case); wired challenged_by on the landlords outcome.
+- [x] [SCAN-SURVEY] tier:T2 status:done 2026-07-05 — progress.org (non-wiki) surveyed
+      (snippet-based; proxy blocks the domain). FINDINGS: independent publication, editors Floyd
+      Marinescu + Martin Adams (NOT run by PPI — that's the renamed Schalkenbach Foundation);
+      Progress Report lineage since 1997 (Foldvary wrote weekly 1997–2021, 307 essays migrated);
+      ~700–1,500 articles across 59 contributors; 16 top-value extraction candidates identified
+      (list in LOOPLOG 2026-07-05b); "Progress LLM" byline (139 AI-authored essays) is
+      NON-CITABLE for this zero-fabrication wiki — inventory only.
+- [ ] [SCAN] tier:T2 status:blocked — progress.org FULL SCAN, Batch 0 first: enumerate all
+      non-wiki posts via the repo's own Ghost Content API (one /posts/ call — needs the same
+      OP_SERVICE_ACCOUNT_TOKEN/GHOST key that gates publishing) OR proxy allowlist for
+      progress.org. Then by-author batches: 1=Foldvary (307, split ~3), 2=core Georgists
+      (Gaffney/JJ-Smith-46/Doucet-21/Harrison/Anderson/Widerquist/Davies), 3=editors+institutional
+      (Adams, HGS), 4=Progress-LLM inventory-only, 5=tags/static sweep.
+- [ ] [STUB-CREATE] tier:T2 status:todo — people candidates from the progress.org authors channel,
+      pending per-person verification: martin-adams (co-editor; *Land: A New Paradigm*),
+      jeffery-j-smith (46 essays, long-time Progress Report figure), hanno-t-beck (Banneker
+      Center, ran the 1997-era Progress Report infrastructure), lindy-davies (Henry George
+      Institute). karl-widerquist stub created 2026-07-05 (already twice in registry).
+- FUTURE LOOPS (queued by Floyd — do NOT scan yet): **gameofrent.com** (Lars Doucet) and the
+      **Progress and Poverty Substack** — to be addressed in later loops.
+
+### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
+- [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because
+      no free e-copy is reachable from this environment (proxy blocks archive.org lending too).
+      Each unblocks as Floyd supplies an electronic version; spawn one [DEEPEN-SCAN] per title as
+      copies land. Top of the list: The Corruption of Economics (full book), Who Owns the Sky,
+      England's Land and Liberty (2023), Harrison's Power in the Land / Boom Bust,
+      Rethinking the Economics of Land and Housing.
+
 ## Stub queue (flywheel intake — stubs created at discovery, ranked by [PRIORITIZE])
 - [ ] [PRIORITIZE] tier:T1 status:recurring — each wave: rank stubs below by (a) inbound-link
       demand from existing pages, (b) evidence already in the ingested corpus, (c) citing-source
@@ -106,15 +203,13 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [x] [BACKFILL] tier:T2 status:done — people/david-lloyd-george backfilled 2026-07-04 (226 lines; Limehouse venue disambiguated, Dreadnoughts/Green-Book misattributions corrected)
 - [x] [BACKFILL] tier:T2 status:done — people/winston-churchill (GLM wave 3) (People's Rights corpus page live; 2 chunks)
 - [x] [BACKFILL] tier:T2 status:done — places/vancouver backfilled 2026-07-04 (note: british-columbia.md still cites STALE 0.5%/2% SVT rates — see follow-up below)
-- [x] [BACKFILL] tier:T2 status:done — concepts/superstar-firms (GLM wave 2) (pairs with tech-rents cluster + new outcome)
-- [x] [BACKFILL] tier:T2 status:done — concepts/fire-sector (GLM wave 2) (rentier-economy narrative dependency)
-- [x] [BACKFILL] tier:T2 status:done — concepts/mass-appraisal-methods (GLM wave 3) (assessment objection's practical answer)
-- [x] [BACKFILL] tier:T2 status:done — events/2008-financial-crisis (GLM wave 3) (cycle narrative proof-point)
+- [x] [BACKFILL] tier:T2 status:done — concepts/superstar-firms backfilled 2026-07-05 (T1 rewrite supersedes GLM wave-2 draft in merge; efficiency-vs-market-power dispute mapped via Philippon/Barkai/Furman-Orszag)
+- [x] [BACKFILL] tier:T2 status:done — concepts/fire-sector backfilled 2026-07-05 (T1 rewrite supersedes GLM wave-2 draft in merge; verified scale data + Cochrane counter-view; ecosystem links from GLM version retained)
+- [x] [BACKFILL] tier:T2 status:done — people/john-bates-clark backfilled 2026-07-05 (T1 rewrite supersedes GLM wave-3 draft in merge; both historiographies, Clark 1899 preface quote)
+- [x] [BACKFILL] tier:T2 status:done — concepts/mass-appraisal-methods (GLM wave 3); events/2008-financial-crisis (GLM wave 3)
+- [x] [BACKFILL] tier:T2 status:done — charles-tiebout, murray-rothbard (wave 3); michael-davitt, l-d-taylor (wave 4); events/irish-land-war, organizations/fairhope-single-tax-corporation (GLM wave 4); holdout-problem + production-boundary (waves 3-4)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
-- [x] [BACKFILL] tier:T2 status:done — people/john-bates-clark (GLM wave 3) (corruption-of-economics narrative dependency)
-- [x] [BACKFILL] tier:T2 status:done — charles-tiebout, murray-rothbard (wave 3); michael-davitt, l-d-taylor (wave 4)
-- [x] [BACKFILL] tier:T2 status:done — events/irish-land-war, organizations/fairhope-single-tax-corporation (GLM wave 4)
-- [~] [BACKFILL] tier:T2 status:partial — holdout-problem + production-boundary done (waves 3-4); radical-markets, land-value-increment-tax remain
+- [ ] [BACKFILL] tier:T2 status:todo — concepts/radical-markets, concepts/land-value-increment-tax
 Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson (sourcing thin), Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers

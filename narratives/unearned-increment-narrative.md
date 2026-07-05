@@ -187,7 +187,7 @@ values — is among the better-evidenced propositions in the wiki:
   [asset-rich/cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/)); or Mill's
   prospective-only version.[2]
 - **Pairing.** Works best alongside the forward-looking fiscal version of the same
-  idea (planned narrative `community-creates-land-value`) and, for economist
+  idea ([The Community Creates Land Value](/wiki/community-creates-land-value/)) and, for economist
   audiences, the efficiency narrative
   ([Tax Land, Not Labor](/wiki/tax-land-not-labor/)): fairness opens
   the door, efficiency closes the argument.

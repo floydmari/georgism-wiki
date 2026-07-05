@@ -1,133 +1,210 @@
 ---
 title: "Narrative: The Housing Crisis Is a Land Crisis"
 category: narratives
-tags: [narratives, practical, housing, affordability, land-prices, yimby, zoning]
-narrative_type: practical
-supported_by: [capital-share-rise-is-land, split-rate-increases-construction, lvt-improves-housing-affordability]
-related_people: [lars-doucet, josh-ryan-collins, dominic-frisby]
-related_places: [singapore, hong-kong, pittsburgh]
+tags: [narratives, practical-argument, housing, affordability, land-prices, yimby, zoning, land-value-tax]
 stub: false
-excerpt: "Houses have not become dearer to build — the land under them has become dearer to buy. Framing unaffordability as a land problem points at the actual cost driver and pairs land value taxation with zoning reform as one package."
+excerpt: "The practical case that housing is expensive because land is expensive — and that taxing land values, paired with permissive zoning, channels land into homes. The supply evidence, the honest limits (capture alone doesn't cheapen housing), and deployment guidance for urbanist audiences."
+narrative_type: practical
+supported_by: [lvt-improves-housing-affordability, split-rate-increases-construction, capital-share-rise-is-land]
+related_people: [lars-doucet, josh-ryan-collins, dominic-frisby]
+related_places: [pittsburgh, singapore, hong-kong]
 last_reviewed: 2026-07-05
 ---
 
+*This narrative deploys the evidence collected on
+[LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) and
+[split-rate increases construction](/wiki/split-rate-increases-construction/). Read
+those pages for the underlying studies.*
+
 ## Core Claim
 
-Housing is expensive mainly because **land** is expensive. Construction costs have risen
-modestly; what exploded in the postwar era is the price of residential *location*. If the
-problem is land, the remedies follow: tax land values to punish speculation and underuse,
-and liberalize zoning so the land that is freed actually becomes homes. The narrative's
-sharpest edge is diagnostic — "you can't fix a land crisis with housing subsidies that
-land prices will swallow."
+Houses have not become dramatically more expensive to build; the *land under them*
+has become dramatically more expensive to buy. The narrative holds that the housing
+crisis is at root a land-price crisis — driven by fixed supply in high-demand
+locations, restrictive zoning, speculative holding, and mortgage credit bidding up
+sites — and that a [land value tax](/wiki/land-value-tax/) attacks it at the root:
+punishing [speculative vacancy](/wiki/speculative-vacancy/), rewarding building, and
+(with permissive zoning) channelling valuable land into homes. Advocates present LVT
+not as a silver bullet but as the missing half of the YIMBY programme: zoning reform
+frees the land, land taxation makes holding it idle unaffordable.
 
 ## Who Promotes It
 
-- [Josh Ryan-Collins](/wiki/josh-ryan-collins/) (*Rethinking the Economics of Land and
-  Housing*) is the fullest modern statement: the land–credit feedback loop, not
-  construction cost, drives house-price cycles.[1]
-- [Lars Doucet](/wiki/lars-doucet/) carried the argument to tech and YIMBY audiences
-  through the ACX Georgism series.[2]
-- [Dominic Frisby](/wiki/dominic-frisby/) popularizes the British version;
-  [Prosper Australia](/wiki/prosper-australia/) documents
-  [speculative vacancy](/wiki/speculative-vacancy/) in Melbourne.
+- **[Lars Doucet](/wiki/lars-doucet/)** brought the argument to a mass tech-adjacent
+  audience through his Astral Codex Ten series and *Land is a Big Deal*, framing
+  modern housing pain as George's problem returned.[1]
+- **[Josh Ryan-Collins](/wiki/josh-ryan-collins/)** (with Toby Lloyd and Laurie
+  Macfarlane) supplied the macro-financial version: a land–credit feedback loop in
+  which mortgage lending and land prices chase each other upward, decoupling house
+  prices from incomes.[2]
+- **[Dominic Frisby](/wiki/dominic-frisby/)** carries the popular British version;
+  [Prosper Australia](/wiki/prosper-australia/) documents speculative vacancy in
+  Melbourne; the [Center for Land Economics](/wiki/center-for-land-economics/) works
+  the US policy channel, including the
+  [Detroit LVT proposal](/wiki/detroit-lvt-proposal/).
+- **The empirical backdrop is mainstream.** Knoll, Schularick & Steger show ~80% of
+  the rise in global house prices 1870–2012 is rising *land* prices;[3]
+  [Rognlie](/wiki/rognlie-capital-share/) shows housing drives the modern rise in
+  capital's income share.[4] The diagnosis — land, not bricks — is not a fringe
+  position.
 
 ## Research That Supports It
 
-- **The price decomposition.** [Knoll, Schularick & Steger (2017)](/wiki/knoll-schularick-steger-house-prices/)
-  — 140 years, 14 countries: roughly four-fifths of the post-1950 rise in house prices is
-  rising *land* prices, not construction costs.[3] This is the narrative's single
-  strongest fact.
-- **The income-share decomposition.** [Rognlie (2015)](/wiki/rognlie-capital-share/) and
-  [La Cava (2016)](/wiki/la-cava-housing-capital-share/): the modern rise in capital's
-  income share is essentially housing — concentrated where supply is inelastic
-  ([capital-share outcome](/wiki/capital-share-rise-is-land/)).[4]
-- **Tax design moves construction.** The
-  [split-rate evidence](/wiki/split-rate-increases-construction/) —
-  [Oates & Schwab's Pittsburgh study](/wiki/oates-schwab-pittsburgh/),
-  [Plassmann & Tideman](/wiki/plassmann-tideman-construction/),
-  [Banzhaf & Lavery's](/wiki/banzhaf-lavery-pa-sprawl/) more-dwellings finding — shows
-  taxing land more than buildings raises building activity.
-- **Idle land responds to carrying costs.**
-  [Cunningham (2006)](/wiki/cunningham-seattle-options/) on vacant-land option value and
-  [Tomson's Estonia comparison](/wiki/tomson-estonia-lvt/) support the
-  anti-speculation channel ([speculation outcome](/wiki/lvt-dampens-land-speculation/)).
+- **The price of housing is mostly the price of land — and its rise is a land-price
+  rise.** Knoll, Schularick & Steger (2017, AER), across 14 countries and 140 years,
+  attribute roughly four-fifths of the post-1950 house-price boom to land;[3] see
+  [capital-share rise is land](/wiki/capital-share-rise-is-land/).
+- **Taxing buildings less and land more produces more homes.** The Pennsylvania
+  split-rate record — [Oates & Schwab's Pittsburgh study](/wiki/oates-schwab-pittsburgh/),[5]
+  [Plassmann & Tideman's fifteen-municipality panel](/wiki/plassmann-tideman-construction/),[6]
+  [Banzhaf & Lavery on density](/wiki/banzhaf-lavery-pa-sprawl/) — consistently finds
+  construction rises when the tax burden shifts from improvements to land
+  ([outcome page](/wiki/split-rate-increases-construction/), evidence strength:
+  moderate–strong).
+- **Supply constraints are what turn demand into price.** [Saiz (2010)](/wiki/saiz-housing-supply-elasticity/)
+  shows geography plus regulation determine whether demand becomes new housing or
+  higher land prices;[7] [Glaeser & Gyourko (2018)](/wiki/glaeser-gyourko-housing-supply/)
+  document the price–construction-cost wedge in constrained metros;[8]
+  [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) estimate the
+  macro cost of that misallocation.[9] This is the mechanism the narrative rests on —
+  and it points at zoning as a co-equal lever.
+- **The credit channel.** Ryan-Collins et al. argue deregulated mortgage credit
+  flowing against fixed land is what decoupled prices from incomes[2] — connecting
+  this narrative to [land speculation causes cycles](/wiki/land-speculation-causes-cycles/).
 
 ## Research That Challenges It — or Is Missing
 
-This narrative has the most important honesty section on the wiki, and it must lead
-with it:
-
-- **Land prices are substantially a *regulation* phenomenon.**
-  [Saiz (2010)](/wiki/saiz-housing-supply-elasticity/),
-  [Glaeser & Gyourko (2018)](/wiki/glaeser-gyourko-housing-supply/), and
-  [Hilber & Vermeulen (2016)](/wiki/hilber-vermeulen-england-supply/) show geography and
-  land-use regulation drive the land-price gap — which supports the "it's the land"
-  diagnosis but points the *remedy* at zoning as much as taxation. The queued objection
-  page "zoning, not LVT, is the binding constraint" is this literature's honest home.
-- **Capture ≠ cheap.** [Singapore](/wiki/singapore/) and [Hong Kong](/wiki/hong-kong/)
-  capture enormous land value yet have very costly housing — the standing
-  [objection](/wiki/land-capture-didnt-make-housing-cheap/) that revenue capture without
-  permissive supply does not deliver affordability.
-- **The affordability outcome itself is graded *contested*** on this wiki
-  ([LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/)):
-  the construction evidence is solid, but no study cleanly shows LVT alone lowering
-  rents or prices at market scale.
+- **Value capture without cheap housing exists.** [Singapore](/wiki/singapore/) and
+  [Hong Kong](/wiki/hong-kong/) capture enormous land value while housing stays
+  costly — capturing rent for revenue is not the same as expanding supply. The
+  [objection page](/wiki/land-capture-didnt-make-housing-cheap/) states this
+  honestly; the narrative must lead with the zoning pairing, not bury it.
+- **Direct LVT→affordability evidence is thinner than the construction evidence.**
+  The wiki's own [affordability outcome](/wiki/lvt-improves-housing-affordability/)
+  is rated *contested*: the supply chain of logic is solid, but few studies trace a
+  land-tax reform all the way to rents and prices.
+  [Tomson's Estonia work](/wiki/tomson-estonia-lvt/) is suggestive, not decisive.
+- **A null result exists.** [Gemmell, Grimes & Skidmore](/wiki/gemmell-grimes-skidmore-nz/)
+  found Auckland's move *off* land-value rating changed little in new consents over a
+  short window — a reminder the construction effect is not automatic in every
+  setting.
+- **Rate magnitudes matter and are rarely modelled.** Most US split-rate experience
+  involves modest rate differentials; extrapolating to transformative affordability
+  effects outruns the data. [CITATION NEEDED: a general-equilibrium simulation of a
+  large LVT's effect on metro house prices and rents.]
 
 ## Counter-Arguments and Georgist Responses
 
-- **"Just build more — zoning reform is sufficient."** Response: upzoning without land
-  value capture hands the uplift to incumbent owners and invites land banking of newly
-  valuable sites; LVT makes sitting on upzoned land expensive, so the two reforms are
-  complements ([Hsieh & Moretti](/wiki/hsieh-moretti-spatial-misallocation/) shows the
-  aggregate stakes of constrained supply).
-- **"LVT will be passed on to renters."** Response: the incidence evidence
-  ([outcome](/wiki/landlords-cannot-pass-lvt-to-tenants/);
-  [Carroll & Yinger](/wiki/carroll-yinger-benefit-tax-rental/)) says a tax on land value
-  falls on owners — with the honest caveat that Germany's *building-inclusive* property
-  tax did pass through ([Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/)),
-  which is an argument for taxing land only.
-- **"It's a demand/credit problem — rates and mortgages."** Response: partly true, and
-  the wiki says so ([The Great Mortgaging](/wiki/great-mortgaging/); the land–credit
-  loop is the core of Ryan-Collins's account). Credit amplifies the cycle; land scarcity
-  is what the credit is bidding on.
+1. **"It's a supply problem — just fix zoning."** Response: agreed on supply; but
+   zoning reform alone leaves land banking profitable — upzoned sites can be held for
+   appreciation rather than built ([speculative vacancy](/wiki/speculative-vacancy/)).
+   LVT makes the carrying cost of idle upzoned land real. The two policies are
+   complements: the narrative's strongest modern form *is* the package.
+2. **"A land tax will be passed through to renters."** The classical and modern
+   answer: a tax on pure land value cannot reduce land supply, so it comes out of
+   rent to the owner, not out of tenants — see
+   [landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/).
+3. **"LVT is just a property tax, and property taxes don't cheapen housing."**
+   Response: the property tax taxes buildings — penalizing exactly what a housing
+   crisis needs more of; splitting the rate is the point
+   ([objection page](/wiki/lvt-is-just-a-property-tax/);
+   [split-rate taxation](/wiki/split-rate-taxation/)).
+4. **"Homeowners will never allow it."** Politically serious. Responses: revenue
+   recycling (cut sales/income or the building share of property tax), phase-ins,
+   and deferral for the [asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/);
+   Detroit's proposal was framed as a tax *cut* for most homeowners
+   ([Detroit LVT proposal](/wiki/detroit-lvt-proposal/)).
 
 ## Historical Examples
 
-- **Pittsburgh's split-rate era** — the 1980s construction surge documented by
-  [Oates & Schwab](/wiki/oates-schwab-pittsburgh/) while the regional economy shrank.
-- **Estonia vs. Latvia** — [Tallinn's denser development](/wiki/tomson-estonia-lvt/)
-  under a pure land tax compared with Riga.
-- **The [Detroit LVT proposal](/wiki/detroit-lvt-proposal/)** — the narrative in live
-  American city politics: tax the speculators' lots, relieve the homeowners' buildings.
-- **The counter-example to keep honest:** [Hong Kong](/wiki/hong-kong/) — massive land
-  revenue, unaffordable housing, because supply stayed politically constrained.
+- **Pittsburgh, 1979–2000.** The flagship American case: land taxed at roughly five
+  times buildings, a building boom against the rust-belt tide, and repeal after an
+  assessment scandal — evidence and cautionary tale in one
+  ([Pittsburgh](/wiki/pittsburgh/); [Oates & Schwab](/wiki/oates-schwab-pittsburgh/)).[5]
+- **Harrisburg's turnaround** under two-rate taxation is the small-city version
+  ([Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/)).
+- **Estonia's land tax** — a nationwide pure land tax since 1993, with Tallinn
+  density findings suggesting compact development effects
+  ([Estonia](/wiki/estonia/); [Tomson](/wiki/tomson-estonia-lvt/)).
+- **The Detroit LVT proposal (2023–)** — the argument's current American test case:
+  swap the building tax down, the land tax up, to tax blight instead of renovation
+  ([event page](/wiki/detroit-lvt-proposal/)).
+- **Melbourne's speculative vacancies** — Prosper Australia's water-meter studies
+  made "empty homes amid a shortage" a measurable phenomenon
+  ([speculative vacancy](/wiki/speculative-vacancy/)).
 
 ## How to Deploy It
 
-Built for YIMBY and urbanist audiences and city-level politics. Always present LVT and
-zoning liberalization as **one package** — that ordering preempts the strongest
-objection instead of ceding it. Lead with Knoll's four-fifths fact (it reframes the
-whole debate in one sentence), then the Pittsburgh construction record. Never claim LVT
-alone will cheapen rents; claim it stops subsidies and upzoning from being swallowed by
-landowners.
+- **Audience.** YIMBYs, urbanists, renters, and city politics. This is the Georgist
+  narrative with the largest natural coalition right now — housing pain is the
+  entry point through which most newcomers (Doucet's readership included) discover
+  Georgism.[1]
+- **Lead with the diagnosis, not the tax.** "Your rent is high because the *location*
+  is expensive, and the location's value is community-created" travels further than
+  opening with a new tax. The Knoll et al. land-share finding is the anchor fact.[3]
+- **Always sell the package.** LVT *plus* zoning reform, in the same sentence, every
+  time — the Singapore/Hong Kong rebuttal punishes anyone who promises affordability
+  from capture alone.
+- **Use the building-penalty frame.** "We fine people for improving their homes and
+  reward them for sitting on vacant lots" is the most legible version of the
+  split-rate evidence.[5][6]
+- **Pairing.** Works with
+  [Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) (the
+  credit-cycle version of the same diagnosis[2]) and
+  [The Community Creates Land Value](/wiki/community-creates-land-value/) (which
+  answers "then who should get the land value instead?").
 
 ## See Also
 
-- [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) · [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/) · [Knoll, Schularick & Steger](/wiki/knoll-schularick-steger-house-prices/) · [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) · [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/)
+- [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) — the evidence page, contested rating and all
+- [Split-rate increases construction](/wiki/split-rate-increases-construction/) — the strongest supporting evidence
+- [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/) — the rebuttal to pre-empt
+- [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the macro-financial sibling
+- [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/) — the fiscal sibling
+- [Georgism](/wiki/georgism/) — the wider philosophy
 
 ## Sources
 
-1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *Rethinking the Economics of Land
-   and Housing* (2017). [Publisher](https://neweconomics.org/2017/02/rethinking-economics-land-housing)
-   — used for the land–credit account of house prices and the narrative's fullest modern statement.
-2. Lars Doucet, "Does Georgism Work?" (ACX series, 2021). [Link](https://www.astralcodexten.com/p/does-georgism-work-is-land-really)
-   — used for the popularized diagnosis and its reception.
-3. Katharina Knoll, Moritz Schularick & Thomas Steger (2017), "No Price Like Home:
-   Global House Prices, 1870–2012," *AER* 107(2). [DOI](https://doi.org/10.1257/aer.20150501)
-   — used for the land share of the postwar house-price rise (the narrative's anchor fact).
-4. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share,"
-   *BPEA*. [PDF](https://mattrognlie.com/brookings_capitalshare.pdf) — used for housing
-   as the channel of the rising capital share.
-5. Albert Saiz (2010), "The Geographic Determinants of Housing Supply," *QJE* 125(3).
-   [DOI](https://doi.org/10.1162/qjec.2010.125.3.1253) — used for the honesty section:
-   geography and regulation as land-price drivers.
+1. Lars Doucet, "Does Georgism Work?" series, Astral Codex Ten, 2021.
+   [Part I](https://www.astralcodexten.com/p/does-georgism-work-is-land-really) ·
+   [wiki summary](/wiki/doucet-does-georgism-work/) — used for the modern popular
+   statement of the housing-as-land-crisis case (D-claims, attributed).
+2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *Rethinking the Economics of
+   Land and Housing*, Zed Books / New Economics Foundation, 2017.
+   [NEF summary](https://neweconomics.org/2017/02/rethinking-economics-land-housing) ·
+   [wiki summary](/wiki/ryan-collins-rethinking-land-housing/) — used for the
+   land–credit feedback loop (C/D-claims, attributed).
+3. Katharina Knoll, Moritz Schularick & Thomas Steger, "No Price Like Home: Global
+   House Prices, 1870–2012," *American Economic Review*, 2017.
+   [DOI](https://doi.org/10.1257/aer.20150501) ·
+   [wiki summary](/wiki/knoll-schularick-steger-house-prices/) — used for the ~80%
+   land share of post-1950 house-price growth (B-claim).
+4. Matthew Rognlie, "Deciphering the Fall and Rise in the Net Capital Share,"
+   *Brookings Papers on Economic Activity*, 2015.
+   [PDF](https://mattrognlie.com/brookings_capitalshare.pdf) ·
+   [wiki summary](/wiki/rognlie-capital-share/) — used for housing's role in the
+   capital-share rise (B-claim).
+5. Wallace Oates & Robert Schwab, "The Impact of Urban Land Taxation: The Pittsburgh
+   Experience," *National Tax Journal*, 1997.
+   [PDF](https://cooperative-individualism.org/oates-wallace_the-impact-of-urban-land-taxation-1997-mar.pdf)
+   · [wiki summary](/wiki/oates-schwab-pittsburgh/) — used for the Pittsburgh
+   construction record (B-claim).
+6. Florenz Plassmann & Nicolaus Tideman, "A Markov Chain Monte Carlo Analysis of the
+   Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics*,
+   2000. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X)
+   · [wiki summary](/wiki/plassmann-tideman-construction/) — used for the
+   Pennsylvania panel evidence (B-claim).
+7. Albert Saiz, "The Geographic Determinants of Housing Supply," *Quarterly Journal
+   of Economics*, 2010. [DOI](https://doi.org/10.1162/qjec.2010.125.3.1253) ·
+   [wiki summary](/wiki/saiz-housing-supply-elasticity/) — used for the
+   supply-elasticity mechanism (B-claim).
+8. Edward Glaeser & Joseph Gyourko, "The Economic Implications of Housing Supply,"
+   *Journal of Economic Perspectives*, 2018.
+   [AEA](https://pubs.aeaweb.org/doi/10.1257/jep.32.1.3) ·
+   [wiki summary](/wiki/glaeser-gyourko-housing-supply/) — used for the
+   price–construction-cost wedge (B-claim).
+9. Chang-Tai Hsieh & Enrico Moretti, "Housing Constraints and Spatial Misallocation,"
+   *American Economic Journal: Macroeconomics*, 2019.
+   [AEA](https://www.aeaweb.org/articles?id=10.1257%2Fmac.20170388) ·
+   [wiki summary](/wiki/hsieh-moretti-spatial-misallocation/) — used for the
+   macroeconomic cost of housing constraints (B-claim).

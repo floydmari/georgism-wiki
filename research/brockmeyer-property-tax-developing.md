@@ -23,6 +23,8 @@ The study is valuable because rigorous causal evidence on land and property taxa
 
 ## Bears On
 
+- **Companion survey:** [Franzsen & McCluskey, Property Tax in Africa (2017)](/wiki/franzsen-mccluskey-property-tax-africa/) — the institutional context for these experimental results
+
 - **Outcome:** [Property taxes raise welfare in developing countries](/wiki/property-tax-raises-welfare-developing/)
 
 ## Sources

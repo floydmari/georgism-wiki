@@ -50,6 +50,29 @@ This is the direct ecological extension of the Georgist claim that unearned rent
 - [The Common Wealth Fund](/wiki/common-wealth-fund/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 
+## The Policy Lineage It Started
+
+- **Cap-and-dividend legislation.** Rep. (later Sen.) Chris Van Hollen introduced the
+  *Cap and Dividend Act* in 2009 (H.R. 1862) and the *Healthy Climate and Family
+  Security Act* repeatedly thereafter (2014, 2015, 2018, 2019, 2022, 2024) — each
+  auctioning 100% of carbon permits to first sellers of fossil fuels and returning
+  the proceeds as equal quarterly dividends to every American with a Social Security
+  number. None received a floor vote.[3]
+- **The Economists' Statement on Carbon Dividends (2019).** Organized by the Climate
+  Leadership Council and published in the *Wall Street Journal*, signed by more than
+  3,500 US economists including 27 Nobel laureates (28 by later counts) and all four
+  living former Fed chairs: a carbon tax is "the most cost-effective lever" for
+  emissions reduction, and "all the revenue should be returned directly to U.S.
+  citizens through equal lump-sum rebates."[4] The dividend design Barnes proposed
+  in 2001 had become, by 2019, the revenue recommendation of the largest public
+  statement of economists on record (the scale claim is the organizers' own).
+- **Barnes' later books** extend the argument: *Capitalism 3.0* (2006, released as a
+  free PDF) generalizes the trust model to other commons; *With Liberty and
+  Dividends for All* (2014) traces the dividend lineage from Thomas Paine's
+  *Agrarian Justice* (1797) to Alaska.[5]
+
+(Section grafted 2026-07-05 from the parallel-drafted barnes-sky-trust page during branch merge; bill numbers and the Economists' Statement figures verified via multi-source corroboration.)
+
 ## Sources
 
 1. Peter Barnes (2001), *Who Owns the Sky? Our Common Assets and the Future of Capitalism*, Island Press. [Island Press](https://islandpress.org/books/who-owns-sky) — used for title, publisher, year, and overall thesis; ISBN and hardcover/paperback edition details cross-checked via library-catalog listings (AbeBooks/WorldCat-indexed) since direct access to islandpress.org was blocked in this session's egress. — used for the sky-trust mechanism and cap-and-dividend framing.

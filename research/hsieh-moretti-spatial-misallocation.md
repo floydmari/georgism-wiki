@@ -56,7 +56,11 @@ The paper's direct subject is **land-use regulation** (zoning, permitting, heigh
 
 ## See Also
 
+<<<<<<< HEAD
+- [Herkenhoff, Ohanian & Prescott (2018)](/wiki/herkenhoff-ohanian-prescott-tarnishing/) — the companion macro estimate of land-use restriction costs
+=======
 - [Spatial Misallocation](/wiki/spatial-misallocation/)
+>>>>>>> origin/main
 
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/)

@@ -191,6 +191,14 @@ def main():
                     warn(f, f"bidirectional gap: {r} lacks supports_outcomes: [{slug}]")
             for r in aslist(meta.get("challenged_by")):
                 if r not in slugs: err(f, f"challenged_by -> unknown research '{r}'")
+            # BODY-PARITY (added 2026-07-05, Floyd's rule): every evidence slug wired in
+            # frontmatter must actually be discussed/linked in the page body. Frontmatter
+            # feeds the COVERAGE gauge; a page whose body doesn't walk through its own
+            # evidence is a drift bug (the "Doucet-only body" failure mode).
+            unwalked = [r for r in (aslist(meta.get("supported_by")) + aslist(meta.get("challenged_by")))
+                        if r in slugs and f"/wiki/{r}/" not in p["body"]]
+            if unwalked:
+                warn(f, "BODY-PARITY: frontmatter evidence not cited in body: " + ", ".join(unwalked))
 
         for rel_key in ("related_people", "related_places"):
             for t in aslist(meta.get(rel_key)):

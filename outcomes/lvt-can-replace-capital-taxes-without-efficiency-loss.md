@@ -21,6 +21,15 @@ Replacing taxes on **capital** with a tax on **land** improves economic efficien
 
 This rests on the oldest result in the field: a tax on a factor in perfectly inelastic supply causes no change in quantity, hence no deadweight loss — a point on which economists from Henry George to Milton Friedman (who called LVT the "least bad tax") agree.
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Adam et al. (2011)](/wiki/mirrlees-review/) — The UK's most authoritative modern tax review, chaired by Nobel laureate Sir James Mirrlees, concludes that land value should be taxed and proposes replacing business rates with a land value tax.
+- [Johansson et al. (2008)](/wiki/oecd-taxation-economic-growth/) — The OECD's famous 'tax and growth' ranking: recurrent taxes on immovable property are least harmful to growth, then consumption, personal income, and corporate taxes most harmful — the most-cited institutional case for shifting tax toward property.
+- [Arnold et al. (2011)](/wiki/arnold-tax-growth-ej/) — The peer-reviewed Economic Journal version of the OECD 'tax and growth' ranking: revenue-neutral shifts toward recurrent property and consumption taxes raise long-run GDP per capita in a 21-country OECD panel.
+- [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) — The foundational modern theoretical model of graded (split-rate) taxation: shifting a property tax off improvements and onto land raises the capital-to-land ratio, with an ambiguous-to-positive effect on land value itself.
+
 ## Strength of Evidence
 
 **Strong** — grounded in well-established theory and confirmed by independent calibrated models.

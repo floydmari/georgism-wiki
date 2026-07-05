@@ -33,6 +33,14 @@ The main rival reading is that measured profits reward genuine efficiency and in
 
 These are not fully exculpatory: rents on intangibles and network positions are still returns to scarcity and position rather than to marginal production, which is why parts of this literature (e.g., [Mazzucato, Ryan-Collins & Gouzoulis 2023](/wiki/mazzucato-mapping-rents/)) treat them as the modern frontier of rent analysis. But they mean the *size* of the pure-rent component is genuinely contested.
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Zingales (2017)](/wiki/zingales-political-theory-firm/) — Zingales argues that market concentration creates a 'Medici vicious circle' where firms use economic power to gain political power, which in turn entrenches market power — a political-economy mechanism for rising corporate rents.
+- [Akcigit & Ates (2021)](/wiki/akcigit-ates-business-dynamism/) — A review of ten stylized facts on declining US business dynamism — rising concentration, markups, and profits alongside falling labor share — unified through an endogenous growth model in which slowing knowledge diffusion from frontier to laggard firms drives the observed trends.
+- [Advisers (2016)](/wiki/cea-2016-market-power/) — A 2016 Council of Economic Advisers issue brief documenting rising industry concentration, increasing returns dispersion among firms, and declining business dynamism — an official U.S. government corroboration of the rising-rents thesis.
+
 ## Strength of Evidence
 
 **Moderate–strong that the profit rise is real and abnormal** — the markup, pure-profit, and dispersion methodologies are independent and agree on direction. **Contested on interpretation:** how much is extraction (market power, regulatory capture, network monopoly) versus mismeasured returns to intangible investment remains an active dispute, and the honest reading is "a substantial but not precisely known share is rent."

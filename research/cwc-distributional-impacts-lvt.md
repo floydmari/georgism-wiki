@@ -48,6 +48,8 @@ This note **complicates, rather than simply confirms**, the wiki's existing prog
 
 ## See Also
 
+- [CWC price-reaction model](/wiki/cwc-lvt-price-reaction-model/) — the companion modeling study
+
 - [Land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)
 - [Schwerhoff, Edenhofer & Fleurbaey — Equity and Efficiency Effects of Land Value Taxation](/wiki/schwerhoff-imf-equity-efficiency/)
 - [Objection: LVT hurts the "asset-rich, cash-poor"](/wiki/lvt-hurts-asset-rich-cash-poor/)

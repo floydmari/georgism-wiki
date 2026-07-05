@@ -51,6 +51,8 @@ However, the paper's contribution to the **progressivity** case specifically —
 
 ## See Also
 
+- [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) — the replication/extension of England & Zhao on the same question
+
 - [Land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)
 - [Assessing the Distributional Impacts of a Land Value Tax (Common Wealth Canada)](/wiki/cwc-distributional-impacts-lvt/)
 - [Schwerhoff, Edenhofer & Fleurbaey — Equity and Efficiency Effects of Land Value Taxation](/wiki/schwerhoff-imf-equity-efficiency/)

@@ -1,121 +1,217 @@
 ---
 title: "Narrative: The Single Tax"
 category: narratives
-tags: [narratives, practical, single-tax, tax-simplification, atcor, history]
-narrative_type: practical
-supported_by: [lvt-can-replace-capital-taxes-without-efficiency-loss, land-rent-could-fund-government]
-related_people: [henry-george, tom-l-johnson, leo-tolstoy, sun-yat-sen]
-related_places: [hong-kong, singapore, taiwan]
+tags: [narratives, practical-argument, single-tax, henry-george, tax-reform, atcor, land-value-tax]
 stub: false
-excerpt: "Fund government from one levy on land values and untax work, enterprise, and exchange entirely. The movement's historical brand — radical simplification with no penalty on production — whose full-replacement arithmetic remains the honestly contested step."
+excerpt: "The historical flagship story — one levy on land values could replace taxation of work and enterprise — traced from George's proposal through the movement it built, with the revenue arithmetic honestly contested, the counter-arguments, and guidance on deploying it today."
+narrative_type: practical
+supported_by: [land-rent-could-fund-government, lvt-can-replace-capital-taxes-without-efficiency-loss]
+related_people: [henry-george, tom-l-johnson, leo-tolstoy, sun-yat-sen, mason-gaffney]
+related_places: [hong-kong, singapore]
 last_reviewed: 2026-07-05
 ---
 
+*This page covers the persuasive career of the single-tax argument — the movement's
+historical brand. For the doctrine itself, see the concept page:
+[Single Tax](/wiki/single-tax/).*
+
 ## Core Claim
 
-Abolish every tax on work, enterprise, and exchange, and fund government from a single
-levy on land values. The pitch is radical simplification with no economic penalty:
-because land's supply is fixed, the one tax that raises revenue without discouraging
-production replaces the many that do. This page covers the *persuasive use* of the
-claim; the [Single Tax](/wiki/single-tax/) concept page covers the doctrine and its
-history.
+Government could be funded by one levy on the rental value of land, replacing every tax
+on wages, profits, buildings, and exchange. Because land is fixed in supply, the levy
+would distort nothing; because rent is community-created, it would take nothing anyone
+earned. The narrative promises radical simplification — a tax system with one honest
+base instead of a thicket of penalties on production. Henry George stated it as the
+whole of his practical programme in *Progress and Poverty* (1879): "to abolish all
+taxation save that upon land values" (Book VIII, Ch. 2).[1] The claim is a *practical*
+one — sufficiency and simplicity — and that is where both its power and its
+vulnerability lie.
 
 ## Who Promotes It
 
-- [Henry George](/wiki/henry-george/) made it the program of *Progress and Poverty*
-  (Book VIII) and the banner of a mass movement.[1]
-- [Tom L. Johnson](/wiki/tom-l-johnson/) carried it into American municipal politics;
-  [Leo Tolstoy](/wiki/leo-tolstoy/) evangelized it in Russia;
-  [Sun Yat-sen](/wiki/sun-yat-sen/) built it into the Chinese republican program (its
-  institutional residue is [Taiwan's](/wiki/taiwan/)
-  [land value increment tax](/wiki/land-value-increment-tax/)).
-- Institutionally: the [Schalkenbach Foundation](/wiki/schalkenbach-foundation/) and the
-  [Henry George School](/wiki/henry-george-school/) have kept the brand alive since the
-  1920s–30s.
+- **[Henry George](/wiki/henry-george/)** made it the operational conclusion of
+  [*Progress and Poverty*](/wiki/progress-and-poverty/) and defended the sufficiency
+  arithmetic for the rest of his life.[1] His
+  [1886 New York mayoral run](/wiki/1886-nyc-mayoral-election/) put the proposal on a
+  major-city ballot and outpolled Theodore Roosevelt.
+- **The movement it built.** [Tom L. Johnson](/wiki/tom-l-johnson/) governed Cleveland
+  (1901–1909) as an avowed single-taxer; soap magnate Joseph Fels bankrolled campaigns
+  on two continents; Louis Post carried the idea into the Wilson administration.
+  Christopher England's scholarly history dates the movement's peak influence to the
+  1890s–1910s Progressive Era.[2]
+- **International admirers.** [Leo Tolstoy](/wiki/leo-tolstoy/) promoted George's
+  programme in Russia as a moral imperative; [Sun Yat-sen](/wiki/sun-yat-sen/) wrote
+  "equalization of land rights" into the founding programme of the Republic of China —
+  the single tax's longest institutional echo, still visible in
+  [Taiwan](/wiki/taiwan/)'s land taxes.
+- **Modern revivalists of the arithmetic.** [Mason Gaffney](/wiki/mason-gaffney/)
+  spent a career arguing that land's taxable capacity is systematically understated —
+  "enough, and to spare"[3] — via hidden rent categories and the
+  [ATCOR](/wiki/atcor/) effect; [Fred Foldvary](/wiki/fred-foldvary/) argued public
+  goods can be financed from the rent they themselves generate.[4] Institutionally the
+  torch is carried by the [Schalkenbach Foundation](/wiki/schalkenbach-foundation/)
+  and the [Henry George School](/wiki/henry-george-school/).
 
 ## Research That Supports It
 
-- **The efficiency half is the strong half** —
+- **The efficiency half of the claim is strong.** Replacing taxes on capital and labour
+  with a land tax involves no efficiency loss under standard theory — see
   [LVT can replace capital taxes without efficiency loss](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)
-  is one of the wiki's best-supported outcomes ([Brueckner's](/wiki/brueckner-site-value-taxation/)
-  theory; the [OECD](/wiki/oecd-taxation-economic-growth/) and
-  [Arnold et al.](/wiki/arnold-tax-growth-ej/) growth rankings placing recurrent
-  property/land taxes as least harmful; the [Mirrlees Review's](/wiki/mirrlees-review/)
-  endorsement of an LVT direction).
-- **The revenue half is genuinely contested** —
+  (evidence strength: strong) and [deadweight loss](/wiki/deadweight-loss/). Nothing in
+  the modern literature disputes that *whatever revenue land rent can supply* is
+  supplied more efficiently than by taxing production.
+- **Land rent is large.** Estimates collected on
   [land rent could fund a large share of government](/wiki/land-rent-could-fund-government/)
-  (6 supporting studies on scale: Larson, Albouy-Ehrlich-Shin, World Bank wealth
-  accounts, [Gaffney](/wiki/gaffney-hidden-taxable-capacity/)) supports "a large share,"
-  not "all of it."
-- [ATCOR](/wiki/atcor/) ("all taxes come out of rent") and [EBCOR](/wiki/ebcor/) are the
-  theoretical bridge from "large share" to "all" — Gaffney's argument that abolishing
-  other taxes swells the rent base itself. The wiki classifies both as **largely
-  untested theoretical claims**, and this narrative must too.
-- [Goodhart, Hudson, Kumhof & Tideman's stimulus model](/wiki/goodhart-stimulus/) is the
-  modern macro-modeling gesture toward large-scale tax substitution.
+  (evidence strength: contested) agree that rent is a first-order macroeconomic
+  magnitude; [Larson's BEA-based valuation](/wiki/larson-us-land-value/) and
+  [Albouy, Ehrlich & Shin's metro estimates](/wiki/albouy-ehrlich-shin-metro-land/)
+  put US land value in the tens of trillions of dollars.
+- **The optimistic arithmetic has a serious statement.** Gaffney's "The Hidden Taxable
+  Capacity of Land" (2009) is the fullest modern case that measured rent understates
+  taxable rent — via untaxed resource rents, spectrum, under-assessment, and the
+  [ATCOR](/wiki/atcor/) claim that abolishing other taxes swells the land-rent base
+  itself.[3]
+- **The Henry George Theorem** gives the sufficiency idea a formal benchmark: under
+  optimality conditions, aggregate land rent equals spending on local public goods
+  ([Arnott & Stiglitz 1979](/wiki/arnott-stiglitz-henry-george-theorem/);
+  [public goods fundable from land rent](/wiki/public-goods-fundable-from-land-rent/)).[5]
 
 ## Research That Challenges It — or Is Missing
 
-- **No modern economy funds itself from land revenue alone.**
-  [Hong Kong](/wiki/hong-kong/) and [Singapore](/wiki/singapore/) — the closest partial
-  precedents via [public land leasing](/wiki/public-land-leasing/) — cover a large
-  minority of spending, not all of it.
-- **The full-replacement arithmetic runs through ATCOR, which is untested.** Without it,
-  the [revenue objection](/wiki/lvt-not-enough-revenue/) — steelmanned on this wiki with
-  Larson-based extrapolations — caps the single tax at "the largest single tax," not the
-  only one.
-- **The movement's own history is a caution:** the
-  [1909 People's Budget](/wiki/1909-peoples-budget/) land duties collected less than
-  they cost to administer before repeal ([Lloyd George](/wiki/david-lloyd-george/)
-  valuation saga), and the [single-tax colonies](/wiki/single-tax-colonies/) proved the
-  ethic durable but tiny.
+- **Full replacement is the contested step.** Conventionally *measured* land rent falls
+  short of total government spending in modern welfare states; the optimistic case
+  depends on rent categories and the ATCOR base-expansion effect that remain largely
+  untested empirically. The wiki's own outcome page rates sufficiency
+  **contested**, and the [revenue objection](/wiki/lvt-not-enough-revenue/) collects
+  the sceptical arithmetic. No peer-reviewed general-equilibrium estimate validates
+  the full single-tax budget for a modern welfare state.
+- **No jurisdiction has ever run one.** [Hong Kong](/wiki/hong-kong/) and
+  [Singapore](/wiki/singapore/) raise a large fraction of revenue from land, and
+  [Denmark](/wiki/denmark/) operates a standing land tax — but every real case is a
+  *partial* precedent. The single tax proper has no implementation record, which for a
+  practical narrative is the largest missing exhibit.
+- **The movement's own record cuts both ways.** England's history documents both the
+  breadth of single-tax politics and its failure to capture a major government — and
+  attributes the decline partly to the all-or-nothing framing itself.[2]
+- **The strongest hostile statement on record.** Rothbard's 1957 essay argues the
+  single tax would misallocate sites, that assessment divorced from market transactions
+  is arbitrary, and that the earned/unearned distinction fails.[6] See
+  [the Austrian critique](/wiki/lvt-austrian-critique/) and
+  [the assessment objection](/wiki/land-cannot-be-assessed/).
 
 ## Counter-Arguments and Georgist Responses
 
-- **"It can't raise enough."** Response: partially conceded — modern advocates
-  (documented across [Doucet's series](/wiki/doucet-does-georgism-work/) and the
-  [Mirrlees Review](/wiki/mirrlees-review/)) mostly argue for a *much larger* land tax
-  displacing the worst taxes first, with full replacement as a horizon that depends on
-  ATCOR being right. The narrative page says this plainly because the movement's
-  credibility has historically been damaged when it didn't.
-- **"One tax is fragile — diversify the base."** Response: the single-tax case is about
-  *deadweight*, not administrative monoculture; even partial substitution captures most
-  of the efficiency gain ([efficiency outcome](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)).
-- **"It's a nineteenth-century brand."** Response: true, and usable — the brand carries
-  a century of intellectual pedigree (Friedman's "least bad tax," the Mirrlees
-  endorsement), which is why modern messaging usually leads with
-  [Tax Land, Not Labor](/wiki/tax-land-not-labor/) and keeps "single tax" as the
-  historical anchor.
+1. **"Land rent can't fund a modern state."** The honest response concedes the point as
+   stated and reframes: modern advocates almost uniformly argue for LVT as the *first
+   and largest* tax, not the only one — the position the wiki's
+   [revenue-sufficiency outcome](/wiki/land-rent-could-fund-government/) supports.
+   The maximalist reply (Gaffney: measured rent understates true rent; ATCOR enlarges
+   the base as other taxes fall[3]) should be reported as the optimistic wing's case,
+   not as settled.
+2. **"If it were viable, somewhere would have done it."** Responses: partial precedents
+   exist wherever the fiscal system leans on land ([Hong Kong](/wiki/hong-kong/),
+   [Singapore](/wiki/singapore/), [Denmark](/wiki/denmark/), Taiwan); and the political
+   economy of the transition — concentrated, well-organized losers — explains
+   non-adoption without impugning the economics
+   ([transition wealth shock](/wiki/lvt-transition-wealth-shock/)).
+3. **"One base is fragile — revenue would swing with land markets."** The Georgist
+   response distinguishes annual site-value assessment (which moves with the slow
+   rental market) from realized-price windfall taxes (which swing violently); Denmark's
+   grundskyld has been a stable municipal base for a century. A diversified-base
+   counter remains standard public-finance advice — the narrative should not deny it.
+4. **"Assessment can't carry that much weight."** See
+   [land cannot be assessed](/wiki/land-cannot-be-assessed/): mass appraisal of site
+   value is routine in several countries; but the objection gains force as the rate
+   rises toward the single-tax maximum, and honest deployment concedes that a 100%
+   rent capture demands assessment precision no jurisdiction has yet operated.
 
 ## Historical Examples
 
-- **The [1886 New York mayoral campaign](/wiki/1886-nyc-mayoral-election/)** — George
-  nearly rode the single tax to City Hall; the movement's political high-water mark.
-- **[Fairhope](/wiki/fairhope-single-tax-corporation/) and Arden
-  ([single-tax colonies](/wiki/single-tax-colonies/))** — the ethic in miniature,
-  operating for over a century.
-- **[Sun Yat-sen's](/wiki/sun-yat-sen/) program → [Taiwan's land reforms](/wiki/taiwan-land-reform-1950s/)**
-  — the single-tax idea's largest institutional legacy.
+- **The 1886 New York mayoral election** — George's near-miss candidacy, the moment
+  the single tax was a live metropolitan political programme
+  ([event page](/wiki/1886-nyc-mayoral-election/)).
+- **Cleveland under Tom L. Johnson (1901–1909)** — the closest an American big city
+  came to governance by a single-taxer: municipal ownership fights, three-cent fares,
+  and tax reform within state constitutional limits.[2]
+- **The [single-tax colonies](/wiki/single-tax-colonies/)** — Fairhope, Alabama
+  (1894, still operating as the
+  [Fairhope Single Tax Corporation](/wiki/fairhope-single-tax-corporation/)) and Arden,
+  Delaware: working miniatures that collect ground rent in lieu of internal taxes.
+  Proof of administrative concept at village scale; silent on national scale.
+- **Sun Yat-sen's programme** — "equalization of land rights" carried the idea into
+  the constitutional order that still governs [Taiwan](/wiki/taiwan/), the largest
+  polity whose land-tax system descends directly from Georgist doctrine.
+- **The movement's decline** after World War I — competing socialist and Keynesian
+  frameworks, the death of its founder-generation, and (as
+  [Gaffney argued](/wiki/gaffney-neoclassical-stratagem/), contestedly) an academic
+  counter-revolution; see
+  [Narrative: The Corruption of Economics](/wiki/the-corruption-of-economics/) for that
+  story.
 
 ## How to Deploy It
 
-For tax-simplification and libertarian-leaning audiences, and as the movement's
-historical identity story. Deploy the *efficiency* case at full strength and the
-*sufficiency* case with explicit honesty ("the largest tax, funding most of government
-— all of it only if ATCOR holds"). Overclaiming sufficiency is this narrative's
-historical failure mode; the page exists partly to prevent repeating it.
+- **Audience.** Tax-simplification and libertarian-leaning audiences respond to the
+  one-honest-base framing; the movement-history version works for civic and historical
+  audiences. For economists, deploy
+  [Tax Land, Not Labor](/wiki/tax-land-not-labor/) instead — same policy, without the
+  sufficiency hostage.
+- **Do not defend the "single."** The all-or-nothing framing is the narrative's
+  historical weakness; England's history shows the movement itself splitting over
+  it.[2] Modern usage should present the single tax as the *limiting case* that
+  clarifies the principle — then advocate the large-LVT position the evidence
+  supports.
+- **Lead with simplification, close with efficiency.** "One tax you can see, on a base
+  that can't leave" is the hook; the
+  [no-efficiency-loss evidence](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)
+  is the close.
+- **Concede sufficiency early.** A deployer who volunteers "no, land rent alone
+  probably cannot fund the Pentagon and Medicare" gains credibility that the
+  maximalist forfeits — and loses nothing, since a partial shift is the live proposal
+  anyway.
+- **Pairing.** Works with [The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/)
+  (both are practical-simplicity stories) and the
+  [unearned-increment narrative](/wiki/unearned-increment-narrative/) (which supplies
+  the moral floor under the fiscal claim).
 
 ## See Also
 
-- [Single Tax](/wiki/single-tax/) · [ATCOR](/wiki/atcor/) · [Narrative: Tax Land, Not Labor](/wiki/tax-land-not-labor/) · [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/) · [Land rent could fund a large share of government](/wiki/land-rent-could-fund-government/)
+- [Single Tax](/wiki/single-tax/) — the concept page this narrative deploys
+- [Land rent could fund a large share of government](/wiki/land-rent-could-fund-government/) — the contested arithmetic
+- [ATCOR](/wiki/atcor/) — the optimistic wing's key mechanism
+- [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/) — the standard reply
+- [Narrative: Tax Land, Not Labor](/wiki/tax-land-not-labor/) — the modern economist's version of the same shift
+- [Georgism](/wiki/georgism/) — the wider philosophy
 
 ## Sources
 
-1. Henry George, *Progress and Poverty* (1879), Book VIII ("Application of the Remedy").
-   [Full text](https://www.gutenberg.org/ebooks/55308) — used for the original program.
-2. Mason Gaffney, "The Hidden Taxable Capacity of Land" (2009). [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
-   — used for the ATCOR bridge from large-share to full-replacement claims.
-3. Institute for Fiscal Studies, *Tax by Design* (Mirrlees Review, 2011). [IFS](https://ifs.org.uk/books/tax-design)
-   — used for the modern mainstream endorsement of the LVT direction.
-4. Johansson et al. (2008), "Taxation and Economic Growth," OECD WP 620. [OECD](https://www.oecd.org/en/publications/taxation-and-economic-growth_241216205486.html)
-   — used for the tax-ranking evidence behind the efficiency half.
+1. Henry George, *Progress and Poverty*, 1879, Book VIII, Ch. 2.
+   [Full text (Project Gutenberg)](https://www.gutenberg.org/ebooks/55308) — used for
+   the original proposal and its wording (A/F-claims).
+2. Christopher William England, *Land and Liberty: Henry George and the Single Tax
+   Movement*, Johns Hopkins University Press, 2023.
+   [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty) — used for
+   the movement's peak, personnel (Johnson, Fels, Post), internal splits, and decline
+   (A-claims).
+3. Mason Gaffney, "The Hidden Taxable Capacity of Land: Enough, and to Spare,"
+   *International Journal of Social Economics*, 2009.
+   [PDF (UCR)](https://economics.ucr.edu/papers/papers08/08-12old.pdf) ·
+   [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) — used as the fullest modern
+   statement of the optimistic revenue arithmetic (C/D-claims, attributed).
+4. Fred Foldvary, *Public Goods and Private Communities: The Market Provision of Social
+   Services*, Edward Elgar, 1994.
+   [Publisher listing](https://ideas.repec.org/b/elg/eebook/167.html) ·
+   [wiki summary](/wiki/foldvary-public-revenue/) — used for the
+   rent-finances-public-goods argument (C-claims).
+5. Richard Arnott & Joseph Stiglitz, "Aggregate Land Rents, Expenditure on Public
+   Goods, and Optimal City Size," *Quarterly Journal of Economics*, 1979.
+   [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf)
+   · [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/) — used for the Henry
+   George Theorem benchmark (C-claim).
+6. Murray Rothbard, "The Single Tax: Economic and Moral Implications," Foundation for
+   Economic Education, 1957.
+   [Text (Mises Institute)](https://mises.org/library/single-tax-economic-and-moral-implications)
+   · [wiki summary](/wiki/rothbard-single-tax/) — used as the strongest hostile
+   statement on record (E-claim).
+7. Revenue-scale estimates are cited on the linked outcome page:
+   [Larson 2015](/wiki/larson-us-land-value/) ·
+   [Albouy, Ehrlich & Shin 2018](/wiki/albouy-ehrlich-shin-metro-land/) (B-claims).

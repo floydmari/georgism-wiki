@@ -53,10 +53,12 @@ tasks needing live web research stay on tool-using agents.
    In-Wiki Citations, Year, Tier, Format, URL). **When a source's wiki page ships, flip its
    registry row to Status=Scanned and fill Wiki Page in the same iteration** — a page without
    its registry row updated is an incomplete task.
-   **Sheet mirror (MANDATORY, never silent):** any iteration that changes `sources/registry.csv`
-   must, before finishing: run `python3 scripts/export_registry_for_sheet.py` and EITHER
-   (a) push the export to Floyd's Google Drive as a dated snapshot spreadsheet (via available
-   Drive/Sheets tooling), OR (b) if no Drive access, append a loud
+   **Registry mirrors (MANDATORY, never silent):** any iteration that changes `sources/registry.csv`
+   must, before finishing: run `python3 scripts/export_registry_for_sheet.py`, then
+   (1) **commit the dated export to `sources/exports/registry-export-YYYY-MM-DD.csv`** — the
+   definitive snapshot, viewable directly on GitHub (Floyd's standing request, 2026-07-05) — and
+   (2) EITHER push the export to Floyd's Google Drive as a dated snapshot spreadsheet (via
+   available Drive/Sheets tooling), OR if no Drive access, append a loud
    `- [ ] [SHEET-SYNC] tier:T3 status:todo — push registry export to the master Google Sheet
    (last synced: <date>)` line to `BACKLOG.md`. A log line saying "sync pending" is NOT
    sufficient — the staleness must be visible in the backlog Floyd reads.
@@ -64,6 +66,15 @@ tasks needing live web research stay on tool-using agents.
    citation · softened claims · stronger sources to find) in `reports/<slug>.cite.md`.
 5. **Self-review** against `QUALITY_RUBRIC.md`. T1 adds the adversarial pass: *"what would a
    skeptical economist dispute, and does each claim's wording match its source's strength?"*
+   T1 review additionally gates on two structural rules (Floyd, 2026-07-05):
+   - **Body-parity:** every slug wired in an outcome's `supported_by`/`challenged_by` must be
+     discussed or linked in the page body — the frontmatter feeds the COVERAGE gauge, so a
+     body that doesn't walk through its own evidence silently overstates the page.
+     `lint_wiki.py` now emits `BODY-PARITY` warnings; a reviewed page ships with zero.
+   - **Synthesis de-referencing:** if a page's evidence leans on a synthesis (Doucet's ACX
+     series, review articles, compendia), queue ingestion of the primary papers it cites and
+     demote the synthesis to navigation. A synthesis may introduce evidence; it may not BE the
+     evidence.
 6. **Lint until clean.** Re-run `lint_wiki.py`; resolve errors. Warnings should trend down.
 7. **Preview.** Run `python3 scripts/build_preview.py`. Confirm the changed pages render and
    cross-links resolve. (Serve locally with `python3 -m http.server -d preview 8000`.)
@@ -79,8 +90,9 @@ tasks needing live web research stay on tool-using agents.
 10. **Commit & push (GitHub is the master record).** One task per commit:
    `content: <what> (<TYPE> tier:T<n>)`. Push to the working branch. **Open/refresh a PR** for
    DRAFT-loop work (cheap output must not auto-publish).
-11. **Publish — REVIEW loop only.** After T1 approval + merge, if `GHOST_ADMIN_KEY` is set:
-    `python3 scripts/sync_to_ghost.py <changed files>`. Otherwise log `publish pending`.
+11. **Publish — NOT the loop's job (Floyd, 2026-07-05).** Deployment to progress.org is Floyd's
+    separate process. The loop's output ends at commit + push + preview artifact. Do not chase
+    GHOST_ADMIN_KEY / 1Password; `scripts/sync_to_ghost.py` stays in the repo for Floyd's use.
 
 ## The growth flywheel
 

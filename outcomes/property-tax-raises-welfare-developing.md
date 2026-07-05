@@ -17,6 +17,14 @@ In developing economies, **raising the rate** of recurrent property (and land) t
 - [Brockmeyer et al. (2021, NBER)](/wiki/brockmeyer-property-tax-developing/) use natural experiments in Mexico and find that property-tax **rate increases** raised welfare, while aggressive **enforcement** against delinquents could lower it. The gains come from the rate on compliant owners, not from coercion.
 - This aligns with the [IMF's global assessment](/wiki/imf-taxing-immovable-property/) that property/land taxes are efficient but under-used, with large untapped potential in developing countries.
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Bank (2020)](/wiki/world-bank-property-tax-determinants/) — A cross-country analysis of property-tax revenue performance across 128 countries, identifying what drives successful property and land taxation.
+- [Baer et al. (2025)](/wiki/imf-building-tax-capacity/) — IMF Departmental Paper on mobilizing domestic tax revenue in developing countries, arguing property taxation is a large, underused, administratively demanding revenue source.
+- [Franzsen & McCluskey (2017)](/wiki/franzsen-mccluskey-property-tax-africa/) — The first comprehensive study of recurrent property taxation across Africa — 29 country reviews showing the tax is efficient in theory but severely constrained by valuation, identification, and enforcement capacity.
+
 ## Strength of Evidence
 
 **Moderate.** The Brockmeyer evidence is causally rigorous but from one country; generalisation to other contexts is plausible but not established.

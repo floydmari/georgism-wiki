@@ -48,6 +48,8 @@ The book is unusually candid, for an edited volume broadly sympathetic to the PF
 
 ## See Also
 
+- [Karl Widerquist](/wiki/karl-widerquist/) — co-editor of this volume
+
 - [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 - [Establishment of the Alaska Permanent Fund](/wiki/alaska-permanent-fund/)

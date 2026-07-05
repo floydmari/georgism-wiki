@@ -20,7 +20,7 @@ Gaffney marshals archival evidence that early American economics departments wer
 
 ## Reception
 
-The thesis is controversial and contested by historians of economic thought, but the underlying archival record on the funding of early economics, and the disappearance of land from the standard factors of production, is well documented and widely acknowledged even by critics.
+The thesis is controversial and contested by historians of economic thought, but the underlying archival record on the funding of early economics, and the disappearance of land from the standard factors of production, is well documented and widely acknowledged even by critics. The wiki's principal counter-source is [Blaug (2000)](/wiki/blaug-henry-george-rebel/), which carries the mainstream analytic-grounds historiography and the skeptical peer-review reception (Milgate, *JEL* 1996).
 
 ## Bears On
 
@@ -30,6 +30,8 @@ The thesis is controversial and contested by historians of economic thought, but
 
 - **People:** [Mason Gaffney](/wiki/mason-gaffney/) · [Henry George](/wiki/henry-george/) · [John Bates Clark](/wiki/john-bates-clark/)
 - **Concept:** [Land Monopoly](/wiki/land-monopoly/)
+- **Narrative:** [The Corruption of Economics](/wiki/the-corruption-of-economics/) — the persuasive deployment, with both historiographies mapped
+- **Counter-source:** [Blaug, "Henry George: Rebel with a Cause"](/wiki/blaug-henry-george-rebel/)
 
 ## Sources
 

@@ -70,6 +70,28 @@ The essay also complicates a naive "enclosure was simply efficient" defence of t
 - [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/)
 - [Unearned Increment](/wiki/unearned-increment/)
 
+## The Revisionist Counter-Evidence
+
+Honest use of this history requires the other side. **Gregory Clark and Anthony
+Clark (2001)**, in the *Journal of Economic History*, argue from land-rent charity
+records that:
+
+- common land was only about **27% of England by 1600** (and perhaps only a third
+  even in 1500) — "private property was thus the norm in England by 1600";
+- most common land was **"stinted"** — usable only by holders of formal property
+  rights, not by the landless;
+- common waste genuinely open to the landless poor was only around **4% of land**,
+  much of it marginal;
+- consequently **both** the efficiency gains claimed for enclosure **and** the
+  welfare losses to the landless poor were much smaller than the
+  Hammond–Thompson–Neeson tradition holds.[5]
+
+The disagreement is about *magnitude and incidence*, not about whether enclosure
+happened or whether Parliament's process favoured those who controlled it. Any wiki
+page deploying enclosure as a moral datum should state the dispute.
+
+(Section grafted 2026-07-05 from the parallel-drafted fairlie-short-history-enclosure page during branch merge.)
+
 ## Sources
 
 1. Simon Fairlie, "A Short History of Enclosure in Britain," *The Land*, Issue 7, Summer 2009. [The Land Magazine](https://www.thelandmagazine.org.uk/articles/short-history-enclosure-britain) — used for the essay's full argument, historical narrative, statistics, and historiographical framing throughout this page; also cross-checked against a reprint at [The Land Is Ours](https://tlio.org.uk/a-short-history-of-enclosure-in-britain/) and [libcom.org](https://libcom.org/article/short-history-enclosure-britain).
@@ -77,3 +99,5 @@ The essay also complicates a naive "enclosure was simply efficient" defence of t
 3. Garrett Hardin, "The Tragedy of the Commons," *Science*, 1968 — used (via Fairlie's essay) for the theory Fairlie critiques; not independently re-verified against the original *Science* article in this session. [CITATION NEEDED: direct citation to Hardin 1968 if this wiki treats the Tragedy of the Commons as a standalone topic elsewhere.]
 
 [CITATION NEEDED: independent verification of the 1872 Return of Owners of Land and of specific historian citations (Gonner, Neeson, Thirsk, the Hammonds) Fairlie draws on, for any future wiki page that relies on those figures more heavily than as background.]
+
+GRAFT-SOURCES (2026-07-05 merge): Gregory Clark & Anthony Clark, "Common Rights to Land in England, 1475-1839," *Journal of Economic History* 61(4), 2001, pp. 1009-1036. [Author PDF](https://faculty.econ.ucdavis.edu/faculty/gclark/papers/commons.pdf) — used for the revisionist magnitudes (B/E-claims). J.M. Neeson, *Commoners*, Cambridge UP, 1993 — used for the value of common right (B-claims).
