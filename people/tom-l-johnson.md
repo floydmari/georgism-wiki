@@ -24,4 +24,5 @@ Johnson demonstrated that Georgist ideas could be carried into practical municip
 
 ## Sources
 
-1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for Johnson's mayoralty and movement role (A/B-claims). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+2. Tom L. Johnson, *My Story* (1911, autobiography) — public domain; full-text acquisition candidate per EDITORIAL §3b. [Internet Archive](https://archive.org/details/mystory00johngoog)

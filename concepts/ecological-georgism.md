@@ -35,5 +35,5 @@ Ecological Georgism reframes climate and environmental policy as a rent problem,
 
 ## Sources
 
-1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* (book) — [wiki summary](/wiki/alanna-hartzok/).
-2. IMF (2012), "Issues in Extractive Resource Taxation." [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)
+1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* — used for the earth-rights framing of ecological Georgism (C-claims; advocacy source). [wiki summary](/wiki/alanna-hartzok/)
+2. IMF (2012), "Issues in Extractive Resource Taxation" — used for the mainstream fiscal treatment of resource rents (A/B-claims). [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)

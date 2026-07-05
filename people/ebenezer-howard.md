@@ -24,4 +24,4 @@ Howard founded Letchworth (1903) and Welwyn Garden City (1920) on these principl
 
 ## Sources
 
-1. Ebenezer Howard (1902), *Garden Cities of To-Morrow* (book).
+1. Ebenezer Howard (1902), *Garden Cities of To-Morrow* — used for the garden-city design and its community-rent financing (A-claims). [Full text (Internet Archive)](https://archive.org/details/gardencitiesofto00howa) — public domain; full-text acquisition queued per EDITORIAL §3b.

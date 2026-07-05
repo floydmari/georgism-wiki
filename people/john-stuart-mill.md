@@ -24,4 +24,4 @@ Mill helped found the **Land Tenure Reform Association** (1870), which campaigne
 
 ## Sources
 
-1. John Stuart Mill (1848), *Principles of Political Economy*, Book V (taxation of rent). [Full text](https://www.econlib.org/library/Mill/mlP.html)
+1. John Stuart Mill (1848), *Principles of Political Economy*, Book V — used for the unearned-increment taxation proposal (A-claims; public domain). [Full text](https://www.econlib.org/library/Mill/mlP.html)

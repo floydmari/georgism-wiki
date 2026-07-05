@@ -30,4 +30,4 @@ Foldvary connected Georgism to public-choice and libertarian economics, arguing 
 
 ## Sources
 
-1. Fred Foldvary, *The Private Provision of Public Goods* and articles on the real-estate cycle (Georgist economic literature).
+1. Fred Foldvary, *Public Goods and Private Communities* (1994) and "The Business Cycle: A Georgist-Austrian Synthesis" (AJES, 1997) — used for his public-goods and cycle work (A/C-claims; see [the synthesis page](/wiki/foldvary-business-cycle-synthesis/) and [the 2008 prediction record](/wiki/progress-18-6-year-cycle/)).

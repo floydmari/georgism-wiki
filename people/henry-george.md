@@ -38,6 +38,6 @@ George's influence crossed ideological lines in ways unusual for any single thin
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
-2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
-3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — biographical and bibliographic resources.
+1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic details (custodial source).
