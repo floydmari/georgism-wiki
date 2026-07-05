@@ -103,10 +103,12 @@ If unsure whether a task needs editorial judgment, leave it for T1.
    research, books). Accept a candidate only if **≥2 existing pages would naturally link to
    it** or it directly strengthens an outcome/objection; create accepted ones as sourced
    stubs immediately (EDITORIAL stub standard), reject the rest with a one-line reason.
-   Before creating, **check for existing coverage BOTH ways**: `ls <category>/` for slug
-   variants AND `grep -ril "<surname>" <category>/` for name mentions — and read the full
-   result list, not the first screen (lessons: richard-ely vs richard-t-ely, AND
-   robert-schalkenbach-foundation vs schalkenbach-foundation, both 2026-07-06).
+   Before creating ANY stub (people, research, events, all categories), **check for existing
+   coverage BOTH ways**: `ls <category>/` for slug variants AND a repo-wide grep for the
+   surname / paper-title keywords / author combination — and read the full result list, not
+   the first screen. Three same-day lessons (2026-07-06): richard-ely vs richard-t-ely;
+   robert-schalkenbach-foundation vs schalkenbach-foundation; tideman-kumhof-… vs
+   goodhart-stimulus (same paper, different slug conventions). Slugs lie; grep the words.
    - **Digest before you scan (gap-2 machinery, 2026-07-06):** cap new stubs at **~8 per
      shift**, and **launch no new site/book scans while ≥2 discovery reports sit untriaged**
      in `sources/inbox/`. The wiki grows by *digesting* what it has read — an unread pile of

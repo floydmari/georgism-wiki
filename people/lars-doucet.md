@@ -33,6 +33,6 @@ Doucet represents the contemporary, empirically minded wing of Georgism: less co
 
 ## Sources
 
-1. Lars Doucet (2021–22), *Does Georgism Work?* — [wiki summary](/wiki/doucet-does-georgism-work/)
-2. Lars Doucet (2023), *Land Is a Big Deal*. [landisabigdeal.com](https://www.landisabigdeal.com/)
-3. Doucet's collected writing at [Game of Rent](https://gameofrent.com/).
+1. Lars Doucet (2021–22), *Does Georgism Work?* — used for the ACX series and its reception (A-claims). [wiki summary](/wiki/doucet-does-georgism-work/)
+2. Lars Doucet (2022), *Land Is a Big Deal* — used for the book's scope and arguments (A-claims; Heavy scan on [the book page](/wiki/land-is-a-big-deal/)). [landisabigdeal.com](https://www.landisabigdeal.com/)
+3. Doucet's collected writing at [Game of Rent](https://gameofrent.com/) — used for biographical and project context (A/C-claims).

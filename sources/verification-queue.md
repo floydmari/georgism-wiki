@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (622 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (621 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -68,7 +68,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (126)
+## needs-unblocked-web (proxy allowlist or manual fetch) (125)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -191,7 +191,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/segal-resource-dividend.md` — **CITATION NEEDED** page-level citation for the "would exist regardless" formulation — could not verify exact wording from a directly fetched copy of the paper in this session
 - `research/segal-resource-dividend.md` — **CITATION NEEDED** a directly fetched copy of the full paper or its verbatim abstract — this session's web access to ScienceDirect, the Oxford Institute for Energy Studies working
 - `research/taranu-verbeeck-property-tax-sprawl.md` — **VERIFY** the review's inclusion criteria and study count on direct read.
-- `research/tideman-kumhof-hudson-goodhart-super-stimulus.md` — **VERIFY** headline output-gain magnitudes and model class (DSGE?) on direct read before citing figures.
 - `research/world-bank-changing-wealth.md` — **VERIFY** this session's access to the full main-volume PDF (openknowledge.worldbank.org and the curated documents1.worldbank.org full-report link) returned a 403/binary-
 - `research/zodrow-three-views.md` — **VERIFY** this session's egress policy blocked direct retrieval of the full PDF text from the Rice repository and the National Tax Journal's own archive; the account belo
 - `research/zodrow-three-views.md` — **VERIFY** the precise wording of Zodrow's stated preference could not be quoted directly from the primary text in this session; the characterization above is drawn from h

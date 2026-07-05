@@ -29,5 +29,5 @@ Ryan-Collins brings the land-and-credit analysis — close to [Michael Hudson's]
 
 ## Sources
 
-1. Ryan-Collins, Lloyd & Macfarlane (2017), *Rethinking the Economics of Land and Housing* (book).
-2. Mazzucato, Ryan-Collins & Gouzoulis (2023) — [wiki summary](/wiki/mazzucato-mapping-rents/)
+1. Ryan-Collins, Lloyd & Macfarlane (2017), *Rethinking the Economics of Land and Housing* — used for the land-credit feedback thesis (A-claims; [book page](/wiki/rethinking-economics-land-housing/), provenance-pending scan).
+2. Mazzucato, Ryan-Collins & Gouzoulis (2023) — used for the rent-mapping collaboration (A-claim). [wiki summary](/wiki/mazzucato-mapping-rents/)
