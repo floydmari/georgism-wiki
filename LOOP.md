@@ -41,6 +41,11 @@ tasks needing live web research stay on tool-using agents.
 
 1. **Sync & gate.** `git pull`. Run `python3 scripts/lint_wiki.py`. If it reports errors, fixing
    them is your task this iteration (they outrank the backlog).
+   **Inbox sweep (added 2026-07-05):** if `sources/inbox/` holds unconsumed deliveries from
+   Floyd's Hermes agent, process them FIRST per `sources/inbox/README.md` — verify manifests,
+   apply verdicts to the flagged markers, upgrade scan depths, queue [DEEPEN-SCAN]s for
+   delivered books, archive to `sources/inbox/consumed/`, regenerate the verification queue.
+   Delivered evidence outranks new drafting: it un-blocks pages already shipped.
 2. **Pick one task.** Take the top task whose `tier:` matches yours and whose `status:` is:
    - `todo` if you are a DRAFT-loop runner (T2/T3), or
    - `needs-review` if you are the REVIEW-loop runner (T1).
