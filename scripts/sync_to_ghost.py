@@ -25,6 +25,13 @@ Ghost wiki post, and upserts it (create or update by slug). Idempotent — safe 
                      routes the post to /wiki/{slug}/ and excludes it from the essays
                      homepage. Optional: `wiki-most-cited`, `stub`.
 
+ 4. tag identity    — ALWAYS reference tags by Ghost `id`, never by {name, slug}. Ghost
+                     matches tags by NAME on create/update. If the stored tag has a
+                     different display name than what you send, Ghost silently creates a NEW
+                     tag with a de-duped slug (e.g. `wiki-outcomes-14`) and the category
+                     listing drops to 1 entry. TAG_IDS in this file holds the canonical IDs;
+                     update it if you add new tags via the Ghost admin UI.
+
 ═══════════════════════════════════════════════════════════════════════════════════════
 
 Usage:
@@ -46,16 +53,41 @@ _KEY, GHOST_URL = require_ghost()
 GHOST_URL = GHOST_URL.rstrip("/")
 KEY_ID, SECRET = _KEY.split(":")
 
-CATEGORY_TAG = {            # folder -> (category tag slug, display name)
-    "concepts":      ("wiki-concepts",      "Concepts"),
-    "people":        ("wiki-people",        "People"),
-    "places":        ("wiki-places",        "Places"),
-    "events":        ("wiki-events",        "Events & Campaigns"),
-    "outcomes":      ("wiki-outcomes",      "Outcomes"),
-    "research":      ("wiki-research",       "Research"),
-    "organizations": ("wiki-organizations", "Organizations"),
-    "objections":    ("wiki-objections",    "Objections"),
-    "narratives":    ("wiki-narratives",    "Narratives"),
+# ─── GOTCHA 4: always reference tags by Ghost ID, never by name+slug ───────────
+# Ghost matches tags by NAME when you POST {name, slug}. If the stored tag has a
+# different display name (e.g. was created as name="wiki-outcomes" but we send
+# name="Outcomes"), Ghost creates a NEW tag with a de-duped slug like
+# "wiki-outcomes-14" instead of reusing the existing one. Referencing by `id`
+# bypasses name-matching entirely and is guaranteed idempotent.
+#
+# To find the current IDs:  GET /ghost/api/admin/tags/slug/<slug>/
+# Last verified: 2026-07-04 against https://progress-org.ghost.io
+TAG_IDS = {
+    "wiki":               "6a232c3e819cc700017226b2",
+    "wiki-concepts":      "6a232c3f819cc700017226b4",
+    "wiki-people":        "6a232c40819cc700017226b6",
+    "wiki-places":        "6a232c40819cc700017226b8",
+    "wiki-events":        "6a23a953819cc700017227a7",
+    "wiki-outcomes":      "6a23a94f819cc70001722791",
+    "wiki-research":      "6a23a175819cc70001722769",
+    "wiki-organizations": "6a23a952819cc7000172279f",
+    "wiki-objections":    "6a23a955819cc700017227af",
+    "wiki-narratives":    "6a495ad76c64fd00014ca8d1",
+    "wiki-most-cited":    "6a232c42819cc700017226bc",
+    "wiki-theories":      "6a232c41819cc700017226ba",
+    "stub":               "6a232c42819cc700017226be",
+}
+
+CATEGORY_TAG = {            # folder -> category tag slug (ID looked up from TAG_IDS)
+    "concepts":      "wiki-concepts",
+    "people":        "wiki-people",
+    "places":        "wiki-places",
+    "events":        "wiki-events",
+    "outcomes":      "wiki-outcomes",
+    "research":      "wiki-research",
+    "organizations": "wiki-organizations",
+    "objections":    "wiki-objections",
+    "narratives":    "wiki-narratives",
 }
 
 def headers():
@@ -66,15 +98,23 @@ def headers():
                        headers={"alg": "HS256", "typ": "JWT", "kid": KEY_ID})
     return {"Authorization": f"Ghost {token}", "Content-Type": "application/json"}
 
+def _tag(slug):
+    """Return a Ghost tag reference by ID (never by name) to avoid de-duped slug creation."""
+    tag_id = TAG_IDS.get(slug)
+    if not tag_id:
+        raise ValueError(f"Unknown tag slug '{slug}' — add it to TAG_IDS with its Ghost ID first")
+    return {"id": tag_id}
+
 def build_tags(post, folder):
-    cat_slug, cat_name = CATEGORY_TAG[folder]
-    tags = [{"name": "Wiki", "slug": "wiki"},                # GOTCHA 3: primary tag first
-            {"name": cat_name, "slug": cat_slug}]
+    cat_slug = CATEGORY_TAG[folder]
+    # GOTCHA 3: primary tag must be 'wiki' first
+    # GOTCHA 4: use {id} only — never {name, slug} — prevents Ghost creating duplicate tags
+    tags = [_tag("wiki"), _tag(cat_slug)]
     extra = post.get("tags", []) or []
     if "most-cited" in extra or post.get("most_cited"):
-        tags.append({"name": "Most Cited", "slug": "wiki-most-cited"})
+        tags.append(_tag("wiki-most-cited"))
     if post.get("stub"):
-        tags.append({"name": "Stub", "slug": "stub"})
+        tags.append(_tag("stub"))
     return tags
 
 def upsert(path):
