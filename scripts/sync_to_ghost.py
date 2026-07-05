@@ -161,6 +161,8 @@ def main():
         p for folder in CATEGORY_TAG for p in glob.glob(f"{folder}/*.md")
         if not os.path.basename(p).startswith("_")   # _-prefixed = internal, never published
     ]
+    # Filter out any paths outside known wiki content folders (e.g. sources/, scripts/)
+    targets = [t for t in targets if t.split("/")[0] in CATEGORY_TAG]
     print(f"Syncing {len(targets)} entr{'y' if len(targets)==1 else 'ies'} to {GHOST_URL}")
     for path in targets:
         upsert(path)
