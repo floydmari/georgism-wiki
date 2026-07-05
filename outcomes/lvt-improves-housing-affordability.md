@@ -25,6 +25,7 @@ The full evidence wiring for this outcome (each page carries its external citati
 - [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) — Hsieh and Moretti model how housing-supply constraints in high-productivity US cities misallocated labor 1964-2009, lowering aggregate growth — a widely cited but now contested estimate, per a 2026 comment finding coding errors.
 - [Glaeser & Gyourko (2018)](/wiki/glaeser-gyourko-housing-supply/) — Glaeser and Gyourko show US house prices in coastal/regulated metros far exceed minimum production cost, and attribute the gap to zoning, not land scarcity or LVT — a paper about regulation, not tax policy.
 
+- [Hilber & Vermeulen (2016)](/wiki/hilber-vermeulen-england-supply/) — Hilber and Vermeulen find that regulatory and physical supply constraints substantially raise English house prices — mainstream evidence for the land-scarcity mechanism, though not a study of land value taxation.
 ## Strength of Evidence
 
 **Contested.** The mechanism is sound and the construction evidence supports it, but affordability outcomes depend heavily on **complementary land-use policy**. LVT helps, but is not sufficient alone.

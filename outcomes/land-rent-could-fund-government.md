@@ -30,6 +30,7 @@ The full evidence wiring for this outcome (each page carries its external citati
 - [Larson (2015)](/wiki/larson-us-land-value/) — A U.S. Bureau of Economic Analysis working paper estimating the total value of land in the contiguous United States at roughly $23 trillion (2009), using hedonic methods rather than the older residual approach.
 - [Albouy et al. (2018)](/wiki/albouy-ehrlich-shin-metro-land/) — The first cross-sectional, transaction-based land-value index for every US metro area, finding urban land worth over twice GDP and just five metro areas — New York, LA, San Francisco, DC, Chicago — holding 48% of all US urban land value.
 
+- [Davis & Heathcote (2007)](/wiki/davis-heathcote-us-land/) — A foundational paper constructing a quarterly price and quantity index for residential land in the US using a residual method, producing the widely cited Davis-Heathcote land price series.
 ## Strength of Evidence
 
 **Contested.** That land rent is *large* is well established; *how large relative to government* depends heavily on method. Honest framing: enough to be a **major** revenue source, with **full** replacement an open question.

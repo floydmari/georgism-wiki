@@ -30,6 +30,7 @@ The full evidence wiring for this outcome (each page carries its external citati
 - [Plummer (2010)](/wiki/plummer-lvt-distribution/) — Parcel-level Texas study: replacing a uniform property tax with an LVT shifts burden off single-family homes and onto other property classes, and is only slightly more progressive within residential properties by value.
 - [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) — Bowman & Bell (2008, National Tax Journal) replicate England & Zhao's regressivity finding on a new city (Roanoke, VA) and find the opposite: a revenue-neutral shift to a land value tax there is progressive by income and poverty rate — showing the result is jurisdiction-dependent.
 
+- **Counter-evidence:** [England & Zhao (2005)](/wiki/england-zhao-lvt-distribution/) — England & Zhao (2005, National Tax Journal) find that a revenue-neutral shift from a uniform property tax to a two-rate (land-favoring) tax in Dover, NH would be regressive among residential owners — and propose a uniform credit to fix it.
 ## Strength of Evidence
 
 **Strong** — follows from the concentration of land ownership plus formal optimal-tax results.
