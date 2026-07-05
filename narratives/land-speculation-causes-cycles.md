@@ -240,6 +240,7 @@ This is the narrative's honest weak point, and it should be presented as such:
 - [Jordà, Schularick & Taylor — The Great Mortgaging](/wiki/great-mortgaging/)
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept this narrative deploys
+- [Harrison, Boom Bust](/wiki/harrison-boom-bust/) — the primary Tier 1 source for the 18-year cycle model
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's original theory of
   land speculation and industrial depressions
 - [Fred Harrison](/wiki/fred-harrison/) · [Fred Foldvary](/wiki/fred-foldvary/) ·
