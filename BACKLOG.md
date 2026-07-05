@@ -209,6 +209,20 @@ advocate's original periodization — re-check when progress.org is fetchable).
       columnist; LVT advocacy column 21 Jan 2013 verified; 2020 Schumacher land lecture) —
       mainstream-figure advocate; verify bio basics before stub.
 
+### Book-scan comprehensiveness (Floyd, 2026-07-06): extraction pass over Hermes's book scans
+Hermes's overnight DEEPEN-SCANs (Land is a Big Deal, Corruption of Economics, Radical Markets,
+Rethinking Economics of Land & Housing, Economic Theory in Retrospect, +ongoing) produced summary
+pages + marker fixes but NOT the discovery channel the comprehensiveness loop requires: each book
+must ALSO be mined for (a) research papers it cites -> registry/ingestion candidates, (b) people,
+(c) events, (d) places, (e) concepts warranting wiki pages. Per LOOP-COMPREHENSIVENESS.md this is
+the DISCOVERED-candidates channel; Floyd is sending Hermes a supplementary extraction prompt.
+- [ ] [COMPREHENSIVENESS-SWEEP] tier:T2 status:todo — for EVERY book Hermes scans: produce a
+      structured extraction report (citations list with full bib data; people/events/places/
+      concepts candidates each with 1-line why + where-in-book locator) committed to its branch
+      as sources/inbox/BOOKSCAN-<slug>.report.md. T1 then triages -> stubs/registry per the
+      standard accept/reject-with-reason discipline. Applies retroactively to the 5 books
+      already scanned and as a standing requirement for the rest of wanted-books.
+
 ### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
 - [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because
       no free e-copy is reachable from this environment (proxy blocks archive.org lending too).
