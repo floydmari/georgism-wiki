@@ -30,6 +30,8 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 
 ## See Also
 
+- [Tideman & Plassmann, Losses of Nations (1998)](/wiki/tideman-plassmann-losses-of-nations/) — the movement's G7 excess-burden calculation (stub, pending full read)
+
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/)
 
 - [Land Value Tax](/wiki/land-value-tax/) — the zero-deadweight-loss tax

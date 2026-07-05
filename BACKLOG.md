@@ -310,7 +310,20 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       Rethinking the Economics of Land & Housing): confirm you own/licensed legitimate copies,
       or the pages' scan-depth upgrades stay frozen. Prohibited-channel rule now in
       sources/inbox/README.md.
-- [ ] [TRIAGE] tier:T1 status:in-progress — WAVE 1 DONE 2026-07-06 (quota 8): ACCEPTED richard-ely,
+- [x] [TRIAGE] tier:T1 status:DONE 2026-07-06 — ALL 10 Hermes w1 discovery reports triaged
+      across four waves. FINAL WAVE (boom-bust, ricardos-law, anderson, patel reports): ACCEPTED
+      research/tideman-plassmann-losses-of-nations + research/barker-review-housing-supply
+      (both stub, pending full read; note Harrison's in-text Tideman-Plassmann title differs
+      from the published chapter title — reconcile on direct read). ROUTED: crisis-literature
+      canon (Reinhart-Rogoff, Kindleberger-Aliber, Werner, Vague) to registry as Not-scanned
+      steelman sources for the queued credit-cycle objection; Chaos Makers + Parry Lewis +
+      Gaffney After-the-Crash to wanted-books. REJECTED with reasons: Miller health-gradient
+      studies (1 demanding page — re-propose if a health-inequality angle develops);
+      ricardos-law report's epidemiology cluster (same); Gibbons-Machin school premiums
+      (registry+cite candidate for the capitalization outcome, not a standalone page —
+      outcome already at 5 supports). Cumulative: 14 stubs + 4 enrichments + 2 merged
+      duplicates + ~10 wanted-books + rejections all reasoned.
+      (Wave 1 record: DONE 2026-07-06 (quota 8): ACCEPTED richard-ely,
       era-seligman, elizabeth-magie stubs + events/open-letter-to-gorbachev +
       research/bezemer-no-one-saw-this-coming (de-references the narrative's Bezemer cite);
       ENRICHED existing william-vickrey + sun-yat-sen (Radical Markets/HGT/Gorbachev wiring);

@@ -161,6 +161,8 @@ frees the land, land taxation makes holding it idle unaffordable.
 
 ## See Also
 
+- [The Barker Review (2003–04)](/wiki/barker-review-housing-supply/) — the UK's official supply diagnosis (stub)
+
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) — the evidence page, contested rating and all
 - [Split-rate increases construction](/wiki/split-rate-increases-construction/) — the strongest supporting evidence
 - [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/) — the rebuttal to pre-empt

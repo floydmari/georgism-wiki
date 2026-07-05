@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (621 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (624 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -68,7 +68,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (125)
+## needs-unblocked-web (proxy allowlist or manual fetch) (127)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -90,6 +90,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/homer-hoyt.md` — **VERIFY** direct fetch of this obituary returned HTTP 403 in this research pass; details are drawn from search-engine-indexed excerpts, not a directly read full text.
 - `people/homer-hoyt.md` — **CITATION NEEDED** a directly fetched primary institutional source; hoytgroup.org returned HTTP 404 for the specific biography page in this research pass.
 - `people/homer-hoyt.md` — **VERIFY** ` on several specifics due to a blocked direct fetch of the source. 11. This wiki's [LVT dampens land speculation
+- `people/joseph-stiglitz.md` — **VERIFY** exact paper citation for the 2015 wealth-residual argument on direct read.
 - `people/karl-widerquist.md` — **VERIFY** fetch blocked this session — surfaced via site survey; confirm on direct read.
 - `people/louis-f-post.md` — **VERIFY** exact dates and warrant counts on direct read before citing specifics.
 - `people/murray-rothbard.md` — **VERIFY** exact wording against primary text — corroborated via secondary quotation only
@@ -191,6 +192,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/segal-resource-dividend.md` — **CITATION NEEDED** page-level citation for the "would exist regardless" formulation — could not verify exact wording from a directly fetched copy of the paper in this session
 - `research/segal-resource-dividend.md` — **CITATION NEEDED** a directly fetched copy of the full paper or its verbatim abstract — this session's web access to ScienceDirect, the Oxford Institute for Energy Studies working
 - `research/taranu-verbeeck-property-tax-sprawl.md` — **VERIFY** the review's inclusion criteria and study count on direct read.
+- `research/tideman-plassmann-losses-of-nations.md` — **VERIFY** the exact G7 loss figure, year basis, and method on direct read — do not cite magnitudes until confirmed against the chapter text.
 - `research/world-bank-changing-wealth.md` — **VERIFY** this session's access to the full main-volume PDF (openknowledge.worldbank.org and the curated documents1.worldbank.org full-report link) returned a 403/binary-
 - `research/zodrow-three-views.md` — **VERIFY** this session's egress policy blocked direct retrieval of the full PDF text from the Rice repository and the National Tax Journal's own archive; the account belo
 - `research/zodrow-three-views.md` — **VERIFY** the precise wording of Zodrow's stated preference could not be quoted directly from the primary text in this session; the characterization above is drawn from h
@@ -230,7 +232,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full citation for the Cambridge *Historical Journal* article summarized here — this session located the article by title and journal via search 
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 
-## unclassified (T1 triage) (407)
+## unclassified (T1 triage) (408)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
@@ -453,6 +455,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/autor-superstar-firms.md` — **VERIFY** ` above). 4. [Wiki: Narrative — The Rentier Economy
 - `research/banzhaf-lavery-pa-sprawl.md` — **CITATION NEEDED** direct verification of Brueckner & Kim's own text — this session relied on Banzhaf & Lavery's characterization of it
 - `research/banzhaf-lavery-pa-sprawl.md` — **CITATION NEEDED** direct verification of Song & Zenou's own text
+- `research/barker-review-housing-supply.md` — **VERIFY** headline land-value-gap figures and recommendation list from the final report before citing specifics.
 - `research/barnes-sky-trust.md` — **VERIFY** precise legislative history and Barnes's direct involvement/citation in the CLEAR Act — drawn from general secondary knowledge of U.S. climate policy history, n
 - `research/bentick-mills-timing-neutrality.md` — **VERIFY** exact Arnott citation and statement — noted in the literature exchange but not independently verified this session.
 - `research/blaug-henry-george-rebel.md` — **VERIFY** whether Blaug addresses Gaffney *by name* in the article body — do not attribute an explicit anti-Gaffney sentence to Blaug until the full text is read.
