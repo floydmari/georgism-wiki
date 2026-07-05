@@ -112,7 +112,7 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/mass-appraisal-methods (assessment objection's practical answer)
 - [ ] [BACKFILL] tier:T2 status:todo — events/2008-financial-crisis (cycle narrative proof-point)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
-- [ ] [BACKFILL] tier:T2 status:todo — people/john-bates-clark (corruption-of-economics narrative dependency)
+- [x] [BACKFILL] tier:T2 status:done — people/john-bates-clark backfilled 2026-07-05 (T1-direct from session-verified sources; both historiographies carried, Clark 1899 preface quote, Leonard 2003 + Blaug 2000 counter-sources)
 - [ ] [BACKFILL] tier:T2 status:todo — people/charles-tiebout, people/murray-rothbard, people/michael-davitt, people/l-d-taylor
 - [ ] [BACKFILL] tier:T2 status:todo — events/irish-land-war, organizations/fairhope-single-tax-corporation
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/holdout-problem, concepts/production-boundary, concepts/radical-markets, concepts/land-value-increment-tax
