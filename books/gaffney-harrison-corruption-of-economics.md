@@ -167,10 +167,10 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defense of Georgism
 - [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST as extension of George's land tax
-- [[concepts/atcor]] — All Taxes Come Out of Rent (formalized by Gaffney 2005)
-- [[concepts/economic-rent]] — Classical vs. neoclassical definitions of rent
-- [[concepts/land-value-tax]] — The single tax proposal
-- [[concepts/henry-george]] — George's life and influence
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent (formalized by Gaffney 2005)
+- [Economic Rent](/wiki/economic-rent/) — Classical vs. neoclassical definitions of rent
+- [Land Value Tax](/wiki/land-value-tax/) — The single tax proposal
+- [Henry George](/wiki/henry-george/) — George's life and influence
 
 ## Sources
 

@@ -467,3 +467,23 @@ source — provenance-pending [VERIFY] flags placed, shadow-library channels now
 sources/inbox/README.md, owner attestation task filed in BACKLOG.
 
 State post-merge: 319 pages, lint 0 errors / ~509 warnings, registry ~330 rows.
+
+---
+
+## 2026-07-06c — FIRST-PRINCIPLES REVIEW of the looping system (Floyd's ask)
+
+**Is it achieving what we want? Largely yes** — 319 pages, 15/15 outcome coverage, 12/12
+narratives, honest correction record (Caplan figures, Fairlie one-sixth, Foldvary Michigan),
+and the multi-agent structure held under fire (Hermes PR review caught libgen provenance,
+NPOV drift, broken links BEFORE main). **Three real gaps found in the data:**
+(1) debt grows, never shrinks (520 warnings, 613 markers) because most of it is structurally
+unpayable from this container → answer is ROUTING (debt ratchet + Hermes channel), not
+diligence; (2) discovery outruns triage (one book scan = 40+ candidates) → accept bar +
+stub quota; (3) category imbalance: 9 objections vs 15 outcomes/13 narratives — the
+steelman pillar is the thinnest, which is a credibility risk for an advocacy-adjacent wiki.
+**Simplifications shipped:** every process failure that bit us this week became a lint check
+(conflict markers, [[wikilinks]], quote cap, registry dupes, provenance ban) — rules that
+live in code don't need to live in anyone's memory. GLM section marked environment-
+conditional (it was dead text in this container). Drive sync already de-scoped.
+**New:** docs/loop-diagram.md — Mermaid visual of iteration/flywheel/lanes/honesty machinery,
+with a same-commit sync rule.

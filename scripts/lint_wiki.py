@@ -210,6 +210,22 @@ def main():
             if "## The Response" not in body:
                 err(f, "objection missing a Response section")
 
+        # mechanical integrity (added 2026-07-06 — each of these shipped to main at least
+        # once before the check existed)
+        if re.search(r"^(<<<<<<< |>>>>>>> |=======$)", p["text"], re.M):
+            err(f, "committed merge-conflict markers")
+        if re.search(r"\[\[[^\]]+\]\]", body):
+            err(f, "Obsidian-style [[wikilink]] — use [text](/wiki/slug/) markdown links")
+        for q in re.findall(r'"([^"\n]{200,}?)"', body):
+            # skip likely between-quote spans: real quotations rarely carry markdown
+            if any(ch in q for ch in ("*", "](", "[", "#")):
+                continue
+            if len(q.split()) > 50:
+                warn(f, f"quote may exceed 50-word cap ({len(q.split())} words): \"{q[:60]}…\"")
+                break
+        if p["folder"] == "books" and "libgen" in p["text"].lower():
+            err(f, "prohibited shadow-library provenance named — see sources/inbox/README.md")
+
         # WS8 quality warnings
         for pat in BANNED:
             m = re.search(pat, body, re.I)
@@ -222,6 +238,14 @@ def main():
             warn(f, "Sources section not annotated (add '— used for …' notes)")
         if len(p["text"].splitlines()) < 30 and p["meta"].get("stub") is not True:
             warn(f, f"thin article ({len(p['text'].splitlines())} lines) — deepen")
+
+    # registry duplicate rows (Title+Authors) — bit us in the w1 merge (Patel double row)
+    seen_rows = {}
+    for r in registry:
+        k = ((r.get("Title") or "").strip().lower(), (r.get("Author(s)") or "").strip().lower())
+        if k[0] and k in seen_rows:
+            warn("sources/registry.csv", f"duplicate row: '{r.get('Title')}' ({r.get('Author(s)')})")
+        seen_rows[k] = True
 
     # registry <-> repo consistency (drift like the CWC cluster)
     for r in registry:

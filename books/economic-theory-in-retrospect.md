@@ -173,9 +173,9 @@ Blaug's *Economic Theory in Retrospect* is valuable for the Georgist wiki as:
 
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defence of Georgism
 - [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument that the land–capital merger was deliberate
-- [[concepts/land-value-tax]] — The traditional Georgist proposal
-- [[concepts/economic-rent]] — Rent as unearned income from land
-- [[concepts/atcor]] — All Taxes Come Out of Rent
+- [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal
+- [Economic Rent](/wiki/economic-rent/) — Rent as unearned income from land
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
 
 ## Sources
 

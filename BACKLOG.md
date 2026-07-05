@@ -23,6 +23,28 @@ sections is queued below. (3) Synthesis de-referencing is now a T1 review gate (
       dedicated counter-evidence section; progressive-LVT page now presents its England-Zhao vs
       Bowman-Bell dispute openly as jurisdiction-dependent.
 
+FIRST-PRINCIPLES REVIEW DELTA (Floyd directive, 2026-07-06 midday): loop re-evaluated; verdict
+in LOOPLOG 2026-07-06c. Changes shipped: lint now catches conflict markers, [[wikilinks]],
+over-cap quotes, registry duplicates, shadow-library provenance (all ERROR/WARN); LOOP.md gains
+a DEBT RATCHET (step 6) and a discovery ACCEPT BAR + ~8-stub/wave quota (step 8); GLM section
+marked environment-conditional; docs/loop-diagram.md added with a same-commit sync rule.
+Priority rebalance from the data: objections (9 pages) is the weakest pillar vs 15 outcomes /
+13 narratives — build-out queued; 64 thin articles and 137 unannotated Sources are the
+mechanical debt backlog; 228 markers are mostly channel-blocked (Hermes's queue, not ours).
+- [ ] [DRAFT] tier:T1 status:todo — objections build-out 9→15: strongest missing steelmen:
+      (1) LVT revenue insufficiency for the modern state (Krugman's point; ATCOR is the reply
+      to steelman against), (2) transition unfairness to recent buyers (the "double tax"
+      objection), (3) political infeasibility / homevoter objection (Fischel), (4) cycles are
+      chiefly monetary-credit not land (Borio/BIS steelman — already queued below),
+      (5) Harberger/COST critique of Georgist assessment (from Radical Markets Ch. 1),
+      (6) public-choice critique: government will waste the rent (Buchanan lens).
+- [ ] [BULK] tier:T3 status:todo — annotate the 137 unannotated Sources sections ('— used
+      for …' notes), batched ~25/wave; oldest pages first.
+- [ ] [BULK] tier:T3 status:todo — trim/attribute the ~11 genuine over-cap quotes lint now
+      flags (unearned-increment Lloyd George 83w, murray-rothbard 94w, oates-1969 51w, …).
+- [ ] [DEEPEN] tier:T2 status:recurring — thin-article burn-down: 64 pages under 30 lines;
+      take 3-5 per wave, prioritized by inbound links.
+
 EXA DELTA (Floyd directive, 2026-07-06): Exa API key delivered — stored in env only (this
 container's shell profile + to be added as `EXA_API_KEY` in the cloud environment settings for
 future sessions); NEVER committed. New standing rule in LOOP.md step 3: every people/ page

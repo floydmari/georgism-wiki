@@ -3,6 +3,11 @@
 This file is the executable prompt for one improvement iteration. Any capable model can run it
 with only repo access + web search. Read `EDITORIAL.md` (the rules) before your first iteration.
 
+**Visual map:** `docs/loop-diagram.md` (Mermaid; renders on GitHub) shows the iteration
+pipeline, the growth flywheel, the agent lanes, and the honesty machinery. **Sync rule:** any
+change to this file's structure (steps, gates, lanes, roles) updates the diagram in the same
+commit.
+
 ## Your tier
 
 Each `BACKLOG.md` task is tagged `tier:T1|T2|T3`. Only pick tasks matching your capability:
@@ -17,7 +22,10 @@ Each `BACKLOG.md` task is tagged `tier:T1|T2|T3`. Only pick tasks matching your 
 
 If you are unsure whether a task needs T1 judgment, leave it for T1.
 
-**GLM IS THE DEFAULT T2/T3 EXECUTOR (2026-07-04).** Volume drafting runs on glm-5.2:cloud via
+**GLM AS T2/T3 EXECUTOR (2026-07-04; ENVIRONMENT-CONDITIONAL).** Applies only where a local
+ollama/GLM endpoint exists (Floyd's machine, Hermes). The cloud campaign container has none —
+there, T2/T3 volume runs on Claude subagents within the concurrency cap, and this section is
+inert. Original text: volume drafting runs on glm-5.2:cloud via
 `scripts/glm_draft_worker.py` (tasks.json in, drafts + report JSONL out, 6+ parallel workers,
 zero Claude session quota): it fetches sources locally (HTML/pdftotext — local egress works),
 loads the FULL corpus digest + template + exemplar into GLM's 1M window, and drafts with the
@@ -89,6 +97,13 @@ tasks needing live web research stay on tool-using agents.
    worked queue: `python3 scripts/verification_queue.py` (→ `sources/verification-queue.md`,
    grouped by unblock channel). Markers are debt, the queue is the ledger; the count is a
    per-wave trend-down metric alongside warnings.
+   **Debt ratchet (added 2026-07-06 after the first-principles review):** a wave may not end
+   with more warnings+markers than it started unless the excess is (a) new pages' honest
+   conservative flags AND (b) matched by an explicit routing — a queued Hermes-lane task for
+   channel-blocked debt, or a BACKLOG debt-paydown task for mechanical debt (unannotated
+   Sources, missing excerpts, banned-certainty words, thin articles). Debt that is structurally
+   unpayable from this container (proxy-blocked fetches) is Hermes's queue, not a standing
+   guilt pile here — route it, don't carry it.
 7. **Preview.** Run `python3 scripts/build_preview.py`. Confirm the changed pages render and
    cross-links resolve. (Serve locally with `python3 -m http.server -d preview 8000`.)
 8. **Harvest discoveries → create stubs.** Triage the generator's DISCOVERED candidates (all
@@ -98,6 +113,11 @@ tasks needing live web research stay on tool-using agents.
    Ingestion must grow breadth, not only depth — a wave that adds 8 research pages and 0
    candidates is a smell. Stubs make discovery *visible on the wiki itself* (tagged `stub` on
    Ghost, counted in lint's STUBS gauge).
+   **Accept bar + quota (added 2026-07-06):** discovery now outruns triage (one book scan can
+   surface 40+ candidates), so acceptance is demand-driven: a candidate needs **≥2 existing
+   pages that would naturally link to it** or direct evidence value for an outcome/objection.
+   Cap stub creation at **~8 per wave** so backfill keeps pace with intake; park the remainder
+   in the report (reports are the parking lot — only accepted candidates enter the wiki).
 9. **Update `BACKLOG.md`.** Mark the task `done` (T1 REVIEW loop) or `needs-review` (T2/T3 DRAFT
    loop). Append any follow-up tasks you discovered, tier-tagged.
 10. **Commit & push (GitHub is the master record).** One task per commit:

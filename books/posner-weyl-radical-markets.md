@@ -209,10 +209,10 @@ The COST is presented as resolving all three through its partial (below-100%) ta
 
 - [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern data-driven Georgist defense
-- [[concepts/land-value-tax]] — The traditional Georgist proposal
-- [[concepts/economic-rent]] — Rent as unearned income from land and natural resources
-- [[concepts/atcor]] — All Taxes Come Out of Rent
-- [[outcomes/lvt-dampens-land-speculation]] — Evidence on LVT reducing speculation
+- [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal
+- [Economic Rent](/wiki/economic-rent/) — Rent as unearned income from land and natural resources
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
+- [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — Evidence on LVT reducing speculation
 
 ## Sources
 

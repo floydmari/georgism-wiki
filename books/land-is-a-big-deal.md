@@ -194,11 +194,11 @@ The Monopoly board game connection: Elizabeth Magie designed *The Landlord's Gam
 
 - [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
 - [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST proposal extending George's land tax to all property
-- [[concepts/land-value-tax]] — The traditional Georgist proposal
-- [[concepts/atcor]] — All Taxes Come Out of Rent
-- [[concepts/economic-rent]] — Rent as unearned income from land
-- [[outcomes/lvt-dampens-land-speculation]] — Evidence on LVT reducing speculation
-- [[concepts/boom-bust-cycle]] — Land speculation and the business cycle
+- [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
+- [Economic Rent](/wiki/economic-rent/) — Rent as unearned income from land
+- [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — Evidence on LVT reducing speculation
+- [Boom Bust Cycle](/wiki/boom-bust-cycle/) — Land speculation and the business cycle
 
 ## Sources
 
