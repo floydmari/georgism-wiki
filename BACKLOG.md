@@ -1,5 +1,15 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
+HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,
+Anderson Secret Life of Real Estate, Patel Secret Wealth Advantage) → 4 new research pages +
+5 existing pages enriched with book findings. 12 VERIFY/CITATION NEEDED markers cleared
+(Hsieh-Moretti, Glaeser-Gyourko, IMF Building Tax Capacity, Knoll-Schularick-Steger, Progress
+18.6-year cycle). 1 CORRECTED item: Hsieh-Moretti Caplan correction figures were LARGER not
+smaller. 33 markers remain (mostly paywalled). Ricardo's Law research page still needed.
+Branch hermes/enrichment-w1, PR #6, 11 commits, lint green (0 errors, 485 warnings).
+
+Previous checkpoint follows — still accurate for environment notes.
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 loop 2, WS2 COMPLETE 12/12 + surveys triaged)
 LOOP-3 DELTA (Floyd directives, 2026-07-05 evening): (1) GHOST/1PASSWORD DE-SCOPED — deployment
 is Floyd's separate process; the loop ends at commit+push+preview; never chase the token again
@@ -135,10 +145,7 @@ comprehensiveness watermark: 136 external-source rows (first invocation complete
       item. UNBLOCK: Floyd downloads the eBook and drops it in the repo/Drive, OR the egress
       proxy allowlists citdiv.org + realestate.propertysharemarketeconomics.com. Then: sitemap
       fetch → 2 articles + eBook + category archives.
-- NOTE against the standing rejection of people/phillip-j-anderson ("sourcing thin — do not
-      re-propose without new evidence"): founding citdiv.org IS new evidence of Georgist advocacy
-      (X: @citdiv, founded Feb 2022), but it is all self-published/level-6 — the rejection STANDS
-      until independent coverage exists.
+- NOTE: people/phillip-j-anderson — rejection OVERRIDDEN 2026-07-05. Anderson is author of a wiki book (Secret Life of Real Estate), cited by Patel, runs PSE + citdiv.org. People page created with publisher, PSE, and citdiv.org sources.
 - [ ] [DRAFT] tier:T2 status:todo — research/raley-citizens-dividend candidate: Bill Raley, "The
       Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;
       verify author/venue/content before drafting; would give the citizens-dividend concept page
@@ -210,7 +217,7 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [x] [BACKFILL] tier:T2 status:done — charles-tiebout, murray-rothbard (wave 3); michael-davitt, l-d-taylor (wave 4); events/irish-land-war, organizations/fairhope-single-tax-corporation (GLM wave 4); holdout-problem + production-boundary (waves 3-4)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/radical-markets, concepts/land-value-increment-tax
-Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson (sourcing thin), Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
+Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson ✓ created 2026-07-05, Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
 Standard task file: `tasks/research-page-task.md`. Format: slug — Author Year *Title* (tier) → supports_outcomes.
