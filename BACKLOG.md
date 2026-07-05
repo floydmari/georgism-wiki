@@ -237,6 +237,13 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [x] [DRAFT] tier:T2 — banzhaf-lavery-pa-sprawl — Banzhaf & Lavery 2010 (important; also anti-sprawl)
 - [x] [DRAFT] tier:T2 — gemmell-grimes-skidmore-nz — Gemmell, Grimes & Skidmore 2019 (important) — NULL RESULT for new construction (Auckland, confounded reform, short window); supports_outcomes:[] per honesty rule; cited as caveat in the outcome body instead
 - [x] [DRAFT] tier:T2 — yang-split-rate-tax-base — Yang 2018/2021 Lincoln (important; registry row exists)
+- [ ] [DEEPEN] tier:T2 status:todo — land-value-increment-tax page: forage 2026-07-05 verified
+      facts awaiting integration (page carries 10 markers — Hermes lane): Land Tax Act statutory
+      basis (law.moj.gov.tw G0340096), rates 20/30/40% + 10% self-use (unit is ARES not acres —
+      translation artifact), ROC Constitution Art. 143 confirmed, 2002 two-year reduction weakly
+      corroborated, 40/50/60->20/30/40 2005 history UNVERIFIED, Lam & Tsui 1998 as the
+      assessed-value-lag critique reference. German Wertzuwachssteuer 1911-13 comparator verified
+      (Backhaus 1997 free PDF at cooperative-individualism).
 - [ ] [DRAFT] tier:T2 status:todo — research/yang-lvt-sprawl candidate: Zhou Yang, "Differential
       Effects of Land Value Taxation," J. Housing Economics 39 (2018) 33-39 — reportedly the first
       quasi-experimental estimate of split-rate effects on PA sprawl (four decades of
