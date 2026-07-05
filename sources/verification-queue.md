@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (625 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (631 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -66,7 +66,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (115)
+## needs-unblocked-web (proxy allowlist or manual fetch) (120)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -80,6 +80,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/charles-tiebout.md` — **VERIFY** the precise framing of Tiebout's own caveats should be verified against the primary text
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to the primary text — bibliographic details are corroborated across multiple independent corpus pages and are high-confidence, but the exact wordi
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session could not fetch the original paper from JSTOR or the University of Chicago Press. The bibliographi
+- `people/george-monbiot.md` — **VERIFY** exact proposal wording on direct read.
 - `people/herbert-spencer.md` — **VERIFY** specific chapter references, page numbers, and direct quotations could not be verified in this session — the primary text was not fetched.
 - `people/herbert-spencer.md` — **CITATION NEEDED** Primary text of Spencer's *Social Statics* (1851), especially the chapter(s) on land rights — to verify Spencer's original argument, its exact wording, and the 
 - `people/homer-hoyt.md` — **VERIFY** pending direct confirmation against Hoyt's primary text
@@ -120,6 +121,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/cwc-distributional-impacts-lvt.md` — **VERIFY** confirm these exact figures against the primary page/PDF — the wiki team's automated fetch of commonwealth.ca returned HTTP 403 during this research pass, so th
 - `research/davis-heathcote-us-land.md` — **VERIFY** all specific numerical findings below are drawn from the paper's known reputation and secondary citations in the corpus; the primary text could not be directly 
 - `research/davis-heathcote-us-land.md` — **CITATION NEEDED** direct access to the full primary text of Davis & Heathcote (2007) to verify all specific numerical findings, the exact data sources used, the time period cover
+- `research/davis-larson-oliner-shui-fhfa-land.md` — **VERIFY** headline national land share and any quoted magnitudes on direct read before citing specific numbers.
 - `research/de-loecker-eeckhout-unger-markups.md` — **VERIFY** same access caveat; corroborated by secondary summaries of the paper's macro-implications section, not confirmed against primary text
 - `research/de-loecker-eeckhout-unger-markups.md` — **CITATION NEEDED** a directly fetched/verified copy of the QJE 2020 primary text or the NBER working-paper PDF — this session's web access could not retrieve either directly (all 
 - `research/dors-land-taxes-housing-prices.md` — **VERIFY** author names and exact point estimates on direct read.
@@ -129,6 +131,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/foldvary-public-revenue.md` — **VERIFY** could not directly fetch full review text; summarized from secondary search results
 - `research/goldsmith-alaska-pfd-wealth-distribution.md` — **VERIFY** this session's web access to the primary PDF (basicincome.org, ISER, ILO mirrors) returned compressed/inaccessible content or 403s; the figures above are corrob
 - `research/goldsmith-alaska-pfd-wealth-distribution.md` — **VERIFY** this session's direct fetch of the primary PDF returned either a heavily compressed/unreadable extraction (basicincome.org) or 403/certificate errors (ISER, ILO
+- `research/gwartney-estimating-land-values.md` — **VERIFY** exact date and the essay's specific procedural claims on direct read.
 - `research/hamilton-benefit-tax.md` — **VERIFY** this session's sandboxed web access returned 403/blocked responses for Urban Studies (SAGE), the AER (JSTOR), Zodrow's own PDF (Baker Institute, Rice repository
 - `research/hamilton-benefit-tax.md` — **VERIFY** this session could not directly fetch the Lincoln Institute PDF (403); the figure and characterization are drawn from search-engine snippets summarizing the pap
 - `research/hartwick-rule.md` — **CITATION NEEDED** this session's web access to jstor.org returned a 403 and could not retrieve full text; bibliographic details and the rule's content are corroborated by multipl
@@ -144,6 +147,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/imf-building-tax-capacity.md` — **VERIFY** the exact title on the PDF's cover/running header
 - `research/imf-building-tax-capacity.md` — **CITATION NEEDED** the paper's own page/section number for the property-tax discussion — this session's fetches of the primary PDF and the IMF eLibrary article page both returned 
 - `research/imf-building-tax-capacity.md` — **CITATION NEEDED** direct access to the primary PDF (btcgdea.pdf) and/or the IMF eLibrary article page (elibrary.imf.org/view/journals/087/2025/007/article-A001-en.xml) to verify 
+- `research/johnson-1914-single-tax-critique.md` — **VERIFY** Johnson's article in the Atlantic archive for exact page range and fuller quotation; Foldvary's rebuttal points on direct read.
 - `research/jones-marinescu-alaska-pfd.md` — **VERIFY** This session's web access to the AEA, NBER, SSRN, IZA, and university-hosted PDF versions of this paper returned network/access errors (proxy 403s), so the full
 - `research/knoll-schularick-steger-house-prices.md` — **VERIFY** the exact roster of all 14 countries could not be confirmed against the primary text in this session, as direct fetches of the AER, SSRN, EconStor, and working-
 - `research/knoll-schularick-steger-house-prices.md` — **VERIFY** exact data-construction details and caveats stated by the authors themselves — not independently confirmed from primary text in this session
@@ -179,6 +183,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/saiz-housing-supply-elasticity.md` — **CITATION NEEDED** a directly fetched copy of the published QJE tables confirming the precise San Francisco elasticity estimate, the exact interquartile-range elasticity compariso
 - `research/segal-resource-dividend.md` — **CITATION NEEDED** page-level citation for the "would exist regardless" formulation — could not verify exact wording from a directly fetched copy of the paper in this session
 - `research/segal-resource-dividend.md` — **CITATION NEEDED** a directly fetched copy of the full paper or its verbatim abstract — this session's web access to ScienceDirect, the Oxford Institute for Energy Studies working
+- `research/taranu-verbeeck-property-tax-sprawl.md` — **VERIFY** the review's inclusion criteria and study count on direct read.
 - `research/world-bank-changing-wealth.md` — **VERIFY** this session's access to the full main-volume PDF (openknowledge.worldbank.org and the curated documents1.worldbank.org full-report link) returned a 403/binary-
 - `research/zodrow-three-views.md` — **VERIFY** this session's egress policy blocked direct retrieval of the full PDF text from the Rice repository and the National Tax Journal's own archive; the account belo
 - `research/zodrow-three-views.md` — **VERIFY** the precise wording of Zodrow's stated preference could not be quoted directly from the primary text in this session; the characterization above is drawn from h
@@ -219,7 +224,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/progress-18-6-year-cycle.md` — **CITATION NEEDED** a primary or reviewed source for Anderson's specific dating methodology
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 
-## unclassified (T1 triage) (422)
+## unclassified (T1 triage) (423)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
@@ -445,6 +450,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/banzhaf-lavery-pa-sprawl.md` — **CITATION NEEDED** direct verification of Brueckner & Kim's own text — this session relied on Banzhaf & Lavery's characterization of it
 - `research/banzhaf-lavery-pa-sprawl.md` — **CITATION NEEDED** direct verification of Song & Zenou's own text
 - `research/barnes-sky-trust.md` — **VERIFY** precise legislative history and Barnes's direct involvement/citation in the CLEAR Act — drawn from general secondary knowledge of U.S. climate policy history, n
+- `research/bentick-mills-timing-neutrality.md` — **VERIFY** exact Arnott citation and statement — noted in the literature exchange but not independently verified this session.
 - `research/blaug-henry-george-rebel.md` — **VERIFY** whether Blaug addresses Gaffney *by name* in the article body — do not attribute an explicit anti-Gaffney sentence to Blaug until the full text is read.
 - `research/bowman-bell-lvt-distribution.md` — **VERIFY** exact magnitude/elasticity figures from the full text — this pass relies on the RePEc/IDEAS abstract and multiple agreeing secondary summaries rather than a dir
 - `research/bowman-bell-lvt-distribution.md` — **CITATION NEEDED** the precise mechanism as stated in the authors' own words — full text not directly accessible this session.

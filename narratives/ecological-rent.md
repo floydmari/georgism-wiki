@@ -6,7 +6,7 @@ stub: false
 excerpt: "The environmental extension of the Georgist principle: pollution and extraction are unpaid takings of common natural wealth, and charging rent for them — capped carbon, resource royalties, land taxes that favour compact use — returns the commons to its owners. The thinnest-evidenced narrative of the twelve, mapped honestly."
 narrative_type: environmental
 supported_by: [resource-rent-dividends-work]
-related_people: [alanna-hartzok, karl-fitzgerald]
+related_people: [alanna-hartzok, karl-fitzgerald, george-monbiot]
 related_places: [estonia]
 last_reviewed: 2026-07-05
 ---
@@ -39,6 +39,11 @@ rent of the earth becomes every citizen's property income
   [Alaska Permanent Fund](/wiki/alaska-permanent-fund/).[1]
 - **[Alanna Hartzok](/wiki/alanna-hartzok/)** and the earth-rights strand of the
   movement frame land and ecological rent as a single commons claim.
+- **[George Monbiot](/wiki/george-monbiot/)** gives the narrative its widest
+  mainstream voice: his 2020 Schumacher Lecture, "Private Sufficiency, Public
+  Luxury," argues land is the key to a commons-based transformation of society —
+  the ecological land politics this narrative deploys, from a *Guardian* columnist
+  rather than a movement figure.[7]
 - **[Karl Fitzgerald](/wiki/karl-fitzgerald/)** and
   [Earthsharing Australia](/wiki/earthsharing-australia/) /
   [Prosper Australia](/wiki/prosper-australia/) quantified the base: their *Total
@@ -198,3 +203,7 @@ says so:
    [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0094119006000556)
    · [wiki summary](/wiki/song-zenou-property-tax-sprawl/) — used for the
    property-tax/sprawl evidence and the mechanism distinction from LVT (B-claims).
+7. George Monbiot, "Private Sufficiency, Public Luxury: Land is the Key to the
+   Transformation of Society," 40th Annual E.F. Schumacher Lecture, 2020.
+   [Schumacher Center](https://centerforneweconomics.org/people/george-monbiot/)
+   · [wiki bio](/wiki/george-monbiot/) — used for the lecture's framing (A-claim).

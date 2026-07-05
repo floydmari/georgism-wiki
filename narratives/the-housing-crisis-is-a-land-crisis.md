@@ -37,6 +37,11 @@ frees the land, land taxation makes holding it idle unaffordable.
   Macfarlane) supplied the macro-financial version: a land–credit feedback loop in
   which mortgage lending and land prices chase each other upward, decoupling house
   prices from incomes.[2]
+- **[George Monbiot](/wiki/george-monbiot/)** took the diagnosis to Britain's
+  mainstream: his Labour-commissioned report *Land for the Many* (2019, edited with
+  Laurie Macfarlane and others) framed housing unaffordability as a land-ownership
+  problem and proposed council-tax replacement with a progressive property tax,
+  putting land reform on a major party's agenda.[10]
 - **[Dominic Frisby](/wiki/dominic-frisby/)** carries the popular British version;
   [Prosper Australia](/wiki/prosper-australia/) documents speculative vacancy in
   Melbourne; the [Center for Land Economics](/wiki/center-for-land-economics/) works
@@ -208,3 +213,9 @@ frees the land, land taxation makes holding it idle unaffordable.
    [AEA](https://www.aeaweb.org/articles?id=10.1257%2Fmac.20170388) ·
    [wiki summary](/wiki/hsieh-moretti-spatial-misallocation/) — used for the
    macroeconomic cost of housing constraints (B-claim).
+10. George Monbiot (ed.) et al., *Land for the Many*, report to the Labour Party,
+    June 2019.
+    [PDF](https://labour.org.uk/wp-content/uploads/2019/06/12081_19-Land-for-the-Many.pdf)
+    · [wiki bio](/wiki/george-monbiot/) — used for the report's existence, editorship,
+    and headline proposals (A/C-claims; snippet-corroborated — see the bio page's
+    verification note).

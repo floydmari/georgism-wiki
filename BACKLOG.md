@@ -218,9 +218,13 @@ advocate's original periodization — re-check when progress.org is fetchable).
       (Cuneo original untraced). FLAG from forage: Foldvary's Michigan piece claims a Michigan
       gross-receipts tax that was largely repealed in 2012 — do not reuse that claim.
       **TOP-16 COMPLETE (16/16 triaged: 3 ingests, 10 registry+cite, 3 skips).**
-- [ ] [STUB-CREATE] tier:T2 status:todo — DISCOVERED candidate: people/george-monbiot (Guardian
-      columnist; LVT advocacy column 21 Jan 2013 verified; 2020 Schumacher land lecture) —
-      mainstream-figure advocate; verify bio basics before stub.
+- [x] [STUB-CREATE] tier:T2 status:done 2026-07-06 — people/george-monbiot shipped (first page
+      under the new Exa people-rule: api.exa.ai still 403 → WebSearch fallback used, page stays
+      in the [ENRICH] sweep). Bio corroborated (Orwell Prize 2022; Land for the Many 2019 report
+      to Labour, PDF URL locked; Schumacher Lecture 2020). Wired into housing-crisis +
+      ecological-rent narratives (Who Promotes It). Registry: Land for the Many row added,
+      Monbiot cluster rows repointed to the bio page; export 2026-07-06 committed.
+      One [VERIFY] left: Land for the Many exact proposal wording (full text proxy-blocked).
 
 ### Book-scan comprehensiveness (Floyd, 2026-07-06): extraction pass over Hermes's book scans
 Hermes's overnight DEEPEN-SCANs (Land is a Big Deal, Corruption of Economics, Radical Markets,
