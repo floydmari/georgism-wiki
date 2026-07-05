@@ -22,12 +22,20 @@ Productive cities offer high wages and returns because of agglomeration — but 
 - [Fiorentino & Moogan (2025)](/wiki/fiorentino-moogan-agglomeration/) model the same channel from the agglomeration side, finding that taxing land value eases the misallocation and improves both efficiency and equity in how cities form.
 - [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) provide the fullest quantification of that "housing-as-misallocation" literature, estimating that housing-supply constraints in high-productivity US cities substantially lowered aggregate US growth over 1964–2009.
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
-
-- [Duranton & Puga (2023)](/wiki/duranton-puga-urban-growth/) — A quantitative model in which incumbent residents use planning regulations to limit city growth; relaxing regulation in seven large restricted US cities raises aggregate output 7.95%.
-- [Herkenhoff et al. (2018)](/wiki/herkenhoff-ohanian-prescott-tarnishing/) — A general-equilibrium model in which tightening state land-use restrictions in California and New York misallocate labor and capital, finding deregulation could raise US aggregate TFP and output growth substantially.
+Two structural modeling papers extend the microeconomic evidence to aggregate
+stakes. [Duranton & Puga (2023)](/wiki/duranton-puga-urban-growth/) build a
+quantitative model in which incumbent residents use planning regulation to limit
+city growth; relaxing regulation in seven large restricted US cities raises
+aggregate output by about 8%. [Herkenhoff, Ohanian & Prescott (2018)](/wiki/herkenhoff-ohanian-prescott-tarnishing/)
+reach a parallel conclusion from a general-equilibrium model of state land-use
+restrictions: California and New York's tightening misallocates labor and
+capital nationwide, and deregulation would raise US TFP and output growth
+substantially. Both are model-based estimates — their magnitudes carry the usual
+calibration caveats, and the underlying misallocation evidence
+([Hsieh & Moretti](/wiki/hsieh-moretti-spatial-misallocation/)) has a contested
+point estimate — but the direction is consistent across approaches.
 
 ## Strength of Evidence
 

@@ -18,14 +18,21 @@ Land value taxation can improve housing affordability by discouraging [speculati
 - **But capture ≠ cheap.** [Singapore](/wiki/singapore/) and [Hong Kong](/wiki/hong-kong/) capture enormous land value yet have costly housing — because the goal there was revenue, and supply was still constrained. This shows LVT must be paired with **permissive zoning** to translate into affordability.
 - **Why land scarcity is the crux.** [Saiz (2010)](/wiki/saiz-housing-supply-elasticity/) shows geography and regulation jointly determine how much of housing demand shows up as land price rather than new supply — the land-scarcity mechanism the affordability argument rests on (it is not an LVT study, and it points to zoning as a co-equal lever).
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+The supply-constraint mechanism the affordability argument rests on is
+mainstream. [Glaeser & Gyourko (2018)](/wiki/glaeser-gyourko-housing-supply/)
+document house prices in coastal, regulated metros far above minimum production
+cost — a wedge they attribute to zoning.
+[Hilber & Vermeulen (2016)](/wiki/hilber-vermeulen-england-supply/) find the
+same for England: regulatory and physical supply constraints substantially raise
+prices. [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/)
+estimate the macro cost of that misallocation — a widely cited figure now
+contested by a 2026 comment identifying coding errors, a dispute the wiki
+reports as unresolved. None of the three studies LVT directly; they establish
+the land-scarcity mechanism and point to zoning as the co-equal lever — exactly
+the pairing this page's headline assessment insists on.
 
-- [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) — Hsieh and Moretti model how housing-supply constraints in high-productivity US cities misallocated labor 1964-2009, lowering aggregate growth — a widely cited but now contested estimate, per a 2026 comment finding coding errors.
-- [Glaeser & Gyourko (2018)](/wiki/glaeser-gyourko-housing-supply/) — Glaeser and Gyourko show US house prices in coastal/regulated metros far exceed minimum production cost, and attribute the gap to zoning, not land scarcity or LVT — a paper about regulation, not tax policy.
-
-- [Hilber & Vermeulen (2016)](/wiki/hilber-vermeulen-england-supply/) — Hilber and Vermeulen find that regulatory and physical supply constraints substantially raise English house prices — mainstream evidence for the land-scarcity mechanism, though not a study of land value taxation.
 ## Strength of Evidence
 
 **Contested.** The mechanism is sound and the construction evidence supports it, but affordability outcomes depend heavily on **complementary land-use policy**. LVT helps, but is not sufficient alone.

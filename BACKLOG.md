@@ -8,9 +8,10 @@ walked through in the body; first corpus scan caught 11 drifted outcome pages, a
 generated paper-by-paper sections (from reviewed excerpts) — a T1 prose-polish pass over those
 sections is queued below. (3) Synthesis de-referencing is now a T1 review gate (LOOP.md step 5).
 (4) landlords outcome expanded to 7 supports + 2 challenged_by incl. the Danish land-tax study.
-- [ ] [DEEPEN] tier:T1 status:todo — prose-polish the 11 generated "Evidence — Paper by Paper"
-      sections (they are accurate excerpt-derived bullets; weave the best into each page's
-      narrative evidence discussion where it reads better as prose).
+- [x] [DEEPEN] tier:T1 status:done 2026-07-06 — all 11 generated "Evidence — Paper by Paper"
+      sections woven into narrative prose ("The Evidence in Detail"); capital-share gained a
+      dedicated counter-evidence section; progressive-LVT page now presents its England-Zhao vs
+      Bowman-Bell dispute openly as jurisdiction-dependent.
 
 LOOP-2 DELTA (same day, after the block below was written): stubs 17→15
 (john-bates-clark, superstar-firms, fire-sector backfilled; karl-widerquist stub added);

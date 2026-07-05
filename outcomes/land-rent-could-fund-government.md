@@ -25,16 +25,23 @@ What each side is *counting* is clarified by [Foldvary's kinetic/potential rent 
 
 The gap turns on two things: **what counts as rent** (Gaffney includes resource, spectrum, and under-assessed urban rent that standard accounts omit) and whether one credits the [ATCOR](/wiki/atcor/) effect — that abolishing other taxes raises land values, enlarging the LVT base.
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+The measured base first. [Larson (2015)](/wiki/larson-us-land-value/) — the BEA
+working paper — puts contiguous-US land at roughly **$23 trillion** (2009) using
+hedonic methods; [Albouy, Ehrlich & Shin (2018)](/wiki/albouy-ehrlich-shin-metro-land/)
+supply the first transaction-based index for every US metro, finding urban land
+worth over twice GDP, with just five metros holding 48% of it; and
+[Davis & Heathcote (2007)](/wiki/davis-heathcote-us-land/) built the widely-used
+quarterly residential-land price series the field runs on. On the institutional
+side, the [Mirrlees Review (2011)](/wiki/mirrlees-review/) — the UK's most
+authoritative modern tax review — concludes land value should be taxed and
+proposes replacing business rates with an LVT. The advocacy wing's national
+worked example is [Common Wealth Canada's 2023 report](/wiki/natural-common-wealth-economic-rent-canada/):
+total Canadian economic rent estimated at ~$421B/year, of which it argues $241B
+could be newly captured — an advocate estimate, carried as such alongside the
+table's other attributed aggregations.
 
-- [Adam et al. (2011)](/wiki/mirrlees-review/) — The UK's most authoritative modern tax review, chaired by Nobel laureate Sir James Mirrlees, concludes that land value should be taxed and proposes replacing business rates with a land value tax.
-- [Canada (2023)](/wiki/natural-common-wealth-economic-rent-canada/) — A January 2023 report from the Canadian advocacy think tank Common Wealth Canada estimating Canada's total annual economic rent from land and natural resources at roughly $421 billion, of which it argues $241 billion could be newly captured as public revenue.
-- [Larson (2015)](/wiki/larson-us-land-value/) — A U.S. Bureau of Economic Analysis working paper estimating the total value of land in the contiguous United States at roughly $23 trillion (2009), using hedonic methods rather than the older residual approach.
-- [Albouy et al. (2018)](/wiki/albouy-ehrlich-shin-metro-land/) — The first cross-sectional, transaction-based land-value index for every US metro area, finding urban land worth over twice GDP and just five metro areas — New York, LA, San Francisco, DC, Chicago — holding 48% of all US urban land value.
-
-- [Davis & Heathcote (2007)](/wiki/davis-heathcote-us-land/) — A foundational paper constructing a quarterly price and quantity index for residential land in the US using a residual method, producing the widely cited Davis-Heathcote land price series.
 ## Strength of Evidence
 
 **Contested.** That land rent is *large* is well established; *how large relative to government* depends heavily on method. Honest framing: enough to be a **major** revenue source, with **full** replacement an open question.

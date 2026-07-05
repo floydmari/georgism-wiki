@@ -22,15 +22,26 @@ A land value tax is **not** regressive. Because the ownership of land and land-h
 
 Progressivity depends on design (exemptions, deferral for the [asset-rich/cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/), and how revenue is spent — a [citizen's dividend](/wiki/citizens-dividend/) makes it sharply progressive).
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail — a Genuinely Two-Sided Record
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+This outcome carries its dispute openly. On the challenging side,
+[England & Zhao (2005)](/wiki/england-zhao-lvt-distribution/) found a
+revenue-neutral shift to a land-favoring two-rate tax in Dover, NH would be
+**regressive** among residential owners — and proposed a uniform credit to fix
+it. [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) replicated the
+design on Roanoke, VA and found the **opposite** — progressive by income and
+poverty rate — establishing that the distributional result is
+jurisdiction-dependent, driven by where land value sits relative to income.
+[Plummer (2010)](/wiki/plummer-lvt-distribution/) adds parcel-level Texas
+evidence: the shift moves burden off single-family homes and is only slightly
+progressive within residential property.
+[Common Wealth Canada's modelling (2024)](/wiki/cwc-distributional-impacts-lvt/)
+draws the design lesson explicitly: a national LVT alone looks regressive by
+income decile, and a large flat refundable credit reverses it for most
+households — the England–Zhao remedy at national scale. The honest summary: LVT's
+progressivity is real at the top of the wealth distribution (land ownership is
+concentrated) but **design-dependent** at the household level.
 
-- [Wilkinson (2024)](/wiki/cwc-distributional-impacts-lvt/) — A Common Wealth Canada modelling exercise on a national land value tax coupled with income-tax reform: LVT alone looks regressive by income decile, but a large flat refundable credit reverses this for most households.
-- [Plummer (2010)](/wiki/plummer-lvt-distribution/) — Parcel-level Texas study: replacing a uniform property tax with an LVT shifts burden off single-family homes and onto other property classes, and is only slightly more progressive within residential properties by value.
-- [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) — Bowman & Bell (2008, National Tax Journal) replicate England & Zhao's regressivity finding on a new city (Roanoke, VA) and find the opposite: a revenue-neutral shift to a land value tax there is progressive by income and poverty rate — showing the result is jurisdiction-dependent.
-
-- **Counter-evidence:** [England & Zhao (2005)](/wiki/england-zhao-lvt-distribution/) — England & Zhao (2005, National Tax Journal) find that a revenue-neutral shift from a uniform property tax to a two-rate (land-favoring) tax in Dover, NH would be regressive among residential owners — and propose a uniform credit to fix it.
 ## Strength of Evidence
 
 **Strong** — follows from the concentration of land ownership plus formal optimal-tax results.
