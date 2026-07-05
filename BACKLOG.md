@@ -107,7 +107,7 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [x] [BACKFILL] tier:T2 status:done — people/david-lloyd-george backfilled 2026-07-04 (226 lines; Limehouse venue disambiguated, Dreadnoughts/Green-Book misattributions corrected)
 - [ ] [BACKFILL] tier:T2 status:todo — people/winston-churchill (People's Rights corpus page live; 2 chunks)
 - [x] [BACKFILL] tier:T2 status:done — places/vancouver backfilled 2026-07-04 (note: british-columbia.md still cites STALE 0.5%/2% SVT rates — see follow-up below)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/superstar-firms (pairs with tech-rents cluster + new outcome)
+- [x] [BACKFILL] tier:T2 status:done — concepts/superstar-firms backfilled 2026-07-05 (corpus re-mine: mechanism section, efficiency-vs-market-power dispute mapped via Philippon/Barkai/Furman-Orszag, wired to corporate-rents outcome)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/fire-sector (rentier-economy narrative dependency)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/mass-appraisal-methods (assessment objection's practical answer)
 - [ ] [BACKFILL] tier:T2 status:todo — events/2008-financial-crisis (cycle narrative proof-point)
