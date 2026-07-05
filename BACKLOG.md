@@ -31,10 +31,10 @@ LOOP-2 DELTA (same day, after the block below was written): stubs 17→15
 citdiv.org + progress.org surveys DONE and triaged — both full scans now sit in the
 Site-scan queue as status:blocked on the SAME two unblocks: (a) OP_SERVICE_ACCOUNT_TOKEN
 (gives the Ghost API for progress.org Batch 0 AND publishing) or proxy allowlist, and
-(b) Floyd downloading the citdiv eBook. Next wave order: [SHEET-SYNC] Drive refresh (8
-rows behind) → remaining top backfills (mass-appraisal-methods, 2008-financial-crisis,
-public-land-leasing) → progress.org TOP-16 extraction candidates (LOOPLOG 2026-07-05b)
-which need only WebSearch, not the blocked Batch 0 → WS8 [CITE] retrofit.
+(b) Floyd downloading the citdiv eBook. Next wave order: remaining top backfills
+(mass-appraisal-methods, 2008-financial-crisis, public-land-leasing) → progress.org TOP-16
+extraction candidates (LOOPLOG 2026-07-05b) which need only WebSearch, not the blocked
+Batch 0 → WS8 [CITE] retrofit. (Drive [SHEET-SYNC] refresh dropped — de-scoped 2026-07-06.)
 
 ## (superseded same-day checkpoint follows — still accurate for environment notes)
 State: 240 pages, lint green (0 errors), COVERAGE 14/14. **All twelve narratives are now shipped**
@@ -68,10 +68,10 @@ A fresh session resumes with, in order:
 4. Remaining evidence depth (queue below): 8 unchecked tech-rents papers; loffler-siegloch and
    england-zhao counter-evidence pages; hilber-vermeulen; davis-heathcote.
 5. WS8 [CITE] retrofit (Phase 3), staleness sweep (BC SVT rates follow-up), WS6 concepts.
-6. Per-wave wrap-up unchanged: registry flip in-iteration → Sheet snapshot (mandatory-loud; TWO
-   [SHEET-SYNC] todos now pending) → LOOPLOG → preview rebuild + artifact redeploy (same URL:
-   https://claude.ai/code/artifact/71d156a4-a38a-4de8-be83-4e3ef69df163). Ghost publish still
-   gated on GHOST_ADMIN_KEY (1Password service token) — everything stays commit-only until then.
+6. Per-wave wrap-up: registry flip in-iteration → committed dated export in sources/exports/
+   (repo-only rule, 2026-07-06 — no Drive/Sheet sync) → LOOPLOG → preview rebuild + artifact
+   redeploy (same URL: https://claude.ai/code/artifact/71d156a4-a38a-4de8-be83-4e3ef69df163).
+   Publishing to progress.org is Floyd's separate process (loop ends at commit+push).
 7. **Wanted-books channel**: sources/wanted-books.md lists ~20 books awaiting e-copies from Floyd;
    when one lands, spawn its [DEEPEN-SCAN] and upgrade the citing pages past Light.
 
@@ -100,25 +100,14 @@ narratives 0→12+, thin→0, claim-level citations→100%, cross-links 3+out/2+
 - [x] [BULK] tier:T3 status:done — sync_to_ghost.py narratives category; .gitignore; narratives/ dir
 - [x] [DESIGN] tier:T1 status:done — LOOP.md tier-aware loop prompt
 
-## Standing rule — registry mirrors (GitHub exports + Google Sheet)
-Any task that edits `sources/registry.csv` must, per LOOP.md step 3: (1) run
+## Standing rule — registry mirror (repo-only; Drive/Sheet DE-SCOPED, Floyd 2026-07-06)
+Any task that edits `sources/registry.csv` must, per LOOP.md step 3, run
 `scripts/export_registry_for_sheet.py` and **commit the dated export to
-`sources/exports/registry-export-YYYY-MM-DD.csv`** (the definitive, GitHub-viewable snapshot —
-Floyd's request 2026-07-05; GitHub renders CSVs as sortable tables), AND (2) push a Drive snapshot
-spreadsheet (or leave a loud [SHEET-SYNC] task here if Drive is unreachable).
-Last synced: **2026-07-05** — repo export `sources/exports/registry-export-2026-07-05.csv`
-(refreshed same day to 267 rows after the loop-2 additions) + Drive snapshot "Georgism Wiki —
-Source Registry (git sync 2026-07-05)" (259 rows at push time; covers the wave-D delta).
-- [ ] [SHEET-SYNC] tier:T3 status:todo — 8 loop-2 rows (citdiv.org + 7 FIRE-sector sources) were
-      added AFTER the 2026-07-05 Drive snapshot — push a fresh Drive export next iteration (the
-      committed repo export already includes them).
-- [ ] [SHEET-SYNC] tier:T3 status:todo — durable write-back: once a Google service-account JSON is
-      in the Emma vault (per the 1Password/op plumbing) and the master Sheet is shared with that
-      service account as Editor, write `scripts/sync_registry_to_sheet.py` to update the master
-      Sheet in place via the Sheets API each REVIEW-loop iteration (replaces dated snapshots).
-
-- [x] [SHEET-SYNC] done 2026-07-04 — full snapshot "Georgism Wiki — Source Registry (git sync 2026-07-04)" pushed to Floyd's Drive (215 rows, Δ 23 NEW + 3 UPDATED vs main).
-- [x] [SHEET-SYNC] done 2026-07-05 — wave-D delta + this session's 29 new rows all covered by the 2026-07-05 full snapshot (Drive + repo export in sources/exports/).
+`sources/exports/registry-export-YYYY-MM-DD.csv`** — the definitive, GitHub-viewable snapshot
+of all ingested sources (GitHub renders CSVs as sortable tables). Google Drive/Sheet snapshots
+are no longer part of the loop: do not push Drive exports or file [SHEET-SYNC] tasks. The two
+Drive snapshots pushed 2026-07-04/05 are historical artifacts, not maintained mirrors.
+Latest export: `sources/exports/registry-export-2026-07-06.csv` (325 rows).
 
 ## Comprehensiveness loop (LOOP-COMPREHENSIVENESS.md — invokable audit, separate from the main loop)
 comprehensiveness watermark: 136 external-source rows (first invocation completed 2026-07-04; next invocation sweeps rows added after #136 unless --full)
@@ -407,12 +396,16 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [ ] [DRAFT] tier:T2 status:todo — objections: "cycles are chiefly monetary/credit, not land" —
       the counter-position page the cycles narrative flags as missing (Borio/BIS as steelman source).
 
-## Registry ↔ master Sheet reconciliation
-- [ ] [RECONCILE] tier:T3 status:todo — Merge the master Google Sheet's per-source rows into
-      sources/registry.csv: the registry was seeded from repo frontmatter + a curated list, so some
-      Sheet rows (e.g. Killing the Host [Heavy], The Power in the Land, Boom Bust, Land Is a Big
-      Deal, Radical Markets, Land and Liberty) are missing or wrongly flagged NEW in exports.
-      One-time import keyed by Title; keep the Sheet's Scan Depth/Status where richer.
+## Registry — one-time historical import from the old master Sheet
+(NOT a sync — Drive/Sheet mirroring is de-scoped 2026-07-06; the repo registry + committed
+exports are the registry of record. This is a single backfill of rows the old Sheet had that
+the repo seeding missed.)
+- [ ] [RECONCILE] tier:T3 status:todo — one-time import of the old master Google Sheet's
+      per-source rows into sources/registry.csv, keyed by Title; keep the Sheet's Scan
+      Depth/Status where richer (e.g. Killing the Host [Heavy], The Power in the Land, Boom
+      Bust, Land and Liberty). NOTE 2026-07-06: several named titles now have Hermes books/
+      pages (Land Is a Big Deal, Radical Markets) — reconcile against those at merge review
+      rather than the Sheet. Needs Floyd to share the Sheet/CSV once; low priority.
 
 ## Phase 0 — remaining (needs credentials, not Fable)
 - [x] [RECONCILE] tier:T3 status:done — CWC drift RESOLVED 2026-07-03 by fresh git-master authorship

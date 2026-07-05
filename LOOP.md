@@ -64,15 +64,13 @@ tasks needing live web research stay on tool-using agents.
    In-Wiki Citations, Year, Tier, Format, URL). **When a source's wiki page ships, flip its
    registry row to Status=Scanned and fill Wiki Page in the same iteration** — a page without
    its registry row updated is an incomplete task.
-   **Registry mirrors (MANDATORY, never silent):** any iteration that changes `sources/registry.csv`
-   must, before finishing: run `python3 scripts/export_registry_for_sheet.py`, then
-   (1) **commit the dated export to `sources/exports/registry-export-YYYY-MM-DD.csv`** — the
-   definitive snapshot, viewable directly on GitHub (Floyd's standing request, 2026-07-05) — and
-   (2) EITHER push the export to Floyd's Google Drive as a dated snapshot spreadsheet (via
-   available Drive/Sheets tooling), OR if no Drive access, append a loud
-   `- [ ] [SHEET-SYNC] tier:T3 status:todo — push registry export to the master Google Sheet
-   (last synced: <date>)` line to `BACKLOG.md`. A log line saying "sync pending" is NOT
-   sufficient — the staleness must be visible in the backlog Floyd reads.
+   **Registry mirror (MANDATORY — repo-only, Floyd 2026-07-06):** any iteration that changes
+   `sources/registry.csv` must, before finishing, run
+   `python3 scripts/export_registry_for_sheet.py` and **commit the dated export to
+   `sources/exports/registry-export-YYYY-MM-DD.csv`** — the definitive, GitHub-viewable
+   snapshot of all ingested sources (GitHub renders CSVs as sortable tables). Google
+   Drive/Sheet snapshots are DE-SCOPED — do not push Drive exports or file [SHEET-SYNC]
+   tasks; the repo export is the registry of record.
 4. **`[CITE]` tasks** additionally produce the A–E report (revised text · Sources · still-needs-
    citation · softened claims · stronger sources to find) in `reports/<slug>.cite.md`.
 5. **Self-review** against `QUALITY_RUBRIC.md`. T1 adds the adversarial pass: *"what would a
