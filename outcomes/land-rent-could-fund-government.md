@@ -18,6 +18,7 @@ The total economic rent of land and natural resources is large enough to fund a 
 |------|----------|--------|
 | **Optimistic** | US land rent is "enough and to spare" once hidden rent categories and the [ATCOR](/wiki/atcor/) base-expansion effect are counted | [Gaffney (2009)](/wiki/gaffney-hidden-taxable-capacity/) |
 | **Advocate aggregation** | US land/resource rent ≈ $3.5T/yr, over a third of GDP, via two back-of-envelope methods — an attributed advocate estimate, not an official figure | Jeffery J. Smith, *Counting Bounty* (2020), ch. 20 |
+| **Advocate extrapolation** | ~$11T US land value from Federal Reserve Z.1 balance-sheet tables (partial-sector; also documents the Fed's famous negative-land artifact from the land-residual method) — attributed; Larson 2015 remains the wiki's benchmark | Scott Baker, progress.org (2016), from Fed Z.1 |
 | **Conservative** | Currently *measured* land rent is a smaller share of GDP — enough for a major but not total replacement of existing taxes | mainstream national-accounts estimates |
 
 What each side is *counting* is clarified by [Foldvary's kinetic/potential rent decomposition](/wiki/foldvary-kinetic-potential-rent/): measured national-accounts rent is part of kinetic rent; the optimistic case claims potential rent (including tax-suppressed rent) far exceeds it.

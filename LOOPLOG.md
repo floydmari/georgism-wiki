@@ -375,3 +375,16 @@ the Alaska Model book row), 1 SKIP with reason (DiMare five-stages — unrecover
 **Backfillable stub queue now EMPTY** (2 remain, both input-gated). Registry 298→306.
 Lane discipline: widerquist-howard-pfd cite deferred (2 markers = Hermes lane).
 Wake #3 armed 16:15Z; stops re-arming when Floyd returns.
+
+---
+
+## 2026-07-06c (wake #3 wave, started early on Floyd's "keep looping", ~15:35-16:20 UTC)
+
+**TOP-16 COMPLETE (16/16):** batch 2 triaged 10/10 — 1 ingest (real-estate-4-ransom film page:
+advocacy-media treatment, deployment-not-evidence framing, director-spelling variant flagged),
+7 registry+cite (incl. Monbiot primary locked: Guardian 21-Jan-2013; Baker's Fed-Z.1 $11T as
+attributed advocate row beside Larson benchmark; Anderson's Trump/cycle piece as attributed
+period application), 2 skips with reasons. Prose-polish: 3 of 11 outcome evidence sections woven
+to narrative (capital-share gains a full counter-evidence section). Lane discipline held twice
+(churchill-peoples-rights 14 markers; corruption book-page cites deferred to Hermes merge).
+Monbiot logged as DISCOVERED people-candidate. Registry 306→318.

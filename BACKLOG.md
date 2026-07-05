@@ -193,11 +193,20 @@ Counting Bounty ch.20 advocate estimate (on fund-government), Exporting the Alas
 (row; cite on widerquist-howard-pfd BLOCKED — page carries 2 markers, Hermes lane). SKIPPED with
 reason: five-stages-of-the-georgist-movement (2 of 5 stages unrecoverable from snippets; one
 advocate's original periodization — re-check when progress.org is fetchable).
-- [ ] [SCAN] tier:T2 status:todo — TOP-16 batch 2 (remaining 10): how-land-barons…corrupted-
-      economics, the-corruption-of-economics (Adams), real-estate-4-ransom, henry-george-
-      documentary, 4-major-land-gain-taxes-1890-platform, monbiot-land-acts, michigans-
-      government-failure, land-worth-more-than-enough, geo-libertarianism-gets-criticized,
-      take-the-donald-seriously (Anderson). Same verify→INGEST/REGISTRY/SKIP triage.
+- [x] [SCAN] tier:T2 status:done 2026-07-06 — TOP-16 batch 2 (10/10 triaged): INGESTED
+      real-estate-4-ransom (film page). REGISTRY+CITE ×7: Bonner documentary (on
+      video-explainers), Baker $11T Fed-Z.1 extrapolation (fund-government table), Anderson
+      Trump/cycle piece (18-year-cycle), Adams+unattributed corruption popularizations (rows;
+      page-cites deferred to Hermes's book page at merge), Monbiot cluster (rows: Smith article,
+      Schumacher lecture 2020, Guardian 21-Jan-2013 primary; page-cite deferred —
+      churchill-peoples-rights carries 14 markers/Hermes lane). SKIPPED ×2 with reason:
+      DiMare 4-taxes (personal legal theory, 4th tax unrecoverable), Foldvary geo-lib reply
+      (Cuneo original untraced). FLAG from forage: Foldvary's Michigan piece claims a Michigan
+      gross-receipts tax that was largely repealed in 2012 — do not reuse that claim.
+      **TOP-16 COMPLETE (16/16 triaged: 3 ingests, 10 registry+cite, 3 skips).**
+- [ ] [STUB-CREATE] tier:T2 status:todo — DISCOVERED candidate: people/george-monbiot (Guardian
+      columnist; LVT advocacy column 21 Jan 2013 verified; 2020 Schumacher land lecture) —
+      mainstream-figure advocate; verify bio basics before stub.
 
 ### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
 - [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because
