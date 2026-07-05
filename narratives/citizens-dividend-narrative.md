@@ -48,6 +48,9 @@ together."
 - In Canada, [Common Wealth Canada](/wiki/common-wealth-canada/) advances the
   common-wealth-fund version of the same idea
   ([research page](/wiki/common-wealth-fund/)).
+- Online, citdiv.org (founded 2021–22 by cycle author Phillip J. Anderson) carries a
+  popular advocacy version — a "never-ending income" funded from economic rent —
+  cited here only as the advocates' own framing.[8]
 
 ## Research That Supports It
 
@@ -191,3 +194,7 @@ together."
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273001) ·
    [wiki summary](/wiki/martinez-colombia-resource-rents/) — used for the
    windfall-corrosion counter-evidence (B/E-claim).
+8. Citizen's Dividend (citdiv.org), advocacy site founded by Phillip J. Anderson,
+   2021–22. [Site](https://citdiv.org/) — used solely to represent the advocates'
+   own position (source-hierarchy level 6); never for empirical figures — its one
+   concrete number (a cumulative Alaska PFD total) is a stale ~2006-era figure.

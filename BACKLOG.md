@@ -80,10 +80,25 @@ comprehensiveness watermark: 0 external-source rows (never run — first invocat
       On completion: T1 triage -> stubs -> Phase 3 content development -> update watermark here.
 
 ### Site-scan queue (added by Floyd 2026-07-05 — whole-site ingest targets)
-- [ ] [SCAN] tier:T2 status:todo — **https://citdiv.org/** — full-site scan: survey pass first
-      (site not yet inspected — this session's web quota ran out before it could be fetched), then
-      extract citable claims/sources, add registry rows, create/extend pages, harvest DISCOVERED
-      candidates into stubs.
+- [x] [SCAN-SURVEY] tier:T2 status:done 2026-07-05 — citdiv.org surveyed (snippet-based; proxy
+      blocks the domain). VERDICT: small advocacy microsite (~10-25 pages, Oct 2021–2024) founded
+      by Phillip J. Anderson as a lead funnel for Property Sharemarket Economics; standard
+      rent-funded-UBI advocacy, no novel scholarship; its one concrete number (cumulative Alaska
+      PFD total) is a stale ~2006 Wikipedia figure. NO organizations page warranted. Registry row
+      added (level-6 advocate source); cited as advocate framing on citizens-dividend-narrative.
+- [ ] [SCAN] tier:T2 status:blocked — citdiv.org REMAINDER: the email-gated eBook ("Citizen's
+      Dividend", presumably Anderson; also FR/中文/Thai versions) is the only high-value unread
+      item. UNBLOCK: Floyd downloads the eBook and drops it in the repo/Drive, OR the egress
+      proxy allowlists citdiv.org + realestate.propertysharemarketeconomics.com. Then: sitemap
+      fetch → 2 articles + eBook + category archives.
+- NOTE against the standing rejection of people/phillip-j-anderson ("sourcing thin — do not
+      re-propose without new evidence"): founding citdiv.org IS new evidence of Georgist advocacy
+      (X: @citdiv, founded Feb 2022), but it is all self-published/level-6 — the rejection STANDS
+      until independent coverage exists.
+- [ ] [DRAFT] tier:T2 status:todo — research/raley-citizens-dividend candidate: Bill Raley, "The
+      Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;
+      verify author/venue/content before drafting; would give the citizens-dividend concept page
+      its first scholarly-tier source beyond George + Alaska.
 - [ ] [SCAN] tier:T2 status:todo — **progress.org, ALL sections EXCEPT /wiki/** (the wiki is this
       repo's own output — do not re-ingest it). Articles, archives, static pages. Survey pass to
       map sections, then batch the extract→register→stub pipeline.
