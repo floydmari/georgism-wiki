@@ -1,5 +1,15 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
+HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,
+Anderson Secret Life of Real Estate, Patel Secret Wealth Advantage) → 4 new research pages +
+5 existing pages enriched with book findings. 12 VERIFY/CITATION NEEDED markers cleared
+(Hsieh-Moretti, Glaeser-Gyourko, IMF Building Tax Capacity, Knoll-Schularick-Steger, Progress
+18.6-year cycle). 1 CORRECTED item: Hsieh-Moretti Caplan correction figures were LARGER not
+smaller. 33 markers remain (mostly paywalled). Ricardo's Law research page still needed.
+Branch hermes/enrichment-w1, PR #6, 11 commits, lint green (0 errors, 485 warnings).
+
+Previous checkpoint follows — still accurate for environment notes.
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 loop 2, WS2 COMPLETE 12/12 + surveys triaged)
 LOOP-3 DELTA (Floyd directives, 2026-07-05 evening): (1) GHOST/1PASSWORD DE-SCOPED — deployment
 is Floyd's separate process; the loop ends at commit+push+preview; never chase the token again
