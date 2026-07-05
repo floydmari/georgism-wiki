@@ -58,7 +58,7 @@ Hoyt's data became the historical backbone for later Georgist land-cycle writers
 recurring land speculation, not credit conditions alone, drives the timing of recessions.
 **[Fred Harrison](/wiki/fred-harrison/)** drew directly on Hoyt's Chicago chronology in *The
 Power in the Land* (1983) and *Boom Bust* (2005) to argue the same land-and-credit rhythm
-recurs in modern economies, using it to forecast the 2008 financial crisis roughly three years
+recurs in modern economies, using it to forecast the 2008 financial crisis — as early as 1997 in *The Chaos Makers*, and again in *Boom Bust* roughly three years
 ahead.[8] **[Fred Foldvary](/wiki/fred-foldvary/)** independently reached a similar forecast in
 1997, writing that "the next major bust, 18 years after the 1990 downturn, will be around
 2008."[9] Later popularizers — Roy Wenzlick, Phillip J. Anderson (who refined the period to

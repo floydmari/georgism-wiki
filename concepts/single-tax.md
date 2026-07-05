@@ -30,6 +30,8 @@ The "single tax" label largely fell out of use, but the underlying policy — LV
 
 ## See Also
 
+- [Narrative: The Single Tax](/wiki/single-tax-narrative/)
+
 - [Henry George](/wiki/henry-george/) — the movement's originator
 - [Land Value Tax](/wiki/land-value-tax/) — the contemporary policy form
 - [Georgism](/wiki/georgism/) — the broader philosophy

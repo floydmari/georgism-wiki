@@ -20,6 +20,14 @@ Ecological Georgism reframes climate and environmental policy as a rent problem,
 
 ## See Also
 
+- [Barnes — Who Owns the Sky? (sky trust)](/wiki/barnes-sky-trust/)
+
+- [Pigouvian Taxation](/wiki/pigouvian-taxation/)
+
+- [LVT reduces urban sprawl](/wiki/lvt-reduces-sprawl/)
+
+- [Land as Commons](/wiki/land-as-commons/)
+
 - [Resource Rents](/wiki/resource-rents/) · [Citizen's Dividend](/wiki/citizens-dividend/) · [Georgism](/wiki/georgism/)
 - [Alanna Hartzok](/wiki/alanna-hartzok/) — leading advocate connecting land rent to environmental justice
 

@@ -9,7 +9,24 @@ candidates → 20 sourced stubs created + 10 rejected-with-reason), the 14th out
 (homer-hoyt, vancouver done; david-lloyd-george verify), registry 193→~228 rows, Drive snapshot
 "Georgism Wiki — Source Registry (git sync 2026-07-04)". Branch claude/wiki-improvement-w5; PR open.
 
-A fresh session resumes with, in order:
+NOTE 2026-07-05 (post GLM waves 1-5): main loop runs T2 volume on GLM (LOOP.md 'GLM IS THE
+DEFAULT T2/T3 EXECUTOR'; worker: scripts/glm_draft_worker.py). 281 pages. Concepts queue COMPLETE
+(22->40+). Stub queue 43->8 (remaining: floyd-marinescu [owner to supply bio], radical-markets,
+land-value-increment-tax, land-value-increment/margin leftovers per gauge). Counter-evidence
+wired: england-zhao + loffler-siegloch (challenged_by) + gochenour-caplan primary read in full
+(Foldvary 2014 reply queued). PR #4 open and growing; PR #3 merged+live.
+
+A fresh session resumes with, in order (SUPERSEDES the numbered list below where they conflict):
+A. NARRATIVES LAYER — 3 remaining (9/12 live as of 2026-07-05); ALL PREREQUISITES NOW IN CORPUS:
+   ecological-rent (barnes-sky-trust + pigouvian-taxation + lvt-reduces-sprawl), the-corruption-
+   of-economics (missemer-pottier counter-source + milgate review cited therein), the-great-land-
+   robbery (fairlie-short-history-enclosure). Originally: the 7 remaining pages per narratives/_framework.md. This is T1-heavy
+   persuasive-framing work: GLM may draft from the framework + corpus, but Fable must rework
+   framing, sourcing density per the unearned-increment exemplar. Start fresh-context.
+B. Remaining 8 stubs + [COHESION] tasks (BC/Vancouver scope split, terminology pass).
+C. [SHEET-SYNC] loud todo below; WS8 [CITE] retrofit; staleness sweep.
+
+Original resume list:
 1. `git status` + lint (all three first-round backfills are done: homer-hoyt, vancouver, david-lloyd-george).
 2. **Flywheel continues** (LOOP.md): [PRIORITIZE] the Stub queue below (18 stubs remain), run top
    3-5 [BACKFILL]s per wave, harvest DISCOVERED candidates into new stubs. STUBS gauge in lint.
@@ -64,10 +81,21 @@ created in Floyd's Drive (166 rows; Δ column marks 13 NEW + 4 UPDATED/CORRECTED
 - [ ] [SHEET-SYNC] tier:T3 status:todo — ~13 wave-D rows (Arnott, Kanemoto, Herkenhoff, Goldsmith, Carroll-Yinger, Franzsen, Furman, Barkai, Philippon, Eeckhout, Crouzet, Piketty + IMF row fix) added AFTER the 2026-07-04 snapshot — push a fresh export next iteration
 
 ## Comprehensiveness loop (LOOP-COMPREHENSIVENESS.md — invokable audit, separate from the main loop)
-comprehensiveness watermark: 0 external-source rows (never run — first invocation 2026-07-04 in progress)
-- [ ] [COMPREHENSIVENESS-SWEEP] tier:T2 status:in-progress — first full sweep of all 136 external
-      registry sources (13 batches; prepass: 42 author candidates, 46 under-mined sources).
-      On completion: T1 triage -> stubs -> Phase 3 content development -> update watermark here.
+comprehensiveness watermark: 136 external-source rows (first invocation completed 2026-07-04; next invocation sweeps rows added after #136 unless --full)
+- [x] [COMPREHENSIVENESS-SWEEP] status:done 2026-07-04 — full sweep of 136 sources via GLM
+      (zero Claude quota): light pass + deep pass (46 full-text Core/under-mined scans at 1M ctx).
+      ~200 raw candidates -> 29 stubs accepted (11+ people incl. Arnott/Oates/Rognlie/Glaeser/
+      Piketty/Ely), 4 backfilled same-day (alaska, canada, wallace-oates, edward-glaeser).
+      Cohesion audit (whole corpus, 1 call): 25 findings, 12 fixed same-day, rest queued below.
+- [ ] [COHESION] tier:T2 status:todo — BC/Vancouver scope split (audit: heavy duplication;
+      give british-columbia the provincial/CWC scope, vancouver the city single-tax story)
+- [ ] [COHESION] tier:T3 status:todo — terminology normalization pass (citizen's dividend /
+      18-year cycle / single-tax variants; audit lists pages) + land-value-capture vs
+      public-land-leasing overlap trim
+- [ ] [DRAFT] tier:T2 status:todo — concepts: carbon pricing / Pigouvian taxation within the
+      Georgist frame (audit corpus-gap; ecological-georgism cites it) and outcomes/lvt-reduces-sprawl
+      (Banzhaf-Lavery evidence)
+- [x] [DRAFT] tier:T2 status:done — research/great-mortgaging — Jordà-Schularick-Taylor 2014 — GLM wave 1 (full text read; honest supports_outcomes:[] — credit-side complement)
 
 ## Stub queue (flywheel intake — stubs created at discovery, ranked by [PRIORITIZE])
 - [ ] [PRIORITIZE] tier:T1 status:recurring — each wave: rank stubs below by (a) inbound-link
@@ -76,17 +104,17 @@ comprehensiveness watermark: 0 external-source rows (never run — first invocat
 Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 rejected-with-reason in LOOPLOG):
 - [x] [BACKFILL] tier:T2 status:done — people/homer-hoyt backfilled 2026-07-04 (FHA/redlining role addressed with Ware 2021 RSF cite)
 - [x] [BACKFILL] tier:T2 status:done — people/david-lloyd-george backfilled 2026-07-04 (226 lines; Limehouse venue disambiguated, Dreadnoughts/Green-Book misattributions corrected)
-- [ ] [BACKFILL] tier:T2 status:todo — people/winston-churchill (People's Rights corpus page live; 2 chunks)
+- [x] [BACKFILL] tier:T2 status:done — people/winston-churchill (GLM wave 3) (People's Rights corpus page live; 2 chunks)
 - [x] [BACKFILL] tier:T2 status:done — places/vancouver backfilled 2026-07-04 (note: british-columbia.md still cites STALE 0.5%/2% SVT rates — see follow-up below)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/superstar-firms (pairs with tech-rents cluster + new outcome)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/fire-sector (rentier-economy narrative dependency)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/mass-appraisal-methods (assessment objection's practical answer)
-- [ ] [BACKFILL] tier:T2 status:todo — events/2008-financial-crisis (cycle narrative proof-point)
+- [x] [BACKFILL] tier:T2 status:done — concepts/superstar-firms (GLM wave 2) (pairs with tech-rents cluster + new outcome)
+- [x] [BACKFILL] tier:T2 status:done — concepts/fire-sector (GLM wave 2) (rentier-economy narrative dependency)
+- [x] [BACKFILL] tier:T2 status:done — concepts/mass-appraisal-methods (GLM wave 3) (assessment objection's practical answer)
+- [x] [BACKFILL] tier:T2 status:done — events/2008-financial-crisis (GLM wave 3) (cycle narrative proof-point)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
-- [ ] [BACKFILL] tier:T2 status:todo — people/john-bates-clark (corruption-of-economics narrative dependency)
-- [ ] [BACKFILL] tier:T2 status:todo — people/charles-tiebout, people/murray-rothbard, people/michael-davitt, people/l-d-taylor
-- [ ] [BACKFILL] tier:T2 status:todo — events/irish-land-war, organizations/fairhope-single-tax-corporation
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/holdout-problem, concepts/production-boundary, concepts/radical-markets, concepts/land-value-increment-tax
+- [x] [BACKFILL] tier:T2 status:done — people/john-bates-clark (GLM wave 3) (corruption-of-economics narrative dependency)
+- [x] [BACKFILL] tier:T2 status:done — charles-tiebout, murray-rothbard (wave 3); michael-davitt, l-d-taylor (wave 4)
+- [x] [BACKFILL] tier:T2 status:done — events/irish-land-war, organizations/fairhope-single-tax-corporation (GLM wave 4)
+- [~] [BACKFILL] tier:T2 status:partial — holdout-problem + production-boundary done (waves 3-4); radical-markets, land-value-increment-tax remain
 Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson (sourcing thin), Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
@@ -97,7 +125,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [x] [DRAFT] tier:T2 — gibbons-machin-rail-access — Gibbons & Machin 2005 (important)
 - [x] [DRAFT] tier:T2 — mohammad-rail-meta-analysis — Mohammad et al. 2013 (important)
 - [x] [DRAFT] tier:T2 — albouy-what-are-cities-worth — Albouy 2016 (core) — agent kept only public-investment-capitalizes-into-land; dropped the fund-government wiring as unsupported
-- [ ] [DRAFT] tier:T2 — davis-heathcote-us-land — Davis & Heathcote 2007 (important)
+- [x] [DRAFT] tier:T2 — davis-heathcote-us-land — Davis & Heathcote 2007 (important) — GLM wave 1, conservative draft (source paywalled; Light scan)
 **Land value scale** (→ land-rent-could-fund-government):
 - [x] [DRAFT] tier:T2 — larson-us-land-value — Larson 2015 BEA (core)
 - [x] [DRAFT] tier:T2 — albouy-ehrlich-shin-metro-land — Albouy, Ehrlich & Shin 2018 (important)
@@ -117,7 +145,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 **Affordability** (→ lvt-improves-housing-affordability):
 - [x] [DRAFT] tier:T2 — saiz-housing-supply-elasticity — Saiz 2010 (core)
 - [x] [DRAFT] tier:T2 — glaeser-gyourko-housing-supply — Glaeser & Gyourko 2018 JEP (core)
-- [ ] [DRAFT] tier:T2 — hilber-vermeulen-england-supply — Hilber & Vermeulen 2016 (important)
+- [x] [DRAFT] tier:T2 — hilber-vermeulen-england-supply — Hilber & Vermeulen 2016 (important) — GLM wave 1, conservative draft (source paywalled; [VERIFY]-heavy, Light scan)
 **Productivity** (→ high-land-rents-suppress-productivity):
 - [x] [DRAFT] tier:T2 — hsieh-moretti-spatial-misallocation — Hsieh & Moretti 2019 (core)
 - [x] [DRAFT] tier:T2 — duranton-puga-urban-growth — Duranton & Puga 2020 (important)
@@ -152,23 +180,29 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [ ] [DRAFT] tier:T2 — bessen-regulatory-rents — Bessen 2016 (important)
 - [x] [DRAFT] tier:T2 — philippon-great-reversal — Philippon 2019 (important)
 - [x] [DRAFT] tier:T2 — crouzet-eberly-intangibles — Crouzet & Eberly 2019 (important; challenged_by on the new outcome, as designed; Heavy scan, primary text read)
-- [ ] [DRAFT] tier:T2 — korinek-ng-digital-superstars — Korinek & Ng (important)
+- [x] [DRAFT] tier:T2 — korinek-ng-digital-superstars — Korinek & Ng (important) — GLM wave 2, conservative (source paywalled; supports stripped to [] per T1)
 - [ ] [DRAFT] tier:T2 — haskel-westlake-capitalism-without-capital — Haskel & Westlake 2017 (important)
-- [ ] [DRAFT] tier:T2 — zingales-political-theory-firm — Zingales 2017 (important)
-- [ ] [DRAFT] tier:T2 — akcigit-ates-business-dynamism — Akcigit & Ates 2021 (important)
+- [x] [DRAFT] tier:T2 — zingales-political-theory-firm — Zingales 2017 (important) — GLM wave 1
+- [x] [DRAFT] tier:T2 — akcigit-ates-business-dynamism — Akcigit & Ates 2021 (important) — GLM wave 1
 - [x] [DRAFT] tier:T2 — eeckhout-profit-paradox — Eeckhout 2021 (important)
-- [ ] [DRAFT] tier:T2 — rochet-tirole-two-sided — Rochet & Tirole 2003 (important)
+- [x] [DRAFT] tier:T2 — rochet-tirole-two-sided — Rochet & Tirole 2003 (important) — GLM wave 2 (context page, supports [])
 - [ ] [DRAFT] tier:T2 — data-as-labor — Arrieta-Ibarra et al. 2018 (supplementary)
 - [ ] [DRAFT] tier:T2 — hazlett-spectrum-rents — Hazlett spectrum property rights (supplementary)
-- [ ] [DRAFT] tier:T2 — cea-2016-market-power — CEA 2016 brief (supplementary)
+- [x] [DRAFT] tier:T2 — cea-2016-market-power — CEA 2016 brief (supplementary) — GLM wave 1
 
 ## Follow-ups discovered by the 2026-07-04 session (wave 5)
+- [ ] [DRAFT] tier:T2 status:todo — research/foldvary-reply-gochenour-caplan — Foldvary 2014 RAE 27(4) 451-461, the direct peer-reviewed reply (exists, verified; text 403'd this session) — completes the objection's dialectic
 - [ ] [UPDATE] tier:T3 status:todo — places/british-columbia.md cites stale BC Speculation & Vacancy Tax rates (0.5%/2%); current: 1%/3% for 2026, 4% foreign from 2027 (vancouver.md has fresh cites) — refresh + registry
-- [ ] [DRAFT] tier:T2 status:todo — research/loffler-siegloch-german-pass-through — German property-tax pass-through to rents (the strongest counter-evidence to landlords-cannot-pass-lvt-to-tenants; carroll-yinger page flags it [VERIFY]; likely belongs in challenged_by when verified)
-- [ ] [DRAFT] tier:T2 status:todo — research/england-zhao-2005 — the Dover NH study Bowman & Bell replicate (regressive finding — honest counterweight for land-value-tax-can-be-progressive)
+- [x] [DRAFT] tier:T2 status:done — research/loffler-siegloch-german-pass-through — wired as challenged_by on the incidence outcome; page explains why Grundsteuer (land+structure) pass-through does not refute pure-LVT incidence (2026-07-05)
+- [x] [DRAFT] tier:T2 status:done — research/england-zhao-lvt-distribution — Dover NH regressive finding, wired as challenged_by on the progressivity outcome (2026-07-05)
 - [ ] [STUB] tier:T2 status:todo — concepts/sector-model (Hoyt's urban-structure model; discovered by homer-hoyt backfill; no coverage anywhere)
 - [ ] [STUB] tier:T3 status:todo — candidates from backfills, triage next [PRIORITIZE]: organizations/bc-assessment-authority; events/1913-bc-real-estate-crash; people/henry-george-jr; events/parliament-act-1911; organizations/land-enquiry-committee (the 1913-14 'The Land' reports); events/1925-green-book-campaign (people/arthur-balfour surfaced too but likely fails the substantive-discussion bar — reject unless more corpus demand appears)
 - [ ] [DEEPEN-SCAN] tier:T2 status:todo — research/hoyt-chicago-land-values Heavy re-pass (519pp on archive.org) to resolve its 6 [VERIFY] markers incl. the 1836/1856/1872/1890/1925 peak-year list
+
+## New outcome evidence queue — outcomes/lvt-reduces-sprawl (created 2026-07-05, 1/5 supporters)
+- [ ] [DRAFT] tier:T2 status:todo — research/song-zenou-property-tax-sprawl — Song & Zenou 2006 JUE "Property tax and urban sprawl" (verify) — the direct second study
+- [ ] [DRAFT] tier:T2 status:todo — research/brueckner-kim-sprawl — Brueckner & Kim 2003 "Urban sprawl and the property tax" (verify) — the theory anchor
+- [ ] [DRAFT] tier:T2 status:todo — 2 further sprawl-evidence papers (agent verifies best: Burchfield et al. 2006 causes-of-sprawl; McGrath 2005) to reach 5/5
 
 ## Deepen-scan queue (Tier ≥ Important currently at Light — per EDITORIAL.md Scan Depth policy)
 - [x] [DEEPEN-SCAN] tier:T2 status:done — ALL SIX below completed 2026-07-03 (wave 3): dedicated
@@ -225,9 +259,9 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
       Without Design, Escaping the Housing Trap  (one page each)
 - [ ] [DRAFT] tier:T2 status:todo — research: complete Gaffney / Tideman / Hudson / Stiglitz coverage
       against the registry (fill gaps toward research 47→100+)
-- [ ] [DRAFT] tier:T2 status:todo — concepts: Site Value, Law of Rent, Boom-Bust Cycle, Betterment
-      Levy, Tiebout Model, Land Value Capture, EBCOR, Rentier, Land Speculation, Land Bubble,
-      Marginal Productivity, Land as Commons  (toward concepts 22→40+)
+- [x] [DRAFT] tier:T2 status:done — concepts queue COMPLETE 2026-07-05 (GLM waves 1-2): Site Value,
+      Law of Rent, Boom-Bust Cycle, Tiebout Model, Rentier, Land Speculation, Betterment Levy,
+      EBCOR, Land Bubble, Marginal Productivity, Land as Commons — concepts 22 -> 40
 - [ ] [BULK] tier:T3 status:todo — scan remaining registry sources; set Scan Depth / Status / citations
 
 ## Phase 2 — Linkage (outcomes + narratives)  [depends on: Phase 1]

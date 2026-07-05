@@ -20,6 +20,10 @@ The **Alaska Permanent Fund Dividend** is the closest large-scale implementation
 
 ## See Also
 
+- [Barnes — Who Owns the Sky? (cap-and-dividend)](/wiki/barnes-sky-trust/)
+
+- [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
+
 - [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — evidence a permanent dividend does not reduce aggregate employment
 
 - [Economic Rent](/wiki/economic-rent/) · [Georgism](/wiki/georgism/) · [Land Value Tax](/wiki/land-value-tax/)

@@ -51,6 +51,8 @@ The paper does not itself use Georgist framing or discuss land value taxation, a
 
 ## See Also
 
+- [Imputed Rent](/wiki/imputed-rent/)
+
 - [Deciphering the Fall and Rise in the Net Capital Share (Rognlie 2015)](/wiki/rognlie-capital-share/)
 - [Land is Back, It Should Be Taxed, It Can Be Taxed (Bonnet et al. 2021)](/wiki/bonnet-land-is-back/)
 - [No Price Like Home: Global House Prices, 1870–2012 (Knoll, Schularick & Steger 2017)](/wiki/knoll-schularick-steger-house-prices/)

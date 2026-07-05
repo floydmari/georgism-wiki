@@ -29,6 +29,10 @@ Vancouver, and British Columbia generally, does not currently levy a general lan
 
 ## See Also
 
+- [Transitional Gains Trap](/wiki/transitional-gains-trap/)
+
+- [Christopher England](/wiki/christopher-england/)
+
 - [British Columbia](/wiki/british-columbia/) — the provincial context; roughly two-thirds of BC municipalities followed Vancouver's example by 1914
 - [L.D. Taylor](/wiki/l-d-taylor/) — the mayor most associated with the policy
 - [Common Wealth Canada](/wiki/common-wealth-canada/) — modern advocacy citing Vancouver's precedent

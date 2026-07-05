@@ -26,6 +26,8 @@ Estonia is frequently cited by Georgist advocates as a proof of concept: a funct
 
 ## See Also
 
+- [Tomson (2016), Estonia LVT study](/wiki/tomson-estonia-lvt/)
+
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Denmark](/wiki/denmark/) — another northern European implementation
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — US city-level case study

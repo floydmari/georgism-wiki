@@ -24,6 +24,8 @@ The work is foundational for the **philosophical** wing of Georgism, supplying t
 
 ## See Also
 
+- [Herbert Spencer](/wiki/herbert-spencer/)
+
 - [Henry George](/wiki/henry-george/) · [Geolibertarianism](/wiki/geolibertarianism/) · [Georgism](/wiki/georgism/)
 
 ## Sources

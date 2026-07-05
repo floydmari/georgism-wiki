@@ -55,6 +55,8 @@ Readers should not cite this paper as evidence that an LVT would have prevented 
 
 ## See Also
 
+- [Edward L. Glaeser](/wiki/edward-glaeser/)
+
 - [Land value taxation dampens land speculation](/wiki/lvt-dampens-land-speculation/)
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/)

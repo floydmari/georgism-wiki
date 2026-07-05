@@ -216,6 +216,8 @@ the wiki; the extensions beyond land are newer and thinner.
 
 ## See Also
 
+- [Rentier](/wiki/rentier/)
+
 - [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — the markup evidence behind the rent-extraction reading of modern profits
 - [FIRE Sector](/wiki/fire-sector/) — Hudson's category for the finance/real-estate rent-extraction mechanism
 

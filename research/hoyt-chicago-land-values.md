@@ -151,6 +151,8 @@ outcome claim.**
 
 ## See Also
 
+- [Chicago](/wiki/chicago/)
+
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/)
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/)

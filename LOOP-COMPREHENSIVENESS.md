@@ -34,7 +34,19 @@ Run `python3 scripts/comprehensiveness_prepass.py`. It emits, from `sources/regi
    `Scan Depth` is below their Tier's target (per EDITORIAL.md §3) — these sources are the likeliest
    to be hiding material.
 
-## Phase 1 — SOURCE-SWEEP (report-only T2/T3 agents, ~10–12 sources per agent)
+## Phase 1 — SOURCE-SWEEP (default execution: near-free external model, NOT Claude agents)
+
+**Run `python3 scripts/comprehensiveness_sweep_glm.py`** (background; resumable JSONL output in
+`preview/comprehensiveness_sweep_results.jsonl`). It fetches each source document locally (HTML,
+or PDF via pdftotext), supplies the source's research page as already-extracted orientation, and
+has GLM on Ollama Cloud enumerate candidates — **zero Claude session quota**. Per LOOP.md's
+external-model rule its output gets a stricter T1 review: every candidate is verified at triage
+before any stub is written, and fetch-failed sources are marked confidence=low by construction.
+Claude subagents are the FALLBACK only (when ollama is unavailable), and then capped at 3–4
+concurrent — session limits are the binding constraint, learned 2026-07-04 when 13 concurrent
+Sonnet scanners exhausted the quota before reporting.
+
+### Fallback agent spec (only if the script path is unavailable): report-only T2/T3 agents, ~10–12 sources per agent
 
 Each scan agent receives its batch of registry rows (Title, Authors, Year, Tier, URL, Wiki Page)
 and, for each source:
@@ -61,6 +73,26 @@ sources, or one Core source plus sustained influence), or (b) substantive discus
 in the corpus. Prolific researchers whose papers anchor multiple outcomes belong in `people/` even
 if no wiki page discusses them biographically yet — that is precisely the gap this loop exists to
 catch.
+
+## The 1M-context strategy (GLM's window is the asset — fill it where it adds value)
+
+GLM 5.2 on Ollama Cloud has a ~1M-token context window (verified: ~275k-char needle test passes
+in ~20s). Use it deliberately:
+
+1. **Light pass (default sweep):** papers get ~45k chars of document text — most papers fit whole.
+2. **Deep pass (`--deep`):** Core-tier and under-mined sources get up to ~900k chars (whole books,
+   pdftotext up to 400 pages) PLUS the full wiki corpus digest (title+excerpt of every page), so
+   dedupe happens against real content, not slug names. Output goes to
+   `preview/comprehensiveness_sweep_deep.jsonl`. This doubles as the Heavy-scan upgrade the
+   registry's Scan Depth policy wants for books.
+3. **Whole-corpus cohesion audit (`scripts/cohesion_audit_glm.py`):** the ENTIRE wiki (~1.5M chars
+   ≈ 350k tokens) in ONE call → contradictions, duplications, missing cross-links, terminology
+   drift, stale/inconsistent facts, corpus-scale gaps. Run it as **Phase 3.5** each invocation,
+   after stubs are created; its findings feed T1 fix-ups and the main loop's queues.
+4. **Corpus-aware drafting (Phase 3):** when backfilling a stub, a single GLM call can hold the
+   full text of the discovering sources + every related wiki page — draft with total context,
+   then T1 review. Prefer this over web-searching Claude agents whenever the material is already
+   in the corpus.
 
 ## Phase 2 — T1 triage → stubs
 

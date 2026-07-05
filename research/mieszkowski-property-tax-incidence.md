@@ -62,6 +62,8 @@ For the Georgist case specifically, all three views agree on one point that matt
 
 ## See Also
 
+- [Peter Mieszkowski](/wiki/peter-mieszkowski/)
+
 - [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Deadweight Loss](/wiki/deadweight-loss/)

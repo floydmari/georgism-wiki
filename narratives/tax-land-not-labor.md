@@ -225,6 +225,8 @@ about scale and evidence design than about the core theory, which is widely acce
 
 ## See Also
 
+- [Narrative: The Single Tax](/wiki/single-tax-narrative/)
+
 - [Land Value Tax](/wiki/land-value-tax/) — the policy instrument this narrative advocates
 - [Deadweight Loss](/wiki/deadweight-loss/) — the theoretical core of the efficiency claim
 - [Economic Rent](/wiki/economic-rent/) — the base being taxed

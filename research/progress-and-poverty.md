@@ -33,6 +33,8 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 
 ## See Also
 
+- [Margin of Production](/wiki/margin-of-production/)
+
 - [Henry George](/wiki/henry-george/) — the author
 - [Land Value Tax](/wiki/land-value-tax/) — the policy George proposes
 - [Economic Rent](/wiki/economic-rent/) — the theoretical foundation

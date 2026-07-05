@@ -52,6 +52,8 @@ The paper's finding is about the *general property tax* (land plus improvements)
 
 ## See Also
 
+- [Wallace E. Oates](/wiki/wallace-oates/)
+
 - [Charles Tiebout](/wiki/charles-tiebout/) — author of the sorting model this paper empirically tests
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Henry George Theorem](/wiki/henry-george-theorem/)
