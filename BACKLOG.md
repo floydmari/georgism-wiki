@@ -113,6 +113,23 @@ comprehensiveness watermark: 0 external-source rows (never run — first invocat
       Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;
       verify author/venue/content before drafting; would give the citizens-dividend concept page
       its first scholarly-tier source beyond George + Alaska.
+
+### Standing rule — synthesis sources get de-referenced (Floyd, 2026-07-05)
+Wherever the wiki cites a SYNTHESIS (Doucet's ACX series, Andelson's compendium, review articles),
+the wiki must itself work through the underlying literature: every research paper the synthesis
+cites gets its own ingestion pass (registry row; research/ page where it carries weight). The
+synthesis then becomes navigation, not load-bearing evidence.
+- [ ] [SCAN] tier:T2 status:in-progress — de-reference Doucet ACX Part 2 (LVT incidence): extract
+      his full citation list; ingest each pass-through study as a research page — candidates to
+      verify: Orr 1968 NTJ, Heinberg & Oates 1970, Hyman & Pasour 1973, Dusansky-Ingber-Karatjas
+      1981 JUE, Tsoodle & Turner 2008 (possible COUNTER-evidence — report direction honestly),
+      England's work. Forage in flight 2026-07-05; wire results into
+      outcomes/landlords-cannot-pass-lvt-to-tenants.
+- [ ] [SCAN] tier:T2 status:todo — de-reference Doucet ACX Parts 1 & 3 (land value scale;
+      assessment) the same way — enumerate citations, diff against registry, ingest the missing.
+- [ ] [DRAFT] tier:T2 status:todo — research/loffler-siegloch (German property-tax→rent
+      pass-through quasi-experiment) — the standing HONEST COUNTER-EVIDENCE task, now also needed
+      by the expanded landlords outcome page.
 - [x] [SCAN-SURVEY] tier:T2 status:done 2026-07-05 — progress.org (non-wiki) surveyed
       (snippet-based; proxy blocks the domain). FINDINGS: independent publication, editors Floyd
       Marinescu + Martin Adams (NOT run by PPI — that's the renamed Schalkenbach Foundation);
