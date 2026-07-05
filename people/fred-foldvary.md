@@ -21,6 +21,9 @@ Foldvary connected Georgism to public-choice and libertarian economics, arguing 
 
 ## See Also
 
+- [Kinetic and Potential Rent](/wiki/foldvary-kinetic-potential-rent/) — his rent-estimation framework
+- [Johnson 1914 and Foldvary's rebuttal](/wiki/johnson-1914-single-tax-critique/) — his answer to the era's leading critique
+
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Geolibertarianism](/wiki/geolibertarianism/)
 - [*Public Goods and Private Communities* (1994)](/wiki/foldvary-public-revenue/) — his book on financing public goods from land rent
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the narrative his 1997 forecast supports

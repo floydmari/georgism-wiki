@@ -359,3 +359,19 @@ Floyd's ping caught it ~2h late; trigger rebuilt, re-arming chain now at 11:15Z/
 
 **Remaining stubs (4):** search-theoretic-critique, progress-and-poverty-institute (both next
 wake-up), floyd-marinescu (owner-input), karl-widerquist (needs independent bio sources).
+
+---
+
+## 2026-07-06b (overnight wake #2, 11:15-12:30 UTC) — stub queue cleared + TOP-16 batch 1
+
+**Shipped (4 commits):** search-theoretic-critique objection backfilled from the full primary read
+(steelman + 4 response lines + honest Net Assessment); progress-and-poverty-institute backfilled
+(2025 Schalkenbach centennial renaming verified, ED Josie Faass, PPI≠progress.org disambiguation);
+TOP-16 batch-1 triage executed — 2 INGESTs (johnson-1914-single-tax-critique pairing the 1914
+Atlantic attack with Foldvary's 2017 rebuttal; foldvary-kinetic-potential-rent anchored to the
+2012 paper with venue honestly flagged), 3 REGISTRY+CITE (Gaffney AJES-2015 China prediction on
+the cycle page; Counting Bounty as attributed advocate-estimate row on fund-government; Exporting
+the Alaska Model book row), 1 SKIP with reason (DiMare five-stages — unrecoverable enumeration).
+**Backfillable stub queue now EMPTY** (2 remain, both input-gated). Registry 298→306.
+Lane discipline: widerquist-howard-pfd cite deferred (2 markers = Hermes lane).
+Wake #3 armed 16:15Z; stops re-arming when Floyd returns.

@@ -186,6 +186,19 @@ synthesis then becomes navigation, not load-bearing evidence.
 - FUTURE LOOPS (queued by Floyd — do NOT scan yet): **gameofrent.com** (Lars Doucet) and the
       **Progress and Poverty Substack** — to be addressed in later loops.
 
+### progress.org TOP-16 status (2026-07-06 overnight triage of batch 1: 6 of 16)
+INGESTED: johnson-1914-single-tax-critique (Johnson Atlantic 1914 + Foldvary 2017 rebuttal pair),
+foldvary-kinetic-potential-rent. REGISTRY+CITED: Gaffney AJES-2015 China paper (on 18-year-cycle),
+Counting Bounty ch.20 advocate estimate (on fund-government), Exporting the Alaska Model book
+(row; cite on widerquist-howard-pfd BLOCKED — page carries 2 markers, Hermes lane). SKIPPED with
+reason: five-stages-of-the-georgist-movement (2 of 5 stages unrecoverable from snippets; one
+advocate's original periodization — re-check when progress.org is fetchable).
+- [ ] [SCAN] tier:T2 status:todo — TOP-16 batch 2 (remaining 10): how-land-barons…corrupted-
+      economics, the-corruption-of-economics (Adams), real-estate-4-ransom, henry-george-
+      documentary, 4-major-land-gain-taxes-1890-platform, monbiot-land-acts, michigans-
+      government-failure, land-worth-more-than-enough, geo-libertarianism-gets-criticized,
+      take-the-donald-seriously (Anderson). Same verify→INGEST/REGISTRY/SKIP triage.
+
 ### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
 - [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because
       no free e-copy is reachable from this environment (proxy blocks archive.org lending too).
