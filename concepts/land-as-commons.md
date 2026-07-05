@@ -37,6 +37,8 @@ The Georgist land-as-commons tradition should be distinguished from the commons 
 
 ## See Also
 
+- [Fairlie — A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/)
+
 - [Georgism](/wiki/georgism/)
 - [Ecological Georgism](/wiki/ecological-georgism/)
 - [Herbert Spencer](/wiki/herbert-spencer/)
