@@ -31,6 +31,8 @@ Not every resource-rent windfall behaves like Alaska's transparent, per-capita d
 
 ## See Also
 
+- [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
+
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Resource Rents](/wiki/resource-rents/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
 
 ## Sources

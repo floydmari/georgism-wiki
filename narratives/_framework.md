@@ -45,14 +45,14 @@ is the completed model page. Match its structure, sourcing density, and tone.
 
 | # | Proposed slug | Title | Type | Core claim (short) |
 |---|---------------|-------|------|--------------------|
-| 1 | `single-tax-narrative` | The Single Tax | practical | One levy on land values could replace taxation of work and enterprise |
+| 1 | [`single-tax-narrative`](/wiki/single-tax-narrative/) ✅ | The Single Tax | practical | One levy on land values could replace taxation of work and enterprise |
 | 2 | [`tax-land-not-labor`](/wiki/tax-land-not-labor/) ✅ | Tax Land, Not Labor | economic | Shift taxes off wages and investment onto land, which cannot shrink when taxed |
 | 3 | [`unearned-increment-narrative`](/wiki/unearned-increment-narrative/) ✅ | The Unearned Increment | moral | Rising land values are created by the community, not the owner |
 | 4 | [`the-rentier-economy`](/wiki/the-rentier-economy/) ✅ | The Rentier Economy | economic | Growing income flows reward asset ownership and rent extraction over production |
 | 5 | [`community-creates-land-value`](/wiki/community-creates-land-value/) ✅ | The Community Creates Land Value | moral | Location value is produced by public investment and the surrounding community |
 | 6 | [`land-speculation-causes-cycles`](/wiki/land-speculation-causes-cycles/) ✅ | Land Speculation Causes Boom and Bust | economic | Speculative land-price cycles drive credit booms and crashes |
 | 7 | [`the-housing-crisis-is-a-land-crisis`](/wiki/the-housing-crisis-is-a-land-crisis/) ✅ | The Housing Crisis Is a Land Crisis | practical | Housing is dear because land is dear; tax land, free the land market |
-| 8 | `citizens-dividend-narrative` | A Dividend from Common Wealth | moral | Rent from land and resources, shared equally, gives everyone a stake |
+| 8 | [`citizens-dividend-narrative`](/wiki/citizens-dividend-narrative/) ✅ | A Dividend from Common Wealth | moral | Rent from land and resources, shared equally, gives everyone a stake |
 | 9 | `ecological-rent` | Green Georgism: Charging for the Earth | environmental | Pollution and extraction are unpaid takings of common natural wealth |
 | 10 | [`the-tax-you-cant-dodge`](/wiki/the-tax-you-cant-dodge/) ✅ | The Tax You Can't Dodge | practical | Land cannot be hidden or moved offshore — the hardest base to avoid |
 | 11 | `the-corruption-of-economics` | The Corruption of Economics | historical | Early neoclassical economics buried land as a factor, advocates argue |
