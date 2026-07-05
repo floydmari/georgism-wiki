@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (616 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (617 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -66,7 +66,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (120)
+## needs-unblocked-web (proxy allowlist or manual fetch) (121)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -103,6 +103,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `places/chicago.md` — **VERIFY** ` pending direct confirmation against Hoyt's primary text. 5. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 20
 - `organizations/common-wealth-canada.md` — **VERIFY** primary organisational bio page could not be fetched directly.
 - `organizations/common-wealth-canada.md` — **VERIFY** all commonwealth.ca figures above against the primary PDFs directly.
+- `objections/homevoters-will-block-lvt.md` — **VERIFY** chapter cites on direct read
 - `narratives/citizens-dividend-narrative.md` — **VERIFY** add a stable free-text URL — session web access exhausted before the link could be confirmed.
 - `research/arnold-tax-growth-ej.md` — **CITATION NEEDED** this session's direct web access to onlinelibrary.wiley.com, academic.oup.com, and kar.kent.ac.uk (the University of Kent's open repository listing for this art
 - `research/arnott-hgt-practical-guide.md` — **VERIFY** current faculty-page URL, as this session's fetch relied on the paper's own author footnote (p. 1057) rather than a live BC directory page.

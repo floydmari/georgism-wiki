@@ -114,7 +114,7 @@ frees the land, land taxation makes holding it idle unaffordable.
    crisis needs more of; splitting the rate is the point
    ([objection page](/wiki/lvt-is-just-a-property-tax/);
    [split-rate taxation](/wiki/split-rate-taxation/)).
-4. **"Homeowners will never allow it."** Politically serious. Responses: revenue
+4. **"Homeowners will never allow it."** Politically serious — steelmanned in full at [the homevoter objection](/wiki/homevoters-will-block-lvt/). Responses: revenue
    recycling (cut sales/income or the building share of property tax), phase-ins,
    and deferral for the [asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/);
    Detroit's proposal was framed as a tax *cut* for most homeowners
