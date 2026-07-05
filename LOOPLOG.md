@@ -388,3 +388,19 @@ period application), 2 skips with reasons. Prose-polish: 3 of 11 outcome evidenc
 to narrative (capital-share gains a full counter-evidence section). Lane discipline held twice
 (churchill-peoples-rights 14 markers; corruption book-page cites deferred to Hermes merge).
 Monbiot logged as DISCOVERED people-candidate. Registry 306→318.
+
+---
+
+## 2026-07-06d (wake #3 continuation, ~16:15-17:30 UTC) — Doucet de-reference cycle 1 complete
+
+Prose-polish DONE (all 11/11 outcome evidence sections now narrative; England-Zhao vs Bowman-Bell
+dispute surfaced as jurisdiction-dependent on the progressive page). Doucet Parts 1&3 citation
+skeletons recovered: INGESTED gwartney-estimating-land-values + davis-larson-oliner-shui-fhfa-land
+(the FHFA tract-level project — doubles as the strongest institutional counter-exhibit to the
+assessment objection, and honestly flagged [VERIFY] on specific magnitudes pending direct read);
+4 more sources registered (Davis-Palumbo, Lincoln dataset, McKinsey 2021, Yglesias 2013).
+Key finding for future editors: 5 of Part 1's 12 land-value datapoints route through Smith's
+Counting Bounty (incl. Tideman's $31T via private correspondence) — attribute through Smith.
+Unblock routes for full texts documented (danwahl transcripts, gameofrent mirrors).
+Registry 318→324. All three Doucet parts now have de-reference passes; cycle 1 of the standing
+rule closed pending full-text confirmations.
