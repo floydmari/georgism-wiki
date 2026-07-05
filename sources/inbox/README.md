@@ -1,5 +1,14 @@
 # sources/inbox/ — Hermes delivery protocol (evidence courier lane)
 
+> **UPDATE 2026-07-05 (Floyd's authorization):** Hermes is promoted to running FULL
+> DRAFT-loop iterations — it edits wiki pages directly on its own `hermes/*` branch
+> under EDITORIAL.md + LOOP.md rules, ending at an open PR that the T1 loop reviews.
+> The courier-only restriction below is superseded; this inbox remains available for
+> raw-evidence hand-offs where a full edit isn't warranted. Two rules survive
+> unchanged: Hermes never merges its own PRs, and copyrighted book files/long
+> excerpts are NEVER committed — books stay in Floyd's private storage; the wiki
+> carries a research/ summary page per book (≤50-word quotes, page-cited).
+
 This directory is the **hand-off point between Floyd's Hermes agent (unblocked web
 access, book procurement) and the wiki's editorial loop (T1 review gate)**. Hermes
 works the queues; the loop consumes deliveries, verifies them, resolves markers, and
