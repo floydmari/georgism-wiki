@@ -37,7 +37,7 @@ theoretical root of the wiki's incidence outcome
 
 ## Politics: the Corn Laws
 
-Ricardo's theory was forged in the Corn Law fight: tariffs on imported grain raised
+Ricardo's theory was forged in the [Corn Law](/wiki/repeal-of-the-corn-laws/) fight: tariffs on imported grain raised
 food prices, which — by his own law — flowed through to landowners as higher rents
 while squeezing profits and wages. His free-trade campaigning against the landed
 interest made rent theory politically explosive from birth, a lineage

@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (619 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (622 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -22,7 +22,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `books/economic-theory-in-retrospect.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 - `books/rethinking-economics-land-housing.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 
-## needs-book-copy (see sources/wanted-books.md) (42)
+## needs-book-copy (see sources/wanted-books.md) (43)
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
@@ -32,6 +32,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations for the full list of five proposals and their chapter assignments — derived from the book's table of contents and secondary summaries, not 
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citation for the QV mechanism description — derived from the book's published summaries and Posner & Weyl's prior academic papers, not directly verif
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations from the primary text of *Radical Markets* — this session did not fetch the book directly. The five-proposal structure, the Georgist-lineag
+- `people/alfred-marshall.md` — **VERIFY** Marshall's site-value-taxation position against *Principles* Book V or his 1909 land-taxation memorandum on direct read.
 - `people/christopher-england.md` — **VERIFY** the book's precise scope, chapter structure, and central arguments beyond what is cited on other wiki pages — this session did not have direct access to the boo
 - `people/david-lloyd-george.md` — **VERIFY** the "Green Book" nickname and its cover-colour origin are corroborated by general secondary reference material but not confirmed against a library catalogue rec
 - `people/thomas-piketty.md` — **CITATION NEEDED** direct page-level citation from the book's front matter or preface for Piketty's institutional affiliations; drawn here from the wiki's research page on the boo
@@ -67,7 +68,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (125)
+## needs-unblocked-web (proxy allowlist or manual fetch) (126)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -106,6 +107,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `organizations/common-wealth-canada.md` — **VERIFY** primary organisational bio page could not be fetched directly.
 - `organizations/common-wealth-canada.md` — **VERIFY** all commonwealth.ca figures above against the primary PDFs directly.
 - `objections/homevoters-will-block-lvt.md` — **VERIFY** chapter cites on direct read
+- `events/repeal-of-the-corn-laws.md` — **VERIFY** add a specific scholarly citation — e.g., Schonhardt-Bailey, *From the Corn Laws to Free Trade* (MIT, 2006) — on direct read.
 - `events/saratoga-single-tax-debate.md` — **VERIFY** the hosting body (American Social Science Association) and published proceedings citation on direct read.
 - `narratives/citizens-dividend-narrative.md` — **VERIFY** add a stable free-text URL — session web access exhausted before the link could be confirmed.
 - `research/arnold-tax-growth-ej.md` — **CITATION NEEDED** this session's direct web access to onlinelibrary.wiley.com, academic.oup.com, and kar.kent.ac.uk (the University of Kent's open repository listing for this art
@@ -229,7 +231,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full citation for the Cambridge *Historical Journal* article summarized here — this session located the article by title and journal via search 
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 
-## unclassified (T1 triage) (406)
+## unclassified (T1 triage) (407)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
@@ -370,6 +372,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/richard-arnott.md` — **CITATION NEEDED** Arnott's birth date, complete academic biography, doctoral advisor, and full publication list — none of these are available in the supplied corpus. A future edi
 - `people/richard-t-ely.md` — **CITATION NEEDED** a mainstream or revisionist assessment of Ely's relationship to Georgism, or a source arguing that Ely's land economics was analytically independent of the Geor
 - `people/richard-t-ely.md` — **CITATION NEEDED** a mainstream or revisionist assessment of Ely's relationship to Georgism, or a source arguing that Ely's land economics was analytically independent of the Geor
+- `people/thomas-paine.md` — **VERIFY** stable canonical URL — the citizens-dividend narrative's earlier Paine link also awaits confirmation; resolve both to the same edition.
 - `people/thomas-piketty.md` — **VERIFY** this characterization of the Piketty–Zucman rebuttal is drawn from the wiki's Piketty research page, which itself marks it as needing direct source verification
 - `people/thomas-piketty.md` — **CITATION NEEDED** Piketty's exact institutional affiliations and title, confirmed against a primary source rather than the wiki's research page. Also needed: direct page-level ci
 - `people/winston-churchill.md` — **VERIFY** exact wording of the "land differs from all other forms of property" passage — corroborated by two independent secondary transcriptions that agree closely but n

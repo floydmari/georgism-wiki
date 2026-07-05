@@ -48,7 +48,7 @@ Harrison cites the Office for National Statistics estimate that UK land values w
 
 ### The ATCOR Concept (p. 446)
 
-While Harrison does not use the acronym "ATCOR" (All Taxes Come Out of Rent), he articulates the concept on p. 446, citing Locke (1691) and Adam Smith: the idea that taxes on production ultimately reduce to charges on land rent, because the rent of land absorbs whatever is left after wages and returns to capital are determined. This is the theoretical foundation of the clawback thesis.
+While Harrison does not use the acronym "ATCOR" (All Taxes Come Out of Rent), he articulates the concept on p. 446, citing [Locke](/wiki/john-locke/) (1691) and Adam Smith: the idea that taxes on production ultimately reduce to charges on land rent, because the rent of land absorbs whatever is left after wages and returns to capital are determined. This is the theoretical foundation of the clawback thesis.
 
 ### Tideman's Revenue Estimates
 

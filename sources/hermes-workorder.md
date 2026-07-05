@@ -8,7 +8,7 @@ provenance only, PR to a hermes/* branch, never self-merged.
 
 Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
-## needs-book-copy (see sources/wanted-books.md) — 42 of 42
+## needs-book-copy (see sources/wanted-books.md) — 43 of 43
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
@@ -18,6 +18,7 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations for the full list of five proposals and their chapter assignments — derived from the book's table of contents and secondary summaries, not 
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citation for the QV mechanism description — derived from the book's published summaries and Posner & Weyl's prior academic papers, not directly verif
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations from the primary text of *Radical Markets* — this session did not fetch the book directly. The five-proposal structure, the Georgist-lineag
+- `people/alfred-marshall.md` — **VERIFY** Marshall's site-value-taxation position against *Principles* Book V or his 1909 land-taxation memorandum on direct read.
 - `people/christopher-england.md` — **VERIFY** the book's precise scope, chapter structure, and central arguments beyond what is cited on other wiki pages — this session did not have direct access to the boo
 - `people/david-lloyd-george.md` — **VERIFY** the "Green Book" nickname and its cover-colour origin are corroborated by general secondary reference material but not confirmed against a library catalogue rec
 - `people/thomas-piketty.md` — **CITATION NEEDED** direct page-level citation from the book's front matter or preface for Piketty's institutional affiliations; drawn here from the wiki's research page on the boo
@@ -53,7 +54,7 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 18 of 125
+## needs-unblocked-web (proxy allowlist or manual fetch) — 17 of 126
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
@@ -72,7 +73,6 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `people/herbert-spencer.md` — **VERIFY** specific chapter references, page numbers, and direct quotations could not be verified in this session — the primary text was not fetched.
 - `people/herbert-spencer.md` — **CITATION NEEDED** Primary text of Spencer's *Social Statics* (1851), especially the chapter(s) on land rights — to verify Spencer's original argument, its exact wording, and the 
 - `people/homer-hoyt.md` — **VERIFY** pending direct confirmation against Hoyt's primary text
-- `people/homer-hoyt.md` — **VERIFY** direct fetch of this obituary returned HTTP 403 in this research pass; details are drawn from search-engine-indexed excerpts, not a directly read full text.
 
 
 *60 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*

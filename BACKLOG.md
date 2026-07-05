@@ -309,7 +309,13 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       Buettner Germany; Choi-Sjoquist 2015): one research page each as evidence depth for
       landlords-cannot-pass-lvt-to-tenants (already 7 supports; these complete the survey).
       Oates 1969 + Palmon-Smith + Mills already covered.
-      REMAINING: reports for corruption-of-economics (DONE), land-is-a-big-deal (DONE), rethinking,
+      WAVE 3 DONE 2026-07-06 (quota 5/8, coverage checked BOTH ways): alfred-marshall (8
+      corpus mentions), john-locke (4), thomas-paine (3), philip-wicksteed (3),
+      events/repeal-of-the-corn-laws. REJECTED: hyman-minsky (0 mentions — re-propose when
+      the credit-cycle objection page creates demand); adair-turner (1 mention); the
+      rethinking report's philanthropic-housing cluster (Peabody/Cadbury/Rowntree — UK
+      housing history, not land-question core); Blaug-report marginalists already covered.
+      REMAINING: reports for corruption-of-economics (DONE), land-is-a-big-deal (DONE), rethinking (DONE),
       economic-theory-in-retrospect, boom-bust, ricardos-law, anderson, patel — next waves.
       Original task: triage the 10 DISCOVERY-*.report.md files from Hermes w1
       (sources/inbox/): accept→stubs per EDITORIAL stub standard + registry rows,

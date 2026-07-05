@@ -55,7 +55,7 @@ The book's argument is largely **theoretical and normative** rather than a rigor
 
 ## Sources
 
-1. Fred E. Foldvary, *Public Goods and Private Communities: The Market Provision of Social Services*, Edward Elgar Publishing, 1994 (The Locke Institute series). [RePEc/IDEAS listing](https://ideas.repec.org/b/elg/eebook/167.html) — used for the book's core thesis, publisher, and series.
+1. Fred E. Foldvary, *Public Goods and Private Communities: The Market Provision of Social Services*, Edward Elgar Publishing, 1994 (The [Locke](/wiki/john-locke/) Institute series). [RePEc/IDEAS listing](https://ideas.repec.org/b/elg/eebook/167.html) — used for the book's core thesis, publisher, and series.
 2. Fred Foldvary, "Geo-Rent: A Plea to Public Economists," *Econ Journal Watch*, Vol. 2, No. 1 (April 2005), pp. 106–132. [Open-access article](https://econjwatch.org/articles/geo-rent-a-plea-to-public-economists) — used for Foldvary's later estimate of geo-rent's share of government revenue and his restatement of the Henry George Theorem argument.
 3. Fred Foldvary, "The Business Cycle: A Geo-Austrian Synthesis," *American Journal of Economics and Sociology*, Vol. 56, No. 4 (1997). [Journal record](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1536-7150.1997.tb02657.x) — used for the 1997 prediction of a 2008 downturn via the 18-year land cycle.
 4. Zachary Gochenour and Bryan Caplan, "An Entrepreneurial Critique of Georgism," *Review of Austrian Economics* (2013), and Foldvary's reply, "Reply to the Caplan and Gochenour Critique of Georgism," *Review of Austrian Economics* (2014). [Reply, SpringerLink](https://link.springer.com/article/10.1007/s11138-013-0243-7) — used for the academic critique of the book's land-rent premise and Foldvary's response.

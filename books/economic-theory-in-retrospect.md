@@ -29,7 +29,7 @@ tags: [history-of-economic-thought, ricardo, rent-theory, henry-george, site-val
 
 ## Overview
 
-*Economic Theory in Retrospect* is a history of economic thought from David Hume to Milton Friedman, consistently focused on theoretical analysis rather than biographical or doctrinal history. It includes detailed Reader's Guides to nine major texts: Smith, Ricardo, Mill, Marx, Marshall, Wicksteed, Wicksell, Walras, and Keynes. The fifth edition added new Reader's Guides to Walras and Keynes, with major additions to chapters on marginal productivity theory, general equilibrium theory, and welfare economics.
+*Economic Theory in Retrospect* is a history of economic thought from David Hume to Milton Friedman, consistently focused on theoretical analysis rather than biographical or doctrinal history. It includes detailed Reader's Guides to nine major texts: Smith, Ricardo, Mill, Marx, [Marshall](/wiki/alfred-marshall/), [Wicksteed](/wiki/philip-wicksteed/), Wicksell, Walras, and Keynes. The fifth edition added new Reader's Guides to Walras and Keynes, with major additions to chapters on marginal productivity theory, general equilibrium theory, and welfare economics.
 
 For Georgist purposes, the most relevant sections are:
 - **Chapter 3:** Population, Diminishing Returns and Rent (including §11: Site Value Taxation)
