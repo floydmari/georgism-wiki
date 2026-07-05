@@ -1,10 +1,17 @@
 #!/usr/bin/env python3
-"""Generate sources/verification-queue.md — the worked queue of every [CITATION NEEDED]
-and [VERIFY] marker in the wiki, grouped by what unblocks it. Regenerate at each wave
-wrap-up (LOOP.md step). Stdlib only."""
+"""Generate the Fact-Check Desk's two ledgers (stdlib only; LOOP.md step 6):
+
+  sources/verification-queue.md  — every [CITATION NEEDED]/[VERIFY] flag on the wiki,
+                                   grouped by WHO can resolve it (the full ledger)
+  sources/hermes-workorder.md    — the ready-to-work order for Hermes's next run:
+                                   the web-blocked and book-copy items in actionable
+                                   form, capped and prioritized (the field assignment)
+
+Every unverified claim on the wiki is an open fact-check with an owner. This script is
+how routing happens — regenerate it whenever markers change."""
 import glob, os, re, datetime
 
-CATS = ["concepts","people","places","organizations","objections","events","outcomes","narratives","research"]
+CATS = ["concepts","people","places","organizations","objections","events","outcomes","narratives","research","books"]
 BUCKETS = [
  ("needs-owner-input", ["owner", "floyd", "supply bio"]),
  ("needs-book-copy (see sources/wanted-books.md)", ["book", "lending", "e-copy", "full text of the book"]),
@@ -42,3 +49,30 @@ open("sources/verification-queue.md","w").write("\n".join(out) + "\n")
 print(f"verification-queue: {total} markers -> sources/verification-queue.md")
 for b in order:
     if b in rows: print(f"  {b}: {len(rows[b])}")
+
+# ---- Hermes work order: the routed field assignment (gap-1 machinery, 2026-07-06) ----
+CAP = 60   # one overnight run's worth; regenerate after each Hermes PR merges
+hermes_buckets = [b for b in order if b.startswith("needs-book-copy") or b.startswith("needs-unblocked-web")]
+wo = ["# Hermes Work Order — Fact-Check Desk field assignment",
+      "",
+      f"Generated {datetime.date.today()} by `scripts/verification_queue.py`. This is the",
+      "routed slice of the verification queue that ONLY Hermes's environment can work",
+      "(unblocked web + Floyd's book library). Protocol: `sources/inbox/README.md` —",
+      "verbatim quotes with locators, CONFIRMED/CORRECTED/NOT-FOUND verdicts, legal",
+      "provenance only, PR to a hermes/* branch, never self-merged.",
+      "",
+      f"Capped at {CAP} items per run; the full ledger is `sources/verification-queue.md`.",
+      ""]
+n = 0
+for b in hermes_buckets:
+    items = rows.get(b, [])
+    if not items: continue
+    take = items[:max(0, CAP - n)]
+    if not take: break
+    wo.append(f"## {b} — {len(take)} of {len(items)}\n")
+    wo.extend(take); wo.append("")
+    n += len(take)
+wo.append(f"\n*{n} items assigned this order. When a page's flags are all resolved, note it "
+          "in the PR so the editor can upgrade its scan depth.*")
+open("sources/hermes-workorder.md","w").write("\n".join(wo) + "\n")
+print(f"hermes-workorder: {n} items -> sources/hermes-workorder.md")

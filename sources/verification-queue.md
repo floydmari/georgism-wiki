@@ -1,10 +1,10 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (617 markers). 
+Generated 2026-07-05 by `scripts/verification_queue.py` (619 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
-## needs-owner-input (13)
+## needs-owner-input (15)
 
 - `concepts/imputed-rent.md` — **CITATION NEEDED** a direct citation to the SNA manual's specific recommendation on owner-occupied housing imputation, beyond the BEA fact sheet already cited.
 - `concepts/imputed-rent.md` — **CITATION NEEDED** a direct BEA or SNA source explicitly stating that imputed rent is not received as cash income by owner-occupiers.
@@ -19,6 +19,8 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/cwc-distributional-impacts-lvt.md` — **CITATION NEEDED** a confirmed, study-specific breakdown of results by age cohort or by owner/renter status — this wiki could not verify precise figures for this dimension from th
 - `research/fairlie-short-history-enclosure.md` — **CITATION NEEDED** primary verification of the 1872 Return of Owners of Land figures and of the exact modern land-concentration statistic and its source note in Fairlie's original
 - `research/fairlie-short-history-enclosure.md` — **CITATION NEEDED** independent verification of the 1872 Return of Owners of Land and of specific historian citations (Gonner, Neeson, Thirsk, the Hammonds) Fairlie draws on, for a
+- `books/economic-theory-in-retrospect.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
+- `books/rethinking-economics-land-housing.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 
 ## needs-book-copy (see sources/wanted-books.md) (43)
 

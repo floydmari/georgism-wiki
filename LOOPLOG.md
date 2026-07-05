@@ -487,3 +487,24 @@ live in code don't need to live in anyone's memory. GLM section marked environme
 conditional (it was dead text in this container). Drive sync already de-scoped.
 **New:** docs/loop-diagram.md — Mermaid visual of iteration/flywheel/lanes/honesty machinery,
 with a same-commit sync rule.
+
+---
+
+## 2026-07-06d — Loop reframed in mission language + gap-1/gap-2 machinery (Floyd's ask)
+
+LOOP.md rewritten mission-first: opens with WHAT we're building (the definitive, honest
+Georgism reference) and the domain verbs — FIND the literature, READ & MINE each source,
+SYNTHESIZE into the case pages, VERIFY (Fact-Check Desk), EXPAND the map. Steps renamed as
+an editorial shift; tiers as roles (editor / staff writers / copy desk); technical executor
+notes moved to an appendix. Diagram re-synced in the same language.
+
+GAP 1 shipped as machinery: verification_queue.py now ALSO generates
+sources/hermes-workorder.md — the routed field assignment (60-item cap) of blocked-web +
+book-copy fact-checks only Hermes's environment can work. Plus the campsite rule: every
+shift clears or routes ≥5 standing debts regardless of its main work.
+
+GAP 2 shipped as machinery: digest-before-you-scan — no new site/book scans while ≥2
+discovery reports sit untriaged; ≤8 stubs/shift; accept bar ≥2 demanding pages; and a
+name-variant grep before creating people pages (lesson: today's richard-ely duplicate of
+richard-t-ely — merged, my wave-1 corroboration resolved 4 of the old page's open
+fact-checks, duplicate deleted, links repointed).

@@ -28,7 +28,7 @@ Georgist-friendly finding that a land tax is **not** shifted to tenants
 
 ## See Also
 
-- [Richard T. Ely](/wiki/richard-ely/) — the institutional wing of the same academic generation
+- [Richard T. Ely](/wiki/richard-t-ely/) — the institutional wing of the same academic generation
 - [Johnson (1914), The Case Against the Single Tax](/wiki/johnson-1914-single-tax-critique/)
 - [Tax incidence on the wiki: Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 
