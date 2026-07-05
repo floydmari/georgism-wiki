@@ -39,5 +39,5 @@ The "single tax" label largely fell out of use, but the underlying policy — LV
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+1. Henry George (1879), *Progress and Poverty* — used for the proposal's original statement (A-claims). [wiki summary](/wiki/progress-and-poverty/)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement's political history (A/B-claims; the modern scholarly history, on the wanted-books list for full scan). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)

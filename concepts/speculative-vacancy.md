@@ -24,4 +24,4 @@ Speculative vacancy contributes to housing scarcity and inflated prices without 
 
 ## Sources
 
-1. Prosper Australia, *Speculative Vacancies* report series. [prosper.org.au](https://www.prosper.org.au/)
+1. Prosper Australia, *Speculative Vacancies* report series — used for the water-consumption vacancy-measurement method and Melbourne findings (C-claims; advocacy research, method transparent). [prosper.org.au](https://www.prosper.org.au/)

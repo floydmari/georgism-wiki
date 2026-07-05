@@ -42,5 +42,5 @@ The tradition continues through the [Henry George Foundation](https://www.henryg
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-2. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* (3rd ed.) — the definitive comparative reference (book).
-3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — custodian of George's works.
+2. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* (3rd ed.) — used for the implementation survey (A/B-claims; the standard comparative reference).
+3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for the editions of George's works cited throughout (custodial source).

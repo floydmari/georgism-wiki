@@ -20,4 +20,4 @@ Ground rent is the precise quantity a [land value tax](/wiki/land-value-tax/) is
 
 ## Sources
 
-1. Adam Smith (1776), *The Wealth of Nations*, Book V (taxes on ground-rents). [Full text](https://www.econlib.org/library/Smith/smWN.html)
+1. Adam Smith (1776), *The Wealth of Nations*, Book V (taxes on ground-rents) — used for the classical statement that ground-rents are "a still more proper subject of taxation" (A-claim). [Full text](https://www.econlib.org/library/Smith/smWN.html)

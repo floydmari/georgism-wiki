@@ -20,4 +20,4 @@ Because the CLT retains the land and charges a ground lease, the [unearned incre
 
 ## Sources
 
-1. Histories of the community land trust movement, tracing roots to Fairhope and the garden-city tradition.
+1. Histories of the community land trust movement, tracing roots to Fairhope and the garden-city tradition — used for the lineage claim (A/C-claims; see [Fairhope](/wiki/fairhope-single-tax-corporation/) and [Ebenezer Howard](/wiki/ebenezer-howard/) for the primary threads).

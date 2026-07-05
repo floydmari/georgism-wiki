@@ -25,5 +25,5 @@ Named after economist Arnold Harberger, the mechanism was popularised by Eric Po
 
 ## Sources
 
-1. Eric Posner & Glen Weyl (2018), *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*, Princeton University Press. [Publisher](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)
-2. Vitalik Buterin (2018), "On Radical Markets" — [wiki summary](/wiki/buterin-on-radical-markets/). [Essay](https://vitalik.eth.limo/general/2018/04/20/radical_markets.html)
+1. Eric Posner & Glen Weyl (2018), *Radical Markets*, Princeton University Press — used for the COST design and its Georgist lineage (A-claims; Deep scan on [the book page](/wiki/posner-weyl-radical-markets/)). [Publisher](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)
+2. Vitalik Buterin (2018), "On Radical Markets" — used for the sympathetic-critique reception (C-claims). [wiki summary](/wiki/buterin-on-radical-markets/) · [Essay](https://vitalik.eth.limo/general/2018/04/20/radical_markets.html)
