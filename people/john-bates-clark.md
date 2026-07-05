@@ -74,7 +74,7 @@ For the Georgist tradition, Clark's merger of land into capital remains the pivo
 
 [CITATION NEEDED: a standard history-of-economic-thought source (e.g., Schumpeter's *History of Economic Analysis*, Blaug's *Economic Theory in Retrospect*, or a survey textbook) assessing Clark's contribution to marginal-productivity theory and its reception in mainstream economics, independent of the Georgist debate.]
 
-[CITATION NEEDED: a secondary source by a historian of economic thought assessing Gaffney's specific claim about Clark — whether the merger of land into capital was deliberate, politically motivated, or simply an analytical simplification. The corpus notes the thesis "remains contested" but no opposing source is currently cited.]
+The opposing assessment is now on the wiki: [Missemer & Pottier (2025)](/wiki/missemer-pottier-land-labor-capital/) — a *Land Economics* historiographical study engaging Gaffney's thesis directly — argue the land-capital merger was a theoretical *choice* (analytical convenience, Fisher's capital-income framework, Clark's aggregation decisions) rather than a demonstrated political conspiracy, while explicitly declining to adjudicate motive; Milgate's JEL review of *The Corruption of Economics* (1996) reached a similar verdict on the thesis's stronger claims.
 
 [CITATION NEEDED: references to the Cambridge capital controversy (Robinson, Sraffa, Samuelson) and its bearing on whether aggregate capital can be coherently measured within marginal-productivity theory.]
 

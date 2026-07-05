@@ -33,6 +33,8 @@ The relationship between Ely and George's ideas is a matter of historical interp
 
 ## See Also
 
+- [Missemer & Pottier (2025)](/wiki/missemer-pottier-land-labor-capital/)
+
 - [Mason Gaffney](/wiki/mason-gaffney/) — the economist who identifies Ely as an institutional antagonist of George
 - [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/) — Gaffney's core essay discussing Ely's role
 - [John Bates Clark](/wiki/john-bates-clark/) — another central figure in Gaffney's thesis, whose marginal-productivity merger of land into capital is identified as the pivotal analytical move

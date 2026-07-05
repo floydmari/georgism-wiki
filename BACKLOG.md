@@ -17,7 +17,10 @@ wired: england-zhao + loffler-siegloch (challenged_by) + gochenour-caplan primar
 (Foldvary 2014 reply queued). PR #4 open and growing; PR #3 merged+live.
 
 A fresh session resumes with, in order (SUPERSEDES the numbered list below where they conflict):
-A. NARRATIVES LAYER — the 7 remaining pages per narratives/_framework.md. This is T1-heavy
+A. NARRATIVES LAYER — 3 remaining (9/12 live as of 2026-07-05); ALL PREREQUISITES NOW IN CORPUS:
+   ecological-rent (barnes-sky-trust + pigouvian-taxation + lvt-reduces-sprawl), the-corruption-
+   of-economics (missemer-pottier counter-source + milgate review cited therein), the-great-land-
+   robbery (fairlie-short-history-enclosure). Originally: the 7 remaining pages per narratives/_framework.md. This is T1-heavy
    persuasive-framing work: GLM may draft from the framework + corpus, but Fable must rework
    framing, sourcing density per the unearned-increment exemplar. Start fresh-context.
 B. Remaining 8 stubs + [COHESION] tasks (BC/Vancouver scope split, terminology pass).
