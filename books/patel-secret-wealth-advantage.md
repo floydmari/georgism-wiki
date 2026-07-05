@@ -1,6 +1,6 @@
 ---
 title: "The Secret Wealth Advantage"
-category: research
+category: books
 tags: [research, books-publications, land-cycle, 18-year-cycle, real-estate, investment, akhil-patel, harriman-house]
 authors: [Akhil Patel]
 year: 2023

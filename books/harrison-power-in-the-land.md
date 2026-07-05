@@ -1,6 +1,6 @@
 ---
 title: "The Power in the Land: An Inquiry into Unemployment, the Profits Crisis and Land Speculation"
-category: research
+category: books
 tags: [research, books-publications, land-cycle, 18-year-cycle, land-speculation, fred-harrison, shepheard-walwyn, hoyt, australia, japan]
 authors: [Fred Harrison]
 year: 1983

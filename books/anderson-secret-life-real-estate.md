@@ -1,6 +1,6 @@
 ---
 title: "The Secret Life of Real Estate and Banking"
-category: research
+category: books
 tags: [research, books-publications, land-cycle, 18-year-cycle, real-estate, banking, credit, phil-anderson, shepheard-walwyn]
 authors: [Phillip J. Anderson]
 year: 2008

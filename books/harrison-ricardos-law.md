@@ -1,6 +1,6 @@
 ---
 title: "Ricardo's Law: House Prices and the Great Tax Clawback Scam"
-category: research
+category: books
 tags: [research, books-publications, tax-clawback, ricardo, economic-rent, land-value-tax, fred-harrison, shepheard-walwyn]
 authors: [Fred Harrison]
 year: 2006

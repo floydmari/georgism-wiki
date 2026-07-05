@@ -14,7 +14,7 @@ Phillip J. Anderson (Phil Anderson) is an Australian economic analyst, author, a
 
 Anderson's book, published by Shepheard-Walwyn (ISBN 978-0-85683-263-5, 464 pp.), was chosen for the July 2009 People's Book Prize Collection for Non-Fiction. It traces the entire history of the 18-year real estate cycle in the United States from the founding era to the 2008 financial crisis, documenting how the banking system reacts to prosperity and recession and how regulations enacted after each collapse tend to disappear when boom times return.
 
-The book's central thesis is that "no capitalised rent, no real estate cycle" (Ch. 16): the cycle is not caused by banking per se but by the institutional permission to mortgage land, which allows the economic rent of land to be capitalized into a tradable price. Anderson designed a 24-hour Real Estate Clock for investors to identify where they are in the cycle at any point in time. See [the research page](/wiki/anderson-secret-life-real-estate/) for a full summary.
+The book's central thesis is that "no capitalised rent, no real estate cycle" (Ch. 16): the cycle is not caused by banking per se but by the institutional permission to mortgage land, which allows the economic rent of land to be capitalized into a tradable price. Anderson designed a 24-hour Real Estate Clock for investors to identify where they are in the cycle at any point in time. See [the book page](/wiki/anderson-secret-life-real-estate/) for a full summary.
 
 ## Economic Indicator Services (EIS)
 
@@ -66,7 +66,7 @@ Anderson extensively cites Harrison's work and credits Harrison with the insight
 
 ## See Also
 
-- [The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — research page on the book
+- [The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — book page
 - [Fred Harrison](/wiki/fred-harrison/) — intellectual predecessor
 - [Akhil Patel](/wiki/akhil-patel/) — intellectual successor and collaborator
 - [Homer Hoyt](/wiki/homer-hoyt/) — empirical source for the cycle data

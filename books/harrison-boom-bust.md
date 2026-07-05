@@ -1,6 +1,6 @@
 ---
 title: "Boom Bust: House Prices, Banking and the Depression of 2010"
-category: research
+category: books
 tags: [research, books-publications, land-cycle, 18-year-cycle, land-speculation, banking, fred-harrison, shepheard-walwyn]
 authors: [Fred Harrison]
 year: 2005
