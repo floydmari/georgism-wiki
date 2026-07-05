@@ -75,8 +75,13 @@ flowchart TD
   flag; the Fact-Check Desk ledgers every flag by owner and the count must trend down
   (the ratchet — new honest flags are fine, un-routed drift is not).
 - **Lint gates** (`scripts/lint_wiki.py`): frontmatter schema · link resolution · bidirectional
-  evidence wiring · body-parity · banned-certainty words · quote-length cap · conflict-marker
-  and `[[wikilink]]` detection · registry duplicates · shadow-library provenance ban.
+  evidence wiring · body-parity · banned-certainty words · quote-length cap (public-domain
+  works exempt — they may be held in full, EDITORIAL §3b) · conflict-marker and `[[wikilink]]`
+  detection · registry duplicates · shadow-library provenance ban.
+- **One finding, one home** (the delta rule): enrichments add only what's new to the wiki's
+  coverage and link to a finding's home page rather than restating it.
+- **Strongest evidence first**: supporting-research lists read in descending evidential
+  weight — the reader who stops at item one has met the best evidence, not the first-drafted.
 - **Counter-evidence at full strength**: outcomes carry `challenged_by`; objections are
   steelmanned (the homevoter objection is rated the wiki's strongest); advocacy sources are
   labeled advocacy (C/D-claims, never B).

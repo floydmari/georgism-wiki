@@ -7,6 +7,15 @@
 > assignment is **`sources/hermes-workorder.md`** (auto-generated each shift from the
 > verification queue), plus book scans from `sources/wanted-books.md`. Accuracy beats
 > coverage: a CORRECTED or NOT-FOUND verdict is as valuable as a CONFIRMED one.
+>
+> **NEW CHANNEL — public-domain full texts (Floyd, 2026-07-06, EDITORIAL §3b):** works
+> published before 1931 (author dead ≥70 years for non-US) may be delivered IN FULL —
+> the 50-word quote cap is a copyright rule and does not apply to them. Deliver complete
+> transcriptions with edition/provenance named (Gutenberg, Internet Archive, HathiTrust,
+> cooperative-individualism.org): short works (≤~25k words) become `texts/` wiki pages;
+> full books go to `sources/publicdomain/<slug>.md` next to their `books/` summary.
+> Priority list in EDITORIAL §3b — George's works, the 1890 Saratoga proceedings,
+> Agrarian Justice, Johnson 1914, Post 1923.
 
 > **UPDATE 2026-07-05 (Floyd's authorization):** Hermes is promoted to running FULL
 > DRAFT-loop iterations — it edits wiki pages directly on its own `hermes/*` branch

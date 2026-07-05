@@ -49,6 +49,27 @@ mechanical debt backlog; 228 markers are mostly channel-blocked (Hermes's queue,
 - [ ] [DEEPEN] tier:T2 status:recurring — thin-article burn-down: 64 pages under 30 lines;
       take 3-5 per wave, prioritized by inbound links.
 
+EDITORIAL POLICY DELTA (Floyd directives, 2026-07-06 evening): three rules added —
+(1) DELTA RULE for enrichments (LOOP mission + step 5): read the target page first, add only
+what's new, one finding one home, link don't restate; (2) EVIDENCE ORDERING (EDITORIAL §3):
+supporting-research lists strongest-first by evidential weight, descending — applies to
+supported_by frontmatter and Evidence sections; (3) PUBLIC-DOMAIN FULL TEXTS (EDITORIAL §3b):
+pre-1931 works may be held in full — new texts/ category (lint/preview/ghost wired,
+public_domain: true exempts the quote cap), sources/publicdomain/ for full books, Hermes PD
+delivery channel opened.
+- [ ] [RECONCILE] tier:T2 status:todo — evidence-ordering pass over the 15 outcome pages +
+      major concept evidence lists: reorder supported_by frontmatter and Evidence sections
+      strongest-first per EDITORIAL §3; one commit per ~5 pages.
+- [ ] [DRAFT] tier:T2 status:todo — seed the texts/ category (route acquisition via Hermes
+      work order; each needs provenance + headnote + ≥2 inbound links): (1) Paine, Agrarian
+      Justice (1797); (2) Saratoga single-tax debate proceedings (1890); (3) Johnson, The
+      Case Against the Single Tax (1914, Atlantic Monthly); (4) George's Ode to Liberty /
+      shorter speeches; (5) Post, The Deportations Delirium (1923) — key chapters or full.
+- [ ] [AUDIT] tier:T3 status:todo — duplication sweep: grep the corpus for findings restated
+      on 3+ pages (Danish experiment pattern); convert restatements to links per the delta
+      rule. Start with: Danish 2007 experiment, KSS 80% figure, Pittsburgh record,
+      Friedman least-bad-tax quote.
+
 EXA DELTA (Floyd directive, 2026-07-06): Exa API key delivered — stored in env only (this
 container's shell profile + to be added as `EXA_API_KEY` in the cloud environment settings for
 future sessions); NEVER committed. New standing rule in LOOP.md step 3: every people/ page

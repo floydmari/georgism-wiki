@@ -64,7 +64,18 @@ Review each page sentence by sentence. Classify each claim and cite it according
   document exists.
 - **Source quotations** — include a short (≤50-word) quote where wording matters: theoretical
   claims, canonical definitions, contested claims, objections, statements attributed to a
-  named thinker.
+  named thinker. **Public-domain exemption (Floyd, 2026-07-06):** the 50-word cap is a
+  *copyright* rule, not a style rule — it does not apply to public-domain works (see §3b).
+  Style still applies: pages quote what serves the reader; full texts live on dedicated
+  primary-text pages, not inside argument pages.
+- **Evidence ordering (Floyd, 2026-07-06):** wherever a page lists supporting research —
+  an outcome's `supported_by` frontmatter, an "Evidence" section, a concept's research
+  list — order by **evidential weight, descending**: (1) top-journal peer-reviewed and
+  quasi-experimental designs, (2) other peer-reviewed work, (3) official/institutional
+  reports (IMF, OECD, government), (4) working papers, (5) practitioner and advocacy
+  sources. Within a class, more prominent/more-cited first. The reader who stops after the
+  first item should have met the strongest evidence, not the first-drafted. (Counter-evidence
+  in `challenged_by` follows the same rule — strongest challenge first.)
 - **Source-quality hierarchy** (prefer the highest available):
   1. Primary source / statute / official report / original paper / canonical book / dataset
   2. Peer-reviewed academic source
@@ -74,6 +85,33 @@ Review each page sentence by sentence. Classify each claim and cite it according
   6. Advocacy source — only to represent that advocate's own position
   7. Wiki page or blog — navigation only, never primary evidence
 - **Every source used must have a row in `sources/registry.csv`** (add one if missing).
+
+### §3b Public-domain full texts (Floyd, 2026-07-06)
+
+Works past copyright may be held **in full** on the wiki — old debates, speeches,
+pamphlets, and books are exactly the primary record a definitive reference should carry,
+not merely summarize. Rules:
+
+- **Eligibility test (conservative):** published **before 1931** (US 95-year rule as of
+  2026) AND, for non-US authors, author dead ≥70 years — or otherwise clearly
+  public domain. When the two regimes disagree (e.g., Churchill's 1909 speeches: PD in the
+  US, not yet in the UK), note the jurisdiction split on the page and prefer works clear
+  in both.
+- **Where they live:** short-to-medium documents (speeches, debates, pamphlets, essays,
+  letters — roughly ≤25k words) become **`texts/` pages** (`category: texts`,
+  `public_domain: true`, provenance/edition stated, ≥2 inbound links like any page).
+  Full BOOKS stay summarized in `books/` with the complete text stored at
+  `sources/publicdomain/<slug>.md` (repo-hosted and linked from the book page — GitHub
+  renders it; it is not itself a wiki page).
+- **Provenance still required:** name the edition/transcription source (Gutenberg,
+  Internet Archive, HathiTrust, cooperative-individualism.org). Public domain waives the
+  quote cap, not the accuracy rules — transcriptions get spot-checked like any source.
+- **Priority acquisitions:** the era this wiki covers is uncommonly rich in PD material —
+  George's complete works, Ricardo, Mill, Paine's *Agrarian Justice*, the 1890 Saratoga
+  debate proceedings, Johnson's 1914 critique, Post's *Deportations Delirium* (1923),
+  the People's Budget speeches. Route acquisition through the Hermes work order (its
+  environment fetches freely); each delivery is a `texts/` page or `sources/publicdomain/`
+  file plus the usual discovery pass.
 
 ### Scan Depth policy — Tier sets the target
 `Scan Depth` records how much of a source's extractable value is actually in the wiki, so it must
@@ -118,6 +156,11 @@ flags these for review.
 - `narratives/`: `narrative_type` (`moral|economic|practical|environmental|historical`),
   `supported_by`, `related_people`, `related_places`.
 - `people/`: optional `born`, `died`. `places/`, `events/`, `organizations/`: as existing.
+- `texts/` (added 2026-07-06, Floyd — public-domain primary texts, EDITORIAL §3b):
+  `authors` (list), `year`, `public_domain: true` (REQUIRED — activates the quote-cap
+  exemption in lint), `provenance` (edition/transcription source), plus the universal
+  fields. Body = a short editorial headnote (what it is, why it matters, PD status),
+  then the full text.
 - `books/` (added 2026-07-06, Floyd): `authors` (list), `year`, `tier`, optional `publisher`,
   `isbn`, `page_count`, `scanned_by` (e.g. `hermes`), `scan_date`. The universal fields
   (`title`/`category`/`tags`/`stub`/`excerpt`) are REQUIRED here like everywhere — book pages

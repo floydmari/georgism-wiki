@@ -522,3 +522,21 @@ the EXPAND/BUILD OUT step; sources/inbox/README.md (Hermes's contract) opens wit
 + its standing assignment (the auto-generated work order); BACKLOG header states what the
 queue is FOR; ROADMAP points at §0 as the canonical short form. One mission, quoted
 everywhere — no executor works from process jargon alone.
+
+---
+
+## 2026-07-06f — Three editorial policies from Floyd: delta rule, evidence ordering, PD full texts
+
+(1) DELTA RULE — honest answer to "are enrichments checked for duplication?": partially, and
+now explicitly: read the target page first, add only what's new, one finding one home, link
+don't restate (LOOP mission + editor-review check; the Danish experiment's three restatements
+in w1 are the named lesson; duplication-sweep audit queued).
+(2) EVIDENCE ORDERING — supporting-research lists now read strongest-first by evidential
+weight (EDITORIAL §3): quasi-experimental/top-journal > peer-reviewed > institutional >
+working papers > advocacy. Demonstrated on the landlords outcome (Danish natural experiment
+now leads; Doucet's synthesis demoted to last). Reorder pass over all 15 outcomes queued.
+(3) PUBLIC-DOMAIN FULL TEXTS (EDITORIAL §3b) — pre-1931 works may be held IN FULL: new
+texts/ category wired into lint/preview/ghost (public_domain: true exempts the quote cap),
+sources/publicdomain/ for whole books, Hermes PD delivery channel opened with a priority
+list (George's works, Saratoga 1890 proceedings, Agrarian Justice, Johnson 1914, Post 1923).
+Diagram re-synced same commit.

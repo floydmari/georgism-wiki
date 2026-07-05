@@ -18,6 +18,13 @@ The wiki grows the way a good research desk grows a beat:
 - **READ & MINE** each source — write its `research/` or `books/` page, pull out every
   finding, figure, person, event, place, and counterargument it contains. A source isn't
   "done" when summarized; it's done when everything it teaches has somewhere to live.
+  **The delta rule (Floyd, 2026-07-06):** when weaving a new source's findings into
+  EXISTING pages, read the target page (and the evidence pages it links) first and add
+  only what's genuinely new — a sharper number, a missing caveat, a counterargument, a
+  primary behind a synthesis. If the wiki already carries the finding somewhere, LINK to
+  that home rather than restating it; one finding, one home, many links. (Lesson: the
+  Danish natural experiment got restated on three pages in w1 before cross-linking.)
+  Public-domain primary texts can be held in full — see EDITORIAL §3b.
 - **SYNTHESIZE** what the sources collectively show into the wiki's argument pages:
   `outcomes/` (what the evidence supports — e.g. *split-rate taxation increases
   construction*), `objections/` (what critics say, steelmanned — e.g. the homevoter
@@ -81,6 +88,12 @@ If unsure whether a task needs editorial judgment, leave it for T1.
    its source's strength?"* Two structural checks are part of the editor's review:
    - **Body-parity:** an outcome page must actually walk through the evidence its frontmatter
      claims — a page that lists seven studies and discusses two is overstating itself.
+   - **Delta check on enrichments:** additions to an existing page must be genuinely new to
+     the wiki's coverage (EDITORIAL §3 delta rule) — restating a finding that already has a
+     home elsewhere is drift, not depth; convert restatements to links.
+   - **Evidence ordering:** supporting-research lists read strongest-first (EDITORIAL §3
+     ordering rule); a reviewed page's `supported_by` and Evidence sections are in
+     descending evidential weight.
    - **Synthesis de-referencing:** if a page leans on someone else's literature review
      (Doucet's ACX series, a survey article), queue the primary studies it cites and demote
      the synthesis to navigation. *This wiki works through the literature itself* — a
