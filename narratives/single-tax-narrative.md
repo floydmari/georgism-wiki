@@ -144,7 +144,8 @@ vulnerability lie.
 - **The movement's decline** after World War I — competing socialist and Keynesian
   frameworks, the death of its founder-generation, and (as
   [Gaffney argued](/wiki/gaffney-neoclassical-stratagem/), contestedly) an academic
-  counter-revolution; see the planned narrative `the-corruption-of-economics` for that
+  counter-revolution; see
+  [Narrative: The Corruption of Economics](/wiki/the-corruption-of-economics/) for that
   story.
 
 ## How to Deploy It

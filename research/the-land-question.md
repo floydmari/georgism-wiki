@@ -47,6 +47,7 @@ Within the wiki's frame, this episode is one of the routes by which George's ana
 - [Land Monopoly](/wiki/land-monopoly/) — the structural problem George identifies as common to Ireland and elsewhere
 - [Single Tax](/wiki/single-tax/) — the remedy George proposes in place of peasant proprietorship
 - [Alfred Russel Wallace](/wiki/alfred-russel-wallace/) — contemporary British land reformer shaped by the same "land question" ferment
+- [Narrative: The Great Land Robbery](/wiki/the-great-land-robbery/) — the modern persuasive deployment of this book's title-tracing argument
 - [John Stuart Mill](/wiki/john-stuart-mill/) — precursor whose Land Tenure Reform Association anticipated parts of the argument
 
 ## Sources

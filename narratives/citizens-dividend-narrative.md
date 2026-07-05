@@ -141,8 +141,8 @@ together."
 - **Pairing.** Follows naturally from
   [The Unearned Increment](/wiki/unearned-increment-narrative/) (who created the
   value?) and pairs with the environmental version — charging for use of the
-  atmosphere and paying the proceeds out — in the planned narrative
-  `ecological-rent`.
+  atmosphere and paying the proceeds out — in
+  [Green Georgism](/wiki/ecological-rent/).
 
 ## See Also
 

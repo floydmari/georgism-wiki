@@ -53,10 +53,10 @@ is the completed model page. Match its structure, sourcing density, and tone.
 | 6 | [`land-speculation-causes-cycles`](/wiki/land-speculation-causes-cycles/) ✅ | Land Speculation Causes Boom and Bust | economic | Speculative land-price cycles drive credit booms and crashes |
 | 7 | [`the-housing-crisis-is-a-land-crisis`](/wiki/the-housing-crisis-is-a-land-crisis/) ✅ | The Housing Crisis Is a Land Crisis | practical | Housing is dear because land is dear; tax land, free the land market |
 | 8 | [`citizens-dividend-narrative`](/wiki/citizens-dividend-narrative/) ✅ | A Dividend from Common Wealth | moral | Rent from land and resources, shared equally, gives everyone a stake |
-| 9 | `ecological-rent` | Green Georgism: Charging for the Earth | environmental | Pollution and extraction are unpaid takings of common natural wealth |
+| 9 | [`ecological-rent`](/wiki/ecological-rent/) ✅ | Green Georgism: Charging for the Earth | environmental | Pollution and extraction are unpaid takings of common natural wealth |
 | 10 | [`the-tax-you-cant-dodge`](/wiki/the-tax-you-cant-dodge/) ✅ | The Tax You Can't Dodge | practical | Land cannot be hidden or moved offshore — the hardest base to avoid |
-| 11 | `the-corruption-of-economics` | The Corruption of Economics | historical | Early neoclassical economics buried land as a factor, advocates argue |
-| 12 | `the-great-land-robbery` | The Great Land Robbery | historical | Land titles descend from dispossession; rent capture is bloodless restitution |
+| 11 | [`the-corruption-of-economics`](/wiki/the-corruption-of-economics/) ✅ | The Corruption of Economics | historical | Early neoclassical economics buried land as a factor, advocates argue |
+| 12 | [`the-great-land-robbery`](/wiki/the-great-land-robbery/) ✅ | The Great Land Robbery | historical | Land titles descend from dispossession; rent capture is bloodless restitution |
 
 Type balance: moral ×3, economic ×3, practical ×3, environmental ×1, historical ×2.
 
@@ -239,7 +239,7 @@ the narrative page covers its persuasive career from
 - **Deployment:** UBI and tech audiences; populist "your share of what we own together"
   framing; Alaska's cross-partisan durability is the anchor fact.
 
-### 9. Green Georgism: Charging for the Earth — `ecological-rent` (environmental)
+### 9. Green Georgism: Charging for the Earth — [`ecological-rent`](/wiki/ecological-rent/) (environmental) — ✅ DRAFTED
 
 - **Core claim:** Pollution, carbon emission, and resource extraction are uncompensated
   takings of common natural wealth; charging for them extends the Georgist rent
@@ -281,7 +281,7 @@ the narrative page covers its persuasive career from
 - **Deployment:** anti-avoidance politics and state-capacity/development audiences;
   works across the spectrum wherever "the rich don't pay tax" resonates.
 
-### 11. The Corruption of Economics — `the-corruption-of-economics` (historical)
+### 11. The Corruption of Economics — [`the-corruption-of-economics`](/wiki/the-corruption-of-economics/) (historical) — ✅ DRAFTED
 
 - **Core claim:** Advocates — principally Gaffney — argue that early neoclassical
   economists, some patronized by landed and railroad interests, collapsed land into
@@ -304,7 +304,7 @@ the narrative page covers its persuasive career from
   audiences (easily heard as conspiracy). Its best general-audience use is answering
   "if this is so good, why haven't I heard of it?"
 
-### 12. The Great Land Robbery — `the-great-land-robbery` (historical)
+### 12. The Great Land Robbery — [`the-great-land-robbery`](/wiki/the-great-land-robbery/) (historical) — ✅ DRAFTED
 
 - **Core claim:** Existing land titles descend from enclosure, conquest, and
   dispossession, not from anyone's production; capturing land rent going forward is
@@ -334,8 +334,10 @@ the narrative page covers its persuasive career from
   urbanist/YIMBY → 7; climate → 9; UBI/tech → 8; local government → 5; investors → 6;
   broad-moral → 3; movement-internal → 11.
 - **Evidence-strength ranking** (strongest first, per the outcome pages):
-  2 · 5 · 3 · 4 · 7 · 10 · 8 · 6 · 1 · 12 · 11 · 9. Narratives 9, 11, and 12 need new
-  sources registered before their claims sections can be written to standard.
+  2 · 5 · 3 · 4 · 7 · 10 · 8 · 6 · 1 · 12 · 11 · 9. Narratives 9, 11, and 12 shipped
+  2026-07-05 after their prerequisite sources were registered
+  ([Barnes](/wiki/barnes-who-owns-the-sky/), [Fairlie](/wiki/fairlie-enclosure-history/),
+  [Blaug](/wiki/blaug-henry-george-rebel/)). **All twelve narratives are now drafted.**
 - **Inbound links:** when a narrative page ships, add a link *to* it from its concept
   twin (e.g., [unearned increment](/wiki/unearned-increment/) →
   [the narrative page](/wiki/unearned-increment-narrative/)), from the relevant

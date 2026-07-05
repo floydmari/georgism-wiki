@@ -22,6 +22,8 @@ Ecological Georgism reframes climate and environmental policy as a rent problem,
 
 - [Resource Rents](/wiki/resource-rents/) · [Citizen's Dividend](/wiki/citizens-dividend/) · [Georgism](/wiki/georgism/)
 - [Alanna Hartzok](/wiki/alanna-hartzok/) — leading advocate connecting land rent to environmental justice
+- [Narrative: Green Georgism — Charging for the Earth](/wiki/ecological-rent/) — the persuasive deployment of this concept
+- [Who Owns the Sky? (Barnes)](/wiki/barnes-who-owns-the-sky/) — the flagship policy design (Sky Trust / cap-and-dividend)
 
 ## Sources
 
