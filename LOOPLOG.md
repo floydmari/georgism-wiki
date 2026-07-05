@@ -332,3 +332,30 @@ source. Widerquist progress.org article marked [VERIFY] (survey-surfaced, unfetc
 
 **Registry:** 260→267 rows (citdiv + 7 FIRE). Repo export refreshed; Drive snapshot 8 rows behind
 — loud [SHEET-SYNC] filed per rule.
+
+---
+
+## 2026-07-06a (overnight, ~08:00-09:30 UTC) — COVERAGE 15/15 + stub burn-down
+
+Scheduling bug owned & fixed: first overnight wake-up was set for the wrong DAY (Jul 6 not Jul 5);
+Floyd's ping caught it ~2h late; trigger rebuilt, re-arming chain now at 11:15Z/16:15Z/21:15Z.
+
+**Shipped (4 commits):**
+- lvt-reduces-sprawl 1/5 -> 5/5 = **COVERAGE 15/15**: Tomson + Brueckner-1986 wired; NEW pages
+  cho-two-rate-density (simulation, +18%/+83%, Nashville cluster counted as ONE evidence line),
+  taranu-verbeeck-property-tax-sprawl (systematic review, design-conditional),
+  bentick-mills-timing-neutrality (COUNTER-evidence: market-value assessment can hasten fringe
+  conversion; Tideman-1982 assessment-basis rebuttal carried). Song-Zenou deliberately kept
+  adjacent-UNWIRED (opposite mechanism). Yang 2018 JHE queued with UNVERIFIED-FINDING guard.
+- Stubs 6 -> 4: margin-of-production (Ricardo/George two-laws structure + the Clark-preface
+  connection verified earlier this session) and public-land-leasing (HK 13-24% revenue range,
+  Singapore ~90%/Past-Reserves, Canberra 1924, and the honest core: Hong-Lam's 39%-of-increment
+  capture + post-1997 no-premium extensions — leasing's structural gap vs annual LVT).
+- LVIT forage facts (Art. 143 confirmed; rates 20/30/40+10; ares-not-acres flag; 2005 history
+  UNVERIFIED) filed in BACKLOG for the marker lane rather than editing a 10-marker page in
+  Hermes's territory overnight.
+- Registry 289 -> 297; exports refreshed. Hermes active on hermes/enrichment-w1 (not reviewed —
+  Floyd reviews trigger in the morning).
+
+**Remaining stubs (4):** search-theoretic-critique, progress-and-poverty-institute (both next
+wake-up), floyd-marinescu (owner-input), karl-widerquist (needs independent bio sources).
