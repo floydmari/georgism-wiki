@@ -20,6 +20,8 @@ Taiwan demonstrates that Georgist land-value capture can be embedded in a nation
 
 ## See Also
 
+- [Taiwan Land Reform (1950s)](/wiki/taiwan-land-reform-1950s/)
+
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
 
 ## Sources

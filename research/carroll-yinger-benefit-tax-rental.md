@@ -49,6 +49,8 @@ Two scope qualifications matter for how strongly this paper should be read as ev
 
 ## See Also
 
+- [Löffler & Siegloch — German property-tax pass-through](/wiki/loffler-siegloch-german-pass-through/)
+
 - [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 - [Mieszkowski (1972), the "new view" of property tax incidence](/wiki/mieszkowski-property-tax-incidence/)
 - [Zodrow (2001), "A Room with Three Views"](/wiki/zodrow-three-views/)

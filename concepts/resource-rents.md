@@ -20,6 +20,8 @@ Where resource rents are captured privately or by corrupt states, they can weake
 
 ## See Also
 
+- [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/)
+
 - [Hartwick's Rule (1977)](/wiki/hartwick-rule/) — invest resource rents to sustain future consumption
 - [Segal (2011)](/wiki/segal-resource-dividend/) — resource dividends could substantially cut global poverty
 

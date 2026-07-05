@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, housing, affordability, speculation, contested]
 stub: false
 evidence_strength: "Contested (sound mechanism; depends on complementary policy)"
-supported_by: [oates-schwab-pittsburgh, tomson-estonia-lvt, hsieh-moretti-spatial-misallocation, saiz-housing-supply-elasticity, glaeser-gyourko-housing-supply]
+supported_by: [oates-schwab-pittsburgh, tomson-estonia-lvt, hsieh-moretti-spatial-misallocation, saiz-housing-supply-elasticity, glaeser-gyourko-housing-supply, hilber-vermeulen-england-supply]
 excerpt: "By discouraging speculation and encouraging development, LVT can ease housing costs — but only alongside permissive land-use policy; capturing land value alone need not lower prices."
 ---
 
@@ -30,6 +30,8 @@ The full evidence wiring for this outcome (each page carries its external citati
 **Contested.** The mechanism is sound and the construction evidence supports it, but affordability outcomes depend heavily on **complementary land-use policy**. LVT helps, but is not sufficient alone.
 
 ## See Also
+
+- [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
 
 - [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) · [Speculative Vacancy](/wiki/speculative-vacancy/) · [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/)
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/) — how advocates deploy this evidence

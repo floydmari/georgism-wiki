@@ -1,0 +1,69 @@
+---
+title: "Revisiting Land, Labor, and Capital in Neoclassical Economics"
+category: research
+tags: [research, history-of-economics, neoclassical, land, capital-theory, historiography, john-bates-clark, irving-fisher]
+authors: [Antoine Missemer, Antonin Pottier]
+year: 2025
+source_url: https://doi.org/10.3368/le.101.4.021225-0009
+tier: Important
+stub: false
+excerpt: "A 2025 Land Economics article showing that marginal productivity theory did not logically require merging land into capital, and that non-conspiratorial factors — analytical convenience and capital-theory debates — better explain why U.S. neoclassicism sidelined land."
+last_reviewed: 2026-07-05
+supports_outcomes: []
+---
+
+## Summary
+
+"Revisiting Land, Labor, and Capital in Neoclassical Economics" is a peer-reviewed article by **Antoine Missemer** (CNRS researcher, CIRED, Paris) and **Antonin Pottier** (Associate Professor, EHESS, CIRED, Paris), published in *[Land Economics](https://le.uwpress.org/content/101/4/566)*, the University of Wisconsin Press journal founded by Richard T. Ely, Vol. 101, No. 4 (November 2025), pp. 566–584 (DOI: [10.3368/le.101.4.021225-0009](https://doi.org/10.3368/le.101.4.021225-0009)). It is the most direct, recent, peer-reviewed scholarly treatment of the specific question this wiki's page on [Gaffney's neoclassical stratagem](/wiki/gaffney-neoclassical-stratagem/) raises: why did land disappear as a distinct factor of production in neoclassical economics? Missemer and Pottier engage directly with [Mason Gaffney](/wiki/mason-gaffney/)'s political-conspiracy account and offer a competing, non-conspiratorial explanation grounded in close textual analysis of the primary theoretical sources. Because it appears in a mainstream, non-Georgist economics journal and is explicitly agnostic about motive rather than dismissive of Gaffney, it is the strongest available "innocent-explanation" counter-source to weigh against the stratagem narrative — filling the `[CITATION NEEDED]` this wiki's [John Bates Clark](/wiki/john-bates-clark/) page leaves open for exactly this purpose.
+
+## The Core Argument
+
+The authors' central theoretical claim is that **the two developments historically bundled together — the rise of marginal productivity theory and the sidelining of land — were logically separable**: "the advent of marginal productivity theory alone was not sufficient to account for the move to two factors of production... two separate theoretical shifts took place... the first shift, related to income determination, did not necessarily imply the second, which related to categorizing means of production" (Missemer & Pottier 2025, 567). In other words, one could accept that all factors are paid their marginal product (the theoretical innovation) without concluding that land must therefore be lumped in with capital (the classificatory choice) — the latter was a further, non-obligatory step.
+
+Historically, the article documents through close reading of primary texts — [John Bates Clark](/wiki/john-bates-clark/), Irving Fisher, Alvin S. Johnson, Frank Taussig, Raymond Bye, and others — that **U.S. neoclassical alternatives to the two-factor divide existed and persisted into the 1920s**. Fisher's 1906 capital theory treated the classification of factors as a separate question from their payoff, and Alvin S. Johnson developed an explicit "natural capital" versus "artificial capital" distinction (Johnson 1909, cited at 197) that preserved land's analytical distinctness within a capital-theoretic framework, achieving some following in the 1910s–20s before falling into "oblivion, for reasons yet to be fully identified" (Missemer & Pottier 2025, 579). Outside the U.S., the authors note, the Marshallian school and continental economists (Wicksteed in his early work, Walras, Böhm-Bawerk, Wicksell) largely retained the three-factor tripartition; the two-factor collapse was distinctively American.
+
+The authors identify **three specific mechanisms** behind the American shift, none of which requires an anti-Georgist motive:
+1. **Analytical convenience** — Clark and Fisher's focus on a homogeneous fund of capital simplified the mathematics of distribution theory.
+2. **Capital-theory debates** — Fisher's influential distinction between "capital" (an abstract, analytical fund of value) and concrete "wealth" downgraded land's status as a *sui generis* category; land became just one more physical embodiment of the abstract capital fund.
+3. **Aggregation choices** — Clark's specific framework subsumed land into "capital goods," but the authors stress this was "a theoretical choice rather than logical necessity" (Missemer & Pottier 2025, 578–579), since Clark maintained labor as a separate category on comparable theoretical and "more arbitrary" grounds and could in principle have done the same for land.
+
+## Relation to the Georgist Case
+
+This article directly **complicates** the Gaffney stratagem thesis, though it does not refute it and is careful to say so. The authors explicitly decline to adjudicate motive: "We do not intend to go back to the ultimate motives of U.S. economists, political or otherwise, for abandoning land... The reasons [Clark] merged land and capital might be political — this is the interpretation given by the Georgist tradition... Without taking sides on these interpretations, we have disentangled... the analytical results on the one side from the arbitrary choices on the other" (Missemer & Pottier 2025, 578). Their contribution is narrower and more specific than a rebuttal of political motive: they show that **the theoretical apparatus itself did not force the outcome Gaffney treats as its logical culmination**, and that contemporaneous U.S. economists (Johnson, and non-U.S. economists generally) built viable alternatives that kept land analytically distinct. This weakens the strongest version of the stratagem thesis — that the merger of land into capital was an inevitable or unavoidable consequence of adopting marginal productivity theory — without weighing in on whether Clark's own specific choice was politically motivated.
+
+The article corroborates, rather than disputes, the underlying empirical claim on the Gaffney page that land really did disappear as a distinct factor in mainstream (specifically American) neoclassical economics by the late 1920s: "there is no doubt that land and natural resources lost value in economic analysis with the advent of marginalism compared with previous paradigms" (Missemer & Pottier 2025, 579). What it disputes is the inevitability/necessity framing, and by extension weakens (without eliminating) the inference from "land disappeared" to "land was deliberately buried by a coordinated stratagem."
+
+## Nuances and Limits
+
+- **The article is agnostic, not exculpatory.** It does not conclude that Clark's specific choice was innocent of political motive — it declines to investigate motive at all, restricting itself to the logical/theoretical question. Readers should not cite it as proof there was no ideological dimension to the episode.
+- **Geographic scope is limited to U.S. neoclassicism.** Gaffney's stratagem thesis also concerns British economists (Marshall, Edgeworth, Wicksteed); Missemer and Pottier's alternative-tradition evidence (Johnson's natural-capital taxonomy) is drawn from U.S. sources, though they note the European/Marshallian tradition retained the tripartition more generally, which is itself in tension with a thesis of a unified anglophone campaign against George.
+- **The "why did the alternative die out" question is explicitly left open.** The authors admit Johnson's natural-capital framework "fell into oblivion, for reasons yet to be fully identified," and speculate the Great Depression's shift in attention played a role — but this is offered as a tentative hypothesis, not a finding.
+- **The paper does not evaluate Gaffney's archival evidence directly** (funding of economics departments by landed interests, biographical ties among figures like Frank Knight and Alvin Johnson) — it engages the *theoretical* history, not the *institutional/biographical* case Gaffney builds in parallel chapters of *The Corruption of Economics*. A full assessment of the stratagem thesis therefore still requires separately weighing Gaffney's archival claims, which this article does not test.
+- **JEL codes B13 (History of Economic Thought: Neoclassical through 1925) and Q24 (Land)** signal the piece is aimed at historians of economic thought and land economists, not a polemical intervention in the Georgist debate — it cites Gaffney (1994) as one serious interlocutor among several (Ryan 2002, Feder 2003, Czech 2009, Foldvary 2008) rather than singling him out for rebuttal.
+
+A second, independent data point supports reading the episode as less monolithic than "stratagem" implies: economist **Murray Milgate**'s review of *The Corruption of Economics* in the *[Journal of Economic Literature](https://www.jstor.org/stable/2729235)* (Vol. 34, No. 2, June 1996, pp. 775–777) called Gaffney's essay "interesting, provocative, and witty" but found the extension of the conspiracy to the "Chicago School" (via Frank Knight) "strained and unconvincing; resting as it does on guilt by association," and noted that Gaffney's own account concedes Alfred Marshall — George's most influential British antagonist — was "more fair" than other critics, that Wicksteed was "extremely sympathetic" to *Progress and Poverty*, and that Pareto never mentioned George at all, making him an odd fit for the alleged conspiracy (Milgate 1996, 776). Milgate ultimately sided with Marshall's 1884 private judgment that George was "an able man" without "the kind of ability which will make a permanent impression on opinion," while still calling Gaffney's core reminder — that treating land as merely one more factor of production has real analytical and tax consequences — "timely and interesting" (Milgate 1996, 777).
+
+## Bears On
+
+- [John Bates Clark](/wiki/john-bates-clark/) — directly fills the page's open `[CITATION NEEDED]` for a historian-of-economics source assessing whether Clark's land-into-capital merger was deliberate/political or an analytical/theoretical choice; this article argues the latter is defensible without ruling out the former.
+- [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/) — the direct counterpoint this page's "Reception" section gestures at but does not cite.
+- [Richard T. Ely](/wiki/richard-t-ely/) — the article notes Ely (whose name the journal *Land Economics* itself traces to) was "not a neoclassical economist" and played a marginal role in its account of the land-into-capital shift, a narrower assessment than Gaffney's framing of Ely as a central institutional antagonist.
+- [Marginal Productivity](/wiki/marginal-productivity/) — the article's core theoretical claim (marginal productivity theory did not require subsuming land into capital) bears directly on how this concept page should describe the land/capital merger.
+- [Economic Rent](/wiki/economic-rent/) — bears on the historical account of how the classical land/rent distinction was lost from mainstream theory.
+
+## See Also
+
+- [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/)
+- [John Bates Clark](/wiki/john-bates-clark/)
+- [Richard T. Ely](/wiki/richard-t-ely/)
+- [Marginal Productivity](/wiki/marginal-productivity/)
+- [Economic Rent](/wiki/economic-rent/)
+- [Mason Gaffney](/wiki/mason-gaffney/)
+
+## Sources
+
+1. Antoine Missemer & Antonin Pottier (2025), "Revisiting Land, Labor, and Capital in Neoclassical Economics," *Land Economics*, 101(4): 566–584. [DOI](https://doi.org/10.3368/le.101.4.021225-0009) — used for the article's central theoretical argument, its three-factor historical explanation (analytical convenience, capital-theory debates, aggregation choice), the Alvin Johnson "natural capital" case study, and the authors' explicit agnosticism about political motive.
+2. Murray Milgate (1996), "Review: *The Corruption of Economics*, by Mason Gaffney and Fred Harrison," *Journal of Economic Literature*, 34(2): 775–777. [JSTOR](https://www.jstor.org/stable/2729235) — used for the independent critical assessment of Gaffney's conspiracy framing, the "guilt by association" critique of the Chicago School chapter, and the notes on Marshall's, Wicksteed's, and Pareto's positions.
+3. Mason Gaffney (1994), "Neo-classical Economics as a Stratagem Against Henry George," in Mason Gaffney & Fred Harrison, *The Corruption of Economics*. [PDF](https://www.masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf) — used for context on the thesis being engaged and critiqued.
+
+[VERIFY: Mark Blaug's May 1996 review of the Georgist Paradigm Series books (referenced secondhand via a 2004 *American Journal of Economics and Sociology* profile of Blaug by Mary M. Cleveland) reportedly also critiques aspects of the Gaffney/Harrison volumes, but this session could not directly retrieve readable text of Blaug's original review to confirm its exact wording and venue (likely *Economic Journal* or *Journal of Economic Literature*, May 1996) — a future editor should locate and verify it directly before citing it on this page.]

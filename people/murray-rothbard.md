@@ -1,42 +1,70 @@
 ---
 title: "Murray Rothbard"
 category: people
-tags: [people, murray-rothbard, austrian-economics, critique, single-tax]
-stub: true
+tags: [people, murray-rothbard, austrian-economics, critique, single-tax, homesteading]
+stub: false
 born: 1926
 died: 1995
 excerpt: "American economist and leading figure of the Austrian school whose 1957 essay 'The Single Tax: Economic and Moral Implications' is the canonical Austrian-school critique of Henry George's single tax, on both economic and moral (homesteading) grounds."
+last_reviewed: 2026-07-05
 ---
 
 ## Overview
 
-Murray N. Rothbard (1926–1995) was an American economist, historian, and the leading figure of
-the modern **Austrian school** of economics, as well as a founder of the modern anarcho-capitalist
-libertarian movement. He is the author of major treatises including *Man, Economy, and State*
-(1962) and *For a New Liberty* (1973).
+Murray N. Rothbard (1926–1995) was an American economist, historian, and the leading figure of the modern **Austrian school** of economics, as well as a founder of the modern anarcho-capitalist libertarian movement. He is the author of major treatises including *Man, Economy, and State* (1962) and *For a New Liberty* (1973). Within the Georgist tradition, Rothbard is significant as the author of the most concentrated Austrian-school critique of Henry George's single-tax proposal — a critique that Georgist respondents themselves treat as the standard reference point for the opposing position.[1][2]
 
-## The Single Tax: Economic and Moral Implications (1957)
+## The 1957 Single-Tax Critique
 
-Rothbard's most concentrated statement against Georgism is his 1957 essay **"The Single Tax:
-Economic and Moral Implications,"** published as a pamphlet by the Foundation for Economic
-Education.[1] The essay argues, on economic grounds, that land cannot be cleanly separated from
-capital as a distinct factor deserving confiscatory taxation, and that a tax approaching the
-full rental value of land would destroy the price signals that allocate scarce sites to their
-highest-valued use.[1] On moral grounds, Rothbard applies his **homesteading** theory of just
-property — first appropriation and admixture of labour justify ownership — against George's claim
-that land is or ought to be the perpetual common property of society.[1] The essay is treated,
-including by Georgist respondents, as the standard reference point for the Austrian-school
-objection to land value taxation.[1]
+Rothbard's most concentrated statement against Georgism is his 1957 essay **"The Single Tax: Economic and Moral Implications,"** published as a pamphlet by the Foundation for Economic Education (FEE), Irvington-on-Hudson, New York.[1] The essay combines an economic argument against the claim that land income is uniquely "unearned" and that a confiscatory land tax is economically harmless, with a moral argument against the claim that land is or ought to be common property.[2][3] It drew a direct, contemporaneous Georgist reply — Peter R. Stubbings's 1957 essay "A Response to Murray Rothbard's Criticism of the Single Tax" — to which Rothbard in turn responded with "A Reply to Georgist Criticisms."[1][8] Both the original essay and Rothbard's reply were later collected together in the anthology *Economic Controversies* (Ludwig von Mises Institute), where they appear as consecutive entries, underscoring that the essay was part of a live exchange rather than a one-sided broadside.[1]
+
+Rothbard later restated and extended overlapping arguments — that land and labor, unlike produced capital goods, are analytically "originary" factors of production, and that a landowner performs a genuine allocative service — in his treatise *Man, Economy, and State* (1962), in a section on the "single tax" on ground rent.[4] [CITATION NEEDED: exact chapter/section number and direct text of the *Man, Economy, and State* treatment — not independently verified in this drafting session]
+
+### The Economic Argument
+
+Rothbard's economic critique runs on two tracks:
+
+1. **Land is not categorically distinct from capital.** Rothbard denies that Georgists have identified a coherent, practically usable line between "land" and other capital goods that would justify singling out land income for confiscatory taxation while exempting other income as "earned." In actual use, the market value of a "site" already reflects surrounding infrastructure, prior development, and capital investment bound up with the location, making the separation Georgist theory asks assessors to perform far harder to draw cleanly in practice than Georgist assessment proposals suggest.[1] [CITATION NEEDED: exact wording of this argument as stated in the 1957 essay]
+
+2. **The allocative function is a productive service, not a windfall.** Rothbard argues that the owner of a site performs a genuine economic service by holding, searching for, and allocating it to whichever use and user will pay the most for it — which, under competition, tends to be whoever can put the site to its most valued use. Because the landowner earns the highest ground rent only by directing the site toward its highest-valued use, Rothbard treats this allocative activity as analogous to any other entrepreneurial deployment of capital, and therefore treats ground rent as **earned income for a real service**, not an "unearned" surplus that the community is entitled to reclaim.[2][3][5]
+
+3. **A confiscatory land tax destroys the price mechanism.** Rothbard's sharpest economic objection concerns what happens under a tax that approaches 100% of land rent — the "single tax" George actually proposed, not a partial land value tax. If (nearly) the full rental value of a site is taxed away, the **market price of land is driven toward zero**, because the price of an asset reflects the capitalized value of the income stream it can earn its owner — and that stream has been confiscated.[2][6] A site with a market price of zero is not thereby made abundant; it is simply priced as if it were free, while remaining exactly as scarce as before. As corroborated across independent secondary sources quoting the essay: "But we know they are not superabundant; they are highly scarce. The result is to introduce complete chaos in land sites."[6] [VERIFY: exact wording against primary text — corroborated via secondary quotation only] Because price no longer differentiates a highly demanded downtown site from a marginal one, the market loses its ability to ration scarce locations toward their highest-valued use.[2][6] [VERIFY: whether the 1957 essay explicitly distinguishes a partial LVT from the 100% single tax, or treats them as differing only in degree]
+
+### The Moral Argument
+
+Rothbard's moral case rests on the **homesteading** theory of just property he develops at greater length elsewhere in his corpus — most fully in "Confiscation and the Homestead Principle" (1969) — applied here specifically against George's claim that land is or should remain the perpetual common property of society.[7] The homestead principle holds that an unowned resource becomes justly owned by whoever first appropriates it and mixes labor with it (finds, occupies, improves, or transforms it); title then passes validly to buyers, heirs, and other voluntary transferees absent a specific unjust taking.
+
+Rothbard argues the Georgist "society owns all land" premise cannot do the work George needs it to do: there is no actual collective entity called "society" capable of holding title or consenting to its use, so treating land as pre-owned by "the community" is either an empty abstraction or, in practical effect, a transfer of control to the state — an institution Rothbard's libertarian framework regards with deep suspicion rather than as a neutral trustee of common property.[8] [VERIFY: whether this state-as-trustee argument appears explicitly in the 1957 essay itself or is drawn from Rothbard's broader corpus]
+
+Rothbard's central moral argument, corroborated with consistent wording across independent secondary sources, is that the single-tax position is internally inconsistent about the source of just ownership. If mixing one's labor with an unowned resource is what justifies ownership of what one produces, Rothbard argues it is arbitrary to grant that principle for labor's product while denying it for the land the labor was mixed with or built upon — since most production is inseparable from a location. As quoted (corroborated, ~30 words): "The single taxers cannot have their cake and eat it; they cannot permit a man to own the fruits of his labor while denying him ownership of the original materials which he uses and transforms."[9] [VERIFY: exact wording against primary text]
+
+A secondary academic source — C. Lowell Harriss's chapter "Rothbard's Anarcho-Capitalist Critique" in Robert Andelson's edited volume *Critics of Henry George* — characterizes Rothbard as treating the economic case for land taxation (efficiency, no deadweight loss) and the moral case (land as common property) as logically separate, such that even a reader who accepted the economic efficiency argument would still need an independent moral argument for why land rent belongs to the community rather than to whoever currently controls the site — and that Rothbard does not think that independent moral argument succeeds.[3] [VERIFY: this is a secondary characterization of the essay's structure, not a direct quotation from Rothbard]
+
+## Influence and Standing
+
+Within Georgist secondary literature the essay (and the closely related arguments in *Man, Economy, and State*) is treated as the standard reference point for the Austrian-school objection. Andelson's edited academic volume *Critics of Henry George: A Centenary Appraisal* devotes a dedicated chapter to it,[3] and contemporary Georgist commentary engages with it point by point rather than dismissing it, which is itself evidence of the essay's standing as the critique to answer.[5][6] This wiki's own [Austrian critique objection page](/wiki/lvt-austrian-critique/) treats Rothbard as the source of record for the land-is-just-capital and homesteading-vs-common-ownership objections.
+
+## Austrian School Context
+
+Rothbard's critique of Georgism reflects broader Austrian-school commitments: methodological individualism, suspicion of state economic calculation, and a subjectivist theory of value in which market prices — including land prices — serve as indispensable information signals for rational resource allocation. The Austrian tradition, descending from Carl Menger through Ludwig von Mises, generally treats government intervention in price formation as distortionary, and Rothbard applies this framework to land rent specifically, arguing that taxing away ground rent removes the price signal that guides land to its highest-valued use.[1][5] This places the Austrian critique in tension with the [geolibertarian](/wiki/geolibertarianism/) tradition, which accepts the libertarian framework but holds that land, as a non-produced natural resource, is categorically distinct from produced capital goods and therefore subject to different justice claims — a position Rothbard explicitly rejects.[7]
 
 ## See Also
 
 - [Objection: the Austrian critique of LVT](/wiki/lvt-austrian-critique/) — the objection built on Rothbard's arguments, with Georgist responses
 - [Rothbard, "The Single Tax: Economic and Moral Implications" (research summary)](/wiki/rothbard-single-tax/)
 - [Geolibertarianism](/wiki/geolibertarianism/) — the rival libertarian synthesis that accepts Georgist land ethics
+- [Henry George](/wiki/henry-george/) — the target of Rothbard's critique
+- [Single Tax](/wiki/single-tax/) — the George proposal this essay responds to
 
 ## Sources
 
-1. Murray N. Rothbard (1957), "The Single Tax: Economic and Moral Implications," Foundation for
-   Economic Education. [Mises Institute](https://mises.org/library/single-tax-economic-and-moral-implications)
-   — [wiki summary](/wiki/rothbard-single-tax/) — used for Rothbard's authorship, the essay's
-   1957 publication, and the summary of its economic and moral arguments against the single tax.
+1. Murray N. Rothbard (1957), "The Single Tax: Economic and Moral Implications," Foundation for Economic Education, Irvington-on-Hudson, NY. [Mises Institute](https://mises.org/library/single-tax-economic-and-moral-implications) — used for the essay's existence, title, 1957 FEE publication, and the *Economic Controversies* anthology reprint pairing with the reply essay. [VERIFY: primary text not directly fetched in drafting session]
+2. C. Lowell Harriss, "Rothbard's Anarcho-Capitalist Critique," ch. 25 in Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty*, Associated University Presses, 1979/2004. [PDF via cooperative-individualism.org](https://cooperative-individualism.org/andelson-robert_critics-of-henry-george-1979-25-rothbard-by-c-lowell-harriss.pdf) — used for the academic characterization of the essay's argument structure and its treatment of economic vs. moral claims as separable.
+3. Georgist secondary discussion: "A Critique of Rothbard's Critique of the Single Tax," KSpect wiki, [link](https://www.kspect.net/wiki/index.php?title=A_Critique_of_Rothbard%27s_Critique_of_the_Single_Tax); "Rothbard v Georgism" series, *This is my chaos* blog, [Land – Abundance and the Landlord's Function](https://fraggle.wordpress.com/rothbard-v-georgism/land-abundance-and-the-landlords-function/) and [The Morality of LVT](https://fraggle.wordpress.com/rothbard-v-georgism/the-morality-of-lvt/) — used for corroborating the allocative-function and 100%-tax arguments; treated as opposing (Georgist) secondary sources.
+4. Murray N. Rothbard, *Man, Economy, and State with Power and Market*, 1962/2004. [Mises Institute](https://mises.org/online-book/man-economy-and-state-power-and-market/4-binary-intervention-taxation/6-incidence-and-effects-taxation-part-iv-single-tax-ground-rent) — cited for the existence of Rothbard's fuller treatise treatment of the same arguments; not directly fetched or quoted in this session.
+5. Mises Institute, "Murray Rothbard and Henry George," Mises Wire. [Article](https://mises.org/mises-wire/murray-rothbard-and-henry-george) — used for the framing of Rothbard's site-allocation argument and Austrian-school context.
+6. Corroborating quotation source for "not superabundant… complete chaos in land sites" and the "cannot have their cake and eat it" passage: cross-referenced across [cooperative-individualism.org hosted copy](https://cooperative-individualism.org/rothbard-murray_single-tax-economic-and-moral-implications-1997.pdf) and secondary discussions in source 3. [VERIFY: primary-text confirmation]
+7. Murray N. Rothbard, "Confiscation and the Homestead Principle," *Libertarian Forum*, 1969. [Panarchy.org](https://panarchy.org/rothbard/confiscation.html) — used for the general homesteading theory of just property Rothbard applies against Georgist common land ownership.
+8. Peter R. Stubbings, "A Response to Murray Rothbard's Criticism of the Single Tax," 1957. [cooperative-individualism.org](https://cooperative-individualism.org/stubbings-peter_a-response-to-murray-rothbard's-criticism-of-the-single-tax-1957.htm) — used for the historical record of a direct, contemporaneous Georgist reply.
+9. "Cannot have their cake and eat it" quotation: corroborated across secondary sources in sources 3 and 6 above. [VERIFY: exact wording against primary text]
+
+[CITATION NEEDED: a directly fetched, verified copy of the primary essay text. Web access to mises.org, cooperative-individualism.org, and other mirrors returned HTTP errors in the drafting session for the research page from which this page draws, so all quotations and several specific argument details are corroborated through consistent secondary description rather than confirmed first-hand against Rothbard's original wording. A future editor with working access should fetch the primary text, verify the two quotations verbatim, add page numbers, and resolve the [VERIFY] markers throughout this page.]

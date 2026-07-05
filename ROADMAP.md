@@ -73,6 +73,39 @@ watermark. Invoke after every ~50 new registry rows. Not part of LOOP.md's forwa
 - The live-site preview is republished each wave to the same Claude artifact URL; local preview:
   `python3 scripts/build_preview.py && python3 -m http.server -d preview 8000`.
 
+## Exit criteria — when does the looping stop? (added 2026-07-05, Floyd + T1)
+
+A wiki never "finishes"; campaigns finish and then the wiki enters maintenance. Floyd's
+instinct — "all significant new research and findings in the last 50 years related to
+economic rents processed" — is the right north star, made operational as three testable
+gates rather than a judgment call:
+
+**Gate 1 — Structurally complete** (measurable in lint, nearly reached):
+all 12 narratives live · STUBS gauge 0 (or only owner-blocked items) · every objection
+steelmanned with its primary source read · every outcome ≥5 supporters AND challenged_by
+wherever counter-evidence exists · registry 100% Scanned at tier-appropriate depth
+(Heavy for Core books) · zero [CITE]-queue pages without claim-level citations (WS8).
+
+**Gate 2 — Canon convergence** (the operational version of "all significant research"):
+"significant" = (a) cited ≥2 times by works already in the registry (snowball citation
+mining), or (b) meets a venue+citations bar in a systematic sweep of the rent literature
+(JUE/RSUE/NTJ/QJE/AEJ + Lincoln, IMF/OECD/World Bank, AJES) for 1975–present.
+DONE is defined by **convergence, not coverage judgment**: run discovery invocations
+(comprehensiveness loop + a citation-snowball round) and log the accept rate; when TWO
+consecutive full invocations each yield fewer than ~5 accepted new pages, the corpus has
+converged — the frontier is empty at the significance bar. Each invocation already
+records its watermark + accept/reject counts in BACKLOG, so the trend is auditable.
+
+**Gate 3 — Maintenance mode** (the actual exit): when Gates 1–2 hold, retire the
+campaign loops and switch to a low-frequency maintenance loop — monthly: new-publication
+sweep (post-watermark registry rows through the comprehensiveness loop), staleness sweep
+("as of" claims, dead links, last_reviewed >12mo), cohesion audit, Ghost sync. Looping
+"stops" in the sense that it becomes an hour a month instead of a campaign.
+
+Current position: Gate 1 is ~80% (3 narratives, 8 stubs, WS8 retrofit outstanding);
+Gate 2 has run one invocation (136 sources, 29 accepts — nowhere near convergence, as
+expected this early); Gate 3 is blocked on GHOST_ADMIN_KEY for the sync half.
+
 ## Resuming after any reset
 
 Everything needed is in-repo: start from the **⟳ RESUME HERE** block at the top of `BACKLOG.md`.

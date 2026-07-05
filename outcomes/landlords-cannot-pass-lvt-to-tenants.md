@@ -5,7 +5,7 @@ tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"
 supported_by: [doucet-does-georgism-work, mieszkowski-property-tax-incidence, zodrow-three-views, palmon-smith-capitalization, carroll-yinger-benefit-tax-rental, dors-land-taxes-housing-prices, schwegman-yinger-homestead]
-challenged_by: [tsoodle-turner-rents, loffler-siegloch-property-tax]
+challenged_by: [tsoodle-turner-rents, loffler-siegloch-german-pass-through]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
 last_reviewed: 2026-07-05
 ---
@@ -62,7 +62,7 @@ Homestead Tax Option as a quasi-experiment, find essentially the same: **~14%
 shifting** onto renters. Against these,
 [Tsoodle & Turner (2008)](/wiki/tsoodle-turner-rents/) find US property taxes *do*
 raise rents (~$400–450 per year per standard deviation of rate), and
-[Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/), exploiting ~5,200
+[Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/), exploiting ~5,200
 German municipal reforms, find **full pass-through to rents within three years**.
 All four measure the *building-inclusive* property tax; notably, Löffler &
 Siegloch's own heterogeneity result — pass-through falls as housing supply becomes
@@ -90,7 +90,7 @@ caveats a fair reader should know:
   (Orr 1968; Carroll & Yinger; Schwegman & Yinger) against real pass-through in
   others ([Tsoodle & Turner](/wiki/tsoodle-turner-rents/); Heinberg & Oates 1970;
   Dusansky et al. 1981; and fully, in Germany,
-  [Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/)). The outcome's claim
+  [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/)). The outcome's claim
   survives because it concerns the **land** component — where theory is unanimous
   and the Danish land-tax evidence points — not because the property-tax record is
   clean. Anyone quoting this page should preserve that distinction.

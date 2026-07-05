@@ -46,6 +46,8 @@ That said, the paper itself makes **no policy argument about land value taxation
 
 ## See Also
 
+- [Moritz Schularick](/wiki/moritz-schularick/)
+
 - [Deciphering the Fall and Rise in the Net Capital Share (Rognlie 2015)](/wiki/rognlie-capital-share/)
 - [Land is Back, It Should Be Taxed, It Can Be Taxed (Bonnet et al. 2021)](/wiki/bonnet-land-is-back/)
 - [Rethinking the Economics of Land and Housing (Ryan-Collins, Lloyd & Macfarlane 2017)](/wiki/ryan-collins-rethinking-land-housing/)

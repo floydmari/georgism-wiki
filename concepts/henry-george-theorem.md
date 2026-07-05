@@ -24,6 +24,8 @@ The theorem gives Georgism a rigorous foundation in mainstream theory: it is not
 
 ## See Also
 
+- [Optimal City Size](/wiki/optimal-city-size/)
+
 - [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [ATCOR](/wiki/atcor/)
 
 ## Sources

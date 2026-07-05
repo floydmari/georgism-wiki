@@ -21,6 +21,8 @@ Because the value of housing is dominated by the value of the **land** underneat
 
 ## Bears On
 
+- [Matthew Rognlie](/wiki/matthew-rognlie/)
+
 - **Outcome:** [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - **Long-run price evidence:** [Knoll, Schularick & Steger (2017)](/wiki/knoll-schularick-steger-house-prices/) — 140 years of house-price data showing the post-1950 boom is overwhelmingly a land-price boom, the historical counterpart to Rognlie's decomposition
 

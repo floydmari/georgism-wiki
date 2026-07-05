@@ -92,6 +92,8 @@ carries both readings, attributed; the dispute is unresolved in the literature.
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the cycle literature this feeds
 - [Economic Rent](/wiki/economic-rent/)
 
+- [Production Boundary](/wiki/production-boundary/) · [2008 Financial Crisis](/wiki/2008-financial-crisis/) · [Rentier](/wiki/rentier/) — related pages from the comprehensiveness sweep
+
 ## Sources
 
 1. "FIRE economy" (etymology and SIC Division H background): the acronym appears in

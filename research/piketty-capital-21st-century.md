@@ -183,6 +183,8 @@ literature; it is not, on its own terms, a source *for* the land-specific claim.
 
 ## See Also
 
+- [Thomas Piketty](/wiki/thomas-piketty/)
+
 - [Deciphering the Fall and Rise in the Net Capital Share (Rognlie 2015)](/wiki/rognlie-capital-share/)
 - [A Note on Piketty and Diminishing Returns to Capital (Rognlie 2014)](/wiki/rognlie-piketty-note/)
 - [Land is Back, It Should Be Taxed, It Can Be Taxed (Bonnet et al. 2021)](/wiki/bonnet-land-is-back/)

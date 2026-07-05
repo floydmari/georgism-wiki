@@ -184,6 +184,62 @@ lint, so the tech-rents drafts shipped with supports_outcomes:[] + prose notes, 
 same commit as the outcome page. (3) Concurrent agents must not share file ownership — disjoint
 edit sets per agent worked with zero conflicts across ~45 agents.
 
+
+## [COMPREHENSIVENESS] Invocation 1 — the source-corpus audit loop, built and run (2026-07-04)
+
+New invokable loop (LOOP-COMPREHENSIVENESS.md) per Floyd's directive: re-mine the SOURCES (not the
+wiki pages) so the wiki is cohesive with respect to everything its corpus substantively treats,
+with a dedicated people channel for repeat contributors. Built after 13 concurrent Sonnet scanners
+exhausted the session quota with all reports lost — the replacement architecture runs on GLM via
+local ollama at ZERO Claude quota: local fetch (HTML/pdftotext) + GLM extraction, resumable JSONL.
+Claude concurrency now capped at 3-4 everywhere (LOOP.md guardrail).
+
+Numbers: 136 sources swept (64 full texts) + 46 deep full-text re-scans at the verified 1M-token
+window (needle tests: 273k and 635k chars pass; num_ctx raised from 262144 after T1 caught the
+truncation risk). ~200 raw candidates -> T1 triage -> 29 stubs (11 researcher people pages closing
+the authors-channel gap, 5 places, 7 concepts, 2 events, 1 org, 1 objection + earlier batch),
+4 backfilled to full pages same-day via corpus-aware single-call GLM drafting (grounding check:
+every number verified against supplied corpus; 3 flagged were correct constitutional facts).
+
+Whole-corpus cohesion audit (257 pages, one 592k-char call, 36s): 25 findings — the high-severity
+one (BC page's stale SVT rates contradicting the fresh Vancouver page) plus a Hoyt date error,
+a Harrison forecast-lead-time conflation, an Estonia date vagueness, and 6 missing cross-links all
+FIXED same-day; scope-split, terminology, and gap items queued as [COHESION]/[DRAFT] tasks.
+
+T1-gate catches on GLM output this invocation (external-model rule working): a factual inversion
+(NZ stub claiming Gemmell supports construction effects — it's our recorded null result), a
+systematic /wiki/<category>/ link-format bug in 23 drafts, an 'entire secular rise' overstatement,
+an uncertain Book-V attribution, 12 over-length excerpts, and an objection missing its enforced
+template sections. Cost profile: entire invocation used ~6 GLM calls' worth of Claude context for
+review; all scanning/drafting tokens were external.
+
+
+## Waves 6-8 — the main loop on the GLM executor (2026-07-04/05)
+
+LOOP.md now runs T2 volume on glm-5.2:cloud (scripts/glm_draft_worker.py: local source fetch,
+full corpus digest in the 1M window, template+exemplar, parallel workers, zero Claude quota);
+Claude subagents (capped 3-4) only for open-web forage; Fable is the T1 gate.
+
+- Wave 1 (12 drafts): Great Mortgaging (full text; honest supports:[]), Zingales, Akcigit-Ates,
+  CEA 2016 (corporate-rents outcome -> 8 supporters); conservative no-figure drafts for paywalled
+  Hilber-Vermeulen + Davis-Heathcote; concepts site-value, law-of-rent, boom-bust-cycle,
+  tiebout-model, rentier, land-speculation.
+- Wave 2 (12): Phase-1 concepts queue COMPLETE (22->40 incl. betterment-levy, ebcor, land-bubble,
+  marginal-productivity, land-as-commons); 5 stubs backfilled (arnott, rognlie, spencer,
+  superstar-firms, fire-sector); Korinek-Ng + Rochet-Tirole as context pages — T1 stripped
+  Korinek's supports_outcomes (fetch failed; no-source pages don't count as outcome evidence).
+- Claude forage pair: england-zhao-lvt-distribution and loffler-siegloch-german-pass-through —
+  the two honest COUNTER-EVIDENCE pages, wired as challenged_by on the progressivity and
+  incidence outcomes. Both outcomes now show jurisdiction-dependence/counter-readings in
+  frontmatter, not just support.
+- Wave 3: 10 more stub backfills (churchill, clark, tiebout, rothbard, mass-appraisal, 2008,
+  production-boundary, NZ, chicago, norway).
+
+T1-gate pattern holding: every GLM draft passes automated structural + grounding checks; fetch-
+failed research drafts ship conservative (years/DOIs only) at Light scan or lose their
+supports_outcomes claim. people/floyd-marinescu created at the subject's request (NPOV, [VERIFY]
+for backfill).
+
 Update this log at the end of each loop (or wave) so the descriptive record stays in step with
 `git log`.
 
@@ -202,9 +258,9 @@ snippets per claim, exact-phrase matches for quotes). Session WebSearch quota ra
    single-tax-narrative, community-creates-land-value, the-housing-crisis-is-a-land-crisis,
    citizens-dividend-narrative. Inbound links wired from concept twins + outcome pages.
 2. The three source-gap narratives + their prerequisite research pages:
-   ecological-rent ← barnes-who-owns-the-sky + song-zenou-property-tax-sprawl;
+   ecological-rent ← barnes-sky-trust + song-zenou-property-tax-sprawl;
    the-corruption-of-economics ← blaug-henry-george-rebel (the anti-Gaffney counter-source);
-   the-great-land-robbery ← fairlie-enclosure-history (with Clark & Clark 2001 revisionist
+   the-great-land-robbery ← fairlie-short-history-enclosure (with Clark & Clark 2001 revisionist
    counter-evidence on the same page). **WS2 COMPLETE: 12/12.** Registry +29 rows (~231→260).
 3. Wrap-up: BACKLOG resume block, ROADMAP WS2 ✅, sheet snapshot, this entry.
 

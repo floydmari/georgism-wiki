@@ -22,7 +22,7 @@ written for popular Georgist outlets on exporting the Alaska model.[2]
 ## See Also
 
 - [Widerquist & Howard (2012)](/wiki/widerquist-howard-pfd/) — the edited volume
-- [Citizen's Dividend](/wiki/citizens-dividend/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
+- [Citizen's Dividend](/wiki/citizens-dividend/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/) · [Alaska](/wiki/alaska/)
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
 
 ## Sources

@@ -191,6 +191,8 @@ in a different domain by a mainstream economist working entirely outside the Geo
 
 ## See Also
 
+- [Jan Eeckhout](/wiki/jan-eeckhout/)
+
 - [De Loecker, Eeckhout & Unger (2020) — The Rise of Market Power and the Macroeconomic Implications](/wiki/de-loecker-eeckhout-unger-markups/)
 - [Superstar Firms](/wiki/superstar-firms/)
 - [Autor, Dorn, Katz, Patterson & Van Reenen — The Fall of the Labor Share and the Rise of Superstar Firms](/wiki/autor-superstar-firms/)

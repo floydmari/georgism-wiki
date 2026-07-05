@@ -41,7 +41,7 @@ his method and found some partial shifting;[3] Dusansky, Ingber & Karatjas (1981
 *JUE*, Suffolk County NY) found substantial forward shifting (secondary sources
 disagree on whether full).[4] Tsoodle & Turner is the modern, better-controlled
 member of the shifting-happens side. The modern quasi-experimental members of each
-side are [Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/) (full
+side are [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) (full
 pass-through, Germany) and
 [Schwegman & Yinger](/wiki/schwegman-yinger-homestead/) (~14% shifting, New York).
 
@@ -54,7 +54,7 @@ author-hosted PDF exists (k-state.edu, unfetched). Scan depth **Light**.
 ## Bears On
 
 - **Outcome (challenges):** [Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) — for the property tax, not the land component
-- **Research:** [Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/) · [Schwegman & Yinger](/wiki/schwegman-yinger-homestead/)
+- **Research:** [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) · [Schwegman & Yinger](/wiki/schwegman-yinger-homestead/)
 
 ## See Also
 

@@ -194,6 +194,8 @@ values — is among the better-evidenced propositions in the wiki:
 
 ## See Also
 
+- [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
+
 - [Unearned Increment](/wiki/unearned-increment/) — the concept this narrative deploys
 - [John Stuart Mill](/wiki/john-stuart-mill/) · [Henry George](/wiki/henry-george/) — the argument's authors
 - [1909 People's Budget](/wiki/1909-peoples-budget/) — its biggest political test

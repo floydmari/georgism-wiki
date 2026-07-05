@@ -90,6 +90,8 @@ set the terms on which George was forgotten, whatever the motive.
 - [Henry George](/wiki/henry-george/) · [Mason Gaffney](/wiki/mason-gaffney/)
 - [Land Monopoly](/wiki/land-monopoly/) — the concept whose analytical basis the merger dissolved
 
+- [Marginal Productivity](/wiki/marginal-productivity/) · [Richard T. Ely](/wiki/richard-t-ely/) · [Missemer & Pottier — land, labor, capital](/wiki/missemer-pottier-land-labor-capital/) — related pages from the comprehensiveness sweep
+
 ## Sources
 
 1. John Bates Clark, *The Distribution of Wealth: A Theory of Wages, Interest and

@@ -16,7 +16,7 @@ Harrison's first major work, *The Power in the Land* (1983), applied Georgist an
 
 ## Predicting the 2008 Crisis
 
-Harrison's most celebrated contribution was his 1997 prediction — in the book *The Chaos Makers* and subsequently in *Boom Bust* (2005) — that the next major financial crisis would arrive around 2007–2010. The prediction was based on the 18-year land cycle: a recurrent pattern in which land prices rise, attract speculative credit, reach an unsustainable peak, and collapse, dragging the wider economy with them. The cycle had been identified by economists including [Homer Hoyt](/wiki/homer-hoyt/) (who traced it in Chicago from 1830 to 1930) and was consistent with George's analysis of how land speculation generates economic instability.
+Harrison's most celebrated contribution was his 1997 prediction — in the book *The Chaos Makers* and subsequently in *Boom Bust* (2005) — that the next major financial crisis would arrive around 2007–2010. The prediction was based on the 18-year land cycle: a recurrent pattern in which land prices rise, attract speculative credit, reach an unsustainable peak, and collapse, dragging the wider economy with them. The cycle had been identified by economists including [Homer Hoyt](/wiki/homer-hoyt/) (who traced it in Chicago from 1830 to 1933) and was consistent with George's analysis of how land speculation generates economic instability.
 
 The 2008 collapse confirmed the prediction with notable accuracy.
 

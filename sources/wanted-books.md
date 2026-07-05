@@ -31,7 +31,7 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 | **Andelson (ed.), *Critics of Henry George* (2nd ed., 2 vols., Blackwell 2003)** | The standard compendium of academic critiques — would strengthen every objection page's steelman quality and the Blaug/Gaffney historiography pair. Not in registry. |
 | **Phillip Bryson, *The Economics of Henry George* (Palgrave, 2011)** | Neutral academic treatment of why the profession sidelined George — second counter-source for the corruption narrative. Not in registry. |
 | **Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997)** | The standard history of economic theory; grounds the marginalism chronology now cited from abstracts. Not in registry. |
-| **J.M. Neeson, *Commoners* (CUP, 1993)** | The archival study of common right — would let [fairlie-enclosure-history](../research/fairlie-enclosure-history.md) carry primary-quality detail on both sides of the Clark & Clark dispute. Registry: Light. |
+| **J.M. Neeson, *Commoners* (CUP, 1993)** | The archival study of common right — would let [fairlie-short-history-enclosure](../research/fairlie-short-history-enclosure.md) carry primary-quality detail on both sides of the Clark & Clark dispute. Registry: Light. |
 | **T.M. Devine, *The Scottish Clearances* (2018)** | Sober scholarly source for the [great-land-robbery narrative](../narratives/the-great-land-robbery.md)'s Scotland section. Registry: Light. |
 | **Stuart Banner, *How the Indians Lost Their Land* (Harvard, 2005)** | The conquest-via-law account; same narrative's North America section. Registry: Light. |
 | **Pete Daniel, *Dispossession* (UNC Press, 2013)** | USDA discrimination record behind the Black land-loss figures. Registry: Light. |

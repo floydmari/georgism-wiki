@@ -36,7 +36,7 @@ directly rather than through the synthesis.
 
 - **It is about a land tax, not a property tax.** Nearly all pass-through evidence
   ([Tsoodle & Turner](/wiki/tsoodle-turner-rents/),
-  [Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/),
+  [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/),
   [Schwegman & Yinger](/wiki/schwegman-yinger-homestead/),
   [Carroll & Yinger](/wiki/carroll-yinger-benefit-tax-rental/)) concerns taxes
   that include structures. Denmark's grundskyld isolates the land base — the

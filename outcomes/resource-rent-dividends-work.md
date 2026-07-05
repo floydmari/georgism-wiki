@@ -41,6 +41,8 @@ The full evidence wiring for this outcome (each page carries its external citati
 
 ## See Also
 
+- [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
+
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Resource Rents](/wiki/resource-rents/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
 
 ## Sources

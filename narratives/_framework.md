@@ -336,7 +336,7 @@ the narrative page covers its persuasive career from
 - **Evidence-strength ranking** (strongest first, per the outcome pages):
   2 · 5 · 3 · 4 · 7 · 10 · 8 · 6 · 1 · 12 · 11 · 9. Narratives 9, 11, and 12 shipped
   2026-07-05 after their prerequisite sources were registered
-  ([Barnes](/wiki/barnes-who-owns-the-sky/), [Fairlie](/wiki/fairlie-enclosure-history/),
+  ([Barnes](/wiki/barnes-sky-trust/), [Fairlie](/wiki/fairlie-short-history-enclosure/),
   [Blaug](/wiki/blaug-henry-george-rebel/)). **All twelve narratives are now drafted.**
 - **Inbound links:** when a narrative page ships, add a link *to* it from its concept
   twin (e.g., [unearned increment](/wiki/unearned-increment/) →

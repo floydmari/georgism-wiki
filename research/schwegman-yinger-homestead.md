@@ -17,7 +17,7 @@ supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 "The Shifting of the Property Tax on Urban Renters" by **David J. Schwegman** and
 **John Yinger** (US Census Bureau Center for Economic Studies Working Paper
 CES-WP-20-43, 2020) is the modern US quasi-experimental counterpart to the German
-[Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/) study — and it points
+[Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) study — and it points
 the other way. Exploiting New York State's 1981 **Homestead Tax Option** (which
 lets municipalities tax larger rental buildings at higher rates than
 owner-occupied homes) with within-unit variation in restricted American Housing
@@ -49,7 +49,7 @@ approximate until the PDF is read. Scan depth **Light**.
 ## Bears On
 
 - **Outcome:** [Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
-- **Research:** [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/) · [Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/) · [Tsoodle & Turner](/wiki/tsoodle-turner-rents/)
+- **Research:** [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/) · [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) · [Tsoodle & Turner](/wiki/tsoodle-turner-rents/)
 
 ## See Also
 

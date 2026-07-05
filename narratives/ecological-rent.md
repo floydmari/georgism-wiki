@@ -34,7 +34,7 @@ rent of the earth becomes every citizen's property income
 ## Who Promotes It
 
 - **Peter Barnes** gave the narrative its flagship design: the **Sky Trust**
-  ([*Who Owns the Sky?*](/wiki/barnes-who-owns-the-sky/), 2001) — cap carbon,
+  ([*Who Owns the Sky?*](/wiki/barnes-sky-trust/), 2001) — cap carbon,
   auction permits, pay every citizen an equal dividend, on the model of the
   [Alaska Permanent Fund](/wiki/alaska-permanent-fund/).[1]
 - **[Alanna Hartzok](/wiki/alanna-hartzok/)** and the earth-rights strand of the
@@ -161,7 +161,7 @@ says so:
 ## See Also
 
 - [Ecological Georgism](/wiki/ecological-georgism/) — the concept this narrative deploys
-- [Who Owns the Sky? (Barnes)](/wiki/barnes-who-owns-the-sky/) — the flagship design
+- [Who Owns the Sky? (Barnes)](/wiki/barnes-sky-trust/) — the flagship design
 - [Resource Rents](/wiki/resource-rents/) · [Resource-rent dividends work](/wiki/resource-rent-dividends-work/)
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/) — the sibling ownership story
 - [Georgism](/wiki/georgism/) — the wider philosophy
@@ -171,7 +171,7 @@ says so:
 1. Peter Barnes, *Who Owns the Sky? Our Common Assets and the Future of
    Capitalism*, Island Press, 2001.
    [Publisher](https://islandpress.org/books/who-owns-sky) ·
-   [wiki summary](/wiki/barnes-who-owns-the-sky/) — used for the Sky Trust design
+   [wiki summary](/wiki/barnes-sky-trust/) — used for the Sky Trust design
    and the cap-and-dividend legislative lineage documented on the wiki page
    (A/C-claims).
 2. Karl Fitzgerald, *Total Resource Rents of Australia: Harnessing the Power of

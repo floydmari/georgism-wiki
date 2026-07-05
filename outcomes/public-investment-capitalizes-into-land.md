@@ -34,6 +34,8 @@ The full evidence wiring for this outcome (each page carries its external citati
 
 ## See Also
 
+- [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
+
 - [Land Value Capture](/wiki/land-value-capture/) · [Henry George Theorem](/wiki/henry-george-theorem/) · [Unearned Increment](/wiki/unearned-increment/)
 
 ## Sources

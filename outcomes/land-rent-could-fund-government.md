@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, revenue-sufficiency, atcor, land-rent]
 stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"
-supported_by: [gaffney-hidden-taxable-capacity, mirrlees-review, natural-common-wealth-economic-rent-canada, larson-us-land-value, albouy-ehrlich-shin-metro-land, world-bank-changing-wealth]
+supported_by: [gaffney-hidden-taxable-capacity, mirrlees-review, natural-common-wealth-economic-rent-canada, larson-us-land-value, albouy-ehrlich-shin-metro-land, world-bank-changing-wealth, davis-heathcote-us-land]
 excerpt: "Estimates of total land rent suggest it could fund a substantial fraction — by some accounts most — of government, though figures are sensitive to assumptions."
 ---
 

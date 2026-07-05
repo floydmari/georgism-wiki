@@ -20,6 +20,8 @@ The authors find that an LVT can improve **both efficiency and equity** in agglo
 
 ## Bears On
 
+- [Agglomeration Economies](/wiki/agglomeration-economies/)
+
 - **Outcome:** [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 
 ## Sources

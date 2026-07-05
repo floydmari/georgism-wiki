@@ -24,6 +24,10 @@ The thesis is controversial and contested by historians of economic thought, but
 
 ## Bears On
 
+- [Missemer & Pottier (2025) — the historiographical counter-assessment](/wiki/missemer-pottier-land-labor-capital/)
+
+- [Richard T. Ely](/wiki/richard-t-ely/)
+
 - **People:** [Mason Gaffney](/wiki/mason-gaffney/) · [Henry George](/wiki/henry-george/) · [John Bates Clark](/wiki/john-bates-clark/)
 - **Concept:** [Land Monopoly](/wiki/land-monopoly/)
 - **Narrative:** [The Corruption of Economics](/wiki/the-corruption-of-economics/) — the persuasive deployment, with both historiographies mapped

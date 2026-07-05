@@ -47,6 +47,8 @@ This paper's relationship to the Georgist case is best described as **complicati
 
 ## See Also
 
+- [New Zealand](/wiki/new-zealand/)
+
 - [Plassmann & Tideman (2000): Two-Rate Property Taxes and Construction](/wiki/plassmann-tideman-construction/)
 - [Oates & Schwab (1997): The Pittsburgh Experience](/wiki/oates-schwab-pittsburgh/)
 - [Outcome: Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)

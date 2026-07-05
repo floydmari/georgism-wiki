@@ -49,7 +49,7 @@ honour the pirate's vested rights, and the statute of limitations cannot sanctif
   rules of property and law laid down by a parliament of property-owners and
   lawyers."[2]
 - Modern movement usage runs through the enclosure literature
-  ([Fairlie's history](/wiki/fairlie-enclosure-history/)) and, in North America,
+  ([Fairlie's history](/wiki/fairlie-short-history-enclosure/)) and, in North America,
   through reckonings with indigenous and Black land dispossession.[5][6]
 
 ## Research That Supports It
@@ -60,7 +60,7 @@ enough to matter — is well documented:
 - **British enclosure.** Some 4,000 Acts of Parliament converted about 7 million
   acres (roughly one sixth of England) from common to enclosed land between 1760
   and 1870, atop centuries of earlier enclosure
-  ([Fairlie](/wiki/fairlie-enclosure-history/); Parliament's own count: 5,200+
+  ([Fairlie](/wiki/fairlie-short-history-enclosure/); Parliament's own count: 5,200+
   bills, 1604–1914, just over a fifth of England).[3] The Scottish record —
   Lowland and Highland clearances — is surveyed soberly in Devine's *The Scottish
   Clearances* (2018).[4]
@@ -137,7 +137,7 @@ enough to matter — is well documented:
 ## Historical Examples
 
 - **English enclosure (16th–19th c.)** — the canonical case; see
-  [Fairlie's history](/wiki/fairlie-enclosure-history/) with the Clark & Clark
+  [Fairlie's history](/wiki/fairlie-short-history-enclosure/) with the Clark & Clark
   counter-reading carried on the same page.[3]
 - **The Scottish Clearances (1600–1900)** — Lowland and Highland dispossession by
   eviction and lease non-renewal.[4]
@@ -177,7 +177,7 @@ enough to matter — is well documented:
 
 ## See Also
 
-- [A Short History of Enclosure in Britain (Fairlie)](/wiki/fairlie-enclosure-history/) — the British backbone, with counter-evidence
+- [A Short History of Enclosure in Britain (Fairlie)](/wiki/fairlie-short-history-enclosure/) — the British backbone, with counter-evidence
 - [The Land Question](/wiki/the-land-question/) · [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) — George's own statements
 - [Land Monopoly](/wiki/land-monopoly/) — the structural claim
 - [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) — the strongest reply
@@ -204,7 +204,7 @@ enough to matter — is well documented:
    Gregory Clark & Anthony Clark, "Common Rights to Land in England, 1475–1839,"
    *Journal of Economic History* 61(4), 2001
    ([author PDF](https://faculty.econ.ucdavis.edu/faculty/gclark/papers/commons.pdf))
-   · [wiki summary of all three](/wiki/fairlie-enclosure-history/) — used for the
+   · [wiki summary of all three](/wiki/fairlie-short-history-enclosure/) — used for the
    enclosure figures and the revisionist magnitudes (A/B/E-claims).
 4. T.M. Devine, *The Scottish Clearances: A History of the Dispossessed,
    1600–1900*, Allen Lane, 2018. — used for the Scotland-wide dispossession record

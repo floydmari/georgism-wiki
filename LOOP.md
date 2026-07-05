@@ -17,7 +17,18 @@ Each `BACKLOG.md` task is tagged `tier:T1|T2|T3`. Only pick tasks matching your 
 
 If you are unsure whether a task needs T1 judgment, leave it for T1.
 
-**External models as T2/T3 (e.g. ollama-cloud GLM):** tiers are roles, not models. A non-Claude
+**GLM IS THE DEFAULT T2/T3 EXECUTOR (2026-07-04).** Volume drafting runs on glm-5.2:cloud via
+`scripts/glm_draft_worker.py` (tasks.json in, drafts + report JSONL out, 6+ parallel workers,
+zero Claude session quota): it fetches sources locally (HTML/pdftotext — local egress works),
+loads the FULL corpus digest + template + exemplar into GLM's 1M window, and drafts with the
+never-fabricate rules baked in. The stub/backfill/cohesion equivalents are
+`scripts/comprehensiveness_sweep_glm.py` and `scripts/cohesion_audit_glm.py`. Parallelize at the
+GLM layer, not the Claude layer. Claude subagents (<=3-4 concurrent, per Guardrails) are reserved
+for what GLM cannot do: open-web verification/forage tasks ("agent verifies best cite"), and
+judgment-heavy T1 work. EVERY GLM draft gets the stricter T1 review before commit: grounding
+check (numbers/quotes vs supplied material), link/format check, honesty-of-wiring check.
+
+**External models as T2/T3 (original rationale):** tiers are roles, not models. A non-Claude
 model runs a drafting task via `scripts/llm_worker.py` (env: `LLM_API_KEY`, `LLM_BASE_URL`,
 `LLM_MODEL`). Because such models have **no web access or lint tools**, the driver forbids them
 from citing anything not supplied in the task context (they must use `[CITATION NEEDED]` instead),
@@ -117,6 +128,10 @@ missed stubs in every category + the authors channel). Invoked separately, after
 campaigns; never run concurrently with a drafting wave.
 
 ## Guardrails
+- **Concurrency cap:** never run more than 3–4 concurrent Claude subagents — Claude session
+  limits are the binding constraint (13 concurrent scanners burned a full quota on 2026-07-04).
+  Volume scan/extract work goes to the near-free external-model path first (`scripts/llm_worker.py`,
+  `scripts/comprehensiveness_sweep_glm.py` — GLM via local ollama, zero session quota).
 - GitHub first, Ghost second, always via `scripts/sync_to_ghost.py`.
 - Never delete an article; never fabricate a citation; ≤50 words quoted; free/legal sources.
 - One task per iteration keeps commits reviewable and the preview diff legible.

@@ -24,6 +24,8 @@ For comparative and historical questions about where and how land value taxation
 
 ## See Also
 
+- [Proposition 13 (1978)](/wiki/proposition-13/)
+
 - [Land Value Tax](/wiki/land-value-tax/) · [Assessing the Theory and Practice of LVT](/wiki/dye-england-assessing-lvt/) · [Georgism](/wiki/georgism/)
 
 ## Sources

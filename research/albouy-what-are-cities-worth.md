@@ -63,6 +63,8 @@ The assigned second wiring, **land-rent-could-fund-government**, is **not suppor
 
 ## See Also
 
+- [David Albouy](/wiki/david-albouy/)
+
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Henry George Theorem](/wiki/henry-george-theorem/)
 - [Economic Rent](/wiki/economic-rent/)
