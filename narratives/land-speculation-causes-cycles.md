@@ -85,6 +85,16 @@ rather than merely regulating the credit that finances it.
   narrative says drives the cycle: land or housing held empty for anticipated capital
   gain rather than use, measured directly by [Prosper Australia](/wiki/prosper-australia/)
   using water-consumption data.
+- **Doucet's modern synthesis of the speculation mechanism.** Lars Doucet's
+  *Land is a Big Deal* (Chs. 7–8) provides the most accessible modern restatement of
+  George's land-speculation theory, framing it as a structural feature of unregulated
+  land markets: when land can be held cheaply (no LVT, low holding costs), the expected
+  capital gain from waiting exceeds the return from developing, so land is systematically
+  underused during booms and dumped during busts — amplifying the cycle's amplitude.
+  Doucet also cites Michael Hudson's finding that "most land rent is paid out as interest
+  to banks and that bank credit is a major driver of increases in housing prices" (Ch. 16),
+  bridging the Georgist and credit-cycle readings by locating the causal engine in the
+  land-collateral channel. See [[books/land-is-a-big-deal]].
 - **Outside academic validation of the prediction record.** Dirk Bezemer's 2009
   cross-analyst survey of who anticipated the 2008 crisis in advance, and why, lists
   Harrison and Foldvary among roughly a dozen analysts who issued detailed, public,
@@ -358,3 +368,7 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     [PDF (NBER)](https://www.nber.org/system/files/working_papers/w20501/w20501.pdf) —
     used as the representative mainstream credit-centred account of housing-linked
     financial crises that the narrative must answer (E-claim).
+14. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Chs. 7–8, 16 —
+    used for the modern restatement of George's land-speculation theory as a structural
+    feature of unregulated land markets and Hudson's bank-credit finding (A/B-claim).
+    See [[books/land-is-a-big-deal]].
