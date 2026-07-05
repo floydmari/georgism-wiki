@@ -237,6 +237,12 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [x] [DRAFT] tier:T2 — banzhaf-lavery-pa-sprawl — Banzhaf & Lavery 2010 (important; also anti-sprawl)
 - [x] [DRAFT] tier:T2 — gemmell-grimes-skidmore-nz — Gemmell, Grimes & Skidmore 2019 (important) — NULL RESULT for new construction (Auckland, confounded reform, short window); supports_outcomes:[] per honesty rule; cited as caveat in the outcome body instead
 - [x] [DRAFT] tier:T2 — yang-split-rate-tax-base — Yang 2018/2021 Lincoln (important; registry row exists)
+- [ ] [DRAFT] tier:T2 status:todo — research/yang-lvt-sprawl candidate: Zhou Yang, "Differential
+      Effects of Land Value Taxation," J. Housing Economics 39 (2018) 33-39 — reportedly the first
+      quasi-experimental estimate of split-rate effects on PA sprawl (four decades of
+      adoptions/rescissions). FINDING DIRECTION UNVERIFIED from snippets — read the abstract
+      (Lincoln WP: lincolninst.edu/app/uploads/legacy-files/pubfiles/yang_wp21zy1.pdf) BEFORE
+      citing; would strengthen (or honestly qualify) lvt-reduces-sprawl beyond 5/5.
 **Affordability** (→ lvt-improves-housing-affordability):
 - [x] [DRAFT] tier:T2 — saiz-housing-supply-elasticity — Saiz 2010 (core)
 - [x] [DRAFT] tier:T2 — glaeser-gyourko-housing-supply — Glaeser & Gyourko 2018 JEP (core)

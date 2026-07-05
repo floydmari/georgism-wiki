@@ -3,8 +3,9 @@ title: "Land value taxation reduces urban sprawl"
 category: outcomes
 tags: [outcomes, sprawl, density, split-rate, land-use, empirical]
 stub: false
-evidence_strength: "Weak–moderate (single direct study showing density increase; authors explicitly decline to claim sprawl reduction)"
-supported_by: [banzhaf-lavery-pa-sprawl, tomson-estonia-lvt, brueckner-site-value-taxation]
+evidence_strength: "Moderate for the density mechanism (observational + cross-city + simulation + supportive review); the metro-level sprawl claim itself remains inferential, and the Bentick–Mills timing critique is carried as counter-evidence"
+supported_by: [banzhaf-lavery-pa-sprawl, tomson-estonia-lvt, brueckner-site-value-taxation, cho-two-rate-density, taranu-verbeeck-property-tax-sprawl]
+challenged_by: [bentick-mills-timing-neutrality]
 related_places: [pennsylvania, pittsburgh, harrisburg-pennsylvania]
 excerpt: "Split-rate taxation increases housing density in the locations where it is applied — the mechanism anti-sprawl arguments predict — but whether this reduces sprawl at the metropolitan level depends on where the tax is adopted."
 last_reviewed: 2026-07-05
@@ -31,6 +32,18 @@ adjacent property-tax evidence — which should not be conflated:
 | Direct (density channel) | [Banzhaf & Lavery (2010)](/wiki/banzhaf-lavery-pa-sprawl/) | Pennsylvania Census tracts, 1970–2000 | Split-rate adoption raises the capital/land ratio mainly through **more housing units** (4–5 pp/decade relative to controls), not bigger ones; effect concentrated in **multi-unit structures** (5+ units: ~12–22 pp increase); effect on detached single-family houses **negative** (not significant) |
 | Direct (cross-city comparison) | [Tomson (2016)](/wiki/tomson-estonia-lvt/) | Tallinn (pure land tax since 1993) vs Riga | **Higher inner-city density and more construction** under the land-only tax — suggestive rather than definitive, as the cities differ in other ways |
 | Adjacent (property tax) | [Song & Zenou (2006)](/wiki/song-zenou-property-tax-sprawl/) | US urbanized areas, 2000 | Higher *conventional property* taxes associated with **smaller urban footprints** — anti-sprawl in direction, but via a partly opposite mechanism (discouraging structures), so it is cited here as adjacent context, not as LVT evidence, and is deliberately not wired as a supporting paper |
+| Simulation | [Cho, Kim, Lambert & Roberts (2013)](/wiki/cho-two-rate-density/) | Nashville–Davidson Co., revenue-neutral two-rate simulation | Residential density **+18%** (general services districts) and **+83%** (urban services districts) — the most concrete magnitudes available, from a calibrated model rather than an adopted tax; companion papers on the same data count as one line of evidence |
+| Review | [Taranu & Verbeeck (2022)](/wiki/taranu-verbeeck-property-tax-sprawl/) | Systematic review of ex-post studies, *Land Use Policy* | Property taxation incl. split-rate designs **can reduce sprawl when the design is right** — the design-conditional framing this page's caveats adopt |
+
+**Counter-evidence — the timing critique.** The
+[Bentick (1979)–Mills (1981) development-timing literature](/wiki/bentick-mills-timing-neutrality/)
+(wired as `challenged_by`) shows a land tax assessed on **market value** biases
+owners toward quick-yield projects and can *hasten* fringe conversion — the
+opposite of the anti-sprawl claim. Tideman's 1982 rebuttal locates the flaw in the
+assessment basis (taxing development-option value) rather than in land taxation
+itself; the wiki carries the full exchange. Practical upshot: the anti-sprawl case
+is strongest for site-value assessment, and any deployment citing this outcome
+should say so.
 
 Banzhaf & Lavery's distinctive contribution is their **decomposition** of the improvement effect into a density channel and a dwelling-size channel. Using decade-over-decade Census data at the tract level, they find that the increase in total rooms per unit of land area (5–6 percentage points over two decades) is driven overwhelmingly by **more housing units**, while the effect on rooms per dwelling unit is small and statistically insignificant in most specifications. Construction of multi-unit structures with five or more dwelling units rises sharply; detached single-family construction does not. This is the pattern an anti-sprawl mechanism would predict: denser infill, not larger houses on the same lots.
 
