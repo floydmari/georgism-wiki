@@ -7,6 +7,7 @@ year: 2021
 source_url: https://www.astralcodexten.com/p/does-georgism-work-is-land-really
 tier: core
 stub: false
+supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 excerpt: "Lars Doucet's three-part empirical investigation of the main objections to LVT — land's magnitude, tax incidence, and assessment — published on Astral Codex Ten."
 ---
 

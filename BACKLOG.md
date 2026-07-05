@@ -119,17 +119,22 @@ Wherever the wiki cites a SYNTHESIS (Doucet's ACX series, Andelson's compendium,
 the wiki must itself work through the underlying literature: every research paper the synthesis
 cites gets its own ingestion pass (registry row; research/ page where it carries weight). The
 synthesis then becomes navigation, not load-bearing evidence.
-- [ ] [SCAN] tier:T2 status:in-progress — de-reference Doucet ACX Part 2 (LVT incidence): extract
-      his full citation list; ingest each pass-through study as a research page — candidates to
-      verify: Orr 1968 NTJ, Heinberg & Oates 1970, Hyman & Pasour 1973, Dusansky-Ingber-Karatjas
-      1981 JUE, Tsoodle & Turner 2008 (possible COUNTER-evidence — report direction honestly),
-      England's work. Forage in flight 2026-07-05; wire results into
-      outcomes/landlords-cannot-pass-lvt-to-tenants.
+- [~] [SCAN] tier:T2 status:mostly-done 2026-07-05 — de-reference Doucet ACX Part 2: forage
+      verified the incidence cluster; 4 research pages shipped (tsoodle-turner-rents +
+      loffler-siegloch-property-tax as challenged_by; schwegman-yinger-homestead +
+      dors-land-taxes-housing-prices as supports; Orr/Heinberg-Oates/Dusansky registered as
+      context rows). HONEST FLAG: could NOT confirm Doucet Part 2 actually cites the Orr line —
+      snippets indicate his empirical core is the land-tax CAPITALIZATION literature culminating
+      in the Danish DØRS study (~13 papers per one secondary source). REMAINING: open the ACX
+      article with unblocked access, enumerate the actual 13 citations, diff vs registry, ingest
+      the missing; settle Dusansky 1981 full-vs-partial magnitude; Hyman & Pasour 1973 rents
+      paper could not be verified (only their property-VALUES paper) — do not cite until
+      confirmed.
 - [ ] [SCAN] tier:T2 status:todo — de-reference Doucet ACX Parts 1 & 3 (land value scale;
       assessment) the same way — enumerate citations, diff against registry, ingest the missing.
-- [ ] [DRAFT] tier:T2 status:todo — research/loffler-siegloch (German property-tax→rent
-      pass-through quasi-experiment) — the standing HONEST COUNTER-EVIDENCE task, now also needed
-      by the expanded landlords outcome page.
+- [x] [DRAFT] tier:T2 status:done 2026-07-05 — research/loffler-siegloch-property-tax shipped
+      (IZA DP 14195; full pass-through in 3 years; supply-elasticity heterogeneity noted as
+      cutting toward the land-tax case); wired challenged_by on the landlords outcome.
 - [x] [SCAN-SURVEY] tier:T2 status:done 2026-07-05 — progress.org (non-wiki) surveyed
       (snippet-based; proxy blocks the domain). FINDINGS: independent publication, editors Floyd
       Marinescu + Martin Adams (NOT run by PPI — that's the renamed Schalkenbach Foundation);

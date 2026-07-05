@@ -4,7 +4,8 @@ category: outcomes
 tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"
-supported_by: [doucet-does-georgism-work, mieszkowski-property-tax-incidence, zodrow-three-views, palmon-smith-capitalization, carroll-yinger-benefit-tax-rental]
+supported_by: [doucet-does-georgism-work, mieszkowski-property-tax-incidence, zodrow-three-views, palmon-smith-capitalization, carroll-yinger-benefit-tax-rental, dors-land-taxes-housing-prices, schwegman-yinger-homestead]
+challenged_by: [tsoodle-turner-rents, loffler-siegloch-property-tax]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
 last_reviewed: 2026-07-05
 ---
@@ -38,7 +39,7 @@ converge:
 
 | Source | What it establishes |
 |--------|---------------------|
-| [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/), *J. Public Economics* — the founding "new view" paper | In the general-equilibrium framework, land is the factor that **cannot relocate between jurisdictions at all**, so the land-value portion of any property tax is "borne entirely and only by landowners — capitalized into a lower price for the land." |
+| [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/), *J. Public Economics* — the founding "new view" paper | In the general-equilibrium framework, land is the factor that **cannot relocate between jurisdictions at all**, so the land-value portion of any property tax is borne entirely by landowners, capitalized into a lower land price. |
 | [Zodrow (2001)](/wiki/zodrow-three-views/), *National Tax Journal* — the standard survey of all three incidence views | The traditional, new/capital-tax, and benefit views disagree about who bears the tax on **structures**; none of the three assigns the **land** component to tenants. The claim survives whichever theory wins. |
 | [Doucet (2021)](/wiki/doucet-does-georgism-work/), ACX Part 2 — the popular synthesis | Works through the incidence argument and the empirical pass-through literature for a general audience, concluding the land portion is not passed to tenants. A synthesis, not primary evidence — the studies it surveys are being ingested individually (see backlog). |
 
@@ -52,13 +53,30 @@ full capitalization** under their preferred discount rate. The burden lands in t
 asset price, i.e., on the owner. (Founding study:
 [Oates 1969](/wiki/oates-1969-capitalization/).)
 
-**Rental markets — direct measurement of tenants' rents.**
+**Rental markets — direct measurement, both directions.**
 [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/), *NTJ*, examine
 actual rents across 147 Boston-area municipalities: **a $1.00 property-tax increase
-raises rent by only about $0.15** — landlords absorb roughly 85% directly, and even
-crediting tenants with the value of tax-funded services, landlords bear a
-substantial net burden. Note this measures the *entire* property tax, buildings
-included; the land-only share would be expected to pass through less still.
+raises rent by only about $0.15** — landlords absorb roughly 85% directly.
+[Schwegman & Yinger (2020)](/wiki/schwegman-yinger-homestead/), using New York's
+Homestead Tax Option as a quasi-experiment, find essentially the same: **~14%
+shifting** onto renters. Against these,
+[Tsoodle & Turner (2008)](/wiki/tsoodle-turner-rents/) find US property taxes *do*
+raise rents (~$400–450 per year per standard deviation of rate), and
+[Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/), exploiting ~5,200
+German municipal reforms, find **full pass-through to rents within three years**.
+All four measure the *building-inclusive* property tax; notably, Löffler &
+Siegloch's own heterogeneity result — pass-through falls as housing supply becomes
+inelastic — points exactly where the theory says a pure land tax (perfectly
+inelastic base) sits.
+
+**The land-tax-specific test.** Denmark levies a recurrent tax on land value
+alone, and the [Danish Economic Councils' 2018 study](/wiki/dors-land-taxes-housing-prices/)
+of the 2007 municipal-reform rate changes finds **full capitalization of future
+land taxes into house prices** — the burden lands on the owner at the time of the
+change, leaving no channel to tenants. This is the closest direct test of the
+outcome's actual claim, and the study
+[Doucet's synthesis](/wiki/doucet-does-georgism-work/) treats as culminating
+evidence — now carried on the wiki first-hand.
 
 ## Strength of Evidence — and the Honest Caveats
 
@@ -67,16 +85,21 @@ measurement.** The theoretical result is among the least disputed claims about L
 in economics — it holds in all three rival incidence frameworks. The empirical
 caveats a fair reader should know:
 
-- **Direct rent-pass-through studies are few and mostly older**, and they measure
-  the property tax, not a pure land tax; the literature contains results in both
-  directions for the *building-inclusive* tax. The wiki is ingesting the individual
-  pass-through studies (including any that find pass-through) as their own research
-  pages — see the backlog task below the Doucet row.
-- **Quasi-experimental counter-evidence exists for the property tax:** modern
-  German evidence (Löffler & Siegloch) finds property-tax changes *do* reach rents
-  in institutional settings unlike the US — already flagged in the wiki backlog as
-  a required counter-evidence page. Its bearing on a pure land tax is limited by
-  the building component, but the outcome page will carry it once ingested.
+- **Property-tax pass-through is institution-dependent and genuinely disputed.**
+  The building-inclusive literature splits: no-to-low shifting in the US studies
+  (Orr 1968; Carroll & Yinger; Schwegman & Yinger) against real pass-through in
+  others ([Tsoodle & Turner](/wiki/tsoodle-turner-rents/); Heinberg & Oates 1970;
+  Dusansky et al. 1981; and fully, in Germany,
+  [Löffler & Siegloch](/wiki/loffler-siegloch-property-tax/)). The outcome's claim
+  survives because it concerns the **land** component — where theory is unanimous
+  and the Danish land-tax evidence points — not because the property-tax record is
+  clean. Anyone quoting this page should preserve that distinction.
+- **The land-specific empirical base is one strong study.** The
+  [Danish capitalization result](/wiki/dors-land-taxes-housing-prices/) is
+  well-identified but single-country; replications in other land-taxing
+  jurisdictions (Estonia, Taiwan, Pennsylvania land rates) would materially
+  strengthen the outcome. [CITATION NEEDED: additional quasi-experimental
+  land-tax-specific incidence studies.]
 - **Short-run frictions are real.** The inelastic-supply argument is a long-run
   equilibrium claim; in the short run individual landlords may attempt pass-through
   in tight markets, and the theory says competition unwinds it, not that no tenant
@@ -94,25 +117,20 @@ caveats a fair reader should know:
 1. Peter Mieszkowski (1972), "The Property Tax: An Excise Tax or a Profits Tax?",
    *Journal of Public Economics* 1(1): 73–96.
    [DOI](https://doi.org/10.1016/0047-2727(72)90020-5) ·
-   [wiki summary](/wiki/mieszkowski-property-tax-incidence/) — the land component
-   falls entirely on landowners in the general-equilibrium framework (C-claim).
+   [wiki summary](/wiki/mieszkowski-property-tax-incidence/) — used for the result that the land component falls entirely on landowners in the general-equilibrium framework (C-claim).
 2. George R. Zodrow (2001), "The Property Tax as a Capital Tax: A Room with Three
    Views," *National Tax Journal* 54(1): 139–156.
    [DOI](https://doi.org/10.17310/ntj.2001.1.07) ·
-   [wiki summary](/wiki/zodrow-three-views/) — all three incidence traditions
-   assign the land component to owners (C-claim).
+   [wiki summary](/wiki/zodrow-three-views/) — used for the point that all three incidence traditions assign the land component to owners (C-claim).
 3. Oded Palmon & Barton A. Smith (1998), "New Evidence on Property Tax
    Capitalization," *Journal of Political Economy* 106(5): 1099–1128.
    [DOI](https://doi.org/10.1086/250041) ·
-   [wiki summary](/wiki/palmon-smith-capitalization/) — 62–64% to full
-   capitalization into asset prices (B-claim).
+   [wiki summary](/wiki/palmon-smith-capitalization/) — used for the 62–64%-to-full capitalization into asset prices (B-claim).
 4. Robert Carroll & John Yinger (1994), "Is the Property Tax a Benefit Tax? The
    Case of Rental Housing," *National Tax Journal* 47(2): 295–316.
    [DOI](https://doi.org/10.1086/NTJ41789069) ·
-   [wiki summary](/wiki/carroll-yinger-benefit-tax-rental/) — $1.00 tax → ~$0.15
-   rent; landlords absorb ~85% (B-claim).
+   [wiki summary](/wiki/carroll-yinger-benefit-tax-rental/) — used for the $1.00 tax → ~$0.15 rent finding; landlords absorb ~85% (B-claim).
 5. Lars Doucet (2021), "Does Georgism Work? Part 2: Can Landlords Really Pass on
    Land Value Tax to Tenants?", *Astral Codex Ten*.
    [Original](https://www.astralcodexten.com/p/does-georgism-work-part-2-can-landlords)
-   · [wiki summary](/wiki/doucet-does-georgism-work/) — the popular synthesis of
-   this literature (D-claim, navigation to the primary studies).
+   · [wiki summary](/wiki/doucet-does-georgism-work/) — used for the popular synthesis and as navigation to the primary studies now ingested individually (D-claim).
