@@ -76,6 +76,10 @@ tasks needing live web research stay on tool-using agents.
      demote the synthesis to navigation. A synthesis may introduce evidence; it may not BE the
      evidence.
 6. **Lint until clean.** Re-run `lint_wiki.py`; resolve errors. Warnings should trend down.
+   If your work added or resolved any `[CITATION NEEDED]`/`[VERIFY]` marker, regenerate the
+   worked queue: `python3 scripts/verification_queue.py` (→ `sources/verification-queue.md`,
+   grouped by unblock channel). Markers are debt, the queue is the ledger; the count is a
+   per-wave trend-down metric alongside warnings.
 7. **Preview.** Run `python3 scripts/build_preview.py`. Confirm the changed pages render and
    cross-links resolve. (Serve locally with `python3 -m http.server -d preview 8000`.)
 8. **Harvest discoveries → create stubs.** Triage the generator's DISCOVERED candidates (all
