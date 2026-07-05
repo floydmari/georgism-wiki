@@ -209,7 +209,7 @@ Stubs created by the 2026-07-04 DISCOVERY-SWEEP (Task 0, 20 accepted / 10 reject
 - [x] [BACKFILL] tier:T2 status:done — concepts/mass-appraisal-methods (GLM wave 3); events/2008-financial-crisis (GLM wave 3)
 - [x] [BACKFILL] tier:T2 status:done — charles-tiebout, murray-rothbard (wave 3); michael-davitt, l-d-taylor (wave 4); events/irish-land-war, organizations/fairhope-single-tax-corporation (GLM wave 4); holdout-problem + production-boundary (waves 3-4)
 - [ ] [BACKFILL] tier:T2 status:todo — concepts/public-land-leasing (HK/Singapore mechanism)
-- [ ] [BACKFILL] tier:T2 status:todo — concepts/radical-markets, concepts/land-value-increment-tax
+- [x] [BACKFILL] status:done (stale line corrected 2026-07-05 overnight) — radical-markets and land-value-increment-tax were already backfilled by the GLM waves; actual remaining stubs: margin-of-production, public-land-leasing (in progress), search-theoretic-critique, progress-and-poverty-institute
 Rejected (do not re-propose without new evidence): concepts/hartwick-rule + genuine-savings (research page suffices), concepts/fisim (too far afield), concepts/property-tax-incidence-views (covered by zodrow + queued benefit-view), organizations/land-tenure-reform-association (one subsection), people/john-rawls (one paper), people/phillip-j-anderson (sourcing thin), Tullock/Krueger combined bio (malformed; rent-seeking covers), concepts/land-price-capitalization-of-taxes (fold into tax-capitalization), places/estonia-tallinn-case (estonia.md suffices).
 
 ## Evidence-base build-out: 50 research pages until every outcome has ≥5 papers
