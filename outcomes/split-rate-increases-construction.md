@@ -25,6 +25,12 @@ The findings are mutually reinforcing: the Pittsburgh case shows a large effect 
 
 **An honest caveat from abroad:** [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/) studied Auckland's forced move *away* from land-value rating after the 2010 council amalgamation and found little effect on new building consents (only on alterations) over a short two-year window. It is a confounded reform and a short panel, so it does not overturn the Pennsylvania results — but it is a reminder that the construction effect is not automatic in every institutional setting.
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) — The foundational modern theoretical model of graded (split-rate) taxation: shifting a property tax off improvements and onto land raises the capital-to-land ratio, with an ambiguous-to-positive effect on land value itself.
+
 ## Strength of Evidence
 
 **Moderate to strong.** Direction is consistent across studies and matches theory ([zero deadweight loss](/wiki/deadweight-loss/) on land + removed penalty on building). Main limitation: the most rigorous evidence comes from **Pennsylvania**, the principal US jurisdiction permitting split rates, so external validity to very different contexts is not fully established — the New Zealand null result above underlines the point.

@@ -1,6 +1,17 @@
 # BACKLOG.md — Wiki Improvement Queue
 
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 loop 2, WS2 COMPLETE 12/12 + surveys triaged)
+LOOP-3 DELTA (Floyd directives, 2026-07-05 evening): (1) GHOST/1PASSWORD DE-SCOPED — deployment
+is Floyd's separate process; the loop ends at commit+push+preview; never chase the token again
+(LOOP.md step 11 rewritten). (2) NEW LINT GATE `BODY-PARITY` — frontmatter evidence must be
+walked through in the body; first corpus scan caught 11 drifted outcome pages, all fixed with
+generated paper-by-paper sections (from reviewed excerpts) — a T1 prose-polish pass over those
+sections is queued below. (3) Synthesis de-referencing is now a T1 review gate (LOOP.md step 5).
+(4) landlords outcome expanded to 7 supports + 2 challenged_by incl. the Danish land-tax study.
+- [ ] [DEEPEN] tier:T1 status:todo — prose-polish the 11 generated "Evidence — Paper by Paper"
+      sections (they are accurate excerpt-derived bullets; weave the best into each page's
+      narrative evidence discussion where it reads better as prose).
+
 LOOP-2 DELTA (same day, after the block below was written): stubs 17→15
 (john-bates-clark, superstar-firms, fire-sector backfilled; karl-widerquist stub added);
 citdiv.org + progress.org surveys DONE and triaged — both full scans now sit in the

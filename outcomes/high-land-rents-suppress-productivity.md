@@ -22,6 +22,13 @@ Productive cities offer high wages and returns because of agglomeration — but 
 - [Fiorentino & Moogan (2025)](/wiki/fiorentino-moogan-agglomeration/) model the same channel from the agglomeration side, finding that taxing land value eases the misallocation and improves both efficiency and equity in how cities form.
 - [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) provide the fullest quantification of that "housing-as-misallocation" literature, estimating that housing-supply constraints in high-productivity US cities substantially lowered aggregate US growth over 1964–2009.
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Duranton & Puga (2023)](/wiki/duranton-puga-urban-growth/) — A quantitative model in which incumbent residents use planning regulations to limit city growth; relaxing regulation in seven large restricted US cities raises aggregate output 7.95%.
+- [Herkenhoff et al. (2018)](/wiki/herkenhoff-ohanian-prescott-tarnishing/) — A general-equilibrium model in which tightening state land-use restrictions in California and New York misallocate labor and capital, finding deregulation could raise US aggregate TFP and output growth substantially.
+
 ## Strength of Evidence
 
 **Emerging.** The theoretical channel is well grounded and recent macro studies support it; the precise magnitude is an active research area.

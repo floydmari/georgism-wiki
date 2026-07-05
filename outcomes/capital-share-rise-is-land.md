@@ -26,6 +26,16 @@ The two teams used different countries and methods and reached the same conclusi
 
 If inequality's capital dimension is really a **land** dimension, a tax on land values targets the actual driver — without the efficiency cost of taxing productive capital. This connects 21st-century inequality research directly to Henry George's 19th-century diagnosis in *[Progress and Poverty](/wiki/progress-and-poverty/)*.
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Knoll et al. (2017)](/wiki/knoll-schularick-steger-house-prices/) — New annual house-price indices for 14 advanced economies, 1870–2012, showing real prices were flat for eight decades then rose sharply after 1950 — a boom the authors attribute mostly to rising land prices, not construction costs.
+- [Cava (2016)](/wiki/la-cava-housing-capital-share/) — BIS/RBA paper showing the postwar rise in US housing's income share is overwhelmingly imputed rent to owner-occupiers, driven by falling mortgage rates and concentrated in supply-constrained states — a land-scarcity story.
+- [Furman & Orszag (2015)](/wiki/furman-orszag-firm-rents/) — Furman & Orszag's 2015 Stiglitz-honoring paper argues rising inequality is better explained by an increasingly skewed distribution of firm-level returns on capital than by a labor-to-capital income shift, and flags land-use-driven housing rents as one contributor.
+- **Counter-evidence:** [Autor et al. (2020)](/wiki/autor-superstar-firms/) — The leading non-land explanation of the falling labor share: rising industry concentration toward high-markup 'superstar firms.' The honest empirical counterweight to Rognlie's land/housing decomposition of the rising capital share.
+- **Counter-evidence:** [Barkai (2020)](/wiki/barkai-declining-shares/) — Direct measurement shows both the labor share and the (required-return) capital share fell in the US nonfinancial corporate sector since the 1980s, offset by a large rise in pure profits — attributed to market power, not land.
+
 ## Strength of Evidence
 
 **Strong** — independently replicated across US and European datasets by separate research teams.

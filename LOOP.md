@@ -55,6 +55,15 @@ tasks needing live web research stay on tool-using agents.
    citation · softened claims · stronger sources to find) in `reports/<slug>.cite.md`.
 5. **Self-review** against `QUALITY_RUBRIC.md`. T1 adds the adversarial pass: *"what would a
    skeptical economist dispute, and does each claim's wording match its source's strength?"*
+   T1 review additionally gates on two structural rules (Floyd, 2026-07-05):
+   - **Body-parity:** every slug wired in an outcome's `supported_by`/`challenged_by` must be
+     discussed or linked in the page body — the frontmatter feeds the COVERAGE gauge, so a
+     body that doesn't walk through its own evidence silently overstates the page.
+     `lint_wiki.py` now emits `BODY-PARITY` warnings; a reviewed page ships with zero.
+   - **Synthesis de-referencing:** if a page's evidence leans on a synthesis (Doucet's ACX
+     series, review articles, compendia), queue ingestion of the primary papers it cites and
+     demote the synthesis to navigation. A synthesis may introduce evidence; it may not BE the
+     evidence.
 6. **Lint until clean.** Re-run `lint_wiki.py`; resolve errors. Warnings should trend down.
 7. **Preview.** Run `python3 scripts/build_preview.py`. Confirm the changed pages render and
    cross-links resolve. (Serve locally with `python3 -m http.server -d preview 8000`.)
@@ -70,8 +79,9 @@ tasks needing live web research stay on tool-using agents.
 10. **Commit & push (GitHub is the master record).** One task per commit:
    `content: <what> (<TYPE> tier:T<n>)`. Push to the working branch. **Open/refresh a PR** for
    DRAFT-loop work (cheap output must not auto-publish).
-11. **Publish — REVIEW loop only.** After T1 approval + merge, if `GHOST_ADMIN_KEY` is set:
-    `python3 scripts/sync_to_ghost.py <changed files>`. Otherwise log `publish pending`.
+11. **Publish — NOT the loop's job (Floyd, 2026-07-05).** Deployment to progress.org is Floyd's
+    separate process. The loop's output ends at commit + push + preview artifact. Do not chase
+    GHOST_ADMIN_KEY / 1Password; `scripts/sync_to_ghost.py` stays in the repo for Floyd's use.
 
 ## The growth flywheel
 

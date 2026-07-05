@@ -21,6 +21,14 @@ A land value tax is **not** regressive. Because the ownership of land and land-h
 
 Progressivity depends on design (exemptions, deferral for the [asset-rich/cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/), and how revenue is spent — a [citizen's dividend](/wiki/citizens-dividend/) makes it sharply progressive).
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Wilkinson (2024)](/wiki/cwc-distributional-impacts-lvt/) — A Common Wealth Canada modelling exercise on a national land value tax coupled with income-tax reform: LVT alone looks regressive by income decile, but a large flat refundable credit reverses this for most households.
+- [Plummer (2010)](/wiki/plummer-lvt-distribution/) — Parcel-level Texas study: replacing a uniform property tax with an LVT shifts burden off single-family homes and onto other property classes, and is only slightly more progressive within residential properties by value.
+- [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) — Bowman & Bell (2008, National Tax Journal) replicate England & Zhao's regressivity finding on a new city (Roanoke, VA) and find the opposite: a revenue-neutral shift to a land value tax there is progressive by income and poverty rate — showing the result is jurisdiction-dependent.
+
 ## Strength of Evidence
 
 **Strong** — follows from the concentration of land ownership plus formal optimal-tax results.

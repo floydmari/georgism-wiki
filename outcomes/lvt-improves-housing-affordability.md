@@ -18,6 +18,13 @@ Land value taxation can improve housing affordability by discouraging [speculati
 - **But capture ≠ cheap.** [Singapore](/wiki/singapore/) and [Hong Kong](/wiki/hong-kong/) capture enormous land value yet have costly housing — because the goal there was revenue, and supply was still constrained. This shows LVT must be paired with **permissive zoning** to translate into affordability.
 - **Why land scarcity is the crux.** [Saiz (2010)](/wiki/saiz-housing-supply-elasticity/) shows geography and regulation jointly determine how much of housing demand shows up as land price rather than new supply — the land-scarcity mechanism the affordability argument rests on (it is not an LVT study, and it points to zoning as a co-equal lever).
 
+## The Evidence — Paper by Paper
+
+The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
+
+- [Hsieh & Moretti (2019)](/wiki/hsieh-moretti-spatial-misallocation/) — Hsieh and Moretti model how housing-supply constraints in high-productivity US cities misallocated labor 1964-2009, lowering aggregate growth — a widely cited but now contested estimate, per a 2026 comment finding coding errors.
+- [Glaeser & Gyourko (2018)](/wiki/glaeser-gyourko-housing-supply/) — Glaeser and Gyourko show US house prices in coastal/regulated metros far exceed minimum production cost, and attribute the gap to zoning, not land scarcity or LVT — a paper about regulation, not tax policy.
+
 ## Strength of Evidence
 
 **Contested.** The mechanism is sound and the construction evidence supports it, but affordability outcomes depend heavily on **complementary land-use policy**. LVT helps, but is not sufficient alone.
