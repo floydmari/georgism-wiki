@@ -32,6 +32,8 @@ If inequality's capital dimension is really a **land** dimension, a tax on land 
 
 ## See Also
 
+- [Piketty, Capital in the Twenty-First Century](/wiki/piketty-capital-21st-century/) — the dataset the land decomposition reinterprets (context source)
+
 - [Economic Rent](/wiki/economic-rent/) · [Unearned Increment](/wiki/unearned-increment/) · [Land Value Tax](/wiki/land-value-tax/)
 
 ## Sources

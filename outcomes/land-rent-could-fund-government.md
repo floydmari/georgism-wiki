@@ -27,6 +27,8 @@ The gap turns on two things: **what counts as rent** (Gaffney includes resource,
 
 ## See Also
 
+- [World Bank, The Changing Wealth of Nations 2021](/wiki/world-bank-changing-wealth/) — wealth-accounting scale evidence
+
 - [ATCOR](/wiki/atcor/) · [Single Tax](/wiki/single-tax/) · [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
 
 ## Sources

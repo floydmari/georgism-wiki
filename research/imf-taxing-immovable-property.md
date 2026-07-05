@@ -23,6 +23,8 @@ This 2013 IMF working paper by John Norregaard is a standard reference on recurr
 
 ## Bears On
 
+- **Follow-on:** [IMF, Building Tax Capacity (2025)](/wiki/imf-building-tax-capacity/) — the IMF's later capacity-building analysis of the same revenue channel
+
 - **Objection:** [LVT can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - **Place:** [Denmark](/wiki/denmark/)
 

@@ -56,6 +56,8 @@ The modern synthesis of this debate is George Zodrow's 2001 *National Tax Journa
 
 ## See Also
 
+- [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/) — tests the benefit view for rental housing
+
 - [Charles Tiebout](/wiki/charles-tiebout/) — author of the foundational sorting model these papers extend
 - [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 - [Tax Capitalization](/wiki/tax-capitalization/)
