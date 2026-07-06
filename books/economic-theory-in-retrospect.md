@@ -101,7 +101,7 @@ Blaug identifies two key weaknesses in George's argument:
 
 ### Historical Legacy
 
-Blaug notes that "the concept of site value taxation was never seriously discussed, and to this day the only examples of it are to be found among local governments in the United States, Australia and New Zealand." However, "the milder Mill proposal... was eventually adopted in the British Budget of 1909 for urban lands not used for building purposes and the British Town and Country Planning Act of 1947 finally applied the principle of taxing future rental increments to all plots of land" (Ch. 3, §11).
+Blaug notes that "the concept of site value taxation was never seriously discussed, and to this day the only examples of it are to be found among local governments in the United States, Australia and New Zealand." However, "the milder Mill proposal... was eventually adopted in the British Budget of 1909 for urban lands not used for building purposes and the British [Town and Country Planning Act of 1947](/wiki/town-and-country-planning-act-1947/) finally applied the principle of taxing future rental increments to all plots of land" (Ch. 3, §11).
 
 Blaug also notes that Walras and Wicksteed were both advocates of land nationalisation, albeit with full compensation. Walras proposed compensating proprietors with bonds, using future rents to pay interest, relying on Ricardo's belief that rents tend to rise in a growing economy (Ch. 3, §11).
 

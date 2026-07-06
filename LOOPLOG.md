@@ -708,3 +708,24 @@ objection. Hermes check: no PRs, no new inbox.
 Campsite: 5 more Sources annotated (alaska-permanent-fund, 1909-peoples-budget,
 single-tax-colonies, lvt-improves-housing-affordability, resource-rent-dividends-work).
 350 pages; warnings 470 (baseline 478); lint green; preview links verified.
+
+---
+
+## 2026-07-06o — Shift 6 (session vy8k5i): inbox triage COMPLETE (10/10 consumed); egress still gated
+
+Floyd set the environment to allow-all egress; this RUNNING container's upstream gateway
+still answers 403 (policy is applied at container creation) — poller armed; if it never
+opens, the successor session inherits open egress and should run a VERIFICATION SWEEP over
+this session's [VERIFY] flags first thing. Exa remains blocked from here for the same
+reason.
+
+Main work — digest-before-you-scan cleared: the last 5 discovery reports triaged
+(economic-theory-in-retrospect deep-read; boom-bust/ricardos-law/anderson/patel candidate
+sweeps). 3 stubs accepted per the accept bar: von Thünen (people), Land Tenure Reform
+Association (organizations — already name-checked on 4 pages), Town and Country Planning
+Act 1947 (events). 2 wanted-books rows (Riley Taken for a Ride, Christophers Rentier
+Capitalism); rejections reasoned in BACKLOG. All 10 inbox reports now consumed/ — the WIP
+gate for new scans (congestion-pricing FIND next) is open.
+
+353 pages; warnings 473 (3 new stubs' honest flags absorbed; baseline 478); lint green;
+preview links verified.

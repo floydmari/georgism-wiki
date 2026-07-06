@@ -16,7 +16,7 @@ Mill observed that landlords "grow richer, as it were in their sleep, without wo
 
 ## Land Reform
 
-Mill helped found the **Land Tenure Reform Association** (1870), which campaigned to tax the unearned increment and reform land monopoly. His ideas gave the Georgist movement intellectual respectability and a ready-made vocabulary; Henry George built directly on Mill while arguing for a more thoroughgoing remedy. His land-taxation argument is examined in depth at [Mill on Land and Taxation](/wiki/mill-principles-land/).
+Mill helped found the **[Land Tenure Reform Association](/wiki/land-tenure-reform-association/)** (1870), which campaigned to tax the unearned increment and reform land monopoly. His ideas gave the Georgist movement intellectual respectability and a ready-made vocabulary; Henry George built directly on Mill while arguing for a more thoroughgoing remedy. His land-taxation argument is examined in depth at [Mill on Land and Taxation](/wiki/mill-principles-land/).
 
 ## See Also
 

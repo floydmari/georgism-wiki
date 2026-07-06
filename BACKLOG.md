@@ -523,8 +523,22 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       the credit-cycle objection page creates demand); adair-turner (1 mention); the
       rethinking report's philanthropic-housing cluster (Peabody/Cadbury/Rowntree — UK
       housing history, not land-question core); Blaug-report marginalists already covered.
-      REMAINING: reports for corruption-of-economics (DONE), land-is-a-big-deal (DONE), rethinking (DONE),
-      economic-theory-in-retrospect, boom-bust, ricardos-law, anderson, patel — next waves.
+      REMAINING: none — final wave 2026-07-06 (session vy8k5i) triaged the last 5 reports
+      (economic-theory-in-retrospect, boom-bust, ricardos-law, anderson, patel). ACCEPTED
+      (accept bar ≥2 demanding pages, coverage checked BOTH ways): people/
+      johann-heinrich-von-thunen (location theory; demanded by law-of-rent, agglomeration,
+      optimal-city-size), organizations/land-tenure-reform-association (already name-checked
+      on 4 pages), events/town-and-country-planning-act-1947 (betterment-levy's legislative
+      vehicle). ROUTED to wanted-books: Don Riley Taken for a Ride (Jubilee Line uplift),
+      Christophers Rentier Capitalism (name-checked on 3 pages); Andelson already listed
+      (duplicate rows — merge at next wanted-books touch). REJECTED with reasons: Florida
+      land boom event (passing mentions only — re-propose if cycle pages demand);
+      Fabian Society org (1-2 mentions); Bryan Kavanagh/LVRG (advocacy, single mention);
+      Samuelson 1959 / Buchanan 1929 / Cord 1965 research (register when the Ricardo/
+      historiography pages demand primaries); "transfer earnings" concept (fold into
+      economic-rent at next touch, noted); the mass of Boom Bust/Patel context candidates
+      (Greenspan, Bernanke, COVID, Brexit etc. — narrative context, not land-question core).
+      ALL 10 inbox reports now in sources/inbox/consumed/.
       Original task: triage the 10 DISCOVERY-*.report.md files from Hermes w1
       (sources/inbox/): accept→stubs per EDITORIAL stub standard + registry rows,
       reject-with-reason. Power-in-the-Land report alone lists ~24 books + ~14 people;
