@@ -71,6 +71,7 @@ Public Land* (Lincoln Institute, 2003).[8]
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the outcome these cases partially evidence
 - [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/)
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) — the transfer-tax cousin
+- [Spectrum Auctions](/wiki/spectrum-auctions/) — the same one-shot-capture-vs-recurring-fee tension in the airwaves commons
 
 ## Sources
 

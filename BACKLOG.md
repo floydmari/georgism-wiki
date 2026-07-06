@@ -67,12 +67,16 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
 - **DONE** shift 7: **outcomes/congestion-pricing-reduces-traffic** built out stub→full with the
   welfare/longitudinal delta the concept page lacked: Eliasson 2009 CBA (measured-data; ~4-yr
   social payback, NPV 6.3–7.6bn SEK, significant social surplus — verified vs the paper);
-  Börjesson et al. 2012 "5 years on" (reduction persisted, acceptability rose, alt-fuel exemption
-  effect); Gothenburg 2013 as the honest counter-texture (Sept 2014 referendum 57% against, kept
-  anyway to fund the rail tunnel). De-stubbed; wired inbound from geoism + william-vickrey; 3
-  registry rows. NOTE: Crime of Poverty texts/ still blocked — Wikimedia blocks the proxy IP;
-  needs a non-Wikimedia clean source (Schalkenbach, coop-individualism working URL) or OCR cleanup.
-Lint green (0 err, 444 warn, ratchet steadily down from 473).
+  Börjesson et al. 2012 "5 years on"; Gothenburg 2013 as the honest counter-texture. De-stubbed.
+- **DONE** shift 8: **concepts/spectrum-auctions** — NEW rent domain (parallel to congestion).
+  Coase 1959 (JLE) origin → FCC auctions since 1994 (>$200bn, FCC-reported >$233bn; C-band
+  Auction 107 2021 ~$81.1bn) → Milgrom-Wilson SMRA + 2020 Nobel, global adoption. Rent-gradient:
+  clean non-land case with the "sell-once auction vs recurring lease/fee" tension made explicit
+  (cross-linked to public-land-leasing). Flipped the geoism spectrum "Queued" row → linked;
+  wired inbound from geoism + william-vickrey + public-land-leasing; 3 registry rows.
+  NOTE: Crime of Poverty texts/ still blocked (Wikimedia blocks the proxy IP) — needs a
+  non-Wikimedia clean source (Schalkenbach, henrygeorge.org) or OCR cleanup.
+Lint green (0 err, 440 warn, ratchet steadily down from 473).
 **Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
 George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
 Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or

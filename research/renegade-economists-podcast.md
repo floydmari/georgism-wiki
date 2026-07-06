@@ -20,4 +20,7 @@ The show is one of the largest sustained bodies of Georgist audio anywhere, cove
 
 ## Sources
 
-1. *Renegade Economists*, Prosper Australia radio archive. [prosper.org.au/radio](https://www.prosper.org.au/radio/)
+1. *Renegade Economists*, Prosper Australia radio archive — used as a
+   practitioner/advocacy source for the Australian Georgist movement's interviews and
+   commentary (not primary evidence; underlying claims cited on their own pages).
+   [prosper.org.au/radio](https://www.prosper.org.au/radio/)
