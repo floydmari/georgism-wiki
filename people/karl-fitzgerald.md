@@ -22,4 +22,5 @@ Karl Fitzgerald is an Australian Georgist campaigner, researcher, and broadcaste
 
 ## Sources
 
-1. *Renegade Economists* podcast / Prosper Australia radio. [prosper.org.au/radio](https://www.prosper.org.au/radio/)
+1. *Renegade Economists* podcast / Prosper Australia radio — used for his roles and projects (A-claims; organizational self-description). [prosper.org.au/radio](https://www.prosper.org.au/radio/)
+2. Karl Fitzgerald (2013), *Total Resource Rents of Australia* — used for the TRRA authorship (A-claim; the estimate itself is carried, with caveats, on [land rent could fund government](/wiki/land-rent-could-fund-government/)). [PDF](https://www.prosper.org.au/wp-content/uploads/2013/12/TRRA_2013_final.pdf)

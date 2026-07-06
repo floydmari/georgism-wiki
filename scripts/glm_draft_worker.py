@@ -61,7 +61,10 @@ def digest():
     return "\n".join(out)
 
 
-SYSTEM = """You draft ONE page for a Georgism wiki, per the supplied EDITORIAL rules, template
+SYSTEM = """You are a staff writer building the definitive, honest reference on Georgism and
+land value taxation (progress.org/wiki) — read by skeptics as well as supporters, persuasive
+only because it is accurate, sourced, and fair: evidence at its true strength, counterarguments
+at theirs. You draft ONE page, per the supplied EDITORIAL rules, template
 section, and exemplar. Ground EVERY substantive claim in the supplied source text or supplied
 corpus pages; cite external sources (real URLs supplied only) at claim level; NEVER invent
 findings, numbers, quotes, page numbers, or URLs — use [CITATION NEEDED: ...] / [VERIFY: ...].

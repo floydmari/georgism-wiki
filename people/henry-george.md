@@ -24,7 +24,7 @@ George's ideas attracted a mass following. He ran for mayor of New York City in 
 
 ## Influence
 
-George's influence crossed ideological lines in ways unusual for any single thinker. [Leo Tolstoy](/wiki/leo-tolstoy/) called him one of the greatest social philosophers of the century. [Sun Yat-sen](/wiki/sun-yat-sen/) acknowledged George's influence on the land policy of the Republic of China. George Bernard Shaw credited George with turning him toward socialism. Economists from Alfred Marshall to Milton Friedman (who called LVT "the least bad tax") have engaged seriously with his work. The Henry George Foundation, the Lincoln Institute of Land Policy, and numerous policy institutes worldwide continue to develop his ideas.
+George's influence crossed ideological lines in ways unusual for any single thinker. [Leo Tolstoy](/wiki/leo-tolstoy/) called him one of the greatest social philosophers of the century. [Sun Yat-sen](/wiki/sun-yat-sen/) acknowledged George's influence on the land policy of the Republic of China. George Bernard Shaw credited George with turning him toward socialism. Economists from [Alfred Marshall](/wiki/alfred-marshall/) to Milton Friedman (who called LVT "the least bad tax") have engaged seriously with his work. The Henry George Foundation, the Lincoln Institute of Land Policy, and numerous policy institutes worldwide continue to develop his ideas.
 
 ## See Also
 
@@ -38,6 +38,6 @@ George's influence crossed ideological lines in ways unusual for any single thin
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
-2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
-3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — biographical and bibliographic resources.
+1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic details (custodial source).

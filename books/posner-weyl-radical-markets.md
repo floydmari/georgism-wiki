@@ -1,6 +1,9 @@
 ---
 title: "Radical Markets: Uprooting Capitalism and Democracy for a Just Society"
-author: ["Eric A. Posner", "E. Glen Weyl"]
+category: books
+stub: false
+excerpt: "Posner & Weyl's 2018 mechanism-design manifesto: its Common Ownership Self-Assessed Tax (COST) extends George's land tax to all property via Harberger self-assessment — a modern descendant that departs from George by taxing capital as well as land. Book summary page; scanned by Hermes at T2."
+authors: [Eric A. Posner, E. Glen Weyl]
 year: 2018
 publisher: "Princeton University Press"
 isbn: "978-0-691-17750-2"
@@ -61,7 +64,7 @@ The book provides an extended treatment of Henry George as a key intellectual pr
 - George proposed "appropriat[ing] land rent for public use, by taxation" — the "simpler, easier and quieter way" to achieve common ownership (p. 41)
 - His tax would be much higher than modern property taxes (the full land rent) but would exempt all structure value
 - By 1933, John Dewey estimated *Progress and Poverty* "had a wider distribution than almost all other books on political economy put together" (p. 43)
-- The board game Monopoly was originally *The Landlord's Game* (1904), designed by Elizabeth Magie to educate the public about George's ideas (p. 43)
+- The board game Monopoly was originally *The Landlord's Game* (1904), designed by [Elizabeth Magie](/wiki/elizabeth-magie/) to educate the public about George's ideas (p. 43)
 
 **Georgism's identified defects:**
 1. **Investment inefficiency:** Taxing away all land value removes incentives to invest in or care for the land (p. 44)
@@ -138,7 +141,7 @@ Léon Walras, one of the three fathers of the marginal revolution, stated: "Decl
 
 > "Declaring individual land ownership … means … thwarting the beneficial effects of free competition by preventing the land from being used as is most advantageous for society." — Léon Walras, quoted p. 40
 
-> "If taxes are to be levied … on … the value of … properties … allow each … owner … to declare the value of his own property, make the declared values … public, and require that an owner sell his property to any bidder … willing to pay … the declared value." — Arnold Harberger, quoted p. 58
+> "If taxes are to be levied … on … the value of … properties allow each … owner … to declare the value of his own property, make the declared values … public, and require that an owner sell his property to any bidder … willing to pay … the declared value." — Arnold Harberger, quoted p. 58
 
 > "We refer to this tax as a 'common ownership self-assessed tax' (COST) on wealth. The COST on wealth is also the cost of (holding) wealth." (p. 64)
 
@@ -204,12 +207,12 @@ The COST is presented as resolving all three through its partial (below-100%) ta
 
 ## See Also
 
-- [[books/the-corruption-of-economics]] — Gaffney & Harrison's argument for keeping land separate from capital
-- [[books/land-is-a-big-deal]] — Doucet's modern data-driven Georgist defense
-- [[concepts/land-value-tax]] — The traditional Georgist proposal
-- [[concepts/economic-rent]] — Rent as unearned income from land and natural resources
-- [[concepts/atcor]] — All Taxes Come Out of Rent
-- [[outcomes/lvt-dampens-land-speculation]] — Evidence on LVT reducing speculation
+- [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
+- [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern data-driven Georgist defense
+- [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal
+- [Economic Rent](/wiki/economic-rent/) — Rent as unearned income from land and natural resources
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
+- [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — Evidence on LVT reducing speculation
 
 ## Sources
 

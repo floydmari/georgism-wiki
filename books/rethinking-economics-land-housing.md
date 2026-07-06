@@ -1,6 +1,9 @@
 ---
 title: "Rethinking the Economics of Land and Housing"
-author: ["Josh Ryan-Collins", "Toby Lloyd", "Laurie Macfarlane"]
+category: books
+stub: false
+excerpt: "Ryan-Collins, Lloyd & Macfarlane's 2017 study of how land's omission from economic theory and the land–credit feedback loop between mortgage lending and land prices drive the UK housing crisis. The macro-financial backbone of the housing-crisis narrative. Book summary page."
+authors: [Josh Ryan-Collins, Toby Lloyd, Laurie Macfarlane]
 year: 2017
 publisher: "Zed Books"
 isbn: "978-1-78699-118-8"
@@ -21,7 +24,7 @@ tags: [land-value-tax, economic-rent, neoclassical-economics, financialisation, 
 - **Year:** 2017
 - **ISBN:** 978-1-78699-118-8 (paperback); 978-1-78699-119-5 (hardback); 978-1-78699-120-1 (pdf); 978-1-78699-121-8 (epub)
 - **Foreword:** John Muellbauer (University of Oxford)
-- **Origin:** DRM-free EPUB obtained from libgen.vg; text extracted to `/Users/OpenClaw/wiki-books/extracted/rethinking-economics-drmfree.txt` (2,279 lines)
+- **Origin:** electronic copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [VERIFY: legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a legitimately owned/licensed copy before scan-depth upgrades from this text are re-used.]
 
 ## Core Thesis
 
@@ -240,11 +243,11 @@ The authors explicitly cite Gaffney's *The Corruption of Economics* (1994) as a 
 
 ## See Also
 
-- [[books/land-is-a-big-deal]] — Doucet's modern empirical defence of Georgism and LVT
-- [[books/the-corruption-of-economics]] — Gaffney & Harrison's argument for keeping land separate from capital
-- [[concepts/land-value-tax]] — The traditional Georgist proposal
-- [[concepts/economic-rent]] — Rent as unearned income from land
-- [[concepts/atcor]] — All Taxes Come Out of Rent
+- [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defence of Georgism and LVT
+- [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
+- [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal
+- [Economic Rent](/wiki/economic-rent/) — Rent as unearned income from land
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
 
 ## Sources
 

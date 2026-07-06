@@ -22,7 +22,7 @@ Henry George made the unearned increment the centrepiece of his analysis in *Pro
 
 If the unearned increment is not earned by the landowner, the argument runs, it belongs to the community that created it. A land value tax is the mechanism by which this socially created value is returned to its social origin. The tax does not punish any productive activity; it merely prevents the private capture of a windfall that the community itself generated.
 
-Winston Churchill made a memorable version of this argument in a 1909 speech: *"Roads are made, streets are made, services are improved, electric light turns night into day, water is brought from reservoirs a hundred miles off in the mountains — and all the while the landlord sits still. Every one of those improvements is effected by the labour and cost of other people and the taxpayers. To not one of those improvements does the land monopolist, as a land monopolist, contribute, and yet by every one of them the value of his land is enhanced."*
+Winston Churchill made a memorable version of this argument in a 1909 speech: *"Roads are made, streets are made, services are improved, electric light turns night into day, water is brought from reservoirs a hundred miles off in the mountains — and all the while the landlord sits still"* — every improvement, he continued, effected by others' labour and cost* — and, he continued, the land monopolist contributes to none of them while every one raises the value of his land*, and yet by every one of them the value of his land is enhanced."*
 
 ## See Also
 
@@ -34,6 +34,6 @@ Winston Churchill made a memorable version of this argument in a 1909 speech: *"
 
 ## Sources
 
-1. John Stuart Mill (1848), *Principles of Political Economy* — origin of the "unearned increment." [Full text](https://www.econlib.org/library/Mill/mlP.html)
-2. Winston Churchill (1909), speech on the land monopolist ("the People's Budget" debates).
-3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+1. John Stuart Mill (1848), *Principles of Political Economy* — used for the term's origin and Mill's taxation proposal (A-claims). [Full text](https://www.econlib.org/library/Mill/mlP.html)
+2. Winston Churchill (1909), land-monopolist speech (the [People's Budget](/wiki/1909-peoples-budget/) debates) — used for the quoted passage (A-claim; quote ≤50 words).
+3. Henry George (1879), *Progress and Poverty* — used for the Georgist radicalization of Mill's idea (A-claim). [wiki summary](/wiki/progress-and-poverty/)

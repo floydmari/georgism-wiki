@@ -29,6 +29,8 @@ The thesis is controversial among academic economists but is supported by consid
 
 ## See Also
 
+- [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — signatory
+
 - [Henry George](/wiki/henry-george/) — the intellectual tradition Gaffney defended
 - [ATCOR](/wiki/atcor/) — the theorem associated with Gaffney
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the foundational text

@@ -21,10 +21,13 @@ Foldvary connected Georgism to public-choice and libertarian economics, arguing 
 
 ## See Also
 
+- [Kinetic and Potential Rent](/wiki/foldvary-kinetic-potential-rent/) — his rent-estimation framework
+- [Johnson 1914 and Foldvary's rebuttal](/wiki/johnson-1914-single-tax-critique/) — his answer to the era's leading critique
+
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Geolibertarianism](/wiki/geolibertarianism/)
 - [*Public Goods and Private Communities* (1994)](/wiki/foldvary-public-revenue/) — his book on financing public goods from land rent
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the narrative his 1997 forecast supports
 
 ## Sources
 
-1. Fred Foldvary, *The Private Provision of Public Goods* and articles on the real-estate cycle (Georgist economic literature).
+1. Fred Foldvary, *Public Goods and Private Communities* (1994) and "The Business Cycle: A Georgist-Austrian Synthesis" (AJES, 1997) — used for his public-goods and cycle work (A/C-claims; see [the synthesis page](/wiki/foldvary-business-cycle-synthesis/) and [the 2008 prediction record](/wiki/progress-18-6-year-cycle/)).

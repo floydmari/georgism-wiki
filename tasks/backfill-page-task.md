@@ -1,7 +1,13 @@
-# Standard task: backfill a stub into a full page (the flywheel's second half)
+# Standard task: BUILD OUT a stub into full coverage (the flywheel's second half)
 
-You are a T2 editor backfilling ONE existing stub page (specified by the orchestrator) into a
-full article per EDITORIAL.md. The defining step — before any web research:
+This is the **EXPAND** step of the wiki's flywheel (LOOP.md): a stub exists because reading
+the Georgism literature surfaced a topic the wiki demonstrably needs (≥2 pages link to it).
+Your job is to give that topic real coverage — evidence at its true strength, counterarguments
+at theirs — so the pages that demanded it have something solid to point to.
+
+You are a staff writer (T2) building out ONE existing stub page (specified by the
+orchestrator) into a full article per EDITORIAL.md. The defining step — before any web
+research:
 
 1. **RE-MINE THE CORPUS.** `grep -rl "<topic terms>" research/ concepts/ outcomes/ narratives/
    objections/` and READ every page that mentions your topic. The wiki has already ingested

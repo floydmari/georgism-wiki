@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, split-rate, construction, empirical, pennsylvania]
 stub: false
 evidence_strength: "Moderate–strong (multiple empirical studies, consistent direction)"
-supported_by: [oates-schwab-pittsburgh, plassmann-tideman-construction, brueckner-site-value-taxation, banzhaf-lavery-pa-sprawl, yang-split-rate-tax-base, harrison-power-in-the-land]
+supported_by: [plassmann-tideman-construction, oates-schwab-pittsburgh, banzhaf-lavery-pa-sprawl, yang-split-rate-tax-base, brueckner-site-value-taxation, harrison-power-in-the-land]
 excerpt: "Across US case studies, shifting property tax off buildings and onto land is followed by more construction — the effect Georgist theory predicts."
 last_reviewed: 2026-07-04
 ---
@@ -48,4 +48,4 @@ The full evidence wiring for this outcome (each page carries its external citati
 
 1. Oates & Schwab (1997), "The Impact of Urban Land Taxation: The Pittsburgh Experience," *National Tax Journal* — [wiki summary](/wiki/oates-schwab-pittsburgh/) · [PDF](https://cooperative-individualism.org/oates-wallace_the-impact-of-urban-land-taxation-1997-mar.pdf)
 2. Plassmann & Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2) — [wiki summary](/wiki/plassmann-tideman-construction/) · [publisher](https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X)
-3. Fred Harrison (1983), *The Power in the Land*, Shepheard-Walwyn. [Publisher](https://shepheardwalwyn.com/product/the-power-in-the-land/) · [wiki summary](/wiki/harrison-power-in-the-land/) — used for the Victoria SVR vs NAV dwelling growth and building permit data (B-claim; empirical).
+3. Fred Harrison (1983), *The Power in the Land*, Shepheard-Walwyn. [Publisher](https://shepheardwalwyn.com/product/the-power-in-the-land/) · [wiki summary](/wiki/harrison-power-in-the-land/) — used for the Victoria SVR vs NAV dwelling growth and building permit data (C-claim: empirical data reported in an advocacy book, not peer-reviewed; treat as corroborating, not load-bearing).

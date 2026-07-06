@@ -23,11 +23,13 @@ Tideman bridges the Georgist tradition and rigorous modern economics — he is t
 
 ## See Also
 
+- [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — the letter he organized
+
 - [Land Value Tax](/wiki/land-value-tax/) · [Henry George Theorem](/wiki/henry-george-theorem/)
 
 ## Sources
 
-1. Plassmann & Tideman (2000), *Journal of Urban Economics* — [wiki summary](/wiki/plassmann-tideman-construction/)
-2. Nicolaus Tideman et al. (1994), *Land and Taxation* (book).
-3. Tideman & Plassmann (2008), "Providing Incentives for Efficient Land Assembly" — [wiki summary](/wiki/tideman-plassmann-land-assembly/)
-4. Goodhart, Hudson, Kumhof & Tideman (2021), "Post-Corona Balanced-Budget Super-Stimulus" — [wiki summary](/wiki/goodhart-stimulus/)
+1. Plassmann & Tideman (2000), *Journal of Urban Economics* — used for the split-rate construction evidence (B-claim). [wiki summary](/wiki/plassmann-tideman-construction/)
+2. Nicolaus Tideman et al. (1994), *Land and Taxation* (book) — used for his editorial role in the modern Georgist literature (A-claim).
+3. Tideman & Plassmann (2008), "Providing Incentives for Efficient Land Assembly" — used for the holdout-problem work (B-claim). [wiki summary](/wiki/tideman-plassmann-land-assembly/)
+4. Goodhart, Hudson, Kumhof & Tideman (2021), "Post-Corona Balanced-Budget Super-Stimulus" — used for the macro tax-shift modeling (B-claim). [wiki summary](/wiki/goodhart-stimulus/)

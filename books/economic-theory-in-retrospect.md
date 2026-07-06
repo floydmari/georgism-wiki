@@ -1,6 +1,9 @@
 ---
 title: "Economic Theory in Retrospect"
-author: "Mark Blaug"
+category: books
+stub: false
+excerpt: "Blaug's standard history of economic thought (5th ed., 1997): the mainstream reference for how rent theory evolved from Ricardo through the marginal revolution, and a non-Georgist witness to land's disappearance as a separate factor. Book summary page."
+authors: [Mark Blaug]
 year: 1997
 publisher: "Cambridge University Press"
 isbn: "978-0-521-57701-4"
@@ -22,11 +25,11 @@ tags: [history-of-economic-thought, ricardo, rent-theory, henry-george, site-val
 - **ISBN:** 978-0-521-57701-4 (paperback); 978-0-521-57153-1 (hardback)
 - **Edition:** Fifth edition (9th printing, 2012)
 - **Dedication:** "To my son, David Ricardo"
-- **Origin:** DJVU scan obtained from libgen.vg; text extracted to `/Users/OpenClaw/wiki-books/extracted/economic-theory-in-retrospect-5th.txt` (33,758 lines)
+- **Origin:** electronic copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [VERIFY: legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a legitimately owned/licensed copy before scan-depth upgrades from this text are re-used.]
 
 ## Overview
 
-*Economic Theory in Retrospect* is a history of economic thought from David Hume to Milton Friedman, consistently focused on theoretical analysis rather than biographical or doctrinal history. It includes detailed Reader's Guides to nine major texts: Smith, Ricardo, Mill, Marx, Marshall, Wicksteed, Wicksell, Walras, and Keynes. The fifth edition added new Reader's Guides to Walras and Keynes, with major additions to chapters on marginal productivity theory, general equilibrium theory, and welfare economics.
+*Economic Theory in Retrospect* is a history of economic thought from David Hume to Milton Friedman, consistently focused on theoretical analysis rather than biographical or doctrinal history. It includes detailed Reader's Guides to nine major texts: Smith, Ricardo, Mill, Marx, [Marshall](/wiki/alfred-marshall/), [Wicksteed](/wiki/philip-wicksteed/), Wicksell, Walras, and Keynes. The fifth edition added new Reader's Guides to Walras and Keynes, with major additions to chapters on marginal productivity theory, general equilibrium theory, and welfare economics.
 
 For Georgist purposes, the most relevant sections are:
 - **Chapter 3:** Population, Diminishing Returns and Rent (including §11: Site Value Taxation)
@@ -54,7 +57,7 @@ The classical economists drew the practical corollary that "ground rent was an '
 
 Blaug notes that J.S. Mill was the first to clearly admit that rent land could earn in one use forms a cost when used for another purpose. Jevons seized on this to show that land does have a supply price like any other input and that, contrariwise, all inputs when completely specialised earn a differential rent. This led to the modern concept of "transfer earnings" — the earnings of any input in excess of its transfer price constitute "economic rent."
 
-Blaug observes that the classical authors treated land as a "free gift of Nature" distinct from man-made means of production, but argues that "natural resources do not differ from the general run of capital goods in that they do require initial development and subsequent maintenance charges. If by 'land' we mean resources given by nature and available for use without cost, a very large part of the territorial resources of a society are not 'land' at all" (Ch. 3, §10).
+Blaug observes that the classical authors treated land as a "free gift of Nature" distinct from man-made means of production, but argues that "natural resources do not differ from the general run of capital goods in that they do require initial development and subsequent maintenance charges" — so that if land means costless gifts of nature, "a very large part of the territorial resources of a society are not 'land' at all" (Ch. 3, §10).
 
 However, Blaug acknowledges that Marshall retained the classical notion that land is special: "the fixedness of the whole stock of cultivable land in an old country" implies that "from the social point of view, land is not on exactly the same footing as those implements of production which a man can increase without limits" — a sentence Blaug notes "makes modern Georgists jump for joy" (Ch. 10, §16).
 
@@ -84,7 +87,7 @@ However, Blaug offers a partial rebuttal on George's behalf: "George might have 
 
 Blaug's assessment is nuanced — neither dismissive nor fully endorsing:
 
-> "Provided there is no deception that such a tax would raise much revenue except in rapidly growing cities, there would seem to be nothing wrong with the principle of site value taxation, that is, the taxation of land values with full or partial exemption of the improvements made on the land." (Ch. 3, §11)
+> "Provided there is no deception that such a tax would raise much revenue except in rapidly growing cities, there would seem to be nothing wrong with the principle of site value taxation" — defined as taxing land values with full or partial exemption of improvements. (Ch. 3, §11)
 
 He notes that the administrative difficulties "are no greater than those involved in distinguishing income and capital under the progressive income tax" (Ch. 3, §11).
 
@@ -114,7 +117,7 @@ The marginal revolution's relationship to Georgism is complex. Blaug rejects the
 
 ### Land After the Marginal Revolution
 
-The marginal revolution fundamentally changed the treatment of land. Blaug observes that "modern economics has abandoned the notion that there is any need for a special theory of ground rent. In long-run stationary equilibrium, the total product is resolvable into wages and interest as payments to labour and capital — there is no third factor of production — and the theory of differential rent is interesting only because it marks the first appearance of the marginal principle in economic theory" (Ch. 3, §10).
+The marginal revolution fundamentally changed the treatment of land. Blaug observes that "modern economics has abandoned the notion that there is any need for a special theory of ground rent. In long-run stationary equilibrium, the total product is resolvable into wages and interest as payments to labour and capital — there is no third factor of production" — leaving differential rent theory interesting, Blaug adds, only as the first appearance of the marginal principle. (Ch. 3, §10).
 
 This is the key shift: what was a separate factor of production with unique properties became merely a pedagogical stepping-stone to general marginal analysis. Land's distinctiveness was dissolved into the universal logic of marginal productivity.
 
@@ -128,7 +131,7 @@ In discussing the law of rent (Ch. 11, §40), Blaug notes that Wicksteed "demons
 
 Blaug traces the lineage of the single tax concept from the Physiocrats, who "regarded rent as a perfectly legitimate income, a payment for a nonreproducible natural agent" and argued that "the incidence of any tax will always fall upon landlords; the returns of all other classes consist of 'necessary' expenses of production." This led to the "physiocratic demand for a single tax aimed at minimising collection costs by taxing directly those incomes that ultimately bear taxes" (Ch. 1, §13).
 
-Blaug distinguishes the physiocratic single tax from the Georgist version: "the physiocratic single tax is not a tax on 'the unearned increment' of rental values in response to a rising population à la James and John Stuart Mill but a species of land value taxation in the form of a levy on pure rent, which Quesnay estimated to be about one third of the 'net product'" (Ch. 1, §13).
+Blaug distinguishes the physiocratic single tax from the Georgist version: "the physiocratic single tax is not a tax on 'the unearned increment' of rental values in response to a rising population à la James and John Stuart Mill but a species of land value taxation in the form of a levy on pure rent" — which Quesnay put at roughly a third of the 'net product.' (Ch. 1, §13).
 
 ## Key Quotes
 
@@ -168,11 +171,11 @@ Blaug's *Economic Theory in Retrospect* is valuable for the Georgist wiki as:
 
 ## See Also
 
-- [[books/land-is-a-big-deal]] — Doucet's modern empirical defence of Georgism
-- [[books/the-corruption-of-economics]] — Gaffney & Harrison's argument that the land–capital merger was deliberate
-- [[concepts/land-value-tax]] — The traditional Georgist proposal
-- [[concepts/economic-rent]] — Rent as unearned income from land
-- [[concepts/atcor]] — All Taxes Come Out of Rent
+- [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defence of Georgism
+- [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument that the land–capital merger was deliberate
+- [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal
+- [Economic Rent](/wiki/economic-rent/) — Rent as unearned income from land
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
 
 ## Sources
 

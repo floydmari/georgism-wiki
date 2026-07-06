@@ -68,7 +68,7 @@ Harrison argues that the Bank of England's Monetary Policy Committee raised inte
 
 ### Deadweight Losses from Conventional Taxation (Ch. 14 §2, p.321)
 
-Harrison cites Tideman and Plassmann's estimate that **nearly $7 trillion** ($6,840bn) in goods and services was lost to G7 countries because of the negative impact of conventional taxes (Table 14.1). For the UK, the £1 trillion economy could have produced an **additional £880bn** under reformed public revenue — about **£15,000 more per person**. Ronald Banks calculated that under Gordon Brown's tenure, Britain suffered tax-induced deadweight losses equivalent to one year's national income over 10 years (Preface to 2nd ed., p.8).
+Harrison cites [Tideman and Plassmann's estimate](/wiki/tideman-plassmann-losses-of-nations/) that **nearly $7 trillion** ($6,840bn) in goods and services was lost to G7 countries because of the negative impact of conventional taxes (Table 14.1). For the UK, the £1 trillion economy could have produced an **additional £880bn** under reformed public revenue — about **£15,000 more per person**. Ronald Banks calculated that under Gordon Brown's tenure, Britain suffered tax-induced deadweight losses equivalent to one year's national income over 10 years (Preface to 2nd ed., p.8).
 
 ### The 2001 Mid-Cycle Recession Was Suppressed
 
@@ -85,7 +85,7 @@ Harrison's central policy prescription is a fiscal shift: raise public revenue f
 3. The charge must be levied on **current market values** freely determined by users.
 4. People would be **compensated with equivalent reductions** in income, capital, and consumption taxes.
 
-Harrison argues: "The tool that can deliver these outcomes is to be found in fiscal policy. Taxation arouses animosity, but the key to reform is to understand that the problem is not with how much is taken from people to be spent on common services. What matters is how that revenue is raised" (Ch. 12 §3, p.273).
+Harrison argues: "The tool that can deliver these outcomes is to be found in fiscal policy. Taxation arouses animosity, but the key to reform is to understand that the problem is not with how much is taken from people to be spent on common services" — what matters, he concludes, is how the revenue is raised (Ch. 12 §3, p.273).
 
 ### Historical Precedents (Ch. 12 §4, p.276–281)
 
@@ -135,7 +135,7 @@ Harrison acknowledges that homeowners — now the majority — are themselves be
 ## Sources
 
 1. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, 2nd updated ed. (London: Shepheard-Walwyn, 2010). ISBN 978-0-85683-254-3. 364 pp. — primary source for all claims on this page; verified against primary text 2026-07-05 (Scan Depth: Heavy).
-2. Tideman, N. & Plassmann, F., "A Market-Based Analysis of the Effects of Taxes on the Distribution of Income," cited in Harrison Ch. 14 §2, p.321, Table 14.1 — used for the $6,840bn deadweight loss estimate (B-claim; empirical).
+2. Tideman, N. & Plassmann, F. (Losses of Nations chapter, 1998), cited in Harrison Ch. 14 §2, p.321, Table 14.1 — used for the $6,840bn deadweight loss estimate (C-claim: advocacy-volume calculation, cited via Harrison; [wiki stub](/wiki/tideman-plassmann-losses-of-nations/) pending full read — Harrison's in-text title differs from the chapter's published title, reconcile on direct read).
 3. Guntermann, K., "The Current Real Estate Cycle," cited in Harrison Ch. 5 §4, p.82 — used for the 70% speculative premium figure (B-claim; empirical).
 4. Weber, B., house-property sales data for Glasgow 1872–1907, cited in Harrison Ch. 5 §5, p.86, Table 5.5 — used for the 13.85 years' purchase empirical corroboration (B-claim; empirical).
 5. Lewis, J. Parry, *Building Cycles and Britain's Growth* (1965), cited in Harrison Ch. 5 §1, p.74, Table 5.1 — used for the 17.4-year average cycle duration (B-claim; empirical).

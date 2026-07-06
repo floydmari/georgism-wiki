@@ -1,7 +1,12 @@
-# LOOP-COMPREHENSIVENESS.md — The Source-Comprehensiveness Loop (invokable, not part of the main loop)
+# LOOP-COMPREHENSIVENESS.md — Re-mining the Reading List (invokable, not part of the main loop)
+
+The wiki's rule is that a source is not "done" when summarized — it is done when everything it
+teaches about the land question has somewhere to live on the wiki. This loop enforces that rule
+retroactively over the whole reading list.
 
 This is a **separate, periodically-invoked audit loop**, distinct from the main expansion loop in
-`LOOP.md`. The main loop grows the wiki forward (ingest → extract → discover → stub → backfill).
+`LOOP.md`. The main loop grows the wiki forward (FIND → READ & MINE → SYNTHESIZE → discover →
+stub → build out).
 This loop looks **backward at the sources themselves**: every source in `sources/registry.csv` was
 originally mined for a specific purpose (usually one research page wired to one outcome), and
 nothing guarantees it was mined for everything else the wiki synthesizes — the people it discusses,

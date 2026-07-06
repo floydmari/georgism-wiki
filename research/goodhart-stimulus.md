@@ -12,7 +12,7 @@ excerpt: "A calibrated macro model showing that raising land tax while cutting i
 
 ## Summary
 
-This 2021 CEPR discussion paper (DP 16652) by Charles Goodhart, Michael Hudson, Michael Kumhof, and Nicolaus Tideman models the macroeconomic effects of shifting the tax base toward land. It is notable for bringing serious macro modelling — including a former Bank of England policymaker (Goodhart) and an IMF economist (Kumhof) — to a Georgist proposal.
+This 2021 CEPR discussion paper (DP 16652; also SSRN 3954888) by Charles Goodhart, Michael Hudson, Michael Kumhof, and Nicolaus Tideman models the macroeconomic effects of shifting the tax base toward land. It is notable for bringing serious macro modelling — including a former Bank of England policymaker (Goodhart) and an IMF economist (Kumhof) — to a Georgist proposal.
 
 ## Key Finding
 

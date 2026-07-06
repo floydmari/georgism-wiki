@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, resource-rents, citizens-dividend, alaska]
 stub: false
 evidence_strength: "Strong (decades of real-world operation)"
-supported_by: [jones-marinescu-alaska-pfd, hartwick-rule, segal-resource-dividend, widerquist-howard-pfd, goldsmith-alaska-pfd-wealth-distribution]
+supported_by: [jones-marinescu-alaska-pfd, segal-resource-dividend, goldsmith-alaska-pfd-wealth-distribution, widerquist-howard-pfd, hartwick-rule]
 excerpt: "Alaska's decades-long Permanent Fund Dividend shows that capturing natural-resource rent and distributing it as a citizen's dividend is administratively and politically durable."
 challenged_by: [martinez-colombia-resource-rents]
 ---
@@ -29,15 +29,24 @@ Alaska is the closest large-scale, long-running proof of concept for the Georgis
 
 Not every resource-rent windfall behaves like Alaska's transparent, per-capita dividend. [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that in Colombia, municipalities receiving large resource-rent transfers show *weaker* local tax effort and accountability — a local "resource curse" that cuts the other way. The lesson is that *how* rent is captured and distributed (transparent, equal, direct dividend vs. opaque government transfer) matters as much as the fact of capture itself.
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
-
-- [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — Using a synthetic-control design, this AEJ:Economic Policy paper finds Alaska's universal cash dividend caused no reduction in aggregate employment, and a rise in part-time work consistent with local demand stimulus.
-- [Hartwick (1977)](/wiki/hartwick-rule/) — Hartwick's 1977 note proves that investing all resource rents in reproducible capital keeps consumption constant across generations — the theoretical foundation for treating resource rents as common wealth to be captured and reinvested.
-- [Segal (2011)](/wiki/segal-resource-dividend/) — Segal estimates that if every developing country paid out its resource rents as an equal per-capita cash dividend, extreme ($1/day) poverty would fall by roughly 27-66%, depending on year and assumptions.
-- [Widerquist & Howard (2012)](/wiki/widerquist-howard-pfd/) — An edited volume of historians, economists, and philosophers assessing whether Alaska's oil-funded citizen dividend is a genuine model for resource-rent policy elsewhere, or a product of Alaska's own peculiar circumstances.
-- [Goldsmith (2002)](/wiki/goldsmith-alaska-pfd-wealth-distribution/) — Goldsmith's 2002 BIEN paper reviews 20 years of the Alaska Permanent Fund Dividend and reports it cut Alaska poverty by an estimated 20-40% and rural Indigenous poverty from about 28% to 22%, with no serious political proposal to end it.
+The case runs from theory through operation to rigorous evaluation.
+[Hartwick (1977)](/wiki/hartwick-rule/) supplies the theoretical foundation:
+investing resource rents in reproducible capital sustains consumption across
+generations — the formal warrant for treating resource rents as common wealth.
+[Goldsmith (2002)](/wiki/goldsmith-alaska-pfd-wealth-distribution/) reviews the
+first twenty years of the dividend from inside Alaska: poverty cut by an
+estimated 20–40%, rural Indigenous poverty down from about 28% to 22%, and no
+serious political proposal to end it. [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/)
+add the causal test: a synthetic-control design finds the universal dividend
+caused no reduction in aggregate employment, with a rise in part-time work
+consistent with local demand stimulus. [Widerquist & Howard's edited volume (2012)](/wiki/widerquist-howard-pfd/)
+weighs whether all this is a genuine model or a product of Alaska's peculiar
+circumstances — the exportability question. And
+[Segal (2011)](/wiki/segal-resource-dividend/) scales the idea globally:
+resource rents paid as equal per-capita dividends in developing countries would
+cut extreme poverty by roughly 27–66%, depending on year and assumptions.
 
 ## See Also
 

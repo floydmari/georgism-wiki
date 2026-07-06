@@ -24,4 +24,4 @@ Smith establishes that the case for taxing land is not a fringe idea but is root
 
 ## Sources
 
-1. Adam Smith (1776), *The Wealth of Nations*, Book V, Ch. 2 (taxes on ground-rents). [Full text](https://www.econlib.org/library/Smith/smWN.html)
+1. Adam Smith (1776), *The Wealth of Nations*, Book V, Ch. 2 — used for the ground-rents-are-a-proper-subject-of-taxation position (A-claims; public domain). [Full text](https://www.econlib.org/library/Smith/smWN.html)

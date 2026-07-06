@@ -1,6 +1,9 @@
 ---
 title: "The Corruption of Economics"
-author: ["Mason Gaffney", "Fred Harrison", "Kris Feder"]
+category: books
+stub: false
+excerpt: "Gaffney and Harrison's 1994 polemical history arguing neoclassical economics was deliberately reshaped — by Clark, Ely, Seligman and their patrons — to bury George's land question by merging land into capital. The wiki's corruption narrative rests on it; an argument, not a detached survey. Book summary page."
+authors: [Mason Gaffney, Fred Harrison, Kris Feder]
 year: 1994
 publisher: "Shepheard-Walwyn / Centre for Incentive Taxation"
 isbn: "978-1-8568-3552-0"
@@ -93,9 +96,9 @@ Gaffney identifies nine constructive reconciliations in George's reform proposal
 ### Institutional Mechanisms
 
 1. **Academic firings:** Allen Eaton (Oregon), Elisha Andrews (Brown), Scott Nearing (Pennsylvania/Wharton) — all fired for Georgist sympathies
-2. **AEA capture:** Founded in 1885 by George's personal adversaries (Walker, Clark, Seligman, Ely) with an undemocratic Council "to prevent our organization from being captured by some economic sect or group of reformers"
+2. **AEA capture:** Founded in 1885 by George's personal adversaries (Walker, [Clark](/wiki/john-bates-clark/), [Seligman](/wiki/era-seligman/), [Ely](/wiki/richard-t-ely/)) with an undemocratic Council "to prevent our organization from being captured by some economic sect or group of reformers"
 3. **University patronage:** Clark recruited to Columbia by Seth Low (George's political opponent); Gilman's network controlling Hopkins
-4. **Funded institutes:** Ely's Institute for Research in Land Economics, funded by railroads and NAREB, attacked the Ralston-Nolan federal land tax bill (1919–24)
+4. **Funded institutes:** Ely's Institute for Research in Land Economics, funded by railroads and NAREB, attacked the [Ralston-Nolan federal land tax bill](/wiki/ralston-nolan-bill/) (1919–24)
 5. **Textbook dominance:** Ely's *Outlines of Economics* was "the bread-and-butter text from 1893 to about 1930"
 6. **The Great Red Scare (1919–89):** "George's ideas and the allied Progressive Movement fell, not from failure to deliver, but to the Great Marathon Red Scare"
 
@@ -105,7 +108,7 @@ Gaffney identifies nine constructive reconciliations in George's reform proposal
 |-----------|------|---------------------|
 | J.B. Clark | Merged land into capital | Recruited by George's political opponent (Seth Low) |
 | E.R.A. Seligman | Created public finance field opposing single tax | Scion of wealthy banking family |
-| Richard T. Ely | Founded AEA, land economics institute | Funded by railroads, utilities, NAREB |
+| [Richard T. Ely](/wiki/richard-t-ely/) | Founded AEA, land economics institute | Funded by railroads, utilities, NAREB |
 | F.Y. Edgeworth | Pareto Optimality, indifference curves | Heir to Irish landlord estates (Edgeworthstown) |
 | Frank Knight | Chicago School anti-Georgism | Inherited Clark's campaign via Alvin Johnson |
 | Vilfredo Pareto | Redefined rent, ordinal welfare | Expressed contempt for egalitarianism |
@@ -162,12 +165,12 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 
 ## See Also
 
-- [[books/land-is-a-big-deal]] — Doucet's modern empirical defense of Georgism
-- [[books/radical-markets]] — Posner & Weyl's COST as extension of George's land tax
-- [[concepts/atcor]] — All Taxes Come Out of Rent (formalized by Gaffney 2005)
-- [[concepts/economic-rent]] — Classical vs. neoclassical definitions of rent
-- [[concepts/land-value-tax]] — The single tax proposal
-- [[concepts/henry-george]] — George's life and influence
+- [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defense of Georgism
+- [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST as extension of George's land tax
+- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent (formalized by Gaffney 2005)
+- [Economic Rent](/wiki/economic-rent/) — Classical vs. neoclassical definitions of rent
+- [Land Value Tax](/wiki/land-value-tax/) — The single tax proposal
+- [Henry George](/wiki/henry-george/) — George's life and influence
 
 ## Sources
 

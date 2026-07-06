@@ -25,5 +25,5 @@ The view descends from classical liberals and from Henry George himself, who saw
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-2. Geolibertarian writings collected at the [School of Cooperative Individualism](/wiki/school-of-cooperative-individualism/) ([site](https://cooperative-individualism.org/)).
+1. Henry George (1879), *Progress and Poverty* — used for the position's Georgist foundation (A-claim). [wiki summary](/wiki/progress-and-poverty/)
+2. Geolibertarian writings collected at the [School of Cooperative Individualism](/wiki/school-of-cooperative-individualism/) ([site](https://cooperative-individualism.org/)) — used for the movement's self-description and key authors (C-claims; advocacy corpus).

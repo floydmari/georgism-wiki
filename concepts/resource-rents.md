@@ -29,4 +29,4 @@ Where resource rents are captured privately or by corrupt states, they can weake
 
 ## Sources
 
-1. IMF (2012), "Issues in Extractive Resource Taxation." [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)
+1. IMF (2012), "Issues in Extractive Resource Taxation" — used for the mainstream fiscal treatment of resource rents (A/B-claims). [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)

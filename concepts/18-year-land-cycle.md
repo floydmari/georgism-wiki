@@ -77,6 +77,9 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
+- Gaffney's peer-reviewed cycle application: "A Real-Assets Model of Economic Crises: Will China Crash in 2015?", *AJES* 74 (2015), [DOI](https://onlinelibrary.wiley.com/doi/10.1111/ajes.12093) — forecast published March 2015, months before the Shanghai composite fell over 30% (June–July 2015); documented contemporaneously by Martin Adams on progress.org.
+- Period application: Phil Anderson read Donald Trump's career and 2015-16 rise through the cycle's late-stage "Winner's Curse" phase (progress.org, ~Sept 2015) — an attributed advocate interpretation, cited as such.
+
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/)
 
 - [Fred Harrison](/wiki/fred-harrison/) · [Homer Hoyt](/wiki/homer-hoyt/) · [Land Monopoly](/wiki/land-monopoly/) · [Economic Rent](/wiki/economic-rent/)

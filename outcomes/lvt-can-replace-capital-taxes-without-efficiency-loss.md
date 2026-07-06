@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, efficiency, capital-tax, lvt, deadweight-loss]
 stub: false
 evidence_strength: "Strong (theory + calibrated empirical models)"
-supported_by: [bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, arnold-tax-growth-ej, brueckner-site-value-taxation]
+supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation]
 excerpt: "Shifting tax from capital to land raises welfare: land taxes carry no deadweight loss while capital taxes discourage investment."
 ---
 
@@ -21,14 +21,20 @@ Replacing taxes on **capital** with a tax on **land** improves economic efficien
 
 This rests on the oldest result in the field: a tax on a factor in perfectly inelastic supply causes no change in quantity, hence no deadweight loss — a point on which economists from Henry George to Milton Friedman (who called LVT the "least bad tax") agree.
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
-
-- [Adam et al. (2011)](/wiki/mirrlees-review/) — The UK's most authoritative modern tax review, chaired by Nobel laureate Sir James Mirrlees, concludes that land value should be taxed and proposes replacing business rates with a land value tax.
-- [Johansson et al. (2008)](/wiki/oecd-taxation-economic-growth/) — The OECD's famous 'tax and growth' ranking: recurrent taxes on immovable property are least harmful to growth, then consumption, personal income, and corporate taxes most harmful — the most-cited institutional case for shifting tax toward property.
-- [Arnold et al. (2011)](/wiki/arnold-tax-growth-ej/) — The peer-reviewed Economic Journal version of the OECD 'tax and growth' ranking: revenue-neutral shifts toward recurrent property and consumption taxes raise long-run GDP per capita in a 21-country OECD panel.
-- [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) — The foundational modern theoretical model of graded (split-rate) taxation: shifting a property tax off improvements and onto land raises the capital-to-land ratio, with an ambiguous-to-positive effect on land value itself.
+The institutional and theoretical record behind the ranking.
+[Johansson et al. (2008)](/wiki/oecd-taxation-economic-growth/) is the OECD's
+famous "tax and growth" hierarchy — recurrent taxes on immovable property least
+harmful to growth, corporate income taxes most — and
+[Arnold et al. (2011)](/wiki/arnold-tax-growth-ej/) is its peer-reviewed
+*Economic Journal* version: revenue-neutral shifts toward recurrent property
+taxation raise long-run GDP per capita across a 21-country OECD panel. The
+[Mirrlees Review (2011)](/wiki/mirrlees-review/) turns the ranking into
+institutional advice, concluding land value should be taxed and business rates
+replaced with an LVT. [Brueckner (1986)](/wiki/brueckner-site-value-taxation/)
+supplies the formal split-rate theory: shifting tax off improvements onto land
+raises the capital-to-land ratio — the mechanism behind the efficiency claim.
 
 ## Strength of Evidence
 

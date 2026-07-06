@@ -27,5 +27,5 @@ The system is most associated with **Pennsylvania**, where state law permits mun
 
 ## Sources
 
-1. Richard Dye & Richard England (2010), *Assessing the Theory and Practice of Land Value Taxation* — [wiki summary](/wiki/dye-england-assessing-lvt/)
-2. Empirical base: [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) · [Plassmann & Tideman (2000)](/wiki/plassmann-tideman-construction/)
+1. Richard Dye & Richard England (2010), *Assessing the Theory and Practice of Land Value Taxation* — used for the mechanism description and implementation survey (A/B-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
+2. Empirical base: [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) · [Plassmann & Tideman (2000)](/wiki/plassmann-tideman-construction/) — used for the construction-effect evidence (B-claims; full caveats on the outcome page).

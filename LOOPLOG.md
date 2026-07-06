@@ -333,6 +333,79 @@ source. Widerquist progress.org article marked [VERIFY] (survey-surfaced, unfetc
 **Registry:** 260→267 rows (citdiv + 7 FIRE). Repo export refreshed; Drive snapshot 8 rows behind
 — loud [SHEET-SYNC] filed per rule.
 
+---
+
+## 2026-07-06a (overnight, ~08:00-09:30 UTC) — COVERAGE 15/15 + stub burn-down
+
+Scheduling bug owned & fixed: first overnight wake-up was set for the wrong DAY (Jul 6 not Jul 5);
+Floyd's ping caught it ~2h late; trigger rebuilt, re-arming chain now at 11:15Z/16:15Z/21:15Z.
+
+**Shipped (4 commits):**
+- lvt-reduces-sprawl 1/5 -> 5/5 = **COVERAGE 15/15**: Tomson + Brueckner-1986 wired; NEW pages
+  cho-two-rate-density (simulation, +18%/+83%, Nashville cluster counted as ONE evidence line),
+  taranu-verbeeck-property-tax-sprawl (systematic review, design-conditional),
+  bentick-mills-timing-neutrality (COUNTER-evidence: market-value assessment can hasten fringe
+  conversion; Tideman-1982 assessment-basis rebuttal carried). Song-Zenou deliberately kept
+  adjacent-UNWIRED (opposite mechanism). Yang 2018 JHE queued with UNVERIFIED-FINDING guard.
+- Stubs 6 -> 4: margin-of-production (Ricardo/George two-laws structure + the Clark-preface
+  connection verified earlier this session) and public-land-leasing (HK 13-24% revenue range,
+  Singapore ~90%/Past-Reserves, Canberra 1924, and the honest core: Hong-Lam's 39%-of-increment
+  capture + post-1997 no-premium extensions — leasing's structural gap vs annual LVT).
+- LVIT forage facts (Art. 143 confirmed; rates 20/30/40+10; ares-not-acres flag; 2005 history
+  UNVERIFIED) filed in BACKLOG for the marker lane rather than editing a 10-marker page in
+  Hermes's territory overnight.
+- Registry 289 -> 297; exports refreshed. Hermes active on hermes/enrichment-w1 (not reviewed —
+  Floyd reviews trigger in the morning).
+
+**Remaining stubs (4):** search-theoretic-critique, progress-and-poverty-institute (both next
+wake-up), floyd-marinescu (owner-input), karl-widerquist (needs independent bio sources).
+
+---
+
+## 2026-07-06b (overnight wake #2, 11:15-12:30 UTC) — stub queue cleared + TOP-16 batch 1
+
+**Shipped (4 commits):** search-theoretic-critique objection backfilled from the full primary read
+(steelman + 4 response lines + honest Net Assessment); progress-and-poverty-institute backfilled
+(2025 Schalkenbach centennial renaming verified, ED Josie Faass, PPI≠progress.org disambiguation);
+TOP-16 batch-1 triage executed — 2 INGESTs (johnson-1914-single-tax-critique pairing the 1914
+Atlantic attack with Foldvary's 2017 rebuttal; foldvary-kinetic-potential-rent anchored to the
+2012 paper with venue honestly flagged), 3 REGISTRY+CITE (Gaffney AJES-2015 China prediction on
+the cycle page; Counting Bounty as attributed advocate-estimate row on fund-government; Exporting
+the Alaska Model book row), 1 SKIP with reason (DiMare five-stages — unrecoverable enumeration).
+**Backfillable stub queue now EMPTY** (2 remain, both input-gated). Registry 298→306.
+Lane discipline: widerquist-howard-pfd cite deferred (2 markers = Hermes lane).
+Wake #3 armed 16:15Z; stops re-arming when Floyd returns.
+
+---
+
+## 2026-07-06c (wake #3 wave, started early on Floyd's "keep looping", ~15:35-16:20 UTC)
+
+**TOP-16 COMPLETE (16/16):** batch 2 triaged 10/10 — 1 ingest (real-estate-4-ransom film page:
+advocacy-media treatment, deployment-not-evidence framing, director-spelling variant flagged),
+7 registry+cite (incl. Monbiot primary locked: Guardian 21-Jan-2013; Baker's Fed-Z.1 $11T as
+attributed advocate row beside Larson benchmark; Anderson's Trump/cycle piece as attributed
+period application), 2 skips with reasons. Prose-polish: 3 of 11 outcome evidence sections woven
+to narrative (capital-share gains a full counter-evidence section). Lane discipline held twice
+(churchill-peoples-rights 14 markers; corruption book-page cites deferred to Hermes merge).
+Monbiot logged as DISCOVERED people-candidate. Registry 306→318.
+
+---
+
+## 2026-07-06d (wake #3 continuation, ~16:15-17:30 UTC) — Doucet de-reference cycle 1 complete
+
+Prose-polish DONE (all 11/11 outcome evidence sections now narrative; England-Zhao vs Bowman-Bell
+dispute surfaced as jurisdiction-dependent on the progressive page). Doucet Parts 1&3 citation
+skeletons recovered: INGESTED gwartney-estimating-land-values + davis-larson-oliner-shui-fhfa-land
+(the FHFA tract-level project — doubles as the strongest institutional counter-exhibit to the
+assessment objection, and honestly flagged [VERIFY] on specific magnitudes pending direct read);
+4 more sources registered (Davis-Palumbo, Lincoln dataset, McKinsey 2021, Yglesias 2013).
+Key finding for future editors: 5 of Part 1's 12 land-value datapoints route through Smith's
+Counting Bounty (incl. Tideman's $31T via private correspondence) — attribute through Smith.
+Unblock routes for full texts documented (danwahl transcripts, gameofrent mirrors).
+Registry 318→324. All three Doucet parts now have de-reference passes; cycle 1 of the standing
+rule closed pending full-text confirmations.
+
+---
 
 ## 2026-07-05 — Hermes overnight w1: verification queue + book scans
 
@@ -367,3 +440,117 @@ source. Widerquist progress.org article marked [VERIFY] (survey-surfaced, unfetc
 - Many VERIFY markers on paywalled papers could not be cleared (ScienceDirect, Wiley, SAGE return HTTP 403)
 - No new wiki category books-publications was created (lint script CATEGORIES cannot be edited per spec); book pages placed in research/ with books-publications tag
 - verification_queue.py script mentioned in spec does not exist; markers tracked via grep
+
+---
+
+## 2026-07-06b — T1 REVIEW: Hermes PR #6 approved & merged + reconciliation
+
+**Verdict: APPROVED.** Review-first items checked: the CORRECTED Hsieh-Moretti/Caplan figures
+re-derived independently (1.0149^45/1.00795^45 ≈ +36%; Table-5 variant ≈ +14% — arithmetic
+correct); marker clearances spot-checked against the diffs (Glaeser-Gyourko via Wharton WP #802,
+KSS abstract 80% figure, IMF DP 2025/007 Heavy, 18.6-cycle); Hermes also FIXED a committed
+conflict-marker block on main (hsieh-moretti). Books: 10 pages + 10 discovery reports (locator-
+cited, all categories — the universal-discovery rule ran retroactively). No book files committed;
+no protected files touched.
+
+**Merged to main** (merge commit 30358c1), then main merged into the campaign branch with
+conflicts resolved (BACKLOG/LOOPLOG union; registry union + Patel dedupe).
+
+**Reconciliation fixes applied on this branch:** books frontmatter normalized (5 pages);
+slug-collision renames (posner-weyl-radical-markets, gaffney-harrison-corruption-of-economics);
+30 [[books/…]] wikilinks repaired; 2 committed conflict-marker blocks on main fixed (arnott,
+bowman-bell); anderson NPOV trim; DØRS cross-links added to the two Danish-experiment sections;
+Harrison Victoria data C-claim relabel; 4 over-cap Blaug quotes trimmed to ≤50 words.
+
+**FLAG for Floyd:** two book scans (Blaug; Ryan-Collins et al.) named libgen.vg as procurement
+source — provenance-pending [VERIFY] flags placed, shadow-library channels now PROHIBITED in
+sources/inbox/README.md, owner attestation task filed in BACKLOG.
+
+State post-merge: 319 pages, lint 0 errors / ~509 warnings, registry ~330 rows.
+
+---
+
+## 2026-07-06c — FIRST-PRINCIPLES REVIEW of the looping system (Floyd's ask)
+
+**Is it achieving what we want? Largely yes** — 319 pages, 15/15 outcome coverage, 12/12
+narratives, honest correction record (Caplan figures, Fairlie one-sixth, Foldvary Michigan),
+and the multi-agent structure held under fire (Hermes PR review caught libgen provenance,
+NPOV drift, broken links BEFORE main). **Three real gaps found in the data:**
+(1) debt grows, never shrinks (520 warnings, 613 markers) because most of it is structurally
+unpayable from this container → answer is ROUTING (debt ratchet + Hermes channel), not
+diligence; (2) discovery outruns triage (one book scan = 40+ candidates) → accept bar +
+stub quota; (3) category imbalance: 9 objections vs 15 outcomes/13 narratives — the
+steelman pillar is the thinnest, which is a credibility risk for an advocacy-adjacent wiki.
+**Simplifications shipped:** every process failure that bit us this week became a lint check
+(conflict markers, [[wikilinks]], quote cap, registry dupes, provenance ban) — rules that
+live in code don't need to live in anyone's memory. GLM section marked environment-
+conditional (it was dead text in this container). Drive sync already de-scoped.
+**New:** docs/loop-diagram.md — Mermaid visual of iteration/flywheel/lanes/honesty machinery,
+with a same-commit sync rule.
+
+---
+
+## 2026-07-06d — Loop reframed in mission language + gap-1/gap-2 machinery (Floyd's ask)
+
+LOOP.md rewritten mission-first: opens with WHAT we're building (the definitive, honest
+Georgism reference) and the domain verbs — FIND the literature, READ & MINE each source,
+SYNTHESIZE into the case pages, VERIFY (Fact-Check Desk), EXPAND the map. Steps renamed as
+an editorial shift; tiers as roles (editor / staff writers / copy desk); technical executor
+notes moved to an appendix. Diagram re-synced in the same language.
+
+GAP 1 shipped as machinery: verification_queue.py now ALSO generates
+sources/hermes-workorder.md — the routed field assignment (60-item cap) of blocked-web +
+book-copy fact-checks only Hermes's environment can work. Plus the campsite rule: every
+shift clears or routes ≥5 standing debts regardless of its main work.
+
+GAP 2 shipped as machinery: digest-before-you-scan — no new site/book scans while ≥2
+discovery reports sit untriaged; ≤8 stubs/shift; accept bar ≥2 demanding pages; and a
+name-variant grep before creating people pages (lesson: today's richard-ely duplicate of
+richard-t-ely — merged, my wave-1 corroboration resolved 4 of the old page's open
+fact-checks, duplicate deleted, links repointed).
+
+---
+
+## 2026-07-06e — Mission framing propagated into every executor prompt (Floyd's ask)
+
+The reframe now reaches the prompts the models actually consume, not just LOOP.md:
+EDITORIAL.md gains §0 The Mission (canonical statement); llm_worker.py + glm_draft_worker.py
+system prompts open as "staff writer on the research desk building the definitive, honest
+reference…"; comprehensiveness_sweep_glm.py opens with the source-isn't-done-until-mined rule;
+tasks/research-page-task.md re-titled as the READ & MINE step; tasks/backfill-page-task.md as
+the EXPAND/BUILD OUT step; sources/inbox/README.md (Hermes's contract) opens with the mission
++ its standing assignment (the auto-generated work order); BACKLOG header states what the
+queue is FOR; ROADMAP points at §0 as the canonical short form. One mission, quoted
+everywhere — no executor works from process jargon alone.
+
+---
+
+## 2026-07-06f — Three editorial policies from Floyd: delta rule, evidence ordering, PD full texts
+
+(1) DELTA RULE — honest answer to "are enrichments checked for duplication?": partially, and
+now explicitly: read the target page first, add only what's new, one finding one home, link
+don't restate (LOOP mission + editor-review check; the Danish experiment's three restatements
+in w1 are the named lesson; duplication-sweep audit queued).
+(2) EVIDENCE ORDERING — supporting-research lists now read strongest-first by evidential
+weight (EDITORIAL §3): quasi-experimental/top-journal > peer-reviewed > institutional >
+working papers > advocacy. Demonstrated on the landlords outcome (Danish natural experiment
+now leads; Doucet's synthesis demoted to last). Reorder pass over all 15 outcomes queued.
+(3) PUBLIC-DOMAIN FULL TEXTS (EDITORIAL §3b) — pre-1931 works may be held IN FULL: new
+texts/ category wired into lint/preview/ghost (public_domain: true exempts the quote cap),
+sources/publicdomain/ for whole books, Hermes PD delivery channel opened with a priority
+list (George's works, Saratoga 1890 proceedings, Agrarian Justice, Johnson 1914, Post 1923).
+Diagram re-synced same commit.
+
+---
+
+## 2026-07-06g — END OF CAMPAIGN DAY: branch merged to main (Floyd's direction)
+
+Day's totals on this branch (44 commits): Hermes PR #6 T1-reviewed, merged, reconciled
+(3 duplicate slugs caught+merged, libgen provenance flagged+policy'd); loop redesigned
+first-principles in mission language (Fact-Check Desk + work order, debt ratchet, accept bar,
+digest-before-you-scan, delta rule, evidence ordering, PD full texts, 6 new lint gates,
+loop diagram with sync rule); coverage: 307→336 pages, 14 new stubs (all demand-justified),
+2 objections (homevoter new — rated the wiki's strongest; revenue deepened with Krugman/Blaug
+locators), 6 thin pages rebuilt, ~30 Sources annotated, all 15 outcomes reordered
+strongest-first; warnings 493→478 with growth absorbed. Directives for the next session in
+the BACKLOG checkpoint above.

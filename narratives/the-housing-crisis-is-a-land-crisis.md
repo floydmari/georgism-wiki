@@ -37,6 +37,11 @@ frees the land, land taxation makes holding it idle unaffordable.
   Macfarlane) supplied the macro-financial version: a land–credit feedback loop in
   which mortgage lending and land prices chase each other upward, decoupling house
   prices from incomes.[2]
+- **[George Monbiot](/wiki/george-monbiot/)** took the diagnosis to Britain's
+  mainstream: his Labour-commissioned report *Land for the Many* (2019, edited with
+  Laurie Macfarlane and others) framed housing unaffordability as a land-ownership
+  problem and proposed council-tax replacement with a progressive property tax,
+  putting land reform on a major party's agenda.[10]
 - **[Dominic Frisby](/wiki/dominic-frisby/)** carries the popular British version;
   [Prosper Australia](/wiki/prosper-australia/) documents speculative vacancy in
   Melbourne; the [Center for Land Economics](/wiki/center-for-land-economics/) works
@@ -109,7 +114,7 @@ frees the land, land taxation makes holding it idle unaffordable.
    crisis needs more of; splitting the rate is the point
    ([objection page](/wiki/lvt-is-just-a-property-tax/);
    [split-rate taxation](/wiki/split-rate-taxation/)).
-4. **"Homeowners will never allow it."** Politically serious. Responses: revenue
+4. **"Homeowners will never allow it."** Politically serious — steelmanned in full at [the homevoter objection](/wiki/homevoters-will-block-lvt/). Responses: revenue
    recycling (cut sales/income or the building share of property tax), phase-ins,
    and deferral for the [asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/);
    Detroit's proposal was framed as a tax *cut* for most homeowners
@@ -155,6 +160,8 @@ frees the land, land taxation makes holding it idle unaffordable.
   answers "then who should get the land value instead?").
 
 ## See Also
+
+- [The Barker Review (2003–04)](/wiki/barker-review-housing-supply/) — the UK's official supply diagnosis (stub)
 
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) — the evidence page, contested rating and all
 - [Split-rate increases construction](/wiki/split-rate-increases-construction/) — the strongest supporting evidence
@@ -208,3 +215,9 @@ frees the land, land taxation makes holding it idle unaffordable.
    [AEA](https://www.aeaweb.org/articles?id=10.1257%2Fmac.20170388) ·
    [wiki summary](/wiki/hsieh-moretti-spatial-misallocation/) — used for the
    macroeconomic cost of housing constraints (B-claim).
+10. George Monbiot (ed.) et al., *Land for the Many*, report to the Labour Party,
+    June 2019.
+    [PDF](https://labour.org.uk/wp-content/uploads/2019/06/12081_19-Land-for-the-Many.pdf)
+    · [wiki bio](/wiki/george-monbiot/) — used for the report's existence, editorship,
+    and headline proposals (A/C-claims; snippet-corroborated — see the bio page's
+    verification note).

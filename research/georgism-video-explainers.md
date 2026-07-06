@@ -21,6 +21,14 @@ Several well-produced YouTube videos serve as short, accessible introductions to
 - **"Henry George & Land Value Tax"** and other **"Georgism 101"** videos — concise overviews of [Henry George](/wiki/henry-george/) and the [land value tax](/wiki/land-value-tax/).
 - **[Dominic Frisby's](/wiki/dominic-frisby/) "A Simple Guide to Land Value Tax"** — a UK-focused introduction.
 
+## Documentary Addendum (2026-07-06)
+
+- *Henry George and the Single Tax* (Mike Bonner / City Point Films, 26 min) — historical
+  overview featuring Rodney Jester and Mike Curtis, highlighting Arden, Delaware; covered with a
+  filmmaker Q&A by Lawrence Bosek on progress.org (30 Nov 2017).
+- [*Real Estate 4 Ransom*](/wiki/real-estate-4-ransom/) (Prosper Australia, 2012) — now has its
+  own wiki page.
+
 ## Sources
 
 1. "The Best Idea That Will Never Happen: Georgism 101." [YouTube](https://www.youtube.com/watch?v=smi_iIoKybg)

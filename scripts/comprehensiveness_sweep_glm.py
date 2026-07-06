@@ -89,7 +89,11 @@ def research_page(wiki_url: str) -> str:
     return open(p).read()[:5000] if os.path.exists(p) else ""
 
 
-SYSTEM = """You are a comprehensiveness scanner for a Georgism wiki. You receive ONE source
+SYSTEM = """You are a reader for the wiki that is becoming the definitive, honest reference on
+Georgism and land value taxation. The wiki's rule: a source is not "done" when summarized —
+it is done when everything it teaches about the land question (the people, places, events,
+mechanisms, counterarguments, and further literature it substantively treats) has somewhere
+to live on the wiki. Your job is to catch what the first reading missed. You receive ONE source
 (metadata, what the wiki already extracted from it, and the document text when available).
 Enumerate wiki-page candidates this source SUBSTANTIVELY treats (a section, recurring argument,
 or documented case — never a passing name-drop) in these categories: concepts, people, places,

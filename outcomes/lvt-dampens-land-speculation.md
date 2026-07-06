@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, speculation, land-cycle, holding-cost, lvt]
 stub: false
 evidence_strength: "Moderate (strong theory; suggestive empirics)"
-supported_by: [tomson-estonia-lvt, cunningham-seattle-options, foldvary-business-cycle-synthesis, hoyt-chicago-land-values, glaeser-real-estate-bubbles, case-shiller-2003-bubble, harrison-power-in-the-land]
+supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land]
 excerpt: "By imposing an annual cost on holding land, LVT reduces the incentive to hold sites idle for speculative gain — shrinking the booms and busts of the land cycle."
 last_reviewed: 2026-07-04
 ---
@@ -40,11 +40,11 @@ Harrison (1983) presents Australian state-level data as a natural experiment in 
 The data suggest that taxing buildings (as NAV does) penalises construction and encourages speculative land holding, while taxing land alone (SVR) pushes owners to develop or sell — consistent with the carrying-cost mechanism the narrative predicts. This is comparative observational evidence rather than a randomised trial, but the direction and magnitude are substantial.
 
 **5. The Danish municipal boundary natural experiment** (Doucet, Ch. 20):
-In 2007, Denmark redrew all municipal boundaries, causing a semi-random shuffling of LVT rates across approximately 250 areas — an exogenous trigger independent of local politics or land markets. Høj, Jørgensen, & Schou (2017) found that LVT is **fully capitalized** into property prices: the selling price of land falls proportionately to how much land income is taxed away. This is the strongest quasi-experimental evidence to date that LVT cannot be passed on to tenants and that it directly reduces the speculative resale value of land — the channel through which dampened speculation operates. Doucet surveys 13+ additional studies, with 12 supporting full capitalization (Doucet, *Land is a Big Deal*, Ch. 20). See [[books/land-is-a-big-deal]].
+In 2007, Denmark redrew all municipal boundaries, causing a semi-random shuffling of LVT rates across approximately 250 areas — an exogenous trigger independent of local politics or land markets. [Høj, Jørgensen & Schou (2017)](/wiki/dors-land-taxes-housing-prices/) — the DØRS study the wiki carries directly — found that LVT is **fully capitalized** into property prices: the selling price of land falls proportionately to how much land income is taxed away. The capitalization finding's primary home on this wiki is the [landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) outcome; its relevance here is that full capitalization directly reduces the speculative resale value of land — the channel through which dampened speculation operates. Doucet surveys 13+ additional studies, with 12 supporting full capitalization (Doucet, *Land is a Big Deal*, Ch. 20). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 
 ## Strength of Evidence
 
-**Moderate.** The speculative phenomenon itself is exhaustively documented (tier 1), and the carrying-cost mechanism is well-grounded in option theory (tier 2); but direct policy evidence that an LVT dampens the cycle (tier 3) remains thin, because few jurisdictions run a high-rate LVT to test it cleanly. The Australian SVR vs NAV comparison (tier 4) provides the strongest quasi-experimental evidence that the tax base structure affects speculative behaviour and construction, though it tests split-rate versus composite rating rather than full LVT specifically. Readers should not cite the tier-1 studies as evidence that LVT works — only that the problem it targets is real.
+**Moderate.** The speculative phenomenon itself is exhaustively documented (tier 1), and the carrying-cost mechanism is well-grounded in option theory (tier 2); but direct policy evidence that an LVT dampens the cycle (tier 3) remains thin, because few jurisdictions run a high-rate LVT to test it cleanly. The Australian SVR vs NAV comparison (tier 4) adds observational cross-jurisdiction corroboration that the tax base structure affects speculative behaviour and construction, though it is advocacy-reported and tests split-rate versus composite rating rather than full LVT specifically. Readers should not cite the tier-1 studies as evidence that LVT works — only that the problem it targets is real.
 
 ## See Also
 
@@ -58,5 +58,5 @@ In 2007, Denmark redrew all municipal boundaries, causing a semi-random shufflin
 
 1. Tomson (2016), Estonia/Tallinn land-tax study — [wiki summary](/wiki/tomson-estonia-lvt/)
 2. Fred Harrison (2005), *Boom Bust* — the land-cycle account of speculation. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) · [wiki summary](/wiki/harrison-boom-bust/)
-3. Fred Harrison (1983), *The Power in the Land*, Shepheard-Walwyn. [Publisher](https://shepheardwalwyn.com/product/the-power-in-the-land/) · [wiki summary](/wiki/harrison-power-in-the-land/) — used for the Australian SVR vs NAV dwelling growth and building permit data (B-claim; empirical).
-4. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 20 — used for the Danish municipal boundary natural experiment (Høj et al. 2017) on LVT full capitalization into property prices (B-claim; quasi-experimental). See [[books/land-is-a-big-deal]].
+3. Fred Harrison (1983), *The Power in the Land*, Shepheard-Walwyn. [Publisher](https://shepheardwalwyn.com/product/the-power-in-the-land/) · [wiki summary](/wiki/harrison-power-in-the-land/) — used for the Australian SVR vs NAV dwelling growth and building permit data (C-claim: empirical data reported in an advocacy book, not peer-reviewed; treat as corroborating, not load-bearing).
+4. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 20 — used for the Danish municipal boundary natural experiment (Høj et al. 2017) on LVT full capitalization into property prices (B-claim; quasi-experimental). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).

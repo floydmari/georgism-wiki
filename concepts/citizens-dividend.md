@@ -31,5 +31,5 @@ The **Alaska Permanent Fund Dividend** is the closest large-scale implementation
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-2. Alaska Permanent Fund Dividend — the standing resource-rent dividend program.
+1. Henry George (1879), *Progress and Poverty* — used for the rent-as-common-property foundation (A-claim). [wiki summary](/wiki/progress-and-poverty/)
+2. Alaska Permanent Fund Dividend — used as the operating real-world example (A-claims; full evidence on [the outcome page](/wiki/resource-rent-dividends-work/)).

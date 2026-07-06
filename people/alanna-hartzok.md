@@ -20,4 +20,4 @@ Her book ***The Earth Belongs to Everyone*** (2008) collects essays arguing that
 
 ## Sources
 
-1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* (book).
+1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* — used for her earth-rights program and organizational roles (A/C-claims; advocacy source, self-description).

@@ -94,8 +94,8 @@ rather than merely regulating the credit that finances it.
   Doucet also cites Michael Hudson's finding that "most land rent is paid out as interest
   to banks and that bank credit is a major driver of increases in housing prices" (Ch. 16),
   bridging the Georgist and credit-cycle readings by locating the causal engine in the
-  land-collateral channel. See [[books/land-is-a-big-deal]].
-- **Outside academic validation of the prediction record.** Dirk Bezemer's 2009
+  land-collateral channel. See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+- **Outside academic validation of the prediction record.** [Dirk Bezemer's 2009 survey](/wiki/bezemer-no-one-saw-this-coming/)
   cross-analyst survey of who anticipated the 2008 crisis in advance, and why, lists
   Harrison and Foldvary among roughly a dozen analysts who issued detailed, public,
   pre-crisis warnings — grounded, he finds, in accounting/flow-of-funds models of debt
@@ -371,4 +371,4 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 14. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Chs. 7–8, 16 —
     used for the modern restatement of George's land-speculation theory as a structural
     feature of unregulated land markets and Hudson's bank-credit finding (A/B-claim).
-    See [[books/land-is-a-big-deal]].
+    See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).

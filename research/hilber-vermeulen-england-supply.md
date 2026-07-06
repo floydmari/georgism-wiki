@@ -54,6 +54,8 @@ Hilber and Vermeulen's paper supports the **land-scarcity half** of the Georgist
 
 ## See Also
 
+- [The Barker Review (2003–04)](/wiki/barker-review-housing-supply/) — the official predecessor diagnosis
+
 - [Saiz (2010), The Geographic Determinants of Housing Supply](/wiki/saiz-housing-supply-elasticity/)
 - [Glaeser & Gyourko (2018), The Economic Implications of Housing Supply](/wiki/glaeser-gyourko-housing-supply/)
 - [Knoll, Schularick & Steger (2017), No Price Like Home](/wiki/knoll-schularick-steger-house-prices/)

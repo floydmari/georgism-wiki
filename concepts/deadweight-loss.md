@@ -30,6 +30,8 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 
 ## See Also
 
+- [Tideman & Plassmann, Losses of Nations (1998)](/wiki/tideman-plassmann-losses-of-nations/) — the movement's G7 excess-burden calculation (stub, pending full read)
+
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/)
 
 - [Land Value Tax](/wiki/land-value-tax/) — the zero-deadweight-loss tax
@@ -38,5 +40,5 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 
 ## Sources
 
-1. James Mirrlees et al. (2011), *Tax by Design* (the Mirrlees Review), Institute for Fiscal Studies. [IFS](https://ifs.org.uk/books/tax-design) · [wiki summary](/wiki/mirrlees-review/)
-2. Standard public-economics treatment of excess burden and tax incidence under inelastic supply.
+1. James Mirrlees et al. (2011), *Tax by Design* (the Mirrlees Review), Institute for Fiscal Studies — used for the authoritative statement that recurrent land/property taxes are the least distorting (A/B-claims). [IFS](https://ifs.org.uk/books/tax-design) · [wiki summary](/wiki/mirrlees-review/)
+2. Standard public-economics treatment of excess burden under inelastic supply — used for the textbook mechanism (A-claim; any intermediate public-finance text states it).

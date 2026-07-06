@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, economic-rent, market-power, markups, superstar-firms, contested]
 stub: false
 evidence_strength: "Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency"
-supported_by: [de-loecker-eeckhout-unger-markups, furman-orszag-firm-rents, barkai-declining-shares, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, akcigit-ates-business-dynamism, cea-2016-market-power]
+supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents]
 challenged_by: [crouzet-eberly-intangibles]
 excerpt: "A converging empirical literature finds US corporate profits have risen far beyond competitive returns — markups, pure-profit shares, and firm-level return dispersion all point to growing economic rents, extending the Georgist rent analysis beyond land."
 last_reviewed: 2026-07-04
@@ -33,13 +33,19 @@ The main rival reading is that measured profits reward genuine efficiency and in
 
 These are not fully exculpatory: rents on intangibles and network positions are still returns to scarcity and position rather than to marginal production, which is why parts of this literature (e.g., [Mazzucato, Ryan-Collins & Gouzoulis 2023](/wiki/mazzucato-mapping-rents/)) treat them as the modern frontier of rent analysis. But they mean the *size* of the pure-rent component is genuinely contested.
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
-
-- [Zingales (2017)](/wiki/zingales-political-theory-firm/) — Zingales argues that market concentration creates a 'Medici vicious circle' where firms use economic power to gain political power, which in turn entrenches market power — a political-economy mechanism for rising corporate rents.
-- [Akcigit & Ates (2021)](/wiki/akcigit-ates-business-dynamism/) — A review of ten stylized facts on declining US business dynamism — rising concentration, markups, and profits alongside falling labor share — unified through an endogenous growth model in which slowing knowledge diffusion from frontier to laggard firms drives the observed trends.
-- [Advisers (2016)](/wiki/cea-2016-market-power/) — A 2016 Council of Economic Advisers issue brief documenting rising industry concentration, increasing returns dispersion among firms, and declining business dynamism — an official U.S. government corroboration of the rising-rents thesis.
+Three further sources round out the firm-rents record.
+[Akcigit & Ates (2021)](/wiki/akcigit-ates-business-dynamism/) unify ten stylized
+facts of declining US business dynamism — rising concentration, markups, and
+profits alongside falling labor share — in an endogenous-growth model where
+slowing knowledge diffusion from frontier to laggard firms drives the trends.
+[Zingales (2017)](/wiki/zingales-political-theory-firm/) supplies the
+political-economy mechanism: a "Medici vicious circle" in which market power buys
+political power that entrenches market power.
+The [2016 Council of Economic Advisers brief](/wiki/cea-2016-market-power/) is
+the official-institution corroboration: rising concentration, widening returns
+dispersion, and falling dynamism documented by the US government itself.
 
 ## Strength of Evidence
 

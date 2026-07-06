@@ -32,7 +32,7 @@ together."
 - **[Henry George](/wiki/henry-george/)** supplied the principle — land rent is the
   natural common fund — though he favoured spending it on public purposes; the
   explicit per-capita dividend is a later development within his tradition.[1]
-- **Thomas Paine**, before George, proposed in *Agrarian Justice* (1797) a
+- **[Thomas Paine](/wiki/thomas-paine/)**, before George, proposed in *Agrarian Justice* (1797) a
   ground-rent-funded payment to every person as "a right, and not a charity" — the
   narrative's founding text.[2]
 - **[Alanna Hartzok](/wiki/alanna-hartzok/)** and the earth-rights wing of the

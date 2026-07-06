@@ -20,4 +20,4 @@ In *Land Nationalisation: Its Necessity and Its Aims* (1882), Wallace argued tha
 
 ## Sources
 
-1. Alfred Russel Wallace (1882), *Land Nationalisation: Its Necessity and Its Aims* (book).
+1. Alfred Russel Wallace (1882), *Land Nationalisation: Its Necessity and Its Aims* — used for his land-reform program and its distinction from George's tax approach (A-claims). [Full text (Internet Archive)](https://archive.org/details/landnationalisat00walliala)

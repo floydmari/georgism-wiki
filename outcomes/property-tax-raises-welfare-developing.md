@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, property-tax, developing-countries, welfare, empirical]
 stub: false
 evidence_strength: "Moderate (rigorous but single-country causal evidence)"
-supported_by: [brockmeyer-property-tax-developing, imf-taxing-immovable-property, world-bank-property-tax-determinants, imf-building-tax-capacity, franzsen-mccluskey-property-tax-africa]
+supported_by: [brockmeyer-property-tax-developing, imf-taxing-immovable-property, franzsen-mccluskey-property-tax-africa, imf-building-tax-capacity, world-bank-property-tax-determinants]
 excerpt: "Causal evidence from Mexico shows raising property-tax rates increases welfare — though coercive enforcement, unlike rate increases, can reduce it."
 ---
 
@@ -17,13 +17,19 @@ In developing economies, **raising the rate** of recurrent property (and land) t
 - [Brockmeyer et al. (2021, NBER)](/wiki/brockmeyer-property-tax-developing/) use natural experiments in Mexico and find that property-tax **rate increases** raised welfare, while aggressive **enforcement** against delinquents could lower it. The gains come from the rate on compliant owners, not from coercion.
 - This aligns with the [IMF's global assessment](/wiki/imf-taxing-immovable-property/) that property/land taxes are efficient but under-used, with large untapped potential in developing countries.
 
-## The Evidence — Paper by Paper
+## The Evidence in Detail
 
-The full evidence wiring for this outcome (each page carries its external citations and honest caveats):
-
-- [Bank (2020)](/wiki/world-bank-property-tax-determinants/) — A cross-country analysis of property-tax revenue performance across 128 countries, identifying what drives successful property and land taxation.
-- [Baer et al. (2025)](/wiki/imf-building-tax-capacity/) — IMF Departmental Paper on mobilizing domestic tax revenue in developing countries, arguing property taxation is a large, underused, administratively demanding revenue source.
-- [Franzsen & McCluskey (2017)](/wiki/franzsen-mccluskey-property-tax-africa/) — The first comprehensive study of recurrent property taxation across Africa — 29 country reviews showing the tax is efficient in theory but severely constrained by valuation, identification, and enforcement capacity.
+The institutional record around the experimental core.
+The [World Bank's 128-country analysis (2020)](/wiki/world-bank-property-tax-determinants/)
+identifies what drives successful property and land taxation across the
+developing world; the [IMF's 2025 capacity paper](/wiki/imf-building-tax-capacity/)
+argues property taxation is a large, underused, administratively demanding
+revenue source for developing countries; and
+[Franzsen & McCluskey's Africa survey (2017)](/wiki/franzsen-mccluskey-property-tax-africa/)
+— 29 country reviews — shows the tax is efficient in theory but severely
+constrained in practice by valuation, identification, and enforcement capacity.
+Together they frame the experimental evidence: the welfare gains are real where
+administration works, and administration is the binding constraint.
 
 ## Strength of Evidence
 

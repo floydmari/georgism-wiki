@@ -21,7 +21,7 @@ from lint_wiki import parse_frontmatter, aslist
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "preview")
 CATEGORIES = ["concepts", "people", "places", "events", "outcomes",
-              "research", "organizations", "objections", "narratives"]
+              "research", "organizations", "objections", "narratives", "books", "texts"]
 
 try:
     import markdown as _md

@@ -20,6 +20,8 @@ Patel represents the practitioner/forecasting strand of the Georgist tradition �
 
 ## See Also
 
+- [Phillip J. Anderson](/wiki/phillip-j-anderson/) — mentor and PSE co-principal
+
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Fred Harrison](/wiki/fred-harrison/) · [Michael Hudson](/wiki/michael-hudson/)
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the narrative his forecasting work supports
 

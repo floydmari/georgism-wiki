@@ -1,9 +1,11 @@
 ---
 title: "Phillip J. Anderson"
 category: people
-tags: [phil-anderson, georgism, land-cycle, 18-year-cycle, real-estate, banking, citdiv, property-sharemarket-economics, shepheard-walwyn]
+tags: [people, phil-anderson, georgism, land-cycle, 18-year-cycle, real-estate, banking, citdiv, property-sharemarket-economics, shepheard-walwyn]
 stub: false
+excerpt: "Australian analyst and author of The Secret Life of Real Estate and Banking (2008), the banking-credit account of the 18-year land cycle; runs the commercial cycle-research service PSE and the citdiv.org dividend-advocacy site. Advocate-practitioner — his investment service's claims are its own marketing."
 sources: [anderson-2008]
+last_reviewed: 2026-07-06
 ---
 
 ## Overview
@@ -18,19 +20,20 @@ The book's central thesis is that "no capitalised rent, no real estate cycle" (C
 
 ## Economic Indicator Services (EIS)
 
-Anderson founded Economic Indicator Services (EIS) in 1991, offering economic forecasting services based on the 18.6-year cycle. EIS later evolved into Property Share Market Economics (PSE). According to Shepheard-Walwyn, "Phil has a wealth of knowledge concerning international real estate markets that cannot be equalled."
+Anderson founded Economic Indicator Services (EIS) in 1991, offering economic forecasting services based on the 18.6-year cycle. EIS later evolved into Property Share Market Economics (PSE). (His publisher's author page carries the expected promotional praise; it is cited here only for the founding dates and roles.)
 
 ## Property Share Market Economics
 
-Anderson runs Property Share Market Economics (PSE), a commercial investment research service offering:
-
-- **Boom Bust Bulletin** — weekly newsletter on cycle positioning
-- **PSE Membership** — proprietary Property Cycle clock and e-book library
-- **Boom Bust Insider** — premium analysis and early market signals
-
-PSE promotes the 18.6-year cycle as an investment tool, emphasizing that the cycle "has been repeating like clockwork for over 200 years." The service is co-branded with Akhil Patel, author of *The Secret Wealth Advantage* (2023), who Anderson mentors in cycle analysis. Together they claim "almost five decades' experience in cycles analysis" and a "proven track record in calling all of the main turns in the markets and the economy."
-
-A testimonial from Jason Pizzino (Director of TIA Crypto, crypto YouTuber) states: "Phil's work with regards to the cycle and Gann analysis has been on point for the decade that I've followed him... If you're interested in learning how to invest full time and understand the cycles and make the most out of investment, I highly suggest following Phil Anderson."
+Anderson runs Property Share Market Economics (PSE), a commercial subscription
+investment-research service (newsletters, a proprietary "Property Cycle clock,"
+premium market analysis) built on the 18.6-year cycle, co-run with Akhil Patel,
+author of *The Secret Wealth Advantage* (2023). The service's own marketing claims
+"almost five decades' experience in cycles analysis" and a "proven track record in
+calling all of the main turns in the markets and the economy" — advocacy-level
+claims that no independent audit on file substantiates; the wiki's assessment of
+the cycle literature's prediction record lives at
+[land speculation causes cycles](/wiki/land-speculation-causes-cycles/), which
+rests on Bezemer's independent survey rather than practitioner self-description.
 
 ## Citizen's Dividend (citdiv.org)
 

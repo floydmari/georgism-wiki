@@ -32,5 +32,5 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 
 ## Sources
 
-1. Lincoln Institute studies of land value capture (Taiwan, Hong Kong case studies). [Taiwan PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf)
-2. Dye & England (2010) — [wiki summary](/wiki/dye-england-assessing-lvt/)
+1. Lincoln Institute studies of land value capture (Taiwan, Hong Kong case studies) — used for the instrument taxonomy and the operating examples (A/B-claims). [Taiwan PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf)
+2. Dye & England (2010) — used for the relationship between value capture and land value taxation (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
