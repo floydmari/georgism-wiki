@@ -74,6 +74,51 @@ Existing pages to re-grade under the gradient rule at next touch: corporate-prof
 (already carries Crouzet-Eberly — good), fire-sector, superstar-firms, the-rentier-economy
 narrative, mazzucato-mapping-rents (framework-not-finding caveat already added).
 
+## WS-TECH-RENTS — monopolistic tech firms: diagnosis + capture regime (Floyd directive, 2026-07-06 late)
+THE HARD QUESTION of the Geoist expansion, and it gets its own workstream: how much of big-tech
+profit is unearned rent (network-effect moats, data accumulation, platform gatekeeping,
+IP/regulatory privilege — the "land-like positions" of the digital economy) vs. quasi-rent that
+rewards genuine innovation — and WHAT TAX REGIME captures the former without killing the latter.
+The rent gradient rule applies hardest here; every page in this WS links the Schumpeterian
+steelman once it exists. Seed corpus already on the wiki: corporate-profits-increasingly-rents
+(with Crouzet-Eberly counter), superstar-firms, mazzucato-mapping-rents, rochet-tirole,
+de-loecker-eeckhout-unger, philippon, fire-sector, harberger-tax/COST.
+
+Diagnosis track:
+- [ ] [FIND] tier:T2 status:todo — the is-it-rent evidence, updated: markup decomposition since
+      De Loecker (intangibles vs power), Furman Review (UK digital competition, 2019), CMA/DMA
+      market studies, Korinek-Stiglitz on AI rents, attention-market economics. Ends in triage
+      report; feeds a candidate outcome "platform profits contain substantial economic rents"
+      (expect verdict: CONTESTED — write it that way or not at all).
+Instrument track (the actual tax regimes — each gets a concepts/ page + incidence evidence):
+- [ ] [FIND] tier:T2 status:todo — RENT-TARGETING CORPORATE TAX DESIGNS, the mainstream core:
+      ACE (allowance for corporate equity — taxes only above-normal returns = economic rent by
+      construction; Belgium/Italy natural experiments show minimal investment distortion) and
+      cash-flow/DBCFT (Auerbach-Devereux — taxes location-specific rents). This is the
+      strongest candidate for a NEW OUTCOME: "rent-only corporate taxes avoid investment
+      distortion" (peer-reviewed quasi-experimental base exists). Mirrlees Review already on
+      wiki carries ACE — de-reference its primaries.
+- [ ] [FIND] tier:T2 status:todo — DIGITAL SERVICES TAXES as tried: France/UK/India DSTs,
+      incidence evidence (Amazon passed the UK DST to marketplace sellers — a Geoist-relevant
+      FAILURE: a badly aimed rent tax gets shifted, exactly what LVT theory predicts for
+      non-rent bases), OECD Pillar One residual-profit reallocation + Pillar Two minimum tax
+      as implicit excess-return taxation. Honest verdict likely: DSTs are revenue-motivated
+      turnover taxes, NOT rent capture — the wiki should say so.
+- [ ] [FIND] tier:T2 status:todo — attention/advertising rents: Romer's progressive digital
+      ad tax proposal (the closest thing to a Georgist instrument aimed at attention markets),
+      ad-tech market concentration evidence. + data dividends / data-as-labor (Weyl, queued)
+      and sovereign data funds as capture-at-the-source designs.
+- [ ] [FIND] tier:T2 status:todo — rent DISSOLUTION vs rent CAPTURE: antitrust, interop
+      mandates, EU DMA — the alternative that destroys the rent instead of taxing it; when is
+      each right (Georgist analogy: zoning reform dissolves regulatory rent; LVT captures
+      location rent — both live in the program).
+Synthesis track (T1, after the FINDs land):
+- [ ] [SYNTHESIS] tier:T1 status:todo — outcomes/rent-targeting-taxes-avoid-distortion (ACE/
+      cash-flow evidence) + honest instrument-comparison concept page (concepts/
+      taxing-tech-rents: ACE/DBCFT vs DST vs ad tax vs data dividend vs antitrust, graded);
+      objections/taxing-quasi-rents-kills-innovation is the mandatory counterweight (queued
+      in WS-GEOISM); narrative candidate LAST, only if the evidence supports one.
+
 ## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
 HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,

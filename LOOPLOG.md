@@ -569,3 +569,15 @@ non-land evidence, platform/data/IP, financial rents) + the Schumpeterian quasi-
 objection as the expansion's mandatory steelman + instrument-concept queue. The existing
 tech-rents/FIRE cluster (Mazzucato, superstar-firms, corporate-profits outcome) is the
 expansion's seed corpus, already carried with counter-positions.
+
+---
+
+## 2026-07-06i — WS-TECH-RENTS opened (Floyd): the monopolistic-tech-firms question
+
+Dedicated workstream on the expansion's hardest case: diagnosis track (how much of big-tech
+profit is rent — expect CONTESTED), instrument track (ACE/cash-flow rent-only corporate taxes
+as the mainstream core with Belgium/Italy quasi-experiments — best new-outcome candidate;
+DSTs honestly graded as turnover taxes that shifted, per the Amazon UK pass-through; Romer's
+ad tax; data dividends; antitrust as rent-dissolution vs capture), synthesis track gated on
+the finds. Every page links the Schumpeterian steelman. Session handoff prompt delivered to
+Floyd; morning successor trigger deleted in favor of the immediately-started session.
