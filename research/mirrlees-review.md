@@ -37,6 +37,18 @@ The Review is notably cautious about implementation, which is instructive for as
 - **The Housing Services Tax is a transitional, second-best design** for the domestic sector — a reformed, value-proportional property/consumption tax rather than a pure land value tax — reflecting judgment that a full domestic land value tax was not immediately deliverable, even though the panel regarded taxing land value as the theoretically preferred base.
 - **The Review frames these as part of a broader coherent package** (alongside income tax, VAT, savings, and corporate tax reform) rather than as a standalone land-tax proposal, so its land and property recommendations should be read in that wider context rather than as an isolated case for a single-tax system.
 
+## Beyond Land: The Rent-Only Corporate Tax Proposal
+
+The Review's corporate-tax chapters extend the same efficiency logic from land
+to business taxation: it recommends an **[allowance for corporate equity](/wiki/allowance-for-corporate-equity/)**
+for UK corporation tax, so that equity- and debt-financed investment are
+treated equally and only profits **above the normal return** — economic rent —
+are taxed. [VERIFY: exact chapter (17 vs 18) and wording against the IFS PDF —
+proxy-blocked this session.] For the wiki's [Geoism](/wiki/geoism/) file this
+matters doubly: the same institutionally central document that endorses taxing
+land value also endorses a rent-only corporate base, making it the single best
+bridge between the land core and the corporate-rent frontier.
+
 ## Significance for the Georgist Case
 
 The Review's importance for the Georgist case is less about novelty of theory — the fixed-supply efficiency argument for land taxation is old, tracing to [David Ricardo](/wiki/david-ricardo/) and [Henry George](/wiki/henry-george/) — and more about **institutional authority**. It was produced by one of the UK's most respected independent economic research institutes, chaired by a Nobel laureate, and staffed by a panel of mainstream public-finance economists with no Georgist affiliation. That a document of this stature concluded taxing land value is more efficient than the UK's existing property and transaction taxes, and recommended replacing business rates with a land value tax, is frequently cited (including elsewhere on this wiki, e.g. [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/)) as evidence that the core Georgist claim about land taxation is not a fringe position within economics.
@@ -52,6 +64,7 @@ The Review's importance for the Georgist case is less about novelty of theory �
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/)
+- [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) — the Review's rent-only corporate proposal
 - [Deadweight Loss](/wiki/deadweight-loss/)
 - [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)

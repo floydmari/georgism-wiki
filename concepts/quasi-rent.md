@@ -67,8 +67,9 @@ still the shape of the modern dispute.
   (De Loecker–Eeckhout–Unger vs. Crouzet–Eberly) and
   [superstar firms](/wiki/superstar-firms/).
 - **Rent-targeting tax design.** Instruments that exempt the normal return to
-  investment and tax only above-normal returns — allowance-for-corporate-equity
-  and cash-flow corporate taxes — are attempts to *engineer around* the
+  investment and tax only above-normal returns — the
+  [allowance for corporate equity](/wiki/allowance-for-corporate-equity/)
+  and [cash-flow corporate taxes](/wiki/cash-flow-tax/) — are attempts to *engineer around* the
   quasi-rent problem at the tax-base level; how far they succeed for
   innovation-driven profits is the open question of the WS-TECH-RENTS
   workstream, and the Schumpeterian objection (innovation profits are

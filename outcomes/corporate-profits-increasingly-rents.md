@@ -53,7 +53,7 @@ dispersion, and falling dynamism documented by the US government itself.
 
 ## Relation to the Georgist Case
 
-Henry George's analysis located unearned income in land; the modern rent literature finds structurally similar unearned income in corporate position. The policy translation is the same in spirit — tax the rent, not the production — though instruments differ (competition policy, spectrum/resource auctions, platform regulation, and rent-focused taxation rather than a land value tax). See [economic rent](/wiki/economic-rent/), [rent-seeking](/wiki/rent-seeking/), and the narrative [The Rentier Economy](/wiki/the-rentier-economy/).
+Henry George's analysis located unearned income in land; the modern rent literature finds structurally similar unearned income in corporate position. The policy translation is the same in spirit — tax the rent, not the production — though instruments differ (competition policy, spectrum/resource auctions, platform regulation, and rent-focused taxation — see the [allowance for corporate equity](/wiki/allowance-for-corporate-equity/) and [cash-flow tax](/wiki/cash-flow-tax/) designs — rather than a land value tax). See [economic rent](/wiki/economic-rent/), [rent-seeking](/wiki/rent-seeking/), and the narrative [The Rentier Economy](/wiki/the-rentier-economy/).
 
 ## See Also
 

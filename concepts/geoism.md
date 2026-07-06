@@ -32,7 +32,7 @@ Each domain has its own instrument and its own evidence base:
 | Road space & congestion | Congestion pricing | Queued: the Vickrey→Singapore/London/Stockholm evidence line |
 | Monopoly & regulatory privilege | Antitrust; license auctions; [rent-seeking](/wiki/rent-seeking/) reform | [Corporate profits increasingly rents](/wiki/corporate-profits-increasingly-rents/) — carried WITH its counter-position |
 | Finance & credit | The contested frontier: [FIRE-sector](/wiki/fire-sector/) analysis | [Rentier](/wiki/rentier/) · [the rentier-economy narrative](/wiki/the-rentier-economy/) |
-| Platforms & data | The open design problem — rent-targeting corporate taxes (ACE/cash-flow), ad taxes, data dividends, [COST designs](/wiki/harberger-tax/); dedicated workstream in BACKLOG (WS-TECH-RENTS) | [Mazzucato's rent map](/wiki/mazzucato-mapping-rents/) · [superstar firms](/wiki/superstar-firms/) |
+| Platforms & data | The open design problem — rent-targeting corporate taxes ([ACE](/wiki/allowance-for-corporate-equity/)/[cash-flow](/wiki/cash-flow-tax/)), ad taxes, data dividends, [COST designs](/wiki/harberger-tax/); dedicated workstream in BACKLOG (WS-TECH-RENTS) | [Mazzucato's rent map](/wiki/mazzucato-mapping-rents/) · [superstar firms](/wiki/superstar-firms/) |
 | Intellectual property | Term/scope reform; prizes vs patents | Queued: the IP-rents literature |
 
 ## The Rent Gradient — Read This Before Citing

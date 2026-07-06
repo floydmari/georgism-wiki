@@ -91,13 +91,31 @@ Diagnosis track:
       report; feeds a candidate outcome "platform profits contain substantial economic rents"
       (expect verdict: CONTESTED — write it that way or not at all).
 Instrument track (the actual tax regimes — each gets a concepts/ page + incidence evidence):
-- [ ] [FIND] tier:T2 status:todo — RENT-TARGETING CORPORATE TAX DESIGNS, the mainstream core:
-      ACE (allowance for corporate equity — taxes only above-normal returns = economic rent by
-      construction; Belgium/Italy natural experiments show minimal investment distortion) and
-      cash-flow/DBCFT (Auerbach-Devereux — taxes location-specific rents). This is the
-      strongest candidate for a NEW OUTCOME: "rent-only corporate taxes avoid investment
-      distortion" (peer-reviewed quasi-experimental base exists). Mirrlees Review already on
-      wiki carries ACE — de-reference its primaries.
+- [x] [FIND] tier:T2 status:done 2026-07-06 (session vy8k5i) — RENT-TARGETING CORPORATE TAX
+      DESIGNS. Triage report: reports/ws-tech-rents-rent-targeting-taxes.find.md. Shipped:
+      concepts/allowance-for-corporate-equity + concepts/cash-flow-tax + concepts/quasi-rent
+      + research/hebous-ruf-ace + research/branzoli-caiumi-italy-ace; Mirrlees page gained
+      its ACE section (de-referencing started); 24 registry rows. KEY CORRECTION to this
+      task's premise: the natural experiments show minimal LEVERAGE distortion — the
+      real-INVESTMENT evidence is genuinely mixed (Hebous-Ruf null for MNE production
+      investment vs Konings et al. positive; Zwick-Mahon expensing evidence positive). The
+      candidate outcome must be reframed, e.g. "rent-targeting corporate taxes reduce debt
+      bias without distorting marginal investment" with the MNE-arbitrage caveat carried.
+      Also: NO published ACE↔Georgism link exists (wiki's analogy = labeled analysis only);
+      the Stiglitz "2015 Tax Law Review" citation in circulation is garbled (real trio: NTJ
+      68(2), NBER WP 21189-92, EJ 125(583)); rent-sharing (Fuest-Peichl-Siegloch AER 2018)
+      is the channel by which even pure rent taxes reach workers. Follow-up research pages
+      queued below.
+- [ ] [DRAFT] tier:T2 status:todo — WS-TECH-RENTS follow-up research pages from the find
+      report (strongest first): power-frerick-excess-returns (the 60→75% number; also feeds
+      corporate-profits outcome), fuest-peichl-siegloch-incidence (AER 2018),
+      domar-musgrave-risk (1944, gates the Schumpeterian objection),
+      akcigit-taxation-innovation (QJE 2022), zwick-mahon-expensing (AER 2017),
+      meade-report (1978), schwerhoff-edenhofer-fleurbaey rent-tax survey (JoES 2020 —
+      synthesis: de-reference primaries when read). People as demand materializes:
+      michael-devereux (highest demand), james-meade, alan-auerbach, shafik-hebous,
+      e-cary-brown, robin-boadway. Concepts: debt-bias. Events:
+      2017-border-adjustment-fight.
 - [ ] [FIND] tier:T2 status:todo — DIGITAL SERVICES TAXES as tried: France/UK/India DSTs,
       incidence evidence (Amazon passed the UK DST to marketplace sellers — a Geoist-relevant
       FAILURE: a badly aimed rent tax gets shifted, exactly what LVT theory predicts for

@@ -581,3 +581,35 @@ DSTs honestly graded as turnover taxes that shifted, per the Amazon UK pass-thro
 ad tax; data dividends; antitrust as rent-dissolution vs capture), synthesis track gated on
 the finds. Every page links the Schumpeterian steelman. Session handoff prompt delivered to
 Floyd; morning successor trigger deleted in favor of the immediately-started session.
+
+---
+
+## 2026-07-06j — WS-TECH-RENTS shift 1 (session vy8k5i): rent-targeting corporate taxes [FIND] complete
+
+Three forage agents (ACE · cash-flow/DBCFT · framing+critiques), ~100 sources; proxy 403'd
+all direct fetches so everything ships snippet-corroborated at Light scan with [VERIFY]
+flags routed to the Hermes work order. Durable triage record:
+reports/ws-tech-rents-rent-targeting-taxes.find.md.
+
+Shipped (5 pages + 1 enrichment): concepts/quasi-rent (the rent gradient's load-bearing
+distinction — Marshall/Blaug/Gochenour-Caplan corpus material was already on the wiki);
+concepts/allowance-for-corporate-equity; concepts/cash-flow-tax (Meade/Brown/DBCFT/Norway
+2022/PRRT failure mode); research/hebous-ruf-ace; research/branzoli-caiumi-italy-ace;
+mirrlees-review gained its ACE section (the Review endorses rent-only bases for BOTH land
+and corporate — the single best bridge between the land core and the corporate frontier).
+24 registry rows + dated export.
+
+EDITORIAL FINDINGS THAT CORRECT THE TASK PREMISE: (1) quasi-experiments show ACE reliably
+cuts LEVERAGE; real-investment evidence is MIXED (Hebous-Ruf JPubE null on MNE production
+investment + double-dip arbitrage vs Konings et al. CJE positive) — the planned outcome
+page must be reframed toward debt-bias + marginal-investment neutrality with the
+MNE caveat, not "avoids investment distortion" flat; (2) every full European ACE has been
+repealed — political fragility is a finding; (3) no published ACE↔Georgism framing exists —
+the analogy ships only as labeled analysis; (4) rent-sharing in wage bargaining
+(Fuest-Peichl-Siegloch AER 2018) partially shifts even rent-only taxes — must appear on
+any incidence claim; (5) the "Stiglitz 2015 Tax Law Review" citation is garbled — real
+trio is NTJ 68(2) 2015 / NBER 21189-92 / EJ 125(583).
+
+Campsite: 13 debt items (12 Sources annotations, Mazzucato venue corrected to CJE on the
+corporate-profits outcome). Warnings 478→472 net of 5 new pages' honest flags; 342 pages;
+lint green; preview links verified.
