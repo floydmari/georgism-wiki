@@ -60,7 +60,13 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   era-seligman and **events/saratoga-single-tax-debate** [VERIFY] flags — venue confirmed as the
   American Social Science Association, Sept 5 1890, proceedings ed. F. B. Sanborn; both de-stubbed.
   Broadened the lint annotation regex to accept "used as/in/to" (cleared ~8 false positives).
-Lint green (0 err, 451 warn, ratchet steadily down from 473).
+- **DONE** shift 6: **people/joseph-fels** built out stub→full (b/d 1853–1914, Fels-Naptha 1894,
+  ~1890 conversion to George, Fels Fund 1909, colony funding Fairhope/Arden/Mayland-Essex) —
+  resolved the [VERIFY] flag via the authoritative Dudden 1943 biography (Internet Archive);
+  de-stubbed; reciprocal Fels cross-link added to events/single-tax-colonies. NOTE: Crime of
+  Poverty texts/ still blocked — Wikimedia blocks the proxy IP (both Wikisource attempts errored);
+  needs a non-Wikimedia clean source (Schalkenbach, coop-individualism working URL) or OCR cleanup.
+Lint green (0 err, 447 warn, ratchet steadily down from 473).
 **Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
 George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
 Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or
