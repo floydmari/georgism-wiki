@@ -4,6 +4,32 @@
 Georgism and LVT. Tasks are the FIND / READ & MINE / SYNTHESIZE / VERIFY / EXPAND motions of
 LOOP.md, tier-tagged by role: T1 editor · T2 staff writers · T3 copy desk.)*
 
+## ⟳ RESUME HERE (checkpoint 2026-07-06 session vy8k5i — branch LIVE, PR #9 OPEN; successor directives)
+
+**EGRESS IS NOW OPEN (Floyd set allow-all, 2026-07-06)** — but the policy applies at
+container creation, so only sessions started AFTER the change get it. Session vy8k5i
+(8 shifts, PR #9) ran fully proxy-blocked; every number it shipped is snippet-corroborated
+with [VERIFY] flags. A successor session with open egress must, in order:
+1. `git fetch origin claude/georgism-wiki-campaign-vy8k5i && git checkout claude/georgism-wiki-campaign-vy8k5i`
+   — CONTINUE this branch and PR #9 (NOT a new branch; PR #9 is unmerged and growing).
+   Confirm egress first: `curl -sS -o /dev/null -w "%{http_code}" https://ifs.org.uk` → 200/30x.
+2. **[VERIFY-SWEEP tier:T2, top priority]** — work the session-vy8k5i flags now fetchable:
+   Mirrlees ch.17 ACE wording (ifs.org.uk taxbydesign.pdf); Power-Frerick 40%→25% (OTA WP
+   111 PDF); Zwick-Mahon 10.4%/16.9% (AEA); Branzoli-Caiumi 31.1%/5.4pp; Hebous-Ruf 3-5pp/
+   11pp magnitudes; Akcigit elasticities; Konings +7.4%/+6.1%; Norway 71.8% technical rate;
+   Marshall quasi-rent Book V chapter (OLL); Schumpeter "spectacular prizes" p.73-74;
+   Friedman 1978 venue; TCPA-1947 repeal year. Resolve or CORRECT each on its page;
+   upgrade Scan Depth Light→Medium where the primary was actually read.
+3. **Exa**: EXA_API_KEY may now be in env settings (Floyd adding); api.exa.ai should be
+   reachable — run the people-enrichment sweep at LOW concurrency (1-2 concurrent).
+4. Then the queue: congestion-pricing [FIND] (WS-GEOISM priority c — now with real fetches);
+   DST-as-tried [FIND]; texts/ PD seeding (Gutenberg/IA/HathiTrust now fetchable —
+   Agrarian Justice first); Great Smoky Mountains primary verification; remaining
+   WS-TECH-RENTS research pages (meade-report, schwerhoff survey, Konings).
+5. Standing rules unchanged (campsite ≥5/shift, stub quota, delta rule, lint green,
+   commit+push per shift, ~75-min wake-ups). Inbox is EMPTY (10/10 consumed).
+
+## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-06 end-of-day — MERGED TO MAIN; directives for the next session)
 
 **Start here.** This branch's work (44 commits: Hermes PR #6 review+merge+reconciliation, the
