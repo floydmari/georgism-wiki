@@ -240,7 +240,7 @@ def main():
         vf = len(re.findall(r"\[VERIFY", body))
         if cn: warn(f, f"{cn} unresolved [CITATION NEEDED] marker(s)")
         if vf: warn(f, f"{vf} unresolved [VERIFY] marker(s)")
-        if "## Sources" in body and not re.search(r"—\s*used for|—\s*Used for", body):
+        if "## Sources" in body and not re.search(r"—\s*[Uu]sed (?:for|as|in|to)\b", body):
             warn(f, "Sources section not annotated (add '— used for …' notes)")
         if len(p["text"].splitlines()) < 30 and p["meta"].get("stub") is not True:
             warn(f, f"thin article ({len(p['text'].splitlines())} lines) — deepen")

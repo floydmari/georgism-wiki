@@ -46,22 +46,29 @@ after this to sort out the Fable-5-concurrency question. If a fresh session resu
 **NEXT SESSION START HERE (checkpoint 2026-07-06, session vy8k5i-qcm0cb, Opus 4.8 sole T1).**
 Fable 5 is OUT for the rest of the week (rate-limited) — no more concurrency; Opus 4.8 owns the
 whole desk as T1. Floyd also enabled an **ask-Hermes** channel (Hermes = GLM 5.2, doing book
-scanning/synthesis; Opus acts as its T1). Progress this run (3 shifts, all pushed to PR #9):
+scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushed to PR #9):
 - **DONE** VERIFY-SWEEP (12 flags, reconciled w/ Fable wave-1).
 - **DONE** congestion-pricing [FIND] → concepts/congestion-pricing + outcomes/congestion-pricing-
   reduces-traffic (Singapore/London/Stockholm from primaries).
 - **DONE** texts/ seeding launch: **texts/agrarian-justice** — Paine's full 1797 pamphlet (7.4k
-  words, Gutenberg 31271/Conway ed.), the FIRST texts/ page; headnote + provenance; wired from
-  thomas-paine + citizens-dividend-narrative; registry deduped to Scanned/Heavy. Also fixed
-  lint: public_domain pages now exempt from the banned-certainty check (mirrors the quote-cap
-  exemption) — PD texts carry the author's words, not the wiki's claims.
-Lint green (0 err, 458 warn, ratchet steadily down from 473).
-**Remaining open priorities, in order:** (a) **Exa people-enrichment sweep** — api.exa.ai returns
-404 on a bare GET but egress is open; run `scripts/exa_enrich.py` with the key Floyd supplies
-in-prompt at LOW concurrency (never commit the key). (b) more **texts/ seeding** (§3b priority
-list: 1890 Saratoga proceedings, Johnson 1914, Post 1923, George's works). (c) congestion
-follow-ups (build out the outcome page; Gothenburg 2013 counter-texture; Smeed Report 1964 stub).
-(d) DST-as-tried [FIND]; Great Smoky Mountains primary; remaining WS-TECH-RENTS research pages.
+  words, Gutenberg 31271/Conway ed.), the FIRST texts/ page. Also fixed lint: public_domain
+  pages exempt from the banned-certainty check (PD texts carry the author's words).
+- **DONE** Exa enrichment: **people/johann-heinrich-von-thunen** built out stub→full (Tellow 1810,
+  Isolierte Staat dating); Magie dates. Sweep report filed.
+- **DONE** shift 5: **people/era-seligman** built out stub→full (Columbia career, AEA founder,
+  Shifting & Incidence 1892+, Seligman–Edgeworth debate; b/d 1861–1939) + resolved BOTH the
+  era-seligman and **events/saratoga-single-tax-debate** [VERIFY] flags — venue confirmed as the
+  American Social Science Association, Sept 5 1890, proceedings ed. F. B. Sanborn; both de-stubbed.
+  Broadened the lint annotation regex to accept "used as/in/to" (cleared ~8 false positives).
+Lint green (0 err, 451 warn, ratchet steadily down from 473).
+**Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
+George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
+Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or
+careful cleanup before it can be a faithful texts/ page. Post 1923 & Johnson's *My Story* are
+book-length → sources/publicdomain/. (b) congestion follow-ups (build out the outcome page;
+Gothenburg 2013 counter-texture; Smeed Report 1964 stub). (c) more Exa people build-outs
+(joseph-fels, louis-f-post). (d) DST-as-tried [FIND]; Great Smoky Mountains primary; remaining
+WS-TECH-RENTS research pages.
 Egress confirmed OPEN (ifs/gutenberg/treasury/archive.org/oll all 200). Branch + PR #9 growing.
 
 ## (previous checkpoint follows — historical)
