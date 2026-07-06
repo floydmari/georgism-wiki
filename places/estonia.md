@@ -34,6 +34,6 @@ Estonia is frequently cited by Georgist advocates as a proof of concept: a funct
 
 ## Sources
 
-1. Aivar Tomson (2016), "Sustainable Urban Development and Land Value Taxation: The Case of Estonia," *Land Use Policy*. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0264837716304999)
-2. Lincoln Institute, "Land Reform and Taxation in Estonia." [Article](https://www.lincolninst.edu/publications/articles/land-reform-taxation-estonia/)
-3. "Boom and Bust in Estonian Real Estate and the Role of Land Tax" (2013), *Land Use Policy*. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0264837712000683)
+1. Aivar Tomson (2016), "Sustainable Urban Development and Land Value Taxation: The Case of Estonia," *Land Use Policy* — used for the design and operation of Estonia's national land tax. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0264837716304999)
+2. Lincoln Institute, "Land Reform and Taxation in Estonia" — used for the post-Soviet land-reform context of the 1993 tax. [Article](https://www.lincolninst.edu/publications/articles/land-reform-taxation-estonia/)
+3. "Boom and Bust in Estonian Real Estate and the Role of Land Tax" (2013), *Land Use Policy* — used for the land tax's behavior across the Estonian property cycle. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0264837712000683)

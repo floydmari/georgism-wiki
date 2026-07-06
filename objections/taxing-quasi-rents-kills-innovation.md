@@ -1,0 +1,198 @@
+---
+title: "Objection: Taxing Quasi-Rents Kills Innovation"
+category: objections
+tags: [objections, schumpeter, quasi-rent, innovation, tech-rents, rent-gradient, corporate-tax, geoism]
+stub: false
+status: "Substantially valid at the frontier — it gates every non-land rent-capture claim; answered in theory by designs (full loss offset, normal-return exemption) that no real system fully implements; no purchase on land itself"
+excerpt: "The Schumpeterian objection to generalized rent capture, steelmanned: innovation profits are quasi-rents — the ex-post prize that motivated the ex-ante gamble — so taxing 'excess returns' taxes the incentive itself. The strongest reason Geoism's certainty about land cannot be extended to platforms, patents, and superstar firms."
+last_reviewed: 2026-07-06
+---
+
+## The Objection
+
+The case for capturing [economic rent](/wiki/economic-rent/) rests on a
+supply-side claim: rent is a return to something nobody produced, so taxing it
+discourages nothing. The Schumpeterian objection says that outside land, the
+premise usually fails. **Innovation profits are
+[quasi-rents](/wiki/quasi-rent/)** — returns above current cost that exist
+*because* an entrepreneur sank resources into an uncertain venture — and the
+prospect of exactly those returns is what called the venture into existence.
+Joseph Schumpeter's formulation in *Capitalism, Socialism and Democracy* (1942)
+is the canonical statement: capitalist reward works by throwing "spectacular
+prizes much greater than would have been necessary to call forth the particular
+effort... to a small minority of winners," and it is the *prizes* — not average
+returns — that propel the system.[1] [VERIFY: page/chapter locator (commonly
+cited at pp. 73–74) against a copy of the book — snippet-corroborated only.]
+
+The tax-policy version: an "excess return" observed ex post cannot be sorted
+into pure rent versus the realized prize on ex-ante risk. A government that
+taxes above-normal corporate returns is therefore taxing, in unknown
+proportion, the very reward that motivates innovation — and unlike a tax on
+location value, that is not free. On this view, generalizing the Georgist move
+from land to platforms, patents, and superstar profits repeats Henry George's
+alleged error at economy scale: mistaking the reward for discovery and creation
+for an unearned windfall (the same structure as the
+[search-theoretic critique](/wiki/search-theoretic-critique/) of 100% land
+value capture).
+
+## Why People Worry About This
+
+The objection is not merely rhetorical; it has an evidence base and an
+analytical core.
+
+- **Taxing innovators demonstrably reduces innovation.** Akcigit, Grigsby,
+  Nicholas & Stantcheva (2022), using a panel of every US inventor since 1920
+  matched to historical state tax rates, find higher personal and corporate
+  income taxes "negatively affect the quantity and quality of inventive
+  activity and shift its location."[2] The caveat — and it is part of the
+  steelman, not a rebuttal — is that this studies *ordinary* corporate and
+  personal income taxes, which tax the normal return too; no equivalent study
+  of a rent-only base exists.
+- **The risk asymmetry (Domar–Musgrave).** Domar & Musgrave (1944) showed a
+  proportional tax leaves risk-taking undamaged — can even encourage it — only
+  with **full loss offset**: the state must share losses as fully as it shares
+  gains, making itself a silent partner.[3] Real tax systems never offer full
+  refundability (loss carryforwards expire, are uncompensated for time, and die
+  with failed firms), so real "rent" taxes hit the winners' prizes at full rate
+  while sharing the losers' losses only partially — asymmetrically punishing
+  exactly the high-variance ventures innovation consists of.
+- **"Normal return" has no clean definition.** The OECD's methodological review
+  (Reynolds & Neubig 2016) documents that whether the normal return is the
+  risk-free rate or a risk-inclusive rate changes the measured "rent" share of
+  corporate profits enormously.[4] A rent-only tax base is thus built on a
+  benchmark choice — and every choice above the risk-free rate concedes that
+  some of what a risk-free benchmark calls "rent" is compensation for risk.
+- **Even sympathetic treatments concede the R&D case.** Avi-Yonah & Shanan's
+  legal analysis of excess-profits taxes — broadly favorable to them — allows
+  that for R&D-intensive products such taxes "would appear to be unwarranted"
+  where developers might not be fairly compensated for risk.[5] The Tax
+  Foundation's decomposition (advocacy source, cited as such) argues
+  supernormal returns from risk and innovation remain tax-responsive even when
+  market-power rents are not.[6]
+
+## The Response
+
+The Geoist responses concede the core insight and dispute its scope.
+
+1. **The objection has no purchase on land — which is the point of the
+   gradient.** Location value is not a quasi-rent: no one's effort produced the
+   site, no ex-ante gamble required the prize, and a century of incidence
+   evidence shows no supply response to taxing it
+   ([landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)).
+   Blaug's verdict on the original Marshall–George exchange stands: "no
+   quasi-rent has either the persistence or the generality of ground rent."[7]
+   The objection *gates the frontier* — it is the reason this wiki's
+   [rent gradient](/wiki/geoism/) exists — but it concedes the core.
+2. **Design can exempt the incentive — in theory completely.** Rent-only bases
+   ([allowance for corporate equity](/wiki/allowance-for-corporate-equity/),
+   [cash-flow taxes](/wiki/cash-flow-tax/)) exempt the normal return by
+   construction, and the neutrality theorems (Boadway–Bruce 1984; Bond &
+   Devereux 1995 under uncertainty) extend to risky ventures **provided losses
+   are treated symmetrically**.[8] Norway's post-2022 petroleum tax — cash
+   refunds for the tax value of losses at a 78% combined rate — shows full
+   refundability is administrable, at least in a resource sector.[9] The honest
+   qualification: no economy-wide system has ever offered it, so the objection
+   holds against rent taxation *as practiced*, even where theory answers it.
+3. **Persistence is diagnostic.** Schumpeterian prizes are, on Schumpeter's own
+   account, *temporary* — competed away as imitators arrive. Returns that
+   persist for decades behind network-effect moats, data accumulation, or
+   regulatory gatekeeping look progressively less like prizes and more like the
+   entrenched positions the wiki's
+   [corporate-rents evidence](/wiki/corporate-profits-increasingly-rents/)
+   documents (persistent 90th-percentile returns in Furman–Orszag; declining
+   knowledge diffusion in Akcigit–Ates). The counter-reading — persistence as
+   *continued* innovation by [superstar firms](/wiki/superstar-firms/) — is
+   live, and the wiki carries it; but the objection cannot claim all persistent
+   excess returns for the incentive story either.
+4. **Even Schumpeter's prizes are partly inframarginal.** The "spectacular
+   prizes much greater than would have been necessary" formulation itself
+   concedes that part of the realized prize exceeds the incentive-necessary
+   minimum — in principle taxable surplus. The rejoinder writes itself
+   (nobody can measure the necessary minimum ex ante, per Reynolds–Neubig),
+   which is why this reply supports only *moderate* rates on excess returns,
+   not confiscatory ones.
+
+## Limits and Caveats
+
+- The strongest empirical plank (Akcigit et al.) studies ordinary income taxes;
+  the objection's force against *well-designed* rent-only bases is theoretical
+  extrapolation. Conversely, no study shows a rent-only base is innocuous for
+  innovation — the Belgian/Italian ACE evidence concerns leverage and
+  investment, not invention ([Hebous & Ruf](/wiki/hebous-ruf-ace/);
+  [Branzoli & Caiumi](/wiki/branzoli-caiumi-italy-ace/)). The decisive
+  experiment has not been run.
+- The objection is often deployed against *any* corporate taxation; deployed
+  that broadly, it overreaches. The US Treasury's own methodology treats ~63–75% of the corporate
+  base as supernormal (Cronin et al. 2013; Power & Frerick 2016), and the
+  existing corporate tax has approximated a cash-flow tax for decades (Fox
+  2020) — so the status quo already taxes quasi-rents heavily and haphazardly.
+  The relevant comparison for a Geoist instrument is not "tax vs. no tax" but
+  "rent-targeted base vs. the distortionary bases we actually use."[10]
+- Where a Geoist instrument charges for a *commons input* rather than an
+  outcome — spectrum fees, congestion charges, carbon prices, land rent — the
+  objection largely dissolves: the charge prices what the innovator takes from
+  the commons, not what they create. It bites specifically on instruments aimed
+  at realized profits.
+
+## Net Assessment
+
+**Substantially valid at the frontier, and this wiki treats it as the gate.**
+Any page claiming that capturing non-land rents is efficient must reckon with
+three concessions the steelman extracts: ex-post excess returns mix rent with
+quasi-rent in unmeasurable proportions; real tax systems' asymmetric loss
+treatment means even "rent-only" bases burden risk-taking; and the empirical
+record for innovation effects of true rent-only taxes is empty in both
+directions. What the objection does not do is touch the land case, commons
+charges, or the comparison against existing distortionary taxes — and its own
+evidence base thins exactly where the claimed rents persist longest.
+
+## See Also
+
+- [Quasi-Rent](/wiki/quasi-rent/) — the concept doing the work
+- [Geoism](/wiki/geoism/) — the rent gradient this objection anchors
+- [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) · [Cash-Flow Tax](/wiki/cash-flow-tax/) — the design responses
+- [Objection: The Search-Theoretic Critique](/wiki/search-theoretic-critique/) — the same structure aimed at land discovery
+- [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/) — the contested diagnosis
+
+## Sources
+
+*(Citations gathered by snippet corroboration this session — the egress proxy blocked
+direct fetches; page-level verification routed to the Hermes work order.)*
+
+1. Joseph Schumpeter (1942), *Capitalism, Socialism and Democracy*, Harper —
+   used for the "spectacular prizes" formulation of innovation incentive
+   (quote ≤50 words; locator flagged [VERIFY] above).
+2. Ufuk Akcigit, John Grigsby, Tom Nicholas & Stefanie Stantcheva (2022),
+   "Taxation and Innovation in the Twentieth Century," *Quarterly Journal of
+   Economics* 137(1), 329–385 — used for the taxes-reduce-invention evidence
+   and its scope caveat. [OUP](https://academic.oup.com/qje/article-abstract/137/1/329/6292271)
+3. Evsey Domar & Richard Musgrave (1944), "Proportional Income Taxation and
+   Risk-Taking," *Quarterly Journal of Economics* 58(3), 388–422 — used for the
+   loss-offset condition on risk-neutrality.
+   [OUP](https://academic.oup.com/qje/article-abstract/58/3/388/1896885)
+4. Hayley Reynolds & Thomas Neubig (2016), "Distinguishing between 'normal' and
+   'excess' returns for tax policy," OECD Taxation WP 28 — used for the
+   normal-return benchmark problem.
+   [OECD](https://www.oecd.org/en/publications/distinguishing-between-normal-and-excess-returns-for-tax-policy_5jln6jct58vd-en.html)
+5. Reuven Avi-Yonah & Tamir Shanan (2024), "Rethinking Taxing Excess Profits,"
+   *The Tax Lawyer* — used for the sympathetic-treatment R&D concession.
+   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4792580)
+6. Garrett Watson & Alex Muresianu (2024), "Supernormal Returns: An Overlooked
+   Foundation of Tax Policy Debates," Tax Foundation — used, as an attributed
+   advocacy position, for the decomposition of supernormal returns by
+   tax-responsiveness. [VERIFY: authorship — single-snippet attribution.]
+   [Tax Foundation](https://taxfoundation.org/research/all/federal/supernormal-returns-tax-policy-debates/)
+7. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3 §11 —
+   used for the Marshall–George quasi-rent exchange and Blaug's
+   persistence/generality verdict (via the wiki's
+   [book page](/wiki/economic-theory-in-retrospect/)).
+8. Robin Boadway & Neil Bruce (1984), *Journal of Public Economics* 24(2);
+   Stephen Bond & Michael Devereux (1995), *Journal of Public Economics* 58(1)
+   — used for the neutrality-under-uncertainty condition.
+9. Norwegian petroleum tax, post-2022 cash-flow design with loss refunds — used
+   as the existence proof for full refundability (details on the
+   [cash-flow tax](/wiki/cash-flow-tax/) page, with its [VERIFY] flags).
+10. Julie-Anne Cronin et al. (2013), *National Tax Journal* 66(1); Laura Power &
+    Austin Frerick (2016), OTA WP 111; Edward Fox (2020), *Journal of Empirical
+    Legal Studies* 17(1) — used for the status-quo-already-taxes-quasi-rents
+    comparison. [Treasury](https://home.treasury.gov/system/files/131/wp-111.pdf)

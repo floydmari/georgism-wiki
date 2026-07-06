@@ -613,3 +613,24 @@ trio is NTJ 68(2) 2015 / NBER 21189-92 / EJ 125(583).
 Campsite: 13 debt items (12 Sources annotations, Mazzucato venue corrected to CJE on the
 corporate-profits outcome). Warnings 478→472 net of 5 new pages' honest flags; 342 pages;
 lint green; preview links verified.
+
+---
+
+## 2026-07-06k — WS-TECH-RENTS shift 2 (session vy8k5i): the Schumpeterian steelman shipped
+
+objections/taxing-quasi-rents-kills-innovation — the gate page Floyd's directive named as
+blocking the whole workstream — is live: Schumpeter's "spectacular prizes" (locator
+[VERIFY]-flagged), Akcigit-Grigsby-Nicholas-Stantcheva QJE 2022 with its scope caveat
+carried INSIDE the steelman, Domar-Musgrave 1944 loss-offset asymmetry as the analytic
+hinge, Reynolds-Neubig OECD 2016 on the normal-return benchmark. Responses concede the
+frontier and hold the core: no purchase on land/commons charges; design answer (rent-only
+bases + full loss refundability, Norway 2022 as existence proof, no economy-wide system has
+it); persistence diagnostic (Schumpeterian prizes are temporary — decades-long moats look
+like entrenched rent, with the superstar counter-reading carried); the objection's own
+overreach against the status quo (Treasury: ~63-75% of the corporate base is already
+supernormal and taxed haphazardly). Net assessment: substantially valid at the frontier —
+and the standing rule is now in force: any non-land efficiency claim links this page.
+Wired from geoism, quasi-rent, ACE, cash-flow-tax. Objections pillar 11→12.
+
+Campsite: 5 places Sources annotated (harrisburg, denmark, singapore, hong-kong, estonia)
++ 1 banned-certainty fix. Warnings 472→469; 343 pages; lint green; preview links verified.

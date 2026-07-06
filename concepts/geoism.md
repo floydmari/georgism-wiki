@@ -52,8 +52,9 @@ never flattening the gradient (EDITORIAL §0):
   [superstar firms](/wiki/superstar-firms/)).
 - **Innovation profits are largely [quasi-rents](/wiki/quasi-rent/) that ARE the incentive.** Taxing a
   location windfall costs nothing; taxing the return that motivated an invention
-  is not free. The Schumpeterian objection to generalized rent capture is queued
-  for a full steelman page.
+  is not free. The steelman:
+  [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) —
+  every non-land capture claim on this wiki links it.
 
 ## See Also
 

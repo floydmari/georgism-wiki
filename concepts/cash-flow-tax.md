@@ -71,7 +71,8 @@ of the [homevoter problem](/wiki/homevoters-will-block-lvt/).
   cap on deductions.[9] The design detail that separates Norway from Australia
   — **full loss refundability** — is the make-or-break condition for a true
   rent tax (Bond & Devereux 1995 showed neutrality under uncertainty requires
-  it), and the same condition gates the Schumpeterian risk objection
+  it), and the same condition gates the
+  [Schumpeterian risk objection](/wiki/taxing-quasi-rents-kills-innovation/)
   (Domar & Musgrave 1944).[10]
 - **Partial moves:** the 2017 US TCJA's 100% bonus depreciation is a partial
   cash-flow element; the strongest quasi-experimental evidence in this whole

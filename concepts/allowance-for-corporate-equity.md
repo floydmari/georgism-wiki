@@ -101,6 +101,7 @@ plainly.[12]
 
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the expensing route to the same rent-only base
 - [Quasi-Rent](/wiki/quasi-rent/) — why "above-normal" is not automatically "unearned"
+- [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) — the mandatory counterweight
 - [Economic Rent](/wiki/economic-rent/) · [Geoism](/wiki/geoism/) — the umbrella program
 - [The Mirrlees Review](/wiki/mirrlees-review/) — the canonical modern endorsement
 - [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/) — the diagnosis this instrument would act on

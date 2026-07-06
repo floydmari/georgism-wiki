@@ -63,10 +63,15 @@ each ends in a triage report per the accept bar):
       Bezemer credit flows, Philippon finance-cost puzzle (have), BIS/Borio credit-cycle
       steelman (double-duty with the queued cycles objection), seigniorage-as-rent
       literature. Target: honest FIRE-sector evidence grading.
-- [ ] [DRAFT] tier:T1 status:todo — objections/taxing-quasi-rents-kills-innovation — THE
-      steelman the expansion requires (Schumpeter lens; innovation profits as incentive;
-      where Geoist instruments do and don't threaten them). Blocks: any outcome claiming
-      broad non-land rent capture is efficient must link this page.
+- [x] [DRAFT] tier:T1 status:done 2026-07-06 (session vy8k5i) —
+      objections/taxing-quasi-rents-kills-innovation SHIPPED (Schumpeter "spectacular
+      prizes" + Akcigit et al. QJE 2022 + Domar-Musgrave loss-offset asymmetry +
+      Reynolds-Neubig normal-return problem; responses: gradient concession, design answer
+      incl. Norway's full refundability, persistence diagnostic, inframarginal-prize
+      concession). Status verdict: substantially valid at the frontier; no purchase on
+      land or commons charges. STANDING RULE now live: any outcome claiming non-land rent
+      capture is efficient must link this page. Wired from geoism, quasi-rent, ACE,
+      cash-flow-tax.
 Instrument concept queue (each needs >=2 demanding pages — most already have them via
 concepts/geoism's table): severance-tax, spectrum-auctions, congestion-pricing, quasi-rent,
 patent-monopoly/ip-rents, data-dividend.

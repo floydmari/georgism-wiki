@@ -72,8 +72,10 @@ still the shape of the modern dispute.
   and [cash-flow corporate taxes](/wiki/cash-flow-tax/) — are attempts to *engineer around* the
   quasi-rent problem at the tax-base level; how far they succeed for
   innovation-driven profits is the open question of the WS-TECH-RENTS
-  workstream, and the Schumpeterian objection (innovation profits are
-  quasi-rents that ARE the incentive) is its mandatory counterweight.
+  workstream, and the
+  [Schumpeterian objection](/wiki/taxing-quasi-rents-kills-innovation/)
+  (innovation profits are quasi-rents that ARE the incentive) is its mandatory
+  counterweight.
 
 ## What Each Side Concedes
 

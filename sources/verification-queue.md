@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-06 by `scripts/verification_queue.py` (637 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (642 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -22,7 +22,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `books/economic-theory-in-retrospect.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 - `books/rethinking-economics-land-housing.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 
-## needs-book-copy (see sources/wanted-books.md) (44)
+## needs-book-copy (see sources/wanted-books.md) (45)
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
@@ -39,6 +39,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/thomas-piketty.md` — **CITATION NEEDED** direct page-level citation from the book's front matter or preface for Piketty's institutional affiliations; drawn here from the wiki's research page on the boo
 - `people/thomas-piketty.md` — **VERIFY** these ratio figures are drawn from the companion Piketty & Zucman (2014) QJE paper and secondary summaries, not from a directly fetched copy of the book's prima
 - `places/chicago.md` — **VERIFY** this page was drafted from the wiki's existing research summary of Hoyt's book, secondary summaries, and Internet Archive metadata — not a full page-by-page rea
+- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** page/chapter locator (commonly cited at pp. 73–74) against a copy of the book — snippet-corroborated only.
 - `research/barnes-sky-trust.md` — **VERIFY** exact split and dollar figure — drawn from a secondary review rather than a directly fetched copy of the book's text; this session's egress could not reach isla
 - `research/barnes-sky-trust.md` — **CITATION NEEDED** a directly fetched/verified copy of the book's own text for exact dividend figures, page numbers, and any direct quotations — this session's web access to islan
 - `research/barnes-sky-trust.md` — **VERIFY** the precise legislative history connecting this book/proposal to the Cantwell-Collins CLEAR Act and other cap-and-dividend bills — stated above from general pol
@@ -238,7 +239,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full citation for the Cambridge *Historical Journal* article summarized here — this session located the article by title and journal via search 
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 
-## unclassified (T1 triage) (415)
+## unclassified (T1 triage) (419)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/allowance-for-corporate-equity.md` — **VERIFY** magnitudes against the *Canadian Journal of Economics* paper
@@ -404,6 +405,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `places/chicago.md` — **VERIFY** the precise role Hoyt assigns to the Fire within his periodization — whether he treats it as a discrete episode or as an accelerant within the broader post-Civi
 - `places/chicago.md` — **VERIFY** whether Hoyt's original text itself asserts a fixed ~18-year period, or only documents irregular but recurring booms and busts
 - `places/chicago.md` — **VERIFY** confirm quotation against primary Internet Archive text
+- `places/denmark.md` — **CITATION NEEDED** a specific historical source on grundskyld's origins
 - `places/new-zealand.md` — **CITATION NEEDED** specific chapter details on NZ from Andelson — the volume covers NZ but the chapter text was not directly accessed in this session
 - `places/new-zealand.md` — **CITATION NEEDED** precise dates of LV rating adoption in NZ and the extent of its historical use — the supplied sources describe LV rating as available and used but do not provid
 - `places/new-zealand.md` — **CITATION NEEDED** direct access to the NZ chapter in Andelson (2001) to confirm specific historical details, dates of adoption, and the scope of LV rating across NZ councils
@@ -423,6 +425,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `organizations/common-wealth-canada.md` — **VERIFY** precise founding date/legal registration
 - `organizations/common-wealth-canada.md` — **VERIFY** full roster of staff, board, and advisors — the organisation's team page could not be independently retrieved at time of writing.
 - `organizations/fairhope-single-tax-corporation.md` — **CITATION NEEDED** the specific founders of Fairhope, the circumstances of the site selection in Alabama, and the early organizational structure of the Corporation. The corpus con
+- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** above). 2. Ufuk Akcigit, John Grigsby, Tom Nicholas & Stefanie Stantcheva (2022), "Taxation and Innovation in the Twentieth Century," *Quarterly Journal of Econ
+- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** authorship — single-snippet attribution.
+- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** flags). 10. Julie-Anne Cronin et al. (2013), *National Tax Journal* 66(1); Laura Power & Austin Frerick (2016), OTA WP 111; Edward Fox (2020), *Journal of Empir
 - `events/irish-land-war.md` — **CITATION NEEDED** specific data on eviction numbers and harvest failures from 1877–79, from a primary or authoritative secondary source
 - `events/irish-land-war.md` — **VERIFY** the precise scope of the 1881 Act's land-purchase provisions and whether they were a minor or major element of the legislation
 - `events/irish-land-war.md` — **VERIFY** the precise nature and timing of any explicit disagreement between George and Davitt over remedy — the corpus sources note divergence but do not document a spec
