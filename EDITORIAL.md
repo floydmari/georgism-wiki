@@ -97,7 +97,11 @@ not merely summarize. Rules:
   public domain. When the two regimes disagree (e.g., Churchill's 1909 speeches: PD in the
   US, not yet in the UK), note the jurisdiction split on the page and prefer works clear
   in both.
-- **Where they live:** short-to-medium documents (speeches, debates, pamphlets, essays,
+- **Where they live** (separation from `books/` ratified by Floyd, 2026-07-06: `books/` is a
+  page ABOUT a work we may not reproduce — copyright machinery applies; `texts/` IS the work —
+  the quote cap is exempt, and on progress.org the two tags can carry distinct templates/styling:
+  a browsable shelf of digested literature vs a reading room of original documents):
+  short-to-medium documents (speeches, debates, pamphlets, essays,
   letters — roughly ≤25k words) become **`texts/` pages** (`category: texts`,
   `public_domain: true`, provenance/edition stated, ≥2 inbound links like any page).
   Full BOOKS stay summarized in `books/` with the complete text stored at
