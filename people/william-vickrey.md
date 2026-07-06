@@ -40,6 +40,7 @@ respectability in mainstream public economics.
 
 ## See Also
 
+- [Congestion Pricing](/wiki/congestion-pricing/) — his idea, and the [evidence that it reduces traffic](/wiki/congestion-pricing-reduces-traffic/)
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/)
 - [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/)
 - [Radical Markets (book)](/wiki/posner-weyl-radical-markets/)

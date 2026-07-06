@@ -20,4 +20,7 @@ As the audio companion to the field's premier research institution, *Land Matter
 
 ## Sources
 
-1. *Land Matters* podcast, Lincoln Institute of Land Policy. [lincolninst.edu/podcasts/land-matters](https://www.lincolninst.edu/podcasts/land-matters/)
+1. *Land Matters* podcast, Lincoln Institute of Land Policy — used as a
+   practitioner/navigation source for the Institute's land-policy research and
+   interviews (not primary evidence; underlying studies cited on their own pages).
+   [lincolninst.edu/podcasts/land-matters](https://www.lincolninst.edu/podcasts/land-matters/)
