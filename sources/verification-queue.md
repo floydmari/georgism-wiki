@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-06 by `scripts/verification_queue.py` (634 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (633 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -234,7 +234,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (416)
+## unclassified (T1 triage) (415)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
@@ -347,7 +347,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/homer-hoyt.md` — **VERIFY** full-text confirmation of Light's specific claims about Hoyt's role.
 - `people/homer-hoyt.md` — **VERIFY** replace this general Wikipedia context citation with a dedicated peer-reviewed source on the FHA Underwriting Manual specifically, e.g. Jackson's *Crabgrass Fro
 - `people/jan-eeckhout.md` — **VERIFY** Eeckhout's birth year, nationality, and doctoral training are not documented in the supplied corpus and are omitted pending a reliable external source. His pers
-- `people/johann-heinrich-von-thunen.md` — **VERIFY** Tellow farm details and Isolated State publication dates (1826/1850 parts) against a biographical source on backfill.
 - `people/joseph-fels.md` — **VERIFY** Fels Fund founding year and British land-colony specifics on a direct biographical source — e.g., Mary Fels' 1916 biography.
 - `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's birth and death dates, pre-mayoral biography, and exact number of terms served — not available in the wiki's current sources
 - `people/l-d-taylor.md` — **VERIFY** precise 1911 land-revenue-share figure — reported consistently at "close to four-fifths"/79% across secondary sources, but this wiki has not directly confirmed 

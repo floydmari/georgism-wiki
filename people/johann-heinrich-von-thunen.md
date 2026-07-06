@@ -1,8 +1,8 @@
 ---
 title: "Johann Heinrich von Thünen"
 category: people
-tags: [people, von-thunen, location-theory, rent-theory, spatial-economics, germany, stub]
-stub: true
+tags: [people, von-thunen, location-theory, rent-theory, spatial-economics, germany]
+stub: false
 born: 1783
 died: 1850
 excerpt: "German estate-owner economist (1783–1850) whose 'Isolated State' (1826) founded location theory: land rent as a function of distance to market, worked out in concentric rings around a central city — the spatial half of rent theory that Ricardo's fertility story left out."
@@ -11,11 +11,14 @@ last_reviewed: 2026-07-06
 
 ## Overview
 
-Johann Heinrich von Thünen (1783–1850), a north-German estate owner who ran
-his farm at Tellow as a decades-long economic experiment, is the father of
-**location theory**. *The Isolated State* (*Der isolierte Staat*, 1826, with
-later parts to 1850) models an isolated city on a featureless plain and asks
-what land uses arise where: the answer — concentric rings of activity ordered
+Johann Heinrich von Thünen (1783–1850), a north-German estate owner who bought
+the estate of **Tellow in Mecklenburg in 1810** and ran it as a decades-long
+economic experiment — systematically recording labour inputs, yields, and costs —
+is the father of **location theory**. From that data he built *The Isolated State*
+(*Der isolierte Staat*, Volume 1 published 1826; Volume 2, on marginal analysis of
+wages and interest, worked out 1826–1848 and published 1850, with a further part
+posthumously in 1863).[1][2] It models an isolated city on a featureless plain and
+asks what land uses arise where: the answer — concentric rings of activity ordered
 by transport cost — makes **land rent a function of distance to market**,
 independent of fertility.[1] This is the spatial complement to
 [Ricardo's](/wiki/david-ricardo/) fertility-differential account carried on
@@ -40,5 +43,9 @@ his modern descendants.
    (spatial economics; Thünen's rings and marginal productivity) — used for
    Thünen's role and the book's assessment (A/C-claims; provenance-pending
    scan — see the [book page](/wiki/economic-theory-in-retrospect/)).
-   [VERIFY: Tellow farm details and Isolated State publication dates
-   (1826/1850 parts) against a biographical source on backfill.]
+2. "Johann Heinrich von Thünen," Encyclopædia Britannica, and the New Palgrave
+   Dictionary of Economics entry (Springer) — used for the Tellow 1810 purchase,
+   the 1826 Volume 1 publication, and the 1826–1848 dating of the Volume 2
+   marginal-productivity wage analysis (A-claims; verified this session).
+   [Britannica](https://www.britannica.com/biography/Johann-Heinrich-von-Thunen) ·
+   [Der isolierte Staat, Internet Archive](https://archive.org/details/derisoliertestaa00thuoft)
