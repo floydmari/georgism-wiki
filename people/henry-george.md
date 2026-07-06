@@ -29,13 +29,14 @@ George's influence crossed ideological lines in ways unusual for any single thin
 ## See Also
 
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
-- [The Crime of Poverty](/wiki/the-crime-of-poverty/) (1885) — his most famous popular lecture, held in full
+- [The Crime of Poverty](/wiki/crime-of-poverty/) (1885) — his most famous popular lecture, held in full
 - [Land Value Tax](/wiki/land-value-tax/) — the policy at the centre of George's programme
 - [Georgism](/wiki/georgism/) — the political-economic movement built on George's ideas
 - [Single Tax](/wiki/single-tax/) — George's specific policy prescription
 - [The Land Question](/wiki/the-land-question/) (1881) · [Social Problems](/wiki/social-problems/) (1883) — his other major works, in depth
 - [The Science of Political Economy](/wiki/science-of-political-economy/) (1898) · [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) (1892) — his late theoretical and philosophical treatises
 - [Protection or Free Trade](/wiki/protection-or-free-trade/) (1886) — his free-trade case, the first book read in full into the US Congressional Record
+- [The Condition of Labour: An Open Letter to Pope Leo XIII](/wiki/open-letter-to-pope-leo-xiii/) (1891) — his reply to *Rerum Novarum*, held in full
 
 ## Sources
 

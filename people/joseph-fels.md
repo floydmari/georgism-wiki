@@ -37,7 +37,7 @@ widow, Mary Fels, continued the work.[2]
 ## See Also
 
 - [Louis F. Post](/wiki/louis-f-post/) — the lecture bureau's star
-- [The Crime of Poverty](/wiki/the-crime-of-poverty/) — the George lecture his fund reprinted
+- [The Crime of Poverty](/wiki/crime-of-poverty/) — the George lecture his fund reprinted
 - [The Single-Tax Colonies (Fairhope & Arden)](/wiki/single-tax-colonies/) — the experiments he helped fund
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/) · [Single Tax](/wiki/single-tax/)
 - [1909 People's Budget](/wiki/1909-peoples-budget/)
