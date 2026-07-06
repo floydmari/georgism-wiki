@@ -1,6 +1,6 @@
 # Hermes Work Order — Fact-Check Desk field assignment
 
-Generated 2026-07-05 by `scripts/verification_queue.py`. This is the
+Generated 2026-07-06 by `scripts/verification_queue.py`. This is the
 routed slice of the verification queue that ONLY Hermes's environment can work
 (unblocked web + Floyd's book library). Protocol: `sources/inbox/README.md` —
 verbatim quotes with locators, CONFIRMED/CORRECTED/NOT-FOUND verdicts, legal
@@ -8,13 +8,14 @@ provenance only, PR to a hermes/* branch, never self-merged.
 
 Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
-## needs-book-copy (see sources/wanted-books.md) — 43 of 43
+## needs-book-copy (see sources/wanted-books.md) — 44 of 44
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
 - `concepts/pigouvian-taxation.md` — **CITATION NEEDED** a stable URL for Hartzok (2008) — the ecological-georgism page references the book but does not supply a verifiable external link.
 - `concepts/pigouvian-taxation.md` — **CITATION NEEDED** a stable external URL for this book — not currently available in the corpus.
 - `concepts/production-boundary.md` — **CITATION NEEDED** a direct statement, from a source not paywalled, of whether the book proposes land value taxation or land value capture as a policy instrument.
+- `concepts/quasi-rent.md` — **VERIFY** exact chapter/section of the quasi-rent definition in the 8th edition (Book V) on direct read — the wiki holds only secondary treatments.
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations for the full list of five proposals and their chapter assignments — derived from the book's table of contents and secondary summaries, not 
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citation for the QV mechanism description — derived from the book's published summaries and Posner & Weyl's prior academic papers, not directly verif
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations from the primary text of *Radical Markets* — this session did not fetch the book directly. The five-proposal structure, the Georgist-lineag
@@ -54,13 +55,15 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 17 of 127
+## needs-unblocked-web (proxy allowlist or manual fetch) — 16 of 132
 
+- `concepts/allowance-for-corporate-equity.md` — **VERIFY** the ACE proposal's exact chapter (17 vs 18) and wording against the IFS PDF — proxy-blocked this session.
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
 - `concepts/holdout-problem.md` — **VERIFY** specific mechanism details, as the full paper text was not fetched in this session; claims are drawn from the existing wiki research page and stub, which cite t
 - `concepts/land-bubble.md` — **VERIFY** the exact peak-year list against Hoyt's primary text directly
 - `concepts/land-bubble.md` — **VERIFY** pending direct confirmation against Hoyt's primary text. 6. This wiki's [2008 Financial Crisis
+- `concepts/quasi-rent.md` — **VERIFY** above pending direct read). [Online Library of Liberty edition
 - `concepts/tiebout-model.md` — **VERIFY** the precise framing of Tiebout's own caveats could not be verified from the primary text in this session; the characterization is drawn from how the paper is de
 - `concepts/tiebout-model.md` — **CITATION NEEDED** direct access to the primary text — this session could not fetch the original paper; bibliographic details are corroborated across multiple corpus pages but the
 - `concepts/tiebout-model.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session's sandboxed web access could not fetch the original paper from JSTOR or the University of Chicago 
@@ -70,9 +73,6 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session could not fetch the original paper from JSTOR or the University of Chicago Press. The bibliographi
 - `people/era-seligman.md` — **VERIFY** exact venue/proceedings citation for the Saratoga session on direct read.
 - `people/george-monbiot.md` — **VERIFY** exact proposal wording on direct read.
-- `people/herbert-spencer.md` — **VERIFY** specific chapter references, page numbers, and direct quotations could not be verified in this session — the primary text was not fetched.
-- `people/herbert-spencer.md` — **CITATION NEEDED** Primary text of Spencer's *Social Statics* (1851), especially the chapter(s) on land rights — to verify Spencer's original argument, its exact wording, and the 
-- `people/homer-hoyt.md` — **VERIFY** pending direct confirmation against Hoyt's primary text
 
 
 *60 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
