@@ -72,6 +72,15 @@ D-claim — this is Churchill's argument, not a demonstrated economic finding):
   compilations as part of Churchill's 1909 land-value-duties advocacy; this session could not
   confirm with certainty it appears inside *The People's Rights* itself rather than only in the
   Hansard record of a related Commons speech — see Limits.]`
+- **The Thames toll-bridge story.** In the same 1909 advocacy Churchill told of a toll bar on a
+  Thames bridge whose penny toll on south-bank workers was abolished at public expense — "but
+  within a very short time rents on the south side of the river were found to have risen about
+  sixpence a week, or the amount of the toll which had been remitted."[10] The anecdote is the
+  capitalization mechanism ([ATCOR](/wiki/atcor/)-family) in miniature: remove a cost borne by a
+  location's users, and the saving is absorbed into that location's rent. `[VERIFY: primary
+  locator — the story circulates in Georgist compilations and is quoted in Anderson's citdiv
+  eBook as from a 1909 Commons speech; pin against Hansard or The People's Rights before
+  treating venue/date as settled.]`
 
 ## How Churchill Framed It
 
@@ -201,3 +210,8 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
 9. Roy Douglas, "The Lloyd George Land Taxes," *Journal of Liberal History* — already cited on
    [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — used for the
    administrative fate of the 1909 land value duties (A-claim).
+10. Winston Churchill, 1909 toll-bridge passage, as quoted in Phillip J. Anderson,
+    *Your Citizen's Dividend* (©2024 PSE), pp. 10–11 — used for the Thames toll-bar story
+    (D-claim; quote reproduced from a secondary advocacy source read in full 2026-07-06;
+    `[VERIFY]` against Hansard/primary — see the bullet's flag).
+    [Wiki book page](/wiki/anderson-your-citizens-dividend/)

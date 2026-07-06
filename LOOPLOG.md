@@ -660,3 +660,30 @@ pages; dated export.
 Campsite: 5 more Sources annotated (pennsylvania, new-south-wales, pittsburgh,
 detroit-lvt-proposal, 1886-nyc). 348 pages; warnings 469→470 net of 5 new pages' honest
 flags (baseline 478 still beaten); lint green; preview links verified.
+
+---
+
+## 2026-07-06m — Shift 4 (session vy8k5i): Exa key + citdiv eBook delivered; eBook consumed
+
+Floyd delivered: (1) the Exa API key in-chat — tested inline; api.exa.ai STILL 403'd by the
+egress proxy, so the sweep stays blocked on the network-policy entry (key value lives in the
+conversation + BACKLOG points at the environment-settings fix; never committed; profile
+persistence policy-blocked); (2) the citdiv eBook PDF uploaded directly — the site-scan
+blocker cleared.
+
+EBOOK CONSUMED (READ & MINE, full 16 pp): books/anderson-your-citizens-dividend shipped —
+advocacy-graded program statement of the Crown-Estate/SPV capture design (George III 1760,
+Temasek as politically insulated collector, ATCOR-family "all gains end up in land value"
+claim marked contested, UBI-capitalization argument). Accuracy notes carried on-page: PFD
+given as US$1,022 (2016-vintage) in a ©2024 edition; Swiss "no paid politicians" self-
+corrected in the eBook's own footnote; housing-shortage aside contradicts the wiki's supply
+literature. Deltas per the delta rule: phillip-j-anderson cover-title correction +
+sharpened staleness note; Churchill toll-bridge story (capitalization in miniature) added
+to churchill-peoples-rights with primary-locator [VERIFY]; citizens-dividend concept wired.
+DISCOVERY: Great Smoky Mountains casino-dividend study queued as [FIND] (verify primary
+before citing — do not write from memory). Registry: eBook row at Heavy scan.
+
+349 pages; warnings 470→473 (3 honest flags on the new book page; baseline 478 still
+beaten); lint green; preview links verified. GitHub MCP disconnected mid-session (needs
+re-auth via claude.ai connector settings) — git push unaffected; PR #9 description refresh
+deferred until re-auth.

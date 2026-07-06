@@ -349,11 +349,24 @@ comprehensiveness watermark: 136 external-source rows (first invocation complete
       rent-funded-UBI advocacy, no novel scholarship; its one concrete number (cumulative Alaska
       PFD total) is a stale ~2006 Wikipedia figure. NO organizations page warranted. Registry row
       added (level-6 advocate source); cited as advocate framing on citizens-dividend-narrative.
-- [ ] [SCAN] tier:T2 status:blocked — citdiv.org REMAINDER: the email-gated eBook ("Citizen's
-      Dividend", presumably Anderson; also FR/中文/Thai versions) is the only high-value unread
-      item. UNBLOCK: Floyd downloads the eBook and drops it in the repo/Drive, OR the egress
-      proxy allowlists citdiv.org + realestate.propertysharemarketeconomics.com. Then: sitemap
-      fetch → 2 articles + eBook + category archives.
+- [x] [SCAN] tier:T2 status:done 2026-07-06 (session vy8k5i) — citdiv eBook UNBLOCKED: Floyd
+      uploaded the PDF in-session (16 pp, read in full; PDF NOT committed). Shipped:
+      books/anderson-your-citizens-dividend (page-cited, advocacy-graded, accuracy notes:
+      stale 2016-vintage PFD figure in ©2024 edition; self-corrected Swiss claim; unsourced
+      housing-shortage aside vs the wiki's supply literature); deltas: phillip-j-anderson
+      cover-title correction + sharpened staleness note; Churchill toll-bridge story added to
+      churchill-peoples-rights (primary locator [VERIFY], routed); citizens-dividend concept
+      links the book page. Registry row (Heavy scan). Site REMAINDER (sitemap, 2 articles,
+      archives) still gated on citdiv.org allowlist — folded into the allowlist wishlist item.
+- [ ] [FIND] tier:T2 status:todo — Great Smoky Mountains casino-dividend study (surfaced by
+      the citdiv eBook scan, pp. 11-12): the Duke-team longitudinal natural experiment on
+      Eastern Band of Cherokee per-capita casino payments (~$4k/adult/yr) — better schooling,
+      less crime, fewer mental-health problems among children, poorest gaining most. Verify
+      the primary (likely the Costello et al. / Akee et al. line — do NOT cite from memory)
+      and draft research page; strong candidate support for
+      outcomes/resource-rent-dividends-work (it is dividend-INCOME evidence, not rent-capture
+      evidence — grade honestly). Accept bar met: dividends outcome + citizens-dividend
+      concept + the book page all demand it.
 - NOTE: people/phillip-j-anderson — rejection OVERRIDDEN 2026-07-05. Anderson is author of a wiki book (Secret Life of Real Estate), cited by Patel, runs PSE + citdiv.org. People page created with publisher, PSE, and citdiv.org sources.
 - [ ] [DRAFT] tier:T2 status:todo — research/raley-citizens-dividend candidate: Bill Raley, "The
       Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;

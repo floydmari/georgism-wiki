@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-06 by `scripts/verification_queue.py` (651 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (655 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -22,7 +22,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `books/economic-theory-in-retrospect.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 - `books/rethinking-economics-land-housing.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 
-## needs-book-copy (see sources/wanted-books.md) (45)
+## needs-book-copy (see sources/wanted-books.md) (47)
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
@@ -44,6 +44,8 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/barnes-sky-trust.md` — **CITATION NEEDED** a directly fetched/verified copy of the book's own text for exact dividend figures, page numbers, and any direct quotations — this session's web access to islan
 - `research/barnes-sky-trust.md` — **VERIFY** the precise legislative history connecting this book/proposal to the Cantwell-Collins CLEAR Act and other cap-and-dividend bills — stated above from general pol
 - `research/churchill-peoples-rights.md` — **VERIFY** the "six chapters, outline form" description of the book's structure is drawn from a bookseller's description (Churchill Book Collector) rather than a directly 
+- `research/churchill-peoples-rights.md` — **VERIFY** primary locator — the story circulates in Georgist compilations and is quoted in Anderson's citdiv eBook as from a 1909 Commons speech; pin against Hansard or T
+- `research/churchill-peoples-rights.md` — **VERIFY** ` against Hansard/primary — see the bullet's flag). [Wiki book page
 - `research/eeckhout-profit-paradox.md` — **VERIFY** exact productivity-growth figure and its precise sourcing within the book — drawn from a secondary summary of the book's argument, not a first-hand page citatio
 - `research/eeckhout-profit-paradox.md` — **VERIFY** the two-phase timing and the claim of a similar pattern in other countries are drawn from secondary summaries of the book, not a first-hand read of the relevant
 - `research/eeckhout-profit-paradox.md` — **VERIFY** this specific figure is drawn from a single secondary summary (ProMarket) and could not be corroborated against the book's primary text this session; treat as i
@@ -209,7 +211,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zodrow-three-views.md` — **CITATION NEEDED** a directly fetched, page-level-cited copy of the primary 2001 National Tax Journal text — this session's egress policy returned 403 responses for ideas.repec.or
 - `research/zwick-mahon-expensing.md` — **VERIFY** exact figures against the paper — snippet-corroborated this session; direct fetch proxy-blocked.
 
-## needs-new-source (research/forage task) (31)
+## needs-new-source (research/forage task) (32)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** empirical evidence on betterment levy effects on transaction volumes.
 - `concepts/boom-bust-cycle.md` — **VERIFY** the strongest peer-reviewed statistical test, if any, of the cycle's statistical significance against retrospective-fitting concerns.
@@ -242,8 +244,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/cwc-distributional-impacts-lvt.md` — **CITATION NEEDED** regional/provincial distributional breakdown, if the study provides one.
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full citation for the Cambridge *Historical Journal* article summarized here — this session located the article by title and journal via search 
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
+- `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (424)
+## unclassified (T1 triage) (425)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/allowance-for-corporate-equity.md` — **VERIFY** magnitudes against the *Canadian Journal of Economics* paper
@@ -669,4 +672,5 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zingales-political-theory-firm.md` — **VERIFY** JEP publication details — the task metadata states this was published in JEP 31(3), but the NBER working paper text does not include the JEP citation; a future 
 - `research/zingales-political-theory-firm.md` — **VERIFY** Zingales states "I identify six of them" regarding non-market factors but the body text appears to list five clearly (source of political power, media market, p
 - `research/zwick-mahon-expensing.md` — **VERIFY** flag above). [AEA
+- `books/anderson-your-citizens-dividend.md` — **VERIFY** pin the vintage against the PFD historical table on next Alaska-page touch.
 
