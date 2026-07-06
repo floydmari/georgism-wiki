@@ -11,8 +11,8 @@ last_reviewed: 2026-07-06
 
 Thomas Paine (1737–1809), the revolutionary pamphleteer of *Common Sense* and
 *Rights of Man*, wrote the founding document of the
-[citizen's dividend](/wiki/citizens-dividend/) tradition: **Agrarian Justice**
-(1797). Its argument anticipates George by eight decades: the earth in its natural
+[citizen's dividend](/wiki/citizens-dividend/) tradition:
+[**Agrarian Justice**](/wiki/agrarian-justice/) (1797), held in full on the wiki. Its argument anticipates George by eight decades: the earth in its natural
 state is *"the common property of the human race"*; cultivation justifies property
 in the *improvement* only, so every landowner owes the community a **ground-rent**
 — which Paine would collect through inheritance taxation to fund a capital grant

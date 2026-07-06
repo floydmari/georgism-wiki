@@ -228,9 +228,14 @@ def main():
             err(f, "prohibited shadow-library provenance named — see sources/inbox/README.md")
 
         # WS8 quality warnings
-        for pat in BANNED:
-            m = re.search(pat, body, re.I)
-            if m: warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
+        # public_domain full texts reproduce the original author's words verbatim
+        # (EDITORIAL §3b); the banned-certainty rule (§4) governs the wiki's own
+        # claim-strength language, not quoted primary sources — so exempt them,
+        # exactly as the quote-cap check above does.
+        if meta.get("public_domain") is not True:
+            for pat in BANNED:
+                m = re.search(pat, body, re.I)
+                if m: warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
         cn = len(re.findall(r"\[CITATION NEEDED", body))
         vf = len(re.findall(r"\[VERIFY", body))
         if cn: warn(f, f"{cn} unresolved [CITATION NEEDED] marker(s)")

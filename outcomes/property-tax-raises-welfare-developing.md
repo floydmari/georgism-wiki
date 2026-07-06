@@ -41,5 +41,9 @@ administration works, and administration is the binding constraint.
 
 ## Sources
 
-1. Brockmeyer et al. (2021), "Taxing Property in Developing Countries," NBER — [wiki summary](/wiki/brockmeyer-property-tax-developing/)
-2. IMF (2013), "Taxing Immovable Property" — [wiki summary](/wiki/imf-taxing-immovable-property/)
+1. Brockmeyer et al. (2021), "Taxing Property in Developing Countries," NBER —
+   used for the causal (Mexico City) finding that rate increases raise welfare while
+   coercive enforcement can reduce it. [wiki summary](/wiki/brockmeyer-property-tax-developing/)
+2. IMF (2013), "Taxing Immovable Property: Revenue Potential and Implementation
+   Challenges" — used for the revenue-potential estimate and the administrative
+   constraints framing. [wiki summary](/wiki/imf-taxing-immovable-property/)

@@ -43,17 +43,26 @@ after this to sort out the Fable-5-concurrency question. If a fresh session resu
 5. Standing rules unchanged (campsite ≥5/shift, stub quota, delta rule, lint green,
    commit+push per shift, ~75-min wake-ups). Inbox is EMPTY (10/10 consumed).
 
-**NEXT SESSION START HERE (checkpoint 2026-07-06, session vy8k5i-qcm0cb):** The VERIFY-SWEEP
-(item 2 above) is COMPLETE — lint green (0 err, 464 warn, ratchet down from 473). Floyd
-paused the loop after this shift to re-evaluate reintroducing the Fable 5 model. Remaining
-open priorities, in order: (3) **Exa people-enrichment sweep** — api.exa.ai returns 404 on a
-bare GET but egress is open; run `scripts/exa_enrich.py` with the key Floyd supplies in-prompt
-at LOW concurrency (never commit the key). (4) **congestion-pricing [FIND]** (Vickrey /
-Singapore ERP / London 2003 / Stockholm-Eliasson — real fetches now work). (5) **texts/ PD
-seeding** — Paine's *Agrarian Justice* first (gutenberg.org fetchable, confirmed 200 this
-session). Then DST-as-tried [FIND], Great Smoky Mountains primary, remaining WS-TECH-RENTS
-research pages. Egress confirmed OPEN this session (ifs.org.uk/gutenberg/treasury/archive.org/
-oll all 200). Branch + PR #9 unchanged and growing.
+**NEXT SESSION START HERE (checkpoint 2026-07-06, session vy8k5i-qcm0cb, Opus 4.8 sole T1).**
+Fable 5 is OUT for the rest of the week (rate-limited) — no more concurrency; Opus 4.8 owns the
+whole desk as T1. Floyd also enabled an **ask-Hermes** channel (Hermes = GLM 5.2, doing book
+scanning/synthesis; Opus acts as its T1). Progress this run (3 shifts, all pushed to PR #9):
+- **DONE** VERIFY-SWEEP (12 flags, reconciled w/ Fable wave-1).
+- **DONE** congestion-pricing [FIND] → concepts/congestion-pricing + outcomes/congestion-pricing-
+  reduces-traffic (Singapore/London/Stockholm from primaries).
+- **DONE** texts/ seeding launch: **texts/agrarian-justice** — Paine's full 1797 pamphlet (7.4k
+  words, Gutenberg 31271/Conway ed.), the FIRST texts/ page; headnote + provenance; wired from
+  thomas-paine + citizens-dividend-narrative; registry deduped to Scanned/Heavy. Also fixed
+  lint: public_domain pages now exempt from the banned-certainty check (mirrors the quote-cap
+  exemption) — PD texts carry the author's words, not the wiki's claims.
+Lint green (0 err, 458 warn, ratchet steadily down from 473).
+**Remaining open priorities, in order:** (a) **Exa people-enrichment sweep** — api.exa.ai returns
+404 on a bare GET but egress is open; run `scripts/exa_enrich.py` with the key Floyd supplies
+in-prompt at LOW concurrency (never commit the key). (b) more **texts/ seeding** (§3b priority
+list: 1890 Saratoga proceedings, Johnson 1914, Post 1923, George's works). (c) congestion
+follow-ups (build out the outcome page; Gothenburg 2013 counter-texture; Smeed Report 1964 stub).
+(d) DST-as-tried [FIND]; Great Smoky Mountains primary; remaining WS-TECH-RENTS research pages.
+Egress confirmed OPEN (ifs/gutenberg/treasury/archive.org/oll all 200). Branch + PR #9 growing.
 
 ## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-06 end-of-day — MERGED TO MAIN; directives for the next session)

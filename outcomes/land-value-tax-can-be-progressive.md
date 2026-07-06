@@ -52,5 +52,10 @@ concentrated) but **design-dependent** at the household level.
 
 ## Sources
 
-1. Schwerhoff, Edenhofer & Fleurbaey (2022), "Equity and Efficiency Effects of Land Value Taxation," IMF — [wiki summary](/wiki/schwerhoff-imf-equity-efficiency/)
-2. Rognlie (2015) — [wiki summary](/wiki/rognlie-capital-share/)
+1. Schwerhoff, Edenhofer & Fleurbaey (2022), "Equity and Efficiency Effects of Land
+   Value Taxation," IMF — used for the formal optimal-tax result that an LVT can be
+   progressive given the concentration of land ownership.
+   [wiki summary](/wiki/schwerhoff-imf-equity-efficiency/)
+2. Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share" — used
+   for the evidence that land wealth (and thus an LVT base) is concentrated at the
+   top. [wiki summary](/wiki/rognlie-capital-share/)
