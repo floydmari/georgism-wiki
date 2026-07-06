@@ -82,12 +82,17 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   bidirectional-gap warnings (14→0) by adding supports_outcomes to 11 research pages.
 - **DONE** shift 10: **texts/the-crime-of-poverty** — George's 1885 Burlington, Iowa lecture in
   full (~11k words), the SECOND texts/ page. CLEAN transcription from archive.org scan
-  crimeofpoverty00geor (NOT the garbled Google copy; NOT Wikimedia, which blocks the proxy IP) —
-  OCR artifacts corrected (li→h, hyphenation rejoined, drop-cap). Bonus: this edition was a
-  Joseph Fels Fund printing (ties to shift 6). Wired from henry-george + progress-and-poverty +
-  joseph-fels; registry Scanned/Heavy. The public_domain lint exemption (shift 3) correctly
-  suppresses banned-word flags on George's prose. CRIME OF POVERTY texts/ BLOCKER NOW RESOLVED.
-Lint green (0 err, 418 warn, ratchet steadily down from 473).
+  crimeofpoverty00geor (NOT the garbled Google copy; NOT Wikimedia). Joseph Fels Fund printing.
+- **DONE** shift 11: **outcomes/carbon-pricing-cuts-emissions** — the ATMOSPHERE rent domain,
+  the last big unevidenced geoism row. Flagship BC revenue-neutral carbon tax 2008 (Elgie-McClay:
+  per-capita fuel use −19% vs rest of Canada, emissions −5-15%; Rivers-Schaufele salience 1.7%/¢);
+  cross-country (Best-Burke-Jotzo: −2pp emissions growth) + EU ETS (Bayer-Aklin: −3.8%, >1Gt);
+  honest counter Pretis 2022 (aggregate BC effect weaker than the headline). Geoist framing:
+  atmospheric commons rent + carbon dividend; Pigouvian-first per rent gradient. Wired from
+  geoism (atmosphere row) + supported_by ecological-georgism/pigouvian-taxation (bidirectional);
+  5 registry rows. GEOISM TABLE NOW HAS 5 EVIDENCED RENT-DOMAIN ROWS (land, road, spectrum,
+  resources, atmosphere).
+Lint green (0 err, 414 warn, ratchet steadily down from 473).
 **Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
 George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
 Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or

@@ -32,5 +32,9 @@ A higher tax rate on land, relative to the rate on structures, is associated wit
 
 ## Sources
 
-1. Florenz Plassmann & Nicolaus Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2):216–247. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X)
+1. Florenz Plassmann & Nicolaus Tideman (2000), "A Markov Chain Monte Carlo Analysis
+   of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban
+   Economics* 47(2):216–247 — used for the multi-municipality (Pennsylvania) evidence
+   that shifting tax onto land raised the number and value of building permits.
+   [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X)
 2. Companion single-city case: [Oates & Schwab (1997) — wiki summary](/wiki/oates-schwab-pittsburgh/)
