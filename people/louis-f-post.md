@@ -30,11 +30,11 @@ Bureau circuit alongside Nearing and Howe
 ## Sources
 
 1. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994), Gaffney
-   essay Ch. 3 (Cooper Union debate; Fels Lecture Bureau; Children's Bureau
-   founding) — Heavy scan, per the wiki's
-   [book page](/wiki/gaffney-harrison-corruption-of-economics/) (A-claims with
-   book locators).
-2. Standard biographical record of Post's Labor Department tenure and the 1920
-   deportation cancellations (e.g., his memoir *The Deportations Delirium of
-   Nineteen-Twenty*, 1923). [VERIFY: exact dates and warrant counts on direct
-   read before citing specifics.]
+   essay Ch. 3 — used for the 1903 Cooper Union debate against Clark, the Fels
+   Lecture Bureau circuit, and the Children's Bureau founding (A-claims with book
+   locators; Heavy scan, per the wiki's
+   [book page](/wiki/gaffney-harrison-corruption-of-economics/)).
+2. Standard biographical record of Post's Labor Department tenure (e.g., his
+   memoir *The Deportations Delirium of Nineteen-Twenty*, 1923) — used for the
+   Palmer-raid deportation cancellations and the impeachment attempt. [VERIFY:
+   exact dates and warrant counts on direct read before citing specifics.]

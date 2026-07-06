@@ -29,7 +29,9 @@ California initiative — had professional organization behind it.[1]
 ## Sources
 
 1. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994), Gaffney
-   essay Ch. 3 (Fels Lecture Bureau and campaign funding) — Heavy scan, per the
-   wiki's [book page](/wiki/gaffney-harrison-corruption-of-economics/) (A-claims
-   with book locators). [VERIFY: Fels Fund founding year and British land-colony
-   specifics on a direct biographical source — e.g., Mary Fels' 1916 biography.]
+   essay Ch. 3 — used for the Fels Lecture Bureau, campaign funding, and the
+   movement's 1909–1916 professional peak (A-claims with book locators; Heavy
+   scan, per the wiki's
+   [book page](/wiki/gaffney-harrison-corruption-of-economics/)).
+   [VERIFY: Fels Fund founding year and British land-colony specifics on a direct
+   biographical source — e.g., Mary Fels' 1916 biography.]
