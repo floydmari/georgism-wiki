@@ -36,6 +36,7 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 - [Margin of Production](/wiki/margin-of-production/)
 
 - [Henry George](/wiki/henry-george/) — the author
+- [The Crime of Poverty](/wiki/the-crime-of-poverty/) (1885) — George's popular-lecture distillation of this book's argument, held in full
 - [Land Value Tax](/wiki/land-value-tax/) — the policy George proposes
 - [Economic Rent](/wiki/economic-rent/) — the theoretical foundation
 - [Mason Gaffney](/wiki/mason-gaffney/) — who documented the suppression of Georgist economics

@@ -29,6 +29,7 @@ George's influence crossed ideological lines in ways unusual for any single thin
 ## See Also
 
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
+- [The Crime of Poverty](/wiki/the-crime-of-poverty/) (1885) — his most famous popular lecture, held in full
 - [Land Value Tax](/wiki/land-value-tax/) — the policy at the centre of George's programme
 - [Georgism](/wiki/georgism/) — the political-economic movement built on George's ideas
 - [Single Tax](/wiki/single-tax/) — George's specific policy prescription

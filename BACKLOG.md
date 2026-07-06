@@ -80,7 +80,14 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   domain). Norway flagship (78% cash-flow petroleum tax → GPFG >$2tn; 3% budgetary rule) as the
   Sachs-Warner resource-curse escape, honest institutional caveat. Campsite bonus: cleared ALL
   bidirectional-gap warnings (14→0) by adding supports_outcomes to 11 research pages.
-Lint green (0 err, 424 warn, ratchet steadily down from 473 — biggest single-shift drop, -16).
+- **DONE** shift 10: **texts/the-crime-of-poverty** — George's 1885 Burlington, Iowa lecture in
+  full (~11k words), the SECOND texts/ page. CLEAN transcription from archive.org scan
+  crimeofpoverty00geor (NOT the garbled Google copy; NOT Wikimedia, which blocks the proxy IP) —
+  OCR artifacts corrected (li→h, hyphenation rejoined, drop-cap). Bonus: this edition was a
+  Joseph Fels Fund printing (ties to shift 6). Wired from henry-george + progress-and-poverty +
+  joseph-fels; registry Scanned/Heavy. The public_domain lint exemption (shift 3) correctly
+  suppresses banned-word flags on George's prose. CRIME OF POVERTY texts/ BLOCKER NOW RESOLVED.
+Lint green (0 err, 418 warn, ratchet steadily down from 473).
 **Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
 George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
 Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or

@@ -24,4 +24,7 @@ When tax systems leave economic rents — including [land rent](/wiki/economic-r
 
 ## Sources
 
-1. Richards (2019), "Taxes and Rents: The Power of Tax Policy to Shape Pre-Tax Income," SSRN. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3330239)
+1. Richards (2019), "Taxes and Rents: The Power of Tax Policy to Shape Pre-Tax
+   Income," SSRN — used for the argument that tax policy shapes pre-tax income
+   distribution by altering how economic rents are captured and shared.
+   [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3330239)
