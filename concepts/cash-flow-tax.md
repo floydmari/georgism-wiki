@@ -17,7 +17,7 @@ thereby pays a share *t* of every investment (via the deduction) and takes share
 normal return has zero tax in present value; the base collapses to above-normal
 returns, i.e. **[economic rent](/wiki/economic-rent/)**.[1][2] The neutrality
 result traces to E. Cary Brown (1948); the canonical policy statement is the
-IFS **Meade Report** (1978), which distinguished the **R base** (real cash flows
+IFS **[Meade Report](/wiki/meade-report/)** (1978), which distinguished the **R base** (real cash flows
 only), **R+F base** (real plus financial flows), and **S base** (net flows to
 shareholders — algebraically equivalent to R+F).[1][2] The
 [allowance for corporate equity](/wiki/allowance-for-corporate-equity/) reaches

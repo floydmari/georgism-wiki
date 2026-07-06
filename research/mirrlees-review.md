@@ -68,6 +68,7 @@ The Review's importance for the Georgist case is less about novelty of theory �
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/)
+- [The Meade Report (1978)](/wiki/meade-report/) — the IFS's earlier landmark study, this Review's direct ancestor
 - [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) — the Review's rent-only corporate proposal
 - [Deadweight Loss](/wiki/deadweight-loss/)
 - [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/)
