@@ -76,7 +76,11 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   wired inbound from geoism + william-vickrey + public-land-leasing; 3 registry rows.
   NOTE: Crime of Poverty texts/ still blocked (Wikimedia blocks the proxy IP) — needs a
   non-Wikimedia clean source (Schalkenbach, henrygeorge.org) or OCR cleanup.
-Lint green (0 err, 440 warn, ratchet steadily down from 473).
+- **DONE** shift 9: **outcomes/resource-rent-capture-works** — NEW outcome (resource-rent capture
+  domain). Norway flagship (78% cash-flow petroleum tax → GPFG >$2tn; 3% budgetary rule) as the
+  Sachs-Warner resource-curse escape, honest institutional caveat. Campsite bonus: cleared ALL
+  bidirectional-gap warnings (14→0) by adding supports_outcomes to 11 research pages.
+Lint green (0 err, 424 warn, ratchet steadily down from 473 — biggest single-shift drop, -16).
 **Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
 George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
 Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or
@@ -139,9 +143,14 @@ land case's certainty bleed into contested domains; quasi-rent/incentive caveats
 
 Discovery sweeps (the Mazzucato motion, one per domain — [FIND] tier:T2, forage+snippet,
 each ends in a triage report per the accept bar):
-- [ ] [FIND] tier:T2 status:todo — resource-rent capture evidence: severance-tax incidence,
-      Norway petroleum tax + GPFG design literature, mineral-royalty regimes (IMF FARI),
-      resource-curse counter-designs. Target: outcomes/resource-rent-capture-works depth.
+- [x] [FIND] tier:T2 status:DONE 2026-07-06 (shift 9) — resource-rent capture evidence.
+      SHIPPED: outcomes/resource-rent-capture-works — Norway flagship (78% cash-flow petroleum
+      tax → GPFG >$2tn, world's largest SWF; 3% budgetary rule since 2017) as the escape from the
+      Sachs-Warner resource curse, with the honest institutional caveat (capture works where
+      institutions are strong; the curse is real where they are weak; Larsen 2006). Wired from
+      geoism + supported_by resource-rents/sovereign-wealth-fund/cash-flow-tax (bidirectional).
+      4 registry rows. STILL OPEN for a future deepen: severance-tax incidence detail (US states),
+      mineral-royalty regimes / IMF FARI framework.
 - [ ] [FIND] tier:T2 status:todo — spectrum & auction rents: Coase 1959, Milgrom auction
       design, FCC auction revenue record, Hazlett property-rights critique (queued row
       exists). Target: concepts/spectrum-auctions + evidence.

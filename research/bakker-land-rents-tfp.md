@@ -8,6 +8,7 @@ source_url: https://papers.ssrn.com/sol3/Delivery.cfm/wpi2023170.pdf?abstractid=
 tier: important
 stub: false
 excerpt: "Finds that high urban land rents suppress total factor productivity by misallocating labour and capital across cities."
+supports_outcomes: [high-land-rents-suppress-productivity]
 ---
 
 ## Summary

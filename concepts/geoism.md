@@ -26,7 +26,7 @@ Each domain has its own instrument and its own evidence base:
 | Rent domain | Capture instrument | Wiki anchor |
 |---|---|---|
 | Land & location | [Land value tax](/wiki/land-value-tax/); [public land leasing](/wiki/public-land-leasing/); [land value capture](/wiki/land-value-capture/) | The core corpus: [15 evidence outcomes](/wiki/land-rent-could-fund-government/) |
-| Natural resources | Royalties, severance taxes, [sovereign wealth funds](/wiki/sovereign-wealth-fund/) | [Resource rents](/wiki/resource-rents/) · [dividends work](/wiki/resource-rent-dividends-work/) |
+| Natural resources | Royalties, severance taxes, [sovereign wealth funds](/wiki/sovereign-wealth-fund/) | [Capture works where institutions are strong](/wiki/resource-rent-capture-works/) (Norway: 78% tax → >$2tn fund); [resource rents](/wiki/resource-rents/) · [dividends work](/wiki/resource-rent-dividends-work/) |
 | Atmosphere & ecology | Carbon pricing + per-capita dividends | [Ecological Georgism](/wiki/ecological-georgism/) · [Green Georgism narrative](/wiki/ecological-rent/) |
 | Spectrum & orbits | [Spectrum auctions](/wiki/spectrum-auctions/); recurring license fees | Coase 1959 → FCC auctions since 1994 (>$200bn raised; C-band 2021 ~$81bn) capture the airwaves' scarcity rent for the public — a clean non-land case, with a "sell-once vs lease" caveat |
 | Road space & congestion | [Congestion pricing](/wiki/congestion-pricing/) | [Reduces traffic & congestion](/wiki/congestion-pricing-reduces-traffic/): Singapore 1975 (~76% zone-traffic drop), London 2003 (~30% congestion cut), Stockholm 2006 (~20% cordon reduction, ~4-yr social payback) — the strongest non-land quasi-experimental record |
