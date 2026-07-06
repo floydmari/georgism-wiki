@@ -45,8 +45,13 @@ def repo_rows():
 
     rows = []
     for slug, (cat, meta, path) in sorted(files.items()):
-        # only research + organizations are true "sources"; others are wiki pages that
-        # cite sources. We register research/orgs as sources and every page as a Wiki Page.
+        # Emit a row per page in the combined shape; main() then partitions via the
+        # shared classifier (split_registry.is_wiki_inventory): research/orgs/texts/
+        # books with an external URL become SOURCES, synthesis pages (concepts,
+        # people, events, …) with no URL become wiki-inventory. One row per page here;
+        # the split decides which file it lands in. (Historically this step wrote
+        # every page into registry.csv as a pseudo-source — the hybrid Floyd flagged
+        # 2026-07-06; the partition fixes it at the generator, not just by hand.)
         rows.append({
             "Title": meta.get("title", slug),
             "Category": {"research": "Academic/Research", "organizations": "Website/Org"}
@@ -122,7 +127,15 @@ def main():
         w = csv.DictWriter(fh, fieldnames=COLS)
         w.writeheader()
         w.writerows(rows)
-    print(f"seed_registry: wrote {len(rows)} rows to {os.path.relpath(OUT, ROOT)}")
+    print(f"seed_registry: wrote {len(rows)} combined rows to {os.path.relpath(OUT, ROOT)}")
+    # A regenerated registry must not stay hybrid: partition it into the sources
+    # file (external works) and sources/wiki-inventory.csv (the wiki's own pages)
+    # using the shared classifier. See sources/README.md. NOTE: texts/ pages are
+    # emitted here from their frontmatter; their external provenance URL is prose
+    # (`provenance:`), so confirm each Text row carries a provenance URL after a
+    # from-scratch reseed — the lint texts-source-row check will flag any gap.
+    import split_registry
+    split_registry.main()
 
 
 if __name__ == "__main__":

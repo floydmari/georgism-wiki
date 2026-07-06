@@ -125,15 +125,28 @@ def aslist(v):
     return v if isinstance(v, list) else [v]
 
 
-def load_registry():
-    rows = []
+INVENTORY = os.path.join(ROOT, "sources", "wiki-inventory.csv")
+
+
+def _read_csv(path):
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as fh:
+        return list(csv.DictReader(fh))
+
+
+def load_sources():
+    """sources/registry.csv — external works only (the regeneration input set)."""
     if not os.path.exists(REGISTRY):
         warn("sources/registry.csv", "not found — source-registry checks skipped")
-        return rows
-    with open(REGISTRY, encoding="utf-8") as fh:
-        for row in csv.DictReader(fh):
-            rows.append(row)
-    return rows
+    return _read_csv(REGISTRY)
+
+
+def load_registry():
+    """One logical registry = sources + wiki-inventory. The two files are split
+    for human navigability and the regenerate-from-sources use case (see
+    sources/README.md), but drift/duplicate/link checks span both."""
+    return load_sources() + _read_csv(INVENTORY)
 
 
 def main():
@@ -262,6 +275,21 @@ def main():
             msg = f"registry row '{r.get('Title','?')}' -> /wiki/{m.group(1)}/ missing from git"
             (warn if "missing" in status or "drift" in status else err)(
                 "sources/registry.csv", msg)
+
+    # texts/ pages are reproduced primary sources — each must have a SOURCE row
+    # (registry.csv), with external provenance, not just a wiki-inventory entry
+    # (Floyd, 2026-07-06). A full public-domain text on the wiki that the sources
+    # registry can't see is a provenance gap.
+    source_page_slugs = set()
+    for r in load_sources():
+        wp = (r.get("Wiki Page") or "").rstrip("/")
+        m = re.search(r"/wiki/([a-z0-9\-]+)$", wp)
+        if m:
+            source_page_slugs.add(m.group(1))
+    for slug, p in pages.items():
+        if p["folder"] == "texts" and slug not in source_page_slugs:
+            warn(p["path"], "texts/ page has no source row in registry.csv "
+                 "(add one with its external provenance URL)")
 
     # orphans (warning)
     for slug, p in pages.items():
