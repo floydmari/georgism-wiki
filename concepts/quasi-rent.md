@@ -16,11 +16,14 @@ Once the investment is sunk, its return behaves like land rent: the factor canno
 quickly enter or exit, so its earnings are set by demand, not by production cost.
 But unlike land, the factor *was produced*, and the prospect of those earnings is
 what motivated producing it. In the long run, taxing or confiscating quasi-rents
-shrinks the supply of the things that earn them. Marshall introduced the concept in
-*Principles of Economics* (1890), Book V, treating such incomes as "quasi-rent" to
-mark both the resemblance to and the difference from true land rent.[1]
-[VERIFY: exact chapter/section of the quasi-rent definition in the 8th edition
-(Book V) on direct read — the wiki holds only secondary treatments.]
+shrinks the supply of the things that earn them. Marshall introduces the concept
+in *Principles of Economics* Book V, Chapter VIII — "That which is rightly
+regarded as interest on 'free' or 'floating' capital, or on new investments of
+capital, is more properly treated as a sort of rent—a Quasi-rent—on old
+investments of capital" — and develops it through Chapter IX, where the family
+resemblance runs the other way too: "even the rent of land being not a thing by
+itself, but the leading species of a large genus."[1] (Verified against the
+econlib 8th-edition text, 2026-07-06.)
 
 ## Why the Distinction Is Load-Bearing
 
@@ -98,10 +101,11 @@ site-value taxation.[3]
 
 ## Sources
 
-1. Alfred Marshall, *Principles of Economics* (1890; 8th ed. 1920), Book V —
-   used for the origin and definition of quasi-rent (F-claim; public-domain
-   primary; precise chapter/section flagged [VERIFY] above pending direct read).
-   [Online Library of Liberty edition](https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed)
+1. Alfred Marshall, *Principles of Economics* (1890; 8th ed. 1920), Book V,
+   Chapters VIII–IX — used for the origin, definition, and both quotations
+   (F-claim; public-domain primary, read directly at econlib 2026-07-06).
+   [Econlib 8th ed., Bk. V Ch. VIII](https://www.econlib.org/library/Marshall/marP.html?chapter_num=36) ·
+   [Ch. IX](https://www.econlib.org/library/Marshall/marP.html?chapter_num=37)
 2. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3 §11 —
    used for Marshall's quasi-rent objection to the single tax and Blaug's
    persistence/generality reply on George's behalf (quotes ≤50 words with

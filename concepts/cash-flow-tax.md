@@ -59,10 +59,13 @@ of the [homevoter problem](/wiki/homevoters-will-block-lvt/).
   (combined marginal rate 78%) operates on an explicit **cash-flow basis with
   immediate expensing and cash refund of the tax value of losses** — as close
   to a textbook rent tax as exists anywhere, applied to a resource domain where
-  the rent is least contested. [VERIFY: technical rate 71.8% and 2022
-  conversion details against Norwegian official sources — snippet-corroborated
-  only.] It coexists with continued investment, though no formal causal
-  evaluation was found this session.[8]
+  the rent is least contested. Verified against the official norskpetroleum.no
+  page (2026-07-06): "a cash-flow based tax was introduced in the special tax"
+  from income year 2022; "investments are deducted immediately"; the special
+  rate "was technically increased from 56 to 71.8 per cent" to keep the
+  combined 78%; and "the special tax value of the deficit is reimbursed."[8]
+  It coexists with continued investment, though no formal causal evaluation
+  was found this session.
 - **Australia's Petroleum Resource Rent Tax** (1988, from Garnaut &
   Clunies Ross's 1975 design) is a cash-flow rent tax with *uplift*
   (carry-forward at interest) instead of loss refunds — and its revenue record

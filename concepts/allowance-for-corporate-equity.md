@@ -43,10 +43,14 @@ benchmark-dependent.[8]
 ## The Mainstream Endorsement
 
 The [Mirrlees Review](/wiki/mirrlees-review/) (*Tax by Design*, 2011)
-recommended introducing an ACE into UK corporation tax, so that equity- and
-debt-financed investment are treated equally and only profits above the normal
-return are taxed.[3] [VERIFY: the ACE proposal's exact chapter (17 vs 18) and
-wording against the IFS PDF — proxy-blocked this session.] The IMF has pressed
+recommended introducing an ACE into UK corporation tax. The design is set out
+in §17.3.2 ("An Allowance for Corporate Equity," Ch. 17, *Taxing Corporate
+Income*): "The effect is again to remove the normal return on equity-financed
+investment from the corporate tax base" (p. 421). The recommendation is
+completed in Ch. 18: introducing an ACE "would achieve this" reform of not
+taxing the normal return, and "appears to be quite feasible for an open
+economy such as the UK" (p. 449). (Verified against the IFS PDF,
+2026-07-06.)[3] The IMF has pressed
 the same design as the remedy for **debt bias** — the standard corporate tax's
 subsidy to leverage, which it treats as a macro-financial-stability problem
 (IMF 2016; De Mooij 2011).[4]
