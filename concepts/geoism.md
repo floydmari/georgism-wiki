@@ -50,7 +50,7 @@ never flattening the gradient (EDITORIAL §0):
   the wiki carries both sides at strength
   ([Crouzet & Eberly](/wiki/corporate-profits-increasingly-rents/);
   [superstar firms](/wiki/superstar-firms/)).
-- **Innovation profits are largely quasi-rents that ARE the incentive.** Taxing a
+- **Innovation profits are largely [quasi-rents](/wiki/quasi-rent/) that ARE the incentive.** Taxing a
   location windfall costs nothing; taxing the return that motivated an invention
   is not free. The Schumpeterian objection to generalized rent capture is queued
   for a full steelman page.

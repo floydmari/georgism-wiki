@@ -17,7 +17,7 @@ encounters ([Gaffney's account](/wiki/gaffney-harrison-corruption-of-economics/)
 essay Ch. 3).[1] Yet unlike [Clark's](/wiki/john-bates-clark/) American school,
 Marshall preserved real analytic space for land: his *Principles* treats land's
 "public value" as arising from society and situation rather than owner effort,
-introduces **quasi-rents** as temporarily land-like returns, and he supported
+introduces **[quasi-rents](/wiki/quasi-rent/)** as temporarily land-like returns, and he supported
 modest taxation of site values — the reason
 [Blaug's history](/wiki/economic-theory-in-retrospect/) treats the *English*
 neoclassical treatment of rent as more continuous with Ricardo than the American

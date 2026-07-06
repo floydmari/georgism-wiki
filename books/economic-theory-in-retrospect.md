@@ -79,7 +79,7 @@ Blaug devotes a substantial section to Henry George and the single tax, treating
 
 ### The Marshallian Objection
 
-Blaug presents Marshall's objection to the single tax: "all economic agents, not simply land, may earn 'rents' in the short run; and even Ricardian differential rents are incentive payments in the long run; encouraging the economical use of fertile and therefore scarcer land" (Ch. 3, §11).
+Blaug presents Marshall's [quasi-rent](/wiki/quasi-rent/) objection to the single tax: "all economic agents, not simply land, may earn 'rents' in the short run; and even Ricardian differential rents are incentive payments in the long run; encouraging the economical use of fertile and therefore scarcer land" (Ch. 3, §11).
 
 However, Blaug offers a partial rebuttal on George's behalf: "George might have replied that no quasi-rent has either the persistence or the generality of ground rent and Marshall would probably have agreed with that." Furthermore, "if it were administratively feasible to distinguish pure economic rent for land as a distance-input from rent for site improvements of all kinds, the Marshallian argument would lose some of its force: the elasticity of supply of space is indeed very low" (Ch. 3, §11).
 
