@@ -47,4 +47,6 @@ point estimate — but the direction is consistent across approaches.
 
 ## Sources
 
-1. Bas Bakker (2023), "Unveiling the Hidden Impact of Urban Land Rents on Total Factor Productivity," IMF — [wiki summary](/wiki/bakker-land-rents-tfp/)
+1. Bas Bakker (2023), "Unveiling the Hidden Impact of Urban Land Rents on Total Factor
+   Productivity," IMF — used for the finding that rising urban land rents drag on measured
+   total factor productivity. [wiki summary](/wiki/bakker-land-rents-tfp/)

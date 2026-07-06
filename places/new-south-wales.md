@@ -24,5 +24,5 @@ Australia, and NSW in particular, provides a long-run real-world demonstration t
 
 ## Sources
 
-1. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* — Australia chapters (comparative reference).
-2. [Prosper Australia](https://www.prosper.org.au/) — research on Australian land taxation.
+1. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* — used for the Australia chapters' account of NSW land taxation (comparative reference).
+2. [Prosper Australia](https://www.prosper.org.au/) — used for current Australian land-tax research and advocacy context (advocacy source, attributed).

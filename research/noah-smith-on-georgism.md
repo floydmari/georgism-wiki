@@ -23,5 +23,9 @@ Smith's engagement matters because he writes for a broad, influential readership
 
 ## Sources
 
-1. Noah Smith (2015), "A Misguided Attack on Land Value Taxes," *Noahpinion*. [Article](http://noahpinionblog.blogspot.com/2015/03/a-misguided-attack-on-land-value-taxes.html)
-2. Noah Smith, "How to Sell Georgism to the Middle Class," *Noahpinion*. [Article](https://www.noahpinion.blog/p/how-to-sell-georgism-to-the-middle)
+1. Noah Smith (2015), "A Misguided Attack on Land Value Taxes," *Noahpinion* — used
+   for a mainstream economics-commentator defense of LVT against common objections.
+   [Article](http://noahpinionblog.blogspot.com/2015/03/a-misguided-attack-on-land-value-taxes.html)
+2. Noah Smith, "How to Sell Georgism to the Middle Class," *Noahpinion* — used for
+   the framing/communication argument (an opinion source, cited as its author's view).
+   [Article](https://www.noahpinion.blog/p/how-to-sell-georgism-to-the-middle)

@@ -52,8 +52,8 @@ expiring leases have generally been extended for 50 years **without additional
 premium**, at an annual government rent of just 3% of rateable value — a
 standing example of repricing forgone at renewal.[7]
 
-The Georgist assessment therefore runs: leasing proves land can fund government
-at scale — Hong Kong and Singapore are the wiki's standard partial precedents
+The Georgist assessment therefore runs: leasing demonstrates that land can fund
+government at scale — Hong Kong and Singapore are the wiki's standard partial precedents
 for [land rent could fund government](/wiki/land-rent-could-fund-government/) —
 but its one-shot capture leaves the between-repricing increment private,
 rewarding the same speculation an annual tax would collect continuously. It
@@ -71,6 +71,7 @@ Public Land* (Lincoln Institute, 2003).[8]
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the outcome these cases partially evidence
 - [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/)
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) — the transfer-tax cousin
+- [Spectrum Auctions](/wiki/spectrum-auctions/) — the same one-shot-capture-vs-recurring-fee tension in the airwaves commons
 
 ## Sources
 

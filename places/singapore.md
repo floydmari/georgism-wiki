@@ -24,5 +24,5 @@ Singapore shows a different route to the Georgist goal — public land leasing i
 
 ## Sources
 
-1. "Singapore: Economic Prosperity through Innovative Land Policy," *Progress and Poverty Substack*. [Article](https://progressandpoverty.substack.com/p/singapore-economic-prosperity-through)
-2. Yu-Hung Hong (1996), "Can Leasing Public Land Be an Alternative Source of Local Public Finance?", Lincoln Institute. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf)
+1. "Singapore: Economic Prosperity through Innovative Land Policy," *Progress and Poverty Substack* — used for the advocacy-side account of Singapore's land-policy model (D-claims, attributed). [Article](https://progressandpoverty.substack.com/p/singapore-economic-prosperity-through)
+2. Yu-Hung Hong (1996), "Can Leasing Public Land Be an Alternative Source of Local Public Finance?", Lincoln Institute — used for the public-land-leasing revenue mechanism. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf)

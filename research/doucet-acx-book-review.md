@@ -20,4 +20,7 @@ Doucet's review reintroduced George's 142-year-old argument to a large, analytic
 
 ## Sources
 
-1. Lars Doucet (2021), "Your Book Review: Progress and Poverty," *Astral Codex Ten* / Game of Rent. [Game of Rent](https://gameofrent.com/content/progress-and-poverty-review)
+1. Lars Doucet (2021), "Your Book Review: Progress and Poverty," *Astral Codex Ten* /
+   Game of Rent — used for the modern popular restatement of George's argument (a
+   synthesis/navigation source; its primary claims are cited to their own sources on
+   the pages they support). [Game of Rent](https://gameofrent.com/content/progress-and-poverty-review)

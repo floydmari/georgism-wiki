@@ -27,4 +27,4 @@ Patel represents the practitioner/forecasting strand of the Georgist tradition â
 
 ## Sources
 
-1. Akhil Patel (2023), *The Secret Wealth Advantage: How You Can Profit from the Economy's Hidden Cycle* (book).
+1. Akhil Patel (2023), *The Secret Wealth Advantage: How You Can Profit from the Economy's Hidden Cycle* (book) â€” used for Patel's cycle framework and its Harrison/Foldvary lineage (summarized on the wiki's [book page](/wiki/patel-secret-wealth-advantage/)).

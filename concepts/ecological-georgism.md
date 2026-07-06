@@ -3,6 +3,7 @@ title: "Ecological Georgism"
 category: concepts
 tags: [concepts, ecological-georgism, environment, carbon, pigouvian, resource-rents]
 stub: false
+supports_outcomes: [carbon-pricing-cuts-emissions]
 excerpt: "The extension of Georgist rent-capture to all natural resources and environmental externalities — taxing pollution, carbon, and resource extraction as forms of rent."
 ---
 

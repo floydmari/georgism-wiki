@@ -26,6 +26,7 @@ The **Alaska Permanent Fund Dividend** is the closest large-scale implementation
 
 - [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — evidence a permanent dividend does not reduce aggregate employment
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/) — the persuasive case, its evidence, and its honest limits
+- [Anderson, Your Citizen's Dividend (eBook)](/wiki/anderson-your-citizens-dividend/) — the advocacy-side program statement (Crown Estate/SPV model)
 
 - [Economic Rent](/wiki/economic-rent/) · [Georgism](/wiki/georgism/) · [Land Value Tax](/wiki/land-value-tax/)
 

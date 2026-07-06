@@ -24,4 +24,4 @@ Tolstoy's endorsement gave Georgism enormous moral prestige and international re
 
 ## Sources
 
-1. Leo Tolstoy, letters and essays on Henry George and Georgism (1889–1910). [Collection](https://www.marxists.org/archive/tolstoy/unknown/tolstoy-on-georgism.html)
+1. Leo Tolstoy, letters and essays on Henry George and Georgism (1889–1910) — used for Tolstoy's advocacy of the single tax, his appeals to the Russian government, and the "consciousness of the injustice of land ownership" remark. [Collection](https://www.marxists.org/archive/tolstoy/unknown/tolstoy-on-georgism.html)

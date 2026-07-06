@@ -3,6 +3,7 @@ title: "Sovereign Wealth Fund"
 category: concepts
 tags: [resource-rents, citizens-dividend, fund-mechanism, sovereign-wealth-fund]
 stub: false
+supports_outcomes: [resource-rent-capture-works]
 excerpt: "A state-owned investment fund capitalized from resource rents or other public revenues, used to convert depleting windfalls into perpetual income — exemplified by Norway's save-and-budget model and Alaska's dividend model."
 last_reviewed: 2026-07-05
 ---

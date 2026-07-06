@@ -83,7 +83,7 @@ never received. Mill's prospective-only rule was his solution to that problem �
 increments that have not yet been priced into anyone's purchase.
 
 Mill carried this design from theory into a political program. In 1870–71 he founded and
-wrote the manifesto of the **Land Tenure Reform Association (LTRA)**, whose fourth article
+wrote the manifesto of the **[Land Tenure Reform Association](/wiki/land-tenure-reform-association/) (LTRA)**, whose fourth article
 claimed for the state "the Interception by Taxation of the Future Unearned Increase" of the
 rent of land — the LTRA's founding document putting Mill's prospective-interception
 principle directly into a policy platform.[4][5] The LTRA drew support from other classical

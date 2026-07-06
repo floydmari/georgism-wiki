@@ -26,13 +26,13 @@ Each domain has its own instrument and its own evidence base:
 | Rent domain | Capture instrument | Wiki anchor |
 |---|---|---|
 | Land & location | [Land value tax](/wiki/land-value-tax/); [public land leasing](/wiki/public-land-leasing/); [land value capture](/wiki/land-value-capture/) | The core corpus: [15 evidence outcomes](/wiki/land-rent-could-fund-government/) |
-| Natural resources | Royalties, severance taxes, [sovereign wealth funds](/wiki/sovereign-wealth-fund/) | [Resource rents](/wiki/resource-rents/) · [dividends work](/wiki/resource-rent-dividends-work/) |
-| Atmosphere & ecology | Carbon pricing + per-capita dividends | [Ecological Georgism](/wiki/ecological-georgism/) · [Green Georgism narrative](/wiki/ecological-rent/) |
-| Spectrum & orbits | Auctions; recurring license fees | Queued: Hazlett spectrum work; [William Vickrey](/wiki/william-vickrey/)'s auction lineage |
-| Road space & congestion | Congestion pricing | Queued: the Vickrey→Singapore/London/Stockholm evidence line |
+| Natural resources | Royalties, severance taxes, [sovereign wealth funds](/wiki/sovereign-wealth-fund/) | [Capture works where institutions are strong](/wiki/resource-rent-capture-works/) (Norway: 78% tax → >$2tn fund); [resource rents](/wiki/resource-rents/) · [dividends work](/wiki/resource-rent-dividends-work/) |
+| Atmosphere & ecology | Carbon pricing + per-capita dividends | [Carbon pricing cuts emissions](/wiki/carbon-pricing-cuts-emissions/) (BC −19% per-capita fuel use; EU ETS −3.8%) — modestly, without wrecking growth; [Ecological Georgism](/wiki/ecological-georgism/) · [Green Georgism narrative](/wiki/ecological-rent/) |
+| Spectrum & orbits | [Spectrum auctions](/wiki/spectrum-auctions/); recurring license fees | Coase 1959 → FCC auctions since 1994 (>$200bn raised; C-band 2021 ~$81bn) capture the airwaves' scarcity rent for the public — a clean non-land case, with a "sell-once vs lease" caveat |
+| Road space & congestion | [Congestion pricing](/wiki/congestion-pricing/) | [Reduces traffic & congestion](/wiki/congestion-pricing-reduces-traffic/): Singapore 1975 (~76% zone-traffic drop), London 2003 (~30% congestion cut), Stockholm 2006 (~20% cordon reduction, ~4-yr social payback) — the strongest non-land quasi-experimental record |
 | Monopoly & regulatory privilege | Antitrust; license auctions; [rent-seeking](/wiki/rent-seeking/) reform | [Corporate profits increasingly rents](/wiki/corporate-profits-increasingly-rents/) — carried WITH its counter-position |
 | Finance & credit | The contested frontier: [FIRE-sector](/wiki/fire-sector/) analysis | [Rentier](/wiki/rentier/) · [the rentier-economy narrative](/wiki/the-rentier-economy/) |
-| Platforms & data | The open design problem — rent-targeting corporate taxes (ACE/cash-flow), ad taxes, data dividends, [COST designs](/wiki/harberger-tax/); dedicated workstream in BACKLOG (WS-TECH-RENTS) | [Mazzucato's rent map](/wiki/mazzucato-mapping-rents/) · [superstar firms](/wiki/superstar-firms/) |
+| Platforms & data | The open design problem — rent-targeting corporate taxes ([ACE](/wiki/allowance-for-corporate-equity/)/[cash-flow](/wiki/cash-flow-tax/)), ad taxes, data dividends, [COST designs](/wiki/harberger-tax/); dedicated workstream in BACKLOG (WS-TECH-RENTS) | [Mazzucato's rent map](/wiki/mazzucato-mapping-rents/) · [superstar firms](/wiki/superstar-firms/) |
 | Intellectual property | Term/scope reform; prizes vs patents | Queued: the IP-rents literature |
 
 ## The Rent Gradient — Read This Before Citing
@@ -50,10 +50,11 @@ never flattening the gradient (EDITORIAL §0):
   the wiki carries both sides at strength
   ([Crouzet & Eberly](/wiki/corporate-profits-increasingly-rents/);
   [superstar firms](/wiki/superstar-firms/)).
-- **Innovation profits are largely quasi-rents that ARE the incentive.** Taxing a
+- **Innovation profits are largely [quasi-rents](/wiki/quasi-rent/) that ARE the incentive.** Taxing a
   location windfall costs nothing; taxing the return that motivated an invention
-  is not free. The Schumpeterian objection to generalized rent capture is queued
-  for a full steelman page.
+  is not free. The steelman:
+  [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) —
+  every non-land capture claim on this wiki links it.
 
 ## See Also
 

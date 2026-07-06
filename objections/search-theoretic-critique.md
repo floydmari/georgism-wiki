@@ -20,7 +20,7 @@ land is not fixed.**[1]
 Their model: a prospective owner engages in costly search — mineral prospecting,
 testing buildability, learning an area's future desirability — until marginal
 search cost equals expected benefit, earning only a normal return. What looks like
-a windfall "rent" upon discovery is, in their framing, a Marshallian **quasi-rent**
+a windfall "rent" upon discovery is, in their framing, a Marshallian **[quasi-rent](/wiki/quasi-rent/)**
 rewarding the discovery activity itself. The critique's central sentence: "Since
 any resources found would be taxed at 100%, there is no benefit to searching, and
 in equilibrium no search occurs and the price of land becomes zero."[1] Discovering

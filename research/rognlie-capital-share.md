@@ -9,6 +9,7 @@ tier: core
 stub: false
 supports: [capital-share-rise-is-land]
 excerpt: "Shows that the long-run rise in capital's share of income documented by Piketty is almost entirely attributable to housing — that is, to land — not to reproducible capital."
+supports_outcomes: [capital-share-rise-is-land, land-value-tax-can-be-progressive]
 ---
 
 ## Summary
@@ -28,6 +29,9 @@ Because the value of housing is dominated by the value of the **land** underneat
 
 ## Sources
 
-1. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share," *Brookings Papers on Economic Activity*. [PDF](https://mattrognlie.com/brookings_capitalshare.pdf)
+1. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share,"
+   *Brookings Papers on Economic Activity* — used for the central finding that the
+   long-run rise in the net capital share is concentrated in housing/land, not in
+   reproducible capital. [PDF](https://mattrognlie.com/brookings_capitalshare.pdf)
 2. Earlier note: Matthew Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital" — [wiki summary](/wiki/rognlie-piketty-note/). [PDF](https://gabriel-zucman.eu/files/teaching/Rognlie14.pdf)
 3. European confirmation: [Bonnet et al. (2021) — wiki summary](/wiki/bonnet-land-is-back/)

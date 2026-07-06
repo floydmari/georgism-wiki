@@ -26,4 +26,4 @@ Taiwan demonstrates that Georgist land-value capture can be embedded in a nation
 
 ## Sources
 
-1. Lincoln Institute (1998), "Policies and Mechanisms on Land Value Capture: Taiwan Case Study." [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf)
+1. Lincoln Institute (1998), "Policies and Mechanisms on Land Value Capture: Taiwan Case Study." [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf) — used for the LVIT mechanism, the Sun Yat-sen lineage, and Taiwan's status as a comparative land-value-capture case.

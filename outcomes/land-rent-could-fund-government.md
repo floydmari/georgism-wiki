@@ -57,5 +57,9 @@ table's other attributed aggregations.
 
 ## Sources
 
-1. Mason Gaffney (2009), "The Hidden Taxable Capacity of Land: Enough and to Spare" — [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) · [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
+1. Mason Gaffney (2009), "The Hidden Taxable Capacity of Land: Enough and to Spare" —
+   used for the estimate that land's taxable capacity is far larger than conventional
+   assessments imply (once ATCOR/EBCOR effects are counted).
+   [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) · [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
 2. Counterpoint framing: [Objection — LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
+   — used as the steelmanned opposing view on revenue sufficiency.

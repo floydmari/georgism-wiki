@@ -50,5 +50,9 @@ with productivity, not quality of life, driving most cross-city variation.
 
 ## Sources
 
-1. Transit value-uplift literature, summarized in Lincoln Institute land-value-capture research. [Lincoln](https://www.lincolninst.edu/)
-2. [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/)
+1. Transit value-uplift literature, summarized in Lincoln Institute land-value-capture
+   research — used for the empirical regularity that transit and infrastructure raise
+   nearby land values (capitalization). [Lincoln](https://www.lincolninst.edu/)
+2. Arnott & Stiglitz (1979) — used for the theoretical result that the value of a public
+   good capitalizes into surrounding land rent.
+   [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/)

@@ -3,6 +3,7 @@ title: "Pigouvian Taxation"
 category: concepts
 tags: [concepts, pigouvian-taxation, externalities, carbon-pricing, environmental-economics, resource-rents]
 stub: false
+supports_outcomes: [carbon-pricing-cuts-emissions]
 excerpt: "The externality-pricing tradition that charges for socially costly use of shared resources — and its Georgist kinship, which frames pollution and extraction as unpriced takings from the commons."
 last_reviewed: 2026-07-03
 ---

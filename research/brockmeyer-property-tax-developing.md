@@ -8,6 +8,7 @@ source_url: https://www.nber.org/system/files/working_papers/w28637/w28637.pdf
 tier: important
 stub: false
 excerpt: "Using Mexican natural experiments, this NBER paper finds that raising property-tax rates increases welfare, while heavy-handed enforcement can reduce it."
+supports_outcomes: [property-tax-raises-welfare-developing]
 ---
 
 ## Summary

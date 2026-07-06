@@ -79,7 +79,7 @@ Blaug devotes a substantial section to Henry George and the single tax, treating
 
 ### The Marshallian Objection
 
-Blaug presents Marshall's objection to the single tax: "all economic agents, not simply land, may earn 'rents' in the short run; and even Ricardian differential rents are incentive payments in the long run; encouraging the economical use of fertile and therefore scarcer land" (Ch. 3, §11).
+Blaug presents Marshall's [quasi-rent](/wiki/quasi-rent/) objection to the single tax: "all economic agents, not simply land, may earn 'rents' in the short run; and even Ricardian differential rents are incentive payments in the long run; encouraging the economical use of fertile and therefore scarcer land" (Ch. 3, §11).
 
 However, Blaug offers a partial rebuttal on George's behalf: "George might have replied that no quasi-rent has either the persistence or the generality of ground rent and Marshall would probably have agreed with that." Furthermore, "if it were administratively feasible to distinguish pure economic rent for land as a distance-input from rent for site improvements of all kinds, the Marshallian argument would lose some of its force: the elasticity of supply of space is indeed very low" (Ch. 3, §11).
 
@@ -101,7 +101,7 @@ Blaug identifies two key weaknesses in George's argument:
 
 ### Historical Legacy
 
-Blaug notes that "the concept of site value taxation was never seriously discussed, and to this day the only examples of it are to be found among local governments in the United States, Australia and New Zealand." However, "the milder Mill proposal... was eventually adopted in the British Budget of 1909 for urban lands not used for building purposes and the British Town and Country Planning Act of 1947 finally applied the principle of taxing future rental increments to all plots of land" (Ch. 3, §11).
+Blaug notes that "the concept of site value taxation was never seriously discussed, and to this day the only examples of it are to be found among local governments in the United States, Australia and New Zealand." However, "the milder Mill proposal... was eventually adopted in the British Budget of 1909 for urban lands not used for building purposes and the British [Town and Country Planning Act of 1947](/wiki/town-and-country-planning-act-1947/) finally applied the principle of taxing future rental increments to all plots of land" (Ch. 3, §11).
 
 Blaug also notes that Walras and Wicksteed were both advocates of land nationalisation, albeit with full compensation. Walras proposed compensating proprietors with bonds, using future rents to pay interest, relying on Ricardo's belief that rents tend to rise in a growing economy (Ch. 3, §11).
 

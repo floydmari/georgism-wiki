@@ -28,4 +28,7 @@ The book connected George's land thesis to the central political-economy debate 
 
 ## Sources
 
-1. Henry George (1886), *Protection or Free Trade*. Full text via the Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/)
+1. Henry George (1886), *Protection or Free Trade* — used for George's free-trade
+   argument and its link to the land question (his case that free trade alone cannot
+   raise wages while land is monopolised). Full text via the Henry George Institute.
+   [henrygeorge.org](https://www.henrygeorge.org/)

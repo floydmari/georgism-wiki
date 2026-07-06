@@ -38,6 +38,6 @@ The thesis is controversial among academic economists but is supported by consid
 
 ## Sources
 
-1. Mason Gaffney — complete career archive (100+ papers, free). [masongaffney.org](https://masongaffney.org/publications.html)
-2. Mason Gaffney & Fred Harrison (1994), *The Corruption of Economics* (book).
-3. [The Hidden Taxable Capacity of Land (2009) — wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
+1. Mason Gaffney — complete career archive (100+ papers, free) — used for career scope, UC Riverside emeritus role, and the water-rights/resource-taxation work. [masongaffney.org](https://masongaffney.org/publications.html)
+2. Mason Gaffney & Fred Harrison (1994), *The Corruption of Economics* (book) — used for the profession-reshaping thesis and its archival-funding evidence (summarized on the wiki's [book page](/wiki/gaffney-harrison-corruption-of-economics/)).
+3. Gaffney, "The Hidden Taxable Capacity of Land" (2009) — used for the ATCOR theorem and the 2008-as-land-collapse reading. [wiki summary](/wiki/gaffney-hidden-taxable-capacity/)

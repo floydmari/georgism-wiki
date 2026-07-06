@@ -581,3 +581,151 @@ DSTs honestly graded as turnover taxes that shifted, per the Amazon UK pass-thro
 ad tax; data dividends; antitrust as rent-dissolution vs capture), synthesis track gated on
 the finds. Every page links the Schumpeterian steelman. Session handoff prompt delivered to
 Floyd; morning successor trigger deleted in favor of the immediately-started session.
+
+---
+
+## 2026-07-06j — WS-TECH-RENTS shift 1 (session vy8k5i): rent-targeting corporate taxes [FIND] complete
+
+Three forage agents (ACE · cash-flow/DBCFT · framing+critiques), ~100 sources; proxy 403'd
+all direct fetches so everything ships snippet-corroborated at Light scan with [VERIFY]
+flags routed to the Hermes work order. Durable triage record:
+reports/ws-tech-rents-rent-targeting-taxes.find.md.
+
+Shipped (5 pages + 1 enrichment): concepts/quasi-rent (the rent gradient's load-bearing
+distinction — Marshall/Blaug/Gochenour-Caplan corpus material was already on the wiki);
+concepts/allowance-for-corporate-equity; concepts/cash-flow-tax (Meade/Brown/DBCFT/Norway
+2022/PRRT failure mode); research/hebous-ruf-ace; research/branzoli-caiumi-italy-ace;
+mirrlees-review gained its ACE section (the Review endorses rent-only bases for BOTH land
+and corporate — the single best bridge between the land core and the corporate frontier).
+24 registry rows + dated export.
+
+EDITORIAL FINDINGS THAT CORRECT THE TASK PREMISE: (1) quasi-experiments show ACE reliably
+cuts LEVERAGE; real-investment evidence is MIXED (Hebous-Ruf JPubE null on MNE production
+investment + double-dip arbitrage vs Konings et al. CJE positive) — the planned outcome
+page must be reframed toward debt-bias + marginal-investment neutrality with the
+MNE caveat, not "avoids investment distortion" flat; (2) every full European ACE has been
+repealed — political fragility is a finding; (3) no published ACE↔Georgism framing exists —
+the analogy ships only as labeled analysis; (4) rent-sharing in wage bargaining
+(Fuest-Peichl-Siegloch AER 2018) partially shifts even rent-only taxes — must appear on
+any incidence claim; (5) the "Stiglitz 2015 Tax Law Review" citation is garbled — real
+trio is NTJ 68(2) 2015 / NBER 21189-92 / EJ 125(583).
+
+Campsite: 13 debt items (12 Sources annotations, Mazzucato venue corrected to CJE on the
+corporate-profits outcome). Warnings 478→472 net of 5 new pages' honest flags; 342 pages;
+lint green; preview links verified.
+
+---
+
+## 2026-07-06k — WS-TECH-RENTS shift 2 (session vy8k5i): the Schumpeterian steelman shipped
+
+objections/taxing-quasi-rents-kills-innovation — the gate page Floyd's directive named as
+blocking the whole workstream — is live: Schumpeter's "spectacular prizes" (locator
+[VERIFY]-flagged), Akcigit-Grigsby-Nicholas-Stantcheva QJE 2022 with its scope caveat
+carried INSIDE the steelman, Domar-Musgrave 1944 loss-offset asymmetry as the analytic
+hinge, Reynolds-Neubig OECD 2016 on the normal-return benchmark. Responses concede the
+frontier and hold the core: no purchase on land/commons charges; design answer (rent-only
+bases + full loss refundability, Norway 2022 as existence proof, no economy-wide system has
+it); persistence diagnostic (Schumpeterian prizes are temporary — decades-long moats look
+like entrenched rent, with the superstar counter-reading carried); the objection's own
+overreach against the status quo (Treasury: ~63-75% of the corporate base is already
+supernormal and taxed haphazardly). Net assessment: substantially valid at the frontier —
+and the standing rule is now in force: any non-land efficiency claim links this page.
+Wired from geoism, quasi-rent, ACE, cash-flow-tax. Objections pillar 11→12.
+
+Campsite: 5 places Sources annotated (harrisburg, denmark, singapore, hong-kong, estonia)
++ 1 banned-certainty fix. Warnings 472→469; 343 pages; lint green; preview links verified.
+
+---
+
+## 2026-07-06l — Shift 3 (session vy8k5i): Ghost IDs merged (PR #10) + WS-TECH-RENTS evidence base built out
+
+INTERLUDE, Floyd present: openclaw/add-books-sync T1-reviewed and merged as PR #10 at
+Floyd's direction (wiki-books 6a4affad… + wiki-texts 6a4b01d7… into TAG_IDS; texts/.keep) —
+the Ghost-IDs blocker is RESOLVED; books/ and texts/ can sync. Theme-repo PR
+(progress-org-theme → openclaw/add-wiki-books-category) is outside this session's repo
+scope — deploy decision left with Floyd. Campaign branch merged up from main. Blocked-on-
+Floyd list refreshed (Exa key never persisted to env; citdiv.org proxy-blocked — Drive
+drop suggested; allowlist wishlist expanded; 6 bio questions delivered).
+
+SHIFT 3 MAIN WORK — five research pages from the find report, the reframed synthesis
+outcome's future supported_by base: power-frerick-excess-returns (40%→25% normal-return
+share; NOW WIRED into corporate-profits-increasingly-rents supported_by with body parity),
+fuest-peichl-siegloch-incidence (rent-sharing channel; the landlord-pass-through contrast
+drawn explicitly), domar-musgrave-risk (the loss-offset hinge), akcigit-taxation-innovation
+(the objection's empirical core, inference gap carried inside), zwick-mahon-expensing
+(expensing→investment, the instrument-family distinction vs ACE's mixed record). All Light
+scan, snippet-corroborated, [VERIFY]-flagged. Registry rows re-pointed to the research
+pages; dated export.
+
+Campsite: 5 more Sources annotated (pennsylvania, new-south-wales, pittsburgh,
+detroit-lvt-proposal, 1886-nyc). 348 pages; warnings 469→470 net of 5 new pages' honest
+flags (baseline 478 still beaten); lint green; preview links verified.
+
+---
+
+## 2026-07-06m — Shift 4 (session vy8k5i): Exa key + citdiv eBook delivered; eBook consumed
+
+Floyd delivered: (1) the Exa API key in-chat — tested inline; api.exa.ai STILL 403'd by the
+egress proxy, so the sweep stays blocked on the network-policy entry (key value lives in the
+conversation + BACKLOG points at the environment-settings fix; never committed; profile
+persistence policy-blocked); (2) the citdiv eBook PDF uploaded directly — the site-scan
+blocker cleared.
+
+EBOOK CONSUMED (READ & MINE, full 16 pp): books/anderson-your-citizens-dividend shipped —
+advocacy-graded program statement of the Crown-Estate/SPV capture design (George III 1760,
+Temasek as politically insulated collector, ATCOR-family "all gains end up in land value"
+claim marked contested, UBI-capitalization argument). Accuracy notes carried on-page: PFD
+given as US$1,022 (2016-vintage) in a ©2024 edition; Swiss "no paid politicians" self-
+corrected in the eBook's own footnote; housing-shortage aside contradicts the wiki's supply
+literature. Deltas per the delta rule: phillip-j-anderson cover-title correction +
+sharpened staleness note; Churchill toll-bridge story (capitalization in miniature) added
+to churchill-peoples-rights with primary-locator [VERIFY]; citizens-dividend concept wired.
+DISCOVERY: Great Smoky Mountains casino-dividend study queued as [FIND] (verify primary
+before citing — do not write from memory). Registry: eBook row at Heavy scan.
+
+349 pages; warnings 470→473 (3 honest flags on the new book page; baseline 478 still
+beaten); lint green; preview links verified. GitHub MCP disconnected mid-session (needs
+re-auth via claude.ai connector settings) — git push unaffected; PR #9 description refresh
+deferred until re-auth.
+
+---
+
+## 2026-07-06n — Shift 5 (session vy8k5i): the SYNTHESIS outcome ships — 16th outcome, first non-land one
+
+outcomes/rent-targeting-taxes-reduce-debt-bias — the wiki's 16th outcome and its first
+outside the land core, written to the reframed scope the find report demanded (debt bias +
+marginal-investment neutrality, NOT "avoids investment distortion"). Evidence walked
+strongest-first with body parity: Zwick-Mahon (expensing→investment, AER) >
+Branzoli-Caiumi (incremental-ACE leverage) > Power-Frerick (base composition) >
+Domar-Musgrave (conditional risk-neutrality — support AND boundary); challenged_by
+Hebous-Ruf (double-dip, null MNE real investment; Konings counter carried). Both mandatory
+caveats wired in their own section: FPS rent-sharing incidence + the Schumpeterian gate.
+Rent-gradient closing: the design motion generalizes; the land case stays cleaner on every
+margin; no published Georgist framing exists — analogy labeled as analysis. Bidirectional
+supports_outcomes added on 4 research pages; inbound links from ACE, cash-flow-tax, and the
+objection. Hermes check: no PRs, no new inbox.
+
+Campsite: 5 more Sources annotated (alaska-permanent-fund, 1909-peoples-budget,
+single-tax-colonies, lvt-improves-housing-affordability, resource-rent-dividends-work).
+350 pages; warnings 470 (baseline 478); lint green; preview links verified.
+
+---
+
+## 2026-07-06o — Shift 6 (session vy8k5i): inbox triage COMPLETE (10/10 consumed); egress still gated
+
+Floyd set the environment to allow-all egress; this RUNNING container's upstream gateway
+still answers 403 (policy is applied at container creation) — poller armed; if it never
+opens, the successor session inherits open egress and should run a VERIFICATION SWEEP over
+this session's [VERIFY] flags first thing. Exa remains blocked from here for the same
+reason.
+
+Main work — digest-before-you-scan cleared: the last 5 discovery reports triaged
+(economic-theory-in-retrospect deep-read; boom-bust/ricardos-law/anderson/patel candidate
+sweeps). 3 stubs accepted per the accept bar: von Thünen (people), Land Tenure Reform
+Association (organizations — already name-checked on 4 pages), Town and Country Planning
+Act 1947 (events). 2 wanted-books rows (Riley Taken for a Ride, Christophers Rentier
+Capitalism); rejections reasoned in BACKLOG. All 10 inbox reports now consumed/ — the WIP
+gate for new scans (congestion-pricing FIND next) is open.
+
+353 pages; warnings 473 (3 new stubs' honest flags absorbed; baseline 478); lint green;
+preview links verified.
