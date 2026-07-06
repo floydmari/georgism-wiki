@@ -20,6 +20,8 @@ Ecological Georgism reframes climate and environmental policy as a rent problem,
 
 ## See Also
 
+- [Geoism](/wiki/geoism/) — the umbrella scope
+
 - [Barnes — Who Owns the Sky? (sky trust)](/wiki/barnes-sky-trust/)
 
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/)

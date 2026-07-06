@@ -36,6 +36,44 @@ outcomes) was merged to main at Floyd's direction. A NEW session must:
    accept bar + stub quota, digest-before-you-scan, delta rule, evidence ordering, PD full
    texts, "slugs lie — grep the words," Hermes work order auto-generation.
 
+
+## WS-GEOISM — scope expansion to all economic rents (Floyd directive, 2026-07-06 late)
+The wiki's scope is now GEOISM: capture of ALL economic rents for public good; Georgism/land
+is the core (EDITORIAL §0 rewritten; rent-gradient honesty rule added; concepts/geoism is the
+umbrella page). Land corpus stays the backbone; these tasks grow the other domains to the
+same evidentiary standard. THE RULE THAT GOVERNS ALL OF IT: the rent gradient — never let the
+land case's certainty bleed into contested domains; quasi-rent/incentive caveats mandatory.
+
+Discovery sweeps (the Mazzucato motion, one per domain — [FIND] tier:T2, forage+snippet,
+each ends in a triage report per the accept bar):
+- [ ] [FIND] tier:T2 status:todo — resource-rent capture evidence: severance-tax incidence,
+      Norway petroleum tax + GPFG design literature, mineral-royalty regimes (IMF FARI),
+      resource-curse counter-designs. Target: outcomes/resource-rent-capture-works depth.
+- [ ] [FIND] tier:T2 status:todo — spectrum & auction rents: Coase 1959, Milgrom auction
+      design, FCC auction revenue record, Hazlett property-rights critique (queued row
+      exists). Target: concepts/spectrum-auctions + evidence.
+- [ ] [FIND] tier:T2 status:todo — congestion & road-space rents: Vickrey's congestion
+      pricing papers, Singapore ERP, London 2003, Stockholm trial (Eliasson evaluations).
+      Target: concepts/congestion-pricing + outcomes/congestion-pricing-works candidate —
+      the strongest non-land quasi-experimental evidence in the whole Geoist file.
+- [ ] [FIND] tier:T2 status:todo — platform/data/IP rents cutting edge (post-Mazzucato):
+      Weyl data-as-labor (queued), EU DMA rent framing, Boldrin-Levine against IP monopoly,
+      prize-vs-patent literature. Target: concepts/data-rents + the IP-rents concept.
+- [ ] [FIND] tier:T2 status:todo — financial rents & seigniorage: Hudson (carried),
+      Bezemer credit flows, Philippon finance-cost puzzle (have), BIS/Borio credit-cycle
+      steelman (double-duty with the queued cycles objection), seigniorage-as-rent
+      literature. Target: honest FIRE-sector evidence grading.
+- [ ] [DRAFT] tier:T1 status:todo — objections/taxing-quasi-rents-kills-innovation — THE
+      steelman the expansion requires (Schumpeter lens; innovation profits as incentive;
+      where Geoist instruments do and don't threaten them). Blocks: any outcome claiming
+      broad non-land rent capture is efficient must link this page.
+Instrument concept queue (each needs >=2 demanding pages — most already have them via
+concepts/geoism's table): severance-tax, spectrum-auctions, congestion-pricing, quasi-rent,
+patent-monopoly/ip-rents, data-dividend.
+Existing pages to re-grade under the gradient rule at next touch: corporate-profits outcome
+(already carries Crouzet-Eberly — good), fire-sector, superstar-firms, the-rentier-economy
+narrative, mazzucato-mapping-rents (framework-not-finding caveat already added).
+
 ## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
 HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,

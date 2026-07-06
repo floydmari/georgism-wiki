@@ -2,10 +2,15 @@
 
 ## The mission
 
-We are building **the definitive, honest reference on Georgism and land value taxation** —
-the source of truth behind progress.org/wiki. "Definitive" means a reader can start from any
-question — *does LVT actually get passed on to renters? can land even be assessed? who was
-Henry George and who fought him?* — and find the strongest available evidence, the strongest
+We are building **the definitive, honest reference on Geoism — the capture of economic
+rents of every kind for public good** (Floyd's scope expansion, 2026-07-06). Georgism and
+the land value tax are the core and the historical root; the full scope runs from land and
+resources through carbon, spectrum, road space, monopoly privilege, finance, platforms, and
+IP — each rent domain with its own capture instrument and its own evidence base, honestly
+graded (see EDITORIAL §0's rent gradient: land is the clean case; the frontier is contested).
+"Definitive" means a reader can start from any
+question — *does LVT actually get passed on to renters? are platform profits rents? what did
+Norway do right?* — and find the strongest available evidence, the strongest
 counterargument, and the primary sources, all cited. "Honest" means we never claim more than
 the sources support: advocacy is labeled advocacy, contested findings are shown contested,
 and anything we couldn't verify says so on the page.

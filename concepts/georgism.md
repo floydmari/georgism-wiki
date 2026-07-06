@@ -34,6 +34,8 @@ The tradition continues through the [Henry George Foundation](https://www.henryg
 
 ## See Also
 
+- [Geoism](/wiki/geoism/) — the generalized system: all rents, not only land (the wiki's full scope)
+
 - [Henry George](/wiki/henry-george/) — the movement's founder
 - [Land Value Tax](/wiki/land-value-tax/) — the central policy proposal
 - [Single Tax](/wiki/single-tax/) — the 19th-century political movement
