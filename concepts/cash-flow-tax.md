@@ -73,11 +73,12 @@ of the [homevoter problem](/wiki/homevoters-will-block-lvt/).
   rent tax (Bond & Devereux 1995 showed neutrality under uncertainty requires
   it), and the same condition gates the
   [Schumpeterian risk objection](/wiki/taxing-quasi-rents-kills-innovation/)
-  (Domar & Musgrave 1944).[10]
+  ([Domar & Musgrave 1944](/wiki/domar-musgrave-risk/)).[10]
 - **Partial moves:** the 2017 US TCJA's 100% bonus depreciation is a partial
   cash-flow element; the strongest quasi-experimental evidence in this whole
-  literature — Zwick & Mahon (2017, *AER*) on earlier bonus-depreciation
-  episodes — finds expensing-type provisions raised eligible investment by
+  literature — [Zwick & Mahon (2017, *AER*)](/wiki/zwick-mahon-expensing/) on
+  earlier bonus-depreciation episodes — finds expensing-type provisions raised
+  eligible investment by
   roughly 10–17%, concentrated among smaller and cash-constrained firms
   [VERIFY: exact figures 10.4%/16.9% against the paper]. The TCJA evaluations
   (Chodorow-Reich, Smith, Zidar & Zwick 2024) likewise find accelerated

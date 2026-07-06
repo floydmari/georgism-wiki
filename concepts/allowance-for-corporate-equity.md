@@ -88,9 +88,10 @@ an honestly mixed one:
 
 US Treasury's own distributional methodology treats the supernormal-return
 share of the corporate base (~63% in Cronin et al. 2013; rising toward ~75% in
-Power & Frerick 2016) as borne by shareholders, with only the normal-return
-share partly shifted to labor — the analytic basis for calling rent-only
-corporate taxes progressive.[11] The limit: Fuest, Peichl & Siegloch (2018)
+[Power & Frerick 2016](/wiki/power-frerick-excess-returns/)) as borne by
+shareholders, with only the normal-return share partly shifted to labor — the
+analytic basis for calling rent-only corporate taxes progressive.[11] The
+limit: [Fuest, Peichl & Siegloch (2018)](/wiki/fuest-peichl-siegloch-incidence/)
 show about half the German corporate tax burden reaches workers **through
 rent-sharing in wage bargaining** — where wages are tied to firm surpluses,
 even a tax that falls only on surpluses can be partly shifted. No direct

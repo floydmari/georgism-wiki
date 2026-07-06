@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-06 by `scripts/verification_queue.py` (642 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (651 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -70,7 +70,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (132)
+## needs-unblocked-web (proxy allowlist or manual fetch) (136)
 
 - `concepts/allowance-for-corporate-equity.md` — **VERIFY** the ACE proposal's exact chapter (17 vs 18) and wording against the IFS PDF — proxy-blocked this session.
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
@@ -115,6 +115,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `events/repeal-of-the-corn-laws.md` — **VERIFY** add a specific scholarly citation — e.g., Schonhardt-Bailey, *From the Corn Laws to Free Trade* (MIT, 2006) — on direct read.
 - `events/saratoga-single-tax-debate.md` — **VERIFY** the hosting body (American Social Science Association) and published proceedings citation on direct read.
 - `narratives/citizens-dividend-narrative.md` — **VERIFY** add a stable free-text URL — session web access exhausted before the link could be confirmed.
+- `research/akcigit-taxation-innovation.md` — **VERIFY** pending direct read). [OUP
 - `research/arnold-tax-growth-ej.md` — **CITATION NEEDED** this session's direct web access to onlinelibrary.wiley.com, academic.oup.com, and kar.kent.ac.uk (the University of Kent's open repository listing for this art
 - `research/arnott-hgt-practical-guide.md` — **VERIFY** current faculty-page URL, as this session's fetch relied on the paper's own author footnote (p. 1057) rather than a live BC directory page.
 - `research/autor-superstar-firms.md` — **CITATION NEEDED** verbatim page/paragraph cite — quoted phrase reconstructed from secondary search summaries of the AER abstract, not a direct primary-text fetch this session
@@ -189,6 +190,8 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/piketty-capital-21st-century.md` — **CITATION NEEDED** This page was drafted primarily from search-result snippets, secondary summaries, and other wiki pages' existing citations; this session's web access could not 
 - `research/plummer-lvt-distribution.md` — **VERIFY** the exact scope differences between the 2009 working paper and the 2010 journal article — this wiki could not directly fetch either full text in this research p
 - `research/plummer-lvt-distribution.md` — **CITATION NEEDED** a directly fetched copy of the full National Tax Journal article text (via JSTOR, University of Chicago Press, or an author's institutional repository copy) to 
+- `research/power-frerick-excess-returns.md` — **VERIFY** exact figures against OTA WP 111 — snippet-corroborated across multiple independent sources this session, but the paper itself was proxy-blocked.
+- `research/power-frerick-excess-returns.md` — **VERIFY** flag above). [Treasury PDF
 - `research/rochet-tirole-two-sided.md` — **VERIFY** exact wording of the "both sides on board" formulation — no source text was fetched in this session
 - `research/rochet-tirole-two-sided.md` — **VERIFY** all substantive claims about the paper's content against the primary text
 - `research/rothbard-single-tax.md` — **VERIFY** exact wording against primary text — corroborated via secondary quotation only in this session
@@ -204,6 +207,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zodrow-three-views.md` — **VERIFY** this session's egress policy blocked direct retrieval of the full PDF text from the Rice repository and the National Tax Journal's own archive; the account belo
 - `research/zodrow-three-views.md` — **VERIFY** the precise wording of Zodrow's stated preference could not be quoted directly from the primary text in this session; the characterization above is drawn from h
 - `research/zodrow-three-views.md` — **CITATION NEEDED** a directly fetched, page-level-cited copy of the primary 2001 National Tax Journal text — this session's egress policy returned 403 responses for ideas.repec.or
+- `research/zwick-mahon-expensing.md` — **VERIFY** exact figures against the paper — snippet-corroborated this session; direct fetch proxy-blocked.
 
 ## needs-new-source (research/forage task) (31)
 
@@ -239,7 +243,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full citation for the Cambridge *Historical Journal* article summarized here — this session located the article by title and journal via search 
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 
-## unclassified (T1 triage) (419)
+## unclassified (T1 triage) (424)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/allowance-for-corporate-equity.md` — **VERIFY** magnitudes against the *Canadian Journal of Economics* paper
@@ -428,6 +432,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** above). 2. Ufuk Akcigit, John Grigsby, Tom Nicholas & Stefanie Stantcheva (2022), "Taxation and Innovation in the Twentieth Century," *Quarterly Journal of Econ
 - `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** authorship — single-snippet attribution.
 - `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** flags). 10. Julie-Anne Cronin et al. (2013), *National Tax Journal* 66(1); Laura Power & Austin Frerick (2016), OTA WP 111; Edward Fox (2020), *Journal of Empir
+- `events/detroit-lvt-proposal.md` — **CITATION NEEDED** specific plan document URL and news citations on next touch
 - `events/irish-land-war.md` — **CITATION NEEDED** specific data on eviction numbers and harvest failures from 1877–79, from a primary or authoritative secondary source
 - `events/irish-land-war.md` — **VERIFY** the precise scope of the 1881 Act's land-purchase provisions and whether they were a minor or major element of the legislation
 - `events/irish-land-war.md` — **VERIFY** the precise nature and timing of any explicit disagreement between George and Davitt over remedy — the corpus sources note divergence but do not document a spec
@@ -444,6 +449,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `events/ralston-nolan-bill.md` — **VERIFY** sponsors' names and the bill's committee history on direct congressional-record read.
 - `events/taiwan-land-reform-1950s.md` — **VERIFY** specific mechanisms — rent reduction ordinances, sale of public land, compulsory purchase of excess landlord holdings — are widely reported in the literature bu
 - `events/taiwan-land-reform-1950s.md` — **VERIFY** the degree to which the 1954 statute's provisions were immediately implemented versus gradually phased in, and whether the LVIT was enacted simultaneously or in
+- `outcomes/corporate-profits-increasingly-rents.md` — **VERIFY** -flagged on the [research page
 - `outcomes/landlords-cannot-pass-lvt-to-tenants.md` — **CITATION NEEDED** additional quasi-experimental land-tax-specific incidence studies.
 - `outcomes/lvt-reduces-sprawl.md` — **CITATION NEEDED** direct verification of Brueckner & Kim's own text
 - `narratives/land-speculation-causes-cycles.md` — **VERIFY** outcome of the 2026 forecast, once the year has played out.
@@ -456,6 +462,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/akcigit-ates-business-dynamism.md` — **CITATION NEEDED** exact page range and DOI for the published AEJ:Macro version — not verified this session
 - `research/akcigit-ates-business-dynamism.md` — **CITATION NEEDED** direct URL and verification of content
 - `research/akcigit-ates-business-dynamism.md` — **CITATION NEEDED** the published AEJ:Macro 13(1) version's exact page range, DOI, and any differences from the NBER working-paper version — this session worked from the NBER WP 25
+- `research/akcigit-taxation-innovation.md` — **VERIFY** headline elasticities against the paper — citation and qualitative findings snippet-corroborated across three independent sources this session; the paper itself
 - `research/albouy-what-are-cities-worth.md` — **VERIFY** exact revision history between the 2009 NBER draft and the 2016 published version; the two versions differ somewhat in title and framing
 - `research/albouy-what-are-cities-worth.md` — **VERIFY** exact sample year and whether later vintages were also used
 - `research/albouy-what-are-cities-worth.md` — **CITATION NEEDED** exact percentage-point split from the Table 3 variance decomposition, e.g. the reported fractions-of-variance figures for land rents (variance 1.056; trade-prod
@@ -518,6 +525,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/de-loecker-eeckhout-unger-markups.md` — **VERIFY** exact endpoint values are corroborated by several independent secondary sources (search-engine summaries of the abstract and of Basu 2019's discussion, which ci
 - `research/de-loecker-eeckhout-unger-markups.md` — **CITATION NEEDED** full citation and venue for Benkard, Miller & Yurukoglu (2025) — found via a working paper hosted at web.stanford.edu/~ayurukog and referenced in the authors' r
 - `research/de-loecker-eeckhout-unger-markups.md` — **CITATION NEEDED** confirm venue/publication status of the Benkard-Miller-Yurukoglu comment and its date
+- `research/domar-musgrave-risk.md` — **VERIFY** flags on the [cash-flow tax
 - `research/duranton-puga-urban-growth.md` — **VERIFY** BACKLOG.md's internal note dates the working paper to 2020; NBER's own listing and IDEAS/RePEc both give the issue date as December 2019 — this page follows the
 - `research/duranton-puga-urban-growth.md` — **VERIFY** the exact issue date of NBER WP 26591 — this page follows NBER's and IDEAS/RePEc's own listing of December 2019; BACKLOG.md's internal task note says "2020," wh
 - `research/eeckhout-profit-paradox.md` — **VERIFY** ` above pending first-hand confirmation). 5. ProMarket, "The Profit Paradox: A New Approach to Competition and Market Power," 19 August 2021. [ProMarket
@@ -660,4 +668,5 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zingales-political-theory-firm.md` — **VERIFY** confirm JEP 31(3) publication details
 - `research/zingales-political-theory-firm.md` — **VERIFY** JEP publication details — the task metadata states this was published in JEP 31(3), but the NBER working paper text does not include the JEP citation; a future 
 - `research/zingales-political-theory-firm.md` — **VERIFY** Zingales states "I identify six of them" regarding non-market factors but the body text appears to list five clearly (source of political power, media market, p
+- `research/zwick-mahon-expensing.md` — **VERIFY** flag above). [AEA
 

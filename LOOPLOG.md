@@ -634,3 +634,29 @@ Wired from geoism, quasi-rent, ACE, cash-flow-tax. Objections pillar 11→12.
 
 Campsite: 5 places Sources annotated (harrisburg, denmark, singapore, hong-kong, estonia)
 + 1 banned-certainty fix. Warnings 472→469; 343 pages; lint green; preview links verified.
+
+---
+
+## 2026-07-06l — Shift 3 (session vy8k5i): Ghost IDs merged (PR #10) + WS-TECH-RENTS evidence base built out
+
+INTERLUDE, Floyd present: openclaw/add-books-sync T1-reviewed and merged as PR #10 at
+Floyd's direction (wiki-books 6a4affad… + wiki-texts 6a4b01d7… into TAG_IDS; texts/.keep) —
+the Ghost-IDs blocker is RESOLVED; books/ and texts/ can sync. Theme-repo PR
+(progress-org-theme → openclaw/add-wiki-books-category) is outside this session's repo
+scope — deploy decision left with Floyd. Campaign branch merged up from main. Blocked-on-
+Floyd list refreshed (Exa key never persisted to env; citdiv.org proxy-blocked — Drive
+drop suggested; allowlist wishlist expanded; 6 bio questions delivered).
+
+SHIFT 3 MAIN WORK — five research pages from the find report, the reframed synthesis
+outcome's future supported_by base: power-frerick-excess-returns (40%→25% normal-return
+share; NOW WIRED into corporate-profits-increasingly-rents supported_by with body parity),
+fuest-peichl-siegloch-incidence (rent-sharing channel; the landlord-pass-through contrast
+drawn explicitly), domar-musgrave-risk (the loss-offset hinge), akcigit-taxation-innovation
+(the objection's empirical core, inference gap carried inside), zwick-mahon-expensing
+(expensing→investment, the instrument-family distinction vs ACE's mixed record). All Light
+scan, snippet-corroborated, [VERIFY]-flagged. Registry rows re-pointed to the research
+pages; dated export.
+
+Campsite: 5 more Sources annotated (pennsylvania, new-south-wales, pittsburgh,
+detroit-lvt-proposal, 1886-nyc). 348 pages; warnings 469→470 net of 5 new pages' honest
+flags (baseline 478 still beaten); lint green; preview links verified.

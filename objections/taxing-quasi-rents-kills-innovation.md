@@ -40,15 +40,17 @@ value capture).
 The objection is not merely rhetorical; it has an evidence base and an
 analytical core.
 
-- **Taxing innovators demonstrably reduces innovation.** Akcigit, Grigsby,
-  Nicholas & Stantcheva (2022), using a panel of every US inventor since 1920
+- **Taxing innovators demonstrably reduces innovation.**
+  [Akcigit, Grigsby, Nicholas & Stantcheva (2022)](/wiki/akcigit-taxation-innovation/),
+  using a panel of every US inventor since 1920
   matched to historical state tax rates, find higher personal and corporate
   income taxes "negatively affect the quantity and quality of inventive
   activity and shift its location."[2] The caveat — and it is part of the
   steelman, not a rebuttal — is that this studies *ordinary* corporate and
   personal income taxes, which tax the normal return too; no equivalent study
   of a rent-only base exists.
-- **The risk asymmetry (Domar–Musgrave).** Domar & Musgrave (1944) showed a
+- **The risk asymmetry (Domar–Musgrave).**
+  [Domar & Musgrave (1944)](/wiki/domar-musgrave-risk/) showed a
   proportional tax leaves risk-taking undamaged — can even encourage it — only
   with **full loss offset**: the state must share losses as fully as it shares
   gains, making itself a silent partner.[3] Real tax systems never offer full
@@ -123,7 +125,8 @@ The Geoist responses concede the core insight and dispute its scope.
   experiment has not been run.
 - The objection is often deployed against *any* corporate taxation; deployed
   that broadly, it overreaches. The US Treasury's own methodology treats ~63–75% of the corporate
-  base as supernormal (Cronin et al. 2013; Power & Frerick 2016), and the
+  base as supernormal (Cronin et al. 2013;
+  [Power & Frerick 2016](/wiki/power-frerick-excess-returns/)), and the
   existing corporate tax has approximated a cash-flow tax for decades (Fox
   2020) — so the status quo already taxes quasi-rents heavily and haphazardly.
   The relevant comparison for a Geoist instrument is not "tax vs. no tax" but
