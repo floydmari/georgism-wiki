@@ -76,6 +76,7 @@ TAG_IDS = {
     "wiki-most-cited":    "6a232c42819cc700017226bc",
     "wiki-theories":      "6a232c41819cc700017226ba",
     "stub":               "6a232c42819cc700017226be",
+    "wiki-books":         "6a4affad6c64fd00014cae89",
 }
 
 CATEGORY_TAG = {            # folder -> category tag slug (ID looked up from TAG_IDS)
