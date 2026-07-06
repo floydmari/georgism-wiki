@@ -4,6 +4,39 @@
 Georgism and LVT. Tasks are the FIND / READ & MINE / SYNTHESIZE / VERIFY / EXPAND motions of
 LOOP.md, tier-tagged by role: T1 editor · T2 staff writers · T3 copy desk.)*
 
+## ⟳ RESUME HERE (checkpoint 2026-07-06 end-of-day — MERGED TO MAIN; directives for the next session)
+
+**Start here.** This branch's work (44 commits: Hermes PR #6 review+merge+reconciliation, the
+first-principles loop redesign, 3 editorial policies, 14 triaged stubs, 2 new/deepened
+objections, 6 thin-article rebuilds, ~30 annotated Sources, evidence-ordering across all 15
+outcomes) was merged to main at Floyd's direction. A NEW session must:
+1. `git fetch origin main && git checkout -B claude/georgism-wiki-campaign-<new> origin/main`
+   — never stack on the merged branch.
+2. Read LOOP.md (the shift procedure + mission), EDITORIAL.md §0–§3b, then this block.
+3. **Priority order for new work:**
+   a. Hermes inbox / any open hermes/* PR — review first (delivered evidence outranks drafting;
+      check provenance: no shadow libraries; discovery reports required per source).
+   b. Objections build-out 9→11→15: next up "cycles are credit, not land" (steelman sources
+      Werner/Kindleberger/Vague now on the registry reading list — needs acquisition or
+      snippet-corroborated Light draft) and the public-choice "government will waste the rent"
+      objection (Buchanan lens).
+   c. texts/ seeding (EDITORIAL §3b): Agrarian Justice, Saratoga 1890 proceedings, Johnson
+      1914, Post 1923 — acquisition routed via sources/hermes-workorder.md.
+   d. Duplication sweep [AUDIT] (delta rule retroactive): Danish experiment, KSS 80%,
+      Pittsburgh record, Friedman quote.
+   e. Mechanical debt: ~100 unannotated Sources (batches of ~10-25), ~55 thin articles
+      (3-5/shift by inbound links). Debt ratchet baseline at merge: 478 warnings / 336 pages.
+   f. Exa people-enrichment sweep — still blocked on api.exa.ai allowlist; delegate to Hermes
+      otherwise.
+4. **Blocked on Floyd (surface these, don't chase):** EXA_API_KEY env var in cloud settings +
+   api.exa.ai allowlist; libgen provenance attestation (Blaug + Ryan-Collins scans);
+   floyd-marinescu bio bullets; citdiv eBook; wiki-books + wiki-texts Ghost tag IDs for
+   sync_to_ghost.py; proxy allowlist wishlist (danwahl.net, gameofrent.com, progress.org).
+5. Standing rules live in code/docs, not memory: lint gates, debt ratchet, campsite rule,
+   accept bar + stub quota, digest-before-you-scan, delta rule, evidence ordering, PD full
+   texts, "slugs lie — grep the words," Hermes work order auto-generation.
+
+## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
 HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,
 Anderson Secret Life of Real Estate, Patel Secret Wealth Advantage) → 4 new research pages +

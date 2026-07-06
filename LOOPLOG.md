@@ -540,3 +540,17 @@ texts/ category wired into lint/preview/ghost (public_domain: true exempts the q
 sources/publicdomain/ for whole books, Hermes PD delivery channel opened with a priority
 list (George's works, Saratoga 1890 proceedings, Agrarian Justice, Johnson 1914, Post 1923).
 Diagram re-synced same commit.
+
+---
+
+## 2026-07-06g — END OF CAMPAIGN DAY: branch merged to main (Floyd's direction)
+
+Day's totals on this branch (44 commits): Hermes PR #6 T1-reviewed, merged, reconciled
+(3 duplicate slugs caught+merged, libgen provenance flagged+policy'd); loop redesigned
+first-principles in mission language (Fact-Check Desk + work order, debt ratchet, accept bar,
+digest-before-you-scan, delta rule, evidence ordering, PD full texts, 6 new lint gates,
+loop diagram with sync rule); coverage: 307→336 pages, 14 new stubs (all demand-justified),
+2 objections (homevoter new — rated the wiki's strongest; revenue deepened with Krugman/Blaug
+locators), 6 thin pages rebuilt, ~30 Sources annotated, all 15 outcomes reordered
+strongest-first; warnings 493→478 with growth absorbed. Directives for the next session in
+the BACKLOG checkpoint above.
