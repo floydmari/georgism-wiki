@@ -143,10 +143,18 @@ def load_sources():
 
 
 def load_registry():
-    """One logical registry = sources + wiki-inventory. The two files are split
-    for human navigability and the regenerate-from-sources use case (see
-    sources/README.md), but drift/duplicate/link checks span both."""
-    return load_sources() + _read_csv(INVENTORY)
+    """The logical registry for drift/duplicate/link checks = sources only.
+    sources/wiki-inventory.csv is a separate, regenerated page census (built by
+    scripts/build_inventory.py) — a pure function of the repo, not a source list,
+    so it is not consulted for source checks. See sources/README.md."""
+    return load_sources()
+
+
+# synthesis page types the wiki AUTHORS (not external sources). A row like this
+# with no URL in registry.csv is the wiki citing itself — it belongs in the page
+# census, never the sources file. (Guards against the hybrid drift Floyd flagged.)
+SYNTHESIS_CATS = {"Concepts", "Outcomes", "Objections", "People", "Places",
+                  "Events", "Narratives"}
 
 
 def main():
@@ -275,6 +283,27 @@ def main():
             msg = f"registry row '{r.get('Title','?')}' -> /wiki/{m.group(1)}/ missing from git"
             (warn if "missing" in status or "drift" in status else err)(
                 "sources/registry.csv", msg)
+
+    # anti-hybrid guard: registry.csv is sources only. A synthesis-category row
+    # with no external URL is a wiki page masquerading as a source — it belongs in
+    # the page census (wiki-inventory.csv), not here.
+    for r in registry:
+        if (r.get("Category") or "").strip() in SYNTHESIS_CATS and not (r.get("URL") or "").strip():
+            warn("sources/registry.csv",
+                 f"row '{r.get('Title','?')}' looks like a wiki page, not a source "
+                 "(synthesis category, no external URL) — remove it; pages live in "
+                 "the census, not the sources file")
+
+    # page census completeness: every page should appear in wiki-inventory.csv
+    # (regenerate with scripts/build_inventory.py). Cheap drift catch; full
+    # freshness (backlink counts) is verified by `build_inventory.py --check`.
+    census = _read_csv(INVENTORY)
+    if census:
+        census_slugs = {(r.get("slug") or "").strip() for r in census}
+        for slug, p in pages.items():
+            if slug not in census_slugs:
+                warn(p["path"], "missing from sources/wiki-inventory.csv "
+                     "(run scripts/build_inventory.py)")
 
     # texts/ pages are reproduced primary sources — each must have a SOURCE row
     # (registry.csv), with external provenance, not just a wiki-inventory entry

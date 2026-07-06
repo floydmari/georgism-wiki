@@ -1,0 +1,82 @@
+name: wiki-inventory census
+
+# Keeps sources/wiki-inventory.csv (the page census: backlinks, sizes, orphans,
+# stubs) current automatically, outside the drafting loops. The census is a pure
+# function of the repo, so this just regenerates and commits it when page content
+# changes. Also runs the lint gate.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "concepts/**"
+      - "people/**"
+      - "places/**"
+      - "events/**"
+      - "outcomes/**"
+      - "research/**"
+      - "organizations/**"
+      - "objections/**"
+      - "narratives/**"
+      - "books/**"
+      - "texts/**"
+      - "scripts/build_inventory.py"
+  pull_request:
+    paths:
+      - "concepts/**"
+      - "people/**"
+      - "places/**"
+      - "events/**"
+      - "outcomes/**"
+      - "research/**"
+      - "organizations/**"
+      - "objections/**"
+      - "narratives/**"
+      - "books/**"
+      - "texts/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+concurrency:
+  group: wiki-inventory-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  census:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Lint (must pass)
+        run: python3 scripts/lint_wiki.py
+
+      # On PRs: verify the census is current; fail if a contributor forgot to
+      # regenerate it (non-mutating).
+      - name: Verify census is current (PR)
+        if: github.event_name == 'pull_request'
+        run: python3 scripts/build_inventory.py --check
+
+      # On push to main: regenerate and commit if it changed. The commit touches
+      # only the census file (never page content), so the re-triggered run finds
+      # it current and commits nothing — no loop.
+      - name: Regenerate census (main)
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        run: python3 scripts/build_inventory.py
+
+      - name: Commit census if changed
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        run: |
+          if ! git diff --quiet -- sources/wiki-inventory.csv; then
+            git config user.name  "wiki-inventory-bot"
+            git config user.email "actions@github.com"
+            git add sources/wiki-inventory.csv
+            git commit -m "chore: refresh wiki-inventory census [skip ci]"
+            git push
+          else
+            echo "census already current"
+          fi

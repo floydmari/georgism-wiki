@@ -19,9 +19,14 @@ OUT = os.path.join(ROOT, "sources", "registry.csv")
 COLS = ["Title", "Category", "Author(s)", "Status", "Wiki Page", "Scan Depth",
         "In-Wiki Citations", "Year", "Tier", "Format", "URL"]
 
-FORMAT_BY_CAT = {"research": "Paper", "people": "Person", "organizations": "Website/Org",
-                 "places": "Place", "events": "Event", "concepts": "Concept",
-                 "outcomes": "Outcome", "objections": "Objection", "narratives": "Narrative"}
+# Only these page categories represent EXTERNAL WORKS and belong in the sources
+# file. Synthesis pages (concepts, people, events, outcomes, objections, places,
+# narratives) are wiki-authored — they live in the page census (wiki-inventory.csv,
+# built by scripts/build_inventory.py), never in registry.csv.
+SOURCE_CATS = {"research": "Academic/Research", "organizations": "Website/Org",
+               "books": "Modern Book", "texts": "Primary Text"}
+FORMAT_BY_CAT = {"research": "Paper", "organizations": "Website/Org",
+                 "books": "Book", "texts": "Text"}
 
 
 def wiki_url(slug):
@@ -35,7 +40,7 @@ def count_citations(slug, all_text):
 def repo_rows():
     files = {}
     texts = []
-    for cat in FORMAT_BY_CAT:
+    for cat in SOURCE_CATS:
         for path in glob.glob(os.path.join(ROOT, cat, "*.md")):
             slug = os.path.splitext(os.path.basename(path))[0]
             text = open(path, encoding="utf-8").read()
@@ -45,17 +50,12 @@ def repo_rows():
 
     rows = []
     for slug, (cat, meta, path) in sorted(files.items()):
-        # Emit a row per page in the combined shape; main() then partitions via the
-        # shared classifier (split_registry.is_wiki_inventory): research/orgs/texts/
-        # books with an external URL become SOURCES, synthesis pages (concepts,
-        # people, events, …) with no URL become wiki-inventory. One row per page here;
-        # the split decides which file it lands in. (Historically this step wrote
-        # every page into registry.csv as a pseudo-source — the hybrid Floyd flagged
-        # 2026-07-06; the partition fixes it at the generator, not just by hand.)
+        # Source rows only (SOURCE_CATS). The URL comes from the page's own
+        # frontmatter provenance; a source with no free copy keeps an empty URL
+        # (acquisition backlog) but is still a source, never a wiki-inventory row.
         rows.append({
             "Title": meta.get("title", slug),
-            "Category": {"research": "Academic/Research", "organizations": "Website/Org"}
-                         .get(cat, cat.capitalize()),
+            "Category": SOURCE_CATS[cat],
             "Author(s)": "; ".join(aslist(meta.get("authors"))) if meta.get("authors") else "",
             "Status": "Scanned",
             "Wiki Page": wiki_url(slug),
@@ -127,15 +127,14 @@ def main():
         w = csv.DictWriter(fh, fieldnames=COLS)
         w.writeheader()
         w.writerows(rows)
-    print(f"seed_registry: wrote {len(rows)} combined rows to {os.path.relpath(OUT, ROOT)}")
-    # A regenerated registry must not stay hybrid: partition it into the sources
-    # file (external works) and sources/wiki-inventory.csv (the wiki's own pages)
-    # using the shared classifier. See sources/README.md. NOTE: texts/ pages are
-    # emitted here from their frontmatter; their external provenance URL is prose
-    # (`provenance:`), so confirm each Text row carries a provenance URL after a
-    # from-scratch reseed — the lint texts-source-row check will flag any gap.
-    import split_registry
-    split_registry.main()
+    print(f"seed_registry: wrote {len(rows)} source rows to {os.path.relpath(OUT, ROOT)}")
+    # The page census is a separate, regenerated artifact — rebuild it too so a
+    # from-scratch reseed leaves both files current. See sources/README.md.
+    # NOTE: texts/ pages carry provenance as prose (`provenance:`); confirm each
+    # Text row has an external URL after a reseed — lint's texts-source-row check
+    # flags any gap.
+    import build_inventory
+    build_inventory.main()
 
 
 if __name__ == "__main__":
