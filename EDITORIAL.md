@@ -102,6 +102,13 @@ Review each page sentence by sentence. Classify each claim and cite it according
   6. Advocacy source — only to represent that advocate's own position
   7. Wiki page or blog — navigation only, never primary evidence
 - **Every source used must have a row in `sources/registry.csv`** (add one if missing).
+  `registry.csv` is **sources only** — external works, identified by
+  Title+Author+Year+URL, with the `Wiki Page` column a "where used" annotation
+  (never a wiki self-reference). The wiki's own pages and their backlink counts
+  live in `sources/wiki-inventory.csv`. Public-domain `texts/` pages ARE sources
+  and need a `registry.csv` row with their external provenance URL. See
+  `sources/README.md` for the full contract and the regenerate-from-sources
+  rationale.
 
 ### §3b Public-domain full texts (Floyd, 2026-07-06)
 
