@@ -18,7 +18,7 @@ supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, land-
 
 ## The Core Argument: Land Is the Efficient Tax Base
 
-The Review's argument for taxing land follows the standard theoretical result that a tax on a factor fixed in supply cannot change the quantity of that factor, and therefore causes no deadweight loss: since land cannot be created, destroyed, or moved in response to taxation, taxing its value does not distort behaviour the way taxes on labour, savings, or transactions do. This is the same theoretical mechanism documented on this wiki's [deadweight loss](/wiki/deadweight-loss/) and [land value tax](/wiki/land-value-tax/) pages, and it is why the Review treats land taxation as an unusually attractive component of an efficient tax system for an open economy — the framing goal it set for the whole project. By contrast, the Review is sharply critical of the UK's existing **Stamp Duty Land Tax (SDLT)**, a transaction tax on property sales, which it treats as a poorly designed and inefficient tax that discourages beneficial transactions and residential and commercial mobility, and recommends abolishing.
+The Review's argument for taxing land follows the standard theoretical result that a tax on a factor fixed in supply cannot change the quantity of that factor, and therefore causes no deadweight loss: since land cannot be created, destroyed, or moved in response to taxation, taxing its value does not distort behaviour the way taxes on labour, savings, or transactions do. The Review's own words (§16.1.2): "The economic case for a land value tax is simple, and almost undeniable. Why, then, do we not have one already?" — and its conclusions state "There is a strong case for introducing a land value tax," in the foreseeable future by "finding ways to replace the economically damaging business rates system with a land value tax" (verified against the IFS PDF, 2026-07-06). This is the same theoretical mechanism documented on this wiki's [deadweight loss](/wiki/deadweight-loss/) and [land value tax](/wiki/land-value-tax/) pages, and it is why the Review treats land taxation as an unusually attractive component of an efficient tax system for an open economy — the framing goal it set for the whole project. By contrast, the Review is sharply critical of the UK's existing **Stamp Duty Land Tax (SDLT)**, a transaction tax on property sales, which it treats as a poorly designed and inefficient tax that discourages beneficial transactions and residential and commercial mobility, and recommends abolishing.
 
 ## Specific Proposals
 
@@ -37,6 +37,22 @@ The Review is notably cautious about implementation, which is instructive for as
 - **The Housing Services Tax is a transitional, second-best design** for the domestic sector — a reformed, value-proportional property/consumption tax rather than a pure land value tax — reflecting judgment that a full domestic land value tax was not immediately deliverable, even though the panel regarded taxing land value as the theoretically preferred base.
 - **The Review frames these as part of a broader coherent package** (alongside income tax, VAT, savings, and corporate tax reform) rather than as a standalone land-tax proposal, so its land and property recommendations should be read in that wider context rather than as an isolated case for a single-tax system.
 
+## Beyond Land: The Rent-Only Corporate Tax Proposal
+
+The Review's corporate-tax chapters extend the same efficiency logic from land
+to business taxation: it recommends an **[allowance for corporate equity](/wiki/allowance-for-corporate-equity/)**
+for UK corporation tax, so that equity- and debt-financed investment are
+treated equally and only profits **above the normal return** — economic rent —
+are taxed. The design is §17.3.2 (Ch. 17, "Taxing Corporate Income"): the ACE's
+"effect is again to remove the normal return on equity-financed investment
+from the corporate tax base" (p. 421); Ch. 18 completes the recommendation —
+the reform "appears to be quite feasible for an open economy such as the UK"
+(p. 449). (Verified against the IFS PDF, 2026-07-06.)
+For the wiki's [Geoism](/wiki/geoism/) file this
+matters doubly: the same institutionally central document that endorses taxing
+land value also endorses a rent-only corporate base, making it the single best
+bridge between the land core and the corporate-rent frontier.
+
 ## Significance for the Georgist Case
 
 The Review's importance for the Georgist case is less about novelty of theory — the fixed-supply efficiency argument for land taxation is old, tracing to [David Ricardo](/wiki/david-ricardo/) and [Henry George](/wiki/henry-george/) — and more about **institutional authority**. It was produced by one of the UK's most respected independent economic research institutes, chaired by a Nobel laureate, and staffed by a panel of mainstream public-finance economists with no Georgist affiliation. That a document of this stature concluded taxing land value is more efficient than the UK's existing property and transaction taxes, and recommended replacing business rates with a land value tax, is frequently cited (including elsewhere on this wiki, e.g. [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/)) as evidence that the core Georgist claim about land taxation is not a fringe position within economics.
@@ -52,6 +68,7 @@ The Review's importance for the Georgist case is less about novelty of theory �
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/)
+- [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) — the Review's rent-only corporate proposal
 - [Deadweight Loss](/wiki/deadweight-loss/)
 - [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
@@ -65,4 +82,10 @@ The Review's importance for the Georgist case is less about novelty of theory �
 4. Nuffield Foundation, "Mirrlees Review of tax system recommends radical changes." [Nuffield Foundation](https://www.nuffieldfoundation.org/news/mirrlees-review-of-tax-system-recommends-radical-changes) — used for the council tax/Housing Services Tax proposal and the characterisation of council tax as regressive and based on outdated valuations.
 5. NBER, "William Vickery and James A. Mirrlees Shared 1996 Nobel Prize for Contributions to Economic Theory of Incentives." [NBER](https://www.nber.org/news/william-vickery-and-james-mirrlees-shared-1996-nobel-prize-contributions-economic-theory-incentives) — used for Mirrlees's Nobel Prize citation.
 
-[CITATION NEEDED: a directly fetched/verified copy of IFS Chapter 16 ("The Taxation of Land and Property") text — this session's web access to ifs.org.uk returned network errors, so the chapter's specific wording, page numbers, and any direct quotations could not be verified first-hand. The proposals and caveats above are drawn from IFS's own chapter listing and multiple independent secondary summaries (Nuffield Foundation, IFS conclusions summary) that agree on the substance, but a future editor should confirm against the primary chapter text and add page-level citations.]
+*Verification note (2026-07-06): the full *Tax by Design* PDF was fetched from
+IFS and read directly — Chapter 16 is "The Taxation of Land and Property"
+(pp. 368–405), the "almost undeniable" and "strong case" passages above are
+verbatim, and the corporate ACE material sits at §17.3.2 (p. 421) and Ch. 18
+(p. 449). The earlier secondary-source-only caveat on this page is resolved;
+remaining page-level citations for the HST/SDLT specifics can be added at next
+touch from the same PDF.*

@@ -3,6 +3,7 @@ title: "Resource Rents"
 category: concepts
 tags: [concepts, resource-rents, natural-resources, severance-tax, resource-curse]
 stub: false
+supports_outcomes: [resource-rent-capture-works]
 excerpt: "The economic rent from natural resources — oil, minerals, spectrum, fisheries — which Georgist analysis treats like land rent: socially capturable without efficiency loss."
 ---
 

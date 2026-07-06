@@ -36,7 +36,7 @@ The earliest modern British attempt was the **increment value duty** in [David L
 
 [CITATION NEEDED: The following UK betterment levy attempts are widely documented in planning and fiscal history literature but are NOT grounded in the supplied corpus pages. A future editor should add primary or secondary sources.]
 
-- **1947 Development Charge** (Town and Country Planning Act 1947): a 100% charge on the increase in land value caused by the grant of planning permission. [CITATION NEEDED: primary statute reference and scholarly assessment.]
+- **1947 Development Charge** ([Town and Country Planning Act 1947](/wiki/town-and-country-planning-act-1947/)): a 100% charge on the increase in land value caused by the grant of planning permission. [CITATION NEEDED: primary statute reference and scholarly assessment.]
 - **1967 Betterment Levy** (Land Commission Act 1965): a levy on development value, collected by a Land Commission. [CITATION NEEDED: primary statute reference and scholarly assessment.]
 - **1976 Development Land Tax**: a tax on the realized gain from land with development value. [CITATION NEEDED: primary statute reference and scholarly assessment.]
 

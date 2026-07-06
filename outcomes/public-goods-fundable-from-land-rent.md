@@ -44,4 +44,7 @@ in the theorem's favor as a benchmark while underlining how hard it is to test.
 
 ## Sources
 
-1. Arnott & Stiglitz (1979) — [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/)
+1. Arnott & Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and
+   Optimal City Size," *QJE* — used for the Henry George Theorem result that, at optimal
+   city size, aggregate land rent equals spending on the public goods that created it.
+   [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/)

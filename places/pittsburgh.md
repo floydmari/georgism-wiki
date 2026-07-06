@@ -24,5 +24,5 @@ Pittsburgh **abandoned** the split-rate system in **2001**, largely due to probl
 
 ## Sources
 
-1. Oates & Schwab (1997), "The Impact of Urban Land Taxation: The Pittsburgh Experience" — [wiki summary](/wiki/oates-schwab-pittsburgh/)
-2. Zhou Yang (2021), "Split-Rate Taxation Impacts on Tax Base," Lincoln Institute. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/yang_wp21zy1.pdf)
+1. Oates & Schwab (1997), "The Impact of Urban Land Taxation: The Pittsburgh Experience" — used for the building-boom evidence under the split-rate system. [wiki summary](/wiki/oates-schwab-pittsburgh/)
+2. Zhou Yang (2021), "Split-Rate Taxation Impacts on Tax Base," Lincoln Institute — used for the tax-base effects incl. the post-repeal record. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/yang_wp21zy1.pdf)

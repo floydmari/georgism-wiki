@@ -24,4 +24,4 @@ Hong Kong shows the revenue power of capturing land value. It also illustrates a
 
 ## Sources
 
-1. Yu-Hung Hong (1996), "Can Leasing Public Land Be an Alternative Source of Local Public Finance?", Lincoln Institute. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf)
+1. Yu-Hung Hong (1996), "Can Leasing Public Land Be an Alternative Source of Local Public Finance?", Lincoln Institute — used for Hong Kong's leasehold system and the share of public revenue from land. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf)

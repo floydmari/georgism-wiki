@@ -32,5 +32,5 @@ In more recent decades, the share of Danish local government revenue coming from
 
 ## Sources
 
-1. IMF Fiscal Affairs (2013), "Taxing Immovable Property: Revenue Potential and Implementation Challenges" — global property/land tax assessment incl. Nordic systems. [PDF](https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf)
-2. Background on the Danish *grundskyld* (ground-duty) within the Single Tax tradition.
+1. IMF Fiscal Affairs (2013), "Taxing Immovable Property: Revenue Potential and Implementation Challenges" — used for the global property/land tax assessment incl. Nordic systems. [PDF](https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf)
+2. Background on the Danish *grundskyld* (ground-duty) within the Single Tax tradition — used for the system's history and Georgist lineage. [CITATION NEEDED: a specific historical source on grundskyld's origins]

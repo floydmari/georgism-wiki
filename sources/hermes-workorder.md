@@ -1,6 +1,6 @@
 # Hermes Work Order — Fact-Check Desk field assignment
 
-Generated 2026-07-05 by `scripts/verification_queue.py`. This is the
+Generated 2026-07-06 by `scripts/verification_queue.py`. This is the
 routed slice of the verification queue that ONLY Hermes's environment can work
 (unblocked web + Floyd's book library). Protocol: `sources/inbox/README.md` —
 verbatim quotes with locators, CONFIRMED/CORRECTED/NOT-FOUND verdicts, legal
@@ -8,7 +8,7 @@ provenance only, PR to a hermes/* branch, never self-merged.
 
 Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
-## needs-book-copy (see sources/wanted-books.md) — 43 of 43
+## needs-book-copy (see sources/wanted-books.md) — 45 of 45
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
@@ -28,6 +28,8 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/barnes-sky-trust.md` — **CITATION NEEDED** a directly fetched/verified copy of the book's own text for exact dividend figures, page numbers, and any direct quotations — this session's web access to islan
 - `research/barnes-sky-trust.md` — **VERIFY** the precise legislative history connecting this book/proposal to the Cantwell-Collins CLEAR Act and other cap-and-dividend bills — stated above from general pol
 - `research/churchill-peoples-rights.md` — **VERIFY** the "six chapters, outline form" description of the book's structure is drawn from a bookseller's description (Churchill Book Collector) rather than a directly 
+- `research/churchill-peoples-rights.md` — **VERIFY** primary locator — the story circulates in Georgist compilations and is quoted in Anderson's citdiv eBook as from a 1909 Commons speech; pin against Hansard or T
+- `research/churchill-peoples-rights.md` — **VERIFY** ` against Hansard/primary — see the bullet's flag). [Wiki book page
 - `research/eeckhout-profit-paradox.md` — **VERIFY** exact productivity-growth figure and its precise sourcing within the book — drawn from a secondary summary of the book's argument, not a first-hand page citatio
 - `research/eeckhout-profit-paradox.md` — **VERIFY** the two-phase timing and the claim of a similar pattern in other countries are drawn from secondary summaries of the book, not a first-hand read of the relevant
 - `research/eeckhout-profit-paradox.md` — **VERIFY** this specific figure is drawn from a single secondary summary (ProMarket) and could not be corroborated against the book's primary text this session; treat as i
@@ -54,8 +56,9 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 17 of 127
+## needs-unblocked-web (proxy allowlist or manual fetch) — 15 of 124
 
+- `concepts/allowance-for-corporate-equity.md` — **VERIFY** the specific ~40%-to-MNC- vehicles figure attributed to IMF Country Report 17/70 remains single-sourced; IMF's server blocks direct PDF access (Akamai 403), so 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
 - `concepts/holdout-problem.md` — **VERIFY** specific mechanism details, as the full paper text was not fetched in this session; claims are drawn from the existing wiki research page and stub, which cite t
@@ -68,11 +71,8 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `people/charles-tiebout.md` — **VERIFY** the precise framing of Tiebout's own caveats should be verified against the primary text
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to the primary text — bibliographic details are corroborated across multiple independent corpus pages and are high-confidence, but the exact wordi
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session could not fetch the original paper from JSTOR or the University of Chicago Press. The bibliographi
-- `people/era-seligman.md` — **VERIFY** exact venue/proceedings citation for the Saratoga session on direct read.
 - `people/george-monbiot.md` — **VERIFY** exact proposal wording on direct read.
 - `people/herbert-spencer.md` — **VERIFY** specific chapter references, page numbers, and direct quotations could not be verified in this session — the primary text was not fetched.
-- `people/herbert-spencer.md` — **CITATION NEEDED** Primary text of Spencer's *Social Statics* (1851), especially the chapter(s) on land rights — to verify Spencer's original argument, its exact wording, and the 
-- `people/homer-hoyt.md` — **VERIFY** pending direct confirmation against Hoyt's primary text
 
 
 *60 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*

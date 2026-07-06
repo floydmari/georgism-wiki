@@ -30,4 +30,7 @@ For comparative and historical questions about where and how land value taxation
 
 ## Sources
 
-1. Robert V. Andelson, ed. (2001), *Land-Value Taxation Around the World*, 3rd ed., Blackwell / American Journal of Economics and Sociology. [Publisher](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470755364)
+1. Robert V. Andelson, ed. (2001), *Land-Value Taxation Around the World*, 3rd ed.,
+   Blackwell / American Journal of Economics and Sociology — used as the standard
+   country-by-country survey of where and how LVT has been implemented worldwide.
+   [Publisher](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470755364)

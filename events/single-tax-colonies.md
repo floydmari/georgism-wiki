@@ -18,12 +18,13 @@ Around the turn of the 20th century, Georgist reformers founded **single-tax col
 
 ## Significance
 
-The colonies are living, century-long demonstrations that community land ownership with a [land value](/wiki/land-value-tax/) charge is workable. They are the most tangible legacy of the [single tax](/wiki/single-tax/) movement, surviving long after the movement's national political peak faded.
+The colonies are living, century-long demonstrations that community land ownership with a [land value](/wiki/land-value-tax/) charge is workable. They are the most tangible legacy of the [single tax](/wiki/single-tax/) movement, surviving long after the movement's national political peak faded. Their founding was helped along by the movement's great financier, the soap magnate [Joseph Fels](/wiki/joseph-fels/), who contributed to both Fairhope and Arden and funded parallel land-colony experiments in England.
 
 ## See Also
 
 - [Single Tax](/wiki/single-tax/) · [Henry George](/wiki/henry-george/) · [Land Value Capture](/wiki/land-value-capture/) · [Fairhope Single Tax Corporation](/wiki/fairhope-single-tax-corporation/)
+- [Joseph Fels](/wiki/joseph-fels/) — the financier who helped fund the colonies
 
 ## Sources
 
-1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the colonies' founding history within the movement. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)

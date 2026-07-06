@@ -56,4 +56,4 @@ cut extreme poverty by roughly 27–66%, depending on year and assumptions.
 
 ## Sources
 
-1. Alaska Permanent Fund Dividend program (operating since 1982).
+1. Alaska Permanent Fund Dividend program (operating since 1982) — used as the flagship operating example; the study-level evidence is cited on the research pages walked through above.

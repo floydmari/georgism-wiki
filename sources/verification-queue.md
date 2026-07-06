@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-05 by `scripts/verification_queue.py` (624 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (630 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -22,7 +22,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `books/economic-theory-in-retrospect.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 - `books/rethinking-economics-land-housing.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 
-## needs-book-copy (see sources/wanted-books.md) (43)
+## needs-book-copy (see sources/wanted-books.md) (45)
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
@@ -42,6 +42,8 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/barnes-sky-trust.md` — **CITATION NEEDED** a directly fetched/verified copy of the book's own text for exact dividend figures, page numbers, and any direct quotations — this session's web access to islan
 - `research/barnes-sky-trust.md` — **VERIFY** the precise legislative history connecting this book/proposal to the Cantwell-Collins CLEAR Act and other cap-and-dividend bills — stated above from general pol
 - `research/churchill-peoples-rights.md` — **VERIFY** the "six chapters, outline form" description of the book's structure is drawn from a bookseller's description (Churchill Book Collector) rather than a directly 
+- `research/churchill-peoples-rights.md` — **VERIFY** primary locator — the story circulates in Georgist compilations and is quoted in Anderson's citdiv eBook as from a 1909 Commons speech; pin against Hansard or T
+- `research/churchill-peoples-rights.md` — **VERIFY** ` against Hansard/primary — see the bullet's flag). [Wiki book page
 - `research/eeckhout-profit-paradox.md` — **VERIFY** exact productivity-growth figure and its precise sourcing within the book — drawn from a secondary summary of the book's argument, not a first-hand page citatio
 - `research/eeckhout-profit-paradox.md` — **VERIFY** the two-phase timing and the claim of a similar pattern in other countries are drawn from secondary summaries of the book, not a first-hand read of the relevant
 - `research/eeckhout-profit-paradox.md` — **VERIFY** this specific figure is drawn from a single secondary summary (ProMarket) and could not be corroborated against the book's primary text this session; treat as i
@@ -68,8 +70,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (127)
+## needs-unblocked-web (proxy allowlist or manual fetch) (124)
 
+- `concepts/allowance-for-corporate-equity.md` — **VERIFY** the specific ~40%-to-MNC- vehicles figure attributed to IMF Country Report 17/70 remains single-sourced; IMF's server blocks direct PDF access (Akamai 403), so 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
 - `concepts/holdout-problem.md` — **VERIFY** specific mechanism details, as the full paper text was not fetched in this session; claims are drawn from the existing wiki research page and stub, which cite t
@@ -82,7 +85,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/charles-tiebout.md` — **VERIFY** the precise framing of Tiebout's own caveats should be verified against the primary text
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to the primary text — bibliographic details are corroborated across multiple independent corpus pages and are high-confidence, but the exact wordi
 - `people/charles-tiebout.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session could not fetch the original paper from JSTOR or the University of Chicago Press. The bibliographi
-- `people/era-seligman.md` — **VERIFY** exact venue/proceedings citation for the Saratoga session on direct read.
 - `people/george-monbiot.md` — **VERIFY** exact proposal wording on direct read.
 - `people/herbert-spencer.md` — **VERIFY** specific chapter references, page numbers, and direct quotations could not be verified in this session — the primary text was not fetched.
 - `people/herbert-spencer.md` — **CITATION NEEDED** Primary text of Spencer's *Social Statics* (1851), especially the chapter(s) on land rights — to verify Spencer's original argument, its exact wording, and the 
@@ -101,7 +103,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/peter-mieszkowski.md` — **VERIFY** these URLs are cited from the wiki's research page for Mieszkowski's 1972 paper; they were not independently fetched in this session.
 - `people/thomas-piketty.md` — **VERIFY** exact r − g magnitudes and page-level citations could not be confirmed against the primary text in the supplied corpus.
 - `people/wallace-oates.md` — **CITATION NEEDED** direct access to regression tables for exact sample size, data year, and coefficients — the primary text could not be fetched in the source session; qualitative
-- `people/william-vickrey.md` — **VERIFY** page cites for the "two taxes" formulation on direct read.
 - `places/alaska.md` — **VERIFY** exact figures could not be confirmed from the primary PDF in the source session; they are corroborated across multiple secondary sources citing the paper.
 - `places/chicago.md` — **VERIFY** this exact peak-year list against Hoyt's primary text directly; the wiki's own [Progress and the 18.6-Year Cycle
 - `places/chicago.md` — **VERIFY** ` pending direct confirmation against Hoyt's primary text. 5. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 20
@@ -109,7 +110,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `organizations/common-wealth-canada.md` — **VERIFY** all commonwealth.ca figures above against the primary PDFs directly.
 - `objections/homevoters-will-block-lvt.md` — **VERIFY** chapter cites on direct read
 - `events/repeal-of-the-corn-laws.md` — **VERIFY** add a specific scholarly citation — e.g., Schonhardt-Bailey, *From the Corn Laws to Free Trade* (MIT, 2006) — on direct read.
-- `events/saratoga-single-tax-debate.md` — **VERIFY** the hosting body (American Social Science Association) and published proceedings citation on direct read.
 - `narratives/citizens-dividend-narrative.md` — **VERIFY** add a stable free-text URL — session web access exhausted before the link could be confirmed.
 - `research/arnold-tax-growth-ej.md` — **CITATION NEEDED** this session's direct web access to onlinelibrary.wiley.com, academic.oup.com, and kar.kent.ac.uk (the University of Kent's open repository listing for this art
 - `research/arnott-hgt-practical-guide.md` — **VERIFY** current faculty-page URL, as this session's fetch relied on the paper's own author footnote (p. 1057) rather than a live BC directory page.
@@ -170,7 +170,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/mill-principles-land.md` — **CITATION NEEDED** direct access to the article; this session located it via bibliographic search only and could not fetch the full text.
 - `research/mill-principles-land.md` — **VERIFY** exact passage and wording not confirmed against primary text in this session; econlib.org, Gutenberg, and henrygeorge.org were not directly fetchable.
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full bibliographic details; this session located the article via bibliographic search only and could not fetch it to confirm the quotation or au
-- `research/mirrlees-review.md` — **CITATION NEEDED** a directly fetched/verified copy of IFS Chapter 16 ("The Taxation of Land and Property") text — this session's web access to ifs.org.uk returned network errors,
 - `research/natural-common-wealth-economic-rent-canada.md` — **VERIFY** this GDP-share framing recurs consistently in third-party summaries of the report but could not be checked against the primary text or against which GDP measure
 - `research/natural-common-wealth-economic-rent-canada.md` — **CITATION NEEDED** a first-hand read of the primary PDF, to add page-level citations for the methodology section, confirm named authorship (if any), and verify the GDP-share and s
 - `research/oates-1969-capitalization.md` — **VERIFY** exact municipality count and precise data-year, which this session could not confirm from the primary text — search snippets and secondary citations agree on "N
@@ -198,7 +197,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zodrow-three-views.md` — **VERIFY** the precise wording of Zodrow's stated preference could not be quoted directly from the primary text in this session; the characterization above is drawn from h
 - `research/zodrow-three-views.md` — **CITATION NEEDED** a directly fetched, page-level-cited copy of the primary 2001 National Tax Journal text — this session's egress policy returned 403 responses for ideas.repec.or
 
-## needs-new-source (research/forage task) (31)
+## needs-new-source (research/forage task) (32)
 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** empirical evidence on betterment levy effects on transaction volumes.
 - `concepts/boom-bust-cycle.md` — **VERIFY** the strongest peer-reviewed statistical test, if any, of the cycle's statistical significance against retrospective-fitting concerns.
@@ -231,8 +230,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/cwc-distributional-impacts-lvt.md` — **CITATION NEEDED** regional/provincial distributional breakdown, if the study provides one.
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full citation for the Cambridge *Historical Journal* article summarized here — this session located the article by title and journal via search 
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
+- `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (408)
+## unclassified (T1 triage) (414)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
@@ -345,7 +345,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/homer-hoyt.md` — **VERIFY** full-text confirmation of Light's specific claims about Hoyt's role.
 - `people/homer-hoyt.md` — **VERIFY** replace this general Wikipedia context citation with a dedicated peer-reviewed source on the FHA Underwriting Manual specifically, e.g. Jackson's *Crabgrass Fro
 - `people/jan-eeckhout.md` — **VERIFY** Eeckhout's birth year, nationality, and doctoral training are not documented in the supplied corpus and are omitted pending a reliable external source. His pers
-- `people/joseph-fels.md` — **VERIFY** Fels Fund founding year and British land-colony specifics on a direct biographical source — e.g., Mary Fels' 1916 biography.
 - `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's birth and death dates, pre-mayoral biography, and exact number of terms served — not available in the wiki's current sources
 - `people/l-d-taylor.md` — **VERIFY** precise 1911 land-revenue-share figure — reported consistently at "close to four-fifths"/79% across secondary sources, but this wiki has not directly confirmed 
 - `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's role (if any) in resisting or responding to the early stages of the rollback during his later mayoral terms — the wiki's sources do not address this di
@@ -360,6 +359,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/michael-davitt.md` — **CITATION NEEDED** Davitt's Fenian background, imprisonment, and political evolution — not covered in the supplied corpus sources.
 - `people/michael-davitt.md` — **CITATION NEEDED** Details of post-1881 Irish land purchase legislation and Davitt's role in subsequent land reform.
 - `people/michael-davitt.md` — **VERIFY** The precise nature and timing of the George–Davitt divergence on remedy — corpus sources describe divergent preferences but do not document a specific public di
+- `people/milton-friedman.md` — **VERIFY** the *Times Herald* attribution is repeated across secondary and advocacy sources but was not confirmed this session against a scanned original — treat the venue
 - `people/moritz-schularick.md` — **VERIFY** current affiliation and exact dates could not be confirmed from the supplied corpus pages alone
 - `people/moritz-schularick.md` — **VERIFY** Schularick's current institutional affiliation, birth year, doctoral training, and any additional land-specific contributions beyond these two papers could not 
 - `people/murray-rothbard.md` — **CITATION NEEDED** exact chapter/section number and direct text of the *Man, Economy, and State* treatment — not independently verified in this drafting session
@@ -393,6 +393,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `places/chicago.md` — **VERIFY** the precise role Hoyt assigns to the Fire within his periodization — whether he treats it as a discrete episode or as an accelerant within the broader post-Civi
 - `places/chicago.md` — **VERIFY** whether Hoyt's original text itself asserts a fixed ~18-year period, or only documents irregular but recurring booms and busts
 - `places/chicago.md` — **VERIFY** confirm quotation against primary Internet Archive text
+- `places/denmark.md` — **CITATION NEEDED** a specific historical source on grundskyld's origins
 - `places/new-zealand.md` — **CITATION NEEDED** specific chapter details on NZ from Andelson — the volume covers NZ but the chapter text was not directly accessed in this session
 - `places/new-zealand.md` — **CITATION NEEDED** precise dates of LV rating adoption in NZ and the extent of its historical use — the supplied sources describe LV rating as available and used but do not provid
 - `places/new-zealand.md` — **CITATION NEEDED** direct access to the NZ chapter in Andelson (2001) to confirm specific historical details, dates of adoption, and the scope of LV rating across NZ councils
@@ -412,6 +413,8 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `organizations/common-wealth-canada.md` — **VERIFY** precise founding date/legal registration
 - `organizations/common-wealth-canada.md` — **VERIFY** full roster of staff, board, and advisors — the organisation's team page could not be independently retrieved at time of writing.
 - `organizations/fairhope-single-tax-corporation.md` — **CITATION NEEDED** the specific founders of Fairhope, the circumstances of the site selection in Alabama, and the early organizational structure of the Corporation. The corpus con
+- `events/alaska-permanent-fund.md` — **CITATION NEEDED** direct apfc.org history-page URL on next touch
+- `events/detroit-lvt-proposal.md` — **CITATION NEEDED** specific plan document URL and news citations on next touch
 - `events/irish-land-war.md` — **CITATION NEEDED** specific data on eviction numbers and harvest failures from 1877–79, from a primary or authoritative secondary source
 - `events/irish-land-war.md` — **VERIFY** the precise scope of the 1881 Act's land-purchase provisions and whether they were a minor or major element of the legislation
 - `events/irish-land-war.md` — **VERIFY** the precise nature and timing of any explicit disagreement between George and Davitt over remedy — the corpus sources note divergence but do not document a spec
@@ -428,6 +431,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `events/ralston-nolan-bill.md` — **VERIFY** sponsors' names and the bill's committee history on direct congressional-record read.
 - `events/taiwan-land-reform-1950s.md` — **VERIFY** specific mechanisms — rent reduction ordinances, sale of public land, compulsory purchase of excess landlord holdings — are widely reported in the literature bu
 - `events/taiwan-land-reform-1950s.md` — **VERIFY** the degree to which the 1954 statute's provisions were immediately implemented versus gradually phased in, and whether the LVIT was enacted simultaneously or in
+- `outcomes/corporate-profits-increasingly-rents.md` — **VERIFY** -flagged on the [research page
 - `outcomes/landlords-cannot-pass-lvt-to-tenants.md` — **CITATION NEEDED** additional quasi-experimental land-tax-specific incidence studies.
 - `outcomes/lvt-reduces-sprawl.md` — **CITATION NEEDED** direct verification of Brueckner & Kim's own text
 - `narratives/land-speculation-causes-cycles.md` — **VERIFY** outcome of the 2026 forecast, once the year has played out.
@@ -501,6 +505,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/de-loecker-eeckhout-unger-markups.md` — **VERIFY** exact endpoint values are corroborated by several independent secondary sources (search-engine summaries of the abstract and of Basu 2019's discussion, which ci
 - `research/de-loecker-eeckhout-unger-markups.md` — **CITATION NEEDED** full citation and venue for Benkard, Miller & Yurukoglu (2025) — found via a working paper hosted at web.stanford.edu/~ayurukog and referenced in the authors' r
 - `research/de-loecker-eeckhout-unger-markups.md` — **CITATION NEEDED** confirm venue/publication status of the Benkard-Miller-Yurukoglu comment and its date
+- `research/domar-musgrave-risk.md` — **VERIFY** flags on the [cash-flow tax
 - `research/duranton-puga-urban-growth.md` — **VERIFY** BACKLOG.md's internal note dates the working paper to 2020; NBER's own listing and IDEAS/RePEc both give the issue date as December 2019 — this page follows the
 - `research/duranton-puga-urban-growth.md` — **VERIFY** the exact issue date of NBER WP 26591 — this page follows NBER's and IDEAS/RePEc's own listing of December 2019; BACKLOG.md's internal task note says "2020," wh
 - `research/eeckhout-profit-paradox.md` — **VERIFY** ` above pending first-hand confirmation). 5. ProMarket, "The Profit Paradox: A New Approach to Competition and Market Power," 19 August 2021. [ProMarket
@@ -642,4 +647,5 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zingales-political-theory-firm.md` — **VERIFY** confirm JEP 31(3) publication details
 - `research/zingales-political-theory-firm.md` — **VERIFY** JEP publication details — the task metadata states this was published in JEP 31(3), but the NBER working paper text does not include the JEP citation; a future 
 - `research/zingales-political-theory-firm.md` — **VERIFY** Zingales states "I identify six of them" regarding non-market factors but the body text appears to list five clearly (source of political power, media market, p
+- `books/anderson-your-citizens-dividend.md` — **VERIFY** pin the vintage against the PFD historical table on next Alaska-page touch.
 

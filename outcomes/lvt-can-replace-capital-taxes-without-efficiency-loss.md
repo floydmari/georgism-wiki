@@ -46,5 +46,11 @@ raises the capital-to-land ratio — the mechanism behind the efficiency claim.
 
 ## Sources
 
-1. Bonnet, Chapelle, Trannoy & Wasmer (2021), *European Economic Review* — [wiki summary](/wiki/bonnet-land-is-back/) · [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)
-2. Schwerhoff, Edenhofer & Fleurbaey (2022), "Equity and Efficiency Effects of Land Value Taxation," *IMF Working Paper*. [PDF](https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf)
+1. Bonnet, Chapelle, Trannoy & Wasmer (2021), *European Economic Review* — used for the
+   result that shifting taxes onto land (away from capital) is feasible and non-distortionary
+   given land's large, taxable share of wealth.
+   [wiki summary](/wiki/bonnet-land-is-back/) · [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)
+2. Schwerhoff, Edenhofer & Fleurbaey (2022), "Equity and Efficiency Effects of Land Value
+   Taxation," *IMF Working Paper* — used for the optimal-tax finding that an LVT can
+   substitute for distortionary capital taxes without efficiency loss.
+   [PDF](https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf)

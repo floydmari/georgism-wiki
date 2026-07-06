@@ -9,6 +9,7 @@ tier: core
 stub: false
 supports: [split-rate-increases-construction]
 excerpt: "Landmark empirical study finding Pittsburgh's 1979–80 shift toward heavier land taxation was followed by a building boom that comparison cities did not see."
+supports_outcomes: [lvt-improves-housing-affordability, split-rate-increases-construction]
 ---
 
 ## Summary
@@ -37,5 +38,9 @@ Oates and Schwab are careful not to claim the tax was the sole cause: Pittsburgh
 
 ## Sources
 
-1. Wallace E. Oates & Robert M. Schwab (1997), "The Impact of Urban Land Taxation: The Pittsburgh Experience," *National Tax Journal* 50(1):1–21. [Full text (PDF)](https://cooperative-individualism.org/oates-wallace_the-impact-of-urban-land-taxation-1997-mar.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/oates-schwab-pittsburgh.pdf)
+1. Wallace E. Oates & Robert M. Schwab (1997), "The Impact of Urban Land Taxation: The
+   Pittsburgh Experience," *National Tax Journal* 50(1):1–21 — used for the Pittsburgh
+   split-rate natural experiment: the city's heavier tax on land (vs structures)
+   coincided with a building boom not seen in comparable rust-belt cities.
+   [Full text (PDF)](https://cooperative-individualism.org/oates-wallace_the-impact-of-urban-land-taxation-1997-mar.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/oates-schwab-pittsburgh.pdf)
 2. Related multi-municipality evidence: [Plassmann & Tideman (2000) — wiki summary](/wiki/plassmann-tideman-construction/)

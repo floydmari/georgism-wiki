@@ -24,5 +24,5 @@ Pennsylvania demonstrates that land value taxation is workable within an ordinar
 
 ## Sources
 
-1. Plassmann & Tideman (2000), 15-municipality Pennsylvania study — [wiki summary](/wiki/plassmann-tideman-construction/)
-2. Dye & England (2010), Lincoln Institute — [wiki summary](/wiki/dye-england-assessing-lvt/)
+1. Plassmann & Tideman (2000), 15-municipality Pennsylvania study — used for the split-rate construction evidence across PA municipalities. [wiki summary](/wiki/plassmann-tideman-construction/)
+2. Dye & England (2010), Lincoln Institute — used for the survey of Pennsylvania's split-rate adopters and repeals. [wiki summary](/wiki/dye-england-assessing-lvt/)

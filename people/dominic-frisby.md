@@ -20,4 +20,4 @@ Frisby's accessible explainers — including a widely-viewed video, *"A Simple G
 
 ## Sources
 
-1. Dominic Frisby, *"A Simple Guide to Land Value Tax"* (video explainer). [YouTube](https://www.youtube.com/watch?v=gD_dZvPwAj0)
+1. Dominic Frisby, *"A Simple Guide to Land Value Tax"* (video explainer) — used for Frisby's role as a popular UK LVT explainer and his framing of the case. [YouTube](https://www.youtube.com/watch?v=gD_dZvPwAj0)

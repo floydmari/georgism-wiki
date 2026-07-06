@@ -228,14 +228,19 @@ def main():
             err(f, "prohibited shadow-library provenance named — see sources/inbox/README.md")
 
         # WS8 quality warnings
-        for pat in BANNED:
-            m = re.search(pat, body, re.I)
-            if m: warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
+        # public_domain full texts reproduce the original author's words verbatim
+        # (EDITORIAL §3b); the banned-certainty rule (§4) governs the wiki's own
+        # claim-strength language, not quoted primary sources — so exempt them,
+        # exactly as the quote-cap check above does.
+        if meta.get("public_domain") is not True:
+            for pat in BANNED:
+                m = re.search(pat, body, re.I)
+                if m: warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
         cn = len(re.findall(r"\[CITATION NEEDED", body))
         vf = len(re.findall(r"\[VERIFY", body))
         if cn: warn(f, f"{cn} unresolved [CITATION NEEDED] marker(s)")
         if vf: warn(f, f"{vf} unresolved [VERIFY] marker(s)")
-        if "## Sources" in body and not re.search(r"—\s*used for|—\s*Used for", body):
+        if "## Sources" in body and not re.search(r"—\s*[Uu]sed (?:for|as|in|to)\b", body):
             warn(f, "Sources section not annotated (add '— used for …' notes)")
         if len(p["text"].splitlines()) < 30 and p["meta"].get("stub") is not True:
             warn(f, f"thin article ({len(p['text'].splitlines())} lines) — deepen")

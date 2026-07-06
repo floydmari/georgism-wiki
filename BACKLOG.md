@@ -4,6 +4,106 @@
 Georgism and LVT. Tasks are the FIND / READ & MINE / SYNTHESIZE / VERIFY / EXPAND motions of
 LOOP.md, tier-tagged by role: T1 editor · T2 staff writers · T3 copy desk.)*
 
+## ⟳ RESUME HERE (checkpoint 2026-07-06 session vy8k5i — branch LIVE, PR #9 OPEN; successor directives)
+
+**EGRESS IS NOW OPEN (Floyd set allow-all, 2026-07-06)** and propagated to running sessions
+after ~15 min. NOTE — TWO sessions worked this branch concurrently on 2026-07-06 (not the
+solo-writer situation the handoff assumed): **Fable 5** (session_015AnWuio7rLvzpBXeAaaWUk) did
+"wave 1" (5 flags: Mirrlees, Power-Frerick, Norway, Marshall + the ch.16 land locator) and
+**Opus 4.8** (session vy8k5i-qcm0cb) did the full 12. Their overlapping edits were reconciled
+by rebase into the single DONE note below (Fable's richer Marshall/econlib quotes + ch.18
+feasibility finding kept; Opus's superset of the other 7 flags kept). Floyd paused the loop
+after this to sort out the Fable-5-concurrency question. If a fresh session resumes:
+1. `git fetch origin claude/georgism-wiki-campaign-vy8k5i && git checkout claude/georgism-wiki-campaign-vy8k5i`
+   — CONTINUE this branch and PR #9 (NOT a new branch; PR #9 is unmerged and growing).
+   Confirm egress first: `curl -sS -o /dev/null -w "%{http_code}" https://ifs.org.uk` → 200/30x.
+2. **[VERIFY-SWEEP tier:T2] — DONE 2026-07-06 (reconciled across both sessions).**
+   All 12 flags resolved against primary PDFs/official sources: **Mirrlees ACE** discussed
+   across ch.17 (design §17.3.2, p.421), ch.18 (open-economy feasibility, p.449) and ch.20
+   (headline recommendation) — the "17 vs 18" flag resolves as *both, plus 20*; Power-Frerick 40%→25% ✓ verbatim
+   (OTA WP 111, robust under economic depreciation too); Zwick-Mahon 10.4%/16.9% ✓ verbatim
+   (NBER WP 21876; +"small firms 95% more"); Branzoli-Caiumi 31.1%/5.4pp ✓ verbatim (EC Tax
+   Paper 72); Hebous-Ruf ✓ (3.5pp baseline / ~5pp hard-Belgian); Akcigit ✓ real elasticities
+   added (macro 0.8-1.8 personal / 1.3-2.8 corporate; indiv 0.8 patents); Konings ✓ SPLIT to
+   +7.4% employment / +6.1% investment (DOI .12624, not .12621); Norway 71.8% ✓ verbatim
+   (norskpetroleum.no, 56→71.8% technical); Marshall quasi-rent = Book V chs.VIII-IX ✓
+   (verbatim quote); Schumpeter = Part II ch.VI "Plausible Capitalism" pp.73-74 ✓ verbatim;
+   Friedman 1978 = *Times Herald* Norristown PA Dec.1 1978 (widely-attributed, softened flag
+   kept — not primary-confirmed); TCPA repeal = 1953 ✓ (TCPA Act 1953, legislation.gov.uk).
+   Scan Depth Light→Medium on 6 papers. Adjacent flags NOT in the 12, left/routed honestly:
+   IMF 17/70 Belgium ~40%-to-MNC figure (IMF server Akamai-403s the PDF → Hermes work order);
+   Watson-Muresianu Tax Foundation authorship (objection pg, single-snippet); Marshall 1909
+   land-memorandum position (people/alfred-marshall). PDFs cached in scratchpad, not committed.
+3. **Exa**: EXA_API_KEY may now be in env settings (Floyd adding); api.exa.ai should be
+   reachable — run the people-enrichment sweep at LOW concurrency (1-2 concurrent).
+4. Then the queue: congestion-pricing [FIND] (WS-GEOISM priority c — now with real fetches);
+   DST-as-tried [FIND]; texts/ PD seeding (Gutenberg/IA/HathiTrust now fetchable —
+   Agrarian Justice first); Great Smoky Mountains primary verification; remaining
+   WS-TECH-RENTS research pages (meade-report, schwerhoff survey, Konings).
+5. Standing rules unchanged (campsite ≥5/shift, stub quota, delta rule, lint green,
+   commit+push per shift, ~75-min wake-ups). Inbox is EMPTY (10/10 consumed).
+
+**NEXT SESSION START HERE (checkpoint 2026-07-06, session vy8k5i-qcm0cb, Opus 4.8 sole T1).**
+Fable 5 is OUT for the rest of the week (rate-limited) — no more concurrency; Opus 4.8 owns the
+whole desk as T1. Floyd also enabled an **ask-Hermes** channel (Hermes = GLM 5.2, doing book
+scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushed to PR #9):
+- **DONE** VERIFY-SWEEP (12 flags, reconciled w/ Fable wave-1).
+- **DONE** congestion-pricing [FIND] → concepts/congestion-pricing + outcomes/congestion-pricing-
+  reduces-traffic (Singapore/London/Stockholm from primaries).
+- **DONE** texts/ seeding launch: **texts/agrarian-justice** — Paine's full 1797 pamphlet (7.4k
+  words, Gutenberg 31271/Conway ed.), the FIRST texts/ page. Also fixed lint: public_domain
+  pages exempt from the banned-certainty check (PD texts carry the author's words).
+- **DONE** Exa enrichment: **people/johann-heinrich-von-thunen** built out stub→full (Tellow 1810,
+  Isolierte Staat dating); Magie dates. Sweep report filed.
+- **DONE** shift 5: **people/era-seligman** built out stub→full (Columbia career, AEA founder,
+  Shifting & Incidence 1892+, Seligman–Edgeworth debate; b/d 1861–1939) + resolved BOTH the
+  era-seligman and **events/saratoga-single-tax-debate** [VERIFY] flags — venue confirmed as the
+  American Social Science Association, Sept 5 1890, proceedings ed. F. B. Sanborn; both de-stubbed.
+  Broadened the lint annotation regex to accept "used as/in/to" (cleared ~8 false positives).
+- **DONE** shift 6: **people/joseph-fels** built out stub→full (b/d 1853–1914, Fels-Naptha 1894,
+  ~1890 conversion to George, Fels Fund 1909, colony funding Fairhope/Arden/Mayland-Essex) —
+  resolved the [VERIFY] flag via the authoritative Dudden 1943 biography (Internet Archive);
+  de-stubbed; reciprocal Fels cross-link added to events/single-tax-colonies.
+- **DONE** shift 7: **outcomes/congestion-pricing-reduces-traffic** built out stub→full with the
+  welfare/longitudinal delta the concept page lacked: Eliasson 2009 CBA (measured-data; ~4-yr
+  social payback, NPV 6.3–7.6bn SEK, significant social surplus — verified vs the paper);
+  Börjesson et al. 2012 "5 years on"; Gothenburg 2013 as the honest counter-texture. De-stubbed.
+- **DONE** shift 8: **concepts/spectrum-auctions** — NEW rent domain (parallel to congestion).
+  Coase 1959 (JLE) origin → FCC auctions since 1994 (>$200bn, FCC-reported >$233bn; C-band
+  Auction 107 2021 ~$81.1bn) → Milgrom-Wilson SMRA + 2020 Nobel, global adoption. Rent-gradient:
+  clean non-land case with the "sell-once auction vs recurring lease/fee" tension made explicit
+  (cross-linked to public-land-leasing). Flipped the geoism spectrum "Queued" row → linked;
+  wired inbound from geoism + william-vickrey + public-land-leasing; 3 registry rows.
+  NOTE: Crime of Poverty texts/ still blocked (Wikimedia blocks the proxy IP) — needs a
+  non-Wikimedia clean source (Schalkenbach, henrygeorge.org) or OCR cleanup.
+- **DONE** shift 9: **outcomes/resource-rent-capture-works** — NEW outcome (resource-rent capture
+  domain). Norway flagship (78% cash-flow petroleum tax → GPFG >$2tn; 3% budgetary rule) as the
+  Sachs-Warner resource-curse escape, honest institutional caveat. Campsite bonus: cleared ALL
+  bidirectional-gap warnings (14→0) by adding supports_outcomes to 11 research pages.
+- **DONE** shift 10: **texts/the-crime-of-poverty** — George's 1885 Burlington, Iowa lecture in
+  full (~11k words), the SECOND texts/ page. CLEAN transcription from archive.org scan
+  crimeofpoverty00geor (NOT the garbled Google copy; NOT Wikimedia). Joseph Fels Fund printing.
+- **DONE** shift 11: **outcomes/carbon-pricing-cuts-emissions** — the ATMOSPHERE rent domain,
+  the last big unevidenced geoism row. Flagship BC revenue-neutral carbon tax 2008 (Elgie-McClay:
+  per-capita fuel use −19% vs rest of Canada, emissions −5-15%; Rivers-Schaufele salience 1.7%/¢);
+  cross-country (Best-Burke-Jotzo: −2pp emissions growth) + EU ETS (Bayer-Aklin: −3.8%, >1Gt);
+  honest counter Pretis 2022 (aggregate BC effect weaker than the headline). Geoist framing:
+  atmospheric commons rent + carbon dividend; Pigouvian-first per rent gradient. Wired from
+  geoism (atmosphere row) + supported_by ecological-georgism/pigouvian-taxation (bidirectional);
+  5 registry rows. GEOISM TABLE NOW HAS 5 EVIDENCED RENT-DOMAIN ROWS (land, road, spectrum,
+  resources, atmosphere).
+Lint green (0 err, 414 warn, ratchet steadily down from 473).
+**Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
+George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
+Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or
+careful cleanup before it can be a faithful texts/ page. Post 1923 & Johnson's *My Story* are
+book-length → sources/publicdomain/. (b) congestion follow-ups (build out the outcome page;
+Gothenburg 2013 counter-texture; Smeed Report 1964 stub). (c) more Exa people build-outs
+(joseph-fels, louis-f-post). (d) DST-as-tried [FIND]; Great Smoky Mountains primary; remaining
+WS-TECH-RENTS research pages.
+Egress confirmed OPEN (ifs/gutenberg/treasury/archive.org/oll all 200). Branch + PR #9 growing.
+
+## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-06 end-of-day — MERGED TO MAIN; directives for the next session)
 
 **Start here.** This branch's work (44 commits: Hermes PR #6 review+merge+reconciliation, the
@@ -28,10 +128,19 @@ outcomes) was merged to main at Floyd's direction. A NEW session must:
       (3-5/shift by inbound links). Debt ratchet baseline at merge: 478 warnings / 336 pages.
    f. Exa people-enrichment sweep — still blocked on api.exa.ai allowlist; delegate to Hermes
       otherwise.
-4. **Blocked on Floyd (surface these, don't chase):** EXA_API_KEY env var in cloud settings +
-   api.exa.ai allowlist; libgen provenance attestation (Blaug + Ryan-Collins scans);
-   floyd-marinescu bio bullets; citdiv eBook; wiki-books + wiki-texts Ghost tag IDs for
-   sync_to_ghost.py; proxy allowlist wishlist (danwahl.net, gameofrent.com, progress.org).
+4. **Blocked on Floyd (surface these, don't chase):** EXA — key re-delivered in-chat
+   2026-07-06 (value lives in the conversation, NEVER in the repo; container-profile
+   persistence is policy-blocked) but api.exa.ai remains 403'd by the egress proxy: the
+   durable fix is Floyd adding BOTH the EXA_API_KEY env var AND api.exa.ai to the
+   environment settings at claude.ai/code (env vars + network policy, same screen);
+   libgen provenance attestation (Blaug + Ryan-Collins
+   scans); floyd-marinescu bio bullets (6 questions delivered 2026-07-06 — awaiting answers);
+   citdiv eBook (URL delivered but citdiv.org proxy-blocked — Floyd to allowlist, drop in
+   Drive, or route via Hermes); proxy allowlist wishlist (api.exa.ai, progress.org,
+   citdiv.org, archive.org, ifs.org.uk, imf.org, oecd.org, papers.ssrn.com, nber.org,
+   home.treasury.gov, danwahl.net, gameofrent.com).
+   RESOLVED 2026-07-06: wiki-books + wiki-texts Ghost tag IDs — delivered via
+   openclaw/add-books-sync, T1-reviewed, merged as PR #10 at Floyd's direction.
 5. Standing rules live in code/docs, not memory: lint gates, debt ratchet, campsite rule,
    accept bar + stub quota, digest-before-you-scan, delta rule, evidence ordering, PD full
    texts, "slugs lie — grep the words," Hermes work order auto-generation.
@@ -46,16 +155,28 @@ land case's certainty bleed into contested domains; quasi-rent/incentive caveats
 
 Discovery sweeps (the Mazzucato motion, one per domain — [FIND] tier:T2, forage+snippet,
 each ends in a triage report per the accept bar):
-- [ ] [FIND] tier:T2 status:todo — resource-rent capture evidence: severance-tax incidence,
-      Norway petroleum tax + GPFG design literature, mineral-royalty regimes (IMF FARI),
-      resource-curse counter-designs. Target: outcomes/resource-rent-capture-works depth.
+- [x] [FIND] tier:T2 status:DONE 2026-07-06 (shift 9) — resource-rent capture evidence.
+      SHIPPED: outcomes/resource-rent-capture-works — Norway flagship (78% cash-flow petroleum
+      tax → GPFG >$2tn, world's largest SWF; 3% budgetary rule since 2017) as the escape from the
+      Sachs-Warner resource curse, with the honest institutional caveat (capture works where
+      institutions are strong; the curse is real where they are weak; Larsen 2006). Wired from
+      geoism + supported_by resource-rents/sovereign-wealth-fund/cash-flow-tax (bidirectional).
+      4 registry rows. STILL OPEN for a future deepen: severance-tax incidence detail (US states),
+      mineral-royalty regimes / IMF FARI framework.
 - [ ] [FIND] tier:T2 status:todo — spectrum & auction rents: Coase 1959, Milgrom auction
       design, FCC auction revenue record, Hazlett property-rights critique (queued row
       exists). Target: concepts/spectrum-auctions + evidence.
-- [ ] [FIND] tier:T2 status:todo — congestion & road-space rents: Vickrey's congestion
-      pricing papers, Singapore ERP, London 2003, Stockholm trial (Eliasson evaluations).
-      Target: concepts/congestion-pricing + outcomes/congestion-pricing-works candidate —
-      the strongest non-land quasi-experimental evidence in the whole Geoist file.
+- [x] [FIND] tier:T2 status:DONE 2026-07-06 (session vy8k5i-qcm0cb, open egress) — congestion &
+      road-space rents. SHIPPED: concepts/congestion-pricing (Vickrey theory + Singapore 1975
+      −76% / London 2003 −30% congestion / Stockholm 2006 −20% cordon, all read from primaries:
+      Eliasson CTS 2014:7, TfL 2nd Annual Report, Phang-Toh 2004) + outcomes/congestion-pricing-
+      reduces-traffic (sourced stub, evidence-graded). Wired from geoism table (Queued→linked)
+      + william-vickrey. Report: reports/congestion-pricing.find.md.
+      FOLLOW-UPS: (a) [DEEPEN tier:T2] build out the outcome page with primary incidence/welfare
+      (Eliasson-Mattsson; Börjesson et al. "5 years on"); (b) [FIND tier:T2] Gothenburg 2013 as
+      the honest counter-texture (weaker effect, contested referendum); (c) [STUB] Smeed Report
+      (1964 UK) — the theory-to-policy bridge; (d) Jonas Eliasson / Maria Börjesson bios held
+      pending a 2nd inbound demand.
 - [ ] [FIND] tier:T2 status:todo — platform/data/IP rents cutting edge (post-Mazzucato):
       Weyl data-as-labor (queued), EU DMA rent framing, Boldrin-Levine against IP monopoly,
       prize-vs-patent literature. Target: concepts/data-rents + the IP-rents concept.
@@ -63,10 +184,15 @@ each ends in a triage report per the accept bar):
       Bezemer credit flows, Philippon finance-cost puzzle (have), BIS/Borio credit-cycle
       steelman (double-duty with the queued cycles objection), seigniorage-as-rent
       literature. Target: honest FIRE-sector evidence grading.
-- [ ] [DRAFT] tier:T1 status:todo — objections/taxing-quasi-rents-kills-innovation — THE
-      steelman the expansion requires (Schumpeter lens; innovation profits as incentive;
-      where Geoist instruments do and don't threaten them). Blocks: any outcome claiming
-      broad non-land rent capture is efficient must link this page.
+- [x] [DRAFT] tier:T1 status:done 2026-07-06 (session vy8k5i) —
+      objections/taxing-quasi-rents-kills-innovation SHIPPED (Schumpeter "spectacular
+      prizes" + Akcigit et al. QJE 2022 + Domar-Musgrave loss-offset asymmetry +
+      Reynolds-Neubig normal-return problem; responses: gradient concession, design answer
+      incl. Norway's full refundability, persistence diagnostic, inframarginal-prize
+      concession). Status verdict: substantially valid at the frontier; no purchase on
+      land or commons charges. STANDING RULE now live: any outcome claiming non-land rent
+      capture is efficient must link this page. Wired from geoism, quasi-rent, ACE,
+      cash-flow-tax.
 Instrument concept queue (each needs >=2 demanding pages — most already have them via
 concepts/geoism's table): severance-tax, spectrum-auctions, congestion-pricing, quasi-rent,
 patent-monopoly/ip-rents, data-dividend.
@@ -91,13 +217,40 @@ Diagnosis track:
       report; feeds a candidate outcome "platform profits contain substantial economic rents"
       (expect verdict: CONTESTED — write it that way or not at all).
 Instrument track (the actual tax regimes — each gets a concepts/ page + incidence evidence):
-- [ ] [FIND] tier:T2 status:todo — RENT-TARGETING CORPORATE TAX DESIGNS, the mainstream core:
-      ACE (allowance for corporate equity — taxes only above-normal returns = economic rent by
-      construction; Belgium/Italy natural experiments show minimal investment distortion) and
-      cash-flow/DBCFT (Auerbach-Devereux — taxes location-specific rents). This is the
-      strongest candidate for a NEW OUTCOME: "rent-only corporate taxes avoid investment
-      distortion" (peer-reviewed quasi-experimental base exists). Mirrlees Review already on
-      wiki carries ACE — de-reference its primaries.
+- [x] [FIND] tier:T2 status:done 2026-07-06 (session vy8k5i) — RENT-TARGETING CORPORATE TAX
+      DESIGNS. Triage report: reports/ws-tech-rents-rent-targeting-taxes.find.md. Shipped:
+      concepts/allowance-for-corporate-equity + concepts/cash-flow-tax + concepts/quasi-rent
+      + research/hebous-ruf-ace + research/branzoli-caiumi-italy-ace; Mirrlees page gained
+      its ACE section (de-referencing started); 24 registry rows. KEY CORRECTION to this
+      task's premise: the natural experiments show minimal LEVERAGE distortion — the
+      real-INVESTMENT evidence is genuinely mixed (Hebous-Ruf null for MNE production
+      investment vs Konings et al. positive; Zwick-Mahon expensing evidence positive). The
+      candidate outcome must be reframed, e.g. "rent-targeting corporate taxes reduce debt
+      bias without distorting marginal investment" with the MNE-arbitrage caveat carried.
+      Also: NO published ACE↔Georgism link exists (wiki's analogy = labeled analysis only);
+      the Stiglitz "2015 Tax Law Review" citation in circulation is garbled (real trio: NTJ
+      68(2), NBER WP 21189-92, EJ 125(583)); rent-sharing (Fuest-Peichl-Siegloch AER 2018)
+      is the channel by which even pure rent taxes reach workers. Follow-up research pages
+      queued below.
+- [~] [DRAFT] tier:T2 status:partial 2026-07-06 — WS-TECH-RENTS follow-up research pages:
+      DONE (shift 3): power-frerick-excess-returns (wired into corporate-profits outcome
+      supported_by + body), fuest-peichl-siegloch-incidence, domar-musgrave-risk,
+      akcigit-taxation-innovation, zwick-mahon-expensing.
+      REMAINING: meade-report (1978), schwerhoff-edenhofer-fleurbaey rent-tax survey
+      (JoES 2020 — synthesis: de-reference primaries when read). People as demand
+      materializes: michael-devereux (highest demand), james-meade, alan-auerbach,
+      shafik-hebous, e-cary-brown, robin-boadway. Concepts: debt-bias. Events:
+      2017-border-adjustment-fight.
+- [x] [SYNTHESIS] tier:T1 status:done 2026-07-06 (session vy8k5i) —
+      outcomes/rent-targeting-taxes-reduce-debt-bias SHIPPED: 16th outcome, first non-land;
+      honest scope (debt bias + marginal-investment neutrality); supported_by
+      [zwick-mahon-expensing, branzoli-caiumi-italy-ace, power-frerick-excess-returns,
+      domar-musgrave-risk] strongest-first with body parity; challenged_by [hebous-ruf-ace]
+      with the Konings counter carried; FPS rent-sharing + Schumpeterian gate in a dedicated
+      mandatory-caveats section; rent-gradient closing labels the Georgist analogy as
+      analysis. REMAINING from the original synthesis task: concepts/taxing-tech-rents
+      instrument-comparison page (ACE/DBCFT vs DST vs ad tax vs data dividend vs antitrust,
+      graded) — gated on the DST + ad-tax + dissolution [FIND]s still queued above.
 - [ ] [FIND] tier:T2 status:todo — DIGITAL SERVICES TAXES as tried: France/UK/India DSTs,
       incidence evidence (Amazon passed the UK DST to marketplace sellers — a Geoist-relevant
       FAILURE: a badly aimed rent tax gets shifted, exactly what LVT theory predicts for
@@ -310,11 +463,24 @@ comprehensiveness watermark: 136 external-source rows (first invocation complete
       rent-funded-UBI advocacy, no novel scholarship; its one concrete number (cumulative Alaska
       PFD total) is a stale ~2006 Wikipedia figure. NO organizations page warranted. Registry row
       added (level-6 advocate source); cited as advocate framing on citizens-dividend-narrative.
-- [ ] [SCAN] tier:T2 status:blocked — citdiv.org REMAINDER: the email-gated eBook ("Citizen's
-      Dividend", presumably Anderson; also FR/中文/Thai versions) is the only high-value unread
-      item. UNBLOCK: Floyd downloads the eBook and drops it in the repo/Drive, OR the egress
-      proxy allowlists citdiv.org + realestate.propertysharemarketeconomics.com. Then: sitemap
-      fetch → 2 articles + eBook + category archives.
+- [x] [SCAN] tier:T2 status:done 2026-07-06 (session vy8k5i) — citdiv eBook UNBLOCKED: Floyd
+      uploaded the PDF in-session (16 pp, read in full; PDF NOT committed). Shipped:
+      books/anderson-your-citizens-dividend (page-cited, advocacy-graded, accuracy notes:
+      stale 2016-vintage PFD figure in ©2024 edition; self-corrected Swiss claim; unsourced
+      housing-shortage aside vs the wiki's supply literature); deltas: phillip-j-anderson
+      cover-title correction + sharpened staleness note; Churchill toll-bridge story added to
+      churchill-peoples-rights (primary locator [VERIFY], routed); citizens-dividend concept
+      links the book page. Registry row (Heavy scan). Site REMAINDER (sitemap, 2 articles,
+      archives) still gated on citdiv.org allowlist — folded into the allowlist wishlist item.
+- [ ] [FIND] tier:T2 status:todo — Great Smoky Mountains casino-dividend study (surfaced by
+      the citdiv eBook scan, pp. 11-12): the Duke-team longitudinal natural experiment on
+      Eastern Band of Cherokee per-capita casino payments (~$4k/adult/yr) — better schooling,
+      less crime, fewer mental-health problems among children, poorest gaining most. Verify
+      the primary (likely the Costello et al. / Akee et al. line — do NOT cite from memory)
+      and draft research page; strong candidate support for
+      outcomes/resource-rent-dividends-work (it is dividend-INCOME evidence, not rent-capture
+      evidence — grade honestly). Accept bar met: dividends outcome + citizens-dividend
+      concept + the book page all demand it.
 - NOTE: people/phillip-j-anderson — rejection OVERRIDDEN 2026-07-05. Anderson is author of a wiki book (Secret Life of Real Estate), cited by Patel, runs PSE + citdiv.org. People page created with publisher, PSE, and citdiv.org sources.
 - [ ] [DRAFT] tier:T2 status:todo — research/raley-citizens-dividend candidate: Bill Raley, "The
       Citizen's Dividend" (32-pp paper, basicincome.org, 2018) — surfaced during the citdiv survey;
@@ -469,8 +635,22 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       the credit-cycle objection page creates demand); adair-turner (1 mention); the
       rethinking report's philanthropic-housing cluster (Peabody/Cadbury/Rowntree — UK
       housing history, not land-question core); Blaug-report marginalists already covered.
-      REMAINING: reports for corruption-of-economics (DONE), land-is-a-big-deal (DONE), rethinking (DONE),
-      economic-theory-in-retrospect, boom-bust, ricardos-law, anderson, patel — next waves.
+      REMAINING: none — final wave 2026-07-06 (session vy8k5i) triaged the last 5 reports
+      (economic-theory-in-retrospect, boom-bust, ricardos-law, anderson, patel). ACCEPTED
+      (accept bar ≥2 demanding pages, coverage checked BOTH ways): people/
+      johann-heinrich-von-thunen (location theory; demanded by law-of-rent, agglomeration,
+      optimal-city-size), organizations/land-tenure-reform-association (already name-checked
+      on 4 pages), events/town-and-country-planning-act-1947 (betterment-levy's legislative
+      vehicle). ROUTED to wanted-books: Don Riley Taken for a Ride (Jubilee Line uplift),
+      Christophers Rentier Capitalism (name-checked on 3 pages); Andelson already listed
+      (duplicate rows — merge at next wanted-books touch). REJECTED with reasons: Florida
+      land boom event (passing mentions only — re-propose if cycle pages demand);
+      Fabian Society org (1-2 mentions); Bryan Kavanagh/LVRG (advocacy, single mention);
+      Samuelson 1959 / Buchanan 1929 / Cord 1965 research (register when the Ricardo/
+      historiography pages demand primaries); "transfer earnings" concept (fold into
+      economic-rent at next touch, noted); the mass of Boom Bust/Patel context candidates
+      (Greenspan, Bernanke, COVID, Brexit etc. — narrative context, not land-question core).
+      ALL 10 inbox reports now in sources/inbox/consumed/.
       Original task: triage the 10 DISCOVERY-*.report.md files from Hermes w1
       (sources/inbox/): accept→stubs per EDITORIAL stub standard + registry rows,
       reject-with-reason. Power-in-the-Land report alone lists ~24 books + ~14 people;

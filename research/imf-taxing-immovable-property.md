@@ -30,4 +30,8 @@ This 2013 IMF working paper by John Norregaard is a standard reference on recurr
 
 ## Sources
 
-1. John Norregaard (2013), "Taxing Immovable Property: Revenue Potential and Implementation Challenges," *IMF Working Paper* 13/129. [PDF](https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf)
+1. John Norregaard (2013), "Taxing Immovable Property: Revenue Potential and
+   Implementation Challenges," *IMF Working Paper* 13/129 — used for the IMF's
+   assessment of property tax's revenue potential and the administrative constraints
+   (valuation, coverage, enforcement) that bind it in practice.
+   [PDF](https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf)

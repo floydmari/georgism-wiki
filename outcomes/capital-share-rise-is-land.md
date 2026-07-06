@@ -65,5 +65,11 @@ If inequality's capital dimension is really a **land** dimension, a tax on land 
 
 ## Sources
 
-1. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share," *Brookings Papers on Economic Activity* — [wiki summary](/wiki/rognlie-capital-share/) · [PDF](https://mattrognlie.com/brookings_capitalshare.pdf)
-2. Bonnet, Chapelle, Trannoy & Wasmer (2021), "Land is Back, It Should Be Taxed, It Can Be Taxed," *European Economic Review* — [wiki summary](/wiki/bonnet-land-is-back/) · [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)
+1. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share,"
+   *Brookings Papers on Economic Activity* — used for the finding that the long-run
+   rise in the net capital share is concentrated in housing/land, not reproducible
+   capital. [wiki summary](/wiki/rognlie-capital-share/) · [PDF](https://mattrognlie.com/brookings_capitalshare.pdf)
+2. Bonnet, Chapelle, Trannoy & Wasmer (2021), "Land is Back, It Should Be Taxed, It
+   Can Be Taxed," *European Economic Review* — used for the independent European
+   replication decomposing capital into land vs structures.
+   [wiki summary](/wiki/bonnet-land-is-back/) · [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)

@@ -30,4 +30,6 @@ The work is foundational for the **philosophical** wing of Georgism, supplying t
 
 ## Sources
 
-1. Henry George (1892), *A Perplexed Philosopher*. Full text via the Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/)
+1. Henry George (1892), *A Perplexed Philosopher* — used for George's critique of
+   Herbert Spencer's retreat from the land-nationalization position of *Social
+   Statics*. Full text via the Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/)

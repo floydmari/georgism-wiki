@@ -25,4 +25,4 @@ The proposal required **Michigan state legislative authorisation** to let Detroi
 
 ## Sources
 
-1. City of Detroit, Mayor's "Land Value Tax Plan" (2023–24) and Michigan legislative debate; contemporary news coverage.
+1. City of Detroit, Mayor's "Land Value Tax Plan" (2023–24) and Michigan legislative debate; contemporary news coverage — used for the proposal's design, marketing, and legislative fate. [CITATION NEEDED: specific plan document URL and news citations on next touch]

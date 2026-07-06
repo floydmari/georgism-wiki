@@ -39,7 +39,7 @@ rests on Bezemer's independent survey rather than practitioner self-description.
 
 Anderson founded [citdiv.org](https://citdiv.org/), an advocacy microsite promoting the Citizen's Dividend concept: using revenue from land and natural resources to (1) fund a yearly payment to all citizens, (2) abolish all other taxes, and (3) "rid us of all paid politicians." The site, founded in February 2022, publishes newsletter articles and offers a multi-language eBook in English, French, Chinese, Thai, Spanish, and Hungarian. It cites Alaska's Permanent Fund Dividend, Singapore's land management, and Norway's sovereign wealth fund as "three great but still incomplete examples" of the model.
 
-The site uses the "Can you see the cat?" expression — a land-economists' shorthand for whether someone understands locational value — as its framing device. Anderson's eBook, titled *Your Citizen's Dividend: No Taxes, No Government and No Politicians*, is available in English, French, Chinese, Thai, Spanish, and Hungarian. He cites the Crown Estate as "a perfect example of what the world could look like if all the world's Rent was collected on your behalf, and then handed back to you, yearly, by way of a stipend — or Citizen's dividend." The site is self-published advocacy; its one concrete data point (cumulative Alaska PFD total) uses a stale ~2006 Wikipedia figure.
+The site uses the "Can you see the cat?" expression — a land-economists' shorthand for whether someone understands locational value — as its framing device. Anderson's eBook — cover title *Your Citizen's Dividend: How to double your wage, dramatically reduce financial stress and improve living standards for everyone* (©2024 PSE; the PSE site describes it with the "No Taxes, No Government and No Politicians" strapline) — is available in English, French, Chinese, Thai, Spanish, and Hungarian, and is summarized on the wiki's [book page](/wiki/anderson-your-citizens-dividend/). He cites the Crown Estate as "a perfect example of what the world could look like if all the world's Rent was collected on your behalf, and then handed back to you, yearly, by way of a stipend — or Citizen's dividend." The site and eBook are self-published advocacy, and their concrete figures run stale: the eBook gives the Alaska PFD as US$1,022/year (p. 13) — the 2016-vintage dividend — in a ©2024 edition.
 
 ## Intellectual Lineage
 
@@ -70,6 +70,7 @@ Anderson extensively cites Harrison's work and credits Harrison with the insight
 ## See Also
 
 - [The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — book page
+- [Your Citizen's Dividend (eBook)](/wiki/anderson-your-citizens-dividend/) — the citdiv program statement, scanned
 - [Fred Harrison](/wiki/fred-harrison/) — intellectual predecessor
 - [Akhil Patel](/wiki/akhil-patel/) — intellectual successor and collaborator
 - [Homer Hoyt](/wiki/homer-hoyt/) — empirical source for the cycle data
@@ -80,7 +81,7 @@ Anderson extensively cites Harrison's work and credits Harrison with the insight
 
 ## Sources
 
-1. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (London: Shepheard-Walwyn, 2008). ISBN 978-0-85683-263-5. 464 pp. — primary source for all book claims (Scan Depth: Heavy; verified against primary text 2026-07-05).
+1. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (London: Shepheard-Walwyn, 2008). ISBN 978-0-85683-263-5. 464 pp. — used for all book claims (Scan Depth: Heavy; verified against primary text 2026-07-05).
 2. [Shepheard-Walwyn author page](https://shepheardwalwyn.com/phillip-j-anderson-author/) — confirms RMIT graduation (1985, accounting and economics), founding of EIS (1991), and managing director role.
 3. [Verso Books (AU)](https://versobooks.com.au/p/the-secret-life-of-real-estate-banking-9904887e-d731-4e89-882c-498bd42df348) — confirms Anderson is Australian, commutes between Australia, London, and the USA.
 4. [Property Share Market Economics](https://propertysharemarketeconomics.com/) — Anderson's commercial investment service; "Meet Phil and Akhil" section confirms co-leadership with Akhil Patel and "almost five decades' experience."

@@ -24,4 +24,7 @@ Behind Rawls's **veil of ignorance** — not knowing whether one will be born to
 
 ## Sources
 
-1. Rhee (2024), "Fairness of Land Value Taxation: A Rawlsian Derivation," SSRN. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4797126)
+1. Rhee (2024), "Fairness of Land Value Taxation: A Rawlsian Derivation," SSRN — used
+   for the argument that an LVT can be justified from Rawlsian first principles (the
+   value of location as a common asset owed to the least advantaged).
+   [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4797126)

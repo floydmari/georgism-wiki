@@ -42,6 +42,6 @@ The 2008 collapse confirmed the prediction with notable accuracy.
 
 ## Sources
 
-1. Fred Harrison (1983), *The Power in the Land* (book).
-2. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/)
-3. Fred Harrison (2006), *Ricardo's Law*; articles at [Share The Rents](https://sharetherents.org/publications/).
+1. Fred Harrison (1983), *The Power in the Land* (book) — used for the land-speculation instability thesis and Harrison's place in the British Georgist tradition (mined on the wiki's [book page](/wiki/harrison-power-in-the-land/)).
+2. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010* — used for the 18-year-cycle framework and the 1997 crisis prediction (mined on the wiki's [book page](/wiki/harrison-boom-bust/)). [Publisher](https://shepheardwalwyn.com/product/boom-bust/)
+3. Fred Harrison (2006), *Ricardo's Law*; articles at [Share The Rents](https://sharetherents.org/publications/) — used for the tax-clawback/ATCOR argument and Harrison's current affiliation.

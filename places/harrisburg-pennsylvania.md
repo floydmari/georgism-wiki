@@ -41,6 +41,6 @@ Pennsylvania is unusual in allowing cities to split their property tax rate. Sev
 
 ## Sources
 
-1. Wallace Oates & Robert Schwab (1997), Pittsburgh split-rate study — [wiki summary](/wiki/oates-schwab-pittsburgh/)
-2. Plassmann & Tideman (2000), 15-municipality Pennsylvania panel — [wiki summary](/wiki/plassmann-tideman-construction/)
-3. Zhou Yang (2021), "Split-Rate Taxation Impacts on Tax Base," Lincoln Institute. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/yang_wp21zy1.pdf)
+1. Wallace Oates & Robert Schwab (1997), Pittsburgh split-rate study — used for the comparative Pennsylvania split-rate evidence base. [wiki summary](/wiki/oates-schwab-pittsburgh/)
+2. Plassmann & Tideman (2000), 15-municipality Pennsylvania panel — used for the construction effects of split-rate taxation in PA municipalities including Harrisburg. [wiki summary](/wiki/plassmann-tideman-construction/)
+3. Zhou Yang (2021), "Split-Rate Taxation Impacts on Tax Base," Lincoln Institute — used for the tax-base effects of split-rate adoption and repeal. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/yang_wp21zy1.pdf)

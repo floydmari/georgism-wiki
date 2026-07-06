@@ -27,6 +27,6 @@ Hudson connects Georgist land-rent theory to the dynamics of debt and banking, a
 
 ## Sources
 
-1. Michael Hudson (2015), *Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy* (book).
-2. Michael Hudson (2021), "Finance Capitalism versus Industrial Capitalism," *Review of Radical Political Economics*.
-3. Goodhart, Hudson, Kumhof & Tideman (2021) — [wiki summary](/wiki/goodhart-stimulus/)
+1. Michael Hudson (2015), *Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy* (book) — used for the FIRE-sector rent-extraction thesis (mined on the wiki's [research page](/wiki/hudson-killing-the-host/)).
+2. Michael Hudson (2021), "Finance Capitalism versus Industrial Capitalism," *Review of Radical Political Economics* — used as the peer-reviewed statement of the finance-vs-industry thesis.
+3. Goodhart, Hudson, Kumhof & Tideman (2021) — used for Hudson's co-authorship of the land-tax super-stimulus proposal. [wiki summary](/wiki/goodhart-stimulus/)
