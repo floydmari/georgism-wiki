@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-06 by `scripts/verification_queue.py` (638 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (634 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -70,7 +70,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (129)
+## needs-unblocked-web (proxy allowlist or manual fetch) (126)
 
 - `concepts/allowance-for-corporate-equity.md` — **VERIFY** the specific ~40%-to-MNC- vehicles figure attributed to IMF Country Report 17/70 remains single-sourced; IMF's server blocks direct PDF access (Akamai 403), so 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
@@ -104,7 +104,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/peter-mieszkowski.md` — **VERIFY** these URLs are cited from the wiki's research page for Mieszkowski's 1972 paper; they were not independently fetched in this session.
 - `people/thomas-piketty.md` — **VERIFY** exact r − g magnitudes and page-level citations could not be confirmed against the primary text in the supplied corpus.
 - `people/wallace-oates.md` — **CITATION NEEDED** direct access to regression tables for exact sample size, data year, and coefficients — the primary text could not be fetched in the source session; qualitative
-- `people/william-vickrey.md` — **VERIFY** page cites for the "two taxes" formulation on direct read.
 - `places/alaska.md` — **VERIFY** exact figures could not be confirmed from the primary PDF in the source session; they are corroborated across multiple secondary sources citing the paper.
 - `places/chicago.md` — **VERIFY** this exact peak-year list against Hoyt's primary text directly; the wiki's own [Progress and the 18.6-Year Cycle
 - `places/chicago.md` — **VERIFY** ` pending direct confirmation against Hoyt's primary text. 5. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 20
@@ -173,8 +172,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/mill-principles-land.md` — **CITATION NEEDED** direct access to the article; this session located it via bibliographic search only and could not fetch the full text.
 - `research/mill-principles-land.md` — **VERIFY** exact passage and wording not confirmed against primary text in this session; econlib.org, Gutenberg, and henrygeorge.org were not directly fetchable.
 - `research/mill-principles-land.md` — **CITATION NEEDED** author name and full bibliographic details; this session located the article via bibliographic search only and could not fetch it to confirm the quotation or au
-- `research/mirrlees-review.md` — **VERIFY** exact chapter (17 vs 18) and wording against the IFS PDF — proxy-blocked this session.
-- `research/mirrlees-review.md` — **CITATION NEEDED** a directly fetched/verified copy of IFS Chapter 16 ("The Taxation of Land and Property") text — this session's web access to ifs.org.uk returned network errors,
 - `research/natural-common-wealth-economic-rent-canada.md` — **VERIFY** this GDP-share framing recurs consistently in third-party summaries of the report but could not be checked against the primary text or against which GDP measure
 - `research/natural-common-wealth-economic-rent-canada.md` — **CITATION NEEDED** a first-hand read of the primary PDF, to add page-level citations for the methodology section, confirm named authorship (if any), and verify the GDP-share and s
 - `research/oates-1969-capitalization.md` — **VERIFY** exact municipality count and precise data-year, which this session could not confirm from the primary text — search snippets and secondary citations agree on "N
@@ -237,7 +234,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (417)
+## unclassified (T1 triage) (416)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
@@ -420,7 +417,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `organizations/common-wealth-canada.md` — **VERIFY** precise founding date/legal registration
 - `organizations/common-wealth-canada.md` — **VERIFY** full roster of staff, board, and advisors — the organisation's team page could not be independently retrieved at time of writing.
 - `organizations/fairhope-single-tax-corporation.md` — **CITATION NEEDED** the specific founders of Fairhope, the circumstances of the site selection in Alabama, and the early organizational structure of the Corporation. The corpus con
-- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** authorship — single-snippet attribution.
 - `events/alaska-permanent-fund.md` — **CITATION NEEDED** direct apfc.org history-page URL on next touch
 - `events/detroit-lvt-proposal.md` — **CITATION NEEDED** specific plan document URL and news citations on next touch
 - `events/irish-land-war.md` — **CITATION NEEDED** specific data on eviction numbers and harvest failures from 1877–79, from a primary or authoritative secondary source

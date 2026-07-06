@@ -52,8 +52,8 @@ expiring leases have generally been extended for 50 years **without additional
 premium**, at an annual government rent of just 3% of rateable value — a
 standing example of repricing forgone at renewal.[7]
 
-The Georgist assessment therefore runs: leasing proves land can fund government
-at scale — Hong Kong and Singapore are the wiki's standard partial precedents
+The Georgist assessment therefore runs: leasing demonstrates that land can fund
+government at scale — Hong Kong and Singapore are the wiki's standard partial precedents
 for [land rent could fund government](/wiki/land-rent-could-fund-government/) —
 but its one-shot capture leaves the between-repricing increment private,
 rewarding the same speculation an annual tax would collect continuously. It

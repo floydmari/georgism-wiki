@@ -185,9 +185,11 @@ direct fetches; page-level verification routed to the Hermes work order.)*
    *The Tax Lawyer* — used for the sympathetic-treatment R&D concession.
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4792580)
 6. Garrett Watson & Alex Muresianu (2024), "Supernormal Returns: An Overlooked
-   Foundation of Tax Policy Debates," Tax Foundation — used, as an attributed
-   advocacy position, for the decomposition of supernormal returns by
-   tax-responsiveness. [VERIFY: authorship — single-snippet attribution.]
+   Foundation of Tax Policy Debates," Tax Foundation (Sept. 11, 2024) — used, as an
+   attributed advocacy position, for the decomposition of supernormal returns by
+   tax-responsiveness (normal returns most affected; risk/innovation supernormal
+   returns still responsive; market-power returns least responsive). Authorship
+   and date verified this session.
    [Tax Foundation](https://taxfoundation.org/research/all/federal/supernormal-returns-tax-policy-debates/)
 7. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3 §11 —
    used for the Marshall–George quasi-rent exchange and Blaug's

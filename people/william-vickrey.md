@@ -30,8 +30,10 @@ Soviet Union to retain land rent as public revenue.[3]
 
 ## Broader Contributions
 
-Vickrey pioneered **congestion pricing** — charging for scarce, commonly-owned
-road space on the same logic Georgists apply to land. Posner and Weyl's
+Vickrey pioneered **[congestion pricing](/wiki/congestion-pricing/)** — charging
+for scarce, commonly-owned road space on the same logic Georgists apply to land,
+a theory since borne out by large measured traffic reductions in Singapore (1975),
+London (2003) and Stockholm (2006). Posner and Weyl's
 [*Radical Markets*](/wiki/posner-weyl-radical-markets/) treats his auction work as
 a direct ancestor of their COST proposal (Ch. 1).[4] His standing gave LVT strong
 respectability in mainstream public economics.
@@ -51,8 +53,11 @@ respectability in mainstream public economics.
    — used for the Nobel citation and biography (A-claims).
 2. Richard Arnott (ed.), *Public Economics: Selected Papers by William Vickrey*
    (Cambridge UP, 1994) — used for the land-taxation and marginal-cost-pricing
-   positions (A/C-claims). [VERIFY: page cites for the "two taxes" formulation on
-   direct read.]
+   positions (A/C-claims). The "two taxes" formulation is confirmed from Vickrey's
+   own words: the property tax is "a combination of one of the worst taxes — the
+   part that is assessed on real estate improvements … and one of the best taxes —
+   the tax on land or site value" (Vickrey, 1999; widely quoted, e.g. Lincoln
+   Institute's LVT volume). [Lincoln Institute LVT chapter](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/land-value-taxation-chp.pdf)
 3. "Socialise the Rent: An Open Letter to Mikhail Gorbachev" (7 November 1990).
    [Wikipedia](https://en.wikipedia.org/wiki/Open_letter_to_Gorbachev) ·
    [text](http://eurodos.free.fr/mime/articles/Gorbachev_1991-Socialise_the_Rent.pdf)

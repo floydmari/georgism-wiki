@@ -113,10 +113,17 @@ each ends in a triage report per the accept bar):
 - [ ] [FIND] tier:T2 status:todo — spectrum & auction rents: Coase 1959, Milgrom auction
       design, FCC auction revenue record, Hazlett property-rights critique (queued row
       exists). Target: concepts/spectrum-auctions + evidence.
-- [ ] [FIND] tier:T2 status:todo — congestion & road-space rents: Vickrey's congestion
-      pricing papers, Singapore ERP, London 2003, Stockholm trial (Eliasson evaluations).
-      Target: concepts/congestion-pricing + outcomes/congestion-pricing-works candidate —
-      the strongest non-land quasi-experimental evidence in the whole Geoist file.
+- [x] [FIND] tier:T2 status:DONE 2026-07-06 (session vy8k5i-qcm0cb, open egress) — congestion &
+      road-space rents. SHIPPED: concepts/congestion-pricing (Vickrey theory + Singapore 1975
+      −76% / London 2003 −30% congestion / Stockholm 2006 −20% cordon, all read from primaries:
+      Eliasson CTS 2014:7, TfL 2nd Annual Report, Phang-Toh 2004) + outcomes/congestion-pricing-
+      reduces-traffic (sourced stub, evidence-graded). Wired from geoism table (Queued→linked)
+      + william-vickrey. Report: reports/congestion-pricing.find.md.
+      FOLLOW-UPS: (a) [DEEPEN tier:T2] build out the outcome page with primary incidence/welfare
+      (Eliasson-Mattsson; Börjesson et al. "5 years on"); (b) [FIND tier:T2] Gothenburg 2013 as
+      the honest counter-texture (weaker effect, contested referendum); (c) [STUB] Smeed Report
+      (1964 UK) — the theory-to-policy bridge; (d) Jonas Eliasson / Maria Börjesson bios held
+      pending a 2nd inbound demand.
 - [ ] [FIND] tier:T2 status:todo — platform/data/IP rents cutting edge (post-Mazzucato):
       Weyl data-as-labor (queued), EU DMA rent framing, Boldrin-Levine against IP monopoly,
       prize-vs-patent literature. Target: concepts/data-rents + the IP-rents concept.

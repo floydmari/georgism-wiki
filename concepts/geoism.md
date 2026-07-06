@@ -29,7 +29,7 @@ Each domain has its own instrument and its own evidence base:
 | Natural resources | Royalties, severance taxes, [sovereign wealth funds](/wiki/sovereign-wealth-fund/) | [Resource rents](/wiki/resource-rents/) · [dividends work](/wiki/resource-rent-dividends-work/) |
 | Atmosphere & ecology | Carbon pricing + per-capita dividends | [Ecological Georgism](/wiki/ecological-georgism/) · [Green Georgism narrative](/wiki/ecological-rent/) |
 | Spectrum & orbits | Auctions; recurring license fees | Queued: Hazlett spectrum work; [William Vickrey](/wiki/william-vickrey/)'s auction lineage |
-| Road space & congestion | Congestion pricing | Queued: the Vickrey→Singapore/London/Stockholm evidence line |
+| Road space & congestion | [Congestion pricing](/wiki/congestion-pricing/) | Singapore 1975 (~76% zone-traffic drop), London 2003 (~30% congestion cut), Stockholm 2006 (~20% cordon reduction) — the strongest non-land quasi-experimental record |
 | Monopoly & regulatory privilege | Antitrust; license auctions; [rent-seeking](/wiki/rent-seeking/) reform | [Corporate profits increasingly rents](/wiki/corporate-profits-increasingly-rents/) — carried WITH its counter-position |
 | Finance & credit | The contested frontier: [FIRE-sector](/wiki/fire-sector/) analysis | [Rentier](/wiki/rentier/) · [the rentier-economy narrative](/wiki/the-rentier-economy/) |
 | Platforms & data | The open design problem — rent-targeting corporate taxes ([ACE](/wiki/allowance-for-corporate-equity/)/[cash-flow](/wiki/cash-flow-tax/)), ad taxes, data dividends, [COST designs](/wiki/harberger-tax/); dedicated workstream in BACKLOG (WS-TECH-RENTS) | [Mazzucato's rent map](/wiki/mazzucato-mapping-rents/) · [superstar firms](/wiki/superstar-firms/) |
