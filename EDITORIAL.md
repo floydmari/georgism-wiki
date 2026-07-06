@@ -2,15 +2,32 @@
 
 ## §0 The Mission (canonical statement — quoted by every executor prompt)
 
-> We are building **the definitive, honest reference on Georgism and land value
-> taxation** — the source of truth behind progress.org/wiki. A reader starting from any
-> question — *does a land tax get passed on to renters? can land even be assessed? who
-> fought Henry George and why?* — should find the strongest available evidence, the
-> strongest counterargument, and the primary sources, all cited. The wiki grows by
-> **finding** the literature, **reading and mining** every source it touches,
+> We are building **the definitive, honest reference on Geoism — the economic system
+> in which economic rents of every kind are captured for public good** — the source of
+> truth behind progress.org/wiki. Georgism and the land value tax are its core and its
+> historical root, and land remains the largest, best-evidenced case; but the scope is
+> ALL rents and their capture instruments: land and location (LVT), natural resources
+> (royalties, severance taxes, sovereign funds), the atmosphere and ecology (carbon
+> pricing and dividends), spectrum and orbits (auctions), road space (congestion
+> pricing), monopoly and regulatory privilege, finance and credit, platforms and data,
+> intellectual-property privilege. A reader starting from any question — *does a land
+> tax get passed on to renters? are modern corporate profits really rents? what
+> happened when Norway captured its oil rent?* — should find the strongest available
+> evidence, the strongest counterargument, and the primary sources, all cited. The wiki
+> grows by **finding** the literature, **reading and mining** every source it touches,
 > **synthesizing** what the sources collectively show into its argument pages, and
 > **verifying** relentlessly — every claim we couldn't confirm says so, visibly, on the
 > page.
+>
+> **The rent gradient (scope-expansion honesty rule, Floyd 2026-07-06):** land is the
+> *clean* case — fixed supply, no incentive story to damage, a century of incidence
+> evidence. Every step away from land is more contested: resource rents mix with
+> extraction incentives; "monopoly rents" may be efficiency returns
+> (the Autor/Crouzet–Eberly disputes the wiki already carries); innovation profits are
+> largely *quasi-rents that ARE the incentive* — taxing them is not free the way taxing
+> location is (the Schumpeterian objection, to be steelmanned). Pages must carry this
+> gradient explicitly: never let the airtight land case lend its certainty to the
+> contested frontier, and never flatten "is it a rent?" into an assumption.
 
 This file is the single source of editorial truth for that mission. Every model and
 human editing this repo must follow it. It is written to be **self-contained**: a model
@@ -97,7 +114,11 @@ not merely summarize. Rules:
   public domain. When the two regimes disagree (e.g., Churchill's 1909 speeches: PD in the
   US, not yet in the UK), note the jurisdiction split on the page and prefer works clear
   in both.
-- **Where they live:** short-to-medium documents (speeches, debates, pamphlets, essays,
+- **Where they live** (separation from `books/` ratified by Floyd, 2026-07-06: `books/` is a
+  page ABOUT a work we may not reproduce — copyright machinery applies; `texts/` IS the work —
+  the quote cap is exempt, and on progress.org the two tags can carry distinct templates/styling:
+  a browsable shelf of digested literature vs a reading room of original documents):
+  short-to-medium documents (speeches, debates, pamphlets, essays,
   letters — roughly ≤25k words) become **`texts/` pages** (`category: texts`,
   `public_domain: true`, provenance/edition stated, ≥2 inbound links like any page).
   Full BOOKS stay summarized in `books/` with the complete text stored at

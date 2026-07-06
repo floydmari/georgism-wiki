@@ -5,8 +5,10 @@
 > same commit. GitHub renders the Mermaid blocks natively — view this file on GitHub to see
 > the pictures.
 
-**The mission:** the definitive, honest reference on Georgism and land value taxation — every
-claim cited, every counterargument steelmanned, every important source read and mined. The
+**The mission:** the definitive, honest reference on Geoism — the capture of ALL economic
+rents for public good, with Georgism/land as core and root (scope expanded 2026-07-06) —
+every claim cited, every counterargument steelmanned, every important source read and mined,
+and the rent gradient kept honest (land is the clean case; the frontier is contested). The
 loop is the research desk that builds it.
 
 ## 1. One editorial shift (LOOP.md steps 1–11)

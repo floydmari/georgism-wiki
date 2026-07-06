@@ -38,6 +38,8 @@ Lars Doucet reports that land constitutes approximately **40% of US household we
 
 ## See Also
 
+- [Geoism](/wiki/geoism/) — the system built on capturing rents of every kind
+
 - [Law of Rent](/wiki/law-of-rent/)
 
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response to economic rent

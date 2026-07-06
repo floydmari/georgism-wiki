@@ -36,6 +36,89 @@ outcomes) was merged to main at Floyd's direction. A NEW session must:
    accept bar + stub quota, digest-before-you-scan, delta rule, evidence ordering, PD full
    texts, "slugs lie — grep the words," Hermes work order auto-generation.
 
+
+## WS-GEOISM — scope expansion to all economic rents (Floyd directive, 2026-07-06 late)
+The wiki's scope is now GEOISM: capture of ALL economic rents for public good; Georgism/land
+is the core (EDITORIAL §0 rewritten; rent-gradient honesty rule added; concepts/geoism is the
+umbrella page). Land corpus stays the backbone; these tasks grow the other domains to the
+same evidentiary standard. THE RULE THAT GOVERNS ALL OF IT: the rent gradient — never let the
+land case's certainty bleed into contested domains; quasi-rent/incentive caveats mandatory.
+
+Discovery sweeps (the Mazzucato motion, one per domain — [FIND] tier:T2, forage+snippet,
+each ends in a triage report per the accept bar):
+- [ ] [FIND] tier:T2 status:todo — resource-rent capture evidence: severance-tax incidence,
+      Norway petroleum tax + GPFG design literature, mineral-royalty regimes (IMF FARI),
+      resource-curse counter-designs. Target: outcomes/resource-rent-capture-works depth.
+- [ ] [FIND] tier:T2 status:todo — spectrum & auction rents: Coase 1959, Milgrom auction
+      design, FCC auction revenue record, Hazlett property-rights critique (queued row
+      exists). Target: concepts/spectrum-auctions + evidence.
+- [ ] [FIND] tier:T2 status:todo — congestion & road-space rents: Vickrey's congestion
+      pricing papers, Singapore ERP, London 2003, Stockholm trial (Eliasson evaluations).
+      Target: concepts/congestion-pricing + outcomes/congestion-pricing-works candidate —
+      the strongest non-land quasi-experimental evidence in the whole Geoist file.
+- [ ] [FIND] tier:T2 status:todo — platform/data/IP rents cutting edge (post-Mazzucato):
+      Weyl data-as-labor (queued), EU DMA rent framing, Boldrin-Levine against IP monopoly,
+      prize-vs-patent literature. Target: concepts/data-rents + the IP-rents concept.
+- [ ] [FIND] tier:T2 status:todo — financial rents & seigniorage: Hudson (carried),
+      Bezemer credit flows, Philippon finance-cost puzzle (have), BIS/Borio credit-cycle
+      steelman (double-duty with the queued cycles objection), seigniorage-as-rent
+      literature. Target: honest FIRE-sector evidence grading.
+- [ ] [DRAFT] tier:T1 status:todo — objections/taxing-quasi-rents-kills-innovation — THE
+      steelman the expansion requires (Schumpeter lens; innovation profits as incentive;
+      where Geoist instruments do and don't threaten them). Blocks: any outcome claiming
+      broad non-land rent capture is efficient must link this page.
+Instrument concept queue (each needs >=2 demanding pages — most already have them via
+concepts/geoism's table): severance-tax, spectrum-auctions, congestion-pricing, quasi-rent,
+patent-monopoly/ip-rents, data-dividend.
+Existing pages to re-grade under the gradient rule at next touch: corporate-profits outcome
+(already carries Crouzet-Eberly — good), fire-sector, superstar-firms, the-rentier-economy
+narrative, mazzucato-mapping-rents (framework-not-finding caveat already added).
+
+## WS-TECH-RENTS — monopolistic tech firms: diagnosis + capture regime (Floyd directive, 2026-07-06 late)
+THE HARD QUESTION of the Geoist expansion, and it gets its own workstream: how much of big-tech
+profit is unearned rent (network-effect moats, data accumulation, platform gatekeeping,
+IP/regulatory privilege — the "land-like positions" of the digital economy) vs. quasi-rent that
+rewards genuine innovation — and WHAT TAX REGIME captures the former without killing the latter.
+The rent gradient rule applies hardest here; every page in this WS links the Schumpeterian
+steelman once it exists. Seed corpus already on the wiki: corporate-profits-increasingly-rents
+(with Crouzet-Eberly counter), superstar-firms, mazzucato-mapping-rents, rochet-tirole,
+de-loecker-eeckhout-unger, philippon, fire-sector, harberger-tax/COST.
+
+Diagnosis track:
+- [ ] [FIND] tier:T2 status:todo — the is-it-rent evidence, updated: markup decomposition since
+      De Loecker (intangibles vs power), Furman Review (UK digital competition, 2019), CMA/DMA
+      market studies, Korinek-Stiglitz on AI rents, attention-market economics. Ends in triage
+      report; feeds a candidate outcome "platform profits contain substantial economic rents"
+      (expect verdict: CONTESTED — write it that way or not at all).
+Instrument track (the actual tax regimes — each gets a concepts/ page + incidence evidence):
+- [ ] [FIND] tier:T2 status:todo — RENT-TARGETING CORPORATE TAX DESIGNS, the mainstream core:
+      ACE (allowance for corporate equity — taxes only above-normal returns = economic rent by
+      construction; Belgium/Italy natural experiments show minimal investment distortion) and
+      cash-flow/DBCFT (Auerbach-Devereux — taxes location-specific rents). This is the
+      strongest candidate for a NEW OUTCOME: "rent-only corporate taxes avoid investment
+      distortion" (peer-reviewed quasi-experimental base exists). Mirrlees Review already on
+      wiki carries ACE — de-reference its primaries.
+- [ ] [FIND] tier:T2 status:todo — DIGITAL SERVICES TAXES as tried: France/UK/India DSTs,
+      incidence evidence (Amazon passed the UK DST to marketplace sellers — a Geoist-relevant
+      FAILURE: a badly aimed rent tax gets shifted, exactly what LVT theory predicts for
+      non-rent bases), OECD Pillar One residual-profit reallocation + Pillar Two minimum tax
+      as implicit excess-return taxation. Honest verdict likely: DSTs are revenue-motivated
+      turnover taxes, NOT rent capture — the wiki should say so.
+- [ ] [FIND] tier:T2 status:todo — attention/advertising rents: Romer's progressive digital
+      ad tax proposal (the closest thing to a Georgist instrument aimed at attention markets),
+      ad-tech market concentration evidence. + data dividends / data-as-labor (Weyl, queued)
+      and sovereign data funds as capture-at-the-source designs.
+- [ ] [FIND] tier:T2 status:todo — rent DISSOLUTION vs rent CAPTURE: antitrust, interop
+      mandates, EU DMA — the alternative that destroys the rent instead of taxing it; when is
+      each right (Georgist analogy: zoning reform dissolves regulatory rent; LVT captures
+      location rent — both live in the program).
+Synthesis track (T1, after the FINDs land):
+- [ ] [SYNTHESIS] tier:T1 status:todo — outcomes/rent-targeting-taxes-avoid-distortion (ACE/
+      cash-flow evidence) + honest instrument-comparison concept page (concepts/
+      taxing-tech-rents: ACE/DBCFT vs DST vs ad tax vs data dividend vs antitrust, graded);
+      objections/taxing-quasi-rents-kills-innovation is the mandatory counterweight (queued
+      in WS-GEOISM); narrative candidate LAST, only if the evidence supports one.
+
 ## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
 HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,

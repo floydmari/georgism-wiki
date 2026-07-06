@@ -9,7 +9,9 @@ an iteration) and `EDITORIAL.md` (content rules).
 (Canonical short form: EDITORIAL.md §0 — quoted by every executor prompt so all models,
 Claude or otherwise, work from the same mission.)
 
-Make progress.org/wiki the definitive, Wikipedia-quality reference for the Georgist ecosystem.
+Make progress.org/wiki the definitive, Wikipedia-quality reference for the Geoist ecosystem —
+all economic rents and their capture for public good, with the Georgist land core as its
+foundation (scope expanded by Floyd, 2026-07-06; see EDITORIAL §0).
 A reader can: (1) click any **benefit** and see every study that supports *or challenges* it,
 inline-cited; (2) browse the persuasive **narratives** for LVT and see which have research
 backing, who promotes them, and how to deploy them; (3) find any concept, person, place, or body
