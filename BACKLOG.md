@@ -28,10 +28,16 @@ outcomes) was merged to main at Floyd's direction. A NEW session must:
       (3-5/shift by inbound links). Debt ratchet baseline at merge: 478 warnings / 336 pages.
    f. Exa people-enrichment sweep — still blocked on api.exa.ai allowlist; delegate to Hermes
       otherwise.
-4. **Blocked on Floyd (surface these, don't chase):** EXA_API_KEY env var in cloud settings +
-   api.exa.ai allowlist; libgen provenance attestation (Blaug + Ryan-Collins scans);
-   floyd-marinescu bio bullets; citdiv eBook; wiki-books + wiki-texts Ghost tag IDs for
-   sync_to_ghost.py; proxy allowlist wishlist (danwahl.net, gameofrent.com, progress.org).
+4. **Blocked on Floyd (surface these, don't chase):** EXA_API_KEY env var in cloud settings
+   (key was never persisted to the environment — not a concurrency issue; also needs
+   api.exa.ai in the network policy); libgen provenance attestation (Blaug + Ryan-Collins
+   scans); floyd-marinescu bio bullets (6 questions delivered 2026-07-06 — awaiting answers);
+   citdiv eBook (URL delivered but citdiv.org proxy-blocked — Floyd to allowlist, drop in
+   Drive, or route via Hermes); proxy allowlist wishlist (api.exa.ai, progress.org,
+   citdiv.org, archive.org, ifs.org.uk, imf.org, oecd.org, papers.ssrn.com, nber.org,
+   home.treasury.gov, danwahl.net, gameofrent.com).
+   RESOLVED 2026-07-06: wiki-books + wiki-texts Ghost tag IDs — delivered via
+   openclaw/add-books-sync, T1-reviewed, merged as PR #10 at Floyd's direction.
 5. Standing rules live in code/docs, not memory: lint gates, debt ratchet, campsite rule,
    accept bar + stub quota, digest-before-you-scan, delta rule, evidence ordering, PD full
    texts, "slugs lie — grep the words," Hermes work order auto-generation.
