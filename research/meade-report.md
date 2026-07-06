@@ -15,7 +15,7 @@ excerpt: "The Institute for Fiscal Studies' landmark 1978 committee report, chai
 *The Structure and Reform of Direct Taxation* — universally called **the Meade
 Report** — was the first fundamental study of the UK tax system commissioned by the
 Institute for Fiscal Studies (IFS). A committee
-chaired by **James Meade** (who had shared the 1977 Nobel Memorial Prize for his work
+chaired by **[James Meade](/wiki/james-meade/)** (who had shared the 1977 Nobel Memorial Prize for his work
 on international trade) reported in 1978, published by Allen & Unwin (xx + 533 pp.).[1]
 Its organising recommendation was a shift in the base of direct taxation **away from
 income and toward expenditure** — taxing what people take out of the economy

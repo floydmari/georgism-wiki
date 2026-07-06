@@ -14,6 +14,8 @@ A **citizen's dividend** is the equal distribution to all residents of the publi
 
 Henry George anticipated the idea: once land rent funds the legitimate functions of government, any surplus could be distributed to citizens directly. The citizen's dividend is the bridge between Georgism and the modern **universal basic income** debate — a UBI funded not from taxes on labour but from the common rent of land and resources.
 
+The same destination has been reached from outside the Georgist tradition. The Nobel economist [James Meade](/wiki/james-meade/) argued the state should hold a large share of a society's productive capital and pay its return to every citizen as an unconditional **social dividend** — the Georgist logic (socialise ownership returns, not labour) applied to capital in general rather than land rent specifically. Meade's independent convergence is why the idea has mainstream as well as Georgist parentage.
+
 ## Real-World Example
 
 The **Alaska Permanent Fund Dividend** is the closest large-scale implementation: since 1982, Alaska has distributed an annual cash dividend to every resident, funded by the state's oil-resource rents. It demonstrates that a resource-rent dividend is administratively workable and politically durable.
