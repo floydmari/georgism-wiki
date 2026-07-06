@@ -24,13 +24,16 @@ risk-free benchmark would generate, the tax-data operationalization of
 ## Findings
 
 Using C-corporation tax-return microdata for 1992–2013, the normal
-(risk-free-rate) return share of the corporate tax base **averaged about 40%
-in 1992–2002 and about 25% in 2003–2013** — equivalently, excess returns rose
-from roughly 60% to roughly 75% of the base. Verified verbatim against the
-Treasury PDF (2026-07-06): the fraction "has gradually declined over time,
-averaging 40 percent from 1992–2002 and 25 percent from 2003–2013" (abstract,
-p. 1); the paper also notes multinationals' risk-free share runs somewhat
-lower than domestic firms'.[1]
+(risk-free-rate) return share of the corporate tax base **averaged 40 percent
+in 1992–2002 and 25 percent in 2003–2013** — equivalently, excess returns rose
+from roughly 60% to roughly 75% of the base.[1] The paper's own abstract states
+the risk-free fraction "has gradually declined over time, averaging 40 percent
+from 1992–2002 and 25 percent from 2003–2013" (verified against OTA WP 111, this
+session). The decline is not an artifact of accelerated depreciation: computed
+on *economic* depreciation the risk-free fraction still averages "40 percent
+during the first half of the analysis and around 25 percent in the second
+half" (p. 8). Multinationals show a lower and more sharply declining fraction
+(~30%→15%); domestic corporations the highest (~55%→40%).
 
 This is the actual source of the widely circulated claim that "60–75% of the US
 corporate tax base is excess returns." It sits in a family of Treasury-data
@@ -66,10 +69,10 @@ The finding cuts two ways, per the wiki's [rent gradient](/wiki/geoism/):
 ## Sources
 
 1. Laura Power & Austin Frerick (2016), "Have Excess Returns to Corporations
-   Been Increasing Over Time?", *National Tax Journal* / Treasury OTA WP 111 —
-   used for the 40%→25% normal-return share finding (VERIFIED against the
-   Treasury PDF, read 2026-07-06).
-   [Treasury PDF](https://home.treasury.gov/system/files/131/wp-111.pdf) ·
+   Been Increasing Over Time?", Treasury Office of Tax Analysis Working Paper 111
+   — used for the 40%→25% normal-return share finding (abstract and pp. 7–8,
+   verified against the Treasury PDF this session; robust under economic
+   depreciation). [Treasury PDF](https://home.treasury.gov/system/files/131/wp-111.pdf) ·
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2810319)
 2. Julie-Anne Cronin, Emily Lin, Laura Power & Michael Cooper (2013),
    "Distributing the Corporate Income Tax," *National Tax Journal* 66(1);

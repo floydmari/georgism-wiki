@@ -22,13 +22,18 @@ variation.[1]
 
 ## Findings
 
-Higher personal and corporate income taxes **negatively affect the quantity
-and quality of inventive activity and shift its location** across states — at
-both the macro (state) and micro (individual inventor and firm) levels.
-Inventors respond to net-of-tax returns; corporate inventors respond more to
-corporate taxation.[1] [VERIFY: headline elasticities against the paper —
-citation and qualitative findings snippet-corroborated across three
-independent sources this session; the paper itself was proxy-blocked.]
+Higher personal and corporate income taxes **negatively affect the quantity of
+inventive activity and shift its location** across states, with quality (patent
+citations) moving in proportion to quantity so that *average* quality is largely
+unaffected.[1] The magnitudes are large. At the macro (state) level the authors
+report elasticities of "0.8 to 1.8 for personal net-of-tax rates and 1.3 to 2.8
+for corporate net-of-tax rates" for the number of patents, depending on the
+controls (verified against the NBER working-paper text this session). At the
+individual level the elasticity of an inventor's patents to the personal
+net-of-tax rate is "around 0.8" and of citations "around 1"; corporate inventors'
+patents respond to the *corporate* net-of-tax rate with an elasticity of 0.49.
+Inventors are also significantly less likely to locate in high-tax states —
+mobility, not just effort, drives much of the state-level corporate response.
 
 ## Role in the Wiki's Argument — the Inference Gap Both Sides Must Respect
 
@@ -61,6 +66,9 @@ generalized rent capture. Two disciplined readings:
 
 1. Ufuk Akcigit, John Grigsby, Tom Nicholas & Stefanie Stantcheva (2022),
    "Taxation and Innovation in the Twentieth Century," *Quarterly Journal of
-   Economics* 137(1), 329–385 — used for all findings above
-   (snippet-corroborated; magnitudes flagged [VERIFY] pending direct read).
-   [OUP](https://academic.oup.com/qje/article-abstract/137/1/329/6292271)
+   Economics* 137(1), 329–385 (working-paper version: NBER WP 24982, rev. March
+   2021) — used for all findings above; headline elasticities (macro 0.8–1.8
+   personal / 1.3–2.8 corporate; individual 0.8 patents / ~1 citations) verified
+   against the NBER PDF this session.
+   [OUP](https://academic.oup.com/qje/article-abstract/137/1/329/6292271) ·
+   [NBER WP 24982](https://www.nber.org/papers/w24982)

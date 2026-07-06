@@ -6,22 +6,34 @@ LOOP.md, tier-tagged by role: T1 editor · T2 staff writers · T3 copy desk.)*
 
 ## ⟳ RESUME HERE (checkpoint 2026-07-06 session vy8k5i — branch LIVE, PR #9 OPEN; successor directives)
 
-**EGRESS IS NOW OPEN (Floyd set allow-all, 2026-07-06)** — and it propagated to the
-RUNNING session vy8k5i after ~15 min (initial probes 403'd; opened by ~04:55Z). Session
-vy8k5i is executing the VERIFY-SWEEP itself: wave 1 done (Mirrlees ch16 "almost
-undeniable" + ch17 §17.3.2 ACE + ch18 recommendation, Power-Frerick 40%→25%, Norway
-71.8%/refund, Marshall Bk V Ch VIII-IX locators — all read from primaries). Exa key works
-(tested live). If a fresh session picks this up instead, in order:
+**EGRESS IS NOW OPEN (Floyd set allow-all, 2026-07-06)** and propagated to running sessions
+after ~15 min. NOTE — TWO sessions worked this branch concurrently on 2026-07-06 (not the
+solo-writer situation the handoff assumed): **Fable 5** (session_015AnWuio7rLvzpBXeAaaWUk) did
+"wave 1" (5 flags: Mirrlees, Power-Frerick, Norway, Marshall + the ch.16 land locator) and
+**Opus 4.8** (session vy8k5i-qcm0cb) did the full 12. Their overlapping edits were reconciled
+by rebase into the single DONE note below (Fable's richer Marshall/econlib quotes + ch.18
+feasibility finding kept; Opus's superset of the other 7 flags kept). Floyd paused the loop
+after this to sort out the Fable-5-concurrency question. If a fresh session resumes:
 1. `git fetch origin claude/georgism-wiki-campaign-vy8k5i && git checkout claude/georgism-wiki-campaign-vy8k5i`
    — CONTINUE this branch and PR #9 (NOT a new branch; PR #9 is unmerged and growing).
    Confirm egress first: `curl -sS -o /dev/null -w "%{http_code}" https://ifs.org.uk` → 200/30x.
-2. **[VERIFY-SWEEP tier:T2, top priority]** — work the session-vy8k5i flags now fetchable:
-   Mirrlees ch.17 ACE wording (ifs.org.uk taxbydesign.pdf); Power-Frerick 40%→25% (OTA WP
-   111 PDF); Zwick-Mahon 10.4%/16.9% (AEA); Branzoli-Caiumi 31.1%/5.4pp; Hebous-Ruf 3-5pp/
-   11pp magnitudes; Akcigit elasticities; Konings +7.4%/+6.1%; Norway 71.8% technical rate;
-   Marshall quasi-rent Book V chapter (OLL); Schumpeter "spectacular prizes" p.73-74;
-   Friedman 1978 venue; TCPA-1947 repeal year. Resolve or CORRECT each on its page;
-   upgrade Scan Depth Light→Medium where the primary was actually read.
+2. **[VERIFY-SWEEP tier:T2] — DONE 2026-07-06 (reconciled across both sessions).**
+   All 12 flags resolved against primary PDFs/official sources: **Mirrlees ACE** discussed
+   across ch.17 (design §17.3.2, p.421), ch.18 (open-economy feasibility, p.449) and ch.20
+   (headline recommendation) — the "17 vs 18" flag resolves as *both, plus 20*; Power-Frerick 40%→25% ✓ verbatim
+   (OTA WP 111, robust under economic depreciation too); Zwick-Mahon 10.4%/16.9% ✓ verbatim
+   (NBER WP 21876; +"small firms 95% more"); Branzoli-Caiumi 31.1%/5.4pp ✓ verbatim (EC Tax
+   Paper 72); Hebous-Ruf ✓ (3.5pp baseline / ~5pp hard-Belgian); Akcigit ✓ real elasticities
+   added (macro 0.8-1.8 personal / 1.3-2.8 corporate; indiv 0.8 patents); Konings ✓ SPLIT to
+   +7.4% employment / +6.1% investment (DOI .12624, not .12621); Norway 71.8% ✓ verbatim
+   (norskpetroleum.no, 56→71.8% technical); Marshall quasi-rent = Book V chs.VIII-IX ✓
+   (verbatim quote); Schumpeter = Part II ch.VI "Plausible Capitalism" pp.73-74 ✓ verbatim;
+   Friedman 1978 = *Times Herald* Norristown PA Dec.1 1978 (widely-attributed, softened flag
+   kept — not primary-confirmed); TCPA repeal = 1953 ✓ (TCPA Act 1953, legislation.gov.uk).
+   Scan Depth Light→Medium on 6 papers. Adjacent flags NOT in the 12, left/routed honestly:
+   IMF 17/70 Belgium ~40%-to-MNC figure (IMF server Akamai-403s the PDF → Hermes work order);
+   Watson-Muresianu Tax Foundation authorship (objection pg, single-snippet); Marshall 1909
+   land-memorandum position (people/alfred-marshall). PDFs cached in scratchpad, not committed.
 3. **Exa**: EXA_API_KEY may now be in env settings (Floyd adding); api.exa.ai should be
    reachable — run the people-enrichment sweep at LOW concurrency (1-2 concurrent).
 4. Then the queue: congestion-pricing [FIND] (WS-GEOISM priority c — now with real fetches);
@@ -30,6 +42,18 @@ undeniable" + ch17 §17.3.2 ACE + ch18 recommendation, Power-Frerick 40%→25%, 
    WS-TECH-RENTS research pages (meade-report, schwerhoff survey, Konings).
 5. Standing rules unchanged (campsite ≥5/shift, stub quota, delta rule, lint green,
    commit+push per shift, ~75-min wake-ups). Inbox is EMPTY (10/10 consumed).
+
+**NEXT SESSION START HERE (checkpoint 2026-07-06, session vy8k5i-qcm0cb):** The VERIFY-SWEEP
+(item 2 above) is COMPLETE — lint green (0 err, 464 warn, ratchet down from 473). Floyd
+paused the loop after this shift to re-evaluate reintroducing the Fable 5 model. Remaining
+open priorities, in order: (3) **Exa people-enrichment sweep** — api.exa.ai returns 404 on a
+bare GET but egress is open; run `scripts/exa_enrich.py` with the key Floyd supplies in-prompt
+at LOW concurrency (never commit the key). (4) **congestion-pricing [FIND]** (Vickrey /
+Singapore ERP / London 2003 / Stockholm-Eliasson — real fetches now work). (5) **texts/ PD
+seeding** — Paine's *Agrarian Justice* first (gutenberg.org fetchable, confirmed 200 this
+session). Then DST-as-tried [FIND], Great Smoky Mountains primary, remaining WS-TECH-RENTS
+research pages. Egress confirmed OPEN this session (ifs.org.uk/gutenberg/treasury/archive.org/
+oll all 200). Branch + PR #9 unchanged and growing.
 
 ## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-06 end-of-day — MERGED TO MAIN; directives for the next session)

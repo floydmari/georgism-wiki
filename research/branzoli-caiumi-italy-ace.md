@@ -31,10 +31,12 @@ reduced beneficiaries' leverage ratios**, with effects larger for smaller and
 mature firms and for financially vulnerable firms than sound ones. They
 conclude an incremental ACE can deliver most of the debt-bias correction of a
 full-stock ACE **at much lower revenue cost** — the design margin on which
-Belgium's regime foundered.[1] [VERIFY: reported take-up figures (a secondary
-snippet gives 31.1% of corporations using the deduction by 2014, cutting their
-IRES liability by 5.4 percentage points on average) against the paper — direct
-fetch was proxy-blocked this session.]
+Belgium's regime foundered.[1] Take-up grew steadily: the paper reports that
+"in 2014, 31.1 per cent of corporations benefited from the deduction, which
+lowered their tax debt for the Imposta sul reddito delle Società (IRES) by 5.4
+percentage points" (verified against the paper's EC Taxation Paper 72 version,
+this session). Absent the reform the beneficiaries' effective median IRES rate
+would have been 28.5% — 2.3 points higher than with the ACE.
 
 ## Why This Matters for the Geoist Case
 
@@ -58,7 +60,8 @@ tracks across the instrument file on the
 1. Nicola Branzoli & Antonella Caiumi (2020), "How effective is an incremental
    ACE in addressing the debt bias? Evidence from corporate tax returns,"
    *International Tax and Public Finance* 27(6), 1485–1519 — used for all
-   findings above (citation and headline findings snippet-corroborated;
-   take-up magnitudes flagged [VERIFY] pending direct read — proxy-blocked).
+   findings above; take-up figures (31.1% of corporations; 5.4pp IRES reduction,
+   2014) verified against the EC Taxation Paper 72 working-paper version this
+   session (p. 7).
    [DOI](https://doi.org/10.1007/s10797-020-09609-2) ·
    [EC Taxation Paper 72 version](https://taxation-customs.ec.europa.eu/system/files/2018-06/taxation-paper-72-ace.pdf)

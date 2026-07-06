@@ -26,10 +26,12 @@ the authors test what ACE adoption actually changed.[1]
 ## Findings
 
 1. **Debt ratios fell** at affiliates in ACE countries, as the design predicts —
-   the equity allowance removes the tax subsidy to leverage. [VERIFY: reported
-   magnitudes (secondary snippets suggest reductions of roughly 3–5 percentage
-   points generally and larger for Belgium's full-stock ACE) against the paper —
-   direct fetch was proxy-blocked this session.]
+   the equity allowance removes the tax subsidy to leverage. The paper's
+   regressions find "an ACE reduces the total debt ratio in ACE countries by
+   about 3 to 5 percentage points on average" — ~3.5pp in the baseline
+   specification, and ~5pp for "hard" (full-stock) ACE regimes such as Belgium's,
+   versus ~2.5pp for "soft" (incremental) versions (verified against the
+   working-paper text this session).
 2. **Passive investment rose; real investment did not.** ACE regimes increased
    intra-group lending and passive financial positions of affiliates, but had
    **no detectable effect on production (real) investment**.[1]
@@ -65,8 +67,8 @@ the [ACE page](/wiki/allowance-for-corporate-equity/).
 
 1. Shafik Hebous & Martin Ruf (2017), "Evaluating the effects of ACE systems on
    multinational debt financing and investment," *Journal of Public Economics*
-   156, 131–149 — used for all findings above (citation and qualitative results
-   snippet-corroborated across SSRN/ScienceDirect/RePEc listings; magnitudes
-   flagged [VERIFY] pending direct read — proxy-blocked).
+   156, 131–149 (working-paper version: Victoria Univ. of Wellington/CESifo,
+   Jan. 2017) — used for all findings above; debt-ratio magnitudes (3–5pp; 3.5pp
+   baseline, ~5pp hard-ACE) verified against the working-paper text this session.
    [DOI](https://doi.org/10.1016/j.jpubeco.2017.02.011) ·
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2613819)

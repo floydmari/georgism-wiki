@@ -63,7 +63,8 @@ of the [homevoter problem](/wiki/homevoters-will-block-lvt/).
   page (2026-07-06): "a cash-flow based tax was introduced in the special tax"
   from income year 2022; "investments are deducted immediately"; the special
   rate "was technically increased from 56 to 71.8 per cent" to keep the
-  combined 78%; and "the special tax value of the deficit is reimbursed."[8]
+  combined 78%; and a deduction for the calculated ordinary company tax
+  preserves neutrality, with the tax value of losses reimbursed.[8]
   It coexists with continued investment, though no formal causal evaluation
   was found this session.
 - **Australia's Petroleum Resource Rent Tax** (1988, from Garnaut &
@@ -80,10 +81,10 @@ of the [homevoter problem](/wiki/homevoters-will-block-lvt/).
 - **Partial moves:** the 2017 US TCJA's 100% bonus depreciation is a partial
   cash-flow element; the strongest quasi-experimental evidence in this whole
   literature — [Zwick & Mahon (2017, *AER*)](/wiki/zwick-mahon-expensing/) on
-  earlier bonus-depreciation episodes — finds expensing-type provisions raised
-  eligible investment by
-  roughly 10–17%, concentrated among smaller and cash-constrained firms
-  [VERIFY: exact figures 10.4%/16.9% against the paper]. The TCJA evaluations
+  earlier bonus-depreciation episodes — finds bonus depreciation raised eligible
+  investment relative to ineligible investment by **10.4% (2001–2004) and 16.9%
+  (2008–2010)**, concentrated among smaller and cash-constrained firms (verified
+  against the paper this session). The TCJA evaluations
   (Chodorow-Reich, Smith, Zidar & Zwick 2024) likewise find accelerated
   depreciation generated more investment per revenue dollar than rate cuts.[11]
 
@@ -137,7 +138,8 @@ direct fetches proxy-blocked — page-level verification routed to the Hermes wo
    episode and its defeat.
    [CRS analysis](https://www.everycrsreport.com/reports/R44823.html)
 8. Norwegian Petroleum Directorate / Skatteetaten, petroleum tax pages — used
-   for the 2022 cash-flow conversion and 78% combined rate.
+   for the 2022 cash-flow conversion, the 56→71.8% technical special-tax rate,
+   and the 78% combined marginal rate (verified this session).
    [norskpetroleum.no](https://www.norskpetroleum.no/en/economy/petroleum-tax/)
 9. Callaghan Review (Australian Treasury, 2017), PRRT review; Garnaut &
    Clunies Ross (1975), *Economic Journal* 85(338) — used for the PRRT design,

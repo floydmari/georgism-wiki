@@ -22,12 +22,14 @@ line — taxing future rental increments — after the
 The design lesson the wiki's [betterment levy](/wiki/betterment-levy/) page
 carries: at a 100% rate the charge removed the incentive to bring land
 forward, contributing to a frozen land market, and the development charge was
-repealed by the incoming Conservative government (1953) — a recurring
-pattern in which betterment-capture schemes at confiscatory rates fail where
-moderate recurrent land taxation persists. [VERIFY: repeal year (1953
-Town and Country Planning Act) and the land-market-freeze characterization
-against a scholarly assessment — currently cited via the betterment-levy
-page's flagged sources.]
+abolished by the incoming Conservative government's **Town and Country Planning
+Act 1953** (with the Town and Country Planning Act 1954 completing the unwinding
+of the Act's financial provisions) — a recurring pattern in which
+betterment-capture schemes at confiscatory rates fail where moderate recurrent
+land taxation persists.[2] The 1953 repeal year is confirmed by legislation.gov.uk
+and the amending-Acts record; the land-market-freeze characterization remains an
+interpretation drawn from the planning-history literature rather than a single
+quantified finding.
 
 ## See Also
 
@@ -41,6 +43,10 @@ page's flagged sources.]
    used for the act's place in the unearned-increment lineage (A-claim;
    provenance-pending scan — see the
    [book page](/wiki/economic-theory-in-retrospect/)).
-2. Wiki corpus: [Betterment Levy](/wiki/betterment-levy/) — used for the 100%
-   development charge and its fate (navigation; that page carries the
-   [CITATION NEEDED] flags for the primary statute and scholarly assessment).
+2. Town and Country Planning Act 1953 (1 & 2 Eliz. 2 c. 16), legislation.gov.uk
+   — the statute that abolished the 1947 Act's development charge; listed among
+   the 1947 Act's amending enactments in the official record. Verified this
+   session for the 1953 repeal year.
+   [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/16/enacted) ·
+   navigation: [Betterment Levy](/wiki/betterment-levy/) (the instrument family
+   and the UK's repeated attempts).

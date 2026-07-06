@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-06 by `scripts/verification_queue.py` (656 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (638 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -22,14 +22,13 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `books/economic-theory-in-retrospect.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 - `books/rethinking-economics-land-housing.md` — **VERIFY** legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a le
 
-## needs-book-copy (see sources/wanted-books.md) (47)
+## needs-book-copy (see sources/wanted-books.md) (45)
 
 - `concepts/land-as-commons.md` — **CITATION NEEDED** stable URL or publisher details for this book
 - `concepts/law-of-rent.md` — **CITATION NEEDED** a secondary academic source (textbook or survey) that formally restates Ricardo's Law of Rent and discusses its assumptions, the intensive vs. extensive margin 
 - `concepts/pigouvian-taxation.md` — **CITATION NEEDED** a stable URL for Hartzok (2008) — the ecological-georgism page references the book but does not supply a verifiable external link.
 - `concepts/pigouvian-taxation.md` — **CITATION NEEDED** a stable external URL for this book — not currently available in the corpus.
 - `concepts/production-boundary.md` — **CITATION NEEDED** a direct statement, from a source not paywalled, of whether the book proposes land value taxation or land value capture as a policy instrument.
-- `concepts/quasi-rent.md` — **VERIFY** exact chapter/section of the quasi-rent definition in the 8th edition (Book V) on direct read — the wiki holds only secondary treatments.
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations for the full list of five proposals and their chapter assignments — derived from the book's table of contents and secondary summaries, not 
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citation for the QV mechanism description — derived from the book's published summaries and Posner & Weyl's prior academic papers, not directly verif
 - `concepts/radical-markets.md` — **CITATION NEEDED** page-level citations from the primary text of *Radical Markets* — this session did not fetch the book directly. The five-proposal structure, the Georgist-lineag
@@ -39,7 +38,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/thomas-piketty.md` — **CITATION NEEDED** direct page-level citation from the book's front matter or preface for Piketty's institutional affiliations; drawn here from the wiki's research page on the boo
 - `people/thomas-piketty.md` — **VERIFY** these ratio figures are drawn from the companion Piketty & Zucman (2014) QJE paper and secondary summaries, not from a directly fetched copy of the book's prima
 - `places/chicago.md` — **VERIFY** this page was drafted from the wiki's existing research summary of Hoyt's book, secondary summaries, and Internet Archive metadata — not a full page-by-page rea
-- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** page/chapter locator (commonly cited at pp. 73–74) against a copy of the book — snippet-corroborated only.
 - `research/barnes-sky-trust.md` — **VERIFY** exact split and dollar figure — drawn from a secondary review rather than a directly fetched copy of the book's text; this session's egress could not reach isla
 - `research/barnes-sky-trust.md` — **CITATION NEEDED** a directly fetched/verified copy of the book's own text for exact dividend figures, page numbers, and any direct quotations — this session's web access to islan
 - `research/barnes-sky-trust.md` — **VERIFY** the precise legislative history connecting this book/proposal to the Cantwell-Collins CLEAR Act and other cap-and-dividend bills — stated above from general pol
@@ -72,15 +70,14 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (136)
+## needs-unblocked-web (proxy allowlist or manual fetch) (129)
 
-- `concepts/allowance-for-corporate-equity.md` — **VERIFY** the ACE proposal's exact chapter (17 vs 18) and wording against the IFS PDF — proxy-blocked this session.
+- `concepts/allowance-for-corporate-equity.md` — **VERIFY** the specific ~40%-to-MNC- vehicles figure attributed to IMF Country Report 17/70 remains single-sourced; IMF's server blocks direct PDF access (Akamai 403), so 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
 - `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
 - `concepts/holdout-problem.md` — **VERIFY** specific mechanism details, as the full paper text was not fetched in this session; claims are drawn from the existing wiki research page and stub, which cite t
 - `concepts/land-bubble.md` — **VERIFY** the exact peak-year list against Hoyt's primary text directly
 - `concepts/land-bubble.md` — **VERIFY** pending direct confirmation against Hoyt's primary text. 6. This wiki's [2008 Financial Crisis
-- `concepts/quasi-rent.md` — **VERIFY** above pending direct read). [Online Library of Liberty edition
 - `concepts/tiebout-model.md` — **VERIFY** the precise framing of Tiebout's own caveats could not be verified from the primary text in this session; the characterization is drawn from how the paper is de
 - `concepts/tiebout-model.md` — **CITATION NEEDED** direct access to the primary text — this session could not fetch the original paper; bibliographic details are corroborated across multiple corpus pages but the
 - `concepts/tiebout-model.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session's sandboxed web access could not fetch the original paper from JSTOR or the University of Chicago 
@@ -117,7 +114,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `events/repeal-of-the-corn-laws.md` — **VERIFY** add a specific scholarly citation — e.g., Schonhardt-Bailey, *From the Corn Laws to Free Trade* (MIT, 2006) — on direct read.
 - `events/saratoga-single-tax-debate.md` — **VERIFY** the hosting body (American Social Science Association) and published proceedings citation on direct read.
 - `narratives/citizens-dividend-narrative.md` — **VERIFY** add a stable free-text URL — session web access exhausted before the link could be confirmed.
-- `research/akcigit-taxation-innovation.md` — **VERIFY** pending direct read). [OUP
 - `research/arnold-tax-growth-ej.md` — **CITATION NEEDED** this session's direct web access to onlinelibrary.wiley.com, academic.oup.com, and kar.kent.ac.uk (the University of Kent's open repository listing for this art
 - `research/arnott-hgt-practical-guide.md` — **VERIFY** current faculty-page URL, as this session's fetch relied on the paper's own author footnote (p. 1057) rather than a live BC directory page.
 - `research/autor-superstar-firms.md` — **CITATION NEEDED** verbatim page/paragraph cite — quoted phrase reconstructed from secondary search summaries of the AER abstract, not a direct primary-text fetch this session
@@ -127,7 +123,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/bezemer-no-one-saw-this-coming.md` — **VERIFY** the exact inclusion list and criteria wording on direct read of the MPRA text.
 - `research/bowman-bell-lvt-distribution.md` — **VERIFY** full text not directly fetched this session — journals.uchicago.edu and jstor.org both returned HTTP 403; findings triangulated from the RePEc abstract plus mul
 - `research/bowman-bell-lvt-distribution.md` — **CITATION NEEDED** a stable DOI/JSTOR link for this paper — not independently verified with a direct fetch this session; cited here on the basis of multiple agreeing secondary sum
-- `research/branzoli-caiumi-italy-ace.md` — **VERIFY** pending direct read — proxy-blocked). [DOI
 - `research/brueckner-site-value-taxation.md` — **VERIFY** this session's network policy blocked a direct fetch of this page, so its exact contents (full text vs. borrow-only access) were not independently confirmed
 - `research/brueckner-site-value-taxation.md` — **VERIFY** this session could not directly fetch the Lincoln Institute PDF to confirm the exact passage discussing Brueckner (1986)
 - `research/carroll-yinger-benefit-tax-rental.md` — **VERIFY** this session could not directly retrieve searchable full text of the Löffler & Siegloch working paper(s) — the PDF was not machine-readable via this session's t
@@ -155,7 +150,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/hamilton-benefit-tax.md` — **VERIFY** this session could not directly fetch the Lincoln Institute PDF (403); the figure and characterization are drawn from search-engine snippets summarizing the pap
 - `research/hartwick-rule.md` — **CITATION NEEDED** this session's web access to jstor.org returned a 403 and could not retrieve full text; bibliographic details and the rule's content are corroborated by multipl
 - `research/hartwick-rule.md` — **CITATION NEEDED** a directly fetched/verified copy of the original 1977 AER text — this session's proxied web access returned 403s for jstor.org and several secondary aggregator 
-- `research/hebous-ruf-ace.md` — **VERIFY** pending direct read — proxy-blocked). [DOI
 - `research/herkenhoff-ohanian-prescott-tarnishing.md` — **VERIFY** substance of the Tonetti comment — not fetched in this session
 - `research/hilber-vermeulen-england-supply.md` — **CITATION NEEDED** all specific findings, magnitudes, methodology details, and conclusions — no source text was fetched for this page; the summary below is drafted conservatively 
 - `research/hilber-vermeulen-england-supply.md` — **VERIFY** confirmed by a full-text read — this claim is inferred from the paper's title and the task metadata notes, not from a direct reading of the source text in this 
@@ -192,8 +186,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/piketty-capital-21st-century.md` — **CITATION NEEDED** This page was drafted primarily from search-result snippets, secondary summaries, and other wiki pages' existing citations; this session's web access could not 
 - `research/plummer-lvt-distribution.md` — **VERIFY** the exact scope differences between the 2009 working paper and the 2010 journal article — this wiki could not directly fetch either full text in this research p
 - `research/plummer-lvt-distribution.md` — **CITATION NEEDED** a directly fetched copy of the full National Tax Journal article text (via JSTOR, University of Chicago Press, or an author's institutional repository copy) to 
-- `research/power-frerick-excess-returns.md` — **VERIFY** exact figures against OTA WP 111 — snippet-corroborated across multiple independent sources this session, but the paper itself was proxy-blocked.
-- `research/power-frerick-excess-returns.md` — **VERIFY** flag above). [Treasury PDF
 - `research/rochet-tirole-two-sided.md` — **VERIFY** exact wording of the "both sides on board" formulation — no source text was fetched in this session
 - `research/rochet-tirole-two-sided.md` — **VERIFY** all substantive claims about the paper's content against the primary text
 - `research/rothbard-single-tax.md` — **VERIFY** exact wording against primary text — corroborated via secondary quotation only in this session
@@ -209,7 +201,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zodrow-three-views.md` — **VERIFY** this session's egress policy blocked direct retrieval of the full PDF text from the Rice repository and the National Tax Journal's own archive; the account belo
 - `research/zodrow-three-views.md` — **VERIFY** the precise wording of Zodrow's stated preference could not be quoted directly from the primary text in this session; the characterization above is drawn from h
 - `research/zodrow-three-views.md` — **CITATION NEEDED** a directly fetched, page-level-cited copy of the primary 2001 National Tax Journal text — this session's egress policy returned 403 responses for ideas.repec.or
-- `research/zwick-mahon-expensing.md` — **VERIFY** exact figures against the paper — snippet-corroborated this session; direct fetch proxy-blocked.
 
 ## needs-new-source (research/forage task) (32)
 
@@ -246,11 +237,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (426)
+## unclassified (T1 triage) (417)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
-- `concepts/allowance-for-corporate-equity.md` — **VERIFY** magnitudes against the *Canadian Journal of Economics* paper
-- `concepts/allowance-for-corporate-equity.md` — **VERIFY** IMF Country Report 17/70 figures — single-source snippet
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a canonical definition from a UK planning statute or Lincoln Institute publication — the supplied corpus does not contain a primary definition of "betterment le
 - `concepts/betterment-levy.md` — **CITATION NEEDED** a peer-reviewed or official source making this comparison explicitly — the supplied corpus's Lloyd George page makes a related point about annual site-value tax
 - `concepts/betterment-levy.md` — **CITATION NEEDED** the 20% rate and 0.2% rate are drawn from the supplied corpus page on Lloyd George, which cites Works in Progress — a primary statute reference would strengthen
@@ -268,8 +257,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `concepts/betterment-levy.md` — **CITATION NEEDED** A scholarly survey of UK betterment levy history covering all four attempts (1909, 1947, 1967, 1976) and their repeals — e.g., a Lincoln Institute publication, 
 - `concepts/betterment-levy.md` — **CITATION NEEDED** A source on planning gain / Section 106 agreements as the modern UK analogue to betterment levies, including any assessment of their effectiveness as land value
 - `concepts/betterment-levy.md` — **CITATION NEEDED** A canonical primary definition of "betterment levy" as a term of art in UK planning or public-finance law.
-- `concepts/cash-flow-tax.md` — **VERIFY** technical rate 71.8% and 2022 conversion details against Norwegian official sources — snippet-corroborated only.
-- `concepts/cash-flow-tax.md` — **VERIFY** exact figures 10.4%/16.9% against the paper
 - `concepts/ebcor.md` — **VERIFY** whether Gaffney explicitly distinguishes EBCOR from ATCOR as a separate named theorem, or whether EBCOR is implicit in his broader argument about hidden taxable
 - `concepts/ebcor.md` — **CITATION NEEDED** specific critiques of EBCOR or of the claim that deadweight losses are fully capitalized into land rent
 - `concepts/holdout-problem.md` — **VERIFY** whether Tideman and Plassmann discuss eminent domain explicitly as a benchmark or alternative
@@ -363,6 +350,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/homer-hoyt.md` — **VERIFY** full-text confirmation of Light's specific claims about Hoyt's role.
 - `people/homer-hoyt.md` — **VERIFY** replace this general Wikipedia context citation with a dedicated peer-reviewed source on the FHA Underwriting Manual specifically, e.g. Jackson's *Crabgrass Fro
 - `people/jan-eeckhout.md` — **VERIFY** Eeckhout's birth year, nationality, and doctoral training are not documented in the supplied corpus and are omitted pending a reliable external source. His pers
+- `people/johann-heinrich-von-thunen.md` — **VERIFY** Tellow farm details and Isolated State publication dates (1826/1850 parts) against a biographical source on backfill.
 - `people/joseph-fels.md` — **VERIFY** Fels Fund founding year and British land-colony specifics on a direct biographical source — e.g., Mary Fels' 1916 biography.
 - `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's birth and death dates, pre-mayoral biography, and exact number of terms served — not available in the wiki's current sources
 - `people/l-d-taylor.md` — **VERIFY** precise 1911 land-revenue-share figure — reported consistently at "close to four-fifths"/79% across secondary sources, but this wiki has not directly confirmed 
@@ -378,7 +366,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/michael-davitt.md` — **CITATION NEEDED** Davitt's Fenian background, imprisonment, and political evolution — not covered in the supplied corpus sources.
 - `people/michael-davitt.md` — **CITATION NEEDED** Details of post-1881 Irish land purchase legislation and Davitt's role in subsequent land reform.
 - `people/michael-davitt.md` — **VERIFY** The precise nature and timing of the George–Davitt divergence on remedy — corpus sources describe divergent preferences but do not document a specific public di
-- `people/milton-friedman.md` — **VERIFY** primary locator for the 1978 remark (commonly given as a *Human Events* interview or the 1978 Pepperdine appearance) — pin the original venue before citing spec
+- `people/milton-friedman.md` — **VERIFY** the *Times Herald* attribution is repeated across secondary and advocacy sources but was not confirmed this session against a scanned original — treat the venue
 - `people/moritz-schularick.md` — **VERIFY** current affiliation and exact dates could not be confirmed from the supplied corpus pages alone
 - `people/moritz-schularick.md` — **VERIFY** Schularick's current institutional affiliation, birth year, doctoral training, and any additional land-specific contributions beyond these two papers could not 
 - `people/murray-rothbard.md` — **CITATION NEEDED** exact chapter/section number and direct text of the *Man, Economy, and State* treatment — not independently verified in this drafting session
@@ -432,9 +420,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `organizations/common-wealth-canada.md` — **VERIFY** precise founding date/legal registration
 - `organizations/common-wealth-canada.md` — **VERIFY** full roster of staff, board, and advisors — the organisation's team page could not be independently retrieved at time of writing.
 - `organizations/fairhope-single-tax-corporation.md` — **CITATION NEEDED** the specific founders of Fairhope, the circumstances of the site selection in Alabama, and the early organizational structure of the Corporation. The corpus con
-- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** above). 2. Ufuk Akcigit, John Grigsby, Tom Nicholas & Stefanie Stantcheva (2022), "Taxation and Innovation in the Twentieth Century," *Quarterly Journal of Econ
 - `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** authorship — single-snippet attribution.
-- `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** flags). 10. Julie-Anne Cronin et al. (2013), *National Tax Journal* 66(1); Laura Power & Austin Frerick (2016), OTA WP 111; Edward Fox (2020), *Journal of Empir
 - `events/alaska-permanent-fund.md` — **CITATION NEEDED** direct apfc.org history-page URL on next touch
 - `events/detroit-lvt-proposal.md` — **CITATION NEEDED** specific plan document URL and news citations on next touch
 - `events/irish-land-war.md` — **CITATION NEEDED** specific data on eviction numbers and harvest failures from 1877–79, from a primary or authoritative secondary source
@@ -466,7 +452,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/akcigit-ates-business-dynamism.md` — **CITATION NEEDED** exact page range and DOI for the published AEJ:Macro version — not verified this session
 - `research/akcigit-ates-business-dynamism.md` — **CITATION NEEDED** direct URL and verification of content
 - `research/akcigit-ates-business-dynamism.md` — **CITATION NEEDED** the published AEJ:Macro 13(1) version's exact page range, DOI, and any differences from the NBER working-paper version — this session worked from the NBER WP 25
-- `research/akcigit-taxation-innovation.md` — **VERIFY** headline elasticities against the paper — citation and qualitative findings snippet-corroborated across three independent sources this session; the paper itself
 - `research/albouy-what-are-cities-worth.md` — **VERIFY** exact revision history between the 2009 NBER draft and the 2016 published version; the two versions differ somewhat in title and framing
 - `research/albouy-what-are-cities-worth.md` — **VERIFY** exact sample year and whether later vintages were also used
 - `research/albouy-what-are-cities-worth.md` — **CITATION NEEDED** exact percentage-point split from the Table 3 variance decomposition, e.g. the reported fractions-of-variance figures for land rents (variance 1.056; trade-prod
@@ -489,7 +474,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/bowman-bell-lvt-distribution.md` — **VERIFY** exact magnitude/elasticity figures from the full text — this pass relies on the RePEc/IDEAS abstract and multiple agreeing secondary summaries rather than a dir
 - `research/bowman-bell-lvt-distribution.md` — **CITATION NEEDED** the precise mechanism as stated in the authors' own words — full text not directly accessible this session.
 - `research/bowman-bell-lvt-distribution.md` — **VERIFY** whether this Chesterfield/Highland result appears within this same 2008 NTJ article or in a separate, closely related Bowman & Bell paper/report — sources found
-- `research/branzoli-caiumi-italy-ace.md` — **VERIFY** reported take-up figures (a secondary snippet gives 31.1% of corporations using the deduction by 2014, cutting their IRES liability by 5.4 percentage points on 
 - `research/brueckner-site-value-taxation.md` — **VERIFY** the precise elasticity conditions under which land value rises vs. falls, and how "plausible" values are calibrated, could not be confirmed from the full text i
 - `research/brueckner-site-value-taxation.md` — **CITATION NEEDED** a directly verified read of the full paper to confirm the exact elasticity conditions, functional-form assumptions, and any additional results not captured in t
 - `research/brueckner-site-value-taxation.md` — **CITATION NEEDED** direct confirmation of how Brueckner's paper itself relates to or cites Arnott & MacKinnon — this session found the two papers discussed together in secondary s
@@ -562,7 +546,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/hartwick-rule.md` — **VERIFY** whether any documented history of the Alaska Permanent Fund's design cites Hartwick or contemporaneous exhaustible-resource economics
 - `research/hartwick-rule.md` — **CITATION NEEDED** direct verification of page range; drawn from consistent secondary-source citation
 - `research/hartwick-rule.md` — **VERIFY** full publication venue and year — accessed via a VU University Amsterdam research-portal listing; could not confirm full citation details in this session
-- `research/hebous-ruf-ace.md` — **VERIFY** reported magnitudes (secondary snippets suggest reductions of roughly 3–5 percentage points generally and larger for Belgium's full-stock ACE) against the paper
 - `research/herkenhoff-ohanian-prescott-tarnishing.md` — **VERIFY** the substance of the Tonetti (2018) published comment on this paper — flagged for a future editor to review and, if warranted, fold into the Nuances and Limits 
 - `research/hilber-vermeulen-england-supply.md` — **VERIFY** Vermeulen's institutional affiliation at time of publication
 - `research/hilber-vermeulen-england-supply.md` — **CITATION NEEDED** exact publication venue — working paper vs. peer-reviewed journal; the LSE eprints version may be a working paper draft of a subsequently published article
@@ -672,6 +655,5 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/zingales-political-theory-firm.md` — **VERIFY** confirm JEP 31(3) publication details
 - `research/zingales-political-theory-firm.md` — **VERIFY** JEP publication details — the task metadata states this was published in JEP 31(3), but the NBER working paper text does not include the JEP citation; a future 
 - `research/zingales-political-theory-firm.md` — **VERIFY** Zingales states "I identify six of them" regarding non-market factors but the body text appears to list five clearly (source of political power, media market, p
-- `research/zwick-mahon-expensing.md` — **VERIFY** flag above). [AEA
 - `books/anderson-your-citizens-dividend.md` — **VERIFY** pin the vintage against the PFD historical table on next Alaska-page touch.
 

@@ -43,14 +43,15 @@ benchmark-dependent.[8]
 ## The Mainstream Endorsement
 
 The [Mirrlees Review](/wiki/mirrlees-review/) (*Tax by Design*, 2011)
-recommended introducing an ACE into UK corporation tax. The design is set out
-in §17.3.2 ("An Allowance for Corporate Equity," Ch. 17, *Taxing Corporate
-Income*): "The effect is again to remove the normal return on equity-financed
-investment from the corporate tax base" (p. 421). The recommendation is
-completed in Ch. 18: introducing an ACE "would achieve this" reform of not
-taxing the normal return, and "appears to be quite feasible for an open
-economy such as the UK" (p. 449). (Verified against the IFS PDF,
-2026-07-06.)[3] The IMF has pressed
+recommended introducing an ACE into UK corporation tax. The design is set out in
+§17.3.2 ("An Allowance for Corporate Equity," Ch. 17, *Taxing Corporate Income*),
+whose effect is "to remove the normal return on equity-financed investment from
+the corporate tax base" (p. 421); Ch. 18 argues the reform "appears to be quite
+feasible for an open economy such as the UK" (p. 449); and it is restated among
+the Review's headline recommendations in Ch. 20 — "Introduce an allowance for
+corporate equity into the corporation tax to align treatment of debt and equity
+and ensure that only 'excess' returns to investment are taxed" (verified against
+the IFS PDF, 2026-07-06).[3] The IMF has pressed
 the same design as the remedy for **debt bias** — the standard corporate tax's
 subsidy to leverage, which it treats as a macro-financial-stability problem
 (IMF 2016; De Mooij 2011).[4]
@@ -72,18 +73,24 @@ an honestly mixed one:
   production investment** — unilateral ACEs open a "double dip" (a notional
   deduction in the ACE country plus interest deductions elsewhere).[7] Against
   this, Konings, Lecocq & Merlevede (2022) find Belgium's NID raised foreign
-  affiliates' employment and investment (reported at roughly +7% each —
-  [VERIFY: magnitudes against the *Canadian Journal of Economics* paper]).[9]
-  The dispute is live; the wiki carries both.
+  affiliates' employment by **7.4%** and investment by **6.1%** on average after
+  the reform (event-study design; smaller but significant +2.7% for domestic
+  Belgian firms — verified against the *Canadian Journal of Economics* paper,
+  DOI 10.1111/caje.12624, this session).[9] The dispute is live — Hebous–Ruf find
+  no *production*-investment effect for multinationals while Konings et al. find
+  a positive employment/investment effect concentrated in affiliates; the wiki
+  carries both.
 - **The political-economy record is itself a finding.** Every full European ACE
   has been repealed: Croatia (1994–2001), Austria (2000–04), Latvia (2009–14),
   Belgium (2006–23, after its base was narrowed in 2018 and its bond-linked
   notional rate fell toward zero), Italy (2011–2024, abolished, reinstated,
   super-charged, then repealed again).[5][6][10] Belgium's experience adds the
   fiscal caution: by 2014 the deduction was worth a large share of corporate tax
-  revenue, with roughly 40% of it claimed by multinational financing vehicles
-  attracted by the regime itself [VERIFY: IMF Country Report 17/70 figures —
-  single-source snippet]. A rent-only base is visibly expensive up front, and
+  revenue, with a large share reportedly claimed by multinational financing
+  vehicles attracted by the regime itself [VERIFY: the specific ~40%-to-MNC-
+  vehicles figure attributed to IMF Country Report 17/70 remains single-sourced;
+  IMF's server blocks direct PDF access (Akamai 403), so this is routed to the
+  Hermes work order rather than resolved here]. A rent-only base is visibly expensive up front, and
   its benefits (undistorted marginal investment) are invisible in any budget
   line — a transitional-gains-trap-adjacent fragility that Geoist instruments
   in every domain share.
