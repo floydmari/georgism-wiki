@@ -24,4 +24,4 @@ Friedman's endorsement demonstrates that the efficiency case for LVT does not de
 
 ## Sources
 
-1. Milton Friedman, 1978 interview (the "least bad tax" remark), widely cited in the land-tax literature.
+1. Milton Friedman, 1978 interview (the "least bad tax" remark), widely cited in the land-tax literature — used for the quotation and its framing as a cross-ideological efficiency concession. [VERIFY: primary locator for the 1978 remark (commonly given as a *Human Events* interview or the 1978 Pepperdine appearance) — pin the original venue before citing specifics beyond the quote itself.]

@@ -80,7 +80,7 @@ Anderson extensively cites Harrison's work and credits Harrison with the insight
 
 ## Sources
 
-1. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (London: Shepheard-Walwyn, 2008). ISBN 978-0-85683-263-5. 464 pp. — primary source for all book claims (Scan Depth: Heavy; verified against primary text 2026-07-05).
+1. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (London: Shepheard-Walwyn, 2008). ISBN 978-0-85683-263-5. 464 pp. — used for all book claims (Scan Depth: Heavy; verified against primary text 2026-07-05).
 2. [Shepheard-Walwyn author page](https://shepheardwalwyn.com/phillip-j-anderson-author/) — confirms RMIT graduation (1985, accounting and economics), founding of EIS (1991), and managing director role.
 3. [Verso Books (AU)](https://versobooks.com.au/p/the-secret-life-of-real-estate-banking-9904887e-d731-4e89-882c-498bd42df348) — confirms Anderson is Australian, commutes between Australia, London, and the USA.
 4. [Property Share Market Economics](https://propertysharemarketeconomics.com/) — Anderson's commercial investment service; "Meet Phil and Akhil" section confirms co-leadership with Akhil Patel and "almost five decades' experience."

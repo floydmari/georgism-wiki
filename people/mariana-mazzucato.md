@@ -24,5 +24,5 @@ Mazzucato brings the language of [rent-seeking](/wiki/rent-seeking/) into mainst
 
 ## Sources
 
-1. Mazzucato, Ryan-Collins & Gouzoulis (2023), "Mapping modern economic rents" — [wiki summary](/wiki/mazzucato-mapping-rents/)
-2. Mariana Mazzucato (2018), *The Value of Everything: Making and Taking in the Global Economy* (book) — [wiki summary](/wiki/mazzucato-value-of-everything/).
+1. Mazzucato, Ryan-Collins & Gouzoulis (2023), "Mapping modern economic rents," *Cambridge Journal of Economics* — used for the multi-domain rent framework attributed to her here. [wiki summary](/wiki/mazzucato-mapping-rents/)
+2. Mariana Mazzucato (2018), *The Value of Everything: Making and Taking in the Global Economy* (book) — used for the value-creation vs value-extraction theme and the national-accounting critique. [wiki summary](/wiki/mazzucato-value-of-everything/)
