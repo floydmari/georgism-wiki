@@ -30,4 +30,4 @@ The Fund is the most prominent, durable demonstration that [resource-rent divide
 
 ## Sources
 
-1. Alaska Permanent Fund Corporation — history of the Fund and Dividend (established 1976; first dividend 1982).
+1. Alaska Permanent Fund Corporation — used for the Fund's history and dividend record (established 1976; first dividend 1982). [CITATION NEEDED: direct apfc.org history-page URL on next touch]

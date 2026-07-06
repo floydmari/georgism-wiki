@@ -46,4 +46,4 @@ the pairing this page's headline assessment insists on.
 
 ## Sources
 
-1. [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) · [Tomson (2016)](/wiki/tomson-estonia-lvt/)
+1. [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) · [Tomson (2016)](/wiki/tomson-estonia-lvt/) — used for the construction and land-market evidence walked through above; full citations live on the linked research pages.

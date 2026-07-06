@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-06 by `scripts/verification_queue.py` (655 markers). 
+Generated 2026-07-06 by `scripts/verification_queue.py` (656 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -246,7 +246,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/the-land-question.md` — **CITATION NEEDED** contemporary newspaper primary source for the arrest, e.g. a digitized Irish or American paper from August 1882
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (425)
+## unclassified (T1 triage) (426)
 
 - `concepts/agglomeration-economies.md` — **CITATION NEEDED** direct verification of Fiorentino & Moogan's model structure and findings — the wiki's research page for this paper is based on the SSRN abstract only and could
 - `concepts/allowance-for-corporate-equity.md` — **VERIFY** magnitudes against the *Canadian Journal of Economics* paper
@@ -435,6 +435,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** above). 2. Ufuk Akcigit, John Grigsby, Tom Nicholas & Stefanie Stantcheva (2022), "Taxation and Innovation in the Twentieth Century," *Quarterly Journal of Econ
 - `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** authorship — single-snippet attribution.
 - `objections/taxing-quasi-rents-kills-innovation.md` — **VERIFY** flags). 10. Julie-Anne Cronin et al. (2013), *National Tax Journal* 66(1); Laura Power & Austin Frerick (2016), OTA WP 111; Edward Fox (2020), *Journal of Empir
+- `events/alaska-permanent-fund.md` — **CITATION NEEDED** direct apfc.org history-page URL on next touch
 - `events/detroit-lvt-proposal.md` — **CITATION NEEDED** specific plan document URL and news citations on next touch
 - `events/irish-land-war.md` — **CITATION NEEDED** specific data on eviction numbers and harvest failures from 1877–79, from a primary or authoritative secondary source
 - `events/irish-land-war.md` — **VERIFY** the precise scope of the 1881 Act's land-purchase provisions and whether they were a minor or major element of the legislation

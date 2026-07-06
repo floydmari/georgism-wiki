@@ -98,6 +98,7 @@ domains this instrument is proposed for, not to its resource-sector record.
 
 ## See Also
 
+- [Outcome: Rent-targeting corporate taxes reduce debt bias](/wiki/rent-targeting-taxes-reduce-debt-bias/) — the evidence-graded verdict
 - [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) — the accrual route to the same base
 - [Quasi-Rent](/wiki/quasi-rent/) · [Economic Rent](/wiki/economic-rent/)
 - [Geoism](/wiki/geoism/) — the umbrella program this instrument serves

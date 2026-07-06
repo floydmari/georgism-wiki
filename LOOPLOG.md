@@ -687,3 +687,24 @@ before citing — do not write from memory). Registry: eBook row at Heavy scan.
 beaten); lint green; preview links verified. GitHub MCP disconnected mid-session (needs
 re-auth via claude.ai connector settings) — git push unaffected; PR #9 description refresh
 deferred until re-auth.
+
+---
+
+## 2026-07-06n — Shift 5 (session vy8k5i): the SYNTHESIS outcome ships — 16th outcome, first non-land one
+
+outcomes/rent-targeting-taxes-reduce-debt-bias — the wiki's 16th outcome and its first
+outside the land core, written to the reframed scope the find report demanded (debt bias +
+marginal-investment neutrality, NOT "avoids investment distortion"). Evidence walked
+strongest-first with body parity: Zwick-Mahon (expensing→investment, AER) >
+Branzoli-Caiumi (incremental-ACE leverage) > Power-Frerick (base composition) >
+Domar-Musgrave (conditional risk-neutrality — support AND boundary); challenged_by
+Hebous-Ruf (double-dip, null MNE real investment; Konings counter carried). Both mandatory
+caveats wired in their own section: FPS rent-sharing incidence + the Schumpeterian gate.
+Rent-gradient closing: the design motion generalizes; the land case stays cleaner on every
+margin; no published Georgist framing exists — analogy labeled as analysis. Bidirectional
+supports_outcomes added on 4 research pages; inbound links from ACE, cash-flow-tax, and the
+objection. Hermes check: no PRs, no new inbox.
+
+Campsite: 5 more Sources annotated (alaska-permanent-fund, 1909-peoples-budget,
+single-tax-colonies, lvt-improves-housing-affordability, resource-rent-dividends-work).
+350 pages; warnings 470 (baseline 478); lint green; preview links verified.

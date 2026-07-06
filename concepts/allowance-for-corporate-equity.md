@@ -100,6 +100,7 @@ plainly.[12]
 
 ## See Also
 
+- [Outcome: Rent-targeting corporate taxes reduce debt bias](/wiki/rent-targeting-taxes-reduce-debt-bias/) — the evidence-graded verdict
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the expensing route to the same rent-only base
 - [Quasi-Rent](/wiki/quasi-rent/) — why "above-normal" is not automatically "unearned"
 - [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) — the mandatory counterweight

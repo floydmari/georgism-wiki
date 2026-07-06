@@ -154,6 +154,7 @@ evidence base thins exactly where the claimed rents persist longest.
 - [Quasi-Rent](/wiki/quasi-rent/) — the concept doing the work
 - [Geoism](/wiki/geoism/) — the rent gradient this objection anchors
 - [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) · [Cash-Flow Tax](/wiki/cash-flow-tax/) — the design responses
+- [Outcome: Rent-targeting corporate taxes reduce debt bias](/wiki/rent-targeting-taxes-reduce-debt-bias/) — the outcome this objection gates
 - [Objection: The Search-Theoretic Critique](/wiki/search-theoretic-critique/) — the same structure aimed at land discovery
 - [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/) — the contested diagnosis
 

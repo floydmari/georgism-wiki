@@ -7,6 +7,7 @@ year: 1944
 tier: Important
 source_url: https://academic.oup.com/qje/article-abstract/58/3/388/1896885
 stub: false
+supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
 excerpt: "The 1944 QJE classic showing that a proportional tax leaves risk-taking undamaged — and can even encourage it — only with full loss offset: the state must share losses as fully as gains. Since no real tax system offers full refundability, this is the analytic hinge of the Schumpeterian objection to rent taxation as practiced."
 last_reviewed: 2026-07-06
 ---
