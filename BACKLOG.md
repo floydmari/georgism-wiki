@@ -6,10 +6,12 @@ LOOP.md, tier-tagged by role: T1 editor · T2 staff writers · T3 copy desk.)*
 
 ## ⟳ RESUME HERE (checkpoint 2026-07-06 session vy8k5i — branch LIVE, PR #9 OPEN; successor directives)
 
-**EGRESS IS NOW OPEN (Floyd set allow-all, 2026-07-06)** — but the policy applies at
-container creation, so only sessions started AFTER the change get it. Session vy8k5i
-(8 shifts, PR #9) ran fully proxy-blocked; every number it shipped is snippet-corroborated
-with [VERIFY] flags. A successor session with open egress must, in order:
+**EGRESS IS NOW OPEN (Floyd set allow-all, 2026-07-06)** — and it propagated to the
+RUNNING session vy8k5i after ~15 min (initial probes 403'd; opened by ~04:55Z). Session
+vy8k5i is executing the VERIFY-SWEEP itself: wave 1 done (Mirrlees ch16 "almost
+undeniable" + ch17 §17.3.2 ACE + ch18 recommendation, Power-Frerick 40%→25%, Norway
+71.8%/refund, Marshall Bk V Ch VIII-IX locators — all read from primaries). Exa key works
+(tested live). If a fresh session picks this up instead, in order:
 1. `git fetch origin claude/georgism-wiki-campaign-vy8k5i && git checkout claude/georgism-wiki-campaign-vy8k5i`
    — CONTINUE this branch and PR #9 (NOT a new branch; PR #9 is unmerged and growing).
    Confirm egress first: `curl -sS -o /dev/null -w "%{http_code}" https://ifs.org.uk` → 200/30x.
