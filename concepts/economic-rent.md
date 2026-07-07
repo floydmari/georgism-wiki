@@ -3,6 +3,7 @@ title: "Economic Rent"
 category: concepts
 tags: [economic-rent, land, ricardo, georgism, rent-theory]
 stub: false
+excerpt: "The payment to a factor of production in excess of what is needed to keep it in its current use — a surplus arising from scarcity or privileged position rather than from effort. For land, whose supply cannot be increased, the whole rent is this kind of unearned surplus."
 sources: [george-1879, ricardo-1817, mill-1848]
 ---
 

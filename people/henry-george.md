@@ -3,6 +3,7 @@ title: "Henry George"
 category: people
 tags: [henry-george, georgism, land-value-tax, political-economy, single-tax]
 stub: false
+excerpt: "American journalist and political economist (1839–1897) whose 1879 bestseller Progress and Poverty asked why poverty deepens amid material progress and answered with the single tax on land values — founding the movement that bears his name."
 born: 1839
 died: 1897
 sources: [george-1879, andelson-2003]

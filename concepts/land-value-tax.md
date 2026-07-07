@@ -3,6 +3,7 @@ title: "Land Value Tax"
 category: concepts
 tags: [lvt, taxation, georgism, fiscal-policy, land]
 stub: false
+excerpt: "A levy on the unimproved value of land, excluding buildings and improvements — held by economists across the ideological spectrum to be the least distortionary of all taxes, because land's supply is fixed and cannot shrink in response to the tax."
 sources: [george-1879, mirrlees-2011, tideman-1999]
 ---
 
@@ -60,6 +61,7 @@ Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radica
 - [Economic rent](/wiki/economic-rent/) — the concept on which LVT is theoretically grounded
 - [Henry George](/wiki/henry-george/) — the economist who made LVT the centrepiece of a global movement
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — a documented American implementation
+- [Objection: if LVT is so good, why has almost no one adopted it?](/wiki/lvt-not-widely-adopted/) — the adoption record and what the rollbacks show
 - [ATCOR](/wiki/atcor/) — the theorem that all taxes ultimately come out of rent
 
 ## Sources

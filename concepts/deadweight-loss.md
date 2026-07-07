@@ -3,6 +3,7 @@ title: "Deadweight Loss"
 category: concepts
 tags: [deadweight-loss, economics, taxation, land-value-tax, efficiency]
 stub: false
+excerpt: "The loss of economic welfare when a tax drives the quantity traded below its efficient level, preventing mutually beneficial transactions. Because land's supply is fixed, a tax on land value causes no such loss — the core efficiency argument for taxing land."
 sources: [mirrlees-2011]
 ---
 

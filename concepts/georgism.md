@@ -3,6 +3,7 @@ title: "Georgism"
 category: concepts
 tags: [georgism, land-value-tax, henry-george, political-economy, geoism]
 stub: false
+excerpt: "The political-economic philosophy, named for Henry George, holding that the value of land and natural resources is created by the community and therefore belongs to the public, while the fruits of individual labour and capital should be left untaxed with those who produce them."
 sources: [george-1879, andelson-2003]
 ---
 
