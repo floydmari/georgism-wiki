@@ -25,4 +25,7 @@ The authors design **auction-based and self-assessment mechanisms** that elicit 
 
 ## Sources
 
-1. Tideman & Plassmann (2008), "Providing Incentives for Efficient Land Assembly," SSRN. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1015820)
+1. Tideman & Plassmann (2008), "Providing Incentives for Efficient Land Assembly,"
+   SSRN — used for the mechanism-design response to the holdout problem: how to
+   assemble land parcels efficiently without letting individual owners extract
+   holdout rents. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1015820)
