@@ -29,5 +29,5 @@ The result was elaborated the same era in [Arnott & Stiglitz (1979)](/wiki/arnot
 
 ## Sources
 
-1. Joseph E. Stiglitz (1977), "The Theory of Local Public Goods," in *The Economics of Public Services* (Macmillan). Related NBER work: [nber.org](https://www.nber.org/)
+1. Joseph E. Stiglitz (1977), "The Theory of Local Public Goods," in *The Economics of Public Services* (Macmillan). Related NBER work: [nber.org](https://www.nber.org/) — used for Stiglitz's statement of the Henry George Theorem, that under optimal city size aggregate land rents equal spending on local public goods.
 2. Formalization: [Arnott & Stiglitz (1979) — wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/)

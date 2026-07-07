@@ -282,6 +282,7 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 - [Jordà, Schularick & Taylor — The Great Mortgaging](/wiki/great-mortgaging/)
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept this narrative deploys
+- [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — the mandatory counter-reading
 - [Harrison, Boom Bust](/wiki/harrison-boom-bust/) — the primary Tier 1 source for the 18-year cycle model
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the 1983 foundational cycle study with the "scissors" mechanism and international evidence
 - [Anderson, The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — the US cycle evidence and banking-credit mechanism

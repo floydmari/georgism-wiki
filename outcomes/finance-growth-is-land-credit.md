@@ -76,6 +76,7 @@ lending against land.
 - [The Great Mortgaging](/wiki/great-mortgaging/) · [No Price Like Home](/wiki/knoll-schularick-steger-house-prices/) — the two supporting studies
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the income-side evidence, kept honest
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/)
+- [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — where this "credit is land credit" point does its work
 - [Geoism](/wiki/geoism/) — the rent-domain program and its gradient
 
 ## Sources

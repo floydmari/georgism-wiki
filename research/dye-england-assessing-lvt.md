@@ -29,4 +29,4 @@ Its measured tone — neither advocacy nor dismissal — makes it the most cited
 
 ## Sources
 
-1. Richard F. Dye & Richard W. England (2010), *Assessing the Theory and Practice of Land Value Taxation*, Lincoln Institute of Land Policy. [Report](https://www.lincolninst.edu/publications/policy-focus-reports/assessing-theory-practice-land-value-taxation/)
+1. Richard F. Dye & Richard W. England (2010), *Assessing the Theory and Practice of Land Value Taxation*, Lincoln Institute of Land Policy. [Report](https://www.lincolninst.edu/publications/policy-focus-reports/assessing-theory-practice-land-value-taxation/) — used as the standard survey of LVT theory, the split-rate experience, and the assessment and transition questions summarised on this page.
