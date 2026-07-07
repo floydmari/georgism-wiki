@@ -154,6 +154,7 @@ evidence base thins exactly where the claimed rents persist longest.
 ## See Also
 
 - [Quasi-Rent](/wiki/quasi-rent/) — the concept doing the work
+- [Intellectual-Property Rents](/wiki/ip-rents/) — where this objection bites hardest, and where the evidence for the incentive is weakest
 - [Geoism](/wiki/geoism/) — the rent gradient this objection anchors
 - [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) · [Cash-Flow Tax](/wiki/cash-flow-tax/) — the design responses
 - [Outcome: Rent-targeting corporate taxes reduce debt bias](/wiki/rent-targeting-taxes-reduce-debt-bias/) — the outcome this objection gates

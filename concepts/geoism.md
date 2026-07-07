@@ -33,7 +33,7 @@ Each domain has its own instrument and its own evidence base:
 | Monopoly & regulatory privilege | Antitrust; license auctions; [rent-seeking](/wiki/rent-seeking/) reform | [Corporate profits increasingly rents](/wiki/corporate-profits-increasingly-rents/) — carried WITH its counter-position |
 | Finance & credit | The contested frontier: [FIRE-sector](/wiki/fire-sector/) analysis | [Rentier](/wiki/rentier/) · [the rentier-economy narrative](/wiki/the-rentier-economy/) |
 | Platforms & data | The open design problem — rent-targeting corporate taxes ([ACE](/wiki/allowance-for-corporate-equity/)/[cash-flow](/wiki/cash-flow-tax/)), ad taxes, data dividends, [COST designs](/wiki/harberger-tax/); dedicated workstream in BACKLOG (WS-TECH-RENTS) | [Mazzucato's rent map](/wiki/mazzucato-mapping-rents/) · [superstar firms](/wiki/superstar-firms/) |
-| Intellectual property | Term/scope reform; prizes vs patents | Queued: the IP-rents literature |
+| Intellectual property | Term/scope reform; prizes vs patents | [IP-rents](/wiki/ip-rents/): a government-granted monopoly rent — but the rent is the intended incentive (steepest gradient); Moser (89%/85% of 1851–1915 innovation unpatented) + Kremer patent buyouts |
 
 ## The Rent Gradient — Read This Before Citing
 
