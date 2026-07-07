@@ -70,7 +70,7 @@ edits pages. Division of labor, agreed 2026-07-05:
    and **"needs-book-copy"** (43 items). Each entry names the page and what needs
    verifying.
 2. `sources/wanted-books.md` — the book list with wiki targets. **Free/legal copies
-   only** (open-access PDFs, publisher-released files, Internet Archive lending,
+   only** (open-access PDFs, publisher-released files,  lending,
    author-hosted copies, or a copy Floyd verifiably owns). No pirated files —
    deliveries that can't name a legal provenance will be discarded.
    **HARD RULE:** Every book page's Origin line must name a legal provenance (owned copy,

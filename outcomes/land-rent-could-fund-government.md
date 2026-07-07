@@ -48,7 +48,7 @@ K.W. Burgess's *Public Revenue Without Taxation* (1993) argues that land value t
 
 Burgess also addresses the inflation dimension, arguing that failure to collect land rent forces governments to monetize debt, creating inflation that disproportionately harms wage-earners (Burgess 1993, Ch. 5). He connects unemployment to land speculation, arguing that high land prices price labour out of productive opportunities (Burgess 1993, Ch. 6). (C-claim; theoretical)
 
-See: [Public Revenue Without Taxation (Burgess)](/wiki/books/public-revenue-without-taxation/)
+See: [Public Revenue Without Taxation (Burgess)](/books/public-revenue-without-taxation/)
 
 ## Strength of Evidence
 
@@ -71,4 +71,4 @@ See: [Public Revenue Without Taxation (Burgess)](/wiki/books/public-revenue-with
    [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) · [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
 2. Counterpoint framing: [Objection — LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
    — used as the steelmanned opposing view on revenue sufficiency.
-3. K.W. Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the ATCOR revenue argument and the case that LVT replaces rather than supplements taxation (C-claims). [Book page](/wiki/books/public-revenue-without-taxation/)
+3. K.W. Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the ATCOR revenue argument and the case that LVT replaces rather than supplements taxation (C-claims). [Book page](/books/public-revenue-without-taxation/)

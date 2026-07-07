@@ -25,19 +25,19 @@ Charles Albro Barker (1904–) was an American historian and professor at Johns 
 
 ## Key Works
 
-- *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974) — [book page](/wiki/books/barker-henry-george-biography/)
+- *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974) — [book page](/books/barker-henry-george-biography/)
 - *The African Background of American Culture* (1948)
 
 ## See Also
 
 - [Henry George](/wiki/henry-george/) — the subject of Barker's biography
-- [Barker's Henry George Biography](/wiki/books/barker-henry-george-biography/) — book page
+- [Barker's Henry George Biography](/books/barker-henry-george-biography/) — book page
 - [Single Tax](/wiki/single-tax/) — the movement Barker's biography traces
 - [Georgism](/wiki/georgism/) — the broader tradition
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the work whose creation Barker traces
 
 ## Sources
 
-1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text for all biographical and interpretive claims (A/D-claims). [book page](/wiki/books/barker-henry-george-biography/)
+1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text for all biographical and interpretive claims (A/D-claims). [book page](/books/barker-henry-george-biography/)
 2. Henry George Collection, New York Public Library — manuscript source donated by Anna George de Mille (Barker 1955, p. 16) (A-claim).
 3. Philip Wicksteed, letter to Henry George, 1882 — quoted by Barker p. 11 (A-claim).

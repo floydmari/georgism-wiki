@@ -25,14 +25,14 @@ Robert V. Andelson (1931–) is an American philosopher and Georgist scholar, Pr
 
 ## Key Works
 
-- *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (1979, ed.) — [book page](/wiki/books/critics-of-henry-george/)
+- *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (1979, ed.) — [book page](/books/critics-of-henry-george/)
 - *From Wasteland to Promised Land* (1992, with James M. Dawsey)
 - *Land-Value Taxation Around the World* (3rd ed., 2001, ed.) — the standard country-by-country reference on LVT implementation
 
 ## See Also
 
 - [Henry George](/wiki/henry-george/) — the thinker Andelson defended and analyzed
-- [Critics of Henry George](/wiki/books/critics-of-henry-george/) — Andelson's major edited volume
+- [Critics of Henry George](/books/critics-of-henry-george/) — Andelson's major edited volume
 - [Georgism](/wiki/georgism/) — the tradition Andelson championed
 - [Land Value Tax](/wiki/land-value-tax/) — the policy Andelson advocated
 - [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — publisher of *Critics of Henry George*
@@ -42,6 +42,6 @@ Robert V. Andelson (1931–) is an American philosopher and Georgist scholar, Pr
 
 ## Sources
 
-1. Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (New York: Robert Schalkenbach Foundation, 1979). — used for Andelson's editorial thesis, the "conspiracy of silence" argument, and his assessment of George as self-taught economist (A/D-claims). [book page](/wiki/books/critics-of-henry-george/)
+1. Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (New York: Robert Schalkenbach Foundation, 1979). — used for Andelson's editorial thesis, the "conspiracy of silence" argument, and his assessment of George as self-taught economist (A/D-claims). [book page](/books/critics-of-henry-george/)
 2. Robert V. Andelson & James M. Dawsey, *From Wasteland to Promised Land* (London: Shepheard-Walwyn / Orbis Books, 1992) — used for the liberation theology application (D-claim).
 3. Robert V. Andelson (ed.), *Land-Value Taxation Around the World* (3rd ed., 2001) — used for the implementation survey reference (A/B-claims).

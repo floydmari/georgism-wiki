@@ -27,7 +27,7 @@ compensation for exclusion from the common inheritance
 
 ### Barnes: Reviving Paine's Framework
 
-Peter Barnes revives Paine's *Agrarian Justice* framework in [*With Liberty and Dividends for All*](/wiki/books/with-liberty-and-dividends-for-all/) (2014), presenting Paine as the founding figure of the citizen's dividend tradition. Barnes quotes Paine's distinction between natural and artificial property:
+Peter Barnes revives Paine's *Agrarian Justice* framework in [*With Liberty and Dividends for All*](/books/with-liberty-and-dividends-for-all/) (2014), presenting Paine as the founding figure of the citizen's dividend tradition. Barnes quotes Paine's distinction between natural and artificial property:
 
 > "There are two kinds of property. Firstly, natural property, or that which comes to us from the Creator of the universe—such as the earth, air, water. Secondly, artificial or acquired property—the invention of men. The latter kind of property must necessarily be distributed unequally, but the first kind rightfully belonged to everyone equally." (Thomas Paine, *Agrarian Justice*, quoted by Barnes 2014, Ch. 1)
 
@@ -40,7 +40,7 @@ Barnes's own proposal extends Paine's logic from land to all co-owned wealth, ma
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
 - [Land as Commons](/wiki/land-as-commons/) · [John Locke](/wiki/john-locke/) — the property theory Paine radicalized
 - [Henry George](/wiki/henry-george/)
-- [With Liberty and Dividends for All](/wiki/books/with-liberty-and-dividends-for-all/) — Barnes's revival of Paine's framework
+- [With Liberty and Dividends for All](/books/with-liberty-and-dividends-for-all/) — Barnes's revival of Paine's framework
 
 ## Sources
 
@@ -49,4 +49,4 @@ Barnes's own proposal extends Paine's logic from land to all co-owned wealth, ma
    words). [Full text (Constitution Society)](https://www.constitution.org/1-Activism/cmt/tpaine/agjustice.htm)
    [VERIFY: stable canonical URL — the citizens-dividend narrative's earlier Paine
    link also awaits confirmation; resolve both to the same edition.]
-2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the revival of Paine's framework as the foundation of the citizen's dividend tradition (A/D-claims). [Book page](/wiki/books/with-liberty-and-dividends-for-all/)
+2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the revival of Paine's framework as the foundation of the citizen's dividend tradition (A/D-claims). [Book page](/books/with-liberty-and-dividends-for-all/)

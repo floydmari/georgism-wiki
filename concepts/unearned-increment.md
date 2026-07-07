@@ -36,7 +36,7 @@ The process Neeson documents illustrates the unearned increment mechanism in con
 
 This is the unearned increment in historical action: the community's collectively generated land value, transferred to private owners through legal enclosure. (D-claim; interpretive)
 
-See: [Commoners (Neeson)](/wiki/books/commoners-neeson/)
+See: [Commoners (Neeson)](/books/commoners-neeson/)
 
 ### Howard: The "Collectively-Earned Increment" in Garden City
 
@@ -46,7 +46,7 @@ Ebenezer Howard's *Garden Cities of To-morrow* (1902) explicitly addresses the u
 
 Howard's reformulation — "collectively-earned increment" rather than "unearned increment" — sharpens the Georgist argument: the increment is not merely unearned *by the landlord*; it is actively earned *by the community*. Howard's garden city model captures this increment through communal land ownership and the "rate-rent" mechanism, applying the principle Mill identified and George radicalized. (C-claim; theoretical)
 
-See: [Garden Cities of To-morrow (Howard)](/wiki/books/garden-cities-of-to-morrow/)
+See: [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/)
 
 ## See Also
 
@@ -55,13 +55,13 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/books/garden-cities-of-to-morro
 - [Henry George](/wiki/henry-george/) — who built his case on the unearned increment
 - [Land Monopoly](/wiki/land-monopoly/) — the structural condition that enables it
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — how this argument is used to persuade, from Mill to Churchill to today
-- [Commoners (Neeson)](/wiki/books/commoners-neeson/) — enclosure as creation of unearned increment
-- [Garden Cities of To-morrow (Howard)](/wiki/books/garden-cities-of-to-morrow/) — Howard's "collectively-earned increment"
+- [Commoners (Neeson)](/books/commoners-neeson/) — enclosure as creation of unearned increment
+- [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/) — Howard's "collectively-earned increment"
 
 ## Sources
 
 1. John Stuart Mill (1848), *Principles of Political Economy* — used for the term's origin and Mill's taxation proposal (A-claims). [Full text](https://www.econlib.org/library/Mill/mlP.html)
 2. Winston Churchill (1909), land-monopolist speech (the [People's Budget](/wiki/1909-peoples-budget/) debates) — used for the quoted passage (A-claim; quote ≤50 words).
 3. Henry George (1879), *Progress and Poverty* — used for the Georgist radicalization of Mill's idea (A-claim). [wiki summary](/wiki/progress-and-poverty/)
-4. J. M. Neeson, *Commoners* (Cambridge University Press, 1993), Ch. 1 — used for the enclosure-as-unearned-increment account (D-claim). [Book page](/wiki/books/commoners-neeson/)
-5. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. II — used for the "collectively-earned increment" formulation (C-claim). [Book page](/wiki/books/garden-cities-of-to-morrow/)
+4. J. M. Neeson, *Commoners* (Cambridge University Press, 1993), Ch. 1 — used for the enclosure-as-unearned-increment account (D-claim). [Book page](/books/commoners-neeson/)
+5. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. II — used for the "collectively-earned increment" formulation (C-claim). [Book page](/books/garden-cities-of-to-morrow/)

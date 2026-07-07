@@ -165,7 +165,7 @@ The narrative's persuasive work is answering the question every newcomer asks:
 
 Eric F. Goldman's *Rendezvous with Destiny* (1952) anticipates the corruption narrative's core insight — that dominant economic theories served landed interests — though from a liberal rather than Georgist perspective. Goldman argued that dominant groups "had, quite unconsciously, picked from among available theories the ones that best protected their position and had impressed these ideas on the national mind as Truth" (Goldman 1952, p. 78). He described the conservative "steel chain of ideas" — Ricardian "iron law of wages," Malthusian population theory, Social Darwinism, and "natural rights" to property — that blocked progressive reform, including land reform (Goldman 1952, p. 79).
 
-This framework directly connects to the [corruption narrative](/wiki/the-corruption-of-economics/): Goldman's "steel chain" is the liberal-reform version of Gaffney's "stratagem" — the observation that certain economic ideas functioned to protect existing property arrangements. The difference is attribution: Goldman sees unconscious selection ("quite unconsciously, picked"), while Gaffney argues for deliberate institutional construction. Goldman's account provides a non-Georgist corroboration of the *premise* that classical economics served to block land reform, even if it does not endorse the *intentionality* thesis. See [Rendezvous with Destiny](/wiki/books/rendezvous-with-destiny/). (D-claim; interpretive)
+This framework directly connects to the [corruption narrative](/wiki/the-corruption-of-economics/): Goldman's "steel chain" is the liberal-reform version of Gaffney's "stratagem" — the observation that certain economic ideas functioned to protect existing property arrangements. The difference is attribution: Goldman sees unconscious selection ("quite unconsciously, picked"), while Gaffney argues for deliberate institutional construction. Goldman's account provides a non-Georgist corroboration of the *premise* that classical economics served to block land reform, even if it does not endorse the *intentionality* thesis. See [Rendezvous with Destiny](/books/rendezvous-with-destiny/). (D-claim; interpretive)
 
 ## See Also
 
@@ -211,4 +211,4 @@ This framework directly connects to the [corruption narrative](/wiki/the-corrupt
 8. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform*
    (New York: Alfred A. Knopf, 1952) — used for the "steel chain of ideas"
    framework as a non-Georgist corroboration of the corruption narrative's
-   premise (D-claim). [Book page](/wiki/books/rendezvous-with-destiny/)
+   premise (D-claim). [Book page](/books/rendezvous-with-destiny/)

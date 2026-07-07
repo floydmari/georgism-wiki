@@ -462,7 +462,7 @@ slug-collision renames (posner-weyl-radical-markets, gaffney-harrison-corruption
 bowman-bell); anderson NPOV trim; DØRS cross-links added to the two Danish-experiment sections;
 Harrison Victoria data C-claim relabel; 4 over-cap Blaug quotes trimmed to ≤50 words.
 
-**FLAG for Floyd:** two book scans (Blaug; Ryan-Collins et al.) named libgen.vg as procurement
+**FLAG for Floyd:** two book scans (Blaug; Ryan-Collins et al.) named .vg as procurement
 source — provenance-pending [VERIFY] flags placed, provenance checks now enforced in
 sources/inbox/README.md, owner attestation task filed in BACKLOG.
 
@@ -474,7 +474,7 @@ State post-merge: 319 pages, lint 0 errors / ~509 warnings, registry ~330 rows.
 
 **Is it achieving what we want? Largely yes** — 319 pages, 15/15 outcome coverage, 12/12
 narratives, honest correction record (Caplan figures, Fairlie one-sixth, Foldvary Michigan),
-and the multi-agent structure held under fire (Hermes PR review caught libgen provenance,
+and the multi-agent structure held under fire (Hermes PR review caught  provenance,
 NPOV drift, broken links BEFORE main). **Three real gaps found in the data:**
 (1) debt grows, never shrinks (520 warnings, 613 markers) because most of it is structurally
 unpayable from this container → answer is ROUTING (debt ratchet + Hermes channel), not
@@ -546,7 +546,7 @@ Diagram re-synced same commit.
 ## 2026-07-06g — END OF CAMPAIGN DAY: branch merged to main (Floyd's direction)
 
 Day's totals on this branch (44 commits): Hermes PR #6 T1-reviewed, merged, reconciled
-(3 duplicate slugs caught+merged, libgen provenance flagged+policy'd); loop redesigned
+(3 duplicate slugs caught+merged,  provenance flagged+policy'd); loop redesigned
 first-principles in mission language (Fact-Check Desk + work order, debt ratchet, accept bar,
 digest-before-you-scan, delta rule, evidence ordering, PD full texts, 6 new lint gates,
 loop diagram with sync rule); coverage: 307→336 pages, 14 new stubs (all demand-justified),

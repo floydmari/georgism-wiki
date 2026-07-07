@@ -24,19 +24,19 @@ Pete Daniel is an American historian and former curator at the Smithsonian Insti
 
 ## Key Works
 
-- *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (2013) — [book page](/wiki/books/dispossession-daniel/)
+- *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (2013) — [book page](/books/dispossession-daniel/)
 - *Breaking the Land: The Transformation of Cotton, Tobacco, and Rice Cultures since 1880* (1985)
 - *Lost Revolutions: The South in the 1950s* (2000)
 
 ## See Also
 
-- [Dispossession](/wiki/books/dispossession-daniel/) — book page
+- [Dispossession](/books/dispossession-daniel/) — book page
 - [Georgism](/wiki/georgism/) — the tradition connecting land access to justice
 - [Henry George](/wiki/henry-george/) — George's analysis of land access and poverty
 - [Land Value Tax](/wiki/land-value-tax/) — the policy that addresses land concentration
 
 ## Sources
 
-1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). — used for the county committee system, passive nullification, the decline of black farms, and Pigford v. Glickman (A/B/D-claims). [book page](/wiki/books/dispossession-daniel/)
+1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). — used for the county committee system, passive nullification, the decline of black farms, and Pigford v. Glickman (A/B/D-claims). [book page](/books/dispossession-daniel/)
 2. U.S. Commission on Civil Rights, *Equal Opportunity in Farm Programs* (1965) — primary source document Daniel analyzes (A-claim).
 3. Pigford v. Glickman, 1999 class-action decision — legal source for the discrimination finding (A-claim).

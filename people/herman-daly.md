@@ -29,20 +29,20 @@ Herman E. Daly (1938–2022) was an American ecological economist, widely regard
 ## Key Works
 
 - *Steady-State Economics* (1977; 2nd ed. 1991)
-- *Ecological Economics and the Ecology of Economics* (1999) — [book page](/wiki/books/ecological-economics-daly/)
+- *Ecological Economics and the Ecology of Economics* (1999) — [book page](/books/ecological-economics-daly/)
 - *Beyond Growth* (1996)
 - *For the Common Good* (with John B. Cobb Jr., 1989; 2nd ed. 1994)
 - *Toward a Steady-State Economy* (1973, ed.)
 
 ## See Also
 
-- [Ecological Economics and the Ecology of Economics](/wiki/books/ecological-economics-daly/) — book page
+- [Ecological Economics and the Ecology of Economics](/books/ecological-economics-daly/) — book page
 - [Georgism](/wiki/georgism/) — the broader rent-capture tradition
 - [Deadweight Loss](/wiki/deadweight-loss/) — the efficiency framework Daly's work complements
 - [Land Value Tax](/wiki/land-value-tax/) — resource rent capture as public revenue
 
 ## Sources
 
-1. Herman E. Daly, *Ecological Economics and the Ecology of Economics: Essays in Criticism* (Cheltenham: Edward Elgar, 1999). — used for steady-state economics, throughput, uneconomic growth, and the Solow/Stiglitz critique (A/C/D-claims). [book page](/wiki/books/ecological-economics-daly/)
+1. Herman E. Daly, *Ecological Economics and the Ecology of Economics: Essays in Criticism* (Cheltenham: Edward Elgar, 1999). — used for steady-state economics, throughput, uneconomic growth, and the Solow/Stiglitz critique (A/C/D-claims). [book page](/books/ecological-economics-daly/)
 2. Herman E. Daly, *Steady-State Economics* (San Francisco: Freeman, 1977; 2nd ed. Island Press, 1991) — foundational text for steady-state theory (C-claim).
 3. Herman E. Daly & John B. Cobb Jr., *For the Common Good* (Boston: Beacon Press, 1989; 2nd ed. 1994) — used for the economic-ecological integration (D-claim).

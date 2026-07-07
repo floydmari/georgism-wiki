@@ -24,11 +24,11 @@ K.W. (Ronald) Burgess is a British author and Georgist policy advocate, best kno
 
 ## Key Works
 
-- *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — [book page](/wiki/books/public-revenue-without-taxation/)
+- *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — [book page](/books/public-revenue-without-taxation/)
 
 ## See Also
 
-- [Public Revenue Without Taxation](/wiki/books/public-revenue-without-taxation/) — book page
+- [Public Revenue Without Taxation](/books/public-revenue-without-taxation/) — book page
 - [Henry George](/wiki/henry-george/) — the tradition Burgess extends
 - [Single Tax](/wiki/single-tax/) — the policy Burgess advocates
 - [Land Value Tax](/wiki/land-value-tax/) — the modern policy form
@@ -36,6 +36,6 @@ K.W. (Ronald) Burgess is a British author and Georgist policy advocate, best kno
 
 ## Sources
 
-1. K.W. Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993). — used for the land-rent-as-revenue argument, critique of Keynesian/monetarist schools, and the primary division thesis (A/C/D-claims). [book page](/wiki/books/public-revenue-without-taxation/)
+1. K.W. Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993). — used for the land-rent-as-revenue argument, critique of Keynesian/monetarist schools, and the primary division thesis (A/C/D-claims). [book page](/books/public-revenue-without-taxation/)
 2. Colin Clark, "Public Finance and the 25% Limit," *Economic Journal* (December 1945) — used for the 25% NNP tax limit that Burgess engages with (B-claim).
 3. Henry George, *Progress and Poverty* (1879) — the intellectual foundation Burgess builds on (C-claim).

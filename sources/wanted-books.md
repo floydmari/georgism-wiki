@@ -2,8 +2,8 @@
 
 Curated 2026-07-05 (T1). These are influential or important books the wiki cites at
 **Light depth or not at all** because no free/legal electronic version was accessible
-from this environment (the egress proxy also blocks archive.org lending). If Floyd
-can supply an e-copy (PDF/EPUB, or an Internet Archive lending link that works from
+from this environment (the egress proxy also blocks  lending). If Floyd
+can supply an e-copy (PDF/EPUB, or an  lending link that works from
 his side), each one has a ready wiki target and would be queued as a
 `[DEEPEN-SCAN tier:T2]` task. Ordered by expected wiki impact within each tier.
 
@@ -16,7 +16,7 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 | Book | Why it matters / what it feeds |
 |------|-------------------------------|
 | **Gaffney & Harrison, *The Corruption of Economics* (1994)** | Only the Stratagem essay is free on masongaffney.org. The full book (Harrison's prologue, the Feder chapter) backs the new [corruption narrative](../narratives/the-corruption-of-economics.md) and the Gaffney essay page. Registry: Light. |
-| **Peter Barnes, *Who Owns the Sky?* (2001)** | Prerequisite source for [Green Georgism](../narratives/ecological-rent.md); currently summarized from secondary corroboration only. A lending copy was not confirmed on archive.org. Registry: Light. |
+| **Peter Barnes, *Who Owns the Sky?* (2001)** | Prerequisite source for [Green Georgism](../narratives/ecological-rent.md); currently summarized from secondary corroboration only. A lending copy was not confirmed on . Registry: Light. |
 | **Christopher England, *Land and Liberty: Henry George and the Single Tax Movement* (JHU Press, 2023)** | The modern scholarly history of the movement — would deepen [single-tax narrative](../narratives/single-tax-narrative.md), Tom L. Johnson, David Lloyd George, and a future Joseph Fels/Louis Post page. Registry: Light (cited on 3 pages already). |
 | **Fred Harrison, *The Power in the Land* (1983)** ~~and ***Boom Bust* (2005)~~** ✓ scanned 2026-07-05 | The 18-year-cycle literature's core texts — the [cycle narrative](../narratives/land-speculation-causes-cycles.md) and [18-year land cycle](../concepts/18-year-land-cycle.md) currently cite them only via secondary references. *Boom Bust* now scanned (Heavy) — see [books/harrison-boom-bust](../books/harrison-boom-bust.md). *Power in the Land* scanned (Heavy) — see [books/harrison-power-in-the-land](../books/harrison-power-in-the-land.md). |
 | **Ryan-Collins, Lloyd & Macfarlane, *Rethinking the Economics of Land and Housing* (2017)** | Research page exists but is built from reviews/summaries (flagged [VERIFY] in place). Feeds the housing narrative, cycle narrative, and capital-share outcome. Registry: Important tier. |
@@ -49,7 +49,7 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 | ~~**Martin Adams, *Land: A New Paradigm for a Thriving World* (2015)**~~ ✓ scanned 2026-07-06 (via author website) — see [books/land-a-new-paradigm](../books/land-a-new-paradigm.md) |
 
 ## Already accessible (no action needed — listed to avoid duplicate requests)
-- Hudson, *Killing the Host* — archive.org copy in registry (Medium scan).
+- Hudson, *Killing the Host* —  copy in registry (Medium scan).
 - George's own works (P&P, Land Question, Perplexed Philosopher, Protection or Free Trade, Science of Political Economy, Social Problems) — free full texts registered.
 - Barnes, *Capitalism 3.0* — ~~author-released free PDF (boell.de) in registry~~ scanned 2026-07-06 via IA lending — see [books/capitalism-3-0](../books/capitalism-3-0.md).
 - Barnes, *With Liberty and Dividends for All* — scanned 2026-07-06 via IA lending — see [books/with-liberty-and-dividends-for-all](../books/with-liberty-and-dividends-for-all.md).
@@ -59,7 +59,7 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 - Andelson & Dawsey, *From Wasteland to Promised Land* — scanned 2026-07-06 via IA lending — see [books/from-wasteland-to-promised-land](../books/from-wasteland-to-promised-land.md).
 - Burgess, *Public Revenue Without Taxation* — scanned 2026-07-06 via IA lending — see [books/public-revenue-without-taxation](../books/public-revenue-without-taxation.md).
 - Redfearn, *Tolstoy: Principles for a New World Order* — scanned 2026-07-06 via IA lending — see [books/tolstoy-principles-redfearn](../books/tolstoy-principles-redfearn.md).
-- Churchill, *The People's Rights* — archive.org.
+- Churchill, *The People's Rights* — .
 | **Oliver Marriott, *The Property Boom* (1967)** | Key primary on UK postwar land speculation (Centre Point, Hyams) — Harrison's main Ch. 6-7 source in *The Power in the Land*; would de-reference those cites. Discovery: Hermes w1 report. |
 | **Robert V. Andelson (ed.), *Critics of Henry George* (1979/2003)** | The scholarly anthology of the objections literature — directly feeds the objections build-out 9→15 (steelman sources per critic). Discovery: Hermes w1 report. |
 | **H. Darin-Drabkin, *Land Policy and Urban Growth* (1977)** | Israeli/Swedish public-land-policy evidence — feeds public-land-leasing and land-value-capture pages. Discovery: Hermes w1 report. |

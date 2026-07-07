@@ -40,7 +40,7 @@ Lars Doucet reports that land constitutes approximately **40% of US household we
 
 ### Barnes: Rent as the "Eight-Hundred-Pound Gorilla"
 
-Peter Barnes argues in [*With Liberty and Dividends for All*](/wiki/books/with-liberty-and-dividends-for-all/) (2014) that rent is systematically neglected in public discourse despite its central economic importance:
+Peter Barnes argues in [*With Liberty and Dividends for All*](/books/with-liberty-and-dividends-for-all/) (2014) that rent is systematically neglected in public discourse despite its central economic importance:
 
 > "Rent isn't talked about much in polite society; it's the eight-hundred-pound gorilla that everyone pretends isn't there. Economists in particular rarely mention it, not out of ignorance but because they find it awkward to offend those who extract it disproportionately. The time has come, though, to bring rent out of the closet, for it holds the key to saving our middle class and planet." (Barnes 2014, Ch. 3)
 
@@ -48,7 +48,7 @@ Barnes defines rent as "the money paid to businesses over and above their costs 
 
 ### Adams: Rent as the Driver of Wealth Inequality
 
-Martin Adams argues in [*Land: A New Paradigm for a Thriving World*](/wiki/books/land-a-new-paradigm/) (2015) that economic rent — specifically the privatization of land rent — is the primary structural driver of wealth inequality. Adams distinguishes two ways people earn income: "by contributing to society (wages, capital returns) or by extracting economic rent from society without providing wealth of corresponding value" (Adams 2015, Ch. 1). He argues that land ownership creates an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners — allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). (D-claim; interpretive)
+Martin Adams argues in [*Land: A New Paradigm for a Thriving World*](/books/land-a-new-paradigm/) (2015) that economic rent — specifically the privatization of land rent — is the primary structural driver of wealth inequality. Adams distinguishes two ways people earn income: "by contributing to society (wages, capital returns) or by extracting economic rent from society without providing wealth of corresponding value" (Adams 2015, Ch. 1). He argues that land ownership creates an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners — allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). (D-claim; interpretive)
 
 Adams presents data showing land values have risen faster than wages, citing Davis and Heathcote's *Journal of Monetary Economics* study (2007) and U.S. Census data. He argues that "whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality" (Adams 2015, Ch. 4). (B-claim; empirical)
 
@@ -62,8 +62,8 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 - [Unearned Increment](/wiki/unearned-increment/) — John Stuart Mill's term for the same concept
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
 - [Deadweight Loss](/wiki/deadweight-loss/) — why taxing rent is efficient
-- [With Liberty and Dividends for All](/wiki/books/with-liberty-and-dividends-for-all/) — Barnes on rent as the "eight-hundred-pound gorilla"
-- [Land: A New Paradigm for a Thriving World](/wiki/books/land-a-new-paradigm/) — Adams on rent as wealth inequality driver
+- [With Liberty and Dividends for All](/books/with-liberty-and-dividends-for-all/) — Barnes on rent as the "eight-hundred-pound gorilla"
+- [Land: A New Paradigm for a Thriving World](/books/land-a-new-paradigm/) — Adams on rent as wealth inequality driver
 
 ## Sources
 
@@ -72,5 +72,5 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 3. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
 4. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Chs. 1, 7 — used for Pareto's redefinition of rent and the neoclassical merger of land into capital (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
 5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
-6. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the definition of rent as surplus above competitive costs and the argument that rent is neglected in public discourse (C/D-claims). [Book page](/wiki/books/with-liberty-and-dividends-for-all/)
-7. Martin Adams, *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — used for the argument that rent privatization drives wealth inequality (D/B-claims). [Book page](/wiki/books/land-a-new-paradigm/)
+6. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the definition of rent as surplus above competitive costs and the argument that rent is neglected in public discourse (C/D-claims). [Book page](/books/with-liberty-and-dividends-for-all/)
+7. Martin Adams, *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — used for the argument that rent privatization drives wealth inequality (D/B-claims). [Book page](/books/land-a-new-paradigm/)

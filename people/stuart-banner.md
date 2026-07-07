@@ -25,18 +25,18 @@ Stuart Banner (1963–) is an American legal historian and professor at UCLA Sch
 
 ## Key Works
 
-- *How the Indians Lost Their Land: Law and Policy on the U.S. Frontier, 1775–1890* (Cambridge, MA: Harvard University Press/Belknap Press, 2005) — [book page](/wiki/books/how-the-indians-lost-their-land/)
+- *How the Indians Lost Their Land: Law and Policy on the U.S. Frontier, 1775–1890* (Cambridge, MA: Harvard University Press/Belknap Press, 2005) — [book page](/books/how-the-indians-lost-their-land/)
 - *Anglo-American Securities Regulation: Cultural and Political Roots* (1998)
 - *The Billion Dollar Bubble: How a Global Financial Fraud Went Undetected* (2019)
 
 ## See Also
 
-- [How the Indians Lost Their Land](/wiki/books/how-the-indians-lost-their-land/) — book page
+- [How the Indians Lost Their Land](/books/how-the-indians-lost-their-land/) — book page
 - [Henry George](/wiki/henry-george/) — George's analysis of land access and justice
 - [Georgism](/wiki/georgism/) — the tradition connecting land tenure to equity
 
 ## Sources
 
-1. Stuart Banner, *How the Indians Lost Their Land: Law and Policy on the U.S. Frontier, 1775–1890* (Cambridge, MA: Harvard University Press/Belknap Press, 2005). — used for the sovereignty/property distinction, the challenge to the conquest consensus, and the Johnson v. M'Intosh analysis (A/D-claims). [book page](/wiki/books/how-the-indians-lost-their-land/)
+1. Stuart Banner, *How the Indians Lost Their Land: Law and Policy on the U.S. Frontier, 1775–1890* (Cambridge, MA: Harvard University Press/Belknap Press, 2005). — used for the sovereignty/property distinction, the challenge to the conquest consensus, and the Johnson v. M'Intosh analysis (A/D-claims). [book page](/books/how-the-indians-lost-their-land/)
 2. Robert Williams, *The American Indian in Western Legal Thought* (Oxford University Press, 1990) — the leading study Banner argues against (D-claim).
 3. *Johnson v. M'Intosh*, 21 U.S. (8 Wheat.) 543 (1823) — the foundational Supreme Court case Banner analyzes (A-claim).

@@ -34,16 +34,16 @@ Redfearn documents Tolstoy's argument that "depriving men of the land they need 
 
 Redfearn traces George's central insight to a conversation with a teamster about land prices near Oakland: "Like a flash it came upon me that there was the reason of advancing poverty with advancing wealth. With the growth of population, land grows in value, and the men who work it must pay more for the privilege" (Redfearn 1992, p. 96). (A-claim; factual)
 
-See [Redfearn's book page](/wiki/books/tolstoy-principles-redfearn/) for the full analysis. Redfearn is explicitly an advocate for both Tolstoy and George; the book is "a defence of them against misguided criticism" (Redfearn 1992, p. 8). (D-claim; interpretive)
+See [Redfearn's book page](/books/tolstoy-principles-redfearn/) for the full analysis. Redfearn is explicitly an advocate for both Tolstoy and George; the book is "a defence of them against misguided criticism" (Redfearn 1992, p. 8). (D-claim; interpretive)
 
 ## See Also
 
 - [Henry George](/wiki/henry-george/) · [Single Tax](/wiki/single-tax/)
-- [Tolstoy: Principles for a New World Order](/wiki/books/tolstoy-principles-redfearn/) — Redfearn's book
+- [Tolstoy: Principles for a New World Order](/books/tolstoy-principles-redfearn/) — Redfearn's book
 - [Fred Harrison](/wiki/fred-harrison/) — prompted the book's writing
 - [Single Tax Narrative](/wiki/single-tax-narrative/) — Tolstoy as international advocate
 
 ## Sources
 
 1. Leo Tolstoy, letters and essays on Henry George and Georgism (1889–1910) — used for Tolstoy's advocacy of the single tax, his appeals to the Russian government, and the "consciousness of the injustice of land ownership" remark. [Collection](https://www.marxists.org/archive/tolstoy/unknown/tolstoy-on-georgism.html)
-2. R.K. Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992) — used for Tolstoy's Georgism as foundational to his philosophy, the state/government distinction, and the land-deprivation-as-slavery argument (A/D-claims). [Book page](/wiki/books/tolstoy-principles-redfearn/)
+2. R.K. Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992) — used for Tolstoy's Georgism as foundational to his philosophy, the state/government distinction, and the land-deprivation-as-slavery argument (A/D-claims). [Book page](/books/tolstoy-principles-redfearn/)

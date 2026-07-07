@@ -24,17 +24,17 @@ J.M. Neeson is a historian and Associate Professor at York University, Toronto. 
 
 ## Key Works
 
-- *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — [book page](/wiki/books/commoners-neeson/)
+- *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — [book page](/books/commoners-neeson/)
 
 ## See Also
 
-- [Commoners](/wiki/books/commoners-neeson/) — book page
+- [Commoners](/books/commoners-neeson/) — book page
 - [Henry George](/wiki/henry-george/) — George's analysis of land privatization
 - [Georgism](/wiki/georgism/) — the tradition connecting land access to justice
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response to land concentration
 
 ## Sources
 
-1. J.M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993, Past and Present Publications). — used for common rights as lived practice, the social cost of enclosure, and the Northamptonshire case study (A/B/D-claims). [book page](/wiki/books/commoners-neeson/)
+1. J.M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993, Past and Present Publications). — used for common rights as lived practice, the social cost of enclosure, and the Northamptonshire case study (A/B/D-claims). [book page](/books/commoners-neeson/)
 2. E.P. Thompson, *Customs in Common* (London: Penguin, 1991) — related work by Neeson's doctoral supervisor (D-claim).
 3. Donald N. McCloskey, "The Enclosure of Open Fields" (1972) — counter-argument on enclosure productivity that Neeson engages with (B-claim).

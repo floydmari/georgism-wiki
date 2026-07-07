@@ -36,14 +36,14 @@ Howard's key philosophical commitment was that land should serve the community:
 
 Howard founded Letchworth (1903) and Welwyn Garden City (1920) on these principles. His model directly influenced 20th-century planning and the community land trust movement, demonstrating Georgist land economics at the scale of whole towns. (A-claim; factual)
 
-See: [Garden Cities of To-morrow](/wiki/books/garden-cities-of-to-morrow/)
+See: [Garden Cities of To-morrow](/books/garden-cities-of-to-morrow/)
 
 ## See Also
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Unearned Increment](/wiki/unearned-increment/) · [Single-Tax Colonies](/wiki/single-tax-colonies/)
-- [Garden Cities of To-morrow (Howard)](/wiki/books/garden-cities-of-to-morrow/) — Howard's only book, the fullest expression of his thought
+- [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/) — Howard's only book, the fullest expression of his thought
 
 ## Sources
 
 1. Ebenezer Howard (1902), *Garden Cities of To-morrow* — used for the garden-city design and its community-rent financing (A-claims). — public domain; complete text queued per EDITORIAL §3b.
-2. [Book page for *Garden Cities of To-morrow*](/wiki/books/garden-cities-of-to-morrow/) — wiki's citable reference for the book, with detailed content summary and key quotes.
+2. [Book page for *Garden Cities of To-morrow*](/books/garden-cities-of-to-morrow/) — wiki's citable reference for the book, with detailed content summary and key quotes.

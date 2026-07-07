@@ -177,7 +177,7 @@ Bruce K. Murray's *The People's Budget 1909/10* (1980) provides the most detaile
 
 Murray shows the Budget was carefully designed to avoid directly antagonizing the bulk of the middle classes. The increases in direct taxation were aimed mainly at the wealthy and at unearned sources of income. The *Liberal Magazine* for May 1909 noted: "the middle class who work for the incomes which are taxed are most gently treated; the 'rentier' middle class rather less gently" (Murray 1980, p. 21). The land-value duties sought to tax "property values created by the community" — a Georgist principle applied through incremental taxation rather than full rent collection. (A/D-claim; factual/interpretive)
 
-Murray documents that the Budget's rejection by the Unionist-dominated House of Lords triggered the constitutional crisis. The question of how social reform was to be financed was "the core of the argument" between Liberal and Unionist parties by 1909/10 (Murray 1980, citing P.F. Clarke). The Liberal Government made "the deliberate decision to opt for direct taxation" (Clarke, quoted by Murray). See [People's Budget 1909/10](/wiki/books/peoples-budget-1909/). (A-claim; factual)
+Murray documents that the Budget's rejection by the Unionist-dominated House of Lords triggered the constitutional crisis. The question of how social reform was to be financed was "the core of the argument" between Liberal and Unionist parties by 1909/10 (Murray 1980, citing P.F. Clarke). The Liberal Government made "the deliberate decision to opt for direct taxation" (Clarke, quoted by Murray). See [People's Budget 1909/10](/books/peoples-budget-1909/). (A-claim; factual)
 
 ## See Also
 
@@ -269,4 +269,4 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
 15. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy*
     (Oxford: Oxford University Press, 1980) — used for the Budget's fiscal strategy, Lloyd
     George's fight against Treasury orthodoxy, and the design of the land-value duties
-    (A/D-claims). [Book page](/wiki/books/peoples-budget-1909/)
+    (A/D-claims). [Book page](/books/peoples-budget-1909/)

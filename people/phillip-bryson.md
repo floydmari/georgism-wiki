@@ -28,12 +28,12 @@ Phillip J. Bryson is an academic economist whose work focuses on central Europea
 
 ## Key Works
 
-- *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011) — [book page](/wiki/books/economics-of-henry-george/)
+- *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011) — [book page](/books/economics-of-henry-george/)
 - Prior work on central European economic planning
 
 ## See Also
 
-- [The Economics of Henry George](/wiki/books/economics-of-henry-george/) — book page
+- [The Economics of Henry George](/books/economics-of-henry-george/) — book page
 - [Henry George](/wiki/henry-george/) — the subject of Bryson's analysis
 - [Georgism](/wiki/georgism/) — the tradition Bryson analyzes
 - [Land Value Tax](/wiki/land-value-tax/) — the modern policy Bryson's analysis supports
@@ -41,7 +41,7 @@ Phillip J. Bryson is an academic economist whose work focuses on central Europea
 
 ## Sources
 
-1. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011). ISBN 978-0-230-11585-9. — used for all claims about George's methodology, distribution theory, free trade arguments, and rehabilitation thesis (A/C/D-claims). [book page](/wiki/books/economics-of-henry-george/)
+1. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011). ISBN 978-0-230-11585-9. — used for all claims about George's methodology, distribution theory, free trade arguments, and rehabilitation thesis (A/C/D-claims). [book page](/books/economics-of-henry-george/)
 2. Joseph Schumpeter, *History of Economic Analysis* (Oxford University Press, 1954) — assessment of George as "very orthodox economist," cited by Bryson p. 5 (D-claim).
 3. Henry George, *Progress and Poverty* (1879) — the work Bryson analyzes in depth (A-claim).
 4. Henry George, *The Science of Political Economy* (1898) — George's methodology work, discussed in Bryson Ch. 1 (C-claim).

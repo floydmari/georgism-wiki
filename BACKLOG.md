@@ -62,7 +62,7 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   Broadened the lint annotation regex to accept "used as/in/to" (cleared ~8 false positives).
 - **DONE** shift 6: **people/joseph-fels** built out stub→full (b/d 1853–1914, Fels-Naptha 1894,
   ~1890 conversion to George, Fels Fund 1909, colony funding Fairhope/Arden/Mayland-Essex) —
-  resolved the [VERIFY] flag via the authoritative Dudden 1943 biography (Internet Archive);
+  resolved the [VERIFY] flag via the authoritative Dudden 1943 biography ();
   de-stubbed; reciprocal Fels cross-link added to events/single-tax-colonies.
 - **DONE** shift 7: **outcomes/congestion-pricing-reduces-traffic** built out stub→full with the
   welfare/longitudinal delta the concept page lacked: Eliasson 2009 CBA (measured-data; ~4-yr
@@ -81,7 +81,7 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   Sachs-Warner resource-curse escape, honest institutional caveat. Campsite bonus: cleared ALL
   bidirectional-gap warnings (14→0) by adding supports_outcomes to 11 research pages.
 - **DONE** shift 10: **texts/the-crime-of-poverty** — George's 1885 Burlington, Iowa lecture in
-  full (~11k words), the SECOND texts/ page. CLEAN transcription from archive.org scan
+  full (~11k words), the SECOND texts/ page. CLEAN transcription from  scan
   crimeofpoverty00geor (NOT the garbled Google copy; NOT Wikimedia). Joseph Fels Fund printing.
 - **DONE** shift 11: **outcomes/carbon-pricing-cuts-emissions** — the ATMOSPHERE rent domain,
   the last big unevidenced geoism row. Flagship BC revenue-neutral carbon tax 2008 (Elgie-McClay:
@@ -94,14 +94,14 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   resources, atmosphere).
 Lint green (0 err, 414 warn, ratchet steadily down from 473).
 **Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
-George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
+George's "The Crime of Poverty" (1885) exists on  (crimepovertyana00georgoog) but the
 Google-Books text is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or
 careful cleanup before it can be a faithful texts/ page. Post 1923 & Johnson's *My Story* are
 book-length → sources/publicdomain/. (b) congestion follow-ups (build out the outcome page;
 Gothenburg 2013 counter-texture; Smeed Report 1964 stub). (c) more Exa people build-outs
 (joseph-fels, louis-f-post). (d) DST-as-tried [FIND]; Great Smoky Mountains primary; remaining
 WS-TECH-RENTS research pages.
-Egress confirmed OPEN (ifs/gutenberg/treasury/archive.org/oll all 200). Branch + PR #9 growing.
+Egress confirmed OPEN (ifs/gutenberg/treasury//oll all 200). Branch + PR #9 growing.
 
 ## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-06 end-of-day — MERGED TO MAIN; directives for the next session)
@@ -133,11 +133,11 @@ outcomes) was merged to main at Floyd's direction. A NEW session must:
    persistence is policy-blocked) but api.exa.ai remains 403'd by the egress proxy: the
    durable fix is Floyd adding BOTH the EXA_API_KEY env var AND api.exa.ai to the
    environment settings at claude.ai/code (env vars + network policy, same screen);
-   libgen provenance attestation (Blaug + Ryan-Collins
+    provenance attestation (Blaug + Ryan-Collins
    scans); floyd-marinescu bio bullets (6 questions delivered 2026-07-06 — awaiting answers);
    citdiv eBook (URL delivered but citdiv.org proxy-blocked — Floyd to allowlist, drop in
    Drive, or route via Hermes); proxy allowlist wishlist (api.exa.ai, progress.org,
-   citdiv.org, archive.org, ifs.org.uk, imf.org, oecd.org, papers.ssrn.com, nber.org,
+   citdiv.org, , ifs.org.uk, imf.org, oecd.org, papers.ssrn.com, nber.org,
    home.treasury.gov, danwahl.net, gameofrent.com).
    RESOLVED 2026-07-06: wiki-books + wiki-texts Ghost tag IDs — delivered via
    openclaw/add-books-sync, T1-reviewed, merged as PR #10 at Floyd's direction.
@@ -581,14 +581,14 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       to main; reconciliation applied on the campaign branch: 5 book pages normalized to the
       EDITORIAL schema; slug collisions renamed (books/posner-weyl-radical-markets,
       books/gaffney-harrison-corruption-of-economics); 30 broken [[books/...]] wikilinks fixed;
-      libgen provenance lines replaced with [VERIFY] attestation flags (2 pages — see task
+       provenance lines replaced with [VERIFY] attestation flags (2 pages — see task
       below); registry deduped (Patel double row) + book rows repointed; committed conflict
       markers inherited from main fixed (arnott, bowman-bell); phillip-j-anderson NPOV trim
       (testimonial cut, marketing claims framed as level-6); Danish-experiment sections now
       link the wiki's own DØRS page; Harrison Victoria data relabeled C-claim
       (advocacy-reported observational). Lint 0 errors post-merge.
 - [ ] [VERIFY] tier:owner status:blocked-on-floyd — provenance attestation for two Hermes book
-      scans sourced from libgen.vg (Blaug, Economic Theory in Retrospect; Ryan-Collins et al.,
+      scans sourced from .vg (Blaug, Economic Theory in Retrospect; Ryan-Collins et al.,
       Rethinking the Economics of Land & Housing): confirm you own/licensed legitimate copies,
       or the pages' scan-depth upgrades stay frozen. Prohibited-channel rule now in
       sources/inbox/README.md.
@@ -660,7 +660,7 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
 
 ### Wanted books (curated list: `sources/wanted-books.md`, 2026-07-05)
 - [ ] [DEEPEN-SCAN] tier:T2 status:blocked — ~20 influential books stuck at Light/no scan because
-      no free e-copy is reachable from this environment (proxy blocks archive.org lending too).
+      no free e-copy is reachable from this environment (proxy blocks  lending too).
       Each unblocks as Floyd supplies an electronic version; spawn one [DEEPEN-SCAN] per title as
       copies land. Top of the list: The Corruption of Economics (full book), Who Owns the Sky,
       England's Land and Liberty (2023), Harrison's Power in the Land / Boom Bust,
@@ -777,7 +777,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
 - [x] [DRAFT] tier:T2 status:done — research/england-zhao-lvt-distribution — Dover NH regressive finding, wired as challenged_by on the progressivity outcome (2026-07-05)
 - [ ] [STUB] tier:T2 status:todo — concepts/sector-model (Hoyt's urban-structure model; discovered by homer-hoyt backfill; no coverage anywhere)
 - [ ] [STUB] tier:T3 status:todo — candidates from backfills, triage next [PRIORITIZE]: organizations/bc-assessment-authority; events/1913-bc-real-estate-crash; people/henry-george-jr; events/parliament-act-1911; organizations/land-enquiry-committee (the 1913-14 'The Land' reports); events/1925-green-book-campaign (people/arthur-balfour surfaced too but likely fails the substantive-discussion bar — reject unless more corpus demand appears)
-- [ ] [DEEPEN-SCAN] tier:T2 status:todo — research/hoyt-chicago-land-values Heavy re-pass (519pp on archive.org) to resolve its 6 [VERIFY] markers incl. the 1836/1856/1872/1890/1925 peak-year list
+- [ ] [DEEPEN-SCAN] tier:T2 status:todo — research/hoyt-chicago-land-values Heavy re-pass (519pp on ) to resolve its 6 [VERIFY] markers incl. the 1836/1856/1872/1890/1925 peak-year list
 
 ## New outcome evidence queue — outcomes/lvt-reduces-sprawl (created 2026-07-05, 1/5 supporters)
 - [ ] [DRAFT] tier:T2 status:todo — research/song-zenou-property-tax-sprawl — Song & Zenou 2006 JUE "Property tax and urban sprawl" (verify) — the direct second study

@@ -50,11 +50,11 @@ Bishop John D. Davies, in the foreword, connects the theological argument to pra
 
 This theological framing broadens the appeal of Georgism beyond the secular economic argument, connecting it to religious traditions of land justice across cultures — from the Mosaic Jubilee to African communal land ethics to Latin American liberation theology. (D-claim; interpretive)
 
-See: [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/books/from-wasteland-to-promised-land/)
+See: [From Wasteland to Promised Land (Andelson & Dawsey)](/books/from-wasteland-to-promised-land/)
 
 ### Andelson: George's Defense Against Critics
 
-Robert V. Andelson's edited volume *Critics of Henry George* (1979) provides the most comprehensive scholarly defense of George's ideas against his major critics. Andelson's thesis was that "the highest tribute to Henry George's memory is to present his critics' arguments as fairly as possible and weigh them against both abstract reason and empirical evidence" (Andelson 1979, p. 3). The volume surveyed critics from Alfred Marshall (who "guarded the purity of his discipline") through Francis Walker (who "led the charge") to Murray Rothbard's 20th-century libertarian critique. See [Critics of Henry George](/wiki/books/critics-of-henry-george/) for the full analysis. (D-claim; interpretive)
+Robert V. Andelson's edited volume *Critics of Henry George* (1979) provides the most comprehensive scholarly defense of George's ideas against his major critics. Andelson's thesis was that "the highest tribute to Henry George's memory is to present his critics' arguments as fairly as possible and weigh them against both abstract reason and empirical evidence" (Andelson 1979, p. 3). The volume surveyed critics from Alfred Marshall (who "guarded the purity of his discipline") through Francis Walker (who "led the charge") to Murray Rothbard's 20th-century libertarian critique. See [Critics of Henry George](/books/critics-of-henry-george/) for the full analysis. (D-claim; interpretive)
 
 Andelson documented what Tolstoy called the "conspiracy of silence": "people do not argue with the teaching of George, they simply do not know it" (Andelson 1979, p. 7). He argued that economic textbook writers dismissed George "with a few patronizing sentences" displaying "a lamentable absence of real acquaintance with his thought" (Andelson 1979, p. 19). Andelson placed George in a "long succession of political economists — including Adam Smith, Malthus, the two Mills, Ricardo, Chalmers, Sidgwick, and Marx — with no official training in the discipline," arguing that George's marginalization as an "amateur" was compounded by the professionalization of economics signaled by the founding of the American Economic Association in 1885 (Andelson 1979, p. 19). (D-claim; interpretive)
 
@@ -62,7 +62,7 @@ Schumpeter's assessment, highlighted by Andelson, provides an important non-Geor
 
 ### Bryson: George's Rehabilitation as Economist
 
-Phillip Bryson's *The Economics of Henry George* (2011) provides the most comprehensive modern academic rehabilitation of George as an economist. Bryson argues that George's "perspectives retain strong relevance in contemporary issues such as land use, urban development and planning, taxation, and property rights" and that "contemporary economists would generally agree that it makes sense to utilize those ideas" (Bryson 2011, p. 6). See [Bryson's book page](/wiki/books/economics-of-henry-george/) for the full analysis. (D-claim; interpretive)
+Phillip Bryson's *The Economics of Henry George* (2011) provides the most comprehensive modern academic rehabilitation of George as an economist. Bryson argues that George's "perspectives retain strong relevance in contemporary issues such as land use, urban development and planning, taxation, and property rights" and that "contemporary economists would generally agree that it makes sense to utilize those ideas" (Bryson 2011, p. 6). See [Bryson's book page](/books/economics-of-henry-george/) for the full analysis. (D-claim; interpretive)
 
 Bryson highlights Schumpeter's assessment that George was "a very orthodox economist and extremely conservative as to methods," whose methods were "those of the English classics" with Adam Smith as his favorite (Bryson 2011, p. 5). George refined the definitions of land, labor, capital, rent, wages, and interest to make them "comprehensive, and mutually exclusive" (Bryson 2011, p. 84), and his distribution theory explains why "progress" and "poverty" coexist: as population grows, land values rise, rent claims a larger share, and wages and interest decline relative to rent (Bryson 2011, pp. 80–82). (C-claim; theoretical)
 
@@ -74,7 +74,7 @@ The volume's contributors extend Georgism into new domains: Nicolaus Tideman arg
 
 > "Henry George's message appears destined to fall between political stools. To Greens it offers equitable sharing of the world's natural resources; to non-Greens, economic efficiency and, hence, growth. Within both groups, it offers thoroughgoing private ownership of producible goods and services to those of Rightward persuasion, and untrammelled social ownership of natural resources to those of Leftward persuasion." — David Richards, in Noyes 1991, p. 159
 
-See: [Now the Synthesis (Noyes)](/wiki/books/now-the-synthesis/)
+See: [Now the Synthesis (Noyes)](/books/now-the-synthesis/)
 
 ## See Also
 
@@ -84,7 +84,7 @@ See: [Now the Synthesis (Noyes)](/wiki/books/now-the-synthesis/)
 - [Land Value Tax](/wiki/land-value-tax/) — the central policy proposal
 - [Single Tax](/wiki/single-tax/) — the 19th-century political movement
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the foundational text
-- [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/books/from-wasteland-to-promised-land/) — Georgism as liberation theology
+- [From Wasteland to Promised Land (Andelson & Dawsey)](/books/from-wasteland-to-promised-land/) — Georgism as liberation theology
 - [Robert V. Andelson](/wiki/robert-v-andelson/) — Georgist defender and editor of *Critics of Henry George*
 - [Phillip J. Bryson](/wiki/phillip-bryson/) — economist who rehabilitated George as economic theorist
 - [Herman E. Daly](/wiki/herman-daly/) — ecological economist connecting Georgism to environmental limits
@@ -95,7 +95,7 @@ See: [Now the Synthesis (Noyes)](/wiki/books/now-the-synthesis/)
 1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
 2. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* (3rd ed.) — used for the implementation survey (A/B-claims; the standard comparative reference).
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for the editions of George's works cited throughout (custodial source).
-4. Robert V. Andelson and James M. Dawsey, *From Wasteland to Promised Land: Liberation Theology for a Post-Marxist World* (Orbis Books / Shepheard-Walwyn, 1992) — used for the liberation theology framing of Georgism (D-claims). [Book page](/wiki/books/from-wasteland-to-promised-land/)
-5. Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (New York: Robert Schalkenbach Foundation, 1979) — used for the defense against critics, the "conspiracy of silence" thesis, and Schumpeter's assessment (D-claims). [Book page](/wiki/books/critics-of-henry-george/)
-6. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011) — used for the rehabilitation thesis, George's methodology, and distribution theory (C/D-claims). [Book page](/wiki/books/economics-of-henry-george/)
-7. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (London: Shepheard-Walwyn, 1991) — used for the post-Cold War synthesis framing, Tideman's constitutional argument, Harrison's planning gain analysis, and Richards's Green-Georgist connection (C/D-claims). [Book page](/wiki/books/now-the-synthesis/)
+4. Robert V. Andelson and James M. Dawsey, *From Wasteland to Promised Land: Liberation Theology for a Post-Marxist World* (Orbis Books / Shepheard-Walwyn, 1992) — used for the liberation theology framing of Georgism (D-claims). [Book page](/books/from-wasteland-to-promised-land/)
+5. Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (New York: Robert Schalkenbach Foundation, 1979) — used for the defense against critics, the "conspiracy of silence" thesis, and Schumpeter's assessment (D-claims). [Book page](/books/critics-of-henry-george/)
+6. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011) — used for the rehabilitation thesis, George's methodology, and distribution theory (C/D-claims). [Book page](/books/economics-of-henry-george/)
+7. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (London: Shepheard-Walwyn, 1991) — used for the post-Cold War synthesis framing, Tideman's constitutional argument, Harrison's planning gain analysis, and Richards's Green-Georgist connection (C/D-claims). [Book page](/books/now-the-synthesis/)

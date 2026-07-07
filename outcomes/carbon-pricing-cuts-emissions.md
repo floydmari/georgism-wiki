@@ -78,7 +78,7 @@ revenue-recycling design is what makes it politically durable.
 
 ### Barnes: The Sky Trust Proposal
 
-Peter Barnes's sky trust proposal — a trust to manage the atmosphere on behalf of future generations, charging dumpers and paying dividends to citizens — is presented as the prototype for commons trusts in [*Capitalism 3.0*](/wiki/books/capitalism-3-0/) (2006, Ch. 1). The sky trust design — cap carbon, auction permits, pay every citizen an equal dividend — applies the Georgist rent-capture principle to the atmospheric commons: charge for use of what nobody made, return the proceeds to all. Barnes frames the stakes starkly: "The question our generation faces is: will we change our economic system voluntarily, or let the atmosphere change it for us?" (Barnes 2006, Ch. 1). (C-claim; theoretical)
+Peter Barnes's sky trust proposal — a trust to manage the atmosphere on behalf of future generations, charging dumpers and paying dividends to citizens — is presented as the prototype for commons trusts in [*Capitalism 3.0*](/books/capitalism-3-0/) (2006, Ch. 1). The sky trust design — cap carbon, auction permits, pay every citizen an equal dividend — applies the Georgist rent-capture principle to the atmospheric commons: charge for use of what nobody made, return the proceeds to all. Barnes frames the stakes starkly: "The question our generation faces is: will we change our economic system voluntarily, or let the atmosphere change it for us?" (Barnes 2006, Ch. 1). (C-claim; theoretical)
 
 The sky trust model connects directly to the carbon-pricing evidence on this page: the British Columbia carbon tax demonstrates that pricing emissions reduces them (B-claim), while Barnes's design adds the dividend mechanism that makes the charge politically durable and distributionally fair. The cap-and-dividend bills (2009–2024) based on Barnes's design never received a vote, as noted on the [ecological-rent narrative](/wiki/ecological-rent/) page — evidence of the idea's persistence and of its political ceiling to date. (D-claim; interpretive)
 
@@ -89,7 +89,7 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
 - [Who Owns the Sky? (Barnes)](/wiki/barnes-sky-trust/) — the cap-and-dividend design
 - [Congestion Pricing](/wiki/congestion-pricing/) — the sibling commons-pricing case
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
-- [Capitalism 3.0](/wiki/books/capitalism-3-0/) — Barnes's sky trust proposal
+- [Capitalism 3.0](/books/capitalism-3-0/) — Barnes's sky trust proposal
 
 ## Sources
 
@@ -121,4 +121,4 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
    [Springer](https://link.springer.com/article/10.1007/s10640-022-00679-w)
 7. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler,
    2006) — used for the sky trust proposal as the commons-trust prototype for
-   atmospheric rent capture (C-claim). [Book page](/wiki/books/capitalism-3-0/)
+   atmospheric rent capture (C-claim). [Book page](/books/capitalism-3-0/)

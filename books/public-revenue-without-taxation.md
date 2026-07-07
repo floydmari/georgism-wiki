@@ -28,7 +28,7 @@ Burgess argues that both demand-side (Keynesian) and supply-side (monetarist/Chi
 
 ### Colin Clark's 25% Limit (Ch. 1, p. 2)
 
-Burgess cites Colin Clark's finding, first argued in *The Economic Journal* of December 1945, that inflation becomes inevitable when total government tax revenue plus borrowing exceeds 25% of net national product at market prices. Keynes agreed with Clark, and subsequent experience in most countries appears to support this view. Burgess notes that demand-side full-employment budgets result in this limit being "substantially exceeded" (Burgess 1993, Ch. 1, p. 2).
+Burgess cites Colin Clark's finding, first argued in *The Economic Journal* of December 1945, that inflation becomes inevitable when total government tax revenue plus ing exceeds 25% of net national product at market prices. Keynes agreed with Clark, and subsequent experience in most countries appears to support this view. Burgess notes that demand-side full-employment budgets result in this limit being "substantially exceeded" (Burgess 1993, Ch. 1, p. 2).
 
 ### The Supply-Side Failure (Ch. 1, pp. 3–4)
 
