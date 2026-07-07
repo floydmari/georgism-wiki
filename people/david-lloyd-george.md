@@ -171,6 +171,14 @@ site value (as practised in Denmark or, in modified form, several US jurisdictio
 administrable than taxing *realized* increments at the point of sale, which is what the 1909–20
 British duties chiefly tried to do.[11]
 
+## Book Findings: Murray on the People's Budget
+
+Bruce K. Murray's *The People's Budget 1909/10* (1980) provides the most detailed scholarly account of the Budget's fiscal strategy and political context. Murray documents that the Budget was essentially Lloyd George's personal initiative, who had to fight "long and hard" against a Treasury "still strongly attached to Gladstonian orthodoxy" and through a Cabinet "alarmed by the boldness of the Budget" (Murray 1980, p. 21). (A-claim; factual)
+
+Murray shows the Budget was carefully designed to avoid directly antagonizing the bulk of the middle classes. The increases in direct taxation were aimed mainly at the wealthy and at unearned sources of income. The *Liberal Magazine* for May 1909 noted: "the middle class who work for the incomes which are taxed are most gently treated; the 'rentier' middle class rather less gently" (Murray 1980, p. 21). The land-value duties sought to tax "property values created by the community" — a Georgist principle applied through incremental taxation rather than full rent collection. (A/D-claim; factual/interpretive)
+
+Murray documents that the Budget's rejection by the Unionist-dominated House of Lords triggered the constitutional crisis. The question of how social reform was to be financed was "the core of the argument" between Liberal and Unionist parties by 1909/10 (Murray 1980, citing P.F. Clarke). The Liberal Government made "the deliberate decision to opt for direct taxation" (Clarke, quoted by Murray). See [People's Budget 1909/10](/wiki/books/peoples-budget-1909/). (A-claim; factual)
+
 ## See Also
 
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the budget he introduced as Chancellor
@@ -258,3 +266,7 @@ British duties chiefly tried to do.[11]
     tenure had broken down (A-claim). [VERIFY: the "Green Book" nickname and its cover-colour
     origin are corroborated by general secondary reference material but not confirmed against a
     library catalogue record or facsimile in this session.]
+15. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy*
+    (Oxford: Oxford University Press, 1980) — used for the Budget's fiscal strategy, Lloyd
+    George's fight against Treasury orthodoxy, and the design of the land-value duties
+    (A/D-claims). [Book page](/wiki/books/peoples-budget-1909/)

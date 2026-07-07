@@ -50,6 +50,20 @@ Land speculation matters because it:
 2. **Amplifies land-price cycles**, feeding credit expansion during booms and financial distress during busts — the dynamic at the heart of the [land speculation causes boom and bust](/wiki/land-speculation-causes-cycles/) narrative.
 3. **Misallocates capital and labour**, as high land rents price productive users out of the best locations — related to the outcome that [high land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/).
 
+## Book Findings
+
+### Adams: Land Speculation as Wealth Inequality Driver
+
+Martin Adams's *Land: A New Paradigm for a Thriving World* (2015) presents land speculation as the root mechanism driving wealth inequality, business recessions, and ecological destruction. Adams argues that "the anticipated increase in rent induces speculators to buy land for price appreciation rather than for present use" (Adams 2015, Ch. 5, quoting Foldvary), causing land values to rise beyond what enterprises can profitably sustain and triggering depressions. (D-claim; interpretive)
+
+Adams frames land ownership as an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners, allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). He compares this to the market for internet domain names, where limited supply enables rent extraction. (C-claim; theoretical)
+
+Adams reproduces Fred Harrison's 18-year land cycle table (1818–2008) and cites both Harrison's and Foldvary's independent 1997 predictions of the 2008 depression as evidence that the speculative cycle is both real and foreseeable (Adams 2015, Ch. 5, Table 5-3). (B-claim; empirical)
+
+> "Whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality." — Martin Adams, Ch. 4
+
+See: [Land: A New Paradigm (Adams)](/wiki/books/land-a-new-paradigm/)
+
 ## See Also
 
 - [Speculative Vacancy](/wiki/speculative-vacancy/) — the visible symptom of speculative holding
@@ -65,5 +79,6 @@ Land speculation matters because it:
 3. Homer Hoyt (1933), *One Hundred Years of Land Values in Chicago* — used for the founding empirical documentation of recurring land-value boom-bust cycles.
 4. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for the revived 18-year cycle framework and its speculative mechanism.
 5. Case & Shiller (2003), homebuyer survey evidence on speculative price expectations — as referenced in the [outcome page](/wiki/lvt-dampens-land-speculation/) and [Case-Shiller research page](/wiki/case-shiller-2003-bubble/). [CITATION NEEDED: direct source URL and full citation for Case & Shiller 2003 Brookings paper]
+6. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the entry-monopoly framing and the 18-year cycle evidence (B/C/D-claims). [Book page](/wiki/books/land-a-new-paradigm/)
 
 [CITATION NEEDED: page-level citations from Glaeser (2013) full text for the "simple heuristic models" quote and specific historical episodes; page-level citations from Hoyt (1933) for the boom-bust rhythm claim; direct URL for Case & Shiller (2003) Brookings paper.]

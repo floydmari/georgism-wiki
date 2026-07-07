@@ -62,6 +62,21 @@ contested empirical magnitudes.
   compiled in [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/),
   which argues the efficiency case for land taxation is not a fringe position within the
   economics profession.[6]
+- **Ronald Burgess** argues in [*Public Revenue Without Taxation*](/wiki/books/public-revenue-without-taxation/)
+  (1993) that taxation is "a primal cause of both inflation and unemployment" and that
+  land rent collection is a non-coercive alternative that "does not offend against the
+  principle of private property" (Burgess 1993, Ch. 1, p. 1, Ch. 2, p. 13). His
+  contribution to this narrative is the framing that LVT is not a tax at all but the
+  collection of value that already belongs to the public — strengthening the
+  "tax land, not labor" argument by denying that land rent capture is taxation in the
+  first place.[B]
+- **Martin Adams** makes a contemporary popular case in [*Land: A New Paradigm for a
+  Thriving World*](/wiki/books/land-a-new-paradigm/) (2015) that "by allowing some
+  people to profit from land, we have privatized community wealth, which allows a few
+  to live off the lives of the rest of us" (Adams 2015, Introduction). Adams's
+  contribution is the accessibility of the argument — translating the classical
+  land/capital distinction and the deadweight-loss logic into plain language for a
+  general audience, and connecting it to wealth inequality data.[A]
 
 ## Research That Supports It
 
@@ -194,6 +209,12 @@ about scale and evidence design than about the core theory, which is widely acce
   evidence the efficiency case is a live position inside the economics mainstream, not
   a fringe one.[8]
 
+## Book Findings: The People's Budget as Historical Precedent
+
+Bruce K. Murray's *The People's Budget 1909/10* (1980) documents the most significant historical attempt to shift taxation from labor to land in a major democracy. The 1909 People's Budget, introduced by Chancellor [David Lloyd George](/wiki/david-lloyd-george/), was designed to raise revenue for social reform through progressive direct taxation, including land-value duties. Winston Churchill framed the divide as "the difference between the taxation of wages and the taxation of wealth" (Murray 1980, p. 17) — a formulation that directly anticipates the "tax land, not labor" narrative. (A-claim; factual)
+
+Murray documents that the Budget was carefully designed to avoid burdening the working and middle classes: "the middle class who work for the incomes which are taxed are most gently treated; the 'rentier' middle class rather less gently" (*Liberal Magazine*, May 1909, quoted by Murray 1980, p. 21). The land-value duties sought to capture "property values created by the community" — a Georgist principle applied through incremental taxation. The House of Lords' rejection of the Budget triggered a constitutional crisis, illustrating both the high political ceiling and the fierce institutional resistance to shifting taxation from labor to land. See [People's Budget 1909/10](/wiki/books/peoples-budget-1909/). (A/D-claim; factual/interpretive)
+
 ## How to Deploy It
 
 - **Audience.** This is the narrative for economists, fiscal-policy wonks, and
@@ -307,3 +328,7 @@ about scale and evidence design than about the core theory, which is widely acce
     used for the split-rate construction evidence distinguishing LVT from an ordinary
     property tax (B-claim); full citations on the linked
     [outcome page](/wiki/split-rate-increases-construction/).
+15. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy*
+    (Oxford: Oxford University Press, 1980) — used for the People's Budget as historical
+    precedent for shifting taxation from labor to land (A/D-claims).
+    [Book page](/wiki/books/peoples-budget-1909/)

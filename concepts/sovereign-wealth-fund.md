@@ -68,6 +68,16 @@ Sovereign wealth funds demonstrate several principles central to Georgist resour
 - **The distribution mechanism matters.** Alaska's per-capita approach provides direct, transparent income support and has proven politically durable; Norway's budget-based approach provides public services and fiscal stability. The Georgist case for [citizens' dividends](/wiki/citizens-dividend/) emphasizes the transparency and political durability of direct distribution.
 - **The concept extends to land rents.** The Common Wealth Fund proposal illustrates how the sovereign wealth fund mechanism could be applied to [land value tax](/wiki/land-value-tax/) revenue, extending resource-rent capture to the non-depleting rent of land itself.
 
+## Book Findings
+
+### Barnes: Commons Trusts as Sovereign Wealth Mechanism
+
+Peter Barnes's commons trust model in [*Capitalism 3.0*](/wiki/books/capitalism-3-0/) (2006) functions as a form of sovereign wealth mechanism for common assets beyond mineral resources. Barnes proposes that commons trusts — "market-based legal entities with the power to limit use of scarce commons, charge rent, and pay dividends" (Barnes 2006, p. 2) — would manage assets such as the atmosphere, electromagnetic spectrum, and water on behalf of present and future generations. The trust model parallels sovereign wealth funds in its capitalization (from common-asset rents), investment logic, and distribution mechanism (per-capita dividends), but extends the concept from depleting mineral rents to renewable common-asset rents. (C-claim; theoretical)
+
+Barnes explicitly references the Alaska Permanent Fund as a model for his commons trust design, arguing that "birthrights to common wealth" should be created as an extension of the Alaska dividend approach (Barnes 2006, Ch. 5–9). The Alaska model demonstrates that a sovereign wealth fund capitalized from resource rents and distributing per-capita dividends is politically durable and administratively workable; Barnes proposes replicating this mechanism for non-mineral common assets. (D-claim; interpretive)
+
+The commons trust framework also addresses a gap in the sovereign wealth fund model noted above: while existing sovereign wealth funds (Alaska, Norway) are capitalized from depleting mineral-extraction rents, Barnes's commons trusts would be capitalized from the rent of renewable common assets (atmosphere, spectrum) that do not deplete. This makes the commons trust a potential mechanism for perpetual, non-depleting rent capture — closer to the Georgist ideal of land-rent capture than to the oil-rent funds that dominate the existing sovereign wealth fund landscape. (D-claim; interpretive)
+
 ## See Also
 
 - [Citizen's Dividend](/wiki/citizens-dividend/)
@@ -77,6 +87,7 @@ Sovereign wealth funds demonstrate several principles central to Georgist resour
 - [Common Wealth Canada](/wiki/common-wealth-canada/)
 - [Hartwick Rule](/wiki/hartwick-rule/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
+- [Capitalism 3.0](/wiki/books/capitalism-3-0/) — Barnes's commons trusts as sovereign wealth mechanism
 
 ## Sources
 
@@ -88,10 +99,12 @@ Sovereign wealth funds demonstrate several principles central to Georgist resour
 
 4. Common Wealth Canada, "Natural Common Wealth and Economic Rent in Canada" (2023). [commonwealth.ca/report](https://www.commonwealth.ca/report) — used for reference to sovereign wealth fund mechanisms in the context of Canadian resource-rent capture.
 
-5. Wiki corpus: [Alaska](/wiki/alaska/) place page — used for the Alaska dividend model's structure, distributional effects, oil-rent-vs.-land-rent distinction, and post-2016 political challenges.
+5. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust as sovereign wealth mechanism for renewable common assets (C/D-claims). [Book page](/wiki/books/capitalism-3-0/)
 
-6. Wiki corpus: [Norway](/wiki/norway/) place page — used for the Norway save-and-budget model, the Alaska–Norway comparison, and the Hartwick rule connection.
+6. Wiki corpus: [Alaska](/wiki/alaska/) place page — used for the Alaska dividend model's structure, distributional effects, oil-rent-vs.-land-rent distinction, and post-2016 political challenges.
 
-7. Wiki corpus: [Common Wealth Canada](/wiki/common-wealth-canada/) organization page — used for the Common Wealth Fund proposal details and the extension of sovereign wealth fund concepts to land rents.
+7. Wiki corpus: [Norway](/wiki/norway/) place page — used for the Norway save-and-budget model, the Alaska–Norway comparison, and the Hartwick rule connection.
+
+8. Wiki corpus: [Common Wealth Canada](/wiki/common-wealth-canada/) organization page — used for the Common Wealth Fund proposal details and the extension of sovereign wealth fund concepts to land rents.
 
 [CITATION NEEDED: primary sources on Norway's Government Pension Fund Global — founding legislation, petroleum tax regime, fiscal rule, fund size, and governance structure. The supplied corpus does not contain any source specifically about Norway's oil fund beyond the Goldsmith contrast with Alaska.]
