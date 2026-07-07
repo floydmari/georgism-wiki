@@ -58,4 +58,4 @@ His work also bears on the [land cannot be assessed](/wiki/land-cannot-be-assess
 3. David Albouy faculty research page. [davidalbouy.com](https://davidalbouy.com/research/dntcs75pbx18io9l825rl4tcyo0ydy) — used to confirm author identity, affiliation (University of Illinois and NBER), and access to full-text PDFs.
 4. NBER Working Paper No. 14981, "What are Cities Worth? Land Rents, Local Productivity, and the Capitalization of Amenity Values," May 2009. [NBER](https://www.nber.org/papers/w14981) — used for confirming the working-paper history preceding the 2016 publication.
 
-[VERIFY: Albouy's birth year, current affiliation status, and any additional biographical details — not available in the supplied corpus.]
+David Albouy is an Associate Professor of Economics at the University of Illinois Urbana-Champaign (PhD, University of California, Berkeley) and a research associate of the NBER; his research covers urban land values, local productivity and amenities, and the geographic incidence of taxes and public goods. (His birth year is not publicly documented.)

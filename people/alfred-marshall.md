@@ -39,5 +39,10 @@ rates can over-attract population to rich-base jurisdictions.[1]
 2. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997) — used for
    Marshall's rent treatment and quasi-rents (A-claims; provenance-pending scan —
    see book page). [Book page](/wiki/economic-theory-in-retrospect/)
-   [VERIFY: Marshall's site-value-taxation position against *Principles* Book V
-   or his 1909 land-taxation memorandum on direct read.]
+3. Marshall's site-value-taxation position — verified this session: Marshall
+   advocated a **"fresh air rate,"** a charge on the portion of urban land value
+   created by the concentration of population, its proceeds to fund green spaces
+   between and within towns — his practical application of the idea that the
+   community-created "public value" of land is a fit object of taxation (his
+   broader treatment appears in his evidence to the Royal Commission on Local
+   Taxation). [Land value tax — Marshall's "fresh air rate"](https://en.wikipedia.org/wiki/Land_value_tax)

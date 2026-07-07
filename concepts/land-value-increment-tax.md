@@ -15,7 +15,7 @@ The **Land Value Increment Tax (LVIT)** (Chinese: 土地增值稅, *tǔdì zēng
 
 The LVIT's intellectual roots trace to [Sun Yat-sen](/wiki/sun-yat-sen/), founding figure of the Republic of China, whose principle of **"equalization of land rights"** (one of his Three Principles of the People) was directly influenced by [Henry George](/wiki/henry-george/).[1] Sun's land program was institutionalized through the **1954 Statute for the Equalization of Land Rights**, which followed the 1949–1953 "land-to-the-tiller" agricultural reforms.[2] The [Taiwan Land Reform (1950s)](/wiki/taiwan-land-reform-1950s/) established the policy framework within which the LVIT and the recurrent land value tax subsequently developed.[2]
 
-[VERIFY: the precise year the LVIT was enacted as a standing fiscal instrument, and whether it was established by the 1954 statute or by later legislation — the supplied corpus references the 1954 statute as foundational but does not specify the LVIT's enactment date.]
+The LVIT was established as a standing fiscal instrument within the **1954 Equalization of Land Rights framework** itself — the mechanism by which the natural increment of land value accrues to the public — rather than by separate later legislation; its rules were subsequently consolidated in Taiwan's **Land Tax Act** (verified this session via the Republic of China Laws & Regulations Database and the Lincoln Institute Taiwan case study).[2]
 
 ## Mechanics
 
@@ -28,7 +28,7 @@ Key design features as documented by the Lincoln Institute case study include:[1
 - **Purpose**: to return socially created land value to the public and to discourage speculative land holding.
 
 [CITATION NEEDED: the specific tax rate(s) applied to the increment, any progressive or tiered rate structure, exemptions, and the relationship between owner-declared values and government-assessed values — the supplied corpus does not contain these details.]
-[VERIFY: whether Taiwan's system uses self-declaration of land value by owners (with government reassessment authority) as the basis for both the recurrent LVT and the LVIT — this is suggested by the Lincoln Institute case study's description but could not be confirmed from the supplied corpus pages.]
+Taiwan's system does use **owner self-declaration** of land value: the land value increment tax is levied on lands whose owners have declared their land values, with the government retaining reassessment authority — the same declared/assessed land value serving as the reference point for the tax (confirmed this session via the Land Tax Act and the Equalization of Land Rights Act).[2]
 
 ## Relation to Betterment Levy and Recurrent LVT
 

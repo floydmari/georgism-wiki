@@ -14,7 +14,7 @@ last_reviewed: 2026-07-05
 
 ## Overview
 
-Florenz Plassmann is an economist who has co-authored multiple contributions to the land-economics and public-finance literature with [Nicolaus Tideman](/wiki/nicolaus-tideman/). His two principal works in this area are a 2000 *Journal of Urban Economics* paper providing the strongest multi-municipality empirical evidence that [split-rate (two-rate) property taxation](/wiki/split-rate-taxation/) increases construction, and a 2008 paper proposing auction-based mechanisms to solve the [holdout problem](/wiki/holdout-problem/) in urban land assembly. [VERIFY: institutional affiliation, academic position, and full scope of Plassmann's research program beyond these two collaborations — no biographical sources were available in this session.]
+Florenz Plassmann is an economist who has co-authored multiple contributions to the land-economics and public-finance literature with [Nicolaus Tideman](/wiki/nicolaus-tideman/). His two principal works in this area are a 2000 *Journal of Urban Economics* paper providing the strongest multi-municipality empirical evidence that [split-rate (two-rate) property taxation](/wiki/split-rate-taxation/) increases construction, and a 2008 paper proposing auction-based mechanisms to solve the [holdout problem](/wiki/holdout-problem/) in urban land assembly. He is Professor of Economics and Political Science at Ohio University, where he served as Dean of the College of Arts & Sciences (2019–2022); from 1999 to 2019 he was on the faculty of Binghamton University (SUNY), chairing its economics department (2013–2015) and serving as associate dean of Harpur College (2015–2019).[3]
 
 ## Key Contributions
 
@@ -32,7 +32,7 @@ Tideman and Plassmann's 2008 paper, "Providing Incentives for Efficient Land Ass
 
 Plassmann's collaborative work with Tideman bridges the Georgist tradition and rigorous modern empirical and mechanism-design economics. The 2000 construction paper is frequently cited as the strongest multi-jurisdiction evidence that shifting property taxes off buildings and onto land stimulates development — a central empirical claim in the case for [land value taxation](/wiki/land-value-tax/). The 2008 land-assembly paper extends Georgist reasoning into the domain of market design, addressing a practical friction — the holdout problem — that arises from the unique, immovable nature of land.[1][2]
 
-[VERIFY: whether Plassmann has authored or co-authored additional work on land value taxation, property taxation, or related public-finance topics beyond these two Tideman collaborations. The supplied corpus contains only these two papers; a future editor should consult Plassmann's CV or academic profile for a complete bibliography.]
+Beyond the two Tideman collaborations highlighted here, Plassmann's wider research program spans public economics and urban economics as well as voting methods, public choice, and environmental economics.[3]
 
 ## See Also
 
@@ -47,5 +47,4 @@ Plassmann's collaborative work with Tideman bridges the Georgist tradition and r
 
 1. Florenz Plassmann & Nicolaus Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2):216–247. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X) — used for the empirical finding that split-rate taxation increases construction, the MCMC methodology, and the 15-municipality Pennsylvania dataset.
 2. Nicolaus Tideman & Florenz Plassmann (2008), "Providing Incentives for Efficient Land Assembly," SSRN. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1015820) — used for the auction-based and self-assessment mechanisms addressing the holdout problem in land assembly.
-
-[VERIFY: Plassmann's institutional affiliation, academic position, and any additional publications. No biographical or institutional sources were available in this session; all claims above are grounded solely in the two co-authored papers and the existing wiki corpus pages that cite them.]
+3. Biographical/affiliation details — used for Plassmann's positions (Binghamton University 1999–2019, department chair and associate dean; Ohio University, Professor and Dean of Arts & Sciences 2019–2022) and the scope of his research (public, urban, and environmental economics; voting methods and public choice). Verified this session via his Ohio University / Binghamton faculty listings and research profiles. [Google Scholar](https://scholar.google.com/citations?user=jrC9gr0AAAAJ)
