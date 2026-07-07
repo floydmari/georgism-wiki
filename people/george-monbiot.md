@@ -19,8 +19,10 @@ carrying the land question in Britain: his January 2013 column endorsed
 shirker";[2] he edited **Land for the Many** (2019), the land-reform report
 commissioned by the UK Labour Party (co-authored with Laurie Macfarlane, Guy
 Shrubsole, Beth Stratford and others), whose proposals — replacing council tax
-with a progressive property tax, community land trusts, land-market transparency —
-put land ownership on a major party's policy agenda;[3] and his 2020 Schumacher
+with "a progressive property tax, payable by owners, not tenants," replacing
+business rates "with a land value tax, based on rental value," community land
+trusts, and land-market transparency — put land ownership on a major party's policy
+agenda;[3] and his 2020 Schumacher
 Lecture, "Private Sufficiency, Public Luxury," argues land is the key to
 commons-based transformation, the framing this wiki's
 [ecological-rent narrative](/wiki/ecological-rent/) deploys.[4]
@@ -52,9 +54,12 @@ tax, and his commons politics draws as much on ecological as on Georgist economi
    Party, June 2019.
    [PDF](https://labour.org.uk/wp-content/uploads/2019/06/12081_19-Land-for-the-Many.pdf)
    · [Monbiot's launch column "Landfall"](https://www.monbiot.com/2019/06/12/landfall/)
-   — used for the report's role and headline proposals (A/C-claims; snippet-
-   corroborated, full text unfetched — proxy). [VERIFY: exact proposal wording on
-   direct read.]
+   — used for the report's role and headline proposals (A/C-claims). Proposal
+   wording confirmed on direct read of the "Landfall" launch column (2026-07-07):
+   "replace the council tax with a progressive property tax, payable by owners, not
+   tenants," "Business rates should be replaced with a land value tax, based on
+   rental value," capital gains tax on second homes to "match or exceed the rates of
+   income tax," and "A 15% offshore tax... on properties owned through tax havens."
 4. George Monbiot, "Private Sufficiency, Public Luxury: Land is the Key to the
    Transformation of Society," 40th Annual E.F. Schumacher Lecture, Schumacher
    Center for a New Economics, 2020.
