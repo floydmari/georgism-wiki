@@ -76,6 +76,24 @@ The book is primarily a policy argument rather than an empirical study. The Alas
 
 Barnes insists his proposal requires "no new taxes" and is "purely market-based" once established (Barnes 2014, Ch. 1). This framing is designed to appeal across the political spectrum but may understate the role of government in establishing and enforcing the property rights framework that makes the trusts work.
 
+## Key Quotes
+
+> "The idea is that all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth. And the time to implement it has arrived." — Peter Barnes, With Liberty and Dividends for All, Chapter 1
+
+> "Dividends of this sort aren't redistribution; they're a way to allocate income fairly in the first place so that there's less need to redistribute later. Nor are they government transfers or private charity. Rather, they're legitimate property income." — Peter Barnes, With Liberty and Dividends for All, Preface
+
+> "My inspiration was that Monopoly itself had been invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George. If I could invent a similar game in which markets respected nature and narrowed the gap between rich and poor, perhaps it could inspire a real-world economy that did the same things. (Alas, Monopoly was later copied, patented, and promoted by Parker Brothers, now Hasbro, as a celebration rather than a critique of capitalism.)" — Peter Barnes, With Liberty and Dividends for All, Chapter 1
+
+> "There are two kinds of property. Firstly, natural property, or that which comes to us from the Creator of the universe—such as the earth, air, water. Secondly, artificial or acquired property—the invention of men. The latter kind of property must necessarily be distributed unequally, but the first kind rightfully belonged to everyone equally." — Thomas Paine, Agrarian Justice (quoted by Peter Barnes in With Liberty and Dividends for All, Chapter 1)
+
+> "Paine's genius was to invent a way to distribute income from shared ownership of natural property. He proposed a 'National Fund' to pay every man and woman fifteen pounds at age twenty-one and ten pounds a year after age fifty-five. Revenue for the fund would come from 'ground rent' paid by landowners, the privatizers of natural wealth. Paine even showed mathematically how this could work." — Peter Barnes, With Liberty and Dividends for All, Chapter 1
+
+> "Presciently, Paine recognized that land, air, and water could be monetized, not just for the benefit of a few but for the good of all. Further, he saw that this could be done at a national level. This was a remarkable feat of analysis and imagining." — Peter Barnes, With Liberty and Dividends for All, Chapter 1
+
+> "Rent is one of the most important and underused concepts in economics. As I (and most economists) use the term, rent is the money paid to businesses over and above their costs of labor and capital in competitive markets. It includes premiums paid for scarce things and excessive profits extracted by monopolies, oligopolies, and industries coddled by government." — Peter Barnes, With Liberty and Dividends for All, Chapter 3
+
+> "Rent isn't talked about much in polite society; it's the eight-hundred-pound gorilla that everyone pretends isn't there. Economists in particular rarely mention it, not out of ignorance but because they find it awkward to offend those who extract it disproportionately. The time has come, though, to bring rent out of the closet, for it holds the key to saving our middle class and planet." — Peter Barnes, With Liberty and Dividends for All, Chapter 3
+
 ## Bears On
 
 - Universal Dividend — the book's central proposal

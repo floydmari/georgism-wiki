@@ -66,6 +66,24 @@ Neeson does not offer explicit policy recommendations; the book is a work of his
 - The book's focus on common-field villages means it does not address regions where common right was already weak or absent before parliamentary enclosure.
 - Some historians (e.g., Donald McCloskey, Robert Allen) have argued that enclosure increased agricultural productivity; Neeson engages with but does not fully resolve this debate.
 
+## Key Quotes
+
+> "The interest which a commoner has in a common is, in the legal phrase, to eat the grass with the mouths of his cattle, or to take such other produce of the soil as he may be entitled to. The soil itself, the land, was not the commoner's, but the use of it was." — Halsbury's Laws of England, quoted by J.M. Neeson, Introduction
+
+> "Enclosure—rightly named—meant the closing of the countryside." — J.M. Neeson, Introduction
+
+> "These paths are stopt—the rude philistines thrall / Is laid upon them and destroyed them all / Each little tyrant with his little sign / Shows where man claims earth glows no more divine / But paths to freedom and to childhood dear / A board sticks up to notice 'no road here.'" — John Clare, 'The Mores', quoted by J.M. Neeson, Introduction
+
+> "Common right was defended at the centre of government in sermons, pamphlets, judgements and speeches for three hundred years. Eighteenth-century defenders wrote in the tradition of Thomas More, Hugh Latimer, Thomas Lever, Robert Crowley, John Hales, Sir Francis Bacon, the Levellers at Putney, Gerrard Winstanley and John Moore." — J.M. Neeson, Ch. 1, The Question of Value
+
+> "The true interest of a nation, the authority of government, and the liberties and property of the subject, are all best established and promoted, by keeping things in a state in which the bulk of the people may support themselves and their families." — An Enquiry into the Reasons for and against Inclosing the Open Fields (Coventry, 1767), quoted by J.M. Neeson, Ch. 1
+
+> "Modern policy is, indeed, more favourable to the higher classes of people, and the consequences may in time prove that the whole kingdom will consist of only gentry and beggars, or grandees and slaves." — Dr. Richard Price, Observations on Reversionary Payments, quoted by J.M. Neeson, Ch. 1
+
+> "When, despite their best efforts, enclosure acts extinguished common right from most of lowland England in the late eighteenth and early nineteenth centuries, its loss played a large part in turning the last of the English peasantry into a rural working class." — J.M. Neeson, Introduction
+
+> "Strip the small farms of the benefit of the commons, and they are all at one stroke levelled to the ground." — Stephen Addington, Inquiry into the Advantages and Disadvantages Resulting from Bills of Enclosure (1780), quoted by J.M. Neeson, Ch. 1
+
 ## Bears On
 
 - [Land Speculation](/wiki/land-speculation/) — enclosure as a form of land monopolisation and dispossession

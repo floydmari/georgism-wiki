@@ -67,6 +67,22 @@ Bryson argues that George's ideas have been progressively validated by modern ec
 - Some of Bryson's claims about George's "rehabilitation" by modern economists are aspirational rather than fully documented [VERIFY specific citations in Ch. 6]
 - The land policy chapter is US-focused; international Georgist policy experiments are not covered
 
+## Key Quotes
+
+> "Even the panacea—nationalization not of land but of the rent of land by a confiscatory tax—benefited by his competence as an economist, for he was careful to frame his 'remedy' in such a manner as to cause the minimum injury to the efficiency of the private-enterprise economy. Professional economists who focused attention on the single-tax proposal and condemned Henry George's teaching, root and branch, were hardly just to him." — Joseph Schumpeter (quoted by Phillip J. Bryson, The Economics of Henry George, Chapter 1)
+
+> "His perspectives retain strong relevance in contemporary issues such as land use, urban development and planning, taxation, and property rights. Contemporary economists would generally agree that it makes sense to utilize those ideas in a manner that will 'extend their range of relevance' in those areas." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
+
+> "It is in this area that George's influence is apparently the most direct and durable. His legacy in this area is significant not only in academic terms, but also in terms of the policies that are guiding efforts made to rationalize these national concerns both in the United States and in numerous other countries around the world." — Phillip J. Bryson, The Economics of Henry George, Preface
+
+> "George was convinced that understanding and consensus could be achieved on scientific issues only if those issues were clearly and correctly defined. Reasoning that proceeded on the basis of such definitions could be productive of positive scientific achievement. He was further convinced that a basic problem with the political economy of his day was the failure to reason correctly about scientific phenomena related to wealth, precisely because wealth had not been carefully and correctly defined." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
+
+> "The most useful analytical tool is a form of hypothesis, a 'mental or imaginative experiment.' This is a method that enables us to separate, eliminate, or combine conditions 'in our own imaginations, and thus test the working of known principles.'" — Henry George (quoted by Phillip J. Bryson, The Economics of Henry George, Chapter 1)
+
+> "For at least half a century, George was terribly popular with the general public, but rather viciously attacked by academics. It would take time for history to sort out the mess. George was actually very competent and understood classical economics very well, so it was incumbent on history to recognize the value of his work. It ultimately did so and continues to do so." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
+
+> "George was decisive in his insistence that one could not develop a science of the production and distribution of wealth if the aspiring scientists could not decide what they mean by wealth. If they cannot do that, he thought, they will not be able to understand each other or even understand themselves." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
+
 ## Bears On
 
 - [Henry George](/wiki/henry-george/) — comprehensive academic analysis of his economics

@@ -61,6 +61,22 @@ Murray does not offer explicit policy recommendations; the book is a historical 
 - Murray focuses on the Liberal party's internal politics; the Unionist and Labour perspectives are treated more briefly.
 - The book was published in 1980 and does not engage with more recent historiography on Edwardian fiscal policy.
 
+## Key Quotes
+
+> "The difference between indirect and direct taxation was 'the difference between the taxation of wages and the taxation of wealth.'" — Winston Churchill, 1909, quoted by Murray, Introduction
+
+> "What was at issue in the contest over the 'People's Budget', including its rejection by the Unionist-dominated House of Lords, was whether wealth and large incomes were to make a larger contribution to the financing of social reform, and national defence, than wages." — Murray, Introduction
+
+> "The question of how social reform was to be financed was 'the core of the argument' between the Liberal and Unionist parties by 1909/10." — P.F. Clarke, quoted by Murray, Introduction
+
+> "The period between the Anglo-Boer War and the outbreak of World War I witnessed a marked upswing in government expenditure, notably for social reform and national defence, and the question of how this new expenditure was to be financed proved a major point of debate within parties and of cleavage between parties." — Murray, Introduction
+
+> "The traditional Liberal causes—'opposition to imperialism and militarism, Home Rule, temperance, the agitation against the landowners, and so forth'—aroused the enthusiasm of the Liberal party's middle-class rank and file." — D.A. Hamer, quoted by Murray, Introduction
+
+> "The measures that did occasion some overt resistance in the party were the Budgets for 1909 and 1914, which provided for the taxes to help finance new measures of reform as well as large increases in naval expenditure. It was, in other words, over the questions of the cost and financing of social reform that the main debate over social reform was waged within the Liberal party." — Murray, Introduction
+
+> "The Liberal Government made the 'deliberate decision to opt for direct taxation'." — P.F. Clarke, quoted by Murray, Introduction
+
 ## Bears On
 
 - [Land Value Tax](/wiki/land-value-tax/) — the 1909/10 land-value duties were the first significant attempt at LVT in UK law

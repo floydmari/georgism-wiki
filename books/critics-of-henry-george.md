@@ -69,6 +69,24 @@ Not all significant critics of George are covered. The selection focuses on publ
 
 The extracted text is heavily duplicated OCR with garbled characters. Some page citations are approximate. Cross-referencing against the physical text is recommended for precise quotation.
 
+## Key Quotes
+
+> "People do not argue with the teaching of George, they simply do not know it." — Leo Tolstoy, 1905 (quoted in Andelson's introduction, Critics of Henry George)
+
+> "He was a self-taught economist, but he was an economist. In the course of his life, he acquired most of the knowledge and of the ability to handle an economic argument that he could have acquired by academic training as it then was. In this he differed to his advantage from most men who proffered panaceas. Barring his panacea (the Single Tax) and the phraseology connected with it, he was a very orthodox economist and extremely conservative as to methods." — Joseph Schumpeter, History of Economic Analysis (quoted in Andelson's introduction, Critics of Henry George)
+
+> "Even the panacea—nationalization not of land but of the rent of land by a confiscatory tax—benefited by his competence as an economist, for he was careful to frame his 'remedy' in such a manner as to cause the minimum injury to the efficiency of the private-enterprise economy." — Joseph Schumpeter, History of Economic Analysis (quoted in Andelson's introduction, Critics of Henry George)
+
+> "Property in land ought not to be as absolute as property in chattels." — Samuel Smith, M.P., The Nationalisation of Land (quoted in Andelson's introduction, Critics of Henry George)
+
+> "After twenty pages of highly technical analysis accusing George of inconsistency, special pleading, and inattention to empirical facts, this critic concludes by acknowledging the truth of three of the most salient Georgist principles: that land is the gift of nature rather than the product of human toil; that its value is owing to the activities of the community rather than of the owner; and that a tax upon it is not, generally speaking, a burden on industry." — Robert V. Andelson, on Edgar H. Johnson's critique, Critics of Henry George, Ch. 1
+
+> "It was the role of land in society that constituted the massive preoccupation of Henry George, and the fact that the publication of his major work in 1879 generated sympathetic rumblings throughout much of the world indicated that he had touched upon a fundamental theme of political economy. It is strange, then, that the subject of land economics, particularly in its theoretical aspects, receives such scant attention at present." — George Babilot, 'The Essential Henry George,' Critics of Henry George, Ch. 2
+
+> "The land, according to both Genesis and geology, preceded the advent of man into the world, and there is no doubt that landed wealth has enjoyed a more persistent history than any other form. Even today, when a sophisticated economics has transmuted every kind of wealth into some variety of liquid capital, the land has continued to play its unique role. It is the very assumption upon which human existence is based, and the taken-for-granted foundation of all productive activity; it can be modified by man, but not created or destroyed except in tiny patches, and its essential qualities are impervious to either boom or depression." — George Babilot, 'The Essential Henry George,' Critics of Henry George, Ch. 2
+
+> "His is one of the great names among the world's social philosophers. It would require less than the fingers of the two hands to enumerate those who from Plato down rank with him. No man, no graduate of a higher educational institution, has a right to regard himself as an educated man in social thought unless he has some first-hand acquaintance with the theoretical contribution of this great American thinker." — John Dewey, 'An Appreciation of Henry George' (quoted in Critics of Henry George, Ch. 1 notes)
+
 ## Bears On
 
 - [Henry George](/wiki/henry-george/) — central subject of the volume

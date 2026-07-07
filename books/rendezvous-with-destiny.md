@@ -62,6 +62,20 @@ Goldman's book is a work of history, not advocacy, but it documents the policy p
 - The abridged Vintage edition may omit material relevant to Georgism present in the original Knopf edition
 - OCR quality of the extracted text is poor, with significant duplication and artifacts; page citations are approximate
 
+## Key Quotes
+
+> "The demoralizations of war — a spirit of gambling adventure, engendered by false [inflationary] systems of public finance; a grasping centralism, absorbing all functions from the local authorities, and assuming to control the industries of individuals by largesses to favored classes from the public treasury — were then, as now, characteristics of the period." — Samuel Tilden, Ch. 3 'Thrust from the Top', p. 26
+
+> "The beneficiaries of Congressional grants of the public property... the corporations whose hopes and fears are appealed to by the measures of the government... the rapacious hordes of carpetbaggers who have plundered the impoverished people of the South... have become numerous and powerful beyond any example in our country. For the first time in our national history such classes have become powerful enough to aspire to be in America the ruling classes, as they have been and are in the corrupt societies of the Old World." — Samuel Tilden, Ch. 3 'Thrust from the Top', p. 26
+
+> "The usual aristocrat of 1870 had little direct connection with industrial America. His money was inherited and had probably been made in land or in commerce rather than from operations associated closely with the factory system." — Goldman, Ch. 3 'Thrust from the Top', p. 28
+
+> "The 'chief evil' of the day was 'the alliance between industrialists and a political class which thinks like industrialists.' Civil-service reform would end the ability of politicians to entrench themselves in power and to sell the perquisites of power to men for whom 'the pursuit of happiness' means the pursuit of wealth." — Charles Bonaparte, quoted by Goldman, Ch. 3, p. 28
+
+> "In 1801 Jefferson had found the solution. He restored the rights of the States and the localities. He repressed the meddling of government in the concerns of private business. He enforced, by precept and by example, purity and bitterestedness in official life. The reformatory work of Mr. Jefferson must now be repeated." — Samuel Tilden, Ch. 3 'Thrust from the Top', p. 27
+
+> "Reform as an unbusiness, almost antibusiness assertion of aristocracy, reform as the program of a business-minded man like Tilden — the dissidence within the Best People started from different bases and aimed toward different goals, but it joined in a drive against what both groups abhorred as 'Grantism.'" — Goldman, Ch. 3 'Thrust from the Top', p. 29
+
 ## Bears On
 
 - [Henry George](/wiki/henry-george/) — extensive biographical and political context

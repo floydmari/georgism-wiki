@@ -63,6 +63,22 @@ The volume's section on international trade argues that free trade principles ar
 - The post-socialist chapters were written in 1991, before the outcomes of post-Soviet transitions were known
 - Planning gain data is UK-specific; generalizability to other jurisdictions is not directly addressed
 
+## Key Quotes
+
+> "George's most controversial prescription, therefore, was that the community should recover all the land rents that the creation of freehold tenancies had alienated into private ownership." — David Richards, Ch. on Ecology and Eco-Politics, p. 158
+
+> "The rules by which land is occupied dictate the way people relate to each other and determine the success with which they interact. The system of land tenure may be used to divide people, or to integrate them into healthy communities. Examples of the former case are the apartheid laws of South Africa, which created the Bantustans to segregate races, and the large rural estates of Latin America which also vouchsafe the best land to a few." — David Richards, Ch. on Ecology and Eco-Politics, p. 158
+
+> "That every person in every generation has an equal right to the use of land was Henry George's basic moral axiom. It is one with which few people would disagree, and it is certainly common ground in the Green movement. Collection of land rent by the community is not commonly perceived as its necessary logical outcome, however." — David Richards, Ch. on Ecology and Eco-Politics, p. 159
+
+> "Socialists see the connection, but go on to make the fatal mistake of proscribing private ownership of land altogether, thereby missing another connection — between private decision-making and prosperity." — David Richards, Ch. on Ecology and Eco-Politics, p. 159
+
+> "Henry George's message appears destined to fall between political stools. To Greens it offers equitable sharing of the world's natural resources; to non-Greens, economic efficiency and, hence, growth. Within both groups, it offers thoroughgoing private ownership of producible goods and services to those of Rightward persuasion, and untrammelled social ownership of natural resources to those of Leftward persuasion." — David Richards, Ch. on Ecology and Eco-Politics, p. 159
+
+> "Is it conceivable that classical social theory, especially that of an almost forgotten eighteenth century French physiocracy as further refined at the hands of Henry George (which I shall call geocracy), might fill a doctrinal gap and be suitable both for the preservation of freedom and for the resolution of human travail?" — James Busey, Ch. on Post-socialism and the Single Tax, p. 113
+
+> "The aims of land tenure policy were to: re-establish land as a common heritage and community asset, no longer subject to monopoly or speculative pressures; establish for all equal right to occupy land; guarantee security of tenure to occupiers of land on this new basis; ensure that returns from land which are in no way due to the efforts of individuals shall accrue to the community. This is a perfect statement of the Georgist position." — David Richards, Ch. on Ecology and Eco-Politics, p. 160
+
 ## Bears On
 
 - [Land Value Tax](/wiki/land-value-tax/) — the volume's central policy prescription

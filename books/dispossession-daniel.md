@@ -75,6 +75,22 @@ The book concentrates on the southern United States, where most African American
 
 The book does not engage with Georgist economic theory. Its relevance to the Georgism wiki is indirect: it documents how discriminatory access to land and credit — rather than market forces alone — drove land concentration and dispossession. This bears on questions of land access, distributive justice, and the role of institutional bias in land markets.
 
+## Key Quotes
+
+> "Between 1940 and 1974, the number of African American farmers fell from 681,790 to just 45,594—a drop of 93 percent." — Pete Daniel, Introduction
+
+> "At the very moment civil rights laws promised to end discrimination, hundreds of thousands of black farmers lost their hold on the land as they were denied loans, information, and access to the programs essential to survival in a capital-intensive farm structure." — Pete Daniel, book jacket / Introduction
+
+> "This passive nullification consisted of a blizzard of bureaucratic obfuscation, blatant acts of discrimination and cronyism, violence, and intimidation." — Pete Daniel, Introduction
+
+> "African American farmers stubbornly refused to go quietly from their farms and eloquently articulated and bravely resisted the discrimination that threatened them. They ran for county committee seats, confronted county executives, applied for loans, and brought suits to challenge discrimination." — Pete Daniel, Introduction
+
+> "The civil rights and equal opportunity laws of the mid-1960s prompted USDA bureaucrats to embrace equal rights rhetorically even as they intensified discrimination. This passive nullification, voicing agreement with equal rights while continuing or intensifying discrimination, did not rely on antebellum intellectual arguments or confrontations but instead thrived silently in the offices of biased employees." — Pete Daniel, Introduction
+
+> "From its inception in 1862, the USDA was run by white men and, with the exception of the Negro Extension Service, excluded African Americans from decision-making positions." — Pete Daniel, Introduction
+
+> "The present system of ASC elections has perpetuated in office a group of people totally unresponsive to the needs of the small farmer and the sharecropper." — John Zippert (Louisiana CORE worker), quoted by Pete Daniel, Ch. 7
+
 ## Bears On
 
 - Land Dispossession — the book's central subject

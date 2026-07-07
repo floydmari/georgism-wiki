@@ -67,6 +67,22 @@ Banner's book is a work of legal history, not advocacy, but it implies:
 - The book deliberately avoids creating maps of land transfer, noting that "the rules themselves have always been contested and in flux" (Banner 2005, p.9)
 - The Georgist relevance is indirect: Banner does not discuss Henry George or Georgist theory, but his analysis of common rights vs. private property, and the mechanisms of land concentration, is pertinent
 
+## Key Quotes
+
+> "By the late seventeenth century, however, English government officials settled on an answer. In principle, if not always in practice, the English recognized the Indians as the owners of North America. If the English wanted Indian land, they would have to buy it." — Stuart Banner, How the Indians Lost Their Land, Chapter 1
+
+> "Every land transfer of any form included elements of law and elements of power. No non-Indian acquiring Indian land thought himself unconstrained by Anglo-American law. Whites always acquired Indian land within a legal framework of their own construction. Law was always present, but so was power. The more powerful whites became relative to Indians, the more they were able to mold the legal system to produce outcomes in their favor—more sales, of larger tracts, at lower prices than would have existed had power relationships been more equal." — Stuart Banner, How the Indians Lost Their Land, Introduction
+
+> "There is a large middle ground between conquest and contract. The interesting question about Indian land sales is not whether they were voluntary or involuntary, but where they were located within that middle ground at any given time or place." — Stuart Banner, How the Indians Lost Their Land, Introduction
+
+> "The Indians had property just as much as the settlers did; they just organized it differently." — Stuart Banner, How the Indians Lost Their Land, Introduction
+
+> "Property means ownership; sovereignty means the right to govern. The United States and California both have sovereignty over the land on which my house sits, but they don't have property rights in it." — Stuart Banner, How the Indians Lost Their Land, Introduction
+
+> "Anglo-Americans could sincerely believe, for most of American history, that they were not conquerors, because they believed they were buying land from the Indians in the same way they bought land from each other. What kind of conqueror takes such care to draft contracts to keep up the appearance that no conquest is taking place? A conqueror that genuinely does not think of itself as one." — Stuart Banner, How the Indians Lost Their Land, Introduction
+
+> "In the end, the story of the colonization of the United States is still a story of power, but it was a more subtle and complex kind of power than we conventionually recognize. It was the power to establish the legal institutions and the rules by which land transactions would be enforced." — Stuart Banner, How the Indians Lost Their Land, Introduction
+
 ## Bears On
 
 - [Land as Commons](/wiki/land-as-commons/) — Indian concepts of land rights vs. English property concepts

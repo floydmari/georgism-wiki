@@ -73,6 +73,24 @@ The commons trust model is largely theoretical. Barnes draws on Elinor Ostrom's 
 
 Barnes explicitly connects his proposal to Henry George through the Monopoly board game origin story and the concept of charging rent on common resources. However, Barnes's framework extends beyond land to all common assets, which is a broader application than classical Georgism. The book does not deeply engage with Georgist economic theory.
 
+## Key Quotes
+
+> "The commons—those creations of nature and society that we inherit together and must pass on, undiminished, to future generations—belong to everyone and no one. They are not property in the conventional sense, but they have immense value." — Peter Barnes, Capitalism 3.0, Chapter 1
+
+> "As the curtain rises, corporations are gobbling up the commons. They're the big boys on the block, and the commons—an unorganized melange of nature, community, and culture—is the constant loser. It has no property rights of its own, so must rely on government for protection. But government is a fickle guardian that tilts heavily toward corporations." — Peter Barnes, Capitalism 3.0, Introduction
+
+> "This notion of the commons designates a set of assets that have two characteristics: they're all gifts, and they're all shared. A gift is something we receive, as opposed to something we earn. A shared gift is one we receive as members of a community, as opposed to individually. Examples of such gifts include air, water, ecosystems, languages, music, holidays, money, law, mathematics, parks, the Internet, and much more." — Peter Barnes, Capitalism 3.0, Chapter 1
+
+> "There's another quality to assets in the commons: we have a joint obligation to preserve them. That's because future generations will need them to live, and live well, just as we do. And our generation has no right to say, 'These gifts end here.' This shared responsibility introduces a moral factor that doesn't apply to other economic assets." — Peter Barnes, Capitalism 3.0, Chapter 1
+
+> "The question our generation faces is: will we change our economic system voluntarily, or let the atmosphere change it for us?" — Peter Barnes, Capitalism 3.0, Chapter 1
+
+> "Society is indeed a contract... between those who are living, those who are dead, and those who are to be born." — Edmund Burke (quoted by Peter Barnes in Capitalism 3.0, Chapter 1)
+
+> "Imagine that the next time corporate dominance ebbs, government—acting on behalf of commoners—swiftly fortifies the commons. It assigns new property rights to commons trusts, builds commons infrastructure, and spawns a new class of genuine co-owners. When corporations regain political dominance, as they inevitably will, they can't undo the new system. The commons now has safeguards and stakeholders; it's entrenched for the long haul." — Peter Barnes, Capitalism 3.0, Introduction
+
+> "Others whose writings have influenced me include E. F. Schumacher, Herman Daly, John Maynard Keynes, John Kenneth Galbraith, Ronald Coase, Louis Kelso, and Henry George." — Peter Barnes, Capitalism 3.0, Acknowledgments
+
 ## Bears On
 
 - Commons Trust — Barnes's central institutional innovation

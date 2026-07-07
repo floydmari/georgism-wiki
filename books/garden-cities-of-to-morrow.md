@@ -61,6 +61,24 @@ Howard envisions Garden Cities proliferating in a network, with each city of ~30
 - The book's optimism about the ease of financing and governing Garden Cities has been questioned by subsequent urban planners.
 - Howard's model assumes a relatively homogeneous community; issues of scale, diversity, and political governance at the metropolitan level are underdeveloped.
 
+## Key Quotes
+
+> "This enormous difference of rental value is, of course, almost entirely due to the presence in the one case and the absence in the other of a large population; and, as it cannot be attributed to the action of any particular individuals, it is frequently spoken of as the 'unearned increment,' i.e., unearned by the landlord, though a more correct term would be 'collectively-earned increment.'" — Ebenezer Howard, Ch. II, The Revenue of Garden City
+
+> "The entire increment of value gradually created becomes the property of the municipality, with the effect that though rents may rise, and even rise considerably, such rise in rent will not become the property of private individuals, but will be applied in relief of rates." — Ebenezer Howard, Ch. II, The Revenue of Garden City
+
+> "One essential feature of the plan is that all ground rents, which are to be based upon the annual value of the land, shall be paid to the trustees, who, after providing for interest and sinking fund, will hand the balance to the Central Council of the new municipality, to be employed by such Council in the creation and maintenance of all necessary public works—roads, schools, parks, etc." — Ebenezer Howard, Ch. I, The Town-Country Magnet
+
+> "The key to the problem how to restore the people to the land—that beautiful land of ours, with its canopy of sky, the air that blows upon it, the sun that warms it, the rain and dew that moisten it—the very embodiment of Divine love for man is indeed a Master-Key." — Ebenezer Howard, Introduction
+
+> "It is this arrangement which will be seen to give Garden City much of its magnetic power. The site of Garden City we have taken to be worth at the time of its purchase £40 an acre, or £240,000." — Ebenezer Howard, Ch. II, The Revenue of Garden City
+
+> "The term 'rent' has, in Garden City, acquired a new meaning. That part of the rent which represents interest on debentures will be hereafter called 'landlord's rent'; that part which represents repayment of purchase-money 'sinking fund'; that part which is devoted to public purposes 'rates'; while the sum will be termed 'rate-rent.'" — Ebenezer Howard, Ch. II, The Revenue of Garden City
+
+> "Under this system, while it would be impossible for the tenant to secure to himself any undue share of that natural increment of land-value which would be brought about by the general growth in well-being of the town, he would yet have, as tenants in possession all probably should have, a preference over any new-comer." — Ebenezer Howard, Ch. II, The Agricultural Estate
+
+> "The increased rents which follow from this form of competition are common or municipal property, and by far the larger part of them are expended in permanent improvements." — Ebenezer Howard, Ch. I, The Town-Country Magnet
+
 ## Bears On
 
 - [Land Value Tax](/wiki/land-value-tax/) — Howard's rate-rent proposal is a form of LVT applied at the municipal level

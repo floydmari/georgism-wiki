@@ -60,6 +60,22 @@ Burgess restates the classical distinction between land (non-human factors in th
 - The argument is primarily theoretical and draws on classical economics; it does not engage deeply with modern public finance literature.
 - The book was published in 1993 and reflects the policy debates of the Thatcher/Major era; subsequent developments in monetary policy (independent central banks, inflation targeting) are not addressed.
 
+## Key Quotes
+
+> "Taxation is a primal cause of both inflation and unemployment. Regardless of this, the freely elected governments of contemporary trading economies — with the acquiescence of their electorates — persist in raising the major part, if not all, of their revenues by means of taxation. The immediate cause of such action by governments, and for the acquiescence of their electorates, is ignorance of any acceptable alternative method of raising sufficient public revenue." — Burgess, opening statement, p. 1
+
+> "What governments need to know from economics is a source of public revenue that arises from the very nature of a trading economy and does not offend against the principle of private property. This public revenue must be sufficient to cover necessary public expenses after the abolition of all taxation." — Burgess, Ch. 1, p. 6
+
+> "The laws of property have never yet conformed to the principles on which the justification of private property rests. The essential element of these principles consists in the recognition, in each person, of a right to the exclusive disposal of what he or she may have produced by their own exertions, or received by gift or fair agreement, without force or fraud, from those who produced it." — Burgess quoting J.S. Mill, Ch. 2, p. 12
+
+> "By whatever names taxes are called, or by whatever methods governments may use to raise tax revenue, taxation is in effect an arbitrary levy imposed by force or the threat of force upon those in receipt of a private income. In their effective incidence all taxes are income taxes. By force of statutory law taxation denies to the individual taxpayer the right to the exclusive disposal of that individual's private income. Thus all taxation flouts the principle of private property." — Burgess, Ch. 2, p. 13
+
+> "The Physiocrats rightly emphasised the true source of injustice to be the burden of taxation. General taxation, they argued, was a deviation from the 'natural order' which must result also in a contraction of future output." — Burgess, Ch. 7, p. 75
+
+> "For George the remedy was simple and practical: 'abolish all taxation save that upon land values.' Like all great works of political economy it was directed at a public issue of topical importance at the time of writing." — Burgess, Ch. 7, p. 77
+
+> "The case argued in this work, the abolition of all taxation and its replacement by the collection of public revenue by government as a public duty, is a prerequisite for solving the major social and economic problems, including inflation and unemployment, that today appear endemic in industrialised trading economies. Only when this fundamental change in public finance is completed will social justice together with a stable general price level and economic prosperity become possible to achieve." — Burgess, Ch. 10, p. 109
+
 ## Bears On
 
 - [Land Value Tax](/wiki/land-value-tax/) — the book's central proposal is land rent collection as replacement for taxation

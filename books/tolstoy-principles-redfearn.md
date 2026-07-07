@@ -63,6 +63,20 @@ Redfearn addresses critics who argue Tolstoy "had not proved anarchy desirable" 
 - Tolstoy's Georgism is presented as coherent and well-founded; critics receive less sympathetic treatment
 - The connection between Tolstoy's literary work and his Georgism could be explored more fully
 
+## Key Quotes
+
+> "If one's personal judgement is to decide the question of what constitutes danger for other people, there is no case of violence that cannot be justified on the ground of danger threatening somebody." — Tolstoy (quoted by Redfearn), p. 31
+
+> "My duty towards my Neighbour is to love him as myself, and to do to all men as I would they should do unto me: To love, honour and succour my father and mother: To honour and obey the King, and all that are put in authority under him: To submit myself to all my governors, teachers, spiritual pastors and masters: To order myself lowly and reverently to all my betters." — English Catechism (quoted by Redfearn), p. 32
+
+> "The first two injunctions are in the pure spirit of Christianity. The third emphasises family loyalty, the natural source of continuous security from generation to generation. The rest, from 'To honour and obey the King' onwards, is wholly foreign to the spirit of the gospels, and directly contrary to the example set us by Christ in his own life. It can have been composed only with the cynical intention of bending Christian morality to suit the temporal and materialistic requirements of an unscrupulous ruling class." — Redfearn, p. 32
+
+> "Tolstoy inveighed mercilessly against the Russian Orthodox Church for its support of a State based on, and maintained by, violence, and for its specious arguments in favour of neglecting Christian principles on this account." — Redfearn, p. 31
+
+> "Even given a population that was 100 per cent rationalist, the teachings of Christ and the example of his sweet reasonableness could still be of inestimable value." — Redfearn, p. 30
+
+> "The established Churches still do not feature prominently in opposition to war, even by such means; and indeed the aircraft, named Enola Gay, that dropped the first atomic bomb on Hiroshima was blessed by a U.S. Army chaplain before its departure." — Redfearn, p. 31
+
 ## Bears On
 
 - [Leo Tolstoy](/wiki/leo-tolstoy/) — the book's central subject

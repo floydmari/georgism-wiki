@@ -63,6 +63,26 @@ Adams proposes:
 - The 18-year cycle model, while presented as robust, has been questioned by economists who note that cycles are irregular and influenced by monetary policy, wars, and other shocks.
 - The Creative Commons publication model means the book reaches a wide audience but may lack the peer review of academic press publications.
 
+## Key Quotes
+
+> "By allowing some people to profit from land, we have privatized community wealth, which allows a few to live off the lives of the rest of us." — Martin Adams, Introduction
+
+> "The only other way people can make an income is by receiving what economists call economic rent. They do this not by adding wealth to society, but by extracting an income from society without providing wealth of corresponding value. For example, when people make money from selling land, they extract economic rent from society since they didn't contribute any human-made wealth to society." — Martin Adams, Ch. 1, The Production of Wealth
+
+> "Land ownership is also an entry monopoly: Land is naturally scarce for each location since its supply can't be increased. New land can't be created, so if people wish to become landowners, they have to buy land from someone who already owns it." — Martin Adams, Ch. 3, The Free Market
+
+> "Land values belong to the communities that have created them: Land values are socially generated." — Martin Adams, Ch. 4, Social Decline
+
+> "The largest asset in every economy is land, followed by buildings, followed by public infrastructure. So what people imagine are industrial economies have remained, basically, land economies." — Michael Hudson, quoted by Martin Adams, Ch. 5, Business Recessions
+
+> "Whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality." — Martin Adams, Ch. 4, Social Decline
+
+> "Property owners merely need to pay the communities from which they receive benefits through their exclusive use of land the exact market value of the benefits that they receive." — Martin Adams, Ch. 8, Restoring Communities
+
+> "Rent is not a tax. It is payment for the use of a location, determined by the higgling and haggling of the market, and it makes no difference to the land user whether he pays rent to the city fathers or to a private owner." — Frank Chodorov (1887–1966), quoted by Martin Adams, Ch. 12, Thriving Cities
+
+> "The more money is tied up in land, the less people are able to support themselves through their contributions to society." — Martin Adams, Ch. 13, Sustainable Farming
+
 ## Bears On
 
 - [Land Value Tax](/wiki/land-value-tax/) — the book's central policy proposal

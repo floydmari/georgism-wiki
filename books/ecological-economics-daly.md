@@ -92,6 +92,22 @@ Most essays are theoretical or review-based. The empirical case for steady-state
 
 Daly's framework of throughput limits and the economy as subsystem connects to Georgist concerns about land and natural resources as non-produced inputs. However, the book does not directly engage with Henry George or land value taxation. The connection is indirect through the concept of economic rent from natural resources. [VERIFY: whether Daly discusses LVT in other works]
 
+## Key Quotes
+
+> "That which seems to be wealth may in verity be only the gilded index of far-reaching ruin." — John Ruskin, Unto This Last (1862), quoted by Herman E. Daly, Ch. 2
+
+> "The economy is not at the expense of anything else—there is no opportunity cost to growth. On the contrary, growth enlarges the total to be shared by the different sectors or subsystems. Growth does not increase the scarcity of anything; rather it diminishes the scarcity of everything! How can one possibly oppose growth? Growth for ever, or a steady state at optimal scale? Each is logical within its own pre-analytic vision, and absurd from the viewpoint of the other." — Herman E. Daly, Ch. 2, Uneconomic Growth in Two Paradigms
+
+> "The paradigm or pre-analytic vision of standard neoclassical economics is that the economy is the total system, and that nature, to the extent that it is considered at all, is a sector of the economy. Nature is not seen as an envelope containing, provisioning and sustaining the economy, but as one sector of the economy similar to other sectors." — Herman E. Daly, Ch. 3, Uneconomic Growth in Two Paradigms
+
+> "The law of increasing marginal costs tells us that we first make use of the most productive and accessible factors of production—the most fertile land, the most concentrated and available mineral deposits, the best workers—and only use the less productive factors as growth makes it necessary." — Herman E. Daly, Ch. 1, Uneconomic Growth in Theory
+
+> "There are costs of depletion, pollution, disruption of ecological life-support services, sacrifice of leisure time, disutility of some kinds of labour, destruction of community in the interests of capital mobility, takeover of habitat of other species, and running down a critical part of the inheritance of future generations. We not only fail to measure these costs, but frequently we implicitly count them as benefits." — Herman E. Daly, Ch. 1, Uneconomic Growth in Theory
+
+> "Nature is really nothing but a supplier of indestructible building blocks which are substitutable and superabundant. The only limit to growth is technology, and there is, supposedly, no limit to technology, ergo no limit to economic growth. Therefore the very notion of 'uneconomic growth' makes no sense in that paradigm." — Herman E. Daly, Ch. 3, Uneconomic Growth in Two Paradigms
+
+> "The 'great benefit', for which we are urged to sacrifice the environment, community standards and industrial peace, appears, on closer inspection, likely not even to exist." — Herman E. Daly, Ch. 2, Uneconomic Growth in Fact
+
 ## Bears On
 
 - Steady-State Economy — Daly's central concept
