@@ -174,4 +174,4 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 
 ## Sources
 
-- Gaffney, Mason, Fred Harrison, and Kris Feder. *The Corruption of Economics.* London: Shepheard-Walwyn / Centre for Incentive Taxation, 1994. ISBN 978-1-8568-3552-0. EPUB edition (revised c. 2022) examined.
+- Gaffney, Mason, Fred Harrison, and Kris Feder. *The Corruption of Economics.* London: Shepheard-Walwyn / Centre for Incentive Taxation, 1994. ISBN 978-1-8568-3552-0. EPUB edition (revised c. 2022) examined. — used for Gaffney's thesis that neoclassical economics deliberately submerged the land question, Harrison's prologue, and the Feder chapter, as summarised on this page.

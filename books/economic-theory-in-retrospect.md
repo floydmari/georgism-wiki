@@ -179,4 +179,4 @@ Blaug's *Economic Theory in Retrospect* is valuable for the Georgist wiki as:
 
 ## Sources
 
-- Blaug, Mark. *Economic Theory in Retrospect.* 5th edition. Cambridge: Cambridge University Press, 1997. ISBN 978-0-521-57701-4 (paperback). First edition 1962 by Richard D. Irwin, Inc. — DJVU scan examined; text extracted from scanned source.
+- Blaug, Mark. *Economic Theory in Retrospect.* 5th edition. Cambridge: Cambridge University Press, 1997. ISBN 978-0-521-57701-4 (paperback). First edition 1962 by Richard D. Irwin, Inc. — DJVU scan examined; text extracted from scanned source. — used for Blaug's history-of-economic-thought treatment of Ricardian rent theory and the marginalist transition that displaced the classical land category.

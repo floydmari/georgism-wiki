@@ -202,4 +202,4 @@ The Monopoly board game connection: Elizabeth Magie designed *The Landlord's Gam
 
 ## Sources
 
-- Doucet, Lars A. *Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it.* First Edition. College Station, TX: Shack Simple Press, 2022. ISBN 979-8-9853225-2-1.
+- Doucet, Lars A. *Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it.* First Edition. College Station, TX: Shack Simple Press, 2022. ISBN 979-8-9853225-2-1. — used as the primary source for the book's data-driven restatement of the Georgist case and its assessment/affordability arguments summarised on this page.
