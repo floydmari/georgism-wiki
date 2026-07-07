@@ -5,7 +5,6 @@ tags: [research, books-publications, land-dispossession, usda-discrimination, af
 authors: [Pete Daniel]
 year: 2013
 tier: supplementary
-source_url: https://archive.org/details/dispossessiondis0000dani
 stub: false
 excerpt: "Pete Daniel documents how USDA agencies systematically discriminated against African American farmers from 1940 to 1974, causing a 93% decline in black farmers through denied loans, exclusion from programs, and bureaucratic 'passive nullification' of civil rights laws."
 last_reviewed: 2026-07-07
@@ -109,6 +108,6 @@ The book does not engage with Georgist economic theory. Its relevance to the Geo
 
 ## Sources
 
-1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). ISBN 978-1-4696-0201-1. — primary text; verified against Internet Archive OCR extraction 2026-07-07.
+1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). ISBN 978-1-4696-0201-1. — primary text
 2. U.S. Commission on Civil Rights, *Equal Opportunity in Farm Programs: An Appraisal of Services Rendered by Agencies of the United States Department of Agriculture* (March 1965) — key source document cited throughout (A-claim; factual).
 3. *Pigford v. Glickman*, 1999 decision by Judge Paul L. Friedman — cited for the class-action discrimination finding (A-claim; factual).

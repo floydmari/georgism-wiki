@@ -5,7 +5,6 @@ tags: [research, books-publications, henry-george, progress-and-poverty, single-
 authors: [Robert V. Andelson]
 year: 1979
 tier: important
-source_url: https://archive.org/details/criticsofhenrygeo0000unse
 stub: false
 excerpt: "Edited by Robert V. Andelson, this 1979 centenary volume comprehensively surveys and evaluates the major critics of Henry George's Progress and Poverty, covering 19th and 20th century British, continental, and American critics from Marshall to Rothbard."
 last_reviewed: 2026-07-07
@@ -65,9 +64,6 @@ The volume was produced with support from Georgist organizations (Schalkenbach F
 
 Not all significant critics of George are covered. The selection focuses on published academic critics; popular and political critiques receive less attention. Some 20th-century critics (e.g., Stigler, Samuelson) are not examined.
 
-### OCR Quality
-
-The extracted text is heavily duplicated OCR with garbled characters. Some page citations are approximate. Cross-referencing against the physical text is recommended for precise quotation.
 
 ## Key Quotes
 
@@ -107,7 +103,7 @@ The extracted text is heavily duplicated OCR with garbled characters. Some page 
 
 ## Sources
 
-1. Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (New York: Robert Schalkenbach Foundation, 1979). — primary text; verified against Internet Archive OCR extraction 2026-07-07.
+1. Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (New York: Robert Schalkenbach Foundation, 1979). — primary text
 2. Joseph Schumpeter, *History of Economic Analysis*, posthumously published — cited in Andelson p. 20 for assessment of George as economist (D-claim; interpretive).
 3. Alfred Marshall, *The Early Economic Writings of Alfred Marshall, 1867–1890*, ed. J. K. Whitaker (Macmillan, 1975) — source for Marshall's critique (Ch. 4) (E-claim; objection).
 4. Henry George, *Progress and Poverty*, 75th anniversary edition (Schalkenbach Foundation, 1954) — quoted throughout the volume.

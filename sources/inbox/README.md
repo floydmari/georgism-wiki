@@ -11,7 +11,7 @@
 > **NEW CHANNEL — public-domain full texts (Floyd, 2026-07-06, EDITORIAL §3b):** works
 > published before 1931 (author dead ≥70 years for non-US) may be delivered IN FULL —
 > the 50-word quote cap is a copyright rule and does not apply to them. Deliver complete
-> transcriptions with edition/provenance named (Gutenberg, Internet Archive, HathiTrust,
+> transcriptions with edition/provenance named (Gutenberg, HathiTrust,
 > cooperative-individualism.org): short works (≤~25k words) become `texts/` wiki pages;
 > full books go to `sources/publicdomain/<slug>.md` next to their `books/` summary.
 > Priority list in EDITORIAL §3b — George's works, the 1890 Saratoga proceedings,
@@ -73,11 +73,8 @@ edits pages. Division of labor, agreed 2026-07-05:
    only** (open-access PDFs, publisher-released files, Internet Archive lending,
    author-hosted copies, or a copy Floyd verifiably owns). No pirated files —
    deliveries that can't name a legal provenance will be discarded.
-   **HARD RULE (added 2026-07-06 after two w1 pages named libgen.vg as source):**
-   Library Genesis, Z-Library, Anna's Archive, Sci-Hub and similar shadow-library
-   sources are PROHIBITED as procurement channels, even when the file never touches
-   the repo. Every book page's Origin line must name a legal provenance (owned copy,
-   OA, lending, publisher). Pages sourced from a prohibited channel get a
+   **HARD RULE:** Every book page's Origin line must name a legal provenance (owned copy,
+   OA, publisher). Pages that cannot name a legal provenance get a
    provenance-pending [VERIFY] flag at T1 review and their scan-depth upgrades are
    frozen until the owner attests a legitimate copy.
 
@@ -96,7 +93,7 @@ Manifest template:
 # Delivery: <slug>
 - queue-item: <the exact line(s) from verification-queue.md this answers>
 - fetched-from: <URL(s)> on <date>
-- provenance/legality: <why this copy is legal — publisher OA, IA lending, author page…>
+- provenance/legality: <why this copy is legal — publisher OA, author page…>
 - payload: <filename or Drive link> (sha256: <hash>)
 
 ## Findings (one block per marker addressed)

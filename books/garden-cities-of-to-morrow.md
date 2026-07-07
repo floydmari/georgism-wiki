@@ -5,7 +5,6 @@ tags: [research, books-publications, garden-cities, urban-planning, land-value-t
 authors: [Ebenezer Howard]
 year: 1902
 tier: important
-source_url: https://archive.org/details/gardencitiesoftoOOhowa
 stub: false
 excerpt: "Howard's 1902 manifesto proposing Garden Cities—new towns combining town and country advantages on communally-owned land, financed by land-value capture. A foundational text in urban planning and the Garden City movement. PUBLIC DOMAIN (pre-1929)."
 last_reviewed: 2026-07-07
@@ -97,6 +96,6 @@ Howard envisions Garden Cities proliferating in a network, with each city of ~30
 
 ## Sources
 
-1. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein & Co., 1902). Digitized by Internet Archive from Duke University Libraries. — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate). PUBLIC DOMAIN (pre-1929).
+1. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein & Co., 1902). — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate). PUBLIC DOMAIN (pre-1929).
 2. Robert Fishman, *Urban Utopias in the Twentieth Century: Ebenezer Howard, Frank Lloyd Wright, and Le Corbusier* (New York: Basic Books, 1977) — contextual analysis of Howard's Garden City model (B-claim; secondary).
 3. [CITATION NEEDED] — Letchworth Garden City Foundation records for empirical data on the first implementation.

@@ -102,6 +102,6 @@ Banner's book is a work of legal history, not advocacy, but it implies:
 
 ## Sources
 
-1. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Belknap Press of Harvard University Press, 2005; pbk. 2007). ISBN 978-0-674-02396-3. — primary source for all claims; verified against extracted text 2026-07-07 (Scan Depth: Heavy).
+1. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Belknap Press of Harvard University Press, 2005; pbk. 2007). ISBN 978-0-674-02396-3. — primary source for all claims
 2. *Johnson v. M'Intosh*, 21 U.S. (8 Wheat.) 543 (1823) — the foundational Supreme Court case on Indian land rights, discussed throughout.
 3. Robert Williams, *The American Indian in Western Legal Thought* — the "leading study" Banner argues against, p.11.

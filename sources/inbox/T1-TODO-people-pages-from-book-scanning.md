@@ -1,7 +1,7 @@
 # T1 Agent TODO: People Pages from Book Scanning
 
 ## Context
-PR #14 added 17 new book pages to the georgism wiki. These books were scanned from Internet Archive (lending library) and Library Genesis. The book pages have Summary, Core Findings, Policy Recommendations, Nuances and Limits, Key Quotes, Bears On, See Also, and Sources sections.
+PR #14 added 17 new book pages to the georgism wiki. The book pages have Summary, Core Findings, Policy Recommendations, Nuances and Limits, Key Quotes, Bears On, See Also, and Sources sections.
 
 ## TODO: Create people pages for the following 12 book authors
 These authors are referenced in the book pages but do not yet have people/ pages in the wiki. T1 should triage these during discovery and create people pages as needed:

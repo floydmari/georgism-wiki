@@ -29,11 +29,11 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 |------|-------------------------------|
 | **Posner & Weyl, *Radical Markets* (2018)** | The COST/Harberger-tax chapter backs the [radical-markets stub](../concepts/radical-markets.md) (queued for backfill) and [harberger-tax](../concepts/harberger-tax.md). Registry: Light. |
 | ~~**Andelson (ed.), *Critics of Henry George* (2nd ed., 2 vols., Blackwell 2003)**~~ ✓ scanned 2026-07-06 (1st ed. 1979 via IA lending) — see [books/critics-of-henry-george](../books/critics-of-henry-george.md) |
-| ~~**Phillip Bryson, *The Economics of Henry George* (Palgrave, 2011)**~~ ✓ scanned 2026-07-06 (via LibGen) — see [books/economics-of-henry-george](../books/economics-of-henry-george.md) |
+| ~~**Phillip Bryson, *The Economics of Henry George* (Palgrave, 2011)**~~ ✓ scanned 2026-07-06  — see [books/economics-of-henry-george](../books/economics-of-henry-george.md) |
 | **Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997)** | The standard history of economic theory; grounds the marginalism chronology now cited from abstracts. Not in registry. |
 | ~~**J.M. Neeson, *Commoners* (CUP, 1993)**~~ ✓ scanned 2026-07-06 (via IA lending) — see [books/commoners-neeson](../books/commoners-neeson.md) |
 | **T.M. Devine, *The Scottish Clearances* (2018)** | Sober scholarly source for the [great-land-robbery narrative](../narratives/the-great-land-robbery.md)'s Scotland section. Registry: Light. |
-| ~~**Stuart Banner, *How the Indians Lost Their Land* (Harvard, 2005)**~~ ✓ scanned 2026-07-06 (via LibGen) — see [books/how-the-indians-lost-their-land](../books/how-the-indians-lost-their-land.md) |
+| ~~**Stuart Banner, *How the Indians Lost Their Land* (Harvard, 2005)**~~ ✓ scanned 2026-07-06  — see [books/how-the-indians-lost-their-land](../books/how-the-indians-lost-their-land.md) |
 | ~~**Pete Daniel, *Dispossession* (UNC Press, 2013)**~~ ✓ scanned 2026-07-06 (via IA lending) — see [books/dispossession-daniel](../books/dispossession-daniel.md) |
 | ~~**Daly & Farley, *Ecological Economics* (Island Press, 2004/2011)**~~ ✓ scanned 2026-07-06 (Daly 1999 collected essays via IA lending) — see [books/ecological-economics-daly](../books/ecological-economics-daly.md) |
 

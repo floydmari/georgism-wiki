@@ -108,7 +108,7 @@ Bryson argues that George's ideas have been progressively validated by modern ec
 
 ## Sources
 
-1. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011). ISBN 978-0-230-11585-9. — primary source for all claims; verified against extracted text 2026-07-07 (Scan Depth: Heavy).
+1. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011). ISBN 978-0-230-11585-9. — primary source for all claims
 2. Henry George, *Progress and Poverty* (1879) — the work Bryson analyzes in Chs. 2–3.
 3. Henry George, *The Science of Political Economy* (1898) — George's methodology work, discussed in Ch. 1.
 4. Joseph Schumpeter, *History of Economic Analysis* — assessment of George as "very orthodox economist," cited p.5.

@@ -45,5 +45,5 @@ See: [Garden Cities of To-morrow](/wiki/books/garden-cities-of-to-morrow/)
 
 ## Sources
 
-1. Ebenezer Howard (1902), *Garden Cities of To-morrow* — used for the garden-city design and its community-rent financing (A-claims). [Full text (Internet Archive)](https://archive.org/details/gardencitiesofto00howa) — public domain; full-text acquisition queued per EDITORIAL §3b.
+1. Ebenezer Howard (1902), *Garden Cities of To-morrow* — used for the garden-city design and its community-rent financing (A-claims). — public domain; complete text queued per EDITORIAL §3b.
 2. [Book page for *Garden Cities of To-morrow*](/wiki/books/garden-cities-of-to-morrow/) — wiki's citable reference for the book, with detailed content summary and key quotes.

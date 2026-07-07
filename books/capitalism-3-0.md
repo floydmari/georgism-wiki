@@ -5,7 +5,6 @@ tags: [research, books-publications, commons, commons-trust, dividends, atmosphe
 authors: [Peter Barnes]
 year: 2006
 tier: important
-source_url: https://archive.org/details/capitalism3.0guide0000barn
 stub: false
 excerpt: "Peter Barnes proposes 'commons trusts' as market-based legal entities to protect shared wealth — atmosphere, water, forests — by charging rent and paying dividends to all citizens, upgrading capitalism from version 2.0 to 3.0."
 last_reviewed: 2026-07-07
@@ -111,7 +110,7 @@ Barnes explicitly connects his proposal to Henry George through the Monopoly boa
 
 ## Sources
 
-1. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (San Francisco: Berrett-Koehler, 2006). ISBN 978-1-57675-361-3. Free electronic version at onthecommons.org. — primary text; verified against Internet Archive OCR extraction 2026-07-07.
+1. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (San Francisco: Berrett-Koehler, 2006). ISBN 978-1-57675-361-3. Free electronic version at onthecommons.org. — primary text
 2. Garrett Hardin, "The Tragedy of the Commons," *Science* 162 (1968) — referenced by Barnes as the concept he reframes (C-claim; theoretical).
 3. E.F. Schumacher, *Small Is Beautiful* (1973) — cited as formative influence on Barnes (D-claim; interpretive).
 4. Henry George, *Progress and Poverty* (1879) — cited as intellectual predecessor via the Monopoly board game origin (A-claim; factual).

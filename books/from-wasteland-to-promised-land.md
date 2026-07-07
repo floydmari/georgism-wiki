@@ -5,7 +5,6 @@ tags: [research, books-publications, liberation-theology, henry-george, land-ten
 authors: [Robert V. Andelson, James M. Dawsey]
 year: 1992
 tier: supplementary
-source_url: https://archive.org/details/fromwastelandtopr00ande
 stub: false
 excerpt: "Andelson and Dawsey's book arguing that Henry George's land-value tax offers a Christian liberation theology alternative to Marxism, applying Georgist principles to Latin American land reform. Published by Orbis Books and Shepheard-Walwyn."
 last_reviewed: 2026-07-07

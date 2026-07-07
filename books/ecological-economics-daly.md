@@ -5,7 +5,6 @@ tags: [research, books-publications, ecological-economics, steady-state, through
 authors: [Herman E. Daly]
 year: 1999
 tier: important
-source_url: https://archive.org/details/ecologicaleconom0000daly
 stub: false
 excerpt: "Herman Daly's collected essays critique growth economics from thermodynamic, ecological, and ethical perspectives, arguing that the economy is a subsystem of a finite ecosystem and that 'uneconomic growth' must be recognized and halted."
 last_reviewed: 2026-07-07
@@ -127,7 +126,7 @@ Daly's framework of throughput limits and the economy as subsystem connects to G
 
 ## Sources
 
-1. Herman E. Daly, *Ecological Economics and the Ecology of Economics: Essays in Criticism* (Cheltenham: Edward Elgar, 1999). — primary text; verified against Internet Archive OCR extraction 2026-07-07.
+1. Herman E. Daly, *Ecological Economics and the Ecology of Economics: Essays in Criticism* (Cheltenham: Edward Elgar, 1999). — primary text
 2. Herman E. Daly and John B. Cobb Jr., *For the Common Good* (Beacon Press, 1989/1994) — source for Ch. 17 "Money, debt, and wealth" (C-claim; theoretical).
 3. Nicholas Georgescu-Roegen, *The Entropy Law and the Economic Process* (1971) — the thermodynamic foundation Daly extends (C-claim; theoretical).
 4. Julian Simon, *The Ultimate Resource* (1981) — the cornucopian position Daly critiques in Ch. 3 (E-claim; objection).

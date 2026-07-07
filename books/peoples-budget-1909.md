@@ -5,7 +5,6 @@ tags: [research, books-publications, peoples-budget, lloyd-george, liberal-party
 authors: [Bruce K. Murray]
 year: 1980
 tier: important
-source_url: https://archive.org/details/peoplesbudget190900murr
 stub: false
 excerpt: "Murray's monograph on Lloyd George's 1909/10 People's Budget, examining how the Liberals financed social reform through progressive direct taxation including land-value duties. Published by Oxford University Press. A UK government document study."
 last_reviewed: 2026-07-07
@@ -14,7 +13,7 @@ supports_outcomes: []
 
 ## Summary
 
-*The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* is a monograph by **Bruce K. Murray**, published by Oxford University Press (originally, with a 2019 digitization by the Internet Archive). Murray's research was conducted at the University of the Witwatersrand, Johannesburg, with support from the British Council. The book examines the fiscal strategy of the 1909/10 Budget through the prism of Liberal party politics in the Edwardian era.
+*The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* is a monograph by **Bruce K. Murray**, published by Oxford University Press . Murray's research was conducted at the University of the Witwatersrand, Johannesburg, with support from the British Council. The book examines the fiscal strategy of the 1909/10 Budget through the prism of Liberal party politics in the Edwardian era.
 
 Murray's thesis is that the People's Budget was essentially the personal initiative of Lloyd George, who had to fight against Treasury orthodoxy and a cautious Cabinet to implement a fiscal strategy that incorporated virtually the entire progressive taxation programme toward which Liberalism had been moving. The Budget was designed to raise revenue for social reform (old-age pensions) and increased naval expenditure through progressive direct taxation, including supertax, land-value duties, and increased licence duties, while avoiding direct taxes that would substantially burden the majority of middle-class income tax payers (Murray 1980, pp. 17–24).
 
@@ -95,6 +94,6 @@ Murray does not offer explicit policy recommendations; the book is a historical 
 
 ## Sources
 
-1. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* (Oxford: Oxford University Press, 1980). Digitized by Internet Archive, 2019. — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate).
+1. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* (Oxford: Oxford University Press, 1980). — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate).
 2. P. F. Clarke, *Lancashire and the New Liberalism* (Cambridge: Cambridge University Press, 1971) — cited by Murray for the "core of the argument" formulation (B-claim; secondary).
 3. Neal Blewett, study of the 1910 general elections — cited by Murray for working-class support analysis (B-claim; secondary).

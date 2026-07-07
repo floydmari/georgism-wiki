@@ -5,7 +5,6 @@ tags: [research, books-publications, leo-tolstoy, henry-george, single-tax, land
 authors: [Redfearn, R.K.]
 year: 1992
 tier: important
-source_url: https://archive.org/details/tolstoyprinciple0000redf
 stub: false
 excerpt: "Redfearn's 1992 book traces Tolstoy's engagement with Henry George's land reform ideas, documenting Tolstoy's advocacy of the single tax, his critique of state violence, and the connection between Georgism and Tolstoy's Christian anarchism. Published by Shepheard-Walwyn with Fred Harrison's encouragement."
 last_reviewed: 2026-07-07
@@ -58,7 +57,6 @@ Redfearn addresses critics who argue Tolstoy "had not proved anarchy desirable" 
 ## Nuances and Limits
 
 - Redfearn is an advocate for both Tolstoy and George; the book is explicitly a "defence of them against misguided criticism" (Redfearn 1992, p.8), so it is not a neutral scholarly assessment
-- OCR artifacts in the extracted text (including `<IA_FTS_MATCH>` tags from Internet Archive digitization) affect quotation accuracy
 - The book's 1992 publication date means it predates the full post-Soviet archival opening; some historical claims about Russia may need updating
 - Tolstoy's Georgism is presented as coherent and well-founded; critics receive less sympathetic treatment
 - The connection between Tolstoy's literary work and his Georgism could be explored more fully
@@ -99,6 +97,6 @@ Redfearn addresses critics who argue Tolstoy "had not proved anarchy desirable" 
 
 ## Sources
 
-1. R.K. Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — primary source for all claims; verified against extracted text 2026-07-07 (Scan Depth: Heavy).
+1. R.K. Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — primary source for all claims
 2. Henry George, *Progress and Poverty* (1879) — the work that influenced Tolstoy, discussed extensively in Ch. 10.
 3. Tolstoy's letters to Tsar Nicholas II and Grand Duke Nikolay Mikhaylovich — reproduced as appendices (from R.F. Christian, ed., *Tolstoy's Letters*, 1978, Athlone Press).

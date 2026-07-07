@@ -5,7 +5,6 @@ tags: [research, books-publications, dividends, co-owned-wealth, middle-class, i
 authors: [Peter Barnes]
 year: 2014
 tier: important
-source_url: https://archive.org/details/withlibertydivid0000barn
 stub: false
 excerpt: "Peter Barnes proposes universal dividends from co-owned wealth as a market-based solution to middle-class decline, arguing that jobs alone cannot sustain a broad middle class and that common-asset dividends bypass the tax-vs-spending political stalemate."
 last_reviewed: 2026-07-07
@@ -115,7 +114,7 @@ Barnes insists his proposal requires "no new taxes" and is "purely market-based"
 
 ## Sources
 
-1. Peter Barnes, *With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don't Pay Enough* (San Francisco: Berrett-Koehler, 2014). ISBN 978-1-62656-214-1. — primary text; verified against Internet Archive OCR extraction 2026-07-07.
+1. Peter Barnes, *With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don't Pay Enough* (San Francisco: Berrett-Koehler, 2014). ISBN 978-1-62656-214-1. — primary text
 2. Thomas Paine, *Agrarian Justice* (1797) — cited as historical predecessor of the dividend idea (A-claim; factual).
 3. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — Barnes's earlier development of commons trust concept (C-claim; theoretical).
 4. Henry George, *Progress and Poverty* (1879) — cited as intellectual predecessor via Monopoly board game origin (A-claim; factual).

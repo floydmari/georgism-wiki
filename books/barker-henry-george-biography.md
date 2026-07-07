@@ -5,7 +5,6 @@ tags: [research, books-publications, henry-george, biography, california, single
 authors: [Charles Albro Barker]
 year: 1955
 tier: core
-source_url: https://archive.org/details/henrygeorge0000bark
 stub: false
 excerpt: "Charles Albro Barker's definitive 1955 biography traces Henry George's intellectual development from Philadelphia through California to global fame, framing him as a Jeffersonian-Jacksonian democrat whose land reform ideas grew from the American West Coast experience."
 last_reviewed: 2026-07-07
@@ -74,9 +73,6 @@ Published in 1955, the biography predates much subsequent Georgist scholarship. 
 
 Barker devotes disproportionate attention to the California period, which he acknowledges. While this reflects his thesis about the regional origins of George's thought, readers seeking the post-1879 political career in detail may find Part Two compressed.
 
-### OCR Quality
-
-The extracted text is heavily duplicated OCR with garbled characters, especially in the front matter and chapter listings. Some page citations are approximate. The book is very large (~8M characters in the extracted file).
 
 ## Key Quotes
 
@@ -116,6 +112,6 @@ The extracted text is heavily duplicated OCR with garbled characters, especially
 
 ## Sources
 
-1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text; verified against Internet Archive OCR extraction 2026-07-07.
+1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text
 2. Henry George Collection, New York Public Library — manuscript source donated by Anna George de Mille (Barker 1955, p. 16) (A-claim; factual).
 3. Philip Wicksteed, letter to Henry George, 1882 — quoted p. 11 (A-claim; factual).

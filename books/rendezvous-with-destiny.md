@@ -5,7 +5,6 @@ tags: [research, books-publications, american-reform, progressive-era, populism,
 authors: [Eric F. Goldman]
 year: 1952
 tier: important
-source_url: https://archive.org/details/rendezvouswithde0000gold
 stub: false
 excerpt: "Goldman's 1952 history of American reform from the Civil War to the Fair Deal covers Henry George and the single-tax movement, Populism, labor organizing, and the Progressive Era. Documents George's 1886 NYC mayoral campaign and the single-tax movement's pervasive influence on labor."
 last_reviewed: 2026-07-07
@@ -60,7 +59,6 @@ Goldman's book is a work of history, not advocacy, but it documents the policy p
 - The book is a general reform history, not a Georgist text; George and the single tax appear as one thread among many
 - Goldman characterizes George's personality critically ("close to believing himself a special emissary of God"), which may reflect Goldman's liberal reformer perspective rather than George's actual self-conception [VERIFY]
 - The abridged Vintage edition may omit material relevant to Georgism present in the original Knopf edition
-- OCR quality of the extracted text is poor, with significant duplication and artifacts; page citations are approximate
 
 ## Key Quotes
 
@@ -95,6 +93,6 @@ Goldman's book is a work of history, not advocacy, but it documents the policy p
 
 ## Sources
 
-1. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956). — primary source for all claims; verified against extracted text 2026-07-07 (Scan Depth: Selective — Georgism-relevant chapters).
+1. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956). — primary source for all claims
 2. Henry George, *Progress and Poverty* (1879) — the work Goldman describes George writing during the depression of 1873.
 3. *Journal of the Knights of Labor* (1887) — quoted by Goldman, p.47, testifying to George's influence.

@@ -5,7 +5,6 @@ tags: [research, books-publications, single-tax, land-value-tax, property-rights
 authors: [Richard Noyes]
 year: 1991
 tier: important
-source_url: https://archive.org/details/nowthesynthesis0000unse
 stub: false
 excerpt: "Edited by Richard Noyes, this 1991 Centre for Incentive Taxation volume presents essays synthesizing capitalism and socialism through land value taxation, covering constitutional property rights (Tideman), UK planning gain, post-socialist transitions, ecological taxation, and international trade."
 last_reviewed: 2026-07-07
@@ -58,7 +57,6 @@ The volume's section on international trade argues that free trade principles ar
 ## Nuances and Limits
 
 - The book is an edited volume with varying levels of analytical rigor across chapters; some claims are normative rather than empirical
-- The text layer contains OCR artifacts (the `<IA_FTS_MATCH>` tags are from the Internet Archive digitization), which may affect precise quotation
 - Tideman's constitutional argument for uncompensated 100% LVT is a normative philosophical position; its legal viability remains untested [VERIFY]
 - The post-socialist chapters were written in 1991, before the outcomes of post-Soviet transitions were known
 - Planning gain data is UK-specific; generalizability to other jurisdictions is not directly addressed

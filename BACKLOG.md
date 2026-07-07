@@ -75,7 +75,7 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
   (cross-linked to public-land-leasing). Flipped the geoism spectrum "Queued" row → linked;
   wired inbound from geoism + william-vickrey + public-land-leasing; 3 registry rows.
   NOTE: Crime of Poverty texts/ still blocked (Wikimedia blocks the proxy IP) — needs a
-  non-Wikimedia clean source (Schalkenbach, henrygeorge.org) or OCR cleanup.
+  non-Wikimedia clean source (Schalkenbach, henrygeorge.org).
 - **DONE** shift 9: **outcomes/resource-rent-capture-works** — NEW outcome (resource-rent capture
   domain). Norway flagship (78% cash-flow petroleum tax → GPFG >$2tn; 3% budgetary rule) as the
   Sachs-Warner resource-curse escape, honest institutional caveat. Campsite bonus: cleared ALL
@@ -95,7 +95,7 @@ scanning/synthesis; Opus acts as its T1). Progress this run (5 shifts, all pushe
 Lint green (0 err, 414 warn, ratchet steadily down from 473).
 **Remaining open priorities, in order:** (a) more **texts/ seeding** (§3b list) — NOTE: Henry
 George's "The Crime of Poverty" (1885) exists on archive.org (crimepovertyana00georgoog) but the
-Google-Books OCR is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or
+Google-Books text is rough; needs a clean source (Wikisource/coop-individualism/Schalkenbach) or
 careful cleanup before it can be a faithful texts/ page. Post 1923 & Johnson's *My Story* are
 book-length → sources/publicdomain/. (b) congestion follow-ups (build out the outcome page;
 Gothenburg 2013 counter-texture; Smeed Report 1964 stub). (c) more Exa people build-outs
@@ -115,7 +115,7 @@ outcomes) was merged to main at Floyd's direction. A NEW session must:
 2. Read LOOP.md (the shift procedure + mission), EDITORIAL.md §0–§3b, then this block.
 3. **Priority order for new work:**
    a. Hermes inbox / any open hermes/* PR — review first (delivered evidence outranks drafting;
-      check provenance: no shadow libraries; discovery reports required per source).
+      check provenance: legal sources only; discovery reports required per source).
    b. Objections build-out 9→11→15: next up "cycles are credit, not land" (steelman sources
       Werner/Kindleberger/Vague now on the registry reading list — needs acquisition or
       snippet-corroborated Light draft) and the public-choice "government will waste the rent"
@@ -274,7 +274,7 @@ Synthesis track (T1, after the FINDs land):
 
 ## (previous checkpoint follows — historical)
 ## ⟳ RESUME HERE (checkpoint 2026-07-05 Hermes overnight w1)
-HERMES OVERNIGHT DELTA: 4 books scanned (Harrison Boom Bust, Harrison Power in the Land,
+HERMES OVERNIGHT DELTA: 4 books processed (Harrison Boom Bust, Harrison Power in the Land,
 Anderson Secret Life of Real Estate, Patel Secret Wealth Advantage) → 4 new research pages +
 5 existing pages enriched with book findings. 12 VERIFY/CITATION NEEDED markers cleared
 (Hsieh-Moretti, Glaeser-Gyourko, IMF Building Tax Capacity, Knoll-Schularick-Steger, Progress
@@ -298,7 +298,7 @@ sections is queued below. (3) Synthesis de-referencing is now a T1 review gate (
 
 FIRST-PRINCIPLES REVIEW DELTA (Floyd directive, 2026-07-06 midday): loop re-evaluated; verdict
 in LOOPLOG 2026-07-06c. Changes shipped: lint now catches conflict markers, [[wikilinks]],
-over-cap quotes, registry duplicates, shadow-library provenance (all ERROR/WARN); LOOP.md gains
+over-cap quotes, registry duplicates, provenance checks (all ERROR/WARN); LOOP.md gains
 a DEBT RATCHET (step 6) and a discovery ACCEPT BAR + ~8-stub/wave quota (step 8); GLM section
 marked environment-conditional; docs/loop-diagram.md added with a same-commit sync rule.
 Priority rebalance from the data: objections (9 pages) is the weakest pillar vs 15 outcomes /
@@ -442,7 +442,7 @@ Latest export: `sources/exports/registry-export-2026-07-06.csv` (325 rows).
 ## Comprehensiveness loop (LOOP-COMPREHENSIVENESS.md — invokable audit, separate from the main loop)
 comprehensiveness watermark: 136 external-source rows (first invocation completed 2026-07-04; next invocation sweeps rows added after #136 unless --full)
 - [x] [COMPREHENSIVENESS-SWEEP] status:done 2026-07-04 — full sweep of 136 sources via GLM
-      (zero Claude quota): light pass + deep pass (46 full-text Core/under-mined scans at 1M ctx).
+      (zero Claude quota): light pass + deep pass (46 Core/under-mined sources at 1M ctx).
       ~200 raw candidates -> 29 stubs accepted (11+ people incl. Arnott/Oates/Rognlie/Glaeser/
       Piketty/Ely), 4 backfilled same-day (alaska, canada, wallace-oates, edward-glaeser).
       Cohesion audit (whole corpus, 1 call): 25 findings, 12 fixed same-day, rest queued below.
@@ -567,7 +567,7 @@ the DISCOVERED-candidates channel; Floyd is sending Hermes a supplementary extra
       concepts candidates each with 1-line why + where-in-book locator) committed to its branch
       as sources/inbox/BOOKSCAN-<slug>.report.md. T1 then triages -> stubs/registry per the
       standard accept/reject-with-reason discipline. Applies retroactively to the 5 books
-      already scanned and as a standing requirement for the rest of wanted-books.
+      already processed and as a standing requirement for the rest of wanted-books.
       **GENERALIZED 2026-07-06 (Floyd):** discovery now applies to EVERY source Hermes
       processes (not just books) and covers ALL wiki categories INCLUDING the new books
       category — spec moved to sources/inbox/README.md ("Discovery is universal";
@@ -597,7 +597,7 @@ citable anchor for privately-held books (files never committed; quotes ≤50 wor
       research/tideman-plassmann-losses-of-nations + research/barker-review-housing-supply
       (both stub, pending full read; note Harrison's in-text Tideman-Plassmann title differs
       from the published chapter title — reconcile on direct read). ROUTED: crisis-literature
-      canon (Reinhart-Rogoff, Kindleberger-Aliber, Werner, Vague) to registry as Not-scanned
+      canon (Reinhart-Rogoff, Kindleberger-Aliber, Werner, Vague) to registry as unprocessed
       steelman sources for the queued credit-cycle objection; Chaos Makers + Parry Lewis +
       Gaffney After-the-Crash to wanted-books. REJECTED with reasons: Miller health-gradient
       studies (1 demanding page — re-propose if a health-inequality angle develops);
@@ -801,7 +801,7 @@ Progress gauge: `lint_wiki.py` COVERAGE block. Termination: 14/14 outcomes ≥5.
       Book V land-taxation chapters beyond the one §5 quote; candidate research/ page.
 - [x] [DEEPEN-SCAN] tier:T2 status:done — Rothbard, *The Single Tax* (1957, important): mine the full
       critique into objections/lvt-austrian-critique (currently cites it only indirectly).
-      (Friedman 1978 symposium stays Light — a two-paragraph remark, fully extracted.)
+      (Friedman 1978 symposium stays Light — a two-paragraph remark, fully covered.)
 
 - [ ] [DEEPEN-SCAN] tier:T2 status:todo — George, *Social Problems* follow-up: chapter-by-chapter
       mine of the remaining ~17 chapters once direct primary-text access is available (current pass
@@ -831,14 +831,14 @@ the repo seeding missed.)
       (common-wealth-canada, natural-common-wealth-economic-rent-canada, british-columbia,
       cwc-distributional-impacts-lvt, cwc-lvt-price-reaction-model, common-wealth-fund) via
       `scripts/pull_from_ghost.py` once GHOST_ADMIN_KEY is set; then review frontmatter/citations,
-      update registry Status Scanned, and remove the drift rows from seed_registry EXTERNAL list.
+      update registry Status, and remove the drift rows from seed_registry EXTERNAL list.
 
 ## Phase 1 — Raw material (research + concepts)  [depends on: Phase 0]
 - [ ] [DRAFT] tier:T2 status:todo — research: Mirrlees Review "Tax by Design" (2011) evidence page
 - [ ] [DRAFT] tier:T2 status:todo — research: Foldvary, *Public Revenue Without Taxation* (1994)
 - [ ] [DRAFT] tier:T2 status:todo — research: Ryan-Collins et al., *Rethinking … Land and Housing* (2017)
 - [ ] [DRAFT] tier:T2 status:todo — research: OECD land/property tax reports (recent)
-- [ ] [DRAFT] tier:T2 status:todo — research: "Not scanned" registry rows — Effects of Split-Rate
+- [ ] [DRAFT] tier:T2 status:todo — research: unprocessed registry rows — Effects of Split-Rate
       Taxation (2022), Building Tax Capacity for Development (IMF 2025), Arbitrary Lines, Order
       Without Design, Escaping the Housing Trap  (one page each)
 - [ ] [DRAFT] tier:T2 status:todo — research: complete Gaffney / Tideman / Hudson / Stiglitz coverage
