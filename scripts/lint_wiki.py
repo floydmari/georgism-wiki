@@ -254,9 +254,22 @@ def main():
         # claim-strength language, not quoted primary sources — so exempt them,
         # exactly as the quote-cap check above does.
         if meta.get("public_domain") is not True:
+            # the banned-certainty rule governs the wiki's own claim-strength
+            # language, not words that fall inside a quoted source — skip matches
+            # within a "double-quoted span", the same intent as the public_domain
+            # exemption above.
+            quoted = [(m.start(), m.end()) for m in re.finditer(r'"[^"\n]*"', body)]
+            in_quote = lambda pos: any(s <= pos < e for s, e in quoted)
+            # proper-noun acronym expansion that legitimately contains a banned
+            # word: ATCOR = "All Taxes Come Out of Rent" (and its EBCOR sibling).
+            allowed = [(m.start(), m.end()) for m in
+                       re.finditer(r"all taxes come out of rent", body, re.I)]
+            in_allowed = lambda pos: any(s <= pos < e for s, e in allowed)
             for pat in BANNED:
-                m = re.search(pat, body, re.I)
-                if m: warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
+                for m in re.finditer(pat, body, re.I):
+                    if not in_quote(m.start()) and not in_allowed(m.start()):
+                        warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
+                        break
         cn = len(re.findall(r"\[CITATION NEEDED", body))
         vf = len(re.findall(r"\[VERIFY", body))
         if cn: warn(f, f"{cn} unresolved [CITATION NEEDED] marker(s)")
