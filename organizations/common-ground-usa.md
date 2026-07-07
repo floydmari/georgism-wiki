@@ -21,4 +21,4 @@ Common Ground USA promotes public education on Georgist economics, supports stat
 
 ## Sources
 
-1. Common Ground USA — official site. [commonground-usa.net](https://commonground-usa.net/)
+1. Common Ground USA — official site. [commonground-usa.net](https://commonground-usa.net/) — used for the network's advocacy role, its educational work, and its links to the wider US and international Georgist movement.

@@ -28,4 +28,7 @@ Though incomplete and less read than his polemical works, it is George's cleares
 
 ## Sources
 
-1. Henry George (1898), *The Science of Political Economy*. Full text via the Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/)
+1. Henry George (1898), *The Science of Political Economy* — used for George's late,
+   systematic restatement of his economic method and value theory (his unfinished
+   attempt to ground the single-tax argument in first principles). Full text via the
+   Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/)

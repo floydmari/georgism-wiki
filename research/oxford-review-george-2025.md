@@ -25,4 +25,7 @@ Appearing in a flagship policy journal, the survey reviews the modern evidence c
 
 ## Sources
 
-1. "Henry George, land speculation, and economic growth and transformation" (2025), *Oxford Review of Economic Policy* 41(2):326. [Article](https://academic.oup.com/oxrep/article/41/2/326/8320563)
+1. "Henry George, land speculation, and economic growth and transformation" (2025),
+   *Oxford Review of Economic Policy* 41(2):326 — used for the recent mainstream
+   reassessment of George's account of how land speculation interacts with growth and
+   structural transformation. [Article](https://academic.oup.com/oxrep/article/41/2/326/8320563)

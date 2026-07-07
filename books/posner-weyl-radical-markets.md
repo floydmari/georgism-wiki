@@ -102,7 +102,7 @@ The authors' central proposal synthesizes George, Vickrey, Harberger, and Cramto
 - The social loss from monopoly power grows *quadratically* with the extent of that power
 - Reducing the markup by one-third eliminates ~5/9 of the allocative harm
 - A 10% tax achieves 5/9 of the allocative benefit at only 1/9 of the investment cost (pp. 60–61)
-- This quadratic structure means it is always optimal to have at least a small tax
+- This quadratic structure means at least a small tax is optimal across the range they consider
 
 ### The Monopoly Board Game Origin (pp. 43–44)
 
@@ -141,7 +141,7 @@ Léon Walras, one of the three fathers of the marginal revolution, stated: "Decl
 
 > "Declaring individual land ownership … means … thwarting the beneficial effects of free competition by preventing the land from being used as is most advantageous for society." — Léon Walras, quoted p. 40
 
-> "If taxes are to be levied … on … the value of … properties allow each … owner … to declare the value of his own property, make the declared values … public, and require that an owner sell his property to any bidder … willing to pay … the declared value." — Arnold Harberger, quoted p. 58
+> "[A]llow each … owner … to declare the value of his own property, make the declared values … public, and require that an owner sell his property to any bidder … willing to pay … the declared value." — Arnold Harberger, quoted p. 58
 
 > "We refer to this tax as a 'common ownership self-assessed tax' (COST) on wealth. The COST on wealth is also the cost of (holding) wealth." (p. 64)
 
@@ -211,9 +211,9 @@ The COST is presented as resolving all three through its partial (below-100%) ta
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern data-driven Georgist defense
 - [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal
 - [Economic Rent](/wiki/economic-rent/) — Rent as unearned income from land and natural resources
-- [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
+- [ATCOR](/wiki/atcor/) — the thesis that taxes ultimately fall on rent
 - [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — Evidence on LVT reducing speculation
 
 ## Sources
 
-- Posner, Eric A. and E. Glen Weyl. *Radical Markets: Uprooting Capitalism and Democracy for a Just Society.* Princeton University Press, 2018. ISBN 978-0-691-17750-2.
+- Posner, Eric A. and E. Glen Weyl. *Radical Markets: Uprooting Capitalism and Democracy for a Just Society.* Princeton University Press, 2018. ISBN 978-0-691-17750-2 — used for the book's full argument on this page: the COST mechanism, the George critique (three defects), the Vickrey/Harberger lineage, the data-and-estimates table, and the departures-from-George section. Page references throughout are to this edition (Hermes T2 scan).

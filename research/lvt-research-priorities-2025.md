@@ -20,7 +20,10 @@ It identifies where the evidence is strong (e.g. land's [share of wealth](/wiki/
 
 ## Sources
 
-1. "Advancing Land Value Taxation: Research Priorities for 2025 and Beyond," Progress and Poverty Institute. [Article](https://progressandpovertyinstitute.org/advancing-land-value-taxation-research-priorities-for-2025-and-beyond/)
+1. "Advancing Land Value Taxation: Research Priorities for 2025 and Beyond," Progress and
+   Poverty Institute — used for the institute's agenda-setting survey of open empirical
+   questions in LVT research (a practitioner/advocacy roadmap, cited as such).
+   [Article](https://progressandpovertyinstitute.org/advancing-land-value-taxation-research-priorities-for-2025-and-beyond/)
 
 ## See Also
 

@@ -28,5 +28,9 @@ Lars Doucet's *"Does Georgism Work?"* series, published on Astral Codex Ten in 2
 
 ## Sources
 
-1. Lars Doucet (2021–22), *Does Georgism Work?* — [Part 1: Is Land Really a Big Deal?](https://www.astralcodexten.com/p/does-georgism-work-is-land-really) · [Part 2: Can Landlords Pass LVT to Tenants?](https://www.astralcodexten.com/p/does-georgism-work-part-2-can-landlords) · [Part 3: Can Land Be Assessed?](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved), *Astral Codex Ten*
+1. Lars Doucet (2021–22), *Does Georgism Work?* — used as a modern synthesis that
+   works through the three empirical cruxes (is land a big share of value; can LVT be
+   passed to tenants; can land be assessed); a navigation source whose underlying
+   evidence is cited to the primary studies on the pages it supports.
+   [Part 1: Is Land Really a Big Deal?](https://www.astralcodexten.com/p/does-georgism-work-is-land-really) · [Part 2: Can Landlords Pass LVT to Tenants?](https://www.astralcodexten.com/p/does-georgism-work-part-2-can-landlords) · [Part 3: Can Land Be Assessed?](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved), *Astral Codex Ten*
 2. Lars Doucet (2023), *Land Is a Big Deal* (book). [landisabigdeal.com](https://www.landisabigdeal.com/)

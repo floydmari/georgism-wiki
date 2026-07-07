@@ -27,4 +27,7 @@ The authors find that an LVT can improve **both efficiency and equity** in agglo
 
 ## Sources
 
-1. Fiorentino & Moogan (2025), "LVT and Urban Agglomeration Dynamics," SSRN. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5588585)
+1. Fiorentino & Moogan (2025), "LVT and Urban Agglomeration Dynamics," SSRN — used for
+   the modelled interaction between land value taxation and agglomeration economies
+   (how taxing land affects the density gains that drive urban productivity).
+   [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5588585)

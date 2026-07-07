@@ -26,4 +26,4 @@ Alongside research bodies like the [Lincoln Institute](/wiki/lincoln-institute/)
 
 ## Sources
 
-1. Henry George School of Social Science — official site. [hgsss.org](https://www.hgsss.org/)
+1. Henry George School of Social Science — official site. [hgsss.org](https://www.hgsss.org/) — used for the School's 1932 founding by Oscar Geiger, its free-tuition educational mission, and its course offerings.

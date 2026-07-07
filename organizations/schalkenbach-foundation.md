@@ -26,5 +26,5 @@ RSF is the institutional through-line of the Georgist movement — the body that
 
 ## Sources
 
-1. Robert Schalkenbach Foundation — official site. [schalkenbach.org](https://schalkenbach.org/)
-2. Publisher of authoritative editions of *[Progress and Poverty](/wiki/progress-and-poverty/)*.
+1. Robert Schalkenbach Foundation — official site. [schalkenbach.org](https://schalkenbach.org/) — used for the Foundation's 1925 founding, its mission, and its role as custodian of Henry George's works.
+2. Publisher of authoritative editions of *[Progress and Poverty](/wiki/progress-and-poverty/)* — used as the basis for its standing as the canonical George publisher.

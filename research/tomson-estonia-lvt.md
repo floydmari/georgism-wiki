@@ -26,4 +26,7 @@ Tomson finds **higher inner-city density and more construction in Tallinn** than
 
 ## Sources
 
-1. Aivar Tomson (2016), "Sustainable Urban Development and Land Value Taxation: The Case of Estonia," *Land Use Policy*. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0264837716304999)
+1. Aivar Tomson (2016), "Sustainable Urban Development and Land Value Taxation: The Case
+   of Estonia," *Land Use Policy* — used for Estonia's nationwide land-value-tax
+   experience and its effects on compact urban development and land use.
+   [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0264837716304999)

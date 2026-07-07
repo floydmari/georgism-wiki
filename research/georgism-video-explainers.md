@@ -31,6 +31,8 @@ Several well-produced YouTube videos serve as short, accessible introductions to
 
 ## Sources
 
-1. "The Best Idea That Will Never Happen: Georgism 101." [YouTube](https://www.youtube.com/watch?v=smi_iIoKybg)
+1. "The Best Idea That Will Never Happen: Georgism 101" — used as a popular
+   video introduction to the land-value-tax argument (a general-audience explainer,
+   cited as such, not as evidence). [YouTube](https://www.youtube.com/watch?v=smi_iIoKybg)
 2. "What Is Georgism? ft. Lars Doucet." [YouTube](https://www.youtube.com/watch?v=anrWTf1brSE)
 3. "Henry George & Land Value Tax." [YouTube](https://www.youtube.com/watch?v=Zbw5yqaDD84)
