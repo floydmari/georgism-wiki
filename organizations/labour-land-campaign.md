@@ -21,4 +21,4 @@ The Campaign produces briefings and policy arguments aimed at trade unionists, L
 
 ## Sources
 
-1. Labour Land Campaign — official site. [labourland.org](https://www.labourland.org/)
+1. Labour Land Campaign — official site. [labourland.org](https://www.labourland.org/) — used for the Campaign's advocacy of LVT within the Labour movement, its briefings, and its framing of land taxation as a progressive cause.

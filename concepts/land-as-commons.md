@@ -38,6 +38,7 @@ The Georgist land-as-commons tradition should be distinguished from the commons 
 ## See Also
 
 - [George — Moses (1878)](/wiki/moses/) — George reads the Mosaic land laws as an early embodiment of land-as-common-property
+- [George — Thy Kingdom Come (1889)](/wiki/thy-kingdom-come/) — the sermon casting the earth as the All-Father's common gift to all His children
 - [Fairlie — A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/)
 
 - [Georgism](/wiki/georgism/)

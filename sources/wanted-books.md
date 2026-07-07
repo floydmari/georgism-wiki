@@ -64,3 +64,18 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 | **Reinhart & Rogoff / Kindleberger & Aliber / Werner / Vague (crisis literature)** | The mainstream + credit-school crisis canon — steelman sources for the queued 'cycles are credit, not land' objection. Registry rows added; acquire as available. |
 | **Don Riley, *Taken for a Ride* (Centre for Land Policy Studies, 2001)** | The Jubilee Line land-value-uplift study — primary practitioner evidence for public-investment-capitalizes-into-land and land-value-capture. Discovery: ricardos-law report. |
 | **Brett Christophers, *Rentier Capitalism* (Verso, 2020)** | The modern UK rentier-economy survey already name-checked on 3 wiki pages (rentier, production-boundary, mazzucato) — steelman + evidence source for the FIRE/rentier cluster. Discovery: patel report. |
+
+## Public-domain full texts — Hermes transcription queue (EDITORIAL §3b)
+
+Pre-1931 works to be delivered **in full** as `texts/` pages (≤~25k words) or
+`sources/publicdomain/<slug>.md` (full books). The quote cap does not apply. Hermes's
+environment fetches these freely; the T1 loop reviews, wires (≥2 inbound links),
+lints, and merges. **These are transcription jobs the T1 environment cannot emit
+directly** — long verbatim public-domain reproduction trips an output guardrail here,
+so acquisition + transcription is routed to Hermes per Floyd's 2026-07-07 direction.
+
+| Text | Ready-to-run details / target |
+|------|-------------------------------|
+| **⭐ Henry George, *"Thy Kingdom Come"* — sermon, City Hall, Glasgow, 28 April 1889** — **PRIORITY (source already located by T1)** | Clean scan located: Internet Archive item **`thykingdomcomea00georgoog`** (Scottish Land Restoration League pamphlet, 1889; OCR at `https://archive.org/download/thykingdomcomea00georgoog/thykingdomcomea00georgoog_djvu.txt` — readable, ~4,500 words). Target: new page **`texts/thy-kingdom-come.md`** (`category: texts`, `public_domain: true`, author Henry George, year 1889). George's words run from "Mr. George said:—" to "…enter thou into the joy of thy Lord." Drop the Google front matter, the Harvard library plates, and the trailing book-list/ads; the Wm. Forsyth verse and the Blackstone epigraph on the title leaf may be kept as pamphlet front matter or omitted. OCR needs de-hyphenation and artifact fixes (`w^as`→`was`, `Clackstone`→`Blackstone`, `Dosing`→`Dozing`, `kingom`→`kingdom`, `welcoined`→`welcomed`, etc.). Registry row + inbound links (from `people/henry-george`, `concepts/land-as-commons`, the other `texts/` pages) added by T1 at review. It is the clearest moral-religious statement of George's land-as-common-gift thesis — a natural companion to the existing `texts/moses` and `texts/crime-of-poverty`. |
+| Henry George, other short works — *"Thou Shalt Not Steal"* (1887), *"The Land Question"*, *"Ode to Liberty"* / *Protection or Free Trade* (1886, book → `sources/publicdomain/`) | George's complete works are the top §3b acquisition. Deliver as `texts/` pages (short) or `sources/publicdomain/` (books). |
+| 1890 Saratoga single-tax debate proceedings; Louis F. Post, *The Deportations Delirium of Nineteen-Twenty* (1923); Tom L. Johnson, *My Story* (1911); the People's Budget speeches (1909) | The remaining EDITORIAL §3b priority list — each has a ready wiki target (single-tax narrative, a future Louis Post page, Tom Johnson, the 1909 Budget event). |

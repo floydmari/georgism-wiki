@@ -21,4 +21,4 @@ The Foundation conducts education and advocacy for [land value taxation](/wiki/l
 
 ## Sources
 
-1. Henry George Foundation (UK) — official site. [henrygeorgefoundation.org](https://henrygeorgefoundation.org/)
+1. Henry George Foundation (UK) — official site. [henrygeorgefoundation.org](https://henrygeorgefoundation.org/) — used for the Foundation's standing as the principal British Georgist body, its education and advocacy work, and its links to the UK and international movement.
