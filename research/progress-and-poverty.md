@@ -5,6 +5,8 @@ tags: [progress-and-poverty, henry-george, georgism, land-value-tax, political-e
 stub: false
 year: 1879
 sources: [george-1879]
+source_url: https://www.henrygeorge.org/pcontents.htm
+excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepens amid material progress, and the single-tax remedy. One of the best-selling economics books of the 19th century and the founding text of the Georgist movement."
 ---
 
 ## Overview
@@ -45,5 +47,5 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty*. [Full text online](https://www.henrygeorge.org/pcontents.htm)
-2. Authoritative editions published by the [Robert [Schalkenbach](/wiki/schalkenbach-foundation/) Foundation](/wiki/schalkenbach-foundation/).
+1. Henry George (1879), *Progress and Poverty*. [Full text online](https://www.henrygeorge.org/pcontents.htm) — used as the primary text for George's argument, structure, and central claims summarised on this page (public domain).
+2. Authoritative editions published by the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used as the standard modern edition and custodian of the text.

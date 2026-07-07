@@ -21,4 +21,4 @@ Rather than an advocacy body, it functions as a **library and research resource*
 
 ## Sources
 
-1. School of Cooperative Individualism — archive. [cooperative-individualism.org](https://cooperative-individualism.org/)
+1. School of Cooperative Individualism — archive. [cooperative-individualism.org](https://cooperative-individualism.org/) — used for the organisation's role as an online archive of Georgist and land-reform primary texts, essays, and biographies that the wiki draws on.

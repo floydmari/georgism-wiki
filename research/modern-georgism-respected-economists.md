@@ -27,4 +27,4 @@ Blogger-economist [Noah Smith's essays](/wiki/noah-smith-on-georgism/) make a re
 
 ## Sources
 
-1. "The Modern Georgism of Respected Economists," *Progress and Poverty Substack*. [Article](https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected)
+1. "The Modern Georgism of Respected Economists," *Progress and Poverty Substack*. [Article](https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected) — used for the roll-call of mainstream economists (Friedman, Stiglitz, Krugman, and others) on record endorsing land value taxation, the compilation this page summarises.

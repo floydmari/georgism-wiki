@@ -26,4 +26,4 @@ The authors show that LVT is not only **efficient** (no deadweight loss, since l
 
 ## Sources
 
-1. Gregor Schwerhoff, Ottmar Edenhofer & Marc Fleurbaey (2022), "Equity and Efficiency Effects of Land Value Taxation," *IMF Working Paper* WP/22/263. [PDF](https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf)
+1. Gregor Schwerhoff, Ottmar Edenhofer & Marc Fleurbaey (2022), "Equity and Efficiency Effects of Land Value Taxation," *IMF Working Paper* WP/22/263. [PDF](https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf) — used for the IMF analysis that a land value tax is both efficient and (under plausible ownership distributions) progressive, and for its formal treatment of the equity–efficiency case.
