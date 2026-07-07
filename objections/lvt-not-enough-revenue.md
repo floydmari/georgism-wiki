@@ -68,7 +68,7 @@ advocates concede full replacement is uncertain:
 
 ## Net Assessment
 
-LVT can clearly fund a **substantial** share of government and should arguably be
+LVT can evidently fund a **substantial** share of government and should arguably be
 a primary revenue source. Whether it can fund *all* of it remains
 [genuinely contested](/wiki/land-rent-could-fund-government/) and depends on
 accounting choices; the strongest critics (Krugman, Blaug) accept the principle

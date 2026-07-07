@@ -35,6 +35,6 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 
 ## Sources
 
-1. Lars Doucet (2022), "Does Georgism Work? Part 3: Can Unimproved Land Value Be Accurately Assessed?", *Astral Codex Ten* — [wiki summary](/wiki/doucet-does-georgism-work/) · [original](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved)
-2. Kumar et al. (2020), "Land and building separation based on Shapley values," *Humanities and Social Sciences Communications* (Nature). [Article](https://www.nature.com/articles/s41599-020-0444-1)
-3. Lincoln Institute of Land Policy — assessment research. [wiki summary](/wiki/lincoln-institute/)
+1. Lars Doucet (2022), "Does Georgism Work? Part 3: Can Unimproved Land Value Be Accurately Assessed?", *Astral Codex Ten* — [wiki summary](/wiki/doucet-does-georgism-work/) · [original](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved) — used for the evidence that mass-appraisal methods do separate land from improvements accurately in practice.
+2. Kumar et al. (2020), "Land and building separation based on Shapley values," *Humanities and Social Sciences Communications* (Nature). [Article](https://www.nature.com/articles/s41599-020-0444-1) — used for a formal method of decomposing property value into land and building components.
+3. Lincoln Institute of Land Policy — assessment research. [wiki summary](/wiki/lincoln-institute/) — used for the body of assessment research showing land-value estimation is a solved practical problem in many jurisdictions.
