@@ -72,7 +72,7 @@ The paper surveys several alternative explanations from the literature:
 - **Intangibles**: Crouzet and Eberly (2018) document that intangible capital use is associated with concentration, partially explaining high measured profits as returns to real (if hard-to-measure) investment.
 - **Regulation and lobbying**: Bessen (2016) argues that political rent-seeking played a disproportionate role in rising profit margins; Grullon et al. (2017) find support for weaker antitrust enforcement.
 
-The authors argue that in their companion quantitative study, declining knowledge diffusion is the only margin among competing alternatives — including changes in entry costs, corporate tax schemes, and R&D tax incentives — that can explain all observed trends both qualitatively and quantitatively.
+The authors argue that in their companion quantitative study, declining knowledge diffusion is the one margin among competing alternatives — including changes in entry costs, corporate tax schemes, and R&D tax incentives — that can explain all observed trends both qualitatively and quantitatively.
 
 ## Relation to the Georgist Case
 
