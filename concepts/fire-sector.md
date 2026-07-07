@@ -95,6 +95,7 @@ carries both readings, attributed; the dispute is unresolved in the literature.
 ## See Also
 
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
+- [Outcome: Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the strong, evidence-carried version of the finance–land claim
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the persuasive deployment
 - [Rethinking the Economics of Land and Housing](/wiki/ryan-collins-rethinking-land-housing/) — the land–credit loop
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the cycle literature this feeds

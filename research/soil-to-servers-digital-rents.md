@@ -24,4 +24,7 @@ The authors contend that economics has persistently neglected land as a distinct
 
 ## Sources
 
-1. "From Soil to Servers: Persistent Neglect of Land Resources and Digital-Age Rents" (2025), *Land* 14(2):341. [Article](https://www.mdpi.com/2073-445X/14/2/341)
+1. "From Soil to Servers: Persistent Neglect of Land Resources and Digital-Age Rents"
+   (2025), *Land* 14(2):341 — used for the argument extending rent analysis from land
+   to digital-age assets (data, platforms), framing them as new commons whose rents are
+   under-captured. [Article](https://www.mdpi.com/2073-445X/14/2/341)

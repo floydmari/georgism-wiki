@@ -9,7 +9,7 @@ source_url: https://www.nber.org/system/files/working_papers/w20501/w20501.pdf
 stub: false
 excerpt: "A landmark NBER working paper constructing a new long-run dataset of disaggregated bank credit for 17 advanced economies since 1870, showing that mortgage lending has come to dominate banks' balance sheets and that mortgage booms increasingly drive financial instability and deeper recessions."
 last_reviewed: 2026-07-03
-supports_outcomes: []
+supports_outcomes: [finance-growth-is-land-credit]
 ---
 
 ## Summary
