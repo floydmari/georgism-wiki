@@ -72,6 +72,7 @@ growing rent extraction: the shift of national income away from labor.
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/)
 
+- [Platform & data rents](/wiki/data-rents/) — the concept page that gathers this cluster into a rent-gradient domain
 - [Korinek & Ng — digital superstars](/wiki/korinek-ng-digital-superstars/) · [Akcigit & Ates — business dynamism](/wiki/akcigit-ates-business-dynamism/) · [Crouzet & Eberly — intangibles](/wiki/crouzet-eberly-intangibles/) — the wider tech-rents cluster
 
 ## Sources
