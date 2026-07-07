@@ -26,4 +26,8 @@ Property-tax revenue depends heavily on **administrative capacity** — quality 
 
 ## Sources
 
-1. World Bank (2020), "Determinants of Property Tax Revenue: Lessons from Empirical Analysis," PRW 9399. [PDF](https://documents1.worldbank.org/curated/en/360151600192574693/pdf/Determinants-of-Property-Tax-Revenue-Lessons-from-Empirical-Analysis.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/world-bank-property-tax-determinants.pdf)
+1. World Bank (2020), "Determinants of Property Tax Revenue: Lessons from Empirical
+   Analysis," Policy Research Working Paper 9399 — used for the cross-country evidence
+   on what drives property-tax revenue (administration, valuation coverage, and
+   institutional capacity, more than statutory rates).
+   [PDF](https://documents1.worldbank.org/curated/en/360151600192574693/pdf/Determinants-of-Property-Tax-Revenue-Lessons-from-Empirical-Analysis.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/world-bank-property-tax-determinants.pdf)

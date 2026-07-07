@@ -63,6 +63,7 @@ Henry George's analysis located unearned income in land; the modern rent literat
 ## See Also
 
 - [Superstar Firms](/wiki/superstar-firms/) · [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) · [The Rentier Economy](/wiki/the-rentier-economy/) · [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
+- [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the parallel evidence in the financial sector
 
 ## Sources
 
