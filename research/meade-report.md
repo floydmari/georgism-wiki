@@ -62,6 +62,7 @@ which carried the same rent-only logic forward into the ACE recommendation.
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the mechanism the report canonised, with modern evidence
 - [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) — the accrual route to the same base
 - [Mirrlees Review](/wiki/mirrlees-review/) — the IFS's successor study
+- [Institute for Fiscal Studies](/wiki/institute-for-fiscal-studies/) — the report's institutional home
 - [Outcome: Rent-targeting corporate taxes reduce debt bias](/wiki/rent-targeting-taxes-reduce-debt-bias/)
 
 ## Sources

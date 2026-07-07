@@ -62,6 +62,7 @@ against another.[5]
 ## See Also
 
 - [The Meade Report (1978)](/wiki/meade-report/) — the committee he chaired
+- [Institute for Fiscal Studies](/wiki/institute-for-fiscal-studies/) — the institute that convened the committee
 - [Citizen's Dividend](/wiki/citizens-dividend/) — the idea his social dividend converges on
 - [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/) — capturing capital returns for the public, in practice
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the corporate-tax design the Meade Report canonised
