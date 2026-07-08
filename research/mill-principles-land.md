@@ -17,8 +17,9 @@ supports_outcomes: []
 John Stuart Mill's *Principles of Political Economy, with Some of Their Applications to
 Social Philosophy* (1848; revised through later editions, including the 1871 seventh
 edition) was the dominant English-language economics textbook of the mid-19th century.
-Its treatment of rent and land taxation — chiefly Book V, Chapter II, "Of Direct Taxes,"
-§2 ("Taxes on Rent") — is the direct intellectual bridge between
+Its treatment of rent and land taxation — chiefly Book V, Chapter II, "Of Direct Taxes"
+(§§2–5, on taxes on rent and on the increase of rent from natural causes) — is the direct
+intellectual bridge between
 [David Ricardo](/wiki/david-ricardo/)'s theory of rent and
 [Henry George](/wiki/henry-george/)'s *[Progress and Poverty](/wiki/progress-and-poverty/)*
 (1879). The wiki's other pages already draw on this chapter for its single most quoted
@@ -52,17 +53,15 @@ prosperity — the passage from which the wiki already quotes: landlords "grow r
 were in their sleep, without working, risking, or economizing."[1] Multiple independent
 secondary sources corroborate Mill's supporting formulation in the same discussion:
 describing rent as "a kind of income which constantly tends to increase, without any
-exertion or sacrifice on the part of the owners," Mill concluded that "it would be no
-violation of the principles on which private property is grounded, if the state should
-appropriate this increase of wealth, or part of it, as it arises."[3] This sentence is the
-theoretical hinge of the whole chapter: Mill is arguing, on Lockean grounds (property is
-justified by labor and abstinence), that a gain with no labor or abstinence behind it does
-not enjoy the same claim to inviolability as ordinary earned income.[3] [VERIFY: exact
-wording and paragraph placement against a directly fetched primary-source copy of Book V,
-Ch. II — this session could not fetch econlib.org or Project Gutenberg directly (both
-returned errors); the quotation above is corroborated by multiple independent secondary
-sources that reproduce it identically, but has not been checked word-for-word against the
-primary text in this session.]
+exertion or sacrifice on the part of the owners" — a class "whom the natural course of
+things progressively enriches, consistently with complete passiveness on their own part" —
+Mill concluded that "it would be no violation of the principles on which private property is
+grounded, if the state should appropriate this increase of wealth, or part of it, as it
+arises."[3] This sentence is the theoretical hinge of the whole chapter: Mill is arguing, on
+Lockean grounds (property is justified by labor and abstinence), that a gain with no labor
+or abstinence behind it does not enjoy the same claim to inviolability as ordinary earned
+income.[3] The same section carries the wiki's single most-quoted Mill line: landlords "grow
+richer, as it were, in their sleep, without working, risking, or economizing."[1]
 
 The term Mill used for this passive gain — the **unearned increment** — is the subject of
 its own wiki page; see [Unearned Increment](/wiki/unearned-increment/) for the concept and
@@ -125,12 +124,15 @@ existing owners are left exactly as well off as before the tax is announced — 
 already paid for is taken from them. George rejected this constraint. He held that private
 property in land was never legitimately acquired to begin with (the argument of *Progress
 and Poverty*, Book VII), so no compensation was owed for capturing rent that already
-existed — a position for which he invoked the same reasoning used against compensating
-slaveholders when slavery was abolished.[10] [VERIFY: the precise passage and chapter in
-which George draws the slaveholder-compensation analogy — this session corroborates the
-substance of the analogy via multiple independent secondary summaries of *Progress and
-Poverty*, but could not fetch the primary text directly to confirm exact wording or
-location.]
+existed. In the dedicated chapter on the question — Book VII, Ch. III, "The Claim of Land
+Owners to Compensation" — George holds "that land owners can make no just claim to
+compensation if society choose to resume its right," and treats the buy-out proposals of his
+day as descendants of the same compensation impulse that led, "in abolishing slavery in the
+British West Indies, [to] $100,000,000… paid the slaveholders." In the same chapter George
+names Mill's design directly: this compensation idea, he writes, "led John Stuart Mill,
+although clearly perceiving the essential injustice of private property in land, to advocate,
+not a full resumption of the land, but only a resumption of accruing advantages in the
+future."[10]
 
 Whether Mill's narrower, prospective design or George's full-capture design is the more
 defensible policy is a normative question the wiki treats elsewhere — see the
@@ -149,10 +151,7 @@ Mill's land-reform program drew opposition as well as support from within Libera
 According to a secondary academic source describing the Irish land debates of the 1880s,
 the Liberal Home Secretary Sir William Harcourt blamed "attacks on property" during the
 Irish Land War on "these misty philosophers" — naming thinkers such as Mill and George as
-having repeatedly derailed the Liberal party's position.[11] [CITATION NEEDED: author name
-and full citation for the Cambridge *Historical Journal* article summarized here — this
-session located the article by title and journal via search but could not fetch the article
-itself to confirm the author or verify the quotation directly.] More moderate Liberal
+having repeatedly derailed the Liberal party's position.[11] More moderate Liberal
 economists close to Mill, including Henry Fawcett and Thorold Rogers, are separately
 reported to have shared frustration with the broader claim — advanced by Mill, Cairnes, and
 later George — that land is a "meaningfully different species of property" from other
@@ -173,21 +172,20 @@ descendant of this objection.
 ## Sources
 
 1. John Stuart Mill, *Principles of Political Economy*, 1848 (rev. through the 7th ed.,
-   1871), Book V, Ch. II, §5. [Full text (Econlib), attempted but not fetchable this
-   session](https://www.econlib.org/library/Mill/mlP.html) — used for the "richer in their
-   sleep" quotation, already cited elsewhere on this wiki
-   ([John Stuart Mill](/wiki/john-stuart-mill/),
-   [unearned-increment narrative](/wiki/unearned-increment-narrative/)); this page did not
-   re-verify it against primary text but relies on the wiki's existing citation.
+   1871), Book V, Ch. II, §5 ("The increase of the rent of land from natural causes a fit
+   subject of peculiar Taxation"). [Full text (Project Gutenberg #30107, Ashley
+   ed.)](https://www.gutenberg.org/ebooks/30107) — fetched and read (2026-07-07); "grow
+   richer, as it were, in their sleep, without working, risking, or economizing" verified
+   verbatim in §5.
 2. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On
    Rent" — used for the rent theory Mill inherited (C-claim); see also
    [David Ricardo](/wiki/david-ricardo/) and [Economic Rent](/wiki/economic-rent/).
-3. John Stuart Mill, *Principles of Political Economy*, Book V, Ch. II, §2 ("Taxes on
-   Rent"), corroborated via multiple independent secondary sources (academic commentary and
-   quotation compilations) that reproduce the same wording — used for the "no violation of
-   the principles on which private property is grounded" quotation and its Lockean framing
-   (C/D-claim). [VERIFY: not confirmed against a directly fetched primary-source copy in
-   this session; econlib.org and Project Gutenberg were both attempted and returned errors.]
+3. John Stuart Mill, *Principles of Political Economy*, Book V, Ch. II, **§5** — used for the
+   "a kind of income which constantly tends to increase, without any exertion or sacrifice"
+   and "no violation of the principles on which private property is grounded… appropriate this
+   increase of wealth, or part of it, as it arises" quotations and their Lockean framing
+   (C/D-claim). Verified verbatim against Project Gutenberg #30107 (2026-07-07). (Note: the
+   normative passage is in §5, not §2; earlier drafts of this page mis-cited §2.)
 4. Narrative: The Unearned Increment (this wiki), citing John Stuart Mill, *Programme of
    the Land Tenure Reform Association, with an Explanatory Statement*, London, 1871 —
    used for the prospective-only design and the LTRA's fourth article (A-claim); see
@@ -214,24 +212,26 @@ descendant of this objection.
    cited on this wiki's [unearned-increment narrative page](/wiki/unearned-increment-narrative/)
    — used for the "single tax" proposal and George's rejection of the purchaser defense
    (C/D-claim).
-10. George's rejection of compensation for landowners and the slaveholder-compensation
-    analogy, corroborated via multiple independent secondary summaries of *Progress and
-    Poverty*'s argument — used for the Mill vs George compensation contrast (D-claim).
-    [VERIFY: exact passage and wording not confirmed against primary text in this session;
-    econlib.org, Gutenberg, and henrygeorge.org were not directly fetchable.]
-11. Secondary academic source on Irish land politics in the 1880s (located via search:
-    an article titled "The Right to Life, the Right to Nature, and the Impact of Irish Land
-    on Political Thought in the 1880s," *The Historical Journal*, Cambridge University
-    Press, published online circa 2022–2023) — used for the Harcourt "misty philosophers"
-    characterization of Mill and George as a period criticism (E-claim). [CITATION NEEDED:
-    author name and full bibliographic details; this session located the article via
-    bibliographic search only and could not fetch it to confirm the quotation or author.]
+10. Henry George, *Progress and Poverty*, Book VII, Ch. III, "The Claim of Land Owners to
+    Compensation" — used for George's rejection of compensation ("land owners can make no just
+    claim to compensation"), the British West Indies slaveholder-compensation reference
+    ("$100,000,000… paid the slaveholders"), and George's naming of Mill's prospective-only
+    plan. Verified verbatim against Project Gutenberg #55308 (2026-07-07). [Gutenberg
+    #55308](https://www.gutenberg.org/ebooks/55308)
+11. Andrew Phemister, "The Right to Life, the Right to Nature, and the Impact of Irish Land
+    on Political Thought in the 1880s," *The Historical Journal*, Cambridge University Press
+    — used for the Harcourt "misty philosophers" characterization of Mill and George as a
+    period criticism (E-claim). Author and title confirmed via the article's Cambridge Core
+    citation metadata (2026-07-07); [Cambridge Core](https://www.cambridge.org/core/journals/historical-journal/article/right-to-life-the-right-to-nature-and-the-impact-of-irish-land-on-political-thought-in-the-1880s/5B9766F01D59B7F067D68BB18C1AB8D1).
+    The article body is paywalled, so the exact surrounding wording of the Harcourt quotation
+    is as reported by secondary summaries, not read first-hand. (Same author as the *Land and
+    Liberalism* study cited on [Michael Davitt](/wiki/michael-davitt/).)
 
-**A note on sourcing for this page:** this session's web access could not directly fetch
-econlib.org, Project Gutenberg, Wikipedia, Wikisource, Cambridge Core, or several other
-primary- and secondary-source hosts (all returned network or access errors). Claims above
-are therefore drawn either from material already cited elsewhere on this wiki (notes 1, 4,
-9) or corroborated through search-engine result snippets that quote or summarize the
-underlying sources, cross-checked against multiple independent results for agreement before
-inclusion. Direct primary-source quotations above (notes 1, 3) should be re-verified against
-a fetched copy of Mill's text before this page's [VERIFY] markers are cleared.
+**A note on sourcing for this page:** the two primary texts — Mill's *Principles* (Project
+Gutenberg #30107) and George's *Progress and Poverty* (#55308) — have now been fetched and
+read, and every quotation drawn from them (notes 1, 3, 10) is verified verbatim (2026-07-07).
+What remains corroborated by secondary sources only, and still flagged, is secondary-source
+material that is genuinely paywalled or not machine-fetchable: the exact founding date and
+membership roster of the Land Tenure Reform Association (notes 5, 6) and the author/wording of
+the two journal articles behind the period-criticism section (notes 6, 11, both located by
+bibliographic search but not fetchable in full).
