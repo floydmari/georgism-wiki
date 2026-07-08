@@ -73,6 +73,14 @@ case — there is no equivalent of the [Rognlie](/wiki/rognlie-capital-share/)/
 the mortgage-share evidence establishes finance's *exposure to* land, not that its
 income *is* rent.
 
+The nearest quantitative anchor on the rent side is
+[Philippon (2015)](/wiki/philippon-finance-efficiency/): the unit cost of financial
+intermediation has held at ~1.5–2% for 140 years and did **not** fall as information
+technology transformed every other data-intensive industry. That "no efficiency
+pass-through" puzzle is the strongest single piece of evidence that finance captures
+its productivity gains rather than competing them away — though, as that page stresses,
+it is a puzzle consistent with rent, not a measurement of the rent share.
+
 ## The Counter-View
 
 The strongest mainstream reply is Cochrane's: the right question about finance is
@@ -87,6 +95,7 @@ carries both readings, attributed; the dispute is unresolved in the literature.
 ## See Also
 
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
+- [Outcome: Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the strong, evidence-carried version of the finance–land claim
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the persuasive deployment
 - [Rethinking the Economics of Land and Housing](/wiki/ryan-collins-rethinking-land-housing/) — the land–credit loop
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the cycle literature this feeds

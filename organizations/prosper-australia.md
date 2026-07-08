@@ -27,4 +27,4 @@ Prosper Australia is a model of evidence-driven Georgist advocacy, supplying ori
 
 ## Sources
 
-1. Prosper Australia — official site and Speculative Vacancies reports. [prosper.org.au](https://www.prosper.org.au/)
+1. Prosper Australia — official site and Speculative Vacancies reports. [prosper.org.au](https://www.prosper.org.au/) — used for the organisation's history, its advocacy work, and its speculative-vacancy research methodology and findings.

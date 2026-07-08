@@ -94,6 +94,7 @@ site-value taxation.[3]
 ## See Also
 
 - [Economic Rent](/wiki/economic-rent/) — the parent concept
+- [Intellectual-Property Rents](/wiki/ip-rents/) — a quasi-rent deliberately manufactured as an incentive
 - [Geoism](/wiki/geoism/) — the rent gradient this distinction anchors
 - [Objection: The Search-Theoretic Critique](/wiki/search-theoretic-critique/) — quasi-rent applied against LVT
 - [Alfred Marshall](/wiki/alfred-marshall/) · [Deadweight Loss](/wiki/deadweight-loss/)

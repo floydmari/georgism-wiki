@@ -117,6 +117,7 @@ plainly.[12]
 - [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) — the mandatory counterweight
 - [Economic Rent](/wiki/economic-rent/) · [Geoism](/wiki/geoism/) — the umbrella program
 - [The Mirrlees Review](/wiki/mirrlees-review/) — the canonical modern endorsement
+- [Institute for Fiscal Studies](/wiki/institute-for-fiscal-studies/) — whose Capital Taxes Group coined the ACE
 - [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/) — the diagnosis this instrument would act on
 
 ## Sources

@@ -24,4 +24,6 @@ Standard optimal-tax models assume competitive markets. Kaplow shows that when f
 
 ## Sources
 
-1. Louis Kaplow (2019), "Market Power and Income Taxation," NBER WP 25578. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3341238)
+1. Louis Kaplow (2019), "Market Power and Income Taxation," NBER WP 25578 — used for
+   the optimal-tax analysis of how the presence of market power (rents) changes the
+   case for taxing high incomes. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3341238)

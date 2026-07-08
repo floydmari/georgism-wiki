@@ -25,4 +25,7 @@ High land rents in productive cities act as a **barrier to entry**: workers and 
 
 ## Sources
 
-1. Bas Bakker (2023), "Unveiling the Hidden Impact of Urban Land Rents on Total Factor Productivity," *IMF Working Paper*. [PDF](https://papers.ssrn.com/sol3/Delivery.cfm/wpi2023170.pdf?abstractid=4557156)
+1. Bas Bakker (2023), "Unveiling the Hidden Impact of Urban Land Rents on Total Factor
+   Productivity," *IMF Working Paper* — used for the finding that rising urban land
+   rents drag on measured total factor productivity (misallocation via high land costs).
+   [PDF](https://papers.ssrn.com/sol3/Delivery.cfm/wpi2023170.pdf?abstractid=4557156)

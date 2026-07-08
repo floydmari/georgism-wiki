@@ -26,4 +26,8 @@ The classic theorem holds under restrictive first-best conditions. Behrens et al
 
 ## Sources
 
-1. Behrens, Kanemoto & Murata (2015), "The Henry George Theorem in a second-best world," *Journal of Urban Economics*. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0094119014000771)
+1. Behrens, Kanemoto & Murata (2015), "The Henry George Theorem in a second-best
+   world," *Journal of Urban Economics* — used for the result that the Henry George
+   Theorem's land-rent-equals-public-goods equality weakens once real-world
+   distortions (imperfect competition, distortionary taxes) are admitted.
+   [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0094119014000771)

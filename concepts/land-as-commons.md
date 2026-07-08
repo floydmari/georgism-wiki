@@ -89,6 +89,7 @@ See: [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/from-wasteland-
 
 ## See Also
 
+- [George — Moses (1878)](/wiki/moses/) — George reads the Mosaic land laws as an early embodiment of land-as-common-property
 - [Fairlie — A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/)
 
 - [Georgism](/wiki/georgism/)

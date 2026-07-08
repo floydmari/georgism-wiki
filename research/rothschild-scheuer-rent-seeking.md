@@ -24,4 +24,8 @@ When part of top earnings reflects rent extraction (capturing existing value) ra
 
 ## Sources
 
-1. Rothschild & Scheuer (2011), "Optimal Taxation with Rent-Seeking," *NBER Working Paper 17035*. [PDF](https://www.nber.org/system/files/working_papers/w17035/w17035.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/rothschild-scheuer-rent-seeking.pdf)
+1. Rothschild & Scheuer (2011), "Optimal Taxation with Rent-Seeking," *NBER Working
+   Paper 17035* — used for the result that when part of high incomes reflects
+   rent-seeking (zero-sum effort) rather than production, optimal marginal tax rates
+   on top earners are higher than the standard model implies.
+   [PDF](https://www.nber.org/system/files/working_papers/w17035/w17035.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/rothschild-scheuer-rent-seeking.pdf)

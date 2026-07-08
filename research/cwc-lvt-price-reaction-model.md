@@ -34,4 +34,7 @@ LVT produces a **predictable** price response governed by the relationship betwe
 
 ## Sources
 
-1. Jack Jol (2024), "Modeling the Price Reaction to the Implementation of a Land Value Tax," Common Wealth Canada. [Research note](https://commonwealth.ca/research/lvt-sensitivity-analysis)
+1. Jack Jol (2024), "Modeling the Price Reaction to the Implementation of a Land Value
+   Tax," Common Wealth Canada — used for the sensitivity model of how much land prices
+   fall (capitalise the tax) under different LVT rates and discount-rate assumptions.
+   [Research note](https://commonwealth.ca/research/lvt-sensitivity-analysis)
