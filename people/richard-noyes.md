@@ -1,5 +1,5 @@
 ---
-title: "John K. Noyes"
+title: "Richard Noyes"
 category: people
 tags: [people, noyes, editor, now-the-synthesis, shepheard-walwyn, land-value-tax, incentive-taxation]
 stub: false
@@ -8,7 +8,7 @@ excerpt: "Editor of 'Now the Synthesis' (1991), a multi-author volume arguing th
 
 ## Summary
 
-John K. Noyes (also credited as Richard Noyes in some references) is the editor of *Now the Synthesis: Capitalism, Socialism and the New Economics* (1991), published by Centre for Incentive Taxation Ltd and Shepheard-Walwyn (UK) with Holmes & Meier Publishers (US). The volume assembled contributions from Nicolaus Tideman, Fred Harrison, James Busey, David Richards, and Jürgen Backhaus, arguing that land value taxation represents a "synthesis" that transcends the capitalism/socialism divide by capturing community-created rent for public benefit while preserving private enterprise. (A-claim; factual)
+Richard Noyes is the editor of *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (1991), published by Centre for Incentive Taxation Ltd and Shepheard-Walwyn (UK) with Holmes & Meier Publishers (US). The volume assembled contributions from Nicolaus Tideman, Fred Harrison, James Busey, David Richards, and Jürgen Backhaus, arguing that land value taxation represents a "synthesis" that transcends the capitalism/socialism divide by capturing community-created rent for public benefit while preserving private enterprise. (A-claim; factual)
 
 ## Key Ideas/Contributions
 
@@ -24,11 +24,11 @@ John K. Noyes (also credited as Richard Noyes in some references) is the editor 
 
 ## Key Works
 
-- *Now the Synthesis: Capitalism, Socialism and the New Economics* (1991, ed.) — [book page](/books/now-the-synthesis/)
+- *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (1991, ed.) — [book page](/wiki/now-the-synthesis/)
 
 ## See Also
 
-- [Now the Synthesis](/books/now-the-synthesis/) — book page
+- [Now the Synthesis](/wiki/now-the-synthesis/) — book page
 - [Nicolaus Tideman](/wiki/nicolaus-tideman/) — contributor to the volume
 - [Fred Harrison](/wiki/fred-harrison/) — contributor to the volume
 - [Single Tax](/wiki/single-tax/) — the synthesis Noyes advocates
@@ -36,6 +36,6 @@ John K. Noyes (also credited as Richard Noyes in some references) is the editor 
 
 ## Sources
 
-1. John K. Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Economics* (London: Centre for Incentive Taxation Ltd / Shepheard-Walwyn; New York: Holmes & Meier, 1991). — used for the synthesis thesis and the volume's structure (A/D-claims). [book page](/books/now-the-synthesis/)
+1. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (London: Centre for Incentive Taxation Ltd / Shepheard-Walwyn; New York: Holmes & Meier, 1991). — used for the synthesis thesis and the volume's structure (A/D-claims). [book page](/wiki/now-the-synthesis/)
 2. Nicolaus Tideman, "Constitutional Property Rights and Land Value Taxation" (Ch. 2 of *Now the Synthesis*) — used for the constitutional argument (C-claim).
 3. Fred Harrison, "Planning Gain: The Implicit Land Value Tax" (Ch. 3 of *Now the Synthesis*) — used for the planning gain analysis (D-claim).

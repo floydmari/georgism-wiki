@@ -38,14 +38,14 @@ This historical case illustrates a tension in Locke's theory that Georgists have
 
 > "The Indians had property just as much as the settlers did; they just organized it differently." (Banner 2005, Introduction)
 
-See: [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-their-land/)
+See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/)
 
 ## See Also
 
 - [Land as Commons](/wiki/land-as-commons/) · [Geolibertarianism](/wiki/geolibertarianism/)
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
 - [ATCOR](/wiki/atcor/) — the fiscal descendant of Locke's 1691 observation
-- [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-their-land/) — Locke's property theory in colonial context
+- [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/) — Locke's property theory in colonial context
 
 ## Sources
 
@@ -58,4 +58,4 @@ See: [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-thei
    [Book page](/wiki/harrison-ricardos-law/)
 3. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier*
    (Harvard University Press, 2005) — used for the application of Lockean property
-   theory to colonial land acquisition (A/D-claims). [Book page](/books/how-the-indians-lost-their-land/)
+   theory to colonial land acquisition (A/D-claims). [Book page](/wiki/how-the-indians-lost-their-land/)

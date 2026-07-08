@@ -29,16 +29,6 @@ Alaska is the closest large-scale, long-running proof of concept for the Georgis
 
 Not every resource-rent windfall behaves like Alaska's transparent, per-capita dividend. [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that in Colombia, municipalities receiving large resource-rent transfers show *weaker* local tax effort and accountability — a local "resource curse" that cuts the other way. The lesson is that *how* rent is captured and distributed (transparent, equal, direct dividend vs. opaque government transfer) matters as much as the fact of capture itself.
 
-## Book Findings
-
-### Barnes: Alaska as Proof-of-Concept for Universal Dividends
-
-Peter Barnes presents the Alaska Permanent Fund as the working proof-of-concept for universal resource-rent dividends in both [*Capitalism 3.0*](/books/capitalism-3-0/) (2006) and [*With Liberty and Dividends for All*](/books/with-liberty-and-dividends-for-all/) (2014). In the latter, Barnes examines the Alaska model in detail (Ch. 6), arguing that it demonstrates the administrative simplicity and political durability of per-capita dividend distribution from co-owned wealth (Barnes 2014, Ch. 6). The Alaska model's significance for the Georgist case is that it shows dividends from common-asset rent are not merely theoretical: they have operated continuously since 1982, across changing administrations, and remain highly popular. (B-claim; empirical)
-
-Barnes argues that the Alaska model can be extended beyond oil rents to other forms of co-owned wealth, including the atmosphere (via carbon pricing), the electromagnetic spectrum, and mineral resources (Barnes 2014, Ch. 7, 9, Appendix). His Appendix estimates the "Dividend Potential of Co-owned Wealth," calculating potential dividend amounts from various common assets (Barnes 2014, pp. 139–172). [VERIFY: specific figures require direct reading of Appendix]. (C-claim; theoretical)
-
-Barnes's cautionary tale (Ch. 8) examines carbon capping as implemented through cap-and-trade, arguing it delivered windfalls to polluters rather than dividends to citizens — illustrating that the *design* of the rent-capture mechanism matters as much as the fact of capture. The lesson for the dividend outcome is that opaque or poorly designed mechanisms can fail to deliver the transparency and political durability that makes Alaska's model work. (D-claim; interpretive)
-
 ## The Evidence in Detail
 
 The case runs from theory through operation to rigorous evaluation.
@@ -58,16 +48,26 @@ circumstances — the exportability question. And
 resource rents paid as equal per-capita dividends in developing countries would
 cut extreme poverty by roughly 27–66%, depending on year and assumptions.
 
+## Book Findings
+
+### Barnes: Alaska as Proof-of-Concept for Universal Dividends
+
+Peter Barnes presents the Alaska Permanent Fund as the working proof-of-concept for universal resource-rent dividends in both [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006) and [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014). In the latter, Barnes examines the Alaska model in detail (Ch. 6), arguing that it demonstrates the administrative simplicity and political durability of per-capita dividend distribution from co-owned wealth (Barnes 2014, Ch. 6). For Barnes, the model's significance is that dividends from common-asset rent are not merely theoretical — the operational record summarized under The Evidence above. As an advocacy source his framing is attributed, not independent corroboration of that record. (D-claim; attributed)
+
+Barnes argues that the Alaska model can be extended beyond oil rents to other forms of co-owned wealth, including the atmosphere (via carbon pricing), the electromagnetic spectrum, and mineral resources (Barnes 2014, Ch. 7, 9, Appendix). His Appendix estimates the "Dividend Potential of Co-owned Wealth," calculating potential dividend amounts from various common assets (Barnes 2014, pp. 139–172). [VERIFY: specific figures require direct reading of Appendix]. (C-claim; theoretical)
+
+Barnes's cautionary tale (Ch. 8) examines carbon capping as implemented through cap-and-trade, arguing it delivered windfalls to polluters rather than dividends to citizens — illustrating that the *design* of the rent-capture mechanism matters as much as the fact of capture. The lesson for the dividend outcome is that opaque or poorly designed mechanisms can fail to deliver the transparency and political durability that makes Alaska's model work. (D-claim; interpretive)
+
 ## See Also
 
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
 
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Resource Rents](/wiki/resource-rents/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
-- [Capitalism 3.0](/books/capitalism-3-0/) — Barnes's commons trust dividend evidence
-- [With Liberty and Dividends for All](/books/with-liberty-and-dividends-for-all/) — Alaska as proof-of-concept for universal dividends
+- [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's commons trust dividend evidence
+- [With Liberty and Dividends for All](/wiki/with-liberty-and-dividends-for-all/) — Alaska as proof-of-concept for universal dividends
 
 ## Sources
 
 1. Alaska Permanent Fund Dividend program (operating since 1982) — used as the flagship operating example; the study-level evidence is cited on the research pages walked through above.
-2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for Alaska as proof-of-concept and the extension to other co-owned wealth (B/C-claims). [Book page](/books/with-liberty-and-dividends-for-all/)
-3. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend model (C-claim). [Book page](/books/capitalism-3-0/)
+2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for Alaska as proof-of-concept and the extension to other co-owned wealth (B/C-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
+3. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend model (C-claim). [Book page](/wiki/capitalism-3-0/)

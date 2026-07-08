@@ -25,7 +25,7 @@ Peter Barnes (1942–) is an American journalist, entrepreneur, and author who h
 
 ## Key Works
 
-- *Capitalism 3.0: A Guide to Reclaiming the Commons* (2006) — [book page](/books/capitalism-3-0/)
+- *Capitalism 3.0: A Guide to Reclaiming the Commons* (2006) — [book page](/wiki/capitalism-3-0/)
 - *With Liberty and Dividends for All* (2014)
 - *Who Owns the Sky?* (2001) — predecessor work on carbon cap-and-dividend
 
@@ -34,10 +34,10 @@ Peter Barnes (1942–) is an American journalist, entrepreneur, and author who h
 - [Georgism](/wiki/georgism/) — the tradition Barnes extends to all commons
 - [Land Value Tax](/wiki/land-value-tax/) — the original rent-capture mechanism Barnes generalizes
 - [Community Creates Land Value](/wiki/community-creates-land-value/) — the principle Barnes extends to all common wealth
-- [Capitalism 3.0](/books/capitalism-3-0/) — book page
+- [Capitalism 3.0](/wiki/capitalism-3-0/) — book page
 
 ## Sources
 
-1. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (San Francisco: Berrett-Koehler, 2006). — used for the commons-sector thesis, Sky Trust proposal, and Capitalism 1.0/2.0/3.0 framework (C/D-claims). [book page](/books/capitalism-3-0/)
+1. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (San Francisco: Berrett-Koehler, 2006). — used for the commons-sector thesis, Sky Trust proposal, and Capitalism 1.0/2.0/3.0 framework (C/D-claims). [book page](/wiki/capitalism-3-0/)
 2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the universal dividend argument (D-claim).
 3. Peter Barnes, *Who Owns the Sky?* (Island Press, 2001) — predecessor work on carbon cap-and-dividend (C-claim).

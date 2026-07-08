@@ -44,11 +44,11 @@ table's other attributed aggregations.
 
 ### Burgess: LVT as Alternative to Taxation
 
-K.W. Burgess's *Public Revenue Without Taxation* (1993) argues that land value taxation is not merely a better tax but the legitimate replacement for taxation altogether. Burgess traces the argument from the Physiocratic tradition through Henry George, arguing that public revenue should come from the community-created rental value of land rather than from coercive taxation of productive activity (Burgess 1993, Ch. 1–3). Burgess develops the ATCOR argument — that all taxation comes out of rent — and contends that replacing existing taxes with LVT would actually expand the revenue base by unburdening production (Burgess 1993, Ch. 4). (C-claim; theoretical)
+Ronald Burgess's *Public Revenue Without Taxation* (1993) argues that land value taxation is not merely a better tax but the legitimate replacement for taxation altogether. Burgess traces the argument from the Physiocratic tradition through Henry George, arguing that public revenue should come from the community-created rental value of land rather than from coercive taxation of productive activity (Burgess 1993, Ch. 1–3). Burgess develops the ATCOR argument — that all taxation comes out of rent — and contends that replacing existing taxes with LVT would actually expand the revenue base by unburdening production (Burgess 1993, Ch. 4). (C-claim; theoretical)
 
 Burgess also addresses the inflation dimension, arguing that failure to collect land rent forces governments to monetize debt, creating inflation that disproportionately harms wage-earners (Burgess 1993, Ch. 5). He connects unemployment to land speculation, arguing that high land prices price labour out of productive opportunities (Burgess 1993, Ch. 6). (C-claim; theoretical)
 
-See: [Public Revenue Without Taxation (Burgess)](/books/public-revenue-without-taxation/)
+See: [Public Revenue Without Taxation (Burgess)](/wiki/public-revenue-without-taxation/)
 
 ## Strength of Evidence
 
@@ -71,4 +71,4 @@ See: [Public Revenue Without Taxation (Burgess)](/books/public-revenue-without-t
    [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) · [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
 2. Counterpoint framing: [Objection — LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
    — used as the steelmanned opposing view on revenue sufficiency.
-3. K.W. Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the ATCOR revenue argument and the case that LVT replaces rather than supplements taxation (C-claims). [Book page](/books/public-revenue-without-taxation/)
+3. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the ATCOR revenue argument and the case that LVT replaces rather than supplements taxation (C-claims). [Book page](/wiki/public-revenue-without-taxation/)

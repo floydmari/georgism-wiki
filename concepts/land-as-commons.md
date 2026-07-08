@@ -33,13 +33,13 @@ The land-as-commons concept extends naturally to [ecological Georgism](/wiki/eco
 
 ## Barnes's Commons Trust Model
 
-Peter Barnes extends the land-as-commons principle beyond land to all shared inheritances — the atmosphere, water, forests, and the electromagnetic spectrum — in [*Capitalism 3.0*](/books/capitalism-3-0/) (2006). Barnes defines commons assets as "gifts" that are "shared" and for which we have a "joint obligation to preserve" them for future generations (Barnes 2006, Ch. 1). His proposed institutional innovation is the **commons trust** — a "market-based legal entity with the power to limit use of scarce commons, charge rent, and pay dividends — in both cash and services — to everyone" (Barnes 2006, p. 2). (C-claim; theoretical)
+Peter Barnes extends the land-as-commons principle beyond land to all shared inheritances — the atmosphere, water, forests, and the electromagnetic spectrum — in [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006). Barnes defines commons assets as "gifts" that are "shared" and for which we have a "joint obligation to preserve" them for future generations (Barnes 2006, Ch. 1). His proposed institutional innovation is the **commons trust** — a "market-based legal entity with the power to limit use of scarce commons, charge rent, and pay dividends — in both cash and services — to everyone" (Barnes 2006, p. 2). (C-claim; theoretical)
 
 Barnes's framework reframes the "tragedy of the commons" as a pair of failures: "a tragedy of the market, which has no way of curbing its own excesses, and second a tragedy of government, which fails to protect the atmosphere because polluting corporations are powerful and future generations don't vote" (Barnes 2006, Ch. 1). The commons trust is his remedy: by assigning property rights in common assets to trusts on behalf of future generations, the commons gains institutional defenders that government alone cannot reliably provide. (D-claim; interpretive)
 
-In [*With Liberty and Dividends for All*](/books/with-liberty-and-dividends-for-all/) (2014), Barnes further develops the concept of **co-owned wealth** — assets "we inherit or create together" — arguing that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). This co-owned-wealth concept extends the land-as-commons principle from the moral claim to land rent toward a broader theory of shared ownership of all common assets, with dividends as the mechanism for distributing the proceeds. (C-claim; theoretical)
+In [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014), Barnes further develops the concept of **co-owned wealth** — assets "we inherit or create together" — arguing that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). This co-owned-wealth concept extends the land-as-commons principle from the moral claim to land rent toward a broader theory of shared ownership of all common assets, with dividends as the mechanism for distributing the proceeds. (C-claim; theoretical)
 
-Barnes explicitly acknowledges Henry George as a predecessor, noting that "Monopoly itself had been invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George" (Barnes 2014, Ch. 1). The land-as-commons tradition thus provides the ethical foundation for Barnes's broader commons framework, even as Barnes extends it well beyond the land focus of classical Georgism. (A-claim; factual)
+Barnes explicitly acknowledges Henry George as a predecessor, recounting as personal inspiration the story that the board game Monopoly grew out of Quaker adaptations of a game designed to teach George's ideas (Barnes 2014, Ch. 1). The documented history is that the game descends from Lizzie Magie's *The Landlord's Game* (patented 1904), designed to teach Georgist economics, and was later adapted — including by Quaker players in Atlantic City — before commercial publication; Barnes's one-line version compresses this. The land-as-commons tradition thus provides the ethical foundation for Barnes's broader commons framework, even as Barnes extends it well beyond the land focus of classical Georgism. (D-claim; attributed anecdote — see [Elizabeth Magie](/wiki/elizabeth-magie/))
 
 ## Relation to Other Commons Frameworks
 
@@ -53,7 +53,7 @@ J. M. Neeson's *Commoners* (1993) provides the most detailed modern historical a
 
 Common right was legally defined as *profit a prendre* — use-rights without ownership of the soil itself:
 
-> "The interest which a commoner has in a common is, in the legal phrase, to eat the grass with the mouths of his cattle, or to take such other produce of the soil as he may be entitled to. The soil itself, the land, was not the commoner's, but the use of it was." (Neeson 1993, Introduction, p. 1)
+> "The interest which a commoner has in a common is, in the legal phrase, to eat the grass with the mouths of his cattle, or to take such other produce of the soil as he may be entitled to. The soil itself, the land, was not the commoner's, but the use of it was." (*Halsbury's Laws of England*, as quoted in Neeson 1993, Introduction, p. 1)
 
 This distinction — use-rights vs. ownership of the soil — directly illustrates the Georgist separation of land from improvements and the commons principle that access to land, not just title, determines welfare. In some Northamptonshire parishes, over half of households held common rights of some kind (Neeson 1993, Ch. 2, pp. 55–80). (A-claim; factual)
 
@@ -61,7 +61,7 @@ Common fields were not unregulated "free-for-alls" but governed by elaborate sel
 
 Parliamentary enclosure destroyed this system. Neeson documents that small landholders disappeared at higher rates in enclosing parishes than in open ones, and that the loss of common right "played a large part in turning the last of the English peasantry into a rural working class" (Neeson 1993, Introduction). The historical record suggests that the destruction of common property regimes can have severe, long-lasting social consequences — supporting the land-as-commons principle's emphasis on access as a determinant of welfare. (B-claim; empirical)
 
-See: [Commoners (Neeson)](/books/commoners-neeson/)
+See: [Commoners (Neeson)](/wiki/commoners-neeson/)
 
 ### Banner: Indigenous Common Land Tenure vs. European Private Property
 
@@ -69,13 +69,13 @@ Stuart Banner's *How the Indians Lost Their Land* (2005) documents that American
 
 The transition from Indian common-land tenure to European private property was not a simple replacement of one system with another but a fundamental reconceptualization of what land *is*. Banner documents the critical shift from recognizing Indian *ownership* to redefining Indian rights as mere *occupancy* — the right to use land without owning it — codified in *Johnson v. M'Intosh* (1823). This legal redefinition mirrors the enclosure process Neeson describes: in both cases, common-use rights were converted into narrower, less secure forms of tenure. (D-claim; interpretive)
 
-See: [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-their-land/)
+See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/)
 
 ### Daniel: African American Farmers and Land Access
 
-Pete Daniel's *Dispossession* (2013) documents the systematic denial of land access to African American farmers through USDA discrimination, resulting in a 93% decline in Black-operated farms from 1940 to 1974 (from 681,790 to 45,594) (Daniel 2013, p. 1). This illustrates the land-as-commons principle in reverse: when access to land is systematically denied to a population, the consequences are severe and enduring. The book shows that land deprivation — not just land ownership patterns — is a critical determinant of social welfare, echoing Neeson's finding about the importance of common-right access. (B-claim; empirical)
+Pete Daniel's *Dispossession* (2013) documents the systematic denial of land access to African American farmers through USDA discrimination, resulting in a 93% decline in Black-operated farms from 1940 to 1974 (from 681,790 to 45,594) (Daniel 2013, p. 1). The decline figures are Daniel's documented findings (B-claim; empirical). Reading the episode as "the land-as-commons principle in reverse" — land *deprivation* as the mirror of commons access, echoing Neeson's finding about common-right access — is this wiki's interpretive framing of discrimination evidence that Daniel himself presents as a civil-rights and administrative-justice story. (D-claim; interpretive). Fuller treatment: [The Great Land Robbery narrative](/wiki/the-great-land-robbery/) and [Land Monopoly](/wiki/land-monopoly/).
 
-See: [Dispossession (Daniel)](/books/dispossession-daniel/)
+See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ### Andelson: A Theological Land Ethic
 
@@ -85,7 +85,7 @@ Robert V. Andelson and James M. Dawsey's *From Wasteland to Promised Land* (1992
 
 This theological framing connects the land-as-commons tradition to non-Western and non-secular conceptions of land tenure, broadening the principle's cultural and moral basis beyond the Anglo-American philosophical tradition. (D-claim; interpretive)
 
-See: [From Wasteland to Promised Land (Andelson & Dawsey)](/books/from-wasteland-to-promised-land/)
+See: [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/from-wasteland-to-promised-land/)
 
 ## See Also
 
@@ -98,18 +98,18 @@ See: [From Wasteland to Promised Land (Andelson & Dawsey)](/books/from-wasteland
 - [Alanna Hartzok](/wiki/alanna-hartzok/)
 - [Unearned Increment](/wiki/unearned-increment/)
 - [Resource Rents](/wiki/resource-rents/)
-- [Commoners (Neeson)](/books/commoners-neeson/) — common rights in England 1700–1820
-- [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-their-land/) — indigenous land tenure vs. European property
-- [Dispossession (Daniel)](/books/dispossession-daniel/) — African American land access
-- [From Wasteland to Promised Land (Andelson & Dawsey)](/books/from-wasteland-to-promised-land/) — theological land ethic
-- [Capitalism 3.0](/books/capitalism-3-0/) — Barnes's commons trust model
-- [With Liberty and Dividends for All](/books/with-liberty-and-dividends-for-all/) — Barnes's co-owned wealth concept
+- [Commoners (Neeson)](/wiki/commoners-neeson/) — common rights in England 1700–1820
+- [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/) — indigenous land tenure vs. European property
+- [Dispossession (Daniel)](/wiki/dispossession-daniel/) — African American land access
+- [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/from-wasteland-to-promised-land/) — theological land ethic
+- [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's commons trust model
+- [With Liberty and Dividends for All](/wiki/with-liberty-and-dividends-for-all/) — Barnes's co-owned wealth concept
 
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty*. [Full text](https://www.henrygeorge.org/pcontents.htm) — used for George's foundational argument that land value is socially created and that private appropriation of rent is unjust.
 2. Henry George (1892), *A Perplexed Philosopher*. [henrygeorge.org](https://www.henrygeorge.org/) — used for George's critique of Spencer's reversal on land rights and the equal-rights framing.
 3. Alanna Hartzok (2008), *The Earth Belongs to Everyone* (book) — used for the modern ecological and earth-rights extension of the land-as-commons principle. [CITATION NEEDED: stable URL or publisher details for this book]
-4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006). — used for the commons trust model extending land-as-commons to atmosphere, water, spectrum (C/D-claims). [Book page](/books/capitalism-3-0/)
-5. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014). — used for the co-owned wealth concept and its connection to the land-as-commons tradition (C-claim). [Book page](/books/with-liberty-and-dividends-for-all/)
+4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006). — used for the commons trust model extending land-as-commons to atmosphere, water, spectrum (C/D-claims). [Book page](/wiki/capitalism-3-0/)
+5. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014). — used for the co-owned wealth concept and its connection to the land-as-commons tradition (C-claim). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 6. Wiki corpus: [Georgism](/wiki/georgism/), [Ecological Georgism](/wiki/ecological-georgism/), [Herbert Spencer](/wiki/herbert-spencer/), [Alanna Hartzok](/wiki/alanna-hartzok/) — used for cross-referenced summaries of George's core propositions, the ecological extension, the Spencer episode, and Hartzok's contributions.

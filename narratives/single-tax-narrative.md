@@ -111,17 +111,17 @@ Andelson and Dawsey argue that the single tax resolves what they see as Marxism'
 
 This theological argument for the single tax extends its appeal beyond secular audiences to religious communities concerned with social justice — particularly in Latin America, where liberation theology has historically influenced land reform movements. The book appeared in 1992, at the Soviet collapse, positioning Georgism as a post-Marxist path for liberation movements (Andelson & Dawsey 1992, Foreword). (D-claim; interpretive)
 
-See: [From Wasteland to Promised Land (Andelson & Dawsey)](/books/from-wasteland-to-promised-land/)
+See: [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/from-wasteland-to-promised-land/)
 
 ### Noyes: The Single Tax as Post-Cold War Synthesis
 
 Richard Noyes's edited volume *Now the Synthesis* (1991) frames the single tax as the intellectual resolution of the capitalism-vs-socialism divide. Noyes argues that both systems "exaggerated the potential for conflict" by over-simplifying individual and collective rights, and that George's principle — land rent belongs to the community — represents the emerging social synthesis (Noyes 1991, p. 11). (D-claim; interpretive)
 
-Nicolaus Tideman's chapter argues that 100% LVT is constitutionally permissible if introduced as a constitutional amendment, drawing an analogy to slave emancipation: "no one can have a claim to own land, because no one made the land" (Tideman 1991, p. 56). Fred Harrison's chapter shows UK "planning gain" as an implicit single tax, where farmland-to-housing conversions produce value increases "can be a thousandfold" (Harrison 1991, p. 63). David Richards connects the single tax to the Green movement, arguing it offers "equitable sharing of the world's natural resources" to Greens and "economic efficiency" to non-Greens (Richards 1991, p. 159). (C-claim; theoretical)
+The *Now the Synthesis* (1991) contributors supply the narrative's modern policy hooks — Tideman's constitutional route to 100% LVT, Harrison's UK planning-gain evidence, Richards's Green-movement bridge; the substance is on the [LVT](/wiki/land-value-tax/) and [Georgism](/wiki/georgism/) pages and the [book page](/wiki/now-the-synthesis/). (C-claim; theoretical)
 
 > "Socialists see the connection, but go on to make the fatal mistake of proscribing private ownership of land altogether, thereby missing another connection — between private decision-making and prosperity." — David Richards, in Noyes 1991, p. 159
 
-See: [Now the Synthesis (Noyes)](/books/now-the-synthesis/)
+See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
 ## Counter-Arguments and Georgist Responses
 
@@ -178,15 +178,15 @@ See: [Now the Synthesis (Noyes)](/books/now-the-synthesis/)
 
 Eric F. Goldman's *Rendezvous with Destiny* (1952) places the single-tax movement within the broader history of American reform. Goldman documents the single-tax movement as "having a pervasive effect" on urban reform politics in the 1880s (Goldman 1952, p. 46). He quotes the Knights of Labor organ's 1887 testimony: "No man has exercised so great an influence upon the labor movement of to-day as Henry George" (Goldman 1952, p. 47). Goldman describes George's 1886 campaign: "single-taxers, socialists, union members, and thousands of citizens who were just plain irritated supported Henry George with such fervor that he barely missed winning the mayorship of New York; a rising young liberal named Theodore Roosevelt ran third" (Goldman 1952, p. 47). (A-claim; factual)
 
-Goldman also documents tensions between single-taxers and Populists: George "was opposed on principle to the Populist demand for extensive governmental controls over economic life. He wanted the federal government to take the drastic step of imposing the single tax, but he believed this one move would reopen opportunity without requiring any further governmental interferences" (Goldman 1952, p. 59). See [Rendezvous with Destiny](/books/rendezvous-with-destiny/). (D-claim; interpretive)
+Goldman also documents tensions between single-taxers and Populists: George "was opposed on principle to the Populist demand for extensive governmental controls over economic life. He wanted the federal government to take the drastic step of imposing the single tax, but he believed this one move would reopen opportunity without requiring any further governmental interferences" (Goldman 1952, p. 59). See [Rendezvous with Destiny](/wiki/rendezvous-with-destiny/). (D-claim; interpretive)
 
 ### Barker: The Movement's Transatlantic Spread
 
-Charles Albro Barker's biography (1955) traces the single-tax movement's institutional emergence to 1887–88 in New York, when it "seized minds of legalistic bent, like Thomas Shearman's." Barker documents the movement's progressive-movement lineage through Tom Loftin Johnson, and its international reach through the Fabian movement, trade unions, and the Radicals of the Liberal party. Philip Wicksteed wrote to George in 1882 that *Progress and Poverty* had "fallen on old and deep lines of thought in my mind" (Barker 1955, p. 11). See [Barker's biography](/books/barker-henry-george-biography/). (A-claim; factual)
+Charles Albro Barker's biography (1955) traces the single-tax movement's institutional emergence to 1887–88 in New York and its progressive-movement lineage — covered in detail on the [Single Tax concept page](/wiki/single-tax/) and [Barker's book page](/wiki/barker-henry-george-biography/). One narrative-relevant detail: Philip Wicksteed wrote to George in 1882 that *Progress and Poverty* had "fallen on old and deep lines of thought in my mind" (Barker 1955, p. 11). (A-claim; factual)
 
 ### Redfearn: Tolstoy and the International Single Tax
 
-R.K. Redfearn's *Tolstoy: Principles for a New World Order* (1992) documents Tolstoy's role as an international advocate of the single tax, extending the movement's reach into Russia and the moral-philosophical tradition. Redfearn traces Tolstoy's argument that "depriving men of the land they need to work on not only takes away their freedom and reduces their wages just as effectively as does owning their bodies, but also involves fewer responsibilities" (Redfearn 1992, p. 72). See [Redfearn's book](/books/tolstoy-principles-redfearn/). (D-claim; interpretive)
+David Redfearn's *Tolstoy: Principles for a New World Order* (1992) documents Tolstoy's role as an international advocate of the single tax, extending the movement's reach into Russia and the moral-philosophical tradition. Redfearn traces Tolstoy's argument that "depriving men of the land they need to work on not only takes away their freedom and reduces their wages just as effectively as does owning their bodies, but also involves fewer responsibilities" (Redfearn 1992, p. 72). See [Redfearn's book](/wiki/tolstoy-principles-redfearn/). (D-claim; interpretive)
 
 ## How to Deploy It
 
@@ -221,10 +221,10 @@ R.K. Redfearn's *Tolstoy: Principles for a New World Order* (1992) documents Tol
 - [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/) — the standard reply
 - [Narrative: Tax Land, Not Labor](/wiki/tax-land-not-labor/) — the modern economist's version of the same shift
 - [Georgism](/wiki/georgism/) — the wider philosophy
-- [From Wasteland to Promised Land (Andelson & Dawsey)](/books/from-wasteland-to-promised-land/) — theological argument for the single tax
+- [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/from-wasteland-to-promised-land/) — theological argument for the single tax
 - [Eric F. Goldman](/wiki/eric-goldman/) — historian of American reform and the single-tax movement
 - [Charles Albro Barker](/wiki/charles-albro-barker/) — George's definitive biographer
-- [R.K. Redfearn](/wiki/william-redfearn/) — Tolstoy's Georgism and the international single tax
+- [David Redfearn](/wiki/david-redfearn/) — Tolstoy's Georgism and the international single tax
 
 ## Sources
 
@@ -259,6 +259,6 @@ R.K. Redfearn's *Tolstoy: Principles for a New World Order* (1992) documents Tol
 7. Revenue-scale estimates are cited on the linked outcome page:
    [Larson 2015](/wiki/larson-us-land-value/) ·
    [Albouy, Ehrlich & Shin 2018](/wiki/albouy-ehrlich-shin-metro-land/) (B-claims).
-8. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952) — used for the single-tax movement in American reform, the 1886 campaign, and single-tax vs. Populist tensions (A/D-claims). [Book page](/books/rendezvous-with-destiny/)
-9. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for the movement's transatlantic spread and institutional emergence (A-claims). [Book page](/books/barker-henry-george-biography/)
-10. R.K. Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992) — used for Tolstoy's role as international single-tax advocate (D-claims). [Book page](/books/tolstoy-principles-redfearn/)
+8. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952) — used for the single-tax movement in American reform, the 1886 campaign, and single-tax vs. Populist tensions (A/D-claims). [Book page](/wiki/rendezvous-with-destiny/)
+9. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for the movement's transatlantic spread and institutional emergence (A-claims). [Book page](/wiki/barker-henry-george-biography/)
+10. David Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992) — used for Tolstoy's role as international single-tax advocate (D-claims). [Book page](/wiki/tolstoy-principles-redfearn/)

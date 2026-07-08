@@ -22,7 +22,7 @@ The **Alaska Permanent Fund Dividend** is the closest large-scale implementation
 
 ### Barnes: Universal Dividends from Co-Owned Wealth
 
-Peter Barnes develops the citizen's dividend concept most fully in [*With Liberty and Dividends for All*](/books/with-liberty-and-dividends-for-all/) (2014) and [*Capitalism 3.0*](/books/capitalism-3-0/) (2006). Barnes's "simple idea" is that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). He distinguishes dividends from redistribution:
+Peter Barnes develops the citizen's dividend concept most fully in [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014) and [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006). Barnes's "simple idea" is that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). He distinguishes dividends from redistribution:
 
 > "Dividends of this sort aren't redistribution; they're a way to allocate income fairly in the first place so that there's less need to redistribute later. Nor are they government transfers or private charity. Rather, they're legitimate property income." (Barnes 2014, Preface)
 
@@ -32,7 +32,7 @@ In *Capitalism 3.0*, Barnes proposes that commons trusts distribute revenue as "
 
 ### Paine as Predecessor
 
-Barnes revives Thomas Paine's 1797 proposal in *Agrarian Justice* as the historical foundation for the citizen's dividend. Barnes presents Paine's "National Fund" — financed by ground rent paid by landowners, distributing capital grants at age 21 and pensions after 55 — as the first articulation of the principle that income from shared natural wealth belongs to all (Barnes 2014, Ch. 1). Barnes quotes Paine's distinction between "natural property" (the earth, air, water, which "rightfully belonged to everyone equally") and "artificial or acquired property" (the invention of men, which "must necessarily be distributed unequally") (Barnes 2014, Ch. 1, quoting Paine). See [Thomas Paine](/wiki/thomas-paine/). (A-claim; factual)
+Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-rent-financed "National Fund" paying capital grants at 21 and pensions after 55 — as the historical foundation for the citizen's dividend (Barnes 2014, Ch. 1). The wiki holds [the primary text](/wiki/agrarian-justice/) in full and treats the proposal in detail in the [citizens' dividend narrative](/wiki/citizens-dividend-narrative/); cite Paine directly rather than through Barnes. (A-claim; factual)
 
 ## See Also
 
@@ -45,13 +45,13 @@ Barnes revives Thomas Paine's 1797 proposal in *Agrarian Justice* as the histori
 - [Anderson, Your Citizen's Dividend (eBook)](/wiki/anderson-your-citizens-dividend/) — the advocacy-side program statement (Crown Estate/SPV model)
 
 - [Economic Rent](/wiki/economic-rent/) · [Georgism](/wiki/georgism/) · [Land Value Tax](/wiki/land-value-tax/)
-- [Capitalism 3.0](/books/capitalism-3-0/) — Barnes's commons trust dividend proposal
-- [With Liberty and Dividends for All](/books/with-liberty-and-dividends-for-all/) — Barnes's universal dividend from co-owned wealth
+- [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's commons trust dividend proposal
+- [With Liberty and Dividends for All](/wiki/with-liberty-and-dividends-for-all/) — Barnes's universal dividend from co-owned wealth
 - [Thomas Paine](/wiki/thomas-paine/) — Paine's *Agrarian Justice* as predecessor
 
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — used for the rent-as-common-property foundation (A-claim). [wiki summary](/wiki/progress-and-poverty/)
 2. Alaska Permanent Fund Dividend — used as the operating real-world example (A-claims; full evidence on [the outcome page](/wiki/resource-rent-dividends-work/)).
-3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the universal dividend from co-owned wealth proposal and the Paine lineage (C/A-claims). [Book page](/books/with-liberty-and-dividends-for-all/)
-4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend mechanism (C-claim). [Book page](/books/capitalism-3-0/)
+3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the universal dividend from co-owned wealth proposal and the Paine lineage (C/A-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
+4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend mechanism (C-claim). [Book page](/wiki/capitalism-3-0/)

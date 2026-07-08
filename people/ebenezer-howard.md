@@ -34,16 +34,13 @@ Howard's key philosophical commitment was that land should serve the community:
 
 > "The key to the problem how to restore the people to the land—that beautiful land of ours, with its canopy of sky, the air that blows upon it, the sun that warms it, the rain and dew that moisten it—the very embodiment of Divine love for man is indeed a Master-Key." (Howard 1902, Introduction)
 
-Howard founded Letchworth (1903) and Welwyn Garden City (1920) on these principles. His model directly influenced 20th-century planning and the community land trust movement, demonstrating Georgist land economics at the scale of whole towns. (A-claim; factual)
-
-See: [Garden Cities of To-morrow](/books/garden-cities-of-to-morrow/)
+See: [Garden Cities of To-morrow](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Unearned Increment](/wiki/unearned-increment/) · [Single-Tax Colonies](/wiki/single-tax-colonies/)
-- [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/) — Howard's only book, the fullest expression of his thought
+- [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's only book, the fullest expression of his thought
 
 ## Sources
 
-1. Ebenezer Howard (1902), *Garden Cities of To-morrow* — used for the garden-city design and its community-rent financing (A-claims). — public domain; complete text queued per EDITORIAL §3b.
-2. [Book page for *Garden Cities of To-morrow*](/books/garden-cities-of-to-morrow/) — wiki's citable reference for the book, with detailed content summary and key quotes.
+1. Ebenezer Howard (1902), *Garden Cities of To-morrow* (London: Swan Sonnenschein & Co.). [Full text (Project Gutenberg #46134)](https://www.gutenberg.org/ebooks/46134) — used for the garden-city design and its community-rent financing (A-claims); public domain. See the wiki's [book page](/wiki/garden-cities-of-to-morrow/) for the detailed summary and key quotes (navigation, not evidence).

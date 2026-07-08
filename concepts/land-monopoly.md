@@ -30,7 +30,7 @@ J. M. Neeson's *Commoners* (1993) documents how parliamentary enclosure served a
 
 Neeson documents that enclosure converted use-rights (*profit a prendre*) into exclusive private ownership, fundamentally restructuring who could benefit from land. Common pasture, estovers (fuel), turbary (turf), and pannage — all previously available to cottagers and small landholders — became the exclusive property of the enclosing landowner (Neeson 1993, Ch. 1–2). This is land monopoly in its historical formation: not a single owner holding all land, but the systematic conversion of shared access into exclusive title. (A-claim; factual)
 
-See: [Commoners (Neeson)](/books/commoners-neeson/)
+See: [Commoners (Neeson)](/wiki/commoners-neeson/)
 
 ### Banner: Colonial Land Acquisition as Monopoly Mechanism
 
@@ -42,7 +42,7 @@ Banner's key finding is that the power to define the legal rules was itself the 
 
 This illustrates the Georgist point that land monopoly is not only about holding land but about controlling the legal framework that determines who may hold it. (D-claim; interpretive)
 
-See: [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-their-land/)
+See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/)
 
 ### Daniel: Systematic Land Deprivation
 
@@ -50,7 +50,7 @@ Pete Daniel's *Dispossession* (2013) documents how USDA discrimination functione
 
 This demonstrates that land monopoly operates not only through outright seizure but through institutional control over the conditions of land access — credit, subsidies, and technical assistance — which can systematically disadvantage specific populations. (D-claim; interpretive)
 
-See: [Dispossession (Daniel)](/books/dispossession-daniel/)
+See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## See Also
 
@@ -62,14 +62,14 @@ See: [Dispossession (Daniel)](/books/dispossession-daniel/)
 - [Land Value Tax](/wiki/land-value-tax/) — the corrective
 - [Unearned Increment](/wiki/unearned-increment/) — the value captured through land monopoly
 - [Deadweight Loss](/wiki/deadweight-loss/) — the efficiency cost of monopoly
-- [Commoners (Neeson)](/books/commoners-neeson/) — enclosure as monopoly mechanism
-- [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-their-land/) — colonial land acquisition
-- [Dispossession (Daniel)](/books/dispossession-daniel/) — systematic land deprivation
+- [Commoners (Neeson)](/wiki/commoners-neeson/) — enclosure as monopoly mechanism
+- [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/) — colonial land acquisition
+- [Dispossession (Daniel)](/wiki/dispossession-daniel/) — systematic land deprivation
 
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) — used for the concept's definition and the monopoly framing (A-claims).
 2. Henry George (1883), *Social Problems* — used for George's popular restatement of the land-monopoly argument (A-claim). [wiki summary](/wiki/social-problems/)
-3. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the enclosure-as-monopoly-mechanism account (A/B-claims). [Book page](/books/commoners-neeson/)
-4. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Harvard University Press, 2005) — used for the colonial land-acquisition-as-monopoly account (A/D-claims). [Book page](/books/how-the-indians-lost-their-land/)
-5. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: UNC Press, 2013) — used for the systematic land-deprivation account (B/D-claims). [Book page](/books/dispossession-daniel/)
+3. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the enclosure-as-monopoly-mechanism account (A/B-claims). [Book page](/wiki/commoners-neeson/)
+4. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Harvard University Press, 2005) — used for the colonial land-acquisition-as-monopoly account (A/D-claims). [Book page](/wiki/how-the-indians-lost-their-land/)
+5. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: UNC Press, 2013) — used for the systematic land-deprivation account (B/D-claims). [Book page](/wiki/dispossession-daniel/)

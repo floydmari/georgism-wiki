@@ -100,6 +100,7 @@ The book does not engage with Georgist economic theory. Its relevance to the Geo
 
 ## See Also
 
+- [Pete Daniel](/wiki/pete-daniel/) — author page
 - Land Dispossession
 - [Land Tenure](/wiki/land-tenure-reform-association/)
 - Agricultural Policy

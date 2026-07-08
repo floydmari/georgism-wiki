@@ -94,6 +94,7 @@ Neeson does not offer explicit policy recommendations; the book is a work of his
 
 ## See Also
 
+- [J.M. Neeson](/wiki/jm-neeson/) — author page
 - [Land Speculation](/wiki/land-speculation/)
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Georgism](/wiki/georgism/)

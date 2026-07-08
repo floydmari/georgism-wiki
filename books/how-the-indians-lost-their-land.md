@@ -94,6 +94,7 @@ Banner's book is a work of legal history, not advocacy, but it implies:
 
 ## See Also
 
+- [Stuart Banner](/wiki/stuart-banner/) — author page
 - [Land as Commons](/wiki/land-as-commons/)
 - [Land Monopoly](/wiki/land-monopoly/)
 - [The Great Land Robbery](/wiki/the-great-land-robbery/)

@@ -1,5 +1,5 @@
 ---
-title: "R.K. Redfearn"
+title: "David Redfearn"
 category: people
 tags: [people, redfearn, tolstoy, henry-george, shepheard-walwyn, fred-harrison, christian-anarchism, land-reform]
 stub: false
@@ -8,7 +8,7 @@ excerpt: "Author of 'Tolstoy: Principles for a New World Order' (1992), publishe
 
 ## Summary
 
-R.K. Redfearn (William Redfearn) is a British author best known for *Tolstoy: Principles for a New World Order* (1992, Shepheard-Walwyn). The book was written at the prompting of [Fred Harrison](/wiki/fred-harrison/), who encouraged Redfearn to explore Tolstoy's engagement with Henry George's ideas (Redfearn 1992, p. 8). Redfearn acknowledges gratitude to Harrison, Shirley-Anne Hardy, and Professor Robert V. Andelson for suggestions (Redfearn 1992, p. 8). The book traces the intellectual connection between Tolstoy's moral philosophy and Henry George's economic analysis, arguing that Tolstoy's Georgism was foundational rather than incidental to his social thought. (A-claim; factual)
+David Redfearn is a British author best known for *Tolstoy: Principles for a New World Order* (1992, Shepheard-Walwyn). The book was written at the prompting of [Fred Harrison](/wiki/fred-harrison/), who encouraged Redfearn to explore Tolstoy's engagement with Henry George's ideas (Redfearn 1992, p. 8). Redfearn acknowledges gratitude to Harrison, Shirley-Anne Hardy, and Professor Robert V. Andelson for suggestions (Redfearn 1992, p. 8). The book traces the intellectual connection between Tolstoy's moral philosophy and Henry George's economic analysis, arguing that Tolstoy's Georgism was foundational rather than incidental to his social thought. (A-claim; factual)
 
 ## Key Ideas/Contributions
 
@@ -26,11 +26,11 @@ R.K. Redfearn (William Redfearn) is a British author best known for *Tolstoy: Pr
 
 ## Key Works
 
-- *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992) — [book page](/books/tolstoy-principles-redfearn/)
+- *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992) — [book page](/wiki/tolstoy-principles-redfearn/)
 
 ## See Also
 
-- [Tolstoy: Principles for a New World Order](/books/tolstoy-principles-redfearn/) — book page
+- [Tolstoy: Principles for a New World Order](/wiki/tolstoy-principles-redfearn/) — book page
 - [Leo Tolstoy](/wiki/leo-tolstoy/) — the subject of Redfearn's work
 - [Henry George](/wiki/henry-george/) — the intellectual influence Redfearn traces
 - [Fred Harrison](/wiki/fred-harrison/) — prompted the book's writing
@@ -39,6 +39,6 @@ R.K. Redfearn (William Redfearn) is a British author best known for *Tolstoy: Pr
 
 ## Sources
 
-1. R.K. Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — used for all claims about Tolstoy's Georgism, the state/government distinction, and Tolstoy's land reform advocacy (A/D-claims). [book page](/books/tolstoy-principles-redfearn/)
+1. David Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — used for all claims about Tolstoy's Georgism, the state/government distinction, and Tolstoy's land reform advocacy (A/D-claims). [book page](/wiki/tolstoy-principles-redfearn/)
 2. Henry George, *Progress and Poverty* (1879) — the work that influenced Tolstoy, discussed in Ch. 10 of Redfearn (A-claim).
 3. Tolstoy's letters to Tsar Nicholas II and Grand Duke Nikolay Mikhaylovich — reproduced as appendices (from R.F. Christian, ed., *Tolstoy's Letters*, 1978, Athlone Press) (A-claim).

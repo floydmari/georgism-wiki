@@ -13,7 +13,7 @@ supports_outcomes: []
 
 ## Summary
 
-*Tolstoy: Principles for a New World Order* by R.K. Redfearn was published in 1992 by Shepheard-Walwyn (Publishers) Ltd, London. The book was written at the prompting of Fred Harrison, who encouraged Redfearn to explore Tolstoy's engagement with Henry George's ideas (Redfearn 1992, p.8). Redfearn acknowledges gratitude to Harrison, Shirley-Anne Hardy, and Professor Robert V. Andelson for suggestions (Redfearn 1992, p.8).
+*Tolstoy: Principles for a New World Order* by David Redfearn was published in 1992 by Shepheard-Walwyn (Publishers) Ltd, London. The book was written at the prompting of Fred Harrison, who encouraged Redfearn to explore Tolstoy's engagement with Henry George's ideas (Redfearn 1992, p.8). Redfearn acknowledges gratitude to Harrison, Shirley-Anne Hardy, and Professor Robert V. Andelson for suggestions (Redfearn 1992, p.8).
 
 The book traces the intellectual connection between Tolstoy's moral philosophy and Henry George's economic analysis. Redfearn argues that Tolstoy's advocacy of "common before private rights to land" was a central pillar of his philosophy, and that Tolstoy's Georgism was not incidental but foundational to his social thought (Redfearn 1992, p.10). The book covers Tolstoy's critique of the State, his relationship to Henry George's economic ideas, and the relevance of both thinkers for post-Cold War "new world order" questions.
 
@@ -88,6 +88,7 @@ Redfearn addresses critics who argue Tolstoy "had not proved anarchy desirable" 
 
 ## See Also
 
+- [David Redfearn](/wiki/david-redfearn/) — author page
 - [Leo Tolstoy](/wiki/leo-tolstoy/)
 - [Henry George](/wiki/henry-george/)
 - [Single Tax](/wiki/single-tax/)
@@ -97,6 +98,6 @@ Redfearn addresses critics who argue Tolstoy "had not proved anarchy desirable" 
 
 ## Sources
 
-1. R.K. Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — primary source for all claims
+1. David Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — primary source for all claims
 2. Henry George, *Progress and Poverty* (1879) — the work that influenced Tolstoy, discussed extensively in Ch. 10.
 3. Tolstoy's letters to Tsar Nicholas II and Grand Duke Nikolay Mikhaylovich — reproduced as appendices (from R.F. Christian, ed., *Tolstoy's Letters*, 1978, Athlone Press).

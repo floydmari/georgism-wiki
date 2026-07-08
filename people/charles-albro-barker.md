@@ -4,12 +4,13 @@ category: people
 tags: [people, barker, historian, johns-hopkins, henry-george-biography, california, jeffersonian-democracy]
 stub: false
 born: 1904
+died: 1993
 excerpt: "Professor at Johns Hopkins University and author of the definitive 1955 biography 'Henry George' (Oxford University Press). Barker framed George as a Jeffersonian-Jacksonian democrat whose land reform ideas grew from the American West Coast experience."
 ---
 
 ## Summary
 
-Charles Albro Barker (1904–) was an American historian and professor at Johns Hopkins University. He is best known as the author of *Henry George* (1955, Oxford University Press; reprinted by Greenwood Press, 1974), the definitive scholarly biography of Henry George. Barker's biography draws on the Henry George Collection at the New York Public Library, the Huntington Library, the Bancroft Library, and the Library of Congress (Barker 1955, pp. 15–16). He approached the project, by his own account, "without the slightest hostage in the Henry George camp," having been raised Republican, voted for Norman Thomas, and supported the New Deal (Barker 1955, p. 11). (A-claim; factual)
+Charles Albro Barker (1904–1993) was an American historian and professor at Johns Hopkins University. He is best known as the author of *Henry George* (1955, Oxford University Press; reprinted by Greenwood Press, 1974), the definitive scholarly biography of Henry George. Barker's biography draws on the Henry George Collection at the New York Public Library, the Huntington Library, the Bancroft Library, and the Library of Congress (Barker 1955, pp. 15–16). He approached the project, by his own account, "without the slightest hostage in the Henry George camp," having been raised Republican, voted for Norman Thomas, and supported the New Deal (Barker 1955, p. 11). (A-claim; factual)
 
 ## Key Ideas/Contributions
 
@@ -25,19 +26,19 @@ Charles Albro Barker (1904–) was an American historian and professor at Johns 
 
 ## Key Works
 
-- *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974) — [book page](/books/barker-henry-george-biography/)
-- *The African Background of American Culture* (1948)
+- *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974) — [book page](/wiki/barker-henry-george-biography/)
+- *The Background of the Revolution in Maryland* (1940)
 
 ## See Also
 
 - [Henry George](/wiki/henry-george/) — the subject of Barker's biography
-- [Barker's Henry George Biography](/books/barker-henry-george-biography/) — book page
+- [Barker's Henry George Biography](/wiki/barker-henry-george-biography/) — book page
 - [Single Tax](/wiki/single-tax/) — the movement Barker's biography traces
 - [Georgism](/wiki/georgism/) — the broader tradition
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the work whose creation Barker traces
 
 ## Sources
 
-1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text for all biographical and interpretive claims (A/D-claims). [book page](/books/barker-henry-george-biography/)
+1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text for all biographical and interpretive claims (A/D-claims). [book page](/wiki/barker-henry-george-biography/)
 2. Henry George Collection, New York Public Library — manuscript source donated by Anna George de Mille (Barker 1955, p. 16) (A-claim).
 3. Philip Wicksteed, letter to Henry George, 1882 — quoted by Barker p. 11 (A-claim).

@@ -26,12 +26,12 @@ Eric F. Goldman (1915–1989) was an American historian, professor at Princeton 
 
 ## Key Works
 
-- *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956) — [book page](/books/rendezvous-with-destiny/)
+- *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956) — [book page](/wiki/rendezvous-with-destiny/)
 - *The Crucial Decade: America, 1945–1955* (1956)
 
 ## See Also
 
-- [Rendezvous with Destiny](/books/rendezvous-with-destiny/) — book page
+- [Rendezvous with Destiny](/wiki/rendezvous-with-destiny/) — book page
 - [Henry George](/wiki/henry-george/) — the figure Goldman documents
 - [The Corruption of Economics](/wiki/the-corruption-of-economics/) — Goldman's "steel chain of ideas" relates to the corruption narrative
 - [Single Tax Narrative](/wiki/single-tax-narrative/) — the movement history Goldman documents
@@ -39,6 +39,6 @@ Eric F. Goldman (1915–1989) was an American historian, professor at Princeton 
 
 ## Sources
 
-1. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956). — used for all historical claims about George, the single-tax movement, and the "steel chain of ideas" (A/D-claims). [book page](/books/rendezvous-with-destiny/)
+1. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956). — used for all historical claims about George, the single-tax movement, and the "steel chain of ideas" (A/D-claims). [book page](/wiki/rendezvous-with-destiny/)
 2. Henry George, *Progress and Poverty* (1879) — the work Goldman describes George writing during the depression of 1873 (A-claim).
 3. *Journal of the Knights of Labor* (1887) — quoted by Goldman, p. 47, testifying to George's influence (A-claim).

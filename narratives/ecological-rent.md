@@ -38,7 +38,7 @@ rent of the earth becomes every citizen's property income
   auction permits, pay every citizen an equal dividend, on the model of the
   [Alaska Permanent Fund](/wiki/alaska-permanent-fund/).[1]
 - **Herman Daly** provides the ecological-economic framework underpinning the
-  narrative in [*Ecological Economics and the Ecology of Economics*](/books/ecological-economics-daly/)
+  narrative in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/)
   (1999). Daly's concept of "uneconomic growth" — growth that costs more in
   sacrificed ecosystem services than it contributes in production value
   (Daly 1999, Ch. 2) — supplies the theoretical warrant for treating pollution
@@ -179,7 +179,7 @@ says so:
 - [Resource Rents](/wiki/resource-rents/) · [Resource-rent dividends work](/wiki/resource-rent-dividends-work/)
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/) — the sibling ownership story
 - [Georgism](/wiki/georgism/) — the wider philosophy
-- [Ecological Economics (Daly)](/books/ecological-economics-daly/) — Daly's framework connecting rent and ecology
+- [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — Daly's framework connecting rent and ecology
 
 ## Sources
 
@@ -220,4 +220,4 @@ says so:
 8. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward
    Elgar, 1999) — used for the "uneconomic growth" concept and throughput
    framework that underpin the ecological-rent narrative (C/D-claims).
-   [Book page](/books/ecological-economics-daly/)
+   [Book page](/wiki/ecological-economics-daly/)

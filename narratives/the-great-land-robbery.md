@@ -163,7 +163,7 @@ Dr. Richard Price, quoted by Neeson, captured the class dimension:
 
 > "Modern policy is, indeed, more favourable to the higher classes of people, and the consequences may in time prove that the whole kingdom will consist of only gentry and beggars, or grandees and slaves." (Dr. Richard Price, *Observations on Reversionary Payments*, quoted in Neeson 1993, Ch. 1)
 
-See: [Commoners (Neeson)](/books/commoners-neeson/)
+See: [Commoners (Neeson)](/wiki/commoners-neeson/)
 
 ### Banner: Native American Land Transfer as Legal Dispossession
 
@@ -175,7 +175,7 @@ The progressive dispossession mechanisms Banner traces — removal (1830 Indian 
 
 > "Every land transfer of any form included elements of law and elements of power… The more powerful whites became relative to Indians, the more they were able to mold the legal system to produce outcomes in their favor." (Banner 2005, Introduction)
 
-See: [How the Indians Lost Their Land (Banner)](/books/how-the-indians-lost-their-land/)
+See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/)
 
 ### Daniel: Twentieth-Century USDA Discrimination as Ongoing Dispossession
 
@@ -185,7 +185,7 @@ The 1965 Commission on Civil Rights report revealed that "blacks had no input in
 
 This twentieth-century record answers the objection that the dispossession narrative is "grievance archaeology" — the largest documented takings include some within living memory. (D-claim; interpretive)
 
-See: [Dispossession (Daniel)](/books/dispossession-daniel/)
+See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## How to Deploy It
 
@@ -219,7 +219,7 @@ See: [Dispossession (Daniel)](/books/dispossession-daniel/)
 - [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) — the strongest reply
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the present-tense sibling
 - [Georgism](/wiki/georgism/) — the wider philosophy
-- [Commoners (Neeson)](/books/commoners-neeson/) — English enclosure as social transformation
+- [Commoners (Neeson)](/wiki/commoners-neeson/) — English enclosure as social transformation
 
 ## Sources
 
@@ -263,4 +263,4 @@ See: [Dispossession (Daniel)](/books/dispossession-daniel/)
 9. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England,
    1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the Land Tax
    analysis of small landholder disappearance and enclosure's social transformation
-   (A/B-claims). [Book page](/books/commoners-neeson/)
+   (A/B-claims). [Book page](/wiki/commoners-neeson/)

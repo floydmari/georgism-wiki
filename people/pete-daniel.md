@@ -16,7 +16,7 @@ Pete Daniel is an American historian and former curator at the Smithsonian Insti
 
 - **The county committee system as a mechanism of dispossession.** Daniel documents how USDA county committees, dominated by white landowners, controlled access to federal farm programs, loans, and acreage allotments. This system effectively excluded African American farmers from the capital and program benefits that sustained American agriculture through the mid-20th century. (B-claim; empirical)
 
-- **The decline of black-owned farms.** Daniel traces the catastrophic loss of African American farmland: from nearly 1 million black-owned farms in 1920 to fewer than 87,000 by the time of Nixon's presidency, and to a tiny fraction by the 1990s. He argues this was not an inevitable market outcome but the product of systematic institutional discrimination. (B-claim; empirical)
+- **The decline of black-owned farms.** Daniel traces the catastrophic loss of African American farmland: from 925,000 black farms in 1920 to 45,594 black farmers by 1974 — a 93 percent decline from the 1940 figure of 681,790 (Daniel 2013, pp. 1, 27–28). He argues this was not an inevitable market outcome but the product of systematic institutional discrimination. (B-claim; empirical)
 
 - **Pigford v. Glickman.** Daniel documents the 1999 class-action lawsuit (Pigford v. Glickman) that found USDA had discriminated against African American farmers, and the subsequent political struggle to fund the settlement. The case represented the legal vindication of decades of dispossession. (A-claim; factual)
 
@@ -24,19 +24,19 @@ Pete Daniel is an American historian and former curator at the Smithsonian Insti
 
 ## Key Works
 
-- *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (2013) — [book page](/books/dispossession-daniel/)
+- *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (2013) — [book page](/wiki/dispossession-daniel/)
 - *Breaking the Land: The Transformation of Cotton, Tobacco, and Rice Cultures since 1880* (1985)
 - *Lost Revolutions: The South in the 1950s* (2000)
 
 ## See Also
 
-- [Dispossession](/books/dispossession-daniel/) — book page
+- [Dispossession](/wiki/dispossession-daniel/) — book page
 - [Georgism](/wiki/georgism/) — the tradition connecting land access to justice
 - [Henry George](/wiki/henry-george/) — George's analysis of land access and poverty
 - [Land Value Tax](/wiki/land-value-tax/) — the policy that addresses land concentration
 
 ## Sources
 
-1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). — used for the county committee system, passive nullification, the decline of black farms, and Pigford v. Glickman (A/B/D-claims). [book page](/books/dispossession-daniel/)
+1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). — used for the county committee system, passive nullification, the decline of black farms, and Pigford v. Glickman (A/B/D-claims). [book page](/wiki/dispossession-daniel/)
 2. U.S. Commission on Civil Rights, *Equal Opportunity in Farm Programs* (1965) — primary source document Daniel analyzes (A-claim).
 3. Pigford v. Glickman, 1999 class-action decision — legal source for the discrimination finding (A-claim).

@@ -3,12 +3,12 @@ title: "J.M. Neeson"
 category: people
 tags: [people, neeson, historian, enclosure, common-rights, northamptonshire, york-university]
 stub: false
-excerpt: "Historian and author of 'Commoners' (1993) on English enclosure and common rights 1700–1820. Associate Professor at York University, Toronto. Her work documents the lived experience of those who lost common rights through parliamentary enclosure."
+excerpt: "Historian and author of 'Commoners' (1993) on English enclosure and common rights 1700–1820. Professor Emerita at York University, Toronto. Her work documents the lived experience of those who lost common rights through parliamentary enclosure."
 ---
 
 ## Summary
 
-J.M. Neeson is a historian and Associate Professor at York University, Toronto. She is the author of *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (1993, Cambridge University Press, Past and Present Publications), a detailed study of English enclosure and its impact on common people in Northamptonshire. Neeson began this research at the Centre for the Study of Social History at the University of Warwick under the supervision of E.P. Thompson. (A-claim; factual)
+J.M. (Jeanette M.) Neeson is a historian of eighteenth-century England, now Professor Emerita at York University, Toronto. She is the author of *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (1993, Cambridge University Press, Past and Present Publications), a detailed study of English enclosure and its impact on common people in Northamptonshire. Neeson began this research at the Centre for the Study of Social History at the University of Warwick under the supervision of E.P. Thompson. (A-claim; factual)
 
 ## Key Ideas/Contributions
 
@@ -24,17 +24,17 @@ J.M. Neeson is a historian and Associate Professor at York University, Toronto. 
 
 ## Key Works
 
-- *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — [book page](/books/commoners-neeson/)
+- *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — [book page](/wiki/commoners-neeson/)
 
 ## See Also
 
-- [Commoners](/books/commoners-neeson/) — book page
+- [Commoners](/wiki/commoners-neeson/) — book page
 - [Henry George](/wiki/henry-george/) — George's analysis of land privatization
 - [Georgism](/wiki/georgism/) — the tradition connecting land access to justice
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response to land concentration
 
 ## Sources
 
-1. J.M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993, Past and Present Publications). — used for common rights as lived practice, the social cost of enclosure, and the Northamptonshire case study (A/B/D-claims). [book page](/books/commoners-neeson/)
+1. J.M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993, Past and Present Publications). — used for common rights as lived practice, the social cost of enclosure, and the Northamptonshire case study (A/B/D-claims). [book page](/wiki/commoners-neeson/)
 2. E.P. Thompson, *Customs in Common* (London: Penguin, 1991) — related work by Neeson's doctoral supervisor (D-claim).
 3. Donald N. McCloskey, "The Enclosure of Open Fields" (1972) — counter-argument on enclosure productivity that Neeson engages with (B-claim).

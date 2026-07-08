@@ -62,7 +62,7 @@ Adams reproduces Fred Harrison's 18-year land cycle table (1818–2008) and cite
 
 > "Whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality." — Martin Adams, Ch. 4
 
-See: [Land: A New Paradigm (Adams)](/books/land-a-new-paradigm/)
+See: [Land: A New Paradigm (Adams)](/wiki/land-a-new-paradigm/)
 
 ## See Also
 
@@ -79,6 +79,6 @@ See: [Land: A New Paradigm (Adams)](/books/land-a-new-paradigm/)
 3. Homer Hoyt (1933), *One Hundred Years of Land Values in Chicago* — used for the founding empirical documentation of recurring land-value boom-bust cycles.
 4. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for the revived 18-year cycle framework and its speculative mechanism.
 5. Case & Shiller (2003), homebuyer survey evidence on speculative price expectations — as referenced in the [outcome page](/wiki/lvt-dampens-land-speculation/) and [Case-Shiller research page](/wiki/case-shiller-2003-bubble/). [CITATION NEEDED: direct source URL and full citation for Case & Shiller 2003 Brookings paper]
-6. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the entry-monopoly framing and the 18-year cycle evidence (B/C/D-claims). [Book page](/books/land-a-new-paradigm/)
+6. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the entry-monopoly framing and the 18-year cycle evidence (B/C/D-claims). [Book page](/wiki/land-a-new-paradigm/)
 
 [CITATION NEEDED: page-level citations from Glaeser (2013) full text for the "simple heuristic models" quote and specific historical episodes; page-level citations from Hoyt (1933) for the boom-bust rhythm claim; direct URL for Case & Shiller (2003) Brookings paper.]

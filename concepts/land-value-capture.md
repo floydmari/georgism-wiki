@@ -34,7 +34,7 @@ Howard's mechanism captures the same value that LVC instruments target — the [
 
 This is functionally equivalent to a full land value tax: the community captures 100% of the land rent and applies it to public purposes. The difference is institutional — a trust rather than a tax authority — but the economic substance is the same. Howard's model thus demonstrates that LVC need not be limited to partial betterment levies or special assessments; it can, in principle, capture the full land rent stream. (C-claim; theoretical)
 
-See: [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/)
+See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
@@ -43,10 +43,10 @@ See: [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/)
 - [Unearned Increment](/wiki/unearned-increment/) · [Taiwan](/wiki/taiwan/) · [Singapore](/wiki/singapore/)
 - [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — the empirical basis LVC mechanisms recover
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/) — the persuasive story built on this policy family
-- [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/) — Howard's rate-rent as LVC application
+- [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's rate-rent as LVC application
 
 ## Sources
 
 1. Lincoln Institute studies of land value capture (Taiwan, Hong Kong case studies) — used for the instrument taxonomy and the operating examples (A/B-claims). [Taiwan PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf)
 2. Dye & England (2010) — used for the relationship between value capture and land value taxation (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
-3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II — used for the rate-rent mechanism as LVC (A/C-claims). [Book page](/books/garden-cities-of-to-morrow/)
+3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II — used for the rate-rent mechanism as LVC (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)

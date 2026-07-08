@@ -72,7 +72,7 @@ Sovereign wealth funds demonstrate several principles central to Georgist resour
 
 ### Barnes: Commons Trusts as Sovereign Wealth Mechanism
 
-Peter Barnes's commons trust model in [*Capitalism 3.0*](/books/capitalism-3-0/) (2006) functions as a form of sovereign wealth mechanism for common assets beyond mineral resources. Barnes proposes that commons trusts — "market-based legal entities with the power to limit use of scarce commons, charge rent, and pay dividends" (Barnes 2006, p. 2) — would manage assets such as the atmosphere, electromagnetic spectrum, and water on behalf of present and future generations. The trust model parallels sovereign wealth funds in its capitalization (from common-asset rents), investment logic, and distribution mechanism (per-capita dividends), but extends the concept from depleting mineral rents to renewable common-asset rents. (C-claim; theoretical)
+Peter Barnes's commons trust model in [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006) functions as a form of sovereign wealth mechanism for common assets beyond mineral resources. Barnes proposes that commons trusts — "market-based legal entities with the power to limit use of scarce commons, charge rent, and pay dividends" (Barnes 2006, p. 2) — would manage assets such as the atmosphere, electromagnetic spectrum, and water on behalf of present and future generations. The trust model parallels sovereign wealth funds in its capitalization (from common-asset rents), investment logic, and distribution mechanism (per-capita dividends), but extends the concept from depleting mineral rents to renewable common-asset rents. (C-claim; theoretical)
 
 Barnes explicitly references the Alaska Permanent Fund as a model for his commons trust design, arguing that "birthrights to common wealth" should be created as an extension of the Alaska dividend approach (Barnes 2006, Ch. 5–9). The Alaska model demonstrates that a sovereign wealth fund capitalized from resource rents and distributing per-capita dividends is politically durable and administratively workable; Barnes proposes replicating this mechanism for non-mineral common assets. (D-claim; interpretive)
 
@@ -87,7 +87,7 @@ The commons trust framework also addresses a gap in the sovereign wealth fund mo
 - [Common Wealth Canada](/wiki/common-wealth-canada/)
 - [Hartwick Rule](/wiki/hartwick-rule/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
-- [Capitalism 3.0](/books/capitalism-3-0/) — Barnes's commons trusts as sovereign wealth mechanism
+- [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's commons trusts as sovereign wealth mechanism
 
 ## Sources
 
@@ -99,7 +99,7 @@ The commons trust framework also addresses a gap in the sovereign wealth fund mo
 
 4. Common Wealth Canada, "Natural Common Wealth and Economic Rent in Canada" (2023). [commonwealth.ca/report](https://www.commonwealth.ca/report) — used for reference to sovereign wealth fund mechanisms in the context of Canadian resource-rent capture.
 
-5. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust as sovereign wealth mechanism for renewable common assets (C/D-claims). [Book page](/books/capitalism-3-0/)
+5. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust as sovereign wealth mechanism for renewable common assets (C/D-claims). [Book page](/wiki/capitalism-3-0/)
 
 6. Wiki corpus: [Alaska](/wiki/alaska/) place page — used for the Alaska dividend model's structure, distributional effects, oil-rent-vs.-land-rent distinction, and post-2016 political challenges.
 

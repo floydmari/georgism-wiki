@@ -23,7 +23,7 @@ Ecological Georgism reframes climate and environmental policy as a rent problem,
 
 ### Daly: Steady-State Economics and Throughput Limits
 
-Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/books/ecological-economics-daly/) (1999) provides the ecological-economic foundation for ecological Georgism. Daly argues that the economy is "a subsystem of a larger ecosystem that is finite, non-growing, and materially closed, while open to a flow-through (throughput) of solar energy that is also finite and non-growing" (Daly 1999, p. 14). This framing directly supports the Georgist extension of rent-capture to natural resources: if the economy is bounded by a finite ecosystem, then resource extraction and pollution are uses of a commons whose capacity is limited, and charging rent for that use is the Georgist response. (C-claim; theoretical)
+Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/) (1999) provides the ecological-economic foundation for ecological Georgism. Daly argues that the economy is "a subsystem of a larger ecosystem that is finite, non-growing, and materially closed, while open to a flow-through (throughput) of solar energy that is also finite and non-growing" (Daly 1999, p. 14). This framing directly supports the Georgist extension of rent-capture to natural resources: if the economy is bounded by a finite ecosystem, then resource extraction and pollution are uses of a commons whose capacity is limited, and charging rent for that use is the Georgist response. (C-claim; theoretical)
 
 Daly's concept of "uneconomic growth" — growth that costs more in sacrificed ecosystem services than it contributes in production value (Daly 1999, Ch. 2) — provides the analytical bridge between ecological economics and Georgist rent theory. If growth becomes uneconomic because ecosystem services are sacrificed without compensation, then the failure to charge for resource use (the Georgist "commons" problem) is a root cause. Ecological Georgism applies the rent-capture principle to this problem: carbon taxes, severance taxes, and pollution fees charge for the use of finite ecological capacity, internalizing the costs that make growth uneconomic. (D-claim; interpretive)
 
@@ -45,10 +45,10 @@ Daly's critique of the standard neoclassical paradigm — which treats nature as
 - [Alanna Hartzok](/wiki/alanna-hartzok/) — leading advocate connecting land rent to environmental justice
 - [Narrative: Green Georgism — Charging for the Earth](/wiki/ecological-rent/) — the persuasive deployment of this concept
 - [Who Owns the Sky? (Barnes)](/wiki/barnes-sky-trust/) — the flagship policy design (Sky Trust / cap-and-dividend)
-- [Ecological Economics (Daly)](/books/ecological-economics-daly/) — steady-state economics and throughput limits
+- [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — steady-state economics and throughput limits
 
 ## Sources
 
 1. Alanna Hartzok (2008), *The Earth Belongs to Everyone* — used for the earth-rights framing of ecological Georgism (C-claims; advocacy source). [wiki summary](/wiki/alanna-hartzok/)
 2. IMF (2012), "Issues in Extractive Resource Taxation" — used for the mainstream fiscal treatment of resource rents (A/B-claims). [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)
-3. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the steady-state economics framework, throughput limits, and the connection between ecological constraints and rent theory (C/D-claims). [Book page](/books/ecological-economics-daly/)
+3. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the steady-state economics framework, throughput limits, and the connection between ecological constraints and rent theory (C/D-claims). [Book page](/wiki/ecological-economics-daly/)

@@ -28,14 +28,14 @@ This is precisely the CLT structure — a nonprofit holds land and leases it lon
 
 Howard emphasized that no single element was novel — communal land ownership, planned towns, and municipal enterprise all had precedents — but their combination into a coherent scheme was unique (Howard 1902, Ch. XI). The first implementation, Letchworth (founded 1903), demonstrated the model in practice, though the rate-rent mechanism was never fully operationalized as Howard described. (A-claim; factual)
 
-See: [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/)
+See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Ebenezer Howard](/wiki/ebenezer-howard/) · [Single-Tax Colonies](/wiki/single-tax-colonies/)
-- [Garden Cities of To-morrow (Howard)](/books/garden-cities-of-to-morrow/) — Howard's communal land ownership as CLT precursor
+- [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's communal land ownership as CLT precursor
 
 ## Sources
 
 1. Histories of the community land trust movement, tracing roots to Fairhope and the garden-city tradition — used for the lineage claim (A/C-claims; see [Fairhope](/wiki/fairhope-single-tax-corporation/) and [Ebenezer Howard](/wiki/ebenezer-howard/) for the primary threads).
-2. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II, XI — used for the communal land ownership model as CLT precursor (A/C-claims). [Book page](/books/garden-cities-of-to-morrow/)
+2. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II, XI — used for the communal land ownership model as CLT precursor (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)

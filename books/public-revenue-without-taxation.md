@@ -86,6 +86,7 @@ Burgess restates the classical distinction between land (non-human factors in th
 
 ## See Also
 
+- [Ronald Burgess](/wiki/ronald-burgess/) — author page
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Georgism](/wiki/georgism/)
 - [Henry George](/wiki/henry-george/)

@@ -90,6 +90,7 @@ The volume's section on international trade argues that free trade principles ar
 
 ## See Also
 
+- [Richard Noyes](/wiki/richard-noyes/) — editor's author page
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Single Tax](/wiki/single-tax/)
 - [Fred Harrison](/wiki/fred-harrison/)

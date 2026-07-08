@@ -47,7 +47,7 @@ Reviewers do not report the 2018 book itself making a specific land-value-tax pr
 
 ### Daly: GDP as Throughput Measure
 
-Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/books/ecological-economics-daly/) (1999) provides a complementary critique of the production boundary from the ecological-economics perspective. Daly argues that standard neoclassical economics treats the economy as "the total system" in which nature is merely "a sector of the economy," rather than as "an envelope containing, provisioning and sustaining the economy" (Daly 1999, Ch. 3). This paradigmatic error means GDP measures throughput — the flow of matter-energy from nature, through the economy, and back to nature — without distinguishing sustainable from unsustainable throughput, or productive from destructive activity. (C-claim; theoretical)
+Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/) (1999) provides a complementary critique of the production boundary from the ecological-economics perspective. Daly argues that standard neoclassical economics treats the economy as "the total system" in which nature is merely "a sector of the economy," rather than as "an envelope containing, provisioning and sustaining the economy" (Daly 1999, Ch. 3). This paradigmatic error means GDP measures throughput — the flow of matter-energy from nature, through the economy, and back to nature — without distinguishing sustainable from unsustainable throughput, or productive from destructive activity. (C-claim; theoretical)
 
 Daly's concept of "uneconomic growth" directly challenges the production-boundary assumption that all counted output is value-creating. He argues that "there are costs of depletion, pollution, disruption of ecological life-support services, sacrifice of leisure time, disutility of some kinds of labour, destruction of community in the interests of capital mobility, takeover of habitat of other species, and running down a critical part of the inheritance of future generations. We not only fail to measure these costs, but frequently we implicitly count them as benefits" (Daly 1999, Ch. 1). This parallels Mazzucato's argument that the production boundary records rent as output, but from an ecological rather than a value-theory perspective: both identify systematic mismeasurement, but Daly's concern is that GDP counts the depletion of natural capital as income rather than capital consumption. (D-claim; interpretive)
 
@@ -75,7 +75,7 @@ The production-boundary concept is not uncontested:
 - [Ground Rent](/wiki/ground-rent/)
 - [Law of Rent](/wiki/law-of-rent/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
-- [Ecological Economics (Daly)](/books/ecological-economics-daly/) — Daly on GDP as throughput measure
+- [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — Daly on GDP as throughput measure
 
 ## Sources
 
@@ -91,4 +91,4 @@ The production-boundary concept is not uncontested:
 10. Pierre Lemieux, "Mazzucato Missing on the Margins" (Parts 1–2), Econlib, January 2019. [Part 1](https://www.econlib.org/mazzucato-missing-on-the-margins/) · [Part 2](https://www.econlib.org/mazzucato-missing-on-the-margins-part-2/) — used for the marginalist/subjective-value defense against Mazzucato's production-boundary argument.
 11. Institute of Economic Affairs / CapX, "'The Value of Everything' adds up to nothing," 2018. [iea.org.uk](https://iea.org.uk/the-value-of-everything-adds-up-to-nothing/) · [capx.co](https://capx.co/the-value-of-everything-adds-up-to-nothing/) — used for the free-market critique of Mazzucato's characterization of marginalism; author byline unconfirmed, see [VERIFY] note above.
 12. Diane Coyle, "Private and public value," *The Enlightened Economist* blog, 2018. [enlightenmenteconomics.com](http://www.enlightenmenteconomics.com/blog/index.php/2018/05/private-and-public-value/) — used for the sympathetic, measurement-expert response underscoring that production-boundary conventions are inherently contestable.
-13. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the critique of GDP as throughput measure and the concept of uneconomic growth (C/D-claims). [Book page](/books/ecological-economics-daly/)
+13. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the critique of GDP as throughput measure and the concept of uneconomic growth (C/D-claims). [Book page](/wiki/ecological-economics-daly/)
