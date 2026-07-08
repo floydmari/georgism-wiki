@@ -28,15 +28,15 @@ E "objection/advocacy," not B "empirical").
 
 The wiki already cites one passage from this book — the "landlord sits still" quotation from
 Churchill's speech at the King's Theatre, Edinburgh, 17 July 1909 — on
-[Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/).[1] That citation
-independently establishes that the Edinburgh speech is reprinted in *The People's Rights*; this
-page uses that same speech, and other 1909 Churchill speeches on land value duties reproduced
-by multiple secondary compilations, as its primary quotation source, corroborated across
-several independent transcriptions (see Sources). Because this session's web access could not
-reach archive.org directly (egress policy blocks the domain; see Limits), quotations here are
-verified against **agreement across multiple independent secondary sources** rather than a
-single directly-fetched copy of the book, and are flagged `[VERIFY]` where wording could not be
-cross-checked against a facsimile or the Hansard record.
+[Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/).[1] That speech is the
+principal source for the quotations below, and a **full transcription of it has now been read
+directly** (cooperative-individualism.org, "The Mother of all Monopolies," headed "From a Speech
+Delivered at King's Theatre in Edinburgh on 17 July 1909"): every land-argument and framing
+quotation attributed to the Edinburgh speech on this page has been **checked verbatim against
+that transcription** (2026-07-07) and the source notes updated accordingly. Two items remain
+unconfirmed against a primary and are still flagged: the *internal chapter structure of the
+book* (below) and Churchill's *later reversal* on land taxation (see Limits), which is a
+separate, post-1910 source.
 
 ## The Land Argument
 
@@ -48,39 +48,37 @@ D-claim — this is Churchill's argument, not a demonstrated economic finding):
 - **Land monopoly as the "mother" of monopoly.** In the Edinburgh speech he argued: "Land
   monopoly is not the only monopoly, but it is by far the greatest of monopolies — it is a
   perpetual monopoly, and it is the mother of all other forms of monopoly."[2] The claim that
-  land monopoly generates other monopolies is asserted, not argued from evidence, in the
-  surrounding text as reproduced by secondary sources; no supporting mechanism beyond rhetorical
-  assertion could be verified this session. `[VERIFY: exact surrounding argument and date —
-  sources agree on 17 July 1909, Edinburgh, but some quote compilations attach a similar line to
-  a separate House of Commons speech, 4 May 1909; this session could not confirm which speech(es)
-  the book itself reprints.]`
+  land monopoly generates other monopolies is asserted, not argued from evidence: in the
+  surrounding text Churchill offers rhetorical amplification, not a supporting mechanism.
+  (Verified verbatim against the Edinburgh 17 July 1909 speech transcription;[2] the near-identical
+  passage in his House of Commons speech of 4 May 1909 is a separate delivery of the same
+  campaign material.)
 - **The unearned-increment mechanism.** Churchill's fullest statement of the mechanism: "Roads
   are made, streets are made, services are improved, electric light turns night into day, water
   is brought from reservoirs a hundred miles off in the mountains — and all the while the
   landlord sits still."[2] The sentence continues (paraphrased rather than quoted directly, to
   stay within the per-quotation word limit): none of those improvements is contributed by the
   land monopolist as such, yet every one of them raises the value of his land. He drew the
-  inference explicitly: "The unearned increment on the land is reaped by the land monopolist in
-  exact proportion, not to the service, but to the disservice done."[3] This is the
+  inference explicitly: "the unearned increment in land is reaped by the land monopolist in
+  exact proportion, not to the service, but to the disservice done."[2] This is the
   same historical passage already cited on the [unearned increment
   narrative](/wiki/unearned-increment-narrative/) page; it is repeated here because it is the
   book's central argument, not a peripheral remark.
 - **The "toll" and "fine" framing.** Churchill also argued that a land monopolist "is able to
   levy his toll upon all other forms of wealth and upon every form of industry," and that anyone
   wanting to put land to better use must first pay "a preliminary fine in land values to the man
-  who is putting it to an inferior use."[3] `[VERIFY: this passage is reported in secondary
-  compilations as part of Churchill's 1909 land-value-duties advocacy; this session could not
-  confirm with certainty it appears inside *The People's Rights* itself rather than only in the
-  Hansard record of a related Commons speech — see Limits.]`
+  who is putting it to an inferior use, and in some cases to no use at all."[2] (Both phrases
+  verified verbatim in the Edinburgh 17 July 1909 speech transcription.[2])
 - **The Thames toll-bridge story.** In the same 1909 advocacy Churchill told of a toll bar on a
-  Thames bridge whose penny toll on south-bank workers was abolished at public expense — "but
-  within a very short time rents on the south side of the river were found to have risen about
-  sixpence a week, or the amount of the toll which had been remitted."[10] The anecdote is the
-  capitalization mechanism ([ATCOR](/wiki/atcor/)-family) in miniature: remove a cost borne by a
-  location's users, and the saving is absorbed into that location's rent. `[VERIFY: primary
-  locator — the story circulates in Georgist compilations and is quoted in Anderson's citdiv
-  eBook as from a 1909 Commons speech; pin against Hansard or The People's Rights before
-  treating venue/date as settled.]`
+  Thames bridge whose penny toll on south-bank workers was abolished at public expense: "at the
+  cost of the ratepayers the bridge was freed and the toll removed. All those people who used the
+  bridge were saved 6d. a week… Within a very short period from that time the rents on the south
+  side of the river were found to have advanced by about 6d. a week, or the amount of the toll
+  which had been remitted."[2] The anecdote is the capitalization mechanism
+  ([ATCOR](/wiki/atcor/)-family) in miniature: remove a cost borne by a location's users, and the
+  saving is absorbed into that location's rent. (The story is in the Edinburgh 17 July 1909
+  speech itself, verified verbatim;[2] it is not exclusive to a Commons speech or to Anderson's
+  later compilation.)
 
 ## How Churchill Framed It
 
@@ -90,37 +88,32 @@ electorate rather than an expert audience (D-claims about rhetorical strategy, n
 1. **Land is categorically different from other property.** Churchill argued: "Land, which is a
    necessity of human existence, which is the original source of all wealth, … which is strictly
    limited in extent, which is fixed in geographical position — land, I say, differs from all
-   other forms of property in these primary and fundamental conditions."[4] This distinction —
+   other forms of property in these primary and fundamental conditions."[2] This distinction —
    fixed supply, fixed location, necessity — is the same fixed-supply property that underlies the
    modern [deadweight loss](/wiki/deadweight-loss/) case for land taxation, but Churchill's
    version is asserted as self-evident rather than derived from a model; it is rhetoric aimed at
-   persuading, not a formal argument. `[VERIFY: exact wording and full sentence — corroborated by
-   two independent secondary transcriptions that agree closely but not word-for-word; treat the
-   quotation above as reliable in substance, possibly imprecise in punctuation.]`
-2. **Attack the system, not the individual landlord; deny the "robbery" charge.** Anticipating the
-   objection that land value duties amounted to confiscation, Churchill is reported as summarizing
-   his opponents' framing sarcastically — "that is robbery, that is plunder, that is communism and
-   spoliation, … that is the overturn of civilized society" — before rejecting it: "We do not want
-   to punish the landlord. We want to alter the law," and, elsewhere, "It is not the individual I
-   attack; it is the system. It is not the man who is bad; it is the law which is bad."[5] This is
-   a deliberate rhetorical strategy — moving the argument from personal blame (which invites
-   sympathy for individual landowners) to institutional reform (which does not) — and is a
-   template still used in Georgist advocacy today. `[VERIFY: the juxtaposition of the two
-   passages — the sarcastic summary of the "robbery" charge and the "alter the law" reply — is
-   drawn from a secondary compilation's presentation of the Edinburgh speech; this session could
-   not confirm they appear in that order, or in the same speech, from a primary transcript.]`
-3. **The "poor widow" objection.** Secondary sources report Churchill dismissing the use of small,
-   sympathetic owners — a "poor widow" figure — as a reason not to tax land value, on the grounds
-   that an idle owner "has only to sit still and watch complacently his property multiplying in
-   value … without either effort or contribution on his part."[6] This is Churchill's answer to
-   the small-owner objection: the *typical* case the duties targeted was the passive holder of
-   valuable land, not the smallholder or cottager, and the actual 1909 land value duties included
-   exemptions for small and agricultural holdings.[7] `[CITATION NEEDED: a directly verified
-   quotation, with page/speech reference, of Churchill's own words specifically defending small
-   owners or allotment-holders from the "robbery" charge within *The People's Rights* text
-   itself — this session found the "poor widow" characterization only via a search-engine summary
-   of a secondary source, not a quoted primary passage, so it should be treated as a paraphrase
-   until confirmed against the book.]`
+   persuading, not a formal argument. (Verified verbatim against the Edinburgh 17 July 1909 speech
+   transcription: "Land… which is a necessity of human existence, which is the original source of
+   all wealth, which is strictly limited in extent, which is fixed in geographical position. Land,
+   I say, differs from all other forms of property in these primary and fundamental conditions."[2])
+2. **Attack the system, not the individual landlord.** Churchill was careful to aim the case at
+   the institution rather than the person: "We do not want to punish the landlord. We want to alter
+   the law," and, in the same speech, "It is not the individual I attack, it is the system. It is
+   not the man who is bad, it is the law which is bad."[2] This is a deliberate rhetorical strategy
+   — moving the argument from personal blame (which invites sympathy for individual landowners) to
+   institutional reform (which does not) — and is a template still used in Georgist advocacy today.
+   (Both quotations verified verbatim in the Edinburgh 17 July 1909 speech. The sarcastic
+   "robbery… plunder… spoliation" summary of opponents' framing that some secondary compilations
+   attach to this reply is *not* in the Edinburgh speech and has been removed rather than
+   attributed to it.)
+3. **The passive holder, not the smallholder, is the target.** Churchill's picture of the
+   objectionable owner is the passive one: while public improvement proceeds, "the land monopolist
+   has only to sit still and watch complacently his property multiplying in value."[2] The *typical*
+   case the duties targeted was the passive holder of valuable land, not the smallholder or
+   cottager, and the actual 1909 land value duties included debated exemptions for small and
+   agricultural holdings.[3] (The "sit still and watch complacently" passage is verified verbatim
+   in the Edinburgh speech.[2] The "poor widow" figure that some secondary summaries attach to
+   Churchill's small-owner defence does not appear in this speech and is not asserted here.)
 
 ## Limits (advocacy, not evidence)
 
@@ -137,7 +130,7 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
 - **Churchill later reversed course.** By the 1920s, as Chancellor of the Exchequer, Churchill's
   enthusiasm for taxing land value had cooled considerably, and secondary sources describe him
   concluding the Georgist "single tax" theory was of declining relevance to the tax system he then
-  administered.[8] `[CITATION NEEDED: a primary Churchill statement, with date, documenting this
+  administered.[4] `[CITATION NEEDED: a primary Churchill statement, with date, documenting this
   later reversal — this session found only a secondary characterization, not a quoted primary
   source, and could not verify the claim's precision (full reversal vs. qualified retreat).]` A
   neutral treatment of Churchill's land-tax record should note this rather than present his 1909–10
@@ -145,20 +138,19 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
 - **The 1909 land value duties largely failed administratively.** The duties Churchill was
   defending in this book proved complex and under-yielding and were repealed within a decade — a
   fact already documented on [the People's Budget event page](/wiki/1909-peoples-budget/) and
-  [the unearned increment narrative](/wiki/unearned-increment-narrative/).[9] The book's political
+  [the unearned increment narrative](/wiki/unearned-increment-narrative/).[5] The book's political
   case for the duties should not be read as vindicated by their administrative record.
-- **This session's verification is incomplete.** The egress policy in this working environment
-  blocked direct access to archive.org (where the scanned book is hosted) and to several
-  secondary sites that appear to host fuller transcriptions (cooperative-individualism.org,
-  winstonchurchill.hillsdale.edu, savingcommunities.org). All quotations above are corroborated
-  by agreement across multiple independent search-engine-surfaced transcriptions, not by directly
-  reading the primary text in this session, and several are flagged `[VERIFY]` accordingly. A
-  future editor with working access to archive.org should confirm exact wording, page numbers,
-  and — importantly — **which specific 1909 speeches are actually reprinted in this book**, since
-  Churchill gave many land-value-duties speeches in 1909 (Commons, Edinburgh, the December
-  Lancashire tour) and not all quotations attributed to "Churchill 1909" by secondary sources are
-  necessarily inside *The People's Rights* itself, as opposed to other contemporary pamphlets
-  such as the 1941 Henry George Foundation reprint *The Menace of Land Monopoly*.
+- **Verification status (updated 2026-07-07).** The full text of Churchill's Edinburgh speech of
+  17 July 1909 — the principal source for this page's quotations — has now been read directly
+  (cooperative-individualism.org transcription), and every land-argument and framing quotation
+  attributed to it above is verified verbatim. Two things remain unverified against a primary: the
+  **book's internal chapter structure** (the "six chapters, outline form" description comes from a
+  bookseller listing; the archive.org full text was not fetchable this session), and Churchill's
+  **later cooling on land taxation** (a separate, post-1910 matter — see the reversal note above).
+  A future editor with a facsimile of the book can add page numbers and confirm exactly which 1909
+  speeches it reprints; note that Churchill gave several (Commons 4 May, Edinburgh 17 July, the
+  December Lancashire tour) and that the campaign material also circulated as the pamphlet later
+  reprinted by the Henry George Foundation as *The Menace of Land Monopoly*.
 
 ## See Also
 
@@ -175,43 +167,27 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
    Increment](/wiki/unearned-increment-narrative/), which independently establishes this speech's
    inclusion in the book. [Book record (Internet Archive)](https://archive.org/details/peoplesrights00chur)
    — used for confirming the Edinburgh speech is part of this book (A-claim).
-2. Winston Churchill, Edinburgh speech, 17 July 1909, as transcribed at [Land Value Tax Campaign,
-   "Winston Churchill said it all better then we can"](https://www.landvaluetax.org/history/winston-churchill-said-it-all-better-then-we-can)
-   and corroborated by [cooperative-individualism.org, "The Mother of all
-   Monopolies"](https://www.cooperative-individualism.org/churchill-winston_mother-of-all-monopolies-1909.htm)
-   and a PDF compilation at [grundskyld.dk](https://grundskyld.dk/wp-content/uploads/2019/06/Winston-Churchill-Land-Monopoly.pdf)
-   — used for the "mother of all monopolies" and "roads are made … landlord sits still"
-   quotations (D-claims; wording corroborated across three independent sources but not directly
-   verified against a primary facsimile this session — `[VERIFY]`).
-3. Winston Churchill, 1909 land-value-duties speeches, as characterized by
-   [savingcommunities.org, "Churchill: Land & Income Taxes"](http://savingcommunities.org/docs/churchill.winston/landandincometaxes.html)
-   — used for the "disservice done," "toll," and "preliminary fine" passages (D-claims;
-   `[VERIFY]` — this session could not confirm these specific passages are inside *The People's
-   Rights* itself rather than only the Hansard record of a related Commons speech).
-4. Winston Churchill, Edinburgh speech, 17 July 1909, as transcribed at [Land Value Tax
-   Campaign](https://www.landvaluetax.org/history/winston-churchill-said-it-all-better-then-we-can)
-   — used for the "land differs from all other forms of property" passage (D-claim; `[VERIFY]`
-   exact wording).
-5. Winston Churchill, 1909 speeches, as characterized by search-engine summaries of
+2. Winston Churchill, speech at the King's Theatre, Edinburgh, 17 July 1909 ("The Mother of all
+   Monopolies"), full transcription at
    [cooperative-individualism.org](https://www.cooperative-individualism.org/churchill-winston_mother-of-all-monopolies-1909.htm)
-   and [truthfront.com, "Churchill on landlords"](https://truthfront.com/2017/10/13/churchill-on-landlords/)
-   — used for the "robbery/plunder" and "alter the law" passages answering the confiscation
-   objection (D-claim; `[VERIFY]`).
-6. Search-engine summary of Churchill's 1909 land speeches (source page not independently
-   confirmed) — used, cautiously, for the "poor widow" small-owner framing; see `[CITATION
-   NEEDED]` above.
-7. UK Parliament, Historic Hansard, "Clause 7 — (Exemption for Agricultural Land)," House of
+   (corroborated by [Land Value Tax Campaign](https://www.landvaluetax.org/history/winston-churchill-said-it-all-better-then-we-can)
+   and a PDF at [grundskyld.dk](https://grundskyld.dk/wp-content/uploads/2019/06/Winston-Churchill-Land-Monopoly.pdf))
+   — **fetched and read in full (2026-07-07)**; used for and verified verbatim against all the
+   Edinburgh-speech quotations on this page: "mother of all… monopoly," "roads are made… landlord
+   sits still," "the unearned increment in land is reaped… not to the service, but to the
+   disservice done," "levy his toll," "preliminary fine in land values… inferior use," "land…
+   differs from all other forms of property," "We do not want to punish the landlord. We want to
+   alter the law," "It is not the individual I attack, it is the system," "sit still and watch
+   complacently his property multiplying in value," and the Thames toll-bar story (D-claims,
+   Churchill's advocacy; wording now primary-verified).
+3. UK Parliament, Historic Hansard, "Clause 7 — (Exemption for Agricultural Land)," House of
    Commons, 20 October 1909. [Hansard](https://api.parliament.uk/historic-hansard/commons/1909/oct/20/clause-7-exemption-for-agricultural-land)
    — used for the fact that the 1909 land value duties legislation included debated exemptions
    for agricultural and small holdings (A-claim).
-8. Secondary characterization of Churchill's later, cooler view of land taxation as Chancellor of
+4. Secondary characterization of Churchill's later, cooler view of land taxation as Chancellor of
    the Exchequer, per search-engine summary of Hillsdale College Churchill Project material — used
-   cautiously for the "Churchill reversed course" limitation; see `[CITATION NEEDED]` above.
-9. Roy Douglas, "The Lloyd George Land Taxes," *Journal of Liberal History* — already cited on
+   cautiously for the "Churchill reversed course" limitation; see `[CITATION NEEDED]` above (this
+   is the one substantive claim on the page still awaiting a primary post-1910 Churchill source).
+5. Roy Douglas, "The Lloyd George Land Taxes," *Journal of Liberal History* — already cited on
    [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — used for the
    administrative fate of the 1909 land value duties (A-claim).
-10. Winston Churchill, 1909 toll-bridge passage, as quoted in Phillip J. Anderson,
-    *Your Citizen's Dividend* (©2024 PSE), pp. 10–11 — used for the Thames toll-bar story
-    (D-claim; quote reproduced from a secondary advocacy source read in full 2026-07-06;
-    `[VERIFY]` against Hansard/primary — see the bullet's flag).
-    [Wiki book page](/wiki/anderson-your-citizens-dividend/)
