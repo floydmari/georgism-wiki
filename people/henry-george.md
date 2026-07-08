@@ -26,6 +26,22 @@ George's ideas attracted a mass following. He ran for mayor of New York City in 
 
 George's influence crossed ideological lines in ways unusual for any single thinker. [Leo Tolstoy](/wiki/leo-tolstoy/) called him one of the greatest social philosophers of the century. [Sun Yat-sen](/wiki/sun-yat-sen/) acknowledged George's influence on the land policy of the Republic of China. George Bernard Shaw credited George with turning him toward socialism. Economists from [Alfred Marshall](/wiki/alfred-marshall/) to Milton Friedman (who called LVT "the least bad tax") have engaged seriously with his work. The Henry George Foundation, the Lincoln Institute of Land Policy, and numerous policy institutes worldwide continue to develop his ideas.
 
+## Book Findings
+
+### Barker: Biographical Detail and the Triple Legacy
+
+Charles Albro Barker's definitive 1955 biography provides the most comprehensive scholarly account of George's life. Barker frames George as a Jeffersonian-Jacksonian democrat whose "axioms of his thought were always the same. They were the Jeffersonian and Jacksonian principles of destroying private economic monopolies and of advancing freedom and equal opportunity for everyone" (Barker 1955, Preface). The biography's final chapter, "The Triple Legacy of Georgism," assesses George's three lasting contributions: land reform, the single-tax movement, and his influence on progressive democracy. Barker argued "when he died he received a salute of the people's affection as did no other American between Lincoln and Franklin Roosevelt" (Barker 1955, p. 14). (D-claim; interpretive)
+
+Barker emphasizes that the California experience was essential to George's intellectual formation: "His liberal first principles inform every one of the major items of the economic program he conceived on the West coast: absolute free trade, the abolition of private-property values in land, the repeal of discriminatory taxes, and the public ownership of telegraph lines and other public utilities" (Barker 1955, Preface). Despite becoming the "philosopher of the land," George was "always a city man" — Philadelphia gave him "the right to speak for the people of the world's great cities" (Barker 1955, p. 26). (D-claim; interpretive)
+
+### Goldman: Political Context and the 1886 Campaign
+
+Eric F. Goldman's *Rendezvous with Destiny* (1952) places George within the broader American reform tradition. Goldman describes George writing *Progress and Poverty* in his "rugless, ill-heated room" in San Francisco after the depression of 1873, arguing that the closing of the American frontier of free land was causing the "New World" to "repeat the Old World's dismal story" (Goldman 1952, p. 39). The single-tax movement had "a pervasive effect" on urban reform politics; the Knights of Labor organ testified in 1887: "No man has exercised so great an influence upon the labor movement of to-day as Henry George" (Goldman 1952, p. 47). See [Rendezvous with Destiny](/wiki/rendezvous-with-destiny/). (A/D-claim; factual/interpretive)
+
+### Bryson: Rehabilitation of George as Economist
+
+Phillip Bryson's *The Economics of Henry George* (2011) provides the most comprehensive modern academic rehabilitation of George as an economist. Bryson argues George has been progressively "rehabilitated" by the economics profession: "For at least half a century, George was terribly popular with the general public, but rather viciously attacked by academics. It would take time for history to sort out the mess. George was actually very competent and understood classical economics very well, so it was incumbent on history to recognize the value of his work. It ultimately did so and continues to do so" (Bryson 2011, Ch. 1). Schumpeter assessed George as "a very orthodox economist and extremely conservative as to methods," whose methods were "those of the English classics" (Bryson 2011, p. 5). See [Bryson's book page](/wiki/economics-of-henry-george/). (D-claim; interpretive)
+
 ## See Also
 
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
@@ -38,9 +54,16 @@ George's influence crossed ideological lines in ways unusual for any single thin
 - [The Science of Political Economy](/wiki/science-of-political-economy/) (1898) · [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) (1892) — his late theoretical and philosophical treatises
 - [Protection or Free Trade](/wiki/protection-or-free-trade/) (1886) — his free-trade case, the first book read in full into the US Congressional Record
 - [The Condition of Labour: An Open Letter to Pope Leo XIII](/wiki/open-letter-to-pope-leo-xiii/) (1891) — his reply to *Rerum Novarum*, held in full
+- [Charles Albro Barker](/wiki/charles-albro-barker/) — George's definitive biographer
+- [Eric F. Goldman](/wiki/eric-goldman/) — Princeton historian who documented George in American reform
+- [Phillip J. Bryson](/wiki/phillip-bryson/) — economist who rehabilitated George as economic theorist
+- [Robert V. Andelson](/wiki/robert-v-andelson/) — editor of *Critics of Henry George*
 
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
 2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic details (custodial source).
+4. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for biographical details, the California formation, and the triple legacy (D-claims). [Book page](/wiki/barker-henry-george-biography/)
+5. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952) — used for political context and the 1886 campaign (A/D-claims). [Book page](/wiki/rendezvous-with-destiny/)
+6. Phillip J. Bryson, *The Economics of Henry George* (New York: Palgrave Macmillan, 2011) — used for the rehabilitation of George as economist (D-claims). [Book page](/wiki/economics-of-henry-george/)

@@ -20,6 +20,22 @@ The same destination has been reached from outside the Georgist tradition. The N
 
 The **Alaska Permanent Fund Dividend** is the closest large-scale implementation: since 1982, Alaska has distributed an annual cash dividend to every resident, funded by the state's oil-resource rents. It demonstrates that a resource-rent dividend is administratively workable and politically durable.
 
+## Book Findings
+
+### Barnes: Universal Dividends from Co-Owned Wealth
+
+Peter Barnes develops the citizen's dividend concept most fully in [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014) and [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006). Barnes's "simple idea" is that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). He distinguishes dividends from redistribution:
+
+> "Dividends of this sort aren't redistribution; they're a way to allocate income fairly in the first place so that there's less need to redistribute later. Nor are they government transfers or private charity. Rather, they're legitimate property income." (Barnes 2014, Preface)
+
+Barnes argues that "jobs alone won't sustain a large middle class in the future" and that universal dividends from co-owned wealth — not taxes or government transfers — are the solution (Barnes 2014, Preface). He identifies five categories of co-owned wealth: the atmosphere, electromagnetic spectrum, mineral resources, intellectual property commons, and financial infrastructure (Barnes 2014, Ch. 7, 9). (C-claim; theoretical)
+
+In *Capitalism 3.0*, Barnes proposes that commons trusts distribute revenue as "per-capita dividends to all citizens" and "birthrights to common wealth" as an extension of the Alaska Permanent Fund model (Barnes 2006, Ch. 5–9). The Alaska model is presented as proof-of-concept that resource-rent dividends are administratively workable and politically durable. (D-claim; interpretive)
+
+### Paine as Predecessor
+
+Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-rent-financed "National Fund" paying capital grants at 21 and pensions after 55 — as the historical foundation for the citizen's dividend (Barnes 2014, Ch. 1). The wiki holds [the primary text](/wiki/agrarian-justice/) in full and treats the proposal in detail in the [citizens' dividend narrative](/wiki/citizens-dividend-narrative/); cite Paine directly rather than through Barnes. (A-claim; factual)
+
 ## See Also
 
 - [Barnes — Who Owns the Sky? (cap-and-dividend)](/wiki/barnes-sky-trust/)
@@ -31,8 +47,13 @@ The **Alaska Permanent Fund Dividend** is the closest large-scale implementation
 - [Anderson, Your Citizen's Dividend (eBook)](/wiki/anderson-your-citizens-dividend/) — the advocacy-side program statement (Crown Estate/SPV model)
 
 - [Economic Rent](/wiki/economic-rent/) · [Georgism](/wiki/georgism/) · [Land Value Tax](/wiki/land-value-tax/)
+- [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's commons trust dividend proposal
+- [With Liberty and Dividends for All](/wiki/with-liberty-and-dividends-for-all/) — Barnes's universal dividend from co-owned wealth
+- [Thomas Paine](/wiki/thomas-paine/) — Paine's *Agrarian Justice* as predecessor
 
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — used for the rent-as-common-property foundation (A-claim). [wiki summary](/wiki/progress-and-poverty/)
 2. Alaska Permanent Fund Dividend — used as the operating real-world example (A-claims; full evidence on [the outcome page](/wiki/resource-rent-dividends-work/)).
+3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the universal dividend from co-owned wealth proposal and the Paine lineage (C/A-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
+4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend mechanism (C-claim). [Book page](/wiki/capitalism-3-0/)

@@ -29,7 +29,7 @@ National accounts — including the U.S. National Income and Product Accounts (N
 
 ### FISIM and financial-sector output
 
-Until national-accounting reforms in the second half of the 20th century, banks' core deposit-and-lending activity was not counted as adding to GDP; it came to be included through a measure known as **FISIM** (Financial Intermediation Services Indirectly Measured), which imputes an output value to banks from the spread between the interest rates they charge borrowers and pay depositors.[2][3] FISIM is a real, documented feature of the international System of National Accounts (SNA), formalized in the 1993 SNA revision and used by national statistical offices including the UK's ONS to estimate financial-sector output.[7][8] Reviewers indicate Mazzucato treats the FISIM convention as a case study in how the production boundary was redrawn to make an activity that classical economists would have classed as facilitating exchange, rather than producing value, count as production instead.[2][3]
+Until national-accounting reforms in the second half of the 20th century, banks' core deposit-and-lending activity was not counted as adding to GDP; it came to be included through a measure known as **FISIM** (Financial Intermediation Services Indirectly Measured), which imputes an output value to banks from the spread between the interest rates they charge ers and pay depositors.[2][3] FISIM is a real, documented feature of the international System of National Accounts (SNA), formalized in the 1993 SNA revision and used by national statistical offices including the UK's ONS to estimate financial-sector output.[7][8] Reviewers indicate Mazzucato treats the FISIM convention as a case study in how the production boundary was redrawn to make an activity that classical economists would have classed as facilitating exchange, rather than producing value, count as production instead.[2][3]
 
 ## Government and the Production Boundary
 
@@ -42,6 +42,16 @@ The explicit, formal link between the production-boundary framework and land ren
 In the classical political economy Mazzucato is reported to be reviving — particularly Ricardo's [law of rent](/wiki/law-of-rent/) — rent accruing to a landowner was treated as a surplus arising from scarcity and location rather than from productive effort.[1][3] Mazzucato's argument, as reported by reviewers, generalizes this classical logic — that unearned, rent-derived income should not be counted the same as earned, production-derived income — from land specifically to the wider economy (finance, IP, platforms).[2][3] This is the same analytical move underlying the wiki's own treatment of [economic rent](/wiki/economic-rent/) and [ground rent](/wiki/ground-rent/).
 
 Reviewers do not report the 2018 book itself making a specific land-value-tax proposal or engaging directly with Georgist economics; its recommendations, as summarized in secondary sources, center on reforming national accounting, strengthening patient public and mission-oriented finance, and reforming corporate governance and IP rules, rather than land taxation specifically.[CITATION NEEDED: a direct statement, from a source not paywalled, of whether the book proposes land value taxation or land value capture as a policy instrument.]
+
+## Book Findings
+
+### Daly: GDP as Throughput Measure
+
+Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/) (1999) provides a complementary critique of the production boundary from the ecological-economics perspective. Daly argues that standard neoclassical economics treats the economy as "the total system" in which nature is merely "a sector of the economy," rather than as "an envelope containing, provisioning and sustaining the economy" (Daly 1999, Ch. 3). This paradigmatic error means GDP measures throughput — the flow of matter-energy from nature, through the economy, and back to nature — without distinguishing sustainable from unsustainable throughput, or productive from destructive activity. (C-claim; theoretical)
+
+Daly's concept of "uneconomic growth" directly challenges the production-boundary assumption that all counted output is value-creating. He argues that "there are costs of depletion, pollution, disruption of ecological life-support services, sacrifice of leisure time, disutility of some kinds of labour, destruction of community in the interests of capital mobility, takeover of habitat of other species, and running down a critical part of the inheritance of future generations. We not only fail to measure these costs, but frequently we implicitly count them as benefits" (Daly 1999, Ch. 1). This parallels Mazzucato's argument that the production boundary records rent as output, but from an ecological rather than a value-theory perspective: both identify systematic mismeasurement, but Daly's concern is that GDP counts the depletion of natural capital as income rather than capital consumption. (D-claim; interpretive)
+
+Daly cites John Ruskin's *Unto This Last* (1862): "That which seems to be wealth may in verity be only the gilded index of far-reaching ruin" (quoted in Daly 1999, Ch. 2) — a 19th-century statement of the production-boundary problem applied to ecological destruction. The Georgist connection is that land and resource rent, when privatized and counted as output, may represent not value creation but the liquidation of common inheritance — the same analytical point Mazzucato makes from the value-theory side and Daly makes from the thermodynamic side. (D-claim; interpretive)
 
 ## Criticisms
 
@@ -65,6 +75,7 @@ The production-boundary concept is not uncontested:
 - [Ground Rent](/wiki/ground-rent/)
 - [Law of Rent](/wiki/law-of-rent/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
+- [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — Daly on GDP as throughput measure
 
 ## Sources
 
@@ -80,3 +91,4 @@ The production-boundary concept is not uncontested:
 10. Pierre Lemieux, "Mazzucato Missing on the Margins" (Parts 1–2), Econlib, January 2019. [Part 1](https://www.econlib.org/mazzucato-missing-on-the-margins/) · [Part 2](https://www.econlib.org/mazzucato-missing-on-the-margins-part-2/) — used for the marginalist/subjective-value defense against Mazzucato's production-boundary argument.
 11. Institute of Economic Affairs / CapX, "'The Value of Everything' adds up to nothing," 2018. [iea.org.uk](https://iea.org.uk/the-value-of-everything-adds-up-to-nothing/) · [capx.co](https://capx.co/the-value-of-everything-adds-up-to-nothing/) — used for the free-market critique of Mazzucato's characterization of marginalism; author byline unconfirmed, see [VERIFY] note above.
 12. Diane Coyle, "Private and public value," *The Enlightened Economist* blog, 2018. [enlightenmenteconomics.com](http://www.enlightenmenteconomics.com/blog/index.php/2018/05/private-and-public-value/) — used for the sympathetic, measurement-expert response underscoring that production-boundary conventions are inherently contestable.
+13. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the critique of GDP as throughput measure and the concept of uneconomic growth (C/D-claims). [Book page](/wiki/ecological-economics-daly/)

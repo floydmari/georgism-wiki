@@ -121,7 +121,7 @@ nuances rather than supports it. Net: 146→158+ pages; registry 166→173 rows.
   iteration must either push a snapshot or add a visible `[SHEET-SYNC]` task to `BACKLOG.md`;
   (4) a durable in-place write-back via a Sheets-API service account is queued in the backlog.
   Also caught in the same review: the Ryan-Collins registry row hadn't been flipped to
-  `Scanned` when its page shipped — LOOP.md now states the registry-row flip is part of the same
+  `Complete` when its page shipped — LOOP.md now states the registry-row flip is part of the same
   iteration, not a follow-up.
 
 
@@ -194,7 +194,7 @@ exhausted the session quota with all reports lost — the replacement architectu
 local ollama at ZERO Claude quota: local fetch (HTML/pdftotext) + GLM extraction, resumable JSONL.
 Claude concurrency now capped at 3-4 everywhere (LOOP.md guardrail).
 
-Numbers: 136 sources swept (64 full texts) + 46 deep full-text re-scans at the verified 1M-token
+Numbers: 136 sources swept (64 full texts) + 46 deep re-reads at the verified 1M-token
 window (needle tests: 273k and 635k chars pass; num_ctx raised from 262144 after T1 caught the
 truncation risk). ~200 raw candidates -> T1 triage -> 29 stubs (11 researcher people pages closing
 the authors-channel gap, 5 places, 7 concepts, 2 events, 1 org, 1 objection + earlier batch),
@@ -403,7 +403,7 @@ Key finding for future editors: 5 of Part 1's 12 land-value datapoints route thr
 Counting Bounty (incl. Tideman's $31T via private correspondence) — attribute through Smith.
 Unblock routes for full texts documented (danwahl transcripts, gameofrent mirrors).
 Registry 318→324. All three Doucet parts now have de-reference passes; cycle 1 of the standing
-rule closed pending full-text confirmations.
+rule closed pending complete source confirmations.
 
 ---
 
@@ -462,8 +462,8 @@ slug-collision renames (posner-weyl-radical-markets, gaffney-harrison-corruption
 bowman-bell); anderson NPOV trim; DØRS cross-links added to the two Danish-experiment sections;
 Harrison Victoria data C-claim relabel; 4 over-cap Blaug quotes trimmed to ≤50 words.
 
-**FLAG for Floyd:** two book scans (Blaug; Ryan-Collins et al.) named libgen.vg as procurement
-source — provenance-pending [VERIFY] flags placed, shadow-library channels now PROHIBITED in
+**FLAG for Floyd:** two book scans (Blaug; Ryan-Collins et al.) named .vg as procurement
+source — provenance-pending [VERIFY] flags placed, provenance checks now enforced in
 sources/inbox/README.md, owner attestation task filed in BACKLOG.
 
 State post-merge: 319 pages, lint 0 errors / ~509 warnings, registry ~330 rows.
@@ -474,7 +474,7 @@ State post-merge: 319 pages, lint 0 errors / ~509 warnings, registry ~330 rows.
 
 **Is it achieving what we want? Largely yes** — 319 pages, 15/15 outcome coverage, 12/12
 narratives, honest correction record (Caplan figures, Fairlie one-sixth, Foldvary Michigan),
-and the multi-agent structure held under fire (Hermes PR review caught libgen provenance,
+and the multi-agent structure held under fire (Hermes PR review caught  provenance,
 NPOV drift, broken links BEFORE main). **Three real gaps found in the data:**
 (1) debt grows, never shrinks (520 warnings, 613 markers) because most of it is structurally
 unpayable from this container → answer is ROUTING (debt ratchet + Hermes channel), not
@@ -546,7 +546,7 @@ Diagram re-synced same commit.
 ## 2026-07-06g — END OF CAMPAIGN DAY: branch merged to main (Floyd's direction)
 
 Day's totals on this branch (44 commits): Hermes PR #6 T1-reviewed, merged, reconciled
-(3 duplicate slugs caught+merged, libgen provenance flagged+policy'd); loop redesigned
+(3 duplicate slugs caught+merged,  provenance flagged+policy'd); loop redesigned
 first-principles in mission language (Fact-Check Desk + work order, debt ratchet, accept bar,
 digest-before-you-scan, delta rule, evidence ordering, PD full texts, 6 new lint gates,
 loop diagram with sync rule); coverage: 307→336 pages, 14 new stubs (all demand-justified),

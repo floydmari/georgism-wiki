@@ -37,6 +37,15 @@ rent of the earth becomes every citizen's property income
   ([*Who Owns the Sky?*](/wiki/barnes-sky-trust/), 2001) — cap carbon,
   auction permits, pay every citizen an equal dividend, on the model of the
   [Alaska Permanent Fund](/wiki/alaska-permanent-fund/).[1]
+- **Herman Daly** provides the ecological-economic framework underpinning the
+  narrative in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/)
+  (1999). Daly's concept of "uneconomic growth" — growth that costs more in
+  sacrificed ecosystem services than it contributes in production value
+  (Daly 1999, Ch. 2) — supplies the theoretical warrant for treating pollution
+  and resource extraction as costs of using the commons, not as free inputs.
+  His "throughput" framework — the economy as a subsystem of a finite ecosystem
+  (Daly 1999, p. 14) — frames the atmosphere, oceans, and mineral deposits as
+  finite common assets whose use demands rent.[D]
 - **[Alanna Hartzok](/wiki/alanna-hartzok/)** and the earth-rights strand of the
   movement frame land and ecological rent as a single commons claim.
 - **[George Monbiot](/wiki/george-monbiot/)** gives the narrative its widest
@@ -170,6 +179,7 @@ says so:
 - [Resource Rents](/wiki/resource-rents/) · [Resource-rent dividends work](/wiki/resource-rent-dividends-work/)
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/) — the sibling ownership story
 - [Georgism](/wiki/georgism/) — the wider philosophy
+- [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — Daly's framework connecting rent and ecology
 
 ## Sources
 
@@ -207,3 +217,7 @@ says so:
    Transformation of Society," 40th Annual E.F. Schumacher Lecture, 2020.
    [Schumacher Center](https://centerforneweconomics.org/people/george-monbiot/)
    · [wiki bio](/wiki/george-monbiot/) — used for the lecture's framing (A-claim).
+8. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward
+   Elgar, 1999) — used for the "uneconomic growth" concept and throughput
+   framework that underpin the ecological-rent narrative (C/D-claims).
+   [Book page](/wiki/ecological-economics-daly/)
