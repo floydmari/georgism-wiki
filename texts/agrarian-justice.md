@@ -5,7 +5,7 @@ tags: [texts, thomas-paine, citizens-dividend, ground-rent, land-value-capture, 
 authors: [Thomas Paine]
 year: 1797
 public_domain: true
-provenance: "Moncure D. Conway (ed.), The Writings of Thomas Paine, Vol. III (G. P. Putnam's Sons, 1894–96), via Project Gutenberg eBook 31271. Full text; obvious OCR errors silently corrected against sense; Paine's two numerical tables (rendered as images in the source scan) are noted where they occur."
+provenance: "Moncure D. Conway (ed.), The Writings of Thomas Paine, Vol. III (G. P. Putnam's Sons, 1894–96), via Project Gutenberg eBook 31271. Full text; obvious typographical errors silently corrected against sense; Paine's two numerical tables (rendered as images in the source scan) are noted where they occur."
 stub: false
 excerpt: "Thomas Paine's 1797 pamphlet: because land in its natural state is common property and only improvements are individual, every landholder 'owes to the community a ground-rent' — to be pooled in a National Fund paying every person a lump sum at 21 and a pension from 50, 'a right, and not a charity.' The founding text of the citizen's dividend and a proto-Georgist ground-rent argument a century before Henry George."
 last_reviewed: 2026-07-06

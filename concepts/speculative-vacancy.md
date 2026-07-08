@@ -56,11 +56,35 @@ almost no tax — and improving the site *raises* the bill.
   economically similar but doesn't register as "vacancy" — which is why the
   outcome literature tests construction and density, not emptiness counts alone.
 
+## Book Findings
+
+### Neeson: Enclosure Creating Vacancy and Underuse
+
+J. M. Neeson's *Commoners* (1993) documents that parliamentary enclosure in England (1700–1820) created a form of speculative vacancy and underuse at the systemic level. Before enclosure, common waste — uncultivated common land — was a vital productive resource: pasture for livestock, fuel (turf, furze, wood), building materials, wild foods, and fibres. Neeson argues that waste was not "waste" in the modern sense but a productive commons supporting the poorest members of the community (Neeson 1993, Ch. 6, pp. 158–184). (B-claim; empirical)
+
+After enclosure, this previously productive common land was converted to private use that was often less intensive or less socially productive. At Burton Latimer, publicly used land was significantly reduced after enclosure (Neeson 1993, Table 7.4, p. 212), and owner-occupier holdings declined sharply (Tables 7.5–7.7, pp. 217–219). The land was not necessarily left physically vacant, but its use was narrowed and its benefits were captured by fewer hands — a historical analogue to the modern pattern of speculative underuse of valuable sites. (A-claim; factual)
+
+This historical case illustrates that "vacancy" and "underuse" need not mean literal emptiness: the withholding of productive common land from its previous users is an economic form of speculative vacancy, even when the land remains in some form of production. (D-claim; interpretive)
+
+See: [Commoners (Neeson)](/wiki/commoners-neeson/)
+
+### Howard: Garden City as Anti-Speculation Model
+
+Ebenezer Howard's *Garden Cities of To-morrow* (1902) proposes an explicit anti-speculation model that directly addresses speculative vacancy. Howard's garden city design holds land communally, with the "rate-rent" (land value) captured for municipal revenue rather than accruing to private speculators:
+
+> "The entire increment of value gradually created becomes the property of the municipality, with the effect that though rents may rise, and even rise considerably, such rise in rent will not become the property of private individuals, but will be applied in relief of rates." (Howard 1902, Ch. II)
+
+By communalizing land ownership and capturing the unearned increment for public benefit, Howard's model eliminates the incentive to hold land speculatively vacant. The gardener or builder who uses the land productively benefits; the speculator who withholds it does not, because the rising value flows to the community, not the title-holder. This is the same mechanism a [land value tax](/wiki/land-value-tax/) provides — making idle land-holding costly — but applied through communal ownership rather than taxation. (C-claim; theoretical)
+
+See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
+
 ## See Also
 
 - [Land Monopoly](/wiki/land-monopoly/) · [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) · [Prosper Australia](/wiki/prosper-australia/)
 - [Cunningham (2006), Seattle](/wiki/cunningham-seattle-options/) — the option-value evidence
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
+- [Commoners (Neeson)](/wiki/commoners-neeson/) — enclosure as historical vacancy/underuse
+- [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — anti-speculation model
 
 ## Sources
 
@@ -73,3 +97,8 @@ almost no tax — and improving the site *raises* the bill.
 3. Fred Harrison (1983), *The Power in the Land*, Ch. 5 — used for the South Wales
    idle-sites figures (C-claim: empirical data reported in an advocacy book;
    Heavy scan). [Book page](/wiki/harrison-power-in-the-land/)
+4. J. M. Neeson, *Commoners* (Cambridge University Press, 1993), Chs. 6–7 — used for
+   the enclosure-as-underuse account (A/B-claims). [Book page](/wiki/commoners-neeson/)
+5. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902),
+   Ch. II — used for the communal-ownership anti-speculation model (C-claim).
+   [Book page](/wiki/garden-cities-of-to-morrow/)

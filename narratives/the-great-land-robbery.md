@@ -151,6 +151,42 @@ enough to matter — is well documented:
   Newkirk's "The Great Land Robbery" and Daniel's *Dispossession* document the
   mechanisms.[6][8]
 
+## Book Findings
+
+### Neeson: English Enclosure as Social Transformation
+
+J. M. Neeson's *Commoners* (1993) deepens the historical evidence for English enclosure as dispossession beyond the summary figures already cited. Neeson's detailed Land Tax analysis documents the "disappearance" of small landholders after enclosure: in seventeen enclosing parishes (1774–1814), small landholders disappeared at higher rates than in six open parishes (1786–1814). Landowners with less than 5 acres disappeared at the highest rate, while large landowners' holdings grew (Neeson 1993, Ch. 8, Tables 8.2–8.5, pp. 228–231). (B-claim; empirical)
+
+Neeson documents that enclosure did not merely redistribute land but fundamentally transformed social relations — converting a relatively independent peasantry into wage labourers. Contemporaries described this as "making freeman of the slave" (the ironic chapter title from pro-enclosure rhetoric) (Neeson 1993, Ch. 10, pp. 297–329). Resistance was vigorous: legal challenges, petitions, rioting, and destruction of enclosure fences came disproportionately from small landholders and cottagers whose livelihoods depended on common right (Neeson 1993, Ch. 9, pp. 259–294). (A-claim; factual)
+
+Dr. Richard Price, quoted by Neeson, captured the class dimension:
+
+> "Modern policy is, indeed, more favourable to the higher classes of people, and the consequences may in time prove that the whole kingdom will consist of only gentry and beggars, or grandees and slaves." (Dr. Richard Price, *Observations on Reversionary Payments*, quoted in Neeson 1993, Ch. 1)
+
+See: [Commoners (Neeson)](/wiki/commoners-neeson/)
+
+### Banner: Native American Land Transfer as Legal Dispossession
+
+Stuart Banner's *How the Indians Lost Their Land* (2005) provides the legal-historical detail behind the dispossession narrative for North America. Banner's central thesis is that "the difference between voluntariness and involuntariness is one of degree, not kind" — land transfers cannot be "categorized dichotomously as either voluntary or involuntary" (Banner 2005, p. 3). (D-claim; interpretive)
+
+Banner documents the critical legal mechanism: as settler power grew, the framework of law itself shifted. Indian land rights were redefined from full ownership to mere "occupancy" — the right to use land without owning it — codified in *Johnson v. M'Intosh* (1823), which held that discoverers had "the exclusive right… to appropriate the lands occupied by the Indians" (Banner 2005, p. 12). This case "remains the law" and is "still cited as authority by lower courts several times a year" (Banner 2005, p. 12). (A-claim; factual)
+
+The progressive dispossession mechanisms Banner traces — removal (1830 Indian Removal Act), reservations, and allotment (Dawes Act, 1887) — show how legal instruments, not just force, accomplished the transfer. Allotment broke up communal tribal lands into individual allotments, accelerating land loss. (A-claim; factual)
+
+> "Every land transfer of any form included elements of law and elements of power… The more powerful whites became relative to Indians, the more they were able to mold the legal system to produce outcomes in their favor." (Banner 2005, Introduction)
+
+See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/)
+
+### Daniel: Twentieth-Century USDA Discrimination as Ongoing Dispossession
+
+Pete Daniel's *Dispossession* (2013) documents that dispossession is not safely historical. Between 1940 and 1974, African American farmers fell from 681,790 to 45,594 — a 93 percent decline (Daniel 2013, p. 1). Daniel coins the term "passive nullification" to describe how USDA officials "pledged their support even as they purposefully undermined equal opportunity laws" (Daniel 2013, p. 23). (B-claim; empirical)
+
+The 1965 Commission on Civil Rights report revealed that "blacks had no input in policy, had no representation on county agricultural committees, were refused loans and benefits, and suffered encompassing discrimination" (Daniel 2013, p. 23). The Pigford v. Glickman (1999) class-action lawsuit found the USDA guilty of widespread discrimination from 1981 onward, but Congress did not appropriate funds until 2010 — by which time "many of the litigants had lost their farms or died" (Daniel 2013, p. 26). (A-claim; factual)
+
+This twentieth-century record answers the objection that the dispossession narrative is "grievance archaeology" — the largest documented takings include some within living memory. (D-claim; interpretive)
+
+See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
+
 ## How to Deploy It
 
 - **Audience.** Justice-oriented audiences — and, handled correctly, conservative
@@ -183,6 +219,7 @@ enough to matter — is well documented:
 - [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) — the strongest reply
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the present-tense sibling
 - [Georgism](/wiki/georgism/) — the wider philosophy
+- [Commoners (Neeson)](/wiki/commoners-neeson/) — English enclosure as social transformation
 
 ## Sources
 
@@ -223,3 +260,7 @@ enough to matter — is well documented:
    the Age of Civil Rights*, University of North Carolina Press, 2013.
    [Publisher](https://uncpress.org/9781469622071/dispossession/) — used for the
    681,790→45,594 (93%) collapse in Black-operated farms, 1940–1974 (B-claim).
+9. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England,
+   1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the Land Tax
+   analysis of small landholder disappearance and enclosure's social transformation
+   (A/B-claims). [Book page](/wiki/commoners-neeson/)

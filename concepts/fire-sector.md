@@ -143,8 +143,7 @@ carries both readings, attributed; the dispute is unresolved in the literature.
    *Socio-Economic Review* 3(2), 2005, pp. 173–208
    ([course mirror PDF](https://www.depfe.unam.mx/actividades/10/financiarizacion/i-7-KrippnerGreta.pdf));
    and *Capitalizing on Crisis: The Political Origins of the Rise of Finance*,
-   Harvard University Press, 2011
-   ([lending copy](https://archive.org/details/capitalizingoncr0000krip)) — used
+   Harvard University Press, 2011 — used
    for the portfolio-income measurements and the policy-origins account (B-claims).
 8. John H. Cochrane, "Finance: Function Matters, Not Size," *Journal of Economic
    Perspectives* 27(2), 2013, pp. 29–50.
