@@ -12,6 +12,7 @@ Hosting basis legend: **WP** = freely distributable working paper (NBER/RFF/SSRN
 | Wasi & White (2005), "Property Tax Limitations and Mobility: Lock-in of Prop 13," NBER WP 11108 | events/proposition-13 | https://www.nber.org/papers/w11108 | WP | NBER working paper, open PDF. |
 | Goulder (1995), "Environmental Taxation and the 'Double Dividend': A Reader's Guide," *ITPF* 2(2) | concepts/pigouvian-taxation | https://www.nber.org/papers/w4896 | WP | NBER WP 4896. |
 | Rennert et al. (2022), "Comprehensive evidence implies a higher social cost of CO₂," *Nature* 610 | concepts/pigouvian-taxation | RFF working-paper version (rff.org) | WP | *Nature* version paywalled; the RFF WP is the mirrorable one. |
+| Hilber & Vermeulen (2016), "The Impact of Supply Constraints on House Prices in England," *Economic Journal* 126(591) | research/hilber-vermeulen-england-supply | https://cep.lse.ac.uk/pubs/download/sercdp0119.pdf | WP | SERC Discussion Paper 119 (open); EJ version of record paywalled. |
 | Arnott & Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *QJE* | concepts/henry-george-theorem, arnott-stiglitz-henry-george-theorem | https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf | AM | Already an open PDF in registry. |
 
 ## How to grow this list
