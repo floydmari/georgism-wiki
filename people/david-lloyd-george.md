@@ -55,21 +55,17 @@ President of the Board of Trade, campaigned alongside him for the duties, collec
 Lloyd George defended the budget at a mass meeting at the Edinburgh Castle public house,
 Limehouse, on 30 July 1909 — the "Limehouse speech" that gave its name to a whole style of
 combative populist oratory ("to limehouse," briefly, entered political slang).[2]
-[VERIFY: this session could not confirm the size of the Limehouse crowd, or details of how the
-meeting was staged, against a primary account — UK Parliament's own "Limehouse" collections
-page returned an access error (HTTP 403) to this session's web tools, so claims resting solely
-on it are avoided here; only the Speakola transcript, independently corroborated, is relied
-on.] Contrasting the risk borne by a doctor, a soldier, or a miner with land rent that requires
-no labour at all, he described the land value duty in his own phrase as "the halfpenny tax on
-unearned increment."[2] He asked of land near London that had risen from a few pounds an acre
-to thousands: "Who is going to maintain that the landlord has earned that increment? ... Who
-created that increment? Who made that golden swamp?" [VERIFY: wording corroborated across
-multiple secondary transcriptions of the Limehouse speech; not checked against a facsimile or
-Hansard in this session — treat as reliable in substance, possibly imprecise in exact
-phrasing.][2] The speech deliberately framed land ownership as a conditional "stewardship"
-rather than an absolute right, warning landowners who neglected the duties of ownership that
-"the time will come to reconsider the conditions under which land is held in this country."
-[VERIFY: same corroboration caveat as above.][2] Ten weeks later, at Newcastle upon Tyne on 9
+Contrasting land rent that requires no labour with the contributions of those who take real
+risk — "the capitalist risks, at any rate, the whole of his money; the engineer puts his
+brains in; the miner risks his life" — he described the land value duty in his own phrase as
+"the halfpenny tax on unearned increment."[2] He asked of land near London that "used to be
+rented at £2 or £3 an acre" and had lately sold "at £2,000 an acre, £3,000 an acre… £8,000 an
+acre": "Who created that increment? Who made that golden swamp? Was it the landlord? Was it his
+energy? Was it his brains… his forethought? It was purely the combined efforts of all the
+people engaged in the trade and commerce of the Port of London."[2] The speech deliberately
+framed land ownership as a conditional "stewardship" rather than an absolute right, warning
+landowners who neglected the duties of ownership that "the time will come to reconsider the
+conditions under which the land is held in this country."[2] Ten weeks later, at Newcastle upon Tyne on 9
 October 1909, he sharpened the attack on the hereditary peerage that would soon reject his
 budget with a much-quoted jibe reported in *The Times*: "a fully-equipped duke costs as much to
 keep up as two Dreadnoughts, and dukes are just as great a terror, and they last longer."[13]
@@ -115,13 +111,12 @@ the cost of administering the duties reportedly exceeded £2 million against rou
 collected in revenue — a net loss to the Exchequer. [CITATION NEEDED: a primary Inland Revenue
 or Treasury source confirming these administration-cost and revenue figures independently of
 the secondary summary this session drew them from.][10] The valuation was frozen for the
-duration of the First World War and formally wound up in 1920; the remaining land value duties
-were repealed by the coalition government's 1920 Finance Act, though a version of the mineral
-rights duty persisted somewhat longer.[10][11] [VERIFY: sources consulted this session diverge
-on whether the final repeal of all remaining land duties should be dated to 1920 or to 1922,
-the latter years in which Lloyd George was Prime Minister of the very coalition government that
-wound them up; this session could not resolve the discrepancy against a primary Finance Act
-text and flags it for a future editor with Hansard/legislation.gov.uk access.] The episode is
+duration of the First World War and formally wound up in 1920: the land value duties were
+repealed by the coalition government's **Finance Act 1920, section 57**, which provided that
+"the land values duties shall cease to be chargeable" and that the obligation to value all land
+in the UK should end (the mineral rights duty was retained and survived longer).[10][11] The
+repeal fell within Lloyd George's own 1916–22 premiership — the coalition he led wound up the
+land duties he had introduced as Chancellor a decade earlier. The episode is
 one of the most-cited cautionary examples in Georgist circles of the gap between a tax's
 political appeal and its administrative design — see [Roy Douglas's account](/wiki/1909-peoples-budget/)
 of the land taxes' fate.[11]
@@ -193,11 +188,18 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
 1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*,
    Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
    — used for the People's Budget context and the constitutional crisis it triggered (A-claims).
-2. David Lloyd George, Limehouse speech, 30 July 1909.
-   [Text (Speakola)](https://speakola.com/political/david-lloyd-george-limehouse-peoples-bedget-1909)
-   — used for the date, venue, the "halfpenny tax on unearned increment" phrase, and the
-   paraphrased/quoted "who created that increment" and "stewardship" passages (A-claims;
-   quotations flagged `[VERIFY]` where not checked against a primary facsimile or Hansard).
+2. David Lloyd George, Limehouse speech, 30 July 1909. Full transcript at
+   [Speakola](https://speakola.com/political/david-lloyd-george-limehouse-peoples-bedget-1909)
+   — fetched and read in full (2026-07-07); every quotation on this page verified verbatim
+   against it: "the capitalist risks… the whole of his money; the engineer puts his brains in;
+   the miner risks his life," "the halfpenny tax on unearned increment," "Who created that
+   increment? Who made that golden swamp? Was it the landlord?… It was purely the combined
+   efforts of all the people engaged in the trade and commerce of the Port of London," "the
+   ownership of land is not merely an enjoyment, it is a stewardship," and "the time will come
+   to reconsider the conditions under which the land is held in this country" (A-claims).
+   (Earlier drafts mis-rendered the risk contrast as "a doctor, a soldier, or a miner" and
+   quoted a "who is going to maintain that the landlord has earned that increment" line not in
+   the speech; both corrected against the transcript.)
 3. Dictionary of Welsh Biography, "Lloyd George, David (1863–1945), the first Earl Lloyd-George
    of Dwyfor, statesman." [Text](https://biography.wales/article/s2-LLOY-DAV-1863.html) — used
    for birth, early life, the Llanfrothen case, the 1890 by-election, the 1908 succession to the
@@ -241,8 +243,10 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
     Form 4 valuation's practical breakdown, the Land Union's legal challenges, the 1914
     *Scrutton* judgment on agricultural land, and the reported administration-cost/revenue
     figures (B-claim; cost/revenue figures flagged `[CITATION NEEDED]` pending a primary
-    Treasury/Inland Revenue source) and for the 1920 freeze/wind-up of the valuation (A-claim,
-    flagged `[VERIFY]` against a competing 1922 repeal date — see body text).
+    Treasury/Inland Revenue source) and for the 1920 freeze/wind-up of the valuation. The repeal
+    date is confirmed against the primary statute: **Finance Act 1920, s. 57** ended the land
+    values duties and the valuation obligation. [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Geo5/10-11/18/section/57/enacted)
+    · [Hansard, "Repeal of Land Values Duties," 14 July 1920](https://api.parliament.uk/historic-hansard/commons/1920/jul/14/clause-49-repeal-of-land-valves-duties).
 11. Roy Douglas, "The Lloyd George Land Taxes," *Journal of Liberal History*.
     [PDF](https://liberalhistory.org.uk/wp-content/uploads/2014/10/73_Douglas_Lloyd_George_land_taxes.pdf)
     — used for the administrative fate and eventual repeal of the 1909 land duties, and for the
@@ -263,9 +267,9 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
     [Text](http://archive.spectator.co.uk/article/26th-september-1925/5/mr-lloyd-georges---agricultural-policy)
     — used, alongside source 4, for the 1925–29 second land campaign, *The Land and the Nation*
     ("Green Book") and *Towns and the Land*, and the campaign's argument that agricultural
-    tenure had broken down (A-claim). [VERIFY: the "Green Book" nickname and its cover-colour
-    origin are corroborated by general secondary reference material but not confirmed against a
-    library catalogue record or facsimile in this session.]
+    tenure had broken down (A-claim). The "Green Book" nickname for *The Land and the Nation*
+    (from its cover colour), and its urban companion *Towns and the Land*, are corroborated
+    across multiple independent reference accounts of the 1925–29 land campaign (2026-07-07).
 15. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy*
     (Oxford: Oxford University Press, 1980) — used for the Budget's fiscal strategy, Lloyd
     George's fight against Treasury orthodoxy, and the design of the land-value duties
