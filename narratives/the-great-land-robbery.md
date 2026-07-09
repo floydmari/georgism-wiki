@@ -214,6 +214,7 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 ## See Also
 
 - [A Short History of Enclosure in Britain (Fairlie)](/wiki/fairlie-short-history-enclosure/) — the British backbone, with counter-evidence
+- [Enclosure](/wiki/enclosure/) — the legal mechanism of English land dispossession
 - [The Land Question](/wiki/the-land-question/) · [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) — George's own statements
 - [Land Monopoly](/wiki/land-monopoly/) — the structural claim
 - [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) — the strongest reply

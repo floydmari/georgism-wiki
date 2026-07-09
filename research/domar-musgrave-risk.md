@@ -57,10 +57,20 @@ flags on the [cash-flow tax](/wiki/cash-flow-tax/) page).
 
 1. Evsey Domar & Richard Musgrave (1944), "Proportional Income Taxation and
    Risk-Taking," *Quarterly Journal of Economics* 58(3), 388–422 — used for the
-   loss-offset result (citation corroborated across QJE/RePEc/Semantic Scholar
-   listings; the content characterization is the literature's standard reading —
-   direct read proxy-blocked this session).
-   [OUP](https://academic.oup.com/qje/article-abstract/58/3/388/1896885)
+   loss-offset result. Citation (title, authors, journal, volume, issue, pages,
+   year) confirmed across QJE/OUP, RePEc, and Semantic Scholar listings. The
+   content characterization is corroborated by two independent expert sources that
+   directly restate the 1944 result: with full loss offset, "the expected profit
+   per unit of risk is invariant to taxes because both upside and downside are
+   reduced at the same tax rate," while with only partial offset "the upside is
+   reduced by more than the downside, so a tax increase will reduce the expected
+   profit per unit of risk . . . and firms should respond by reducing risk"
+   (Ljungqvist, Zhang & Zuo, NBER WP 21834,
+   [PDF](https://www.nber.org/system/files/working_papers/w21834/revisions/w21834.rev2.pdf)),
+   and the naming of the "Domar–Musgrave effect" for the result that capital-income
+   taxation with full offset provisions can raise risky investment
+   ([arXiv:2311.05822](https://arxiv.org/pdf/2311.05822)). The QJE full text
+   itself remains paywalled ([OUP](https://academic.oup.com/qje/article-abstract/58/3/388/1896885)).
 2. Stephen Bond & Michael Devereux (1995), "On the Design of a Neutral Business
    Tax under Uncertainty," *Journal of Public Economics* 58(1), 57–71 — used for
    the extension of rent-tax neutrality to uncertainty conditional on loss

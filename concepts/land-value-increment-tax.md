@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, land-value-increment-tax, taiwan, sun-yat-sen, unearned-increment, land-value-capture]
 stub: false
 excerpt: "Taiwan's constitutionally rooted tax on the realized gain in a parcel's assessed land value between transactions, distinct from recurrent land value taxation and structurally related to betterment levies."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-09
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ The **Land Value Increment Tax (LVIT)** (Chinese: 土地增值稅, *tǔdì zēng
 
 The LVIT's intellectual roots trace to [Sun Yat-sen](/wiki/sun-yat-sen/), founding figure of the Republic of China, whose principle of **"equalization of land rights"** (one of his Three Principles of the People) was directly influenced by [Henry George](/wiki/henry-george/).[1] Sun's land program was institutionalized through the **1954 Statute for the Equalization of Land Rights**, which followed the 1949–1953 "land-to-the-tiller" agricultural reforms.[2] The [Taiwan Land Reform (1950s)](/wiki/taiwan-land-reform-1950s/) established the policy framework within which the LVIT and the recurrent land value tax subsequently developed.[2]
 
-The LVIT was established as a standing fiscal instrument within the **1954 Equalization of Land Rights framework** itself — the mechanism by which the natural increment of land value accrues to the public — rather than by separate later legislation; its rules were subsequently consolidated in Taiwan's **Land Tax Act** (verified this session via the Republic of China Laws & Regulations Database and the Lincoln Institute Taiwan case study).[2]
+The **1954 Statute for the Equalization of Land Rights** set the foundational guidelines for Taiwan's land taxation, which the Lincoln Institute case study summarises as four principles: "1) fair assessment of land value; 2) taxation according to declared value; 3) government optional purchase at declared value; and 4) public enjoyment of future land value increment" — the last of these being the seed of the LVIT.[1] The tax was given operative legal force by the **Land Tax Law, passed in 1977**, which (per the same case study) "defined the revenue base and the rates of Land Value Tax (LVT) and the Land Value Increment Tax (LVIT)." The LVIT is thus a standing fiscal institution rooted in the 1954 constitutional-era framework but enacted in detail by the 1977 statute; its rules are today consolidated in Taiwan's **Land Tax Act** (verified this session against the Republic of China Laws & Regulations Database and the Lincoln Institute case study).[1][4]
 
 ## Mechanics
 
@@ -27,8 +27,19 @@ Key design features as documented by the Lincoln Institute case study include:[1
 - **Tax base** is the increment: the difference between the current declared/assessed value and the previously declared/assessed value at the prior transaction.
 - **Purpose**: to return socially created land value to the public and to discourage speculative land holding.
 
-[CITATION NEEDED: the specific tax rate(s) applied to the increment, any progressive or tiered rate structure, exemptions, and the relationship between owner-declared values and government-assessed values — the supplied corpus does not contain these details.]
-Taiwan's system does use **owner self-declaration** of land value: the land value increment tax is levied on lands whose owners have declared their land values, with the government retaining reassessment authority — the same declared/assessed land value serving as the reference point for the tax (confirmed this session via the Land Tax Act and the Equalization of Land Rights Act).[2]
+**Rate structure (progressive, current law).** Under the Land Tax Act (Article 33, verified this session against the Laws & Regulations Database of the Republic of China), the LVIT applies **regular progressive rates of 20%, 30%, and 40%**, computed bracket-by-bracket against the ratio of the increment to the base:[4]
+
+- **20%** on the increment up to 100% of the original assigned land value (or the previous-transfer value);
+- **30%** on the portion of the increment between 100% and 200%; and
+- **40%** on the portion exceeding 200%.
+
+(These are the current rates, verified against the Land Tax Act as amended to 2025. The higher **40%/50%/60%** schedule described in the 1998 Lincoln Institute case study was reduced to the present 20%/30%/40% by a later amendment to the Land Tax Act — the reduction is confirmed by comparing the 1998 study with current Article 33, though this session did not fetch a source pinning the exact amendment year.[4][1])
+
+**Self-use residence preferential rate.** When an owner sells a qualifying self-use residence, a flat **10%** rate applies to the increment on urban land up to 3 acres or non-urban land up to 7 acres (using the "acres" rendering of the official English translation), per Land Tax Act Article 34 and Taiwan's Ministry-level guidance (Invest Taiwan); the portion above those areas is taxed at the regular progressive rates.[4][5] Long-held land (20 years or more) is eligible for further statutory reductions.[5]
+
+**Exemptions.** Transfers of public land, certain agricultural land, and land donated to social-welfare non-profit organisations are exempt.[1]
+
+**Owner self-declaration.** Taiwan's system rests on **owner self-declaration** of land value: the tax base is the "declared present value" at transfer, measured against the previously declared/assessed value, with the tax authority reviewing declarations against the government's assessed present value (Land Tax Act Articles 30–31). The government retains reassessment authority, and the same declared/assessed land value that anchors the recurrent land value tax also serves as the reference point for the LVIT.[4]
 
 ## Relation to Betterment Levy and Recurrent LVT
 
@@ -49,7 +60,7 @@ Taiwan operates the LVIT **alongside** a recurrent land value tax, creating a tw
 
 This combination addresses a limitation of event-based capture alone: if land is never sold, no increment is ever taxed. The recurrent tax ensures continuous capture, while the LVIT recovers accumulated gains at realization. The design reflects Sun Yat-sen's dual approach to equalizing land rights — both ongoing taxation of land value and capture of the unearned increment.[1]
 
-[VERIFY: whether the recurrent LVT and the LVIT use the same assessed land value as their base, or whether separate valuations are maintained — the supplied corpus does not specify this administrative detail.]
+Both taxes descend from the single declared/assessed land-value system established by the Equalization of Land Rights, but they draw on **distinct valuations with different timing**. The recurrent LVT is levied on the *Assessed Land Value*, which is reevaluated on a multi-year cycle (the Lincoln Institute case study reports revaluation every three years). The LVIT increment, by contrast, is measured against the *Official Declared Present Value* (ODPV), which is announced annually (on July 1). So while the two taxes share a common valuation framework, the LVIT is not simply computed off the current LVT base — it uses the declared present value at transfer relative to the declared/assessed value at the prior transfer.[1][4]
 
 ## Significance
 
@@ -73,6 +84,7 @@ The LVIT is also significant as a real-world implementation of [John Stuart Mill
 2. Wiki corpus: [Taiwan Land Reform (1950s)](/wiki/taiwan-land-reform-1950s/) — used for the 1949–1953 land-to-the-tiller reforms and the 1954 Statute for the Equalization of Land Rights as the policy framework foundational to the LVIT. That page's source is the same Lincoln Institute case study.
 3. Wiki corpus: [Betterment Levy](/wiki/betterment-levy/) — used for the structural comparison between event-based betterment levies and the LVIT, and for the history of UK betterment levy repeals.
 
-[CITATION NEEDED: the specific tax rate(s), progressive rate structure, exemptions, and self-declaration mechanics of Taiwan's LVIT — the Lincoln Institute case study is cited in the corpus but its full text was not available in this session.]
-[CITATION NEEDED: a scholarly comparative analysis of why Taiwan's LVIT persisted while UK betterment levies were repeatedly repealed.]
-[CITATION NEEDED: the precise enactment date of the LVIT as a standing fiscal instrument, and the legislative text establishing it.]
+4. **Land Tax Act** (土地稅法), Republic of China (Taiwan), Laws & Regulations Database of the Republic of China — English text at [law.moj.gov.tw/ENG/…pcode=G0340096](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=G0340096). Verified verbatim this session. Article 33 (progressive rates 20%/30%/40% by increment bracket), Article 34 (10% self-use residence rate; 3-acre urban / 7-acre non-urban thresholds), Articles 30–31 (declared present value as tax base; review against assessed present value). Used for the current rate structure, self-use preferential rate, exemptions structure, and self-declaration mechanics.
+5. **Invest Taiwan / Ministry of Economic Affairs**, "Introduction of Taiwan Tax System — Land Value Increment Tax," [investtaiwan.nat.gov.tw/showPage?lang=eng&search=68](https://investtaiwan.nat.gov.tw/showPage?lang=eng&search=68). Verified this session. Used for the taxpayer definition, the increment-computation formula, the "regular progressive rates range from 20% to 40%," the 10% self-use residential rate, and the 20-year-plus long-term-ownership reduction.
+
+[CITATION NEEDED: a scholarly comparative analysis of why Taiwan's LVIT persisted while UK betterment levies were repeatedly repealed — not located this session.]
