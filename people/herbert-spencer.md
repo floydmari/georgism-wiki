@@ -50,6 +50,7 @@ Spencer occupies a distinctive place in Georgist intellectual history: not as a 
 
 ## See Also
 
+- [The Right to the Use of the Earth (Spencer, 1851)](/wiki/social-statics-right-to-use-earth/) — the full text of *Social Statics* Ch. IX
 - [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) — Henry George's 1892 critique of Spencer's reversal
 - [Henry George](/wiki/henry-george/) — the Georgist thinker who engaged Spencer most extensively
 - [John Locke](/wiki/john-locke/) — the earlier natural-rights theorist whose proviso prefigures the equal-right-to-land argument

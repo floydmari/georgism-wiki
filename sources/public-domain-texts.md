@@ -15,7 +15,7 @@ This tracker drives Floyd's standing request: *add as `texts/` any and all publi
 ## To add — short works, full text in hand (do these first)
 - [x] **Lloyd George, Limehouse speech (30 July 1909)** → texts/limehouse-speech-1909 *(created 2026-07-07)*
 - [x] **Winston Churchill, "The Mother of All Monopolies" — King's Theatre, Edinburgh, 17 July 1909** → texts/churchill-mother-of-monopolies-1909 *(created 2026-07-07)*
-- [ ] **Herbert Spencer, *Social Statics* (1851), Ch. IX "The Right to the Use of the Earth"** — full chapter fetched (cooperative-individualism.org). Short (~4,000 words). Cited on herbert-spencer, a-perplexed-philosopher.
+- [x] **Herbert Spencer, *Social Statics* (1851), Ch. IX "The Right to the Use of the Earth"** → texts/social-statics-right-to-use-earth *(created 2026-07-07)*
 
 ## To add — short works, need to fetch/confirm full text
 - [ ] John Stuart Mill, *Programme of the Land Tenure Reform Association* (1871) — short; cited on mill-principles-land, land-tenure-reform-association.
