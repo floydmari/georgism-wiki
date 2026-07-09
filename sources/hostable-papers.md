@@ -13,6 +13,7 @@ Hosting basis legend: **WP** = freely distributable working paper (NBER/RFF/SSRN
 | Goulder (1995), "Environmental Taxation and the 'Double Dividend': A Reader's Guide," *ITPF* 2(2) | concepts/pigouvian-taxation | https://www.nber.org/papers/w4896 | WP | NBER WP 4896. |
 | Rennert et al. (2022), "Comprehensive evidence implies a higher social cost of CO₂," *Nature* 610 | concepts/pigouvian-taxation | RFF working-paper version (rff.org) | WP | *Nature* version paywalled; the RFF WP is the mirrorable one. |
 | Hilber & Vermeulen (2016), "The Impact of Supply Constraints on House Prices in England," *Economic Journal* 126(591) | research/hilber-vermeulen-england-supply | https://cep.lse.ac.uk/pubs/download/sercdp0119.pdf | WP | SERC Discussion Paper 119 (open); EJ version of record paywalled. |
+| Rochet & Tirole (2003), "Platform Competition in Two-Sided Markets," *JEEA* 1(4); and (2006) "A Progress Report," *RAND J. Econ.* 37(3) | research/rochet-tirole-two-sided | https://www.tse-fr.eu/sites/default/files/medias/doc/wp/2002/platform.pdf · https://www.tse-fr.eu/sites/default/files/medias/doc/by/rochet/rochet_tirole.pdf | WP | TSE/IDEI working-paper copies; journal versions paywalled. |
 | Arnott & Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *QJE* | concepts/henry-george-theorem, arnott-stiglitz-henry-george-theorem | https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf | AM | Already an open PDF in registry. |
 
 ## How to grow this list
