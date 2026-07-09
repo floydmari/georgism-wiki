@@ -24,6 +24,7 @@ Although the land value duties themselves were complex, under-yielding, and late
 - [Single Tax](/wiki/single-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/)
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the argument this budget was built on
 - [The People's Budget: Speech Introducing the Finance Bill (1909)](/wiki/peoples-budget-speech-1909/) — Lloyd George's speech, held in full
+- [The Limehouse Speech (1909)](/wiki/limehouse-speech-1909/) — his combative 30 July 1909 mass-meeting defence of the budget, held in full
 
 ## Sources
 

@@ -53,8 +53,9 @@ President of the Board of Trade, campaigned alongside him for the duties, collec
 1909 speeches as *The People's Rights*.[7]
 
 Lloyd George defended the budget at a mass meeting at the Edinburgh Castle public house,
-Limehouse, on 30 July 1909 — the "Limehouse speech" that gave its name to a whole style of
-combative populist oratory ("to limehouse," briefly, entered political slang).[2]
+Limehouse, on 30 July 1909 — the [**Limehouse speech**](/wiki/limehouse-speech-1909/) (reproduced
+in full on this wiki) that gave its name to a whole style of combative populist oratory
+("to limehouse," briefly, entered political slang).[2]
 Contrasting land rent that requires no labour with the contributions of those who take real
 risk — "the capitalist risks, at any rate, the whole of his money; the engineer puts his
 brains in; the miner risks his life" — he described the land value duty in his own phrase as
