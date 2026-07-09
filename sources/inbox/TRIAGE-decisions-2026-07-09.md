@@ -2,7 +2,7 @@
 
 T1 triage of the 17 `DISCOVERY-*.report.md` reports (~600 candidates). Acceptance rule: ≥2 existing substantive pages must want it, or it strengthens an outcome/objection; reject anything already having a page.
 
-## ACCEPTED — create as sourced stubs (ranked by demand)
+## ACCEPTED — all 7 created as sourced stubs (2026-07-09)
 1. **Enclosure / Parliamentary enclosure** → `concepts/enclosure.md` — wanted by 11 pages (land-as-commons, land-monopoly, speculative-vacancy, unearned-increment, the-great-land-robbery, land-tenure-reform-association, herbert-spencer, jm-neeson, social-statics-right-to-use-earth, open-letter-to-gorbachev, narratives/_framework). **[done 2026-07-09]**
 2. **Physiocrats / Quesnay (impôt unique)** → `concepts/physiocrats.md` — 7 pages (atcor, land-value-tax, single-tax, land-rent-could-fund-government, ronald-burgess, gaffney-hidden-taxable-capacity, hudson-killing-the-host).
 3. **Garden City movement** → `concepts/garden-city-movement.md` — 7 pages (community-land-trust, land-value-capture, land-value-tax, speculative-vacancy, unearned-increment, community-creates-land-value, unearned-increment-narrative).

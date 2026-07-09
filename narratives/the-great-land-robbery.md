@@ -213,6 +213,7 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## See Also
 
+- [Johnson V Mcintosh](/wiki/johnson-v-mcintosh/) — the 1823 'discovery doctrine' case underpinning US land dispossession
 - [A Short History of Enclosure in Britain (Fairlie)](/wiki/fairlie-short-history-enclosure/) — the British backbone, with counter-evidence
 - [Enclosure](/wiki/enclosure/) — the legal mechanism of English land dispossession
 - [The Land Question](/wiki/the-land-question/) · [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) — George's own statements

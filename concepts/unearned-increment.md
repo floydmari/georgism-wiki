@@ -51,6 +51,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Garden City Movement](/wiki/garden-city-movement/) — Howard's rate-rent captured exactly the unearned increment
 - [Economic Rent](/wiki/economic-rent/) — the broader concept
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response
 - [Henry George](/wiki/henry-george/) — who built his case on the unearned increment

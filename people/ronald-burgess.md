@@ -28,6 +28,8 @@ Ronald Burgess (d. 2002) was a British economist and Georgist policy advocate, d
 
 ## See Also
 
+- [Colin Clark](/wiki/colin-clark/) — the economist whose 25% tax-limit Burgess builds on
+- [Physiocrats](/wiki/physiocrats/) — the Physiocratic lineage Burgess traces
 - [Public Revenue Without Taxation](/wiki/public-revenue-without-taxation/) — book page
 - [Henry George](/wiki/henry-george/) — the tradition Burgess extends
 - [Single Tax](/wiki/single-tax/) — the policy Burgess advocates

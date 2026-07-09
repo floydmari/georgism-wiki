@@ -79,6 +79,7 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
 ## See Also
 
+- [Liberation Theology](/wiki/liberation-theology/) — the movement Andelson & Dawsey linked to Georgist land ethics
 - [Geoism](/wiki/geoism/) — the generalized system: all rents, not only land (the wiki's full scope)
 
 - [Henry George](/wiki/henry-george/) — the movement's founder

@@ -98,6 +98,7 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 
 ## See Also
 
+- [Physiocrats](/wiki/physiocrats/) — the *produit net* / *impôt unique* forerunners of land-value taxation
 - [Site Value](/wiki/site-value/)
 
 - [Land Value Capture](/wiki/land-value-capture/)

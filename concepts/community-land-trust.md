@@ -99,6 +99,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Garden City Movement](/wiki/garden-city-movement/) — the trustee-held Garden City land model the CLT descends from
 - [Land Value Capture](/wiki/land-value-capture/) — the general category the CLT is a voluntary form of
 - [Unearned Increment](/wiki/unearned-increment/) · [Ground Rent](/wiki/ground-rent/) — the value the trust captures through its lease
 - [Land as Commons](/wiki/land-as-commons/) — the principle the CLT institutionalises

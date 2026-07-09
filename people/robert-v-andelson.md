@@ -32,6 +32,7 @@ Robert V. Andelson (1931–2003) was an American philosopher and Georgist schola
 
 ## See Also
 
+- [Liberation Theology](/wiki/liberation-theology/) — the movement his *From Wasteland to Promised Land* addressed
 - [Henry George](/wiki/henry-george/) — the thinker Andelson defended and analyzed
 - [Critics of Henry George](/wiki/critics-of-henry-george/) — Andelson's major edited volume
 - [Georgism](/wiki/georgism/) — the tradition Andelson championed
