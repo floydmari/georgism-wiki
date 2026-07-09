@@ -5,10 +5,10 @@ tags: [research, hudson, fire-sector, rent, financialization, debt, book]
 authors: [Michael Hudson]
 year: 2015
 tier: important
-source_url: https://archive.org/details/isbn_9780989763752
+source_url: https://www.counterpunch.org/wp-content/uploads/2015/08/Killing-The-Host_PDF_V7.pdf
 stub: false
 excerpt: "Michael Hudson's 2015 polemic arguing the finance-insurance-real-estate (FIRE) sector extracts economic rent — chiefly land rent capitalized into mortgage debt — at the expense of industrial capitalism, and that classical economics' rent theory was deliberately erased from the mainstream."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-09
 supports_outcomes: []
 ---
 
@@ -36,21 +36,34 @@ that banks lend against **land and real estate as collateral**, and that this cr
 capitalized directly into land prices: rising mortgage debt bids up land values, and rising
 land values in turn support larger mortgage loans, in a self-reinforcing cycle. In this account,
 much of what national income statistics record as financial-sector "output" is actually a claim
-on rent that ultimately traces back to land value, dressed up as a return to capital. This is
-Hudson's interpretive framework for connecting classical land-rent theory to modern banking
+on rent that ultimately traces back to land value, dressed up as a return to capital. The
+primary text is explicit on both halves of this claim. On the land-credit channel, Hudson writes
+that by 2012 "over 60 percent of the value of today's homes in the United States is owed to
+creditors, so that most rental value is paid as interest to banks, not to the community," with a
+tax shift off property producing "a rising mortgage debt by homebuyers paying access prices bid
+up on bank credit." On the national-accounts point, he argues that "about half of what the media
+report as 'industrial profits' are FIRE-sector rents … and most of the remaining 'profits' are
+monopoly rents," so that "rents are conflated with profit." [Source: Hudson, *Killing the Host*,
+Introduction.] This is Hudson's interpretive framework for connecting classical land-rent theory
+to modern banking
 (C/D-claim); it parallels, and is likely one of the sources for, the land-credit feedback loop
 described independently by [Ryan-Collins, Lloyd, and Macfarlane](/wiki/ryan-collins-rethinking-land-housing/)
 and the boom-bust dynamics of the [18-year land cycle](/wiki/18-year-land-cycle/).
 
-Hudson frames this dynamic adversarially, describing the FIRE sector as a "parasite" that
-disguises itself as part of the host economy — attaching itself to production, disabling the
-host's own understanding of what is happening to it, and ultimately consuming the surplus that
-would otherwise fund productive growth and public investment.
-[CITATION NEEDED: exact page/wording of the parasite metaphor as stated in the book — verify
-against the primary text rather than secondary summaries] Reviewers and the publisher's own
-description of the book consistently characterize the FIRE sector's growth as coming "at the
-expense of industrial capitalism and governments," worsening economic polarization between
-asset owners and wage earners.
+Hudson frames this dynamic adversarially, developing at length a biological metaphor in which
+the FIRE sector is a "parasite" that disguises itself as part of the host economy. In the book's
+own words, the strategy is "an Orwellian strategy of rhetorical deception to represent finance
+and other rentier sectors as being part of the economy, not external to it. This is precisely
+the strategy that parasites in nature use to deceive their hosts that they are not free riders
+but part of the host's own body, deserving careful protection." Hudson extends the metaphor to
+the "brain": the parasite must "take control of the host's brain, at first to dull its awareness
+that an invader has attached itself, and then to make the host believe that the free rider is
+helping rather than depleting it" — and he identifies that brain with government, arguing the
+financial sector's strategy "involves disabling the economy's 'brain' — the government."
+[Source: Hudson, *Killing the Host*, Introduction, "The Parasite, the Host, and Control of the
+Economy's Brain."] The publisher's own description and reviewers likewise characterize the FIRE
+sector's growth as coming at the expense of industrial capitalism and governments, worsening
+economic polarization between asset owners and wage earners.
 
 ### The historical account: how rent theory was dropped from economics
 
@@ -65,11 +78,18 @@ not something this page can verify independently from context gathered so far �
 classical distinction between earned income and unearned rent was progressively erased from
 mainstream ("neoclassical") economics from the late nineteenth century onward, in part because
 it was analytically inconvenient for a finance sector whose income increasingly took a rentier
-form. [CITATION NEEDED: primary-text passage and page reference for Hudson's specific account of
-the marginalist/neoclassical elision of rent theory] This is a historiographic and interpretive
-claim (A/D) about the discipline's development, not a claim the wiki can currently verify beyond
-the secondary review cited here; it should be read as "Hudson argues," not as an established
-account of the history of economic thought.
+form. The primary text bears this out directly: Hudson writes that "the classical concept of
+economic rent has been censored by calling finance, real estate and monopolies 'industries,'"
+so that "rents are conflated with profit" by "financial intruders and rentiers seeking to erase
+the language and concepts of Adam Smith, Ricardo and their contemporaries depicting rents as
+parasitic." He specifically indicts the marginalist turn: "The Marginalist Revolution looks
+nearsightedly at small changes, taking the existing environment for granted and depicting any
+adverse 'disturbance' as being self-correcting," with the effect that "there is no need to
+regulate and tax the rentiers." [Source: Hudson, *Killing the Host*, Introduction.] This remains
+a historiographic and interpretive claim (A/D) about the discipline's development — it should be
+read as "Hudson argues," not as an established consensus account of the history of economic
+thought — but the wording is now confirmed against the primary text rather than only the
+secondary review.
 
 ### Policy conclusions
 
@@ -84,10 +104,17 @@ macroeconomic stimulus.[2] The book itself further argues for **debt write-downs
 Hudson holds that a large share of accumulated private debt reflects rent-extraction and
 speculative lending rather than productive borrowing capacity, he contends much of it cannot
 realistically be repaid out of future production and should be written down rather than
-enforced to the point of prolonged debt deflation. [CITATION NEEDED: primary-text statement of
-the specific debt-writedown mechanism or historical precedent (e.g. Bronze Age debt jubilees)
-Hudson proposes in this book, to distinguish it from his separate scholarship on ancient debt
-cancellation]
+enforced to the point of prolonged debt deflation. He states the principle bluntly — "Debts
+that can't be paid, won't be" — and frames the real choice as between two ways of not paying:
+forced sell-off and forfeiture of assets, "the most drastic and disruptive way," versus the
+alternative of writing "down debts to a level that can be paid." He notes that "bankers and
+bondholders prefer the former option" and "oppose debt write-downs." The book connects this
+modern proposal to ancient precedent: a chapter is titled "Financial Austerity or a Clean
+Slate?", and Hudson invokes the Bronze Age Mesopotamian and Biblical Jubilee-Year traditions of
+royal debt cancellation ("Clean Slate proclamations") as historical evidence that periodic
+write-downs were a normal restorative mechanism, contrasting them with the modern pro-creditor
+insistence that all debts must be paid. [Source: Hudson, *Killing the Host*, Introduction and
+Chapter 26, "Financial Austerity or a Clean Slate?"]
 
 ## Relation to Georgist Rent Theory
 
@@ -178,10 +205,12 @@ The strongest sourced criticisms of the book fall into three categories:
    the Global Economy*, Islet (print) / CounterPunch Books (e-book), ISBN 978-0-9897637-5-2.
    [Internet Archive](https://archive.org/details/isbn_9780989763752) (borrowable digital copy,
    confirmed to exist) · [Free PDF, CounterPunch](https://www.counterpunch.org/wp-content/uploads/2015/08/Killing-The-Host_PDF_V7.pdf)
-   (link located via search; could not be directly fetched to quote from in this session) —
-   the primary text; used for the book's existence, title, publisher, and ISBN. [CITATION
-   NEEDED: direct page citations from the primary text for the specific claims in "The
-   Argument" section above — this page currently relies on secondary reviews and the wiki's
-   own prior summaries (people/michael-hudson.md, narratives/the-rentier-economy.md) rather
-   than a direct read of the book, and should be deepened further when the primary text is
-   accessible.]
+   — the primary text. The open-access CounterPunch e-book PDF was successfully fetched and
+   converted to text for this review; all quotations attributed to "the primary text" in "The
+   Argument" section above (the parasite/host/brain metaphor, the marginalist-elision passage,
+   the "Debts that can't be paid, won't be" principle, the Clean Slate / Jubilee framing, and
+   the FIRE-rent and land-credit passages) are verbatim from the book's Introduction and named
+   chapters and were confirmed against this copy. Chapter-level locations are cited inline; exact
+   print page numbers are not given because the e-book PDF uses front-matter roman-numeral and
+   internal pagination that does not map cleanly to the print edition. [VERIFY: exact print-edition
+   page numbers for the quoted passages, if precise pagination is later required.]

@@ -42,16 +42,19 @@ variable cost while excluding Selling, General & Administrative (SG&A) expenses 
 methodological fork later disputed by critics (see Nuances and Limits below).
 
 **Headline finding.** Aggregate markups were roughly flat (even slightly declining) from 1955 to
-about 1980, then began a sustained rise: the sales-weighted average markup rose from **roughly 21%
-above marginal cost (a markup ratio of about 1.21) in 1980 to roughly 61% above marginal cost
-(about 1.61) by 2016** [VERIFY: exact endpoint values are corroborated by several independent
-secondary sources (search-engine summaries of the abstract and of Basu 2019's discussion, which
-cites "1.21 in 1980 to 1.61 in 2016") but this session's web access could not fetch the primary
-PDF or the QJE abstract page directly (both returned HTTP 403); a future editor with working
-access should confirm the exact figures and page reference against the published article]. Over
-the same period the aggregate **average profit rate** — profit as a share of sales — is reported
-to have risen from about 1% to about 8% [VERIFY: same access caveat; corroborated by secondary
-summaries of the paper's macro-implications section, not confirmed against primary text].
+about 1980, then began a sustained rise. The exact endpoint values differ between the working-paper
+and published versions, and the distinction matters:
+- The **2017 NBER working paper** (fetched and read directly) states: "In 1980, average markups
+  start to rise from 18% above marginal cost to 67% now," with "average markups reaching **1.67**
+  in 2014" — i.e. a rise from a markup ratio of about **1.18 (1980) to 1.67 (2014)**.[1]
+- The **published 2020 QJE version** (De Loecker, Eeckhout & Unger), after re-estimation and in
+  response to measurement critiques, reports the widely-cited figures of about **1.21 (1980) to
+  1.61 (2016)**.[1]
+Either way the qualitative finding is the same: sales-weighted average markups were roughly flat
+before ~1980 and rose sharply thereafter. Over the same period the aggregate **average profit
+rate** (profit as a share of sales) is reported to have risen from about 1% to about 8% in the
+published version — a figure drawn from the paywalled QJE, not re-verified against the working
+paper here.
 
 **Distributional shape of the rise.** The increase is not a broad-based shift by most firms: it is
 driven almost entirely by the **upper tail** of the markup distribution. Firms at high percentiles
@@ -218,14 +221,7 @@ have roughly tripled since 1980" as settled fact.
 1. Jan De Loecker, Jan Eeckhout & Gabriel Unger (2020), "The Rise of Market Power and the
    Macroeconomic Implications," *Quarterly Journal of Economics* 135(2), 561–644.
    [DOI: 10.1093/qje/qjz041](https://doi.org/10.1093/qje/qjz041) ·
-   [NBER Working Paper 23687 (2017 version)](https://www.nber.org/papers/w23687) — used for the
-   paper's core method, headline markup and profit-rate findings, distributional shape of the
-   rise, and macro implications for labor share, capital share, and business dynamism. **Note:**
-   this session's web access returned HTTP 403 on direct fetches of the QJE abstract page, the
-   NBER PDF, and several author-hosted PDF mirrors (janeeckhout.com, crei.cat); the figures above
-   are drawn from multiple independently-agreeing search-engine summaries of the abstract and of
-   secondary discussions (including Basu 2019, below) rather than a first-hand read of the primary
-   text. A future editor with working PDF access should verify exact wording and page references.
+   Open full text: [NBER Working Paper 23687 (2017 version)](https://www.nber.org/system/files/working_papers/w23687/w23687.pdf) — **the working paper was fetched and read (2026-07-09)**; used for and verified verbatim against: the production-function markup method, the finding that markups "start to rise from 18% above marginal cost to 67% now" (a ratio of ~1.18 in 1980 to 1.67 in 2014), the services-share fact ("from 21 to 40%"), and the distributional/upper-tail shape of the rise. **Version note:** the published 2020 QJE re-estimation reports the widely-cited ~1.21 (1980) → 1.61 (2016) figures and the ~1%→8% profit-rate rise; the QJE version of record is paywalled (403) and those specific published endpoints are cited from it, not re-verified against the working paper.
 2. Jan De Loecker & Frederic Warzynski (2012), "Markups and Firm-Level Export Status," *American
    Economic Review* 102(6), 2437–2471. — used for the origin of the production-approach markup
    estimator this paper applies to the full U.S. economy (not independently re-verified this
@@ -263,9 +259,8 @@ have roughly tripled since 1980" as settled fact.
    internal navigation only (not used as external evidentiary support); records the direct rival
    efficiency-side reading of the same firm-concentration pattern.
 
-[CITATION NEEDED: a directly fetched/verified copy of the QJE 2020 primary text or the NBER
-working-paper PDF — this session's web access could not retrieve either directly (all attempts
-returned HTTP 403), only search-engine summaries that independently agree with one another on the
-headline figures (1.21→1.61 markup, 1%→8% profit rate, median unchanged, upper-tail-driven). A
-future editor should confirm exact wording, page-level citations, and the precise phrasing of the
-paper's own causal claims about labor share and business dynamism against the primary text.]
+The **2017 NBER working paper** has now been fetched and read directly (source 1), verifying the
+method, the 1.18→1.67 (1980–2014) markup figures, and the distributional shape. The **published
+2020 QJE version of record remains paywalled** (403), so its re-estimated endpoints (~1.21→1.61
+to 2016) and the ~1%→8% profit-rate figure are cited from it rather than re-verified here; the
+Benkard–Miller–Yurukoglu measurement comment (source 7) was likewise not first-hand fetchable.
