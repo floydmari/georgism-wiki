@@ -50,6 +50,7 @@ Churchill's 1909–10 land campaign is historically significant less for its eco
 ## See Also
 
 - [The People's Rights (research summary)](/wiki/churchill-peoples-rights/) — full treatment of the book and its claims
+- [The Mother of All Monopolies (1909)](/wiki/churchill-mother-of-monopolies-1909/) — the full text of his Edinburgh speech's land-monopoly section
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the legislative fight Churchill campaigned for
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the argument his speeches deployed
 - [David Lloyd George](/wiki/david-lloyd-george/) — the Chancellor whose budget Churchill defended
