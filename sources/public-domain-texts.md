@@ -22,7 +22,7 @@ This tracker drives Floyd's standing request: *add as `texts/` any and all publi
 - [x] **Churchill, "The Budget Resolutions" — House of Commons, 4 May 1909** → texts/churchill-budget-resolutions-1909 *(created 2026-07-09; text from Liberalism and the Social Problem via Gutenberg #18419)*
 
 ## To add — confirmed fetchable, next up
-- [ ] Henry George, *The Irish Land Question* / *The Land Question* (1881, Appleton) — full clean OCR confirmed at https://archive.org/download/irishlandquestio00geor/irishlandquestio00geor_djvu.txt (verified 2026-07-10); ~20k words, texts/ candidate; cited on research/the-land-question, events/irish-land-war.
+- [x] **Henry George, *The Irish Land Question* (1881, Appleton)** → texts/irish-land-question-1881 *(created 2026-07-10; ~31.5k words, 17 chapters, programmatic transcription from archive.org irishlandquestio00geor with T1 artifact pass; T2 image-proofread queued)*
 - [ ] Henry George Jr., *The Life of Henry George* (1900) — PD, full text at archive.org (lifeofhenrygeorg00geor); large (book-length) → `sources/publicdomain/` channel; already cited as a primary on 3+ pages.
 
 ## Full public-domain BOOKS we cite (→ `sources/publicdomain/`, not `texts/`)

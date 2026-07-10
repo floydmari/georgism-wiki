@@ -13,6 +13,8 @@ last_reviewed: 2026-07-10
 
 ## Summary
 
+> The full text of the 1881 pamphlet is reproduced on this wiki: [The Irish Land Question (1881, full text)](/wiki/irish-land-question-1881/).
+
 *The Land Question* was first published in March 1881 under the title ***The Irish Land Question: What It Involves, and How Alone It Can Be Settled — An Appeal to the Land Leagues*** (D. Appleton and Company, New York), and was retitled *The Land Question* in later editions to signal that its argument was not confined to Ireland. George's son and biographer records that the pamphlet "was finished at the end of February and was at once published by Appleton in New York, and a month later by William Reeves in London, John Haywood & Sons in Manchester and Cameron & Ferguson in Glasgow" (Henry George Jr., *The Life of Henry George*, 1900, p. 348). It is one of [Henry George](/wiki/henry-george/)'s shortest and most pointed works, applying the analysis of *[Progress and Poverty](/wiki/progress-and-poverty/)* (1879) directly to a live political crisis rather than developing it from first principles.
 
 ## Origins: The Irish Land War
