@@ -1,5 +1,12 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+> **⚠ 2026-07-10: the checkpoints below are STALE** (they describe the PR #9 era).
+> Current campaign state lives in **PR #15's description** (refreshed 2026-07-10) and the
+> session handoff prompts. **NEW STANDING DIRECTION (Floyd, 2026-07-10):** split
+> `outcomes/` into evidence-backed **PROBLEMS** and **BENEFITS** categories and build out
+> the gaps — full design and stub queue in **[PLAN-problems-and-benefits.md](PLAN-problems-and-benefits.md)**.
+> A regeneration of this file and sources/verification-queue.md is queued.
+
 *(The work queue for the mission in EDITORIAL.md §0: the definitive, honest reference on
 Georgism and LVT. Tasks are the FIND / READ & MINE / SYNTHESIZE / VERIFY / EXPAND motions of
 LOOP.md, tier-tagged by role: T1 editor · T2 staff writers · T3 copy desk.)*
