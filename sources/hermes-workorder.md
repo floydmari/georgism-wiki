@@ -56,23 +56,19 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/ryan-collins-rethinking-land-housing.md` — **VERIFY** foreword attribution taken from bookseller listings, not the publisher's own page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 15 of 124
+## needs-unblocked-web (proxy allowlist or manual fetch) — pruned 2026-07-10
 
-- `concepts/allowance-for-corporate-equity.md` — **VERIFY** the specific ~40%-to-MNC- vehicles figure attributed to IMF Country Report 17/70 remains single-sourced; IMF's server blocks direct PDF access (Akamai 403), so 
-- `concepts/betterment-levy.md` — **CITATION NEEDED** the specific Roy Douglas article referenced in the Lloyd George page is cited there as a Journal of Liberal History PDF — a future editor should confirm whether
-- `concepts/fire-sector.md` — **VERIFY** pull the current number when network access allows
-- `concepts/holdout-problem.md` — **VERIFY** specific mechanism details, as the full paper text was not fetched in this session; claims are drawn from the existing wiki research page and stub, which cite t
-- `concepts/land-bubble.md` — **VERIFY** the exact peak-year list against Hoyt's primary text directly
-- `concepts/land-bubble.md` — **VERIFY** pending direct confirmation against Hoyt's primary text. 6. This wiki's [2008 Financial Crisis
-- `concepts/tiebout-model.md` — **VERIFY** the precise framing of Tiebout's own caveats could not be verified from the primary text in this session; the characterization is drawn from how the paper is de
-- `concepts/tiebout-model.md` — **CITATION NEEDED** direct access to the primary text — this session could not fetch the original paper; bibliographic details are corroborated across multiple corpus pages but the
-- `concepts/tiebout-model.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session's sandboxed web access could not fetch the original paper from JSTOR or the University of Chicago 
-- `people/charles-tiebout.md` — **VERIFY** direct access to Tiebout (1956)'s primary text was not available; the characterization of his framing is drawn from how the paper is described across multiple c
-- `people/charles-tiebout.md` — **VERIFY** the precise framing of Tiebout's own caveats should be verified against the primary text
-- `people/charles-tiebout.md` — **CITATION NEEDED** direct access to the primary text — bibliographic details are corroborated across multiple independent corpus pages and are high-confidence, but the exact wordi
-- `people/charles-tiebout.md` — **CITATION NEEDED** direct access to Tiebout (1956)'s primary text — this session could not fetch the original paper from JSTOR or the University of Chicago Press. The bibliographi
-- `people/george-monbiot.md` — **VERIFY** exact proposal wording on direct read.
-- `people/herbert-spencer.md` — **VERIFY** specific chapter references, page numbers, and direct quotations could not be verified in this session — the primary text was not fetched.
+Most of the original 15 items were resolved by the 2026-07-09/10 verify-sweeps and the
+Sonnet/Haiku fallback desks (per Floyd's standing instruction: if Hermes is unresponsive,
+T2 → Sonnet, T3 → Haiku). Resolved & removed: betterment-levy, fire-sector (FRED
+VAPGDPFIRL, 21.7% at 2026 Q1), monbiot (Landfall 2019 verbatim), herbert-spencer,
+tiebout-model + charles-tiebout (course copy of Tiebout 1956), land-bubble (Hoyt DJVU).
 
+Still open:
+- `concepts/allowance-for-corporate-equity.md` — **VERIFY** the ~40%-to-MNC-vehicles figure attributed to IMF Country Report 17/70; IMF blocks direct fetch (fallback agent attempting eLibrary/Wayback 2026-07-10).
+- `concepts/holdout-problem.md` — **VERIFY** mechanism details against Plassmann & Tideman full text (fallback agent on it 2026-07-10).
+- `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's role in the exemption rollback — needs Daniel Francis's biography (print; genuine Hermes book-library item).
+- `research/social-problems.md` — image-scan only; needs OCR (genuine Hermes item).
+- Phil Anderson, *The Secret Life of Real Estate and Banking* — verify its telling of Hoyt's disavowal (print book; genuine Hermes item; Harrison verification already anchors the wiki's account).
 
 *60 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
