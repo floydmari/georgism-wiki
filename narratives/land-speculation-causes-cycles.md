@@ -8,7 +8,7 @@ narrative_type: economic
 supported_by: [lvt-dampens-land-speculation]
 related_people: [henry-george, fred-harrison, fred-foldvary, akhil-patel, mason-gaffney]
 related_places: [estonia]
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-10
 ---
 
 *This page covers the persuasive claim that land speculation drives the business cycle.
@@ -229,8 +229,15 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
    by ordinary participants, local land-use and credit institutions are slow-moving, and
    most buyers are non-professional households making infrequent, emotionally-weighted
    decisions — frictions that could, in principle, let a real but imperfectly-exploited
-   regularity persist. This is a plausible mechanism, not a proven one; the wiki has no
-   citation testing it directly. [CITATION NEEDED.]
+   regularity persist. The classic direct test supports the friction premise at short
+   horizons: Case and Shiller found that single-family home markets fail weak-form
+   efficiency tests — a city-wide real price change tends to be followed by a
+   same-direction change one-quarter to one-half as large the following year — and that
+   because of "transactions costs, carrying costs, and tax considerations, professionals
+   find it relatively difficult to take advantage of profit opportunities in this
+   market."[16] This establishes that housing markets do not arbitrage away even
+   one-year-ahead predictability; it does not test, and should not be cited as
+   confirming, an 18-year cycle.
 4. **"Foldvary's excluded prize nomination shows Georgist forecasting isn't taken
    seriously, which should make us doubt the theory."** Gaffney's own response,
    documented in the *Econ Journal Watch* piece itself, is that the exclusion reflects
@@ -331,8 +338,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     documented banking crises at each cycle peak (A/C-claim; quotation under 50 words).
 3. Homer Hoyt, *One Hundred Years of Land Values in Chicago*, University of Chicago
    Press, 1933. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich)
-   — used for the founding empirical study of the ~18-year Chicago land-value rhythm
-   (B-claim).
+   — used for the founding empirical study of the ~18-year Chicago land-value rhythm,
+   and for Hoyt's own caution that "there is no definite period of years between one
+   boom and the next" (p. 417) (B-claim; quotation under 50 words).
 4. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*,
    Shepheard-Walwyn, 2005. [Publisher](https://shepheardwalwyn.com/product/boom-bust/)
    · [wiki summary](/wiki/harrison-boom-bust/) —
@@ -343,8 +351,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
    of Economics and Sociology*, 1997; related paper "The Real Estate Cycle and the
    Depression of 2008."
    [JSTOR](https://www.jstor.org/stable/3487330); [full text (cooperative-individualism.org)](https://cooperative-individualism.org/foldvary-fred_the-business-cycle-a-georgist-austrian-synthesis-1997-oct.pdf); [wiki summary](/wiki/foldvary-business-cycle-synthesis/) — used
-   for the direct quotation of the 1997 prediction of an "around 2008" downturn
-   (A-claim; quotation under 50 words).
+   for the direct quotation of the 1997 prediction of an "around 2008" downturn, and for
+   the Georgist-Austrian reply to the "land is a symptom, not a cause" objection
+   (pp. 528, 531) (A/C-claim; quotations under 50 words).
 6. Fred Foldvary, "The Depression of 2026," Progress.org, 2012.
    [Article](https://www.progress.org/articles/the-depression-of-2026/) — used for the
    2026 extension of the cycle forecast (A-claim; outcome unresolved as of this page's
@@ -386,3 +395,17 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     used for the modern restatement of George's land-speculation theory as a structural
     feature of unregulated land markets and Hudson's bank-credit finding (A/B-claim).
     See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+15. Arvydas Jadevicius, Brian Sloan & Andrew Brown, "Century of Research on Property
+    Cycles: A Literature Review," *International Journal of Strategic Property
+    Management* 21(2), 2017, pp. 129–143.
+    [PDF (open access, journals.vilniustech.lt)](https://journals.vilniustech.lt/index.php/IJSPM/article/download/1819/1435/3829)
+    — used for the survey finding that the peer-reviewed property-cycle literature
+    reports recurrent but irregular cycles of widely varying estimated lengths (e.g.
+    Barras & Ferguson 1985: 4–5, 7–9, 19 and 28 years by sector; RICS 1999: 4–12 years)
+    rather than a statistically confirmed fixed 18-year period (B-claim).
+16. Karl E. Case & Robert J. Shiller, "The Efficiency of the Market for Single-Family
+    Homes," *American Economic Review* 79(1), 1989, pp. 125–137.
+    [Working-paper version (NBER WP 2506, free PDF)](https://www.nber.org/system/files/working_papers/w2506/w2506.pdf)
+    — used for the finding that housing markets fail weak-form efficiency tests (real
+    price changes show year-ahead persistence) and that transaction and carrying costs
+    impede professional arbitrage (B-claim; quotation under 50 words).
