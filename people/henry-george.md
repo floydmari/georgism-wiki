@@ -64,7 +64,7 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
-2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic details (custodial source).
 4. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for biographical details, the California formation, and the triple legacy (D-claims). [Book page](/wiki/barker-henry-george-biography/)
 5. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952) — used for political context and the 1886 campaign (A/D-claims). [Book page](/wiki/rendezvous-with-destiny/)

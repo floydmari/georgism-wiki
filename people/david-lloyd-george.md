@@ -192,7 +192,7 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
 
 ## Sources
 
-1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*,
+1. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*,
    Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
    — used for the People's Budget context and the constitutional crisis it triggered (A-claims).
 2. David Lloyd George, Limehouse speech, 30 July 1909. Full transcript at

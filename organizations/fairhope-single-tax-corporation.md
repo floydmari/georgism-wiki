@@ -47,4 +47,4 @@ For the broader Georgist case, Fairhope stands alongside other long-running land
 
 ## Sources
 
-1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty) — used for Fairhope's 1894 founding, the Corporation's land-leasing structure, its continued operation, and the broader single-tax colony context including Arden, Delaware.
+1. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty) — used for Fairhope's 1894 founding, the Corporation's land-leasing structure, its continued operation, and the broader single-tax colony context including Arden, Delaware.

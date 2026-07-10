@@ -67,7 +67,7 @@ Tideman's chapter argues that 100% land value taxation, introduced without compe
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — used for the proposal's original statement (A-claims). [wiki summary](/wiki/progress-and-poverty/)
-2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement's political history (A/B-claims; the modern scholarly history, on the wanted-books list for full scan). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the movement's political history (A/B-claims; the modern scholarly history, on the wanted-books list for full scan). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for the movement's spread and international influence (A-claims). [Book page](/wiki/barker-henry-george-biography/)
 4. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the modern single-tax case and the Physiocratic lineage (A/C-claims). [Book page](/wiki/public-revenue-without-taxation/)
 5. Richard Noyes (ed.), *Now the Synthesis* (London: Shepheard-Walwyn, 1991) — used for the single tax as capitalism-socialism synthesis and Tideman's constitutional argument (C/D-claims). [Book page](/wiki/now-the-synthesis/)
