@@ -14,13 +14,14 @@ supports_outcomes: []
 
 ## Overview
 
-*The People's Rights* (Hodder & Stoughton, 1910) is a short book — reportedly organized in
-outline form across six chapters — assembled from speeches Winston Churchill gave in 1909 as
-President of the Board of Trade, defending David Lloyd George's 1909 "People's Budget" and its
-land value duties against the House of Lords and the wider public.[VERIFY: the "six chapters,
-outline form" description of the book's structure is drawn from a bookseller's description
-(Churchill Book Collector) rather than a directly examined copy of the text — this session could
-not fetch the book itself; see Limits below.] It is not an economics treatise: Churchill was a
+*The People's Rights* (Hodder & Stoughton, 1910) is a short book organized in six sections —
+"The People's Rights," "The People's Budget," "The People's Trade," "The People's Land," "The
+People's Welfare," and "The People's Choice," each laid out with outline-style marginal
+headings — distilled from speeches Winston Churchill gave in 1909 as President of the Board of
+Trade (per the 1971 reprint's introduction, "a distillation of a series of speeches delivered
+in eight or nine towns in Lancashire in December, 1909"), defending David Lloyd George's 1909
+"People's Budget" and its land value duties against the House of Lords and the wider
+public.[6] It is not an economics treatise: Churchill was a
 sitting Cabinet minister making a mass-electoral case for a Liberal government policy, and the
 book should be read as **political advocacy**, not as independent evidence for the claims it
 makes (claims below are classified accordingly — mostly type D "interpretive/argumentative" or
@@ -33,10 +34,10 @@ principal source for the quotations below, and a **full transcription of it has 
 directly** (cooperative-individualism.org, "The Mother of all Monopolies," headed "From a Speech
 Delivered at King's Theatre in Edinburgh on 17 July 1909"): every land-argument and framing
 quotation attributed to the Edinburgh speech on this page has been **checked verbatim against
-that transcription** (2026-07-07) and the source notes updated accordingly. Two items remain
-unconfirmed against a primary and are still flagged: the *internal chapter structure of the
-book* (below) and Churchill's *later reversal* on land taxation (see Limits), which is a
-separate, post-1910 source.
+that transcription** (2026-07-07) and the source notes updated accordingly. In a further pass
+(2026-07-10), the book's six-section structure and the full text of its land section were read
+directly (note 6), and Churchill's later cooling on land taxation was pinned to a dated
+primary statement — his Commons speech of 5 June 1928 (note 4; see Limits).
 
 ## The Land Argument
 
@@ -127,30 +128,40 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
   Budget), not disinterested analysis. Claims drawn from it should be classified D (interpretive/
   argumentative) or, where they represent the "case for," E (advocacy), never B (empirical) or C
   (theoretical), per the wiki's [claim taxonomy](/wiki/EDITORIAL/).
-- **Churchill later reversed course.** By the 1920s, as Chancellor of the Exchequer, Churchill's
-  enthusiasm for taxing land value had cooled considerably, and secondary sources describe him
-  concluding the Georgist "single tax" theory was of declining relevance to the tax system he then
-  administered.[4] `[CITATION NEEDED: a primary Churchill statement, with date, documenting this
-  later reversal — this session found only a secondary characterization, not a quoted primary
-  source, and could not verify the claim's precision (full reversal vs. qualified retreat).]` A
-  neutral treatment of Churchill's land-tax record should note this rather than present his 1909–10
-  advocacy as his settled, lifelong view.
+- **Churchill later cooled — a qualified retreat, not a repudiation of the logic.** By the late
+  1920s, as Chancellor of the Exchequer, Churchill argued the Georgist case had been overtaken by
+  events. In his Commons speech on rating relief of 5 June 1928 he called the idea of using "the
+  rating of site values as a substitute for this powerful, fruitful fiscal engine of the petrol
+  tax… one of the greatest delusions," and argued that "Henry George failed… because… the
+  conclusion he arrived at was that land was practically the sole source of all wealth," whereas
+  "almost before the ink was dry on the book he had written, it was apparent that there were
+  hundreds of different ways of creating and possessing and gaining wealth" with little or no
+  relation to land.[4] Pressed by the Georgist MP Josiah Wedgwood on his 1909 advocacy, Churchill
+  replied, "I do not in any way belittle the logic or the argument," but held that circumstances
+  had changed.[4] A neutral treatment of Churchill's land-tax record should note this rather than
+  present his 1909–10 advocacy as his settled, lifelong view.
 - **The 1909 land value duties largely failed administratively.** The duties Churchill was
   defending in this book proved complex and under-yielding and were repealed within a decade — a
   fact already documented on [the People's Budget event page](/wiki/1909-peoples-budget/) and
   [the unearned increment narrative](/wiki/unearned-increment-narrative/).[5] The book's political
   case for the duties should not be read as vindicated by their administrative record.
-- **Verification status (updated 2026-07-07).** The full text of Churchill's Edinburgh speech of
-  17 July 1909 — the principal source for this page's quotations — has now been read directly
+- **Verification status (updated 2026-07-10).** The full text of Churchill's Edinburgh speech of
+  17 July 1909 — the principal source for this page's quotations — has been read directly
   (cooperative-individualism.org transcription), and every land-argument and framing quotation
-  attributed to it above is verified verbatim. Two things remain unverified against a primary: the
-  **book's internal chapter structure** (the "six chapters, outline form" description comes from a
-  bookseller listing; the archive.org full text was not fetchable this session), and Churchill's
-  **later cooling on land taxation** (a separate, post-1910 matter — see the reversal note above).
-  A future editor with a facsimile of the book can add page numbers and confirm exactly which 1909
-  speeches it reprints; note that Churchill gave several (Commons 4 May, Edinburgh 17 July, the
-  December Lancashire tour) and that the campaign material also circulated as the pamphlet later
-  reprinted by the Henry George Foundation as *The Menace of Land Monopoly*.
+  attributed to it above is verified verbatim. The book's **six-section structure** and the full
+  text of its land section ("The People's Land") have now also been read directly (note 6): the
+  section reprints the same campaign material as the Edinburgh speech in near-identical wording
+  (e.g., the book reads "railway services are improved" where the Edinburgh transcription has
+  "services are improved"), consistent with the book's origin in the December 1909 Lancashire
+  tour, on which Churchill re-delivered the summer's material. Churchill's **later cooling on
+  land taxation** now rests on a dated primary statement (5 June 1928 — see above and note 4).
+  A future editor with a facsimile of the whole book can still add page numbers and confirm
+  exactly which 1909 speeches each section draws on (Churchill gave several: Commons 4 May,
+  Edinburgh 17 July, the December Lancashire tour); the campaign material also circulated as the
+  pamphlet later reprinted by the Henry George Foundation as *The Menace of Land Monopoly*. The
+  archive.org scans of the book are lending-restricted 1970/1971 reprints; the 1910 text itself
+  is public domain in the United States, and the land section is freely available in full
+  (note 6).
 
 ## See Also
 
@@ -167,7 +178,11 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
    People's Rights*, Hodder & Stoughton, 1910. Cited on [Narrative: The Unearned
    Increment](/wiki/unearned-increment-narrative/), which independently establishes this speech's
    inclusion in the book. [Book record (Internet Archive)](https://archive.org/details/peoplesrights00chur)
-   — used for confirming the Edinburgh speech is part of this book (A-claim).
+   — used for confirming the Edinburgh speech is part of this book (A-claim). Nuance (2026-07-10):
+   the 1971 reprint's introduction describes the book as a distillation of the December 1909
+   Lancashire speeches, and the book's land section (note 6) carries the Edinburgh land material
+   in near-identical but not letter-for-letter wording; "reprinted in" should therefore be read
+   as "its material is carried, in near-identical form, in" the book's land section.
 2. Winston Churchill, speech at the King's Theatre, Edinburgh, 17 July 1909 ("The Mother of all
    Monopolies"), full transcription at
    [cooperative-individualism.org](https://www.cooperative-individualism.org/churchill-winston_mother-of-all-monopolies-1909.htm)
@@ -185,10 +200,27 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
    Commons, 20 October 1909. [Hansard](https://api.parliament.uk/historic-hansard/commons/1909/oct/20/clause-7-exemption-for-agricultural-land)
    — used for the fact that the 1909 land value duties legislation included debated exemptions
    for agricultural and small holdings (A-claim).
-4. Secondary characterization of Churchill's later, cooler view of land taxation as Chancellor of
-   the Exchequer, per search-engine summary of Hillsdale College Churchill Project material — used
-   cautiously for the "Churchill reversed course" limitation; see `[CITATION NEEDED]` above (this
-   is the one substantive claim on the page still awaiting a primary post-1910 Churchill source).
+4. Winston Churchill, House of Commons speech on trade and rating relief, 5 June 1928, as
+   printed in Robert Rhodes James, ed., *Winston S. Churchill: His Complete Speeches 1897–1963*
+   (8 vols.), V: 4420–21, quoted (together with the Wedgwood exchange) in Richard M. Langworth,
+   "Liberty and Taxation: Churchill, George and The People's Rights, Part 2," The Churchill
+   Project, Hillsdale College, 21 March 2019.
+   [Hillsdale Churchill Project](https://winstonchurchill.hillsdale.edu/henry-george-churchills-rejection/)
+   — fetched and read (2026-07-10); used for the dated primary statement of Churchill's later,
+   qualified retreat on land value taxation (D-claim). Wording is as printed in Rhodes James via
+   Langworth's quotation; not checked against the original volume, which is print-only.
 5. Roy Douglas, "The Lloyd George Land Taxes," *Journal of Liberal History* — already cited on
    [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — used for the
    administrative fate of the 1909 land value duties (A-claim).
+6. Winston Churchill, *The People's Rights*, Section 4, "The People's Land" — full text as
+   reproduced at [wealthandwant.com](https://wealthandwant.com/pdf/Churchill_TPL.pdf) (sourced
+   from cooperative-individualism.org), including the book's six-section table of contents
+   ("The People's Rights," "The People's Budget," "The People's Trade," "The People's Land,"
+   "The People's Welfare," "The People's Choice"), the section's outline-style marginal
+   headings, and the introduction to the 1971 reprint describing the book as "a distillation of
+   a series of speeches delivered in eight or nine towns in Lancashire in December, 1909" —
+   **fetched and read in full (2026-07-10)**; used for the book's structure and provenance
+   (A-claim) and for cross-checking the land section's wording against the Edinburgh speech
+   transcription in note 2. This supersedes the bookseller's description an earlier draft
+   relied on ("six chapters" — the divisions are section-style, and the "outline form" is the
+   marginal-heading apparatus visible in the reproduced text).
