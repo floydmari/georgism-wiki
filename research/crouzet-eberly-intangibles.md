@@ -8,7 +8,7 @@ tier: Important
 source_url: https://www.nber.org/papers/w25869
 stub: false
 excerpt: "Steelmans the efficiency reading of rising concentration: intangible capital (software, IP, brand) drove weak physical investment and rising concentration, but productivity gains — not markups — dominate in some sectors, market power in others."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-10
 supports_outcomes: []
 ---
 
@@ -25,10 +25,9 @@ closely watched venues in central banking and macroeconomics — its symposium v
 directly by policymakers — so a paper presented there carries substantial institutional weight
 independent of its later citation count. The paper was formally discussed at the symposium by
 Thomas Philippon, a leading market-power/concentration researcher in his own right, whose
-comments are also on the symposium program [VERIFY: this session could not retrieve readable text
-of Philippon's discussant comments — the fetched PDF returned only unparseable binary/stream
-content — so the substance of his response is not represented here; a future editor with working
-access should confirm whether Philippon pushed back toward a market-power reading].
+published commentary (symposium proceedings, pp. 151–169) accepts the paper's sector-by-sector
+split but pushes back toward a stronger market-power reading of the economy-wide evidence — see
+the discussant-pushback bullet in Nuances and Limits below.[7]
 
 The paper matters for this wiki because it is the most direct, mainstream **steelman of the
 efficiency interpretation** of rising U.S. industry concentration: rather than treating
@@ -173,6 +172,29 @@ exist, consistent with how [Barkai's declining-shares paper](/wiki/barkai-declin
   connected to real-estate or location advantages (e.g., logistics/distribution networks, retail
   footprints) — it treats "intangible capital" and physical capital/location as separate
   categories and does not test for interaction between them.
+- **Philippon's discussant pushback (Jackson Hole commentary).** Thomas Philippon's published
+  commentary on the paper organizes the debate into three hypotheses — efficient scale
+  ("H-EFS"), consolidation ("H-CONS"), and decreasing domestic competition ("H-DDC") — and,
+  while endorsing Crouzet and Eberly's key insight ("A key point from Crouzet and Eberly
+  (2018b) is that intangible assets can create efficiency gains and barriers to entry at the
+  same time"), concludes that "The evidence is inconsistent with optimistic EFS hypothesis":
+  under efficient scale, leaders should increase investment in concentrating industries, but
+  "at the firm level, however, we observe the opposite. Industry Leaders account for the
+  increased profit margins and for the investment gap in tangible and intangible investments."
+  He summarizes the paper's own results as "the optimistic H-EFS seems warranted for the retail
+  sector (at least so far, since what was true for Walmart might not be true for Amazon), and
+  ... the pessimistic H-DDC seems warranted for health," with "the High-tech sector [as] a mixed
+  bag of rents and efficiency" — but adds that on his and Gutiérrez's evidence "H-DDC also seems
+  to apply to many sectors outside manufacturing," that concentration and industry TFP growth
+  were positively related only in 1997–2002 and turned negative by 2007–2012, and that the
+  U.S.–Europe comparison (concentration, profits, and Q rising only in the U.S., while European
+  antitrust enforcement grew relatively more aggressive) is decisive against efficiency as a
+  general story: "H-EFS therefore cannot explain these facts." He also cautions that some of the
+  paper's firm-level results (on market shares and productivity) "are sensitive to excluding
+  goodwill or using the PT measure for intangible[s]." Philippon thus reads the same evidence as
+  tilting further toward the market-power side than the authors' agnostic sector split — a named,
+  first-hand-verified critique a reader should weigh against the efficiency reading this page
+  steelmans.[7]
 - **The paper predates and does not address subsequent critiques of the underlying markup
   measures it cites** (e.g., the Traina and Basu critiques of the De Loecker-Eeckhout markup
   methodology, discussed on [that paper's wiki page](/wiki/de-loecker-eeckhout-unger-markups/));
@@ -236,9 +258,13 @@ exist, consistent with how [Barkai's declining-shares paper](/wiki/barkai-declin
 6. [Wiki: Autor, Dorn, Katz, Patterson & Van Reenen — superstar firms](/wiki/autor-superstar-firms/) —
    internal navigation only; records the concentration finding this paper investigates the
    mechanism behind.
-
-[VERIFY: Thomas Philippon's discussant comments on this paper at the 2018 Jackson Hole symposium
-were not readable in this session (the fetched PDF returned unparseable binary content and a
-direct WebFetch attempt returned HTTP 403); a future editor should confirm whether Philippon's
-response pushed back toward a stronger market-power reading than the authors' own sector-by-sector
-conclusion, and add that as a named critique if so.]
+7. Thomas Philippon (2018), "Commentary: Understanding Weak Capital Investment: The Role of
+   Market Concentration and Intangibles," in *Changing Market Structures and Implications for
+   Monetary Policy*, Jackson Hole Economic Policy Symposium proceedings, Federal Reserve Bank of
+   Kansas City, pp. 151–169.
+   [Kansas City Fed PDF](https://www.kansascityfed.org/documents/6978/philippon_JH2018.pdf) ·
+   [Internet Archive copy](https://web.archive.org/web/20230401173836/https://www.kansascityfed.org/documents/6978/philippon_JH2018.pdf) —
+   **the full commentary was retrieved and read (2026-07-10)** via the Internet Archive copy
+   (direct fetches from kansascityfed.org timed out this session); used for the
+   discussant-pushback bullet in Nuances and Limits, the three-hypothesis framing, and all
+   verbatim quotations from the commentary.

@@ -8,7 +8,7 @@ tier: Core
 source_url: https://doi.org/10.1093/qje/qjz041
 stub: false
 excerpt: "Firm-level evidence that average U.S. markups rose from ~21% above marginal cost in 1980 to ~61% by 2016, concentrated in a rising upper tail — a leading account of falling labor share and business dynamism, contested on measurement grounds."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-10
 supports_outcomes: [corporate-profits-increasingly-rents]
 ---
 
@@ -49,12 +49,15 @@ and published versions, and the distinction matters:
   in 2014" — i.e. a rise from a markup ratio of about **1.18 (1980) to 1.67 (2014)**.[1]
 - The **published 2020 QJE version** (De Loecker, Eeckhout & Unger), after re-estimation and in
   response to measurement critiques, reports the widely-cited figures of about **1.21 (1980) to
-  1.61 (2016)**.[1]
+  1.61 (2016)**: "In 1980, average markups start to rise from 21% above marginal cost to 61%
+  now," and "In 2016, the average markup charged is 61% over marginal cost, compared to 21% in
+  1980" — verified against the authors' final (November 15, 2019) copy of the published
+  version.[1]
 Either way the qualitative finding is the same: sales-weighted average markups were roughly flat
 before ~1980 and rose sharply thereafter. Over the same period the aggregate **average profit
-rate** (profit as a share of sales) is reported to have risen from about 1% to about 8% in the
-published version — a figure drawn from the paywalled QJE, not re-verified against the working
-paper here.
+rate** — defined in the paper as "total sales minus all cost (including overhead and the
+expenditure on capital) as a share of sales" — "has risen from close to 1% in 1980 to around 8%
+in 2016," likewise verified against the authors' copy of the published version.[1]
 
 **Distributional shape of the rise.** The increase is not a broad-based shift by most firms: it is
 driven almost entirely by the **upper tail** of the markup distribution. Firms at high percentiles
@@ -157,18 +160,24 @@ have roughly tripled since 1980" as settled fact.
   conclusion is that existing methods cannot yet determine with confidence whether U.S. markups
   have been roughly stable or have risen only modestly over recent decades — a materially weaker
   claim than De Loecker, Eeckhout & Unger's headline finding.
-- **A further, more recent robustness challenge.** A 2025 comment by Benkard, Miller & Yurukoglu
-  disputes the paper's results on sample-construction grounds — the treatment of Finance,
-  Insurance & Real Estate (FIRE) firms and the exclusion of firms that do not report SG&A — to
-  which De Loecker, Eeckhout & Unger have published a reply arguing the disputed results are driven
-  by a small number of outlier pharmaceutical firms with near-zero sales rather than by a genuine
-  flaw in the original sample [CITATION NEEDED: full citation and venue for Benkard, Miller &
-  Yurukoglu (2025) — found via a working paper hosted at web.stanford.edu/~ayurukog and referenced
-  in the authors' reply hosted at janeeckhout.com/wp-content/uploads/Reply.pdf; neither could be
-  directly fetched this session (HTTP 403) and the summary above is drawn from search-engine
-  snippets describing both documents, not a first-hand read]. This shows the measurement debate
-  over this paper is still active more than five years after publication, not a closed 2018–2019
-  dispute.
+- **A further, more recent robustness challenge (Benkard–Miller–Yurukoglu, 2025).** C. Lanier
+  Benkard, Nathan H. Miller & Ali Yurukoglu, "The Rise of Market Power and the Macroeconomic
+  Implications: Comment" (NBER Working Paper 34513, November 2025), dispute the paper's results
+  on sample-construction grounds: they report that the published results rest on "unreported
+  sample restrictions that drop 27% of the available observations" (the exclusion of firms that
+  do not report SG&A, plus other restrictions appearing in the replication code but not the
+  article), and that "Applying the methodology as described in the article to the full sample,
+  markup increases are more muted until late in the sample period, and are almost entirely driven
+  by Finance and Insurance firms. If these firms are removed, markup increases are modest" —
+  specifically, from "just below 1.30 in the mid-1980s to about 1.35 in 2016."[7] De Loecker,
+  Eeckhout & Unger's reply (October 2025) counters that BMY's full-sample results "are
+  exclusively driven by outliers in one four-digit industry (NAICS 3254)" — a substantial number
+  of tiny pharmaceutical/biotech firms "that have costs but negligible sales," whose inclusion
+  "generates implausible output elasticities in sector 32" and thereby distorts the economy-wide
+  aggregate — and that the original results are "robust to different sample restrictions, and to
+  alternative methods to obtain output elasticities for these outliers."[7] This exchange shows
+  the measurement debate over this paper is still active more than five years after publication,
+  not a closed 2018–2019 dispute.
 - **What the paper does not show.** The paper does not decompose *why* markups rose (antitrust
   weakening, network effects/winner-take-most technology, intangible-asset accounting, genuine
   productivity divergence, or some mix) — it establishes the pattern and its correlation with
@@ -221,7 +230,7 @@ have roughly tripled since 1980" as settled fact.
 1. Jan De Loecker, Jan Eeckhout & Gabriel Unger (2020), "The Rise of Market Power and the
    Macroeconomic Implications," *Quarterly Journal of Economics* 135(2), 561–644.
    [DOI: 10.1093/qje/qjz041](https://doi.org/10.1093/qje/qjz041) ·
-   Open full text: [NBER Working Paper 23687 (2017 version)](https://www.nber.org/system/files/working_papers/w23687/w23687.pdf) — **the working paper was fetched and read (2026-07-09)**; used for and verified verbatim against: the production-function markup method, the finding that markups "start to rise from 18% above marginal cost to 67% now" (a ratio of ~1.18 in 1980 to 1.67 in 2014), the services-share fact ("from 21 to 40%"), and the distributional/upper-tail shape of the rise. **Version note:** the published 2020 QJE re-estimation reports the widely-cited ~1.21 (1980) → 1.61 (2016) figures and the ~1%→8% profit-rate rise; the QJE version of record is paywalled (403) and those specific published endpoints are cited from it, not re-verified against the working paper.
+   Open full text: [NBER Working Paper 23687 (2017 version)](https://www.nber.org/system/files/working_papers/w23687/w23687.pdf) — **the working paper was fetched and read (2026-07-09)**; used for and verified verbatim against: the production-function markup method, the finding that markups "start to rise from 18% above marginal cost to 67% now" (a ratio of ~1.18 in 1980 to 1.67 in 2014), the services-share fact ("from 21 to 40%"), and the distributional/upper-tail shape of the rise. **Version note:** the published 2020 QJE re-estimation reports the widely-cited ~1.21 (1980) → 1.61 (2016) figures and the ~1%→8% profit-rate rise; the QJE version of record is paywalled (403), but the **authors' final copy of the published version** (dated November 15, 2019) is freely hosted at [janeeckhout.com/wp-content/uploads/RMP.pdf](https://janeeckhout.com/wp-content/uploads/RMP.pdf) and **was fetched and read (2026-07-10)**, verifying verbatim the published endpoints ("from 21% above marginal cost to 61% now"; "there has been a steady increase to 1.61"), the profit-rate rise ("from close to 1% in 1980 to around 8% in 2016"), the profit-rate definition (all-cost profit as a share of sales), the overhead fact (overhead rose "from 15% to 21% of total cost" with markups rising in excess of it), and the unchanged median / upper-tail distributional shape.
 2. Jan De Loecker & Frederic Warzynski (2012), "Markups and Firm-Level Export Status," *American
    Economic Review* 102(6), 2437–2471. — used for the origin of the production-approach markup
    estimator this paper applies to the full U.S. economy (not independently re-verified this
@@ -247,20 +256,28 @@ have roughly tripled since 1980" as settled fact.
    Lessons from Empirical Industrial Organization," *Journal of Economic Perspectives* 33(3),
    44–68. [AEA](https://pubs.aeaweb.org/doi/10.1257/jep.33.3.44) — used only to identify the third
    companion paper in the same JEP symposium; not independently scanned this session.
-7. C. Lanier Benkard, Nathan Miller & Ali Yurukoglu (2025 working paper, "Comment"); Jan De
-   Loecker, Jan Eeckhout & Gabriel Unger, "Reply to Benkard, Miller, and Yurukoglu (2025)."
-   [Comment (Stanford mirror)](https://web.stanford.edu/~ayurukog/Compustat_Markups_2025_10.pdf) ·
-   [Reply (janeeckhout.com)](https://www.janeeckhout.com/wp-content/uploads/Reply.pdf) — used for
-   the note that the measurement debate remains active as of 2025; full citation details could not
-   be verified first-hand this session (both direct fetches returned HTTP 403)
-   [CITATION NEEDED: confirm venue/publication status of the Benkard-Miller-Yurukoglu comment and
-   its date].
+7. C. Lanier Benkard, Nathan H. Miller & Ali Yurukoglu (2025), "The Rise of Market Power and the
+   Macroeconomic Implications: Comment," NBER Working Paper 34513 (November 2025).
+   [NBER](https://www.nber.org/papers/w34513) ·
+   [NBER PDF](https://www.nber.org/system/files/working_papers/w34513/w34513.pdf) ·
+   [Stanford mirror (October 22, 2025 version)](https://web.stanford.edu/~ayurukog/Compustat_Markups_2025_10.pdf) —
+   **both the NBER and Stanford versions were fetched and read (2026-07-10)**; used for the
+   27%-of-observations sample-restriction claim, the Finance-and-Insurance-driven full-sample
+   result, and the "just below 1.30 ... to about 1.35 in 2016" ex-F&I figure. Jan De Loecker,
+   Jan Eeckhout & Gabriel Unger (2025), "The Rise of Market Power and the Macroeconomic
+   Implications: Reply to Benkard, Miller, and Yurukoglu (2025)," October 13, 2025.
+   [Reply PDF (janeeckhout.com)](https://www.janeeckhout.com/wp-content/uploads/Reply.pdf) —
+   **fetched and read (2026-07-10)**; used for the NAICS 3254 (pharmaceutical/biotech outlier)
+   counter-argument. As of this writing both documents are working papers (the Comment an NBER
+   working paper, the Reply an authors' note), not yet published in a peer-reviewed journal.
 8. [Wiki: Autor, Dorn, Katz, Patterson & Van Reenen — superstar firms](/wiki/autor-superstar-firms/) —
    internal navigation only (not used as external evidentiary support); records the direct rival
    efficiency-side reading of the same firm-concentration pattern.
 
-The **2017 NBER working paper** has now been fetched and read directly (source 1), verifying the
-method, the 1.18→1.67 (1980–2014) markup figures, and the distributional shape. The **published
-2020 QJE version of record remains paywalled** (403), so its re-estimated endpoints (~1.21→1.61
-to 2016) and the ~1%→8% profit-rate figure are cited from it rather than re-verified here; the
-Benkard–Miller–Yurukoglu measurement comment (source 7) was likewise not first-hand fetchable.
+The **2017 NBER working paper** (source 1) and the **authors' final copy of the published 2020
+QJE version** (janeeckhout.com, dated November 15, 2019) have both been fetched and read
+directly, verifying the method, the working-paper 1.18→1.67 figures, the published 1.21→1.61
+(1980–2016) endpoints, the ~1%→8% profit-rate rise, and the distributional shape. The
+Benkard–Miller–Yurukoglu comment (NBER WP 34513) and the authors' October 2025 reply (source 7)
+have likewise now been fetched and read first-hand. Only the QJE version of record itself
+remains behind the publisher paywall.
