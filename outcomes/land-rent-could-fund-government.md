@@ -38,9 +38,13 @@ side, the [Mirrlees Review (2011)](/wiki/mirrlees-review/) — the UK's most
 authoritative modern tax review — concludes land value should be taxed and
 proposes replacing business rates with an LVT. The advocacy wing's national
 worked example is [Common Wealth Canada's 2023 report](/wiki/natural-common-wealth-economic-rent-canada/):
-total Canadian economic rent estimated at ~$421B/year, of which it argues $241B
-could be newly captured — an advocate estimate, carried as such alongside the
-table's other attributed aggregations.
+its January 2023 version estimates ~$421B/year of newly collectible rent across
+all resource categories, $362.5B of it from a national LVT; the publisher's July
+2023 revision replaced the land method (average land-price growth) with a 5.5%
+capitalization rate on StatCan land values, cutting the net-new LVT figure to
+$194B/year. An advocate estimate, carried as such alongside the table's other
+attributed aggregations — and the ~46% cut between the publisher's own versions
+is itself a caution about how method-sensitive these aggregates are.
 
 ### Burgess: LVT as Alternative to Taxation
 
