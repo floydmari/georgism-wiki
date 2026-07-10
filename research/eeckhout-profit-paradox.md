@@ -8,7 +8,7 @@ tier: Important
 source_url: https://press.princeton.edu/books/hardcover/9780691214474/the-profit-paradox
 stub: false
 excerpt: "Eeckhout's popular synthesis of his own markups research: rising corporate market power since 1980 has driven up prices and profits while suppressing wages economy-wide, even for workers at firms with no direct market power of their own."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-09
 supports_outcomes: [corporate-profits-increasingly-rents]
 ---
 
@@ -20,7 +20,8 @@ supports_outcomes: [corporate-profits-increasingly-rents]
 Penn, UCL, Princeton, and NYU. Eeckhout is a co-author, with Jan De Loecker and Gabriel Unger, of
 ["The Rise of Market Power and the Macroeconomic Implications"](/wiki/de-loecker-eeckhout-unger-markups/)
 (*Quarterly Journal of Economics*, 2020) — the peer-reviewed article that first documented, using
-firm-level Compustat data, that average U.S. markups roughly tripled between 1980 and 2016. *The
+firm-level Compustat data, that average U.S. markups rose from 21 percent above marginal cost in
+1980 to 61 percent by 2016, a near-tripling of the markup wedge. *The
 Profit Paradox* is Eeckhout's own popularization of that research program for a general audience:
 it restates the QJE paper's empirical case in accessible language, extends the argument to the
 labor market and wage-setting specifically, and adds a set of policy proposals the academic paper
@@ -38,10 +39,11 @@ right.
 
 Eeckhout's central claim is that the rise of market power he and his coauthors document at the
 firm level is not merely a story about consumer prices — it is, primarily, a story about **wages**.
-Since around 1980, worker productivity has continued to grow (the book cites a roughly 1.7% average
-annual productivity growth rate) while wages for most workers, especially those without a college
-education, have stagnated [VERIFY: exact productivity-growth figure and its precise sourcing within
-the book — drawn from a secondary summary of the book's argument, not a first-hand page citation].
+Since around 1980, worker productivity has continued to grow — "Worker productivity, the total
+value produced in the economy divided by all workers, including higher-paid workers, has grown at
+a steady rate of 1.7 percent on average per year," the book's Introduction states (pp. 4–5) — while
+inflation-adjusted wages for most workers, especially those without a college education, have
+been "virtually constant" over the same period (Introduction, pp. 4–5).
 Eeckhout's explanation runs through market power in the market for *goods*, not directly through
 employer power in the labor market: as a shrinking set of dominant "superstar" firms — the same
 firms identified in [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/)
@@ -49,21 +51,30 @@ firms identified in [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckh
 a more competitive market would support. Because labor demand is a *derived* demand from output,
 restricting output economy-wide reduces aggregate demand for labor and therefore depresses wages —
 including, importantly, wages at firms that hold no market power of their own, since a slack
-overall labor market pushes down pay everywhere. Eeckhout summarizes the mechanism as one running
-"through wages" rather than through direct exploitation of workers by their own employer, a
-distinction he uses to argue that conventional monopsony stories (a single dominant local employer
-suppressing pay for its own workers) are too narrow to capture the scale of the problem.
+overall labor market pushes down pay everywhere. The book names this mechanism in the title of its
+chapter 4, "A Falling Tide Lowers All Boats": "People are making less mainly because the dominant
+firms around the country are hiring fewer workers, not because those firms are the only player in
+town." Eeckhout treats direct employer-side monopsony power (a dominant local employer suppressing
+pay for its own workers) as real but secondary: "Compared to the overall effect that the tide of
+widespread market power has on wages economy-wide, the evidence that wages have declined because
+of monopsony power of large firms is thus less conclusive" (ch. 4). He uses this distinction to
+argue that conventional firm-level monopsony stories are too narrow to capture the economy-wide
+scale of the problem.
 
 The book extends this argument to several related patterns: the "superstar" phenomenon in
 executive pay, where firms bidding for a small pool of top managers helps drive extreme
 compensation growth at the top even as median pay stagnates; the growth of outsourcing, which
 Eeckhout presents as one channel by which powerful firms shed direct employment relationships and
 push work (and wage risk) onto smaller, more competitive suppliers and contractors; and a
-documented rise in markups that the book describes as occurring in two phases — a rise from 1980
-to about 2000, a pause, and then a further surge after the 2008 financial crisis — a pattern
-Eeckhout argues recurs, to varying degrees, outside the United States as well [VERIFY: the
-two-phase timing and the claim of a similar pattern in other countries are drawn from secondary
-summaries of the book, not a first-hand read of the relevant chapter].
+documented rise in markups that the book (ch. 2) describes as occurring in phases: the average
+U.S. markup "began to rise sharply, from 1.21 in 1980 to 1.54 in 2019," with "a particularly sharp
+rise in the 1980s and 1990s, followed by a decade of markup stagnation in 2000, followed in turn
+by a new sharp rise in 2010 after the Great Recession." The book presents the same chronology
+internationally — "Worldwide, markups increased from 1980 through 2000... Then, in the first
+decade of the twenty-first century, markups stagnated, only to rise sharply again in 2010 after
+the Great Recession" — with Europe's markup evolution "virtually identical" to the United States',
+and some emerging economies in South America and Africa showing less of an increase from higher
+starting levels (ch. 2, figs. 3–4).
 
 A recurring rhetorical device in the book is the claim that rising market power is not confined to
 the well-known technology giants (Amazon, Google, Facebook) but is broad-based across the economy —
@@ -82,11 +93,15 @@ antitrust's traditional scope:
   consumers pay.
 - **Make mergers harder to approve**, on the view that merger enforcement over the past several
   decades has been too permissive and has allowed the concentration the book documents to build up.
-- **Strengthen and expand antitrust enforcement capacity substantially** — one secondary summary
-  describes Eeckhout as calling for an independent competition authority resourced at roughly ten
-  times current staffing levels [VERIFY: this specific figure is drawn from a single secondary
-  summary (ProMarket) and could not be corroborated against the book's primary text this session;
-  treat as indicative rather than confirmed until checked against the book directly].
+- **Strengthen and expand antitrust enforcement capacity substantially** — the book's closing
+  chapter sketches an "ideal world" proposal for "an independent, centralized authority of more
+  than thirty thousand employees with a pro-market mandate to render the economy competitive," a
+  "Federal Competition Authority" explicitly modeled on the Federal Reserve System (which the book
+  notes employs around twenty-three thousand people), against fewer than two thousand employees
+  currently responsible for competition policy between the FTC and the DOJ Antitrust Division
+  (ch. 12). (A secondary summary's paraphrase of this as "roughly ten times current staffing" —
+  previously repeated here — understates the book's actual proposal, which is more than fifteen
+  times current antitrust staffing.)
 - **Selective regulation short of full breakup** for dominant digital platforms, such as
   interoperability requirements, rather than treating structural breakup as the only remedy.
 - **Rethink the scope of intellectual property protection**, on the view that overly broad or
@@ -120,9 +135,14 @@ depress labor income even without direct employer-side monopsony over any given 
 
 At the same time, *The Profit Paradox* is explicitly **not** a book about land, and it should not
 be cited as land-specific evidence. Eeckhout's proposed remedies are entirely antitrust- and
-IP-focused; the book does not discuss land value taxation, land rent, or the [land value
-tax](/wiki/land-value-tax/) as a policy response to rising market power, and nothing in it should
-be read as endorsing (or rejecting) Georgist tax policy. Its relevance to this wiki is as an
+IP-focused. The book does mention [Henry George](/wiki/henry-george/) twice in passing — in
+chapter 2's account of the board game Monopoly's origin as Lizzie Magie's anti-monopolist
+Landlord's Game, noting that George "had proposed a land value tax as the least distortionary way
+of generating government revenue instead of taxing labor income," and in chapter 9, approvingly
+quoting George's critique of Malthusianism from *Progress and Poverty* (which appears in the
+book's bibliography) — but it never discusses the [land value tax](/wiki/land-value-tax/) as a
+policy response to rising market power, and nothing in it should be read as endorsing (or
+rejecting) Georgist tax policy. Its relevance to this wiki is as an
 influential, non-Georgist popularization of the "rent problem, generalized beyond land" argument —
 evidence that the underlying economic logic Georgists apply to land is recognized as a live concern
 in a different domain by a mainstream economist working entirely outside the Georgist tradition.
@@ -137,17 +157,20 @@ in a different domain by a mainstream economist working entirely outside the Geo
   tripled" finding is sensitive to which costs are counted as variable. Because the book restates
   those figures for a general audience, any reader who doubts the QJE paper's measurement approach
   should discount the book's headline numbers to the same degree.
-- **The goods-market-to-wages mechanism is Eeckhout's own theoretical interpretation, not a
-  independently settled empirical result.** Reviewers describe the book's central causal chain —
-  market power in product markets suppressing wages economy-wide via reduced aggregate labor
-  demand — as a "convincing" case for *some* role for market power in wage stagnation, while
-  noting it leaves open exactly how large that role is relative to other causes of wage
-  stagnation (automation, declining unionization, trade, skill-biased technical change, and other
-  factors the book does not attempt to fully partition out).
-  [CITATION NEEDED: a directly fetched, first-hand copy of a peer-reviewed review assessing this
-  specific limitation — this session's fetches of academic book reviews (SSRN, Economics &
-  Philosophy, Economic Record) returned HTTP 403; the characterization above is drawn from search
-  engine summaries of those reviews' abstracts, not a first-hand read.]
+- **The goods-market-to-wages mechanism is Eeckhout's own theoretical interpretation, not an
+  independently settled empirical result.** Romain Duval, reviewing the book for the IMF's
+  *Finance & Development*, writes that "while the book convincingly argues for some role of
+  market power in workers' woes, it leaves open the question of how big that role has been," and
+  asks whether — had market power been contained — the "increasingly labor-saving" nature of
+  technological progress documented by Daron Acemoglu and Pascual Restrepo would still have hit
+  workers hard; Duval also notes that the book's US-centric evidence leaves open what to make of
+  Europe, where labor-force participation has not fallen and labor-share declines have been more
+  modest despite the book's finding of a near-identical European markup rise. The *Economic
+  Record*'s review (Haishan Yuan, 2023) likewise judges that Eeckhout "provides a convincing
+  case that the rise of highly profitable firms with substantial market power is detrimental to
+  workers," without endorsing a specific magnitude. The book itself does not attempt to fully partition wage
+  stagnation among market power, automation, declining unionization, trade, and skill-biased
+  technical change.
 - **Not a rebuttal to the superstar-firms efficiency reading.** As with the underlying QJE paper,
   the book's market-power framing exists alongside [Autor, Dorn, Katz, Patterson & Van Reenen's
   (2020)](/wiki/autor-superstar-firms/) rival account of the same broad concentration pattern, which
@@ -160,13 +183,16 @@ in a different domain by a mainstream economist working entirely outside the Geo
   
 - **Policy proposals are prescriptive and go beyond what the underlying research establishes.** The
   QJE paper documents a pattern and its macro correlates but does not, by itself, establish that any
-  specific remedy (harder merger review, a tenfold increase in antitrust staffing, wage-effect
-  merger review) would reverse the trend or is the best available response; the book's policy
+  specific remedy (a reversed burden of proof for mergers, a thirty-thousand-employee Federal
+  Competition Authority, wage-effect merger review) would reverse the trend or is the best available
+  response; the book's policy
   chapter should be read as Eeckhout's own argued position, not as a finding derived directly from
   his empirical work.
 - **No land component.** As with the underlying paper, the book does not identify land or real
   estate as a source of the market power or rent it documents; it is a parallel, non-land
-  generalization of the rent problem, not evidence about land specifically.
+  generalization of the rent problem, not evidence about land specifically. (Its two passing
+  references to Henry George — the Monopoly/Landlord's Game origin story and an anti-Malthusian
+  quotation from *Progress and Poverty* — are historical color, not analysis of land rent.)
 
 ## Bears On
 
@@ -205,23 +231,34 @@ in a different domain by a mainstream economist working entirely outside the Geo
 1. Jan Eeckhout (2021), *The Profit Paradox: How Thriving Firms Threaten the Future of Work*,
    Princeton University Press. [Princeton UP](https://press.princeton.edu/books/hardcover/9780691214474/the-profit-paradox) —
    used for the author's affiliation, the book's core argument and structure, and the "cat food to
-   caskets" characterization of its scope (publisher's own summary and endorsements; the full text
-   could not be directly fetched this session).
+   caskets" characterization of its scope. The book's full text was located and consulted directly
+   on 2026-07-09; direct quotations and page/chapter anchors on this page (the 1.7% productivity
+   figure, Introduction pp. 4–5; the 1.21-to-1.54 markup series and its global two-phase timing,
+   ch. 2, figs. 3–4; the "falling tide" wage mechanism and monopsony discussion, ch. 4; the Henry
+   George mentions, chs. 2 and 9; and the Federal Competition Authority proposal, ch. 12) are
+   verified against that text. The book's own concentration examples confirm the publisher's
+   "cat food to caskets" range (dry cat food: one firm, Nestlé, with 57 percent of US sales;
+   coffins and caskets: two manufacturers with an 82 percent market share; ch. 2).
 2. Jan De Loecker, Jan Eeckhout & Gabriel Unger (2020), "The Rise of Market Power and the
    Macroeconomic Implications," *Quarterly Journal of Economics* 135(2), 561–644.
    [DOI: 10.1093/qje/qjz041](https://doi.org/10.1093/qje/qjz041) — used for the peer-reviewed
    empirical source this book popularizes; see [wiki
    summary](/wiki/de-loecker-eeckhout-unger-markups/) for the underlying findings and their
    measurement critiques.
-3. IMF, "Book Review: The Profit Paradox by Jan Eeckhout," *Finance & Development*, June 2021.
-   [IMF](https://www.imf.org/external/pubs/ft/fandd/2021/06/book-review-the-profit-paradox-eeckhout.htm) —
-   used for the book's reception in a mainstream policy-economics outlet (direct fetch returned
-   HTTP 403 this session; summarized via search-engine snippets of the review).
+3. Romain Duval, "Market Juggernauts" (review of *The Profit Paradox*), IMF *Finance &
+   Development*, June 2021, p. 65.
+   [HTML](https://www.imf.org/external/pubs/ft/fandd/2021/06/book-review-the-profit-paradox-eeckhout.htm) ·
+   [PDF](https://www.imf.org/external/pubs/ft/fandd/2021/06/pdf/book-review-the-profit-paradox-eeckhout.pdf) —
+   full text obtained 2026-07-09; used for the book's reception in a mainstream policy-economics
+   outlet and for the "convincingly argues for some role... leaves open the question of how big"
+   assessment quoted in Nuances and Limits.
 4. Jodi Beggs / ProMarket, "The Profit Paradox: What's Good for Firms Is Not Good for the Workers,"
    ProMarket, 25 May 2021. [ProMarket](https://www.promarket.org/2021/05/25/profit-paradox-eeckhout-market-power-workers-wages/) —
-   used for the goods-market-to-wages mechanism, the productivity/wage stagnation figures, the
-   markup timing (1980–2000, pause, post-2008 surge), and the policy proposals including the
-   antitrust-staffing figure (flagged `[VERIFY]` above pending first-hand confirmation).
+   originally used for the goods-market-to-wages mechanism, the productivity/wage figures, the
+   markup timing, and the policy proposals; those claims have now been verified against (and,
+   where they diverged, corrected to) the book's own text — in particular, this summary's
+   "roughly ten times current staffing" paraphrase of the enforcement proposal understates the
+   book's actual figure of more than thirty thousand employees (ch. 12).
 5. ProMarket, "The Profit Paradox: A New Approach to Competition and Market Power," 19 August 2021.
    [ProMarket](https://www.promarket.org/2021/08/19/profit-paradox-competition-market-power-review/) —
    used as a secondary corroborating discussion of the book's competition-policy argument (not
@@ -233,10 +270,8 @@ in a different domain by a mainstream economist working entirely outside the Geo
    Reenen — superstar firms](/wiki/autor-superstar-firms/) — internal navigation only (not used as
    external evidentiary support); record the efficiency-side rival reading of the same
    concentration pattern this book argues reflects market power.
-
-[CITATION NEEDED: a directly fetched, first-hand copy of the book's text (or a peer-reviewed
-academic book review — attempts to fetch SSRN reviews by Christiansen and by Paseyro Mayol &
-Peruzzi, and the Economics & Philosophy / Economic Record journal reviews, all returned HTTP 403
-this session) to verify exact wording, page-level citations, the precise productivity-growth
-figure, the markup-timing chronology, and the antitrust-staffing proposal against the primary
-text rather than secondary summaries.]
+8. Haishan Yuan, review of *The Profit Paradox*, *Economic Record* 99(324), 2023.
+   [DOI: 10.1111/1475-4932.12732](https://doi.org/10.1111/1475-4932.12732) — peer-reviewed
+   journal book review; used for the "convincing case... detrimental to workers" assessment
+   quoted in Nuances and Limits (publisher page blocks automated fetches; the quoted passage was
+   obtained first-hand via a search-API copy of the review's text).
