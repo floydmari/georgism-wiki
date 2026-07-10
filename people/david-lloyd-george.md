@@ -6,7 +6,7 @@ stub: false
 born: 1863
 died: 1945
 excerpt: "Liberal Chancellor of the Exchequer who introduced the 1909 People's Budget's land value duties, defended them at Limehouse, and pursued a 1913-14 Land Campaign — the high-water mark of land taxation in British politics, later reversed."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-10
 ---
 
 ## Overview
@@ -85,15 +85,19 @@ King Edward VII to create enough new Liberal peers to guarantee passage of a fut
 Bill; Edward's private secretary discouraged it and no commitment was given before Edward's
 death in May 1910.[8] His successor, George V, privately agreed — within months of his
 accession — to create peers if the Lords still refused after a further election.[8] With that
-undertaking secured, the government (and, on one influential account, Lloyd George personally)
-let the Conservative leader **Arthur Balfour** believe several hundred new peers were already
-lined up; convinced the threat was real rather than confirming it as a bluff, Balfour advised
-Conservative peers to let the **Parliament Act 1911** pass rather than face a swamped, permanent
-Liberal majority in the Lords.[8][9] [VERIFY: whether the peerage-creation threat was in fact a
-deliberate bluff Balfour was persuaded to treat as genuine, as one influential secondary account
-holds, or a commitment the government was prepared to carry out in full, is contested among
-historians; this session could not adjudicate it against primary Cabinet or royal papers and
-flags it accordingly.] The Act removed the Lords' power to veto money bills outright and
+undertaking secured, the government made the threat explicit on the record as the final vote
+approached. On 10 August 1911 the Lord President of the Council, Viscount Morley, told the
+Lords — repeating the "operative words" at the Earl of Selborne's request — "If the Bill should
+be defeated to-night His Majesty would assent — I say this on my full responsibility as the
+spokesman of the Government — to a creation of Peers sufficient in number to guard against any
+possible combination of the different Parties in Opposition by which the Parliament Bill might
+again be exposed a second time to defeat."[16] That night enough Unionist peers abstained or
+crossed over for the Bill to pass by 131 votes to 114.[16] The royal pledge was thus real and
+formally declared before the division; what was never tested — and remains a matter of
+secondary interpretation, including the influential account (associated with the "Mr Balfour's
+poodle" narrative) that Lloyd George personally encouraged Conservative leaders to believe
+several hundred new peers were already lined up — is whether ministers would in fact have
+carried a mass creation through.[8] The Act removed the Lords' power to veto money bills outright and
 reduced their delaying power over other legislation to two years (later cut further, under the
 Parliament Act 1949, to one).[9] The crisis is widely regarded as the most consequential clash
 between elected and hereditary power in modern British constitutional history, and it was land
@@ -107,11 +111,13 @@ been sold or assessed separately from the buildings on it, and calculating a hyp
 unimproved site value for ten million properties exceeded the Valuation Office's practical
 capacity.[6][10] Landowners' organizations, notably the Land Union, mounted sustained legal
 challenges; a February 1914 High Court ruling (the *Scrutton* judgment) invalidated valuations
-of agricultural land and effectively blocked collection of the duties on farmland.[10] By 1914
-the cost of administering the duties reportedly exceeded £2 million against roughly £500,000
-collected in revenue — a net loss to the Exchequer. [CITATION NEEDED: a primary Inland Revenue
-or Treasury source confirming these administration-cost and revenue figures independently of
-the secondary summary this session drew them from.][10] The valuation was frozen for the
+of agricultural land and effectively blocked collection of the duties on farmland.[10] The financial
+balance sheet, as stated to the Commons by the Chancellor of the Exchequer, Austen Chamberlain,
+when the duties were wound up in July 1920, was dismal: "The taxes have yielded £1,300,000 in
+the course of the years they have been imposed," with a further roughly £500,000 assessed but
+"much of it assessed on a wrong basis," while "the cost of the valuation and collection which
+was estimated by [Asquith's] Government at £2,000,000 in all, has been £5,000,000" — a heavy
+net loss to the Exchequer over the duties' whole life.[10] The valuation was frozen for the
 duration of the First World War and formally wound up in 1920: the land value duties were
 repealed by the coalition government's **Finance Act 1920, section 57**, which provided that
 "the land values duties shall cease to be chargeable" and that the obligation to value all land
@@ -231,8 +237,9 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
    [Text](https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/parliamentacts/overview/balfourspoodle/)
    — used for the 30 November 1909 rejection of the budget, the two 1910 general elections,
    Edward VII's and George V's roles in the peerage-creation question, and the Balfour
-   "bluff" account of the Lords' capitulation (A/D-claims; the disputed "genuine threat vs.
-   bluff" characterization is flagged `[VERIFY]` in the body text). Note: UK Parliament's
+   "bluff" account of the Lords' capitulation (A/D-claims; the "bluff" characterization is
+   presented in the body text as a secondary account only — the fact of the formally declared
+   royal commitment is cited to the primary Hansard record at source 16). Note: UK Parliament's
    dedicated "Limehouse" collections page returned an access error (HTTP 403) to this
    session's tools and was not used as a source; only the pages above, which fetched
    successfully, are cited.
@@ -242,9 +249,12 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
 10. Works in Progress, "The failure of the land value tax."
     [Text](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/) — used for the
     Form 4 valuation's practical breakdown, the Land Union's legal challenges, the 1914
-    *Scrutton* judgment on agricultural land, and the reported administration-cost/revenue
-    figures (B-claim; cost/revenue figures flagged `[CITATION NEEDED]` pending a primary
-    Treasury/Inland Revenue source) and for the 1920 freeze/wind-up of the valuation. The repeal
+    *Scrutton* judgment on agricultural land (B-claims), and for the 1920 freeze/wind-up of the
+    valuation. The cost and revenue figures in the body text are cited directly from the primary
+    record: Austen Chamberlain (Chancellor of the Exchequer), HC Deb 14 July 1920 vol 131
+    cc2421–527 — "The taxes have yielded £1,300,000… The cost of the valuation and collection
+    which was estimated by my right hon. Friend's (Mr. Asquith's) Government at £2,000,000 in
+    all, has been £5,000,000" (fetched and verified 2026-07-10). The repeal
     date is confirmed against the primary statute: **Finance Act 1920, s. 57** ended the land
     values duties and the valuation obligation. [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Geo5/10-11/18/section/57/enacted)
     · [Hansard, "Repeal of Land Values Duties," 14 July 1920](https://api.parliament.uk/historic-hansard/commons/1920/jul/14/clause-49-repeal-of-land-valves-duties).
@@ -275,3 +285,11 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
     (Oxford: Oxford University Press, 1980) — used for the Budget's fiscal strategy, Lloyd
     George's fight against Treasury orthodoxy, and the design of the land-value duties
     (A/D-claims). [Book page](/wiki/peoples-budget-1909/)
+16. "Parliament Bill," HL Deb 10 August 1911 vol 9 cc987–1045 (Viscount Morley's declaration,
+    repeated at the Earl of Selborne's request) and cc1045–77 (division: Contents 131,
+    Not-contents 114).
+    [Hansard](https://api.parliament.uk/historic-hansard/lords/1911/aug/10/parliament-bill) ·
+    [Division record](https://api.parliament.uk/historic-hansard/lords/1911/aug/10/commons-reasons-for-disagreeing-to)
+    — primary; used for the verbatim peerage-creation pledge ("His Majesty would assent… to a
+    creation of Peers sufficient in number…") and the final vote (A-claims; fetched and verified
+    2026-07-10).
