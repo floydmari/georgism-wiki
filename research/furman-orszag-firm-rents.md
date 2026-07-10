@@ -8,7 +8,7 @@ tier: Important
 source_url: https://obamawhitehouse.archives.gov/sites/default/files/page/files/20151016_firm_level_perspective_on_role_of_rents_in_inequality.pdf
 stub: false
 excerpt: "Furman & Orszag's 2015 Stiglitz-honoring paper argues rising inequality is better explained by an increasingly skewed distribution of firm-level returns on capital than by a labor-to-capital income shift, and flags land-use-driven housing rents as one contributor."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-10
 supports_outcomes: [capital-share-rise-is-land, corporate-profits-increasingly-rents]
 ---
 
@@ -21,10 +21,12 @@ in economic studies at the Brookings Institution (and formerly Director of the O
 Management and Budget). It was presented on **October 16, 2015**, at "A Just Society," a
 centennial event at Columbia University honoring **Joseph Stiglitz**, and was later published as
 the opening chapter (pp. 19–47) of *Toward a Just Society: Joseph Stiglitz and Twenty-First
-Century Economics*, edited by Martin Guzman (Columbia University Press, 2018) — this wiki has
-verified the 2018 publication details via the publisher and De Gruyter's online chapter listing,
-though the chapter text itself was reviewed via the original 2015 conference version, which the
-authors' footnote indicates is materially the same paper the volume later published.
+Century Economics*, edited by Martin Guzman (Columbia University Press, 2018) — publication
+details confirmed via Crossref's DOI record for the chapter (10.7312/guzm18672-003: Chapter 1,
+pp. 19–47, Columbia University Press, December 2018) and Furman's own Harvard Kennedy School
+publications page. This wiki's summary is based on the freely available October 16, 2015
+conference version; the published chapter itself sits behind De Gruyter's subscription wall (see
+Nuances below).
 Because it was written by two senior U.S. economic policymakers as a tribute to Stiglitz's own
 work on inequality and imperfect competition (citing Stiglitz 2012, *The Price of Inequality*),
 and because it does not argue from a Georgist or land-tax perspective at all, its independent
@@ -69,14 +71,19 @@ construction costs, and this gap is strongly associated with more restrictive la
 (as measured by the Wharton Land Use Regulatory Index). They also cite [Hsieh and Moretti
 (2015)](/wiki/hsieh-moretti-spatial-misallocation/), who estimate that reducing housing-supply
 constraints in high-productivity cities to the level of the median U.S. city would raise
-aggregate U.S. GDP by an estimated 9.5%, and note that because high land-use restriction is
-correlated with lower income mobility (citing Chetty et al. 2014), these housing rents "have
-important implications for both aggregate growth and its distribution."
+aggregate U.S. GDP by an estimated 9.5%. They further note that cities with especially stringent
+land-use restrictions "tend to have especially high upward mobility," and that high-mobility
+cities tend to have less income inequality (citing Chetty et al. 2014) — so zoning and land-use
+restrictions "can potentially discourage low-income families from moving to high-mobility areas
+— effectively relegating them to lower-mobility areas, reinforcing inequality," and housing rents
+therefore "have important implications for both aggregate growth and its distribution."
 
 **Rising dispersion in firm-level returns on capital.** The paper's central firm-level evidence is
 that the distribution of returns to capital across publicly traded U.S. firms has grown markedly
-more skewed since roughly the early 1990s. Using McKinsey/Compustat data on return on invested
-capital (ROIC) excluding goodwill for publicly traded non-financial U.S. firms, 1965–2014, the
+more skewed since roughly the early 1990s. Using McKinsey data (compiled by "the McKinsey
+Corporate Analysis tool," which the paper's figure notes describe as McKinsey analysis of
+Standard & Poor's data following Koller et al. 2015) on return on invested capital (ROIC)
+excluding goodwill for publicly traded non-financial U.S. firms, 1965–2014, the
 authors report the ratio of the 90th percentile of firm ROIC to the median has risen from **under
 3 to approximately 10**, with returns at the 90th percentile of roughly **100%** and at the 75th
 percentile of roughly **30%** by 2014 — a pattern the paper explicitly flags as raising, without
@@ -140,8 +147,8 @@ non-produced advantage (market position, licensing barriers, patents, or land) r
 distributed according to competitive contribution. But the paper is careful — more careful than
 some later, more confident treatments of "rising rents" — to flag this firm-level pattern as a
 **question the evidence raises rather than a conclusion it establishes**: the authors explicitly
-state their hypothesis "is thus a question that is worth further exploration rather than a
-definitive conclusion," and that rising dispersion in annual returns is "not, in and of itself,
+state that they "raise this perspective as a question that is worth further exploration rather
+than a definitive conclusion," and that rising dispersion in annual returns is "not, in and of itself,
 evidence of an increase in rents," since it could instead reflect compensation for risk or
 non-persistent year-to-year noise (a possibility they partially rule out, but do not fully
 exclude, via their persistence analysis).
@@ -150,8 +157,10 @@ exclude, via their persistence analysis).
 
 - **This is an exploratory, non-peer-reviewed conference paper, not a refereed empirical study.**
   Furman and Orszag repeatedly frame their contribution as raising a hypothesis for "further
-  exploration" rather than establishing a causal finding; the paper's own conclusion states "our
-  only real conclusion is thus that more attention needs to be paid" to firm-level rent dynamics.
+  exploration" rather than establishing a causal finding; the paper's opening section states "Our
+  only real conclusion is thus that more attention needs to be paid to what is driving firm-level
+  trends in the United States," and its closing section reiterates that "our principal conclusion
+  is that more work needs to be done."
   It should be cited on the wiki with that framing, not as if it settles the rents-and-inequality
   question.
 - **The authors explicitly acknowledge their rents hypothesis does not explain the initial rise in
@@ -181,12 +190,13 @@ exclude, via their persistence analysis).
   "unlikely that licensing is the sole driver" of declining interstate mobility — a genuinely
   balanced framing worth preserving if this paper is cited on an occupational-licensing objection
   or narrative page.
-- **[VERIFY]** This wiki's editors reviewed the original October 16, 2015 conference version of the
-  paper (hosted on the Obama White House archive) rather than the final 2018 Columbia University
-  Press chapter text; the authors' own footnote and multiple bibliographic databases (Semantic
-  Scholar, De Gruyter, ResearchGate) confirm this paper became Chapter 1 of *Toward a Just
-  Society*, pp. 19–47, but this session could not directly confirm whether the published chapter
-  text is identical to the 2015 version or was revised for publication.
+- **The text reviewed is the 2015 conference version, not the 2018 published chapter.** Every
+  finding, figure, and quotation on this page was verified directly against the October 16, 2015
+  conference PDF hosted on the Obama White House archive. The paper's later publication as
+  Chapter 1 (pp. 19–47) of *Toward a Just Society* (Columbia University Press, 2018) is confirmed
+  via Crossref's DOI record (10.7312/guzm18672-003) and Furman's Harvard Kennedy School
+  publications page, but the published chapter text is subscription-only (De Gruyter) and has not
+  been consulted, so any revisions the authors made for the 2018 volume are not reflected here.
 
 ## Bears On
 
@@ -237,12 +247,16 @@ exclude, via their persistence analysis).
 2. Jason Furman & Peter Orszag, "A Firm-Level Perspective on the Role of Rents in the Rise in
    Inequality," in Martin Guzman (ed.), *Toward a Just Society: Joseph Stiglitz and Twenty-First
    Century Economics* (Columbia University Press, 2018), pp. 19–47.
-   [De Gruyter chapter page](https://www.degruyter.com/document/doi/10.7312/guzm18672-003/html?lang=en) ·
-   [Publisher page](https://cup.columbia.edu/book/toward-a-just-society/9780231186728/) — used to
-   confirm the paper's later publication as Chapter 1 of the Stiglitz festschrift volume; the
-   chapter text itself was not directly fetched this session (De Gruyter requires
-   subscription/purchase access), so the wiki's summary is based on the freely available 2015
-   conference version rather than the final published chapter — see [VERIFY] note above.
+   [Chapter DOI](https://doi.org/10.7312/guzm18672-003) ·
+   [Publisher page](https://cup.columbia.edu/book/toward-a-just-society/9780231186728/) ·
+   [Furman's HKS publications page](https://www.hks.harvard.edu/publications/firm-level-perspective-role-rents-rise-inequality) —
+   used to confirm the paper's later publication as Chapter 1 of the Stiglitz festschrift volume.
+   Crossref's metadata record for the chapter DOI (fetched this session) confirms the title,
+   authors, pages 19–47, publisher, and December 2018 publication date, and Furman's own Harvard
+   Kennedy School page carries the matching citation. The chapter text itself remains behind De
+   Gruyter's subscription wall, so the wiki's summary is based on the freely available 2015
+   conference version rather than the final published chapter — see the provenance note in
+   Nuances and Limits above.
 3. Matthew Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share," Brookings
    Papers on Economic Activity, BPEA Conference Draft, March 19–20, 2015. — cited by Furman &
    Orszag as the primary source for the housing/non-housing capital-share decomposition (Figures
