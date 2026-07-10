@@ -18,7 +18,7 @@ This tracker drives Floyd's standing request: *add as `texts/` any and all publi
 - [x] **Herbert Spencer, *Social Statics* (1851), Ch. IX "The Right to the Use of the Earth"** → texts/social-statics-right-to-use-earth *(created 2026-07-07)*
 
 ## To add — short works, need to fetch/confirm full text
-- [ ] John Stuart Mill, *Programme of the Land Tenure Reform Association* (1871) — short; cited on mill-principles-land, land-tenure-reform-association.
+- [x] **John Stuart Mill, *Programme of the Land Tenure Reform Association, with an Explanatory Statement* (1871)** → texts/land-tenure-reform-programme-1871 *(created 2026-07-09; text from Toronto Collected Works Vol. V via OLL PDF, articles verified against D&D IV 1875 scan at archive.org dli.bengal.10689.4992)*
 - [ ] Churchill, House of Commons land-monopoly speech (4 May 1909) — companion to the Edinburgh speech.
 
 ## Full public-domain BOOKS we cite (→ `sources/publicdomain/`, not `texts/`)

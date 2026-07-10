@@ -189,12 +189,17 @@ descendant of this objection.
 4. Narrative: The Unearned Increment (this wiki), citing John Stuart Mill, *Programme of
    the Land Tenure Reform Association, with an Explanatory Statement*, London, 1871 —
    used for the prospective-only design and the LTRA's fourth article (A-claim); see
-   [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/).
-5. Land Tenure Reform Association programme and founding, corroborated via multiple
-   secondary summaries (encyclopedic and historical) — used for the LTRA's institutional
-   role (A-claim). [VERIFY: exact founding/first-meeting dates vary slightly across
-   secondary sources consulted this session; this page follows the dating already
-   established elsewhere on this wiki.]
+   [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/). The pamphlet
+   is reproduced in full on this wiki:
+   [Programme of the Land Tenure Reform Association (1871)](/wiki/land-tenure-reform-programme-1871/).
+5. Land Tenure Reform Association programme and founding — dates per the editors'
+   headnote to "Land Tenure Reform, 1871" in *The Collected Works of John Stuart Mill*,
+   Vol. V (Toronto): preliminary organization of the Association in autumn 1869 with Mill
+   chairing the Provisional Committee; Programme completed April 1870 and adopted July
+   1870; pamphlet (Longmans, Green, Reader, and Dyer, sixpence) ready for the press
+   27 March 1871, identified in Mill's own bibliography as "The Explanatory Statement
+   published with the Programme of the Land Tenure Reform Association in March 1871"
+   (MacMinn, 100). Used for the LTRA's institutional role (A-claim).
 6. Secondary academic source on J.S. Mill and the Irish land question (located via search:
    Manolis Manioudis, "J.S. Mill and the Irish Land Question: From Irish Economic History
    to Coherent Socialism and Irish Historicism," *Irish Economic and Social History*, 2021,
