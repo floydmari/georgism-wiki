@@ -36,9 +36,13 @@ The case runs from theory through operation to rigorous evaluation.
 investing resource rents in reproducible capital sustains consumption across
 generations — the formal warrant for treating resource rents as common wealth.
 [Goldsmith (2002)](/wiki/goldsmith-alaska-pfd-wealth-distribution/) reviews the
-first twenty years of the dividend from inside Alaska: poverty cut by an
-estimated 20–40%, rural Indigenous poverty down from about 28% to 22%, and no
-serious political proposal to end it. [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/)
+first twenty years of the dividend from inside Alaska: income growth for the
+poorest fifth of families far outpacing the richest fifth (+28% vs +7%),
+the dividend supplying more than 10% of cash income in some rural areas, and
+no serious political proposal to end it (his 2010 follow-up adds Alaska
+Native poverty falling 25%→19% across the 1980–1990 censuses; the widely
+circulated "20–40% poverty cut" figures appear in neither paper — corrected
+2026-07-10). [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/)
 add the causal test: a synthetic-control design finds the universal dividend
 caused no reduction in aggregate employment, with a rise in part-time work
 consistent with local demand stimulus. [Widerquist & Howard's edited volume (2012)](/wiki/widerquist-howard-pfd/)
