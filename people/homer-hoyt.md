@@ -60,7 +60,13 @@ from the hectic land market of 1890 to that of 1925."[3] The commonly repeated "
 own claim.
 
 Hoyt's data became the historical backbone for later Georgist land-cycle writers who argue that
-recurring land speculation, not credit conditions alone, drives the timing of recessions.
+recurring land speculation, not credit conditions alone, drives the timing of recessions —
+though **Hoyt himself later disavowed the cycle's continued operation**: by 1968 he judged that
+"the fluctuations in the real estate cycle which characterised our economy in the 150 years
+prior to 1933, have ceased" (ULI Technical Bulletin No. 60, 1968, p. 11), a verdict he
+reaffirmed to Fred Harrison in 1976 correspondence and a 1978 interview at age 83; Harrison's
+"The Hoyt Heist" chapter is his rebuttal of that disavowal (see [the book's
+page](/wiki/hoyt-chicago-land-values/) for the verbatim record).
 **[Fred Harrison](/wiki/fred-harrison/)** drew directly on Hoyt's Chicago chronology in *The
 Power in the Land* (1983) and *Boom Bust* (2005) to argue the same land-and-credit rhythm
 recurs in modern economies, using it to forecast the 2008 financial crisis — as early as 1997 in *The Chaos Makers*, and again in *Boom Bust* roughly three years

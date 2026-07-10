@@ -141,6 +141,21 @@ outcome claim.**
   page notes this periodicity claim has not been confirmed by peer-reviewed econometric
   testing and remains contested. **Hoyt's own text does not support a fixed ~18-year period
   and should not be cited as if it did.**
+- **Hoyt later disavowed the cycle's continued operation entirely — and the cycle
+  literature is built *against* that disavowal.** The 1933 book itself anticipates its own
+  obsolescence: Hoyt writes the events described "may in the future be of interest only to
+  historians… and the knowledge of the mode of behaviour of forces in the real estate cycle
+  will have no value in forecasting the trend of future events."[1] Thirty-five years later he
+  concluded "his prescience was warranted": **"The fluctuations in the real estate cycle which
+  characterised our economy in the 150 years prior to 1933, have ceased"** (Hoyt, ULI Technical
+  Bulletin No. 60, 1968, p. 11, as quoted by Harrison). He reaffirmed the disavowal in
+  correspondence with Fred Harrison in 1976 and in a 1978 interview at his Washington home,
+  aged 83.[10] Harrison's chapter "The Hoyt Heist" (*The Power in the Land*, 1983) is precisely
+  a **rebuttal of Hoyt's disavowal** — Harrison collates appraiser interviews and post-war data
+  to argue the cycle continued despite its discoverer's denial.[10] So the honest sequence is:
+  Hoyt documented recurring but irregular booms (1933), denied a fixed period (1933, p. 417),
+  predicted and later affirmed the pattern's demise (1968–78); the persistence of an ~18-year
+  rhythm is the claim of Harrison, Anderson, and successors, maintained *contra* late Hoyt.
 - **Hoyt was not a Georgist and later work is in tension with land-value-capture-friendly
   planning.** As FHA principal housing economist from 1934, Hoyt's sector model of urban
   land use is documented by later urban historians as having contributed to
@@ -228,10 +243,16 @@ outcome claim.**
    population, transportation, construction, and mortgages) — now confirmed directly against
    the Internet Archive full text (highest figure = Fig. 103; highest table = Table CIII);
    see Source 1.
-10. Fred Harrison, "The Hoyt Heist," reprint. [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
-    — already cited on the wiki's [land-speculation-causes-cycles](/wiki/land-speculation-causes-cycles/)
-    narrative page — used here to flag Harrison's own account of how Hoyt's data has been
-    used and credited in the later cycle literature.
+10. Fred Harrison, "The Hoyt Heist," ch. of *The Power in the Land* (1983), reprint.
+    [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
+    — **fetched and read in full (2026-07-09)**; used for Hoyt's later disavowal of the cycle,
+    verified verbatim: "The fluctuations in the real estate cycle which characterised our
+    economy in the 150 years prior to 1933, have ceased" (Hoyt, ULI Technical Bulletin No. 60,
+    1968, p. 11, per Harrison's footnote 2), reaffirmed "in correspondence with the present
+    author in 1976, and also when interviewed at his home in Washington at the age of 83 in
+    1978"; and for Harrison's rebuttal programme ("Three sorts of evidence have been collated
+    to show that Hoyt is wrong"). Also cited on the
+    [land-speculation-causes-cycles](/wiki/land-speculation-causes-cycles/) narrative page.
 
 *Verification note (2026-07): The key empirical claims on this page have been checked
 directly against the Internet Archive full text (DJVU OCR) of Hoyt's 1933 book. Confirmed
