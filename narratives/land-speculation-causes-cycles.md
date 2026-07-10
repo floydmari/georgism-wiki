@@ -126,9 +126,17 @@ This is the narrative's honest weak point, and it should be presented as such:
   independent survey corroborates this.[11] But critics note that some peaks in the
   historical series (notably 1973, driven by the OPEC oil shock rather than land
   speculation) fit the mechanism poorly, meaning the cycle's dating has sometimes been
-  adjusted to the crises rather than derived independently of them.
-  [VERIFY: the strongest peer-reviewed statistical test, if any, of the cycle's
-  statistical significance against this retrospective-fitting concern.] The accuracy of
+  adjusted to the crises rather than derived independently of them. Hoyt himself — the
+  founding empirical study — warned against reading a fixed period into his Chicago
+  series: "The exceptional speculative movements in land, commodities, and stocks are
+  separated by long intervals of time, and there is no definite period of years between
+  one boom and the next" (Hoyt 1933, p. 417).[3] The peer-reviewed property-cycle
+  literature points the same way: a century-spanning survey of the field (Jadevicius,
+  Sloan & Brown 2017) reports recurrent but *irregular* cycles, with the statistical and
+  spectral-analysis studies it reviews finding lengths anywhere from 4–5 years to 28
+  years depending on country, data series, and method — evidence for cyclicality in
+  property markets, not for a statistically confirmed fixed 18-year period.[15]
+  The accuracy of
   the 1990s/2008 calls also did not translate into mainstream recognition: Mason
   Gaffney documents that Foldvary's 1997 prediction was excluded from a 2010 contest
   organised to identify economists who had foreseen the crash, despite roughly thirteen
@@ -145,11 +153,16 @@ This is the narrative's honest weak point, and it should be presented as such:
   [Austrian critique of LVT](/wiki/lvt-austrian-critique/) likewise locates the cause in
   central-bank credit expansion and malinvestment generally, not land specifically — land
   booms are, on that view, a symptom of monetary policy rather than an independent
-  driver. **The wiki has no dedicated objection page for this mainstream monetary/credit
-  view of the cycle specifically; this is a gap in the objections section that should be
-  filled.** [CITATION NEEDED: a canonical Georgist reply, if one
-  exists in the literature, to the specific claim that land is a symptom rather than a
-  cause.]
+  driver. The wiki carries this objection at
+  [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/).
+  The canonical Georgist reply to the "symptom, not cause" claim is Foldvary's refereed
+  synthesis itself: he notes Hayek's own concession that "there is no reason why the
+  initiating change, the original disturbance, should be of monetary origin," so that
+  "the Austrian credit effects could be induced by real-estate factors and then work in
+  tandem with them to cause the bust," and argues that "even if credit is not unduly
+  expanded, real estate speculation could still cause the cycle, but it is considerably
+  dampened if interest rates are not artificially depressed" (Foldvary 1997,
+  pp. 528, 531).[5]
 - **Direct causal evidence that LVT dampens the cycle is thin.** The
   [supporting outcome page](/wiki/lvt-dampens-land-speculation/) itself rates the
   evidence "moderate": the Estonia comparison is suggestive of density and development

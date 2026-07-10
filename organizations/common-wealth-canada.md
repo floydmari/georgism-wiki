@@ -12,7 +12,7 @@ last_reviewed: 2026-07-03
 
 **Common Wealth Canada** is a Canadian nonprofit think tank that advocates capturing [economic rent](/wiki/resource-rents/) — the unearned value of land and natural resources — through a national [land value tax](/wiki/land-value-tax/), and channelling the proceeds into a sovereign wealth fund that would pay dividends to Canadians. Its core argument is that natural and publicly created wealth (land value driven up by public infrastructure and community growth, and the value of shared natural resources) should be publicly shared rather than privately captured.[1]
 
-The organisation grew out of the same team that built **UBI Works**, a national basic-income advocacy network. According to Common Wealth Canada, after finding that dividend-from-shared-wealth arguments were being conflated with poverty-alleviation arguments for basic income, the team created a separate organisation to make the "pre-distribution" case on its own terms.[2] The exact founding date of Common Wealth Canada is not independently confirmed; its earliest public research output is dated January 2023 [VERIFY: precise founding date/legal registration].
+The organisation grew out of the same team that built **[UBI Works](/wiki/ubi-works/)**, a national basic-income advocacy network. According to Common Wealth Canada, after finding that dividend-from-shared-wealth arguments were being conflated with poverty-alleviation arguments for basic income, the team created a separate organisation to make the "pre-distribution" case on its own terms.[2] The exact founding date of Common Wealth Canada is not independently confirmed; its earliest public research output is dated January 2023 [VERIFY: precise founding date/legal registration].
 
 ## Leadership
 
@@ -45,6 +45,8 @@ Common Wealth Canada is part of a newer, quantitatively oriented wave of Georgis
 - [Canada](/wiki/canada/)
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Resource Rents](/wiki/resource-rents/) · [Citizen's Dividend](/wiki/citizens-dividend/) · [Land Value Tax](/wiki/land-value-tax/) · [Center for Land Economics](/wiki/center-for-land-economics/)
+- [Henry George Foundation of Canada](/wiki/henry-george-foundation-canada/) — the Canadian Georgist organization whose rent definition and 24% mining-royalty benchmark the CWC paper adopts
+- [UBI Works](/wiki/ubi-works/) — the team's predecessor basic-income advocacy organization
 
 ## Sources
 

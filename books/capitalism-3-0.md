@@ -102,6 +102,7 @@ Barnes explicitly connects his proposal to Henry George through the Monopoly boa
 
 ## See Also
 
+- [Valuing Common Assets for Public Finance in Vermont](/wiki/valuing-common-assets-vermont/) — the UVM project that applied Barnes's commons-trust paradigm in the Vermont Common Assets Trust bill (S.44)
 - Commons Trust
 - Carbon Dividends
 - [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)

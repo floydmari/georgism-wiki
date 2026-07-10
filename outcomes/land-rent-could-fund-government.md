@@ -4,7 +4,7 @@ category: outcomes
 tags: [outcomes, revenue-sufficiency, atcor, land-rent]
 stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"
-supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada]
+supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont]
 excerpt: "Estimates of total land rent suggest it could fund a substantial fraction — by some accounts most — of government, though figures are sensitive to assumptions."
 ---
 
@@ -44,7 +44,15 @@ all resource categories, $362.5B of it from a national LVT; the publisher's July
 capitalization rate on StatCan land values, cutting the net-new LVT figure to
 $194B/year. An advocate estimate, carried as such alongside the table's other
 attributed aggregations — and the ~46% cut between the publisher's own versions
-is itself a caution about how method-sensitive these aggregates are.
+is itself a caution about how method-sensitive these aggregates are. Its two
+methodological templates are also on this wiki: [Prosper Australia's *Total
+Resource Rents of Australia* (2013)](/wiki/total-resource-rents-australia/),
+which tallies Australian rents at 23.6% of GDP and finds rent taxation could
+raise 87% of all-levels government revenue, and the [University of Vermont's
+*Valuing Common Assets* study (2008)](/wiki/valuing-common-assets-vermont/),
+which costs Vermont's uncollected common-asset rent at ~$1.2B/year — roughly
+43% of the state's in-state revenue. Both are advocacy/student-project
+estimates, carried with the same attribution caveats.
 
 ### Burgess: LVT as Alternative to Taxation
 

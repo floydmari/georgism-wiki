@@ -19,7 +19,7 @@ This tracker drives Floyd's standing request: *add as `texts/` any and all publi
 
 ## To add — short works, need to fetch/confirm full text
 - [x] **John Stuart Mill, *Programme of the Land Tenure Reform Association, with an Explanatory Statement* (1871)** → texts/land-tenure-reform-programme-1871 *(created 2026-07-09; text from Toronto Collected Works Vol. V via OLL PDF, articles verified against D&D IV 1875 scan at archive.org dli.bengal.10689.4992)*
-- [ ] Churchill, House of Commons land-monopoly speech (4 May 1909) — companion to the Edinburgh speech.
+- [x] **Churchill, "The Budget Resolutions" — House of Commons, 4 May 1909** → texts/churchill-budget-resolutions-1909 *(created 2026-07-09; text from Liberalism and the Social Problem via Gutenberg #18419)*
 
 ## Full public-domain BOOKS we cite (→ `sources/publicdomain/`, not `texts/`)
 These are on Gutenberg/archive and could be mirrored in full to the publicdomain store beside their `books/` summary; large, so lower priority than the short works above.

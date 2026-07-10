@@ -72,6 +72,7 @@ In this country we have long enjoyed the blessings of Free Trade and of untaxed 
 - [Winston Churchill](/wiki/winston-churchill/) — the speaker and his broader 1909–10 land campaign
 - [Winston Churchill, The People's Rights (1910)](/wiki/churchill-peoples-rights/) — the 1910 collection that reprints this speech
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the budget the speech defended
+- [The Budget Resolutions (Commons, 4 May 1909)](/wiki/churchill-budget-resolutions-1909/) — the parliamentary companion speech, also reproduced in full on this wiki
 - [David Lloyd George](/wiki/david-lloyd-george/) · [The Limehouse Speech (1909)](/wiki/limehouse-speech-1909/) — the parallel campaign speech
 - [Unearned Increment](/wiki/unearned-increment/) · [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) · [Land Monopoly](/wiki/land-monopoly/) — the arguments the speech popularised
 

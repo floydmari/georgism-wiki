@@ -47,7 +47,7 @@ A body of contemporary economic criticism argues that the rentier has returned o
 
 ### Standing and the Precariat
 
-[CITATION NEEDED: Guy Standing's work on rentier capitalism and the precariat — referenced in the task notes but not present in the wiki corpus. Standing's *The Corruption of Capitalism* (2016) and related work argue that a rentier class has captured economic institutions at the expense of a growing precariat. A future editor should verify and add this material with proper sourcing.]
+[Guy Standing](/wiki/guy-standing/) argues in *The Corruption of Capitalism: Why Rentiers Thrive and Work Does Not Pay* (Biteback, 2016) that modern economic institutions have been captured by a rentier class — income flowing to holders of property, IP, and platform assets — at the expense of a growing precariat, and in *Plunder of the Commons* (2019) proposes levies on rentier income paid into a commons fund (see his [wiki page](/wiki/guy-standing/) for sourcing).
 
 ## The Contested Boundary of "Rent"
 

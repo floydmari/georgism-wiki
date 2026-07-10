@@ -49,6 +49,7 @@ concentrated) but **design-dependent** at the household level.
 ## See Also
 
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Land Value Tax](/wiki/land-value-tax/)
+- [Taxation of Economic Rents (Schwerhoff, Edenhofer & Fleurbaey 2020)](/wiki/schwerhoff-taxation-economic-rents/) — the same authors' survey: a *linear* land rent tax alone could be regressive on US SCF evidence, but the recycled reform is "very likely to be progressive"
 
 ## Sources
 

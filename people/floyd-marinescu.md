@@ -11,7 +11,7 @@ He founded [Common Wealth Canada](/wiki/common-wealth-canada/), the organization
 Common Wealth and Economic Rent in Canada* (2023) — the national estimate of Canada's land and
 resource rents — and the 2024 distributional study of a national Canadian land value tax, both of
 which anchor this wiki's [Canada](/wiki/canada/) and [British Columbia](/wiki/british-columbia/)
-coverage. He earlier founded UBI Works, a campaign making the economic case for basic income in
+coverage. He earlier founded [UBI Works](/wiki/ubi-works/), a campaign making the economic case for basic income in
 Canada, which frames resource- and land-rent dividends as a funding path — the
 [citizen's dividend](/wiki/citizens-dividend/) tradition in a Canadian setting. [VERIFY: fuller
 biographical detail (business background, other ventures) from independent sources when this stub

@@ -17,7 +17,7 @@ The Foundation conducts education and advocacy for [land value taxation](/wiki/l
 
 ## See Also
 
-- [1909 People's Budget](/wiki/1909-peoples-budget/) · [International Union for Land Value Taxation](/wiki/international-union-lvt/) · [Labour Land Campaign](/wiki/labour-land-campaign/)
+- [1909 People's Budget](/wiki/1909-peoples-budget/) · [International Union for Land Value Taxation](/wiki/international-union-lvt/) · [Labour Land Campaign](/wiki/labour-land-campaign/) · [Henry George Foundation of Canada](/wiki/henry-george-foundation-canada/)
 
 ## Sources
 

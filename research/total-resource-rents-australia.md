@@ -81,6 +81,7 @@ Illustrative micro-level arithmetic, verbatim from the report: "In 2012, the med
 
 ## See Also
 
+- [Valuing Common Assets for Public Finance in Vermont](/wiki/valuing-common-assets-vermont/) — the 2008 US state-level predecessor inventory whose 5%-of-land-value rent benchmark this report cites
 - [Dwyer, The Taxable Capacity of Australian Land and Resources](/wiki/dwyer-taxable-capacity-australia/) — the academic predecessor calculation for Australia
 - [Natural Common Wealth and Economic Rent in Canada](/wiki/natural-common-wealth-economic-rent-canada/) — the Canadian report that adopted (then revised away from) TRRA's land method
 - [Land rent could fund a large share of government](/wiki/land-rent-could-fund-government/) — the outcome this bears on
