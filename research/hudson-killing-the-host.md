@@ -8,7 +8,7 @@ tier: important
 source_url: https://www.counterpunch.org/wp-content/uploads/2015/08/Killing-The-Host_PDF_V7.pdf
 stub: false
 excerpt: "Michael Hudson's 2015 polemic arguing the finance-insurance-real-estate (FIRE) sector extracts economic rent — chiefly land rent capitalized into mortgage debt — at the expense of industrial capitalism, and that classical economics' rent theory was deliberately erased from the mainstream."
-last_reviewed: 2026-07-09
+last_reviewed: 2026-07-10
 supports_outcomes: []
 ---
 
@@ -71,9 +71,10 @@ A substantial part of the book's argument is historical rather than theoretical:
 what he presents as a deliberate intellectual retreat from classical rent theory. According to
 a review of the book by Dwight D. Murphey in the *Journal of Social, Political, and Economic
 Studies* (Summer 2016), Hudson "reviews the long history of the insight that a significant part
-of wealth accrues to its owners as a windfall," tracing the concept of unearned, rent-derived
-wealth through the French Physiocrats, Adam Smith, David Ricardo, John Stuart Mill, and
-[Henry George](/wiki/henry-george/).[1] Hudson's broader claim — argued at length in the book but
+of wealth accrues to its owners as a windfall" — an insight the reviewer notes "is often
+attributed to the nineteenth century economist [Henry George](/wiki/henry-george/), but actually
+goes back to include such luminaries as the French Physiocrats, Adam Smith, David Ricardo and
+John Stuart Mill."[1] Hudson's broader claim — argued at length in the book but
 not something this page can verify independently from context gathered so far — is that this
 classical distinction between earned income and unearned rent was progressively erased from
 mainstream ("neoclassical") economics from the late nineteenth century onward, in part because
@@ -156,8 +157,13 @@ The strongest sourced criticisms of the book fall into three categories:
    *Killing the Host* is best characterized as a work of synthesis and advocacy — assembling
    historical, theoretical, and journalistic material into a polemical argument — rather than a
    study presenting original quantitative evidence for the scale of FIRE-sector rent extraction.
-   [CITATION NEEDED: a source directly assessing the book's empirical/evidentiary basis, as
-   distinct from reviews of its argument and prose] Readers should not treat Hudson's specific
+   The *Rock Salted* review makes this evidentiary assessment directly: Hudson points to "some
+   data (albeit a minimal amount of data)," but "the evidence he gathers in each chapter tends
+   to stop well short of substantiating his broader and more interesting conclusions," and in
+   places (the reviewer cites the Argentina sovereign-debt chapter) he "doesn't cite primary
+   authority, mostly secondary sources from the financial press."[4] This is the same lower-tier
+   blog source as above and carries the same weighting caveat, but it is a direct assessment of
+   the book's evidentiary basis rather than of its argument or prose. Readers should not treat Hudson's specific
    magnitudes or historical causal claims as independently verified by this page; where later,
    quantitative work (e.g. Rognlie's decomposition of the capital share) reaches compatible
    conclusions by different means, that convergence is noted on the [rentier economy
@@ -178,12 +184,15 @@ The strongest sourced criticisms of the book fall into three categories:
 
 1. Dwight D. Murphey, "Michael Hudson's *Killing the Host*: A Disorganized Potpourri that's
    Provocative on Many Subjects, Valuable and Important on Some," *Journal of Social, Political,
-   and Economic Studies*, Vol. 41, No. 2 (Summer 2016). [Gale Academic OneFile listing](https://go.gale.com/ps/i.do?id=GALE%7CA459723686&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=0278839X&p=AONE&sw=w) —
+   and Economic Studies*, Vol. 41, No. 2 (Summer 2016), pp. 84–94. [Journal's own sample-article
+   page](https://jspes.org/summer2016_murphey.html) · [Gale Academic OneFile listing](https://go.gale.com/ps/i.do?id=GALE%7CA459723686&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=0278839X&p=AONE&sw=w) —
    used for the review's assessment of the book's historical rent-theory material and its
-   organizational weaknesses; full text behind a paywall, quoted only via short snippets located
-   through search — page numbers could not be confirmed. [VERIFY: quotations sourced from a
-   search-engine snippet of the full review, not a directly read copy of the article; wording
-   should be re-confirmed against the original journal text before further reuse]
+   organizational weaknesses. The full body of the review is subscribers-only, but the journal's
+   own site openly publishes the article's opening, which contains verbatim both phrases quoted
+   on this page ("a hodge-podge of assorted columns and blogs"; Hudson "reviews the long history
+   of the insight that a significant part of wealth accrues to its owners as a windfall") and the
+   Physiocrats–Smith–Ricardo–Mill–George lineage; quotations and the page range (pp. 84–94) are
+   confirmed against that journal-published text.
 2. Charles Goodhart, Michael Hudson, Michael Kumhof & Nicolaus Tideman, "Post-Corona
    Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto Land," CEPR Discussion
    Paper 16652, 2021. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954888) —
@@ -194,13 +203,16 @@ The strongest sourced criticisms of the book fall into three categories:
    but less directly evidenced than the land-specific case, and for cross-referencing this
    book's relationship to Rognlie/Bonnet's later, independent, quantitative confirmation of the
    land-specific claim.
-4. "Michael Hudson – Killing the Host | Review," *Rock Salted*, July 2016.
-   [rocksalted.com](https://rocksalted.com/2016/07/michael-hudson-killing-the-host/) — a blog
-   source (lower source-quality tier), used only for its specific criticism of the book's
-   unexamined ideological premises, which is not otherwise sourced on this page; full article
-   could not be directly fetched, quotations sourced via search-engine snippet.
-   [VERIFY: quotations sourced from a search-engine snippet, not a directly read copy of the
-   post; wording should be re-confirmed before further reuse]
+4. Syd Fablo, "Michael Hudson – Killing the Host | Review," *Rock Salted*, July 1, 2016.
+   [rocksalted.com](https://rocksalted.com/2016/07/michael-hudson-killing-the-host/) ·
+   [Wayback Machine copy](https://web.archive.org/web/20231206000918/http://rocksalted.com/2016/07/michael-hudson-killing-the-host/) —
+   a blog source (lower source-quality tier), used for its criticism of the book's unexamined
+   ideological premises and for its direct assessment of the book's evidentiary basis, neither
+   of which is otherwise sourced on this page. The live site blocks automated fetching, but the
+   full post was read directly via the December 2023 Wayback Machine snapshot; all quotations
+   ("So long as Hudson dodges the questions of political ideology…"; "As much as he rails
+   against bankers and their political allies as ideologues, Hudson is one too!"; the
+   minimal-data and secondary-sources passages) are confirmed verbatim against that copy.
 5. Michael Hudson (2015), *Killing the Host: How Financial Parasites and Debt Bondage Destroy
    the Global Economy*, Islet (print) / CounterPunch Books (e-book), ISBN 978-0-9897637-5-2.
    [Internet Archive](https://archive.org/details/isbn_9780989763752) (borrowable digital copy,
@@ -212,5 +224,8 @@ The strongest sourced criticisms of the book fall into three categories:
    the FIRE-rent and land-credit passages) are verbatim from the book's Introduction and named
    chapters and were confirmed against this copy. Chapter-level locations are cited inline; exact
    print page numbers are not given because the e-book PDF uses front-matter roman-numeral and
-   internal pagination that does not map cleanly to the print edition. [VERIFY: exact print-edition
-   page numbers for the quoted passages, if precise pagination is later required.]
+   internal pagination that does not map cleanly to the print edition, and the Internet Archive's
+   borrowable digital copy is a "reflowable" e-book-derived digitization with lending-restricted
+   access, so it cannot be used to confirm print pagination either. [VERIFY: exact print-edition
+   page numbers for the quoted passages, if precise pagination is later required; unconfirmable
+   from open sources as of 2026-07.]

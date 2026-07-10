@@ -62,7 +62,7 @@ Most of the original 15 items were resolved by the 2026-07-09/10 verify-sweeps a
 Sonnet/Haiku fallback desks (per Floyd's standing instruction: if Hermes is unresponsive,
 T2 → Sonnet, T3 → Haiku). Resolved & removed: betterment-levy, fire-sector (FRED
 VAPGDPFIRL, 21.7% at 2026 Q1), monbiot (Landfall 2019 verbatim), herbert-spencer,
-tiebout-model + charles-tiebout (course copy of Tiebout 1956), land-bubble (Hoyt DJVU).
+tiebout-model + charles-tiebout (resolved in an earlier session; work-order entry was stale).
 
 Still open:
 - `concepts/allowance-for-corporate-equity.md` — **VERIFY** the ~40%-to-MNC-vehicles figure attributed to IMF Country Report 17/70; IMF blocks direct fetch (fallback agent attempting eLibrary/Wayback 2026-07-10).
