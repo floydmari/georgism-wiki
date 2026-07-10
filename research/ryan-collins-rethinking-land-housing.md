@@ -8,13 +8,13 @@ source_url: https://neweconomics.org/2017/02/rethinking-economics-land-housing
 tier: important
 stub: false
 excerpt: "A 2017 New Economics Foundation / Zed Books study arguing land is the missing factor in modern economics, and that a land-credit feedback loop between mortgage lending and land prices drives housing unaffordability and financial instability."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-10
 supports_outcomes: [lvt-improves-housing-affordability, capital-share-rise-is-land, lvt-dampens-land-speculation, high-land-rents-suppress-productivity]
 ---
 
 ## Summary
 
-*Rethinking the Economics of Land and Housing* (2017) is a book-length study by economists [Josh Ryan-Collins](/wiki/josh-ryan-collins/), Toby Lloyd, and Laurie Macfarlane, published by Zed Books in partnership with the New Economics Foundation (NEF), with a foreword by Oxford economist John Muellbauer [VERIFY: foreword attribution taken from bookseller listings, not the publisher's own page]. Its argument, restated across multiple independent secondary reviews, is that land has been effectively written out of twentieth-century economics, and that restoring it as a distinct factor of production is necessary to explain the UK's — and, by extension, other advanced economies' — housing crisis, rising inequality, and recurring financial instability.
+*Rethinking the Economics of Land and Housing* (2017) is a book-length study by economists [Josh Ryan-Collins](/wiki/josh-ryan-collins/), Toby Lloyd, and Laurie Macfarlane, published by Zed Books in partnership with the New Economics Foundation (NEF), with a foreword by Oxford economist John Muellbauer (the foreword credit is recorded in the book's formal bibliographic citation in *Housing, Theory and Society* — see Sources). Its argument, restated across multiple independent secondary reviews, is that land has been effectively written out of twentieth-century economics, and that restoring it as a distinct factor of production is necessary to explain the UK's — and, by extension, other advanced economies' — housing crisis, rising inequality, and recurring financial instability.
 
 ## The Central Thesis: Land as the Missing Factor
 
@@ -44,7 +44,7 @@ These proposals place the book squarely within the land value capture and Georgi
 
 ## Reception and Honest Limits
 
-The book was reviewed positively in the *LSE Review of Books* by John Tomaney (2017), who assessed it as a well-referenced critique of how mainstream economics and UK policy have failed to address land, paired with a credible set of alternative proposals [VERIFY: exact wording of the review could not be directly re-fetched to quote verbatim; this summary is paraphrased from secondary reporting of the review, not a confirmed direct quotation].
+The book was reviewed positively in the *LSE Review of Books* by John Tomaney (2017). The review's summary describes it as "a crisp and incisive critique of the inadequate treatment afforded to land and housing within mainstream economics that provides readers with a credible set of alternatives," and Tomaney concludes: "This is an admirable book. It provides a powerful critique of the UK's failed policies towards land and housing and it sets out an ambitious but credible set of alternatives which merit serious debate. But it also offers a critique of the inadequate treatment of land and housing by mainstream economics that can travel far beyond the UK." His main reservations are that the authors "say comparatively little about how land use planning has interacted with the financialisation of land and housing" and that they "devote a single page to the spatial dynamics of financialisation," despite the concentration of unearned increments in London and its region.
 
 Three limits are worth stating plainly:
 
@@ -68,6 +68,7 @@ Three limits are worth stating plainly:
 ## Sources
 
 1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, London: Zed Books, in partnership with the New Economics Foundation, 280pp, ISBN 978-1-78699-118-8. [Publisher/NEF summary](https://neweconomics.org/2017/02/rethinking-economics-land-housing) — used for the book's thesis, structure, and publication details.
-2. John Tomaney (2017), "Book Review: Rethinking the Economics of Land and Housing by Josh Ryan-Collins, Toby Lloyd and Laurie Macfarlane," *LSE Review of Books*, 4 September 2017. [blogs.lse.ac.uk](https://blogs.lse.ac.uk/lsereviewofbooks/2017/09/04/book-review-rethinking-the-economics-of-land-and-housing-by-josh-ryan-collins-toby-lloyd-and-laurie-macfarlane/) — used for the reception assessment and characterisation of the book's argument and limits; see [VERIFY] note above on exact wording.
+2. John Tomaney (2017), "Book Review: Rethinking the Economics of Land and Housing by Josh Ryan-Collins, Toby Lloyd and Laurie Macfarlane," *LSE Review of Books*, 4 September 2017. [blogs.lse.ac.uk](https://blogs.lse.ac.uk/lsereviewofbooks/2017/09/04/book-review-rethinking-the-economics-of-land-and-housing-by-josh-ryan-collins-toby-lloyd-and-laurie-macfarlane/) — used for the reception assessment and characterisation of the book's argument and limits; all quotations verified against the review text directly.
 3. UCL Institute for Innovation and Public Purpose, bibliographic record for *Rethinking the Economics of Land and Housing*. [discovery.ucl.ac.uk](https://discovery.ucl.ac.uk/id/eprint/10078333/) — used to cross-check authorship and publication metadata.
-4. Matthew Rognlie (2015) and Bonnet, Chapelle, Trannoy & Wasmer (2021) — [wiki summaries](/wiki/rognlie-capital-share/) / [wiki summary](/wiki/bonnet-land-is-back/) — used as later, independently quantitative work reaching a compatible conclusion on land's share of rising wealth.
+4. Edwin Buitelaar (2022), review of *Rethinking the Economics of Land and Housing*, *Housing, Theory and Society*, 39(1), 116–117, DOI: 10.1080/14036096.2020.1816714. [Utrecht University research portal](https://research-portal.uu.nl/en/publications/rethinking-the-economics-of-land-and-housing-by-ryan-collins-j-ll/) — the review's formal bibliographic heading cites the book as "by Ryan-Collins, J., Lloyd, T. and L. Macfarlane with a Foreword by J. Muellbauer," used to confirm the foreword attribution from a peer-reviewed source rather than bookseller listings.
+5. Matthew Rognlie (2015) and Bonnet, Chapelle, Trannoy & Wasmer (2021) — [wiki summaries](/wiki/rognlie-capital-share/) / [wiki summary](/wiki/bonnet-land-is-back/) — used as later, independently quantitative work reaching a compatible conclusion on land's share of rising wealth.
