@@ -1,6 +1,7 @@
 ---
 title: "Land value taxation can improve housing affordability"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, housing, affordability, speculation, contested]
 stub: false
 evidence_strength: "Contested (sound mechanism; depends on complementary policy)"

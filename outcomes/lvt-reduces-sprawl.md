@@ -1,6 +1,7 @@
 ---
 title: "Land value taxation reduces urban sprawl"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, sprawl, density, split-rate, land-use, empirical]
 stub: false
 evidence_strength: "Moderate for the density mechanism (observational + cross-city + simulation + supportive review); the metro-level sprawl claim itself remains inferential, and the Bentick–Mills timing critique is carried as counter-evidence"

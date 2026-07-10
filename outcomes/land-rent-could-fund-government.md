@@ -1,6 +1,7 @@
 ---
 title: "Land rent could fund a large share of government"
 category: outcomes
+claim_type: problem
 tags: [outcomes, revenue-sufficiency, atcor, land-rent]
 stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"

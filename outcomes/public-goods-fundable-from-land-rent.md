@@ -1,6 +1,7 @@
 ---
 title: "Public goods can be funded from the land rent they create"
 category: outcomes
+claim_type: problem
 tags: [outcomes, public-goods, henry-george-theorem, land-rent]
 stub: false
 evidence_strength: "Strong in theory (formal result); empirically plausible"

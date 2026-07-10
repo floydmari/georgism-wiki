@@ -1,6 +1,7 @@
 ---
 title: "Most of the modern rise in the capital share is land, not capital"
 category: outcomes
+claim_type: problem
 tags: [outcomes, capital-share, land, housing, inequality, piketty]
 stub: false
 evidence_strength: "Strong (independently replicated across US and European data)"

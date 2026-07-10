@@ -1,6 +1,7 @@
 ---
 title: "Landlords cannot pass a land value tax on to tenants"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"

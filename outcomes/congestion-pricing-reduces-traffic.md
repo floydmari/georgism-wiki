@@ -1,6 +1,7 @@
 ---
 title: "Congestion pricing reduces traffic and congestion"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, congestion-pricing, road-pricing, geoism, road-space-rents]
 stub: false
 evidence_strength: "Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature"

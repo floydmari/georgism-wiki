@@ -1,6 +1,7 @@
 ---
 title: "Carbon pricing cuts emissions — modestly, and without wrecking growth"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, carbon-pricing, ecological-georgism, atmosphere-commons, pigouvian, geoism]
 stub: false
 evidence_strength: "Moderate-to-strong for real, measurable emissions reductions across several designs; magnitudes are modest and prices usually sit below the social cost of carbon; aggregate causal effects are debated for the flagship case"

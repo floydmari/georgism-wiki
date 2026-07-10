@@ -1,6 +1,7 @@
 ---
 title: "Capturing resource rent works — where institutions are strong"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, resource-rents, severance-tax, sovereign-wealth-fund, norway, geoism]
 stub: false
 evidence_strength: "Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak"

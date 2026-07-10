@@ -59,6 +59,7 @@ never flattening the gradient (EDITORIAL §0):
 ## See Also
 
 - [Georgism](/wiki/georgism/) — the land core · [Economic Rent](/wiki/economic-rent/) — the unifying concept
+- [The Problems](/wiki/the-problems/) · [The Benefits](/wiki/the-benefits/) — the evidence-graded claim index (diagnosis · measured policy effects)
 - [Geolibertarianism](/wiki/geolibertarianism/) · [Ecological Georgism](/wiki/ecological-georgism/)
 - [Citizen's Dividend](/wiki/citizens-dividend/) — the distribution side of capture
 - [Mapping Modern Economic Rents (Mazzucato et al.)](/wiki/mazzucato-mapping-rents/) — the modern framework

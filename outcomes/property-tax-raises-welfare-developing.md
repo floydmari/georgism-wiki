@@ -1,6 +1,7 @@
 ---
 title: "Higher property-tax rates raise welfare in developing countries"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, property-tax, developing-countries, welfare, empirical]
 stub: false
 evidence_strength: "Moderate (rigorous but single-country causal evidence)"

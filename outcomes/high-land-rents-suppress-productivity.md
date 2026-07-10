@@ -1,6 +1,7 @@
 ---
 title: "High land rents suppress productivity"
 category: outcomes
+claim_type: problem
 tags: [outcomes, productivity, tfp, urban-land, misallocation]
 stub: false
 evidence_strength: "Emerging (theory + recent macro studies)"

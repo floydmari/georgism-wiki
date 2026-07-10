@@ -1,6 +1,7 @@
 ---
 title: "LVT can replace capital taxes without efficiency loss"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, efficiency, capital-tax, lvt, deadweight-loss]
 stub: false
 evidence_strength: "Strong (theory + calibrated empirical models)"

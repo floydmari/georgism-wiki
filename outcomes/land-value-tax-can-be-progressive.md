@@ -1,6 +1,7 @@
 ---
 title: "A land value tax can be progressive"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, equity, progressivity, lvt, wealth]
 stub: false
 evidence_strength: "Strong (theory + concentration of land ownership)"

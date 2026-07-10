@@ -1,6 +1,7 @@
 ---
 title: "Split-rate taxation increases urban construction"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, split-rate, construction, empirical, pennsylvania]
 stub: false
 evidence_strength: "Moderate–strong (multiple empirical studies, consistent direction)"

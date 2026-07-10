@@ -1,6 +1,7 @@
 ---
 title: "Public investment capitalizes into nearby land values"
 category: outcomes
+claim_type: problem
 tags: [outcomes, capitalization, infrastructure, transit, land-value-capture]
 stub: false
 evidence_strength: "Strong (large, consistent empirical literature)"

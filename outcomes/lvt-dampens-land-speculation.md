@@ -1,6 +1,7 @@
 ---
 title: "Land value taxation dampens land speculation"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, speculation, land-cycle, holding-cost, lvt]
 stub: false
 evidence_strength: "Moderate (strong theory; suggestive empirics)"

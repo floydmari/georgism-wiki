@@ -178,7 +178,8 @@ flags these for review.
 **Category-specific:**
 - `research/`: `authors` (list), `year`, `tier` (`Core|Important|Supplementary`), `source_url`,
   optional `supports_outcomes` (list of outcome slugs).
-- `outcomes/`: `evidence_strength` (string), `supported_by` (list of research slugs),
+- `outcomes/`: `evidence_strength` (string), `claim_type` (`problem|benefit` — REQUIRED,
+  enforced by lint; see §5b), `supported_by` (list of research slugs),
   optional `challenged_by` (list of research slugs), `related_people`, `related_places`.
 - `objections/`: `status` (short assessment string).
 - `narratives/`: `narrative_type` (`moral|economic|practical|environmental|historical`),
@@ -197,6 +198,30 @@ flags these for review.
 
 **Bidirectional linking is enforced by lint:** if outcome X lists `supported_by: [r]`, research
 `r` should list `supports_outcomes: [x]`. Same for `challenged_by` / `related_*`.
+
+### §5b Problems and benefits (Floyd, 2026-07-10 — see PLAN-problems-and-benefits.md)
+
+Every `outcomes/` page is one of two kinds of claim, declared in `claim_type`:
+
+- **`problem`** — the diagnosis: an empirical claim about the world that geoism identifies
+  (e.g. "the capital-share rise is land", "public investment capitalizes into land values").
+- **`benefit`** — the prescription's measured effects: an empirical claim about what geoist
+  policy delivers (e.g. "split-rate taxation increases construction").
+
+Reader-facing indexes: `/wiki/the-problems/` and `/wiki/the-benefits/` group the claims with
+evidence grades — **keep both indexes current when adding, retitling, or regrading an
+outcomes page.**
+
+**Acceptance rule per page:** ≥ 2 independent big-name/peer-reviewed anchors, fetched and
+claim-level verified, before a page leaves stub status; `evidence_strength` graded
+(Strong / Moderate / Emerging / Contested / Theoretical); a counter-evidence section is
+mandatory. **Advocate-readability standard:** first screen = the claim + the 3 strongest
+citations + one honest-limits line — a reader should be able to quote the page in an
+argument in 30 seconds and not get burned. Rent-gradient rules apply unchanged: land-core
+claims may be stated strongly when evidence is strong; frontier claims stay attributed.
+
+(Phase 3 — moving files into `problems/` and `benefits/` directories — happens only after
+Floyd signs off on the Phase-1 grouping.)
 
 ---
 

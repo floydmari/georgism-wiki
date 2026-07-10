@@ -204,6 +204,12 @@ def main():
 
         if p["folder"] == "outcomes":
             if not meta.get("evidence_strength"): err(f, "outcome missing evidence_strength")
+            # claim_type (added 2026-07-10, Floyd's problems/benefits direction — see
+            # PLAN-problems-and-benefits.md): every outcomes page is either a diagnosis
+            # ("problem": empirical claim about the world) or a measured policy effect
+            # ("benefit"). Phase 1 tags in place; Phase 3 splits the directory.
+            if meta.get("claim_type") not in ("problem", "benefit"):
+                err(f, "outcome missing claim_type: problem | benefit")
             if not aslist(meta.get("supported_by")): warn(f, "outcome has no supported_by")
             for r in aslist(meta.get("supported_by")):
                 if r not in slugs:

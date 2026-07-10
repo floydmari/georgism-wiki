@@ -1,6 +1,7 @@
 ---
 title: "Rent-targeting corporate taxes reduce debt bias without penalizing marginal investment"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, ace, cash-flow-tax, corporate-tax, debt-bias, tech-rents, geoism, contested-frontier]
 stub: false
 evidence_strength: "Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset"

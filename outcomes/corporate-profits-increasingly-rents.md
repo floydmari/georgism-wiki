@@ -1,6 +1,7 @@
 ---
 title: "Corporate profits increasingly reflect economic rents"
 category: outcomes
+claim_type: problem
 tags: [outcomes, economic-rent, market-power, markups, superstar-firms, contested]
 stub: false
 evidence_strength: "Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency"
@@ -75,4 +76,4 @@ Henry George's analysis located unearned income in land; the modern rent literat
 6. Nicolas Crouzet & Janice Eberly (2019), "Understanding Weak Capital Investment: the Role of Market Concentration and Intangibles," NBER WP 25869 / Jackson Hole symposium. [NBER](https://www.nber.org/papers/w25869) — used for the intangibles counter-interpretation and the sector decomposition.
 7. David Autor, David Dorn, Lawrence Katz, Christina Patterson & John Van Reenen (2020), "The Fall of the Labor Share and the Rise of Superstar Firms," *QJE* 135(2). [NBER](https://www.nber.org/papers/w23396) — used for the winner-take-most efficiency counter-reading.
 8. Mariana Mazzucato, Josh Ryan-Collins & Giorgos Gouzoulis (2023), "Mapping Modern Economic Rents," *Cambridge Journal of Economics* (venue per the wiki's [research page](/wiki/mazzucato-mapping-rents/)). [UCL](https://discovery.ucl.ac.uk/id/eprint/10172018/1/bead013.pdf) — used for treating intangible/platform returns as the modern frontier of rent analysis.
-9. Laura Power & Austin Frerick (2016), "Have Excess Returns to Corporations Been Increasing Over Time?", *National Tax Journal* / Treasury OTA WP 111. [Treasury](https://home.treasury.gov/system/files/131/wp-111.pdf) — used for the tax-return decomposition of normal vs excess returns (~40%→25% normal share; magnitudes [VERIFY]-flagged on the [research page](/wiki/power-frerick-excess-returns/)).
+9. Laura Power & Austin Frerick (2016), "Have Excess Returns to Corporations Been Increasing Over Time?", *National Tax Journal* / Treasury OTA WP 111. [Treasury](https://home.treasury.gov/system/files/131/wp-111.pdf) — used for the tax-return decomposition of normal vs excess returns. Magnitudes verified against the Treasury PDF (abstract): the fraction of the C-corporation tax base attributable to the risk-free return "has gradually declined over time, averaging 40 percent from 1992–2002 and 25 percent from 2003–2013."

@@ -1,6 +1,7 @@
 ---
 title: "Resource-rent dividends are workable and durable"
 category: outcomes
+claim_type: benefit
 tags: [outcomes, resource-rents, citizens-dividend, alaska]
 stub: false
 evidence_strength: "Strong (decades of real-world operation)"
