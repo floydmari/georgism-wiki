@@ -38,4 +38,4 @@ Richard Noyes is the editor of *Now the Synthesis: Capitalism, Socialism and the
 
 1. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (London: Centre for Incentive Taxation Ltd / Shepheard-Walwyn; New York: Holmes & Meier, 1991). — used for the synthesis thesis and the volume's structure (A/D-claims). [book page](/wiki/now-the-synthesis/)
 2. Nicolaus Tideman, "Constitutional Property Rights and Land Value Taxation" (Ch. 2 of *Now the Synthesis*) — used for the constitutional argument (C-claim).
-3. Fred Harrison, "Planning Gain: The Implicit Land Value Tax" (Ch. 3 of *Now the Synthesis*) — used for the planning gain analysis (D-claim).
+3. Francis M. Smith, "'Planning Gain': the making of a tax on land values" (Ch. 3 of *Now the Synthesis*, pp. 60–74) — used for the planning gain analysis (D-claim; chapter author corrected against the book's contents page 2026-07-10 — an earlier draft misattributed it to Fred Harrison, whose chapter is Ch. 4, "Post-socialism and the Single Tax").

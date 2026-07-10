@@ -117,7 +117,7 @@ See: [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/from-wasteland-
 
 Richard Noyes's edited volume *Now the Synthesis* (1991) frames the single tax as the intellectual resolution of the capitalism-vs-socialism divide. Noyes argues that both systems "exaggerated the potential for conflict" by over-simplifying individual and collective rights, and that George's principle — land rent belongs to the community — represents the emerging social synthesis (Noyes 1991, p. 11). (D-claim; interpretive)
 
-The *Now the Synthesis* (1991) contributors supply the narrative's modern policy hooks — Tideman's constitutional route to 100% LVT, Harrison's UK planning-gain evidence, Richards's Green-movement bridge; the substance is on the [LVT](/wiki/land-value-tax/) and [Georgism](/wiki/georgism/) pages and the [book page](/wiki/now-the-synthesis/). (C-claim; theoretical)
+The *Now the Synthesis* (1991) contributors supply the narrative's modern policy hooks — Tideman's constitutional route to 100% LVT, Francis M. Smith's UK planning-gain evidence, Richards's Green-movement bridge; the substance is on the [LVT](/wiki/land-value-tax/) and [Georgism](/wiki/georgism/) pages and the [book page](/wiki/now-the-synthesis/). (C-claim; theoretical)
 
 > "Socialists see the connection, but go on to make the fatal mistake of proscribing private ownership of land altogether, thereby missing another connection — between private decision-making and prosperity." — David Richards, in Noyes 1991, p. 159
 

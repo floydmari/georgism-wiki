@@ -21,6 +21,10 @@ This tracker drives Floyd's standing request: *add as `texts/` any and all publi
 - [x] **John Stuart Mill, *Programme of the Land Tenure Reform Association, with an Explanatory Statement* (1871)** → texts/land-tenure-reform-programme-1871 *(created 2026-07-09; text from Toronto Collected Works Vol. V via OLL PDF, articles verified against D&D IV 1875 scan at archive.org dli.bengal.10689.4992)*
 - [x] **Churchill, "The Budget Resolutions" — House of Commons, 4 May 1909** → texts/churchill-budget-resolutions-1909 *(created 2026-07-09; text from Liberalism and the Social Problem via Gutenberg #18419)*
 
+## To add — confirmed fetchable, next up
+- [ ] Henry George, *The Irish Land Question* / *The Land Question* (1881, Appleton) — full clean OCR confirmed at https://archive.org/download/irishlandquestio00geor/irishlandquestio00geor_djvu.txt (verified 2026-07-10); ~20k words, texts/ candidate; cited on research/the-land-question, events/irish-land-war.
+- [ ] Henry George Jr., *The Life of Henry George* (1900) — PD, full text at archive.org (lifeofhenrygeorg00geor); large (book-length) → `sources/publicdomain/` channel; already cited as a primary on 3+ pages.
+
 ## Full public-domain BOOKS we cite (→ `sources/publicdomain/`, not `texts/`)
 These are on Gutenberg/archive and could be mirrored in full to the publicdomain store beside their `books/` summary; large, so lower priority than the short works above.
 - [ ] J.S. Mill, *Principles of Political Economy* (1848) — Gutenberg #30107. (research/mill-principles-land)
