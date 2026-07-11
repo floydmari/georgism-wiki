@@ -4,6 +4,7 @@ category: concepts
 tags: [atcor, georgism, land-value-tax, taxation, mason-gaffney, fiscal-theory]
 stub: false
 sources: [gaffney-1994, george-1879]
+excerpt: "ATCOR — “All Taxes Come Out of Rent” — is Mason Gaffney’s theorem that taxes on labour, capital, and trade ultimately fall on land rent, the residual left after other factors earn market returns. If it holds, shifting taxes onto land rent is self-financing — though it remains an untested hypothesis."
 ---
 
 ## The Theorem

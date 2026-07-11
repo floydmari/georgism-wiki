@@ -4,6 +4,7 @@ category: concepts
 tags: [single-tax, henry-george, georgism, land-value-tax, tax-reform]
 stub: false
 sources: [george-1879]
+excerpt: "Henry George’s 1879 proposal to replace all taxes on income, trade, and production with a single tax on the annual rental value of land, excluding improvements — capturing for the public the value the community itself creates."
 ---
 
 ## The Proposal
