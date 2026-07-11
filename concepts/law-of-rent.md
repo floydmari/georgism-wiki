@@ -71,6 +71,8 @@ The Law of Rent, as a theoretical model, has been subject to several lines of cr
 
 ## See Also
 
+- [Hornbeck & Moretti](/wiki/hornbeck-moretti-tfp-incidence/) — a modern instrumented restatement of the Ricardian capture concern, with its own honest counterweight
+
 - [Economic Rent](/wiki/economic-rent/) — the broader concept of which the Law of Rent is the classical foundation
 - [Margin of Production](/wiki/margin-of-production/) — the reference point that determines the magnitude of rent
 - [David Ricardo](/wiki/david-ricardo/) — the classical economist who formulated the law

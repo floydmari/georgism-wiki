@@ -62,6 +62,8 @@ An independent macro confirmation comes from [Bakker (2023, IMF)](/wiki/bakker-l
 
 ## See Also
 
+- [Hornbeck & Moretti: who benefits from productivity growth](/wiki/hornbeck-moretti-tfp-incidence/) — "the split between labor and land is potentially more consequential... than the split between labor and capital"
+
 - [Piketty, Capital in the Twenty-First Century](/wiki/piketty-capital-21st-century/) — the dataset the land decomposition reinterprets (context source)
 
 - [Economic Rent](/wiki/economic-rent/) · [Unearned Increment](/wiki/unearned-increment/) · [Land Value Tax](/wiki/land-value-tax/)

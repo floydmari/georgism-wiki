@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, poverty, housing-costs, land-values, rents, progress-and-poverty, inequality]
 stub: false
 evidence_strength: "Moderate (every link in the chain is separately well-evidenced; the end-to-end causal claim — land appreciation causes poverty — is rarely tested as such)"
-supported_by: [knoll-schularick-steger-house-prices, rognlie-capital-share, albouy-what-are-cities-worth, albouy-ehrlich-shin-metro-land, progress-and-poverty]
+supported_by: [knoll-schularick-steger-house-prices, rognlie-capital-share, albouy-what-are-cities-worth, albouy-ehrlich-shin-metro-land, progress-and-poverty, hornbeck-moretti-tfp-incidence]
 excerpt: "Housing costs now determine who counts as poor in America — renters' supplemental poverty rate is 23.9% vs 5.7% for mortgaged owners — while rents have outrun renter incomes 21% to 2% since 2001, and the long-run rise in housing costs is driven by land prices, not construction."
 last_reviewed: 2026-07-10
 ---
@@ -51,6 +51,8 @@ The sharpest edge of the claim is the best-documented: across U.S. cities, homel
 ## Has George's causal claim been tested as such?
 
 **No — and the page should be read with that in view.** The components are each well-studied: housing costs' role in poverty measurement (Census/BLS SPM literature), rent burdens (JCHS and a large housing literature), land's role in housing costs (Knoll–Schularick–Steger; Albouy–Ehrlich–Shin), land's absorption of growth (Albouy; Rognlie), and place effects on mobility (Chetty–Hendren). But we found no modern empirical study that estimates the *end-to-end* causal effect of land appreciation on poverty rates as George posed it — e.g., a design tracing exogenous land-value shocks through rents into poverty transitions. The chain here is assembled from separately evidenced links, which is why this page is graded **Moderate** rather than Strong despite the strength of its parts. Constructing such a test is an open research problem; until one exists, the composite claim should be attributed ("Georgists argue, and component evidence suggests…"), not stated as an established empirical finding.
+
+Causal mechanism evidence comes from [Hornbeck & Moretti](/wiki/hornbeck-moretti-tfp-incidence/): local productivity growth raises housing costs enough that renters' "increased earnings are largely offset by increased cost of living" — the land-cost channel operating on measured incomes, with the honest caveat that their national bottom line puts overall incidence mainly on workers once mobility is counted.
 
 ## Counter-Evidence and Limits
 
