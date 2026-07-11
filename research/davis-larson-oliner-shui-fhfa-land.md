@@ -48,10 +48,17 @@ in the U.S."[2] — and the modern data backbone under
   agricultural, and public land require other sources.
 - **Appraisal-derived** — estimates inherit appraisal-industry conventions;
   the authors' methods mitigate but cannot eliminate this.
-- **Verification note.** Proxy-blocked fetches; the paper, venues (FHFA WP
-  19-01; JME 2021), scope, and method are corroborated across four independent
-  listings. Scan depth **Light**. [VERIFY: headline national land share and any
-  quoted magnitudes on direct read before citing specific numbers.]
+- **Headline magnitudes (direct read of WP 19-01).** The authors put land's share
+  of house value at **about 40% "for the aggregate United States over 2012–2019"**
+  (used in their §4.3 measurement-error calibration). Land shares vary enormously
+  across geography — from 7.7% at the 1st percentile of counties to 54.3% at the
+  99th (pooled cross-section) — and the paper's dynamic finding is that over
+  2012–2019 land prices (and hence land shares) rose fastest in the largest metros
+  and near CBDs, while land shares *fell* in the smallest metros. The average price
+  of residential land was about $152k/acre (median $53k/acre), with a right-skewed
+  distribution. The dataset covers 960 counties, 7,742 ZIP codes, and 10,515
+  census tracts in the annual panel (more in the pooled cross-section). Scan depth
+  now **Full** for these figures.
 
 ## Bears On
 
@@ -72,8 +79,11 @@ in the U.S."[2] — and the modern data backbone under
    United States," FHFA Staff Working Paper 19-01 (2019); *Journal of Monetary
    Economics* (2021).
    [FHFA](https://www.fhfa.gov/research/papers/wp1901) ·
-   [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0304393220301379)
-   — used for scope, data, and method (A/B-claims; see verification note).
+   [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0304393220301379) ·
+   [full-text PDF](https://www.fhfa.gov/document/wp1901.pdf)
+   — full text read directly in this pass; used for scope, data, method, and the
+   headline magnitudes (≈40% aggregate US land share 2012–2019; 7.7–54.3% county
+   percentile range; $152k/acre average land price; panel coverage counts).
 2. Morris A. Davis & Michael G. Palumbo, "The price of residential land in
    large US cities," *Journal of Urban Economics* 63(1), 2008 (earlier FRB FEDS
    2006-25). [FEDS](https://www.federalreserve.gov/Pubs/FEDS/2006/200625) —

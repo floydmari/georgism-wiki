@@ -2,8 +2,8 @@
 title: "Land Taxes and Housing Prices (Danish Economic Councils)"
 category: research
 tags: [research, land-value-tax, incidence, capitalization, denmark, quasi-experimental]
-authors: [De Økonomiske Råd (Danish Economic Councils) working paper]
-year: 2018
+authors: [Anne Kristine Høj, Mads Rahbek Jørgensen, Poul Schou]
+year: 2017
 tier: core
 source_url: https://dors.dk/oevrige-publikationer/arbejdspapir/land-taxes-and-housing-prices
 stub: false
@@ -14,9 +14,10 @@ supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 
 ## Summary
 
-"Land Taxes and Housing Prices" is a working paper from **De Økonomiske Råd** (the
-Danish Economic Councils, DØRS — the Danish government's independent economic
-advisory body), 2018. It is the closest available thing to a **direct
+"Land Taxes and Housing Prices" is Working Paper 2017:1 from the Secretariat of
+**De Økonomiske Råd** (the Danish Economic Councils, DØRS — the Danish government's
+independent economic advisory body), by **Anne Kristine Høj, Mads Rahbek Jørgensen
+& Poul Schou**. It is the closest available thing to a **direct
 quasi-experimental test of pure land-tax incidence**: Denmark levies a recurrent
 municipal tax on land value alone (grundskyld), and the country's 2007
 local-government amalgamation reform produced exogenous variation — land-tax rates
@@ -52,12 +53,15 @@ directly rather than through the synthesis.
   measures house prices, and full capitalization implies owners bear the tax; the
   no-pass-through-to-rents conclusion follows from that plus arbitrage, rather
   than from a direct Danish rent regression reported here.
-- **Verification note.** Direct fetch proxy-blocked; venue, design, and the
-  full-capitalization finding corroborated across independent renderings
-  (including the DØRS listing itself). Individual author names were not reliably
-  confirmed and are deliberately omitted — the paper is cited institutionally.
-  [VERIFY: author names and exact point estimates on direct read.] Scan depth
-  **Light**.
+- **Point estimates (direct read).** The main model's coefficient on the effective
+  land-tax rate grows (in absolute value) from −0.0225 in 2004 to −0.0426 in 2007
+  as the reform is announced and implemented; the 2007 coefficient implies a
+  discount rate of about 2.3% — squarely within the paper's independently argued
+  "reasonable" 2–3% range, which is what makes the estimate "compatible with a 100
+  per cent capitalization of the future land tax changes." Descriptively (Table 2),
+  single-family house prices in areas where land taxes *rose* grew on average about
+  76,000 DKK less over 2003–2007 than in areas where they fell — roughly 7
+  percentage points slower price growth.
 
 ## Bears On
 
@@ -72,9 +76,11 @@ directly rather than through the synthesis.
 
 ## Sources
 
-1. De Økonomiske Råd (Danish Economic Councils), "Land Taxes and Housing Prices,"
-   working paper, 2018.
-   [DØRS listing](https://dors.dk/oevrige-publikationer/arbejdspapir/land-taxes-and-housing-prices)
-   — used for the design (2007 reform variation) and the full-capitalization
-   finding (B-claims; quotation under 50 words from the paper's
-   abstract/description as rendered on the listing).
+1. Anne Kristine Høj, Mads Rahbek Jørgensen & Poul Schou, "Land Taxes and Housing
+   Prices," De Økonomiske Råds Sekretariat (Danish Economic Councils) Working Paper
+   2017:1.
+   [DØRS listing](https://dors.dk/oevrige-publikationer/arbejdspapir/land-taxes-and-housing-prices) ·
+   [full-text PDF](https://dors.dk/files/media/publikationer/arbejdspapirer/2017/02_arbejdspapir_land_tax.pdf)
+   — full text read directly in this pass; used for authorship, the design (2007
+   reform variation), the full-capitalization finding, and the point estimates
+   (2004–07 coefficients, implied 2.3% discount rate, Table 2 price differences).

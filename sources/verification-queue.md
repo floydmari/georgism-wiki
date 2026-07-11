@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-11 by `scripts/verification_queue.py` (47 markers). 
+Generated 2026-07-11 by `scripts/verification_queue.py` (33 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -13,45 +13,30 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/barnes-sky-trust.md` — **CITATION NEEDED** a directly fetched/verified copy of the book's own text for exact dividend figures, page numbers, and further direct quotations — islandpress.org returned 403 t
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (16)
+## needs-unblocked-web (proxy allowlist or manual fetch) (1)
 
-- `people/homer-hoyt.md` — **VERIFY** direct fetch of this obituary returned HTTP 403 in this research pass; details are drawn from search-engine-indexed excerpts, not a directly read full text.
-- `people/homer-hoyt.md` — **CITATION NEEDED** a directly fetched primary institutional source; hoytgroup.org returned HTTP 404 for the specific biography page in this research pass.
 - `people/homer-hoyt.md` — **VERIFY** ` on several specifics due to a blocked direct fetch of the source. 11. This wiki's [LVT dampens land speculation
-- `people/wallace-oates.md` — **CITATION NEEDED** direct access to regression tables for exact sample size, data year, and coefficients — the primary text could not be fetched in the source session; qualitative
-- `research/arnott-hgt-practical-guide.md` — **VERIFY** current faculty-page URL, as this session's fetch relied on the paper's own author footnote (p. 1057) rather than a live BC directory page.
-- `research/bezemer-no-one-saw-this-coming.md` — **VERIFY** the exact inclusion list and criteria wording on direct read of the MPRA text.
-- `research/cunningham-seattle-options.md` — **VERIFY** the precise regression specification, sample size/period, and statistical significance levels for these estimates — this session could not directly fetch the fu
-- `research/davis-larson-oliner-shui-fhfa-land.md` — **VERIFY** headline national land share and any quoted magnitudes on direct read before citing specific numbers.
-- `research/dors-land-taxes-housing-prices.md` — **VERIFY** author names and exact point estimates on direct read.
-- `research/dwyer-taxable-capacity-australia.md` — **VERIFY** the headline rent/GDP and revenue-replacement figures on direct read — do not cite magnitudes until then.
-- `research/gwartney-estimating-land-values.md` — **VERIFY** exact date and the essay's specific procedural claims on direct read.
-- `research/jones-marinescu-alaska-pfd.md` — **VERIFY** This session's web access to the AEA, NBER, SSRN, IZA, and university-hosted PDF versions of this paper returned network/access errors (proxy 403s), so the full
-- `research/mieszkowski-property-tax-incidence.md` — **CITATION NEEDED** a directly fetched copy of the primary text of Mieszkowski (1972) — this session's sandboxed web access returned 403/connection-blocked errors for sciencedirect
-- `research/taranu-verbeeck-property-tax-sprawl.md` — **VERIFY** the review's inclusion criteria and study count on direct read.
-- `research/tideman-plassmann-losses-of-nations.md` — **VERIFY** the exact G7 loss figure, year basis, and method on direct read — do not cite magnitudes until confirmed against the chapter text.
-- `research/world-bank-changing-wealth.md` — **VERIFY** this session's access to the full main-volume PDF (openknowledge.worldbank.org and the curated documents1.worldbank.org full-report link) returned a 403/binary-
 
 ## needs-new-source (research/forage task) (4)
 
-- `concepts/radical-markets.md` — **CITATION NEEDED** empirical evidence on COST self-assessment accuracy in practice
+- `concepts/radical-markets.md` — **CITATION NEEDED** empirical evidence on COST self-assessment accuracy in practice — checked 2026-07-11 against the peer-reviewed article version (Posner & Weyl 2017, "Property Is
 - `narratives/land-and-the-black-white-wealth-gap.md` — **CITATION NEEDED** empirical estimate of an LVT-plus-dividend regime's distributional effect by race
 - `narratives/the-great-land-robbery.md` — **CITATION NEEDED** empirical work connecting historical land takings to contemporary land-wealth distribution.
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (21)
+## unclassified (T1 triage) (22)
 
-- `concepts/radical-markets.md` — **CITATION NEEDED** specific administrative-cost comparisons
+- `concepts/radical-markets.md` — **CITATION NEEDED** specific administrative-cost comparisons — checked 2026-07-11 against the peer-reviewed article version (Posner & Weyl 2017, *JLA* 9(1)); the article develops t
 - `people/homer-hoyt.md` — **VERIFY** Wikipedia is a tertiary source; the career chronology should be reconciled against a citable secondary biographical source such as the Sage Encyclopedia of Geog
 - `people/homer-hoyt.md` — **VERIFY** full-text confirmation of sector-model details beyond the abstract.
-- `people/homer-hoyt.md` — **VERIFY** full-text confirmation of Light's specific claims about Hoyt's role.
+- `people/homer-hoyt.md` — **VERIFY** Light's specific full-text claims about Hoyt's role remain unconfirmed behind the paywall.
 - `people/homer-hoyt.md` — **VERIFY** replace this general Wikipedia context citation with a dedicated peer-reviewed source on the FHA Underwriting Manual specifically, e.g. Jackson's *Crabgrass Fro
 - `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's role (if any) in resisting or responding to the early stages of the rollback during his later mayoral terms — the wiki's sources do not address this di
 - `places/vancouver.md` — **VERIFY** only the *precise* start-year 1969 (as opposed to the fact of a 50→75 percent step somewhere in that window, now independently corroborated) still rests on Engl
 - `benefits/landlords-cannot-pass-lvt-to-tenants.md` — **CITATION NEEDED** additional quasi-experimental land-tax-specific incidence studies.
 - `narratives/the-tax-you-cant-dodge.md` — **CITATION NEEDED** a cross-country estimate of the assessment gap as a share of potential land-tax revenue — Almy documents the under-revaluation mechanism internationally but doe
-- `research/cunningham-seattle-options.md` — **CITATION NEEDED** primary-text confirmation of the full regression tables and sample description.
-- `research/cunningham-seattle-options.md` — **CITATION NEEDED** direct access to the full paywalled text (regression tables, sample construction, exact estimation period) — this session verified the paper's existence, citati
+- `research/cunningham-seattle-options.md` — **CITATION NEEDED** primary-text confirmation of the full regression tables and sample description — available in the paywalled *JUE* article and the ProQuest-gated dissertation (S
+- `research/cunningham-seattle-options.md` — **CITATION NEEDED** direct access to the full text (regression tables, sample construction, exact estimation period), available in the paywalled *JUE* article and the ProQuest-gate
 - `research/foldvary-reply-gochenour-caplan.md` — **CITATION NEEDED** the paywalled full text of Foldvary's reply — its section-level counter-arguments.
 - `research/gochenour-caplan-search-theoretic.md` — **CITATION NEEDED** the paywalled full text of Foldvary's reply — a future editor with institutional access should add its specific counter-arguments to this page or the objection 
 - `research/gochenour-caplan-search-theoretic.md` — **VERIFY** whether later commentary, including the paywalled full text of Foldvary's reply, specifically challenges the Uganda analogy
@@ -61,5 +46,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/piketty-capital-21st-century.md` — **VERIFY** orchestrator should confirm whether `supports_outcomes` is the honest wiring here, or whether this page should be context-only with no `supports_outcomes`, give
 - `research/progress-18-6-year-cycle.md` — **VERIFY** whether the Oxford Review 2025 piece engages with cycle-length claims at all — left open; this source is outside this verification sweep's two assigned primarie
 - `research/social-problems.md` — **CITATION NEEDED** a dedicated scholarly treatment of *Social Problems*'s reception and circulation figures, as distinct from *Progress and Poverty*'s, was not located in this pas
+- `research/tideman-plassmann-losses-of-nations.md` — **VERIFY** obtain the primary *Losses of Nations* chapter and confirm whether any combined-G7 loss figure exists and what Harrison's *Boom Bust* Ch. 14 §2 actually states;
 - `research/widerquist-howard-pfd.md` — **VERIFY** exact dividend-formula history and legislative disputes 2016–present, which postdate this source and are outside its scope
 

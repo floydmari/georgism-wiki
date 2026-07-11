@@ -33,7 +33,8 @@ calling all of the main turns in the markets and the economy" — advocacy-level
 claims that no independent audit on file substantiates; the wiki's assessment of
 the cycle literature's prediction record lives at
 [land speculation causes cycles](/wiki/land-speculation-causes-cycles/), which
-rests on Bezemer's independent survey rather than practitioner self-description.
+weighs independent evidence — Bezemer's independent survey corroborates Fred Harrison's
+advance call — rather than practitioner self-description.
 
 ## Citizen's Dividend (citdiv.org)
 
