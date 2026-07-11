@@ -35,6 +35,8 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 
 ## See Also
 
+- [DST incidence](/wiki/digital-services-tax-incidence/) — Cui–Hashimzade's framing of digital platform revenue as location-specific rent, royalty-style
+
 - [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/)
 
 - [Hartwick's Rule (1977)](/wiki/hartwick-rule/) — invest resource rents to sustain future consumption

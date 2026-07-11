@@ -52,6 +52,8 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 
 ## See Also
 
+- [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — an ad tax argued as Pigouvian on the harms of surveillance advertising
+
 - [Ecological Georgism](/wiki/ecological-georgism/) — the extension of Georgist rent-capture to environmental externalities
 - [Deadweight Loss](/wiki/deadweight-loss/) — why most taxes are inefficient, and why Pigouvian taxes and LVT are exceptions
 - [Resource Rents](/wiki/resource-rents/) — the Georgist treatment of natural resource rents as socially capturable
