@@ -107,6 +107,7 @@ caveats a fair reader should know:
 
 ## See Also
 
+- [Buettner (2003): Tiebout Visits Germany](/wiki/buettner-german-land-tax-capitalization/) — German municipal-level evidence that variation in local land tax rates capitalizes into land prices without raising rents.
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/) · [Tax Capitalization](/wiki/tax-capitalization/)
 - [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/) · [Zodrow (2001)](/wiki/zodrow-three-views/) — the theory
 - [Palmon & Smith (1998)](/wiki/palmon-smith-capitalization/) · [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/) — the measurement

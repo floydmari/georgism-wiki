@@ -40,6 +40,7 @@ The full evidence wiring for this outcome (each page carries its external citati
 
 ## See Also
 
+- [Bourassa (1987): Land Value Taxation and New Housing Development in Pittsburgh](/wiki/bourassa-pittsburgh-lvt-housing/) — the earliest econometric study finding Pittsburgh's split-rate tax significantly increased new-housing construction
 - [Land Value Tax](/wiki/land-value-tax/) · [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) · [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/)
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the Australian SVR vs NAV evidence
 - [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — the companion outcome page using the same Australian data

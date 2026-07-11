@@ -73,6 +73,7 @@ Land bubbles matter because they:
 
 ## See Also
 
+- [Japanese Asset Price Bubble (1986–1991)](/wiki/japanese-asset-price-bubble/) — the most extreme documented land bubble in modern history, and the definitive real-world case study for this concept
 - [Land Speculation](/wiki/land-speculation/) — the behaviour that drives land bubbles
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the general macroeconomic pattern within which land bubbles occur
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the periodicity claim about recurring land-driven booms

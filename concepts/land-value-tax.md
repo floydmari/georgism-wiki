@@ -54,6 +54,7 @@ Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radica
 
 ## See Also
 
+- [Veil of Secrecy over Land Ownership and Values](/wiki/land-ownership-secrecy/) — Harrison's account of systematic suppression of land ownership and price data as a standing obstacle to assessment and rent capture
 - [Site Value](/wiki/site-value/)
 
 - [Land Value Capture](/wiki/land-value-capture/)

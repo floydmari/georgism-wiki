@@ -77,6 +77,10 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
+- [Roy Wenzlick](/wiki/roy-wenzlick/) — independently found the same ~18-year real-estate cycle from 120+ U.S. cities' data, corroborating Hoyt's Chicago findings
+- [Melbourne Land Boom of the 1880s](/wiki/melbourne-land-boom-1880s/) — an Australian instance of the cycle, with land returns peaking around 1887 before the 1891–93 collapse and Australia's deepest 19th-century depression.
+- [Bryan Kavanagh](/wiki/bryan-kavanagh/) — Melbourne valuer whose property-sales-to-GDP 'barometer' (the Kavanagh-Putland Index) applies land-cycle logic to forecast Australian recessions
+- [Land Boom of 1888 and Panic of 1893](/wiki/panic-of-1893/) — the Oklahoma land-rush-era boom and banking panic marking the frontier-closure node in the 18-year cycle sequence
 - [Miller (2000): "On Fairness and Efficiency"](/wiki/miller-on-fairness-and-efficiency/) — a flagged, unverified citation reportedly behind part of the cycle's 5%-interest/14-year timing mechanism and a rent-privatization health-gradient claim
 - [Japan](/wiki/japan/) — the Meiji land tax that funded industrialization, and the canonical 1955-73 and 1986-91 land-cycle episodes documented by Fred Harrison
 - [Objection: Bubbles Cannot Be Identified in Advance](/wiki/bubbles-cannot-be-identified-in-advance/) — tests the Greenspan doctrine against the land-cycle school's ex-ante prediction record

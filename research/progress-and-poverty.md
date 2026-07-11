@@ -35,6 +35,8 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 
 ## See Also
 
+- [Thomas Robert Malthus](/wiki/thomas-malthus/) — the population theorist George devotes Book II to refuting, and an independent 1815 co-discoverer of the theory of rent
+- [Overpopulation Causes Poverty (Malthusianism)](/wiki/overpopulation-causes-poverty/) — the rival explanation of poverty that Book II of this work is devoted to refuting
 - [Margin of Production](/wiki/margin-of-production/)
 
 - [Henry George](/wiki/henry-george/) — the author

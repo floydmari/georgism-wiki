@@ -24,6 +24,7 @@ The theorem gives Georgism a rigorous foundation in mainstream theory: it is not
 
 ## See Also
 
+- [Hotelling (1938): The General Welfare and Marginal-Cost Pricing](/wiki/hotelling-1938-marginal-cost-pricing/) — the 1938 marginal-cost-pricing paper that anticipates the theorem's logic of funding fixed public costs from a non-distorting revenue source
 - [Optimal City Size](/wiki/optimal-city-size/)
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [ATCOR](/wiki/atcor/)

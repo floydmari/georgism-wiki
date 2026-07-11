@@ -41,6 +41,7 @@ Site value is the conceptual and administrative foundation of pure land value ta
 
 ## See Also
 
+- [South Africa](/wiki/south-africa/) — one of the world's longest-running municipal site-value-rating traditions (Transvaal/Johannesburg), later replaced by a market-value base under the 2004 Municipal Property Rates Act
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Split-Rate Taxation](/wiki/split-rate-taxation/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)

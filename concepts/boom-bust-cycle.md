@@ -81,6 +81,8 @@ The land-cycle reading's evidence base has genuine strengths but also acknowledg
 
 ## See Also
 
+- [Asian Financial Crisis (1997)](/wiki/asian-financial-crisis-1997/) — a property-led boom-bust originating in Thai land speculation, cited by Anderson as evidence the land cycle operates outside the US
+- [Silicon Valley](/wiki/silicon-valley/) — Fred Harrison's case study that the dot-com 'New Economy' was land speculation in disguise, with tech productivity gains absorbed as rent
 - [Alan Greenspan](/wiki/alan-greenspan/) — Fed Chairman 1987-2006 whose denial of an identifiable housing bubble is the Georgist tradition's leading case study for the limits of monetary-policy-only readings of the cycle
 - [Land Bubble](/wiki/land-bubble/)
 

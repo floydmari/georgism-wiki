@@ -127,6 +127,8 @@ Harrison acknowledges that homeowners — now the majority — are themselves be
 
 ## See Also
 
+- [Philip Snowden](/wiki/philip-snowden/) — Labour Chancellor whose 1931 land value tax, discussed in this book, was suspended then repealed by 1934
+- [Gordon Brown](/wiki/gordon-brown/) — UK Chancellor/PM whose 'no more boom and bust' pledge and Barker Review commission are a central case study of Harrison's book
 - [John Maynard Keynes](/wiki/john-maynard-keynes/) — the central figure in Harrison's critique of how land dropped out of 20th-century macroeconomics, despite Keynes's own General Theory passage distinguishing land's scarcity from capital's.
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Land Speculation](/wiki/land-speculation/)

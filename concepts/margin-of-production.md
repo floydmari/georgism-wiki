@@ -77,6 +77,7 @@ decisions bind.
 
 ## See Also
 
+- [Closure of the American Frontier](/wiki/frontier-thesis/) — Turner's 1893 thesis that free frontier land was America's wage-supporting margin, and the Georgist reading of its 1890 closure
 - [Economic Rent](/wiki/economic-rent/) · [Ground Rent](/wiki/ground-rent/) — the surplus the margin measures
 - [David Ricardo](/wiki/david-ricardo/) · [Henry George](/wiki/henry-george/) — the doctrine's authors
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the canonical Georgist statement

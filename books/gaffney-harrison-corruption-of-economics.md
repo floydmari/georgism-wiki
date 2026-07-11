@@ -165,6 +165,7 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 
 ## See Also
 
+- [Frank Knight](/wiki/frank-knight/) — Chicago School founder named by Gaffney as a chief anti-Georgist economist, author of "The Fallacies in the Single Tax" (1953)
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defense of Georgism
 - [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST as extension of George's land tax
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent (formalized by Gaffney 2005)

@@ -106,6 +106,8 @@ Harrison's argument that the optimal speculative holding period is 15–16 years
 
 ## See Also
 
+- [Hope Value](/wiki/hope-value/) — the speculative planning-permission premium Harrison identifies within UK land asking prices
+- [Real Estate Investment Trusts (REITs)](/wiki/reits/) — the tax-exempt, credit-financed vehicle behind the 1970s bubble Harrison documents in Ch. 8–9
 - [Jamaica's Land Value Taxation (1957-1974)](/wiki/jamaica-land-value-tax/) — the book's case study of a national unimproved-value tax and its 1974 revaluation aftermath
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Harrison, Boom Bust](/wiki/harrison-boom-bust/) — Harrison's 2005 sequel

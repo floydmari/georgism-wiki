@@ -80,6 +80,10 @@ The book relies on historical data that is incomplete for the earliest cycles (p
 
 ## See Also
 
+- [Railroad Land Grants](/wiki/railroad-land-grants/) — the Northern Pacific grant and Jay Cooke's 1873 collapse this book situates within the 18-year land cycle
+- [Simpson (1933): Real Estate Speculation and the Depression](/wiki/simpson-real-estate-speculation-depression/) — the contemporary AER paper Anderson cites for the claim that real estate lending was the largest single factor in the 4,800 bank failures of 1930-33
+- [Richard Cantillon](/wiki/richard-cantillon/) — the proto-economist behind the book's 'Cantillon Effect' (skyscraper) forecasting indicator
+- [Homestead Act (1862)](/wiki/homestead-act/) — the free-land policy Anderson situates in his 19th-century US land-cycle chronology (Ch. 8)
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Harrison, Boom Bust](/wiki/harrison-boom-bust/)
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/)

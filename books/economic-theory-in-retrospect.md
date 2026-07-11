@@ -171,6 +171,8 @@ Blaug's *Economic Theory in Retrospect* is valuable for the Georgist wiki as:
 
 ## See Also
 
+- [Cord, Henry George: Dreamer or Realist? (1965)](/wiki/cord-george-dreamer-or-realist/) — the standard scholarly study of how economists and historians received George, cited by Blaug as further reading
+- [Objection: Progress and Poverty Was Thirty Years Out of Date](/wiki/progress-and-poverty-outdated/) — Blaug's chronological dismissal of George's classical apparatus, and why it doesn't touch the tax proposal itself
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defence of Georgism
 - [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument that the land–capital merger was deliberate
 - [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal

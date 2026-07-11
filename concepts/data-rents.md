@@ -93,6 +93,7 @@ never let the airtight land case lend its certainty to this domain.
 
 ## See Also
 
+- [Data as Labor](/wiki/data-as-labor/) — the leading redistribution proposal for platform/data rents: compensating users as producers of the data platforms use
 - [Superstar Firms](/wiki/superstar-firms/) · [Rochet & Tirole (two-sided markets)](/wiki/rochet-tirole-two-sided/) · [Korinek & Ng (digital superstars)](/wiki/korinek-ng-digital-superstars/)
 - [Crouzet & Eberly (intangibles)](/wiki/crouzet-eberly-intangibles/) — the efficiency counter-view
 - [Intellectual-Property Rents](/wiki/ip-rents/) — the sibling contested frontier

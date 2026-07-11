@@ -29,6 +29,9 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 
 ## See Also
 
+- [Domesday Book (1086)](/wiki/domesday-book/) — an 11th-century nationwide land-value survey showing large-scale land assessment is not a modern invention requiring modern tools.
+- [Johannesburg Site Value Rating](/wiki/johannesburg-site-value-rating/) — a documented site-value-only tax base run at municipal scale from 1918/1919, cited by Fred Harrison as evidence against the claim that isolating land value is impossible
+- [Ted Gwartney](/wiki/ted-gwartney/) — career assessor whose British Columbia and Connecticut work is cited as practical counter-evidence to this objection
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
 - [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/)
 - [Narrative: The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/) — where under-assessment (not evasion) is the real leak
