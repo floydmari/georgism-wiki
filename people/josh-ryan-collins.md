@@ -22,6 +22,8 @@ Ryan-Collins brings the land-and-credit analysis — close to [Michael Hudson's]
 
 ## See Also
 
+- [New Economics Foundation](/wiki/new-economics-foundation/) — the London think tank where Ryan-Collins was based when co-authoring both Where Does Money Come From? and Rethinking the Economics of Land and Housing
+- [Toby Lloyd](/wiki/toby-lloyd/) — his co-author on *Rethinking the Economics of Land and Housing* and a former Henry George Foundation deputy chief executive
 - [Rethinking the Economics of Land and Housing (book page)](/wiki/rethinking-economics-land-housing/)
 
 - [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/) · [Michael Hudson](/wiki/michael-hudson/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/)

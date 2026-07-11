@@ -17,6 +17,7 @@ Peer-reviewed research complicates a reading in which the boundary is a minor fa
 
 ## See Also
 
+- [Houston, Texas](/wiki/houston-texas/) — the no-zoning counterpoint case Harrison pairs with Portland's growth boundary
 - [Harrison, Boom Bust (book)](/wiki/harrison-boom-bust/) — the discovery source presenting the Portland/Houston comparison
 - [Fred Harrison](/wiki/fred-harrison/) — the book's author
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the general land-speculation-cycle concept Harrison applies to Portland

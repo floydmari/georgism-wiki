@@ -43,6 +43,7 @@ The problem also connects to [land speculation](/wiki/land-speculation/): an own
 
 ## See Also
 
+- [Myerson & Satterthwaite (1983): Efficient Mechanisms for Bilateral Trading](/wiki/myerson-satterthwaite-bilateral-trade/) — the mechanism-design impossibility theorem cited (via Radical Markets) against relying on private bargaining alone to solve holdout-style land assembly
 - [Tideman & Plassmann, "Providing Incentives for Efficient Land Assembly"](/wiki/tideman-plassmann-land-assembly/)
 - [Harberger Tax (COST)](/wiki/harberger-tax/)
 - [Land Monopoly](/wiki/land-monopoly/)

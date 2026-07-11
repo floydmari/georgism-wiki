@@ -101,6 +101,7 @@ side's classical statement of the dispute implies.
 
 ## See Also
 
+- [Hudson (2008): Henry George's Political Critics](/wiki/hudson-georges-political-critics/) — Hudson's reception-history account of the twelve political (not theoretical) criticisms that isolated George from socialist and labor coalitions after 1887
 - [Henry George](/wiki/henry-george/) — the target of Marx's 1881 critique
 - [Single Tax](/wiki/single-tax/) — the movement Marx's letter helped set the organized left against
 - [Ricardo's Law (Harrison, book)](/wiki/harrison-ricardos-law/) — the modern Georgist reply to the Marxist "capitalist as villain" framing

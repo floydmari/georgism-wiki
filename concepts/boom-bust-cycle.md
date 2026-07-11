@@ -81,6 +81,7 @@ The land-cycle reading's evidence base has genuine strengths but also acknowledg
 
 ## See Also
 
+- [Roman Financial Crisis of AD 33](/wiki/roman-crisis-of-ad-33/) — an ancient land-speculation and credit crisis under Tiberius, evidence the land-credit boom-bust pattern predates modern capitalism
 - [Kindleberger & Aliber, Manias, Panics, and Crashes](/wiki/kindleberger-manias-panics-crashes/) — the canonical mainstream, asset-agnostic bubble taxonomy that contrasts with the Georgist land-cycle reading on this page
 - [Germany](/wiki/germany/) — the leading counterexample: decades of stable house prices via tenant protection and relationship banking, not speculative land-price cycles
 - [South Sea Bubble (1720)](/wiki/south-sea-bubble/) — the earliest episode Harrison cites in the securitisation pattern he traces forward to sub-prime mortgages

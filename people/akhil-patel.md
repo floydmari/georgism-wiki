@@ -20,6 +20,8 @@ Patel represents the practitioner/forecasting strand of the Georgist tradition �
 
 ## See Also
 
+- [Joseph Schumpeter](/wiki/joseph-schumpeter/) — the business-cycle theorist whose Long Cycle work Patel draws on to extend the 18-year land cycle
+- [Property Sharemarket Economics](/wiki/property-sharemarket-economics/) — the commercial land-cycle forecasting service Patel co-runs with Phillip J. Anderson
 - [Phillip J. Anderson](/wiki/phillip-j-anderson/) — mentor and PSE co-principal
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Fred Harrison](/wiki/fred-harrison/) · [Michael Hudson](/wiki/michael-hudson/)

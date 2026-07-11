@@ -20,6 +20,7 @@ Named after economist Arnold Harberger, the mechanism was popularised by Eric Po
 
 ## See Also
 
+- [Weyl & Zhang (2017): Depreciating Licenses](/wiki/weyl-zhang-depreciating-licenses/) — the academic paper formalizing the investment-vs-allocative-efficiency tradeoff that underpins the COST/Harberger-tax design
 - [Arnold Harberger](/wiki/arnold-harberger/) — the Chicago economist whose 1962 self-assessment proposal is the namesake and origin of this mechanism
 - [Radical Markets](/wiki/radical-markets/) — the broader Posner & Weyl program this mechanism comes from
 - [Land Value Tax](/wiki/land-value-tax/) · [Land Monopoly](/wiki/land-monopoly/)
