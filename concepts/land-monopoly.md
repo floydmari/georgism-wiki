@@ -4,6 +4,7 @@ category: concepts
 tags: [land-monopoly, georgism, land-value-tax, rent-seeking, political-economy]
 stub: false
 sources: [george-1879]
+excerpt: "In Georgist analysis, land monopoly is the structural condition in which private landownership lets owners collect economic rent — value created by nature and community growth — without contributing to production, since land cannot be reproduced in response to price."
 ---
 
 ## The Argument
@@ -54,6 +55,12 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## See Also
 
+- [Enclosure of the English Commons](/wiki/enclosure-movement/) — the historical event that created the private land market and landless wage class underlying land monopoly
+- [Scottish Highland Clearances (c. 1750–1860)](/wiki/highland-clearances/) — the major British historical episode of forced eviction by landholding lairds, a canonical instance of land monopoly's human cost
+- [James Harrington](/wiki/james-harrington/) — 17th-century political theorist whose Oceana (1656) argued that political power follows the distribution of land, a structural pre-Georgist ancestor of the land-monopoly concept
+- [Henry Miller (Cattle King of California)](/wiki/henry-miller-cattle-king/) — a 19th-century case study of land monopoly built through manipulation of federal land-grant laws
+- [Pistor, The Code of Capital](/wiki/pistor-code-of-capital/) — how law itself manufactures rent-bearing assets, generalizing the land-monopoly mechanism to IP and finance
+- [Pierre-Joseph Proudhon](/wiki/pierre-joseph-proudhon/) — the anarchist thinker whose 'property is theft' marks one pole of the property-rights debate Georgism's land-specific claim sits inside
 - [Johnson V Mcintosh](/wiki/johnson-v-mcintosh/) — the legal doctrine that vested Native land in the discovering sovereign
 - [Enclosure](/wiki/enclosure/) — the historical mechanism that concentrated common land into private hands
 - [Fairlie — A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/)

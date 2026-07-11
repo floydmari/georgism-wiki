@@ -65,6 +65,8 @@ Marginal productivity theory is a theoretical framework, not an empirical findin
 
 ## See Also
 
+- [The Marginalist Revolution (1871-74)](/wiki/marginalist-revolution/) — the founding episode (Jevons, Menger, Walras) whose treatment of land preceded, and set the stage for, Clark's later merger of land into capital
+- [Factors of Production (Land, Labour, Capital)](/wiki/factors-of-production/) — the classical three-factor framework and the contested neoclassical shift to two factors that this page's Clark/marginal-productivity story is part of
 - [John Bates Clark](/wiki/john-bates-clark/) — the economist who developed the American marginal-productivity framework
 - [Mason Gaffney](/wiki/mason-gaffney/) — the economist who critiqued the land-capital merger
 - [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/) — Gaffney's core essay on the topic

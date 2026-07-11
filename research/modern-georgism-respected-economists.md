@@ -22,6 +22,7 @@ Blogger-economist [Noah Smith's essays](/wiki/noah-smith-on-georgism/) make a re
 
 ## See Also
 
+- [Léon Walras](/wiki/leon-walras/) — the founder of general equilibrium theory who advocated state ownership of land and a rent-funded social dividend, reaching Georgist conclusions from the marginalist side
 - [Noah Smith on Georgism](/wiki/noah-smith-on-georgism/) — the popularisation and political-economy counterpart to this survey
 - [LVT research priorities for 2025 and beyond](/wiki/lvt-research-priorities-2025/) — the same publisher's map of what remains to be established
 

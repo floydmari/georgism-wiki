@@ -38,6 +38,7 @@ See: [Garden Cities of To-morrow](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Letchworth Garden City](/wiki/letchworth/) — the first Garden City (1903), Howard's built proof-of-concept for land-value-capture town financing
 - [Land Value Capture](/wiki/land-value-capture/) · [Unearned Increment](/wiki/unearned-increment/) · [Single-Tax Colonies](/wiki/single-tax-colonies/)
 - [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's only book, the fullest expression of his thought
 

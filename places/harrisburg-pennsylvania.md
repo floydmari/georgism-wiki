@@ -4,6 +4,7 @@ category: places
 tags: [harrisburg, pennsylvania, split-rate-tax, lvt, land-value-tax, urban-development]
 stub: false
 sources: [oates-schwab-1997, tideman-1999]
+excerpt: "Pennsylvania’s capital and one of the most cited US examples of split-rate property taxation, taxing land at a higher rate than buildings for decades from the early 1980s during a period of significant urban revitalisation."
 ---
 
 ## Overview

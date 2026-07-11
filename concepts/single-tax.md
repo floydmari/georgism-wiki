@@ -4,6 +4,7 @@ category: concepts
 tags: [single-tax, henry-george, georgism, land-value-tax, tax-reform]
 stub: false
 sources: [george-1879]
+excerpt: "Henry George’s 1879 proposal to replace all taxes on income, trade, and production with a single tax on the annual rental value of land, excluding improvements — capturing for the public the value the community itself creates."
 ---
 
 ## The Proposal
@@ -50,6 +51,11 @@ Tideman's chapter argues that 100% land value taxation, introduced without compe
 
 ## See Also
 
+- [William S. U'Ren](/wiki/william-s-uren/) — Oregon reformer who built the initiative and referendum specifically as machinery to enact the single tax, though the tax itself was repeatedly defeated at the ballot
+- [Physiocracy and the Impôt Unique](/wiki/physiocracy/) — the 18th-century French school whose impôt unique is the direct intellectual ancestor of the single tax
+- [François Quesnay](/wiki/francois-quesnay/) — the Physiocrat leader whose impôt unique on land's net product anticipated George's single tax by over a century
+- [California Single-Tax Campaigns](/wiki/california-single-tax-campaigns/) — the movement's peak electoral strength, led by Luke North's 1916 initiative
+- [Commonwealth Land Party](/wiki/commonwealth-land-party/) — the renamed Single Tax Party's 1924 presidential ticket, documenting the movement's brief phase as a US electoral third party
 - [Johnson: The Case against the Single Tax (1914) — full text](/wiki/johnson-case-against-single-tax-1914/) — the strongest period objection, in the author's own words
 
 - [Colin Clark](/wiki/colin-clark/) — economist whose 25%-of-NNP tax-limit argument is cited here

@@ -26,6 +26,7 @@ The fear rests on confusing **acreage with value**. Because farmland value per a
 
 ## See Also
 
+- [Duncan Pickard](/wiki/duncan-pickard/) — a working Scottish farmer whose book *Lie of the Land* makes the practitioner's case that LVT, not the current subsidy system, is the fairer deal for farmers
 - [Land Value Tax](/wiki/land-value-tax/) · [ATCOR](/wiki/atcor/) · [Speculative Vacancy](/wiki/speculative-vacancy/)
 
 ## Sources

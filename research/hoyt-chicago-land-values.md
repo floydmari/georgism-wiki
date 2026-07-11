@@ -193,6 +193,7 @@ outcome claim.**
 
 ## See Also
 
+- [Lewis (1965): Building Cycles and Britain's Growth](/wiki/lewis-building-cycles/) — the British counterpart to Hoyt's Chicago study, cited by Harrison for a 17.4-year average cycle duration
 - [Chicago](/wiki/chicago/)
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)

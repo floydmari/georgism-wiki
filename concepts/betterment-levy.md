@@ -76,6 +76,7 @@ Betterment levies in various forms exist or have existed in several countries be
 
 ## See Also
 
+- [Valorization Tax (Contribución de Valorización)](/wiki/valorization-tax/) — Colombia's version of the betterment levy, in continuous use in Bogotá since the 1950s-60s
 - [Land Value Capture](/wiki/land-value-capture/) — the broader family of instruments this levy belongs to
 - [Land Value Tax](/wiki/land-value-tax/) — the recurrent alternative to event-based betterment charges
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) — Taiwan's institutionalized version

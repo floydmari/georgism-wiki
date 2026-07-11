@@ -21,6 +21,7 @@ Although the land value duties themselves were complex, under-yielding, and late
 
 ## See Also
 
+- [United Kingdom](/wiki/united-kingdom/) — the country page anchoring enclosure, the People's Budget, the 1947 planning settlement, and current land-value statistics
 - [Single Tax](/wiki/single-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/)
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the argument this budget was built on
 - [The People's Budget: Speech Introducing the Finance Bill (1909)](/wiki/peoples-budget-speech-1909/) — Lloyd George's speech, held in full

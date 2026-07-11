@@ -45,6 +45,12 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 
 ## See Also
 
+- [Karl Marx](/wiki/karl-marx/) — George's chief rival diagnosis of poverty amid progress; Marx privately dismissed George's land-value tax as a bourgeois half-measure in an 1881 letter.
+- [John Dewey](/wiki/john-dewey/) — America's leading philosopher, a lifelong Georgist advocate who served as honorary president of the Henry George School
+- [Andelson (ed.), Critics of Henry George (1979)](/wiki/andelson-critics-of-henry-george/) — the standard scholarly anthology collecting and appraising every major criticism of Progress and Poverty
+- [Francis A. Walker](/wiki/francis-a-walker/) — first AEA president and MIT president who wrote *Land and Its Rent* (1883) as a direct rebuttal of Progress and Poverty
+- [George Bernard Shaw](/wiki/george-bernard-shaw/) — the Fabian playwright who credited a Henry George lecture and Progress and Poverty with converting him to economics and socialism
+- [Anne Robert Jacques Turgot](/wiki/anne-robert-jacques-turgot/) — physiocrat-aligned statesman whose Reflections systematized the land-surplus theory in the lineage George later drew on
 - [The Saratoga debate with Seligman (1890) — full text](/wiki/saratoga-single-tax-debate-1890/) — George defending the single tax before the academic economists
 
 - [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the primary biography, full public-domain text in-repo

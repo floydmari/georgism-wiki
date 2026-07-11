@@ -40,6 +40,7 @@ respectability in mainstream public economics.
 
 ## See Also
 
+- [Vickrey (1961): Counterspeculation, Auctions, and Competitive Sealed Tenders](/wiki/vickrey-counterspeculation-auctions/) — the founding auction-theory paper behind Vickrey's Nobel and the mechanism-design lineage Radical Markets builds on
 - [Congestion Pricing](/wiki/congestion-pricing/) — his idea, and the [evidence that it reduces traffic](/wiki/congestion-pricing-reduces-traffic/)
 - [Spectrum Auctions](/wiki/spectrum-auctions/) — the auction-theory lineage applied to the airwaves commons
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/)

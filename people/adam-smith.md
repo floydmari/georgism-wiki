@@ -20,6 +20,7 @@ Smith establishes that the case for taxing land is not a fringe idea but is root
 
 ## See Also
 
+- [François Quesnay](/wiki/francois-quesnay/) — the Physiocrat whose impôt unique on land prefigured the single tax
 - [David Ricardo](/wiki/david-ricardo/) · [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/)
 
 ## Sources

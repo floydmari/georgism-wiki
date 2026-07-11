@@ -51,6 +51,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Andelson (2000), A Georgist Rejoinder to F.A. Hayek](/wiki/andelson-rejoinder-to-hayek/) — direct scholarly answer to Hayek's objection that earned and unearned increment cannot be precisely separated
 - [The young are increasingly locked out of land wealth](/wiki/young-locked-out-of-land-wealth/) — the cohort-level manifestation of the increment accruing to incumbents
 
 - [Garden City Movement](/wiki/garden-city-movement/) — Howard's rate-rent captured exactly the unearned increment

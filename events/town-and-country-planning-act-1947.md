@@ -33,6 +33,7 @@ quantified finding.
 
 ## See Also
 
+- [Uthwatt Committee (1942)](/wiki/uthwatt-committee/) — the wartime committee whose development-rights and periodic-levy recommendations became the intellectual basis for this Act
 - [Betterment Levy](/wiki/betterment-levy/) — the instrument family and the UK's repeated attempts
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the predecessor fight
 - [Land Value Capture](/wiki/land-value-capture/) · [Land Tenure Reform Association](/wiki/land-tenure-reform-association/)
