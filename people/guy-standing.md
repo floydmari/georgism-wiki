@@ -24,6 +24,7 @@ Standing is not a Georgist, but his program — identify commonly-created or nat
 
 ## See Also
 
+- [Standing (2019): Plunder of the Commons](/wiki/standing-plunder-of-the-commons/) — dedicated research-citation page for the book, used as the source pointer for pages (e.g. Akhil Patel's *Secret Wealth Advantage*, Ch. 4) that cite Standing without needing his full biography
 - [Rentier](/wiki/rentier/) · [Land as Commons](/wiki/land-as-commons/) · [Enclosure](/wiki/enclosure/)
 - [Common Wealth Fund](/wiki/common-wealth-fund/) · [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Karl Widerquist](/wiki/karl-widerquist/) — fellow BIEN basic-income scholar

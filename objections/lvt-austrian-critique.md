@@ -27,6 +27,7 @@ This is a **genuine theoretical dispute**, not a settled question — the land-v
 
 ## See Also
 
+- [Austrian School](/wiki/austrian-school/) — the economic tradition, founded by Carl Menger and carried through Mises, Hayek, and Rothbard, that is the source of this objection
 - ["Land Is Just a Form of Capital"](/wiki/land-is-just-capital/) — the dedicated page stating and rebutting the land/capital conflation that this Austrian-critique page's point #1 only summarizes
 - [Friedrich Hayek](/wiki/friedrich-hayek/) — a milder, assessment-focused cousin of the Austrian critique, drawn directly from Hayek's own single-tax passage in The Constitution of Liberty
 - [Murray Rothbard](/wiki/murray-rothbard/) — the economist whose arguments this objection represents

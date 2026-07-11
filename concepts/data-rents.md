@@ -93,6 +93,7 @@ never let the airtight land case lend its certainty to this domain.
 
 ## See Also
 
+- [Technofeudalism and Siren Servers](/wiki/technofeudalism/) — the polemical feudal-landlord framing of platform dominance (Lanier's "siren servers," Varoufakis's "cloud rent"), a contested narrative extension of this page's core rent question
 - [Data as Labor](/wiki/data-as-labor/) — the leading redistribution proposal for platform/data rents: compensating users as producers of the data platforms use
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
 
