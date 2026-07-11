@@ -45,6 +45,8 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 
 ## See Also
 
+- [The Saratoga debate with Seligman (1890) — full text](/wiki/saratoga-single-tax-debate-1890/) — George defending the single tax before the academic economists
+
 - [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the primary biography, full public-domain text in-repo
 
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
