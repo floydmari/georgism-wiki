@@ -8,7 +8,7 @@ provenance only, PR to a hermes/* branch, never self-merged.
 
 Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
-## needs-book-copy (see sources/wanted-books.md) — 31 of 31
+## needs-book-copy (see sources/wanted-books.md) — 30 of 30
 
 - `concepts/capitalization-rate.md` — **VERIFY** the Doucet figures here are drawn from this wiki's own prior chapter-by-chapter research summary of the book (sources/books/summaries/land-is-a-big-deal-researc
 - `concepts/horizontal-shareholding.md` — **CITATION NEEDED** The exact effect-size figures and route-price percentages reported in Radical Markets Table 4.1, verified directly against the book text rather than secondary s
@@ -25,7 +25,6 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `people/steven-cord.md` — **VERIFY** the specific figure and page have not been independently re-confirmed against the book's full text in this research pass.
 - `places/south-korea.md` — **CITATION NEEDED** direct verification of the book's precise statistic on KLC's share of residential land development
 - `events/asian-financial-crisis-1997.md` — **CITATION NEEDED** a peer-reviewed or IMF-level source directly quantifying the scale of Thailand's pre-1997 property lending boom and assessing its causal weight relative to the 
-- `events/florida-land-boom-1920s.md` — **CITATION NEEDED** A scholarly economic-history source (rather than Wikipedia and a single popular business-history book) quantifying the scale of the Florida price run-up and dir
 - `events/great-irish-famine.md` — **CITATION NEEDED** full-text verification against Progress and Poverty Book II for the specific Ireland passages
 - `events/highland-clearances.md` — **CITATION NEEDED** direct verification of the book's specific discussion of the Highland Clearances, reportedly in Ch. 11.2
 - `events/meiji-land-tax-reform.md` — **VERIFY** exact framing and figures Harrison gives against the book text directly
@@ -67,4 +66,4 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/vague-brief-history-of-doom.md` — **CITATION NEEDED** a direct read of the Prologue and Chs. 10 and 12, the sections Akhil Patel draws on in *The Secret Wealth Advantage*, for the specific private-debt-to-GDP figur
 
 
-*52 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
+*51 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*

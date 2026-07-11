@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-11 by `scripts/verification_queue.py` (183 markers). 
+Generated 2026-07-11 by `scripts/verification_queue.py` (167 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -10,7 +10,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `events/right-to-buy.md` — **CITATION NEEDED** a source presenting the pro-Right-to-Buy case (homeownership expansion, tenant welfare) in comparable secondary-source detail to the critical housing-supply acc
 - `research/myerson-satterthwaite-bilateral-trade.md` — **CITATION NEEDED** a source applying the Myerson-Satterthwaite framework directly and formally to multi-owner land assembly, rather than citing it as a general motivation.
 
-## needs-book-copy (see sources/wanted-books.md) (31)
+## needs-book-copy (see sources/wanted-books.md) (30)
 
 - `concepts/capitalization-rate.md` — **VERIFY** the Doucet figures here are drawn from this wiki's own prior chapter-by-chapter research summary of the book (sources/books/summaries/land-is-a-big-deal-researc
 - `concepts/horizontal-shareholding.md` — **CITATION NEEDED** The exact effect-size figures and route-price percentages reported in Radical Markets Table 4.1, verified directly against the book text rather than secondary s
@@ -27,7 +27,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/steven-cord.md` — **VERIFY** the specific figure and page have not been independently re-confirmed against the book's full text in this research pass.
 - `places/south-korea.md` — **CITATION NEEDED** direct verification of the book's precise statistic on KLC's share of residential land development
 - `events/asian-financial-crisis-1997.md` — **CITATION NEEDED** a peer-reviewed or IMF-level source directly quantifying the scale of Thailand's pre-1997 property lending boom and assessing its causal weight relative to the 
-- `events/florida-land-boom-1920s.md` — **CITATION NEEDED** A scholarly economic-history source (rather than Wikipedia and a single popular business-history book) quantifying the scale of the Florida price run-up and dir
 - `events/great-irish-famine.md` — **CITATION NEEDED** full-text verification against Progress and Poverty Book II for the specific Ireland passages
 - `events/highland-clearances.md` — **CITATION NEEDED** direct verification of the book's specific discussion of the Highland Clearances, reportedly in Ch. 11.2
 - `events/meiji-land-tax-reform.md` — **VERIFY** exact framing and figures Harrison gives against the book text directly
@@ -68,14 +67,13 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/pistor-code-of-capital.md` — **CITATION NEEDED** direct page cites once the primary text is read
 - `research/vague-brief-history-of-doom.md` — **CITATION NEEDED** a direct read of the Prologue and Chs. 10 and 12, the sections Akhil Patel draws on in *The Secret Wealth Advantage*, for the specific private-debt-to-GDP figur
 
-## needs-new-source (research/forage task) (15)
+## needs-new-source (research/forage task) (14)
 
 - `concepts/capitalization-rate.md` — **CITATION NEEDED** a study estimating land-specific capitalization rates directly, as opposed to general commercial real estate.
 - `concepts/product-exhaustion-theorem.md` — **CITATION NEEDED** a primary or independent secondary source for the Barone priority dispute, beyond Blaug's summary
 - `concepts/radical-markets.md` — **CITATION NEEDED** empirical evidence on COST self-assessment accuracy in practice — checked 2026-07-11 against the peer-reviewed article version (Posner & Weyl 2017, "Property Is
 - `concepts/virtual-land.md` — **CITATION NEEDED** a study directly assessing whether taxing virtual-land value capture is administratively or economically coherent
 - `people/frank-knight.md` — **CITATION NEEDED** a direct, independently-verified citation for "The Fallacies in the Single Tax" (1953) — original publication venue not confirmed against a primary source this 
-- `people/ronald-banks.md` — **CITATION NEEDED** a primary or independently verifiable source for Banks's biographical details — birth/death dates and career background
 - `people/scott-alexander.md` — **CITATION NEEDED** original publisher/back-cover source for the endorsement text itself
 - `organizations/fabian-society.md` — **CITATION NEEDED** a dedicated historical study of the pace and extent of this specific doctrinal shift within the Fabian Society, as opposed to the general contemporaneous facts 
 - `objections/government-can-tame-the-cycle.md` — **CITATION NEEDED** a study directly comparing land-cycle amplitude or timing across countries or eras with materially different monetary/macroprudential regimes, rather than relyi
@@ -86,20 +84,16 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/melichar-farm-income-asset-values.md` — **CITATION NEEDED** exact original publication (journal/report title, volume, pages) of Melichar's 1978 "Farm Income and Asset Values, 1950-77" study — this session could not indep
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (113)
+## unclassified (T1 triage) (99)
 
-- `concepts/clean-slate-proclamations.md` — **CITATION NEEDED** a peer-reviewed Assyriological source (e.g., work by Dominique Charpin or the late Fritz Rudolf Kraus, whose research most of this literature ultimately rests o
 - `concepts/common-agricultural-policy.md` — **CITATION NEEDED** direct quotation or page-level claim from Harrison, *Ricardo's Law*, Ch. 7, "To CAP it All"
 - `concepts/horizontal-shareholding.md` — **CITATION NEEDED** A representative citation to the post-2018 literature disputing or narrowing the Azar-Schmalz-Tecu finding, for full NPOV balance.
-- `concepts/labor-theory-of-value.md` — **CITATION NEEDED** a historian-of-economic-thought source, beyond Doucet's popularization, that directly assesses whether George held to a labor theory of value or a marginalist t
 - `concepts/land-ownership-secrecy.md` — **CITATION NEEDED** direct access to Cahill's text or a reviewed summary of its findings.
 - `concepts/land-pooling.md` — **CITATION NEEDED** a systematic comparative assessment of land pooling's revenue adequacy and equity outcomes relative to annual land value taxation.
 - `concepts/natural-asset-companies.md` — **CITATION NEEDED** an independent academic or regulatory post-mortem of the NAC proposal's design and the specific reasons for its 2023–24 withdrawal
 - `concepts/nimbyism.md` — **CITATION NEEDED** direct chapter quotation — this stub draws on the wiki's discovery-report chapter locator rather than a fresh page-level read of Ch. 2.
-- `concepts/physiocracy.md` — **CITATION NEEDED** a scholarly source directly comparing the Physiocratic and Georgist tax rationales in depth, rather than the inferential comparison drawn here from George's own
 - `concepts/quadratic-voting.md` — **CITATION NEEDED** a critical/skeptical secondary source on QV's real-world assumptions, not yet verified in this session
 - `concepts/radical-markets.md` — **CITATION NEEDED** specific administrative-cost comparisons — checked 2026-07-11 against the peer-reviewed article version (Posner & Weyl 2017, *JLA* 9(1)); the article develops t
-- `concepts/railroad-land-grants.md` — **VERIFY** exact acreage figure — this session found a spread of 40–47 million acres across sources and could not confirm a single authoritative number against the origina
 - `concepts/sharecropping.md` — **CITATION NEEDED** direct page/quote citation — this stub draws on the wiki's discovery-report summary rather than a fresh read of Ch. 10.
 - `concepts/skyscraper-index.md` — **CITATION NEEDED** direct page cite — drawn from the wiki's discovery-report chapter locator rather than a fresh chapter-level read.
 - `concepts/skyscraper-index.md` — **CITATION NEEDED** direct page cite, same caveat as above.
@@ -113,25 +107,23 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/homer-hoyt.md` — **VERIFY** full-text confirmation of sector-model details beyond the abstract.
 - `people/homer-hoyt.md` — **VERIFY** Light's specific full-text claims about Hoyt's role remain unconfirmed behind the paywall.
 - `people/homer-hoyt.md` — **VERIFY** replace this general Wikipedia context citation with a dedicated peer-reviewed source on the FHA Underwriting Manual specifically, e.g. Jackson's *Crabgrass Fro
-- `people/james-mill.md` — **CITATION NEEDED** independent confirmation beyond Blaug (2000) that no earlier economist made the same specific future-increment-tax proposal
+- `people/james-mill.md` — **CITATION NEEDED** independent confirmation of the priority claim beyond Blaug
 - `people/jeffrey-johnson-smith.md` — **CITATION NEEDED** a primary-source, chapter-and-page account of Smith's exact methodology in Counting Bounty, beyond the secondhand summary in Doucet (2022)
 - `people/john-r-commons.md` — **CITATION NEEDED** direct quotation or page locator from Commons (1922) for the "95% of millionaire fortunes" figure, and independent confirmation of the exact wording/context of 
 - `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's role (if any) in resisting or responding to the early stages of the rollback during his later mayoral terms — the wiki's sources do not address this di
 - `people/paul-samuelson.md` — **CITATION NEEDED** direct edition/page citation from Samuelson's *Economics* for the rent-share-of-GNP figure and the "ethical, not economic" characterization.
-- `people/robert-torrens.md` — **CITATION NEEDED** a scholarly secondary source assessing the priority dispute over comparative advantage between Torrens and Ricardo
+- `people/ronald-banks.md` — **CITATION NEEDED** Banks's birth/death dates could not be verified in this research pass — no obituary or biographical record with dates was located; his active-career span (1989 
 - `people/ronald-banks.md` — **CITATION NEEDED** the primary calculation or publication in which Banks derives the £880bn figure, to verify the methodology
 - `people/roy-wenzlick.md` — **VERIFY** the 1955 low forecast and the "120+ cities" figure are reported consistently across secondary/practitioner sources (Anderson 2008; Fat Tail Daily) but this page
 - `people/roy-wenzlick.md` — **VERIFY** independent academic biography of Wenzlick not located in this research pass.
 - `people/roy-wenzlick.md` — **VERIFY** primary-source confirmation of the exact "120+ cities" figure directly from Wenzlick's own publications.
 - `people/roy-wenzlick.md` — **VERIFY** exact birth date — some secondary sources round Wenzlick's 1936 age to "40," implying an ~1896 birth, against the 1894 date given elsewhere.
-- `people/steven-cord.md` — **CITATION NEEDED** an independently verified count of jurisdictions and revenue total; the specific figures reported by secondary sources — approximately 18 jurisdictions and $70 
+- `people/roy-wenzlick.md` — **VERIFY** the 18⅓-year cycle figure and the 1955-low forecast were not located in a directly-read primary Wenzlick text in this pass — the individual issues are scanned b
+- `people/steven-cord.md` — **CITATION NEEDED** a Cord-specific count isolating the jurisdictions his advocacy directly produced, and the ~$70 million/year added-revenue figure reported by some secondary sour
 - `people/steven-cord.md` — **CITATION NEEDED** the exact volume/issue/page numbers and direct access to the full text; this session confirmed the title, journal, and year via search-indexed results but did n
 - `people/ted-gwartney.md` — **VERIFY** exact birth year and current status could not be confirmed to wiki standards in this research pass — a people-search aggregator gave one unverified date (June 3
 - `people/thomas-malthus.md` — **VERIFY** exact priority ordering among the four 1815 rent pamphlets is reported inconsistently across secondary sources and should be confirmed against a primary history
 - `places/australia.md` — **VERIFY** precise present-day land tax rates and thresholds vary by state and change frequently; not detailed here.
-- `places/canberra-leasehold-system.md` — **VERIFY** an independent, non-Georgist-aligned academic or government history of the ACT leasehold system's fiscal performance over its full century, to cross-check the f
-- `places/canberra-leasehold-system.md` — **CITATION NEEDED** direct consultation of Brennan (1971) or an independent academic history.
-- `places/canberra-leasehold-system.md` — **CITATION NEEDED** A government or peer-reviewed source quantifying, in dollar terms, the total land-rent revenue actually collected by the Commonwealth from Canberra leases over 
 - `places/johannesburg-site-value-rating.md` — **CITATION NEEDED** direct citation to Dunkley's original 2000 chapter — this stub relies on Polimeni's secondary summary of it
 - `places/russia-post-soviet-transition.md` — **VERIFY** the transcript remains a LaRouche/Schiller-Institute translation and reposting, not an official Duma stenographic record; the date, title, and quoted wording ar
 - `places/russia-post-soviet-transition.md` — **VERIFY** both remain secondary/translated sources; no official Duma stenographic transcript was located.
@@ -147,9 +139,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `objections/nationalization-solves-the-land-problem.md` — **CITATION NEEDED** direct verification of the Ch. 13–14 claims, including exact figures, against the primary source
 - `objections/progress-and-poverty-outdated.md` — **CITATION NEEDED** an independent history-of-thought source corroborating or contesting the "thirty years out of date" characterization.
 - `events/1974-uk-property-crash.md` — **VERIFY** direct pagination of Harrison's Ch. 6–7 discussion of the 1973–74 UK case on a fresh primary-text read, and whether *Rethinking the Economics of Land and Housin
-- `events/florida-land-boom-1920s.md` — **CITATION NEEDED** independently verified figure for the magnitude of price appreciation; Anderson's account (Ch. 11) reports gains on the order of 600% for some parcels, a figure
-- `events/florida-land-boom-1920s.md` — **VERIFY** the strength and acceptance of Knowlton's stronger causal claim linking the Florida bust directly to the onset of the Great Depression.
-- `events/florida-land-boom-1920s.md` — **CITATION NEEDED** direct access to Ballinger's text.
 - `events/great-depression.md` — **CITATION NEEDED** a mainstream economic-history source directly engaging with, rather than simply omitting, the land-price-peak-precedes-crash claim.
 - `events/great-depression.md` — **CITATION NEEDED** independent scholarly confirmation of the "~4,800 bank failures" and "~90% stock market loss" figures attributed to Patel's Prologue, beyond the wiki's own disc
 - `events/highland-clearances.md` — **CITATION NEEDED** this session could not independently verify the specific claim, attributed to Ch. 11, that *Ricardo's Law* discusses the Highland Clearances by name, or what fi
@@ -157,14 +146,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `events/japanese-asset-price-bubble.md` — **VERIFY** direct page-level citation from Quinn & Turner not independently re-consulted in this session; corroborated instead via web source 1.
 - `events/japanese-asset-price-bubble.md` — **CITATION NEEDED** a primary or scholarly Japanese housing-finance source directly documenting the terms and prevalence of multi-generational mortgages during the bubble era.
 - `events/japanese-asset-price-bubble.md` — **CITATION NEEDED** a peer-reviewed economic-history source assessing the specific claim, made within the 18-year-land-cycle literature cited here, that Japan's 1990–91 peak fits a
-- `events/melbourne-land-boom-1880s.md` — **CITATION NEEDED** direct access to Silberberg (1975), "Rates of Return on Melbourne Land Investment, 1880–92," *Economic Record* 51, pp. 203–217, to reconcile the exact peak-year
-- `events/melbourne-land-boom-1880s.md` — **CITATION NEEDED** a peer-reviewed economic-history source giving a single reconciled figure for the peak rate of return on Melbourne land, 1887–88, and a scholarly (rather than j
 - `events/new-towns-act-1946.md` — **CITATION NEEDED** exact act and year restricted compensation for new-town land was replaced by market-value compensation
-- `events/panic-of-1819.md` — **CITATION NEEDED** a mainstream economic-history source directly assessing the land boom's causal weight, as opposed to the currency/credit and post-war terms-of-trade shifts, in 
 - `events/panic-of-1837.md` — **VERIFY** whether Anderson attaches a specific land-value decline figure to Chicago in 1837, or whether the ~90–95% figure used above derives from Hoyt/secondary sources 
 - `events/panic-of-1837.md` — **VERIFY** confirm exact figures against Hoyt's original text
-- `events/panic-of-1873.md` — **CITATION NEEDED** a mainstream (non-Georgist) economic-history source assessing or disputing the 18-year cyclical framing specifically for 1873.
-- `events/panic-of-1893.md` — **CITATION NEEDED** a mainstream economic-history source directly assessing land speculation's causal weight, as opposed to railroad securities and the currency question, in the 18
 - `events/railway-mania.md` — **CITATION NEEDED** direct verification against Patel Ch. 10.
 - `events/revenue-act-of-1916.md` — **CITATION NEEDED** a primary or scholarly source directly linking Bailey to the drafting of the 1916 Act specifically, as opposed to the 1913 Revenue Act/tariff fight.
 - `events/south-sea-bubble.md` — **CITATION NEEDED** direct page citation from a fresh read of Ch. 7.
