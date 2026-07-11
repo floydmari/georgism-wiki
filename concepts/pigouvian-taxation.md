@@ -56,6 +56,7 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 
 ## See Also
 
+- [Arthur Cecil Pigou](/wiki/arthur-cecil-pigou/) — the economist who developed this tax framework in *The Economics of Welfare* (1920), building on Marshall's writing on land taxation.
 - [Ecological Georgism](/wiki/ecological-georgism/) — the extension of Georgist rent-capture to environmental externalities
 - [Deadweight Loss](/wiki/deadweight-loss/) — why most taxes are inefficient, and why Pigouvian taxes and LVT are exceptions
 - [Resource Rents](/wiki/resource-rents/) — the Georgist treatment of natural resource rents as socially capturable

@@ -94,6 +94,7 @@ carries both readings, attributed; the dispute is unresolved in the literature.
 
 ## See Also
 
+- [Bank Money Creation](/wiki/bank-money-creation/) — the mechanism by which commercial banks create most of the money supply, and why it flows disproportionately into land
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
 - [Outcome: Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the strong, evidence-carried version of the finance–land claim
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the persuasive deployment

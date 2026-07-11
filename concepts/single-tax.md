@@ -30,6 +30,7 @@ The "single tax" label largely fell out of use, but the underlying policy — LV
 
 ## See Also
 
+- [California Single-Tax Campaigns](/wiki/california-single-tax-campaigns/) — the movement's peak electoral strength, led by Luke North's 1916 initiative
 - [Physiocracy and the Impôt Unique](/wiki/physiocracy/) — the 18th-century French school whose impôt unique is the direct intellectual ancestor of the single tax
 - [François Quesnay](/wiki/francois-quesnay/) — the Physiocrat leader whose impôt unique on land's net product anticipated George's single tax by over a century
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/)

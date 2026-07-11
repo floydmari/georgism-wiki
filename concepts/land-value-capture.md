@@ -24,6 +24,8 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 
 ## See Also
 
+- [London](/wiki/london/) — case study: TfL/GLA found the Jubilee Line Extension, DLR, and North London Line produced 52%, 23%, and 6% land value uplifts respectively, mostly uncaptured by the public
+- [Compulsory Purchase and Eminent Domain](/wiki/compulsory-purchase/) — the state acquisition power that, when compensation is set at existing-use value, functions as a complementary land-value-capture instrument
 - [Air Rights](/wiki/air-rights/) — the private-market analogue: sellable development rights (e.g. Tiffany & Co.'s $5M sale for Trump Tower) show location value is separable and priceable, though the proceeds stay private rather than being publicly captured
 - [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — a 19th-century case of infrastructure financed by capturing land value, exempting improvements from tax entirely.
 - [Betterment Levy](/wiki/betterment-levy/)

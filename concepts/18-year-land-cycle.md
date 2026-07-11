@@ -77,6 +77,9 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
+- [Skyscraper Index](/wiki/skyscraper-index/) — the record-tall-building indicator Anderson and Patel cite as a credit-ease and land-speculation signal within the cycle
+- [Terminating Building Societies](/wiki/terminating-societies/) — the 1775 Birmingham mutual-credit innovation Harrison identifies as seeding the institutional framework behind the cycle
+- [Objection: The 1929 Stock Crash Caused the Great Depression](/wiki/stock-crash-caused-great-depression/) — the land-cycle rebuttal to the conventional Depression narrative, dating the causal real-estate peak to 1926
 - [Roy Wenzlick](/wiki/roy-wenzlick/) — independently found the same ~18-year real-estate cycle from 120+ U.S. cities' data, corroborating Hoyt's Chicago findings
 - [Melbourne Land Boom of the 1880s](/wiki/melbourne-land-boom-1880s/) — an Australian instance of the cycle, with land returns peaking around 1887 before the 1891–93 collapse and Australia's deepest 19th-century depression.
 - [Bryan Kavanagh](/wiki/bryan-kavanagh/) — Melbourne valuer whose property-sales-to-GDP 'barometer' (the Kavanagh-Putland Index) applies land-cycle logic to forecast Australian recessions

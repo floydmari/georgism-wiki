@@ -84,6 +84,7 @@ set the terms on which George was forgotten, whatever the motive.
 
 ## See Also
 
+- [William Stanley Jevons](/wiki/william-stanley-jevons/) — marginal-revolution pioneer whose apparatus Clark later turned against George
 - [The Saratoga Single Tax Debate (1890)](/wiki/saratoga-single-tax-debate/) — his in-person confrontation with George
 
 - [Narrative: The Corruption of Economics](/wiki/the-corruption-of-economics/) — the contested history in which Clark is the central figure

@@ -44,6 +44,7 @@ with productivity, not quality of life, driving most cross-city variation.
 
 ## See Also
 
+- [Enterprise Zones](/wiki/enterprise-zones/) — the Docklands enterprise-zone case where UK tax exemptions were capitalized into land prices rather than passed through to intended beneficiaries
 - [Riley (2001): Taken for a Ride — Jubilee Line Land Value Uplift](/wiki/riley-taken-for-a-ride/) — the originating popular case study: a £3.5bn London transit line yielding a reported ~£13bn landowner windfall, since partially corroborated by an independent academic study.
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
 

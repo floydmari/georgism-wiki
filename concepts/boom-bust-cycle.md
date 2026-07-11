@@ -81,6 +81,9 @@ The land-cycle reading's evidence base has genuine strengths but also acknowledg
 
 ## See Also
 
+- [Objection: The 1929 Stock Crash Caused the Great Depression](/wiki/stock-crash-caused-great-depression/) — tests the land-cycle account against the standard stock-crash narrative of the Depression
+- [1929 Wall Street Crash and the Great Depression](/wiki/great-depression/) — the historical episode Harrison and Patel treat as the clearest cautionary case of a land-price peak (1925–26) preceding a systemic financial collapse
+- [First Home Ownership (Productivity Commission, 2004)](/wiki/productivity-commission-first-home-ownership/) — Australia's official 2004 inquiry into the 1996–2003 house-price boom, finding demand and finance (not supply alone) as the dominant driver, with tax settings amplifying it late in the cycle.
 - [Asian Financial Crisis (1997)](/wiki/asian-financial-crisis-1997/) — a property-led boom-bust originating in Thai land speculation, cited by Anderson as evidence the land cycle operates outside the US
 - [Silicon Valley](/wiki/silicon-valley/) — Fred Harrison's case study that the dot-com 'New Economy' was land speculation in disguise, with tech productivity gains absorbed as rent
 - [Alan Greenspan](/wiki/alan-greenspan/) — Fed Chairman 1987-2006 whose denial of an identifiable housing bubble is the Georgist tradition's leading case study for the limits of monetary-policy-only readings of the cycle

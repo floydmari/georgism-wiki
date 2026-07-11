@@ -37,6 +37,7 @@ The Georgist land-as-commons tradition should be distinguished from the commons 
 
 ## See Also
 
+- [Common Heritage of Mankind (Seabed Rents)](/wiki/common-heritage-of-mankind/) — the UN Law of the Sea's rent-as-common-property principle for deep seabed minerals, and how contested it remains in practice
 - [George — Moses (1878)](/wiki/moses/) — George reads the Mosaic land laws as an early embodiment of land-as-common-property
 - [George — Thy Kingdom Come (1889)](/wiki/thy-kingdom-come/) — the sermon casting the earth as the All-Father's common gift to all His children
 - [Fairlie — A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/)

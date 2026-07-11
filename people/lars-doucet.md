@@ -29,6 +29,7 @@ Doucet represents the contemporary, empirically minded wing of Georgism: less co
 
 ## See Also
 
+- [Scott Alexander](/wiki/scott-alexander/) — host of the 2021 ACX Book Review Contest Doucet's Progress and Poverty review won, the spark for Doucet's Georgism series
 - [Henry George](/wiki/henry-george/) · [Progress and Poverty](/wiki/progress-and-poverty/) · [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 
 ## Sources

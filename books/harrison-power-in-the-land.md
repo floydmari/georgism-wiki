@@ -106,6 +106,9 @@ Harrison's argument that the optimal speculative holding period is 15–16 years
 
 ## See Also
 
+- [Phelps Brown & Weber (1953): Accumulation, Productivity and Distribution](/wiki/phelps-brown-weber-accumulation/) — the 1953 study Harrison cites (Ch. 6) as the empirical basis for the declining-returns-to-capital blade of his scissors divergence
+- [Thomas Spence](/wiki/thomas-spence/) — the Newcastle schoolteacher Harrison cites (Ch. 2, p.30) as a land-tax precursor imprisoned for his advocacy
+- [Objection: Nationalization or Socialism Solves the Land Problem](/wiki/nationalization-solves-the-land-problem/) — examines Harrison's Ch. 13–14 case studies (Yugoslavia, Israel, Sweden) showing public land ownership without rent-pricing failed to escape land-value inflation and speculative capture
 - [Hope Value](/wiki/hope-value/) — the speculative planning-permission premium Harrison identifies within UK land asking prices
 - [Real Estate Investment Trusts (REITs)](/wiki/reits/) — the tax-exempt, credit-financed vehicle behind the 1970s bubble Harrison documents in Ch. 8–9
 - [Jamaica's Land Value Taxation (1957-1974)](/wiki/jamaica-land-value-tax/) — the book's case study of a national unimproved-value tax and its 1974 revaluation aftermath

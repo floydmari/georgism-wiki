@@ -163,6 +163,8 @@ The narrative's persuasive work is answering the question every newcomer asks:
 
 ## See Also
 
+- [Revenue Act of 1916](/wiki/revenue-act-of-1916/) — the federal income-tax law that, per Gaffney and Harrison, single-tax Congressman Warren Worth Bailey helped draft to target unearned rather than wage income
+- [Georgism Ran the Progressive Era](/wiki/progressive-era-georgism/) — Gaffney's related, more specific claim about the single tax's reach into Progressive Era politics
 - [Academic Purges of Georgist Economists](/wiki/academic-suppression-of-georgists/) — case-level detail on the three academic dismissals Gaffney and Harrison cite as institutional suppression, with independent sourcing that complicates the Georgism-specific motive
 - [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/) — the primary text
 - [Blaug: Henry George — Rebel with a Cause](/wiki/blaug-henry-george-rebel/) — the mainstream counter-source

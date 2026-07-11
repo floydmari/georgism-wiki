@@ -63,6 +63,7 @@ Three limits are worth stating plainly:
 
 ## See Also
 
+- [Financialization of Land and Housing](/wiki/financialization-of-land/) — the book's central mechanism, given its own concept page
 - [Josh Ryan-Collins](/wiki/josh-ryan-collins/) · [Land Value Tax](/wiki/land-value-tax/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land Value Capture](/wiki/land-value-capture/) · [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/) · [Land is Back, It Should Be Taxed, It Can Be Taxed](/wiki/bonnet-land-is-back/)
 
 ## Sources

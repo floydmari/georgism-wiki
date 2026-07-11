@@ -35,6 +35,7 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 
 ## See Also
 
+- [Wages Fund Doctrine](/wiki/wages-fund-doctrine/) — the classical wage theory Book I of Progress and Poverty was written to refute
 - [Thomas Robert Malthus](/wiki/thomas-malthus/) — the population theorist George devotes Book II to refuting, and an independent 1815 co-discoverer of the theory of rent
 - [Overpopulation Causes Poverty (Malthusianism)](/wiki/overpopulation-causes-poverty/) — the rival explanation of poverty that Book II of this work is devoted to refuting
 - [Margin of Production](/wiki/margin-of-production/)

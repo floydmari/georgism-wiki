@@ -20,6 +20,7 @@ Howard founded Letchworth (1903) and Welwyn Garden City (1920) on these principl
 
 ## See Also
 
+- [Letchworth Garden City](/wiki/letchworth/) — the first Garden City (1903), Howard's built proof-of-concept for land-value-capture town financing
 - [Land Value Capture](/wiki/land-value-capture/) · [Unearned Increment](/wiki/unearned-increment/) · [Single-Tax Colonies](/wiki/single-tax-colonies/)
 
 ## Sources
