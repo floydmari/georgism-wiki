@@ -2,7 +2,7 @@
 title: "The Case Against the Single Tax (Johnson 1914) — and Foldvary's Rebuttal"
 category: research
 tags: [research, single-tax, objections, history, atlantic-monthly, foldvary]
-authors: [[Alvin S. Johnson](/wiki/alvin-johnson/), Fred Foldvary]
+authors: [Alvin S. Johnson, Fred Foldvary]
 year: 1914
 tier: important
 source_url: https://www.theatlantic.com/magazine/archive/1914/01/
