@@ -139,6 +139,40 @@ commit+push+preview — publishing is Floyd's process.
 
 ---
 
+
+### Late-shift addendum (2026-07-10 evening, T1)
+
+Everything in the NOW lanes above completed or advanced this evening; verified state at close:
+
+- **Phase 2 COMPLETE and Phase 3 EXECUTED** (Floyd sign-off): `outcomes/` split into
+  `problems/` (13) + `benefits/` (15); indexes live at `/wiki/problems/` + `/wiki/benefits/`;
+  lint + all scripts + EDITORIAL updated. First Ghost sync will create the
+  `wiki-problems`/`wiki-benefits` tags.
+- **Justice pair live** (T1 line-reviewed): land-justice-and-indigenous-reconciliation,
+  land-and-the-black-white-wealth-gap.
+- **Objections build-out complete**: public-choice-critique added (14 objection pages).
+- **VERIFY burn-down**: raw wiki-dir marker count 55 at close (121 at queue regen this
+  afternoon; ~660 campaign start). Actionable tail exhausted — the remainder is honest
+  blocks (paywalled/print/owner-input/2026-calendar-gated).
+- **Corrections propagated this shift**: Bakker (2023) mischaracterization fixed wiki-wide
+  (measurement, not misallocation); Tullock/England attribution corrected (Olson framework);
+  Harrison/Busey chapter fix; Goldman paraphrase-as-quote; fabricated "Andelson 1991
+  biography" removed; Ozdilek author fix; Paine pension age 50 (not 55); Ralston-Nolan
+  = H.R. 12397; Doucet's Almy/Hefferan-Boyd figure conflations flagged on the new pages.
+- **PD program**: 5 new full texts this shift — Life of Henry George (books+publicdomain),
+  Agrarian Justice (upgraded, tables rebuilt), Saratoga George-Seligman exchange,
+  Deportations Delirium (books+publicdomain, via Harvard IIIF), Irish Land Question
+  full proofread (~130 fixes). In flight at close: Johnson 1914 critique, Limehouse 1909.
+- **Research ingests**: WS-TECH-RENTS cluster complete (5 pages incl. Korinek-Stiglitz AI
+  rents + DMA); financial-rents (Greenwood-Scharfstein, Bazot); mass-appraisal trio
+  (Kolbe/Almy/Hefferan-Boyd — Doucet Part-3 gap closed); Hornbeck-Moretti (double-edged,
+  wired honestly); Kuminoff-Pope + Hudson (measurement cluster).
+- **SPN sweep**: 176/~330 registry URLs archived at close; resumable
+  (scripts/spn_sweep.sh, log sources/exports/spn-sweep.log).
+- **Floyd-only items surfaced**: CWC founding date/legal form; Ryan-Collins + Blaug
+  provenance attestations; the CWC Table 5 "24% HGFC royalty" appears to be a
+  back-calculation (fn 32 sourceless) — his paper, his call.
+
 ## DONE this shift (2026-07-10) — retired from the queue
 
 - **Phase 1 of the problems/benefits split** (commit 8ecde77): `claim_type: problem|benefit`
