@@ -54,6 +54,7 @@ Tideman's chapter argues that 100% land value taxation, introduced without compe
 
 - [Colin Clark](/wiki/colin-clark/) — economist whose 25%-of-NNP tax-limit argument is cited here
 - [Physiocrats](/wiki/physiocrats/) — the 18th-c. French school whose *impôt unique* is the direct ancestor of the single tax
+- [Canons of taxation](/wiki/canons-of-taxation/) — Smith's four maxims and George's four conditions, against which George tried the single tax (*Progress and Poverty*, Book VIII, Ch. III)
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/)
 
 - [Henry George](/wiki/henry-george/) — the movement's originator

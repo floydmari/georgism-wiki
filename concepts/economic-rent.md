@@ -13,6 +13,14 @@ In economics, **rent** in its technical sense is distinct from the colloquial me
 
 For **land**, rent takes on special significance because land is not produced: it was not manufactured, and its supply cannot meaningfully be increased in response to price. The rent of a parcel therefore represents payment purely for its location and natural attributes, which are created by nature and society, not by the landowner.
 
+## Smith: Rent as a Monopoly Price
+
+Before Ricardo formalised the theory, [Adam Smith](/wiki/adam-smith/) had already identified land rent as a return set by the tenant's capacity to pay rather than by the owner's outlay — a monopoly return to a fixed resource:
+
+> "The rent of land, therefore, considered as the price paid for the use of the land, is naturally a monopoly price. It is not at all proportioned to what the landlord may have laid out upon the improvement of the land, or to what he can afford to take, but to what the farmer can afford to give." (Smith 1776, *[The Wealth of Nations](/wiki/wealth-of-nations/)*, Book I, Ch. XI)
+
+Smith is a classical antecedent here, not a Georgist: he drew no single-tax conclusion from the observation, and treating this passage as the seed of the later rent-and-LVT analysis is the Georgist tradition's reading (see the [book page](/wiki/wealth-of-nations/) for the passage in context and its honest limits). (A-claim for the quotation; D-claim, interpretive, for the lineage.)
+
 ## Ricardo's Law of Rent
 
 David Ricardo formalised the analysis of land rent in his *Principles of Political Economy and Taxation* (1817). He observed that in agriculture, different plots of land have different natural fertility. Farmers on superior land can produce more output from the same inputs than those on inferior land. In a competitive market, the price of agricultural produce is set at the cost of production on the *least productive* (marginal) land in use. Farmers on better land earn a surplus above this margin — that surplus is rent, and it accrues to the landlord, not to the farmer's labour or capital.
@@ -68,10 +76,11 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 
 ## Sources
 
-1. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text](https://www.econlib.org/library/Ricardo/ricP.html)
-2. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-3. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
-4. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Chs. 1, 7 — used for Pareto's redefinition of rent and the neoclassical merger of land into capital (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
-5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
-6. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the definition of rent as surplus above competitive costs and the argument that rent is neglected in public discourse (C/D-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
-7. Martin Adams, *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — used for the argument that rent privatization drives wealth inequality (D/B-claims). [Book page](/wiki/land-a-new-paradigm/)
+1. Adam Smith (1776), *The Wealth of Nations*, Book I, Ch. XI — used for rent as "naturally a monopoly price" (A-claim; public domain; quote verified verbatim against the repo-hosted text 2026-07-11). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](../sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/).
+2. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text](https://www.econlib.org/library/Ricardo/ricP.html)
+3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+4. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
+5. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Chs. 1, 7 — used for Pareto's redefinition of rent and the neoclassical merger of land into capital (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
+6. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+7. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the definition of rent as surplus above competitive costs and the argument that rent is neglected in public discourse (C/D-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
+8. Martin Adams, *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — used for the argument that rent privatization drives wealth inequality (D/B-claims). [Book page](/wiki/land-a-new-paradigm/)

@@ -25,6 +25,16 @@ Land is unique in being perfectly inelastic in supply: its quantity is fixed reg
 
 This is the core efficiency argument for LVT that has been accepted by economists across the ideological spectrum, from Henry George to Milton Friedman to the authors of the Mirrlees Review.
 
+### Classical Antecedent: Smith (1776)
+
+The observation predates the formal theory of excess burden by well over a century. In [*The Wealth of Nations*](/wiki/wealth-of-nations/), Book V, Ch. II, [Adam Smith](/wiki/adam-smith/) stated both halves of the modern argument in plain terms — the tax cannot be shifted, and it discourages no production:
+
+> "A tax upon ground-rents would not raise the rent of houses; it would fall altogether upon the owner of the ground-rent, who acts always as a monopolist, and exacts the greatest rent which can be got for the use of his ground." (Smith 1776, Book V, Ch. II)
+
+> "Though a part of this revenue should be taken from him in order to defray the expenses of the state, no discouragement will thereby be given to any sort of industry. The annual produce of the land and labour of the society, the real wealth and revenue of the great body of the people, might be the same after such a tax as before." (Smith 1776, Book V, Ch. II)
+
+Smith wrote before the marginalist apparatus of surplus and elasticity existed, so this is a verbal anticipation of the zero-deadweight-loss result, not a formal statement of it — and Smith drew a suitability conclusion ("the species of revenue which can best bear to have a peculiar tax imposed upon them"), not a Georgist one. Reading the passage as the ancestor of the modern efficiency case is an interpretive claim of this wiki and the tradition that cites him; see the [book page](/wiki/wealth-of-nations/) for the passage in context. (A-claim for the quotations; D-claim, interpretive, for the lineage.) The full section is reproduced at [Taxes upon Rent (Smith, 1776)](/wiki/smith-taxes-upon-rent-1776/).
+
 ## The Excess Burden of the Current Tax System
 
 Every dollar raised through labour income taxes, capital gains taxes, sales taxes, or corporate taxes carries with it a deadweight loss — an additional cost to society beyond the revenue raised. Estimates of this excess burden typically range from 20 to 50 cents per dollar of revenue, depending on the tax and the economy. LVT is the one major revenue source with no excess burden.
@@ -45,3 +55,4 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 
 1. James Mirrlees et al. (2011), *Tax by Design* (the Mirrlees Review), Institute for Fiscal Studies — used for the authoritative statement that recurrent land/property taxes are the least distorting (A/B-claims). [IFS](https://ifs.org.uk/books/tax-design) · [wiki summary](/wiki/mirrlees-review/)
 2. Standard public-economics treatment of excess burden under inelastic supply — used for the textbook mechanism (A-claim; any intermediate public-finance text states it).
+3. Adam Smith (1776), *The Wealth of Nations*, Book V, Ch. II, Part II, Article I — used for the classical antecedent of the no-shifting and no-discouragement arguments (A-claims for the quotations, public domain, verified verbatim against the repo-hosted text 2026-07-11; D-claim for the lineage). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](../sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/) · full section: [Taxes upon Rent (Smith, 1776)](/wiki/smith-taxes-upon-rent-1776/).

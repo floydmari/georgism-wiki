@@ -68,7 +68,7 @@ Goldman's book is a work of history, not advocacy, but it documents the policy p
 
 > "The usual aristocrat of 1870 had little direct connection with industrial America. His money was inherited and had probably been made in land or in commerce rather than from operations associated closely with the factory system." — Goldman, Ch. 3 'Thrust from the Top', p. 28
 
-> "The 'chief evil' of the day was 'the alliance between industrialists and a political class which thinks like industrialists.' Civil-service reform would end the ability of politicians to entrench themselves in power and to sell the perquisites of power to men for whom 'the pursuit of happiness' means the pursuit of wealth." — Charles Bonaparte, quoted by Goldman, Ch. 3, p. 28
+> "The 'chief evil' of the day was 'the alliance between industrialists and a political class which thinks like industrialists.'" — Charles Bonaparte, quoted by Goldman, Ch. 3, p. 28. Goldman adds that Bonaparte saw civil-service reform as the way to end politicians' ability to entrench themselves in power and sell its perquisites to wealth-seekers.
 
 > "In 1801 Jefferson had found the solution. He restored the rights of the States and the localities. He repressed the meddling of government in the concerns of private business. He enforced, by precept and by example, purity and bitterestedness in official life. The reformatory work of Mr. Jefferson must now be repeated." — Samuel Tilden, Ch. 3 'Thrust from the Top', p. 27
 
@@ -93,6 +93,6 @@ Goldman's book is a work of history, not advocacy, but it documents the policy p
 
 ## Sources
 
-1. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956). — primary source for all claims
-2. Henry George, *Progress and Poverty* (1879) — the work Goldman describes George writing during the depression of 1873.
-3. *Journal of the Knights of Labor* (1887) — quoted by Goldman, p.47, testifying to George's influence.
+1. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952; revised abridged ed., Vintage Books, 1956). — used for all claims on this page (primary source)
+2. Henry George, *Progress and Poverty* (1879) — used for context as the work Goldman describes George writing during the depression of 1873.
+3. *Journal of the Knights of Labor* (1887) — used for the 1887 testimony to George's influence, quoted by Goldman, p.47.

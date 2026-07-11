@@ -22,9 +22,11 @@ The reply attacks the critique at its **premise** rather than its policy conclus
 
 ## Key Findings
 
-**The thesis, in Foldvary's own words (verbatim abstract).** The published abstract states the argument in five sentences:
+**The thesis, in Foldvary's own words (verbatim abstract).** The published abstract states the argument in five sentences; the two load-bearing ones verbatim:
 
-> "This paper refutes the proposition by Caplan and Gochenour that there is no such thing as natural resources because all goods are produced. Caplan and Gochenour use that proposition to argue against the reform proposal of Henry George and his followers, to replace all taxes with a single tax on land value. The rebuttal to Caplan and Gochenour made by this paper is that the discovery of a resource does not constitute its production. The refutation here argues that entrepreneurship and investment create human capital and capital goods, not natural resources. Discovery is not the same as invention or production."
+> "This paper refutes the proposition by Caplan and Gochenour that there is no such thing as natural resources because all goods are produced. […] The rebuttal to Caplan and Gochenour made by this paper is that the discovery of a resource does not constitute its production."
+
+The elided sentences add that Caplan and Gochenour deploy that proposition against the Georgist proposal to replace existing taxation with a single tax on land value, and that entrepreneurship and investment create human capital and capital goods — not natural resources; discovery is not the same as invention or production.
 
 Three load-bearing distinctions follow from that text:
 

@@ -62,19 +62,19 @@ The appendix provides a biographical study of Henry George as a "liberationist f
 
 ## Key Quotes
 
-> "The idea that land could be owned by individuals was shocking to black Africans. The land belonged to the people, the tribe, the chief, or even God. It could no more be monopolized, bought, and sold than air could be monopolized, bought, and sold for the benefit of individual owners. Certainly land transactions could take place, but these could be only for the right to use land, not to own land itself." — John D. Davies, Foreword, p. 11
+> "The idea that land could be owned by individuals was shocking to black Africans. The land belonged to the people, the tribe, the chief, or even God. It could no more be monopolized, bought, and sold than air could be monopolized, bought, and sold for the benefit of individual owners. […]" — John D. Davies, Foreword, p. 11. Land transactions could take place, Davies adds, but only for the right to use land, never to own it.
 
-> "The primary form of wealth is not money (which is the means of exchange of wealth, not wealth in itself) but the combined power of land, labor, and learning. A truly just society would be one where these three resources are fully shared and not monopolized by either minorities or majorities." — John D. Davies, Foreword (quoting Verinder), p. 12
+> "The primary form of wealth is not money (which is the means of exchange of wealth, not wealth in itself) but the combined power of land, labor, and learning. […]" — John D. Davies, Foreword (quoting Verinder), p. 12. A truly just society, on this view, is one where these three resources are fully shared, monopolized by neither minorities nor majorities.
 
-> "Here is an opportunity for the teaching of Henry George to receive new and serious attention. At the same time, the kind of philosophy which led to the imposition of the Poll Tax in Britain has lost some of its credibility. Politicians are urgently looking for believable, just, and practical methods of taxation. This is exactly what Henry George offers." — John D. Davies, Foreword, p. 12
+> "Here is an opportunity for the teaching of Henry George to receive new and serious attention. At the same time, the kind of philosophy which led to the imposition of the Poll Tax in Britain has lost some of its credibility. […]" — John D. Davies, Foreword, p. 12. Politicians urgently seeking believable, just, and practical methods of taxation, Davies concludes, will find exactly that in George.
 
 > "What matters is not formal ownership but sharing the wealth which the community creates from the land. To accomplish this, forms of taxation need to be devised and tested that encourage sustainable development and equitable land-use for the benefit of all." — John D. Davies, Foreword, p. 12
 
-> "The Georgist formulation of the biblical model would, if put into thoroughgoing operation, mean the extirpation of monopoly in a framework of political and economic liberty. It would render free enterprise truly free. All who were willing and able to work could achieve a reasonable degree of economic well-being and security." — Andelson & Dawsey, Ch. 9, p. 99
+> "The Georgist formulation of the biblical model would, if put into thoroughgoing operation, mean the extirpation of monopoly in a framework of political and economic liberty. It would render free enterprise truly free. […]" — Andelson & Dawsey, Ch. 9, p. 99. All willing and able to work, they argue, could then achieve a reasonable degree of economic well-being and security.
 
 > "Land value taxation rectifies distribution so that all receive wealth in proportion to their contribution to its production. This liberates the economic system from exploiters who contribute little or nothing. Apportioning the wealth pie fairly almost magically results in increasing the size of the pie." — Andelson & Dawsey, Ch. 9, p. 100
 
-> "Neither can private enterprise be free if the private appropriation of rent prevails. In those circumstances, landowners always demand their 'cut' for giving others access to a portion of nature landowners did not create. When landlords take something for nothing, the portion of wealth that goes to them becomes a stifling tax on enterprise. It comes off the backs of producers, both labor and capital." — Andelson & Dawsey, Ch. 9, p. 100
+> "Neither can private enterprise be free if the private appropriation of rent prevails. In those circumstances, landowners always demand their 'cut' for giving others access to a portion of nature landowners did not create. […]" — Andelson & Dawsey, Ch. 9, p. 100. Rent taken for nothing, they continue, becomes a stifling tax on enterprise, coming off the backs of labor and capital alike.
 
 > "The middle way is to recognize society's claim to what nature and society create — the value of land and its rent — so that working people, which term certainly does not exclude entrepreneurs, may claim their full share of what they create." — Andelson & Dawsey, Ch. 9, p. 100
 
@@ -96,6 +96,6 @@ The appendix provides a biographical study of Henry George as a "liberationist f
 
 ## Sources
 
-1. Robert V. Andelson and James M. Dawsey, *From Wasteland to Promised Land: Liberation Theology for a Post-Marxist World* (Maryknoll, NY: Orbis Books; London: Shepheard-Walwyn, 1992). ISBN 0-85683-133-6. — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate).
-2. Frederick Verinder, *My Neighbour's Landmark* — cited as the book that introduced Bishop Davies to land reform principles (B-claim; secondary).
-3. Henry George, *Progress and Poverty* — the foundational text the book builds upon (A-claim; primary source).
+1. Robert V. Andelson and James M. Dawsey, *From Wasteland to Promised Land: Liberation Theology for a Post-Marxist World* (Maryknoll, NY: Orbis Books; London: Shepheard-Walwyn, 1992). ISBN 0-85683-133-6. — used for all claims on this page (primary source); verified against primary text 2026-07-07 (Scan Depth: Moderate).
+2. Frederick Verinder, *My Neighbour's Landmark* — used for context as the book that introduced Bishop Davies to land reform principles (B-claim; secondary).
+3. Henry George, *Progress and Poverty* — used as the foundational text the book builds upon (A-claim; primary source).

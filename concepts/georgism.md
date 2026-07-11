@@ -73,7 +73,7 @@ Bryson highlights Schumpeter's assessment that George was "a very orthodox econo
 
 The volume's contributors extend Georgism into new domains: Nicolaus Tideman argues that 100% LVT is constitutionally permissible if introduced as a constitutional amendment rather than ordinary legislation, drawing an analogy to the abolition of slavery (Tideman 1991, p. 56); Fred Harrison analyzes UK "planning gain" as an implicit land value tax, observing that farmland-to-housing land value increases "can be a thousandfold" (Harrison 1991, p. 63); David Richards connects Georgism to the Green movement, arguing that "every person in every generation has an equal right to the use of land" is "common ground in the Green movement" but that "collection of land rent by the community is not commonly perceived as its necessary logical outcome" (Richards 1991, p. 159). (C-claim; theoretical)
 
-> "Henry George's message appears destined to fall between political stools. To Greens it offers equitable sharing of the world's natural resources; to non-Greens, economic efficiency and, hence, growth. Within both groups, it offers thoroughgoing private ownership of producible goods and services to those of Rightward persuasion, and untrammelled social ownership of natural resources to those of Leftward persuasion." — David Richards, in Noyes 1991, p. 159
+> "Henry George's message appears destined to fall between political stools. To Greens it offers equitable sharing of the world's natural resources; to non-Greens, economic efficiency and, hence, growth. […]" — David Richards, in Noyes 1991, p. 159. Within both groups, Richards continues, it offers thoroughgoing private ownership of producible goods to the Right and untrammelled social ownership of natural resources to the Left.
 
 See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
@@ -84,6 +84,7 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 - [Geoism](/wiki/geoism/) — the generalized system: all rents, not only land (the wiki's full scope)
 
 - [Henry George](/wiki/henry-george/) — the movement's founder
+- [Adam Smith's Lectures on Jurisprudence](/wiki/smith-lectures-jurisprudence/) — the land-tax doctrine a decade before the *Wealth of Nations*
 - [Land Value Tax](/wiki/land-value-tax/) — the central policy proposal
 - [Single Tax](/wiki/single-tax/) — the 19th-century political movement
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the foundational text

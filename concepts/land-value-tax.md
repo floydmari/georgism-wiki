@@ -102,6 +102,8 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 
 ## See Also
 
+
+- [Canons of Taxation](/wiki/canons-of-taxation/) — how LVT scores against Smith's four maxims and George's four conditions
 - [Physiocrats](/wiki/physiocrats/) — the *produit net* / *impôt unique* forerunners of land-value taxation
 - [Site Value](/wiki/site-value/)
 

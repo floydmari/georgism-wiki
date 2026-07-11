@@ -15,6 +15,16 @@ land rent is only a few percent of GDP, far too little to replace income, payrol
 and consumption taxes. On this view the "single tax" is a 19th-century idea that
 cannot fund a 21st-century state.
 
+The position being objected to is George's own. In *Progress and Poverty* he holds
+that land rent is not merely the *best* tax base but an *ample* one: "In every
+civilized country, even the newest, the value of the land taken as a whole is
+sufficient to bear the entire expenses of government. In the better developed
+countries it is much more than sufficient" — the practical proposal being "to abolish
+all taxation save that upon land values" (*Progress and Poverty*, Book VIII, Ch. II),
+which George then tries against the [canons of taxation](/wiki/canons-of-taxation/)
+(Book VIII, Ch. III). The modern dispute is whether that 1879 sufficiency claim
+survives 20th-century national-accounts measurement.
+
 The objection has distinguished sponsors. **Paul Krugman**, while conceding the
 theory: "I don't think you can raise nearly enough money to run a modern welfare
 state by taxing land. It's just not a big enough thing" (2017, as carried in
@@ -96,3 +106,8 @@ theory.
    Spare" — [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) ·
    [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf) — used for the
    hidden-rent categories (C/D-claims, advocate-economist).
+5. Henry George (1879), *Progress and Poverty*, Book VIII, Chs. II–III — the
+   sufficiency claim and single-tax proposal being objected to; quotations verified
+   verbatim against the [repository full text](../sources/publicdomain/progress-and-poverty.md)
+   ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain,
+   EDITORIAL §3b).

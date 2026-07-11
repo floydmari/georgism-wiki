@@ -101,4 +101,6 @@ Reading Smith as a proto-Georgist requires care, and the following limits are ma
 
 ## See also
 
+
+- [Adam Smith's Lectures on Jurisprudence](/wiki/smith-lectures-jurisprudence/) — Book V's ground-rents doctrine in its earlier ~1763 Glasgow lecture form (student notes, Cannan 1896)
 - [Adam Smith](/wiki/adam-smith/) · [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [Law of Rent](/wiki/law-of-rent/) · [Ground Rent](/wiki/ground-rent/) · [Georgism](/wiki/georgism/) · [David Ricardo](/wiki/david-ricardo/)

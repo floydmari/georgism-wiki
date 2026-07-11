@@ -71,7 +71,7 @@ Banner's book is a work of legal history, not advocacy, but it implies:
 
 > "By the late seventeenth century, however, English government officials settled on an answer. In principle, if not always in practice, the English recognized the Indians as the owners of North America. If the English wanted Indian land, they would have to buy it." — Stuart Banner, How the Indians Lost Their Land, Chapter 1
 
-> "Every land transfer of any form included elements of law and elements of power. No non-Indian acquiring Indian land thought himself unconstrained by Anglo-American law. Whites always acquired Indian land within a legal framework of their own construction. Law was always present, but so was power. The more powerful whites became relative to Indians, the more they were able to mold the legal system to produce outcomes in their favor—more sales, of larger tracts, at lower prices than would have existed had power relationships been more equal." — Stuart Banner, How the Indians Lost Their Land, Introduction
+> "Every land transfer of any form included elements of law and elements of power. No non-Indian acquiring Indian land thought himself unconstrained by Anglo-American law. Whites always acquired Indian land within a legal framework of their own construction. Law was always present, but so was power. […]" — Stuart Banner, How the Indians Lost Their Land, Introduction. As whites grew more powerful relative to Indians, Banner continues, they molded the legal system toward outcomes in their favor — more sales, of larger tracts, at lower prices than more equal power relations would have produced.
 
 > "There is a large middle ground between conquest and contract. The interesting question about Indian land sales is not whether they were voluntary or involuntary, but where they were located within that middle ground at any given time or place." — Stuart Banner, How the Indians Lost Their Land, Introduction
 
@@ -79,9 +79,9 @@ Banner's book is a work of legal history, not advocacy, but it implies:
 
 > "Property means ownership; sovereignty means the right to govern. The United States and California both have sovereignty over the land on which my house sits, but they don't have property rights in it." — Stuart Banner, How the Indians Lost Their Land, Introduction
 
-> "Anglo-Americans could sincerely believe, for most of American history, that they were not conquerors, because they believed they were buying land from the Indians in the same way they bought land from each other. What kind of conqueror takes such care to draft contracts to keep up the appearance that no conquest is taking place? A conqueror that genuinely does not think of itself as one." — Stuart Banner, How the Indians Lost Their Land, Introduction
+> "Anglo-Americans could sincerely believe, for most of American history, that they were not conquerors, because they believed they were buying land from the Indians in the same way they bought land from each other. […]" — Stuart Banner, How the Indians Lost Their Land, Introduction. What kind of conqueror drafts careful contracts to keep up the appearance that no conquest is taking place, Banner asks — one that genuinely does not think of itself as a conqueror.
 
-> "In the end, the story of the colonization of the United States is still a story of power, but it was a more subtle and complex kind of power than we conventionually recognize. It was the power to establish the legal institutions and the rules by which land transactions would be enforced." — Stuart Banner, How the Indians Lost Their Land, Introduction
+> "In the end, the story of the colonization of the United States is still a story of power, but it was a more subtle and complex kind of power than we conventionually recognize. […]" — Stuart Banner, How the Indians Lost Their Land, Introduction. That power, Banner concludes, was the power to establish the legal institutions and rules under which land transactions would be enforced.
 
 ## Bears On
 
@@ -105,6 +105,6 @@ Banner's book is a work of legal history, not advocacy, but it implies:
 
 ## Sources
 
-1. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Belknap Press of Harvard University Press, 2005; pbk. 2007). ISBN 978-0-674-02396-3. — primary source for all claims
-2. *Johnson v. M'Intosh*, 21 U.S. (8 Wheat.) 543 (1823) — the foundational Supreme Court case on Indian land rights, discussed throughout.
-3. Robert Williams, *The American Indian in Western Legal Thought* — the "leading study" Banner argues against, p.11.
+1. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Belknap Press of Harvard University Press, 2005; pbk. 2007). ISBN 978-0-674-02396-3. — used for all claims on this page (primary source)
+2. *Johnson v. M'Intosh*, 21 U.S. (8 Wheat.) 543 (1823) — used as the foundational Supreme Court case on Indian land rights, discussed throughout.
+3. Robert Williams, *The American Indian in Western Legal Thought* — used as the "leading study" Banner argues against, p.11.

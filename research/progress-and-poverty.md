@@ -30,6 +30,24 @@ George's argument proceeds in three major stages:
 
 3. **The remedy.** George proposes a single tax on land values — sufficient to replace all other taxes — which would capture the unearned increment for the community while leaving wages and capital untaxed.
 
+## In George's Own Words
+
+George illustrates that land value is created by the presence of the community, not by the soil itself, with his famous **unbounded-savannah** thought experiment: a lone settler on uniform, fertile land is materially poor, and each new arrival makes the earlier settlers' locations more valuable until "[l]abor has now an effectiveness which, in the solitary state, it could not approach."
+
+> "Here, let us imagine, is an unbounded savannah, stretching off in unbroken sameness of grass and flower, tree and rill, till the traveler tires of the monotony. Along comes the wagon of the first immigrant. Where to settle he cannot tell—every acre seems as good as every other acre.… Soon there comes another immigrant.… Though the land is the same, there is one place that is clearly better for him than any other place, and that is where there is already a settler and he may have a neighbor." (*Progress and Poverty*, Book IV, Ch. II)
+
+The remedy George reaches is stated bluntly, then immediately qualified so that it is rent — not land itself — that is taken:
+
+> "We must make land common property." (*Progress and Poverty*, Book VI, Ch. II)
+
+> "We may safely leave them the shell, if we take the kernel. It is not necessary to confiscate land; it is only necessary to confiscate rent." (*Progress and Poverty*, Book VIII, Ch. II)
+
+In practical form this becomes the single tax — and George argues the base is ample, not merely convenient:
+
+> "To abolish all taxation save that upon land values.… In every civilized country, even the newest, the value of the land taken as a whole is sufficient to bear the entire expenses of government. In the better developed countries it is much more than sufficient." (*Progress and Poverty*, Book VIII, Ch. II)
+
+George then tries the proposal against the [canons of taxation](/wiki/canons-of-taxation/) — bearing lightly on production, cheap and certain collection, and equal incidence — arguing a tax on land values conforms to all four better than any other (Book VIII, Ch. III).
+
 ## Reception and Legacy
 
 *Progress and Poverty* sold over three million copies in the United States alone in the decade after publication, at a time when the US population was around 50 million. It was required reading in labour and reform movements across the English-speaking world. Tolstoy, who corresponded with George, said it demonstrated that a single reform could abolish poverty. Sun Yat-sen cited it as a direct influence on the land policies of the Republic of China. Bernard Shaw attributed his own turn to socialism partly to hearing George speak in London.

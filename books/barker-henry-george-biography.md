@@ -76,15 +76,15 @@ Barker devotes disproportionate attention to the California period, which he ack
 
 ## Key Quotes
 
-> "Three generations ago Henry George electrified great numbers of our ancestors on both sides of the Atlantic and in Australia and New Zealand. In the history of the English-speaking world there is no other figure who quite compares with him. Driven by a demon of the spirit, an inner force which combined love of God with love of man and desire for fame, George managed to find the language with which to say what many men were ready, and some were longing, to hear." — Charles Albro Barker, Henry George, Preface
+> "Three generations ago Henry George electrified great numbers of our ancestors on both sides of the Atlantic and in Australia and New Zealand. In the history of the English-speaking world there is no other figure who quite compares with him. […]" — Charles Albro Barker, Henry George, Preface. Driven by an inner force combining love of God, love of man, and desire for fame, Barker continues, George found the language to say what many were ready — and some longing — to hear.
 
-> "No other book of the industrial age, dedicated to social reconstruction and conceived within the Western traditions of Christianity and democracy, commanded so much attention as did Progress and Poverty. Only Das Kapital, conceived outside that tradition, is fairly comparable in purpose of reconstruction, but this book was much slower to catch on than Progress and Poverty." — Charles Albro Barker, Henry George, Preface
+> "No other book of the industrial age, dedicated to social reconstruction and conceived within the Western traditions of Christianity and democracy, commanded so much attention as did Progress and Poverty. […]" — Charles Albro Barker, Henry George, Preface. Only *Das Kapital*, conceived outside that tradition, is fairly comparable in reconstructive purpose, Barker adds — and it was much slower to catch on.
 
-> "From the very first until the very last, from the political ideas acquired in his parents' home to the campaign that made him a martyr, seventeen years after he had left California, the axioms of his thought were always the same. They were the Jeffersonian and Jacksonian principles of destroying private economic monopolies and of advancing freedom and equal opportunity for everyone." — Charles Albro Barker, Henry George, Preface
+> "From the very first until the very last, from the political ideas acquired in his parents' home to the campaign that made him a martyr, seventeen years after he had left California, the axioms of his thought were always the same. […]" — Charles Albro Barker, Henry George, Preface. Those axioms, Barker writes, were the Jeffersonian and Jacksonian principles of destroying private economic monopolies and advancing freedom and equal opportunity for everyone.
 
 > "His liberal first principles inform every one of the major items of the economic program he conceived on the West coast: absolute free trade, the abolition of private-property values in land, the repeal of discriminatory taxes, and the public ownership of telegraph lines and other public utilities." — Charles Albro Barker, Henry George, Preface
 
-> "When Georgism seized minds of legalistic bent, like Thomas Shearman's, it impelled the single-tax movement, which began during 1887 and 1888 in New York. When it seized practical and political minds, Tom Loftin Johnson's most notably, Georgism entered near its source the stream that later broadened to become the progressive movement of the twentieth century." — Charles Albro Barker, Henry George, Preface
+> "When Georgism seized minds of legalistic bent, like Thomas Shearman's, it impelled the single-tax movement, which began during 1887 and 1888 in New York. […]" — Charles Albro Barker, Henry George, Preface. When it seized practical and political minds like Tom Loftin Johnson's, Barker continues, Georgism entered near its source the stream that broadened into the twentieth-century progressive movement.
 
 > "Above all the place of his origin gave George as birthright the right to speak for the people of the world's great cities. Philosopher of the land though he became, he was always a city man." — Charles Albro Barker, Henry George, Chapter 1
 
@@ -114,6 +114,6 @@ Barker devotes disproportionate attention to the California period, which he ack
 
 ## Sources
 
-1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text
-2. Henry George Collection, New York Public Library — manuscript source donated by Anna George de Mille (Barker 1955, p. 16) (A-claim; factual).
-3. Philip Wicksteed, letter to Henry George, 1882 — quoted p. 11 (A-claim; factual).
+1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — used for all claims on this page (primary text)
+2. Henry George Collection, New York Public Library — used as Barker's manuscript source, donated by Anna George de Mille (Barker 1955, p. 16) (A-claim; factual).
+3. Philip Wicksteed, letter to Henry George, 1882 — used for the quotation on p. 11 (A-claim; factual).

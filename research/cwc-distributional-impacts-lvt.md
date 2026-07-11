@@ -22,7 +22,7 @@ The note models the LVT against **two alternative** revenue-neutral income-tax r
 
 The headline "80% of households better off" result attaches to the **flat-credit** version; the enlarged-0%-bracket version is itself regressive up to the 8th income decile (see "Who Bears the Tax" below).
 
-Both figures are confirmed verbatim against the primary source. The note's abstract states: "we find that LVT is largely a regressive tax, particularly when paired with a reduction to income taxes via the enlargement of the basic personal amount (0%) bracket to $88,100. These impacts are substantially mitigated by a flat per household refundable tax credit of $12,700 which leaves 80% of households better off." (Common Wealth Canada, Apr. 2024, primary page fetched directly this pass.)
+Both figures are confirmed verbatim against the primary source. The note's abstract states: "we find that LVT is largely a regressive tax […] These impacts are substantially mitigated by a flat per household refundable tax credit of $12,700 which leaves 80% of households better off." — the elided clause specifying that regressivity is most pronounced when the LVT is paired with the enlarged $88,100 basic-personal-amount bracket. (Common Wealth Canada, Apr. 2024, primary page fetched directly this pass.)
 
 ## Methodology
 
