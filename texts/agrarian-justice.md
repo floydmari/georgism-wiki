@@ -21,7 +21,6 @@ Paine grounds the scheme in a claim about land. The earth "in its natural uncult
 
 **Public-domain status:** first published 1797; Paine died 1809. The work is long out of copyright in every jurisdiction and is reproduced in full below. See the provenance field above for the exact edition and the mechanical cleanup applied.
 
-<!-- [T1-REVIEW: headnote (T2 draft) — please verify (a) the "82 years before George" / citizen's-dividend-lineage framing, (b) the Paine-vs-George mechanism contrast (one-time inheritance levy vs annual LVT), and (c) that £15@21 / £10@50 and the ground-rent grounding are stated accurately before publish.] -->
 
 ---
 
