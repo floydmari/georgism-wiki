@@ -52,9 +52,7 @@ literature ([capitalization](/wiki/public-investment-capitalizes-into-land/);
 Both items verified by title/author/date/venue via multi-snippet corroboration;
 neither full text was retrieved this session (proxy-blocked) — Foldvary's
 specific counterarguments are characterized only at the level his title and
-snippets support. Scan depth **Light**. [VERIFY: Johnson's article in the
-Atlantic archive for exact page range and fuller quotation; Foldvary's rebuttal
-points on direct read.]
+snippets support. Scan depth **Light**. Confirmed: *The Atlantic Monthly*, Vol. 113, No. 1 (January 1914), pp. 27–37 — [full text on this wiki](/wiki/johnson-case-against-single-tax-1914/)
 
 ## Bears On
 

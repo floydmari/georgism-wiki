@@ -95,6 +95,8 @@ Not all significant critics of George are covered. The selection focuses on publ
 
 ## See Also
 
+- [Johnson: The Case against the Single Tax (1914) — full text](/wiki/johnson-case-against-single-tax-1914/) — the era's canonical mainstream-press critique, carried in full
+
 - [Henry George](/wiki/henry-george/)
 - [Progress and Poverty](/wiki/progress-and-poverty/)
 - [Single Tax](/wiki/single-tax/)

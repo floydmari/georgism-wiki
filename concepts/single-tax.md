@@ -50,6 +50,8 @@ Tideman's chapter argues that 100% land value taxation, introduced without compe
 
 ## See Also
 
+- [Johnson: The Case against the Single Tax (1914) — full text](/wiki/johnson-case-against-single-tax-1914/) — the strongest period objection, in the author's own words
+
 - [Colin Clark](/wiki/colin-clark/) — economist whose 25%-of-NNP tax-limit argument is cited here
 - [Physiocrats](/wiki/physiocrats/) — the 18th-c. French school whose *impôt unique* is the direct ancestor of the single tax
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/)
