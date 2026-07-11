@@ -29,6 +29,8 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 
 ## See Also
 
+- [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
+
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
 - [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/)
 - [Narrative: The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/) — where under-assessment (not evasion) is the real leak

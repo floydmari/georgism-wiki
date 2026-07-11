@@ -69,6 +69,8 @@ The key insight from the assessment literature is that land-value assessment err
 
 ## See Also
 
+- [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
+
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Site Value](/wiki/site-value/)

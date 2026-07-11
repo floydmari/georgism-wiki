@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, capital-share, land, housing, inequality, piketty]
 stub: false
 evidence_strength: "Strong (independently replicated across US and European data)"
-supported_by: [rognlie-capital-share, knoll-schularick-steger-house-prices, bonnet-land-is-back, la-cava-housing-capital-share, furman-orszag-firm-rents]
+supported_by: [rognlie-capital-share, knoll-schularick-steger-house-prices, bonnet-land-is-back, la-cava-housing-capital-share, furman-orszag-firm-rents, bakker-land-rents-tfp]
 challenged_by: [autor-superstar-firms, barkai-declining-shares]
 excerpt: "The much-discussed rise in capital's share of income is, on decomposition, overwhelmingly a rise in the value of land under housing — vindicating a core Georgist claim."
 ---
@@ -57,6 +57,8 @@ If inequality's capital dimension is really a **land** dimension, a tax on land 
 ## Strength of Evidence
 
 **Strong** — independently replicated across US and European datasets by separate research teams.
+
+An independent macro confirmation comes from [Bakker (2023, IMF)](/wiki/bakker-land-rents-tfp/): standard growth decompositions overstate capital's contribution by "failing to account for the substantial part of capital income directed to urban land rents" — recorded capital income is partly land rent, which is this claim stated from the measurement side.
 
 ## See Also
 
