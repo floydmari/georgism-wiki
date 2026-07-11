@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, congestion-pricing, road-pricing, geoism, road-space-rents]
 stub: false
 evidence_strength: "Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature"
-supported_by: [congestion-pricing, leape-london-congestion-charge, eliasson-stockholm-trial-2006, gibson-carnovale-road-pricing-pollution]
+supported_by: [congestion-pricing, leape-london-congestion-charge, eliasson-stockholm-trial-2006, gibson-carnovale-road-pricing-pollution, phang-toh-singapore-congestion-pricing]
 excerpt: "Charging for scarce peak road space produces large, measured falls in traffic and congestion wherever it has been tried — Singapore (1975), London (2003), Stockholm (2006) — and Stockholm's cost-benefit analysis, built on measured data, shows the social benefits recover the system's cost in about four years. The strongest quasi-experimental evidence for any non-land rent-capture instrument."
 ---
 
@@ -31,7 +31,10 @@ summary all show large, quickly-established, sustained reductions:
 - **Stockholm (2006):** cordon traffic down ~20–22%, congestion down 30–50%.
 - **London (2003):** congestion within the zone down ~30%, traffic entering down 18%.
 - **Singapore (1975):** Restricted-Zone morning traffic down ~76%; the world's first
-  successful scheme, electronic since 1998.
+  successful scheme, electronic since 1998 — the scholarly account is
+  [Phang & Toh 2004, *Transportation Journal*](/wiki/phang-toh-singapore-congestion-pricing/),
+  which also supplies the honest caveat that the coarse early charge merely displaced
+  congestion in time and place until per-passage Electronic Road Pricing fixed the margin.
 
 ## The Welfare Evidence — Stockholm's Cost-Benefit Analysis
 
@@ -88,6 +91,7 @@ typically earmarked for transit; see
 - [The London Congestion Charge (Leape 2006)](/wiki/leape-london-congestion-charge/) — the standard economist's evaluation
 - [The Stockholm congestion-charging trial 2006 (Eliasson et al.)](/wiki/eliasson-stockholm-trial-2006/) — the quasi-experiment with the referendum
 - [Road pricing, driver behaviour and air pollution: Milan (Gibson & Carnovale)](/wiki/gibson-carnovale-road-pricing-pollution/) — the clean causal discontinuity
+- [Road Congestion Pricing in Singapore: 1975 to 2003 (Phang & Toh 2004)](/wiki/phang-toh-singapore-congestion-pricing/) — the world's first successful scheme, and its calibration cautionary tale
 - [Congestion Pricing](/wiki/congestion-pricing/) — the mechanism and the traffic evidence in full
 - [William Vickrey](/wiki/william-vickrey/) — the theorist behind it
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table

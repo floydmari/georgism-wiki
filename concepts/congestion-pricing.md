@@ -113,6 +113,7 @@ real-world, before-and-after evidence** at city scale.
 - [The London Congestion Charge (Leape 2006)](/wiki/leape-london-congestion-charge/) — the standard economist's evaluation of the London case
 - [The Stockholm congestion-charging trial 2006 (Eliasson et al.)](/wiki/eliasson-stockholm-trial-2006/) — the evaluation team's overview of the Stockholm case
 - [Road pricing, driver behaviour and air pollution: Milan (Gibson & Carnovale)](/wiki/gibson-carnovale-road-pricing-pollution/) — the clean causal discontinuity from Milan's Area C suspension
+- [Road Congestion Pricing in Singapore: 1975 to 2003 (Phang & Toh 2004)](/wiki/phang-toh-singapore-congestion-pricing/) — the scholarly account of the Singapore ALS→ERP case
 - [William Vickrey](/wiki/william-vickrey/) — the theorist who linked road-space and land pricing
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/) — the externality-correction lens
 - [Geoism](/wiki/geoism/) — the umbrella program; road space in the rent-domain table
@@ -141,5 +142,7 @@ real-world, before-and-after evidence** at city scale.
    2003," *Transportation Journal* 43(2), 2004 — used for the ~76% 1975 Restricted-
    Zone traffic drop, the transit-share shift, the 1998 ERP transition, and the
    over-pricing critique (B/A-claims; figures snippet-corroborated across the ALS
-   record and Singapore NLB/ITF summaries this session).
+   record and Singapore NLB/ITF summaries this session). See
+   [research page](/wiki/phang-toh-singapore-congestion-pricing/).
+   [SMU repository](https://ink.library.smu.edu.sg/soe_research/117/) ·
    [Gale/Transportation Journal](https://go.gale.com/ps/i.do?id=GALE%7CA117772692)
