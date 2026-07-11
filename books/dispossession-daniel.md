@@ -100,6 +100,8 @@ The book does not engage with Georgist economic theory. Its relevance to the Geo
 
 ## See Also
 
+- [Land and the Black–white wealth gap](/wiki/land-and-the-black-white-wealth-gap/) — situates this book’s USDA record inside the wealth-gap argument
+
 - [Pete Daniel](/wiki/pete-daniel/) — author page
 - Land Dispossession
 - [Land Tenure](/wiki/land-tenure-reform-association/)

@@ -45,6 +45,8 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 
 ## See Also
 
+- [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the primary biography, full public-domain text in-repo
+
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
 - [The Crime of Poverty](/wiki/crime-of-poverty/) (1885) — his most famous popular lecture, held in full
 - [Moses](/wiki/moses/) (1878) — his lecture reading the Mosaic land laws as a design against inequality, held in full

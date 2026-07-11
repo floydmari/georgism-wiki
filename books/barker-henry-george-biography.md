@@ -104,6 +104,8 @@ Barker devotes disproportionate attention to the California period, which he ack
 
 ## See Also
 
+- [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the son's primary biography this academic life builds on and argues with
+
 - [Henry George](/wiki/henry-george/)
 - [Progress and Poverty](/wiki/progress-and-poverty/)
 - [Single Tax](/wiki/single-tax/)

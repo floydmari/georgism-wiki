@@ -9,7 +9,7 @@ tier: core
 stub: false
 supports: [split-rate-increases-construction]
 excerpt: "Uses data from 15 Pennsylvania municipalities (1972–1994) to show that a higher tax rate on land relative to buildings significantly increases construction activity."
-supports_outcomes: [split-rate-increases-construction]
+supports_outcomes: [split-rate-increases-construction, taxing-land-raises-productivity]
 ---
 
 ## Summary

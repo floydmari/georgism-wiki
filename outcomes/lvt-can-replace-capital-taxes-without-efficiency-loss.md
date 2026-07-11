@@ -43,6 +43,8 @@ raises the capital-to-land ratio — the mechanism behind the efficiency claim.
 
 ## See Also
 
+- [Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/) — the stronger growth claim built on this page's well-supported core, graded honestly
+
 - [Deadweight Loss](/wiki/deadweight-loss/) · [ATCOR](/wiki/atcor/) · [Land Value Tax](/wiki/land-value-tax/)
 - [Taxation of Economic Rents (Schwerhoff, Edenhofer & Fleurbaey 2020)](/wiki/schwerhoff-taxation-economic-rents/) — the peer-reviewed survey backing the non-distortion case
 

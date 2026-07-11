@@ -44,6 +44,8 @@ point estimate — but the direction is consistent across approaches.
 
 ## See Also
 
+- [Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/) — the mirror-image benefit claim, with the least-harmful vs raises-productivity gap kept explicit
+
 - [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/)
 
 ## Sources

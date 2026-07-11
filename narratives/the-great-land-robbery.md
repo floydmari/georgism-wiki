@@ -213,6 +213,9 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## See Also
 
+- [Land and the Black–white wealth gap](/wiki/land-and-the-black-white-wealth-gap/) — the measured US case this narrative generalizes: farmland loss, redlined-out equity, heirs’ property, and the rent-capture-is-not-reparations distinction
+- [Land justice and Indigenous reconciliation](/wiki/land-justice-and-indigenous-reconciliation/) — the shared-diagnosis, divergent-remedies treatment of Indigenous land claims
+
 - [Johnson V Mcintosh](/wiki/johnson-v-mcintosh/) — the 1823 'discovery doctrine' case underpinning US land dispossession
 - [A Short History of Enclosure in Britain (Fairlie)](/wiki/fairlie-short-history-enclosure/) — the British backbone, with counter-evidence
 - [Enclosure](/wiki/enclosure/) — the legal mechanism of English land dispossession

@@ -216,6 +216,8 @@ the wiki; the extensions beyond land are newer and thinner.
 
 ## See Also
 
+- [Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/) — the talent-allocation and growth evidence behind this narrative
+
 - [Corporate profits are increasingly rents](/wiki/corporate-profits-increasingly-rents/) — the firm-level outcome page this narrative draws on
 - [Rentier](/wiki/rentier/)
 

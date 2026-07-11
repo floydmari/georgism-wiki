@@ -9,7 +9,7 @@ source_url: https://doi.org/10.1162/REST_a_00550
 stub: false
 excerpt: "Albouy's Rosen-Roback model infers city-level land rents, productivity, and total amenity value from U.S. wage and housing-cost data, finding productivity — not quality of life — drives most cross-city price variation."
 last_reviewed: 2026-07-03
-supports_outcomes: [public-investment-capitalizes-into-land]
+supports_outcomes: [public-investment-capitalizes-into-land, rising-land-costs-drive-poverty]
 ---
 
 ## Summary

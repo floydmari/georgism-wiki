@@ -9,7 +9,7 @@ source_url: https://www.oecd.org/en/publications/taxation-and-economic-growth_24
 stub: false
 excerpt: "The OECD's famous 'tax and growth' ranking: recurrent taxes on immovable property are least harmful to growth, then consumption, personal income, and corporate taxes most harmful — the most-cited institutional case for shifting tax toward property."
 last_reviewed: 2026-07-10
-supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss]
+supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, taxing-land-raises-productivity]
 ---
 
 ## Summary

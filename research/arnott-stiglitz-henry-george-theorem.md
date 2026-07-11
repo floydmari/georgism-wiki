@@ -8,7 +8,7 @@ source_url: https://cooperative-individualism.org/arnott-richard-and-joseph-stig
 tier: core
 stub: false
 excerpt: "The canonical formalization of the Henry George Theorem: in an optimally sized city, aggregate land rent exactly equals the optimal spending on public goods."
-supports_outcomes: [public-investment-capitalizes-into-land, public-goods-fundable-from-land-rent]
+supports_outcomes: [public-investment-capitalizes-into-land, public-goods-fundable-from-land-rent, taxing-land-raises-productivity]
 ---
 
 ## Summary

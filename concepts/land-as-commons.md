@@ -91,6 +91,8 @@ See: [From Wasteland to Promised Land (Andelson & Dawsey)](/wiki/from-wasteland-
 
 ## See Also
 
+- [Land justice and Indigenous reconciliation](/wiki/land-justice-and-indigenous-reconciliation/) — where the commons framing meets its strongest Indigenous critique
+
 - [Jubilee](/wiki/jubilee/) — the biblical precedent for land as common and inalienable
 - [George — Moses (1878)](/wiki/moses/) — George reads the Mosaic land laws as an early embodiment of land-as-common-property
 - [George — Thy Kingdom Come (1889)](/wiki/thy-kingdom-come/) — the sermon casting the earth as the All-Father's common gift to all His children

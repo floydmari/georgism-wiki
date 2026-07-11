@@ -49,6 +49,8 @@ In 2007, Denmark redrew all municipal boundaries, causing a semi-random shufflin
 
 ## See Also
 
+- [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/) — the phenomenon this tax targets, measured
+
 - [Land Speculation](/wiki/land-speculation/)
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land Monopoly](/wiki/land-monopoly/) · [Estonia](/wiki/estonia/) · [2008 Financial Crisis](/wiki/2008-financial-crisis/)

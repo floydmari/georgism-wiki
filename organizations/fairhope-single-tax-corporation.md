@@ -41,6 +41,8 @@ For the broader Georgist case, Fairhope stands alongside other long-running land
 
 ## See Also
 
+- [Land and the Black–white wealth gap](/wiki/land-and-the-black-white-wealth-gap/) — carries Fairhope’s whites-only history (the Nancy Lewis eviction, Gaston’s account) as an in-movement failure case this page does not yet cover
+
 - [The Single-Tax Colonies (Fairhope & Arden)](/wiki/single-tax-colonies/) — the broader founding episode
 - [Single Tax](/wiki/single-tax/) — the underlying idea the Corporation was founded to demonstrate
 - [Henry George](/wiki/henry-george/) — the thinker whose ideas inspired the colony

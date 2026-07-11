@@ -9,7 +9,7 @@ source_url: https://doi.org/10.17310/ntj.2010.1.03
 stub: false
 excerpt: "Parcel-level Texas study: replacing a uniform property tax with an LVT shifts burden off single-family homes and onto other property classes, and is only slightly more progressive within residential properties by value."
 last_reviewed: 2026-07-10
-supports_outcomes: [land-value-tax-can-be-progressive]
+supports_outcomes: [land-value-tax-can-be-progressive, lvt-improves-housing-affordability]
 ---
 
 ## Summary

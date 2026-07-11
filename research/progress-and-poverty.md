@@ -4,6 +4,7 @@ category: research
 tags: [progress-and-poverty, henry-george, georgism, land-value-tax, political-economy]
 stub: false
 year: 1879
+supports_outcomes: [rising-land-costs-drive-poverty]
 sources: [george-1879]
 source_url: https://www.henrygeorge.org/pcontents.htm
 excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepens amid material progress, and the single-tax remedy. One of the best-selling economics books of the 19th century and the founding text of the Georgist movement."
