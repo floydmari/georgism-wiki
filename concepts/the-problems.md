@@ -27,6 +27,8 @@ Grades come from each page's `evidence_strength` assessment: **Strong** (replica
 - **[High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)** — *Emerging.* Theory plus recent macro studies; a young literature, graded accordingly.
 - **[Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/)** — *Strong.* A large, consistent empirical literature: the public pays for the subway, the landowner pockets the value.
 
+- **[The young are increasingly locked out of land wealth](/wiki/young-locked-out-of-land-wealth/)** — *Strong for the cohort trend* (UK, US, and OECD data independently); the geoist reading of it as a land transfer is analytic, and the page says so.
+
 ### The unclaimed fund
 
 - **[Public goods can be funded from the land rent they create](/wiki/public-goods-fundable-from-land-rent/)** — *Strong in theory* (the Henry George Theorem is a formal result); empirically plausible.

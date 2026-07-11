@@ -65,6 +65,8 @@ Barnes's cautionary tale (Ch. 8) examines carbon capping as implemented through 
 
 ## See Also
 
+- [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — the distributional evidence for the same three studies, with counter-evidence, kept distinct from the workability claim here
+
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
 
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Resource Rents](/wiki/resource-rents/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)

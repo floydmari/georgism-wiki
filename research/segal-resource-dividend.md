@@ -9,7 +9,7 @@ source_url: https://doi.org/10.1016/j.worlddev.2010.08.013
 stub: false
 excerpt: "Segal estimates that if every developing country paid out its resource rents as an equal per-capita cash dividend, extreme ($1/day) poverty would fall by roughly 27-66%, depending on year and assumptions."
 last_reviewed: 2026-07-09
-supports_outcomes: [resource-rent-dividends-work]
+supports_outcomes: [resource-rent-dividends-work, rent-dividends-reduce-poverty]
 ---
 
 ## Summary

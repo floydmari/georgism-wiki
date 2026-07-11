@@ -35,6 +35,7 @@ Grades: **Strong** (replicated or real-world-proven), **Moderate** (solid but th
 - **[Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)** — *Strong* for the flagship case (Norway); conditional in general — the resource curse is real where institutions are weak.
 - **[Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)** — *Strong.* Decades of real-world operation (Alaska's Permanent Fund Dividend).
 - **[Higher property-tax rates raise welfare in developing countries](/wiki/property-tax-raises-welfare-developing/)** — *Moderate.* Rigorous but single-country causal evidence.
+- **[Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/)** — *Moderate.* Direct poverty evidence is descriptive or simulated; the causal work rules out an employment offset rather than measuring poverty, and one econometric study finds inequality worsened — the page keeps the three evidence classes distinct.
 
 ## Honest limits
 

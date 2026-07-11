@@ -38,6 +38,8 @@ Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-re
 
 ## See Also
 
+- [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — what the evidence actually shows on the poverty/inequality claim
+
 - [Barnes — Who Owns the Sky? (cap-and-dividend)](/wiki/barnes-sky-trust/)
 
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)

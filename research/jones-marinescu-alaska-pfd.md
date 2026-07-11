@@ -9,7 +9,7 @@ source_url: https://www.nber.org/papers/w24312
 stub: false
 excerpt: "Using a synthetic-control design, this AEJ:Economic Policy paper finds Alaska's universal cash dividend caused no reduction in aggregate employment, and a rise in part-time work consistent with local demand stimulus."
 last_reviewed: 2026-07-03
-supports_outcomes: [resource-rent-dividends-work]
+supports_outcomes: [resource-rent-dividends-work, rent-dividends-reduce-poverty]
 ---
 
 ## Summary
