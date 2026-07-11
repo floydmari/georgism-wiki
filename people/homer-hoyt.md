@@ -131,7 +131,9 @@ correct because the same hierarchy appears in both, the dissertation being the e
 
 1. Homer Hoyt (1933), *One Hundred Years of Land Values in Chicago and Its Environs, With a
    Reflection on the Effect of the Growth of Chicago on the Value of Real Estate*, University of
-   Chicago Press. [Internet Archive](https://archive.org/details/onehundredyearso00hoytrich) —
+   Chicago Press. [Internet Archive](https://archive.org/details/onehundredyearso00hoytrich);
+   [full text held in this repository](/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
+   (public domain — 1933 copyright not renewed; mechanically-cleaned OCR, EDITORIAL §3b) —
    used for Hoyt's authorship, the dissertation's scope, dates, and documentation of the
    recurring land-value cycle.
 2. "Homer Hoyt," Wikipedia, accessed 2026-07-04. [Wikipedia](https://en.wikipedia.org/wiki/Homer_Hoyt)

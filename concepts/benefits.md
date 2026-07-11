@@ -18,7 +18,7 @@ Grades: **Strong** (replicated or real-world-proven), **Moderate** (solid but th
 
 - **[Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/)** — *Moderate.* The least-harmful-tax half is well-supported; the direct raises-productivity half is model-based with contested magnitudes, and the page grades the two claims separately.
 - **[LVT can replace capital taxes without efficiency loss](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)** — *Strong.* Theory plus calibrated empirical models: taxing land forgoes the deadweight loss that other taxes impose.
-- **[Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)** — *Strong* on theory (near-unanimous for the land component); direct rental-market measurement is supportive but thinner, and the page says so.
+- **[Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)** — *Strong* on theory (near-unanimous that the land-component tax cannot be shifted onto tenants); direct rental-market measurement is supportive but thinner. The page carries a theory-side caveat (Feldstein) that touches full capitalization onto the owner, not rent pass-through — it does not vindicate the landlord's side.
 - **[A land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)** — *Strong.* Follows from the concentration of land ownership.
 - **[Rent-targeting corporate taxes reduce debt bias without penalizing marginal investment](/wiki/rent-targeting-taxes-reduce-debt-bias/)** — *Strong quasi-experimental* for the leverage effect; contested for multinationals' real investment.
 
