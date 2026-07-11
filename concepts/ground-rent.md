@@ -109,6 +109,8 @@ Daly argues that the costs of depletion — "depletion, pollution, disruption of
 
 ## See Also
 
+- [Agrarian Justice (Paine, 1797) — full text](/wiki/agrarian-justice/) — the ground-rent obligation argued 82 years before George
+
 - [Economic Rent](/wiki/economic-rent/) — the general category ground rent belongs to
 - [Law of Rent](/wiki/law-of-rent/) — Ricardo's account of how ground rent is determined
 - [Unearned Increment](/wiki/unearned-increment/) — the socially-created growth in ground rent
