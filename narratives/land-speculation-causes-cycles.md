@@ -54,7 +54,7 @@ rather than merely regulating the credit that finances it.
   interruption such as a global war."[5] In 2012 Foldvary extended the same 18-year
   logic to project a further downturn around **2026**[6] — a forecast whose target
   window has only just arrived as of this writing, so it cannot yet be assessed.
-  [VERIFY: outcome of the 2026 forecast, once the year has played out.]
+  [VERIFY — PENDING: not a citation gap. The 2026 forecast cannot be assessed until the year closes; revisit after year-end 2026. As of 2026-07-10 the window is still open.]
 - **[Akhil Patel](/wiki/akhil-patel/)** carries the tradition into contemporary market
   forecasting, integrating land, credit, and equity cycles in
   *The Secret Wealth Advantage* (2023) for an investor audience and popularising a
@@ -269,7 +269,7 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 - **The mid-2020s test in progress.** Foldvary's 2012 "Depression of 2026" projection
   and later popularisations by Patel and others put the next test of the cycle at the
   present moment; as of this writing the outcome is not yet determined.
-  [VERIFY: update this section once the 2026 cycle window has closed.]
+  [VERIFY — PENDING: not a citation gap. Revisit and update once the 2026 cycle window has closed; as of 2026-07-10 the outcome is not yet determinable.]
 
 ## How to Deploy It
 
