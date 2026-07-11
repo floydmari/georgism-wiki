@@ -46,7 +46,11 @@ Barnes's own proposal extends Paine's logic from land to all co-owned wealth, ma
 
 1. Thomas Paine, *Agrarian Justice* (1797) — used for the common-property claim,
    the ground-rent argument, and the grant/pension design (A-claims; quotes ≤50
-   words). [Full text (Constitution Society)](https://www.constitution.org/1-Activism/cmt/tpaine/agjustice.htm)
-   [VERIFY: stable canonical URL — the citizens-dividend narrative's earlier Paine
-   link also awaits confirmation; resolve both to the same edition.]
+   words). [Full text (Constitution Society)](https://www.constitution.org/tp/agjustice.htm) —
+   verified this pass: the page returns HTTP 200 and carries the complete 1797 text,
+   including the verbatim phrases "the common property of the human race," the
+   "ground-rent" a landowner "owes to the community," and the "national fund" paying
+   "fifteen pounds sterling" at "the age of twenty-one years" and "ten pounds per annum"
+   from "the age of fifty years." The former `/1-Activism/cmt/tpaine/agjustice.htm`
+   path now 404s; `/tp/agjustice.htm` is the stable canonical location on the host.
 2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the revival of Paine's framework as the foundation of the citizen's dividend tradition (A/D-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)

@@ -25,7 +25,7 @@ The thesis is controversial among academic economists but is supported by consid
 - **After the Crash (2009)** — argued that the 2008 financial crisis was substantially a land price collapse, as predicted by George's analysis of land speculation and credit cycles
 - Extensive work on the theory of capital and land, distinguishing them rigorously in ways mainstream economics had collapsed
 - Research on water rights and natural resource taxation
-- The *ATCOR* theorem — All Taxes Come Out of Rent — developing the theoretical case that land taxation is the only non-distortionary tax
+- The *ATCOR* theorem — All Taxes Come Out of Rent — developing the theoretical case that land taxation is distinctively non-distortionary
 
 ## See Also
 

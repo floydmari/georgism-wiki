@@ -25,4 +25,4 @@ Using a calibrated dynamic model, the authors show that **raising the land tax f
 
 ## Sources
 
-1. Goodhart, Hudson, Kumhof & Tideman (2021), "Post-Corona Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto Land," *CEPR Discussion Paper 16652*. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954888)
+1. Goodhart, Hudson, Kumhof & Tideman (2021), "Post-Corona Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto Land," *CEPR Discussion Paper 16652*. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954888) — used for the proposal that shifting taxation onto land can act as a balanced-budget stimulus, and for its modelling of the growth and distributional effects.

@@ -28,7 +28,7 @@ The fund would operate at arm's-length under a fiduciary board, with a **coopera
 
 ## Precedents and Foundations
 
-The proposal cites the [Alaska Permanent Fund](/wiki/alaska-permanent-fund/), Norway's Government Pension Fund, and Canadian funds (Alberta Heritage, Quebec Generations, NL Future Fund), and the **Hartwick Rule** (invest resource rents rather than consume them). It builds intellectually on [resource-rent dividends](/wiki/resource-rent-dividends-work/), Peter Barnes's cap-and-dividend, Guy Standing's basic income, and [Joseph Stiglitz's](/wiki/joseph-stiglitz/) argument that broad ownership generates *"buy-in to the economic system."* It updates [Milton Friedman's](/wiki/milton-friedman/) "helicopter money" and James Meade's property-owning democracy for an age of automation.
+The proposal cites the [Alaska Permanent Fund](/wiki/alaska-permanent-fund/), Norway's Government Pension Fund, and Canadian funds (Alberta Heritage, Quebec Generations, NL Future Fund), and the **Hartwick Rule** (invest resource rents rather than consume them). It builds intellectually on [resource-rent dividends](/wiki/resource-rent-dividends-work/), Peter Barnes's cap-and-dividend, [Guy Standing](/wiki/guy-standing/)'s basic income, and [Joseph Stiglitz's](/wiki/joseph-stiglitz/) argument that broad ownership generates *"buy-in to the economic system."* It updates [Milton Friedman's](/wiki/milton-friedman/) "helicopter money" and James Meade's property-owning democracy for an age of automation.
 
 ## Significance
 

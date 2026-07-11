@@ -31,5 +31,5 @@ LVT and the property tax share a base component (land) but differ fundamentally 
 
 ## Sources
 
-1. [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute.
-2. [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/)
+1. [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute — used for the distinction between a conventional property tax (which taxes buildings and so discourages construction) and a land value tax (which does not).
+2. [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) — used for the Pittsburgh evidence that shifting the tax off buildings and onto land changed construction behaviour, demonstrating the two taxes are not equivalent.

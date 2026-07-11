@@ -8,7 +8,7 @@ tier: Important
 source_url: https://www.hup.harvard.edu/books/9780674260320
 stub: false
 excerpt: "NYU finance professor's data-driven case that US markets became less competitive after 2000 — concentration, lobbying, and regulatory barriers raised prices and profits, a modern non-land account of rising rents."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-10
 supports_outcomes: [corporate-profits-increasingly-rents]
 ---
 
@@ -40,10 +40,12 @@ independent strands of evidence for this:
   and Herfindahl-Hirschman Index estimates) across a wide range of US industries, Philippon
   reports that most sectors show rising concentration since the late 1990s/early 2000s, with
   fewer, larger incumbents commanding a growing share of sales, alongside declining rates of new
-  firm entry [VERIFY: precise concentration figures and industry counts are drawn from secondary
-  summaries and reviews of the book (Cato Institute, NBER Reporter) rather than a direct read of
-  the primary chapters/data appendix; a future editor with access to the book's tables should
-  confirm exact figures before quoting specific percentages].
+  firm entry. This is the book's first stated argument in its own words — "Competition has
+  declined in most sectors of the US economy" (Introduction) — and Philippon opens his own
+  summary of the underlying research programme the same way: "Business concentration and profit
+  margins have increased across most industries in the United States over the past 20 years"
+  (NBER Reporter, 2019). This page deliberately quotes no specific concentration percentages,
+  since the book's chapter-level tables have not been directly consulted (sources 1, 5, 7).
 - **The "failure of free entry."** Philippon documents that the historical positive correlation
   between an industry's profitability (proxied by Tobin's q) and subsequent new-firm entry — the
   mechanism by which competitive markets are supposed to compete away excess profit — weakened
@@ -52,13 +54,21 @@ independent strands of evidence for this:
 - **Profits and reinvestment.** He reports that US corporate after-tax profits rose from an
   average of roughly 7% of value added (1970–2002) to roughly 10% (post-2002), while the share of
   profit reinvested in the business fell from roughly 30 cents to roughly 20 cents per profit
-  dollar over a comparable period [VERIFY: figures reported via NBER Reporter's summary of the
-  book's research programme rather than independently confirmed against the book's own tables].
+  dollar over a comparable period — in Philippon's own words: "The ratio of after-tax corporate
+  profits to value added has risen from an average of 7 percent from 1970 through 2002 to an
+  average of 10 percent in the period since 2002. Firms used to reinvest about 30 cents of each
+  dollar of profit. Now they only invest 20 cents on the dollar" (NBER Reporter, 2019, an
+  article authored by Philippon himself; source 5).
 - **Prices.** Philippon presents comparative US-Europe price evidence — most prominently that
   American consumers pay roughly twice as much as consumers in France or Germany for comparable
-  fixed broadband and wireless service — and that average US prices across a basket of goods rose
-  around 15% more than European prices between 2000 and 2017, changes he attributes to weaker US
-  competitive discipline rather than to cost differences.
+  fixed broadband and wireless service. The book's introduction states this directly: "In most
+  advanced economies, consumers pay around $35 per month for broadband internet connections. In
+  the US, they pay almost double," with a 2017 Cable.co.uk comparison showing $66.17 per month in
+  the US against $35.71 in Germany and $38.10 in France (Table I.1), and "US consumers today pay
+  twice as much for cell phone and broadband internet services as citizens in nearly all other
+  developed countries" (NBER Reporter, 2019). He also reports that average US prices across a
+  basket of goods rose around 15% more than European prices between 2000 and 2017, changes he
+  attributes to weaker US competitive discipline rather than to cost differences.
 - **Industry case studies.** Detailed chapters trace this pattern through specific sectors: US
   airline consolidation (the Delta–Northwest, United–Continental, Southwest–AirTran, and
   American–US Airways mergers of 2008–2014) raised concentration and fares even as European
@@ -218,8 +228,17 @@ book's headline claims as settled.
 ## Sources
 
 1. Thomas Philippon (2019), *The Great Reversal: How America Gave Up on Free Markets*, Belknap
-   Press of Harvard University Press. [Harvard University Press](https://www.hup.harvard.edu/books/9780674260320) —
-   used for the book's overall thesis, structure, and publication details.
+   Press of Harvard University Press. [Harvard University Press](https://www.hup.harvard.edu/books/9780674260320) ·
+   [publisher's sample PDF (front matter + Introduction), archived](https://web.archive.org/web/20240808054258/https://www.production.hup.harvard.edu/file/feeds/PDF/9780674237544_sample.pdf) —
+   used for the book's overall thesis, structure, and publication details. The front matter and
+   full Introduction were directly fetched and read this session via HUP's official sample PDF
+   (Wayback copy; the live HUP host blocks automated requests): they confirm the table of
+   contents and four-part structure (Chapter 5 is indeed titled "The Failure of Free Entry"),
+   the three main arguments as stated in the Introduction ("One: Competition has declined in
+   most sectors of the US economy... Two: The lack of competition is explained largely by policy
+   choices, influenced by lobbying and campaign finance contributions... Three: The consequences
+   of a lack of competition are lower wages, lower investment, lower productivity, lower growth,
+   and more inequality"), and the broadband price comparison (Table I.1).
 2. Jan Eeckhout (2021), "Book Review: The Great Reversal, by Thomas Philippon," *Journal of
    Economic Literature* 59(4), 1340–1360. [AEA](https://www.aeaweb.org/articles?id=10.1257/jel.20211628) ·
    [author-hosted PDF (CREI)](https://crei.cat/wp-content/uploads/2021/02/Commentary_03-1.pdf) —
@@ -237,23 +256,31 @@ book's headline claims as settled.
    comparative US-Europe price figures (broadband, average prices), the lobbying-expenditure
    example, the RegData methodology description, and the classical-liberal critique of Philippon's
    proposed remedy (directly fetched and read this session).
-5. NBER Reporter (2019), "The Economics and Politics of Market Concentration," summary of Thomas
-   Philippon's research program. [NBER](https://www.nber.org/reporter/2019number4/economics-and-politics-market-concentration) —
+5. Thomas Philippon (2019), "The Economics and Politics of Market Concentration," *NBER
+   Reporter* 2019:4. [NBER](https://www.nber.org/reporter/2019number4/economics-and-politics-market-concentration) —
    used for the profit-share and reinvestment-rate figures, the "failure of free entry" mechanism,
-   and the airline-merger and telecom price-comparison case studies (directly fetched and read this
-   session) [VERIFY: these figures should be cross-checked against the book's own tables/appendix
-   where a future editor has direct access to the text, as this session relied on NBER's secondary
-   summary of Philippon's research rather than the book itself].
+   and the airline-merger and telecom price-comparison case studies. Directly fetched and read
+   this pass; note that this article is **authored by Philippon himself** (a first-person summary
+   of his research programme contemporaneous with the book), not a third-party NBER gloss, so the
+   7%/10% profit-share, 30-cents/20-cents reinvestment, twice-as-expensive telecom, and
+   2008–2014 airline-merger claims quoted on this page are confirmed verbatim in the author's own
+   words.
 6. Mises Institute, review of *The Great Reversal* in the *Quarterly Journal of Austrian
    Economics*. [Mises Institute](https://mises.org/quarterly-journal-austrian-economics/great-reversal-how-america-gave-free-markets) —
    used to corroborate the existence of an Austrian-school critical reception distinct from
    Rouanet's (not independently read in full this session; cited for corroboration only).
+7. Germán Gutiérrez & Thomas Philippon (2019), "The Failure of Free Entry," NBER Working Paper
+   26001. [NBER](https://www.nber.org/papers/w26001) — the peer-circulated paper underlying
+   Chapter 5 of the book; abstract directly fetched and read this pass: "The elasticity of entry
+   with respect to Tobin's Q was positive and significant until the late 1990s but declined to
+   zero afterwards," with the authors finding that neither returns to scale nor technological
+   costs explain the decline. Used to confirm the "failure of free entry" claim from the primary
+   research rather than reviews.
 
-[CITATION NEEDED: a directly fetched/verified copy of the book's own text (chapters 4–5 on
-concentration and free entry, and the political-economy chapters on lobbying) — this session's web
-access could not retrieve the primary book text or its data appendix directly; the findings above
-are drawn from the book's publisher description together with two independently-read academic
-reviews (Eeckhout 2021, Lemieux 2020) that agree on the book's substance, plus a secondary NBER
-summary of Philippon's underlying research program. A future editor with direct access to the book
-should confirm exact figures (concentration ratios, HHI levels, exact price-gap percentages,
-profit-share numbers) and add page-level citations.]
+*Sourcing note:* every specific figure quoted on this page is now confirmed against
+Philippon-authored primary texts — the book's own Introduction (source 1), Philippon's
+first-person NBER Reporter summary (source 5), and the Gutiérrez-Philippon working paper
+(source 7). The book's chapter-level tables and data appendix (chapters 4–5 on concentration)
+still have not been directly consulted, which is why this page quotes no chapter-level
+concentration ratios or HHI figures; a future editor with the print text could add page-level
+citations.

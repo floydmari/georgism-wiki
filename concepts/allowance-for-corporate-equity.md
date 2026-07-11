@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, ace, corporate-tax, rent-targeting-taxes, debt-bias, geoism, tech-rents]
 stub: false
 excerpt: "A corporate tax design that deducts a notional 'normal' return on equity, leaving only above-normal returns — economic rent by construction — in the tax base. Tried in Belgium, Italy, Croatia and elsewhere; recommended by the Mirrlees Review; every full European version has since been repealed."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-10
 ---
 
 ## Definition
@@ -85,12 +85,16 @@ an honestly mixed one:
   Belgium (2006–23, after its base was narrowed in 2018 and its bond-linked
   notional rate fell toward zero), Italy (2011–2024, abolished, reinstated,
   super-charged, then repealed again).[5][6][10] Belgium's experience adds the
-  fiscal caution: by 2014 the deduction was worth a large share of corporate tax
-  revenue, with a large share reportedly claimed by multinational financing
-  vehicles attracted by the regime itself [VERIFY: the specific ~40%-to-MNC-
-  vehicles figure attributed to IMF Country Report 17/70 remains single-sourced;
-  IMF's server blocks direct PDF access (Akamai 403), so this is routed to the
-  Hermes work order rather than resolved here]. A rent-only base is visibly expensive up front, and
+  fiscal caution: in 2014 the notional interest deduction was worth about €4.5
+  billion, equivalent to 35% of that year's actual corporate tax revenue — and
+  the IMF's 2017 Belgium selected-issues report finds that "around 40 percent of
+  all NID deductions in Belgium can be attributed to" special-purpose vehicles
+  (SPVs) that multinationals use purely for international tax planning: an SPV
+  funded with equity from a foreign parent lends the proceeds on to a subsidiary
+  in a third country, letting the group escape tax in all three jurisdictions,
+  with "the operations of these SPVs almost entirely disconnected from the
+  Belgian banking system" (citing Belgium's High Council of Finance, 2016).[13]
+  A rent-only base is visibly expensive up front, and
   its benefits (undistorted marginal investment) are invisible in any budget
   line — a transitional-gains-trap-adjacent fragility that Geoist instruments
   in every domain share.
@@ -122,9 +126,11 @@ plainly.[12]
 
 ## Sources
 
-*(All sources below were corroborated via multiple independent search snippets this
-session; the egress proxy blocked direct fetches, so page-level verification is
-routed to the Hermes work order.)*
+*(Most sources below were corroborated via multiple independent search snippets;
+the egress proxy blocked direct fetches to most publishers, so page-level
+verification for those is routed to the Hermes work order. Source 13 was
+fetched and verified verbatim this session via a Wayback Machine snapshot,
+since imf.org itself returns 403 to direct requests.)*
 
 1. IFS Capital Taxes Group (1991), *Equity for Companies: A Corporation Tax for
    the 1990s*, IFS Commentary 26 (with Devereux & Freeman 1991, "A General
@@ -173,3 +179,9 @@ routed to the Hermes work order.)*
     Corporate Taxes Reduce Wages? Micro Evidence from Germany," *American
     Economic Review* 108(2) — used for the rent-sharing incidence caveat.
     [AEA](https://www.aeaweb.org/articles?id=10.1257%2Faer.20130570)
+13. IMF (2017), "Belgium: Selected Issues," IMF Country Report No. 17/70, §"The
+    Notional Interest Deduction," ¶¶19–21 — used for the ~40%-of-NID-deductions-
+    to-SPVs figure and the 2014 revenue-cost estimate (verified verbatim this
+    session via Wayback Machine, imf.org blocks direct access).
+    [IMF (blocked; use Wayback)](https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf) ·
+    [Wayback snapshot](http://web.archive.org/web/20260124074910/https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf)

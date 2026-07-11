@@ -6,7 +6,7 @@ stub: false
 born: 1854
 died: 1943
 excerpt: "American economist who helped establish land economics as an academic field; in Gaffney's thesis, an institutional figure whose framing of land issues served to marginalize Henry George's single-tax program."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-10
 ---
 
 ## Overview
@@ -29,7 +29,9 @@ Independent of Gaffney's thesis, Ely's mainstream significance lies in his contr
 
 Gaffney's characterization of Ely as an institutional antagonist of George is an interpretive thesis, not an established consensus. The [Gaffney stratagem](/wiki/gaffney-neoclassical-stratagem/) page itself notes that "the thesis is controversial and contested by historians of economic thought, but the underlying archival record on the funding of early economics, and the disappearance of land from the standard factors of production, is well documented and widely acknowledged even by critics."[2] The specific claim that Ely's work was deliberately shaped to defeat George's program — as distinct from reflecting genuine analytical disagreement or independent intellectual development — is Gaffney's argument and should be read as such.[1][2]
 
-The relationship between Ely and George's ideas is a matter of historical interpretation. Ely's establishment of land economics as a field could be read, from a Georgist perspective, as co-opting the land question into a framework that neutralized its redistributive implications. From a mainstream perspective, it could equally be read as a legitimate scholarly contribution that systematized the study of land markets and property. The supplied corpus does not contain sources representing the latter view in detail.[CITATION NEEDED: a mainstream or revisionist assessment of Ely's relationship to Georgism, or a source arguing that Ely's land economics was analytically independent of the Georgist debate]
+The relationship between Ely and George's ideas is a matter of historical interpretation. Ely's establishment of land economics as a field could be read, from a Georgist perspective, as co-opting the land question into a framework that neutralized its redistributive implications. From a mainstream perspective, it could equally be read as a legitimate scholarly contribution that systematized the study of land markets and property.
+
+A recent mainstream data point supports the narrower reading of Ely's theoretical role. Antoine Missemer and Antonin Pottier's peer-reviewed history of how land disappeared from neoclassical theory ([*Land Economics*, 2025](/wiki/missemer-pottier-land-labor-capital/) — published, as it happens, in the journal descended from Ely's own institute) assigns Ely a marginal part in the land-into-capital merger that Gaffney treats as the pivotal move: "Richard T. Ely, the founder of land economics together with Mary L. Shine and George S. Wehrwein … had some thoughts on the links between land, labor and capital, speaking more of nature than of land in his classification of production factors. … Although his contributions were important for a whole generation of American students and scholars, Ely was not a neoclassical economist. … That is why he does not play a central role in our story" (Missemer & Pottier 2025, n. 3, citing Furner 1979 and Banzhaf 2006, 2023).[6] On this assessment, Ely stood outside the neoclassical *theoretical* merger of land into capital — which leaves Gaffney's claims about Ely's *institutional* role (funding, the Ralston–Nolan campaign) as the part of the thesis still to be weighed on its own archival evidence.
 
 ## See Also
 
@@ -49,7 +51,4 @@ The relationship between Ely and George's ideas is a matter of historical interp
 3. Wiki page: [John Bates Clark](/wiki/john-bates-clark/) — used for the characterization of Ely as "another institutional figure discussed by Gaffney" and for the distinction between Clark's analytical role and Ely's institutional role in Gaffney's account.
 4. "Richard T. Ely," [Wikipedia](https://en.wikipedia.org/wiki/Richard_T._Ely) · [Encyclopedia.com](https://www.encyclopedia.com/people/social-sciences-and-law/economics-biographies/richard-theodore-ely) — used for the biographical basics: dates, AEA founding and offices, the 1920 institute and journal, textbook (A-claims; corroborated across independent listings, 2026-07-06).
 5. Henry George, "A Response to Richard Ely on the Question of Compensation to Owners of Land" (1887). [cooperative-individualism.org](https://www.cooperative-individualism.org/george-henry_a-response-to-richard-ely-on-the-question-of-compensation-to-land-owners-1887.htm) — used for the direct George–Ely exchange (A-claim).
-
-
-
-[CITATION NEEDED: a mainstream or revisionist assessment of Ely's relationship to Georgism, or a source arguing that Ely's land economics was analytically independent of the Georgist debate — to provide NPOV balance against Gaffney's interpretive thesis.]
+6. Antoine Missemer & Antonin Pottier (2025), "Revisiting Land, Labor, and Capital in Neoclassical Economics," *Land Economics* 101(4): 566–584. [DOI](https://doi.org/10.3368/le.101.4.021225-0009) · [open-access PDF](https://le.uwpress.org/content/early/2025/05/23/le.101.4.021225-0009.full.pdf) — used for the mainstream historian-of-economics assessment (n. 3) that Ely "was not a neoclassical economist" and "does not play a central role" in the story of land's disappearance from neoclassical theory; quotation verified verbatim against the open-access PDF (CC BY-NC-ND). Full treatment on the wiki's [research page](/wiki/missemer-pottier-land-labor-capital/).

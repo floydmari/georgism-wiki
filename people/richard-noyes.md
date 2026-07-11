@@ -20,7 +20,7 @@ Richard Noyes is the editor of *Now the Synthesis: Capitalism, Socialism and the
 
 - **Environmentalism and the single tax.** David Richards's chapter argues that the Green movement's environmental goals are best served by taxing land rent rather than production, since taxing production discourages the creation of wealth while taxing rent discourages the hoarding of nature. (D-claim; interpretive)
 
-- **Post-socialism and the single tax.** James Busey's chapter extends the argument to post-socialist Eastern Europe, arguing that the single tax offers a path for transitioning economies that avoids both the failures of state socialism and the rent-seeking of unregulated capitalism. (D-claim; interpretive)
+- **Post-socialism and the single tax.** Fred Harrison's chapter ("Post-socialism and the Single Tax: a holistic philosophy", Ch. 4, pp. 77–111) extends the argument to post-socialist Eastern Europe, arguing that the single tax offers a path for transitioning economies that avoids both the failures of state socialism and the rent-seeking of unregulated capitalism. (D-claim; interpretive)
 
 ## Key Works
 
@@ -38,4 +38,4 @@ Richard Noyes is the editor of *Now the Synthesis: Capitalism, Socialism and the
 
 1. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (London: Centre for Incentive Taxation Ltd / Shepheard-Walwyn; New York: Holmes & Meier, 1991). — used for the synthesis thesis and the volume's structure (A/D-claims). [book page](/wiki/now-the-synthesis/)
 2. Nicolaus Tideman, "Constitutional Property Rights and Land Value Taxation" (Ch. 2 of *Now the Synthesis*) — used for the constitutional argument (C-claim).
-3. Fred Harrison, "Planning Gain: The Implicit Land Value Tax" (Ch. 3 of *Now the Synthesis*) — used for the planning gain analysis (D-claim).
+3. Francis M. Smith, "'Planning Gain': the making of a tax on land values" (Ch. 3 of *Now the Synthesis*, pp. 60–74) — used for the planning gain analysis (D-claim; chapter author corrected against the book's contents page 2026-07-10 — an earlier draft misattributed it to Fred Harrison, whose chapter is Ch. 4, "Post-socialism and the Single Tax").

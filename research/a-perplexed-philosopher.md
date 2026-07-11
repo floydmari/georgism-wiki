@@ -25,6 +25,7 @@ The work is foundational for the **philosophical** wing of Georgism, supplying t
 ## See Also
 
 - [Herbert Spencer](/wiki/herbert-spencer/)
+- [The Right to the Use of the Earth (Spencer, 1851)](/wiki/social-statics-right-to-use-earth/) — the *Social Statics* chapter this book defends against Spencer's own reversal
 
 - [Henry George](/wiki/henry-george/) · [Geolibertarianism](/wiki/geolibertarianism/) · [Georgism](/wiki/georgism/)
 

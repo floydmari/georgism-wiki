@@ -14,7 +14,7 @@ supports_outcomes: []
 
 ## Summary
 
-*Land: A New Paradigm for a Thriving World* is a book by **Martin Adams**, published by North Atlantic Books in 2015. The book is released under a Creative Commons license and is available in full online. Adams is co-editor of progress.org. The book was written over nearly four years and is intended as an accessible introduction to Georgist economics for a general audience.
+*Land: A New Paradigm for a Thriving World* is a book by **[Martin Adams](/wiki/martin-adams/)**, published by North Atlantic Books in 2015. The book is released under a Creative Commons license and is available in full online. Adams is co-editor of progress.org. The book was written over nearly four years and is intended as an accessible introduction to Georgist economics for a general audience.
 
 Adams's thesis is that the privatization of land rent — the value created by community and nature rather than individual effort — is the root cause of wealth inequality, business recessions, ecological destruction, and social dysfunction. The book argues that distinguishing land from capital (a distinction classical economists made but neoclassical economics largely abandoned) is essential for understanding how monopolies on nature distort the free market. Adams proposes collecting land rent for public revenue as an alternative to taxation, drawing on the work of Henry George, Fred Harrison, Mason Gaffney, and Fred Foldvary (Adams 2015, Introduction).
 

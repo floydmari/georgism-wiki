@@ -17,8 +17,8 @@ The Foundation conducts education and advocacy for [land value taxation](/wiki/l
 
 ## See Also
 
-- [1909 People's Budget](/wiki/1909-peoples-budget/) · [International Union for Land Value Taxation](/wiki/international-union-lvt/) · [Labour Land Campaign](/wiki/labour-land-campaign/)
+- [1909 People's Budget](/wiki/1909-peoples-budget/) · [International Union for Land Value Taxation](/wiki/international-union-lvt/) · [Labour Land Campaign](/wiki/labour-land-campaign/) · [Henry George Foundation of Canada](/wiki/henry-george-foundation-canada/)
 
 ## Sources
 
-1. Henry George Foundation (UK) — official site. [henrygeorgefoundation.org](https://henrygeorgefoundation.org/)
+1. Henry George Foundation (UK) — official site. [henrygeorgefoundation.org](https://henrygeorgefoundation.org/) — used for the Foundation's standing as the principal British Georgist body, its education and advocacy work, and its links to the UK and international movement.

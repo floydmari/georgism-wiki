@@ -5,7 +5,7 @@ tags: [people, era-seligman, columbia, tax-incidence, single-tax-critics]
 stub: false
 born: 1861
 died: 1939
-excerpt: "Columbia public-finance economist (1861–1939), author of The Shifting and Incidence of Taxation — the founding systematic study of who bears a tax — and the single tax's most formidable academic critic, debating the question publicly from the 1890 Saratoga session onward."
+excerpt: "Columbia public-finance economist (1861–1939), author of The Shifting and Incidence of Taxation — the founding systematic study of who bears a tax — and the single tax's most formidable academic critic, debating the question publicly from the [1890 Saratoga session](/wiki/saratoga-single-tax-debate-1890/) onward."
 last_reviewed: 2026-07-06
 ---
 

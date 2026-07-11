@@ -33,5 +33,8 @@ written for popular Georgist outlets on exporting the Alaska model.[2]
    the volume's subject (A-claims).
 2. Karl Widerquist, "Exporting the Alaska Model," progress.org.
    [Article](https://www.progress.org/articles/exporting-the-alaska-model) — used
-   for his advocacy writing (A-claim). [VERIFY: fetch blocked this session —
-   surfaced via site survey; confirm on direct read.]
+   for his advocacy writing (A-claim). Confirmed on direct read (2026-07-07):
+   bylined "Karl Widerquist, Ph.D., Editor," the piece is an early (2012) preview of
+   the co-edited volume *Exporting the Alaska Model: How the Permanent Fund Dividend
+   Can Be Adapted as a Reform Model for the World* (with Michael Howard, Palgrave
+   Macmillan, 2012), arguing the Alaska dividend model can be adapted elsewhere.

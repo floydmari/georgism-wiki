@@ -29,12 +29,16 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 
 ## See Also
 
+- [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — tract-level hedonic land/structure separation at million-transaction scale
+
+- [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
+
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
 - [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/)
 - [Narrative: The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/) — where under-assessment (not evasion) is the real leak
 
 ## Sources
 
-1. Lars Doucet (2022), "Does Georgism Work? Part 3: Can Unimproved Land Value Be Accurately Assessed?", *Astral Codex Ten* — [wiki summary](/wiki/doucet-does-georgism-work/) · [original](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved)
-2. Kumar et al. (2020), "Land and building separation based on Shapley values," *Humanities and Social Sciences Communications* (Nature). [Article](https://www.nature.com/articles/s41599-020-0444-1)
-3. Lincoln Institute of Land Policy — assessment research. [wiki summary](/wiki/lincoln-institute/)
+1. Lars Doucet (2022), "Does Georgism Work? Part 3: Can Unimproved Land Value Be Accurately Assessed?", *Astral Codex Ten* — [wiki summary](/wiki/doucet-does-georgism-work/) · [original](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved) — used for the evidence that mass-appraisal methods do separate land from improvements accurately in practice.
+2. Kumar et al. (2020), "Land and building separation based on Shapley values," *Humanities and Social Sciences Communications* (Nature). [Article](https://www.nature.com/articles/s41599-020-0444-1) — used for a formal method of decomposing property value into land and building components.
+3. Lincoln Institute of Land Policy — assessment research. [wiki summary](/wiki/lincoln-institute/) — used for the body of assessment research showing land-value estimation is a solved practical problem in many jurisdictions.

@@ -3,6 +3,7 @@ title: "Land Value Tax"
 category: concepts
 tags: [lvt, taxation, georgism, fiscal-policy, land]
 stub: false
+excerpt: "A levy on the unimproved value of land, excluding buildings and improvements — held by economists across the ideological spectrum to be the least distortionary of all taxes, because land's supply is fixed and cannot shrink in response to the tax."
 sources: [george-1879, mirrlees-2011, tideman-1999]
 ---
 
@@ -77,7 +78,7 @@ Phillip Bryson's *The Economics of Henry George* (2011) argues that George's eco
 
 The most significant attempt to implement land value taxation in UK law was the 1909 People's Budget, introduced by Chancellor [David Lloyd George](/wiki/david-lloyd-george/). Bruce K. Murray's *The People's Budget 1909/10* (1980) documents that the Budget was designed to raise revenue for social reform through progressive direct taxation, including land-value duties that sought to capture "property values created by the community" — a Georgist principle applied through incremental taxation rather than full rent collection (Murray 1980, pp. 17–24). Winston Churchill framed the divide as "the difference between the taxation of wages and the taxation of wealth" (Murray 1980, p. 17). See [People's Budget 1909/10](/wiki/peoples-budget-1909/). (A-claim; factual)
 
-The land-value duties included a 20% increment value duty on realized land gains, an annual duty on undeveloped land, and a mineral rights duty (Murray 1980, pp. 17–24). The duties proved administratively difficult and yielded little revenue before being repealed in 1920 [VERIFY: implementation details and repeal circumstances — Murray Ch. XI page cites needed; see the book page's own marker]. The fuller story of the Budget's passage and aftermath is on the [1909 People's Budget event page](/wiki/1909-peoples-budget/). (B-claim; empirical, attributed)
+The land-value duties included a 20% increment value duty on realized land gains, an annual duty on undeveloped land, and a mineral rights duty (Murray 1980, pp. 17–24). The duties proved administratively difficult and yielded little revenue. Announcing their repeal in the 1920 Budget, Chancellor Austen Chamberlain told the Commons that "these duties in their present form are unworkable. They have produced hardly any revenue, and … they are, with the exception of the Mineral Rights Duty, either wholly or partially in abeyance," noting that "no Undeveloped Land Duty has been assessed since 1914" ([Hansard, HC Deb 19 April 1920, vol. 128, cc. 83–5](https://api.parliament.uk/historic-hansard/commons/1920/apr/19/land-values-duties)). The [Finance Act 1920, s. 57](https://www.legislation.gov.uk/ukpga/Geo5/10-11/18/section/57/enacted) duly repealed the increment value, reversion, and undeveloped land duties ("but does not include mineral rights duty," which was retained), ended the 1910 statutory land valuation, and provided for refunding duty already paid. The fuller story of the Budget's passage and aftermath is on the [1909 People's Budget event page](/wiki/1909-peoples-budget/). (B-claim; empirical, attributed)
 
 ### Burgess: LVT as Alternative to Taxation
 
@@ -87,7 +88,7 @@ Burgess's argument strengthens the LVT case by framing it not merely as an effic
 
 ### Noyes: Planning Gain and the Ecological Dimension
 
-The edited volume [*Now the Synthesis*](/wiki/now-the-synthesis/) (1991) extends the LVT case in two directions relevant here. Fred Harrison's chapter on UK "planning gain" documents that when farmland is converted to housing, land value increases "can be a thousandfold" (Harrison 1991, p. 63) — evidence that planning permission generates land value gains that are community-created and could be captured via LVT. Harrison argues this is "a partial demonstration of the principle that Henry George established, i.e., that the value of land is created by the community and should justly be returned to the community" (Harrison 1991, p. 61). (B-claim; empirical)
+The edited volume [*Now the Synthesis*](/wiki/now-the-synthesis/) (1991) extends the LVT case in two directions relevant here. Francis M. Smith's chapter on UK "planning gain" documents that when farmland is converted to housing, land value increases "can be a thousandfold" (Smith, in Noyes ed. 1991, p. 61; an earlier draft of this page misattributed the chapter to Fred Harrison — corrected against the book's contents page) — evidence that planning permission generates land value gains that are community-created and could be captured via LVT. Harrison argues this is "a partial demonstration of the principle that Henry George established, i.e., that the value of land is created by the community and should justly be returned to the community" (Harrison 1991, p. 61). (B-claim; empirical)
 
 David Richards's chapter connects LVT to the ecological dimension: "every person in every generation has an equal right to the use of land was Henry George's basic moral axiom. It is one with which few people would disagree, and it is certainly common ground in the Green movement" (Richards 1991, p. 159). Backhaus and Krabbe argue that incentive taxation (taxing land and resource rents rather than labor and capital) is environmentally beneficial, though "complex — yet feasible" (Backhaus & Krabbe 1991, p. 10). (C-claim; theoretical)
 
@@ -97,6 +98,7 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 
 ## See Also
 
+- [Physiocrats](/wiki/physiocrats/) — the *produit net* / *impôt unique* forerunners of land-value taxation
 - [Site Value](/wiki/site-value/)
 
 - [Land Value Capture](/wiki/land-value-capture/)
@@ -104,6 +106,7 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 - [Economic rent](/wiki/economic-rent/) — the concept on which LVT is theoretically grounded
 - [Henry George](/wiki/henry-george/) — the economist who made LVT the centrepiece of a global movement
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — a documented American implementation
+- [Objection: if LVT is so good, why has almost no one adopted it?](/wiki/lvt-not-widely-adopted/) — the adoption record and what the rollbacks show
 - [ATCOR](/wiki/atcor/) — the theorem that all taxes ultimately come out of rent
 - [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's rate-rent as practical LVT
 - [Robert V. Andelson](/wiki/robert-v-andelson/) — editor of *Critics of Henry George*

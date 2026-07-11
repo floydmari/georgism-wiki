@@ -30,4 +30,4 @@ The fear rests on confusing **acreage with value**. Because farmland value per a
 
 ## Sources
 
-1. Discussion of agricultural incidence in [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute.
+1. Discussion of agricultural incidence in [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute — used for the point that farmland's low site value makes farm LVT bills modest, and that the tax falls on land value (not output), so it does not burden active farming the way the objection assumes.

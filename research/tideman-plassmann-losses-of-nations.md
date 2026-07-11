@@ -9,7 +9,7 @@ source_url: https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-N
 stub: true
 excerpt: "Tideman and Plassmann's chapter in The Losses of Nations (Harrison ed., 1998) quantifying the deadweight losses of conventional taxation across the G7 and the output gains from shifting to rent-based revenue — the movement's headline excess-burden calculation."
 last_reviewed: 2026-07-06
-supports_outcomes: []
+supports_outcomes: [taxing-land-raises-productivity]
 ---
 
 ## Summary

@@ -3,6 +3,7 @@ title: "Georgism"
 category: concepts
 tags: [georgism, land-value-tax, henry-george, political-economy, geoism]
 stub: false
+excerpt: "The political-economic philosophy, named for Henry George, holding that the value of land and natural resources is created by the community and therefore belongs to the public, while the fruits of individual labour and capital should be left untaxed with those who produce them."
 sources: [george-1879, andelson-2003]
 ---
 
@@ -78,6 +79,8 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
 ## See Also
 
+- [The Problems](/wiki/problems/) · [The Benefits](/wiki/benefits/) — the evidence-graded index of what Georgism diagnoses and what its policies deliver
+- [Liberation Theology](/wiki/liberation-theology/) — the movement Andelson & Dawsey linked to Georgist land ethics
 - [Geoism](/wiki/geoism/) — the generalized system: all rents, not only land (the wiki's full scope)
 
 - [Henry George](/wiki/henry-george/) — the movement's founder

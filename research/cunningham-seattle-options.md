@@ -8,7 +8,7 @@ tier: important
 source_url: https://doi.org/10.1016/j.jue.2005.08.003
 stub: false
 excerpt: "Seattle parcel-level evidence that house-price uncertainty raises vacant land prices and delays development — a direct empirical test of real-options theory in land markets, not a study of any tax."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-10
 supports_outcomes: [lvt-dampens-land-speculation]
 ---
 
@@ -20,7 +20,7 @@ supports_outcomes: [lvt-dampens-land-speculation]
 
 Real options theory treats an undeveloped parcel of land as analogous to a financial call option: the owner holds the right, but not the obligation, to "exercise" by building, and can instead wait for more information about future prices. Because development is costly and largely irreversible, greater uncertainty about the future payoff from development makes the *option to wait* more valuable, which should show up empirically as (a) a land price premium above the value implied by current use alone, and (b) a lower probability of development in any given period, holding current profitability constant.
 
-Cunningham tests both predictions directly using Seattle parcel and transaction data, combined with a measure of house-price volatility/uncertainty constructed from the data. The paper's central, frequently cited quantitative results are:
+Cunningham tests both predictions directly using Seattle parcel and transaction data, combined with a measure of house-price volatility/uncertainty constructed from the data. The journal's published abstract states the headline results verbatim: "A one-standard-deviation increase in uncertainty lowers the likelihood of development by 11 percent and raises vacant land prices by 1.6 percent. These findings suggest that developers consider their real option to future buildings when deciding to invest."[1] The paper's central, frequently cited quantitative results are therefore:
 
 - **Uncertainty raises vacant land prices.** A one-standard-deviation increase in house-price uncertainty is associated with a roughly 1.6 percent increase in vacant land prices, holding other parcel and market characteristics constant.
 - **Uncertainty delays development.** The same one-standard-deviation increase in uncertainty is associated with an estimated 11 percent reduction in the probability that a given vacant parcel is developed in a given period.
@@ -58,6 +58,6 @@ Georgist arguments for [land value taxation](/wiki/land-value-tax/) commonly ass
 
 ## Sources
 
-1. Christopher R. Cunningham (2006), "House Price Uncertainty, Timing of Development, and Vacant Land Prices: Evidence for Real Options in Seattle," *Journal of Urban Economics*, 59(1), pp. 1–31. [DOI: 10.1016/j.jue.2005.08.003](https://doi.org/10.1016/j.jue.2005.08.003) — used for the paper's authorship, venue, and headline empirical findings (1.6% price effect, 11% development-probability effect), drawn from the published abstract and corroborating secondary citations; full paywalled text not directly fetchable in this session.
+1. Christopher R. Cunningham (2006), "House Price Uncertainty, Timing of Development, and Vacant Land Prices: Evidence for Real Options in Seattle," *Journal of Urban Economics*, 59(1), pp. 1–31. [DOI: 10.1016/j.jue.2005.08.003](https://doi.org/10.1016/j.jue.2005.08.003) — used for the paper's authorship, venue, and headline empirical findings (1.6% price effect, 11% development-probability effect). The publisher's abstract was directly fetched and quoted verbatim from the ScienceDirect article page this pass; the full text behind the paywall was not obtainable — no open-access copy exists via Unpaywall or Semantic Scholar, no working-paper version is indexed on RePEc, and the author's own site links only to the paywalled publisher page.
 
 [CITATION NEEDED: direct access to the full paywalled text (regression tables, sample construction, exact estimation period) — this session verified the paper's existence, citation, and headline findings via the ScienceDirect abstract listing and multiple independent secondary sources that agree on the same figures, but could not fetch the full article text through the available web access.]

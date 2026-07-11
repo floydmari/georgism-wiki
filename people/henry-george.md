@@ -3,6 +3,7 @@ title: "Henry George"
 category: people
 tags: [henry-george, georgism, land-value-tax, political-economy, single-tax]
 stub: false
+excerpt: "American journalist and political economist (1839–1897) whose 1879 bestseller Progress and Poverty asked why poverty deepens amid material progress and answered with the single tax on land values — founding the movement that bears his name."
 born: 1839
 died: 1897
 sources: [george-1879, andelson-2003]
@@ -44,9 +45,14 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 
 ## See Also
 
+- [The Saratoga debate with Seligman (1890) — full text](/wiki/saratoga-single-tax-debate-1890/) — George defending the single tax before the academic economists
+
+- [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the primary biography, full public-domain text in-repo
+
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
 - [The Crime of Poverty](/wiki/crime-of-poverty/) (1885) — his most famous popular lecture, held in full
 - [Moses](/wiki/moses/) (1878) — his lecture reading the Mosaic land laws as a design against inequality, held in full
+- [Thy Kingdom Come](/wiki/thy-kingdom-come/) (1889) — his Glasgow sermon making the land question a religious one, held in full
 - [Land Value Tax](/wiki/land-value-tax/) — the policy at the centre of George's programme
 - [Georgism](/wiki/georgism/) — the political-economic movement built on George's ideas
 - [Single Tax](/wiki/single-tax/) — George's specific policy prescription
@@ -62,7 +68,7 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
-2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic details (custodial source).
 4. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for biographical details, the California formation, and the triple legacy (D-claims). [Book page](/wiki/barker-henry-george-biography/)
 5. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952) — used for political context and the 1886 campaign (A/D-claims). [Book page](/wiki/rendezvous-with-destiny/)

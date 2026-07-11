@@ -3,6 +3,7 @@ title: "Economic Rent"
 category: concepts
 tags: [economic-rent, land, ricardo, georgism, rent-theory]
 stub: false
+excerpt: "The payment to a factor of production in excess of what is needed to keep it in its current use — a surplus arising from scarcity or privileged position rather than from effort. For land, whose supply cannot be increased, the whole rent is this kind of unearned surplus."
 sources: [george-1879, ricardo-1817, mill-1848]
 ---
 
@@ -30,7 +31,7 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 
 ## The Neoclassical Redefinition of Rent
 
-Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
+Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/). The standard modern survey and typology of which rent types are efficiently taxable is [Schwerhoff, Edenhofer & Fleurbaey (2020)](/wiki/schwerhoff-taxation-economic-rents/), which concludes that land rents are "one of the few true scarcity rents."
 
 ## Land as a Share of Modern Wealth
 
@@ -48,7 +49,7 @@ Barnes defines rent as "the money paid to businesses over and above their costs 
 
 ### Adams: Rent as the Driver of Wealth Inequality
 
-Martin Adams argues in [*Land: A New Paradigm for a Thriving World*](/wiki/land-a-new-paradigm/) (2015) that economic rent — specifically the privatization of land rent — is the primary structural driver of wealth inequality. Adams distinguishes two ways people earn income: "by contributing to society (wages, capital returns) or by extracting economic rent from society without providing wealth of corresponding value" (Adams 2015, Ch. 1). He argues that land ownership creates an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners — allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). (D-claim; interpretive)
+[Martin Adams](/wiki/martin-adams/) argues in [*Land: A New Paradigm for a Thriving World*](/wiki/land-a-new-paradigm/) (2015) that economic rent — specifically the privatization of land rent — is the primary structural driver of wealth inequality. Adams distinguishes two ways people earn income: "by contributing to society (wages, capital returns) or by extracting economic rent from society without providing wealth of corresponding value" (Adams 2015, Ch. 1). He argues that land ownership creates an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners — allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). (D-claim; interpretive)
 
 Adams presents data showing land values have risen faster than wages, citing Davis and Heathcote's *Journal of Monetary Economics* study (2007) and U.S. Census data. He argues that "whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality" (Adams 2015, Ch. 4). (B-claim; empirical)
 

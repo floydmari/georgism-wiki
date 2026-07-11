@@ -54,6 +54,8 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## See Also
 
+- [Johnson V Mcintosh](/wiki/johnson-v-mcintosh/) — the legal doctrine that vested Native land in the discovering sovereign
+- [Enclosure](/wiki/enclosure/) — the historical mechanism that concentrated common land into private hands
 - [Fairlie — A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/)
 
 - [Speculative Vacancy](/wiki/speculative-vacancy/)

@@ -43,12 +43,16 @@ partially redirects**.
    national accounts and historical wealth estimates, Piketty (with Zucman, in the companion
    paper "Capital is Back," *Quarterly Journal of Economics*, 2014) shows that private
    wealth-to-national-income ratios in the US, UK, France, Germany, Japan, and other rich
-   countries fell sharply across the World Wars and mid-20th century, then rose steadily from
-   roughly 200–300% of national income around 1970 to 400–600% by 2010 — approaching the
-   600–700% ratios observed in 18th- and 19th-century Europe. [CITATION NEEDED: page-level
-   citation from the book itself; the ratio figures above are drawn from the companion Piketty
-   & Zucman (2014) QJE paper and secondary summaries, as this session's web access could not
-   directly fetch and quote the book's primary text or tables.]
+   countries fell sharply across the World Wars and mid-20th century, then rose steadily since
+   1970 back toward historically high, pre-WWI levels. Piketty's own open-access figures state
+   this precisely: **"Private capital is worth between 2 and 3.5 years of national income in
+   rich countries in 1970, and between 4 and 7 years of national income in 2010"** (Figure 5.3),
+   and for Europe specifically, **"Aggregate private wealth was worth about 6-7 years of national
+   income in Europe in 1910, between 2 and 3 years in 1950, and between 4 and 6 years in 2010"**
+   (Figure 3.2). [Verified against Piketty's open-access
+   figure captions at [piketty.pse.ens.fr/capital21c](http://piketty.pse.ens.fr/files/capital21c/en/Piketty2014FiguresTables.pdf);
+   the companion [Piketty & Zucman (2014) QJE](https://gabriel-zucman.eu/files/PikettyZucman2014QJE.pdf)
+   paper carries the same series.]
 2. **The central r > g mechanism.** Piketty's headline theoretical claim (taxonomy D,
    interpretive/argumentative, built on the empirical r and g series) is that whenever the rate
    of return on capital (r) persistently exceeds the economy's growth rate (g), wealth
@@ -58,7 +62,14 @@ partially redirects**.
    Piketty reports that historically r − g has typically been on the order of several
    percentage points, narrowing sharply only during the mid-20th-century era of wars, high
    growth, and progressive taxation, and argues this gap is likely to widen again as growth
-   slows in the 21st century.
+   slows in the 21st century. His open-access Figure 10.9 states the empirical pattern directly:
+   **"The rate of return to capital (pre-tax) has always been higher than the world growth rate,
+   but the gap was reduced during the 20th century, and might widen again in the 21st century,"**
+   with the pure pre-tax rate of return **"roughly stable around 4%-5% in the long run"** against
+   a world growth rate historically well below 2% until the 20th century. [Verified against
+   Piketty's open-access figures at
+   [piketty.pse.ens.fr/capital21c](http://piketty.pse.ens.fr/files/capital21c/en/Piketty2014FiguresTables.pdf),
+   Figures 6.4 and 10.9.]
 3. **Rising capital's share of national income.** Piketty presents the rise in wealth-income
    ratios alongside a rise in the share of national income accruing to capital (as opposed to
    labour) in several advanced economies since the 1970s–1980s, treating this as a related and
@@ -85,12 +96,16 @@ productive equipment.
   underlying national accounts) and report that once depreciation is properly netted out, the
   long-run rise in the *net* capital share across seven major advanced economies is
   concentrated in housing; ex-housing, the net capital share shows little long-run trend.
-  Rognlie states the conclusion sharply: the justification behind Piketty's projection —
-  "the simultaneous long-term rise in the capital/income ratio and the net capital share of
-  income" — "vanishes once we remove housing" [VERIFY: quotation reconstructed from
-  aggregated secondary summaries of Rognlie's Brookings paper (Marginal Revolution's coverage
-  of the paper), not a directly re-fetched primary quotation in this session; a future editor
-  should confirm page number and exact wording against the PDF].
+  Rognlie states the conclusion sharply in his abstract: **"Overall, the net capital share has
+  increased since 1948, but once disaggregated this increase turns out to come entirely from the
+  housing sector: the contribution to net capital income from all other sectors has been zero or
+  slightly negative."** He adds that **"housing's average portion of the aggregate net capital
+  share rose from roughly 3 percent to 9 percent over the sample period, even as the private
+  sector fell from 23 to 20 percent."** [Verified verbatim against the
+  [Brookings PDF](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_rognlie.pdf),
+  abstract and p. 3. Note: the widely-circulated paraphrase "vanishes once we remove housing"
+  is a secondary gloss (Marginal Revolution), not Rognlie's own wording, and has been replaced
+  here with his verbatim statement.]
 - [Bonnet, Chapelle, Trannoy & Wasmer (2021)](/wiki/bonnet-land-is-back/) independently confirm,
   using French and other European data, that the long-run rise in wealth-income ratios Piketty
   documents is overwhelmingly a rise in **land values**, not produced capital.
@@ -103,13 +118,19 @@ productive equipment.
 Piketty did not accept this reframing without qualification. In work with Zucman responding to
 Rognlie, Piketty and Zucman acknowledge that housing capital's income share has risen, consistent
 with Rognlie, but argue that a meaningful rise in the *non-housing* capital share remains in
-some of their preferred specifications, and that Rognlie's own account attributes much of the
-residual non-housing rise to increased market/monopoly power rather than to a rise in the
-"pure" return to reproducible capital that Piketty's r > g mechanism describes [VERIFY: this
-characterization of the Piketty–Zucman rebuttal is drawn from converging secondary accounts
-(financial and policy press summaries of the exchange); this session could not directly fetch
-and quote the primary Piketty–Zucman rejoinder, so a future editor should locate and cite it
-directly]. The scholarly consensus that has since formed — reflected in this wiki's
+some of their preferred specifications. The characterization of the residual non-housing rise
+as driven by *market power / markups* rather than by a rising "pure" return to reproducible
+capital is Rognlie's own: in his primary text he decomposes non-housing capital into equipment,
+structures, and land plus a residual "that can be interpreted as representing firm markups over
+cost," and finds that **"Markups are responsible for most of the change in shares, in both
+directions; in particular, accumulation of equipment or structures cannot explain the recent
+rise"** [verified against the [Brookings PDF](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_rognlie.pdf),
+p. 3]. [VERIFY: the *Piketty–Zucman* side of this exchange — specifically their claim that a
+non-housing capital-share rise survives in their preferred US specification — is documented in
+secondary/tertiary accounts (the [CEPR/VoxEU](https://cepr.org/voxeu/columns/pikettys-rising-share-capital-income-and-us-housing-market)
+and [Equitable Growth](https://equitablegrowth.org/labors-share-lost/) discussions of the debate)
+but not in a single standalone primary "rejoinder" document; a future editor should cite the
+relevant Piketty–Zucman specification directly if one is located.] The scholarly consensus that has since formed — reflected in this wiki's
 [capital-share-rise-is-land](/wiki/capital-share-rise-is-land/) outcome page, which rates the
 evidence "Strong (independently replicated across US and European data)" — favours the
 Rognlie/Bonnet-et-al./La Cava land-centred reading over Piketty's original broad-capital
@@ -133,12 +154,15 @@ literature; it is not, on its own terms, a source *for* the land-specific claim.
   and the subsequent literature perform.
 - **Methodological critiques beyond the housing/land question.** The book drew substantial
   academic scrutiny on other grounds too — for example, a widely reported *Financial Times*
-  review (Chris Giles, 2014) raised questions about data transcription and adjustments in the
-  underlying wealth-inequality series for the UK and Europe; Piketty published a detailed
-  rebuttal disputing the FT's methodology and conclusions. [CITATION NEEDED: direct citation to
-  the FT's original piece and Piketty's response, which this session could not fetch directly;
-  the exchange is included here for balance since it is a well-known part of the book's
-  reception, but should be sourced directly before being cited as a load-bearing claim.]
+  investigation (Chris Giles, *Financial Times*, May 23 2014) raised questions about data
+  transcription and adjustments in the underlying wealth-inequality series for the UK and Europe;
+  Piketty published a detailed rebuttal (dated May 28 2014) disputing the FT's methodology and
+  conclusions, noting that the criticisms **"only refer to the series reported in chapter 10 of
+  my book"** and that he had put all the underlying Excel files online **"precisely because I want
+  to promote an open and transparent debate about these important and sensitive measurement
+  issues."** [Verified against Piketty's open-access
+  [Response to FT](http://piketty.pse.ens.fr/files/capital21c/en/Piketty2014TechnicalAppendixResponsetoFT.pdf)
+  (Technical Appendix to Chapter 10, May 28 2014).]
 - **The r > g mechanism is a stylized long-run generalization, not a structural growth
   model.** Economists including Rognlie and others have questioned whether the elasticity of
   substitution between capital and labour that Piketty's projection implicitly assumes is
@@ -196,7 +220,15 @@ literature; it is not, on its own terms, a source *for* the land-specific claim.
 
 1. Thomas Piketty (2014), *Capital in the Twenty-First Century*, trans. Arthur Goldhammer,
    Belknap Press of Harvard University Press. [Harvard University Press](https://www.hup.harvard.edu/books/9780674430006) —
-   used for publisher, translator, and publication details.
+   used for publisher, translator, and publication details. Piketty's **open-access supporting
+   materials** (figures, data, technical appendix) are posted at
+   [piketty.pse.ens.fr/capital21c](http://piketty.pse.ens.fr/files/capital21c/en/): the
+   [Figures & Tables PDF](http://piketty.pse.ens.fr/files/capital21c/en/Piketty2014FiguresTables.pdf)
+   supplied the verified wealth/income-ratio captions (Figs 3.2, 5.3) and the r-vs-g captions
+   (Figs 6.4, 10.9); the
+   [Technical Appendix Response to FT](http://piketty.pse.ens.fr/files/capital21c/en/Piketty2014TechnicalAppendixResponsetoFT.pdf)
+   (May 28 2014) supplied the verified Piketty rebuttal to the Chris Giles / *Financial Times*
+   critique.
 2. Thomas Piketty & Gabriel Zucman (2014), "Capital is Back: Wealth-Income Ratios in Rich
    Countries, 1700–2010," *Quarterly Journal of Economics* 129(3), pp. 1255–1310. [QJE/Oxford
    Academic](https://academic.oup.com/qje/article-abstract/129/3/1255/1818714) ·
@@ -224,10 +256,16 @@ literature; it is not, on its own terms, a source *for* the land-specific claim.
    used as a secondary source corroborating Rognlie's headline conclusion and its wording, since
    this session's direct fetch access to the primary PDF's exact page text was unavailable.
 
-[CITATION NEEDED: This page was drafted primarily from search-result snippets, secondary
-summaries, and other wiki pages' existing citations; this session's web access could not
-directly fetch and quote Piketty's primary text (Harvard University Press, piketty.pse.ens.fr,
-or Internet Archive copies all returned empty or blocked responses). A future editor with
-working access to the book's text should verify the r − g figures, the wealth-income ratio
-numbers, and the Piketty–Zucman rebuttal to Rognlie directly against primary sources, and add
-page-level citations.]
+*Verification note (2026-07):* The wealth/income-ratio figures, the r > g pattern, the Rognlie
+"housing" decomposition quotation, and the Piketty response to the *Financial Times* have since
+been verified verbatim against open-access primary sources —
+[Piketty's capital21c figures & technical appendix](http://piketty.pse.ens.fr/files/capital21c/en/)
+and [Rognlie's Brookings PDF](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_rognlie.pdf) —
+and the marked reconstructed quotations were replaced with verbatim source text. One item
+remains open: the *Piketty–Zucman* side of the exchange with Rognlie (their claim that a
+non-housing capital-share rise survives in their preferred specification) is documented only in
+secondary/tertiary accounts, not a single standalone primary rejoinder; a future editor should
+cite the specific Piketty–Zucman specification directly if located. The book's own paywalled
+prose (exact page numbers within the HUP edition) was not quoted here; the load-bearing
+empirical claims are instead sourced to Piketty's own open-access figures and data, which carry
+the same series.

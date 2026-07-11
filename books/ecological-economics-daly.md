@@ -89,7 +89,7 @@ Most essays are theoretical or review-based. The empirical case for steady-state
 
 ### Georgist Connection
 
-Daly's framework of throughput limits and the economy as subsystem connects to Georgist concerns about land and natural resources as non-produced inputs. However, the book does not directly engage with Henry George or land value taxation. The connection is indirect through the concept of economic rent from natural resources. [VERIFY: whether Daly discusses LVT in other works]
+Daly's framework of throughput limits and the economy as subsystem connects to Georgist concerns about land and natural resources as non-produced inputs. Although *this* collection does not directly engage with Henry George or land value taxation — the connection here is indirect, through the concept of economic rent from natural resources — Daly explicitly endorses Georgist land-rent capture in other work. In his 1999 Sophie Prize lecture "Five Policy Recommendations for a Sustainable Economy," his second recommendation is to "shift the tax base ... on to resource throughput," and he argues that "Land and resource rents (unearned income) are ideal sources of public revenue. In economic theory 'rent' is defined as payment in excess of supply price. Since the supply price for land is zero, any payment for land is rent." He further reasons that "ideally ownership of land and resources should be communal since there is no cost of production to justify individual private ownership," so that "by capturing for public revenue the necessary payment to nature, one serves both efficiency and equity" (Daly 1999b, *FEASTA Review* 1). This is substantively the Georgist single-tax/LVT position, even though Daly does not cite George by name in that lecture.
 
 ## Key Quotes
 
@@ -130,3 +130,4 @@ Daly's framework of throughput limits and the economy as subsystem connects to G
 2. Herman E. Daly and John B. Cobb Jr., *For the Common Good* (Beacon Press, 1989/1994) — source for Ch. 17 "Money, debt, and wealth" (C-claim; theoretical).
 3. Nicholas Georgescu-Roegen, *The Entropy Law and the Economic Process* (1971) — the thermodynamic foundation Daly extends (C-claim; theoretical).
 4. Julian Simon, *The Ultimate Resource* (1981) — the cornucopian position Daly critiques in Ch. 3 (E-claim; objection).
+5. Herman E. Daly, "Five Policy Recommendations for a Sustainable Economy," *FEASTA Review* 1 (1999b), text of his Sophie Prize acceptance speech, Oslo, 15 June 1999 — https://feasta.org/documents/feastareview/daly2.pdf. Primary source for Daly's endorsement of land/resource-rent capture for public revenue (Georgist connection).

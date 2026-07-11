@@ -8,7 +8,7 @@ excerpt: "A self-assessed property tax under which owners name their own price a
 
 ## Definition
 
-A **Harberger tax**, also called a **Common Ownership Self-Assessed Tax (COST)**, requires owners to **self-assess** the value of an asset, pay a tax on that value, and **stand ready to sell at the declared price** to any buyer. This neatly solves the assessment problem (owners reveal true values) and the holdout problem (assets are always for sale), while taxing the value of holding the asset.
+A **Harberger tax**, also called a **Common Ownership Self-Assessed Tax (COST)**, requires owners to **self-assess** the value of an asset, pay a tax on that value, and **stand ready to sell at the declared price** to any buyer. This neatly solves the assessment problem (owners reveal true values) and the holdout problem (assets are continuously for sale), while taxing the value of holding the asset.
 
 ## Relationship to Georgism
 

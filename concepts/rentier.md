@@ -4,12 +4,12 @@ category: concepts
 tags: [concepts, rentier, rentier-capitalism, economic-rent, keynes, hudson, mazzucato]
 stub: false
 excerpt: "A rentier is an economic actor whose income derives from ownership of scarce assets — historically land, extended by modern critics to finance, IP, and digital platforms — rather than from productive labor or enterprise."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-10
 ---
 
 ## Definition
 
-A **rentier** is an economic actor whose income derives primarily from the ownership of scarce assets — historically land, and by extension financial claims, intellectual property, and other assets that yield [economic rent](/wiki/economic-rent/) — rather than from productive labor, enterprise, or the creation of new value. The term originates in French economic usage, where a *rentier* was a person living off income from investments or property. [CITATION NEEDED: etymological source for the French origin of "rentier" and its early economic usage]
+A **rentier** is an economic actor whose income derives primarily from the ownership of scarce assets — historically land, and by extension financial claims, intellectual property, and other assets that yield [economic rent](/wiki/economic-rent/) — rather than from productive labor, enterprise, or the creation of new value. The term is a nineteenth-century borrowing from French: English adopted *rentier* — "one who has a fixed income from investment" (in land, stocks, etc.) — in 1847, from the French *rentier*, "holder of rental properties or investments that pay income," itself from *rente*, "profit, income."[14]
 
 The rentier stands in contrast to the productive entrepreneur or worker in the classical economic tradition: where the latter earns income by contributing to output, the rentier earns income by virtue of controlling access to something others need but cannot create — most fundamentally, [land](/wiki/economic-rent/). This distinction is central to the Georgist critique of rentier income, as articulated in the wiki's [narrative on the rentier economy](/wiki/the-rentier-economy/).
 
@@ -17,7 +17,7 @@ The rentier stands in contrast to the productive entrepreneur or worker in the c
 
 In classical political economy, the rentier was closely associated with the **landlord** — the recipient of Ricardo's differential rent. [David Ricardo](/wiki/david-ricardo/) formalised the analysis of land rent in his *Principles of Political Economy and Taxation* (1817), showing that rent arises as a surplus accruing to owners of superior land relative to the [margin of production](/wiki/margin-of-production/).[1] [Henry George](/wiki/henry-george/) extended this analysis to urban land and argued that economic progress disproportionately benefits the landowning rentier at the expense of labour and capital.[2]
 
-**John Maynard Keynes** gave the concept one of its most famous formulations in *The General Theory of Employment, Interest and Money* (1936), where he discussed the "euthanasia of the rentier" — the proposition that appropriate monetary policy could reduce the return on capital to the point where the functionless investor living off interest would gradually disappear. [VERIFY: exact chapter, page, and wording of Keynes's "euthanasia of the rentier" passage — this source is not in the wiki corpus and the specific quotation has not been verified first-hand.] [CITATION NEEDED: primary source citation for Keynes's "euthanasia of the rentier" with chapter, page, and direct quotation ≤50 words]
+**John Maynard Keynes** gave the concept one of its most famous formulations in Chapter 24 of *The General Theory of Employment, Interest and Money* (1936). Arguing that capital could be made abundant enough that its scarcity return would fall toward zero, he wrote that such a state of affairs "would mean the euthanasia of the rentier, and, consequently, the euthanasia of the cumulative oppressive power of the capitalist to exploit the scarcity-value of capital."[15] The analogy he drew is explicitly Ricardian: "Interest to-day rewards no genuine sacrifice, any more than does the rent of land. The owner of capital can obtain interest because capital is scarce, just as the owner of land can obtain rent because land is scarce."[15] He stressed the transition would be gradual — "the euthanasia of the rentier, of the functionless investor, will be nothing sudden … and will need no revolution."[15]
 
 Keynes's usage is significant because it reframed the rentier not merely as a landowner but as any recipient of income from capital ownership who performs no productive function — a broader category that prefigures the modern "rentier capitalism" literature.
 
@@ -47,7 +47,7 @@ A body of contemporary economic criticism argues that the rentier has returned o
 
 ### Standing and the Precariat
 
-[CITATION NEEDED: Guy Standing's work on rentier capitalism and the precariat — referenced in the task notes but not present in the wiki corpus. Standing's *The Corruption of Capitalism* (2016) and related work argue that a rentier class has captured economic institutions at the expense of a growing precariat. A future editor should verify and add this material with proper sourcing.]
+[Guy Standing](/wiki/guy-standing/) argues in *The Corruption of Capitalism: Why Rentiers Thrive and Work Does Not Pay* (Biteback, 2016) that modern economic institutions have been captured by a rentier class — income flowing to holders of property, IP, and platform assets — at the expense of a growing precariat, and in *Plunder of the Commons* (2019) proposes levies on rentier income paid into a commons fund (see his [wiki page](/wiki/guy-standing/) for sourcing).
 
 ## The Contested Boundary of "Rent"
 
@@ -88,3 +88,5 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 11. "Narrative: The Rentier Economy" — [wiki page](/wiki/the-rentier-economy/) — used for the assessment that extensions of rent theory beyond land are analytically coherent but empirically thinner, and for the recommendation to mark non-land claims as "advocates argue."
 12. David Autor, David Dorn, Lawrence Katz, Christina Patterson & John Van Reenen (2020), "The Fall of the Labor Share and the Rise of Superstar Firms," *Quarterly Journal of Economics* 135(2); NBER Working Paper 23396. [NBER page](https://www.nber.org/papers/w23396) — used as the competing explanation; see also [wiki summary](/wiki/autor-superstar-firms/).
 13. "Objection: The Austrian Critique of LVT" — [wiki page](/wiki/lvt-austrian-critique/) — used for the challenge to the land/capital distinction that underpins the rentier/producer framing.
+14. "Rentier," *Online Etymology Dictionary*. [etymonline.com/word/rentier](https://www.etymonline.com/word/rentier) — used for the 1847 English borrowing from French *rentier* ("holder of rental properties or investments that pay income," from *rente*, "profit, income") and the definition "one who has a fixed income from investment" (fetched directly this session).
+15. John Maynard Keynes (1936), *The General Theory of Employment, Interest and Money*, Ch. 24, "Concluding Notes on the Social Philosophy towards which the General Theory might Lead," §II. [Full text (Project Gutenberg Australia)](https://gutenberg.net.au/ebooks03/0300071h/printall.html) — used for the verbatim "euthanasia of the rentier" passages, the interest/land-rent scarcity analogy, and the "nothing sudden … will need no revolution" characterisation of the transition (all quotations verified against the full text, fetched directly this session).

@@ -26,9 +26,9 @@ two belong in one category.
 ## The Scale — What the Official Data Show
 
 - **FIRE (with rental and leasing) runs at roughly a fifth of US GDP** in recent
-  years — approximately 20–21% of value added per BEA's industry accounts (the FRED
-  series VAPGDPFIRL tracks it quarterly; finance and insurance alone contribute
-  about 8 points of that).[4]
+  years — about 21–22% of value added per BEA's industry accounts (the FRED series
+  VAPGDPFIRL stood at 21.7% in 2025 through 2026 Q1; finance and insurance alone,
+  series VAPGDPFI, contribute about 8 points of that — 8.0% in 2026 Q1).[4]
 - **Finance's share tripled over the postwar era.** Greenwood & Scharfstein's
   mainstream accounting puts financial services at 2.8% of GDP in 1950 and 8.3% by
   2006 — with the growth concentrated in asset-management fees and household
@@ -94,6 +94,8 @@ carries both readings, attributed; the dispute is unresolved in the literature.
 
 ## See Also
 
+- [Greenwood & Scharfstein: The Growth of Finance](/wiki/greenwood-scharfstein-growth-of-finance/) · [Bazot: the cost of finance in Europe](/wiki/bazot-cost-of-finance-europe/) — the scale and unit-cost evidence, US and Europe
+
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
 - [Outcome: Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the strong, evidence-carried version of the finance–land claim
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the persuasive deployment
@@ -124,11 +126,12 @@ carries both readings, attributed; the dispute is unresolved in the literature.
    [Publisher](https://journals.sagepub.com/doi/abs/10.1177/04866134211011770) —
    the peer-reviewed statement of the thesis (D-claims, attributed).
 4. BEA via FRED, "Value Added by Industry: Finance, Insurance, Real Estate, Rental,
-   and Leasing as a Percentage of GDP" (series VAPGDPFIRL; companion VAPGDPFI ≈ 8%
-   of GDP, 2025). [FRED](https://fred.stlouisfed.org/series/VAPGDPFIRL) — used for
-   the ~20–21% scale figure (B-claim; series verified, exact latest value
-   secondary-corroborated — [VERIFY: pull the current number when network access
-   allows]).
+   and Leasing as a Percentage of GDP" (series VAPGDPFIRL = 21.7% at 2026 Q1, holding
+   21.4–21.7% across 2024–2026; companion Finance & Insurance series VAPGDPFI = 8.0%
+   at 2026 Q1). [FRED VAPGDPFIRL](https://fred.stlouisfed.org/series/VAPGDPFIRL) ·
+   [FRED VAPGDPFI](https://fred.stlouisfed.org/series/VAPGDPFI) — used for the
+   ~21–22% scale figure (B-claim; current values pulled directly from the FRED CSV,
+   2026-07-07).
 5. Robin Greenwood & David Scharfstein, "The Growth of Finance," *Journal of
    Economic Perspectives* 27(2), 2013, pp. 3–28.
    [Open access (AEA)](https://www.aeaweb.org/articles?id=10.1257/jep.27.2.3) —

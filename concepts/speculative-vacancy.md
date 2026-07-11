@@ -80,6 +80,8 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/) — the measured evidence, by method, with the zoning-vs-speculation split carried honestly
+
 - [Land Monopoly](/wiki/land-monopoly/) · [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) · [Prosper Australia](/wiki/prosper-australia/)
 - [Cunningham (2006), Seattle](/wiki/cunningham-seattle-options/) — the option-value evidence
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)

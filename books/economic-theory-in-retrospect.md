@@ -25,7 +25,7 @@ tags: [history-of-economic-thought, ricardo, rent-theory, henry-george, site-val
 - **ISBN:** 978-0-521-57701-4 (paperback); 978-0-521-57153-1 (hardback)
 - **Edition:** Fifth edition (9th printing, 2012)
 - **Dedication:** "To my son, David Ricardo"
-- **Origin:** electronic copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [VERIFY: legal provenance attestation pending — the delivering agent named a prohibited source for this copy; per the free/legal-sources rule the owner must confirm a legitimately owned/licensed copy before scan-depth upgrades from this text are re-used.]
+- **Origin:** electronic copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [BLOCKED — legal provenance attestation pending: the delivering agent named a prohibited acquisition source for this specific electronic copy, so per the free/legal-sources rule the owner must confirm a legitimately owned or licensed copy before any deeper scan or re-extraction from this file is reused. This flag concerns copy *licensing only, not content accuracy*: the page's substantive Blaug quotations (the Ch. 3 §11 site-value-taxation passages) are independently corroborated verbatim against a legal public reproduction — Mary M. Cleveland, "Blaug Edging Toward Full Appreciation of Henry George," *American Journal of Economics and Sociology* (2004), which quotes *Economic Theory in Retrospect* directly. Only the owner can clear the licensing attestation.]
 
 ## Overview
 
@@ -179,4 +179,4 @@ Blaug's *Economic Theory in Retrospect* is valuable for the Georgist wiki as:
 
 ## Sources
 
-- Blaug, Mark. *Economic Theory in Retrospect.* 5th edition. Cambridge: Cambridge University Press, 1997. ISBN 978-0-521-57701-4 (paperback). First edition 1962 by Richard D. Irwin, Inc. — DJVU scan examined; text extracted from scanned source.
+- Blaug, Mark. *Economic Theory in Retrospect.* 5th edition. Cambridge: Cambridge University Press, 1997. ISBN 978-0-521-57701-4 (paperback). First edition 1962 by Richard D. Irwin, Inc. — DJVU scan examined; text extracted from scanned source. — used for Blaug's history-of-economic-thought treatment of Ricardian rent theory and the marginalist transition that displaced the classical land category.

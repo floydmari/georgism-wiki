@@ -14,7 +14,7 @@ Checks (errors unless noted):
   * internal /wiki/<slug>/ links resolve to a real .md file
   * duplicate slugs across folders (slugs are global in Ghost)
   * research: source_url + year present
-  * outcomes: evidence_strength + supported_by present, supported_by slugs resolve
+  * problems/benefits: evidence_strength + claim_type + supported_by present, slugs resolve
   * bidirectional integrity: supported_by <-> supports_outcomes,
     challenged_by (research must exist), related_people/related_places resolve
   * every source referenced in frontmatter (sources/supported_by/challenged_by) whose id is a
@@ -32,7 +32,7 @@ Usage:  python3 scripts/lint_wiki.py [--strict]
 import os, re, sys, csv, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CATEGORIES = ["concepts", "people", "places", "events", "outcomes",
+CATEGORIES = ["concepts", "people", "places", "events", "problems", "benefits",
               "research", "organizations", "objections", "narratives", "books", "texts"]
 REGISTRY = os.path.join(ROOT, "sources", "registry.csv")
 
@@ -153,7 +153,7 @@ def load_registry():
 # synthesis page types the wiki AUTHORS (not external sources). A row like this
 # with no URL in registry.csv is the wiki citing itself — it belongs in the page
 # census, never the sources file. (Guards against the hybrid drift Floyd flagged.)
-SYNTHESIS_CATS = {"Concepts", "Outcomes", "Objections", "People", "Places",
+SYNTHESIS_CATS = {"Concepts", "Outcomes", "Problems", "Benefits", "Objections", "People", "Places",
                   "Events", "Narratives"}
 
 
@@ -202,8 +202,15 @@ def main():
             for oc in aslist(meta.get("supports_outcomes")):
                 if oc not in slugs: err(f, f"supports_outcomes -> unknown page '{oc}'")
 
-        if p["folder"] == "outcomes":
-            if not meta.get("evidence_strength"): err(f, "outcome missing evidence_strength")
+        if p["folder"] in ("problems", "benefits"):
+            if not meta.get("evidence_strength"): err(f, "claim page missing evidence_strength")
+            # problems/ = the diagnosis (empirical claims about the world); benefits/ =
+            # measured policy effects (Floyd's split, executed 2026-07-10 — see
+            # PLAN-problems-and-benefits.md and EDITORIAL §5b). claim_type must match
+            # the folder; the field name supports_outcomes is kept for continuity.
+            expected = "problem" if p["folder"] == "problems" else "benefit"
+            if meta.get("claim_type") != expected:
+                err(f, f"claim_type must be '{expected}' in {p['folder']}/")
             if not aslist(meta.get("supported_by")): warn(f, "outcome has no supported_by")
             for r in aslist(meta.get("supported_by")):
                 if r not in slugs:
@@ -254,9 +261,22 @@ def main():
         # claim-strength language, not quoted primary sources — so exempt them,
         # exactly as the quote-cap check above does.
         if meta.get("public_domain") is not True:
+            # the banned-certainty rule governs the wiki's own claim-strength
+            # language, not words that fall inside a quoted source — skip matches
+            # within a "double-quoted span", the same intent as the public_domain
+            # exemption above.
+            quoted = [(m.start(), m.end()) for m in re.finditer(r'"[^"\n]*"', body)]
+            in_quote = lambda pos: any(s <= pos < e for s, e in quoted)
+            # proper-noun acronym expansion that legitimately contains a banned
+            # word: ATCOR = "All Taxes Come Out of Rent" (and its EBCOR sibling).
+            allowed = [(m.start(), m.end()) for m in
+                       re.finditer(r"all taxes come out of rent", body, re.I)]
+            in_allowed = lambda pos: any(s <= pos < e for s, e in allowed)
             for pat in BANNED:
-                m = re.search(pat, body, re.I)
-                if m: warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
+                for m in re.finditer(pat, body, re.I):
+                    if not in_quote(m.start()) and not in_allowed(m.start()):
+                        warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
+                        break
         cn = len(re.findall(r"\[CITATION NEEDED", body))
         vf = len(re.findall(r"\[VERIFY", body))
         if cn: warn(f, f"{cn} unresolved [CITATION NEEDED] marker(s)")
@@ -340,14 +360,14 @@ def main():
     goal, met = 5, 0
     coverage = []
     for slug, p in sorted(pages.items()):
-        if p["folder"] != "outcomes":
+        if p["folder"] not in ("problems", "benefits"):
             continue
         n = len(aslist(p["meta"].get("supported_by")))
         met += n >= goal
         coverage.append(f"  {'✓' if n >= goal else '·'} {n}/{goal}  {slug}")
     if coverage:
         n_out = len(coverage)
-        warnings.append(f"COVERAGE: {met}/{n_out} outcomes have >= {goal} supporting papers\n"
+        warnings.append(f"COVERAGE: {met}/{n_out} problem/benefit claims have >= {goal} supporting papers\n"
                         + "\n".join(coverage))
 
     # report

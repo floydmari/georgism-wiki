@@ -37,35 +37,48 @@ underlying primary text.
 ## The Core Argument and Findings
 
 Hoyt's central empirical finding is that Chicago's land-value history divides into a
-sequence of distinct boom-and-bust episodes rather than smooth growth. Secondary sources
-summarizing the book's contents describe five roughly-defined periods of growth tied to
-specific historical drivers: the **canal-land boom** of the 1830s, the **railroad era**
-expansion, the **post–Civil War boom and the 1871 Great Chicago Fire** rebuilding surge,
-the **first-skyscraper and 1893 World's Fair boom**, and the **post–World War I land boom**
-and its subsequent collapse into the Depression.[6][7] `[VERIFY: Hoyt's own precise
-period/chapter breakdown and dates — this list is drawn from secondary summaries rather
-than a direct page-by-page read of the 519-page primary text in this research pass]`
+sequence of distinct boom-and-bust episodes rather than smooth growth. Part I of the book
+is organized into exactly five chapters, one per major boom cycle; Hoyt states plainly that
+"each of the five chapters in the first part of this work deals" with a distinct cyclical
+episode (p. 5, "The Five Major Real Estate Cycles of Chicago"). His own chapter titles and
+dates are: **I. The Canal Land Boom, 1830–42**; **II. The Land Boom of the Railroad Era,
+1843–62**; **III. The Land Boom That Followed a Panic, a Civil War, and a Fire [1863–77]**;
+**IV. The Land Boom of the First Skyscrapers and the First World's Fair [1878–98]**; and
+**V. The Land Boom of a New Era That Followed a World War, 1898–1933**.[1] This confirms the
+five-episode structure secondary sources describe, with Hoyt's own boundary dates.[6][7]
 
-Hoyt's own framing of the underlying mechanism, as excerpted from the book, describes real
-estate cycles as "the composite effect of the cyclical movements of a series of forces that
-are to a certain degree independent and yet which communicate impulses to each other in a
-time sequence" — he traces a sequence of roughly twenty linked events, from rising rents
-through rising land prices, construction booms, overbuilding, foreclosures, and eventual
-recovery.[7] This is a **Type B (empirical) / Type A (historical) claim**: Hoyt is
-describing an observed sequence in one city's data, not proving a general law of land
-markets. The book's other secondary literature attributes to it the specific finding —
-widely cited in the Georgist land-cycle tradition — that Chicago land-value peaks fell at
-roughly **1836, 1856, 1872, 1890, and 1925**, an interval of roughly 16–18 years between
-peaks.[8] `[VERIFY: this exact peak-year list against Hoyt's primary text directly; the
-wiki's own [progress-18-6-year-cycle](/wiki/progress-18-6-year-cycle/) page flags the same
-figures as unverified against a source that could not be directly fetched]`
+Hoyt's own framing of the underlying mechanism, verified verbatim against the primary text
+(p. 371, opening the section "Definition of the Chicago Real Estate Cycle"), describes the
+Chicago real estate cycle as "the composite effect of the cyclical movements of a series of
+forces that are to a certain degree independent and yet which communicate impulses to each
+other in a time sequence, so that when the initial or primary factor appears it tends to set
+the others in motion in a definite order."[1] He then traces an explicitly numbered sequence
+of **twenty steps** (pp. 373–391), running from step 1 ("The initial impulse — a sudden
+spurt in population growth") through rising gross and net rents (steps 1–2), rising prices
+of existing buildings (step 3), new construction and easy credit (steps 4–6), the land boom
+as new buildings absorb vacant land (step 8), speculative subdivision (steps 9–10), the peak
+(step 12), the lull and rising foreclosures (steps 13–14), the stock-market debacle and
+depression (step 15), banks reversing loan policy (step 17), stagnation and foreclosures
+(step 18), the wreckage being cleared (step 19), and finally step 20, tellingly titled
+"Ready for another boom which does not come automatically."[1] This is a **Type B (empirical)
+/ Type A (historical) claim**: Hoyt is describing an observed sequence in one city's data,
+not proving a general law of land markets. Hoyt's own text confirms the widely cited
+peak-year list: on p. 391 he writes that the subdivision boom "has occurred at the most
+hectic phase of all the five major real estate cycles in Chicago... In **1836, in 1856, in
+1872, in 1890, and in 1925** the same story was repeated with some variations."[1] (Hoyt uses
+these exact years for the subdivision/land-boom peaks; for some individual series he dates
+peaks to adjacent years — e.g. 1873 rather than 1872, and 1892–1893 for the World's Fair
+boom — so the canonical "1836, 1856, 1872, 1890, 1925" is Hoyt's own but is a rounded summary
+of series that peak within a year or two of those dates.)[8]
 
 The book's methodological contribution — separate from the periodicity finding — was its
 scale and rigor for the time: Hoyt assembled comparative data on population density,
 ethnic settlement patterns, transportation networks, construction activity, employment,
-mortgage rates, and property sales across comparable American cities, using 103 maps and
-103 tables to support the analysis, which the *Journal of American History*'s 1934 review
-of the book (cited by title/venue in bibliographic listings) treated as a major work of
+mortgage rates, and property sales across comparable American cities. The "103 maps and 103
+tables" figure is confirmed against the primary text: the highest-numbered figure/map in the
+book is Fig. 103 and the highest-numbered table is Table CIII (103), so the book contains 103
+figures (maps and charts) and 103 tables.[1] The *Journal of American History*'s 1934 review
+of the book (cited by title/venue in bibliographic listings) treated it as a major work of
 urban economic history for its period.[2][9] `[CITATION NEEDED: a directly read or quoted
 excerpt of the 1934 Journal of American History review, beyond its bibliographic listing]`
 
@@ -109,23 +122,52 @@ outcome claim.**
   speak to how a taxed-land counterfactual would have altered the cycle's amplitude or
   timing — a limitation the wiki should not paper over when citing Hoyt for the LVT
   outcome page.
-- **The specific "18-year" periodicity is a later reading of Hoyt's data, not his own
-  headline claim.** Hoyt documents a recurring cyclical pattern; the crisp ~18 (or
-  18.6)-year figure was extracted and popularised chiefly by later writers (Roy
-  Wenzlick, Harrison, Foldvary, Anderson, Patel), and the wiki's own
-  [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/) page notes this
-  periodicity claim has not been confirmed by peer-reviewed econometric testing and
-  remains contested. `[VERIFY: whether Hoyt's original text itself asserts a fixed
-  ~18-year period, or only documents irregular but recurring booms and busts]`
+- **Hoyt explicitly denies a fixed period — the "18-year" cycle is a later reading, not his
+  claim (verified against the primary text).** This is the single most important correction
+  from a direct read of the book. Hoyt documents five recurring but *irregular* booms and is
+  explicit that they are not evenly spaced. On p. 417 he writes: "The exceptional speculative
+  movements in land, commodities, and stocks are separated by long intervals of time, and
+  **there is no definite period of years between one boom and the next.** Chicago land booms
+  have occurred less frequently since 1873 than before, until thirty-five years elapsed from
+  the hectic land market of 1890 to that of 1925."[1] Earlier (p. 217) he notes booms had
+  recurred "at seventeen-year intervals prior to 1890," but stresses that this pattern then
+  broke: "Although seventeen years had passed since the peak of 1890, there was no general
+  boom in 1907."[1] The final step of his twenty-step cycle sequence is titled "Ready for
+  another boom **which does not come automatically**" (p. 391).[1] Hoyt's Table LXVII gives
+  *average* time intervals only for the phases *within* a cycle (rise-to-peak, peak-to-bottom),
+  not a fixed period *between* successive booms.[1] The crisp ~18 (or 18.6)-year figure was
+  extracted and popularised chiefly by later writers (Roy Wenzlick, Harrison, Foldvary,
+  Anderson, Patel); the wiki's own [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/)
+  page notes this periodicity claim has not been confirmed by peer-reviewed econometric
+  testing and remains contested. **Hoyt's own text does not support a fixed ~18-year period
+  and should not be cited as if it did.**
+- **Hoyt later disavowed the cycle's continued operation entirely — and the cycle
+  literature is built *against* that disavowal.** The 1933 book itself anticipates its own
+  obsolescence: Hoyt writes the events described "may in the future be of interest only to
+  historians… and the knowledge of the mode of behaviour of forces in the real estate cycle
+  will have no value in forecasting the trend of future events."[1] Thirty-five years later he
+  concluded "his prescience was warranted": **"The fluctuations in the real estate cycle which
+  characterised our economy in the 150 years prior to 1933, have ceased"** (Hoyt, ULI Technical
+  Bulletin No. 60, 1968, p. 11, as quoted by Harrison). He reaffirmed the disavowal in
+  correspondence with Fred Harrison in 1976 and in a 1978 interview at his Washington home,
+  aged 83.[10] Harrison's chapter "The Hoyt Heist" (*The Power in the Land*, 1983) is precisely
+  a **rebuttal of Hoyt's disavowal** — Harrison collates appraiser interviews and post-war data
+  to argue the cycle continued despite its discoverer's denial.[10] So the honest sequence is:
+  Hoyt documented recurring but irregular booms (1933), denied a fixed period (1933, p. 417),
+  predicted and later affirmed the pattern's demise (1968–78); the persistence of an ~18-year
+  rhythm is the claim of Harrison, Anderson, and successors, maintained *contra* late Hoyt.
 - **Hoyt was not a Georgist and later work is in tension with land-value-capture-friendly
   planning.** As FHA principal housing economist from 1934, Hoyt's sector model of urban
   land use is documented by later urban historians as having contributed to
   racially discriminatory mortgage underwriting practices (redlining) in FHA appraisal
   guidance — a biographical fact that has no bearing on the accuracy of his 1933
   Chicago land-value data, but is worth noting for readers assessing the source's
-  overall context and should not be elided. `[CITATION NEEDED: a specific source
-  documenting Hoyt's direct role in redlining-adjacent FHA underwriting practice, if the
-  wiki later creates a dedicated people/homer-hoyt.md page]`
+  overall context and should not be elided. Notably, this dissertation itself contains an
+  explicit ranking of "races and nationalities with respect to their beneficial effect upon
+  land values" (pp. 314–316), placing "English, Germans, Scotch, Irish, Scandinavians" first
+  and "Negroes" and "Mexicans" last — the same land-value-succession thinking Hoyt later
+  carried into FHA appraisal doctrine.[1] The wiki's dedicated
+  [Homer Hoyt](/wiki/homer-hoyt/) page documents this in full.
 - **Notable citation history.** Fred Harrison's essay "The Hoyt Heist" discusses Hoyt's
   data and its use (and, per the title, alleged mis-appropriation or under-credited use)
   within the real-estate-cycle literature; this wiki's [narrative on land-speculation
@@ -187,28 +229,40 @@ outcome claim.**
    — used for the book's period-by-period growth narrative and headline growth statistics
    (log-hut settlement to 211 square miles / 3.5 million population / $5 billion land
    value).
-7. Beard Books excerpt (same as above) — used for the direct quotation of Hoyt's
-   description of real-estate cycles as "the composite effect of the cyclical movements
-   of a series of forces..." (quotation under 50 words). `[VERIFY: confirm this quotation
-   against the primary Internet Archive text directly in a future revision]`
+7. Beard Books excerpt (same as above) — used as a secondary pointer to Hoyt's description
+   of real-estate cycles. The "composite effect of the cyclical movements of a series of
+   forces..." quotation has now been verified verbatim against the primary text (Internet
+   Archive full text, p. 371) and is quoted directly from Hoyt in Source 1.
 8. Progress.org, "The 18-Year Pattern Predicting 2027's Market Crash" — cited via this
-   wiki's [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/) page — used
-   for the commonly-cited Chicago peak-year list (1836, 1856, 1872, 1890, 1925)
-   attributed to Hoyt's study; flagged `[VERIFY]` there and here pending direct
-   confirmation against Hoyt's primary text.
-9. Search-engine-indexed summaries of the book's scope and methodology (103 maps, 103
-   tables; comparative city data on population, transportation, construction, and
-   mortgages) — used for describing Hoyt's methodology; not independently verified
-   against a directly fetched table of contents in this research pass.
-   `[CITATION NEEDED: direct confirmation from the Internet Archive full text]`
-10. Fred Harrison, "The Hoyt Heist," reprint. [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
-    — already cited on the wiki's [land-speculation-causes-cycles](/wiki/land-speculation-causes-cycles/)
-    narrative page — used here to flag Harrison's own account of how Hoyt's data has been
-    used and credited in the later cycle literature.
+   wiki's [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/) page — as the
+   popular restatement of the Chicago peak-year list (1836, 1856, 1872, 1890, 1925). That
+   list has now been confirmed against Hoyt's own primary text (p. 391; see Source 1), so it
+   is no longer flagged as unverified here; note, however, that Hoyt presents these as
+   irregular booms, not a fixed-period cycle (p. 417).
+9. The book's scope and methodology (103 maps/figures, 103 tables; comparative city data on
+   population, transportation, construction, and mortgages) — now confirmed directly against
+   the Internet Archive full text (highest figure = Fig. 103; highest table = Table CIII);
+   see Source 1.
+10. Fred Harrison, "The Hoyt Heist," ch. of *The Power in the Land* (1983), reprint.
+    [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
+    — **fetched and read in full (2026-07-09)**; used for Hoyt's later disavowal of the cycle,
+    verified verbatim: "The fluctuations in the real estate cycle which characterised our
+    economy in the 150 years prior to 1933, have ceased" (Hoyt, ULI Technical Bulletin No. 60,
+    1968, p. 11, per Harrison's footnote 2), reaffirmed "in correspondence with the present
+    author in 1976, and also when interviewed at his home in Washington at the age of 83 in
+    1978"; and for Harrison's rebuttal programme ("Three sorts of evidence have been collated
+    to show that Hoyt is wrong"). Also cited on the
+    [land-speculation-causes-cycles](/wiki/land-speculation-causes-cycles/) narrative page.
 
-`[VERIFY: this page was drafted primarily from secondary summaries, book-review
-bibliographic listings, and an Internet Archive metadata/excerpt fetch, not a full
-page-by-page read of the 519-page primary text. The Archive.org item is publicly
-accessible and should be read directly in a future revision to confirm the exact
-peak-year list, period boundaries, and the "composite effect" quotation's precise
-location and wording.]`
+*Verification note (2026-07): The key empirical claims on this page have been checked
+directly against the Internet Archive full text (DJVU OCR) of Hoyt's 1933 book. Confirmed
+against the primary source: the "composite effect... communicate impulses to each other in a
+time sequence" quotation (p. 371); the twenty-step numbered cycle sequence (pp. 373–391); the
+peak-year list 1836, 1856, 1872, 1890, 1925 in Hoyt's own words (p. 391); the five-chapter
+period structure and boundary dates (Part I, pp. 3–232); the 103-figure/103-table scale
+(Fig. 103, Table CIII); and the headline figures of 211 square miles, a 1930 population of
+3,376,438 (~3.5 million), and land value rising to roughly five billion dollars (pp. 3–5,
+483). Most importantly, Hoyt explicitly denies a fixed period between booms — "there is no
+definite period of years between one boom and the next" (p. 417) — so this page and the
+[18-Year Land Cycle](/wiki/18-year-land-cycle/) framing must treat the "~18-year" periodicity
+as a later interpretive gloss, not Hoyt's own claim.*

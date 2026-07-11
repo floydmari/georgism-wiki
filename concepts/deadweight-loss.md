@@ -3,6 +3,7 @@ title: "Deadweight Loss"
 category: concepts
 tags: [deadweight-loss, economics, taxation, land-value-tax, efficiency]
 stub: false
+excerpt: "The loss of economic welfare when a tax drives the quantity traded below its efficient level, preventing mutually beneficial transactions. Because land's supply is fixed, a tax on land value causes no such loss — the core efficiency argument for taxing land."
 sources: [mirrlees-2011]
 ---
 
@@ -29,6 +30,8 @@ This is the core efficiency argument for LVT that has been accepted by economist
 Every dollar raised through labour income taxes, capital gains taxes, sales taxes, or corporate taxes carries with it a deadweight loss — an additional cost to society beyond the revenue raised. Estimates of this excess burden typically range from 20 to 50 cents per dollar of revenue, depending on the tax and the economy. LVT is the one major revenue source with no excess burden.
 
 ## See Also
+
+- [Objection: the public-choice critique](/wiki/public-choice-critique/) — the Leviathan inversion: why "no deadweight loss" is, on one reading, a public-choice cost
 
 - [Tideman & Plassmann, Losses of Nations (1998)](/wiki/tideman-plassmann-losses-of-nations/) — the movement's G7 excess-burden calculation (stub, pending full read)
 

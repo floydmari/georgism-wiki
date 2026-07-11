@@ -41,9 +41,9 @@ George "was always close to believing himself a special emissary of God, showed 
 
 Goldman argues that dominant groups "had, quite unconsciously, picked from among available theories the ones that best protected their position and had impressed these ideas on the national mind as Truth" (Goldman 1952, p.78). He describes the conservative "steel chain of ideas" — Ricardian "iron law of wages," Malthusian population theory, Social Darwinism, and "natural rights" to property — that blocked progressive reform, including land reform (Goldman 1952, p.79). This framework directly connects to Georgist critiques of classical economics as serving landed interests.
 
-### Rauschenbusch and the Social Gospel (later chapters)
+### Rauschenbusch and the Social Gospel (pp. 106–108)
 
-Goldman notes that Walter Rauschenbusch, a leading Social Gospel figure, "began with an emphasis on the single tax and co-operatives" before moving toward "a variety of Christian socialism" (Goldman 1952, [VERIFY page]). This illustrates the single-tax movement's influence beyond economics into religious reform circles.
+Goldman notes that Walter Rauschenbusch, a leading Social Gospel figure, moved from single-tax sympathies toward socialism. Verbatim: "Rauschenbusch's own translation of the evolutionary themes varied in details. At the turn of the century he emphasized co-operatives, a single tax, and trade-unions. By 1912 he was calling for a Christian socialism..." (Goldman 1952, p.108; verified against the 1952 Knopf first-edition scan, archive.org item rendezvouswithde00goldrich, search-inside 2026-07-10 — an earlier draft of this page paraphrased the line as "began with an emphasis on the single tax and co-operatives," which is not Goldman's wording). This illustrates the single-tax movement's influence beyond economics into religious reform circles.
 
 ## Policy Recommendations
 
@@ -57,7 +57,7 @@ Goldman's book is a work of history, not advocacy, but it documents the policy p
 
 - Goldman wrote from within the liberal tradition; he describes himself as "part of the 'liberal' tradition" (Goldman 1952, p.8), which shapes his treatment of radical movements
 - The book is a general reform history, not a Georgist text; George and the single tax appear as one thread among many
-- Goldman characterizes George's personality critically ("close to believing himself a special emissary of God"), which may reflect Goldman's liberal reformer perspective rather than George's actual self-conception [VERIFY]
+- Goldman characterizes George's personality critically; the full sentence, verified verbatim against the 1952 Knopf first-edition scan (p.58), reads: "Henry George, who was always close to believing himself a special emissary of God, showed little of the give-and-take necessary for successful political coalition." This is Goldman's own characterization of George, and may reflect Goldman's liberal reformer perspective rather than George's actual self-conception
 - The abridged Vintage edition may omit material relevant to Georgism present in the original Knopf edition
 
 ## Key Quotes

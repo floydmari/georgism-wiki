@@ -93,6 +93,10 @@ never let the airtight land case lend its certainty to this domain.
 
 ## See Also
 
+- [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+
+- [DST incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried (Amazon passed ~half the UK DST to sellers) · [Romer's digital ad tax](/wiki/romer-digital-advertising-tax/) — the attention-rent capture proposal · [Furman Review](/wiki/furman-review-digital-competition/) — the official is-it-rent diagnosis and the dissolve pole
+
 - [Superstar Firms](/wiki/superstar-firms/) · [Rochet & Tirole (two-sided markets)](/wiki/rochet-tirole-two-sided/) · [Korinek & Ng (digital superstars)](/wiki/korinek-ng-digital-superstars/)
 - [Crouzet & Eberly (intangibles)](/wiki/crouzet-eberly-intangibles/) — the efficiency counter-view
 - [Intellectual-Property Rents](/wiki/ip-rents/) — the sibling contested frontier

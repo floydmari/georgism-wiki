@@ -26,4 +26,4 @@ Where older organisations preserve and teach the tradition, the Center for Land 
 
 ## Sources
 
-1. Center for Land Economics — official site. [landeconomics.org](https://landeconomics.org/)
+1. Center for Land Economics — official site. [landeconomics.org](https://landeconomics.org/) — used for the Center's founding (Lars Doucet and Greg Miller), its focus on land assessment, and its mission to operationalise land value taxation.

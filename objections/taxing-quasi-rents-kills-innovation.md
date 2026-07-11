@@ -153,6 +153,8 @@ evidence base thins exactly where the claimed rents persist longest.
 
 ## See Also
 
+- [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+
 - [Quasi-Rent](/wiki/quasi-rent/) — the concept doing the work
 - [Intellectual-Property Rents](/wiki/ip-rents/) — where this objection bites hardest, and where the evidence for the incentive is weakest
 - [Geoism](/wiki/geoism/) — the rent gradient this objection anchors

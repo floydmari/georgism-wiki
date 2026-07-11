@@ -29,4 +29,4 @@ These cities prove land value can be captured at scale; whether that makes housi
 
 ## Sources
 
-1. Yu-Hung Hong (1996), Lincoln Institute — Hong Kong land leasing. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf)
+1. Yu-Hung Hong (1996), Lincoln Institute — Hong Kong land leasing. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf) — used for the evidence that Hong Kong captures large land-lease revenues yet still has costly housing, showing rent capture and housing affordability are distinct problems driven by supply constraints.

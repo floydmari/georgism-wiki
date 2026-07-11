@@ -26,6 +26,8 @@ itself is documented record.
 
 ## See Also
 
+- [The George–Seligman Exchange — full primary text](/wiki/saratoga-single-tax-debate-1890/) — Seligman's address, George's consolidated remarks, and Seligman's reply, from the 1890 proceedings
+
 - [Henry George](/wiki/henry-george/) · [John Bates Clark](/wiki/john-bates-clark/) · [E. R. A. Seligman](/wiki/era-seligman/)
 - [Narrative: The Corruption of Economics](/wiki/the-corruption-of-economics/)
 - [1886 NYC Mayoral Election](/wiki/1886-nyc-mayoral-election/) — the political shock that preceded the academic reaction

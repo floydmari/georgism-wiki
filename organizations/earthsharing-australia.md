@@ -21,4 +21,4 @@ Earthsharing produces *Progress* magazine, ran the **[Georgist Podcourse](/wiki/
 
 ## Sources
 
-1. Earthsharing Australia — official site. [earthsharing.org.au](https://www.earthsharing.org.au/)
+1. Earthsharing Australia — official site. [earthsharing.org.au](https://www.earthsharing.org.au/) — used for Earthsharing's role as Prosper Australia's ecological outreach arm, its *Progress* magazine and Podcourse, and its ecological-Georgism framing.

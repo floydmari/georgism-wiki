@@ -42,6 +42,7 @@ See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their
 
 ## See Also
 
+- [Johnson V Mcintosh](/wiki/johnson-v-mcintosh/) — the case that turned 'discovery' into title over Native land
 - [Land as Commons](/wiki/land-as-commons/) · [Geolibertarianism](/wiki/geolibertarianism/)
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
 - [ATCOR](/wiki/atcor/) — the fiscal descendant of Locke's 1691 observation

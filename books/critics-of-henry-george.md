@@ -13,7 +13,7 @@ supports_outcomes: []
 
 ## Summary
 
-*Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* is an edited volume published in 1979 by the Robert Schalkenbach Foundation, edited by **Robert V. Andelson** (1931–) of Auburn University. The book was funded by the Schalkenbach Foundation and Basic Economic Education, Inc., of San Diego (Andelson 1979, p. 14). It comprises 24 chapters by multiple contributors, including Mason Gaffney, and was published to mark the centenary of *Progress and Poverty* (1879).
+*Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* is an edited volume published in 1979 by the Robert Schalkenbach Foundation, edited by **Robert V. Andelson** (1931–) of Auburn University. The book was funded by the Schalkenbach Foundation and Basic Economic Education, Inc., of San Diego (Andelson 1979, p. 14). It comprises 27 chapters in five parts by multiple contributors, including Mason Gaffney, and was published to mark the centenary of *Progress and Poverty* (1879).
 
 Andelson's thesis is that the highest tribute to Henry George's memory is to present his critics' arguments as fairly as possible and weigh them against both abstract reason and empirical evidence (Andelson 1979, p. 3). The book is the first comprehensive effort to review and evaluate the main critiques of George's contribution. Andelson argues that George's "unwarranted suspicion, even contempt, for the academic world" created antagonism among the very people whose endorsement he needed (Andelson 1979, p. 19). The volume covers critics from the 19th century British/continental and American traditions through 20th century figures, concluding with a chapter on "Neo-Georgism."
 
@@ -21,7 +21,7 @@ Andelson's thesis is that the highest tribute to Henry George's memory is to pre
 
 ### Structure and Coverage
 
-The book is organized in four parts (Andelson 1979, pp. 11–12):
+The book is organized in five parts (per the first edition table of contents; Andelson 1979, pp. 11–12):
 
 - **Part I**: "The Essential Henry George" by George Babilot, plus an introductory chapter by Andelson and Dr. Louis Wasserman (A-claim; factual)
 - **Part II**: Nineteenth-century British and continental critics: Laveleye, Marshall, Longe and Wrightson, Mallock, Moffat, Cathrein, Huxley, and Rae (A-claim; factual)
@@ -52,7 +52,7 @@ Schumpeter is cited as assessing that the single tax "is not economically unsoun
 
 ## Policy Recommendations
 
-The book itself is primarily analytical rather than prescriptive. Andelson's concluding chapter on "Neo-Georgism" (Ch. 26) explores modern developments in Georgist thought but does not advance specific policy proposals beyond the general framework of land value taxation. [VERIFY: specific Neo-Georgism proposals require direct reading of Ch. 26]
+Most of the volume is analytical, but Andelson's concluding chapter, "Neo-Georgism" (Ch. 27, the sole chapter of Part V, "Conclusions"), is explicitly prescriptive and advances a specific program that goes beyond a general endorsement of land value taxation. Rather than a strict single tax, the "Neo-Georgist" adopts a graduated order of priorities for public revenue governed by the benefit principle: first, the land-value tax, given "premier place" for its non-shiftability and benign effect on production; second, use taxes or benefit fees, "of which the gasoline tax (assuming its yield is used on highways or related functions) is a salient example"; and only as a last resort, general levies for services that are "truly necessary and truly general (e.g., police and fire protection, national defense, the control of communicable disease)," apportioned by "at least some approach to objectively equal payment—possibly a nongraduated percentage of incomes" (Andelson 1979, p. 388). Neo-Georgism further stands for public appropriation of the *full* land rent "less a percentage just large enough to induce owners to retain private title," could accede to "temporary and limited compensation" where full appropriation would cause extreme hardship, and proposes a severance tax on exhaustible natural resources "in lieu of at least part of the land-value tax"; a footnoted "libertarian refinement" would distribute the land-rent revenue "on a per capita basis, giving each individual the option of using his share to purchase domestic public services, or of doing without them" (Andelson 1979, pp. 388–389). Andelson expressly distinguishes this stance from both the "single tax limited" of Shearman and the Fabian view of land-value taxation "as merely a highly desirable source to be employed as one tax among many without discrimination as to their ranking" (Andelson 1979, p. 389).
 
 ## Nuances and Limits
 
@@ -94,6 +94,8 @@ Not all significant critics of George are covered. The selection focuses on publ
 - [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — publisher and funder
 
 ## See Also
+
+- [Johnson: The Case against the Single Tax (1914) — full text](/wiki/johnson-case-against-single-tax-1914/) — the era's canonical mainstream-press critique, carried in full
 
 - [Henry George](/wiki/henry-george/)
 - [Progress and Poverty](/wiki/progress-and-poverty/)

@@ -306,6 +306,7 @@ farmer, or everyone build himself a house if he had an opportunity for doing so,
 
 - [Henry George](/wiki/henry-george/) — the author
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the treatise this lecture popularises
+- [Moses](/wiki/moses/) · [Thy Kingdom Come](/wiki/thy-kingdom-come/) — George's two religious addresses on the same injustice, held in full
 - [Agrarian Justice](/wiki/agrarian-justice/) — Paine's 1797 pamphlet, the wiki's other founding primary text
 - [Joseph Fels](/wiki/joseph-fels/) — whose fund reprinted this address
 - [Single Tax](/wiki/single-tax/) · [Land Monopoly](/wiki/land-monopoly/) — the remedy and the diagnosis

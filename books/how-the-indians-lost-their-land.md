@@ -94,6 +94,8 @@ Banner's book is a work of legal history, not advocacy, but it implies:
 
 ## See Also
 
+- [Land justice and Indigenous reconciliation](/wiki/land-justice-and-indigenous-reconciliation/) — the honest-intersection page this history anchors
+
 - [Stuart Banner](/wiki/stuart-banner/) — author page
 - [Land as Commons](/wiki/land-as-commons/)
 - [Land Monopoly](/wiki/land-monopoly/)

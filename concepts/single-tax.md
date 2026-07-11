@@ -14,7 +14,7 @@ George was not proposing a modest land tax as one element of a diversified tax s
 
 ## The Movement
 
-The Single Tax movement emerged in the 1880s and reached its peak influence in the 1890s and early 1900s. It attracted followers across the political spectrum — labour unionists who saw it as a path to higher wages, libertarians who saw it as the only just tax, and progressives who saw it as a tool against concentrated wealth.
+The Single Tax movement emerged in the 1880s and reached its peak influence in the 1890s and early 1900s. It attracted followers across the political spectrum — labour unionists who saw it as a path to higher wages, libertarians who saw it as the uniquely just tax, and progressives who saw it as a tool against concentrated wealth.
 
 Key figures in the American movement included **Tom L. Johnson**, mayor of Cleveland (1901–1909) and a significant political reformer; **[Joseph Fels](/wiki/joseph-fels/)**, a soap manufacturer who funded Single Tax campaigns in the US and UK; and **Louis Post**, who served as assistant secretary of labour under Woodrow Wilson.
 
@@ -46,14 +46,19 @@ Burgess argues that "the case argued in this work, the abolition of all taxation
 
 The edited volume [*Now the Synthesis*](/wiki/now-the-synthesis/) (1991) presents the single tax as a "synthesis" between capitalism and socialism — preserving market freedom while restoring the community's claim on economic rent. Editor Richard Noyes frames the book as articulating an "applied philosophy" for the post-Cold War era, arguing that Henry George's principle represents the emerging social synthesis observable in phenomena from UK "planning gain" to ecological tax reform (Noyes 1991, p. 13). (D-claim; interpretive)
 
-Tideman's chapter argues that 100% land value taxation, introduced without compensation, would not be barred by the US constitutional prohibition of uncompensated takings if introduced as a constitutional rather than legislative matter — drawing an analogy to the abolition of slavery (Tideman 1991, p. 56). Busey argues that the single tax offers a "holistic philosophy" for post-socialist societies, presenting it as compatible with both market economics and social justice (Busey 1991, Ch. 4) [VERIFY: page-level citation — the book page notes detailed page cites for this chapter are still needed]. (C-claim; theoretical)
+Tideman's chapter argues that 100% land value taxation, introduced without compensation, would not be barred by the US constitutional prohibition of uncompensated takings if introduced as a constitutional rather than legislative matter — drawing an analogy to the abolition of slavery (Tideman 1991, p. 56). Fred Harrison argues that the single tax offers post-socialist societies the "holistic philosophy" they lack: Gorbachev, he writes, was "willing to leap into the dark without the aid of the holistic philosophy that was a pre-condition of success," whereas Henry George's philosophy "addresses the immediate needs of hungry people while also addressing Gorbachev's larger vision. It is a holistic program, readily available to guide the emergence of post-socialist society" (Harrison 1991, "Post-socialism and the Single Tax: a holistic philosophy," Ch. 4, pp. 77–78). Busey's companion chapter asks whether Georgist "geocracy" "might fill a doctrinal gap and be suitable both for the preservation of freedom and for the resolution of human travail" in Central America (Busey 1991, "Conflict, Ideology and Hope in Central America," Ch. 5, p. 113). (C-claim; theoretical)
 
 ## See Also
 
+- [Johnson: The Case against the Single Tax (1914) — full text](/wiki/johnson-case-against-single-tax-1914/) — the strongest period objection, in the author's own words
+
+- [Colin Clark](/wiki/colin-clark/) — economist whose 25%-of-NNP tax-limit argument is cited here
+- [Physiocrats](/wiki/physiocrats/) — the 18th-c. French school whose *impôt unique* is the direct ancestor of the single tax
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/)
 
 - [Henry George](/wiki/henry-george/) — the movement's originator
 - [Land Value Tax](/wiki/land-value-tax/) — the contemporary policy form
+- [Objection: if LVT is so good, why has almost no one adopted it?](/wiki/lvt-not-widely-adopted/) — the revealed-preference challenge and why the pure single tax stays rare
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/) — the proposal's persuasive career, evidence map, and deployment guidance
 - [Georgism](/wiki/georgism/) — the broader philosophy
 - [Charles Albro Barker](/wiki/charles-albro-barker/) — George's definitive biographer
@@ -64,7 +69,7 @@ Tideman's chapter argues that 100% land value taxation, introduced without compe
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — used for the proposal's original statement (A-claims). [wiki summary](/wiki/progress-and-poverty/)
-2. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the movement's political history (A/B-claims; the modern scholarly history, on the wanted-books list for full scan). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+2. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the movement's political history (A/B-claims; the modern scholarly history, on the wanted-books list for full scan). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for the movement's spread and international influence (A-claims). [Book page](/wiki/barker-henry-george-biography/)
 4. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the modern single-tax case and the Physiocratic lineage (A/C-claims). [Book page](/wiki/public-revenue-without-taxation/)
 5. Richard Noyes (ed.), *Now the Synthesis* (London: Shepheard-Walwyn, 1991) — used for the single tax as capitalism-socialism synthesis and Tideman's constitutional argument (C/D-claims). [Book page](/wiki/now-the-synthesis/)

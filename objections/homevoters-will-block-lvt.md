@@ -96,8 +96,17 @@ afterthought.
    [Harvard UP](https://www.hup.harvard.edu/books/9780674015951) ·
    [Internet Archive](https://archive.org/details/homevoterhypothe0000fisc) —
    used for the homevoter mechanism and the undiversifiable-asset argument
-   (A/B-claims; steelman source. Scan depth Light — snippet-corroborated;
-   [VERIFY: chapter cites on direct read]).
+   (A/B-claims; steelman source). Chapter locators (verified against the published
+   table of contents and Fischel's own summary): the undiversifiable-asset argument
+   is the thesis of **Ch. 1, "An Asset-Market Approach to Local Government"** —
+   Fischel's words: "Because homeowners, unlike corporate stockholders, cannot
+   diversify their largest asset — their home — they become active in the governance
+   of municipal corporations. They 'vote their homes' in selecting public officials
+   or in plebiscites" (author's abstract, SSRN 294711; same claim on the HUP jacket).
+   The property-tax-revolt case is **Ch. 5, "Serrano and the California Tax Revolt"**
+   (Proposition 13); the exclusionary-zoning / homevoter-as-NIMBY mechanism runs
+   through **Ch. 3 ("Capitalization, Zoning, and the Tiebout Hypothesis")** and
+   **Chs. 9–10** on how homevoters remade metropolitan areas.
 2. Elizabeth Plummer (2010) and Bowman & Bell (2008) — the distributional
    incidence studies. [Plummer](/wiki/plummer-lvt-distribution/) ·
    [Bowman & Bell](/wiki/bowman-bell-lvt-distribution/) — used for the

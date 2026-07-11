@@ -38,6 +38,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Garden City Movement](/wiki/garden-city-movement/) — Howard's Garden Cities — a built land-value-capture precedent
 - [Betterment Levy](/wiki/betterment-levy/)
 
 - [Unearned Increment](/wiki/unearned-increment/) · [Taiwan](/wiki/taiwan/) · [Singapore](/wiki/singapore/)

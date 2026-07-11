@@ -216,6 +216,10 @@ the wiki; the extensions beyond land are newer and thinner.
 
 ## See Also
 
+- [Greenwood & Scharfstein](/wiki/greenwood-scharfstein-growth-of-finance/) — finance 2.8%→8.3% of US GDP · [Bazot](/wiki/bazot-cost-of-finance-europe/) — the European unit-cost replication
+
+- [Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/) — the talent-allocation and growth evidence behind this narrative
+
 - [Corporate profits are increasingly rents](/wiki/corporate-profits-increasingly-rents/) — the firm-level outcome page this narrative draws on
 - [Rentier](/wiki/rentier/)
 

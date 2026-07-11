@@ -26,7 +26,7 @@ The brief presents Census Bureau data showing that the majority of U.S. industri
 
 The brief reports that returns on invested capital for publicly-traded U.S. nonfinancial firms have become increasingly concentrated. The 90th percentile firm sees returns on invested capital more than five times the median, up from a ratio closer to two "just a quarter of a century ago." The CEA frames this as potentially reflecting economic rents — defined as "returns to the factors of production in excess of what would be necessary to keep them in operation" — and notes that the rising spread on return to invested capital relative to Treasury bonds "may suggest" profits exceeding firms' cost of capital.
 
-This finding closely parallels the firm-level ROIC dispersion evidence in [Furman & Orszag (2015)](/wiki/furman-orszag-firm-rents/), which the CEA brief cites in its reference list. Both documents report the same 90th-to-median ratio of approximately five (or more), though the CEA brief presents it more concisely and without Furman and Orszag's caveats about whether dispersion necessarily proves rents.
+This finding closely parallels the firm-level ROIC dispersion evidence in [Furman & Orszag (2015)](/wiki/furman-orszag-firm-rents/), which the CEA brief cites in its reference list. Both documents report the same 90th-to-median ratio of approximately five (or more), though the CEA brief presents it more concisely and without Furman and Orszag's caveats about whether dispersion necessarily indicates rents.
 
 ### Declining Business and Labor Dynamism
 

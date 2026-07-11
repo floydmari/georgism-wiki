@@ -67,7 +67,7 @@ Barker states he began as an outsider to Georgism with a Republican/Socialist/Ne
 
 ### Publication Date
 
-Published in 1955, the biography predates much subsequent Georgist scholarship. Some interpretations have been updated by later work (e.g., the Barker 1991 biography by Andelson, and the centenary literature of the 1970s–2000s). [VERIFY: whether specific factual claims have been superseded]
+Published in 1955, the biography predates much subsequent Georgist scholarship, including the centenary literature of the 1970s–2000s (e.g., Robert V. Andelson's 1979 edited volume *Critics of Henry George*). It is nonetheless still widely regarded as the definitive scholarly biography of George and has not been comprehensively superseded; later work has supplemented rather than displaced it.
 
 ### California Focus
 
@@ -103,6 +103,8 @@ Barker devotes disproportionate attention to the California period, which he ack
 - [Philip Wicksteed](/wiki/philip-wicksteed/) — English intellectual influence
 
 ## See Also
+
+- [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the son's primary biography this academic life builds on and argues with
 
 - [Henry George](/wiki/henry-george/)
 - [Progress and Poverty](/wiki/progress-and-poverty/)

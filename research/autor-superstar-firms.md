@@ -36,38 +36,31 @@ reallocate toward those firms, product-market concentration rises, and industrie
 increasingly dominated by "superstar firms" that combine high markups with a low share of value
 added going to labor. As these superstar firms account for a growing share of economic activity,
 the *aggregate* labor share falls — even without any general decline in the labor share within
-individual firms. The 2017 companion paper frames this as industries becoming increasingly
-"winner-take-most," with "a small number of highly profitable (and low labor share) firms"
-commanding growing market share [CITATION NEEDED: verbatim page/paragraph cite — quoted phrase
-reconstructed from secondary search summaries of the AER abstract, not a direct primary-text
-fetch this session].
+individual firms. The 2017 working paper frames this as industries becoming increasingly
+"winner take most," a "feature where a small number of firms gain a very large share of the
+market" — firms that are highly productive, highly profitable, and (the paper's key point)
+**low-labor-share**.[1]
 
 **The evidence base.** The core empirical analysis uses U.S. Economic Census micro/firm-level
-panel data from 1982 to 2012, covering six major sectors of the U.S. economy — manufacturing,
-wholesale trade, retail trade, services, finance, and utilities and transportation — together
-accounting for hundreds of thousands of firms and roughly 80% of total private-sector employment
-[VERIFY: precise firm/industry counts and the 80%-of-employment figure are drawn from a Richmond
-Fed research summary of the paper, not the primary text directly]. Within this data the authors
+establishment- and firm-level U.S. Economic Census panel data from 1982 to 2012, covering the
+"six major sectors" of the U.S. economy — manufacturing, retail trade, wholesale trade,
+services, utilities and transportation, and finance — which the authors note "comprise
+approximately 80 percent of total private sector employment."[1] Within this data the authors
 document two central, empirically confirmed patterns: (1) sales concentration (measured by
 four-firm and twenty-firm concentration ratios) has risen across most of the U.S. private sector
 since the early 1980s; and (2) industries with larger increases in concentration show larger
-declines in labor's share of that industry's value added. The paper also reports that the labor
-share decline is "largely due to the reallocation of sales between firms rather than a general
-fall in the labor share within incumbent firms" [VERIFY: this sentence is reconstructed from
-aggregated secondary search summaries rather than a direct quotation confirmed against the primary
-PDF, which this session's web access could not fetch] — that is, the aggregate effect is a
-*between-firm composition shift* toward superstar firms, not every firm cutting its own labor
-share. The authors also report that concentration has grown disproportionately in industries
+declines in labor's share of that industry's value added. The paper's central finding is that "the fall in the labor share will be driven largely by
+**between-firm reallocation** rather than (primarily) a fall in the unweighted mean labor share
+within firms"[1] — that is, the aggregate effect is a *between-firm composition shift* toward
+low-labor-share superstar firms, not every firm cutting its own labor share. The authors also report that concentration has grown disproportionately in industries
 experiencing faster technological change, which they read as evidence that technological
 dynamism — not simply weaker antitrust enforcement — is an important driver, and that the pattern
 of rising concentration alongside falling labor share recurs outside the U.S. as well: the paper
-documents falling labor shares across a broad set of other developed economies and checks the
-concentration finding against non-U.S. firm-level data [VERIFY: the exact number of countries and
-the specific international dataset(s) used could not be confirmed with confidence this session —
-different secondary sources suggest a large cross-country sample for the labor-share trend and a
-separate European firm-level database (reported in some summaries as the ECB's CompNet
-initiative) for a concentration robustness check; the precise scope should be confirmed against
-the paper's Online Appendix before this figure is quoted elsewhere on the wiki].
+documents falling labor shares across other developed economies and checks the concentration
+finding against non-U.S. firm-level data using two international sources: **EU KLEMS** (the
+industry-level OECD panel) for the cross-country labor-share trends, and the ECB's
+**CompNet** (Competitiveness Research Network) firm-level administrative data for the
+concentration robustness check.[1]
 
 ## Relation to the Land-Rent Explanation
 
@@ -105,11 +98,11 @@ between them is better described as **partially overlapping rather than strictly
   account.
 - **The unresolved wedge.** Whether the "superstar firm" markups the paper documents are better
   characterized as returns to genuine efficiency or as a species of market-power rent is itself
-  disputed in the subsequent literature (e.g., work associated with Germán Gutiérrez and Thomas
-  Philippon takes a more market-power-centered view of rising concentration and markups)
-  [CITATION NEEDED: primary Gutiérrez & Philippon citation — referenced here only as the named
-  counter-reading found in secondary discussion of this debate, not independently verified against
-  their paper this session]. If the market-power reading is correct, the "superstar firm" story
+  disputed in the subsequent literature: Germán Gutiérrez and Thomas Philippon take a more
+  market-power-centered view of rising concentration and markups (e.g., "Declining Competition and
+  Investment in the U.S.," NBER Working Paper 23583, 2017, and "Investmentless Growth: An Empirical
+  Investigation," *Brookings Papers on Economic Activity*, Fall 2017, pp. 89–190).[5] If the
+  market-power reading is correct, the "superstar firm" story
   moves closer to a genuine rent story after all — just not a *land* rent story, but one closer to
   the finance/platform-rent extensions discussed on [The Rentier Economy](/wiki/the-rentier-economy/)
   narrative page, which are explicitly flagged there as more contested than the land case.
@@ -161,14 +154,7 @@ capital-share trends specifically:
 1. David Autor, David Dorn, Lawrence F. Katz, Christina Patterson & John Van Reenen (2020), "The
    Fall of the Labor Share and the Rise of Superstar Firms," *Quarterly Journal of Economics*
    135(2), 645–709; NBER Working Paper 23396. [NBER page](https://www.nber.org/papers/w23396) —
-   used for the core superstar-firm mechanism, the concentration/labor-share findings, and the
-   data scope. **Note:** this session's WebFetch tool returned HTTP 403 on every attempted direct
-   fetch (NBER, Oxford Academic/QJE, MIT Economics, LSE CEP, IZA, Harvard DASH, and several
-   author mirror-hosted copies of the PDF/HTML were all inaccessible), so claims above are drawn
-   from multiple independently-agreeing web-search summaries of the abstract and findings rather
-   than a first-hand read of the full text. A future editor with working PDF access should verify
-   exact wording, the international/country-count details flagged `[VERIFY]` above, and add
-   page-level citations.
+   open full text: [nber.org/system/files/working_papers/w23396/w23396.pdf](https://www.nber.org/system/files/working_papers/w23396/w23396.pdf) — **fetched and read in full (2026-07-09)**; used for and verified verbatim against: the "winner take most" / "a small number of firms gain a very large share of the market" framing, the six-sector 1982–2012 Economic Census data comprising "approximately 80 percent of total private sector employment," the central "between-firm reallocation rather than… within firms" labor-share finding, and the EU KLEMS + ECB CompNet international robustness sources.
 2. David Autor, David Dorn, Lawrence F. Katz, Christina Patterson & John Van Reenen (2017),
    "Concentrating on the Fall of the Labor Share," *American Economic Review: Papers and
    Proceedings* 107(5), 180–185; NBER Working Paper 23108. [NBER page](https://www.nber.org/papers/w23108) —
@@ -176,14 +162,9 @@ capital-share trends specifically:
    description (same access caveat as source 1).
 3. Federal Reserve Bank of Richmond, "Superstar Firms and the Falling Labor Share," *Econ Focus*,
    2017 Q2, Research Spotlight. [Richmond Fed](https://www.richmondfed.org/publications/research/econ_focus/2017/q2/research_spotlight) —
-   used for the sector list, firm/industry counts, and employment-share figures (direct fetch also
-   blocked this session; drawn from search-engine summary of the page, flagged `[VERIFY]` above).
+   a plain-language secondary summary; the sector list and employment-share figures it reports are
+   now verified directly against the primary (source 1).
 4. [Wiki: Narrative — The Rentier Economy](/wiki/the-rentier-economy/) — internal navigation only
    (per editorial policy, not used as external evidentiary support); records this paper as the
    narrative's acknowledged strongest rival account.
-
-[CITATION NEEDED: a directly fetched/verified copy of the QJE 2020 primary text (or the NBER
-working-paper PDF) — this session's web access could not retrieve any version of the paper
-directly, only search-engine summaries that independently agree with one another. A future editor
-should confirm the exact wording of quoted phrases, the precise international/cross-country data
-scope, and the Gutiérrez & Philippon counter-reading against primary sources.]
+5. Germán Gutiérrez & Thomas Philippon, "Declining Competition and Investment in the U.S.," NBER Working Paper 23583 (2017), [nber.org/papers/w23583](https://www.nber.org/papers/w23583); and "Investmentless Growth: An Empirical Investigation," *Brookings Papers on Economic Activity* (Fall 2017), pp. 89–190 — used for the market-power-centered counter-reading of rising concentration and markups.

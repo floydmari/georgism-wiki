@@ -26,9 +26,11 @@ The transition is the **strongest practical obstacle** to LVT and the main reaso
 
 ## See Also
 
+- [Objection: the public-choice critique](/wiki/public-choice-critique/) — the theoretical parent of this objection (Tullock's transitional-gains trap)
+
 - [Land Value Tax](/wiki/land-value-tax/) · [ATCOR](/wiki/atcor/) · [Objection: asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/)
 
 ## Sources
 
-1. Discussion of capitalisation and transition in [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute.
-2. Lars Doucet, *Does Georgism Work?* — transition discussion. [wiki summary](/wiki/doucet-does-georgism-work/)
+1. Discussion of capitalisation and transition in [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute — used for the mechanism by which an LVT capitalises into a one-time fall in land prices borne by current owners.
+2. Lars Doucet, *Does Georgism Work?* — transition discussion. [wiki summary](/wiki/doucet-does-georgism-work/) — used for the phase-in and grandfathering options that soften the transition shock.

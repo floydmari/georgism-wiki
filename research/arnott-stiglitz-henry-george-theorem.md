@@ -8,7 +8,7 @@ source_url: https://cooperative-individualism.org/arnott-richard-and-joseph-stig
 tier: core
 stub: false
 excerpt: "The canonical formalization of the Henry George Theorem: in an optimally sized city, aggregate land rent exactly equals the optimal spending on public goods."
-supports_outcomes: [public-investment-capitalizes-into-land, public-goods-fundable-from-land-rent]
+supports_outcomes: [public-investment-capitalizes-into-land, public-goods-fundable-from-land-rent, taxing-land-raises-productivity]
 ---
 
 ## Summary
@@ -30,4 +30,4 @@ The theorem turns Henry George's intuition into a precise welfare-economics resu
 ## Sources
 
 1. Richard Arnott & Joseph Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *Quarterly Journal of Economics* 93(4):471–500. [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/arnott-stiglitz-henry-george-theorem.pdf)
-2. Joseph Stiglitz (1977), "The Theory of Local Public Goods" — the paper that coined the Henry George Theorem.
+2. Joseph Stiglitz (1977), "The Theory of Local Public Goods" — used as the companion paper that coined the Henry George Theorem and states the result this article formalises. [wiki summary](/wiki/stiglitz-theory-local-public-goods/)

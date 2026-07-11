@@ -20,7 +20,7 @@ from lint_wiki import parse_frontmatter, aslist
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "preview")
-CATEGORIES = ["concepts", "people", "places", "events", "outcomes",
+CATEGORIES = ["concepts", "people", "places", "events", "problems", "benefits",
               "research", "organizations", "objections", "narratives", "books", "texts"]
 
 try:

@@ -43,7 +43,7 @@ The Budget's rejection by the Unionist-dominated House of Lords triggered a cons
 
 ### The Land-Value Duties
 
-Murray documents that the land-value duties — including increment value duty, reversion duty, undeveloped land duty, and mineral rights duty — were among the most contested elements. These duties sought to capture the "unearned increment" of land value, echoing Henry George's principles, though at modest rates rather than the full collection George advocated. [VERIFY: specific rates and implementation details — Ch. V–VI]
+Murray documents that the land-value duties — including increment value duty, reversion duty, undeveloped land duty, and mineral rights duty — were among the most contested elements. These duties sought to capture the "unearned increment" of land value, echoing Henry George's principles, though at modest rates rather than the full collection George advocated. As enacted in the Finance (1909-10) Act 1910, the statutory rates were deliberately modest: increment value duty "at the rate of one pound for every complete five pounds of that value" (20 percent of the realised increment); reversion duty "at the rate of one pound for every complete ten pounds of that value" (10 percent); undeveloped land duty "at the rate of one halfpenny for every twenty shillings of that site value" (½d in the pound, about 0.2 percent of site value a year); and mineral rights duty "at the rate ... of one shilling for every twenty shillings of that rental value" (1s in the pound, or 5 percent).[4]
 
 ## Policy Recommendations
 
@@ -56,7 +56,7 @@ Murray does not offer explicit policy recommendations; the book is a historical 
 ## Nuances and Limits
 
 - Murray's analysis is based primarily on British political archives (Bodleian Library, Beaverbrook Library, British Library, Nuffield College, Public Record Office); the perspective is that of high politics rather than grass-roots reaction.
-- The land-value duties were modest in their rates and were largely evaded in practice; they were repealed in 1920. [VERIFY: implementation outcomes — Ch. XI]
+- The land-value duties were modest in their rates and raised very little revenue, proving unworkable in administration; they were repealed in 1920. Introducing the repeal, Chancellor Austen Chamberlain told the Commons that "these duties in their present form are unworkable" and "have produced hardly any revenue," and that "no Undeveloped Land Duty has been assessed since 1914, although the duty is an annual one."[5] The Finance Act 1920 (s. 57) accordingly repealed the increment value duty, reversion duty, and undeveloped land duty — and ended the statutory obligation to value all land in the United Kingdom — while retaining only the mineral rights duty.[6]
 - Murray focuses on the Liberal party's internal politics; the Unionist and Labour perspectives are treated more briefly.
 - The book was published in 1980 and does not engage with more recent historiography on Edwardian fiscal policy.
 
@@ -97,3 +97,6 @@ Murray does not offer explicit policy recommendations; the book is a historical 
 1. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* (Oxford: Oxford University Press, 1980). — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate).
 2. P. F. Clarke, *Lancashire and the New Liberalism* (Cambridge: Cambridge University Press, 1971) — cited by Murray for the "core of the argument" formulation (B-claim; secondary).
 3. Neal Blewett, study of the 1910 general elections — cited by Murray for working-class support analysis (B-claim; secondary).
+4. Finance (1909-10) Act 1910 (10 Edw. 7 & 1 Geo. 5, c. 8), Part I — the enacting statute for the land-value duties. Statutory rates verified against the original as-enacted text on legislation.gov.uk: [s. 1 increment value duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/1/enacted), [s. 13 reversion duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/13/enacted), [s. 16 undeveloped land duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/16/enacted), [s. 20 mineral rights duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/20/enacted) (primary source; direct statutory quotation).
+5. Austen Chamberlain, "Land Values Duties," HC Deb 19 April 1920, vol. 128, cc. 83–5 — the Chancellor's Budget statement announcing repeal. [Hansard](https://api.parliament.uk/historic-hansard/commons/1920/apr/19/land-values-duties) (primary source; direct quotation).
+6. Finance Act 1920 (10 & 11 Geo. 5, c. 18), [s. 57 "Repeal of land values duties"](https://www.legislation.gov.uk/ukpga/Geo5/10-11/18/section/57/enacted) — repealed the increment value, reversion, and undeveloped land duties and ended the land valuation, expressly excluding the mineral rights duty (primary source; verified against original as-enacted text).

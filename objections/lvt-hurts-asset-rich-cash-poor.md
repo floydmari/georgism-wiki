@@ -30,5 +30,5 @@ The asset-rich/cash-poor case is a **design consideration**, fully handled by de
 
 ## Sources
 
-1. Lars Doucet, *Does Georgism Work?* series — discussion of transition and fairness mechanisms. [wiki summary](/wiki/doucet-does-georgism-work/)
-2. Standard property-tax deferral and circuit-breaker programs (e.g., US state "senior tax deferral" schemes).
+1. Lars Doucet, *Does Georgism Work?* series — discussion of transition and fairness mechanisms. [wiki summary](/wiki/doucet-does-georgism-work/) — used for the fairness framing of the objection and the deferral/exemption responses to it.
+2. Standard property-tax deferral and circuit-breaker programs (e.g., US state "senior tax deferral" schemes) — used as the existing-policy precedent showing the cash-flow problem is routinely solved with deferral until sale or death.

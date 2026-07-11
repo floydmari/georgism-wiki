@@ -75,6 +75,6 @@ Unlike Harrison's policy-oriented books, Patel's focus is on how to profit from 
 
 ## Sources
 
-1. Akhil Patel, *The Secret Wealth Advantage* (Harriman House, 2023). ISBN 978-0-85719-857-0. 346 pp. — primary source for all claims on this page; verified against primary text 2026-07-05 (Scan Depth: Heavy).
+1. Akhil Patel, *The Secret Wealth Advantage* (Harriman House, 2023). ISBN 978-0-85719-857-0. 346 pp. — used as the primary source for all claims on this page (the 18-year-cycle investment thesis); verified against primary text 2026-07-05 (Scan Depth: Heavy).
 2. Fred Harrison, *The Power in the Land* (1983) — extensively cited by Patel; used for the cycle theory framework (C-claim; theoretical).
 3. Homer Hoyt, *One Hundred Years of Land Values in Chicago* (1933) — cited by Patel for the empirical cycle data (B-claim; empirical).
