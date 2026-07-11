@@ -196,10 +196,10 @@ literature; it is not, on its own terms, a source *for* the land-specific claim.
   and thesis that Rognlie, Bonnet et al., and La Cava subsequently re-decompose and substantially
   attribute to land/housing; Piketty's book itself does not establish the land-specific finding,
   so this page's support for the outcome is *indirect* — as essential context and the thesis
-  being refined, not as independent land-specific evidence. [VERIFY: orchestrator should
-  confirm whether `supports_outcomes` is the honest wiring here, or whether this page should be
-  context-only with no `supports_outcomes`, given that the land-specific claim is Rognlie's
-  contribution, not Piketty's.]
+  being refined, not as independent land-specific evidence. (T1 ruling 2026-07-11:
+  context-only wiring confirmed — `supports_outcomes` stays empty, because the land-specific
+  claim is Rognlie's contribution, not Piketty's; the capital-share claim pages correctly cite
+  Rognlie directly with Piketty as the dataset being decomposed.)
 - **Research:** [Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital"](/wiki/rognlie-piketty-note/) —
   the first and most direct critique/re-decomposition of this book's data.
 - **Research:** [Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share"](/wiki/rognlie-capital-share/) —

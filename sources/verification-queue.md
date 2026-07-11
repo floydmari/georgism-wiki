@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-11 by `scripts/verification_queue.py` (33 markers). 
+Generated 2026-07-11 by `scripts/verification_queue.py` (32 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -24,7 +24,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `narratives/the-great-land-robbery.md` — **CITATION NEEDED** empirical work connecting historical land takings to contemporary land-wealth distribution.
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (22)
+## unclassified (T1 triage) (21)
 
 - `concepts/radical-markets.md` — **CITATION NEEDED** specific administrative-cost comparisons — checked 2026-07-11 against the peer-reviewed article version (Posner & Weyl 2017, *JLA* 9(1)); the article develops t
 - `people/homer-hoyt.md` — **VERIFY** Wikipedia is a tertiary source; the career chronology should be reconciled against a citable secondary biographical source such as the Sage Encyclopedia of Geog
@@ -43,7 +43,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/hoyt-chicago-land-values.md` — **CITATION NEEDED** a directly read or quoted excerpt of the 1934 Journal of American History review, beyond its bibliographic listing
 - `research/hudson-killing-the-host.md` — **VERIFY** exact print-edition page numbers for the quoted passages, if precise pagination is later required; unconfirmable from open sources as of 2026-07.
 - `research/natural-common-wealth-economic-rent-canada.md` — **VERIFY** no independent academic, government, or third-party critical assessment of *this specific report's* methodology or figures (e.g., from Statistics Canada, the Fr
-- `research/piketty-capital-21st-century.md` — **VERIFY** orchestrator should confirm whether `supports_outcomes` is the honest wiring here, or whether this page should be context-only with no `supports_outcomes`, give
 - `research/progress-18-6-year-cycle.md` — **VERIFY** whether the Oxford Review 2025 piece engages with cycle-length claims at all — left open; this source is outside this verification sweep's two assigned primarie
 - `research/social-problems.md` — **CITATION NEEDED** a dedicated scholarly treatment of *Social Problems*'s reception and circulation figures, as distinct from *Progress and Poverty*'s, was not located in this pas
 - `research/tideman-plassmann-losses-of-nations.md` — **VERIFY** obtain the primary *Losses of Nations* chapter and confirm whether any combined-G7 loss figure exists and what Harrison's *Boom Bust* Ch. 14 §2 actually states;
