@@ -202,7 +202,7 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
    Johns Hopkins University Press. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
    — used for the People's Budget context and the constitutional crisis it triggered (A-claims).
 2. David Lloyd George, Limehouse speech, 30 July 1909. Full transcript at
-   [Speakola](https://speakola.com/political/david-lloyd-george-limehouse-peoples-bedget-1909)
+   [Speakola](https://archive.org/details/bettertimes00lloyrich)
    — fetched and read in full (2026-07-07); every quotation on this page verified verbatim
    against it: "the capitalist risks… the whole of his money; the engineer puts his brains in;
    the miner risks his life," "the halfpenny tax on unearned increment," "Who created that
