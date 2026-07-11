@@ -8,7 +8,7 @@ evidence_strength: "Moderate–strong (three peer-reviewed Pennsylvania studies 
 supported_by: [plassmann-tideman-construction, oates-schwab-pittsburgh, banzhaf-lavery-pa-sprawl, yang-split-rate-tax-base, brueckner-site-value-taxation, harrison-power-in-the-land]
 challenged_by: [bentick-mills-timing-neutrality, gemmell-grimes-skidmore-nz]
 excerpt: "Across US case studies, shifting property tax off buildings and onto land is followed by more construction — the effect Georgist theory predicts."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-11
 ---
 
 ## The Claim
@@ -28,7 +28,7 @@ When a jurisdiction taxes **land** at a higher rate than **buildings** (a "split
 
 The findings are mutually reinforcing: the Pittsburgh case shows a large effect in one aggressive adopter; the Pennsylvania panels show the effect holds *across* many municipalities, appears specifically as **more dwelling units**, and shows up in the **tax base** itself.
 
-**International corroboration — Victoria, Australia (Harrison 1983):** Harrison (1983) presents Australian state-level data providing independent corroboration from a different country and institutional setting. In Victoria (1966–78), cities taxing only site value (SVR) saw dwelling growth of **+12.9%**, while cities taxing land plus buildings (NAV) saw only **+2.8%** (Harrison 1983, Ch. 15). Building permits in 1975–78 were **39.9%** of the 1966–69 level in SVR cities versus only **9.5%** in NAV cities — a more than fourfold difference (Harrison 1983, Ch. 15). When Caulfield switched from SVR to composite rating in 1969–70, building permits dropped **66%**, compared to a 16% drop in SVR cities (Harrison 1983, Ch. 15). The Australian evidence is observational rather than experimental, but it predates and independently corroborates the Pennsylvania findings from a different continent and tax system.
+**International corroboration — Victoria, Australia (Harrison 1983):** Harrison (1983) presents Australian state-level data providing independent corroboration from a different country and institutional setting. In Victoria (1966–78), cities taxing only site value (SVR) saw dwelling growth of **+12.9%**, while cities taxing land plus buildings (NAV) saw only **+2.8%** (Harrison 1983, Ch. 15). Building permits in 1975–78 were **39.9%** of the 1966–69 level in SVR cities versus only **9.5%** in NAV cities — a more than fourfold difference (Harrison 1983, Ch. 15). When Caulfield switched from SVR to composite rating in 1969–70, building permits dropped **66%**, compared to a 16% drop in SVR cities (Harrison 1983, Ch. 15). The Australian evidence is observational rather than experimental, but it predates and independently corroborates the Pennsylvania findings from a different continent and tax system. A methodologically independent modern study strengthens the Victorian case: Murray & Hermans (2019), using historical Victorian council data in a difference-in-differences design, find that municipalities switching from capital-improved-value rating (land plus buildings) to **site-value** rating saw a **20% increase in the value of new residential construction** — the same direction as Harrison's raw comparison, from a non-movement source with a causal design. The full case, with its self-selection caveats, is at [Victoria's SVR vs NAV rating comparison](/wiki/victoria-svr-nav-comparison/).
 
 ## The Evidence — Paper by Paper
 
@@ -57,7 +57,7 @@ The direction of the effect is consistent, but the honest case has real qualific
 
 **4. A foreign null result.** [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/) studied Auckland's forced move *away* from land-value rating after the 2010 council amalgamation and found little effect on new building consents (only on alterations) over a short two-year window. It is a confounded reform and a short panel, so it does not overturn the Pennsylvania results — but it is a reminder that the construction effect is not automatic in every institutional setting.
 
-**5. External validity.** The rigorous evidence is overwhelmingly from **Pennsylvania**, the principal US jurisdiction permitting split rates. Australia (Harrison) and the New Zealand null point in opposite directions and are, respectively, non-peer-reviewed and short-window. Generalization to very different property-tax institutions remains only partly established.
+**5. External validity.** The rigorous evidence is overwhelmingly from **Pennsylvania**, the principal US jurisdiction permitting split rates. The Australian evidence is stronger than it once was — Harrison's advocacy-book comparison is now backed by the Murray & Hermans (2019) difference-in-differences preprint — but Victorian municipalities self-selected their rating base, and the New Zealand null points the other way over a short window. Generalization to very different property-tax institutions remains only partly established.
 
 ## Strength of Evidence
 
@@ -72,6 +72,7 @@ The direction of the effect is consistent, but the honest case has real qualific
 - [Song & Zenou (2006)](/wiki/song-zenou-property-tax-sprawl/) — the conventional-property-tax-and-sprawl result, kept distinct
 - [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/) — the New Zealand null result
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the Australian SVR vs NAV evidence
+- [Victoria's SVR vs NAV rating comparison (1966–78)](/wiki/victoria-svr-nav-comparison/) — the Australian natural-experiment case page, including the independent Murray & Hermans (2019) corroboration
 - [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — the companion outcome page using the same Australian data
 - [LVT reduces urban sprawl](/wiki/lvt-reduces-sprawl/) — the adjacent claim the density evidence bears on
 
@@ -86,3 +87,4 @@ The direction of the effect is consistent, but the honest case has real qualific
 7. Bentick (1979) / Mills (1981) / Tideman (1982) — the development-timing neutrality debate — [wiki summary](/wiki/bentick-mills-timing-neutrality/). Used for the timing non-neutrality caveat on the welfare interpretation.
 8. Fred Harrison (1983), *The Power in the Land*, Shepheard-Walwyn. [Publisher](https://shepheardwalwyn.com/product/the-power-in-the-land/) · [wiki summary](/wiki/harrison-power-in-the-land/) — used for the Victoria SVR vs NAV dwelling growth and building-permit data (C-claim: empirical data reported in an advocacy book, not peer-reviewed; corroborating, not load-bearing).
 9. Gemmell, Grimes & Skidmore (2019) — Auckland amalgamation and building consents — [wiki summary](/wiki/gemmell-grimes-skidmore-nz/). Used for the short-window foreign null result.
+10. Cameron K. Murray & Jesse Benjamin Hermans (2019), "Land value is a progressive and efficient property tax base: Evidence from Victoria," OSF Preprints — [free PDF](https://osf.io/download/5ddb67506fc7690009d6cfe7/) · [IDEAS/RePEc record](https://ideas.repec.org/p/osf/osfxxx/mxg3j.html). Used for the independent difference-in-differences finding that switching from capital-improved-value to site-value rating is associated with a 20% increase in the value of new residential construction (working paper, not yet peer-reviewed).
