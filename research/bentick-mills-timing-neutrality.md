@@ -69,6 +69,7 @@ practical question becomes an [assessment-design question](/wiki/land-cannot-be-
 
 - [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) — the neutrality-side formal treatment
 - [Nicolaus Tideman](/wiki/nicolaus-tideman/) — author of the rebuttal
+- [Feldstein (1977), The Surprising Incidence of a Tax on Pure Rent](/wiki/feldstein-incidence-pure-rent/) — a *distinct* theoretical challenge to land-tax neutrality/incidence, working through a savings-portfolio channel rather than the development-timing/assessment channel treated here
 
 ## Sources
 

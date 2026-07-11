@@ -96,8 +96,9 @@ frees the land, land taxation makes holding it idle unaffordable.
 - **Rate magnitudes matter and are rarely modelled in the field — but they have been
   simulated.** Most US split-rate experience involves modest rate differentials;
   extrapolating to transformative affordability effects outruns the *observational*
-  data. The gap is partly filled by spatial general-equilibrium simulations of a large
-  shift onto land: DiMasi's computational model of a metropolitan area, moving from a
+  data. The gap is partly filled by
+  [spatial general-equilibrium simulations of a large shift onto land](/wiki/site-value-ge-simulations/):
+  DiMasi's computational model of a metropolitan area, moving from a
   system that does not differentiate land from capital to one taxing land rents "much
   more heavily," finds structural changes including "lower land rents and housing
   prices, higher wages, and a reduced size of the urban area," with a welfare gain "as
@@ -238,15 +239,17 @@ frees the land, land taxation makes holding it idle unaffordable.
     verification note).
 11. Joseph A. DiMasi, "The Effects of Site Value Taxation in an Urban Area: A General
     Equilibrium Computational Approach," *National Tax Journal* 40(4), December 1987.
-    [DOI](https://doi.org/10.1086/ntj41788697) — used for the spatial general-equilibrium
-    simulation in which heavily taxing land rents (rather than capital values) yields
-    "lower land rents and housing prices, higher wages, and a reduced size of the urban
-    area" and a welfare gain up to 6.6% of revenue (B/C-claim; a new source for this
-    wiki, not yet in `sources/registry.csv`).
+    [DOI](https://doi.org/10.1086/ntj41788697) ·
+    [wiki cluster page](/wiki/site-value-ge-simulations/) — used for the spatial
+    general-equilibrium simulation in which heavily taxing land rents (rather than capital
+    values) yields "lower land rents and housing prices, higher wages, and a reduced size
+    of the urban area" and a welfare gain up to 6.6% of revenue (B/C-claim). Abstract
+    verified verbatim; see the cluster page for the full study family.
 12. Andrew F. Haughwout, "Land Taxation in New York City: A General Equilibrium
     Analysis," paper prepared for the conference in honor of Dick Netzer, Federal Reserve
     Bank of New York, 2001.
     [PDF](https://www.newyorkfed.org/medialibrary/media/research/economists/haughwout/netzer_paper.pdf)
-    — used for the calibrated computable-GE simulation of replacing part or all of New
-    York City's tax system with a land tax (C-claim; a new source for this wiki, not yet
-    in `sources/registry.csv`).
+    · [wiki cluster page](/wiki/site-value-ge-simulations/) — used for the calibrated
+    computable-GE simulation of replacing part or all of New York City's tax system with a
+    land tax (C-claim). Full text read; the revenue-neutral caveat (a 21.7% land tax can
+    lower land values) is documented on the cluster page.

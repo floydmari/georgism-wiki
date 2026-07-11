@@ -6,7 +6,7 @@ tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"
 supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, borge-rattso-norway-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, capozza-green-hendershott-residential-land, mieszkowski-property-tax-incidence, zodrow-three-views, hilber-capitalization-synthesis, doucet-does-georgism-work]
-challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents]
+challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents, feldstein-incidence-pure-rent]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
 last_reviewed: 2026-07-11
 ---
@@ -122,6 +122,20 @@ caveats a fair reader should know:
   equilibrium claim; in the short run individual landlords may attempt pass-through
   in tight markets, and the theory says competition unwinds it, not that no tenant
   ever sees a rent notice citing taxes.
+- **A theory-side challenge to *full capitalization* exists — on a different margin.**
+  The claim that the burden lands *entirely* on the owner (full capitalization into a
+  lower land price) is not literally unanimous in theory:
+  [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/) shows that in a
+  general-equilibrium growth model a tax on pure rent is "at least partly shifted" and
+  the land price "may be increased," because taxing land pushes household saving into
+  produced capital. Crucially, that shifting runs to **capital owners** (a lower
+  interest rate) and **workers** (a higher wage) through an economy-wide savings
+  channel — it is **not** a mechanism by which a landlord raises the rent charged to a
+  tenant (pre-tax land rent actually *rises* in his model). So Feldstein qualifies the
+  full-incidence-on-owner claim without vindicating rent pass-through, and the result
+  is itself contested (Calvo-Kotlikoff-Rodriguez 1979; Fane 1984 restore the classical
+  answer). It belongs here as an honest caveat to "theory is unanimous," not as
+  support for the landlord's side.
 
 ## See Also
 

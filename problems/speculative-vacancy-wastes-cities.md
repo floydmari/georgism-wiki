@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, speculative-vacancy, empty-homes, land-banking, underuse, housing]
 stub: false
 evidence_strength: "Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested)"
-supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, prosper-speculative-vacancies]
+supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, prosper-speculative-vacancies, vancouver-empty-homes-tax]
 challenged_by: []
 excerpt: "Even where housing demand is most acute, homes sit empty for years and valuable land is used far below its potential — documented by quasi-experimental tax evidence from France, vacant-lot price data from US metros, and water-meter counts in Melbourne. Magnitude and cause remain contested."
 last_reviewed: 2026-07-10
@@ -55,7 +55,12 @@ Ordered by evidential weight:
    France's TLV produced a 0.8-percentage-point (13%) fall in vacancy in taxed cities,
    concentrated in long-term vacancy, with most freed dwellings becoming primary
    residences. This is the cleanest proof that a meaningful share of urban vacancy is
-   neither frictional nor immovable: it responds to holding costs.
+   neither frictional nor immovable: it responds to holding costs. A second, North
+   American quasi-experiment points the same way:
+   [Vancouver's Empty Homes Tax](/wiki/vancouver-empty-homes-tax/) — North America's
+   first municipal vacancy tax (2017) — cut vacancy by "1.5 percentage points... a 21
+   percent decrease" in an independent difference-in-differences study, though the same
+   study found no effect on rents (availability improved, affordability did not).
 2. **Vacant-lot price evidence** ([Gyourko & Krimmel 2021](/wiki/gyourko-krimmel-zoning-tax/)).
    The gap between what a lot sells for and what its land contributes at the intensive
    margin — the "zoning tax" — reaches six figures per quarter-acre precisely in the

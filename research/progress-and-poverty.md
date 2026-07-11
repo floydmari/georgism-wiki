@@ -14,6 +14,8 @@ excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepen
 
 *Progress and Poverty: An Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth — the Remedy* was written by Henry George and published in 1879. Originally self-published after rejection by major publishers, it became one of the bestselling books of the 19th century and one of the most widely read works of political economy ever written, with millions of copies sold in dozens of translations.
 
+The complete public-domain text is held in this repository — all ten Books, the prefaces, and the book's own index: [**`sources/publicdomain/progress-and-poverty.md`**](../sources/publicdomain/progress-and-poverty.md) (the 1898 Memorial Edition text, transcribed from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308); see EDITORIAL §3b).
+
 ## The Central Question
 
 The book opens with a paradox that George had witnessed first-hand in San Francisco: as the economy grows and technology advances, why do the wages of ordinary workers stagnate and poverty persist or deepen? Classical economists had assumed that economic progress would raise living standards across the board. George found this assumption contradicted by observable reality and set out to find the cause.
@@ -48,5 +50,5 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty*. [Full text online](https://www.henrygeorge.org/pcontents.htm) — used as the primary text for George's argument, structure, and central claims summarised on this page (public domain).
+1. Henry George (1879), *Progress and Poverty*. **Complete text held in this repository:** [`sources/publicdomain/progress-and-poverty.md`](../sources/publicdomain/progress-and-poverty.md) — the text of the Memorial Edition of the *Writings of Henry George*, Vol. I (New York: Doubleday & McClure, 1898), reproducing George's revised text (Preface to the Fourth Edition, dated November 1880), transcribed from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308), fetched 2026-07-11, Gutenberg boilerplate stripped top and bottom with no modernization (EDITORIAL §3b). Also available: [full text at henrygeorge.org](https://www.henrygeorge.org/pcontents.htm). — used as the primary text for George's argument, structure, and central claims summarised on this page (public domain).
 2. Authoritative editions published by the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used as the standard modern edition and custodian of the text.

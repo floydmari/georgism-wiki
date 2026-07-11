@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-11 by `scripts/verification_queue.py` (56 markers). 
+Generated 2026-07-11 by `scripts/verification_queue.py` (47 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -39,10 +39,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `narratives/the-great-land-robbery.md` — **CITATION NEEDED** empirical work connecting historical land takings to contemporary land-wealth distribution.
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (30)
+## unclassified (T1 triage) (21)
 
 - `concepts/radical-markets.md` — **CITATION NEEDED** specific administrative-cost comparisons
-- `people/floyd-marinescu.md` — **VERIFY** fuller biographical detail (business background, other ventures) from independent sources when this stub is backfilled.
 - `people/homer-hoyt.md` — **VERIFY** Wikipedia is a tertiary source; the career chronology should be reconciled against a citable secondary biographical source such as the Sage Encyclopedia of Geog
 - `people/homer-hoyt.md` — **VERIFY** full-text confirmation of sector-model details beyond the abstract.
 - `people/homer-hoyt.md` — **VERIFY** full-text confirmation of Light's specific claims about Hoyt's role.
@@ -51,7 +50,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `places/vancouver.md` — **VERIFY** only the *precise* start-year 1969 (as opposed to the fact of a 50→75 percent step somewhere in that window, now independently corroborated) still rests on Engl
 - `benefits/landlords-cannot-pass-lvt-to-tenants.md` — **CITATION NEEDED** additional quasi-experimental land-tax-specific incidence studies.
 - `narratives/the-tax-you-cant-dodge.md` — **CITATION NEEDED** a cross-country estimate of the assessment gap as a share of potential land-tax revenue — Almy documents the under-revaluation mechanism internationally but doe
-- `research/blaug-henry-george-rebel.md` — **VERIFY** whether Blaug addresses Gaffney *by name* in the article body — do not attribute an explicit anti-Gaffney sentence to Blaug until the full text is read.
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** primary-text confirmation of the full regression tables and sample description.
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** direct access to the full paywalled text (regression tables, sample construction, exact estimation period) — this session verified the paper's existence, citati
 - `research/foldvary-reply-gochenour-caplan.md` — **CITATION NEEDED** the paywalled full text of Foldvary's reply — its section-level counter-arguments.
@@ -59,13 +57,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/gochenour-caplan-search-theoretic.md` — **VERIFY** whether later commentary, including the paywalled full text of Foldvary's reply, specifically challenges the Uganda analogy
 - `research/hoyt-chicago-land-values.md` — **CITATION NEEDED** a directly read or quoted excerpt of the 1934 Journal of American History review, beyond its bibliographic listing
 - `research/hudson-killing-the-host.md` — **VERIFY** exact print-edition page numbers for the quoted passages, if precise pagination is later required; unconfirmable from open sources as of 2026-07.
-- `research/mohammad-rail-meta-analysis.md` — **VERIFY** the exact direction and magnitude of the land-use-type differences, and which land-use category shows the largest uplift
-- `research/mohammad-rail-meta-analysis.md` — **VERIFY** precise magnitude of the commuter-rail-vs-LRT gap and how heavy rail/metro compares to both
-- `research/mohammad-rail-meta-analysis.md` — **VERIFY** this distance-band finding via direct access to the published tables, and whether it applies uniformly across land uses
-- `research/mohammad-rail-meta-analysis.md` — **VERIFY** specific coefficient estimates for maturity and region
-- `research/mohammad-rail-meta-analysis.md` — **VERIFY** markers above. ## Relation to the Georgist Case This paper is significant for the Georgist case not because it advances Georgist theory, but because it is **ind
-- `research/mohammad-rail-meta-analysis.md` — **VERIFY** above accordingly. - **The paper measures capitalization, not welfare.** It says land near rail becomes more valuable; it does not by itself establish who captu
-- `research/mohammad-rail-meta-analysis.md` — **VERIFY** the paper's pooled/average effect-size estimate(s), exact land-use-type breakdown, and precise coefficient magnitudes for rail mode, distance band, system matur
 - `research/natural-common-wealth-economic-rent-canada.md` — **VERIFY** no independent academic, government, or third-party critical assessment of *this specific report's* methodology or figures (e.g., from Statistics Canada, the Fr
 - `research/piketty-capital-21st-century.md` — **VERIFY** orchestrator should confirm whether `supports_outcomes` is the honest wiring here, or whether this page should be context-only with no `supports_outcomes`, give
 - `research/progress-18-6-year-cycle.md` — **VERIFY** whether the Oxford Review 2025 piece engages with cycle-length claims at all — left open; this source is outside this verification sweep's two assigned primarie
