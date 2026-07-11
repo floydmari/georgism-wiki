@@ -17,6 +17,7 @@ The Campaign produces briefings and policy arguments aimed at trade unionists, L
 
 ## See Also
 
+- [Fabian Society](/wiki/fabian-society/) — the 1884 organisation whose early economics drew heavily on Henry George's rent theory before broadening into state socialism; the historical predecessor this Campaign's land-focused advocacy echoes.
 - [1909 People's Budget](/wiki/1909-peoples-budget/) · [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/) · [Land Value Tax](/wiki/land-value-tax/)
 
 ## Sources

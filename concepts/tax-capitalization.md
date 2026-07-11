@@ -71,6 +71,7 @@ The wiki carries the capitalization literature directly:
 
 ## See Also
 
+- [Common Agricultural Policy (CAP)](/wiki/common-agricultural-policy/) — the EU's farm-subsidy program as a large-scale, partly-contested case of subsidies capitalizing into land rents and prices
 - [ATCOR](/wiki/atcor/) · [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) · [Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 - [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — the same mechanism applied to public-investment uplift
 - [Objection: Homevoters will never allow it](/wiki/homevoters-will-block-lvt/) — the political economy of capitalization

@@ -40,6 +40,7 @@ holds under idealized conditions its own literature qualifies
 
 ## See Also
 
+- [Stiglitz (2015): Land and Credit in the Distribution of Income and Wealth](/wiki/stiglitz-land-credit-inequality/) — the NBER paper behind Stiglitz's wealth-vs-capital distinction, resolving the page's open citation note on his 2015 land/inequality argument
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [Land Value Tax](/wiki/land-value-tax/)
 - [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/) · [Public goods fundable from land rent](/wiki/public-goods-fundable-from-land-rent/)
 - [William Vickrey](/wiki/william-vickrey/) — the other Nobel-tier public economist in the wiki's orbit

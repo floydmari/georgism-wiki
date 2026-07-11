@@ -30,6 +30,7 @@ The 2008 collapse confirmed the prediction with notable accuracy.
 
 ## See Also
 
+- [Donald Shoup](/wiki/donald-shoup/) — UCLA economist whose 1980 deferred-assessment proposal, cited in Harrison's *Power in the Land*, answers the asset-rich/cash-poor objection to LVT
 - [Henry George](/wiki/henry-george/) — the intellectual tradition
 - [Mason Gaffney](/wiki/mason-gaffney/) — co-author of *The Corruption of Economics*
 - [Homer Hoyt](/wiki/homer-hoyt/) — the economist whose Chicago land-value data founded the 18-year cycle

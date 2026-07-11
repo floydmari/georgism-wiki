@@ -161,6 +161,7 @@ frees the land, land taxation makes holding it idle unaffordable.
 
 ## See Also
 
+- [San Francisco](/wiki/san-francisco/) — flagship case study: land is roughly 71% of average home value in the city, and its acute shortage has driven recurring local land-value-tax proposals
 - [The Barker Review (2003–04)](/wiki/barker-review-housing-supply/) — the UK's official supply diagnosis (stub)
 
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) — the evidence page, contested rating and all

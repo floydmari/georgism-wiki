@@ -29,6 +29,8 @@ George's influence crossed ideological lines in ways unusual for any single thin
 
 ## See Also
 
+- [Andelson (ed.), Critics of Henry George (1979)](/wiki/andelson-critics-of-henry-george/) — the standard scholarly anthology collecting and appraising every major criticism of Progress and Poverty
+- [Karl Marx](/wiki/karl-marx/) — George's chief rival diagnosis of poverty amid progress; Marx privately dismissed George's land-value tax as a bourgeois half-measure in an 1881 letter.
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
 - [The Crime of Poverty](/wiki/crime-of-poverty/) (1885) — his most famous popular lecture, held in full
 - [Moses](/wiki/moses/) (1878) — his lecture reading the Mosaic land laws as a design against inequality, held in full

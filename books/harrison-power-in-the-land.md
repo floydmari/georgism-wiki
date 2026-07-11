@@ -106,6 +106,7 @@ Harrison's argument that the optimal speculative holding period is 15–16 years
 
 ## See Also
 
+- [Jamaica's Land Value Taxation (1957-1974)](/wiki/jamaica-land-value-tax/) — the book's case study of a national unimproved-value tax and its 1974 revaluation aftermath
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Harrison, Boom Bust](/wiki/harrison-boom-bust/) — Harrison's 2005 sequel
 - [Land Speculation](/wiki/land-speculation/)

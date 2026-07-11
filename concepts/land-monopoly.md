@@ -24,6 +24,7 @@ Land monopoly has direct implications for housing affordability. When land in de
 
 ## See Also
 
+- [Pistor, The Code of Capital](/wiki/pistor-code-of-capital/) — how law itself manufactures rent-bearing assets, generalizing the land-monopoly mechanism to IP and finance
 - [Fairlie — A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/)
 
 - [Speculative Vacancy](/wiki/speculative-vacancy/)

@@ -81,6 +81,7 @@ The land-cycle reading's evidence base has genuine strengths but also acknowledg
 
 ## See Also
 
+- [Alan Greenspan](/wiki/alan-greenspan/) — Fed Chairman 1987-2006 whose denial of an identifiable housing bubble is the Georgist tradition's leading case study for the limits of monetary-policy-only readings of the cycle
 - [Land Bubble](/wiki/land-bubble/)
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the specific periodicity claim and its evidence

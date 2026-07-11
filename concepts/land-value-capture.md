@@ -24,6 +24,7 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 
 ## See Also
 
+- [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — a 19th-century case of infrastructure financed by capturing land value, exempting improvements from tax entirely.
 - [Betterment Levy](/wiki/betterment-levy/)
 
 - [Unearned Increment](/wiki/unearned-increment/) · [Taiwan](/wiki/taiwan/) · [Singapore](/wiki/singapore/)

@@ -27,6 +27,7 @@ rates can over-attract population to rich-base jurisdictions.[1]
 
 ## See Also
 
+- [Marshall's Objection to the Single Tax](/wiki/marshall-single-tax-objection/) — the canonical Marshall–George quasi-rent debate, steelmanned and assessed
 - [John Bates Clark](/wiki/john-bates-clark/) — the American merger Marshall did not fully join
 - [Economic Theory in Retrospect (book)](/wiki/economic-theory-in-retrospect/) · [The Corruption of Economics (book)](/wiki/gaffney-harrison-corruption-of-economics/)
 - [Henry George](/wiki/henry-george/) · [Economic Rent](/wiki/economic-rent/)

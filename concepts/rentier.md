@@ -65,6 +65,7 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 
 ## See Also
 
+- [Christophers (2020): Rentier Capitalism](/wiki/christophers-rentier-capitalism/) — book-length survey of seven UK rentier sectors (land, finance, IP, natural resources, contracts) applying the rentier concept across the whole economy
 - [Economic Rent](/wiki/economic-rent/)
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [FIRE Sector](/wiki/fire-sector/)

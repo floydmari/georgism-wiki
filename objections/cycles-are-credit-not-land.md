@@ -96,6 +96,7 @@ attack the same instability from two ends.** Not "cycles are land, not credit," 
 
 ## See Also
 
+- [Hyman Minsky](/wiki/hyman-minsky/) — economist behind the financial instability hypothesis, the objection's central theoretical anchor
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/) — the claims this objection tests
 - [The Great Mortgaging](/wiki/great-mortgaging/) · [Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — why credit and land largely coincide
 - [Knoll, Schularick & Steger — house prices](/wiki/knoll-schularick-steger-house-prices/) — the boom is mostly the land component

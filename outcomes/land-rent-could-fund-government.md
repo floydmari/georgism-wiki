@@ -48,6 +48,7 @@ table's other attributed aggregations.
 
 ## See Also
 
+- [Barr, Smith & Kulkarni (2018): What's Manhattan Worth?](/wiki/barr-manhattan-land-values/) — a transaction-based estimate ($1.74T) of Manhattan's developable land value alone
 - [Tideman, Kumhof, Hudson & Goodhart (2021)](/wiki/goodhart-stimulus/) — the macro-model tax-shift case (stub, pending full read)
 - [Dwyer (2003), Taxable Capacity of Australian Land](/wiki/dwyer-taxable-capacity-australia/) — the national calculation (stub, pending full read)
 

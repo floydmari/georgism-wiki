@@ -163,6 +163,7 @@ The narrative's persuasive work is answering the question every newcomer asks:
 
 ## See Also
 
+- [Academic Purges of Georgist Economists](/wiki/academic-suppression-of-georgists/) — case-level detail on the three academic dismissals Gaffney and Harrison cite as institutional suppression, with independent sourcing that complicates the Georgism-specific motive
 - [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/) — the primary text
 - [Blaug: Henry George — Rebel with a Cause](/wiki/blaug-henry-george-rebel/) — the mainstream counter-source
 - [John Bates Clark](/wiki/john-bates-clark/) — the thesis's central figure

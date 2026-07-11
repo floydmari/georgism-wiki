@@ -77,6 +77,15 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
+- [Miller (2000): "On Fairness and Efficiency"](/wiki/miller-on-fairness-and-efficiency/) — a flagged, unverified citation reportedly behind part of the cycle's 5%-interest/14-year timing mechanism and a rent-privatization health-gradient claim
+- [Japan](/wiki/japan/) — the Meiji land tax that funded industrialization, and the canonical 1955-73 and 1986-91 land-cycle episodes documented by Fred Harrison
+- [Objection: Bubbles Cannot Be Identified in Advance](/wiki/bubbles-cannot-be-identified-in-advance/) — tests the Greenspan doctrine against the land-cycle school's ex-ante prediction record
+- [Land Boom of 1869 and Panic of 1873](/wiki/panic-of-1873/) — the 1869–73 boom/bust pair, including the Crédit Mobilier scandal and Jay Cooke's collapse, that Anderson and Patel catalogue as one node in the recurring 18-year land cycle, and the depression during which Henry George began writing Progress and Poverty
+- [Scissors Mechanism (Diverging Returns to Land and Capital)](/wiki/scissors-mechanism/) — standalone deep-dive on the rising-land/falling-capital-returns divergence summarized in this page's "Scissors" Divergence section
+- [Objection: Government Intervention Can Prevent the Land Cycle](/wiki/government-can-tame-the-cycle/) — the recurring, repeatedly-falsified claim that better policy has eliminated the cycle this concept describes
+- [1973–74 UK Property Crash and Secondary Banking Crisis](/wiki/1974-uk-property-crash/) — the postwar UK land-value peak (1973) and recession (1974) that Harrison's timetable lists as a primary cycle recession, alongside the Bank of England's £1.3bn secondary-banking-crisis lifeboat operation
+- [Kondratiev Long Waves](/wiki/kondratiev-waves/) — the rival ~50-60 year long-cycle theory that Georgist writers integrate with the 18-year land cycle
+- [Objection: Oil Shocks, Not Land, Caused the 1970s Recessions](/wiki/oil-shocks-cause-recessions/) — the conventional 1974-recession explanation Harrison's cycle timing rebuts
 - Gaffney's peer-reviewed cycle application: "A Real-Assets Model of Economic Crises: Will China Crash in 2015?", *AJES* 74 (2015), [DOI](https://onlinelibrary.wiley.com/doi/10.1111/ajes.12093) — forecast published March 2015, months before the Shanghai composite fell over 30% (June–July 2015); documented contemporaneously by Martin Adams on progress.org.
 - Period application: Phil Anderson read Donald Trump's career and 2015-16 rise through the cycle's late-stage "Winner's Curse" phase (progress.org, ~Sept 2015) — an attributed advocate interpretation, cited as such.
 

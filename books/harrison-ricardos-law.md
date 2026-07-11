@@ -89,6 +89,8 @@ The data cited (2003-2004 UK land values, housing stock values) is now two decad
 
 ## See Also
 
+- [Abolition of Feudal Tenures (1660)](/wiki/abolition-of-feudal-tenures-1660/) — the Restoration-era shift of England's revenue base from land to excise, per Harrison's account of the tax clawback
+- [Tax Clawback](/wiki/tax-clawback/) — the concept page for the book's central thesis, with its relationship to ATCOR spelled out
 - [Harrison, Boom Bust](/wiki/harrison-boom-bust/)
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/)
 - [ATCOR](/wiki/atcor/)

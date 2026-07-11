@@ -20,6 +20,7 @@ Australia, and NSW in particular, provides a long-run real-world demonstration t
 
 ## See Also
 
+- [Australia](/wiki/australia/) — the national land-tax history (1895 state taxes, 1910–1952 federal land tax, Henry Tax Review) that NSW's tax sits within
 - [Land Value Tax](/wiki/land-value-tax/) · [Prosper Australia](/wiki/prosper-australia/)
 
 ## Sources

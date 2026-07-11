@@ -69,6 +69,7 @@ The key insight from the assessment literature is that land-value assessment err
 
 ## See Also
 
+- [International Association of Assessing Officers (IAAO)](/wiki/iaao/) — the professional standards body behind mass appraisal and ratio-study methodology
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Site Value](/wiki/site-value/)

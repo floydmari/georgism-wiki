@@ -29,6 +29,8 @@ The thesis is controversial among academic economists but is supported by consid
 
 ## See Also
 
+- [After the Crash: Designing a Depression-Free Economy (2009)](/wiki/gaffney-after-the-crash/) — Gaffney's late-career book-length argument that the 2008 crash followed a predictable ~18-year land-speculation pattern
+- [Gaffney (1994), Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — Gaffney's systematic catalogue of why land is not economically interchangeable with capital
 - [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — signatory
 
 - [Henry George](/wiki/henry-george/) — the intellectual tradition Gaffney defended

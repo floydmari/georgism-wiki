@@ -127,6 +127,7 @@ Harrison acknowledges that homeowners — now the majority — are themselves be
 
 ## See Also
 
+- [John Maynard Keynes](/wiki/john-maynard-keynes/) — the central figure in Harrison's critique of how land dropped out of 20th-century macroeconomics, despite Keynes's own General Theory passage distinguishing land's scarcity from capital's.
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Land Speculation](/wiki/land-speculation/)
 - [The Corruption of Economics](/wiki/the-corruption-of-economics/)

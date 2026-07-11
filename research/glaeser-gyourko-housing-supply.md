@@ -64,6 +64,7 @@ This paper cuts both ways for the Georgist case, and neither direction should be
 
 ## See Also
 
+- [Objection: Planning and Zoning Restrictions, Not Land, Cause High House Prices](/wiki/planning-restrictions-cause-high-prices/) — the queued YIMBY/supply-side objection this paper was flagged as a primary source for; adjudicates the Houston/zoning-vs-land debate.
 - [Saiz (2010), The Geographic Determinants of Housing Supply](/wiki/saiz-housing-supply-elasticity/)
 
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/)

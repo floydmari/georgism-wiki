@@ -39,6 +39,7 @@ Lars Doucet reports that land constitutes approximately **40% of US household we
 
 ## See Also
 
+- [Transfer Earnings](/wiki/transfer-earnings/) — the modern textbook generalization of rent (earnings minus transfer price) that treats Ricardian land rent as the zero-transfer-price limiting case
 - [Geoism](/wiki/geoism/) — the system built on capturing rents of every kind
 
 - [Law of Rent](/wiki/law-of-rent/)
