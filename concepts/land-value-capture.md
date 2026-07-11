@@ -38,6 +38,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Netherlands](/wiki/netherlands/) — municipal 'active land policy' (land acquisition, servicing, and resale/lease) as a non-tax model of land value capture, alongside near-universal developer obligations
 - [London](/wiki/london/) — case study: TfL/GLA found the Jubilee Line Extension, DLR, and North London Line produced 52%, 23%, and 6% land value uplifts respectively, mostly uncaptured by the public
 - [New Towns Act 1946](/wiki/new-towns-act-1946/) — the UK program that built 32 new towns on land bought at agricultural prices, capturing the planning-driven uplift to fund development
 - [Compulsory Purchase and Eminent Domain](/wiki/compulsory-purchase/) — the state acquisition power that, when compensation is set at existing-use value, functions as a complementary land-value-capture instrument

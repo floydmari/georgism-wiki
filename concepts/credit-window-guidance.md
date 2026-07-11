@@ -19,6 +19,7 @@ Because a large share of the [18-year land cycle](/wiki/18-year-land-cycle/) and
 
 ## See Also
 
+- [Princes of the Yen (Werner, 2003)](/wiki/werner-princes-of-the-yen/) — the primary book behind the window-guidance mechanism this page describes
 - [Finance's growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the credit-asset feedback dynamic window guidance was sometimes used to restrain
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/)

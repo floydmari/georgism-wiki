@@ -4,6 +4,7 @@ category: concepts
 tags: [land-monopoly, georgism, land-value-tax, rent-seeking, political-economy]
 stub: false
 sources: [george-1879]
+excerpt: "In Georgist analysis, land monopoly is the structural condition in which private landownership lets owners collect economic rent — value created by nature and community growth — without contributing to production, since land cannot be reproduced in response to price."
 ---
 
 ## The Argument

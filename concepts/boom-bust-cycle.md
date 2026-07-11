@@ -81,6 +81,8 @@ The land-cycle reading's evidence base has genuine strengths but also acknowledg
 
 ## See Also
 
+- [Kindleberger & Aliber, Manias, Panics, and Crashes](/wiki/kindleberger-manias-panics-crashes/) — the canonical mainstream, asset-agnostic bubble taxonomy that contrasts with the Georgist land-cycle reading on this page
+- [Germany](/wiki/germany/) — the leading counterexample: decades of stable house prices via tenant protection and relationship banking, not speculative land-price cycles
 - [South Sea Bubble (1720)](/wiki/south-sea-bubble/) — the earliest episode Harrison cites in the securitisation pattern he traces forward to sub-prime mortgages
 - [Railway Mania (1840s Britain)](/wiki/railway-mania/) — a 19th-century precedent for infrastructure-linked speculative booms, financed through Parliament-granted land-acquisition powers
 - [Objection: The 1929 Stock Crash Caused the Great Depression](/wiki/stock-crash-caused-great-depression/) — tests the land-cycle account against the standard stock-crash narrative of the Depression

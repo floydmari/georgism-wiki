@@ -6,6 +6,7 @@ stub: false
 born: 1923
 died: 2020
 sources: [gaffney-1994, gaffney-2009]
+excerpt: "American economist (1923–2020) at UC Riverside, among the most rigorous and prolific 20th-century academic defenders of Henry George’s land economics; co-author of The Corruption of Economics, originator of the ATCOR thesis, and adviser to governments on land taxation."
 ---
 
 ## Life and Career

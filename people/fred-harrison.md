@@ -4,6 +4,7 @@ category: people
 tags: [fred-harrison, georgism, land-value-tax, land-cycle, political-economy]
 stub: false
 sources: [harrison-1983, harrison-2006, gaffney-1994]
+excerpt: "British author and research director of the Land Research Trust, known for applying Georgist rent analysis to modern economies, for his work on the 18-year land cycle, and for his documented prediction of the 2008 financial crisis."
 ---
 
 ## Overview

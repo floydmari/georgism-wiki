@@ -20,6 +20,7 @@ Pennsylvania demonstrates that land value taxation is workable within an ordinar
 
 ## See Also
 
+- [United States](/wiki/united-states/) — the country-level hub page linking Pennsylvania's split-rate laboratory to the rest of the wiki's scattered US material (Alaska, Proposition 13, Henry George's own campaign)
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) · [Pittsburgh](/wiki/pittsburgh/) · [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/)
 
 ## Sources

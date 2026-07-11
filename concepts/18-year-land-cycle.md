@@ -77,6 +77,7 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
+- [The Winner's Curse](/wiki/winners-curse/) — standalone treatment of the auction-theory concept this page's final cycle phase is named for, extended to the UK's 2000 3G spectrum auction
 - [Kuznets Cycles](/wiki/kuznets-cycles/) — the mainstream-recognized ~15-25 year construction/demographic cycle Harrison cites as independent corroboration of the 18-year land cycle
 - [Panic of 1907](/wiki/panic-of-1907/) — the J.P. Morgan-led private bailout that Patel's cycle chronology lists as a documented US real-estate peak year, and that directly led to the founding of the Federal Reserve
 - [Skyscraper Index](/wiki/skyscraper-index/) — the record-tall-building indicator Anderson and Patel cite as a credit-ease and land-speculation signal within the cycle

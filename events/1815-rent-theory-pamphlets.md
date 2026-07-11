@@ -21,6 +21,7 @@ Ricardo's fuller elaboration of the argument two years later, in Chapter 2 of *[
 
 ## See Also
 
+- [Edward West](/wiki/edward-west/) — the least-remembered of the four 1815 pamphleteers, whose essay stated diminishing returns and differential rent almost identically to Ricardo's independent version
 - [Law of Rent](/wiki/law-of-rent/) — the theory these pamphlets jointly established
 - [David Ricardo](/wiki/david-ricardo/) — whose 1817 restatement became the canonical version
 - [Repeal of the Corn Laws](/wiki/repeal-of-the-corn-laws/) — the policy fight that prompted the pamphlets

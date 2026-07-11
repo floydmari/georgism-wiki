@@ -171,6 +171,7 @@ Blaug's *Economic Theory in Retrospect* is valuable for the Georgist wiki as:
 
 ## See Also
 
+- [Buchanan (1929): The Historical Approach to Rent and Price Theory](/wiki/buchanan-historical-rent-theory/) — the Ch.3 further-reading survey of classical rent theory from Smith to Marshall
 - [Cord, Henry George: Dreamer or Realist? (1965)](/wiki/cord-george-dreamer-or-realist/) — the standard scholarly study of how economists and historians received George, cited by Blaug as further reading
 - [Objection: Progress and Poverty Was Thirty Years Out of Date](/wiki/progress-and-poverty-outdated/) — Blaug's chronological dismissal of George's classical apparatus, and why it doesn't touch the tax proposal itself
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defence of Georgism
