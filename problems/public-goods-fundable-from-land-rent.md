@@ -35,6 +35,16 @@ estimated agglomeration economies for 17 Japanese metro areas and found no
 evidence that even Tokyo is disproportionately overpopulated — a null that cuts
 in the theorem's favor as a benchmark while underlining how hard it is to test.
 
+A 19th-century historical case shows the financing mechanism working in practice:
+under [California's Wright Act (1887)](/wiki/california-irrigation-districts/),
+irrigation districts issued bonds for dams and canals repaid by an assessment on
+**land value alone**, with improvements exempt — the public work created the land
+value that paid for it. The US Supreme Court upheld the land-value assessment in
+*Fallbrook Irrigation District v. Bradley* (1896), and hundreds of districts formed
+across the Central Valley within a decade. This is a demonstration of the funding
+mechanism, not a test of the theorem's equality claim; the case page carries the
+source caveats.
+
 ## Strength of Evidence
 
 **Strong as theory** — it is a proven welfare-economics result under stated conditions. Empirically, the capitalization of public investment (e.g. transit access) into land values is well documented, supporting the mechanism even if real economies depart from the ideal conditions.
@@ -42,6 +52,7 @@ in the theorem's favor as a benchmark while underlining how hard it is to test.
 ## See Also
 
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [Land Value Capture](/wiki/land-value-capture/)
+- [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — a historical case of public works financed from the land value they created
 
 ## Sources
 

@@ -1,11 +1,9 @@
 ---
 title: "California Irrigation Districts and the Wright Act (1887)"
-category: benefits
-claim_type: benefit
-tags: [benefits, land-value-capture, california, irrigation, history, wright-act]
+category: places
+tags: [places, land-value-capture, california, irrigation, history, wright-act]
 stub: false
 excerpt: "California's 1887 Wright Act let farmers finance irrigation districts through a tax on land value alone, exempting improvements — a documented case of land value capture breaking up speculative landholding, though large ownership persisted and later reforms reversed some gains."
-evidence_strength: "Moderate — a well-documented 19th-century enactment with a clear land-value-only financing mechanism; effects on farm size are real but partial and rest substantially on Georgist-movement sources."
 last_reviewed: 2026-07-11
 ---
 
