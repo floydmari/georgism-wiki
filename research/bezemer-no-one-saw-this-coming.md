@@ -58,10 +58,10 @@ affordable levels is a slump or recession."[1]
 1. Dirk J. Bezemer, "'No One Saw This Coming': Understanding Financial Crisis
    Through Accounting Models," MPRA Paper 15892, June 2009.
    [MPRA (full-text PDF)](https://mpra.ub.uni-muenchen.de/15892/1/MPRA_paper_15892.pdf) ·
-   [IDEAS](https://ideas.repec.org/p/pra/mprapa/15892.html) — full text read
-   directly in this pass; used for thesis, method, venue, the verbatim four
-   selection criteria, the twelve-analyst Table 1 roster (and the verified fact
-   that Foldvary is not among them), and the Harrison quotation.
+   [IDEAS](https://ideas.repec.org/p/pra/mprapa/15892.html) — used for thesis,
+   method, venue, the verbatim four selection criteria, the twelve-analyst Table 1
+   roster (and the verified fact that Foldvary is not among them), and the Harrison
+   quotation; full text read directly in this pass.
 2. Dirk J. Bezemer, "'No one saw this coming' – or did they?" VoxEU/CEPR column.
-   [CEPR](https://cepr.org/voxeu/columns/no-one-saw-coming-or-did-they) — the
-   author's summary (A-claim).
+   [CEPR](https://cepr.org/voxeu/columns/no-one-saw-coming-or-did-they) — used as
+   the author's own summary of the paper (A-claim).

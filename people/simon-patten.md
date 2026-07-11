@@ -17,7 +17,7 @@ Within the Georgist analytical tradition, Patten is discussed by economist [Maso
 
 ## NPOV Note
 
-The quotation is reported by Gaffney at second hand, via Collier (1979), rather than checked here against Patten's original 1908 article; it should be read as Gaffney's characterization of Patten's stated intent, not as independently verified original-source text. [CITATION NEEDED: direct citation to Patten, "The Conflict Theory of Distribution," *Yale Review* 17 (1908): 156–84, p. 219.]
+The quotation is reported by Gaffney at second hand, via Collier (1979), rather than checked here against Patten's original 1908 article; it should be read as Gaffney's characterization of Patten's stated intent, not as independently verified original-source text. The publication venue is confirmed against *The Yale Review*'s own Old-Series archive index, which lists: "Patten, Simon N. The Conflict Theory of Distribution. XVII, 156" — i.e. *The Yale Review* (Old Series) Vol. XVII (1908), article beginning at p. 156 (verified 2026-07-11, [yalereview.org archive](https://yalereview.org/back-issues/archives)). Note: the internal page "p. 219" previously attached to the "must be recast" quotation cannot be correct, as the article begins at p. 156 and a Yale Review article of that period spans well under 60 pages; the exact in-article page of the quotation remains unverified pending a direct read of the original. [CITATION NEEDED: the exact in-article page of the "economic doctrine must be recast" quotation, from a direct read of Patten, "The Conflict Theory of Distribution," *The Yale Review* (O.S.) XVII (1908), pp. 156ff.]
 
 ## See Also
 

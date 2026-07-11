@@ -211,11 +211,9 @@ value in fifteen years — but concludes the yield is inherently small (p. 608):
 
 1. A. C. Pigou, *The Economics of Welfare*, 1st ed. (London: Macmillan and Co., 1920),
    Part IV, Ch. III ("Taxes on Windfalls," pp. 600–608) and Ch. IV ("Taxes on the Public
-   Value of Land," pp. 609–615) — the primary source for every quotation above (A-claim;
+   Value of Land," pp. 609–615) — used as the primary source for every quotation above (A-claim;
    **PUBLIC DOMAIN**, published 1920). Full text: [Internet Archive,
    `economicsofwelfa00pigouoft`](https://archive.org/details/economicsofwelfa00pigouoft)
    (DjVu OCR used for transcription; page numbers are the 1920 edition's running heads).
    The 1932 4th edition hosted at Econlib was **deliberately not used**, its US
    public-domain status being unestablished.
-</content>
-</invoke>

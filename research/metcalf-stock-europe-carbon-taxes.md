@@ -96,7 +96,8 @@ and the EU ETS (Bayer & Aklin).
 
 1. Gilbert E. Metcalf & James H. Stock (2023), "The Macroeconomic Impact of Europe's
    Carbon Taxes," *American Economic Journal: Macroeconomics* 15(3), 265–286. DOI
-   [10.1257/mac.20210052](https://doi.org/10.1257/mac.20210052) — abstract verified
+   [10.1257/mac.20210052](https://doi.org/10.1257/mac.20210052) — used for every key
+   finding on this page; abstract verified
    verbatim and body text (the "no negative impact… zero to modest positive" finding, the
    long-run-growth non-rejection with LP/SVAR p ≈ 0.99, the +2pp-by-year-6 [95% CI −2 to
    +4] cumulative GDP path, the near-zero employment effect, the 4–6%-at-$40/tonne-on-30%

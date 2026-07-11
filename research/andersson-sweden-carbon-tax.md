@@ -96,7 +96,8 @@ evidence already on the claim page.
 
 1. Julius J. Andersson (2019), "Carbon Taxes and CO₂ Emissions: Sweden as a Case
    Study," *American Economic Journal: Economic Policy* 11(4), 1–30. DOI
-   [10.1257/pol.20170144](https://doi.org/10.1257/pol.20170144) — abstract verified
+   [10.1257/pol.20170144](https://doi.org/10.1257/pol.20170144) — used for every
+   key finding on this page; abstract verified
    verbatim and body text (the 6.3%-carbon-tax-alone figure, 1.5 Mt/yr, −0.31 t/capita,
    the US$30→US$132 rate path, the 1990 VAT extension, the three-times-price-elasticity
    salience result, and the placebo-test battery) verified against the AEA-hosted text

@@ -42,7 +42,7 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/miller-on-fairness-and-efficiency.md` — **CITATION NEEDED** pending direct verification against the book's own bibliography. [Book page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 21 of 21
+## needs-unblocked-web (proxy allowlist or manual fetch) — 22 of 22
 
 - `concepts/property-owning-democracy.md` — **CITATION NEEDED** a directly fetchable, stable URL for this background — Wikipedia's "Property-owning democracy" article covers the term's origin but could not be fetched directl
 - `people/donald-shoup.md` — **VERIFY** direct fetch of this PDF was not completed in this research pass; the paper's exact mechanism and conclusions should be confirmed against the primary text in a 
@@ -50,6 +50,7 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `people/homer-hoyt.md` — **VERIFY** ` on several specifics due to a blocked direct fetch of the source. 11. This wiki's [LVT dampens land speculation
 - `people/philip-snowden.md` — **CITATION NEEDED** primary text of the 1931 Finance Act's land value tax clauses themselves, not consulted directly in this session.
 - `people/ramin-shokrizade.md` — **CITATION NEEDED** exact page/quotation from a direct read of Ch. 10.
+- `people/simon-patten.md` — **CITATION NEEDED** the exact in-article page of the "economic doctrine must be recast" quotation, from a direct read of Patten, "The Conflict Theory of Distribution," *The Yale Re
 - `people/steven-cord.md` — **VERIFY** this page could not be independently fetched in full during this research pass; details are drawn from search-engine-indexed excerpts of the obituary text, not 
 - `people/steven-cord.md` — **VERIFY** this page could not be independently fetched in full during this research pass; details are drawn from search-engine-indexed excerpts.
 - `places/australia.md` — **VERIFY** direct page citation for the 1952-abolition-as-destabilising argument against the primary text
@@ -67,4 +68,4 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/vague-brief-history-of-doom.md` — **CITATION NEEDED** a direct read of the Prologue and Chs. 10 and 12, the sections Akhil Patel draws on in *The Secret Wealth Advantage*, for the specific private-debt-to-GDP figur
 
 
-*52 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
+*53 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*

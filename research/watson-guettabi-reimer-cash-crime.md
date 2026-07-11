@@ -87,7 +87,7 @@ case, and it is a data point for preferring **frequent, smoothed** dividend sche
 1. Brett Watson, Mouhcine Guettabi & Matthew Reimer (2020), "Universal Cash and Crime,"
    *The Review of Economics and Statistics*, 102(4): 678–689.
    [DOI](https://doi.org/10.1162/rest_a_00834) ·
-   [IDEAS/RePEc](https://ideas.repec.org/a/tpr/restat/v102y2020i4p678-689.html) — abstract fetched
-   and quoted verbatim; used for the +14% next-day / +10% four-week substance-abuse figures, the
-   −8% property-crime figure, the no-change-in-violent-crime result, and the small-net-annual and
-   small-cost conclusions.
+   [IDEAS/RePEc](https://ideas.repec.org/a/tpr/restat/v102y2020i4p678-689.html) — used for the
+   +14% next-day / +10% four-week substance-abuse figures, the −8% property-crime figure, the
+   no-change-in-violent-crime result, and the small-net-annual and small-cost conclusions;
+   abstract fetched and quoted verbatim.

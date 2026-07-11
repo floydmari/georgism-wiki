@@ -109,18 +109,17 @@ road pricing and the broader case for charging for scarce, commonly-owned assets
 
 1. Jonathan Leape (2006), "The London Congestion Charge," *Journal of Economic
    Perspectives* 20(4), 157–176. DOI
-   [10.1257/jep.20.4.157](https://doi.org/10.1257/jep.20.4.157) — the abstract and the
-   framing quotations ("triumph of economics"; "traffic congestion has declined
-   substantially, and the program is largely popular"; the average-speed opening) were
+   [10.1257/jep.20.4.157](https://doi.org/10.1257/jep.20.4.157) — used for the abstract
+   and the framing quotations ("triumph of economics"; "traffic congestion has declined
+   substantially, and the program is largely popular"; the average-speed opening),
    verified verbatim against the AEA article page and RePEc/IDEAS record this session;
    the aeaweb full-text PDF returned HTTP 403 to this wiki's egress.
    [AEA](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.157) ·
    [RePEc](https://ideas.repec.org/a/aea/jecper/v20y2006i4p157-176.html)
-2. Design details and effect sizes attributed to Leape 2006 (£5→£8→£10 charge; 8-sq-mi
+2. Lancaster University working paper — used for design details and effect sizes attributed to Leape 2006 (£5→£8→£10 charge; 8-sq-mi
    zone; resident and vehicle exemptions; 34% car-distance and ~12% overall-distance
-   reductions; ~30% congestion-delay reduction; £97m net + £70m penalty revenue) as
-   quoted and cited in a peer-reviewed working paper drawing on Leape 2006, verified
-   this session. [Lancaster University Economics WP (London Congestion Charge)](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/lums/economics/working-papers/LondonCongestionCharge.pdf)
+   reductions; ~30% congestion-delay reduction; £97m net + £70m penalty revenue), a
+   peer-reviewed working paper drawing on Leape 2006, verified this session. [Lancaster University Economics WP (London Congestion Charge)](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/lums/economics/working-papers/LondonCongestionCharge.pdf)
 3. Transport for London, *Central London Congestion Charging: Impacts Monitoring —
    Second Annual Report* (April 2004) — primary monitoring source for the 30%
    congestion / 18% fewer entering figures, cross-cited on the concept page.

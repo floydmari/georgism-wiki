@@ -99,7 +99,7 @@ prices, not construction costs, drive long-run housing costs.
 
 1. U.S. Government Accountability Office, *Homelessness: Better HUD Oversight of Data
    Collection Could Improve Estimates of Homeless Population*, **GAO-20-433**, July
-   2020. The $100-rent/~9-percent estimate and the 16→17.4-per-10,000 illustration
+   2020 — used for every figure and quotation on this page. The $100-rent/~9-percent estimate and the 16→17.4-per-10,000 illustration
    (p. 29), the sensitivity-analysis and robustness language (pp. 29–30), the
    omitted-variable-bias caveat, and the fixed-effects model specification (app. II,
    pp. 51ff.) were verified verbatim against the full report PDF this session (fetched

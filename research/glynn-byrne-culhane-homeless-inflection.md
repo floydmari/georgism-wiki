@@ -101,13 +101,13 @@ homelessness.
 
 1. Chris Glynn, Thomas H. Byrne & Dennis P. Culhane, "Inflection points in
    community-level homeless rates," *The Annals of Applied Statistics* 15(2) (2021),
-   1037–1053. DOI [10.1214/20-AOAS1414](https://doi.org/10.1214/20-AOAS1414). The
-   abstract, the three-finding summary (32% ZRI inflection point; six clusters;
-   unobserved-factor contribution), and the San Diego worked example were verified
+   1037–1053. DOI [10.1214/20-AOAS1414](https://doi.org/10.1214/20-AOAS1414) — used
+   for the abstract, the three-finding summary (32% ZRI inflection point; six clusters;
+   unobserved-factor contribution), and the San Diego worked example, all verified
    verbatim against the full-text author copy this session.
    [Author full-text PDF (g-lynn.github.io)](https://g-lynn.github.io/files/GlynnByrneCulhane_2019+.pdf) ·
    [Project Euclid record](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Inflection-points-in-community-level-homeless-rates/10.1214/20-AOAS1414.full)
-2. Published-version abstract phrasing ("the expected homeless rate in a community
-   begins to quickly increase once median rental costs exceed 30% of median income")
-   verified against the Project Euclid article record this session.
+2. Published-version abstract — used for the phrasing "the expected homeless rate in a
+   community begins to quickly increase once median rental costs exceed 30% of median
+   income," verified against the Project Euclid article record this session.
    [Project Euclid](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Inflection-points-in-community-level-homeless-rates/10.1214/20-AOAS1414.full)

@@ -109,8 +109,8 @@ emissions numbers.
 1. Jonas Eliasson, Lars Hultkrantz, Lena Nerhagen & Lena Smidfelt Rosqvist (2009),
    "The Stockholm congestion – charging trial 2006: Overview of effects,"
    *Transportation Research Part A* 43(3), 240–250. DOI
-   [10.1016/j.tra.2008.09.007](https://doi.org/10.1016/j.tra.2008.09.007) — full text
-   fetched and read this session (author-hosted PDF); used for the trial dates and
+   [10.1016/j.tra.2008.09.007](https://doi.org/10.1016/j.tra.2008.09.007) — used for
+   (full text fetched and read this session, author-hosted PDF) the trial dates and
    referendum, the ~22% cordon reduction (target 10–15%), the −23%/−22%/−18%
    peak/mid-day/morning splits, the one-third-to-one-half delay reductions, the ~14%
    inner-city CO₂ reduction, the ~SEK 650m annual social surplus and ~4-year payoff,

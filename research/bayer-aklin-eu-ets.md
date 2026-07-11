@@ -96,7 +96,8 @@ claim page; this research page gives it a full, bidirectionally-wired treatment.
 
 1. Patrick Bayer & Michaël Aklin (2020), "The European Union Emissions Trading System
    reduced CO₂ emissions despite low prices," *PNAS* 117(16), 8804–8812. DOI
-   [10.1073/pnas.1918128117](https://doi.org/10.1073/pnas.1918128117) — abstract and body
+   [10.1073/pnas.1918128117](https://doi.org/10.1073/pnas.1918128117) — used for every
+   key finding on this page; abstract and body
    text (the ~1.2 Gt / 3.8% figure, the 11.5% [95% CI −16.9% to −5.4%] covered-sector
    reduction, the ~7.5%-of-covered-emissions and near-half-of-Kyoto framings, the
    generalized synthetic control method, the "beyond the financial crisis" and "low

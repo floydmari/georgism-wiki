@@ -13,7 +13,7 @@ last_reviewed: 2026-07-11
 
 **Common Ground USA** (Common Ground-U.S.A.) is a national network of American Georgists advocating for land value taxation and the public collection of land and resource rents. It describes its work as "Applying Georgist principles to tax reform," and serves as a connective organisation for local activists, educators, and reformers across the United States.[1]
 
-Its mission statement reads: "Common Ground-U.S.A. is dedicated to the principle that all persons have equal and common rights in the earth and its resources and each individual has an exclusive right to the income from his or her own labor and capital investment. We are also dedicated to support and improve the free market, including purchase, ownership, and sale of real estate."[2]
+Its mission statement reads: "Common Ground-U.S.A. is dedicated to the principle that all persons have equal and common rights in the earth and its resources and each individual has an exclusive right to the income from his or her own labor and capital investment." The statement adds that the organisation is also dedicated to supporting and improving the free market, including the purchase, ownership, and sale of real estate.[2]
 
 The organisation was **founded in 1985**: [Richard A. "Dick" Noyes](/wiki/richard-noyes/) is documented as "one of the founding directors in 1985 of Common Ground-USA" and as editor and publisher of its newsletter *Groundswell* from 1986 to 1993.[3] It is based in Plainfield, Indiana, and operates through regional chapters — including California, Mid-Atlantic, Minnesota, New York City, and Oregon–Washington — and a Better Cities Committee.[1]
 

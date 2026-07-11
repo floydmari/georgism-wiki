@@ -10,7 +10,7 @@ last_reviewed: 2026-07-11
 
 ## The Objection
 
-Paul Krugman has offered one of the most quoted modern dismissals of the Georgist revival. Discussing land value taxation, he reportedly conceded the underlying urban-economics case while doubting its practical scale: "Believe it or not, urban economics models actually do suggest that Georgist taxation would be the right approach at least to finance city growth. But I would just say: I don't think you can raise nearly enough money to run a modern welfare state by taxing land. It's just not a big enough thing."[1][2] The remark is often generalized beyond public finance into a broader claim: that in an economy dominated by services, finance, and intangible capital, land has shrunk to a rounding error compared with the Gilded-Age America in which farmland and urban lots were the dominant form of private wealth.
+Paul Krugman has offered one of the most quoted modern dismissals of the Georgist revival. Discussing land value taxation, he reportedly conceded the underlying urban-economics case while doubting its practical scale: "Believe it or not, urban economics models actually do suggest that Georgist taxation would be the right approach at least to finance city growth. […] I don't think you can raise nearly enough money to run a modern welfare state by taxing land. It's just not a big enough thing."[1][2] The remark is often generalized beyond public finance into a broader claim: that in an economy dominated by services, finance, and intangible capital, land has shrunk to a rounding error compared with the Gilded-Age America in which farmland and urban lots were the dominant form of private wealth.
 
 ## Why People Worry About This
 
@@ -24,7 +24,7 @@ Lars Doucet's *[Land Is a Big Deal](/wiki/land-is-a-big-deal/)* (2022) was writt
 
 - Krugman's own stated position is narrower and more concessive than a flat "land doesn't matter" — he grants the underlying urban-economics theory and objects specifically to fiscal sufficiency for a full welfare state, a claim this page does not re-litigate in depth (see the companion revenue page instead).
 - The $19–65 trillion range for US land value reflects genuine, unresolved methodological disagreement among the twelve estimation approaches Doucet surveys, not a single settled figure.
-- [CITATION NEEDED: a primary, dated source — interview, article, or broadcast transcript — for Krugman's quoted remark, beyond its being carried secondhand in Ch. 11 of Doucet's book and blog series.]
+- The quotation originates in a personal interview: journalist Michael Scott Moore asked Paul Krugman about Henry George in Berlin in 2008, and first published the exchange in his Pacific Standard (Miller-McCune) article "This Land Is Your Land." Moore records Krugman's full remark verbatim — "Believe it or not, urban economics models actually do suggest that Georgist taxation would be the right approach at least to finance city growth. But I would just say: I don't think you can raise nearly enough money to run a modern welfare state by taxing land. It's just not a big enough thing" — and notes the context was health-care financing, Krugman adding "We're having enough trouble trying to make sure we repeal the Bush tax cuts... and trying to shift to a completely different base of taxation is just not going to be on the table" (verified 2026-07-11).
 
 ## Net Assessment
 
@@ -41,3 +41,4 @@ The objection correctly identifies that the Georgist case lives or dies on land'
 
 1. Lars A. Doucet, *Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it* (Shack Simple Press, 2022), Ch. 11 — used for the Krugman quotation and Doucet's framing of "is land a big deal" as a set of testable hypotheses. [Book page](/wiki/land-is-a-big-deal/)
 2. Lars Doucet, "Does Georgism Work?, Part 1: Is Land Really A Big Deal?", *Astral Codex Ten*, 2021 — the freely accessible web version of the same argument, independently carrying the Krugman quotation and the land-magnitude case. [Free article](https://www.astralcodexten.com/p/does-georgism-work-is-land-really)
+3. Michael Scott Moore, "This Land Is Your Land," *Pacific Standard* (Miller-McCune) — the primary source of the Krugman quotation, drawn from Moore's 2008 Berlin interview with Krugman about Henry George. [psmag.com](https://psmag.com/news/this-land-is-your-land-3392/) (verified 2026-07-11).

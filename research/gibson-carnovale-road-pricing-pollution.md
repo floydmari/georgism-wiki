@@ -97,8 +97,8 @@ capstone to the Stockholm and London before/after evaluations.
 
 1. Matthew Gibson & Maria Carnovale (2015), "The effects of road pricing on driver
    behavior and air pollution," *Journal of Urban Economics* 89, 62–73. DOI
-   [10.1016/j.jue.2015.06.005](https://doi.org/10.1016/j.jue.2015.06.005) — full text
-   fetched and read this session (author-hosted copy, Williams College); used for the
+   [10.1016/j.jue.2015.06.005](https://doi.org/10.1016/j.jue.2015.06.005) — used for
+   (full text fetched and read this session, author-hosted copy, Williams College) the
    2012 court injunction and eight-week suspension, the +27,000 entries/day (14.5%)
    effect, the 6–17% air-pollution reduction across CO/PM10/PM2.5, the ~$3 billion/year
    welfare estimate, the intertemporal/spatial substitution and transit-dependence

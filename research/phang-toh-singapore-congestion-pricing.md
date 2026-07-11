@@ -111,8 +111,8 @@ comfortable finding that the early scheme was mis-calibrated.
 ## Sources
 
 1. Sock-Yong Phang & Rex S. Toh, "Road Congestion Pricing in Singapore: 1975 to
-   2003," *Transportation Journal* 43(2), Spring 2004, pp. 16–25 — the abstract and
-   the scheme narrative (ALS 1975 as "a manual system of tolls for multiple entries
+   2003," *Transportation Journal* 43(2), Spring 2004, pp. 16–25 — used for the
+   abstract and the scheme narrative (ALS 1975 as "a manual system of tolls for multiple entries
    into the Restricted Zone"; "the problem of congestion had merely shifted in time
    and place"; the Weekend Car / Off-Peak Car / Road Pricing schemes; ERP 1998
    "charging of tolls per entry, based on vehicle size, route taken, and time of the
@@ -120,7 +120,7 @@ comfortable finding that the early scheme was mis-calibrated.
    Gale/Transportation Journal full text returned an institution-login wall.
    [SMU repository](https://ink.library.smu.edu.sg/soe_research/117/) ·
    [Gale/Transportation Journal](https://go.gale.com/ps/i.do?id=GALE%7CA117772692)
-2. The ~76% Restricted-Zone morning-peak reduction (from ~32,500 vehicles between
+2. ALS literature and World Bank case study — used for the ~76% Restricted-Zone morning-peak reduction (from ~32,500 vehicles between
    7:30–9:30 a.m. before the June 1975 charge to ~7,700 after, with a large shift to
    transit) is the standard ALS statistic recorded in Singapore's land-transport
    history and corroborated across the ALS literature this session; it is quoted

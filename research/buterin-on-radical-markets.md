@@ -22,7 +22,7 @@ Buterin's endorsement was pivotal in spreading land-value and self-assessment id
 
 The endorsement is not unqualified. Buterin distinguishes sharply between land — where the [Harberger tax / COST](/wiki/harberger-tax/) trade-off is favourable because "there's no point in building a house in the first" place is not the issue for a fixed factor — and ordinary consumer property, where he thinks a universal self-assessment tax would fail on **mental transaction costs**. His core objection: forcing people to continuously price everything they own imposes a large cognitive burden and the risk of losing possessions to a mis-set price.
 
-> "Harberger taxes, at least to me, seem like they would lead to these exact kinds of issues multipled by ten; people are not experts at property valuation, and would have to spend a significant amount of time and mental effort figuring out what self-assessed value to put for their house, and they would complain much more if they accidentally put a value that's too low and suddenly find that their house is gone."
+> "Harberger taxes, at least to me, seem like they would lead to these exact kinds of issues multipled by ten; people are not experts at property valuation […] and they would complain much more if they accidentally put a value that's too low and suddenly find that their house is gone."
 
 > "If Harberger taxes were to be applied to smaller property items as well, people would need to juggle a large amount of mental valuations of everything."
 
