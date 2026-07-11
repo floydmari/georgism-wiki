@@ -159,7 +159,13 @@ October 1922 after Conservative backbenchers voted at the Carlton Club to end th
 precipitated by the Chanak crisis; Lloyd George never again held office, though he remained an
 MP until shortly before his death in 1945.[4] Winston Churchill, his one-time ally in the land
 campaign, went on to serve as Chancellor of the Exchequer himself in the 1920s, by which point
-his own enthusiasm for taxing land value had markedly cooled.[7]
+his own enthusiasm for taxing land value had markedly cooled: asked in March 1925 whether he
+proposed "to introduce legislation for the taxation of land values," he declined, prompting a
+Labour member to suggest he be referred "to some of the speeches which he himself made in
+advocating the Land Budget"; and in December 1927, pressed to capture the site values created
+by publicly funded arterial roads, he read the government's position onto the record — "whether
+the Government propose to introduce a Bill for the purpose of taxing site values, the answer is
+in the negative."[7][17]
 
 ## Assessment
 
@@ -227,8 +233,9 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
    (A-claims).
 7. Winston Churchill, *The People's Rights*, Hodder & Stoughton, 1910; see
    [wiki summary](/wiki/churchill-peoples-rights/) — used for Churchill's parallel 1909 campaign
-   and his later cooling toward land taxation as Chancellor in the 1920s (D-claim; see the
-   linked page for `[VERIFY]`/`[CITATION NEEDED]` flags on the latter).
+   (A-claim). His later cooling toward land taxation as Chancellor in the 1920s, formerly a
+   D-claim resting on unverified flags on the linked page, is now verified directly against the
+   primary Hansard record at source 17.
 8. UK Parliament, "The Parliament Acts,"
    [Text](https://www.parliament.uk/about/how/laws/parliamentacts/); History & Policy, "The 1909
    budget and the destruction of the unwritten constitution,"
@@ -293,3 +300,17 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
     — primary; used for the verbatim peerage-creation pledge ("His Majesty would assent… to a
     creation of Peers sufficient in number…") and the final vote (A-claims; fetched and verified
     2026-07-10).
+17. "Land Values (Taxation)," HC Deb 31 March 1925 vol 182 cc1097–8
+    ([Hansard](https://api.parliament.uk/historic-hansard/commons/1925/mar/31/land-values-taxation))
+    and "Arterial Roads (Land Values)," HC Deb 8 December 1927 vol 211 cc1564–6
+    ([Hansard](https://api.parliament.uk/historic-hansard/commons/1927/dec/08/arterial-roads-land-values))
+    — primary; used for Churchill's cooled position on land value taxation as Chancellor
+    (A-claims; both fetched and verified 2026-07-10). In the 1925 exchange, asked "whether he
+    proposes to introduce legislation for the taxation of land values for revenue purposes in
+    order to enable the nation to derive some advantages from unearned increments," Churchill
+    referred the questioner to an earlier answer, and Mr. Maclean interjected: "Will the right
+    hon. Gentleman not refer the hon. Gentleman who asked the question to some of the speeches
+    which he himself made in advocating the Land Budget?" In the 1927 exchange Churchill read
+    the government's answer onto the record: "If the hon. Member's question is to be interpreted
+    as an inquiry whether the Government propose to introduce a Bill for the purpose of taxing
+    site values, the answer is in the negative."

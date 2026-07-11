@@ -70,7 +70,7 @@ contested empirical magnitudes.
   collection of value that already belongs to the public — strengthening the
   "tax land, not labor" argument by denying that land rent capture is taxation in the
   first place.[B]
-- **Martin Adams** makes a contemporary popular case in [*Land: A New Paradigm for a
+- **[Martin Adams](/wiki/martin-adams/)** makes a contemporary popular case in [*Land: A New Paradigm for a
   Thriving World*](/wiki/land-a-new-paradigm/) (2015) that "by allowing some
   people to profit from land, we have privatized community wealth, which allows a few
   to live off the lives of the rest of us" (Adams 2015, Introduction). Adams's

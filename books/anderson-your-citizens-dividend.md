@@ -65,9 +65,12 @@ as evidence.
 ## Accuracy Notes (T1 scan, 2026-07-06)
 
 - **Stale Alaska figure:** the PFD is given as "US$1022" per year (p. 13) in a
-  ©2024 edition — that matches the 2016 dividend; recent dividends have been
-  substantially higher. [VERIFY: pin the vintage against the PFD historical
-  table on next Alaska-page touch.] The wiki's evidence on dividends lives at
+  ©2024 edition — verified against the PFD Division's historical payment table
+  (pfd.alaska.gov, "Summary of Dividend Applications & Payments," retrieved
+  2026-07-10): $1,022.00 is exactly and uniquely the **2016** dividend (2015:
+  $2,072; 2017: $1,100), so the eBook's figure was eight years stale at
+  publication. Recent dividends have been substantially higher (2022: $3,284;
+  2023: $1,312; 2024: $1,702). The wiki's evidence on dividends lives at
   [resource-rent dividends work](/wiki/resource-rent-dividends-work/).
 - **The Great Smoky Mountains study** (pp. 11–12): the eBook's account of the
   Cherokee casino-dividend natural experiment (better schooling, less crime,

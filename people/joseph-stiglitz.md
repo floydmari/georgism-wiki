@@ -20,7 +20,8 @@ Stiglitz has continued to argue that taxing land and rents — rather than labou
 capital — improves both efficiency and equity, notably in his 2014 Roosevelt
 Institute white paper *Reforming Taxation to Promote Growth and Equity*, which
 targets rent-seeking as a central economic problem.[2] In his inequality work
-(*The Price of Inequality*, 2012; the "new theories of wealth" papers, 2015) he
+(*The Price of Inequality*, 2012; the "New Theoretical Perspectives on the
+Distribution of Income and Wealth" working-paper series, 2015) he
 distinguishes **wealth from productive capital**, arguing much measured wealth
 growth is capitalized rents — especially land — rather than new productive
 capacity, the same decomposition the wiki's
@@ -48,4 +49,4 @@ holds under idealized conditions its own literature qualifies
 
 1. Arnott & Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *QJE* — used for the HGT formalization (A/C-claims). [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/)
 2. Joseph Stiglitz (2014), *Reforming Taxation to Promote Growth and Equity*, Roosevelt Institute — used for the contemporary rent-taxation advocacy (A-claims). [PDF](https://rooseveltinstitute.org/wp-content/uploads/2020/07/RI_Reforming_Taxation_White_Paper_201405.pdf)
-3. Joseph Stiglitz, *The Price of Inequality* (2012) and "New Theories of Wealth and Inequality" line of work (c. 2015) — used for the wealth-vs-capital distinction (A/C-claims). [VERIFY: exact paper citation for the 2015 wealth-residual argument on direct read.]
+3. Joseph Stiglitz, *The Price of Inequality* (2012) and Joseph E. Stiglitz, "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual," NBER Working Paper 21189, May 2015 (first of a four-part series, WP 21189–21192) — used for the wealth-vs-capital distinction (A/C-claims). Verified against the paper's abstract on direct read (2026-07-10): "Standard data on savings cannot be reconciled with the increase in the wealth-income ratio: there is a wealth residual. An important component of this is associated with rents: land rents, exploitation rents, and returns on intellectual property. … Explaining why the concepts of 'capital' and 'wealth' are distinct, we show that appropriately defined aggregates for wealth may be (and in the case of some countries appear to be) moving in opposite directions." [NBER](https://www.nber.org/papers/w21189)

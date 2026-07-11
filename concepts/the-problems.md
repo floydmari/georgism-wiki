@@ -20,6 +20,8 @@ Grades come from each page's `evidence_strength` assessment: **Strong** (replica
 - **[Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)** — *Moderate–strong* for the profit rise itself; how much is rent versus efficiency is contested, and the page says so.
 - **[The growth of modern banking is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/)** — *Strong* for the composition claim (long-run cross-country data); the further step that finance income *is* land rent is weaker and carried as attributed.
 
+- **[Housing unaffordability is a land problem, not a construction-cost problem](/wiki/housing-unaffordability-is-a-land-problem/)** — *Strong.* Independent decompositions (140-year cross-country panel; US price-vs-production-cost micro data) converge on land; scoped to high-demand, supply-constrained markets.
+
 ### What that costs us
 
 - **[High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)** — *Emerging.* Theory plus recent macro studies; a young literature, graded accordingly.

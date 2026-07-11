@@ -20,7 +20,7 @@ Richard Noyes is the editor of *Now the Synthesis: Capitalism, Socialism and the
 
 - **Environmentalism and the single tax.** David Richards's chapter argues that the Green movement's environmental goals are best served by taxing land rent rather than production, since taxing production discourages the creation of wealth while taxing rent discourages the hoarding of nature. (D-claim; interpretive)
 
-- **Post-socialism and the single tax.** James Busey's chapter extends the argument to post-socialist Eastern Europe, arguing that the single tax offers a path for transitioning economies that avoids both the failures of state socialism and the rent-seeking of unregulated capitalism. (D-claim; interpretive)
+- **Post-socialism and the single tax.** Fred Harrison's chapter ("Post-socialism and the Single Tax: a holistic philosophy", Ch. 4, pp. 77–111) extends the argument to post-socialist Eastern Europe, arguing that the single tax offers a path for transitioning economies that avoids both the failures of state socialism and the rent-seeking of unregulated capitalism. (D-claim; interpretive)
 
 ## Key Works
 
