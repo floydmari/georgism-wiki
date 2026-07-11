@@ -303,6 +303,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 
 ## See Also
 
+- [Demographic Change Explains House Prices](/wiki/demographics-explain-house-prices/) — adjudicates the standing rival explanation that population trends, not land speculation, drive house-price cycles
+- [Florida Land Boom (1924–26)](/wiki/florida-land-boom-1920s/) — the most famous pure land-speculation mania in US history, ended by a 1926 hurricane after a rail-embargo-driven supply crunch.
+- [Narrative: This Time Is Different (New Era Thinking)](/wiki/this-time-is-different/) — the recurring 'new era' rhetoric that precedes land-cycle peaks, per Reinhart & Rogoff's non-Georgist corroboration and Harrison's account of Homer Hoyt's failed 1933 prediction
 - [Jordà, Schularick & Taylor — The Great Mortgaging](/wiki/great-mortgaging/)
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept this narrative deploys

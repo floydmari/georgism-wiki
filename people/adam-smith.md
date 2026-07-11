@@ -31,10 +31,10 @@ The limits matter as much as the endorsement (developed in full on the [book pag
 
 ## See Also
 
-
 - [Adam Smith's Lectures on Jurisprudence](/wiki/smith-lectures-jurisprudence/) — the same land-tax doctrine (cheap collection, incidence on rent, improvement-neutrality) taught at Glasgow a decade before *The Wealth of Nations*
 - [The Wealth of Nations (Smith)](/wiki/wealth-of-nations/) — the Georgist-lens book page
 - [Taxes upon Rent (Smith, 1776)](/wiki/smith-taxes-upon-rent-1776/) — the full Book V article on taxing rent
+- [François Quesnay](/wiki/francois-quesnay/) — the Physiocrat whose impôt unique on land prefigured the single tax
 - [David Ricardo](/wiki/david-ricardo/) · [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/) · [Land Monopoly](/wiki/land-monopoly/) · [Physiocrats](/wiki/physiocrats/)
 
 ## Sources

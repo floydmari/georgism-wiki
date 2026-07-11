@@ -70,6 +70,12 @@ Several important qualifications distinguish COST from a conventional land value
 
 ## See Also
 
+- [Monopsony](/wiki/monopsony/) — the buyer-side labor-market power concept the book's "Data as Labor" and VIP chapters draw on
+- [Visas Between Individuals Program (VIP)](/wiki/visas-between-individuals-program/) — the book's Ch. 3 immigration proposal extending the rent-capture logic to the wage premium of rich-country residency
+- [Quadratic Voting](/wiki/quadratic-voting/) — the Ch. 2 mechanism-design proposal Radical Markets pairs with the Harberger tax, now given its own definitional page
+- [Eric A. Posner](/wiki/eric-posner/) — the University of Chicago legal scholar who co-authored the book and designed its legal/institutional mechanics
+- [E. Glen Weyl](/wiki/e-glen-weyl/) — co-author of Radical Markets and founder of RadicalxChange, who carried the Harberger-tax revival into mechanism design and tech circles
+- [Horizontal Shareholding (Common Ownership)](/wiki/horizontal-shareholding/) — the Ch. 4 'Dismembering the Octopus' rent-extraction problem Radical Markets proposes Disruptive Antitrust to fix
 - [Harberger Tax (COST)](/wiki/harberger-tax/) — the specific mechanism this page contextualizes
 - [Vitalik Buterin: On Radical Markets](/wiki/buterin-on-radical-markets/) — the endorsement that carried these ideas into tech circles
 - [Land Value Tax](/wiki/land-value-tax/) — the Georgist policy COST generalizes

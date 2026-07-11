@@ -29,6 +29,7 @@ NSW also remains a centre of Georgist research and advocacy through organisation
 
 ## See Also
 
+- [Australia](/wiki/australia/) — the national land-tax history (1895 state taxes, 1910–1952 federal land tax, Henry Tax Review) that NSW's tax sits within
 - [Land Value Tax](/wiki/land-value-tax/) · [Site Value](/wiki/site-value/) — the tax and its unimproved-value base
 - [Prosper Australia](/wiki/prosper-australia/) · [Earthsharing Australia](/wiki/earthsharing-australia/) — the advocacy and research institutions
 - [New Zealand](/wiki/new-zealand/) · [Denmark](/wiki/denmark/) · [Estonia](/wiki/estonia/) — the other long-standing land-tax jurisdictions

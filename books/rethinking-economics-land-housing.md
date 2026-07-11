@@ -243,6 +243,9 @@ The authors explicitly cite Gaffney's *The Corruption of Economics* (1994) as a 
 
 ## See Also
 
+- [John Muellbauer](/wiki/john-muellbauer/) — Oxford economist who wrote this book's foreword and whose own research on land taxes and house-price volatility the book cites
+- [Laurie Macfarlane](/wiki/laurie-macfarlane/) — co-author; economist at UCL's Institute for Innovation and Public Purpose and Future Economy Scotland
+- [House Price-Credit Feedback Cycle](/wiki/house-price-credit-feedback-cycle/) — the dedicated concept page for the book's central Ch. 5 mechanism linking mortgage credit and land prices
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defence of Georgism and LVT
 - [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
 - [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal

@@ -29,6 +29,7 @@ Sun's land principle became constitutional doctrine in the Republic of China (Se
 
 ## See Also
 
+- [Tsingtao (Kiautschou) Land Tax](/wiki/tsingtao-land-tax/) — the 1898–1914 German-colony single tax on land that Schrameier later helped bring to Sun's circle via his son Sun Fo
 - [Taiwan](/wiki/taiwan/) · [Land Value Increment Tax](/wiki/land-value-increment-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [Henry George](/wiki/henry-george/)
 - [The German Reich Wertzuwachssteuer (1911–1913)](/wiki/wertzuwachssteuer-germany/) — the Kiautschou colonial root of the George→Sun→Taiwan lineage
 - [Harberger Tax (COST)](/wiki/harberger-tax/) · [Radical Markets (book)](/wiki/posner-weyl-radical-markets/) — the self-assessment lineage

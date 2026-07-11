@@ -1,0 +1,29 @@
+---
+title: "Scottish Highland Clearances (c. 1750–1860)"
+category: events
+tags: [events, scotland, land-monopoly, enclosure, evictions, 19th-century, stub]
+stub: true
+excerpt: "Forced evictions of tenant farmers across the Scottish Highlands and Islands, c. 1750-1860, as lairds replaced traditional tenant communities with large-scale sheep farms — including the notorious Sutherland Clearances directed by Patrick Sellar, tried and acquitted of culpable homicide in 1816."
+last_reviewed: 2026-07-11
+---
+
+## Overview
+
+The **Highland Clearances** were forced removals of tenant farmers from the Scottish Highlands and Islands, occurring mostly in two phases from roughly 1750 to 1860.[1] The first phase resulted from agricultural improvement: landlords, often under financial pressure from debt, enclosed traditional run-rig farmland and shared grazing and replaced them with large-scale pastoral sheep farms that commanded much higher rents, displacing tenants toward fishing, quarrying, kelp-processing, or coastal crofting.[1] The second phase saw already-overcrowded crofting communities lose their remaining means of subsistence through famine or industrial collapse, culminating in the Highland Potato Famine of the late 1840s and widespread landlord-funded "assisted passage" emigration.[1] Historians caution that the Highland region has been defined differently by different scholars, which "introduces dangers in citing a precise number" for the total displaced; commonly cited figures for the diaspora include an estimated 50,000 Scottish Gaelic speakers who emigrated to Nova Scotia alone between 1815 and 1870.[1]
+
+The most notorious single episode was the **Sutherland Clearances** (from 1807), directed on behalf of Elizabeth, Countess of Sutherland, by factors William Young and Patrick Sellar.[1] An early clearance at Lairg in 1807 removed about 300 people; later clearances in Strathnaver and the Strath of Kildonan (1813–14) provoked armed resistance and the deployment of troops.[1] Sellar was tried in 1816 for culpable homicide and arson after an elderly tenant, Chisholm's mother-in-law, died days after her house was burned during a clearance; he was acquitted, but the episode fixed Sellar's name in the popular memory of the Clearances.[1]
+
+For Georgists, the episode is a stark historical instance of **[land monopoly](/wiki/land-monopoly/)**: legal title concentrated in a small number of landowning families let them reorganize land use and expel long-settled occupiers for commercial gain, while the Gaelic customary principle that clan members held an inalienable right to rent land in clan territory (*dùthchas*) was never recognized in Scots law.[1] The eventual political response, the Crofters' Holdings (Scotland) Act 1886, granted crofters security of tenure and fair-rent rights roughly contemporaneously with the "Three Fs" won by Irish tenants in the [Irish Land War](/wiki/irish-land-war/), and the two episodes are often read together as parallel 19th-century "land question" crises on either side of the Irish Sea.[1] This page was flagged for the wiki via Fred Harrison's *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (2006), which discusses the historical consolidation of land into few hands as background to the book's "tax clawback" thesis; [CITATION NEEDED: this session could not independently verify the specific claim, attributed to Ch. 11, that *Ricardo's Law* discusses the Highland Clearances by name, or what figures or framing it uses — a future editor with the primary text should confirm and, if warranted, add direct citations here.][2]
+
+## See Also
+
+- [Land Monopoly](/wiki/land-monopoly/) — the structural condition the Clearances illustrate
+- [The Irish Land War](/wiki/irish-land-war/) — the parallel and roughly contemporaneous Irish tenant-eviction crisis
+- [Fairlie, A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/) — the broader British enclosure history this episode belongs to
+- [Ricardo's Law (Fred Harrison, book)](/wiki/harrison-ricardos-law/) — the Georgist source proposed as connecting this episode to the wiki's land-monopoly narrative
+- [Unearned Increment](/wiki/unearned-increment/)
+
+## Sources
+
+1. "Highland Clearances," Wikipedia, retrieved 2026-07-11 — used for the periodization, causes, the Sutherland Clearances narrative (Young and Sellar, the Lairg and Kildonan removals, Sellar's 1816 trial), the *dùthchas* concept, the Nova Scotia emigration estimate, the historians' caution against citing a precise total displaced, and the Crofters' Holdings (Scotland) Act 1886. [Wikipedia](https://en.wikipedia.org/wiki/Highland_Clearances)
+2. Fred Harrison, *Ricardo's Law: House Prices and the Great Tax Clawback Scam* (London: Shepheard-Walwyn, 2006) — the discovery source that flagged this topic as wiki-relevant; used only to establish the book's general "tax clawback" framing of historical land concentration. [Wiki summary](/wiki/harrison-ricardos-law/) — [CITATION NEEDED: direct verification of the book's specific discussion of the Highland Clearances, reportedly in Ch. 11.2]

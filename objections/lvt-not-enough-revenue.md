@@ -87,6 +87,7 @@ theory.
 
 ## See Also
 
+- [Land Is Not a Big Deal Anymore (Krugman Objection)](/wiki/land-no-longer-matters/) — the broader claim that land itself is now economically trivial in a services economy, distinct from this page's narrower revenue-sufficiency dispute
 - [Single Tax](/wiki/single-tax/) · [ATCOR](/wiki/atcor/)
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the evidence page
 - [Land is a Big Deal (book)](/wiki/land-is-a-big-deal/) · [Blaug, Economic Theory in Retrospect (book)](/wiki/economic-theory-in-retrospect/)

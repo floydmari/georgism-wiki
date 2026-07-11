@@ -20,6 +20,7 @@ Georgist analysis treats private capture of land rent as the foundational form o
 
 ## See Also
 
+- [Government-Granted Licences and Privileges](/wiki/government-granted-privileges/) — the umbrella concept tying land titles, banking charters, spectrum, and taxi medallions together as one rent-generating structure
 - [Objection: the public-choice critique](/wiki/public-choice-critique/) — rent-seeking theory turned on Georgism itself: Leviathan, assessment discretion, and the transitional-gains trap
 
 - [Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/) — the evidence page: MSV, Baumol, and the honest magnitude caveats

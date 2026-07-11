@@ -35,6 +35,8 @@ A recent mainstream data point supports the narrower reading of Ely's theoretica
 
 ## See Also
 
+
+- [John R. Commons](/wiki/john-r-commons/) — institutional economist and George contemporary
 - [Missemer & Pottier (2025)](/wiki/missemer-pottier-land-labor-capital/)
 
 - [Mason Gaffney](/wiki/mason-gaffney/) — the economist who identifies Ely as an institutional antagonist of George

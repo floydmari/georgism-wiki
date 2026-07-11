@@ -165,6 +165,13 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 
 ## See Also
 
+
+- [Simon Patten](/wiki/simon-patten/) — the anti-George economist in the professionalization story
+- [Objection: "Public Rent Collection Breeds Government Corruption"](/wiki/rent-revenue-breeds-corruption/) — the governance objection this book's 2022 South Africa/Russia/China postscript answers, and the wiki's honest complication (China's own land-sale corruption record)
+- ["The Single Tax Is a Form of Socialism/Communism"](/wiki/lvt-is-socialism/) — the objection documented in this book's postscript, and the Georgist reply
+- [Lawson Purdy](/wiki/lawson-purdy/) — NYC Tax Commissioner (1906-1917) and Georgist administrator named among the movement's establishment-era campaigners
+- [Dmitry Lvov](/wiki/dmitry-lvov/) — the Russian economist Harrison's 2022 postscript describes as sidelined while proposing a rent-based, oligarch-free fiscal system for post-Soviet Russia
+- [Frank Knight](/wiki/frank-knight/) — Chicago School founder named by Gaffney as a chief anti-Georgist economist, author of "The Fallacies in the Single Tax" (1953)
 - [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/) — Doucet's modern empirical defense of Georgism
 - [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST as extension of George's land tax
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent (formalized by Gaffney 2005)

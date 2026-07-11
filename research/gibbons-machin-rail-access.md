@@ -97,6 +97,8 @@ the limit.
 
 ## See Also
 
+
+- [Gibbons & Machin, Paying for Primary Schools](/wiki/gibbons-machin-school-premiums/) — school-quality capitalization into house prices, the amenity-side companion to their rail-access study
 - [Mohammad et al. (2013)](/wiki/mohammad-rail-meta-analysis/) — the systematic evidence across 100+ estimates
 - [Oates (1969)](/wiki/oates-1969-capitalization/) — the founding capitalization study
 - [Henry George Theorem](/wiki/henry-george-theorem/) — the theory this evidence approximates

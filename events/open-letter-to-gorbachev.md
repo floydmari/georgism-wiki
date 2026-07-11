@@ -28,6 +28,7 @@ not taken.
 
 ## See Also
 
+- [Russia and the Post-Soviet Rent Opportunity](/wiki/russia-post-soviet-transition/) — what happened after the letter's advice was not taken: Lvov's rent-based counter-proposal, shock therapy, and the rise of the oligarchs
 - [Nicolaus Tideman](/wiki/nicolaus-tideman/) · [Mason Gaffney](/wiki/mason-gaffney/) · [William Vickrey](/wiki/william-vickrey/)
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/)
 - [The Corruption of Economics (book)](/wiki/gaffney-harrison-corruption-of-economics/)

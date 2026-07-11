@@ -63,6 +63,8 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 
 ## See Also
 
+- [Labor Theory of Value](/wiki/labor-theory-of-value/) — the classical value theory George's rent-based case does not depend on, unlike Marx's
+- [Transfer Earnings](/wiki/transfer-earnings/) — the modern textbook generalization of rent (earnings minus transfer price) that treats Ricardian land rent as the zero-transfer-price limiting case
 - [Geoism](/wiki/geoism/) — the system built on capturing rents of every kind
 
 - [Law of Rent](/wiki/law-of-rent/)

@@ -82,6 +82,7 @@ The honest assessment is that the theoretical mechanism is well-established and 
 
 ## See Also
 
+- [Objection: LVT Causes Over-Development and Environmental Harm](/wiki/lvt-causes-overdevelopment/) — the environmentalist mirror-image objection: the same density mechanism this page credits as a benefit in cities is argued to pressure development of ecologically valuable land
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Banzhaf & Lavery (2010) — Can the Land Tax Help Curb Urban Sprawl?](/wiki/banzhaf-lavery-pa-sprawl/)
 - [Ecological Georgism](/wiki/ecological-georgism/)

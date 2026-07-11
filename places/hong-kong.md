@@ -27,6 +27,7 @@ It also illustrates a tension: because the government benefits from high land pr
 
 ## See Also
 
+- [MTR Corporation](/wiki/mtr-corporation/) — the rail operator whose Rail + Property model captures land-value uplift to fund transit
 - [Public Land Leasing](/wiki/public-land-leasing/) — the mechanism, with the Hong Kong, Singapore, and Canberra cases
 - [Land Value Capture](/wiki/land-value-capture/) · [Singapore](/wiki/singapore/) · [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/)
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the outcome these cases partially evidence

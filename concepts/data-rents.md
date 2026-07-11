@@ -97,6 +97,9 @@ never let the airtight land case lend its certainty to this domain.
 
 ## See Also
 
+- [Virtual Land and Metaverse Real Estate](/wiki/virtual-land/) — a further, more speculative test case: does location-based rent appear even when scarcity is coded rather than natural?
+- [Technofeudalism and Siren Servers](/wiki/technofeudalism/) — the polemical feudal-landlord framing of platform dominance (Lanier's "siren servers," Varoufakis's "cloud rent"), a contested narrative extension of this page's core rent question
+- [Data as Labor](/wiki/data-as-labor/) — the leading redistribution proposal for platform/data rents: compensating users as producers of the data platforms use
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
 
 - [DST incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried (Amazon passed ~half the UK DST to sellers) · [Romer's digital ad tax](/wiki/romer-digital-advertising-tax/) — the attention-rent capture proposal · [Furman Review](/wiki/furman-review-digital-competition/) — the official is-it-rent diagnosis and the dissolve pole

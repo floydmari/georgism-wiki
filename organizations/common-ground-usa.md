@@ -23,6 +23,7 @@ Common Ground USA promotes public education on Georgist economics, supports stat
 
 ## See Also
 
+- [Council of Georgist Organizations](/wiki/council-of-georgist-organizations/) — the dissolved umbrella body whose resources and activities are transitioning to Common Ground USA
 - [International Union for Land Value Taxation](/wiki/international-union-lvt/) · [Richard Noyes](/wiki/richard-noyes/) · [Henry George School](/wiki/henry-george-school/) · [Schalkenbach Foundation](/wiki/schalkenbach-foundation/)
 
 ## Sources

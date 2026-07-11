@@ -29,6 +29,7 @@ Singapore shows a different route to the Georgist goal — public land leasing i
 
 ## See Also
 
+- [South Korea](/wiki/south-korea/) — the Korea Land Corporation's public-development model, a state-led alternative route to capturing land value alongside Singapore's leasing system
 - [Public Land Leasing](/wiki/public-land-leasing/) · [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [Taiwan](/wiki/taiwan/)
 - [Hong Kong](/wiki/hong-kong/) — the other leading leasehold case
 - [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/)

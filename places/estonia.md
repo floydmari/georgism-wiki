@@ -4,6 +4,7 @@ category: places
 tags: [estonia, land-value-tax, georgism, fiscal-policy, eastern-europe]
 stub: false
 sources: [tideman-1999]
+excerpt: "Baltic nation that adopted a tax on land value with no tax on building improvements as part of its post-1991 reforms, making it one of the closest real-world implementations of Henry George’s proposal."
 ---
 
 ## Overview

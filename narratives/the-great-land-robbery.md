@@ -213,6 +213,7 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## See Also
 
+- [Sharecropping](/wiki/sharecropping/) — the post-slavery tenure system that made land monopoly's rent-extraction mechanism concrete for millions of landless Southern farmers
 - [Land and the Black–white wealth gap](/wiki/land-and-the-black-white-wealth-gap/) — the measured US case this narrative generalizes: farmland loss, redlined-out equity, heirs’ property, and the rent-capture-is-not-reparations distinction
 - [Land justice and Indigenous reconciliation](/wiki/land-justice-and-indigenous-reconciliation/) — the shared-diagnosis, divergent-remedies treatment of Indigenous land claims
 

@@ -192,6 +192,9 @@ The Monopoly board game connection: Elizabeth Magie designed *The Landlord's Gam
 
 ## See Also
 
+- [William F. Buckley Jr.](/wiki/william-f-buckley/) — the leading postwar conservative who self-identified as a Georgist, cited in the book's Ch. 15 table of notable economists on LVT
+- [Wyatt (1994): A Critical View of Land Value Taxation as a Progressive Strategy](/wiki/wyatt-critical-view-lvt/) — the one dissenting capitalization study Doucet surveys in Ch. 21, documented here for the honesty mandate
+- [New York City](/wiki/new-york-city/) — the book's Ch.13 case study of the $2.5T citywide / $1.74T Manhattan land-value estimates
 - [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney & Harrison's argument for keeping land separate from capital
 - [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST proposal extending George's land tax to all property
 - [Land Value Tax](/wiki/land-value-tax/) — The traditional Georgist proposal

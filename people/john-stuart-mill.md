@@ -68,6 +68,7 @@ classical tradition rather than outside it.
 
 ## See Also
 
+- [James Mill](/wiki/james-mill/) — his father, who first proposed taxing the future unearned increment of land
 - [Mill on Land and Taxation](/wiki/mill-principles-land/) — the in-depth treatment of his *Principles* Book V argument
 - [Unearned Increment](/wiki/unearned-increment/) — the concept he coined
 - [Ground Rent](/wiki/ground-rent/) · [Economic Rent](/wiki/economic-rent/) — the value his tax would capture

@@ -4,6 +4,7 @@ category: people
 tags: [fred-harrison, georgism, land-value-tax, land-cycle, political-economy]
 stub: false
 sources: [harrison-1983, harrison-2006, gaffney-1994]
+excerpt: "British author and research director of the Land Research Trust, known for applying Georgist rent analysis to modern economies, for his work on the 18-year land cycle, and for his documented prediction of the 2008 financial crisis."
 ---
 
 ## Overview
@@ -30,6 +31,9 @@ The 2008 collapse confirmed the prediction with notable accuracy.
 
 ## See Also
 
+- [Shepheard-Walwyn Publishers](/wiki/shepheard-walwyn/) — the London publisher behind Harrison's *The Power in the Land*, *Boom Bust*, and *Ricardo's Law*
+- [Jones & Harrison, *The Chaos Makers* (1997)](/wiki/jones-chaos-makers/) — the cross-country land-value data underlying Harrison's documented forecast of the 2008 crash
+- [Donald Shoup](/wiki/donald-shoup/) — UCLA economist whose 1980 deferred-assessment proposal, cited in Harrison's *Power in the Land*, answers the asset-rich/cash-poor objection to LVT
 - [Henry George](/wiki/henry-george/) — the intellectual tradition
 - [Mason Gaffney](/wiki/mason-gaffney/) — co-author of *The Corruption of Economics*
 - [Homer Hoyt](/wiki/homer-hoyt/) — the economist whose Chicago land-value data founded the 18-year cycle

@@ -173,6 +173,7 @@ frees the land, land taxation makes holding it idle unaffordable.
 
 ## See Also
 
+- [San Francisco](/wiki/san-francisco/) — flagship case study: land is roughly 71% of average home value in the city, and its acute shortage has driven recurring local land-value-tax proposals
 - [Rising land values and housing costs drive poverty](/wiki/rising-land-costs-drive-poverty/) · [Homelessness is a housing-cost problem](/wiki/homelessness-is-housing-cost-problem/) — the poverty and homelessness evidence behind this narrative
 
 - [The young are increasingly locked out of land wealth](/wiki/young-locked-out-of-land-wealth/) — the intergenerational cohort evidence behind this narrative

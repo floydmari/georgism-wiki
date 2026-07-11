@@ -6,6 +6,7 @@ stub: false
 born: 1923
 died: 2020
 sources: [gaffney-1994, gaffney-2009]
+excerpt: "American economist (1923–2020) at UC Riverside, among the most rigorous and prolific 20th-century academic defenders of Henry George’s land economics; co-author of The Corruption of Economics, originator of the ATCOR thesis, and adviser to governments on land taxation."
 ---
 
 ## Life and Career
@@ -29,6 +30,9 @@ The thesis is controversial among academic economists but is supported by consid
 
 ## See Also
 
+- [Harry Gunnison Brown](/wiki/harry-gunnison-brown/) — earlier academic economist who defended Georgist land theory within orthodox neoclassical economics decades before Gaffney
+- [After the Crash: Designing a Depression-Free Economy (2009)](/wiki/gaffney-after-the-crash/) — Gaffney's late-career book-length argument that the 2008 crash followed a predictable ~18-year land-speculation pattern
+- [Gaffney (1994), Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — Gaffney's systematic catalogue of why land is not economically interchangeable with capital
 - [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — signatory
 
 - [Henry George](/wiki/henry-george/) — the intellectual tradition Gaffney defended

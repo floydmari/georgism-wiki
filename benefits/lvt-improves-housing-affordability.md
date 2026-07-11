@@ -66,6 +66,7 @@ the pairing this page's headline assessment insists on.
 
 ## See Also
 
+- ["LVT Is Useless Without Zoning Reform First"](/wiki/lvt-needs-zoning-reform-first/) — the YIMBY-era sequencing objection to LVT's affordability channel, and the Georgist complementarity response
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/) — how advocates deploy this evidence
 - [Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) — the incidence claim behind the rents channel
 - [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) · [Speculative Vacancy](/wiki/speculative-vacancy/) · [Tax Capitalization](/wiki/tax-capitalization/)

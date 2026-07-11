@@ -48,6 +48,7 @@ The 1954 statute's provisions were phased in gradually rather than implemented a
 
 ## See Also
 
+- [Meiji Land Tax Reform (1873)](/wiki/meiji-land-tax-reform/) — an earlier, non-Georgist Asian precedent for national land-value taxation, later echoed by Taiwan's explicitly Georgist-influenced reforms
 - [Taiwan](/wiki/taiwan/) — the jurisdiction whose modern land policy grew from these reforms
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) — the transaction-based increment tax rooted in the 1954 statute
 - [Sun Yat-sen](/wiki/sun-yat-sen/) — the founding figure whose Georgist-influenced land principle shaped the reform

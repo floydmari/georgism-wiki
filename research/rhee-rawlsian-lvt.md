@@ -20,6 +20,8 @@ Behind Rawls's **veil of ignorance** — not knowing whether one will be born to
 
 ## Bears On
 
+
+- [Property-Owning Democracy](/wiki/property-owning-democracy/) — the Rawlsian institutional frame this paper's argument inhabits
 - **Concept:** [Georgism](/wiki/georgism/) · [Geolibertarianism](/wiki/geolibertarianism/)
 
 ## Sources

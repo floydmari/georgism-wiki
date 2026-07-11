@@ -47,6 +47,7 @@ This paper's relationship to the Georgist case is best described as **complicati
 
 ## See Also
 
+- [Edwards (1984): Site Value Taxation in Australia](/wiki/edwards-site-value-taxation-australia/) — the Australian empirical counterpart to the New Zealand site-value-rating evidence
 - [New Zealand](/wiki/new-zealand/)
 
 - [Plassmann & Tideman (2000): Two-Rate Property Taxes and Construction](/wiki/plassmann-tideman-construction/)
