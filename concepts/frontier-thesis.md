@@ -15,6 +15,7 @@ Georgist and land-cycle writers read the frontier's closure through the lens of 
 
 ## See Also
 
+- [Oklahoma Land Rush (1889)](/wiki/oklahoma-land-rush/) — the vivid single-day scramble for free land that Anderson cites in the same chapter on frontier closure
 - [Margin of Production](/wiki/margin-of-production/) — the Ricardian concept the frontier's free land instantiated
 - [Anderson, *The Secret Life of Real Estate and Banking*](/wiki/anderson-secret-life-real-estate/) — the source connecting frontier closure to the land cycle
 - [Land Speculation](/wiki/land-speculation/) — what the frontier's openness had held in check

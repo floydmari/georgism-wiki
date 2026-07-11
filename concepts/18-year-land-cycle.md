@@ -77,6 +77,8 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 
 ## See Also
 
+- [Irving Fisher](/wiki/irving-fisher/) — economist whose 1933 debt-deflation theory explains the credit-collapse mechanism of the cycle's bust phase
+- [Land Boom of 1818 and Panic of 1819](/wiki/panic-of-1819/) — the earliest US land-price peak (1818) and panic (1819) in Anderson's and Patel's cycle chronologies, preceding the 1836–37 node
 - [The Winner's Curse](/wiki/winners-curse/) — standalone treatment of the auction-theory concept this page's final cycle phase is named for, extended to the UK's 2000 3G spectrum auction
 - [Kuznets Cycles](/wiki/kuznets-cycles/) — the mainstream-recognized ~15-25 year construction/demographic cycle Harrison cites as independent corroboration of the 18-year land cycle
 - [Panic of 1907](/wiki/panic-of-1907/) — the J.P. Morgan-led private bailout that Patel's cycle chronology lists as a documented US real-estate peak year, and that directly led to the founding of the Federal Reserve

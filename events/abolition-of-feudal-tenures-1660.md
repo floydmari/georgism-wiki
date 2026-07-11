@@ -28,6 +28,7 @@ through the 1692 Land Tax and Pitt's 1799 income tax to the fight over the
 
 ## See Also
 
+- [Dissolution of the Monasteries](/wiki/dissolution-of-the-monasteries/) — the earlier Tudor-era event that first put a third of England's land onto a commercial market, setting up the later feudal-to-fiscal shift this Restoration Act completed
 - [Ricardo's Law (Fred Harrison, 2006)](/wiki/harrison-ricardos-law/) — the discovery source for this reading of the Act
 - [David Ricardo](/wiki/david-ricardo/) · [Law of Rent](/wiki/law-of-rent/)
 - [1909 People's Budget](/wiki/1909-peoples-budget/) — the later fight over restoring a land-based revenue base

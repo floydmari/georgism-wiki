@@ -32,6 +32,7 @@ Hallett's specific claim — that a 100% land tax destroys its own tax base — 
 
 ## See Also
 
+- ["A 100% Land Tax Yields Zero Revenue (Laffer Curve)"](/wiki/laffer-curve-applies-to-lvt/) — the closely related objection that a full rent tax is self-defeating by Laffer-curve logic, and why land's fixed supply breaks the analogy
 - [Land Cannot Be Assessed](/wiki/land-cannot-be-assessed/) — the broader, related objection that land value cannot be reliably estimated at all
 - [Tax Capitalization](/wiki/tax-capitalization/) — the mechanism by which a land tax lowers capital (sale) value while leaving rental value untouched
 - [Oates (1969) on Capitalization](/wiki/oates-1969-capitalization/) — empirical grounding for how taxes capitalize into asset prices

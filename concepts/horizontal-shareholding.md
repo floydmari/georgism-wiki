@@ -19,6 +19,7 @@ The empirical common-ownership literature that followed Azar, Schmalz, and Tecu'
 
 ## See Also
 
+- [Azar, Schmalz & Tecu (2018): Anticompetitive Effects of Common Ownership](/wiki/azar-schmalz-tecu-common-ownership/) — the primary empirical paper behind the airline common-ownership finding this page cites
 - [Radical Markets](/wiki/radical-markets/) — Posner and Weyl's book, which proposes "Disruptive Antitrust" as a remedy for horizontal shareholding
 - [Rent-Seeking](/wiki/rent-seeking/) — the broader category of value capture without production that horizontal shareholding is argued to exemplify
 - [Economic Rent](/wiki/economic-rent/) — the general concept of unearned income from control of a scarce position, here applied to concentrated cross-firm ownership rather than land
