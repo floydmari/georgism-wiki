@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, land-speculation, option-value, carrying-cost, appreciation]
 stub: false
 excerpt: "The practice of holding land for expected appreciation rather than productive use — driven by option value and low carrying costs, and distinct from speculative vacancy (a symptom) and the 18-year cycle (a pattern)."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-10
 ---
 
 ## Definition
@@ -32,13 +32,13 @@ A [land value tax](/wiki/land-value-tax/) changes this by taxing the full annual
 
 ### Appreciation Expectations
 
-Speculation depends on beliefs about future price increases. [Case and Shiller (2003)](/wiki/case-shiller-2003-bubble/) surveyed homebuyers in four US cities during the housing bubble and found ten-year price-appreciation expectations of 12–16 percent per year — far above historical norms — providing direct evidence that speculative expectations can become detached from fundamentals.
+Speculation depends on beliefs about future price increases. [Case and Shiller (2003)](/wiki/case-shiller-2003-bubble/) surveyed homebuyers in four US metropolitan areas during the housing bubble and found that mean expected home-price appreciation over the next ten years ranged from **11.7 to 15.7 percent per year** (Milwaukee 11.7%, Los Angeles 13.1%, Boston 14.6%, San Francisco 15.7%) — "even a rate of increase of only 11.7 percent a year means a tripling of value in ten years" (Case & Shiller 2003, p. 324) — providing direct evidence that speculative expectations can become detached from fundamentals.[5]
 
-[Edward Glaeser](/wiki/edward-glaeser/) argues, in his economic history of American real-estate speculation, that buyers are not irrational but rely on "simple heuristic models" — reasonable-seeming extrapolations of recent trends — and systematically underestimate how elastic supply will eventually cap prices. [CITATION NEEDED: page-level citation for Glaeser's heuristic-models argument from the full AER text]
+[Edward Glaeser](/wiki/edward-glaeser/) argues, in his economic history of American real-estate speculation, that buyers are not irrational but rely on simple heuristics — reasonable-seeming extrapolations of recent trends — and systematically underestimate how elastic supply will eventually cap prices: "Buyers don't appear to be irrational but rather cognitively limited investors who work with simple heuristic models, instead of a comprehensive general equilibrium framework" (Glaeser 2013, NBER WP 18825 abstract); the recurring error is "an under-appreciation of the long-run power of elastic supply to push prices downward" (WP p. 13).[2]
 
 ## Historical Pattern
 
-[Homer Hoyt](/wiki/homer-hoyt/), in his 1933 study of Chicago land values from 1830 to 1933, documented a recurring boom-bust rhythm driven by speculative bidding and credit expansion — the founding empirical study of the land cycle. [Fred Harrison](/wiki/fred-harrison/) revived and extended this work, using the ~18-year periodicity to forecast both the early-1990s recession and the 2008 crash.
+[Homer Hoyt](/wiki/homer-hoyt/), in his 1933 study of Chicago land values from 1830 to 1933, documented five great land booms, each following a similar sequence of rising rents, rising prices, new construction, credit expansion — "The building boom is stimulated and sustained by a liberal supply of capital made available by the expansion of credit institutions" (Hoyt 1933, p. 383) — overbuilding, and collapse (the "Sequence of Events in the Chicago Real Estate Cycle," pp. 377–403). It is the founding empirical study of the land cycle, but Hoyt himself denied any fixed rhythm: "there is no definite period of years between one boom and the next" (p. 417).[3] The specific ~18-year periodicity is a later, attributed extension: [Fred Harrison](/wiki/fred-harrison/) revived Hoyt's work and used the claimed ~18-year cycle to forecast both the early-1990s recession and the 2008 crash — a contested practitioner claim examined on the [land speculation causes boom and bust](/wiki/land-speculation-causes-cycles/) narrative page, not a wiki-voice fact.[4]
 
 Glaeser's survey of American real-estate episodes — from 1790s frontier land to the 2000s housing bust — provides mainstream, non-Georgist confirmation that speculative cycles in land and property are a real, recurring, historically dated phenomenon, though his central mechanism (underestimated supply elasticity of housing and cultivable land) differs from the fixed-land-supply premise underlying the standard LVT case.
 
@@ -49,6 +49,20 @@ Land speculation matters because it:
 1. **Withholds land from productive use**, contributing to housing scarcity and inflated prices without adding supply — the mechanism documented on the [speculative vacancy](/wiki/speculative-vacancy/) page.
 2. **Amplifies land-price cycles**, feeding credit expansion during booms and financial distress during busts — the dynamic at the heart of the [land speculation causes boom and bust](/wiki/land-speculation-causes-cycles/) narrative.
 3. **Misallocates capital and labour**, as high land rents price productive users out of the best locations — related to the outcome that [high land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/).
+
+## Book Findings
+
+### Adams: Land Speculation as Wealth Inequality Driver
+
+Martin Adams's *Land: A New Paradigm for a Thriving World* (2015) presents land speculation as the root mechanism driving wealth inequality, business recessions, and ecological destruction. Adams argues that "the anticipated increase in rent induces speculators to buy land for price appreciation rather than for present use" (Adams 2015, Ch. 5, quoting Foldvary), causing land values to rise beyond what enterprises can profitably sustain and triggering depressions. (D-claim; interpretive)
+
+Adams frames land ownership as an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners, allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). He compares this to the market for internet domain names, where limited supply enables rent extraction. (C-claim; theoretical)
+
+Adams reproduces Fred Harrison's 18-year land cycle table (1818–2008) and cites both Harrison's and Foldvary's independent 1997 predictions of the 2008 depression as evidence that the speculative cycle is both real and foreseeable (Adams 2015, Ch. 5, Table 5-3). (B-claim; empirical)
+
+> "Whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality." — Martin Adams, Ch. 4
+
+See: [Land: A New Paradigm (Adams)](/wiki/land-a-new-paradigm/)
 
 ## See Also
 
@@ -62,9 +76,8 @@ Land speculation matters because it:
 ## Sources
 
 1. Christopher R. Cunningham (2006), "House Price Uncertainty, Timing of Development, and Vacant Land Prices: Evidence for Real Options in Seattle," *Journal of Urban Economics*, 59(1), pp. 1–31. [DOI: 10.1016/j.jue.2005.08.003](https://doi.org/10.1016/j.jue.2005.08.003) — used for the real-options/option-value framework and the empirical estimates of how uncertainty raises vacant land prices and delays development.
-2. Edward L. Glaeser (2013), "A Nation of Gamblers: Real Estate Speculation and American History," *American Economic Review*, 103(3), pp. 1–42. [DOI: 10.1257/aer.103.3.1](https://doi.org/10.1257/aer.103.3.1) — used for the historical pattern of speculative episodes and the heuristic-buyer / underestimated-supply-elasticity argument.
-3. Homer Hoyt (1933), *One Hundred Years of Land Values in Chicago* — used for the founding empirical documentation of recurring land-value boom-bust cycles.
-4. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for the revived 18-year cycle framework and its speculative mechanism.
-5. Case & Shiller (2003), homebuyer survey evidence on speculative price expectations — as referenced in the [outcome page](/wiki/lvt-dampens-land-speculation/) and [Case-Shiller research page](/wiki/case-shiller-2003-bubble/). [CITATION NEEDED: direct source URL and full citation for Case & Shiller 2003 Brookings paper]
-
-[CITATION NEEDED: page-level citations from Glaeser (2013) full text for the "simple heuristic models" quote and specific historical episodes; page-level citations from Hoyt (1933) for the boom-bust rhythm claim; direct URL for Case & Shiller (2003) Brookings paper.]
+2. Edward L. Glaeser (2013), "A Nation of Gamblers: Real Estate Speculation and American History," *American Economic Review*, 103(3), pp. 1–42. [DOI: 10.1257/aer.103.3.1](https://doi.org/10.1257/aer.103.3.1); page-level citations verified against the working-paper version, NBER Working Paper 18825 (February 2013), [free PDF (NBER)](https://www.nber.org/system/files/working_papers/w18825/w18825.pdf) — used for the historical pattern of speculative episodes (from the 1790s frontier land boom and 1810s Alabama cotton-land boom to Las Vegas 2006) and the heuristic-buyer / underestimated-supply-elasticity argument ("simple heuristic models": WP abstract; "under-appreciation of the long-run power of elastic supply": WP p. 13). Quotations under 50 words.
+3. Homer Hoyt (1933), *One Hundred Years of Land Values in Chicago*, University of Chicago Press. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich) — used for the founding empirical documentation of Chicago's five land booms and their recurring sequence (pp. 377–403; credit-expansion step at p. 383) and for Hoyt's own caution that "there is no definite period of years between one boom and the next" (p. 417). Quotations under 50 words.
+4. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for the revived 18-year cycle framework and its speculative mechanism (attributed practitioner claim; see the [narrative page](/wiki/land-speculation-causes-cycles/) for the full evidence assessment).
+5. Karl E. Case & Robert J. Shiller (2003), "Is There a Bubble in the Housing Market?," *Brookings Papers on Economic Activity*, 2003(2), pp. 299–362. [Free PDF (Brookings)](https://www.brookings.edu/wp-content/uploads/2003/06/2003b_bpea_caseshiller.pdf) — used for the four-city homebuyer survey evidence on ten-year price-appreciation expectations (11.7–15.7%/year means, p. 324); see also the [Case-Shiller research page](/wiki/case-shiller-2003-bubble/).
+6. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the entry-monopoly framing and the 18-year cycle evidence (B/C/D-claims). [Book page](/wiki/land-a-new-paradigm/)

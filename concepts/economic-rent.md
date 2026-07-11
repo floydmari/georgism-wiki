@@ -31,11 +31,27 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 
 ## The Neoclassical Redefinition of Rent
 
-Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
+Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/). The standard modern survey and typology of which rent types are efficiently taxable is [Schwerhoff, Edenhofer & Fleurbaey (2020)](/wiki/schwerhoff-taxation-economic-rents/), which concludes that land rents are "one of the few true scarcity rents."
 
 ## Land as a Share of Modern Wealth
 
 Lars Doucet reports that land constitutes approximately **40% of US household wealth** (citing OECD via Tideman), and 70.9% of urban real estate value in San Francisco (AEI, 2020). In New York City, land accounts for ~93% of total real estate value. Globally, land is ~39% of all real assets (McKinsey, 2021). These figures underscore that land rent — the surplus George and Ricardo identified — remains economically dominant in the modern economy, not a relic of agrarian ages (Doucet, *Land is a Big Deal*, Ch. 14). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+
+## Book Findings
+
+### Barnes: Rent as the "Eight-Hundred-Pound Gorilla"
+
+Peter Barnes argues in [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014) that rent is systematically neglected in public discourse despite its central economic importance:
+
+> "Rent isn't talked about much in polite society; it's the eight-hundred-pound gorilla that everyone pretends isn't there. Economists in particular rarely mention it, not out of ignorance but because they find it awkward to offend those who extract it disproportionately. The time has come, though, to bring rent out of the closet, for it holds the key to saving our middle class and planet." (Barnes 2014, Ch. 3)
+
+Barnes defines rent as "the money paid to businesses over and above their costs of labor and capital in competitive markets," including "premiums paid for scarce things and excessive profits extracted by monopolies, oligopolies, and industries coddled by government" (Barnes 2014, Ch. 3). Barnes's definition extends the Ricardian-Georgist concept beyond land to monopoly and regulatory rents. The extension is his advocacy position, not settled economics: whether observed corporate profits are mostly "unearned" extraction or returns to scale, risk, and innovation is actively disputed in the literature (see the [markup/market-power debate](/wiki/the-rentier-economy/) and this page's own treatment of quasi-rents) — the land case remains the best-evidenced instance of community-created, supply-inelastic rent. (D-claim; attributed, contested frontier)
+
+### Adams: Rent as the Driver of Wealth Inequality
+
+[Martin Adams](/wiki/martin-adams/) argues in [*Land: A New Paradigm for a Thriving World*](/wiki/land-a-new-paradigm/) (2015) that economic rent — specifically the privatization of land rent — is the primary structural driver of wealth inequality. Adams distinguishes two ways people earn income: "by contributing to society (wages, capital returns) or by extracting economic rent from society without providing wealth of corresponding value" (Adams 2015, Ch. 1). He argues that land ownership creates an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners — allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). (D-claim; interpretive)
+
+Adams presents data showing land values have risen faster than wages, citing Davis and Heathcote's *Journal of Monetary Economics* study (2007) and U.S. Census data. He argues that "whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality" (Adams 2015, Ch. 4). (B-claim; empirical)
 
 ## See Also
 
@@ -49,6 +65,8 @@ Lars Doucet reports that land constitutes approximately **40% of US household we
 - [Unearned Increment](/wiki/unearned-increment/) — John Stuart Mill's term for the same concept
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent
 - [Deadweight Loss](/wiki/deadweight-loss/) — why taxing rent is efficient
+- [With Liberty and Dividends for All](/wiki/with-liberty-and-dividends-for-all/) — Barnes on rent as the "eight-hundred-pound gorilla"
+- [Land: A New Paradigm for a Thriving World](/wiki/land-a-new-paradigm/) — Adams on rent as wealth inequality driver
 
 ## Sources
 
@@ -57,3 +75,5 @@ Lars Doucet reports that land constitutes approximately **40% of US household we
 3. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
 4. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Chs. 1, 7 — used for Pareto's redefinition of rent and the neoclassical merger of land into capital (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
 5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+6. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the definition of rent as surplus above competitive costs and the argument that rent is neglected in public discourse (C/D-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
+7. Martin Adams, *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — used for the argument that rent privatization drives wealth inequality (D/B-claims). [Book page](/wiki/land-a-new-paradigm/)

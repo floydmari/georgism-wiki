@@ -52,7 +52,7 @@ consistent with rent capture, but also with rising *unmeasured* quality of
 intermediation, with the growth of genuinely valuable-but-costly new activities, or with
 measurement problems in dividing "finance income" by "assets intermediated." Philippon
 himself frames it as an open question, and the magnitude and interpretation are debated
-in follow-up work (e.g., Bazot's European estimates and Philippon's own later papers).
+in follow-up work (e.g., [Bazot's European estimates](/wiki/bazot-cost-of-finance-europe/) and Philippon's own later papers).
 The page carries it as **powerful, disciplining evidence that finance did not pass on
 its efficiency gains** — which any account of finance as productive intermediation must
 explain — not as a settled measurement of the rent share.

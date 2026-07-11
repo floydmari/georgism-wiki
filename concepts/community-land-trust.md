@@ -81,13 +81,31 @@ Grounded Solutions Network, with a growing parallel movement in England and Wale
 a niche within total housing stock, but they are the most widely replicated real-world
 institution built directly on the land/building distinction.
 
+## Book Findings
+
+### Howard: Communal Land Ownership as CLT Precursor
+
+Ebenezer Howard's *Garden Cities of To-morrow* (1902) provides the most detailed historical blueprint for the community land trust model. Howard proposed that the garden city's land be purchased by a company at agricultural value and held communally, with the community retaining ownership in perpetuity. Residents would own their buildings but lease the land from the community body, paying ground rent that would fund public services (Howard 1902, Ch. II). (A-claim; factual)
+
+This is precisely the CLT structure — a nonprofit holds land and leases it long-term to residents, who own the buildings — but at the scale of an entire town rather than a neighbourhood. Howard's model anticipated the CLT's core features:
+
+1. **Separation of land and improvements** — the community owns land; individuals own buildings (Howard 1902, Ch. I–II). (A-claim; factual)
+2. **Ground lease mechanism** — residents pay ground rent to the community, which captures the [unearned increment](/wiki/unearned-increment/) for public benefit (Howard 1902, Ch. II). (A-claim; factual)
+3. **Anti-speculation design** — rising land values flow to the community, not private speculators, making housing permanently affordable (Howard 1902, Ch. II). (C-claim; theoretical)
+
+Howard emphasized that no single element was novel — communal land ownership, planned towns, and municipal enterprise all had precedents — but their combination into a coherent scheme was unique (Howard 1902, Ch. XI). The first implementation, Letchworth (founded 1903), demonstrated the model in practice, though the rate-rent mechanism was never fully operationalized as Howard described. (A-claim; factual)
+
+See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
+
 ## See Also
 
+- [Garden City Movement](/wiki/garden-city-movement/) — the trustee-held Garden City land model the CLT descends from
 - [Land Value Capture](/wiki/land-value-capture/) — the general category the CLT is a voluntary form of
 - [Unearned Increment](/wiki/unearned-increment/) · [Ground Rent](/wiki/ground-rent/) — the value the trust captures through its lease
 - [Land as Commons](/wiki/land-as-commons/) — the principle the CLT institutionalises
 - [Land Value Tax](/wiki/land-value-tax/) — the system-wide alternative to the CLT's parcel-by-parcel approach
 - [Ebenezer Howard](/wiki/ebenezer-howard/) · [Single-Tax Colonies](/wiki/single-tax-colonies/) · [Fairhope](/wiki/fairhope-single-tax-corporation/) — the garden-city and single-tax ancestors
+- [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's communal land ownership as CLT precursor
 
 ## Sources
 
@@ -101,3 +119,4 @@ institution built directly on the land/building distinction.
    Borsodi and Swann's International Independence Institute (A-claims; verified via the
    International Center for Community Land Trusts and Swann biography this session).
    [cltweb.org — New Communities](https://www.cltweb.org/resources/clt-case-studies/new-communities/)
+3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II, XI — used for the communal land ownership model as CLT precursor (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)

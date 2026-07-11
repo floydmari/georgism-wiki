@@ -9,7 +9,7 @@ excerpt: "Lloyd George's 1909 budget proposed land value duties, triggering a co
 
 ## Overview
 
-The **People's Budget** of 1909, introduced by Chancellor **[David Lloyd George](/wiki/david-lloyd-george/)** in the British Liberal government, was the high-water mark of land value taxation in British politics. It proposed new **land value duties** — taxes on the unearned increase in land values — alongside other progressive measures to fund social programs and naval spending. **[Winston Churchill](/wiki/winston-churchill/)**, then President of the Board of Trade, campaigned alongside Lloyd George for the duties, later collecting his speeches as *The People's Rights*.
+The **People's Budget** of 1909, introduced by Chancellor **[David Lloyd George](/wiki/david-lloyd-george/)** in the British Liberal government, was the high-water mark of land value taxation in British politics. It proposed new **land value duties** — taxes on the unearned increase in land values — alongside other progressive measures to fund social programs and naval spending. **[Winston Churchill](/wiki/winston-churchill/)**, then President of the Board of Trade, campaigned alongside Lloyd George for the duties — his Commons defence of 4 May 1909 is reproduced in full on this wiki as [The Budget Resolutions](/wiki/churchill-budget-resolutions-1909/) — later collecting his speeches as *The People's Rights*.
 
 ## The Constitutional Crisis
 
@@ -25,8 +25,9 @@ Although the land value duties themselves were complex, under-yielding, and late
 - [Single Tax](/wiki/single-tax/) · [Unearned Increment](/wiki/unearned-increment/) · [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/)
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the argument this budget was built on
 - [The People's Budget: Speech Introducing the Finance Bill (1909)](/wiki/peoples-budget-speech-1909/) — Lloyd George's speech, held in full
+- [The Limehouse Speech (1909)](/wiki/limehouse-speech-1909/) — his combative 30 July 1909 mass-meeting defence of the budget, held in full
 
 ## Sources
 
-1. Christopher England (2023), *Land and Liberty: Henry George and the Single Tax Movement*, Johns Hopkins University Press — used for the budget fight's narrative and its single-tax-movement context. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
+1. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the budget fight's narrative and its single-tax-movement context. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 2. Winston Churchill's 1909 speeches in support of the land duties (the "land monopolist" passages), collected in *The People's Rights* — used for the advocacy rhetoric surrounding the duties. [wiki summary](/wiki/churchill-peoples-rights/)

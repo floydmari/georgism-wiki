@@ -8,7 +8,7 @@ narrative_type: moral
 supported_by: [resource-rent-dividends-work, land-rent-could-fund-government]
 related_people: [henry-george, alanna-hartzok]
 related_places: [british-columbia]
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-10
 ---
 
 *This narrative deploys the concept defined at
@@ -60,7 +60,10 @@ together."
   administratively simple, transparent, and protected by voters across every shift in
   state politics ([outcome page](/wiki/resource-rent-dividends-work/), evidence
   strength: strong). Goldsmith's insider account documents the design and its
-  distributional reach.[5]
+  distributional reach: income growth for the poorest fifth of Alaska families far
+  outpacing the richest fifth (+28% vs +7% over the 1990s, EPI data he reports,
+  with other levelling forces acknowledged), and the dividend directly supplying
+  "more than 10 per cent of cash income" in some rural areas.[5]
 - **The work-disincentive objection fails its best real-world test.**
   [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/), using a
   synthetic-control design, find the dividend caused **no reduction in aggregate
@@ -121,10 +124,16 @@ together."
   standing proof of concept: constitutionalized fund, annual universal dividend,
   cross-partisan survival.
 - **Norway's oil fund (by contrast)** — captures resource rent at far larger scale
-  but pays no dividend; the comparison isolates what the *dividend* adds: a
-  citizen-visible stake versus a technocratic balance sheet.
-  [CITATION NEEDED: comparative study of Alaska-style dividend vs. Norway-style fund
-  on political durability and public trust.]
+  but pays no per-capita dividend: transfers go into the state budget under a
+  fiscal rule capped at the fund's expected long-run real return. The comparison
+  isolates what the *dividend* adds: a citizen-visible stake versus a technocratic
+  balance sheet. Cummine's comparative study of sovereign-fund benefit models makes
+  the contrast explicit — budget transfers are not dividends ("it is a mistake to
+  conceptualise this approach to benefit distribution in dividend terms"), her
+  Alaskan focus groups find "Alaskans do conceive of their dividend as an
+  individual benefit stemming from collective resource ownership," and she
+  documents "an entrenched anti-dividend posture … among SWFs" of the Norwegian
+  type.[9]
 - **The Colombian counter-example** — rent windfalls routed through municipal
   budgets weakening governance[7] — the design warning, not a refutation.
 
@@ -163,11 +172,17 @@ together."
    [Full text (Project Gutenberg)](https://www.gutenberg.org/ebooks/55308) — used for
    rent as the natural common fund (C-claim); George's own preference was public
    spending of rent rather than a per-capita dividend (A-claim).
-2. Thomas Paine, *Agrarian Justice*, 1797. Public-domain pamphlet, widely
-   reprinted. — used for the ground-rent-funded universal payment proposal and the
-   "a right, and not a charity" framing (A/F-claims; quotation under 50 words).
-   [VERIFY: add a stable free-text URL — session web access exhausted before the
-   link could be confirmed.]
+2. Thomas Paine, *Agrarian Justice*, 1797.
+   [Full text on this wiki](/wiki/agrarian-justice/) (from Moncure D. Conway (ed.),
+   *The Writings of Thomas Paine*, Vol. III, via
+   [Project Gutenberg eBook 31271](https://www.gutenberg.org/ebooks/31271)) — used
+   for the ground-rent-funded universal payment proposal ("To create a National
+   Fund, out of which there shall be paid to every person, when arrived at the age
+   of twenty-one years, the sum of fifteen pounds sterling … And also, the sum of
+   ten pounds per annum, during life, to every person now living, of the age of
+   fifty years") and the framing "it is a right, and not a charity, that I am
+   pleading for" (A/F-claims; both passages verified against the wiki's full text
+   2026-07-10).
 3. Karl Widerquist & Michael W. Howard (eds.), *Alaska's Permanent Fund Dividend:
    Examining Its Suitability as a Model*, Palgrave Macmillan, 2012.
    [DOI](https://doi.org/10.1057/9781137015020) ·
@@ -199,3 +214,15 @@ together."
    2021–22. [Site](https://citdiv.org/) — used solely to represent the advocates'
    own position (source-hierarchy level 6); never for empirical figures — its one
    concrete number (a cumulative Alaska PFD total) is a stale ~2006-era figure.
+9. Angela Cummine, *A Citizen's Stake in Sovereign Wealth Funds: The Management,
+   Investment and Distribution of Sovereign Wealth*, DPhil thesis, University of
+   Oxford, 2013. [Open access, Oxford Research Archive](https://doi.org/10.5287/ora-6rbqgnvwd)
+   — book version: *Citizens' Wealth: Why (and How) Sovereign Funds Should be
+   Managed by the People for the People*, Yale University Press, 2016
+   ([publisher](https://yalebooks.yale.edu/book/9780300218947/citizens-wealth/)).
+   Used for the Alaska-vs-Norway benefit-model comparison: Norway's GPFG
+   distributes only via rule-capped budget transfers, not dividends (Ch. 7, incl.
+   the Skancke interview); original Alaskan focus-group and survey evidence that
+   the PFD is perceived as an ownership benefit (Ch. 8); and the "entrenched
+   anti-dividend posture" among Norway-type sovereign funds (Ch. 9) (B/C-claims;
+   quotations verified against the open-access thesis 2026-07-10).

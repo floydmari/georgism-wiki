@@ -21,6 +21,7 @@ The authors show that LVT is not only **efficient** (no deadweight loss, since l
 
 ## Bears On
 
+- **Research:** [Taxation of Economic Rents (Schwerhoff, Edenhofer & Fleurbaey 2020)](/wiki/schwerhoff-taxation-economic-rents/) — the same authors' peer-reviewed survey that this IMF paper formalizes for the land case
 - **Outcome:** [LVT can replace capital taxes without efficiency loss](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)
 - **Outcome:** [Land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)
 

@@ -8,7 +8,7 @@ tier: important
 source_url: https://www.penguin.co.uk/books/301195/the-value-of-everything-by-mazzucato-mariana/9780141980768
 stub: false
 excerpt: "Mazzucato's 2018 book argues that modern economics and national accounts have lost the classical distinction between creating value and extracting it, letting rent — including land rent — be recorded as production."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-09
 supports_outcomes: []
 ---
 
@@ -16,12 +16,12 @@ supports_outcomes: []
 
 *The Value of Everything: Making and Taking in the Global Economy* (2018) is a book by
 University College London economist [Mariana Mazzucato](/wiki/mariana-mazzucato/), published
-in the UK by Allen Lane/Penguin and in the US by PublicAffairs. The book is paywalled and no
-open-access edition was located, so this page is built from the publisher's own description,
-independent reviews, and Mazzucato's later articles and papers that restate the same argument
-— not from a direct reading of the book's text. Any claim below attributed to "the book" should
-be read as *reported by these secondary sources*, not independently verified against the
-original pages.
+in the UK by Allen Lane/Penguin and in the US by PublicAffairs. This page was originally built
+from the publisher's own description, independent reviews, and Mazzucato's later articles and
+papers that restate the same argument; a full-text copy of the book has since been located (a
+PDF hosted by the University of Warsaw) and every book-level claim below that was previously
+flagged for verification has been checked directly against the book's own text.[16] General
+characterizations of the book's reception remain sourced to the cited reviews.
 
 The book's project, restated consistently across reviewers, is to revive a classical question
 that mainstream economics stopped asking: which economic activities genuinely **create** value,
@@ -65,12 +65,13 @@ distinction.
 
 Building on this boundary, the book's central distinction is between **value creation** —
 activity that adds new goods, services, or productive capacity to the economy — and **value
-extraction**, which reviewers summarize as activity oriented toward capturing a
-disproportionate share of existing resources and output rather than adding to them.[3][4] One
-review paraphrases her definition of value extraction as activity "focused on moving around
-existing resources and outputs, and gaining disproportionately from the ensuing trade"
-[VERIFY: this phrasing is drawn from a secondary review's summary of the book, not confirmed
-against the original text, since the book could not be directly consulted].[3]
+extraction**, activity oriented toward capturing a disproportionate share of existing
+resources and output rather than adding to them.[3][4] The book's Introduction defines the
+pair directly: "By 'value creation' I mean the ways in which different types of resources
+(human, physical and intangible) are established and interact to produce new goods and
+services. By 'value extraction' I mean activities focused on moving around existing resources
+and outputs, and gaining disproportionately from the ensuing trade."[16] (The phrasing
+previously attributed here to a secondary review is in fact Mazzucato's own, verbatim.)
 
 Mazzucato applies this distinction to several sectors reviewers describe as case studies in the
 book, including finance, pharmaceuticals, and Big Tech, arguing in each case that activity now
@@ -102,12 +103,16 @@ spread between the interest rates they charge borrowers and pay depositors.[3][4
 real, documented feature of the international System of National Accounts (SNA), not
 Mazzucato's invention — it was formalized in the 1993 SNA revision and is used by national
 statistical offices including the UK's ONS to estimate financial-sector output.[5][6]
-Reviewers indicate Mazzucato draws on Brett Christophers's *Banking Across Boundaries* (2013)
-for this history, and treats the FISIM convention as a case study in how the production
-boundary was redrawn to make an activity that classical economists (and much of finance theory
-before the mid-20th century) would have classed as facilitating exchange, rather than
-producing value, count as production instead.[3][4] [CITATION NEEDED: direct confirmation of
-Mazzucato's citation of Christophers within the book, beyond secondary reviewer reports.]
+Mazzucato does cite Brett Christophers's *Banking Across Boundaries* (2013) directly in the
+book — in chapter 4 ("Finance: A Colossus is Born"), on the long history of finance being
+treated as unproductive intermediation rather than production (ch. 4, n. 20, citing
+Christophers p. 38) — and her bibliography also lists Christophers's earlier article "Making
+finance productive" (*Economy and Society*, 2011).[16] She treats the FISIM convention as a
+case study in how the production boundary was redrawn to make an activity that classical
+economists (and much of finance theory before the mid-20th century) would have classed as
+facilitating exchange, rather than producing value, count as production instead.[3][4][16]
+Diane Coyle's review independently identifies Christophers's book as "the authoritative work"
+behind this FISIM history.[15]
 
 ## Rent and Land in the Argument
 
@@ -122,10 +127,15 @@ documented to work more generally:
   (including the U.S. NIPAs, maintained by the Bureau of Economic Analysis) impute a rental
   value to owner-occupied homes — treating an owner as notionally "renting" their home to
   themselves — and count that imputed rent as part of GDP, on the order of 6–8 percent of U.S.
-  GDP in recent decades.[7][8] This is the same accounting logic reviewers describe Mazzucato
-  applying to finance: an income stream that classical economists, including
-  [Ricardo](/wiki/economic-rent/), analyzed as accruing to landownership rather than to
-  production is nonetheless recorded, under the modern comprehensive production boundary, as
+  GDP in recent decades.[7][8] The book itself makes this point directly, in chapter 3: it
+  calls the imputation an "absurdity," notes that in the US such imputed housing services
+  contribute "6 per cent of GDP – that is, a cool $1 trillion – even though none of these
+  dollars actually exist," and adds that "capital gains from holding property arise out of
+  increases in land value, which itself are determined by collective investment (in roads,
+  schools, etc.) – little to do with the effort of the property owner."[16] This is the same
+  accounting logic Mazzucato applies to finance: an income stream that classical economists,
+  including [Ricardo](/wiki/economic-rent/), analyzed as accruing to landownership rather than
+  to production is nonetheless recorded, under the modern comprehensive production boundary, as
   value added.
 - **Rent from land ownership sits outside her account's classical baseline.** In the classical
   political economy Mazzucato is reported to be reviving — particularly Ricardo's distinction
@@ -138,12 +148,14 @@ documented to work more generally:
   rent-derived income should not be counted the same as earned, production-derived income — from
   land specifically to the wider economy (finance, IP, platforms).[3][4]
 
-Reviewers do not report the book itself making a specific land-value-tax proposal or engaging
-directly with Georgist economics; its recommendations, as summarized in secondary sources,
-center on reforming national accounting, strengthening patient public and mission-oriented
-finance, and reforming corporate governance and IP rules, rather than land taxation
-specifically. [CITATION NEEDED: a direct statement, from a source not paywalled, of whether the
-book proposes land value taxation or land value capture as a policy instrument.]
+The book itself makes no land-value-tax or land-value-capture proposal and does not engage
+directly with Georgist economics — confirmed by full-text search: the phrases "land value tax"
+and "land tax" and the name "Henry George" do not appear anywhere in the book.[16] Its closing
+chapter's recommendations center instead on reforming how value is defined and measured,
+mission-oriented public investment and patient finance, curbing financialization (it mentions
+taxing quick speculative trades and a financial transaction tax), and reforming corporate
+governance and IP rules (including a critique of the UK's Patent Box), rather than land
+taxation.[16]
 
 The explicit, formal link between this book's value-extraction framework and land rent
 specifically comes later, in
@@ -171,11 +183,10 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
   and bibliographic errors in her treatment of the history of value theory — a direct challenge
   to the historical narrative underpinning her production-boundary argument.[1]
 - **Defenders of marginalism argue she misreads subjective value theory.** Economist Pierre
-  Lemieux, writing for Econlib (January 2019), and a separate commentary published by the
-  free-market Institute of Economic Affairs / CapX ("'The Value of Everything' adds up to
-  nothing," 2018) [VERIFY: exact byline of the IEA/CapX piece is inconsistently reported across
-  search sources — variously attributed to Kristian Niemietz and to Jamie Whyte; not
-  independently confirmed] both argue that Mazzucato mischaracterizes the marginalist
+  Lemieux, writing for Econlib (January 2019), and philosopher-economist Jamie Whyte, writing
+  for the free-market Institute of Economic Affairs ("'The Value of Everything' adds up to
+  nothing," 3 July 2018; byline confirmed against an archived copy of the IEA post), both
+  argue that Mazzucato mischaracterizes the marginalist
   revolution in value theory as an ideological move to legitimize rentier and financial income,
   when mainstream economists regard subjective/marginal-utility value theory as a genuine
   analytical advance. On this view, by rejecting subjective value, Mazzucato is implicitly
@@ -194,15 +205,20 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
   resolving it.[14]
 - **A sympathetic but measurement-focused response.** Diane Coyle — an economist specializing
   in GDP measurement and national accounts, author of *GDP: A Brief but Affectionate History* —
-  reviewed the book broadly sympathetically on her *Enlightened Economist* blog (2018),
-  agreeing with Mazzucato's underlying argument that a well-functioning economy needs both
-  effective state and market institutions.[15] Coyle's own work underscores, more generally,
-  that where to draw the production boundary is a genuinely difficult, contested measurement
-  problem without a single "correct" answer — a point that qualifies rather than refutes
-  Mazzucato's argument, since it implies no production-boundary convention, including one drawn
-  Mazzucato's way, can claim to be theory-neutral. [CITATION NEEDED: a more specific statement
-  of any points of disagreement Coyle raises with Mazzucato's argument, beyond general
-  sympathy.]
+  reviewed the book broadly sympathetically on her *Enlightened Economist* blog (8 May 2018),
+  writing that she is "entirely sympathetic to her underlying argument that a well-functioning
+  and growing economy requires both state and market institutions to be effective."[15] Her
+  stated disagreements are limited but specific: Mazzucato "several times refers to GDP as a
+  measure of legal marketed activities" when "the formal definition now includes illegal
+  marketed activities" (a point Coyle argues would actually have reinforced Mazzucato's case);
+  Coyle "found aspects of her description of the production boundary confusing," despite it
+  featuring "prominently through the book as an expository device"; the book's use of the term
+  "public value" does not reference the existing political-science literature on public value;
+  and "Mazzucato does not give practical policy advice here."[15] Coyle's own work underscores,
+  more generally, that where to draw the production boundary is a genuinely difficult,
+  contested measurement problem without a single "correct" answer — a point that qualifies
+  rather than refutes Mazzucato's argument, since it implies no production-boundary convention,
+  including one drawn Mazzucato's way, can claim to be theory-neutral.
 
 **Honest limits, independent of the above critiques:**
 
@@ -215,10 +231,13 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
    No reviewer consulted for this page reports such a decomposition in the book itself.
 2. **The land-rent content is secondary to the book's main argument.** Unlike Ricardo's or
    George's treatment of rent, or Mazzucato's own 2023 paper, land is not this book's central
-   case study; its role here is inferred from the book's general production-boundary logic and
-   from the imputed-rent/FISIM material reviewers describe, not from a dedicated chapter on land
-   specifically. [CITATION NEEDED: confirmation of whether the book contains a chapter or
-   section focused specifically on land or housing rent.]
+   case study. Confirmed against the full table of contents: none of the book's nine chapters
+   is devoted to land or housing.[16] The land-relevant material consists of the imputed-rent
+   passage inside chapter 3 ("Measuring the Wealth of Nations") and the classical treatment of
+   land rent inside chapter 2's section "The Disappearance of Rent and Why it Matters" — where
+   Mazzucato writes that Ricardo "considered landowners who collected rent without contributing
+   to the productivity of land to be economic parasites" and that for the classicals "rents
+   were unearned income and fell squarely outside the production boundary."[16]
 3. **The normative core — which activities "really" create value — is contested on
    first-principles grounds**, as the marginalist-defender critiques above show; this is not a
    dispute that can be resolved by better data alone, since it turns on which theory of value is
@@ -240,9 +259,8 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
    account of classical/Marxian productive-labour theory and the production boundary.
 2. Mariana Mazzucato, official book page for *The Value of Everything*.
    [marianamazzucato.com](https://marianamazzucato.com/books/the-value-of-everything/) — used
-   for the author's own framing of the book (page could not be directly fetched in this pass;
-   used via secondary reporting of its content). [VERIFY: not independently confirmed by direct
-   fetch.]
+   for the author's own framing of the book (fetched directly 2026-07-09; confirms the
+   makers/takers synopsis and lists the UK publisher as Penguin Allen Lane).
 3. Summary and excerpts of *The Value of Everything*, "Technical Politics" review.
    [technicalpolitics.com](https://www.technicalpolitics.com/review/the-value-of-everything-making-and-taking-in-the-global-economy-mariana-mazzucato/)
    — used for the production-boundary definition, the value-creation/value-extraction
@@ -277,11 +295,12 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
     [Part 1](https://www.econlib.org/mazzucato-missing-on-the-margins/) ·
     [Part 2](https://www.econlib.org/mazzucato-missing-on-the-margins-part-2/) — used for the
     marginalist/subjective-value defense against Mazzucato's production-boundary argument.
-12. Institute of Economic Affairs / CapX, "'The Value of Everything' adds up to nothing," 2018.
-    [iea.org.uk](https://iea.org.uk/the-value-of-everything-adds-up-to-nothing/) ·
-    [capx.co](https://capx.co/the-value-of-everything-adds-up-to-nothing/) — used for the
-    free-market critique of Mazzucato's characterization of marginalism; author byline
-    unconfirmed, see [VERIFY] note above.
+12. Jamie Whyte, "'The Value of Everything' adds up to nothing," Institute of Economic Affairs
+    blog, 3 July 2018.
+    [iea.org.uk](https://iea.org.uk/the-value-of-everything-adds-up-to-nothing/) (live page
+    blocks automated fetches; byline and date confirmed via the
+    [archived copy](https://web.archive.org/web/20260315024431/https://iea.org.uk/the-value-of-everything-adds-up-to-nothing/))
+    — used for the free-market critique of Mazzucato's characterization of marginalism.
 13. Thomas A. Hemphill, "The Value of Everything," book review, *Cato Journal* 39(3), Fall 2019.
     [cato.org](https://www.cato.org/cato-journal/fall-2019/value-everything) — used for the
     free-market policy critique comparing Mazzucato's prescriptions to state central planning.
@@ -289,6 +308,17 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
     25 April 2018.
     [thenextrecession.wordpress.com](https://thenextrecession.wordpress.com/2018/04/25/the-value-price-and-profit-of-everything/)
     — used for the Marxist critique that Mazzucato conflates use-value with value.
-15. Diane Coyle, "Private and public value," *The Enlightened Economist* blog, 2018.
+15. Diane Coyle, "Private and public value," *The Enlightened Economist* blog, 8 May 2018.
     [enlightenmenteconomics.com](http://www.enlightenmenteconomics.com/blog/index.php/2018/05/private-and-public-value/)
-    — used for the sympathetic, measurement-expert response to the book.
+    (fetched directly 2026-07-09) — used for the sympathetic, measurement-expert response to
+    the book, Coyle's specific quibbles, and her identification of Christophers as the
+    authoritative source on the FISIM history.
+16. Mariana Mazzucato, *The Value of Everything: Making and Taking in the Global Economy*
+    (Allen Lane, 2018) — full text, via a
+    [PDF hosted by the University of Warsaw](https://issc.al.uw.edu.pl/wp-content/uploads/sites/2/2022/05/The-Value-of-Everything.-Making-and-Taking-in-the-Global-Economy-by-Mariana-Mazzucato.pdf)
+    (fetched and searched directly 2026-07-09) — used for direct verification of: the book's
+    definitions of value creation and value extraction (Introduction); the Ricardo/rent
+    passages (ch. 2, "The Disappearance of Rent and Why it Matters"); the imputed-rent and
+    FISIM discussions (chs. 3–4); the Christophers citation (ch. 4, n. 20, and bibliography);
+    the table of contents (no land/housing chapter); and the absence of any land-value-tax
+    proposal or mention of Henry George anywhere in the text.

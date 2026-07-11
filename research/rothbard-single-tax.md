@@ -24,11 +24,8 @@ land tax is economically harmless) with a moral argument (against the claim that
 ought to be common property).[2][3] Rothbard later restated and extended overlapping
 arguments — that land and labor, unlike produced capital goods, are analytically "originary"
 factors of production, and that a landowner performs a genuine allocative service — in his
-treatise *Man, Economy, and State* (1962), in a section on the "single tax" on ground rent
-[CITATION NEEDED: exact chapter/section number and direct text of the *Man, Economy, and
-State* treatment — not independently verified in this drafting session; the claim that this
-material extends the 1957 essay's argument is inferred from secondary discussion, not
-confirmed against Rothbard's primary text].[4]
+treatise *Man, Economy, and State* (1962), in the taxation chapter (Ch. 12 in the print
+treatise), section **"The 'Single Tax' on Ground Rent."**[4]
 
 This wiki's own editorial standard requires that objections to Georgism be sourced to their
 strongest available statement rather than a strawman. This page exists to represent
@@ -36,14 +33,10 @@ Rothbard's argument **accurately and at full strength, on its own terms**. The G
 responses to each point below are deliberately not interleaved here; they are collected on
 [Objection: the Austrian critique of LVT](/wiki/lvt-austrian-critique/).
 
-**A note on sourcing.** Direct web access to the Mises Institute's hosted copy of this essay
-returned an HTTP error in this drafting session, so the essay could not be fetched and quoted
-first-hand. The claims and quotations below are corroborated across multiple independent
-secondary sources that summarize or quote the essay consistently — including a dedicated
-academic response chapter, Georgist rebuttal blogs, and Rothbard's own bibliography — but a
-future editor with working access to the primary text should verify wording and add
-page-level citations. [VERIFY: primary-text confirmation of all quotations and paraphrases
-below against the original FEE pamphlet or its reprint in *Economic Controversies*]
+**A note on sourcing.** The full text of the essay has now been fetched and read
+(cooperative-individualism.org PDF, 2026-07-07), and every quotation and paraphrase below has
+been checked verbatim against it. The Georgist and academic secondary sources are retained for
+the responses they make, but the primary wording no longer rests on them.
 
 ## The Economic Critique
 
@@ -58,8 +51,12 @@ taxation while exempting other income as "earned." His argument runs on two trac
    development, and capital investment bound up with the location. Georgist theory asks
    assessors to strip out the value contributed by the owner's or the community's capital
    investment and tax only the residual "pure" land value, a separation Rothbard treats as
-   far harder to draw cleanly in practice than Georgist assessment proposals suggest
-   [CITATION NEEDED: exact wording of this argument as stated in the 1957 essay].
+   practically impossible: "in the case of agricultural land, for instance, it is clear that
+   you cannot, in practice, separate the value of the original ground from the value of the
+   cleared, prepared, and tilled soil. This is obviously impossible." The assessment the single
+   tax requires is therefore, in his account, inescapably discretionary — "assessment is purely
+   an arbitrary act and cannot be anything else. And being under the control of politics, it
+   becomes purely a political act as well" (Rothbard 1957).[1]
 2. **The allocative function is a productive service, not a windfall.** Rothbard argues
    that the owner of a site performs a genuine economic service by holding, searching for,
    and allocating it to whichever use and user will pay the most for it — which, under
@@ -77,15 +74,14 @@ Rothbard's sharpest economic objection concerns what happens under a tax that ap
 100% of land rent — the "single tax" George actually proposed, not a partial land value tax.
 His argument, corroborated consistently across secondary sources describing the essay, runs:
 
-- If (nearly) the full rental value of a site is taxed away, the **market price of land is
-  driven toward zero**, because the price of an asset reflects the capitalized value of the
-  income stream it can earn its owner — and that stream has been confiscated.[2][6]
-- A site with a market price of zero is not thereby made abundant; it is simply priced as if
-  it were free, while remaining exactly as scarce as before. Rothbard's own words, as
-  corroborated across independent secondary sources quoting the essay: "But we know they are
-  not superabundant; they are highly scarce. The result is to introduce complete chaos in
-  land sites."[6] [VERIFY: exact wording against primary text — corroborated via secondary
-  quotation only in this session]
+- If the full rental value of a site is taxed away, the **market price of land is driven
+  toward zero** — in Rothbard's words, "a 100 percent tax on rent would cause the capital value
+  of all land to fall promptly to zero. Since owners could not obtain any net rent, the sites
+  would become valueless on the market."[1]
+- A site with a market price of zero is not thereby made abundant; people "will treat the sites
+  as if they were free — as if they were superabundant. But we know they are not superabundant;
+  they are highly scarce. The result is to introduce complete chaos in land sites" (Rothbard
+  1957).[1]
 - Because price no longer differentiates a highly demanded downtown site from a marginal
   one, the market **loses its ability to ration scarce locations toward their
   highest-valued use** — the ordinary function prices perform. Rothbard argues the result is
@@ -94,9 +90,9 @@ His argument, corroborated consistently across secondary sources describing the 
 - This is presented as an internal-consistency problem for Georgism specifically, not a
   general objection to any land taxation: Rothbard's target is the **100% single tax**,
   where the tax approaches the full rental value, rather than a partial land value tax that
-  leaves some residual land price and hence some residual allocative signal
-  [VERIFY: whether the 1957 essay explicitly distinguishes a partial LVT from the 100%
-  single tax, or treats them as differing only in degree].
+  leaves some residual land price and hence some residual allocative signal. (The essay frames
+  its argument against full rent confiscation — "a 100 percent tax on rent" — and does not
+  separately analyze a partial LVT as a distinct case.)
 
 ## The Moral Critique
 
@@ -115,8 +111,10 @@ it to do: there is no actual collective entity called "society" capable of holdi
 consenting to its use, so treating land as pre-owned by "the community" is either an empty
 abstraction or, in practical effect, a transfer of control to the state — an institution
 Rothbard's libertarian framework regards with deep suspicion rather than as a neutral trustee
-of common property [VERIFY: whether this state-as-trustee argument appears explicitly in the
-1957 essay itself or is drawn from Rothbard's broader corpus].[8]
+of common property. He makes the point explicitly in the essay: "Society cannot own anything.
+There is no entity called society; there are only interacting individuals… When the State
+owns, or virtually owns, property, in no sense is society the owner. The government officials
+are the true owners, whatever the legal fiction adopted" (Rothbard 1957).[1]
 
 ### The "cake and eat it" argument
 
@@ -128,7 +126,7 @@ labor's product while denying it for the land the labor was mixed with or built 
 most production is inseparable from a location. As quoted (corroborated, ~30 words): "The
 single taxers cannot have their cake and eat it; they cannot permit a man to own the fruits
 of his labor while denying him ownership of the original materials which he uses and
-transforms."[9] [VERIFY: exact wording against primary text]
+transforms" (Rothbard 1957).[1]
 
 ### Economic and moral arguments treated as separable
 
@@ -139,8 +137,8 @@ Henry George* — characterizes Rothbard as treating the economic case for land 
 separate, such that even a reader who accepted the economic efficiency argument would still
 need an independent moral argument for why land rent belongs to the community rather than to
 whoever currently controls the site — and that Rothbard does not think that independent
-moral argument succeeds.[3] [VERIFY: this is a secondary characterization of the essay's
-structure, not a direct quotation from Rothbard]
+moral argument succeeds.[2] (This is Harriss's scholarly characterization of the essay's
+structure, not a direct quotation from Rothbard.)
 
 ## Influence and Standing
 
@@ -148,7 +146,7 @@ The essay is Rothbard's earliest and most concentrated public statement against 
 predating his fuller treatment of the same arguments in *Man, Economy, and State* (1962).[4]
 It drew a direct, contemporaneous Georgist reply — Peter R. Stubbings's 1957 essay
 "A Response to Murray Rothbard's Criticism of the Single Tax" — to which Rothbard in turn
-responded with "A Reply to Georgist Criticisms."[10][1] Both the original essay and
+responded with "A Reply to Georgist Criticisms."[8][1] Both the original essay and
 Rothbard's reply were later collected together in the anthology *Economic Controversies*
 (Ludwig von Mises Institute), where they appear as consecutive entries, underscoring that the
 essay was part of a live exchange rather than a one-sided broadside.[1]
@@ -179,13 +177,16 @@ that source, mined directly rather than referenced generically.
 ## Sources
 
 1. Murray N. Rothbard, "The Single Tax: Economic and Moral Implications," Foundation for
-   Economic Education, Irvington-on-Hudson, NY, 1957. [Mises Institute
-   listing](https://mises.org/library/single-tax-economic-and-moral-implications) — used for
-   the essay's existence, title, and 1957 FEE publication (source_url; not directly fetchable
-   in this session, see sourcing note above). Reprint alongside Rothbard's "A Reply to
-   Georgist Criticisms" noted in Rothbard's chronological bibliography. [Mises Institute PDF
-   bibliography](https://cdn.mises.org/Rothbard_Bibliography.PDF) — used for the *Economic
-   Controversies* anthology reprint and pairing with the reply essay.
+   Economic Education, Irvington-on-Hudson, NY, 1957. [Full-text PDF
+   (cooperative-individualism.org)](https://cooperative-individualism.org/rothbard-murray_single-tax-economic-and-moral-implications-1997.pdf)
+   · [Mises Institute listing](https://mises.org/library/single-tax-economic-and-moral-implications)
+   — **fetched and read in full (2026-07-07)**; all quotations on this page verified verbatim
+   against it: the "cannot, in practice, separate the value of the original ground" /
+   "arbitrary act… political act" assessment argument, the "100 percent tax on rent… fall
+   promptly to zero" and "not superabundant… complete chaos in land sites" price arguments,
+   the "Society cannot own anything… The government officials are the true owners" ownership
+   argument, and the "cannot have their cake and eat it" moral argument. Reprinted with
+   Rothbard's "A Reply to Georgist Criticisms" in *Economic Controversies*.
 2. C. Lowell Harriss, "Rothbard's Anarcho-Capitalist Critique," ch. 25 in Robert V. Andelson
    (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and
    Poverty*, Associated University Presses, 1979/2004. [PDF via
@@ -205,18 +206,15 @@ that source, mined directly rather than referenced generically.
 4. Murray N. Rothbard, *Man, Economy, and State with Power and Market*, 1962/2004 [Mises
    Institute online
    book](https://mises.org/online-book/man-economy-and-state-power-and-market/4-binary-intervention-taxation/6-incidence-and-effects-taxation-part-iv-single-tax-ground-rent)
-   — cited for the existence of Rothbard's fuller treatise treatment of the same arguments;
-   not directly fetched or quoted in this session, see [CITATION NEEDED] note in Overview.
+   — Rothbard's fuller treatise restatement, in the taxation chapter's section "The 'Single
+   Tax' on Ground Rent"; section title and location confirmed against the Mises online edition
+   (2026-07-07).
 5. Mises Institute, "Murray Rothbard and Henry George," Mises Wire.
    [Article](https://mises.org/mises-wire/murray-rothbard-and-henry-george) — used for the
    framing of Rothbard's site-allocation argument and his general opposition to Georgism, as
    an Austrian-school secondary summary.
-6. Corroborating quotation source for "not superabundant... complete chaos in land sites"
-   and the "cannot have their cake and eat it" passage: cross-referenced across
-   [cooperative-individualism.org's hosted
-   copy](https://cooperative-individualism.org/rothbard-murray_single-tax-economic-and-moral-implications-1997.pdf)
-   (title page and filename verified; full text not independently fetched in this session)
-   and the secondary discussions in source 3 above. [VERIFY: primary-text confirmation]
+6. (Primary text — now folded into source 1, which was fetched and read in full this session;
+   all quotations verified verbatim against it.)
 7. Murray N. Rothbard, "Confiscation and the Homestead Principle," *Libertarian Forum*,
    1969. [Panarchy.org hosted
    copy](https://panarchy.org/rothbard/confiscation.html) — used for the general
@@ -226,11 +224,3 @@ that source, mined directly rather than referenced generically.
    [cooperative-individualism.org](https://cooperative-individualism.org/stubbings-peter_a-response-to-murray-rothbard's-criticism-of-the-single-tax-1957.htm)
    — used for the historical record of a direct, contemporaneous Georgist reply to this
    essay (A-claim, factual/historical).
-
-[CITATION NEEDED: a directly fetched, verified copy of the primary essay text. Web access to
-mises.org, cooperative-individualism.org, and other mirrors returned HTTP errors in this
-drafting session (see sourcing note in Overview), so all quotations and several specific
-argument details above are corroborated through consistent secondary description rather than
-confirmed first-hand against Rothbard's original wording. A future editor with working access
-should fetch the primary text, verify the two quotations verbatim, add page numbers, and
-resolve the [VERIFY] markers throughout this page.]

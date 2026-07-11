@@ -20,7 +20,7 @@ estimate whether land and resource rents could replace existing tax revenue,
 concluding the base is substantially larger than conventional measures suggest —
 the most-cited national revenue-capacity calculation in the modern Georgist
 literature.[1] It underpins later Australian work
-([Fitzgerald's *Total Resource Rents of Australia*](/wiki/land-rent-could-fund-government/))
+([Fitzgerald's *Total Resource Rents of Australia*](/wiki/total-resource-rents-australia/))
 and is cited in [Doucet's *Land is a Big Deal*](/wiki/land-is-a-big-deal/) (Ch. 14);
 Dwyer also supplies the "superneutrality" argument carried in the
 [*Corruption of Economics* postscript](/wiki/gaffney-harrison-corruption-of-economics/).[2]

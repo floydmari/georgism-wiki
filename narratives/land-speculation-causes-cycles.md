@@ -8,7 +8,7 @@ narrative_type: economic
 supported_by: [lvt-dampens-land-speculation]
 related_people: [henry-george, fred-harrison, fred-foldvary, akhil-patel, mason-gaffney]
 related_places: [estonia]
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-10
 ---
 
 *This page covers the persuasive claim that land speculation drives the business cycle.
@@ -54,7 +54,7 @@ rather than merely regulating the credit that finances it.
   interruption such as a global war."[5] In 2012 Foldvary extended the same 18-year
   logic to project a further downturn around **2026**[6] — a forecast whose target
   window has only just arrived as of this writing, so it cannot yet be assessed.
-  [VERIFY: outcome of the 2026 forecast, once the year has played out.]
+  [VERIFY — PENDING: not a citation gap. The 2026 forecast cannot be assessed until the year closes; revisit after year-end 2026. As of 2026-07-10 the window is still open.]
 - **[Akhil Patel](/wiki/akhil-patel/)** carries the tradition into contemporary market
   forecasting, integrating land, credit, and equity cycles in
   *The Secret Wealth Advantage* (2023) for an investor audience and popularising a
@@ -126,9 +126,17 @@ This is the narrative's honest weak point, and it should be presented as such:
   independent survey corroborates this.[11] But critics note that some peaks in the
   historical series (notably 1973, driven by the OPEC oil shock rather than land
   speculation) fit the mechanism poorly, meaning the cycle's dating has sometimes been
-  adjusted to the crises rather than derived independently of them.
-  [VERIFY: the strongest peer-reviewed statistical test, if any, of the cycle's
-  statistical significance against this retrospective-fitting concern.] The accuracy of
+  adjusted to the crises rather than derived independently of them. Hoyt himself — the
+  founding empirical study — warned against reading a fixed period into his Chicago
+  series: "The exceptional speculative movements in land, commodities, and stocks are
+  separated by long intervals of time, and there is no definite period of years between
+  one boom and the next" (Hoyt 1933, p. 417).[3] The peer-reviewed property-cycle
+  literature points the same way: a century-spanning survey of the field (Jadevicius,
+  Sloan & Brown 2017) reports recurrent but *irregular* cycles, with the statistical and
+  spectral-analysis studies it reviews finding lengths anywhere from 4–5 years to 28
+  years depending on country, data series, and method — evidence for cyclicality in
+  property markets, not for a statistically confirmed fixed 18-year period.[15]
+  The accuracy of
   the 1990s/2008 calls also did not translate into mainstream recognition: Mason
   Gaffney documents that Foldvary's 1997 prediction was excluded from a 2010 contest
   organised to identify economists who had foreseen the crash, despite roughly thirteen
@@ -145,11 +153,16 @@ This is the narrative's honest weak point, and it should be presented as such:
   [Austrian critique of LVT](/wiki/lvt-austrian-critique/) likewise locates the cause in
   central-bank credit expansion and malinvestment generally, not land specifically — land
   booms are, on that view, a symptom of monetary policy rather than an independent
-  driver. **The wiki has no dedicated objection page for this mainstream monetary/credit
-  view of the cycle specifically; this is a gap in the objections section that should be
-  filled.** [CITATION NEEDED: a canonical Georgist reply, if one
-  exists in the literature, to the specific claim that land is a symptom rather than a
-  cause.]
+  driver. The wiki carries this objection at
+  [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/).
+  The canonical Georgist reply to the "symptom, not cause" claim is Foldvary's refereed
+  synthesis itself: he notes Hayek's own concession that "there is no reason why the
+  initiating change, the original disturbance, should be of monetary origin," so that
+  "the Austrian credit effects could be induced by real-estate factors and then work in
+  tandem with them to cause the bust," and argues that "even if credit is not unduly
+  expanded, real estate speculation could still cause the cycle, but it is considerably
+  dampened if interest rates are not artificially depressed" (Foldvary 1997,
+  pp. 528, 531).[5]
 - **Direct causal evidence that LVT dampens the cycle is thin.** The
   [supporting outcome page](/wiki/lvt-dampens-land-speculation/) itself rates the
   evidence "moderate": the Estonia comparison is suggestive of density and development
@@ -216,8 +229,15 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
    by ordinary participants, local land-use and credit institutions are slow-moving, and
    most buyers are non-professional households making infrequent, emotionally-weighted
    decisions — frictions that could, in principle, let a real but imperfectly-exploited
-   regularity persist. This is a plausible mechanism, not a proven one; the wiki has no
-   citation testing it directly. [CITATION NEEDED.]
+   regularity persist. The classic direct test supports the friction premise at short
+   horizons: Case and Shiller found that single-family home markets fail weak-form
+   efficiency tests — a city-wide real price change tends to be followed by a
+   same-direction change one-quarter to one-half as large the following year — and that
+   because of "transactions costs, carrying costs, and tax considerations, professionals
+   find it relatively difficult to take advantage of profit opportunities in this
+   market."[16] This establishes that housing markets do not arbitrage away even
+   one-year-ahead predictability; it does not test, and should not be cited as
+   confirming, an 18-year cycle.
 4. **"Foldvary's excluded prize nomination shows Georgist forecasting isn't taken
    seriously, which should make us doubt the theory."** Gaffney's own response,
    documented in the *Econ Journal Watch* piece itself, is that the exclusion reflects
@@ -249,7 +269,7 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 - **The mid-2020s test in progress.** Foldvary's 2012 "Depression of 2026" projection
   and later popularisations by Patel and others put the next test of the cycle at the
   present moment; as of this writing the outcome is not yet determined.
-  [VERIFY: update this section once the 2026 cycle window has closed.]
+  [VERIFY — PENDING: not a citation gap. Revisit and update once the 2026 cycle window has closed; as of 2026-07-10 the outcome is not yet determinable.]
 
 ## How to Deploy It
 
@@ -321,8 +341,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     documented banking crises at each cycle peak (A/C-claim; quotation under 50 words).
 3. Homer Hoyt, *One Hundred Years of Land Values in Chicago*, University of Chicago
    Press, 1933. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich)
-   — used for the founding empirical study of the ~18-year Chicago land-value rhythm
-   (B-claim).
+   — used for the founding empirical study of the ~18-year Chicago land-value rhythm,
+   and for Hoyt's own caution that "there is no definite period of years between one
+   boom and the next" (p. 417) (B-claim; quotation under 50 words).
 4. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*,
    Shepheard-Walwyn, 2005. [Publisher](https://shepheardwalwyn.com/product/boom-bust/)
    · [wiki summary](/wiki/harrison-boom-bust/) —
@@ -333,8 +354,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
    of Economics and Sociology*, 1997; related paper "The Real Estate Cycle and the
    Depression of 2008."
    [JSTOR](https://www.jstor.org/stable/3487330); [full text (cooperative-individualism.org)](https://cooperative-individualism.org/foldvary-fred_the-business-cycle-a-georgist-austrian-synthesis-1997-oct.pdf); [wiki summary](/wiki/foldvary-business-cycle-synthesis/) — used
-   for the direct quotation of the 1997 prediction of an "around 2008" downturn
-   (A-claim; quotation under 50 words).
+   for the direct quotation of the 1997 prediction of an "around 2008" downturn, and for
+   the Georgist-Austrian reply to the "land is a symptom, not a cause" objection
+   (pp. 528, 531) (A/C-claim; quotations under 50 words).
 6. Fred Foldvary, "The Depression of 2026," Progress.org, 2012.
    [Article](https://www.progress.org/articles/the-depression-of-2026/) — used for the
    2026 extension of the cycle forecast (A-claim; outcome unresolved as of this page's
@@ -376,3 +398,17 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     used for the modern restatement of George's land-speculation theory as a structural
     feature of unregulated land markets and Hudson's bank-credit finding (A/B-claim).
     See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+15. Arvydas Jadevicius, Brian Sloan & Andrew Brown, "Century of Research on Property
+    Cycles: A Literature Review," *International Journal of Strategic Property
+    Management* 21(2), 2017, pp. 129–143.
+    [PDF (open access, journals.vilniustech.lt)](https://journals.vilniustech.lt/index.php/IJSPM/article/download/1819/1435/3829)
+    — used for the survey finding that the peer-reviewed property-cycle literature
+    reports recurrent but irregular cycles of widely varying estimated lengths (e.g.
+    Barras & Ferguson 1985: 4–5, 7–9, 19 and 28 years by sector; RICS 1999: 4–12 years)
+    rather than a statistically confirmed fixed 18-year period (B-claim).
+16. Karl E. Case & Robert J. Shiller, "The Efficiency of the Market for Single-Family
+    Homes," *American Economic Review* 79(1), 1989, pp. 125–137.
+    [Working-paper version (NBER WP 2506, free PDF)](https://www.nber.org/system/files/working_papers/w2506/w2506.pdf)
+    — used for the finding that housing markets fail weak-form efficiency tests (real
+    price changes show year-ahead persistence) and that transaction and carrying costs
+    impede professional arbitrage (B-claim; quotation under 50 words).

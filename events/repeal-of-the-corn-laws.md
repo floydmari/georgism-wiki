@@ -31,10 +31,16 @@ it as the high-water mark of classical economics' engagement with land (Ch. 4).[
 
 ## Sources
 
-1. Standard historical record of the Anti-Corn Law League and the 1846 repeal
-   (A-claims; any standard British political history). [VERIFY: add a specific
-   scholarly citation — e.g., Schonhardt-Bailey, *From the Corn Laws to Free
-   Trade* (MIT, 2006) — on direct read.]
+1. Cheryl Schonhardt-Bailey, *From the Corn Laws to Free Trade: Interests,
+   Ideas, and Institutions in Historical Perspective* (Cambridge, MA: MIT Press,
+   2006), xiii + 426 pp., ISBN 0-262-19543-7 — the standard modern scholarly
+   study of the 1846 repeal. It traces the emergence of the Anti-Corn Law League
+   "as a powerful lobbying group for free trade in the 1830s" (Ch. 3) and Peel's
+   1846 repeal, which he characterized "as a means to preserve the landed basis
+   of Parliament" (p. 187). Provenance corroborated via the published review by
+   George R. Boyer (Cornell), EH.Net, Aug. 2007
+   ([eh.net](https://eh.net/book_reviews/from-the-corn-laws-to-free-trade-interests-ideas-and-institutions-in-historical-perspective/)),
+   which supplied the verbatim quotes above.
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *Rethinking the Economics of
    Land and Housing* (2017), Ch. 4 — used for the classical-economics framing
    (A-claim with locator; provenance-pending scan — see book page).

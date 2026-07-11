@@ -31,7 +31,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "sources", "wiki-inventory.csv")
-CATEGORIES = ["concepts", "people", "places", "events", "outcomes", "research",
+CATEGORIES = ["concepts", "people", "places", "events", "problems", "benefits", "research",
               "organizations", "objections", "narratives", "books", "texts"]
 COLS = ["slug", "title", "category", "url", "inbound_links", "outbound_links",
         "words", "stub", "orphan", "last_reviewed"]

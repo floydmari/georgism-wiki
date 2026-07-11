@@ -56,7 +56,7 @@ civil-liberties episodes in American history.
 Post told the story himself in **_The Deportations Delirium of Nineteen-Twenty_** (1923),
 part memoir and part indictment of the Raids — a first-hand account by the official at their
 centre. Published before 1931, it is in the public domain and is a priority for the wiki's
-[reading room](/wiki/agrarian-justice/) as a `texts/` transcription.
+[reading room](/wiki/agrarian-justice/) as a full in-repo transcription (see [the book page](/wiki/deportations-delirium/)).
 
 ## Legacy
 

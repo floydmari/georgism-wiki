@@ -26,6 +26,8 @@ The transition is the **strongest practical obstacle** to LVT and the main reaso
 
 ## See Also
 
+- [Objection: the public-choice critique](/wiki/public-choice-critique/) — the theoretical parent of this objection (Tullock's transitional-gains trap)
+
 - [Land Value Tax](/wiki/land-value-tax/) · [ATCOR](/wiki/atcor/) · [Objection: asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/)
 
 ## Sources

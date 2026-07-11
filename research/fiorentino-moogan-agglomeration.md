@@ -8,7 +8,7 @@ source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5588585
 tier: supplementary
 stub: false
 excerpt: "Models how a land value tax affects urban agglomeration, finding it can improve both efficiency and equity in city formation."
-supports_outcomes: [high-land-rents-suppress-productivity]
+supports_outcomes: [high-land-rents-suppress-productivity, taxing-land-raises-productivity]
 ---
 
 ## Summary

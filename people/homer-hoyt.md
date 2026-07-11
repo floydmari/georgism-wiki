@@ -48,14 +48,25 @@ data tables, it reconstructs a century of Chicago land values, from a frontier s
 1830 to a metropolis of roughly 3.5 million people in 1933, and identifies a sequence of
 distinct speculative booms and busts (tied to the canal-land boom of the 1830s, the railroad
 era, the post-Fire rebuilding boom, the pre-1893 World's Fair boom, and the post-WWI boom and
-Depression-era collapse) rather than smooth growth.[3] Secondary sources commonly attribute to
-the book a Chicago peak-year list of roughly 1836, 1856, 1872, 1890, and 1925 — an interval of
-16–18 years — though this wiki's own research page on the dissertation flags that exact list as
-`[VERIFY: pending direct confirmation against Hoyt's primary text]` rather than independently
-re-derived from a full read of the 519-page original.[3]
+Depression-era collapse) rather than smooth growth.[3] The book's peak-year list has now been
+confirmed directly against Hoyt's primary text: on p. 391 Hoyt writes that the subdivision boom
+"has occurred at the most hectic phase of all the five major real estate cycles in Chicago...
+In 1836, in 1856, in 1872, in 1890, and in 1925 the same story was repeated."[3] Important
+caveat, also verified against the primary text: Hoyt does **not** claim these booms recur on a
+fixed period. On p. 417 he states outright that "there is no definite period of years between
+one boom and the next," noting that after 1890 the pattern broke and "thirty-five years elapsed
+from the hectic land market of 1890 to that of 1925."[3] The commonly repeated "16–18 year" or
+"18.6-year" interval is therefore a later interpretive gloss by Georgist writers, not Hoyt's
+own claim.
 
 Hoyt's data became the historical backbone for later Georgist land-cycle writers who argue that
-recurring land speculation, not credit conditions alone, drives the timing of recessions.
+recurring land speculation, not credit conditions alone, drives the timing of recessions —
+though **Hoyt himself later disavowed the cycle's continued operation**: by 1968 he judged that
+"the fluctuations in the real estate cycle which characterised our economy in the 150 years
+prior to 1933, have ceased" (ULI Technical Bulletin No. 60, 1968, p. 11), a verdict he
+reaffirmed to Fred Harrison in 1976 correspondence and a 1978 interview at age 83; Harrison's
+"The Hoyt Heist" chapter is his rebuttal of that disavowal (see [the book's
+page](/wiki/hoyt-chicago-land-values/) for the verbatim record).
 **[Fred Harrison](/wiki/fred-harrison/)** drew directly on Hoyt's Chicago chronology in *The
 Power in the Land* (1983) and *Boom Bust* (2005) to argue the same land-and-credit rhythm
 recurs in modern economies, using it to forecast the 2008 financial crisis — as early as 1997 in *The Chaos Makers*, and again in *Boom Bust* roughly three years
@@ -85,19 +96,26 @@ geography and planning textbooks.[2][5]
 **Hoyt's role in the FHA's discriminatory underwriting practices ("redlining") is
 well-documented and should be stated plainly rather than elided.** Multiple historians identify
 Hoyt as the source of an explicit racial and ethnic hierarchy ranking groups by their supposed
-effect on property values — a ranking that appears in his own scholarly work; a widely cited
-excerpt places groups such as "English, Germans, Scots, Irish, Scandinavians" at the top and
-"Negroes" and "Mexicans" at the bottom.[13] The FHA's *Underwriting Manual* and its Residential
+effect on property values. This ranking has now been verified directly in Hoyt's own primary
+text: in *One Hundred Years of Land Values in Chicago* (1933), pp. 314–316, Hoyt presents "the
+ranking of races and nationalities with respect to their beneficial effect upon land values,"
+listing ten groups from "those having the most favorable" effect to "those exerting the most
+detrimental effect." The full list, in his order, is: **1. English, Germans, Scotch, Irish,
+Scandinavians; 2. North Italians; 3. Bohemians or Czechoslovakians; 4. Poles; 5. Lithuanians;
+6. Greeks; 7. Russian Jews of the lower class; 8. South Italians; 9. Negroes; 10. Mexicans**
+(p. 316).[15] The passage introducing it (p. 314) frames lower land values in areas occupied
+by "certain racial and national groups" as partly "due entirely to racial prejudice, which may
+have no reasonable basis," yet still asserts such prejudice is "reflected in land values."[15]
+The FHA's *Underwriting Manual* and its Residential
 Security Maps — the instruments through which the agency systematically denied or discouraged
 mortgage insurance in racially mixed and Black neighborhoods — drew on the land-value and
 neighborhood-succession theories Hoyt supplied as the agency's chief land economist.[4][13][14]
 This is a serious and separate matter from the accuracy of his 1830–1933 Chicago land-value
 data: nothing about the redlining record undermines the empirical land-cycle finding this wiki
-draws on, but a biography of Hoyt that omitted it would be incomplete. `[VERIFY: the precise
-publication in which Hoyt's racial ranking first appeared — some secondary sources date it to
-his 1933 dissertation and cite specific page numbers (314–316), while others attribute similar
-language to a 1939 FHA-era report or to his textbook *Principles of Urban Real Estate*; this
-page has not independently reconciled the discrepancy between these accounts.]`
+draws on, but a biography of Hoyt that omitted it would be incomplete. The discrepancy earlier
+flagged here is now resolved: the ranking **first appeared in the 1933 dissertation (pp.
+314–316)** and Hoyt carried the same framework into his 1939 FHA-era work; both accounts are
+correct because the same hierarchy appears in both, the dissertation being the earlier source.
 
 ## See Also
 
@@ -125,10 +143,10 @@ page has not independently reconciled the discrepancy between these accounts.]`
    tertiary source; the career chronology should be reconciled against a citable secondary
    biographical source such as the Sage Encyclopedia of Geography entry in a future revision.]`
 3. This wiki's [research summary of *One Hundred Years of Land Values in
-   Chicago*](/wiki/hoyt-chicago-land-values/) (drawing on the Internet Archive full text and
-   secondary summaries) — used for the dissertation's content, methodology, the disputed
-   peak-year list, and the explicit statement that Hoyt was not a Georgist and the book contains
-   no LVT analysis.
+   Chicago*](/wiki/hoyt-chicago-land-values/) and, behind it, the Internet Archive full text of
+   the 1933 book itself — used for the dissertation's content, methodology, the now-verified
+   peak-year list (p. 391), Hoyt's explicit denial of a fixed period between booms (p. 417), and
+   the statement that Hoyt was not a Georgist and the book contains no LVT analysis.
 4. "Dr. Homer Hoyt: Planning's Unsung Hero," American Planning Association, Economic Development
    Division blog, 2009. [Blog
    post](http://apaeconomicdevelopment.blogspot.com/2009/11/dr-homer-hoyt-plannings-unsung-hero.html)
@@ -190,3 +208,8 @@ page has not independently reconciled the discrepancy between these accounts.]`
     theory. `[VERIFY: replace this general Wikipedia context citation with a dedicated
     peer-reviewed source on the FHA Underwriting Manual specifically, e.g. Jackson's *Crabgrass
     Frontier* or the Nelson et al. (2020) "Mapping Inequality" project, in a future revision.]`
+15. Homer Hoyt, *One Hundred Years of Land Values in Chicago* (University of Chicago Press,
+    1933), pp. 314–316. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich)
+    — the primary source; the racial/nationality ranking and its framing were verified verbatim
+    against the Internet Archive DJVU full text in this pass. The ranking begins on p. 314 and
+    the numbered list of ten groups appears on p. 316.

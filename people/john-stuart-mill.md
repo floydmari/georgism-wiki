@@ -86,5 +86,6 @@ classical tradition rather than outside it.
    Explanatory Statement* — used for the LTRA's founding (1869), its programme (unearned-
    increment tax, cooperative agriculture, abolition of primogeniture/entail, reclaiming
    waste lands), and Mill's authorship (A-claims; founding date and planks verified via the
-   LTRA record and Mill biography this session).
+   LTRA record and Mill biography this session). Reproduced in full on this wiki:
+   [Programme of the Land Tenure Reform Association (1871)](/wiki/land-tenure-reform-programme-1871/).
    [Wikipedia: Land Tenure Reform Association](https://en.wikipedia.org/wiki/Land_Tenure_Reform_Association)

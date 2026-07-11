@@ -215,6 +215,7 @@ To dispute about the inspiration of such a man were to dispute about words. From
 
 ## See Also
 
+- [Jubilee](/wiki/jubilee/) — the Leviticus 25 land-reversion institution
 - [Henry George](/wiki/henry-george/) — the author
 - [The Crime of Poverty](/wiki/crime-of-poverty/) — the lecture reprinted alongside this one in the source edition
 - [Thy Kingdom Come](/wiki/thy-kingdom-come/) — George's other great religious address, on the Lord's Prayer and the land question

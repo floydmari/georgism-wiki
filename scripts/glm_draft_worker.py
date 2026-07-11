@@ -27,7 +27,7 @@ OLLAMA = os.environ.get("OLLAMA_LOCAL", "http://localhost:11434")
 NUM_CTX = int(os.environ.get("DRAFT_NUM_CTX", "300000"))
 OUTDIR = os.path.join(ROOT, "preview/glm_drafts")
 REPORT = os.path.join(ROOT, "preview/glm_drafts/report.jsonl")
-CATS = ["concepts", "people", "places", "organizations", "objections", "events", "outcomes",
+CATS = ["concepts", "people", "places", "organizations", "objections", "events", "problems", "benefits",
         "narratives", "research"]
 
 

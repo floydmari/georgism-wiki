@@ -161,6 +161,12 @@ The narrative's persuasive work is answering the question every newcomer asks:
   [Tax Land, Not Labor](/wiki/tax-land-not-labor/) (which carries the affirmative
   case the silence obscured).
 
+## Book Findings: Goldman's "Steel Chain of Ideas"
+
+Eric F. Goldman's *Rendezvous with Destiny* (1952) anticipates the corruption narrative's core insight — that dominant economic theories served landed interests — though from a liberal rather than Georgist perspective. Goldman argued that dominant groups "had, quite unconsciously, picked from among available theories the ones that best protected their position and had impressed these ideas on the national mind as Truth" (Goldman 1952, p. 78). He described the conservative "steel chain of ideas" — Ricardian "iron law of wages," Malthusian population theory, Social Darwinism, and "natural rights" to property — that blocked progressive reform, including land reform (Goldman 1952, p. 79).
+
+This framework directly connects to the [corruption narrative](/wiki/the-corruption-of-economics/): Goldman's "steel chain" is the liberal-reform version of Gaffney's "stratagem" — the observation that certain economic ideas functioned to protect existing property arrangements. The difference is attribution: Goldman sees unconscious selection ("quite unconsciously, picked"), while Gaffney argues for deliberate institutional construction. Goldman's account provides a non-Georgist corroboration of the *premise* that classical economics served to block land reform, even if it does not endorse the *intentionality* thesis. See [Rendezvous with Destiny](/wiki/rendezvous-with-destiny/). (D-claim; interpretive)
+
 ## See Also
 
 - [Revenue Act of 1916](/wiki/revenue-act-of-1916/) — the federal income-tax law that, per Gaffney and Harrison, single-tax Congressman Warren Worth Bailey helped draft to target unearned rather than wage income
@@ -172,6 +178,7 @@ The narrative's persuasive work is answering the question every newcomer asks:
 - [Land is Back (Bonnet et al.)](/wiki/bonnet-land-is-back/) — the category's modern return
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the modern-stakes sibling
 - [Georgism](/wiki/georgism/) — the wider philosophy
+- [Eric F. Goldman](/wiki/eric-goldman/) — Princeton historian whose "steel chain of ideas" framework corroborates the corruption narrative's premise
 
 ## Sources
 
@@ -204,3 +211,7 @@ The narrative's persuasive work is answering the question every newcomer asks:
 7. Joseph A. Schumpeter, *History of Economic Analysis*, Oxford University Press,
    1954, pp. 864–865. — used for the neutral mainstream verdict (D-claims;
    quotations under 50 words, corroborated across independent renderings).
+8. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform*
+   (New York: Alfred A. Knopf, 1952) — used for the "steel chain of ideas"
+   framework as a non-Georgist corroboration of the corruption narrative's
+   premise (D-claim). [Book page](/wiki/rendezvous-with-destiny/)

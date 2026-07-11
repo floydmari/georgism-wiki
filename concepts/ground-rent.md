@@ -99,7 +99,17 @@ whereas taxing the site does not. Separating the two — the ground rent from th
 value — is exactly the [assessment task](/wiki/land-cannot-be-assessed/) that LVT requires
 and that its critics press on.
 
+## Book Findings
+
+### Daly: Economic Rent and Resource Depletion
+
+Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/) (1999) extends the concept of ground rent beyond urban land to the depletion of natural resources. Daly's "law of increasing marginal costs" holds that "we first make use of the most productive and accessible factors of production—the most fertile land, the most concentrated and available mineral deposits, the best workers—and only use the less productive factors as growth makes it necessary" (Daly 1999, Ch. 1). This Ricardian logic means that as resource depletion proceeds, ground rent rises on the remaining stocks — the same mechanism George identified in urban land, applied to the extractive frontier. (C-claim; theoretical)
+
+Daly argues that the costs of depletion — "depletion, pollution, disruption of ecological life-support services, sacrifice of leisure time, disutility of some kinds of labour, destruction of community in the interests of capital mobility, takeover of habitat of other species, and running down a critical part of the inheritance of future generations" — are systematically unmeasured and frequently counted as benefits in national accounts (Daly 1999, Ch. 1). This analysis connects ground rent to ecological economics: the unmeasured costs of resource extraction are, in Georgist terms, the unpriced rent of the commons — the value of natural wealth that is being consumed without compensation. (D-claim; interpretive)
+
 ## See Also
+
+- [Agrarian Justice (Paine, 1797) — full text](/wiki/agrarian-justice/) — the ground-rent obligation argued 82 years before George
 
 - [Economic Rent](/wiki/economic-rent/) — the general category ground rent belongs to
 - [Law of Rent](/wiki/law-of-rent/) — Ricardo's account of how ground rent is determined
@@ -107,6 +117,7 @@ and that its critics press on.
 - [Land Value Tax](/wiki/land-value-tax/) · [Land Value Capture](/wiki/land-value-capture/) — the instruments that target it
 - [Quasi-Rent](/wiki/quasi-rent/) — the return to durable improvements that LVT leaves alone
 - [Adam Smith](/wiki/adam-smith/) · [David Ricardo](/wiki/david-ricardo/) · [John Stuart Mill](/wiki/john-stuart-mill/) — the classical case for taxing it
+- [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — Daly on resource depletion and ground rent
 
 ## Sources
 
@@ -119,3 +130,6 @@ and that its critics press on.
    rent (s. 4(3)); Royal Assent 8 February 2022, in force 30 June 2022 (A-claim; verified via
    the legislation text and multiple legal-practice summaries this session).
    [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/2022/1)
+3. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) —
+   used for the extension of ground rent to resource depletion and the analysis of unmeasured
+   ecological costs (C/D-claims). [Book page](/wiki/ecological-economics-daly/)

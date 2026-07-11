@@ -31,7 +31,7 @@ The wiki grows the way a good research desk grows a beat:
   Danish natural experiment got restated on three pages in w1 before cross-linking.)
   Public-domain primary texts can be held in full — see EDITORIAL §3b.
 - **SYNTHESIZE** what the sources collectively show into the wiki's argument pages:
-  `outcomes/` (what the evidence supports — e.g. *split-rate taxation increases
+  `problems/` and `benefits/` (what the evidence supports — e.g. *split-rate taxation increases
   construction*), `objections/` (what critics say, steelmanned — e.g. the homevoter
   problem), `narratives/` (how to tell the story), `concepts/` (how the mechanisms work).
 - **VERIFY** relentlessly — every claim we couldn't confirm carries a visible
@@ -147,7 +147,7 @@ Japanese land bubble as a historical episode. Each of those, built out, cites ne
 which get read, which surface more. Formally:
 
 **FIND** sources → **READ & MINE** them (`research/`, `books/` pages) → **SYNTHESIZE** into
-the argument pages (`outcomes/`, `objections/`, `narratives/`, `concepts/`) → **DISCOVER**
+the argument pages (`problems/`, `benefits/`, `objections/`, `narratives/`, `concepts/`) → **DISCOVER**
 warranted new topics → **STUB** them (visible, sourced) → **PRIORITIZE** by inbound-link
 demand (`[PRIORITIZE] tier:T1`) → **BUILD OUT** the top stubs, *re-mining the existing corpus
 first* (earlier pages were written before the stub existed) → built-out pages cite new

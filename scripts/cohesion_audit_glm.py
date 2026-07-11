@@ -17,7 +17,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL = os.environ.get("SWEEP_MODEL", "glm-5.2:cloud")
 OLLAMA = os.environ.get("OLLAMA_LOCAL", "http://localhost:11434")
 NUM_CTX = int(os.environ.get("AUDIT_NUM_CTX", "1000000"))
-CATS = ["concepts", "people", "places", "organizations", "objections", "events", "outcomes",
+CATS = ["concepts", "people", "places", "organizations", "objections", "events", "problems", "benefits",
         "narratives", "research"]
 
 SYSTEM = """You are a whole-corpus cohesion auditor for a Georgism wiki. You receive EVERY page

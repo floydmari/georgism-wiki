@@ -31,6 +31,8 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 
 ## See Also
 
+- [Objection: the public-choice critique](/wiki/public-choice-critique/) — the Leviathan inversion: why "no deadweight loss" is, on one reading, a public-choice cost
+
 - [Tideman & Plassmann, Losses of Nations (1998)](/wiki/tideman-plassmann-losses-of-nations/) — the movement's G7 excess-burden calculation (stub, pending full read)
 
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/)

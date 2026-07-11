@@ -52,10 +52,53 @@ Milton Friedman called LVT "the least bad tax" — the strongest endorsement fro
 
 Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radical Markets* (2018, Ch. 1). Their **Common Ownership Self-Assessed Tax (COST)** combines LVT with Harberger self-assessment: possessors declare their asset's value, pay an annual tax on it (~7% for typical assets), and must sell to anyone willing to pay the declared price. Unlike George's 100% land-rent tax, the COST sets the rate below full rent to preserve investment incentives, and extends the tax base beyond land to all property — a departure George himself would have resisted, since he distinguished land (natural, taxable) from "artificial capital" (human-made, exempt). See [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/).
 
+## Book Findings
+
+### Howard: A Practical LVT Proposal
+
+Ebenezer Howard's *Garden Cities of To-morrow* (1902) provides one of the most detailed practical proposals for implementing land value taxation ever put forward — not as an abstract policy but as the financial foundation of a new town. Howard proposed purchasing land at agricultural value (£40 an acre, or £240,000 for 6,000 acres), then capturing the full "rate-rent" as the community grew and land values rose (Howard 1902, Ch. II). (A-claim; factual)
+
+Howard's terminology is instructive: he decomposed total rent into "landlord's rent" (interest on debentures), "sinking fund" (repayment of purchase money), "rates" (public purposes), and "rate-rent" (the combined total). This decomposition shows how LVT can coexist with private financing: the community purchases the land, services the debt, and captures the surplus for public benefit (Howard 1902, Ch. II). (C-claim; theoretical)
+
+The key anti-speculation mechanism is explicit:
+
+> "Under this system, while it would be impossible for the tenant to secure to himself any undue share of that natural increment of land-value which would be brought about by the general growth in well-being of the town, he would yet have, as tenants in possession all probably should have, a preference over any new-comer." (Howard 1902, Ch. II, The Agricultural Estate)
+
+This is a 100% land-rent capture mechanism — the full Georgist "single tax" applied at the municipal scale — demonstrating that the practical implementation challenges of LVT (assessment, transition, governance) were addressed in concrete detail by Howard over a century ago. (D-claim; interpretive)
+
+See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
+
+### Responses to Standard Critiques
+
+Robert V. Andelson's *Critics of Henry George* (1979) systematically addressed the major objections to land value taxation raised by professional economists from the 19th century onward. Among the key findings: Alfred Marshall, who "guarded the purity of his discipline," critiqued George's wage theory and the single tax proposal (Andelson 1979, Ch. 4), while Francis Walker "led the charge" against George (Ch. 12). Yet even critics often conceded core Georgist principles. Andelson notes that Edgar H. Johnson, after "twenty pages of highly technical analysis accusing George of inconsistency, special pleading, and inattention to empirical facts," concluded by "acknowledging the truth of three of the most salient Georgist principles: that land is the gift of nature rather than the product of human toil; that its value is owing to the activities of the community rather than of the owner; and that a tax upon it is not, generally speaking, a burden on industry" (Andelson 1979, Ch. 1). See [Critics of Henry George](/wiki/critics-of-henry-george/) for the full analysis. (D-claim; interpretive)
+
+Phillip Bryson's *The Economics of Henry George* (2011) argues that George's economic insights on land taxation have been progressively "rehabilitated" by modern economics — see the fuller treatment on the [Henry George](/wiki/henry-george/) page and [Bryson's book page](/wiki/economics-of-henry-george/). (D-claim; interpretive)
+
+### UK History: The 1909 People's Budget
+
+The most significant attempt to implement land value taxation in UK law was the 1909 People's Budget, introduced by Chancellor [David Lloyd George](/wiki/david-lloyd-george/). Bruce K. Murray's *The People's Budget 1909/10* (1980) documents that the Budget was designed to raise revenue for social reform through progressive direct taxation, including land-value duties that sought to capture "property values created by the community" — a Georgist principle applied through incremental taxation rather than full rent collection (Murray 1980, pp. 17–24). Winston Churchill framed the divide as "the difference between the taxation of wages and the taxation of wealth" (Murray 1980, p. 17). See [People's Budget 1909/10](/wiki/peoples-budget-1909/). (A-claim; factual)
+
+The land-value duties included a 20% increment value duty on realized land gains, an annual duty on undeveloped land, and a mineral rights duty (Murray 1980, pp. 17–24). The duties proved administratively difficult and yielded little revenue. Announcing their repeal in the 1920 Budget, Chancellor Austen Chamberlain told the Commons that "these duties in their present form are unworkable. They have produced hardly any revenue, and … they are, with the exception of the Mineral Rights Duty, either wholly or partially in abeyance," noting that "no Undeveloped Land Duty has been assessed since 1914" ([Hansard, HC Deb 19 April 1920, vol. 128, cc. 83–5](https://api.parliament.uk/historic-hansard/commons/1920/apr/19/land-values-duties)). The [Finance Act 1920, s. 57](https://www.legislation.gov.uk/ukpga/Geo5/10-11/18/section/57/enacted) duly repealed the increment value, reversion, and undeveloped land duties ("but does not include mineral rights duty," which was retained), ended the 1910 statutory land valuation, and provided for refunding duty already paid. The fuller story of the Budget's passage and aftermath is on the [1909 People's Budget event page](/wiki/1909-peoples-budget/). (B-claim; empirical, attributed)
+
+### Burgess: LVT as Alternative to Taxation
+
+Ronald Burgess argues in [*Public Revenue Without Taxation*](/wiki/public-revenue-without-taxation/) (1993) that land rent provides a "natural source of government revenue" that does not offend against the principle of private property, unlike taxation. Burgess argues that "taxation is a primal cause of both inflation and unemployment" and that "by whatever names taxes are called…taxation is in effect an arbitrary levy imposed by force or the threat of force upon those in receipt of a private income" (Burgess 1993, Ch. 2, p. 13). He traces this insight from the Physiocrats through Adam Smith, Alfred Marshall, and Henry George, arguing that modern economics has failed by ignoring the possibility of a non-tax source of public revenue (Burgess 1993, Ch. 1, pp. 1–6). (C-claim; theoretical)
+
+Burgess's argument strengthens the LVT case by framing it not merely as an efficient tax but as a *non-tax* revenue source — the collection of value that "arises from the very nature of a trading economy" and belongs to the public. He distinguishes land rent from taxation on the grounds that "in their effective incidence all taxes are income taxes" that "flouts the principle of private property," whereas land rent collection is the recovery of value that already belongs to the community (Burgess 1993, Ch. 2, p. 13). (D-claim; interpretive)
+
+### Noyes: Planning Gain and the Ecological Dimension
+
+The edited volume [*Now the Synthesis*](/wiki/now-the-synthesis/) (1991) extends the LVT case in two directions relevant here. Francis M. Smith's chapter on UK "planning gain" documents that when farmland is converted to housing, land value increases "can be a thousandfold" (Smith, in Noyes ed. 1991, p. 61; an earlier draft of this page misattributed the chapter to Fred Harrison — corrected against the book's contents page) — evidence that planning permission generates land value gains that are community-created and could be captured via LVT. Harrison argues this is "a partial demonstration of the principle that Henry George established, i.e., that the value of land is created by the community and should justly be returned to the community" (Harrison 1991, p. 61). (B-claim; empirical)
+
+David Richards's chapter connects LVT to the ecological dimension: "every person in every generation has an equal right to the use of land was Henry George's basic moral axiom. It is one with which few people would disagree, and it is certainly common ground in the Green movement" (Richards 1991, p. 159). Backhaus and Krabbe argue that incentive taxation (taxing land and resource rents rather than labor and capital) is environmentally beneficial, though "complex — yet feasible" (Backhaus & Krabbe 1991, p. 10). (C-claim; theoretical)
+
+### Adams: Contemporary LVT Case
+
+Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm for a Thriving World*](/wiki/land-a-new-paradigm/) (2015), arguing that collecting land rent for public revenue is "a new paradigm" that distinguishes land from capital — a distinction classical economists made but neoclassical economics largely abandoned. Adams argues that capitalism "has never had true capitalism" because the land monopoly prevents markets from being truly free (Adams 2015, Ch. 3), and that "property owners merely need to pay the communities from which they receive benefits through their exclusive use of land the exact market value of the benefits that they receive" (Adams 2015, Ch. 8). (D-claim; interpretive)
+
 ## See Also
 
-- [Ramin Shokrizade](/wiki/ramin-shokrizade/) — game economist who independently re-derived a land-value-tax-style holding fee to fix EVE Online's virtual land speculation, without prior knowledge of Georgist theory
-- [Veil of Secrecy over Land Ownership and Values](/wiki/land-ownership-secrecy/) — Harrison's account of systematic suppression of land ownership and price data as a standing obstacle to assessment and rent capture
+- [Physiocrats](/wiki/physiocrats/) — the *produit net* / *impôt unique* forerunners of land-value taxation
 - [Site Value](/wiki/site-value/)
 
 - [Land Value Capture](/wiki/land-value-capture/)
@@ -65,6 +108,13 @@ Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radica
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — a documented American implementation
 - [Objection: if LVT is so good, why has almost no one adopted it?](/wiki/lvt-not-widely-adopted/) — the adoption record and what the rollbacks show
 - [ATCOR](/wiki/atcor/) — the theorem that all taxes ultimately come out of rent
+- [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's rate-rent as practical LVT
+- [Robert V. Andelson](/wiki/robert-v-andelson/) — editor of *Critics of Henry George*
+- [Phillip J. Bryson](/wiki/phillip-bryson/) — economist who rehabilitated George's LVT analysis
+- [Ronald Burgess](/wiki/ronald-burgess/) — author of *Public Revenue Without Taxation*
+- [Public Revenue Without Taxation](/wiki/public-revenue-without-taxation/) — Burgess on LVT as non-tax revenue
+- [Now the Synthesis](/wiki/now-the-synthesis/) — planning gain and ecological dimension
+- [Land: A New Paradigm for a Thriving World](/wiki/land-a-new-paradigm/) — Adams's contemporary LVT case
 
 ## Sources
 
@@ -74,3 +124,10 @@ Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radica
 4. Robert V. Andelson, ed. (2001), *Land Value Taxation Around the World* — [wiki summary](/wiki/andelson-lvt-around-the-world/), the standard country-by-country reference on how LVT has actually been implemented.
 5. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Chs. 14–15, 20 — used for US land value estimates ($24–44T), annual rent estimates ($1.2–3.5T), land as ~40% of household wealth, the Danish natural experiment (Høj et al. 2017), and Friedman's "least bad tax" endorsement (A/B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 6. Eric A. Posner & E. Glen Weyl, *Radical Markets*, Princeton University Press, 2018, Ch. 1 — used for the COST as a modern extension of LVT to all property (A-claim). See [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/).
+7. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. II — used for the rate-rent decomposition as practical LVT (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)
+8. Robert V. Andelson (ed.), *Critics of Henry George* (New York: Robert Schalkenbach Foundation, 1979) — used for responses to standard critiques of LVT (D-claims). [Book page](/wiki/critics-of-henry-george/)
+9. Phillip J. Bryson, *The Economics of Henry George* (New York: Palgrave Macmillan, 2011) — used for the rehabilitation thesis and George's economic theory (C/D-claims). [Book page](/wiki/economics-of-henry-george/)
+10. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* (Oxford: Oxford University Press, 1980) — used for UK LVT history and the People's Budget land-value duties (A/B-claims). [Book page](/wiki/peoples-budget-1909/)
+11. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the argument that LVT is a non-tax revenue source and the Physiocratic-Georgist lineage (C/D-claims). [Book page](/wiki/public-revenue-without-taxation/)
+12. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (London: Shepheard-Walwyn, 1991) — used for planning gain evidence and the ecological-LVT connection (B/C-claims). [Book page](/wiki/now-the-synthesis/)
+13. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the contemporary popular LVT case and the land/capital distinction (D-claim). [Book page](/wiki/land-a-new-paradigm/)

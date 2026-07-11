@@ -12,8 +12,9 @@ last_reviewed: 2026-07-07
 
 The **Land Tenure Reform Association (LTRA)** was a British land-reform pressure group
 founded in **1869** at the initiative of [John Stuart Mill](/wiki/john-stuart-mill/), who
-became its most prominent figure and wrote its *Programme, with an Explanatory Statement*
-in **1871**. Its purpose was to carry Mill's land programme — above all the
+became its most prominent figure and wrote its *[Programme, with an Explanatory
+Statement](/wiki/land-tenure-reform-programme-1871/)* in **1871** (reproduced in full on
+this wiki). Its purpose was to carry Mill's land programme — above all the
 **taxation of the future [unearned increment](/wiki/unearned-increment/)** of land values —
 out of his *Principles of Political Economy* and into organised politics. It was Mill's last
 major public campaign before his death in 1873.

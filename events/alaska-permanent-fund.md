@@ -21,6 +21,8 @@ The Fund is the most prominent, durable demonstration that [resource-rent divide
 
 ## See Also
 
+- [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — the distributional evidence on the PFD, honestly graded
+
 - [Alaska](/wiki/alaska/)
 
 - [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — the leading causal evaluation of the PFD's labor-market effects

@@ -9,7 +9,7 @@ source_url: https://doi.org/10.1162/rest_a_00710
 stub: false
 excerpt: "The first cross-sectional, transaction-based land-value index for every US metro area, finding urban land worth over twice GDP and just five metro areas — New York, LA, San Francisco, DC, Chicago — holding 48% of all US urban land value."
 last_reviewed: 2026-07-03
-supports_outcomes: [land-rent-could-fund-government]
+supports_outcomes: [land-rent-could-fund-government, rising-land-costs-drive-poverty]
 ---
 
 ## Summary
@@ -160,6 +160,8 @@ US urban land — by area, not value — worth relatively little per acre.
   concentration to the growth of finance, insurance, and real estate.
 
 ## See Also
+
+- [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) · [Hudson: Where Did All the Land Go?](/wiki/hudson-where-did-all-the-land-go/) — the residual-method measurement cluster, from both directions
 
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
