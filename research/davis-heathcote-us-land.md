@@ -54,6 +54,8 @@ The Davis-Heathcote series and the Davis-Palumbo (2008) city-level series togeth
 
 ## See Also
 
+- [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — the hedonic check on this residual method · [Hudson 2001](/wiki/hudson-where-did-all-the-land-go/) — the critique of Fed land accounting
+
 - [Larson — New Estimates of Value of Land of the United States](/wiki/larson-us-land-value/)
 - [Albouy, Ehrlich & Shin — Metropolitan Land Values](/wiki/albouy-ehrlich-shin-metro-land/)
 - [Land Rent Could Fund Government](/wiki/land-rent-could-fund-government/)

@@ -161,6 +161,8 @@ US urban land — by area, not value — worth relatively little per acre.
 
 ## See Also
 
+- [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) · [Hudson: Where Did All the Land Go?](/wiki/hudson-where-did-all-the-land-go/) — the residual-method measurement cluster, from both directions
+
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [What Are Cities Worth?](/wiki/albouy-what-are-cities-worth/)

@@ -29,6 +29,8 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 
 ## See Also
 
+- [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — tract-level hedonic land/structure separation at million-transaction scale
+
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)

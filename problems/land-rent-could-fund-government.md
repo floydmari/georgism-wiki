@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, revenue-sufficiency, atcor, land-rent]
 stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"
-supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont]
+supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont, kuminoff-pope-land-values]
 excerpt: "Estimates of total land rent suggest it could fund a substantial fraction — by some accounts most — of government, though figures are sensitive to assumptions."
 ---
 
@@ -69,12 +69,16 @@ See: [Public Revenue Without Taxation (Burgess)](/wiki/public-revenue-without-ta
 
 ## See Also
 
+- [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — hedonic land/structure separation at scale, which also disciplines the residual method's over-attribution to land · [Hudson: Where Did All the Land Go?](/wiki/hudson-where-did-all-the-land-go/) — the understatement critique of official land accounts (attributed)
+
 - [Tideman, Kumhof, Hudson & Goodhart (2021)](/wiki/goodhart-stimulus/) — the macro-model tax-shift case (stub, pending full read)
 - [Dwyer (2003), Taxable Capacity of Australian Land](/wiki/dwyer-taxable-capacity-australia/) — the national calculation (stub, pending full read)
 
 - [World Bank, The Changing Wealth of Nations 2021](/wiki/world-bank-changing-wealth/) — wealth-accounting scale evidence
 
 - [ATCOR](/wiki/atcor/) · [Single Tax](/wiki/single-tax/) · [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
+
+At the measurement layer, [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) separate land from structure value hedonically across a million-plus transactions — establishing that the land component is large and separable, while cautioning that residual methods over-attribute boom-bust swings to land.
 
 ## Sources
 
