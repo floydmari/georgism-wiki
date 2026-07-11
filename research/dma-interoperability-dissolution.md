@@ -163,6 +163,8 @@ quality) is the empirical question the next few years will answer.
 
 ## See Also
 
+
+- [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Platform and Data Rents](/wiki/data-rents/) — the capture-or-dissolve design choice the DMA answers on the dissolve side; the concept explicitly names "the logic of the EU's Digital Markets Act 'gatekeeper' rules"
 - [Furman Review — Unlocking Digital Competition](/wiki/furman-review-digital-competition/) — the intellectual template for interoperability-and-data-mobility remedies the DMA enacts
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the capture pole, and the cautionary incidence tale

@@ -40,7 +40,7 @@ The Fund is the redistributive half of Common Wealth Canada's programme — wher
 
 ## Sources
 
-1. Common Wealth Canada, *The Common Wealth Fund: Investing for Canada's Future* — used
-   for the advocacy proposal to pool publicly-owned assets into a sovereign fund paying
+1. Common Wealth Canada, *The Common Wealth Fund: Investing for Canada's Future*
+   — used for the advocacy proposal to pool publicly-owned assets into a sovereign fund paying
    a citizen's dividend (a Meade-style citizens'-trust design, cited as its proponent's
    position). [commonwealth.ca/fund](https://commonwealth.ca/fund)

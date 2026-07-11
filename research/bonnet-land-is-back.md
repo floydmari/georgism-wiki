@@ -28,8 +28,8 @@ This 2021 *European Economic Review* paper by Bonnet, Chapelle, Trannoy, and Was
 ## Sources
 
 1. Odran Bonnet, Guillaume Chapelle, Alain Trannoy & Etienne Wasmer (2021), "Land is
-   Back, It Should Be Taxed, It Can Be Taxed," *European Economic Review* 134 — used
-   for the European decomposition showing the modern rise in capital's value is land,
+   Back, It Should Be Taxed, It Can Be Taxed," *European Economic Review* 134
+   — used for the European decomposition showing the modern rise in capital's value is land,
    and for the feasibility argument that land can be taxed despite assessment concerns.
    [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)
 2. US precursor: [Rognlie (2015) — wiki summary](/wiki/rognlie-capital-share/)

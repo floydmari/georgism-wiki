@@ -54,12 +54,16 @@ is on the [research page](/wiki/gochenour-caplan-search-theoretic/).
    paper offers no estimate of how much aggregate land value is
    discovery-contingent; the wiki flags that as the critique's key unquantified
    step.[1]
-3. **The definitional counter — Foldvary's peer-reviewed reply.** Fred Foldvary's
+3. **The definitional counter — [Foldvary's peer-reviewed reply](/wiki/foldvary-reply-gochenour-caplan/).** Fred Foldvary's
    "Reply to the Caplan and Gochenour critique of Georgism" (*Review of Austrian
-   Economics* 27(4), 2014) contests the reframing at its root — disputing the
-   claim that all apparent natural-resource value is really produced discovery
-   value.[3] Its full arguments await a primary read (flagged on the research
-   page).
+   Economics* 27(4), 2014) contests the reframing at its root: *discovery is not
+   production*. His thesis — "entrepreneurship and investment create human capital
+   and capital goods, not natural resources" — denies that any quasi-rent is
+   created by search at all, so taxing revealed land value does not tax a produced
+   good.[3] Where Doucet concedes some quasi-rent must stay private, Foldvary
+   contests the premise. (The reply's body is paywalled; the [research
+   page](/wiki/foldvary-reply-gochenour-caplan/) builds on its verbatim abstract
+   and reference list.)
 4. **The disanalogy in the political-economy extension.** The paper's regime-
    uncertainty exhibit (Idi Amin's 1971 expropriations) is uncompensated
    ethnically-targeted seizure under dictatorship — a weak analogy to legislated,
@@ -83,6 +87,7 @@ sufficiency of an 85% capture rate rest on unquantified composition claims.
 ## See Also
 
 - [Gochenour & Caplan (2013) — the primary paper, read in full](/wiki/gochenour-caplan-search-theoretic/)
+- [Foldvary's Reply (2014) — the peer-reviewed rebuttal](/wiki/foldvary-reply-gochenour-caplan/)
 - [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/)
 - [Dwarkesh & Doucet Podcast](/wiki/dwarkesh-doucet-podcast/) — the practical rebuttal
 - [Objection: LVT's Austrian critique](/wiki/lvt-austrian-critique/) — the adjacent tradition

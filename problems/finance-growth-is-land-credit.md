@@ -51,7 +51,9 @@ mainstream long-run data that make no reference to George or rent theory.
 If the financial sector's growth is mostly the financing of land, then two Georgist
 claims gain empirical footing. First, the [18-year land cycle](/wiki/18-year-land-cycle/)
 and the [land-speculation-causes-cycles](/wiki/land-speculation-causes-cycles/) account
-are not a fringe story about property: the mainstream credit-cycle literature shows the
+are not a fringe story about property: the mainstream credit-cycle literature — including
+[Borio's BIS financial-cycle work](/wiki/borio-financial-cycle/), which finds the cycle
+"most parsimoniously described in terms of credit and property prices" — shows the
 credit that fuels the cycle is overwhelmingly mortgage credit. Second, a
 [land value tax](/wiki/land-value-tax/) — by pulling the untaxed capital gain out of
 land — would shrink precisely the collateral value that the mortgage-credit machine
@@ -65,7 +67,9 @@ source.
 The strong, well-identified result here is about **composition**: finance's growth is
 mortgage-dominated, and the appreciating collateral is land. That is robust. It does
 **not** by itself establish the further, contested claim that financial-sector *income*
-is largely economic rent — [Philippon's efficiency puzzle](/wiki/philippon-finance-efficiency/)
+is largely economic rent — the heterodox statement of *that* claim is
+[Bezemer & Hudson (2016)](/wiki/bezemer-hudson-finance-is-not-the-economy/), which the wiki
+carries as attributed argument, not settled fact; [Philippon's efficiency puzzle](/wiki/philippon-finance-efficiency/)
 is suggestive on that front but not dispositive, and the [FIRE-sector](/wiki/fire-sector/)
 page carries the strongest counter-view (Cochrane: the size of finance is consistent
 with rising demand for genuine services, and the "FIRE" grouping itself can manufacture
@@ -78,6 +82,7 @@ lending against land.
 - [The FIRE Sector](/wiki/fire-sector/) — the framing and the counter-view
 - [The Great Mortgaging](/wiki/great-mortgaging/) · [No Price Like Home](/wiki/knoll-schularick-steger-house-prices/) — the two supporting studies
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the income-side evidence, kept honest
+- [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the interpretive companion that reads this composition as rent · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the credit-side steelman
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/)
 - [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — where this "credit is land credit" point does its work
 - [Geoism](/wiki/geoism/) — the rent-domain program and its gradient

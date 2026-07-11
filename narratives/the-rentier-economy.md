@@ -37,7 +37,12 @@ distinguishes it from the related
   insurance, and real estate) has come to extract rent — much of it channelled through
   mortgage credit into land prices — at the expense of industrial, wage-earning
   capitalism, and that national accounts wrongly record much of this extraction as
-  productive output.[1]
+  productive output.[1] The peer-reviewed statement of the "finance income is rent" core,
+  with Dirk Bezemer, is
+  [*Finance Is Not the Economy*](/wiki/bezemer-hudson-finance-is-not-the-economy/)
+  (*Journal of Economic Issues*, 2016), which grounds the claim in the classical
+  distinction between productive and unproductive (asset-inflating, mostly mortgage)
+  credit.[1a]
   He co-authored the applied policy version of the argument with
   [Goodhart, Kumhof and Tideman](/wiki/goodhart-stimulus/) (2021), modelling a shift of
   taxation from income onto land.[2]
@@ -225,6 +230,7 @@ the wiki; the extensions beyond land are newer and thinner.
 
 - [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — the markup evidence behind the rent-extraction reading of modern profits
 - [FIRE Sector](/wiki/fire-sector/) — Hudson's category for the finance/real-estate rent-extraction mechanism
+- [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the peer-reviewed statement of this narrative's finance-rent core
 
 - [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) — the underlying concepts
 - [Capital-share rise is land](/wiki/capital-share-rise-is-land/) — the narrative's strongest evidence
@@ -242,6 +248,12 @@ the wiki; the extensions beyond land are newer and thinner.
    [Internet Archive](https://archive.org/details/isbn_9780989763752) ·
    [wiki summary](/wiki/hudson-killing-the-host/) — used for the
    FIRE-sector rent-extraction thesis (D-claim, attributed).
+1a. Dirk Bezemer & Michael Hudson, "Finance Is Not the Economy: Reviving the Conceptual
+   Distinction," *Journal of Economic Issues* 50(3), 2016, pp. 745–768.
+   [Free PDF](https://www.boeckler.de/pdf/v_2016_10_21_hudson.pdf) ·
+   [wiki summary](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the peer-reviewed
+   statement of the productive/unproductive-credit distinction and the "finance income is
+   rent" core (D-claim, attributed).
 2. Charles Goodhart, Michael Hudson, Michael Kumhof & Nicolaus Tideman, "Post-Corona
    Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto Land," CEPR
    Discussion Paper 16652, 2021.

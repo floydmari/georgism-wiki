@@ -3,12 +3,15 @@ title: "Ronald Burgess"
 category: people
 tags: [people, burgess, georgism, public-revenue, land-rent, shepheard-walwyn, uk-policy]
 stub: false
-excerpt: "Author of 'Public Revenue Without Taxation' (1993), published by Shepheard-Walwyn. Burgess argued that land rent can and should replace all conventional taxation, extending the Georgist case to modern UK fiscal policy."
+born: 1923
+died: 2002
+excerpt: "British economist (1923–2002) and author of 'Public Revenue Without Taxation' (1993), published by Shepheard-Walwyn. Burgess argued that land rent can and should replace all conventional taxation, extending the Georgist case to modern UK fiscal policy."
+last_reviewed: 2026-07-11
 ---
 
 ## Summary
 
-Ronald Burgess (d. 2002) was a British economist and Georgist policy advocate, director of the Economic Study Association from its inception in 1965 until his death, best known for *Public Revenue Without Taxation* (1993, Shepheard-Walwyn). Burgess argued that the collection of land rent for public revenue is both economically superior to and morally distinct from conventional taxation, which he characterized as neither necessary nor just. His work extends the Georgist tradition into modern British fiscal policy debates, engaging with Keynesian, monetarist, and supply-side schools of economic thought. (A-claim; factual)
+Ronald Burgess (August 1, 1923 – January 31, 2002) was a British economist and Georgist policy advocate associated with the Economic Study Association until his death, best known for *Public Revenue Without Taxation* (1993, Shepheard-Walwyn). Burgess argued that the collection of land rent for public revenue is both economically superior to and morally distinct from conventional taxation, which he characterized as neither necessary nor just. His work extends the Georgist tradition into modern British fiscal policy debates, engaging with Keynesian, monetarist, and supply-side schools of economic thought. (A-claim; factual)
 
 ## Key Ideas/Contributions
 
@@ -40,5 +43,6 @@ Ronald Burgess (d. 2002) was a British economist and Georgist policy advocate, d
 
 1. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993). — used for the land-rent-as-revenue argument, critique of Keynesian/monetarist schools, and the primary division thesis (A/C/D-claims). [book page](/wiki/public-revenue-without-taxation/)
 2. Colin Clark, "Public Finance and Changes in the Value of Money," *Economic Journal* 55(220) (December 1945) — used for the 25% NNP tax limit that Burgess engages with (B-claim).
-3. "Public Revenue without Taxation," Shepheard-Walwyn (Publishers). [Publisher page](https://shepheardwalwyn.com/product/public-revenue-without-taxation/) — used for Burgess's role as director of the Economic Study Association from 1965 until his death in 2002 (A-claim).
+3. "Public Revenue without Taxation," Shepheard-Walwyn (Publishers). [Publisher page](https://shepheardwalwyn.com/product/public-revenue-without-taxation/) — used for Burgess's association with the Economic Study Association (A-claim).
 4. Henry George, *Progress and Poverty* (1879) — the intellectual foundation Burgess builds on (C-claim).
+5. "Biography," [Economic Study Association](https://economicstudyassociation.org/biography/) — gives "Ronald Burgess (1st August 1923–31st January 2002)…a British economist and adviser to think tanks and governments from the 1950s until his retirement in 1996," who "died at York"; corroborated by the association's [Publications page](https://economicstudyassociation.org/publications/) ("Ronald Burgess (1923–2002) studied and taught economics for more than fifty years"). Used for the verified birth/death dates (A-claim; two independent ESA records).

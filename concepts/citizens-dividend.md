@@ -36,8 +36,13 @@ In *Capitalism 3.0*, Barnes proposes that commons trusts distribute revenue as "
 
 Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-rent-financed "National Fund" paying capital grants at 21 and pensions from age 50 — as the historical foundation for the citizen's dividend (Barnes 2014, Ch. 1). The wiki holds [the primary text](/wiki/agrarian-justice/) in full and treats the proposal in detail in the [citizens' dividend narrative](/wiki/citizens-dividend-narrative/); cite Paine directly rather than through Barnes. (A-claim; factual)
 
+## Scholarly Treatment of the Georgist Lineage
+
+Bill Raley's BIEN Congress 2018 paper [*The Citizen's Dividend*](/wiki/raley-citizens-dividend/) is a scholarly articulation of the concept's philosophical basis: it derives the entitlement to a dividend from the **Locke–Paine–George** tradition of common ownership — "every citizen, as a joint-owner of the commons, is entitled to their share of the nation's 'groundrent'" — and frames Paine's *Agrarian Justice* and George's *Progress and Poverty* as the direct ancestors of a modern basic income. Notably, Raley then *departs* from George on the instrument: he argues the dividend need not be funded by a literal land tax and proposes a 20% VAT as a proxy for the ≈20% of GDP he attributes to natural resources. That break — Georgist entitlement, non-Georgist funding — is exactly where a [land value tax](/wiki/land-value-tax/) purist should push back, since a consumption tax collects from labour and capital rather than from land [rent](/wiki/economic-rent/). (See the [research page](/wiki/raley-citizens-dividend/) for the full argument and its limits.)
+
 ## See Also
 
+- [Raley, The Citizen's Dividend (BIEN 2018)](/wiki/raley-citizens-dividend/) — scholarly grounding of the dividend in the Locke–Paine–George tradition, with a divergent VAT funding proposal
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — what the evidence actually shows on the poverty/inequality claim
 
 - [Barnes — Who Owns the Sky? (cap-and-dividend)](/wiki/barnes-sky-trust/)
@@ -59,3 +64,4 @@ Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-re
 2. Alaska Permanent Fund Dividend — used as the operating real-world example (A-claims; full evidence on [the outcome page](/wiki/resource-rent-dividends-work/)).
 3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the universal dividend from co-owned wealth proposal and the Paine lineage (C/A-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend mechanism (C-claim). [Book page](/wiki/capitalism-3-0/)
+5. Bill Raley, "The Citizen's Dividend," 18th BIEN Congress (Tampere, 2018) — used for the Locke–Paine–George entitlement rationale and the VAT-funded proposal (attributed; grey-literature conference paper). [Research page](/wiki/raley-citizens-dividend/)

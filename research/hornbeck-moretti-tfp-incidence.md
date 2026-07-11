@@ -157,8 +157,8 @@ class capture productivity growth economy-wide. Cited fairly, it supports the *m
 1. Richard Hornbeck & Enrico Moretti, "Who Benefits From Productivity Growth? Direct and
    Indirect Effects of Local TFP Growth on Wages, Rents, and Inequality," *NBER Working
    Paper* No. 24661, May 2018 (revised January 2019).
-   [PDF](https://www.nber.org/system/files/working_papers/w24661/w24661.pdf) — used
-   throughout for the abstract incidence quotes (renters' gains "largely offset,"
+   [PDF](https://www.nber.org/system/files/working_papers/w24661/w24661.pdf) — used for,
+   throughout the page, the abstract incidence quotes (renters' gains "largely offset,"
    homeowner benefits "substantial"), the 38% indirect-effects figure, the explicit
    Ricardo-revival and labor-vs-land framing, the spatial-equilibrium incidence rule and
    its fixed-housing-supply capitalization limit, the 0.5–0.6%/year aggregate gain, and

@@ -115,6 +115,8 @@ plainly.[12]
 
 ## See Also
 
+
+- [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Outcome: Rent-targeting corporate taxes reduce debt bias](/wiki/rent-targeting-taxes-reduce-debt-bias/) — the evidence-graded verdict
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the expensing route to the same rent-only base
 - [Quasi-Rent](/wiki/quasi-rent/) — why "above-normal" is not automatically "unearned"

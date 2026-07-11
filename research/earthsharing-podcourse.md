@@ -20,6 +20,6 @@ Unlike a conversational podcast, the Podcourse is **pedagogical** — a sequence
 
 ## Sources
 
-1. "The Georgist Podcourse," Earthsharing Australia (2019) — used as an introductory
-   educational resource on Georgist economics (an advocacy/education source, cited as
-   such). [earthsharing.org.au](http://www.earthsharing.org.au/2019/05/the-georgist-podcourse/)
+1. "The Georgist Podcourse," Earthsharing Australia (2019) — used for this page's
+   description of the 12-part course and its pedagogical framing (an advocacy/education
+   source, cited as such). [earthsharing.org.au](http://www.earthsharing.org.au/2019/05/the-georgist-podcourse/)

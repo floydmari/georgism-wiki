@@ -26,7 +26,7 @@ Municipalities receiving large resource-rent transfers exhibit **lower tax effor
 ## Sources
 
 1. Luis Martinez (2018), "Natural Resource Rents, Local Taxes, and Government
-   Performance: Evidence from Colombia," SSRN — used as the counter-case on resource
+   Performance: Evidence from Colombia," SSRN — used for the counter-case on resource
    rents: windfall oil/mineral transfers to Colombian municipalities were associated
    with worse governance and possible capture, versus revenue raised via local taxes.
    [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273001)

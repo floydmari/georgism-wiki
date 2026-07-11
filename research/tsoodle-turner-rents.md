@@ -65,8 +65,8 @@ author-hosted PDF exists (k-state.edu, unfetched). Scan depth **Light**.
 
 1. Leah J. Tsoodle & Tracy M. Turner, "Property Taxes and Residential Rents," *Real
    Estate Economics* 36(1), 2008, pp. 63–80.
-   [DOI](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6229.2008.00207.x) —
-   used for the pass-through finding and magnitude (B-claim).
+   [DOI](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6229.2008.00207.x)
+   — used for the pass-through finding and magnitude (B-claim).
 2. Larry L. Orr, "The Incidence of Differential Property Taxes on Urban Housing,"
    *National Tax Journal* 21(3), 1968, pp. 253–262. — no-shifting result (B-claim).
 3. John D. Heinberg & Wallace E. Oates, "The Incidence of Differential Property
