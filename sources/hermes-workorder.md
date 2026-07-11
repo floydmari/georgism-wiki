@@ -42,7 +42,7 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/miller-on-fairness-and-efficiency.md` — **CITATION NEEDED** pending direct verification against the book's own bibliography. [Book page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 22 of 22
+## needs-unblocked-web (proxy allowlist or manual fetch) — 21 of 21
 
 - `concepts/property-owning-democracy.md` — **CITATION NEEDED** a directly fetchable, stable URL for this background — Wikipedia's "Property-owning democracy" article covers the term's origin but could not be fetched directl
 - `people/donald-shoup.md` — **VERIFY** direct fetch of this PDF was not completed in this research pass; the paper's exact mechanism and conclusions should be confirmed against the primary text in a 
@@ -55,7 +55,6 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `people/steven-cord.md` — **VERIFY** this page could not be independently fetched in full during this research pass; details are drawn from search-engine-indexed excerpts.
 - `places/australia.md` — **VERIFY** direct page citation for the 1952-abolition-as-destabilising argument against the primary text
 - `places/australia.md` — **VERIFY** confirm exact wording of the review's land-tax recommendation against the primary Treasury report, which could not be directly fetched in this environment
-- `places/germany.md` — **CITATION NEEDED** a directly quoted figure and page/paragraph reference — this session worked from search-result summaries of the Bundesbank brief rather than the fetched full te
 - `organizations/crown-estate.md` — **CITATION NEEDED** the specific claim and figures the discovery report drew from Ch. 2 §2.6, verified against the primary text.
 - `events/panic-of-1837.md` — **VERIFY** exact page/quotation against primary text — drafted from discovery notes, not a direct read
 - `research/andelson-rejoinder-to-hayek.md` — **CITATION NEEDED** a directly quoted passage with page numbers from the full text — this session's fetch tools returned access-restricted pages for both the Wiley and SSRN copies,
@@ -68,4 +67,4 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/vague-brief-history-of-doom.md` — **CITATION NEEDED** a direct read of the Prologue and Chs. 10 and 12, the sections Akhil Patel draws on in *The Secret Wealth Advantage*, for the specific private-debt-to-GDP figur
 
 
-*53 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
+*52 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*

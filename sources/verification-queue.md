@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-11 by `scripts/verification_queue.py` (190 markers). 
+Generated 2026-07-11 by `scripts/verification_queue.py` (183 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -44,7 +44,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/miller-on-fairness-and-efficiency.md` — **CITATION NEEDED** pending direct verification against the book's own bibliography. [Book page
 - `research/widerquist-howard-pfd.md` — **CITATION NEEDED** direct access to the book's full text (chapters not individually confirmed above via primary text, only via publisher/RePEc chapter listings and secondary summa
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (22)
+## needs-unblocked-web (proxy allowlist or manual fetch) (21)
 
 - `concepts/property-owning-democracy.md` — **CITATION NEEDED** a directly fetchable, stable URL for this background — Wikipedia's "Property-owning democracy" article covers the term's origin but could not be fetched directl
 - `people/donald-shoup.md` — **VERIFY** direct fetch of this PDF was not completed in this research pass; the paper's exact mechanism and conclusions should be confirmed against the primary text in a 
@@ -57,7 +57,6 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/steven-cord.md` — **VERIFY** this page could not be independently fetched in full during this research pass; details are drawn from search-engine-indexed excerpts.
 - `places/australia.md` — **VERIFY** direct page citation for the 1952-abolition-as-destabilising argument against the primary text
 - `places/australia.md` — **VERIFY** confirm exact wording of the review's land-tax recommendation against the primary Treasury report, which could not be directly fetched in this environment
-- `places/germany.md` — **CITATION NEEDED** a directly quoted figure and page/paragraph reference — this session worked from search-result summaries of the Bundesbank brief rather than the fetched full te
 - `organizations/crown-estate.md` — **CITATION NEEDED** the specific claim and figures the discovery report drew from Ch. 2 §2.6, verified against the primary text.
 - `events/panic-of-1837.md` — **VERIFY** exact page/quotation against primary text — drafted from discovery notes, not a direct read
 - `research/andelson-rejoinder-to-hayek.md` — **CITATION NEEDED** a directly quoted passage with page numbers from the full text — this session's fetch tools returned access-restricted pages for both the Wiley and SSRN copies,
@@ -87,7 +86,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/melichar-farm-income-asset-values.md` — **CITATION NEEDED** exact original publication (journal/report title, volume, pages) of Melichar's 1978 "Farm Income and Asset Values, 1950-77" study — this session could not indep
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (119)
+## unclassified (T1 triage) (113)
 
 - `concepts/clean-slate-proclamations.md` — **CITATION NEEDED** a peer-reviewed Assyriological source (e.g., work by Dominique Charpin or the late Fritz Rudolf Kraus, whose research most of this literature ultimately rests o
 - `concepts/common-agricultural-policy.md` — **CITATION NEEDED** direct quotation or page-level claim from Harrison, *Ricardo's Law*, Ch. 7, "To CAP it All"
@@ -133,11 +132,9 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `places/canberra-leasehold-system.md` — **VERIFY** an independent, non-Georgist-aligned academic or government history of the ACT leasehold system's fiscal performance over its full century, to cross-check the f
 - `places/canberra-leasehold-system.md` — **CITATION NEEDED** direct consultation of Brennan (1971) or an independent academic history.
 - `places/canberra-leasehold-system.md` — **CITATION NEEDED** A government or peer-reviewed source quantifying, in dollar terms, the total land-rent revenue actually collected by the Commonwealth from Canberra leases over 
-- `places/germany.md` — **CITATION NEEDED** precise real house-price index figures and years for the "flat for two decades" claim, ideally from OECD or Bundesbank house-price data rather than a real-estat
 - `places/johannesburg-site-value-rating.md` — **CITATION NEEDED** direct citation to Dunkley's original 2000 chapter — this stub relies on Polimeni's secondary summary of it
-- `places/russia-post-soviet-transition.md` — **VERIFY** the Duma speech is available only via a secondary reposting (a Christian Council for Monetary Justice blog quoting a Fred Harrison tweet, itself linking a third
-- `places/russia-post-soviet-transition.md` — **VERIFY** only a secondary reposting was consulted; primary transcript, date, and full context not independently confirmed in this drafting session.
-- `places/silicon-valley.md` — **CITATION NEEDED** an independently verifiable account (news report, academic source, or primary document) of the "Motel 22" homeless encampment referenced by Harrison, and of qua
+- `places/russia-post-soviet-transition.md` — **VERIFY** the transcript remains a LaRouche/Schiller-Institute translation and reposting, not an official Duma stenographic record; the date, title, and quoted wording ar
+- `places/russia-post-soviet-transition.md` — **VERIFY** both remain secondary/translated sources; no official Duma stenographic transcript was located.
 - `places/south-africa.md` — **CITATION NEEDED** a systematic post-2000 account of why the Katz Commission's land tax recommendation was not implemented, beyond the capacity constraints noted in its own report
 - `places/vancouver.md` — **VERIFY** only the *precise* start-year 1969 (as opposed to the fact of a 50→75 percent step somewhere in that window, now independently corroborated) still rests on Engl
 - `objections/bubbles-cannot-be-identified-in-advance.md` — **CITATION NEEDED** a systematic accounting of the land-cycle school's full forecasting track record, including misses
@@ -176,23 +173,19 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `benefits/landlords-cannot-pass-lvt-to-tenants.md` — **CITATION NEEDED** additional quasi-experimental land-tax-specific incidence studies.
 - `narratives/the-tax-you-cant-dodge.md` — **CITATION NEEDED** a cross-country estimate of the assessment gap as a share of potential land-tax revenue — Almy documents the under-revaluation mechanism internationally but doe
 - `narratives/this-time-is-different.md` — **CITATION NEEDED** direct chapter/page verification of "new era" language attributed to Anderson at the 1920s and 2000s cycle peaks specifically, beyond the banking-failure list a
-- `research/azar-schmalz-tecu-common-ownership.md` — **CITATION NEEDED** the paper's own headline point-estimate table, verified by direct extraction of the published article rather than secondary summaries.
 - `research/buchanan-historical-rent-theory.md` — **CITATION NEEDED** direct access to the article's full text. This page's characterization of its content relies on Blaug's secondary description and the article's consistent bibli
-- `research/buettner-german-land-tax-capitalization.md` — **CITATION NEEDED** the paper's original text or a peer-reviewed version, to verify the exact sample, tax-rate range, and estimated capitalization coefficient.
-- `research/choi-sjoquist-lvt-urban-effects.md` — **CITATION NEEDED** the paper's specific numerical findings, to be added once full text is consulted directly rather than via Doucet's secondary characterization.
+- `research/buettner-german-land-tax-capitalization.md` — **CITATION NEEDED** the paper's full text, to verify the exact sample, tax-rate range, and estimated capitalization coefficient.
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** primary-text confirmation of the full regression tables and sample description — available in the paywalled *JUE* article and the ProQuest-gated dissertation (S
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** direct access to the full text (regression tables, sample construction, exact estimation period), available in the paywalled *JUE* article and the ProQuest-gate
 - `research/dwyer-history-lvt-theory.md` — **CITATION NEEDED** page locator within Dwyer's dissertation, or within the postscript, where "superneutrality" is coined/defined
 - `research/foldvary-reply-gochenour-caplan.md` — **CITATION NEEDED** the paywalled full text of Foldvary's reply — its section-level counter-arguments.
 - `research/gaffney-land-distinctive-factor.md` — **VERIFY** pagination and exact wording against the 1994 Shepheard-Walwyn print edition
-- `research/gibbons-machin-school-premiums.md` — **VERIFY** confirm precise premium figures and specification against the primary journal text
 - `research/gochenour-caplan-search-theoretic.md` — **CITATION NEEDED** the paywalled full text of Foldvary's reply — a future editor with institutional access should add its specific counter-arguments to this page or the objection 
 - `research/gochenour-caplan-search-theoretic.md` — **VERIFY** whether later commentary, including the paywalled full text of Foldvary's reply, specifically challenges the Uganda analogy
 - `research/hoyt-chicago-land-values.md` — **CITATION NEEDED** a directly read or quoted excerpt of the 1934 Journal of American History review, beyond its bibliographic listing
 - `research/hudson-killing-the-host.md` — **VERIFY** exact print-edition page numbers for the quoted passages, if precise pagination is later required; unconfirmable from open sources as of 2026-07.
 - `research/hudson-lies-of-the-land.md` — **CITATION NEEDED** independent replication of Hudson's $4.5 trillion revaluation figure.
 - `research/kindleberger-manias-panics-crashes.md` — **CITATION NEEDED** the exact page-level content of Patel's references to Kindleberger in Chs. 10 and 15 — not independently verified this session.
-- `research/mckinsey-global-balance-sheet.md` — **CITATION NEEDED** direct page/table locating the ~39%-of-global-real-assets land figure within the full MGI report, rather than via Doucet's secondary citation.
 - `research/miller-dying-for-justice.md` — **CITATION NEEDED** primary copy of *Dying for Justice* or the Department of Health/Treasury submission, to confirm the exact publication/submission date and the calculation behind
 - `research/miller-on-fairness-and-efficiency.md` — **CITATION NEEDED** this session searched repeatedly for a 2000 publication titled "On Fairness and Efficiency" by an author named Miller — via general web search, WorldCat, and di
 - `research/miller-on-fairness-and-efficiency.md` — **CITATION NEEDED** "Miller (2000), *On Fairness and Efficiency*" — no author full name, publisher, venue, or DOI located via free web search this session (queried WorldCat, genera

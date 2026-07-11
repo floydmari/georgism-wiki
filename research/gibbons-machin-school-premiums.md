@@ -47,10 +47,14 @@ address rather than the school itself.
 
 1. Stephen Gibbons & Stephen Machin (2006), "Paying for Primary Schools: Admission Constraints,
    School Popularity or Congestion?," *The Economic Journal* 116(510): C77–C92. [DOI](https://doi.org/10.1111/j.1468-0297.2006.01077.x) —
-   used for authorship, venue, and the £61,000 / 26%-of-mean-price and 3%-per-10-points findings
-   (as summarized in secondary write-ups of the paper's results; this page has not independently
-   verified the exact figures against the published tables) [VERIFY: confirm precise premium
-   figures and specification against the primary journal text].
+   used for authorship, venue, and the £61,000 / 26%-of-mean-price and 3%-per-10-points findings.
+   The figures were verified verbatim this session against the freely available CEE/LSE working-paper
+   version (CEE Discussion Paper 42, December 2004, identical content): "A ten-percentage point
+   improvement in the 'league-table' performance (at age 11, Key Stage 2) adds at least 3 per cent
+   to the price of properties located next to the school," and "parents can expect a move from an
+   average dwelling outside a weak school, to one outside a top over-subscribed school, to cost
+   around £61000 (26 per cent of the mean property price in London and the South East in
+   Apr-Jun 2004)." [Free LSE working-paper PDF](https://eprints.lse.ac.uk/19459/1/Paying_for_primary_schools_supply_constraints%2C_school_popularity_or_congestion.pdf)
 2. Fred Harrison, *Ricardo's Law: House Prices and the Great Tax Clawback Scam* (Shepheard-Walwyn,
    2006), Ch. 10.4 — used for the discovery context; Harrison cites this paper as evidence that
    the value of public services (schools) capitalizes into house/land prices. [Book page](/wiki/harrison-ricardos-law/)

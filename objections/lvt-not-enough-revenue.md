@@ -96,7 +96,9 @@ theory.
 
 1. Lars A. Doucet, *Land is a Big Deal* (2022), Ch. 11 — used for the Krugman
    quotation and Doucet's reply (A-claims; Heavy scan).
-   [Book page](/wiki/land-is-a-big-deal/)
+   [Book page](/wiki/land-is-a-big-deal/) — primary source for the quotation:
+   Michael Scott Moore, "This Land Is Your Land," *Pacific Standard*, from Moore's
+   2008 Berlin interview with Krugman. [psmag.com](https://psmag.com/news/this-land-is-your-land-3392/)
 2. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3 — used for
    the Blaug quotation (A-claim; scan provenance pending owner attestation — see
    book page). [Book page](/wiki/economic-theory-in-retrospect/)
