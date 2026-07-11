@@ -69,6 +69,8 @@ TAG_IDS = {
     "wiki-places":        "6a232c40819cc700017226b8",
     "wiki-events":        "6a23a953819cc700017227a7",
     "wiki-outcomes":      "6a23a94f819cc70001722791",
+    "wiki-problems":      "6a525e658f5d6d0001cfd591",
+    "wiki-benefits":      "6a525e658f5d6d0001cfd593",
     "wiki-research":      "6a23a175819cc70001722769",
     "wiki-organizations": "6a23a952819cc7000172279f",
     "wiki-objections":    "6a23a955819cc700017227af",
