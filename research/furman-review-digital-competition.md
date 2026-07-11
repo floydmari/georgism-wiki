@@ -143,6 +143,8 @@ durable, and a strong reminder that on the digital frontier the right instrument
 
 ## See Also
 
+- [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+
 - [Platform and Data Rents](/wiki/data-rents/) — the diagnosis the review corroborates
 - [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — the capture-side alternative to the review's dissolve-side remedies
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the other real-world attempt on the same firms

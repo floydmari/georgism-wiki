@@ -54,6 +54,8 @@ The paper's significance for the Georgist case is that it provides an IMF-platfo
 
 ## See Also
 
+- [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the macro/AI companion by the same lead author
+
 - [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)
 - [Superstar Firms](/wiki/superstar-firms/)
 - [Economic Rent](/wiki/economic-rent/)

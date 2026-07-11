@@ -128,6 +128,8 @@ is a useful test of what a frontier rent instrument is really trying to do.
 
 ## See Also
 
+- [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+
 - [Platform and Data Rents](/wiki/data-rents/) — the rents the ad tax targets
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the sibling revenue-tax instrument, and the incidence cautionary tale
 - [Furman Review — Unlocking Digital Competition](/wiki/furman-review-digital-competition/) — the dissolve-the-rent-through-competition alternative
