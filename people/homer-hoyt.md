@@ -29,7 +29,7 @@ data later Georgist writers built on.[3]
 From 1934 to 1940 Hoyt served as chief land economist (later described as principal housing
 economist) at the newly created **Federal Housing Administration (FHA)**, where he helped
 develop the agency's first mortgage-underwriting criteria.[2][4] In 1939 he originated the
-**"sector model"** of urban land use — the theory that cities grow outward along transportation
+**"[sector model](/wiki/sector-model/)"** of urban land use — the theory that cities grow outward along transportation
 corridors in wedge-shaped sectors differentiated by land use and income, rather than in the
 concentric rings proposed by Ernest Burgess's earlier model — one of the most influential
 frameworks in twentieth-century urban geography and planning.[2][5] After the FHA he directed

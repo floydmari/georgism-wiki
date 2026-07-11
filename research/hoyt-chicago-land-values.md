@@ -157,7 +157,7 @@ outcome claim.**
   predicted and later affirmed the pattern's demise (1968–78); the persistence of an ~18-year
   rhythm is the claim of Harrison, Anderson, and successors, maintained *contra* late Hoyt.
 - **Hoyt was not a Georgist and later work is in tension with land-value-capture-friendly
-  planning.** As FHA principal housing economist from 1934, Hoyt's sector model of urban
+  planning.** As FHA principal housing economist from 1934, Hoyt's [sector model](/wiki/sector-model/) of urban
   land use is documented by later urban historians as having contributed to
   racially discriminatory mortgage underwriting practices (redlining) in FHA appraisal
   guidance — a biographical fact that has no bearing on the accuracy of his 1933

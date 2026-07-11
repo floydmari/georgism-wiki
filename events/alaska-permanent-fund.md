@@ -32,4 +32,4 @@ The Fund is the most prominent, durable demonstration that [resource-rent divide
 
 ## Sources
 
-1. Alaska Permanent Fund Corporation — used for the Fund's history and dividend record (established 1976; first dividend 1982). [CITATION NEEDED: direct apfc.org history-page URL on next touch]
+1. Alaska Permanent Fund Corporation, "History of the Alaska Permanent Fund." [apfc.org](https://apfc.org/who-we-are/history-of-the-alaska-permanent-fund/) ([Wayback, 2026-04-16](http://web.archive.org/web/20260416112824/https://apfc.org/who-we-are/history-of-the-alaska-permanent-fund/)) — used for the Fund's history and dividend record. The page confirms the Fund was created by a constitutional amendment on the 1976 statewide ballot (approved 75,588 to 38,518); Governor Jay Hammond signed a bill in 1980 creating APFC and the first Permanent Fund Dividend program, and the first dividend check of $1,000 was distributed two years later (1982). (apfc.org returned HTTP 403 to this wiki's egress; content verified via the Wayback snapshot linked above.)

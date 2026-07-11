@@ -71,7 +71,7 @@ The CEA brief's relevance to the Georgist case is indirect but meaningful:
 
 - **The returns-dispersion finding is presented without the caveats Furman & Orszag applied.** Where Furman and Orszag explicitly noted that rising dispersion "is not, in and of itself, evidence of an increase in rents" (since it could reflect risk premia or noise), the CEA brief presents the same finding more briefly and with less discussion of alternative explanations — though it does use the conditional language that rising returns "may reflect economic rents."
 
-- **[VERIFY]** The brief was accessed via the Obama White House archive. The URL is stable as of this writing, but archive sites occasionally reorganize; a future editor should confirm continued accessibility.
+- The brief was accessed via the Obama White House archive. URL re-confirmed live and accessible 2026-07-11 (HTTP 200; PDF header reads "COUNCIL OF ECONOMIC ADVISERS ISSUE BRIEF, APRIL 2016 — BENEFITS OF COMPETITION AND INDICATORS OF MARKET POWER"). Archive sites occasionally reorganize; if the primary link later fails, use the [Wayback Machine](https://web.archive.org/web/2016*/https://obamawhitehouse.archives.gov/sites/default/files/page/files/20160414_cea_competition_issue_brief.pdf).
 
 ## Bears On
 
