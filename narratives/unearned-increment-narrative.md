@@ -106,9 +106,14 @@ values — is among the better-evidenced propositions in the wiki:
   [the Austrian critique](/wiki/lvt-austrian-critique/).
 - **Unearned decrements.** Land values also fall through no fault of the owner
   (industrial decline, disasters). A symmetric principle seems to imply public sharing
-  of losses as well as gains — a point increment-tax designs must confront and the
-  Georgist literature answers unevenly.
-  [CITATION NEEDED: strongest academic statement of the symmetry/decrement objection.]
+  of losses as well as gains — a point increment-tax designs must confront. The
+  strongest academic statement is the British compensation-and-betterment literature:
+  the 1909 Act's paired recapture of "betterment" and compensation for "worsenment,"
+  the Uthwatt Report (1942), and Hagman & Misczynski's *Windfalls for Wipeouts* (1978),
+  whose title is the thesis.[10] The Georgist answer is uneven against one-off increment
+  taxes but strong for recurrent LVT, whose bill falls automatically as land value falls
+  — see the dedicated
+  [symmetry/decrement objection page](/wiki/symmetry-decrement-objection/).
 - **Administrative record of increment taxes.** The 1909 land duties were complex,
   under-yielded, and were later repealed (see
   [the People's Budget page](/wiki/1909-peoples-budget/); Douglas's account of the
@@ -244,3 +249,11 @@ values — is among the better-evidenced propositions in the wiki:
    [Rognlie 2015](/wiki/rognlie-capital-share/) ·
    [Bonnet et al. 2021](/wiki/bonnet-land-is-back/) ·
    [Schwerhoff et al. 2022](/wiki/schwerhoff-imf-equity-efficiency/) (B-claims).
+10. On the symmetry/decrement objection: Donald G. Hagman, "Betterment For Worsenment:
+   The English 1909 Act and Its Progeny," *University of Queensland Law Journal* 10(1),
+   1977 [PDF (AustLII)](https://www8.austlii.edu.au/au/journals/UQLJ/1977/3.pdf); the
+   Uthwatt Committee *Final Report* (Cmd. 6386, 1942); and Donald G. Hagman & Dean J.
+   Misczynski (eds.), *Windfalls for Wipeouts: Land Value Capture and Compensation*
+   (American Society of Planning Officials, 1978). Full treatment and georgist replies
+   on the [symmetry/decrement objection page](/wiki/symmetry-decrement-objection/)
+   (A/B-claims).

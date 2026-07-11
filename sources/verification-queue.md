@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-11 by `scripts/verification_queue.py` (62 markers). 
+Generated 2026-07-11 by `scripts/verification_queue.py` (56 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -32,19 +32,15 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/tideman-plassmann-losses-of-nations.md` — **VERIFY** the exact G7 loss figure, year basis, and method on direct read — do not cite magnitudes until confirmed against the chapter text.
 - `research/world-bank-changing-wealth.md` — **VERIFY** this session's access to the full main-volume PDF (openknowledge.worldbank.org and the curated documents1.worldbank.org full-report link) returned a 403/binary-
 
-## needs-new-source (research/forage task) (6)
+## needs-new-source (research/forage task) (4)
 
 - `concepts/radical-markets.md` — **CITATION NEEDED** empirical evidence on COST self-assessment accuracy in practice
 - `narratives/land-and-the-black-white-wealth-gap.md` — **CITATION NEEDED** empirical estimate of an LVT-plus-dividend regime's distributional effect by race
 - `narratives/the-great-land-robbery.md` — **CITATION NEEDED** empirical work connecting historical land takings to contemporary land-wealth distribution.
-- `narratives/unearned-increment-narrative.md` — **CITATION NEEDED** strongest academic statement of the symmetry/decrement objection.
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
-- `books/garden-cities-of-to-morrow.md` — **CITATION NEEDED** — Letchworth Garden City Foundation records for empirical data on the first implementation.
 
-## unclassified (T1 triage) (34)
+## unclassified (T1 triage) (30)
 
-- `concepts/ebcor.md` — **CITATION NEEDED** specific critiques of EBCOR or of the claim that deadweight losses are fully capitalized into land rent
-- `concepts/land-value-increment-tax.md` — **CITATION NEEDED** a source explicitly connecting Mill's unearned increment principle to the design of Taiwan's LVIT — the conceptual lineage is supported by the corpus's Sun Yat-
 - `concepts/radical-markets.md` — **CITATION NEEDED** specific administrative-cost comparisons
 - `people/floyd-marinescu.md` — **VERIFY** fuller biographical detail (business background, other ventures) from independent sources when this stub is backfilled.
 - `people/homer-hoyt.md` — **VERIFY** Wikipedia is a tertiary source; the career chronology should be reconciled against a citable secondary biographical source such as the Sage Encyclopedia of Geog
@@ -54,9 +50,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `people/l-d-taylor.md` — **CITATION NEEDED** Taylor's role (if any) in resisting or responding to the early stages of the rollback during his later mayoral terms — the wiki's sources do not address this di
 - `places/vancouver.md` — **VERIFY** only the *precise* start-year 1969 (as opposed to the fact of a 50→75 percent step somewhere in that window, now independently corroborated) still rests on Engl
 - `benefits/landlords-cannot-pass-lvt-to-tenants.md` — **CITATION NEEDED** additional quasi-experimental land-tax-specific incidence studies.
-- `narratives/the-housing-crisis-is-a-land-crisis.md` — **CITATION NEEDED** a general-equilibrium simulation of a large LVT's effect on metro house prices and rents.
-- `narratives/the-rentier-economy.md` — **CITATION NEEDED** an accepted general-purpose rent/profit decomposition method outside real estate.
-- `narratives/the-tax-you-cant-dodge.md` — **CITATION NEEDED** a cross-country estimate of the assessment gap as a share of potential land-tax revenue.
+- `narratives/the-tax-you-cant-dodge.md` — **CITATION NEEDED** a cross-country estimate of the assessment gap as a share of potential land-tax revenue — Almy documents the under-revaluation mechanism internationally but doe
 - `research/blaug-henry-george-rebel.md` — **VERIFY** whether Blaug addresses Gaffney *by name* in the article body — do not attribute an explicit anti-Gaffney sentence to Blaug until the full text is read.
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** primary-text confirmation of the full regression tables and sample description.
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** direct access to the full paywalled text (regression tables, sample construction, exact estimation period) — this session verified the paper's existence, citati

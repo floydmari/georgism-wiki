@@ -83,6 +83,7 @@ Betterment levies in various forms exist or have existed in several countries be
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the first major UK attempt at an increment value duty
 - [David Lloyd George](/wiki/david-lloyd-george/) — the Chancellor who introduced the 1909 land value duties
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the valuation challenge that repeatedly undermined UK betterment levies
+- [Objection: the symmetry/decrement objection](/wiki/symmetry-decrement-objection/) — why event-based betterment capture that ignores "worsenment" is the instrument most exposed to the compensation-symmetry critique (the Uthwatt compensation-and-betterment problem)
 
 ## Sources
 

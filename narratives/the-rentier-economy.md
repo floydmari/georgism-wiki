@@ -133,11 +133,18 @@ the wiki; the extensions beyond land are newer and thinner.
   grounds for capital assets generally.
 - **No standard measurement separates rent from normal return within profit or
   top-income data.** The capitalization studies behind the land finding work at the
-  level of location-specific price gains; no comparable, widely accepted method
+  level of location-specific price gains. Outside real estate the nearest analogues —
+  [Barkai's](/wiki/barkai-declining-shares/) measurement of a rising "pure profit" share
+  (the residual left after paying labour *and* the required return to capital) and
+  [De Loecker, Eeckhout & Unger's](/wiki/de-loecker-eeckhout-unger-markups/) markup
+  estimates — do attempt a general-purpose rent-versus-return split, but they attribute
+  the residual to *market power* rather than land-style scarcity rent, disagree
+  substantially on magnitude and even direction, and command nothing like the consensus
+  the land-capitalization method enjoys. There is still no widely accepted method that
   decomposes a firm's profit margin or an individual's income into "rent" versus
-  productive return outside the land case.
-  [CITATION NEEDED: an accepted general-purpose rent/profit decomposition method
-  outside real estate.]
+  productive return the way capitalization does for land — which is precisely why the
+  land case can carry evidentiary weight the finance and platform extensions cannot yet
+  match.
 - **The step from diagnosis to land taxation needs an explicit bridge.** That much
   measured "capital income" is really land rent is a claim about *where* income
   originates; it does not by itself establish that a *land value tax specifically* —

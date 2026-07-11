@@ -251,4 +251,4 @@ The authors explicitly cite Gaffney's *The Corruption of Economics* (1994) as a 
 
 ## Sources
 
-- Ryan-Collins, Josh, Toby Lloyd, and Laurie Macfarlane. *Rethinking the Economics of Land and Housing.* London: Zed Books, 2017. ISBN 978-1-78699-118-8. — DRM-free EPUB examined; text extracted from EPUB source.
+- Ryan-Collins, Josh, Toby Lloyd, and Laurie Macfarlane. *Rethinking the Economics of Land and Housing.* London: Zed Books, 2017. ISBN 978-1-78699-118-8. — used for all claims and quotations on this page; DRM-free EPUB examined; text extracted from EPUB source.
