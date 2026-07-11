@@ -94,6 +94,8 @@ carries both readings, attributed; the dispute is unresolved in the literature.
 
 ## See Also
 
+- [Greenwood & Scharfstein: The Growth of Finance](/wiki/greenwood-scharfstein-growth-of-finance/) · [Bazot: the cost of finance in Europe](/wiki/bazot-cost-of-finance-europe/) — the scale and unit-cost evidence, US and Europe
+
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
 - [Outcome: Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the strong, evidence-carried version of the finance–land claim
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the persuasive deployment

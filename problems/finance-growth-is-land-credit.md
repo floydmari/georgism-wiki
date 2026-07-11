@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, fire-sector, finance-rents, mortgage, land, credit, geoism]
 stub: false
 evidence_strength: "Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent."
-supported_by: [great-mortgaging, knoll-schularick-steger-house-prices]
+supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, greenwood-scharfstein-growth-of-finance]
 excerpt: "Over the past century the expansion of banking in advanced economies has been, above all, the expansion of mortgage lending — and the value that lending is secured against is overwhelmingly land, not buildings. Much of what looks like 'financial deepening' is the banking system capitalising and collecting land rent."
 challenged_by: []
 ---
@@ -59,6 +59,8 @@ capitalises, which is why Georgists argue it would dampen the credit cycle at it
 source.
 
 ## Honest Scope (rent gradient)
+
+[Greenwood & Scharfstein](/wiki/greenwood-scharfstein-growth-of-finance/) sharpen this scope from the composition side: household credit grew "from 48 percent of GDP in 1980 to 99 percent in 2007," mostly residential mortgages — but the *other* driver of finance's growth, asset-management fees on financial-asset values, is not land. The land-credit claim covers the mortgage half, not the whole of finance.
 
 The strong, well-identified result here is about **composition**: finance's growth is
 mortgage-dominated, and the appreciating collateral is land. That is robust. It does
