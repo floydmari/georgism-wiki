@@ -215,6 +215,8 @@ David Redfearn's *Tolstoy: Principles for a New World Order* (1992) documents To
 
 ## See Also
 
+- [The Deportations Delirium of Nineteen-Twenty (Post, 1923)](/wiki/deportations-delirium/) — a Georgist statesman's civil-liberties record, full text in-repo
+
 - [Liberation Theology](/wiki/liberation-theology/) — the post-Marxist religious strand of the land-reform tradition
 - [Single Tax](/wiki/single-tax/) — the concept page this narrative deploys
 - [Land rent could fund a large share of government](/wiki/land-rent-could-fund-government/) — the contested arithmetic
