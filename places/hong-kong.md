@@ -20,6 +20,7 @@ Hong Kong shows the revenue power of capturing land value. It also illustrates a
 
 ## See Also
 
+- [MTR Corporation](/wiki/mtr-corporation/) — the rail operator whose Rail + Property model captures land-value uplift to fund transit
 - [Land Value Capture](/wiki/land-value-capture/) · [Public Land Leasing](/wiki/public-land-leasing/) · [Singapore](/wiki/singapore/) · [Economic Rent](/wiki/economic-rent/)
 
 ## Sources

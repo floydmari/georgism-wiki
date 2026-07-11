@@ -67,6 +67,7 @@ Unlike Harrison's policy-oriented books, Patel's focus is on how to profit from 
 
 ## See Also
 
+- [Law of Absorption](/wiki/law-of-absorption/) — Patel's term for land absorbing the gains of economic progress, the mechanism driving the upswing of the 18-year land cycle
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Harrison, Boom Bust](/wiki/harrison-boom-bust/)
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/)

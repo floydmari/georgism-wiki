@@ -127,6 +127,13 @@ Harrison acknowledges that homeowners — now the majority — are themselves be
 
 ## See Also
 
+- [Valencia "Land Grab" Law (LRAU, 1994)](/wiki/valencia-land-grab-law/) — a case study Harrison cites of botched land-value capture (Ch. 7 §2)
+- [Ronald Banks](/wiki/ronald-banks/) — Georgist analyst acknowledged in the preface, credited with the £880bn UK output-gain estimate
+- [Portland, Oregon](/wiki/portland-oregon/) — the book's flagship UGB case study (Ch. 2 §1), used against the planning-restriction explanation of high land prices
+- [Ireland](/wiki/ireland/) — the book's case study of an EU-funded land bubble (Ch. 7 §2), later confirmed by the 2008 crash and Ireland's EU-IMF bailout
+- [Philip Snowden](/wiki/philip-snowden/) — Labour Chancellor whose 1931 land value tax, discussed in this book, was suspended then repealed by 1934
+- [Gordon Brown](/wiki/gordon-brown/) — UK Chancellor/PM whose 'no more boom and bust' pledge and Barker Review commission are a central case study of Harrison's book
+- [John Maynard Keynes](/wiki/john-maynard-keynes/) — the central figure in Harrison's critique of how land dropped out of 20th-century macroeconomics, despite Keynes's own General Theory passage distinguishing land's scarcity from capital's.
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Land Speculation](/wiki/land-speculation/)
 - [The Corruption of Economics](/wiki/the-corruption-of-economics/)

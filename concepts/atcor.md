@@ -46,6 +46,8 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 
 ## See Also
 
+- [Monaco](/wiki/monaco/) — near-zero personal taxation fully capitalised into the world's highest land prices, an extreme real-world case of the ATCOR mechanism
+- [Gaffney (2005): The Physiocratic Concept of ATCOR](/wiki/gaffney-atcor/) — the working paper that coined the ATCOR acronym and states the thesis in Gaffney's own words
 - [EBCOR](/wiki/ebcor/)
 
 - [Land Value Tax](/wiki/land-value-tax/)

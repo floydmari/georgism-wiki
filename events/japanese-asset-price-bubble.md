@@ -1,0 +1,50 @@
+---
+title: "Japanese Asset Price Bubble (1986–1991)"
+category: events
+tags: [events, land-bubble, 18-year-land-cycle, boom-bust-cycle, japan, real-estate, credit-cycle]
+year: 1991
+stub: false
+excerpt: "Japan's 1986–1991 land and stock market bubble — commercial land prices up over 300% before an 80% multi-decade collapse — is the most extreme documented land bubble in modern history, feeding directly into Japan's 'lost decades.'"
+last_reviewed: 2026-07-11
+---
+
+## Overview
+
+The **Japanese asset price bubble** was a surge in Japanese land and stock prices roughly from 1986 to 1991, followed by a collapse whose effects on the Japanese economy persisted for well over a decade.[1] Commercial land prices in Japan's six largest cities rose by more than 300% between 1985 and 1991 before entering a decline that, in aggregate across urban Japan, ran to roughly 80% over the following decade or more, while the Nikkei 225 stock index — which peaked at 38,915.87 on December 29, 1989 — had still not reclaimed that high thirty-four years later, in February 2024.[1] At the bubble's peak, commentators frequently observed that the land under the Tokyo Imperial Palace was, by comparable-sales valuation, theoretically worth more than the entire state of California.[1] A Bank of Japan Institute for Monetary and Economic Studies paper by economists Kunio Okina, Masaaki Shirakawa, and Shigenori Shiratsuka treats the episode as a central case study for how monetary policy should — and should not — respond to asset-price inflation.[2]
+
+## Formation of the Bubble
+
+The conventional account links the bubble's origins to the September 1985 Plaza Accord, under which major economies agreed to depreciate the US dollar against the yen; the resulting sharp yen appreciation squeezed Japanese exporters, and the Bank of Japan responded by cutting its official discount rate five times, from 5.0% to 2.5%, between January 1986 and February 1987, holding rates at that level until May 1989.[3][1] Cheap credit flowed heavily into real estate and equities amid financial deregulation, producing a self-reinforcing cycle in which rising land values served as collateral for further lending, which in turn pushed land values higher still.[1][2] [VERIFY: some more recent academic work questions how large a direct causal role the Plaza Accord itself played in inflating asset prices, as distinct from the subsequent domestic monetary and credit-deregulation response — the causal weighting between these factors is not fully settled in the literature consulted here.]
+
+A distinctive symptom of the credit side of the bubble was the spread of extraordinarily long-dated home loans — so-called multi-generational or "100-year" mortgages — introduced by Japanese lenders including government-backed housing finance institutions to let buyers span the cost of bubble-inflated homes across two or three generations of a family; Akhil Patel's *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* discusses these instruments as characteristic excesses of the bubble's later stage.[4][5]
+
+## The Crash and Its Aftermath
+
+The Bank of Japan began raising rates again from 1989, and the Nikkei entered a sharp decline through 1990; commercial land prices in the six large cities peaked in 1991 and then fell for roughly the next fourteen years, with total declines from peak eventually reaching on the order of 70–80% in the hardest-hit categories and cities.[1] The scale of destroyed paper wealth across equities and real estate has been estimated at well over 1,000 trillion yen — several times Japan's annual GDP at the time.[1] Because the bubble had been financed heavily through bank lending secured against land and equities, the crash left Japanese banks holding a large stock of non-performing loans, contributing to the prolonged period of slow growth, deflation, and financial-sector weakness commonly known as Japan's "lost decade," which many economists now describe as having extended into a second and even third decade.[1][2]
+
+## A Georgist and Land-Cycle Reading
+
+Within this wiki's land-cycle literature, Japan is treated as the paradigm case of what a land bubble looks like when unrestrained by a [land value tax](/wiki/land-value-tax/) on the speculative holding of land: rising expectations of further appreciation, amplified by bank credit secured on land itself, produced a rise and collapse in land prices disconnected from the land's underlying productive or rental value — the general pattern described on this wiki's [land bubble](/wiki/land-bubble/) and [land speculation](/wiki/land-speculation/) pages.[6][7] Phillip J. Anderson's *[Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* and Akhil Patel's *Secret Wealth Advantage* both place the Japanese episode within the broader [18-year land cycle](/wiki/18-year-land-cycle/) framework descending from [Homer Hoyt](/wiki/homer-hoyt/) and [Fred Harrison](/wiki/fred-harrison/), citing Japan's roughly 1990 peak as one point on a sequence of land-driven booms recurring at intervals of about 18 years internationally, alongside the United States, United Kingdom, and Australia.[4][8] It is important to be precise about what this framework claims and does not claim: the roughly-18-year periodicity is not part of mainstream academic economics, and the BIS/IMES literature on the episode — which is written from a mainstream monetary-policy perspective — treats the Japanese bubble as a case study in credit-fueled asset-price dynamics and central-bank response rather than endorsing any fixed-length cycle theory.[2] Both readings agree, however, on the underlying mechanism most relevant to Georgist analysis: that credit expansion secured against land value, rather than any change in land's productive capacity, was the primary driver of both the rise and the severity of the subsequent crash.[1][2][7]
+
+## See Also
+
+- [Land Bubble](/wiki/land-bubble/) — the general concept this episode is treated as an extreme case of
+- [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the periodicity claim that places Japan's ~1990 peak within a recurring international pattern
+- [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the general macroeconomic pattern of credit-and-land-driven expansion and contraction
+- [Land Speculation](/wiki/land-speculation/) — the behavior underlying the bubble's land-price component
+- [The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/) — book page discussing the Japanese bubble within the 18-year cycle framework
+- [Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — book page situating Japan within cross-country land-cycle evidence
+- [2008 Financial Crisis](/wiki/2008-financial-crisis/) — a later, distinct case study in credit-fueled asset bubbles
+
+## Sources
+
+1. "Japanese asset price bubble," Wikipedia, accessed July 2026. [Wikipedia](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble) — used for the core timeline, the Plaza Accord and Bank of Japan discount-rate sequence, the commercial land price statistics (+302.9% 1985–1991; subsequent multi-decade decline), the Nikkei 225 peak (38,915.87, December 29, 1989) and 2024 recovery, the Imperial Palace/California valuation anecdote, the scale of wealth destruction, and the "lost decade(s)" aftermath.
+2. Kunio Okina, Masaaki Shirakawa & Shigenori Shiratsuka, "The Asset Price Bubble and Monetary Policy: Japan's Experience in the Late 1980s and the Lessons," Bank for International Settlements / Bank of Japan Institute for Monetary and Economic Studies, 2001. [BIS](https://www.bis.org/publ/bppdf/bispap21e.pdf) — used for the mainstream monetary-policy framing of the bubble's formation and collapse, and for the caveat that this literature does not itself endorse a fixed-periodicity land-cycle theory.
+3. William Quinn & John D. Turner, *Boom and Bust: A Global History of Financial Bubbles* (Cambridge University Press, 2020) — cited via this wiki's discovery notes on Patel's *Secret Wealth Advantage*; used (with web corroboration from source 1) for the Bank of Japan discount-rate cuts following the 1985 Plaza Accord. [VERIFY: direct page-level citation from Quinn & Turner not independently re-consulted in this session; corroborated instead via web source 1.]
+4. Akhil Patel, *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* (Harriman House, 2023), Ch. 12 — used for framing the Japanese bubble within the 18-year land cycle, the "100-year mortgage" detail, and the Nikkei ~330% cycle-gain figure reported in this wiki's book-summary page for Patel.
+5. Multi-generational/"100-year" mortgage background corroborated via web search (fiftyyearterm.com and related secondary business-history sources on Japanese multi-generational mortgages); not independently verified against a primary Japanese housing-finance source in this session. [CITATION NEEDED: a primary or scholarly Japanese housing-finance source directly documenting the terms and prevalence of multi-generational mortgages during the bubble era.]
+6. This wiki's [Land Bubble](/wiki/land-bubble/) concept page — used for the general land-bubble mechanism this event is read as an instance of.
+7. This wiki's [Land Speculation](/wiki/land-speculation/) concept page — used for the speculative-holding behavior underlying the price dynamic.
+8. This wiki's book-summary page on Phillip J. Anderson, *[Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* — used, per this wiki's discovery notes (Ch. 18), for the claim that Japan's land-value-to-GNP data is cited as cross-country evidence for the land-cycle framework.
+
+[CITATION NEEDED: a peer-reviewed economic-history source assessing the specific claim, made within the 18-year-land-cycle literature cited here, that Japan's 1990–91 peak fits a fixed roughly-18-year international periodicity, as opposed to being explained by the country-specific Plaza Accord/monetary-policy sequence documented in the mainstream BIS/IMES literature.]

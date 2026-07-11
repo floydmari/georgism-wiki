@@ -108,6 +108,8 @@ caveats a fair reader should know:
 
 ## See Also
 
+- [Choi & Sjoquist (2015)](/wiki/choi-sjoquist-lvt-urban-effects/) — an Atlanta-calibrated CGE simulation study Doucet lists among the papers supporting full capitalization of LVT into land prices
+- [Buettner (2003): Tiebout Visits Germany](/wiki/buettner-german-land-tax-capitalization/) — German municipal-level evidence that variation in local land tax rates capitalizes into land prices without raising rents.
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/) · [Tax Capitalization](/wiki/tax-capitalization/)
 - [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/) · [Zodrow (2001)](/wiki/zodrow-three-views/) — the theory
 - [Palmon & Smith (1998)](/wiki/palmon-smith-capitalization/) · [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/) — the measurement

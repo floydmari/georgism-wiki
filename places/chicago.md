@@ -52,6 +52,7 @@ It is important to be precise about what this study does **not** do. **Hoyt's di
 
 ## See Also
 
+- [Land Boom of 1836 and Panic of 1837](/wiki/panic-of-1837/) — the earliest episode in Chicago's land-value history, and Hoyt's data's earliest peak year
 - [Homer Hoyt](/wiki/homer-hoyt/) — the economist whose dissertation documented Chicago's land-value cycle
 - [One Hundred Years of Land Values in Chicago](/wiki/hoyt-chicago-land-values/) — the wiki's dedicated research-page summary of the study
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept built on Hoyt's Chicago data

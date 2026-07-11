@@ -22,6 +22,8 @@ Hudson connects Georgist land-rent theory to the dynamics of debt and banking, a
 
 ## See Also
 
+- [Thorstein Veblen](/wiki/thorstein-veblen/) — institutionalist economist whose 1923 land-speculation critique Hudson's own FIRE-sector rent-extraction analysis explicitly builds on
+- [Hudson: 'How to Lie with Real Estate Statistics' / 'Where Did All the Land Go?' (2001)](/wiki/hudson-lies-of-the-land/) — Hudson's essays documenting how Federal Reserve methodology valued U.S. corporate land at negative $4 billion in 1993, statistically erasing land's true scale
 - [Economic Rent](/wiki/economic-rent/) · [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Fred Harrison](/wiki/fred-harrison/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the rent-extraction critique he helped shape
 
