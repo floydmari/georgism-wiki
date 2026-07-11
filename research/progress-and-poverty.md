@@ -32,7 +32,7 @@ George's argument proceeds in three major stages:
 
 *Progress and Poverty* sold over three million copies in the United States alone in the decade after publication, at a time when the US population was around 50 million. It was required reading in labour and reform movements across the English-speaking world. Tolstoy, who corresponded with George, said it demonstrated that a single reform could abolish poverty. Sun Yat-sen cited it as a direct influence on the land policies of the Republic of China. Bernard Shaw attributed his own turn to socialism partly to hearing George speak in London.
 
-Academic economics largely sidelined George's work by the early 20th century, a process that Mason Gaffney later argued was partly deliberate — funded by landowner interests to discredit the single tax movement. Contemporary economists including Joseph Stiglitz (on the Henry George Theorem) and William Vickrey have rehabilitated key elements of the analysis.
+Academic economics largely sidelined George's work by the early 20th century, a process that Mason Gaffney later argued was partly deliberate — funded by landowner interests to discredit the single-tax movement. Contemporary economists including Joseph Stiglitz (on the Henry George Theorem) and William Vickrey have rehabilitated key elements of the analysis.
 
 ## See Also
 

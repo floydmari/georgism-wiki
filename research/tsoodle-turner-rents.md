@@ -38,8 +38,9 @@ theory, not something this study tests, and the page states it as such.
 The 1968–81 literature split the same way: Orr (1968, *NTJ*) found no shifting of
 Boston-area tax differentials to rents;[2] Heinberg & Oates (1970, *NTJ*) critiqued
 his method and found some partial shifting;[3] Dusansky, Ingber & Karatjas (1981,
-*JUE*, Suffolk County NY) found substantial forward shifting (secondary sources
-disagree on whether full).[4] Tsoodle & Turner is the modern, better-controlled
+*JUE*, Suffolk County NY) found substantial forward shifting — Zodrow's 2023
+survey puts their estimates at 62–110% of the tax, i.e., straddling full shifting,
+which is why secondary accounts disagree on whether it is "full."[4] Tsoodle & Turner is the modern, better-controlled
 member of the shifting-happens side. The modern quasi-experimental members of each
 side are [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) (full
 pass-through, Germany) and
@@ -47,9 +48,12 @@ pass-through, Germany) and
 
 ## Verification note
 
-Direct fetches were proxy-blocked this session; bibliographic details and the
-magnitude are corroborated across four independent renderings, and a free
-author-hosted PDF exists (k-state.edu, unfetched). Scan depth **Light**.
+Bibliographic details and the magnitude are corroborated across four independent
+renderings. The free author-hosted PDF
+([k-state.edu](https://www.k-state.edu/economics/about/staff/websites/turner/tsoodleturner.pdf))
+was fetched this session and confirms the headline magnitude verbatim: "a one
+standard deviation increase in the property tax rate raises residential rents by
+roughly $400 annually" (abstract). Scan depth **Light**.
 
 ## Bears On
 
@@ -75,5 +79,10 @@ author-hosted PDF exists (k-state.edu, unfetched). Scan depth **Light**.
 4. Richard Dusansky, Melvin Ingber & Nicholas Karatjas, "The Impact of Property
    Taxation on Housing Values and Rents," *Journal of Urban Economics* 10(2), 1981,
    pp. 240–255. [Listing](https://ideas.repec.org/a/eee/juecon/v10y1981i2p240-255.html)
-   — forward-shifting result; [VERIFY: full-vs-partial magnitude — secondary
-   sources conflict].
+   — forward-shifting result. Resolved: Zodrow's survey characterizes the DIK
+   estimates as "more forward shifting of the tax, ranging between 62 and 110
+   percent" [George R. Zodrow, "75 Years of Research on the Property Tax,"
+   *National Tax Journal* Forum, 2023, n. 20;
+   [free WP](https://www.bakerinstitute.org/sites/default/files/2023-12/20241206_75-Years-Research-Property-Tax_WP.pdf)]
+   — i.e., partial-to-slightly-over-full shifting, which is why secondary accounts
+   disagree on whether it is "full."

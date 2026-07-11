@@ -25,7 +25,7 @@
 |---|--------|-------------------------|-----------------|------------------------|
 | 1 | Krugman, PSMag interview (2013) | The framing foil: theory OK but "not a big enough thing" | n/a (quote) | Rhetorical anchor, not empirical. No ingest. |
 | 2 | **AEI Land Price Indicators** (aei.org/housing) + methodology PDF | SF county **70.9%** land-share; the empirical backbone of "most urban value is land" | **MISSING** | **INGEST — high.** Live, methodologically-documented dataset; the county land-share figure is load-bearing for his headline claim. Registry row (Dataset, important). |
-| 3 | **Barr, Smith & Kulkarni (2014)**, *Building the City* (JUE), Manhattan land value | An aggregate-land-value data point in the $19–65T span | **MISSING** | **INGEST — high.** Peer-reviewed; one of the twelve estimation methods. Registry row + short page, important. |
+| 3 | **Barr, Smith & Kulkarni (2018)**, *What's Manhattan Worth?* (Regional Science and Urban Economics 70) | An aggregate-land-value data point in the $19–65T span | **INGESTED 2026-07-11** → /wiki/barr-smith-kulkarni-manhattan-land/ | **INGEST — high.** Peer-reviewed; one of the twelve estimation methods. Registry row + short page, important. |
 | 4 | Albouy, Ehrlich & Shin (2018), *Metropolitan Land Values* (+ online appendix) | Preferred vacant-land-sales estimate; dense pure-land sales | **HAVE-page** `albouy-ehrlich-shin-metro-land` | — |
 | 5 | Larson (2015), *New Estimates of the Value of Land of the US* (BEA) | Hedonic aggregate land estimate | **HAVE-page** `larson-us-land-value` | — |
 | 6 | Davis, Larson, Oliner & Shui (2019), FHFA | Cost-approach estimate (vacant-land sales excluded) | **HAVE-page** `davis-larson-oliner-shui-fhfa-land` | — |
@@ -90,7 +90,7 @@
 4. **Kolbe et al., adaptive-weights-smoothing companion (2015/16)** — the method behind the 0.845 semiparametric surface; currently only implicit in the Kolbe page. → its own registry row + short page feeding `mass-appraisal-methods`.
 5. **Saez & Zucman (2015)** — the primary behind Part 1's land-ownership-concentration section; heavily citable across the wiki. → registry row (Paper, important).
 
-*Second tier (registry rows, pages only if later load-bearing):* Gloudemans & Almy *Fundamentals of Mass Appraisal*; Fuest et al. ifo *Grundsteuer*; Tideman SSRN 3960235; Artola Blanco *Wealth in Spain*; McKinsey (already a row — consider a page); Steven Cord; PLACES Lab; Marshall & Swift. *Tail (rows only):* Yalpir & Unel, Kilić, Raslanas, Aragonés-Beltrán, Xue, Kettani. *No ingest:* Ebeling, PwC 2006, Georgetown *Land and Liberty* thesis, Doucet's own arithmetic-input links.
+*Second tier (registry rows, pages only if later load-bearing):* Gloudemans & Almy *Fundamentals of Mass Appraisal*; Fuest et al. ifo *Grundsteuer*; Tideman SSRN 3960235; Artola Blanco *Wealth in Spain*; McKinsey (already a row — consider a page); Steven Cord; PLACES Lab; Marshall & Swift. *Tail (rows only):* Yalpir & Unel, Kilić, Raslanas, Aragonés-Beltrán, Xue, Kettani. *No ingest:* Ebeling, PwC 2006, Georgetown *(Sustainability 11(13), MDPI) and Liberty* thesis, Doucet's own arithmetic-input links.
 
 ---
 

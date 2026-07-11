@@ -30,7 +30,7 @@ The term "ATCOR" was coined by Mason Gaffney in 2005, not in his 1994 *The Corru
 
 ## Doucet's Modern Exposition
 
-Lars Doucet provides the most accessible modern explanation of ATCOR in *Land is a Big Deal* (Ch. 15): any reduction in taxes on income and capital causes a proportionate increase in land rental values, because workers and investors bid up land prices with their after-tax gains. If ATCOR holds, a Single Tax policy is self-financing — abolishing income and capital taxes shifts revenue to land rents, which 100% LVT then captures. Doucet cautions that ATCOR remains a hypothesis requiring empirical testing, not a proven theorem (*Land is a Big Deal*, Ch. 15). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+Lars Doucet provides the most accessible modern explanation of ATCOR in *Land is a Big Deal* (Ch. 15): any reduction in taxes on income and capital causes a proportionate increase in land rental values, because workers and investors bid up land prices with their after-tax gains. If ATCOR holds, a single-tax policy is self-financing — abolishing income and capital taxes shifts revenue to land rents, which 100% LVT then captures. Doucet cautions that ATCOR remains a hypothesis requiring empirical testing, not a proven theorem (*Land is a Big Deal*, Ch. 15). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 
 ## Book Findings
 

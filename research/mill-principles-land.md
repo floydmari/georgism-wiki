@@ -113,7 +113,7 @@ understanding what is and is not distinctively "Georgist":
 | **What is taxed** | Only the *future* increase in rent, from a fixed forward point | The *whole* of land rent, present and future[9] |
 | **Existing owners** | Left undisturbed; no retroactive claim on rent already capitalized into purchase prices | No compensation for existing land value; George explicitly rejected the case for compensating landowners, drawing an analogy (in the compensation debates of his day) to the rejected case for compensating slaveholders at emancipation[10] |
 | **Scope of the reform** | One targeted tax among many, addressing a specific injustice (passive, effortless enrichment) | A "single tax" intended to *replace* all other taxation[9] |
-| **Institutional vehicle** | The Land Tenure Reform Association (1870–71), a reform pressure group | The Single Tax movement, a mass political and electoral movement (e.g., George's 1886 New York mayoral campaign) |
+| **Institutional vehicle** | The Land Tenure Reform Association (1870–71), a reform pressure group | The single-tax movement, a mass political and electoral movement (e.g., George's 1886 New York mayoral campaign) |
 
 The practical hinge is compensation. Mill's prospective-only design is, in effect, a
 compensation rule: by taxing only increments not yet capitalized into any purchase price,

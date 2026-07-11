@@ -44,8 +44,9 @@ answers it.
 The condition is demanding but not utopian: Norway's post-2022 petroleum
 cash-flow tax pays **cash refunds for the tax value of losses** at a 78%
 combined rate — the existence proof that full refundability is administrable,
-at least in a sector where the rent is least contested (details and [VERIFY]
-flags on the [cash-flow tax](/wiki/cash-flow-tax/) page).
+at least in a sector where the rent is least contested (details on the
+[cash-flow tax](/wiki/cash-flow-tax/) page, whose earlier VERIFY flags on this
+point have since been resolved).
 
 ## See Also
 

@@ -169,7 +169,7 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 - [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST as extension of George's land tax
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent (formalized by Gaffney 2005)
 - [Economic Rent](/wiki/economic-rent/) — Classical vs. neoclassical definitions of rent
-- [Land Value Tax](/wiki/land-value-tax/) — The single tax proposal
+- [Land Value Tax](/wiki/land-value-tax/) — The single-tax proposal
 - [Henry George](/wiki/henry-george/) — George's life and influence
 
 ## Sources

@@ -19,7 +19,9 @@ The objection is serious but is generally treated as a **solvable engineering pr
 
 **2. Land is *easier* to assess than buildings, not harder.** In *Does Georgism Work? Part 3* (2022), [Lars Doucet](/wiki/doucet-does-georgism-work/) makes the key counter-intuitive point: land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house. That smoothness means location-based methods (comparable vacant-lot sales, teardown sales, and the "residual" of sale price minus depreciated structure cost) can estimate land value with accuracy **comparable to or better than** whole-property assessment.
 
-**3. Modern methods exist.** [Computer-assisted mass appraisal (CAMA), hedonic regression, and cooperative-game approaches](/wiki/mass-appraisal-methods/) such as the [Shapley-value land/building separation](https://www.nature.com/articles/s41599-020-0444-1) (*Humanities and Social Sciences Communications*, 2020) formalise the split.
+**3. Modern methods exist — including where data is thin.** [Computer-assisted mass appraisal (CAMA), hedonic regression, and cooperative-game approaches](/wiki/mass-appraisal-methods/) such as the [Shapley-value land/building separation](https://www.nature.com/articles/s41599-020-0444-1) (*Humanities and Social Sciences Communications*, 2020) formalise the split. And the "it only works with rich sales data" version of the objection is answered directly: [Bencure et al. (2019)](/wiki/bencure-ilvm-baybay-philippines/) built an expert-weighted (AHP) land-valuation model for sub-urban Baybay City, Philippines, that explained ~67% of land-value variability and outperformed ordinary multiple regression — a developing-country case with sparse market data.
+
+**3a. Even dense cities generate pure-land sales.** The premise that unimproved land "rarely sells" in built-up cores is overstated: [Barr, Smith & Kulkarni](/wiki/barr-smith-kulkarni-manhattan-land/) constructed a 64-year (1950–2014) land-value index for Manhattan — one of the densest markets on earth — using vacant-land transactions alone.
 
 **4. Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet).
 
@@ -32,6 +34,7 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 - [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — tract-level hedonic land/structure separation at million-transaction scale
 
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
+- [Bencure et al.: iLVM, Baybay City, Philippines](/wiki/bencure-ilvm-baybay-philippines/) — the developing-country / thin-data case · [Barr, Smith & Kulkarni: What's Manhattan Worth?](/wiki/barr-smith-kulkarni-manhattan-land/) — vacant-land sales in the densest US market
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
 - [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/)

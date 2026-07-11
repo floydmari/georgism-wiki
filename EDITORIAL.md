@@ -291,6 +291,12 @@ Each reference gets a one-line "used for" note:
    — used for practical design issues and agricultural incidence.
 ```
 
+### Terminology (house style, ruled 2026-07-11)
+- **citizen's dividend** lowercase mid-sentence; "Citizen's Dividend" only in titles/headings. Link: `/wiki/citizens-dividend/`.
+- **single-tax** hyphenated as adjective ("the single-tax movement"), **single tax** unhyphenated as noun ("the single tax"), lowercase in both roles. Capitals only in true proper names (Single Tax Party, Fairhope Single Tax Corporation) and quoted titles.
+- **18-year cycle** generically; **18.6-year cycle** only where the cited source specifically claims 18.6.
+- Direct quotes, blockquotes, PD texts (`texts/`, `sources/publicdomain/`), and frontmatter slugs are never normalized.
+
 ---
 
 ## 7. Per-page revision output (the `[CITE]` deliverable)

@@ -41,9 +41,15 @@ replies that the Bentick–Mills distortion comes from taxing the **capitalized
 value of development options**, not from taxing land as such: a tax assessed on
 **pre-development site value** (what the land would be worth absent the owner's
 own development plans) restores neutrality.[3] Later theoretical work in the
-same exchange (Arnott's treatment of neutral property taxation, 2005) develops
-the same distinction. [VERIFY: exact Arnott citation and statement — noted in
-the literature exchange but not independently verified this session.]
+same exchange — Richard Arnott's "Neutral Property Taxation" (2005) — develops
+the same distinction.[4] Arnott reviews Shoup (1970), Skouras (1978),
+Bentick (1979) and Mills (1981) — "the revisionists" — who showed that taxing
+*residual* site value (property value minus the depreciated cost of the
+structure) is non-neutral, in particular discouraging density, and confirms with
+Tideman (1982) that neutrality is achieved only when the base is *raw* site
+value — "what the site would be worth if there were no structure on it," a value
+"unaffected by the developer's decisions" (verified verbatim against the
+[Boston College working-paper text](http://fmwww.bc.edu/ec-p/wp411.pdf)).
 
 The wiki's honest framing: **both sides are right about different taxes.** Real
 assessment regimes vary; where valuation includes development option value, the
@@ -77,3 +83,9 @@ practical question becomes an [assessment-design question](/wiki/land-cannot-be-
 3. T. Nicolaus Tideman, "A Tax on Land Value Is Neutral," *National Tax Journal*,
    1982. [PDF (cooperative-individualism)](https://cooperative-individualism.org/tideman-t-nicolaus_a-tax-on-land-value-is-neutral-1982-mar.pdf)
    — used for the assessment-basis rebuttal (C-claim).
+4. Richard Arnott, "Neutral Property Taxation," *Journal of Public Economic
+   Theory* 7(1), 2005, pp. 27–50 (originally Boston College Working Paper 411,
+   September 1998). [Free full text (BC WP 411)](http://fmwww.bc.edu/ec-p/wp411.pdf)
+   — used for the residual-vs-raw site-value neutrality distinction and its
+   explicit engagement with Shoup (1970), Skouras (1978), Bentick (1979),
+   Mills (1981) and Tideman (1982); verified verbatim this session.

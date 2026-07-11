@@ -38,7 +38,7 @@ Andelson places George in a "long succession of political economists — includi
 
 ### Key Critics Examined
 
-**Alfred Marshall** is treated as the professional economist who "guarded the purity of his discipline" (Ch. 4). Marshall's critique targeted George's wage theory and the single tax proposal. Andelson and his contributor analyze Marshall's *Early Economic Writings* (1867–1890), permission for which was obtained from the Royal Economic Society (Andelson 1979, p. 15). (E-claim; objection)
+**Alfred Marshall** is treated as the professional economist who "guarded the purity of his discipline" (Ch. 4). Marshall's critique targeted George's wage theory and the single-tax proposal. Andelson and his contributor analyze Marshall's *Early Economic Writings* (1867–1890), permission for which was obtained from the Royal Economic Society (Andelson 1979, p. 15). (E-claim; objection)
 
 **Francis Walker** is described as the general who "led the charge" against George (Ch. 12). Walker's critique was among the most influential American responses to *Progress and Poverty*. (E-claim; objection)
 

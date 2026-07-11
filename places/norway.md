@@ -31,7 +31,7 @@ From a Georgist perspective, Norway's oil fund demonstrates several principles r
 
 - **A sovereign wealth fund can convert depleting rents into perpetual revenue.** By investing oil revenues rather than spending them immediately, Norway addresses the intergenerational equity problem of a finite resource—a practical application of the principle behind the [Hartwick rule](/wiki/hartwick-rule/). The [sovereign wealth fund](/wiki/sovereign-wealth-fund/) concept page discusses this mechanism in the context of Canadian resource-rent proposals.
 
-- **The distribution mechanism matters.** The [resource-rent dividends](/wiki/resource-rent-dividends-work/) outcome page notes that *how* rent is captured and distributed matters as much as the fact of capture. Norway's budget-based approach provides public services rather than direct dividends; Alaska's per-capita approach provides direct income support. The Georgist case for [citizens' dividends](/wiki/citizens-dividend/) emphasizes the transparency and political durability of direct distribution, while Norway's model emphasizes fiscal stability and intergenerational savings.
+- **The distribution mechanism matters.** The [resource-rent dividends](/wiki/resource-rent-dividends-work/) outcome page notes that *how* rent is captured and distributed matters as much as the fact of capture. Norway's budget-based approach provides public services rather than direct dividends; Alaska's per-capita approach provides direct income support. The Georgist case for [citizen's dividends](/wiki/citizens-dividend/) emphasizes the transparency and political durability of direct distribution, while Norway's model emphasizes fiscal stability and intergenerational savings.
 
 ## Caveats
 

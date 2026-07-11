@@ -34,7 +34,7 @@ In *Capitalism 3.0*, Barnes proposes that commons trusts distribute revenue as "
 
 ### Paine as Predecessor
 
-Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-rent-financed "National Fund" paying capital grants at 21 and pensions from age 50 — as the historical foundation for the citizen's dividend (Barnes 2014, Ch. 1). The wiki holds [the primary text](/wiki/agrarian-justice/) in full and treats the proposal in detail in the [citizens' dividend narrative](/wiki/citizens-dividend-narrative/); cite Paine directly rather than through Barnes. (A-claim; factual)
+Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-rent-financed "National Fund" paying capital grants at 21 and pensions from age 50 — as the historical foundation for the citizen's dividend (Barnes 2014, Ch. 1). The wiki holds [the primary text](/wiki/agrarian-justice/) in full and treats the proposal in detail in the [citizen's dividend narrative](/wiki/citizens-dividend-narrative/); cite Paine directly rather than through Barnes. (A-claim; factual)
 
 ## Scholarly Treatment of the Georgist Lineage
 
