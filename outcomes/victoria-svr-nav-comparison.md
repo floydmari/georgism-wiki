@@ -4,6 +4,7 @@ category: outcomes
 tags: [outcomes, land-value-tax, split-rate-taxation, australia, natural-experiment, stub]
 stub: true
 evidence_strength: "Suggestive but confounded — a large raw cross-municipal difference reported by a Georgist author (Harrison), with a broadly consonant independent 2019 study; municipalities self-selected their rating base, so the gap is not a clean causal estimate."
+excerpt: "In Victoria, Australia, 27 municipalities rating only site value saw 12.9% dwelling growth over 1966-78 versus 2.8% in 15 net-annual-value municipalities, per Fred Harrison — evidence, later echoed by an independent 2019 study, that taxing land rather than buildings encourages construction."
 last_reviewed: 2026-07-11
 ---
 
