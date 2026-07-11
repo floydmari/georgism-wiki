@@ -66,7 +66,7 @@ Barnes acknowledges that "just because an idea makes sense doesn't mean it will 
 
 ### Theoretical vs. Empirical
 
-The commons trust model is largely theoretical. Barnes draws on Elinor Ostrom's work on common-pool resources but does not deeply engage with the empirical literature on commons governance. [VERIFY: specific Ostrom citations in the text]
+The commons trust model is largely theoretical. Elinor Ostrom's *Governing the Commons* (1990) appears in Barnes's bibliography (Barnes 2006, p. 183), but he does not cite or substantively engage her empirical work on common-pool resource governance anywhere in the body text. Barnes's commons framing rests instead on reframing Garrett Hardin's "tragedy of the commons" (see above); the book offers limited engagement with the empirical commons-governance literature.
 
 ### Georgist Connection
 
@@ -115,3 +115,4 @@ Barnes explicitly connects his proposal to Henry George through the Monopoly boa
 2. Garrett Hardin, "The Tragedy of the Commons," *Science* 162 (1968) — referenced by Barnes as the concept he reframes (C-claim; theoretical).
 3. E.F. Schumacher, *Small Is Beautiful* (1973) — cited as formative influence on Barnes (D-claim; interpretive).
 4. Henry George, *Progress and Poverty* (1879) — cited as intellectual predecessor via the Monopoly board game origin (A-claim; factual).
+5. Elinor Ostrom, *Governing the Commons* (Cambridge University Press, 1990) — listed in Barnes's bibliography (p. 183) but not cited or engaged in the body text (A-claim; factual). Full text of *Capitalism 3.0* verified via Barnes's Creative Commons edition at boell.de (`capitalism_3.0_peter_barnes.pdf`).

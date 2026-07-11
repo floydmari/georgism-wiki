@@ -32,7 +32,7 @@ NUM_CTX = int(os.environ.get("SWEEP_NUM_CTX", "65536"))
 DEEP_NUM_CTX = int(os.environ.get("SWEEP_DEEP_NUM_CTX", "1000000"))  # verified: 1M accepted, needles at 635k chars pass
 DEEP = False
 
-CATS = ["concepts", "people", "places", "organizations", "objections", "events", "outcomes", "narratives"]
+CATS = ["concepts", "people", "places", "organizations", "objections", "events", "problems", "benefits", "narratives"]
 
 
 def slug_list() -> str:
@@ -97,7 +97,7 @@ to live on the wiki. Your job is to catch what the first reading missed. You rec
 (metadata, what the wiki already extracted from it, and the document text when available).
 Enumerate wiki-page candidates this source SUBSTANTIVELY treats (a section, recurring argument,
 or documented case — never a passing name-drop) in these categories: concepts, people, places,
-organizations, objections, events, outcomes, narratives.
+organizations, objections, events, problems, benefits, narratives.
 
 Rules:
 - A candidate must NOT already exist: check the provided existing-slug list (treat synonyms as

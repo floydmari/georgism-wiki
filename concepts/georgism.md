@@ -79,7 +79,7 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
 ## See Also
 
-- [The Problems](/wiki/the-problems/) · [The Benefits](/wiki/the-benefits/) — the evidence-graded index of what Georgism diagnoses and what its policies deliver
+- [The Problems](/wiki/problems/) · [The Benefits](/wiki/benefits/) — the evidence-graded index of what Georgism diagnoses and what its policies deliver
 - [Liberation Theology](/wiki/liberation-theology/) — the movement Andelson & Dawsey linked to Georgist land ethics
 - [Geoism](/wiki/geoism/) — the generalized system: all rents, not only land (the wiki's full scope)
 

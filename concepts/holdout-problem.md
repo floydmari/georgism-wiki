@@ -39,7 +39,7 @@ Both the Tideman-Plassmann mechanisms and the Harberger tax trace to the same ro
 
 The holdout problem illustrates a broader Georgist point: **private ownership of land creates bargaining failures that do not arise with reproducible goods**. When land is treated as ordinary property, the unique and fixed nature of each parcel gives owners strategic power that distorts land markets and blocks efficient development. This is one reason [Henry George](/wiki/henry-george/) and subsequent Georgist thinkers have argued that land requires different institutional treatment from capital — whether through [land value taxation](/wiki/land-value-tax/), [public land leasing](/wiki/public-land-leasing/), or mechanism-design solutions like those Tideman and Plassmann propose.[1][3]
 
-The problem also connects to [land speculation](/wiki/land-speculation/): an owner who holds land in anticipation of capital gains has every incentive to hold out during an assembly, since the assembler's need reveals that the location is now more valuable than the owner expected. A [land value tax](/wiki/land-value-tax/) reduces this incentive by imposing a carrying cost on idle land, though it does not fully eliminate the holdout problem for assembly-specific surplus. [VERIFY: no source located this session explicitly connects a standard LVT's ongoing carrying-cost effect to this assembly-specific holdout logic — this sentence remains the wiki's own inference. The nearest related-but-distinct evidence is DeSantis, Matthew McCarter & Abel Winn (2019), "Land assembly with taxes, not takings," *Applied Economics Letters* 26(7), 604–607, which finds in laboratory experiments that a "rejected offer reassessment" (ROR) mechanism — raising an owner's taxable value to match a rejected purchase offer, not a standing LVT — reduces the magnitude of seller holdout and raises assembly success rates by ~60%; that is a different tax trigger than continuous LVT carrying cost, so it does not establish the claim as written.]
+The problem also connects to [land speculation](/wiki/land-speculation/): an owner who holds land in anticipation of capital gains has every incentive to hold out during an assembly, since the assembler's need reveals that the location is now more valuable than the owner expected. A [land value tax](/wiki/land-value-tax/) reduces this incentive by imposing a carrying cost on idle land, though it does not fully eliminate the holdout problem for assembly-specific surplus. No source located explicitly connects a *standard, continuous* LVT's ongoing carrying-cost effect to this assembly-specific holdout logic; that link remains the wiki's own inference. The nearest empirical evidence is related but distinct: DeSantis, McCarter & Winn (2019) test a "rejected offer reassessment" (ROR) mechanism — which raises an owner's taxable value to match a *rejected* purchase offer, a different trigger from a standing LVT — and find in laboratory experiments that it "discourages the magnitude of seller holdout (but not its frequency) and increases the rate of successful land assembly by almost 60%" (58.4% in the reported results), so it corroborates the general idea that a tax trigger can blunt holdout without establishing the continuous-LVT claim as written.[5]
 
 ## See Also
 
@@ -62,3 +62,15 @@ The problem also connects to [land speculation](/wiki/land-speculation/): an own
    premium in Los Angeles County, the empirical quantitative estimate of
    assembly frictions including holdouts that Tideman and Plassmann (2007) note
    is otherwise unavailable. [AEA](https://www.aeaweb.org/articles?id=10.1257%2Fpol.20130399)
+5. Mark DeSantis, Matthew W. McCarter & Abel Winn (2019), "Land assembly with
+   taxes, not takings," *Applied Economics Letters* 26(7), 604–607,
+   DOI 10.1080/13504851.2018.1488047. Open-access working version:
+   [Chapman University Digital Commons](https://digitalcommons.chapman.edu/esi_pubs/) ·
+   [Mercatus Center](https://www.mercatus.org/research/working-papers/land-assembly-without-eminent-domain).
+   Verified verbatim this session (abstract and body) — cited as the nearest
+   related-but-distinct evidence that a *tax trigger* (their "rejected offer
+   reassessment" mechanism, not a continuous LVT carrying cost) can reduce
+   holdout magnitude and raise assembly success rates. The abstract states ROR
+   "discourages the magnitude of seller holdout (but not its frequency) and
+   increases the rate of successful land assembly by almost 60%"; the body
+   reports the assembly rate increasing by 58.4%.

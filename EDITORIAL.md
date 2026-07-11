@@ -178,9 +178,11 @@ flags these for review.
 **Category-specific:**
 - `research/`: `authors` (list), `year`, `tier` (`Core|Important|Supplementary`), `source_url`,
   optional `supports_outcomes` (list of outcome slugs).
-- `outcomes/`: `evidence_strength` (string), `claim_type` (`problem|benefit` — REQUIRED,
-  enforced by lint; see §5b), `supported_by` (list of research slugs),
-  optional `challenged_by` (list of research slugs), `related_people`, `related_places`.
+- `problems/` and `benefits/` (the claim pages — split from the old `outcomes/`,
+  Floyd 2026-07-10; see §5b): `evidence_strength` (string), `claim_type` (`problem` in
+  `problems/`, `benefit` in `benefits/` — REQUIRED, must match folder, enforced by lint),
+  `supported_by` (list of research slugs), optional `challenged_by`, `related_people`,
+  `related_places`. The research-side field name stays `supports_outcomes` for continuity.
 - `objections/`: `status` (short assessment string).
 - `narratives/`: `narrative_type` (`moral|economic|practical|environmental|historical`),
   `supported_by`, `related_people`, `related_places`.
@@ -201,16 +203,17 @@ flags these for review.
 
 ### §5b Problems and benefits (Floyd, 2026-07-10 — see PLAN-problems-and-benefits.md)
 
-Every `outcomes/` page is one of two kinds of claim, declared in `claim_type`:
+The old `outcomes/` category is split into two directories (Phase 3 executed 2026-07-10,
+on Floyd's sign-off). Every claim page is one of two kinds, by directory and `claim_type`:
 
 - **`problem`** — the diagnosis: an empirical claim about the world that geoism identifies
   (e.g. "the capital-share rise is land", "public investment capitalizes into land values").
 - **`benefit`** — the prescription's measured effects: an empirical claim about what geoist
   policy delivers (e.g. "split-rate taxation increases construction").
 
-Reader-facing indexes: `/wiki/the-problems/` and `/wiki/the-benefits/` group the claims with
-evidence grades — **keep both indexes current when adding, retitling, or regrading an
-outcomes page.**
+Reader-facing indexes: `/wiki/problems/` and `/wiki/benefits/` group the claims with
+evidence grades — **keep both indexes current when adding, retitling, or regrading a
+claim page.**
 
 **Acceptance rule per page:** ≥ 2 independent big-name/peer-reviewed anchors, fetched and
 claim-level verified, before a page leaves stub status; `evidence_strength` graded
@@ -220,8 +223,8 @@ citations + one honest-limits line — a reader should be able to quote the page
 argument in 30 seconds and not get burned. Rent-gradient rules apply unchanged: land-core
 claims may be stated strongly when evidence is strong; frontier claims stay attributed.
 
-(Phase 3 — moving files into `problems/` and `benefits/` directories — happens only after
-Floyd signs off on the Phase-1 grouping.)
+(Phase 3 — the directory split — was executed 2026-07-10 after Floyd's sign-off. New
+claim pages go directly into `problems/` or `benefits/`; there is no `outcomes/`.)
 
 ---
 
@@ -254,7 +257,7 @@ distinguish theoretical prediction from empirical confirmation. Use "proponents 
 
 ### Narrative pages (`narratives/`)
 Core claim (1–2 sentences) · Who promotes it (→ `people/`) · Research that supports it
-(→ `outcomes/`, `research/`) · Research that challenges it or is missing · Counter-arguments &
+(→ `problems/`/`benefits/`, `research/`) · Research that challenges it or is missing · Counter-arguments &
 Georgist responses (→ `objections/`) · Historical examples (→ `places/`, `events/`) ·
 How to deploy it (framing tips, audience guidance).
 

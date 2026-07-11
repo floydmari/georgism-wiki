@@ -11,7 +11,7 @@ Every unverified claim on the wiki is an open fact-check with an owner. This scr
 how routing happens — regenerate it whenever markers change."""
 import glob, os, re, datetime
 
-CATS = ["concepts","people","places","organizations","objections","events","outcomes","narratives","research","books"]
+CATS = ["concepts","people","places","organizations","objections","events","problems","benefits","narratives","research","books"]
 BUCKETS = [
  ("needs-owner-input", ["owner", "floyd", "supply bio"]),
  ("needs-book-copy (see sources/wanted-books.md)", ["book", "lending", "e-copy", "full text of the book"]),

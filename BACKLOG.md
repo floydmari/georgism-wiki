@@ -30,7 +30,7 @@ commit+push+preview — publishing is Floyd's process.
       (1) rising land values/housing costs drive poverty; (2) homelessness is a housing-cost
       problem (Colburn-Aldern anchor); (3) housing unaffordability is a land problem
       (KSS/Glaeser-Gyourko/Hsieh-Moretti — first stub landed this shift:
-      outcomes/housing-unaffordability-is-a-land-problem.md); (4) rent-seeking drags growth
+      problems/housing-unaffordability-is-a-land-problem.md); (4) rent-seeking drags growth
       (Murphy-Shleifer-Vishny, Baumol); (5) the young are locked out of land wealth;
       (6) land underuse / speculative vacancy in high-demand cities.
 - [~] [BENEFIT-BUILD] tier:T2 status:in-progress — benefits 7, 8, 10 (PLAN):
@@ -116,6 +116,7 @@ commit+push+preview — publishing is Floyd's process.
 
 ## GATED / PARKED (surface these, don't chase)
 
+- ~~Phase 3 directory split~~ EXECUTED 2026-07-10 on Floyd's sign-off (`outcomes/` → `problems/` + `benefits/`, indexes at /wiki/problems/ + /wiki/benefits/, lint + scripts + EDITORIAL updated). Old line kept for record:
 - **Phase 3 directory split** (`outcomes/` → `problems/` + `benefits/`, redirects, inbound
   link rewrite, registry/inventory rebuild) — **GATED on Floyd's sign-off** of the Phase-1
   grouping. Do not start early; the split touches 400+ pages of links.
@@ -141,7 +142,7 @@ commit+push+preview — publishing is Floyd's process.
 ## DONE this shift (2026-07-10) — retired from the queue
 
 - **Phase 1 of the problems/benefits split** (commit 8ecde77): `claim_type: problem|benefit`
-  on all 20 outcomes pages; reader indexes `/wiki/the-problems/` + `/wiki/the-benefits/`
+  on all 20 outcomes pages; reader indexes `/wiki/problems/` + `/wiki/benefits/`
   live; lint rule active (outcomes missing claim_type = ERROR); EDITORIAL §5b written.
 - **sources/verification-queue.md regenerated**: 121 markers (raw `grep -rc '\[VERIFY'`
   across all .md is 214, but ~90 of those live in meta files — inbox reports, LOOPLOG,

@@ -25,7 +25,7 @@ Each domain has its own instrument and its own evidence base:
 
 | Rent domain | Capture instrument | Wiki anchor |
 |---|---|---|
-| Land & location | [Land value tax](/wiki/land-value-tax/); [public land leasing](/wiki/public-land-leasing/); [land value capture](/wiki/land-value-capture/) | The core corpus: [15 evidence outcomes](/wiki/land-rent-could-fund-government/) |
+| Land & location | [Land value tax](/wiki/land-value-tax/); [public land leasing](/wiki/public-land-leasing/); [land value capture](/wiki/land-value-capture/) | The core corpus: the [problems](/wiki/problems/) & [benefits](/wiki/benefits/) claim pages |
 | Natural resources | Royalties, severance taxes, [sovereign wealth funds](/wiki/sovereign-wealth-fund/) | [Capture works where institutions are strong](/wiki/resource-rent-capture-works/) (Norway: 78% tax → >$2tn fund); [resource rents](/wiki/resource-rents/) · [dividends work](/wiki/resource-rent-dividends-work/) |
 | Atmosphere & ecology | Carbon pricing + per-capita dividends | [Carbon pricing cuts emissions](/wiki/carbon-pricing-cuts-emissions/) (BC −19% per-capita fuel use; EU ETS −3.8%) — modestly, without wrecking growth; [Ecological Georgism](/wiki/ecological-georgism/) · [Green Georgism narrative](/wiki/ecological-rent/) |
 | Spectrum & orbits | [Spectrum auctions](/wiki/spectrum-auctions/); recurring license fees | Coase 1959 → FCC auctions since 1994 (>$200bn raised; C-band 2021 ~$81bn) capture the airwaves' scarcity rent for the public — a clean non-land case, with a "sell-once vs lease" caveat |
@@ -59,7 +59,7 @@ never flattening the gradient (EDITORIAL §0):
 ## See Also
 
 - [Georgism](/wiki/georgism/) — the land core · [Economic Rent](/wiki/economic-rent/) — the unifying concept
-- [The Problems](/wiki/the-problems/) · [The Benefits](/wiki/the-benefits/) — the evidence-graded claim index (diagnosis · measured policy effects)
+- [The Problems](/wiki/problems/) · [The Benefits](/wiki/benefits/) — the evidence-graded claim index (diagnosis · measured policy effects)
 - [Geolibertarianism](/wiki/geolibertarianism/) · [Ecological Georgism](/wiki/ecological-georgism/)
 - [Citizen's Dividend](/wiki/citizens-dividend/) — the distribution side of capture
 - [Mapping Modern Economic Rents (Mazzucato et al.)](/wiki/mazzucato-mapping-rents/) — the modern framework

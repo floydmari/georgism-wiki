@@ -45,7 +45,7 @@ Ch. 8, "Carbon Capping: A Cautionary Tale," examines the failures of cap-and-tra
 
 ### The Appendix: Dividend Potential
 
-The book's Appendix (pp. 139–172) estimates the "Dividend Potential of Co-owned Wealth," calculating potential dividend amounts from various common assets including the atmosphere, spectrum, mineral resources, and financial infrastructure (Barnes 2014, p. 13). [VERIFY: specific figures require direct reading of Appendix]
+The book's Appendix presents "back-of-the-envelope" estimates of the dividend potential of co-owned wealth, tallying potential annual revenue from each common asset: the atmosphere (a carbon charge, on the order of $300 billion), the electromagnetic spectrum, intellectual-property protection, and financial infrastructure. Barnes's largest single source is a small fee on financial transactions, estimated at roughly $352 billion per year, followed by the "money-creation privilege" of fractional-reserve banking at roughly $323 billion. In aggregate, Barnes estimates that charging market rents for these private uses of co-owned wealth could raise on the order of $1 trillion to $1.5 trillion annually, which distributed equally ("one person, one share") would yield a dividend of about $5,000 per person per year — roughly $20,000 for a family of four (Barnes 2014, Appendix; Barnes, "Beyond Jobs: Our Right to Dividends," PBS NewsHour, Aug. 27, 2014).
 
 ## Policy Recommendations
 
@@ -118,3 +118,4 @@ Barnes insists his proposal requires "no new taxes" and is "purely market-based"
 2. Thomas Paine, *Agrarian Justice* (1797) — cited as historical predecessor of the dividend idea (A-claim; factual).
 3. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — Barnes's earlier development of commons trust concept (C-claim; theoretical).
 4. Henry George, *Progress and Poverty* (1879) — cited as intellectual predecessor via Monopoly board game origin (A-claim; factual).
+5. Peter Barnes, "Beyond Jobs: Our Right to Dividends," *PBS NewsHour*, August 27, 2014 (peter-barnes.org) — Barnes's own summary of the book's dividend calculation ("about $5,000 per person per year," "according to my calculations") corroborating the Appendix figures (A-claim; factual).
