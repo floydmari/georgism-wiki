@@ -31,10 +31,17 @@ better site yields over the margin is what its owner can collect as
   tend to what labour can earn at the margin of production, because no worker
   will accept less than they could get working rent-free land for themselves —
   and no employer on good land must pay more than that baseline plus what
-  competition requires. As material progress extends cultivation to poorer
-  margins and speculation holds good land idle, the margin is driven down —
-  which, George argued, is why rents can rise and wages stagnate amid rising
-  productivity.[2]
+  competition requires. George states the law itself as the exact corollary of
+  Ricardo's law of rent:
+
+  > *Wages depend upon the margin of production, or upon the produce which
+  > labor can obtain at the highest point of natural productiveness open to it
+  > without the payment of rent.*
+
+  — *Progress and Poverty*, Book III, Ch. VI ("Wages and the Law of Wages").[2]
+  As material progress extends cultivation to poorer margins and speculation
+  holds good land idle, the margin is driven down — which, George argued, is why
+  rents can rise and wages stagnate amid rising productivity.
 
 The two laws are one mechanism seen from opposite sides: **rent is everything
 above the margin; wages are set at it.** This is why Georgists treat the margin

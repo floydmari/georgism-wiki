@@ -220,3 +220,6 @@ sources/publicdomain/.
       Francis L.D. Taylor bio), Foldvary-reply Springer paywall (needs institutional access),
       natural-common-wealth independent assessment (genuine forage).
 - SPN sweep: retry pass running (first pass 163 archived / 205 retryable overload fails).
+- [ ] [READ&MINE] tier:T2 status:todo — Hoyt 1933 One Hundred Years of Land Values in Chicago:
+      PD CONFIRMED 2026-07-11 (no CCE renewal 1959-62; IA scan open) — now eligible for the
+      sources/publicdomain/ channel (xxxii+519pp; the 18-year cycle chapter is the priority mine).

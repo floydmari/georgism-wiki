@@ -85,7 +85,7 @@ This is, with its twin, the best-evidenced narrative premise in the wiki:
 - **Attribution at parcel level is hard.** The capitalization literature identifies
   average uplifts around identifiable public actions; there is no accepted method for
   decomposing a *specific* parcel's value into community-created and owner-created
-  parts. Betterment levies therefore always draw boundary disputes.
+  parts. Betterment levies therefore tend to draw boundary disputes.
 - **Capture can be captured.** The [Hong Kong](/wiki/hong-kong/) model shows value
   capture funding infrastructure superbly while housing stays very expensive — value
   *capture* is not value *reduction*, a distinction the

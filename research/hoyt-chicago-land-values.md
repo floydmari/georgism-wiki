@@ -254,6 +254,24 @@ outcome claim.**
     to show that Hoyt is wrong"). Also cited on the
     [land-speculation-causes-cycles](/wiki/land-speculation-causes-cycles/) narrative page.
 
+*Copyright / public-domain note (2026-07-11): A US copyright-renewal check confirms this
+1933 book is in the **public domain**. No renewal registration for Homer Hoyt or for the
+title "One Hundred Years of Land Values in Chicago" appears in the Catalog of Copyright
+Entries book-renewal records for 1959–1962 — the full valid renewal window for a 1933 work
+(searched the machine-readable CCE renewal transcriptions, Project Gutenberg ebooks
+#11819–#11826). Under the 1909 Act a work whose 28-year term lapsed without a renewal filed
+in its 28th year fell into the public domain; for a 1933 publication that occurred in 1961.
+This is corroborated by the Internet Archive, which hosts the full scan
+[`onehundredyearso00hoytrich`](https://archive.org/details/onehundredyearso00hoytrich)
+**openly** — a direct full-text download, not controlled-digital-lending — in its
+`americana`/`prelinger_library` collections, with item metadata flagging
+`possible-copyright-status: NOT_IN_COPYRIGHT`. (Stanford's Copyright Renewal Database and
+HathiTrust's catalogue were both unreachable via automated fetch — anti-bot challenges — so
+the verdict rests on the primary CCE renewal records plus IA's open hosting, which is the
+stronger evidence in any case.) The book being PD, it would be eligible for full mirroring
+to `sources/publicdomain/`; it is deferred only for its length (xxxii + 519 pp.), not for
+any rights reason.*
+
 *Verification note (2026-07): The key empirical claims on this page have been checked
 directly against the Internet Archive full text (DJVU OCR) of Hoyt's 1933 book. Confirmed
 against the primary source: the "composite effect... communicate impulses to each other in a

@@ -30,7 +30,7 @@ The anchor study is [Colburn & Aldern, *Homelessness Is a Housing Problem* (2022
 
 ### Within-market: when rents rise, homelessness rises
 
-The U.S. Government Accountability Office's 2020 study (GAO-20-433) provides the complementary panel evidence, tracking the *same* communities over 2012–2018 with a weighted fixed-effects model controlling for weather, count methodology, and local factors: "a $100 increase in median rental price was associated with about a 9 percent increase in the estimated homelessness rate. For instance, in a CoC with a homelessness rate of 16 individuals per 10,000, a $100 increase in household median rent would have an associated increase to about 17.4 individuals per 10,000." GAO notes median rent was robust across its model specifications, while cautioning that "regression models may be subject to omitted variable bias."
+The U.S. Government Accountability Office's 2020 study (GAO-20-433) provides the complementary panel evidence, tracking the *same* communities over 2012–2018 with a weighted fixed-effects model controlling for weather, count methodology, and local factors: "a $100 increase in median rental price was associated with about a 9 percent increase in the estimated homelessness rate. […]" By GAO's own illustration, a community with a homelessness rate of 16 individuals per 10,000 would, after a $100 rise in median rent, see that rate climb to about 17.4 per 10,000. GAO notes median rent was robust across its model specifications, while cautioning that "regression models may be subject to omitted variable bias."
 
 ### The aggregate record
 
