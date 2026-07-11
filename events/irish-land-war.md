@@ -50,6 +50,7 @@ The Irish Land War also stands as the first major real-world crisis to which Geo
 
 ## See Also
 
+- [The Great Irish Famine (1845–1852)](/wiki/great-irish-famine/) — the earlier land-tenure catastrophe, driven by rack-renting and absentee landlordism, that set the stage for the tenant agitation of the Land War a generation later
 - [The Land Question](/wiki/the-land-question/) — George's 1881 intervention in this crisis
 - [Michael Davitt](/wiki/michael-davitt/) — founder of the Irish National Land League
 - [Henry George](/wiki/henry-george/) — author of *The Land Question* and correspondent in Ireland

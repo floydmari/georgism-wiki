@@ -66,6 +66,7 @@ Public Land* (Lincoln Institute, 2003).[8]
 
 ## See Also
 
+- [Land Banking](/wiki/land-banking/) — the related but distinct strategy of buying land outright ahead of development, illustrated by Stockholm's municipal land bank and Ann Strong's comparative study of it.
 - [Canberra Leasehold System](/wiki/canberra-leasehold-system/) — the full case-study history of Canberra's founding leasehold design, its 1925 speculative loophole, and the 1971 abolition of land rent.
 - [Land Value Capture](/wiki/land-value-capture/) — the broader mechanism family
 - [Hong Kong](/wiki/hong-kong/) · [Singapore](/wiki/singapore/) — the leading cases

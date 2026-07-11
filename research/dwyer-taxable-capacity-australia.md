@@ -29,6 +29,7 @@ figures on direct read — do not cite magnitudes until then.]
 
 ## See Also
 
+- [Dwyer (1980): A History of the Theory of Land Value Taxation](/wiki/dwyer-history-lvt-theory/) — Dwyer's earlier Harvard dissertation that this page says supplies the 'superneutrality' argument
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the outcome this bears on
 - [ATCOR](/wiki/atcor/) · [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
 

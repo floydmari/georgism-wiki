@@ -106,6 +106,7 @@ Harrison's argument that the optimal speculative holding period is 15–16 years
 
 ## See Also
 
+- [A Full Land Tax Destroys Land's Selling Price and Its Own Tax Base](/wiki/lvt-destroys-its-own-tax-base/) — the Ch. 16 objection Harrison attributes to Graham Hallett, and Harrison's rebuttal that rental value survives even as capital value collapses
 - [Phelps Brown & Weber (1953): Accumulation, Productivity and Distribution](/wiki/phelps-brown-weber-accumulation/) — the 1953 study Harrison cites (Ch. 6) as the empirical basis for the declining-returns-to-capital blade of his scissors divergence
 - [Thomas Spence](/wiki/thomas-spence/) — the Newcastle schoolteacher Harrison cites (Ch. 2, p.30) as a land-tax precursor imprisoned for his advocacy
 - [Objection: Nationalization or Socialism Solves the Land Problem](/wiki/nationalization-solves-the-land-problem/) — examines Harrison's Ch. 13–14 case studies (Yugoslavia, Israel, Sweden) showing public land ownership without rent-pricing failed to escape land-value inflation and speculative capture

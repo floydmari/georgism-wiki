@@ -50,6 +50,7 @@ Proposition 13 inspired similar tax-cap measures in other U.S. states, including
 
 ## See Also
 
+- [Cabral & Hoxby (2012): The Hated Property Tax](/wiki/cabral-hoxby-hated-property-tax/) — the empirical paper explaining property-tax unpopularity via salience, a mechanism underlying revolts like Proposition 13
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Transitional Gains Trap](/wiki/transitional-gains-trap/)
 - [Tax Capitalization](/wiki/tax-capitalization/)

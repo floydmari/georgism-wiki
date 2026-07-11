@@ -24,6 +24,7 @@ Land monopoly has direct implications for housing affordability. When land in de
 
 ## See Also
 
+- [Henry Miller (Cattle King of California)](/wiki/henry-miller-cattle-king/) — a 19th-century case study of land monopoly built through manipulation of federal land-grant laws
 - [Scottish Highland Clearances (c. 1750–1860)](/wiki/highland-clearances/) — the major British historical episode of forced eviction by landholding lairds, a canonical instance of land monopoly's human cost
 - [Enclosure of the English Commons](/wiki/enclosure-movement/) — the historical event that created the private land market and landless wage class underlying land monopoly
 - [Pistor, The Code of Capital](/wiki/pistor-code-of-capital/) — how law itself manufactures rent-bearing assets, generalizing the land-monopoly mechanism to IP and finance

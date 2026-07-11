@@ -29,6 +29,8 @@ George's influence crossed ideological lines in ways unusual for any single thin
 
 ## See Also
 
+- [Francis A. Walker](/wiki/francis-a-walker/) — first AEA president and MIT president who wrote *Land and Its Rent* (1883) as a direct rebuttal of Progress and Poverty
+- [Anne Robert Jacques Turgot](/wiki/anne-robert-jacques-turgot/) — physiocrat-aligned statesman whose Reflections systematized the land-surplus theory in the lineage George later drew on
 - [George Bernard Shaw](/wiki/george-bernard-shaw/) — the Fabian playwright who credited a Henry George lecture and Progress and Poverty with converting him to economics and socialism
 - [Andelson (ed.), Critics of Henry George (1979)](/wiki/andelson-critics-of-henry-george/) — the standard scholarly anthology collecting and appraising every major criticism of Progress and Poverty
 - [Karl Marx](/wiki/karl-marx/) — George's chief rival diagnosis of poverty amid progress; Marx privately dismissed George's land-value tax as a bourgeois half-measure in an 1881 letter.

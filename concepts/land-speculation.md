@@ -52,6 +52,7 @@ Land speculation matters because it:
 
 ## See Also
 
+- [Objection: Land Speculation Performs a Useful Economic Function](/wiki/land-speculation-is-productive/) — the classic risk-bearing defense of speculative holding, and why the wiki's response finds it weaker for land than for ordinary commodities
 - [Speculative Vacancy](/wiki/speculative-vacancy/) — the visible symptom of speculative holding
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the macro-pattern speculation helps drive
 - [Land Value Tax](/wiki/land-value-tax/) — the policy designed to impose carrying costs on speculative holding

@@ -81,6 +81,7 @@ The land-cycle reading's evidence base has genuine strengths but also acknowledg
 
 ## See Also
 
+- [Railway Mania (1840s Britain)](/wiki/railway-mania/) — a 19th-century precedent for infrastructure-linked speculative booms, financed through Parliament-granted land-acquisition powers
 - [Objection: The 1929 Stock Crash Caused the Great Depression](/wiki/stock-crash-caused-great-depression/) — tests the land-cycle account against the standard stock-crash narrative of the Depression
 - [1929 Wall Street Crash and the Great Depression](/wiki/great-depression/) — the historical episode Harrison and Patel treat as the clearest cautionary case of a land-price peak (1925–26) preceding a systemic financial collapse
 - [First Home Ownership (Productivity Commission, 2004)](/wiki/productivity-commission-first-home-ownership/) — Australia's official 2004 inquiry into the 1996–2003 house-price boom, finding demand and finance (not supply alone) as the dominant driver, with tax settings amplifying it late in the cycle.

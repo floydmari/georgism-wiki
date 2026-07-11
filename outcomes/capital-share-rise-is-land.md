@@ -59,6 +59,7 @@ If inequality's capital dimension is really a **land** dimension, a tax on land 
 
 ## See Also
 
+- [Blanco, Bauluz & Martínez-Toledano (2018), Wealth in Spain 1900-2014](/wiki/blanco-spain-two-lands/) — a national case study (Spain) extending the land-decomposition finding to a country where land's share of wealth is unusually pronounced
 - [Piketty, Capital in the Twenty-First Century](/wiki/piketty-capital-21st-century/) — the dataset the land decomposition reinterprets (context source)
 
 - [Economic Rent](/wiki/economic-rent/) · [Unearned Increment](/wiki/unearned-increment/) · [Land Value Tax](/wiki/land-value-tax/)

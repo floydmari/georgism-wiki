@@ -79,6 +79,7 @@ Spectrum auctions are now the global standard and have raised very large sums:
 
 ## See Also
 
+- [Ronald Coase](/wiki/ronald-coase/) — the economist whose 1959 FCC article proposed pricing spectrum by auction, the origin of this mechanism
 - [Congestion Pricing](/wiki/congestion-pricing/) — the parallel road-space commons case
 - [William Vickrey](/wiki/william-vickrey/) — the auction-theory lineage
 - [Public Land Leasing](/wiki/public-land-leasing/) — the same "capture the rent, but recurring vs one-shot" tension

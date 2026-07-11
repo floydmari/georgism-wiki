@@ -24,6 +24,10 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 
 ## See Also
 
+- [New Towns Act 1946](/wiki/new-towns-act-1946/) — the UK program that built 32 new towns on land bought at agricultural prices, capturing the planning-driven uplift to fund development
+- [UN Habitat 1976 Land Value Recapture Resolution](/wiki/un-habitat-1976-recapture-resolution/) — the 1976 UN conference resolution that first put land-value-capture principles into international consensus language
+- [Land Pooling / Readjustment](/wiki/land-pooling/) — a non-tax route to value capture, widely used in India and analogues in Germany/Japan/China, exchanging serviced plots for a share of landowners' pooled land rather than a cash betterment charge alone
+- [Telosa](/wiki/telosa/) — a high-profile contemporary attempt to build a new city on Georgist land-value-capture principles ('Equitism')
 - [London](/wiki/london/) — case study: TfL/GLA found the Jubilee Line Extension, DLR, and North London Line produced 52%, 23%, and 6% land value uplifts respectively, mostly uncaptured by the public
 - [Compulsory Purchase and Eminent Domain](/wiki/compulsory-purchase/) — the state acquisition power that, when compensation is set at existing-use value, functions as a complementary land-value-capture instrument
 - [Air Rights](/wiki/air-rights/) — the private-market analogue: sellable development rights (e.g. Tiffany & Co.'s $5M sale for Trump Tower) show location value is separable and priceable, though the proceeds stay private rather than being publicly captured

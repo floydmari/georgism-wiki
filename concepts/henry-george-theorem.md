@@ -24,6 +24,8 @@ The theorem gives Georgism a rigorous foundation in mainstream theory: it is not
 
 ## See Also
 
+- [Feldstein (1977), The Surprising Incidence of a Tax on Pure Rent](/wiki/feldstein-1977-incidence-pure-rent/) — the strongest mainstream challenge to land-tax neutrality, showing dynamic growth-model incidence effects beyond simple landowner capitalization
+- [Product Exhaustion Theorem](/wiki/product-exhaustion-theorem/) — Wicksteed's 1894 proof that marginal-product payments exhaust total output, the technical bridge between classical rent-as-residual thinking and the Henry George Theorem's welfare-economics restatement.
 - [Hotelling (1938): The General Welfare and Marginal-Cost Pricing](/wiki/hotelling-1938-marginal-cost-pricing/) — the 1938 marginal-cost-pricing paper that anticipates the theorem's logic of funding fixed public costs from a non-distorting revenue source
 - [Optimal City Size](/wiki/optimal-city-size/)
 

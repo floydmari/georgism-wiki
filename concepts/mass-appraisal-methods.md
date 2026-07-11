@@ -69,6 +69,7 @@ The key insight from the assessment literature is that land-value assessment err
 
 ## See Also
 
+- [Research: Kolbe et al., Identifying Berlin's Land Value Map](/wiki/kolbe-berlin-land-value-map/) — a city-scale worked example (adaptive weights smoothing, ~85% agreement with expert values) of the statistical methods this page surveys
 - [International Association of Assessing Officers (IAAO)](/wiki/iaao/) — the professional standards body behind mass appraisal and ratio-study methodology
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Land Value Tax](/wiki/land-value-tax/)

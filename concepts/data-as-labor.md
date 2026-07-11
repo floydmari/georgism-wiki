@@ -21,6 +21,7 @@ Data as Labor is one of two main capture instruments the wiki carries for [platf
 
 ## See Also
 
+- [Jaron Lanier](/wiki/jaron-lanier/) — the computer scientist and VR pioneer who originated the data-as-labor and 'siren servers' concepts this proposal formalizes
 - [Platform and Data Rents](/wiki/data-rents/) — the broader concept page this proposal is one instrument for
 - [Radical Markets (concept)](/wiki/radical-markets/) — the book's fuller five-proposal program, including Data as Labor as Ch. 5
 - [Radical Markets (book scan)](/wiki/posner-weyl-radical-markets/) — the full book source
