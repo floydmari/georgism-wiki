@@ -39,6 +39,7 @@ the pairing this page's headline assessment insists on.
 
 ## See Also
 
+- ["LVT Is Useless Without Zoning Reform First"](/wiki/lvt-needs-zoning-reform-first/) — the YIMBY-era sequencing objection to LVT's affordability channel, and the Georgist complementarity response
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
 
 - [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) · [Speculative Vacancy](/wiki/speculative-vacancy/) · [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/)

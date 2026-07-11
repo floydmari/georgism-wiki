@@ -84,6 +84,7 @@ set the terms on which George was forgotten, whatever the motive.
 
 ## See Also
 
+- [Frank A. Fetter](/wiki/frank-fetter/) — Clark disciple whose 1927 essay confirms, in his own words, that the single-tax debate was the 'immediate stimulation' behind Clark's capital theory
 - [Paul Samuelson](/wiki/paul-samuelson/) — whose best-selling textbook is read by Gaffney as the main channel carrying Clark's land-as-capital treatment into postwar economics education
 - [William Stanley Jevons](/wiki/william-stanley-jevons/) — marginal-revolution pioneer whose apparatus Clark later turned against George
 - [The Saratoga Single Tax Debate (1890)](/wiki/saratoga-single-tax-debate/) — his in-person confrontation with George

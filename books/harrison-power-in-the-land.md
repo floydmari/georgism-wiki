@@ -106,6 +106,7 @@ Harrison's argument that the optimal speculative holding period is 15–16 years
 
 ## See Also
 
+- [Asset Stripping and Hidden Corporate Land Value](/wiki/asset-stripping/) — Harrison's Slater Walker/Forestal example of land rent hidden inside corporate balance sheets
 - [A Full Land Tax Destroys Land's Selling Price and Its Own Tax Base](/wiki/lvt-destroys-its-own-tax-base/) — the Ch. 16 objection Harrison attributes to Graham Hallett, and Harrison's rebuttal that rental value survives even as capital value collapses
 - [Phelps Brown & Weber (1953): Accumulation, Productivity and Distribution](/wiki/phelps-brown-weber-accumulation/) — the 1953 study Harrison cites (Ch. 6) as the empirical basis for the declining-returns-to-capital blade of his scissors divergence
 - [Thomas Spence](/wiki/thomas-spence/) — the Newcastle schoolteacher Harrison cites (Ch. 2, p.30) as a land-tax precursor imprisoned for his advocacy

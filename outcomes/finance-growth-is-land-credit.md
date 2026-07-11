@@ -72,6 +72,7 @@ lending against land.
 
 ## See Also
 
+- [Credit Window Guidance](/wiki/credit-window-guidance/) — the sector-directed-credit tool Japan, Korea, and Taiwan used to steer bank lending toward production and, at times, away from land speculation
 - [Adair Turner](/wiki/adair-turner/) — former FSA chairman whose *Between Debt and the Devil* is cited for the self-reinforcing credit–real estate cycle thesis
 - [Positive Money](/wiki/positive-money/) — the UK monetary-reform group whose bank-lending composition research is cited (via Doucet) alongside Jordà et al. as corroborating evidence
 - [Collateral Channel](/wiki/collateral-channel/) — the Kiyotaki-Moore mechanism explaining why land's role as preferred bank collateral links land prices to credit supply

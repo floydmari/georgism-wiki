@@ -40,6 +40,7 @@ The full evidence wiring for this outcome (each page carries its external citati
 
 ## See Also
 
+- [The Houston Plan of Taxation (1912–1915)](/wiki/houston-plan-of-taxation/) — an early, legally-terminated American split-rate experiment predating Pittsburgh, showing a construction surge under land-favoring assessment
 - [Victoria's Site-Value vs Net-Annual-Value Rating: A 1966–78 Natural Experiment](/wiki/victoria-svr-nav-comparison/) — the specific Victorian natural-experiment dataset (27 SVR vs. 15 NAV municipalities) behind this outcome claim
 - [Bourassa (1987): Land Value Taxation and New Housing Development in Pittsburgh](/wiki/bourassa-pittsburgh-lvt-housing/) — the earliest econometric study finding Pittsburgh's split-rate tax significantly increased new-housing construction
 - [Land Value Tax](/wiki/land-value-tax/) · [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) · [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/)
