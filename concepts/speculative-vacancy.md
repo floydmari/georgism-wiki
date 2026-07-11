@@ -58,6 +58,7 @@ almost no tax — and improving the site *raises* the bill.
 
 ## See Also
 
+- [Centre Point](/wiki/centre-point/) — London's landmark case: a 34-storey tower left completely empty for nine years by its developer while waiting for a single high-paying tenant
 - [Land Monopoly](/wiki/land-monopoly/) · [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) · [Prosper Australia](/wiki/prosper-australia/)
 - [Cunningham (2006), Seattle](/wiki/cunningham-seattle-options/) — the option-value evidence
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)

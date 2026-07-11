@@ -54,6 +54,7 @@ Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radica
 
 ## See Also
 
+- [Ramin Shokrizade](/wiki/ramin-shokrizade/) — game economist who independently re-derived a land-value-tax-style holding fee to fix EVE Online's virtual land speculation, without prior knowledge of Georgist theory
 - [Veil of Secrecy over Land Ownership and Values](/wiki/land-ownership-secrecy/) — Harrison's account of systematic suppression of land ownership and price data as a standing obstacle to assessment and rent capture
 - [Site Value](/wiki/site-value/)
 

@@ -127,6 +127,7 @@ Harrison acknowledges that homeowners — now the majority — are themselves be
 
 ## See Also
 
+- [Valencia "Land Grab" Law (LRAU, 1994)](/wiki/valencia-land-grab-law/) — a case study Harrison cites of botched land-value capture (Ch. 7 §2)
 - [Ronald Banks](/wiki/ronald-banks/) — Georgist analyst acknowledged in the preface, credited with the £880bn UK output-gain estimate
 - [Portland, Oregon](/wiki/portland-oregon/) — the book's flagship UGB case study (Ch. 2 §1), used against the planning-restriction explanation of high land prices
 - [Ireland](/wiki/ireland/) — the book's case study of an EU-funded land bubble (Ch. 7 §2), later confirmed by the 2008 crash and Ireland's EU-IMF bailout

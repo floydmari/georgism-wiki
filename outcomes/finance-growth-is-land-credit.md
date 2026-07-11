@@ -72,6 +72,7 @@ lending against land.
 
 ## See Also
 
+- [Adair Turner](/wiki/adair-turner/) — former FSA chairman whose *Between Debt and the Devil* is cited for the self-reinforcing credit–real estate cycle thesis
 - [Positive Money](/wiki/positive-money/) — the UK monetary-reform group whose bank-lending composition research is cited (via Doucet) alongside Jordà et al. as corroborating evidence
 - [Collateral Channel](/wiki/collateral-channel/) — the Kiyotaki-Moore mechanism explaining why land's role as preferred bank collateral links land prices to credit supply
 - [The FIRE Sector](/wiki/fire-sector/) — the framing and the counter-view

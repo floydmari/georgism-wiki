@@ -89,6 +89,8 @@ The data cited (2003-2004 UK land values, housing stock values) is now two decad
 
 ## See Also
 
+- [Miller: Dying for Justice](/wiki/miller-dying-for-justice/) — the epidemiological study Harrison cites for ~50,000 premature deaths/year in England & Wales linked to tax-induced inequality
+- [Li & Yao: Your House Just Doubled in Value?](/wiki/li-yao-house-price-welfare/) — Philadelphia Fed life-cycle model quantifying that house-price rises make renters and young homeowners worse off while transferring wealth to older owners, cited in Ch. 12.1
 - [Marxist Class-Conflict Critique of Georgism](/wiki/marxist-critique-of-georgism/) — the modern Georgist reply (Harrison's "state as villain" framing) to Marx's 1881 dismissal of the single tax
 - [Abolition of Feudal Tenures (1660)](/wiki/abolition-of-feudal-tenures-1660/) — the Restoration-era shift of England's revenue base from land to excise, per Harrison's account of the tax clawback
 - [Tax Clawback](/wiki/tax-clawback/) — the concept page for the book's central thesis, with its relationship to ATCOR spelled out

@@ -24,6 +24,8 @@ Land monopoly has direct implications for housing affordability. When land in de
 
 ## See Also
 
+- [James Harrington](/wiki/james-harrington/) — 17th-century political theorist whose Oceana (1656) argued that political power follows the distribution of land, a structural pre-Georgist ancestor of the land-monopoly concept
+- [Pierre-Joseph Proudhon](/wiki/pierre-joseph-proudhon/) — the anarchist thinker whose 'property is theft' marks one pole of the property-rights debate Georgism's land-specific claim sits inside
 - [Henry Miller (Cattle King of California)](/wiki/henry-miller-cattle-king/) — a 19th-century case study of land monopoly built through manipulation of federal land-grant laws
 - [Scottish Highland Clearances (c. 1750–1860)](/wiki/highland-clearances/) — the major British historical episode of forced eviction by landholding lairds, a canonical instance of land monopoly's human cost
 - [Enclosure of the English Commons](/wiki/enclosure-movement/) — the historical event that created the private land market and landless wage class underlying land monopoly

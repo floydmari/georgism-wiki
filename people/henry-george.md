@@ -29,6 +29,7 @@ George's influence crossed ideological lines in ways unusual for any single thin
 
 ## See Also
 
+- [John Dewey](/wiki/john-dewey/) — America's leading philosopher, a lifelong Georgist advocate who served as honorary president of the Henry George School
 - [Francis A. Walker](/wiki/francis-a-walker/) — first AEA president and MIT president who wrote *Land and Its Rent* (1883) as a direct rebuttal of Progress and Poverty
 - [Anne Robert Jacques Turgot](/wiki/anne-robert-jacques-turgot/) — physiocrat-aligned statesman whose Reflections systematized the land-surplus theory in the lineage George later drew on
 - [George Bernard Shaw](/wiki/george-bernard-shaw/) — the Fabian playwright who credited a Henry George lecture and Progress and Poverty with converting him to economics and socialism

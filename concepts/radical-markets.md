@@ -70,6 +70,7 @@ Several important qualifications distinguish COST from a conventional land value
 
 ## See Also
 
+- [Quadratic Voting](/wiki/quadratic-voting/) — the Ch. 2 mechanism-design proposal Radical Markets pairs with the Harberger tax, now given its own definitional page
 - [Eric A. Posner](/wiki/eric-posner/) — the University of Chicago legal scholar who co-authored the book and designed its legal/institutional mechanics
 - [E. Glen Weyl](/wiki/e-glen-weyl/) — co-author of Radical Markets and founder of RadicalxChange, who carried the Harberger-tax revival into mechanism design and tech circles
 - [Horizontal Shareholding (Common Ownership)](/wiki/horizontal-shareholding/) — the Ch. 4 'Dismembering the Octopus' rent-extraction problem Radical Markets proposes Disruptive Antitrust to fix
