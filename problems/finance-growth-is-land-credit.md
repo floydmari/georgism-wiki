@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, fire-sector, finance-rents, mortgage, land, credit, geoism]
 stub: false
 evidence_strength: "Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent."
-supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, greenwood-scharfstein-growth-of-finance]
+supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy]
 excerpt: "Over the past century the expansion of banking in advanced economies has been, above all, the expansion of mortgage lending — and the value that lending is secured against is overwhelmingly land, not buildings. Much of what looks like 'financial deepening' is the banking system capitalising and collecting land rent."
 challenged_by: []
 ---
@@ -40,8 +40,16 @@ strong long-run evidence.
   collateral behind the mortgage boom is real estate, and the appreciating part of real
   estate is land, the credit expansion is, in economic substance, lending against a
   claim on **land rent**.[2]
+- **Independently corroborated on a modern panel.**
+  [Bezemer & Hudson (2016)](/wiki/bezemer-hudson-finance-is-not-the-economy/) reproduce the
+  same composition fact on a balanced panel of 14 OECD economies, 1990–2011: credit to
+  non-financial business "was stagnant at about 40 percent of GDP, while its share in
+  overall credit plummeted," and "the share of household mortgage credit issued by banks
+  rose from about 20 to 50 percent of all credit."[3] Their stronger interpretive step —
+  that this credit *income* is itself rent — is the contested claim flagged in Honest
+  Scope below; the mortgage-share composition figure cited here is not.
 
-Put together, the two findings mean that the century's great financial expansion is
+Put together, these findings mean that the century's great financial expansion is
 largely a land-credit expansion — the same conclusion the
 [rentier-economy narrative](/wiki/the-rentier-economy/) reaches, here established from
 mainstream long-run data that make no reference to George or rent theory.
@@ -99,3 +107,9 @@ lending against land.
    Global House Prices, 1870–2012," *American Economic Review* 107(2), 331–353 — used
    for the finding that the post-1950 house-price boom is mostly rising land prices, not
    construction costs. [wiki summary](/wiki/knoll-schularick-steger-house-prices/)
+3. Dirk Bezemer & Michael Hudson (2016), "Finance Is Not the Economy," *Journal of
+   Economic Issues* 50(3), 745–768 — used only for the modern-panel composition figures
+   (14 OECD economies, 1990–2011: business credit stagnant ~40% of GDP; household mortgage
+   share 20%→50% of all credit). Its stronger "finance income is rent" interpretation is
+   carried as attributed, contested argument, not as support for this composition claim.
+   [wiki summary](/wiki/bezemer-hudson-finance-is-not-the-economy/)

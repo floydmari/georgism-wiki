@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, carbon-pricing, ecological-georgism, atmosphere-commons, pigouvian, geoism]
 stub: false
 evidence_strength: "Moderate-to-strong for real, measurable emissions reductions across several designs; magnitudes are modest and prices usually sit below the social cost of carbon; aggregate causal effects are debated for the flagship case"
-supported_by: [ecological-georgism, pigouvian-taxation]
+supported_by: [ecological-georgism, pigouvian-taxation, andersson-sweden-carbon-tax, bayer-aklin-eu-ets, metcalf-stock-europe-carbon-taxes]
 excerpt: "Pricing the scarce right to emit — charging for use of the atmospheric commons — measurably reduces emissions wherever it has been tried, at little cost to growth: British Columbia's revenue-neutral carbon tax cut per-capita fuel use ~19% while GDP outpaced the rest of Canada; cross-country and EU-ETS evidence agree the effect is real, if modest."
 challenged_by: []
 ---
@@ -41,14 +41,32 @@ rest of Canada is an obvious control:
 
 The BC result is not a one-off:
 
+- **Sweden (the cleanest single case):** [Andersson (2019)](/wiki/andersson-sweden-carbon-tax/),
+  using the synthetic-control method against a control group of comparable OECD
+  countries, was the first study to identify a *significant causal* effect of a carbon
+  tax on emissions: Sweden's 1991 carbon tax (plus a fuel VAT) cut **transport CO₂ by
+  almost 11%**, with **6.3% from the carbon tax alone** (~1.5 Mt/yr). He also finds the
+  carbon-tax elasticity of gasoline demand is **three times** the ordinary price
+  elasticity — the same "salience" effect Rivers & Schaufele found for BC, and a warning
+  that simulation-based evaluations understate carbon taxes' true effect.[8]
 - **Cross-country:** Best, Burke & Jotzo (2020) studied 142 countries over two
   decades and found that those with a carbon price had annual CO₂-emissions growth
   about **2 percentage points lower** than those without, with roughly **0.3pp** less
   emissions growth per additional €1/tonne.[4]
-- **EU Emissions Trading System:** Bayer & Aklin (2020) estimated the EU ETS cut more
-  than **1 billion tonnes of CO₂** between 2008 and 2016 — about **3.8% of EU-wide
-  emissions** — *despite* prices that were low for most of that period; covered
-  sectors emitted roughly 11.5% less than they otherwise would have.[5]
+- **EU Emissions Trading System:** [Bayer & Aklin (2020)](/wiki/bayer-aklin-eu-ets/)
+  estimated the EU ETS cut more than **1 billion tonnes of CO₂** between 2008 and 2016 —
+  about **3.8% of EU-wide emissions** — *despite* prices that were low for most of that
+  period; covered sectors emitted roughly 11.5% less than they otherwise would have,
+  because a credibly-tightening market changes behaviour even when the spot price is
+  cheap.[5]
+
+On the **growth** half of the claim, the strongest evidence is
+[Metcalf & Stock (2023)](/wiki/metcalf-stock-europe-carbon-taxes/), who use ~30 years of
+European carbon-tax data and find **no negative effect on GDP or employment growth** —
+point estimates run from zero to modestly positive — while still delivering a cumulative
+**4–6% emissions cut for a $40/tonne tax covering 30% of emissions**. That directly
+answers the jobs-and-growth fear that is carbon pricing's binding political constraint,
+without overstating the emissions effect.[9]
 
 ## The Honest Counter-Texture
 
@@ -86,6 +104,9 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
 ## See Also
 
 - [Ecological Georgism](/wiki/ecological-georgism/) — the framework this evidences
+- [Carbon Taxes and CO2 Emissions: Sweden (Andersson)](/wiki/andersson-sweden-carbon-tax/) — the cleanest causal carbon-tax case
+- [The EU ETS reduced CO2 emissions despite low prices (Bayer & Aklin)](/wiki/bayer-aklin-eu-ets/) — the cap-and-trade evidence
+- [The Macroeconomic Impact of Europe's Carbon Taxes (Metcalf & Stock)](/wiki/metcalf-stock-europe-carbon-taxes/) — the no-growth-cost evidence
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/) — the externality-correction lens
 - [Who Owns the Sky? (Barnes)](/wiki/barnes-sky-trust/) — the cap-and-dividend design
 - [Congestion Pricing](/wiki/congestion-pricing/) — the sibling commons-pricing case
@@ -123,3 +144,15 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
 7. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler,
    2006) — used for the sky trust proposal as the commons-trust prototype for
    atmospheric rent capture (C-claim). [Book page](/wiki/capitalism-3-0/)
+8. Julius J. Andersson (2019), "Carbon Taxes and CO₂ Emissions: Sweden as a Case Study,"
+   *American Economic Journal: Economic Policy* 11(4), 1–30 — used for the ~11%
+   transport-CO₂ / 6.3%-carbon-tax-alone synthetic-control estimate and the
+   three-times-price-elasticity salience finding (B-claim; verified this session, see the
+   dedicated [research page](/wiki/andersson-sweden-carbon-tax/)). DOI
+   [10.1257/pol.20170144](https://doi.org/10.1257/pol.20170144)
+9. Gilbert E. Metcalf & James H. Stock (2023), "The Macroeconomic Impact of Europe's
+   Carbon Taxes," *American Economic Journal: Macroeconomics* 15(3), 265–286 — used for
+   the no-negative-GDP/employment-effect result and the 4–6%-at-$40/tonne emissions cut
+   (B-claim; the "without wrecking growth" evidence, see the dedicated
+   [research page](/wiki/metcalf-stock-europe-carbon-taxes/)). DOI
+   [10.1257/mac.20210052](https://doi.org/10.1257/mac.20210052)

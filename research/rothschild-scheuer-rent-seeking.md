@@ -7,6 +7,7 @@ year: 2011
 source_url: https://www.nber.org/system/files/working_papers/w17035/w17035.pdf
 tier: supplementary
 stub: false
+supports_outcomes: [rent-seeking-drags-growth]
 excerpt: "Shows that optimal income-tax design must account for high earners who engage in rent-seeking rather than value creation."
 ---
 
@@ -20,6 +21,7 @@ When part of top earnings reflects rent extraction (capturing existing value) ra
 
 ## Bears On
 
+- **Problem (supports the mechanism):** [Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/) — the optimal-tax corroboration: when top incomes partly reflect rent extraction, taxing them more heavily discourages socially wasteful activity without sacrificing genuine production.
 - **Concept:** [Rent-Seeking](/wiki/rent-seeking/)
 
 ## Sources

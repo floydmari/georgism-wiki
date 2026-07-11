@@ -7,6 +7,7 @@ year: 2013
 tier: Important
 source_url: https://www.hbs.edu/ris/Publication%20Files/Growth%20of%20Finance_6ec86a21-8e68-4abc-bb09-45abaacd7be5.pdf
 stub: false
+supports_outcomes: [finance-growth-is-land-credit]
 excerpt: "The mainstream accounting of finance's postwar tripling: 2.8% of US GDP in 1950, 4.9% in 1980, 8.3% at the 2006 peak — with the growth concentrated in two activities, asset-management fees and household (mostly mortgage) credit. The peer-reviewed source behind the FIRE-sector scale numbers, kept honest on what is and isn't land."
 ---
 

@@ -63,8 +63,9 @@ an honestly mixed one:
 
 - **Leverage falls, as theory predicts.** Belgium's notional interest deduction
   (2006, a "hard" ACE on the full equity stock) reduced firms' financial
-  leverage in difference-in-differences designs (Princen 2012; Panier,
-  Pérez-González & Villanueva; aus dem Moore 2014).[5] Italy's incremental ACE
+  leverage in difference-in-differences designs (Princen 2012;
+  [Panier, Pérez-González & Villanueva 2015](/wiki/panier-perez-gonzalez-villanueva-belgium-ace/);
+  aus dem Moore 2014).[5] Italy's incremental ACE
   (2011, new equity only) substantially reduced beneficiaries' leverage at much
   lower revenue cost ([Branzoli & Caiumi 2020](/wiki/branzoli-caiumi-italy-ace/)).[6]
 - **Real investment is the contested margin.** The strongest-identified study,

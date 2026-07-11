@@ -54,6 +54,10 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 
 - [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — an ad tax argued as Pigouvian on the harms of surveillance advertising
 
+- [Carbon Taxes and CO2 Emissions: Sweden (Andersson)](/wiki/andersson-sweden-carbon-tax/) — quasi-experimental evidence that pricing an externality reduces it
+- [The EU ETS reduced CO2 emissions despite low prices (Bayer & Aklin)](/wiki/bayer-aklin-eu-ets/) — the cap-and-trade version of the same result
+- [The Macroeconomic Impact of Europe's Carbon Taxes (Metcalf & Stock)](/wiki/metcalf-stock-europe-carbon-taxes/) — externality correction without a growth penalty
+
 - [Ecological Georgism](/wiki/ecological-georgism/) — the extension of Georgist rent-capture to environmental externalities
 - [Deadweight Loss](/wiki/deadweight-loss/) — why most taxes are inefficient, and why Pigouvian taxes and LVT are exceptions
 - [Resource Rents](/wiki/resource-rents/) — the Georgist treatment of natural resource rents as socially capturable

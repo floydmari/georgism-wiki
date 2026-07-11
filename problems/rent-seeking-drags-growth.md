@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, rent-seeking, growth, talent-allocation, innovation, institutions]
 stub: false
 evidence_strength: "Moderate (strong theory and historical evidence; direct empirical magnitudes contested)"
-supported_by: [murphy-shleifer-vishny-allocation-talent, murphy-shleifer-vishny-rent-seeking-growth, baumol-unproductive-entrepreneurship]
+supported_by: [murphy-shleifer-vishny-allocation-talent, murphy-shleifer-vishny-rent-seeking-growth, baumol-unproductive-entrepreneurship, rothschild-scheuer-rent-seeking, acemoglu-johnson-robinson-colonial-origins]
 challenged_by: [ansolabehere-money-in-politics]
 excerpt: "When capturing existing wealth pays better than creating new wealth, talent and effort flow into rent-seeking and growth suffers — the mainstream-economics core of the Georgist diagnosis, with strong theory and historical evidence but contested magnitudes."
 last_reviewed: 2026-07-10
@@ -67,6 +67,15 @@ anchor literature:
   growth and law enrollment slower growth 1970–1985 — the source of the famous line
   "Lawyers are indeed bad, and engineers good, for growth." In the full sample the
   lawyer effect is statistically insignificant; see Counter-Evidence.
+- **Instrumented institutional evidence** ([Acemoglu, Johnson & Robinson 2001](/wiki/acemoglu-johnson-robinson-colonial-origins/)):
+  the flagship of institutional economics uses European settler mortality as an instrument
+  for present-day institutions and estimates "large effects of institutions on income per
+  capita." Its extractive states — whose "main purpose … was to transfer as much of the
+  resources of the colony to the colonizer" — are institutionalized rent-extraction, and
+  the causal, historically-identified finding that they depress long-run income is the
+  empirical backbone for Baumol's rules-of-the-game logic. (The settler-mortality
+  instrument is itself contested — [Albouy 2012](/wiki/acemoglu-johnson-robinson-colonial-origins/);
+  the direction survives, the instrumented magnitude less cleanly.)
 - **Optimal-tax corroboration** ([Rothschild & Scheuer 2011](/wiki/rothschild-scheuer-rent-seeking/)):
   when part of top incomes reflects rent extraction, taxing those incomes more heavily
   discourages socially wasteful activity without sacrificing production — the same
@@ -160,3 +169,9 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
 5. Casey Rothschild & Florian Scheuer (2011), "Optimal Taxation with Rent-Seeking,"
    NBER WP 17035. [wiki summary](/wiki/rothschild-scheuer-rent-seeking/) — used for the
    optimal-tax corroboration (C-claim).
+6. Daron Acemoglu, Simon Johnson & James A. Robinson (2001), "The Colonial Origins of
+   Comparative Development," *AER* 91(5), 1369–1401.
+   [DOI](https://doi.org/10.1257/aer.91.5.1369) ·
+   [wiki summary](/wiki/acemoglu-johnson-robinson-colonial-origins/) — used for the
+   instrumented institutional evidence that extractive (rent-transferring) institutions
+   causally depress income (A/C-claims; instrument contested per Albouy 2012).

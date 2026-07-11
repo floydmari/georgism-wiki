@@ -7,6 +7,7 @@ year: 2016
 tier: Important
 source_url: https://www.boeckler.de/pdf/v_2016_10_21_hudson.pdf
 stub: false
+supports_outcomes: [finance-growth-is-land-credit]
 excerpt: "The peer-reviewed statement of the heterodox 'finance income is rent' thesis: credit since the 1980s has flowed to bid up asset prices — above all through household mortgages — rather than to fund production, and much of what national accounts record as financial 'income' is, in classical terms, rent. The strong version of the finance-rents claim, kept honestly attributed."
 ---
 

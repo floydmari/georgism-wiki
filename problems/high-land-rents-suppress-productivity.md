@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, productivity, tfp, urban-land, misallocation]
 stub: false
 evidence_strength: "Emerging (strong top-journal evidence for the closely-related land-use-restriction channel; the direct privately-captured-rent version is thinner and one flagship magnitude is contested)"
-supported_by: [duranton-puga-urban-growth, hsieh-moretti-spatial-misallocation, herkenhoff-ohanian-prescott-tarnishing, fiorentino-moogan-agglomeration]
+supported_by: [duranton-puga-urban-growth, hsieh-moretti-spatial-misallocation, herkenhoff-ohanian-prescott-tarnishing, fiorentino-moogan-agglomeration, hornbeck-moretti-tfp-incidence]
 excerpt: "High urban land costs price the most productive workers and firms out of the best locations, misallocating labour and capital and lowering aggregate productivity. The direction is well-supported; the magnitude and the specifically-rent (vs regulation) version remain active research."
 last_reviewed: 2026-07-10
 ---
@@ -57,6 +57,22 @@ model a land value tax easing agglomeration misallocation and improving both eff
 equity — the closest work to the Georgist mechanism, but a single unrefereed model of modest
 weight, not an empirical confirmation.
 
+The rent-capture *premise* of that channel — that the agglomeration surplus is absorbed as
+land rent rather than left to accrue to the productive workers who generate it — does have
+strong causal evidence. [Hornbeck & Moretti (2018/2024)](/wiki/hornbeck-moretti-tfp-incidence/)
+use four alternative instruments for local productivity shocks and find that for renters the
+resulting earnings gains are "largely offset by increased cost of living," while "for
+homeowners, the benefits are substantial" — productivity growth capitalizing into land, an
+explicit revival of Ricardo (their words). This bears on the *specifically-rent* channel
+(private location rent, not regulation) that the three headline papers do not isolate. It is
+**double-edged**, and cited honestly here: once worker mobility is counted, Hornbeck & Moretti's
+national conclusion is that "the impacts on landowners are largely a transfer from one location
+to another," incidence "falls mainly on workers," and aggregate purchasing power still *rises*
+(~0.5–0.6%/yr). So the paper documents that high land rents capture the productivity surplus
+locally — the first link in the suppression mechanism — without establishing that they lower
+aggregate output. It strengthens the thin rent-channel premise; it does not, by itself, prove
+the suppression conclusion.
+
 ## Counter-Evidence
 
 This claim's evidence base has real weaknesses, and honest use requires stating them:
@@ -87,3 +103,4 @@ This claim's evidence base has real weaknesses, and honest use requires stating 
 5. Christopher Tonetti (2018), "Comment on 'Tarnishing the golden and empire states'," *Journal of Monetary Economics* 93: 110–113. [Author copy](https://christophertonetti.com/files/papers/Tonetti_HOPComment.pdf) — used for the smaller-estimate and regulation-as-amenity reverse-causality caveats. [documented via wiki summary](/wiki/herkenhoff-ohanian-prescott-tarnishing/)
 6. Fiorentino & Moogan (2025), "LVT and Urban Agglomeration Dynamics," SSRN — used for the (supplementary) model of a land value tax easing agglomeration misallocation. [wiki summary](/wiki/fiorentino-moogan-agglomeration/)
 7. Bas Bakker (2023), "Unveiling the Hidden Impact of Urban Land Rents on Total Factor Productivity," IMF Working Paper 2023/170. [IDEAS/RePEc](https://ideas.repec.org/p/imf/imfwpa/2023-170.html) — cited for the caveat that urban land rents cause standard growth decompositions to *underestimate* TFP growth (a measurement point, not misallocation evidence). [wiki summary](/wiki/bakker-land-rents-tfp/)
+8. Richard Hornbeck & Enrico Moretti (2018/2024), "Estimating Who Benefits from Productivity Growth," *NBER WP 24661* / *Review of Economics and Statistics* 106(3). [DOI](https://doi.org/10.1162/rest_a_01208) — used, with the double-edged national-incidence caveat, for four-IV causal evidence that local productivity growth capitalizes into land rent (the specifically-rent channel's premise). [wiki summary](/wiki/hornbeck-moretti-tfp-incidence/)

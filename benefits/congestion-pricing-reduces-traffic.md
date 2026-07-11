@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, congestion-pricing, road-pricing, geoism, road-space-rents]
 stub: false
 evidence_strength: "Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature"
-supported_by: [congestion-pricing]
+supported_by: [congestion-pricing, leape-london-congestion-charge, eliasson-stockholm-trial-2006, gibson-carnovale-road-pricing-pollution]
 excerpt: "Charging for scarce peak road space produces large, measured falls in traffic and congestion wherever it has been tried — Singapore (1975), London (2003), Stockholm (2006) — and Stockholm's cost-benefit analysis, built on measured data, shows the social benefits recover the system's cost in about four years. The strongest quasi-experimental evidence for any non-land rent-capture instrument."
 ---
 
@@ -20,8 +20,13 @@ real world with published before-and-after evaluations.
 ## The Traffic Evidence
 
 The three city-scale natural experiments are set out with citations on the
-**[congestion pricing](/wiki/congestion-pricing/)** concept page; in summary all
-show large, quickly-established, sustained reductions:
+**[congestion pricing](/wiki/congestion-pricing/)** concept page, each now with a
+dedicated flagship-source page: London ([Leape 2006, *JEP*](/wiki/leape-london-congestion-charge/)),
+Stockholm ([Eliasson et al. 2009, the evaluation team's *Overview of effects*](/wiki/eliasson-stockholm-trial-2006/)),
+and — the cleanest causal case — Milan ([Gibson & Carnovale 2015, *JUE*](/wiki/gibson-carnovale-road-pricing-pollution/)),
+where an unanticipated eight-week court suspension of the Area C charge acts as a
+natural experiment: pricing cut vehicle entries ~14.5% and air pollution 6–17%. In
+summary all show large, quickly-established, sustained reductions:
 
 - **Stockholm (2006):** cordon traffic down ~20–22%, congestion down 30–50%.
 - **London (2003):** congestion within the zone down ~30%, traffic entering down 18%.
@@ -80,6 +85,9 @@ typically earmarked for transit; see
 
 ## See Also
 
+- [The London Congestion Charge (Leape 2006)](/wiki/leape-london-congestion-charge/) — the standard economist's evaluation
+- [The Stockholm congestion-charging trial 2006 (Eliasson et al.)](/wiki/eliasson-stockholm-trial-2006/) — the quasi-experiment with the referendum
+- [Road pricing, driver behaviour and air pollution: Milan (Gibson & Carnovale)](/wiki/gibson-carnovale-road-pricing-pollution/) — the clean causal discontinuity
 - [Congestion Pricing](/wiki/congestion-pricing/) — the mechanism and the traffic evidence in full
 - [William Vickrey](/wiki/william-vickrey/) — the theorist behind it
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table

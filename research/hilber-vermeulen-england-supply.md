@@ -9,7 +9,7 @@ source_url: https://eprints.lse.ac.uk/49933/1/Hilber_Vermeulen_Impact-supply_201
 stub: false
 excerpt: "Hilber and Vermeulen find that regulatory and physical supply constraints substantially raise English house prices — mainstream evidence for the land-scarcity mechanism, though not a study of land value taxation."
 last_reviewed: 2026-07-03
-supports_outcomes: [lvt-improves-housing-affordability]
+supports_outcomes: [lvt-improves-housing-affordability, housing-unaffordability-is-a-land-problem]
 ---
 
 ## Summary

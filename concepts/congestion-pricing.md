@@ -110,6 +110,9 @@ real-world, before-and-after evidence** at city scale.
 ## See Also
 
 - [Outcome: Congestion pricing reduces traffic and congestion](/wiki/congestion-pricing-reduces-traffic/) — the evidence-graded verdict
+- [The London Congestion Charge (Leape 2006)](/wiki/leape-london-congestion-charge/) — the standard economist's evaluation of the London case
+- [The Stockholm congestion-charging trial 2006 (Eliasson et al.)](/wiki/eliasson-stockholm-trial-2006/) — the evaluation team's overview of the Stockholm case
+- [Road pricing, driver behaviour and air pollution: Milan (Gibson & Carnovale)](/wiki/gibson-carnovale-road-pricing-pollution/) — the clean causal discontinuity from Milan's Area C suspension
 - [William Vickrey](/wiki/william-vickrey/) — the theorist who linked road-space and land pricing
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/) — the externality-correction lens
 - [Geoism](/wiki/geoism/) — the umbrella program; road space in the rent-domain table

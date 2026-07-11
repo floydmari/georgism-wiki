@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, resource-rents, severance-tax, sovereign-wealth-fund, norway, geoism]
 stub: false
 evidence_strength: "Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak"
-supported_by: [resource-rents, sovereign-wealth-fund, cash-flow-tax]
+supported_by: [resource-rents, sovereign-wealth-fund, cash-flow-tax, acemoglu-johnson-robinson-botswana, lie-norwegian-oil-fund, martinez-colombia-resource-rents]
 excerpt: "High-rate capture of natural-resource rent is workable and durable: Norway taxes petroleum at a 78% marginal rate on a cash-flow basis, has banked over $2 trillion in the world's largest sovereign wealth fund, and spends only ~3% a year — the textbook escape from the resource curse. But the escape is institutional, not automatic; where institutions are weak, resource rents are still a curse."
 challenged_by: []
 ---
@@ -40,6 +40,39 @@ preserved for future generations rather than consumed in the boom.[3] Extraction
 investment on the Norwegian shelf continued throughout — high-rate capture did not
 kill the industry.
 
+The design was deliberate, and it was **institutional**. Economic historian Einar
+Lie's archival account
+([*Learning by Failing*](/wiki/lie-norwegian-oil-fund/)) documents that the fund's
+defining features — "government revenue is channelled straight into the fund and
+invested abroad," with "only the return on the fund" spendable and the capital "not
+available for consumption" — were built precisely as "a well thought-out solution for
+managing large inflows of commodity revenue in a small economy" and "to avoid 'Dutch
+disease'."[6] The escape was engineered through automatic sterilisation, a
+spend-only-the-return rule, and annual political discipline — not delivered by the
+geology.
+
+## The Non-Nordic Case — Botswana
+
+Norway invites the objection that a rich, homogeneous Nordic democracy is a special
+case. **Botswana** is the answer to it. Acemoglu, Johnson & Robinson's study
+([*An African Success Story*](/wiki/acemoglu-johnson-robinson-botswana/)) shows a
+landlocked, diamond-dependent country that at independence in 1966 had "12 kilometers
+of paved road" and 22 university graduates go on to record "the highest rate of
+per-capita growth of any country in the world in the last 35 years" — **7.7% a year
+from 1965 to 1998**.[7] The mechanism is the one this page argues for: diamond rents
+(mined through Debswana, a 50/50 state–De Beers partnership) were captured publicly
+and, because "monetary and fiscal policy has been prudent" and "fiscal policy has been
+prudent in the extreme," the exchange rate never became overvalued — Dutch disease
+avoided — while "the government invested heavily in infrastructure, education and
+health."[7] Botswana later banked surpluses in the **Pula Fund** (1993) under a
+Sustainable Budget Index, a sovereign-wealth vehicle in Norway's family. The authors'
+thesis is explicit that this worked because "good institutions, which we refer to as
+institutions of private property, were in place"[7] — capture plus institutions, in a
+poor tropical country, not Nordic exceptionalism. (Honest scope: Botswana's success
+was in growth and public finance, not across the board — the same paper flags an
+HIV/AIDS prevalence of "perhaps 25%–30% of adults" as "a serious public policy
+failure.")
+
 ## Why It Isn't Automatic — the Resource Curse
 
 The general result is more sobering, and the page states it plainly. Sachs and Warner's
@@ -52,6 +85,13 @@ strong judiciary and civil service, and deliberate macro policy — not to the m
 fact of taxing the rent.[5] Where those institutions are absent, capturing resource
 rent at high rates does not by itself deliver Norway's outcome; the same geology that
 enriched Norway impoverished others (the Nigeria contrast is the standard foil).[5]
+The curse operates at the sub-national level too:
+[Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that Colombian
+municipalities receiving large resource-rent transfers show **lower tax effort and
+weaker accountability** — when unearned rent arrives without the fiscal discipline of
+taxation, governance decays. This is the contrapositive of the capture claim: it is
+not the rent but the *institutional channel* that determines whether capture builds a
+Pula Fund or a patronage machine.[8]
 
 ## Honest Scope (rent gradient)
 
@@ -70,6 +110,8 @@ necessary; the institutions are what make it sufficient.
 - [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/) — where captured rent is banked
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the neutral design Norway uses
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/) — the distribution side (Alaska)
+- [An African Success Story: Botswana](/wiki/acemoglu-johnson-robinson-botswana/) — the strongest non-Nordic capture case
+- [Learning by Failing: The Origins of the Norwegian Oil Fund](/wiki/lie-norwegian-oil-fund/) — how Norway's institutions were built
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -96,3 +138,18 @@ necessary; the institutions are what make it sufficient.
    explanation of Norway's escape (B/D-claims).
    [Larsen 2006](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1536-7150.2006.00476.x) ·
    [Energy Policy 2013](https://ideas.repec.org/a/eee/enepol/v63y2013icp870-876.html)
+6. Einar Lie (2018), "Learning by Failing: The Origins of the Norwegian Oil Fund,"
+   *Scandinavian Journal of History* — [wiki summary](/wiki/lie-norwegian-oil-fund/) —
+   used for the fund's institutional architecture (sterilisation, spend-only-the-return,
+   protected principal) and its explicit anti-Dutch-disease purpose. Verified quotes on
+   the research page.
+7. Daron Acemoglu, Simon Johnson & James A. Robinson (2001/2003), "An African Success
+   Story: Botswana" — [wiki summary](/wiki/acemoglu-johnson-robinson-botswana/) — used for
+   the highest-per-capita-growth and 7.7%-a-year figures, the prudent-fiscal-policy /
+   no-overvaluation finding, the public investment in infrastructure/education/health, the
+   institutions-of-private-property thesis, and the HIV/AIDS caveat.
+8. Luis Martinez (2018), "Natural Resource Rents, Local Taxes, and Government Performance:
+   Evidence from Colombia" — [wiki summary](/wiki/martinez-colombia-resource-rents/) — used
+   for the sub-national resource curse: rent transfers associated with lower local tax
+   effort and weaker accountability, illustrating that the institutional channel, not the
+   rent, is decisive.

@@ -8,6 +8,8 @@ source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273001
 tier: supplementary
 stub: false
 excerpt: "Rigorous empirical evidence that natural-resource rents reduce local tax effort and weaken government accountability — the 'resource curse' at the local level."
+supports_outcomes: [resource-rent-capture-works]
+last_reviewed: 2026-07-11
 ---
 
 ## Summary
@@ -21,6 +23,7 @@ Municipalities receiving large resource-rent transfers exhibit **lower tax effor
 ## Bears On
 
 - **Concept:** [Resource Rents](/wiki/resource-rents/)
+- **Outcome:** [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/) — the contrapositive: rents captured without institutional discipline weaken governance, showing the institutional channel is decisive.
 - **Outcome:** [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 
 ## Sources
