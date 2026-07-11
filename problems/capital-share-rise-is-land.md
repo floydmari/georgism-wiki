@@ -62,6 +62,7 @@ An independent macro confirmation comes from [Bakker (2023, IMF)](/wiki/bakker-l
 
 ## See Also
 
+- [Blanco, Bauluz & Martínez-Toledano (2018), Wealth in Spain 1900-2014](/wiki/blanco-spain-two-lands/) — a national case study (Spain) extending the land-decomposition finding to a country where land's share of wealth is unusually pronounced
 - [Hornbeck & Moretti: who benefits from productivity growth](/wiki/hornbeck-moretti-tfp-incidence/) — "the split between labor and land is potentially more consequential... than the split between labor and capital"
 
 - [Piketty, Capital in the Twenty-First Century](/wiki/piketty-capital-21st-century/) — the dataset the land decomposition reinterprets (context source)

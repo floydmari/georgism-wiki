@@ -71,6 +71,9 @@ The Law of Rent, as a theoretical model, has been subject to several lines of cr
 
 ## See Also
 
+- [The Black Death and the Rent-Wage Inversion](/wiki/black-death/) — history's clearest natural experiment for the law of rent, with the nuance that measured rent declines were smaller than a naive model predicts
+- [The 1815 Rent Theory Pamphlets](/wiki/1815-rent-theory-pamphlets/) — the founding episode where Malthus, West, Torrens, and Ricardo independently published differential rent theory within weeks of each other
+- [Robert Torrens](/wiki/robert-torrens/) — one of four economists (with Malthus, West, and Ricardo) who independently published differential rent theory in 1815
 - [Hornbeck & Moretti](/wiki/hornbeck-moretti-tfp-incidence/) — a modern instrumented restatement of the Ricardian capture concern, with its own honest counterweight
 
 - [Economic Rent](/wiki/economic-rent/) — the broader concept of which the Law of Rent is the classical foundation
