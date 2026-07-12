@@ -8,7 +8,8 @@ source_url: https://neweconomics.org/2017/02/rethinking-economics-land-housing
 tier: important
 stub: false
 excerpt: "A 2017 New Economics Foundation / Zed Books study arguing land is the missing factor in modern economics, and that a land-credit feedback loop between mortgage lending and land prices drives housing unaffordability and financial instability."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
+bears_on_objections: [cycles-are-credit-not-land]
 supports_outcomes: [lvt-improves-housing-affordability, capital-share-rise-is-land, lvt-dampens-land-speculation, high-land-rents-suppress-productivity]
 ---
 

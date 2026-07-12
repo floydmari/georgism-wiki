@@ -9,6 +9,8 @@ tier: core
 stub: false
 excerpt: "European Economic Review paper confirming that rising wealth-to-income ratios are driven by land, and showing a land tax can replace capital taxes with no efficiency loss."
 supports_outcomes: [capital-share-rise-is-land, lvt-can-replace-capital-taxes-without-efficiency-loss]
+last_reviewed: 2026-07-12
+bears_on_objections: [land-no-longer-matters]
 ---
 
 ## Summary

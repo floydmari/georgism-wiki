@@ -10,6 +10,7 @@ stub: false
 supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 excerpt: "Lars Doucet's three-part empirical investigation of the main objections to LVT — land's magnitude, tax incidence, and assessment — published on Astral Codex Ten."
 last_reviewed: 2026-07-12
+bears_on_objections: [land-cannot-be-assessed, lvt-invites-assessment-corruption]
 ---
 
 ## Summary

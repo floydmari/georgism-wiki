@@ -5,7 +5,7 @@ tags: [objections, revenue, single-tax, critique]
 stub: false
 status: "Partly addressed — LVT is a major revenue source; full replacement is contested"
 excerpt: "The objection that land rent is too small to fund modern government — Krugman's and Blaug's versions steelmanned — and the responses around hidden rent, ATCOR, and realistic revenue targets."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -50,7 +50,11 @@ advocates concede full replacement is uncertain:
 
 1. **Measured rent understates true rent.** [Gaffney (2009)](/wiki/gaffney-hidden-taxable-capacity/)
    argues conventional figures omit large categories — under-assessed urban land,
-   public land and resource rents, spectrum, and transport corridors.
+   public land and resource rents, spectrum, and transport corridors. Foldvary's
+   distinction between [kinetic and potential rent](/wiki/foldvary-kinetic-potential-rent/)
+   formalises the gap: the measured ("kinetic") rent that flows today excludes the
+   rent currently suppressed by taxation and regulation, which a rent-capturing tax
+   would surface.
 2. **The modern estimates are not small.** [Doucet's twelve-method synthesis](/wiki/land-is-a-big-deal/)
    puts US land value at $24–44T (2020), or roughly $1.2–3.5T/yr in rent at 5–8%
    cap rates — defense-plus-Social-Security at the low end, up to ~80% of all
@@ -62,10 +66,19 @@ advocates concede full replacement is uncertain:
    estimate of [Tideman, Akobundu, Johns & Wutthicharoen](/wiki/tideman-avoidable-excess-burden/)
    puts the welfare gain from shifting broad-based taxes onto land at ~14% of net
    domestic product — figures that presuppose a land base far larger than the "few
-   percent of GDP" the objection takes as given.
+   percent of GDP" the objection takes as given. Hard national land-value totals
+   reinforce the point: the US Bureau of Economic Analysis's
+   [Larson estimate](/wiki/larson-us-land-value/) puts American land at roughly
+   $23 trillion (2009), Albouy, Ehrlich & Shin find
+   [urban land alone worth over twice GDP](/wiki/albouy-ehrlich-shin-metro-land/),
+   and Prosper Australia's line-by-line
+   [Total Resource Rents of Australia](/wiki/total-resource-rents-australia/) tallies
+   land, resource and monopoly rents at 23.6% of GDP — enough, on its accounting, to
+   cover 87% of all three levels of government.
 3. **[ATCOR](/wiki/atcor/) expands the base.** Because other taxes ultimately fall
    on rent, abolishing them raises land values — and the LVT base — so the static
-   figure understates capacity. (ATCOR is itself a hypothesis needing empirical
+   figure understates capacity (the thesis Gaffney
+   [names and states](/wiki/gaffney-atcor/)). (ATCOR is itself a hypothesis needing empirical
    testing, as [Doucet's own exposition concedes](/wiki/land-is-a-big-deal/).)
 4. **It needn't be the *only* tax.** Most modern Georgists argue for LVT as a
    *major* revenue source, not a literal single tax. Even partial replacement

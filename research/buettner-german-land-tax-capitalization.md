@@ -9,6 +9,7 @@ source_url: https://www.economicpossibility.org/sources/tiebout-visits-germany-l
 stub: true
 excerpt: "Buettner's 2003 study of German municipalities finds that local land tax rates capitalize fully into land prices while leaving monthly rents unaffected — Tiebout-style empirical evidence for the standard incidence prediction of land value taxation."
 last_reviewed: 2026-07-12
+bears_on_objections: [lvt-destroys-its-own-tax-base]
 ---
 
 ## Overview

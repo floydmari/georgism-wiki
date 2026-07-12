@@ -8,7 +8,8 @@ year: 2009
 tier: Important
 source_url: https://cooperative-individualism.org/gaffney-mason_the-role-of-land-markets-in-economic-crises-2009-oct.pdf
 excerpt: "Gaffney's late-career argument that the 2008 crash followed a well-documented ~18-year pattern of land speculation and premature subdivision, and that a land-focused property tax is the best instrument for preventing the next one."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [government-can-tame-the-cycle]
 ---
 
 ## Overview

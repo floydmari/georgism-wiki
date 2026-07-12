@@ -8,7 +8,8 @@ tier: important
 source_url: https://www.tandfonline.com/doi/abs/10.1080/096725600361816
 stub: false
 excerpt: "Mark Blaug's 2000 EJHET article — the mainstream historiography of why economists rejected Henry George: analytic objections to the single tax, not landowner patronage. The wiki's principal counter-source to Gaffney's 'Corruption of Economics' thesis."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
+bears_on_objections: [progress-and-poverty-outdated]
 supports_outcomes: []
 ---
 

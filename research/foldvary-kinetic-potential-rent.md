@@ -8,7 +8,8 @@ tier: important
 source_url: https://cooperative-individualism.org/foldvary-fred_why-rent-matters-the-hidden-and-suppressed-economic-rent-2012-jun.pdf
 stub: false
 excerpt: "Foldvary's decomposition of economic rent for revenue estimation: kinetic rent (explicit, hidden, and implicit rent actually flowing) versus potential rent (including rent suppressed by taxation and regulation). The conceptual scaffolding under every 'how much rent is there?' dispute on this wiki."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-not-enough-revenue]
 supports_outcomes: []
 ---
 

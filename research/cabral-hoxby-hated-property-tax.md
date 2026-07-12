@@ -9,6 +9,7 @@ source_url: https://www.nber.org/papers/w18514
 stub: true
 excerpt: "NBER working paper arguing the property tax's high visibility to payers — its salience — explains why it is the least popular US tax, and that areas where escrow hides the tax better tolerate higher rates and see fewer tax revolts."
 last_reviewed: 2026-07-12
+bears_on_objections: [homevoters-will-block-lvt]
 ---
 
 ## Overview

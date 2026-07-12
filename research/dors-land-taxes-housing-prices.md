@@ -8,7 +8,8 @@ tier: core
 source_url: https://dors.dk/oevrige-publikationer/arbejdspapir/land-taxes-and-housing-prices
 stub: false
 excerpt: "The closest thing to a direct test of pure land-tax incidence: exploiting Denmark's 2007 municipal reform, which raised land taxes in some municipalities and cut them in others, this Danish Economic Councils working paper finds full capitalization of future land taxes into house prices — the burden lands on owners at the time of the change."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-transition-wealth-shock]
 supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 ---
 

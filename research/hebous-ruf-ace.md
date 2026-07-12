@@ -8,7 +8,8 @@ tier: Important
 source_url: https://doi.org/10.1016/j.jpubeco.2017.02.011
 stub: false
 excerpt: "The strongest-identified evaluation of allowance-for-corporate-equity systems: using administrative data on German multinationals, ACE regimes reduced affiliate debt ratios and raised passive intra-group lending — but had no detectable effect on real production investment, exposing the 'double dip' problem of unilateral rent-only taxes."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
+bears_on_objections: [taxing-quasi-rents-kills-innovation]
 ---
 
 ## Summary

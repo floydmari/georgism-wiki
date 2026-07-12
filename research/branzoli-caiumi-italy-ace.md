@@ -9,7 +9,8 @@ source_url: https://doi.org/10.1007/s10797-020-09609-2
 stub: false
 supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
 excerpt: "Quasi-experimental evaluation of Italy's 2011 incremental allowance for corporate equity using corporate tax-return microdata: the ACE substantially reduced beneficiaries' leverage, with larger effects for smaller, mature, and financially vulnerable firms — at far lower revenue cost than a full-stock ACE."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
+bears_on_objections: [taxing-quasi-rents-kills-innovation]
 ---
 
 ## Summary

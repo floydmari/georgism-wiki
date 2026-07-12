@@ -9,7 +9,8 @@ tier: supplementary
 stub: false
 excerpt: "Rigorous empirical evidence that natural-resource rents reduce local tax effort and weaken government accountability — the 'resource curse' at the local level."
 supports_outcomes: [resource-rent-capture-works]
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [rent-revenue-breeds-corruption]
 ---
 
 ## Summary

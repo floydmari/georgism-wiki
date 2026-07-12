@@ -8,6 +8,8 @@ source_url: https://commonwealth.ca/research/lvt-sensitivity-analysis
 tier: supplementary
 stub: false
 excerpt: "A Common Wealth Canada model of how land prices fall when an LVT is introduced — showing the depth of the shock is governed mainly by the rollout speed, not by elasticity or induced growth."
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-transition-wealth-shock]
 ---
 
 ## Summary

@@ -55,7 +55,9 @@ that."[1] Land rent differs from other quasi-rents in two respects that
 matter for tax policy. First, **persistence**: a factory's above-normal
 return is competed away as capacity expands, while a well-located urban site
 retains its rent indefinitely because the supply of that location can never
-expand. Second, **generality**: land underlies every economic activity, so
+expand — the fixed-supply, non-reproducible character Gaffney catalogues as
+land's [distinctive property among the factors of production](/wiki/gaffney-land-distinctive-factor/).
+Second, **generality**: land underlies every economic activity, so
 its rent is not confined to one industry or venture but pervades the whole
 economy in a way no other quasi-rent does. Blaug adds a further qualification
 in George's favor: "if it were administratively feasible to distinguish pure
@@ -65,6 +67,11 @@ elasticity of supply of space is indeed very low" (Ch. 3, §11).[1] Modern
 [Henry George theorem](/wiki/henry-george-theorem/) work formalizes exactly
 this distinction, treating pure site rent — as opposed to capital
 improvements — as the object with genuinely zero long-run supply elasticity.
+The modern rent-taxation survey by Schwerhoff and co-authors reaches the same
+verdict from a different direction: of its seven rent types,
+[land rents are among the few *true scarcity rents*](/wiki/schwerhoff-taxation-economic-rents/) —
+not the transient quasi-rents Marshall grouped them with — and thus the
+clearest case for taxation.
 
 ## Limits and Caveats
 

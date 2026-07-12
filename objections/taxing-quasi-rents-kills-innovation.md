@@ -5,7 +5,7 @@ tags: [objections, schumpeter, quasi-rent, innovation, tech-rents, rent-gradient
 stub: false
 status: "Substantially valid at the frontier — it gates every non-land rent-capture claim; answered in theory by designs (full loss offset, normal-return exemption) that no real system fully implements; no purchase on land itself"
 excerpt: "The Schumpeterian objection to generalized rent capture, steelmanned: innovation profits are quasi-rents — the ex-post prize that motivated the ex-ante gamble — so taxing 'excess returns' taxes the incentive itself. The strongest reason Geoism's certainty about land cannot be extended to platforms, patents, and superstar firms."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -85,11 +85,19 @@ The Geoist responses concede the core insight and dispute its scope.
    ([landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)).
    Blaug's verdict on the original Marshall–George exchange stands: "no
    quasi-rent has either the persistence or the generality of ground rent."[7]
+   Korinek and Stiglitz reach the same gradient conclusion from the AI frontier:
+   even where innovation generates genuine "innovator rents," the long-run gains
+   from worker-replacing technology accrue to whatever
+   [irreproducible factor stays scarce](/wiki/korinek-stiglitz-ai-rents/) — land,
+   energy — whose owners can be taxed without distortion, so redistribution can
+   in principle make the transition a Pareto improvement.
    The objection *gates the frontier* — it is the reason this wiki's
    [rent gradient](/wiki/geoism/) exists — but it concedes the core.
 2. **Design can exempt the incentive — in theory completely.** Rent-only bases
    ([allowance for corporate equity](/wiki/allowance-for-corporate-equity/),
-   [cash-flow taxes](/wiki/cash-flow-tax/)) exempt the normal return by
+   [cash-flow taxes](/wiki/cash-flow-tax/) — the R, R+F and S bases the
+   [Meade Report](/wiki/meade-report/) set out as the reference designs for taxing
+   only above-normal returns) exempt the normal return by
    construction, and the neutrality theorems (Boadway–Bruce 1984; Bond &
    Devereux 1995 under uncertainty) extend to risky ventures **provided losses
    are treated symmetrically**.[8] Norway's post-2022 petroleum tax — cash
@@ -130,7 +138,10 @@ The Geoist responses concede the core insight and dispute its scope.
   extrapolation. Conversely, no study shows a rent-only base is innocuous for
   innovation — the Belgian/Italian ACE evidence concerns leverage and
   investment, not invention ([Hebous & Ruf](/wiki/hebous-ruf-ace/);
-  [Branzoli & Caiumi](/wiki/branzoli-caiumi-italy-ace/)). The decisive
+  [Branzoli & Caiumi](/wiki/branzoli-caiumi-italy-ace/);
+  [Panier et al. on Belgium's notional interest deduction](/wiki/panier-perez-gonzalez-villanueva-belgium-ace/);
+  and [Zwick & Mahon](/wiki/zwick-mahon-expensing/), who find cash-flow-style
+  expensing raises investment but again say nothing about invention). The decisive
   experiment has not been run.
 - The objection is often deployed against *any* corporate taxation; deployed
   that broadly, it overreaches. The US Treasury's own methodology treats ~63–75% of the corporate
@@ -144,7 +155,10 @@ The Geoist responses concede the core insight and dispute its scope.
   outcome — spectrum fees, congestion charges, carbon prices, land rent — the
   objection largely dissolves: the charge prices what the innovator takes from
   the commons, not what they create. It bites specifically on instruments aimed
-  at realized profits.
+  at realized profits — and it can be sidestepped entirely by *dissolving* a rent
+  rather than taxing it, as the EU's [Digital Markets Act](/wiki/dma-interoperability-dissolution/)
+  does by forcing platform interoperability so the network lock-in competes away
+  without ever being captured.
 
 ## Net Assessment
 

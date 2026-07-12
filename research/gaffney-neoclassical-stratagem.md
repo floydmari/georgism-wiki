@@ -8,6 +8,8 @@ source_url: https://www.masongaffney.org/publications/K1Neo-classical_Stratagem.
 tier: core
 stub: false
 excerpt: "Gaffney's historical argument that neoclassical economics was deliberately shaped to obscure land as a distinct factor and to defeat Henry George's reform movement."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-is-just-capital]
 ---
 
 ## Summary

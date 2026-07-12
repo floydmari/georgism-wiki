@@ -9,6 +9,8 @@ sources: [george-1879]
 source_url: https://www.henrygeorge.org/pcontents.htm
 excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepens amid material progress, and the single-tax remedy. One of the best-selling economics books of the 19th century and the founding text of the Georgist movement."
 pd_quotes: true
+last_reviewed: 2026-07-12
+bears_on_objections: [overpopulation-causes-poverty]
 ---
 
 ## Overview

@@ -8,7 +8,8 @@ source_url: https://doi.org/10.3368/le.101.4.021225-0009
 tier: Important
 stub: false
 excerpt: "A 2025 Land Economics article showing that marginal productivity theory did not logically require merging land into capital, and that non-conspiratorial factors — analytical convenience and capital-theory debates — better explain why U.S. neoclassicism sidelined land."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
+bears_on_objections: [land-is-just-capital]
 supports_outcomes: []
 ---
 

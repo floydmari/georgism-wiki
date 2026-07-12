@@ -8,7 +8,8 @@ tier: Important
 source_url: https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/property-tax-in-africa-full_1.pdf
 stub: false
 excerpt: "The first comprehensive study of recurrent property taxation across Africa — 29 country reviews showing the tax is efficient in theory but severely constrained by valuation, identification, and enforcement capacity."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-invites-assessment-corruption]
 supports_outcomes: [property-tax-raises-welfare-developing]
 ---
 

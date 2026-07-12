@@ -8,7 +8,8 @@ tier: Core
 source_url: https://www.bea.gov/research/papers/2015/new-estimates-value-land-united-states
 stub: false
 excerpt: "A U.S. Bureau of Economic Analysis working paper estimating the total value of land in the contiguous United States at roughly $23 trillion (2009), using hedonic methods rather than the older residual approach."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-12
+bears_on_objections: [land-no-longer-matters, lvt-not-enough-revenue]
 supports_outcomes: [land-rent-could-fund-government]
 ---
 

@@ -8,7 +8,8 @@ tier: Important
 source_url: https://business.columbia.edu/sites/default/files-efs/pubfiles/5590/consequences%20of%20bank%20distress.pdf
 stub: true
 excerpt: "Calomiris and Mason's 2003 AER paper uses Depression-era state and county data to show that bank credit-supply contraction, not just falling loan demand, reduced income and building activity in 1930-32 — evidence for a real-estate-collateral channel in the Depression's severity."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [stock-crash-caused-great-depression]
 ---
 
 ## Overview

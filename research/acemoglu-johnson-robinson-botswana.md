@@ -9,7 +9,8 @@ source_url: https://economics.mit.edu/sites/default/files/publications/An%20Afri
 stub: false
 excerpt: "The strongest non-Nordic case that capturing resource rent works where institutions are strong. Botswana turned diamond rents into the fastest per-capita growth of any country on earth over 1965–98 — 7.7% a year — by channelling mineral rents through strong institutions of private property and prudent, anti-Dutch-disease fiscal policy."
 supports_outcomes: [resource-rent-capture-works]
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [rent-revenue-breeds-corruption]
 ---
 
 ## Summary

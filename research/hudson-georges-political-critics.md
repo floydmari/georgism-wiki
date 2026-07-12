@@ -8,7 +8,8 @@ source_url: https://michael-hudson.com/wp-content/uploads/2010/03/0801GeorgesCri
 tier: Important
 stub: true
 excerpt: "Michael Hudson's 2008 journal article cataloguing twelve political (not economic) criticisms that isolated Henry George from socialists, organized labor, and academic economists after 1887 — a reception-history account of why the single-tax movement failed to build durable coalitions."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-not-widely-adopted]
 ---
 
 ## Overview

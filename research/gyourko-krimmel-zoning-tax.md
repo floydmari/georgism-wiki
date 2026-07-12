@@ -9,7 +9,8 @@ source_url: https://www.nber.org/papers/w28993
 stub: false
 excerpt: "Gyourko and Krimmel estimate 'zoning taxes' from vacant-lot sales: regulation bids up land prices by ~$400k per quarter-acre in San Francisco and $150-200k in LA, NYC and Seattle — direct evidence that valuable urban land is held below its market-implied intensity of use."
 supports_outcomes: [speculative-vacancy-wastes-cities, housing-unaffordability-is-a-land-problem]
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
+bears_on_objections: [planning-restrictions-cause-high-prices, lvt-needs-zoning-reform-first]
 ---
 
 ## Summary

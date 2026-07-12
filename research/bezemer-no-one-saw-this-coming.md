@@ -8,7 +8,8 @@ tier: important
 source_url: https://mpra.ub.uni-muenchen.de/15892/
 stub: false
 excerpt: "Bezemer's independent survey of who publicly anticipated the 2008 crisis and why: the twelve analysts with documented, reasoned calls all used accounting/flow-of-funds models rather than equilibrium models — the outside validation the wiki cites for Fred Harrison's prediction record (Harrison is in Bezemer's twelve; Foldvary is not)."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
+bears_on_objections: [bubbles-cannot-be-identified-in-advance]
 supports_outcomes: []
 ---
 

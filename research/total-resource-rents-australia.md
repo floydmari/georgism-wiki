@@ -8,7 +8,8 @@ tier: Important
 source_url: https://www.prosper.org.au/wp-content/uploads/2013/12/TRRA_2013_final.pdf
 stub: false
 excerpt: "Prosper Australia's 2013 report (by Karl Fitzgerald) tallying the economic rents of Australian land, natural resources, and licensed monopolies at 23.6% of GDP, and finding that rent taxation could raise 87% ($340.7B) of the $390.1B needed to run all three levels of government in 2011-12 — rising to near-total replacement once sin taxes and non-tax receipts are added. The modern Georgist movement's most-cited line-by-line national rent inventory, produced by an advocacy organization and carried here with its methods and limits stated."
-last_reviewed: 2026-07-09
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-not-enough-revenue]
 supports_outcomes: [land-rent-could-fund-government]
 ---
 

@@ -8,7 +8,8 @@ tier: Important
 source_url: https://doi.org/10.1108/02637471011051291
 stub: false
 excerpt: "Australian mass-appraisal review supplying the objection-rate benchmark — appeal rates well below the internationally accepted 2%, many jurisdictions under 1% — used as a real-world signal that value-based land assessment is accepted as reliable."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
+bears_on_objections: [land-cannot-be-assessed]
 ---
 
 ## Summary

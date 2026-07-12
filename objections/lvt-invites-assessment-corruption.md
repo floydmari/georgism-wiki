@@ -5,7 +5,7 @@ tags: [objections, assessment, corruption, public-choice, lvt, political-economy
 stub: false
 status: "Addressed — a real, documented risk under any discretionary assessment system, not unique to LVT, and mitigated (not eliminated) by land's visibility and transparency reforms"
 excerpt: "The political-economy objection that LVT hands corrupt or politically pressured assessors a lever to favor allies and punish enemies — distinct from the technical question of whether land value can be measured at all."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -28,7 +28,7 @@ Doucet's substantive argument has three parts:
 
 ## Limits and Caveats
 
-The Cook County record is itself the strongest evidence against reading this response as a full rebuttal: it shows that self-interested actors **did** successfully corrupt a discretionary property assessment process for years, in a developed democracy with courts, journalists, and elections — the same accountability mechanisms Doucet's argument leans on. "Highly visible on a map" reduces detection cost; it does not by itself produce enforcement, and Cook County's own corrupted valuations were, in fact, matters of public record for years before prosecution. The visibility argument is also weaker where an entire jurisdiction, rather than a single parcel, is under-assessed relative to true market value — a pattern regulators call for use of independent statistical benchmarks (ratio studies, mass appraisal models) specifically because visual/map-based scrutiny alone did not catch it in the Cook County case. The strength of the anti-corruption case therefore depends on institutional preconditions — independent oversight bodies, published sales-ratio studies, open transaction data — being actually in place, not on land's physical visibility alone.
+The Cook County record is itself the strongest evidence against reading this response as a full rebuttal: it shows that self-interested actors **did** successfully corrupt a discretionary property assessment process for years, in a developed democracy with courts, journalists, and elections — the same accountability mechanisms Doucet's argument leans on. "Highly visible on a map" reduces detection cost; it does not by itself produce enforcement, and Cook County's own corrupted valuations were, in fact, matters of public record for years before prosecution. The visibility argument is also weaker where an entire jurisdiction, rather than a single parcel, is under-assessed relative to true market value — a pattern regulators call for use of independent statistical benchmarks (ratio studies, mass appraisal models) specifically because visual/map-based scrutiny alone did not catch it in the Cook County case. The strength of the anti-corruption case therefore depends on institutional preconditions — independent oversight bodies, published sales-ratio studies, open transaction data — being actually in place, not on land's physical visibility alone. Franzsen and McCluskey's 29-country review of [property tax in Africa](/wiki/franzsen-mccluskey-property-tax-africa/) makes the point at scale: the tax is efficient in theory but severely constrained in practice by valuation, identification, and enforcement capacity — exactly the institutional preconditions that are scarcest where the corruption risk runs highest.
 
 ## Net Assessment
 

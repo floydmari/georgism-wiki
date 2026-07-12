@@ -9,7 +9,8 @@ source_url: https://nickkuminoff.github.io/webpage/KP_Land_forthcoming.pdf
 stub: false
 supports_outcomes: [land-rent-could-fund-government]
 excerpt: "A peer-reviewed hedonic decomposition of more than a million home sales in ten US metros (1998–2009), separating land value from structure value through the housing boom and bust — and showing the replacement-cost method mis-splits the two."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
+bears_on_objections: [land-cannot-be-assessed]
 ---
 
 ## Summary

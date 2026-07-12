@@ -8,7 +8,8 @@ source_url: https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physioc
 tier: Important
 stub: true
 excerpt: "Mason Gaffney's 2005 working paper that names and states the ATCOR (All Taxes Come Out of Rent) thesis: that untaxing capital and labor raises land rents by a corresponding amount, expanding the taxable capacity of land."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-not-enough-revenue]
 ---
 
 ## Overview

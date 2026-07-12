@@ -8,7 +8,8 @@ tier: core
 source_url: https://doi.org/10.1086/NTJ41792157
 stub: false
 excerpt: "The foundational modern theoretical model of graded (split-rate) taxation: shifting a property tax off improvements and onto land raises the capital-to-land ratio, with an ambiguous-to-positive effect on land value itself."
-last_reviewed: 2026-07-09
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-is-just-a-property-tax]
 supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, split-rate-increases-construction, lvt-reduces-sprawl, taxing-land-raises-productivity]
 ---
 

@@ -9,6 +9,8 @@ tier: important
 stub: false
 excerpt: "The modern academic survey of rent taxation: a seven-type rent typology concluding that land rents are one of the few true scarcity rents and the clearest case for taxation."
 supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss]
+last_reviewed: 2026-07-12
+bears_on_objections: [marshall-single-tax-objection]
 ---
 
 ## Summary

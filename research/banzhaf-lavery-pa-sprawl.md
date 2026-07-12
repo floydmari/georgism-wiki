@@ -8,7 +8,8 @@ tier: important
 source_url: https://doi.org/10.1016/j.jue.2009.08.005
 stub: false
 excerpt: "Panel study of Pennsylvania Census tracts (1970–2000) finding split-rate taxation raises the capital/land ratio mainly by increasing the number of housing units, not their size — evidence it can increase density."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-causes-overdevelopment]
 supports_outcomes: [split-rate-increases-construction, lvt-reduces-sprawl]
 ---
 

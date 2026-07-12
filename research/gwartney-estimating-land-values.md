@@ -8,7 +8,8 @@ tier: important
 source_url: https://www.henrygeorge.org/ted.htm
 stub: false
 excerpt: "The canonical practitioner's essay on land assessment, by Ted Gwartney — career assessor (including British Columbia's province-wide assessment authority) and former Council of Georgist Organizations president. The written backbone of the 'land can be assessed' position, and the expert Doucet consulted for his ACX assessment article."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
+bears_on_objections: [land-cannot-be-assessed, search-theoretic-critique]
 supports_outcomes: []
 ---
 

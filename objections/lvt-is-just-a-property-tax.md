@@ -5,6 +5,7 @@ tags: [objections, property-tax, critique]
 stub: false
 status: "Addressed — the incentive structure is fundamentally different"
 excerpt: "The claim that land value tax is nothing new because we already have property taxes — and why taxing land alone produces fundamentally different incentives."
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -17,7 +18,7 @@ The difference is not cosmetic; it is the **incentive structure**:
 
 1. **A property tax penalises building.** It taxes land *and* improvements together, so investing in a building raises your tax bill — discouraging development and renovation.
 2. **An LVT rewards building.** It taxes only the land, so improving a site does **not** raise the tax. Holding valuable land idle becomes costly; developing it does not. The incentives are nearly opposite at the margin.
-3. **The evidence shows it matters.** [Split-rate cities](/wiki/split-rate-increases-construction/) — which shift the *balance* toward land — see measurably more construction than otherwise-similar single-rate cities. If LVT were "just" a property tax, that difference would not appear.
+3. **The evidence shows it matters.** [Split-rate cities](/wiki/split-rate-increases-construction/) — which shift the *balance* toward land — see measurably more construction than otherwise-similar single-rate cities. Brueckner's [modern model of site-value taxation](/wiki/brueckner-site-value-taxation/) shows the mechanism — shifting the tax off improvements and onto land raises the capital-to-land ratio — and [Plassmann & Tideman](/wiki/plassmann-tideman-construction/) find the predicted construction response across 15 Pennsylvania municipalities. If LVT were "just" a property tax, that difference would not appear.
 
 A pure LVT also approaches [zero deadweight loss](/wiki/deadweight-loss/), whereas the building-tax portion of a conventional property tax carries the usual excess burden.
 

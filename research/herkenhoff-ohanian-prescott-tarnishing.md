@@ -8,7 +8,8 @@ tier: Important
 source_url: https://doi.org/10.1016/j.jmoneco.2017.11.001
 stub: false
 excerpt: "A general-equilibrium model in which tightening state land-use restrictions in California and New York misallocate labor and capital, finding deregulation could raise US aggregate TFP and output growth substantially."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
+bears_on_objections: [planning-restrictions-cause-high-prices]
 supports_outcomes: [high-land-rents-suppress-productivity]
 ---
 

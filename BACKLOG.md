@@ -236,3 +236,6 @@ All workable queues cleared. What remains needs inputs beyond this environment:
       (Nov 2026) for the Detroit LVT revival; Oxford Review cycle piece.
 - [ ] Publishing: merge claude/wiki-loop-2026-07-11 (carries BOTH campaigns, 770 pages,
       lint 0/0) then Ghost-sync; wiki-problems/wiki-benefits tags exist on Ghost already.
+
+### Wave-20 flags (2026-07-12, next-wave review)
+- Possible duplicate research-page pairs to dedup/consolidate: `kolbe-berlin-land-value-map` vs `kolbe-berlin-land-value-appraisal`; `barr-manhattan-land-values` vs `barr-smith-kulkarni-manhattan-land`. Check content overlap, fold unique material into the better page, redirect inbound links, remove the duplicate, update registry.

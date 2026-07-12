@@ -5,7 +5,7 @@ tags: [objections, land-value-tax, search-theory, entrepreneurship, austrian, qu
 stub: false
 status: "Open — the strongest form targets 100% rent capture; sub-100% rates and discovery subsidies answer the practical version at the cost of conceding some rent stays private"
 excerpt: "Gochenour & Caplan's peer-reviewed critique: much of what looks like land rent is really the reward for costly discovery — finding what a site is worth is itself production — so taxing 100% of land value taxes discovery at a 100% marginal rate, and search stops. The steelman, the replies, and what each side concedes."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -50,7 +50,10 @@ is on the [research page](/wiki/gochenour-caplan-search-theoretic/).
    for frontier and resource land, where value genuinely awaits discovery, and
    weakest for the mapped, zoned urban lot whose value is public information
    created by [community investment](/wiki/public-investment-capitalizes-into-land/)
-   — and urban location value is where the bulk of modern land value sits. The
+   — and urban location value is where the bulk of modern land value sits.
+   Career-assessor practice bears this out: recovering an urban site's value is
+   [routine mass appraisal from public sales data](/wiki/gwartney-estimating-land-values/),
+   not the costly entrepreneurial prospecting the model assumes. The
    paper offers no estimate of how much aggregate land value is
    discovery-contingent; the wiki flags that as the critique's key unquantified
    step.[1]

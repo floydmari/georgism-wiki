@@ -10,6 +10,8 @@ stub: false
 supports: [capital-share-rise-is-land]
 excerpt: "Shows that the long-run rise in capital's share of income documented by Piketty is almost entirely attributable to housing — that is, to land — not to reproducible capital."
 supports_outcomes: [capital-share-rise-is-land, land-value-tax-can-be-progressive, rising-land-costs-drive-poverty]
+last_reviewed: 2026-07-12
+bears_on_objections: [land-no-longer-matters, lvt-austrian-critique]
 ---
 
 ## Summary

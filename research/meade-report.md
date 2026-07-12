@@ -8,6 +8,8 @@ tier: Core
 source_url: https://ifs.org.uk/sites/default/files/output_url_files/meade.pdf
 stub: false
 excerpt: "The Institute for Fiscal Studies' landmark 1978 committee report, chaired by Nobel laureate James Meade, arguing for a shift from taxing income to taxing expenditure — and setting out the cash-flow bases for corporation tax (R, R+F, S) that later became the reference designs for taxing only above-normal returns."
+last_reviewed: 2026-07-12
+bears_on_objections: [taxing-quasi-rents-kills-innovation]
 ---
 
 ## Summary

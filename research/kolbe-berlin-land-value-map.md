@@ -8,7 +8,8 @@ tier: Important
 source_url: https://doi.org/10.1007/s00180-015-0559-9
 stub: true
 excerpt: "A statistical method (adaptive weights smoothing) that recovers a full land-value map of Berlin from sparse vacant-land sales alone, without expert judgment — cited by Doucet as evidence that land value can be assessed at city scale from data."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-austrian-critique]
 ---
 
 ## Overview

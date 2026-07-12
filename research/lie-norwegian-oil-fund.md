@@ -10,6 +10,7 @@ stub: false
 excerpt: "An economic-historian's archival account of how Norway's oil fund and fiscal rule were built — the institutional design that lets high-rate rent capture actually work. The fund channels all petroleum revenue abroad and allows only the return to be spent, an explicit device to avoid the Dutch disease that curses other producers."
 supports_outcomes: [resource-rent-capture-works]
 last_reviewed: 2026-07-12
+bears_on_objections: [rent-revenue-breeds-corruption]
 ---
 
 ## Summary

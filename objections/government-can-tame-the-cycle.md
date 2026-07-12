@@ -62,7 +62,14 @@ roughly a decade.[1][3] Anderson's documentation of earlier "tamed" claims in th
 peak, suggests this is a **recurring rhetorical pattern at cycle peaks**, not
 evidence against the cycle itself — arguably the opposite: confident
 declarations that the cycle is over are, on this reading, themselves a marker of
-the "mania" phase near a cycle top.[4]
+the "mania" phase near a cycle top.[4] Tellingly, while officials were declaring
+the cycle tamed, land-cycle economists were publicly forecasting the crash that
+would falsify them: Fred Foldvary's
+[Georgist–Austrian synthesis](/wiki/foldvary-business-cycle-synthesis/) and the
+Harrison–Jones [*Chaos Makers*](/wiki/jones-chaos-makers/) both named a bust
+"around 2008" more than a decade ahead, and Mason Gaffney's
+[post-crash post-mortem](/wiki/gaffney-after-the-crash/) reads 2008 as an
+on-schedule land-speculation collapse rather than a tamed cycle's surprise.
 
 The weaker and more defensible version of the objection — that policy can smooth
 *some* of the cycle's amplitude or delay its turning point — is harder to

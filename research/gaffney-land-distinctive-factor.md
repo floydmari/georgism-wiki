@@ -9,6 +9,7 @@ source_url: https://cooperative-individualism.org/gaffney-mason_land-as-a-distin
 stub: true
 excerpt: "Gaffney's foundational catalogue of ways land differs economically from capital — fixed supply, immobility, non-reproducibility — underpinning the case against merging land into general capital theory."
 last_reviewed: 2026-07-12
+bears_on_objections: [land-is-just-capital, lvt-austrian-critique, marshall-single-tax-objection]
 ---
 
 ## Overview

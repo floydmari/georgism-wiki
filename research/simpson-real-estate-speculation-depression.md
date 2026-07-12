@@ -8,7 +8,8 @@ tier: Supplementary
 stub: true
 source_url: https://archive.org/details/sim_american-economic-review_1933-03_23_1
 excerpt: "A contemporary 1933 AER paper arguing that real estate speculation and overbuilding — not stock-market losses alone — drove the wave of US bank failures of 1930-33; cited by Phillip Anderson as an eyewitness data point for the land-cycle/banking-crisis mechanism."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
+bears_on_objections: [stock-crash-caused-great-depression]
 ---
 
 ## Overview
