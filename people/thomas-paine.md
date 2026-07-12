@@ -5,6 +5,7 @@ tags: [people, thomas-paine, agrarian-justice, citizens-dividend, natural-rights
 stub: true
 excerpt: "Revolutionary pamphleteer (1737–1809) whose Agrarian Justice (1797) is the founding document of the citizen's-dividend idea: land in its natural state is 'the common property of the human race,' so landowners owe a ground-rent funding universal capital grants and old-age pensions."
 last_reviewed: 2026-07-06
+pd_quotes: true
 ---
 
 ## Overview

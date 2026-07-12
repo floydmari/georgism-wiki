@@ -6,7 +6,7 @@ stub: false
 born: 1895
 died: 1984
 excerpt: "American land economist (1895–1984) whose 1933 dissertation One Hundred Years of Land Values in Chicago founded the empirical study of the land cycle; later FHA chief land economist and originator of the urban 'sector model,' whose FHA work also helped formalize racially discriminatory underwriting (redlining)."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -141,9 +141,9 @@ correct because the same hierarchy appears in both, the dissertation being the e
    College, University of Delaware, AT&T, UNC Chapel Hill, University of Missouri, Chicago
    real-estate practice, FHA, Chicago Plan Commission, NY Regional Plan Association, MIT/Columbia,
    Hoyt Associates, *Principles of Urban Real Estate*, Homer Hoyt Institute); cross-checked
-   against the Washington Post obituary and APA blog post below. `[VERIFY: Wikipedia is a
+   against the Washington Post obituary and APA blog post below. Wikipedia is a
    tertiary source; the career chronology should be reconciled against a citable secondary
-   biographical source such as the Sage Encyclopedia of Geography entry in a future revision.]`
+   biographical source such as the Sage Encyclopedia of Geography entry in a future revision.
 3. This wiki's [research summary of *One Hundred Years of Land Values in
    Chicago*](/wiki/hoyt-chicago-land-values/) and, behind it, the Internet Archive full text of
    the 1933 book itself — used for the dissertation's content, methodology, the now-verified
@@ -158,8 +158,8 @@ correct because the same hierarchy appears in both, the dissertation being the e
    Knowledge," *Journal of Planning History* 6(3), 2007. [Sage
    Journals](https://journals.sagepub.com/doi/abs/10.1177/1538513206298337) — used for the
    sector model's content and its place in twentieth-century urban planning scholarship
-   (abstract-level; full text not independently read in this pass). `[VERIFY: full-text
-   confirmation of sector-model details beyond the abstract.]`
+   (abstract-level; full text not independently read in this pass). Full-text
+   confirmation of the sector-model details beyond the abstract remains pending.
 6. "Homer Hoyt, Real Estate Economist, Dies," *Washington Post*, November 30, 1984, p. B16
    (an obituary also ran in the *New York Times*, December 1, 1984).
    [Washington
@@ -191,8 +191,8 @@ correct because the same hierarchy appears in both, the dissertation being the e
    cycles](/wiki/land-speculation-causes-cycles/).
 10. Progress.org, "The 18-Year Pattern Predicting 2027's Market Crash," n.d. — via this wiki's
     [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/) research page — used for
-    the Wenzlick/Anderson/Patel extension of the Hoyt-derived lineage; that page itself flags
-    `[VERIFY]` on several specifics due to a blocked direct fetch of the source.
+    the Wenzlick/Anderson/Patel extension of the Hoyt-derived lineage; that page itself carries
+    verification flags on several specifics due to a blocked direct fetch of the source.
 11. This wiki's [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) outcome page
     — used for the explicit distinction between Hoyt's premise-level evidence (a real land
     cycle exists) and direct evidence that LVT dampens it.
@@ -204,8 +204,8 @@ correct because the same hierarchy appears in both, the dissertation being the e
     the full text remains unread. The substance, however, is now independently corroborated by
     the directly-read Homer Hoyt Institute biography (source 16), which documents that Hoyt
     "applied some of these theories to FHA's mortgage underwriting" and reproduces the FHA
-    Underwriting Manual's own race-based neighborhood-stability language. `[VERIFY: Light's
-    specific full-text claims about Hoyt's role remain unconfirmed behind the paywall.]`
+    Underwriting Manual's own race-based neighborhood-stability language. Light's
+    specific full-text claims about Hoyt's role remain unconfirmed behind the paywall.
 13. Leland Ware, "Plessy's Legacy: The Government's Role in the Development and Perpetuation of
     Segregated Neighborhoods," *RSF: The Russell Sage Foundation Journal of the Social Sciences*
     7(1), 2021, pp. 92–109. [RSF
@@ -217,9 +217,9 @@ correct because the same hierarchy appears in both, the dissertation being the e
 14. "Redlining," Wikipedia, accessed 2026-07-04, and Wikipedia's "Homer Hoyt" entry (source 2
     above) — used for general context on the FHA's Underwriting Manual and Residential Security
     Maps as the instruments of redlining that incorporated Hoyt's neighborhood-succession
-    theory. `[VERIFY: replace this general Wikipedia context citation with a dedicated
-    peer-reviewed source on the FHA Underwriting Manual specifically, e.g. Jackson's *Crabgrass
-    Frontier* or the Nelson et al. (2020) "Mapping Inequality" project, in a future revision.]`
+    theory. This general Wikipedia context citation should be replaced with a dedicated
+    peer-reviewed source on the FHA Underwriting Manual specifically — e.g. Jackson's *Crabgrass
+    Frontier* or the Nelson et al. (2020) "Mapping Inequality" project — in a future revision.
 15. Homer Hoyt, *One Hundred Years of Land Values in Chicago* (University of Chicago Press,
     1933), pp. 314–316. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich)
     — the primary source; the racial/nationality ranking and its framing were verified verbatim

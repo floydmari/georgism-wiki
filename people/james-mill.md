@@ -4,9 +4,10 @@ category: people
 tags: [people, james-mill, classical-economics, david-ricardo, unearned-increment, utilitarianism, stub]
 stub: true
 excerpt: "Scottish philosopher-economist (1773–1836), David Ricardo's mentor, who in Elements of Political Economy (1821) became the first economist to propose taxing the future increase in land rent — decades before his son John Stuart Mill made the idea famous."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 born: 1773
 died: 1836
+pd_quotes: true
 ---
 
 ## Overview
@@ -23,7 +24,7 @@ Mill met Ricardo around 1811 and, recognizing his friend's analytical talent, re
 
 ## Significance
 
-James Mill's place in the Georgist lineage is that of an overlooked first link: he pushed Ricardo to formalize rent theory, and he was the first to draw the tax-policy inference — future rent increments are a fit and undistorting object of taxation — that his more famous son later made canonical and that Henry George later radicalized. The substance of the proposal is confirmed verbatim in Mill's own 1821 text (see source 2); the specific *priority* claim — that no earlier economist made the same future-increment-tax proposal — rests on Blaug (2000) [CITATION NEEDED: independent confirmation of the priority claim beyond Blaug] but is well attested in the standard history-of-thought literature cited below.
+James Mill's place in the Georgist lineage is that of an overlooked first link: he pushed Ricardo to formalize rent theory, and he was the first to draw the tax-policy inference — future rent increments are a fit and undistorting object of taxation — that his more famous son later made canonical and that Henry George later radicalized. The substance of the proposal is confirmed verbatim in Mill's own 1821 text (see source 2); the specific *priority* claim — that no earlier economist made the same future-increment-tax proposal — rests on Blaug (2000) — independent confirmation of the priority claim beyond Blaug was not located this pass — but is well attested in the standard history-of-thought literature cited below.
 
 ## See Also
 

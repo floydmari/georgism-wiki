@@ -4,7 +4,7 @@ category: people
 tags: [people, stub, assessment, mass-appraisal, land-valuation, british-columbia, practitioner]
 stub: true
 excerpt: "Career real-estate assessor (MAI) who ran British Columbia's province-wide land assessment authority and later assessed Greenwich, Connecticut — practitioner counter-evidence to the objection that land value cannot be separately assessed."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -47,7 +47,7 @@ value assessment is actually done, and is the text
    discovery source and research summary for Gwartney as the practitioner Doucet
    consulted. [Research page](/wiki/gwartney-estimating-land-values/) ·
    [henrygeorge.org](https://www.henrygeorge.org/ted.htm)
-   `[VERIFY: exact birth year and current status could not be confirmed to
+   Gwartney's exact birth year and current status could not be confirmed to
    wiki standards in this research pass — a people-search aggregator gave one
    unverified date (June 30, 1940) that is not included here. Direct-fetch
-   confirmation of the full biography page is needed in a future revision.]`
+   confirmation of the full biography page is needed in a future revision.

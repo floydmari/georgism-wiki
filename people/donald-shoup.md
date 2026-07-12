@@ -6,7 +6,7 @@ stub: true
 born: 1938
 died: 2025
 excerpt: "UCLA urban planning professor (1938–2025) whose work reframed parking as underpriced land rent, and whose 1980 deferred-assessment proposal is the standard Georgist answer to the 'little old lady on a high-value site' objection."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -63,6 +63,6 @@ deferred-assessment model directly in its own discussion of that objection.[5]
    proposal and its role as an answer to the asset-rich/cash-poor objection; per
    Harrison's *Power in the Land* Ch. 17, pp.224–226 (this wiki's discovery source),
    which cites the paper directly. [PDF (cooperative-individualism.org)](https://cooperative-individualism.org/shoup-donald_financing-public-investment-by-deferred-special-assessment-1980-dec.pdf)
-   `[VERIFY: direct fetch of this PDF was not completed in this research pass;
+   Direct fetch of this PDF was not completed in this research pass;
    the paper's exact mechanism and conclusions should be confirmed against the
-   primary text in a future revision.]`
+   primary text in a future revision.

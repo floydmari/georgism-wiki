@@ -4,7 +4,7 @@ category: people
 tags: [people, virtual-economies, game-design, land-value-tax, stub]
 stub: true
 excerpt: "Virtual-world game economist who, while helping design EVE Online's economy in 2003, independently arrived at a land-value-tax-style holding fee to fix a virtual land bubble — with no formal background in Georgist theory."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -24,4 +24,4 @@ Shokrizade has said he had no formal grounding in Georgist theory when he devise
 
 1. Ramin Shokrizade, "How I Used EVE Online to Predict the Great Recession," *Game Developer* (formerly Gamasutra), April 5, 2013. [gamedeveloper.com](https://www.gamedeveloper.com/design/how-i-used-eve-online-to-predict-the-great-recession) — used for the EVE Online factory-speculation episode, the holding-fee fix, and Shokrizade's own Proposition 13 comparison, in his own words (primary source).
 2. Naavik, "Land Value Tax in Online Games and Virtual Worlds: A How-To Guide," 2022. [naavik.co](https://naavik.co/deep-dives/digital-land-tax/) — used for the secondary characterization that Shokrizade had "no formal knowledge of Georgist theory" when he fixed EVE Online's land bubble.
-3. Lars Doucet, *Land Is a Big Deal* (2024), Ch. 10 — the wiki's discovery source, cited on the [book page](/wiki/land-is-a-big-deal/), for Shokrizade's case as an independent re-derivation of land-value-tax logic. [CITATION NEEDED: exact page/quotation from a direct read of Ch. 10.]
+3. Lars Doucet, *Land Is a Big Deal* (2024), Ch. 10 — the wiki's discovery source, cited on the [book page](/wiki/land-is-a-big-deal/), for Shokrizade's case as an independent re-derivation of land-value-tax logic. An exact page/quotation from a direct read of Ch. 10 is not yet supplied.

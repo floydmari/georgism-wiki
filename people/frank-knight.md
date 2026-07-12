@@ -6,7 +6,7 @@ stub: true
 born: 1885
 died: 1972
 excerpt: "Founder of the Chicago School of economics (1885–1972) whose 1953 essay 'The Fallacies in the Single Tax' remains a touchstone anti-Georgist text, arguing land rent is not a uniquely taxable surplus."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -26,4 +26,6 @@ Knight was also one of the single tax's most persistent academic critics. His es
 ## Sources
 
 1. "Frank H. Knight, 1885–1972," History of Economic Thought website (hetwebsite.net), and "Frank Hyneman Knight," New World Encyclopedia — used for biographical facts (birth/death dates, Cornell PhD, Iowa and Chicago appointments, *Risk, Uncertainty and Profit*, doctoral students Friedman/Stigler/Buchanan). [hetwebsite.net/het/profiles/knight.htm](https://www.hetwebsite.net/het/profiles/knight.htm)
-2. Mason Gaffney, Fred Harrison & Kris Feder, *The Corruption of Economics* (Shepheard-Walwyn / Centre for Incentive Taxation, 1994) — used for the account of Knight's 1953 essay "The Fallacies in the Single Tax," the quoted line on rent and competition (Ch. 8), and his positioning as a "key adversary" in Gaffney's narrative. See [wiki book page](/wiki/gaffney-harrison-corruption-of-economics/). [CITATION NEEDED: a direct, independently-verified citation for "The Fallacies in the Single Tax" (1953) — original publication venue not confirmed against a primary source this session; the essay's existence and content are reported here via Gaffney's secondary account.]
+2. Mason Gaffney, Fred Harrison & Kris Feder, *The Corruption of Economics* (Shepheard-Walwyn / Centre for Incentive Taxation, 1994) — used for the account of Knight's 1953 essay "The Fallacies in the Single Tax," the quoted line on rent and competition (Ch. 8), and his positioning as a "key adversary" in Gaffney's narrative. See [wiki book page](/wiki/gaffney-harrison-corruption-of-economics/). The original publication venue of "The Fallacies in the Single Tax" (1953) was not confirmed against a primary source this session; the essay's existence and content are reported here via Gaffney's secondary account and are corroborated by the scholarly treatments of Knight's objection to the single tax cited below (Emmett 2008; Plassmann & Tideman 2004).
+3. Ross B. Emmett (2008), "Frank H. Knight's Criticism of Henry George," *The American Journal of Economics and Sociology*, Vol. 67, No. 1, pp. 61–66. [JSTOR 27739691](https://www.jstor.org/stable/27739691) · [full text (cooperative-individualism.org)](https://cooperative-individualism.org/emmett-ross_frank-h-knight's-criticism-of-h-g-2008-jan.pdf) — a peer-reviewed history-of-thought account of Knight's critique of George, used here to corroborate that Knight made a sustained scholarly objection to the single tax.
+4. Florenz Plassmann & T. Nicolaus Tideman (2004), "Frank Knight's Proposal to End Distinctions among Factors of Production and His Objection to the Single Tax," *History of Political Economy*, Vol. 36, No. 3, pp. 505–519. [DOI 10.1215/00182702-36-3-505](https://doi.org/10.1215/00182702-36-3-505) — a peer-reviewed reconstruction of the theoretical basis of Knight's objection, cited here as further secondary corroboration.

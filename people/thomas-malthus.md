@@ -6,7 +6,7 @@ stub: true
 born: 1766
 died: 1834
 excerpt: "English cleric-economist (1766–1834) whose 1798 population theory Henry George devoted Book II of Progress and Poverty to refuting, and who — independently of Ricardo — co-discovered the differential theory of rent in an 1815 pamphlet."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -90,6 +90,6 @@ nature rather than a remediable effect of land monopoly.[2]
    Ricardo, West, and Torrens as independent co-discoveries of the classical rent
    theory (A-claim; scan provenance pending owner attestation — see book page).
    [Book page](/wiki/economic-theory-in-retrospect/)
-   `[VERIFY: exact priority ordering among the four 1815 rent pamphlets is
+   The exact priority ordering among the four 1815 rent pamphlets is
    reported inconsistently across secondary sources and should be confirmed
-   against a primary history-of-thought source in a future revision.]`
+   against a primary history-of-thought source in a future revision.

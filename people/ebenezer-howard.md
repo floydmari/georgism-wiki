@@ -4,6 +4,7 @@ category: people
 tags: [people, howard, garden-cities, urban-planning, ground-rent]
 stub: false
 excerpt: "Founder of the garden-city movement, who designed self-financing planned towns funded by the rising ground rents the community itself created."
+pd_quotes: true
 ---
 
 ## Overview

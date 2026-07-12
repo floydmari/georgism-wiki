@@ -8,7 +8,7 @@ tags:
   - land-value-tax
 stub: false
 excerpt: "Christopher England is a historian (Ph.D. Georgetown 2015, now at Towson University) whose 2023 book Land and Liberty: Henry George and the Crafting of Modern Liberalism (Johns Hopkins UP) is the definitive modern history of the U.S. single-tax movement."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -42,7 +42,7 @@ This wiki's [transitional gains trap](/wiki/transitional-gains-trap/) page conne
 
 The published abstract (verified this session against the Wiley and IDEAS/RePEc listings) directly confirms the core claims above: that early-20th-century Vancouver "obtained international acclaim as a 'single tax' city," that the system "was scaled back and ultimately ended in 1984," that England explains the property tax revolt "with Mancur Olson's model of collective action" in which better-organized property owners prevailed "over the interests of tenants and prospective buyers," and that revolt rhetoric "articulated in the progressive language of ability to pay... collapsed into explicit arguments for rent-seeking" when challenged.[4]
 
-[VERIFY — partially resolved this session: the full paper remains paywalled beyond its abstract at the publisher (Wiley), and sci-hub mirrors were unreachable this pass. The intermediate phase-out breakpoints (buildings taxed at 50 percent of the land rate from 1919, 75 percent from 1969) are now **confirmed by England's own verbatim summary** of the schedule — "buildings were initially taxed at zero (from 1910 to 1918), then 50% of the rate on land (1919 to 1969), then 75% (1969 to 1984), and finally 100% (after 1984)" — as quoted from England (2018) in Russil Wvong, "The downside of low property taxes," *More Housing* (Substack). The transitional-gains-trap / Tullock framing, by contrast, **remains unconfirmed**: it is not stated in the published abstract (which frames the rollback through Mancur Olson's collective-action model, not Tullock), and the only source attributing the concept to England is a tertiary wiki entry that itself flags the attribution as unverified. Treat the Tullock framing as an interpretive gloss until the full text can be checked.]
+**Verification note.** The full paper remains paywalled beyond its abstract at the publisher (Wiley), and no full-text mirror was reachable this pass. The intermediate phase-out breakpoints (buildings taxed at 50 percent of the land rate from 1919, 75 percent from 1969) are **confirmed by England's own verbatim summary** of the schedule — "buildings were initially taxed at zero (from 1910 to 1918), then 50% of the rate on land (1919 to 1969), then 75% (1969 to 1984), and finally 100% (after 1984)" — as quoted from England (2018) in Russil Wvong, "The downside of low property taxes," *More Housing* (Substack). The transitional-gains-trap / Tullock framing, by contrast, **remains unconfirmed**: it is not stated in the published abstract (which frames the rollback through Mancur Olson's collective-action model, not Tullock), and it is attributed to England only by a tertiary wiki entry that itself flags the attribution as unverified. The Tullock framing should therefore be read as an interpretive gloss until the full text can be checked.
 
 ## Not the Author of the 2005 Dover Study
 
