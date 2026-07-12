@@ -5,7 +5,7 @@ tags: [events, panic-of-1893, land-speculation, boom-bust-cycle, 18-year-land-cy
 year: 1893
 stub: true
 excerpt: "Oklahoma land-rush speculation and silver-standard fears culminated in the Panic of 1893, the worst US depression to that date — coinciding with Frederick Jackson Turner's announcement that the frontier had closed."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -35,4 +35,4 @@ Mainstream accounts of the Panic of 1893 emphasize railroad overbuilding, the go
 5. Wikipedia, "Frontier Thesis" — [en.wikipedia.org/wiki/Frontier_Thesis](https://en.wikipedia.org/wiki/Frontier_Thesis) — used for background on Turner's 1893 address and its historiographical significance (basic-facts citation).
 6. David O. Whitten (Auburn University), "The Depression of 1893," EH.net Encyclopedia, Economic History Association. [eh.net/encyclopedia/the-depression-of-1893](https://eh.net/encyclopedia/the-depression-of-1893/) — a mainstream economic-history reference account, used for the role of building-construction overbuilding (peaking April 1892) as a leading indicator and transmission channel into the depression, distinct from land speculation as a proximate trigger. Whitten is co-author, with Douglas Steeples, of the standard monograph *Democracy in Desperation: The Depression of 1893* (Greenwood Press, 1998).
 
-`[VERIFY: this page was drafted from web search summaries and the wiki's existing discovery notes on Anderson's book, not a full page-by-page read of the primary text. A future revision should confirm Anderson's exact Ch. 9 treatment and figures against the source book directly.]`
+**Sourcing note.** The mainstream chronology and the construction-cycle framing above are taken directly from the cited Whitten/EH.net and encyclopedia sources. The Anderson-derived "Land Boom of 1888" framing (source 3) is drawn from this wiki's existing discovery notes on Anderson's book rather than a full page-by-page read of the primary text; a future revision with the book in hand should confirm Anderson's exact Ch. 9 treatment and figures before any Anderson-specific quantity is asserted here.

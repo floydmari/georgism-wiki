@@ -4,7 +4,7 @@ category: events
 tags: [events, land-speculation, boom-bust-cycle, united-states, banking-crisis]
 stub: false
 excerpt: "A speculative US land boom fed by wildcat-bank paper money collapsed after Andrew Jackson's 1836 Specie Circular, crashing Chicago land prices roughly 95% and triggering the Panic of 1837 — an early empirical anchor for the Georgist land-cycle thesis."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -17,14 +17,14 @@ The land boom hit its most dramatic form in [Chicago](/wiki/chicago/), then a sm
 
 ## Relation to the Georgist Case
 
-For the Georgist land-cycle tradition, the 1836–37 episode functions as an **early empirical anchor**: it shows a large, well-documented, credit-financed land-price collapse occurring well before modern banking regulation, land value taxation, or the 18-year-cycle theory itself existed. Anderson (2008) treats the US free-banking-era failures of 1837 as the first of a recurring sequence of banking crises coinciding with land-price peaks, alongside 1873, 1929, and 2008.[4] `[VERIFY: whether Anderson attaches a specific land-value decline figure to Chicago in 1837, or whether the ~90–95% figure used above derives from Hoyt/secondary sources rather than Anderson's own text]`
+For the Georgist land-cycle tradition, the 1836–37 episode functions as an **early empirical anchor**: it shows a large, well-documented, credit-financed land-price collapse occurring well before modern banking regulation, land value taxation, or the 18-year-cycle theory itself existed. Anderson (2008) treats the US free-banking-era failures of 1837 as the first of a recurring sequence of banking crises coinciding with land-price peaks, alongside 1873, 1929, and 2008.[4] (The ~90–95% Chicago decline figure cited above derives from Hoyt and secondary accounts — sources 6 and 7 — rather than from Anderson's own text, which this session did not confirm attaches a specific Chicago decline figure to 1837.)
 
 It is important to be precise about what this episode does **not** establish. The Panic of 1837 predates land value taxation as a policy proposal by decades — Henry George's *Progress and Poverty* was not published until 1879 — so the episode cannot show what a taxed-land counterfactual would have done to the boom's amplitude. Its evidentiary role in the Georgist case is establishing that a severe land-speculation boom-bust cycle is a real, historically deep-rooted pattern independent of any particular banking or tax regime, not direct evidence about land value tax's effect on such cycles.
 
 ## Limits and Caveats
 
 - **Multiple causes are debated among historians.** Economic historians disagree on how much weight to give the Specie Circular versus other factors — the end of the Second Bank of the United States' federal charter, British credit contraction, and falling cotton prices are all cited as contributing causes; the Specie Circular's precise causal role remains a subject of historical debate rather than settled consensus.[1][3]
-- **Precise land-value figures vary by source.** The ~90–95% Chicago decline figure and the $1,000-to-$50 per-acre range are commonly repeated in secondary and popular accounts but are not independently verified here against Hoyt's primary 1933 dissertation. `[VERIFY: confirm exact figures against Hoyt's original text]`
+- **Precise land-value figures vary by source.** The ~90–95% Chicago decline figure and the $1,000-to-$50 per-acre range are commonly repeated in secondary and popular accounts but have not been independently verified here against Hoyt's primary 1933 dissertation; a future revision should confirm the exact figures against that original text.
 - **Pre-dates any LVT regime.** As noted above, this episode is evidence for the existence of a land-speculation cycle, not for how land value taxation would alter it.
 
 ## See Also
@@ -41,8 +41,8 @@ It is important to be precise about what this episode does **not** establish. Th
 2. Wikipedia, "Wildcat banking" — [en.wikipedia.org/wiki/Wildcat_banking](https://en.wikipedia.org/wiki/Wildcat_banking) — used for the growth in state-chartered banks (329 in 1830 to over 700 by 1837) and the mechanics of wildcat-bank note issuance and failure.
 3. Encyclopedia.com, "Specie Circular" — [encyclopedia.com](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/specie-circular) — used for the July 11, 1836 date and terms of Jackson's executive order.
 4. Phillip J. Anderson, *The Secret Life of Real Estate and Banking*, Shepheard-Walwyn, 2008, Ch. 4 — used (via this wiki's discovery notes and [book page](/wiki/anderson-secret-life-real-estate/)) for the "Land Boom of 1836 / Panic of 1837" episode's place in Anderson's account of US land-cycle history (wildcat banking, Specie Circular, Chicago's first land boom).
-5. Akhil Patel, *The Secret Wealth Advantage*, referenced Prologue — used (via this wiki's discovery notes) for the Panic of 1837's place in Patel's account of the 18-year land-cycle tradition. `[VERIFY: exact page/quotation against primary text — drafted from discovery notes, not a direct read]`
+5. Akhil Patel, *The Secret Wealth Advantage*, referenced Prologue — used (via this wiki's discovery notes) for the Panic of 1837's place in Patel's account of the 18-year land-cycle tradition. Drawn from discovery notes rather than a direct read of the primary text, so no page-specific Patel figure is asserted here.
 6. Wikipedia, "Chicago real estate bubble of the 1830s" — [en.wikipedia.org/wiki/Chicago_real_estate_bubble_of_the_1830s](https://en.wikipedia.org/wiki/Chicago_real_estate_bubble_of_the_1830s) — used for Chicago Loop per-acre price figures ($1,000 peak in 1836 falling to roughly $50 post-panic) and the 1836 boom's timeline (basic-facts citation).
 7. This wiki's [Chicago](/wiki/chicago/) place page and [One Hundred Years of Land Values in Chicago](/wiki/hoyt-chicago-land-values/) research page — used for Hoyt's 1836 Chicago land-value peak and its role in the later 18-year-cycle thesis.
 
-`[VERIFY: this page was drafted from web search summaries and the wiki's existing discovery notes on Anderson and Patel's books, not a full page-by-page read of either primary text or of Hoyt's original 1933 dissertation. A future revision should confirm the exact Chicago land-value decline percentage and Anderson's/Patel's precise page-level treatment of the episode.]`
+**Sourcing note.** The chronology, banking figures, and Chicago price range on this page rest on the cited Wikipedia and Encyclopedia.com references and this wiki's Chicago/Hoyt pages. The Anderson and Patel land-cycle framings are drawn from this wiki's existing discovery notes rather than a page-by-page read of either book, and the exact Chicago land-value decline percentage has not been checked against Hoyt's original 1933 dissertation; a future revision with those primary texts should confirm both before any book-specific figure is asserted.

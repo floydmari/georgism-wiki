@@ -4,7 +4,7 @@ category: organizations
 tags: [organizations, crown-estate, public-land, united-kingdom, land-value-capture, stub]
 stub: true
 excerpt: "A UK public corporation holding property, seabed, and land 'in right of the Crown' — including Regent Street and about half of London's St James's — whose entire annual net profit (a record £1.1 billion in 2024-25) is paid directly into the Treasury."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -25,4 +25,4 @@ Unlike the monarch's private estates, the Crown Estate's entire annual net reven
 
 1. "Crown Estate," Wikipedia, and The Crown Estate's own FAQ page — used for the portfolio description (seabed, agricultural land, Regent Street, St James's), the 1760/1961/2011 institutional history, and the confirmation that all profit is paid to the Treasury. [thecrownestate.co.uk/about-us/faqs](https://www.thecrownestate.co.uk/about-us/faqs)
 2. House of Commons Library, "Crown Estate Bill [HL] 2024-25" research briefing — used for the ~£15 billion portfolio valuation (March 2025), the record £1.1 billion net revenue profit (2024-25), and the 12% Sovereign Grant percentage applied two years in arrears. [commonslibrary.parliament.uk/research-briefings/cbp-10163](https://commonslibrary.parliament.uk/research-briefings/cbp-10163/)
-3. Ryan-Collins, Lloyd & Macfarlane, *Rethinking the Economics of Land and Housing* (Zed Books, 2017), Ch. 2 §2.6 — discovery source, cited for the Crown Estate as an example of a large surviving public landowner in the UK. [wiki book page](/wiki/rethinking-economics-land-housing/) [CITATION NEEDED: the specific claim and figures the discovery report drew from Ch. 2 §2.6, verified against the primary text.]
+3. Ryan-Collins, Lloyd & Macfarlane, *Rethinking the Economics of Land and Housing* (Zed Books, 2017), Ch. 2 §2.6 — discovery source, cited only for the general point that the Crown Estate is a large surviving public landowner in the UK. The specific claim and figures the discovery report drew from Ch. 2 §2.6 were not verified against the primary text in this session; the portfolio, valuation, and revenue figures on this page rest on sources 1 and 2 (the Crown Estate's own FAQ and the House of Commons Library briefing). [wiki book page](/wiki/rethinking-economics-land-housing/)
