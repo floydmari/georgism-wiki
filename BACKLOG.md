@@ -223,3 +223,16 @@ sources/publicdomain/.
 - [ ] [READ&MINE] tier:T2 status:todo — Hoyt 1933 One Hundred Years of Land Values in Chicago:
       PD CONFIRMED 2026-07-11 (no CCE renewal 1959-62; IA scan open) — now eligible for the
       sources/publicdomain/ channel (xxxii+519pp; the 18-year cycle chapter is the priority mine).
+
+## Steady state — end of loop session 2026-07-11 (16 waves)
+All workable queues cleared. What remains needs inputs beyond this environment:
+- [ ] [VERIFY] tier:Floyd — book-copy channel (~10 items): Harrison Boom Bust Ch.7 / Ricardo's
+      Law Ch.11 / Power in the Land pagination, Reid Secondary Banking Crisis, Cannon Land
+      Boomers, Jackson Crabgrass Frontier, Samuelson Economics editions, Daniel Francis L.D.
+      biography, Barnes/Widerquist-Howard book texts (see hermes-workorder + queue).
+- [ ] [VERIFY] tier:Floyd — institutional access: Foldvary RAE 27(4) reply full text;
+      Cunningham JUE regression tables; Light JUH 2010.
+- [ ] [VERIFY] status:calendar-gated — 2026-forecast markers (year-end); Duggan governor race
+      (Nov 2026) for the Detroit LVT revival; Oxford Review cycle piece.
+- [ ] Publishing: merge claude/wiki-loop-2026-07-11 (carries BOTH campaigns, 770 pages,
+      lint 0/0) then Ghost-sync; wiki-problems/wiki-benefits tags exist on Ghost already.

@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-11 by `scripts/verification_queue.py` (167 markers). 
+Generated 2026-07-11 by `scripts/verification_queue.py` (165 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -84,7 +84,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/melichar-farm-income-asset-values.md` — **CITATION NEEDED** exact original publication (journal/report title, volume, pages) of Melichar's 1978 "Farm Income and Asset Values, 1950-77" study — this session could not indep
 - `books/anderson-your-citizens-dividend.md` — **CITATION NEEDED** the primary study (Duke-team longitudinal analysis of the Eastern Band of Cherokee casino payments) — acquire and verify before citing specifics anywhere but th
 
-## unclassified (T1 triage) (99)
+## unclassified (T1 triage) (97)
 
 - `concepts/common-agricultural-policy.md` — **CITATION NEEDED** direct quotation or page-level claim from Harrison, *Ricardo's Law*, Ch. 7, "To CAP it All"
 - `concepts/horizontal-shareholding.md` — **CITATION NEEDED** A representative citation to the post-2018 literature disputing or narrowing the Azar-Schmalz-Tecu finding, for full NPOV balance.
@@ -137,9 +137,7 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `objections/marshall-single-tax-objection.md` — **CITATION NEEDED** primary Marshall passage and page number
 - `objections/marxist-critique-of-georgism.md` — **CITATION NEEDED** a direct citation or quotation from Ryan-Collins, Macfarlane & Bentley Beck, *Rethinking the Economics of Land and Housing* (2017), Ch. 2 §2.2 and Ch. 3 §3.7, o
 - `objections/nationalization-solves-the-land-problem.md` — **CITATION NEEDED** direct verification of the Ch. 13–14 claims, including exact figures, against the primary source
-- `objections/progress-and-poverty-outdated.md` — **CITATION NEEDED** an independent history-of-thought source corroborating or contesting the "thirty years out of date" characterization.
 - `events/1974-uk-property-crash.md` — **VERIFY** direct pagination of Harrison's Ch. 6–7 discussion of the 1973–74 UK case on a fresh primary-text read, and whether *Rethinking the Economics of Land and Housin
-- `events/great-depression.md` — **CITATION NEEDED** a mainstream economic-history source directly engaging with, rather than simply omitting, the land-price-peak-precedes-crash claim.
 - `events/great-depression.md` — **CITATION NEEDED** independent scholarly confirmation of the "~4,800 bank failures" and "~90% stock market loss" figures attributed to Patel's Prologue, beyond the wiki's own disc
 - `events/highland-clearances.md` — **CITATION NEEDED** this session could not independently verify the specific claim, attributed to Ch. 11, that *Ricardo's Law* discusses the Highland Clearances by name, or what fi
 - `events/japanese-asset-price-bubble.md` — **VERIFY** some more recent academic work questions how large a direct causal role the Plaza Accord itself played in inflating asset prices, as distinct from the subsequen
@@ -153,12 +151,12 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `events/revenue-act-of-1916.md` — **CITATION NEEDED** a primary or scholarly source directly linking Bailey to the drafting of the 1916 Act specifically, as opposed to the 1913 Revenue Act/tariff fight.
 - `events/south-sea-bubble.md` — **CITATION NEEDED** direct page citation from a fresh read of Ch. 7.
 - `events/valencia-land-grab-law.md` — **CITATION NEEDED** direct page-level verification of Harrison's Valencia discussion
-- `benefits/california-irrigation-districts.md` — **CITATION NEEDED** independent economic-history assessment quantifying how much of any later re-consolidation is attributable to the Reclamation-era water subsidy specifically
 - `benefits/landlords-cannot-pass-lvt-to-tenants.md` — **CITATION NEEDED** additional quasi-experimental land-tax-specific incidence studies.
 - `narratives/the-tax-you-cant-dodge.md` — **CITATION NEEDED** a cross-country estimate of the assessment gap as a share of potential land-tax revenue — Almy documents the under-revaluation mechanism internationally but doe
 - `narratives/this-time-is-different.md` — **CITATION NEEDED** direct chapter/page verification of "new era" language attributed to Anderson at the 1920s and 2000s cycle peaks specifically, beyond the banking-failure list a
 - `research/buchanan-historical-rent-theory.md` — **CITATION NEEDED** direct access to the article's full text. This page's characterization of its content relies on Blaug's secondary description and the article's consistent bibli
 - `research/buettner-german-land-tax-capitalization.md` — **CITATION NEEDED** the paper's full text, to verify the exact sample, tax-rate range, and estimated capitalization coefficient.
+- `research/california-irrigation-districts.md` — **CITATION NEEDED** independent economic-history assessment quantifying how much of any later re-consolidation is attributable to the Reclamation-era water subsidy specifically
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** primary-text confirmation of the full regression tables and sample description — available in the paywalled *JUE* article and the ProQuest-gated dissertation (S
 - `research/cunningham-seattle-options.md` — **CITATION NEEDED** direct access to the full text (regression tables, sample construction, exact estimation period), available in the paywalled *JUE* article and the ProQuest-gate
 - `research/dwyer-history-lvt-theory.md` — **CITATION NEEDED** page locator within Dwyer's dissertation, or within the postscript, where "superneutrality" is coined/defined
