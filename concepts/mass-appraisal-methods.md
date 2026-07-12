@@ -71,7 +71,6 @@ The key insight from the assessment literature is that land-value assessment err
 
 - [PLACES Lab](/wiki/places-lab/) — Boston University research group whose machine-learning land-value maps are a modern, nationwide-scale demonstration of the assessment feasibility this page argues for
 - [Residual Land Valuation](/wiki/residual-land-valuation/) — how developers price land in practice (sales value minus costs), explaining why land absorbs planning gain in full
-- [Research: Kolbe et al., Identifying Berlin's Land Value Map](/wiki/kolbe-berlin-land-value-map/) — a city-scale worked example (adaptive weights smoothing, ~85% agreement with expert values) of the statistical methods this page surveys
 - [International Association of Assessing Officers (IAAO)](/wiki/iaao/) — the professional standards body behind mass appraisal and ratio-study methodology
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
 

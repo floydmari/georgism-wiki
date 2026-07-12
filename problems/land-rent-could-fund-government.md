@@ -73,7 +73,7 @@ See: [Public Revenue Without Taxation (Burgess)](/wiki/public-revenue-without-ta
 ## See Also
 
 - [Jeffery Johnson Smith](/wiki/jeffrey-johnson-smith/) — author of Counting Bounty (2020), whose ~$44T US land-value estimate is the highest figure in Land is a Big Deal's comparison table
-- [Barr, Smith & Kulkarni (2018): What's Manhattan Worth?](/wiki/barr-manhattan-land-values/) — a transaction-based estimate ($1.74T) of Manhattan's developable land value alone
+- [Barr, Smith & Kulkarni (2018): What's Manhattan Worth?](/wiki/barr-smith-kulkarni-manhattan-land/) — a transaction-based estimate ($1.47T, 2014) of Manhattan's developable land value alone
 - [Steven Cord](/wiki/steven-cord/) — Georgist scholar whose Census/Federal Reserve-based land-rent estimates (cited in Harrison's *The Power in the Land*) are among the empirical inputs to the revenue-sufficiency debate, and who led the on-the-ground campaign behind Pennsylvania's split-rate tax adoptions
 - [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — hedonic land/structure separation at scale, which also disciplines the residual method's over-attribution to land · [Hudson: Where Did All the Land Go?](/wiki/hudson-where-did-all-the-land-go/) — the understatement critique of official land accounts (attributed)
 
