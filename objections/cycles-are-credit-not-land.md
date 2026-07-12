@@ -28,8 +28,8 @@ The theoretical backing is older and deeper than Georgism's cycle literature.
 **Hyman Minsky's** financial-instability hypothesis generates endogenous boom and bust
 purely from leverage and shifting risk appetite — hedge finance giving way to
 speculative and then Ponzi finance — with no need for a land factor at all. Modern
-credit-school economists (Richard Werner on bank credit creation, Steve Keen on
-private-debt dynamics, Richard Vague on the private-debt record of crises) locate the
+credit-school economists ([Richard Werner on bank credit creation](/wiki/werner-princes-of-the-yen/), Steve Keen on
+private-debt dynamics, [Richard Vague on the private-debt record of crises](/wiki/vague-brief-history-of-doom/)) locate the
 motor in the debt-to-GDP ratio and its rate of change. On this account land is simply
 *where the credit happens to flow* this time; the same instability could — and does —
 attach to other collateral (equities in 1929's margin boom, dot-com equity in 2000,
@@ -97,6 +97,7 @@ attack the same instability from two ends.** Not "cycles are land, not credit," 
 ## See Also
 
 - [Vague (2019): A Brief History of Doom](/wiki/vague-brief-history-of-doom/) — 200 years of private-debt-to-GDP data across six countries, showing real-estate lending precedes every major crisis; the credit school's quantitative case
+- [Borio (2012): The Financial Cycle](/wiki/borio-financial-cycle/) — the BIS "financial cycle" steelman: the credit-and-property boom runs on credit creation and shifting risk perception and would operate on any collateral, not land specifically
 - [Hyman Minsky](/wiki/hyman-minsky/) — economist behind the financial instability hypothesis, the objection's central theoretical anchor
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/) — the claims this objection tests
 - [The Great Mortgaging](/wiki/great-mortgaging/) · [Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — why credit and land largely coincide

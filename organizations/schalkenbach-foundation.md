@@ -18,7 +18,7 @@ For nearly a century RSF has been the custodian of George's intellectual legacy:
 
 ## Significance
 
-RSF is the institutional through-line of the Georgist movement — the body that carried George's texts and ideas across the 20th century, from the decline of the Single Tax movement to the modern revival.
+RSF is the institutional through-line of the Georgist movement — the body that carried George's texts and ideas across the 20th century, from the decline of the single-tax movement to the modern revival.
 
 ## See Also
 

@@ -302,7 +302,15 @@ Mr. George, you ask us, if the single tax is not the remedy, what is the remedy?
    Sept. 5, 1890), F. B. Sanborn, ed. — the primary text reproduced on this page
    (Seligman's address pp. 34–44; George's remarks pp. 73–86; Seligman's reply pp. 87–98).
    Full-view scan: [Internet Archive](https://archive.org/details/sim_journal-of-social-science-proceedings_1890-10_27).
+   — used for the full text of the three-part George–Seligman exchange reproduced above
+   (including the interpolated Single Tax Platform and the editor's bracketed note), and for
+   the editorial note's session details: the 5 September 1890 date, John Graham Brooks's
+   arrangement of the debate, the affirmative and negative speaker rosters, the page ranges
+   and titles of the ten omitted pieces, and the editor's note that Professor James's
+   extempore remarks were not taken down.
 2. *The Single Tax Discussion, Held at Saratoga, Sept. 5, 1890* (American Social Science
    Association; F. B. Sanborn, ed.; Concord, Mass.) — the session's separately issued
    special edition; same text.
    [Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/browse?type=title&key=single+tax+discussion+held+at+saratoga+sept+5+1890)
+   — used only to document the separately issued Association edition noted in the provenance;
+   the transcription above was made from the *Journal of Social Science* scan (source 1).

@@ -67,7 +67,7 @@ Redfearn addresses critics who argue Tolstoy "had not proved anarchy desirable" 
 
 > "My duty towards my Neighbour is to love him as myself, and to do to all men as I would they should do unto me: To love, honour and succour my father and mother: To honour and obey the King, and all that are put in authority under him: To submit myself to all my governors, teachers, spiritual pastors and masters: To order myself lowly and reverently to all my betters." — English Catechism (quoted by Redfearn), p. 32
 
-> "The first two injunctions are in the pure spirit of Christianity. The third emphasises family loyalty, the natural source of continuous security from generation to generation. The rest, from 'To honour and obey the King' onwards, is wholly foreign to the spirit of the gospels, and directly contrary to the example set us by Christ in his own life. It can have been composed only with the cynical intention of bending Christian morality to suit the temporal and materialistic requirements of an unscrupulous ruling class." — Redfearn, p. 32
+> "The first two injunctions are in the pure spirit of Christianity. The third emphasises family loyalty, the natural source of continuous security from generation to generation. […]" — Redfearn, p. 32. The rest of the catechism, from obedience to the King onward, Redfearn argues is foreign to the gospels and could only have been composed to bend Christian morality to the requirements of a ruling class.
 
 > "Tolstoy inveighed mercilessly against the Russian Orthodox Church for its support of a State based on, and maintained by, violence, and for its specious arguments in favour of neglecting Christian principles on this account." — Redfearn, p. 31
 
@@ -98,6 +98,6 @@ Redfearn addresses critics who argue Tolstoy "had not proved anarchy desirable" 
 
 ## Sources
 
-1. David Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — primary source for all claims
-2. Henry George, *Progress and Poverty* (1879) — the work that influenced Tolstoy, discussed extensively in Ch. 10.
-3. Tolstoy's letters to Tsar Nicholas II and Grand Duke Nikolay Mikhaylovich — reproduced as appendices (from R.F. Christian, ed., *Tolstoy's Letters*, 1978, Athlone Press).
+1. David Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992). — used for all claims on this page (primary source)
+2. Henry George, *Progress and Poverty* (1879) — used for context as the work that influenced Tolstoy, discussed extensively in Ch. 10.
+3. Tolstoy's letters to Tsar Nicholas II and Grand Duke Nikolay Mikhaylovich — used as the appendix material reproduced by Redfearn (from R.F. Christian, ed., *Tolstoy's Letters*, 1978, Athlone Press).

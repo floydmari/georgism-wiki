@@ -65,6 +65,8 @@ The direction of the effect is consistent, but the honest case has real qualific
 
 ## See Also
 
+
+- [Victoria's Site-Value vs Net-Annual-Value Rating](/wiki/victoria-svr-nav-comparison/) — the 1966–78 Australian natural experiment
 - [Bourassa (1987): Land Value Taxation and New Housing Development in Pittsburgh](/wiki/bourassa-pittsburgh-lvt-housing/) — the earliest econometric study finding Pittsburgh's split-rate tax significantly increased new-housing construction
 - [The Houston Plan of Taxation (1912–1915)](/wiki/houston-plan-of-taxation/) — an early, legally-terminated American split-rate experiment predating Pittsburgh, showing a construction surge under land-favoring assessment
 - [Land Value Tax](/wiki/land-value-tax/) · [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) · [Split-rate taxation](/wiki/split-rate-taxation/)

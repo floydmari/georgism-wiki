@@ -5,10 +5,10 @@ claim_type: benefit
 tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"
-supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, mieszkowski-property-tax-incidence, zodrow-three-views, doucet-does-georgism-work]
-challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents]
+supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, borge-rattso-norway-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, capozza-green-hendershott-residential-land, mieszkowski-property-tax-incidence, zodrow-three-views, hilber-capitalization-synthesis, doucet-does-georgism-work]
+challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents, feldstein-incidence-pure-rent]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-11
 ---
 
 ## The Claim
@@ -52,7 +52,19 @@ utility-district variation designed to isolate tax effects from service quality,
 find capitalization of 62–64% under conservative discounting — and **cannot reject
 full capitalization** under their preferred discount rate. The burden lands in the
 asset price, i.e., on the owner. (Founding study:
-[Oates 1969](/wiki/oates-1969-capitalization/).)
+[Oates 1969](/wiki/oates-1969-capitalization/).) A second, non-US quasi-experiment
+reaches the same place: [Borge & Rattsø (2014)](/wiki/borge-rattso-norway-capitalization/),
+*Public Finance Review*, exploit the fact that many Norwegian municipalities choose
+not to levy a property tax — instrumenting for adoption — and find **full
+capitalization at realistic discount rates**, stating that full capitalization means
+"current owners bear the entire burden." On the subsidy side of the same coin,
+[Capozza, Green & Hendershott (1996)](/wiki/capozza-green-hendershott-residential-land/),
+in Brookings' *Economic Effects of Fundamental Tax Reform*, find US income-tax
+preferences for homeownership are **fully capitalized into house — chiefly
+residential land — prices** (removing the mortgage-interest and property-tax
+deductions is estimated to cut housing values ~13–17%, borne by owners at the moment
+of change): the fixed factor, land, absorbs the tax variable because structures are
+elastically supplied.
 
 **Rental markets — direct measurement, both directions.**
 [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/), *NTJ*, examine
@@ -68,7 +80,12 @@ German municipal reforms, find **full pass-through to rents within three years**
 All four measure the *building-inclusive* property tax; notably, Löffler &
 Siegloch's own heterogeneity result — pass-through falls as housing supply becomes
 inelastic — points exactly where the theory says a pure land tax (perfectly
-inelastic base) sits.
+inelastic base) sits. [Hilber's (2017)](/wiki/hilber-capitalization-synthesis/)
+survey of the capitalization literature is the systematic statement of this bridge:
+capitalization onto owners "is more pronounced in locations with strict regulatory
+and geographical supply constraints," and is incomplete where supply can respond
+through construction. The more inelastic the base, the more fully the tax lands on
+the owner — and land is the limiting case.
 
 **The land-tax-specific test.** Denmark levies a recurrent tax on land value
 alone, and the [Danish Economic Councils' 2018 study](/wiki/dors-land-taxes-housing-prices/)
@@ -105,10 +122,24 @@ caveats a fair reader should know:
   equilibrium claim; in the short run individual landlords may attempt pass-through
   in tight markets, and the theory says competition unwinds it, not that no tenant
   ever sees a rent notice citing taxes.
+- **A theory-side challenge to *full capitalization* exists — on a different margin.**
+  The claim that the burden lands *entirely* on the owner (full capitalization into a
+  lower land price) is not literally unanimous in theory:
+  [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/) shows that in a
+  general-equilibrium growth model a tax on pure rent is "at least partly shifted" and
+  the land price "may be increased," because taxing land pushes household saving into
+  produced capital. Crucially, that shifting runs to **capital owners** (a lower
+  interest rate) and **workers** (a higher wage) through an economy-wide savings
+  channel — it is **not** a mechanism by which a landlord raises the rent charged to a
+  tenant (pre-tax land rent actually *rises* in his model). So Feldstein qualifies the
+  full-incidence-on-owner claim without vindicating rent pass-through, and the result
+  is itself contested (Calvo-Kotlikoff-Rodriguez 1979; Fane 1984 restore the classical
+  answer). It belongs here as an honest caveat to "theory is unanimous," not as
+  support for the landlord's side.
 
 ## See Also
 
-- [Choi & Sjoquist (2015)](/wiki/choi-sjoquist-lvt-urban-effects/) — an Atlanta-calibrated CGE simulation study Doucet lists among the papers supporting full capitalization of LVT into land prices
+- [Choi & Sjoquist (2015), in the site-value GE simulations cluster](/wiki/site-value-ge-simulations/) — an Atlanta-calibrated CGE simulation study Doucet lists among the papers supporting full capitalization of LVT into land prices (model evidence)
 - [Buettner (2003): Tiebout Visits Germany](/wiki/buettner-german-land-tax-capitalization/) — German municipal-level evidence that variation in local land tax rates capitalizes into land prices without raising rents.
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/) · [Tax Capitalization](/wiki/tax-capitalization/)
 - [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/) · [Zodrow (2001)](/wiki/zodrow-three-views/) — the theory
@@ -137,3 +168,16 @@ caveats a fair reader should know:
    Land Value Tax to Tenants?", *Astral Codex Ten*.
    [Original](https://www.astralcodexten.com/p/does-georgism-work-part-2-can-landlords)
    · [wiki summary](/wiki/doucet-does-georgism-work/) — used for the popular synthesis and as navigation to the primary studies now ingested individually (D-claim).
+6. Lars-Erik Borge & Jørn Rattsø (2014), "Capitalization of Property Taxes in
+   Norway," *Public Finance Review* 42(5): 635–661.
+   [DOI](https://doi.org/10.1177/1091142113489845) ·
+   [wiki summary](/wiki/borge-rattso-norway-capitalization/) — used for the non-US IV quasi-experiment finding full capitalization at realistic discount rates, i.e. current owners bear the burden (B-claim).
+7. Dennis R. Capozza, Richard K. Green & Patric H. Hendershott (1996), "Taxes,
+   Mortgage Borrowing, and Residential Land Prices," in Aaron & Gale (eds.),
+   *Economic Effects of Fundamental Tax Reform*, Brookings.
+   [Working-paper full text](https://www.academia.edu/2820554/Taxes_Mortgage_Borrowing_and_House_Prices)
+   · [wiki summary](/wiki/capozza-green-hendershott-residential-land/) — used for full capitalization of income-tax preferences into residential land prices and the ~13–17% price-decline simulation (B-claim).
+8. Christian A. L. Hilber (2017), "The Economic Implications of House Price
+   Capitalization: A Synthesis," *Real Estate Economics* 45(2): 301–339.
+   [DOI](https://doi.org/10.1111/1540-6229.12129) ·
+   [wiki summary](/wiki/hilber-capitalization-synthesis/) — used for the supply-elasticity conditional (capitalization onto owners is fuller where supply is inelastic), the bridge from property-tax pass-through to the pure-land-tax case (C/B-claim).

@@ -42,11 +42,20 @@ administratively routine rather than exotic — the practitioner's answer to the
   advocate-aligned on *how well it suffices for full rent capture*, where the
   [search-theoretic critique](/wiki/search-theoretic-critique/) and
   Bentick–Mills assessment-basis issues live.
-- **Verification note.** Proxy-blocked direct fetch; essay's existence, host,
-  authorship, and Gwartney's practitioner biography corroborated across four
-  independent renderings. Exact publication year is approximate (~1999). Scan
-  depth **Light**. [VERIFY: exact date and the essay's specific procedural
-  claims on direct read.]
+- **Verification note (resolved on direct read).** The full essay was read
+  directly at henrygeorge.org. Its byline is "Ted Gwartney, MAI, Assessor,
+  Greenwich, Connecticut," and the text states "For 12 years, the author was the
+  Assessment Commissioner for the Province of British Columbia, Canada" —
+  confirming the practitioner biography. The procedural claims are confirmed
+  verbatim: an eight-step assessment procedure (defining the assignment,
+  determining/collecting/verifying/analyzing data, estimating market values,
+  public examination, and *periodic — annual — updating of assessments*); the
+  three classical approaches (sales comparison, cost, income); and specific
+  land-valuation methods (per-lot, per-square-foot, per-acre and per-front-foot
+  sales comparison, proportional relationship, developmental analysis, allocation,
+  extraction, ground-rent capitalization, subdivision development, land-value
+  maps, and computer-estimated values). The essay carries **no explicit
+  publication date** on the page, so the ~1999 dating remains approximate.
 
 ## Bears On
 
@@ -62,9 +71,11 @@ administratively routine rather than exotic — the practitioner's answer to the
 ## Sources
 
 1. Ted Gwartney, "Estimating Land Values," c. 1999.
-   [henrygeorge.org](https://www.henrygeorge.org/ted.htm) — used for the essay's
-   content and the practitioner-biography claims (A/C-claims; corroborated via
-   multiple independent renderings, full text unfetched — see note).
+   [henrygeorge.org](https://www.henrygeorge.org/ted.htm) — full text read directly
+   in this pass; used for the essay's content, the eight-step assessment procedure,
+   the three approaches and specific land-valuation methods, and the
+   practitioner-biography claims (byline "Assessor, Greenwich, Connecticut"; "12
+   years… Assessment Commissioner for the Province of British Columbia").
 2. Lars Doucet, "Does Georgism Work? Part 3," Astral Codex Ten, December 2021.
    [Article](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved)
    — used for the consultation attribution (A-claim; snippet-corroborated).

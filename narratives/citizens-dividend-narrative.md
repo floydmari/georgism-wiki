@@ -159,6 +159,8 @@ together."
 
 ## See Also
 
+
+- [Raley, "The Citizen's Dividend" (BIEN 2018)](/wiki/raley-citizens-dividend/) — a scholarly treatment of the dividend's Locke–Paine–George lineage (conference paper; funds it via VAT rather than land rent — a tension the wiki page flags)
 - [Citizen's Dividend](/wiki/citizens-dividend/) — the concept this narrative deploys
 - [Resource-rent dividends work](/wiki/resource-rent-dividends-work/) — the evidence page
 - [Alaska Permanent Fund](/wiki/alaska-permanent-fund/) — the anchor case

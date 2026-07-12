@@ -62,3 +62,12 @@ between local authorities and the Commission for New Towns.[1]
 3. legislation.gov.uk, "New Towns Act 1946" (full text) — used to confirm
    the act's formal citation and enactment.
    [legislation.gov.uk/ukpga/Geo6/9-10/68/enacted](https://www.legislation.gov.uk/ukpga/Geo6/9-10/68/enacted)
+   — verified verbatim this pass: 1946 CHAPTER 68, long title "An Act to
+   provide for the creation of new towns by means of development corporations,
+   and for purposes connected therewith," cited as "the New Towns Act, 1946."
+   The Act establishes development corporations as bodies corporate empowered
+   to acquire, hold, and manage land (s. 2); compensation on compulsory
+   purchase is determined by applying the provisions of the Town and Country
+   Planning Act 1944 (the wartime "1939 values" restricted-compensation
+   regime), corroborating the page's agricultural-price acquisition model for
+   the first-wave towns.

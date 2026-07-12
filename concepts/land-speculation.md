@@ -52,6 +52,14 @@ Land speculation matters because it:
 
 ## Book Findings
 
+### George: Speculation as the Primary Cause of Depressions
+
+The thesis that land speculation is a *cause of industrial depressions* — not merely a symptom of them — originates with [Henry George](/wiki/henry-george/). In [*Progress and Poverty*](/wiki/progress-and-poverty/) (1879), Book V, Ch. I ("The Primary Cause of Recurring Paroxysms of Industrial Depressions"), George argued that because land is fixed in supply, its price can be bid up speculatively past the point where labour and capital can profitably engage in production; the resulting squeeze on the [margin of production](/wiki/margin-of-production/) periodically checks output and triggers a slump:
+
+> *A consideration of the manner in which the speculative advance in land values cuts down the earnings of labor and capital and checks production leads, I think, irresistibly to the conclusion that this is the main cause of those periodical industrial depressions to which every civilized country, and all civilized countries together, seem increasingly liable.*
+
+This is the ancestor of the modern speculative-cycle arguments below — Harrison's, Foldvary's, and Adams's — and of the [land speculation causes boom and bust](/wiki/land-speculation-causes-cycles/) narrative. George himself flagged it as an inference, not a proof ("I think"), and the empirical case is assessed on that narrative page rather than asserted in wiki voice. (C-claim; attributed)
+
 ### Adams: Land Speculation as Wealth Inequality Driver
 
 Martin Adams's *Land: A New Paradigm for a Thriving World* (2015) presents land speculation as the root mechanism driving wealth inequality, business recessions, and ecological destruction. Adams argues that "the anticipated increase in rent induces speculators to buy land for price appreciation rather than for present use" (Adams 2015, Ch. 5, quoting Foldvary), causing land values to rise beyond what enterprises can profitably sustain and triggering depressions. (D-claim; interpretive)
@@ -81,3 +89,4 @@ See: [Land: A New Paradigm (Adams)](/wiki/land-a-new-paradigm/)
 4. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for the revived 18-year cycle framework and its speculative mechanism (attributed practitioner claim; see the [narrative page](/wiki/land-speculation-causes-cycles/) for the full evidence assessment).
 5. Karl E. Case & Robert J. Shiller (2003), "Is There a Bubble in the Housing Market?," *Brookings Papers on Economic Activity*, 2003(2), pp. 299–362. [Free PDF (Brookings)](https://www.brookings.edu/wp-content/uploads/2003/06/2003b_bpea_caseshiller.pdf) — used for the four-city homebuyer survey evidence on ten-year price-appreciation expectations (11.7–15.7%/year means, p. 324); see also the [Case-Shiller research page](/wiki/case-shiller-2003-bubble/).
 6. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the entry-monopoly framing and the 18-year cycle evidence (B/C/D-claims). [Book page](/wiki/land-a-new-paradigm/)
+7. Henry George (1879), *Progress and Poverty*, Book V, Ch. I ("The Primary Cause of Recurring Paroxysms of Industrial Depressions"). [Full text (Project Gutenberg #55308)](https://www.gutenberg.org/ebooks/55308) — used for George's originating statement of the speculation-as-cause-of-depressions thesis (verbatim quotation, attributed C-claim).

@@ -39,6 +39,6 @@ Charles Albro Barker (1904–1993) was an American historian and professor at Jo
 
 ## Sources
 
-1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — primary text for all biographical and interpretive claims (A/D-claims). [book page](/wiki/barker-henry-george-biography/)
-2. Henry George Collection, New York Public Library — manuscript source donated by Anna George de Mille (Barker 1955, p. 16) (A-claim).
-3. Philip Wicksteed, letter to Henry George, 1882 — quoted by Barker p. 11 (A-claim).
+1. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955; reprinted Greenwood Press, 1974). ISBN 0-8371-7775-8. — used for all biographical and interpretive claims on this page (A/D-claims). [book page](/wiki/barker-henry-george-biography/)
+2. Henry George Collection, New York Public Library — used for the Summary's note on Barker's manuscript sources; donated by Anna George de Mille (Barker 1955, p. 16) (A-claim).
+3. Philip Wicksteed, letter to Henry George, 1882 — used for the Wicksteed quotation on George's English influence; quoted by Barker p. 11 (A-claim).

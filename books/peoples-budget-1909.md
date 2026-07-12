@@ -68,11 +68,11 @@ Murray does not offer explicit policy recommendations; the book is a historical 
 
 > "The question of how social reform was to be financed was 'the core of the argument' between the Liberal and Unionist parties by 1909/10." — P.F. Clarke, quoted by Murray, Introduction
 
-> "The period between the Anglo-Boer War and the outbreak of World War I witnessed a marked upswing in government expenditure, notably for social reform and national defence, and the question of how this new expenditure was to be financed proved a major point of debate within parties and of cleavage between parties." — Murray, Introduction
+> "The period between the Anglo-Boer War and the outbreak of World War I witnessed a marked upswing in government expenditure […] and the question of how this new expenditure was to be financed proved a major point of debate within parties and of cleavage between parties." — Murray, Introduction
 
 > "The traditional Liberal causes—'opposition to imperialism and militarism, Home Rule, temperance, the agitation against the landowners, and so forth'—aroused the enthusiasm of the Liberal party's middle-class rank and file." — D.A. Hamer, quoted by Murray, Introduction
 
-> "The measures that did occasion some overt resistance in the party were the Budgets for 1909 and 1914, which provided for the taxes to help finance new measures of reform as well as large increases in naval expenditure. It was, in other words, over the questions of the cost and financing of social reform that the main debate over social reform was waged within the Liberal party." — Murray, Introduction
+> "The measures that did occasion some overt resistance in the party were the Budgets for 1909 and 1914, which provided for the taxes to help finance new measures of reform as well as large increases in naval expenditure. […]" — Murray, Introduction. The main debate over social reform within the Liberal party, Murray concludes, was waged over its cost and financing.
 
 > "The Liberal Government made the 'deliberate decision to opt for direct taxation'." — P.F. Clarke, quoted by Murray, Introduction
 
@@ -94,9 +94,9 @@ Murray does not offer explicit policy recommendations; the book is a historical 
 
 ## Sources
 
-1. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* (Oxford: Oxford University Press, 1980). — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate).
-2. P. F. Clarke, *Lancashire and the New Liberalism* (Cambridge: Cambridge University Press, 1971) — cited by Murray for the "core of the argument" formulation (B-claim; secondary).
-3. Neal Blewett, study of the 1910 general elections — cited by Murray for working-class support analysis (B-claim; secondary).
-4. Finance (1909-10) Act 1910 (10 Edw. 7 & 1 Geo. 5, c. 8), Part I — the enacting statute for the land-value duties. Statutory rates verified against the original as-enacted text on legislation.gov.uk: [s. 1 increment value duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/1/enacted), [s. 13 reversion duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/13/enacted), [s. 16 undeveloped land duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/16/enacted), [s. 20 mineral rights duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/20/enacted) (primary source; direct statutory quotation).
+1. Bruce K. Murray, *The People's Budget 1909/10: Lloyd George and Liberal Fiscal Policy* (Oxford: Oxford University Press, 1980). — used for all claims on this page (primary source); verified against primary text 2026-07-07 (Scan Depth: Moderate).
+2. P. F. Clarke, *Lancashire and the New Liberalism* (Cambridge: Cambridge University Press, 1971) — used for the "core of the argument" formulation, as cited by Murray (B-claim; secondary).
+3. Neal Blewett, study of the 1910 general elections — used for the working-class support analysis, as cited by Murray (B-claim; secondary).
+4. Finance (1909-10) Act 1910 (10 Edw. 7 & 1 Geo. 5, c. 8), Part I — used as the enacting statute for the land-value duties. Statutory rates verified against the original as-enacted text on legislation.gov.uk: [s. 1 increment value duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/1/enacted), [s. 13 reversion duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/13/enacted), [s. 16 undeveloped land duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/16/enacted), [s. 20 mineral rights duty](https://www.legislation.gov.uk/ukpga/Edw7and1Geo5/10/8/section/20/enacted) (primary source; direct statutory quotation).
 5. Austen Chamberlain, "Land Values Duties," HC Deb 19 April 1920, vol. 128, cc. 83–5 — the Chancellor's Budget statement announcing repeal. [Hansard](https://api.parliament.uk/historic-hansard/commons/1920/apr/19/land-values-duties) (primary source; direct quotation).
 6. Finance Act 1920 (10 & 11 Geo. 5, c. 18), [s. 57 "Repeal of land values duties"](https://www.legislation.gov.uk/ukpga/Geo5/10-11/18/section/57/enacted) — repealed the increment value, reversion, and undeveloped land duties and ended the land valuation, expressly excluding the mineral rights duty (primary source; verified against original as-enacted text).

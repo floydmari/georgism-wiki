@@ -28,6 +28,7 @@ The fear rests on confusing **acreage with value**. Because farmland value per a
 
 - [Duncan Pickard](/wiki/duncan-pickard/) — a working Scottish farmer whose book *Lie of the Land* makes the practitioner's case that LVT, not the current subsidy system, is the fairer deal for farmers
 - [Land Value Tax](/wiki/land-value-tax/) · [ATCOR](/wiki/atcor/) · [Speculative Vacancy](/wiki/speculative-vacancy/)
+- **Response evidence:** [Mirrlees Review](/wiki/mirrlees-review/) — its treatment of the agricultural/development value gap supports the low-farm-burden response · [Plummer (2010)](/wiki/plummer-lvt-distribution/) — the cross-class burden shift toward commercial land, utilities, and vacant lots is consistent with working farmland (low land-value share) bearing little added burden
 
 ## Sources
 

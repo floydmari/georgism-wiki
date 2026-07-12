@@ -150,6 +150,8 @@ honest reading keeps both edges.
 
 ## See Also
 
+
+- [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Platform and Data Rents](/wiki/data-rents/) — the contested frontier this paper theorizes
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried on the same firms
 - [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — a rival capture proposal for the AI-adjacent ad economy

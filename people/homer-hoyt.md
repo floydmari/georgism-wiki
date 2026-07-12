@@ -29,7 +29,7 @@ data later Georgist writers built on.[3]
 From 1934 to 1940 Hoyt served as chief land economist (later described as principal housing
 economist) at the newly created **Federal Housing Administration (FHA)**, where he helped
 develop the agency's first mortgage-underwriting criteria.[2][4] In 1939 he originated the
-**"sector model"** of urban land use — the theory that cities grow outward along transportation
+**"[sector model](/wiki/sector-model/)"** of urban land use — the theory that cities grow outward along transportation
 corridors in wedge-shaped sectors differentiated by land use and income, rather than in the
 concentric rings proposed by Ernest Burgess's earlier model — one of the most influential
 frameworks in twentieth-century urban geography and planning.[2][5] After the FHA he directed
@@ -131,7 +131,9 @@ correct because the same hierarchy appears in both, the dissertation being the e
 
 1. Homer Hoyt (1933), *One Hundred Years of Land Values in Chicago and Its Environs, With a
    Reflection on the Effect of the Growth of Chicago on the Value of Real Estate*, University of
-   Chicago Press. [Internet Archive](https://archive.org/details/onehundredyearso00hoytrich) —
+   Chicago Press. [Internet Archive](https://archive.org/details/onehundredyearso00hoytrich);
+   [full text held in this repository](/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
+   (public domain — 1933 copyright not renewed; mechanically-cleaned OCR, EDITORIAL §3b) —
    used for Hoyt's authorship, the dissertation's scope, dates, and documentation of the
    recurring land-value cycle.
 2. "Homer Hoyt," Wikipedia, accessed 2026-07-04. [Wikipedia](https://en.wikipedia.org/wiki/Homer_Hoyt)
@@ -158,17 +160,24 @@ correct because the same hierarchy appears in both, the dissertation being the e
    sector model's content and its place in twentieth-century urban planning scholarship
    (abstract-level; full text not independently read in this pass). `[VERIFY: full-text
    confirmation of sector-model details beyond the abstract.]`
-6. "Homer Hoyt, Real Estate Economist, Dies," *Washington Post*, November 30, 1984.
+6. "Homer Hoyt, Real Estate Economist, Dies," *Washington Post*, November 30, 1984, p. B16
+   (an obituary also ran in the *New York Times*, December 1, 1984).
    [Washington
    Post](https://www.washingtonpost.com/archive/local/1984/11/30/homer-hoyt-real-estate-economist-dies/2295f3ce-e4e7-4ebf-8114-327adc34e4c3/)
    — used for death date, location, cause, and the ~$8 million bequest to the Homer Hoyt
-   Institute. `[VERIFY: direct fetch of this obituary returned HTTP 403 in this research pass;
-   details are drawn from search-engine-indexed excerpts, not a directly read full text.]`
-7. Homer Hoyt Institute institutional materials, as summarized via search-indexed excerpts of
-   hoytgroup.org and University of Colorado Boulder's Homer Hoyt Institute for Real Estate and
-   Land Economics (Weimer School) page — used for the 1967 founding date and the institute's
-   mission. `[CITATION NEEDED: a directly fetched primary institutional source; hoytgroup.org
-   returned HTTP 404 for the specific biography page in this research pass.]`
+   Institute. Direct fetch of the *Post* page again returned an error in this pass (HTTP 403/
+   connection failure), but the obituary's citation and its substance are now corroborated by
+   a directly-read primary institutional biography (source 16 below), which independently
+   records that Hoyt "died of pneumonia at Holy Cross Hospital in Silver Spring, Maryland in
+   November 1984" and "is buried in Chicago," and gives the exact obituary references (*Washington
+   Post*, 30 Nov 1984, p. B16; *New York Times*, 1 Dec 1984).
+7. Homer Hoyt Institute, "Hoyt Institute" page.
+   [hoytgroup.org/hoyt-institute](https://hoytgroup.org/hoyt-institute/) — fetched directly in
+   this pass (via the April 2026 Wayback capture); confirms the institute is "an independent,
+   non-profit research and educational foundation established in 1967" that evolved out of a real
+   estate center at The American University. (There is no dedicated "Homer Hoyt biography" page on
+   the current hoytgroup.org — the earlier HTTP 404 was for a page that does not exist; the
+   institute's biographical account of Hoyt lives in source 16 below.)
 8. Fred Harrison, *The Power in the Land* (1983) and *Boom Bust: House Prices, Banking and the
    Depression of 2010* (Shepheard-Walwyn, 2005). [Publisher
    page](https://shepheardwalwyn.com/product/boom-bust/) — used for Harrison's use of Hoyt's
@@ -191,9 +200,12 @@ correct because the same hierarchy appears in both, the dissertation being the e
     *Journal of Urban History* 36(5), 2010. [Sage
     Journals](https://journals.sagepub.com/doi/10.1177/0096144210365677) — cited for its
     documented subject matter (FHA underwriting's use of nationality/neighborhood risk
-    categories in this period); direct fetch returned HTTP 403 in this research pass, so this
-    page relies on search-engine-indexed summaries rather than the full text. `[VERIFY: full-text
-    confirmation of Light's specific claims about Hoyt's role.]`
+    categories in this period); direct fetch again returned HTTP 403 in this research pass, so
+    the full text remains unread. The substance, however, is now independently corroborated by
+    the directly-read Homer Hoyt Institute biography (source 16), which documents that Hoyt
+    "applied some of these theories to FHA's mortgage underwriting" and reproduces the FHA
+    Underwriting Manual's own race-based neighborhood-stability language. `[VERIFY: Light's
+    specific full-text claims about Hoyt's role remain unconfirmed behind the paywall.]`
 13. Leland Ware, "Plessy's Legacy: The Government's Role in the Development and Perpetuation of
     Segregated Neighborhoods," *RSF: The Russell Sage Foundation Journal of the Social Sciences*
     7(1), 2021, pp. 92–109. [RSF
@@ -213,3 +225,15 @@ correct because the same hierarchy appears in both, the dissertation being the e
     — the primary source; the racial/nationality ranking and its framing were verified verbatim
     against the Internet Archive DJVU full text in this pass. The ranking begins on p. 314 and
     the numbered list of ten groups appears on p. 316.
+16. Stephen Malpezzi & Grant Ian Thrall, *Homer Hoyt: An Introduction*, Homer Hoyt Institute,
+    First Edition January 29, 2019.
+    [PDF (hoytgroup.org)](http://hoytgroup.org/wp-content/uploads/2019/03/Homer-Hoyt-Bio-Grant-and-Steve-Final-1-29-2019.pdf)
+    — a directly-fetched primary institutional biography (drafted by the Dean and a Fellow of the
+    institute's Weimer School), read in full in this pass. Used to corroborate Hoyt's FHA role
+    (Principal Housing Economist), his sector theory, the 1984 endowment of the Homer Hoyt
+    Institute, his death (pneumonia, Holy Cross Hospital, Silver Spring, MD, November 1984; buried
+    Chicago) and the *Washington Post*/*New York Times* obituary citations, and the institute's own
+    detailed account of Hoyt's FHA underwriting-manual/redlining legacy — an independent
+    institutional corroboration of the redlining record documented in sources 4, 12–14. See also the
+    companion [*Fifty Years of the Homer Hoyt Institute*](http://hoytgroup.org/wp-content/uploads/2017/05/HomerHoyt50th-Gordon.pdf)
+    (Jacques Gordon, May 2017).

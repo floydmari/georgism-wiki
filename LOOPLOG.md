@@ -343,7 +343,7 @@ Floyd's ping caught it ~2h late; trigger rebuilt, re-arming chain now at 11:15Z/
 **Shipped (4 commits):**
 - lvt-reduces-sprawl 1/5 -> 5/5 = **COVERAGE 15/15**: Tomson + Brueckner-1986 wired; NEW pages
   cho-two-rate-density (simulation, +18%/+83%, Nashville cluster counted as ONE evidence line),
-  taranu-verbeeck-property-tax-sprawl (systematic review, design-conditional),
+  taranu-verbeeck-property-tax-sprawl (literature review, design-conditional),
   bentick-mills-timing-neutrality (COUNTER-evidence: market-value assessment can hasten fringe
   conversion; Tideman-1982 assessment-basis rebuttal carried). Song-Zenou deliberately kept
   adjacent-UNWIRED (opposite mechanism). Yang 2018 JHE queued with UNVERIFIED-FINDING guard.

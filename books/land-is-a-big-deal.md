@@ -104,6 +104,8 @@ Using the most pessimistic land rent ($1.2T/year) split among ~209M US adults:
 
 Krugman argued: "I don't think you can raise nearly enough money to run a modern welfare state by taxing land. It's just not a big enough thing." Doucet counters that even if LVT cannot fund the entire budget, it is worth doing for its other effects (ending speculation, rent-seeking, unaffordable housing, sprawl) and can offset significant inefficient taxes.
 
+*Primary source for the quotation (which Doucet carries second-hand):* Michael Scott Moore, "This Land Is Your Land," *Pacific Standard*, from Moore's 2008 Berlin interview with Krugman. [psmag.com](https://psmag.com/news/this-land-is-your-land-3392/)
+
 ### Matt Yglesias (Ch. 14)
 
 Yglesias (2013) used the Federal Reserve method to estimate land at ~$15T. Doucet uses this as a **conservative lower bound** but argues it systematically understates land values because: (a) it relies on the flawed cost approach, (b) it uses assessed values far below market values, and (c) it excludes vacant land sales — the purest market data.
@@ -114,7 +116,7 @@ Friedman called LVT "the least bad tax" — Doucet cites this as the strongest e
 
 ## ATCOR and the Henry George Theorem (Ch. 15)
 
-**ATCOR** (All Taxes Come Out of Rents), associated with Mason Gaffney: any reduction in taxes on income and capital causes a proportionate increase in land rental values. If true, a Single Tax policy always works — abolishing income/capital taxes shifts revenue to land rents, which 100% LVT then captures.
+**ATCOR** (All Taxes Come Out of Rents), associated with Mason Gaffney: any reduction in taxes on income and capital causes a proportionate increase in land rental values. If true, a single-tax policy always works — abolishing income/capital taxes shifts revenue to land rents, which 100% LVT then captures.
 
 **Henry George Theorem** (Joseph Stiglitz, 1979): Under certain conditions, public goods spending is soaked up by land rents to such a degree that 100% LVT is sufficient to finance all public goods spending in perpetuity.
 

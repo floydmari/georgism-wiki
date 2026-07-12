@@ -201,6 +201,16 @@ def main():
             if not meta.get("year"): warn(f, "research missing year")
             for oc in aslist(meta.get("supports_outcomes")):
                 if oc not in slugs: err(f, f"supports_outcomes -> unknown page '{oc}'")
+            # bears_on_objections (added 2026-07-11, Floyd's ask): research that
+            # strengthens or weakens an objection wires it structurally, like claims.
+            # Values are objection slugs; the objection page body must link back.
+            for ob in aslist(meta.get("bears_on_objections")):
+                if ob not in slugs:
+                    err(f, f"bears_on_objections -> unknown page '{ob}'")
+                elif pages[ob]["folder"] != "objections":
+                    err(f, f"bears_on_objections -> '{ob}' is not an objections/ page")
+                elif f"/wiki/{slug}/" not in pages[ob]["body"]:
+                    warn(f, f"bidirectional gap: objections/{ob} body lacks link to /wiki/{slug}/")
 
         if p["folder"] in ("problems", "benefits"):
             if not meta.get("evidence_strength"): err(f, "claim page missing evidence_strength")

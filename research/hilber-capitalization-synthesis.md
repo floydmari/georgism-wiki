@@ -1,40 +1,116 @@
 ---
-title: "Hilber (2017): The Economic Implications of House Price Capitalization"
+title: "The Economic Implications of House Price Capitalization: A Synthesis"
 category: research
-tags: [research, tax-capitalization, house-prices, survey, empirical, land-is-a-big-deal, stub]
+tags: [research, tax-capitalization, housing-supply, incidence, survey, supply-elasticity, empirical]
 authors: [Christian A. L. Hilber]
 year: 2017
 tier: Important
-source_url: http://cep.lse.ac.uk/pubs/download/sercdp0091.pdf
-stub: true
-excerpt: "Hilber's synthesis of the house-price capitalization literature — how taxes, local spending, and amenities get absorbed into prices — strengthening the empirical backbone behind claims that a land value tax cannot be shifted onto tenants."
+source_url: https://doi.org/10.1111/1540-6229.12129
+stub: false
+excerpt: "Hilber's survey of the capitalization literature establishes the key conditional: fiscal variables capitalize into house prices more fully where housing supply is inelastic (regulatory or geographical constraints), and less where supply can respond. The nuance that connects the property-tax record to the pure-land-tax case."
 last_reviewed: 2026-07-11
+supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 ---
 
-## Overview
+## Summary
 
-Christian A. L. Hilber (London School of Economics) surveys the empirical literature on **house price capitalization** — the process by which local taxes, public spending, school quality, and other location-specific factors get absorbed into the sale price of housing — in "The Economic Implications of House Price Capitalization: A Synthesis," published in *Real Estate Economics* 45(2), 301–339 (2017); an earlier working-paper version circulated as SERC Discussion Paper 0091 (LSE Spatial Economics Research Centre) under the title "A Survey of an Emerging Literature."[1] The paper reviews dozens of prior capitalization studies (including foundational work such as [Oates (1969)](/wiki/oates-1969-capitalization/)) and draws out the shared finding that when the supply of a location is fixed, taxes and amenity changes attached to it tend to be capitalized into its price rather than passed on to future occupants.[1]
+"The Economic Implications of House Price Capitalization: A Synthesis" by
+**Christian A. L. Hilber** (London School of Economics) is a survey article in
+***Real Estate Economics*** 45(2), 2017, pp. 301–339.[1] It synthesizes the large
+literature on when taxes, public services, subsidies, and other fiscal variables get
+capitalized into house prices, and draws out one organizing result that matters
+directly for tax incidence: **the extent of capitalization is not a constant — it
+depends on how elastic local housing supply is.**[1]
 
-[Lars Doucet's *Land Is a Big Deal*](/wiki/land-is-a-big-deal/) cites Hilber (2017) among a cluster of more than a dozen studies supporting full or substantial capitalization, used to reinforce the book's argument (built primarily around the Danish natural-experiment study by Høj, Jørgensen & Schou) that landlords cannot pass a land value tax on to tenants.[2] Because Hilber's paper is a synthesis of the broader capitalization literature rather than a study of land value taxation specifically, it should be read as general supporting evidence for the capitalization mechanism, not as a direct empirical test of an LVT.
+The paper's lead finding, verified against the LSE full text (2026-07-11):[1]
+
+> "House price capitalization is more pronounced in locations with strict regulatory
+> and geographical supply constraints."[1]
+
+That conditional is the bridge between the messy *property-tax* pass-through record
+and the clean *land-tax* case that the wiki's
+[landlords-cannot-pass-LVT-to-tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
+claim rests on. Where supply cannot respond (constrained metros; and, in the limit,
+the fixed supply of land itself), a demand or tax shock is fully capitalized into the
+asset price and borne by the owner. Where supply *can* respond, the shock partly
+clears through quantity — new construction — so capitalization is incomplete and the
+price signal is muted. Hilber makes this graphically explicit: with perfectly elastic
+demand, or with inelastic and uniform land supply, "shifts in demand are ... fully
+capitalized everywhere"; only when supply elasticity varies across locations does the
+*extent* of capitalization vary.[1]
+
+## Core Findings
+
+- **Capitalization is supply-elasticity-conditional.** The paper's central
+  correction to the older literature (which often assumed uniform, near-full
+  capitalization) is that the response of house prices to a given fiscal shock is
+  governed by local supply constraints. Physically or regulatorily constrained
+  places show **greater** capitalization; elastic places show **less**, because the
+  shock is absorbed by construction instead.[1]
+- **The empirical backbone.** Hilber marshals studies including Hilber & Mayer
+  (2009) — more physically built-out (less developable) municipalities have less
+  elastic supply and a **greater** extent of capitalization — and Lutz (2015), who
+  finds that after a New Hampshire tax-burden shock, most of the state responded
+  through **new residential construction**, while the supply-constrained region near
+  Boston "cleared through price adjustment," which Lutz attributes to differing
+  supply elasticities.[1]
+- **Property-tax capitalization can approach full.** Reviewing the tax strand, Hilber
+  reports capitalization estimates for the local property tax such as Oates (1969) at
+  67%, Oates (1973) 93%, King (1977) 67%, and, addressing the identification
+  problems, [Palmon & Smith (1998)](/wiki/palmon-smith-capitalization/) with rates
+  "indistinguishable from full capitalization."[1]
+
+## Why it Supports the Claim — with the Honest Nuance
+
+**It supplies the theoretical/empirical bridge the claim page already invokes.** The
+[landlords-cannot-pass-LVT](/wiki/landlords-cannot-pass-lvt-to-tenants/) page argues
+that the *land* component is borne by owners because land supply is perfectly
+inelastic, and treats building-inclusive property-tax pass-through (e.g.
+[Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/)) as an upper bound
+whose own heterogeneity — more pass-through where supply is *more elastic* — points
+where the theory says a pure land tax sits. Hilber's survey is the systematic
+statement of exactly that mechanism: **the more inelastic the base, the more
+completely a tax capitalizes into the owner's asset price rather than shifting
+forward.** A perfectly inelastic base (land) is the limiting case of full owner
+incidence.
+
+**But it also *complicates* any blanket "capitalization is complete" claim, and the
+page is placed here honestly:**
+
+- **For elastic-supply housing, capitalization is partial** — the general
+  property-tax result is *not* uniform full capitalization, and Hilber's whole point
+  is that assuming so biases a large body of research. This is a caveat, not a
+  contradiction: it cuts against over-claiming from property-tax studies, while
+  *strengthening* the specifically land-based argument.
+- **It is a survey, not a primary estimate.** Its weight is in organizing and
+  reconciling the literature, not in producing a new quasi-experimental datapoint.
+- **It is about capitalization of many fiscal variables** (services, subsidies,
+  amenities), not a rental-pass-through study; the incidence reading is via the
+  asset-price channel.
+
+## Bears On
+
+- **Benefit (supports):** [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) — establishes the supply-elasticity conditional under which a tax is fully capitalized onto owners, and its limiting case (inelastic land) is the claim's core.
+- **Research:** [Palmon & Smith (1998)](/wiki/palmon-smith-capitalization/) — cited by Hilber as a full-capitalization result once identification is handled.
+- **Research:** [Löffler & Siegloch, German pass-through](/wiki/loffler-siegloch-german-pass-through/) — its supply-elasticity heterogeneity is the same mechanism Hilber formalizes.
+- **Research:** [Hilber & Vermeulen, supply constraints and English house prices](/wiki/hilber-vermeulen-england-supply/) — Hilber's own companion evidence that constrained supply capitalizes demand into prices.
 
 ## See Also
 
-- [Landlords Cannot Pass LVT to Tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) — the outcome claim this survey's findings support
-- [Tax Capitalization](/wiki/tax-capitalization/) — the underlying mechanism
-- [Oates (1969): Property Taxes and Local Public Spending](/wiki/oates-1969-capitalization/) — the founding empirical capitalization study Hilber's survey builds on
-- [Land Is a Big Deal (book)](/wiki/land-is-a-big-deal/) — the discovery source citing Hilber's synthesis
+- [Borge & Rattsø (2014), Norway capitalization](/wiki/borge-rattso-norway-capitalization/)
+- [Capozza, Green & Hendershott (1996), residential land prices](/wiki/capozza-green-hendershott-residential-land/)
+- [Oates (1969), the founding capitalization study](/wiki/oates-1969-capitalization/)
+- [Tax capitalization](/wiki/tax-capitalization/) · [Deadweight loss](/wiki/deadweight-loss/)
 
 ## Sources
 
-1. Christian A. L. Hilber (2017), "The Economic Implications of House Price
-   Capitalization: A Synthesis," *Real Estate Economics* 45(2), 301–339
-   — used for the paper's scope, method (literature synthesis), and its
-   general finding that local taxes and amenities capitalize into housing
-   prices. Free version: [LSE SERC Discussion Paper 0091](http://cep.lse.ac.uk/pubs/download/sercdp0091.pdf)
-   (circulated as "A Survey of an Emerging Literature") · [IDEAS/RePEc listing](https://ideas.repec.org/p/cep/sercdp/0091.html).
-2. Lars Doucet, *Land Is a Big Deal* (2022), Ch. 21 — used for the discovery
-   context: Hilber (2017) listed among 13+ studies supporting capitalization,
-   cited alongside the book's central Danish natural-experiment evidence. See
-   the wiki's [book page](/wiki/land-is-a-big-deal/).
-
-[CITATION NEEDED: direct quotation or specific numeric capitalization estimates from Hilber's synthesis — this stub relies on the paper's abstract, the SERC working-paper record, and Doucet's secondary citation rather than a full read of the published text.]
+1. Christian A. L. Hilber, "The Economic Implications of House Price Capitalization:
+   A Synthesis," *Real Estate Economics* 45(2), 2017, pp. 301–339. DOI
+   [10.1111/1540-6229.12129](https://doi.org/10.1111/1540-6229.12129). Free
+   author's accepted manuscript (LSE Research Online):
+   [researchonline.lse.ac.uk/id/eprint/62118](https://researchonline.lse.ac.uk/id/eprint/62118/1/Economic%20implications_2015.pdf)
+   — **fetched and read in full (2026-07-11)** — used for and verified against: the
+   abstract's three main insights, the supply-constraint conditional and Figure 1
+   panels, the Hilber & Mayer (2009) and Lutz (2015) evidence, the property-tax
+   capitalization estimates (Oates, King, Palmon & Smith), and the framing of
+   capitalization as supply-elasticity-dependent.

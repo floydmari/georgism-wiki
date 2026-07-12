@@ -92,4 +92,4 @@ long been treated as a standard first-hand source on the deportations phase of t
    [in-repo transcription](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/deportations-delirium.md);
    provenance: Harvard Library digitization, DRS object urn-3:FHCL:879814
    ([catalog record](https://curiosity.lib.harvard.edu/immigration-to-the-united-states-1789-1930/catalog/39-990012652290203941)).
-   Used for the book's structure, thesis, and the Storey Introduction quotation.
+   — used for the book's structure, thesis, and the Storey Introduction quotation.

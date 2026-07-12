@@ -80,8 +80,12 @@ classical tradition rather than outside it.
 
 1. John Stuart Mill (1848), *Principles of Political Economy*, Book V, ch. 2 — used for the
    "unearned increment" diagnosis and the "richer in their sleep" passage, and for the
-   future-increment tax proposal (A-claims; public domain).
-   [Full text](https://www.econlib.org/library/Mill/mlP.html)
+   future-increment tax proposal (A-claims; public domain). Ashley (7th) edition:
+   [Full text](https://www.econlib.org/library/Mill/mlP.html). **Complete text also held in
+   this repository:** [`sources/publicdomain/principles-of-political-economy.md`](../sources/publicdomain/principles-of-political-economy.md)
+   — the Laughlin abridged edition (Project Gutenberg #30107), in which this §5 passage sits
+   under Book V, Ch. I; the "grow richer... in their sleep" line and the future-increment
+   proposal verified verbatim there (2026-07-11).
 2. John Stuart Mill (1871), *Programme of the Land Tenure Reform Association, with an
    Explanatory Statement* — used for the LTRA's founding (1869), its programme (unearned-
    increment tax, cooperative agriculture, abolition of primogeniture/entail, reclaiming

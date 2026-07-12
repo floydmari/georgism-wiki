@@ -67,7 +67,7 @@ Adams proposes:
 
 > "By allowing some people to profit from land, we have privatized community wealth, which allows a few to live off the lives of the rest of us." — Martin Adams, Introduction
 
-> "The only other way people can make an income is by receiving what economists call economic rent. They do this not by adding wealth to society, but by extracting an income from society without providing wealth of corresponding value. For example, when people make money from selling land, they extract economic rent from society since they didn't contribute any human-made wealth to society." — Martin Adams, Ch. 1, The Production of Wealth
+> "The only other way people can make an income is by receiving what economists call economic rent. They do this not by adding wealth to society, but by extracting an income from society without providing wealth of corresponding value. […]" — Martin Adams, Ch. 1, The Production of Wealth. Selling land is his example: the seller extracts economic rent, having contributed no human-made wealth.
 
 > "Land ownership is also an entry monopoly: Land is naturally scarce for each location since its supply can't be increased. New land can't be created, so if people wish to become landowners, they have to buy land from someone who already owns it." — Martin Adams, Ch. 3, The Free Market
 
@@ -103,8 +103,8 @@ Adams proposes:
 
 ## Sources
 
-1. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015). — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Heavy). Published under Creative Commons.
-2. Fred Harrison, *The Power in the Land* (London: Shepheard-Walwyn, 1983) — source of the 18-year cycle model Adams presents (B-claim; empirical).
-3. Mason Gaffney and Fred Harrison, *The Corruption of Economics* (London: Shepheard-Walwyn, 1994) — source of the "intentional distortion" argument (C-claim; theoretical).
-4. Morris A. Davis and Jonathan Heathcote, "The Price and Quantity of Residential Land in the United States," *Journal of Monetary Economics* 54, no. 8 (2007): 2595–2620 — land value data (B-claim; empirical).
-5. Fred E. Foldvary, "The 18-Year Cycle in the U.S." (1997) — independent prediction of 2008 depression (B-claim; empirical/predictive).
+1. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015). — used for all claims on this page (primary source); verified against primary text 2026-07-07 (Scan Depth: Heavy). Published under Creative Commons.
+2. Fred Harrison, *The Power in the Land* (London: Shepheard-Walwyn, 1983) — used as the source of the 18-year cycle model Adams presents (B-claim; empirical).
+3. Mason Gaffney and Fred Harrison, *The Corruption of Economics* (London: Shepheard-Walwyn, 1994) — used as the source of the "intentional distortion" argument (C-claim; theoretical).
+4. Morris A. Davis and Jonathan Heathcote, "The Price and Quantity of Residential Land in the United States," *Journal of Monetary Economics* 54, no. 8 (2007): 2595–2620 — used for the land value data (B-claim; empirical).
+5. Fred E. Foldvary, "The 18-Year Cycle in the U.S." (1997) — used for the independent prediction of the 2008 depression (B-claim; empirical/predictive).

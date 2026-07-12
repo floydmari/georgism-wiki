@@ -291,6 +291,31 @@ Each reference gets a one-line "used for" note:
    — used for practical design issues and agricultural incidence.
 ```
 
+### Terminology (house style, ruled 2026-07-11)
+- **citizen's dividend** lowercase mid-sentence; "Citizen's Dividend" only in titles/headings. Link: `/wiki/citizens-dividend/`.
+- **single-tax** hyphenated as adjective ("the single-tax movement"), **single tax** unhyphenated as noun ("the single tax"), lowercase in both roles. Capitals only in true proper names (Single Tax Party, Fairhope Single Tax Corporation) and quoted titles.
+- **18-year cycle** generically; **18.6-year cycle** only where the cited source specifically claims 18.6.
+- Direct quotes, blockquotes, PD texts (`texts/`, `sources/publicdomain/`), and frontmatter slugs are never normalized.
+
+### Categorization (ruled 2026-07-11, after a cross-session divergence)
+- **Place-based empirical case studies** (natural experiments, policy evaluations tied to one
+  jurisdiction: victoria-svr-nav-comparison, california-irrigation-districts,
+  vancouver-empty-homes-tax, segu-vacancy-tax-france) live in **research/** with
+  `supports_outcomes` wiring — matching the established corpus convention.
+- **places/** holds jurisdiction *profiles* only (one page per place: pennsylvania, vancouver,
+  denmark), which link the case studies rather than absorb them.
+
+### Objections wiring (`bears_on_objections`, added 2026-07-11, Floyd's ask)
+- A research page that materially **strengthens or weakens an objection** declares it:
+  `bears_on_objections: [<objection-slug>, ...]` — the structural analogue of
+  `supports_outcomes` for the objections lane. Direction (supports vs undercuts the
+  objection) is carried in prose: the objection page's body must link the research page
+  (lint-enforced) in the section where it belongs — **The Objection/steelman** side if it
+  strengthens the objection, **The Response** side if it undercuts it.
+- Wire only material bearing — a passing mention is a See Also, not a `bears_on_objections`
+  entry. Every new research page is assessed against all three lanes at creation:
+  problems, benefits, objections.
+
 ---
 
 ## 7. Per-page revision output (the `[CITE]` deliverable)

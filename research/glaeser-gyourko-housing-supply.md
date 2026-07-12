@@ -10,6 +10,7 @@ stub: false
 excerpt: "Glaeser and Gyourko show US house prices in coastal/regulated metros far exceed minimum production cost, and attribute the gap to zoning, not land scarcity or LVT — a paper about regulation, not tax policy."
 last_reviewed: 2026-07-10
 supports_outcomes: [lvt-improves-housing-affordability, housing-unaffordability-is-a-land-problem]
+bears_on_objections: [planning-restrictions-cause-high-prices, land-capture-didnt-make-housing-cheap]
 ---
 
 ## Summary

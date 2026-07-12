@@ -14,6 +14,12 @@ supports_outcomes: []
 
 ## Overview
 
+The complete public-domain text of Mill's *Principles* — in the Laughlin abridged edition —
+is held in this repository: [**`sources/publicdomain/principles-of-political-economy.md`**](../sources/publicdomain/principles-of-political-economy.md)
+(transcribed from [Project Gutenberg #30107](https://www.gutenberg.org/ebooks/30107); see EDITORIAL §3b).
+Every Mill quotation on this page was re-verified verbatim against that hosted text on
+2026-07-11.
+
 John Stuart Mill's *Principles of Political Economy, with Some of Their Applications to
 Social Philosophy* (1848; revised through later editions, including the 1871 seventh
 edition) was the dominant English-language economics textbook of the mid-19th century.
@@ -113,7 +119,7 @@ understanding what is and is not distinctively "Georgist":
 | **What is taxed** | Only the *future* increase in rent, from a fixed forward point | The *whole* of land rent, present and future[9] |
 | **Existing owners** | Left undisturbed; no retroactive claim on rent already capitalized into purchase prices | No compensation for existing land value; George explicitly rejected the case for compensating landowners, drawing an analogy (in the compensation debates of his day) to the rejected case for compensating slaveholders at emancipation[10] |
 | **Scope of the reform** | One targeted tax among many, addressing a specific injustice (passive, effortless enrichment) | A "single tax" intended to *replace* all other taxation[9] |
-| **Institutional vehicle** | The Land Tenure Reform Association (1870–71), a reform pressure group | The Single Tax movement, a mass political and electoral movement (e.g., George's 1886 New York mayoral campaign) |
+| **Institutional vehicle** | The Land Tenure Reform Association (1870–71), a reform pressure group | The single-tax movement, a mass political and electoral movement (e.g., George's 1886 New York mayoral campaign) |
 
 The practical hinge is compensation. Mill's prospective-only design is, in effect, a
 compensation rule: by taxing only increments not yet capitalized into any purchase price,
@@ -170,14 +176,23 @@ descendant of this objection.
 
 1. John Stuart Mill, *Principles of Political Economy*, 1848 (rev. through the 7th ed.,
    1871), Book V, Ch. II, §5 ("The increase of the rent of land from natural causes a fit
-   subject of peculiar Taxation"). [Full text (Project Gutenberg #30107, Laughlin
-   ed.)](https://www.gutenberg.org/ebooks/30107) — fetched and read (2026-07-07); "grow
-   richer, as it were, in their sleep, without working, risking, or economizing" verified
-   verbatim in §5. (Correction 2026-07-10: Gutenberg #30107 is the abridged edition edited
-   by J. Laurence Laughlin, not the Ashley edition; an earlier draft of this note mislabeled
-   it. The Ashley 7th edition, with paragraph anchors, is the [econlib
+   subject of peculiar Taxation"). **Complete text held in this repository:**
+   [`sources/publicdomain/principles-of-political-economy.md`](../sources/publicdomain/principles-of-political-economy.md)
+   (the Laughlin abridged edition, [Project Gutenberg #30107](https://www.gutenberg.org/ebooks/30107),
+   fetched 2026-07-11, Gutenberg boilerplate stripped top and bottom, no modernization —
+   EDITORIAL §3b). "Grow richer, as it were, in their sleep, without working, risking, or
+   economizing" verified verbatim in §5 (re-verified against the hosted text 2026-07-11;
+   first checked 2026-07-07). (Correction 2026-07-10: Gutenberg #30107 is the abridged
+   edition edited by J. Laurence Laughlin, not the Ashley edition; an earlier draft of this
+   note mislabeled it. The Ashley 7th edition, with paragraph anchors, is the [econlib
    text](https://www.econlib.org/library/Mill/mlP.html) given as this page's source_url.
-   The §5 quotations above appear verbatim in both.)
+   The §5 quotations above appear verbatim in both. Note on structure: because Laughlin
+   abridged and re-ordered the text, this §5 sits under Book V, **Chapter I** ("On the
+   General Principles of Taxation") in the hosted Laughlin edition, whereas it is Book V,
+   **Chapter II**, §5 in the Ashley edition cited throughout this page; and Mill's Irish
+   cottier chapters — Book II, Chs. IX–X in note 7 below — are cut from the Laughlin
+   abridgement entirely, so those two quotations are verified against the Ashley/econlib text
+   only, not the in-repo file.)
 2. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On
    Rent" — used for the rent theory Mill inherited (C-claim); see also
    [David Ricardo](/wiki/david-ricardo/) and [Economic Rent](/wiki/economic-rent/).

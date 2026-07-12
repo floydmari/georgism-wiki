@@ -192,3 +192,47 @@ Everything in the NOW lanes above completed or advanced this evening; verified s
   resource/carbon FINDs (geoism table has 5 evidenced rent domains); TOP-16 16/16; all 10
   Hermes w1 discovery reports triaged and consumed.
 - **SPN Wayback sweep script** added (scripts/spn_sweep.sh — link-rot insurance).
+
+## Addendum — loop session 2026-07-11 (waves 1–5 on claude/wiki-loop-2026-07-11)
+
+**Done (see wave commits 75b4503 / 620c8e5 / 46a806b / ed8f40b + this one):** taxing-tech-rents
+synthesis; finance-rents + IP-rents lanes CLOSED (WS-GEOISM complete); landlords page 10/5;
+Doucet Parts 1&3 de-referenced + shortlist ingested; GSMS casino-dividend primary; symmetry-
+decrement objection steelman; BC/Vancouver scope split + vancouver-empty-homes-tax (EHT 3%,
+never 5% — the 5% was reversed May 2023 pre-levy); Feldstein-1977/Tideman-2002 incidence pair;
+Wertzuwachssteuer + Kiautschou→Sun lineage (Silagi-sourced, caveated); site-value GE cluster;
+mohammad-rail 7 markers resolved via the Imperial PhD-thesis route; terminology house style
+ruled (EDITORIAL §6). **PD program:** Garden Cities (43.7k w), Progress & Poverty (177k w,
+Memorial Ed. 1898), **Wealth of Nations (381.9k w, Georgist-lens book page)** all in
+sources/publicdomain/.
+
+**New queue items:**
+- [ ] [READ&MINE] tier:T2 status:todo — DEEPEN-SCAN Progress & Poverty: mine the full text
+      systematically into argument pages (Scan Depth currently Medium; target Heavy).
+- [ ] [READ&MINE] tier:T2 status:todo — DEEPEN-SCAN Wealth of Nations beyond Book V Ch. II /
+      Book I (Light outside the mined chapters); candidate: Smith on primogeniture/entails
+      (Book III) for the land-concentration pages.
+- [ ] [SYNTHESIZE] tier:T3 status:todo — concepts/canons-of-taxation stub (two linking pages
+      now exist: books/wealth-of-nations, concepts/land-value-tax).
+- [ ] [FIND] tier:T2 status:todo — Doucet Part-1 minors still unregistered: Steven Cord ~24%
+      estimate, Ebeling federal-lands figure, PLACES Lab ML estimate.
+- [ ] [VERIFY] tier:T1 status:recurring — remaining channels: needs-book-copy 6 (incl. Daniel
+      Francis L.D. Taylor bio), Foldvary-reply Springer paywall (needs institutional access),
+      natural-common-wealth independent assessment (genuine forage).
+- SPN sweep: retry pass running (first pass 163 archived / 205 retryable overload fails).
+- [ ] [READ&MINE] tier:T2 status:todo — Hoyt 1933 One Hundred Years of Land Values in Chicago:
+      PD CONFIRMED 2026-07-11 (no CCE renewal 1959-62; IA scan open) — now eligible for the
+      sources/publicdomain/ channel (xxxii+519pp; the 18-year cycle chapter is the priority mine).
+
+## Steady state — end of loop session 2026-07-11 (16 waves)
+All workable queues cleared. What remains needs inputs beyond this environment:
+- [ ] [VERIFY] tier:Floyd — book-copy channel (~10 items): Harrison Boom Bust Ch.7 / Ricardo's
+      Law Ch.11 / Power in the Land pagination, Reid Secondary Banking Crisis, Cannon Land
+      Boomers, Jackson Crabgrass Frontier, Samuelson Economics editions, Daniel Francis L.D.
+      biography, Barnes/Widerquist-Howard book texts (see hermes-workorder + queue).
+- [ ] [VERIFY] tier:Floyd — institutional access: Foldvary RAE 27(4) reply full text;
+      Cunningham JUE regression tables; Light JUH 2010.
+- [ ] [VERIFY] status:calendar-gated — 2026-forecast markers (year-end); Duggan governor race
+      (Nov 2026) for the Detroit LVT revival; Oxford Review cycle piece.
+- [ ] Publishing: merge claude/wiki-loop-2026-07-11 (carries BOTH campaigns, 770 pages,
+      lint 0/0) then Ghost-sync; wiki-problems/wiki-benefits tags exist on Ghost already.

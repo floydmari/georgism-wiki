@@ -23,7 +23,7 @@ Fred Harrison's *Ricardo's Law* (2006) argues a closely related point: existing 
 
 ## Relationship to Deadweight Loss
 
-ATCOR is the stronger version of the standard efficiency argument for LVT. The standard argument holds that LVT has zero deadweight loss because the supply of land is inelastic. ATCOR adds that all other taxes create deadweight loss and that this loss ultimately falls on land rents — making the case for LVT not just efficiency-neutral but actively superior to all alternatives.
+ATCOR is the stronger version of the standard efficiency argument for LVT. The standard argument holds that LVT has zero deadweight loss because the supply of land is inelastic. ATCOR adds that all other taxes create deadweight loss and that this loss ultimately falls on land rents — making the case for LVT not just efficiency-neutral but actively superior to all alternatives. The efficiency face of this claim has been quantified independently of Gaffney: [Tideman, Akobundu, Johns & Wutthicharoen (2002)](/wiki/tideman-avoidable-excess-burden/) build a dynamic general-equilibrium model of the U.S. economy and estimate the avoidable excess burden from shifting five broad-based taxes onto land — a net welfare gain on the order of 14% of net domestic product in 2002, rising over time as the untaxed economy grows. Their companion proposition, that the deadweight loss itself comes out of rent, is developed on the [EBCOR](/wiki/ebcor/) page.
 
 ## Gaffney's "Negative Shifting" — the ATCOR Precursor
 
@@ -31,7 +31,7 @@ The term "ATCOR" was coined by Mason Gaffney in 2005, not in his 1994 *The Corru
 
 ## Doucet's Modern Exposition
 
-Lars Doucet provides the most accessible modern explanation of ATCOR in *Land is a Big Deal* (Ch. 15): any reduction in taxes on income and capital causes a proportionate increase in land rental values, because workers and investors bid up land prices with their after-tax gains. If ATCOR holds, a Single Tax policy is self-financing — abolishing income and capital taxes shifts revenue to land rents, which 100% LVT then captures. Doucet cautions that ATCOR remains a hypothesis requiring empirical testing, not a proven theorem (*Land is a Big Deal*, Ch. 15). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+Lars Doucet provides the most accessible modern explanation of ATCOR in *Land is a Big Deal* (Ch. 15): any reduction in taxes on income and capital causes a proportionate increase in land rental values, because workers and investors bid up land prices with their after-tax gains. If ATCOR holds, a single-tax policy is self-financing — abolishing income and capital taxes shifts revenue to land rents, which 100% LVT then captures. Doucet cautions that ATCOR remains a hypothesis requiring empirical testing, not a proven theorem (*Land is a Big Deal*, Ch. 15). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 
 ## Book Findings
 
@@ -43,7 +43,7 @@ Burgess's formulation of the single-tax argument — that abolishing taxation an
 
 ## Caveats
 
-ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not all taxes are fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney and Harrison argue the mechanism operates over the medium-to-long term.
+ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not all taxes are fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney and Harrison argue the mechanism operates over the medium-to-long term. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
 
 ## See Also
 
@@ -61,6 +61,8 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 
 - [Economic Rent](/wiki/economic-rent/)
 - [Public Revenue Without Taxation](/wiki/public-revenue-without-taxation/) — Burgess on ATCOR from the Physiocratic tradition
+- [Tideman et al. (2002), The Avoidable Excess Burden of Broad-Based U.S. Taxes](/wiki/tideman-avoidable-excess-burden/) — independent CGE quantification of the efficiency gain
+- [Feldstein (1977), The Surprising Incidence of a Tax on Pure Rent](/wiki/feldstein-incidence-pure-rent/) — the mainstream challenge to the residual-incidence premise
 
 ## Sources
 

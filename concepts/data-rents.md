@@ -83,6 +83,10 @@ instruments are largely **untested**:
   ([ACE](/wiki/allowance-for-corporate-equity/) / [cash-flow tax](/wiki/cash-flow-tax/))
   for the profit that survives.
 
+These instruments are compared and graded head-to-head — on whether each actually reaches
+platform rent and whether the burden stays on the platform — at
+[Taxing Tech Rents: an Instrument Comparison](/wiki/taxing-tech-rents/).
+
 ## Honest Limits
 
 This is the frontier, not the clean case. The rent share of tech profit is genuinely

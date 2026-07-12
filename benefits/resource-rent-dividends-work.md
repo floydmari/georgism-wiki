@@ -28,6 +28,8 @@ Alaska is the closest large-scale, long-running proof of concept for the Georgis
 
 ## Caveats
 
+Alaska is not the only long-running per-capita dividend from a co-owned asset. The [Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) documents the Eastern Band of Cherokee Indians distributing an equal per-capita share of casino profits to every tribal member every six months since 1996 — an unconditional common-asset dividend that, like Alaska's, ran durably and showed no detectable labor-supply withdrawal (Akee et al. 2010), while also improving recipients' children's long-run outcomes. (The underlying rent is gaming/monopoly rent rather than resource rent, but the distributive mechanism is the same.)
+
 Not every resource-rent windfall behaves like Alaska's transparent, per-capita dividend. [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that in Colombia, municipalities receiving large resource-rent transfers show *weaker* local tax effort and accountability — a local "resource curse" that cuts the other way. The lesson is that *how* rent is captured and distributed (transparent, equal, direct dividend vs. opaque government transfer) matters as much as the fact of capture itself.
 
 ## The Evidence in Detail
@@ -66,6 +68,7 @@ Barnes's cautionary tale (Ch. 8) examines carbon capping as implemented through 
 ## See Also
 
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — the distributional evidence for the same three studies, with counter-evidence, kept distinct from the workability claim here
+- [The Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) — a second durable per-capita dividend from a co-owned asset, with causal outcome evidence
 
 - [Narrative: A Dividend from Common Wealth](/wiki/citizens-dividend-narrative/)
 

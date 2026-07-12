@@ -84,7 +84,7 @@ The book does not engage with Georgist economic theory. Its relevance to the Geo
 
 > "African American farmers stubbornly refused to go quietly from their farms and eloquently articulated and bravely resisted the discrimination that threatened them. They ran for county committee seats, confronted county executives, applied for loans, and brought suits to challenge discrimination." — Pete Daniel, Introduction
 
-> "The civil rights and equal opportunity laws of the mid-1960s prompted USDA bureaucrats to embrace equal rights rhetorically even as they intensified discrimination. This passive nullification, voicing agreement with equal rights while continuing or intensifying discrimination, did not rely on antebellum intellectual arguments or confrontations but instead thrived silently in the offices of biased employees." — Pete Daniel, Introduction
+> "The civil rights and equal opportunity laws of the mid-1960s prompted USDA bureaucrats to embrace equal rights rhetorically even as they intensified discrimination. […]" — Pete Daniel, Introduction. This passive nullification, Daniel continues, relied not on antebellum intellectual arguments or confrontations but thrived silently in the offices of biased employees.
 
 > "From its inception in 1862, the USDA was run by white men and, with the exception of the Negro Extension Service, excluded African Americans from decision-making positions." — Pete Daniel, Introduction
 
@@ -111,6 +111,6 @@ The book does not engage with Georgist economic theory. Its relevance to the Geo
 
 ## Sources
 
-1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). ISBN 978-1-4696-0201-1. — primary text
-2. U.S. Commission on Civil Rights, *Equal Opportunity in Farm Programs: An Appraisal of Services Rendered by Agencies of the United States Department of Agriculture* (March 1965) — key source document cited throughout (A-claim; factual).
-3. *Pigford v. Glickman*, 1999 decision by Judge Paul L. Friedman — cited for the class-action discrimination finding (A-claim; factual).
+1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). ISBN 978-1-4696-0201-1. — used for all claims on this page (primary text)
+2. U.S. Commission on Civil Rights, *Equal Opportunity in Farm Programs: An Appraisal of Services Rendered by Agencies of the United States Department of Agriculture* (March 1965) — used as the key source document Daniel cites throughout (A-claim; factual).
+3. *Pigford v. Glickman*, 1999 decision by Judge Paul L. Friedman — used for the class-action discrimination finding (A-claim; factual).

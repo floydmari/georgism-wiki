@@ -46,6 +46,8 @@ Daly's critique of the standard neoclassical paradigm — which treats nature as
 - [Narrative: Green Georgism — Charging for the Earth](/wiki/ecological-rent/) — the persuasive deployment of this concept
 - [Who Owns the Sky? (Barnes)](/wiki/barnes-sky-trust/) — the flagship policy design (Sky Trust / cap-and-dividend)
 - [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — steady-state economics and throughput limits
+- [The EU ETS reduced CO2 emissions despite low prices (Bayer & Aklin)](/wiki/bayer-aklin-eu-ets/) — empirical evidence that charging for the atmospheric commons curbs its overuse
+- [Carbon Taxes and CO2 Emissions: Sweden (Andersson)](/wiki/andersson-sweden-carbon-tax/) — the cleanest causal carbon-tax case
 
 ## Sources
 

@@ -8,7 +8,7 @@ tier: Important
 source_url: https://archive.org/details/onehundredyearso00hoytrich
 stub: false
 excerpt: "Homer Hoyt's 1933 University of Chicago dissertation traces Chicago land values from 1830 to 1933, documenting a recurring boom-bust rhythm in land prices — the founding empirical study behind the Georgist 18-year land cycle."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-11
 supports_outcomes: [lvt-dampens-land-speculation]
 ---
 
@@ -81,6 +81,116 @@ figures (maps and charts) and 103 tables.[1] The *Journal of American History*'s
 of the book (cited by title/venue in bibliographic listings) treated it as a major work of
 urban economic history for its period.[2][9] `[CITATION NEEDED: a directly read or quoted
 excerpt of the 1934 Journal of American History review, beyond its bibliographic listing]`
+
+## From the Text (verbatim, Chapter VII: *The Chicago Real Estate Cycle*)
+
+The full 1933 first edition is now mirrored in this repository at
+[`sources/publicdomain/hoyt-100-years-chicago-land-values.md`](/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
+(public domain; raw Internet Archive OCR, mechanically cleaned — see that file's provenance).
+The passages below are the primary-source basis of the wiki's land-cycle account, pinned to the
+page numbers shown in the scan's running heads and checked verbatim against the page images
+during ingest (2026-07-11). Chapter VII is the "long-cycle" summary chapter the 18-year-cycle
+literature draws on; it distils the five booms narrated separately in Part I (chapters I–V).
+
+**1. Definition of the cycle (Ch. VII §B, p. 371).** Hoyt's own definition of the mechanism —
+a chain of semi-independent forces firing in sequence:
+
+> The Chicago real estate cycle is a term used here to describe the composite effect of the
+> cyclical movements of a series of forces that are to a certain degree independent and yet
+> which communicate impulses to each other in a time sequence, so that when the initial or
+> primary factor appears it tends to set the others in motion in a definite order.
+
+**2. The five great cycles as "tidal waves" (Ch. VII §B, p. 372).** Hoyt's summary of what
+the five booms had in common — the single most-quoted description of the recurring pattern:
+
+> [T]he five major cycles of Chicago real estate, which were like tidal waves in magnitude,
+> have registered their effect in striking fashion. All five movements, Figure 90 shows, were
+> characterized on their upswing by rapid increases in population, feverish building operations,
+> and a hectic land boom in which land values increased from twofold to tenfold in a few years
+> and on their downswing by widespread declines in rents and foreclosures on a large scale which
+> reduced land values 50 per cent or more from the peak levels and which brought building
+> operations almost to a standstill.
+
+**3. The peak years of the subdivision boom (Ch. VII §D, step 10, p. 391).** The canonical
+peak-year list, in Hoyt's own words:
+
+> Such is the nature of the subdivision boom which has occurred at the most hectic phase of all
+> the five major real estate cycles in Chicago, as Figure 94 on page 389 indicates. In 1836, in
+> 1856, in 1872, in 1890, and in 1925 the same story was repeated with some variations in the
+> mode of transportation to the subdivision and of communication with the prospect but with
+> little change in the nature of the sales arguments.
+
+**4. The last of the twenty steps: no automatic recurrence (Ch. VII §D, step 20, p. 403).** The
+sequence of events (steps 1–20) runs from p. 373 to p. 403, and Hoyt closes it by explicitly
+denying that the cycle is self-perpetuating:
+
+> 20. Ready for another boom which does not come automatically.—From this account it might be
+> inferred that the real estate cycle automatically repeats itself. Such is by no means the
+> case.... the recurrence of land booms in Chicago in the future will depend on the expansion
+> of industrial opportunities which attract a sudden accession of population.
+
+**5. No fixed period between booms (Ch. VII §G.2, p. 417).** The passage that most directly
+undercuts any reading of Hoyt as claiming a fixed ~18-year cycle:
+
+> The exceptional speculative movements in land, commodities, and stocks are separated by long
+> intervals of time, and there is no definite period of years between one boom and the next.
+> Chicago land booms have occurred less frequently since 1873 than before, until thirty-five
+> years elapsed from the hectic land market of 1890 to that of 1925.
+
+(Immediately above this, on the same page, Hoyt notes there had been "only five land booms in
+Chicago" between 1830 and 1933. The earlier hint of periodicity the cycle literature seized on
+is at p. 219, not p. 217 (see the correction below): "Although seventeen years had passed since
+the peak of 1890, there was no general boom in 1907, as there has been at seventeen-year
+intervals prior to 1890." Hoyt raises the ~17-year interval only to record that it *broke*.)
+
+**Bonus — Hoyt's own forecast that the cycle would fade (Ch. VII §H, "Real Estate Cycles May
+Be a Passing Phase," p. 423).** The 1933 book anticipates its own obsolescence, the seed of
+Hoyt's later (1968) disavowal:
+
+> [I]f rapid rises or declines in land values become of rare occurrence in older or more stable
+> societies, the sequence of events just described may in the future be of interest only to
+> historians delving in the habits and customs of "early machine age culture in the United
+> States," and the knowledge of the mode of behavior of forces in the real estate cycle will
+> have no value in forecasting the trend of future events.... one must live long and be gifted
+> with extraordinary patience to wait for an opportunity that knocks on the door not oftener than
+> once every twenty or thirty years.
+
+### Verification against the primary text (2026-07-11)
+
+A full-text ingest of the DJVU OCR (with verbatim checks against the page images) confirms the
+substantive claims on this page. **Verified:** the cycle definition (p. 371); the peak-year list
+1836/1856/1872/1890/1925 in Hoyt's words (p. 391); "no definite period of years between one boom
+and the next" (p. 417); "only five land booms in Chicago" 1830–1933 (p. 417); the five-chapter
+Part I structure and boundary dates (TOC/pp. 3–232); the 103-figure/103-table scale (highest is
+Fig. 103 and Table CIII); the headline figures of 211 square miles and land value rising to
+"five billion dollars" (p. 3); the "each of the five chapters in the first part of this work
+deals with a complete cycle" statement (p. 5); the twenty-step sequence (present in full,
+pp. 373–403); Table LXVII giving average phase intervals *within* a cycle, not a fixed period
+*between* booms (p. 409/410); and the racial/nationality ranking (pp. 314–316).
+
+**FLAGGED — mismatches found, not silently corrected in the older text above:**
+
+- **Step-20 / sequence page range.** The "Core Argument" section above cites the twenty-step
+  sequence as "pp. 373–391" and step 20 ("Ready for another boom which does not come
+  automatically") as **p. 391**. Against the scan, step 20 is on **p. 403**, and the sequence
+  runs pp. 373–**403**. Page 391 is where the subdivision peak-year passage (quote 3 above) sits,
+  not step 20. The "(p. 391)" cite for step 20 should read **p. 403** and the range **373–403**.
+- **Seventeen-year-interval passage.** The "Nuances and Limits" section cites Hoyt's
+  "at seventeen-year intervals prior to 1890" / "no general boom in 1907" remark as **p. 217**.
+  In the scan it is on **p. 219** (running head "A NEW ERA THAT FOLLOWED A WORLD WAR 219"). The
+  quotation itself is verbatim-accurate; only the page number is off by two.
+- **Mis-attributed section title.** The "Core Argument" section attributes the p. 5 quote to a
+  section headed *"The Five Major Real Estate Cycles of Chicago"* (p. 5). No such section heading
+  exists; the quote sits inside §A, "Introduction: Objectives of the Study," and the phrase
+  "five major real estate cycles" appears only in body text (pp. 374, 391). The p. 5 quote and
+  page are correct; the parenthetical section title is not.
+- **"behaviour" vs. "behavior."** The "Nuances and Limits" section quotes Hoyt's passing-phase
+  line as "mode of behaviour"; the original American spelling is "behavior" (p. 423). Trivial,
+  but it is inside quotation marks.
+- **Population figure (not an error — OCR note).** The DJVU OCR renders the 1930 population as
+  "3,376,436" (p. 3, fn. 1); the figure stated on this page and elsewhere, **3,376,438**, is the
+  correct 1930 census count and matches Hoyt's evident intent — the OCR simply garbled the final
+  digit. No change needed.
 
 ## Relation to the Georgist Case
 
@@ -157,7 +267,7 @@ outcome claim.**
   predicted and later affirmed the pattern's demise (1968–78); the persistence of an ~18-year
   rhythm is the claim of Harrison, Anderson, and successors, maintained *contra* late Hoyt.
 - **Hoyt was not a Georgist and later work is in tension with land-value-capture-friendly
-  planning.** As FHA principal housing economist from 1934, Hoyt's sector model of urban
+  planning.** As FHA principal housing economist from 1934, Hoyt's [sector model](/wiki/sector-model/) of urban
   land use is documented by later urban historians as having contributed to
   racially discriminatory mortgage underwriting practices (redlining) in FHA appraisal
   guidance — a biographical fact that has no bearing on the accuracy of his 1933
@@ -208,7 +318,11 @@ outcome claim.**
 1. Homer Hoyt, *One Hundred Years of Land Values in Chicago: The Relationship of the
    Growth of Chicago to the Rise in Its Land Values, 1830–1933*, University of Chicago
    Press, 1933. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich)
-   — the primary source for this page; used throughout.
+   — the primary source for this page; used throughout. A mechanically-cleaned full-text mirror
+   of the 1933 first edition is now held in this repository at
+   [`sources/publicdomain/hoyt-100-years-chicago-land-values.md`](/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
+   (public domain — 1933 copyright not renewed; see EDITORIAL §3b and the "From the Text" section
+   above for pinned verbatim passages).
 2. "One Hundred Years of Land Values in Chicago...," review notice, *Journal of American
    History* 21(1), 1934, p. 108. [Oxford Academic abstract](https://academic.oup.com/jah/article-abstract/21/1/108/831979)
    — used for publication details (pagination, price) and confirmation the book was
@@ -254,6 +368,24 @@ outcome claim.**
     1978"; and for Harrison's rebuttal programme ("Three sorts of evidence have been collated
     to show that Hoyt is wrong"). Also cited on the
     [land-speculation-causes-cycles](/wiki/land-speculation-causes-cycles/) narrative page.
+
+*Copyright / public-domain note (2026-07-11): A US copyright-renewal check confirms this
+1933 book is in the **public domain**. No renewal registration for Homer Hoyt or for the
+title "One Hundred Years of Land Values in Chicago" appears in the Catalog of Copyright
+Entries book-renewal records for 1959–1962 — the full valid renewal window for a 1933 work
+(searched the machine-readable CCE renewal transcriptions, Project Gutenberg ebooks
+#11819–#11826). Under the 1909 Act a work whose 28-year term lapsed without a renewal filed
+in its 28th year fell into the public domain; for a 1933 publication that occurred in 1961.
+This is corroborated by the Internet Archive, which hosts the full scan
+[`onehundredyearso00hoytrich`](https://archive.org/details/onehundredyearso00hoytrich)
+**openly** — a direct full-text download, not controlled-digital-lending — in its
+`americana`/`prelinger_library` collections, with item metadata flagging
+`possible-copyright-status: NOT_IN_COPYRIGHT`. (Stanford's Copyright Renewal Database and
+HathiTrust's catalogue were both unreachable via automated fetch — anti-bot challenges — so
+the verdict rests on the primary CCE renewal records plus IA's open hosting, which is the
+stronger evidence in any case.) The book being PD, it would be eligible for full mirroring
+to `sources/publicdomain/`; it is deferred only for its length (xxxii + 519 pp.), not for
+any rights reason.*
 
 *Verification note (2026-07): The key empirical claims on this page have been checked
 directly against the Internet Archive full text (DJVU OCR) of Hoyt's 1933 book. Confirmed

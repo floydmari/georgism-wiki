@@ -65,7 +65,7 @@ Sovereign wealth funds demonstrate several principles central to Georgist resour
 
 - **Resource rents can be captured at scale.** Both Alaska and Norway capture substantial shares of oil-resource rents for the public rather than allowing them to accrue as private profit.
 - **A fund can convert depleting rents into perpetual revenue.** By investing rather than immediately spending resource revenues, sovereign wealth funds address intergenerational equity — a practical application of the principle behind the [Hartwick rule](/wiki/hartwick-rule/).
-- **The distribution mechanism matters.** Alaska's per-capita approach provides direct, transparent income support and has proven politically durable; Norway's budget-based approach provides public services and fiscal stability. The Georgist case for [citizens' dividends](/wiki/citizens-dividend/) emphasizes the transparency and political durability of direct distribution.
+- **The distribution mechanism matters.** Alaska's per-capita approach provides direct, transparent income support and has proven politically durable; Norway's budget-based approach provides public services and fiscal stability. The Georgist case for [citizen's dividends](/wiki/citizens-dividend/) emphasizes the transparency and political durability of direct distribution.
 - **The concept extends to land rents.** The Common Wealth Fund proposal illustrates how the sovereign wealth fund mechanism could be applied to [land value tax](/wiki/land-value-tax/) revenue, extending resource-rent capture to the non-depleting rent of land itself.
 
 ## Book Findings

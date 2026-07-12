@@ -41,7 +41,7 @@ Eric F. Goldman's *Rendezvous with Destiny* (1952) places George within the broa
 
 ### Bryson: Rehabilitation of George as Economist
 
-Phillip Bryson's *The Economics of Henry George* (2011) provides the most comprehensive modern academic rehabilitation of George as an economist. Bryson argues George has been progressively "rehabilitated" by the economics profession: "For at least half a century, George was terribly popular with the general public, but rather viciously attacked by academics. It would take time for history to sort out the mess. George was actually very competent and understood classical economics very well, so it was incumbent on history to recognize the value of his work. It ultimately did so and continues to do so" (Bryson 2011, Ch. 1). Schumpeter assessed George as "a very orthodox economist and extremely conservative as to methods," whose methods were "those of the English classics" (Bryson 2011, p. 5). See [Bryson's book page](/wiki/economics-of-henry-george/). (D-claim; interpretive)
+Phillip Bryson's *The Economics of Henry George* (2011) provides the most comprehensive modern academic rehabilitation of George as an economist. Bryson argues George has been progressively "rehabilitated" by the economics profession: "For at least half a century, George was terribly popular with the general public, but rather viciously attacked by academics. […] George was actually very competent and understood classical economics very well, so it was incumbent on history to recognize the value of his work" (Bryson 2011, Ch. 1) — recognition that, Bryson adds, history ultimately delivered and continues to deliver. Schumpeter assessed George as "a very orthodox economist and extremely conservative as to methods," whose methods were "those of the English classics" (Bryson 2011, p. 5). See [Bryson's book page](/wiki/economics-of-henry-george/). (D-claim; interpretive)
 
 ## See Also
 
@@ -73,7 +73,7 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [full text](https://www.henrygeorge.org/pcontents.htm)
+1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [in-repo full text](../sources/publicdomain/progress-and-poverty.md) (1898 Memorial Edition, from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) · [full text at henrygeorge.org](https://www.henrygeorge.org/pcontents.htm)
 2. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic details (custodial source).
 4. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for biographical details, the California formation, and the triple legacy (D-claims). [Book page](/wiki/barker-henry-george-biography/)

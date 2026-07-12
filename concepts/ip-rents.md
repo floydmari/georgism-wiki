@@ -39,8 +39,9 @@ What tips IP back toward the "rent" reading is that the empirical case for paten
   economic-history work finds that between 1851 and 1915, **about 89% of British and 85%
   of American innovations were never patented**, and that where patent rights were too
   broad or strong they appear to have *discouraged* follow-on innovation.[1]
-- **The strong critique.** Michele Boldrin and David Levine's *Against Intellectual
-  Monopoly* (2008) argues that patents and copyrights are not necessary for innovation
+- **The strong critique.** Michele Boldrin and David Levine's
+  [*Against Intellectual Monopoly*](/wiki/boldrin-levine-against-intellectual-monopoly/)
+  (2008) argues that patents and copyrights are not necessary for innovation
   and that IP regimes have, at best, no measurable effect on innovation rates and in some
   cases a negative one — competition and first-mover advantage already reward invention,
   while the monopoly adds deadweight loss, litigation, and rent-seeking.[2] (Its strong,
@@ -54,7 +55,7 @@ IP income is closer to pure rent than to a required incentive — the Geoist rea
 The Geoist move is not to abolish the reward but to **capture or convert the rent while
 preserving the incentive** — the IP analogue of a rent tax:
 
-- **Prizes and patent buyouts.** Michael Kremer's "Patent Buyouts" (1998) proposes that
+- **[Prizes and patent buyouts](/wiki/prizes-vs-patents/).** Michael Kremer's "Patent Buyouts" (1998) proposes that
   the government estimate a patent's social value (via auction), pay the inventor that
   value, and place the invention in the **public domain** — eliminating the monopoly
   deadweight loss while keeping (indeed sharpening) the incentive to invent. He notes the

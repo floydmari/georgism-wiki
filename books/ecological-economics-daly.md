@@ -95,13 +95,13 @@ Daly's framework of throughput limits and the economy as subsystem connects to G
 
 > "That which seems to be wealth may in verity be only the gilded index of far-reaching ruin." — John Ruskin, Unto This Last (1862), quoted by Herman E. Daly, Ch. 2
 
-> "The economy is not at the expense of anything else—there is no opportunity cost to growth. On the contrary, growth enlarges the total to be shared by the different sectors or subsystems. Growth does not increase the scarcity of anything; rather it diminishes the scarcity of everything! How can one possibly oppose growth? Growth for ever, or a steady state at optimal scale? Each is logical within its own pre-analytic vision, and absurd from the viewpoint of the other." — Herman E. Daly, Ch. 2, Uneconomic Growth in Two Paradigms
+> "The economy is not at the expense of anything else—there is no opportunity cost to growth. […] Growth for ever, or a steady state at optimal scale? Each is logical within its own pre-analytic vision, and absurd from the viewpoint of the other." — Herman E. Daly, Ch. 2, Uneconomic Growth in Two Paradigms. In the omitted passage, Daly voices the growth paradigm's view that growth enlarges the total to be shared and diminishes the scarcity of everything, asking how one could possibly oppose it.
 
-> "The paradigm or pre-analytic vision of standard neoclassical economics is that the economy is the total system, and that nature, to the extent that it is considered at all, is a sector of the economy. Nature is not seen as an envelope containing, provisioning and sustaining the economy, but as one sector of the economy similar to other sectors." — Herman E. Daly, Ch. 3, Uneconomic Growth in Two Paradigms
+> "The paradigm or pre-analytic vision of standard neoclassical economics is that the economy is the total system, and that nature, to the extent that it is considered at all, is a sector of the economy. […]" — Herman E. Daly, Ch. 3, Uneconomic Growth in Two Paradigms. Daly adds that nature is thereby seen not as an envelope that contains, provisions, and sustains the economy, but as just one sector among others.
 
 > "The law of increasing marginal costs tells us that we first make use of the most productive and accessible factors of production—the most fertile land, the most concentrated and available mineral deposits, the best workers—and only use the less productive factors as growth makes it necessary." — Herman E. Daly, Ch. 1, Uneconomic Growth in Theory
 
-> "There are costs of depletion, pollution, disruption of ecological life-support services, sacrifice of leisure time, disutility of some kinds of labour, destruction of community in the interests of capital mobility, takeover of habitat of other species, and running down a critical part of the inheritance of future generations. We not only fail to measure these costs, but frequently we implicitly count them as benefits." — Herman E. Daly, Ch. 1, Uneconomic Growth in Theory
+> "There are costs of depletion, pollution, disruption of ecological life-support services, sacrifice of leisure time, disutility of some kinds of labour, destruction of community in the interests of capital mobility, takeover of habitat of other species, and running down a critical part of the inheritance of future generations. […]" — Herman E. Daly, Ch. 1, Uneconomic Growth in Theory. Daly adds that we not only fail to measure these costs "but frequently we implicitly count them as benefits."
 
 > "Nature is really nothing but a supplier of indestructible building blocks which are substitutable and superabundant. The only limit to growth is technology, and there is, supposedly, no limit to technology, ergo no limit to economic growth. Therefore the very notion of 'uneconomic growth' makes no sense in that paradigm." — Herman E. Daly, Ch. 3, Uneconomic Growth in Two Paradigms
 
@@ -126,8 +126,8 @@ Daly's framework of throughput limits and the economy as subsystem connects to G
 
 ## Sources
 
-1. Herman E. Daly, *Ecological Economics and the Ecology of Economics: Essays in Criticism* (Cheltenham: Edward Elgar, 1999). — primary text
-2. Herman E. Daly and John B. Cobb Jr., *For the Common Good* (Beacon Press, 1989/1994) — source for Ch. 17 "Money, debt, and wealth" (C-claim; theoretical).
-3. Nicholas Georgescu-Roegen, *The Entropy Law and the Economic Process* (1971) — the thermodynamic foundation Daly extends (C-claim; theoretical).
-4. Julian Simon, *The Ultimate Resource* (1981) — the cornucopian position Daly critiques in Ch. 3 (E-claim; objection).
-5. Herman E. Daly, "Five Policy Recommendations for a Sustainable Economy," *FEASTA Review* 1 (1999b), text of his Sophie Prize acceptance speech, Oslo, 15 June 1999 — https://feasta.org/documents/feastareview/daly2.pdf. Primary source for Daly's endorsement of land/resource-rent capture for public revenue (Georgist connection).
+1. Herman E. Daly, *Ecological Economics and the Ecology of Economics: Essays in Criticism* (Cheltenham: Edward Elgar, 1999). — used as the primary text for this page's summaries and quotes.
+2. Herman E. Daly and John B. Cobb Jr., *For the Common Good* (Beacon Press, 1989/1994) — used as the source for Ch. 17 "Money, debt, and wealth" (C-claim; theoretical).
+3. Nicholas Georgescu-Roegen, *The Entropy Law and the Economic Process* (1971) — used as the thermodynamic foundation Daly extends (C-claim; theoretical).
+4. Julian Simon, *The Ultimate Resource* (1981) — used for the cornucopian position Daly critiques in Ch. 3 (E-claim; objection).
+5. Herman E. Daly, "Five Policy Recommendations for a Sustainable Economy," *FEASTA Review* 1 (1999b), text of his Sophie Prize acceptance speech, Oslo, 15 June 1999 — https://feasta.org/documents/feastareview/daly2.pdf. — used as the primary source for Daly's endorsement of land/resource-rent capture for public revenue (Georgist connection).

@@ -48,7 +48,9 @@ two belong in one category.
 Hudson's argument, stated at book length in *The Bubble and Beyond* (2012), in the
 wiki-summarized *[Killing the Host](/wiki/hudson-killing-the-host/)* (2015), and in
 peer-reviewed form in "Finance Capitalism versus Industrial Capitalism" (*Review of
-Radical Political Economics*, 2021): the FIRE sector creates balance-sheet wealth
+Radical Political Economics*, 2021) and, with Dirk Bezemer, in
+[*Finance Is Not the Economy*](/wiki/bezemer-hudson-finance-is-not-the-economy/)
+(*Journal of Economic Issues*, 2016): the FIRE sector creates balance-sheet wealth
 through debt leveraging and rent extraction rather than tangible investment, and
 this rentier overhead increasingly overpowers the economy's capacity to produce the
 surplus that carries its debts.[2][3] The mechanism is circular: banks lend against
@@ -92,10 +94,20 @@ much of "real estate" value added is imputed rent on owner-occupied housing, and
 lumping them with banking manufactures a rentier bloc by classification. The wiki
 carries both readings, attributed; the dispute is unresolved in the literature.
 
+A second, non-Georgist discipline on the FIRE reading comes from
+[Borio's financial-cycle work](/wiki/borio-financial-cycle/): the BIS account explains
+the same credit-and-property-price boom-bust as a general procyclical, monetary
+phenomenon — credit creation and shifting risk perceptions — that would operate on any
+collateral, not specifically the extraction of land rent. It is the steelman for the view
+that credit booms are not *simply* land-rent extraction, even as its own empirics place
+property prices at the centre of the cycle.
+
 ## See Also
 
 - [Bank Money Creation](/wiki/bank-money-creation/) — the mechanism by which commercial banks create most of the money supply, and why it flows disproportionately into land
 - [Greenwood & Scharfstein: The Growth of Finance](/wiki/greenwood-scharfstein-growth-of-finance/) · [Bazot: the cost of finance in Europe](/wiki/bazot-cost-of-finance-europe/) — the scale and unit-cost evidence, US and Europe
+
+- [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the peer-reviewed statement of the "finance income is rent" thesis · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the steelman that credit booms are a general monetary phenomenon
 
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
 - [Outcome: Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the strong, evidence-carried version of the finance–land claim

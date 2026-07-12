@@ -72,7 +72,7 @@ The distinction matters for policy design: a betterment levy captures value at t
 
 ## International Context
 
-Betterment levies in various forms exist or have existed in several countries beyond the UK. The [Lincoln Institute of Land Policy](/wiki/lincoln-institute/) has documented land value capture internationally, including the Latin American *contribución de valorización* (a betterment charge long used in Colombia and elsewhere) and Colombia's later *participación en plusvalías*.[9] [Taiwan](/wiki/taiwan/)'s [Land Value Increment Tax](/wiki/land-value-increment-tax/) is the most institutionalized example of an event-based land value gain tax, rooted in [Sun Yat-sen](/wiki/sun-yat-sen/)'s principle of equalizing land rights.
+Betterment levies in various forms exist or have existed in several countries beyond the UK. The [Lincoln Institute of Land Policy](/wiki/lincoln-institute/) has documented land value capture internationally, including the Latin American *contribución de valorización* (a betterment charge long used in Colombia and elsewhere) and Colombia's later *participación en plusvalías*.[9] Continental Europe reproduced the UK's short-lived pattern: the [German Reich *Wertzuwachssteuer* (1911–1913)](/wiki/wertzuwachssteuer-germany/) — a national land-value-increment tax pushed by Adolf Damaschke's land-reform movement — was introduced in 1911 and effectively abandoned by 1913, having, in historian Anna Grotegut's verdict, "neither fulfilled the land reform goal of combating speculation nor generated enough revenue."[10] [Taiwan](/wiki/taiwan/)'s [Land Value Increment Tax](/wiki/land-value-increment-tax/) is the most institutionalized example of an event-based land value gain tax, rooted in [Sun Yat-sen](/wiki/sun-yat-sen/)'s principle of equalizing land rights — and, via the Kiautschou colonial testbed the German reformers built, it shares a Georgist root with the German episode.
 
 ## See Also
 
@@ -80,10 +80,12 @@ Betterment levies in various forms exist or have existed in several countries be
 - [Land Value Capture](/wiki/land-value-capture/) — the broader family of instruments this levy belongs to
 - [Land Value Tax](/wiki/land-value-tax/) — the recurrent alternative to event-based betterment charges
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) — Taiwan's institutionalized version
+- [The German Reich Wertzuwachssteuer (1911–1913)](/wiki/wertzuwachssteuer-germany/) — the continental parallel to Britain's serial betterment-levy repeals
 - [Unearned Increment](/wiki/unearned-increment/) — the conceptual basis for capturing publicly created land value
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the first major UK attempt at an increment value duty
 - [David Lloyd George](/wiki/david-lloyd-george/) — the Chancellor who introduced the 1909 land value duties
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the valuation challenge that repeatedly undermined UK betterment levies
+- [Objection: the symmetry/decrement objection](/wiki/symmetry-decrement-objection/) — why event-based betterment capture that ignores "worsenment" is the instrument most exposed to the compensation-symmetry critique (the Uthwatt compensation-and-betterment problem)
 
 ## Sources
 
@@ -92,5 +94,6 @@ Betterment levies in various forms exist or have existed in several countries be
 7. Miles Gibson, "British development taxes since 1945," University of Cambridge Department of Land Economy research paper. [Cambridge](https://www.landecon.cam.ac.uk/sites/default/files/2025-07/tc4911-research-paper-web.pdf) — neutral academic survey of the 1947 development charge, the 1967 betterment levy, and the 1976 Development Land Tax, their rates, and their repeals.
 8. Primary UK statutes: **Town and Country Planning Act 1947** (10 & 11 Geo. 6 c. 51), Part VII; **Land Commission Act 1967** (c. 1), Part III; **Development Land Tax Act 1976** (c. 24); **Town and Country Planning Act 1990** (c. 8), **s. 106** (planning obligations); and the Community Infrastructure Levy Regulations 2010. At [legislation.gov.uk](https://www.legislation.gov.uk/) (e.g. [Land Commission Act 1967](https://www.legislation.gov.uk/ukpga/1967/1), [TCPA 1990 s. 106](https://www.legislation.gov.uk/ukpga/1990/8/section/106)).
 9. Lincoln Institute of Land Policy, land value capture materials on international betterment instruments (e.g. the Latin American *contribución de valorización* and Colombia's *participación en plusvalías*). [lincolninst.edu](https://www.lincolninst.edu/) — used for the international context.
+10. Anna Grotegut (2022), "Countering Real Estate Speculation and Rising Rents? The Increment Value Tax in the German Empire 1911‒1913," *Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook* 63(2): 169–197. [DOI (Open Access)](https://doi.org/10.1515/jbwg-2022-0007) · [wiki page](/wiki/wertzuwachssteuer-germany/) — used for the German Reich *Wertzuwachssteuer* as a continental parallel to the UK betterment-levy failures; quotation verified on the linked page.
 
 *(Conceptual cross-references — navigation, not evidence: [Unearned Increment](/wiki/unearned-increment/), [Land Value Capture](/wiki/land-value-capture/), [Land Value Increment Tax](/wiki/land-value-increment-tax/), [The 1909 People's Budget](/wiki/1909-peoples-budget/). Citation numbers were consolidated in the 2026-07-07 sourcing pass, hence the non-consecutive list.)*

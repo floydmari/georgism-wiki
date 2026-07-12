@@ -15,21 +15,21 @@ George was not proposing a modest land tax as one element of a diversified tax s
 
 ## The Movement
 
-The Single Tax movement emerged in the 1880s and reached its peak influence in the 1890s and early 1900s. It attracted followers across the political spectrum — labour unionists who saw it as a path to higher wages, libertarians who saw it as the uniquely just tax, and progressives who saw it as a tool against concentrated wealth.
+The single-tax movement emerged in the 1880s and reached its peak influence in the 1890s and early 1900s. It attracted followers across the political spectrum — labour unionists who saw it as a path to higher wages, libertarians who saw it as the uniquely just tax, and progressives who saw it as a tool against concentrated wealth.
 
-Key figures in the American movement included **Tom L. Johnson**, mayor of Cleveland (1901–1909) and a significant political reformer; **[Joseph Fels](/wiki/joseph-fels/)**, a soap manufacturer who funded Single Tax campaigns in the US and UK; and **Louis Post**, who served as assistant secretary of labour under Woodrow Wilson.
+Key figures in the American movement included **Tom L. Johnson**, mayor of Cleveland (1901–1909) and a significant political reformer; **[Joseph Fels](/wiki/joseph-fels/)**, a soap manufacturer who funded single-tax campaigns in the US and UK; and **Louis Post**, who served as assistant secretary of labour under Woodrow Wilson.
 
 In Britain, the movement intersected with Liberal Party politics. **David Lloyd George's** 1909 "People's Budget" included a land value duty, which passed the Commons but was blocked by the House of Lords in a constitutional crisis.
 
 ## Book Findings: Barker on the Movement's Spread
 
-Charles Albro Barker's definitive 1955 biography documents how the single-tax movement spread from its California origins to become a transatlantic force. Barker traced the movement's institutional emergence to the late 1880s: "When Georgism seized minds of legalistic bent, like Thomas Shearman's, it impelled the single-tax movement, which began during 1887 and 1888 in New York. When it seized practical and political minds, Tom Loftin Johnson's most notably, Georgism entered near its source the stream that later broadened to become the progressive movement of the twentieth century" (Barker 1955, Preface). (A-claim; factual)
+Charles Albro Barker's definitive 1955 biography documents how the single-tax movement spread from its California origins to become a transatlantic force. Barker traced the movement's institutional emergence to the late 1880s: "When Georgism seized minds of legalistic bent, like Thomas Shearman's, it impelled the single-tax movement, which began during 1887 and 1888 in New York. […]" (Barker 1955, Preface). When it seized practical and political minds like Tom Loftin Johnson's, Barker continues, Georgism entered near its source the stream that broadened into the twentieth-century progressive movement. (A-claim; factual)
 
 Barker also documented the international reach: George's ideas "deepened the Fabian movement; they helped to give force to trade unions; and they inspired the Radicals who were rising in the Liberal party" (Barker 1955, p. 11). Philip Wicksteed wrote to George in 1882 that *Progress and Poverty* had "fallen on old and deep lines of thought in my mind" and lit the light he "vainly sought for" himself (Barker 1955, p. 11). See [Barker's biography](/wiki/barker-henry-george-biography/). (A-claim; factual)
 
 ## Decline
 
-The Single Tax movement declined after World War I for several reasons: the disenfranchisement and division of its natural constituency, the rise of competing socialist and Keynesian frameworks, and — as Mason Gaffney later documented — a concerted effort by landowner-funded academic economics to discredit the theoretical foundations of land taxation.
+The single-tax movement declined after World War I for several reasons: the disenfranchisement and division of its natural constituency, the rise of competing socialist and Keynesian frameworks, and — as Mason Gaffney later documented — a concerted effort by landowner-funded academic economics to discredit the theoretical foundations of land taxation.
 
 ## Legacy
 
@@ -60,6 +60,7 @@ Tideman's chapter argues that 100% land value taxation, introduced without compe
 
 - [Colin Clark](/wiki/colin-clark/) — economist whose 25%-of-NNP tax-limit argument is cited here
 - [Physiocrats](/wiki/physiocrats/) — the 18th-c. French school whose *impôt unique* is the direct ancestor of the single tax
+- [Canons of taxation](/wiki/canons-of-taxation/) — Smith's four maxims and George's four conditions, against which George tried the single tax (*Progress and Poverty*, Book VIII, Ch. III)
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/)
 
 - [Henry George](/wiki/henry-george/) — the movement's originator

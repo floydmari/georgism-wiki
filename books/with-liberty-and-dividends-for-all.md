@@ -81,17 +81,17 @@ Barnes insists his proposal requires "no new taxes" and is "purely market-based"
 
 > "Dividends of this sort aren't redistribution; they're a way to allocate income fairly in the first place so that there's less need to redistribute later. Nor are they government transfers or private charity. Rather, they're legitimate property income." — Peter Barnes, With Liberty and Dividends for All, Preface
 
-> "My inspiration was that Monopoly itself had been invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George. If I could invent a similar game in which markets respected nature and narrowed the gap between rich and poor, perhaps it could inspire a real-world economy that did the same things. (Alas, Monopoly was later copied, patented, and promoted by Parker Brothers, now Hasbro, as a celebration rather than a critique of capitalism.)" — Peter Barnes, With Liberty and Dividends for All, Chapter 1
+> "My inspiration was that Monopoly itself had been invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George. […]" — Peter Barnes, With Liberty and Dividends for All, Chapter 1. Barnes hoped a similar game — one in which markets respected nature and narrowed the rich-poor gap — could inspire a real-world economy to do the same, noting ruefully that Monopoly was later patented and promoted by Parker Brothers as a celebration rather than a critique of capitalism.
 
 > "There are two kinds of property. Firstly, natural property, or that which comes to us from the Creator of the universe—such as the earth, air, water. Secondly, artificial or acquired property—the invention of men. The latter kind of property must necessarily be distributed unequally, but the first kind rightfully belonged to everyone equally." — Thomas Paine, Agrarian Justice (quoted by Peter Barnes in With Liberty and Dividends for All, Chapter 1)
 
-> "Paine's genius was to invent a way to distribute income from shared ownership of natural property. He proposed a 'National Fund' to pay every man and woman fifteen pounds at age twenty-one and ten pounds a year after age fifty-five. Revenue for the fund would come from 'ground rent' paid by landowners, the privatizers of natural wealth. Paine even showed mathematically how this could work." — Peter Barnes, With Liberty and Dividends for All, Chapter 1
+> "Paine's genius was to invent a way to distribute income from shared ownership of natural property. He proposed a 'National Fund' to pay every man and woman fifteen pounds at age twenty-one and ten pounds a year after age fifty-five. […]" — Peter Barnes, With Liberty and Dividends for All, Chapter 1. The fund's revenue, Barnes notes, would come from ground rent paid by landowners — and Paine showed mathematically how it could work.
 
 > "Presciently, Paine recognized that land, air, and water could be monetized, not just for the benefit of a few but for the good of all. Further, he saw that this could be done at a national level. This was a remarkable feat of analysis and imagining." — Peter Barnes, With Liberty and Dividends for All, Chapter 1
 
-> "Rent is one of the most important and underused concepts in economics. As I (and most economists) use the term, rent is the money paid to businesses over and above their costs of labor and capital in competitive markets. It includes premiums paid for scarce things and excessive profits extracted by monopolies, oligopolies, and industries coddled by government." — Peter Barnes, With Liberty and Dividends for All, Chapter 3
+> "Rent is one of the most important and underused concepts in economics. As I (and most economists) use the term, rent is the money paid to businesses over and above their costs of labor and capital in competitive markets. […]" — Peter Barnes, With Liberty and Dividends for All, Chapter 3. It includes, he adds, premiums paid for scarce things and the excess profits of monopolies, oligopolies, and government-coddled industries.
 
-> "Rent isn't talked about much in polite society; it's the eight-hundred-pound gorilla that everyone pretends isn't there. Economists in particular rarely mention it, not out of ignorance but because they find it awkward to offend those who extract it disproportionately. The time has come, though, to bring rent out of the closet, for it holds the key to saving our middle class and planet." — Peter Barnes, With Liberty and Dividends for All, Chapter 3
+> "Rent isn't talked about much in polite society; it's the eight-hundred-pound gorilla that everyone pretends isn't there. Economists in particular rarely mention it, not out of ignorance but because they find it awkward to offend those who extract it disproportionately. […]" — Peter Barnes, With Liberty and Dividends for All, Chapter 3. The time has come, Barnes argues, to bring rent out of the closet: it holds the key to saving the middle class and the planet.
 
 ## Bears On
 
@@ -114,8 +114,8 @@ Barnes insists his proposal requires "no new taxes" and is "purely market-based"
 
 ## Sources
 
-1. Peter Barnes, *With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don't Pay Enough* (San Francisco: Berrett-Koehler, 2014). ISBN 978-1-62656-214-1. — primary text
-2. Thomas Paine, *Agrarian Justice* (1797) — cited as historical predecessor of the dividend idea (A-claim; factual).
-3. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — Barnes's earlier development of commons trust concept (C-claim; theoretical).
-4. Henry George, *Progress and Poverty* (1879) — cited as intellectual predecessor via Monopoly board game origin (A-claim; factual).
-5. Peter Barnes, "Beyond Jobs: Our Right to Dividends," *PBS NewsHour*, August 27, 2014 (peter-barnes.org) — Barnes's own summary of the book's dividend calculation ("about $5,000 per person per year," "according to my calculations") corroborating the Appendix figures (A-claim; factual).
+1. Peter Barnes, *With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don't Pay Enough* (San Francisco: Berrett-Koehler, 2014). ISBN 978-1-62656-214-1. — used for all claims on this page (primary text)
+2. Thomas Paine, *Agrarian Justice* (1797) — used as the historical predecessor of the dividend idea (A-claim; factual).
+3. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used as Barnes's earlier development of the commons trust concept (C-claim; theoretical).
+4. Henry George, *Progress and Poverty* (1879) — used for the intellectual-predecessor connection via the Monopoly board game origin (A-claim; factual).
+5. Peter Barnes, "Beyond Jobs: Our Right to Dividends," *PBS NewsHour*, August 27, 2014 (peter-barnes.org) — used for Barnes's own summary of the book's dividend calculation ("about $5,000 per person per year," "according to my calculations") corroborating the Appendix figures (A-claim; factual).

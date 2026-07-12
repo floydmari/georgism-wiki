@@ -10,6 +10,7 @@ stub: false
 excerpt: "Hamilton (1975, 1976) argues that zoning converts the local property tax into an efficient benefit tax for local services, with no excess burden — complicating simple landlord-incidence stories."
 last_reviewed: 2026-07-10
 supports_outcomes: []
+bears_on_objections: [lvt-is-just-a-property-tax]
 ---
 
 ## Summary

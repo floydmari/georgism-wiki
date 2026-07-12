@@ -165,6 +165,8 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 
 ## See Also
 
+
+- [Simon Patten](/wiki/simon-patten/) — the anti-George economist in the professionalization story
 - [Objection: "Public Rent Collection Breeds Government Corruption"](/wiki/rent-revenue-breeds-corruption/) — the governance objection this book's 2022 South Africa/Russia/China postscript answers, and the wiki's honest complication (China's own land-sale corruption record)
 - ["The Single Tax Is a Form of Socialism/Communism"](/wiki/lvt-is-socialism/) — the objection documented in this book's postscript, and the Georgist reply
 - [Lawson Purdy](/wiki/lawson-purdy/) — NYC Tax Commissioner (1906-1917) and Georgist administrator named among the movement's establishment-era campaigners
@@ -174,7 +176,7 @@ Harrison's 2022 chapter reports that South Africa cancelled site-value revenue p
 - [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/) — Posner & Weyl's COST as extension of George's land tax
 - [ATCOR](/wiki/atcor/) — All Taxes Come Out of Rent (formalized by Gaffney 2005)
 - [Economic Rent](/wiki/economic-rent/) — Classical vs. neoclassical definitions of rent
-- [Land Value Tax](/wiki/land-value-tax/) — The single tax proposal
+- [Land Value Tax](/wiki/land-value-tax/) — The single-tax proposal
 - [Henry George](/wiki/henry-george/) — George's life and influence
 
 ## Sources

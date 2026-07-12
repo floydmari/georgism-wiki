@@ -118,11 +118,20 @@ not vanish — it mutates.**
   exempted or preferentially assessed in real-world property tax systems — a
   legal, not clandestine, form of base erosion; see the related
   [farmers' objection](/wiki/lvt-hurts-farmers/) for the agricultural case specifically.
-- **Missing:** the wiki does not yet have a systematic cross-country estimate of how
+- **Partly missing:** the wiki still lacks a systematic cross-country estimate of how
   much revenue is lost to under-assessment specifically, as opposed to low statutory
-  rates or narrow bases — Murphy & Seegert is the closest available evidence and is
-  U.S.-focused. [CITATION NEEDED: a cross-country estimate of the assessment gap as a
-  share of potential land-tax revenue.]
+  rates or narrow bases. [Richard Almy's OECD survey of immovable-property valuation
+  across 172 countries](/wiki/almy-oecd-valuation-assessment/) is the closest
+  cross-country evidence on the *mechanism* behind the gap: it finds that "valuation
+  practices frequently ignore revaluation requirements" — the neglect that lets assessed
+  values drift below market values — and that even high-quality mass-valuation systems
+  carry roughly 10% valuation error, a floor under the assessment gap everywhere. But
+  Almy measures valuation *accuracy and cost*, not the assessment gap as a share of
+  forgone revenue; [Murphy & Seegert](/wiki/murphy-seegert-implicit-land-taxes/) remains
+  the closest *revenue-gap* evidence and is U.S.-focused. [CITATION NEEDED: a
+  cross-country estimate of the assessment gap as a share of potential land-tax revenue —
+  Almy documents the under-revaluation mechanism internationally but does not quantify
+  the revenue loss it causes.]
 
 **The honest summary:** the narrative's title should be read as *relative*, not
 absolute. Land cannot be dodged the way income, sales, or corporate profit can — but a

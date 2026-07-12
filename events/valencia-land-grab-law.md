@@ -44,9 +44,18 @@ pay.[2][4]
 
 The law drew international attention after prompting a wave of complaints
 to the European Parliament's Committee on Petitions; Danish MEP Margrete
-Auken's committee report, debated in 2009, was reportedly the third
-in three years to criticize Valencia's planning regime and floated the
-possibility of withholding EU structural funds over it.[4] The Valencian
+Auken's committee report (A6-0082/2009), adopted in March 2009, was the
+third European Parliament resolution on Spanish urbanisation abuses — following
+the resolution of 13 December 2005 specifically on "the alleged abuse of the
+Valencian Land Law or Ley Reguladora de la Actividad Urbanística (LRAU)" and the
+resolution of 21 June 2007 — and it explicitly raised the possibility of
+withholding EU structural funds: the report "recalls … that the Commission is
+empowered by Article 91 of Regulation (EC) No 1083/2006 to interrupt the payment
+of structural funding, and by Article 92 to suspend such funding to a Member State
+or region concerned," and that "Parliament, as the budgetary authority, may also
+decide to place funding set aside for cohesion policies in the reserve if it
+considers this necessary in order to persuade a Member State to end serious
+breaches of the rules."[4] The Valencian
 regional government replaced the LRAU with a new planning law, the **Ley
 Urbanística Valenciana** (Ley 16/2005, effective 2006), though complaints
 about legacy cases continued for years afterward.[2][5]
@@ -64,5 +73,5 @@ about legacy cases continued for years afterward.[2][5]
 1. *Ley 6/1994, de 15 de noviembre, de la Generalitat Valenciana, Reguladora de la Actividad Urbanística*, Diari Oficial de la Generalitat Valenciana no. 5.167 (published 31 December 1994) — official Spanish legal text confirming the law's formal name and enactment date. [Text via Noticias Jurídicas](https://noticias.juridicas.com/base_datos/CCAA/va-l6-1994.html)
 2. Worldwide Lawyers, "Land Grabs in Spain – What are the risks?" (law-firm client guide, n.d.) — used for the mechanics of the 10%-land-surrender and infrastructure-cost-sharing requirements and the "more than half the land" figure. [Article](https://worldwidelawyers.co.uk/land-grabs-in-spain-what-are-the-risks/)
 3. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010* (Shepheard-Walwyn, 2010 2nd ed.), Ch. 7 §2 — discovery source citing Valencia's 1994 law as a land-value-capture case; the wiki's existing book-page summary of this title does not independently confirm this specific chapter locator, so treat the Ch. 7 §2 citation as provisional pending a fresh page-level read. [Wiki book page](/wiki/harrison-boom-bust/) [CITATION NEEDED: direct page-level verification of Harrison's Valencia discussion]
-4. PropertyWire, "Third EU report slams Spain's notorious land grab laws and threatens to withdraw funds" (2009), summarizing the European Parliament Committee on Petitions report by MEP Margrete Auken — used for the European Parliament's involvement and the scale of complaints. [European Parliament report A6-0082/2009](https://www.europarl.europa.eu/doceo/document/A-6-2009-0082_EN.html)
+4. European Parliament, *Report on the impact of extensive urbanisation in Spain on individual rights of European citizens, on the environment and on the application of EU law* (rapporteur Margrete Auken), A6-0082/2009, plenary resolution adopted 26 March 2009 — the primary source, read in full via the Internet Archive capture of the europarl document. Used for: its status as the third EP resolution on Spanish urbanisation abuses (its explanatory statement and recitals reference the prior resolutions of 13 December 2005 on the LRAU and 21 June 2007); the structural-funds paragraphs (§27 on the Commission's power to interrupt/suspend funding under Reg. (EC) No 1083/2006 Arts 91–92, and §28 on Parliament's power as budgetary authority to place cohesion funding in reserve); and its call to "abolish all legal forms that encourage speculation, such as urbanisation agents." [European Parliament A6-0082/2009](https://www.europarl.europa.eu/doceo/document/A-6-2009-0082_EN.html) · [Wayback capture](http://web.archive.org/web/2018/https://www.europarl.europa.eu/sides/getDoc.do?type=REPORT&reference=A6-2009-0082&language=EN)
 5. Ley 16/2005, de 30 de diciembre, urbanística valenciana — official replacement legislation. [Text via BOE](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2975)

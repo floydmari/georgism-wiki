@@ -15,6 +15,16 @@ land rent is only a few percent of GDP, far too little to replace income, payrol
 and consumption taxes. On this view the "single tax" is a 19th-century idea that
 cannot fund a 21st-century state.
 
+The position being objected to is George's own. In *Progress and Poverty* he holds
+that land rent is not merely the *best* tax base but an *ample* one: "In every
+civilized country, even the newest, the value of the land taken as a whole is
+sufficient to bear the entire expenses of government. In the better developed
+countries it is much more than sufficient" — the practical proposal being "to abolish
+all taxation save that upon land values" (*Progress and Poverty*, Book VIII, Ch. II),
+which George then tries against the [canons of taxation](/wiki/canons-of-taxation/)
+(Book VIII, Ch. III). The modern dispute is whether that 1879 sufficiency claim
+survives 20th-century national-accounts measurement.
+
 The objection has distinguished sponsors. **Paul Krugman**, while conceding the
 theory: "I don't think you can raise nearly enough money to run a modern welfare
 state by taxing land. It's just not a big enough thing" (2017, as carried in
@@ -46,7 +56,13 @@ advocates concede full replacement is uncertain:
    cap rates — defense-plus-Social-Security at the low end, up to ~80% of all
    government revenue at the high end (Chs. 14–15);[3] the wiki's
    [full evidence page](/wiki/land-rent-could-fund-government/) carries the range
-   of estimates with their assumptions.
+   of estimates with their assumptions. Independent national calculations point
+   the same way: [Dwyer's study of Australian land and resource rents](/wiki/dwyer-taxable-capacity-australia/)
+   finds them large enough to replace existing taxation, and the general-equilibrium
+   estimate of [Tideman, Akobundu, Johns & Wutthicharoen](/wiki/tideman-avoidable-excess-burden/)
+   puts the welfare gain from shifting broad-based taxes onto land at ~14% of net
+   domestic product — figures that presuppose a land base far larger than the "few
+   percent of GDP" the objection takes as given.
 3. **[ATCOR](/wiki/atcor/) expands the base.** Because other taxes ultimately fall
    on rent, abolishing them raises land values — and the LVT base — so the static
    figure understates capacity. (ATCOR is itself a hypothesis needing empirical
@@ -86,7 +102,9 @@ theory.
 
 1. Lars A. Doucet, *Land is a Big Deal* (2022), Ch. 11 — used for the Krugman
    quotation and Doucet's reply (A-claims; Heavy scan).
-   [Book page](/wiki/land-is-a-big-deal/)
+   [Book page](/wiki/land-is-a-big-deal/) — primary source for the quotation:
+   Michael Scott Moore, "This Land Is Your Land," *Pacific Standard*, from Moore's
+   2008 Berlin interview with Krugman. [psmag.com](https://psmag.com/news/this-land-is-your-land-3392/)
 2. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3 — used for
    the Blaug quotation (A-claim; scan provenance pending owner attestation — see
    book page). [Book page](/wiki/economic-theory-in-retrospect/)
@@ -97,3 +115,8 @@ theory.
    Spare" — [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) ·
    [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf) — used for the
    hidden-rent categories (C/D-claims, advocate-economist).
+5. Henry George (1879), *Progress and Poverty*, Book VIII, Chs. II–III — the
+   sufficiency claim and single-tax proposal being objected to; quotations verified
+   verbatim against the [repository full text](../sources/publicdomain/progress-and-poverty.md)
+   ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain,
+   EDITORIAL §3b).

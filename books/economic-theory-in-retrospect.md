@@ -129,7 +129,7 @@ In discussing the law of rent (Ch. 11, §40), Blaug notes that Wicksteed "demons
 
 ## Physiocrats and the Single Tax (Ch. 1, §13)
 
-Blaug traces the lineage of the single tax concept from the Physiocrats, who "regarded rent as a perfectly legitimate income, a payment for a nonreproducible natural agent" and argued that "the incidence of any tax will always fall upon landlords; the returns of all other classes consist of 'necessary' expenses of production." This led to the "physiocratic demand for a single tax aimed at minimising collection costs by taxing directly those incomes that ultimately bear taxes" (Ch. 1, §13).
+Blaug traces the lineage of the single-tax concept from the Physiocrats, who "regarded rent as a perfectly legitimate income, a payment for a nonreproducible natural agent" and argued that "the incidence of any tax will always fall upon landlords; the returns of all other classes consist of 'necessary' expenses of production." This led to the "physiocratic demand for a single tax aimed at minimising collection costs by taxing directly those incomes that ultimately bear taxes" (Ch. 1, §13).
 
 Blaug distinguishes the physiocratic single tax from the Georgist version: "the physiocratic single tax is not a tax on 'the unearned increment' of rental values in response to a rising population à la James and John Stuart Mill but a species of land value taxation in the form of a levy on pure rent" — which Quesnay put at roughly a third of the 'net product.' (Ch. 1, §13).
 

@@ -7,7 +7,7 @@ year: 2018
 tier: Important
 source_url: https://www.nber.org/system/files/working_papers/w24661/w24661.pdf
 stub: false
-supports_outcomes: [rising-land-costs-drive-poverty]
+supports_outcomes: [rising-land-costs-drive-poverty, high-land-rents-suppress-productivity]
 excerpt: "Hornbeck & Moretti estimate the incidence of local productivity growth using four instruments: locally, renters' higher earnings are 'largely offset by increased cost of living' and gains capitalize into land — an explicit revival of Ricardo — but once worker mobility is counted, landowner impacts are 'largely a transfer from one location to another' and net incidence falls mainly on workers."
 ---
 
@@ -129,6 +129,13 @@ class capture productivity growth economy-wide. Cited fairly, it supports the *m
   local productivity growth raises housing costs enough to "largely offset" renters'
   earnings gains, the modern engine of George's progress-and-poverty mechanism (with the
   caveat that net national incidence, after mobility, falls mainly on workers).
+- **Problem (supports the rent-capture premise, double-edged):** [High land rents suppress
+  productivity](/wiki/high-land-rents-suppress-productivity/) — supplies four-IV causal
+  evidence that local productivity growth capitalizes into land rent (renters' gains
+  "largely offset by increased cost of living"), the specifically-*rent* channel the
+  regulation-focused headline papers do not isolate. Cited with the caveat that the paper's
+  national conclusion — incidence "falls mainly on workers," landowner impacts "largely a
+  transfer from one location to another" — does not establish aggregate output suppression.
 - **Problem (adjacent / See-Also, not support):** [Public investment capitalizes into
   nearby land values](/wiki/public-investment-capitalizes-into-land/) — that claim is
   specifically about *public* investment; Hornbeck & Moretti study *private* TFP growth.
@@ -146,6 +153,7 @@ class capture productivity growth economy-wide. Cited fairly, it supports the *m
 ## See Also
 
 - [Rising land values and housing costs drive poverty](/wiki/rising-land-costs-drive-poverty/)
+- [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/) — the rent-capture premise, cited double-edged
 - [Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/)
 - [What Are Cities Worth?](/wiki/albouy-what-are-cities-worth/) · [Metropolitan Land Values](/wiki/albouy-ehrlich-shin-metro-land/)
 - [Housing Constraints and Spatial Misallocation](/wiki/hsieh-moretti-spatial-misallocation/) (Hsieh & Moretti — companion Moretti work on the cost of inelastic urban land)
@@ -157,8 +165,8 @@ class capture productivity growth economy-wide. Cited fairly, it supports the *m
 1. Richard Hornbeck & Enrico Moretti, "Who Benefits From Productivity Growth? Direct and
    Indirect Effects of Local TFP Growth on Wages, Rents, and Inequality," *NBER Working
    Paper* No. 24661, May 2018 (revised January 2019).
-   [PDF](https://www.nber.org/system/files/working_papers/w24661/w24661.pdf) — used
-   throughout for the abstract incidence quotes (renters' gains "largely offset,"
+   [PDF](https://www.nber.org/system/files/working_papers/w24661/w24661.pdf) — used for,
+   throughout the page, the abstract incidence quotes (renters' gains "largely offset,"
    homeowner benefits "substantial"), the 38% indirect-effects figure, the explicit
    Ricardo-revival and labor-vs-land framing, the spatial-equilibrium incidence rule and
    its fixed-housing-supply capitalization limit, the 0.5–0.6%/year aggregate gain, and

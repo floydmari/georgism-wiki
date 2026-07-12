@@ -30,6 +30,7 @@ This is a **genuine theoretical dispute**, not a settled question — the land-v
 - [Austrian School](/wiki/austrian-school/) — the economic tradition, founded by Carl Menger and carried through Mises, Hayek, and Rothbard, that is the source of this objection
 - ["Land Is Just a Form of Capital"](/wiki/land-is-just-capital/) — the dedicated page stating and rebutting the land/capital conflation that this Austrian-critique page's point #1 only summarizes
 - [Friedrich Hayek](/wiki/friedrich-hayek/) — a milder, assessment-focused cousin of the Austrian critique, drawn directly from Hayek's own single-tax passage in The Constitution of Liberty
+- [Andelson's rejoinder to Hayek](/wiki/andelson-rejoinder-to-hayek/) — the Georgist scholarly answer to the assessment-precision version of the critique: the precision Hayek demands exceeds what any tax base achieves, so the calculation objection would equally rule out ordinary real-estate appraisal (response side)
 - [Murray Rothbard](/wiki/murray-rothbard/) — the economist whose arguments this objection represents
 - [Geolibertarianism](/wiki/geolibertarianism/) · [Deadweight Loss](/wiki/deadweight-loss/)
 

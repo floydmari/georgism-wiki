@@ -29,7 +29,7 @@ Grades come from each page's `evidence_strength` assessment: **Strong** (replica
 - **[Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/)** — *Strong.* A large, consistent empirical literature: the public pays for the subway, the landowner pockets the value.
 - **[The young are increasingly locked out of land wealth](/wiki/young-locked-out-of-land-wealth/)** — *Strong for the cohort trend* (UK, US, and OECD data independently); the geoist reading of it as a land transfer is analytic, and the page says so.
 - **[Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/)** — *Moderate.* The mechanism (talent and effort diverted from production to redistribution) is strongly theorized and historically documented; direct empirical magnitudes are contested, and the page says which numbers are safe to quote.
-- **[Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/)** — *Moderate.* Documented by three independent methods on three continents; magnitudes swing with the measurement proxy, and the speculation-vs-zoning causal split is unresolved.
+- **[Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/)** — *Moderate.* Documented by four independent methods across three continents — two vacancy-tax quasi-experiments (France's TLV; Vancouver's Empty Homes Tax), vacant-lot price data, and Melbourne water-meter counts; magnitudes swing with the measurement proxy, and the speculation-vs-zoning causal split is unresolved.
 
 ### The unclaimed fund
 

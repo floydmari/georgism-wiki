@@ -5,7 +5,7 @@ tags: [people, michael-davitt, ireland, irish-land-war, land-league, land-nation
 stub: false
 born: 1846
 died: 1906
-excerpt: "Founder of the Irish National Land League who led the Irish Land War (1879–82) and corresponded and collaborated with Henry George, though his preference for state land nationalization diverged from George's tax-based single tax remedy."
+excerpt: "Founder of the Irish National Land League who led the Irish Land War (1879–82) and corresponded and collaborated with Henry George, though his preference for state land nationalization diverged from George's tax-based single-tax remedy."
 last_reviewed: 2026-07-05
 ---
 

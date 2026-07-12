@@ -142,6 +142,8 @@ the opposite of the land case the wiki treats as clean.
 
 ## See Also
 
+
+- [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
 
 - [Platform and Data Rents](/wiki/data-rents/) — the contested frontier the DST tries to reach

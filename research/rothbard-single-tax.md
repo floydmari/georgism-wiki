@@ -10,6 +10,7 @@ stub: false
 excerpt: "Rothbard's 1957 FEE essay is the canonical Austrian-school case against the single tax: land rent is not categorically 'unearned,' a 100% land tax destroys the price signals that allocate scarce sites, and Georgist common land ownership conflicts with homesteading."
 last_reviewed: 2026-07-03
 supports_outcomes: []
+bears_on_objections: [land-is-just-capital, lvt-austrian-critique]
 ---
 
 ## Overview

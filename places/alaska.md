@@ -43,7 +43,7 @@ A key distinction emphasized in the scholarly literature is that Alaska's divide
 ## See Also
 
 - [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
-- [Citizens' Dividend](/wiki/citizens-dividend/)
+- [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Resource Rents](/wiki/resource-rents/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 - [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/)

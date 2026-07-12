@@ -9,7 +9,8 @@ source_url: https://eprints.lse.ac.uk/49933/1/Hilber_Vermeulen_Impact-supply_201
 stub: false
 excerpt: "Hilber and Vermeulen find that regulatory and physical supply constraints substantially raise English house prices — mainstream evidence for the land-scarcity mechanism, though not a study of land value taxation."
 last_reviewed: 2026-07-03
-supports_outcomes: [lvt-improves-housing-affordability]
+supports_outcomes: [lvt-improves-housing-affordability, housing-unaffordability-is-a-land-problem]
+bears_on_objections: [planning-restrictions-cause-high-prices]
 ---
 
 ## Summary
@@ -63,5 +64,5 @@ Hilber and Vermeulen's paper supports the **land-scarcity half** of the Georgist
 
 ## Sources
 
-1. Christian A. L. Hilber & Wouter Vermeulen, "The Impact of Supply Constraints on House Prices in England," **SERC Discussion Paper 119** (September 2012, revised April 2014). Full-text PDF: [cep.lse.ac.uk/pubs/download/sercdp0119.pdf](https://cep.lse.ac.uk/pubs/download/sercdp0119.pdf) — **fetched and read in full (2026-07-07)**; used for and verified against all findings on this page: the 353-LPA 1974–2008 panel, the IV identification (policy reform, vote shares, historical density), the planning-refusal-rate regulatory measure, the five headline results, the ~35% / £147k-vs-£226k counterfactual, and the confirmed absence of any land-value-tax discussion.
+1. Christian A. L. Hilber & Wouter Vermeulen, "The Impact of Supply Constraints on House Prices in England," **SERC Discussion Paper 119** (September 2012, revised April 2014). Full-text PDF: [cep.lse.ac.uk/pubs/download/sercdp0119.pdf](https://cep.lse.ac.uk/pubs/download/sercdp0119.pdf) — **fetched and read in full (2026-07-07)** — used for, and verified against, all findings on this page: the 353-LPA 1974–2008 panel, the IV identification (policy reform, vote shares, historical density), the planning-refusal-rate regulatory measure, the five headline results, the ~35% / £147k-vs-£226k counterfactual, and the confirmed absence of any land-value-tax discussion.
 2. Christian A. L. Hilber & Wouter Vermeulen (2016), "The Impact of Supply Constraints on House Prices in England," *The Economic Journal* 126(591), pp. 358–405. DOI [10.1111/ecoj.12213](https://doi.org/10.1111/ecoj.12213) — the peer-reviewed version of record (paywalled); the SERC discussion paper (source 1) is the open working-paper version with the same substantive findings.

@@ -28,6 +28,7 @@ LVT and the property tax share a base component (land) but differ fundamentally 
 ## See Also
 
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) · [Deadweight Loss](/wiki/deadweight-loss/)
+- **Why ordinary property-tax evidence isn't LVT evidence:** [OECD / Johansson et al.](/wiki/oecd-taxation-economic-growth/) · [Arnold (2011)](/wiki/arnold-tax-growth-ej/) — their "least-harmful" recurrent-property-tax category bundles land *and* improvements, not a land-only base · [Zodrow](/wiki/zodrow-three-views/) — clarifies that the structures component is the theoretically contested part that behaves unlike a land-only tax · [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) · [Hamilton](/wiki/hamilton-benefit-tax/) — incidence results for a combined land-and-building property tax cannot be read across to a land-only tax
 
 ## Sources
 

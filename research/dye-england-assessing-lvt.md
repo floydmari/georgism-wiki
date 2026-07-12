@@ -8,6 +8,7 @@ source_url: https://www.lincolninst.edu/publications/policy-focus-reports/assess
 tier: core
 stub: false
 excerpt: "The standard modern policy reference on land value taxation — surveying the theory, the international and US experience, and practical implementation."
+bears_on_objections: [lvt-is-just-a-property-tax, lvt-hurts-farmers]
 ---
 
 ## Summary

@@ -10,6 +10,7 @@ stub: false
 excerpt: "The peer-reviewed Economic Journal version of the OECD 'tax and growth' ranking: revenue-neutral shifts toward recurrent property and consumption taxes raise long-run GDP per capita in a 21-country OECD panel."
 last_reviewed: 2026-07-10
 supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, taxing-land-raises-productivity]
+bears_on_objections: [lvt-is-just-a-property-tax]
 ---
 
 ## Summary

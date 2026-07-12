@@ -10,6 +10,7 @@ stub: false
 excerpt: "England & Zhao (2005, National Tax Journal) find that a revenue-neutral shift from a uniform property tax to a two-rate (land-favoring) tax in Dover, NH would be regressive among residential owners — and propose a uniform credit to fix it."
 last_reviewed: 2026-07-05
 supports_outcomes: []
+bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
 ---
 
 ## Summary
@@ -43,7 +44,7 @@ This paper should therefore be read alongside, not instead of, [Bowman & Bell (2
 
 ## Bears On
 
-- **Outcome:** [A land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/) — this paper is direct counter-evidence to the unqualified version of the claim; it belongs in that outcome's `challenged_by`, not its `supported_by`, since the paper's own headline finding for Dover is regressivity, not progressivity. [VERIFY: orchestrator to confirm wiring — this page's own supports_outcomes is left empty precisely because the source does not support the claim as stated.]
+- **Outcome:** [A land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/) — this paper is direct counter-evidence to the unqualified version of the claim; it sits in that outcome's `challenged_by`, not its `supported_by` (wiring confirmed 2026-07-11), since the paper's own headline finding for Dover is regressivity, not progressivity. This page's own supports_outcomes is left empty precisely because the source does not support the claim as stated.
 - **Research:** [Bowman & Bell — Distributional Consequences of Converting the Property Tax to a Land Value Tax](/wiki/bowman-bell-lvt-distribution/) — the direct replication of this study's method on Roanoke, VA, which reaches the opposite conclusion; the two papers together establish jurisdiction-dependence.
 - **Research:** [Common Wealth Canada — Assessing the Distributional Impacts of a Land Value Tax](/wiki/cwc-distributional-impacts-lvt/) — an independent, decades-later case reaching a structurally identical conclusion (LVT alone can be regressive; a flat credit/rebate restores progressivity), reinforcing this paper's proposed remedy.
 - **Objection:** [LVT hurts the "asset-rich, cash-poor"](/wiki/lvt-hurts-asset-rich-cash-poor/) — this paper's assessed-value incidence proxy and its regressivity finding are directly relevant background for this objection.

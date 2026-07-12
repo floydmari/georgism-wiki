@@ -68,7 +68,7 @@ Neeson does not offer explicit policy recommendations; the book is a work of his
 
 ## Key Quotes
 
-> "The interest which a commoner has in a common is, in the legal phrase, to eat the grass with the mouths of his cattle, or to take such other produce of the soil as he may be entitled to. The soil itself, the land, was not the commoner's, but the use of it was." — Halsbury's Laws of England, quoted by J.M. Neeson, Introduction
+> "The interest which a commoner has in a common is, in the legal phrase, to eat the grass with the mouths of his cattle, or to take such other produce of the soil as he may be entitled to. […]" — Halsbury's Laws of England, quoted by J.M. Neeson, Introduction. The soil itself, Neeson glosses, was not the commoner's — only the use of it was.
 
 > "Enclosure—rightly named—meant the closing of the countryside." — J.M. Neeson, Introduction
 
@@ -103,6 +103,6 @@ Neeson does not offer explicit policy recommendations; the book is a work of his
 
 ## Sources
 
-1. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993). ISBN 0-521-56774-2. Past and Present Publications. — primary source for all claims on this page; verified against primary text 2026-07-07 (Scan Depth: Moderate).
-2. E. P. Thompson, *Customs in Common* (London: Merlin Press, 1991) — related work on common right by Neeson's doctoral supervisor (B-claim; secondary).
-3. Donald N. McCloskey, "The Enclosure of Open Fields: Preface to a Study of Its Impact on the Efficiency of English Agriculture in the Eighteenth Century," *Journal of Economic History* 32 (1972) — the productivity counter-argument (B-claim; empirical).
+1. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993). ISBN 0-521-56774-2. Past and Present Publications. — used for all claims on this page (primary source); verified against primary text 2026-07-07 (Scan Depth: Moderate).
+2. E. P. Thompson, *Customs in Common* (London: Merlin Press, 1991) — used as related work on common right by Neeson's doctoral supervisor (B-claim; secondary).
+3. Donald N. McCloskey, "The Enclosure of Open Fields: Preface to a Study of Its Impact on the Efficiency of English Agriculture in the Eighteenth Century," *Journal of Economic History* 32 (1972) — used for the productivity counter-argument in Nuances and Limits (B-claim; empirical).

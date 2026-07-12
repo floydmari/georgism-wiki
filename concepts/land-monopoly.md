@@ -3,6 +3,7 @@ title: "Land Monopoly"
 category: concepts
 tags: [land-monopoly, georgism, land-value-tax, rent-seeking, political-economy]
 stub: false
+excerpt: "The structural condition in which private ownership of land — a gift of nature and social development — lets owners extract rent without contributing to production. Covers its historical mechanisms: Smith's primogeniture and entails, enclosure, colonial acquisition, and institutional exclusion."
 sources: [george-1879]
 excerpt: "In Georgist analysis, land monopoly is the structural condition in which private landownership lets owners collect economic rent — value created by nature and community growth — without contributing to production, since land cannot be reproduced in response to price."
 ---
@@ -24,6 +25,16 @@ Critics of Georgism sometimes conflate land and capital, treating land as simply
 Land monopoly has direct implications for housing affordability. When land in desirable locations is held speculatively rather than developed, the supply of housing is restricted below what the market could produce. The owner benefits from rising land values (fuelled by others' economic activity and public investment) while contributing nothing. An LVT penalises this behaviour by making idle land holding costly, incentivising either development or sale to someone who will develop.
 
 ## Book Findings
+
+### Smith: Primogeniture and Entails as Concentration Mechanisms (1776)
+
+The earliest account of land concentration on this wiki comes from [Adam Smith](/wiki/adam-smith/), whose Book III of [*The Wealth of Nations*](/wiki/wealth-of-nations/) analyses how the great estates engrossed after the fall of Rome were prevented from ever breaking up: "The law of primogeniture hindered them from being divided by succession; the introduction of entails prevented their being broke into small parcels by alienation" (Smith 1776, Book III, Ch. II). Smith explains the feudal logic of concentration — "when land was considered as the means, not of subsistence merely, but of power and protection, it was thought better that it should descend undivided to one" — and then argues that the institutions outlived their rationale, surviving only "to support the pride of family distinctions." His verdict on entails is the sharpest passage in the classical canon on hereditary land concentration:
+
+> "They are founded upon the most absurd of all suppositions, the supposition that every successive generation of men have not an equal right to the earth, and to all that it possesses; but that the property of the present generation should be restrained and regulated according to the fancy of those who died, perhaps five hundred years ago." (Smith 1776, Book III, Ch. II)
+
+Smith's complaint is economic as well as moral: concentration obstructed improvement, since "it seldom happens, however, that a great proprietor is a great improver" (Book III, Ch. II). Smith is a classical antecedent, not a Georgist — his target is the legal machinery that froze land markets, not private landownership itself, and he proposed freer alienation of land, not rent capture. But the "equal right to the earth" phrasing is the same premise Georgists later built on, and citing Smith here shows that the critique of hereditary land concentration is as old as economics itself; that reading is this wiki's interpretive framing. (A-claims for the quotations; D-claim; interpretive.)
+
+See: [The Wealth of Nations (Smith)](/wiki/wealth-of-nations/)
 
 ### Neeson: Enclosure as Land Monopoly Mechanism
 
@@ -78,7 +89,8 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 ## Sources
 
 1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) — used for the concept's definition and the monopoly framing (A-claims).
-2. Henry George (1883), *Social Problems* — used for George's popular restatement of the land-monopoly argument (A-claim). [wiki summary](/wiki/social-problems/)
-3. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the enclosure-as-monopoly-mechanism account (A/B-claims). [Book page](/wiki/commoners-neeson/)
-4. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Harvard University Press, 2005) — used for the colonial land-acquisition-as-monopoly account (A/D-claims). [Book page](/wiki/how-the-indians-lost-their-land/)
-5. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: UNC Press, 2013) — used for the systematic land-deprivation account (B/D-claims). [Book page](/wiki/dispossession-daniel/)
+2. Adam Smith (1776), *The Wealth of Nations*, Book III, Ch. II — used for primogeniture and entails as concentration mechanisms and the "equal right to the earth" passage (A-claims for the quotations, public domain, verified verbatim against the repo-hosted text 2026-07-11; D-claim for the Georgist framing). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](../sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/).
+3. Henry George (1883), *Social Problems* — used for George's popular restatement of the land-monopoly argument (A-claim). [wiki summary](/wiki/social-problems/)
+4. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the enclosure-as-monopoly-mechanism account (A/B-claims). [Book page](/wiki/commoners-neeson/)
+5. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Harvard University Press, 2005) — used for the colonial land-acquisition-as-monopoly account (A/D-claims). [Book page](/wiki/how-the-indians-lost-their-land/)
+6. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: UNC Press, 2013) — used for the systematic land-deprivation account (B/D-claims). [Book page](/wiki/dispossession-daniel/)

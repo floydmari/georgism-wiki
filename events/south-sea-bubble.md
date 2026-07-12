@@ -42,7 +42,14 @@ in the narrower sense used elsewhere on this wiki.[3] This framing is Harrison's
 own; standard financial-history accounts of the South Sea Bubble emphasize stock
 manipulation, insider dealing among company directors and government ministers, and
 the absence of any effective securities regulation, rather than a rent-securitisation
-thesis specifically.[1]
+thesis specifically.[1] The most-cited modern economic-history treatment, Peter Temin
+and Hans-Joachim Voth's "Riding the South Sea Bubble" (*American Economic Review*,
+2004), likewise reads the episode through investor behaviour rather than any
+capitalisation-of-rent mechanism: using a unique daily-trades dataset from Hoare's
+Bank, they argue "it was profitable to 'ride the bubble'" and that "the need for
+coordination in attacking the South Sea bubble was the key to allowing it to inflate
+to such an extreme extent," with Hoare's making "a profit of over £28,000" even as
+"many investors, including Isaac Newton, lost substantially in 1720."[4]
 
 ## See Also
 
@@ -56,3 +63,4 @@ thesis specifically.[1]
 1. "South Sea Company," Wikipedia, accessed July 2026 — used for the company's founding, the debt-conversion structure, the asiento slave-trade monopoly, and the 1720 share-price rise and collapse. [Wikipedia](https://en.wikipedia.org/wiki/South_Sea_Company)
 2. "Isaac Newton's financial misadventures in the South Sea Bubble," Andrew Odlyzko, *Notes and Records: The Royal Society Journal of the History of Science* 73(1), 2019 — used for Newton's estimated losses and the scholarly caution around the "madness of people" quotation. [Royal Society](https://royalsocietypublishing.org/rsnr/article/73/1/29/48674/Newton-s-financial-misadventures-in-the-South-Sea)
 3. Fred Harrison, *[Boom Bust: House Prices, Banking and the Depression of 2010](/wiki/harrison-boom-bust/)*, Shepheard-Walwyn, 2005, Ch. 7 §1 — the discovery source for this page; used for the framing of the South Sea Bubble as the founding episode in a securitisation pattern running through to sub-prime mortgages, drawn from the wiki's existing discovery-report summary of the book rather than a fresh primary-text read. [CITATION NEEDED: direct page citation from a fresh read of Ch. 7.]
+4. Peter Temin and Hans-Joachim Voth, "Riding the South Sea Bubble," *American Economic Review* 94, no. 5 (2004): 1654–1668 — the standard modern economic-history study; used for the "ride the bubble" thesis, the coordination-of-attack argument, Hoare's Bank's ~£28,000 profit, and Newton's substantial 1720 loss (Temin and Voth cite John Carswell's *The South Sea Bubble* for context). Quotations taken from a fresh read of the full-text working-paper version. [PDF (CREI/UPF)](https://crei.cat/wp-content/uploads/users/working-papers/voth_ridingsouthsea.pdf)

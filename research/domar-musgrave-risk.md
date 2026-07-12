@@ -8,6 +8,7 @@ tier: Important
 source_url: https://academic.oup.com/qje/article-abstract/58/3/388/1896885
 stub: false
 supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
+bears_on_objections: [taxing-quasi-rents-kills-innovation]
 excerpt: "The 1944 QJE classic showing that a proportional tax leaves risk-taking undamaged — and can even encourage it — only with full loss offset: the state must share losses as fully as gains. Since no real tax system offers full refundability, this is the analytic hinge of the Schumpeterian objection to rent taxation as practiced."
 last_reviewed: 2026-07-06
 ---
@@ -44,8 +45,9 @@ answers it.
 The condition is demanding but not utopian: Norway's post-2022 petroleum
 cash-flow tax pays **cash refunds for the tax value of losses** at a 78%
 combined rate — the existence proof that full refundability is administrable,
-at least in a sector where the rent is least contested (details and [VERIFY]
-flags on the [cash-flow tax](/wiki/cash-flow-tax/) page).
+at least in a sector where the rent is least contested (details on the
+[cash-flow tax](/wiki/cash-flow-tax/) page, whose earlier VERIFY flags on this
+point have since been resolved).
 
 ## See Also
 

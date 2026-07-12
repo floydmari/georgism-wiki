@@ -20,11 +20,13 @@ Behind Rawls's **veil of ignorance** — not knowing whether one will be born to
 
 ## Bears On
 
+
+- [Property-Owning Democracy](/wiki/property-owning-democracy/) — the Rawlsian institutional frame this paper's argument inhabits
 - **Concept:** [Georgism](/wiki/georgism/) · [Geolibertarianism](/wiki/geolibertarianism/)
 
 ## Sources
 
-1. Rhee (2024), "Fairness of Land Value Taxation: A Rawlsian Derivation," SSRN — used
-   for the argument that an LVT can be justified from Rawlsian first principles (the
+1. Rhee (2024), "Fairness of Land Value Taxation: A Rawlsian Derivation," SSRN
+   — used for the argument that an LVT can be justified from Rawlsian first principles (the
    value of location as a common asset owed to the least advantaged).
    [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4797126)

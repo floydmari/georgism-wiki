@@ -35,5 +35,5 @@ As an official government inquiry rather than an academic paper, the report carr
 
 ## Sources
 
-1. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010* (2010 ed.), Ch. 13 §1 — the discovery source citing this inquiry. [wiki summary](/wiki/harrison-boom-bust/)
-2. Productivity Commission (2004), *First Home Ownership*, Report No. 28 (Melbourne, 31 March 2004) — primary source for all findings above. [Full PDF](https://assets.pc.gov.au/inquiries/completed/first-home-ownership/report/housing.pdf)
+1. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010* (2010 ed.), Ch. 13 §1 — used as the discovery source citing this inquiry. [wiki summary](/wiki/harrison-boom-bust/)
+2. Productivity Commission (2004), *First Home Ownership*, Report No. 28 (Melbourne, 31 March 2004) — used as the primary source for all findings above. [Full PDF](https://assets.pc.gov.au/inquiries/completed/first-home-ownership/report/housing.pdf)

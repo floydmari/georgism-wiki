@@ -69,19 +69,19 @@ Bryson argues that George's ideas have been progressively validated by modern ec
 
 ## Key Quotes
 
-> "Even the panacea—nationalization not of land but of the rent of land by a confiscatory tax—benefited by his competence as an economist, for he was careful to frame his 'remedy' in such a manner as to cause the minimum injury to the efficiency of the private-enterprise economy. Professional economists who focused attention on the single-tax proposal and condemned Henry George's teaching, root and branch, were hardly just to him." — Joseph Schumpeter (quoted by Phillip J. Bryson, The Economics of Henry George, Chapter 1)
+> "Even the panacea—nationalization not of land but of the rent of land by a confiscatory tax—benefited by his competence as an economist, for he was careful to frame his 'remedy' in such a manner as to cause the minimum injury to the efficiency of the private-enterprise economy. […]" — Joseph Schumpeter (quoted by Phillip J. Bryson, The Economics of Henry George, Chapter 1). Schumpeter adds that professional economists who focused on the single-tax proposal and condemned George's teaching root and branch were "hardly just to him."
 
 > "His perspectives retain strong relevance in contemporary issues such as land use, urban development and planning, taxation, and property rights. Contemporary economists would generally agree that it makes sense to utilize those ideas in a manner that will 'extend their range of relevance' in those areas." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
 
-> "It is in this area that George's influence is apparently the most direct and durable. His legacy in this area is significant not only in academic terms, but also in terms of the policies that are guiding efforts made to rationalize these national concerns both in the United States and in numerous other countries around the world." — Phillip J. Bryson, The Economics of Henry George, Preface
+> "It is in this area that George's influence is apparently the most direct and durable. […]" — Phillip J. Bryson, The Economics of Henry George, Preface. Bryson adds that George's legacy here is significant not only academically but also in the policies guiding efforts to rationalize these national concerns in the United States and numerous other countries.
 
-> "George was convinced that understanding and consensus could be achieved on scientific issues only if those issues were clearly and correctly defined. Reasoning that proceeded on the basis of such definitions could be productive of positive scientific achievement. He was further convinced that a basic problem with the political economy of his day was the failure to reason correctly about scientific phenomena related to wealth, precisely because wealth had not been carefully and correctly defined." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
+> "George was convinced that understanding and consensus could be achieved on scientific issues only if those issues were clearly and correctly defined. Reasoning that proceeded on the basis of such definitions could be productive of positive scientific achievement. […]" — Phillip J. Bryson, The Economics of Henry George, Chapter 1. Bryson adds that George saw a basic problem of the political economy of his day in its failure to reason correctly about the scientific phenomena of wealth, precisely because wealth had never been carefully and correctly defined.
 
 > "The most useful analytical tool is a form of hypothesis, a 'mental or imaginative experiment.' This is a method that enables us to separate, eliminate, or combine conditions 'in our own imaginations, and thus test the working of known principles.'" — Henry George (quoted by Phillip J. Bryson, The Economics of Henry George, Chapter 1)
 
-> "For at least half a century, George was terribly popular with the general public, but rather viciously attacked by academics. It would take time for history to sort out the mess. George was actually very competent and understood classical economics very well, so it was incumbent on history to recognize the value of his work. It ultimately did so and continues to do so." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
+> "For at least half a century, George was terribly popular with the general public, but rather viciously attacked by academics. It would take time for history to sort out the mess. […]" — Phillip J. Bryson, The Economics of Henry George, Chapter 1. Bryson adds that George was in fact highly competent and understood classical economics very well, so it fell to history to recognize the value of his work — which it ultimately did and continues to do.
 
-> "George was decisive in his insistence that one could not develop a science of the production and distribution of wealth if the aspiring scientists could not decide what they mean by wealth. If they cannot do that, he thought, they will not be able to understand each other or even understand themselves." — Phillip J. Bryson, The Economics of Henry George, Chapter 1
+> "George was decisive in his insistence that one could not develop a science of the production and distribution of wealth if the aspiring scientists could not decide what they mean by wealth. […]" — Phillip J. Bryson, The Economics of Henry George, Chapter 1. Without that, George thought, they would be unable to understand each other or even themselves.
 
 ## Bears On
 
@@ -108,8 +108,8 @@ Bryson argues that George's ideas have been progressively validated by modern ec
 
 ## Sources
 
-1. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011). ISBN 978-0-230-11585-9. — primary source for all claims
-2. Henry George, *Progress and Poverty* (1879) — the work Bryson analyzes in Chs. 2–3.
-3. Henry George, *The Science of Political Economy* (1898) — George's methodology work, discussed in Ch. 1.
-4. Joseph Schumpeter, *History of Economic Analysis* — assessment of George as "very orthodox economist," cited p.5.
-5. Henry George Jr., biography of Henry George — the "long and detailed" biography Bryson references, p.xii.
+1. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011). ISBN 978-0-230-11585-9. — used as the primary source for all claims on this page.
+2. Henry George, *Progress and Poverty* (1879) — used as the work Bryson analyzes in Chs. 2–3.
+3. Henry George, *The Science of Political Economy* (1898) — used for George's methodology, discussed in Ch. 1.
+4. Joseph Schumpeter, *History of Economic Analysis* — used for the assessment of George as "very orthodox economist," cited p.5.
+5. Henry George Jr., biography of Henry George — used as the "long and detailed" biography Bryson references, p.xii.

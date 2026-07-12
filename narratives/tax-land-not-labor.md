@@ -270,12 +270,16 @@ Murray documents that the Budget was carefully designed to avoid burdening the w
    [Hoover Institution, Collected Works of Milton Friedman](https://miltonfriedman.hoover.org/objects/56741/capitalism-socialism-and-democracy-a-symposium) —
    used for the "least bad tax" quotation, trimmed to under 50 words (A-claim, a direct
    quotation attributed to a named economist).
-3. William Vickrey, public-finance writings on the property tax as two taxes bundled
-   together — summarized on the wiki's [William Vickrey](/wiki/william-vickrey/) page.
-   [CITATION NEEDED: a directly verifiable primary Vickrey text or URL for the specific
-   "property tax is two taxes" formulation; this page paraphrases rather than quotes
-   Vickrey verbatim because no independently verified primary source URL could be
-   confirmed in this drafting session] (D-claim, attributed and paraphrased, not quoted).
+3. William Vickrey, on the property tax as two taxes bundled together: "The property tax
+   is, economically speaking, a combination of one of the worst taxes—the part that is
+   assessed on real estate improvements . . . and one of the best taxes—the tax on land
+   or site value." Attributed to Vickrey (1999) — originally from his essay in Kenneth
+   Wenzer (ed.), *Land-Value Taxation: The Equitable and Efficient Source of Public
+   Finance*. Exact wording and attribution verified against Richard F. Dye & Richard W.
+   England, "Assessing the Theory and Practice of Land Value Taxation," which opens with
+   this quotation. [Lincoln Institute of Land Policy PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/land-value-taxation-chp.pdf)
+   (A-claim, direct quotation now verified against an institutional reproduction; the
+   primary Wenzer volume itself was not fetched this session).
 4. Richard Arnott & Joseph Stiglitz, "Aggregate Land Rents, Expenditure on Public
    Goods, and Optimal City Size," *Quarterly Journal of Economics*, 1979.
    [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf) —

@@ -90,12 +90,25 @@ attributed.
   twentieth-century economics is real — that much Gaffney and the mainstream agree
   on; modern work like [Bonnet et al.](/wiki/bonnet-land-is-back/) treats its return
   as overdue. The dispute is over *why* it disappeared.
-- **Verification note.** The egress proxy blocked direct fetches of the article PDF
-  this session; the abstract quotation and bibliographic details are corroborated
-  across the publisher's abstract page and multiple independent listings. Scan depth
-  recorded as **Light**. [VERIFY: whether Blaug addresses Gaffney *by name* in the
-  article body — do not attribute an explicit anti-Gaffney sentence to Blaug until
-  the full text is read.]
+- **What Blaug says about Gaffney directly.** The full article text confirms Blaug
+  engages Gaffney's stratagem thesis **by name** — "A modern Georgist, Mason Gaffney
+  (1994), has argued that this was a deliberate stratagem adopted first by Clark and
+  then by virtually all orthodox economists as the lynch pin of an assault on Henry
+  George" — but pointedly **declines to endorse or reject** it: "whether this
+  conspiracy argument is accepted or not, there is simply no doubt that their refusal
+  to draw a line between land and capital was the final nail in George's coffin."[1]
+  Blaug thus does *not* offer an explicit rebuttal of Gaffney's intentionality claim;
+  his own thesis is the *analytic-grounds* account of why land was folded into
+  capital, which he treats as decisive regardless of whether Gaffney's conspiracy
+  reading is right. The page's framing of Blaug as the "mainstream rival" to Gaffney
+  should be read in that light: it is a rival *explanation*, not a point-by-point
+  refutation.
+- **Verification note.** The full article PDF was directly fetched and read this pass
+  from the open copy hosted by the Robert Schalkenbach Foundation's
+  cooperative-individualism.org archive; the abstract quotation ("not possible even in
+  principle to separate pure ground rent from profits on capital invested in land")
+  and pagination (pp. 270–288) are confirmed verbatim against the body text. Scan
+  depth upgraded to **Full**.
 - Milgate's review's exact page numbers in JEL 34(2) are unverified; venue and date
   are corroborated.
 
@@ -116,9 +129,11 @@ attributed.
 
 1. Mark Blaug, "Henry George: Rebel with a Cause," *European Journal of the History
    of Economic Thought* 7(2), 2000, pp. 270–288. DOI 10.1080/096725600361816.
-   [Abstract](https://www.tandfonline.com/doi/abs/10.1080/096725600361816) — used for
-   the analytic-grounds account (quotation from the published abstract, under 50
-   words) (A/D-claims).
+   [Abstract](https://www.tandfonline.com/doi/abs/10.1080/096725600361816) ·
+   [Free full text (PDF, cooperative-individualism.org)](https://cooperative-individualism.org/blaug-mark_henry-george-rebel-with-a-cause-2000-summer.pdf)
+   — used for the analytic-grounds account and Blaug's direct handling of Gaffney;
+   full text fetched and read this pass, so quotations are verified against the body,
+   not only the published abstract (A/D-claims).
 2. Mark Blaug (ed.), *Henry George (1839–1897)*, Pioneers in Economics vol. 34,
    Edward Elgar, 1992. — used for Blaug's editorial engagement with George
    (A-claim).

@@ -76,17 +76,17 @@ Barnes explicitly connects his proposal to Henry George through the Monopoly boa
 
 > "The commons—those creations of nature and society that we inherit together and must pass on, undiminished, to future generations—belong to everyone and no one. They are not property in the conventional sense, but they have immense value." — Peter Barnes, Capitalism 3.0, Chapter 1
 
-> "As the curtain rises, corporations are gobbling up the commons. They're the big boys on the block, and the commons—an unorganized melange of nature, community, and culture—is the constant loser. It has no property rights of its own, so must rely on government for protection. But government is a fickle guardian that tilts heavily toward corporations." — Peter Barnes, Capitalism 3.0, Introduction
+> "As the curtain rises, corporations are gobbling up the commons. They're the big boys on the block, and the commons—an unorganized melange of nature, community, and culture—is the constant loser. It has no property rights of its own, so must rely on government for protection. […]" — Peter Barnes, Capitalism 3.0, Introduction. Government, Barnes adds, is a fickle guardian that tilts heavily toward corporations.
 
-> "This notion of the commons designates a set of assets that have two characteristics: they're all gifts, and they're all shared. A gift is something we receive, as opposed to something we earn. A shared gift is one we receive as members of a community, as opposed to individually. Examples of such gifts include air, water, ecosystems, languages, music, holidays, money, law, mathematics, parks, the Internet, and much more." — Peter Barnes, Capitalism 3.0, Chapter 1
+> "This notion of the commons designates a set of assets that have two characteristics: they're all gifts, and they're all shared. A gift is something we receive, as opposed to something we earn. A shared gift is one we receive as members of a community, as opposed to individually. […]" — Peter Barnes, Capitalism 3.0, Chapter 1. His examples range from air, water, and ecosystems to languages, law, mathematics, parks, and the Internet.
 
-> "There's another quality to assets in the commons: we have a joint obligation to preserve them. That's because future generations will need them to live, and live well, just as we do. And our generation has no right to say, 'These gifts end here.' This shared responsibility introduces a moral factor that doesn't apply to other economic assets." — Peter Barnes, Capitalism 3.0, Chapter 1
+> "There's another quality to assets in the commons: we have a joint obligation to preserve them. That's because future generations will need them to live, and live well, just as we do. And our generation has no right to say, 'These gifts end here.' […]" — Peter Barnes, Capitalism 3.0, Chapter 1. This shared responsibility, he argues, introduces a moral factor that other economic assets lack.
 
 > "The question our generation faces is: will we change our economic system voluntarily, or let the atmosphere change it for us?" — Peter Barnes, Capitalism 3.0, Chapter 1
 
 > "Society is indeed a contract... between those who are living, those who are dead, and those who are to be born." — Edmund Burke (quoted by Peter Barnes in Capitalism 3.0, Chapter 1)
 
-> "Imagine that the next time corporate dominance ebbs, government—acting on behalf of commoners—swiftly fortifies the commons. It assigns new property rights to commons trusts, builds commons infrastructure, and spawns a new class of genuine co-owners. When corporations regain political dominance, as they inevitably will, they can't undo the new system. The commons now has safeguards and stakeholders; it's entrenched for the long haul." — Peter Barnes, Capitalism 3.0, Introduction
+> "Imagine that the next time corporate dominance ebbs, government—acting on behalf of commoners—swiftly fortifies the commons. It assigns new property rights to commons trusts, builds commons infrastructure, and spawns a new class of genuine co-owners. […]" — Peter Barnes, Capitalism 3.0, Introduction. When corporations regain political dominance, Barnes continues, they cannot undo the new system — the commons is entrenched with safeguards and stakeholders.
 
 > "Others whose writings have influenced me include E. F. Schumacher, Herman Daly, John Maynard Keynes, John Kenneth Galbraith, Ronald Coase, Louis Kelso, and Henry George." — Peter Barnes, Capitalism 3.0, Acknowledgments
 
@@ -111,8 +111,8 @@ Barnes explicitly connects his proposal to Henry George through the Monopoly boa
 
 ## Sources
 
-1. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (San Francisco: Berrett-Koehler, 2006). ISBN 978-1-57675-361-3. Free electronic version at onthecommons.org. — primary text
-2. Garrett Hardin, "The Tragedy of the Commons," *Science* 162 (1968) — referenced by Barnes as the concept he reframes (C-claim; theoretical).
-3. E.F. Schumacher, *Small Is Beautiful* (1973) — cited as formative influence on Barnes (D-claim; interpretive).
-4. Henry George, *Progress and Poverty* (1879) — cited as intellectual predecessor via the Monopoly board game origin (A-claim; factual).
-5. Elinor Ostrom, *Governing the Commons* (Cambridge University Press, 1990) — listed in Barnes's bibliography (p. 183) but not cited or engaged in the body text (A-claim; factual). Full text of *Capitalism 3.0* verified via Barnes's Creative Commons edition at boell.de (`capitalism_3.0_peter_barnes.pdf`).
+1. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (San Francisco: Berrett-Koehler, 2006). ISBN 978-1-57675-361-3. Free electronic version at onthecommons.org. — used for all claims on this page (primary text)
+2. Garrett Hardin, "The Tragedy of the Commons," *Science* 162 (1968) — used as the concept Barnes reframes (C-claim; theoretical).
+3. E.F. Schumacher, *Small Is Beautiful* (1973) — used for the formative influence on Barnes (D-claim; interpretive).
+4. Henry George, *Progress and Poverty* (1879) — used for the intellectual-predecessor connection via the Monopoly board game origin (A-claim; factual).
+5. Elinor Ostrom, *Governing the Commons* (Cambridge University Press, 1990) — used to document that Barnes lists it in his bibliography (p. 183) but does not engage it in the body text (A-claim; factual). Full text of *Capitalism 3.0* verified via Barnes's Creative Commons edition at boell.de (`capitalism_3.0_peter_barnes.pdf`).

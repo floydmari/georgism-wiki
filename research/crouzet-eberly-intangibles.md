@@ -129,16 +129,13 @@ wedges between price and marginal cost, and potentially inefficient allocations"
 a genuinely open, sector-dependent empirical question rather than a settled answer in either
 direction, and their own data support both answers in different parts of the economy.
 
-This paper therefore functions on this wiki as the primary **challenged_by**-side source for a
-forthcoming outcome page on corporate profits increasingly reflecting rents (not yet present in
-this wiki as of this writing — the working slug used elsewhere in the backlog is
-`corporate-profits-increasingly-rents`). Once that outcome page exists, this paper should be
-listed in its `challenged_by` field: it is the strongest available mainstream case that a material
-share of what looks like rising rent-like concentration is, at least in some sectors, a byproduct
-of real productivity gains from intangible investment rather than pure extraction. This page's
-`supports_outcomes` is intentionally left empty rather than pointed at a slug that does not yet
-exist, consistent with how [Barkai's declining-shares paper](/wiki/barkai-declining-shares/) and
-[De Loecker, Eeckhout & Unger](/wiki/de-loecker-eeckhout-unger-markups/) handle the same gap.
+This paper therefore functions on this wiki as the primary **challenged_by**-side source for
+[Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/),
+which lists it in its `challenged_by` field: it is the strongest available mainstream case that a
+material share of what looks like rising rent-like concentration is, at least in some sectors, a
+byproduct of real productivity gains from intangible investment rather than pure extraction. This
+page's `supports_outcomes` is intentionally empty because the paper cuts against, rather than
+supports, that claim.
 
 ## Nuances and Limits
 
@@ -204,9 +201,9 @@ exist, consistent with how [Barkai's declining-shares paper](/wiki/barkai-declin
 
 ## Bears On
 
-- **Outcome (forthcoming):** corporate profits increasingly reflecting rents — this paper supplies
-  the leading sector-differentiated efficiency-side evidence that should populate that page's
-  `challenged_by` field once created; it directly complicates any economy-wide claim that rising
+- **[Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)**
+  — this paper supplies the leading sector-differentiated efficiency-side evidence in that page's
+  `challenged_by` field; it directly complicates any economy-wide claim that rising
   concentration is simply rising rent, while conceding the Healthcare-sector pattern looks more
   like rent than efficiency.
 - **[Superstar Firms](/wiki/superstar-firms/)** — this paper supplies a specific economic
@@ -239,8 +236,8 @@ exist, consistent with how [Barkai's declining-shares paper](/wiki/barkai-declin
    Jackson Hole Economic Policy Symposium, August 23–25, 2018 (this version dated May 14, 2019);
    also circulated as [NBER Working Paper 25869](https://www.nber.org/papers/w25869). Full text:
    [Kansas City Fed symposium PDF](https://www.kansascityfed.org/Jackson%20Hole/documents/6977/crouzeteberly_JH2018.pdf) ·
-   [NBER working paper PDF](https://www.nber.org/system/files/working_papers/w25869/w25869.pdf) —
-   used for the abstract, the investment-gap/intangibles methodology, the sector-by-sector
+   [NBER working paper PDF](https://www.nber.org/system/files/working_papers/w25869/w25869.pdf)
+   — used for the abstract, the investment-gap/intangibles methodology, the sector-by-sector
    productivity/markup decomposition, all quoted passages, and the policy-implications section;
    this session directly retrieved and read the full text of both PDF versions.
 2. Federal Reserve Bank of Kansas City, "Changing Market Structures and Implications for Monetary

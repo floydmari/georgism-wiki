@@ -17,7 +17,7 @@ Gaffney served at various points as an advisor to state and local governments on
 
 ## The Corruption of Economics (1994)
 
-Gaffney's most influential work is *The Corruption of Economics* (1994), co-authored with Fred Harrison. The book advances a historically grounded argument that the mainstream economics profession was systematically reshaped in the late 19th and early 20th centuries — financed in part by landowner interests — specifically to discredit the Single Tax movement and Henry George's analysis. By merging land into the category of capital and marginalising the distinction between earned and unearned income, Gaffney argues, the profession made it intellectually respectable to ignore the most efficient and equitable source of public revenue available.
+Gaffney's most influential work is *The Corruption of Economics* (1994), co-authored with Fred Harrison. The book advances a historically grounded argument that the mainstream economics profession was systematically reshaped in the late 19th and early 20th centuries — financed in part by landowner interests — specifically to discredit the single-tax movement and Henry George's analysis. By merging land into the category of capital and marginalising the distinction between earned and unearned income, Gaffney argues, the profession made it intellectually respectable to ignore the most efficient and equitable source of public revenue available.
 
 The thesis is controversial among academic economists but is supported by considerable archival evidence regarding the funding of early American economics departments.
 

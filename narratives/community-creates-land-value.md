@@ -32,8 +32,9 @@ fund what it builds from the land value that building creates.*
 ## Who Promotes It
 
 - **[Henry George](/wiki/henry-george/)** grounded the whole Georgist programme on it:
-  land value "is the creation of the whole community" and therefore the natural fund
-  for common purposes (*Progress and Poverty*, Book VIII).[1]
+  rent is "the creation of the whole community" and so "necessarily belongs to the
+  whole community" (*Progress and Poverty*, Book VII, Ch. III) — the natural fund
+  for common purposes, developed into the remedy in Book VIII.[1]
 - **[Winston Churchill](/wiki/winston-churchill/)** gave it the canonical political
   form in 1909: roads are made, services improved, "and all the while the landlord
   sits still" — every improvement made by others enhances his land.[2]
@@ -84,7 +85,7 @@ This is, with its twin, the best-evidenced narrative premise in the wiki:
 - **Attribution at parcel level is hard.** The capitalization literature identifies
   average uplifts around identifiable public actions; there is no accepted method for
   decomposing a *specific* parcel's value into community-created and owner-created
-  parts. Betterment levies therefore always draw boundary disputes.
+  parts. Betterment levies therefore tend to draw boundary disputes.
 - **Capture can be captured.** The [Hong Kong](/wiki/hong-kong/) model shows value
   capture funding infrastructure superbly while housing stays very expensive — value
   *capture* is not value *reduction*, a distinction the
@@ -170,8 +171,10 @@ This is, with its twin, the best-evidenced narrative premise in the wiki:
 
 ## Sources
 
-1. Henry George, *Progress and Poverty*, 1879, Book VIII.
-   [Full text (Project Gutenberg)](https://www.gutenberg.org/ebooks/55308) — used for
+1. Henry George, *Progress and Poverty*, 1879, Book VII, Ch. III (rent "the creation
+   of the whole community"); the remedy is developed in Book VIII. Verified verbatim
+   against the [repository full text](../sources/publicdomain/progress-and-poverty.md)
+   ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for
    the community-creation claim in George's own programme (A/C-claims).
 2. Winston Churchill, speech at the King's Theatre, Edinburgh, 17 July 1909, reprinted
    in *The People's Rights*, 1910.

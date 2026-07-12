@@ -96,10 +96,12 @@ rather than merely regulating the credit that finances it.
   bridging the Georgist and credit-cycle readings by locating the causal engine in the
   land-collateral channel. See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 - **Outside academic validation of the prediction record.** [Dirk Bezemer's 2009 survey](/wiki/bezemer-no-one-saw-this-coming/)
-  cross-analyst survey of who anticipated the 2008 crisis in advance, and why, lists
-  Harrison and Foldvary among roughly a dozen analysts who issued detailed, public,
+  cross-analyst survey of who anticipated the 2008 crisis in advance, and why, names
+  Harrison among its twelve analysts who issued detailed, public,
   pre-crisis warnings — grounded, he finds, in accounting/flow-of-funds models of debt
   rather than the equilibrium models dominant in academic macroeconomics at the time.[11]
+  (Foldvary is *not* among Bezemer's twelve; his own advance call rests on his 1997
+  [Georgist–Austrian synthesis paper](/wiki/foldvary-business-cycle-synthesis/), not on Bezemer's audit.)
   This is independent of Georgist framing and lends the *general* claim (credit-financed
   asset speculation predictably produces crises) more credibility than the *specific*
   18-year periodicity claim.
@@ -123,7 +125,8 @@ This is the narrative's honest weak point, and it should be presented as such:
   the *mechanism*, not the *number*.
 - **The prediction record is real but mixed, and partly retrospective.** Harrison and
   Foldvary's 1990s and 2008 calls are documented and were made in advance — Bezemer's
-  independent survey corroborates this.[11] But critics note that some peaks in the
+  independent survey corroborates Harrison's, while Foldvary's rests on his own 1997
+  [Georgist–Austrian synthesis paper](/wiki/foldvary-business-cycle-synthesis/).[11] But critics note that some peaks in the
   historical series (notably 1973, driven by the OPEC oil shock rather than land
   speculation) fit the mechanism poorly, meaning the cycle's dating has sometimes been
   adjusted to the crises rather than derived independently of them. Hoyt himself — the
@@ -259,8 +262,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 - **[The 2008 financial crisis](/wiki/2008-financial-crisis/).** The narrative's central
   proof-point: Foldvary's 1997
   paper and Harrison's 2005 book both pointed to a downturn arriving around 2007–2010,
-  ahead of the consensus, and Bezemer's independent post-hoc survey names both among the
-  analysts who gave detailed advance warning.[5][4][11] Gaffney's *After the Crash*
+  ahead of the consensus, and Bezemer's independent post-hoc survey names Harrison among the
+  analysts who gave detailed advance warning (Foldvary's own record stands on his 1997 paper,
+  not on Bezemer's list).[5][4][11] Gaffney's *After the Crash*
   (2009) reads the crisis itself as substantially a land-price collapse.[8]
 - **Estonia's Tallinn–Riga comparison.** Cited above as supporting evidence for LVT's
   dampening effect; it is a comparison of urban density and development outcomes under a
@@ -282,7 +286,7 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
   asserted in wiki voice, and never claim the cycle has been proven scientifically
   regular.
 - **Use the 2008 record, carefully.** The documented, dated, pre-crisis predictions by
-  Harrison and Foldvary — and Bezemer's independent corroboration — are genuinely
+  Harrison and Foldvary — and Bezemer's independent corroboration of Harrison's — are genuinely
   persuasive material. Pair them immediately with the honest caveats above (the mixed
   dating record, the exclusion from mainstream recognition, the still-open 2026 test) so
   the page and any derived talking points cannot be read as overclaiming.
@@ -382,8 +386,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 11. Dirk Bezemer, "'No One Saw This Coming': Understanding Financial Crisis Through
     Accounting Models," MPRA Paper No. 15892, 2009.
     [PDF (University of Groningen research portal)](https://www.rug.nl/research/portal/files/2646456/09002_Bezemer.pdf)
-    — used for independent, non-Georgist corroboration that Harrison and Foldvary issued
-    detailed public warnings ahead of the 2008 crisis (B-claim).
+    — used for independent, non-Georgist corroboration that Harrison issued
+    detailed public warnings ahead of the 2008 crisis; Foldvary is not among Bezemer's
+    twelve analysts (B-claim).
 12. "Henry George, land speculation, and economic growth and transformation," *Oxford
     Review of Economic Policy* 41(2), 2025 — [wiki summary](/wiki/oxford-review-george-2025/)
     · [article (may be paywalled)](https://academic.oup.com/oxrep/article/41/2/326/8320563)

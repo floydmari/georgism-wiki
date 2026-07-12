@@ -115,22 +115,34 @@ productive equipment.
   interacting with inelastic land supply; land, not construction cost, driving the postwar
   house-price boom), reinforcing the same land-centred reading of the Piketty-era data.
 
-Piketty did not accept this reframing without qualification. In work with Zucman responding to
-Rognlie, Piketty and Zucman acknowledge that housing capital's income share has risen, consistent
-with Rognlie, but argue that a meaningful rise in the *non-housing* capital share remains in
-some of their preferred specifications. The characterization of the residual non-housing rise
+Piketty did not accept this reframing without qualification. In the broader debate over Rognlie's
+critique, Piketty and Zucman acknowledge that housing capital's income share has risen, consistent
+with Rognlie, but — according to secondary accounts of the exchange (see the note below) — maintain
+that a meaningful rise in the *non-housing* capital share remains in some of their preferred
+specifications. The characterization of the residual non-housing rise
 as driven by *market power / markups* rather than by a rising "pure" return to reproducible
 capital is Rognlie's own: in his primary text he decomposes non-housing capital into equipment,
 structures, and land plus a residual "that can be interpreted as representing firm markups over
 cost," and finds that **"Markups are responsible for most of the change in shares, in both
 directions; in particular, accumulation of equipment or structures cannot explain the recent
 rise"** [verified against the [Brookings PDF](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_rognlie.pdf),
-p. 3]. [VERIFY: the *Piketty–Zucman* side of this exchange — specifically their claim that a
-non-housing capital-share rise survives in their preferred US specification — is documented in
-secondary/tertiary accounts (the [CEPR/VoxEU](https://cepr.org/voxeu/columns/pikettys-rising-share-capital-income-and-us-housing-market)
-and [Equitable Growth](https://equitablegrowth.org/labors-share-lost/) discussions of the debate)
-but not in a single standalone primary "rejoinder" document; a future editor should cite the
-relevant Piketty–Zucman specification directly if one is located.] The scholarly consensus that has since formed — reflected in this wiki's
+p. 3]. [VERIFY — sharpened this session: the underlying primary paper, Piketty & Zucman, "Capital is
+Back: Wealth–Income Ratios in Rich Countries 1700–2010," *QJE* 129(3), 2014, was fetched in full
+([piketty.pse.ens.fr](https://piketty.pse.ens.fr/files/PikettyZucman2014QJE.pdf) /
+[gabriel-zucman.eu](https://gabriel-zucman.eu/files/PikettyZucman2014QJE.pdf)). It predates
+Rognlie's critique and contains **no** US-specific "non-housing capital share rises" rejoinder.
+What it does state is (a) that excluding housing from wealth is "inappropriate," because
+housing "typically represents about half of the capital stock" and the housing/business frontier is
+porous (n. 17), and (b) the theoretical claim that with a capital–labour elasticity of substitution
+moderately above 1, rising capital–output ratios raise the *aggregate* capital share — with housing
+included in the capital concept. A targeted search for a standalone Piketty–Zucman document making
+the specific non-housing-US claim returned only Rognlie's own notes and Brookings paper, not a
+Piketty–Zucman rejoinder. The sentence above should therefore be read as characterizing the broad
+Piketty–Zucman position (housing belongs in capital; the aggregate share rose) documented in the
+[CEPR/VoxEU](https://cepr.org/voxeu/columns/pikettys-rising-share-capital-income-and-us-housing-market)
+and [Equitable Growth](https://equitablegrowth.org/labors-share-lost/) discussions — not a located
+primary claim that a *non-housing* rise survives in a preferred US specification, which remains
+attributable only to those secondary/tertiary accounts.] The scholarly consensus that has since formed — reflected in this wiki's
 [capital-share-rise-is-land](/wiki/capital-share-rise-is-land/) outcome page, which rates the
 evidence "Strong (independently replicated across US and European data)" — favours the
 Rognlie/Bonnet-et-al./La Cava land-centred reading over Piketty's original broad-capital
@@ -184,10 +196,10 @@ literature; it is not, on its own terms, a source *for* the land-specific claim.
   and thesis that Rognlie, Bonnet et al., and La Cava subsequently re-decompose and substantially
   attribute to land/housing; Piketty's book itself does not establish the land-specific finding,
   so this page's support for the outcome is *indirect* — as essential context and the thesis
-  being refined, not as independent land-specific evidence. [VERIFY: orchestrator should
-  confirm whether `supports_outcomes` is the honest wiring here, or whether this page should be
-  context-only with no `supports_outcomes`, given that the land-specific claim is Rognlie's
-  contribution, not Piketty's.]
+  being refined, not as independent land-specific evidence. (T1 ruling 2026-07-11:
+  context-only wiring confirmed — `supports_outcomes` stays empty, because the land-specific
+  claim is Rognlie's contribution, not Piketty's; the capital-share claim pages correctly cite
+  Rognlie directly with Piketty as the dataset being decomposed.)
 - **Research:** [Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital"](/wiki/rognlie-piketty-note/) —
   the first and most direct critique/re-decomposition of this book's data.
 - **Research:** [Rognlie (2015), "Deciphering the Fall and Rise in the Net Capital Share"](/wiki/rognlie-capital-share/) —

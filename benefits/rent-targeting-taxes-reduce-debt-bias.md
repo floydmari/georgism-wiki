@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, ace, cash-flow-tax, corporate-tax, debt-bias, tech-rents, geoism, contested-frontier]
 stub: false
 evidence_strength: "Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset"
-supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, power-frerick-excess-returns, domar-musgrave-risk]
+supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, panier-perez-gonzalez-villanueva-belgium-ace, power-frerick-excess-returns, domar-musgrave-risk]
 challenged_by: [hebous-ruf-ace]
 excerpt: "Corporate tax bases that exempt the normal return and tax only above-normal returns — the ACE and cash-flow designs — demonstrably remove the tax subsidy to leverage and, in the expensing variant, stimulate investment. The honest limits: multinationals arbitraged unilateral versions, every full European ACE was repealed, and some of what such taxes reach is quasi-rent."
 last_reviewed: 2026-07-06
@@ -44,9 +44,14 @@ In descending evidential weight:
   Quasi-experimental tax-return microdata from Italy's 2011 ACE: beneficiaries'
   leverage ratios fell substantially, most for smaller, mature, and financially
   vulnerable firms, at far lower revenue cost than Belgium's full-stock design.
-  The Belgian studies (Princen 2012; Panier et al.; aus dem Moore 2014) find
-  the same leverage direction for the hard ACE — the debt-bias effect is the
-  best-replicated result in this literature.
+  The Belgian studies find the same leverage direction for the hard ACE — the
+  best-identified being
+  [Panier, Pérez-González & Villanueva (2015)](/wiki/panier-perez-gonzalez-villanueva-belgium-ace/),
+  who exploit the 2006 notional interest deduction with neighboring countries as
+  controls and find capital structure "significantly responds," the equity share
+  rising through *higher equity* rather than lower liabilities (Princen 2012 and
+  aus dem Moore 2014 concur) — making the debt-bias effect the best-replicated
+  result in this literature.
 - **Most of the corporate base is already above-normal returns —
   [Power & Frerick (2016)](/wiki/power-frerick-excess-returns/).** US Treasury
   microdata: the normal-return share of the corporate tax base fell from ~40%
@@ -150,3 +155,7 @@ rule.)*
 7. Jozef Konings, Catherine Lecocq & Bruno Merlevede (2022), *CJE* 55(4) — used
    for the counter-finding to Hebous–Ruf (cited via the
    [ACE page](/wiki/allowance-for-corporate-equity/); research page queued).
+8. Frédéric Panier, Francisco Pérez-González & Pablo Villanueva (2015), "Capital
+   Structure and Taxes: What Happens When You (Also) Subsidize Equity?" — used for
+   the Belgian full-stock ACE (NID) leverage/equity-share evidence.
+   [Research page](/wiki/panier-perez-gonzalez-villanueva-belgium-ace/)

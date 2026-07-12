@@ -10,6 +10,7 @@ stub: false
 excerpt: "A Common Wealth Canada modelling exercise on a national land value tax coupled with income-tax reform: LVT alone looks regressive by income decile, but a large flat refundable credit reverses this for most households."
 last_reviewed: 2026-07-09
 supports_outcomes: [land-value-tax-can-be-progressive]
+bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
 ---
 
 ## Summary
@@ -22,7 +23,7 @@ The note models the LVT against **two alternative** revenue-neutral income-tax r
 
 The headline "80% of households better off" result attaches to the **flat-credit** version; the enlarged-0%-bracket version is itself regressive up to the 8th income decile (see "Who Bears the Tax" below).
 
-Both figures are confirmed verbatim against the primary source. The note's abstract states: "we find that LVT is largely a regressive tax, particularly when paired with a reduction to income taxes via the enlargement of the basic personal amount (0%) bracket to $88,100. These impacts are substantially mitigated by a flat per household refundable tax credit of $12,700 which leaves 80% of households better off." (Common Wealth Canada, Apr. 2024, primary page fetched directly this pass.)
+Both figures are confirmed verbatim against the primary source. The note's abstract states: "we find that LVT is largely a regressive tax […] These impacts are substantially mitigated by a flat per household refundable tax credit of $12,700 which leaves 80% of households better off." — the elided clause specifying that regressivity is most pronounced when the LVT is paired with the enlarged $88,100 basic-personal-amount bracket. (Common Wealth Canada, Apr. 2024, primary page fetched directly this pass.)
 
 ## Methodology
 
@@ -68,7 +69,7 @@ This note **complicates, rather than simply confirms**, the wiki's existing prog
 
 ## Sources
 
-1. Liam Wilkinson / Common Wealth Canada, "Assessing the Distributional Impacts of a Land Value Tax Coupled with Income Tax Reform," April 2024. https://commonwealth.ca/research/distributional-impacts — **primary source, fetched and read directly this pass** (the domain serves fine with a browser user-agent). Verified against it: the $88,100 BPA figure, the $12,700 flat credit, the "80% of households better off" abstract claim, the LVT-alone regressivity finding, the retired-homeowner "as much as a 43% decline in income" figure, the SFS-2019/58%-land-ratio methodology, the SPSD/M (Vivic Research) modelling of the 0% bracket, and the negative-income-tax recommendation. The note also links an underlying spreadsheet ("Tax Incidence of LVT and Income Tax Reform," sheets "BPA 17% LVT Model" and "RTC 17% LVT Model") for its cell-level calculations.
+1. Liam Wilkinson / Common Wealth Canada, "Assessing the Distributional Impacts of a Land Value Tax Coupled with Income Tax Reform," April 2024. https://commonwealth.ca/research/distributional-impacts — **primary source, fetched and read directly this pass** (the domain serves fine with a browser user-agent) — used for all quantitative findings on this page. Verified against it: the $88,100 BPA figure, the $12,700 flat credit, the "80% of households better off" abstract claim, the LVT-alone regressivity finding, the retired-homeowner "as much as a 43% decline in income" figure, the SFS-2019/58%-land-ratio methodology, the SPSD/M (Vivic Research) modelling of the 0% bracket, and the negative-income-tax recommendation. The note also links an underlying spreadsheet ("Tax Incidence of LVT and Income Tax Reform," sheets "BPA 17% LVT Model" and "RTC 17% LVT Model") for its cell-level calculations.
 2. Common Wealth Canada, "Modeling the Price Reaction to the Implementation of a Land Value Tax: A discussion of parameter selection, assumptions, and sensitivity," 2024. https://commonwealth.ca/research/lvt-sensitivity-analysis — companion sensitivity-analysis note, referenced here for context on design-dependence; not yet independently reviewed for this wiki (tracked as a separate drift item in `sources/registry.csv`).
 3. Statistics Canada, "Social Policy Simulation Database and Model (SPSD/M)." https://www.statcan.gc.ca/en/microsimulation/spsdm/spsdm — confirmed as the tool used (by research partner Vivic Research) to model the enlarged 0% basic-personal-amount bracket in this note, with the $194B LVT revenue as the offset. The LVT-incidence side of the note instead uses a custom Statistics Canada Survey of Financial Security (SFS) 2019 tabulation.
 4. Gregor Schwerhoff, Ottmar Edenhofer & Marc Fleurbaey (2022), "Equity and Efficiency Effects of Land Value Taxation," IMF Working Paper WP/22/263. [wiki summary](/wiki/schwerhoff-imf-equity-efficiency/) — used as the contrasting wealth-concentration argument for LVT progressivity.

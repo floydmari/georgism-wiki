@@ -10,6 +10,7 @@ stub: false
 excerpt: "Saiz uses satellite data on terrain and water to show why housing supply is inelastic in many US cities: physical land scarcity and land-use regulation jointly constrain new construction and drive up land — not just house — prices."
 last_reviewed: 2026-07-03
 supports_outcomes: [lvt-improves-housing-affordability]
+bears_on_objections: [planning-restrictions-cause-high-prices]
 ---
 
 ## Summary

@@ -29,5 +29,5 @@ This wiki has not obtained the original 1953 text, which sits behind a journal p
 
 ## Sources
 
-1. E. H. Phelps Brown and Bernard Weber (1953), "Accumulation, Productivity and Distribution in the British Economy, 1870–1938," *The Economic Journal*, 63(250), pp. 263–288. [Oxford Academic / DOI](https://academic.oup.com/ej/article-abstract/63/250/263/5258652) — used for bibliographic details (authors, journal, volume, pages, year); full text not independently reviewed for this page.
+1. E. H. Phelps Brown and Bernard Weber (1953), "Accumulation, Productivity and Distribution in the British Economy, 1870–1938," *The Economic Journal*, 63(250), pp. 263–288. [Oxford Academic](https://academic.oup.com/ej/article-abstract/63/250/263/5258652) · [DOI/JSTOR 10.2307/2227124](https://doi.org/10.2307/2227124) — bibliographic details (authors, journal, volume 63, issue 250, page range 263–288, year 1953, LSE affiliation) confirmed this session against the publisher and JSTOR records; the paywalled full text was not obtained, so Harrison's characterization of its capital-return findings (below) remains second-hand.
 2. Fred Harrison (1983), *The Power in the Land*, Universe Books / Shepheard-Walwyn, Ch. 6 — the discovery source; used for the attribution of the declining-capital-returns finding to this paper. [wiki summary](/wiki/harrison-power-in-the-land/)

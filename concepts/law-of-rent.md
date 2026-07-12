@@ -40,7 +40,11 @@ Under these assumptions, the law describes a mechanism by which the gains from s
 
 ## George's Extension
 
-Henry George took Ricardo's agricultural model and generalised it to the entire economy, including urban land and natural resources. In *[Progress and Poverty](/wiki/progress-and-poverty/)* (1879), George argued that the same differential mechanism operates in cities: land near economic activity — ports, railways, markets — commands a location premium. As the economy grows, this premium (rent) rises. But wages and returns to capital are determined at the [margin of production](/wiki/margin-of-production/), where land is free. Therefore, as the economy develops, the gains of progress flow disproportionately to landowners, while the position of wage-earners relative to subsistence remains static or worsens.
+Henry George adopted Ricardo's law directly, restating it in his own words in *[Progress and Poverty](/wiki/progress-and-poverty/)* (1879), Book III, Ch. II ("Rent and the Law of Rent"):
+
+> *The rent of land is determined by the excess of its produce over that which the same application can secure from the least productive land in use.*
+
+George took this agricultural model and generalised it to the entire economy, including urban land and natural resources. He argued that the same differential mechanism operates in cities: land near economic activity — ports, railways, markets — commands a location premium. As the economy grows, this premium (rent) rises. But wages and returns to capital are determined at the [margin of production](/wiki/margin-of-production/), where land is free. Therefore, as the economy develops, the gains of progress flow disproportionately to landowners, while the position of wage-earners relative to subsistence remains static or worsens.
 
 This is the argument at the heart of *Progress and Poverty* — and it explains the title's paradox: how can poverty persist alongside increasing wealth? George's answer, drawing on Ricardo, is that rising land rent absorbs the gains of progress.
 

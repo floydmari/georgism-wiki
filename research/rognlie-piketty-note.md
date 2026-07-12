@@ -27,8 +27,8 @@ He developed the second point fully in the peer-reviewed [Rognlie (2015)](/wiki/
 
 ## Sources
 
-1. Matthew Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital" —
-   used for the argument that Piketty's rising capital share depends on an elasticity
+1. Matthew Rognlie (2014), "A Note on Piketty and Diminishing Returns to Capital"
+   — used for the argument that Piketty's rising capital share depends on an elasticity
    of substitution above one that the evidence does not support, foreshadowing the
    land/housing decomposition in his 2015 paper.
    [PDF](https://gabriel-zucman.eu/files/teaching/Rognlie14.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/rognlie-piketty-note.pdf)

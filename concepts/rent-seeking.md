@@ -25,6 +25,8 @@ Georgist analysis treats private capture of land rent as the foundational form o
 
 - [Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/) — the evidence page: MSV, Baumol, and the honest magnitude caveats
 
+- [The Colonial Origins of Comparative Development (Acemoglu, Johnson & Robinson)](/wiki/acemoglu-johnson-robinson-colonial-origins/) — the instrumented historical evidence that extractive, rent-transferring institutions causally depress income
+
 - [FIRE Sector](/wiki/fire-sector/)
 
 - [Economic Rent](/wiki/economic-rent/) · [Land Monopoly](/wiki/land-monopoly/) · [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/)

@@ -97,6 +97,8 @@ the limit.
 
 ## See Also
 
+
+- [Gibbons & Machin, Paying for Primary Schools](/wiki/gibbons-machin-school-premiums/) — school-quality capitalization into house prices, the amenity-side companion to their rail-access study
 - [Mohammad et al. (2013)](/wiki/mohammad-rail-meta-analysis/) — the systematic evidence across 100+ estimates
 - [Oates (1969)](/wiki/oates-1969-capitalization/) — the founding capitalization study
 - [Henry George Theorem](/wiki/henry-george-theorem/) — the theory this evidence approximates
@@ -107,9 +109,9 @@ the limit.
 1. Stephen Gibbons & Stephen Machin (2005), "Valuing Rail Access Using Transport Innovations,"
    *Journal of Urban Economics* 57(1): 148–169. [DOI](https://doi.org/10.1016/j.jue.2004.10.002) ·
    [CEP Discussion Paper No. 0611 (January 2004), full text](https://cep.lse.ac.uk/pubs/download/dp0611.pdf) ·
-   [LSE Research Online copy](https://researchonline.lse.ac.uk/id/eprint/19989/) — the CEP
-   working-paper full text was read directly for this page and is the source of all quotations and
-   point estimates above (the 9.3 percentage-point difference-in-difference, the 1.5–5.5% per-km
+   [LSE Research Online copy](https://researchonline.lse.ac.uk/id/eprint/19989/) — used for all
+   quotations and point estimates above; the CEP working-paper full text was read directly for
+   this page (the 9.3 percentage-point difference-in-difference, the 1.5–5.5% per-km
    gradients, the 2 km cutoff, the 8.9%/km cross-sectional benchmark, and the school-quality
    comparison); the published ScienceDirect version was paywalled this session, so the published
    tables were not compared line-by-line against the working paper (see Nuances and Limits).

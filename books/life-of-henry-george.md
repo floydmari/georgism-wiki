@@ -40,4 +40,4 @@ Transcribed programmatically from the Internet Archive scan (item [lifeofhenryge
 
 ## Sources
 
-1. Henry George Jr., *The Life of Henry George* (New York: Doubleday & McClure Company, 1900). Public-domain full text: [in-repo transcription](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/life-of-henry-george.md); provenance: [archive.org lifeofhenrygeorg00geor](https://archive.org/details/lifeofhenrygeorg00geor).
+1. Henry George Jr., *The Life of Henry George* (New York: Doubleday & McClure Company, 1900). Public-domain full text: [in-repo transcription](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/life-of-henry-george.md); provenance: [archive.org lifeofhenrygeorg00geor](https://archive.org/details/lifeofhenrygeorg00geor). — used for all biographical and bibliographic claims on this page; primary text, hosted in full in this repository.
