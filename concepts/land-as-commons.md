@@ -5,6 +5,7 @@ tags: [concepts, land-as-commons, equal-rights, spencer, hartzok, ecological-geo
 stub: false
 excerpt: "The tradition holding that land is common property by natural right — that equal access to land is a precondition of justice — tracing from Spencer's early position through George's equal-rights claim to modern ecological framing."
 last_reviewed: 2026-07-11
+pd_quotes: true
 ---
 
 ## Overview

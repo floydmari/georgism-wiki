@@ -5,6 +5,7 @@ tags: [unearned-increment, economic-rent, georgism, land-value-tax, john-stuart-
 stub: false
 excerpt: "The rise in land value that comes not from the owner's effort but from the growth of the surrounding community and public investment. John Stuart Mill named it and proposed taxing the future increment — the phrase and the policy that bridge classical rent theory to Georgism."
 sources: [mill-1848, george-1879]
+pd_quotes: true
 ---
 
 ## Definition

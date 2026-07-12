@@ -9,6 +9,7 @@ stub: false
 excerpt: "Redfearn's 1992 book traces Tolstoy's engagement with Henry George's land reform ideas, documenting Tolstoy's advocacy of the single tax, his critique of state violence, and the connection between Georgism and Tolstoy's Christian anarchism. Published by Shepheard-Walwyn with Fred Harrison's encouragement."
 last_reviewed: 2026-07-07
 supports_outcomes: []
+pd_quotes: true
 ---
 
 ## Summary

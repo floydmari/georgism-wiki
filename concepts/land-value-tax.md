@@ -6,6 +6,7 @@ stub: false
 excerpt: "A levy on the unimproved value of land, excluding buildings and improvements — held by economists across the ideological spectrum to be the least distortionary of all taxes, because land's supply is fixed and cannot shrink in response to the tax."
 sources: [george-1879, mirrlees-2011, tideman-1999]
 last_reviewed: 2026-07-12
+pd_quotes: true
 ---
 
 ## Overview

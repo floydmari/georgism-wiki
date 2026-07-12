@@ -9,6 +9,7 @@ stub: false
 excerpt: "Goldman's 1952 history of American reform from the Civil War to the Fair Deal covers Henry George and the single-tax movement, Populism, labor organizing, and the Progressive Era. Documents George's 1886 NYC mayoral campaign and the single-tax movement's pervasive influence on labor."
 last_reviewed: 2026-07-07
 supports_outcomes: []
+pd_quotes: true
 ---
 
 ## Summary

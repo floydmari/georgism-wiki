@@ -4,6 +4,7 @@ category: concepts
 tags: [concepts, land-value-capture, betterment, public-finance, infrastructure]
 stub: false
 excerpt: "The broad family of public-finance tools that recover, for public benefit, the land-value increases created by public investment and community growth."
+pd_quotes: true
 ---
 
 ## Definition

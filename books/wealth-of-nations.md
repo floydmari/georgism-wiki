@@ -10,6 +10,7 @@ stub: false
 excerpt: "Adam Smith's 1776 founding text of modern economics — read here through a Georgist lens. Book V argues that ground-rents are 'a still more proper subject of taxation than the rent of houses' and 'owe their existence to the good government of the sovereign'; Book I calls the rent of land 'naturally a monopoly price.' Smith is not a Georgist, but George built on him, and these passages are classical roots of the land-value-tax case."
 last_reviewed: 2026-07-12
 supports_outcomes: []
+pd_quotes: true
 ---
 
 ## Summary

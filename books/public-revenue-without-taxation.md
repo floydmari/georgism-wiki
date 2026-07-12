@@ -10,6 +10,7 @@ stub: false
 excerpt: "Burgess argues that taxation is a primal cause of inflation and unemployment, and that land rent provides a natural, non-coercive source of public revenue. Extends Keynesian analysis and Physiocratic tradition to argue for abolishing taxation in favor of land rent collection."
 last_reviewed: 2026-07-07
 supports_outcomes: []
+pd_quotes: true
 ---
 
 ## Summary

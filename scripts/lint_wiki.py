@@ -254,7 +254,11 @@ def main():
             err(f, "committed merge-conflict markers")
         if re.search(r"\[\[[^\]]+\]\]", body):
             err(f, "Obsidian-style [[wikilink]] — use [text](/wiki/slug/) markdown links")
-        for q in ([] if meta.get("public_domain") is True else re.findall(r'"([^"\n]{200,}?)"', body)):
+        # pd_quotes: true (added 2026-07-12) — set by a T1 editor after confirming
+        # every over-cap quote on the page is from a public-domain source; EDITORIAL
+        # §3b exempts PD quotes from the 50-word cap even on non-PD pages.
+        for q in ([] if meta.get("public_domain") is True or meta.get("pd_quotes") is True
+                  else re.findall(r'"([^"\n]{200,}?)"', body)):
             # skip likely between-quote spans: real quotations rarely carry markdown,
             # and they start with a letter (spans start mid-sentence with space/punct)
             if any(ch in q for ch in ("*", "](", "[", "#")) or not q[:1].isalpha():
