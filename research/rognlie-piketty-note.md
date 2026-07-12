@@ -1,13 +1,23 @@
 ---
-title: "A Note on Piketty and Diminishing Returns to Capital"
+authors:
+- Matthew Rognlie
 category: research
-tags: [research, piketty, capital, land, housing, rognlie]
-authors: [Matthew Rognlie]
-year: 2014
+excerpt: Rognlie's first, widely circulated critique of Piketty — showing the rise
+  in capital's share is concentrated in housing and that capital faces diminishing
+  returns.
 source_url: https://gabriel-zucman.eu/files/teaching/Rognlie14.pdf
-tier: core
 stub: false
-excerpt: "Rognlie's first, widely circulated critique of Piketty — showing the rise in capital's share is concentrated in housing and that capital faces diminishing returns."
+subcategory: wiki-research-inequality
+tags:
+- research
+- piketty
+- capital
+- land
+- housing
+- rognlie
+tier: core
+title: A Note on Piketty and Diminishing Returns to Capital
+year: 2014
 ---
 
 ## Summary

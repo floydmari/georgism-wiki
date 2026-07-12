@@ -1,13 +1,23 @@
 ---
-title: "Mapping Modern Economic Rents"
+authors:
+- Mariana Mazzucato
+- Josh Ryan-Collins
+- Giorgos Gouzoulis
 category: research
-tags: [research, economic-rents, rent-seeking, mazzucato, framework]
-authors: [Mariana Mazzucato, Josh Ryan-Collins, Giorgos Gouzoulis]
-year: 2023
+excerpt: A framework distinguishing value-creating activity from value-extracting
+  economic rent across land, finance, and digital platforms.
 source_url: https://discovery.ucl.ac.uk/id/eprint/10172018/1/bead013.pdf
-tier: important
 stub: false
-excerpt: "A framework distinguishing value-creating activity from value-extracting economic rent across land, finance, and digital platforms."
+subcategory: wiki-research-housing
+tags:
+- research
+- economic-rents
+- rent-seeking
+- mazzucato
+- framework
+tier: important
+title: Mapping Modern Economic Rents
+year: 2023
 ---
 
 ## Summary

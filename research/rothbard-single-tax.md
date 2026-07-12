@@ -1,16 +1,30 @@
 ---
-title: "Rothbard, \"The Single Tax: Economic and Moral Implications\""
+authors:
+- Murray Rothbard
+bears_on_objections:
+- land-is-just-capital
+- lvt-austrian-critique
 category: research
-tags: [research, austrian-economics, rothbard, single-tax, land-value-tax, homesteading, critique]
-authors: [Murray Rothbard]
-year: 1957
-tier: important
+excerpt: 'Rothbard''s 1957 FEE essay is the canonical Austrian-school case against
+  the single tax: land rent is not categorically ''unearned,'' a 100% land tax destroys
+  the price signals that allocate scarce sites, and Georgist common land ownership
+  conflicts with homesteading.'
+last_reviewed: 2026-07-03
 source_url: https://mises.org/library/single-tax-economic-and-moral-implications
 stub: false
-excerpt: "Rothbard's 1957 FEE essay is the canonical Austrian-school case against the single tax: land rent is not categorically 'unearned,' a 100% land tax destroys the price signals that allocate scarce sites, and Georgist common land ownership conflicts with homesteading."
-last_reviewed: 2026-07-03
+subcategory: wiki-research-urban
 supports_outcomes: []
-bears_on_objections: [land-is-just-capital, lvt-austrian-critique]
+tags:
+- research
+- austrian-economics
+- rothbard
+- single-tax
+- land-value-tax
+- homesteading
+- critique
+tier: important
+title: 'Rothbard, "The Single Tax: Economic and Moral Implications"'
+year: 1957
 ---
 
 ## Overview

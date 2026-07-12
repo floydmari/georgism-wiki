@@ -1,15 +1,27 @@
 ---
-title: "Benefits of Competition and Indicators of Market Power"
+authors:
+- Council of Economic Advisers
 category: research
-tags: [research, cea, market-power, concentration, rents, competition-policy, obama-administration]
-authors: [Council of Economic Advisers]
-year: 2016
-tier: supplementary
+excerpt: A 2016 Council of Economic Advisers issue brief documenting rising industry
+  concentration, increasing returns dispersion among firms, and declining business
+  dynamism — an official U.S. government corroboration of the rising-rents thesis.
+last_reviewed: 2026-07-04
 source_url: https://obamawhitehouse.archives.gov/sites/default/files/page/files/20160414_cea_competition_issue_brief.pdf
 stub: false
-excerpt: "A 2016 Council of Economic Advisers issue brief documenting rising industry concentration, increasing returns dispersion among firms, and declining business dynamism — an official U.S. government corroboration of the rising-rents thesis."
-last_reviewed: 2026-07-04
-supports_outcomes: [corporate-profits-increasingly-rents]
+subcategory: wiki-research-finance
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- cea
+- market-power
+- concentration
+- rents
+- competition-policy
+- obama-administration
+tier: supplementary
+title: Benefits of Competition and Indicators of Market Power
+year: 2016
 ---
 
 ## Summary

@@ -1,15 +1,29 @@
 ---
-title: "Housing Prices, Mortgage Interest Rates and the Rising Share of Capital Income in the United States"
+authors:
+- Gianni La Cava
 category: research
-tags: [research, capital-share, housing, land, imputed-rent, mortgage-rates, housing-supply-elasticity, monetary-policy]
-authors: [Gianni La Cava]
-year: 2016
-tier: Important
+excerpt: BIS/RBA paper showing the postwar rise in US housing's income share is overwhelmingly
+  imputed rent to owner-occupiers, driven by falling mortgage rates and concentrated
+  in supply-constrained states — a land-scarcity story.
+last_reviewed: 2026-07-03
 source_url: https://www.bis.org/publ/work572.pdf
 stub: false
-excerpt: "BIS/RBA paper showing the postwar rise in US housing's income share is overwhelmingly imputed rent to owner-occupiers, driven by falling mortgage rates and concentrated in supply-constrained states — a land-scarcity story."
-last_reviewed: 2026-07-03
-supports_outcomes: [capital-share-rise-is-land]
+subcategory: wiki-research-housing
+supports_outcomes:
+- capital-share-rise-is-land
+tags:
+- research
+- capital-share
+- housing
+- land
+- imputed-rent
+- mortgage-rates
+- housing-supply-elasticity
+- monetary-policy
+tier: Important
+title: Housing Prices, Mortgage Interest Rates and the Rising Share of Capital Income
+  in the United States
+year: 2016
 ---
 
 ## Summary

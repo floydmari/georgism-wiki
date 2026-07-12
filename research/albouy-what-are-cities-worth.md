@@ -1,15 +1,29 @@
 ---
-title: "What Are Cities Worth? Land Rents, Local Productivity, and the Total Value of Amenities"
+authors:
+- David Albouy
 category: research
-tags: [research, land-rents, capitalization, spatial-equilibrium, amenities, urban-economics, rosen-roback]
-authors: [David Albouy]
-year: 2016
-tier: Core
+excerpt: Albouy's Rosen-Roback model infers city-level land rents, productivity, and
+  total amenity value from U.S. wage and housing-cost data, finding productivity —
+  not quality of life — drives most cross-city price variation.
+last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1162/REST_a_00550
 stub: false
-excerpt: "Albouy's Rosen-Roback model infers city-level land rents, productivity, and total amenity value from U.S. wage and housing-cost data, finding productivity — not quality of life — drives most cross-city price variation."
-last_reviewed: 2026-07-03
-supports_outcomes: [public-investment-capitalizes-into-land, rising-land-costs-drive-poverty]
+subcategory: wiki-research-urban
+supports_outcomes:
+- public-investment-capitalizes-into-land
+- rising-land-costs-drive-poverty
+tags:
+- research
+- land-rents
+- capitalization
+- spatial-equilibrium
+- amenities
+- urban-economics
+- rosen-roback
+tier: Core
+title: What Are Cities Worth? Land Rents, Local Productivity, and the Total Value
+  of Amenities
+year: 2016
 ---
 
 ## Summary

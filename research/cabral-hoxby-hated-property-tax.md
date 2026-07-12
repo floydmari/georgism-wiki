@@ -1,14 +1,25 @@
 ---
-title: "Cabral & Hoxby (2012): The Hated Property Tax"
+authors:
+- Marika Cabral
+- Caroline Hoxby
 category: research
-tags: [research, property-tax, salience, tax-politics, proposition-13, stub]
-authors: [Marika Cabral, Caroline Hoxby]
-year: 2012
-tier: Important
+excerpt: NBER working paper arguing the property tax's high visibility to payers —
+  its salience — explains why it is the least popular US tax, and that areas where
+  escrow hides the tax better tolerate higher rates and see fewer tax revolts.
+last_reviewed: 2026-07-11
 source_url: https://www.nber.org/papers/w18514
 stub: true
-excerpt: "NBER working paper arguing the property tax's high visibility to payers — its salience — explains why it is the least popular US tax, and that areas where escrow hides the tax better tolerate higher rates and see fewer tax revolts."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- property-tax
+- salience
+- tax-politics
+- proposition-13
+- stub
+tier: Important
+title: 'Cabral & Hoxby (2012): The Hated Property Tax'
+year: 2012
 ---
 
 ## Overview

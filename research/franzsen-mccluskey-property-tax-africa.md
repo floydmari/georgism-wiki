@@ -1,15 +1,28 @@
 ---
-title: "Property Tax in Africa: Status, Challenges, and Prospects"
+authors:
+- Riël Franzsen
+- William McCluskey
 category: research
-tags: [research, africa, property-tax, lincoln-institute, administration, valuation, developing-countries]
-authors: [Riël Franzsen, William McCluskey]
-year: 2017
-tier: Important
+excerpt: The first comprehensive study of recurrent property taxation across Africa
+  — 29 country reviews showing the tax is efficient in theory but severely constrained
+  by valuation, identification, and enforcement capacity.
+last_reviewed: 2026-07-04
 source_url: https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/property-tax-in-africa-full_1.pdf
 stub: false
-excerpt: "The first comprehensive study of recurrent property taxation across Africa — 29 country reviews showing the tax is efficient in theory but severely constrained by valuation, identification, and enforcement capacity."
-last_reviewed: 2026-07-04
-supports_outcomes: [property-tax-raises-welfare-developing]
+subcategory: wiki-research-urban
+supports_outcomes:
+- property-tax-raises-welfare-developing
+tags:
+- research
+- africa
+- property-tax
+- lincoln-institute
+- administration
+- valuation
+- developing-countries
+tier: Important
+title: 'Property Tax in Africa: Status, Challenges, and Prospects'
+year: 2017
 ---
 
 ## Summary

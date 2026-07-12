@@ -1,15 +1,28 @@
 ---
-title: "House Price Uncertainty, Timing of Development, and Vacant Land Prices: Evidence for Real Options in Seattle"
+authors:
+- Christopher R. Cunningham
 category: research
-tags: [research, real-options, land-speculation, vacant-land, seattle, empirical, urban-economics]
-authors: [Christopher R. Cunningham]
-year: 2006
-tier: important
+excerpt: Seattle parcel-level evidence that house-price uncertainty raises vacant
+  land prices and delays development — a direct empirical test of real-options theory
+  in land markets, not a study of any tax.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1016/j.jue.2005.08.003
 stub: false
-excerpt: "Seattle parcel-level evidence that house-price uncertainty raises vacant land prices and delays development — a direct empirical test of real-options theory in land markets, not a study of any tax."
-last_reviewed: 2026-07-10
-supports_outcomes: [lvt-dampens-land-speculation]
+subcategory: wiki-research-housing
+supports_outcomes:
+- lvt-dampens-land-speculation
+tags:
+- research
+- real-options
+- land-speculation
+- vacant-land
+- seattle
+- empirical
+- urban-economics
+tier: important
+title: 'House Price Uncertainty, Timing of Development, and Vacant Land Prices: Evidence
+  for Real Options in Seattle'
+year: 2006
 ---
 
 ## Summary

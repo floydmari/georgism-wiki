@@ -1,15 +1,27 @@
 ---
-title: "Urban Sprawl and the Property Tax (Brueckner & Kim, 2003)"
+authors:
+- Jan K. Brueckner
+- Hyun-A Kim
 category: research
-tags: [research, property-tax, urban-sprawl, urban-economics, theory, counter-evidence]
-authors: [Jan K. Brueckner, Hyun-A Kim]
-year: 2003
-tier: important
+excerpt: 'Brueckner & Kim''s 2003 theoretical paper shows the conventional property
+  tax has two opposing effects on city size, so its net effect on sprawl is ambiguous
+  — and under low substitution the tax can actually encourage sprawl. Carried here
+  as counter-evidence: the anti-sprawl case cannot rest on the property tax alone.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1023/A:1022260512147
 stub: false
-excerpt: "Brueckner & Kim's 2003 theoretical paper shows the conventional property tax has two opposing effects on city size, so its net effect on sprawl is ambiguous — and under low substitution the tax can actually encourage sprawl. Carried here as counter-evidence: the anti-sprawl case cannot rest on the property tax alone."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-urban
 supports_outcomes: []
+tags:
+- research
+- property-tax
+- urban-sprawl
+- urban-economics
+- theory
+- counter-evidence
+tier: important
+title: Urban Sprawl and the Property Tax (Brueckner & Kim, 2003)
+year: 2003
 ---
 
 ## Summary

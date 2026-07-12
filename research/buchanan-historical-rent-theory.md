@@ -1,14 +1,25 @@
 ---
-title: "Buchanan (1929): The Historical Approach to Rent and Price Theory"
+authors:
+- Daniel H. Buchanan
 category: research
-tags: [research, rent-theory, history-of-economic-thought, classical-economics, ricardo, marshall, stub]
-stub: true
-excerpt: "Daniel H. Buchanan's 1929 Economica survey of the development of rent theory from Adam Smith through Ricardo to Marshall — a classic history-of-thought reference, listed by Blaug as standard further reading on rent theory."
-authors: [Daniel H. Buchanan]
-year: 1929
-tier: Supplementary
-source_url: https://www.jstor.org/stable/i343585
+excerpt: Daniel H. Buchanan's 1929 Economica survey of the development of rent theory
+  from Adam Smith through Ricardo to Marshall — a classic history-of-thought reference,
+  listed by Blaug as standard further reading on rent theory.
 last_reviewed: 2026-07-11
+source_url: https://www.jstor.org/stable/i343585
+stub: true
+subcategory: wiki-research-lvt
+tags:
+- research
+- rent-theory
+- history-of-economic-thought
+- classical-economics
+- ricardo
+- marshall
+- stub
+tier: Supplementary
+title: 'Buchanan (1929): The Historical Approach to Rent and Price Theory'
+year: 1929
 ---
 
 ## Overview

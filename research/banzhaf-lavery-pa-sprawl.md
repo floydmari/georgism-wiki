@@ -1,15 +1,29 @@
 ---
-title: "Can the Land Tax Help Curb Urban Sprawl? Evidence from Growth Patterns in Pennsylvania"
+authors:
+- H. Spencer Banzhaf
+- Nathan Lavery
 category: research
-tags: [research, pennsylvania, split-rate, construction, sprawl, density, empirical]
-authors: [H. Spencer Banzhaf, Nathan Lavery]
-year: 2010
-tier: important
+excerpt: Panel study of Pennsylvania Census tracts (1970–2000) finding split-rate
+  taxation raises the capital/land ratio mainly by increasing the number of housing
+  units, not their size — evidence it can increase density.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1016/j.jue.2009.08.005
 stub: false
-excerpt: "Panel study of Pennsylvania Census tracts (1970–2000) finding split-rate taxation raises the capital/land ratio mainly by increasing the number of housing units, not their size — evidence it can increase density."
-last_reviewed: 2026-07-10
-supports_outcomes: [split-rate-increases-construction, lvt-reduces-sprawl]
+subcategory: wiki-research-finance
+supports_outcomes:
+- split-rate-increases-construction
+- lvt-reduces-sprawl
+tags:
+- research
+- pennsylvania
+- split-rate
+- construction
+- sprawl
+- density
+- empirical
+tier: important
+title: Can the Land Tax Help Curb Urban Sprawl? Evidence from Growth Patterns in Pennsylvania
+year: 2010
 ---
 
 ## Summary

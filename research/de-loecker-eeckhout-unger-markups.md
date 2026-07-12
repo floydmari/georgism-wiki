@@ -1,15 +1,30 @@
 ---
-title: "The Rise of Market Power and the Macroeconomic Implications"
+authors:
+- Jan De Loecker
+- Jan Eeckhout
+- Gabriel Unger
 category: research
-tags: [research, market-power, markups, profit-share, labor-share, superstar-firms, rent-seeking, qje]
-authors: [Jan De Loecker, Jan Eeckhout, Gabriel Unger]
-year: 2020
-tier: Core
+excerpt: Firm-level evidence that average U.S. markups rose from ~21% above marginal
+  cost in 1980 to ~61% by 2016, concentrated in a rising upper tail — a leading account
+  of falling labor share and business dynamism, contested on measurement grounds.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1093/qje/qjz041
 stub: false
-excerpt: "Firm-level evidence that average U.S. markups rose from ~21% above marginal cost in 1980 to ~61% by 2016, concentrated in a rising upper tail — a leading account of falling labor share and business dynamism, contested on measurement grounds."
-last_reviewed: 2026-07-10
-supports_outcomes: [corporate-profits-increasingly-rents]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- market-power
+- markups
+- profit-share
+- labor-share
+- superstar-firms
+- rent-seeking
+- qje
+tier: Core
+title: The Rise of Market Power and the Macroeconomic Implications
+year: 2020
 ---
 
 ## Summary

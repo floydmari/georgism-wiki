@@ -1,16 +1,31 @@
 ---
-title: "Evidence on the Distributional Effects of a Land Value Tax on Residential Households"
+authors:
+- Elizabeth Plummer
+bears_on_objections:
+- lvt-hurts-asset-rich-cash-poor
+- lvt-hurts-farmers
 category: research
-tags: [research, texas, lvt, tax-incidence, distributional-impacts, property-tax, empirical]
-authors: [Elizabeth Plummer]
-year: 2010
-tier: Important
+excerpt: 'Parcel-level Texas study: replacing a uniform property tax with an LVT shifts
+  burden off single-family homes and onto other property classes, and is only slightly
+  more progressive within residential properties by value.'
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.17310/ntj.2010.1.03
 stub: false
-excerpt: "Parcel-level Texas study: replacing a uniform property tax with an LVT shifts burden off single-family homes and onto other property classes, and is only slightly more progressive within residential properties by value."
-last_reviewed: 2026-07-10
-supports_outcomes: [land-value-tax-can-be-progressive, lvt-improves-housing-affordability]
-bears_on_objections: [lvt-hurts-asset-rich-cash-poor, lvt-hurts-farmers]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- land-value-tax-can-be-progressive
+- lvt-improves-housing-affordability
+tags:
+- research
+- texas
+- lvt
+- tax-incidence
+- distributional-impacts
+- property-tax
+- empirical
+tier: Important
+title: Evidence on the Distributional Effects of a Land Value Tax on Residential Households
+year: 2010
 ---
 
 ## Summary

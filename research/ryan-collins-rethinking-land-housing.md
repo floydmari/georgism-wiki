@@ -1,15 +1,33 @@
 ---
-title: "Rethinking the Economics of Land and Housing"
+authors:
+- Josh Ryan-Collins
+- Toby Lloyd
+- Laurie Macfarlane
 category: research
-tags: [research, land, housing, credit, financialisation, land-value-tax, uk, book]
-authors: [Josh Ryan-Collins, Toby Lloyd, Laurie Macfarlane]
-year: 2017
-source_url: https://neweconomics.org/2017/02/rethinking-economics-land-housing
-tier: important
-stub: false
-excerpt: "A 2017 New Economics Foundation / Zed Books study arguing land is the missing factor in modern economics, and that a land-credit feedback loop between mortgage lending and land prices drives housing unaffordability and financial instability."
+excerpt: A 2017 New Economics Foundation / Zed Books study arguing land is the missing
+  factor in modern economics, and that a land-credit feedback loop between mortgage
+  lending and land prices drives housing unaffordability and financial instability.
 last_reviewed: 2026-07-10
-supports_outcomes: [lvt-improves-housing-affordability, capital-share-rise-is-land, lvt-dampens-land-speculation, high-land-rents-suppress-productivity]
+source_url: https://neweconomics.org/2017/02/rethinking-economics-land-housing
+stub: false
+subcategory: wiki-research-georgism
+supports_outcomes:
+- lvt-improves-housing-affordability
+- capital-share-rise-is-land
+- lvt-dampens-land-speculation
+- high-land-rents-suppress-productivity
+tags:
+- research
+- land
+- housing
+- credit
+- financialisation
+- land-value-tax
+- uk
+- book
+tier: important
+title: Rethinking the Economics of Land and Housing
+year: 2017
 ---
 
 ## Summary

@@ -1,15 +1,29 @@
 ---
-title: "Capitalization of Property Taxes in Norway"
+authors:
+- Lars-Erik Borge
+- Jørn Rattsø
 category: research
-tags: [research, tax-capitalization, property-tax, incidence, norway, quasi-experiment, empirical]
-authors: [Lars-Erik Borge, Jørn Rattsø]
-year: 2014
-tier: Important
+excerpt: Borge & Rattsø exploit the fact that many Norwegian municipalities choose
+  not to levy a property tax, using instruments for tax adoption, and find full capitalization
+  of the property tax into housing prices at realistic discount rates — the burden
+  lands on the owner, not on future occupants.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1177/1091142113489845
 stub: false
-excerpt: "Borge & Rattsø exploit the fact that many Norwegian municipalities choose not to levy a property tax, using instruments for tax adoption, and find full capitalization of the property tax into housing prices at realistic discount rates — the burden lands on the owner, not on future occupants."
-last_reviewed: 2026-07-11
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- tax-capitalization
+- property-tax
+- incidence
+- norway
+- quasi-experiment
+- empirical
+tier: Important
+title: Capitalization of Property Taxes in Norway
+year: 2014
 ---
 
 ## Summary

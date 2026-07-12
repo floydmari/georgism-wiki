@@ -1,15 +1,31 @@
 ---
-title: "The Impact of Local Residential Land Use Restrictions on Land Values Across and Within Single Family Housing Markets"
+authors:
+- Joseph Gyourko
+- Jacob Krimmel
 category: research
-tags: [research, zoning-tax, land-values, land-use-regulation, underuse, nber, urban-economics]
-authors: [Joseph Gyourko, Jacob Krimmel]
-year: 2021
-tier: important
+excerpt: 'Gyourko and Krimmel estimate ''zoning taxes'' from vacant-lot sales: regulation
+  bids up land prices by ~$400k per quarter-acre in San Francisco and $150-200k in
+  LA, NYC and Seattle — direct evidence that valuable urban land is held below its
+  market-implied intensity of use.'
+last_reviewed: 2026-07-10
 source_url: https://www.nber.org/papers/w28993
 stub: false
-excerpt: "Gyourko and Krimmel estimate 'zoning taxes' from vacant-lot sales: regulation bids up land prices by ~$400k per quarter-acre in San Francisco and $150-200k in LA, NYC and Seattle — direct evidence that valuable urban land is held below its market-implied intensity of use."
-supports_outcomes: [speculative-vacancy-wastes-cities, housing-unaffordability-is-a-land-problem]
-last_reviewed: 2026-07-10
+subcategory: wiki-research-lvt
+supports_outcomes:
+- speculative-vacancy-wastes-cities
+- housing-unaffordability-is-a-land-problem
+tags:
+- research
+- zoning-tax
+- land-values
+- land-use-regulation
+- underuse
+- nber
+- urban-economics
+tier: important
+title: The Impact of Local Residential Land Use Restrictions on Land Values Across
+  and Within Single Family Housing Markets
+year: 2021
 ---
 
 ## Summary

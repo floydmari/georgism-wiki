@@ -1,15 +1,35 @@
 ---
-title: "Building Tax Capacity for Growth and Development"
+authors:
+- Katherine Baer
+- Matthieu Bellon
+- Matt Davies
+- Ruud de Mooij
+- Vitor Gaspar
+- Andrea Lemgruber
+- Mario Mansour
+- Fayçal Sawadogo
+- Misa Takebe
+- Charles Vellutini
 category: research
-tags: [research, imf, property-tax, developing-countries, revenue-mobilization, tax-administration]
-authors: [Katherine Baer, Matthieu Bellon, Matt Davies, Ruud de Mooij, Vitor Gaspar, Andrea Lemgruber, Mario Mansour, Fayçal Sawadogo, Misa Takebe, Charles Vellutini]
-year: 2025
-tier: supplementary
+excerpt: IMF Departmental Paper on mobilizing domestic tax revenue in developing countries,
+  arguing property taxation is a large, underused, administratively demanding revenue
+  source.
+last_reviewed: 2026-07-10
 source_url: https://www.imf.org/-/media/files/publications/dp/2025/english/btcgdea.pdf
 stub: false
-excerpt: "IMF Departmental Paper on mobilizing domestic tax revenue in developing countries, arguing property taxation is a large, underused, administratively demanding revenue source."
-last_reviewed: 2026-07-10
-supports_outcomes: [property-tax-raises-welfare-developing]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- property-tax-raises-welfare-developing
+tags:
+- research
+- imf
+- property-tax
+- developing-countries
+- revenue-mobilization
+- tax-administration
+tier: supplementary
+title: Building Tax Capacity for Growth and Development
+year: 2025
 ---
 
 ## Summary

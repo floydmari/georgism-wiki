@@ -1,15 +1,31 @@
 ---
-title: "The Effects of Road Pricing on Driver Behavior and Air Pollution (Gibson & Carnovale)"
+authors:
+- Matthew Gibson
+- Maria Carnovale
 category: research
-tags: [research, congestion-pricing, road-pricing, milan, natural-experiment, air-pollution, causal-inference, geoism]
-authors: [Matthew Gibson, Maria Carnovale]
-year: 2015
-tier: Important
+excerpt: 'The cleanest causal evidence on cordon pricing: an unanticipated court injunction
+  suspended Milan''s Area C charge for eight weeks, creating a sharp on/off natural
+  experiment. Pricing cut vehicle entries by 14.5% and air pollution by 6–17%, with
+  welfare gains the authors value at roughly $3 billion a year.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1016/j.jue.2015.06.005
 stub: false
-excerpt: "The cleanest causal evidence on cordon pricing: an unanticipated court injunction suspended Milan's Area C charge for eight weeks, creating a sharp on/off natural experiment. Pricing cut vehicle entries by 14.5% and air pollution by 6–17%, with welfare gains the authors value at roughly $3 billion a year."
-last_reviewed: 2026-07-11
-supports_outcomes: [congestion-pricing-reduces-traffic]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- congestion-pricing-reduces-traffic
+tags:
+- research
+- congestion-pricing
+- road-pricing
+- milan
+- natural-experiment
+- air-pollution
+- causal-inference
+- geoism
+tier: Important
+title: The Effects of Road Pricing on Driver Behavior and Air Pollution (Gibson &
+  Carnovale)
+year: 2015
 ---
 
 ## Summary

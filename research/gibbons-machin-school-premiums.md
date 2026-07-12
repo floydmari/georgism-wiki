@@ -1,14 +1,26 @@
 ---
-title: "Gibbons & Machin (2006): Paying for Primary Schools"
+authors:
+- Stephen Gibbons
+- Stephen Machin
 category: research
-tags: [research, capitalization, education, london, land-value-capture, urban-economics, stub]
-authors: [Stephen Gibbons, Stephen Machin]
-year: 2006
-tier: Important
+excerpt: London-area homes near top-performing, oversubscribed primary schools carried
+  a roughly £61,000 price premium in 2004 (about 26% of the regional mean price) —
+  public school quality capitalizing sharply into house and land values.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1111/j.1468-0297.2006.01077.x
 stub: true
-excerpt: "London-area homes near top-performing, oversubscribed primary schools carried a roughly £61,000 price premium in 2004 (about 26% of the regional mean price) — public school quality capitalizing sharply into house and land values."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-georgism
+tags:
+- research
+- capitalization
+- education
+- london
+- land-value-capture
+- urban-economics
+- stub
+tier: Important
+title: 'Gibbons & Machin (2006): Paying for Primary Schools'
+year: 2006
 ---
 
 ## Overview

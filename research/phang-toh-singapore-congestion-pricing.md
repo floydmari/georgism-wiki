@@ -1,15 +1,31 @@
 ---
-title: "Road Congestion Pricing in Singapore: 1975 to 2003 (Phang & Toh 2004)"
+authors:
+- Sock-Yong Phang
+- Rex S. Toh
 category: research
-tags: [research, congestion-pricing, road-pricing, singapore, area-licensing-scheme, electronic-road-pricing, geoism]
-authors: [Sock-Yong Phang, Rex S. Toh]
-year: 2004
-tier: Important
+excerpt: 'Phang & Toh''s Transportation Journal review is the standard scholarly account
+  of the world''s first successful congestion charge — Singapore''s 1975 Area Licensing
+  Scheme — and its 28-year evolution into Electronic Road Pricing (1998). It is the
+  flagship source behind the wiki''s Singapore figures: the ~76% morning-peak traffic
+  drop in the Restricted Zone, and the honest caution that the early charge over-shifted
+  behaviour and merely moved congestion in time and place.'
+last_reviewed: 2026-07-11
 source_url: https://ink.library.smu.edu.sg/soe_research/117/
 stub: false
-excerpt: "Phang & Toh's Transportation Journal review is the standard scholarly account of the world's first successful congestion charge — Singapore's 1975 Area Licensing Scheme — and its 28-year evolution into Electronic Road Pricing (1998). It is the flagship source behind the wiki's Singapore figures: the ~76% morning-peak traffic drop in the Restricted Zone, and the honest caution that the early charge over-shifted behaviour and merely moved congestion in time and place."
-last_reviewed: 2026-07-11
-supports_outcomes: [congestion-pricing-reduces-traffic]
+subcategory: wiki-research-resources
+supports_outcomes:
+- congestion-pricing-reduces-traffic
+tags:
+- research
+- congestion-pricing
+- road-pricing
+- singapore
+- area-licensing-scheme
+- electronic-road-pricing
+- geoism
+tier: Important
+title: 'Road Congestion Pricing in Singapore: 1975 to 2003 (Phang & Toh 2004)'
+year: 2004
 ---
 
 ## Summary

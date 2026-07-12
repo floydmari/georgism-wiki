@@ -1,15 +1,26 @@
 ---
-title: "California Irrigation Districts and the Wright Act (1887)"
+authors:
+- E. Robert Scrofani
 category: research
-tags: [research, land-value-capture, california, irrigation, history, wright-act]
-authors: [E. Robert Scrofani]
-year: 1992
-tier: supplementary
+excerpt: California's 1887 Wright Act let farmers finance irrigation districts through
+  a tax on land value alone, exempting improvements — a documented case of land value
+  capture breaking up speculative landholding, though large ownership persisted and
+  later reforms reversed some gains.
+last_reviewed: 2026-07-11
 source_url: https://www.henrygeorge.org/caldes.htm
 stub: false
-excerpt: "California's 1887 Wright Act let farmers finance irrigation districts through a tax on land value alone, exempting improvements — a documented case of land value capture breaking up speculative landholding, though large ownership persisted and later reforms reversed some gains."
+subcategory: wiki-research-resources
 supports_outcomes: []
-last_reviewed: 2026-07-11
+tags:
+- research
+- land-value-capture
+- california
+- irrigation
+- history
+- wright-act
+tier: supplementary
+title: California Irrigation Districts and the Wright Act (1887)
+year: 1992
 ---
 
 ## Overview

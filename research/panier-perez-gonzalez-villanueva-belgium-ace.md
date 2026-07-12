@@ -1,15 +1,33 @@
 ---
-title: "Capital Structure and Taxes: What Happens When You (Also) Subsidize Equity?"
+authors:
+- Frédéric Panier
+- Francisco Pérez-González
+- Pablo Villanueva
 category: research
-tags: [research, ace, notional-interest-deduction, debt-bias, corporate-tax, capital-structure, belgium, quasi-experiment]
-authors: [Frédéric Panier, Francisco Pérez-González, Pablo Villanueva]
-year: 2015
-tier: important
+excerpt: 'The cleanest quasi-experiment on the Belgian notional interest deduction:
+  exploiting the 2006 introduction of an explicit equity deduction as exogenous variation,
+  and using neighboring countries as controls, Panier, Pérez-González & Villanueva
+  find capital structure ''significantly responds'' — the equity share rose, via higher
+  equity rather than lower liabilities. Strong quasi-experimental support that a rent-only
+  base design removes the tax subsidy to leverage.'
+last_reviewed: 2026-07-11
 source_url: https://www.bis.org/events/confresearchnetwork1603/perez_gonzalez.pdf
 stub: false
-supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
-excerpt: "The cleanest quasi-experiment on the Belgian notional interest deduction: exploiting the 2006 introduction of an explicit equity deduction as exogenous variation, and using neighboring countries as controls, Panier, Pérez-González & Villanueva find capital structure 'significantly responds' — the equity share rose, via higher equity rather than lower liabilities. Strong quasi-experimental support that a rent-only base design removes the tax subsidy to leverage."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-urban
+supports_outcomes:
+- rent-targeting-taxes-reduce-debt-bias
+tags:
+- research
+- ace
+- notional-interest-deduction
+- debt-bias
+- corporate-tax
+- capital-structure
+- belgium
+- quasi-experiment
+tier: important
+title: 'Capital Structure and Taxes: What Happens When You (Also) Subsidize Equity?'
+year: 2015
 ---
 
 ## Summary

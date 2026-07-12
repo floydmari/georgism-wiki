@@ -1,14 +1,24 @@
 ---
-title: "Gaffney (1978): The Synergistic City"
+authors:
+- Mason Gaffney
 category: research
-tags: [research, mason-gaffney, agglomeration, urban-economics, land-rent, stub]
-authors: [Mason Gaffney]
-year: 1978
-tier: Supplementary
+excerpt: 'Gaffney''s Georgist alternative to agglomeration doctrine: cities generate
+  a ''synergistic surplus'' from mutual access and cooperation among independent actors,
+  and the market channels that surplus into land rent.'
+last_reviewed: 2026-07-11
 source_url: https://masongaffney.org/publications/E14Synergistic_City.CV.pdf
 stub: true
-excerpt: "Gaffney's Georgist alternative to agglomeration doctrine: cities generate a 'synergistic surplus' from mutual access and cooperation among independent actors, and the market channels that surplus into land rent."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
+tags:
+- research
+- mason-gaffney
+- agglomeration
+- urban-economics
+- land-rent
+- stub
+tier: Supplementary
+title: 'Gaffney (1978): The Synergistic City'
+year: 1978
 ---
 
 ## Overview

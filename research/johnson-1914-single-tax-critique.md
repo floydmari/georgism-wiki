@@ -1,15 +1,27 @@
 ---
-title: "The Case Against the Single Tax (Johnson 1914) — and Foldvary's Rebuttal"
+authors:
+- Alvin S. Johnson
+- Fred Foldvary
 category: research
-tags: [research, single-tax, objections, history, atlantic-monthly, foldvary]
-authors: [Alvin S. Johnson, Fred Foldvary]
-year: 1914
-tier: important
+excerpt: Alvin Johnson's January 1914 Atlantic Monthly attack — the single tax as
+  'propaganda for the universal confiscation of land' — was the Progressive Era's
+  most prominent mainstream critique; Fred Foldvary's 2017 point-by-point rebuttal
+  is the modern Georgist reply. The wiki carries the exchange as a pair.
+last_reviewed: 2026-07-06
 source_url: https://www.theatlantic.com/magazine/archive/1914/01/
 stub: false
-excerpt: "Alvin Johnson's January 1914 Atlantic Monthly attack — the single tax as 'propaganda for the universal confiscation of land' — was the Progressive Era's most prominent mainstream critique; Fred Foldvary's 2017 point-by-point rebuttal is the modern Georgist reply. The wiki carries the exchange as a pair."
-last_reviewed: 2026-07-06
+subcategory: wiki-research-georgism
 supports_outcomes: []
+tags:
+- research
+- single-tax
+- objections
+- history
+- atlantic-monthly
+- foldvary
+tier: important
+title: The Case Against the Single Tax (Johnson 1914) — and Foldvary's Rebuttal
+year: 1914
 ---
 
 ## Summary

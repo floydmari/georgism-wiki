@@ -1,13 +1,21 @@
 ---
-title: "Land Matters Podcast (Lincoln Institute)"
+authors:
+- Lincoln Institute of Land Policy
 category: research
-tags: [research, podcast, lincoln-institute, policy, land-use]
-authors: [Lincoln Institute of Land Policy]
-year: 2024
+excerpt: The Lincoln Institute's policy-focused podcast on land use, taxation, housing,
+  and urban economics.
 source_url: https://www.lincolninst.edu/podcasts/land-matters/
-tier: important
 stub: false
-excerpt: "The Lincoln Institute's policy-focused podcast on land use, taxation, housing, and urban economics."
+subcategory: wiki-research-housing
+tags:
+- research
+- podcast
+- lincoln-institute
+- policy
+- land-use
+tier: important
+title: Land Matters Podcast (Lincoln Institute)
+year: 2024
 ---
 
 ## Summary

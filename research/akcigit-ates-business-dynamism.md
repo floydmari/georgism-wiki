@@ -1,15 +1,31 @@
 ---
-title: "Ten Facts on Declining Business Dynamism and Lessons from Endogenous Growth Theory"
+authors:
+- Ufuk Akcigit
+- Sina T. Ates
 category: research
-tags: [research, business-dynamism, markups, market-concentration, knowledge-diffusion, endogenous-growth, labor-share, nber]
-authors: [Ufuk Akcigit, Sina T. Ates]
-year: 2021
-tier: Important
+excerpt: A review of ten stylized facts on declining US business dynamism — rising
+  concentration, markups, and profits alongside falling labor share — unified through
+  an endogenous growth model in which slowing knowledge diffusion from frontier to
+  laggard firms drives the observed trends.
+last_reviewed: 2026-07-04
 source_url: https://www.nber.org/system/files/working_papers/w25755/w25755.pdf
 stub: false
-excerpt: "A review of ten stylized facts on declining US business dynamism — rising concentration, markups, and profits alongside falling labor share — unified through an endogenous growth model in which slowing knowledge diffusion from frontier to laggard firms drives the observed trends."
-last_reviewed: 2026-07-04
-supports_outcomes: [corporate-profits-increasingly-rents]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- business-dynamism
+- markups
+- market-concentration
+- knowledge-diffusion
+- endogenous-growth
+- labor-share
+- nber
+tier: Important
+title: Ten Facts on Declining Business Dynamism and Lessons from Endogenous Growth
+  Theory
+year: 2021
 ---
 
 ## Summary

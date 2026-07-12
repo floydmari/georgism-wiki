@@ -1,15 +1,26 @@
 ---
-title: "Riley (2001): Taken for a Ride — Jubilee Line Land Value Uplift"
+authors:
+- Don Riley
 category: research
-tags: [research, land-value-capture, infrastructure, transit, london, capitalization]
-authors: [Don Riley]
-year: 2001
-tier: important
+excerpt: Property developer Don Riley's 2001 book argued the £3.5bn Jubilee Line Extension
+  raised nearby land values by roughly £13bn — a widely cited practitioner case for
+  land value capture, since partially corroborated by an independent academic study.
+last_reviewed: 2026-07-11
 source_url: https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/906_vickers_complete_pdf.pdf
 stub: false
-excerpt: "Property developer Don Riley's 2001 book argued the £3.5bn Jubilee Line Extension raised nearby land values by roughly £13bn — a widely cited practitioner case for land value capture, since partially corroborated by an independent academic study."
-last_reviewed: 2026-07-11
-supports_outcomes: [public-investment-capitalizes-into-land]
+subcategory: wiki-research-housing
+supports_outcomes:
+- public-investment-capitalizes-into-land
+tags:
+- research
+- land-value-capture
+- infrastructure
+- transit
+- london
+- capitalization
+tier: important
+title: 'Riley (2001): Taken for a Ride — Jubilee Line Land Value Uplift'
+year: 2001
 ---
 
 ## Summary

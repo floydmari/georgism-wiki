@@ -1,14 +1,29 @@
 ---
-title: "Li & Yao: Your House Just Doubled in Value? Don't Uncork the Champagne Just Yet!"
+authors:
+- Wenli Li
+- Rui Yao
 category: research
-tags: [research, house-prices, welfare, renters, homeownership, life-cycle-model, distributional-effects, stub]
-authors: [Wenli Li, Rui Yao]
-year: 2006
-tier: Important
+excerpt: A Philadelphia Fed life-cycle model finds a 10% permanent house-price rise
+  cuts renters' welfare by about 4.5% and young homeowners' by 2%, while only benefiting
+  homeowners past roughly age 50 — direct evidence against 'rising house prices make
+  us all richer'.
+last_reviewed: 2026-07-11
 source_url: https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/business-review/2006/q1/q1_06_housevalue.pdf
 stub: true
-excerpt: "A Philadelphia Fed life-cycle model finds a 10% permanent house-price rise cuts renters' welfare by about 4.5% and young homeowners' by 2%, while only benefiting homeowners past roughly age 50 — direct evidence against 'rising house prices make us all richer'."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-resources
+tags:
+- research
+- house-prices
+- welfare
+- renters
+- homeownership
+- life-cycle-model
+- distributional-effects
+- stub
+tier: Important
+title: 'Li & Yao: Your House Just Doubled in Value? Don''t Uncork the Champagne Just
+  Yet!'
+year: 2006
 ---
 
 ## Overview

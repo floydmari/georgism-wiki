@@ -1,16 +1,31 @@
 ---
-title: "The Impact of Supply Constraints on House Prices in England"
+authors:
+- Christian Hilber
+- Wouter Vermeulen
+bears_on_objections:
+- planning-restrictions-cause-high-prices
 category: research
-tags: [research, housing-supply, regulation, england, uk, land-scarcity, urban-economics]
-authors: [Christian Hilber, Wouter Vermeulen]
-year: 2016
-tier: important
+excerpt: Hilber and Vermeulen find that regulatory and physical supply constraints
+  substantially raise English house prices — mainstream evidence for the land-scarcity
+  mechanism, though not a study of land value taxation.
+last_reviewed: 2026-07-03
 source_url: https://eprints.lse.ac.uk/49933/1/Hilber_Vermeulen_Impact-supply_2016.pdf
 stub: false
-excerpt: "Hilber and Vermeulen find that regulatory and physical supply constraints substantially raise English house prices — mainstream evidence for the land-scarcity mechanism, though not a study of land value taxation."
-last_reviewed: 2026-07-03
-supports_outcomes: [lvt-improves-housing-affordability, housing-unaffordability-is-a-land-problem]
-bears_on_objections: [planning-restrictions-cause-high-prices]
+subcategory: wiki-research-housing
+supports_outcomes:
+- lvt-improves-housing-affordability
+- housing-unaffordability-is-a-land-problem
+tags:
+- research
+- housing-supply
+- regulation
+- england
+- uk
+- land-scarcity
+- urban-economics
+tier: important
+title: The Impact of Supply Constraints on House Prices in England
+year: 2016
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "Philippon (2015): Has the US Finance Industry Become Less Efficient?"
+authors:
+- Thomas Philippon
 category: research
-tags: [research, finance-rents, fire-sector, philippon, financial-intermediation, economic-rent]
-authors: [Thomas Philippon]
-year: 2015
-tier: Core
+excerpt: The finance industry's unit cost of moving $1 from savers to borrowers has
+  stayed at ~1.5–2% for 140 years — and did NOT fall as information technology transformed
+  every other data-intensive industry. The single most-cited piece of evidence that
+  finance may capture its productivity gains as rent rather than passing them on.
 source_url: https://pages.stern.nyu.edu/~tphilipp/papers/Finance_Efficiency.pdf
 stub: false
-excerpt: "The finance industry's unit cost of moving $1 from savers to borrowers has stayed at ~1.5–2% for 140 years — and did NOT fall as information technology transformed every other data-intensive industry. The single most-cited piece of evidence that finance may capture its productivity gains as rent rather than passing them on."
+subcategory: wiki-research-resources
+tags:
+- research
+- finance-rents
+- fire-sector
+- philippon
+- financial-intermediation
+- economic-rent
+tier: Core
+title: 'Philippon (2015): Has the US Finance Industry Become Less Efficient?'
+year: 2015
 ---
 
 ## Summary

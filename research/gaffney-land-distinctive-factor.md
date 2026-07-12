@@ -1,14 +1,23 @@
 ---
-title: "Gaffney (1994): Land as a Distinctive Factor of Production"
+authors:
+- Mason Gaffney
 category: research
-tags: [research, gaffney, land-theory, factors-of-production, stub]
-authors: [Mason Gaffney]
-year: 1994
-tier: Core
+excerpt: Gaffney's foundational catalogue of ways land differs economically from capital
+  — fixed supply, immobility, non-reproducibility — underpinning the case against
+  merging land into general capital theory.
+last_reviewed: 2026-07-11
 source_url: https://cooperative-individualism.org/gaffney-mason_land-as-a-distinct-factor-of-production-2004-01.htm
 stub: true
-excerpt: "Gaffney's foundational catalogue of ways land differs economically from capital — fixed supply, immobility, non-reproducibility — underpinning the case against merging land into general capital theory."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-urban
+tags:
+- research
+- gaffney
+- land-theory
+- factors-of-production
+- stub
+tier: Core
+title: 'Gaffney (1994): Land as a Distinctive Factor of Production'
+year: 1994
 ---
 
 ## Overview

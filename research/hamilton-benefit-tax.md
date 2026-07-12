@@ -1,16 +1,29 @@
 ---
-title: "Hamilton's Benefit View: Zoning, Property Taxation, and Local Tax-Price Capitalization"
+authors:
+- Bruce W. Hamilton
+bears_on_objections:
+- lvt-is-just-a-property-tax
 category: research
-tags: [research, property-tax, tiebout, zoning, benefit-view, capitalization, local-public-finance, incidence]
-authors: [Bruce W. Hamilton]
-year: 1975
-tier: important
+excerpt: Hamilton (1975, 1976) argues that zoning converts the local property tax
+  into an efficient benefit tax for local services, with no excess burden — complicating
+  simple landlord-incidence stories.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1080/00420987520080301
 stub: false
-excerpt: "Hamilton (1975, 1976) argues that zoning converts the local property tax into an efficient benefit tax for local services, with no excess burden — complicating simple landlord-incidence stories."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-finance
 supports_outcomes: []
-bears_on_objections: [lvt-is-just-a-property-tax]
+tags:
+- research
+- property-tax
+- tiebout
+- zoning
+- benefit-view
+- capitalization
+- local-public-finance
+- incidence
+tier: important
+title: 'Hamilton''s Benefit View: Zoning, Property Taxation, and Local Tax-Price Capitalization'
+year: 1975
 ---
 
 ## Summary

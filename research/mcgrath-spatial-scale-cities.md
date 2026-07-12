@@ -1,15 +1,29 @@
 ---
-title: "More Evidence on the Spatial Scale of Cities (McGrath, 2005)"
+authors:
+- Daniel T. McGrath
 category: research
-tags: [research, urban-sprawl, urban-economics, monocentric-model, empirical, land-rent]
-authors: [Daniel T. McGrath]
-year: 2005
-tier: important
+excerpt: McGrath's 2005 Journal of Urban Economics study of the 33 largest US metros
+  (1950–1990) finds that standard economic factors — including a significant negative
+  effect of fringe agricultural land rent — explain nearly 90% of metropolitan land
+  area, plus a large unexplained excess-sprawl trend. Metro-level evidence that raising
+  the opportunity cost of fringe land contains cities, though it tests neither LVT
+  nor the property tax.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1016/j.jue.2005.01.003
 stub: false
-excerpt: "McGrath's 2005 Journal of Urban Economics study of the 33 largest US metros (1950–1990) finds that standard economic factors — including a significant negative effect of fringe agricultural land rent — explain nearly 90% of metropolitan land area, plus a large unexplained excess-sprawl trend. Metro-level evidence that raising the opportunity cost of fringe land contains cities, though it tests neither LVT nor the property tax."
-last_reviewed: 2026-07-11
-supports_outcomes: [lvt-reduces-sprawl]
+subcategory: wiki-research-urban
+supports_outcomes:
+- lvt-reduces-sprawl
+tags:
+- research
+- urban-sprawl
+- urban-economics
+- monocentric-model
+- empirical
+- land-rent
+tier: important
+title: More Evidence on the Spatial Scale of Cities (McGrath, 2005)
+year: 2005
 ---
 
 ## Summary

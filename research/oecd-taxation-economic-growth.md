@@ -1,16 +1,35 @@
 ---
-title: "Taxation and Economic Growth (OECD Working Paper 620)"
+authors:
+- Åsa Johansson
+- Christopher Heady
+- Jens Arnold
+- Bert Brys
+- Laura Vartia
+bears_on_objections:
+- lvt-is-just-a-property-tax
 category: research
-tags: [research, oecd, tax-and-growth, property-tax, cross-country, panel-data, corporate-tax, mainstream]
-authors: [Åsa Johansson, Christopher Heady, Jens Arnold, Bert Brys, Laura Vartia]
-year: 2008
-tier: core
+excerpt: 'The OECD''s famous ''tax and growth'' ranking: recurrent taxes on immovable
+  property are least harmful to growth, then consumption, personal income, and corporate
+  taxes most harmful — the most-cited institutional case for shifting tax toward property.'
+last_reviewed: 2026-07-10
 source_url: https://www.oecd.org/en/publications/taxation-and-economic-growth_241216205486.html
 stub: false
-excerpt: "The OECD's famous 'tax and growth' ranking: recurrent taxes on immovable property are least harmful to growth, then consumption, personal income, and corporate taxes most harmful — the most-cited institutional case for shifting tax toward property."
-last_reviewed: 2026-07-10
-supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, taxing-land-raises-productivity]
-bears_on_objections: [lvt-is-just-a-property-tax]
+subcategory: wiki-research-housing
+supports_outcomes:
+- lvt-can-replace-capital-taxes-without-efficiency-loss
+- taxing-land-raises-productivity
+tags:
+- research
+- oecd
+- tax-and-growth
+- property-tax
+- cross-country
+- panel-data
+- corporate-tax
+- mainstream
+tier: core
+title: Taxation and Economic Growth (OECD Working Paper 620)
+year: 2008
 ---
 
 ## Summary

@@ -1,15 +1,28 @@
 ---
-title: "The Impact of Taxing Vacancy on Housing Markets: Evidence from France"
+authors:
+- Mariona Segú
 category: research
-tags: [research, vacancy-tax, empty-homes, france, quasi-experimental, housing, jpube]
-authors: [Mariona Segú]
-year: 2020
-tier: important
+excerpt: 'Quasi-experimental evidence from France''s 1999 vacancy tax: a 13% (0.8pp)
+  fall in vacancy in taxed cities, concentrated in long-term vacancy, with most freed
+  dwellings becoming primary residences — proof that non-frictional vacancy is real
+  and responds to holding costs.'
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1016/j.jpubeco.2019.104079
 stub: false
-excerpt: "Quasi-experimental evidence from France's 1999 vacancy tax: a 13% (0.8pp) fall in vacancy in taxed cities, concentrated in long-term vacancy, with most freed dwellings becoming primary residences — proof that non-frictional vacancy is real and responds to holding costs."
-supports_outcomes: [speculative-vacancy-wastes-cities]
-last_reviewed: 2026-07-10
+subcategory: wiki-research-housing
+supports_outcomes:
+- speculative-vacancy-wastes-cities
+tags:
+- research
+- vacancy-tax
+- empty-homes
+- france
+- quasi-experimental
+- housing
+- jpube
+tier: important
+title: 'The Impact of Taxing Vacancy on Housing Markets: Evidence from France'
+year: 2020
 ---
 
 ## Summary

@@ -1,14 +1,27 @@
 ---
-title: "Weyl & Zhang (2017): Depreciating Licenses"
+authors:
+- E. Glen Weyl
+- Anthony Lee Zhang
 category: research
-tags: [research, harberger-tax, cost, spectrum-auctions, mechanism-design, radical-markets, stub]
-authors: [E. Glen Weyl, Anthony Lee Zhang]
-year: 2017
-tier: Core
+excerpt: 'The academic paper behind the modern Harberger-tax/COST revival: it formalizes
+  the tradeoff between investment incentives and allocative efficiency in property
+  rights and proposes ''depreciating licenses'' — periodic self-assessed valuations
+  with a sale obligation — as a resolution.'
+last_reviewed: 2026-07-11
 source_url: https://papers.ssrn.com/abstract=2744810
 stub: true
-excerpt: "The academic paper behind the modern Harberger-tax/COST revival: it formalizes the tradeoff between investment incentives and allocative efficiency in property rights and proposes 'depreciating licenses' — periodic self-assessed valuations with a sale obligation — as a resolution."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-resources
+tags:
+- research
+- harberger-tax
+- cost
+- spectrum-auctions
+- mechanism-design
+- radical-markets
+- stub
+tier: Core
+title: 'Weyl & Zhang (2017): Depreciating Licenses'
+year: 2017
 ---
 
 ## Overview

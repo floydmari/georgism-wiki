@@ -1,14 +1,25 @@
 ---
-title: "Hotelling (1938): The General Welfare and Marginal-Cost Pricing"
+authors:
+- Harold Hotelling
 category: research
-tags: [research, henry-george-theorem, public-goods, marginal-cost-pricing, decreasing-cost-industries, stub]
-authors: [Harold Hotelling]
-year: 1938
-tier: Important
+excerpt: Hotelling's 1938 Econometrica paper argues decreasing-cost industries (railways,
+  utilities) should price at marginal cost, with the resulting deficit covered by
+  non-distorting taxation — a direct forerunner of the Henry George Theorem's rent-funds-public-goods
+  logic.
+last_reviewed: 2026-07-11
 source_url: https://www.econometricsociety.org/publications/econometrica/1938/07/01/general-welfare-relation-problems-taxation-and-railway-and
 stub: true
-excerpt: "Hotelling's 1938 Econometrica paper argues decreasing-cost industries (railways, utilities) should price at marginal cost, with the resulting deficit covered by non-distorting taxation — a direct forerunner of the Henry George Theorem's rent-funds-public-goods logic."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
+tags:
+- research
+- henry-george-theorem
+- public-goods
+- marginal-cost-pricing
+- decreasing-cost-industries
+- stub
+tier: Important
+title: 'Hotelling (1938): The General Welfare and Marginal-Cost Pricing'
+year: 1938
 ---
 
 ## Overview

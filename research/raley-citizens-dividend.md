@@ -1,15 +1,26 @@
 ---
-title: "The Citizen's Dividend (Raley)"
+authors:
+- Bill Raley
 category: research
-tags: [research, citizens-dividend, basic-income, land-rent, commons, value-added-tax]
-authors: [Bill Raley]
-year: 2018
-tier: supplementary
+excerpt: 'Raley''s BIEN Congress 2018 paper grounds a universal citizen''s dividend
+  in the Locke–Paine–George theory of collectively-owned land, then departs from the
+  single tax: it funds the dividend with a 20% VAT as a practical proxy for capturing
+  the ~20% of GDP attributable to the commons.'
+last_reviewed: 2026-07-11
 source_url: https://basicincome.org/wp-content/uploads/2018/09/The-Citizens-Dividend.pdf
 stub: false
-excerpt: "Raley's BIEN Congress 2018 paper grounds a universal citizen's dividend in the Locke–Paine–George theory of collectively-owned land, then departs from the single tax: it funds the dividend with a 20% VAT as a practical proxy for capturing the ~20% of GDP attributable to the commons."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-georgism
 supports_outcomes: []
+tags:
+- research
+- citizens-dividend
+- basic-income
+- land-rent
+- commons
+- value-added-tax
+tier: supplementary
+title: The Citizen's Dividend (Raley)
+year: 2018
 ---
 
 ## Summary

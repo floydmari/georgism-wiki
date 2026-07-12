@@ -1,13 +1,22 @@
 ---
-title: "Implicit Land Taxes and Their Effect on the Real Economy"
+authors:
+- Daniel Murphy
+- Nathan Seegert
 category: research
-tags: [research, assessment, implicit-tax, empirical, real-economy]
-authors: [Daniel Murphy, Nathan Seegert]
-year: 2023
+excerpt: Constructs a measure of 'implicit' land taxes from the gap between assessed
+  and market land values, and identifies significant real economic effects.
 source_url: https://www.maxwell.syr.edu/docs/default-source/research/cpr/property-tax-webinar-series/2023-2024/murphyseegert-landtax-accessible.pdf
-tier: important
 stub: false
-excerpt: "Constructs a measure of 'implicit' land taxes from the gap between assessed and market land values, and identifies significant real economic effects."
+subcategory: wiki-research-housing
+tags:
+- research
+- assessment
+- implicit-tax
+- empirical
+- real-economy
+tier: important
+title: Implicit Land Taxes and Their Effect on the Real Economy
+year: 2023
 ---
 
 ## Summary

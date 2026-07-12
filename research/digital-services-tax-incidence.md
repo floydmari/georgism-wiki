@@ -1,14 +1,32 @@
 ---
-title: "Digital Services Taxes and Their Incidence — the Location-Specific-Rent Rationale and the Amazon Pass-Through"
+authors:
+- Rohit Reddy Muddasani
+- Dominika Langenmayr
+- Wei Cui
+- Nigar Hashimzade
 category: research
-tags: [research, digital-services-tax, tax-incidence, platform-economy, data-rents, location-specific-rent, geoism, quasi-rent]
-authors: [Rohit Reddy Muddasani, Dominika Langenmayr, Wei Cui, Nigar Hashimzade]
-year: 2025
-tier: Important
+excerpt: Digital services taxes (DSTs) are the first real-world attempt to tax platform
+  rents. In theory (Cui & Hashimzade) a DST is a tax on location-specific rent, the
+  digital cousin of a resource royalty. In practice (Muddasani & Langenmayr) the UK
+  levy was largely passed through — Amazon raised seller fees ~2%, sellers passed
+  most to consumers — making it the wiki's cleanest 'badly-aimed rent tax' case.
+last_reviewed: 2026-07-10
 source_url: https://research.wu.ac.at/ws/portalfiles/portal/76680012/2025_05_DST_2_.pdf
 stub: false
-excerpt: "Digital services taxes (DSTs) are the first real-world attempt to tax platform rents. In theory (Cui & Hashimzade) a DST is a tax on location-specific rent, the digital cousin of a resource royalty. In practice (Muddasani & Langenmayr) the UK levy was largely passed through — Amazon raised seller fees ~2%, sellers passed most to consumers — making it the wiki's cleanest 'badly-aimed rent tax' case."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-lvt
+tags:
+- research
+- digital-services-tax
+- tax-incidence
+- platform-economy
+- data-rents
+- location-specific-rent
+- geoism
+- quasi-rent
+tier: Important
+title: Digital Services Taxes and Their Incidence — the Location-Specific-Rent Rationale
+  and the Amazon Pass-Through
+year: 2025
 ---
 
 ## Summary

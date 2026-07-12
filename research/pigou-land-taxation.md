@@ -1,16 +1,34 @@
 ---
-title: "Pigou on Taxing Land Values, Windfalls, and Increments"
+authors:
+- A. C. Pigou
+bears_on_objections:
+- lvt-hurts-asset-rich-cash-poor
 category: research
-tags: [research, pigou, economics-of-welfare, land-value-tax, site-value-tax, increment-duty, windfall-tax, deadweight-loss, classical-economics, public-domain]
-authors: [A. C. Pigou]
-year: 1920
-tier: Important
+excerpt: 'What A. C. Pigou actually says about taxing land values in The Economics
+  of Welfare (1920): he fully grants the efficiency case — taxes on the ''public value
+  of land'' leave the national dividend ''wholly unaffected,'' exactly like the zero-deadweight-loss
+  argument — but limits their scope on equity grounds, and treats land-increment duties
+  as sound in principle yet hard to design and thin in yield. A cautious, qualified
+  supporter, not a Georgist.'
+last_reviewed: 2026-07-11
 source_url: https://archive.org/details/economicsofwelfa00pigouoft
 stub: false
-excerpt: "What A. C. Pigou actually says about taxing land values in The Economics of Welfare (1920): he fully grants the efficiency case — taxes on the 'public value of land' leave the national dividend 'wholly unaffected,' exactly like the zero-deadweight-loss argument — but limits their scope on equity grounds, and treats land-increment duties as sound in principle yet hard to design and thin in yield. A cautious, qualified supporter, not a Georgist."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-inequality
 supports_outcomes: []
-bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
+tags:
+- research
+- pigou
+- economics-of-welfare
+- land-value-tax
+- site-value-tax
+- increment-duty
+- windfall-tax
+- deadweight-loss
+- classical-economics
+- public-domain
+tier: Important
+title: Pigou on Taxing Land Values, Windfalls, and Increments
+year: 1920
 ---
 
 ## Why this page exists

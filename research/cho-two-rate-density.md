@@ -1,15 +1,30 @@
 ---
-title: "Impact of a Two-Rate Property Tax on Residential Densities"
+authors:
+- Seong-Hoon Cho
+- SeungGyu Kim
+- Dayton M. Lambert
+- Roland K. Roberts
 category: research
-tags: [research, split-rate, density, sprawl, simulation, nashville]
-authors: [Seong-Hoon Cho, SeungGyu Kim, Dayton M. Lambert, Roland K. Roberts]
-year: 2013
-tier: important
+excerpt: Cho et al. (AJAE 2013) simulate a revenue-neutral two-rate tax for Nashville-Davidson
+  County and find residential density rising +18% in general services districts and
+  +83% in urban services districts — concrete magnitudes for the anti-sprawl density
+  channel, from a simulation rather than a natural experiment.
+last_reviewed: 2026-07-05
 source_url: https://onlinelibrary.wiley.com/doi/10.1093/ajae/aas141
 stub: false
-excerpt: "Cho et al. (AJAE 2013) simulate a revenue-neutral two-rate tax for Nashville-Davidson County and find residential density rising +18% in general services districts and +83% in urban services districts — concrete magnitudes for the anti-sprawl density channel, from a simulation rather than a natural experiment."
-last_reviewed: 2026-07-05
-supports_outcomes: [lvt-reduces-sprawl]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- lvt-reduces-sprawl
+tags:
+- research
+- split-rate
+- density
+- sprawl
+- simulation
+- nashville
+tier: important
+title: Impact of a Two-Rate Property Tax on Residential Densities
+year: 2013
 ---
 
 ## Summary

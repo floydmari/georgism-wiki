@@ -1,14 +1,27 @@
 ---
-title: "Where Did All the Land Go? (Michael Hudson's critique of Fed land-value accounting)"
+authors:
+- Michael Hudson
 category: research
-tags: [research, michael-hudson, land-value, federal-reserve, flow-of-funds, residual-method, accounting, heterodox]
-authors: [Michael Hudson]
-year: 2001
-tier: Supplementary
+excerpt: Michael Hudson's 2001 critique of how the Federal Reserve's balance-sheet
+  accounting imputes land value as a residual — a method that drove implied US corporate
+  land values negative. The accounting critique is checkable and independently corroborated;
+  Hudson's political interpretations stay attributed.
+last_reviewed: 2026-07-10
 source_url: https://michael-hudson.com/2001/03/where-did-all-the-land-go-the-feds-new-balance-sheet-calculationsa-critique-of-land-value-statistics/
 stub: false
-excerpt: "Michael Hudson's 2001 critique of how the Federal Reserve's balance-sheet accounting imputes land value as a residual — a method that drove implied US corporate land values negative. The accounting critique is checkable and independently corroborated; Hudson's political interpretations stay attributed."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-georgism
+tags:
+- research
+- michael-hudson
+- land-value
+- federal-reserve
+- flow-of-funds
+- residual-method
+- accounting
+- heterodox
+tier: Supplementary
+title: Where Did All the Land Go? (Michael Hudson's critique of Fed land-value accounting)
+year: 2001
 ---
 
 ## Summary

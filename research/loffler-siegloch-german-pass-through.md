@@ -1,16 +1,32 @@
 ---
-title: "Löffler & Siegloch, \"Welfare Effects of Property Taxation\" — German Rent Pass-Through Evidence"
+authors:
+- Max Löffler
+- Sebastian Siegloch
+bears_on_objections:
+- lvt-is-just-a-property-tax
 category: research
-tags: [research, tax-incidence, property-tax, grundsteuer, germany, rental-housing, rent-pass-through, welfare, counter-evidence]
-authors: [Max Löffler, Sebastian Siegloch]
-year: 2021
-tier: Important
+excerpt: German study of 5,200+ municipal Grundsteuer reforms finds property-tax increases
+  are fully passed through to rents within about three years — the strongest empirical
+  counter-evidence to the claim landlords cannot pass a land tax to tenants.
+last_reviewed: 2026-07-05
 source_url: https://docs.iza.org/dp14195.pdf
 stub: false
-excerpt: "German study of 5,200+ municipal Grundsteuer reforms finds property-tax increases are fully passed through to rents within about three years — the strongest empirical counter-evidence to the claim landlords cannot pass a land tax to tenants."
-last_reviewed: 2026-07-05
+subcategory: wiki-research-housing
 supports_outcomes: []
-bears_on_objections: [lvt-is-just-a-property-tax]
+tags:
+- research
+- tax-incidence
+- property-tax
+- grundsteuer
+- germany
+- rental-housing
+- rent-pass-through
+- welfare
+- counter-evidence
+tier: Important
+title: Löffler & Siegloch, "Welfare Effects of Property Taxation" — German Rent Pass-Through
+  Evidence
+year: 2021
 ---
 
 ## Summary

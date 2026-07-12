@@ -1,14 +1,23 @@
 ---
-title: "The Theory of Local Public Goods"
+authors:
+- Joseph Stiglitz
 category: research
-tags: [research, stiglitz, henry-george-theorem, public-goods, foundational]
-authors: [Joseph Stiglitz]
-year: 1977
+excerpt: The 1977 Joseph Stiglitz paper that coined the 'Henry George Theorem' — showing
+  that under optimal conditions, land rents exactly fund optimal public-goods spending.
 source_url: https://www.nber.org/
-tier: core
 stub: false
-excerpt: "The 1977 Joseph Stiglitz paper that coined the 'Henry George Theorem' — showing that under optimal conditions, land rents exactly fund optimal public-goods spending."
-supports_outcomes: [public-goods-fundable-from-land-rent]
+subcategory: wiki-research-resources
+supports_outcomes:
+- public-goods-fundable-from-land-rent
+tags:
+- research
+- stiglitz
+- henry-george-theorem
+- public-goods
+- foundational
+tier: core
+title: The Theory of Local Public Goods
+year: 1977
 ---
 
 ## Summary

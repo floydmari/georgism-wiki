@@ -1,15 +1,43 @@
 ---
-title: "Computable General-Equilibrium Simulations of Site-Value Taxation"
+authors:
+- Joseph A. DiMasi
+- James R. Follain
+- Tamar Emi Miyake
+- Andrew F. Haughwout
+- Richard Arnott
+- James G. MacKinnon
+- Ki-Whan Choi
+- David L. Sjoquist
 category: research
-tags: [research, site-value-tax, land-value-tax, split-rate, general-equilibrium, simulation, urban-economics, welfare, housing-prices, model-evidence]
-authors: [Joseph A. DiMasi, James R. Follain, Tamar Emi Miyake, Andrew F. Haughwout, Richard Arnott, James G. MacKinnon, Ki-Whan Choi, David L. Sjoquist]
-year: 1987
-tier: important
+excerpt: 'A cluster of computable general-equilibrium (CGE) models — DiMasi (1987),
+  Follain & Miyake (1986), Haughwout (2001) on New York City, and others — that simulate
+  shifting taxation onto land. They consistently predict lower land rents and house
+  prices, higher wages, and welfare gains. This is model evidence: internally rigorous
+  but hinging on assumed elasticities, and weaker than the wiki''s quasi-experimental
+  sources.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1086/NTJ41788697
 stub: false
-excerpt: "A cluster of computable general-equilibrium (CGE) models — DiMasi (1987), Follain & Miyake (1986), Haughwout (2001) on New York City, and others — that simulate shifting taxation onto land. They consistently predict lower land rents and house prices, higher wages, and welfare gains. This is model evidence: internally rigorous but hinging on assumed elasticities, and weaker than the wiki's quasi-experimental sources."
-last_reviewed: 2026-07-11
-supports_outcomes: [lvt-improves-housing-affordability, split-rate-increases-construction, taxing-land-raises-productivity, lvt-can-replace-capital-taxes-without-efficiency-loss]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- lvt-improves-housing-affordability
+- split-rate-increases-construction
+- taxing-land-raises-productivity
+- lvt-can-replace-capital-taxes-without-efficiency-loss
+tags:
+- research
+- site-value-tax
+- land-value-tax
+- split-rate
+- general-equilibrium
+- simulation
+- urban-economics
+- welfare
+- housing-prices
+- model-evidence
+tier: important
+title: Computable General-Equilibrium Simulations of Site-Value Taxation
+year: 1987
 ---
 
 ## What This Page Collects

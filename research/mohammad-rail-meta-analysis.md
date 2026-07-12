@@ -1,15 +1,30 @@
 ---
-title: "A Meta-Analysis of the Impact of Rail Projects on Land and Property Values"
+authors:
+- Sara I. Mohammad
+- Daniel J. Graham
+- Patricia C. Melo
+- Richard J. Anderson
 category: research
-tags: [research, meta-analysis, rail, transit, land-value-capture, capitalization, empirical]
-authors: [Sara I. Mohammad, Daniel J. Graham, Patricia C. Melo, Richard J. Anderson]
-year: 2013
-tier: Important
+excerpt: A meta-analysis of 23 studies (102 estimates) finding rail investment generally
+  raises nearby land and property values, but with heterogeneity so large that magnitude
+  depends heavily on land use, distance, and rail type.
+last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1016/j.tra.2013.01.013
 stub: false
-excerpt: "A meta-analysis of 23 studies (102 estimates) finding rail investment generally raises nearby land and property values, but with heterogeneity so large that magnitude depends heavily on land use, distance, and rail type."
-last_reviewed: 2026-07-03
-supports_outcomes: [public-investment-capitalizes-into-land]
+subcategory: wiki-research-urban
+supports_outcomes:
+- public-investment-capitalizes-into-land
+tags:
+- research
+- meta-analysis
+- rail
+- transit
+- land-value-capture
+- capitalization
+- empirical
+tier: Important
+title: A Meta-Analysis of the Impact of Rail Projects on Land and Property Values
+year: 2013
 ---
 
 ## Summary

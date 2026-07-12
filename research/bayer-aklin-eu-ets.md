@@ -1,15 +1,31 @@
 ---
-title: "The EU ETS Reduced CO2 Emissions Despite Low Prices (Bayer & Aklin)"
+authors:
+- Patrick Bayer
+- Michaël Aklin
 category: research
-tags: [research, carbon-pricing, emissions-trading, eu-ets, cap-and-trade, synthetic-control, ecological-georgism, pigouvian]
-authors: [Patrick Bayer, Michaël Aklin]
-year: 2020
-tier: Important
+excerpt: 'Bayer & Aklin show the EU Emissions Trading System cut roughly 1.2 billion
+  tonnes of CO2 between 2008 and 2016 — about 3.8% of EU-wide emissions, almost half
+  the EU''s Kyoto target — even though permit prices stayed low. The lesson: a credible
+  carbon market works through the expectation of future stringency, not only through
+  a high current price.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1073/pnas.1918128117
 stub: false
-excerpt: "Bayer & Aklin show the EU Emissions Trading System cut roughly 1.2 billion tonnes of CO2 between 2008 and 2016 — about 3.8% of EU-wide emissions, almost half the EU's Kyoto target — even though permit prices stayed low. The lesson: a credible carbon market works through the expectation of future stringency, not only through a high current price."
-last_reviewed: 2026-07-11
-supports_outcomes: [carbon-pricing-cuts-emissions]
+subcategory: wiki-research-housing
+supports_outcomes:
+- carbon-pricing-cuts-emissions
+tags:
+- research
+- carbon-pricing
+- emissions-trading
+- eu-ets
+- cap-and-trade
+- synthetic-control
+- ecological-georgism
+- pigouvian
+tier: Important
+title: The EU ETS Reduced CO2 Emissions Despite Low Prices (Bayer & Aklin)
+year: 2020
 ---
 
 ## Summary

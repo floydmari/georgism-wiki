@@ -1,15 +1,25 @@
 ---
-title: "Does Georgism Work? (Doucet, ACX series)"
+authors:
+- Lars Doucet
 category: research
-tags: [research, doucet, incidence, assessment, accessible]
-authors: [Lars Doucet]
-year: 2021
-source_url: https://www.astralcodexten.com/p/does-georgism-work-is-land-really
-tier: core
-stub: false
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
-excerpt: "Lars Doucet's three-part empirical investigation of the main objections to LVT — land's magnitude, tax incidence, and assessment — published on Astral Codex Ten."
+excerpt: Lars Doucet's three-part empirical investigation of the main objections to
+  LVT — land's magnitude, tax incidence, and assessment — published on Astral Codex
+  Ten.
 last_reviewed: 2026-07-10
+source_url: https://www.astralcodexten.com/p/does-georgism-work-is-land-really
+stub: false
+subcategory: wiki-research-lvt
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- doucet
+- incidence
+- assessment
+- accessible
+tier: core
+title: Does Georgism Work? (Doucet, ACX series)
+year: 2021
 ---
 
 ## Summary

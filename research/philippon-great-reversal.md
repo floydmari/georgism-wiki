@@ -1,15 +1,28 @@
 ---
-title: "The Great Reversal: How America Gave Up on Free Markets"
+authors:
+- Thomas Philippon
 category: research
-tags: [research, market-power, concentration, lobbying, regulatory-capture, antitrust, rent-seeking, superstar-firms]
-authors: [Thomas Philippon]
-year: 2019
-tier: Important
+excerpt: NYU finance professor's data-driven case that US markets became less competitive
+  after 2000 — concentration, lobbying, and regulatory barriers raised prices and
+  profits, a modern non-land account of rising rents.
+last_reviewed: 2026-07-10
 source_url: https://www.hup.harvard.edu/books/9780674260320
 stub: false
-excerpt: "NYU finance professor's data-driven case that US markets became less competitive after 2000 — concentration, lobbying, and regulatory barriers raised prices and profits, a modern non-land account of rising rents."
-last_reviewed: 2026-07-10
-supports_outcomes: [corporate-profits-increasingly-rents]
+subcategory: wiki-research-finance
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- market-power
+- concentration
+- lobbying
+- regulatory-capture
+- antitrust
+- rent-seeking
+- superstar-firms
+tier: Important
+title: 'The Great Reversal: How America Gave Up on Free Markets'
+year: 2019
 ---
 
 ## Summary

@@ -1,14 +1,25 @@
 ---
-title: "Vickrey (1961): Counterspeculation, Auctions, and Competitive Sealed Tenders"
+authors:
+- William Vickrey
 category: research
-tags: [research, vickrey, auction-theory, mechanism-design, radical-markets, stub]
-authors: [William Vickrey]
-year: 1961
-tier: Core
+excerpt: Vickrey's 1961 Journal of Finance paper founded modern auction theory, introducing
+  the second-price sealed-bid ('Vickrey') auction and counterspeculation analysis
+  that later underpinned his 1996 Nobel Prize and the mechanism-design literature
+  Radical Markets draws on.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1111/j.1540-6261.1961.tb02789.x
 stub: true
-excerpt: "Vickrey's 1961 Journal of Finance paper founded modern auction theory, introducing the second-price sealed-bid ('Vickrey') auction and counterspeculation analysis that later underpinned his 1996 Nobel Prize and the mechanism-design literature Radical Markets draws on."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
+tags:
+- research
+- vickrey
+- auction-theory
+- mechanism-design
+- radical-markets
+- stub
+tier: Core
+title: 'Vickrey (1961): Counterspeculation, Auctions, and Competitive Sealed Tenders'
+year: 1961
 ---
 
 ## Overview

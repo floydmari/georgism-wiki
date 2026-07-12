@@ -1,16 +1,31 @@
 ---
-title: "Assessing the Distributive Impact of a Revenue-Neutral Shift from a Uniform Property Tax to a Two-Rate Property Tax with a Uniform Credit"
+authors:
+- Richard W. England
+- Min Qiang Zhao
+bears_on_objections:
+- lvt-hurts-asset-rich-cash-poor
 category: research
-tags: [research, lvt, property-tax, distributional-impacts, tax-incidence, new-hampshire, national-tax-journal, split-rate]
-authors: [Richard W. England, Min Qiang Zhao]
-year: 2005
-tier: Important
+excerpt: England & Zhao (2005, National Tax Journal) find that a revenue-neutral shift
+  from a uniform property tax to a two-rate (land-favoring) tax in Dover, NH would
+  be regressive among residential owners — and propose a uniform credit to fix it.
+last_reviewed: 2026-07-05
 source_url: https://www.lincolninst.edu/publications/working-papers/assessing-distributive-impact-revenue-neutral-shift-uniform-property-tax
 stub: false
-excerpt: "England & Zhao (2005, National Tax Journal) find that a revenue-neutral shift from a uniform property tax to a two-rate (land-favoring) tax in Dover, NH would be regressive among residential owners — and propose a uniform credit to fix it."
-last_reviewed: 2026-07-05
+subcategory: wiki-research-lvt
 supports_outcomes: []
-bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
+tags:
+- research
+- lvt
+- property-tax
+- distributional-impacts
+- tax-incidence
+- new-hampshire
+- national-tax-journal
+- split-rate
+tier: Important
+title: Assessing the Distributive Impact of a Revenue-Neutral Shift from a Uniform
+  Property Tax to a Two-Rate Property Tax with a Uniform Credit
+year: 2005
 ---
 
 ## Summary

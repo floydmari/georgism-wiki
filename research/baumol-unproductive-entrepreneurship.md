@@ -1,15 +1,26 @@
 ---
-title: "Entrepreneurship: Productive, Unproductive, and Destructive"
+authors:
+- William J. Baumol
 category: research
-tags: [research, rent-seeking, entrepreneurship, institutions, economic-history, jpe]
-authors: [William J. Baumol]
-year: 1990
-tier: important
+excerpt: 'Baumol''s classic JPE paper: every society has entrepreneurs; whether they
+  innovate or rent-seek depends on the ''rules of the game'' — the relative payoffs
+  society offers each activity.'
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1086/261712
 stub: false
-excerpt: "Baumol's classic JPE paper: every society has entrepreneurs; whether they innovate or rent-seek depends on the 'rules of the game' — the relative payoffs society offers each activity."
-supports_outcomes: [rent-seeking-drags-growth]
-last_reviewed: 2026-07-10
+subcategory: wiki-research-lvt
+supports_outcomes:
+- rent-seeking-drags-growth
+tags:
+- research
+- rent-seeking
+- entrepreneurship
+- institutions
+- economic-history
+- jpe
+tier: important
+title: 'Entrepreneurship: Productive, Unproductive, and Destructive'
+year: 1990
 ---
 
 ## Summary

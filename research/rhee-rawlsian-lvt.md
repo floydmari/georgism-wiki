@@ -1,13 +1,21 @@
 ---
-title: "Fairness of Land Value Taxation: A Rawlsian Derivation"
+authors:
+- Rhee
 category: research
-tags: [research, philosophy, rawls, justice, lvt]
-authors: [Rhee]
-year: 2024
+excerpt: Derives a justification for land value taxation from Rawlsian principles
+  — behind the veil of ignorance, rational agents would choose to socialize land rent.
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4797126
-tier: supplementary
 stub: false
-excerpt: "Derives a justification for land value taxation from Rawlsian principles — behind the veil of ignorance, rational agents would choose to socialize land rent."
+subcategory: wiki-research-lvt
+tags:
+- research
+- philosophy
+- rawls
+- justice
+- lvt
+tier: supplementary
+title: 'Fairness of Land Value Taxation: A Rawlsian Derivation'
+year: 2024
 ---
 
 ## Summary

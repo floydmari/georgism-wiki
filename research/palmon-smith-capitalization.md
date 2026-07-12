@@ -1,15 +1,29 @@
 ---
-title: "New Evidence on Property Tax Capitalization"
+authors:
+- Oded Palmon
+- Barton A. Smith
 category: research
-tags: [research, tax-capitalization, property-tax, houston, municipal-utility-districts, tiebout, ricardian-equivalence, empirical]
-authors: [Oded Palmon, Barton A. Smith]
-year: 1998
-tier: Important
+excerpt: Using Houston municipal-utility-district data with large tax variation but
+  fixed public services, Palmon & Smith find capitalization far higher than prior
+  estimates and cannot reject full capitalization under a realistic discount rate.
+last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1086/250041
 stub: false
-excerpt: "Using Houston municipal-utility-district data with large tax variation but fixed public services, Palmon & Smith find capitalization far higher than prior estimates and cannot reject full capitalization under a realistic discount rate."
-last_reviewed: 2026-07-03
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- tax-capitalization
+- property-tax
+- houston
+- municipal-utility-districts
+- tiebout
+- ricardian-equivalence
+- empirical
+tier: Important
+title: New Evidence on Property Tax Capitalization
+year: 1998
 ---
 
 ## Summary

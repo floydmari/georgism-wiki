@@ -1,15 +1,33 @@
 ---
-title: "Vancouver's Empty Homes Tax"
+authors:
+- City of Vancouver
+- Gherardo Caracciolo
+- Enrico Miglino
 category: research
-tags: [research, vacancy-tax, empty-homes, vancouver, british-columbia, canada, speculative-vacancy, housing, advocacy]
-authors: [City of Vancouver, Gherardo Caracciolo, Enrico Miglino]
-year: 2017
-tier: important
+excerpt: 'North America''s first municipal vacancy tax (2017): 1% rising to 3%, on
+  empty Vancouver homes. The City reports a 54% fall in vacant properties since 2017;
+  an independent difference-in-differences study finds a smaller, cleanly causal ~21%
+  (1.5pp) reduction — and no effect on rents. One of three vacancy levies that can
+  stack on the same dwelling.'
+last_reviewed: 2026-07-11
 source_url: https://vancouver.ca/home-property-development/empty-homes-tax.aspx
 stub: false
-excerpt: "North America's first municipal vacancy tax (2017): 1% rising to 3%, on empty Vancouver homes. The City reports a 54% fall in vacant properties since 2017; an independent difference-in-differences study finds a smaller, cleanly causal ~21% (1.5pp) reduction — and no effect on rents. One of three vacancy levies that can stack on the same dwelling."
-supports_outcomes: [speculative-vacancy-wastes-cities]
-last_reviewed: 2026-07-11
+subcategory: wiki-research-urban
+supports_outcomes:
+- speculative-vacancy-wastes-cities
+tags:
+- research
+- vacancy-tax
+- empty-homes
+- vancouver
+- british-columbia
+- canada
+- speculative-vacancy
+- housing
+- advocacy
+tier: important
+title: Vancouver's Empty Homes Tax
+year: 2017
 ---
 
 ## Summary

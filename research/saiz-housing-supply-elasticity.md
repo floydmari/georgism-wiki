@@ -1,16 +1,29 @@
 ---
-title: "The Geographic Determinants of Housing Supply"
+authors:
+- Albert Saiz
+bears_on_objections:
+- planning-restrictions-cause-high-prices
 category: research
-tags: [research, housing-supply, elasticity, zoning, geography, urban-economics, land-scarcity]
-authors: [Albert Saiz]
-year: 2010
-tier: core
+excerpt: 'Saiz uses satellite data on terrain and water to show why housing supply
+  is inelastic in many US cities: physical land scarcity and land-use regulation jointly
+  constrain new construction and drive up land — not just house — prices.'
+last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1162/qjec.2010.125.3.1253
 stub: false
-excerpt: "Saiz uses satellite data on terrain and water to show why housing supply is inelastic in many US cities: physical land scarcity and land-use regulation jointly constrain new construction and drive up land — not just house — prices."
-last_reviewed: 2026-07-03
-supports_outcomes: [lvt-improves-housing-affordability]
-bears_on_objections: [planning-restrictions-cause-high-prices]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- lvt-improves-housing-affordability
+tags:
+- research
+- housing-supply
+- elasticity
+- zoning
+- geography
+- urban-economics
+- land-scarcity
+tier: core
+title: The Geographic Determinants of Housing Supply
+year: 2010
 ---
 
 ## Summary

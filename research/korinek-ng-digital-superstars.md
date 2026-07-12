@@ -1,15 +1,28 @@
 ---
-title: "Digitization and the Macro-Economics of Superstars"
+authors:
+- Anton Korinek
+- Ding Xuan Ng
 category: research
-tags: [research, digital-economy, superstar-firms, economic-rent, imf, markups, concentration]
-authors: [Anton Korinek, Ding Xuan Ng]
-year: 2019
-tier: important
+excerpt: A working paper arguing that digital innovation generates superstar effects
+  — automating production tasks with a technology that carries a fixed cost but scales
+  at near-zero marginal cost — so a small number of firms capture disproportionate
+  rents, raising markups and lowering the labor share.
+last_reviewed: 2026-07-09
 source_url: https://drive.google.com/file/d/1inCe3I17YeWY177U8GA93wB6IkJPMyrc/view
 stub: false
-excerpt: "A working paper arguing that digital innovation generates superstar effects — automating production tasks with a technology that carries a fixed cost but scales at near-zero marginal cost — so a small number of firms capture disproportionate rents, raising markups and lowering the labor share."
-last_reviewed: 2026-07-09
+subcategory: wiki-research-resources
 supports_outcomes: []
+tags:
+- research
+- digital-economy
+- superstar-firms
+- economic-rent
+- imf
+- markups
+- concentration
+tier: important
+title: Digitization and the Macro-Economics of Superstars
+year: 2019
 ---
 
 ## Summary

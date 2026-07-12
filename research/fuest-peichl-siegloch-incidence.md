@@ -1,14 +1,28 @@
 ---
-title: "Fuest, Peichl & Siegloch (2018): Do Higher Corporate Taxes Reduce Wages?"
+authors:
+- Clemens Fuest
+- Andreas Peichl
+- Sebastian Siegloch
 category: research
-tags: [research, corporate-tax, incidence, rent-sharing, germany, quasi-experimental, tech-rents]
-authors: [Clemens Fuest, Andreas Peichl, Sebastian Siegloch]
-year: 2018
-tier: Core
+excerpt: 'AER quasi-experimental study of 6,800 German municipal tax changes: workers
+  bear about half the corporate tax burden, transmitted through rent-sharing in wage
+  bargaining — the mechanism by which even a pure rent tax can be partly shifted to
+  labor. The most important incidence complication in the rent-targeting tax file.'
+last_reviewed: 2026-07-06
 source_url: https://www.aeaweb.org/articles?id=10.1257/aer.20130570
 stub: false
-excerpt: "AER quasi-experimental study of 6,800 German municipal tax changes: workers bear about half the corporate tax burden, transmitted through rent-sharing in wage bargaining — the mechanism by which even a pure rent tax can be partly shifted to labor. The most important incidence complication in the rent-targeting tax file."
-last_reviewed: 2026-07-06
+subcategory: wiki-research-resources
+tags:
+- research
+- corporate-tax
+- incidence
+- rent-sharing
+- germany
+- quasi-experimental
+- tech-rents
+tier: Core
+title: 'Fuest, Peichl & Siegloch (2018): Do Higher Corporate Taxes Reduce Wages?'
+year: 2018
 ---
 
 ## Summary

@@ -1,15 +1,30 @@
 ---
-title: "The Decline of Homeownership Among Young Adults (Cribb, Hood & Hoyle)"
+authors:
+- Jonathan Cribb
+- Andrew Hood
+- Jack Hoyle
 category: research
-tags: [research, housing, intergenerational, homeownership, united-kingdom, land-values, ifs]
-authors: [Jonathan Cribb, Andrew Hood, Jack Hoyle]
-year: 2018
-tier: important
+excerpt: 'IFS briefing note quantifying the UK youth-ownership collapse birth-cohort
+  by birth-cohort: homeownership of middle-income 25–34-year-olds fell from 65% in
+  1995–96 to 27% twenty years later, and the authors pin the cause on house prices
+  rising far faster than incomes.'
+last_reviewed: 2026-07-11
 source_url: https://ifs.org.uk/publications/decline-homeownership-among-young-adults
 stub: false
-excerpt: "IFS briefing note quantifying the UK youth-ownership collapse birth-cohort by birth-cohort: homeownership of middle-income 25–34-year-olds fell from 65% in 1995–96 to 27% twenty years later, and the authors pin the cause on house prices rising far faster than incomes."
-supports_outcomes: [young-locked-out-of-land-wealth]
-last_reviewed: 2026-07-11
+subcategory: wiki-research-resources
+supports_outcomes:
+- young-locked-out-of-land-wealth
+tags:
+- research
+- housing
+- intergenerational
+- homeownership
+- united-kingdom
+- land-values
+- ifs
+tier: important
+title: The Decline of Homeownership Among Young Adults (Cribb, Hood & Hoyle)
+year: 2018
 ---
 
 ## Summary

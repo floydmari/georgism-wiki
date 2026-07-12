@@ -1,15 +1,29 @@
 ---
-title: "Is There a Bubble in the Housing Market?"
+authors:
+- Karl E. Case
+- Robert J. Shiller
 category: research
-tags: [research, housing-bubble, speculation, survey-evidence, case-shiller, land-cycle, behavioral-finance]
-authors: [Karl E. Case, Robert J. Shiller]
-year: 2003
-tier: Important
+excerpt: Case and Shiller's 2003 Brookings paper surveys homebuyers in four US cities
+  and finds ten-year price-appreciation expectations of 12–16% a year — direct survey
+  evidence that speculative expectations, not just fundamentals, were driving the
+  housing boom that crashed in 2007–2008.
+last_reviewed: 2026-07-10
 source_url: https://www.brookings.edu/wp-content/uploads/2003/06/2003b_bpea_caseshiller.pdf
 stub: false
-excerpt: "Case and Shiller's 2003 Brookings paper surveys homebuyers in four US cities and finds ten-year price-appreciation expectations of 12–16% a year — direct survey evidence that speculative expectations, not just fundamentals, were driving the housing boom that crashed in 2007–2008."
-last_reviewed: 2026-07-10
-supports_outcomes: [lvt-dampens-land-speculation]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- lvt-dampens-land-speculation
+tags:
+- research
+- housing-bubble
+- speculation
+- survey-evidence
+- case-shiller
+- land-cycle
+- behavioral-finance
+tier: Important
+title: Is There a Bubble in the Housing Market?
+year: 2003
 ---
 
 ## Summary

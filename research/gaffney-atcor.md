@@ -1,14 +1,24 @@
 ---
-title: "Gaffney (2005): The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)"
+authors:
+- Mason Gaffney
 category: research
-tags: [research, atcor, mason-gaffney, land-rent, tax-incidence, fiscal-theory]
-authors: [Mason Gaffney]
-year: 2005
-source_url: https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf
-tier: Important
-stub: true
-excerpt: "Mason Gaffney's 2005 working paper that names and states the ATCOR (All Taxes Come Out of Rent) thesis: that untaxing capital and labor raises land rents by a corresponding amount, expanding the taxable capacity of land."
+excerpt: 'Mason Gaffney''s 2005 working paper that names and states the ATCOR (All
+  Taxes Come Out of Rent) thesis: that untaxing capital and labor raises land rents
+  by a corresponding amount, expanding the taxable capacity of land.'
 last_reviewed: 2026-07-11
+source_url: https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf
+stub: true
+subcategory: wiki-research-resources
+tags:
+- research
+- atcor
+- mason-gaffney
+- land-rent
+- tax-incidence
+- fiscal-theory
+tier: Important
+title: 'Gaffney (2005): The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)'
+year: 2005
 ---
 
 ## Overview

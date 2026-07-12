@@ -1,14 +1,33 @@
 ---
-title: "Who Benefits From Productivity Growth? Local TFP Growth on Wages, Rents, and Inequality"
+authors:
+- Richard Hornbeck
+- Enrico Moretti
 category: research
-tags: [research, productivity, tfp, land-rent, incidence, spatial-equilibrium, ricardo, housing-costs, urban-economics]
-authors: [Richard Hornbeck, Enrico Moretti]
-year: 2018
-tier: Important
+excerpt: 'Hornbeck & Moretti estimate the incidence of local productivity growth using
+  four instruments: locally, renters'' higher earnings are ''largely offset by increased
+  cost of living'' and gains capitalize into land — an explicit revival of Ricardo
+  — but once worker mobility is counted, landowner impacts are ''largely a transfer
+  from one location to another'' and net incidence falls mainly on workers.'
 source_url: https://www.nber.org/system/files/working_papers/w24661/w24661.pdf
 stub: false
-supports_outcomes: [rising-land-costs-drive-poverty, high-land-rents-suppress-productivity]
-excerpt: "Hornbeck & Moretti estimate the incidence of local productivity growth using four instruments: locally, renters' higher earnings are 'largely offset by increased cost of living' and gains capitalize into land — an explicit revival of Ricardo — but once worker mobility is counted, landowner impacts are 'largely a transfer from one location to another' and net incidence falls mainly on workers."
+subcategory: wiki-research-inequality
+supports_outcomes:
+- rising-land-costs-drive-poverty
+- high-land-rents-suppress-productivity
+tags:
+- research
+- productivity
+- tfp
+- land-rent
+- incidence
+- spatial-equilibrium
+- ricardo
+- housing-costs
+- urban-economics
+tier: Important
+title: Who Benefits From Productivity Growth? Local TFP Growth on Wages, Rents, and
+  Inequality
+year: 2018
 ---
 
 ## Summary

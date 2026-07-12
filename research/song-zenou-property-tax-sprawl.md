@@ -1,15 +1,26 @@
 ---
-title: "Property Tax and Urban Sprawl: Theory and Implications for US Cities"
+authors:
+- Yan Song
+- Yves Zenou
 category: research
-tags: [research, property-tax, urban-sprawl, urban-economics, empirical]
-authors: [Yan Song, Yves Zenou]
-year: 2006
-tier: important
+excerpt: Song & Zenou (JUE 2006) show theoretically and empirically that higher property
+  taxes are associated with smaller urban footprints in US urbanized areas — anti-sprawl
+  evidence for the conventional property tax, whose mechanism differs importantly
+  from LVT's.
+last_reviewed: 2026-07-05
 source_url: https://www.sciencedirect.com/science/article/abs/pii/S0094119006000556
 stub: false
-excerpt: "Song & Zenou (JUE 2006) show theoretically and empirically that higher property taxes are associated with smaller urban footprints in US urbanized areas — anti-sprawl evidence for the conventional property tax, whose mechanism differs importantly from LVT's."
-last_reviewed: 2026-07-05
+subcategory: wiki-research-resources
 supports_outcomes: []
+tags:
+- research
+- property-tax
+- urban-sprawl
+- urban-economics
+- empirical
+tier: important
+title: 'Property Tax and Urban Sprawl: Theory and Implications for US Cities'
+year: 2006
 ---
 
 ## Summary

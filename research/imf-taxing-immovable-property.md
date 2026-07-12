@@ -1,14 +1,25 @@
 ---
-title: "Taxing Immovable Property: Revenue Potential and Implementation Challenges"
+authors:
+- John Norregaard
 category: research
-tags: [research, imf, property-tax, global, implementation, revenue]
-authors: [John Norregaard]
-year: 2013
+excerpt: A comprehensive IMF assessment of recurrent property and land taxes worldwide
+  — revenue potential, efficiency, incidence, and the administrative obstacles to
+  adoption.
 source_url: https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf
-tier: important
 stub: false
-excerpt: "A comprehensive IMF assessment of recurrent property and land taxes worldwide — revenue potential, efficiency, incidence, and the administrative obstacles to adoption."
-supports_outcomes: [property-tax-raises-welfare-developing]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- property-tax-raises-welfare-developing
+tags:
+- research
+- imf
+- property-tax
+- global
+- implementation
+- revenue
+tier: important
+title: 'Taxing Immovable Property: Revenue Potential and Implementation Challenges'
+year: 2013
 ---
 
 ## Summary

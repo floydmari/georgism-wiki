@@ -1,15 +1,30 @@
 ---
-title: "The Labor Market Impacts of Universal and Permanent Cash Transfers: Evidence from the Alaska Permanent Fund"
+authors:
+- Damon Jones
+- Ioana Marinescu
 category: research
-tags: [research, alaska, citizens-dividend, resource-rents, universal-basic-income, labor-supply, synthetic-control]
-authors: [Damon Jones, Ioana Marinescu]
-year: 2022
-tier: core
+excerpt: Using a synthetic-control design, this AEJ:Economic Policy paper finds Alaska's
+  universal cash dividend caused no reduction in aggregate employment, and a rise
+  in part-time work consistent with local demand stimulus.
+last_reviewed: 2026-07-03
 source_url: https://www.nber.org/papers/w24312
 stub: false
-excerpt: "Using a synthetic-control design, this AEJ:Economic Policy paper finds Alaska's universal cash dividend caused no reduction in aggregate employment, and a rise in part-time work consistent with local demand stimulus."
-last_reviewed: 2026-07-03
-supports_outcomes: [resource-rent-dividends-work, rent-dividends-reduce-poverty]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- resource-rent-dividends-work
+- rent-dividends-reduce-poverty
+tags:
+- research
+- alaska
+- citizens-dividend
+- resource-rents
+- universal-basic-income
+- labor-supply
+- synthetic-control
+tier: core
+title: 'The Labor Market Impacts of Universal and Permanent Cash Transfers: Evidence
+  from the Alaska Permanent Fund'
+year: 2022
 ---
 
 ## Summary

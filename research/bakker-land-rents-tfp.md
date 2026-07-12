@@ -1,14 +1,24 @@
 ---
-title: "Unveiling the Hidden Impact of Urban Land Rents on Total Factor Productivity"
+authors:
+- Bas Bakker
 category: research
-tags: [research, productivity, tfp, urban-land, imf, macroeconomics]
-authors: [Bas Bakker]
-year: 2023
+excerpt: Finds that high urban land rents suppress total factor productivity by misallocating
+  labour and capital across cities.
 source_url: https://papers.ssrn.com/sol3/Delivery.cfm/wpi2023170.pdf?abstractid=4557156
-tier: important
 stub: false
-excerpt: "Finds that high urban land rents suppress total factor productivity by misallocating labour and capital across cities."
-supports_outcomes: [capital-share-rise-is-land]
+subcategory: wiki-research-resources
+supports_outcomes:
+- capital-share-rise-is-land
+tags:
+- research
+- productivity
+- tfp
+- urban-land
+- imf
+- macroeconomics
+tier: important
+title: Unveiling the Hidden Impact of Urban Land Rents on Total Factor Productivity
+year: 2023
 ---
 
 ## Summary

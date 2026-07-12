@@ -1,16 +1,31 @@
 ---
-title: "Urban Growth and Its Aggregate Implications"
+authors:
+- Gilles Duranton
+- Diego Puga
+bears_on_objections:
+- land-capture-didnt-make-housing-cheap
 category: research
-tags: [research, urban-economics, agglomeration, planning-regulations, zoning, productivity, macroeconomics, econometrica]
-authors: [Gilles Duranton, Diego Puga]
-year: 2023
-tier: important
+excerpt: A quantitative model in which incumbent residents use planning regulations
+  to limit city growth; relaxing regulation in seven large restricted US cities raises
+  aggregate output 7.95%.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.3982/ECTA17936
 stub: false
-excerpt: "A quantitative model in which incumbent residents use planning regulations to limit city growth; relaxing regulation in seven large restricted US cities raises aggregate output 7.95%."
-last_reviewed: 2026-07-10
-supports_outcomes: [high-land-rents-suppress-productivity]
-bears_on_objections: [land-capture-didnt-make-housing-cheap]
+subcategory: wiki-research-resources
+supports_outcomes:
+- high-land-rents-suppress-productivity
+tags:
+- research
+- urban-economics
+- agglomeration
+- planning-regulations
+- zoning
+- productivity
+- macroeconomics
+- econometrica
+tier: important
+title: Urban Growth and Its Aggregate Implications
+year: 2023
 ---
 
 ## Summary

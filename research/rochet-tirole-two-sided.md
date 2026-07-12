@@ -1,15 +1,27 @@
 ---
-title: "Platform Competition in Two-Sided Markets"
+authors:
+- Jean-Charles Rochet
+- Jean Tirole
 category: research
-tags: [research, two-sided-markets, platform-economics, network-effects, pricing-theory, rents]
-authors: [Jean-Charles Rochet, Jean Tirole]
-year: 2003
-tier: important
+excerpt: 'The foundational paper on two-sided platform pricing: platforms must get
+  both sides on board, and the structure of prices across sides — not just the overall
+  level — determines equilibrium. Context for platform and network rent analysis,
+  not direct evidence for the corporate-rents outcome.'
+last_reviewed: 2026-07-04
 source_url: https://academic.oup.com/jeea/article/1/4/990/2280902
 stub: false
-excerpt: "The foundational paper on two-sided platform pricing: platforms must get both sides on board, and the structure of prices across sides — not just the overall level — determines equilibrium. Context for platform and network rent analysis, not direct evidence for the corporate-rents outcome."
-last_reviewed: 2026-07-04
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- two-sided-markets
+- platform-economics
+- network-effects
+- pricing-theory
+- rents
+tier: important
+title: Platform Competition in Two-Sided Markets
+year: 2003
 ---
 
 ## Summary

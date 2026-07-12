@@ -1,16 +1,30 @@
 ---
-title: "The Impact of Urban Land Taxation: The Pittsburgh Experience"
+authors:
+- Wallace E. Oates
+- Robert M. Schwab
+bears_on_objections:
+- lvt-causes-overdevelopment
+- lvt-is-just-a-property-tax
 category: research
-tags: [research, pittsburgh, split-rate, empirical, pennsylvania]
-authors: [Wallace E. Oates, Robert M. Schwab]
-year: 1997
+excerpt: Landmark empirical study finding Pittsburgh's 1979–80 shift toward heavier
+  land taxation was followed by a building boom that comparison cities did not see.
 source_url: https://cooperative-individualism.org/oates-wallace_the-impact-of-urban-land-taxation-1997-mar.pdf
-tier: core
 stub: false
-supports: [split-rate-increases-construction]
-excerpt: "Landmark empirical study finding Pittsburgh's 1979–80 shift toward heavier land taxation was followed by a building boom that comparison cities did not see."
-supports_outcomes: [lvt-improves-housing-affordability, split-rate-increases-construction]
-bears_on_objections: [lvt-causes-overdevelopment, lvt-is-just-a-property-tax]
+subcategory: wiki-research-housing
+supports:
+- split-rate-increases-construction
+supports_outcomes:
+- lvt-improves-housing-affordability
+- split-rate-increases-construction
+tags:
+- research
+- pittsburgh
+- split-rate
+- empirical
+- pennsylvania
+tier: core
+title: 'The Impact of Urban Land Taxation: The Pittsburgh Experience'
+year: 1997
 ---
 
 ## Summary

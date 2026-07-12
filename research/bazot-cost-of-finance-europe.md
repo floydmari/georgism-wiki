@@ -1,13 +1,25 @@
 ---
-title: "Bazot (2018): Financial Consumption and the Cost of Finance in Europe"
+authors:
+- Guillaume Bazot
 category: research
-tags: [research, finance-rents, fire-sector, financial-intermediation, unit-cost, europe]
-authors: [Guillaume Bazot]
-year: 2018
-tier: Important
+excerpt: 'The European replication of Philippon''s puzzle: the unit cost of financial
+  intermediation across Germany, France, the UK and other economies sat around 2%
+  for decades and ROSE after 1970 — it did not fall despite the deregulation meant
+  to cut it. Independent, peer-reviewed corroboration that finance did not pass its
+  efficiency gains through.'
 source_url: https://www.ipp.eu/wp-content/uploads/2014/06/n10-IPP-policy-brief-june2014.pdf
 stub: false
-excerpt: "The European replication of Philippon's puzzle: the unit cost of financial intermediation across Germany, France, the UK and other economies sat around 2% for decades and ROSE after 1970 — it did not fall despite the deregulation meant to cut it. Independent, peer-reviewed corroboration that finance did not pass its efficiency gains through."
+subcategory: wiki-research-housing
+tags:
+- research
+- finance-rents
+- fire-sector
+- financial-intermediation
+- unit-cost
+- europe
+tier: Important
+title: 'Bazot (2018): Financial Consumption and the Cost of Finance in Europe'
+year: 2018
 ---
 
 ## Summary

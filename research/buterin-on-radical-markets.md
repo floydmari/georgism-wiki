@@ -1,13 +1,21 @@
 ---
-title: "Vitalik Buterin: On Radical Markets"
+authors:
+- Vitalik Buterin
 category: research
-tags: [research, online-writing, buterin, harberger-tax, crypto]
-authors: [Vitalik Buterin]
-year: 2018
+excerpt: Ethereum founder Vitalik Buterin's influential endorsement of Harberger taxes
+  and Georgist property reform, which carried the ideas into crypto and tech circles.
 source_url: https://vitalik.eth.limo/general/2018/04/20/radical_markets.html
-tier: supplementary
 stub: false
-excerpt: "Ethereum founder Vitalik Buterin's influential endorsement of Harberger taxes and Georgist property reform, which carried the ideas into crypto and tech circles."
+subcategory: wiki-research-resources
+tags:
+- research
+- online-writing
+- buterin
+- harberger-tax
+- crypto
+tier: supplementary
+title: 'Vitalik Buterin: On Radical Markets'
+year: 2018
 ---
 
 ## Summary

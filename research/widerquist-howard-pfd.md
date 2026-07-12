@@ -1,15 +1,28 @@
 ---
-title: "Alaska's Permanent Fund Dividend: Examining Its Suitability as a Model"
+authors:
+- Karl Widerquist
+- Michael W. Howard
 category: research
-tags: [research, alaska, citizens-dividend, resource-rents, basic-income, dividend, edited-volume]
-authors: [Karl Widerquist, Michael W. Howard]
-year: 2012
-tier: Important
+excerpt: An edited volume of historians, economists, and philosophers assessing whether
+  Alaska's oil-funded citizen dividend is a genuine model for resource-rent policy
+  elsewhere, or a product of Alaska's own peculiar circumstances.
+last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1057/9781137015020
 stub: false
-excerpt: "An edited volume of historians, economists, and philosophers assessing whether Alaska's oil-funded citizen dividend is a genuine model for resource-rent policy elsewhere, or a product of Alaska's own peculiar circumstances."
-last_reviewed: 2026-07-03
-supports_outcomes: [resource-rent-dividends-work]
+subcategory: wiki-research-resources
+supports_outcomes:
+- resource-rent-dividends-work
+tags:
+- research
+- alaska
+- citizens-dividend
+- resource-rents
+- basic-income
+- dividend
+- edited-volume
+tier: Important
+title: 'Alaska''s Permanent Fund Dividend: Examining Its Suitability as a Model'
+year: 2012
 ---
 
 ## Summary

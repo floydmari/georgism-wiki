@@ -1,15 +1,28 @@
 ---
-title: "Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy"
+authors:
+- Michael Hudson
 category: research
-tags: [research, hudson, fire-sector, rent, financialization, debt, book]
-authors: [Michael Hudson]
-year: 2015
-tier: important
+excerpt: Michael Hudson's 2015 polemic arguing the finance-insurance-real-estate (FIRE)
+  sector extracts economic rent — chiefly land rent capitalized into mortgage debt
+  — at the expense of industrial capitalism, and that classical economics' rent theory
+  was deliberately erased from the mainstream.
+last_reviewed: 2026-07-10
 source_url: https://www.counterpunch.org/wp-content/uploads/2015/08/Killing-The-Host_PDF_V7.pdf
 stub: false
-excerpt: "Michael Hudson's 2015 polemic arguing the finance-insurance-real-estate (FIRE) sector extracts economic rent — chiefly land rent capitalized into mortgage debt — at the expense of industrial capitalism, and that classical economics' rent theory was deliberately erased from the mainstream."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- hudson
+- fire-sector
+- rent
+- financialization
+- debt
+- book
+tier: important
+title: 'Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global
+  Economy'
+year: 2015
 ---
 
 ## Overview
