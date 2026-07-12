@@ -1,13 +1,21 @@
 ---
-title: "Noah Smith on Georgism"
+authors:
+- Noah Smith
 category: research
-tags: [research, online-writing, noah-smith, political-economy, defense]
-authors: [Noah Smith]
-year: 2015
+excerpt: Economist-blogger Noah Smith's influential essays defending land value taxation
+  and arguing how to make it politically viable.
 source_url: https://www.noahpinion.blog/p/how-to-sell-georgism-to-the-middle
-tier: important
 stub: false
-excerpt: "Economist-blogger Noah Smith's influential essays defending land value taxation and arguing how to make it politically viable."
+subcategory: wiki-research-lvt
+tags:
+- research
+- online-writing
+- noah-smith
+- political-economy
+- defense
+tier: important
+title: Noah Smith on Georgism
+year: 2015
 ---
 
 ## Summary

@@ -1,15 +1,29 @@
 ---
-title: "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction"
+authors:
+- Florenz Plassmann
+- Nicolaus Tideman
 category: research
-tags: [research, pennsylvania, split-rate, construction, empirical]
-authors: [Florenz Plassmann, Nicolaus Tideman]
-year: 2000
+excerpt: Uses data from 15 Pennsylvania municipalities (1972–1994) to show that a
+  higher tax rate on land relative to buildings significantly increases construction
+  activity.
 source_url: https://www.sciencedirect.com/science/article/abs/pii/S009411909992140X
-tier: core
 stub: false
-supports: [split-rate-increases-construction]
-excerpt: "Uses data from 15 Pennsylvania municipalities (1972–1994) to show that a higher tax rate on land relative to buildings significantly increases construction activity."
-supports_outcomes: [split-rate-increases-construction, taxing-land-raises-productivity]
+subcategory: wiki-research-lvt
+supports:
+- split-rate-increases-construction
+supports_outcomes:
+- split-rate-increases-construction
+- taxing-land-raises-productivity
+tags:
+- research
+- pennsylvania
+- split-rate
+- construction
+- empirical
+tier: core
+title: A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes
+  on Construction
+year: 2000
 ---
 
 ## Summary

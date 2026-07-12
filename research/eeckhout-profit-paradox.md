@@ -1,15 +1,29 @@
 ---
-title: "The Profit Paradox: How Thriving Firms Threaten the Future of Work"
+authors:
+- Jan Eeckhout
 category: research
-tags: [research, market-power, markups, wages, labor-share, superstar-firms, monopsony, antitrust, popular-economics]
-authors: [Jan Eeckhout]
-year: 2021
-tier: Important
+excerpt: 'Eeckhout''s popular synthesis of his own markups research: rising corporate
+  market power since 1980 has driven up prices and profits while suppressing wages
+  economy-wide, even for workers at firms with no direct market power of their own.'
+last_reviewed: 2026-07-09
 source_url: https://press.princeton.edu/books/hardcover/9780691214474/the-profit-paradox
 stub: false
-excerpt: "Eeckhout's popular synthesis of his own markups research: rising corporate market power since 1980 has driven up prices and profits while suppressing wages economy-wide, even for workers at firms with no direct market power of their own."
-last_reviewed: 2026-07-09
-supports_outcomes: [corporate-profits-increasingly-rents]
+subcategory: wiki-research-housing
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- market-power
+- markups
+- wages
+- labor-share
+- superstar-firms
+- monopsony
+- antitrust
+- popular-economics
+tier: Important
+title: 'The Profit Paradox: How Thriving Firms Threaten the Future of Work'
+year: 2021
 ---
 
 ## Summary

@@ -1,14 +1,29 @@
 ---
-title: "Romer's Progressive Tax on Digital Advertising"
+authors:
+- Paul Romer
 category: research
-tags: [research, digital-advertising, data-rents, pigouvian-taxation, platform-economy, tax-incidence, geoism, quasi-rent]
-authors: [Paul Romer]
-year: 2019
-tier: Important
+excerpt: Nobel laureate Paul Romer proposes a progressive tax on the revenue of targeted
+  digital advertising — the business model behind Google and Facebook. Because ad
+  revenue has a location it can't be shifted offshore like profit, and a rising rate
+  schedule makes the largest platforms pay most, creating a deliberate incentive to
+  break up or move to subscriptions. Acemoglu & Johnson (2024) extend the idea as
+  a flat 'sin tax' above a threshold.
+last_reviewed: 2026-07-10
 source_url: https://adtax.paulromer.net/
 stub: false
-excerpt: "Nobel laureate Paul Romer proposes a progressive tax on the revenue of targeted digital advertising — the business model behind Google and Facebook. Because ad revenue has a location it can't be shifted offshore like profit, and a rising rate schedule makes the largest platforms pay most, creating a deliberate incentive to break up or move to subscriptions. Acemoglu & Johnson (2024) extend the idea as a flat 'sin tax' above a threshold."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-urban
+tags:
+- research
+- digital-advertising
+- data-rents
+- pigouvian-taxation
+- platform-economy
+- tax-incidence
+- geoism
+- quasi-rent
+tier: Important
+title: Romer's Progressive Tax on Digital Advertising
+year: 2019
 ---
 
 ## Summary

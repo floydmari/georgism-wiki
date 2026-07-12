@@ -1,15 +1,28 @@
 ---
-title: "Home Affront: Housing across the Generations"
+authors:
+- Adam Corlett
+- Lindsay Judge
 category: research
-tags: [research, housing, intergenerational, homeownership, uk, wealth]
-authors: [Adam Corlett, Lindsay Judge]
-year: 2017
-source_url: https://www.resolutionfoundation.org/app/uploads/2017/09/Home-Affront.pdf
-tier: Important
-stub: false
-excerpt: "Resolution Foundation Intergenerational Commission report: UK 30-year-olds are half as likely to own a home as their parents' generation, deposit-saving time has gone from 3 to 19 years, and even optimistic scenarios leave millennial ownership below boomer levels."
-supports_outcomes: [young-locked-out-of-land-wealth]
+excerpt: 'Resolution Foundation Intergenerational Commission report: UK 30-year-olds
+  are half as likely to own a home as their parents'' generation, deposit-saving time
+  has gone from 3 to 19 years, and even optimistic scenarios leave millennial ownership
+  below boomer levels.'
 last_reviewed: 2026-07-10
+source_url: https://www.resolutionfoundation.org/app/uploads/2017/09/Home-Affront.pdf
+stub: false
+subcategory: wiki-research-georgism
+supports_outcomes:
+- young-locked-out-of-land-wealth
+tags:
+- research
+- housing
+- intergenerational
+- homeownership
+- uk
+- wealth
+tier: Important
+title: 'Home Affront: Housing across the Generations'
+year: 2017
 ---
 
 ## Summary

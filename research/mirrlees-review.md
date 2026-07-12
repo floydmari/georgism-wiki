@@ -1,16 +1,39 @@
 ---
-title: "The Mirrlees Review: Tax by Design"
+authors:
+- Stuart Adam
+- Timothy Besley
+- Richard Blundell
+- Stephen Bond
+- Robert Chote
+- Malcolm Gammie
+- Paul Johnson
+- James Mirrlees
+- Gareth Myles
+- James M. Poterba
+bears_on_objections:
+- lvt-hurts-farmers
 category: research
-tags: [research, ifs, uk, mainstream, business-rates, land-value-tax, optimal-taxation]
-authors: [Stuart Adam, Timothy Besley, Richard Blundell, Stephen Bond, Robert Chote, Malcolm Gammie, Paul Johnson, James Mirrlees, Gareth Myles, James M. Poterba]
-year: 2011
-tier: core
+excerpt: The UK's most authoritative modern tax review, chaired by Nobel laureate
+  Sir James Mirrlees, concludes that land value should be taxed and proposes replacing
+  business rates with a land value tax.
+last_reviewed: 2026-07-03
 source_url: https://ifs.org.uk/books/tax-design
 stub: false
-excerpt: "The UK's most authoritative modern tax review, chaired by Nobel laureate Sir James Mirrlees, concludes that land value should be taxed and proposes replacing business rates with a land value tax."
-last_reviewed: 2026-07-03
-supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, land-rent-could-fund-government]
-bears_on_objections: [lvt-hurts-farmers]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- lvt-can-replace-capital-taxes-without-efficiency-loss
+- land-rent-could-fund-government
+tags:
+- research
+- ifs
+- uk
+- mainstream
+- business-rates
+- land-value-tax
+- optimal-taxation
+tier: core
+title: 'The Mirrlees Review: Tax by Design'
+year: 2011
 ---
 
 ## Summary

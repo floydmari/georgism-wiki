@@ -1,16 +1,30 @@
 ---
-title: "Public Goods and Private Communities: The Market Provision of Social Services"
+authors:
+- Fred Foldvary
+bears_on_objections:
+- public-choice-critique
 category: research
-tags: [research, foldvary, public-goods, geolibertarianism, henry-george-theorem, private-communities, land-cycle]
-authors: [Fred Foldvary]
-year: 1994
-tier: important
+excerpt: Foldvary's 1994 book argues that public goods can be financed from the land
+  rent they themselves create — via private communities, proprietary governance, and
+  land-rent capture — rather than coercive taxation.
+last_reviewed: 2026-07-10
 source_url: https://ideas.repec.org/b/elg/eebook/167.html
 stub: false
-excerpt: "Foldvary's 1994 book argues that public goods can be financed from the land rent they themselves create — via private communities, proprietary governance, and land-rent capture — rather than coercive taxation."
-last_reviewed: 2026-07-10
-supports_outcomes: [public-goods-fundable-from-land-rent, land-rent-could-fund-government]
-bears_on_objections: [public-choice-critique]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- public-goods-fundable-from-land-rent
+- land-rent-could-fund-government
+tags:
+- research
+- foldvary
+- public-goods
+- geolibertarianism
+- henry-george-theorem
+- private-communities
+- land-cycle
+tier: important
+title: 'Public Goods and Private Communities: The Market Provision of Social Services'
+year: 1994
 ---
 
 ## Summary

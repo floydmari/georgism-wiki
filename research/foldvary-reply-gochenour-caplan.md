@@ -1,16 +1,29 @@
 ---
-title: "Reply to the Caplan and Gochenour Critique of Georgism (Foldvary)"
+authors:
+- Fred Foldvary
+bears_on_objections:
+- search-theoretic-critique
 category: research
-tags: [research, foldvary, austrian-economics, search-theory, land-value-tax, objection-reply, quasi-rent]
-authors: [Fred Foldvary]
-year: 2014
-tier: important
+excerpt: 'Foldvary''s peer-reviewed reply to Gochenour & Caplan: the discovery of
+  a natural resource is not its production. Entrepreneurship creates human and capital
+  goods, not the resource itself — so taxing land rent does not tax a produced good,
+  and the search-theoretic critique fails at its premise.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1007/s11138-013-0243-7
 stub: false
-excerpt: "Foldvary's peer-reviewed reply to Gochenour & Caplan: the discovery of a natural resource is not its production. Entrepreneurship creates human and capital goods, not the resource itself — so taxing land rent does not tax a produced good, and the search-theoretic critique fails at its premise."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
 supports_outcomes: []
-bears_on_objections: [search-theoretic-critique]
+tags:
+- research
+- foldvary
+- austrian-economics
+- search-theory
+- land-value-tax
+- objection-reply
+- quasi-rent
+tier: important
+title: Reply to the Caplan and Gochenour Critique of Georgism (Foldvary)
+year: 2014
 ---
 
 ## Summary

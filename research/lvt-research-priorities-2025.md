@@ -1,13 +1,20 @@
 ---
-title: "Advancing Land Value Taxation: Research Priorities for 2025 and Beyond"
+authors:
+- Progress and Poverty Institute
 category: research
-tags: [research, agenda, priorities, progress-and-poverty-institute]
-authors: [Progress and Poverty Institute]
-year: 2025
+excerpt: An overview of the current empirical research agenda for land value taxation
+  — what is known, what is contested, and what needs studying next.
 source_url: https://progressandpovertyinstitute.org/advancing-land-value-taxation-research-priorities-for-2025-and-beyond/
-tier: supplementary
 stub: false
-excerpt: "An overview of the current empirical research agenda for land value taxation — what is known, what is contested, and what needs studying next."
+subcategory: wiki-research-lvt
+tags:
+- research
+- agenda
+- priorities
+- progress-and-poverty-institute
+tier: supplementary
+title: 'Advancing Land Value Taxation: Research Priorities for 2025 and Beyond'
+year: 2025
 ---
 
 ## Summary

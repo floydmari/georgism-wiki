@@ -1,15 +1,29 @@
 ---
-title: "The Alaska Permanent Fund Dividend: An Experiment in Wealth Distribution"
+authors:
+- Scott Goldsmith
 category: research
-tags: [research, alaska, citizens-dividend, resource-rents, basic-income, poverty, iser]
-authors: [Scott Goldsmith]
-year: 2002
-tier: Important
+excerpt: Goldsmith's 2002 BIEN paper reviews 20 years of the Alaska Permanent Fund
+  Dividend, concluding it reduced poverty and inequality — the poorest fifth of Alaska
+  families' incomes grew 28% over the prior decade versus 7% for the richest fifth
+  — and had become so popular that cutting it was considered political suicide.
+last_reviewed: 2026-07-10
 source_url: https://basicincome.org/bien/pdf/2002Goldsmith.pdf
 stub: false
-excerpt: "Goldsmith's 2002 BIEN paper reviews 20 years of the Alaska Permanent Fund Dividend, concluding it reduced poverty and inequality — the poorest fifth of Alaska families' incomes grew 28% over the prior decade versus 7% for the richest fifth — and had become so popular that cutting it was considered political suicide."
-last_reviewed: 2026-07-10
-supports_outcomes: [resource-rent-dividends-work, rent-dividends-reduce-poverty]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- resource-rent-dividends-work
+- rent-dividends-reduce-poverty
+tags:
+- research
+- alaska
+- citizens-dividend
+- resource-rents
+- basic-income
+- poverty
+- iser
+tier: Important
+title: 'The Alaska Permanent Fund Dividend: An Experiment in Wealth Distribution'
+year: 2002
 ---
 
 ## Summary

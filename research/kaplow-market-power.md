@@ -1,13 +1,21 @@
 ---
-title: "Market Power and Income Taxation"
+authors:
+- Louis Kaplow
 category: research
-tags: [research, market-power, optimal-taxation, rents, nber]
-authors: [Louis Kaplow]
-year: 2019
+excerpt: Examines how market power and the rents it generates complicate the design
+  of optimal income taxation.
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3341238
-tier: supplementary
 stub: false
-excerpt: "Examines how market power and the rents it generates complicate the design of optimal income taxation."
+subcategory: wiki-research-lvt
+tags:
+- research
+- market-power
+- optimal-taxation
+- rents
+- nber
+tier: supplementary
+title: Market Power and Income Taxation
+year: 2019
 ---
 
 ## Summary

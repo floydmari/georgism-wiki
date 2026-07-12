@@ -1,15 +1,29 @@
 ---
-title: "Is the Property Tax a Benefit Tax? The Case of Rental Housing"
+authors:
+- Robert Carroll
+- John Yinger
 category: research
-tags: [research, tax-incidence, property-tax, rental-housing, benefit-view, capitalization, boston, public-finance]
-authors: [Robert Carroll, John Yinger]
-year: 1994
-tier: Important
+excerpt: Carroll & Yinger's Boston-area study of actual rental markets finds a $1.00
+  property-tax increase raises rent by only about $0.15 — direct empirical evidence
+  that landlords, not tenants, absorb most of the tax.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1086/NTJ41789069
 stub: false
-excerpt: "Carroll & Yinger's Boston-area study of actual rental markets finds a $1.00 property-tax increase raises rent by only about $0.15 — direct empirical evidence that landlords, not tenants, absorb most of the tax."
-last_reviewed: 2026-07-10
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+subcategory: wiki-research-housing
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- tax-incidence
+- property-tax
+- rental-housing
+- benefit-view
+- capitalization
+- boston
+- public-finance
+tier: Important
+title: Is the Property Tax a Benefit Tax? The Case of Rental Housing
+year: 1994
 ---
 
 ## Summary

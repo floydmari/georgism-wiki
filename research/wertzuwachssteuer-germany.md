@@ -1,16 +1,34 @@
 ---
-title: "The German Reich Wertzuwachssteuer (1911–1913): A National Increment Tax That Failed Fast"
+authors:
+- Anna Grotegut
+bears_on_objections:
+- symmetry-decrement-objection
 category: research
-tags: [research, germany, wertzuwachssteuer, land-value-increment-tax, betterment, land-reform, kiautschou, damaschke, unearned-increment, cautionary-case]
-authors: [Anna Grotegut]
-year: 2022
-tier: supplementary
+excerpt: The German Empire's Reich-level land-value-increment tax was introduced in
+  1911 and effectively repealed by 1913 — the canonical cautionary case of a national
+  increment tax that neither curbed speculation nor raised enough revenue. Driven
+  by Adolf Damaschke's land-reform movement, its colonial testbed at Kiautschou also
+  seeded the Georgist lineage that reached Sun Yat-sen and, later, Taiwan.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1515/jbwg-2022-0007
 stub: false
-excerpt: "The German Empire's Reich-level land-value-increment tax was introduced in 1911 and effectively repealed by 1913 — the canonical cautionary case of a national increment tax that neither curbed speculation nor raised enough revenue. Driven by Adolf Damaschke's land-reform movement, its colonial testbed at Kiautschou also seeded the Georgist lineage that reached Sun Yat-sen and, later, Taiwan."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-georgism
 supports_outcomes: []
-bears_on_objections: [symmetry-decrement-objection]
+tags:
+- research
+- germany
+- wertzuwachssteuer
+- land-value-increment-tax
+- betterment
+- land-reform
+- kiautschou
+- damaschke
+- unearned-increment
+- cautionary-case
+tier: supplementary
+title: 'The German Reich Wertzuwachssteuer (1911–1913): A National Increment Tax That
+  Failed Fast'
+year: 2022
 ---
 
 ## Summary

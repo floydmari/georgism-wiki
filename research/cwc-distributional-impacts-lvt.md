@@ -1,16 +1,29 @@
 ---
-title: "Assessing the Distributional Impacts of a Land Value Tax"
+authors:
+- Liam Wilkinson
+bears_on_objections:
+- lvt-hurts-asset-rich-cash-poor
 category: research
-tags: [research, canada, lvt, tax-incidence, distributional-impacts, income-tax-reform, think-tank]
-authors: [Liam Wilkinson]
-year: 2024
-tier: Supplementary
+excerpt: 'A Common Wealth Canada modelling exercise on a national land value tax coupled
+  with income-tax reform: LVT alone looks regressive by income decile, but a large
+  flat refundable credit reverses this for most households.'
+last_reviewed: 2026-07-09
 source_url: https://commonwealth.ca/research/distributional-impacts
 stub: false
-excerpt: "A Common Wealth Canada modelling exercise on a national land value tax coupled with income-tax reform: LVT alone looks regressive by income decile, but a large flat refundable credit reverses this for most households."
-last_reviewed: 2026-07-09
-supports_outcomes: [land-value-tax-can-be-progressive]
-bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
+subcategory: wiki-research-housing
+supports_outcomes:
+- land-value-tax-can-be-progressive
+tags:
+- research
+- canada
+- lvt
+- tax-incidence
+- distributional-impacts
+- income-tax-reform
+- think-tank
+tier: Supplementary
+title: Assessing the Distributional Impacts of a Land Value Tax
+year: 2024
 ---
 
 ## Summary

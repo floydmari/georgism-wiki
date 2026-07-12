@@ -1,13 +1,22 @@
 ---
-title: "From Soil to Servers: Persistent Neglect of Land Resources and Digital-Age Rents"
+authors:
+- Mises et al.
 category: research
-tags: [research, digital-rents, platform-economics, georgism, future]
-authors: [Mises et al.]
-year: 2025
+excerpt: Argues that the rent-seeking once centered on land is being repeated in digital
+  platform economies, and calls for updated Georgist policy for the digital age.
 source_url: https://www.mdpi.com/2073-445X/14/2/341
-tier: supplementary
 stub: false
-excerpt: "Argues that the rent-seeking once centered on land is being repeated in digital platform economies, and calls for updated Georgist policy for the digital age."
+subcategory: wiki-research-housing
+tags:
+- research
+- digital-rents
+- platform-economics
+- georgism
+- future
+tier: supplementary
+title: 'From Soil to Servers: Persistent Neglect of Land Resources and Digital-Age
+  Rents'
+year: 2025
 ---
 
 ## Summary

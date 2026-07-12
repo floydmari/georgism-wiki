@@ -1,15 +1,28 @@
 ---
-title: "The Economic Implications of House Price Capitalization: A Synthesis"
+authors:
+- Christian A. L. Hilber
 category: research
-tags: [research, tax-capitalization, housing-supply, incidence, survey, supply-elasticity, empirical]
-authors: [Christian A. L. Hilber]
-year: 2017
-tier: Important
+excerpt: 'Hilber''s survey of the capitalization literature establishes the key conditional:
+  fiscal variables capitalize into house prices more fully where housing supply is
+  inelastic (regulatory or geographical constraints), and less where supply can respond.
+  The nuance that connects the property-tax record to the pure-land-tax case.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1111/1540-6229.12129
 stub: false
-excerpt: "Hilber's survey of the capitalization literature establishes the key conditional: fiscal variables capitalize into house prices more fully where housing supply is inelastic (regulatory or geographical constraints), and less where supply can respond. The nuance that connects the property-tax record to the pure-land-tax case."
-last_reviewed: 2026-07-11
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+subcategory: wiki-research-resources
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- tax-capitalization
+- housing-supply
+- incidence
+- survey
+- supply-elasticity
+- empirical
+tier: Important
+title: 'The Economic Implications of House Price Capitalization: A Synthesis'
+year: 2017
 ---
 
 ## Summary

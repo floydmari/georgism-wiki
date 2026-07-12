@@ -1,15 +1,27 @@
 ---
-title: "Valuation and Assessment of Immovable Property (Almy, OECD)"
+authors:
+- Richard Almy
+bears_on_objections:
+- land-cannot-be-assessed
 category: research
-tags: [research, assessment, cama, valuation, property-tax, oecd, international]
-authors: [Richard Almy]
-year: 2014
-tier: Important
+excerpt: OECD working paper surveying immovable-property valuation and assessment
+  across 172 countries — the source of the '~EUR 20 per property' mass-appraisal cost
+  figure and the benchmark that high-quality systems run ~10% valuation error.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1787/5jz5pzvr28hk-en
 stub: false
-excerpt: "OECD working paper surveying immovable-property valuation and assessment across 172 countries — the source of the '~EUR 20 per property' mass-appraisal cost figure and the benchmark that high-quality systems run ~10% valuation error."
-last_reviewed: 2026-07-10
-bears_on_objections: [land-cannot-be-assessed]
+subcategory: wiki-research-finance
+tags:
+- research
+- assessment
+- cama
+- valuation
+- property-tax
+- oecd
+- international
+tier: Important
+title: Valuation and Assessment of Immovable Property (Almy, OECD)
+year: 2014
 ---
 
 ## Summary

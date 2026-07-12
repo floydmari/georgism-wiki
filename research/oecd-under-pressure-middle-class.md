@@ -1,15 +1,27 @@
 ---
-title: "Under Pressure: The Squeezed Middle Class"
+authors:
+- OECD
 category: research
-tags: [research, housing, intergenerational, middle-class, oecd, house-prices]
-authors: [OECD]
-year: 2019
-source_url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/05/under-pressure-the-squeezed-middle-class_f3fa7167/689afed1-en.pdf
-tier: Important
-stub: false
-excerpt: "OECD flagship report: house prices grew three times faster than median household incomes over two decades, housing is now a third of middle-class budgets, and younger generations across the OECD are far less able to buy property than their parents were."
-supports_outcomes: [young-locked-out-of-land-wealth]
+excerpt: 'OECD flagship report: house prices grew three times faster than median household
+  incomes over two decades, housing is now a third of middle-class budgets, and younger
+  generations across the OECD are far less able to buy property than their parents
+  were.'
 last_reviewed: 2026-07-10
+source_url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/05/under-pressure-the-squeezed-middle-class_f3fa7167/689afed1-en.pdf
+stub: false
+subcategory: wiki-research-inequality
+supports_outcomes:
+- young-locked-out-of-land-wealth
+tags:
+- research
+- housing
+- intergenerational
+- middle-class
+- oecd
+- house-prices
+tier: Important
+title: 'Under Pressure: The Squeezed Middle Class'
+year: 2019
 ---
 
 ## Summary

@@ -1,14 +1,29 @@
 ---
-title: "Should We Treat Data as Labor? Moving Beyond 'Free'"
+authors:
+- Imanol Arrieta-Ibarra
+- Leonard Goff
+- Diego Jiménez-Hernández
+- Jaron Lanier
+- E. Glen Weyl
 category: research
-tags: [research, data-rents, platform-economy, radical-markets, monopsony, stub]
-authors: [Imanol Arrieta-Ibarra, Leonard Goff, Diego Jiménez-Hernández, Jaron Lanier, E. Glen Weyl]
-year: 2018
-tier: Important
+excerpt: 'The 2018 AEA Papers and Proceedings paper formalizing the ''data as labor''
+  proposal: because a handful of platforms are the dominant buyers of user data, they
+  hold monopsony power and capture users'' unpriced data contribution as an uncompensated
+  input.'
+last_reviewed: 2026-07-11
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3093683
 stub: true
-excerpt: "The 2018 AEA Papers and Proceedings paper formalizing the 'data as labor' proposal: because a handful of platforms are the dominant buyers of user data, they hold monopsony power and capture users' unpriced data contribution as an uncompensated input."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-resources
+tags:
+- research
+- data-rents
+- platform-economy
+- radical-markets
+- monopsony
+- stub
+tier: Important
+title: Should We Treat Data as Labor? Moving Beyond 'Free'
+year: 2018
 ---
 
 ## Overview

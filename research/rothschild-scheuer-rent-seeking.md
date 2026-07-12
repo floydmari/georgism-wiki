@@ -1,14 +1,23 @@
 ---
-title: "Optimal Taxation with Rent-Seeking"
+authors:
+- Casey Rothschild
+- Florian Scheuer
 category: research
-tags: [research, optimal-taxation, rent-seeking, nber]
-authors: [Casey Rothschild, Florian Scheuer]
-year: 2011
+excerpt: Shows that optimal income-tax design must account for high earners who engage
+  in rent-seeking rather than value creation.
 source_url: https://www.nber.org/system/files/working_papers/w17035/w17035.pdf
-tier: supplementary
 stub: false
-supports_outcomes: [rent-seeking-drags-growth]
-excerpt: "Shows that optimal income-tax design must account for high earners who engage in rent-seeking rather than value creation."
+subcategory: wiki-research-georgism
+supports_outcomes:
+- rent-seeking-drags-growth
+tags:
+- research
+- optimal-taxation
+- rent-seeking
+- nber
+tier: supplementary
+title: Optimal Taxation with Rent-Seeking
+year: 2011
 ---
 
 ## Summary

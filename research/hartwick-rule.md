@@ -1,15 +1,27 @@
 ---
-title: "Hartwick's Rule: Intergenerational Equity and the Investing of Rents from Exhaustible Resources"
+authors:
+- John M. Hartwick
 category: research
-tags: [research, resource-rents, sustainability, exhaustible-resources, genuine-savings, intergenerational-equity]
-authors: [John M. Hartwick]
-year: 1977
-tier: core
+excerpt: Hartwick's 1977 note proves that investing all resource rents in reproducible
+  capital keeps consumption constant across generations — the theoretical foundation
+  for treating resource rents as common wealth to be captured and reinvested.
+last_reviewed: 2026-07-03
 source_url: https://www.jstor.org/stable/1828079
 stub: false
-excerpt: "Hartwick's 1977 note proves that investing all resource rents in reproducible capital keeps consumption constant across generations — the theoretical foundation for treating resource rents as common wealth to be captured and reinvested."
-last_reviewed: 2026-07-03
-supports_outcomes: [resource-rent-dividends-work]
+subcategory: wiki-research-urban
+supports_outcomes:
+- resource-rent-dividends-work
+tags:
+- research
+- resource-rents
+- sustainability
+- exhaustible-resources
+- genuine-savings
+- intergenerational-equity
+tier: core
+title: 'Hartwick''s Rule: Intergenerational Equity and the Investing of Rents from
+  Exhaustible Resources'
+year: 1977
 ---
 
 ## Summary

@@ -1,15 +1,38 @@
 ---
-title: "Natural Common Wealth and Economic Rent in Canada"
+authors:
+- Ben Earle
+- Liam Wilkinson
+- Floyd Marinescu
+- Ken Yang
 category: research
-tags: [research, online-writing, canada, economic-rent, land-value-tax, resource-rents, sovereign-wealth-fund, citizens-dividend, advocacy, think-tank]
-authors: ["Ben Earle", "Liam Wilkinson", "Floyd Marinescu", "Ken Yang"]
-year: 2023
-tier: Important
+excerpt: 'A 2023 working paper from the Canadian advocacy organization Common Wealth
+  Canada estimating the additional economic rent from Canada''s land and natural resources
+  that could be newly captured as public revenue. Two versions exist with materially
+  different land figures: January 2023 v.3 estimates ~$421 billion/year of new rent
+  ($362.5B from a national LVT, via a land-price-growth method); the July 2023 Final
+  revision replaces that method with a 5.5% capitalization rate, cutting the totals
+  to $241 billion/year ($194B from LVT).'
+last_reviewed: 2026-07-09
 source_url: https://www.commonwealth.ca/s/Natural-Common-Wealth-and-Economic-Rent-in-Canada_Jan-2023.pdf
 stub: false
-excerpt: "A 2023 working paper from the Canadian advocacy organization Common Wealth Canada estimating the additional economic rent from Canada's land and natural resources that could be newly captured as public revenue. Two versions exist with materially different land figures: January 2023 v.3 estimates ~$421 billion/year of new rent ($362.5B from a national LVT, via a land-price-growth method); the July 2023 Final revision replaces that method with a 5.5% capitalization rate, cutting the totals to $241 billion/year ($194B from LVT)."
-last_reviewed: 2026-07-09
-supports_outcomes: [land-rent-could-fund-government, resource-rent-dividends-work]
+subcategory: wiki-research-urban
+supports_outcomes:
+- land-rent-could-fund-government
+- resource-rent-dividends-work
+tags:
+- research
+- online-writing
+- canada
+- economic-rent
+- land-value-tax
+- resource-rents
+- sovereign-wealth-fund
+- citizens-dividend
+- advocacy
+- think-tank
+tier: Important
+title: Natural Common Wealth and Economic Rent in Canada
+year: 2023
 ---
 
 ## Summary

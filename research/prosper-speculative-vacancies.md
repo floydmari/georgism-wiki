@@ -1,15 +1,27 @@
 ---
-title: "Speculative Vacancies 11: Empty Homes in Melbourne"
+authors:
+- Prosper Australia
 category: research
-tags: [research, speculative-vacancy, empty-homes, melbourne, water-data, prosper-australia, advocacy]
-authors: [Prosper Australia]
-year: 2024
-tier: important
+excerpt: 'Prosper Australia''s 11th water-data study of Melbourne vacancy: in 2023,
+  1.5% of dwellings used zero water all year and 5.2% were empty or barely used —
+  one in twenty homes. Advocacy research with a transparent, benchmarkable method.'
+last_reviewed: 2026-07-10
 source_url: https://www.prosper.org.au/wp-content/uploads/2024/07/Prosper_SpecVac11_July2024-web.pdf
 stub: false
-excerpt: "Prosper Australia's 11th water-data study of Melbourne vacancy: in 2023, 1.5% of dwellings used zero water all year and 5.2% were empty or barely used — one in twenty homes. Advocacy research with a transparent, benchmarkable method."
-supports_outcomes: [speculative-vacancy-wastes-cities]
-last_reviewed: 2026-07-10
+subcategory: wiki-research-finance
+supports_outcomes:
+- speculative-vacancy-wastes-cities
+tags:
+- research
+- speculative-vacancy
+- empty-homes
+- melbourne
+- water-data
+- prosper-australia
+- advocacy
+tier: important
+title: 'Speculative Vacancies 11: Empty Homes in Melbourne'
+year: 2024
 ---
 
 ## Summary

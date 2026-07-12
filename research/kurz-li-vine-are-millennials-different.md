@@ -1,15 +1,29 @@
 ---
-title: "Are Millennials Different?"
+authors:
+- Christopher Kurz
+- Geng Li
+- Daniel J. Vine
 category: research
-tags: [research, wealth, intergenerational, homeownership, united-states, federal-reserve]
-authors: [Christopher Kurz, Geng Li, Daniel J. Vine]
-year: 2018
-source_url: https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf
-tier: Important
-stub: false
-excerpt: "Federal Reserve Board study using SCF data: young-household homeownership fell from ~50% (Gen X, 2001) to 34% (millennials, 2016), and millennial net worth ran about 40% below Gen X at the same age — though consumption preferences look unchanged."
-supports_outcomes: [young-locked-out-of-land-wealth]
+excerpt: 'Federal Reserve Board study using SCF data: young-household homeownership
+  fell from ~50% (Gen X, 2001) to 34% (millennials, 2016), and millennial net worth
+  ran about 40% below Gen X at the same age — though consumption preferences look
+  unchanged.'
 last_reviewed: 2026-07-10
+source_url: https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf
+stub: false
+subcategory: wiki-research-georgism
+supports_outcomes:
+- young-locked-out-of-land-wealth
+tags:
+- research
+- wealth
+- intergenerational
+- homeownership
+- united-states
+- federal-reserve
+tier: Important
+title: Are Millennials Different?
+year: 2018
 ---
 
 ## Summary

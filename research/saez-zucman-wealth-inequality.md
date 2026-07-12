@@ -1,14 +1,24 @@
 ---
-title: "Wealth Inequality in the United States since 1913 (Saez & Zucman)"
+authors:
+- Emmanuel Saez
+- Gabriel Zucman
 category: research
-tags: [research, wealth-inequality, concentration, capitalization, united-states]
-authors: [Emmanuel Saez, Gabriel Zucman]
-year: 2016
-tier: Important
+excerpt: The Saez–Zucman capitalized-income study of top wealth shares — the primary
+  source behind Doucet's Part 1 point that wealth (land included) is heavily concentrated
+  among the very top of the distribution.
+last_reviewed: 2026-07-11
 source_url: https://eml.berkeley.edu/~saez/SaezZucman2016QJE.pdf
 stub: false
-excerpt: "The Saez–Zucman capitalized-income study of top wealth shares — the primary source behind Doucet's Part 1 point that wealth (land included) is heavily concentrated among the very top of the distribution."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-inequality
+tags:
+- research
+- wealth-inequality
+- concentration
+- capitalization
+- united-states
+tier: Important
+title: Wealth Inequality in the United States since 1913 (Saez & Zucman)
+year: 2016
 ---
 
 ## Summary

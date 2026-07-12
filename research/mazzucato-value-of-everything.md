@@ -1,15 +1,26 @@
 ---
-title: "The Value of Everything: Making and Taking in the Global Economy"
+authors:
+- Mariana Mazzucato
 category: research
-tags: [research, value-theory, rent-extraction, national-accounts, production-boundary, mazzucato, book]
-authors: [Mariana Mazzucato]
-year: 2018
-tier: important
+excerpt: Mazzucato's 2018 book argues that modern economics and national accounts
+  have lost the classical distinction between creating value and extracting it, letting
+  rent — including land rent — be recorded as production.
+last_reviewed: 2026-07-09
 source_url: https://www.penguin.co.uk/books/301195/the-value-of-everything-by-mazzucato-mariana/9780141980768
 stub: false
-excerpt: "Mazzucato's 2018 book argues that modern economics and national accounts have lost the classical distinction between creating value and extracting it, letting rent — including land rent — be recorded as production."
-last_reviewed: 2026-07-09
+subcategory: wiki-research-resources
 supports_outcomes: []
+tags:
+- research
+- value-theory
+- rent-extraction
+- national-accounts
+- production-boundary
+- mazzucato
+- book
+tier: important
+title: 'The Value of Everything: Making and Taking in the Global Economy'
+year: 2018
 ---
 
 ## Overview

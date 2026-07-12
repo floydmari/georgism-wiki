@@ -1,13 +1,21 @@
 ---
-title: "Renegade Economists Podcast"
+authors:
+- Karl Fitzgerald
 category: research
-tags: [research, podcast, australia, fitzgerald, land-tax]
-authors: [Karl Fitzgerald]
-year: 2021
+excerpt: A 600+ episode podcast on land tax, banking, and monopoly power from an Australian
+  Georgist perspective, hosted by Karl Fitzgerald.
 source_url: https://www.prosper.org.au/radio/
-tier: important
 stub: false
-excerpt: "A 600+ episode podcast on land tax, banking, and monopoly power from an Australian Georgist perspective, hosted by Karl Fitzgerald."
+subcategory: wiki-research-urban
+tags:
+- research
+- podcast
+- australia
+- fitzgerald
+- land-tax
+tier: important
+title: Renegade Economists Podcast
+year: 2021
 ---
 
 ## Summary

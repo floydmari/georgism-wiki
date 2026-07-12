@@ -1,13 +1,21 @@
 ---
-title: "The Modern Georgism of Respected Economists"
+authors:
+- Progress and Poverty Institute
 category: research
-tags: [research, online-writing, mainstream, endorsements, stiglitz]
-authors: [Progress and Poverty Institute]
-year: 2023
+excerpt: Documents how a roster of mainstream and Nobel-laureate economists have endorsed
+  conclusions central to Georgism.
 source_url: https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected
-tier: important
 stub: false
-excerpt: "Documents how a roster of mainstream and Nobel-laureate economists have endorsed conclusions central to Georgism."
+subcategory: wiki-research-lvt
+tags:
+- research
+- online-writing
+- mainstream
+- endorsements
+- stiglitz
+tier: important
+title: The Modern Georgism of Respected Economists
+year: 2023
 ---
 
 ## Summary

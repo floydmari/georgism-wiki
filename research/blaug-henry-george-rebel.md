@@ -1,15 +1,26 @@
 ---
-title: "Henry George: Rebel with a Cause"
+authors:
+- Mark Blaug
 category: research
-tags: [research, henry-george, history-of-economics, marginalism, historiography, counter-evidence]
-authors: [Mark Blaug]
-year: 2000
-tier: important
+excerpt: 'Mark Blaug''s 2000 EJHET article — the mainstream historiography of why
+  economists rejected Henry George: analytic objections to the single tax, not landowner
+  patronage. The wiki''s principal counter-source to Gaffney''s ''Corruption of Economics''
+  thesis.'
+last_reviewed: 2026-07-05
 source_url: https://www.tandfonline.com/doi/abs/10.1080/096725600361816
 stub: false
-excerpt: "Mark Blaug's 2000 EJHET article — the mainstream historiography of why economists rejected Henry George: analytic objections to the single tax, not landowner patronage. The wiki's principal counter-source to Gaffney's 'Corruption of Economics' thesis."
-last_reviewed: 2026-07-05
+subcategory: wiki-research-georgism
 supports_outcomes: []
+tags:
+- research
+- henry-george
+- history-of-economics
+- marginalism
+- historiography
+- counter-evidence
+tier: important
+title: 'Henry George: Rebel with a Cause'
+year: 2000
 ---
 
 ## Summary

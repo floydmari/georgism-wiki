@@ -1,14 +1,24 @@
 ---
-title: "AEI Land Price and Land Share Indicators (dataset)"
+authors:
+- AEI Housing Center
 category: research
-tags: [research, dataset, land-share, valuation, residual-method, united-states]
-authors: [AEI Housing Center]
-year: 2020
-tier: Important
+excerpt: The AEI Housing Center's fine-geography residual-method dataset of residential
+  land prices and land shares — the source of the ~70.9% land-share figure Doucet
+  cites for San Francisco County to anchor 'most urban value is land.'
+last_reviewed: 2026-07-11
 source_url: https://www.aei.org/housing/land-price-indicators/
 stub: false
-excerpt: "The AEI Housing Center's fine-geography residual-method dataset of residential land prices and land shares — the source of the ~70.9% land-share figure Doucet cites for San Francisco County to anchor 'most urban value is land.'"
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
+tags:
+- research
+- dataset
+- land-share
+- valuation
+- residual-method
+- united-states
+tier: Important
+title: AEI Land Price and Land Share Indicators (dataset)
+year: 2020
 ---
 
 ## Summary

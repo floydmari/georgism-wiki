@@ -1,15 +1,27 @@
 ---
-title: "Property Taxes and Residential Rents"
+authors:
+- Leah J. Tsoodle
+- Tracy M. Turner
 category: research
-tags: [research, property-tax, incidence, rents, counter-evidence, empirical]
-authors: [Leah J. Tsoodle, Tracy M. Turner]
-year: 2008
-tier: important
+excerpt: Tsoodle & Turner (Real Estate Economics 2008) find US property taxes DO reach
+  residential rents — a one-standard-deviation rate increase raises annual rent by
+  roughly $400-450. Honest counter-evidence for property-tax pass-through; its bearing
+  on a pure land tax is limited by the building component.
+last_reviewed: 2026-07-05
 source_url: https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6229.2008.00207.x
 stub: false
-excerpt: "Tsoodle & Turner (Real Estate Economics 2008) find US property taxes DO reach residential rents — a one-standard-deviation rate increase raises annual rent by roughly $400-450. Honest counter-evidence for property-tax pass-through; its bearing on a pure land tax is limited by the building component."
-last_reviewed: 2026-07-05
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- property-tax
+- incidence
+- rents
+- counter-evidence
+- empirical
+tier: important
+title: Property Taxes and Residential Rents
+year: 2008
 ---
 
 ## Summary

@@ -1,15 +1,28 @@
 ---
-title: "The London Congestion Charge (Leape 2006)"
+authors:
+- Jonathan Leape
 category: research
-tags: [research, congestion-pricing, road-pricing, london, externality, pigouvian, geoism]
-authors: [Jonathan Leape]
-year: 2006
-tier: Important
+excerpt: 'Leape''s Journal of Economic Perspectives review of London''s 2003 congestion
+  charge — the standard economist''s evaluation. Traffic and congestion fell substantially
+  and stayed down, and Leape reads the scheme as ''a triumph of economics'': public
+  recognition of congestion as an externality and road pricing as the correct response.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1257/jep.20.4.157
 stub: false
-excerpt: "Leape's Journal of Economic Perspectives review of London's 2003 congestion charge — the standard economist's evaluation. Traffic and congestion fell substantially and stayed down, and Leape reads the scheme as 'a triumph of economics': public recognition of congestion as an externality and road pricing as the correct response."
-last_reviewed: 2026-07-11
-supports_outcomes: [congestion-pricing-reduces-traffic]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- congestion-pricing-reduces-traffic
+tags:
+- research
+- congestion-pricing
+- road-pricing
+- london
+- externality
+- pigouvian
+- geoism
+tier: Important
+title: The London Congestion Charge (Leape 2006)
+year: 2006
 ---
 
 ## Summary

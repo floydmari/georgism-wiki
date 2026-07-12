@@ -1,15 +1,28 @@
 ---
-title: "Why Is Rent-Seeking So Costly to Growth?"
+authors:
+- Kevin M. Murphy
+- Andrei Shleifer
+- Robert W. Vishny
 category: research
-tags: [research, rent-seeking, growth, increasing-returns, innovation, aer]
-authors: [Kevin M. Murphy, Andrei Shleifer, Robert W. Vishny]
-year: 1993
-tier: important
+excerpt: 'MSV''s AER Papers & Proceedings piece giving two mechanisms for why rent-seeking
+  is so damaging: it exhibits increasing returns (bad equilibria are self-sustaining),
+  and public rent-seeking taxes innovation hardest.'
+last_reviewed: 2026-07-10
 source_url: https://shleifer.scholars.harvard.edu/publications/why-rent-seeking-so-costly-growth
 stub: false
-excerpt: "MSV's AER Papers & Proceedings piece giving two mechanisms for why rent-seeking is so damaging: it exhibits increasing returns (bad equilibria are self-sustaining), and public rent-seeking taxes innovation hardest."
-supports_outcomes: [rent-seeking-drags-growth]
-last_reviewed: 2026-07-10
+subcategory: wiki-research-resources
+supports_outcomes:
+- rent-seeking-drags-growth
+tags:
+- research
+- rent-seeking
+- growth
+- increasing-returns
+- innovation
+- aer
+tier: important
+title: Why Is Rent-Seeking So Costly to Growth?
+year: 1993
 ---
 
 ## Summary

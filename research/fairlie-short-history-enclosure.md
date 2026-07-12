@@ -1,15 +1,27 @@
 ---
-title: "A Short History of Enclosure in Britain"
+authors:
+- Simon Fairlie
 category: research
-tags: [research, history, enclosure, commons, land-monopoly, britain, historiography]
-authors: [Simon Fairlie]
-year: 2009
-tier: important
+excerpt: Fairlie's widely-cited history of English and Scottish enclosure, tracing
+  common-land privatization from medieval open fields through parliamentary enclosure
+  to today's concentrated land ownership, and challenging both Hardin's 'Tragedy of
+  the Commons' and the pure-productivity case for enclosure.
+last_reviewed: 2026-07-05
 source_url: https://www.thelandmagazine.org.uk/articles/short-history-enclosure-britain
 stub: false
-excerpt: "Fairlie's widely-cited history of English and Scottish enclosure, tracing common-land privatization from medieval open fields through parliamentary enclosure to today's concentrated land ownership, and challenging both Hardin's 'Tragedy of the Commons' and the pure-productivity case for enclosure."
-last_reviewed: 2026-07-05
+subcategory: wiki-research-resources
 supports_outcomes: []
+tags:
+- research
+- history
+- enclosure
+- commons
+- land-monopoly
+- britain
+- historiography
+tier: important
+title: A Short History of Enclosure in Britain
+year: 2009
 ---
 
 ## Summary

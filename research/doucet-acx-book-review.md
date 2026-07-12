@@ -1,13 +1,21 @@
 ---
-title: "Book Review: Progress and Poverty (Doucet, ACX Contest Winner)"
+authors:
+- Lars Doucet
 category: research
-tags: [research, online-writing, doucet, acx, accessible]
-authors: [Lars Doucet]
-year: 2021
+excerpt: The Astral Codex Ten book-review-contest winner that launched the modern
+  Georgism revival in rationalist and effective-altruist circles.
 source_url: https://gameofrent.com/content/progress-and-poverty-review
-tier: core
 stub: false
-excerpt: "The Astral Codex Ten book-review-contest winner that launched the modern Georgism revival in rationalist and effective-altruist circles."
+subcategory: wiki-research-inequality
+tags:
+- research
+- online-writing
+- doucet
+- acx
+- accessible
+tier: core
+title: 'Book Review: Progress and Poverty (Doucet, ACX Contest Winner)'
+year: 2021
 ---
 
 ## Summary

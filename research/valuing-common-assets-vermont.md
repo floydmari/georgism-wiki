@@ -1,15 +1,33 @@
 ---
-title: "Valuing Common Assets for Public Finance in Vermont"
+authors:
+- Gary Flomenhoft (ed.)
+- Amos Baehr (ed.)
 category: research
-tags: [research, common-assets, resource-rents, revenue-capacity, citizens-dividend, green-taxes, vermont, advocacy, land-rent]
-authors: [Gary Flomenhoft (ed.), Amos Baehr (ed.)]
-year: 2008
-tier: important
+excerpt: The 2008 University of Vermont report (Vermont Green Tax and Common Assets
+  Project, Gund Institute) that inventoried the economic rent of Vermont's natural
+  and social common assets — land, water, air, spectrum, minerals, wind, the internet,
+  and financial commons — and estimated roughly $1.2 billion/year in uncollected rent,
+  enough for a $1,972 annual dividend to every Vermonter or nearly half of the state's
+  in-state revenue.
+last_reviewed: 2026-07-10
 source_url: https://www.uvm.edu/~gflomenh/projects/documents/Valuing_Common_Assets_web_final.pdf
 stub: false
-excerpt: "The 2008 University of Vermont report (Vermont Green Tax and Common Assets Project, Gund Institute) that inventoried the economic rent of Vermont's natural and social common assets — land, water, air, spectrum, minerals, wind, the internet, and financial commons — and estimated roughly $1.2 billion/year in uncollected rent, enough for a $1,972 annual dividend to every Vermonter or nearly half of the state's in-state revenue."
-last_reviewed: 2026-07-10
-supports_outcomes: [land-rent-could-fund-government]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- land-rent-could-fund-government
+tags:
+- research
+- common-assets
+- resource-rents
+- revenue-capacity
+- citizens-dividend
+- green-taxes
+- vermont
+- advocacy
+- land-rent
+tier: important
+title: Valuing Common Assets for Public Finance in Vermont
+year: 2008
 ---
 
 ## Summary

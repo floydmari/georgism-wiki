@@ -1,15 +1,25 @@
 ---
-title: "Miller (2000): \"On Fairness and Efficiency\" — a flagged, unverified citation"
+authors:
+- Miller
 category: research
-tags: [research, health-inequality, 18-year-land-cycle, rent-privatization, stub, citation-pending]
-authors: [Miller]
-year: 2000
-tier: Supplementary
+excerpt: A 'Miller (2000)' source is attributed within Fred Harrison's books to a
+  rent-privatization health-gradient claim and the 18-year cycle's timing mechanism
+  — unverifiable this session; flagged pending direct access to Harrison's bibliography.
+last_reviewed: 2026-07-11
 source_url: https://shepheardwalwyn.com/product/boom-bust/
 stub: true
-excerpt: "A 'Miller (2000)' source is attributed within Fred Harrison's books to a rent-privatization health-gradient claim and the 18-year cycle's timing mechanism — unverifiable this session; flagged pending direct access to Harrison's bibliography."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
 supports_outcomes: []
+tags:
+- research
+- health-inequality
+- 18-year-land-cycle
+- rent-privatization
+- stub
+- citation-pending
+tier: Supplementary
+title: 'Miller (2000): "On Fairness and Efficiency" — a flagged, unverified citation'
+year: 2000
 ---
 
 ## Summary

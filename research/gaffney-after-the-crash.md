@@ -1,14 +1,26 @@
 ---
-title: "Gaffney (2009): After the Crash — Designing a Depression-Free Economy"
+authors:
+- Mason Gaffney
 category: research
-tags: [research, stub, gaffney, land-cycle, 18-year-cycle, boom-bust, subdivision, 2008-financial-crisis]
-stub: true
-authors: [Mason Gaffney]
-year: 2009
-tier: Important
-source_url: https://cooperative-individualism.org/gaffney-mason_the-role-of-land-markets-in-economic-crises-2009-oct.pdf
-excerpt: "Gaffney's late-career argument that the 2008 crash followed a well-documented ~18-year pattern of land speculation and premature subdivision, and that a land-focused property tax is the best instrument for preventing the next one."
+excerpt: Gaffney's late-career argument that the 2008 crash followed a well-documented
+  ~18-year pattern of land speculation and premature subdivision, and that a land-focused
+  property tax is the best instrument for preventing the next one.
 last_reviewed: 2026-07-11
+source_url: https://cooperative-individualism.org/gaffney-mason_the-role-of-land-markets-in-economic-crises-2009-oct.pdf
+stub: true
+subcategory: wiki-research-resources
+tags:
+- research
+- stub
+- gaffney
+- land-cycle
+- 18-year-cycle
+- boom-bust
+- subdivision
+- 2008-financial-crisis
+tier: Important
+title: 'Gaffney (2009): After the Crash — Designing a Depression-Free Economy'
+year: 2009
 ---
 
 ## Overview

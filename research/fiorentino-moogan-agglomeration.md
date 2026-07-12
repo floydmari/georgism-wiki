@@ -1,14 +1,25 @@
 ---
-title: "LVT and Urban Agglomeration Dynamics"
+authors:
+- Fiorentino
+- Moogan
 category: research
-tags: [research, agglomeration, urban-economics, lvt, equity]
-authors: [Fiorentino, Moogan]
-year: 2025
+excerpt: Models how a land value tax affects urban agglomeration, finding it can improve
+  both efficiency and equity in city formation.
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5588585
-tier: supplementary
 stub: false
-excerpt: "Models how a land value tax affects urban agglomeration, finding it can improve both efficiency and equity in city formation."
-supports_outcomes: [high-land-rents-suppress-productivity, taxing-land-raises-productivity]
+subcategory: wiki-research-resources
+supports_outcomes:
+- high-land-rents-suppress-productivity
+- taxing-land-raises-productivity
+tags:
+- research
+- agglomeration
+- urban-economics
+- lvt
+- equity
+tier: supplementary
+title: LVT and Urban Agglomeration Dynamics
+year: 2025
 ---
 
 ## Summary

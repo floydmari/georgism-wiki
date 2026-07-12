@@ -80,6 +80,14 @@ TAG_IDS = {
     "stub":               "6a232c42819cc700017226be",
     "wiki-books":         "6a4affad6c64fd00014cae89",
     "wiki-texts":         "6a4b01d76c64fd00014cb22a",
+    # ─── wiki-research sub-categories (added 2026-07-12) ───────────────
+    "wiki-research-lvt":        "6a53badc8f5d6d0001cff916",
+    "wiki-research-housing":    "6a53badc8f5d6d0001cff918",
+    "wiki-research-georgism":   "6a53badd8f5d6d0001cff91a",
+    "wiki-research-inequality": "6a53badd8f5d6d0001cff91c",
+    "wiki-research-finance":    "6a53badd8f5d6d0001cff91e",
+    "wiki-research-urban":      "6a53bade8f5d6d0001cff920",
+    "wiki-research-resources":  "6a53bade8f5d6d0001cff922",
 }
 
 CATEGORY_TAG = {            # folder -> category tag slug (ID looked up from TAG_IDS)
@@ -125,6 +133,21 @@ def build_tags(post, folder):
         tags.append(_tag("wiki-most-cited"))
     if post.get("stub"):
         tags.append(_tag("stub"))
+    # ─── sub-category tags (e.g. wiki-research-lvt) ───────────────────
+    # If the frontmatter has a `subcategory` field (e.g. "wiki-research-lvt"),
+    # add that tag. This enables filter chips on the category page.
+    subcat = post.get("subcategory")
+    if subcat:
+        if isinstance(subcat, list):
+            for sc in subcat:
+                if sc in TAG_IDS:
+                    tags.append(_tag(sc))
+                else:
+                    print(f"  WARNING: unknown subcategory tag '{sc}' — add to TAG_IDS")
+        elif subcat in TAG_IDS:
+            tags.append(_tag(subcat))
+        else:
+            print(f"  WARNING: unknown subcategory tag '{subcat}' — add to TAG_IDS")
     return tags
 
 def upsert(path):

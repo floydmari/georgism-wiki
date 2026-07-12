@@ -1,13 +1,20 @@
 ---
-title: "Taxes and Rents: The Power of Tax Policy to Shape Pre-Tax Income"
+authors:
+- Kenneth Austin Richards
 category: research
-tags: [research, rent-seeking, tax-policy, income-distribution]
-authors: [Kenneth Austin Richards]
-year: 2019
+excerpt: Argues that tax policy shapes the pre-tax distribution of income by enabling
+  or constraining rent extraction — not merely redistributing after the fact.
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3330239
-tier: supplementary
 stub: false
-excerpt: "Argues that tax policy shapes the pre-tax distribution of income by enabling or constraining rent extraction — not merely redistributing after the fact."
+subcategory: wiki-research-resources
+tags:
+- research
+- rent-seeking
+- tax-policy
+- income-distribution
+tier: supplementary
+title: 'Taxes and Rents: The Power of Tax Policy to Shape Pre-Tax Income'
+year: 2019
 ---
 
 ## Summary

@@ -1,16 +1,27 @@
 ---
-title: "An Entrepreneurial Critique of Georgism (Gochenour & Caplan)"
+authors:
+- Zachary Gochenour
+- Bryan Caplan
+bears_on_objections:
+- search-theoretic-critique
 category: research
-tags: [research, search-theory, land-value-tax, austrian-economics, objection-source]
-authors: [Zachary Gochenour, Bryan Caplan]
-year: 2013
-tier: Important
+excerpt: Gochenour & Caplan's peer-reviewed search-theoretic critique argues a 100%
+  tax on unimproved land value destroys the incentive to search for and discover land's
+  hidden value, making the Georgist single tax distortionary rather than neutral.
+last_reviewed: 2026-07-10
 source_url: https://link.springer.com/article/10.1007/s11138-013-0218-8
 stub: false
-excerpt: "Gochenour & Caplan's peer-reviewed search-theoretic critique argues a 100% tax on unimproved land value destroys the incentive to search for and discover land's hidden value, making the Georgist single tax distortionary rather than neutral."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-resources
 supports_outcomes: []
-bears_on_objections: [search-theoretic-critique]
+tags:
+- research
+- search-theory
+- land-value-tax
+- austrian-economics
+- objection-source
+tier: Important
+title: An Entrepreneurial Critique of Georgism (Gochenour & Caplan)
+year: 2013
 ---
 
 ## Summary

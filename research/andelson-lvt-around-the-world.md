@@ -1,13 +1,22 @@
 ---
-title: "Land Value Taxation Around the World"
+authors:
+- Robert V. Andelson (ed.)
 category: research
-tags: [research, andelson, comparative, global, reference, book]
-authors: [Robert V. Andelson (ed.)]
-year: 2001
+excerpt: The definitive country-by-country comparative survey of land value taxation
+  worldwide, edited by Robert Andelson — the standard reference on global LVT implementation.
 source_url: https://onlinelibrary.wiley.com/doi/book/10.1002/9780470755364
-tier: core
 stub: false
-excerpt: "The definitive country-by-country comparative survey of land value taxation worldwide, edited by Robert Andelson — the standard reference on global LVT implementation."
+subcategory: wiki-research-lvt
+tags:
+- research
+- andelson
+- comparative
+- global
+- reference
+- book
+tier: core
+title: Land Value Taxation Around the World
+year: 2001
 ---
 
 ## Summary

@@ -1,14 +1,26 @@
 ---
-title: "Barr, Smith & Kulkarni (2018): What's Manhattan Worth?"
+authors:
+- Jason M. Barr
+- Fred H. Smith
+- Sayali J. Kulkarni
 category: research
-tags: [research, land-value, empirical, manhattan, new-york, land-is-a-big-deal]
-authors: [Jason M. Barr, Fred H. Smith, Sayali J. Kulkarni]
-year: 2018
-tier: Important
+excerpt: A land-values index for Manhattan built from vacant-lot sales, 1950-2014,
+  finding the borough's developable land alone worth roughly $1.74 trillion by 2014
+  — a key data point for arguments that urban land value is large.
+last_reviewed: 2026-07-11
 source_url: https://sasn.rutgers.edu/sites/default/files/2024-02/Whats%20Mahattan%20Worth%20v3.1%20Oct%202015.pdf
 stub: true
-excerpt: "A land-values index for Manhattan built from vacant-lot sales, 1950-2014, finding the borough's developable land alone worth roughly $1.74 trillion by 2014 — a key data point for arguments that urban land value is large."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-inequality
+tags:
+- research
+- land-value
+- empirical
+- manhattan
+- new-york
+- land-is-a-big-deal
+tier: Important
+title: 'Barr, Smith & Kulkarni (2018): What''s Manhattan Worth?'
+year: 2018
 ---
 
 ## Overview

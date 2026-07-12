@@ -1,14 +1,30 @@
 ---
-title: "Kolbe, Schulz, Wersing & Werwatz (2015): Identifying Berlin's Land Value Map Using Adaptive Weights Smoothing"
+authors:
+- Jens Kolbe
+- Rainer Schulz
+- Martin Wersing
+- Axel Werwatz
 category: research
-tags: [research, assessment, mass-appraisal, land-value, berlin, germany, land-is-a-big-deal, stub]
-authors: [Jens Kolbe, Rainer Schulz, Martin Wersing, Axel Werwatz]
-year: 2015
-tier: Important
+excerpt: A statistical method (adaptive weights smoothing) that recovers a full land-value
+  map of Berlin from sparse vacant-land sales alone, without expert judgment — cited
+  by Doucet as evidence that land value can be assessed at city scale from data.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1007/s00180-015-0559-9
 stub: true
-excerpt: "A statistical method (adaptive weights smoothing) that recovers a full land-value map of Berlin from sparse vacant-land sales alone, without expert judgment — cited by Doucet as evidence that land value can be assessed at city scale from data."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-finance
+tags:
+- research
+- assessment
+- mass-appraisal
+- land-value
+- berlin
+- germany
+- land-is-a-big-deal
+- stub
+tier: Important
+title: 'Kolbe, Schulz, Wersing & Werwatz (2015): Identifying Berlin''s Land Value
+  Map Using Adaptive Weights Smoothing'
+year: 2015
 ---
 
 ## Overview

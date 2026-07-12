@@ -1,15 +1,31 @@
 ---
-title: "A Firm-Level Perspective on the Role of Rents in the Rise in Inequality"
+authors:
+- Jason Furman
+- Peter Orszag
 category: research
-tags: [research, rents, inequality, market-power, firm-concentration, labor-share, housing-rents, land-use-regulation]
-authors: [Jason Furman, Peter Orszag]
-year: 2015
-tier: Important
+excerpt: Furman & Orszag's 2015 Stiglitz-honoring paper argues rising inequality is
+  better explained by an increasingly skewed distribution of firm-level returns on
+  capital than by a labor-to-capital income shift, and flags land-use-driven housing
+  rents as one contributor.
+last_reviewed: 2026-07-10
 source_url: https://obamawhitehouse.archives.gov/sites/default/files/page/files/20151016_firm_level_perspective_on_role_of_rents_in_inequality.pdf
 stub: false
-excerpt: "Furman & Orszag's 2015 Stiglitz-honoring paper argues rising inequality is better explained by an increasingly skewed distribution of firm-level returns on capital than by a labor-to-capital income shift, and flags land-use-driven housing rents as one contributor."
-last_reviewed: 2026-07-10
-supports_outcomes: [capital-share-rise-is-land, corporate-profits-increasingly-rents]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- capital-share-rise-is-land
+- corporate-profits-increasingly-rents
+tags:
+- research
+- rents
+- inequality
+- market-power
+- firm-concentration
+- labor-share
+- housing-rents
+- land-use-regulation
+tier: Important
+title: A Firm-Level Perspective on the Role of Rents in the Rise in Inequality
+year: 2015
 ---
 
 ## Summary

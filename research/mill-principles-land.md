@@ -1,15 +1,26 @@
 ---
-title: "Mill's Principles of Political Economy: The Land-Taxation Chapters"
+authors:
+- John Stuart Mill
 category: research
-tags: [research, john-stuart-mill, classical-economics, unearned-increment, land-tenure-reform, ricardian-rent, taxation]
-authors: [John Stuart Mill]
-year: 1848
-tier: Core
+excerpt: Mill's Book V land-taxation chapters argue that the future unearned increase
+  of rent may justly be taxed without disturbing existing purchases — a direct forerunner
+  of Georgism that stops well short of it.
+last_reviewed: 2026-07-03
 source_url: https://www.econlib.org/library/Mill/mlP.html
 stub: false
-excerpt: "Mill's Book V land-taxation chapters argue that the future unearned increase of rent may justly be taxed without disturbing existing purchases — a direct forerunner of Georgism that stops well short of it."
-last_reviewed: 2026-07-03
+subcategory: wiki-research-resources
 supports_outcomes: []
+tags:
+- research
+- john-stuart-mill
+- classical-economics
+- unearned-increment
+- land-tenure-reform
+- ricardian-rent
+- taxation
+tier: Core
+title: 'Mill''s Principles of Political Economy: The Land-Taxation Chapters'
+year: 1848
 ---
 
 ## Overview

@@ -1,14 +1,21 @@
 ---
-title: "Social Problems"
+authors:
+- Henry George
 category: research
-tags: [research, primary-text, henry-george, foundations]
-authors: [Henry George]
-year: 1883
-source_url: https://hgfa.org.au/wp-content/uploads/2019/11/Social-Problems-by-Henry-George.pdf
-tier: core
-stub: false
-excerpt: "Henry George's accessible 1883 follow-up to Progress and Poverty, expanding the social and political implications of land monopoly for a popular audience."
+excerpt: Henry George's accessible 1883 follow-up to Progress and Poverty, expanding
+  the social and political implications of land monopoly for a popular audience.
 last_reviewed: 2026-07-03
+source_url: https://hgfa.org.au/wp-content/uploads/2019/11/Social-Problems-by-Henry-George.pdf
+stub: false
+subcategory: wiki-research-resources
+tags:
+- research
+- primary-text
+- henry-george
+- foundations
+tier: core
+title: Social Problems
+year: 1883
 ---
 
 ## Overview

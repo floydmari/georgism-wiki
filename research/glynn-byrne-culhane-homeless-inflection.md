@@ -1,15 +1,32 @@
 ---
-title: "Inflection Points in Community-Level Homeless Rates (Glynn, Byrne & Culhane 2021)"
+authors:
+- Chris Glynn
+- Thomas H. Byrne
+- Dennis P. Culhane
 category: research
-tags: [research, homelessness, housing-costs, rents, cost-burden, bayesian, united-states]
-authors: [Chris Glynn, Thomas H. Byrne, Dennis P. Culhane]
-year: 2021
-tier: Important
+excerpt: 'Glynn, Byrne & Culhane''s Annals of Applied Statistics paper drops the usual
+  linear assumption and lets the data find thresholds. Its central result: a community''s
+  expected homeless rate begins to climb sharply once median rent exceeds ~32% of
+  median income — an empirical inflection point that lands almost exactly on the government''s
+  30% housing-cost-burden line.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1214/20-AOAS1414
 stub: false
-excerpt: "Glynn, Byrne & Culhane's Annals of Applied Statistics paper drops the usual linear assumption and lets the data find thresholds. Its central result: a community's expected homeless rate begins to climb sharply once median rent exceeds ~32% of median income — an empirical inflection point that lands almost exactly on the government's 30% housing-cost-burden line."
-last_reviewed: 2026-07-11
-supports_outcomes: [homelessness-is-housing-cost-problem]
+subcategory: wiki-research-urban
+supports_outcomes:
+- homelessness-is-housing-cost-problem
+tags:
+- research
+- homelessness
+- housing-costs
+- rents
+- cost-burden
+- bayesian
+- united-states
+tier: Important
+title: Inflection Points in Community-Level Homeless Rates (Glynn, Byrne & Culhane
+  2021)
+year: 2021
 ---
 
 ## Summary

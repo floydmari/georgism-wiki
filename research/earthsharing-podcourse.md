@@ -1,13 +1,22 @@
 ---
-title: "The Georgist Podcourse (Earthsharing)"
+authors:
+- Karl Fitzgerald
+- Earthsharing Australia
 category: research
-tags: [research, podcast, education, course, earthsharing]
-authors: [Karl Fitzgerald, Earthsharing Australia]
-year: 2019
+excerpt: A structured 12-part audio course introducing Georgist principles, produced
+  by Earthsharing Australia.
 source_url: http://www.earthsharing.org.au/2019/05/the-georgist-podcourse/
-tier: supplementary
 stub: false
-excerpt: "A structured 12-part audio course introducing Georgist principles, produced by Earthsharing Australia."
+subcategory: wiki-research-housing
+tags:
+- research
+- podcast
+- education
+- course
+- earthsharing
+tier: supplementary
+title: The Georgist Podcourse (Earthsharing)
+year: 2019
 ---
 
 ## Summary

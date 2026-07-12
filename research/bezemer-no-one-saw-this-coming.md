@@ -1,15 +1,27 @@
 ---
-title: "\"No One Saw This Coming\": Understanding Financial Crisis Through Accounting Models (Bezemer)"
+authors:
+- Dirk J. Bezemer
 category: research
-tags: [research, prediction-record, 2008-crisis, flow-of-funds, heterodox]
-authors: [Dirk J. Bezemer]
-year: 2009
-tier: important
+excerpt: 'Bezemer''s independent survey of who publicly anticipated the 2008 crisis
+  and why: the twelve analysts with documented, reasoned calls all used accounting/flow-of-funds
+  models rather than equilibrium models — the outside validation the wiki cites for
+  Fred Harrison''s prediction record (Harrison is in Bezemer''s twelve; Foldvary is
+  not).'
+last_reviewed: 2026-07-06
 source_url: https://mpra.ub.uni-muenchen.de/15892/
 stub: false
-excerpt: "Bezemer's independent survey of who publicly anticipated the 2008 crisis and why: the twelve analysts with documented, reasoned calls all used accounting/flow-of-funds models rather than equilibrium models — the outside validation the wiki cites for Fred Harrison's prediction record (Harrison is in Bezemer's twelve; Foldvary is not)."
-last_reviewed: 2026-07-06
+subcategory: wiki-research-finance
 supports_outcomes: []
+tags:
+- research
+- prediction-record
+- 2008-crisis
+- flow-of-funds
+- heterodox
+tier: important
+title: '"No One Saw This Coming": Understanding Financial Crisis Through Accounting
+  Models (Bezemer)'
+year: 2009
 ---
 
 ## Summary

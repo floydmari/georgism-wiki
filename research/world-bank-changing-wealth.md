@@ -1,15 +1,28 @@
 ---
-title: "The Changing Wealth of Nations 2021: Managing Assets for the Future"
+authors:
+- World Bank
 category: research
-tags: [research, world-bank, natural-capital, wealth-accounting, developing-countries, land, sustainability]
-authors: [World Bank]
-year: 2021
-tier: important
+excerpt: World Bank wealth-accounting flagship finding renewable natural capital —
+  chiefly agricultural land — is the largest share of wealth in low-income countries,
+  evidence of a large, quantifiable land-based tax base, though the report itself
+  makes no claim about property-tax welfare effects.
+last_reviewed: 2026-07-03
 source_url: https://openknowledge.worldbank.org/handle/10986/36400
 stub: false
-excerpt: "World Bank wealth-accounting flagship finding renewable natural capital — chiefly agricultural land — is the largest share of wealth in low-income countries, evidence of a large, quantifiable land-based tax base, though the report itself makes no claim about property-tax welfare effects."
-last_reviewed: 2026-07-03
-supports_outcomes: [land-rent-could-fund-government]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- land-rent-could-fund-government
+tags:
+- research
+- world-bank
+- natural-capital
+- wealth-accounting
+- developing-countries
+- land
+- sustainability
+tier: important
+title: 'The Changing Wealth of Nations 2021: Managing Assets for the Future'
+year: 2021
 ---
 
 ## Summary

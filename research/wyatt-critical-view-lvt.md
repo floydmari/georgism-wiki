@@ -1,14 +1,25 @@
 ---
-title: "Wyatt (1994): A Critical View of Land Value Taxation as a Progressive Strategy"
+authors:
+- Michael D. Wyatt
 category: research
-tags: [research, critique, land-value-tax, capitalization, urban-policy, stub]
-authors: [Michael D. Wyatt]
-year: 1994
-tier: Supplementary
+excerpt: 'A rare academic paper arguing against land value taxation from the left:
+  Wyatt contends LVT would raise, not lower, land prices, give only a small boost
+  to construction, and do little for wealth distribution or housing costs — cited
+  by Doucet as the one dissenting study in an otherwise one-sided capitalization literature.'
+last_reviewed: 2026-07-11
 source_url: https://gwern.net/doc/economics/georgism/1994-wyatt.pdf
 stub: true
-excerpt: "A rare academic paper arguing against land value taxation from the left: Wyatt contends LVT would raise, not lower, land prices, give only a small boost to construction, and do little for wealth distribution or housing costs — cited by Doucet as the one dissenting study in an otherwise one-sided capitalization literature."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- critique
+- land-value-tax
+- capitalization
+- urban-policy
+- stub
+tier: Supplementary
+title: 'Wyatt (1994): A Critical View of Land Value Taxation as a Progressive Strategy'
+year: 1994
 ---
 
 ## Overview

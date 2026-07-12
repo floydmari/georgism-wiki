@@ -1,15 +1,26 @@
 ---
-title: "Who Owns the Sky? Peter Barnes's Sky Trust and Cap-and-Dividend"
+authors:
+- Peter Barnes
 category: research
-tags: [research, ecological-georgism, carbon, commons, cap-and-dividend, citizens-dividend, resource-rents]
-authors: [Peter Barnes]
-year: 2001
-tier: Important
+excerpt: Barnes's 2001 book proposes a 'sky trust' that charges polluters for use
+  of the atmospheric commons and returns the proceeds as an equal per-capita dividend
+  — cap-and-dividend, modeled on the Alaska Permanent Fund.
+last_reviewed: 2026-07-05
 source_url: https://islandpress.org/books/who-owns-sky
 stub: false
-excerpt: "Barnes's 2001 book proposes a 'sky trust' that charges polluters for use of the atmospheric commons and returns the proceeds as an equal per-capita dividend — cap-and-dividend, modeled on the Alaska Permanent Fund."
-last_reviewed: 2026-07-05
+subcategory: wiki-research-resources
 supports_outcomes: []
+tags:
+- research
+- ecological-georgism
+- carbon
+- commons
+- cap-and-dividend
+- citizens-dividend
+- resource-rents
+tier: Important
+title: Who Owns the Sky? Peter Barnes's Sky Trust and Cap-and-Dividend
+year: 2001
 ---
 
 ## Summary

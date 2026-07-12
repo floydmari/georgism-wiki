@@ -1,16 +1,30 @@
 ---
-title: "The Property Tax: An Excise Tax or a Profits Tax?"
+authors:
+- Peter Mieszkowski
+bears_on_objections:
+- lvt-destroys-its-own-tax-base
 category: research
-tags: [research, tax-incidence, property-tax, land-value-tax, general-equilibrium, new-view, public-finance]
-authors: [Peter Mieszkowski]
-year: 1972
-tier: core
+excerpt: 'The founding paper of the ''new view'' of property tax incidence: a general-equilibrium
+  model in which the average burden of the property tax falls on capital owners nationally,
+  local rate differentials act as excise taxes, and the land portion is borne entirely
+  by landowners.'
+last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1016/0047-2727(72)90020-5
 stub: false
-excerpt: "The founding paper of the 'new view' of property tax incidence: a general-equilibrium model in which the average burden of the property tax falls on capital owners nationally, local rate differentials act as excise taxes, and the land portion is borne entirely by landowners."
-last_reviewed: 2026-07-03
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
-bears_on_objections: [lvt-destroys-its-own-tax-base]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- tax-incidence
+- property-tax
+- land-value-tax
+- general-equilibrium
+- new-view
+- public-finance
+tier: core
+title: 'The Property Tax: An Excise Tax or a Profits Tax?'
+year: 1972
 ---
 
 ## Summary

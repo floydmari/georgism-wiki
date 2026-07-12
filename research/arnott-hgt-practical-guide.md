@@ -1,15 +1,26 @@
 ---
-title: "Does the Henry George Theorem Provide a Practical Guide to Optimal City Size?"
+authors:
+- Richard Arnott
 category: research
-tags: [research, henry-george-theorem, optimal-city-size, urban-economics, public-goods]
-authors: [Richard Arnott]
-year: 2004
-tier: important
+excerpt: 'Arnott''s own retrospective on the theorem he co-founded: the Henry George
+  Theorem generalizes far beyond its textbook form, but turning it into an empirical
+  test of whether real cities are over- or underpopulated remains unproven — ''the
+  jury is not yet in.'''
+last_reviewed: 2026-07-04
 source_url: https://www.jstor.org/stable/3488064
 stub: false
-excerpt: "Arnott's own retrospective on the theorem he co-founded: the Henry George Theorem generalizes far beyond its textbook form, but turning it into an empirical test of whether real cities are over- or underpopulated remains unproven — 'the jury is not yet in.'"
-last_reviewed: 2026-07-04
-supports_outcomes: [public-goods-fundable-from-land-rent]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- public-goods-fundable-from-land-rent
+tags:
+- research
+- henry-george-theorem
+- optimal-city-size
+- urban-economics
+- public-goods
+tier: important
+title: Does the Henry George Theorem Provide a Practical Guide to Optimal City Size?
+year: 2004
 ---
 
 ## Summary

@@ -1,15 +1,26 @@
 ---
-title: "Capital in the Twenty-First Century"
+authors:
+- Thomas Piketty
 category: research
-tags: [research, piketty, capital-share, wealth-income-ratio, inequality, housing, land]
-authors: [Thomas Piketty]
-year: 2014
-tier: Core
+excerpt: Piketty's bestselling data-driven inequality book documents rising wealth-income
+  ratios and capital's share of income — the empirical starting point that Rognlie,
+  Bonnet et al., and La Cava later re-decompose as substantially a land/housing phenomenon.
+last_reviewed: 2026-07-04
 source_url: https://www.hup.harvard.edu/books/9780674430006
 stub: false
-excerpt: "Piketty's bestselling data-driven inequality book documents rising wealth-income ratios and capital's share of income — the empirical starting point that Rognlie, Bonnet et al., and La Cava later re-decompose as substantially a land/housing phenomenon."
-last_reviewed: 2026-07-04
+subcategory: wiki-research-finance
 supports_outcomes: []
+tags:
+- research
+- piketty
+- capital-share
+- wealth-income-ratio
+- inequality
+- housing
+- land
+tier: Core
+title: Capital in the Twenty-First Century
+year: 2014
 ---
 
 ## Summary

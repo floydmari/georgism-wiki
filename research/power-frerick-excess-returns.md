@@ -1,16 +1,32 @@
 ---
-title: "Power & Frerick (2016): Have Excess Returns to Corporations Been Increasing Over Time?"
+authors:
+- Laura Power
+- Austin Frerick
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-tags: [research, excess-returns, economic-rent, corporate-tax, treasury, tech-rents]
-authors: [Laura Power, Austin Frerick]
-year: 2016
-tier: Important
+excerpt: US Treasury economists, using corporate tax-return microdata 1992–2013, find
+  the 'normal' (risk-free) return share of the corporate tax base fell from ~40% to
+  ~25% — i.e., excess returns rose from ~60% to ~75% of the base. The load-bearing
+  number behind claims that the corporate tax already falls mostly on rents.
+last_reviewed: 2026-07-06
 source_url: https://home.treasury.gov/system/files/131/wp-111.pdf
 stub: false
-supports_outcomes: [corporate-profits-increasingly-rents, rent-targeting-taxes-reduce-debt-bias]
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
-excerpt: "US Treasury economists, using corporate tax-return microdata 1992–2013, find the 'normal' (risk-free) return share of the corporate tax base fell from ~40% to ~25% — i.e., excess returns rose from ~60% to ~75% of the base. The load-bearing number behind claims that the corporate tax already falls mostly on rents."
-last_reviewed: 2026-07-06
+subcategory: wiki-research-resources
+supports_outcomes:
+- corporate-profits-increasingly-rents
+- rent-targeting-taxes-reduce-debt-bias
+tags:
+- research
+- excess-returns
+- economic-rent
+- corporate-tax
+- treasury
+- tech-rents
+tier: Important
+title: 'Power & Frerick (2016): Have Excess Returns to Corporations Been Increasing
+  Over Time?'
+year: 2016
 ---
 
 ## Summary

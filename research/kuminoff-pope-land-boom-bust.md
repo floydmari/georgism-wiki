@@ -1,14 +1,26 @@
 ---
-title: "Kuminoff & Pope (2013): The Value of Residential Land and Structures during the Great Housing Boom and Bust"
+authors:
+- Nicolai V. Kuminoff
+- Jaren C. Pope
 category: research
-tags: [research, land-value, empirical, boom-bust-cycle, hedonic-estimation, land-is-a-big-deal]
-authors: [Nicolai V. Kuminoff, Jaren C. Pope]
-year: 2013
-tier: Important
+excerpt: A hedonic study separating land from structure value across a million-plus
+  home sales in 10 US metros, 1998-2009, finding the cheapest fringe land -- not structures
+  -- was the most volatile part of home prices during the 2000s boom and bust.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.3368/le.89.1.1
 stub: true
-excerpt: "A hedonic study separating land from structure value across a million-plus home sales in 10 US metros, 1998-2009, finding the cheapest fringe land -- not structures -- was the most volatile part of home prices during the 2000s boom and bust."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- land-value
+- empirical
+- boom-bust-cycle
+- hedonic-estimation
+- land-is-a-big-deal
+tier: Important
+title: 'Kuminoff & Pope (2013): The Value of Residential Land and Structures during
+  the Great Housing Boom and Bust'
+year: 2013
 ---
 
 ## Overview

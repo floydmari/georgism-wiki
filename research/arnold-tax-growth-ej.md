@@ -1,16 +1,37 @@
 ---
-title: "Tax Policy for Economic Recovery and Growth"
+authors:
+- Jens Matthias Arnold
+- Bert Brys
+- Christopher Heady
+- Åsa Johansson
+- Cyrille Schwellnus
+- Laura Vartia
+bears_on_objections:
+- lvt-is-just-a-property-tax
 category: research
-tags: [research, oecd, tax-and-growth, property-tax, cross-country, panel-data, corporate-tax, mainstream, financial-crisis]
-authors: [Jens Matthias Arnold, Bert Brys, Christopher Heady, Åsa Johansson, Cyrille Schwellnus, Laura Vartia]
-year: 2011
-tier: important
+excerpt: 'The peer-reviewed Economic Journal version of the OECD ''tax and growth''
+  ranking: revenue-neutral shifts toward recurrent property and consumption taxes
+  raise long-run GDP per capita in a 21-country OECD panel.'
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1111/j.1468-0297.2010.02415.x
 stub: false
-excerpt: "The peer-reviewed Economic Journal version of the OECD 'tax and growth' ranking: revenue-neutral shifts toward recurrent property and consumption taxes raise long-run GDP per capita in a 21-country OECD panel."
-last_reviewed: 2026-07-10
-supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, taxing-land-raises-productivity]
-bears_on_objections: [lvt-is-just-a-property-tax]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- lvt-can-replace-capital-taxes-without-efficiency-loss
+- taxing-land-raises-productivity
+tags:
+- research
+- oecd
+- tax-and-growth
+- property-tax
+- cross-country
+- panel-data
+- corporate-tax
+- mainstream
+- financial-crisis
+tier: important
+title: Tax Policy for Economic Recovery and Growth
+year: 2011
 ---
 
 ## Summary

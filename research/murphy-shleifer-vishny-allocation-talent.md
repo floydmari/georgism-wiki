@@ -1,15 +1,28 @@
 ---
-title: "The Allocation of Talent: Implications for Growth"
+authors:
+- Kevin M. Murphy
+- Andrei Shleifer
+- Robert W. Vishny
 category: research
-tags: [research, rent-seeking, talent-allocation, growth, entrepreneurship, qje]
-authors: [Kevin M. Murphy, Andrei Shleifer, Robert W. Vishny]
-year: 1991
-tier: important
+excerpt: Landmark QJE paper arguing that when a society's most talented people become
+  rent seekers rather than entrepreneurs, growth suffers — with cross-country evidence
+  from law versus engineering enrollments.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.2307/2937945
 stub: false
-excerpt: "Landmark QJE paper arguing that when a society's most talented people become rent seekers rather than entrepreneurs, growth suffers — with cross-country evidence from law versus engineering enrollments."
-supports_outcomes: [rent-seeking-drags-growth]
-last_reviewed: 2026-07-10
+subcategory: wiki-research-finance
+supports_outcomes:
+- rent-seeking-drags-growth
+tags:
+- research
+- rent-seeking
+- talent-allocation
+- growth
+- entrepreneurship
+- qje
+tier: important
+title: 'The Allocation of Talent: Implications for Growth'
+year: 1991
 ---
 
 ## Summary

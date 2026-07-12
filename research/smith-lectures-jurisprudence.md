@@ -1,15 +1,29 @@
 ---
-title: "Adam Smith's Lectures on Jurisprudence: Land Taxation Before the Wealth of Nations"
+authors:
+- Adam Smith
 category: research
-tags: [research, adam-smith, classical-economics, land-value-tax, ground-rent, taxation, tax-incidence, tax-capitalization]
-authors: [Adam Smith]
-year: 1896
-tier: Core
+excerpt: A decade before the Wealth of Nations, Smith's Glasgow lectures already argued
+  that a tax on land is cheap to collect, falls on rent rather than raising prices,
+  and — if fixed rather than rising with rent — does not discourage improvement. The
+  verbatim student-note record, with the provenance caveat stated plainly.
+last_reviewed: 2026-07-11
 source_url: https://archive.org/details/lecturesonjustic00smituoft
 stub: false
-excerpt: "A decade before the Wealth of Nations, Smith's Glasgow lectures already argued that a tax on land is cheap to collect, falls on rent rather than raising prices, and — if fixed rather than rising with rent — does not discourage improvement. The verbatim student-note record, with the provenance caveat stated plainly."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- adam-smith
+- classical-economics
+- land-value-tax
+- ground-rent
+- taxation
+- tax-incidence
+- tax-capitalization
+tier: Core
+title: 'Adam Smith''s Lectures on Jurisprudence: Land Taxation Before the Wealth of
+  Nations'
+year: 1896
 ---
 
 ## Overview

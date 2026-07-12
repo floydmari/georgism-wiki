@@ -1,14 +1,26 @@
 ---
-title: "Jones & Harrison (1997): The Chaos Makers"
+authors:
+- Frederic J. Jones
+- Fred Harrison
 category: research
-tags: [research, stub, land-cycle, 18-year-cycle, forecasting, fred-harrison]
-stub: true
-excerpt: "A 1997 statistical monograph by Frederic J. Jones, with Fred Harrison, using cross-country land-value/GNP data to forecast a land-price-driven global crisis around 2007-08 — later cited as an early documented prediction of the 2008 financial crisis."
+excerpt: A 1997 statistical monograph by Frederic J. Jones, with Fred Harrison, using
+  cross-country land-value/GNP data to forecast a land-price-driven global crisis
+  around 2007-08 — later cited as an early documented prediction of the 2008 financial
+  crisis.
 last_reviewed: 2026-07-11
-authors: [Frederic J. Jones, Fred Harrison]
-year: 1997
-tier: Important
 source_url: https://openlibrary.org/books/OL416684M/The_chaos_makers.
+stub: true
+subcategory: wiki-research-housing
+tags:
+- research
+- stub
+- land-cycle
+- 18-year-cycle
+- forecasting
+- fred-harrison
+tier: Important
+title: 'Jones & Harrison (1997): The Chaos Makers'
+year: 1997
 ---
 
 ## Overview

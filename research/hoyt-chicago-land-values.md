@@ -1,15 +1,27 @@
 ---
-title: "One Hundred Years of Land Values in Chicago"
+authors:
+- Homer Hoyt
 category: research
-tags: [research, land-cycle, real-estate-cycle, chicago, hoyt, speculation, historical]
-authors: [Homer Hoyt]
-year: 1933
-tier: Important
+excerpt: Homer Hoyt's 1933 University of Chicago dissertation traces Chicago land
+  values from 1830 to 1933, documenting a recurring boom-bust rhythm in land prices
+  — the founding empirical study behind the Georgist 18-year land cycle.
+last_reviewed: 2026-07-11
 source_url: https://archive.org/details/onehundredyearso00hoytrich
 stub: false
-excerpt: "Homer Hoyt's 1933 University of Chicago dissertation traces Chicago land values from 1830 to 1933, documenting a recurring boom-bust rhythm in land prices — the founding empirical study behind the Georgist 18-year land cycle."
-last_reviewed: 2026-07-11
-supports_outcomes: [lvt-dampens-land-speculation]
+subcategory: wiki-research-housing
+supports_outcomes:
+- lvt-dampens-land-speculation
+tags:
+- research
+- land-cycle
+- real-estate-cycle
+- chicago
+- hoyt
+- speculation
+- historical
+tier: Important
+title: One Hundred Years of Land Values in Chicago
+year: 1933
 ---
 
 ## Summary

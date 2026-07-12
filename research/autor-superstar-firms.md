@@ -1,15 +1,30 @@
 ---
-title: "The Fall of the Labor Share and the Rise of Superstar Firms"
+authors:
+- David Autor
+- David Dorn
+- Lawrence Katz
+- Christina Patterson
+- John Van Reenen
 category: research
-tags: [research, labor-share, superstar-firms, market-concentration, markups, rent-seeking, land-rent]
-authors: [David Autor, David Dorn, Lawrence Katz, Christina Patterson, John Van Reenen]
-year: 2020
-tier: Important
+excerpt: 'The leading non-land explanation of the falling labor share: rising industry
+  concentration toward high-markup ''superstar firms.'' The honest empirical counterweight
+  to Rognlie''s land/housing decomposition of the rising capital share.'
+last_reviewed: 2026-07-03
 source_url: https://www.nber.org/papers/w23396
 stub: false
-excerpt: "The leading non-land explanation of the falling labor share: rising industry concentration toward high-markup 'superstar firms.' The honest empirical counterweight to Rognlie's land/housing decomposition of the rising capital share."
-last_reviewed: 2026-07-03
+subcategory: wiki-research-urban
 supports_outcomes: []
+tags:
+- research
+- labor-share
+- superstar-firms
+- market-concentration
+- markups
+- rent-seeking
+- land-rent
+tier: Important
+title: The Fall of the Labor Share and the Rise of Superstar Firms
+year: 2020
 ---
 
 ## Overview

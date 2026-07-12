@@ -1,14 +1,29 @@
 ---
-title: "Land is Back, It Should Be Taxed, It Can Be Taxed"
+authors:
+- Odran Bonnet
+- Guillaume Chapelle
+- Alain Trannoy
+- Etienne Wasmer
 category: research
-tags: [research, land, capital-share, lvt, europe, efficiency]
-authors: [Odran Bonnet, Guillaume Chapelle, Alain Trannoy, Etienne Wasmer]
-year: 2021
+excerpt: European Economic Review paper confirming that rising wealth-to-income ratios
+  are driven by land, and showing a land tax can replace capital taxes with no efficiency
+  loss.
 source_url: https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf
-tier: core
 stub: false
-excerpt: "European Economic Review paper confirming that rising wealth-to-income ratios are driven by land, and showing a land tax can replace capital taxes with no efficiency loss."
-supports_outcomes: [capital-share-rise-is-land, lvt-can-replace-capital-taxes-without-efficiency-loss]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- capital-share-rise-is-land
+- lvt-can-replace-capital-taxes-without-efficiency-loss
+tags:
+- research
+- land
+- capital-share
+- lvt
+- europe
+- efficiency
+tier: core
+title: Land is Back, It Should Be Taxed, It Can Be Taxed
+year: 2021
 ---
 
 ## Summary

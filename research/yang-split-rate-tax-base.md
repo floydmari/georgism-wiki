@@ -1,15 +1,27 @@
 ---
-title: "Effects of Split-Rate Taxation on Tax Base"
+authors:
+- Zhou Yang
+- Zackary B. Hawley
 category: research
-tags: [research, pennsylvania, split-rate, tax-base, empirical, land-value]
-authors: [Zhou Yang, Zackary B. Hawley]
-year: 2022
-tier: Important
+excerpt: Panel study of Pennsylvania municipalities finds switching to split-rate
+  taxation raises aggregate property market values, driven mainly by commercial and
+  residential gains, while land values fall only slightly.
+last_reviewed: 2026-07-03
 source_url: https://journals.sagepub.com/doi/10.1177/10911421221129956
 stub: false
-excerpt: "Panel study of Pennsylvania municipalities finds switching to split-rate taxation raises aggregate property market values, driven mainly by commercial and residential gains, while land values fall only slightly."
-last_reviewed: 2026-07-03
-supports_outcomes: [split-rate-increases-construction]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- split-rate-increases-construction
+tags:
+- research
+- pennsylvania
+- split-rate
+- tax-base
+- empirical
+- land-value
+tier: Important
+title: Effects of Split-Rate Taxation on Tax Base
+year: 2022
 ---
 
 ## Summary

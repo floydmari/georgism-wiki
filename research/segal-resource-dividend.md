@@ -1,15 +1,28 @@
 ---
-title: "Resource Rents, Redistribution, and Halving Global Poverty: The Resource Dividend"
+authors:
+- Paul Segal
 category: research
-tags: [research, resource-rents, citizens-dividend, poverty, developing-countries, basic-income, empirical]
-authors: [Paul Segal]
-year: 2011
-tier: important
+excerpt: Segal estimates that if every developing country paid out its resource rents
+  as an equal per-capita cash dividend, extreme ($1/day) poverty would fall by roughly
+  27-66%, depending on year and assumptions.
+last_reviewed: 2026-07-09
 source_url: https://doi.org/10.1016/j.worlddev.2010.08.013
 stub: false
-excerpt: "Segal estimates that if every developing country paid out its resource rents as an equal per-capita cash dividend, extreme ($1/day) poverty would fall by roughly 27-66%, depending on year and assumptions."
-last_reviewed: 2026-07-09
-supports_outcomes: [resource-rent-dividends-work, rent-dividends-reduce-poverty]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- resource-rent-dividends-work
+- rent-dividends-reduce-poverty
+tags:
+- research
+- resource-rents
+- citizens-dividend
+- poverty
+- developing-countries
+- basic-income
+- empirical
+tier: important
+title: 'Resource Rents, Redistribution, and Halving Global Poverty: The Resource Dividend'
+year: 2011
 ---
 
 ## Summary

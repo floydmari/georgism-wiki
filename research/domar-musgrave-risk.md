@@ -1,16 +1,31 @@
 ---
-title: "Domar & Musgrave (1944): Proportional Income Taxation and Risk-Taking"
+authors:
+- Evsey Domar
+- Richard Musgrave
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-tags: [research, risk, loss-offset, corporate-tax, theory, tech-rents, quasi-rent]
-authors: [Evsey Domar, Richard Musgrave]
-year: 1944
-tier: Important
+excerpt: 'The 1944 QJE classic showing that a proportional tax leaves risk-taking
+  undamaged — and can even encourage it — only with full loss offset: the state must
+  share losses as fully as gains. Since no real tax system offers full refundability,
+  this is the analytic hinge of the Schumpeterian objection to rent taxation as practiced.'
+last_reviewed: 2026-07-06
 source_url: https://academic.oup.com/qje/article-abstract/58/3/388/1896885
 stub: false
-supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
-excerpt: "The 1944 QJE classic showing that a proportional tax leaves risk-taking undamaged — and can even encourage it — only with full loss offset: the state must share losses as fully as gains. Since no real tax system offers full refundability, this is the analytic hinge of the Schumpeterian objection to rent taxation as practiced."
-last_reviewed: 2026-07-06
+subcategory: wiki-research-urban
+supports_outcomes:
+- rent-targeting-taxes-reduce-debt-bias
+tags:
+- research
+- risk
+- loss-offset
+- corporate-tax
+- theory
+- tech-rents
+- quasi-rent
+tier: Important
+title: 'Domar & Musgrave (1944): Proportional Income Taxation and Risk-Taking'
+year: 1944
 ---
 
 ## Summary

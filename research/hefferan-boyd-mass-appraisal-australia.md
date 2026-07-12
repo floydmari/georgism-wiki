@@ -1,14 +1,26 @@
 ---
-title: "Property Taxation and Mass Appraisal Valuations in Australia (Hefferan & Boyd)"
+authors:
+- Mike Hefferan
+- Terry Boyd
 category: research
-tags: [research, assessment, mass-appraisal, valuation, property-tax, australia]
-authors: [Mike Hefferan, Terry Boyd]
-year: 2010
-tier: Important
+excerpt: Australian mass-appraisal review supplying the objection-rate benchmark —
+  appeal rates well below the internationally accepted 2%, many jurisdictions under
+  1% — used as a real-world signal that value-based land assessment is accepted as
+  reliable.
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1108/02637471011051291
 stub: false
-excerpt: "Australian mass-appraisal review supplying the objection-rate benchmark — appeal rates well below the internationally accepted 2%, many jurisdictions under 1% — used as a real-world signal that value-based land assessment is accepted as reliable."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-urban
+tags:
+- research
+- assessment
+- mass-appraisal
+- valuation
+- property-tax
+- australia
+tier: Important
+title: Property Taxation and Mass Appraisal Valuations in Australia (Hefferan & Boyd)
+year: 2010
 ---
 
 ## Summary

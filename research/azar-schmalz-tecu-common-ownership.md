@@ -1,14 +1,28 @@
 ---
-title: "Azar, Schmalz & Tecu (2018): Anticompetitive Effects of Common Ownership"
+authors:
+- José Azar
+- Martin C. Schmalz
+- Isabel Tecu
 category: research
-tags: [research, horizontal-shareholding, common-ownership, antitrust, airlines, financialization, stub]
-authors: [José Azar, Martin C. Schmalz, Isabel Tecu]
-year: 2018
-tier: Important
+excerpt: The flagship empirical study finding that common institutional ownership
+  of competing US airlines is associated with several-percent-higher ticket prices
+  — the load-bearing evidence for the horizontal-shareholding rent-extraction case,
+  and a genuinely contested finding.
+last_reviewed: 2026-07-11
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2427345
 stub: true
-excerpt: "The flagship empirical study finding that common institutional ownership of competing US airlines is associated with several-percent-higher ticket prices — the load-bearing evidence for the horizontal-shareholding rent-extraction case, and a genuinely contested finding."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- horizontal-shareholding
+- common-ownership
+- antitrust
+- airlines
+- financialization
+- stub
+tier: Important
+title: 'Azar, Schmalz & Tecu (2018): Anticompetitive Effects of Common Ownership'
+year: 2018
 ---
 
 ## Overview

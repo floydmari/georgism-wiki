@@ -1,13 +1,22 @@
 ---
-title: "Lars Doucet on the Dwarkesh Podcast"
+authors:
+- Dwarkesh Patel
+- Lars Doucet
 category: research
-tags: [research, podcast, doucet, accessible, introduction]
-authors: [Dwarkesh Patel, Lars Doucet]
-year: 2023
+excerpt: A widely-recommended long-form podcast conversation introducing Georgism
+  through Lars Doucet — among the best single-sitting introductions to the ideas.
 source_url: https://www.dwarkesh.com/p/lars-doucet
-tier: core
 stub: false
-excerpt: "A widely-recommended long-form podcast conversation introducing Georgism through Lars Doucet — among the best single-sitting introductions to the ideas."
+subcategory: wiki-research-lvt
+tags:
+- research
+- podcast
+- doucet
+- accessible
+- introduction
+tier: core
+title: Lars Doucet on the Dwarkesh Podcast
+year: 2023
 ---
 
 ## Summary

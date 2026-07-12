@@ -1,16 +1,32 @@
 ---
-title: "The Economic Implications of Housing Supply"
+authors:
+- Edward L. Glaeser
+- Joseph Gyourko
+bears_on_objections:
+- planning-restrictions-cause-high-prices
+- land-capture-didnt-make-housing-cheap
 category: research
-tags: [research, housing-supply, zoning, land-use-regulation, urban-economics, affordability, mainstream]
-authors: [Edward L. Glaeser, Joseph Gyourko]
-year: 2018
-tier: core
+excerpt: Glaeser and Gyourko show US house prices in coastal/regulated metros far
+  exceed minimum production cost, and attribute the gap to zoning, not land scarcity
+  or LVT — a paper about regulation, not tax policy.
+last_reviewed: 2026-07-10
 source_url: https://pubs.aeaweb.org/doi/10.1257/jep.32.1.3
 stub: false
-excerpt: "Glaeser and Gyourko show US house prices in coastal/regulated metros far exceed minimum production cost, and attribute the gap to zoning, not land scarcity or LVT — a paper about regulation, not tax policy."
-last_reviewed: 2026-07-10
-supports_outcomes: [lvt-improves-housing-affordability, housing-unaffordability-is-a-land-problem]
-bears_on_objections: [planning-restrictions-cause-high-prices, land-capture-didnt-make-housing-cheap]
+subcategory: wiki-research-resources
+supports_outcomes:
+- lvt-improves-housing-affordability
+- housing-unaffordability-is-a-land-problem
+tags:
+- research
+- housing-supply
+- zoning
+- land-use-regulation
+- urban-economics
+- affordability
+- mainstream
+tier: core
+title: The Economic Implications of Housing Supply
+year: 2018
 ---
 
 ## Summary

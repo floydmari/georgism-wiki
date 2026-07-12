@@ -1,14 +1,25 @@
 ---
-title: "The Land Question"
+authors:
+- Henry George
 category: research
-tags: [research, primary-text, henry-george, ireland, land-reform, irish-land-war, peasant-proprietorship]
-authors: [Henry George]
-year: 1881
-source_url: https://www.henrygeorge.org/
-tier: important
-stub: false
-excerpt: "Henry George's 1881 tract on the Irish Land War — originally *The Irish Land Question* — arguing that peasant proprietorship would not cure Ireland's poverty and that only land value taxation addresses the underlying cause."
+excerpt: Henry George's 1881 tract on the Irish Land War — originally *The Irish Land
+  Question* — arguing that peasant proprietorship would not cure Ireland's poverty
+  and that only land value taxation addresses the underlying cause.
 last_reviewed: 2026-07-10
+source_url: https://www.henrygeorge.org/
+stub: false
+subcategory: wiki-research-resources
+tags:
+- research
+- primary-text
+- henry-george
+- ireland
+- land-reform
+- irish-land-war
+- peasant-proprietorship
+tier: important
+title: The Land Question
+year: 1881
 ---
 
 ## Summary

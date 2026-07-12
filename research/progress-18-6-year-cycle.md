@@ -1,14 +1,27 @@
 ---
-title: "The 18-Year Pattern Predicting 2027's Market Crash"
+authors:
+- Floyd Marinescu
 category: research
-tags: [research, land-cycle, real-estate-cycle, forecasting, harrison, foldvary, anderson, patel, hoyt]
-authors: ["Floyd Marinescu"]
-year: 2026
-tier: Supplementary
+excerpt: A Progress.org article restating the 18.6-year land/real-estate cycle theory
+  — its four-phase structure, the Hoyt-Wenzlick-Harrison-Foldvary-Anderson-Patel lineage,
+  and a forecast that the cycle's next peak/crash falls in the 2026–2028 window.
+last_reviewed: 2026-07-11
 source_url: https://www.progress.org/articles/18-6-year-real-estate-cycle/
 stub: false
-excerpt: "A Progress.org article restating the 18.6-year land/real-estate cycle theory — its four-phase structure, the Hoyt-Wenzlick-Harrison-Foldvary-Anderson-Patel lineage, and a forecast that the cycle's next peak/crash falls in the 2026–2028 window."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- land-cycle
+- real-estate-cycle
+- forecasting
+- harrison
+- foldvary
+- anderson
+- patel
+- hoyt
+tier: Supplementary
+title: The 18-Year Pattern Predicting 2027's Market Crash
+year: 2026
 ---
 
 ## Summary

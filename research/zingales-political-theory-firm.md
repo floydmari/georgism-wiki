@@ -1,15 +1,27 @@
 ---
-title: "Towards a Political Theory of the Firm"
+authors:
+- Luigi Zingales
 category: research
-tags: [research, market-power, political-capture, lobbying, rent-seeking, corporate-governance, medici-circle]
-authors: [Luigi Zingales]
-year: 2017
-tier: Important
+excerpt: Zingales argues that market concentration creates a 'Medici vicious circle'
+  where firms use economic power to gain political power, which in turn entrenches
+  market power — a political-economy mechanism for rising corporate rents.
+last_reviewed: 2026-07-04
 source_url: https://www.nber.org/system/files/working_papers/w23593/w23593.pdf
 stub: false
-excerpt: "Zingales argues that market concentration creates a 'Medici vicious circle' where firms use economic power to gain political power, which in turn entrenches market power — a political-economy mechanism for rising corporate rents."
-last_reviewed: 2026-07-04
-supports_outcomes: [corporate-profits-increasingly-rents]
+subcategory: wiki-research-resources
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- market-power
+- political-capture
+- lobbying
+- rent-seeking
+- corporate-governance
+- medici-circle
+tier: Important
+title: Towards a Political Theory of the Firm
+year: 2017
 ---
 
 ## Summary

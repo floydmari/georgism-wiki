@@ -1,15 +1,30 @@
 ---
-title: "Do Local Economic Conditions Affect Homelessness? Impact of Area Housing Market Factors, Unemployment, and Poverty on Community Homeless Rates"
+authors:
+- Maria Hanratty
 category: research
-tags: [research, homelessness, housing-costs, rents, poverty, united-states, panel, fixed-effects]
-authors: [Maria Hanratty]
-year: 2017
-tier: Important
+excerpt: 'A HUD point-in-time panel (2007–2014) across U.S. communities: median rent
+  has a strong positive effect on homelessness that survives area fixed effects, while
+  poverty and unemployment do not — sharpening the case that housing costs, not local
+  hardship, drive community homelessness rates.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1080/10511482.2017.1282885
 stub: false
-excerpt: "A HUD point-in-time panel (2007–2014) across U.S. communities: median rent has a strong positive effect on homelessness that survives area fixed effects, while poverty and unemployment do not — sharpening the case that housing costs, not local hardship, drive community homelessness rates."
-last_reviewed: 2026-07-11
-supports_outcomes: [homelessness-is-housing-cost-problem]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- homelessness-is-housing-cost-problem
+tags:
+- research
+- homelessness
+- housing-costs
+- rents
+- poverty
+- united-states
+- panel
+- fixed-effects
+tier: Important
+title: Do Local Economic Conditions Affect Homelessness? Impact of Area Housing Market
+  Factors, Unemployment, and Poverty on Community Homeless Rates
+year: 2017
 ---
 
 ## Summary

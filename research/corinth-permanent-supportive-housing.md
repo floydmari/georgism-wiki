@@ -1,15 +1,28 @@
 ---
-title: "The Impact of Permanent Supportive Housing on Homeless Populations"
+authors:
+- Kevin Corinth
 category: research
-tags: [research, homelessness, permanent-supportive-housing, housing-supply, policy, united-states, panel, instrumental-variables]
-authors: [Kevin Corinth]
-year: 2017
-tier: supplementary
+excerpt: A HUD-panel and instrumental-variables study finding that adding one permanent
+  supportive housing bed reduces the homeless count by far less than one person —
+  a caveat on how mechanically 'more housing units' translates into fewer homeless
+  people, even as it leaves the rent-geography evidence intact.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1016/j.jhe.2017.01.006
 stub: false
-excerpt: "A HUD-panel and instrumental-variables study finding that adding one permanent supportive housing bed reduces the homeless count by far less than one person — a caveat on how mechanically 'more housing units' translates into fewer homeless people, even as it leaves the rent-geography evidence intact."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
 supports_outcomes: []
+tags:
+- research
+- homelessness
+- permanent-supportive-housing
+- housing-supply
+- policy
+- united-states
+- panel
+- instrumental-variables
+tier: supplementary
+title: The Impact of Permanent Supportive Housing on Homeless Populations
+year: 2017
 ---
 
 ## Summary

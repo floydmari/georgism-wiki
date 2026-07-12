@@ -1,14 +1,32 @@
 ---
-title: "Korinek & Stiglitz — AI, Innovator Rents and Non-Distortionary Redistribution"
+authors:
+- Anton Korinek
+- Joseph E. Stiglitz
 category: research
-tags: [research, artificial-intelligence, innovator-rents, economic-rent, redistribution, data-rents, geoism, quasi-rent]
-authors: [Anton Korinek, Joseph E. Stiglitz]
-year: 2017
-tier: Important
+excerpt: Korinek & Stiglitz's NBER paper on AI and inequality is the steepest, most
+  contested point on the rent gradient — and, unexpectedly, its most explicitly Georgist.
+  They argue AI generates 'innovator rents' in excess of innovation costs, and that
+  in the long run the gains from worker-replacing technology accrue to whatever irreproducible
+  factor stays scarce — land, energy — whose owners 'absorb all the rents.' Because
+  taxes on non-reproducible factors are 'by definition non-distortionary,' redistribution
+  can make AI a Pareto improvement. Henry George arrives at the frontier of the machine
+  age.
+last_reviewed: 2026-07-10
 source_url: https://www.nber.org/system/files/working_papers/w24174/w24174.pdf
 stub: false
-excerpt: "Korinek & Stiglitz's NBER paper on AI and inequality is the steepest, most contested point on the rent gradient — and, unexpectedly, its most explicitly Georgist. They argue AI generates 'innovator rents' in excess of innovation costs, and that in the long run the gains from worker-replacing technology accrue to whatever irreproducible factor stays scarce — land, energy — whose owners 'absorb all the rents.' Because taxes on non-reproducible factors are 'by definition non-distortionary,' redistribution can make AI a Pareto improvement. Henry George arrives at the frontier of the machine age."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-resources
+tags:
+- research
+- artificial-intelligence
+- innovator-rents
+- economic-rent
+- redistribution
+- data-rents
+- geoism
+- quasi-rent
+tier: Important
+title: Korinek & Stiglitz — AI, Innovator Rents and Non-Distortionary Redistribution
+year: 2017
 ---
 
 ## Summary

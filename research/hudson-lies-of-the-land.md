@@ -1,14 +1,27 @@
 ---
-title: "Hudson: 'How to Lie with Real Estate Statistics' and 'Where Did All the Land Go?' (2001)"
+authors:
+- Michael Hudson
 category: research
-tags: [research, michael-hudson, land-valuation, federal-reserve, national-accounts, fire-sector, stub]
-authors: [Michael Hudson]
-year: 2001
-tier: Important
+excerpt: Michael Hudson's 2001 essays showing how Federal Reserve land-valuation methodology
+  produced a negative $4 billion value for all U.S. non-financial corporate land in
+  1993 -- an absurdity that led the Fed to stop publishing land/building breakdowns
+  after 1994, statistically erasing land's true scale.
+last_reviewed: 2026-07-11
 source_url: https://michael-hudson.com/2001/03/how-to-lie-with-real-estate-statistics/
 stub: true
-excerpt: "Michael Hudson's 2001 essays showing how Federal Reserve land-valuation methodology produced a negative $4 billion value for all U.S. non-financial corporate land in 1993 -- an absurdity that led the Fed to stop publishing land/building breakdowns after 1994, statistically erasing land's true scale."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
+tags:
+- research
+- michael-hudson
+- land-valuation
+- federal-reserve
+- national-accounts
+- fire-sector
+- stub
+tier: Important
+title: 'Hudson: ''How to Lie with Real Estate Statistics'' and ''Where Did All the
+  Land Go?'' (2001)'
+year: 2001
 ---
 
 ## Overview

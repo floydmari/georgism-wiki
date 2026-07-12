@@ -1,14 +1,25 @@
 ---
-title: "Feldstein (1977): The Surprising Incidence of a Tax on Pure Rent"
+authors:
+- Martin Feldstein
 category: research
-tags: [research, tax-incidence, land-value-tax, henry-george-theorem, capitalization, growth-model, stub]
-authors: [Martin Feldstein]
-year: 1977
-tier: Important
+excerpt: 'Feldstein''s 1977 JPE paper argues that in a dynamic growth model a tax
+  on ''pure'' land rent is not simply absorbed by landowners: by lowering land''s
+  price it redirects saving into capital, altering long-run factor returns.'
+last_reviewed: 2026-07-11
 source_url: https://cooperative-individualism.org/feldstein-martin_the-surprising-incidence-of-a-tax-on-pure-rent-1977-apr.pdf
 stub: true
-excerpt: "Feldstein's 1977 JPE paper argues that in a dynamic growth model a tax on 'pure' land rent is not simply absorbed by landowners: by lowering land's price it redirects saving into capital, altering long-run factor returns."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- tax-incidence
+- land-value-tax
+- henry-george-theorem
+- capitalization
+- growth-model
+- stub
+tier: Important
+title: 'Feldstein (1977): The Surprising Incidence of a Tax on Pure Rent'
+year: 1977
 ---
 
 ## Overview

@@ -1,15 +1,29 @@
 ---
-title: "What's Manhattan Worth? A Land Values Index (Barr, Smith & Kulkarni)"
+authors:
+- Jason Barr
+- Fred H. Smith
+- Sayali J. Kulkarni
+bears_on_objections:
+- land-cannot-be-assessed
 category: research
-tags: [research, land-values, manhattan, price-index, vacant-land-sales, valuation]
-authors: [Jason Barr, Fred H. Smith, Sayali J. Kulkarni]
-year: 2018
-tier: Important
+excerpt: Peer-reviewed vacant-land-sales index that values all developable Manhattan
+  land at roughly $1.47 trillion in 2014 — a concrete data point in the aggregate-land-value
+  span Doucet surveys, and a demonstration that pure-land transactions can price land
+  in a dense city.
+last_reviewed: 2026-07-11
 source_url: https://sasn.rutgers.edu/sites/default/files/2024-02/Whats%20Mahattan%20Worth%20v3.1%20Oct%202015.pdf
 stub: false
-excerpt: "Peer-reviewed vacant-land-sales index that values all developable Manhattan land at roughly $1.47 trillion in 2014 — a concrete data point in the aggregate-land-value span Doucet surveys, and a demonstration that pure-land transactions can price land in a dense city."
-last_reviewed: 2026-07-11
-bears_on_objections: [land-cannot-be-assessed]
+subcategory: wiki-research-housing
+tags:
+- research
+- land-values
+- manhattan
+- price-index
+- vacant-land-sales
+- valuation
+tier: Important
+title: What's Manhattan Worth? A Land Values Index (Barr, Smith & Kulkarni)
+year: 2018
 ---
 
 ## Summary

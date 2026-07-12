@@ -1,15 +1,30 @@
 ---
-title: "The Transitional Gains Trap"
+authors:
+- Gordon Tullock
+bears_on_objections:
+- public-choice-critique
+- homevoters-will-block-lvt
 category: research
-tags: [research, public-choice, tullock, capitalization, rent-seeking, reform]
-authors: [Gordon Tullock]
-year: 1975
-tier: important
+excerpt: 'Tullock''s classic public-choice paper: a privilege granted to a group is
+  capitalized into asset prices, so today''s holders earn only a normal return yet
+  suffer a real capital loss if the privilege is repealed — which is why inefficient
+  programs become almost impossible to unwind. The mechanism cuts two ways for LVT:
+  it explains both why the untaxed-land status quo is entrenched and why enacting
+  LVT is politically hard.'
+last_reviewed: 2026-07-10
 source_url: https://ideas.repec.org/a/rje/bellje/v6y1975iautumnp671-678.html
 stub: false
-excerpt: "Tullock's classic public-choice paper: a privilege granted to a group is capitalized into asset prices, so today's holders earn only a normal return yet suffer a real capital loss if the privilege is repealed — which is why inefficient programs become almost impossible to unwind. The mechanism cuts two ways for LVT: it explains both why the untaxed-land status quo is entrenched and why enacting LVT is politically hard."
-last_reviewed: 2026-07-10
-bears_on_objections: [public-choice-critique, homevoters-will-block-lvt]
+subcategory: wiki-research-urban
+tags:
+- research
+- public-choice
+- tullock
+- capitalization
+- rent-seeking
+- reform
+tier: important
+title: The Transitional Gains Trap
+year: 1975
 ---
 
 ## Summary

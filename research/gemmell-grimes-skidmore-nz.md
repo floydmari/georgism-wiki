@@ -1,15 +1,29 @@
 ---
-title: "Do Local Property Taxes Affect New Building Development? Results from a Quasi-Natural Experiment in New Zealand"
+authors:
+- Norman Gemmell
+- Arthur Grimes
+- Mark Skidmore
 category: research
-tags: [research, new-zealand, property-tax, land-value-tax, construction, empirical, rating-valuation]
-authors: [Norman Gemmell, Arthur Grimes, Mark Skidmore]
-year: 2019
-tier: Important
+excerpt: A quasi-natural experiment from Auckland's 2010 council amalgamation finds
+  little evidence that shifting local rates from a land-value to a capital-value base
+  affected new building development, though it found stronger effects on alterations.
+last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1007/s11146-017-9651-y
 stub: false
-excerpt: "A quasi-natural experiment from Auckland's 2010 council amalgamation finds little evidence that shifting local rates from a land-value to a capital-value base affected new building development, though it found stronger effects on alterations."
-last_reviewed: 2026-07-03
+subcategory: wiki-research-housing
 supports_outcomes: []
+tags:
+- research
+- new-zealand
+- property-tax
+- land-value-tax
+- construction
+- empirical
+- rating-valuation
+tier: Important
+title: Do Local Property Taxes Affect New Building Development? Results from a Quasi-Natural
+  Experiment in New Zealand
+year: 2019
 ---
 
 ## Summary

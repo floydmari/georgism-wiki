@@ -1,13 +1,24 @@
 ---
-title: "The Common Wealth Fund"
+authors:
+- Common Wealth Canada
 category: research
-tags: [research, canada, sovereign-wealth-fund, citizens-dividend, resource-rents, basic-income, common-wealth-canada]
-authors: [Common Wealth Canada]
-year: 2024
+excerpt: Common Wealth Canada's proposal for a ~$2-trillion Canadian sovereign wealth
+  fund, capitalised from resource and publicly-created rents, paying every citizen
+  a universal dividend — a modern, fund-based application of the Georgist principle.
 source_url: https://commonwealth.ca/fund
-tier: supplementary
 stub: false
-excerpt: "Common Wealth Canada's proposal for a ~$2-trillion Canadian sovereign wealth fund, capitalised from resource and publicly-created rents, paying every citizen a universal dividend — a modern, fund-based application of the Georgist principle."
+subcategory: wiki-research-resources
+tags:
+- research
+- canada
+- sovereign-wealth-fund
+- citizens-dividend
+- resource-rents
+- basic-income
+- common-wealth-canada
+tier: supplementary
+title: The Common Wealth Fund
+year: 2024
 ---
 
 ## Summary

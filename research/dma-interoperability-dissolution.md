@@ -1,14 +1,30 @@
 ---
-title: "The Digital Markets Act — Dissolving the Platform Rent by Mandated Interoperability"
+authors:
+- European Parliament and Council of the European Union
 category: research
-tags: [research, digital-markets-act, interoperability, platform-economy, data-rents, antitrust, network-effects, geoism]
-authors: [European Parliament and Council of the European Union]
-year: 2022
-tier: Important
+excerpt: 'The EU''s Digital Markets Act (Regulation 2022/1925) is the rent-dissolution
+  pole of the wiki''s data-rents design choice, actually legislated. Instead of taxing
+  platform rents, it attacks the moat that creates them: designated ''gatekeepers''
+  must open their app stores, hardware and — for the first time in law — their messaging
+  services to interoperability. If users can leave with their network, the location
+  loses its lock-in and the rent competes away without ever being captured. Kades
+  & Scott Morton supply the analytical case; the DMA is it in force.'
+last_reviewed: 2026-07-10
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R1925
 stub: false
-excerpt: "The EU's Digital Markets Act (Regulation 2022/1925) is the rent-dissolution pole of the wiki's data-rents design choice, actually legislated. Instead of taxing platform rents, it attacks the moat that creates them: designated 'gatekeepers' must open their app stores, hardware and — for the first time in law — their messaging services to interoperability. If users can leave with their network, the location loses its lock-in and the rent competes away without ever being captured. Kades & Scott Morton supply the analytical case; the DMA is it in force."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-resources
+tags:
+- research
+- digital-markets-act
+- interoperability
+- platform-economy
+- data-rents
+- antitrust
+- network-effects
+- geoism
+tier: Important
+title: The Digital Markets Act — Dissolving the Platform Rent by Mandated Interoperability
+year: 2022
 ---
 
 ## Summary

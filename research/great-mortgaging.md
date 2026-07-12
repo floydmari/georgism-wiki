@@ -1,15 +1,30 @@
 ---
-title: "The Great Mortgaging: Housing Finance, Crises, and Business Cycles"
+authors:
+- Òscar Jordà
+- Moritz Schularick
+- Alan M. Taylor
 category: research
-tags: [research, credit, mortgage, housing, financial-crisis, business-cycle, nber]
-authors: [Òscar Jordà, Moritz Schularick, Alan M. Taylor]
-year: 2014
-tier: important
+excerpt: A landmark NBER working paper constructing a new long-run dataset of disaggregated
+  bank credit for 17 advanced economies since 1870, showing that mortgage lending
+  has come to dominate banks' balance sheets and that mortgage booms increasingly
+  drive financial instability and deeper recessions.
+last_reviewed: 2026-07-03
 source_url: https://www.nber.org/system/files/working_papers/w20501/w20501.pdf
 stub: false
-excerpt: "A landmark NBER working paper constructing a new long-run dataset of disaggregated bank credit for 17 advanced economies since 1870, showing that mortgage lending has come to dominate banks' balance sheets and that mortgage booms increasingly drive financial instability and deeper recessions."
-last_reviewed: 2026-07-03
-supports_outcomes: [finance-growth-is-land-credit]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- finance-growth-is-land-credit
+tags:
+- research
+- credit
+- mortgage
+- housing
+- financial-crisis
+- business-cycle
+- nber
+tier: important
+title: 'The Great Mortgaging: Housing Finance, Crises, and Business Cycles'
+year: 2014
 ---
 
 ## Summary
