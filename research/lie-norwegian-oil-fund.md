@@ -9,7 +9,7 @@ source_url: https://doi.org/10.1080/03468755.2018.1430657
 stub: false
 excerpt: "An economic-historian's archival account of how Norway's oil fund and fiscal rule were built — the institutional design that lets high-rate rent capture actually work. The fund channels all petroleum revenue abroad and allows only the return to be spent, an explicit device to avoid the Dutch disease that curses other producers."
 supports_outcomes: [resource-rent-capture-works]
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Summary
@@ -37,9 +37,7 @@ credits for Norway's success:
 
 He records the fund's widely recognised purpose — an explicit anti-curse device:
 
-> "The principles behind the fund have won international recognition as clearly a well thought-out
-> solution for managing large inflows of commodity revenue in a small economy," created "to avoid
-> 'Dutch disease': the curse that has blighted many of the world's biggest oil producers."[1]
+> "The principles behind the fund have won international recognition as clearly a well thought-out solution for managing large inflows of commodity revenue in a small economy," created "to avoid 'Dutch disease': the curse that has blighted many of the world's biggest oil producers."[1]
 
 Its stated function is to "distribute Norway's resource gains between generations and protect the
 relatively small Norwegian economy from a too rapid spending of the present riches."[1]

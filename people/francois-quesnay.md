@@ -6,14 +6,14 @@ stub: true
 born: "June 4, 1694, Méré, France"
 died: "December 16, 1774, Versailles, France"
 excerpt: "Leader of the French Physiocrats and physician to Louis XV, whose 1758 Tableau économique and impôt unique — a single tax on land's net product — prefigured Henry George's single tax by over a century."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
 François Quesnay (1694–1774) was a French physician and economist, court surgeon to Louis XV, and the founder and intellectual leader of the **Physiocrats**, generally regarded as the first systematic school of economic thought.[1][2] In 1758 he published the *Tableau économique* (Economic Table), a diagrammatic model of the circulation of income among three classes of society — a "productive" agricultural class, a land-owning "proprietary" class, and a "sterile" manufacturing and commercial class — often cited as one of the first attempts to model an economy analytically.[2]
 
-Central to Physiocratic doctrine was Quesnay's claim that agriculture alone produced a genuine surplus (the *produit net*, or net product) beyond the cost of production, and that this surplus ultimately accrued to landowners as rent. From this followed the **impôt unique**: a single tax levied directly on that net rental income — which Quesnay put at roughly a third of the net product — intended to minimize collection costs by taxing directly the one income source the Physiocrats believed ultimately bore the incidence of all taxes, however they were formally levied.[1]
+Central to Physiocratic doctrine was Quesnay's claim that agriculture alone produced a genuine surplus (the *produit net*, or net product) beyond the cost of production, and that this surplus ultimately accrued to landowners as rent. From this followed the **impôt unique**: a single tax levied directly on that net rental income — which Quesnay put at roughly a third of the net product — intended to minimize collection costs by taxing directly the one income source the Physiocrats believed ultimately bore the incidence of taxation, however it was formally levied.[1]
 
 ## Precedent for George's Single Tax
 

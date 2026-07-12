@@ -5,7 +5,7 @@ tags: [objections, alfred-marshall, quasi-rent, single-tax, history-of-thought, 
 stub: true
 status: "A serious historical critique that concedes the land case while denying George's generalization — largely defused for land itself by land's unique persistence and inelasticity, but the ancestor of every modern quasi-rent objection on the rent gradient"
 excerpt: "Alfred Marshall's rejoinder to Henry George: all factors earn short-run 'rents,' and even Ricardian land rent functions as a long-run incentive payment, so land is not as uniquely 'unearned' as the single tax assumes."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -78,10 +78,17 @@ improvements — as the object with genuinely zero long-run supply elasticity.
   superstar-firm rents are incentive-necessary quasi-rents rather than pure
   windfall — a debate this wiki treats as substantially unresolved (see
   [taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/)).
-- This page relies on Blaug's secondary synthesis of the Marshall–George
-  exchange rather than a direct citation to Marshall's *Principles of
-  Economics* itself [CITATION NEEDED: primary Marshall passage and page
-  number].
+- The specific quasi-rent formulation quoted above is Blaug's synthesis; the
+  primary record of Marshall's engagement with George is his three 1883
+  Bristol lectures on *Progress and Poverty*, delivered at the height of
+  George's British campaign and published posthumously by George Stigler in
+  the *Journal of Law and Economics* (1969).[3] In the *Principles* itself,
+  Marshall's mature treatment of urban land distinguishes the class of
+  incomes "which are the indirect result of the general progress of society,
+  rather than the direct result of the investment of capital and labour by
+  individuals for the sake of gain" (Book V, Ch. XI, §1) — a passage whose
+  "public value" framing concedes more to George on site value than the
+  quasi-rent objection alone would suggest.[4]
 
 ## Net Assessment
 
@@ -113,3 +120,13 @@ now answer.
    corroborate that Marshall's theory of rent and quasi-rent developed partly
    in response to George, and that this exchange is the standard
    historical account in the economics literature. [Econlib](https://www.econlib.org/library/Enc/bios/George.html)
+3. George J. Stigler (ed.), "Three Lectures on Progress and Poverty by Alfred
+   Marshall," *Journal of Law and Economics* 12(1), 1969, pp. 184–226
+   (Stigler's introductory note at pp. 181–183).
+   [DOI](https://doi.org/10.1086/466666) — used as the primary record of
+   Marshall's 1883 Bristol critique of Henry George.
+4. Alfred Marshall, *Principles of Economics* (1890; 8th ed. 1920), Book V,
+   Ch. XI ("Marginal Costs in Relation to Urban Values"), §1.
+   [Full text](https://www.marxists.org/reference/subject/economics/marshall/bk5ch11.htm)
+   — used for Marshall's own "general progress of society" framing of urban
+   site value (public domain; quote verified verbatim).

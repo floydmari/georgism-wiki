@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, stub, land-cycle, harrison, banking-history, mortgage-finance]
 stub: true
 excerpt: "The 18th-century mutual savings clubs — pooling members' subscriptions to finance house-building, then dissolving once every member was housed — that Fred Harrison identifies as an early seed of the property cycle's financing structure."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -22,4 +22,4 @@ A **terminating building society** was a mutual savings-and-loan association who
 ## Sources
 
 1. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, Ch. 5 §3, p.79. [Wiki summary](/wiki/harrison-boom-bust/) — used for the 1775 Birmingham founding date, Richard Ketley, and the claim that the first terminating society created "the institutional framework for the modern boom-bust cycle" (discovery source; C-claim, attributed quotation under 50 words).
-2. "Ketley's Building Society," Wikipedia, accessed 2026-07-11 (via search summary; direct fetch blocked). [https://en.wikipedia.org/wiki/Ketley's_Building_Society](https://en.wikipedia.org/wiki/Ketley's_Building_Society) — used for corroboration of the founding details (Golden Cross inn, Snow Hill) and the general terminating-versus-permanent society distinction (B-claim; basic historical facts). [CITATION NEEDED: primary confirmation of exact dissolution/society-count figures beyond what search summaries report — softened accordingly, no specific counts asserted on this page]
+2. "Ketley's Building Society," Wikipedia, accessed 2026-07-11 (via search summary; direct fetch blocked). [https://en.wikipedia.org/wiki/Ketley's_Building_Society](https://en.wikipedia.org/wiki/Ketley's_Building_Society) — used for corroboration of the founding details (Golden Cross inn, Snow Hill) and the general terminating-versus-permanent society distinction (B-claim; basic historical facts). Exact dissolution dates and society-count figures are deliberately not asserted on this page: they could not be confirmed beyond search summaries, so the page states only the founding details and the terminating-versus-permanent distinction that the sources corroborate.

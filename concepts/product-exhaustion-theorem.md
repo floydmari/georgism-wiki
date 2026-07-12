@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, product-exhaustion-theorem, marginal-productivity, henry-george-theorem, history-of-economics, stub]
 stub: true
 excerpt: "The proof that, under constant returns to scale, paying every factor its marginal product exactly exhausts total output with no residual — Wicksteed's 1894 theorem, later tied to Euler's theorem and to the Henry George Theorem's rent-as-residual logic."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -17,7 +17,7 @@ The theorem sits directly upstream of the [Henry George Theorem](/wiki/henry-geo
 
 ## Limits
 
-The theorem's force depends entirely on the constant-returns-to-scale assumption; marginal-product payments will not exhaust the product exactly under increasing or decreasing returns. Blaug also notes that the economist Enrico Barone accused Wicksteed of reproducing an earlier, unacknowledged proof — a priority dispute that does not bear on the theorem's mathematics but is part of its historical record.[1] [CITATION NEEDED: a primary or independent secondary source for the Barone priority dispute, beyond Blaug's summary]
+The theorem's force depends entirely on the constant-returns-to-scale assumption; marginal-product payments will not exhaust the product exactly under increasing or decreasing returns. Blaug also notes that the economist Enrico Barone accused Wicksteed of reproducing an earlier, unacknowledged proof — a priority dispute that does not bear on the theorem's mathematics but is part of its historical record.[1] The surrounding controversy — Wicksteed's later withdrawal of the mathematical demonstration under criticism from Barone, Edgeworth, and Pareto — is documented independently by Dorfman (1964).[3]
 
 ## See Also
 
@@ -31,3 +31,4 @@ The theorem's force depends entirely on the constant-returns-to-scale assumption
 
 1. Mark Blaug, *Economic Theory in Retrospect*, 5th ed. (Cambridge University Press, 1997), Ch. 11 §13 — used for the theorem's attribution to Wicksteed and Wicksell, the Barone priority dispute, and the equivalence Wicksteed demonstrated between rent-as-residual and rent-as-land's-marginal-product. [Book page](/wiki/economic-theory-in-retrospect/)
 2. Philip H. Wicksteed, *An Essay on the Co-ordination of the Laws of Distribution* (London: Macmillan, 1894), full text via the McMaster University History of Economic Thought Archive. [PDF](https://www.hetwebsite.net/het/texts/wicksteed/wicksteed1894essay.pdf) — used for the primary 1894 statement of the theorem and its original context.
+3. Joseph Dorfman, "Wicksteed's Recantation of the Marginal Productivity Theory," *Economica*, New Series, 31(123), 1964 — independent secondary source for the recantation episode surrounding the Barone/Edgeworth/Pareto criticism of the 1894 proof. [DOI: 10.2307/2550625](https://doi.org/10.2307/2550625)

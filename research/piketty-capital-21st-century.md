@@ -8,7 +8,7 @@ tier: Core
 source_url: https://www.hup.harvard.edu/books/9780674430006
 stub: false
 excerpt: "Piketty's bestselling data-driven inequality book documents rising wealth-income ratios and capital's share of income — the empirical starting point that Rognlie, Bonnet et al., and La Cava later re-decompose as substantially a land/housing phenomenon."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-12
 supports_outcomes: []
 ---
 
@@ -63,8 +63,7 @@ partially redirects**.
    percentage points, narrowing sharply only during the mid-20th-century era of wars, high
    growth, and progressive taxation, and argues this gap is likely to widen again as growth
    slows in the 21st century. His open-access Figure 10.9 states the empirical pattern directly:
-   **"The rate of return to capital (pre-tax) has always been higher than the world growth rate,
-   but the gap was reduced during the 20th century, and might widen again in the 21st century,"**
+   **"The rate of return to capital (pre-tax) has always been higher than the world growth rate, but the gap was reduced during the 20th century, and might widen again in the 21st century,"**
    with the pure pre-tax rate of return **"roughly stable around 4%-5% in the long run"** against
    a world growth rate historically well below 2% until the 20th century. [Verified against
    Piketty's open-access figures at

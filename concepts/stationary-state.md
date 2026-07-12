@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, classical-economics, ricardo, mill, rent-theory, stub]
 stub: true
 excerpt: "The classical prediction, from Ricardo through Mill, that diminishing returns to land eventually drive profits and wages toward a bare minimum while rent absorbs the surplus of growth, ending economic expansion in a 'stationary state.'"
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ Mill's own account, in Book IV, Chapter VI ("Of the Stationary State") of his *P
 
 ## Georgist Significance
 
-Henry George's *[Progress and Poverty](/wiki/progress-and-poverty/)* (1879) engaged this classical prediction directly, accepting the underlying mechanism — that rent tends to absorb the surplus of growth — while rejecting the classical economists' fatalism about poverty or stagnation as its necessary consequence. George's proposed remedy, taxing away land rent rather than letting it accumulate as unearned private income, was framed as an escape from the stationary-state trap: capturing the very rent that Ricardo and Mill predicted would choke off growth, and redirecting it to public purposes, rather than treating rent's rise as an inevitable economic destiny. [CITATION NEEDED (channel: unblocked-web — *Progress and Poverty* is public-domain full text): a specific page/chapter reference where George directly engages Mill's stationary-state argument. A full-text search of the Gutenberg edition (ebook 55308) for "stationary" returns six hits, none of which rebut Mill's *stationary state* by name; George's explicit engagement with Mill is on the wages-fund doctrine and rent theory (Book I), not the stationary state as such. A future editor should either locate the specific passage in George's chapters on material progress and distribution (Book IV) or soften this page's "engaged this classical prediction directly" wording to "addressed the same underlying rent-absorption mechanism," which the text does support.]
+Henry George's *[Progress and Poverty](/wiki/progress-and-poverty/)* (1879) addressed the same underlying rent-absorption mechanism — that rent tends to absorb the surplus of growth — accepting it while rejecting the classical economists' fatalism about poverty or stagnation as its necessary consequence. (George's explicit engagement with Mill in *Progress and Poverty* is on the wages-fund doctrine and rent theory rather than on the stationary state by name.) George's proposed remedy, taxing away land rent rather than letting it accumulate as unearned private income, was framed as an escape from the stationary-state trap: capturing the very rent that Ricardo and Mill predicted would choke off growth, and redirecting it to public purposes, rather than treating rent's rise as an inevitable economic destiny.
 
 ## See Also
 

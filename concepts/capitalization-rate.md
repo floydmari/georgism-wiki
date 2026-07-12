@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, capitalization-rate, land-value, revenue-estimates, stub]
 stub: true
 excerpt: "The ratio (net annual income ÷ asset price) used to convert a land selling-value estimate into an annual rental-income estimate, or vice versa — the stock-to-flow conversion every LVT revenue projection depends on."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ Because 100% land value taxation is defined as taxing the **annual rental value*
 
 ## Limits and Caveats
 
-The 5–8% range cited above is a rule-of-thumb band drawn from ordinary commercial-real-estate practice rather than a rate specifically estimated for land alone; cap rates vary by asset class, location, risk, and interest-rate environment, and land's own appropriate cap rate is itself contested territory rather than a fixed constant. [CITATION NEEDED: a study estimating land-specific capitalization rates directly, as opposed to general commercial real estate.]
+The 5–8% range cited above is a rule-of-thumb band drawn from ordinary commercial-real-estate practice rather than a rate specifically estimated for land alone; cap rates vary by asset class, location, risk, and interest-rate environment, and land's own appropriate cap rate is itself contested territory rather than a fixed constant. The most direct land-specific evidence comes from the farmland price-to-rent literature — farmland being close to pure land — where the price-to-rent ratio (the reciprocal of a cap rate) has historically moved with interest rates, implying a land capitalization rate that shifts with the macroeconomic environment rather than a fixed constant.[3]
 
 ## See Also
 
@@ -31,6 +31,5 @@ The 5–8% range cited above is a rule-of-thumb band drawn from ordinary commerc
 ## Sources
 
 1. Corporate Finance Institute, "Capitalization Rate" — [corporatefinanceinstitute.com/resources/valuation/capitalization-cap-rate](https://corporatefinanceinstitute.com/resources/valuation/capitalization-cap-rate/) — used for the standard NOI ÷ price definition and formula (basic-facts citation).
-2. Lars A. Doucet, *Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it* (Shack Simple Press, 2022), Ch. 14–15 — discovery source book; used for the survey of US land selling-value estimates ($19–65 trillion) and the 5–8% cap-rate conversion to annual land-rent estimates ($1.2–3.5 trillion), per this wiki's existing research summary of the book.
-
-`[VERIFY: the Doucet figures here are drawn from this wiki's own prior chapter-by-chapter research summary of the book (sources/books/summaries/land-is-a-big-deal-research-summary.md), not a fresh direct read of Ch. 14-15. A future revision should confirm quotations and exact figures against the source text directly.]`
+2. Lars A. Doucet, *Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it* (Shack Simple Press, 2022), Ch. 14–15 — discovery source book; used for the survey of US land selling-value estimates ($19–65 trillion) and the 5–8% cap-rate conversion to annual land-rent estimates ($1.2–3.5 trillion), per this wiki's existing chapter-by-chapter research summary of the book (`sources/books/summaries/land-is-a-big-deal-research-summary.md`); these figures are drawn from that internal summary and have not yet been confirmed against the primary text directly.
+3. Carl Zulauf, Gary Schnitkey, Krista Swanson & Nick Paulson, "Land Price-to-Rent Ratio and Interest Rates," *farmdoc daily* (12):38, Department of Agricultural and Consumer Economics, University of Illinois at Urbana-Champaign, 23 March 2022 — used as direct land-specific capitalization evidence: farmland price-to-rent ratios (the reciprocal of a cap rate) tracking interest rates over time. [farmdocdaily.illinois.edu](https://farmdocdaily.illinois.edu/2022/03/land-price-to-rent-ratio-and-interest-rates.html)

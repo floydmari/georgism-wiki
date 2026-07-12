@@ -4,12 +4,12 @@ category: places
 tags: [places, pennsylvania, split-rate, two-rate, enabling-law]
 stub: false
 excerpt: "The only US state whose law lets local governments tax land and buildings at different rates — making it the country's natural laboratory for evidence on land value taxation."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
-Pennsylvania holds a unique place in the history of land value taxation in the United States: it is **the only state government to enable split-rate property taxation among its local governments**,[1] permitting municipalities to tax land at a higher rate than buildings ([split-rate taxation](/wiki/split-rate-taxation/)). This legal permission turned the state into the country's de facto laboratory for the policy, supplying most of the real-world data on which the modern empirical case for LVT rests.
+Pennsylvania holds a unique place in the history of land value taxation in the United States: in Mark Alan Hughes's words, it is **"the only state government in the U.S. to enable split-rate property taxation among its local governments"**,[1] permitting municipalities to tax land at a higher rate than buildings ([split-rate taxation](/wiki/split-rate-taxation/)). This legal permission turned the state into the country's de facto laboratory for the policy, supplying most of the real-world data on which the modern empirical case for LVT rests.
 
 ## The Enabling-Law History
 

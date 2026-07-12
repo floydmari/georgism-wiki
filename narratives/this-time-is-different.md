@@ -4,7 +4,7 @@ category: narratives
 tags: [narratives, land-cycle, business-cycle, harrison, reinhart-rogoff, stub]
 stub: true
 excerpt: "The recurring claim that structural change has ended the old boom-bust pattern -- from Homer Hoyt's 1933 prediction his land cycle was 'only of interest to historians' to the broader 'this time is different' fallacy Reinhart and Rogoff document across eight centuries of financial crises."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ At every major asset-price peak, Georgist land-cycle advocates argue, prevailing
 
 ## Limits and Caveats
 
-Reinhart and Rogoff document the recurrence of the *rhetoric*, not that a single underlying mechanism — such as a fixed-length land cycle — is responsible; their periodization is by crisis type and country, not by an ~18-year land cycle, and the book does not endorse Georgist land theory or land value taxation.[1] The claim that land specifically, rather than credit or asset prices generally, is the recurring driver behind "this time is different" episodes is the Georgist interpretive addition, not something Reinhart and Rogoff assert. [CITATION NEEDED: direct chapter/page verification of "new era" language attributed to Anderson at the 1920s and 2000s cycle peaks specifically, beyond the banking-failure list already verified on the wiki's Anderson book page.]
+Reinhart and Rogoff document the recurrence of the *rhetoric*, not that a single underlying mechanism — such as a fixed-length land cycle — is responsible; their periodization is by crisis type and country, not by an ~18-year land cycle, and the book does not endorse Georgist land theory or land value taxation.[1] The claim that land specifically, rather than credit or asset prices generally, is the recurring driver behind "this time is different" episodes is the Georgist interpretive addition, not something Reinhart and Rogoff assert. A verification note: Anderson's banking-failure sequence is verified on the wiki's [book page](/wiki/anderson-secret-life-real-estate/), but specific "new era" phrasing at the 1920s and 2000s cycle peaks has not been verified page-by-page in Anderson's text — that rhetorical claim rests on Harrison's Hoyt case[2] and Reinhart and Rogoff's general documentation,[1] and this page attributes it only to them.
 
 ## See Also
 

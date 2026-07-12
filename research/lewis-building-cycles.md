@@ -8,7 +8,7 @@ tier: Supplementary
 source_url: https://books.google.co.uk/books/about/Building_cycles_and_Britain_s_growth.html?id=WoEkAAAAMAAJ&redir_esc=y
 stub: true
 excerpt: "J. Parry Lewis's 1965 economic history traces British building activity from 1700 to 1950 and finds a recurring construction-cycle rhythm — the UK data source Fred Harrison cites for a 17.4-year average cycle duration, the British counterpart to Hoyt's Chicago study."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Summary
@@ -87,10 +87,19 @@ long-run historical pattern in more than one country.
    discovery report — used for the 17.4-year average cycle duration figure Harrison
    attributes to Lewis (B-claim; empirical, secondhand via Harrison's citation, not
    independently confirmed against Lewis's primary tables).
-3. Search-engine-indexed secondary discussions of Lewis's book (e.g. property-cycle
-   literature reviews citing Lewis alongside Hoyt as foundational long-run building/
-   land-cycle data sources) — used for general characterization of the book's
-   historical scope and its place in the property-cycle research literature.
-   `[CITATION NEEDED: a directly fetched, citable academic source — e.g. a
-   peer-reviewed literature review on property cycles — rather than search-indexed
-   summaries, in a future revision.]`
+3. Alec Cairncross (1967), review of J. P. Lewis, *Building Cycles and Britain's
+   Growth* (London: Macmillan, 1965), *The Economic Journal* 77(306), pp. 361–364.
+   DOI: [10.2307/2229317](https://doi.org/10.2307/2229317) — a peer-reviewed academic
+   review of Lewis's book by the economic historian Alec Cairncross; used as the
+   citable scholarly anchor (replacing the earlier search-indexed summaries) for the
+   book's standing and reception in the building-cycle literature. The review's
+   bibliographic record was fetched this session; its full text sits behind the EJ
+   paywall, so it anchors the book's scholarly standing rather than the specific
+   17.4-year figure, which remains sourced to Harrison.
+4. Richard Barras, *Building Cycles: Growth and Instability* (Wiley-Blackwell, 2009),
+   esp. Ch. 3 ("The Nature of Building Cycles," including its survey of historical
+   building-cycle research) and Ch. 5's UK building-cycle chronology (1785–2005). DOI:
+   [10.1002/9781444310009](https://doi.org/10.1002/9781444310009) — the standard modern
+   scholarly synthesis of the building-cycle literature, cited as contemporary context
+   for the long-run British building-cycle research tradition of which Lewis's study is
+   part.

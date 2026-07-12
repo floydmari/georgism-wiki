@@ -14,6 +14,7 @@ scan_tier: "T1"
 scanned_by: hermes
 scan_date: 2026-07-05
 tags: [land-value-tax, georgism, empirical-evidence, atcor, henry-george-theorem, citizens-dividend, land-assessment]
+last_reviewed: 2026-07-12
 ---
 
 # Land is a Big Deal
@@ -116,7 +117,7 @@ Friedman called LVT "the least bad tax" — Doucet cites this as the strongest e
 
 ## ATCOR and the Henry George Theorem (Ch. 15)
 
-**ATCOR** (All Taxes Come Out of Rents), associated with Mason Gaffney: any reduction in taxes on income and capital causes a proportionate increase in land rental values. If true, a single-tax policy always works — abolishing income/capital taxes shifts revenue to land rents, which 100% LVT then captures.
+**ATCOR** (All Taxes Come Out of Rents), associated with Mason Gaffney: any reduction in taxes on income and capital causes a proportionate increase in land rental values. If true, the single-tax logic follows — abolishing income/capital taxes shifts revenue to land rents, which 100% LVT then captures.
 
 **Henry George Theorem** (Joseph Stiglitz, 1979): Under certain conditions, public goods spending is soaked up by land rents to such a degree that 100% LVT is sufficient to finance all public goods spending in perpetuity.
 

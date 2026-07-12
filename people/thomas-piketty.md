@@ -10,7 +10,7 @@ tags:
 stub: false
 born: 1971
 excerpt: "French economist whose work on wealth concentration and the rising capital share anchors the modern inequality debate that land-decomposition literature refines."
-last_reviewed: 2026-07-09
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -65,7 +65,7 @@ No dedicated published Piketty–Zucman rejoinder to Rognlie's 2015 BPEA paper c
 
 ### Rival Non-Land Accounts
 
-The land-decomposition reading is not the only interpretation of the falling labour share and rising capital share. [Autor, Dorn, Katz, Patterson & Van Reenen (2020)](/wiki/autor-superstar-firms/) offer the leading non-land rival account, attributing the falling labour share to rising industry concentration toward high-markup "superstar firms." [Barkai (2020)](/wiki/barkai-declining-shares/) directly measures declining labour and capital shares in the US nonfinancial corporate sector, attributing the gap to rising firm profits or rents. These accounts are listed as challenging the land-centric outcome on the wiki's [capital-share-rise-is-land](/wiki/capital-share-rise-is-land/) page.
+The land-decomposition reading is not the sole interpretation of the falling labour share and rising capital share. [Autor, Dorn, Katz, Patterson & Van Reenen (2020)](/wiki/autor-superstar-firms/) offer the leading non-land rival account, attributing the falling labour share to rising industry concentration toward high-markup "superstar firms." [Barkai (2020)](/wiki/barkai-declining-shares/) directly measures declining labour and capital shares in the US nonfinancial corporate sector, attributing the gap to rising firm profits or rents. These accounts are listed as challenging the land-centric outcome on the wiki's [capital-share-rise-is-land](/wiki/capital-share-rise-is-land/) page.
 
 ## Significance for Georgism
 

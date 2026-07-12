@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, quadratic-voting, radical-markets, mechanism-design, stub]
 stub: true
 excerpt: "A voting mechanism in which a voter buying n votes on an issue pays n² 'voice credits,' designed to let people express how strongly they feel, not just which side they favor. Popularized alongside the Georgist-adjacent Harberger tax in Radical Markets (2018)."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -37,8 +37,11 @@ the Harberger tax does: it makes no claim about land, rent, or unearned
 value, and its efficiency result depends on assumptions — a well-defined
 "voice credit" budget, no vote-buying collusion or credit markets between
 voters — that are contested in the political-mechanism-design
-literature.[CITATION NEEDED: a critical/skeptical secondary source on QV's
-real-world assumptions, not yet verified in this session]
+literature. Richard L. Hasen argues QV would in practice founder on
+collusion, wealth inequality in the effective value of credits, and the
+difficulty of a fixed budget in real elections;[4] Goodman and Porter
+show formally that QV yields optimal policy only under restrictive
+conditions and generally will not.[5]
 
 ## See Also
 
@@ -64,3 +67,15 @@ real-world assumptions, not yet verified in this session]
    [vitalik.eth.limo](https://vitalik.eth.limo/general/2018/04/20/radical_markets.html)
    — used for the claim that this essay carried QV and the Harberger tax
    into crypto/tech circles; see also [wiki summary](/wiki/buterin-on-radical-markets/).
+4. Richard L. Hasen, "QV or Not QV? That Is the Question: Some Skepticism
+   about Radical Egalitarian Voting Markets," *The University of Chicago Law
+   Review* (Quadratic Voting symposium) —
+   [PDF](https://lawreview.uchicago.edu/sites/default/files/6Hasen_WEB_FINAL.pdf).
+   Used as the skeptical secondary source on QV's real-world assumptions:
+   collusion, the unequal real value of credits under wealth inequality, and
+   the fragility of a fixed voice-credit budget in actual elections.
+5. John C. Goodman & Philip K. Porter, "Will quadratic voting produce optimal
+   public policy?" *Public Choice* 186(1), 2021, pp. 141–148.
+   [DOI: 10.1007/s11127-019-00767-4](https://doi.org/10.1007/s11127-019-00767-4)
+   — used for the formal result that QV attains optimal policy only under
+   restrictive conditions and generally will not.

@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, economic-rent, rent-seeking, regulation, licensing, monopoly]
 stub: false
 excerpt: "An umbrella concept, drawn from Phillip Anderson's cycle history, for state-created exclusivities — land titles, banking charters, broadcast spectrum, taxi medallions — whose value is capitalised into a saleable price much like land rent."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -78,7 +78,7 @@ itself (Ch. 12, n.15).[2]
   where scale and network effects rather than explicit government grants produce
   similar-looking rents; see [data rents](/wiki/data-rents/).
 
-## Is It Always a "Rent"?
+## Is It Necessarily a "Rent"?
 
 Applying "rent" outward from land is not a neutral move, and the strength of the
 underlying claim varies a great deal by sector. Land titles are the least

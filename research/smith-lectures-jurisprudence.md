@@ -8,7 +8,7 @@ tier: Core
 source_url: https://archive.org/details/lecturesonjustic00smituoft
 stub: false
 excerpt: "A decade before the Wealth of Nations, Smith's Glasgow lectures already argued that a tax on land is cheap to collect, falls on rent rather than raising prices, and — if fixed rather than rising with rent — does not discourage improvement. The verbatim student-note record, with the provenance caveat stated plainly."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 supports_outcomes: []
 ---
 
@@ -65,7 +65,7 @@ Consumptions" (pp. 242–246).
 
 ### 1. Land is the easiest possession to tax
 
-Smith divides all taxes into "taxes upon possessions and taxes upon consumptions," and
+Smith divides taxes into "taxes upon possessions and taxes upon consumptions," and
 possessions into "land, stock, and money." Land is singled out as uniquely easy to
 assess:
 

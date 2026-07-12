@@ -4,12 +4,12 @@ category: places
 tags: [places, tsingtao, kiautschou, qingdao, china, land-value-tax, single-tax, history, stub]
 stub: true
 excerpt: "The German leasehold territory of Kiautschou (Tsingtao/Qingdao) ran a Georgist-style land and increment tax from 1898 to 1914 — the only state-like territory to adopt a full single tax on land, and a direct influence on Sun Yat-sen."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
-Kiautschou (also spelled Kiaochow; its port city, Tsingtao, is today Qingdao) was a German leasehold territory on China's north-eastern coast, occupied by Admiral Otto von Diederichs on 14 November 1897 and administered by the German Navy Department from 1898 until Japan seized it in 1914. Its Land and Tax Statute, drafted by colonial officer Wilhelm Schrameier (1859–1926) and in force for the whole occupation, imposed a 6% annual tax on the assessed value of unimproved ("naked") land, re-ascertained at regular intervals, plus a one-third tax on the increment in land value at resale or every 25 years.[1] Scholars have called it the only State-like territory to introduce a full single tax on land in direct response to Henry George's campaign.[1]
+Kiautschou (also spelled Kiaochow; its port city, Tsingtao, is today Qingdao) was a German leasehold territory on China's north-eastern coast, occupied by Admiral Otto von Diederichs on 14 November 1897 and administered by the German Navy Department from 1898 until Japan seized it in 1914. Its Land and Tax Statute, drafted by colonial officer Wilhelm Schrameier (1859–1926) and in force for the whole occupation, imposed a 6% annual tax on the assessed value of unimproved ("naked") land, re-ascertained at regular intervals, plus a one-third tax on the increment in land value at resale or every 25 years.[1] Silagi describes it as the sole State-like territory to introduce a full single tax on land in direct response to Henry George's campaign.[1]
 
 ## Schrameier, George, and the Statute's Legacy
 

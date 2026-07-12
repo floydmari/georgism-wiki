@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, land-monopoly, agrarian-history, tenant-farming, united-states, stub]
 stub: true
 excerpt: "A tenant-farming arrangement, dominant in the post-Civil War American South, in which a landless cropper worked land for a share of the crop plus credit against it — a concrete case of near-total rent extraction from labor by landholders."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -24,5 +24,5 @@ In Georgist terms, sharecropping is a concrete historical case of what happens w
 ## Sources
 
 1. Wikipedia, "Sharecropping" (accessed 2026-07-11). [en.wikipedia.org/wiki/Sharecropping](https://en.wikipedia.org/wiki/Sharecropping) — used for the definition, crop-share terms, the crop-lien mechanism, and the post-Civil War transition from freedmen to a mixed-race tenant system (basic-facts sourcing per wiki convention).
-2. Lars A. Doucet, *Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it* (Shack Simple Press, 2022), Ch. 10 — discovery source; the book discusses sharecropping alongside enclosure and Luddite land seizures as post-slavery rent extraction (p. ~130). [wiki summary](/wiki/land-is-a-big-deal/) [CITATION NEEDED: direct page/quote citation — this stub draws on the wiki's discovery-report summary rather than a fresh read of Ch. 10.]
+2. Lars A. Doucet, *Land is a Big Deal: Why rent is too high, wages too low, and what we can do about it* (Shack Simple Press, 2022), Ch. 10 — discovery source only: the book discusses sharecropping alongside enclosure and Luddite land seizures as post-slavery rent extraction (around p. 130). [wiki summary](/wiki/land-is-a-big-deal/). The page's load-bearing factual claims are sourced to sources 1 and 3; the chapter reference here comes from the wiki's discovery-report summary rather than a fresh read, so no exact quotation or page number is asserted.
 3. "Crop Liens," *Mississippi Encyclopedia* — used for the 25–60%-or-more interest-rate range under the crop-lien system. [mississippiencyclopedia.org/entries/crop-liens](https://mississippiencyclopedia.org/entries/crop-liens/)

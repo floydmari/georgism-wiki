@@ -8,7 +8,7 @@ narrative_type: practical
 supported_by: [property-tax-raises-welfare-developing]
 related_people: [dominic-frisby, lars-doucet]
 related_places: [estonia, denmark]
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-12
 ---
 
 ## Core Claim
@@ -128,10 +128,14 @@ not vanish — it mutates.**
   carry roughly 10% valuation error, a floor under the assessment gap everywhere. But
   Almy measures valuation *accuracy and cost*, not the assessment gap as a share of
   forgone revenue; [Murphy & Seegert](/wiki/murphy-seegert-implicit-land-taxes/) remains
-  the closest *revenue-gap* evidence and is U.S.-focused. [CITATION NEEDED: a
-  cross-country estimate of the assessment gap as a share of potential land-tax revenue —
-  Almy documents the under-revaluation mechanism internationally but does not quantify
-  the revenue loss it causes.]
+  the closest *revenue-gap* evidence and is U.S.-focused. The closest cross-country
+  treatment is Norregaard's IMF survey, which finds property-tax revenue potential
+  "largely untapped in many countries," with property taxes yielding
+  "relatively modest revenue, particularly in developing and emerging economies" —
+  but it does not decompose
+  that untapped potential into under-assessment versus low statutory rates or
+  narrow bases, so the assessment-specific share remains unquantified in the
+  literature the wiki has found.[11]
 
 **The honest summary:** the narrative's title should be read as *relative*, not
 absolute. Land cannot be dodged the way income, sales, or corporate profit can — but a
@@ -275,3 +279,10 @@ disappearing the base," not "can't be dodged at all."
     [Original](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved)
     — used for the link Doucet draws between land's fixed location and its
     assessability (D-claim); see also the [wiki summary](/wiki/doucet-does-georgism-work/).
+11. John Norregaard (2013), "Taxing Immovable Property: Revenue Potential and
+    Implementation Challenges," IMF Working Paper WP/13/129, International Monetary
+    Fund. [IMF page](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Taxing-Immovable-Property-Revenue-Potential-and-Implementation-Challenges-40594)
+    — used for the "largely untapped" cross-country revenue-potential finding and the
+    honest note that it does not isolate the under-assessment share (B-claim,
+    institutional; quotes verified against the paper's introduction; a new source for
+    this wiki, not yet in `sources/registry.csv`).

@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, virtual-land, metaverse, digital-economy, speculation, platform-rents, stub]
 stub: true
 excerpt: "Fixed-supply 'parcels' in blockchain-based virtual worlds such as Decentraland and The Sandbox trade with real-estate-like location premiums, testing whether the law of rent extends to artificially, rather than naturally, scarce space — among the most speculative extensions of the rent-gradient."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ An empirical study by Goldberg, Kugler, and Schär, published in the *Journal of
 
 ## Where This Sits on the Rent Gradient
 
-Virtual land sits toward the speculative end of the wiki's [rent gradient](/wiki/geoism/), alongside [platform and data rents](/wiki/data-rents/): the "scarcity" is manufactured by a firm's code and terms of service, not by geography, so the classical argument that land rent is unearned because no one produced the land does not transfer cleanly — a platform operator, unlike nature, could in principle change the supply. Whether returns to virtual-land speculation are better understood as a genuine rent (a toll on a position other users must occupy to reach an audience) or simply ordinary speculative risk-taking in a novel collectible asset is unresolved and, as of 2026, has attracted little economic literature beyond hedonic-pricing studies of parcel sales. [CITATION NEEDED: a study directly assessing whether taxing virtual-land value capture is administratively or economically coherent].
+Virtual land sits toward the speculative end of the wiki's [rent gradient](/wiki/geoism/), alongside [platform and data rents](/wiki/data-rents/): the "scarcity" is manufactured by a firm's code and terms of service, not by geography, so the classical argument that land rent is unearned because no one produced the land does not transfer cleanly — a platform operator, unlike nature, could in principle change the supply. Whether returns to virtual-land speculation are better understood as a genuine rent (a toll on a position other users must occupy to reach an audience) or simply ordinary speculative risk-taking in a novel collectible asset is unresolved and, as of 2026, has attracted little economic literature beyond hedonic-pricing studies of parcel sales. No study directly assessing whether taxing virtual-land value capture is administratively or economically coherent has been identified by this wiki; until one exists, this page makes no claim either way.
 
 ## See Also
 

@@ -1,23 +1,23 @@
 ---
-title: "Miller (2000): \"On Fairness and Efficiency\" — a flagged, unverified citation"
+title: "On Fairness and Efficiency (George Miller, 2000)"
 category: research
-tags: [research, health-inequality, 18-year-land-cycle, rent-privatization, stub, citation-pending]
-authors: [Miller]
+tags: [research, health-inequality, 18-year-land-cycle, rent-privatization, stub]
+authors: [George Miller]
 year: 2000
 tier: Supplementary
-source_url: https://shepheardwalwyn.com/product/boom-bust/
+source_url: https://archive.org/details/onfairnesseffici0000mill
 stub: true
-excerpt: "A 'Miller (2000)' source is attributed within Fred Harrison's books to a rent-privatization health-gradient claim and the 18-year cycle's timing mechanism — unverifiable this session; flagged pending direct access to Harrison's bibliography."
-last_reviewed: 2026-07-11
+excerpt: "George Miller's 2000 Policy Press book arguing that the privatisation of publicly-created income — chiefly land rent — over the past millennium underlies class gradients in health and life expectancy; cited by Fred Harrison and now located and bibliographically verified."
+last_reviewed: 2026-07-12
 supports_outcomes: []
 ---
 
 ## Summary
 
-This page exists to record, and flag, a citation rather than to summarize a
-verified source. The wiki's book-discovery process surfaced a work referred
-to as **"Miller (2000), *On Fairness and Efficiency*"** inside two of Fred
-Harrison's books — *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (reported
+This page records a source that an earlier pass could not locate but that has
+since been **bibliographically confirmed**. The wiki's book-discovery process
+surfaced a work referred to as **"Miller (2000), *On Fairness and
+Efficiency*"** inside two of Fred Harrison's books — *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (reported
 at Ch. 8.1) and *[Boom Bust](/wiki/harrison-boom-bust/)* (reported at Ch. 5
 §2) — used there, per the discovery locator, to support (1) an
 epidemiological-style argument connecting the privatization of land rent to
@@ -27,14 +27,19 @@ actuarial reasoning behind why the growth phase of the
 time for a sum to double at a historical ~5% long-run interest rate, matched
 against adult working-life expectancy.
 
-**[CITATION NEEDED: this session searched repeatedly for a 2000 publication
-titled "On Fairness and Efficiency" by an author named Miller — via general
-web search, WorldCat, and direct queries against Harrison's known
-bibliographic apparatus — and could not locate a full first name, publisher,
-venue, DOI, or any independent bibliographic record. The claim that such a
-work exists and says what it is reported to say should be treated as
-unconfirmed until a future editor locates it directly in Harrison's own
-source notes.]**
+The work is now located and independently verified: it is **George Miller
+(catalogued as G. J. / George James Miller), *On Fairness and Efficiency: The
+Privatisation of the Public Income Over the Past Millennium*, Bristol: The
+Policy Press, 2000 (ix+470 pp.)** — a full-length scholarly book, held by the
+Internet Archive and reviewed on publication in the *Journal of Social Policy*
+(2001) and the *Journal of Public Health Medicine* (2001), and later by
+[Mason Gaffney](/wiki/mason-gaffney/) (2011). Its author is the same George J.
+Miller whose related study *[Dying for Justice](/wiki/miller-dying-for-justice/)*
+Harrison also cites. What remains open is not the book's existence but the
+**claim-level** accuracy of Harrison's characterization of it: this session
+confirmed the bibliographic record but did not read Miller's text directly, so
+the specific health/class-gradient argument attributed to it below should be
+checked against the book itself before being cited as established.
 
 The two claims this citation is said to support are not equally well
 grounded elsewhere on the wiki. The **5%-interest / ~14-year mechanism** is
@@ -49,16 +54,15 @@ Miller attribution alone and is not otherwise corroborated anywhere on this
 wiki; it should not be cited as established until the primary source is
 found.
 
-## Why This Matters, If Confirmed
+## Why This Matters
 
-If a genuine 2000-era source did establish an epidemiological link between
-land-rent privatization and health outcomes, it would open a line of
-evidence this wiki currently lacks entirely: nothing else in the research
-collection connects [economic rent](/wiki/economic-rent/) capture to
-population health. That is precisely why the citation is worth flagging
-rather than discarding — but it is also why it must not be asserted as fact
-on the strength of a secondary mention this session could not run to
-ground.
+Miller's book advances an epidemiological-style link between the privatization
+of land rent and class gradients in health and life expectancy — a line of
+evidence the rest of this wiki's research collection barely touches: little
+else here connects [economic rent](/wiki/economic-rent/) capture to population
+health. That makes the source worth carrying. It must still be read directly
+before its specific findings are asserted as fact, since the account above
+rests on Harrison's secondary characterization rather than on Miller's text.
 
 ## See Also
 
@@ -78,11 +82,18 @@ ground.
 2. Fred Harrison, *Ricardo's Law: House Prices and the Great Tax Clawback
    Scam* (Shepheard-Walwyn, 2006), Ch. 8 — used as the reported discovery
    locator for the health/class-gradient claim; the wiki's own summary of
-   this book's Ch. 8 does not independently record a "Miller" citation, so
-   this remains a [CITATION NEEDED] pending direct verification against the
-   book's own bibliography. [Book page](/wiki/harrison-ricardos-law/)
-3. [CITATION NEEDED] "Miller (2000), *On Fairness and Efficiency*" — no
-   author full name, publisher, venue, or DOI located via free web search
-   this session (queried WorldCat, general web search, and Georgist-adjacent
-   bibliographies). Flagged for a future editor with direct access to
-   Harrison's source notes to confirm or retract this page.
+   this book's Ch. 8 does not independently record a "Miller" citation, so the
+   exact page on which Harrison cites Miller should still be confirmed against
+   the book's own bibliography. [Book page](/wiki/harrison-ricardos-law/)
+3. George Miller, *On Fairness and Efficiency: The Privatisation of the Public
+   Income Over the Past Millennium*, Bristol: The Policy Press, 2000
+   (ix+470 pp.). [Internet Archive](https://archive.org/details/onfairnesseffici0000mill)
+   — used to bibliographically confirm the previously-unlocated source (author,
+   title, publisher, year, extent). Independent reviews establishing its
+   scholarly reception: *Journal of Social Policy*, 2001 (DOI
+   [10.1017/S0047279401256463](https://doi.org/10.1017/S0047279401256463));
+   C. C. Potter, *Journal of Public Health Medicine* 23(3), 2001, p. 256 (DOI
+   [10.1093/pubmed/23.3.256](https://doi.org/10.1093/pubmed/23.3.256)); and
+   Mason Gaffney (2011), [review at Common Ground USA](https://commonground-usa.net/gaffney-mason_review-of-george-miller-on-fairness-and-efficiency-2011.htm).
+   This session verified the bibliographic record, not Miller's text; claim-level
+   use still requires a direct read.

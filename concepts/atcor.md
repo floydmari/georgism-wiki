@@ -5,13 +5,14 @@ tags: [atcor, georgism, land-value-tax, taxation, mason-gaffney, fiscal-theory]
 stub: false
 sources: [gaffney-1994, george-1879]
 excerpt: "ATCOR — “All Taxes Come Out of Rent” — is Mason Gaffney’s theorem that taxes on labour, capital, and trade ultimately fall on land rent, the residual left after other factors earn market returns. If it holds, shifting taxes onto land rent is self-financing — though it remains an untested hypothesis."
+last_reviewed: 2026-07-12
 ---
 
 ## The Theorem
 
 **ATCOR** — All Taxes Come Out of Rent — is a theorem in Georgist economics associated particularly with Mason Gaffney. It holds that in a competitive economy, any tax levied on labour, capital, trade, or production ultimately reduces wages and returns to capital down to their marginal (opportunity cost) level, and the difference shows up as a reduction in land rent.
 
-Put another way: because land rent is the residual surplus after all factors of production receive their market-clearing returns, taxes that reduce those returns ultimately show up as lower land rents. The incidence of nearly all taxes is, in the final analysis, land rent.
+Put another way: because land rent is the residual surplus after all factors of production receive their market-clearing returns, taxes that reduce those returns ultimately show up as lower land rents. Under the theorem, the incidence of nearly every tax is, in the final analysis, land rent.
 
 ## Implications
 
@@ -43,7 +44,7 @@ Burgess's formulation of the single-tax argument — that abolishing taxation an
 
 ## Caveats
 
-ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not all taxes are fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney and Harrison argue the mechanism operates over the medium-to-long term. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
+ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not every tax is fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney and Harrison argue the mechanism operates over the medium-to-long term. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
 
 ## See Also
 

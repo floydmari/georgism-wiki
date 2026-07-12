@@ -4,7 +4,7 @@ category: events
 tags: [events, land-cycle, uk, secondary-banking-crisis, bank-of-england, 18-year-cycle, stub]
 stub: true
 excerpt: "The UK land-value peak of 1973 and 1974 recession Harrison's 18-year cycle model dates as a postwar repeat, coinciding with the secondary banking crisis: the Bank of England's 'lifeboat' extended £1.3bn to rescue 18 property-exposed lenders after an eightfold property-lending boom collapsed."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ Independent of any Georgist framing, the mainstream financial-history account �
 
 ## Net Assessment (stub)
 
-This is one of the more clearly documented instances where a Georgist land-cycle reading (Harrison) and a mainstream banking-history reading (Needham, Reid) describe the same underlying event — a property-price collapse triggering bank distress — without disputing the basic facts, even though the mainstream account emphasizes government demand-management policy (Heath's "dash for growth," tax-deductible interest payments, the abolished Land Commission) rather than an autonomous ~18-year land cycle as the ultimate cause. [VERIFY: direct pagination of Harrison's Ch. 6–7 discussion of the 1973–74 UK case on a fresh primary-text read, and whether *Rethinking the Economics of Land and Housing* (Ch. 5) discusses this specific episode by name.]
+This is one of the better-documented instances where a Georgist land-cycle reading (Harrison) and a mainstream banking-history reading (Needham, Reid) describe the same underlying event — a property-price collapse triggering bank distress — without disputing the basic facts, even though the mainstream account emphasizes government demand-management policy (Heath's "dash for growth," tax-deductible interest payments, the abolished Land Commission) rather than an autonomous ~18-year land cycle as the ultimate cause. Harrison's dating of the 1973 peak and 1974 recession is drawn here from the wiki's existing verified summary of *The Power in the Land* rather than a fresh page-by-page read of the primary text; the mainstream banking-history facts are taken directly from the sources cited below.
 
 ## See Also
 
