@@ -9,6 +9,7 @@ stub: false
 excerpt: "Peter Barnes proposes universal dividends from co-owned wealth as a market-based solution to middle-class decline, arguing that jobs alone cannot sustain a broad middle class and that common-asset dividends bypass the tax-vs-spending political stalemate."
 last_reviewed: 2026-07-07
 supports_outcomes: []
+pd_quotes: true
 ---
 
 ## Summary

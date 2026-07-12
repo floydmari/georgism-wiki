@@ -1,22 +1,16 @@
 ---
-authors:
-- Mason Gaffney
+title: "Neo-classical Economics as a Stratagem Against Henry George"
 category: research
-excerpt: Gaffney's historical argument that neoclassical economics was deliberately
-  shaped to obscure land as a distinct factor and to defeat Henry George's reform
-  movement.
-source_url: https://www.masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf
-stub: false
 subcategory: wiki-research-resources
-tags:
-- research
-- gaffney
-- history-of-economics
-- neoclassical
-- ideology
-tier: core
-title: Neo-classical Economics as a Stratagem Against Henry George
+tags: [research, gaffney, history-of-economics, neoclassical, ideology]
+authors: [Mason Gaffney]
 year: 1994
+source_url: https://www.masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf
+tier: core
+stub: false
+excerpt: "Gaffney's historical argument that neoclassical economics was deliberately shaped to obscure land as a distinct factor and to defeat Henry George's reform movement."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-is-just-capital]
 ---
 
 ## Summary

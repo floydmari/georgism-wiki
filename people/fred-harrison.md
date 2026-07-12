@@ -5,6 +5,7 @@ tags: [fred-harrison, georgism, land-value-tax, land-cycle, political-economy]
 stub: false
 sources: [harrison-1983, harrison-2006, gaffney-1994]
 excerpt: "British author and research director of the Land Research Trust, known for applying Georgist rent analysis to modern economies, for his work on the 18-year land cycle, and for his documented prediction of the 2008 financial crisis."
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -23,7 +24,7 @@ The 2008 collapse confirmed the prediction with notable accuracy.
 
 ## Ricardo's Law (2006)
 
-*Ricardo's Law: House Prices and the Great Tax Clawback Scam* argues that existing tax systems effectively allow landlords to "claw back" from tenants and workers the taxes they nominally pay, because all taxes on production ultimately reduce wages and returns to labour and capital, while the locational premium on land absorbs these losses. This is the ATCOR theorem applied to contemporary tax policy.
+*Ricardo's Law: House Prices and the Great Tax Clawback Scam* argues that existing tax systems effectively allow landlords to "claw back" from tenants and workers the taxes they nominally pay, because, in this account, taxes on production ultimately reduce wages and returns to labour and capital, while the locational premium on land absorbs these losses. This is the ATCOR theorem applied to contemporary tax policy.
 
 ## The Traumatised Society (2012)
 

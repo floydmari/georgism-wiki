@@ -6,7 +6,7 @@ stub: false
 born: 1899
 died: 1992
 excerpt: "Austrian-British economist and 1974 Nobel laureate whose Constitution of Liberty (1960) explicitly rejects Henry George's Single Tax on assessment grounds — a distinct, milder cousin of Murray Rothbard's Austrian-school critique of land value taxation."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -29,7 +29,7 @@ This is an **assessment/calculation objection** — structurally similar to, but
 
 Fred Harrison's *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (2006) discusses and criticizes Hayek's treatment of land taxation directly, characterizing Hayek as having conflated land with capital and rejected George's Single Tax on the (in Harrison's view) mistaken grounds that it required literal state ownership of land and faced insuperable practical difficulties.[2] Georgist responses to the assessment objection generally note that modern mass-appraisal methods routinely separate land value from improvement value in practice — see [Land Cannot Be Assessed](/wiki/land-cannot-be-assessed/) and [Mass Appraisal Methods](/wiki/mass-appraisal-methods/) — a development largely subsequent to Hayek's 1960 text. Notably, Posner and Weyl's *[Radical Markets](/wiki/posner-weyl-radical-markets/)* (2018) later identifies the same "fiendishly difficult" land/structure separation as one of three defects it attributes to George's original proposal, suggesting Hayek's specific objection persisted among later liberal economists even as they, unlike Hayek, went on to propose their own descendant of George's land tax (the Common Ownership Self-Assessed Tax).[3]
 
-[VERIFY: Some secondary Georgist sources — including this wiki's discovery-source summary of *Land is a Big Deal* — state that Hayek numbered among readers who described their first encounter with George's *Progress and Poverty* as formative, alongside George Bernard Shaw and H.G. Wells. Wikipedia's *Progress and Poverty* article repeats this claim about Hayek, but its footnote at that point cites only H.G. Wells's autobiography, not any Hayek source. This wiki's drafting session could not independently verify Hayek's early reaction to George's book and flags the claim as unconfirmed rather than reporting it as established.]
+**Verification note.** Some secondary Georgist sources — including this wiki's discovery-source summary of *Land is a Big Deal* — state that Hayek numbered among readers who described their first encounter with George's *Progress and Poverty* as formative, alongside George Bernard Shaw and H.G. Wells. Wikipedia's *Progress and Poverty* article repeats this claim about Hayek, but its footnote at that point cites only H.G. Wells's autobiography, not any Hayek source. This wiki's drafting session could not independently verify Hayek's early reaction to George's book and flags the claim as unconfirmed rather than reporting it as established.
 
 ## See Also
 

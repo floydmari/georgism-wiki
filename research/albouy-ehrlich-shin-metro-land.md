@@ -1,32 +1,17 @@
 ---
-authors:
-- David Albouy
-- Gabriel Ehrlich
-- Minchul Shin
+title: "Metropolitan Land Values"
 category: research
-excerpt: The first cross-sectional, transaction-based land-value index for every US
-  metro area, finding urban land worth over twice GDP and just five metro areas —
-  New York, LA, San Francisco, DC, Chicago — holding 48% of all US urban land value.
-last_reviewed: 2026-07-03
+subcategory: wiki-research-finance
+tags: [research, land-value, united-states, urban-economics, monocentric-city, revenue-sufficiency, coastal-metros, costar]
+authors: [David Albouy, Gabriel Ehrlich, Minchul Shin]
+year: 2018
+tier: Important
 source_url: https://doi.org/10.1162/rest_a_00710
 stub: false
-subcategory: wiki-research-finance
-supports_outcomes:
-- land-rent-could-fund-government
-- rising-land-costs-drive-poverty
-- housing-unaffordability-is-a-land-problem
-tags:
-- research
-- land-value
-- united-states
-- urban-economics
-- monocentric-city
-- revenue-sufficiency
-- coastal-metros
-- costar
-tier: Important
-title: Metropolitan Land Values
-year: 2018
+excerpt: "The first cross-sectional, transaction-based land-value index for every US metro area, finding urban land worth over twice GDP and just five metro areas — New York, LA, San Francisco, DC, Chicago — holding 48% of all US urban land value."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-no-longer-matters, lvt-not-enough-revenue]
+supports_outcomes: [land-rent-could-fund-government, rising-land-costs-drive-poverty, housing-unaffordability-is-a-land-problem]
 ---
 
 ## Summary

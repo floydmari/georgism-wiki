@@ -6,7 +6,7 @@ stub: true
 born: "February 2, 1930, Moscow, USSR"
 died: "July 6, 2007, Moscow, Russia"
 excerpt: "Russian economist and academician of the Russian Academy of Sciences who argued Russia's natural-resource rents, not just its industry, should be captured as public revenue rather than privatized — a rent-based alternative to 1990s shock-therapy reform."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -25,5 +25,5 @@ According to Fred Harrison — writing in the 2022 "Corrupting the Body Politic"
 ## Sources
 
 1. Bolshaya Rossiyskaya Entsiklopediya (Great Russian Encyclopedia), "Львов Дмитрий Семёнович" — [bigenc.ru/c/l-vov-dmitrii-semionovich-0c8a2f](https://bigenc.ru/c/l-vov-dmitrii-semionovich-0c8a2f) — used for birth/death dates and places, CEMI career, and Academy of Sciences positions (basic-facts source; Russian-language).
-2. Christian Council for Monetary Justice, reproducing a Fred Harrison tweet and an excerpt of Dmitry Lvov's 2001 address to the Russian State Duma — [ccmj.org/wp/archives/7315](https://ccmj.org/wp/archives/7315) — used for the quoted material and Lvov's argument for public ownership of resource rents. The original Duma-lecture text this excerpt draws from (hosted at larouchepub.com) could not be independently verified this session [CITATION NEEDED: direct primary-source verification of the full 2001 lecture].
-3. Mason Gaffney, Fred Harrison & Kris Feder, *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)* (Shepheard-Walwyn, 1994; 2022 revised edition), "Corrupting the Body Politic" postscript — discovery source; used for Harrison's account of Lvov's role and the IMF's opposition. [CITATION NEEDED: direct page cite — drawn from the wiki's existing book-summary page rather than a fresh chapter-level read.]
+2. Christian Council for Monetary Justice, reproducing a Fred Harrison tweet and an excerpt of Dmitry Lvov's 2001 address to the Russian State Duma — [ccmj.org/wp/archives/7315](https://ccmj.org/wp/archives/7315) — used for the quoted material and Lvov's argument for public ownership of resource rents. The original Duma-lecture text this excerpt draws from (hosted at larouchepub.com) could not be independently verified this session; direct primary-source verification of the full 2001 lecture is still outstanding.
+3. Mason Gaffney, Fred Harrison & Kris Feder, *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)* (Shepheard-Walwyn, 1994; 2022 revised edition), "Corrupting the Body Politic" postscript — discovery source; used for Harrison's account of Lvov's role and the IMF's opposition. A direct page cite is not yet supplied; this draws on the wiki's existing book-summary page rather than a fresh chapter-level read.

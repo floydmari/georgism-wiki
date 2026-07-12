@@ -1,25 +1,17 @@
 ---
-authors:
-- Luis Martinez
+title: "Natural Resource Rents, Local Taxes, and Government Performance: Colombia"
 category: research
-excerpt: Rigorous empirical evidence that natural-resource rents reduce local tax
-  effort and weaken government accountability — the 'resource curse' at the local
-  level.
-last_reviewed: 2026-07-11
-source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273001
-stub: false
 subcategory: wiki-research-resources
-supports_outcomes:
-- resource-rent-capture-works
-tags:
-- research
-- resource-rents
-- resource-curse
-- colombia
-- accountability
-tier: supplementary
-title: 'Natural Resource Rents, Local Taxes, and Government Performance: Colombia'
+tags: [research, resource-rents, resource-curse, colombia, accountability]
+authors: [Luis Martinez]
 year: 2018
+source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273001
+tier: supplementary
+stub: false
+excerpt: "Rigorous empirical evidence that natural-resource rents reduce local tax effort and weaken government accountability — the 'resource curse' at the local level."
+supports_outcomes: [resource-rent-capture-works]
+last_reviewed: 2026-07-12
+bears_on_objections: [rent-revenue-breeds-corruption]
 ---
 
 ## Summary

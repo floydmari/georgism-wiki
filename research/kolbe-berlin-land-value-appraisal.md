@@ -1,30 +1,16 @@
 ---
-authors:
-- Jens Kolbe
-- Rainer Schulz
-- Martin Wersing
-- Axel Werwatz
-bears_on_objections:
-- land-cannot-be-assessed
+title: "Land Value Appraisal Using Statistical Methods (Kolbe et al., Berlin)"
 category: research
-excerpt: The Berlin study behind the '0.845 correlation' assessability claim — statistical
-  land-value estimates from property transactions matched against the city's official
-  expert-assessed land-value map (BRW).
-last_reviewed: 2026-07-10
+subcategory: wiki-research-lvt
+tags: [research, assessment, cama, hedonic-regression, valuation, lvt, germany]
+authors: [Jens Kolbe, Rainer Schulz, Martin Wersing, Axel Werwatz]
+year: 2019
+tier: Important
 source_url: https://edoc.hu-berlin.de/bitstream/handle/18452/20511/FORLand-2019-07.pdf
 stub: false
-subcategory: wiki-research-lvt
-tags:
-- research
-- assessment
-- cama
-- hedonic-regression
-- valuation
-- lvt
-- germany
-tier: Important
-title: Land Value Appraisal Using Statistical Methods (Kolbe et al., Berlin)
-year: 2019
+excerpt: "The Berlin study behind the '0.845 correlation' assessability claim — statistical land-value estimates from property transactions matched against the city's official expert-assessed land-value map (BRW)."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-cannot-be-assessed, lvt-austrian-critique]
 ---
 
 ## Summary

@@ -5,7 +5,7 @@ tags: [objections, 18-year-cycle, business-cycle, monetary-policy, great-moderat
 stub: true
 status: "Recurring and repeatedly falsified in its strong form — named 'tamed the cycle' claims have preceded the two largest property-linked crashes of the modern era (1929, 2008) — but the weak form (better policy can smooth some of the cycle's amplitude) is not addressed by pointing at the failures alone."
 excerpt: "Officials and economists have repeatedly declared the business or property cycle 'tamed' by better monetary policy — Bernanke's 2004 'Great Moderation' speech, Gordon Brown's 'no return to boom and bust' — only for a land-price-linked crash to follow. Georgist cycle writers treat this as a recurring, named, falsifiable pattern."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -62,15 +62,25 @@ roughly a decade.[1][3] Anderson's documentation of earlier "tamed" claims in th
 peak, suggests this is a **recurring rhetorical pattern at cycle peaks**, not
 evidence against the cycle itself — arguably the opposite: confident
 declarations that the cycle is over are, on this reading, themselves a marker of
-the "mania" phase near a cycle top.[4]
+the "mania" phase near a cycle top.[4] Tellingly, while officials were declaring
+the cycle tamed, land-cycle economists were publicly forecasting the crash that
+would falsify them: Fred Foldvary's
+[Georgist–Austrian synthesis](/wiki/foldvary-business-cycle-synthesis/) and the
+Harrison–Jones [*Chaos Makers*](/wiki/jones-chaos-makers/) both named a bust
+"around 2008" more than a decade ahead, and Mason Gaffney's
+[post-crash post-mortem](/wiki/gaffney-after-the-crash/) reads 2008 as an
+on-schedule land-speculation collapse rather than a tamed cycle's surprise.
 
 The weaker and more defensible version of the objection — that policy can smooth
 *some* of the cycle's amplitude or delay its turning point — is harder to
 dismiss outright and has not been rigorously tested against the Georgist
-land-cycle account on this wiki. `[CITATION NEEDED: a study directly comparing
-land-cycle amplitude or timing across countries or eras with materially
-different monetary/macroprudential regimes, rather than relying on narrative
-juxtaposition of "tamed" claims against subsequent crashes.]`
+land-cycle account on this wiki. No study directly comparing land-cycle
+amplitude or timing across countries or eras with materially different
+monetary/macroprudential regimes has been assembled here, and the wiki does not
+claim one exists. The case on this page therefore rests on narrative
+juxtaposition of "tamed" claims against subsequent crashes rather than a formal
+cross-regime test, and the weak form of the objection remains open pending such
+evidence.
 
 ## Limits and Caveats
 

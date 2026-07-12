@@ -37,6 +37,24 @@ The wiki is **persuasive because it is accurate, well-sourced, and intellectuall
 never because it asserts Georgist conclusions. A reader who disagrees should be able to see
 that their strongest objection has been understood, sourced, and answered.
 
+**The reader priority (ruled 2026-07-12, Floyd):** the wiki serves, in order: (1) an
+**advocate needing ammunition** — fast paths to graded evidence, quotable verdicts,
+sources they can cite in public; (2) a **policymaker's staffer** — design details,
+implementation records, honest caveats they can defend in a briefing. Skeptics,
+journalists, and students matter, but entry points, guides, and page design are
+optimized for those two first.
+
+**The loop priority (ruled 2026-07-12, Floyd — binding on every loop wave):** the wiki's
+first purpose is to **assemble the research** behind the case: maximize the verified
+evidence wired into **benefits/** and **problems/** pages, and answer **objections/**
+with evidence — while honestly wiring in whatever support the objections themselves have.
+Every wave that brings in new information (a new study, a new source, a mined text) must
+ask, before it closes: *which benefit, problem, or objection pages does this enrich, and
+is it wired there* (supported_by / challenged_by / bears_on_objections, both sides, with
+body sentences)? Housekeeping (lint, dedup, formatting) serves this priority; it does not
+substitute for it. A wave that only cleans without enriching the three claim lanes should
+say so and queue enrichment next.
+
 ---
 
 ## 1. Golden rules (never break these)

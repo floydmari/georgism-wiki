@@ -1,28 +1,16 @@
 ---
-authors:
-- Karl Widerquist
-- Michael W. Howard
+title: "Alaska's Permanent Fund Dividend: Examining Its Suitability as a Model"
 category: research
-excerpt: An edited volume of historians, economists, and philosophers assessing whether
-  Alaska's oil-funded citizen dividend is a genuine model for resource-rent policy
-  elsewhere, or a product of Alaska's own peculiar circumstances.
-last_reviewed: 2026-07-03
+subcategory: wiki-research-resources
+tags: [research, alaska, citizens-dividend, resource-rents, basic-income, dividend, edited-volume]
+authors: [Karl Widerquist, Michael W. Howard]
+year: 2012
+tier: Important
 source_url: https://doi.org/10.1057/9781137015020
 stub: false
-subcategory: wiki-research-resources
-supports_outcomes:
-- resource-rent-dividends-work
-tags:
-- research
-- alaska
-- citizens-dividend
-- resource-rents
-- basic-income
-- dividend
-- edited-volume
-tier: Important
-title: 'Alaska''s Permanent Fund Dividend: Examining Its Suitability as a Model'
-year: 2012
+excerpt: "An edited volume of historians, economists, and philosophers assessing whether Alaska's oil-funded citizen dividend is a genuine model for resource-rent policy elsewhere, or a product of Alaska's own peculiar circumstances."
+last_reviewed: 2026-07-12
+supports_outcomes: [resource-rent-dividends-work, rent-dividends-reduce-poverty]
 ---
 
 ## Summary
@@ -49,7 +37,7 @@ The book is unusually candid, for an edited volume broadly sympathetic to the PF
 - **Oil rent is not land rent.** The Fund's revenue derives from a depleting, geographically concentrated mineral-extraction royalty, which is why Alaska needed to build a permanent, invested *fund* (to convert a one-time depleting windfall into a perpetual income stream) — a structure not required for a genuine land-value-based dividend, where the underlying tax base (site rent) does not deplete and a discrete "fund" is not strictly necessary to sustain an annual flow. Conflating the two risks overstating what the PFD demonstrates about land-rent dividends specifically.
 - **Alaska's particularities.** Contributors repeatedly flag Alaska's small, geographically bounded population and its position as by far the largest crude-oil-per-capita producer among U.S. states as conditions that are not easily replicated. The volume does not claim these conditions generalize to larger or resource-poorer jurisdictions — that question is instead the explicit subject of the editors' companion volume, *Exporting the Alaska Model* (2012).
 - **The dividend is not a constitutionally guaranteed basic income.** Zelleke's chapter and the editors' concluding chapter both note that the PFD's amount is set annually by ordinary statute off a formula applied to Fund earnings, so it fluctuates substantially year to year (from a few hundred to over two thousand dollars per resident) and lacks the predictability normally expected of a basic-income guarantee — a limitation on reading the PFD as proof-of-concept for basic income as such, distinct from the narrower claim about resource-rent dividends this wiki draws on.
-- **Political durability has since been tested harder than the book anticipated.** Published in 2012, near the peak of Alaska's oil-revenue era, the volume's account of the dividend's political invulnerability predates the 2015–16 collapse in oil prices and Governor Bill Walker's 2016 line-item veto, which cut that year's dividend to roughly half the statutory formula amount — a reduction the Alaska Supreme Court later upheld against legal challenge. Post-2016 disputes over the payout formula (continuing through the years since) are a live complication for the book's "politically inviolable" framing that a reader relying only on the 2012 text would not see. [VERIFY: exact dividend-formula history and legislative disputes 2016–present, which postdate this source and are outside its scope]
+- **Political durability has since been tested harder than the book anticipated.** Published in 2012, near the peak of Alaska's oil-revenue era, the volume's account of the dividend's political invulnerability predates the 2015–16 collapse in oil prices and Governor Bill Walker's 2016 line-item veto, which cut that year's dividend to roughly half the statutory formula amount — a reduction the Alaska Supreme Court upheld against legal challenge in *Wielechowski v. State*, 403 P.3d 1141 (Alaska 2017), holding that the annual dividend appropriation is subject to the governor's line-item veto and legislative appropriation like any other spending.[7][8] Post-2016 disputes over the payout formula are a live complication for the book's "politically inviolable" framing that a reader relying only on the 2012 text would not see.
 - **Limited social-outcome evidence at time of writing.** Goldsmith explicitly flags the absence of rigorous health/education outcome studies as of 2012, so claims about broader welfare effects beyond income distribution rest on thinner evidence than the income-inequality findings.
 
 ## Bears On

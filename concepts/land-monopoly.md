@@ -6,6 +6,7 @@ stub: false
 excerpt: "The structural condition in which private ownership of land — a gift of nature and social development — lets owners extract rent without contributing to production. Covers its historical mechanisms: Smith's primogeniture and entails, enclosure, colonial acquisition, and institutional exclusion."
 sources: [george-1879]
 excerpt: "In Georgist analysis, land monopoly is the structural condition in which private landownership lets owners collect economic rent — value created by nature and community growth — without contributing to production, since land cannot be reproduced in response to price."
+pd_quotes: true
 ---
 
 ## The Argument

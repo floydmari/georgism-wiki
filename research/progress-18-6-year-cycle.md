@@ -1,27 +1,15 @@
 ---
-authors:
-- Floyd Marinescu
+title: "The 18-Year Pattern Predicting 2027's Market Crash"
 category: research
-excerpt: A Progress.org article restating the 18.6-year land/real-estate cycle theory
-  — its four-phase structure, the Hoyt-Wenzlick-Harrison-Foldvary-Anderson-Patel lineage,
-  and a forecast that the cycle's next peak/crash falls in the 2026–2028 window.
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags: [research, land-cycle, real-estate-cycle, forecasting, harrison, foldvary, anderson, patel, hoyt]
+authors: ["Floyd Marinescu"]
+year: 2026
+tier: Supplementary
 source_url: https://www.progress.org/articles/18-6-year-real-estate-cycle/
 stub: false
-subcategory: wiki-research-lvt
-tags:
-- research
-- land-cycle
-- real-estate-cycle
-- forecasting
-- harrison
-- foldvary
-- anderson
-- patel
-- hoyt
-tier: Supplementary
-title: The 18-Year Pattern Predicting 2027's Market Crash
-year: 2026
+excerpt: "A Progress.org article restating the 18.6-year land/real-estate cycle theory — its four-phase structure, the Hoyt-Wenzlick-Harrison-Foldvary-Anderson-Patel lineage, and a forecast that the cycle's next peak/crash falls in the 2026–2028 window."
+last_reviewed: 2026-07-12
 ---
 
 ## Summary
@@ -40,7 +28,7 @@ The article maps the Georgist land-and-credit cycle onto a phase structure (veri
 
 The article situates the cycle in a chain of researchers, consistent with (and adding detail to) the wiki's existing [18-Year Land Cycle](/wiki/18-year-land-cycle/) concept page:
 
-- **Homer Hoyt** — his 1933 University of Chicago dissertation, *One Hundred Years of Land Values in Chicago*, documented Chicago land-price peaks at roughly 18-year intervals. The article states verbatim that Hoyt "documented land-price peaks in Chicago at approximately 18-year intervals stretching back to 1836: peaks at **1836, 1856, 1872, 1890, and 1925**" (confirmed directly from the page this session). Note that Foldvary's own 1997 paper, drawing on Hoyt (1970), gives a fuller and slightly different U.S. peak list — **1818, 1836, 1854, 1872, 1890, 1907, 1925** — so the article's shorter five-peak Chicago list is a simplification, not the only version in the source literature. **Hoyt himself later disavowed the cycle's continued operation**: by 1968 he held that "the fluctuations in the real estate cycle which characterised our economy in the 150 years prior to 1933, have ceased" (ULI Technical Bulletin No. 60, 1968, p. 11), reaffirming this to Fred Harrison in 1976 correspondence and a 1978 interview — and Harrison's "The Hoyt Heist" chapter (*The Power in the Land*, 1983) is his direct rebuttal of that disavowal. The cycle tradition this article restates is thus maintained *against* its founder's own late verdict (see [Hoyt's study](/wiki/hoyt-chicago-land-values/) for the verbatim record).
+- **Homer Hoyt** — his 1933 University of Chicago dissertation, *One Hundred Years of Land Values in Chicago*, documented Chicago land-price peaks at roughly 18-year intervals. The article states verbatim that Hoyt "documented land-price peaks in Chicago at approximately 18-year intervals stretching back to 1836: peaks at **1836, 1856, 1872, 1890, and 1925**" (confirmed directly from the page this session). Note that Foldvary's own 1997 paper, drawing on Hoyt (1970), gives a fuller and slightly different U.S. peak list — **1818, 1836, 1854, 1872, 1890, 1907, 1925** — so the article's shorter five-peak Chicago list is a simplification, and not the sole peak list found in the source literature. **Hoyt himself later disavowed the cycle's continued operation**: by 1968 he held that "the fluctuations in the real estate cycle which characterised our economy in the 150 years prior to 1933, have ceased" (ULI Technical Bulletin No. 60, 1968, p. 11), reaffirming this to Fred Harrison in 1976 correspondence and a 1978 interview — and Harrison's "The Hoyt Heist" chapter (*The Power in the Land*, 1983) is his direct rebuttal of that disavowal. The cycle tradition this article restates is thus maintained *against* its founder's own late verdict (see [Hoyt's study](/wiki/hoyt-chicago-land-values/) for the verbatim record).
 - **Roy Wenzlick** — *Correction (verified this session):* the Progress.org article does **not** mention Roy Wenzlick at all; the article's stated lineage runs Hoyt → Harrison → Foldvary → Anderson → Patel. An earlier draft of this page wrongly attributed a Wenzlick strand to the article. Wenzlick (a St. Louis real-estate analyst who independently described a ~18-year real-estate cycle in the 1930s) is a real figure in the broader cycle literature, but he is not part of *this* article and no primary Wenzlick source was retrieved for this page, so he is dropped from the article's lineage above.
 - **[Fred Harrison](/wiki/fred-harrison/)** — per the wiki's existing coverage, used the cycle to forecast the early-1990s downturn and, in *Boom Bust* (2005), the 2008 crash more than a decade ahead.
 - **[Fred Foldvary](/wiki/fred-foldvary/)** — in "The Business Cycle: A Georgist-Austrian Synthesis," *American Journal of Economics and Sociology* 56(4), 1997, pp. 521–541, Foldvary combined the Georgist land-cycle account with Austrian capital theory and wrote: "the next major bust, 18 years after the 1990 downturn, will be around 2008, if there is no major interruption such as a global war" (quoted verbatim from the 1997 paper, read directly from the full text this session) — a forecast made eleven years ahead of the 2008 crash. **Important for honest framing:** Foldvary himself described the cycle only as "roughly 18-year spans" / a cycle that "averaged about 18 years in duration up to 1929" / an "approximately 18-year major cycle" — he did **not** use the precise "18.6-year" figure (that later precision is Anderson's). Foldvary also openly noted the pattern is not clockwork: the early-1980s recession, he wrote, "occurred only about nine years after the previous bust instead of the eighteen years of the former cycles," which he attributed to 1970s monetary inflation deferring the liquidation. The fixed-periodicity reading is therefore not something the founding paper itself asserts.

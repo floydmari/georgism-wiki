@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, agriculture, subsidies, capitalization, european-union, stub]
 stub: true
 excerpt: "The EU's largest budget program pays farmers largely by land area — and a body of European Commission data and academic research finds much of that spending capitalizes into land rents and prices rather than farm income."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ A 2023 econometric study using EU-wide farm accountancy data (1989–2016) estim
 
 ## Why It Matters for Georgism
 
-CAP is a live, large-scale illustration of the [capitalization](/wiki/tax-capitalization/) mechanism Georgists apply to public spending generally: a subsidy or investment tied to land tends to be bid into the price of that land, benefiting whoever owns it rather than whoever farms or uses it — the same dynamic documented for infrastructure spending in [public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/). Fred Harrison devotes a chapter of *[Ricardo's Law](/wiki/harrison-ricardos-law/)* — "To CAP it All" — to arguing that farm subsidies reproduce the same rent-capture pattern he documents for UK infrastructure spending generally, though the chapter's specific CAP claims have not yet been directly verified against primary text for this wiki. [CITATION NEEDED: direct quotation or page-level claim from Harrison, *Ricardo's Law*, Ch. 7, "To CAP it All"]
+CAP is a live, large-scale illustration of the [capitalization](/wiki/tax-capitalization/) mechanism Georgists apply to public spending generally: a subsidy or investment tied to land tends to be bid into the price of that land, benefiting whoever owns it rather than whoever farms or uses it — the same dynamic documented for infrastructure spending in [public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/). Fred Harrison devotes a chapter of *[Ricardo's Law](/wiki/harrison-ricardos-law/)* — "To CAP it All" — to arguing that farm subsidies reproduce the same rent-capture pattern he documents for UK infrastructure spending generally. Harrison is this page's *discovery* source only: his specific CAP claims have not been verified against the primary text, and none of the load-bearing capitalization figures above rest on him — they come from European Commission data (source 1) and the peer-reviewed Baldoni & Ciaian (2023) estimates (source 2), which independently establish the subsidy-into-land-rent mechanism this page describes.
 
 ## Limits and Caveats
 

@@ -1,30 +1,17 @@
 ---
-authors:
-- Wallace E. Oates
-bears_on_objections:
-- lvt-destroys-its-own-tax-base
+title: "The Effects of Property Taxes and Local Public Spending on Property Values"
 category: research
-excerpt: 'The founding empirical capitalization study: property taxes lower New Jersey
-  house values while school spending raises them, giving the Tiebout model its first
-  empirical test.'
-last_reviewed: 2026-07-03
+subcategory: wiki-research-housing
+tags: [research, tax-capitalization, tiebout, property-tax, new-jersey, public-goods, empirical]
+authors: [Wallace E. Oates]
+year: 1969
+tier: core
 source_url: https://doi.org/10.1086/259584
 stub: false
-subcategory: wiki-research-housing
-supports_outcomes:
-- public-investment-capitalizes-into-land
-- lvt-improves-housing-affordability
-tags:
-- research
-- tax-capitalization
-- tiebout
-- property-tax
-- new-jersey
-- public-goods
-- empirical
-tier: core
-title: The Effects of Property Taxes and Local Public Spending on Property Values
-year: 1969
+excerpt: "The founding empirical capitalization study: property taxes lower New Jersey house values while school spending raises them, giving the Tiebout model its first empirical test."
+last_reviewed: 2026-07-12
+supports_outcomes: [public-investment-capitalizes-into-land, lvt-improves-housing-affordability, landlords-cannot-pass-lvt-to-tenants]
+bears_on_objections: [lvt-destroys-its-own-tax-base]
 ---
 
 ## Summary

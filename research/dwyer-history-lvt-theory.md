@@ -1,25 +1,15 @@
 ---
-authors:
-- Terence Dwyer
+title: "Dwyer (1980): A History of the Theory of Land Value Taxation"
 category: research
-excerpt: Terence Dwyer's 1980 Harvard PhD dissertation surveying land value taxation
-  theory from Locke onward — the source, per the Corruption of Economics postscript,
-  of the 'superneutrality' argument that rent taxation is not merely efficient but
-  welfare-improving.
-last_reviewed: 2026-07-11
-source_url: https://cooperative-individualism.org/dwyer-terence_a-history-of-the-theory-of-land-value-taxation-1980-may-01.pdf
-stub: true
 subcategory: wiki-research-finance
-tags:
-- research
-- land-value-tax
-- superneutrality
-- harvard
-- dissertation
-- stub
-tier: Important
-title: 'Dwyer (1980): A History of the Theory of Land Value Taxation'
+tags: [research, land-value-tax, superneutrality, harvard, dissertation, stub]
+stub: true
+excerpt: "Terence Dwyer's 1980 Harvard PhD dissertation surveying land value taxation theory from Locke onward — the source, per the Corruption of Economics postscript, of the 'superneutrality' argument that rent taxation is not merely efficient but welfare-improving."
+last_reviewed: 2026-07-12
+authors: [Terence Dwyer]
 year: 1980
+tier: Important
+source_url: https://cooperative-individualism.org/dwyer-terence_a-history-of-the-theory-of-land-value-taxation-1980-may-01.pdf
 ---
 
 ## Overview
@@ -38,5 +28,5 @@ That claim — that land value taxation is not merely neutral (imposing no deadw
 ## Sources
 
 1. Terence Michael Dwyer, "A History of the Theory of Land-Value Taxation," PhD dissertation, Department of Economics, Harvard University, presented May 1980 (copyright 1981). [PDF (Cooperative Individualism archive)](https://cooperative-individualism.org/dwyer-terence_a-history-of-the-theory-of-land-value-taxation-1980-may-01.pdf) — used for title, date, advisor, and the abstract's statement of the thesis's core argument (title page and abstract examined directly).
-2. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994; 2022 postscript by Kris Feder). [Book page](/wiki/gaffney-harrison-corruption-of-economics/) — used for the attribution of the term "superneutrality" to this dissertation; the term itself was not independently located in the scanned dissertation text, which this page treats as unverified beyond the abstract's own wording. [CITATION NEEDED: page locator within Dwyer's dissertation, or within the postscript, where "superneutrality" is coined/defined]
+2. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994; 2022 postscript by Kris Feder). [Book page](/wiki/gaffney-harrison-corruption-of-economics/) — used for the attribution of the term "superneutrality" to this dissertation; the term itself was not independently located at a specific page in the scanned dissertation text or in the postscript this session, so this attribution rests on Gaffney & Harrison's characterization and is treated as unverified beyond the abstract's own wording. A future editor should add the page locator where "superneutrality" is coined/defined.
 3. [Dwyer — The Taxable Capacity of Australian Land and Resources](/wiki/dwyer-taxable-capacity-australia/) — existing wiki page corroborating the superneutrality attribution and the dissertation's role in Dwyer's later work.

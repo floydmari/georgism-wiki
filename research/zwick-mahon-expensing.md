@@ -1,30 +1,17 @@
 ---
-authors:
-- Eric Zwick
-- James Mahon
+title: "Zwick & Mahon (2017): Tax Policy and Heterogeneous Investment Behavior"
 category: research
-excerpt: 'AER quasi-experimental study of US bonus depreciation across 120,000+ firms:
-  immediate-expensing provisions raised eligible investment by roughly 10–17%, with
-  far larger responses among small and cash-constrained firms — the cleanest identification
-  in the whole rent-targeting tax file that moving the base toward cash flow stimulates
-  investment.'
-last_reviewed: 2026-07-06
+subcategory: wiki-research-finance
+tags: [research, expensing, bonus-depreciation, investment, corporate-tax, quasi-experimental, tech-rents]
+authors: [Eric Zwick, James Mahon]
+year: 2017
+tier: Core
 source_url: https://www.aeaweb.org/articles?id=10.1257/aer.20140855
 stub: false
-subcategory: wiki-research-finance
-supports_outcomes:
-- rent-targeting-taxes-reduce-debt-bias
-tags:
-- research
-- expensing
-- bonus-depreciation
-- investment
-- corporate-tax
-- quasi-experimental
-- tech-rents
-tier: Core
-title: 'Zwick & Mahon (2017): Tax Policy and Heterogeneous Investment Behavior'
-year: 2017
+supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
+excerpt: "AER quasi-experimental study of US bonus depreciation across 120,000+ firms: immediate-expensing provisions raised eligible investment by roughly 10–17%, with far larger responses among small and cash-constrained firms — the cleanest identification in the whole rent-targeting tax file that moving the base toward cash flow stimulates investment."
+last_reviewed: 2026-07-12
+bears_on_objections: [taxing-quasi-rents-kills-innovation]
 ---
 
 ## Summary

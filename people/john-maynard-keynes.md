@@ -6,7 +6,7 @@ stub: false
 born: 1883
 died: 1946
 excerpt: "The most influential 20th-century economist (1883–1946); Georgist critic Fred Harrison argues his General Theory helped erase land from macroeconomics, despite Keynes's own 'euthanasia of the rentier' passage distinguishing land's scarcity from capital's."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -43,4 +43,4 @@ Keynes matters to the Georgist narrative less for anything he explicitly argued 
 4. Fred Harrison, *The Power in the Land* (1983), Ch. 14 p.185, Ch. 22 p.299 — used for the claim that *The General Theory* and *The End of Laissez-Faire* (1926) relegated land to an agricultural-era relic. [Book page](/wiki/harrison-power-in-the-land/) (discovery source; page-level text not independently re-verified by this session against a scanned copy).
 5. Mason Gaffney, Fred Harrison & Kris Feder, *The Corruption of Economics* (1994) — used for the separate, better-documented claim about neoclassical (not Keynesian) economists merging land into capital, cited here to distinguish it from the narrower Keynes-specific claim on this page. [Book page](/wiki/gaffney-harrison-corruption-of-economics/)
 
-[VERIFY: This session confirmed Harrison's Keynes-critique claims only via the discovery-scan book index entries (chapter/page pointers), not by reading the cited pages of *Boom Bust* or *The Power in the Land* directly. The characterization of Harrison's argument above should be checked against the primary book text before treating specific wording (e.g. "knock away Ricardian foundations") as an exact quotation rather than a paraphrase.]
+**Verification note.** This session confirmed Harrison's Keynes-critique claims only via the discovery-scan book index entries (chapter/page pointers), not by reading the cited pages of *Boom Bust* or *The Power in the Land* directly. The characterization of Harrison's argument above should be checked against the primary book text before treating specific wording (e.g. "knock away Ricardian foundations") as an exact quotation rather than a paraphrase.

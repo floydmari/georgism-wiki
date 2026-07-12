@@ -4,7 +4,7 @@ category: events
 tags: [events, uk, housing, council-housing, privatization, land-value-capture, stub]
 stub: true
 excerpt: "The UK's Housing Act 1980 gave council tenants a statutory right to buy their homes at discounts of 33-70% below market value. Roughly 1.5 million council homes were sold by 1990 — one of the largest transfers of public land-backed housing wealth into private hands in modern history."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -17,7 +17,7 @@ Because a large share of a council home's value is the land underneath it rather
 
 ## Honest Limits
 
-Right to Buy remains politically popular and expanded homeownership for many purchasing tenants. The main dispute concerns long-run supply effects — for decades local authorities faced restrictions on using sale receipts to fund replacement council housing — and the resulting reduction in the social-housing stock, not the underlying transfer-of-wealth facts. [CITATION NEEDED: a source presenting the pro-Right-to-Buy case (homeownership expansion, tenant welfare) in comparable secondary-source detail to the critical housing-supply account used here.]
+Right to Buy remains politically popular and expanded homeownership for many purchasing tenants. The standard scholarly evaluation of the policy — Colin Jones and Alan Murie's *The Right to Buy: Analysis and Evaluation of a Housing Policy* (Blackwell, 2006), described by its publisher as an evaluation of "the most enduring privatisation of the Thatcher era" — weighs its real benefits (a large, popular extension of home-ownership to former council tenants, and a substantial transfer of housing equity to purchasing households) against its costs, and observes that its retention under a later Labour government confirmed a lasting cross-party settlement rather than a purely partisan measure.[3] The main dispute is therefore not over the transfer-of-wealth facts but over long-run supply effects: for decades local authorities faced restrictions on using sale receipts to fund replacement council housing, and the sale of the better stock at a discount contributed to what John Hills's government-commissioned review *Ends and Means: The Future Roles of Social Housing in England* (LSE/CASE, 2007) analysed as the increasing residualisation of a shrinking social-rented sector serving a poorer and more marginal tenant population.[4]
 
 ## See Also
 
@@ -30,3 +30,5 @@ Right to Buy remains politically popular and expanded homeownership for many pur
 
 1. "Right to Buy," Wikipedia, retrieved 2026-07-11 — used for the Housing Act 1980 dating, discount structure (33-50%, up to 70% for flats), the ~1.5 million homes sold by 1990 figure, the Heseltine quotation, and the ~1.9 million homes / £430 billion current-value estimate (directly verified this session). [Wikipedia](https://en.wikipedia.org/wiki/Right_to_Buy)
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, Zed Books, Ch. 4, §4.4, Box 4.5 — the discovery source citing Right to Buy as part of the post-1970 UK housing-policy shift. [Wiki research page](/wiki/ryan-collins-rethinking-land-housing/)
+3. Colin Jones & Alan Murie, *The Right to Buy: Analysis and Evaluation of a Housing Policy* (Oxford: Blackwell, 2006), ISBN 978-1-4051-3197-1 — the standard scholarly, cross-party evaluation of the policy; used for the balanced pro-and-con assessment (home-ownership expansion and equity transfer to purchasers weighed against social-housing-supply costs) and the policy's retention under Labour. The "most enduring privatisation of the Thatcher era" phrase is the publisher's description of the book's subject. [Publisher listing (Wiley)](https://www.wiley.com/en-us/The+Right+to+Buy%3A+Analysis+and+Evaluation+of+a+Housing+Policy-p-9781405131971)
+4. John Hills, *Ends and Means: The Future Roles of Social Housing in England*, CASEreport 34, ESRC Centre for Analysis of Social Exclusion, London School of Economics, February 2007 — a government-commissioned review of the role of social housing; used for the residualisation of the social-rented sector to which discounted Right-to-Buy sales of better stock contributed. Free full text and summary via LSE. [PDF (LSE eprints)](https://eprints.lse.ac.uk/5568/1/Ends_and_Means_The_future_roles_of_social_housing_in_England_1.pdf)

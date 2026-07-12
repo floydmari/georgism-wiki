@@ -5,7 +5,7 @@ tags: [objections, business-cycle, credit, finance, land-speculation, 18-year-cy
 stub: false
 status: "Partly conceded — the pure 'autonomous land clock' claim is the wiki's weakest, and the credit critique lands against it; the defensible claim is that land is the dominant collateral through which credit booms run, so the two accounts describe one machine and their remedies are complements."
 excerpt: "The credit school argues the boom-bust regularity that actually predicts crises is credit growth, not land speculation (Schularick & Taylor: 'credit booms gone wrong'), and Minsky-style leverage dynamics need no land to generate cycles. The steelman, why land and credit are largely the same phenomenon in the mortgage book, and what the wiki should stop overselling."
-last_reviewed: 2026-07-07
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -64,7 +64,10 @@ economy, **land and credit are largely the same phenomenon seen from two sides.*
   borrowing capacity, which raises prices again. And when the house-price boom is
   decomposed, it is mostly the **land** component that moves
   ([Knoll, Schularick & Steger](/wiki/knoll-schularick-steger-house-prices/)) — the same
-  Schularick, note, on both sides of this argument.
+  Schularick, note, on both sides of this argument. The land–credit feedback loop this
+  describes — mortgage lending and land prices driving each other upward — is the
+  organising thesis of Ryan-Collins, Lloyd & Macfarlane's
+  [*Rethinking the Economics of Land and Housing*](/wiki/ryan-collins-rethinking-land-housing/).
 - **The non-land bubbles are the exception, not the rule.** Pure-equity manias occur,
   but the crises with the largest and most persistent output costs are the ones tied to
   property and mortgage debt — which is exactly why property sits at the centre of the

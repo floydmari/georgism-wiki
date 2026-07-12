@@ -1,26 +1,15 @@
 ---
-authors:
-- Brett Christophers
+title: "Christophers (2020): Rentier Capitalism"
 category: research
-excerpt: A 2020 book by geographer Brett Christophers arguing that the UK economy's
-  'commanding heights' are dominated by rentiers extracting income from scarce assets
-  — land, finance, IP, natural resources, digital platforms, and outsourcing contracts
-  — rather than by productive enterprise.
-last_reviewed: 2026-07-11
-source_url: https://www.versobooks.com/products/871-rentier-capitalism
-stub: true
 subcategory: wiki-research-lvt
-tags:
-- research
-- rentier
-- economic-rent
-- financialisation
-- ip-rents
-- resource-rents
-- stub
-tier: important
-title: 'Christophers (2020): Rentier Capitalism'
+tags: [research, rentier, economic-rent, financialisation, ip-rents, resource-rents, stub]
+authors: [Brett Christophers]
 year: 2020
+source_url: https://www.versobooks.com/products/871-rentier-capitalism
+tier: important
+stub: true
+excerpt: "A 2020 book by geographer Brett Christophers arguing that the UK economy's 'commanding heights' are dominated by rentiers extracting income from scarce assets — land, finance, IP, natural resources, digital platforms, and outsourcing contracts — rather than by productive enterprise."
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -38,5 +27,5 @@ Christophers's taxonomy extends the classical land-rent analysis that anchors Ge
 
 ## Sources
 
-1. Brett Christophers (2020), *Rentier Capitalism: Who Owns the Economy, and Who Pays for It?*, London: Verso. [Publisher page](https://www.versobooks.com/products/871-rentier-capitalism) — used for the book's scope (seven UK rentier sectors), the contract-rents/outsourcing chapter, and Christophers's institutional affiliation. [CITATION NEEDED: page-level citations for individual sector claims — this stub is based on the publisher description and secondary review coverage, not a full read of the book.]
+1. Brett Christophers (2020), *Rentier Capitalism: Who Owns the Economy, and Who Pays for It?*, London: Verso. [Publisher page](https://www.versobooks.com/products/871-rentier-capitalism) — used for the book's scope (seven UK rentier sectors), the contract-rents/outsourcing chapter, and Christophers's institutional affiliation. This stub is based on the publisher description and secondary review coverage rather than a full read of the book, so page-level citations for individual sector claims are not given; a future editor with the book should add them.
 2. Akhil Patel (2023), *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)*, Ch. 4 — discovery source; cited in Patel's book as part of the broader modern rentier-capitalism literature the wiki tracks.

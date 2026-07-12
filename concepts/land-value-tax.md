@@ -5,6 +5,8 @@ tags: [lvt, taxation, georgism, fiscal-policy, land]
 stub: false
 excerpt: "A levy on the unimproved value of land, excluding buildings and improvements — held by economists across the ideological spectrum to be the least distortionary of all taxes, because land's supply is fixed and cannot shrink in response to the tax."
 sources: [george-1879, mirrlees-2011, tideman-1999]
+last_reviewed: 2026-07-12
+pd_quotes: true
 ---
 
 ## Overview
@@ -114,7 +116,7 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 - [Henry George](/wiki/henry-george/) — the economist who made LVT the centrepiece of a global movement
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — a documented American implementation
 - [Objection: if LVT is so good, why has almost no one adopted it?](/wiki/lvt-not-widely-adopted/) — the adoption record and what the rollbacks show
-- [ATCOR](/wiki/atcor/) — the theorem that all taxes ultimately come out of rent
+- [ATCOR](/wiki/atcor/) — the theorem that all taxes come out of rent
 - [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's rate-rent as practical LVT
 - [Robert V. Andelson](/wiki/robert-v-andelson/) — editor of *Critics of Henry George*
 - [Phillip J. Bryson](/wiki/phillip-bryson/) — economist who rehabilitated George's LVT analysis

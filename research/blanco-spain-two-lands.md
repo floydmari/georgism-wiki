@@ -1,28 +1,15 @@
 ---
-authors:
-- Miguel Artola Blanco
-- Luis E. Bauluz
-- Clara Martínez-Toledano
+title: "Blanco, Bauluz & Martínez-Toledano (2018): Wealth in Spain, 1900-2014"
 category: research
-excerpt: A century-long reconstruction of Spanish national wealth (1900-2014) finding
-  that land dominated wealth composition throughout — agricultural land early, urban
-  land later — and that housing capital gains drove 45% of real wealth growth from
-  1950-2010.
-last_reviewed: 2026-07-11
-source_url: https://wid.world/www-site/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf
-stub: true
 subcategory: wiki-research-finance
-tags:
-- research
-- land
-- wealth
-- spain
-- capital-share
-- inequality
-- stub
-tier: Important
-title: 'Blanco, Bauluz & Martínez-Toledano (2018): Wealth in Spain, 1900-2014'
+tags: [research, land, wealth, spain, capital-share, inequality, stub]
+stub: true
+excerpt: "A century-long reconstruction of Spanish national wealth (1900-2014) finding that land dominated wealth composition throughout — agricultural land early, urban land later — and that housing capital gains drove 45% of real wealth growth from 1950-2010."
+last_reviewed: 2026-07-12
+authors: [Miguel Artola Blanco, Luis E. Bauluz, Clara Martínez-Toledano]
 year: 2018
+tier: Important
+source_url: https://wid.world/www-site/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf
 ---
 
 ## Overview
@@ -44,4 +31,4 @@ The paper extends the land-decomposition literature associated with [Matthew Rog
 2. Miguel Artola Blanco, Luis Bauluz & Clara Martínez-Toledano (2021), "Wealth in Spain 1900–2017: A Country of Two Lands," *The Economic Journal* 131(633), 129–155 — used to confirm the paper's eventual peer-reviewed publication venue and extended time series. [Oxford Academic](https://academic.oup.com/ej/article-abstract/131/633/129/5900974)
 3. Lars A. Doucet (2022), *Land is a Big Deal*, Shack Simple Press, Ch. 6, 17 — the discovery source citing this paper's Spanish land-wealth findings. [Wiki book page](/wiki/land-is-a-big-deal/)
 
-[CITATION NEEDED: page-level confirmation of Doucet's specific use of this paper in *Land is a Big Deal* Ch. 6 and 17 — not independently re-verified against the primary book text this session.]
+(Doucet's specific chapter-level use of this paper — *Land is a Big Deal* Ch. 6 and 17 — is taken from the book's citation record and was not independently re-verified against the primary book text this session.)

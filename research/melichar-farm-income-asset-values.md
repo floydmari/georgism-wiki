@@ -1,25 +1,15 @@
 ---
-authors:
-- Emanuel Melichar
+title: "Melichar (1978): Farm Income and Asset Values, 1950-77"
 category: research
-excerpt: A Federal Reserve economist's study of the residual return to US farm production
-  assets, 1950-77, used by Fred Harrison as official-data corroboration of an 18-year
-  cycle in the return to farmland.
-last_reviewed: 2026-07-11
+subcategory: wiki-research-inequality
+tags: [research, 18-year-land-cycle, farmland, federal-reserve, power-in-the-land, empirical, stub]
+authors: [Emanuel Melichar]
+year: 1978
+tier: Supplementary
 source_url: https://ideas.repec.org/f/pme709.html
 stub: true
-subcategory: wiki-research-inequality
-tags:
-- research
-- 18-year-land-cycle
-- farmland
-- federal-reserve
-- power-in-the-land
-- empirical
-- stub
-tier: Supplementary
-title: 'Melichar (1978): Farm Income and Asset Values, 1950-77'
-year: 1978
+excerpt: "A Federal Reserve economist's study of the residual return to US farm production assets, 1950-77, used by Fred Harrison as official-data corroboration of an 18-year cycle in the return to farmland."
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -46,4 +36,4 @@ This page is a stub: the exact original publication venue of Melichar's 1978 stu
    to extend the 18-year land cycle thesis to US agriculture. See the wiki's
    [book page](/wiki/harrison-power-in-the-land/).
 
-[CITATION NEEDED: exact original publication (journal/report title, volume, pages) of Melichar's 1978 "Farm Income and Asset Values, 1950-77" study — this session could not independently locate or verify the primary publication beyond Harrison's secondary citation.]
+*Note on the primary source:* the exact original publication of the 1978 study Harrison cites ("The Relationship Between Farm Income and Asset Values, 1950-77") could not be independently located in this session; database searches surfaced only Melichar's closely related, verifiable published work on the same subject — notably Emanuel Melichar, "Capital Gains versus Current Income in the Farming Sector," *American Journal of Agricultural Economics* 61(5), 1979, pp. 1085–1092 (DOI: [10.2307/3180381](https://doi.org/10.2307/3180381)), which analyses the residual return to US farm production assets over the 1950–77 period that Harrison's Table 9:I draws on. Harrison's cited data table should therefore be read as sourced through his secondary citation, corroborated by Melichar's documented 1979 treatment of the same data, until the specific 1978 Federal Reserve document is located directly.

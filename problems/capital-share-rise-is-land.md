@@ -8,7 +8,12 @@ evidence_strength: "Strong (independently replicated across US and European data
 supported_by: [rognlie-capital-share, knoll-schularick-steger-house-prices, bonnet-land-is-back, la-cava-housing-capital-share, furman-orszag-firm-rents, bakker-land-rents-tfp]
 challenged_by: [autor-superstar-firms, barkai-declining-shares]
 excerpt: "The much-discussed rise in capital's share of income is, on decomposition, overwhelmingly a rise in the value of land under housing — vindicating a core Georgist claim."
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — When the modern rise in the capital share is decomposed, it is mostly rising housing — and therefore land — value rather than reproducible capital, a result independently replicated across US and European data.
+> **Evidence:** Strong (independently replicated across US and European data) · **6 supporting** sources · **2 challenging**
+> **Strongest support:** [Rognlie (2015)](/wiki/rognlie-capital-share/) — the long-run rise in the net capital share is concentrated in housing; ex-housing, capital's share is roughly flat. **Strongest counter:** [Autor et al. (2020)](/wiki/autor-superstar-firms/) — reads the falling labor share as a shift toward high-markup "superstar firms," capping how much the land story can claim.
 
 ## The Claim
 

@@ -5,7 +5,7 @@ tags: [objections, political-economy, homevoter, fischel, feasibility, transitio
 stub: false
 status: "Substantially valid as politics — the serious responses are design responses"
 excerpt: "The political-economy objection, steelmanned via Fischel's Homevoter Hypothesis: homeowners' dominant, undiversifiable asset makes them the decisive local voting bloc, and they rationally oppose any tax that capitalizes into lower home values — which a land value tax does by design."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -29,7 +29,10 @@ The historical record cooperates with the objection. Pittsburgh's split-rate sys
 was repealed after a botched reassessment
 ([Pittsburgh](/wiki/pittsburgh/)); Britain's 1909 land taxes died within a decade
 ([People's Budget](/wiki/1909-peoples-budget/)); [Proposition 13](/wiki/proposition-13/) showed homeowner tax
-revolt as the strongest force in American state fiscal politics. Two-thirds of
+revolt as the strongest force in American state fiscal politics. Cabral and Hoxby trace that
+revolt to the [property tax's unusual *salience*](/wiki/cabral-hoxby-hated-property-tax/) — its
+visibility to payers relative to taxes hidden in escrow or withholding — exactly the feature a
+land value tax shares and cannot conceal. Two-thirds of
 households in Anglophone democracies are owner-occupiers; a tax whose incidence
 falls on them arrives pre-organized against.
 

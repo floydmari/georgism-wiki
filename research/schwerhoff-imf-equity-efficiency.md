@@ -1,27 +1,15 @@
 ---
-authors:
-- Gregor Schwerhoff
-- Ottmar Edenhofer
-- Marc Fleurbaey
+title: "Equity and Efficiency Effects of Land Value Taxation"
 category: research
-excerpt: IMF working paper using optimal-taxation theory to show that land value taxation
-  is efficient and can also be made progressive — equity and efficiency are not in
-  tension.
-source_url: https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf
-stub: false
 subcategory: wiki-research-inequality
-supports_outcomes:
-- land-value-tax-can-be-progressive
-tags:
-- research
-- imf
-- optimal-taxation
-- equity
-- efficiency
-- lvt
-tier: important
-title: Equity and Efficiency Effects of Land Value Taxation
+tags: [research, imf, optimal-taxation, equity, efficiency, lvt]
+authors: [Gregor Schwerhoff, Ottmar Edenhofer, Marc Fleurbaey]
 year: 2022
+source_url: https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf
+tier: important
+stub: false
+excerpt: "IMF working paper using optimal-taxation theory to show that land value taxation is efficient and can also be made progressive — equity and efficiency are not in tension."
+supports_outcomes: [land-value-tax-can-be-progressive, lvt-can-replace-capital-taxes-without-efficiency-loss]
 ---
 
 ## Summary

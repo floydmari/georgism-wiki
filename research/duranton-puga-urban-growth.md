@@ -1,31 +1,17 @@
 ---
-authors:
-- Gilles Duranton
-- Diego Puga
-bears_on_objections:
-- land-capture-didnt-make-housing-cheap
+title: "Urban Growth and Its Aggregate Implications"
 category: research
-excerpt: A quantitative model in which incumbent residents use planning regulations
-  to limit city growth; relaxing regulation in seven large restricted US cities raises
-  aggregate output 7.95%.
-last_reviewed: 2026-07-10
+subcategory: wiki-research-resources
+tags: [research, urban-economics, agglomeration, planning-regulations, zoning, productivity, macroeconomics, econometrica]
+authors: [Gilles Duranton, Diego Puga]
+year: 2023
+tier: important
 source_url: https://doi.org/10.3982/ECTA17936
 stub: false
-subcategory: wiki-research-resources
-supports_outcomes:
-- high-land-rents-suppress-productivity
-tags:
-- research
-- urban-economics
-- agglomeration
-- planning-regulations
-- zoning
-- productivity
-- macroeconomics
-- econometrica
-tier: important
-title: Urban Growth and Its Aggregate Implications
-year: 2023
+excerpt: "A quantitative model in which incumbent residents use planning regulations to limit city growth; relaxing regulation in seven large restricted US cities raises aggregate output 7.95%."
+last_reviewed: 2026-07-12
+supports_outcomes: [high-land-rents-suppress-productivity]
+bears_on_objections: [land-capture-didnt-make-housing-cheap]
 ---
 
 ## Summary
@@ -48,7 +34,7 @@ Duranton and Puga use the calibrated model to run several counterfactual policy 
 
 ## Direct Comparison to Hsieh & Moretti (2019)
 
-The paper explicitly engages with [Hsieh & Moretti's (2019) "Housing Constraints and Spatial Misallocation"](/wiki/hsieh-moretti-spatial-misallocation/), which this wiki already treats as Core-tier evidence for the same outcome. Duranton and Puga note that Hsieh and Moretti's static model — which finds an 8.9% aggregate US output gain if three of the most productive cities raised their housing-supply elasticity to the median city's level — is "similarly motivated" but mechanically different: in Hsieh and Moretti's framework, an increase in city population is *always* detrimental to existing residents (the welfare-optimal city size for an incumbent is zero, so planning regulations are modeled as exogenous), whereas in Duranton and Puga's framework the tradeoff between agglomeration benefits and urban costs is explicit, planning regulations are *endogenous*, and relaxing regulation in a few cities causes regulation to *loosen* elsewhere too (as pressure on other housing markets eases), which is itself an added source of aggregate gains not present in the Hsieh-Moretti mechanism. That two independently derived, differently specified models — one static and treating regulation as exogenous, one dynamic and endogenizing it — converge on similar-magnitude aggregate output effects (7.95% vs. 8.9%) from relaxing land-use restriction in a handful of major cities is a meaningful robustness signal, though the two papers are not measuring identical counterfactuals and should not be read as replications of one another.
+The paper explicitly engages with [Hsieh & Moretti's (2019) "Housing Constraints and Spatial Misallocation"](/wiki/hsieh-moretti-spatial-misallocation/), which this wiki already treats as Core-tier evidence for the same outcome. Duranton and Puga note that Hsieh and Moretti's static model — which finds an 8.9% aggregate US output gain if three of the most productive cities raised their housing-supply elasticity to the median city's level — is "similarly motivated" but mechanically different: in Hsieh and Moretti's framework, an increase in city population is detrimental to existing residents at every margin (the welfare-optimal city size for an incumbent is zero, so planning regulations are modeled as exogenous), whereas in Duranton and Puga's framework the tradeoff between agglomeration benefits and urban costs is explicit, planning regulations are *endogenous*, and relaxing regulation in a few cities causes regulation to *loosen* elsewhere too (as pressure on other housing markets eases), which is itself an added source of aggregate gains not present in the Hsieh-Moretti mechanism. That two independently derived, differently specified models — one static and treating regulation as exogenous, one dynamic and endogenizing it — converge on similar-magnitude aggregate output effects (7.95% vs. 8.9%) from relaxing land-use restriction in a handful of major cities is a meaningful robustness signal, though the two papers are not measuring identical counterfactuals and should not be read as replications of one another.
 
 The paper also situates itself relative to Davis, Fisher & Whited (2014), who find that housing/infrastructure investment and agglomeration feedbacks together boost aggregate growth by "about 10%" in a neoclassical growth model, and to Desmet & Rossi-Hansberg (2013), a static framework finding that reducing cross-city differences in productivity, amenities, or frictions has large effects on city population but only minor welfare effects — a useful counterpoint suggesting the literature does not uniformly find large output effects from every reallocation channel.
 

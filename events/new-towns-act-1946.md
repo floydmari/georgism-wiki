@@ -4,7 +4,7 @@ category: events
 tags: [events, united-kingdom, land-value-capture, land-value-tax, 20th-century, stub]
 stub: true
 excerpt: "UK legislation (9 & 10 Geo. 6 c. 68) that let development corporations buy land for new towns at agricultural-use prices, then capture the planning-driven uplift by selling developed sites -- one of the largest real-world land value capture programs on record."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -28,9 +28,11 @@ prices** — using the resulting uplift, created by the town's own
 designation and construction rather than by the original owners, to pay off
 the development debt.[1] This restricted-compensation model applied most
 cleanly to the first wave of towns designated between 1946 and 1950, before
-later planning legislation shifted compensation toward open-market value
-[CITATION NEEDED: exact act and year restricted compensation for new-town
-land was replaced by market-value compensation].[1] The model strained
+the Town and Country Planning Act 1959 (7 & 8 Eliz. 2 c. 53) restored
+open-market value as the basis for compensation on the compulsory
+acquisition of land — its stated main purpose being "to put compensation for
+compulsory acquisition of land on a market value basis," ending the
+post-war "two-price" system.[4] The model strained
 financially in the 1970s
 as inflation raised borrowing costs, complicating its fiscal record, and the
 development corporations were eventually dissolved, with assets split
@@ -71,3 +73,12 @@ between local authorities and the Commission for New Towns.[1]
    Planning Act 1944 (the wartime "1939 values" restricted-compensation
    regime), corroborating the page's agricultural-price acquisition model for
    the first-wave towns.
+4. Town and Country Planning Act 1959 (7 & 8 Eliz. 2 c. 53), Part I
+   "Compensation for Compulsory Acquisition of Land" — used for the year and
+   statute that restored market-value compensation, replacing the restricted
+   post-war regime. The Bill's stated main purpose, per the Second Reading
+   debate, was "to put compensation for compulsory acquisition of land on a
+   market value basis" and to end the "two-price system."
+   [legislation.gov.uk/ukpga/Eliz2/7-8/53/contents](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/contents)
+   — quotation from HL Deb 14 April 1959 vol 215 cc578-636,
+   [api.parliament.uk historic-hansard](https://api.parliament.uk/historic-hansard/lords/1959/apr/14/town-and-country-planning-bill).

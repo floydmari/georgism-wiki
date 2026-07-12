@@ -1,32 +1,22 @@
 ---
-authors:
-- Daniel H. Buchanan
+title: "Buchanan (1929): The Historical Approach to Rent and Price Theory"
 category: research
-excerpt: Daniel H. Buchanan's 1929 Economica survey of the development of rent theory
-  from Adam Smith through Ricardo to Marshall — a classic history-of-thought reference,
-  listed by Blaug as standard further reading on rent theory.
-last_reviewed: 2026-07-11
-source_url: https://www.jstor.org/stable/i343585
-stub: true
 subcategory: wiki-research-lvt
-tags:
-- research
-- rent-theory
-- history-of-economic-thought
-- classical-economics
-- ricardo
-- marshall
-- stub
-tier: Supplementary
-title: 'Buchanan (1929): The Historical Approach to Rent and Price Theory'
+tags: [research, rent-theory, history-of-economic-thought, classical-economics, ricardo, marshall, stub]
+stub: true
+excerpt: "Daniel H. Buchanan's 1929 Economica survey of the development of rent theory from Adam Smith through Ricardo to Marshall — a classic history-of-thought reference, listed by Blaug as standard further reading on rent theory."
+authors: [Daniel H. Buchanan]
 year: 1929
+tier: Supplementary
+source_url: https://www.jstor.org/stable/i343585
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
 "The Historical Approach to Rent and Price Theory" is an article by economist **Daniel H. Buchanan** (not to be confused with the public-choice economist [James M. Buchanan](/wiki/brennan-buchanan-power-to-tax/)), published in *Economica*, New Series, Vol. 9 (June 1929), pp. 123–155.[1] It is listed by Mark Blaug in *[Economic Theory in Retrospect](/wiki/economic-theory-in-retrospect/)* (5th ed., 1997) as standard further reading on rent theory, characterized there as "a classic review of rent theory from [Adam Smith](/wiki/adam-smith/) to [Alfred Marshall](/wiki/alfred-marshall/)" — spanning the classical rent theory of [David Ricardo](/wiki/david-ricardo/) and its later reformulation in Marshall's *Principles of Economics*.[2] The article was reprinted in W. Fellner and B. F. Haley's widely used anthology *Readings in the Theory of Income Distribution* (Allen & Unwin, 1950), consistent with its status as a standard historiographical reference on the topic.[3]
 
-[CITATION NEEDED: direct access to the article's full text. This page's characterization of its content relies on Blaug's secondary description and the article's consistent bibliographic record across citing sources, not on a first-hand reading of Buchanan's argument.]
+This page characterizes the article from Mark Blaug's secondary description and the work's consistent bibliographic record across citing sources; Buchanan's full argument was not read first-hand this session, so nothing here is asserted about the article's content beyond what Blaug reports and what the title states. A future editor with JSTOR or anthology access should mine the body and add page-level detail.
 
 ## Relevance to Georgism
 

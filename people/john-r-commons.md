@@ -6,7 +6,7 @@ born: 1862
 died: 1945
 stub: true
 excerpt: "American institutional economist (1862–1945) at the University of Wisconsin who called himself a Georgist, drafted a state land-value tax bill, and estimated that roughly 95% of American millionaire fortunes traced to land and franchise values."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -39,4 +39,4 @@ Mason Gaffney and Fred Harrison's *[The Corruption of Economics](/wiki/gaffney-h
    Gaffney and Harrison cite for Commons's land-value-tax proposal and fortune
    estimate; not independently read in full this session.
 
-[CITATION NEEDED: direct quotation or page locator from Commons (1922) for the "95% of millionaire fortunes" figure, and independent confirmation of the exact wording/context of the Grimstad Bill's provisions — this stub relies on the secondary account in Gaffney & Harrison.]
+**Verification note.** A direct quotation or page locator from Commons (1922) for the "95% of millionaire fortunes" figure, and independent confirmation of the exact wording and context of the Grimstad Bill's provisions, were not located this pass; this stub relies on the secondary account in Gaffney & Harrison.

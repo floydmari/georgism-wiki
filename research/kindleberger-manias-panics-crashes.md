@@ -1,33 +1,22 @@
 ---
-authors:
-- Charles P. Kindleberger
-- Robert Z. Aliber
+title: "Kindleberger & Aliber: Manias, Panics, and Crashes"
 category: research
-excerpt: The standard mainstream taxonomy of financial bubbles — displacement, credit-fuelled
-  boom, euphoria, distress, and revulsion — built on Hyman Minsky's financial instability
-  hypothesis; the canonical non-Georgist framework this wiki's land-cycle pages implicitly
-  draw on but rarely cite directly.
-last_reviewed: 2026-07-11
+subcategory: wiki-research-georgism
+tags: [research, financial-crises, bubbles, minsky, boom-bust-cycle, stub]
+authors: [Charles P. Kindleberger, Robert Z. Aliber]
+year: 1978
+tier: Important
 source_url: https://archive.org/details/maniaspanicscras0000kind
 stub: true
-subcategory: wiki-research-georgism
-tags:
-- research
-- financial-crises
-- bubbles
-- minsky
-- boom-bust-cycle
-- stub
-tier: Important
-title: 'Kindleberger & Aliber: Manias, Panics, and Crashes'
-year: 1978
+excerpt: "The standard mainstream taxonomy of financial bubbles — displacement, credit-fuelled boom, euphoria, distress, and revulsion — built on Hyman Minsky's financial instability hypothesis; the canonical non-Georgist framework this wiki's land-cycle pages implicitly draw on but rarely cite directly."
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
 *Manias, Panics, and Crashes: A History of Financial Crises* is a history-of-finance book originated by economic historian **Charles P. Kindleberger** (MIT), first published in 1978 and kept continuously in print through later editions revised by **Robert Z. Aliber** (University of Chicago) after Kindleberger's death in 2003, with an eighth edition (2023) further revised by Aliber and Robert McCauley.[1] The book surveys speculative bubbles from the Dutch tulip mania and the 1720 [South Sea Bubble](/wiki/south-sea-bubble/) through 19th-century railway and banking panics to the 2000s housing bubble, organizing them under what is now widely called the **Kindleberger–Minsky model**: a stylized sequence of *displacement* (some shock that creates new profit opportunities), *credit-fuelled boom*, *euphoria* (self-reinforcing price extrapolation and "this time is different" thinking), *distress* (early cracks and insider selling), and *revulsion* (panic and crash) — adapted from Hyman Minsky's financial instability hypothesis.[2]
 
-The book is significant for this wiki chiefly by contrast. It is the standard mainstream reference for bubble dynamics *in general* — treating land, equities, commodities, and currencies as interchangeable speculative vehicles moved by the same credit-and-psychology mechanism — whereas the Georgist [land-cycle](/wiki/boom-bust-cycle/) tradition (Hoyt, Harrison, Foldvary, Anderson, Patel) argues land specifically is the structural driver and claims a distinct, roughly 18-year periodicity that Kindleberger and Aliber's asset-agnostic account does not assert.[1][3] Kindleberger and Aliber's taxonomy is referenced in this wiki's discovery source, Akhil Patel's *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)*, in its discussion of cycle psychology and market rhythms.[3] [CITATION NEEDED: the exact page-level content of Patel's references to Kindleberger in Chs. 10 and 15 — not independently verified this session.]
+The book is significant for this wiki chiefly by contrast. It is the standard mainstream reference for bubble dynamics *in general* — treating land, equities, commodities, and currencies as interchangeable speculative vehicles moved by the same credit-and-psychology mechanism — whereas the Georgist [land-cycle](/wiki/boom-bust-cycle/) tradition (Hoyt, Harrison, Foldvary, Anderson, Patel) argues land specifically is the structural driver and claims a distinct, roughly 18-year periodicity that Kindleberger and Aliber's asset-agnostic account does not assert.[1][3] Kindleberger and Aliber's taxonomy is referenced in this wiki's discovery source, Akhil Patel's *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)*, in its discussion of cycle psychology and market rhythms.[3] The exact page-level content of Patel's references to Kindleberger in Chs. 10 and 15 was not independently verified this session.
 
 ## See Also
 

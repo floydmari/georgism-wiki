@@ -1,30 +1,17 @@
 ---
-authors:
-- Peter Mieszkowski
-bears_on_objections:
-- lvt-destroys-its-own-tax-base
+title: "The Property Tax: An Excise Tax or a Profits Tax?"
 category: research
-excerpt: 'The founding paper of the ''new view'' of property tax incidence: a general-equilibrium
-  model in which the average burden of the property tax falls on capital owners nationally,
-  local rate differentials act as excise taxes, and the land portion is borne entirely
-  by landowners.'
-last_reviewed: 2026-07-03
+subcategory: wiki-research-lvt
+tags: [research, tax-incidence, property-tax, land-value-tax, general-equilibrium, new-view, public-finance]
+authors: [Peter Mieszkowski]
+year: 1972
+tier: core
 source_url: https://doi.org/10.1016/0047-2727(72)90020-5
 stub: false
-subcategory: wiki-research-lvt
-supports_outcomes:
-- landlords-cannot-pass-lvt-to-tenants
-tags:
-- research
-- tax-incidence
-- property-tax
-- land-value-tax
-- general-equilibrium
-- new-view
-- public-finance
-tier: core
-title: 'The Property Tax: An Excise Tax or a Profits Tax?'
-year: 1972
+excerpt: "The founding paper of the 'new view' of property tax incidence: a general-equilibrium model in which the average burden of the property tax falls on capital owners nationally, local rate differentials act as excise taxes, and the land portion is borne entirely by landowners."
+last_reviewed: 2026-07-12
+supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+bears_on_objections: [lvt-destroys-its-own-tax-base]
 ---
 
 ## Summary
@@ -94,4 +81,4 @@ For the Georgist case specifically, all three views agree on one point that matt
 4. Wallace E. Oates (1969), "The Effects of Property Taxes and Local Public Spending on Property Values," *Journal of Political Economy* 77(6): 957–971 — [wiki summary](/wiki/oates-1969-capitalization/) — used for the empirical-capitalization companion note in "Bears On."
 5. Rice University / Baker Institute, obituary and faculty profile of Peter Mieszkowski (1936–2024) — used for biographical details (Queen's University affiliation at time of writing, later Rice professorship, 2009 Daniel M. Holland Medal). [Rice News](https://news.rice.edu/news/2025/rice-remembers-peter-mieszkowski-path-breaking-professor-emeritus-economics) · [Rice faculty profile](https://profiles.rice.edu/faculty/peter-mieszkowski).
 
-[VERIFIED 2026-07-11 (Hermes fact-check lane): the primary text was fetched and read directly from the gabriel-zucman.eu teaching mirror (Mieszkowski72.pdf, JPubE 1(1): 73–96). The paper's "concluding remarks" state the new-view result verbatim: "The principal conclusion of this paper is that the system of property taxes imposed by local governments decreases the overall return to capital by the average rate of tax in the nation as a whole, and changes the supply price of capital to different cities according to relationship of the specific rates relative to the mean rate of property tax" (p. 94) — confirming both the average-burden-on-capital ("profits tax") result and the local-differential excise mechanism (capital reallocation influencing "site values and the returns to other imperfectly mobile factors"). One nuance to record: the body of the paper explicitly *brackets* the pure land/site-rent-tax incidence question ("we exclude from consideration the question of whether taxes on site rents are borne by the owners of land … the incidence of taxes on urban land rents remains an unsettled question"), affirming full landowner incidence specifically for the fixed-supply case ("For the case of a developed city it is unlikely that a land tax will have much of an impact on the supply of land in urban use, and a land tax will be borne by the owners of land"). The page's "land borne entirely by landowners" framing is therefore accurate under Mieszkowski's fixed-supply assumption but is slightly stronger than the paper's own hedged treatment of the general case — the Nuances section already flags this. A future editor may add exact page numbers for the average/differential decomposition sections.]
+[VERIFIED 2026-07-11 (Hermes fact-check lane): the primary text was fetched and read directly from the gabriel-zucman.eu teaching mirror (Mieszkowski72.pdf, JPubE 1(1): 73–96). The paper's "concluding remarks" state the new-view result verbatim: "The principal conclusion of this paper is that the system of property taxes imposed by local governments decreases the overall return to capital by the average rate of tax in the nation as a whole" (p. 94) — the same sentence continues that local tax-rate differences relative to the national mean change the supply price of capital across cities — confirming both the average-burden-on-capital ("profits tax") result and the local-differential excise mechanism (capital reallocation influencing "site values and the returns to other imperfectly mobile factors"). One nuance to record: the body of the paper explicitly *brackets* the pure land/site-rent-tax incidence question ("we exclude from consideration the question of whether taxes on site rents are borne by the owners of land … the incidence of taxes on urban land rents remains an unsettled question"), affirming full landowner incidence specifically for the fixed-supply case ("For the case of a developed city it is unlikely that a land tax will have much of an impact on the supply of land in urban use, and a land tax will be borne by the owners of land"). The page's "land borne entirely by landowners" framing is therefore accurate under Mieszkowski's fixed-supply assumption but is slightly stronger than the paper's own hedged treatment of the general case — the Nuances section already flags this. A future editor may add exact page numbers for the average/differential decomposition sections.]

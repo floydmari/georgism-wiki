@@ -4,7 +4,7 @@ category: people
 tags: [people, l-d-taylor, vancouver, british-columbia, single-tax, mayor]
 stub: false
 excerpt: "Louis Denison ('L.D.') Taylor, multi-term mayor of Vancouver (1910–1934) and single-tax advocate who presided over the city's land-only municipal tax system and its brief era of international celebrity."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ The early years of Taylor's mayoralty and the land-only tax coincided with a pro
 
 ## Political Legacy and the Long Rollback
 
-Taylor's single-tax policy did not survive intact after his era. Vancouver's exemption of improvements was phased out gradually over roughly six and a half decades: buildings were assessed at zero percent of the land rate through the policy's early years, taxed at 50 percent of the land rate from 1919–1969, raised to 75 percent from 1969–1984, and finally brought to full parity with land after 1984.[2] Economist [Christopher England](/wiki/christopher-england/) argues the retreat is best explained by Mancur Olson's logic of collective action: property owners, as a comparatively small and well-organized group with a direct financial stake in tax policy, were able to out-organize the more diffuse group of renters and prospective buyers who benefited from land-only taxation, producing a decades-long "tax revolt" that shifted the burden back onto buildings — and, over time, onto tenants — as home-ownership rates rose.[2] [CITATION NEEDED: Taylor's role (if any) in resisting or responding to the early stages of the rollback during his later mayoral terms — the wiki's sources do not address this directly]
+Taylor's single-tax policy did not survive intact after his era. Vancouver's exemption of improvements was phased out gradually over roughly six and a half decades: buildings were assessed at zero percent of the land rate through the policy's early years, taxed at 50 percent of the land rate from 1919–1969, raised to 75 percent from 1969–1984, and finally brought to full parity with land after 1984.[2] Economist [Christopher England](/wiki/christopher-england/) argues the retreat is best explained by Mancur Olson's logic of collective action: property owners, as a comparatively small and well-organized group with a direct financial stake in tax policy, were able to out-organize the more diffuse group of renters and prospective buyers who benefited from land-only taxation, producing a decades-long "tax revolt" that shifted the burden back onto buildings — and, over time, onto tenants — as home-ownership rates rose.[2] Taylor's own role, if any, in resisting or responding to the early stages of the rollback during his later mayoral terms is not addressed directly by the wiki's sources.
 
 ## Provincial Influence
 

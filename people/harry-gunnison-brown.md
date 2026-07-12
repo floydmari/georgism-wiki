@@ -6,7 +6,7 @@ stub: true
 born: 1880
 died: 1975
 excerpt: "American economist (1880–1975) who argued for land value taxation from inside orthodox neoclassical economics for over five decades at Yale and the University of Missouri, drawing praise from Paul Samuelson as one of a handful of 'American saints in economics.'"
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -28,4 +28,4 @@ Unlike many Georgist writers who worked outside the academic mainstream, Brown m
 1. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994) — used for the framing of Brown as an academic economist who defended Georgist land theory against a profession that had marginalized it. [wiki summary](/wiki/the-corruption-of-economics/)
 2. Wikipedia, "Harry Gunnison Brown" — used for biographical facts (birth/death dates and places, education, career timeline at Yale and University of Missouri, the Samuelson "American saints" characterization). [en.wikipedia.org/wiki/Harry_Gunnison_Brown](https://en.wikipedia.org/wiki/Harry_Gunnison_Brown)
 
-[CITATION NEEDED: Primary-source confirmation of the exact wording and context of Paul Samuelson's "American saints in economics" remark, and a fuller bibliography of Brown's major works (e.g., *The Economics of Taxation*, 1924) with page-level citations.]
+**Verification note.** Primary-source confirmation of the exact wording and context of Paul Samuelson's "American saints in economics" remark was not obtained this pass; the characterization is drawn from Wikipedia, which lists Brown alongside Allyn Abbott Young, Henry Ludwell Moore, Wesley Clair Mitchell, Frank Knight, Jacob Viner, and Henry Schultz as the economists born after 1860 whom Samuelson so named. A fuller bibliography of Brown's major works (e.g., *The Economics of Taxation*, 1924) with page-level citations also remains to be added.

@@ -10,7 +10,7 @@ scanned_by: T1 (owner-supplied copy, 2026-07-06)
 scan_date: 2026-07-06
 stub: false
 excerpt: "Phillip J. Anderson's 16-page advocacy eBook (Property Sharemarket Economics, ©2024, distributed free via citdiv.org): the Crown Estate as the model for collecting all economic rent through a politically insulated special-purpose vehicle and returning it as a citizen's dividend, replacing all taxes. Advocacy source — its claims are its own."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
 ---
 
 ## What It Is
@@ -23,8 +23,8 @@ Property Sharemarket Economics), distributed via his
 program statement behind the site: collect society's
 [economic rent](/wiki/economic-rent/) through a **special-purpose vehicle
 (SPV)** modeled on the UK **Crown Estate**, pay it out as a per-capita
-[citizen's dividend](/wiki/citizens-dividend/), and phase out "all taxes...
-Every single one" (p. 8). **Advocacy source:** cited on this wiki to
+[citizen's dividend](/wiki/citizens-dividend/), and phase out
+"all taxes... Every single one" (p. 8). **Advocacy source:** cited on this wiki to
 represent Anderson's own position (EDITORIAL source-hierarchy class 6), not
 as evidence.
 
@@ -32,8 +32,8 @@ as evidence.
 
 1. **Government as wealth-extractor** (pp. 3–4): a catalogue of state
    corruption and repression (1MDB, Saudi arrests, Chinese censorship) framing
-   the pitch: "eliminating the need for governments, all taxes and all of our
-   paid politicians is really simple to do" (p. 3).
+   the pitch:
+   "eliminating the need for governments, all taxes and all of our paid politicians is really simple to do" (p. 3).
 2. **The Domesday lineage** (pp. 4–6): William the Conqueror's 1086 survey as
    history's model rent assessment; London's aristocratic estates (the
    Grosvenor 500 acres → Mayfair/Belgravia) as the private-capture
@@ -75,11 +75,16 @@ as evidence.
 - **The Great Smoky Mountains study** (pp. 11–12): the eBook's account of the
   Cherokee casino-dividend natural experiment (better schooling, less crime,
   fewer mental-health problems, poorest children benefiting most) matches the
-  published literature's findings in direction; the underlying study is a
-  genuine research-page candidate for the dividends outcome — queued in
-  BACKLOG. [CITATION NEEDED: the primary study (Duke-team longitudinal
-  analysis of the Eastern Band of Cherokee casino payments) — acquire and
-  verify before citing specifics anywhere but this book summary.]
+  direction of the published literature. The Great Smoky Mountains Study of
+  Youth tracked the Eastern Band of Cherokee before and after 1996 casino
+  per-capita distributions began: the foundational finding is Costello,
+  Compton, Keeler & Angold, "Relationships Between Poverty and Psychopathology:
+  A Natural Experiment," *JAMA* 290(15) (2003): 2023–2029, and the economics
+  quasi-experiment on income and child outcomes is Akee, Copeland, Keeler,
+  Angold & Costello, "Parents' Incomes and Children's Outcomes: A
+  Quasi-experiment Using Transfer Payments from Casino Profits," *American
+  Economic Journal: Applied Economics* 2(1) (2010): 86–115. A dedicated
+  research page for the dividends outcome remains queued in BACKLOG.
 - **"No paid politicians" (Switzerland):** the eBook corrects its own claim in
   a footnote — Swiss parliamentarians are compensated (p. 16). Reported here
   as the eBook states it.
@@ -120,3 +125,14 @@ models) — a useful, honest specimen of the persuasive case.
    eBook's quoted resource-rents conclusion (advocacy, attributed; already on
    the registry via [Geoism](/wiki/geoism/)).
    [PDF](https://www.prosper.org.au/wp-content/uploads/2013/12/TRRA_2013_final.pdf)
+3. E. Jane Costello, Scott N. Compton, Gordon Keeler & Adrian Angold (2003),
+   "Relationships Between Poverty and Psychopathology: A Natural Experiment,"
+   *JAMA* 290(15): 2023–2029. DOI 10.1001/jama.290.15.2023 — used to identify
+   the foundational Great Smoky Mountains / Eastern Band of Cherokee
+   casino-dividend natural experiment behind the eBook's account.
+4. Randall K. G. Akee, William E. Copeland, Gordon Keeler, Adrian Angold &
+   E. Jane Costello (2010), "Parents' Incomes and Children's Outcomes: A
+   Quasi-experiment Using Transfer Payments from Casino Profits," *American
+   Economic Journal: Applied Economics* 2(1): 86–115. DOI 10.1257/app.2.1.86.
+   [AEA](https://www.aeaweb.org/articles?id=10.1257/app.2.1.86) — used for the
+   income/child-outcomes quasi-experimental finding the eBook summarizes.

@@ -5,10 +5,14 @@ claim_type: benefit
 tags: [outcomes, speculation, land-cycle, holding-cost, lvt]
 stub: false
 evidence_strength: "Moderate (strong theory; suggestive empirics)"
-supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land]
+supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land, kuminoff-pope-land-boom-bust]
 excerpt: "By imposing an annual cost on holding land, LVT reduces the incentive to hold sites idle for speculative gain — shrinking the booms and busts of the land cycle."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — By imposing an annual carrying cost on holding land idle, a land value tax is expected to dampen speculative land holding — a mechanism with strong theoretical grounding and suggestive but not yet definitive empirical support.
+> **Evidence:** Moderate (strong theory; suggestive empirics) · **8 supporting** sources · **0 challenging**
+> **Strongest support:** [Cunningham (2006)](/wiki/cunningham-seattle-options/) — vacant Seattle land is priced and held as a real option on appreciation, exactly the option value an annual land tax erodes. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 
@@ -26,6 +30,7 @@ The supporting studies divide into three tiers, and it matters which claim each 
 - [Hoyt (1933)](/wiki/hoyt-chicago-land-values/) documents a century of recurring boom-bust rhythm in Chicago land values — the founding empirical study of the land cycle.
 - [Glaeser (2013)](/wiki/glaeser-real-estate-bubbles/) traces speculative real-estate episodes across US history from a mainstream, non-Georgist standpoint.
 - [Case & Shiller (2003)](/wiki/case-shiller-2003-bubble/) measure the speculative-expectations mechanism directly in homebuyer surveys (double-digit annual price expectations at the bubble's peak).
+- [Kuminoff & Pope (2013)](/wiki/kuminoff-pope-land-boom-bust/) decompose over a million sales across ten metros hedonically and find low-value fringe land — not structures — was the most volatile component of home prices through the 2000s boom and bust: price volatility is predominantly a land phenomenon.
 
 **2. The carrying-cost mechanism** (theory and micro-evidence that holding costs change speculative behaviour):
 - [Cunningham (2006)](/wiki/cunningham-seattle-options/) shows vacant Seattle land is priced and held as a real option on future appreciation — exactly the option value an annual land tax erodes.
@@ -42,7 +47,7 @@ Harrison (1983) presents Australian state-level data as a natural experiment in 
 The data suggest that taxing buildings (as NAV does) penalises construction and encourages speculative land holding, while taxing land alone (SVR) pushes owners to develop or sell — consistent with the carrying-cost mechanism the narrative predicts. This is comparative observational evidence rather than a randomised trial, but the direction and magnitude are substantial.
 
 **5. The Danish municipal boundary natural experiment** (Doucet, Ch. 20):
-In 2007, Denmark redrew all municipal boundaries, causing a semi-random shuffling of LVT rates across approximately 250 areas — an exogenous trigger independent of local politics or land markets. [Høj, Jørgensen & Schou (2017)](/wiki/dors-land-taxes-housing-prices/) — the DØRS study the wiki carries directly — found that LVT is **fully capitalized** into property prices: the selling price of land falls proportionately to how much land income is taxed away. The capitalization finding's primary home on this wiki is the [landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) outcome; its relevance here is that full capitalization directly reduces the speculative resale value of land — the channel through which dampened speculation operates. Doucet surveys 13+ additional studies, with 12 supporting full capitalization (Doucet, *Land is a Big Deal*, Ch. 20). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+In 2007, Denmark redrew all municipal boundaries, causing a semi-random shuffling of LVT rates across approximately 250 areas — an exogenous trigger independent of local politics or land markets. [Høj, Jørgensen & Schou (2017)](/wiki/dors-land-taxes-housing-prices/) — the DØRS study the wiki carries directly — found that LVT is **fully capitalized** into property prices: the selling price of land falls proportionately to how much land income is taxed away. The capitalization finding's primary home on this wiki is the [landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) outcome; its relevance here is that full capitalization directly reduces the speculative resale value of land — the channel through which dampened speculation operates. Doucet surveys 13+ additional studies, with 12 supporting full capitalization (Doucet, *Land is a Big Deal*, Ch. 20). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/). This capitalization channel is not uncontested: a second Danish quasi-experiment, [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/), estimates "a precise zero effect of land taxes on residential home prices" and rules out full capitalization — so the strength of the capitalize-away-the-speculative-premium mechanism is genuinely in dispute even within Denmark. And where capitalization does operate, it can be blunted by poor assessment: [Tubío-Sánchez & Reyes-Bueno (2026)](/wiki/tubio-reyes-loja-ecuador-lvt/) find in Loja, Ecuador that "systematic underassessment in rapidly appreciating areas" undermines the tax's intended price-stabilizing (anti-speculation) effect — a reminder that the anti-speculation case depends on current-value assessment.
 
 ## Strength of Evidence
 
@@ -59,6 +64,8 @@ In 2007, Denmark redrew all municipal boundaries, causing a semi-random shufflin
 - [Victoria's SVR vs NAV rating comparison (1966–78)](/wiki/victoria-svr-nav-comparison/) — the Australian natural-experiment case page
 - [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — the 19th-century land-value-financing case that pressured speculative holdings to develop or sell
 - [Split-Rate Taxation Increases Construction](/wiki/split-rate-increases-construction/) — the companion outcome page with the same Australian data
+- [Tubío-Sánchez & Reyes-Bueno (2026)](/wiki/tubio-reyes-loja-ecuador-lvt/) — Ecuadorian evidence that underassessment blunts a land tax's price-stabilizing effect
+- [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — the Danish precise-zero-capitalization finding that disputes the capitalization channel
 
 ## Sources
 

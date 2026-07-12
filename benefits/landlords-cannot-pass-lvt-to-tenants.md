@@ -5,11 +5,15 @@ claim_type: benefit
 tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"
-supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, borge-rattso-norway-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, capozza-green-hendershott-residential-land, mieszkowski-property-tax-incidence, zodrow-three-views, hilber-capitalization-synthesis, doucet-does-georgism-work]
-challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents, feldstein-incidence-pure-rent]
+supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, borge-rattso-norway-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, capozza-green-hendershott-residential-land, mieszkowski-property-tax-incidence, zodrow-three-views, hilber-capitalization-synthesis, doucet-does-georgism-work, buettner-german-land-tax-capitalization, oates-1969-capitalization]
+challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents, feldstein-incidence-pure-rent, nielsson-wroblewski-yding-danish-lvt]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Standard incidence theory is near-unanimous that the land portion of a land value tax falls on the landowner rather than tenants, and the capitalization evidence supports it — but direct rental-market measurement is thinner and the Danish quasi-experiments disagree on magnitude, so the empirical case is supportive rather than settled.
+> **Evidence:** Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner) · **12 supporting** sources · **4 challenging**
+> **Strongest support:** [DØRS (2018)](/wiki/dors-land-taxes-housing-prices/) — the closest direct test of land-tax incidence finds full capitalization of future land taxes into house prices, with the burden landing on owners at the time of the change. **Strongest counter:** [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — a second Danish quasi-experiment estimates a precise zero effect on home prices and reads incidence as shared with tenants, so even in Denmark the magnitude is disputed.
 
 ## The Claim
 
@@ -112,12 +116,19 @@ caveats a fair reader should know:
   survives because it concerns the **land** component — where theory is unanimous
   and the Danish land-tax evidence points — not because the property-tax record is
   clean. Anyone quoting this page should preserve that distinction.
-- **The land-specific empirical base is one strong study.** The
+- **The land-specific empirical base is small — and now two-sided.** The
   [Danish capitalization result](/wiki/dors-land-taxes-housing-prices/) is
-  well-identified but single-country; replications in other land-taxing
-  jurisdictions (Estonia, Taiwan, Pennsylvania land rates) would materially
-  strengthen the outcome. [CITATION NEEDED: additional quasi-experimental
-  land-tax-specific incidence studies.]
+  well-identified but single-country. A second land-tax-specific test agrees:
+  [Buettner (2003)](/wiki/buettner-german-land-tax-capitalization/) finds German
+  municipal land-tax rates capitalize fully into land prices while leaving
+  monthly rents unaffected. But a 2024 Danish quasi-experiment cuts the other
+  way: [Nielsson, Wroblewski & Yding](/wiki/nielsson-wroblewski-yding-danish-lvt/)
+  estimate a *precise zero* effect of land taxes on residential home prices on
+  the same national setting as the DØRS study, rule out full capitalization, and
+  read the incidence as "shared with tenants and future purchasers" — a direct
+  challenge that has yet to be reconciled with the earlier Danish result.
+  Replications in other land-taxing jurisdictions (Estonia, Taiwan,
+  Pennsylvania land rates) would materially settle the question.
 - **Short-run frictions are real.** The inelastic-supply argument is a long-run
   equilibrium claim; in the short run individual landlords may attempt pass-through
   in tight markets, and the theory says competition unwinds it, not that no tenant

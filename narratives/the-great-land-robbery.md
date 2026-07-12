@@ -8,7 +8,7 @@ narrative_type: historical
 supported_by: [capital-share-rise-is-land]
 related_people: [henry-george, alfred-russel-wallace, leo-tolstoy]
 related_places: []
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
 ---
 
 *A note on the title: "The Great Land Robbery" is most prominently used today as the
@@ -102,10 +102,18 @@ enough to matter — is well documented:
   George's Captain Kidd answer (continuing appropriation needs no living
   culprit[1]) persuades committed audiences while conceding nothing to the
   purchaser — which is exactly why modern deployment leads with phase-ins instead.
-- **No quantitative bridge.** The wiki has no study linking historical
-  dispossession intensity to present rent concentration — the narrative's implicit
-  empirical claim. [CITATION NEEDED: empirical work connecting historical land
-  takings to contemporary land-wealth distribution.]
+- **The quantitative bridge is partial and cuts both ways.** For the US Black
+  land-loss case, Francis, Hamilton, Mitchell, Rosenberg and Stucki estimate the
+  present, compounded value of Black agricultural land lost between 1920 and 1997
+  at roughly $326 billion — a taking priced in today's wealth terms.[10] But the
+  cleanest natural experiment on the *persistence* side complicates the bridge:
+  Bleakley and Ferrie's study of Georgia's 1832 Cherokee land lottery (land seized
+  from the Cherokee and randomly allocated to white settlers) finds the winners'
+  large wealth windfall had faded among their grandchildren, suggesting one-time
+  land transfers do not mechanically propagate into permanent descendant
+  advantage.[11] No study yet links dispossession intensity to present *rent
+  concentration* generally — the narrative's strongest implicit claim remains
+  unquantified.
 
 ## Counter-Arguments and Georgist Responses
 
@@ -203,7 +211,7 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 - **Handle indigenous and Black land claims with care.** Name them, source them,
   and do not conscript them: rent capture is not land back, and the wiki's
   credibility with justice audiences depends on not blurring that line.[6]
-- **Always pair with the transition answer.** The innocent-purchaser reply will
+- **Pair it with the transition answer, every time.** The innocent-purchaser reply will
   come; have the [phase-in design](/wiki/lvt-transition-wealth-shock/) ready
   before the moral claim, not after.
 - **Pairing.** Follows [The Unearned Increment](/wiki/unearned-increment-narrative/)
@@ -270,3 +278,14 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
    1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the Land Tax
    analysis of small landholder disappearance and enclosure's social transformation
    (A/B-claims). [Book page](/wiki/commoners-neeson/)
+10. Dania V. Francis, Darrick Hamilton, Thomas W. Mitchell, Nathan A. Rosenberg &
+    Bryce Wilson Stucki, "Black Land Loss: 1920−1997," *AEA Papers and
+    Proceedings* 112 (2022): 38–42. [DOI](https://doi.org/10.1257/pandp.20221015)
+    — used for the ~$326 billion compounded-value estimate of Black agricultural
+    land loss (B-claim).
+11. Hoyt Bleakley & Joseph Ferrie, "Shocking Behavior: Random Wealth in
+    Antebellum Georgia and Human Capital Across Generations," *Quarterly Journal
+    of Economics* 131(3), 2016: 1455–1495. [DOI](https://doi.org/10.1093/qje/qjw014)
+    · [open manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC5436311/) — used
+    for the counter-evidence that the 1832 Cherokee land-lottery windfall did not
+    persist across winners' generations (B-claim, challenge side).

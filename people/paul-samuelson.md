@@ -6,7 +6,7 @@ stub: true
 born: "May 15, 1915, Gary, Indiana"
 died: "December 13, 2009, Belmont, Massachusetts"
 excerpt: "MIT economist and the first American Nobel laureate in economics (1970), whose best-selling textbook Economics (1948–2009) is read by Georgist critics as the main channel through which John Bates Clark's land-into-capital treatment reached generations of students."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -39,8 +39,7 @@ GNP — a figure Harrison, using different accounting, argued was a substantial
 understatement.[4] Both readings are Georgist interpretations of Samuelson's
 influence rather than claims Samuelson himself endorsed; this page does not
 independently verify the specific page citations behind them.
-[CITATION NEEDED: direct edition/page citation from Samuelson's *Economics* for
-the rent-share-of-GNP figure and the "ethical, not economic" characterization.]
+A direct edition/page citation from Samuelson's *Economics* for the rent-share-of-GNP figure and the "ethical, not economic" characterization has not been located; both remain reported via Harrison's account rather than verified against the textbook itself.
 
 ## See Also
 

@@ -1,32 +1,22 @@
 ---
-authors:
-- George J. Miller
+title: "Miller: Dying for Justice"
 category: research
-excerpt: A health-inequality study by epidemiologist George J. Miller that Fred Harrison
-  cites as calculating roughly 50,000 premature deaths a year in England and Wales
-  linked to tax-induced inequality — the strongest quantified mortality claim in the
-  Georgist literature.
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags: [research, health-inequality, mortality, taxation, george-miller, stub]
+authors: [George J. Miller]
+year: 1999
+tier: Supplementary
 source_url: https://www.abebooks.co.uk/9781901202045/Dying-Justice-George-J-Miller-1901202046/plp
 stub: true
-subcategory: wiki-research-lvt
-tags:
-- research
-- health-inequality
-- mortality
-- taxation
-- george-miller
-- stub
-tier: Supplementary
-title: 'Miller: Dying for Justice'
-year: 1999
+excerpt: "A health-inequality study by epidemiologist George J. Miller that Fred Harrison cites as calculating roughly 50,000 premature deaths a year in England and Wales linked to tax-induced inequality — the strongest quantified mortality claim in the Georgist literature."
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
 *Dying for Justice*, by epidemiologist George J. Miller, was published by the Centre for Land Policy Studies (London); bookseller catalogue records give a 1999 publication date (ISBN 978-1-901202-04-5).[1] Fred Harrison's *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (2006) describes the study as calculating that tax-induced economic inequality is associated with roughly **50,000 premature deaths per year in England and Wales**, and states the analysis was submitted to the UK Department of Health and the Treasury.[2] Harrison's account gives the submission date as around 2003, which does not obviously match the 1999 catalogue date for the book itself — it is possible the figure was updated or resubmitted in later work, or that one of the two dates is a citation error; the wiki has not been able to independently verify which. [CITATION NEEDED: primary copy of *Dying for Justice* or the Department of Health/Treasury submission, to confirm the exact publication/submission date and the calculation behind the 50,000 figure]
 
-Miller is also the author of a related, more clearly dated work, *On Fairness and Efficiency: The Privatisation of the Public Income Over the Past Millennium* (Policy Press, 2000), which Harrison cites for the same broader thesis — that privatising publicly-created land rent produces class-based health inequalities via a spatial "north-south" mortality gradient.[2] The two Miller studies together form the empirical core of Harrison's Chapter 8 argument that the distribution of rent, not merely income, drives inequalities in life expectancy.
+Miller is also the author of a related work with a firmer publication date, *On Fairness and Efficiency: The Privatisation of the Public Income Over the Past Millennium* (Policy Press, 2000), which Harrison cites for the same broader thesis — that privatising publicly-created land rent produces class-based health inequalities via a spatial "north-south" mortality gradient.[2] The two Miller studies together form the empirical core of Harrison's Chapter 8 argument that the distribution of rent, not merely income, drives inequalities in life expectancy.
 
 ## See Also
 

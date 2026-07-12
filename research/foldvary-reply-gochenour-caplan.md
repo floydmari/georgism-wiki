@@ -1,29 +1,17 @@
 ---
-authors:
-- Fred Foldvary
-bears_on_objections:
-- search-theoretic-critique
+title: "Reply to the Caplan and Gochenour Critique of Georgism (Foldvary)"
 category: research
-excerpt: 'Foldvary''s peer-reviewed reply to Gochenour & Caplan: the discovery of
-  a natural resource is not its production. Entrepreneurship creates human and capital
-  goods, not the resource itself — so taxing land rent does not tax a produced good,
-  and the search-theoretic critique fails at its premise.'
-last_reviewed: 2026-07-11
+subcategory: wiki-research-housing
+tags: [research, foldvary, austrian-economics, search-theory, land-value-tax, objection-reply, quasi-rent]
+authors: [Fred Foldvary]
+year: 2014
+tier: important
 source_url: https://doi.org/10.1007/s11138-013-0243-7
 stub: false
-subcategory: wiki-research-housing
+excerpt: "Foldvary's peer-reviewed reply to Gochenour & Caplan: the discovery of a natural resource is not its production. Entrepreneurship creates human and capital goods, not the resource itself — so taxing land rent does not tax a produced good, and the search-theoretic critique fails at its premise."
+last_reviewed: 2026-07-12
 supports_outcomes: []
-tags:
-- research
-- foldvary
-- austrian-economics
-- search-theory
-- land-value-tax
-- objection-reply
-- quasi-rent
-tier: important
-title: Reply to the Caplan and Gochenour Critique of Georgism (Foldvary)
-year: 2014
+bears_on_objections: [search-theoretic-critique]
 ---
 
 ## Summary
@@ -32,7 +20,7 @@ year: 2014
 
 The reply attacks the critique at its **premise** rather than its policy conclusion. Gochenour and Caplan argue that what looks like a costless land rent is really the reward for costly *discovery* — mineral prospecting, testing a site's buildability, learning an area's future desirability — so a 100% land value tax captures the return to that discovery at a 100% marginal rate, and search stops. Foldvary's counter is that this treats *discovery* as if it were *production*, and it is not: finding a resource that nature already put there is categorically different from making a new capital good. If the resource pre-exists the search, then taxing its rent does not tax anything the searcher produced.
 
-**Note on sourcing.** The full text of the reply is paywalled at Springer and, as of this writing, no open-access copy could be located (checked: Springer, its Wayback capture, IDEAS/RePEc, ResearchGate, Dialnet — all abstract-only; no copy on Foldvary's archived personal site or SJSU ScholarWorks). This page is therefore built on the **verbatim published abstract** (quoted below), the article's **complete reference list** (visible on the Springer/RePEc records), the verified bibliographic facts, and the fully-read critique it answers. Section-level arguments beyond the abstract are not reconstructed here; where the reference list lets us infer the reply's intellectual scaffolding, that inference is flagged as such. A future editor with institutional access should mine the body and deepen this page. [CITATION NEEDED: the paywalled full text of Foldvary's reply — its section-level counter-arguments.]
+**Note on sourcing.** The full text of the reply is paywalled at Springer and, as of this writing, no open-access copy could be located (checked: Springer, its Wayback capture, IDEAS/RePEc, ResearchGate, Dialnet — all abstract-only; no copy on Foldvary's archived personal site or SJSU ScholarWorks). This page is therefore built on the **verbatim published abstract** (quoted below), the article's **complete reference list** (visible on the Springer/RePEc records), the verified bibliographic facts, and the fully-read critique it answers. Section-level arguments beyond the abstract are not reconstructed here; where the reference list lets us infer the reply's intellectual scaffolding, that inference is flagged as such. A future editor with institutional access to the paywalled full text should mine the body's section-level counter-arguments and deepen this page.
 
 ## Key Findings
 
@@ -46,7 +34,7 @@ Three load-bearing distinctions follow from that text:
 
 - **Discovery ≠ production.** The critique's whole force depends on reclassifying revealed land value as a produced good (a Marshallian [quasi-rent](/wiki/quasi-rent/) rewarding the discovery activity). Foldvary denies the reclassification: the searcher *discovers* a value nature supplied; he does not *create* it. Taxing that value is therefore not taxing a produced good.
 - **Entrepreneurship creates human and capital goods — not the resource.** The return to prospecting is a return to the labour, skill, and capital deployed in searching; those are legitimately private and are *not* what a land value tax targets. The [land value tax](/wiki/land-value-tax/) falls on the pre-existing site/resource value, which Foldvary holds is analytically separable from the discovery effort. (This is the standard Georgist reply that improvements and search labour are exempt while the raw site value is not.)
-- **"There is no such thing as natural resources" is the premise Foldvary rejects.** He reads Gochenour and Caplan as committed — via their "all goods are produced" move — to the claim that nothing is a natural resource at all, and treats that as a reductio: the position proves too much.
+- **"There is no such thing as natural resources" is the premise Foldvary rejects.** He reads Gochenour and Caplan as committed — via their "all goods are produced" move — to the claim that nothing is a natural resource at all, and treats that as a reductio ad absurdum: the position would rule out treating anything as a natural resource.
 
 **What the reference list reveals about the argument's scaffolding.** The reply's bibliography (verified on the Springer and RePEc records) shows Foldvary anchoring the rebuttal in the older **Frank Knight vs. Henry George** debate, of which the search-theoretic critique is a modern descendant. He cites Knight's 1924 "Some fallacies in the interpretation of social cost," Emmett's 2008 "Frank H. Knight's Criticism of Henry George," and Tideman & Plassmann's "Knight: Nemesis from the Chicago School" (in Andelson's *Critics of Henry George*, 2004). He grounds the value-theory side in **Carl Menger's** *Principles of Economics* (1871) — the Austrian account of goods and their origin — consistent with arguing that a thing's *character as a resource* is not something an entrepreneur manufactures. He also cites Silagi's 1984 study of the Kiaochow (China) land-tax reform and his own *Public Goods and Private Communities* (1994). [INFERENCE from the reference list, not the paywalled body: the reply situates Caplan–Gochenour as heirs to Knight's capital-theoretic objection and answers on Mengerian value-theory grounds.]
 

@@ -1,28 +1,17 @@
 ---
-authors:
-- Riël Franzsen
-- William McCluskey
+title: "Property Tax in Africa: Status, Challenges, and Prospects"
 category: research
-excerpt: The first comprehensive study of recurrent property taxation across Africa
-  — 29 country reviews showing the tax is efficient in theory but severely constrained
-  by valuation, identification, and enforcement capacity.
-last_reviewed: 2026-07-04
+subcategory: wiki-research-urban
+tags: [research, africa, property-tax, lincoln-institute, administration, valuation, developing-countries]
+authors: [Riël Franzsen, William McCluskey]
+year: 2017
+tier: Important
 source_url: https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/property-tax-in-africa-full_1.pdf
 stub: false
-subcategory: wiki-research-urban
-supports_outcomes:
-- property-tax-raises-welfare-developing
-tags:
-- research
-- africa
-- property-tax
-- lincoln-institute
-- administration
-- valuation
-- developing-countries
-tier: Important
-title: 'Property Tax in Africa: Status, Challenges, and Prospects'
-year: 2017
+excerpt: "The first comprehensive study of recurrent property taxation across Africa — 29 country reviews showing the tax is efficient in theory but severely constrained by valuation, identification, and enforcement capacity."
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-invites-assessment-corruption]
+supports_outcomes: [property-tax-raises-welfare-developing]
 ---
 
 ## Summary
@@ -64,6 +53,7 @@ The book should **not** be read as evidence that raising rates increases welfare
 
 ## See Also
 
+- [Bergeron, Tourek & Weigel (2024): The State Capacity Ceiling](/wiki/bergeron-tourek-weigel-drc-property-tax/) — the randomized DRC tax-rate experiment showing enforcement capacity binds property-tax rates in low-capacity settings
 - [Brockmeyer et al., Taxing Property in Developing Countries](/wiki/brockmeyer-property-tax-developing/)
 - [IMF, Taxing Immovable Property](/wiki/imf-taxing-immovable-property/)
 - [World Bank, Determinants of Property Tax Revenue](/wiki/world-bank-property-tax-determinants/)

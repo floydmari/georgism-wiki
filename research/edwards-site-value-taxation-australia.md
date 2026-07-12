@@ -1,24 +1,16 @@
 ---
-authors:
-- Mary E. Edwards
+title: "Edwards (1984): Site Value Taxation in Australia"
 category: research
-excerpt: Regression study of Australian local-government site-value rating (1951/52-1974/75)
-  finding that jurisdictions taxing land more and improvements less have significantly
-  higher average new-house values and a larger housing stock.
-last_reviewed: 2026-07-11
-source_url: https://www.jstor.org/stable/3486127
-stub: true
 subcategory: wiki-research-lvt
-tags:
-- research
-- site-value-tax
-- australia
-- empirical
-- property-tax
-- stub
-tier: Supplementary
-title: 'Edwards (1984): Site Value Taxation in Australia'
+tags: [research, site-value-tax, australia, empirical, property-tax, stub]
+authors: [Mary E. Edwards]
 year: 1984
+source_url: https://www.jstor.org/stable/3486127
+tier: Supplementary
+stub: true
+supports_outcomes: [split-rate-increases-construction]
+excerpt: "Regression study of Australian local-government site-value rating (1951/52-1974/75) finding that jurisdictions taxing land more and improvements less have significantly higher average new-house values and a larger housing stock."
+last_reviewed: 2026-07-12
 ---
 
 ## Summary

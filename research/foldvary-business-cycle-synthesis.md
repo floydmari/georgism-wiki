@@ -1,27 +1,17 @@
 ---
-authors:
-- Fred E. Foldvary
+title: "The Business Cycle: A Georgist-Austrian Synthesis"
 category: research
-excerpt: Foldvary's 1997 paper fuses Georgist land-speculation theory with Austrian
-  capital-structure theory into a single ~18-year real-estate cycle model — and, on
-  that model, predicted a major bust 'around 2008.'
-last_reviewed: 2026-07-03
+subcategory: wiki-research-housing
+tags: [research, foldvary, business-cycle, land-cycle, austrian-economics, speculation, forecasting]
+authors: [Fred E. Foldvary]
+year: 1997
+tier: important
 source_url: https://www.jstor.org/stable/3487330
 stub: false
-subcategory: wiki-research-housing
-supports_outcomes:
-- lvt-dampens-land-speculation
-tags:
-- research
-- foldvary
-- business-cycle
-- land-cycle
-- austrian-economics
-- speculation
-- forecasting
-tier: important
-title: 'The Business Cycle: A Georgist-Austrian Synthesis'
-year: 1997
+excerpt: "Foldvary's 1997 paper fuses Georgist land-speculation theory with Austrian capital-structure theory into a single ~18-year real-estate cycle model — and, on that model, predicted a major bust 'around 2008.'"
+last_reviewed: 2026-07-12
+bears_on_objections: [bubbles-cannot-be-identified-in-advance, government-can-tame-the-cycle]
+supports_outcomes: [lvt-dampens-land-speculation]
 ---
 
 ## Summary

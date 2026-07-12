@@ -6,7 +6,7 @@ stub: true
 born: "March 6, 1926, New York City"
 died: "June 22, 2026, Washington, D.C."
 excerpt: "Chairman of the US Federal Reserve, 1987-2006, whose tenure spanned the dot-com and housing bubbles; a central figure in the Georgist critique that monetary policy alone cannot manage land-driven boom-bust cycles."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -27,5 +27,5 @@ Georgist writers, notably [Fred Harrison](/wiki/fred-harrison/) in *Boom Bust* (
 1. Federal Reserve History, "Alan Greenspan." [federalreservehistory.org](https://www.federalreservehistory.org/people/alan-greenspan) — used for appointment dates, tenure length, and pre-Fed career.
 2. NPR, "Alan Greenspan, the legendary former Federal Reserve chair, dies" (June 22, 2026). [npr.org](https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies) — used for date, place, cause of death, and age.
 3. CNBC, "Greenspan Concedes That the Fed Failed to Gauge the Bubble" (March 18, 2010). [cnbc.com](https://www.cnbc.com/2010/03/18/greenspan-concedes-that-the-fed-failed-to-gauge-the-bubble.html) — used for the post-crisis concession and the 2005 "froth" remarks.
-4. Fred Harrison (2005), *[Boom Bust: House Prices, Banking and the Depression of 2010](/wiki/harrison-boom-bust/)*, Ch. 4, 8, 15 — discovery source; used for Harrison's framing of Greenspan as the central figure of Part I and his account of Greenspan's denial that bubbles are identifiable in advance. [CITATION NEEDED: direct page citations — this stub draws on the wiki's existing discovery-report summary of the book rather than a fresh read of these chapters.]
+4. Fred Harrison (2005), *[Boom Bust: House Prices, Banking and the Depression of 2010](/wiki/harrison-boom-bust/)*, Ch. 4, 8, 15 — discovery source; used for Harrison's framing of Greenspan as the central figure of Part I and his account of Greenspan's denial that bubbles are identifiable in advance. Direct page citations are not yet supplied; this stub draws on the wiki's existing discovery-report summary of the book rather than a fresh read of these chapters.
 5. CNN, "Knighthood for Fed's Greenspan" (September 26, 2002). [edition.cnn.com](https://edition.cnn.com/2002/WORLD/europe/09/26/greenspan.knighthood/) — used to confirm Greenspan's honorary UK knighthood "for his contribution to global economic stability."

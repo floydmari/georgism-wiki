@@ -80,6 +80,7 @@ TAG_IDS = {
     "stub":               "6a232c42819cc700017226be",
     "wiki-books":         "6a4affad6c64fd00014cae89",
     "wiki-texts":         "6a4b01d76c64fd00014cb22a",
+    "wiki-guides":        "6a53d2f28f5d6d0001cffc54",
     # ─── wiki-research sub-categories (added 2026-07-12) ───────────────
     "wiki-research-lvt":        "6a53badc8f5d6d0001cff916",
     "wiki-research-housing":    "6a53badc8f5d6d0001cff918",
@@ -104,6 +105,7 @@ CATEGORY_TAG = {            # folder -> category tag slug (ID looked up from TAG
     # books: create a 'wiki-books' tag in Ghost admin, then add its ID to TAG_IDS
     # above — _tag() raises loudly until then, so books pages can't half-publish.
     "books":         "wiki-books",
+    "guides":        "wiki-guides",
     # texts: create a 'wiki-texts' tag in Ghost admin, then add its ID to TAG_IDS.
     "texts":         "wiki-texts",
 }

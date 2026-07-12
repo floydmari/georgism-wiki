@@ -7,7 +7,12 @@ stub: false
 evidence_strength: "Strong (large, consistent empirical literature)"
 supported_by: [gibbons-machin-rail-access, mohammad-rail-meta-analysis, oates-1969-capitalization, albouy-what-are-cities-worth, arnott-stiglitz-henry-george-theorem]
 excerpt: "Transit lines, parks, and public services raise the value of nearby land — the empirical foundation for the Henry George Theorem and land value capture."
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Public investments such as transit stations reliably raise nearby land values — capitalization is among the most robust and replicated findings in urban economics.
+> **Evidence:** Strong (large, consistent empirical literature) · **5 supporting** sources · **0 challenging**
+> **Strongest support:** [Gibbons & Machin (2005)](/wiki/gibbons-machin-rail-access/) — homes gaining rail-station access from London's rail expansions rose in value relative to unaffected areas. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

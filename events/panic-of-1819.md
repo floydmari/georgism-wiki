@@ -4,7 +4,7 @@ category: events
 tags: [events, panic-of-1819, land-speculation, boom-bust-cycle, 18-year-land-cycle, rothbard, stub]
 stub: true
 excerpt: "A postwar cotton-and-public-land speculative boom collapsed when the Second Bank of the United States curtailed credit in 1818, triggering the Panic of 1819 — America's first widespread financial crisis and the earliest node in the Georgist 18-year land-cycle chronology."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -33,4 +33,4 @@ Mainstream economic-historical accounts of the Panic of 1819 emphasize global po
 4. Akhil Patel, *The Secret Wealth Advantage* (2023), Prologue — discovery source book; used for the Panic of 1819 as the opening anchor of Patel's land-cycle survey (per this wiki's discovery notes on the book).
 5. Edward L. Glaeser, "A Nation of Gamblers: Real Estate Speculation and American History," *American Economic Review* 103(3), 2013, pp. 1–42 ([DOI: 10.1257/aer.103.3.1](https://doi.org/10.1257/aer.103.3.1)); circulated as [NBER Working Paper 18825](https://www.nber.org/papers/w18825) (full-text PDF read directly for the quotations here, pp. 12–16). A mainstream, non-Georgist economic history that makes the 1818–19 Alabama cotton-land boom and the Panic of 1819 a central case study, providing quantified land-price figures and a direct assessment of the land boom's causal role. Cross-referenced on this wiki: [A Nation of Gamblers (Glaeser)](/wiki/glaeser-real-estate-bubbles/).
 
-`[VERIFY: this page was drafted from Wikipedia and Mises Institute web summaries plus this wiki's existing discovery-report notes on the Anderson and Patel books, not a full page-by-page read of either primary source. A future revision should confirm Anderson's Ch. 2 and Patel's Prologue treatment (e.g. exact cotton-price and land-price figures) against the source books directly.]`
+**Sourcing note.** The chronology, land-price figures, and causal assessment on this page rest on the cited Wikipedia, Mises Institute, and (for the quantified Alabama figures and the direct assessment of the boom's causal role) Glaeser sources. The Anderson (Ch. 2) and Patel (Prologue) land-cycle framings are drawn from this wiki's existing discovery-report notes rather than a page-by-page read of either book; a future revision with the primary texts in hand should confirm their exact treatment before any Anderson- or Patel-specific figure is asserted here.

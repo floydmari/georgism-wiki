@@ -9,7 +9,7 @@ tags:
   - optimal-city-size
 stub: false
 excerpt: "Optimal city size is the population at which the marginal benefit of spreading public-goods costs over more residents equals the marginal cost of increased commuting and crowding. At this optimum, the Henry George Theorem holds: aggregate land rent exactly equals optimal public-goods expenditure."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -42,7 +42,7 @@ Arnott's summary verdict: "Does the Henry George Theorem provide a practical gui
 
 ## The Empirical Test: Kanemoto, Ohkawara & Suzuki (1996)
 
-The first — and, per Arnott (2004), still essentially the only — empirical attempt to operationalize the HGT as a real-world test was conducted by [Yoshitsugu Kanemoto, Toru Ohkawara, and Tsutomu Suzuki](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/) in a 1996 paper published in the *Journal of the Japanese and International Economies*.
+The first — and, per Arnott (2004), still essentially the sole — empirical attempt to operationalize the HGT as a real-world test was conducted by [Yoshitsugu Kanemoto, Toru Ohkawara, and Tsutomu Suzuki](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/) in a 1996 paper published in the *Journal of the Japanese and International Economies*.
 
 The authors estimate aggregate production functions for 17 Japanese metropolitan areas to measure agglomeration economies, then test whether Tokyo — then the subject of a national policy debate about relocating the capital — is disproportionately overpopulated relative to other cities. A direct test of the HGT's rent-equals-spending identity is infeasible, they note, because "good land rent data are not available and we have to rely on land price data instead," and Japan's land price/rent ratio was extremely high and volatile (moving from 2.48× GNP in 1970 to 5.35× in 1990).
 
@@ -71,4 +71,4 @@ The practical caveats identified by Arnott (2004) and the provisional, indirect 
 
 1. Richard Arnott & Joseph Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *Quarterly Journal of Economics* 93(4): 471–500. [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf) — used for the canonical derivation of the optimal-city-size condition and the Henry George Theorem.
 2. Richard Arnott (2004), "Does the Henry George Theorem Provide a Practical Guide to Optimal City Size?" *The American Journal of Economics and Sociology* 63(5): 1057–1090. [JSTOR](https://www.jstor.org/stable/3488064) · [PDF](https://cooperative-individualism.org/arnott-richard_does-the-h-g-theorem-provide-a-practical-guide-2004-nov.pdf) — used for the generalized HGT, practicality caveats (heterogeneity, integer problem, market vs. shadow prices, land heterogeneity), the assessment of Kanemoto et al., and the quotation that George did not anticipate the theorem.
-3. Yoshitsugu Kanemoto, Toru Ohkawara & Tsutomu Suzuki (1996), "Agglomeration Economies and a Test for Optimal City Sizes in Japan," *Journal of the Japanese and International Economies* 10(4): 379–398. [DOI: 10.1006/jjie.1996.0022](https://doi.org/10.1006/jjie.1996.0022) · [Free working-paper PDF](https://www.cirje.e.u-tokyo.ac.jp/research/dp/96/f9/dp.pdf) — used for the empirical Tokyo test, the infeasibility of a direct HGT test, the land-value-to-Pigouvian-subsidy ratio findings, and the authors' conclusion that there is no evidence Tokyo is disproportionately overpopulated.
+3. Yoshitsugu Kanemoto, Toru Ohkawara & Tsutomu Suzuki (1996), "Agglomeration Economies and a Test for Optimal City Sizes in Japan," *Journal of the Japanese and International Economies* 10(4): 379–398. [DOI: 10.1006/jjie.1996.0022](https://doi.org/10.1006/jjie.1996.0022) · [Free working-paper PDF](https://www.cirje.e.u-tokyo.ac.jp/research/dp/96/f9/dp.pdf) — used for the empirical Tokyo test, the infeasibility of a direct HGT test, the land-value-to-Pigouvian-subsidy ratio findings, and the authors' conclusion that the data give no support to Tokyo being disproportionately overpopulated.

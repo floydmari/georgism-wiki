@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, land-pooling, land-readjustment, land-value-capture, urban-planning, india, stub]
 stub: true
 excerpt: "A planning mechanism, widely used across Asia and Germany, in which landowners' parcels are pooled, serviced with infrastructure, reconstituted into smaller plots, and returned — with the state recovering costs from a betterment charge or reserved land sales."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ Researchers Bishwapriya Sanyal and Chandan Deuskar describe Gujarat's TPS as a "
 
 ## Significance for Georgist Analysis
 
-Land pooling is a pragmatic, non-tax route to the same underlying Georgist goal as [land value tax](/wiki/land-value-tax/) or a [betterment levy](/wiki/betterment-levy/): recovering the [unearned increment](/wiki/unearned-increment/) that public planning and infrastructure investment create in land value, rather than letting it accrue entirely to private landowners. It is also, structurally, a solution to the [holdout problem](/wiki/holdout-problem/) that complicates large-scale [land assembly](/wiki/tideman-plassmann-land-assembly/) for development — by making participation compulsory (or, in classic readjustment, requiring only majority consent) it avoids the extortionate bargaining power a single holdout can exercise over site assembly. Critics note that land pooling's reliance on land-market auctions to fund infrastructure, rather than annual taxation of site value, gives it a different fiscal profile from recurrent LVT, and that in the compulsory-participation Gujarat model landowners have less voice than in the consent-based versions used elsewhere. [CITATION NEEDED: a systematic comparative assessment of land pooling's revenue adequacy and equity outcomes relative to annual land value taxation.]
+Land pooling is a pragmatic, non-tax route to the same underlying Georgist goal as [land value tax](/wiki/land-value-tax/) or a [betterment levy](/wiki/betterment-levy/): recovering the [unearned increment](/wiki/unearned-increment/) that public planning and infrastructure investment create in land value, rather than letting it accrue entirely to private landowners. It is also, structurally, a solution to the [holdout problem](/wiki/holdout-problem/) that complicates large-scale [land assembly](/wiki/tideman-plassmann-land-assembly/) for development — by making participation compulsory (or, in classic readjustment, requiring only majority consent) it avoids the extortionate bargaining power a single holdout can exercise over site assembly. Critics note that land pooling's reliance on land-market auctions to fund infrastructure, rather than annual taxation of site value, gives it a different fiscal profile from recurrent LVT, and that in the compulsory-participation Gujarat model landowners have less voice than in the consent-based versions used elsewhere. A systematic comparative assessment of land pooling's revenue adequacy and equity outcomes relative to annual land value taxation has not been identified by this wiki; the fiscal-profile comparison above is analysis from the mechanisms' design features, not a cited empirical finding.
 
 ## See Also
 

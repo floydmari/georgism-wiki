@@ -1,29 +1,16 @@
 ---
-authors:
-- Jan Eeckhout
+title: "The Profit Paradox: How Thriving Firms Threaten the Future of Work"
 category: research
-excerpt: 'Eeckhout''s popular synthesis of his own markups research: rising corporate
-  market power since 1980 has driven up prices and profits while suppressing wages
-  economy-wide, even for workers at firms with no direct market power of their own.'
-last_reviewed: 2026-07-09
+subcategory: wiki-research-housing
+tags: [research, market-power, markups, wages, labor-share, superstar-firms, monopsony, antitrust, popular-economics]
+authors: [Jan Eeckhout]
+year: 2021
+tier: Important
 source_url: https://press.princeton.edu/books/hardcover/9780691214474/the-profit-paradox
 stub: false
-subcategory: wiki-research-housing
-supports_outcomes:
-- corporate-profits-increasingly-rents
-tags:
-- research
-- market-power
-- markups
-- wages
-- labor-share
-- superstar-firms
-- monopsony
-- antitrust
-- popular-economics
-tier: Important
-title: 'The Profit Paradox: How Thriving Firms Threaten the Future of Work'
-year: 2021
+excerpt: "Eeckhout's popular synthesis of his own markups research: rising corporate market power since 1980 has driven up prices and profits while suppressing wages economy-wide, even for workers at firms with no direct market power of their own."
+last_reviewed: 2026-07-12
+supports_outcomes: [corporate-profits-increasingly-rents]
 ---
 
 ## Summary
@@ -66,9 +53,7 @@ a more competitive market would support. Because labor demand is a *derived* dem
 restricting output economy-wide reduces aggregate demand for labor and therefore depresses wages —
 including, importantly, wages at firms that hold no market power of their own, since a slack
 overall labor market pushes down pay everywhere. The book names this mechanism in the title of its
-chapter 4, "A Falling Tide Lowers All Boats": "People are making less mainly because the dominant
-firms around the country are hiring fewer workers, not because those firms are the only player in
-town." Eeckhout treats direct employer-side monopsony power (a dominant local employer suppressing
+chapter 4, "A Falling Tide Lowers All Boats": "People are making less mainly because the dominant firms around the country are hiring fewer workers, not because those firms are the only player in town." Eeckhout treats direct employer-side monopsony power (a dominant local employer suppressing
 pay for its own workers) as real but secondary: "Compared to the overall effect that the tide of
 widespread market power has on wages economy-wide, the evidence that wages have declined because
 of monopsony power of large firms is thus less conclusive" (ch. 4). He uses this distinction to
@@ -117,7 +102,7 @@ antitrust's traditional scope:
   previously repeated here — understates the book's actual proposal, which is more than fifteen
   times current antitrust staffing.)
 - **Selective regulation short of full breakup** for dominant digital platforms, such as
-  interoperability requirements, rather than treating structural breakup as the only remedy.
+  interoperability requirements, rather than treating structural breakup as the sole remedy.
 - **Rethink the scope of intellectual property protection**, on the view that overly broad or
   long-lived IP rights are one channel through which firms entrench market power beyond what
   genuine innovation requires.

@@ -7,8 +7,12 @@ stub: false
 evidence_strength: "Strong (for the cohort trend in UK, US, and OECD data; the geoist reading of it as a land transfer is analytic, not separately tested)"
 supported_by: [corlett-judge-home-affront, oecd-under-pressure-middle-class, kurz-li-vine-are-millennials-different, cribb-hood-hoyle-homeownership, lost-generation-young-families-wealth]
 excerpt: "UK 30-year-olds are half as likely to own a home as their parents were; OECD house prices grew three times faster than median incomes; US millennial net worth ran ~40% below Gen X at the same age. The land under housing is where the generational wealth divide concentrates."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Each cohort since the baby boomers is less likely to own a home at a given age and holds less housing wealth — strongly documented across UK, US, and OECD data — though reading the trend as a land-wealth transfer is an interpretation, not a separately tested result.
+> **Evidence:** Strong (for the cohort trend in UK, US, and OECD data; the geoist reading of it as a land transfer is analytic, not separately tested) · **5 supporting** sources · **0 challenging**
+> **Strongest support:** [Corlett & Judge (2017)](/wiki/corlett-judge-home-affront/) — UK 30-year-olds are only half as likely to own as their parents were, and a deposit now takes 19 years to save versus 3 a generation ago. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

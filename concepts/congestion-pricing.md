@@ -109,6 +109,7 @@ real-world, before-and-after evidence** at city scale.
 
 ## See Also
 
+- [Cook et al. (2025): The Short-Run Effects of Congestion Pricing in New York City](/wiki/cook-nyc-congestion-pricing/) — the first US cordon scheme: CBD speeds +11%, spillover gains to unpriced trips, driver welfare ≥$14.3M/week before revenue
 - [Outcome: Congestion pricing reduces traffic and congestion](/wiki/congestion-pricing-reduces-traffic/) — the evidence-graded verdict
 - [The London Congestion Charge (Leape 2006)](/wiki/leape-london-congestion-charge/) — the standard economist's evaluation of the London case
 - [The Stockholm congestion-charging trial 2006 (Eliasson et al.)](/wiki/eliasson-stockholm-trial-2006/) — the evaluation team's overview of the Stockholm case

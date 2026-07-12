@@ -8,7 +8,7 @@ narrative_type: historical
 supported_by: [capital-share-rise-is-land]
 related_people: [henry-george, christopher-england]
 related_places: []
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
 
 ## What This Page Is — And Is Not
@@ -127,9 +127,13 @@ land-rent channel, but it does not by itself return the $326 billion in compound
 farmland value,[1] nor the equity appreciation denied to redlined-out families. Anyone
 claiming an LVT "closes the racial wealth gap" is overstating a real but limited effect.
 (D-claim; the wiki's own analysis, flagged as such — no source is asserted to have proven
-either the reach or the ceiling of this effect, which remains largely unquantified.
-[CITATION NEEDED: empirical estimate of an LVT-plus-dividend regime's distributional
-effect by race].)
+either the reach or the ceiling of this effect. No published study simulates an
+LVT-plus-dividend regime's distributional effect by race; the closest peer-reviewed
+evidence is on the *status quo*: Avenancio-León and Howard document a nationwide
+"assessment gap" under which, holding jurisdiction and tax rate fixed, Black and
+Hispanic homeowners face a 10–13% higher property-tax assessment ratio than white
+homeowners — showing the racial incidence of land-and-property taxation is real and
+measurable, but not what a Georgist reform of it would deliver.[12])
 
 There is also a framing caution native to the Georgist tradition. Henry George argued in
 universal terms — land monopoly as a wrong done to *everyone* landless — and that
@@ -296,3 +300,10 @@ this page's framing of the distinction.)
     — used for Darity's insistence that only federal cash reparations (trillions) constitute
     full repair and that the wealth gap is the measure of what was taken (D-claim,
     attributed).
+12. Carlos F. Avenancio-León & Troup Howard, "The Assessment Gap: Racial Inequalities in
+    Property Taxation," *Quarterly Journal of Economics* 137(3), 2022: 1383–1434.
+    [DOI](https://doi.org/10.1093/qje/qjac009) ·
+    [author PDF](http://www.trouphoward.com/uploads/1/2/7/7/127764736/avenancio-leon_and_howard_the_assessment_gap_feb_2022.pdf)
+    — used for the 10–13% higher assessment-ratio finding for Black and Hispanic
+    homeowners, cited as the closest empirical evidence on the racial incidence of
+    property taxation (B-claim, peer-reviewed).

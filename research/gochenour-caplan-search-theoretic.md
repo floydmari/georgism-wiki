@@ -1,27 +1,17 @@
 ---
-authors:
-- Zachary Gochenour
-- Bryan Caplan
-bears_on_objections:
-- search-theoretic-critique
+title: "An Entrepreneurial Critique of Georgism (Gochenour & Caplan)"
 category: research
-excerpt: Gochenour & Caplan's peer-reviewed search-theoretic critique argues a 100%
-  tax on unimproved land value destroys the incentive to search for and discover land's
-  hidden value, making the Georgist single tax distortionary rather than neutral.
-last_reviewed: 2026-07-10
+subcategory: wiki-research-resources
+tags: [research, search-theory, land-value-tax, austrian-economics, objection-source]
+authors: [Zachary Gochenour, Bryan Caplan]
+year: 2013
+tier: Important
 source_url: https://link.springer.com/article/10.1007/s11138-013-0218-8
 stub: false
-subcategory: wiki-research-resources
+excerpt: "Gochenour & Caplan's peer-reviewed search-theoretic critique argues a 100% tax on unimproved land value destroys the incentive to search for and discover land's hidden value, making the Georgist single tax distortionary rather than neutral."
+last_reviewed: 2026-07-12
 supports_outcomes: []
-tags:
-- research
-- search-theory
-- land-value-tax
-- austrian-economics
-- objection-source
-tier: Important
-title: An Entrepreneurial Critique of Georgism (Gochenour & Caplan)
-year: 2013
+bears_on_objections: [search-theoretic-critique]
 ---
 
 ## Summary
@@ -56,8 +46,8 @@ Steelmanned, the argument is: Georgist theory treats land's value as a pre-exist
 - **The critique targets 100% rent capture, not land value taxation as such.** The authors state in a footnote that "the distortionary effect remains so long as any of the quasi-rent is appropriated," which is a stronger claim than the headline argument — but the paper's own model and examples are built around the *full* Georgist "single tax," and the authors acknowledge (citing Tideman 1994) that "some modern authors have suggested that something less than a 100% tax on land would be a practical necessity to stimulate investment." The paper does not attempt to quantify how much of currently observed land value is attributable to ongoing "search" versus already-known, static site characteristics (location, existing zoning, existing infrastructure) — a question central to how much the critique bites in practice for already-developed urban land versus frontier/resource land.
 - **The model is illustrative, not empirically calibrated.** There is no attempt to estimate what share of aggregate land value derives from discovery activity subject to this distortion versus location/infrastructure value that is not "discovered" in the paper's sense (e.g., value from a subway line or school district, per the [Henry George Theorem](/wiki/henry-george-theorem/) and [public investment capitalizes into land](/wiki/public-investment-capitalizes-into-land/)). The critique is strongest for natural-resource and novel-use discovery and weakest for land whose value is already public information (e.g., an existing residential lot in a mapped, zoned city).
 - **The paper does not engage with split-rate or partial-LVT literature in depth**, despite citing Tideman's suggestion that sub-100% rates might be practically necessary; it treats this concession as adjacent to, rather than central to, its own argument.
-- **A direct academic reply exists and was also peer-reviewed** — now written up on its own page, [Foldvary's Reply to Caplan & Gochenour](/wiki/foldvary-reply-gochenour-caplan/): Fred Foldvary, "Reply to the Caplan and Gochenour critique of Georgism," *The Review of Austrian Economics* 27(4), 2014, pp. 451–461, published online 18 October 2013 (DOI: [10.1007/s11138-013-0243-7](https://doi.org/10.1007/s11138-013-0243-7)). Foldvary's published abstract states his thesis directly: the reply "refutes the proposition by Caplan and Gochenour that there is no such thing as natural resources because all goods are produced," arguing that "the discovery of a resource does not constitute its production," that "entrepreneurship and investment create human capital and capital goods, not natural resources," and that "Discovery is not the same as invention or production." That is, Foldvary contests the entrepreneurial-discovery reframing of land value itself — the very concession the critique demands in its Section 4.3 ("every bit of information about the potential uses for land could be considered an improvement") — a different line of response from Lars Doucet's practical "partial LVT + discovery subsidy" rebuttal. The reply's full text is paywalled at Springer, and no open-access copy could be located (ResearchGate and IDEAS/RePEc list it abstract-only; SJSU ScholarWorks and Foldvary's archived personal site do not carry it), so its section-level arguments beyond this abstract are not summarized here. [CITATION NEEDED: the paywalled full text of Foldvary's reply — a future editor with institutional access should add its specific counter-arguments to this page or the objection page.]
-- **Regime-uncertainty section is more contested than the search-theoretic core.** The Idi Amin/Uganda example is a case of ethnically targeted expropriation without compensation under a dictatorship, not a case of a legislated, gradual, compensated land value tax reform of the kind actually proposed by Georgists; using it to illustrate the risks of "even incremental Georgist policy" is the paper's most disputable analogical move, and the wiki should flag this as a weaker part of the argument than the core search-theoretic model. Foldvary's reply may engage this historical line — its reference list (visible on the Springer article page) includes Silagi (1984), "Land reform in Kiaochow, China: from 1898 to 1914 the menace of disastrous land speculation was averted by taxation," suggesting Foldvary counters with a historical land-taxation case of his own — but the reply's abstract addresses only the discovery-vs-production argument. [VERIFY: whether later commentary, including the paywalled full text of Foldvary's reply, specifically challenges the Uganda analogy]
+- **A direct academic reply exists and was also peer-reviewed** — now written up on its own page, [Foldvary's Reply to Caplan & Gochenour](/wiki/foldvary-reply-gochenour-caplan/): Fred Foldvary, "Reply to the Caplan and Gochenour critique of Georgism," *The Review of Austrian Economics* 27(4), 2014, pp. 451–461, published online 18 October 2013 (DOI: [10.1007/s11138-013-0243-7](https://doi.org/10.1007/s11138-013-0243-7)). Foldvary's published abstract states his thesis directly: the reply "refutes the proposition by Caplan and Gochenour that there is no such thing as natural resources because all goods are produced," arguing that "the discovery of a resource does not constitute its production," that "entrepreneurship and investment create human capital and capital goods, not natural resources," and that "Discovery is not the same as invention or production." That is, Foldvary contests the entrepreneurial-discovery reframing of land value itself — the very concession the critique demands in its Section 4.3 ("every bit of information about the potential uses for land could be considered an improvement") — a different line of response from Lars Doucet's practical "partial LVT + discovery subsidy" rebuttal. The reply's full text is paywalled at Springer, and no open-access copy could be located (ResearchGate and IDEAS/RePEc list it abstract-only; SJSU ScholarWorks and Foldvary's archived personal site do not carry it), so its section-level arguments beyond this abstract are not summarized here; a future editor with institutional access should add its specific counter-arguments to this page or the objection page.
+- **Regime-uncertainty section is more contested than the search-theoretic core.** The Idi Amin/Uganda example is a case of ethnically targeted expropriation without compensation under a dictatorship, not a case of a legislated, gradual, compensated land value tax reform of the kind actually proposed by Georgists; using it to illustrate the risks of "even incremental Georgist policy" is the paper's most disputable analogical move, and the wiki should flag this as a weaker part of the argument than the core search-theoretic model. Foldvary's reply may engage this historical line — its reference list (visible on the Springer article page) includes Silagi (1984), "Land reform in Kiaochow, China: from 1898 to 1914 the menace of disastrous land speculation was averted by taxation," suggesting Foldvary counters with a historical land-taxation case of his own — but the reply's abstract addresses only the discovery-vs-production argument. Whether later commentary — including the paywalled full text of Foldvary's reply — specifically challenges the Uganda analogy could not be established from the sources available this session.
 - **This paper predates, and is not in dialogue with**, more recent Georgist responses discussed on this wiki, including Lars Doucet's Dwarkesh podcast rebuttal (sub-100% LVT and Norway-style discovery subsidies) — see [Dwarkesh & Doucet Podcast](/wiki/dwarkesh-doucet-podcast/).
 
 ## Bears On

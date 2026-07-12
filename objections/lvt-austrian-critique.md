@@ -5,6 +5,7 @@ tags: [objections, austrian-economics, rothbard, critique, valuation]
 stub: false
 status: "Contested — a genuine theoretical dispute, with strong Georgist rebuttals"
 excerpt: "The Austrian-school objections to land value taxation — that land is just capital, that government can't calculate land value, and that LVT violates property rights — and the Georgist responses."
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -17,8 +18,8 @@ Austrian-school economists, following [Murray Rothbard](/wiki/murray-rothbard/),
 
 ## The Response
 
-1. **Land is distinct.** Land is fixed in supply and not produced by human effort; capital is produced and reproducible. This is exactly why a land tax has [no deadweight loss](/wiki/deadweight-loss/) while a capital tax does — the distinction is not arbitrary but economically fundamental ([Ricardo](/wiki/david-ricardo/), [Rognlie](/wiki/rognlie-capital-share/)).
-2. **Valuation is tractable.** Land is assessed in practice in many jurisdictions; land value is spatially smooth and estimable (see [the assessment objection](/wiki/land-cannot-be-assessed/)). The [Harberger/COST](/wiki/harberger-tax/) self-assessment mechanism even lets owners reveal values directly.
+1. **Land is distinct.** Land is fixed in supply and not produced by human effort; capital is produced and reproducible. This is exactly why a land tax has [no deadweight loss](/wiki/deadweight-loss/) while a capital tax does — the distinction is not arbitrary but economically fundamental ([Ricardo](/wiki/david-ricardo/), [Rognlie](/wiki/rognlie-capital-share/), and Gaffney's [catalogue of land's distinctive properties](/wiki/gaffney-land-distinctive-factor/)).
+2. **Valuation is tractable.** Land is assessed in practice in many jurisdictions; land value is spatially smooth and estimable (see [the assessment objection](/wiki/land-cannot-be-assessed/)). Kolbe et al. answer the calculation objection concretely: their [Berlin statistical-appraisal programme](/wiki/kolbe-berlin-land-value-appraisal/) recovers a city-wide land-value surface from ordinary transaction data — adaptive-weights smoothing on vacant-land sales where they exist, semiparametric methods in the built-up core — reaching 0.845 correlation with the official expert map. The [Harberger/COST](/wiki/harberger-tax/) self-assessment mechanism even lets owners reveal values directly.
 3. **Rights argument cuts both ways.** Georgists (and classical liberals like the early geolibertarians) argue exclusive land title is itself a grant from the community, so capturing its rent restores rather than violates equal rights to natural opportunity.
 
 ## Net Assessment

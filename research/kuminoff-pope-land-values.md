@@ -1,30 +1,17 @@
 ---
-authors:
-- Nicolai V. Kuminoff
-- Jaren C. Pope
+title: "The Value of Residential Land and Structures during the Great Housing Boom and Bust (Kuminoff & Pope)"
 category: research
-excerpt: A peer-reviewed hedonic decomposition of more than a million home sales in
-  ten US metros (1998–2009), separating land value from structure value through the
-  housing boom and bust — and showing the replacement-cost method mis-splits the two.
-last_reviewed: 2026-07-10
+subcategory: wiki-research-finance
+tags: [research, land-value, hedonic-method, housing-boom, land-share, structures, split-rate, assessment]
+authors: [Nicolai V. Kuminoff, Jaren C. Pope]
+year: 2013
+tier: Important
 source_url: https://nickkuminoff.github.io/webpage/KP_Land_forthcoming.pdf
 stub: false
-subcategory: wiki-research-finance
-supports_outcomes:
-- land-rent-could-fund-government
-tags:
-- research
-- land-value
-- hedonic-method
-- housing-boom
-- land-share
-- structures
-- split-rate
-- assessment
-tier: Important
-title: The Value of Residential Land and Structures during the Great Housing Boom
-  and Bust (Kuminoff & Pope)
-year: 2013
+supports_outcomes: [land-rent-could-fund-government]
+excerpt: "A peer-reviewed hedonic decomposition of more than a million home sales in ten US metros (1998–2009), separating land value from structure value through the housing boom and bust — and showing the replacement-cost method mis-splits the two."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-cannot-be-assessed]
 ---
 
 ## Summary

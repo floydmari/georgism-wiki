@@ -1,23 +1,16 @@
 ---
-authors:
-- Mason Gaffney
+title: "Gaffney (1994): Land as a Distinctive Factor of Production"
 category: research
-excerpt: Gaffney's foundational catalogue of ways land differs economically from capital
-  — fixed supply, immobility, non-reproducibility — underpinning the case against
-  merging land into general capital theory.
-last_reviewed: 2026-07-11
+subcategory: wiki-research-urban
+tags: [research, gaffney, land-theory, factors-of-production, stub]
+authors: [Mason Gaffney]
+year: 1994
+tier: Core
 source_url: https://cooperative-individualism.org/gaffney-mason_land-as-a-distinct-factor-of-production-2004-01.htm
 stub: true
-subcategory: wiki-research-urban
-tags:
-- research
-- gaffney
-- land-theory
-- factors-of-production
-- stub
-tier: Core
-title: 'Gaffney (1994): Land as a Distinctive Factor of Production'
-year: 1994
+excerpt: "Gaffney's foundational catalogue of ways land differs economically from capital — fixed supply, immobility, non-reproducibility — underpinning the case against merging land into general capital theory."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-is-just-capital, lvt-austrian-critique, marshall-single-tax-objection]
 ---
 
 ## Overview
@@ -34,5 +27,5 @@ Mason Gaffney's 1994 essay, published as a chapter in Nicolaus Tideman's edited 
 
 ## Sources
 
-1. Mason Gaffney (1994), "Land as a Distinctive Factor of Production," in Nicolaus Tideman, ed., *Land and Taxation*, Shepheard-Walwyn — used for the catalogue of land's distinguishing economic properties and its consequences for tax policy. [Archived, later-updated text by Gaffney](https://cooperative-individualism.org/gaffney-mason_land-as-a-distinct-factor-of-production-2004-01.htm) hosted by the School of Cooperative Individualism (this is Gaffney's own expanded 2004 web version of the argument; the original 1994 book-chapter text itself was not independently located in this session — [VERIFY: pagination and exact wording against the 1994 Shepheard-Walwyn print edition]).
+1. Mason Gaffney (1994), "Land as a Distinctive Factor of Production," in Nicolaus Tideman, ed., *Land and Taxation*, Shepheard-Walwyn — used for the catalogue of land's distinguishing economic properties and its consequences for tax policy. [Archived, later-updated text by Gaffney](https://cooperative-individualism.org/gaffney-mason_land-as-a-distinct-factor-of-production-2004-01.htm) hosted by the School of Cooperative Individualism (this is Gaffney's own expanded 2004 web version of the argument; the original 1994 book-chapter text itself was not independently located this session, so its exact pagination and wording were not confirmed against the 1994 Shepheard-Walwyn print edition — a future editor with that edition should verify them).
 2. [Wiki summary: The Neoclassical Stratagem](/wiki/gaffney-neoclassical-stratagem/) — used for cross-reference to Gaffney's related critique of how land disappeared from economic theory.

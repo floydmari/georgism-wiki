@@ -5,7 +5,7 @@ tags: [organizations, uk, socialism, land-value-tax, history, henry-george]
 url: https://fabians.org.uk/
 stub: false
 excerpt: "Founded in London in 1884, Britain's oldest political think tank drew its early economics heavily from Henry George's rent theory before broadening into a wider programme of gradualist state socialism."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -18,7 +18,7 @@ The **Fabian Society** is a British socialist organisation founded on 4 January 
 
 ## From Rent Socialism to State Socialism
 
-Where George's own programme stopped at taxing [land value](/wiki/land-value-tax/) and otherwise trusted free markets and private capital, Fabian economics broadened considerably over the following decades. The Webbs' research programme and Sidney Webb's drafting of the founding constitution of the Labour Representation Committee in 1900 pushed Fabian policy toward a wider programme of state and municipal ownership extending well beyond land rent.[1] This trajectory is often read as a British, gradualist echo of the larger split between land-rent reform and broader socialisation of capital that also separated Henry George from Marxist socialism [CITATION NEEDED: a dedicated historical study of the pace and extent of this specific doctrinal shift within the Fabian Society, as opposed to the general contemporaneous facts cited here].
+Where George's own programme stopped at taxing [land value](/wiki/land-value-tax/) and otherwise trusted free markets and private capital, Fabian economics broadened considerably over the following decades. The Webbs' research programme and Sidney Webb's drafting of the founding constitution of the Labour Representation Committee in 1900 pushed Fabian policy toward a wider programme of state and municipal ownership extending well beyond land rent.[1] This trajectory is often read as a British, gradualist echo of the larger split between land-rent reform and broader socialisation of capital that also separated Henry George from Marxist socialism. The intellectual historian David M. Ricci, in a study of the Fabian theory of exploitation, documents the starting point of that trajectory directly: the Fabians "rejected Karl Marx's analysis of surplus value" and "in its place the Fabian Society expounded an entirely distinct notion of exploitation, a radical theory of rent" — a rent-based ethic Ricci traces from the late 1880s into the 1920s as it broadened from George's land focus toward a general theory of unearned income underpinning Fabian collectivism.[3]
 
 ## Political Legacy
 
@@ -36,3 +36,4 @@ Fabian ideas fed into the wider Liberal-left land campaign that produced the [19
 
 1. Wikipedia, "Fabian Society" — used for the founding date (4 January 1884), the Society's land-rent nationalisation position and its stated debt to Henry George, the Shaw quotation on his 1883 conversion (originally from Shaw's "Tribute to the Work of Henry George"), and the Webbs' central role and 1900 Labour Representation Committee work (general reference). [en.wikipedia.org/wiki/Fabian_Society](https://en.wikipedia.org/wiki/Fabian_Society)
 2. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994) — used as a discovery source for the broader historical context of how British socialist and Liberal politics absorbed Georgist rent theory in this period (book summary on wiki). [Book page](/wiki/gaffney-harrison-corruption-of-economics/)
+3. David M. Ricci, "Fabian Socialism: A Theory of Rent as Exploitation," *Journal of British Studies* 9, no. 1 (November 1969): 105–121 — a peer-reviewed intellectual-history study; used for the Fabians' rejection of Marxian surplus-value theory in favour of a rent-based theory of exploitation, and for the doctrine's broadening from George's land focus toward a general theory of unearned income across the 1887–1920s period. Quotations verified verbatim against the article text. [JSTOR 175171](https://www.jstor.org/stable/175171) · [free PDF (cooperative-individualism.org)](https://cooperative-individualism.org/ricci-david_fabian-socialism-a-theory-of-rent-as-exploitation-1969-nov.pdf)

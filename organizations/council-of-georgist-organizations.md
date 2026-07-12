@@ -6,14 +6,14 @@ url: https://cgocouncil.org/
 founded: 1980
 stub: true
 excerpt: "The umbrella body that coordinated independent US (and international) Georgist organizations from around 1980, chiefly by convening an annual multi-day Georgist conference; legally dissolved, with its work transitioning to Common Ground USA and the Public Revenue Education Council."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
 The **Council of Georgist Organizations** (CGO) was an umbrella body coordinating a dozen or more independent Georgist organizations, most visibly by convening an annual multi-day conference on the philosophy, sociology, and economics of Georgism (also referred to as Geoism or Geonomics).[1] Its formation was announced in the September–October 1980 issue of *Henry George News*, under the headline "Council of Georgist Organizations Formed."[2] The Council drew on the work of Henry George alongside earlier and later economists it associated with the same tradition, including Adam Smith, David Ricardo, John Stuart Mill, and Mason Gaffney.[1]
 
-CGO has since been **legally dissolved**; its own site states that its resources and continuing activities are transitioning to [Common Ground USA](/wiki/common-ground-usa/) and to the Public Revenue Education Council, with recorded conference videos remaining available through the latter.[1] [CITATION NEEDED (channel: unblocked-web / new-source): the specific year of dissolution. Checked 2026-07-11 — the CGO site's own "Who We Are / Who We Were" page states the Council is "legally dissolved" and that resources transitioned to Common Ground USA and the Public Revenue Education Council, but gives no year. The site's conference-video archive runs only through 2022 (2020–2021 and 2022 are the last listed), implying dissolution circa 2022–2023. A future editor should confirm via the organization's IRS Form 990 filing history (ProPublica Nonprofit Explorer / GuideStar under EIN) or state incorporation-dissolution records, which carry the exact date.]
+CGO has since been **legally dissolved**; its own site now carries a notice that the Council "was legally dissolved" and that this site "will soon belong to Common Ground-USA," with recorded conference videos remaining available through the [Public Revenue Education Council](https://www.trylvt.org/).[1] The site does not state a year: its "Who We Were" page and homepage notice both describe the dissolution without dating it, and its conference-video archive runs only through 2022, which points to a wind-down in roughly the 2022–2023 period. The exact date is not published here; a future editor could confirm it via the organization's IRS Form 990 filing history (ProPublica Nonprofit Explorer / GuideStar under its EIN) or state incorporation-dissolution records, which carry the precise date.
 
 ## Role in the Field
 

@@ -1,32 +1,17 @@
 ---
-authors:
-- Katharina Knoll
-- Moritz Schularick
-- Thomas Steger
+title: "No Price Like Home: Global House Prices, 1870–2012"
 category: research
-excerpt: New annual house-price indices for 14 advanced economies, 1870–2012, showing
-  real prices were flat for eight decades then rose sharply after 1950 — a boom the
-  authors attribute mostly to rising land prices, not construction costs.
-last_reviewed: 2026-07-05
+subcategory: wiki-research-lvt
+tags: [research, land, house-prices, capital-share, historical, wealth-income-ratio, urbanization]
+authors: [Katharina Knoll, Moritz Schularick, Thomas Steger]
+year: 2017
+tier: core
 source_url: https://doi.org/10.1257/aer.20150501
 stub: false
-subcategory: wiki-research-lvt
-supports_outcomes:
-- capital-share-rise-is-land
-- finance-growth-is-land-credit
-- housing-unaffordability-is-a-land-problem
-- rising-land-costs-drive-poverty
-tags:
-- research
-- land
-- house-prices
-- capital-share
-- historical
-- wealth-income-ratio
-- urbanization
-tier: core
-title: 'No Price Like Home: Global House Prices, 1870–2012'
-year: 2017
+excerpt: "New annual house-price indices for 14 advanced economies, 1870–2012, showing real prices were flat for eight decades then rose sharply after 1950 — a boom the authors attribute mostly to rising land prices, not construction costs."
+last_reviewed: 2026-07-12
+bears_on_objections: [cycles-are-credit-not-land, demographics-explain-house-prices]
+supports_outcomes: [capital-share-rise-is-land, finance-growth-is-land-credit, housing-unaffordability-is-a-land-problem, rising-land-costs-drive-poverty]
 ---
 
 ## Summary

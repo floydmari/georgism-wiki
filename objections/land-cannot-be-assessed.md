@@ -5,6 +5,7 @@ tags: [objections, assessment, valuation, lvt, critique]
 stub: false
 status: "Addressed — assessment is a known, solvable problem"
 excerpt: "The most common practical objection to LVT — that you can't separate land value from building value — and the empirical and methodological responses to it."
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -15,15 +16,15 @@ A land value tax requires assessing land **separately** from the buildings on it
 
 The objection is serious but is generally treated as a **solvable engineering problem**, not a fundamental barrier.
 
-**1. It is already done at scale.** Estonia (pure land tax since **1993**), Denmark's *grundskyld*, and several Australian states assess land values separately as routine practice. Most US assessments already publish a land/improvement split.
+**1. It is already done at scale.** Estonia (pure land tax since **1993**), Denmark's *grundskyld*, and several Australian states assess land values separately as routine practice. Most US assessments already publish a land/improvement split. The US Federal Housing Finance Agency has since turned millions of appraisals into land prices and land shares for [every county, ZIP code and census tract](/wiki/davis-larson-oliner-shui-fhfa-land/) — a demonstration that land can be valued separately from structures at national scale.
 
-**2. Land is *easier* to assess than buildings, not harder.** In *Does Georgism Work? Part 3* (2022), [Lars Doucet](/wiki/doucet-does-georgism-work/) makes the key counter-intuitive point: land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house. That smoothness means location-based methods (comparable vacant-lot sales, teardown sales, and the "residual" of sale price minus depreciated structure cost) can estimate land value with accuracy **comparable to or better than** whole-property assessment.
+**2. Land is *easier* to assess than buildings, not harder.** In *Does Georgism Work? Part 3* (2022), [Lars Doucet](/wiki/doucet-does-georgism-work/) makes the key counter-intuitive point: land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house. That smoothness means location-based methods (comparable vacant-lot sales, teardown sales, and the "residual" of sale price minus depreciated structure cost) can estimate land value with accuracy **comparable to or better than** whole-property assessment. Career assessor Ted Gwartney's [practitioner account of estimating land values](/wiki/gwartney-estimating-land-values/) — the expert Doucet consulted — describes exactly these location-based methods as routine professional practice.
 
 **3. Modern methods exist — including where data is thin.** [Computer-assisted mass appraisal (CAMA), hedonic regression, and cooperative-game approaches](/wiki/mass-appraisal-methods/) such as the [Shapley-value land/building separation](https://www.nature.com/articles/s41599-020-0444-1) (*Humanities and Social Sciences Communications*, 2020) formalise the split. And the "it only works with rich sales data" version of the objection is answered directly: [Bencure et al. (2019)](/wiki/bencure-ilvm-baybay-philippines/) built an expert-weighted (AHP) land-valuation model for sub-urban Baybay City, Philippines, that explained ~67% of land-value variability and outperformed ordinary multiple regression — a developing-country case with sparse market data.
 
 **3a. Even dense cities generate pure-land sales.** The premise that unimproved land "rarely sells" in built-up cores is overstated: [Barr, Smith & Kulkarni](/wiki/barr-smith-kulkarni-manhattan-land/) constructed a 64-year (1950–2014) land-value index for Manhattan — one of the densest markets on earth — using vacant-land transactions alone.
 
-**4. Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet).
+**4. Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet). Independent evidence bears this out: hedonic decomposition of over a million home sales separates land from structure at scale ([Kuminoff & Pope](/wiki/kuminoff-pope-land-values/)), and Australian mass-appraisal appeal rates run well below the internationally accepted 2% benchmark ([Hefferan & Boyd](/wiki/hefferan-boyd-mass-appraisal-australia/)) — revealed taxpayer acceptance that value-based land assessment is treated as reliable.
 
 ## Net Assessment
 

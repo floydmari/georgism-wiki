@@ -1,30 +1,17 @@
 ---
-authors:
-- Kyle F. Herkenhoff
-- Lee E. Ohanian
-- Edward C. Prescott
+title: "Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S. Economic Slowdown"
 category: research
-excerpt: A general-equilibrium model in which tightening state land-use restrictions
-  in California and New York misallocate labor and capital, finding deregulation could
-  raise US aggregate TFP and output growth substantially.
-last_reviewed: 2026-07-10
+subcategory: wiki-research-inequality
+tags: [research, land-use-regulation, misallocation, tfp, productivity, macroeconomics, general-equilibrium]
+authors: [Kyle F. Herkenhoff, Lee E. Ohanian, Edward C. Prescott]
+year: 2018
+tier: Important
 source_url: https://doi.org/10.1016/j.jmoneco.2017.11.001
 stub: false
-subcategory: wiki-research-inequality
-supports_outcomes:
-- high-land-rents-suppress-productivity
-tags:
-- research
-- land-use-regulation
-- misallocation
-- tfp
-- productivity
-- macroeconomics
-- general-equilibrium
-tier: Important
-title: 'Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S.
-  Economic Slowdown'
-year: 2018
+excerpt: "A general-equilibrium model in which tightening state land-use restrictions in California and New York misallocate labor and capital, finding deregulation could raise US aggregate TFP and output growth substantially."
+last_reviewed: 2026-07-12
+bears_on_objections: [planning-restrictions-cause-high-prices]
+supports_outcomes: [high-land-rents-suppress-productivity]
 ---
 
 ## Summary

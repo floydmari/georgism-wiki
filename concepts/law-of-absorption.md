@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, law-of-absorption, law-of-rent, land-rent, akhil-patel, stub]
 stub: true
 excerpt: "Akhil Patel's name for the principle that land absorbs the gains of economic progress — infrastructure and growth raise land values while leaving landowners' costs unchanged, the mechanism behind capitalization and the 18-year land cycle."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -13,7 +13,7 @@ The **law of absorption** is the term Akhil Patel uses in *[The Secret Wealth Ad
 
 As his central illustration, Patel cites Don Riley's study of London's Jubilee Line Extension, which found that the rail extension raised nearby land values by an estimated £13 billion — "almost four times the cost of the entire project" (p. 66) — while the public body that funded the line captured none of that uplift.[1] Patel uses the law of absorption to explain the upswing phase of his [18-year land cycle](/wiki/18-year-land-cycle/): as an economy grows, the gains are progressively absorbed into land prices, fuelling speculation until rising land costs squeeze production and trigger a downturn.
 
-The underlying mechanism — public and private investment capitalizing into nearby land values — is well documented empirically; see [public investment capitalizes into land](/wiki/public-investment-capitalizes-into-land/) for the broader evidence base (of which the Jubilee Line case is one instance). "Law of absorption" itself, however, is Patel's own coinage for this popular-investment audience rather than an established term in the academic land-economics literature, and the wiki has not found it used by other authors. [CITATION NEEDED: any use of the term "law of absorption" outside Patel's book, to establish whether it has wider currency]
+The underlying mechanism — public and private investment capitalizing into nearby land values — is well documented empirically; see [public investment capitalizes into land](/wiki/public-investment-capitalizes-into-land/) for the broader evidence base (of which the Jubilee Line case is one instance). "Law of absorption" itself, however, is Patel's own coinage for this popular-investment audience rather than an established term in the academic land-economics literature, and the wiki has not found it used by other authors — searches for the term outside Patel's book have returned nothing, so it should be read as his label for the well-documented capitalization mechanism, not as a term with independent currency.
 
 ## See Also
 

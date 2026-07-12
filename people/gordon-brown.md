@@ -5,7 +5,7 @@ tags: [people, gordon-brown, uk, boom-bust-cycle, barker-review, housing-supply,
 stub: true
 born: "20 February 1951, Giffnock, Renfrewshire, Scotland"
 excerpt: "UK Chancellor of the Exchequer (1997-2007) and Prime Minister (2007-2010) who repeatedly promised an end to 'boom and bust' and commissioned the Barker Review of housing supply, yet presided over the run-up to the 2008 crash that Georgist land-cycle forecasters had predicted years in advance."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -27,4 +27,4 @@ As Chancellor, Brown commissioned economist Kate Barker to review why UK housing
 1. Wikipedia, "Gordon Brown" — [en.wikipedia.org/wiki/Gordon_Brown](https://en.wikipedia.org/wiki/Gordon_Brown) — used for birth date and place, dates as Chancellor and Prime Minister, and the note on his reputation for low inflation and interest rates as Chancellor (basic biographical facts).
 2. Wikiquote, "Gordon Brown," citing Hansard and Brown's 11th Budget Speech (21 March 2007) — [en.wikiquote.org/wiki/Gordon_Brown](https://en.wikiquote.org/wiki/Gordon_Brown) — used for the "we will not return to the old boom and bust" quotation and its recurrence in Brown's budget and conference speeches from 1999 onward.
 3. Kate Barker, *Review of Housing Supply: Delivering Stability — Securing our Future Housing Needs* (Final Report, HM Treasury, 2004). [gov.uk](https://www.gov.uk/government/publications/barker-review-of-housing-supply-final-report-recommendations) — used for confirming Brown, as Chancellor, commissioned the review; see also [wiki page](/wiki/barker-review-housing-supply/).
-4. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 2005, Ch. 1, 11, 12 §4, 16 — discovery source; used for Harrison's characterization of Brown's fiscal-policy failures and framing within the land-cycle account. See [wiki summary](/wiki/harrison-boom-bust/). [CITATION NEEDED: direct page citations — this stub draws on the wiki's existing discovery-report summary of the book rather than a fresh read of these chapters.]
+4. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 2005, Ch. 1, 11, 12 §4, 16 — discovery source; used for Harrison's characterization of Brown's fiscal-policy failures and framing within the land-cycle account. See [wiki summary](/wiki/harrison-boom-bust/). Direct page citations are not yet supplied; this stub draws on the wiki's existing discovery-report summary of the book rather than a fresh read of these chapters.

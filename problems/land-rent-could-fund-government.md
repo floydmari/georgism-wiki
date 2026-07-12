@@ -7,7 +7,12 @@ stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"
 supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont, kuminoff-pope-land-values]
 excerpt: "Estimates of total land rent suggest it could fund a substantial fraction — by some accounts most — of government, though figures are sensitive to assumptions."
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Estimates of how much government land rent could fund vary widely with method and scope — from a major share of spending to near-total replacement of existing taxes — so the honest reading is a large but genuinely uncertain fraction.
+> **Evidence:** Contested (estimates vary widely with method and scope) · **10 supporting** sources · **0 challenging**
+> **Strongest support:** [Larson (2015)](/wiki/larson-us-land-value/) — the BEA study puts contiguous-US land at roughly $23 trillion (2009), the wiki's measured benchmark. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 
@@ -26,7 +31,7 @@ What each side is *counting* is clarified by [Foldvary's kinetic/potential rent 
 
 The gap turns on two things: **what counts as rent** (Gaffney includes resource, spectrum, and under-assessed urban rent that standard accounts omit) and whether one credits the [ATCOR](/wiki/atcor/) effect — that abolishing other taxes raises land values, enlarging the LVT base.
 
-Three of the older advocate data points that reach Lars Doucet's twelve-method aggregate-land-value survey *through* Smith's *Counting Bounty* are worth pinning to source. **Steven Cord** (*How Much Revenue Would a Full Land Value Tax Yield?*, *American Journal of Economics and Sociology* 44(3), 1985, pp. 279–293) capitalised 1981 Census-Bureau and Federal-Reserve assessed land values — adjusted upward for under-assessment, tax-exempt land, and unassessed federal holdings — at a conservative 14%, arriving at a full-land-rent yield of roughly **$658 billion, which he put at 28% of 1981 national income** (nearly two-thirds of all taxes then levied). *Counting Bounty* and Doucet render this as the ~24% "Cord" line; the primary paper's own headline is 28%. **Richard Ebeling** (*There Is No Social Security Santa Claus*, Future of Freedom Foundation, 21 Dec 2015) valued the federal government's land and mineral reserves at about **$5.5 trillion** (Smith extrapolates this to $6.6T for 2020) — a figure Doucet flags as method-free and carries only as a bullish outlier. The lone machine-learning estimate in the span is the **PLACES Lab** (Christoph Nolte's group at Boston University) high-resolution fair-market-value map of US private land ([Nolte 2020, *PNAS* 117(47):29577–29583](https://doi.org/10.1073/pnas.2012865117); data at placeslab.org), which despite its very different method produces a single-year total that tracks the cost-approach cluster.
+Three of the older advocate data points that reach Lars Doucet's twelve-method aggregate-land-value survey *through* Smith's *Counting Bounty* are worth pinning to source. **Steven Cord** (*How Much Revenue Would a Full Land Value Tax Yield?*, *American Journal of Economics and Sociology* 44(3), 1985, pp. 279–293) capitalised 1981 Census-Bureau and Federal-Reserve assessed land values — adjusted upward for under-assessment, tax-exempt land, and unassessed federal holdings — at a conservative 14%, arriving at a full-land-rent yield of roughly **$658 billion, which he put at 28% of 1981 national income** (nearly two-thirds of all tax revenue then levied). *Counting Bounty* and Doucet render this as the ~24% "Cord" line; the primary paper's own headline is 28%. **Richard Ebeling** (*There Is No Social Security Santa Claus*, Future of Freedom Foundation, 21 Dec 2015) valued the federal government's land and mineral reserves at about **$5.5 trillion** (Smith extrapolates this to $6.6T for 2020) — a figure Doucet flags as method-free and carries only as a bullish outlier. The lone machine-learning estimate in the span is the **PLACES Lab** (Christoph Nolte's group at Boston University) high-resolution fair-market-value map of US private land ([Nolte 2020, *PNAS* 117(47):29577–29583](https://doi.org/10.1073/pnas.2012865117); data at placeslab.org), which despite its very different method produces a single-year total that tracks the cost-approach cluster.
 
 ## The Evidence in Detail
 
@@ -72,7 +77,7 @@ See: [Public Revenue Without Taxation (Burgess)](/wiki/public-revenue-without-ta
 ## See Also
 
 - [Jeffery Johnson Smith](/wiki/jeffrey-johnson-smith/) — author of Counting Bounty (2020), whose ~$44T US land-value estimate is the highest figure in Land is a Big Deal's comparison table
-- [Barr, Smith & Kulkarni (2018): What's Manhattan Worth?](/wiki/barr-manhattan-land-values/) — a transaction-based estimate ($1.74T) of Manhattan's developable land value alone
+- [Barr, Smith & Kulkarni (2018): What's Manhattan Worth?](/wiki/barr-smith-kulkarni-manhattan-land/) — a transaction-based estimate ($1.47T, 2014) of Manhattan's developable land value alone
 - [Steven Cord](/wiki/steven-cord/) — Georgist scholar whose Census/Federal Reserve-based land-rent estimates (cited in Harrison's *The Power in the Land*) are among the empirical inputs to the revenue-sufficiency debate, and who led the on-the-ground campaign behind Pennsylvania's split-rate tax adoptions
 - [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — hedonic land/structure separation at scale, which also disciplines the residual method's over-attribution to land · [Hudson: Where Did All the Land Go?](/wiki/hudson-where-did-all-the-land-go/) — the understatement critique of official land accounts (attributed)
 

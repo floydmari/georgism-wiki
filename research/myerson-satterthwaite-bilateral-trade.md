@@ -1,26 +1,15 @@
 ---
-authors:
-- Roger B. Myerson
-- Mark A. Satterthwaite
+title: "Myerson & Satterthwaite (1983): Efficient Mechanisms for Bilateral Trading"
 category: research
-excerpt: A mechanism-design paper showing no bargaining mechanism between a buyer
-  and seller with private valuations can generally be simultaneously efficient, incentive-compatible,
-  individually rational, and subsidy-free — cited against Coasean solutions to land
-  assembly and holdout problems.
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags: [research, mechanism-design, bargaining, coase-theorem, holdout-problem, stub]
+authors: [Roger B. Myerson, Mark A. Satterthwaite]
+year: 1983
+tier: Important
 source_url: https://www.cs.princeton.edu/courses/archive/spr10/cos444/papers/myerson_satterthwaite83.pdf
 stub: true
-subcategory: wiki-research-lvt
-tags:
-- research
-- mechanism-design
-- bargaining
-- coase-theorem
-- holdout-problem
-- stub
-tier: Important
-title: 'Myerson & Satterthwaite (1983): Efficient Mechanisms for Bilateral Trading'
-year: 1983
+excerpt: "A mechanism-design paper showing no bargaining mechanism between a buyer and seller with private valuations can generally be simultaneously efficient, incentive-compatible, individually rational, and subsidy-free — cited against Coasean solutions to land assembly and holdout problems."
+last_reviewed: 2026-07-12
 ---
 
 ## Summary
@@ -37,7 +26,7 @@ The theorem is cited in Eric Posner and Glen Weyl's *[Radical Markets](/wiki/rad
 
 ## Limits and Caveats
 
-The theorem is a general impossibility result about **bilateral** trade (one buyer, one seller) under private information; it does not by itself say anything about multilateral land-assembly bargaining with many owners, nor does it establish that any *particular* real-world land negotiation fails to reach efficiency — it establishes only that no mechanism can be guaranteed to succeed across the full range of possible private valuations. It is a piece of formal bargaining theory adopted into the Georgist argument by analogy to the land-assembly setting, not a result derived from or tested against land markets specifically. [CITATION NEEDED: a source applying the Myerson-Satterthwaite framework directly and formally to multi-owner land assembly, rather than citing it as a general motivation.]
+The theorem is a general impossibility result about **bilateral** trade (one buyer, one seller) under private information; it does not by itself say anything about multilateral land-assembly bargaining with many owners, nor does it establish that any *particular* real-world land negotiation fails to reach efficiency — it establishes only that no mechanism can be guaranteed to succeed across the full range of possible private valuations. It is a piece of formal bargaining theory adopted into the Georgist argument by analogy to the land-assembly setting, not a result derived from or tested against land markets specifically. The multilateral extension has, however, been made explicitly: Kominers and Weyl (2012) show that a Myerson–Satterthwaite-type impossibility carries over to the *assembly of complements* from many private sellers — "[h]oldout problems prevent private (voluntary and self-financing) assembly of complementary goods—such as land or dispersed spectrum—from many self-interested sellers"[3] — so that no voluntary, self-financing, individually rational mechanism can be guaranteed to assemble the parcels efficiently. That result is the formal multi-owner analogue of the bilateral theorem, and (being co-authored by Weyl) is a direct bridge between this impossibility literature and the *Radical Markets* proposals.
 
 ## See Also
 
@@ -50,5 +39,6 @@ The theorem is a general impossibility result about **bilateral** trade (one buy
 
 1. Roger B. Myerson & Mark A. Satterthwaite (1983), "Efficient Mechanisms for Bilateral Trading," *Journal of Economic Theory* 29(2), 265–281. Open-access PDF: [cs.princeton.edu/courses/archive/spr10/cos444/papers/myerson_satterthwaite83.pdf](https://www.cs.princeton.edu/courses/archive/spr10/cos444/papers/myerson_satterthwaite83.pdf) — verified verbatim this session (abstract and Theorem 1 statement) — used for the abstract's statement of the impossibility result, the model setup (single buyer/seller, private independent valuations), and the paper's additional results on gains-from-trade-maximizing mechanisms.
 2. Eric Posner & Glen Weyl (2018), *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*, Princeton University Press, Ch. 1. [Publisher](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets) — discovery source book; cited (per this wiki's discovery notes) as invoking Myerson-Satterthwaite against Coasean assumptions about costless private bargaining.
+3. Scott Duke Kominers & E. Glen Weyl (2012), "Holdout in the Assembly of Complements: A Problem for Market Design," *American Economic Review* 102(3), 360–365. DOI: [10.1257/aer.102.3.360](https://doi.org/10.1257/aer.102.3.360) · [free PDF](https://www.scottkom.com/assets/articles/Kominers_Weyl_Holdout_a_Problem_for_Market_Design.pdf) — used for the formal extension of the Myerson–Satterthwaite-type impossibility from bilateral trade to multi-seller assembly of complements (land, spectrum); abstract sentence quoted verbatim from the freely available PDF.
 
 `[VERIFY: item 2's exact footnote wording and page in Radical Markets was not directly re-read this session; the citation is carried from this wiki's existing discovery-report notes on the book. A future revision should confirm the precise footnote text against the source directly.]`

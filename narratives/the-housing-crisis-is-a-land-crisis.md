@@ -8,7 +8,7 @@ narrative_type: practical
 supported_by: [lvt-improves-housing-affordability, split-rate-increases-construction, capital-share-rise-is-land]
 related_people: [lars-doucet, josh-ryan-collins, dominic-frisby]
 related_places: [pittsburgh, singapore, hong-kong]
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
 ---
 
 *This narrative deploys the evidence collected on
@@ -159,8 +159,8 @@ frees the land, land taxation makes holding it idle unaffordable.
 - **Lead with the diagnosis, not the tax.** "Your rent is high because the *location*
   is expensive, and the location's value is community-created" travels further than
   opening with a new tax. The Knoll et al. land-share finding is the anchor fact.[3]
-- **Always sell the package.** LVT *plus* zoning reform, in the same sentence, every
-  time — the Singapore/Hong Kong rebuttal punishes anyone who promises affordability
+- **Sell the package, every time.** LVT *plus* zoning reform, in the same sentence —
+  the Singapore/Hong Kong rebuttal punishes anyone who promises affordability
   from capture alone.
 - **Use the building-penalty frame.** "We fine people for improving their homes and
   reward them for sitting on vacant lots" is the most legible version of the

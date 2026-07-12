@@ -1,28 +1,17 @@
 ---
-authors:
-- Edward L. Glaeser
+title: "A Nation of Gamblers: Real Estate Speculation and American History"
 category: research
-excerpt: Glaeser's economic history of American real estate booms (1790s frontier
-  land to the 2000s housing bust) argues buyers use simple heuristics, not general-equilibrium
-  models, and systematically underweight how elastic supply eventually caps prices.
-last_reviewed: 2026-07-10
+subcategory: wiki-research-housing
+tags: [research, real-estate, speculation, housing-bubbles, elastic-supply, harvard, aer, glaeser]
+authors: [Edward L. Glaeser]
+year: 2013
+tier: important
 source_url: https://doi.org/10.1257/aer.103.3.1
 stub: false
-subcategory: wiki-research-housing
-supports_outcomes:
-- lvt-dampens-land-speculation
-tags:
-- research
-- real-estate
-- speculation
-- housing-bubbles
-- elastic-supply
-- harvard
-- aer
-- glaeser
-tier: important
-title: 'A Nation of Gamblers: Real Estate Speculation and American History'
-year: 2013
+excerpt: "Glaeser's economic history of American real estate booms (1790s frontier land to the 2000s housing bust) argues buyers use simple heuristics, not general-equilibrium models, and systematically underweight how elastic supply eventually caps prices."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-speculation-is-productive]
+supports_outcomes: [lvt-dampens-land-speculation]
 ---
 
 ## Summary

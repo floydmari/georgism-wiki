@@ -5,9 +5,14 @@ claim_type: benefit
 tags: [outcomes, congestion-pricing, road-pricing, geoism, road-space-rents]
 stub: false
 evidence_strength: "Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature"
-supported_by: [congestion-pricing, leape-london-congestion-charge, eliasson-stockholm-trial-2006, gibson-carnovale-road-pricing-pollution, phang-toh-singapore-congestion-pricing]
-excerpt: "Charging for scarce peak road space produces large, measured falls in traffic and congestion wherever it has been tried — Singapore (1975), London (2003), Stockholm (2006) — and Stockholm's cost-benefit analysis, built on measured data, shows the social benefits recover the system's cost in about four years. The strongest quasi-experimental evidence for any non-land rent-capture instrument."
+supported_by: [congestion-pricing, leape-london-congestion-charge, eliasson-stockholm-trial-2006, gibson-carnovale-road-pricing-pollution, cook-nyc-congestion-pricing, phang-toh-singapore-congestion-pricing]
+excerpt: "Charging for scarce peak road space produces large, measured falls in traffic and congestion wherever it has been tried — Singapore (1975), London (2003), Stockholm (2006), New York (2025) — and Stockholm's cost-benefit analysis, built on measured data, shows the social benefits recover the system's cost in about four years. The strongest quasi-experimental evidence for any non-land rent-capture instrument."
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Congestion pricing reliably and durably cuts traffic and congestion, and in the best-studied cases its social benefits comfortably exceed its costs — one of the most repeatedly real-world-tested non-land Geoist instruments.
+> **Evidence:** Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature · **6 supporting** sources · **0 challenging**
+> **Strongest support:** [Gibson & Carnovale (2015)](/wiki/gibson-carnovale-road-pricing-pollution/) — Milan's charge cut vehicle entries about 14.5% and pollution 6–17%, identified by an unanticipated court suspension. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 
@@ -35,6 +40,12 @@ summary all show large, quickly-established, sustained reductions:
   [Phang & Toh 2004, *Transportation Journal*](/wiki/phang-toh-singapore-congestion-pricing/),
   which also supplies the honest caveat that the coarse early charge merely displaced
   congestion in time and place until per-passage Electronic Road Pricing fixed the margin.
+- **New York (2025):** the first US cordon scheme. Using a generalized synthetic-controls
+  design on measured trip data, [Cook, Kreidieh & Vasserman et al. (2025)](/wiki/cook-nyc-congestion-pricing/)
+  find CBD road speeds rose **11%**, with faster trips spilling over across the metro area
+  (including many *unpriced* trips) and driver-welfare gains of **at least $14.3 million/week**
+  before any revenue recycling — though, honestly, "little-to-no effect on air quality" in
+  the short-run window.
 
 ## The Welfare Evidence — Stockholm's Cost-Benefit Analysis
 
@@ -91,6 +102,7 @@ typically earmarked for transit; see
 - [The London Congestion Charge (Leape 2006)](/wiki/leape-london-congestion-charge/) — the standard economist's evaluation
 - [The Stockholm congestion-charging trial 2006 (Eliasson et al.)](/wiki/eliasson-stockholm-trial-2006/) — the quasi-experiment with the referendum
 - [Road pricing, driver behaviour and air pollution: Milan (Gibson & Carnovale)](/wiki/gibson-carnovale-road-pricing-pollution/) — the clean causal discontinuity
+- [The Short-Run Effects of Congestion Pricing in New York City (Cook et al. 2025)](/wiki/cook-nyc-congestion-pricing/) — the first US cordon scheme, with metro-wide welfare gains
 - [Road Congestion Pricing in Singapore: 1975 to 2003 (Phang & Toh 2004)](/wiki/phang-toh-singapore-congestion-pricing/) — the world's first successful scheme, and its calibration cautionary tale
 - [Congestion Pricing](/wiki/congestion-pricing/) — the mechanism and the traffic evidence in full
 - [William Vickrey](/wiki/william-vickrey/) — the theorist behind it
@@ -117,3 +129,11 @@ typically earmarked for transit; see
    September 2014 referendum (57% against), and the council's decision to retain the
    charge to fund the rail tunnel (verified via multiple sources this session).
    [PDF](https://www.transportportal.se/swopec/CTS2014-25.pdf)
+4. Cody Cook, Aboudy Kreidieh, Shoshana Vasserman, Hunt Allcott, Neha Arora, Freek van
+   Sambeek, Andrew Tomkins & Eray Turkel (2025), "The Short-Run Effects of Congestion
+   Pricing in New York City," NBER Working Paper 33584 (March 2025, revised January 2026)
+   — used for the 11% CBD-speed increase, the metro-wide spillover to unpriced trips, and
+   the ≥$14.3 million/week driver-welfare gain (before revenue/environmental benefits) from
+   the first US cordon scheme (B-claim; verified verbatim this session, see the dedicated
+   [research page](/wiki/cook-nyc-congestion-pricing/)). DOI
+   [10.3386/w33584](https://doi.org/10.3386/w33584)

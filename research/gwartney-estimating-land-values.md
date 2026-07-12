@@ -1,26 +1,17 @@
 ---
-authors:
-- Ted Gwartney
+title: "Estimating Land Values (Gwartney)"
 category: research
-excerpt: The canonical practitioner's essay on land assessment, by Ted Gwartney —
-  career assessor (including British Columbia's province-wide assessment authority)
-  and former Council of Georgist Organizations president. The written backbone of
-  the 'land can be assessed' position, and the expert Doucet consulted for his ACX
-  assessment article.
-last_reviewed: 2026-07-06
+subcategory: wiki-research-lvt
+tags: [research, assessment, mass-appraisal, land-valuation, practitioner]
+authors: [Ted Gwartney]
+year: 1999
+tier: important
 source_url: https://www.henrygeorge.org/ted.htm
 stub: false
-subcategory: wiki-research-lvt
+excerpt: "The canonical practitioner's essay on land assessment, by Ted Gwartney — career assessor (including British Columbia's province-wide assessment authority) and former Council of Georgist Organizations president. The written backbone of the 'land can be assessed' position, and the expert Doucet consulted for his ACX assessment article."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-cannot-be-assessed, search-theoretic-critique]
 supports_outcomes: []
-tags:
-- research
-- assessment
-- mass-appraisal
-- land-valuation
-- practitioner
-tier: important
-title: Estimating Land Values (Gwartney)
-year: 1999
 ---
 
 ## Summary

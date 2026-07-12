@@ -8,7 +8,7 @@ narrative_type: moral
 supported_by: [public-investment-capitalizes-into-land, public-goods-fundable-from-land-rent]
 related_people: [henry-george, joseph-stiglitz, ebenezer-howard, winston-churchill]
 related_places: [hong-kong, denmark]
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
 ---
 
 *This narrative is the forward-looking twin of the
@@ -80,8 +80,8 @@ This is, with its twin, the best-evidenced narrative premise in the wiki:
 - **The theorem is a benchmark, not a guarantee.** The Henry George Theorem's equality
   holds under optimal city size and optimal public-goods provision; real cities are
   neither. Behrens et al. show the second-best version departs from exact
-  equality.[9] Deployment should say "rent *can* fund much of it," not "rent always
-  suffices."
+  equality.[9] Deployment should say "rent *can* fund much of it," not that rent
+  suffices in every case.
 - **Attribution at parcel level is hard.** The capitalization literature identifies
   average uplifts around identifiable public actions; there is no accepted method for
   decomposing a *specific* parcel's value into community-created and owner-created

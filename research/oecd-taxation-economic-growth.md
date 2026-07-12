@@ -1,35 +1,17 @@
 ---
-authors:
-- Åsa Johansson
-- Christopher Heady
-- Jens Arnold
-- Bert Brys
-- Laura Vartia
-bears_on_objections:
-- lvt-is-just-a-property-tax
+title: "Taxation and Economic Growth (OECD Working Paper 620)"
 category: research
-excerpt: 'The OECD''s famous ''tax and growth'' ranking: recurrent taxes on immovable
-  property are least harmful to growth, then consumption, personal income, and corporate
-  taxes most harmful — the most-cited institutional case for shifting tax toward property.'
-last_reviewed: 2026-07-10
+subcategory: wiki-research-housing
+tags: [research, oecd, tax-and-growth, property-tax, cross-country, panel-data, corporate-tax, mainstream]
+authors: [Åsa Johansson, Christopher Heady, Jens Arnold, Bert Brys, Laura Vartia]
+year: 2008
+tier: core
 source_url: https://www.oecd.org/en/publications/taxation-and-economic-growth_241216205486.html
 stub: false
-subcategory: wiki-research-housing
-supports_outcomes:
-- lvt-can-replace-capital-taxes-without-efficiency-loss
-- taxing-land-raises-productivity
-tags:
-- research
-- oecd
-- tax-and-growth
-- property-tax
-- cross-country
-- panel-data
-- corporate-tax
-- mainstream
-tier: core
-title: Taxation and Economic Growth (OECD Working Paper 620)
-year: 2008
+excerpt: "The OECD's famous 'tax and growth' ranking: recurrent taxes on immovable property are least harmful to growth, then consumption, personal income, and corporate taxes most harmful — the most-cited institutional case for shifting tax toward property."
+last_reviewed: 2026-07-12
+supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, taxing-land-raises-productivity]
+bears_on_objections: [lvt-is-just-a-property-tax]
 ---
 
 ## Summary
@@ -89,6 +71,6 @@ Several caveats are essential to using this paper honestly in the Georgist case:
 2. Jens Arnold (2008), "Do Tax Structures Affect Aggregate Economic Growth? Empirical Evidence from a Panel of OECD Countries," *OECD Economics Department Working Papers*, No. 643, OECD Publishing, DOI: 10.1787/236001777843; issued as ECO/WKP(2008)51. [Free full-text PDF](https://one.oecd.org/document/ECO/WKP(2008)51/en/pdf) — the companion econometric paper that WP 620's Box 11 defers to "for details"; used (read directly) for the PMG error-correction estimator, the 21-country 1971–2004 sample, the ranking as stated in its abstract, and the caution against interpreting the negative overall-tax-burden coefficient.
 3. Jens Arnold, Bert Brys, Christopher Heady, Åsa Johansson, Cyrille Schwellnus & Laura Vartia (2011), "Tax Policy for Economic Recovery and Growth," *The Economic Journal*, 121(550), F59–F80, DOI: 10.1111/j.1468-0297.2010.02415.x. [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0297.2010.02415.x) — used to establish the peer-reviewed companion publication of the same research programme (see research/arnold-tax-growth-ej).
 4. Jing Xing (2012), "Tax structure and growth: How robust is the empirical evidence?", *Economics Letters*, 117(1), 379–382, DOI: 10.1016/j.econlet.2012.05.054. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165176512003229) · [abstract via IDEAS/RePEc](https://ideas.repec.org/a/eee/ecolet/v117y2012i1p379-382.html) — used for the robustness critique; the published abstract is quoted verbatim (cross-checked against the identical abstract on the Oxford CBT page).
-5. Jing Xing (2011), "Does tax structure affect economic growth? Empirical evidence from OECD countries," Oxford University Centre for Business Taxation Working Paper 11/20. [Free full-text PDF](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp1120.pdf) — the fuller working-paper version of Xing (2012), read directly; used for the finding that the property-tax shift is the only robust result.
+5. Jing Xing (2011), "Does tax structure affect economic growth? Empirical evidence from OECD countries," Oxford University Centre for Business Taxation Working Paper 11/20. [Free full-text PDF](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp1120.pdf) — the fuller working-paper version of Xing (2012), read directly; used for the finding that, among the tax-mix effects, the shift toward property taxes is the one robustly surviving result.
 6. Donatella Baiardi, Paola Profeta, Riccardo Puglisi & Simona Scabrosetti (2019), "Tax policy and economic growth: does it really matter?", *International Tax and Public Finance*, 26(2), 282–316. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2932798) — used for the later, more skeptical replication of the direct-to-indirect tax shift and growth claim.
 7. Institute for Fiscal Studies, *Tax by Design: The Mirrlees Review* (2011). [IFS](https://ifs.org.uk/books/tax-design) — used to establish this paper's downstream institutional influence; see [research/mirrlees-review](/wiki/mirrlees-review/).

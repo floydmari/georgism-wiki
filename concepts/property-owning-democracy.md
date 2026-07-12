@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, homeownership, political-economy, rethinking, homevoter, stub]
 stub: true
 excerpt: "A political ideal of spreading property ownership widely across society, coined by British Conservatives in the 1920s and later adopted by John Rawls — the aspiration behind mass-homeownership policy that helped create the homevoter bloc opposed to land value taxation."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -25,10 +25,11 @@ Josh Ryan-Collins, Toby Lloyd, and Laurie Macfarlane's *[Rethinking the Economic
    of Land and Housing* (Zed Books, 2017), Ch. 4 §4.3 — used for the concept's
    role as the political goal behind Britain's mass-homeownership strategy and
    its connection to homeowner political interests. See the wiki's [book page](/wiki/rethinking-economics-land-housing/).
-2. "Property-owning democracy," and background on Noel Skelton, James Meade,
-   and John Rawls's use of the term in *A Theory of Justice* (1971) —
-   basic-facts corroboration via general reference search this session
-   [CITATION NEEDED: a directly fetchable, stable URL for this background —
-   Wikipedia's "Property-owning democracy" article covers the term's origin
-   but could not be fetched directly in this session; verify before treating
-   the Skelton/Meade/Rawls lineage as final].
+2. Ben Jackson, "Property-Owning Democracy: A Short History," in Martin
+   O'Neill & Thad Williamson (eds.), *Property-Owning Democracy: Rawls and
+   Beyond* (Wiley-Blackwell, 2012), Ch. 2 — used for the term's lineage:
+   coined by the British Conservative Noel Skelton in the 1920s, transmitted
+   into political economy by James Meade, and given an egalitarian
+   reformulation in John Rawls's *A Theory of Justice* (1971).
+   [DOI: 10.1002/9781444355192.ch2](https://doi.org/10.1002/9781444355192.ch2)
+   · [free draft PDF](https://www-users.york.ac.uk/~mpon500/pod/Jackson.pdf)

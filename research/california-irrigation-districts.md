@@ -1,26 +1,16 @@
 ---
-authors:
-- E. Robert Scrofani
+title: "California Irrigation Districts and the Wright Act (1887)"
 category: research
-excerpt: California's 1887 Wright Act let farmers finance irrigation districts through
-  a tax on land value alone, exempting improvements — a documented case of land value
-  capture breaking up speculative landholding, though large ownership persisted and
-  later reforms reversed some gains.
-last_reviewed: 2026-07-11
+subcategory: wiki-research-resources
+tags: [research, land-value-capture, california, irrigation, history, wright-act]
+authors: [E. Robert Scrofani]
+year: 1992
+tier: supplementary
 source_url: https://www.henrygeorge.org/caldes.htm
 stub: false
-subcategory: wiki-research-resources
+excerpt: "California's 1887 Wright Act let farmers finance irrigation districts through a tax on land value alone, exempting improvements — a documented case of land value capture breaking up speculative landholding, though large ownership persisted and later reforms reversed some gains."
 supports_outcomes: []
-tags:
-- research
-- land-value-capture
-- california
-- irrigation
-- history
-- wright-act
-tier: supplementary
-title: California Irrigation Districts and the Wright Act (1887)
-year: 1992
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -37,7 +27,7 @@ The most-cited case is the Modesto Irrigation District, formed in 1887 by a 700�
 
 ## Honest Scope and Limits
 
-The Wright Act's effect on farm size was real but partial, and did not eliminate large-scale [land monopoly](/wiki/land-monopoly/) in California. By the turn of the century, roughly 62% of the state's agricultural land was still held in ownerships exceeding 1,000 acres.[1] The Act was itself amended in 1897 to stop new districts forming, after speculative and poorly supervised districts caused problems, and state oversight of district formation shifted to a dedicated commission in 1913.[1] Georgist writers argue that later twentieth-century federal water projects — which subsidised water without the Wright Act's land-value financing, and without effective enforcement of the 1902 Reclamation Act's 160-acre ownership limit — reversed much of the district era's family-farm gains and allowed large corporate landholding to re-consolidate in parts of the Central Valley; this claim, however, rests substantially on a single Georgist-movement source rather than independently verified economic history, and should be read as a movement perspective on a real and separately documented later trend (federal water subsidy and the weak enforcement of acreage limits) rather than a settled academic finding [CITATION NEEDED: independent economic-history assessment quantifying how much of any later re-consolidation is attributable to the Reclamation-era water subsidy specifically].
+The Wright Act's effect on farm size was real but partial, and did not eliminate large-scale [land monopoly](/wiki/land-monopoly/) in California. By the turn of the century, roughly 62% of the state's agricultural land was still held in ownerships exceeding 1,000 acres.[1] The Act was itself amended in 1897 to stop new districts forming, after speculative and poorly supervised districts caused problems, and state oversight of district formation shifted to a dedicated commission in 1913.[1] Georgist writers argue that later twentieth-century federal water projects — which subsidised water without the Wright Act's land-value financing, and without effective enforcement of the 1902 Reclamation Act's 160-acre ownership limit — reversed much of the district era's family-farm gains and allowed large corporate landholding to re-consolidate in parts of the Central Valley; this claim, however, rests substantially on a single Georgist-movement source rather than independently verified economic history, and should be read as a movement perspective on a real and separately documented later trend (federal water subsidy and the weak enforcement of acreage limits) rather than a settled academic finding. No independent economic-history study quantifying how much of any later re-consolidation is attributable specifically to the Reclamation-era water subsidy was located this session; the attribution to that mechanism remains the Georgist writers' interpretation, not a verified magnitude.
 
 ## See Also
 

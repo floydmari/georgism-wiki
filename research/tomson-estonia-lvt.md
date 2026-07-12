@@ -1,26 +1,15 @@
 ---
-authors:
-- Aivar Tomson
+title: "Sustainable Urban Development and Land Value Taxation: The Case of Estonia"
 category: research
-excerpt: Compares Tallinn (pure land value tax since 1993) with Riga, finding higher
-  inner-city density and construction under the land-only tax.
-source_url: https://www.sciencedirect.com/science/article/abs/pii/S0264837716304999
-stub: false
 subcategory: wiki-research-resources
-supports_outcomes:
-- lvt-improves-housing-affordability
-- lvt-reduces-sprawl
-- lvt-dampens-land-speculation
-tags:
-- research
-- estonia
-- tallinn
-- empirical
-- urban-density
-- lvt
-tier: important
-title: 'Sustainable Urban Development and Land Value Taxation: The Case of Estonia'
+tags: [research, estonia, tallinn, empirical, urban-density, lvt]
+authors: [Aivar Tomson]
 year: 2016
+source_url: https://www.sciencedirect.com/science/article/abs/pii/S0264837716304999
+tier: important
+supports_outcomes: [lvt-improves-housing-affordability, lvt-reduces-sprawl, lvt-dampens-land-speculation, split-rate-increases-construction]
+stub: false
+excerpt: "Compares Tallinn (pure land value tax since 1993) with Riga, finding higher inner-city density and construction under the land-only tax."
 ---
 
 ## Summary

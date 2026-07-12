@@ -5,10 +5,15 @@ claim_type: benefit
 tags: [outcomes, resource-rents, citizens-dividend, alaska]
 stub: false
 evidence_strength: "Strong (decades of real-world operation)"
-supported_by: [jones-marinescu-alaska-pfd, segal-resource-dividend, goldsmith-alaska-pfd-wealth-distribution, widerquist-howard-pfd, hartwick-rule]
+supported_by: [jones-marinescu-alaska-pfd, segal-resource-dividend, goldsmith-alaska-pfd-wealth-distribution, widerquist-howard-pfd, hartwick-rule, guettabi-pfd-effects-survey]
 excerpt: "Alaska's decades-long Permanent Fund Dividend shows that capturing natural-resource rent and distributing it as a citizen's dividend is administratively and politically durable."
 challenged_by: [martinez-colombia-resource-rents]
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Capturing a natural resource's rent and paying it out as an equal per-capita dividend is administratively simple and politically durable — Alaska's dividend has run continuously since 1982 across four decades and changing administrations.
+> **Evidence:** Strong (decades of real-world operation) · **6 supporting** sources · **1 challenging**
+> **Strongest support:** [Guettabi (2019)](/wiki/guettabi-pfd-effects-survey/) — the authoritative synthesis of four decades of Alaska dividend evidence: durable operation, substantial poverty reduction, and no detectable aggregate labor withdrawal. **Strongest counter:** [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) — Colombian municipalities receiving large resource-rent transfers show weaker local tax effort and accountability, a local resource curse showing distribution design matters.
 
 ## The Claim
 
@@ -22,13 +27,15 @@ The **[Alaska Permanent Fund](/wiki/alaska-permanent-fund/)** has, since 1982, p
 - Equal per-capita distribution is administratively trivial.
 - The dividend becomes a durable entitlement that voters protect — politically resilient in a way many transfer programs are not.
 
+[Guettabi's synthesis of the PFD-effects literature](/wiki/guettabi-pfd-effects-survey/) is the authoritative summary of four decades of evidence: substantial poverty reductions (largest for rural Alaska Natives) with no detectable aggregate labor-market withdrawal — the workability claim, confirmed across studies rather than in any single one. One honest timing nuance from the same literature: [Watson, Guettabi & Reimer](/wiki/watson-guettabi-reimer-cash-crime/) find substance-abuse incidents rise briefly right after disbursement while property crime falls, with small net annual effects — a lump-sum-timing cost that monthly payment designs would avoid.
+
 ## Significance
 
 Alaska is the closest large-scale, long-running proof of concept for the Georgist idea that the rent of [natural resources](/wiki/resource-rents/) belongs to all and can be returned directly to citizens.
 
 ## Caveats
 
-Alaska is not the only long-running per-capita dividend from a co-owned asset. The [Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) documents the Eastern Band of Cherokee Indians distributing an equal per-capita share of casino profits to every tribal member every six months since 1996 — an unconditional common-asset dividend that, like Alaska's, ran durably and showed no detectable labor-supply withdrawal (Akee et al. 2010), while also improving recipients' children's long-run outcomes. (The underlying rent is gaming/monopoly rent rather than resource rent, but the distributive mechanism is the same.)
+Alaska is not the sole long-running per-capita dividend from a co-owned asset. The [Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) documents the Eastern Band of Cherokee Indians distributing an equal per-capita share of casino profits to every tribal member every six months since 1996 — an unconditional common-asset dividend that, like Alaska's, ran durably and showed no detectable labor-supply withdrawal (Akee et al. 2010), while also improving recipients' children's long-run outcomes. (The underlying rent is gaming/monopoly rent rather than resource rent, but the distributive mechanism is the same.)
 
 Not every resource-rent windfall behaves like Alaska's transparent, per-capita dividend. [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that in Colombia, municipalities receiving large resource-rent transfers show *weaker* local tax effort and accountability — a local "resource curse" that cuts the other way. The lesson is that *how* rent is captured and distributed (transparent, equal, direct dividend vs. opaque government transfer) matters as much as the fact of capture itself.
 
@@ -67,6 +74,7 @@ Barnes's cautionary tale (Ch. 8) examines carbon capping as implemented through 
 
 ## See Also
 
+- [Maricá, Brazil: an oil-royalty-funded basic income](/wiki/marica-brazil-basic-income/) — the second real-world permanent resource-rent dividend beyond Alaska (income +9%, consumption +5%)
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — the distributional evidence for the same three studies, with counter-evidence, kept distinct from the workability claim here
 - [The Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) — a second durable per-capita dividend from a co-owned asset, with causal outcome evidence
 

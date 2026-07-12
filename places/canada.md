@@ -10,7 +10,7 @@ tags:
   - distributional-impacts
 stub: false
 excerpt: "Canada is a country with significant economic rents from land and natural resources — estimated by Common Wealth Canada at ~$421B/year of newly collectible rent (January 2023 version), revised to ~$241B/year (~$194B from a national LVT) in the July 2023 Final version."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -31,7 +31,7 @@ An April 2024 Common Wealth Canada research note by Liam Wilkinson, *Assessing t
 
 A key finding is that an LVT considered on its own — before the income-tax changes and credit — is **regressive relative to current income**: "Households in the lower deciles hold higher assets values in proportion to their income therefore the incidence of an LVT reflects this and is highly regressive" (e.g., retirees who are land-rich but income-poor; retired homeowners are "nearly universally worse off" under the BPA variant). Once the flat refundable credit is added, the combined package "leaves 80% of households better off," with net negative impact concentrated among the wealthiest households. The note concludes that "a negative income tax or guaranteed basic model may offer a more progressive approach" than a flat per-household credit.[3]
 
-The study closes by acknowledging a **constitutional constraint** on the national design it models — without invoking specific constitutional provisions, it states that "any likely LVT implement[ation] and accompanying reform would be constitutionally constrained to being enacted at the provincial level," and announces that the organization's next research effort will therefore model the reforms provincially, noting that British Columbia is the only jurisdiction where land values are already independently assessed.[3]
+The study closes by acknowledging a **constitutional constraint** on the national design it models — without invoking specific constitutional provisions, it states that "any likely LVT implement[ation] and accompanying reform would be constitutionally constrained to being enacted at the provincial level," and announces that the organization's next research effort will therefore model the reforms provincially, noting that British Columbia is the sole province where land values are already independently assessed.[3]
 
 ## Provincial Resource Wealth and the Common Wealth Fund
 

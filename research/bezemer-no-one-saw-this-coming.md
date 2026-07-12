@@ -1,27 +1,17 @@
 ---
-authors:
-- Dirk J. Bezemer
+title: "\"No One Saw This Coming\": Understanding Financial Crisis Through Accounting Models (Bezemer)"
 category: research
-excerpt: 'Bezemer''s independent survey of who publicly anticipated the 2008 crisis
-  and why: the twelve analysts with documented, reasoned calls all used accounting/flow-of-funds
-  models rather than equilibrium models — the outside validation the wiki cites for
-  Fred Harrison''s prediction record (Harrison is in Bezemer''s twelve; Foldvary is
-  not).'
-last_reviewed: 2026-07-06
+subcategory: wiki-research-finance
+tags: [research, prediction-record, 2008-crisis, flow-of-funds, heterodox]
+authors: [Dirk J. Bezemer]
+year: 2009
+tier: important
 source_url: https://mpra.ub.uni-muenchen.de/15892/
 stub: false
-subcategory: wiki-research-finance
+excerpt: "Bezemer's independent survey of who publicly anticipated the 2008 crisis and why: the twelve analysts with documented, reasoned calls all used accounting/flow-of-funds models rather than equilibrium models — the outside validation the wiki cites for Fred Harrison's prediction record (Harrison is in Bezemer's twelve; Foldvary is not)."
+last_reviewed: 2026-07-12
+bears_on_objections: [bubbles-cannot-be-identified-in-advance]
 supports_outcomes: []
-tags:
-- research
-- prediction-record
-- 2008-crisis
-- flow-of-funds
-- heterodox
-tier: important
-title: '"No One Saw This Coming": Understanding Financial Crisis Through Accounting
-  Models (Bezemer)'
-year: 2009
 ---
 
 ## Summary
@@ -55,9 +45,7 @@ This page de-references the citation carried by
 [the 18.6-year-cycle research page](/wiki/progress-18-6-year-cycle/): Bezemer is
 the *independent, non-Georgist* auditor of the prediction record — which is exactly
 why the wiki cites him rather than the predictors' own retrospectives. Harrison's
-Table 1 entry quotes his 2005 call that "the next property market tipping point is
-due at end of 2007 or early 2008 … The only way prices can be brought back to
-affordable levels is a slump or recession."[1]
+Table 1 entry quotes his 2005 call that "the next property market tipping point is due at end of 2007 or early 2008 … The only way prices can be brought back to affordable levels is a slump or recession."[1]
 
 ## See Also
 

@@ -5,11 +5,15 @@ claim_type: benefit
 tags: [outcomes, ace, cash-flow-tax, corporate-tax, debt-bias, tech-rents, geoism, contested-frontier]
 stub: false
 evidence_strength: "Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset"
-supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, panier-perez-gonzalez-villanueva-belgium-ace, power-frerick-excess-returns, domar-musgrave-risk]
+supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, panier-perez-gonzalez-villanueva-belgium-ace, petutschnig-runger-austria-ace, power-frerick-excess-returns, domar-musgrave-risk]
 challenged_by: [hebous-ruf-ace]
 excerpt: "Corporate tax bases that exempt the normal return and tax only above-normal returns — the ACE and cash-flow designs — demonstrably remove the tax subsidy to leverage and, in the expensing variant, stimulate investment. The honest limits: multinationals arbitraged unilateral versions, every full European ACE was repealed, and some of what such taxes reach is quasi-rent."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Rent-targeting corporate taxes — the allowance for corporate equity and cash-flow taxes — reduce the tax subsidy to debt and leave marginal investment untaxed, strongly supported by quasi-experiments for the leverage effect and positively for expensing-driven investment, though effects on multinationals' real investment are contested.
+> **Evidence:** Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset · **6 supporting** sources · **1 challenging**
+> **Strongest support:** [Zwick & Mahon (2017)](/wiki/zwick-mahon-expensing/) — US bonus depreciation, a move toward expensing, raised eligible investment by roughly 10–17%, concentrated among cash-constrained firms. **Strongest counter:** [Hebous & Ruf (2017)](/wiki/hebous-ruf-ace/) — the strongest-identified ACE study finds the reform reduced corporate leverage but its effect on multinationals' real investment was weak.
 
 ## The Claim
 
@@ -50,8 +54,14 @@ In descending evidential weight:
   who exploit the 2006 notional interest deduction with neighboring countries as
   controls and find capital structure "significantly responds," the equity share
   rising through *higher equity* rather than lower liabilities (Princen 2012 and
-  aus dem Moore 2014 concur) — making the debt-bias effect the best-replicated
-  result in this literature.
+  aus dem Moore 2014 concur). A third country now replicates it:
+  [Petutschnig & Rünger (2022)](/wiki/petutschnig-runger-austria-ace/), in
+  *Public Finance Review*, find Austria's ACE raised corporate equity ratios by
+  ~1.36–2.30 percentage points — with the honest caveat that take-up was
+  uneven (dispersed-ownership firms often declined it, the dividend-constraint
+  cost sometimes exceeding the tax benefit). Italy, Belgium and Austria pointing
+  the same way makes the debt-bias effect the best-replicated result in this
+  literature.
 - **Most of the corporate base is already above-normal returns —
   [Power & Frerick (2016)](/wiki/power-frerick-excess-returns/).** US Treasury
   microdata: the normal-return share of the corporate tax base fell from ~40%
@@ -159,3 +169,8 @@ rule.)*
    Structure and Taxes: What Happens When You (Also) Subsidize Equity?" — used for
    the Belgian full-stock ACE (NID) leverage/equity-share evidence.
    [Research page](/wiki/panier-perez-gonzalez-villanueva-belgium-ace/)
+9. Matthias Petutschnig & Silke Rünger (2022), "The Effect of an Allowance for
+   Corporate Equity on Capital Structure: Evidence From Austria," *Public Finance
+   Review* 50(5) — used for the third-country (Austria) replication of the
+   equity-ratio increase and the take-up heterogeneity caveat.
+   [Research page](/wiki/petutschnig-runger-austria-ace/)

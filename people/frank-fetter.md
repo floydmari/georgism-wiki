@@ -6,7 +6,7 @@ stub: true
 born: 1863
 died: 1949
 excerpt: "American economist (1863–1949), leader of the early Austrian school in the US, whose 1927 essay on J.B. Clark's capital theory states on the record that the 'immediate stimulation' for Clark's anti-Georgist reformulation of capital was 'the contemporary single tax discussion.'"
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ For this wiki, Fetter matters as a witness, not merely a theorist. A disciple an
 
 Gaffney's essay "[Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/)," the core chapter of *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)* (Gaffney & Harrison, 1994), cites the Fetter passage directly, describing Fetter's chapter as "a good display of Clark's essential polemical motivation" precisely because of "the very candor and extremism of Fetter's exposition."[2] Gaffney reads Fetter — a sympathetic insider defending Clark's legacy, not an outside critic — as inadvertently corroborating the claim that Clark's land-into-capital merger was tailored against George, since Fetter had no motive to invent an anti-Georgist backstory for his own intellectual tradition.
 
-[VERIFY: this stub draws the Fetter quotation from its secondary citation in Gaffney's essay; a direct read of Fetter (1927) pp. 136–156 would allow fuller quotation and context.]
+This stub draws the Fetter quotation from its secondary citation in Gaffney's essay; a direct read of Fetter (1927) pp. 136–156 would allow fuller quotation and context.
 
 ## Significance for the Wiki
 

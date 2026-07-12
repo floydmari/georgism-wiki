@@ -1,27 +1,17 @@
 ---
-authors:
-- William Larson
+title: "New Estimates of Value of Land of the United States"
 category: research
-excerpt: A U.S. Bureau of Economic Analysis working paper estimating the total value
-  of land in the contiguous United States at roughly $23 trillion (2009), using hedonic
-  methods rather than the older residual approach.
-last_reviewed: 2026-07-03
+subcategory: wiki-research-resources
+tags: [research, official-statistics, land-value, revenue-sufficiency, united-states, bea, hedonic-methods]
+authors: [William Larson]
+year: 2015
+tier: Core
 source_url: https://www.bea.gov/research/papers/2015/new-estimates-value-land-united-states
 stub: false
-subcategory: wiki-research-resources
-supports_outcomes:
-- land-rent-could-fund-government
-tags:
-- research
-- official-statistics
-- land-value
-- revenue-sufficiency
-- united-states
-- bea
-- hedonic-methods
-tier: Core
-title: New Estimates of Value of Land of the United States
-year: 2015
+excerpt: "A U.S. Bureau of Economic Analysis working paper estimating the total value of land in the contiguous United States at roughly $23 trillion (2009), using hedonic methods rather than the older residual approach."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-no-longer-matters, lvt-not-enough-revenue]
+supports_outcomes: [land-rent-could-fund-government]
 ---
 
 ## Summary

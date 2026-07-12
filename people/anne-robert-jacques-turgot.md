@@ -6,7 +6,7 @@ stub: true
 born: 1727
 died: 1781
 excerpt: "French statesman and physiocrat-aligned economist (1727–1781) whose Reflections on the Formation and Distribution of Wealth (1770) developed Quesnay's theory that land is the sole source of net product, a decade before Adam Smith."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ Anne Robert Jacques Turgot, Baron de l'Aulne (10 May 1727 – 18 March 1781), wa
 
 ## Physiocratic Land Theory and Reforms
 
-In the *Reflections*, Turgot developed Quesnay's core physiocratic claim that agriculture, and therefore land, is the only source of a true net product (*produit net*) — that manufacturing and commerce merely rearrange value that ultimately originates in the soil — and divided society into a productive (agricultural) class, a salaried/artisan class, and a class living off land's disposable surplus.[1] As Controller-General, he tried to put physiocratic and free-trade principles into practice: the Six Edicts of 1776 abolished the corvée (forced peasant labor on roads, replaced by a tax on all landowners) and dissolved the guild system's monopolies on trades, alongside earlier moves toward free internal trade in grain. The reforms provoked fierce opposition from the privileged classes and the court, and Turgot was dismissed on 12 May 1776, ending his brief tenure as France's chief financial minister.[1]
+In the *Reflections*, Turgot developed Quesnay's core physiocratic claim that agriculture, and therefore land, is the sole source of a true net product (*produit net*) — that manufacturing and commerce merely rearrange value that ultimately originates in the soil — and divided society into a productive (agricultural) class, a salaried/artisan class, and a class living off land's disposable surplus.[1] As Controller-General, he tried to put physiocratic and free-trade principles into practice: the Six Edicts of 1776 abolished the corvée (forced peasant labor on roads, replaced by a tax on all landowners) and dissolved the guild system's monopolies on trades, alongside earlier moves toward free internal trade in grain. The reforms provoked fierce opposition from the privileged classes and the court, and Turgot was dismissed on 12 May 1776, ending his brief tenure as France's chief financial minister.[1]
 
 ## Significance for Georgism
 

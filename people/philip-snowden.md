@@ -6,7 +6,7 @@ stub: true
 born: 1864
 died: 1937
 excerpt: "British Labour politician and the first Labour Chancellor of the Exchequer (1924, 1929-31), influenced by Henry George, who put a land value tax on the statute book in his 1931 budget - suspended in 1932 and repealed before it ever took effect."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -30,4 +30,5 @@ Snowden's 1931 budget legislated a new land value tax, intended to require valua
 1. "Philip Snowden, 1st Viscount Snowden," Wikipedia — used for birth/death dates, the 1924 and 1929–31 chancellorships, and his 1931 break with the Labour Party. [Wikipedia](https://en.wikipedia.org/wiki/Philip_Snowden,_1st_Viscount_Snowden)
 2. UK Parliament, Historic Hansard, "Clause 24.—(Suspension Of Land Value Tax.)," House of Commons debate, 26 May 1932 — used to confirm the 1932 suspension of the tax before it took effect. [Hansard](https://api.parliament.uk/historic-hansard/commons/1932/may/26/clause-24-suspension-of-land-value-tax)
 3. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010* (Shepheard-Walwyn, 2005), Ch. 12 §4 — the discovery source for this page; covers Snowden's Henry George-influenced land valuation and food-tax proposals and their reversal. See the [wiki book page](/wiki/harrison-boom-bust/). Also see Fred Harrison, *The Power in the Land* (1983), Ch. 13, pp. 182–183, for a parallel account of the 1931 budget.
-4. UK Parliament, Hansard, "Clause 25—(Repeal Of Land Value Tax)," House of Commons debate, 5 June 1934 — used for the formal 1934 repeal of the land value tax legislated in 1931. [Hansard](https://hansard.parliament.uk/commons/1934-06-05/debates/560ad57c-5259-4511-baa9-856eb72c2152/Clause25%E2%80%94(RepealOfLandValueTax)) [CITATION NEEDED: primary text of the 1931 Finance Act's land value tax clauses themselves, not consulted directly in this session.]
+4. UK Parliament, Hansard, "Clause 25—(Repeal Of Land Value Tax)," House of Commons debate, 5 June 1934 — used for the formal 1934 repeal of the land value tax legislated in 1931. [Hansard](https://hansard.parliament.uk/commons/1934-06-05/debates/560ad57c-5259-4511-baa9-856eb72c2152/Clause25%E2%80%94(RepealOfLandValueTax))
+5. UK Public General Acts, *Finance Act 1931* (21 & 22 Geo. 5, c. 28), **Part III — Land Value Tax** (sections 10–25). [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Geo5/21-22/28/part/III/enacted) — the primary statutory text of the land value tax clauses Snowden's 1931 budget enacted; Part III groups the tax's charging, valuation, and supplemental provisions (the operative sections were later repealed, and appear struck through in the current consolidated text).

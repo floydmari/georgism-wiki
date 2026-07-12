@@ -5,7 +5,7 @@ tags: [concepts, pigouvian-taxation, externalities, carbon-pricing, environmenta
 stub: false
 supports_outcomes: [carbon-pricing-cuts-emissions]
 excerpt: "The externality-pricing tradition that charges for socially costly use of shared resources — and its Georgist kinship, which frames pollution and extraction as unpriced takings from the commons."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-12
 ---
 
 ## Definition
@@ -76,4 +76,4 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 5. James K. Boyce, "Carbon Pricing: Effectiveness and Equity," *Ecological Economics* 150 (2018), pp. 52–61 — the peer-reviewed statement of the same commons-rent/carbon-dividend argument. DOI [10.1016/j.ecolecon.2018.03.030](https://doi.org/10.1016/j.ecolecon.2018.03.030).
 6. Kevin Rennert et al., "Comprehensive evidence implies a higher social cost of CO₂," *Nature* 610 (2022), pp. 687–692 — used for the ~$185/tonne central social-cost-of-carbon estimate and its sensitivity to damage functions and discounting. DOI [10.1038/s41586-022-05224-9](https://doi.org/10.1038/s41586-022-05224-9).
 7. Lawrence H. Goulder, "Environmental Taxation and the 'Double Dividend': A Reader's Guide," *International Tax and Public Finance* 2(2) (1995), pp. 157–183 — used for the weak/strong double-dividend distinction and the tax-interaction effects that qualify it. DOI [10.1007/BF00877495](https://doi.org/10.1007/BF00877495) (also [NBER WP 4896](https://www.nber.org/papers/w4896)).
-8. Alanna Hartzok (2008), *The Earth Belongs to Everyone*, Institute for Economic Democracy Press — referenced in this wiki's ecological-georgism page for the land-rent-capture / environmental-justice convergence. [CITATION NEEDED: a stable external URL for this book — not confirmed this session; the peer-reviewed load for the carbon-rent framing now rests on Boyce (sources 4–5) instead.]
+8. Alanna Hartzok (2008), *The Earth Belongs to Everyone*, Institute for Economic Democracy Press — referenced in this wiki's ecological-georgism page for the land-rent-capture / environmental-justice convergence. No stable external URL for this book has been confirmed; it carries no load-bearing claim on this page — the peer-reviewed weight for the carbon-rent framing rests on Boyce (sources 4–5).

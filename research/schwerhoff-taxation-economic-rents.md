@@ -1,27 +1,17 @@
 ---
-authors:
-- Gregor Schwerhoff
-- Ottmar Edenhofer
-- Marc Fleurbaey
+title: "Taxation of Economic Rents"
 category: research
-excerpt: 'The modern academic survey of rent taxation: a seven-type rent typology
-  concluding that land rents are one of the few true scarcity rents and the clearest
-  case for taxation.'
-source_url: https://publications.pik-potsdam.de/rest/items/item_23401_2/component/file_23402/content
-stub: false
 subcategory: wiki-research-resources
-supports_outcomes:
-- lvt-can-replace-capital-taxes-without-efficiency-loss
-tags:
-- research
-- survey
-- economic-rents
-- optimal-taxation
-- rent-typology
-- lvt
-tier: important
-title: Taxation of Economic Rents
+tags: [research, survey, economic-rents, optimal-taxation, rent-typology, lvt]
+authors: [Gregor Schwerhoff, Ottmar Edenhofer, Marc Fleurbaey]
 year: 2020
+source_url: https://publications.pik-potsdam.de/rest/items/item_23401_2/component/file_23402/content
+tier: important
+stub: false
+excerpt: "The modern academic survey of rent taxation: a seven-type rent typology concluding that land rents are one of the few true scarcity rents and the clearest case for taxation."
+supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, taxing-land-raises-productivity]
+last_reviewed: 2026-07-12
+bears_on_objections: [marshall-single-tax-objection]
 ---
 
 ## Summary

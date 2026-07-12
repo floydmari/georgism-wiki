@@ -5,7 +5,7 @@ tags: [objections, adoption, political-economy, revealed-preference, implementat
 stub: false
 status: "Partly conceded — the endorsement-vs-adoption gap is real and the rollback record (UK 1931, Altoona, Pittsburgh) shows the transition and assessment problems are not merely theoretical; but 'revealed preference proves it's wrong' overreaches, since diluted forms are in fact widespread and non-adoption is exactly what political economy predicts for a reform that gores a concentrated interest."
 excerpt: "The revealed-preference challenge: a tax that economists from Smith to Friedman call near-perfect, yet almost no jurisdiction runs in pure form and several have repealed — surely that absence is itself evidence against it. The steelman, the actual adoption record, why good policies routinely go unadopted, and what the rollbacks really show."
-last_reviewed: 2026-07-07
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -52,14 +52,20 @@ and site-value systems operate in ~20 [Pennsylvania](/wiki/pennsylvania/) munici
 [Taiwan](/wiki/taiwan/) built a land-value and increment tax into its post-war settlement. The
 honest description is "widely adopted in diluted form, rarely in pure form" — exactly what one
 expects of a reform that must be grafted onto entrenched property-tax institutions rather than
-built from scratch.
+built from scratch. Andelson's definitive country-by-country survey,
+[*Land-Value Taxation Around the World*](/wiki/andelson-lvt-around-the-world/), catalogues these
+diluted adoptions across dozens of jurisdictions — the empirical answer to "almost no one uses it."
 
 **2. "Good but unadopted" is the norm in tax policy, not an anomaly.** The benefit of an LVT is
 diffuse (a slightly more efficient economy) while its cost is concentrated on a wealthy,
 organised, and highly motivated group — the textbook [Olsonian collective-action
 problem](/wiki/homevoters-will-block-lvt/), sharpened by the fact that current owners paid
 market prices and would bear a one-time capitalised loss ([transition wealth
-shock](/wiki/lvt-transition-wealth-shock/)). Economists also broadly favour carbon taxes and
+shock](/wiki/lvt-transition-wealth-shock/)). Michael Hudson's catalogue of
+[Henry George's political critics](/wiki/hudson-georges-political-critics/) documents the
+specific historical mechanism: twelve political attacks that isolated the single-tax movement
+from socialists, organised labour, and academic economists after 1887 — a coalition failure,
+not an economic refutation. Economists also broadly favour carbon taxes and
 abolishing the mortgage-interest deduction; those are rare too. Non-adoption tracks political
 feasibility, not economic merit — and by the objection's own logic one would have "refuted"
 [congestion pricing](/wiki/congestion-pricing/), near-nonexistent until the 2000s and now

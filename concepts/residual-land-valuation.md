@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, residual-valuation, land-value, developers, house-prices, stub]
 stub: true
 excerpt: "The standard method developers use to price land: expected sales revenue minus construction costs, finance costs, and required profit. It explains why land absorbs planning gain in full and why building costs do not set house prices."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -27,5 +27,5 @@ The residual method also illustrates a valuation difficulty relevant to [mass-ap
 
 ## Sources
 
-1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *[Rethinking the Economics of Land and Housing](/wiki/rethinking-economics-land-housing/)* (Zed Books, 2017), Ch. 4, Box 4.7 — used for the definition of residual land valuation (sales value minus development costs and required profit) and its role in explaining how planning gain and demand increases are capitalized into land price rather than construction cost. [Book page](/wiki/rethinking-economics-land-housing/) [VERIFY: this stub draws on the wiki's discovery-report chapter locator for Box 4.7 rather than a fresh page-level read of the book's text.]
+1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *[Rethinking the Economics of Land and Housing](/wiki/rethinking-economics-land-housing/)* (Zed Books, 2017), Ch. 4, Box 4.7 — used for the definition of residual land valuation (sales value minus development costs and required profit) and its role in explaining how planning gain and demand increases are capitalized into land price rather than construction cost. [Book page](/wiki/rethinking-economics-land-housing/). The Box 4.7 locator comes from the wiki's discovery report rather than a fresh page-level read; the method's definition itself is independently corroborated by the Lincoln Institute source below, which carries the page's load-bearing claim.
 2. Lincoln Institute of Land Policy, "Traditional Methods and New Approaches to Land Valuation" — used for independent corroboration of the "cost of development" / land-residual valuation approach (estimating unimproved land value from the sale price a developer could realize, minus development costs) and its practical limitations for mass assessment. [Free article](https://www.lincolninst.edu/publications/articles/traditional-methods-new-approaches-land-valuation/)

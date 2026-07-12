@@ -1,28 +1,16 @@
 ---
-authors:
-- Michael Hudson
+title: "Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy"
 category: research
-excerpt: Michael Hudson's 2015 polemic arguing the finance-insurance-real-estate (FIRE)
-  sector extracts economic rent — chiefly land rent capitalized into mortgage debt
-  — at the expense of industrial capitalism, and that classical economics' rent theory
-  was deliberately erased from the mainstream.
-last_reviewed: 2026-07-10
+subcategory: wiki-research-lvt
+tags: [research, hudson, fire-sector, rent, financialization, debt, book]
+authors: [Michael Hudson]
+year: 2015
+tier: important
 source_url: https://www.counterpunch.org/wp-content/uploads/2015/08/Killing-The-Host_PDF_V7.pdf
 stub: false
-subcategory: wiki-research-lvt
+excerpt: "Michael Hudson's 2015 polemic arguing the finance-insurance-real-estate (FIRE) sector extracts economic rent — chiefly land rent capitalized into mortgage debt — at the expense of industrial capitalism, and that classical economics' rent theory was deliberately erased from the mainstream."
+last_reviewed: 2026-07-12
 supports_outcomes: []
-tags:
-- research
-- hudson
-- fire-sector
-- rent
-- financialization
-- debt
-- book
-tier: important
-title: 'Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global
-  Economy'
-year: 2015
 ---
 
 ## Overview
@@ -239,6 +227,7 @@ The strongest sourced criticisms of the book fall into three categories:
    print page numbers are not given because the e-book PDF uses front-matter roman-numeral and
    internal pagination that does not map cleanly to the print edition, and the Internet Archive's
    borrowable digital copy is a "reflowable" e-book-derived digitization with lending-restricted
-   access, so it cannot be used to confirm print pagination either. [VERIFY: exact print-edition
-   page numbers for the quoted passages, if precise pagination is later required; unconfirmable
-   from open sources as of 2026-07.]
+   access, so it cannot be used to confirm print pagination either. Exact print-edition page
+   numbers for the quoted passages were unconfirmable from open sources as of 2026-07; chapter-level
+   locations are cited instead, and a future editor with the print edition can add page numbers if
+   precise pagination is later required.

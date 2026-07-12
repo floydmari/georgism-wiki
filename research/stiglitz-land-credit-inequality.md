@@ -1,25 +1,16 @@
 ---
-authors:
-- Joseph E. Stiglitz
+title: "Stiglitz (2015): Land and Credit in the Distribution of Income and Wealth"
 category: research
-excerpt: Stiglitz's NBER working paper arguing that most of the modern rise in the
-  wealth-income ratio and wealth inequality reflects rising land values, not productive
-  capital, and that taxing land returns could raise incomes and reduce inequality.
-last_reviewed: 2026-07-11
-source_url: https://www.nber.org/papers/w21192
-stub: true
 subcategory: wiki-research-housing
-tags:
-- research
-- stiglitz
-- land
-- credit
-- inequality
-- wealth-distribution
-- stub
-tier: core
-title: 'Stiglitz (2015): Land and Credit in the Distribution of Income and Wealth'
+tags: [research, stiglitz, land, credit, inequality, wealth-distribution, stub]
+authors: [Joseph E. Stiglitz]
 year: 2015
+source_url: https://www.nber.org/papers/w21192
+tier: core
+stub: true
+excerpt: "Stiglitz's NBER working paper arguing that most of the modern rise in the wealth-income ratio and wealth inequality reflects rising land values, not productive capital, and that taxing land returns could raise incomes and reduce inequality."
+last_reviewed: 2026-07-12
+bears_on_objections: [land-no-longer-matters]
 ---
 
 ## Overview

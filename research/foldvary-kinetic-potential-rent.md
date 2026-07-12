@@ -1,26 +1,17 @@
 ---
-authors:
-- Fred Foldvary
+title: "Kinetic Rent and Potential Rent (Foldvary)"
 category: research
-excerpt: 'Foldvary''s decomposition of economic rent for revenue estimation: kinetic
-  rent (explicit, hidden, and implicit rent actually flowing) versus potential rent
-  (including rent suppressed by taxation and regulation). The conceptual scaffolding
-  under every ''how much rent is there?'' dispute on this wiki.'
-last_reviewed: 2026-07-06
+subcategory: wiki-research-finance
+tags: [research, economic-rent, rent-estimation, foldvary, theory, atcor]
+authors: [Fred Foldvary]
+year: 2012
+tier: important
 source_url: https://cooperative-individualism.org/foldvary-fred_why-rent-matters-the-hidden-and-suppressed-economic-rent-2012-jun.pdf
 stub: false
-subcategory: wiki-research-finance
+excerpt: "Foldvary's decomposition of economic rent for revenue estimation: kinetic rent (explicit, hidden, and implicit rent actually flowing) versus potential rent (including rent suppressed by taxation and regulation). The conceptual scaffolding under every 'how much rent is there?' dispute on this wiki."
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-not-enough-revenue]
 supports_outcomes: []
-tags:
-- research
-- economic-rent
-- rent-estimation
-- foldvary
-- theory
-- atcor
-tier: important
-title: Kinetic Rent and Potential Rent (Foldvary)
-year: 2012
 ---
 
 ## Summary

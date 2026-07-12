@@ -4,7 +4,7 @@ category: organizations
 tags: [organizations, fairhope, alabama, single-tax, land-leasing, history]
 stub: false
 excerpt: "Founded in 1894, the corporation owns Fairhope, Alabama's land and leases it to residents on a land-rent basis — one of the longest-running practical applications of Georgist land policy, still operating today."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -13,7 +13,7 @@ The **Fairhope Single Tax Corporation** was established in **1894** (as the Fair
 
 ## The Operating Lease Model
 
-The Corporation's core mechanism is a **community land-ownership and leasing system**. Land is held by the Corporation rather than divided into private freehold parcels. Residents lease sites from the Corporation and pay an annual rent — a practical application of the [land value tax](/wiki/land-value-tax/) principle, though implemented through leasehold rather than taxation.[1] This design means rising land values — driven by community growth, infrastructure, and economic activity — accrue to the Corporation rather than to individual landowners, capturing the [unearned increment](/wiki/unearned-increment/) for community benefit. In practice the capture has always been partial: by the Corporation's own account, "in theory, the lessees would be charged an amount equal to the full rental value of the land as defined by Henry George, although this never actually occurred," and today only the land-value-based "demonstration fee" component of the rent reflects the Georgist assessment principle (see [Survival and Continuing Operation](#survival-and-continuing-operation) below).[2]
+The Corporation's core mechanism is a **community land-ownership and leasing system**. Land is held by the Corporation rather than divided into private freehold parcels. Residents lease sites from the Corporation and pay an annual rent — a practical application of the [land value tax](/wiki/land-value-tax/) principle, though implemented through leasehold rather than taxation.[1] This design means rising land values — driven by community growth, infrastructure, and economic activity — accrue to the Corporation rather than to individual landowners, capturing the [unearned increment](/wiki/unearned-increment/) for community benefit. In practice the capture has been partial throughout its history: by the Corporation's own account, "in theory, the lessees would be charged an amount equal to the full rental value of the land as defined by Henry George, although this never actually occurred," and today only the land-value-based "demonstration fee" component of the rent reflects the Georgist assessment principle (see [Survival and Continuing Operation](#survival-and-continuing-operation) below).[2]
 
 This model is conceptually related to [public land leasing](/wiki/public-land-leasing/) as practiced in places like [Hong Kong](/wiki/hong-kong/) and [Singapore](/wiki/singapore/), where the state retains land ownership and captures value through lease payments rather than recurrent taxation. The Fairhope model, however, predates those systems and operates at the scale of a single town through a private corporation rather than a sovereign government.
 

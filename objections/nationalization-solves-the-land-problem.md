@@ -5,7 +5,7 @@ tags: [objections, stub, land-nationalization, public-ownership, socialism, land
 stub: true
 status: "Partly addressed for the specific cases examined — Yugoslav, Israeli, and Swedish public land ownership did not, on Harrison's account, stop land-value inflation or private capture of rent — but this rests on a small, one-author comparative set, not a systematic survey of all public-ownership regimes."
 excerpt: "If the state simply owns all land, do speculation and unearned rent disappear without needing a land value tax? Comparative cases from Yugoslavia, Israel, and Sweden suggest ownership form alone is not enough — rent still has to be priced and collected."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -30,7 +30,7 @@ Independent academic research on the Stockholm case is broadly consistent with t
 
 - Harrison's comparison is a small set of cases (three, plus a fourth partial counter-case) assembled by one author to support a specific argument, not a systematic cross-national study of public land ownership outcomes.
 - Harrison's own material complicates a blanket "public ownership always fails" reading: he presents Perth, Australia's land-pooling system as a comparatively more successful public-sector land mechanism in the same chapters (Ch. 14, p. 190), and modern leasehold cities such as [Singapore](/wiki/singapore/) and [Hong Kong](/wiki/hong-kong/) — which combine public land ownership with periodic market-rate lease pricing — are often cited as functioning [public land leasing](/wiki/public-land-leasing/) systems, suggesting the variable that matters is whether rent is actually priced and collected, not ownership form as such.
-- This page draws the Yugoslavia and Israel details from the wiki's discovery-report summary of Harrison's book rather than a fresh page-by-page read of the primary text. [CITATION NEEDED: direct verification of the Ch. 13–14 claims, including exact figures, against the primary source]
+- This page draws the Yugoslavia and Israel details from the wiki's discovery-report summary of Harrison's book rather than a fresh page-by-page read of the primary text. The exact Ch. 13–14 figures have not been independently verified against the primary source in this pass and are attributed to Harrison accordingly; the Stockholm strand, by contrast, carries independent corroboration from Ratzka (1981) below.
 - The Stockholm corroborating source (Ratzka 1981) evaluates a specific leasehold instrument over 1910–1970; it does not itself address Yugoslavia or Israel, and its "who captured the increment" finding is a narrower claim than "the 18-year land cycle continued regardless."
 
 ## Net Assessment

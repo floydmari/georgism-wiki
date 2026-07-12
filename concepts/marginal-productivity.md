@@ -4,6 +4,7 @@ category: concepts
 tags: [concepts, marginal-productivity, distribution-theory, neoclassical-economics, history-of-economics, jb-clark]
 stub: false
 excerpt: "J.B. Clark's theory that each factor of production earns its marginal product — and its pivotal role in merging land into capital, which Gaffney identifies as the analytical move that erased the classical land-rent distinction and undercut Henry George's single-tax case."
+pd_quotes: true
 ---
 
 ## Overview

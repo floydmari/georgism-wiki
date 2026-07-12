@@ -4,12 +4,12 @@ category: places
 tags: [places, netherlands, land-value-capture, active-land-policy, land-pooling, urban-planning]
 stub: false
 excerpt: "The Netherlands captures land-value gains chiefly through 'active municipal land policy' — cities acquiring, servicing, and reselling or leasing land themselves — plus near-universal developer-obligation charges, rather than through a land value tax."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
-The Netherlands does not levy a land value tax, but it has one of the developed world's most systematic municipal **land value capture** regimes, built on two instruments used nationwide: **developer obligations** (almost always charged) and **strategic land management**, known locally as *actief gemeentelijk grondbeleid* ("active municipal land policy"), used frequently by Dutch local governments.[1] Rather than taxing land value after the fact, many Dutch municipalities capture it directly by owning and developing the land themselves — acquiring, servicing, and reselling or leasing parcels — an approach distinct from the levy-based LVT model used in places like [Denmark](/wiki/denmark/) or [Estonia](/wiki/estonia/).
+The Netherlands does not levy a land value tax, but it has one of the developed world's most systematic municipal **land value capture** regimes, built on two instruments used nationwide: **developer obligations** (charged in nearly all cases) and **strategic land management**, known locally as *actief gemeentelijk grondbeleid* ("active municipal land policy"), used frequently by Dutch local governments.[1] Rather than taxing land value after the fact, many Dutch municipalities capture it directly by owning and developing the land themselves — acquiring, servicing, and reselling or leasing parcels — an approach distinct from the levy-based LVT model used in places like [Denmark](/wiki/denmark/) or [Estonia](/wiki/estonia/).
 
 ## Active Municipal Land Policy
 
@@ -17,7 +17,7 @@ Under active land policy, a Dutch municipality "acquire[s] and retain[s] land in
 
 ## Developer Obligations
 
-Separately, Dutch municipalities almost always charge **developer obligations** (*exploitatiebijdrage*/*exploitatieplan*, under the 2016 *Omgevingswet*, the Environmental and Planning Act) to recoup the infrastructure costs new development imposes. Around 95% of these are voluntary agreements in which developers provide land, public space, and roads directly rather than cash; if social housing is part of the obligation, the units must be built on-site and are typically owned and operated long-term by non-profit housing associations.[1]
+Separately, Dutch municipalities in nearly all cases charge **developer obligations** (*exploitatiebijdrage*/*exploitatieplan*, under the 2016 *Omgevingswet*, the Environmental and Planning Act) to recoup the infrastructure costs new development imposes. Around 95% of these are voluntary agreements in which developers provide land, public space, and roads directly rather than cash; if social housing is part of the obligation, the units must be built on-site and are typically owned and operated long-term by non-profit housing associations.[1]
 
 ## Comparative Context
 

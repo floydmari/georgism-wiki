@@ -1,33 +1,17 @@
 ---
-authors:
-- Frédéric Panier
-- Francisco Pérez-González
-- Pablo Villanueva
+title: "Capital Structure and Taxes: What Happens When You (Also) Subsidize Equity?"
 category: research
-excerpt: 'The cleanest quasi-experiment on the Belgian notional interest deduction:
-  exploiting the 2006 introduction of an explicit equity deduction as exogenous variation,
-  and using neighboring countries as controls, Panier, Pérez-González & Villanueva
-  find capital structure ''significantly responds'' — the equity share rose, via higher
-  equity rather than lower liabilities. Strong quasi-experimental support that a rent-only
-  base design removes the tax subsidy to leverage.'
-last_reviewed: 2026-07-11
+subcategory: wiki-research-urban
+tags: [research, ace, notional-interest-deduction, debt-bias, corporate-tax, capital-structure, belgium, quasi-experiment]
+authors: [Frédéric Panier, Francisco Pérez-González, Pablo Villanueva]
+year: 2015
+tier: important
 source_url: https://www.bis.org/events/confresearchnetwork1603/perez_gonzalez.pdf
 stub: false
-subcategory: wiki-research-urban
-supports_outcomes:
-- rent-targeting-taxes-reduce-debt-bias
-tags:
-- research
-- ace
-- notional-interest-deduction
-- debt-bias
-- corporate-tax
-- capital-structure
-- belgium
-- quasi-experiment
-tier: important
-title: 'Capital Structure and Taxes: What Happens When You (Also) Subsidize Equity?'
-year: 2015
+supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
+excerpt: "The cleanest quasi-experiment on the Belgian notional interest deduction: exploiting the 2006 introduction of an explicit equity deduction as exogenous variation, and using neighboring countries as controls, Panier, Pérez-González & Villanueva find capital structure 'significantly responds' — the equity share rose, via higher equity rather than lower liabilities. Strong quasi-experimental support that a rent-only base design removes the tax subsidy to leverage."
+last_reviewed: 2026-07-12
+bears_on_objections: [taxing-quasi-rents-kills-innovation]
 ---
 
 ## Summary
@@ -43,9 +27,7 @@ against equity measurably de-levered Belgian firms.
 
 Its headline is stated plainly in the abstract: "This paper shows that capital structure
 significantly responds to changing tax incentives."[1] That matters because, as the
-authors note, the prior empirical record was weak — they quote Myers (1984), "I know of
-no study clearly demonstrating that a firm's tax status has predictable, material effects
-on its debt policy," and Graham (2008), "there is no known study that documents
+authors note, the prior empirical record was weak — they quote Myers (1984), "I know of no study clearly demonstrating that a firm's tax status has predictable, material effects on its debt policy," and Graham (2008), "there is no known study that documents
 tax-related time series effects in debt usage."[1] The Belgian NID gives them the clean
 shock the earlier literature lacked.
 

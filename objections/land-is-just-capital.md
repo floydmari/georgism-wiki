@@ -5,7 +5,7 @@ tags: [objections, land-capital-distinction, john-bates-clark, neoclassical-econ
 stub: false
 status: "Addressed on the economics — the enumerated differences (fixed supply, non-reproducibility, permanence, immobility) are accepted across the ideological spectrum and do the real analytic work; the historical question of why land was reclassified remains genuinely contested"
 excerpt: "The claim, traced to John Bates Clark's 1899 marginal-productivity theory, that land has no economically meaningful distinction from capital — so singling land out for taxation is arbitrary. The steelman, the responses, and the contested history."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -91,7 +91,11 @@ Clark exegesis:
    investment — "high land prices and rents eat into and reduce the return
    to capital" rather than expanding it.[5] Their summary: "Land is not
    capital, nor is it just another commodity. It is fixed in its supply and
-   fixed in time and space. Yet it is central to production."[5]
+   fixed in time and space. Yet it is central to production."[5] Mason
+   Gaffney's [catalogue of land as a distinctive factor of production](/wiki/gaffney-land-distinctive-factor/)
+   assembles the same enumerated differences — fixed supply, immobility,
+   non-reproducibility — as the economic core of the distinction, independent
+   of the political-history argument.
 3. **Not every marginalist made Clark's move.** The land/capital merger was
    an American, largely Clark-and-Fisher-specific development, not a
    necessary consequence of adopting marginal analysis. Blaug records that

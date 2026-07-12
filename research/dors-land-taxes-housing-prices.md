@@ -1,30 +1,17 @@
 ---
-authors:
-- Anne Kristine Høj
-- Mads Rahbek Jørgensen
-- Poul Schou
+title: "Land Taxes and Housing Prices (Danish Economic Councils)"
 category: research
-excerpt: 'The closest thing to a direct test of pure land-tax incidence: exploiting
-  Denmark''s 2007 municipal reform, which raised land taxes in some municipalities
-  and cut them in others, this Danish Economic Councils working paper finds full capitalization
-  of future land taxes into house prices — the burden lands on owners at the time
-  of the change.'
-last_reviewed: 2026-07-05
+subcategory: wiki-research-urban
+tags: [research, land-value-tax, incidence, capitalization, denmark, quasi-experimental]
+authors: [Anne Kristine Høj, Mads Rahbek Jørgensen, Poul Schou]
+year: 2017
+tier: core
 source_url: https://dors.dk/oevrige-publikationer/arbejdspapir/land-taxes-and-housing-prices
 stub: false
-subcategory: wiki-research-urban
-supports_outcomes:
-- landlords-cannot-pass-lvt-to-tenants
-tags:
-- research
-- land-value-tax
-- incidence
-- capitalization
-- denmark
-- quasi-experimental
-tier: core
-title: Land Taxes and Housing Prices (Danish Economic Councils)
-year: 2017
+excerpt: "The closest thing to a direct test of pure land-tax incidence: exploiting Denmark's 2007 municipal reform, which raised land taxes in some municipalities and cut them in others, this Danish Economic Councils working paper finds full capitalization of future land taxes into house prices — the burden lands on owners at the time of the change."
+last_reviewed: 2026-07-12
+bears_on_objections: [lvt-transition-wealth-shock]
+supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 ---
 
 ## Summary
@@ -86,6 +73,7 @@ directly rather than through the synthesis.
 
 ## See Also
 
+- [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — a second Danish quasi-experiment estimating a precise ZERO capitalization effect on the same national setting; the two results are in direct, unreconciled tension
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Doucet, Does Georgism Work?](/wiki/doucet-does-georgism-work/) — the synthesis this page de-references
 

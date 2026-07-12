@@ -4,7 +4,7 @@ category: events
 tags: [events, land-value-capture, betterment-levy, international, united-nations, stub]
 stub: true
 excerpt: "The 1976 UN Habitat I conference in Vancouver adopted Recommendation D.3, declaring that the 'unearned increment' from rising land values must be subject to appropriate public recapture — an early international consensus statement for land value capture."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -26,4 +26,4 @@ As a non-binding UN conference recommendation rather than a treaty, D.3 created 
 
 1. "Habitat I," Wikipedia, accessed July 2026 — used for conference dates, location, the Vancouver Declaration's "public control" language, and the 1976-77 UN General Assembly follow-up. [Wikipedia](https://en.wikipedia.org/wiki/Habitat_I)
 2. *Vancouver Action Plan: 64 Recommendations for National Action*, adopted at Habitat: United Nations Conference on Human Settlements, Vancouver, Canada, 31 May–11 June 1976, Recommendation D.3 "Recapturing plus value" — used for the direct quotation of the unearned-increment recapture language and the enumerated recapture mechanisms. [Full text via Habitat '76 project](https://habitat76.ca/2016/06/un-habitat-1976-vancouver-declaration-action-plan/)
-3. Mason Gaffney & Fred Harrison, *The Corruption of Economics* — used for the discovery context, situating this resolution against the wider history of arguments for and against recognizing land's unearned increment. See the wiki's [book summary](/wiki/gaffney-harrison-corruption-of-economics/). [CITATION NEEDED: a page/chapter locator for where, if at all, Gaffney & Harrison's book specifically discusses the 1976 Habitat resolution — not confirmed against the wiki's existing book-summary page, which does not currently mention it by name.]
+3. Mason Gaffney & Fred Harrison, *The Corruption of Economics* — cited only for the discovery context, situating this resolution against the wider 20th-century history of arguments over recognizing land's unearned increment. The book is not known to discuss the 1976 Habitat resolution by name (the wiki's existing book-summary page does not mention it), so it anchors none of the factual claims here — those rest on the primary Vancouver Action Plan text (source 2). See the wiki's [book summary](/wiki/gaffney-harrison-corruption-of-economics/).

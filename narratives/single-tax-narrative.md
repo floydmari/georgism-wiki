@@ -8,7 +8,7 @@ narrative_type: practical
 supported_by: [land-rent-could-fund-government, lvt-can-replace-capital-taxes-without-efficiency-loss]
 related_people: [henry-george, tom-l-johnson, leo-tolstoy, sun-yat-sen, mason-gaffney]
 related_places: [hong-kong, singapore]
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-12
 ---
 
 *This page covers the persuasive career of the single-tax argument — the movement's
@@ -127,7 +127,7 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
 1. **"Land rent can't fund a modern state."** The honest response concedes the point as
    stated and reframes: modern advocates almost uniformly argue for LVT as the *first
-   and largest* tax, not the only one — the position the wiki's
+   and largest* tax, not the sole one — the position the wiki's
    [revenue-sufficiency outcome](/wiki/land-rent-could-fund-government/) supports.
    The maximalist reply (Gaffney: measured rent understates true rent; ATCOR enlarges
    the base as other taxes fall[3]) should be reported as the optimistic wing's case,

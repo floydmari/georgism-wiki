@@ -5,12 +5,12 @@ tags: [objections, zoning, land-use-regulation, housing-supply, yimby, feasibili
 stub: true
 status: "Partially valid as a sequencing concern, not a refutation — the mainstream Georgist response treats LVT and zoning reform as complements, not rivals waiting on each other"
 excerpt: "The YIMBY-era worry that a land value tax cannot do its supply-side work where zoning already caps what can be built on a site — so LVT is pointless, or even harmful, unless zoning reform comes first."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
 
-A land value tax is supposed to punish idle, underused land and reward building to a site's full potential. But if restrictive zoning already caps how much can legally be built — a single-family-only lot, a low floor-area-ratio ceiling — then an owner taxed on the land's "highest and best use" cannot respond by building more, because the law forbids it. On this view, LVT in a heavily zoned city either collects revenue for no behavioral gain, or actively hurts owners who are legally barred from the development the tax assumes they could pursue. The implication: zoning reform is the necessary *first* step, and a Georgist agenda that leads with land taxation has its priorities backwards.
+A land value tax is supposed to punish idle, underused land and reward building to a site's full potential. But if restrictive zoning already caps how much can legally be built — a single-family-only lot, a low floor-area-ratio ceiling — then an owner taxed on the land's "highest and best use" cannot respond by building more, because the law forbids it. On this view, LVT in a heavily zoned city either collects revenue for no behavioral gain, or actively hurts owners who are legally barred from the development the tax assumes they could pursue. The implication: zoning reform is the necessary *first* step, and a Georgist agenda that leads with land taxation has its priorities backwards. The concern is empirically grounded: Gyourko and Krimmel's vacant-lot "zoning tax" estimates show [valuable urban land held well below its market-implied intensity of use](/wiki/gyourko-krimmel-zoning-tax/), and the UK Treasury's [Barker Review of Housing Supply](/wiki/barker-review-housing-supply/) documented Britain's housing shortage as fundamentally a land-and-planning problem.
 
 ## Why People Worry About This
 
@@ -23,7 +23,7 @@ Lars Doucet's *[Land Is a Big Deal](/wiki/land-is-a-big-deal/)* addresses this d
 ## Limits and Caveats
 
 - The objection is correct that LVT's supply-side and affordability mechanisms are weaker, not merely delayed, where legal capacity is capped — a heavily downzoned parcel taxed at "highest and best use" produces revenue and possibly forced sale, but not more housing, until the zoning changes.
-- The complementarity argument is well-articulated in Georgist-aligned commentary but has not been tested against a rigorous, independent empirical study isolating the sequencing question (does LVT-before-zoning-reform underperform zoning-reform-before-LVT, or simultaneous reform?). [CITATION NEEDED: a peer-reviewed study directly comparing LVT and upzoning sequencing or timing effects.]
+- The complementarity argument is well-articulated in Georgist-aligned commentary but has not been tested against a rigorous, independent empirical study isolating the sequencing question (does LVT-before-zoning-reform underperform zoning-reform-before-LVT, or simultaneous reform?). No peer-reviewed study directly comparing LVT-and-upzoning sequencing or timing effects has been located, and this wiki does not claim one exists; the complementarity case therefore rests on Georgist-aligned reasoning rather than an independent empirical test of the sequencing question specifically.
 - Doucet's own book concedes elsewhere that even partial LVT reform yields only partial benefits, which cuts against reading the "zoning first" objection as fully answered rather than partially conceded.
 
 ## Net Assessment

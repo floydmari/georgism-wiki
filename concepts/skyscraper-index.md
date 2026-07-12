@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, skyscraper-index, 18-year-land-cycle, boom-bust-cycle, land-speculation, stub]
 stub: true
 excerpt: "The observation that record-breaking tall buildings tend to be launched near credit-fueled land-price peaks and complete around the following downturn — cited by land-cycle writers as a speculation indicator, though formal statistical tests find no reliable predictive relationship."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -26,5 +26,5 @@ The index is contested as a predictive tool. A 2015 statistical study by Barr, M
 ## Sources
 
 1. "Skyscraper Index," Wikipedia — [en.wikipedia.org/wiki/Skyscraper_Index](https://en.wikipedia.org/wiki/Skyscraper_Index) — used for Lawrence's 1999 paper, the historical examples, the Cantillon-effect mechanism as described by Mark Thornton, and the Barr, Mizrach & Mundra (2015) statistical critique (basic-facts and critical-evidence source).
-2. Phillip J. Anderson, *[The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* (Shepheard-Walwyn, 2008), Ch. 20 — discovery source; used for the "Cantillon Effect" framing within the 18-year cycle toolkit. [CITATION NEEDED: direct page cite — drawn from the wiki's discovery-report chapter locator rather than a fresh chapter-level read.]
-3. Akhil Patel, *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* (Harriman House, 2023), Ch. 12, 14 — discovery source; used for the indicator's role in the cycle's speculative-summit phase. [CITATION NEEDED: direct page cite, same caveat as above.]
+2. Phillip J. Anderson, *[The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* (Shepheard-Walwyn, 2008), Ch. 20 — discovery source only, for the "Cantillon Effect" framing within the 18-year cycle toolkit. Cited at chapter level (from the wiki's discovery-report locator); no load-bearing claim on this page rests on it — the index's definition, history, and statistical critique all come from source 1. Page-level cite pending a direct read.
+3. Akhil Patel, *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* (Harriman House, 2023), Ch. 12, 14 — discovery source only, for the indicator's role in the cycle's speculative-summit phase; same chapter-level, non-load-bearing status as source 2.
