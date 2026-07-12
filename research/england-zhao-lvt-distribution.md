@@ -10,6 +10,7 @@ stub: false
 excerpt: "England & Zhao (2005, National Tax Journal) find that a revenue-neutral shift from a uniform property tax to a two-rate (land-favoring) tax in Dover, NH would be regressive among residential owners — and propose a uniform credit to fix it."
 last_reviewed: 2026-07-05
 supports_outcomes: []
+bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
 ---
 
 ## Summary

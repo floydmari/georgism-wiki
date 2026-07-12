@@ -10,6 +10,7 @@ stub: false
 excerpt: "The founding empirical capitalization study: property taxes lower New Jersey house values while school spending raises them, giving the Tiebout model its first empirical test."
 last_reviewed: 2026-07-03
 supports_outcomes: [public-investment-capitalizes-into-land, lvt-improves-housing-affordability]
+bears_on_objections: [lvt-destroys-its-own-tax-base]
 ---
 
 ## Summary

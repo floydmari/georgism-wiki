@@ -10,6 +10,7 @@ stub: false
 excerpt: "German study of 5,200+ municipal Grundsteuer reforms finds property-tax increases are fully passed through to rents within about three years — the strongest empirical counter-evidence to the claim landlords cannot pass a land tax to tenants."
 last_reviewed: 2026-07-05
 supports_outcomes: []
+bears_on_objections: [lvt-is-just-a-property-tax]
 ---
 
 ## Summary

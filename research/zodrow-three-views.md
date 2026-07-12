@@ -10,6 +10,7 @@ stub: false
 excerpt: "Zodrow's authoritative survey of the three rival professional theories of property-tax incidence — traditional, new (capital-tax), and benefit views — and why all three agree the land component is capitalized onto the owner."
 last_reviewed: 2026-07-10
 supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+bears_on_objections: [lvt-is-just-a-property-tax]
 ---
 
 ## Summary

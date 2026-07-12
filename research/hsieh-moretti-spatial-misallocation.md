@@ -10,6 +10,7 @@ stub: false
 excerpt: "Hsieh and Moretti model how housing-supply constraints in high-productivity US cities misallocated labor 1964-2009, lowering aggregate growth — a widely cited but now contested estimate, per a 2026 comment finding coding errors."
 last_reviewed: 2026-07-10
 supports_outcomes: [high-land-rents-suppress-productivity, lvt-improves-housing-affordability, housing-unaffordability-is-a-land-problem]
+bears_on_objections: [land-capture-didnt-make-housing-cheap]
 ---
 
 ## Summary

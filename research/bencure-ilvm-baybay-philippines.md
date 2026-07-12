@@ -9,6 +9,7 @@ source_url: https://www.mdpi.com/2071-1050/11/13/3731
 stub: false
 excerpt: "The only developing-country mass-appraisal case Doucet cites: an AHP-based innovative land valuation model (iLVM) for Baybay City, Philippines, explaining ~67% of land-value variability and outperforming ordinary multiple-regression appraisal on RMSE."
 last_reviewed: 2026-07-11
+bears_on_objections: [land-cannot-be-assessed]
 ---
 
 ## Summary

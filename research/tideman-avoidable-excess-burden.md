@@ -10,6 +10,7 @@ stub: false
 excerpt: "The independent CGE quantification behind ATCOR/EBCOR: a dynamic general-equilibrium model estimating how much U.S. excess burden could be recovered by shifting five broad-based taxes onto land. The net welfare gain from shifting as much taxation to land as 90% of land rent would finance is estimated at ~14% of net domestic product in 2002, rising to ~26.6% by 2042."
 last_reviewed: 2026-07-11
 supports_outcomes: []
+bears_on_objections: [lvt-not-enough-revenue]
 ---
 
 ## Summary

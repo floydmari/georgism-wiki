@@ -9,6 +9,7 @@ source_url: https://oll.libertyfund.org/titles/brennan-the-collected-works-of-ja
 stub: false
 excerpt: "Brennan & Buchanan's constitutional theory of taxation: model government as a revenue-maximizing 'Leviathan,' and the orthodox case for a broad, efficient, comprehensive tax base inverts — the very base that minimizes deadweight loss is the one Leviathan can exploit most fully. The public-choice challenge to the efficiency case for LVT."
 last_reviewed: 2026-07-10
+bears_on_objections: [public-choice-critique]
 ---
 
 ## Summary

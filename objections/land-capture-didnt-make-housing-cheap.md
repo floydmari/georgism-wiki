@@ -26,6 +26,7 @@ These cities prove land value can be captured at scale; whether that makes housi
 ## See Also
 
 - [Singapore](/wiki/singapore/) · [Hong Kong](/wiki/hong-kong/) · [LVT can improve housing affordability](/wiki/lvt-improves-housing-affordability/)
+- **The supply-side complement (response evidence):** [Hsieh & Moretti](/wiki/hsieh-moretti-spatial-misallocation/) · [Glaeser & Gyourko](/wiki/glaeser-gyourko-housing-supply/) · [Duranton & Puga](/wiki/duranton-puga-urban-growth/) — the mainstream supply-side evidence behind the response: capturing land value without relaxing land-use restrictions does not by itself lower prices, so land-use liberalization is the necessary complement the objection overlooks
 
 ## Sources
 

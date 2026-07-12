@@ -9,6 +9,7 @@ tier: core
 stub: false
 excerpt: "Gaffney's detailed argument that the economic rent of land in the US is large enough to fund government at all levels without taxing labour or capital."
 supports_outcomes: [land-rent-could-fund-government]
+bears_on_objections: [lvt-not-enough-revenue]
 ---
 
 ## Summary

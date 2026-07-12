@@ -9,6 +9,7 @@ source_url: https://sasn.rutgers.edu/sites/default/files/2024-02/Whats%20Mahatta
 stub: false
 excerpt: "Peer-reviewed vacant-land-sales index that values all developable Manhattan land at roughly $1.47 trillion in 2014 — a concrete data point in the aggregate-land-value span Doucet surveys, and a demonstration that pure-land transactions can price land in a dense city."
 last_reviewed: 2026-07-11
+bears_on_objections: [land-cannot-be-assessed]
 ---
 
 ## Summary

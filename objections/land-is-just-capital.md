@@ -166,6 +166,7 @@ economics, unresolved by the 2025 literature this page cites.
 - [Revisiting Land, Labor, and Capital in Neoclassical Economics (Missemer & Pottier)](/wiki/missemer-pottier-land-labor-capital/) — the 2025 peer-reviewed reassessment
 - [Rethinking the Economics of Land and Housing (book)](/wiki/rethinking-economics-land-housing/) — the fullest statement of the land/capital differences
 - [Objection: the Austrian critique of LVT](/wiki/lvt-austrian-critique/) — the adjacent objection this page expands on
+- [Rothbard, "The Single Tax" (1957)](/wiki/rothbard-single-tax/) — the Austrian-school statement of the land-is-just-capital argument, holding there is no economically meaningful distinction between land and other capital goods
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/)
 
 ## Sources

@@ -9,6 +9,7 @@ source_url: https://edoc.hu-berlin.de/bitstream/handle/18452/20511/FORLand-2019-
 stub: false
 excerpt: "The Berlin study behind the '0.845 correlation' assessability claim — statistical land-value estimates from property transactions matched against the city's official expert-assessed land-value map (BRW)."
 last_reviewed: 2026-07-10
+bears_on_objections: [land-cannot-be-assessed]
 ---
 
 ## Summary

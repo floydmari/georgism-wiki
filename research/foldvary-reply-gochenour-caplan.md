@@ -10,6 +10,7 @@ stub: false
 excerpt: "Foldvary's peer-reviewed reply to Gochenour & Caplan: the discovery of a natural resource is not its production. Entrepreneurship creates human and capital goods, not the resource itself — so taxing land rent does not tax a produced good, and the search-theoretic critique fails at its premise."
 last_reviewed: 2026-07-11
 supports_outcomes: []
+bears_on_objections: [search-theoretic-critique]
 ---
 
 ## Summary

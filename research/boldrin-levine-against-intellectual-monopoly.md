@@ -10,6 +10,7 @@ stub: false
 excerpt: "Boldrin & Levine's abolitionist case that patents and copyrights are not necessary for innovation and are, in practice, damaging — carried here as an ATTRIBUTED position. Their survey of 23 studies finds 'weak or no evidence' that stronger patents raise innovation. The strong form is contested; its evidentiary core (IP raises patenting, not invention) is more widely accepted."
 last_reviewed: 2026-07-11
 supports_outcomes: []
+bears_on_objections: [taxing-quasi-rents-kills-innovation]
 ---
 
 ## Summary

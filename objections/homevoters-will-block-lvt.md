@@ -88,6 +88,8 @@ afterthought.
 - [LVT transition wealth shock](/wiki/lvt-transition-wealth-shock/) · [Asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/)
 - [Detroit LVT proposal](/wiki/detroit-lvt-proposal/) · [Pittsburgh](/wiki/pittsburgh/)
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
+- [The Transitional Gains Trap (Tullock 1975)](/wiki/tullock-transitional-gains-trap/) — the public-choice mechanism by which the beneficiaries of a capitalized subsidy rationally organize to block its removal; strengthens the objection's political diagnosis
+- [Stockholm congestion-charge trial (Eliasson)](/wiki/eliasson-stockholm-trial-2006/) — an asset-affecting charge that flipped from majority opposition to majority support after a trial, the response-side precedent that homevoter opposition need not be permanent
 
 ## Sources
 

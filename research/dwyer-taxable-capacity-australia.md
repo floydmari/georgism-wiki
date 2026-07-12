@@ -10,6 +10,7 @@ stub: false
 excerpt: "Dwyer's Australian Tax Forum study estimating that Australian land and resource rents are large enough to replace existing taxation — the most-cited national revenue-capacity calculation in the modern Georgist literature, and the empirical companion to ATCOR."
 last_reviewed: 2026-07-06
 supports_outcomes: []
+bears_on_objections: [lvt-not-enough-revenue]
 ---
 
 ## Summary

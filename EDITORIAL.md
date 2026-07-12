@@ -305,6 +305,17 @@ Each reference gets a one-line "used for" note:
 - **places/** holds jurisdiction *profiles* only (one page per place: pennsylvania, vancouver,
   denmark), which link the case studies rather than absorb them.
 
+### Objections wiring (`bears_on_objections`, added 2026-07-11, Floyd's ask)
+- A research page that materially **strengthens or weakens an objection** declares it:
+  `bears_on_objections: [<objection-slug>, ...]` — the structural analogue of
+  `supports_outcomes` for the objections lane. Direction (supports vs undercuts the
+  objection) is carried in prose: the objection page's body must link the research page
+  (lint-enforced) in the section where it belongs — **The Objection/steelman** side if it
+  strengthens the objection, **The Response** side if it undercuts it.
+- Wire only material bearing — a passing mention is a See Also, not a `bears_on_objections`
+  entry. Every new research page is assessed against all three lanes at creation:
+  problems, benefits, objections.
+
 ---
 
 ## 7. Per-page revision output (the `[CITE]` deliverable)

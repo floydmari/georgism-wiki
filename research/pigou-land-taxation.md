@@ -10,6 +10,7 @@ stub: false
 excerpt: "What A. C. Pigou actually says about taxing land values in The Economics of Welfare (1920): he fully grants the efficiency case — taxes on the 'public value of land' leave the national dividend 'wholly unaffected,' exactly like the zero-deadweight-loss argument — but limits their scope on equity grounds, and treats land-increment duties as sound in principle yet hard to design and thin in yield. A cautious, qualified supporter, not a Georgist."
 last_reviewed: 2026-07-11
 supports_outcomes: []
+bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
 ---
 
 ## Why this page exists

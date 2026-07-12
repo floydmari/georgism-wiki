@@ -8,6 +8,7 @@ tier: Important
 source_url: https://www.bis.org/publ/work395.pdf
 stub: false
 excerpt: "The BIS's flagship statement of the 'financial cycle' — a ~16-year credit-and-property-price boom-bust whose peaks predict banking crises. The wiki carries it as the steelman that credit booms are a general monetary-and-procyclical phenomenon, not simply land-rent extraction: the mechanism runs on credit creation and risk perceptions and would operate on any collateral."
+bears_on_objections: [cycles-are-credit-not-land]
 ---
 
 ## Summary

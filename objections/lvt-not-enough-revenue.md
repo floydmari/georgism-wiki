@@ -56,7 +56,13 @@ advocates concede full replacement is uncertain:
    cap rates — defense-plus-Social-Security at the low end, up to ~80% of all
    government revenue at the high end (Chs. 14–15);[3] the wiki's
    [full evidence page](/wiki/land-rent-could-fund-government/) carries the range
-   of estimates with their assumptions.
+   of estimates with their assumptions. Independent national calculations point
+   the same way: [Dwyer's study of Australian land and resource rents](/wiki/dwyer-taxable-capacity-australia/)
+   finds them large enough to replace existing taxation, and the general-equilibrium
+   estimate of [Tideman, Akobundu, Johns & Wutthicharoen](/wiki/tideman-avoidable-excess-burden/)
+   puts the welfare gain from shifting broad-based taxes onto land at ~14% of net
+   domestic product — figures that presuppose a land base far larger than the "few
+   percent of GDP" the objection takes as given.
 3. **[ATCOR](/wiki/atcor/) expands the base.** Because other taxes ultimately fall
    on rent, abolishing them raises land values — and the LVT base — so the static
    figure understates capacity. (ATCOR is itself a hypothesis needing empirical

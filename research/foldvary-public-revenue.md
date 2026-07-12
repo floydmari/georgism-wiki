@@ -10,6 +10,7 @@ stub: false
 excerpt: "Foldvary's 1994 book argues that public goods can be financed from the land rent they themselves create — via private communities, proprietary governance, and land-rent capture — rather than coercive taxation."
 last_reviewed: 2026-07-10
 supports_outcomes: [public-goods-fundable-from-land-rent, land-rent-could-fund-government]
+bears_on_objections: [public-choice-critique]
 ---
 
 ## Summary

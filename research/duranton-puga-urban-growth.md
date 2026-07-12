@@ -10,6 +10,7 @@ stub: false
 excerpt: "A quantitative model in which incumbent residents use planning regulations to limit city growth; relaxing regulation in seven large restricted US cities raises aggregate output 7.95%."
 last_reviewed: 2026-07-10
 supports_outcomes: [high-land-rents-suppress-productivity]
+bears_on_objections: [land-capture-didnt-make-housing-cheap]
 ---
 
 ## Summary

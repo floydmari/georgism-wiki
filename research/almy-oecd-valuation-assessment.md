@@ -9,6 +9,7 @@ source_url: https://doi.org/10.1787/5jz5pzvr28hk-en
 stub: false
 excerpt: "OECD working paper surveying immovable-property valuation and assessment across 172 countries — the source of the '~EUR 20 per property' mass-appraisal cost figure and the benchmark that high-quality systems run ~10% valuation error."
 last_reviewed: 2026-07-10
+bears_on_objections: [land-cannot-be-assessed]
 ---
 
 ## Summary

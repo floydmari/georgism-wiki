@@ -10,6 +10,7 @@ stub: false
 excerpt: "The evaluation team's overview of Stockholm's seven-month 2006 congestion-charging trial: cordon traffic fell ~22%, peak travel-time delays fell by a third to a half, CO2 from inner-city traffic fell ~14% — and the visibly felt time savings flipped hostile public opinion into a majority 'yes' at the September 2006 referendum."
 last_reviewed: 2026-07-11
 supports_outcomes: [congestion-pricing-reduces-traffic]
+bears_on_objections: [homevoters-will-block-lvt]
 ---
 
 ## Summary

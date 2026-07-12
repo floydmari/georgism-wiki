@@ -10,6 +10,7 @@ stub: false
 supports: [split-rate-increases-construction]
 excerpt: "Landmark empirical study finding Pittsburgh's 1979–80 shift toward heavier land taxation was followed by a building boom that comparison cities did not see."
 supports_outcomes: [lvt-improves-housing-affordability, split-rate-increases-construction]
+bears_on_objections: [lvt-causes-overdevelopment, lvt-is-just-a-property-tax]
 ---
 
 ## Summary

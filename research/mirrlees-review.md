@@ -10,6 +10,7 @@ stub: false
 excerpt: "The UK's most authoritative modern tax review, chaired by Nobel laureate Sir James Mirrlees, concludes that land value should be taxed and proposes replacing business rates with a land value tax."
 last_reviewed: 2026-07-03
 supports_outcomes: [lvt-can-replace-capital-taxes-without-efficiency-loss, land-rent-could-fund-government]
+bears_on_objections: [lvt-hurts-farmers]
 ---
 
 ## Summary

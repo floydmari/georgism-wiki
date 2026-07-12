@@ -10,6 +10,7 @@ stub: false
 excerpt: "The founding paper of the 'new view' of property tax incidence: a general-equilibrium model in which the average burden of the property tax falls on capital owners nationally, local rate differentials act as excise taxes, and the land portion is borne entirely by landowners."
 last_reviewed: 2026-07-03
 supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+bears_on_objections: [lvt-destroys-its-own-tax-base]
 ---
 
 ## Summary

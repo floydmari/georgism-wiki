@@ -10,6 +10,7 @@ stub: false
 excerpt: "Bowman & Bell (2008, National Tax Journal) replicate England & Zhao's regressivity finding on a new city (Roanoke, VA) and find the opposite: a revenue-neutral shift to a land value tax there is progressive by income and poverty rate — showing the result is jurisdiction-dependent."
 last_reviewed: 2026-07-09
 supports_outcomes: [land-value-tax-can-be-progressive]
+bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
 ---
 
 ## Summary

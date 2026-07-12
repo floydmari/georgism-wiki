@@ -9,6 +9,7 @@ source_url: https://eh.net/book_reviews/a-brief-history-of-doom-two-hundred-year
 stub: true
 excerpt: "Richard Vague's survey of financial crises across six countries over 200 years, arguing private debt growth relative to GDP — overwhelmingly real-estate lending — is the strongest predictor of crises; the credit school's quantitative bridge to the land-cycle account."
 last_reviewed: 2026-07-11
+bears_on_objections: [cycles-are-credit-not-land]
 ---
 
 ## Summary

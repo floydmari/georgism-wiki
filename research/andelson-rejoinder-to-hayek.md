@@ -9,6 +9,7 @@ source_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1536-7150.00016
 stub: true
 excerpt: "Robert Andelson's direct scholarly reply to F.A. Hayek's objection that landowners' earned and unearned increments cannot be precisely separated — arguing the precision Hayek demands exceeds what any workable tax assessment, Georgist or otherwise, requires."
 last_reviewed: 2026-07-11
+bears_on_objections: [lvt-austrian-critique]
 ---
 
 ## Overview

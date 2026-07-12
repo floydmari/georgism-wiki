@@ -96,7 +96,14 @@ The Geoist responses concede the core insight and dispute its scope.
    refunds for the tax value of losses at a 78% combined rate — shows full
    refundability is administrable, at least in a resource sector.[9] The honest
    qualification: no economy-wide system has ever offered it, so the objection
-   holds against rent taxation *as practiced*, even where theory answers it.
+   holds against rent taxation *as practiced*, even where theory answers it. And
+   where the quasi-rent is an intellectual-property monopoly rather than a genuine
+   risk premium, the incentive case is weaker still:
+   [Boldrin & Levine's survey](/wiki/boldrin-levine-against-intellectual-monopoly/)
+   reports "weak or no evidence" that stronger patents raise innovation, and the
+   [prizes-vs-patents literature](/wiki/prizes-vs-patents/) shows invention can be
+   rewarded without granting the monopoly prize at all — so capturing IP rents need
+   not blunt the incentive the objection is built to protect.
 3. **Persistence is diagnostic.** Schumpeterian prizes are, on Schumpeter's own
    account, *temporary* — competed away as imitators arrive. Returns that
    persist for decades behind network-effect moats, data accumulation, or
