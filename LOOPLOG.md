@@ -729,3 +729,4 @@ gate for new scans (congestion-pricing FIND next) is open.
 
 353 pages; warnings 473 (3 new stubs' honest flags absorbed; baseline 478); lint green;
 preview links verified.
+- 2026-07-12 (Floyd's ruling, codified in EDITORIAL §0): the loop's standing priority is ENRICHMENT of benefits/, problems/, and objections/ pages — assemble the research, wire every new source into the claim lanes it bears on, honestly including support FOR objections. Waves 18-19 (warning cleanup) and 20-21 (objections wiring, benefits reinforcement) are the model: every future wave closes by asking which claim pages it enriched.
