@@ -8,7 +8,8 @@ tier: important
 source_url: https://www.nber.org/system/files/working_papers/w20501/w20501.pdf
 stub: false
 excerpt: "A landmark NBER working paper constructing a new long-run dataset of disaggregated bank credit for 17 advanced economies since 1870, showing that mortgage lending has come to dominate banks' balance sheets and that mortgage booms increasingly drive financial instability and deeper recessions."
-last_reviewed: 2026-07-03
+last_reviewed: 2026-07-12
+bears_on_objections: [cycles-are-credit-not-land]
 supports_outcomes: [finance-growth-is-land-credit]
 ---
 
@@ -81,6 +82,7 @@ This paper does not make a Georgist argument. It does not discuss land value, la
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Moritz Schularick](/wiki/moritz-schularick/)
 - [Knoll, Schularick & Steger — House Prices](/wiki/knoll-schularick-steger-house-prices/)
+- [Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide](/wiki/mian-sufi-verner-household-debt/) — builds on this dataset to show the household/mortgage-credit expansion predicts slower growth
 - [Mason Gaffney](/wiki/mason-gaffney/)
 
 ## Sources

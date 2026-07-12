@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, fire-sector, finance-rents, mortgage, land, credit, geoism]
 stub: false
 evidence_strength: "Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent."
-supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy]
+supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, mian-sufi-verner-household-debt, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy]
 excerpt: "Over the past century the expansion of banking in advanced economies has been, above all, the expansion of mortgage lending — and the value that lending is secured against is overwhelmingly land, not buildings. Much of what looks like 'financial deepening' is the banking system capitalising and collecting land rent."
 challenged_by: []
 ---
@@ -48,6 +48,17 @@ strong long-run evidence.
   rose from about 20 to 50 percent of all credit."[3] Their stronger interpretive step —
   that this credit *income* is itself rent — is the contested claim flagged in Honest
   Scope below; the mortgage-share composition figure cited here is not.
+- **And it does not behave like productive "deepening."**
+  [Mian, Sufi & Verner (2017)](/wiki/mian-sufi-verner-household-debt/), on an
+  independent panel of 30 countries from 1960 to 2012, show that a rise in the
+  household-debt-to-GDP ratio — household borrowing being overwhelmingly mortgage
+  credit, and their credit-supply proxy being the mortgage spread itself — "predicts
+  lower output growth and a higher unemployment rate over the medium-run," and that
+  "a rise in household debt is not associated with increased investment growth… Instead,
+  when household debt rises, the consumption share of output increases."[4] The
+  mortgage-credit expansion is thus a credit-supply-driven claim on existing assets, not
+  the productive capital allocation the phrase "financial deepening" implies — the empirical
+  texture the land-credit reading predicts.
 
 Put together, these findings mean that the century's great financial expansion is
 largely a land-credit expansion — the same conclusion the
@@ -94,6 +105,7 @@ lending against land.
 - [The FIRE Sector](/wiki/fire-sector/) — the framing and the counter-view
 - [The Great Mortgaging](/wiki/great-mortgaging/) · [No Price Like Home](/wiki/knoll-schularick-steger-house-prices/) — the two supporting studies
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the income-side evidence, kept honest
+- [Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide](/wiki/mian-sufi-verner-household-debt/) — the independent 30-country result that the mortgage-credit expansion predicts *slower* growth, not the productive deepening it is taken for
 - [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the interpretive companion that reads this composition as rent · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the credit-side steelman
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/)
 - [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — where this "credit is land credit" point does its work
@@ -117,3 +129,10 @@ lending against land.
    share 20%→50% of all credit). Its stronger "finance income is rent" interpretation is
    carried as attributed, contested argument, not as support for this composition claim.
    [wiki summary](/wiki/bezemer-hudson-finance-is-not-the-economy/)
+4. Atif Mian, Amir Sufi & Emil Verner (2017), "Household Debt and Business Cycles
+   Worldwide," *Quarterly Journal of Economics* 132(4), 1755–1817 (NBER WP 21581, 2015) —
+   used for the finding that a rise in the household-debt-to-GDP ratio (household borrowing
+   being predominantly mortgage credit) predicts lower subsequent GDP growth and higher
+   unemployment across 30 countries, 1960–2012, and does not fund investment growth — the
+   evidence that the mortgage-credit expansion is not productive "deepening."
+   [wiki summary](/wiki/mian-sufi-verner-household-debt/)
