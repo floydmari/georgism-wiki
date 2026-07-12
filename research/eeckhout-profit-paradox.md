@@ -52,9 +52,7 @@ a more competitive market would support. Because labor demand is a *derived* dem
 restricting output economy-wide reduces aggregate demand for labor and therefore depresses wages —
 including, importantly, wages at firms that hold no market power of their own, since a slack
 overall labor market pushes down pay everywhere. The book names this mechanism in the title of its
-chapter 4, "A Falling Tide Lowers All Boats": "People are making less mainly because the dominant
-firms around the country are hiring fewer workers, not because those firms are the only player in
-town." Eeckhout treats direct employer-side monopsony power (a dominant local employer suppressing
+chapter 4, "A Falling Tide Lowers All Boats": "People are making less mainly because the dominant firms around the country are hiring fewer workers, not because those firms are the only player in town." Eeckhout treats direct employer-side monopsony power (a dominant local employer suppressing
 pay for its own workers) as real but secondary: "Compared to the overall effect that the tide of
 widespread market power has on wages economy-wide, the evidence that wages have declined because
 of monopsony power of large firms is thus less conclusive" (ch. 4). He uses this distinction to

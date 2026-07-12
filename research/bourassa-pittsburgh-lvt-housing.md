@@ -33,7 +33,7 @@ The 1987 article was based on Bourassa's University of Pennsylvania dissertation
 
 ## Limits and Caveats
 
-The regression specification, 1978–1984 monthly sample, and effect sizes reported above were verified this session against the full text of the article (an open-access scan of the *Growth and Change* original is hosted at [gwern.net](https://gwern.net/doc/economics/georgism/1987-bourassa.pdf)). Two honest caveats on the study's own terms: (1) building-permit *applications* (deflated dollar value, and a derived unit count) are the only available monthly proxy for new construction, so the dependent variable measures intended rather than completed building; and (2) because the land-tax-rate coefficient is statistically insignificant (multicollinearity), the paper does not directly isolate a land-tax development push — its positive result is carried by the improvement-tax elasticity.
+The regression specification, 1978–1984 monthly sample, and effect sizes reported above were verified this session against the full text of the article (an open-access scan of the *Growth and Change* original is hosted at [gwern.net](https://gwern.net/doc/economics/georgism/1987-bourassa.pdf)). Two honest caveats on the study's own terms: (1) building-permit *applications* (deflated dollar value, and a derived unit count) are the sole available monthly proxy for new construction, so the dependent variable measures intended rather than completed building; and (2) because the land-tax-rate coefficient is statistically insignificant (multicollinearity), the paper does not directly isolate a land-tax development push — its positive result is carried by the improvement-tax elasticity.
 
 ## See Also
 

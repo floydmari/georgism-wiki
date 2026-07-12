@@ -60,8 +60,7 @@ the taxpayer's escape route.
   do not dispute that land is inelastic or that an LVT is non-distortionary in the static
   sense; their claim is about the *dynamics of political power* once such a base exists.
 - **The Leviathan model is an explicit worst case.** The authors present revenue
-  maximization as the assumption a prudent constitution-designer should adopt "not because
-  it always is so," but as a maximin premise — leaving open how close real governments
+  maximization as the assumption a prudent constitution-designer should adopt "not because it always is so," but as a maximin premise — leaving open how close real governments
   come to it.
 - **Land is used only by analogy in the book's own text.** Chapter 6's "land" model is an
   analogy for money and inflation (a durable, government-monopolized asset), *not* a direct

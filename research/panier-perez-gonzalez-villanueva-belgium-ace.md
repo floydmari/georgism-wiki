@@ -25,9 +25,7 @@ against equity measurably de-levered Belgian firms.
 
 Its headline is stated plainly in the abstract: "This paper shows that capital structure
 significantly responds to changing tax incentives."[1] That matters because, as the
-authors note, the prior empirical record was weak — they quote Myers (1984), "I know of
-no study clearly demonstrating that a firm's tax status has predictable, material effects
-on its debt policy," and Graham (2008), "there is no known study that documents
+authors note, the prior empirical record was weak — they quote Myers (1984), "I know of no study clearly demonstrating that a firm's tax status has predictable, material effects on its debt policy," and Graham (2008), "there is no known study that documents
 tax-related time series effects in debt usage."[1] The Belgian NID gives them the clean
 shock the earlier literature lacked.
 

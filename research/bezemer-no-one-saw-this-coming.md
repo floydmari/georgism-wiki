@@ -43,9 +43,7 @@ This page de-references the citation carried by
 [the 18.6-year-cycle research page](/wiki/progress-18-6-year-cycle/): Bezemer is
 the *independent, non-Georgist* auditor of the prediction record — which is exactly
 why the wiki cites him rather than the predictors' own retrospectives. Harrison's
-Table 1 entry quotes his 2005 call that "the next property market tipping point is
-due at end of 2007 or early 2008 … The only way prices can be brought back to
-affordable levels is a slump or recession."[1]
+Table 1 entry quotes his 2005 call that "the next property market tipping point is due at end of 2007 or early 2008 … The only way prices can be brought back to affordable levels is a slump or recession."[1]
 
 ## See Also
 

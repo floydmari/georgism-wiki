@@ -46,9 +46,7 @@ land is a **monopoly good** whose value rises through the action of the surround
 rather than the owner, which is why he treats it as a legitimate and distinctive tax base (a
 D-claim — this is Churchill's argument, not a demonstrated economic finding):
 
-- **Land monopoly as the "mother" of monopoly.** In the Edinburgh speech he argued: "Land
-  monopoly is not the only monopoly, but it is by far the greatest of monopolies — it is a
-  perpetual monopoly, and it is the mother of all other forms of monopoly."[2] The claim that
+- **Land monopoly as the "mother" of monopoly.** In the Edinburgh speech he argued: "Land monopoly is not the only monopoly, but it is by far the greatest of monopolies — it is a perpetual monopoly, and it is the mother of all other forms of monopoly."[2] The claim that
   land monopoly generates other monopolies is asserted, not argued from evidence: in the
   surrounding text Churchill offers rhetorical amplification, not a supporting mechanism.
   (Verified verbatim against the Edinburgh 17 July 1909 speech transcription;[2] the near-identical
