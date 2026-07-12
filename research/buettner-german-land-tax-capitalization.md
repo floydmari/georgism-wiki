@@ -8,7 +8,7 @@ tier: Important
 source_url: https://www.economicpossibility.org/sources/tiebout-visits-germany-land-tax-capitalization-in-a-sample-of-german-municipaliti
 stub: true
 excerpt: "Buettner's 2003 study of German municipalities finds that local land tax rates capitalize fully into land prices while leaving monthly rents unaffected — Tiebout-style empirical evidence for the standard incidence prediction of land value taxation."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ This finding — full capitalization into the price of land, with no measurable 
 
 ## Limits and Caveats
 
-This paper appears to have circulated as a conference/working paper (2003) rather than being published in a peer-reviewed journal — it should not be confused with Büttner's separate, journal-published 2003 paper "Tax base effects and fiscal externalities of local capital taxation" (*Journal of Urban Economics* 54(1): 110–128), which concerns local *capital* taxation, not this land-tax-capitalization study. The paper's own abstract was verified verbatim this session and confirms the method and headline findings quoted above: "Using an instrumental variable (GMM) approach the results show that land taxes do capitalize into land values, whereas the monthly rent level remains unaffected by the land tax. In addition, the results point to significant spillovers from amenities and the provision of public goods across municipalities."[1] The full text (with the exact sample size, tax-rate range, and estimated capitalization coefficient) was not obtained directly this session. [CITATION NEEDED: the paper's full text, to verify the exact sample, tax-rate range, and estimated capitalization coefficient.]
+This paper appears to have circulated as a conference/working paper (2003) rather than being published in a peer-reviewed journal — it should not be confused with Büttner's separate, journal-published 2003 paper "Tax base effects and fiscal externalities of local capital taxation" (*Journal of Urban Economics* 54(1): 110–128), which concerns local *capital* taxation, not this land-tax-capitalization study. The paper's own abstract was verified verbatim this session and confirms the method and headline findings quoted above: "Using an instrumental variable (GMM) approach the results show that land taxes do capitalize into land values, whereas the monthly rent level remains unaffected by the land tax. In addition, the results point to significant spillovers from amenities and the provision of public goods across municipalities."[1] The full text (with the exact sample size, tax-rate range, and estimated capitalization coefficient) was not obtainable this session — no open copy was located via the FAU/ZEW working-paper hosts or ResearchGate, both of which returned access-blocked responses — so this page states only the method and headline findings the verified abstract supports, not point estimates. A future editor with the working-paper PDF should add the sample size, tax-rate range, and capitalization coefficient.
 
 ## See Also
 

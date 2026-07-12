@@ -8,7 +8,7 @@ tier: Important
 source_url: https://archive.org/details/onehundredyearso00hoytrich
 stub: false
 excerpt: "Homer Hoyt's 1933 University of Chicago dissertation traces Chicago land values from 1830 to 1933, documenting a recurring boom-bust rhythm in land prices — the founding empirical study behind the Georgist 18-year land cycle."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 supports_outcomes: [lvt-dampens-land-speculation]
 ---
 
@@ -77,10 +77,10 @@ ethnic settlement patterns, transportation networks, construction activity, empl
 mortgage rates, and property sales across comparable American cities. The "103 maps and 103
 tables" figure is confirmed against the primary text: the highest-numbered figure/map in the
 book is Fig. 103 and the highest-numbered table is Table CIII (103), so the book contains 103
-figures (maps and charts) and 103 tables.[1] The *Journal of American History*'s 1934 review
-of the book (cited by title/venue in bibliographic listings) treated it as a major work of
-urban economic history for its period.[2][9] `[CITATION NEEDED: a directly read or quoted
-excerpt of the 1934 Journal of American History review, beyond its bibliographic listing]`
+figures (maps and charts) and 103 tables.[1] A 1934 scholarly review of the book is recorded
+in bibliographic listings (sources 2 and 9), reflecting its early professional reception; that
+review's full text was not read this session, so no characterization of its verdict is asserted
+here (and the venue attribution in those listings has not been independently confirmed).
 
 ## From the Text (verbatim, Chapter VII: *The Chicago Real Estate Cycle*)
 

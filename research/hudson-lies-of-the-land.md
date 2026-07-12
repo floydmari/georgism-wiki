@@ -8,7 +8,7 @@ tier: Important
 source_url: https://michael-hudson.com/2001/03/how-to-lie-with-real-estate-statistics/
 stub: true
 excerpt: "Michael Hudson's 2001 essays showing how Federal Reserve land-valuation methodology produced a negative $4 billion value for all U.S. non-financial corporate land in 1993 -- an absurdity that led the Fed to stop publishing land/building breakdowns after 1994, statistically erasing land's true scale."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ In two companion 2001 essays — "Where Did All the Land Go? The Fed's New Balan
 
 ## Limits and Caveats
 
-The 2001 essays are published on Hudson's own site/professional archive rather than in a peer-reviewed journal, and the $4.5 trillion revaluation figure is Hudson's own estimate rather than an independently replicated econometric result. [CITATION NEEDED: independent replication of Hudson's $4.5 trillion revaluation figure.] The core empirical claim — that the Fed's land-residual method produced a negative $4 billion land value for non-financial corporate land in 1993, and that the Fed subsequently narrowed its published real-estate statistics — is corroborated by Hudson's own detailed walk-through of Federal Reserve flow-of-funds data and is cited independently in Doucet's book.[1][2]
+The 2001 essays are published on Hudson's own site/professional archive rather than in a peer-reviewed journal, and the $4.5 trillion revaluation figure is Hudson's own estimate rather than an independently replicated econometric result, and no independent replication of that figure was located this session; it should be read as Hudson's estimate, not a confirmed result. The core empirical claim — that the Fed's land-residual method produced a negative $4 billion land value for non-financial corporate land in 1993, and that the Fed subsequently narrowed its published real-estate statistics — is corroborated by Hudson's own detailed walk-through of Federal Reserve flow-of-funds data and is cited independently in Doucet's book.[1][2]
 
 ## See Also
 

@@ -5,10 +5,10 @@ tags: [research, andelson, hayek, unearned-increment, austrian-economics, stub]
 authors: [Robert V. Andelson]
 year: 2000
 tier: Important
-source_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1536-7150.00016
+source_url: https://www.jstor.org/stable/3487863
 stub: true
 excerpt: "Robert Andelson's direct scholarly reply to F.A. Hayek's objection that landowners' earned and unearned increments cannot be precisely separated — arguing the precision Hayek demands exceeds what any workable tax assessment, Georgist or otherwise, requires."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 bears_on_objections: [lvt-austrian-critique]
 ---
 
@@ -16,7 +16,7 @@ bears_on_objections: [lvt-austrian-critique]
 
 "On Separating the Landowner's Earned and Unearned Increment: A Georgist Rejoinder to F. A. Hayek" is an article by philosopher **Robert V. Andelson** (Auburn University), published in *The American Journal of Economics and Sociology*, volume 59, issue 1 (January 2000).[1] It responds directly to Nobel laureate economist Friedrich Hayek's objection that the Georgist case for taxing the [unearned increment](/wiki/unearned-increment/) in land value fails because that increment can never, in practice, be cleanly separated from value the owner *did* create through improvement, foresight, or effort — a version of the broader Austrian "calculation problem" critique of land value taxation.[1]
 
-Andelson disputes Hayek's dismissal on several grounds: that the degree of measurement precision Hayek demands is stricter than what tax assessment practice requires of *any* tax base, Georgist or otherwise; and that the conceptual distinction between value the owner produces and value produced by nature and the surrounding community remains valid and useful as an analytic ideal even where real-world assessment can only approximate it rather than achieve perfect precision.[1] The piece functions as this wiki's paired scholarly answer to Hayek's objection, and as a case study of how Georgist scholars have engaged the strongest available Austrian-school critique rather than only the more polemical Rothbardian version addressed in the wiki's [Austrian critique objection page](/wiki/lvt-austrian-critique/).
+Andelson disputes Hayek's dismissal on three grounds, stated in his abstract: "1. As Professor Backhaus observed, the degree of certainty in measurement demanded by Hayek is more rigorous than that required in practice for enforceable tax assessment. 2. Under a Georgist-style system, landowners who improve their land would, in any case, get to keep much more of the fruits of their efforts than under any alternative public revenue system. 3. The distinction between value produced by the owner... and that produced by nature and society... remains authoritative as an ideal even if not perfectly realizable in practice."[1] Andelson notes that the defenders of Georgism "seem almost wholly" to have neglected Hayek's objection, partly because it occupies only a single paragraph "in a book of more than 500 pages" (*The Constitution of Liberty*); yet, correctly disentangled from Hayek's own inaccurate definition of the Georgist model, the argument "seems at first blush compelling on its merits" and so, in Andelson's view, deserves a serious answer rather than dismissal.[1] The piece functions as this wiki's paired scholarly answer to Hayek's objection, and as a case study of how Georgist scholars have engaged the strongest available Austrian-school critique rather than only the more polemical Rothbardian version addressed in the wiki's [Austrian critique objection page](/wiki/lvt-austrian-critique/).
 
 ## See Also
 
@@ -27,4 +27,4 @@ Andelson disputes Hayek's dismissal on several grounds: that the degree of measu
 
 ## Sources
 
-1. Robert V. Andelson, "On Separating the Landowner's Earned and Unearned Increment: A Georgist Rejoinder to F. A. Hayek," *The American Journal of Economics and Sociology* 59(1) (2000): 3–40. [Wiley Online Library abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/1536-7150.00016); also circulated via [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=232555) — used for the article's framing of Hayek's objection and Andelson's core counter-arguments (assessment-precision standard, the ideal-versus-practice distinction). [CITATION NEEDED: a directly quoted passage with page numbers from the full text — this session's fetch tools returned access-restricted pages for both the Wiley and SSRN copies, so this summary rests on the published abstract and converging secondary descriptions of the argument rather than the full article.]
+1. Robert V. Andelson, "On Separating the Landowner's Earned and Unearned Increment: A Georgist Rejoinder to F. A. Hayek," *The American Journal of Economics and Sociology* 59(1) (Jan. 2000): 109–117 ([JSTOR stable/3487863](https://www.jstor.org/stable/3487863); DOI [10.1111/1536-7150.00016](https://doi.org/10.1111/1536-7150.00016)) — used for the article's framing of Hayek's objection and Andelson's three counter-arguments (the Backhaus assessment-precision point, the "landowners keep more of their improvements anyway" point, and the ideal-versus-practice distinction). Full text read this session via the [open-access scan hosted by the School of Cooperative Individualism](https://www.cooperative-individualism.org/andelson-robert_on-separating-the-landowner's-earned-and-unearned-increment-2000-jan.pdf); quoted passages verified against it (abstract and p. 110).

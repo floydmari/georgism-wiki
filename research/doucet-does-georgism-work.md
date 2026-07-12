@@ -9,7 +9,7 @@ tier: core
 stub: false
 supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 excerpt: "Lars Doucet's three-part empirical investigation of the main objections to LVT — land's magnitude, tax incidence, and assessment — published on Astral Codex Ten."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
 
 ## Summary
@@ -62,7 +62,7 @@ Doucet's conclusion is deliberately hedged and should be quoted as such: "By Geo
 
 - Already on the wiki: [Gwartney's assessment essay/seminar](/wiki/gwartney-estimating-land-values/); the [mass-appraisal-methods](/wiki/mass-appraisal-methods/) concept page (which currently summarizes Doucet's *account* of the Berlin/Kolbe methods rather than citing Kolbe directly); the [land-cannot-be-assessed](/wiki/land-cannot-be-assessed/) objection page; IAAO standards.
 - **Now de-referenced (updated 2026-07-11)** — the load-bearing Part-3 sources have their own pages: **[Kolbe, Schulz, Wersing & Werwatz](/wiki/kolbe-berlin-land-value-appraisal/)** (the 0.845 semiparametric figure), **[Hefferan & Boyd (2010)](/wiki/hefferan-boyd-mass-appraisal-australia/)** (the <1%-objection / <2%-complaint benchmarks), and **[Almy (2014)](/wiki/almy-oecd-valuation-assessment/)** (the €20/property cost figure).
-- **Now de-referenced (updated 2026-07-11):** the Kolbe et al. adaptive-weights-smoothing companion paper (2015) — folded into the [Kolbe Berlin page](/wiki/kolbe-berlin-land-value-appraisal/) as a marked companion section — and **[Bencure et al. (2019), iLVM](/wiki/bencure-ilvm-baybay-philippines/)** (BayBay City — the only developing-country case).
+- **Now de-referenced (updated 2026-07-11):** the Kolbe et al. adaptive-weights-smoothing companion paper (2015) — folded into the [Kolbe Berlin page](/wiki/kolbe-berlin-land-value-appraisal/) as a marked companion section — and **[Bencure et al. (2019), iLVM](/wiki/bencure-ilvm-baybay-philippines/)** (BayBay City — the sole developing-country case in the set).
 - **Still second-hand only** (ranked ingest shortlist in `sources/inbox/T1-TODO-doucet-parts-1-3-dereferencing.md`): **Gloudemans & Almy (2011), *Fundamentals of Mass Appraisal*** (IAAO textbook); **Yalpir & Unel (2017)** (Konya MRA); **Fuest et al. (2018)** (ifo *Grundsteuer* cost comparison — distinct from the fuest-peichl-siegloch incidence paper already on the wiki); plus minor cites Kilić et al. (2019), Raslanas et al. (2014), Aragonés-Beltrán et al. (2008), Xue et al. (2008), and Kettani & Khelifi (2001).
 
 ## Bears On

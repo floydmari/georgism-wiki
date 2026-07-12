@@ -4,7 +4,7 @@ category: research
 tags: [research, stub, land-cycle, 18-year-cycle, forecasting, fred-harrison]
 stub: true
 excerpt: "A 1997 statistical monograph by Frederic J. Jones, with Fred Harrison, using cross-country land-value/GNP data to forecast a land-price-driven global crisis around 2007-08 — later cited as an early documented prediction of the 2008 financial crisis."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 authors: [Frederic J. Jones, Fred Harrison]
 year: 1997
 tier: Important
@@ -15,7 +15,7 @@ source_url: https://openlibrary.org/books/OL416684M/The_chaos_makers.
 
 *The Chaos Makers* (1997) is a short statistical monograph by economic geographer Frederic J. Jones, published under the imprint of [Fred Harrison](/wiki/fred-harrison/)'s Land Policy Council, with Harrison contributing an editorial framing essay. The book assembles land-value and national-income data for the UK, US, Japan, Australia, New Zealand, and Denmark to argue that land-price speculation — not monetary shocks or wars — drives the recurring [18-Year Land Cycle](/wiki/18-year-land-cycle/) previously traced by [Homer Hoyt](/wiki/homer-hoyt/) in Chicago. Its most-cited legacy is a forecast, credited to this book, that a land-price peak around 2007 would trigger a global financial crisis — a call Harrison revisited and elaborated in his later book *[Boom Bust](/wiki/harrison-boom-bust/)* (2005; 2nd ed. 2010), and which is cited by Phillip J. Anderson's *[Secret Life of Real Estate](/wiki/anderson-secret-life-real-estate/)* as evidence the cycle is cross-country and not a US or UK peculiarity.
 
-Because the book itself is short, out of print, and has not been directly reviewed for this wiki, most of what is known about its specific contents comes second-hand through Harrison's and Anderson's later, more widely read books, both of which cite it as their forecasting precedent. [CITATION NEEDED: a direct read of the original 1997 text for its specific data tables and methodology].
+Because the book itself is short, out of print, and has not been directly reviewed for this wiki, most of what is known about its specific contents comes second-hand through Harrison's and Anderson's later, more widely read books, both of which cite it as their forecasting precedent. The original 1997 text was not directly read this session, so its specific data tables and methodology are reported only as those later books characterize them; a future editor with a copy should verify them at first hand.
 
 ## See Also
 
