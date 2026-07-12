@@ -8,8 +8,12 @@ evidence_strength: "Moderate (phenomenon well documented across independent meth
 supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, prosper-speculative-vacancies, vancouver-empty-homes-tax]
 challenged_by: []
 excerpt: "Even where housing demand is most acute, homes sit empty for years and valuable land is used far below its potential — documented by quasi-experimental tax evidence from France, vacant-lot price data from US metros, and water-meter counts in Melbourne. Magnitude and cause remain contested."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Even in cities where housing demand is most acute, a persistent stock of dwellings sits empty and valuable land is used well below its potential; the phenomenon is well documented across independent methods, though how much is speculative withholding rather than friction or zoning is contested.
+> **Evidence:** Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested) · **4 supporting** sources · **0 challenging**
+> **Strongest support:** [Segú (2020)](/wiki/segu-vacancy-tax-france/) — French microdata show long-term vacancy large enough that a vacancy tax cut it about 13%, returning roughly 40,000 dwellings to use. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

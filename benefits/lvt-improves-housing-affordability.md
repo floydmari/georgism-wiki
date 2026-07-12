@@ -11,6 +11,10 @@ excerpt: "LVT reliably lowers land prices (tax capitalization) and encourages co
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — A land value tax reliably lowers land prices and encourages construction, but its effect on rents actually paid is mixed and any affordability gain depends on permissive land-use policy — so capturing land value need not, on its own, make housing cheap.
+> **Evidence:** Mixed (lower land prices well-supported; effects on rents paid are mixed; affordability gains depend on permissive land-use policy) · **11 supporting** sources · **3 challenging**
+> **Strongest support:** [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) — Pittsburgh's shift toward heavier land taxation was followed by a building boom that comparison cities did not see. **Strongest counter:** [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) — exploiting 5,500 German municipal tax changes, find 83% of the (land-plus-buildings) tax burden passed through to rents within about three years.
+
 ## The Claim
 
 Land value taxation can improve housing affordability through two distinct channels: it **lowers land prices** (the tax is capitalized into land values, cutting the entry price of sites and homes) and it **encourages construction** by discouraging [speculative vacancy](/wiki/speculative-vacancy/) and penalising the under-use of valuable urban land.

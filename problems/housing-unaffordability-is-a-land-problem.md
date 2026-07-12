@@ -7,8 +7,12 @@ stub: false
 excerpt: "Where housing is expensive, decomposition shows it is the land under the house — not the cost of building it — that has appreciated: 80% of the post-1950 global house-price boom is land, and in constrained US metros land is the gap between price and build cost."
 evidence_strength: "Strong (independent decompositions — 140-year cross-country panel and US micro data — converge on land; scope limited to high-demand, supply-constrained markets)"
 supported_by: [knoll-schularick-steger-house-prices, glaeser-gyourko-housing-supply, hsieh-moretti-spatial-misallocation, hilber-vermeulen-england-supply, gyourko-krimmel-zoning-tax, albouy-ehrlich-shin-metro-land]
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — In high-demand, supply-constrained markets it is the price of land, not the cost of building, that has made housing unaffordable — independent 140-year cross-country and US micro decompositions converge on land.
+> **Evidence:** Strong (independent decompositions — 140-year cross-country panel and US micro data — converge on land; scope limited to high-demand, supply-constrained markets) · **6 supporting** sources · **0 challenging**
+> **Strongest support:** [Knoll, Schularick & Steger (2017)](/wiki/knoll-schularick-steger-house-prices/) — across 14 economies, rising land prices explain about 80% of the post-war house-price boom. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

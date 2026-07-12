@@ -11,6 +11,10 @@ challenged_by: [martinez-colombia-resource-rents]
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Capturing a natural resource's rent and paying it out as an equal per-capita dividend is administratively simple and politically durable — Alaska's dividend has run continuously since 1982 across four decades and changing administrations.
+> **Evidence:** Strong (decades of real-world operation) · **6 supporting** sources · **1 challenging**
+> **Strongest support:** [Guettabi (2019)](/wiki/guettabi-pfd-effects-survey/) — the authoritative synthesis of four decades of Alaska dividend evidence: durable operation, substantial poverty reduction, and no detectable aggregate labor withdrawal. **Strongest counter:** [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) — Colombian municipalities receiving large resource-rent transfers show weaker local tax effort and accountability, a local resource curse showing distribution design matters.
+
 ## The Claim
 
 Capturing the rent of a natural resource and distributing it equally as a [citizen's dividend](/wiki/citizens-dividend/) is not just theory — it works, is administratively simple, and is politically durable over decades.

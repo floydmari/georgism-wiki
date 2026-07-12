@@ -32,7 +32,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "sources", "wiki-inventory.csv")
 CATEGORIES = ["concepts", "people", "places", "events", "problems", "benefits", "research",
-              "organizations", "objections", "narratives", "books", "texts"]
+              "organizations", "objections", "narratives", "books", "texts", "guides"]
 COLS = ["slug", "title", "category", "url", "inbound_links", "outbound_links",
         "words", "stub", "orphan", "last_reviewed"]
 LINK_RE = re.compile(r"/wiki/([a-z0-9\-]+)/")

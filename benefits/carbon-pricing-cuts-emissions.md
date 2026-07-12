@@ -11,6 +11,10 @@ challenged_by: []
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Carbon pricing produces real, measurable emissions reductions across several designs, but the reductions are modest, prices usually sit below the social cost of carbon, and the size of the aggregate effect is debated even in the best-studied case.
+> **Evidence:** Moderate-to-strong for real, measurable emissions reductions across several designs; magnitudes are modest and prices usually sit below the social cost of carbon; aggregate causal effects are debated for the flagship case · **7 supporting** sources · **0 challenging**
+> **Strongest support:** [Döbbeling-Hildebrandt et al. (2024)](/wiki/dobbeling-carbon-pricing-meta-analysis/) — a meta-analysis of 80 causal evaluations finds carbon pricing produced immediate, statistically significant cuts of roughly 5–21% per scheme. No structural counter-evidence is currently wired; see Limits.
+
 ## The Claim
 
 Charging for the right to emit CO₂ — treating the atmosphere's finite absorptive

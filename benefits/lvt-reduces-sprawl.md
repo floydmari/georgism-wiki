@@ -9,8 +9,12 @@ supported_by: [banzhaf-lavery-pa-sprawl, cho-two-rate-density, taranu-verbeeck-p
 challenged_by: [bentick-mills-timing-neutrality, brueckner-kim-sprawl, gemmell-grimes-skidmore-nz]
 related_places: [pennsylvania, pittsburgh, harrisburg-pennsylvania]
 excerpt: "Split-rate taxation increases housing density in the locations where it is applied — the mechanism anti-sprawl arguments predict — but whether this reduces sprawl at the metropolitan level depends on where the tax is adopted."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Taxing land more heavily than buildings raises development density where it is applied — the mechanism anti-sprawl arguments predict — but whether that reduces sprawl at the metropolitan level remains inferential and depends on where the tax is adopted.
+> **Evidence:** Moderate for the density mechanism (observational + cross-city + simulation + supportive review + metro-level fringe-rent evidence); the metro-level sprawl claim itself remains inferential, and the Bentick–Mills timing critique and the Brueckner–Kim property-tax-ambiguity result are carried as counter-evidence · **6 supporting** sources · **3 challenging**
+> **Strongest support:** [Banzhaf & Lavery (2010)](/wiki/banzhaf-lavery-pa-sprawl/) — Pennsylvania split-rate adoption raised housing units per acre, concentrated in multi-unit structures. **Strongest counter:** [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/) — an Auckland rating-base shift produced no significant effect on new construction, a caution against generalizing the density mechanism.
 
 ## The Claim
 

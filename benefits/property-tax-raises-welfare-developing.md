@@ -10,6 +10,10 @@ excerpt: "Causal evidence from Mexico shows raising property-tax rates increases
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — In developing countries, raising recurrent property-tax rates tends to raise welfare with little distortion — now shown causally in Mexico and DR Congo — but the benefit is conditional on enforcement capacity and the welfare channel is partly inferred from revenue and compliance.
+> **Evidence:** Moderate (rigorous causal evidence now from two countries — Mexico and DR Congo — but with an important state-capacity ceiling caveat, and the welfare channel partly inferred from revenue and compliance) · **6 supporting** sources · **0 challenging**
+> **Strongest support:** [Brockmeyer et al. (2021)](/wiki/brockmeyer-property-tax-developing/) — natural experiments in Mexico find property-tax rate increases raised welfare, with gains from the rate on compliant owners rather than coercive enforcement. No structural counter-evidence is currently wired; see Limits.
+
 ## The Claim
 
 In developing economies, **raising the rate** of recurrent property (and land) taxation tends to **increase welfare** — generating revenue with little distortion — making it one of the more attractive fiscal tools where state capacity is weak.

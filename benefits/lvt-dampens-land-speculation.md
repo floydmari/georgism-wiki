@@ -10,6 +10,10 @@ excerpt: "By imposing an annual cost on holding land, LVT reduces the incentive 
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — By imposing an annual carrying cost on holding land idle, a land value tax is expected to dampen speculative land holding — a mechanism with strong theoretical grounding and suggestive but not yet definitive empirical support.
+> **Evidence:** Moderate (strong theory; suggestive empirics) · **8 supporting** sources · **0 challenging**
+> **Strongest support:** [Cunningham (2006)](/wiki/cunningham-seattle-options/) — vacant Seattle land is priced and held as a real option on appreciation, exactly the option value an annual land tax erodes. No structural counter-evidence is currently wired; see Limits.
+
 ## The Claim
 
 A land value tax **reduces speculative land holding**. Speculation depends on being able to hold land cheaply while it appreciates; an annual tax on the land's value imposes a **carrying cost** that makes idle holding expensive, pushing owners to develop or sell.

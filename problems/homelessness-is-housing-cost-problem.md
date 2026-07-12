@@ -8,8 +8,12 @@ evidence_strength: "Strong (market-level: rents and vacancies explain where home
 supported_by: [colburn-aldern-homelessness, quigley-raphael-smolensky-homeless, hanratty-local-economic-homelessness, gao-2020-homelessness-hud-oversight, glynn-byrne-culhane-homeless-inflection]
 challenged_by: [corinth-permanent-supportive-housing]
 excerpt: "Which U.S. cities have high homelessness is explained by rent levels and rental vacancy rates, not by local rates of mental illness, drug use, or poverty — poorer cities often have less homelessness. GAO panel evidence: a $100 rent increase is associated with ~9% higher homelessness."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Across US cities, rent levels and rental vacancy rates — not local rates of mental illness, addiction, or poverty — explain where homelessness is high, though who becomes homeless within a given market remains multi-causal.
+> **Evidence:** Strong (market-level: rents and vacancies explain where homelessness is high; individual-level risk remains multi-causal) · **5 supporting** sources · **1 challenging**
+> **Strongest support:** [Colburn & Aldern (2022)](/wiki/colburn-aldern-homelessness/) — across US cities, rent and vacancy rates, not poverty or addiction, predict the homelessness rate. **Strongest counter:** [Corinth (2017)](/wiki/corinth-permanent-supportive-housing/) — adding supportive-housing units reduces the count only marginally, a check on supply-side fixes at the current margin.
 
 ## The Claim
 

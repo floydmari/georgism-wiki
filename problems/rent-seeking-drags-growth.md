@@ -8,8 +8,12 @@ evidence_strength: "Moderate (strong theory and historical evidence; direct empi
 supported_by: [murphy-shleifer-vishny-allocation-talent, murphy-shleifer-vishny-rent-seeking-growth, baumol-unproductive-entrepreneurship, rothschild-scheuer-rent-seeking, acemoglu-johnson-robinson-colonial-origins]
 challenged_by: [ansolabehere-money-in-politics]
 excerpt: "When capturing existing wealth pays better than creating new wealth, talent and effort flow into rent-seeking and growth suffers — the mainstream-economics core of the Georgist diagnosis, with strong theory and historical evidence but contested magnitudes."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — When capturing existing wealth pays better than creating it, talent and resources shift from production into rent-seeking and growth falls — a mechanism strongly grounded in theory and history, though its aggregate magnitude is not pinned down.
+> **Evidence:** Moderate (strong theory and historical evidence; direct empirical magnitudes contested) · **5 supporting** sources · **1 challenging**
+> **Strongest support:** [Murphy, Shleifer & Vishny (1991)](/wiki/murphy-shleifer-vishny-allocation-talent/) — when a society's ablest people become rent-seekers rather than entrepreneurs, innovation and growth suffer. **Strongest counter:** [Ansolabehere et al.](/wiki/ansolabehere-money-in-politics/) — documents strikingly little money in US politics, cautioning against overstating rent-seeking's scale.
 
 ## The Claim
 

@@ -11,6 +11,10 @@ excerpt: "Shifting taxes off work and investment onto land and rents removes dea
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Land and rent taxes are well-established as the least harmful way to raise revenue; the stronger claim that shifting onto them measurably raises productivity rests on cross-country associations, models, and mechanism evidence, and reads as suggestive rather than demonstrated.
+> **Evidence:** Moderate (least-harmful-tax evidence well-supported; direct 'raises productivity' evidence weaker — model-based, contested magnitudes) · **11 supporting** sources · **1 challenging**
+> **Strongest support:** [Arnold et al. (2011)](/wiki/arnold-tax-growth-ej/) — in a 21-country OECD panel, revenue-neutral shifts toward recurrent property taxation are associated with higher long-run GDP per capita. **Strongest counter:** [Gemmell, Grimes & Skidmore](/wiki/gemmell-grimes-skidmore-nz/) — a New Zealand rating-base shift found no significant construction response, undercutting the mechanism the productivity claim leans on.
+
 ## The Claim
 
 Shifting taxation off labour and capital and onto land and economic rents raises output and productivity: rent-based taxes carry little or no [deadweight loss](/wiki/deadweight-loss/), so replacing distortionary taxes with them removes drag on work, investment, and the intensity of land use.

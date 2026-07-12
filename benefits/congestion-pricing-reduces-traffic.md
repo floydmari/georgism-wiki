@@ -10,6 +10,10 @@ excerpt: "Charging for scarce peak road space produces large, measured falls in 
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Congestion pricing reliably and durably cuts traffic and congestion, and in the best-studied cases its social benefits comfortably exceed its costs — one of the most repeatedly real-world-tested non-land Geoist instruments.
+> **Evidence:** Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature · **6 supporting** sources · **0 challenging**
+> **Strongest support:** [Gibson & Carnovale (2015)](/wiki/gibson-carnovale-road-pricing-pollution/) — Milan's charge cut vehicle entries about 14.5% and pollution 6–17%, identified by an unanticipated court suspension. No structural counter-evidence is currently wired; see Limits.
+
 ## The Claim
 
 Pricing scarce, commonly-owned road space at peak times reliably reduces traffic

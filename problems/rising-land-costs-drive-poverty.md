@@ -7,8 +7,12 @@ stub: false
 evidence_strength: "Moderate (every link in the chain is separately well-evidenced; the end-to-end causal claim — land appreciation causes poverty — is rarely tested as such)"
 supported_by: [knoll-schularick-steger-house-prices, rognlie-capital-share, albouy-what-are-cities-worth, albouy-ehrlich-shin-metro-land, progress-and-poverty, hornbeck-moretti-tfp-incidence]
 excerpt: "Housing costs now determine who counts as poor in America — renters' supplemental poverty rate is 23.9% vs 5.7% for mortgaged owners — while rents have outrun renter incomes 21% to 2% since 2001, and the long-run rise in housing costs is driven by land prices, not construction."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Each link — land drives housing costs, and housing costs drive who is poor — is separately well evidenced, but George's full causal chain from land appreciation to poverty is rarely tested end-to-end, so the claim is strong on components and moderate as a whole.
+> **Evidence:** Moderate (every link in the chain is separately well-evidenced; the end-to-end causal claim — land appreciation causes poverty — is rarely tested as such) · **6 supporting** sources · **0 challenging**
+> **Strongest support:** [Knoll, Schularick & Steger (2017)](/wiki/knoll-schularick-steger-house-prices/) — the housing costs squeezing renters are, in the long run, rising land prices rather than building costs. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

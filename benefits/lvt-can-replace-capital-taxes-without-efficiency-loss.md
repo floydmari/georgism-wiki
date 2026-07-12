@@ -7,7 +7,12 @@ stub: false
 evidence_strength: "Strong (theory + calibrated empirical models)"
 supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation, tideman-avoidable-excess-burden, schwerhoff-imf-equity-efficiency, site-value-ge-simulations]
 excerpt: "Shifting tax from capital to land raises welfare: land taxes carry no deadweight loss while capital taxes discourage investment."
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Because land is fixed in supply and bears no deadweight loss while capital taxes deter investment at the margin, a revenue-neutral swap from capital taxes to a land tax raises welfare — supported by theory and calibrated general-equilibrium models.
+> **Evidence:** Strong (theory + calibrated empirical models) · **8 supporting** sources · **0 challenging**
+> **Strongest support:** [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/) — taxing land dominates taxing capital and can substitute for capital taxes without the efficiency cost. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

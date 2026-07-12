@@ -7,8 +7,12 @@ stub: false
 evidence_strength: "Emerging (strong top-journal evidence for the closely-related land-use-restriction channel; the direct privately-captured-rent version is thinner and one flagship magnitude is contested)"
 supported_by: [duranton-puga-urban-growth, hsieh-moretti-spatial-misallocation, herkenhoff-ohanian-prescott-tarnishing, fiorentino-moogan-agglomeration, hornbeck-moretti-tfp-incidence]
 excerpt: "High urban land costs price the most productive workers and firms out of the best locations, misallocating labour and capital and lowering aggregate productivity. The direction is well-supported; the magnitude and the specifically-rent (vs regulation) version remain active research."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Model evidence indicates high land costs in the most productive cities misallocate workers and lower national output, but that evidence runs mainly on land-use regulation; the specifically Georgist version — that privately captured land rent itself suppresses productivity — is thinner and rests largely on a single model.
+> **Evidence:** Emerging (strong top-journal evidence for the closely-related land-use-restriction channel; the direct privately-captured-rent version is thinner and one flagship magnitude is contested) · **5 supporting** sources · **0 challenging**
+> **Strongest support:** [Duranton & Puga (2023)](/wiki/duranton-puga-urban-growth/) — a quantitative model in which relaxing planning restrictions in seven large US cities raises aggregate output about 8%. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

@@ -11,6 +11,10 @@ excerpt: "Across US, Australian and Finnish case studies, shifting property tax 
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Taxing land more heavily than buildings tends to increase construction relative to comparable jurisdictions — consistent across Pennsylvania studies, the Pittsburgh natural experiment, and a Finnish natural experiment — though a New Zealand null and a timing critique keep it short of decisive.
+> **Evidence:** Moderate–strong (three peer-reviewed Pennsylvania studies, the Pittsburgh natural experiment, and a peer-reviewed Finnish natural experiment agree on direction; a New Zealand null, self-selected Australian data, and a timing-neutrality caveat keep it short of Strong) · **14 supporting** sources · **2 challenging**
+> **Strongest support:** [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) — Pittsburgh's building-permit value rose roughly 70% in the 1980s after it taxed land about 5× buildings, near the top of a 15-city comparison despite a shrinking economy. **Strongest counter:** [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/) — an Auckland rating-base shift found no significant effect on new building development.
+
 ## The Claim
 
 When a jurisdiction taxes **land** at a higher rate than **buildings** (a "split-rate" or "two-rate" property tax), construction tends to **increase** relative to comparable jurisdictions. Taxing improvements less removes a penalty on building; taxing land more makes holding a site idle costly.

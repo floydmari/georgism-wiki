@@ -11,6 +11,10 @@ excerpt: "Because land ownership is concentrated among the wealthy, a land value
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Because land ownership is heavily concentrated among wealthier households, a land value tax can be made progressive without sacrificing efficiency — though household-level incidence is design- and jurisdiction-dependent, and at least one revenue-neutral case was regressive without a credit.
+> **Evidence:** Strong that LVT falls on concentrated land wealth and can be made progressive by design (optimal-tax theory + wealth-concentration data); household-level incidence is jurisdiction- and design-dependent, and one revenue-neutral case (Dover, NH) was regressive absent a credit · **7 supporting** sources · **2 challenging**
+> **Strongest support:** [Schwerhoff, Edenhofer & Fleurbaey (2022)](/wiki/schwerhoff-imf-equity-efficiency/) — optimal-tax theory shows LVT can improve both equity and efficiency. **Strongest counter:** [England & Zhao (2005)](/wiki/england-zhao-lvt-distribution/) — a revenue-neutral two-rate shift in Dover, NH was regressive among residential owners absent a uniform credit.
+
 ## The Claim
 
 A land value tax is **not** regressive. Because the ownership of land and land-heavy housing is **heavily concentrated** among wealthier households, taxing land value falls disproportionately on the wealthy — so LVT can be **progressive** while remaining efficient, breaking the usual equity–efficiency trade-off.

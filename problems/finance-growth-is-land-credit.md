@@ -8,7 +8,12 @@ evidence_strength: "Strong for the composition claim (long-run cross-country dat
 supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, mian-sufi-verner-household-debt, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy]
 excerpt: "Over the past century the expansion of banking in advanced economies has been, above all, the expansion of mortgage lending — and the value that lending is secured against is overwhelmingly land, not buildings. Much of what looks like 'financial deepening' is the banking system capitalising and collecting land rent."
 challenged_by: []
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Long-run cross-country data show the growth of modern banking is overwhelmingly mortgage credit against real estate whose rising value is mostly land; the further step that finance income itself is land rent is weaker and contested.
+> **Evidence:** Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent. · **5 supporting** sources · **0 challenging**
+> **Strongest support:** [The Great Mortgaging](/wiki/great-mortgaging/) — across 17 economies the mortgage share of bank lending roughly doubled, from ~30% in 1900 to ~60% by 2007. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

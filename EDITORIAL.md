@@ -37,6 +37,13 @@ The wiki is **persuasive because it is accurate, well-sourced, and intellectuall
 never because it asserts Georgist conclusions. A reader who disagrees should be able to see
 that their strongest objection has been understood, sourced, and answered.
 
+**The reader priority (ruled 2026-07-12, Floyd):** the wiki serves, in order: (1) an
+**advocate needing ammunition** — fast paths to graded evidence, quotable verdicts,
+sources they can cite in public; (2) a **policymaker's staffer** — design details,
+implementation records, honest caveats they can defend in a briefing. Skeptics,
+journalists, and students matter, but entry points, guides, and page design are
+optimized for those two first.
+
 **The loop priority (ruled 2026-07-12, Floyd — binding on every loop wave):** the wiki's
 first purpose is to **assemble the research** behind the case: maximize the verified
 evidence wired into **benefits/** and **problems/** pages, and answer **objections/**

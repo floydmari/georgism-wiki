@@ -10,6 +10,10 @@ excerpt: "Estimates of total land rent suggest it could fund a substantial fract
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Estimates of how much government land rent could fund vary widely with method and scope — from a major share of spending to near-total replacement of existing taxes — so the honest reading is a large but genuinely uncertain fraction.
+> **Evidence:** Contested (estimates vary widely with method and scope) · **10 supporting** sources · **0 challenging**
+> **Strongest support:** [Larson (2015)](/wiki/larson-us-land-value/) — the BEA study puts contiguous-US land at roughly $23 trillion (2009), the wiki's measured benchmark. No structural counter-evidence is currently wired; see Limits.
+
 ## The Claim
 
 The total economic rent of land and natural resources is large enough to fund a substantial portion of government spending, potentially replacing many taxes on labour and capital.

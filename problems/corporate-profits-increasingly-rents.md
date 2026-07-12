@@ -8,8 +8,12 @@ evidence_strength: "Moderate–strong for the profit rise itself; contested on h
 supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents]
 challenged_by: [crouzet-eberly-intangibles]
 excerpt: "A converging empirical literature finds US corporate profits have risen far beyond competitive returns — markups, pure-profit shares, and firm-level return dispersion all point to growing economic rents, extending the Georgist rent analysis beyond land."
-last_reviewed: 2026-07-04
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — The rise in US corporate profits above competitive returns is real and abnormal across independent methods, but how much of it is genuine economic rent rather than mismeasured returns to intangible investment remains genuinely contested.
+> **Evidence:** Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency · **9 supporting** sources · **1 challenging**
+> **Strongest support:** [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — average US markups rose from about 21% to 61% over marginal cost between 1980 and 2016. **Strongest counter:** [Crouzet & Eberly (2019)](/wiki/crouzet-eberly-intangibles/) — much measured profit reflects undercounted intangible capital, not rent.
 
 ## The Claim
 

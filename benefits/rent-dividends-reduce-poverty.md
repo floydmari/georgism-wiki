@@ -11,6 +11,10 @@ excerpt: "Descriptive and causal evidence from Alaska's Permanent Fund Dividend,
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Distributing captured rent as an equal per-capita dividend reduces poverty and tends to narrow inequality, though the direct poverty evidence is descriptive or simulated, the rigorous causal study measures employment rather than poverty, and one study finds inequality worsened.
+> **Evidence:** Moderate (direct poverty evidence is descriptive or simulated; causal work rules out an employment offset rather than measuring poverty; one econometric study finds inequality worsened) · **7 supporting** sources · **1 challenging**
+> **Strongest support:** [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — Alaska's dividend had no effect on employment, so its income reaches poor households without being undone by reduced work. **Strongest counter:** [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) — in Colombia, rents routed to local governments rather than paid directly to citizens weaken local tax effort and accountability, so capture reduces poverty only when distribution is direct and per-capita.
+
 ## The Claim
 
 Capturing economic rent — resource rents in the best-evidenced case — and distributing it as an equal per-capita cash dividend reduces poverty and narrows income inequality.

@@ -8,7 +8,12 @@ evidence_strength: "Strong for the flagship case (Norway), conditional in genera
 supported_by: [resource-rents, sovereign-wealth-fund, cash-flow-tax, acemoglu-johnson-robinson-botswana, lie-norwegian-oil-fund, martinez-colombia-resource-rents, hartwick-rule]
 excerpt: "High-rate capture of natural-resource rent is workable and durable: Norway taxes petroleum at a 78% marginal rate on a cash-flow basis, has banked over $2 trillion in the world's largest sovereign wealth fund, and spends only ~3% a year — the textbook escape from the resource curse. But the escape is institutional, not automatic; where institutions are weak, resource rents are still a curse."
 challenged_by: []
+last_reviewed: 2026-07-12
 ---
+
+> **At a glance** — Capturing a finite resource's rent at a high rate works in practice where fiscal design and institutions are strong — Norway is the flagship — while the resource curse remains real where they are weak.
+> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **7 supporting** sources · **0 challenging**
+> **Strongest support:** [Lie (2018)](/wiki/lie-norwegian-oil-fund/) — Norway's ~78% petroleum rent capture built a sovereign fund now worth over $2 trillion without deterring extraction. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
 

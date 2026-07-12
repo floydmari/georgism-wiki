@@ -11,6 +11,10 @@ excerpt: "Corporate tax bases that exempt the normal return and tax only above-n
 last_reviewed: 2026-07-12
 ---
 
+> **At a glance** — Rent-targeting corporate taxes — the allowance for corporate equity and cash-flow taxes — reduce the tax subsidy to debt and leave marginal investment untaxed, strongly supported by quasi-experiments for the leverage effect and positively for expensing-driven investment, though effects on multinationals' real investment are contested.
+> **Evidence:** Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset · **6 supporting** sources · **1 challenging**
+> **Strongest support:** [Zwick & Mahon (2017)](/wiki/zwick-mahon-expensing/) — US bonus depreciation, a move toward expensing, raised eligible investment by roughly 10–17%, concentrated among cash-constrained firms. **Strongest counter:** [Hebous & Ruf (2017)](/wiki/hebous-ruf-ace/) — the strongest-identified ACE study finds the reform reduced corporate leverage but its effect on multinationals' real investment was weak.
+
 ## The Claim
 
 Corporate taxes whose base is **economic rent rather than all profit** — the
