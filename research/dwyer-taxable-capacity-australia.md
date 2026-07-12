@@ -1,16 +1,26 @@
 ---
-title: "The Taxable Capacity of Australian Land and Resources (Dwyer)"
+authors:
+- Terence Dwyer
+bears_on_objections:
+- lvt-not-enough-revenue
 category: research
-tags: [research, revenue-capacity, australia, atcor, land-rent]
-authors: [Terence Dwyer]
-year: 2003
-tier: important
+excerpt: Dwyer's Australian Tax Forum study estimating that Australian land and resource
+  rents are large enough to replace existing taxation — the most-cited national revenue-capacity
+  calculation in the modern Georgist literature, and the empirical companion to ATCOR.
+last_reviewed: 2026-07-06
 source_url: https://www.prosper.org.au/wp-content/uploads/2020/02/Dwyer_TaxableCapacityOfAustralianLand.pdf
 stub: false
-excerpt: "Dwyer's Australian Tax Forum study estimating that Australian land and resource rents are large enough to replace existing taxation — the most-cited national revenue-capacity calculation in the modern Georgist literature, and the empirical companion to ATCOR."
-last_reviewed: 2026-07-06
+subcategory: wiki-research-urban
 supports_outcomes: []
-bears_on_objections: [lvt-not-enough-revenue]
+tags:
+- research
+- revenue-capacity
+- australia
+- atcor
+- land-rent
+tier: important
+title: The Taxable Capacity of Australian Land and Resources (Dwyer)
+year: 2003
 ---
 
 ## Summary

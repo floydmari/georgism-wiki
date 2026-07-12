@@ -1,6 +1,7 @@
 ---
 title: "On Fairness and Efficiency (George Miller, 2000)"
 category: research
+subcategory: wiki-research-housing
 tags: [research, health-inequality, 18-year-land-cycle, rent-privatization, stub]
 authors: [George Miller]
 year: 2000

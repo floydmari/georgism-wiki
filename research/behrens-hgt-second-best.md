@@ -1,14 +1,24 @@
 ---
-title: "The Henry George Theorem in a Second-Best World"
+authors:
+- Kristian Behrens
+- Yoshitsugu Kanemoto
+- Yasusada Murata
 category: research
-tags: [research, henry-george-theorem, agglomeration, second-best]
-authors: [Kristian Behrens, Yoshitsugu Kanemoto, Yasusada Murata]
-year: 2015
+excerpt: Extends the Henry George Theorem to realistic economies with increasing returns,
+  distortions, and property taxes, deriving a robust second-best version.
 source_url: https://www.sciencedirect.com/science/article/abs/pii/S0094119014000771
-tier: important
 stub: false
-excerpt: "Extends the Henry George Theorem to realistic economies with increasing returns, distortions, and property taxes, deriving a robust second-best version."
-supports_outcomes: [public-goods-fundable-from-land-rent]
+subcategory: wiki-research-resources
+supports_outcomes:
+- public-goods-fundable-from-land-rent
+tags:
+- research
+- henry-george-theorem
+- agglomeration
+- second-best
+tier: important
+title: The Henry George Theorem in a Second-Best World
+year: 2015
 ---
 
 ## Summary

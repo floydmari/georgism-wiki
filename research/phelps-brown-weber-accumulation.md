@@ -1,6 +1,7 @@
 ---
 title: "Phelps Brown & Weber (1953): Accumulation, Productivity and Distribution in the British Economy, 1870-1938"
 category: research
+subcategory: wiki-research-housing
 tags: [research, stub, land-cycle, economic-history, capital-returns]
 authors: [E. H. Phelps Brown, Bernard Weber]
 year: 1953

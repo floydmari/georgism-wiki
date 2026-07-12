@@ -1,6 +1,7 @@
 ---
 title: "House Price Uncertainty, Timing of Development, and Vacant Land Prices: Evidence for Real Options in Seattle"
 category: research
+subcategory: wiki-research-housing
 tags: [research, real-options, land-speculation, vacant-land, seattle, empirical, urban-economics]
 authors: [Christopher R. Cunningham]
 year: 2006

@@ -1,6 +1,7 @@
 ---
 title: "The Meade Report (1978): The Structure and Reform of Direct Taxation"
 category: research
+subcategory: wiki-research-resources
 tags: [research, meade-report, cash-flow-tax, expenditure-tax, corporate-tax, ifs, rent-targeting-taxes]
 authors: [James Meade (chair)]
 year: 1978

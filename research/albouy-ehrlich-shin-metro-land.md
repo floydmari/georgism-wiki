@@ -1,6 +1,7 @@
 ---
 title: "Metropolitan Land Values"
 category: research
+subcategory: wiki-research-finance
 tags: [research, land-value, united-states, urban-economics, monocentric-city, revenue-sufficiency, coastal-metros, costar]
 authors: [David Albouy, Gabriel Ehrlich, Minchul Shin]
 year: 2018

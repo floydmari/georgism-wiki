@@ -1,6 +1,7 @@
 ---
 title: "California Irrigation Districts and the Wright Act (1887)"
 category: research
+subcategory: wiki-research-resources
 tags: [research, land-value-capture, california, irrigation, history, wright-act]
 authors: [E. Robert Scrofani]
 year: 1992

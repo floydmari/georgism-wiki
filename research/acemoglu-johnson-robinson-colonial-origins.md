@@ -1,15 +1,32 @@
 ---
-title: "The Colonial Origins of Comparative Development"
+authors:
+- Daron Acemoglu
+- Simon Johnson
+- James A. Robinson
 category: research
-tags: [research, institutions, extractive-institutions, property-rights, growth, rent-seeking, economic-history]
-authors: [Daron Acemoglu, Simon Johnson, James A. Robinson]
-year: 2001
-tier: important
+excerpt: The most-cited empirical demonstration that extractive institutions — those
+  built to transfer resources to a ruling elite rather than protect production — cause
+  lower long-run income. Using European settler mortality as an instrument for institutions,
+  Acemoglu, Johnson & Robinson estimate large causal effects of institutional quality
+  on income per capita, the institutional-economics backbone for the claim that rewarding
+  extraction over production drags growth.
+last_reviewed: 2026-07-11
 source_url: https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf
 stub: false
-supports_outcomes: [rent-seeking-drags-growth]
-excerpt: "The most-cited empirical demonstration that extractive institutions — those built to transfer resources to a ruling elite rather than protect production — cause lower long-run income. Using European settler mortality as an instrument for institutions, Acemoglu, Johnson & Robinson estimate large causal effects of institutional quality on income per capita, the institutional-economics backbone for the claim that rewarding extraction over production drags growth."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-resources
+supports_outcomes:
+- rent-seeking-drags-growth
+tags:
+- research
+- institutions
+- extractive-institutions
+- property-rights
+- growth
+- rent-seeking
+- economic-history
+tier: important
+title: The Colonial Origins of Comparative Development
+year: 2001
 ---
 
 ## Summary

@@ -1,6 +1,7 @@
 ---
 title: "Taxation of Economic Rents"
 category: research
+subcategory: wiki-research-resources
 tags: [research, survey, economic-rents, optimal-taxation, rent-typology, lvt]
 authors: [Gregor Schwerhoff, Ottmar Edenhofer, Marc Fleurbaey]
 year: 2020

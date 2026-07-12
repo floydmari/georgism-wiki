@@ -1,6 +1,7 @@
 ---
 title: "The Price of Residential Land for Counties, ZIP Codes, and Census Tracts in the United States"
 category: research
+subcategory: wiki-research-housing
 tags: [research, land-prices, land-share, data, fhfa, assessment, mass-appraisal]
 authors: [Morris A. Davis, William D. Larson, Stephen D. Oliner, Jessica Shui]
 year: 2019

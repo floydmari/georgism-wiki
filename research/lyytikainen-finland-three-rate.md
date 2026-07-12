@@ -1,6 +1,7 @@
 ---
 title: "Lyytikäinen (2009): Three-rate Property Taxation and Housing Construction (Finland)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, split-rate, three-rate, land-taxation, construction, finland, quasi-experimental, natural-experiment]
 authors: [Teemu Lyytikäinen]
 year: 2009

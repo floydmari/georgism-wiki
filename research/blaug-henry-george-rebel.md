@@ -1,6 +1,7 @@
 ---
 title: "Henry George: Rebel with a Cause"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, henry-george, history-of-economics, marginalism, historiography, counter-evidence]
 authors: [Mark Blaug]
 year: 2000

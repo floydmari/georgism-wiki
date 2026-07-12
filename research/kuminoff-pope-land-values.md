@@ -1,6 +1,7 @@
 ---
 title: "The Value of Residential Land and Structures during the Great Housing Boom and Bust (Kuminoff & Pope)"
 category: research
+subcategory: wiki-research-finance
 tags: [research, land-value, hedonic-method, housing-boom, land-share, structures, split-rate, assessment]
 authors: [Nicolai V. Kuminoff, Jaren C. Pope]
 year: 2013

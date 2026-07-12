@@ -1,14 +1,25 @@
 ---
-title: "Andelson (ed.), Critics of Henry George (1979)"
+authors:
+- Robert V. Andelson (ed.)
 category: research
-tags: [research, andelson, henry-george, historiography, reference, book, stub]
-authors: [Robert V. Andelson (ed.)]
-year: 1979
-source_url: https://archive.org/details/criticsofhenryge0000unse
-tier: Core
-stub: true
-excerpt: "Robert V. Andelson's edited anthology collecting and appraising every major scholarly objection to Progress and Poverty — the standard reference work for the case-by-case critical literature on Henry George."
+excerpt: Robert V. Andelson's edited anthology collecting and appraising every major
+  scholarly objection to Progress and Poverty — the standard reference work for the
+  case-by-case critical literature on Henry George.
 last_reviewed: 2026-07-11
+source_url: https://archive.org/details/criticsofhenryge0000unse
+stub: true
+subcategory: wiki-research-georgism
+tags:
+- research
+- andelson
+- henry-george
+- historiography
+- reference
+- book
+- stub
+tier: Core
+title: Andelson (ed.), Critics of Henry George (1979)
+year: 1979
 ---
 
 ## Overview

@@ -1,15 +1,28 @@
 ---
-title: "Real Estate 4 Ransom (2012 documentary)"
+authors:
+- Karl Fitzgerald
+- Gavin Emmanuel
 category: research
-tags: [research, documentary, media, prosper-australia, land-speculation, gfc, advocacy]
-authors: [Karl Fitzgerald, Gavin Emmanuel]
-year: 2012
-tier: supplementary
+excerpt: 'Prosper Australia''s 2012 documentary (~40 min, dir. Karl Fitzgerald & Gavin
+  Emmanuel): the global financial crisis read as a land-speculation crisis, and tax
+  reform off labor onto land as the remedy. The Georgist movement''s most-circulated
+  film; cited as advocacy, with its factual claims sourced to the underlying literature.'
+last_reviewed: 2026-07-06
 source_url: https://www.prosper.org.au/tag/real-estate-4-ransom-film/
 stub: false
-excerpt: "Prosper Australia's 2012 documentary (~40 min, dir. Karl Fitzgerald & Gavin Emmanuel): the global financial crisis read as a land-speculation crisis, and tax reform off labor onto land as the remedy. The Georgist movement's most-circulated film; cited as advocacy, with its factual claims sourced to the underlying literature."
-last_reviewed: 2026-07-06
+subcategory: wiki-research-urban
 supports_outcomes: []
+tags:
+- research
+- documentary
+- media
+- prosper-australia
+- land-speculation
+- gfc
+- advocacy
+tier: supplementary
+title: Real Estate 4 Ransom (2012 documentary)
+year: 2012
 ---
 
 ## Summary

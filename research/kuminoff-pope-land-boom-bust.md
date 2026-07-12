@@ -1,6 +1,7 @@
 ---
 title: "Kuminoff & Pope (2013): The Value of Residential Land and Structures during the Great Housing Boom and Bust"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, land-value, empirical, boom-bust-cycle, hedonic-estimation, land-is-a-big-deal]
 authors: [Nicolai V. Kuminoff, Jaren C. Pope]
 year: 2013

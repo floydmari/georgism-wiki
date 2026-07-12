@@ -1,13 +1,22 @@
 ---
-title: "Protection or Free Trade"
+authors:
+- Henry George
 category: research
-tags: [research, primary-text, henry-george, free-trade, trade]
-authors: [Henry George]
-year: 1886
+excerpt: Henry George's 1886 case for free trade — arguing protection cannot help
+  labour because its gains are absorbed by land rent. The first book read in full
+  into the US Congressional Record.
 source_url: https://www.henrygeorge.org/
-tier: important
 stub: false
-excerpt: "Henry George's 1886 case for free trade — arguing protection cannot help labour because its gains are absorbed by land rent. The first book read in full into the US Congressional Record."
+subcategory: wiki-research-lvt
+tags:
+- research
+- primary-text
+- henry-george
+- free-trade
+- trade
+tier: important
+title: Protection or Free Trade
+year: 1886
 ---
 
 ## Summary

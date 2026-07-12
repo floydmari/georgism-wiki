@@ -1,6 +1,7 @@
 ---
 title: "Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S. Economic Slowdown"
 category: research
+subcategory: wiki-research-inequality
 tags: [research, land-use-regulation, misallocation, tfp, productivity, macroeconomics, general-equilibrium]
 authors: [Kyle F. Herkenhoff, Lee E. Ohanian, Edward C. Prescott]
 year: 2018

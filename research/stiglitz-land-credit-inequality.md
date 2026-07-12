@@ -1,6 +1,7 @@
 ---
 title: "Stiglitz (2015): Land and Credit in the Distribution of Income and Wealth"
 category: research
+subcategory: wiki-research-housing
 tags: [research, stiglitz, land, credit, inequality, wealth-distribution, stub]
 authors: [Joseph E. Stiglitz]
 year: 2015

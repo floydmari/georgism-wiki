@@ -1,6 +1,7 @@
 ---
 title: "Capital in the Twenty-First Century"
 category: research
+subcategory: wiki-research-finance
 tags: [research, piketty, capital-share, wealth-income-ratio, inequality, housing, land]
 authors: [Thomas Piketty]
 year: 2014

@@ -1,6 +1,7 @@
 ---
 title: "The Incidence and Efficiency of Land Value Taxation (Nielsson, Wroblewski & Yding, 2024)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, land-value-tax, tax-incidence, capitalization, denmark, quasi-experiment, counter-evidence]
 authors: [Ulf Nielsson, Caleb Wroblewski, Anders Yding]
 year: 2024

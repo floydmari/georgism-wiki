@@ -1,6 +1,7 @@
 ---
 title: "Hudson: 'How to Lie with Real Estate Statistics' and 'Where Did All the Land Go?' (2001)"
 category: research
+subcategory: wiki-research-housing
 tags: [research, michael-hudson, land-valuation, federal-reserve, national-accounts, fire-sector, stub]
 authors: [Michael Hudson]
 year: 2001

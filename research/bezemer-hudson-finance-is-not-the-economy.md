@@ -1,14 +1,31 @@
 ---
-title: "Bezemer & Hudson (2016): Finance Is Not the Economy"
+authors:
+- Dirk Bezemer
+- Michael Hudson
 category: research
-tags: [research, finance-rents, fire-sector, hudson, bezemer, credit, mortgage, economic-rent, financialization]
-authors: [Dirk Bezemer, Michael Hudson]
-year: 2016
-tier: Important
+excerpt: 'The peer-reviewed statement of the heterodox ''finance income is rent''
+  thesis: credit since the 1980s has flowed to bid up asset prices — above all through
+  household mortgages — rather than to fund production, and much of what national
+  accounts record as financial ''income'' is, in classical terms, rent. The strong
+  version of the finance-rents claim, kept honestly attributed.'
 source_url: https://www.boeckler.de/pdf/v_2016_10_21_hudson.pdf
 stub: false
-supports_outcomes: [finance-growth-is-land-credit]
-excerpt: "The peer-reviewed statement of the heterodox 'finance income is rent' thesis: credit since the 1980s has flowed to bid up asset prices — above all through household mortgages — rather than to fund production, and much of what national accounts record as financial 'income' is, in classical terms, rent. The strong version of the finance-rents claim, kept honestly attributed."
+subcategory: wiki-research-inequality
+supports_outcomes:
+- finance-growth-is-land-credit
+tags:
+- research
+- finance-rents
+- fire-sector
+- hudson
+- bezemer
+- credit
+- mortgage
+- economic-rent
+- financialization
+tier: Important
+title: 'Bezemer & Hudson (2016): Finance Is Not the Economy'
+year: 2016
 ---
 
 ## Summary

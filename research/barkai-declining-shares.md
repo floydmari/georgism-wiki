@@ -1,15 +1,27 @@
 ---
-title: "Declining Labor and Capital Shares"
+authors:
+- Simcha Barkai
 category: research
-tags: [research, labor-share, capital-share, profit-share, market-power, markups, rent-seeking]
-authors: [Simcha Barkai]
-year: 2020
-tier: Important
+excerpt: Direct measurement shows both the labor share and the (required-return) capital
+  share fell in the US nonfinancial corporate sector since the 1980s, offset by a
+  large rise in pure profits — attributed to market power, not land.
+last_reviewed: 2026-07-04
 source_url: https://doi.org/10.1111/jofi.12909
 stub: false
-excerpt: "Direct measurement shows both the labor share and the (required-return) capital share fell in the US nonfinancial corporate sector since the 1980s, offset by a large rise in pure profits — attributed to market power, not land."
-last_reviewed: 2026-07-04
-supports_outcomes: [corporate-profits-increasingly-rents]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- labor-share
+- capital-share
+- profit-share
+- market-power
+- markups
+- rent-seeking
+tier: Important
+title: Declining Labor and Capital Shares
+year: 2020
 ---
 
 ## Summary

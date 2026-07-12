@@ -1,6 +1,7 @@
 ---
 title: "A Modern Analysis of the Effects of Site Value Taxation"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, site-value-tax, split-rate, property-tax, theory, urban-economics, capital-intensity]
 authors: [Jan K. Brueckner]
 year: 1986

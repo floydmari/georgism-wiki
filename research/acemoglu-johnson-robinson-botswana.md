@@ -1,6 +1,7 @@
 ---
 title: "An African Success Story: Botswana (Acemoglu, Johnson & Robinson)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, resource-rents, resource-curse, botswana, diamonds, institutions, sovereign-wealth-fund]
 authors: [Daron Acemoglu, Simon Johnson, James A. Robinson]
 year: 2003

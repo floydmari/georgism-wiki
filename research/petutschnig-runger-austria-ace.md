@@ -1,6 +1,7 @@
 ---
 title: "Petutschnig & Rünger (2022): Austria's Allowance for Corporate Equity and Capital Structure"
 category: research
+subcategory: wiki-research-finance
 tags: [research, ace, corporate-tax, debt-bias, austria, quasi-experimental, capital-structure]
 authors: [Matthias Petutschnig, Silke Rünger]
 year: 2022

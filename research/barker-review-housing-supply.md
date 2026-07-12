@@ -1,6 +1,7 @@
 ---
 title: "The Barker Review of Housing Supply (2003–04)"
 category: research
+subcategory: wiki-research-resources
 tags: [research, housing-supply, uk, planning, land-values, official-report, stub]
 authors: [Kate Barker]
 year: 2004

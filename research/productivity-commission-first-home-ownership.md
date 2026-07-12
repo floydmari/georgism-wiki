@@ -1,14 +1,26 @@
 ---
-title: "First Home Ownership (Productivity Commission, 2004)"
+authors:
+- Productivity Commission (Australia)
 category: research
-tags: [research, stub, australia, housing-affordability, land-speculation, boom-bust-cycle, tax-policy]
-authors: [Productivity Commission (Australia)]
-year: 2004
-tier: important
+excerpt: Australia's official 2004 government inquiry into first-home affordability
+  found the 1996–2003 house-price boom was driven mainly by cheap credit and income
+  growth, with capital-gains and negative-gearing tax settings amplifying investment
+  demand late in the cycle.
+last_reviewed: 2026-07-11
 source_url: https://assets.pc.gov.au/inquiries/completed/first-home-ownership/report/housing.pdf
 stub: true
-excerpt: "Australia's official 2004 government inquiry into first-home affordability found the 1996–2003 house-price boom was driven mainly by cheap credit and income growth, with capital-gains and negative-gearing tax settings amplifying investment demand late in the cycle."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- stub
+- australia
+- housing-affordability
+- land-speculation
+- boom-bust-cycle
+- tax-policy
+tier: important
+title: First Home Ownership (Productivity Commission, 2004)
+year: 2004
 ---
 
 ## Summary

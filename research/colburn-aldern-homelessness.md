@@ -1,15 +1,29 @@
 ---
-title: "Homelessness Is a Housing Problem: How Structural Factors Explain U.S. Patterns"
+authors:
+- Gregg Colburn
+- Clayton Page Aldern
 category: research
-tags: [research, homelessness, housing-costs, rents, vacancy-rates, united-states, book]
-authors: [Gregg Colburn, Clayton Page Aldern]
-year: 2022
-tier: Important
+excerpt: Colburn and Aldern's 2022 UC Press book tests the common explanations for
+  why homelessness rates differ so much across U.S. cities — mental illness, drug
+  use, poverty, weather, welfare generosity — and finds that rent levels and rental
+  vacancy rates explain the variation instead.
+last_reviewed: 2026-07-10
 source_url: https://www.ucpress.edu/book/9780520383784/homelessness-is-a-housing-problem
 stub: false
-excerpt: "Colburn and Aldern's 2022 UC Press book tests the common explanations for why homelessness rates differ so much across U.S. cities — mental illness, drug use, poverty, weather, welfare generosity — and finds that rent levels and rental vacancy rates explain the variation instead."
-last_reviewed: 2026-07-10
-supports_outcomes: [homelessness-is-housing-cost-problem]
+subcategory: wiki-research-housing
+supports_outcomes:
+- homelessness-is-housing-cost-problem
+tags:
+- research
+- homelessness
+- housing-costs
+- rents
+- vacancy-rates
+- united-states
+- book
+tier: Important
+title: 'Homelessness Is a Housing Problem: How Structural Factors Explain U.S. Patterns'
+year: 2022
 ---
 
 ## Summary

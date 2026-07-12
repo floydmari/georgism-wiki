@@ -1,6 +1,7 @@
 ---
 title: "Wealth Inequality in the United States since 1913 (Saez & Zucman)"
 category: research
+subcategory: wiki-research-inequality
 tags: [research, wealth-inequality, concentration, capitalization, united-states]
 authors: [Emmanuel Saez, Gabriel Zucman]
 year: 2016

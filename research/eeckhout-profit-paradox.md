@@ -1,6 +1,7 @@
 ---
 title: "The Profit Paradox: How Thriving Firms Threaten the Future of Work"
 category: research
+subcategory: wiki-research-housing
 tags: [research, market-power, markups, wages, labor-share, superstar-firms, monopsony, antitrust, popular-economics]
 authors: [Jan Eeckhout]
 year: 2021

@@ -1,6 +1,7 @@
 ---
 title: "Lewis (1965): Building Cycles and Britain's Growth"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, land-cycle, real-estate-cycle, uk, building-cycles, historical, stub]
 authors: [J. Parry Lewis]
 year: 1965

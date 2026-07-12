@@ -1,15 +1,29 @@
 ---
-title: "The Power to Tax: Analytical Foundations of a Fiscal Constitution"
+authors:
+- Geoffrey Brennan
+- James M. Buchanan
+bears_on_objections:
+- public-choice-critique
 category: research
-tags: [research, public-choice, leviathan, taxation, constitutional-economics, buchanan]
-authors: [Geoffrey Brennan, James M. Buchanan]
-year: 1980
-tier: important
+excerpt: 'Brennan & Buchanan''s constitutional theory of taxation: model government
+  as a revenue-maximizing ''Leviathan,'' and the orthodox case for a broad, efficient,
+  comprehensive tax base inverts — the very base that minimizes deadweight loss is
+  the one Leviathan can exploit most fully. The public-choice challenge to the efficiency
+  case for LVT.'
+last_reviewed: 2026-07-10
 source_url: https://oll.libertyfund.org/titles/brennan-the-collected-works-of-james-m-buchanan-vol-9-the-power-to-tax
 stub: false
-excerpt: "Brennan & Buchanan's constitutional theory of taxation: model government as a revenue-maximizing 'Leviathan,' and the orthodox case for a broad, efficient, comprehensive tax base inverts — the very base that minimizes deadweight loss is the one Leviathan can exploit most fully. The public-choice challenge to the efficiency case for LVT."
-last_reviewed: 2026-07-10
-bears_on_objections: [public-choice-critique]
+subcategory: wiki-research-georgism
+tags:
+- research
+- public-choice
+- leviathan
+- taxation
+- constitutional-economics
+- buchanan
+tier: important
+title: 'The Power to Tax: Analytical Foundations of a Fiscal Constitution'
+year: 1980
 ---
 
 ## Summary

@@ -1,6 +1,7 @@
 ---
 title: "Estimating Land Values (Gwartney)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, assessment, mass-appraisal, land-valuation, practitioner]
 authors: [Ted Gwartney]
 year: 1999

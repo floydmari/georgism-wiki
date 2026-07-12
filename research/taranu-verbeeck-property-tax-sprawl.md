@@ -1,15 +1,27 @@
 ---
-title: "Property Tax as a Policy Against Urban Sprawl"
+authors:
+- Victoria Taranu
+- Griet Verbeeck
 category: research
-tags: [research, property-tax, split-rate, sprawl, literature-review]
-authors: [Victoria Taranu, Griet Verbeeck]
-year: 2022
-tier: important
+excerpt: Taranu & Verbeeck's 2022 Land Use Policy literature review of ex-post empirical
+  studies concludes property taxation — including split-rate designs — can reduce
+  sprawl when the design is right, while flagging the offsetting dwelling-size and
+  improvement effects that make design decisive.
+last_reviewed: 2026-07-05
 source_url: https://www.sciencedirect.com/science/article/abs/pii/S0264837722003623
 stub: false
-excerpt: "Taranu & Verbeeck's 2022 Land Use Policy literature review of ex-post empirical studies concludes property taxation — including split-rate designs — can reduce sprawl when the design is right, while flagging the offsetting dwelling-size and improvement effects that make design decisive."
-last_reviewed: 2026-07-05
-supports_outcomes: [lvt-reduces-sprawl]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- lvt-reduces-sprawl
+tags:
+- research
+- property-tax
+- split-rate
+- sprawl
+- literature-review
+tier: important
+title: Property Tax as a Policy Against Urban Sprawl
+year: 2022
 ---
 
 ## Summary

@@ -1,14 +1,26 @@
 ---
-title: "Assessing the Theory and Practice of Land Value Taxation"
+authors:
+- Richard F. Dye
+- Richard W. England
+bears_on_objections:
+- lvt-is-just-a-property-tax
+- lvt-hurts-farmers
 category: research
-tags: [research, lvt, policy, reference, lincoln-institute, dye-england]
-authors: [Richard F. Dye, Richard W. England]
-year: 2010
+excerpt: The standard modern policy reference on land value taxation — surveying the
+  theory, the international and US experience, and practical implementation.
 source_url: https://www.lincolninst.edu/publications/policy-focus-reports/assessing-theory-practice-land-value-taxation/
-tier: core
 stub: false
-excerpt: "The standard modern policy reference on land value taxation — surveying the theory, the international and US experience, and practical implementation."
-bears_on_objections: [lvt-is-just-a-property-tax, lvt-hurts-farmers]
+subcategory: wiki-research-lvt
+tags:
+- research
+- lvt
+- policy
+- reference
+- lincoln-institute
+- dye-england
+tier: core
+title: Assessing the Theory and Practice of Land Value Taxation
+year: 2010
 ---
 
 ## Summary

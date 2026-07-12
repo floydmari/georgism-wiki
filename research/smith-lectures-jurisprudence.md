@@ -1,6 +1,7 @@
 ---
 title: "Adam Smith's Lectures on Jurisprudence: Land Taxation Before the Wealth of Nations"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, adam-smith, classical-economics, land-value-tax, ground-rent, taxation, tax-incidence, tax-capitalization]
 authors: [Adam Smith]
 year: 1896

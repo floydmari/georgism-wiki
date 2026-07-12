@@ -1,6 +1,7 @@
 ---
 title: "Who Owns the Sky? Peter Barnes's Sky Trust and Cap-and-Dividend"
 category: research
+subcategory: wiki-research-resources
 tags: [research, ecological-georgism, carbon, commons, cap-and-dividend, citizens-dividend, resource-rents]
 authors: [Peter Barnes]
 year: 2001

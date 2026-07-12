@@ -1,13 +1,21 @@
 ---
-title: "Henry George, Land Speculation, and Economic Growth (Oxford Review, 2025)"
+authors:
+- Various
 category: research
-tags: [research, survey, economic-growth, oxford-review, georgism]
-authors: [Various]
-year: 2025
+excerpt: A 2025 survey in the Oxford Review of Economic Policy assessing the contemporary
+  relevance of Henry George's ideas to growth and land speculation.
 source_url: https://academic.oup.com/oxrep/article/41/2/326/8320563
-tier: important
 stub: false
-excerpt: "A 2025 survey in the Oxford Review of Economic Policy assessing the contemporary relevance of Henry George's ideas to growth and land speculation."
+subcategory: wiki-research-finance
+tags:
+- research
+- survey
+- economic-growth
+- oxford-review
+- georgism
+tier: important
+title: Henry George, Land Speculation, and Economic Growth (Oxford Review, 2025)
+year: 2025
 ---
 
 ## Summary

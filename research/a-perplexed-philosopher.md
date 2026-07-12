@@ -1,13 +1,23 @@
 ---
-title: "A Perplexed Philosopher"
+authors:
+- Henry George
 category: research
-tags: [research, primary-text, henry-george, philosophy, natural-rights, spencer]
-authors: [Henry George]
-year: 1892
+excerpt: Henry George's 1892 critique of Herbert Spencer, who had endorsed common
+  rights to land then recanted — a foundational statement of the philosophical case
+  for land as common property.
 source_url: https://www.henrygeorge.org/
-tier: supplementary
 stub: false
-excerpt: "Henry George's 1892 critique of Herbert Spencer, who had endorsed common rights to land then recanted — a foundational statement of the philosophical case for land as common property."
+subcategory: wiki-research-georgism
+tags:
+- research
+- primary-text
+- henry-george
+- philosophy
+- natural-rights
+- spencer
+tier: supplementary
+title: A Perplexed Philosopher
+year: 1892
 ---
 
 ## Summary

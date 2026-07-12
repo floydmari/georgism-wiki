@@ -1,6 +1,7 @@
 ---
 title: "Kindleberger & Aliber: Manias, Panics, and Crashes"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, financial-crises, bubbles, minsky, boom-bust-cycle, stub]
 authors: [Charles P. Kindleberger, Robert Z. Aliber]
 year: 1978

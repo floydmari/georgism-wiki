@@ -1,6 +1,7 @@
 ---
 title: "Cord, Henry George: Dreamer or Realist? (1965)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, cord, henry-george, historiography, reception, single-tax, stub]
 authors: [Steven B. Cord]
 year: 1965

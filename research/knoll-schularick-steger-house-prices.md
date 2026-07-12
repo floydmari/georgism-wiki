@@ -1,6 +1,7 @@
 ---
 title: "No Price Like Home: Global House Prices, 1870–2012"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, land, house-prices, capital-share, historical, wealth-income-ratio, urbanization]
 authors: [Katharina Knoll, Moritz Schularick, Thomas Steger]
 year: 2017

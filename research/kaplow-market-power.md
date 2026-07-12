@@ -1,6 +1,7 @@
 ---
 title: "Market Power and Income Taxation"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, market-power, optimal-taxation, rents, nber]
 authors: [Louis Kaplow]
 year: 2019

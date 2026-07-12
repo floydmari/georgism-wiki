@@ -1,6 +1,7 @@
 ---
 title: "The 18-Year Pattern Predicting 2027's Market Crash"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, land-cycle, real-estate-cycle, forecasting, harrison, foldvary, anderson, patel, hoyt]
 authors: ["Floyd Marinescu"]
 year: 2026

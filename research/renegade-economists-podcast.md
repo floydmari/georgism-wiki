@@ -1,6 +1,7 @@
 ---
 title: "Renegade Economists Podcast"
 category: research
+subcategory: wiki-research-urban
 tags: [research, podcast, australia, fitzgerald, land-tax]
 authors: [Karl Fitzgerald]
 year: 2021

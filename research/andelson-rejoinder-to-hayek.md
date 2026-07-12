@@ -1,6 +1,7 @@
 ---
 title: "Andelson (2000): A Georgist Rejoinder to F.A. Hayek"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, andelson, hayek, unearned-increment, austrian-economics, stub]
 authors: [Robert V. Andelson]
 year: 2000

@@ -1,6 +1,7 @@
 ---
 title: "Land Value Appraisal Using Statistical Methods (Kolbe et al., Berlin)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, assessment, cama, hedonic-regression, valuation, lvt, germany]
 authors: [Jens Kolbe, Rainer Schulz, Martin Wersing, Axel Werwatz]
 year: 2019

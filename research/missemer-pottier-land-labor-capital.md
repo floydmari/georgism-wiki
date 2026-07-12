@@ -1,6 +1,7 @@
 ---
 title: "Revisiting Land, Labor, and Capital in Neoclassical Economics"
 category: research
+subcategory: wiki-research-resources
 tags: [research, history-of-economics, neoclassical, land, capital-theory, historiography, john-bates-clark, irving-fisher]
 authors: [Antoine Missemer, Antonin Pottier]
 year: 2025

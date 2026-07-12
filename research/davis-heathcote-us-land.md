@@ -1,15 +1,28 @@
 ---
-title: "The Price and Quantity of Residential Land in the United States"
+authors:
+- Morris A. Davis
+- Jonathan Heathcote
 category: research
-tags: [research, land-value, united-states, residential-land, price-index, residual-method, federal-reserve]
-authors: [Morris A. Davis, Jonathan Heathcote]
-year: 2007
-tier: Important
+excerpt: A foundational paper constructing a quarterly price and quantity index for
+  residential land in the US using a residual method, producing the widely cited Davis-Heathcote
+  land price series.
+last_reviewed: 2026-07-03
 source_url: https://www.sciencedirect.com/science/article/abs/pii/S0304393207000700
 stub: false
-excerpt: "A foundational paper constructing a quarterly price and quantity index for residential land in the US using a residual method, producing the widely cited Davis-Heathcote land price series."
-last_reviewed: 2026-07-03
-supports_outcomes: [land-rent-could-fund-government]
+subcategory: wiki-research-resources
+supports_outcomes:
+- land-rent-could-fund-government
+tags:
+- research
+- land-value
+- united-states
+- residential-land
+- price-index
+- residual-method
+- federal-reserve
+tier: Important
+title: The Price and Quantity of Residential Land in the United States
+year: 2007
 ---
 
 ## Summary

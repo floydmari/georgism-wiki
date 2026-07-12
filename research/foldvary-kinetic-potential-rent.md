@@ -1,6 +1,7 @@
 ---
 title: "Kinetic Rent and Potential Rent (Foldvary)"
 category: research
+subcategory: wiki-research-finance
 tags: [research, economic-rent, rent-estimation, foldvary, theory, atcor]
 authors: [Fred Foldvary]
 year: 2012

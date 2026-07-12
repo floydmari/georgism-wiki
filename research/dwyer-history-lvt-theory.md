@@ -1,6 +1,7 @@
 ---
 title: "Dwyer (1980): A History of the Theory of Land Value Taxation"
 category: research
+subcategory: wiki-research-finance
 tags: [research, land-value-tax, superneutrality, harvard, dissertation, stub]
 stub: true
 excerpt: "Terence Dwyer's 1980 Harvard PhD dissertation surveying land value taxation theory from Locke onward — the source, per the Corruption of Economics postscript, of the 'superneutrality' argument that rent taxation is not merely efficient but welfare-improving."

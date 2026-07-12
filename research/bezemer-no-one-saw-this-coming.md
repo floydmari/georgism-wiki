@@ -1,6 +1,7 @@
 ---
 title: "\"No One Saw This Coming\": Understanding Financial Crisis Through Accounting Models (Bezemer)"
 category: research
+subcategory: wiki-research-finance
 tags: [research, prediction-record, 2008-crisis, flow-of-funds, heterodox]
 authors: [Dirk J. Bezemer]
 year: 2009

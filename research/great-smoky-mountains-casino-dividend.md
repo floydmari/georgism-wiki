@@ -1,15 +1,36 @@
 ---
-title: "The Great Smoky Mountains Casino-Dividend Natural Experiment"
+authors:
+- E. Jane Costello
+- Scott N. Compton
+- Gordon Keeler
+- Adrian Angold
+- Randall K. Q. Akee
+- William E. Copeland
 category: research
-tags: [research, citizens-dividend, resource-rents, poverty, child-outcomes, quasi-experiment, cherokee, casino, universal-basic-income]
-authors: [E. Jane Costello, Scott N. Compton, Gordon Keeler, Adrian Angold, Randall K. Q. Akee, William E. Copeland]
-year: 2010
-tier: important
+excerpt: 'A famous natural experiment: when the Eastern Band of Cherokee Indians began
+  paying every tribal member an equal per-capita share of casino profits, researchers
+  tracking a long-running child cohort found the unconditional dividend reduced poverty-linked
+  psychiatric symptoms and, in adulthood, raised education and cut minor crime.'
+last_reviewed: 2026-07-11
 source_url: https://www.aeaweb.org/articles?id=10.1257/app.2.1.86
 stub: false
-excerpt: "A famous natural experiment: when the Eastern Band of Cherokee Indians began paying every tribal member an equal per-capita share of casino profits, researchers tracking a long-running child cohort found the unconditional dividend reduced poverty-linked psychiatric symptoms and, in adulthood, raised education and cut minor crime."
-last_reviewed: 2026-07-11
-supports_outcomes: [rent-dividends-reduce-poverty, resource-rent-dividends-work]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- rent-dividends-reduce-poverty
+- resource-rent-dividends-work
+tags:
+- research
+- citizens-dividend
+- resource-rents
+- poverty
+- child-outcomes
+- quasi-experiment
+- cherokee
+- casino
+- universal-basic-income
+tier: important
+title: The Great Smoky Mountains Casino-Dividend Natural Experiment
+year: 2010
 ---
 
 ## Summary

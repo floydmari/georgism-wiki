@@ -1,14 +1,27 @@
 ---
-title: "Taxing Property in Developing Countries"
+authors:
+- Anne Brockmeyer
+- Alejandro Estefan
+- Karina Ramírez Arras
+- Juan Carlos Suárez Serrato
 category: research
-tags: [research, property-tax, developing-countries, mexico, nber, empirical]
-authors: [Anne Brockmeyer, Alejandro Estefan, Karina Ramírez Arras, Juan Carlos Suárez Serrato]
-year: 2021
+excerpt: Using Mexican natural experiments, this NBER paper finds that raising property-tax
+  rates increases welfare, while heavy-handed enforcement can reduce it.
 source_url: https://www.nber.org/system/files/working_papers/w28637/w28637.pdf
-tier: important
 stub: false
-excerpt: "Using Mexican natural experiments, this NBER paper finds that raising property-tax rates increases welfare, while heavy-handed enforcement can reduce it."
-supports_outcomes: [property-tax-raises-welfare-developing]
+subcategory: wiki-research-housing
+supports_outcomes:
+- property-tax-raises-welfare-developing
+tags:
+- research
+- property-tax
+- developing-countries
+- mexico
+- nber
+- empirical
+tier: important
+title: Taxing Property in Developing Countries
+year: 2021
 ---
 
 ## Summary

@@ -1,6 +1,7 @@
 ---
 title: "Impact of a Two-Rate Property Tax on Residential Densities"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, split-rate, density, sprawl, simulation, nashville]
 authors: [Seong-Hoon Cho, SeungGyu Kim, Dayton M. Lambert, Roland K. Roberts]
 year: 2013

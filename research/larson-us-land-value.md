@@ -1,6 +1,7 @@
 ---
 title: "New Estimates of Value of Land of the United States"
 category: research
+subcategory: wiki-research-resources
 tags: [research, official-statistics, land-value, revenue-sufficiency, united-states, bea, hedonic-methods]
 authors: [William Larson]
 year: 2015

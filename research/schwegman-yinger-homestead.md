@@ -1,15 +1,29 @@
 ---
-title: "The Shifting of the Property Tax on Urban Renters: Evidence from New York State's Homestead Tax Option"
+authors:
+- David J. Schwegman
+- John Yinger
 category: research
-tags: [research, property-tax, incidence, rents, quasi-experimental, new-york]
-authors: [David J. Schwegman, John Yinger]
-year: 2020
-tier: important
+excerpt: 'Modern US quasi-experimental evidence on rental incidence: exploiting New
+  York State''s Homestead Tax Option, Schwegman & Yinger find landlords shift only
+  about 14% of a property-tax increase onto renters — most of the burden stays with
+  owners.'
+last_reviewed: 2026-07-05
 source_url: https://www.census.gov/library/working-papers/2020/adrm/CES-WP-20-43.html
 stub: false
-excerpt: "Modern US quasi-experimental evidence on rental incidence: exploiting New York State's Homestead Tax Option, Schwegman & Yinger find landlords shift only about 14% of a property-tax increase onto renters — most of the burden stays with owners."
-last_reviewed: 2026-07-05
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- property-tax
+- incidence
+- rents
+- quasi-experimental
+- new-york
+tier: important
+title: 'The Shifting of the Property Tax on Urban Renters: Evidence from New York
+  State''s Homestead Tax Option'
+year: 2020
 ---
 
 ## Summary

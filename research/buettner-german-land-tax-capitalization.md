@@ -1,6 +1,7 @@
 ---
 title: "Buettner (2003): Tiebout Visits Germany — Land Tax Capitalization in a Sample of German Municipalities"
 category: research
+subcategory: wiki-research-finance
 tags: [research, tax-capitalization, land-value-tax, germany, incidence, stub]
 authors: [Thiess Buettner]
 year: 2003

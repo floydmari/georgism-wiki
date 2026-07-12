@@ -1,6 +1,7 @@
 ---
 title: "Land Taxes and Housing Prices (Danish Economic Councils)"
 category: research
+subcategory: wiki-research-urban
 tags: [research, land-value-tax, incidence, capitalization, denmark, quasi-experimental]
 authors: [Anne Kristine Høj, Mads Rahbek Jørgensen, Poul Schou]
 year: 2017

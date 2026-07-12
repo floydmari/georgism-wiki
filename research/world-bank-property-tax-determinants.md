@@ -1,14 +1,23 @@
 ---
-title: "Determinants of Property Tax Revenue: Lessons from Empirical Analysis"
+authors:
+- World Bank
 category: research
-tags: [research, property-tax, world-bank, global, revenue]
-authors: [World Bank]
-year: 2020
+excerpt: A cross-country analysis of property-tax revenue performance across 128 countries,
+  identifying what drives successful property and land taxation.
 source_url: https://documents1.worldbank.org/curated/en/360151600192574693/pdf/Determinants-of-Property-Tax-Revenue-Lessons-from-Empirical-Analysis.pdf
-tier: important
 stub: false
-excerpt: "A cross-country analysis of property-tax revenue performance across 128 countries, identifying what drives successful property and land taxation."
-supports_outcomes: [property-tax-raises-welfare-developing]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- property-tax-raises-welfare-developing
+tags:
+- research
+- property-tax
+- world-bank
+- global
+- revenue
+tier: important
+title: 'Determinants of Property Tax Revenue: Lessons from Empirical Analysis'
+year: 2020
 ---
 
 ## Summary

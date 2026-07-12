@@ -1,6 +1,7 @@
 ---
 title: "Systematic Review and Meta-Analysis of Ex-Post Evaluations on the Effectiveness of Carbon Pricing (Döbbeling-Hildebrandt et al.)"
 category: research
+subcategory: wiki-research-resources
 tags: [research, carbon-pricing, carbon-tax, emissions-trading, meta-analysis, ecological-georgism, pigouvian, atmosphere-commons]
 authors: [Niklas Döbbeling-Hildebrandt, Klaas Miersch, Tarun M. Khanna, Marion Bachelet, Stephan B. Bruns, Max Callaghan, Ottmar Edenhofer, Christian Flachsland, Piers M. Forster, Matthias Kalkuhl, Nicolas Koch, William F. Lamb, Nils Ohlendorf, Jan Christoph Steckel, Jan C. Minx]
 year: 2024

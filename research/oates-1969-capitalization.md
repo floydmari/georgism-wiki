@@ -1,6 +1,7 @@
 ---
 title: "The Effects of Property Taxes and Local Public Spending on Property Values"
 category: research
+subcategory: wiki-research-housing
 tags: [research, tax-capitalization, tiebout, property-tax, new-jersey, public-goods, empirical]
 authors: [Wallace E. Oates]
 year: 1969

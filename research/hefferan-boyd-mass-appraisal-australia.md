@@ -1,6 +1,7 @@
 ---
 title: "Property Taxation and Mass Appraisal Valuations in Australia (Hefferan & Boyd)"
 category: research
+subcategory: wiki-research-urban
 tags: [research, assessment, mass-appraisal, valuation, property-tax, australia]
 authors: [Mike Hefferan, Terry Boyd]
 year: 2010

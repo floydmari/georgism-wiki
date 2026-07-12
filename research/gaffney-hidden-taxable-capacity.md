@@ -1,15 +1,25 @@
 ---
-title: "The Hidden Taxable Capacity of Land: Enough and to Spare"
+authors:
+- Mason Gaffney
+bears_on_objections:
+- lvt-not-enough-revenue
 category: research
-tags: [research, revenue-sufficiency, atcor, gaffney, land-rent]
-authors: [Mason Gaffney]
-year: 2009
+excerpt: Gaffney's detailed argument that the economic rent of land in the US is large
+  enough to fund government at all levels without taxing labour or capital.
 source_url: https://economics.ucr.edu/papers/papers08/08-12old.pdf
-tier: core
 stub: false
-excerpt: "Gaffney's detailed argument that the economic rent of land in the US is large enough to fund government at all levels without taxing labour or capital."
-supports_outcomes: [land-rent-could-fund-government]
-bears_on_objections: [lvt-not-enough-revenue]
+subcategory: wiki-research-urban
+supports_outcomes:
+- land-rent-could-fund-government
+tags:
+- research
+- revenue-sufficiency
+- atcor
+- gaffney
+- land-rent
+tier: core
+title: 'The Hidden Taxable Capacity of Land: Enough and to Spare'
+year: 2009
 ---
 
 ## Summary

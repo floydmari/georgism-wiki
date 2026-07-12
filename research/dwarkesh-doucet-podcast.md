@@ -1,6 +1,7 @@
 ---
 title: "Lars Doucet on the Dwarkesh Podcast"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, podcast, doucet, accessible, introduction]
 authors: [Dwarkesh Patel, Lars Doucet]
 year: 2023

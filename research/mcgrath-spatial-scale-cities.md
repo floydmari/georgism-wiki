@@ -1,6 +1,7 @@
 ---
 title: "More Evidence on the Spatial Scale of Cities (McGrath, 2005)"
 category: research
+subcategory: wiki-research-urban
 tags: [research, urban-sprawl, urban-economics, monocentric-model, empirical, land-rent]
 authors: [Daniel T. McGrath]
 year: 2005

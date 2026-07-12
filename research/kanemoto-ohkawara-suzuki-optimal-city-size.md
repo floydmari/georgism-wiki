@@ -1,15 +1,28 @@
 ---
-title: "Agglomeration Economies and a Test for Optimal City Sizes in Japan"
+authors:
+- Yoshitsugu Kanemoto
+- Toru Ohkawara
+- Tsutomu Suzuki
 category: research
-tags: [research, henry-george-theorem, optimal-city-size, agglomeration, japan, tokyo]
-authors: [Yoshitsugu Kanemoto, Toru Ohkawara, Tsutomu Suzuki]
-year: 1996
-tier: important
+excerpt: 'The first empirical attempt to test the Henry George Theorem: estimates
+  agglomeration economies for 17 Japanese metro areas and finds no evidence Tokyo
+  is disproportionately overpopulated relative to other cities.'
+last_reviewed: 2026-07-04
 source_url: https://doi.org/10.1006/jjie.1996.0022
 stub: false
-excerpt: "The first empirical attempt to test the Henry George Theorem: estimates agglomeration economies for 17 Japanese metro areas and finds no evidence Tokyo is disproportionately overpopulated relative to other cities."
-last_reviewed: 2026-07-04
-supports_outcomes: [public-goods-fundable-from-land-rent]
+subcategory: wiki-research-urban
+supports_outcomes:
+- public-goods-fundable-from-land-rent
+tags:
+- research
+- henry-george-theorem
+- optimal-city-size
+- agglomeration
+- japan
+- tokyo
+tier: important
+title: Agglomeration Economies and a Test for Optimal City Sizes in Japan
+year: 1996
 ---
 
 ## Summary

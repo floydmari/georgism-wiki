@@ -1,6 +1,7 @@
 ---
 title: "Book Review: Progress and Poverty (Doucet, ACX Contest Winner)"
 category: research
+subcategory: wiki-research-inequality
 tags: [research, online-writing, doucet, acx, accessible]
 authors: [Lars Doucet]
 year: 2021

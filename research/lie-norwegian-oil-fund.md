@@ -1,6 +1,7 @@
 ---
 title: "Learning by Failing: The Origins of the Norwegian Oil Fund (Lie)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, resource-rents, sovereign-wealth-fund, norway, fiscal-rule, institutions, economic-history]
 authors: [Einar Lie]
 year: 2018

@@ -1,6 +1,7 @@
 ---
 title: "Bourassa (1987): Land Value Taxation and New Housing Development in Pittsburgh"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, pittsburgh, split-rate, construction, empirical, pennsylvania, stub]
 authors: [Steven C. Bourassa]
 year: 1987

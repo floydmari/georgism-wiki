@@ -1,6 +1,7 @@
 ---
 title: "Equity and Efficiency Effects of Land Value Taxation"
 category: research
+subcategory: wiki-research-inequality
 tags: [research, imf, optimal-taxation, equity, efficiency, lvt]
 authors: [Gregor Schwerhoff, Ottmar Edenhofer, Marc Fleurbaey]
 year: 2022

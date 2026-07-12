@@ -1,6 +1,7 @@
 ---
 title: "The Short-Run Effects of Congestion Pricing in New York City (Cook, Kreidieh & Vasserman et al.)"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, congestion-pricing, road-pricing, new-york, synthetic-control, pigouvian, road-space-rents, welfare]
 authors: [Cody Cook, Aboudy Kreidieh, Shoshana Vasserman, Hunt Allcott, Neha Arora, Freek van Sambeek, Andrew Tomkins, Eray Turkel]
 year: 2025

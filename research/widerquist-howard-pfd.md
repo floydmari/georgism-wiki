@@ -1,6 +1,7 @@
 ---
 title: "Alaska's Permanent Fund Dividend: Examining Its Suitability as a Model"
 category: research
+subcategory: wiki-research-resources
 tags: [research, alaska, citizens-dividend, resource-rents, basic-income, dividend, edited-volume]
 authors: [Karl Widerquist, Michael W. Howard]
 year: 2012

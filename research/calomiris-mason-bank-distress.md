@@ -1,6 +1,7 @@
 ---
 title: "Calomiris & Mason (2003): Consequences of Bank Distress During the Great Depression"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, great-depression, banking, credit-channel, real-estate, empirical, stub]
 authors: [Charles W. Calomiris, Joseph R. Mason]
 year: 2003

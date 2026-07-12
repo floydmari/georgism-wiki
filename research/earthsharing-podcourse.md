@@ -1,6 +1,7 @@
 ---
 title: "The Georgist Podcourse (Earthsharing)"
 category: research
+subcategory: wiki-research-housing
 tags: [research, podcast, education, course, earthsharing]
 authors: [Karl Fitzgerald, Earthsharing Australia]
 year: 2019

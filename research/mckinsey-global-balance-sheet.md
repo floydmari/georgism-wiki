@@ -1,6 +1,7 @@
 ---
 title: "McKinsey Global Institute (2021): The Rise and Rise of the Global Balance Sheet"
 category: research
+subcategory: wiki-research-inequality
 tags: [research, land-value, capital-share, global-wealth, real-estate, mckinsey, land-is-a-big-deal, stub]
 authors: [Jan Mischke, Anu Madgavkar, Jonathan Woetzel, Eckart Windhagen, Sven Smit, et al.]
 year: 2021

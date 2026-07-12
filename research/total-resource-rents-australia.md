@@ -1,6 +1,7 @@
 ---
 title: "Total Resource Rents of Australia (Fitzgerald / Prosper Australia)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, revenue-capacity, australia, land-rent, resource-rents, monopoly, natural-monopolies, advocacy, prosper-australia]
 authors: [Karl Fitzgerald]
 year: 2013

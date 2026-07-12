@@ -1,6 +1,7 @@
 ---
 title: "Progress and Poverty"
 category: research
+subcategory: wiki-research-finance
 tags: [progress-and-poverty, henry-george, georgism, land-value-tax, political-economy]
 stub: false
 year: 1879

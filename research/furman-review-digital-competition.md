@@ -1,14 +1,33 @@
 ---
-title: "Unlocking Digital Competition — the Furman Review"
+authors:
+- Jason Furman
+- Diane Coyle
+- Amelia Fletcher
+- Philip Marsden
+- Derek McAuley
 category: research
-tags: [research, digital-competition, platform-economy, data-rents, market-power, antitrust, interoperability, geoism, quasi-rent]
-authors: [Jason Furman, Diane Coyle, Amelia Fletcher, Philip Marsden, Derek McAuley]
-year: 2019
-tier: Important
+excerpt: The UK Treasury's 2019 expert-panel report, chaired by Jason Furman, on competition
+  in digital markets. Its diagnosis — that network effects and returns to scale on
+  data 'tip' digital markets to a durable single winner — is a leading is-it-a-rent
+  source. But its prescription is to *dissolve* the advantage through interoperability,
+  data mobility and antitrust, not to *capture* it through a rent tax.
+last_reviewed: 2026-07-10
 source_url: https://assets.publishing.service.gov.uk/media/5c88150ee5274a230219c35f/unlocking_digital_competition_furman_review_web.pdf
 stub: false
-excerpt: "The UK Treasury's 2019 expert-panel report, chaired by Jason Furman, on competition in digital markets. Its diagnosis — that network effects and returns to scale on data 'tip' digital markets to a durable single winner — is a leading is-it-a-rent source. But its prescription is to *dissolve* the advantage through interoperability, data mobility and antitrust, not to *capture* it through a rent tax."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-resources
+tags:
+- research
+- digital-competition
+- platform-economy
+- data-rents
+- market-power
+- antitrust
+- interoperability
+- geoism
+- quasi-rent
+tier: Important
+title: Unlocking Digital Competition — the Furman Review
+year: 2019
 ---
 
 ## Summary

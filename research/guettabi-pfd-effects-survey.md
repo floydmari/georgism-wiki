@@ -1,6 +1,7 @@
 ---
 title: "What do we know about the effects of the Alaska PFD? (Guettabi 2019)"
 category: research
+subcategory: wiki-research-resources
 tags: [research, citizens-dividend, resource-rents, alaska, poverty, inequality, universal-income, literature-review]
 authors: [Mouhcine Guettabi]
 year: 2019

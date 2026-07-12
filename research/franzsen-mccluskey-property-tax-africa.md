@@ -1,6 +1,7 @@
 ---
 title: "Property Tax in Africa: Status, Challenges, and Prospects"
 category: research
+subcategory: wiki-research-urban
 tags: [research, africa, property-tax, lincoln-institute, administration, valuation, developing-countries]
 authors: [Riël Franzsen, William McCluskey]
 year: 2017

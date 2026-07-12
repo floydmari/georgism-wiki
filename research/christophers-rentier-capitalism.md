@@ -1,6 +1,7 @@
 ---
 title: "Christophers (2020): Rentier Capitalism"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, rentier, economic-rent, financialisation, ip-rents, resource-rents, stub]
 authors: [Brett Christophers]
 year: 2020

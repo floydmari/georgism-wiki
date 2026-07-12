@@ -1,6 +1,7 @@
 ---
 title: "Gaffney (1994): Land as a Distinctive Factor of Production"
 category: research
+subcategory: wiki-research-urban
 tags: [research, gaffney, land-theory, factors-of-production, stub]
 authors: [Mason Gaffney]
 year: 1994

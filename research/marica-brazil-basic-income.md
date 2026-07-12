@@ -1,6 +1,7 @@
 ---
 title: "Welfare Effects of a Permanent Unconditional Cash Transfer: Maricá, Brazil (Balakrishnan et al., 2024)"
 category: research
+subcategory: wiki-research-inequality
 tags: [research, resource-rents, citizens-dividend, oil-royalties, basic-income, poverty, brazil, empirical]
 authors: [Sidhya Balakrishnan, Roberta Costa, Johannes Haushofer, Fábio Waltenberg]
 year: 2024

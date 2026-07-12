@@ -1,6 +1,7 @@
 ---
 title: "Capital Structure and Taxes: What Happens When You (Also) Subsidize Equity?"
 category: research
+subcategory: wiki-research-urban
 tags: [research, ace, notional-interest-deduction, debt-bias, corporate-tax, capital-structure, belgium, quasi-experiment]
 authors: [Frédéric Panier, Francisco Pérez-González, Pablo Villanueva]
 year: 2015

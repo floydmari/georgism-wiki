@@ -1,6 +1,7 @@
 ---
 title: "Do Local Property Taxes Affect New Building Development? Results from a Quasi-Natural Experiment in New Zealand"
 category: research
+subcategory: wiki-research-housing
 tags: [research, new-zealand, property-tax, land-value-tax, construction, empirical, rating-valuation]
 authors: [Norman Gemmell, Arthur Grimes, Mark Skidmore]
 year: 2019

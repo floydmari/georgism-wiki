@@ -1,6 +1,7 @@
 ---
 title: "Cabral & Hoxby (2012): The Hated Property Tax"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, property-tax, salience, tax-politics, proposition-13, stub]
 authors: [Marika Cabral, Caroline Hoxby]
 year: 2012

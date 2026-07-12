@@ -1,15 +1,33 @@
 ---
-title: "Akcigit, Grigsby, Nicholas & Stantcheva (2022): Taxation and Innovation in the Twentieth Century"
+authors:
+- Ufuk Akcigit
+- John Grigsby
+- Tom Nicholas
+- Stefanie Stantcheva
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-tags: [research, innovation, corporate-tax, invention, quasi-experimental, tech-rents, quasi-rent]
-authors: [Ufuk Akcigit, John Grigsby, Tom Nicholas, Stefanie Stantcheva]
-year: 2022
-tier: Core
+excerpt: 'QJE study matching a panel of every US inventor since 1920 to historical
+  state tax rates: higher personal and corporate income taxes reduce the quantity,
+  quality, and location of inventive activity. The strongest empirical plank of the
+  Schumpeterian objection — with the crucial caveat that it studies ordinary income
+  taxes, not rent-only bases.'
+last_reviewed: 2026-07-06
 source_url: https://academic.oup.com/qje/article-abstract/137/1/329/6292271
 stub: false
-excerpt: "QJE study matching a panel of every US inventor since 1920 to historical state tax rates: higher personal and corporate income taxes reduce the quantity, quality, and location of inventive activity. The strongest empirical plank of the Schumpeterian objection — with the crucial caveat that it studies ordinary income taxes, not rent-only bases."
-last_reviewed: 2026-07-06
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
+subcategory: wiki-research-resources
+tags:
+- research
+- innovation
+- corporate-tax
+- invention
+- quasi-experimental
+- tech-rents
+- quasi-rent
+tier: Core
+title: 'Akcigit, Grigsby, Nicholas & Stantcheva (2022): Taxation and Innovation in
+  the Twentieth Century'
+year: 2022
 ---
 
 ## Summary

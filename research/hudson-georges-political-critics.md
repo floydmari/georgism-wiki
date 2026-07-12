@@ -1,6 +1,7 @@
 ---
 title: "Hudson (2008): Henry George's Political Critics"
 category: research
+subcategory: wiki-research-housing
 tags: [research, hudson, henry-george, reception-history, political-isolation, single-tax, stub]
 authors: [Michael Hudson]
 year: 2008

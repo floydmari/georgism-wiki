@@ -1,15 +1,30 @@
 ---
-title: "Carbon Taxes and CO2 Emissions: Sweden as a Case Study (Andersson)"
+authors:
+- Julius J. Andersson
 category: research
-tags: [research, carbon-pricing, carbon-tax, sweden, synthetic-control, quasi-experiment, ecological-georgism, pigouvian]
-authors: [Julius J. Andersson]
-year: 2019
-tier: Important
+excerpt: The first study to find a significant causal effect of a carbon tax on emissions.
+  Using synthetic control, Andersson finds Sweden's 1991 carbon tax (plus fuel VAT)
+  cut transport CO2 by almost 11% versus a control of comparable OECD countries —
+  6.3% from the carbon tax alone — and that the carbon-tax elasticity of gasoline
+  demand is three times the ordinary price elasticity.
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1257/pol.20170144
 stub: false
-excerpt: "The first study to find a significant causal effect of a carbon tax on emissions. Using synthetic control, Andersson finds Sweden's 1991 carbon tax (plus fuel VAT) cut transport CO2 by almost 11% versus a control of comparable OECD countries — 6.3% from the carbon tax alone — and that the carbon-tax elasticity of gasoline demand is three times the ordinary price elasticity."
-last_reviewed: 2026-07-11
-supports_outcomes: [carbon-pricing-cuts-emissions]
+subcategory: wiki-research-resources
+supports_outcomes:
+- carbon-pricing-cuts-emissions
+tags:
+- research
+- carbon-pricing
+- carbon-tax
+- sweden
+- synthetic-control
+- quasi-experiment
+- ecological-georgism
+- pigouvian
+tier: Important
+title: 'Carbon Taxes and CO2 Emissions: Sweden as a Case Study (Andersson)'
+year: 2019
 ---
 
 ## Summary

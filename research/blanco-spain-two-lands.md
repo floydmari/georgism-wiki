@@ -1,6 +1,7 @@
 ---
 title: "Blanco, Bauluz & Martínez-Toledano (2018): Wealth in Spain, 1900-2014"
 category: research
+subcategory: wiki-research-finance
 tags: [research, land, wealth, spain, capital-share, inequality, stub]
 stub: true
 excerpt: "A century-long reconstruction of Spanish national wealth (1900-2014) finding that land dominated wealth composition throughout — agricultural land early, urban land later — and that housing capital gains drove 45% of real wealth growth from 1950-2010."

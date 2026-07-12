@@ -1,6 +1,7 @@
 ---
 title: "Mill's Principles of Political Economy: The Land-Taxation Chapters"
 category: research
+subcategory: wiki-research-resources
 tags: [research, john-stuart-mill, classical-economics, unearned-increment, land-tenure-reform, ricardian-rent, taxation]
 authors: [John Stuart Mill]
 year: 1848

@@ -1,14 +1,25 @@
 ---
-title: "Pistor (2019): The Code of Capital"
+authors:
+- Katharina Pistor
 category: research
-tags: [research, law, financialization, land-monopoly, rent-seeking, ip-rents, stub]
-authors: [Katharina Pistor]
-year: 2019
-tier: Important
+excerpt: 'Columbia Law professor Katharina Pistor argues that law itself — not markets
+  — manufactures capital: private lawyers ''code'' land titles, corporate shares,
+  debt, and IP into legally-protected, durable, transferable claims on future income.'
+last_reviewed: 2026-07-11
 source_url: https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital
 stub: true
-excerpt: "Columbia Law professor Katharina Pistor argues that law itself — not markets — manufactures capital: private lawyers 'code' land titles, corporate shares, debt, and IP into legally-protected, durable, transferable claims on future income."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-finance
+tags:
+- research
+- law
+- financialization
+- land-monopoly
+- rent-seeking
+- ip-rents
+- stub
+tier: Important
+title: 'Pistor (2019): The Code of Capital'
+year: 2019
 ---
 
 ## Overview

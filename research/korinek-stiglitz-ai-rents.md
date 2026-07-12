@@ -1,6 +1,7 @@
 ---
 title: "Korinek & Stiglitz — AI, Innovator Rents and Non-Distortionary Redistribution"
 category: research
+subcategory: wiki-research-resources
 tags: [research, artificial-intelligence, innovator-rents, economic-rent, redistribution, data-rents, geoism, quasi-rent]
 authors: [Anton Korinek, Joseph E. Stiglitz]
 year: 2017

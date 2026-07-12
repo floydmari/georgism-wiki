@@ -1,15 +1,31 @@
 ---
-title: "Homeless in America, Homeless in California"
+authors:
+- John M. Quigley
+- Steven Raphael
+- Eugene Smolensky
 category: research
-tags: [research, homelessness, housing-costs, rents, vacancy-rates, united-states, california, panel]
-authors: [John M. Quigley, Steven Raphael, Eugene Smolensky]
-year: 2001
-tier: Important
+excerpt: 'The classic cross-market and panel test of the housing-market theory of
+  homelessness: across four independent U.S. datasets, homelessness rises with rents
+  and falls with vacancy rates, and modest improvements in rental affordability or
+  availability substantially cut homelessness.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1162/003465301750160027
 stub: false
-excerpt: "The classic cross-market and panel test of the housing-market theory of homelessness: across four independent U.S. datasets, homelessness rises with rents and falls with vacancy rates, and modest improvements in rental affordability or availability substantially cut homelessness."
-last_reviewed: 2026-07-11
-supports_outcomes: [homelessness-is-housing-cost-problem]
+subcategory: wiki-research-housing
+supports_outcomes:
+- homelessness-is-housing-cost-problem
+tags:
+- research
+- homelessness
+- housing-costs
+- rents
+- vacancy-rates
+- united-states
+- california
+- panel
+tier: Important
+title: Homeless in America, Homeless in California
+year: 2001
 ---
 
 ## Summary

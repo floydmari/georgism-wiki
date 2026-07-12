@@ -1,6 +1,7 @@
 ---
 title: "Zwick & Mahon (2017): Tax Policy and Heterogeneous Investment Behavior"
 category: research
+subcategory: wiki-research-finance
 tags: [research, expensing, bonus-depreciation, investment, corporate-tax, quasi-experimental, tech-rents]
 authors: [Eric Zwick, James Mahon]
 year: 2017

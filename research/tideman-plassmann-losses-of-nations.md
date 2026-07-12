@@ -1,15 +1,28 @@
 ---
-title: "Taxation and the Losses of Nations (Tideman & Plassmann)"
+authors:
+- Nicolaus Tideman
+- Florenz Plassmann
 category: research
-tags: [research, deadweight-loss, tax-shift, g7, excess-burden, stub]
-authors: [Nicolaus Tideman, Florenz Plassmann]
-year: 1998
-tier: important
+excerpt: Tideman and Plassmann's chapter in The Losses of Nations (Harrison ed., 1998)
+  quantifying the deadweight losses of conventional taxation across the G7 and the
+  output gains from shifting to rent-based revenue — the movement's headline excess-burden
+  calculation.
+last_reviewed: 2026-07-06
 source_url: https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf
 stub: true
-excerpt: "Tideman and Plassmann's chapter in The Losses of Nations (Harrison ed., 1998) quantifying the deadweight losses of conventional taxation across the G7 and the output gains from shifting to rent-based revenue — the movement's headline excess-burden calculation."
-last_reviewed: 2026-07-06
-supports_outcomes: [taxing-land-raises-productivity]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- taxing-land-raises-productivity
+tags:
+- research
+- deadweight-loss
+- tax-shift
+- g7
+- excess-burden
+- stub
+tier: important
+title: Taxation and the Losses of Nations (Tideman & Plassmann)
+year: 1998
 ---
 
 ## Summary

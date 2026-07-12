@@ -1,14 +1,26 @@
 ---
-title: "Standing (2019): Plunder of the Commons"
+authors:
+- Guy Standing
 category: research
-tags: [research, commons, land-as-commons, enclosure, rentier, economic-rent, guy-standing, stub]
-stub: true
-excerpt: "Guy Standing's 2019 manifesto tracing the enclosure of Britain's commons — land, health, education, transport, and knowledge — from the 1217 Charter of the Forest to modern privatization, proposing a Commons Fund levied on rentier income."
-authors: [Guy Standing]
-year: 2019
-tier: Supplementary
-source_url: https://www.penguin.co.uk/books/308407/plunder-of-the-commons-by-standing-guy/9780241396339
+excerpt: Guy Standing's 2019 manifesto tracing the enclosure of Britain's commons
+  — land, health, education, transport, and knowledge — from the 1217 Charter of the
+  Forest to modern privatization, proposing a Commons Fund levied on rentier income.
 last_reviewed: 2026-07-11
+source_url: https://www.penguin.co.uk/books/308407/plunder-of-the-commons-by-standing-guy/9780241396339
+stub: true
+subcategory: wiki-research-georgism
+tags:
+- research
+- commons
+- land-as-commons
+- enclosure
+- rentier
+- economic-rent
+- guy-standing
+- stub
+tier: Supplementary
+title: 'Standing (2019): Plunder of the Commons'
+year: 2019
 ---
 
 ## Overview

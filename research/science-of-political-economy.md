@@ -1,13 +1,22 @@
 ---
-title: "The Science of Political Economy"
+authors:
+- Henry George
 category: research
-tags: [research, primary-text, henry-george, classical-economics, theory]
-authors: [Henry George]
-year: 1898
+excerpt: Henry George's unfinished, posthumously published treatise attempting a complete
+  systematic reconstruction of economic theory around his analysis of land, labour,
+  and capital.
 source_url: https://www.henrygeorge.org/
-tier: supplementary
 stub: false
-excerpt: "Henry George's unfinished, posthumously published treatise attempting a complete systematic reconstruction of economic theory around his analysis of land, labour, and capital."
+subcategory: wiki-research-inequality
+tags:
+- research
+- primary-text
+- henry-george
+- classical-economics
+- theory
+tier: supplementary
+title: The Science of Political Economy
+year: 1898
 ---
 
 ## Summary

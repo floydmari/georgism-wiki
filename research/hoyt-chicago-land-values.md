@@ -1,6 +1,7 @@
 ---
 title: "One Hundred Years of Land Values in Chicago"
 category: research
+subcategory: wiki-research-housing
 tags: [research, land-cycle, real-estate-cycle, chicago, hoyt, speculation, historical]
 authors: [Homer Hoyt]
 year: 1933

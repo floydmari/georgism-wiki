@@ -1,16 +1,34 @@
 ---
-title: "The Stockholm Congestion-Charging Trial 2006: Overview of Effects (Eliasson et al.)"
+authors:
+- Jonas Eliasson
+- Lars Hultkrantz
+- Lena Nerhagen
+- Lena Smidfelt Rosqvist
+bears_on_objections:
+- homevoters-will-block-lvt
 category: research
-tags: [research, congestion-pricing, road-pricing, stockholm, quasi-experiment, referendum, geoism]
-authors: [Jonas Eliasson, Lars Hultkrantz, Lena Nerhagen, Lena Smidfelt Rosqvist]
-year: 2009
-tier: Important
+excerpt: 'The evaluation team''s overview of Stockholm''s seven-month 2006 congestion-charging
+  trial: cordon traffic fell ~22%, peak travel-time delays fell by a third to a half,
+  CO2 from inner-city traffic fell ~14% — and the visibly felt time savings flipped
+  hostile public opinion into a majority ''yes'' at the September 2006 referendum.'
+last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1016/j.tra.2008.09.007
 stub: false
-excerpt: "The evaluation team's overview of Stockholm's seven-month 2006 congestion-charging trial: cordon traffic fell ~22%, peak travel-time delays fell by a third to a half, CO2 from inner-city traffic fell ~14% — and the visibly felt time savings flipped hostile public opinion into a majority 'yes' at the September 2006 referendum."
-last_reviewed: 2026-07-11
-supports_outcomes: [congestion-pricing-reduces-traffic]
-bears_on_objections: [homevoters-will-block-lvt]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- congestion-pricing-reduces-traffic
+tags:
+- research
+- congestion-pricing
+- road-pricing
+- stockholm
+- quasi-experiment
+- referendum
+- geoism
+tier: Important
+title: 'The Stockholm Congestion-Charging Trial 2006: Overview of Effects (Eliasson
+  et al.)'
+year: 2009
 ---
 
 ## Summary

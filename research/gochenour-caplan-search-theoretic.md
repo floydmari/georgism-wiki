@@ -1,6 +1,7 @@
 ---
 title: "An Entrepreneurial Critique of Georgism (Gochenour & Caplan)"
 category: research
+subcategory: wiki-research-resources
 tags: [research, search-theory, land-value-tax, austrian-economics, objection-source]
 authors: [Zachary Gochenour, Bryan Caplan]
 year: 2013

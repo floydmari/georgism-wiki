@@ -1,6 +1,7 @@
 ---
 title: "Melichar (1978): Farm Income and Asset Values, 1950-77"
 category: research
+subcategory: wiki-research-inequality
 tags: [research, 18-year-land-cycle, farmland, federal-reserve, power-in-the-land, empirical, stub]
 authors: [Emanuel Melichar]
 year: 1978

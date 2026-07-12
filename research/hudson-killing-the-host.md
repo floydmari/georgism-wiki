@@ -1,6 +1,7 @@
 ---
 title: "Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, hudson, fire-sector, rent, financialization, debt, book]
 authors: [Michael Hudson]
 year: 2015

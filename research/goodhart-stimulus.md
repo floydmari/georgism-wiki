@@ -1,14 +1,27 @@
 ---
-title: "Post-Corona Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto Land"
+authors:
+- Charles Goodhart
+- Michael Hudson
+- Michael Kumhof
+- Nicolaus Tideman
 category: research
-tags: [research, macro, fiscal-policy, tax-reform, tideman, hudson]
-authors: [Charles Goodhart, Michael Hudson, Michael Kumhof, Nicolaus Tideman]
-year: 2021
-source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954888
-tier: core
-stub: false
-excerpt: "A calibrated macro model showing that raising land tax while cutting income taxes delivers a large, balanced-budget economic stimulus."
+excerpt: A calibrated macro model showing that raising land tax while cutting income
+  taxes delivers a large, balanced-budget economic stimulus.
 last_reviewed: 2026-07-11
+source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954888
+stub: false
+subcategory: wiki-research-finance
+tags:
+- research
+- macro
+- fiscal-policy
+- tax-reform
+- tideman
+- hudson
+tier: core
+title: 'Post-Corona Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto
+  Land'
+year: 2021
 ---
 
 ## Summary

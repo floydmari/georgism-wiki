@@ -1,6 +1,7 @@
 ---
 title: "Gaffney (2005): The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)"
 category: research
+subcategory: wiki-research-resources
 tags: [research, atcor, mason-gaffney, land-rent, tax-incidence, fiscal-theory]
 authors: [Mason Gaffney]
 year: 2005

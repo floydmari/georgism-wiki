@@ -1,6 +1,7 @@
 ---
 title: "Myerson & Satterthwaite (1983): Efficient Mechanisms for Bilateral Trading"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, mechanism-design, bargaining, coase-theorem, holdout-problem, stub]
 authors: [Roger B. Myerson, Mark A. Satterthwaite]
 year: 1983

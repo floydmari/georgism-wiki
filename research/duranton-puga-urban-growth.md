@@ -1,6 +1,7 @@
 ---
 title: "Urban Growth and Its Aggregate Implications"
 category: research
+subcategory: wiki-research-resources
 tags: [research, urban-economics, agglomeration, planning-regulations, zoning, productivity, macroeconomics, econometrica]
 authors: [Gilles Duranton, Diego Puga]
 year: 2023

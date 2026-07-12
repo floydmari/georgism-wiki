@@ -1,6 +1,7 @@
 ---
 title: "Wyatt (1994): A Critical View of Land Value Taxation as a Progressive Strategy"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, critique, land-value-tax, capitalization, urban-policy, stub]
 authors: [Michael D. Wyatt]
 year: 1994

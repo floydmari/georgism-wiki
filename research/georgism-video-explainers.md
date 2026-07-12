@@ -1,13 +1,21 @@
 ---
-title: "Georgism Video Explainers"
+authors:
+- Various
 category: research
-tags: [research, video, accessible, introduction, youtube]
-authors: [Various]
-year: 2022
+excerpt: A curated set of accessible YouTube explainers introducing Georgism and land
+  value taxation to general audiences.
 source_url: https://www.youtube.com/watch?v=smi_iIoKybg
-tier: important
 stub: false
-excerpt: "A curated set of accessible YouTube explainers introducing Georgism and land value taxation to general audiences."
+subcategory: wiki-research-finance
+tags:
+- research
+- video
+- accessible
+- introduction
+- youtube
+tier: important
+title: Georgism Video Explainers
+year: 2022
 ---
 
 ## Summary

@@ -1,14 +1,26 @@
 ---
-title: "Modelewska: Financing Public Transport Using Value Capture Finance"
+authors:
+- Marta Modelewska
 category: research
-tags: [research, land-value-capture, transit, rail, capitalization, thesis, stub]
-authors: [Marta Modelewska]
-year: 2017
-tier: Supplementary
+excerpt: A UCL doctoral thesis proposing an 'Incremental Assessment Framework for
+  Investments in Transport Infrastructure' (I-FIT) for value capture finance, built
+  on a literature synthesis of studies on how rail investment affects nearby property
+  prices.
+last_reviewed: 2026-07-11
 source_url: https://discovery.ucl.ac.uk/id/eprint/1556387/
 stub: true
-excerpt: "A UCL doctoral thesis proposing an 'Incremental Assessment Framework for Investments in Transport Infrastructure' (I-FIT) for value capture finance, built on a literature synthesis of studies on how rail investment affects nearby property prices."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-lvt
+tags:
+- research
+- land-value-capture
+- transit
+- rail
+- capitalization
+- thesis
+- stub
+tier: Supplementary
+title: 'Modelewska: Financing Public Transport Using Value Capture Finance'
+year: 2017
 ---
 
 ## Overview

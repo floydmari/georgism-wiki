@@ -1,6 +1,7 @@
 ---
 title: "Do Land Value Taxes Curb Land Prices? Evidence from Loja, Ecuador (Tubío-Sánchez & Reyes-Bueno, 2026)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, land-value-tax, capitalization, housing, speculation, developing-countries, latin-america, empirical, ecuador]
 authors: [José María Tubío-Sánchez, Fabián Reyes-Bueno]
 year: 2026

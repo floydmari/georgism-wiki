@@ -1,6 +1,7 @@
 ---
 title: "Deciphering the Fall and Rise in the Net Capital Share"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, piketty, capital-share, land, housing, inequality]
 authors: [Matthew Rognlie]
 year: 2015

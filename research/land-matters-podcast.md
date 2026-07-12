@@ -1,6 +1,7 @@
 ---
 title: "Land Matters Podcast (Lincoln Institute)"
 category: research
+subcategory: wiki-research-housing
 tags: [research, podcast, lincoln-institute, policy, land-use]
 authors: [Lincoln Institute of Land Policy]
 year: 2024

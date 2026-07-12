@@ -1,15 +1,27 @@
 ---
-title: "Vague (2019): A Brief History of Doom"
+authors:
+- Richard Vague
+bears_on_objections:
+- cycles-are-credit-not-land
 category: research
-tags: [research, private-debt, credit-cycle, financial-crisis, boom-bust, stub]
-authors: [Richard Vague]
-year: 2019
-tier: Important
+excerpt: Richard Vague's survey of financial crises across six countries over 200
+  years, arguing private debt growth relative to GDP — overwhelmingly real-estate
+  lending — is the strongest predictor of crises; the credit school's quantitative
+  bridge to the land-cycle account.
+last_reviewed: 2026-07-11
 source_url: https://eh.net/book_reviews/a-brief-history-of-doom-two-hundred-years-of-financial-crises/
 stub: true
-excerpt: "Richard Vague's survey of financial crises across six countries over 200 years, arguing private debt growth relative to GDP — overwhelmingly real-estate lending — is the strongest predictor of crises; the credit school's quantitative bridge to the land-cycle account."
-last_reviewed: 2026-07-11
-bears_on_objections: [cycles-are-credit-not-land]
+subcategory: wiki-research-urban
+tags:
+- research
+- private-debt
+- credit-cycle
+- financial-crisis
+- boom-bust
+- stub
+tier: Important
+title: 'Vague (2019): A Brief History of Doom'
+year: 2019
 ---
 
 ## Summary

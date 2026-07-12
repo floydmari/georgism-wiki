@@ -1,6 +1,7 @@
 ---
 title: "Hartwick's Rule: Intergenerational Equity and the Investing of Rents from Exhaustible Resources"
 category: research
+subcategory: wiki-research-urban
 tags: [research, resource-rents, sustainability, exhaustible-resources, genuine-savings, intergenerational-equity]
 authors: [John M. Hartwick]
 year: 1977

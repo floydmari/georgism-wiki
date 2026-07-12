@@ -1,15 +1,32 @@
 ---
-title: "iLVM: Mass Appraisal in BayBay City, Philippines (Bencure et al.)"
+authors:
+- Jannet C. Bencure
+- Nitin Kumar Tripathi
+- Hiroyuki Miyazaki
+- Sarawut Ninsawat
+- Sohee Minsun Kim
+bears_on_objections:
+- land-cannot-be-assessed
 category: research
-tags: [research, assessment, mass-appraisal, ahp, valuation, developing-countries, philippines]
-authors: [Jannet C. Bencure, Nitin Kumar Tripathi, Hiroyuki Miyazaki, Sarawut Ninsawat, Sohee Minsun Kim]
-year: 2019
-tier: Important
+excerpt: 'The only developing-country mass-appraisal case Doucet cites: an AHP-based
+  innovative land valuation model (iLVM) for Baybay City, Philippines, explaining
+  ~67% of land-value variability and outperforming ordinary multiple-regression appraisal
+  on RMSE.'
+last_reviewed: 2026-07-11
 source_url: https://www.mdpi.com/2071-1050/11/13/3731
 stub: false
-excerpt: "The only developing-country mass-appraisal case Doucet cites: an AHP-based innovative land valuation model (iLVM) for Baybay City, Philippines, explaining ~67% of land-value variability and outperforming ordinary multiple-regression appraisal on RMSE."
-last_reviewed: 2026-07-11
-bears_on_objections: [land-cannot-be-assessed]
+subcategory: wiki-research-lvt
+tags:
+- research
+- assessment
+- mass-appraisal
+- ahp
+- valuation
+- developing-countries
+- philippines
+tier: Important
+title: 'iLVM: Mass Appraisal in BayBay City, Philippines (Bencure et al.)'
+year: 2019
 ---
 
 ## Summary

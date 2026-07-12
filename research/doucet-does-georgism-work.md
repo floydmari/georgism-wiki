@@ -1,6 +1,7 @@
 ---
 title: "Does Georgism Work? (Doucet, ACX series)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, doucet, incidence, assessment, accessible]
 authors: [Lars Doucet]
 year: 2021

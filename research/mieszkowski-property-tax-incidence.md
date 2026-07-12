@@ -1,6 +1,7 @@
 ---
 title: "The Property Tax: An Excise Tax or a Profits Tax?"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, tax-incidence, property-tax, land-value-tax, general-equilibrium, new-view, public-finance]
 authors: [Peter Mieszkowski]
 year: 1972

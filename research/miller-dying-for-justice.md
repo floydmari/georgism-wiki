@@ -1,6 +1,7 @@
 ---
 title: "Miller: Dying for Justice"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, health-inequality, mortality, taxation, george-miller, stub]
 authors: [George J. Miller]
 year: 1999

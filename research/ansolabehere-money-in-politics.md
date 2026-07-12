@@ -1,15 +1,28 @@
 ---
-title: "Why Is There So Little Money in U.S. Politics?"
+authors:
+- Stephen Ansolabehere
+- John M. de Figueiredo
+- James M. Snyder Jr.
 category: research
-tags: [research, rent-seeking, lobbying, campaign-finance, tullock-paradox, jep]
-authors: [Stephen Ansolabehere, John M. de Figueiredo, James M. Snyder Jr.]
-year: 2003
-tier: supplementary
+excerpt: 'The canonical statement of Tullock''s paradox: observed political rent-seeking
+  spending is tiny relative to the rents at stake, and campaign giving behaves like
+  consumption, not investment — a check on strong claims about rent-seeking''s measured
+  cost.'
+last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1257/089533003321164976
 stub: false
-excerpt: "The canonical statement of Tullock's paradox: observed political rent-seeking spending is tiny relative to the rents at stake, and campaign giving behaves like consumption, not investment — a check on strong claims about rent-seeking's measured cost."
+subcategory: wiki-research-inequality
 supports_outcomes: []
-last_reviewed: 2026-07-10
+tags:
+- research
+- rent-seeking
+- lobbying
+- campaign-finance
+- tullock-paradox
+- jep
+tier: supplementary
+title: Why Is There So Little Money in U.S. Politics?
+year: 2003
 ---
 
 ## Summary

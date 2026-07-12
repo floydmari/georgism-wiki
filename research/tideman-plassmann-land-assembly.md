@@ -1,13 +1,22 @@
 ---
-title: "Providing Incentives for Efficient Land Assembly"
+authors:
+- Nicolaus Tideman
+- Florenz Plassmann
 category: research
-tags: [research, land-assembly, holdout, mechanism-design, tideman]
-authors: [Nicolaus Tideman, Florenz Plassmann]
-year: 2008
+excerpt: Proposes auction-based mechanisms to overcome the holdout problem in assembling
+  urban land for development.
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1015820
-tier: supplementary
 stub: false
-excerpt: "Proposes auction-based mechanisms to overcome the holdout problem in assembling urban land for development."
+subcategory: wiki-research-lvt
+tags:
+- research
+- land-assembly
+- holdout
+- mechanism-design
+- tideman
+tier: supplementary
+title: Providing Incentives for Efficient Land Assembly
+year: 2008
 ---
 
 ## Summary

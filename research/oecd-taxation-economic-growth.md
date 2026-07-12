@@ -1,6 +1,7 @@
 ---
 title: "Taxation and Economic Growth (OECD Working Paper 620)"
 category: research
+subcategory: wiki-research-housing
 tags: [research, oecd, tax-and-growth, property-tax, cross-country, panel-data, corporate-tax, mainstream]
 authors: [Åsa Johansson, Christopher Heady, Jens Arnold, Bert Brys, Laura Vartia]
 year: 2008

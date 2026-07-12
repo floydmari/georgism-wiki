@@ -1,16 +1,32 @@
 ---
-title: "Prizes vs Patents"
+authors:
+- Michael Kremer
+- Brian D. Wright
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-tags: [research, ip-rents, patents, prizes, innovation, advance-market-commitment, geoism, mechanism-design]
-authors: [Michael Kremer, Brian D. Wright]
-year: 1998
-tier: Important
+excerpt: 'The prize-alternative literature: reward invention without the monopoly.
+  Wright (1983) frames patents/prizes/contracts as a choice under asymmetric information;
+  Kremer (1998) proposes buying out patents at auction-estimated value and placing
+  them in the public domain; the pneumococcal Advance Market Commitment is the modern
+  working example — ~$1.5bn, 150M+ children immunized, ~700,000 lives saved.'
+last_reviewed: 2026-07-11
 source_url: https://dash.harvard.edu/bitstream/handle/1/3693705/Kremer_PatentBuyouts.pdf
 stub: false
-excerpt: "The prize-alternative literature: reward invention without the monopoly. Wright (1983) frames patents/prizes/contracts as a choice under asymmetric information; Kremer (1998) proposes buying out patents at auction-estimated value and placing them in the public domain; the pneumococcal Advance Market Commitment is the modern working example — ~$1.5bn, 150M+ children immunized, ~700,000 lives saved."
-last_reviewed: 2026-07-11
+subcategory: wiki-research-inequality
 supports_outcomes: []
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
+tags:
+- research
+- ip-rents
+- patents
+- prizes
+- innovation
+- advance-market-commitment
+- geoism
+- mechanism-design
+tier: Important
+title: Prizes vs Patents
+year: 1998
 ---
 
 ## Summary

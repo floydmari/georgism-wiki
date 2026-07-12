@@ -1,6 +1,7 @@
 ---
 title: "The Digital Markets Act — Dissolving the Platform Rent by Mandated Interoperability"
 category: research
+subcategory: wiki-research-resources
 tags: [research, digital-markets-act, interoperability, platform-economy, data-rents, antitrust, network-effects, geoism]
 authors: [European Parliament and Council of the European Union]
 year: 2022

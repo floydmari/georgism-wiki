@@ -1,6 +1,7 @@
 ---
 title: "The State Capacity Ceiling on Tax Rates: Randomized Property-Tax Abatements in the DRC (Bergeron, Tourek & Weigel, 2024)"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, property-tax, developing-countries, state-capacity, field-experiment, drc, revenue, empirical]
 authors: [Augustin Bergeron, Gabriel Tourek, Jonathan Weigel]
 year: 2024

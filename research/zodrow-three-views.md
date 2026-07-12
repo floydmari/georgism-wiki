@@ -1,16 +1,30 @@
 ---
-title: "The Property Tax as a Capital Tax: A Room with Three Views"
+authors:
+- George R. Zodrow
+bears_on_objections:
+- lvt-is-just-a-property-tax
 category: research
-tags: [research, tax-incidence, property-tax, capital-tax, benefit-tax, mieszkowski, hamilton, tax-capitalization]
-authors: [George R. Zodrow]
-year: 2001
-tier: Important
+excerpt: Zodrow's authoritative survey of the three rival professional theories of
+  property-tax incidence — traditional, new (capital-tax), and benefit views — and
+  why all three agree the land component is capitalized onto the owner.
+last_reviewed: 2026-07-10
 source_url: https://repository.rice.edu/bitstream/handle/1911/91716/2007_propertytax_zodrow.pdf?sequence=1
 stub: false
-excerpt: "Zodrow's authoritative survey of the three rival professional theories of property-tax incidence — traditional, new (capital-tax), and benefit views — and why all three agree the land component is capitalized onto the owner."
-last_reviewed: 2026-07-10
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
-bears_on_objections: [lvt-is-just-a-property-tax]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- tax-incidence
+- property-tax
+- capital-tax
+- benefit-tax
+- mieszkowski
+- hamilton
+- tax-capitalization
+tier: Important
+title: 'The Property Tax as a Capital Tax: A Room with Three Views'
+year: 2001
 ---
 
 ## Summary

@@ -1,6 +1,7 @@
 ---
 title: "Sustainable Urban Development and Land Value Taxation: The Case of Estonia"
 category: research
+subcategory: wiki-research-resources
 tags: [research, estonia, tallinn, empirical, urban-density, lvt]
 authors: [Aivar Tomson]
 year: 2016

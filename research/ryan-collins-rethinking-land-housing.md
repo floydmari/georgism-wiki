@@ -1,6 +1,7 @@
 ---
 title: "Rethinking the Economics of Land and Housing"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, land, housing, credit, financialisation, land-value-tax, uk, book]
 authors: [Josh Ryan-Collins, Toby Lloyd, Laurie Macfarlane]
 year: 2017

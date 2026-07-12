@@ -1,6 +1,7 @@
 ---
 title: "Reply to the Caplan and Gochenour Critique of Georgism (Foldvary)"
 category: research
+subcategory: wiki-research-housing
 tags: [research, foldvary, austrian-economics, search-theory, land-value-tax, objection-reply, quasi-rent]
 authors: [Fred Foldvary]
 year: 2014

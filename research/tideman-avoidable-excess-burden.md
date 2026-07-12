@@ -1,6 +1,7 @@
 ---
 title: "Tideman, Akobundu, Johns & Wutthicharoen, \"The Avoidable Excess Burden of Broad-Based U.S. Taxes\""
 category: research
+subcategory: wiki-research-housing
 tags: [research, excess-burden, deadweight-loss, land-value-tax, atcor, ebcor, cge, general-equilibrium, efficiency]
 authors: [Nicolaus Tideman, Ebere Akobundu, Andrew Johns, Prapaiporn Wutthicharoen]
 year: 2002

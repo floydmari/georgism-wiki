@@ -1,15 +1,31 @@
 ---
-title: "A Lost Generation? Long-Lasting Wealth Impacts on Young Families (St. Louis Fed)"
+authors:
+- William R. Emmons
+- Ana H. Kent
+- Lowell R. Ricketts
 category: research
-tags: [research, wealth, intergenerational, homeownership, united-states, federal-reserve, birth-cohort]
-authors: [William R. Emmons, Ana H. Kent, Lowell R. Ricketts]
-year: 2018
-tier: important
+excerpt: 'St. Louis Fed birth-cohort analysis of the 2016 Survey of Consumer Finances:
+  families headed by someone born in the 1980s held 34% less wealth than the life-cycle
+  benchmark predicts — the largest shortfall of any cohort — with debt and homeownership,
+  not income or saving, the decisive factors.'
+last_reviewed: 2026-07-11
 source_url: https://fraser.stlouisfed.org/title/9376/item/685842
 stub: false
-excerpt: "St. Louis Fed birth-cohort analysis of the 2016 Survey of Consumer Finances: families headed by someone born in the 1980s held 34% less wealth than the life-cycle benchmark predicts — the largest shortfall of any cohort — with debt and homeownership, not income or saving, the decisive factors."
-supports_outcomes: [young-locked-out-of-land-wealth]
-last_reviewed: 2026-07-11
+subcategory: wiki-research-inequality
+supports_outcomes:
+- young-locked-out-of-land-wealth
+tags:
+- research
+- wealth
+- intergenerational
+- homeownership
+- united-states
+- federal-reserve
+- birth-cohort
+tier: important
+title: A Lost Generation? Long-Lasting Wealth Impacts on Young Families (St. Louis
+  Fed)
+year: 2018
 ---
 
 ## Summary

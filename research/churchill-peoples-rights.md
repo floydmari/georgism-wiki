@@ -1,15 +1,28 @@
 ---
-title: "Winston Churchill, The People's Rights (1910)"
+authors:
+- Winston Churchill
 category: research
-tags: [research, primary-text, uk, churchill, peoples-budget, land-monopoly, unearned-increment, land-value-tax, political-history]
-authors: [Winston Churchill]
-year: 1910
-tier: important
+excerpt: Churchill's 1910 collection of Liberal campaign speeches makes the fullest
+  popular case for taxing land monopoly and the unearned increment during the People's
+  Budget fight — advocacy, not economics, but historically influential advocacy.
+last_reviewed: 2026-07-03
 source_url: https://archive.org/details/peoplesrights00chur
 stub: false
-excerpt: "Churchill's 1910 collection of Liberal campaign speeches makes the fullest popular case for taxing land monopoly and the unearned increment during the People's Budget fight — advocacy, not economics, but historically influential advocacy."
-last_reviewed: 2026-07-03
+subcategory: wiki-research-georgism
 supports_outcomes: []
+tags:
+- research
+- primary-text
+- uk
+- churchill
+- peoples-budget
+- land-monopoly
+- unearned-increment
+- land-value-tax
+- political-history
+tier: important
+title: Winston Churchill, The People's Rights (1910)
+year: 1910
 ---
 
 ## Overview

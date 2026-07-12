@@ -1,6 +1,7 @@
 ---
 title: "Is the Property Tax a Benefit Tax? The Case of Rental Housing"
 category: research
+subcategory: wiki-research-housing
 tags: [research, tax-incidence, property-tax, rental-housing, benefit-view, capitalization, boston, public-finance]
 authors: [Robert Carroll, John Yinger]
 year: 1994

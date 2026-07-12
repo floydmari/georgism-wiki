@@ -1,6 +1,7 @@
 ---
 title: "The Business Cycle: A Georgist-Austrian Synthesis"
 category: research
+subcategory: wiki-research-housing
 tags: [research, foldvary, business-cycle, land-cycle, austrian-economics, speculation, forecasting]
 authors: [Fred E. Foldvary]
 year: 1997

@@ -1,6 +1,7 @@
 ---
 title: "Is There a Bubble in the Housing Market?"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, housing-bubble, speculation, survey-evidence, case-shiller, land-cycle, behavioral-finance]
 authors: [Karl E. Case, Robert J. Shiller]
 year: 2003

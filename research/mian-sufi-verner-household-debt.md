@@ -1,6 +1,7 @@
 ---
 title: "Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide"
 category: research
+subcategory: wiki-research-finance
 tags: [research, credit, mortgage, household-debt, business-cycle, financialization, finance-rents]
 authors: [Atif Mian, Amir Sufi, Emil Verner]
 year: 2017

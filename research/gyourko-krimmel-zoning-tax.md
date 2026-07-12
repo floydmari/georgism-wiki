@@ -1,6 +1,7 @@
 ---
 title: "The Impact of Local Residential Land Use Restrictions on Land Values Across and Within Single Family Housing Markets"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, zoning-tax, land-values, land-use-regulation, underuse, nber, urban-economics]
 authors: [Joseph Gyourko, Jacob Krimmel]
 year: 2021

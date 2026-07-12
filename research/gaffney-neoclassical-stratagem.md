@@ -1,6 +1,7 @@
 ---
 title: "Neo-classical Economics as a Stratagem Against Henry George"
 category: research
+subcategory: wiki-research-resources
 tags: [research, gaffney, history-of-economics, neoclassical, ideology]
 authors: [Mason Gaffney]
 year: 1994

@@ -1,6 +1,7 @@
 ---
 title: "Does Carbon Pricing Reduce Emissions? A Review of Ex-Post Analyses (Green)"
 category: research
+subcategory: wiki-research-resources
 tags: [research, carbon-pricing, carbon-tax, emissions-trading, eu-ets, review, ecological-georgism, pigouvian]
 authors: [Jessica F. Green]
 year: 2021

@@ -1,16 +1,32 @@
 ---
-title: "Distributional Consequences of Converting the Property Tax to a Land Value Tax"
+authors:
+- John H. Bowman
+- Michael E. Bell
+bears_on_objections:
+- lvt-hurts-asset-rich-cash-poor
 category: research
-tags: [research, lvt, property-tax, distributional-impacts, tax-incidence, virginia, national-tax-journal]
-authors: [John H. Bowman, Michael E. Bell]
-year: 2008
-tier: Important
+excerpt: 'Bowman & Bell (2008, National Tax Journal) replicate England & Zhao''s regressivity
+  finding on a new city (Roanoke, VA) and find the opposite: a revenue-neutral shift
+  to a land value tax there is progressive by income and poverty rate — showing the
+  result is jurisdiction-dependent.'
+last_reviewed: 2026-07-09
 source_url: https://ideas.repec.org/a/ntj/journl/v61y2008i4p593-607.html
 stub: false
-excerpt: "Bowman & Bell (2008, National Tax Journal) replicate England & Zhao's regressivity finding on a new city (Roanoke, VA) and find the opposite: a revenue-neutral shift to a land value tax there is progressive by income and poverty rate — showing the result is jurisdiction-dependent."
-last_reviewed: 2026-07-09
-supports_outcomes: [land-value-tax-can-be-progressive]
-bears_on_objections: [lvt-hurts-asset-rich-cash-poor]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- land-value-tax-can-be-progressive
+tags:
+- research
+- lvt
+- property-tax
+- distributional-impacts
+- tax-incidence
+- virginia
+- national-tax-journal
+tier: Important
+title: Distributional Consequences of Converting the Property Tax to a Land Value
+  Tax
+year: 2008
 ---
 
 ## Summary

@@ -1,6 +1,7 @@
 ---
 title: "Princes of the Yen: Japan's Central Bankers and the Transformation of the Economy"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, japan, central-banking, credit-creation, land-bubble, credit-window-guidance, stub]
 authors: [Richard A. Werner]
 year: 2003

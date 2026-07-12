@@ -1,6 +1,7 @@
 ---
 title: "Can the Land Tax Help Curb Urban Sprawl? Evidence from Growth Patterns in Pennsylvania"
 category: research
+subcategory: wiki-research-finance
 tags: [research, pennsylvania, split-rate, construction, sprawl, density, empirical]
 authors: [H. Spencer Banzhaf, Nathan Lavery]
 year: 2010

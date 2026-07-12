@@ -1,6 +1,7 @@
 ---
 title: "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, pennsylvania, split-rate, construction, empirical]
 authors: [Florenz Plassmann, Nicolaus Tideman]
 year: 2000

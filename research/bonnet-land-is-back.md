@@ -1,6 +1,7 @@
 ---
 title: "Land is Back, It Should Be Taxed, It Can Be Taxed"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, land, capital-share, lvt, europe, efficiency]
 authors: [Odran Bonnet, Guillaume Chapelle, Alain Trannoy, Etienne Wasmer]
 year: 2021

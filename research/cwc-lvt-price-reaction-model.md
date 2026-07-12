@@ -1,6 +1,7 @@
 ---
 title: "Modeling the Price Reaction to the Implementation of a Land Value Tax"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, canada, lvt, tax-capitalization, transition, modelling, common-wealth-canada]
 authors: [Jack Jol]
 year: 2024

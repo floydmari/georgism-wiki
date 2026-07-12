@@ -1,6 +1,7 @@
 ---
 title: "A Nation of Gamblers: Real Estate Speculation and American History"
 category: research
+subcategory: wiki-research-housing
 tags: [research, real-estate, speculation, housing-bubbles, elastic-supply, harvard, aer, glaeser]
 authors: [Edward L. Glaeser]
 year: 2013

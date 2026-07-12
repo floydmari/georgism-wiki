@@ -1,6 +1,7 @@
 ---
 title: "Land Value Taxation Around the World"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, andelson, comparative, global, reference, book]
 authors: [Robert V. Andelson (ed.)]
 year: 2001

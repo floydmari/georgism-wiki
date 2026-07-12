@@ -1,6 +1,7 @@
 ---
 title: "The Great Mortgaging: Housing Finance, Crises, and Business Cycles"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, credit, mortgage, housing, financial-crisis, business-cycle, nber]
 authors: [Òscar Jordà, Moritz Schularick, Alan M. Taylor]
 year: 2014

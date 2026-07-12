@@ -1,6 +1,7 @@
 ---
 title: "Implicit Land Taxes and Their Effect on the Real Economy"
 category: research
+subcategory: wiki-research-housing
 tags: [research, assessment, implicit-tax, empirical, real-economy]
 authors: [Daniel Murphy, Nathan Seegert]
 year: 2023

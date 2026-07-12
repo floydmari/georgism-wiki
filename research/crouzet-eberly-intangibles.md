@@ -1,15 +1,28 @@
 ---
-title: "Understanding Weak Capital Investment: The Role of Market Concentration and Intangibles"
+authors:
+- Nicolas Crouzet
+- Janice Eberly
 category: research
-tags: [research, intangible-capital, market-concentration, market-power, productivity, superstar-firms, monetary-policy]
-authors: [Nicolas Crouzet, Janice Eberly]
-year: 2019
-tier: Important
+excerpt: 'Steelmans the efficiency reading of rising concentration: intangible capital
+  (software, IP, brand) drove weak physical investment and rising concentration, but
+  productivity gains — not markups — dominate in some sectors, market power in others.'
+last_reviewed: 2026-07-10
 source_url: https://www.nber.org/papers/w25869
 stub: false
-excerpt: "Steelmans the efficiency reading of rising concentration: intangible capital (software, IP, brand) drove weak physical investment and rising concentration, but productivity gains — not markups — dominate in some sectors, market power in others."
-last_reviewed: 2026-07-10
+subcategory: wiki-research-inequality
 supports_outcomes: []
+tags:
+- research
+- intangible-capital
+- market-concentration
+- market-power
+- productivity
+- superstar-firms
+- monetary-policy
+tier: Important
+title: 'Understanding Weak Capital Investment: The Role of Market Concentration and
+  Intangibles'
+year: 2019
 ---
 
 ## Summary

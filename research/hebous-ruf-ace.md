@@ -1,6 +1,7 @@
 ---
 title: "Hebous & Ruf (2017): ACE Systems, Multinational Debt Financing and Investment"
 category: research
+subcategory: wiki-research-resources
 tags: [research, ace, corporate-tax, debt-bias, profit-shifting, quasi-experimental, tech-rents]
 authors: [Shafik Hebous, Martin Ruf]
 year: 2017

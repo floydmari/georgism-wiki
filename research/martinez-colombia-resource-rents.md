@@ -1,6 +1,7 @@
 ---
 title: "Natural Resource Rents, Local Taxes, and Government Performance: Colombia"
 category: research
+subcategory: wiki-research-resources
 tags: [research, resource-rents, resource-curse, colombia, accountability]
 authors: [Luis Martinez]
 year: 2018

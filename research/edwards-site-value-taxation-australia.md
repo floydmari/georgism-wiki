@@ -1,6 +1,7 @@
 ---
 title: "Edwards (1984): Site Value Taxation in Australia"
 category: research
+subcategory: wiki-research-lvt
 tags: [research, site-value-tax, australia, empirical, property-tax, stub]
 authors: [Mary E. Edwards]
 year: 1984

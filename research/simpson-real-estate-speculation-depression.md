@@ -1,6 +1,7 @@
 ---
 title: "Simpson (1933): Real Estate Speculation and the Depression"
 category: research
+subcategory: wiki-research-georgism
 tags: [research, stub, great-depression, bank-failures, real-estate-cycle, 1930s, boom-bust]
 authors: [Herbert D. Simpson]
 year: 1933
