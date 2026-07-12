@@ -297,6 +297,14 @@ Each reference gets a one-line "used for" note:
 - **18-year cycle** generically; **18.6-year cycle** only where the cited source specifically claims 18.6.
 - Direct quotes, blockquotes, PD texts (`texts/`, `sources/publicdomain/`), and frontmatter slugs are never normalized.
 
+### Categorization (ruled 2026-07-11, after a cross-session divergence)
+- **Place-based empirical case studies** (natural experiments, policy evaluations tied to one
+  jurisdiction: victoria-svr-nav-comparison, california-irrigation-districts,
+  vancouver-empty-homes-tax, segu-vacancy-tax-france) live in **research/** with
+  `supports_outcomes` wiring — matching the established corpus convention.
+- **places/** holds jurisdiction *profiles* only (one page per place: pennsylvania, vancouver,
+  denmark), which link the case studies rather than absorb them.
+
 ---
 
 ## 7. Per-page revision output (the `[CITE]` deliverable)
