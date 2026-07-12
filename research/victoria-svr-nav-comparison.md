@@ -1,16 +1,11 @@
 ---
 title: "Victoria's Site-Value vs Net-Annual-Value Rating: A 1966–78 Natural Experiment"
-<<<<<<<< HEAD:research/victoria-svr-nav-comparison.md
 category: research
 tags: [research, land-value-tax, split-rate-taxation, australia, natural-experiment, stub]
 authors: [Fred Harrison, Cameron K. Murray, Jesse Benjamin Hermans]
 year: 1983
 tier: supplementary
 source_url: https://osf.io/download/5ddb67506fc7690009d6cfe7/
-========
-category: places
-tags: [places, land-value-tax, split-rate-taxation, australia, victoria, natural-experiment, stub]
->>>>>>>> origin/main:places/victoria-svr-nav-comparison.md
 stub: true
 excerpt: "In Victoria, Australia, 27 municipalities rating only site value saw 12.9% dwelling growth over 1966-78 versus 2.8% in 15 net-annual-value municipalities, per Fred Harrison — evidence, later echoed by an independent 2019 study, that taxing land rather than buildings encourages construction."
 supports_outcomes: [split-rate-increases-construction]
