@@ -5,7 +5,7 @@ tags: [objections, marxism, class-conflict, karl-marx, single-tax, stub]
 stub: true
 status: "Long-settled historical rift, still an open theoretical disagreement — Marx dismissed George's single tax in 1881 as a bourgeois half-measure; whether land rent or capital-labour conflict is the primary driver of exploitation remains disputed between the traditions"
 excerpt: "Marx's own verdict on Henry George — a proposal to save capitalist domination 'decked out with socialism' — crystallizes the deeper Marxist objection that class conflict over surplus value, not land rent, is capitalism's central mechanism of exploitation."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -79,12 +79,15 @@ cross-tradition disagreement rather than a resolved question:
   historical-causal judgment repeated in secondary literature but not
   independently quantified here; treat it as a plausible, widely asserted
   interpretation rather than a demonstrated causal finding.
-- [CITATION NEEDED: a direct citation or quotation from Ryan-Collins, Macfarlane
-  & Bentley Beck, *Rethinking the Economics of Land and Housing* (2017), Ch. 2
-  §2.2 and Ch. 3 §3.7, on Marx's "primitive accumulation" critique of land
-  enclosure and his suspicion of land-tax-only reform — the wiki's discovery
-  notes flag these locators, but the passages themselves have not yet been
-  directly verified against the primary text this session.]
+- A direct citation or quotation from Ryan-Collins, Lloyd & Macfarlane,
+  *Rethinking the Economics of Land and Housing* (2017), on Marx's "primitive
+  accumulation" critique of land enclosure (Ch. 2) and his suspicion of
+  land-tax-only reform (Ch. 3) could not be verified this session: only
+  Chapter 1 of the author-accepted manuscript is publicly posted on UCL
+  Discovery, so these chapter locators remain flagged in the wiki's discovery
+  notes rather than confirmed against the text. The page's core account of
+  Marx's own position does not depend on them — it rests on his 1881 letter,
+  quoted verbatim and primary-verified above.
 
 ## Net Assessment
 

@@ -5,7 +5,7 @@ tags: [objections, stub, land-speculation, risk-bearing, land-value-tax, mark-bl
 stub: true
 status: "Partly addressed. The wiki's response draws on land speculation's economics (fixed supply, option value, carrying cost) and on Blaug's own later verdict that site-value taxation creates no excess burden, but this page has not yet verified the exact wording of Blaug's risk-bearing argument against the primary text."
 excerpt: "Speculators who buy and hold land on a forecast of future value are sometimes defended as bearing a risk that would otherwise fall on the community. Does removing that private risk-bearer through land value taxation leave a gap, or just remove an unearned windfall?"
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -24,7 +24,7 @@ Second, on the policy question, Blaug's own later published verdict on site valu
 
 ## Limits and Caveats
 
-- This page's account of Blaug's specific risk-bearing objection rests on a discovery-report summary of *Economic Theory in Retrospect*, not a page-by-page read of the primary text. [CITATION NEEDED: direct verification and, if available, a short quotation of Blaug's Ch. 3, §11 passage on land speculation and risk.]
+- This page's account of Blaug's specific risk-bearing objection rests on a discovery-report summary of *Economic Theory in Retrospect*, not a page-by-page read of the primary text. Blaug's Ch. 3, §11 passage on land speculation and risk could not be directly verified against the primary text in this pass, so that specific objection is attributed to the discovery-report summary rather than quoted; the response instead rests on the verified Blaug (2000) verdict on site-value taxation and on the economics of land's fixed supply.
 - The response does not fully rebut a narrower version of the objection: even if land supply cannot expand, speculators may still perform a timing/information function — e.g., signaling where infrastructure or rezoning is expected — that a purely mechanical annual tax does not replace. This wiki has not located a source that directly measures the value (if any) of that signal.
 - Blaug's "no excess burden" argument concerns efficiency, not the risk-bearing question directly; it shows an LVT does not distort land use, not that no risk-related service is lost when speculative holding disappears.
 

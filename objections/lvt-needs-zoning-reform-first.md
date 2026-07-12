@@ -5,7 +5,7 @@ tags: [objections, zoning, land-use-regulation, housing-supply, yimby, feasibili
 stub: true
 status: "Partially valid as a sequencing concern, not a refutation — the mainstream Georgist response treats LVT and zoning reform as complements, not rivals waiting on each other"
 excerpt: "The YIMBY-era worry that a land value tax cannot do its supply-side work where zoning already caps what can be built on a site — so LVT is pointless, or even harmful, unless zoning reform comes first."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -23,7 +23,7 @@ Lars Doucet's *[Land Is a Big Deal](/wiki/land-is-a-big-deal/)* addresses this d
 ## Limits and Caveats
 
 - The objection is correct that LVT's supply-side and affordability mechanisms are weaker, not merely delayed, where legal capacity is capped — a heavily downzoned parcel taxed at "highest and best use" produces revenue and possibly forced sale, but not more housing, until the zoning changes.
-- The complementarity argument is well-articulated in Georgist-aligned commentary but has not been tested against a rigorous, independent empirical study isolating the sequencing question (does LVT-before-zoning-reform underperform zoning-reform-before-LVT, or simultaneous reform?). [CITATION NEEDED: a peer-reviewed study directly comparing LVT and upzoning sequencing or timing effects.]
+- The complementarity argument is well-articulated in Georgist-aligned commentary but has not been tested against a rigorous, independent empirical study isolating the sequencing question (does LVT-before-zoning-reform underperform zoning-reform-before-LVT, or simultaneous reform?). No peer-reviewed study directly comparing LVT-and-upzoning sequencing or timing effects has been located, and this wiki does not claim one exists; the complementarity case therefore rests on Georgist-aligned reasoning rather than an independent empirical test of the sequencing question specifically.
 - Doucet's own book concedes elsewhere that even partial LVT reform yields only partial benefits, which cuts against reading the "zoning first" objection as fully answered rather than partially conceded.
 
 ## Net Assessment

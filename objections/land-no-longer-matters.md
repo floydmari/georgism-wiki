@@ -5,7 +5,7 @@ tags: [objections, land, macroeconomics, krugman, stub]
 stub: true
 status: "Contested — Krugman concedes the underlying theory but doubts land's modern fiscal and economic weight; independent macro-finance evidence on land's wealth share cuts against the strong reading of the objection"
 excerpt: "Paul Krugman's influential dismissal that land is 'just not a big enough thing' to matter much in a modern, services-and-technology economy — an objection Lars Doucet's Land Is a Big Deal was substantially written to answer."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -24,7 +24,7 @@ Lars Doucet's *[Land Is a Big Deal](/wiki/land-is-a-big-deal/)* (2022) was writt
 
 - Krugman's own stated position is narrower and more concessive than a flat "land doesn't matter" — he grants the underlying urban-economics theory and objects specifically to fiscal sufficiency for a full welfare state, a claim this page does not re-litigate in depth (see the companion revenue page instead).
 - The $19–65 trillion range for US land value reflects genuine, unresolved methodological disagreement among the twelve estimation approaches Doucet surveys, not a single settled figure.
-- The quotation originates in a personal interview: journalist Michael Scott Moore asked Paul Krugman about Henry George in Berlin in 2008, and first published the exchange in his Pacific Standard (Miller-McCune) article "This Land Is Your Land." Moore records Krugman's full remark verbatim — "Believe it or not, urban economics models actually do suggest that Georgist taxation would be the right approach at least to finance city growth. But I would just say: I don't think you can raise nearly enough money to run a modern welfare state by taxing land. It's just not a big enough thing" — and notes the context was health-care financing, Krugman adding "We're having enough trouble trying to make sure we repeal the Bush tax cuts... and trying to shift to a completely different base of taxation is just not going to be on the table" (verified 2026-07-11).
+- The quotation originates in a personal interview: journalist Michael Scott Moore asked Paul Krugman about Henry George in Berlin in 2008, and first published the exchange in his Pacific Standard (Miller-McCune) article "This Land Is Your Land." Moore records Krugman's full remark verbatim. Krugman first grants the theory — "Believe it or not, urban economics models actually do suggest that Georgist taxation would be the right approach at least to finance city growth" — then adds the fiscal-scale objection: "I don't think you can raise nearly enough money to run a modern welfare state by taxing land. It's just not a big enough thing." He notes the context was health-care financing, adding "We're having enough trouble trying to make sure we repeal the Bush tax cuts... and trying to shift to a completely different base of taxation is just not going to be on the table" (verified 2026-07-11).
 
 ## Net Assessment
 

@@ -5,7 +5,7 @@ tags: [objections, socialism, communism, private-property, single-tax, frank-kni
 stub: true
 status: "A perennial rhetorical charge, not a live empirical dispute — the free-market/classical-liberal reply that Georgism strengthens rather than abolishes private property in labor and capital has been made repeatedly since at least the 1990s, but the charge itself keeps recurring in new political contexts"
 excerpt: "Critics from Frank Knight to apartheid-era South African free-marketeers have branded the single tax a stalking-horse for socialism or Soviet-style collectivism — a charge Georgists rebut by pointing out land value taxation leaves private ownership of labor and capital untouched."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## The Objection
@@ -59,10 +59,12 @@ wages, sales, and business income rather than adding new ones.
 
 - This page currently rests on one secondary account (Feder's postscript,
   itself summarizing Grant's now-obscure 1994 tract) rather than a direct
-  read of Grant's original argument. [CITATION NEEDED: direct citation to
-  Richard Grant, *Nationalisation: How Governments Control You* (Free Market
-  Foundation, 1994), or an independent secondary source corroborating
-  Feder's characterization of it]
+  read of Grant's original argument. Richard Grant's original 1994 Free Market
+  Foundation tract could not be located in this pass, and no independent
+  secondary source corroborating Feder's characterization of it was found; the
+  South African 1994 episode therefore rests on Feder's postscript alone and is
+  presented as her account rather than as an independently verified reading of
+  Grant.
 - Frank Knight's 1953 article is confirmed via independent bibliographic
   record (Knight, "The Fallacies in the 'Single Tax,'" *The Freeman*, August
   1953, pp. 809–811), but this page has not yet directly verified that
