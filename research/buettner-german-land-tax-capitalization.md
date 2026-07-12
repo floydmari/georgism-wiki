@@ -7,6 +7,7 @@ year: 2003
 tier: Important
 source_url: https://www.economicpossibility.org/sources/tiebout-visits-germany-land-tax-capitalization-in-a-sample-of-german-municipaliti
 stub: true
+supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 excerpt: "Buettner's 2003 study of German municipalities finds that local land tax rates capitalize fully into land prices while leaving monthly rents unaffected — Tiebout-style empirical evidence for the standard incidence prediction of land value taxation."
 last_reviewed: 2026-07-12
 bears_on_objections: [lvt-destroys-its-own-tax-base]

@@ -8,8 +8,8 @@ tier: core
 source_url: https://www.jstor.org/stable/1828079
 stub: false
 excerpt: "Hartwick's 1977 note proves that investing all resource rents in reproducible capital keeps consumption constant across generations — the theoretical foundation for treating resource rents as common wealth to be captured and reinvested."
-last_reviewed: 2026-07-03
-supports_outcomes: [resource-rent-dividends-work]
+last_reviewed: 2026-07-12
+supports_outcomes: [resource-rent-dividends-work, resource-rent-capture-works]
 ---
 
 ## Summary

@@ -7,8 +7,9 @@ year: 2013
 tier: Important
 source_url: https://doi.org/10.3368/le.89.1.1
 stub: true
+supports_outcomes: [lvt-dampens-land-speculation]
 excerpt: "A hedonic study separating land from structure value across a million-plus home sales in 10 US metros, 1998-2009, finding the cheapest fringe land -- not structures -- was the most volatile part of home prices during the 2000s boom and bust."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Overview

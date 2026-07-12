@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, resource-rents, citizens-dividend, alaska]
 stub: false
 evidence_strength: "Strong (decades of real-world operation)"
-supported_by: [jones-marinescu-alaska-pfd, segal-resource-dividend, goldsmith-alaska-pfd-wealth-distribution, widerquist-howard-pfd, hartwick-rule]
+supported_by: [jones-marinescu-alaska-pfd, segal-resource-dividend, goldsmith-alaska-pfd-wealth-distribution, widerquist-howard-pfd, hartwick-rule, guettabi-pfd-effects-survey]
 excerpt: "Alaska's decades-long Permanent Fund Dividend shows that capturing natural-resource rent and distributing it as a citizen's dividend is administratively and politically durable."
 challenged_by: [martinez-colombia-resource-rents]
 last_reviewed: 2026-07-12
@@ -22,6 +22,8 @@ The **[Alaska Permanent Fund](/wiki/alaska-permanent-fund/)** has, since 1982, p
 - A resource-rent fund can be saved and invested transparently.
 - Equal per-capita distribution is administratively trivial.
 - The dividend becomes a durable entitlement that voters protect — politically resilient in a way many transfer programs are not.
+
+[Guettabi's synthesis of the PFD-effects literature](/wiki/guettabi-pfd-effects-survey/) is the authoritative summary of four decades of evidence: substantial poverty reductions (largest for rural Alaska Natives) with no detectable aggregate labor-market withdrawal — the workability claim, confirmed across studies rather than in any single one. One honest timing nuance from the same literature: [Watson, Guettabi & Reimer](/wiki/watson-guettabi-reimer-cash-crime/) find substance-abuse incidents rise briefly right after disbursement while property crime falls, with small net annual effects — a lump-sum-timing cost that monthly payment designs would avoid.
 
 ## Significance
 
@@ -68,6 +70,7 @@ Barnes's cautionary tale (Ch. 8) examines carbon capping as implemented through 
 
 ## See Also
 
+- [Maricá, Brazil: an oil-royalty-funded basic income](/wiki/marica-brazil-basic-income/) — the second real-world permanent resource-rent dividend beyond Alaska (income +9%, consumption +5%)
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — the distributional evidence for the same three studies, with counter-evidence, kept distinct from the workability claim here
 - [The Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) — a second durable per-capita dividend from a co-owned asset, with causal outcome evidence
 

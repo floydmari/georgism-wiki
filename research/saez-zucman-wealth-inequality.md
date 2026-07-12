@@ -7,8 +7,9 @@ year: 2016
 tier: Important
 source_url: https://eml.berkeley.edu/~saez/SaezZucman2016QJE.pdf
 stub: false
+supports_outcomes: [land-value-tax-can-be-progressive]
 excerpt: "The Saez–Zucman capitalized-income study of top wealth shares — the primary source behind Doucet's Part 1 point that wealth (land included) is heavily concentrated among the very top of the distribution."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-12
 ---
 
 ## Summary

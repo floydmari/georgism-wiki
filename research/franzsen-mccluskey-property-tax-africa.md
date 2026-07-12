@@ -52,6 +52,7 @@ The book should **not** be read as evidence that raising rates increases welfare
 
 ## See Also
 
+- [Bergeron, Tourek & Weigel (2024): The State Capacity Ceiling](/wiki/bergeron-tourek-weigel-drc-property-tax/) — the randomized DRC tax-rate experiment showing enforcement capacity binds property-tax rates in low-capacity settings
 - [Brockmeyer et al., Taxing Property in Developing Countries](/wiki/brockmeyer-property-tax-developing/)
 - [IMF, Taxing Immovable Property](/wiki/imf-taxing-immovable-property/)
 - [World Bank, Determinants of Property Tax Revenue](/wiki/world-bank-property-tax-determinants/)

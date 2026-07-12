@@ -116,6 +116,7 @@ plainly.[12]
 
 ## See Also
 
+- [Petutschnig & Rünger (2022): Austria's ACE and capital structure](/wiki/petutschnig-runger-austria-ace/) — the third-country firm-level replication (equity ratios up ~1.4–2.3pp), with the dispersed-ownership take-up caveat
 
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Outcome: Rent-targeting corporate taxes reduce debt bias](/wiki/rent-targeting-taxes-reduce-debt-bias/) — the evidence-graded verdict

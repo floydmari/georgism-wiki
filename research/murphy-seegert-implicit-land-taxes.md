@@ -7,6 +7,7 @@ year: 2023
 source_url: https://www.maxwell.syr.edu/docs/default-source/research/cpr/property-tax-webinar-series/2023-2024/murphyseegert-landtax-accessible.pdf
 tier: important
 stub: false
+supports_outcomes: [split-rate-increases-construction, taxing-land-raises-productivity]
 excerpt: "Constructs a measure of 'implicit' land taxes from the gap between assessed and market land values, and identifies significant real economic effects."
 ---
 

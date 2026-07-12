@@ -72,6 +72,7 @@ directly rather than through the synthesis.
 
 ## See Also
 
+- [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — a second Danish quasi-experiment estimating a precise ZERO capitalization effect on the same national setting; the two results are in direct, unreconciled tension
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Doucet, Does Georgism Work?](/wiki/doucet-does-georgism-work/) — the synthesis this page de-references
 

@@ -59,7 +59,7 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 - `research/andelson-rejoinder-to-hayek.md` — **CITATION NEEDED** a directly quoted passage with page numbers from the full text — this session's fetch tools returned access-restricted pages for both the Wiley and SSRN copies,
 - `research/bourassa-pittsburgh-lvt-housing.md` — **CITATION NEEDED** direct read of the full text for the regression specification, sample period, and effect sizes.
 - `research/cord-george-dreamer-or-realist.md` — **CITATION NEEDED** full-text access to the review was blocked; this page relies on a secondary search summary of its contents and should be verified against the review directly.
-- `research/feldstein-1977-incidence-pure-rent.md` — **CITATION NEEDED** a future editor with open access to the PDF should verify the exact mechanism and add page-level detail/quotation.
+- `research/feldstein-incidence-pure-rent.md (folded from duplicate feldstein-1977 stub 2026-07-12; the fuller page reads the primary pp. 349-351 verbatim — OCR item likely already satisfied)` — **CITATION NEEDED** a future editor with open access to the PDF should verify the exact mechanism and add page-level detail/quotation.
 - `research/jones-chaos-makers.md` — **CITATION NEEDED** a direct read of the original 1997 text for its specific data tables and methodology
 - `research/lewis-building-cycles.md` — **CITATION NEEDED** a directly fetched, citable academic source — e.g. a peer-reviewed literature review on property cycles — rather than search-indexed summaries, in a future revi
 - `research/pistor-code-of-capital.md` — **CITATION NEEDED** direct page cites once the primary text is read

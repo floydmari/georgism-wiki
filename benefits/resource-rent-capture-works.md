@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, resource-rents, severance-tax, sovereign-wealth-fund, norway, geoism]
 stub: false
 evidence_strength: "Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak"
-supported_by: [resource-rents, sovereign-wealth-fund, cash-flow-tax, acemoglu-johnson-robinson-botswana, lie-norwegian-oil-fund, martinez-colombia-resource-rents]
+supported_by: [resource-rents, sovereign-wealth-fund, cash-flow-tax, acemoglu-johnson-robinson-botswana, lie-norwegian-oil-fund, martinez-colombia-resource-rents, hartwick-rule]
 excerpt: "High-rate capture of natural-resource rent is workable and durable: Norway taxes petroleum at a 78% marginal rate on a cash-flow basis, has banked over $2 trillion in the world's largest sovereign wealth fund, and spends only ~3% a year — the textbook escape from the resource curse. But the escape is institutional, not automatic; where institutions are weak, resource rents are still a curse."
 challenged_by: []
 ---
@@ -99,7 +99,10 @@ Resource rent sits a step away from the clean land case: it is genuine location/
 scarcity rent, but it is entangled with **extraction incentives**, so the tax
 *design* matters in a way it does not for a pure land tax — neutrality requires
 cash-flow treatment and full loss offset (Bond–Devereux; see
-[cash-flow tax](/wiki/cash-flow-tax/)). And "capture works" is a claim about revenue,
+[cash-flow tax](/wiki/cash-flow-tax/)). The growth-theoretic warrant for the
+capture-and-reinvest model itself is [Hartwick's rule](/wiki/hartwick-rule/)
+(1977): investing resource rents in reproducible capital sustains consumption
+across generations — the logic a sovereign wealth fund institutionalizes. And "capture works" is a claim about revenue,
 investment, and — conditionally — the curse; it is not a claim that any resource-rich
 state will replicate Norway by copying its tax schedule. The instrument is
 necessary; the institutions are what make it sufficient.

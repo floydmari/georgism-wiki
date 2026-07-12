@@ -8,8 +8,8 @@ tier: important
 source_url: https://onlinelibrary.wiley.com/doi/10.1093/ajae/aas141
 stub: false
 excerpt: "Cho et al. (AJAE 2013) simulate a revenue-neutral two-rate tax for Nashville-Davidson County and find residential density rising +18% in general services districts and +83% in urban services districts — concrete magnitudes for the anti-sprawl density channel, from a simulation rather than a natural experiment."
-last_reviewed: 2026-07-05
-supports_outcomes: [lvt-reduces-sprawl]
+last_reviewed: 2026-07-12
+supports_outcomes: [lvt-reduces-sprawl, split-rate-increases-construction]
 ---
 
 ## Summary

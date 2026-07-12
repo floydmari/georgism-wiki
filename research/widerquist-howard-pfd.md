@@ -9,7 +9,7 @@ source_url: https://doi.org/10.1057/9781137015020
 stub: false
 excerpt: "An edited volume of historians, economists, and philosophers assessing whether Alaska's oil-funded citizen dividend is a genuine model for resource-rent policy elsewhere, or a product of Alaska's own peculiar circumstances."
 last_reviewed: 2026-07-12
-supports_outcomes: [resource-rent-dividends-work]
+supports_outcomes: [resource-rent-dividends-work, rent-dividends-reduce-poverty]
 ---
 
 ## Summary

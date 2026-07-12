@@ -10,7 +10,7 @@ stub: true
 excerpt: "The earliest econometric study of Pittsburgh's split-rate property tax, finding that the incentive effect of heavier land taxation significantly increased the number of new housing units built, without raising their average cost."
 last_reviewed: 2026-07-12
 supports: [split-rate-increases-construction]
-supports_outcomes: [split-rate-increases-construction]
+supports_outcomes: [split-rate-increases-construction, lvt-improves-housing-affordability]
 ---
 
 ## Summary

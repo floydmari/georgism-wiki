@@ -8,8 +8,8 @@ tier: important
 source_url: http://hdl.handle.net/11122/10581
 stub: false
 excerpt: "The authoritative literature synthesis of the Alaska Permanent Fund Dividend's socio-economic effects. Its verdict: the PFD has produced 'substantial poverty reductions for rural Alaska Natives' with no negative labor-market effect — but, in the most unexpected result, the evidence suggests it has increased measured income inequality."
-supports_outcomes: [rent-dividends-reduce-poverty]
-last_reviewed: 2026-07-11
+supports_outcomes: [rent-dividends-reduce-poverty, resource-rent-dividends-work]
+last_reviewed: 2026-07-12
 ---
 
 ## Summary

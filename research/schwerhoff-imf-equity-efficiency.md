@@ -8,7 +8,7 @@ source_url: https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea
 tier: important
 stub: false
 excerpt: "IMF working paper using optimal-taxation theory to show that land value taxation is efficient and can also be made progressive — equity and efficiency are not in tension."
-supports_outcomes: [land-value-tax-can-be-progressive]
+supports_outcomes: [land-value-tax-can-be-progressive, lvt-can-replace-capital-taxes-without-efficiency-loss]
 ---
 
 ## Summary

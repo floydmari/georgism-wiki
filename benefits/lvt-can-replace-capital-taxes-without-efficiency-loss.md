@@ -5,7 +5,7 @@ claim_type: benefit
 tags: [outcomes, efficiency, capital-tax, lvt, deadweight-loss]
 stub: false
 evidence_strength: "Strong (theory + calibrated empirical models)"
-supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation]
+supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation, tideman-avoidable-excess-burden, schwerhoff-imf-equity-efficiency, site-value-ge-simulations]
 excerpt: "Shifting tax from capital to land raises welfare: land taxes carry no deadweight loss while capital taxes discourage investment."
 ---
 
@@ -18,7 +18,9 @@ Replacing taxes on **capital** with a tax on **land** improves economic efficien
 | Source | Approach | Finding |
 |--------|----------|---------|
 | [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/) | Theory + European data | Taxing land **dominates** taxing capital; a land tax can substitute for capital taxes without the efficiency cost |
-| Schwerhoff, Edenhofer & Fleurbaey (2022), IMF WP | Optimal-taxation theory, heterogeneous households | LVT is efficient **and** can be made progressive — efficiency and equity are not in tension |
+| [Schwerhoff, Edenhofer & Fleurbaey (2022), IMF WP](/wiki/schwerhoff-imf-equity-efficiency/) | Optimal-taxation theory, heterogeneous households | LVT is efficient **and** can be made progressive — efficiency and equity are not in tension |
+| [Tideman et al. (2002)](/wiki/tideman-avoidable-excess-burden/) | Dynamic general-equilibrium model | Shifting broad-based US taxes onto land would recover avoidable excess burden worth ~14% of net domestic product |
+| [CGE site-value simulations](/wiki/site-value-ge-simulations/) | Computable general equilibrium (DiMasi 1987; Haughwout 2001) | Independent model family predicting welfare gains and higher wages from the land shift (model evidence, weaker than the quasi-experimental tier) |
 
 This rests on the oldest result in the field: a tax on a factor in perfectly inelastic supply causes no change in quantity, hence no deadweight loss — a point on which economists from Henry George to Milton Friedman (who called LVT the "least bad tax") agree.
 

@@ -5,9 +5,10 @@ claim_type: benefit
 tags: [outcomes, carbon-pricing, ecological-georgism, atmosphere-commons, pigouvian, geoism]
 stub: false
 evidence_strength: "Moderate-to-strong for real, measurable emissions reductions across several designs; magnitudes are modest and prices usually sit below the social cost of carbon; aggregate causal effects are debated for the flagship case"
-supported_by: [ecological-georgism, pigouvian-taxation, andersson-sweden-carbon-tax, bayer-aklin-eu-ets, metcalf-stock-europe-carbon-taxes]
-excerpt: "Pricing the scarce right to emit — charging for use of the atmospheric commons — measurably reduces emissions wherever it has been tried, at little cost to growth: British Columbia's revenue-neutral carbon tax cut per-capita fuel use ~19% while GDP outpaced the rest of Canada; cross-country and EU-ETS evidence agree the effect is real, if modest."
+supported_by: [ecological-georgism, pigouvian-taxation, andersson-sweden-carbon-tax, dobbeling-carbon-pricing-meta-analysis, green-carbon-pricing-review, bayer-aklin-eu-ets, metcalf-stock-europe-carbon-taxes]
+excerpt: "Pricing the scarce right to emit — charging for use of the atmospheric commons — measurably reduces emissions wherever it has been tried, at little cost to growth: British Columbia's revenue-neutral carbon tax cut per-capita fuel use ~19% while GDP outpaced the rest of Canada; a meta-analysis of 80 causal evaluations, cross-country and EU-ETS evidence agree the effect is real, if modest."
 challenged_by: []
+last_reviewed: 2026-07-12
 ---
 
 ## The Claim
@@ -39,7 +40,14 @@ rest of Canada is an obvious control:
 
 ## Broader Evidence — It Generalises
 
-The BC result is not a one-off:
+The BC result is not a one-off. The best single summary of the whole ex-post record is
+[Döbbeling-Hildebrandt et al. (2024)](/wiki/dobbeling-carbon-pricing-meta-analysis/), a
+machine-learning-assisted meta-analysis pooling **483 effect sizes from 80 causal ex-post
+evaluations across 21 carbon-pricing schemes**: introducing a carbon price produced
+"immediate and substantial" reductions "for at least **17 of these policies, despite the
+low level of prices**," with statistically significant cuts of **–5% to –21% per scheme
+(–4% to –15% after correcting for publication bias)**.[10] That is the meta-analytic
+version of everything below — real, repeated, and modest.
 
 - **Sweden (the cleanest single case):** [Andersson (2019)](/wiki/andersson-sweden-carbon-tax/),
   using the synthetic-control method against a control group of comparable OECD
@@ -76,7 +84,12 @@ Columbia (Pretis 2022) finds statistically significant reductions concentrated i
 emissions — a reminder that the headline "19%" is a consumption figure, not a
 clean province-wide emissions counterfactual.[6] And across the board, carbon prices
 have almost everywhere been set **below** the social cost of carbon, so the observed
-reductions reflect modest prices, not the full Pigouvian correction. Carbon pricing
+reductions reflect modest prices, not the full Pigouvian correction. The moderating
+review is [Green (2021)](/wiki/green-carbon-pricing-review/), whose meta-review of 37
+ex-post studies finds aggregate reductions "generally between **0% and 2% per year**"
+(with carbon taxes outperforming emissions-trading schemes, and the EU ETS moving
+emissions only **0–1.5% per annum**) — set against the IPCC's 45%-by-2030 benchmark, she
+concludes "carbon pricing has a **limited impact** on emissions."[11] Carbon pricing
 demonstrably bends the curve; it has not, at the prices tried, been sufficient on its
 own.
 
@@ -105,6 +118,8 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
 
 - [Ecological Georgism](/wiki/ecological-georgism/) — the framework this evidences
 - [Carbon Taxes and CO2 Emissions: Sweden (Andersson)](/wiki/andersson-sweden-carbon-tax/) — the cleanest causal carbon-tax case
+- [Döbbeling-Hildebrandt et al. carbon-pricing meta-analysis](/wiki/dobbeling-carbon-pricing-meta-analysis/) — the pooled synthesis: 80 evaluations, 21 schemes
+- [Does carbon pricing reduce emissions? A review (Green)](/wiki/green-carbon-pricing-review/) — the "real but limited" moderating review
 - [The EU ETS reduced CO2 emissions despite low prices (Bayer & Aklin)](/wiki/bayer-aklin-eu-ets/) — the cap-and-trade evidence
 - [The Macroeconomic Impact of Europe's Carbon Taxes (Metcalf & Stock)](/wiki/metcalf-stock-europe-carbon-taxes/) — the no-growth-cost evidence
 - [Pigouvian Taxation](/wiki/pigouvian-taxation/) — the externality-correction lens
@@ -156,3 +171,16 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
    (B-claim; the "without wrecking growth" evidence, see the dedicated
    [research page](/wiki/metcalf-stock-europe-carbon-taxes/)). DOI
    [10.1257/mac.20210052](https://doi.org/10.1257/mac.20210052)
+10. Niklas Döbbeling-Hildebrandt et al. (2024), "Systematic review and meta-analysis of
+   ex-post evaluations on the effectiveness of carbon pricing," *Nature Communications*
+   15, 4147 — used for the 80-evaluation / 21-scheme meta-analytic result: immediate
+   substantial reductions for ≥17 of 21 schemes, –5% to –21% (–4% to –15% bias-corrected)
+   (B-claim; verified verbatim this session, see the dedicated
+   [research page](/wiki/dobbeling-carbon-pricing-meta-analysis/)). DOI
+   [10.1038/s41467-024-48512-w](https://doi.org/10.1038/s41467-024-48512-w)
+11. Jessica F. Green (2021), "Does carbon pricing reduce emissions? A review of ex-post
+   analyses," *Environmental Research Letters* 16(4), 043004 — used for the moderating
+   finding that aggregate reductions are limited (0–2%/yr; EU ETS 0–1.5%/yr; taxes beat
+   ETSs) and the "limited impact" verdict (B-claim; the honest lower bound, see the
+   dedicated [research page](/wiki/green-carbon-pricing-review/)). DOI
+   [10.1088/1748-9326/abdae9](https://doi.org/10.1088/1748-9326/abdae9)

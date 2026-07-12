@@ -4,10 +4,11 @@ category: benefits
 claim_type: benefit
 tags: [outcomes, equity, progressivity, lvt, wealth]
 stub: false
-evidence_strength: "Strong (theory + concentration of land ownership)"
-supported_by: [plummer-lvt-distribution, bowman-bell-lvt-distribution, schwerhoff-imf-equity-efficiency, rognlie-capital-share, cwc-distributional-impacts-lvt]
-challenged_by: [england-zhao-lvt-distribution]
-excerpt: "Because land ownership is concentrated among the wealthy, a land value tax falls disproportionately on high-wealth households — making it both efficient and progressive."
+evidence_strength: "Strong that LVT falls on concentrated land wealth and can be made progressive by design (optimal-tax theory + wealth-concentration data); household-level incidence is jurisdiction- and design-dependent, and one revenue-neutral case (Dover, NH) was regressive absent a credit"
+supported_by: [plummer-lvt-distribution, bowman-bell-lvt-distribution, schwerhoff-imf-equity-efficiency, rognlie-capital-share, cwc-distributional-impacts-lvt, saez-zucman-wealth-inequality, bonnet-land-is-back]
+challenged_by: [england-zhao-lvt-distribution, wyatt-critical-view-lvt]
+excerpt: "Because land ownership is concentrated among the wealthy, a land value tax falls disproportionately on high-wealth households — making it both efficient and progressive. Household-level incidence is design-dependent; a flat refundable credit or citizen's dividend makes it sharply progressive."
+last_reviewed: 2026-07-12
 ---
 
 ## The Claim
@@ -17,7 +18,7 @@ A land value tax is **not** regressive. Because the ownership of land and land-h
 ## The Evidence
 
 - [Schwerhoff, Edenhofer & Fleurbaey (2022, IMF)](/wiki/schwerhoff-imf-equity-efficiency/) show formally, using optimal-taxation theory with heterogeneous households, that LVT can improve **both** equity and efficiency.
-- The concentration premise is supported by wealth data and by [Rognlie (2015)](/wiki/rognlie-capital-share/) / [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/): the wealth gains of recent decades are land gains, accruing to existing property owners.
+- The concentration premise is supported by wealth data and by [Rognlie (2015)](/wiki/rognlie-capital-share/) / [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/): the wealth gains of recent decades are land gains, accruing to existing property owners. [Saez & Zucman (2016)](/wiki/saez-zucman-wealth-inequality/) supply the underlying concentration series — US wealth, land included, is heavily concentrated at the top, so a tax on the land component of wealth falls disproportionately on the wealthiest households.
 
 ## A Caveat
 
@@ -39,9 +40,14 @@ progressive within residential property.
 [Common Wealth Canada's modelling (2024)](/wiki/cwc-distributional-impacts-lvt/)
 draws the design lesson explicitly: a national LVT alone looks regressive by
 income decile, and a large flat refundable credit reverses it for most
-households — the England–Zhao remedy at national scale. The honest summary: LVT's
-progressivity is real at the top of the wealth distribution (land ownership is
-concentrated) but **design-dependent** at the household level.
+households — the England–Zhao remedy at national scale. The sharpest scholarly
+dissent comes from the radical-political-economy left:
+[Wyatt (1994)](/wiki/wyatt-critical-view-lvt/) argues LVT would not favorably
+affect the distribution of wealth at all (though Doucet notes Wyatt's own
+strongest argument ends up affirming the Henry George Theorem). The honest
+summary: LVT's progressivity is real at the top of the wealth distribution
+(land ownership is concentrated) but **design-dependent** at the household
+level — and contested from the left as well as the right.
 
 ## Strength of Evidence
 
