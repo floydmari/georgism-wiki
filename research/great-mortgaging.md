@@ -78,6 +78,8 @@ This paper does not make a Georgist argument. It does not discuss land value, la
 
 ## See Also
 
+
+- [Bezemer, Samarina & Zhang: The Shift in Bank Credit Allocation](/wiki/bezemer-samarina-zhang-debt-shift/) — the broadest panel (74 economies) of the same mortgage-toward-real-estate credit shift
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/)
 - [The 2008 Financial Crisis](/wiki/2008-financial-crisis/)
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)

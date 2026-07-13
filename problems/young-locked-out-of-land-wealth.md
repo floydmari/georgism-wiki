@@ -5,9 +5,10 @@ claim_type: problem
 tags: [outcomes, housing, intergenerational, homeownership, wealth, land-values]
 stub: false
 evidence_strength: "Strong (for the cohort trend in UK, US, and OECD data; the geoist reading of it as a land transfer is analytic, not separately tested)"
-supported_by: [corlett-judge-home-affront, oecd-under-pressure-middle-class, kurz-li-vine-are-millennials-different, cribb-hood-hoyle-homeownership, lost-generation-young-families-wealth]
+supported_by: [corlett-judge-home-affront, oecd-under-pressure-middle-class, kurz-li-vine-are-millennials-different, cribb-hood-hoyle-homeownership, lost-generation-young-families-wealth, ryan-collins-rethinking-land-housing, knoll-schularick-steger-house-prices]
+challenged_by: [productivity-commission-first-home-ownership]
 excerpt: "UK 30-year-olds are half as likely to own a home as their parents were; OECD house prices grew three times faster than median incomes; US millennial net worth ran ~40% below Gen X at the same age. The land under housing is where the generational wealth divide concentrates."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Each cohort since the baby boomers is less likely to own a home at a given age and holds less housing wealth — strongly documented across UK, US, and OECD data — though reading the trend as a land-wealth transfer is an interpretation, not a separately tested result.
@@ -131,6 +132,8 @@ SCF data, and OECD cross-country data by three separate institutions. The specif
 causal claim — that this operates as a land-value transfer between generations — is
 **analytic/attributed**, resting on the land decomposition literature rather than on direct
 tests.
+
+**A counter-reading.** [Australia's Productivity Commission first-home-ownership inquiry](/wiki/productivity-commission-first-home-ownership/) attributes the affordability slide mainly to cheap credit, income growth, and tax settings (capital-gains and negative-gearing), complicating a pure land-scarcity reading of the generational gap.
 
 ## See Also
 

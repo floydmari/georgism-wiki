@@ -10,7 +10,7 @@ source_url: https://archive.org/details/onehundredyearso00hoytrich
 stub: false
 excerpt: "Homer Hoyt's 1933 University of Chicago dissertation traces Chicago land values from 1830 to 1933, documenting a recurring boom-bust rhythm in land prices — the founding empirical study behind the Georgist 18-year land cycle."
 last_reviewed: 2026-07-12
-supports_outcomes: [lvt-dampens-land-speculation]
+supports_outcomes: [lvt-dampens-land-speculation, speculative-vacancy-wastes-cities]
 ---
 
 ## Summary

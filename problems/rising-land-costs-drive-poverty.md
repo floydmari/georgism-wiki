@@ -5,9 +5,10 @@ claim_type: problem
 tags: [outcomes, poverty, housing-costs, land-values, rents, progress-and-poverty, inequality]
 stub: false
 evidence_strength: "Moderate (every link in the chain is separately well-evidenced; the end-to-end causal claim — land appreciation causes poverty — is rarely tested as such)"
-supported_by: [knoll-schularick-steger-house-prices, rognlie-capital-share, albouy-what-are-cities-worth, albouy-ehrlich-shin-metro-land, progress-and-poverty, hornbeck-moretti-tfp-incidence]
+supported_by: [knoll-schularick-steger-house-prices, rognlie-capital-share, albouy-what-are-cities-worth, albouy-ehrlich-shin-metro-land, progress-and-poverty, hornbeck-moretti-tfp-incidence, stiglitz-land-credit-inequality, la-cava-housing-capital-share, bonnet-land-is-back]
+challenged_by: [glaeser-gyourko-housing-supply]
 excerpt: "Housing costs now determine who counts as poor in America — renters' supplemental poverty rate is 23.9% vs 5.7% for mortgaged owners — while rents have outrun renter incomes 21% to 2% since 2001, and the long-run rise in housing costs is driven by land prices, not construction."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Each link — land drives housing costs, and housing costs drive who is poor — is separately well evidenced, but George's full causal chain from land appreciation to poverty is rarely tested end-to-end, so the claim is strong on components and moderate as a whole.
@@ -65,6 +66,8 @@ Causal mechanism evidence comes from [Hornbeck & Moretti](/wiki/hornbeck-moretti
 - **The proximate policy culprit may be regulation, not land speculation.** A major strand of urban economics ([Glaeser & Gyourko](/wiki/glaeser-gyourko-housing-supply/)) attributes high housing costs in coastal metros primarily to supply restrictions — zoning and land-use regulation — rather than to landownership per se. Georgists respond that regulation is one of the ways location rents are created and defended, but the distinction matters for remedies: upzoning and land value taxation are different prescriptions.
 - **Correlation and composition problems.** Renters are poorer than owners for many reasons besides rent levels; the SPM tenure gap partly reflects selection into renting. The JCHS burden figures describe a squeeze but do not by themselves identify land appreciation as its cause.
 - **Mobility is a partial escape valve.** Households can and do relocate toward cheaper land, blunting the poverty effect of any one market's appreciation — though the Chetty–Hendren evidence implies the cost of that escape is paid in foregone opportunity for children.
+
+**Further corroboration.** [Stiglitz (2015)](/wiki/stiglitz-land-credit-inequality/) argues the modern rise in the wealth-income ratio and in wealth inequality is largely a land-value phenomenon, tying rising land prices to the distribution of income. [La Cava](/wiki/la-cava-housing-capital-share/) shows the postwar rise in the US housing income share is imputed rent concentrated in supply-constrained states, and [Bonnet et al.](/wiki/bonnet-land-is-back/) confirm the rising wealth-to-income ratio is land-driven rather than a rise in productive capital.
 
 ## See Also
 

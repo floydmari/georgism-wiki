@@ -14,6 +14,7 @@ excerpt: 'Tullock''s classic public-choice paper: a privilege granted to a group
 last_reviewed: 2026-07-10
 source_url: https://ideas.repec.org/a/rje/bellje/v6y1975iautumnp671-678.html
 stub: false
+supports_outcomes: [rent-seeking-drags-growth]
 subcategory: wiki-research-urban
 tags:
 - research

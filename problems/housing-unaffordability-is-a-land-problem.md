@@ -6,8 +6,8 @@ tags: [outcomes, housing, affordability, land-prices, construction-costs, zoning
 stub: false
 excerpt: "Where housing is expensive, decomposition shows it is the land under the house — not the cost of building it — that has appreciated: 80% of the post-1950 global house-price boom is land, and in constrained US metros land is the gap between price and build cost."
 evidence_strength: "Strong (independent decompositions — 140-year cross-country panel and US micro data — converge on land; scope limited to high-demand, supply-constrained markets)"
-supported_by: [knoll-schularick-steger-house-prices, glaeser-gyourko-housing-supply, hsieh-moretti-spatial-misallocation, hilber-vermeulen-england-supply, gyourko-krimmel-zoning-tax, albouy-ehrlich-shin-metro-land]
-last_reviewed: 2026-07-12
+supported_by: [knoll-schularick-steger-house-prices, glaeser-gyourko-housing-supply, hsieh-moretti-spatial-misallocation, hilber-vermeulen-england-supply, gyourko-krimmel-zoning-tax, albouy-ehrlich-shin-metro-land, stewart-canadian-land-house-prices, davis-larson-oliner-shui-fhfa-land, la-cava-housing-capital-share, saiz-housing-supply-elasticity]
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — In high-demand, supply-constrained markets it is the price of land, not the cost of building, that has made housing unaffordable — independent 140-year cross-country and US micro decompositions converge on land.
@@ -38,7 +38,7 @@ The three strongest anchors, in order of evidential weight:
 
 ### The aggregate stakes
 
-[Hsieh and Moretti](/wiki/hsieh-moretti-spatial-misallocation/) supply the macro reading: when land access in the most productive cities is rationed by price, workers who would gain most from being there are priced out, and national output falls. Their headline multiplier is the subject of a live, unresolved published dispute (Greaney 2026 argues the corrected effect is two orders of magnitude smaller; Hsieh has replied) — this page leans on the **mechanism**, which is widely accepted independent of the exact number, not on any specific percentage. Related decomposition work the wiki carries separately corroborates the land channel from other directions: [Davis and Heathcote's land-price series](/wiki/davis-heathcote-us-land/), [Albouy, Ehrlich and Shin's metro land-value index](/wiki/albouy-ehrlich-shin-metro-land/), and [Hilber and Vermeulen's English supply-constraint estimates](/wiki/hilber-vermeulen-england-supply/).
+[Hsieh and Moretti](/wiki/hsieh-moretti-spatial-misallocation/) supply the macro reading: when land access in the most productive cities is rationed by price, workers who would gain most from being there are priced out, and national output falls. Their headline multiplier is the subject of a live, unresolved published dispute (Greaney 2026 argues the corrected effect is two orders of magnitude smaller; Hsieh has replied) — this page leans on the **mechanism**, which is widely accepted independent of the exact number, not on any specific percentage. Related decomposition work the wiki carries separately corroborates the land channel from other directions: [Davis and Heathcote's land-price series](/wiki/davis-heathcote-us-land/), [Albouy, Ehrlich and Shin's metro land-value index](/wiki/albouy-ehrlich-shin-metro-land/), and [Hilber and Vermeulen's English supply-constraint estimates](/wiki/hilber-vermeulen-england-supply/). A Canadian growth-accounting study using *directly observed* (not imputed) land prices — [Stewart (2022)](/wiki/stewart-canadian-land-house-prices/) — adds an honest wrinkle that actually reinforces the scoping: land is the dominant contributor to house-price growth in some cities but, in Stewart's words, "this varies greatly by city," so the land-problem reading holds where demand pressure is high and weakens where it is not.
 
 ## Why It Matters
 
@@ -56,12 +56,15 @@ If unaffordability were a construction-cost problem, the remedies would be indus
 
 **Strong**, within its scope. Two independent research programs — a 140-year, 14-country panel decomposition (AER) and US price-versus-production-cost micro comparisons (JEP, drawing on two decades of prior work) — using different data and methods converge on the same conclusion: in expensive markets, land, not construction cost, is what appreciated. The grade is not higher-than-warranted: the claim is scoped to high-demand, supply-constrained markets; construction-cost inflation is real and additional; and the misallocation *magnitude* (as opposed to mechanism) is contested.
 
+**Further corroboration.** The [FHFA tract-level land-price project](/wiki/davis-larson-oliner-shui-fhfa-land/) (Davis, Larson, Oliner & Shui) turns millions of appraisals into county, ZIP and tract land prices, showing the land component is separately measurable and large across the US. [La Cava](/wiki/la-cava-housing-capital-share/) traces the postwar rise in the US housing income share to imputed rent concentrated in supply-constrained states — land scarcity, not construction cost.
+
 ## See Also
 
 - [The Problems](/wiki/problems/) — the index of geoism's diagnostic claims
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) — the prescription side, with its zoning-pairing caveat
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/) — the same decomposition at the income/wealth level
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/) — the macro cost of the same scarcity
+- [Stewart (2022), How Important Are Land Values in House Price Growth? Evidence from Canadian Cities](/wiki/stewart-canadian-land-house-prices/) — a directly-measured Canadian decomposition whose city-by-city heterogeneity sharpens the claim's scope
 - [Saiz (2010), The Geographic Determinants of Housing Supply](/wiki/saiz-housing-supply-elasticity/) · [Barker Review](/wiki/barker-review-housing-supply/) · [Ryan-Collins, Lloyd & Macfarlane, Rethinking the Economics of Land and Housing](/wiki/ryan-collins-rethinking-land-housing/)
 - [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/)
 

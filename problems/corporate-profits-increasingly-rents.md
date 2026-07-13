@@ -5,10 +5,10 @@ claim_type: problem
 tags: [outcomes, economic-rent, market-power, markups, superstar-firms, contested]
 stub: false
 evidence_strength: "Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency"
-supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents]
+supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents, mazzucato-mapping-rents, korinek-ng-digital-superstars]
 challenged_by: [crouzet-eberly-intangibles]
 excerpt: "A converging empirical literature finds US corporate profits have risen far beyond competitive returns — markups, pure-profit shares, and firm-level return dispersion all point to growing economic rents, extending the Georgist rent analysis beyond land."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — The rise in US corporate profits above competitive returns is real and abnormal across independent methods, but how much of it is genuine economic rent rather than mismeasured returns to intangible investment remains genuinely contested.
@@ -65,12 +65,17 @@ dispersion, and falling dynamism documented by the US government itself.
 
 Henry George's analysis located unearned income in land; the modern rent literature finds structurally similar unearned income in corporate position. The policy translation is the same in spirit — tax the rent, not the production — though instruments differ (competition policy, spectrum/resource auctions, platform regulation, and rent-focused taxation — see the [allowance for corporate equity](/wiki/allowance-for-corporate-equity/) and [cash-flow tax](/wiki/cash-flow-tax/) designs — rather than a land value tax). See [economic rent](/wiki/economic-rent/), [rent-seeking](/wiki/rent-seeking/), and the narrative [The Rentier Economy](/wiki/the-rentier-economy/).
 
+**Further corroboration.** [Korinek & Ng](/wiki/korinek-ng-digital-superstars/) model how digital innovation — a fixed cost that then scales at near-zero marginal cost — lets a few firms capture rents, raising markups and lowering the labour share.
+
 ## See Also
 
+
+- [Azar, Schmalz & Tecu: common ownership and airline prices](/wiki/azar-schmalz-tecu-common-ownership/) — a concrete (and genuinely contested) rent-extraction channel: common institutional ownership associated with higher fares
 - [Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/) — the growth cost of the rents documented here
 
 - [Superstar Firms](/wiki/superstar-firms/) · [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) · [The Rentier Economy](/wiki/the-rentier-economy/) · [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the parallel evidence in the financial sector
+- [Kerspien, Madsen & Strulik (2025): Capital Composition and the Decline of the Labor Share](/wiki/kerspien-madsen-strulik-buildings-labor-share/) — a non-market-power account of the same labour-share decline, attributing it to rising real building prices rather than to rising markups (a reminder that the falling labour share is over-determined)
 
 ## Sources
 

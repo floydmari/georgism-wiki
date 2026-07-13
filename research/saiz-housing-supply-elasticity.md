@@ -10,9 +10,8 @@ excerpt: 'Saiz uses satellite data on terrain and water to show why housing supp
 last_reviewed: 2026-07-03
 source_url: https://doi.org/10.1162/qjec.2010.125.3.1253
 stub: false
+supports_outcomes: [housing-unaffordability-is-a-land-problem, lvt-improves-housing-affordability]
 subcategory: wiki-research-inequality
-supports_outcomes:
-- lvt-improves-housing-affordability
 tags:
 - research
 - housing-supply

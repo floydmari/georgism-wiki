@@ -55,6 +55,8 @@ In 2007, Denmark redrew all municipal boundaries, causing a semi-random shufflin
 
 ## See Also
 
+
+- [Letwin, Independent Review of Build Out (2018)](/wiki/letwin-build-out-review/) — the UK government review of why permissioned housing sites build out slowly (market absorption rate, not simple land-banking)
 - [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/) — the phenomenon this tax targets, measured
 
 - [Land Speculation](/wiki/land-speculation/)

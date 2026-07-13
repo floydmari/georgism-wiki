@@ -5,9 +5,9 @@ claim_type: problem
 tags: [outcomes, revenue-sufficiency, atcor, land-rent]
 stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"
-supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont, kuminoff-pope-land-values]
+supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont, kuminoff-pope-land-values, foldvary-public-revenue]
 excerpt: "Estimates of total land rent suggest it could fund a substantial fraction — by some accounts most — of government, though figures are sensitive to assumptions."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Estimates of how much government land rent could fund vary widely with method and scope — from a major share of spending to near-total replacement of existing taxes — so the honest reading is a large but genuinely uncertain fraction.
@@ -73,6 +73,8 @@ See: [Public Revenue Without Taxation (Burgess)](/wiki/public-revenue-without-ta
 ## Strength of Evidence
 
 **Contested.** That land rent is *large* is well established; *how large relative to government* depends heavily on method. Honest framing: enough to be a **major** revenue source, with **full** replacement an open question.
+
+**An attributed high-end estimate.** [Foldvary's](/wiki/foldvary-public-revenue/) 'geo-rent' projection — that land rent could fund roughly half of US government revenue at all levels — is an advocate estimate, not a consensus figure, and sits at the optimistic end of the range above.
 
 ## See Also
 

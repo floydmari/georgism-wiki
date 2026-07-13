@@ -10,6 +10,7 @@ excerpt: Foldvary's 1994 book argues that public goods can be financed from the 
 last_reviewed: 2026-07-10
 source_url: https://ideas.repec.org/b/elg/eebook/167.html
 stub: false
+supports_outcomes: [public-goods-fundable-from-land-rent, land-rent-could-fund-government]
 subcategory: wiki-research-georgism
 supports_outcomes:
 - public-goods-fundable-from-land-rent

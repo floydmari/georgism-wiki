@@ -4,10 +4,10 @@ category: problems
 claim_type: problem
 tags: [outcomes, capitalization, infrastructure, transit, land-value-capture]
 stub: false
+last_reviewed: 2026-07-13
 evidence_strength: "Strong (large, consistent empirical literature)"
-supported_by: [gibbons-machin-rail-access, mohammad-rail-meta-analysis, oates-1969-capitalization, albouy-what-are-cities-worth, arnott-stiglitz-henry-george-theorem]
+supported_by: [gibbons-machin-rail-access, mohammad-rail-meta-analysis, oates-1969-capitalization, albouy-what-are-cities-worth, arnott-stiglitz-henry-george-theorem, he-sun-metro-housing-premiums, gibbons-machin-school-premiums, hilber-capitalization-synthesis]
 excerpt: "Transit lines, parks, and public services raise the value of nearby land — the empirical foundation for the Henry George Theorem and land value capture."
-last_reviewed: 2026-07-12
 ---
 
 > **At a glance** — Public investments such as transit stations reliably raise nearby land values — capitalization is among the most robust and replicated findings in urban economics.
@@ -43,16 +43,41 @@ heterogeneity is large: magnitude depends on land use, distance, and rail type.
 projects to whole cities: land rents inferred from US wage and housing-cost data
 capitalize city-level productivity and amenities at first-order magnitudes —
 with productivity, not quality of life, driving most cross-city variation.
+The most recent causal addition comes from outside the Anglo-American data:
+[He, Sun, Li & Webster (2024)](/wiki/he-sun-metro-housing-premiums/) exploit new
+Shenzhen metro lines as a natural experiment and find, via hedonic
+difference-in-differences, that "housing rents increased significantly and
+consistently after the metro entered operation," with the rent premium showing
+"a price gradient over the distance to stations" — the signature of locational
+value capitalizing into land, and evidence the authors read as a basis for
+value-capture financing.
+
+## Limits and Heterogeneity
+
+The regularity is robust, but the *magnitude* is not a constant. The field's own
+[meta-analysis (Mohammad et al. 2013)](/wiki/mohammad-rail-meta-analysis/) stresses
+that uplift estimates vary widely with land use, distance, and rail type, and the
+Shenzhen study finds the *rent* premium far cleaner than the sale-*price* premium.
+How fully public value capitalizes into land specifically (rather than dissipating
+into higher structures or being competed away) also depends on housing-supply
+elasticity: where supply can respond, some benefit shows up as more building rather
+than higher land prices. And capitalization estimates from cross-sectional hedonics
+can pick up anticipation effects and selection unless a natural experiment or
+policy discontinuity isolates the causal channel — which is why the cleanest cases
+here (Gibbons–Machin, He et al.) rely on quasi-experimental designs.
 
 ## Strength of Evidence
 
 **Strong.** The capitalization of public investment into land values is one of the most robust and replicated findings in urban economics, used routinely by transit agencies worldwide.
+
+**Further corroboration.** Public school quality capitalizes into land too: [Gibbons & Machin (2006)](/wiki/gibbons-machin-school-premiums/) found homes just outside a top, oversubscribed London primary cost about £61,000 more — roughly 26% of the regional mean price. [Hilber's synthesis](/wiki/hilber-capitalization-synthesis/) adds the key conditional: fiscal variables capitalize more fully where housing supply is inelastic — the link between the property-tax record and the pure-land case.
 
 ## See Also
 
 - [Modelewska: Financing Public Transport Using Value Capture Finance](/wiki/modelewska-value-capture-finance/) — a UCL doctoral thesis whose literature synthesis (per Patel's secondary citation) reviews rail's impact on nearby property prices, a second literature synthesis alongside Mohammad et al.
 - [Enterprise Zones](/wiki/enterprise-zones/) — the Docklands enterprise-zone case where UK tax exemptions were capitalized into land prices rather than passed through to intended beneficiaries
 - [Riley (2001): Taken for a Ride — Jubilee Line Land Value Uplift](/wiki/riley-taken-for-a-ride/) — the originating popular case study: a £3.5bn London transit line yielding a reported ~£13bn landowner windfall, since partially corroborated by an independent academic study.
+- [He, Sun, Li & Webster (2024): New Metro and Housing Price and Rent Premiums — A Natural Experiment in China](/wiki/he-sun-metro-housing-premiums/) — a modern causal (natural-experiment DID) corroboration from Shenzhen, with a rent-distance gradient
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Henry George Theorem](/wiki/henry-george-theorem/) · [Unearned Increment](/wiki/unearned-increment/)

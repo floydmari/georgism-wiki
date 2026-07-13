@@ -9,6 +9,7 @@ excerpt: London-area homes near top-performing, oversubscribed primary schools c
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1111/j.1468-0297.2006.01077.x
 stub: true
+supports_outcomes: [public-investment-capitalizes-into-land]
 subcategory: wiki-research-georgism
 tags:
 - research

@@ -8,6 +8,7 @@ excerpt: 'Gaffney''s Georgist alternative to agglomeration doctrine: cities gene
 last_reviewed: 2026-07-11
 source_url: https://masongaffney.org/publications/E14Synergistic_City.CV.pdf
 stub: true
+supports_outcomes: [public-goods-fundable-from-land-rent]
 subcategory: wiki-research-housing
 tags:
 - research

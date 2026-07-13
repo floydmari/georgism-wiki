@@ -5,10 +5,10 @@ claim_type: problem
 tags: [outcomes, rent-seeking, growth, talent-allocation, innovation, institutions]
 stub: false
 evidence_strength: "Moderate (strong theory and historical evidence; direct empirical magnitudes contested)"
-supported_by: [murphy-shleifer-vishny-allocation-talent, murphy-shleifer-vishny-rent-seeking-growth, baumol-unproductive-entrepreneurship, rothschild-scheuer-rent-seeking, acemoglu-johnson-robinson-colonial-origins]
+supported_by: [murphy-shleifer-vishny-allocation-talent, murphy-shleifer-vishny-rent-seeking-growth, baumol-unproductive-entrepreneurship, rothschild-scheuer-rent-seeking, acemoglu-johnson-robinson-colonial-origins, tullock-transitional-gains-trap, mazzucato-mapping-rents]
 challenged_by: [ansolabehere-money-in-politics]
 excerpt: "When capturing existing wealth pays better than creating new wealth, talent and effort flow into rent-seeking and growth suffers — the mainstream-economics core of the Georgist diagnosis, with strong theory and historical evidence but contested magnitudes."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — When capturing existing wealth pays better than creating it, talent and resources shift from production into rent-seeking and growth falls — a mechanism strongly grounded in theory and history, though its aggregate magnitude is not pinned down.
@@ -140,6 +140,8 @@ developed on [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/)
 Extending the argument beyond land to finance, platforms and IP inherits the full
 uncertainty of the rent gradient: the further the rent is from land, the more its
 "capture" may be the reward for creation.
+
+**An entrenchment channel.** [Tullock's transitional-gains trap](/wiki/tullock-transitional-gains-trap/) explains why rent-granting programs are so hard to unwind: once a privilege capitalizes into asset prices, repealing it imposes losses on current holders — locking the inefficiency in place.
 
 ## See Also
 

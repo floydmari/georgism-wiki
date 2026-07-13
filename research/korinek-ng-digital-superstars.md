@@ -11,7 +11,7 @@ last_reviewed: 2026-07-09
 source_url: https://drive.google.com/file/d/1inCe3I17YeWY177U8GA93wB6IkJPMyrc/view
 stub: false
 subcategory: wiki-research-resources
-supports_outcomes: []
+supports_outcomes: [corporate-profits-increasingly-rents]
 tags:
 - research
 - digital-economy

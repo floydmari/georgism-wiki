@@ -5,14 +5,14 @@ claim_type: problem
 tags: [outcomes, fire-sector, finance-rents, mortgage, land, credit, geoism]
 stub: false
 evidence_strength: "Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent."
-supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, mian-sufi-verner-household-debt, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy]
+supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, mian-sufi-verner-household-debt, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy, bezemer-samarina-zhang-debt-shift, stiglitz-land-credit-inequality, capozza-green-hendershott-residential-land, vague-brief-history-of-doom, werner-princes-of-the-yen]
 excerpt: "Over the past century the expansion of banking in advanced economies has been, above all, the expansion of mortgage lending — and the value that lending is secured against is overwhelmingly land, not buildings. Much of what looks like 'financial deepening' is the banking system capitalising and collecting land rent."
 challenged_by: []
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Long-run cross-country data show the growth of modern banking is overwhelmingly mortgage credit against real estate whose rising value is mostly land; the further step that finance income itself is land rent is weaker and contested.
-> **Evidence:** Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent. · **5 supporting** sources · **0 challenging**
+> **Evidence:** Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent. · **6 supporting** sources · **0 challenging**
 > **Strongest support:** [The Great Mortgaging](/wiki/great-mortgaging/) — across 17 economies the mortgage share of bank lending roughly doubled, from ~30% in 1900 to ~60% by 2007. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
@@ -52,7 +52,15 @@ strong long-run evidence.
   overall credit plummeted," and "the share of household mortgage credit issued by banks
   rose from about 20 to 50 percent of all credit."[3] Their stronger interpretive step —
   that this credit *income* is itself rent — is the contested claim flagged in Honest
-  Scope below; the mortgage-share composition figure cited here is not.
+  Scope below; the mortgage-share composition figure cited here is not. The same
+  composition finding holds on the widest panel yet assembled:
+  [Bezemer, Samarina & Zhang (2017/2020)](/wiki/bezemer-samarina-zhang-debt-shift/) build a
+  new disaggregated bank-credit dataset for **74 economies, 1990–2013/2016**, and document
+  "the shift in bank credit allocation away from traditional business lending" toward
+  household mortgages — the "debt shift" — finding it larger where financial deregulation
+  went furthest. It measures the destination of credit (mortgages vs business loans), not
+  the land-vs-structure split of the collateral, so the "appreciating collateral is land"
+  step still comes from the house-price literature.[5]
 - **And it does not behave like productive "deepening."**
   [Mian, Sufi & Verner (2017)](/wiki/mian-sufi-verner-household-debt/), on an
   independent panel of 30 countries from 1960 to 2012, show that a rise in the
@@ -101,6 +109,8 @@ a rentier bloc by classification). The claim on this page is the one the evidenc
 carries cleanly: the modern financial system is, first and foremost, in the business of
 lending against land.
 
+**Further corroboration.** [Stiglitz (2015)](/wiki/stiglitz-land-credit-inequality/) supplies the theoretical land–credit link: looser financial policy inflates land-backed wealth without adding productive capacity. [Capozza, Green & Hendershott](/wiki/capozza-green-hendershott-residential-land/) find mortgage-related tax preferences capitalize fully into residential land prices — the credit-to-land link at the metro level. [Vague's](/wiki/vague-brief-history-of-doom/) survey of six countries over two centuries finds real-estate lending the dominant component of the private-debt run-ups before crises, and [Werner](/wiki/werner-princes-of-the-yen/) documents bank credit steered into real estate through Japan's 'window guidance' (a contested credit-school account).
+
 ## See Also
 
 - [Credit Window Guidance](/wiki/credit-window-guidance/) — the sector-directed-credit tool Japan, Korea, and Taiwan used to steer bank lending toward production and, at times, away from land speculation
@@ -112,6 +122,7 @@ lending against land.
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the income-side evidence, kept honest
 - [Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide](/wiki/mian-sufi-verner-household-debt/) — the independent 30-country result that the mortgage-credit expansion predicts *slower* growth, not the productive deepening it is taken for
 - [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the interpretive companion that reads this composition as rent · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the credit-side steelman
+- [Bezemer, Samarina & Zhang: The Shift in Bank Credit Allocation](/wiki/bezemer-samarina-zhang-debt-shift/) — the widest-panel (74-economy) confirmation of the debt shift toward mortgage credit
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/)
 - [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — where this "credit is land credit" point does its work
 - [Geoism](/wiki/geoism/) — the rent-domain program and its gradient
@@ -141,3 +152,9 @@ lending against land.
    unemployment across 30 countries, 1960–2012, and does not fund investment growth — the
    evidence that the mortgage-credit expansion is not productive "deepening."
    [wiki summary](/wiki/mian-sufi-verner-household-debt/)
+5. Dirk J. Bezemer, Anna Samarina & Lu Zhang (2017), "The Shift in Bank Credit Allocation:
+   New Data and New Findings," De Nederlandsche Bank Working Paper No. 559 (peer-reviewed
+   version: *Journal of Banking & Finance* 113, 2020) — used for the 74-economy
+   disaggregated-credit dataset and the documented "shift in bank credit allocation away
+   from traditional business lending" toward household mortgages ("debt shift").
+   [wiki summary](/wiki/bezemer-samarina-zhang-debt-shift/) · [SSRN](https://ssrn.com/abstract=2992621)

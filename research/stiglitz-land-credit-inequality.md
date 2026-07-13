@@ -8,6 +8,7 @@ year: 2015
 source_url: https://www.nber.org/papers/w21192
 tier: core
 stub: true
+supports_outcomes: [rising-land-costs-drive-poverty, capital-share-rise-is-land, finance-growth-is-land-credit]
 excerpt: "Stiglitz's NBER working paper arguing that most of the modern rise in the wealth-income ratio and wealth inequality reflects rising land values, not productive capital, and that taxing land returns could raise incomes and reduce inequality."
 last_reviewed: 2026-07-12
 bears_on_objections: [land-no-longer-matters]

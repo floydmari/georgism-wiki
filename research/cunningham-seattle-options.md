@@ -11,7 +11,7 @@ stub: false
 excerpt: "Seattle parcel-level evidence that house-price uncertainty raises vacant land prices and delays development — a direct empirical test of real-options theory in land markets, not a study of any tax."
 last_reviewed: 2026-07-12
 bears_on_objections: [land-speculation-is-productive]
-supports_outcomes: [lvt-dampens-land-speculation]
+supports_outcomes: [lvt-dampens-land-speculation, speculative-vacancy-wastes-cities]
 ---
 
 ## Summary

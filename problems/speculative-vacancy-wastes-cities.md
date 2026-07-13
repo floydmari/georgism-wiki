@@ -5,14 +5,14 @@ claim_type: problem
 tags: [outcomes, speculative-vacancy, empty-homes, land-banking, underuse, housing]
 stub: false
 evidence_strength: "Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested)"
-supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, prosper-speculative-vacancies, vancouver-empty-homes-tax]
-challenged_by: []
-excerpt: "Even where housing demand is most acute, homes sit empty for years and valuable land is used far below its potential — documented by quasi-experimental tax evidence from France, vacant-lot price data from US metros, and water-meter counts in Melbourne. Magnitude and cause remain contested."
-last_reviewed: 2026-07-12
+supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, vancouver-empty-homes-tax, letwin-build-out-review, prosper-speculative-vacancies, cunningham-seattle-options, hoyt-chicago-land-values, simpson-real-estate-speculation-depression]
+challenged_by: [glaeser-gyourko-housing-supply]
+excerpt: "Even where housing demand is most acute, homes sit empty for years and valuable land is used far below its potential — documented by quasi-experimental tax evidence from France, vacant-lot price data from US metros, a UK government build-out review, and water-meter counts in Melbourne. Magnitude and cause remain contested."
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Even in cities where housing demand is most acute, a persistent stock of dwellings sits empty and valuable land is used well below its potential; the phenomenon is well documented across independent methods, though how much is speculative withholding rather than friction or zoning is contested.
-> **Evidence:** Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested) · **4 supporting** sources · **0 challenging**
+> **Evidence:** Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested) · **5 supporting** sources · **0 challenging**
 > **Strongest support:** [Segú (2020)](/wiki/segu-vacancy-tax-france/) — French microdata show long-term vacancy large enough that a vacancy tax cut it about 13%, returning roughly 40,000 dwellings to use. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
@@ -47,7 +47,13 @@ the option mechanism in Seattle parcel data). The
 [land banking](/wiki/land-speculation/) is the same calculus applied to development
 land, where — as [Prosper's report](/wiki/prosper-speculative-vacancies/) argues —
 "developers strategically delay financially feasible developments" to maximise
-staged-release profits. The Georgist relevance is direct: a
+staged-release profits. The UK government's
+[Letwin Review (2018)](/wiki/letwin-build-out-review/) documented exactly this
+staged release on England's largest permissioned sites in high-demand areas — a median
+build-out period of 15.5 years, and just 3.2% of London mega-sites completed per year —
+though it attributed the slow pace to builders metering completions to the "market
+absorption rate" (selling no faster than the local market will buy without a price fall)
+rather than to speculation on future land prices. The Georgist relevance is direct: a
 [land value tax](/wiki/land-value-tax/) converts the waiting option into an annual
 carrying cost (see [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/)).
 
@@ -93,6 +99,13 @@ Ordered by evidential weight:
   view, taxing idle land without rezoning changes little, because building more is
   illegal regardless of holding costs. (The mechanisms are compatible — owners can
   land-bank within a zoning envelope — but the evidence does not apportion the blame.)
+  The [Letwin Review](/wiki/letwin-build-out-review/) sharpens this caveat from a third
+  angle: investigating slow build-out on large English sites, it explicitly rejected the
+  crude "land banking for capital gain" thesis, locating the cause instead in the
+  *market absorption rate* — builders release homes only as fast as the local market
+  absorbs them at price. That is strategic supply restriction, but of a price-protecting
+  rather than appreciation-betting kind; citing slow build-out as proof of speculative
+  withholding overstates what the evidence shows.
 - **Measurement disputes.** Consumption-proxy vacancy counts are contested: Prosper's
   own ABS electricity benchmark finds 1.4% zero-use against 1.9% in the water sample
   for the comparable year, and listing-based rental vacancy rates in the same cities
@@ -118,11 +131,14 @@ underuse and ordinary friction — remains unresolved. Advocates can safely say 
 twenty Melbourne homes sat empty or barely used in 2023, and vacancy falls when you
 tax it"; they should not say "speculators are the cause of the housing crisis."
 
+**Further corroboration.** [Simpson (1933)](/wiki/simpson-real-estate-speculation-depression/) counted roughly 335,000 vacant subdivided lots still unsold in 1920s Cook County — an eyewitness data point for speculative land withholding at scale, though he folded it into the wider Depression.
+
 ## See Also
 
 - [Speculative Vacancy](/wiki/speculative-vacancy/) · [Land Speculation](/wiki/land-speculation/) · [Land Monopoly](/wiki/land-monopoly/)
 - [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) — the prescription-side companion page
 - [Cunningham (2006), Seattle real options](/wiki/cunningham-seattle-options/) — the waiting mechanism
+- [Letwin Review (2018)](/wiki/letwin-build-out-review/) — UK government evidence on slow build-out of permissioned land
 - [Prosper Australia](/wiki/prosper-australia/) · [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 
@@ -152,3 +168,10 @@ tax it"; they should not say "speculators are the cause of the housing crisis."
 5. Edward Glaeser & Joseph Gyourko (2018), "The Economic Implications of Housing
    Supply," *JEP* 32(1). [wiki summary](/wiki/glaeser-gyourko-housing-supply/) — used
    for the zoning counter-frame (B-claims).
+6. Oliver Letwin (2018), *Independent Review of Build Out: Final Report*, Cm 9720,
+   MHCLG / HM Treasury.
+   [GOV.UK](https://www.gov.uk/government/publications/independent-review-of-build-out-final-report)
+   · [wiki summary](/wiki/letwin-build-out-review/) — used for the slow build-out of
+   permissioned land in high-demand areas (15.5-year median; 3.2%/yr London mega-sites)
+   and the absorption-rate refinement of the land-banking mechanism (B-claims;
+   government review).

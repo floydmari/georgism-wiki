@@ -9,9 +9,8 @@ excerpt: A foundational paper constructing a quarterly price and quantity index 
 last_reviewed: 2026-07-03
 source_url: https://www.sciencedirect.com/science/article/abs/pii/S0304393207000700
 stub: false
+supports_outcomes: [capital-share-rise-is-land, land-rent-could-fund-government]
 subcategory: wiki-research-resources
-supports_outcomes:
-- land-rent-could-fund-government
 tags:
 - research
 - land-value
@@ -67,6 +66,8 @@ The Davis-Heathcote series and the Davis-Palumbo (2008) city-level series togeth
 
 ## See Also
 
+
+- [Stewart: land values in Canadian house-price growth](/wiki/stewart-canadian-land-house-prices/) — a directly-observed-land-price decomposition, land dominant but varying greatly by city
 - [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — the hedonic check on this residual method · [Hudson 2001](/wiki/hudson-where-did-all-the-land-go/) — the critique of Fed land accounting
 
 - [Larson — New Estimates of Value of Land of the United States](/wiki/larson-us-land-value/)

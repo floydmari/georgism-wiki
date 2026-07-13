@@ -8,9 +8,8 @@ excerpt: BIS/RBA paper showing the postwar rise in US housing's income share is 
 last_reviewed: 2026-07-03
 source_url: https://www.bis.org/publ/work572.pdf
 stub: false
+supports_outcomes: [rising-land-costs-drive-poverty, housing-unaffordability-is-a-land-problem, capital-share-rise-is-land]
 subcategory: wiki-research-housing
-supports_outcomes:
-- capital-share-rise-is-land
 tags:
 - research
 - capital-share

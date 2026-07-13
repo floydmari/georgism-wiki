@@ -8,6 +8,7 @@ excerpt: A framework distinguishing value-creating activity from value-extractin
   economic rent across land, finance, and digital platforms.
 source_url: https://discovery.ucl.ac.uk/id/eprint/10172018/1/bead013.pdf
 stub: false
+supports_outcomes: [corporate-profits-increasingly-rents, rent-seeking-drags-growth]
 subcategory: wiki-research-housing
 tags:
 - research

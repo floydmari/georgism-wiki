@@ -5,14 +5,14 @@ claim_type: problem
 tags: [outcomes, capital-share, land, housing, inequality, piketty]
 stub: false
 evidence_strength: "Strong (independently replicated across US and European data)"
-supported_by: [rognlie-capital-share, knoll-schularick-steger-house-prices, bonnet-land-is-back, la-cava-housing-capital-share, furman-orszag-firm-rents, bakker-land-rents-tfp]
+supported_by: [rognlie-capital-share, knoll-schularick-steger-house-prices, bonnet-land-is-back, la-cava-housing-capital-share, furman-orszag-firm-rents, bakker-land-rents-tfp, kerspien-madsen-strulik-buildings-labor-share, rognlie-piketty-note, stiglitz-land-credit-inequality, davis-heathcote-us-land]
 challenged_by: [autor-superstar-firms, barkai-declining-shares]
 excerpt: "The much-discussed rise in capital's share of income is, on decomposition, overwhelmingly a rise in the value of land under housing — vindicating a core Georgist claim."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — When the modern rise in the capital share is decomposed, it is mostly rising housing — and therefore land — value rather than reproducible capital, a result independently replicated across US and European data.
-> **Evidence:** Strong (independently replicated across US and European data) · **6 supporting** sources · **2 challenging**
+> **Evidence:** Strong (independently replicated across US and European data) · **7 supporting** sources · **2 challenging**
 > **Strongest support:** [Rognlie (2015)](/wiki/rognlie-capital-share/) — the long-run rise in the net capital share is concentrated in housing; ex-housing, capital's share is roughly flat. **Strongest counter:** [Autor et al. (2020)](/wiki/autor-superstar-firms/) — reads the falling labor share as a shift toward high-markup "superstar firms," capping how much the land story can claim.
 
 ## The Claim
@@ -59,17 +59,22 @@ side of the ledger in full.
 
 If inequality's capital dimension is really a **land** dimension, a tax on land values targets the actual driver — without the efficiency cost of taxing productive capital. This connects 21st-century inequality research directly to Henry George's 19th-century diagnosis in *[Progress and Poverty](/wiki/progress-and-poverty/)*.
 
+A further confirmation arrives from the factor-share side. [Kerspien, Madsen & Strulik (2025, *European Economic Review*)](/wiki/kerspien-madsen-strulik-buildings-labor-share/), using annual data for 16 advanced economies over two centuries, find the post-1980 decline in the labour share is driven "not by the overall quantity of capital, but by its changing composition" — above all the rising real price of **buildings** — reinforcing the reading that the shift away from labour is a real-estate phenomenon rather than an equipment one. (They frame the appreciating asset as "buildings" and leave the land-versus-structure split to the house-price literature, so the "buildings are land" step is supplied by Knoll et al., not by this paper.)
+
 ## Strength of Evidence
 
 **Strong** — independently replicated across US and European datasets by separate research teams.
 
 An independent macro confirmation comes from [Bakker (2023, IMF)](/wiki/bakker-land-rents-tfp/): standard growth decompositions overstate capital's contribution by "failing to account for the substantial part of capital income directed to urban land rents" — recorded capital income is partly land rent, which is this claim stated from the measurement side.
 
+**Further corroboration.** [Rognlie's 2014 note](/wiki/rognlie-piketty-note/) first showed the net-capital-share rise is concentrated in housing and land, and that diminishing returns to capital undercut Piketty's mechanical rising-share logic. [Stiglitz (2015)](/wiki/stiglitz-land-credit-inequality/) reaches the same conclusion from theory: most of the rising wealth-to-income ratio reflects rising land values, not productive capital. [Davis & Heathcote's](/wiki/davis-heathcote-us-land/) Fed-affiliated series shows residential land's share of housing value rising to 46% by 2006, with land prices roughly three times more volatile than structures.
+
 ## See Also
 
 - [McKinsey Global Institute (2021): The Rise and Rise of the Global Balance Sheet](/wiki/mckinsey-global-balance-sheet/) — mainstream institutional balance-sheet evidence that real estate dominates global net worth, corroborating the land-share-of-wealth story from outside the academic capital-share literature
 - [Blanco, Bauluz & Martínez-Toledano (2018), Wealth in Spain 1900-2014](/wiki/blanco-spain-two-lands/) — a national case study (Spain) extending the land-decomposition finding to a country where land's share of wealth is unusually pronounced
 - [Hornbeck & Moretti: who benefits from productivity growth](/wiki/hornbeck-moretti-tfp-incidence/) — "the split between labor and land is potentially more consequential... than the split between labor and capital"
+- [Kerspien, Madsen & Strulik (2025): Capital Composition and the Decline of the Labor Share](/wiki/kerspien-madsen-strulik-buildings-labor-share/) — 16-country, two-century evidence that the labour-share decline tracks rising real building prices, not the quantity of reproducible capital
 
 - [Piketty, Capital in the Twenty-First Century](/wiki/piketty-capital-21st-century/) — the dataset the land decomposition reinterprets (context source)
 

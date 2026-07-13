@@ -7,6 +7,7 @@ excerpt: Rognlie's first, widely circulated critique of Piketty — showing the 
   returns.
 source_url: https://gabriel-zucman.eu/files/teaching/Rognlie14.pdf
 stub: false
+supports_outcomes: [capital-share-rise-is-land]
 subcategory: wiki-research-inequality
 tags:
 - research

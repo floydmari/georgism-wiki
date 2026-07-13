@@ -92,6 +92,8 @@ This claim's evidence base has real weaknesses, and honest use requires stating 
 
 ## See Also
 
+
+- [Albouy: What Are Cities Worth?](/wiki/albouy-what-are-cities-worth/) — evidence that productivity, not amenities, drives most cross-city land-rent variation (the premise this claim builds on, not the suppression conclusion)
 - [Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/) — the mirror-image benefit claim, with the least-harmful vs raises-productivity gap kept explicit
 - [The capital-share rise is really land](/wiki/capital-share-rise-is-land/) — where Bakker's measurement argument (land rents hidden inside measured capital income) actually bears
 - [Land capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/) — why capturing land value without relaxing supply need not lower costs
