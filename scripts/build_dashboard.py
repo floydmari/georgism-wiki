@@ -81,7 +81,7 @@ def _scalar(v):
 
 def grade(evidence_strength):
     """(label, rank) from the leading word of an evidence_strength string."""
-    token = (evidence_strength or "").strip().split()[:1]
+    token = (evidence_strength or "").strip().lstrip("'\"").split()[:1]
     token = token[0] if token else ""
     norm = token.lower().replace("–", "-").replace("—", "-")
     norm = norm.replace("-to-", "-").rstrip(":;,.")

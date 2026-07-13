@@ -18,7 +18,6 @@ stub: false
 subcategory: wiki-research-urban
 supports_outcomes:
 - land-rent-could-fund-government
-- resource-rent-dividends-work
 tags:
 - research
 - online-writing

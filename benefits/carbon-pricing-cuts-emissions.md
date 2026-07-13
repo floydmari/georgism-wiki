@@ -1,19 +1,39 @@
 ---
-title: "Carbon pricing cuts emissions — modestly, and without wrecking growth"
 category: benefits
+challenged_by:
+- pretis-bc-carbon-tax
 claim_type: benefit
-tags: [outcomes, carbon-pricing, ecological-georgism, atmosphere-commons, pigouvian, geoism]
+evidence_strength: Moderate-to-strong for real, measurable emissions reductions across
+  several designs; magnitudes are modest and prices usually sit below the social cost
+  of carbon; aggregate causal effects are debated for the flagship case
+excerpt: 'Pricing the scarce right to emit — charging for use of the atmospheric commons
+  — measurably reduces emissions wherever it has been tried, at little cost to growth:
+  British Columbia''s revenue-neutral carbon tax cut per-capita fuel use ~19% while
+  GDP outpaced the rest of Canada; a meta-analysis of 80 causal evaluations, cross-country
+  and EU-ETS evidence agree the effect is real, if modest.'
+last_reviewed: 2026-07-13
 stub: false
-evidence_strength: "Moderate-to-strong for real, measurable emissions reductions across several designs; magnitudes are modest and prices usually sit below the social cost of carbon; aggregate causal effects are debated for the flagship case"
-supported_by: [ecological-georgism, pigouvian-taxation, andersson-sweden-carbon-tax, dobbeling-carbon-pricing-meta-analysis, green-carbon-pricing-review, bayer-aklin-eu-ets, metcalf-stock-europe-carbon-taxes]
-excerpt: "Pricing the scarce right to emit — charging for use of the atmospheric commons — measurably reduces emissions wherever it has been tried, at little cost to growth: British Columbia's revenue-neutral carbon tax cut per-capita fuel use ~19% while GDP outpaced the rest of Canada; a meta-analysis of 80 causal evaluations, cross-country and EU-ETS evidence agree the effect is real, if modest."
-challenged_by: []
-last_reviewed: 2026-07-12
+supported_by:
+- ecological-georgism
+- pigouvian-taxation
+- andersson-sweden-carbon-tax
+- dobbeling-carbon-pricing-meta-analysis
+- green-carbon-pricing-review
+- bayer-aklin-eu-ets
+- metcalf-stock-europe-carbon-taxes
+tags:
+- outcomes
+- carbon-pricing
+- ecological-georgism
+- atmosphere-commons
+- pigouvian
+- geoism
+title: Carbon pricing cuts emissions — modestly, and without wrecking growth
 ---
 
 > **At a glance** — Carbon pricing produces real, measurable emissions reductions across several designs, but the reductions are modest, prices usually sit below the social cost of carbon, and the size of the aggregate effect is debated even in the best-studied case.
 > **Evidence:** Moderate-to-strong for real, measurable emissions reductions across several designs; magnitudes are modest and prices usually sit below the social cost of carbon; aggregate causal effects are debated for the flagship case · **7 supporting** sources · **0 challenging**
-> **Strongest support:** [Döbbeling-Hildebrandt et al. (2024)](/wiki/dobbeling-carbon-pricing-meta-analysis/) — a meta-analysis of 80 causal evaluations finds carbon pricing produced immediate, statistically significant cuts of roughly 5–21% per scheme. No structural counter-evidence is currently wired; see Limits.
+> **Strongest support:** [Döbbeling-Hildebrandt et al. (2024)](/wiki/dobbeling-carbon-pricing-meta-analysis/) — a meta-analysis of 80 causal evaluations finds carbon pricing produced immediate, statistically significant cuts of roughly 5–21% per scheme. **Strongest qualifier:** [Green (2021)](/wiki/green-carbon-pricing-review/) — a review of 37 ex-post studies concludes the aggregate impact is "limited" (0–2%/yr), and a skeptical re-analysis of the flagship BC case (Pretis 2022) finds the province-wide emissions effect weaker and less robust than the headline; the aggregate causal magnitude is genuinely contested. See The Honest Counter-Texture.
 
 ## The Claim
 
@@ -83,7 +103,7 @@ without overstating the emissions effect.[9]
 ## The Honest Counter-Texture
 
 The magnitudes should not be oversold. A skeptical causal re-analysis of British
-Columbia (Pretis 2022) finds statistically significant reductions concentrated in
+Columbia ([Pretis 2022](/wiki/pretis-bc-carbon-tax/)) finds statistically significant reductions concentrated in
 **transport fuels** but a weaker, less robust effect on the province's *aggregate*
 emissions — a reminder that the headline "19%" is a consumption figure, not a
 clean province-wide emissions counterfactual.[6] And across the board, carbon prices

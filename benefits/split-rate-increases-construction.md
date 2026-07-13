@@ -8,7 +8,7 @@ evidence_strength: "Moderate–strong (three peer-reviewed Pennsylvania studies,
 supported_by: [plassmann-tideman-construction, oates-schwab-pittsburgh, banzhaf-lavery-pa-sprawl, lyytikainen-finland-three-rate, yang-split-rate-tax-base, brueckner-site-value-taxation, harrison-power-in-the-land, bourassa-pittsburgh-lvt-housing, edwards-site-value-taxation-australia, tomson-estonia-lvt, victoria-svr-nav-comparison, cho-two-rate-density, site-value-ge-simulations, murphy-seegert-implicit-land-taxes]
 challenged_by: [bentick-mills-timing-neutrality, gemmell-grimes-skidmore-nz]
 excerpt: "Across US, Australian and Finnish case studies, shifting property tax off buildings and onto land is followed by more construction — the effect Georgist theory predicts."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Taxing land more heavily than buildings tends to increase construction relative to comparable jurisdictions — consistent across Pennsylvania studies, the Pittsburgh natural experiment, and a Finnish natural experiment — though a New Zealand null and a timing critique keep it short of decisive.

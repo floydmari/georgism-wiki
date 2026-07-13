@@ -8,7 +8,7 @@ evidence_strength: "Strong quasi-experimental for the debt-bias/leverage effect;
 supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, panier-perez-gonzalez-villanueva-belgium-ace, petutschnig-runger-austria-ace, power-frerick-excess-returns, domar-musgrave-risk]
 challenged_by: [hebous-ruf-ace]
 excerpt: "Corporate tax bases that exempt the normal return and tax only above-normal returns — the ACE and cash-flow designs — demonstrably remove the tax subsidy to leverage and, in the expensing variant, stimulate investment. The honest limits: multinationals arbitraged unilateral versions, every full European ACE was repealed, and some of what such taxes reach is quasi-rent."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Rent-targeting corporate taxes — the allowance for corporate equity and cash-flow taxes — reduce the tax subsidy to debt and leave marginal investment untaxed, strongly supported by quasi-experiments for the leverage effect and positively for expensing-driven investment, though effects on multinationals' real investment are contested.

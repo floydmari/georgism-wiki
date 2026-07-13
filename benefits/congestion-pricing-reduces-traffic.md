@@ -7,12 +7,12 @@ stub: false
 evidence_strength: "Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature"
 supported_by: [congestion-pricing, leape-london-congestion-charge, eliasson-stockholm-trial-2006, gibson-carnovale-road-pricing-pollution, cook-nyc-congestion-pricing, phang-toh-singapore-congestion-pricing]
 excerpt: "Charging for scarce peak road space produces large, measured falls in traffic and congestion wherever it has been tried — Singapore (1975), London (2003), Stockholm (2006), New York (2025) — and Stockholm's cost-benefit analysis, built on measured data, shows the social benefits recover the system's cost in about four years. The strongest quasi-experimental evidence for any non-land rent-capture instrument."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Congestion pricing reliably and durably cuts traffic and congestion, and in the best-studied cases its social benefits comfortably exceed its costs — one of the most repeatedly real-world-tested non-land Geoist instruments.
 > **Evidence:** Strong for traffic/congestion reduction and net social benefit (repeated real-world quasi-experiments + a measured-data cost-benefit analysis); the rent-capture framing is analytic, not from the primary literature · **6 supporting** sources · **0 challenging**
-> **Strongest support:** [Gibson & Carnovale (2015)](/wiki/gibson-carnovale-road-pricing-pollution/) — Milan's charge cut vehicle entries about 14.5% and pollution 6–17%, identified by an unanticipated court suspension. No structural counter-evidence is currently wired; see Limits.
+> **Strongest support:** [Gibson & Carnovale (2015)](/wiki/gibson-carnovale-road-pricing-pollution/) — Milan's charge cut vehicle entries about 14.5% and pollution 6–17%, identified by an unanticipated court suspension. No study wired here disputes the *traffic-reduction* effect; the honest qualifiers are political (Gothenburg's 2014 "no" referendum), distributional (flat charges are regressive per trip), and, in the New York short run, "little-to-no effect on air quality." See The Honest Counter-Texture.
 
 ## The Claim
 

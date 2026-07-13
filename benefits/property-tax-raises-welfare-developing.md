@@ -5,13 +5,13 @@ claim_type: benefit
 tags: [outcomes, property-tax, developing-countries, welfare, empirical]
 stub: false
 evidence_strength: "Moderate (rigorous causal evidence now from two countries — Mexico and DR Congo — but with an important state-capacity ceiling caveat, and the welfare channel partly inferred from revenue and compliance)"
-supported_by: [brockmeyer-property-tax-developing, bergeron-tourek-weigel-drc-property-tax, imf-taxing-immovable-property, franzsen-mccluskey-property-tax-africa, imf-building-tax-capacity, world-bank-property-tax-determinants]
+supported_by: [brockmeyer-property-tax-developing, bergeron-tourek-weigel-drc-property-tax, imf-taxing-immovable-property, franzsen-mccluskey-property-tax-africa, imf-building-tax-capacity, world-bank-property-tax-determinants, almy-oecd-valuation-assessment, bencure-ilvm-baybay-philippines]
 excerpt: "Causal evidence from Mexico shows raising property-tax rates increases welfare, and a randomized DR Congo experiment confirms property tax's fiscal value — though both find that weak enforcement can make rate increases self-defeating."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — In developing countries, raising recurrent property-tax rates tends to raise welfare with little distortion — now shown causally in Mexico and DR Congo — but the benefit is conditional on enforcement capacity and the welfare channel is partly inferred from revenue and compliance.
-> **Evidence:** Moderate (rigorous causal evidence now from two countries — Mexico and DR Congo — but with an important state-capacity ceiling caveat, and the welfare channel partly inferred from revenue and compliance) · **6 supporting** sources · **0 challenging**
+> **Evidence:** Moderate (rigorous causal evidence now from two countries — Mexico and DR Congo — but with an important state-capacity ceiling caveat, and the welfare channel partly inferred from revenue and compliance) · **8 supporting** sources · **0 challenging**
 > **Strongest support:** [Brockmeyer et al. (2021)](/wiki/brockmeyer-property-tax-developing/) — natural experiments in Mexico find property-tax rate increases raised welfare, with gains from the rate on compliant owners rather than coercive enforcement. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
@@ -38,6 +38,19 @@ constrained in practice by valuation, identification, and enforcement capacity.
 Together they frame the experimental evidence: the welfare gains are real where
 administration works, and administration is the binding constraint.
 
+On whether that constraint can be overcome, two valuation studies are cautiously
+encouraging without themselves measuring welfare.
+[Almy's OECD survey of 172 countries (2014)](/wiki/almy-oecd-valuation-assessment/)
+documents that computer-assisted mass appraisal can value property for on the order
+of EUR 20 per parcel, with high-quality systems achieving roughly 10% valuation
+error — evidence that the assessment machinery the gains depend on is affordable in
+principle. And [Bencure et al. (2019)](/wiki/bencure-ilvm-baybay-philippines/) — the
+only developing-country mass-appraisal case in this corpus — show an AHP-based model
+explaining about 67% of land-value variability in Baybay City, Philippines, and
+outperforming ordinary regression appraisal. Both speak to *feasibility of the
+enabling condition* rather than to the welfare effect itself: they show the binding
+constraint is loosenable, not that loosening it delivers measured welfare gains.
+
 ## Counter-Evidence and Limits
 
 - **The state-capacity ceiling.** [Bergeron, Tourek & Weigel (2024)](/wiki/bergeron-tourek-weigel-drc-property-tax/) is a caution as much as a confirmation: where enforcement is very weak, raising rates beyond the ceiling *reduces* revenue because delinquency rises faster than the rate. "Raise the rate" is not a free lever — it works only in tandem with enforcement capacity, which is exactly what poor states lack.
@@ -51,6 +64,8 @@ administration works, and administration is the binding constraint.
 ## See Also
 
 - [Bergeron, Tourek & Weigel (2024): randomized property-tax rates in the DRC](/wiki/bergeron-tourek-weigel-drc-property-tax/)
+- [Almy (OECD, 2014): valuation and assessment across 172 countries](/wiki/almy-oecd-valuation-assessment/) — the administrative-feasibility evidence
+- [Bencure et al. (2019): mass appraisal in Baybay City, Philippines](/wiki/bencure-ilvm-baybay-philippines/) — developing-country valuation done
 - [Land Value Tax](/wiki/land-value-tax/) · [Deadweight Loss](/wiki/deadweight-loss/)
 
 ## Sources

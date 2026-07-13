@@ -16,6 +16,8 @@ last_reviewed: 2026-07-11
 source_url: https://www.mdpi.com/2071-1050/11/13/3731
 stub: false
 subcategory: wiki-research-lvt
+supports_outcomes:
+- property-tax-raises-welfare-developing
 tags:
 - research
 - assessment

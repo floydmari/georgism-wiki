@@ -1,16 +1,34 @@
 ---
-title: "Welfare Effects of a Permanent Unconditional Cash Transfer: Maricá, Brazil (Balakrishnan et al., 2024)"
+authors:
+- Sidhya Balakrishnan
+- Roberta Costa
+- Johannes Haushofer
+- Fábio Waltenberg
 category: research
-subcategory: wiki-research-inequality
-tags: [research, resource-rents, citizens-dividend, oil-royalties, basic-income, poverty, brazil, empirical]
-authors: [Sidhya Balakrishnan, Roberta Costa, Johannes Haushofer, Fábio Waltenberg]
-year: 2024
-tier: Important
+excerpt: A study of Maricá, Brazil's oil-royalty-funded 'Citizen's Basic Income' —
+  the largest basic income in Latin America and a rare permanent, unconditional, resource-rent-funded
+  dividend. Recipients' household income rose 9% and household consumption 5%, though
+  labor income fell 17%.
+last_reviewed: 2026-07-12
 source_url: https://doi.org/10.3386/w33089
 stub: false
-excerpt: "A study of Maricá, Brazil's oil-royalty-funded 'Citizen's Basic Income' — the largest basic income in Latin America and a rare permanent, unconditional, resource-rent-funded dividend. Recipients' household income rose 9% and household consumption 5%, though labor income fell 17%."
-last_reviewed: 2026-07-12
-supports_outcomes: [rent-dividends-reduce-poverty]
+subcategory: wiki-research-inequality
+supports_outcomes:
+- rent-dividends-reduce-poverty
+- resource-rent-dividends-work
+tags:
+- research
+- resource-rents
+- citizens-dividend
+- oil-royalties
+- basic-income
+- poverty
+- brazil
+- empirical
+tier: Important
+title: 'Welfare Effects of a Permanent Unconditional Cash Transfer: Maricá, Brazil
+  (Balakrishnan et al., 2024)'
+year: 2024
 ---
 
 ## Summary

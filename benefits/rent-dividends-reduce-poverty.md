@@ -1,18 +1,42 @@
 ---
-title: "Rent dividends reduce poverty and inequality"
 category: benefits
+challenged_by:
+- martinez-colombia-resource-rents
+- watson-guettabi-reimer-cash-crime
+- kozminski-baek-alaska-inequality
 claim_type: benefit
-tags: [outcomes, resource-rents, citizens-dividend, poverty, inequality, alaska]
+evidence_strength: Moderate (direct poverty evidence is descriptive or simulated;
+  causal work rules out an employment offset rather than measuring poverty; one econometric
+  study finds inequality worsened)
+excerpt: Descriptive and causal evidence from Alaska's Permanent Fund Dividend, a
+  second oil-royalty-funded dividend in Maricá, Brazil, and a peer-reviewed global
+  simulation indicate that distributing rent as equal per-capita dividends reduces
+  poverty and compresses the income distribution — though one econometric study finds
+  inequality worsened and a lump-sum-timing study finds a short-run substance-abuse
+  spike.
+last_reviewed: 2026-07-13
 stub: false
-evidence_strength: "Moderate (direct poverty evidence is descriptive or simulated; causal work rules out an employment offset rather than measuring poverty; one econometric study finds inequality worsened)"
-supported_by: [jones-marinescu-alaska-pfd, segal-resource-dividend, goldsmith-alaska-pfd-wealth-distribution, great-smoky-mountains-casino-dividend, guettabi-pfd-effects-survey, marica-brazil-basic-income, widerquist-howard-pfd]
-challenged_by: [martinez-colombia-resource-rents]
-excerpt: "Descriptive and causal evidence from Alaska's Permanent Fund Dividend, a second oil-royalty-funded dividend in Maricá, Brazil, and a peer-reviewed global simulation indicate that distributing rent as equal per-capita dividends reduces poverty and compresses the income distribution — though one econometric study finds inequality worsened."
-last_reviewed: 2026-07-12
+supported_by:
+- jones-marinescu-alaska-pfd
+- segal-resource-dividend
+- goldsmith-alaska-pfd-wealth-distribution
+- great-smoky-mountains-casino-dividend
+- guettabi-pfd-effects-survey
+- marica-brazil-basic-income
+- widerquist-howard-pfd
+- berman-alaska-indigenous-poverty
+tags:
+- outcomes
+- resource-rents
+- citizens-dividend
+- poverty
+- inequality
+- alaska
+title: Rent dividends reduce poverty and inequality
 ---
 
 > **At a glance** — Distributing captured rent as an equal per-capita dividend reduces poverty and tends to narrow inequality, though the direct poverty evidence is descriptive or simulated, the rigorous causal study measures employment rather than poverty, and one study finds inequality worsened.
-> **Evidence:** Moderate (direct poverty evidence is descriptive or simulated; causal work rules out an employment offset rather than measuring poverty; one econometric study finds inequality worsened) · **7 supporting** sources · **1 challenging**
+> **Evidence:** Moderate (direct poverty evidence is descriptive or simulated; causal work rules out an employment offset rather than measuring poverty; one econometric study finds inequality worsened) · **7 supporting** sources · **2 challenging**
 > **Strongest support:** [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/) — Alaska's dividend had no effect on employment, so its income reaches poor households without being undone by reduced work. **Strongest counter:** [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) — in Colombia, rents routed to local governments rather than paid directly to citizens weaken local tax effort and accountability, so capture reduces poverty only when distribution is direct and per-capita.
 
 ## The Claim
@@ -47,8 +71,8 @@ Together: Alaska shows a rent dividend *did* compress the income distribution in
 
 ## Counter-Evidence
 
-- **Kozminski & Baek (2017)**, *Energy Economics* — the most direct challenge. Applying ARDL and Johansen cointegration methods to Alaska time series from 1963–2012, they report: "We find that the PFD payouts tend to worsen income inequality in Alaska in both the short- and long-run." This directly contradicts Goldsmith's quintile-based reading; the divergence (descriptive quintile trends vs. econometric inequality modeling) is unresolved in the literature, and readers should know the inequality half of this claim is contested in a way the poverty half is not.
-- **Berman (2018)**, *World Development* — supportive on direction but a caution on durability and coverage: the dividend's poverty-mitigating effect for rural Indigenous families is "substantial, although diminishing," and while Alaska Native seniors' poverty rates declined, "poverty rates for children have increased." A fixed nominal-scale dividend does not guarantee sustained or evenly distributed poverty reduction.
+- **[Kozminski & Baek (2017)](/wiki/kozminski-baek-alaska-inequality/)**, *Energy Economics* — the most direct challenge. Applying ARDL and Johansen cointegration methods to Alaska time series from 1963–2012, they report: "We find that the PFD payouts tend to worsen income inequality in Alaska in both the short- and long-run." This directly contradicts Goldsmith's quintile-based reading; the divergence (descriptive quintile trends vs. econometric inequality modeling) is unresolved in the literature, and readers should know the inequality half of this claim is contested in a way the poverty half is not.
+- **[Berman (2018)](/wiki/berman-alaska-indigenous-poverty/)**, *World Development* — supportive on direction but a caution on durability and coverage: the dividend's poverty-mitigating effect for rural Indigenous families is "substantial, although diminishing," and while Alaska Native seniors' poverty rates declined, "poverty rates for children have increased." A fixed nominal-scale dividend does not guarantee sustained or evenly distributed poverty reduction.
 - **[Martinez (2018)](/wiki/martinez-colombia-resource-rents/)** — the implementation gap. In Colombia, resource rents routed to *local governments* rather than paid directly to citizens are associated with weaker local tax effort and accountability. Rent capture only reduces poverty when the distribution mechanism is direct, transparent, and per-capita; most real-world resource windfalls are not distributed that way, which is why Segal's numbers are a ceiling.
 - **[Watson, Guettabi & Reimer (2020)](/wiki/watson-guettabi-reimer-cash-crime/)**, *Review of Economics and Statistics* — a mixed result on a downstream wellbeing outcome, carried honestly. Using the sharp timing of the Alaska payment, they find "a 14% increase in substance-abuse incidents the day after the payment and a 10% increase over the following four weeks," "partially offset by an 8% decrease in property crime, with no changes in violent crimes," and conclude that "on an annual basis ... changes in criminal activity from the payment are small." The property-crime fall points the same way as the poverty-reduces-harm thesis, but the substance-abuse spike is a genuine downside — and specifically a caution about paying rent as an infrequent **lump sum** rather than a smoothed monthly dividend.
 - **Goldsmith's own candor** — the strongest early source for the claim states plainly that as of its writing "no one has formally studied" the dividend's social impacts; the poverty language in that paper is a practitioner's judgment, not a measured estimate.

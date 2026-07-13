@@ -1,16 +1,32 @@
 ---
-title: "Lyytikäinen (2009): Three-rate Property Taxation and Housing Construction (Finland)"
+authors:
+- Teemu Lyytikäinen
 category: research
-subcategory: wiki-research-lvt
-tags: [research, split-rate, three-rate, land-taxation, construction, finland, quasi-experimental, natural-experiment]
-authors: [Teemu Lyytikäinen]
-year: 2009
-tier: important
+excerpt: 'Finnish natural experiment: after 2001 municipalities could tax undeveloped
+  residential land at a higher rate than developed land. A fixed-effects Poisson panel
+  (1998–2006) finds adopting the three-rate system raised single-family housing starts
+  by roughly 10% a year — peer-reviewed external-validity evidence from outside the
+  US that land-favoring taxation accelerates construction.'
+last_reviewed: 2026-07-12
 source_url: https://ideas.repec.org/p/fer/dpaper/419.html
 stub: false
-supports_outcomes: [split-rate-increases-construction]
-excerpt: "Finnish natural experiment: after 2001 municipalities could tax undeveloped residential land at a higher rate than developed land. A fixed-effects Poisson panel (1998–2006) finds adopting the three-rate system raised single-family housing starts by roughly 10% a year — peer-reviewed external-validity evidence from outside the US that land-favoring taxation accelerates construction."
-last_reviewed: 2026-07-12
+subcategory: wiki-research-lvt
+supports_outcomes:
+- split-rate-increases-construction
+- taxing-land-raises-productivity
+tags:
+- research
+- split-rate
+- three-rate
+- land-taxation
+- construction
+- finland
+- quasi-experimental
+- natural-experiment
+tier: important
+title: 'Lyytikäinen (2009): Three-rate Property Taxation and Housing Construction
+  (Finland)'
+year: 2009
 ---
 
 ## Summary

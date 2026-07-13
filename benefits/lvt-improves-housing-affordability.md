@@ -8,7 +8,7 @@ evidence_strength: "Mixed (lower land prices well-supported; effects on rents pa
 supported_by: [oates-schwab-pittsburgh, oates-1969-capitalization, saiz-housing-supply-elasticity, glaeser-gyourko-housing-supply, hilber-vermeulen-england-supply, hsieh-moretti-spatial-misallocation, plummer-lvt-distribution, tomson-estonia-lvt, site-value-ge-simulations, tubio-reyes-loja-ecuador-lvt, bourassa-pittsburgh-lvt-housing]
 challenged_by: [loffler-siegloch-german-pass-through, nielsson-wroblewski-yding-danish-lvt, gemmell-grimes-skidmore-nz]
 excerpt: "LVT reliably lowers land prices (tax capitalization) and encourages construction — but its effect on rents actually paid is mixed, and affordability gains require permissive zoning; capturing land value alone need not make housing cheap."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — A land value tax reliably lowers land prices and encourages construction, but its effect on rents actually paid is mixed and any affordability gain depends on permissive land-use policy — so capturing land value need not, on its own, make housing cheap.

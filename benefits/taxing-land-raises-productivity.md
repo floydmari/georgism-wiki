@@ -5,14 +5,14 @@ claim_type: benefit
 tags: [outcomes, productivity, growth, tax-shift, deadweight-loss, lvt, oecd, atcor]
 stub: false
 evidence_strength: "Moderate (least-harmful-tax evidence well-supported; direct 'raises productivity' evidence weaker — model-based, contested magnitudes)"
-supported_by: [arnold-tax-growth-ej, arnott-stiglitz-henry-george-theorem, plassmann-tideman-construction, brueckner-site-value-taxation, oecd-taxation-economic-growth, fiorentino-moogan-agglomeration, tideman-plassmann-losses-of-nations, tideman-avoidable-excess-burden, site-value-ge-simulations, murphy-seegert-implicit-land-taxes, schwerhoff-taxation-economic-rents]
+supported_by: [arnold-tax-growth-ej, arnott-stiglitz-henry-george-theorem, plassmann-tideman-construction, lyytikainen-finland-three-rate, oates-schwab-pittsburgh, brueckner-site-value-taxation, oecd-taxation-economic-growth, fiorentino-moogan-agglomeration, tideman-plassmann-losses-of-nations, tideman-avoidable-excess-burden, site-value-ge-simulations, murphy-seegert-implicit-land-taxes, schwerhoff-taxation-economic-rents]
 challenged_by: [gemmell-grimes-skidmore-nz]
 excerpt: "Shifting taxes off work and investment onto land and rents removes deadweight loss and is associated with higher long-run GDP per capita — the least-harmful-tax evidence is strong, while direct evidence of productivity gains is more model-based and contested."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Land and rent taxes are well-established as the least harmful way to raise revenue; the stronger claim that shifting onto them measurably raises productivity rests on cross-country associations, models, and mechanism evidence, and reads as suggestive rather than demonstrated.
-> **Evidence:** Moderate (least-harmful-tax evidence well-supported; direct 'raises productivity' evidence weaker — model-based, contested magnitudes) · **11 supporting** sources · **1 challenging**
+> **Evidence:** Moderate (least-harmful-tax evidence well-supported; direct 'raises productivity' evidence weaker — model-based, contested magnitudes) · **13 supporting** sources · **1 challenging**
 > **Strongest support:** [Arnold et al. (2011)](/wiki/arnold-tax-growth-ej/) — in a 21-country OECD panel, revenue-neutral shifts toward recurrent property taxation are associated with higher long-run GDP per capita. **Strongest counter:** [Gemmell, Grimes & Skidmore](/wiki/gemmell-grimes-skidmore-nz/) — a New Zealand rating-base shift found no significant construction response, undercutting the mechanism the productivity claim leans on.
 
 ## The Claim

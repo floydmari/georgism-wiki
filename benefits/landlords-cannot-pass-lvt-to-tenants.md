@@ -8,7 +8,7 @@ evidence_strength: "Strong (theory near-unanimous on the land component; direct 
 supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, borge-rattso-norway-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, capozza-green-hendershott-residential-land, mieszkowski-property-tax-incidence, zodrow-three-views, hilber-capitalization-synthesis, doucet-does-georgism-work, buettner-german-land-tax-capitalization, oates-1969-capitalization]
 challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents, feldstein-incidence-pure-rent, nielsson-wroblewski-yding-danish-lvt]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Standard incidence theory is near-unanimous that the land portion of a land value tax falls on the landowner rather than tenants, and the capitalization evidence supports it — but direct rental-market measurement is thinner and the Danish quasi-experiments disagree on magnitude, so the empirical case is supportive rather than settled.

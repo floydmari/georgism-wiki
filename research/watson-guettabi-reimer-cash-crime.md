@@ -12,8 +12,7 @@ last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1162/rest_a_00834
 stub: false
 subcategory: wiki-research-inequality
-supports_outcomes:
-- rent-dividends-reduce-poverty
+supports_outcomes: []
 tags:
 - research
 - citizens-dividend

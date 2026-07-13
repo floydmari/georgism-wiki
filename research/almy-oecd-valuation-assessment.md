@@ -11,6 +11,8 @@ last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1787/5jz5pzvr28hk-en
 stub: false
 subcategory: wiki-research-finance
+supports_outcomes:
+- property-tax-raises-welfare-developing
 tags:
 - research
 - assessment

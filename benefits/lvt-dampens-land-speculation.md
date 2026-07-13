@@ -4,15 +4,16 @@ category: benefits
 claim_type: benefit
 tags: [outcomes, speculation, land-cycle, holding-cost, lvt]
 stub: false
-evidence_strength: "Moderate (strong theory; suggestive empirics)"
-supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land, kuminoff-pope-land-boom-bust]
+evidence_strength: "Moderate (strong theory; suggestive direct empirics; the capitalization channel that underpins the mechanism is genuinely contested — Danish quasi-experiments split between full capitalization (DØRS) and a precise zero (Nielsson et al.), and the Loja underassessment result plus the Letwin build-out review qualify the premise)"
+supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land, kuminoff-pope-land-boom-bust, dors-land-taxes-housing-prices]
+challenged_by: [nielsson-wroblewski-yding-danish-lvt, tubio-reyes-loja-ecuador-lvt, letwin-build-out-review, feldstein-incidence-pure-rent]
 excerpt: "By imposing an annual cost on holding land, LVT reduces the incentive to hold sites idle for speculative gain — shrinking the booms and busts of the land cycle."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — By imposing an annual carrying cost on holding land idle, a land value tax is expected to dampen speculative land holding — a mechanism with strong theoretical grounding and suggestive but not yet definitive empirical support.
-> **Evidence:** Moderate (strong theory; suggestive empirics) · **8 supporting** sources · **0 challenging**
-> **Strongest support:** [Cunningham (2006)](/wiki/cunningham-seattle-options/) — vacant Seattle land is priced and held as a real option on appreciation, exactly the option value an annual land tax erodes. No structural counter-evidence is currently wired; see Limits.
+> **Evidence:** Moderate (strong theory; suggestive direct empirics; the capitalization channel is genuinely contested) · **9 supporting** sources · **4 challenging**
+> **Strongest support:** [Cunningham (2006)](/wiki/cunningham-seattle-options/) — vacant Seattle land is priced and held as a real option on appreciation, exactly the option value an annual land tax erodes. **Strongest counter:** [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — a Danish quasi-experiment estimating a *precise zero* capitalization of land taxes into house prices, undercutting the capitalize-away-the-speculative-premium channel the mechanism relies on.
 
 ## The Claim
 
@@ -49,9 +50,30 @@ The data suggest that taxing buildings (as NAV does) penalises construction and 
 **5. The Danish municipal boundary natural experiment** (Doucet, Ch. 20):
 In 2007, Denmark redrew all municipal boundaries, causing a semi-random shuffling of LVT rates across approximately 250 areas — an exogenous trigger independent of local politics or land markets. [Høj, Jørgensen & Schou (2017)](/wiki/dors-land-taxes-housing-prices/) — the DØRS study the wiki carries directly — found that LVT is **fully capitalized** into property prices: the selling price of land falls proportionately to how much land income is taxed away. The capitalization finding's primary home on this wiki is the [landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) outcome; its relevance here is that full capitalization directly reduces the speculative resale value of land — the channel through which dampened speculation operates. Doucet surveys 13+ additional studies, with 12 supporting full capitalization (Doucet, *Land is a Big Deal*, Ch. 20). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/). This capitalization channel is not uncontested: a second Danish quasi-experiment, [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/), estimates "a precise zero effect of land taxes on residential home prices" and rules out full capitalization — so the strength of the capitalize-away-the-speculative-premium mechanism is genuinely in dispute even within Denmark. And where capitalization does operate, it can be blunted by poor assessment: [Tubío-Sánchez & Reyes-Bueno (2026)](/wiki/tubio-reyes-loja-ecuador-lvt/) find in Loja, Ecuador that "systematic underassessment in rapidly appreciating areas" undermines the tax's intended price-stabilizing (anti-speculation) effect — a reminder that the anti-speculation case depends on current-value assessment.
 
+**6. Counter-evidence — the premise and the mechanism, questioned.**
+Two mainstream results caution against overstating the case. First, on the
+*premise* that idle, permissioned land mainly reflects speculative withholding an
+LVT would unlock: the UK government's [Letwin Review (2018)](/wiki/letwin-build-out-review/)
+found large housing sites take a median **15.5 years** to build out and attributed
+the slow pace to the "market absorption rate" and product homogeneity **rather than
+deliberate land banking** — implying a carrying-cost tax would do less to accelerate
+build-out than the pure-speculation story predicts. Second, on the *mechanism*:
+[Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/) shows that in a growth model
+where land and capital compete as stores of wealth, a tax on pure land rent can be
+"at least partly shifted" — the price of land may even *rise* — because the tax pushes
+household savings toward produced capital; if so, the clean carrying-cost/capitalization
+channel the anti-speculation case assumes is weaker than the static argument implies
+(later work by Calvo–Kotlikoff–Rodriguez and Fane restores the classical result under
+other assumptions). These sit alongside the Nielsson et al. precise-zero and the Loja
+underassessment findings above as the wired counter-evidence: the *problem* of
+speculative land holding is well-documented, but that an LVT reliably *dampens* it is
+genuinely contested.
+
 ## Strength of Evidence
 
 **Moderate.** The speculative phenomenon itself is exhaustively documented (tier 1), and the carrying-cost mechanism is well-grounded in option theory (tier 2); but direct policy evidence that an LVT dampens the cycle (tier 3) remains thin, because few jurisdictions run a high-rate LVT to test it cleanly. The Australian SVR vs NAV comparison (tier 4) adds observational cross-jurisdiction corroboration that the tax base structure affects speculative behaviour and construction, though it is advocacy-reported and tests split-rate versus composite rating rather than full LVT specifically. Readers should not cite the tier-1 studies as evidence that LVT works — only that the problem it targets is real.
+
+The honest counterweight is that the mechanism's core assumption — that the tax capitalizes into (and thereby erodes) speculative land value — is now directly contested: the Danish evidence splits between full capitalization ([DØRS 2017](/wiki/dors-land-taxes-housing-prices/)) and a [precise zero (Nielsson et al. 2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/); [Feldstein's](/wiki/feldstein-incidence-pure-rent/) portfolio-shifting result questions whether a land tax is even fully capitalized in theory; and the [Letwin Review](/wiki/letwin-build-out-review/) attributes slow build-out to market absorption rather than the speculative land-banking the tax is meant to punish. The claim should be advanced as *theoretically well-grounded and consistent with the microeconomics of holding costs*, not as an empirically settled policy effect.
 
 ## See Also
 

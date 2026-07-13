@@ -16,6 +16,7 @@ supports:
 supports_outcomes:
 - lvt-improves-housing-affordability
 - split-rate-increases-construction
+- taxing-land-raises-productivity
 tags:
 - research
 - pittsburgh
