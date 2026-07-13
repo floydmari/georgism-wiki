@@ -3,9 +3,9 @@ title: "\"The Single Tax Is a Form of Socialism/Communism\""
 category: objections
 tags: [objections, socialism, communism, private-property, single-tax, frank-knight, stub]
 stub: true
-status: "A perennial rhetorical charge, not a live empirical dispute — the free-market/classical-liberal reply that Georgism strengthens rather than abolishes private property in labor and capital has been made repeatedly since at least the 1990s, but the charge itself keeps recurring in new political contexts"
+status: "A perennial rhetorical charge, not a live empirical dispute — the free-market/classical-liberal reply that Georgism strengthens rather than abolishes private property in labor and capital has been made repeatedly since at least the 1990s (and land value taxation is endorsed by economists across the ideological spectrum, from Friedman to Stiglitz), but the charge itself keeps recurring in new political contexts"
 excerpt: "Critics from Frank Knight to apartheid-era South African free-marketeers have branded the single tax a stalking-horse for socialism or Soviet-style collectivism — a charge Georgists rebut by pointing out land value taxation leaves private ownership of labor and capital untouched."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -55,6 +55,21 @@ Georgism is arguably *more* protective of private property in labor and
 capital than the tax systems it would replace, since it removes taxes on
 wages, sales, and business income rather than adding new ones.
 
+Two further lines of evidence cut against reading land-rent capture as
+inherently socialist. First, an explicitly **libertarian** tradition —
+[geolibertarianism](/wiki/geolibertarianism/) — embraces the land value tax
+*because* it protects self-ownership and the fruits of one's labour, treating
+rent capture as the one legitimate source of public revenue rather than a step
+toward collectivism. Second, the economists on record endorsing land value
+taxation run across the ideological spectrum rather than clustering on the
+left: the wiki's survey of
+[mainstream and free-market economists on Georgism](/wiki/modern-georgism-respected-economists/)
+records Milton Friedman calling a tax on the unimproved value of land the
+"least bad tax," alongside endorsements from William Vickrey and Joseph
+Stiglitz.[3] A policy commended by the Chicago School's most prominent
+free-marketeer is an awkward fit for the charge that the single tax is disguised
+communism.
+
 ## Limits and Caveats
 
 - This page currently rests on one secondary account (Feder's postscript,
@@ -92,9 +107,12 @@ more than a fact in dispute.
 - [The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/) — the book whose postscript documents this exchange
 - [Community Creates Land Value](/wiki/community-creates-land-value/) — the concept underlying the "socialized" framing critics react to
 - [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) — the specific, bounded category of income Georgists propose to tax, as distinct from labor or capital income
+- [Geolibertarianism](/wiki/geolibertarianism/) — the libertarian tradition that embraces land value taxation as the one legitimate tax, the clearest counter to the socialism charge
+- [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/) — the roll-call of mainstream and free-market economists (Friedman, Vickrey, Stiglitz) endorsing LVT
 - [Single Tax](/wiki/single-tax/) · [Adam Smith](/wiki/adam-smith/)
 
 ## Sources
 
 1. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (Shepheard-Walwyn, 1994; postscript by Kris Feder), Postscript — discovery source; used for the South African 1994 episode, the Grant/Knight lineage of the argument, and Feder's res communis/res nullius/state-ownership distinction, via the wiki's existing book-page summary. [Wiki book page](/wiki/gaffney-harrison-corruption-of-economics/)
 2. Frank H. Knight, "The Fallacies in the 'Single Tax,'" *The Freeman*, August 1953, pp. 809–811 — used for independent bibliographic confirmation that this is a real, dated, locatable Knight essay rather than a misattributed reference. [Mises Institute scan of The Freeman, August 1953](https://mises.org/freeman/freeman-august-1953)
+3. "The Modern Georgism of Respected Economists," *Progress and Poverty Substack* — used for the cross-spectrum roster of economists endorsing land value taxation, including Milton Friedman's characterization of a tax on the unimproved value of land as the "least bad tax," which counts against the socialism/communism framing. [wiki summary](/wiki/modern-georgism-respected-economists/) · [article](https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected)

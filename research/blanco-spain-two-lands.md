@@ -1,15 +1,30 @@
 ---
-title: "Blanco, Bauluz & Martínez-Toledano (2018): Wealth in Spain, 1900-2014"
+authors:
+- Miguel Artola Blanco
+- Luis E. Bauluz
+- Clara Martínez-Toledano
+bears_on_objections:
+- land-no-longer-matters
 category: research
-subcategory: wiki-research-finance
-tags: [research, land, wealth, spain, capital-share, inequality, stub]
-stub: true
-excerpt: "A century-long reconstruction of Spanish national wealth (1900-2014) finding that land dominated wealth composition throughout — agricultural land early, urban land later — and that housing capital gains drove 45% of real wealth growth from 1950-2010."
+excerpt: A century-long reconstruction of Spanish national wealth (1900-2014) finding
+  that land dominated wealth composition throughout — agricultural land early, urban
+  land later — and that housing capital gains drove 45% of real wealth growth from
+  1950-2010.
 last_reviewed: 2026-07-12
-authors: [Miguel Artola Blanco, Luis E. Bauluz, Clara Martínez-Toledano]
-year: 2018
-tier: Important
 source_url: https://wid.world/www-site/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf
+stub: true
+subcategory: wiki-research-finance
+tags:
+- research
+- land
+- wealth
+- spain
+- capital-share
+- inequality
+- stub
+tier: Important
+title: 'Blanco, Bauluz & Martínez-Toledano (2018): Wealth in Spain, 1900-2014'
+year: 2018
 ---
 
 ## Overview

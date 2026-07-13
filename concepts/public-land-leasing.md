@@ -1,10 +1,22 @@
 ---
-title: "Public Land Leasing"
+bears_on_objections:
+- nationalization-solves-the-land-problem
 category: concepts
-tags: [concepts, public-land-leasing, land-value-capture, hong-kong, singapore, canberra, public-finance]
-stub: false
-excerpt: "The state keeps title and leases land long-term instead of taxing it annually — Hong Kong, Singapore, and Canberra are the working examples. It captures land value at grant and renewal rather than as a flow, which is both its fiscal power and, for Georgists, its structural weakness."
+excerpt: The state keeps title and leases land long-term instead of taxing it annually
+  — Hong Kong, Singapore, and Canberra are the working examples. It captures land
+  value at grant and renewal rather than as a flow, which is both its fiscal power
+  and, for Georgists, its structural weakness.
 last_reviewed: 2026-07-05
+stub: false
+tags:
+- concepts
+- public-land-leasing
+- land-value-capture
+- hong-kong
+- singapore
+- canberra
+- public-finance
+title: Public Land Leasing
 ---
 
 ## Definition

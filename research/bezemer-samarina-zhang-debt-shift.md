@@ -1,16 +1,33 @@
 ---
-title: "The Shift in Bank Credit Allocation: New Data and New Findings (Bezemer, Samarina & Zhang)"
+authors:
+- Dirk J. Bezemer
+- Anna Samarina
+- Lu Zhang
+bears_on_objections:
+- cycles-are-credit-not-land
 category: research
-subcategory: wiki-research-housing
-tags: [research, bank-credit, mortgage, debt-shift, real-estate-credit, financialization, cross-country]
-authors: [Dirk J. Bezemer, Anna Samarina, Lu Zhang]
-year: 2017
-tier: important
+excerpt: A De Nederlandsche Bank study assembling a new disaggregated bank-credit
+  dataset for 74 economies, 1990–2013/2016, documenting a 'debt shift' in bank lending
+  away from non-financial business and toward household mortgages — the broadest-panel
+  confirmation that modern bank credit growth is real-estate credit.
+last_reviewed: 2026-07-13
 source_url: https://ssrn.com/abstract=2992621
 stub: false
-supports_outcomes: [finance-growth-is-land-credit]
-excerpt: "A De Nederlandsche Bank study assembling a new disaggregated bank-credit dataset for 74 economies, 1990–2013/2016, documenting a 'debt shift' in bank lending away from non-financial business and toward household mortgages — the broadest-panel confirmation that modern bank credit growth is real-estate credit."
-last_reviewed: 2026-07-13
+subcategory: wiki-research-housing
+supports_outcomes:
+- finance-growth-is-land-credit
+tags:
+- research
+- bank-credit
+- mortgage
+- debt-shift
+- real-estate-credit
+- financialization
+- cross-country
+tier: important
+title: 'The Shift in Bank Credit Allocation: New Data and New Findings (Bezemer, Samarina
+  & Zhang)'
+year: 2017
 ---
 
 ## Overview

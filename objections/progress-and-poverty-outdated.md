@@ -5,7 +5,7 @@ tags: [objections, henry-george, history-of-economic-thought, blaug, marginalism
 stub: true
 status: "A fair chronological point about method, not a refutation of the tax proposal — the same source that makes it also affirms the site-value-tax principle is sound"
 excerpt: "Mark Blaug's judgment that Progress and Poverty (1879) was already outdated classical economics on arrival, since Jevons, Menger, and Walras had launched the marginal revolution years earlier — and why that verdict does not by itself undercut George's land-tax argument."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -21,6 +21,8 @@ Historian of economic thought **Mark Blaug** delivered one of the most quoted di
 ## The Response
 
 Blaug's "thirty years out of date" line is a remark about George's *value theory*, not about the soundness of taxing land rent. In the same chapter, Blaug states plainly that "there would seem to be nothing wrong with the principle of site value taxation" and that the administrative difficulties of separating site value from improvements "are no greater than those involved in distinguishing income and capital under the progressive income tax" (Ch. 3, §11).[1] The chronological point is also narrower than it first appears: the marginal revolution had barely reached English-language economics by 1879 — Jevons's *Theory of Political Economy* was still a minority position, and Alfred Marshall's synthesis that popularized marginalism in Britain did not appear until 1890, a decade after George's book. Writing in the vocabulary most economically literate readers of his day actually used was not a scientific error so much as a rhetorical choice — and Blaug elsewhere credits George's political impact by calling him "the great economic subversive of the day" and, in an aside on Marx, notes George eclipsed Marx's contemporary influence (Ch. 8, §4).[1]
+
+The "relic" reading is also hard to reconcile with George's actual reception and continuing relevance. Steven Cord's [*Henry George: Dreamer or Realist?*](/wiki/cord-george-dreamer-or-realist/) (1965) documents that American economists and historians engaged George seriously — not as a superseded curiosity — from 1879 onward, a mixed but substantive academic reception at odds with the amateur-outsider caricature. And the charge that George's questions themselves went stale is contradicted by their return to the mainstream: a 2025 survey in the [*Oxford Review of Economic Policy*](/wiki/oxford-review-george-2025/), a flagship journal, reviews the modern evidence connecting land speculation, land rent, and economic growth, situating George's 19th-century analysis squarely within current research on housing, inequality, and productivity — a marker that land-value questions are once again live economics rather than a closed chapter.
 
 ## Limits and Caveats
 
@@ -39,9 +41,13 @@ The "thirty years out of date" line is best read as a jab at George's *literary 
 - [Alfred Marshall](/wiki/alfred-marshall/) — source of the adjacent, more substantive quasi-rent objection from the same Blaug chapter
 - [Blaug, "Henry George: Rebel with a Cause"](/wiki/blaug-henry-george-rebel/) — the same historian's defense of George against the conspiracy thesis
 - [Land Value Tax](/wiki/land-value-tax/) — the policy Blaug says the "outdated" framing does not undermine
+- [Cord, *Henry George: Dreamer or Realist?* (1965)](/wiki/cord-george-dreamer-or-realist/) — documents George's substantive (not dismissive) academic reception
+- [Oxford Review survey (2025)](/wiki/oxford-review-george-2025/) — a flagship-journal survey of George's contemporary relevance to growth and land speculation
 
 ## Sources
 
 1. Mark Blaug, *Economic Theory in Retrospect* (5th ed., Cambridge University Press, 1997), Ch. 3, §11 and Ch. 8, §4 — used for the "thirty years out of date" quotation, Blaug's affirmation of the site-value-tax principle, the betterment/site-value critique, and the "great economic subversive" remark; see the wiki's [book summary](/wiki/economic-theory-in-retrospect/).
 2. William Stanley Jevons, *The Theory of Political Economy* (1871); Carl Menger, *Principles of Economics* (1871); Léon Walras, *Elements of Pure Economics* (1874) — used to date the marginal revolution's launch relative to *Progress and Poverty* (1879). [Marginal revolution, Wikipedia](https://en.wikipedia.org/wiki/Marginalism) — basic-facts corroboration.
 3. Joseph A. Schumpeter, *History of Economic Analysis* (New York: Oxford University Press, 1954), pp. 864–865 — used as the independent history-of-thought source contesting the strong "obsolete/relic" reading of Blaug's charge while corroborating its narrow (classical-idiom) form. Quotations ("a self-taught economist, but he WAS an economist"; "a very orthodox economist and extremely conservative as to methods"; "up to and including Mill's treatise, he was thoroughly at home in scientific economics"; "not *economically* unsound, except in that it involves an unwarranted optimism concerning the yield"; "should not be put down to nonsense") verified verbatim against the reprinted text at [cooperative-individualism.org](https://cooperative-individualism.org/schumpeter-joseph_henry-george-1954.htm).
+4. Steven B. Cord, *Henry George: Dreamer or Realist?* (University of Pennsylvania Press, 1965) — used for George's substantive academic reception among American economists and historians from 1879 onward, against the "amateur relic" caricature; see [wiki summary](/wiki/cord-george-dreamer-or-realist/).
+5. "Henry George, Land Speculation, and Economic Growth," *Oxford Review of Economic Policy* 41(2), 2025, pp. 326ff. [Publisher](https://academic.oup.com/oxrep/article/41/2/326/8320563) — used for the survey's placement of George's analysis within current growth/land-speculation research, evidence that the questions are contemporary rather than outdated; see [wiki summary](/wiki/oxford-review-george-2025/).

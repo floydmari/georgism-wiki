@@ -5,7 +5,7 @@ tags: [objections, stub, land-nationalization, public-ownership, socialism, land
 stub: true
 status: "Partly addressed for the specific cases examined — Yugoslav, Israeli, and Swedish public land ownership did not, on Harrison's account, stop land-value inflation or private capture of rent — but this rests on a small, one-author comparative set, not a systematic survey of all public-ownership regimes."
 excerpt: "If the state simply owns all land, do speculation and unearned rent disappear without needing a land value tax? Comparative cases from Yugoslavia, Israel, and Sweden suggest ownership form alone is not enough — rent still has to be priced and collected."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection

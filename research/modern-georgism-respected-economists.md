@@ -1,6 +1,8 @@
 ---
 authors:
 - Progress and Poverty Institute
+bears_on_objections:
+- lvt-is-socialism
 category: research
 excerpt: Documents how a roster of mainstream and Nobel-laureate economists have endorsed
   conclusions central to Georgism.

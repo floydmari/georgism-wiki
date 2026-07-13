@@ -3,9 +3,9 @@ title: "Objection: LVT is just a property tax with extra steps"
 category: objections
 tags: [objections, property-tax, critique]
 stub: false
-status: "Addressed — the incentive structure is fundamentally different"
-excerpt: "The claim that land value tax is nothing new because we already have property taxes — and why taxing land alone produces fundamentally different incentives."
-last_reviewed: 2026-07-12
+status: "Addressed — the incentive structure differs in kind; the size and speed of the behavioral gap is empirically variable (Pennsylvania panels find it; a short-window Auckland quasi-experiment does not)"
+excerpt: "The claim that land value tax is nothing new because we already have property taxes — why taxing land alone produces fundamentally different incentives, and where the empirical gap is and isn't detected."
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -22,6 +22,10 @@ The difference is not cosmetic; it is the **incentive structure**:
 
 A pure LVT also approaches [zero deadweight loss](/wiki/deadweight-loss/), whereas the building-tax portion of a conventional property tax carries the usual excess burden.
 
+## Limits and Caveats
+
+The incentive difference is clear in theory and shows up in the long-run Pennsylvania panels, but it is not detected everywhere. [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/) exploit Auckland's 2010 amalgamation — which shifted former land-value-rating areas onto a capital-value (land-plus-buildings) base — and find "little evidence" of an effect on *new* building development, with only a weaker effect on alterations. The authors caution that the roughly two-year post-reform window is likely too short to capture new-construction lags and that the reform bundled several changes together, so this is not a clean refutation. But taken at face value it is a genuine null result on the exact margin this page rests on: the *speed and size* of the construction response to a land-vs-improvement tax shift are empirically variable across jurisdictions, even if the direction is theoretically settled. The honest claim is that LVT and the property tax differ in kind, not that the behavioral gap is large and immediate in every setting.
+
 ## Net Assessment
 
 LVT and the property tax share a base component (land) but differ fundamentally in what they discourage. The objection mistakes a shared ingredient for an identical policy.
@@ -35,3 +39,4 @@ LVT and the property tax share a base component (land) but differ fundamentally 
 
 1. [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute — used for the distinction between a conventional property tax (which taxes buildings and so discourages construction) and a land value tax (which does not).
 2. [Oates & Schwab (1997)](/wiki/oates-schwab-pittsburgh/) — used for the Pittsburgh evidence that shifting the tax off buildings and onto land changed construction behaviour, demonstrating the two taxes are not equivalent.
+3. [Gemmell, Grimes & Skidmore (2019)](/wiki/gemmell-grimes-skidmore-nz/), *Journal of Real Estate Finance and Economics* — used in Limits and Caveats for the Auckland quasi-experiment finding "little evidence" of a new-construction effect from a land-value-to-capital-value rating shift, the honest counter-evidence bounding how large and fast the incentive gap is in practice.

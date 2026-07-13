@@ -5,7 +5,7 @@ tags: [objections, adoption, political-economy, revealed-preference, implementat
 stub: false
 status: "Partly conceded — the endorsement-vs-adoption gap is real and the rollback record (UK 1931, Altoona, Pittsburgh) shows the transition and assessment problems are not merely theoretical; but 'revealed preference proves it's wrong' overreaches, since diluted forms are in fact widespread and non-adoption is exactly what political economy predicts for a reform that gores a concentrated interest."
 excerpt: "The revealed-preference challenge: a tax that economists from Smith to Friedman call near-perfect, yet almost no jurisdiction runs in pure form and several have repealed — surely that absence is itself evidence against it. The steelman, the actual adoption record, why good policies routinely go unadopted, and what the rollbacks really show."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -46,7 +46,7 @@ The reply is not to deny the pattern but to read it correctly.
 **1. It is adopted far more than the objection assumes — just rarely in pure form.** Split-rate
 and site-value systems operate in ~20 [Pennsylvania](/wiki/pennsylvania/) municipalities;
 [Denmark](/wiki/denmark/) has levied *grundskyld* (a land tax) for over a century;
-[Estonia](/wiki/estonia/) has run a **pure land tax since 1993**; Australian states
+[Estonia](/wiki/estonia/) has run a **pure land tax since 1993** — and where that pure form has been studied, [Tomson's Tallinn–Riga comparison](/wiki/tomson-estonia-lvt/) finds higher inner-city density and construction under the land-only base, evidence the adopted form actually functions as theory predicts; Australian states
 ([New South Wales](/wiki/new-south-wales/)) tax site value; [Singapore](/wiki/singapore/) and
 [Hong Kong](/wiki/hong-kong/) capture enormous land rent through public leasehold; and
 [Taiwan](/wiki/taiwan/) built a land-value and increment tax into its post-war settlement. The
@@ -98,6 +98,7 @@ promise the historical record has not yet been allowed to test.**
 - [Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the administrative failure behind several rollbacks
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) · [Pennsylvania](/wiki/pennsylvania/) · [Pittsburgh](/wiki/pittsburgh/) — the most-studied partial adoptions
 - [Estonia](/wiki/estonia/) · [Denmark](/wiki/denmark/) · [Taiwan](/wiki/taiwan/) · [Singapore](/wiki/singapore/) — where land-value capture actually runs
+- [Tomson: Land Value Taxation in Estonia](/wiki/tomson-estonia-lvt/) — empirical study of the effects of the pure Tallinn land tax
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the great near-miss
 
 ## Sources
@@ -118,3 +119,8 @@ promise the historical record has not yet been allowed to test.**
    [Estonia](/wiki/estonia/), [Denmark](/wiki/denmark/), [Taiwan](/wiki/taiwan/),
    [Singapore](/wiki/singapore/), and the [1909 People's Budget](/wiki/1909-peoples-budget/) —
    used for the "diluted but widespread" adoption pattern.
+4. Aivar Tomson (2016), "Sustainable Urban Development and Land Value Taxation: The Case of
+   Estonia," *Land Use Policy* — [wiki summary](/wiki/tomson-estonia-lvt/) — used for the
+   Tallinn (pure land tax since 1993) vs Riga comparison finding higher inner-city density
+   and construction under the land-only base, as concrete evidence that the adopted pure
+   form works.

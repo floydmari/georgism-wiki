@@ -3,9 +3,9 @@ title: "\"A 100% Land Tax Yields Zero Revenue (Laffer Curve)\""
 category: objections
 tags: [objections, land-value-tax, laffer-curve, tax-incidence, public-finance, stub]
 stub: true
-status: "Addressed — the Laffer curve models a behavioral response to taxes on elastically supplied activity; land supply is fixed, so the mechanism that drives revenue to zero at a 100% rate does not operate on a pure land value tax"
+status: "Addressed — the Laffer curve models a behavioral response to taxes on elastically supplied activity; land supply is fixed, so the mechanism that drives revenue to zero at a 100% rate does not operate on a pure land value tax, and under ATCOR the taxable rent base widens rather than collapses as other taxes are removed"
 excerpt: "The claim that pushing a land tax toward 100% of rent must eventually collapse revenue to zero, by analogy with the Laffer curve for income taxes — and why land's fixed supply breaks the analogy."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -18,7 +18,9 @@ The Laffer curve is intuitively appealing and widely cited in tax-policy debate,
 
 ## The Response
 
-The Laffer curve's revenue-collapse mechanism depends on the taxed activity having a **supply response**: workers reduce hours, investors withhold capital, businesses under-report income, as the after-tax return falls. Feder's reply to Grant is that a land value tax does not have this property, because it is levied on a **lump-sum-like charge** on a factor whose physical supply is fixed rather than on an activity conditioned on effort or investment: the quantity of land does not shrink because the owner is taxed more heavily on its rental value. Mainstream public finance treats a pure land value tax the same way: because land supply is (near) perfectly inelastic, the [Chicago Fed's 2023 explainer](https://www.chicagofed.org/publications/chicago-fed-letter/2023/489) on land value taxes notes that the tax's incidence "falls entirely on the supplier of the good with no change in equilibrium output" — the owner receives lower after-tax rent, but the land remains supplied and used exactly as before.[1][2] The behavioral channel the Laffer curve relies on for the "100% rate ⇒ zero revenue" result — taxpayers walking away from the taxed activity — has no land-specific analogue, so the curve's standard shape does not straightforwardly transfer to a tax on land rent.
+The Laffer curve's revenue-collapse mechanism depends on the taxed activity having a **supply response**: workers reduce hours, investors withhold capital, businesses under-report income, as the after-tax return falls. Feder's reply to Grant is that a land value tax does not have this property, because it is levied on a **lump-sum-like charge** on a factor whose physical supply is fixed rather than on an activity conditioned on effort or investment: the quantity of land does not shrink because the owner is taxed more heavily on its rental value. Mainstream public finance treats a pure land value tax the same way: because land supply is (near) perfectly inelastic, the [Chicago Fed's 2023 explainer](https://www.chicagofed.org/publications/chicago-fed-letter/2023/489) on land value taxes notes that the tax's incidence "falls entirely on the supplier of the good with no change in equilibrium output" — the owner receives lower after-tax rent, but the land remains supplied and used exactly as before.[1][2] This is the same property that makes a land tax generate no [deadweight loss](/wiki/deadweight-loss/): the behavioral margin whose contraction drives the Laffer curve's revenue collapse — taxpayers walking away from the taxed activity — is, for fixed-supply land, at zero, so the curve's standard inverted-U shape does not straightforwardly transfer to a tax on land rent.
+
+A distinctly Georgist argument runs the other way still. Under [ATCOR](/wiki/atcor/) — "All Taxes Come Out of Rent" — taxes on labour, capital, and trade ultimately fall on land rent, so *removing* those taxes (which is exactly what the single-tax program does as the land rate is raised) lifts the rent available to be taxed. On [Mason Gaffney's formulation](/wiki/gaffney-atcor/), the taxable land base therefore *widens* as the shift toward land proceeds rather than shrinking, the opposite of the behavioral erosion the Laffer curve describes; proponents treat revenue as rising monotonically across the feasible range instead of turning over at some interior rate. This is a contested theoretical claim about tax incidence, not an empirically observed revenue path — but it identifies a mechanism working directly against the Laffer intuition, not for it.
 
 ## Limits and Caveats
 
@@ -32,6 +34,7 @@ Grant's specific Laffer-curve argument against a full rent tax rests on treating
 
 - [Land Value Tax](/wiki/land-value-tax/) — the policy this objection is directed against
 - [Deadweight Loss](/wiki/deadweight-loss/) — the efficiency-cost concept the Laffer curve is built on, and why a tax on perfectly inelastic land supply creates none
+- [ATCOR](/wiki/atcor/) · [Gaffney (2005): The ATCOR thesis](/wiki/gaffney-atcor/) — the Georgist theorem that untaxing labour and capital raises land rent, so the land-tax base widens rather than collapses as the rate rises
 - [Tax Capitalization](/wiki/tax-capitalization/) — the related mechanism by which a rising land tax lowers land's capital (sale) value even as rental value and supply persist
 - [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — the discovery source containing Feder's postscript rebuttal of Grant's objections
 - [Mirrlees Review](/wiki/mirrlees-review/) — the mainstream UK public-finance review cited elsewhere on this wiki for the same inelastic-supply argument for land taxation's neutrality

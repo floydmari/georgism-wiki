@@ -1,16 +1,32 @@
 ---
-title: "The Incidence and Efficiency of Land Value Taxation (Nielsson, Wroblewski & Yding, 2024)"
+authors:
+- Ulf Nielsson
+- Caleb Wroblewski
+- Anders Yding
+bears_on_objections:
+- lvt-transition-wealth-shock
 category: research
-subcategory: wiki-research-lvt
-tags: [research, land-value-tax, tax-incidence, capitalization, denmark, quasi-experiment, counter-evidence]
-authors: [Ulf Nielsson, Caleb Wroblewski, Anders Yding]
-year: 2024
-tier: Important
+excerpt: A Danish quasi-experiment that estimates a precise ZERO effect of land taxes
+  on home prices — ruling out full capitalization and implying the burden is shared
+  with tenants and future purchasers. Carried as counter-evidence against the strong-capitalization
+  reading of the affordability case.
+last_reviewed: 2026-07-12
 source_url: https://www.maxwell.syr.edu/docs/default-source/research/cpr/property-tax-webinar-series/incidence-efficiency-of-land-value-taxation-2024-11-accessible.pdf
 stub: false
-excerpt: "A Danish quasi-experiment that estimates a precise ZERO effect of land taxes on home prices — ruling out full capitalization and implying the burden is shared with tenants and future purchasers. Carried as counter-evidence against the strong-capitalization reading of the affordability case."
-last_reviewed: 2026-07-12
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- land-value-tax
+- tax-incidence
+- capitalization
+- denmark
+- quasi-experiment
+- counter-evidence
+tier: Important
+title: The Incidence and Efficiency of Land Value Taxation (Nielsson, Wroblewski &
+  Yding, 2024)
+year: 2024
 ---
 
 ## Summary

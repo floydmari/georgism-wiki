@@ -3,8 +3,9 @@ title: "Objection: LVT would hurt farmers and rural landowners"
 category: objections
 tags: [objections, agriculture, farmers, rural, critique]
 stub: false
-status: "Addressed — farmland's low land value makes the burden small"
+status: "Addressed — farmland's low land value makes the burden small, with genuine caveats for high-value urban-fringe farmland and the cash-flow-thin nature of farming (handled by current-use valuation and deferral)"
 excerpt: "The worry that a land value tax would crush farmers who own large acreages — and why low rural land values mean the opposite is generally true."
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -19,6 +20,10 @@ Generally not — and often the reverse:
 2. **Replacing worse taxes helps farmers.** If LVT replaces taxes on income, sales, equipment, and buildings ([ATCOR](/wiki/atcor/) logic), farmers — who buy lots of taxed inputs and improvements — can come out ahead.
 3. **It targets the right problem.** Where farmland *does* carry high value, it is usually **urban-fringe land** held speculatively for future development — exactly the idle, appreciating land LVT is meant to bring into use. Genuine working farms far from development are lightly affected.
 4. **Improvements untaxed.** Barns, irrigation, and equipment — the farmer's own investment — are not taxed under LVT, unlike a conventional property tax.
+
+## Limits and Caveats
+
+The response holds for genuine working farmland far from development, but three honest qualifications remain. First, the burden is small only where land value is low: farms on the **urban fringe** carry high *development* (hope) value, and there LVT bills can be substantial — which is by design (it discourages holding fringe land idle for appreciation), but it is a real cost to a working farmer who happens to sit in a growth path and does not intend to sell. Second, farming is a **cash-flow-thin, asset-heavy** business, so even a modest annual land bill can bind in a bad year; the same deferral, circuit-breaker, and current-use-valuation tools that answer the [asset-rich, cash-poor objection](/wiki/lvt-hurts-asset-rich-cash-poor/) are what keep the farm case humane, and they are design choices, not automatic. Third, the "farmers come out ahead" claim depends on the [ATCOR](/wiki/atcor/) assumption that LVT actually *replaces* input and income taxes rather than being layered on top — a political condition, not a guarantee. The [Mirrlees Review](/wiki/mirrlees-review/) and [Dye & England](/wiki/dye-england-assessing-lvt/) both support the low-burden conclusion for ordinary farmland while treating current-use valuation of high-value fringe land as a design question that has to be got right.
 
 ## Net Assessment
 

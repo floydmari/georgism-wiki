@@ -1,6 +1,8 @@
 ---
 authors:
 - Various
+bears_on_objections:
+- progress-and-poverty-outdated
 category: research
 excerpt: A 2025 survey in the Oxford Review of Economic Policy assessing the contemporary
   relevance of Henry George's ideas to growth and land speculation.

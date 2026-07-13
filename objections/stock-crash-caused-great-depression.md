@@ -5,7 +5,7 @@ tags: [objections, great-depression, 1929, land-cycle, banking, stub]
 stub: true
 status: "Contested — mainstream economic history assigns substantial independent weight to monetary contraction and the crash's own wealth effects; the land-cycle account adds a documented but not yet fully reconciled channel"
 excerpt: "The standard narrative treats the 1929 stock crash as the trigger of the Great Depression. Georgist land-cycle writers, citing Simpson and Calomiris & Mason, argue the deeper cause was collapse of an already-peaked real-estate boom that gutted bank balance sheets."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -18,7 +18,7 @@ This is the version of events embedded in popular memory and much introductory e
 
 ## The Response
 
-Phillip J. Anderson, in *The Secret Life of Real Estate and Banking* (2008), argues the stock crash was a symptom rather than the root cause: the deeper problem was a US real-estate boom — the Florida land mania of the mid-1920s and a broader construction boom peaking around 1926, roughly on schedule with Anderson's ~18-year US land-cycle dating — whose collapse had already begun weakening bank balance sheets before, and independent of, the October 1929 crash (Anderson, Ch. 11–12).[2] Anderson cites Herbert D. Simpson's contemporaneous study, ["Real Estate Speculation and the Depression"](/wiki/simpson-real-estate-speculation-depression/) (*American Economic Review*, March 1933), which identified real-estate loan losses as the largest single factor behind the roughly 4,800 US bank failures of 1930–33 (Anderson, Ch. 11–12, citing Simpson 1933). Anderson also cites Charles Calomiris and Joseph Mason's later econometric study, ["Consequences of Bank Distress During the Great Depression"](/wiki/calomiris-mason-bank-distress/) (*American Economic Review*, 2003), which uses bank-level data to show that real-estate loan exposure and local economic fundamentals — not only contagious panic — explain much of the pattern of Depression-era bank failures (Anderson, Ch. 12).[2][3] On this account, the 1929 stock crash accelerated and publicized a downturn whose deeper cause was an over-leveraged land boom working its way through the banking system.
+Phillip J. Anderson, in *The Secret Life of Real Estate and Banking* (2008), argues the stock crash was a symptom rather than the root cause: the deeper problem was a US real-estate boom — the Florida land mania of the mid-1920s and a broader construction boom peaking around 1926, roughly on schedule with Anderson's ~18-year US land-cycle dating — the recurring land-price rhythm that Homer Hoyt's [century of Chicago land values](/wiki/hoyt-chicago-land-values/) (1933) first documented empirically — whose collapse had already begun weakening bank balance sheets before, and independent of, the October 1929 crash (Anderson, Ch. 11–12).[2] Anderson cites Herbert D. Simpson's contemporaneous study, ["Real Estate Speculation and the Depression"](/wiki/simpson-real-estate-speculation-depression/) (*American Economic Review*, March 1933), which identified real-estate loan losses as the largest single factor behind the roughly 4,800 US bank failures of 1930–33 (Anderson, Ch. 11–12, citing Simpson 1933). Anderson also cites Charles Calomiris and Joseph Mason's later econometric study, ["Consequences of Bank Distress During the Great Depression"](/wiki/calomiris-mason-bank-distress/) (*American Economic Review*, 2003), which uses bank-level data to show that real-estate loan exposure and local economic fundamentals — not only contagious panic — explain much of the pattern of Depression-era bank failures (Anderson, Ch. 12).[2][3] On this account, the 1929 stock crash accelerated and publicized a downturn whose deeper cause was an over-leveraged land boom working its way through the banking system.
 
 ## Limits and Caveats
 
@@ -37,6 +37,7 @@ The evidence that real-estate-linked bank distress played a large, previously un
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the general concept of land-driven cycles underlying this rebuttal
 - [Objection: Cycles Are Credit, Not Land](/wiki/cycles-are-credit-not-land/) — a related rival explanation for business cycles
 - [Homer Hoyt](/wiki/homer-hoyt/) — source of the Chicago land-value data underlying the cycle-dating claim
+- [One Hundred Years of Land Values in Chicago (Hoyt 1933)](/wiki/hoyt-chicago-land-values/) — the founding empirical land-cycle study behind the 1926-peak dating
 - [Anderson, The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — primary Georgist source for this objection
 
 ## Sources

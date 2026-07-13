@@ -1,9 +1,17 @@
 ---
-title: "Geolibertarianism"
+bears_on_objections:
+- lvt-is-socialism
 category: concepts
-tags: [concepts, geolibertarianism, libertarian, georgism, property-rights]
+excerpt: A political philosophy combining libertarian individual rights with the Georgist
+  principle that land rent belongs to the community — LVT as the one legitimate tax.
 stub: false
-excerpt: "A political philosophy combining libertarian individual rights with the Georgist principle that land rent belongs to the community — LVT as the one legitimate tax."
+tags:
+- concepts
+- geolibertarianism
+- libertarian
+- georgism
+- property-rights
+title: Geolibertarianism
 ---
 
 ## Definition

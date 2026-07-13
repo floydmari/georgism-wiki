@@ -1,15 +1,27 @@
 ---
-title: "Melichar (1978): Farm Income and Asset Values, 1950-77"
+authors:
+- Emanuel Melichar
+bears_on_objections:
+- oil-shocks-cause-recessions
 category: research
-subcategory: wiki-research-inequality
-tags: [research, 18-year-land-cycle, farmland, federal-reserve, power-in-the-land, empirical, stub]
-authors: [Emanuel Melichar]
-year: 1978
-tier: Supplementary
+excerpt: A Federal Reserve economist's study of the residual return to US farm production
+  assets, 1950-77, used by Fred Harrison as official-data corroboration of an 18-year
+  cycle in the return to farmland.
+last_reviewed: 2026-07-12
 source_url: https://ideas.repec.org/f/pme709.html
 stub: true
-excerpt: "A Federal Reserve economist's study of the residual return to US farm production assets, 1950-77, used by Fred Harrison as official-data corroboration of an 18-year cycle in the return to farmland."
-last_reviewed: 2026-07-12
+subcategory: wiki-research-inequality
+tags:
+- research
+- 18-year-land-cycle
+- farmland
+- federal-reserve
+- power-in-the-land
+- empirical
+- stub
+tier: Supplementary
+title: 'Melichar (1978): Farm Income and Asset Values, 1950-77'
+year: 1978
 ---
 
 ## Overview

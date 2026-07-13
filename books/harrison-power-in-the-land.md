@@ -1,15 +1,33 @@
 ---
-title: "The Power in the Land: An Inquiry into Unemployment, the Profits Crisis and Land Speculation"
+authors:
+- Fred Harrison
+bears_on_objections:
+- nationalization-solves-the-land-problem
 category: books
-tags: [research, books-publications, land-cycle, 18-year-cycle, land-speculation, fred-harrison, shepheard-walwyn, hoyt, australia, japan]
-authors: [Fred Harrison]
-year: 1983
-tier: core
+excerpt: Fred Harrison's 1983 book presents the 18-year land cycle as the driver of
+  the business cycle, extending Homer Hoyt's Chicago research with UK, Japanese, and
+  Australian evidence. Harrison predicted the 1992 recession nine years ahead.
+last_reviewed: 2026-07-05
 source_url: https://shepheardwalwyn.com/product/the-power-in-the-land/
 stub: false
-excerpt: "Fred Harrison's 1983 book presents the 18-year land cycle as the driver of the business cycle, extending Homer Hoyt's Chicago research with UK, Japanese, and Australian evidence. Harrison predicted the 1992 recession nine years ahead."
-last_reviewed: 2026-07-05
-supports_outcomes: [lvt-dampens-land-speculation, split-rate-increases-construction]
+supports_outcomes:
+- lvt-dampens-land-speculation
+- split-rate-increases-construction
+tags:
+- research
+- books-publications
+- land-cycle
+- 18-year-cycle
+- land-speculation
+- fred-harrison
+- shepheard-walwyn
+- hoyt
+- australia
+- japan
+tier: core
+title: 'The Power in the Land: An Inquiry into Unemployment, the Profits Crisis and
+  Land Speculation'
+year: 1983
 ---
 
 ## Summary

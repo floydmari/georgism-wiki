@@ -5,7 +5,7 @@ tags: [objections, business-cycle, credit, finance, land-speculation, 18-year-cy
 stub: false
 status: "Partly conceded — the pure 'autonomous land clock' claim is the wiki's weakest, and the credit critique lands against it; the defensible claim is that land is the dominant collateral through which credit booms run, so the two accounts describe one machine and their remedies are complements."
 excerpt: "The credit school argues the boom-bust regularity that actually predicts crises is credit growth, not land speculation (Schularick & Taylor: 'credit booms gone wrong'), and Minsky-style leverage dynamics need no land to generate cycles. The steelman, why land and credit are largely the same phenomenon in the mortgage book, and what the wiki should stop overselling."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -58,6 +58,11 @@ economy, **land and credit are largely the same phenomenon seen from two sides.*
   "resemble real estate funds." So Schularick & Taylor's "credit" and the Georgist
   "land" are, in the mortgage book, mostly the *same dollars*
   ([banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/)).
+  A De Nederlandsche Bank study of 74 economies (1990–2016) documents the same
+  pattern as an ongoing [**"debt shift"**](/wiki/bezemer-samarina-zhang-debt-shift/):
+  bank lending has moved decisively away from productive business credit and toward
+  mortgages and real estate — so the credit aggregate the credit school tracks is,
+  increasingly, land credit by another name.
 - **Land supplies the collateral and the ratchet.** What makes a credit boom
   self-reinforcing is collateral whose price rises as more is lent against it. Land is
   the ideal such collateral precisely because its supply is fixed: rising prices raise
@@ -104,6 +109,7 @@ attack the same instability from two ends.** Not "cycles are land, not credit," 
 - [Hyman Minsky](/wiki/hyman-minsky/) — economist behind the financial instability hypothesis, the objection's central theoretical anchor
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/) — the claims this objection tests
 - [The Great Mortgaging](/wiki/great-mortgaging/) · [Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — why credit and land largely coincide
+- [Bezemer, Samarina & Zhang: the debt shift](/wiki/bezemer-samarina-zhang-debt-shift/) — 74-economy evidence that bank credit has shifted from business toward mortgages/real estate, i.e. toward land
 - [Knoll, Schularick & Steger — house prices](/wiki/knoll-schularick-steger-house-prices/) — the boom is mostly the land component
 - [FIRE Sector](/wiki/fire-sector/) · [The Rentier Economy](/wiki/the-rentier-economy/) — the finance-frontier context
 - [2008 Financial Crisis](/wiki/2008-financial-crisis/) · [Land Bubble](/wiki/land-bubble/)

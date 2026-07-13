@@ -1,11 +1,22 @@
 ---
-title: "Deadweight Loss"
+bears_on_objections:
+- laffer-curve-applies-to-lvt
 category: concepts
-tags: [deadweight-loss, economics, taxation, land-value-tax, efficiency]
-stub: false
-excerpt: "The loss of economic welfare when a tax drives the quantity traded below its efficient level, preventing mutually beneficial transactions. Because land's supply is fixed, a tax on land value causes no such loss — the core efficiency argument for taxing land."
-sources: [mirrlees-2011]
+excerpt: The loss of economic welfare when a tax drives the quantity traded below
+  its efficient level, preventing mutually beneficial transactions. Because land's
+  supply is fixed, a tax on land value causes no such loss — the core efficiency argument
+  for taxing land.
 pd_quotes: true
+sources:
+- mirrlees-2011
+stub: false
+tags:
+- deadweight-loss
+- economics
+- taxation
+- land-value-tax
+- efficiency
+title: Deadweight Loss
 ---
 
 ## Definition

@@ -1,15 +1,30 @@
 ---
-title: "Ricardo's Law: House Prices and the Great Tax Clawback Scam"
+authors:
+- Fred Harrison
+bears_on_objections:
+- marxist-critique-of-georgism
 category: books
-tags: [research, books-publications, tax-clawback, ricardo, economic-rent, land-value-tax, fred-harrison, shepheard-walwyn]
-authors: [Fred Harrison]
-year: 2006
-tier: important
+excerpt: Fred Harrison's 2006 book argues that taxes on wages and capital are effectively
+  a 'clawback' of land rents — the tax system transfers wealth from the poor to the
+  rich by taxing production while leaving land rents privatized. The book estimates
+  deadweight losses at 30p-£2 per pound raised.
+last_reviewed: 2026-07-05
 source_url: https://shepheardwalwyn.com/product/ricardos-law/
 stub: false
-excerpt: "Fred Harrison's 2006 book argues that taxes on wages and capital are effectively a 'clawback' of land rents — the tax system transfers wealth from the poor to the rich by taxing production while leaving land rents privatized. The book estimates deadweight losses at 30p-£2 per pound raised."
-last_reviewed: 2026-07-05
-supports_outcomes: [land-rent-could-fund-government]
+supports_outcomes:
+- land-rent-could-fund-government
+tags:
+- research
+- books-publications
+- tax-clawback
+- ricardo
+- economic-rent
+- land-value-tax
+- fred-harrison
+- shepheard-walwyn
+tier: important
+title: 'Ricardo''s Law: House Prices and the Great Tax Clawback Scam'
+year: 2006
 ---
 
 ## Summary

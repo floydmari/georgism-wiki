@@ -5,7 +5,7 @@ tags: [objections, political-economy, homevoter, fischel, feasibility, transitio
 stub: false
 status: "Substantially valid as politics — the serious responses are design responses"
 excerpt: "The political-economy objection, steelmanned via Fischel's Homevoter Hypothesis: homeowners' dominant, undiversifiable asset makes them the decisive local voting bloc, and they rationally oppose any tax that capitalizes into lower home values — which a land value tax does by design."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -34,7 +34,12 @@ revolt to the [property tax's unusual *salience*](/wiki/cabral-hoxby-hated-prope
 visibility to payers relative to taxes hidden in escrow or withholding — exactly the feature a
 land value tax shares and cannot conceal. Two-thirds of
 households in Anglophone democracies are owner-occupiers; a tax whose incidence
-falls on them arrives pre-organized against.
+falls on them arrives pre-organized against. [Tullock's transitional-gains
+trap](/wiki/tullock-transitional-gains-trap/) sharpens the diagnosis: once a
+privilege (here, untaxed land value) is capitalized into asset prices, current
+owners earn only a normal return on their purchase yet face a real loss if it
+is removed — so they rationally organize to block reform even when the original
+windfall accrued to someone else entirely.
 
 ## The Response
 
@@ -56,10 +61,15 @@ diagnosis while disputing inevitability:
    politically decisive constituency — see
    [asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/) and the
    [transition wealth shock](/wiki/lvt-transition-wealth-shock/) objection pages.
-3. **The bloc is not monolithic over time.** Renters and priced-out younger
-   cohorts are a growing share of the electorate in exactly the metros where land
-   rents are highest — the constituency arithmetic that produced the modern YIMBY
-   coalition ([housing-crisis narrative](/wiki/the-housing-crisis-is-a-land-crisis/)).
+3. **The bloc is not monolithic over time, and opposition can flip.** Renters and
+   priced-out younger cohorts are a growing share of the electorate in exactly the
+   metros where land rents are highest — the constituency arithmetic that produced
+   the modern YIMBY coalition ([housing-crisis narrative](/wiki/the-housing-crisis-is-a-land-crisis/)).
+   And revealed preference is not fixed: Stockholm's 2006
+   [congestion-charge trial](/wiki/eliasson-stockholm-trial-2006/) — an asset- and
+   cost-affecting charge that majorities opposed beforehand — flipped to majority
+   support once voters experienced it, a documented precedent that entrenched
+   opposition to a capitalizing charge need not be permanent.
 4. **Fischel cuts both ways.** The homevoter mechanism explains *why zoning is
    exclusionary* — homeowners use land-use control to protect capitalized value —
    which is the Georgist diagnosis of regulatory rent

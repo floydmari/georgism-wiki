@@ -5,7 +5,7 @@ tags: [objections, malthusianism, population, poverty, stub]
 stub: true
 status: "Rejected by George and by mainstream demography as a general theory of poverty, though population-resource pressure remains a live, separate concern in ecological economics"
 excerpt: "The claim, dating to Malthus (1798), that poverty results from population growth outrunning food supply rather than from unequal land distribution — the oldest rival explanation of poverty, which Henry George devoted a whole book to refuting."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -22,6 +22,8 @@ Malthusian reasoning has proven durable because it offers a simple, resource-bas
 
 Fred Harrison's *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (2006) restates this Georgist line in its historical-political register, describing Malthusian population theory as a "blame-the-poor doctrine" that displaced attention from the tax and land-tenure system onto the poor's own reproductive choices (Ch. 3.2, Ch. 4.1). Lars Doucet's *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* (2022) situates George's critique in its historical context and notes that 20th-century agricultural productivity gains — the Green Revolution — falsified the specific Malthusian prediction that food production could not keep pace with population growth (Ch. 5).
 
+Modern economics converges on George's structural point from two directions. First, Amartya Sen's *Poverty and Famines* (1981) shows that major famines — including the Bengal famine of 1943, which killed roughly three million people — occurred without any large fall in aggregate food availability; the deaths resulted from collapses in particular groups' "entitlements" (their command over food through wages, employment, and ownership), not from population outrunning the food supply.[5] This is precisely George's claim that want tracks distribution and access, not sheer numbers. Second, the empirically documented **demographic transition** — the observed pattern in which fertility falls sharply as incomes and living standards rise — reverses the Malthusian causal arrow: rather than any gain in wages being absorbed by a corresponding rise in births, sustained prosperity has been followed by *declining* birth rates across the developed and much of the developing world.
+
 ## Limits and Caveats
 
 Malthus's *strong* claim — that population growth mechanically outpaces food supply — is widely regarded by economists and demographers as empirically falsified for the modern era, given sustained productivity growth in agriculture. However, this does not fully dispose of *every* population-resource concern: contemporary debates about carrying capacity, water scarcity, and ecological limits raise related but distinct questions that sit on Georgism's more contested frontier (ecological and resource rents) rather than on the land-rent core that George's own rebuttal addresses. Georgists generally hold that scarcity of *land and resource access*, not sheer population numbers, is the operative constraint — but this is a narrower and more defensible claim than Malthus's original thesis, and reasonable people still debate how population growth interacts with resource constraints in specific contexts (e.g., rapidly urbanizing developing economies).
@@ -37,6 +39,7 @@ Malthus's original population-outstrips-food thesis is not supported as a genera
 - [The Crime of Poverty](/wiki/crime-of-poverty/) — George's popular-lecture restatement that poverty is socially produced, not natural
 - [Land Monopoly](/wiki/land-monopoly/) — the Georgist alternative explanation for poverty amid progress
 - [Ricardo's Law (Harrison, 2006)](/wiki/harrison-ricardos-law/) — restates the "blame-the-poor doctrine" framing
+- Amartya Sen, *Poverty and Famines* (1981) — the entitlement thesis that famine is distributional, not a matter of population outstripping food (external source; candidate for a dedicated research page)
 - [Land is a Big Deal (Doucet, 2022)](/wiki/land-is-a-big-deal/) — situates Malthus in George's argument and notes the Green Revolution's falsification of the strong Malthusian claim
 
 ## Sources
@@ -45,3 +48,4 @@ Malthus's original population-outstrips-food thesis is not supported as a genera
 2. Henry George, *Progress and Poverty* (1879), Book II — used for George's direct refutation of Malthus and his counter-examples (Brazil vs. densely populated but non-impoverished regions). [Full text](https://www.henrygeorge.org/pcontents.htm); see also the Henry George Institute's summary, ["Overpopulation and Poverty"](https://henrygeorge.org/bob/overpopulation-and-poverty/).
 3. Fred Harrison, *Ricardo's Law: House Prices and the Great Tax Clawback Scam* (2006), Ch. 3.2, Ch. 4.1 — used for the "blame-the-poor doctrine" characterization of Malthusianism. See [wiki book page](/wiki/harrison-ricardos-law/).
 4. Lars A. Doucet, *Land is a Big Deal* (2022), Ch. 5 — used for the historical framing of George's critique and the Green Revolution as an empirical falsification of the strong Malthusian prediction. See [wiki book page](/wiki/land-is-a-big-deal/).
+5. Amartya Sen, *Poverty and Famines: An Essay on Entitlement and Deprivation* (Oxford: Clarendon Press, 1981) — used for the entitlement thesis that famines (incl. the 1943 Bengal famine) arise from distributional/entitlement failures rather than aggregate food scarcity, corroborating George's structural (as against Malthusian) reading of poverty. [Publisher record](https://global.oup.com/academic/product/poverty-and-famines-9780198284635).

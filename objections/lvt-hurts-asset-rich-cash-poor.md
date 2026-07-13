@@ -3,8 +3,9 @@ title: "Objection: LVT hurts the 'asset-rich, cash-poor'"
 category: objections
 tags: [objections, fairness, retirees, transition, critique]
 stub: false
-status: "Addressed — standard deferral and phase-in mechanisms resolve it"
+status: "Addressed as a cash-flow-timing problem — the short-run burden on land-rich, income-poor retirees is genuinely large (CWC models ~43% income declines before offsets), but deferral and phase-in resolve it without exempting land value"
 excerpt: "The 'little old lady in a valuable house' objection — that LVT could force out land-rich but cash-poor owners — and the well-established mechanisms that resolve it."
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -20,9 +21,13 @@ This is a real concern, but a **well-understood and solvable** one, addressed by
 3. **Phase-in.** Introducing LVT gradually lets prices and owners adjust, avoiding sudden shocks.
 4. **It targets land, not people.** The case highlights that the owner is sitting on a **valuable, underused location** the community created — exactly the situation LVT is meant to address. Deferral resolves the hardship *without* exempting the land value from eventual capture.
 
+## Limits and Caveats
+
+The objection is not a strawman, and the honest reader should grant how large the raw burden can be **before** offsets and deferral. Classical theory concedes the point: [Pigou](/wiki/pigou-land-taxation/) noted that a heavy site-value tax's capitalized burden lands on *current* owners, who may have bought at full price. The concrete modelling bears this out — [Common Wealth Canada's distributional analysis](/wiki/cwc-distributional-impacts-lvt/) finds retired, land-rich but income-poor homeowners are the hardest-hit group, with modelled income declines up to roughly 43% before offsetting reforms — and [England & Zhao](/wiki/england-zhao-lvt-distribution/) show an LVT can be regressive against *current* income, exactly the pattern this objection describes. The Georgist reply is not that this burden is imaginary but that it is a **cash-flow-timing** problem, not a fairness-of-incidence one: deferral converts the annual bill into a lien settled at sale or inheritance, so the burden is borne by the eventual realized land value rather than out of a fixed pension. The residual honest limit is that deferral requires the political will to let liens accumulate against long-held family homes — administratively routine (many US states already run senior-deferral schemes) but politically sensitive — and that phase-in, not an overnight switch, is what keeps the transition humane. Countervailing incidence evidence tempers the strong form of the objection: [Plummer (2010)](/wiki/plummer-lvt-distribution/) finds residential liability falls about 30% on average regardless of household income, and [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) find incidence turns on a parcel's land-share, not the owner's income — so the "little old lady" is a real but bounded subset, not the typical case.
+
 ## Net Assessment
 
-The asset-rich/cash-poor case is a **design consideration**, fully handled by deferral and phase-in, not a reason to reject LVT.
+The asset-rich/cash-poor case is a **design consideration** — with a genuinely large short-run burden for a specific group, fully handled by deferral and phase-in — not a reason to reject LVT.
 
 ## See Also
 

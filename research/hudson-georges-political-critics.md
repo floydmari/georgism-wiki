@@ -1,16 +1,29 @@
 ---
-title: "Hudson (2008): Henry George's Political Critics"
+authors:
+- Michael Hudson
+bears_on_objections:
+- lvt-not-widely-adopted
+- marxist-critique-of-georgism
 category: research
-subcategory: wiki-research-housing
-tags: [research, hudson, henry-george, reception-history, political-isolation, single-tax, stub]
-authors: [Michael Hudson]
-year: 2008
-source_url: https://michael-hudson.com/wp-content/uploads/2010/03/0801GeorgesCritics.pdf
-tier: Important
-stub: true
-excerpt: "Michael Hudson's 2008 journal article cataloguing twelve political (not economic) criticisms that isolated Henry George from socialists, organized labor, and academic economists after 1887 — a reception-history account of why the single-tax movement failed to build durable coalitions."
+excerpt: Michael Hudson's 2008 journal article cataloguing twelve political (not economic)
+  criticisms that isolated Henry George from socialists, organized labor, and academic
+  economists after 1887 — a reception-history account of why the single-tax movement
+  failed to build durable coalitions.
 last_reviewed: 2026-07-12
-bears_on_objections: [lvt-not-widely-adopted]
+source_url: https://michael-hudson.com/wp-content/uploads/2010/03/0801GeorgesCritics.pdf
+stub: true
+subcategory: wiki-research-housing
+tags:
+- research
+- hudson
+- henry-george
+- reception-history
+- political-isolation
+- single-tax
+- stub
+tier: Important
+title: 'Hudson (2008): Henry George''s Political Critics'
+year: 2008
 ---
 
 ## Overview

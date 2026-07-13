@@ -1,15 +1,27 @@
 ---
-title: "Cord, Henry George: Dreamer or Realist? (1965)"
+authors:
+- Steven B. Cord
+bears_on_objections:
+- progress-and-poverty-outdated
 category: research
-subcategory: wiki-research-lvt
-tags: [research, cord, henry-george, historiography, reception, single-tax, stub]
-authors: [Steven B. Cord]
-year: 1965
-source_url: https://www.jstor.org/stable/j.ctv5rdwgp
-tier: Core
-stub: true
-excerpt: "Steven B. Cord's study of how American economists and historians treated Henry George from 1879 onward — a standard scholarly assessment of George's mixed academic reception despite his public influence."
+excerpt: Steven B. Cord's study of how American economists and historians treated
+  Henry George from 1879 onward — a standard scholarly assessment of George's mixed
+  academic reception despite his public influence.
 last_reviewed: 2026-07-12
+source_url: https://www.jstor.org/stable/j.ctv5rdwgp
+stub: true
+subcategory: wiki-research-lvt
+tags:
+- research
+- cord
+- henry-george
+- historiography
+- reception
+- single-tax
+- stub
+tier: Core
+title: 'Cord, Henry George: Dreamer or Realist? (1965)'
+year: 1965
 ---
 
 ## Overview

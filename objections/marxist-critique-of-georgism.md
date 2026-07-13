@@ -5,7 +5,7 @@ tags: [objections, marxism, class-conflict, karl-marx, single-tax, stub]
 stub: true
 status: "Long-settled historical rift, still an open theoretical disagreement — Marx dismissed George's single tax in 1881 as a bourgeois half-measure; whether land rent or capital-labour conflict is the primary driver of exploitation remains disputed between the traditions"
 excerpt: "Marx's own verdict on Henry George — a proposal to save capitalist domination 'decked out with socialism' — crystallizes the deeper Marxist objection that class conflict over surplus value, not land rent, is capitalism's central mechanism of exploitation."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 ---
 
 ## The Objection
@@ -42,7 +42,12 @@ challenge. The 1881 letter is widely credited with helping set Marxist and
 socialist organizations against the [single tax](/wiki/single-tax/) movement
 in the following decades, even where Georgist and socialist campaigns
 otherwise shared personnel, audiences, and enemies (concentrated wealth,
-slum landlordism, urban poverty).
+slum landlordism, urban poverty). [Michael Hudson's reception
+history](/wiki/hudson-georges-political-critics/) catalogues twelve
+criticisms — political and organizational as much as theoretical — that
+isolated George from socialist and labor coalitions after 1887, corroborating
+that the estrangement of the organized left from Georgism was a real and
+consequential historical rift.
 
 ## The Response
 
