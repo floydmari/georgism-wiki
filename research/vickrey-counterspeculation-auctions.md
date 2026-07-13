@@ -52,5 +52,6 @@ The paper was central to the work cited when Vickrey shared the 1996 Nobel Memor
    (Princeton University Press, 2018), Preface, Ch. 1–2 — discovery source; used
    for the framing of Vickrey's auction mechanism as the ancestor of the book's
    COST/mechanism-design proposals. [Book page](/wiki/posner-weyl-radical-markets/)
-   [CITATION NEEDED: direct page citation from Posner & Weyl's text — this stub
-   draws on the discovery locator rather than a fresh read of the preface/Ch. 1–2.]
+   Specific page numbers within Posner & Weyl have not been pinned to a fresh read;
+   this citation reflects the discovery locator (Preface, Ch. 1–2) rather than a
+   verified page-level reference.

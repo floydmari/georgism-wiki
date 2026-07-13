@@ -38,5 +38,5 @@ Pistor's argument bears directly on the Geoist rent-gradient: it supplies a gene
 
 ## Sources
 
-1. Katharina Pistor, *The Code of Capital: How the Law Creates Wealth and Inequality* (Princeton, NJ: Princeton University Press, 2019). [Publisher page](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital) — used for the book's thesis, structure, and author credentials (A-claim; not yet independently read in full by the wiki — [CITATION NEEDED: direct page cites once the primary text is read]).
+1. Katharina Pistor, *The Code of Capital: How the Law Creates Wealth and Inequality* (Princeton, NJ: Princeton University Press, 2019). [Publisher page](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital) — used for the book's thesis, structure, and author credentials (A-claim). This page summarizes the book at the level of its thesis, structure, and author credentials; the wiki has not yet read the primary text in full, so no page-level citations to specific passages are given here.
 2. Cited in Akhil Patel, *The Secret Wealth Advantage* (Harriman House, 2023), Ch. 4 — the discovery source; see [wiki summary](/wiki/patel-secret-wealth-advantage/).

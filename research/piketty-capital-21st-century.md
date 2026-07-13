@@ -126,8 +126,8 @@ structures, and land plus a residual "that can be interpreted as representing fi
 cost," and finds that **"Markups are responsible for most of the change in shares, in both
 directions; in particular, accumulation of equipment or structures cannot explain the recent
 rise"** [verified against the [Brookings PDF](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_rognlie.pdf),
-p. 3]. [VERIFY — sharpened this session: the underlying primary paper, Piketty & Zucman, "Capital is
-Back: Wealth–Income Ratios in Rich Countries 1700–2010," *QJE* 129(3), 2014, was fetched in full
+p. 3]. A note on provenance for the Piketty–Zucman attribution above: the underlying primary paper, Piketty & Zucman, "Capital is
+Back: Wealth–Income Ratios in Rich Countries 1700–2010," *QJE* 129(3), 2014, has been consulted in full
 ([piketty.pse.ens.fr](https://piketty.pse.ens.fr/files/PikettyZucman2014QJE.pdf) /
 [gabriel-zucman.eu](https://gabriel-zucman.eu/files/PikettyZucman2014QJE.pdf)). It predates
 Rognlie's critique and contains **no** US-specific "non-housing capital share rises" rejoinder.
@@ -142,7 +142,7 @@ Piketty–Zucman position (housing belongs in capital; the aggregate share rose)
 [CEPR/VoxEU](https://cepr.org/voxeu/columns/pikettys-rising-share-capital-income-and-us-housing-market)
 and [Equitable Growth](https://equitablegrowth.org/labors-share-lost/) discussions — not a located
 primary claim that a *non-housing* rise survives in a preferred US specification, which remains
-attributable only to those secondary/tertiary accounts.] The scholarly consensus that has since formed — reflected in this wiki's
+attributable only to those secondary/tertiary accounts. The scholarly consensus that has since formed — reflected in this wiki's
 [capital-share-rise-is-land](/wiki/capital-share-rise-is-land/) outcome page, which rates the
 evidence "Strong (independently replicated across US and European data)" — favours the
 Rognlie/Bonnet-et-al./La Cava land-centred reading over Piketty's original broad-capital

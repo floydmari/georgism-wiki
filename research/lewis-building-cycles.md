@@ -33,11 +33,15 @@ secondary summaries describe the cycle as tracing back at least to the early
 1700s, with reported cycle lengths in the literature ranging narrowly around
 17–21 years.[3]
 
-`[VERIFY: this page is drafted from secondary/discovery-source summaries and a
-book-listing page, not a direct read of Lewis's primary text; the exact
-peak/trough dates, the precise definition of "building cycle" Lewis uses, and
-his own stated conclusions about periodicity should be confirmed against the
-primary source or a full academic review in a future revision.]`
+This page is drafted from secondary and discovery-source summaries, a book-listing
+page, and the peer-reviewed reception record (Cairncross's 1967 *Economic Journal*
+review and Barras's 2009 synthesis, cited below), not from a direct read of Lewis's
+primary text, which this wiki has not obtained. The exact peak/trough dates, the
+precise definition of "building cycle" Lewis uses, and his own stated conclusions
+about periodicity should accordingly be treated as second-hand — the 17.4-year
+average in particular is Harrison's reading of Lewis's Table 5.1, not a figure
+independently confirmed against the original — and could be checked against the
+primary source or a full academic review should a future editor gain access.
 
 ## Relation to the Georgist Case
 

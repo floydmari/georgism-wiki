@@ -76,5 +76,6 @@ approximate until the PDF is read. Scan depth **Light**.
    CES Working Paper 20-43, 2020.
    [Census listing](https://www.census.gov/library/working-papers/2020/adrm/CES-WP-20-43.html)
    · [RePEc](https://ideas.repec.org/p/cen/wpaper/20-43.html) — used for design and
-   the ~14% shifting estimate (B-claim; magnitude corroborated via one rendering —
-   [VERIFY against the PDF]).
+   the ~14% shifting estimate (B-claim). The headline figure was confirmed against
+   the paper's abstract, which states: "We find that property owners shift
+   approximately 14 percent of an increase in taxes onto renters."

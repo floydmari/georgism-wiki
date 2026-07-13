@@ -20,7 +20,7 @@ Within the Georgist literature the paper is best known at second hand: Fred Harr
 
 ## Status of This Page
 
-This wiki has not obtained the original 1953 text, which sits behind a journal paywall; the description above of Harrison's use of the paper is drawn from Harrison's own citation of it, not from independent reading of Phelps Brown & Weber's data or methodology. [CITATION NEEDED: direct access to the 1953 article, or a secondary economic-history source summarizing its specific capital-return findings, to verify Harrison's characterization independently.] This page should be expanded, and the resulting land-vs-capital divergence pattern compared against the wider [boom-bust cycle](/wiki/boom-bust-cycle/) evidence base, once that access is available.
+This wiki has not obtained the original 1953 text, which sits behind the *Economic Journal* paywall at Oxford Academic and JSTOR; a web search this session located no free, open-access, or archived full copy, and no secondary economic-history source restating its specific capital-return figures was found. The description above of Harrison's use of the paper is therefore drawn from Harrison's own citation of it in *The Power in the Land*, not from independent reading of Phelps Brown & Weber's data or methodology, and Harrison's characterization of the paper's declining-capital-returns finding should be read as second-hand until the primary text can be consulted. Should a future editor gain access, this page should be expanded and the resulting land-vs-capital divergence pattern compared against the wider [boom-bust cycle](/wiki/boom-bust-cycle/) evidence base.
 
 ## See Also
 

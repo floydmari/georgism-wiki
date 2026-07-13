@@ -58,10 +58,14 @@ dollar loss. The number $7.097 trillion is the US *counterfactual GDP level* (wh
 US output would have been *with* the rent-based regime), **not** a G7 foregone-
 output loss; the wiki's "≈$7 trillion of foregone output for the G7" (carried via
 Harrison, *Boom Bust*, Ch. 14) may conflate that US counterfactual level with an
-aggregate loss. [VERIFY: obtain the primary *Losses of Nations* chapter and
-confirm whether any combined-G7 loss figure exists and what Harrison's *Boom
-Bust* Ch. 14 §2 actually states; do not cite "$7 trillion" as a G7 loss until
-reconciled.]
+aggregate loss. The primary *Losses of Nations* chapter has not been independently
+obtained: the sharetherents mirror and other known copies return HTTP 404, and no
+free or archived full text has been located, so it has not been possible to confirm
+whether the volume itself reports any single combined-G7 loss figure or exactly what
+Harrison's *Boom Bust* Ch. 14 §2 states. Pending recovery of the primary text, the
+"$7 trillion" magnitude should be read as most consistent with the US counterfactual
+GDP *level* documented above rather than treated as a verified aggregate G7 foregone-
+output loss.
 
 ## See Also
 
