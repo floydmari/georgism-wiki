@@ -9,7 +9,13 @@ his side), each one has a ready wiki target and would be queued as a
 
 **How to deliver:** drop files in a Drive folder shared with the session, or paste
 working links into a BACKLOG task. Registry rows already exist for most of these
-(status noted). Free/legal copies only — no pirated files.
+(status noted). Free/legal copies preferred — no pirated files.
+
+> **PAID / LIBRARY ACCESS APPROVED (Floyd, 2026-07-13).** Purchased e-books, JSTOR /
+> publisher access, and working archive.org lending links are all in scope now. The
+> deferred primary-source checks that depend on these are tracked in
+> `sources/verification-backlog.md` — several are one-copy-clears-multiple (esp. *Radical
+> Markets*). Priority book-copy targets feeding that backlog are marked **[backlog]** below.
 
 ## Tier 1 — would upgrade multiple existing pages immediately
 
@@ -28,7 +34,10 @@ working links into a BACKLOG task. Registry rows already exist for most of these
 
 | Book | Why it matters / what it feeds |
 |------|-------------------------------|
-| **Posner & Weyl, *Radical Markets* (2018)** | The COST/Harberger-tax chapter backs the [radical-markets stub](../concepts/radical-markets.md) (queued for backfill) and [harberger-tax](../concepts/harberger-tax.md). Registry: Light. |
+| **Posner & Weyl, *Radical Markets* (2018)** **[backlog]** | The COST/Harberger-tax chapter backs the [radical-markets stub](../concepts/radical-markets.md) (queued for backfill) and [harberger-tax](../concepts/harberger-tax.md). **One copy also closes the page-cite backlog on [vickrey-counterspeculation-auctions](../research/vickrey-counterspeculation-auctions.md) and [myerson-satterthwaite-bilateral-trade](../research/myerson-satterthwaite-bilateral-trade.md).** Registry: Light. |
+| **Katharina Pistor, *The Code of Capital* (Princeton, 2019)** **[backlog]** | Full read needed for direct page cites on [pistor-code-of-capital](../research/pistor-code-of-capital.md) (currently cited, not read cover-to-cover). |
+| **Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998)** **[backlog]** | The Tideman & Plassmann deadweight-loss chapter behind [tideman-plassmann-losses-of-nations](../research/tideman-plassmann-losses-of-nations.md); no free/archived copy located (source PDF is 404). |
+| **George J. Miller, *Dying for Justice* (Centre for Land Policy Studies, 1999)** **[backlog]** | Not digitized; the 50,000-death figure on [miller-dying-for-justice](../research/miller-dying-for-justice.md) rests on Harrison's secondary account until a physical copy is read. |
 | ~~**Andelson (ed.), *Critics of Henry George* (2nd ed., 2 vols., Blackwell 2003)**~~ ✓ scanned 2026-07-06 (1st ed. 1979 via IA lending) — see [books/critics-of-henry-george](../books/critics-of-henry-george.md) |
 | ~~**Phillip Bryson, *The Economics of Henry George* (Palgrave, 2011)**~~ ✓ scanned 2026-07-06  — see [books/economics-of-henry-george](../books/economics-of-henry-george.md) |
 | **Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997)** | The standard history of economic theory; grounds the marginalism chronology now cited from abstracts. Not in registry. |
