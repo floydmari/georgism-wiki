@@ -6,7 +6,7 @@ tags: [research, housing-supply, uk, planning, land-values, official-report, stu
 authors: [Kate Barker]
 year: 2004
 tier: important
-source_url: https://www.gov.uk/government/publications/barker-review-of-housing-supply-final-report-recommendations
+source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20100407162704/http://www.hm-treasury.gov.uk/barker_review_of_housing_supply_recommendations.htm
 stub: true
 excerpt: "The UK Treasury-commissioned review by Bank of England MPC member Kate Barker: official documentation that Britain's housing shortage is a land-and-planning problem, with agricultural-to-residential land value gaps measured in hundredfolds — the institutional anchor for the UK supply diagnosis."
 last_reviewed: 2026-07-12

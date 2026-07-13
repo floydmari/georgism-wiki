@@ -6,7 +6,7 @@ tags: [research, citizens-dividend, resource-rents, alaska, poverty, inequality,
 authors: [Mouhcine Guettabi]
 year: 2019
 tier: important
-source_url: http://hdl.handle.net/11122/10581
+source_url: http://web.archive.org/web/20260331013108/https://scholarworks.alaska.edu/bitstream/handle/11122/10581/2019_05_20-EffectsOfAKPFD.pdf
 stub: false
 excerpt: "The authoritative literature synthesis of the Alaska Permanent Fund Dividend's socio-economic effects. Its verdict: the PFD has produced 'substantial poverty reductions for rural Alaska Natives' with no negative labor-market effect — but, in the most unexpected result, the evidence suggests it has increased measured income inequality."
 supports_outcomes: [rent-dividends-reduce-poverty, resource-rent-dividends-work]
@@ -90,8 +90,8 @@ the Alaska evidence is.
 
 1. Mouhcine Guettabi (2019), "What do we know about the effects of the Alaska Permanent Fund
    Dividend?," Institute of Social and Economic Research, University of Alaska Anchorage
-   (2019-05-20). [ScholarWorks handle](http://hdl.handle.net/11122/10581);
-   full-text PDF fetched via [Wayback copy](https://web.archive.org/web/2020/https://scholarworks.alaska.edu/bitstream/handle/11122/10581/2019_05_20-EffectsOfAKPFD.pdf)
+   (2019-05-20). ScholarWorks handle 11122/10581 (the live item was removed in the
+   ScholarWorks migration); full-text PDF read via [Wayback copy](http://web.archive.org/web/20260331013108/https://scholarworks.alaska.edu/bitstream/handle/11122/10581/2019_05_20-EffectsOfAKPFD.pdf)
    and read — used for the "Main findings" quotes on poverty (substantial reductions for rural
    Alaska Natives; declining over time), employment (no negative effect, small positive demand),
    health (birth weight, obesity), and income inequality (increases inequality in short and long

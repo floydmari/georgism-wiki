@@ -5,7 +5,7 @@ subcategory: wiki-research-georgism
 tags: [research, land, housing, credit, financialisation, land-value-tax, uk, book]
 authors: [Josh Ryan-Collins, Toby Lloyd, Laurie Macfarlane]
 year: 2017
-source_url: https://neweconomics.org/2017/02/rethinking-economics-land-housing
+source_url: https://archive.org/details/rethinkingeconom0000ryan
 tier: important
 stub: false
 excerpt: "A 2017 New Economics Foundation / Zed Books study arguing land is the missing factor in modern economics, and that a land-credit feedback loop between mortgage lending and land prices drives housing unaffordability and financial instability."
@@ -71,7 +71,7 @@ Three limits are worth stating plainly:
 
 ## Sources
 
-1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, London: Zed Books, in partnership with the New Economics Foundation, 280pp, ISBN 978-1-78699-118-8. [Publisher/NEF summary](https://neweconomics.org/2017/02/rethinking-economics-land-housing) — used for the book's thesis, structure, and publication details.
+1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, London: Zed Books, in partnership with the New Economics Foundation, 280pp, ISBN 978-1-78699-118-8. [full text at the Internet Archive](https://archive.org/details/rethinkingeconom0000ryan) — used for the book's thesis, structure, and publication details. (The original NEF summary page at neweconomics.org is no longer live.)
 2. John Tomaney (2017), "Book Review: Rethinking the Economics of Land and Housing by Josh Ryan-Collins, Toby Lloyd and Laurie Macfarlane," *LSE Review of Books*, 4 September 2017. [blogs.lse.ac.uk](https://blogs.lse.ac.uk/lsereviewofbooks/2017/09/04/book-review-rethinking-the-economics-of-land-and-housing-by-josh-ryan-collins-toby-lloyd-and-laurie-macfarlane/) — used for the reception assessment and characterisation of the book's argument and limits; all quotations verified against the review text directly.
 3. UCL Institute for Innovation and Public Purpose, bibliographic record for *Rethinking the Economics of Land and Housing*. [discovery.ucl.ac.uk](https://discovery.ucl.ac.uk/id/eprint/10078333/) — used to cross-check authorship and publication metadata.
 4. Edwin Buitelaar (2022), review of *Rethinking the Economics of Land and Housing*, *Housing, Theory and Society*, 39(1), 116–117, DOI: 10.1080/14036096.2020.1816714. [Utrecht University research portal](https://research-portal.uu.nl/en/publications/rethinking-the-economics-of-land-and-housing-by-ryan-collins-j-ll/) — the review's formal bibliographic heading cites the book as "by Ryan-Collins, J., Lloyd, T. and L. Macfarlane with a Foreword by J. Muellbauer," used to confirm the foreword attribution from a peer-reviewed source rather than bookseller listings.

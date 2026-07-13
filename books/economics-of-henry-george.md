@@ -5,7 +5,7 @@ tags: [research, books-publications, henry-george, economic-theory, distribution
 authors: [Phillip J. Bryson]
 year: 2011
 tier: core
-source_url: https://link.springer.com/book/10.1057/9780230339083
+source_url: https://link.springer.com/book/10.1057/9780230119987
 stub: false
 excerpt: "Bryson's 2011 academic monograph provides a comprehensive analysis of Henry George's economic theory, covering methodology, distribution theory, free trade, and land policy. Argues that George was 'a very orthodox economist' (Schumpeter) whose insights on land and rent remain relevant to modern economics."
 last_reviewed: 2026-07-07

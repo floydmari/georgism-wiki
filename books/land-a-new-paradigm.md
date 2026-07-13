@@ -5,7 +5,7 @@ tags: [research, books-publications, land-value-tax, economic-rent, law-of-rent,
 authors: [Martin Adams]
 year: 2015
 tier: important
-source_url: https://www.northatlanticbooks.com/book/land-a-new-paradigm-for-a-thriving-world/
+source_url: https://www.northatlanticbooks.com/shop/land/
 stub: false
 excerpt: "Adams's accessible introduction to Georgist economics, explaining how privatized land rent causes wealth inequality, business recessions, and ecological destruction. Published by North Atlantic Books under Creative Commons. Influenced by Fred Harrison and Fred Foldvary."
 last_reviewed: 2026-07-07

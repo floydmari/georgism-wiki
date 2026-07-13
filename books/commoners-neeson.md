@@ -5,7 +5,7 @@ tags: [research, books-publications, enclosure, common-rights, land-tenure, engl
 authors: [J. M. Neeson]
 year: 1993
 tier: important
-source_url: https://www.cambridge.org/core/books/commoners/
+source_url: https://www.cambridge.org/core/books/commoners/064EB5F2AD5FBB204A704FD0E801DDFC
 stub: false
 excerpt: "Neeson's social history of common right and parliamentary enclosure in 18th-century England, documenting how enclosure displaced small landholders and destroyed a peasantry dependent on shared land-use. Cambridge University Press, Past and Present Publications."
 last_reviewed: 2026-07-07
