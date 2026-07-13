@@ -165,7 +165,12 @@ def upsert(path):
         "custom_excerpt": (fm.get("excerpt") or "")[:300],
         "status": "published",
         "visibility": "public",
-        "featured": bool(fm.get("featured", False)),
+        # NOTE: `featured` is intentionally NOT set here. The curated homepage
+        # picks ("A cross-section worth your time") are managed OUT of band by
+        # the theme repo's set-wiki-featured workflow, not by markdown
+        # frontmatter. Forcing featured=false on every upsert wiped all picks
+        # on each full sync (2026-07-13). On update we preserve Ghost's current
+        # value (set below); on create Ghost defaults to false.
         "custom_template": "custom-wiki-entry",            # GOTCHA 2: or it renders as an article
         "authors": [{"slug": "progress-llm"}],             # all wiki entries attributed to Progress LLM
         "tags": build_tags(fm, folder),
@@ -176,6 +181,7 @@ def upsert(path):
     if r.status_code == 200:
         existing = r.json()["posts"][0]
         payload_post["updated_at"] = existing["updated_at"]   # required for PUT collision check
+        payload_post["featured"] = existing.get("featured", False)  # preserve curated homepage picks
         # GOTCHA 1: ?source=html  — without it the body is dropped
         u = f"{GHOST_URL}/ghost/api/admin/posts/{existing['id']}/?source=html"
         resp = requests.put(u, headers=headers(), json={"posts": [payload_post]})
