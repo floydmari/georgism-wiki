@@ -130,6 +130,6 @@ theory.
    hidden-rent categories (C/D-claims, advocate-economist).
 5. Henry George (1879), *Progress and Poverty*, Book VIII, Chs. II–III — the
    sufficiency claim and single-tax proposal being objected to; quotations verified
-   verbatim against the [repository full text](../sources/publicdomain/progress-and-poverty.md)
+   verbatim against the [full text](/wiki/progress-and-poverty-full-text/)
    ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain,
    EDITORIAL §3b).

@@ -78,7 +78,7 @@ nature rather than a remediable effect of land monopoly.[2]
    Malthus's role as the theoretical target of George's argument that population
    growth need not cause poverty. The "triple combination" passage quoted above
    was **verified verbatim this session against the repository's hosted
-   public-domain full text** of *Progress and Poverty*. [Book page](/wiki/progress-and-poverty/) · [hosted full text](/sources/publicdomain/progress-and-poverty.md)
+   public-domain full text** of *Progress and Poverty*. [Book page](/wiki/progress-and-poverty/) · [hosted full text](/wiki/progress-and-poverty-full-text/)
 3. Thomas Robert Malthus, *An Inquiry into the Nature and Progress of Rent, and
    the Principles by which it is Regulated* (London: John Murray, 1815) — primary
    text of the rent pamphlet; the definition of rent, the "immediate cause...

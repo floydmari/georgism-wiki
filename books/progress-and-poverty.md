@@ -1,16 +1,17 @@
 ---
 title: "Progress and Poverty"
-category: research
-subcategory: wiki-research-finance
-tags: [progress-and-poverty, henry-george, georgism, land-value-tax, political-economy]
+category: books
+tags: [books-publications, progress-and-poverty, henry-george, georgism, land-value-tax, political-economy, public-domain]
+authors: [Henry George]
+tier: core
 stub: false
 year: 1879
 supports_outcomes: [rising-land-costs-drive-poverty]
 sources: [george-1879]
-source_url: https://www.henrygeorge.org/pcontents.htm
-excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepens amid material progress, and the single-tax remedy. One of the best-selling economics books of the 19th century and the founding text of the Georgist movement."
+source_url: https://www.gutenberg.org/ebooks/55308
+excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepens amid material progress, and the single-tax remedy. One of the best-selling economics books of the 19th century and the founding text of the Georgist movement. The complete text is hosted on the wiki."
 pd_quotes: true
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-13
 bears_on_objections: [overpopulation-causes-poverty]
 ---
 
@@ -18,7 +19,7 @@ bears_on_objections: [overpopulation-causes-poverty]
 
 *Progress and Poverty: An Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth — the Remedy* was written by Henry George and published in 1879. Originally self-published after rejection by major publishers, it became one of the bestselling books of the 19th century and one of the most widely read works of political economy ever written, with millions of copies sold in dozens of translations.
 
-The complete public-domain text is held in this repository — all ten Books, the prefaces, and the book's own index: [**`sources/publicdomain/progress-and-poverty.md`**](../sources/publicdomain/progress-and-poverty.md) (the 1898 Memorial Edition text, transcribed from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308); see EDITORIAL §3b).
+The complete public-domain text is hosted on this wiki — all ten Books, the prefaces, and the book's own index: [**the full text of Progress and Poverty**](/wiki/progress-and-poverty-full-text/) (the 1898 Memorial Edition, transcribed from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308); see EDITORIAL §3b).
 
 ## The Central Question
 
@@ -76,5 +77,5 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty*. **Complete text held in this repository:** [`sources/publicdomain/progress-and-poverty.md`](../sources/publicdomain/progress-and-poverty.md) — the text of the Memorial Edition of the *Writings of Henry George*, Vol. I (New York: Doubleday & McClure, 1898), reproducing George's revised text (Preface to the Fourth Edition, dated November 1880), transcribed from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308), fetched 2026-07-11, Gutenberg boilerplate stripped top and bottom with no modernization (EDITORIAL §3b). Also available: [full text at henrygeorge.org](https://www.henrygeorge.org/pcontents.htm). — used as the primary text for George's argument, structure, and central claims summarised on this page (public domain).
+1. Henry George (1879), *Progress and Poverty*. **Complete text hosted on this wiki:** [Progress and Poverty — full text](/wiki/progress-and-poverty-full-text/) — the text of the Memorial Edition of the *Writings of Henry George*, Vol. I (New York: Doubleday & McClure, 1898), reproducing George's revised text (Preface to the Fourth Edition, dated November 1880), transcribed from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308), fetched 2026-07-11, Gutenberg boilerplate stripped top and bottom with no modernization (EDITORIAL §3b). Also available: [full text at henrygeorge.org](https://www.henrygeorge.org/pcontents.htm). — used as the primary text for George's argument, structure, and central claims summarised on this page (public domain).
 2. Authoritative editions published by the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used as the standard modern edition and custodian of the text.

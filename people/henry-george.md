@@ -73,7 +73,7 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [wiki summary](/wiki/progress-and-poverty/) · [in-repo full text](../sources/publicdomain/progress-and-poverty.md) (1898 Memorial Edition, from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) · [full text at henrygeorge.org](https://www.henrygeorge.org/pcontents.htm)
+1. Henry George (1879), *Progress and Poverty* — used for his central argument and biography-adjacent facts (A-claims; public domain). [book page](/wiki/progress-and-poverty/) · [full text](/wiki/progress-and-poverty-full-text/) (1898 Memorial Edition, from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) · [full text at henrygeorge.org](https://www.henrygeorge.org/pcontents.htm)
 2. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the movement-history claims (A/B-claims; the modern scholarly biography of the movement). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for bibliographic details (custodial source).
 4. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for biographical details, the California formation, and the triple legacy (D-claims). [Book page](/wiki/barker-henry-george-biography/)

@@ -149,6 +149,15 @@ not merely summarize. Rules:
   Full BOOKS stay summarized in `books/` with the complete text stored at
   `sources/publicdomain/<slug>.md` (repo-hosted and linked from the book page — GitHub
   renders it; it is not itself a wiki page).
+  - **P&P exception (Floyd, 2026-07-13):** *Progress and Poverty* now follows a
+    published-full-text pattern — the Georgist-lens summary is the BOOK page
+    `books/progress-and-poverty.md` (slug `progress-and-poverty`, keeps all inbound
+    wiring), and the complete text is a published TEXTS page
+    `texts/progress-and-poverty-full-text.md` (slug `progress-and-poverty-full-text`),
+    NOT a `sources/publicdomain/` repo file. Wiki pages must link to the full text via
+    `/wiki/progress-and-poverty-full-text/`, never a `sources/…md` path (which the wiki
+    does not render). Prefer this pattern for future foundational books whose full text
+    warrants on-wiki reading.
 - **Provenance still required:** name the edition/transcription source (Gutenberg,
   Internet Archive, HathiTrust, cooperative-individualism.org). Public domain waives the
   quote cap, not the accuracy rules — transcriptions get spot-checked like any source.

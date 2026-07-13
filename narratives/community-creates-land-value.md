@@ -173,7 +173,7 @@ This is, with its twin, the best-evidenced narrative premise in the wiki:
 
 1. Henry George, *Progress and Poverty*, 1879, Book VII, Ch. III (rent "the creation
    of the whole community"); the remedy is developed in Book VIII. Verified verbatim
-   against the [repository full text](../sources/publicdomain/progress-and-poverty.md)
+   against the [full text](/wiki/progress-and-poverty-full-text/)
    ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for
    the community-creation claim in George's own programme (A/C-claims).
 2. Winston Churchill, speech at the King's Theatre, Edinburgh, 17 July 1909, reprinted

@@ -1,7 +1,6 @@
 ---
 title: "Progress and Poverty (Henry George, 1879; Memorial Edition, 1898)"
-# NOTE: repo-hosted public-domain full text (EDITORIAL §3b) — NOT a wiki page.
-# The wiki page about this work is research/progress-and-poverty.md.
+category: texts
 tags: [texts, henry-george, progress-and-poverty, single-tax, land-value-tax, economic-rent, margin-of-production, political-economy]
 authors: [Henry George]
 year: 1879
@@ -29,7 +28,7 @@ earn at the margin, not by the productivity of the worker), of [economic rent](/
 and the [land value tax](/wiki/land-value-tax/) (Books VI–VIII: the remedy), and of the
 proposition later formalised as [ATCOR](/wiki/atcor/) — that a tax falling on rent need not be
 shifted, so other taxes can be abolished as the land tax rises. For the wiki's summary, the key
-arguments, the reception, and the modern scholarly re-appraisal, see the research page:
+arguments, the reception, and the modern scholarly re-appraisal, see the book page:
 [Progress and Poverty](/wiki/progress-and-poverty/). For the author, see
 [Henry George](/wiki/henry-george/).
 
