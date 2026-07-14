@@ -730,3 +730,17 @@ gate for new scans (congestion-pricing FIND next) is open.
 353 pages; warnings 473 (3 new stubs' honest flags absorbed; baseline 478); lint green;
 preview links verified.
 - 2026-07-12 (Floyd's ruling, codified in EDITORIAL §0): the loop's standing priority is ENRICHMENT of benefits/, problems/, and objections/ pages — assemble the research, wire every new source into the claim lanes it bears on, honestly including support FOR objections. Waves 18-19 (warning cleanup) and 20-21 (objections wiring, benefits reinforcement) are the model: every future wave closes by asking which claim pages it enriched.
+
+## 2026-07-14 — PUBLISH: waves 23–28 live on progress.org/wiki (134 pages, 0 errors)
+
+Ghost sync executed on Floyd's explicit go-ahead: 11 created, 123 updated, 0 failures
+(scratchpad/sync-log-2026-07-14.txt). New pages: the 10 wave-28 research entries
+(berman-alaska, bezemer-samarina-zhang, he-sun, kerspien-madsen-strulik, kozminski-baek,
+letwin, pretis-bc-carbon-tax, sachs-warner, sen-poverty-and-famines, stewart-canadian-land)
+plus progress-and-poverty-full-text (not previously on Ghost despite the a84a6b8 recategorize).
+Spot-checked live: bodies render (645–177,443 words), titles correct, wiki-entry template applied.
+
+Publish had been blocked on credentials: root cause was the 1Password vault display name
+("Emma / Floyd Agent") containing " / ", which op:// reference parsing treats as path
+separators — op read could never resolve by name. scripts/_secrets.py and the SessionStart
+hook now default to vault/item IDs; future sessions load the Ghost key automatically.
