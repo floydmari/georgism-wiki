@@ -254,3 +254,54 @@ Ghost API state: 771 wiki posts published; next full sync adds guides/ + wave-21
 - FINDING: posts published ~2021 and earlier have lexical=null (HTML-only). The lexical method cannot edit them; extending in-text links to the older ~300 tagged articles would need the ?source=html path (roundtrip degradation risk — test on one sacrificial article first) or can simply be left to the theme block.
 - Theme block: paste-ready install guide delivered to Floyd (from-the-wiki-theme-block.md); requires his Ghost admin (integration key cannot manage themes). Nav item "Wiki" -> /wiki/start-here/ also recommended, also Floyd-manual.
 - Ghost admin manual queue (Floyd): install theme block; add nav item; hard-delete 4 drafts (_framework, kolbe-berlin-land-value-map, barr-manhattan-land-values, feldstein-1977-incidence-pure-rent) + empty "Outcomes" tag.
+
+## Addendum — Slack deep-scan triage session 2026-07-14 (issue #24, branch claude/slack-research-triage-udw74p)
+
+**Processed this session (wave 29):**
+- Triaged all **516** candidates from `sources/slack-research-candidates.json`:
+  **74 TIER-1** (academic/gov policy) · **117 TIER-2** (think-tank/long-form) ·
+  **263 TIER-3** (news briefs — not registry-worthy) · **49 SKIP** (dupes, mirrors of
+  already-ingested sources, homepages, ephemeral/social, 1 sci-hub). Per-URL map committed:
+  `sources/slack-research-triage-2026-07-14.json`. 12 confirmed-dead URLs carried as
+  "Dead link"; 2 dead+unidentifiable OECD numeric PDFs dropped.
+- Registry: **+196 rows** (191 triage + 5 sources used by new entries), 10 rows corrected/flipped
+  to Scanned. Dated export refreshed.
+- **10 research/ entries shipped** (T2-drafted, T1-reviewed, all sources fetched):
+  brown-land-speculation-lvt · cohen-coughlin-two-rate-taxation ·
+  mintz-chen-capturing-resource-rents · dachis-buyers-beware-housing-barriers ·
+  forget-mincome-town-with-no-poverty · bc-basic-income-panel-final-report ·
+  pbo-guaranteed-basic-income-costing · openai-industrial-policy-intelligence-age ·
+  imf-gen-ai-future-of-work · baunsgaard-vernon-windfall-profits.
+  Claim-lane wiring: lvt-dampens-land-speculation +1 support; resource-rent-capture-works +2;
+  rent-targeting-taxes-reduce-debt-bias +1; housing-unaffordability-is-a-land-problem +1;
+  rent-dividends-reduce-poverty +1 challenger (BC panel); quasi-rents objection steelman +2;
+  land-speculation-is-productive response +1; 5 concept pages enriched.
+
+**Remaining / queued:**
+- [ ] [READ&MINE] tier:T2 status:todo — **Loop wave 30: Slack research candidates — TIER-1 remainder.**
+      ~64 TIER-1 registry rows from the triage still "Not scanned" (filter
+      `sources/slack-research-triage-2026-07-14.json` tier=TIER1 minus the 10 shipped).
+      Next-priority picks by scope: Hope-Limberg tax-cuts-for-the-rich (LSE) · Hebous-Prihardini-Vernon
+      excess-profit taxes WP/22/187 · Lapavitsas financialization (City 2013) · August Canadian
+      rental financialization (JUA 2020) · World Bank Exploring UBI · De Schutter UN poverty report ·
+      Namibia BIG pilot assessment · CMHC HMA 2021 · Fossum Petro-Canada book · StatCan land/wealth releases.
+- [ ] [READ&MINE] tier:T3 status:todo — **Loop wave N+1: Slack research candidates — TIER-2 ingestion.**
+      117 TIER-2 rows: cite from relevant concept/benefit pages where they add delta (delta rule;
+      most are Supplementary registry rows only — no research/ pages for news-adjacent items).
+- [ ] [PROBLEM-BUILD/OBJECTION] tier:T1 status:todo — **objections/ubi-targeting-efficiency gap** (flagged
+      by all three UBI entries): no objection page covers "universal transfers are a costly way to cut
+      poverty vs targeted" — BC panel + PBO entries are the ready evidence base, steelman from the
+      panel's 1,640 simulations; Woo/Forget rebuttals for the response side.
+- [ ] [VERIFY] tier:T2 status:todo — Forget 2011 CPP published text (utppublishing 403 here): confirm the
+      8.5% hospitalization figure against the primary once access exists (currently verified via BC panel
+      quotation; flagged on-page).
+- [ ] [BULK] tier:T3 status:todo — dead-link mirror hunt for the 12 "Dead link" triage rows (UBC David
+      Green papers ×4, IPPR Our Common Wealth, Remodelling Capitalism, Reid Foundation universalism,
+      Brookfield, Rewheel, Reform Scotland SWAY, OECD LVC flyer, Green Party costing) — most have
+      archive.org or publisher-migration mirrors.
+
+**Skipped (with reasons, machine-readable in the triage JSON):** 13 already-ingested mirrors
+(Jones-Marinescu WP, Goodhart-stimulus ×2, Schwerhoff ×2, Haughwout, DØRS, OECD WP620, England AJES,
+Capitalism 3.0, Paine, Ricardo, Goldsmith ×2, Guettabi, Flomenhoft Vermont, Noah Smith) · 9 truncated
+Slack-ellipsis URLs · 5 archive wrappers · 7 homepages/portals · 6 in-list dupes · ephemeral
+attachments (Trello/Mailchimp) · petitions · 1 sci-hub link (EDITORIAL free/legal rule) · social/profile pages.

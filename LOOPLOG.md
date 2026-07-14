@@ -730,3 +730,30 @@ gate for new scans (congestion-pricing FIND next) is open.
 353 pages; warnings 473 (3 new stubs' honest flags absorbed; baseline 478); lint green;
 preview links verified.
 - 2026-07-12 (Floyd's ruling, codified in EDITORIAL §0): the loop's standing priority is ENRICHMENT of benefits/, problems/, and objections/ pages — assemble the research, wire every new source into the claim lanes it bears on, honestly including support FOR objections. Waves 18-19 (warning cleanup) and 20-21 (objections wiring, benefits reinforcement) are the model: every future wave closes by asking which claim pages it enriched.
+
+---
+
+## 2026-07-14 — Slack deep-scan triage + first ingest wave (session udw74p, issue #24)
+
+Wave 29 in the commit numbering. Input: 516 research candidates harvested from all SES Slack
+channels (2019–2026), pre-deduped against registry URLs but not against titles — title-level
+dedupe caught 13 mirrors of already-ingested sources (incl. the VoxEU/CEPR copies of
+goodhart-stimulus, the IMF landing page for schwerhoff-imf-equity-efficiency, and the ILO/UVM
+copies of Goldsmith's Alaska papers), plus 2 registry rows that were outright mislabeled and are
+now fixed (wpiea2022187 = Hebous et al. WP/22/187, not Baunsgaard-Vernon; CD Howe E-Brief 341 =
+Dachis "Buyers Beware", not a dev-charges title).
+
+Division of labor per Floyd's directive: Haiku for bibliographic lookups, 3 Sonnet T2 writers
+for the 10 entry drafts (each fetched its sources — 8/10 read in full, 2 partially via verified
+secondary), Fable T1 for triage judgment, review, claim-lane wiring, and the gate. Commits:
+4c3898d (registry +191) · 89e93d8 (triage map) · 0dcce23 (10 research pages + wiring).
+
+Loop-priority check (EDITORIAL §0): the wave enriched all three claim lanes — benefits
+(lvt-dampens-land-speculation, resource-rent-capture-works ×2, rent-targeting-taxes-reduce-debt-bias),
+problems (housing-unaffordability-is-a-land-problem), objections (quasi-rents steelman +2 sources,
+land-speculation-is-productive response +Brown 1927), and added honest counter-evidence
+(BC panel as challenged_by on rent-dividends-reduce-poverty). Gap surfaced and queued: no
+objections/ page for universal-vs-targeted transfer efficiency.
+
+811 pages; lint 0 errors, 11 warnings (7 new honest [VERIFY]/wording flags, routed);
+0 orphans; preview built. TIER-1 remainder (~64 rows) and TIER-2 wave queued in BACKLOG.
