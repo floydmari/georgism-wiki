@@ -27,13 +27,8 @@ a working link there and each has a ready wiki target).
 | `research/widerquist-howard-pfd` | page-level quotations vs the book text (chapters confirmed via publisher/RePEc listings only) | **book copy** — *Alaska's Permanent Fund Dividend*, Widerquist & Howard eds. (already in wanted-books) |
 | `research/modelewska-value-capture-finance` | the ~55-rail-studies count is Patel's characterization; the thesis full text isn't online | **forage** — UCL repository / ILL |
 | `research/pistor-code-of-capital` | direct page citations (book cited but not fully read) | **book copy** — *The Code of Capital*, Pistor 2019 |
-| `research/vickrey-counterspeculation-auctions` | direct page cite from *Radical Markets* (Posner & Weyl) | **book copy** — *Radical Markets* (already in wanted-books) |
-| `research/myerson-satterthwaite-bilateral-trade` | exact footnote wording/page in *Radical Markets* | **book copy** — *Radical Markets* (**same copy clears vickrey too**) |
 | `research/lewis-building-cycles` | Lewis's primary text (page drafted from secondary/reception sources; 17.4-yr figure is Harrison's reading) | **book copy** — *Building Cycles* (already in wanted-books) |
 | `research/miller-dying-for-justice` | the 50,000 figure + submission detail (book not digitized; via Harrison's secondary account) | **book copy** — *Dying for Justice*, Centre for Land Policy Studies 1999 |
-
-**Quick win:** one copy of *Radical Markets* closes **two** rows (vickrey + myerson), and there
-are further Radical-Markets-dependent pages tracked in `sources/wanted-books.md`.
 
 ## SETTLED — nothing to retry (recorded so no one re-opens them)
 - `research/piketty-capital-21st-century` — the primary (Piketty & Zucman 2014 QJE) **was** fully read; the caveat just documents scope. No action.
@@ -41,6 +36,8 @@ are further Radical-Markets-dependent pages tracked in `sources/wanted-books.md`
 - `research/natural-common-wealth-economic-rent-canada` — a genuine search found **no** independent third-party assessment of this specific report; only re-open if one gets published.
 - `research/social-problems` — no dedicated reception/circulation scholarship exists; the reach claims are inferential by necessity.
 - `narratives/land-speculation-causes-cycles` — 2× `[VERIFY — PENDING]` are **time-locked** (Foldvary's 2026 forecast; revisit after year-end 2026). Left in place deliberately.
+- `research/vickrey-counterspeculation-auctions` (2026-07-14) — **closed**: verified against Princeton University Press's free sample chapter of *Radical Markets* Ch. 1 ([assets.press.princeton.edu/chapters/s11222.pdf](https://assets.press.princeton.edu/chapters/s11222.pdf)); page cite is now pp. 49–50, endnote 29. No further action.
+- `research/myerson-satterthwaite-bilateral-trade` (2026-07-14) — **closed**: same PDF confirmed the Ch. 1 passage and page/endnote (pp. 50–51, endnote 32; p. 66, endnote 56) invoking Myerson–Satterthwaite against Coase. One residual gap noted on the page itself: the literal back-matter endnote text (vs. the body text it footnotes) wasn't in the sample chapter, so wasn't independently seen.
 
 ## How to work this ledger
 1. Obtain a source (paid/library now approved) → verify the specific claim on the page → replace the provenance caveat with a proper citation → delete the row here.

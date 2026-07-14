@@ -6,7 +6,7 @@ excerpt: Vickrey's 1961 Journal of Finance paper founded modern auction theory, 
   the second-price sealed-bid ('Vickrey') auction and counterspeculation analysis
   that later underpinned his 1996 Nobel Prize and the mechanism-design literature
   Radical Markets draws on.
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-14
 source_url: https://doi.org/10.1111/j.1540-6261.1961.tb02789.x
 stub: true
 subcategory: wiki-research-housing
@@ -48,10 +48,14 @@ The paper was central to the work cited when Vickrey shared the 1996 Nobel Memor
    Economic Sciences). [nobelprize.org](https://www.nobelprize.org/prizes/economic-sciences/1996/vickrey/facts/)
    — used to confirm the paper's centrality to Vickrey's Nobel-cited work on
    incentives under asymmetric information.
-3. Eric A. Posner and E. Glen Weyl, *[Radical Markets](/wiki/radical-markets/)*
-   (Princeton University Press, 2018), Preface, Ch. 1–2 — discovery source; used
-   for the framing of Vickrey's auction mechanism as the ancestor of the book's
-   COST/mechanism-design proposals. [Book page](/wiki/posner-weyl-radical-markets/)
-   Specific page numbers within Posner & Weyl have not been pinned to a fresh read;
-   this citation reflects the discovery locator (Preface, Ch. 1–2) rather than a
-   verified page-level reference.
+3. Eric A. Posner and E. Glen Weyl, *[Radical Markets](/wiki/radical-markets/):
+   Uprooting Capitalism and Democracy for a Just Society* (Princeton University
+   Press, 2018), Ch. 1 ("Property Is Monopoly"), pp. 49–50 — verified this session
+   against Princeton University Press's publicly posted free sample chapter,
+   [assets.press.princeton.edu/chapters/s11222.pdf](https://assets.press.princeton.edu/chapters/s11222.pdf)
+   (linked from the authors' own [book site](https://web.archive.org/web/20210902180254/http://radicalmarkets.com/chapters/property-is-monopoly/)).
+   The chapter states that Vickrey "recognized the monopoly problem...and offered
+   as his own solution the ideal of the auction" (p. 49), and that the authors
+   "thus label it the Vickrey Commons" (p. 50), crediting "an auction design
+   proposed by Vickrey" (p. 50, endnote 29) as the ancestor of the book's
+   continuous-auction/COST proposals. [Book page](/wiki/posner-weyl-radical-markets/)
