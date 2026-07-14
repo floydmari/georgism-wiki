@@ -20,6 +20,8 @@ The same destination has been reached from outside the Georgist tradition. The N
 
 The **Alaska Permanent Fund Dividend** is the closest large-scale implementation: since 1982, Alaska has distributed an annual cash dividend to every resident, funded by the state's oil-resource rents. It demonstrates that a resource-rent dividend is administratively workable and politically durable.
 
+Evidence on unconditional transfers more broadly — none of it rent-funded, all of it relevant to what a dividend *does* — includes Manitoba's 1974–79 Mincome saturation experiment, where [Forget's archival health study](/wiki/forget-mincome-town-with-no-poverty/) finds hospitalizations fell relative to controls (a causal reading later disputed — see the entry); Canada's [PBO costings of a national guaranteed basic income](/wiki/pbo-guaranteed-basic-income-costing/), which find an income-tested design would cut measured poverty by roughly a third to two-fifths; and the [BC Expert Panel's final report](/wiki/bc-basic-income-panel-final-report/), which concluded against a *universal* payment for the province on targeting-efficiency grounds — the strongest current counterargument a universal dividend proposal must answer.
+
 ## Book Findings
 
 ### Barnes: Universal Dividends from Co-Owned Wealth

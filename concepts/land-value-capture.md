@@ -18,6 +18,7 @@ pd_quotes: true
 - **Tax increment financing (TIF)** — funding infrastructure from the resulting rise in tax base.
 - **Public land leasing** — the state retains ownership and leases land, capturing appreciation directly (as in [Singapore](/wiki/singapore/) and [Hong Kong](/wiki/hong-kong/)).
 - **Land Value Increment Tax** — taxing the gain at transfer (as in [Taiwan](/wiki/taiwan/)).
+- **Community benefit charges** — Ontario's CBC (collected since 2022, capped at 4% of land value at building-permit issuance) is a live Canadian example; [Dachis (2023)](/wiki/dachis-buyers-beware-housing-barriers/) recommends raising its cap while cutting per-unit development charges, arguing land-value capture is the right tool for financing amenities where user fees don't fit.
 
 ## Significance
 

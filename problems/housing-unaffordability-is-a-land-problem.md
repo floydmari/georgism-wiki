@@ -6,7 +6,7 @@ tags: [outcomes, housing, affordability, land-prices, construction-costs, zoning
 stub: false
 excerpt: "Where housing is expensive, decomposition shows it is the land under the house — not the cost of building it — that has appreciated: 80% of the post-1950 global house-price boom is land, and in constrained US metros land is the gap between price and build cost."
 evidence_strength: "Strong (independent decompositions — 140-year cross-country panel and US micro data — converge on land; scope limited to high-demand, supply-constrained markets)"
-supported_by: [knoll-schularick-steger-house-prices, glaeser-gyourko-housing-supply, hsieh-moretti-spatial-misallocation, hilber-vermeulen-england-supply, gyourko-krimmel-zoning-tax, albouy-ehrlich-shin-metro-land, stewart-canadian-land-house-prices, davis-larson-oliner-shui-fhfa-land, la-cava-housing-capital-share, saiz-housing-supply-elasticity]
+supported_by: [knoll-schularick-steger-house-prices, glaeser-gyourko-housing-supply, hsieh-moretti-spatial-misallocation, hilber-vermeulen-england-supply, gyourko-krimmel-zoning-tax, albouy-ehrlich-shin-metro-land, stewart-canadian-land-house-prices, davis-larson-oliner-shui-fhfa-land, la-cava-housing-capital-share, saiz-housing-supply-elasticity, dachis-buyers-beware-housing-barriers]
 last_reviewed: 2026-07-13
 ---
 
@@ -35,6 +35,8 @@ The three strongest anchors, in order of evidential weight:
 ### The US micro test: price minus construction cost equals land
 
 [Glaeser and Gyourko](/wiki/glaeser-gyourko-housing-supply/) run the same logic through US micro data. Using R.S. Means construction-cost data across more than 100 markets, they compute the minimum profitable cost of producing a modest home and compare it to actual prices. Physical construction costs vary little across US metros (Gyourko and Saiz 2006 found price variance dwarfs cost variance); prices vary by multiples. In elastic markets like Atlanta, price stays pinned near production cost through boom and bust. In San Francisco, the median unit sold for about $800,000 against roughly $282,000 in production cost (of which about $193,000 is physical construction) — implying land at roughly $490,000, about ten times the industry rule-of-thumb land share. Their published conclusion: "Clearly, San Francisco housing developers cannot actually earn super-normal profits on the margin. Instead, what makes San Francisco housing so expensive is the bidding up of land values" (JEP 2018, pp. 16–18). Where housing is unaffordable in America, the unaffordability *is* the land value.
+
+The same method transplants to Canada: [Dachis (2023)](/wiki/dachis-buyers-beware-housing-barriers/) applies the Glaeser–Gyourko price-versus-production-cost decomposition to 24 Canadian metro areas over 2011–2021, finding a new single-detached home in Vancouver cost nearly $1.3 million (about 63% of sale price) more than its estimated minimum profitable production cost, with Toronto's gap at $350,000 — while slower-growing markets show no gap at all, the signature of a land-and-barriers problem rather than a construction-cost one (with the caveat, carried on the entry, that the raw price-cost gap conflates several supply-side causes).
 
 ### The aggregate stakes
 

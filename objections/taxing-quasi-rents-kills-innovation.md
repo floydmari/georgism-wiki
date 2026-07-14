@@ -73,6 +73,19 @@ analytical core.
   Foundation's decomposition (advocacy source, cited as such) argues
   supernormal returns from risk and innovation remain tax-responsive even when
   market-power rents are not.[6]
+- **The actors closest to the returns behave as if the incentive cost is real.**
+  Two 2020s sources corroborate the worry from opposite directions. The IMF's
+  windfall-profits note ([Baunsgaard & Vernon 2022](/wiki/baunsgaard-vernon-windfall-profits/)),
+  while advocating rent capture, concedes that poorly targeted instruments
+  "can trigger early project cutoff" and that temporary levies raise investor
+  risk — even in energy extraction, the *cleanest* non-land rent case. And
+  OpenAI's own policy paper ([Industrial Policy for the Intelligence
+  Age](/wiki/openai-industrial-policy-intelligence-age/)) — an advocacy source
+  from a direct object of any AI-profits tax, cited as such — refuses every
+  unhedged tax proposal, pairing each capital-based revenue option with
+  wage-linked retention incentives; a self-interested but real-world data point
+  that those nearest AI returns treat blunt taxation of them as an incentive
+  risk.
 
 ## The Response
 

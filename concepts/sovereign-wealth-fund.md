@@ -50,6 +50,8 @@ Norway's save-and-budget approach is conceptually related to the [Hartwick rule]
 
 The Common Wealth Fund proposal is notable for extending the sovereign wealth fund concept beyond **depleting mineral rents** to include **land rents** — the annual rental value of land driven by public infrastructure and community growth. This represents a Georgist extension of the sovereign wealth fund model: where Alaska and Norway capture oil rents, the Common Wealth Fund would capture the recurring rent of land itself.
 
+The instrument's shape has also surfaced outside resource states and Georgist advocacy: OpenAI's 2026 policy paper [*Industrial Policy for the Intelligence Age*](/wiki/openai-industrial-policy-intelligence-age/) floats a citizen-facing "Public Wealth Fund" giving "every citizen... a stake in AI-driven economic growth" — an advocacy document from an interested party, with no funding formula or governance specified, but evidence that the fund-plus-dividend structure recurs wherever a large, broadly generated surplus needs a distribution mechanism.
+
 ## Oil Rent vs. Land Rent: A Georgist Caveat
 
 A critical distinction emphasized in the scholarly literature is that existing sovereign wealth funds (Alaska, Norway) are built from **depleting mineral-extraction rents**, not from **land rent** in the Georgist sense. As the [Alaska](/wiki/alaska/) page documents:
