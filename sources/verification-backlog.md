@@ -24,7 +24,6 @@ a working link there and each has a ready wiki target).
 |------|-------------------------|-----------------|
 | `research/phelps-brown-weber-accumulation` | the 1953 *Economic Journal* paper's own capital-return figures (page currently leans on Harrison's citation of it) | **paywall** — JSTOR / OUP |
 | `research/tideman-plassmann-losses-of-nations` | the primary chapter in *The Losses of Nations* (Harrison ed., 1998); the "$7tn" magnitude is framed against a US counterfactual, not a verified G7 aggregate | **book copy** (add to wanted-books) |
-| `research/world-bank-changing-wealth` | main-volume (chapter-level) detail; Executive Summary + FAQ were read directly, main PDF returns 403/404 | **forage** — working WB/openknowledge mirror |
 | `research/widerquist-howard-pfd` | page-level quotations vs the book text (chapters confirmed via publisher/RePEc listings only) | **book copy** — *Alaska's Permanent Fund Dividend*, Widerquist & Howard eds. (already in wanted-books) |
 | `research/modelewska-value-capture-finance` | the ~55-rail-studies count is Patel's characterization; the thesis full text isn't online | **forage** — UCL repository / ILL |
 | `research/pistor-code-of-capital` | direct page citations (book cited but not fully read) | **book copy** — *The Code of Capital*, Pistor 2019 |
