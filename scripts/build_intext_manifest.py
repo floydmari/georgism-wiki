@@ -113,6 +113,11 @@ def build_dictionary():
             continue
         if len(phrase) < 4:                            # 'Rey', ambiguous ultra-shorts
             continue
+        if phrase in terms:
+            continue                                   # first dir wins (TERM_DIRS order):
+                                                       # people/henry-george beats the
+                                                       # Barker biography book page whose
+                                                       # title is also "Henry George"
         terms[phrase] = key
 
     missing = [a for a, tgt in ALIASES.items() if tgt not in pages]

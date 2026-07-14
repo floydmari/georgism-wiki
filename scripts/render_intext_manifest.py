@@ -16,11 +16,14 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "scratchpad", "cache")
 
 raw = {a["slug"]: a for a in json.load(open(os.path.join(CACHE, "intext_manifest.json")))}
+# join on (slug, phrase) — NOT target — so dictionary fixes after a pruning run
+# (e.g. the Henry George person-vs-biography collision) re-map kept links to the
+# corrected target without re-running the pruning agents.
 rawidx = {}
 for a in raw.values():
     for c in a["candidates"]:
-        rawidx[(a["slug"], c["matched"].lower(), c["target"])] = c
-        rawidx[(a["slug"], c["phrase"].lower(), c["target"])] = c
+        rawidx[(a["slug"], c["matched"].lower())] = c
+        rawidx[(a["slug"], c["phrase"].lower())] = c
 
 kept = collections.defaultdict(list)
 drops, dropwhy, anomalies, seen = 0, collections.Counter(), 0, set()
@@ -28,7 +31,7 @@ for f in sorted(glob.glob(os.path.join(CACHE, "pruned", "chunk-*.json"))):
     for art in json.load(open(f)):
         slug = art["slug"]; seen.add(slug)
         for k in art.get("keep", []):
-            key = (slug, k["phrase"].lower(), k["target"])
+            key = (slug, k["phrase"].lower())
             if key in rawidx:
                 c = rawidx[key]
                 if not any(x["target"] == c["target"] for x in kept[slug]):
