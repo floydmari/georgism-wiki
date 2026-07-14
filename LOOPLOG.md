@@ -744,3 +744,25 @@ Publish had been blocked on credentials: root cause was the 1Password vault disp
 ("Emma / Floyd Agent") containing " / ", which op:// reference parsing treats as path
 separators — op read could never resolve by name. scripts/_secrets.py and the SessionStart
 hook now default to vault/item IDs; future sessions load the Ghost key automatically.
+
+## 2026-07-14 — Verification retry wave: 4 backlog rows closed, 1 narrowed, 2 documented dead ends
+
+Worked sources/verification-backlog.md RETRYABLE table (paid/library access approved but
+none needed — all closures via free legitimate channels):
+- world-bank-changing-wealth CLOSED: CWON 2021 chapters 5+9 read via the openknowledge
+  DSpace REST API (the SPA hides per-chapter PDFs); Box 9.1 rent-vs-revenue read directly.
+- vickrey + myerson-satterthwaite CLOSED: Princeton UP's official free Radical Markets
+  Ch. 1 sample PDF pins both cites (pp. 49-50 en.29; pp. 50-51 en.32, p. 66 en.56).
+- phelps-brown-weber CLOSED: the June 1953 Economic Journal issue is freely digitized on
+  archive.org (sim_economic-journal_1953-06_63_250) — figures confirmed (10-11% -> ~7%,
+  pp. 266-271) AND an editorial finding: the paper never discusses land returns; Harrison's
+  "scissors" is his own synthesis, now said explicitly on the page.
+- pistor-code-of-capital: page cites resolved via Pistor's own 2021 S&LS rejoinder + Gordon's
+  Jotwell review (verbatim quotes w/ pages); honest note that the book itself is still unread.
+- widerquist-howard-pfd NARROWED: contributor PDF gave front matter, full ToC page numbers,
+  and Ch. 12 complete; Goldsmith Ch. 4 (the key empirics) still unverified — row updated.
+- lewis-building-cycles NO ACCESS: archive.org copy is lending-restricted (search-inside 403);
+  Google Books confirms "17.4" occurs once but shows no snippet. Dead end documented.
+- modelewska NO ACCESS: UCL Discovery + EThOS now behind Cloudflare bot-challenges.
+Remaining retryable rows: tideman-plassmann, widerquist-howard (Ch. 4), modelewska,
+lewis, miller — all genuinely blocked on book copies / bot-walled repositories.
