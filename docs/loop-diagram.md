@@ -52,8 +52,14 @@ flowchart LR
 
 ## 3. Lanes — who covers what (so agents never collide)
 
+**Claiming work (2026-07-15):** a claim is only real if visible on `origin/main` —
+stamp the BACKLOG task line `claimed:<branch>`, comment/assign on the lane's tracking
+issue, check `origin/main`'s BACKLOG + open PRs for competing claims before starting,
+release the stamp on completion, and merge promptly (see LOOP.md "Claiming work").
+
 ```mermaid
 flowchart TD
+    CLAIM["0 · CLAIM the lane on origin/main\nBACKLOG stamp claimed:&lt;branch&gt; + issue comment\ncheck main's BACKLOG & open PRs first"] --> CAMPAIGN
     subgraph CAMPAIGN["Campaign desk (this container, claude/* branch)"]
         ED["T1 editor — judgment, review,\nflagship pages, the publish gate"]
         WR["T2/T3 writers & copy desk\n(≤3-4 concurrent subagents)"]
