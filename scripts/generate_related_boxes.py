@@ -38,7 +38,7 @@ ARTICLES = os.path.join(CACHE, "legacy-articles.jsonl")
 SAMPLES = os.path.join(ROOT, "scratchpad", "related-box-samples")
 STATE = os.path.join(CACHE, "related-box-state.jsonl")
 MODEL = os.environ.get("RELATED_MODEL", "glm-5.2")
-KEY = os.environ.get("OLLAMA_API_KEY") or sys.exit("OLLAMA_API_KEY not set")
+KEY = os.environ.get("OLLAMA_API_KEY")   # required only for generation, not --apply-existing
 
 MARK_START = "<!-- wiki-related-precompiled v1 -->"
 MARK_END = "<!-- /wiki-related-precompiled -->"
@@ -85,6 +85,8 @@ Reply ONLY JSON: {{"picks": [{{"slug": "...", "reason": "one reader-facing claus
 
 
 def glm(prompt):
+    if not KEY:
+        sys.exit("OLLAMA_API_KEY not set (needed for box generation)")
     body = json.dumps({"model": MODEL, "stream": False, "think": False,
                        "messages": [{"role": "user", "content": prompt}],
                        "options": {"temperature": 0.1, "num_ctx": 262144}}).encode()
