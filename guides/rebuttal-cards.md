@@ -196,5 +196,5 @@ Cards are ordered by how often you'll hear them. The honest verdict on each — 
 
 ---
 
-**Guides:** [Start Here](/wiki/start-here/) · [The Advocate's Arsenal](/wiki/advocates-arsenal/) · [Evidence Dashboard](/wiki/evidence-dashboard/) · [How We Verify](/wiki/how-we-verify/)
+**Guides:** [Start Here](/wiki/start-here/) · [The Advocate's Arsenal](/wiki/advocates-arsenal/) · [Quotable Quotes](/wiki/quotable-quotes/) · [Evidence Dashboard](/wiki/evidence-dashboard/) · [How We Verify](/wiki/how-we-verify/)
 **Portals:** [Objections Answered](/wiki/portal-objections-answered/) · [Housing](/wiki/portal-housing/) · [Cycles & Crises](/wiki/portal-cycles-and-crises/) · [Tax Design](/wiki/portal-tax-design/) · [The Rent Frontier](/wiki/portal-rent-frontier/)
