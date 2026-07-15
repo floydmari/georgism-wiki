@@ -5,7 +5,7 @@ authors:
 category: research
 excerpt: A University of Calgary School of Public Policy paper comparing oil and gas royalty and tax regimes across six countries, four US states, and five Canadian provinces, arguing a "clean" rent-based royalty minimizes distortion and citing Alberta's oil-sands royalty as the closest real-world model.
 last_reviewed: 2026-07-14
-source_url: https://www.policyschool.ca/wp-content/uploads/2016/03/economic-rents-mintz-chen.pdf
+source_url: https://spp.ucalgary.ca/sites/default/files/teams/1/Publications/economic-rents-mintz-chen.pdf
 stub: false
 subcategory: wiki-research-resources
 supports_outcomes:
