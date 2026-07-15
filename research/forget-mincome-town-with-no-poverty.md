@@ -60,7 +60,7 @@ Mincome is general-revenue-funded — a federal-provincial negative-income-tax p
 
 - **Concept:** [Citizen's Dividend](/wiki/citizens-dividend/) — the oldest North American evidence for unconditional/near-unconditional cash guarantees, a broader category the citizen's dividend specializes to rent funding.
 - **Benefit (indirect support, general basic-income evidence, not rent-specific):** [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — not a rent-funded case and not in that page's direct evidence base, but it strengthens the underlying mechanism (income guarantees improve poverty-linked outcomes) a rent-funded dividend also relies on.
-- No existing `objections/` page addresses "a national basic income is unaffordable" or "targeted transfers beat universal ones"; this page and its two companion PBO/BC-panel entries are the natural evidence base for one.
+- **Objection (response side):** [Universal transfers are an inefficient way to reduce poverty](/wiki/universal-transfers-are-inefficient/) — Forget's on-record rebuttal to the BC panel (oversight costs, the "deserving/undeserving" distinction) is part of that page's response.
 
 ## See Also
 

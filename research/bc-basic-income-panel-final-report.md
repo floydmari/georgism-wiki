@@ -12,6 +12,8 @@ last_reviewed: 2026-07-14
 source_url: https://bcbasicincomepanel.ca/wp-content/uploads/2021/01/Final_Report_BC_Basic_Income_Panel.pdf
 stub: false
 subcategory: wiki-research-inequality
+bears_on_objections:
+- universal-transfers-are-inefficient
 tags:
 - research
 - basic-income
@@ -60,7 +62,7 @@ This report concerns **general-revenue-financed** basic income — Ontario-pilot
 
 - **Benefit (challenges):** [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — the strongest available counter-evidence to a *strong* form of that claim: the panel's own simulations confirm dividends cut poverty, but find income-tested transfers cut far more poverty per dollar, a critique applying to rent-funded designs as much as tax-funded ones.
 - **Benefit (partially challenges):** [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/) — the panel doesn't dispute administrative workability (its concern is cost-effectiveness and justice fit), so this page's *durability* claim is largely untouched; only an implicit "and therefore should be adopted" inference is contested.
-- No existing `objections/` page addresses UBI affordability or universal-vs-targeted design; this report is the strongest available source for one.
+- **Objection (strengthens):** [Universal transfers are an inefficient way to reduce poverty](/wiki/universal-transfers-are-inefficient/) — this report is the objection's primary evidence base; its simulation comparison is the steelman on that page.
 
 ## See Also
 

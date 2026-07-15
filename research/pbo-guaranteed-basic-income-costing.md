@@ -10,6 +10,8 @@ last_reviewed: 2026-07-14
 source_url: https://www.pbo-dpb.ca/en/publications/RP-2425-029-S--distributional-analysis-national-guaranteed-basic-income-update--analyse-distributive-un-revenu-base-garanti-echelle-nationale-mise-jour
 stub: false
 subcategory: wiki-research-inequality
+bears_on_objections:
+- universal-transfers-are-inefficient
 tags:
 - research
 - basic-income
@@ -58,7 +60,7 @@ Like the other two entries in this trio, the PBO's GBI is financed entirely from
 
 - **Benefit (supports, general basic-income evidence, not rent-specific):** [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — an official costing showing a national cash-transfer program cuts measured poverty by roughly a third to two-fifths, reinforcing the underlying mechanism a rent-funded dividend would also rely on, using general tax revenue rather than rent.
 - **Relates to (methodological corroboration):** [Covering All the Basics: the BC Basic Income Panel's Final Report](/wiki/bc-basic-income-panel-final-report/) — the PBO's low "net" cost illustrates, from a different government body, the same targeting-efficiency dynamic (income-tested transfers cost far less than universal ones) the BC panel uses against a true UBI.
-- No existing `objections/` page addresses GBI/UBI costing directly; this report, alongside the BC panel entry, is the natural evidence base for one.
+- **Objection (bears both ways):** [Universal transfers are an inefficient way to reduce poverty](/wiki/universal-transfers-are-inefficient/) — the income-tested design behind PBO's low net cost illustrates the objection's targeting logic, while the same report's gross-vs-net accounting supplies the proponents' framing response quoted there.
 
 ## See Also
 
