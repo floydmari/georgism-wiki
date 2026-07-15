@@ -78,7 +78,13 @@ analytical core.
   windfall-profits note ([Baunsgaard & Vernon 2022](/wiki/baunsgaard-vernon-windfall-profits/)),
   while advocating rent capture, concedes that poorly targeted instruments
   "can trigger early project cutoff" and that temporary levies raise investor
-  risk — even in energy extraction, the *cleanest* non-land rent case. And
+  risk — even in energy extraction, the *cleanest* non-land rent case. Its
+  companion general-case paper ([Hebous, Prihardini & Vernon 2022](/wiki/hebous-excess-profit-taxes/))
+  adds the historical warrant: WWI-era excess-profits taxes were administratively
+  successful but poorly targeted — quoting Plehn's 1920 verdict that "all profits
+  were drawn into the net" — and temporary versions distort investment timing;
+  its remedy (a permanent ACC/ACE allowance exempting the normal return) is the
+  same never-fully-implemented design this page's Response describes. And
   OpenAI's own policy paper ([Industrial Policy for the Intelligence
   Age](/wiki/openai-industrial-policy-intelligence-age/)) — an advocacy source
   from a direct object of any AI-profits tax, cited as such — refuses every

@@ -13,7 +13,7 @@ Denmark has one of the longest-standing land taxation traditions in the develope
 
 ## The Grundskyld
 
-The grundskyld is levied by municipalities on the assessed value of land, with rates varying by local government. Historically, the grundskyld was a significant part of Danish local government finance and was valued for its revenue-stability and economic neutrality: because land cannot be moved, destroyed, or reduced in quantity, the tax base is extremely reliable and the tax does not distort investment.
+The grundskyld is levied by municipalities on the assessed value of land, with rates varying by local government. Historically, the grundskyld was a significant part of Danish local government finance and was valued for its revenue-stability and economic neutrality: because land cannot be moved, destroyed, or reduced in quantity, the tax base is extremely reliable and the tax does not distort investment. In the one systematic cross-country scoring of European location-value taxes, [Fernandez Milan, Kapfer & Creutzig (2016)](/wiki/fernandez-milan-location-value-taxes/) rank the grundskyld the best-designed of eight European cases — while noting even Denmark clears only 11 of the study's 20 design criteria.
 
 During periods of Danish political history in the late 19th and early 20th centuries, the grundskyld attracted strong political support from reformers influenced by Henry George's ideas, particularly in the Radical Liberal (Radikale Venstre) and Single Tax traditions. The Single Tax movement had a notable Danish chapter, and its dedicated party — the **Justice Party (Retsforbundet, "Danish Justice Party")** — briefly entered government in the 1957–1960 "Triangular Government" coalition.[2]
 

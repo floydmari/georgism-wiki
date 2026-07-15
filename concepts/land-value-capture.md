@@ -20,6 +20,8 @@ pd_quotes: true
 - **Land Value Increment Tax** — taxing the gain at transfer (as in [Taiwan](/wiki/taiwan/)).
 - **Community benefit charges** — Ontario's CBC (collected since 2022, capped at 4% of land value at building-permit issuance) is a live Canadian example; [Dachis (2023)](/wiki/dachis-buyers-beware-housing-barriers/) recommends raising its cap while cutting per-unit development charges, arguing land-value capture is the right tool for financing amenities where user fees don't fit.
 
+For a current practitioner-level survey of these instruments — Canadian and international case studies, mechanism comparisons, and an honest account of administrative complexity and typical yields — see the [CIB-commissioned Land Value Capture Study](/wiki/cib-land-value-capture-study/) (Siemiatycki, Fagan & Arku, 2023).
+
 ## Significance
 
 LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments that would never embrace a "single tax" routinely use betterment levies and lease revenue. It is a major research focus of the [Lincoln Institute](/wiki/lincoln-institute/).

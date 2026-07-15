@@ -5,14 +5,14 @@ claim_type: problem
 tags: [outcomes, economic-rent, market-power, markups, superstar-firms, contested]
 stub: false
 evidence_strength: "Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency"
-supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents, mazzucato-mapping-rents, korinek-ng-digital-superstars]
+supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents, mazzucato-mapping-rents, korinek-ng-digital-superstars, hebous-excess-profit-taxes]
 challenged_by: [crouzet-eberly-intangibles, boc-firm-profits-inflation]
 excerpt: "A converging empirical literature finds US corporate profits have risen far beyond competitive returns — markups, pure-profit shares, and firm-level return dispersion all point to growing economic rents, extending the Georgist rent analysis beyond land."
 last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — The rise in US corporate profits above competitive returns is real and abnormal across independent methods, but how much of it is genuine economic rent rather than mismeasured returns to intangible investment remains genuinely contested.
-> **Evidence:** Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency · **9 supporting** sources · **2 challenging**
+> **Evidence:** Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency · **10 supporting** sources · **2 challenging**
 > **Strongest support:** [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — average US markups rose from about 21% to 61% over marginal cost between 1980 and 2016. **Strongest counter:** [Crouzet & Eberly (2019)](/wiki/crouzet-eberly-intangibles/) — much measured profit reflects undercounted intangible capital, not rent.
 
 ## The Claim
@@ -28,6 +28,7 @@ Several independent methodologies converge on the same direction:
 - **Firm-level return dispersion.** [Furman & Orszag (2015)](/wiki/furman-orszag-firm-rents/) document that returns on invested capital at the 90th-percentile US firm grew to more than five times the median, with the winners persistent over time — a pattern they read as rents accruing to specific firms rather than rising returns to capital generally.
 - **Competition and policy.** [Philippon (2019)](/wiki/philippon-great-reversal/) argues US markets became measurably less competitive than European ones due to concentration, lobbying, and regulatory barriers — locating the source of the rents in political economy rather than technology alone.
 - **The synthesis.** [Eeckhout (2021)](/wiki/eeckhout-profit-paradox/) draws the markup evidence into a general account of market power raising profits while suppressing wages.
+- **Cross-country excess-profit estimates.** [Hebous, Prihardini & Vernon (2022)](/wiki/hebous-excess-profit-taxes/) measure multinationals' profits above a normal-return allowance in IMF cross-country data — finding them large and heavily concentrated in investment hubs (median ~1.9% of GDP there, versus ~0.01% for the median low-income country), independent corroboration that a meaningful share of recorded corporate profit exceeds any plausible normal return, with the concentration pattern itself evidence of profit shifting rather than local activity.
 
 ## The Counter-Case
 

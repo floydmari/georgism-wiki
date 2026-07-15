@@ -12,6 +12,8 @@ last_reviewed: 2026-07-15
 
 If the goal is poverty reduction, a universal payment is one of the most expensive ways to buy it. Every dollar paid to households above the poverty line is a dollar that does not reduce poverty, and in any realistic income distribution most dollars of a universal payment go to such households. The strongest empirical statement of this objection is the [British Columbia Expert Panel on Basic Income's final report](/wiki/bc-basic-income-panel-final-report/) (Green, Kesselman & Tedds 2020), built on 1,640 microsimulations: at the same ~$20,000 guarantee, a universal payment for BC would cost **$51 billion** and lift roughly **8,000 people out of poverty per billion dollars spent**, while an income-tested credit with the same maximum benefit would cost **$7.5 billion**, cut the poverty rate by 68%, and lift **over 44,000 people out of poverty per billion dollars** — a five-fold difference in poverty reduction per dollar. The panel's inference: "UBIs are orders of magnitude more expensive than income-tested basic incomes that provide similar poverty reduction," and a province (or country) that cares about poverty should buy the targeted version.
 
+The finding is not Canada-specific. The [World Bank's *Exploring Universal Basic Income*](/wiki/worldbank-exploring-ubi/) (2020) runs budget-neutral microsimulations across 10 low- and middle-income countries and finds existing targeted programs on average "about 60 percent more effective" than a UBI at reducing the squared poverty gap — the same arithmetic, at international scale, from an institution with no stake in the Canadian debate.
+
 Because a Georgist [citizen's dividend](/wiki/citizens-dividend/) is a *universal* payment, the objection transfers directly: whatever funds it, paying every resident equally is a costlier route to poverty reduction than concentrating the same revenue on the poor.
 
 ## Why People Worry About This
@@ -48,6 +50,7 @@ As a claim about poverty-reduction efficiency at a fixed budget, the objection i
 - [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/)
 - [Alaska's Permanent Fund Dividend: Examining Its Suitability as a Model](/wiki/widerquist-howard-pfd/)
+- [Exploring Universal Basic Income (World Bank, 2020)](/wiki/worldbank-exploring-ubi/)
 
 ## Sources
 
@@ -56,3 +59,4 @@ As a claim about poverty-reduction efficiency at a fixed budget, the objection i
 3. Zoe Ducklow, "BC Panel Rejects Universal Basic Income," *The Tyee* (28 January 2021). [thetyee.ca](https://thetyee.ca/News/2021/01/28/BC-Panel-Rejects-Universal-Basic-Income/) — used for Evelyn Forget's on-record response quoted in Response 2.
 4. Office of the Parliamentary Budget Officer (2025), *A Distributional Analysis of a National Guaranteed Basic Income – Update*. [pbo-dpb.ca](https://www.pbo-dpb.ca/en/publications/RP-2425-029-S--distributional-analysis-national-guaranteed-basic-income-update--analyse-distributive-un-revenu-base-garanti-echelle-nationale-mise-jour) — used for the gross-vs-net cost accounting in Responses 1 and the income-tested design point in Why People Worry.
 5. Karl Widerquist & Michael W. Howard, eds. (2012), *Alaska's Permanent Fund Dividend: Examining Its Suitability as a Model*, Palgrave Macmillan. [DOI](https://doi.org/10.1057/9781137015020) — used for the political-durability argument in Response 3, including the post-2016 caveat carried on the wiki's entry.
+6. Ugo Gentilini, Margaret Grosh, Jamele Rigolini & Ruslan Yemtsov, eds. (2020), *Exploring Universal Basic Income*, World Bank. [Handle](https://openknowledge.worldbank.org/handle/10986/32677) — used for the 10-country budget-neutral simulation finding (targeted programs ~60% more effective at reducing the squared poverty gap) generalizing the objection beyond Canada, with the budget-neutral-framing caveat carried on the wiki's entry.

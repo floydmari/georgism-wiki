@@ -31,7 +31,7 @@ Several jurisdictions have applied LVT in whole or in part:
 
 - **Pennsylvania split-rate cities** — Harrisburg, Allentown, Pittsburgh, and others taxed land at a higher millage rate than improvements through most of the 20th century, with documented increases in construction activity.
 - **Estonia** — After independence (land tax in force since 1993), Estonia adopted a national land value tax with no tax on building improvements, making it one of the purest implementations of the concept anywhere in the world.
-- **Denmark** — A *grundskyld* (ground tax) applied to land values is a longstanding feature of the Danish fiscal system.
+- **Denmark** — A *grundskyld* (ground tax) applied to land values is a longstanding feature of the Danish fiscal system. Implementation quality varies widely across Europe: [Fernandez Milan, Kapfer & Creutzig (2016)](/wiki/fernandez-milan-location-value-taxes/) score eight European LVT-like taxes against 20 design criteria and find "dismal" design in most — stale assessments, base-eroding exemptions — with Denmark the best performer at 11/20.
 - **New South Wales, Australia** — State land tax has been levied since 1895, with periodic debates about expanding the base.
 
 ## Academic Reception

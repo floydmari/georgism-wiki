@@ -158,6 +158,7 @@ honest reading keeps both edges.
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried on the same firms
 - [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — a rival capture proposal for the AI-adjacent ad economy
 - [Gen-AI: Artificial Intelligence and the Future of Work (IMF SDN 2024)](/wiki/imf-gen-ai-future-of-work/) — the cautious institutional counterpart: documents AI's labor-market scale without taking up the rent framing this paper argues explicitly
+- [Leduc & Liu — Automation, Bargaining Power, and Labor Market Fluctuations](/wiki/leduc-liu-automation-bargaining/) — a complementary mechanism: automation *threats* erode bargaining power and shift income to capital owners even absent deployment
 - [Furman Review — Unlocking Digital Competition](/wiki/furman-review-digital-competition/) — the dissolve-the-rent pole; its forward warning that AI may entrench incumbents "because of the importance of data"
 - [Korinek & Ng — digital superstars](/wiki/korinek-ng-digital-superstars/) — Korinek's companion model of how digitization creates superstar rents
 - [Economic Rent](/wiki/economic-rent/) · [Quasi-Rent](/wiki/quasi-rent/) · [Law of Rent](/wiki/law-of-rent/) · [ATCOR](/wiki/atcor/)
