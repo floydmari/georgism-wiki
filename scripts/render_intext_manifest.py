@@ -10,7 +10,7 @@ Inputs:  scratchpad/cache/intext_manifest.json, scratchpad/cache/pruned/chunk-*.
 Outputs: scratchpad/cache/intext_pruned_merged.json   (machine-readable, for the apply step)
          scratchpad/intext-link-manifest.md           (human review copy, committed)
 """
-import collections, glob, json, os
+import collections, glob, json, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "scratchpad", "cache")
@@ -25,6 +25,20 @@ for a in raw.values():
         rawidx[(a["slug"], c["matched"].lower())] = c
         rawidx[(a["slug"], c["phrase"].lower())] = c
 
+# Deterministic post-filter (Floyd 2026-07-15, from the Sun Yat-sen article spot-check):
+# never link text inside footnote/endnote citations or inside quoted matter. These slip
+# past sense-pruning because the phrase IS used in the right sense — the placement is the
+# problem, not the meaning.
+FOOTNOTEISH = re.compile(
+    r"^\s*\d{1,3}\s+[A-Z]"                 # "35 Alven H.S Lam, ..." endnote paragraphs
+    r"|\(\s*[A-Z][^()]{2,40}:\s*\d{4}\s*\)" # "(Cambridge, MA: 1998)" publisher-place cites
+    r"|\bIbid\b|\bop\.\s?cit\b|\bpp?\.\s?\d")
+def _in_quotes(sentence, phrase):
+    i = sentence.lower().find(phrase.lower())
+    if i < 0:
+        return False
+    return sentence.count("“", 0, i) > sentence.count("”", 0, i)
+
 kept = collections.defaultdict(list)
 drops, dropwhy, anomalies, seen = 0, collections.Counter(), 0, set()
 for f in sorted(glob.glob(os.path.join(CACHE, "pruned", "chunk-*.json"))):
@@ -34,6 +48,9 @@ for f in sorted(glob.glob(os.path.join(CACHE, "pruned", "chunk-*.json"))):
             key = (slug, k["phrase"].lower())
             if key in rawidx:
                 c = rawidx[key]
+                if FOOTNOTEISH.search(c["sentence"]) or _in_quotes(c["sentence"], c["matched"]):
+                    drops += 1; dropwhy["footnote-or-quote"] += 1
+                    continue
                 if not any(x["target"] == c["target"] for x in kept[slug]):
                     kept[slug].append(c)
             else:
