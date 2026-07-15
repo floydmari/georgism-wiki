@@ -30,7 +30,8 @@ L = [
     f"{total-grounded} ungrounded, listed but not auto-applicable). "
     f"Relations: " + ", ".join(f"{k} {v}" for k, v in rel.most_common()) + ".*",
     "",
-    "Model: GLM-4.7 on Ollama Cloud (external-model rule: candidates only, review gates apply).",
+    "Model: " + (rows[0].get("model", "?") if rows else "?")
+    + " on Ollama Cloud (external-model rule: candidates only, review gates apply).",
     "",
     "## Most-mapped claim pages",
     "",
