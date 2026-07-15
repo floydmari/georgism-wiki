@@ -278,13 +278,13 @@ Ghost API state: 771 wiki posts published; next full sync adds guides/ + wave-21
   land-speculation-is-productive response +1; 5 concept pages enriched.
 
 **Remaining / queued:**
-- [ ] [READ&MINE] tier:T2 status:todo — **Loop wave 30: Slack research candidates — TIER-1 remainder.**
-      ~64 TIER-1 registry rows from the triage still "Not scanned" (filter
-      `sources/slack-research-triage-2026-07-14.json` tier=TIER1 minus the 10 shipped).
-      Next-priority picks by scope: Hope-Limberg tax-cuts-for-the-rich (LSE) · Hebous-Prihardini-Vernon
-      excess-profit taxes WP/22/187 · Lapavitsas financialization (City 2013) · August Canadian
-      rental financialization (JUA 2020) · World Bank Exploring UBI · De Schutter UN poverty report ·
-      Namibia BIG pilot assessment · CMHC HMA 2021 · Fossum Petro-Canada book · StatCan land/wealth releases.
+- [x] [READ&MINE] tier:T2 status:done — **Loop wave 30 SHIPPED 2026-07-15** (12 entries + the
+      universal-vs-targeted objection page + 12 dead-link repairs; see LOOPLOG). ~46 TIER-1 rows
+      remain "Not scanned" — mostly StatCan data releases and reference documents that stay
+      registry-only by design; genuine entry candidates left: Hope-Limberg tax-cuts-for-the-rich ·
+      SWAY LVT/wealth-tax realist review (retitled in registry) · Fossum Petro-Canada (needs books/
+      treatment) · Carney future-of-work speech · Walks Toronto polarization · Clavet-Duclos-Lacroix
+      Québec GMI · Corsica report · JEC 1968 Income Maintenance · Brown JPE follow-ups.
 - [ ] [READ&MINE] tier:T3 status:todo — **Loop wave N+1: Slack research candidates — TIER-2 ingestion.**
       117 TIER-2 rows: cite from relevant concept/benefit pages where they add delta (delta rule;
       most are Supplementary registry rows only — no research/ pages for news-adjacent items).

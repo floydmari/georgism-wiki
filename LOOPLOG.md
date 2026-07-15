@@ -757,3 +757,29 @@ objections/ page for universal-vs-targeted transfer efficiency.
 
 811 pages; lint 0 errors, 11 warnings (7 new honest [VERIFY]/wording flags, routed);
 0 orphans; preview built. TIER-1 remainder (~64 rows) and TIER-2 wave queued in BACKLOG.
+
+---
+
+## 2026-07-15 — Wave 30: Slack TIER-1 remainder, first cut (session udw74p, issue #24)
+
+12 research entries (3 Sonnet lanes, Fable T1 review/wiring) + the objections/ page the wave-29
+UBI entries flagged as missing (universal-transfers-are-inefficient, T1-drafted: BC-panel
+steelman, World Bank 10-country corroboration, Woo/Forget/Widerquist-Howard responses, honest
+net assessment that the arithmetic stands) + Haiku dead-link mirror hunt (all 12 registry
+dead links repaired with verified-200 mirrors; the Reform Scotland "SWAY" row turned out to be
+a realist review of LVT/wealth taxes — retitled, queued).
+
+Source-integrity catches this wave: E-Brief 341 ≠ dev-charges paper (= Dachis Buyers Beware,
+already fixed w29); the supplied De Schutter URL was a different report (correct A/HRC/56/61
+fetched from UN ODS); CIB study's real authors are Siemiatycki-Fagan-Arku (U of T), CIB only
+funded; lead author is Blanca (not Beatriz) Fernandez Milan; wpiea2022187 = Hebous et al.
+(fixed w29, entry now written). Two entries carry deliberately counter-narrative findings and
+are wired on the challenge side: CMHC (quick-flip speculation NOT Montreal's main driver) and
+BoC SAN 2023-12 (markup growth <1/10 of 2021 inflation).
+
+Claim-lane deltas: rent-dividends-reduce-poverty +1 challenger (World Bank) · corporate-profits
++1 support (Hebous) +1 challenger (BoC) · resource-rent-dividends-work + Mongolia failure mode ·
+public-investment-capitalizes + CIB practitioner survey · quasi-rents objection +1 steelman
+source · fire-sector/financialization-of-land/land-value-tax/land-value-capture/denmark/
+citizens-dividend enriched. Commits: 4a2072b · b68d667 · cde4c89. 824 pages; lint 0 errors;
+0 orphans; registry 1,098 rows, 0 dead links.
