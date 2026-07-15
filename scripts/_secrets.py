@@ -20,7 +20,12 @@ import os
 import shutil
 import subprocess
 
-OP_VAULT = os.environ.get("OP_VAULT", "Emma")
+# Vaults renamed by Floyd 2026-07-15; try new names first, legacy "Emma" last.
+# Override with OP_VAULT (single) or OP_VAULTS (comma-separated, tried in order).
+_default_vaults = "Emma - Floyd Agent,Hugh & SES Agents,Emma"
+OP_VAULTS = [v.strip() for v in os.environ.get(
+    "OP_VAULTS", os.environ.get("OP_VAULT", _default_vaults)).split(",") if v.strip()]
+OP_VAULT = OP_VAULTS[0]  # backward compat for any external reader
 OP_GHOST_ITEM = os.environ.get("OP_GHOST_ITEM", "Ghost Admin API Key — progress.org wiki")
 DEFAULT_GHOST_URL = "https://progress-org.ghost.io"
 
@@ -39,16 +44,32 @@ def _op_read(ref):
     return None
 
 
+def _op_item_field(vault, item, field):
+    """`op item get` fallback — secret references (`op read`) reject characters
+    like the em-dash in this item's name; item-get handles them."""
+    try:
+        out = subprocess.run(
+            ["op", "item", "get", item, "--vault", vault,
+             "--fields", f"label={field}", "--reveal"],
+            capture_output=True, text=True, timeout=30)
+        if out.returncode == 0:
+            return out.stdout.strip().strip('"')
+    except Exception:
+        pass
+    return None
+
+
 def ghost_admin_key():
     """Return the Ghost Admin key '<id>:<hex>' or None. Tries env, then 1Password fields."""
     if os.environ.get("GHOST_ADMIN_KEY"):
         return os.environ["GHOST_ADMIN_KEY"]
     if _op_available():
-        for field in ("credential", "password", "api key", "notesPlain"):
-            ref = f"op://{OP_VAULT}/{OP_GHOST_ITEM}/{field}"
-            val = _op_read(ref)
-            if val and ":" in val:
-                return val
+        for vault in OP_VAULTS:
+            for field in ("credential", "password", "api key", "notesPlain"):
+                val = _op_read(f"op://{vault}/{OP_GHOST_ITEM}/{field}") \
+                    or _op_item_field(vault, OP_GHOST_ITEM, field)
+                if val and ":" in val:
+                    return val
     return None
 
 
@@ -56,10 +77,12 @@ def ghost_url():
     if os.environ.get("GHOST_URL"):
         return os.environ["GHOST_URL"]
     if _op_available():
-        for field in ("url", "website", "server"):
-            val = _op_read(f"op://{OP_VAULT}/{OP_GHOST_ITEM}/{field}")
-            if val:
-                return val.rstrip("/")
+        for vault in OP_VAULTS:
+            for field in ("url", "website", "server"):
+                val = _op_read(f"op://{vault}/{OP_GHOST_ITEM}/{field}") \
+                    or _op_item_field(vault, OP_GHOST_ITEM, field)
+                if val:
+                    return val.rstrip("/")
     return DEFAULT_GHOST_URL
 
 
