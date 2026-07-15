@@ -36,6 +36,14 @@ synthesis of existing credit and asset-price research rather than as a new
 econometric result, and the wiki treats it accordingly as an influential
 interpretation, not a settled finding.
 
+The firm-level Canadian evidence for the mechanism is
+[August (2020)](/wiki/august-rental-financialization/): REITs grew from owning
+zero apartment suites in 1996 to roughly 10% of Canada's private rental stock by
+2017, financialized entities now comprise nine of the ten largest landlords, and
+penetration is systematically higher in provinces with weak rent control — a
+descriptive but national-scale case of housing being repriced as a financial
+asset class.
+
 ## See Also
 
 - [Rethinking the Economics of Land and Housing (research summary)](/wiki/ryan-collins-rethinking-land-housing/) — the primary source for this concept

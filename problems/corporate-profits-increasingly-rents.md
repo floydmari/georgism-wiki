@@ -6,13 +6,13 @@ tags: [outcomes, economic-rent, market-power, markups, superstar-firms, conteste
 stub: false
 evidence_strength: "Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency"
 supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents, mazzucato-mapping-rents, korinek-ng-digital-superstars]
-challenged_by: [crouzet-eberly-intangibles]
+challenged_by: [crouzet-eberly-intangibles, boc-firm-profits-inflation]
 excerpt: "A converging empirical literature finds US corporate profits have risen far beyond competitive returns — markups, pure-profit shares, and firm-level return dispersion all point to growing economic rents, extending the Georgist rent analysis beyond land."
 last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — The rise in US corporate profits above competitive returns is real and abnormal across independent methods, but how much of it is genuine economic rent rather than mismeasured returns to intangible investment remains genuinely contested.
-> **Evidence:** Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency · **9 supporting** sources · **1 challenging**
+> **Evidence:** Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency · **9 supporting** sources · **2 challenging**
 > **Strongest support:** [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) — average US markups rose from about 21% to 61% over marginal cost between 1980 and 2016. **Strongest counter:** [Crouzet & Eberly (2019)](/wiki/crouzet-eberly-intangibles/) — much measured profit reflects undercounted intangible capital, not rent.
 
 ## The Claim
@@ -37,6 +37,8 @@ The main rival reading is that measured profits reward genuine efficiency and in
 - The [superstar-firms](/wiki/superstar-firms/) literature ([Autor et al. 2020](/wiki/autor-superstar-firms/)) similarly attributes rising concentration in part to winner-take-most competition among unusually productive firms — a mechanism in which high profits and consumer benefit can coexist.
 
 These are not fully exculpatory: rents on intangibles and network positions are still returns to scarcity and position rather than to marginal production, which is why parts of this literature (e.g., [Mazzucato, Ryan-Collins & Gouzoulis 2023](/wiki/mazzucato-mapping-rents/)) treat them as the modern frontier of rent analysis. But they mean the *size* of the pure-rent component is genuinely contested.
+
+A separate, short-run caution: [Bank of Canada staff analysis (Bouras, Bustamante, Guo & Short 2023)](/wiki/boc-firm-profits-inflation/) finds Canadian markup *growth* explained less than one-tenth of 2021 inflation and was near zero or negative by 2022 — evidence against attributing that specific inflationary episode to firms flexing market power. It is a timing test of markup *growth* in one episode, not a rebuttal of the long-run markup-*level* literature this page rests on, but it warns against stretching this page's claim into a "greedflation" story about any particular price surge.
 
 ## The Evidence in Detail
 

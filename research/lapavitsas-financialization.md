@@ -1,0 +1,62 @@
+---
+authors:
+- Costas Lapavitsas
+category: research
+excerpt: "Marxist political economist's account of financialization: banks, non-financial firms, and households all reshaped by finance, with growing profit from 'financial expropriation' of wage and salary income (including via mortgage debt) rather than only from industrial exploitation."
+last_reviewed: 2026-07-15
+source_url: https://www.tandfonline.com/doi/pdf/10.1080/13604813.2013.853865
+stub: false
+subcategory: wiki-research-finance
+tags:
+- research
+- financialization
+- fire-sector
+- marxist-political-economy
+- financial-expropriation
+- rent-adjacent
+tier: important
+title: "Lapavitsas (2013): The Financialization of Capitalism: 'Profiting Without Producing'"
+year: 2013
+---
+
+## Summary
+
+Costas Lapavitsas — professor of economics at SOAS, University of London — published "The financialization of capitalism: 'Profiting without producing'" in *City* 17(6), 2013 (pp. 792-805), condensing the argument of his book *Profiting Without Producing: How Finance Exploits Us All* (Verso, 2013). The publisher PDF (Taylor & Francis) returned a Cloudflare challenge in this environment, and no open-access copy of the *City* article (SOAS repository, ResearchGate, author mirror) could be retrieved despite searching. This entry is built primarily from the article's confirmed published abstract (via EconPapers/RePEc, quoted verbatim) plus **full-text reading of a closely related, freely available companion paper**: Lapavitsas & Mendieta-Muñoz, "The Profits of Financialization," *Monthly Review*, July 2016 — which restates and empirically extends the same "financial expropriation" framework using US data. Claims sourced to the 2013 abstract versus the 2016 companion are marked separately below. [VERIFY: the 2013 article's full text beyond its abstract was not independently confirmed.]
+
+## The Core Argument / Findings
+
+**Financialization as a period shift, not a mechanism unique to any one sector.** Per the *City* 2013 abstract, Lapavitsas frames financialization as "a systemic transformation of capitalism" over roughly the last four decades, rooted in "the altered behaviour of fundamental agents of capitalist accumulation" — non-financial corporations, banks, and workers/households — with finance reshaping the activities of all three and producing "new forms of profit." He argues addressing financialization requires public financial institutions and expanded social provision, and frames reversal as "re-establishing the command of the social and collective over the private and individual" (abstract, as quoted in EconPapers' citation record).
+
+**"Financial expropriation" as the mechanism (2016 companion, full text).** The Monthly Review piece develops the mechanism in more empirical detail. Lapavitsas defines industrial profit as arising from the exploitation of wage labour in production, and argues financial profit increasingly arises from a *different* channel he calls **financial expropriation**: "the systematic extraction of profits from any income flow and stock of money wealth" of non-capitalist actors (workers, households), independent of whether that income originates in production. He states explicitly that this applies to household debt generally and **mortgages specifically**: "That would be the case, for instance, if financial assets were based on home mortgages, since the future payments attached to these assets would simply be a fraction of the debtor's wage or salary." The mechanism does not require the transacting institution to profit from risk-bearing or intermediation services in the conventional sense — on Lapavitsas's account, financial profit is expropriation "even if returns actually materialized as planned," so long as the counterparty is a non-capitalist household paying out of wage income.
+
+**Empirical claim: rising financial profit despite flat average profitability.** The 2016 paper's empirical contribution (with co-author Ivan Mendieta-Muñoz) documents that US financial profits as a share of total profits rose sharply from the early 1980s to the early 2000s, collapsed in 2007-09, and partially recovered without regaining prior highs — while the *average rate of profit* in the US economy stayed roughly flat over the same period. They argue this "conundrum" (rising financial profit share alongside flat aggregate profitability) is explained partly by financial expropriation and partly by a second mechanism: historically low public interest rates functioning as "a vast public subsidy to the financial system," since financial institutions could borrow cheaply from the state-influenced interbank/policy-rate structure while continuing to charge market rates to households and firms.
+
+**Three distinguishing features of financialized capitalism.** The 2016 paper (restating a framework that runs through Lapavitsas's work including the 2013 article) identifies: non-financial enterprises becoming more distant from banks while drawing profit from their own financial operations; banks shifting profit sources away from lending to non-financial corporations toward financial-market transactions and household lending; and households becoming financialized, with "personal revenue" becoming "a significant source of profit for banks" in a way with no clear historical precedent.
+
+## Relation to the Georgist Case
+
+Lapavitsas writes from the Marxist political-economy tradition, not from Georgist or classical land-rent theory, and the wiki should attribute his framing explicitly rather than absorb it into the wiki's own rent-gradient language. His "financial expropriation" is a *labour-value-theoretic* concept: profit extracted from wage/salary income via debt-service payments, traceable in his framework to the exploitation of labour (deferred or displaced from the point of production into the point of debt repayment), not to the capture of a scarce, non-produced factor in the classical-rent sense the wiki uses for land. This is a materially different mechanism from the wiki's [finance-growth-is-land-credit](/wiki/finance-growth-is-land-credit/) claim, which locates the rent in the **appreciating land collateral** behind mortgage debt (the Jordà-Schularick-Taylor / Knoll-Schularick-Steger composition finding) — Lapavitsas's mortgage example instead locates the extraction in the **debtor's wage stream** used to service the debt, regardless of whether the underlying collateral appreciates. The two channels are compatible (a bank can simultaneously benefit from appreciating land collateral *and* extract wage income via debt service) but are analytically distinct claims requiring separate evidence, and conflating them would overstate what either literature establishes. Lapavitsas's account is best read on this wiki as an independent, non-Georgist argument that finance captures unearned value from non-capitalist income flows generally — a rent-*adjacent* claim from a different theoretical tradition, cited on the [FIRE sector](/wiki/fire-sector/) page as a further heterodox voice alongside [Hudson](/wiki/hudson-killing-the-host/) and [Bezemer & Hudson](/wiki/bezemer-hudson-finance-is-not-the-economy/), rather than as additional support for the land-credit mechanism specifically.
+
+## Nuances and Limits
+
+Lapavitsas's framework is theoretical/interpretive (EDITORIAL taxonomy D) rather than a quasi-experimental empirical result: "financial expropriation" is a category he defines and then illustrates, not a magnitude he separately measures apart from the financial-profit-share time series. The 2016 companion paper's own empirical claim — that markup/profit growth is "mild," with financial-profit share rising while average profitability stays flat — is itself a decomposition exercise open to the same kind of measurement disputes (normal-return benchmark choice, sectoral classification) that affect the wiki's [corporate-profits-increasingly-rents](/wiki/corporate-profits-increasingly-rents/) page. [VERIFY: this entry could not independently confirm whether the 2013 *City* article contains the specific mortgage/financial-expropriation illustration quoted above from the 2016 piece, or whether that specific example was introduced only in the later paper; the two works share theoretical apparatus but are not identical texts.] Lapavitsas's prescriptions (public financial institutions, expanded social provision, "command of the social and collective") are explicitly political-economy policy conclusions outside the Georgist toolkit of rent-specific taxation and should not be presented as if they were.
+
+## Bears On
+
+- **Concept:** [The FIRE Sector](/wiki/fire-sector/) — adds a Marxist-tradition heterodox voice (distinct from Hudson's land-credit framing) arguing finance extracts value from non-capitalist income flows generally, broadening the FIRE critique's intellectual lineage beyond the wiki's existing sources.
+- **Problem:** [The growth of modern banking is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — bears on this page as a contrast case: Lapavitsas's mortgage-expropriation mechanism (debt service extracted from wages) is a different channel from this page's land-collateral-appreciation mechanism, and the two should not be cited interchangeably as if they were the same evidence.
+
+## See Also
+
+- [The FIRE Sector](/wiki/fire-sector/)
+- [The growth of modern banking is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/)
+- [Killing the Host (Hudson, 2015)](/wiki/hudson-killing-the-host/)
+- [Bazot (2018): Financial Consumption and the Cost of Finance in Europe](/wiki/bazot-cost-of-finance-europe/)
+- [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)
+- [Economic Rent](/wiki/economic-rent/)
+
+## Sources
+
+1. Costas Lapavitsas (2013), "The financialization of capitalism: 'Profiting without producing'," *City* 17(6): 792-805. DOI: [10.1080/13604813.2013.853865](https://doi.org/10.1080/13604813.2013.853865) · [Publisher PDF](https://www.tandfonline.com/doi/pdf/10.1080/13604813.2013.853865) (Cloudflare-blocked in this environment — returns HTTP 403) · [EconPapers/RePEc abstract record](https://econpapers.repec.org/RePEc:taf:cityxx:v:17:y:2013:i:6:p:792-805) — used for the confirmed published abstract (verbatim), journal/volume/page/DOI metadata. [VERIFY: full text not independently read.]
+2. Costas Lapavitsas & Ivan Mendieta-Muñoz (2016), "The Profits of Financialization," *Monthly Review* 68(3), July-August 2016. [monthlyreview.org](https://monthlyreview.org/2016/07/01/the-profits-of-financialization/) · [open PDF mirror](http://pinguet.free.fr/lapavi2016.pdf) — used for the full text: the "financial expropriation" definition and its explicit mortgage/wage-income illustration, the three distinguishing features of financialized capitalism, and the US financial-profit-share-vs-average-profitability empirical finding. Same lead author, closely related theoretical framework to the 2013 *City* article; treated as a corroborating companion source, not a substitute citation for the 2013 paper's own text.
+3. Hans G. Despain, review of *Profiting Without Producing: How Finance Exploits Us All*, Marx & Philosophy Review of Books. [marxandphilosophy.org.uk](https://marxandphilosophy.org.uk/reviews/7850_profiting-without-producing-review-by-hans-g-despain/) — attempted as a secondary corroborating source; returned HTTP 503 in this session and was not read. [VERIFY: not used for any claim in this entry; listed for a future re-attempt.]
