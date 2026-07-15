@@ -63,6 +63,7 @@ Several caveats are essential to using this paper honestly in the Georgist case:
 - [Deadweight Loss](/wiki/deadweight-loss/)
 - [Objection: LVT is just a property tax](/wiki/lvt-is-just-a-property-tax/)
 - [Taxing Immovable Property: Revenue Potential and Implementation Challenges](/wiki/imf-taxing-immovable-property/)
+- [SWAY realist review of LVT and net wealth taxes in OECD countries](/wiki/sway-lvt-wealth-taxes-review/) — a design-conditions companion in the tax-and-growth lane
 - [World Bank property tax determinants](/wiki/world-bank-property-tax-determinants/)
 
 ## Sources
