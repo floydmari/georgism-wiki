@@ -79,7 +79,7 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 
 ## Sources
 
-1. Adam Smith (1776), *The Wealth of Nations*, Book I, Ch. XI — used for rent as "naturally a monopoly price" (A-claim; public domain; quote verified verbatim against the repo-hosted text 2026-07-11). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](../sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/).
+1. Adam Smith (1776), *The Wealth of Nations*, Book I, Ch. XI — used for rent as "naturally a monopoly price" (A-claim; public domain; quote verified verbatim against the repo-hosted text 2026-07-11). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/).
 2. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text](https://www.econlib.org/library/Ricardo/ricP.html)
 3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
 4. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
