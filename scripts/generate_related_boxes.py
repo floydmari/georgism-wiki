@@ -220,10 +220,19 @@ def main():
         print(f"applying {len(files)} pre-generated boxes")
         for i, fn in enumerate(files, 1):
             slug = os.path.splitext(os.path.basename(fn))[0]
-            apply_box(gurl, slug, deliverable(open(fn).read().strip()), stats, lock)
+            for attempt in range(3):
+                try:
+                    apply_box(gurl, slug, deliverable(open(fn).read().strip()),
+                              stats, lock)
+                    break
+                except Exception as e:      # connection resets mid-fleet: back off, retry
+                    if attempt == 2:
+                        stats["errors"].append(f"{slug}: {str(e)[:80]}")
+                    else:
+                        time.sleep(5 * (attempt + 1))
             if i % 50 == 0:
-                print(f"  … {i}/{len(files)} ({stats['applied']} applied)")
-            time.sleep(0.3)
+                print(f"  … {i}/{len(files)} ({stats['applied']} applied)", flush=True)
+            time.sleep(0.5)
         print(json.dumps({k: (len(v) if isinstance(v, list) else v)
                           for k, v in stats.items()}))
         for e in stats["errors"][:10]:
