@@ -10,7 +10,7 @@ last_reviewed: 2026-07-11
 
 ## Overview
 
-The **Land Boom of 1869** and the **Panic of 1873** mark one of the sharpest boom-and-bust pairs in nineteenth-century US economic history: a post-Civil War surge of railroad construction, land-grant speculation, and bank credit that collapsed on September 18, 1873, when the banking house of Jay Cooke & Co. failed, triggering a financial panic and the multi-year **Long Depression**.[3] The episode is one of the historical cycle peaks catalogued by both **[Phillip J. Anderson](/wiki/phillip-j-anderson/)**'s *The Secret Life of Real Estate and Banking* and **Akhil Patel**'s *The Secret Wealth Advantage* as part of the recurring [18-year land cycle](/wiki/18-year-land-cycle/), and it is the depression during which [Henry George](/wiki/henry-george/) began writing *[Progress and Poverty](/wiki/progress-and-poverty/)*.[1][2][5]
+The **Land Boom of 1869** and the **Panic of 1873** mark one of the sharpest boom-and-bust pairs in nineteenth-century US economic history: a post-Civil War surge of railroad construction, land-grant speculation, and bank credit that collapsed on September 18, 1873, when the banking house of Jay Cooke & Co. failed, triggering a financial panic and the multi-year **[Long Depression](/wiki/long-depression/)**.[3] The episode is one of the historical cycle peaks catalogued by both **[Phillip J. Anderson](/wiki/phillip-j-anderson/)**'s *The Secret Life of Real Estate and Banking* and **Akhil Patel**'s *The Secret Wealth Advantage* as part of the recurring [18-year land cycle](/wiki/18-year-land-cycle/), and it is the depression during which [Henry George](/wiki/henry-george/) began writing *[Progress and Poverty](/wiki/progress-and-poverty/)*.[1][2][5]
 
 ## The Land Boom of 1869
 

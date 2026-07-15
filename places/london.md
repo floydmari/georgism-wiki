@@ -27,7 +27,7 @@ London's transit-driven land value uplifts are frequently cited in the Georgist 
 
 - [Land Value Capture](/wiki/land-value-capture/) — the general policy family these London findings motivate
 - [Betterment Levy](/wiki/betterment-levy/) — one-off UK mechanism proposed to capture this kind of uplift
-- [Harrison, Ricardo's Law](/wiki/harrison-ricardos-law/) — uses London house-price data as a worked example of the tax clawback thesis
+- [Harrison, Ricardo's Law](/wiki/harrison-ricardos-law/) — uses London house-price data as a worked example of the [tax clawback](/wiki/tax-clawback/) thesis
 - [Unearned Increment](/wiki/unearned-increment/) — the underlying concept these uplifts illustrate
 
 ## Sources

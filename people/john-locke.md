@@ -28,7 +28,7 @@ cites Locke (1691) for the observation that taxes ultimately settle on land.[2]
 
 ### Banner: Locke's Property Theory Applied to Colonial Land Acquisition
 
-Stuart Banner's *How the Indians Lost Their Land* (2005) documents how Lockean property theory was applied — and stretched — to justify colonial land acquisition from American Indians. Banner traces the legal reasoning by which English colonists initially recognized Indian land ownership, then progressively narrowed it, using Locke's labor-mixing argument as a conceptual tool. (D-claim; interpretive)
+[Stuart Banner](/wiki/stuart-banner/)'s *How the Indians Lost Their Land* (2005) documents how Lockean property theory was applied — and stretched — to justify colonial land acquisition from American Indians. Banner traces the legal reasoning by which English colonists initially recognized Indian land ownership, then progressively narrowed it, using Locke's labor-mixing argument as a conceptual tool. (D-claim; interpretive)
 
 Banner documents that early colonial figures invoked principles consistent with the Lockean proviso. Increase Mather and William Penn referred to Indians as "Native Proprietors" or "Owners" of North America (Banner 2005, p. 23). An early governor of New Haven declared Indians "were the true proprietours of the land (for we found it not a vacuum)" (Banner 2005, p. 23). This initial recognition — that Indian occupancy constituted ownership, not mere use — was consistent with Locke's premise that mixing labor with land creates property. (A-claim; factual)
 

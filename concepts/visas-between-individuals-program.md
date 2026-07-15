@@ -17,7 +17,7 @@ VIP is a considerably more contested extension of the Georgist rent-capture logi
 
 ## See Also
 
-- [Radical Markets (book page)](/wiki/radical-markets/) — the book in which VIP is proposed, alongside the COST and quadratic voting
+- [Radical Markets (book page)](/wiki/radical-markets/) — the book in which VIP is proposed, alongside the COST and [quadratic voting](/wiki/quadratic-voting/)
 - [E. Glen Weyl](/wiki/e-glen-weyl/) — co-author of the proposal
 - [Eric A. Posner](/wiki/eric-posner/) — co-author of the proposal
 - [Economic Rent](/wiki/economic-rent/) — the general category of unearned value VIP attempts to partially capture

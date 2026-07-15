@@ -49,7 +49,7 @@ same sense, and the size of monopsony's aggregate effect on wages remains an act
 empirical dispute rather than a settled fact.
 
 [*Radical Markets*](/wiki/posner-weyl-radical-markets/) (Posner & Weyl, 2018) applies
-the concept in two chapters: Ch. 3 proposes a Visas Between Individuals Program partly
+the concept in two chapters: Ch. 3 proposes a [Visas Between Individuals Program](/wiki/visas-between-individuals-program/) partly
 to break employers' monopsony power over migrant workers, and Ch. 5 argues that
 dominant data platforms hold monopsony power over the data individual users generate,
 motivating the [data as labor](/wiki/data-as-labor/) proposal to pay users for that
