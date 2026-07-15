@@ -1,74 +1,33 @@
-# Draft: "Related on the wiki" theme partial (Option 1)
+# Option 1 "Related on the wiki" box — RESOLVED: already shipped in the theme
 
-**Status:** draft only — the `progress-org-theme` repo is not attached to this session, so
-this cannot ship as a PR yet. Ask: add `floydmari/progress-org-theme` to the session (or say
-"add the theme repo") and this becomes a `claude/*` branch + PR for human merge.
+**Finding (2026-07-14, after attaching floydmari/progress-org-theme):** the theme's
+`post.hbs` (lines ~68–102 at commit d806f8b) already contains the tag-driven wiki box:
+a `{{^has tag="#wiki"}}` guard wrapping a `{{#has tag="<topic display name>"}}` chain
+over all seven `wiki-research-*` topics, each rendering `partials/wiki-related-card.hbs`
+("From the Georgism Wiki", 4 entries + start-here/dashboard/how-we-verify footer links)
+via `{{#get "posts" filter="tag:wiki+tag:wiki-research-<topic>"}}`.
 
-**Audit result (2026-07-14, live from Ghost Admin API, read-only):**
-- 413/608 legacy `/articles/` posts carry a `wiki-research-*` topic tag (the 2026-07-12
-  tagging pass is intact on-server). The other 195 are deliberately untagged (off-topic).
-- Wiki posts sharing each topic tag: georgism 32, lvt 67, finance 23, inequality 34,
-  resources 61, urban 28, housing 44 — every tagged article will get a non-empty box.
-- No body edits anywhere; the box renders purely from tag metadata. Reversible by
-  reverting the theme commit.
+**Verified live (all seven topic branches render on progress.org):**
+| topic tag | display name (matches has-chain) | live article checked |
+|---|---|---|
+| wiki-research-lvt | LVT Studies | how-appraisers-value-land ✅ |
+| wiki-research-housing | Housing & Land Values | build-to-rent-isnt-the-problem ✅ |
+| wiki-research-georgism | Georgist Thought & History | decades-of-wisdom-…-josh-vincent ✅ |
+| wiki-research-inequality | Inequality & Distribution | gbi-vs-ubi ✅ |
+| wiki-research-finance | Finance & Crises | 18-6-year-real-estate-cycle ✅ |
+| wiki-research-urban | Urban Economics | dont-reject-data-centers-negotiate-harder ✅ |
+| wiki-research-resources | Resource Rents & Dividends | a-georgist-approach-to-emissions-rights ✅ |
 
-## Partial: `partials/related-wiki.hbs` (new file)
+Tag coverage on-server: 413/608 legacy articles carry a topic tag (2026-07-12 pass intact);
+the 195 untagged are deliberately off-topic. Every topic tag has 23–67 wiki posts to serve,
+so no tagged article renders an empty box.
 
-```hbs
-{{!-- Related on the wiki — tag-driven, zero body edits.
-     Renders for legacy articles only (post.hbs guards against wiki posts).
-     Matches wiki entries sharing ANY of this article's tags; the +tag:wiki
-     clause keeps results inside the wiki. Articles without shared tags
-     render nothing (the #if guard). --}}
-{{#get "posts"
-    filter="tags:[{{#foreach tags}}{{slug}}{{#unless @last}},{{/unless}}{{/foreach}}]+tag:wiki"
-    limit="5"
-    include="tags"
-    as |wiki_related|}}
-  {{#if wiki_related}}
-    <aside class="related-wiki">
-      <h3 class="related-wiki-title">Related on the Georgism Wiki</h3>
-      <ul class="related-wiki-list">
-        {{#foreach wiki_related}}
-          <li><a href="{{url}}">{{title}}</a></li>
-        {{/foreach}}
-      </ul>
-      <a class="related-wiki-more" href="/wiki/start-here/">Explore the wiki &rarr;</a>
-    </aside>
-  {{/if}}
-{{/get}}
-```
-
-## Hook in `post.hbs`
-
-Insert after the article body / before comments-or-footer, guarded so wiki entries
-(which use `custom-wiki-entry.hbs` anyway) and any future wiki-tagged post never
-show the box on themselves:
-
-```hbs
-{{#post}}
-  ...existing body...
-  {{^has tag="wiki"}}
-    {{> "related-wiki"}}
-  {{/has}}
-  ...
-{{/post}}
-```
-
-**Gotchas honoured:**
-- `{{#has tag="wiki"}}` matches tag NAME, not slug — confirm in Ghost admin that the wiki
-  tag's display name is exactly `wiki` (memory says name/slug match for this tag; verify in
-  the PR). If the name differs, use the name here.
-- Filter interpolation over ALL of the article's tags (not just `wiki-research-*`) is
-  deliberate: Ghost filters can't prefix-match, wiki posts only share the topical tags, and
-  the `+tag:wiki` clause bounds results. It also lets finer-grained shared tags (e.g.
-  `taxation`) enrich matches for free.
-- 84 articles carry >1 topic tag — the single `{{#get}}` handles that natively (any-match),
-  no duplicate boxes.
-- Minimal CSS to add (theme's tokens will override): `.related-wiki { border: 1px solid
-  var(--color-border, #ddd); border-radius: 8px; padding: 1rem 1.25rem; margin: 2rem 0; }`
-
-## Alternative already on file
-BACKLOG (2026-07-12) notes a paste-ready code-injection guide was delivered to Floyd
-(`from-the-wiki-theme-block.md`). The theme-repo partial supersedes it: versioned,
-reviewable, auto-deployed on merge via the theme repo's GitHub Action.
+**Maintenance notes (the only follow-ups Option 1 could ever need):**
+- `{{#has}}` matches tag display NAMES; the `{{#get}}` filters match slugs. If a
+  wiki-research-* tag is ever renamed in Ghost admin, the corresponding branch fails
+  silently — keep post.hbs in sync (the comment in post.hbs says the same).
+- First-match-wins: an article with 2+ topic tags shows only its first topic's box (84
+  articles have >1 topic tag). Acceptable; a merged multi-topic box would be the only
+  enhancement worth considering.
+- The earlier draft in this file proposed an all-tags `{{#get}}` interpolation partial;
+  superseded by the shipped implementation. See git history of this file if ever wanted.
