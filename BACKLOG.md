@@ -1,6 +1,6 @@
 # BACKLOG.md — Wiki Improvement Queue
 
-## ⟳ RESUME HERE (updated 2026-07-15, session udw74p — post-deploy)
+## ⟳ RESUME HERE (updated 2026-07-15e, session udw74p — post-merge, post-compaction-safe)
 
 **CLAIM: the entire Slack-candidates lane (issue #24 waves + TIER-2 citation wave) is owned by
 session udw74p on branch `claude/slack-research-triage-udw74p` — see LOOP.md "Claiming work".
@@ -15,8 +15,17 @@ scripts/_secrets.py (op item get fallback for the em-dash item name).
 **Standing rules in force:** Floyd's UBI scope rule (EDITORIAL §0, 2026-07-15 — UBI only
 with rent/commons tie); loop priority = enrich benefits/problems/objections lanes.
 
+**Post-compaction note (2026-07-15e):** PR #26 MERGED to main; full Ghost re-sync done
+(828/828); branch restarted from main; claim convention live in LOOP.md + loop-diagram;
+verification pass 15d cleared 5 flags. The plan below is updated accordingly.
+
 **Next iteration plan (in order):**
-1. TIER-2 citation wave continuation — remaining ~90 scope-relevant rows in
+0. DONE through batch 3 (SWF proposals, US LVT, Korea politics, NEF, Equal Right, messaging
+   lane) — scope-relevant TIER-2 citations are exhausted; do not re-mine the T2 list.
+1. DEEPEN-SCAN: the CHPC 1960 report (full PDF now in registry) for the NYC exemption page;
+   then the standing NOW lanes — VERIFY burn-down (Hermes/owner-gated items remain),
+   problems/benefits stub waves, people stubs.
+1b. (superseded) TIER-2 citation wave continuation — remaining ~90 scope-relevant rows in
    `sources/slack-research-triage-2026-07-14.json` (tier=TIER2, Status still "Not scanned"),
    worked BY TARGET PAGE with the delta rule; flip cited rows to Referenced. Sub-batches
    done so far: SWF proposals, US LVT activity, Korea politics, NEF, Equal Right.
