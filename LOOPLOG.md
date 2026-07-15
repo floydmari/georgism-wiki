@@ -875,3 +875,16 @@ simulations, advocacy-graded; both report PDFs read — Princeton found at its m
 advocates' own homestead numbers wired into the asset-rich-cash-poor objection's steelman).
 Commits fe0c8d8 · 5edd217. 827 pages; lint 0 errors; registry 1,098 rows. Next iteration:
 TIER-2 remainder by target page, then BACKLOG NOW lanes.
+
+---
+
+## 2026-07-15d — Verification pass: 5 flags cleared (session udw74p, post-merge loop)
+
+Haiku hunt + T1 integration: Forget's 8.5% hospitalization figure now confirmed from the
+author's own LSE summary (flag narrowed to page-cite-only); the Kang BIEN 2024 PDF's full URL
+recovered and verified (truncation flag cleared); the CHPC 1960 report identified in full —
+Special Committee on Tax Policies, "How Tax Exemption Broke the Housing Deadlock in New York
+City" — with the complete report PDF located (queued as a deepen-scan candidate for the NYC
+exemption page); Gaffney's NYC paper repointed to its stable UCR PDF. Osterkamp verification
+mooted by the namibia page deletion. Also: loop-diagram synced with the new claim-lane step
+(LOOP.md sync-rule debt). Lint 0 errors; 828 pages.
