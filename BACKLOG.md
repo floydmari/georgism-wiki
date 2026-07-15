@@ -60,47 +60,25 @@ commit+push+preview — publishing is Floyd's process.
 
 ---
 
-## NOW (in flight today, 2026-07-10)
+## NOW (groomed 2026-07-15, session udw74p — ground-truthed against the shipped corpus)
 
-### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
-### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
-- [~] [PROBLEM-BUILD] tier:T2 status:in-progress — problems 1–6 (PLAN §Gap analysis):
-      (1) rising land values/housing costs drive poverty; (2) homelessness is a housing-cost
-      problem (Colburn-Aldern anchor); (3) housing unaffordability is a land problem
-      (KSS/Glaeser-Gyourko/Hsieh-Moretti — first stub landed this shift:
-      problems/housing-unaffordability-is-a-land-problem.md); (4) rent-seeking drags growth
-      (Murphy-Shleifer-Vishny, Baumol); (5) the young are locked out of land wealth;
-      (6) land underuse / speculative vacancy in high-demand cities.
-- [~] [BENEFIT-BUILD] tier:T2 status:in-progress — benefits 7, 8, 10 (PLAN):
-      (7) taxing land/rents increases productivity (OECD WP620 w/ Xing caveat, HGT, ATCOR as
-      attributed theory); (8) LVT reduces the cost of housing (land PRICES well-supported vs
-      RENTS paid weaker — say so); (10) rent dividends reduce poverty/inequality
-      (Jones-Marinescu, Segal, WITH the Goldsmith correction from this shift's purge).
-      Benefit 9 (construction/density) already exists — [EXPAND] split-rate-increases-
-      construction with Oates-Schwab + Song-Zenou at next touch, don't duplicate.
-- [~] [PROBLEM-BUILD] tier:T1 status:in-progress — justice pair 11–12 (T1 drafts personally,
-      highest editorial sensitivity): (11) land justice & Indigenous reconciliation;
-      (12) land & the Black-white wealth gap. Rule: document the intersection (shared
-      diagnosis, divergent remedies), do NOT overclaim geoism = reconciliation/reparations.
-- [ ] [SYNTHESIZE] tier:T1 status:todo — as each new page ships: add it to
-      concepts/the-problems.md / concepts/the-benefits.md indexes (lint requires claim_type;
-      indexes must stay current per EDITORIAL §5b).
+### Comprehensiveness loop invocation #2 (DUE: ~215 registry rows added since the last watermark)
+- [~] [AUDIT] tier:T1 status:in-progress claimed:claude/slack-research-triage-udw74p (2026-07-15) —
+      run LOOP-COMPREHENSIVENESS.md over the newly Scanned sources from the Slack-ingest waves
+      (29–32 + deepen-scans): prepass script → report-only sweep agents (≤4 concurrent) →
+      T1 triage → stubs (≤8/shift, accept bar: ≥2 natural inbound links) → watermark + accept/
+      reject counts logged here (Gate-2 convergence data). Authors channel candidates already
+      visible: Nate Vernon (2 IMF papers), Martine August, Greg Miller/CLE, Evelyn Forget,
+      David A. Green (4+ touchpoints).
 
-### People stubs from book scanning (sources/inbox/T1-TODO-people-pages-from-book-scanning.md)
-- [~] [EXPAND] tier:T2 status:in-progress — 10 of the listed authors already have pages
-      (Andelson, Barnes, Daly, Daniel, Barker, Neeson, Banner, Bryson, Howard, Adams).
-      Remaining this wave, standard triage bar applies: K.W. Burgess, John Noyes,
-      Eric Goldman, William Redfearn. Then move the TODO file to sources/inbox/consumed/.
-
-### VERIFY burn-down (queue regenerated this shift: 121 markers on wiki pages)
-- [ ] [VERIFY] tier:T1 status:recurring — the **unclassified channel (82 markers)** is the
-      biggest lane: triage each into a channel or resolve directly. Recent pace: 4–8
-      markers/wave (waves 10–11). Channels snapshot: owner-input 2 · book-copy 8 ·
-      unblocked-web 23 · new-source 6 · unclassified 82. Queue file is ground truth.
-- [ ] [FIND] tier:T2 status:todo — the 6 **needs-new-source** markers each want a forage
-      task; top: Cherokee casino-dividend primary (Costello/Akee line — do NOT cite from
-      memory; feeds resource-rent-dividends-work AND benefit 10), Letchworth empirical data,
-      COST self-assessment evidence, symmetry/decrement objection's best academic statement.
+### VERIFY burn-down (queue: 25 markers as of 2026-07-15; regenerate for ground truth)
+- [ ] [VERIFY] tier:T1 status:recurring — workable-from-here items are nearly exhausted after
+      the 15d pass; remainder is mostly Hermes-lane (paywalled full texts: Forget CPP
+      page-cites, Osterkamp BIS, Foldvary RAE, Cunningham JUE tables) and owner-input.
+      Keep routing per the queue file; the campsite rule still applies each shift.
+- [ ] [FIND] tier:T2 status:todo — needs-new-source markers; top: Cherokee casino-dividend
+      primary (Costello/Akee line), Letchworth empirical data, COST self-assessment evidence,
+      symmetry/decrement objection's best academic statement.
 
 ### Public-domain texts program (sources/public-domain-texts.md; 12 texts/ pages live)
 - [ ] [READ&MINE] tier:T2 status:todo — NEXT TARGET: Henry George Jr., *The Life of Henry
@@ -109,7 +87,19 @@ commit+push+preview — publishing is Floyd's process.
       Then per the file's list: Mill Principles (Gutenberg 30107), Progress & Poverty
       (55308), Garden Cities (46134), Pigou Welfare (Econlib), Hoyt 1933 (check renewal).
 
----
+### DONE — retired from NOW by the 2026-07-15 grooming (ground truth: pages exist, stub: false)
+- [x] Problems 1–6 ALL SHIPPED: rising-land-costs-drive-poverty · homelessness-is-housing-cost-
+      problem · housing-unaffordability-is-a-land-problem · rent-seeking-drags-growth ·
+      young-locked-out-of-land-wealth · speculative-vacancy-wastes-cities.
+- [x] Benefits 7/8/10 ALL SHIPPED: taxing-land-raises-productivity ·
+      lvt-improves-housing-affordability · rent-dividends-reduce-poverty.
+- [x] Justice pair 11–12 SHIPPED (as narratives/): land-justice-and-indigenous-reconciliation ·
+      land-and-the-black-white-wealth-gap.
+- [x] People stubs from book scanning ALL SHIPPED: ronald-burgess · richard-noyes ·
+      eric-goldman · david-redfearn (move the inbox TODO to consumed/ when next touched).
+- [x] SYNTHESIZE index task: the claim indexes live at concepts/problems.md and
+      concepts/benefits.md (NOT "the-problems"/"the-benefits" as previously written here) and
+      are verified complete against both directories as of 2026-07-15.
 
 ## NEXT (pick up when a NOW lane clears)
 
