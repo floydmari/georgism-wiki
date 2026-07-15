@@ -126,21 +126,34 @@ def deliverable(box_html):
     """Wrap the box for codeinjection_foot: inert <template> + relocation script.
     Ghost emits this before </body>; the script moves it into the theme's slot
     (theme PR adds <div id="wikiRelatedSlot"></div> where the runtime box was).
-    Before the theme change ships, no slot exists and nothing is shown."""
-    return (f"{MARK_START}<template data-wiki-related-pre>{box_html}</template>"
+    Before the theme change ships, no slot exists and nothing is shown.
+
+    Two hard-won invariants (2026-07-15 duplication incident):
+    * box_html must carry NO markers of its own — sample files include them, so we
+      strip them here. Nested markers made the non-greedy replace match the inner
+      end-marker and leave orphan tails that stacked the script 4x per sweep.
+    * Ghost absolutizes relative hrefs in stored code injection; emit absolute
+      URLs so the stored field compares equal and re-sweeps count as unchanged.
+    * The script guards on an empty slot so even a duplicated script can never
+      render a second box."""
+    inner = box_html.replace(MARK_START, "").replace(MARK_END, "").strip()
+    inner = inner.replace('href="/wiki/', 'href="https://www.progress.org/wiki/')
+    return (f"{MARK_START}<template data-wiki-related-pre>{inner}</template>"
             "<script>(function(){var t=document.querySelector('template[data-wiki-related-pre]'),"
             "s=document.getElementById('wikiRelatedSlot');"
-            "if(t&&s){s.appendChild(t.content.cloneNode(true));}})();</script>"
+            "if(t&&s&&!s.firstChild){s.appendChild(t.content.cloneNode(true));}})();</script>"
             f"{MARK_END}")
 
 
 def replace_marker_segment(existing, segment):
     """Idempotently install/refresh our segment, preserving any other content
-    (some posts carry republished-by meta tags in the same field)."""
+    (some posts carry republished-by meta tags in the same field). GREEDY span —
+    first start-marker to LAST end-marker — so it also swallows and repairs any
+    duplicated/orphaned tails from the nested-marker bug."""
     existing = existing or ""
-    pat = re.compile(re.escape(MARK_START) + r".*?" + re.escape(MARK_END), re.S)
+    pat = re.compile(re.escape(MARK_START) + r".*" + re.escape(MARK_END), re.S)
     if pat.search(existing):
-        return pat.sub(lambda _: segment, existing)
+        return pat.sub(lambda _: segment, existing, count=1)
     return (existing + "\n" if existing.strip() else "") + segment
 
 
