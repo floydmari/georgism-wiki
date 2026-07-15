@@ -16,7 +16,7 @@ supports_outcomes: []
 ## Overview
 
 The complete public-domain text of Mill's *Principles* — in the Laughlin abridged edition —
-is held in this repository: [**`sources/publicdomain/principles-of-political-economy.md`**](../sources/publicdomain/principles-of-political-economy.md)
+is held in this repository: [**`sources/publicdomain/principles-of-political-economy.md`**](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/principles-of-political-economy.md)
 (transcribed from [Project Gutenberg #30107](https://www.gutenberg.org/ebooks/30107); see EDITORIAL §3b).
 Every Mill quotation on this page was re-verified verbatim against that hosted text on
 2026-07-11.
@@ -175,7 +175,7 @@ descendant of this objection.
 1. John Stuart Mill, *Principles of Political Economy*, 1848 (rev. through the 7th ed.,
    1871), Book V, Ch. II, §5 ("The increase of the rent of land from natural causes a fit
    subject of peculiar Taxation"). **Complete text held in this repository:**
-   [`sources/publicdomain/principles-of-political-economy.md`](../sources/publicdomain/principles-of-political-economy.md)
+   [`sources/publicdomain/principles-of-political-economy.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/principles-of-political-economy.md)
    (the Laughlin abridged edition, [Project Gutenberg #30107](https://www.gutenberg.org/ebooks/30107),
    fetched 2026-07-11, Gutenberg boilerplate stripped top and bottom, no modernization —
    EDITORIAL §3b). "Grow richer, as it were, in their sleep, without working, risking, or

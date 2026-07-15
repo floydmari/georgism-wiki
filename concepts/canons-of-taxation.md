@@ -51,5 +51,5 @@ Critics accept much of this while disputing whether land rent is a *large enough
 
 ## Sources
 
-1. Adam Smith (1776), *The Wealth of Nations*, Book V, Ch. II, Part II — used for the four maxims (verbatim). Quotations and Georgist scoring on the [book page](/wiki/wealth-of-nations/); repository full text at [`sources/publicdomain/wealth-of-nations.md`](../sources/publicdomain/wealth-of-nations.md) (public domain).
+1. Adam Smith (1776), *The Wealth of Nations*, Book V, Ch. II, Part II — used for the four maxims (verbatim). Quotations and Georgist scoring on the [book page](/wiki/wealth-of-nations/); repository full text at [`sources/publicdomain/wealth-of-nations.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/wealth-of-nations.md) (public domain).
 2. Henry George (1879), *Progress and Poverty*, Book VIII, Ch. III — used for George's four conditions (verbatim); verified verbatim against the [repository full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain, EDITORIAL §3b).

@@ -82,7 +82,7 @@ classical tradition rather than outside it.
    "unearned increment" diagnosis and the "richer in their sleep" passage, and for the
    future-increment tax proposal (A-claims; public domain). Ashley (7th) edition:
    [Full text](https://www.econlib.org/library/Mill/mlP.html). **Complete text also held in
-   this repository:** [`sources/publicdomain/principles-of-political-economy.md`](../sources/publicdomain/principles-of-political-economy.md)
+   this repository:** [`sources/publicdomain/principles-of-political-economy.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/principles-of-political-economy.md)
    — the Laughlin abridged edition (Project Gutenberg #30107), in which this §5 passage sits
    under Book V, Ch. I; the "grow richer... in their sleep" line and the future-increment
    proposal verified verbatim there (2026-07-11).

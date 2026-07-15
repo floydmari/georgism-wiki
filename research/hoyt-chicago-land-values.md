@@ -100,7 +100,7 @@ here (and the venue attribution in those listings has not been independently con
 ## From the Text (verbatim, Chapter VII: *The Chicago Real Estate Cycle*)
 
 The full 1933 first edition is now mirrored in this repository at
-[`sources/publicdomain/hoyt-100-years-chicago-land-values.md`](/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
+[`sources/publicdomain/hoyt-100-years-chicago-land-values.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
 (public domain; raw Internet Archive OCR, mechanically cleaned — see that file's provenance).
 The passages below are the primary-source basis of the wiki's land-cycle account, pinned to the
 page numbers shown in the scan's running heads and checked verbatim against the page images
@@ -335,7 +335,7 @@ outcome claim.**
    Press, 1933. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich)
    — the primary source for this page; used throughout. A mechanically-cleaned full-text mirror
    of the 1933 first edition is now held in this repository at
-   [`sources/publicdomain/hoyt-100-years-chicago-land-values.md`](/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
+   [`sources/publicdomain/hoyt-100-years-chicago-land-values.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/hoyt-100-years-chicago-land-values.md)
    (public domain — 1933 copyright not renewed; see EDITORIAL §3b and the "From the Text" section
    above for pinned verbatim passages).
 2. "One Hundred Years of Land Values in Chicago...," review notice, *Journal of American
