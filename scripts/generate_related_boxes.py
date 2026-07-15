@@ -36,7 +36,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "scratchpad", "cache")
 ARTICLES = os.path.join(CACHE, "legacy-articles.jsonl")
 SAMPLES = os.path.join(ROOT, "scratchpad", "related-box-samples")
-STATE = os.path.join(CACHE, "related-box-state.jsonl")
+STATE = os.path.join(ROOT, "sources", "related-box-state.jsonl")   # committed: Routine
+                                                                   # sessions need it to
+                                                                   # know what's current
 MODEL = os.environ.get("RELATED_MODEL", "glm-5.2")
 KEY = os.environ.get("OLLAMA_API_KEY")   # required only for generation, not --apply-existing
 
