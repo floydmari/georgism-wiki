@@ -21,7 +21,7 @@ year: 2021
 
 ## Summary
 
-The Canada Mortgage and Housing Corporation's (CMHC) *Housing Market Assessment* (HMA) is a recurring quarterly report rating the vulnerability of Canada's national housing market and 14 Census Metropolitan Areas (CMAs) to a price downturn, using a standardized four-factor framework. The September 2021 edition — covering data through Q2 2021 — was fetched and read in full (48 pages) directly from CMHC's own PDF hosting. This entry is scoped to that single vintage; CMHC publishes HMA editions on a recurring schedule, and later editions should be consulted for the current assessment.
+The [Canada Mortgage and Housing Corporation](/wiki/canada-mortgage-and-housing-corporation/)'s (CMHC) *Housing Market Assessment* (HMA) is a recurring quarterly report rating the vulnerability of Canada's national housing market and 14 Census Metropolitan Areas (CMAs) to a price downturn, using a standardized four-factor framework. The September 2021 edition — covering data through Q2 2021 — was fetched and read in full (48 pages) directly from CMHC's own PDF hosting. This entry is scoped to that single vintage; CMHC publishes HMA editions on a recurring schedule, and later editions should be consulted for the current assessment.
 
 ## The Core Argument / Findings
 

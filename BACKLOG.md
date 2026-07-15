@@ -6,11 +6,11 @@
 session udw74p on branch `claude/slack-research-triage-udw74p` — see LOOP.md "Claiming work".
 Other sessions: pick a different BACKLOG lane or coordinate via a comment on the merge PR.**
 
-**State:** branch `claude/slack-research-triage-udw74p`, all pushed through 26b4d67; lint 0
-errors, 827 pages, 0 orphans; registry 1,098 rows, 0 dead links. Issue #24 CLOSED (waves
-29-31: 25 research entries + universal-vs-targeted objection page). **Ghost DEPLOYED
-2026-07-15** — full 827-page sync (25 created); key auto-resolves from renamed vaults via
-scripts/_secrets.py (op item get fallback for the em-dash item name).
+**State:** branch `claude/slack-research-triage-udw74p`; lint 0 errors, 836 pages, 0 orphans;
+registry 1,107 rows, 0 dead links. Issue #24 CLOSED (waves 29-31: 25 research entries +
+universal-vs-targeted objection page). Comprehensiveness invocation #2 DONE (watermark below).
+**Ghost DEPLOYED 2026-07-15** — full sync + per-wave incremental syncs; key auto-resolves from
+renamed vaults via scripts/_secrets.py (op item get fallback for the em-dash item name).
 
 **Standing rules in force:** Floyd's UBI scope rule (EDITORIAL §0, 2026-07-15 — UBI only
 with rent/commons tie); loop priority = enrich benefits/problems/objections lanes.
@@ -62,14 +62,20 @@ commit+push+preview — publishing is Floyd's process.
 
 ## NOW (groomed 2026-07-15, session udw74p — ground-truthed against the shipped corpus)
 
-### Comprehensiveness loop invocation #2 (DUE: ~215 registry rows added since the last watermark)
-- [~] [AUDIT] tier:T1 status:in-progress claimed:claude/slack-research-triage-udw74p (2026-07-15) —
-      run LOOP-COMPREHENSIVENESS.md over the newly Scanned sources from the Slack-ingest waves
-      (29–32 + deepen-scans): prepass script → report-only sweep agents (≤4 concurrent) →
-      T1 triage → stubs (≤8/shift, accept bar: ≥2 natural inbound links) → watermark + accept/
-      reject counts logged here (Gate-2 convergence data). Authors channel candidates already
-      visible: Nate Vernon (2 IMF papers), Martine August, Greg Miller/CLE, Evelyn Forget,
-      David A. Green (4+ touchpoints).
+### Comprehensiveness loop invocation #2 — DONE 2026-07-15f
+- [x] [AUDIT] tier:T1 status:done — **WATERMARK: registry 1,107 rows, 2026-07-15, session
+      udw74p.** Swept the 31 sources newly Scanned since invocation #1 (waves 29–32 +
+      deepen-scans). 17 stub/wiring candidates surfaced → T1 triage: **8 stubs accepted &
+      shipped** (people: daron-acemoglu, walter-rybeck, dick-netzer, costas-lapavitsas,
+      martine-august, nate-vernon; places: alberta; orgs: canada-mortgage-and-housing-
+      corporation — all meet the ≥2-inbound accept bar), **11 missed-wiring fixes** committed
+      3fe8612 (incl. the consolidated rent-measurement paragraph on concepts/economic-rent),
+      **2 rejected under the UBI scope rule** (Evelyn Forget, David A. Green people pages —
+      both are pure-UBI-literature figures; log here for Floyd override if he wants them),
+      **6 deferred to invocation #3** (Mark Carney, Thomas Carver, engels-pause concept,
+      Levy Institute + OpenAI org pages, Philippon people page, Blaug — each currently at
+      1 natural inbound or gated on provenance). Gate-2 convergence: accept rate 8/17 ≈ 47%,
+      down from invocation #1 — the corpus is beginning to saturate on people/org stubs.
 
 ### VERIFY burn-down (queue: 25 markers as of 2026-07-15; regenerate for ground truth)
 - [ ] [VERIFY] tier:T1 status:recurring — workable-from-here items are nearly exhausted after

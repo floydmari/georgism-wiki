@@ -29,7 +29,7 @@ year: 2022
 
 ## Summary
 
-"Excess Profit Taxes: Historical Perspective and Contemporary Relevance" is IMF Working Paper WP/22/187 (September 2022), by **Shafik Hebous, Dinar Prihardini, and Nate Vernon** of the IMF's Fiscal Affairs Department, representing the authors' analysis rather than official Fund policy. Fetched and read in full (37 pages) for this entry. It is a companion piece to [Baunsgaard & Vernon's "Taxing Windfall Profits in the Energy Sector"](/wiki/baunsgaard-vernon-windfall-profits/) (Nate Vernon co-authored both) — that note is sector-specific to fossil-fuel extraction, while this paper treats the general, economy-wide case for excess profit taxation (EPTs).
+"Excess Profit Taxes: Historical Perspective and Contemporary Relevance" is IMF Working Paper WP/22/187 (September 2022), by **Shafik Hebous, Dinar Prihardini, and [Nate Vernon](/wiki/nate-vernon/)** of the IMF's Fiscal Affairs Department, representing the authors' analysis rather than official Fund policy. Fetched and read in full (37 pages) for this entry. It is a companion piece to [Baunsgaard & Vernon's "Taxing Windfall Profits in the Energy Sector"](/wiki/baunsgaard-vernon-windfall-profits/) (Nate Vernon co-authored both) — that note is sector-specific to fossil-fuel extraction, while this paper treats the general, economy-wide case for excess profit taxation (EPTs).
 
 The paper's premise: EPTs, which surged in policy interest after COVID-19 and again after Russia's invasion of Ukraine, are not a new idea. They have a documented history from World War I through World War II, and the paper argues modern policy should learn directly from that history's design successes and failures rather than reinvent EPT design from scratch.
 

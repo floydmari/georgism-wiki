@@ -32,7 +32,7 @@ year: 2001
 ## Summary
 
 "The Colonial Origins of Comparative Development: An Empirical Investigation," by
-**Daron Acemoglu**, **Simon Johnson**, and **James A. Robinson** (*American Economic
+**[Daron Acemoglu](/wiki/daron-acemoglu/)**, **Simon Johnson**, and **James A. Robinson** (*American Economic
 Review* 91(5), December 2001, pp. 1369–1401), is one of the most influential empirical
 papers in modern institutional economics. It asks why some countries are vastly richer
 than others and answers with a causal, instrumented estimate of the effect of

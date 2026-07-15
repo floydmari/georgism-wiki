@@ -907,3 +907,21 @@ cumulative exempt value, the speculator-capture finding, the Rickert Manhattan-v
 arithmetic, gross-vs-net (167,375 built vs 13,182 net), and the land-revenue mechanism
 (assessed valuation +$1.15B over 1922). Registry: 1960 report Scanned/Heavy; 2024 note split
 into its own Referenced row. 828 pages; lint 0 errors.
+
+## 2026-07-15f — [COMPREHENSIVENESS] Invocation #2: 8 stubs, 11 wiring fixes, watermark 1,107
+
+Swept the 31 sources newly Scanned since invocation #1 (Slack waves 29–32 + deepen-scans).
+Authors/orgs/places channels surfaced 17 candidates; T1 triage accepted 8 (people:
+Daron Acemoglu, Walter Rybeck, Dick Netzer, Costas Lapavitsas, Martine August, Nate Vernon;
+places: Alberta; orgs: CMHC), all Sonnet-drafted to the stub standard (sourced, ≥2 outbound,
+≥1 natural inbound) and T1-reviewed. Inbound wiring linked first-mentions on 11 existing
+pages; a link_first scripting bug briefly injected wiki links into YAML frontmatter on three
+research pages (authors lists ×2, an excerpt) — caught pre-commit and repaired (plain names
+in frontmatter, links moved to first body mentions); the same scan caught and fixed a
+pre-existing dead excerpt link on people/era-seligman (slug saratoga-single-tax-debate-1890
+never existed). Missed-wiring pass earlier in the invocation committed 11 fixes (3fe8612)
+incl. the consolidated rent-measurement paragraph on concepts/economic-rent. Rejected under
+Floyd's UBI scope rule: Forget and Green people pages (logged in BACKLOG for override).
+Deferred to invocation #3: Carney, Carver, engels-pause, Levy/OpenAI orgs, Philippon, Blaug.
+Accept rate 8/17 ≈ 47% (Gate-2 convergence datum). 836 pages; lint 0 errors; watermark
+written to BACKLOG (registry 1,107 rows, 2026-07-15).
