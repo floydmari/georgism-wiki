@@ -796,3 +796,16 @@ match Ghost's stored form). Routines created: daily 11:00 UTC (new/changed) and 
 Sun 12:00 UTC (full refresh + interlink wave prep). Option 2 fully deployed earlier today
 (966 in-text links); Option 3 v2 strict manifest (779 mappings/309 articles, GLM-5.2)
 awaits Floyd's review. Future: port Routines to Hermes webmaster agents.
+
+## 2026-07-15 (evening) — Entity-link delta wave (Floyd's 18.6-year spot-check)
+
+Root cause of missed names: the 2026-07-14 Haiku prune capped keeps at 6/article
+(197 genuine links discarded fleet-wide). Delta wave: rescan against live link state
+(794 remaining candidates), GLM-5.2 uncapped prune (drop only noise categories),
+Floyd-approved delta manifest (452 links / 163 articles), applied in three passes with
+two matcher upgrades (self-contained formatted runs; list items in both lexical and
+mobiledoc — reference-list author names). Result: +344 links across ~110 posts, 0 drift,
+0 errors. Remaining 108 unplaced = text already inside external links (correct skips)
++ cross-node splits (diminishing returns, logged). Entity links live: ~1,310 total.
+The 18.6-year article: 25 wiki links incl. Patel, Ryan-Collins, Gaffney, Gordon Brown,
+Toby Lloyd, Laurie Macfarlane. Standing rule: NO numeric caps in future prune prompts.
