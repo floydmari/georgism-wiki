@@ -15,17 +15,20 @@ excerpt — ~800 pages) fits comfortably in GLM-5.2's 1M window alongside the ar
 the right granularity: they say what each page argues, which is what relevance
 selection needs.)
 
-Modes:
-  --sample N        generate boxes for N articles, write HTML previews to
-                    scratchpad/related-box-samples/ (NO Ghost writes) — the demo mode.
-  --apply           write boxes to posts' codeinjection_foot (metadata, NOT body).
-                    GATED: refuses to run unless APPLY_OK=1 is set (Floyd's word).
-Delivery (decided after Floyd picks): codeinjection_foot + theme slot (body stays
-pristine, RSS/email clean) vs body HTML card (zero-JS but body content). The HTML
-emitted here is delivery-agnostic; --apply currently targets codeinjection_foot.
+Delivery = Option A (Floyd's pick, 2026-07-15): the box lives in each post's
+codeinjection_foot — per-post METADATA in the Ghost CMS, never in the body. Ghost's
+{{ghost_foot}} emits it before </body> wrapped in an inert <template>; a 3-line inline
+script relocates it into the theme's #wikiRelatedSlot (theme PR). Until the theme PR
+merges there is no slot, so boxes stay invisible and the old runtime box keeps showing —
+zero-downtime cutover. Existing codeinjection content (e.g. republished-by meta tags) is
+preserved: only the marker-delimited segment is ever replaced.
 
-Cadence when live: daily over articles newer/updated since last run; weekly full
-refresh. Run as a CCR Routine for now; port to Hermes webmaster agents later.
+Modes:
+  --sample N / --slugs  generate previews to scratchpad/related-box-samples/ (no writes)
+  --apply               write/refresh the marker segment in codeinjection_foot
+  --changed             only articles new or updated since their last applied box
+Cadence when live: daily --apply --changed; weekly --apply (full refresh, boxes surface
+newly published wiki pages). CCR Routines for now; port to Hermes webmaster agents later.
 """
 import argparse, glob, html, json, os, re, sys, threading, time, urllib.request
 
@@ -115,14 +118,113 @@ def render_box(picks, bytitle):
 {MARK_END}"""
 
 
+def deliverable(box_html):
+    """Wrap the box for codeinjection_foot: inert <template> + relocation script.
+    Ghost emits this before </body>; the script moves it into the theme's slot
+    (theme PR adds <div id="wikiRelatedSlot"></div> where the runtime box was).
+    Before the theme change ships, no slot exists and nothing is shown."""
+    return (f"{MARK_START}<template data-wiki-related-pre>{box_html}</template>"
+            "<script>(function(){var t=document.querySelector('template[data-wiki-related-pre]'),"
+            "s=document.getElementById('wikiRelatedSlot');"
+            "if(t&&s){s.appendChild(t.content.cloneNode(true));}})();</script>"
+            f"{MARK_END}")
+
+
+def replace_marker_segment(existing, segment):
+    """Idempotently install/refresh our segment, preserving any other content
+    (some posts carry republished-by meta tags in the same field)."""
+    existing = existing or ""
+    pat = re.compile(re.escape(MARK_START) + r".*?" + re.escape(MARK_END), re.S)
+    if pat.search(existing):
+        return pat.sub(lambda _: segment, existing)
+    return (existing + "\n" if existing.strip() else "") + segment
+
+
+def ghost_headers():
+    from _secrets import require_ghost as _rg
+    key, _ = _rg()
+    kid, sec = key.split(":")
+    import jwt as _jwt
+    iat = int(time.time())
+    tok = _jwt.encode({"iat": iat, "exp": iat + 300, "aud": "/admin/"},
+                      bytes.fromhex(sec), algorithm="HS256",
+                      headers={"alg": "HS256", "typ": "JWT", "kid": kid})
+    return {"Authorization": f"Ghost {tok}"}
+
+
+def apply_box(gurl, art_slug, segment, stats, lock):
+    import requests
+    r = requests.get(f"{gurl}/ghost/api/admin/posts/slug/{art_slug}/",
+                     headers=ghost_headers(), timeout=60)
+    if r.status_code != 200:
+        with lock: stats["errors"].append(f"{art_slug}: GET {r.status_code}")
+        return False
+    p = r.json()["posts"][0]
+    new_foot = replace_marker_segment(p.get("codeinjection_foot"), segment)
+    if new_foot == (p.get("codeinjection_foot") or ""):
+        with lock: stats["unchanged"] += 1
+        return True
+    pr = requests.put(f"{gurl}/ghost/api/admin/posts/{p['id']}/",
+                      json={"posts": [{"codeinjection_foot": new_foot,
+                                       "updated_at": p["updated_at"]}]},
+                      headers=ghost_headers(), timeout=60)
+    if pr.status_code != 200:
+        with lock: stats["errors"].append(f"{art_slug}: PUT {pr.status_code} {pr.text[:80]}")
+        return False
+    # verify: body untouched, field carries our segment
+    v = requests.get(f"{gurl}/ghost/api/admin/posts/{p['id']}/",
+                     headers=ghost_headers(), timeout=60).json()["posts"][0]
+    if MARK_START not in (v.get("codeinjection_foot") or ""):
+        with lock: stats["errors"].append(f"{art_slug}: verify failed")
+        return False
+    with lock: stats["applied"] += 1
+    return True
+
+
+def load_state():
+    state = {}
+    if os.path.exists(STATE):
+        for line in open(STATE):
+            try:
+                d = json.loads(line); state[d["article"]] = d
+            except Exception:
+                pass
+    return state
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", type=int)
     ap.add_argument("--slugs", nargs="*")
     ap.add_argument("--apply", action="store_true")
+    ap.add_argument("--apply-existing", action="store_true",
+                    help="apply already-generated previews from related-box-samples/ "
+                         "without re-calling the model")
+    ap.add_argument("--changed", action="store_true")
+    ap.add_argument("--workers", type=int, default=6)
     args = ap.parse_args()
-    if args.apply and os.environ.get("APPLY_OK") != "1":
-        sys.exit("--apply is gated: set APPLY_OK=1 only after Floyd approves the mechanism.")
+
+    if args.apply_existing:
+        from _secrets import require_ghost
+        _, gurl = require_ghost(); gurl = gurl.rstrip("/")
+        lock = threading.Lock()
+        stats = {"applied": 0, "unchanged": 0, "errors": []}
+        files = sorted(glob.glob(os.path.join(SAMPLES, "*.html")))
+        if args.slugs:
+            files = [f for f in files
+                     if os.path.splitext(os.path.basename(f))[0] in set(args.slugs)]
+        print(f"applying {len(files)} pre-generated boxes")
+        for i, fn in enumerate(files, 1):
+            slug = os.path.splitext(os.path.basename(fn))[0]
+            apply_box(gurl, slug, deliverable(open(fn).read().strip()), stats, lock)
+            if i % 50 == 0:
+                print(f"  … {i}/{len(files)} ({stats['applied']} applied)")
+            time.sleep(0.3)
+        print(json.dumps({k: (len(v) if isinstance(v, list) else v)
+                          for k, v in stats.items()}))
+        for e in stats["errors"][:10]:
+            print("ERR:", e)
+        return
 
     cat = catalog()
     bytitle = {r["slug"]: r["title"] for r in cat}
@@ -134,26 +236,59 @@ def main():
         arts = [a for a in arts if a["slug"] in set(args.slugs)]
     elif args.sample:
         arts = arts[: args.sample]
+    if args.changed:
+        state = load_state()
+        arts = [a for a in arts if a["slug"] not in state
+                or (a.get("updated_at") or "") > state[a["slug"]].get("article_updated_at", "")]
+        print(f"--changed: {len(arts)} articles new/updated since last box")
+
+    gurl = None
+    if args.apply:
+        from _secrets import require_ghost
+        _, gurl = require_ghost(); gurl = gurl.rstrip("/")
 
     os.makedirs(SAMPLES, exist_ok=True)
-    for a in arts:
-        try:
-            out = glm(PROMPT.format(n=len(cat), catalog=cat_str, title=a["title"],
-                                    text=article_text(a["html"])))
-            picks = [p for p in (out.get("picks") or [])
-                     if isinstance(p, dict) and p.get("slug") in bytitle][:5]
-            if not picks:
-                print(f"  ∅ {a['slug']}: no relevant pages (off-topic)"); continue
-            box = render_box(picks, bytitle)
-            fn = os.path.join(SAMPLES, f"{a['slug']}.html")
-            open(fn, "w").write(box + "\n")
-            print(f"  ✅ {a['slug']}: {[p['slug'] for p in picks]}")
-            with open(STATE, "a") as f:
-                f.write(json.dumps({"date": time.strftime("%Y-%m-%d"), "article": a["slug"],
-                                    "picks": picks, "model": MODEL,
-                                    "applied": bool(args.apply)}) + "\n")
-        except Exception as e:
-            print(f"  ERR {a['slug']}: {str(e)[:140]}")
+    lock = threading.Lock()
+    stats = {"ok": 0, "empty": 0, "applied": 0, "unchanged": 0, "errors": []}
+
+    def work(chunk):
+        for a in chunk:
+            try:
+                out = glm(PROMPT.format(n=len(cat), catalog=cat_str, title=a["title"],
+                                        text=article_text(a["html"])))
+                picks = [p for p in (out.get("picks") or [])
+                         if isinstance(p, dict) and p.get("slug") in bytitle][:5]
+                if not picks:
+                    with lock:
+                        stats["empty"] += 1
+                        print(f"  ∅ {a['slug']}: off-topic, no box")
+                    continue
+                box = render_box(picks, bytitle)
+                open(os.path.join(SAMPLES, f"{a['slug']}.html"), "w").write(box + "\n")
+                if args.apply:
+                    apply_box(gurl, a["slug"], deliverable(box), stats, lock)
+                with lock:
+                    stats["ok"] += 1
+                    with open(STATE, "a") as f:
+                        f.write(json.dumps({"date": time.strftime("%Y-%m-%d"),
+                                            "article": a["slug"],
+                                            "article_updated_at": a.get("updated_at"),
+                                            "picks": picks, "model": MODEL,
+                                            "applied": bool(args.apply)}) + "\n")
+                    if stats["ok"] % 25 == 0:
+                        print(f"  … {stats['ok']} boxes ({stats['applied']} applied)")
+            except Exception as e:
+                with lock: stats["errors"].append(f"{a['slug']}: {str(e)[:120]}")
+                time.sleep(2)
+
+    n = max(1, args.workers)
+    chunks = [arts[i::n] for i in range(n)]
+    threads = [threading.Thread(target=work, args=(c,)) for c in chunks if c]
+    for t in threads: t.start()
+    for t in threads: t.join()
+    print(json.dumps({k: (len(v) if isinstance(v, list) else v) for k, v in stats.items()}))
+    for e in stats["errors"][:10]:
+        print("ERR:", e)
 
 
 if __name__ == "__main__":

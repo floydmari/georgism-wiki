@@ -10,7 +10,8 @@ they are NOT applicable as in-text links without a human picking the anchor.
 import collections, json, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, "scratchpad", "cache", "concept-candidates.jsonl")
+SRC = os.environ.get("CONCEPT_OUT",
+                     os.path.join(ROOT, "scratchpad", "cache", "concept-candidates.jsonl"))
 OUT = os.path.join(ROOT, "scratchpad", "concept-link-manifest.md")
 
 rows = [json.loads(l) for l in open(SRC)]
@@ -46,6 +47,8 @@ for r in rows:
         flag = "" if m["grounded"] else " ⚠️ *ungrounded anchor*"
         L.append(f"- **{m['relation']}** [`{m['claim']}`](https://progress.org/wiki/{slug}/)"
                  f" — anchor: **“{m['anchor_phrase']}”**{flag}")
+        if m.get("page_claim"):
+            L.append(f"  - page's claim: {m['page_claim']}")
         if m.get("anchor_sentence"):
             L.append(f"  - sentence: …{m['anchor_sentence'][:240]}…")
         if m.get("why"):
