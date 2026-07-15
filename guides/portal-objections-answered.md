@@ -22,7 +22,7 @@ capture, the public-choice symmetry argument, and above all the **Schumpeterian 
 that taxing quasi-rents kills innovation, which is *substantially valid at the rent
 frontier* and gates every non-land capture claim on this wiki. The rule is simple: the
 airtight land case does not get to lend its certainty to the contested frontier. Follow any
-link for the full steelman, the evidence, and the caveats.
+link for the full steelman, the evidence, and the caveats. For the debate-ready version — what to *say* when each objection is thrown at you — see the [Rebuttal Cards](/wiki/rebuttal-cards/).
 
 ## Efficiency & economics
 
