@@ -5,14 +5,14 @@ claim_type: benefit
 tags: [outcomes, ace, cash-flow-tax, corporate-tax, debt-bias, tech-rents, geoism, contested-frontier]
 stub: false
 evidence_strength: "Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset"
-supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, panier-perez-gonzalez-villanueva-belgium-ace, petutschnig-runger-austria-ace, power-frerick-excess-returns, domar-musgrave-risk]
+supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, panier-perez-gonzalez-villanueva-belgium-ace, petutschnig-runger-austria-ace, power-frerick-excess-returns, domar-musgrave-risk, baunsgaard-vernon-windfall-profits]
 challenged_by: [hebous-ruf-ace]
 excerpt: "Corporate tax bases that exempt the normal return and tax only above-normal returns — the ACE and cash-flow designs — demonstrably remove the tax subsidy to leverage and, in the expensing variant, stimulate investment. The honest limits: multinationals arbitraged unilateral versions, every full European ACE was repealed, and some of what such taxes reach is quasi-rent."
 last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Rent-targeting corporate taxes — the allowance for corporate equity and cash-flow taxes — reduce the tax subsidy to debt and leave marginal investment untaxed, strongly supported by quasi-experiments for the leverage effect and positively for expensing-driven investment, though effects on multinationals' real investment are contested.
-> **Evidence:** Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset · **6 supporting** sources · **1 challenging**
+> **Evidence:** Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset · **7 supporting** sources · **1 challenging**
 > **Strongest support:** [Zwick & Mahon (2017)](/wiki/zwick-mahon-expensing/) — US bonus depreciation, a move toward expensing, raised eligible investment by roughly 10–17%, concentrated among cash-constrained firms. **Strongest counter:** [Hebous & Ruf (2017)](/wiki/hebous-ruf-ace/) — the strongest-identified ACE study finds the reform reduced corporate leverage but its effect on multinationals' real investment was weak.
 
 ## The Claim
@@ -33,7 +33,7 @@ distortion," which the evidence does not support.
 
 ## The Evidence
 
-In descending evidential weight:
+In descending evidential weight (a sector-specific institutional application closes the list: the IMF's 2022 energy-windfall note, [Baunsgaard & Vernon](/wiki/baunsgaard-vernon-windfall-profits/), applies the same rent-only design logic — cash-flow treatment, normal-return exemption, permanence over ad-hoc levies — to resource extraction, its cumulative-rate-of-return cash-flow tax being the sectoral cousin of the ACE designs below):
 
 - **Expensing stimulates investment —
   [Zwick & Mahon (2017, *AER*)](/wiki/zwick-mahon-expensing/).** The cleanest

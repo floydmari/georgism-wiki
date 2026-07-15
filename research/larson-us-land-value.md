@@ -55,6 +55,7 @@ Its value to the Georgist case is therefore as a **credible, independent anchor 
 ## See Also
 
 - [Albouy, Ehrlich & Shin (2018), Metropolitan Land Values](/wiki/albouy-ehrlich-shin-metro-land/)
+- [Recording Land in the National Balance Sheet (London Group, 2009)](/wiki/london-group-land-balance-sheet/) — official statisticians' account of the residual-vs-direct valuation problem this paper's hedonic approach addresses
 
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Economic Rent](/wiki/economic-rent/)

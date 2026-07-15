@@ -36,6 +36,17 @@ synthesis of existing credit and asset-price research rather than as a new
 econometric result, and the wiki treats it accordingly as an influential
 interpretation, not a settled finding.
 
+The firm-level Canadian evidence for the mechanism is
+[August (2020)](/wiki/august-rental-financialization/): REITs grew from owning
+zero apartment suites in 1996 to roughly 10% of Canada's private rental stock by
+2017, financialized entities now comprise nine of the ten largest landlords, and
+penetration is systematically higher in provinces with weak rent control — a
+descriptive but national-scale case of housing being repriced as a financial
+asset class. The New Economics Foundation's *What Lies Beneath* (2018) restates
+the same diagnosis as UK policy advocacy — "how to fix the broken land system at
+the heart of our housing crisis" — a think-tank statement of this concept's
+argument rather than independent evidence for it.[2]
+
 ## See Also
 
 - [Rethinking the Economics of Land and Housing (research summary)](/wiki/ryan-collins-rethinking-land-housing/) — the primary source for this concept
@@ -54,3 +65,4 @@ interpretation, not a settled finding.
    summary](/wiki/ryan-collins-rethinking-land-housing/) — used for the land–credit
    feedback loop mechanism, the UK lending-share statistics, and the bank
    money-creation point summarized above.
+2. New Economics Foundation (2018), *What Lies Beneath: How to Fix the Broken Land System at the Heart of Our Housing Crisis*. [PDF](https://neweconomics.org/uploads/files/what-lies-beneath.pdf) — used for the UK advocacy restatement of the financialization-of-land diagnosis (think-tank report, cited as the advocates' own position).

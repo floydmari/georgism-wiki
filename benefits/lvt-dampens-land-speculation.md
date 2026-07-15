@@ -5,14 +5,14 @@ claim_type: benefit
 tags: [outcomes, speculation, land-cycle, holding-cost, lvt]
 stub: false
 evidence_strength: "Moderate (strong theory; suggestive direct empirics; the capitalization channel that underpins the mechanism is genuinely contested — Danish quasi-experiments split between full capitalization (DØRS) and a precise zero (Nielsson et al.), and the Loja underassessment result plus the Letwin build-out review qualify the premise)"
-supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land, kuminoff-pope-land-boom-bust, dors-land-taxes-housing-prices]
+supported_by: [cunningham-seattle-options, glaeser-real-estate-bubbles, case-shiller-2003-bubble, hoyt-chicago-land-values, tomson-estonia-lvt, brown-land-speculation-lvt, foldvary-business-cycle-synthesis, harrison-power-in-the-land, kuminoff-pope-land-boom-bust, dors-land-taxes-housing-prices]
 challenged_by: [nielsson-wroblewski-yding-danish-lvt, tubio-reyes-loja-ecuador-lvt, letwin-build-out-review, feldstein-incidence-pure-rent]
 excerpt: "By imposing an annual cost on holding land, LVT reduces the incentive to hold sites idle for speculative gain — shrinking the booms and busts of the land cycle."
 last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — By imposing an annual carrying cost on holding land idle, a land value tax is expected to dampen speculative land holding — a mechanism with strong theoretical grounding and suggestive but not yet definitive empirical support.
-> **Evidence:** Moderate (strong theory; suggestive direct empirics; the capitalization channel is genuinely contested) · **9 supporting** sources · **4 challenging**
+> **Evidence:** Moderate (strong theory; suggestive direct empirics; the capitalization channel is genuinely contested) · **10 supporting** sources · **4 challenging**
 > **Strongest support:** [Cunningham (2006)](/wiki/cunningham-seattle-options/) — vacant Seattle land is priced and held as a real option on appreciation, exactly the option value an annual land tax erodes. **Strongest counter:** [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — a Danish quasi-experiment estimating a *precise zero* capitalization of land taxes into house prices, undercutting the capitalize-away-the-speculative-premium channel the mechanism relies on.
 
 ## The Claim
@@ -21,7 +21,7 @@ A land value tax **reduces speculative land holding**. Speculation depends on be
 
 ## The Mechanism
 
-The [18-year land cycle](/wiki/18-year-land-cycle/) is driven by speculative bidding for land and the credit that funds it. Because LVT taxes land value every year regardless of use, it blunts the expected return to speculation and discourages withholding land from use — in principle damping the amplitude of land booms and the crashes that follow.
+The [18-year land cycle](/wiki/18-year-land-cycle/) is driven by speculative bidding for land and the credit that funds it. Because LVT taxes land value every year regardless of use, it blunts the expected return to speculation and discourages withholding land from use — in principle damping the amplitude of land booms and the crashes that follow. The carrying-cost logic is old: [Brown (1927)](/wiki/brown-land-speculation-lvt/), writing in the *Journal of Political Economy*, argued that a heavy annual land-value tax converts a speculator's costless wait into an expensive one — "a sufficiently high tax, if it could not be evaded, would discourage nearly all" speculative holdouts — anticipating the option-value framing Cunningham later formalized.
 
 ## The Evidence
 

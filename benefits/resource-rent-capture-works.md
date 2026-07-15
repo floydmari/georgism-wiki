@@ -19,6 +19,8 @@ supported_by:
 - lie-norwegian-oil-fund
 - martinez-colombia-resource-rents
 - hartwick-rule
+- mintz-chen-capturing-resource-rents
+- baunsgaard-vernon-windfall-profits
 tags:
 - outcomes
 - resource-rents
@@ -30,7 +32,7 @@ title: Capturing resource rent works — where institutions are strong
 ---
 
 > **At a glance** — Capturing a finite resource's rent at a high rate works in practice where fiscal design and institutions are strong — Norway is the flagship — while the resource curse remains real where they are weak.
-> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **7 supporting** sources · **0 challenging**
+> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **9 supporting** sources · **0 challenging**
 > **Strongest support:** [Lie (2018)](/wiki/lie-norwegian-oil-fund/) — Norway's ~78% petroleum rent capture built a sovereign fund now worth over $2 trillion without deterring extraction. **Strongest counter:** the resource-curse literature (Sachs & Warner 1995/2001) — resource-rich economies grow more slowly *on average*, and [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) shows rent windfalls eroding local tax effort and accountability; capture works where institutions are strong and curses where they are weak. See Why It Isn't Automatic.
 
 ## The Claim
@@ -122,7 +124,17 @@ Resource rent sits a step away from the clean land case: it is genuine location/
 scarcity rent, but it is entangled with **extraction incentives**, so the tax
 *design* matters in a way it does not for a pure land tax — neutrality requires
 cash-flow treatment and full loss offset (Bond–Devereux; see
-[cash-flow tax](/wiki/cash-flow-tax/)). The growth-theoretic warrant for the
+[cash-flow tax](/wiki/cash-flow-tax/)). This remains the live institutional advice:
+responding to the 2022 energy-price windfalls, the IMF's
+[Baunsgaard & Vernon note](/wiki/baunsgaard-vernon-windfall-profits/) recommends a
+*permanent* rent-targeting instrument over ad-hoc windfall levies, on the ground
+that "rent-targeting taxes raise revenue without reducing investment or increasing
+inflation" — while ranking real-world instruments by exactly this design trade-off.
+The same conclusion comes from mainstream Canadian public finance:
+[Mintz & Chen's 12-jurisdiction comparison](/wiki/mintz-chen-capturing-resource-rents/)
+of oil-and-gas fiscal regimes argues "the optimal royalty is a rent-based one" —
+full cost deductibility before the levy applies — and identifies Alberta's oil-sands
+royalty as the closest real-world approximation of a clean rent tax. The growth-theoretic warrant for the
 capture-and-reinvest model itself is [Hartwick's rule](/wiki/hartwick-rule/)
 (1977): investing resource rents in reproducible capital sustains consumption
 across generations — the logic a sovereign wealth fund institutionalizes. And "capture works" is a claim about revenue,

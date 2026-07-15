@@ -52,6 +52,14 @@ consistently after the metro entered operation," with the rent premium showing
 value capitalizing into land, and evidence the authors read as a basis for
 value-capture financing.
 
+On the practitioner side, the [University of Toronto's CIB-commissioned Land
+Value Capture Study](/wiki/cib-land-value-capture-study/) (Siemiatycki, Fagan &
+Arku 2023) surveys Canadian and international cases (Scarborough, Capstan
+Station, Crossrail, Hong Kong) where transit investment measurably raised nearby
+land values and an LVC instrument recovered part of the gain — while candidly
+documenting the administrative complexity and modest yields of real-world
+mechanisms, a useful design caution alongside this page's econometric evidence.
+
 ## Limits and Heterogeneity
 
 The regularity is robust, but the *magnitude* is not a constant. The field's own

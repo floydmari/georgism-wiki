@@ -41,6 +41,7 @@ link for the full steelman, the evidence, and the caveats.
 
 - [LVT won't raise enough revenue](/wiki/lvt-not-enough-revenue/) — **Partly addressed.** LVT is a major revenue source; whether it can replace every other tax is contested.
 - [LVT destroys its own tax base](/wiki/lvt-destroys-its-own-tax-base/) — **Answered.** Conflates capital (sale) value with the rental value that is the actual base.
+- [Universal transfers are an inefficient way to reduce poverty](/wiki/universal-transfers-are-inefficient/) — **Substantially valid as arithmetic.** At a fixed budget, targeting beats a universal dividend on poverty reduction per dollar (BC panel); the responses — net-cost accounting, take-up, durability, the equal-ownership framing — contest the objective, not the numbers.
 
 ## Political & public-choice
 

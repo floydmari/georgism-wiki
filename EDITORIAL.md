@@ -37,6 +37,16 @@ The wiki is **persuasive because it is accurate, well-sourced, and intellectuall
 never because it asserts Georgist conclusions. A reader who disagrees should be able to see
 that their strongest objection has been understood, sourced, and answered.
 
+**The UBI scope rule (ruled 2026-07-15, Floyd):** include UBI/basic-income content **only
+where it ties into economic rents, Georgism, or geoism** — rent/commons-funded dividends
+(the citizen's-dividend lane), rent-financing design questions, or evidence wired for or
+against the wiki's own rent-dividend claims. Pure redistributive UBI — general-revenue
+transfers with no funding-source link to rents or the commons — is out of scope: no
+research/ pages, registry rows at most Supplementary, and no ingestion in future waves.
+A general-UBI source may still be cited *inside* a geoist page where it bears directly on
+a rent-dividend design question (e.g. universality-vs-targeting), but it does not get its
+own coverage on that basis alone.
+
 **The reader priority (ruled 2026-07-12, Floyd):** the wiki serves, in order: (1) an
 **advocate needing ammunition** — fast paths to graded evidence, quotable verdicts,
 sources they can cite in public; (2) a **policymaker's staffer** — design details,

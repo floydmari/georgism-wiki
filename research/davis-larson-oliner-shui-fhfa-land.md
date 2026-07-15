@@ -73,6 +73,7 @@ in the U.S."[2] — and the modern data backbone under
 
 - [Albouy, Ehrlich & Shin — Metropolitan Land Values](/wiki/albouy-ehrlich-shin-metro-land/)
 - [Gwartney, Estimating Land Values](/wiki/gwartney-estimating-land-values/) — the practitioner counterpart
+- [Recording Land in the National Balance Sheet (London Group, 2009)](/wiki/london-group-land-balance-sheet/) — the national-accounts backdrop: why official balance sheets struggled to separate land from structures before granular projects like this one
 
 ## Sources
 

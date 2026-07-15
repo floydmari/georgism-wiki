@@ -90,6 +90,12 @@ Ordered by evidential weight:
 
 ## Counter-Evidence
 
+- **Institutional caution on the flipping channel.** In the one place Canada's federal
+  housing agency examined speculation directly, it found against it as the main driver:
+  [CMHC's September 2021 Housing Market Assessment](/wiki/cmhc-housing-market-assessment-2021/)
+  reports that quick resales were "not the main source" of Montreal's price acceleration —
+  a caution against over-attributing price dynamics to speculative flipping specifically,
+  though it does not test the vacancy and land-banking mechanisms this page documents.
 - **Causal attribution: regulation, not speculation.** The strongest mainstream reading
   of urban underuse is that legal density limits, not owner speculation, are the
   binding constraint — [Gyourko & Krimmel](/wiki/gyourko-krimmel-zoning-tax/) attribute
