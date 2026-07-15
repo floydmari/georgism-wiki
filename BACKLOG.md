@@ -1,5 +1,30 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+## ⟳ RESUME HERE (updated 2026-07-15, session udw74p — post-deploy)
+
+**State:** branch `claude/slack-research-triage-udw74p`, all pushed through 26b4d67; lint 0
+errors, 827 pages, 0 orphans; registry 1,098 rows, 0 dead links. Issue #24 CLOSED (waves
+29-31: 25 research entries + universal-vs-targeted objection page). **Ghost DEPLOYED
+2026-07-15** — full 827-page sync (25 created); key auto-resolves from renamed vaults via
+scripts/_secrets.py (op item get fallback for the em-dash item name).
+
+**Standing rules in force:** Floyd's UBI scope rule (EDITORIAL §0, 2026-07-15 — UBI only
+with rent/commons tie); loop priority = enrich benefits/problems/objections lanes.
+
+**Next iteration plan (in order):**
+1. TIER-2 citation wave continuation — remaining ~90 scope-relevant rows in
+   `sources/slack-research-triage-2026-07-14.json` (tier=TIER2, Status still "Not scanned"),
+   worked BY TARGET PAGE with the delta rule; flip cited rows to Referenced. Sub-batches
+   done so far: SWF proposals, US LVT activity, Korea politics, NEF, Equal Right.
+2. Parked research-entry candidates: NYC 1920s new-building tax exemption (primary sources
+   needed — the morehousing post is navigation-tier); Fossum Petro-Canada (books/ page,
+   needs text access); Hope-Limberg (only if a taxing-the-rich-vs-rents angle emerges).
+3. Then fall through to the NOW lanes below (VERIFY burn-down; problems/benefits stub waves).
+4. Ghost re-sync after each committed wave now that credentials work:
+   chunked `xargs -a <filelist> python3 -u scripts/sync_to_ghost.py` (foreground shells only —
+   background shells lack OP_SERVICE_ACCOUNT_TOKEN); or single files for small waves.
+
+
 *Regenerated 2026-07-10 (branch `claude/georgism-wiki-campaign-h3n8qd`). The work queue for
 the mission in EDITORIAL.md §0: the definitive, honest reference on Geoism and LVT.*
 
