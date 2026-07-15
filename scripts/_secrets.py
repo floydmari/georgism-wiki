@@ -12,16 +12,17 @@ This keeps the token as the single root of trust: it must be injected into the e
 OP_SERVICE_ACCOUNT_TOKEN (env settings persist across sessions). Nothing secret is committed.
 
 Overridable via env:
-  OP_VAULT       (default "Emma")
-  OP_GHOST_ITEM  (default "Ghost Admin API Key — progress.org wiki")
+  OP_VAULT       (default: ID of the "Emma / Floyd Agent" vault — the name contains " / ",
+                  which op:// path parsing can't handle, so refs must use IDs)
+  OP_GHOST_ITEM  (default: ID of "Ghost Admin API Key — progress.org wiki")
   GHOST_URL      (default "https://progress-org.ghost.io")
 """
 import os
 import shutil
 import subprocess
 
-OP_VAULT = os.environ.get("OP_VAULT", "Emma")
-OP_GHOST_ITEM = os.environ.get("OP_GHOST_ITEM", "Ghost Admin API Key — progress.org wiki")
+OP_VAULT = os.environ.get("OP_VAULT", "cupqdml5deh2x6povtmqsxdzyu")
+OP_GHOST_ITEM = os.environ.get("OP_GHOST_ITEM", "dvu2rmbugwj3lhtacwoddb2cja")
 DEFAULT_GHOST_URL = "https://progress-org.ghost.io"
 
 
