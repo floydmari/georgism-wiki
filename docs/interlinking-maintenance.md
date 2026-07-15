@@ -51,3 +51,12 @@ State: `sources/interlink-scanned.txt` (articles already processed — the wave 
   tag in Ghost admin silently kills that topic's box — keep `post.hbs` in sync.
 - GLM-4.7 on Ollama Cloud is a thinking model: use `think:false` and extract the JSON
   block; `format:"json"` returns empty content.
+
+## Post-incident addendum (2026-07-15)
+- The injected segment must be built ONLY by `deliverable()` in
+  generate_related_boxes.py — it strips nested markers, absolutizes hrefs (Ghost
+  rewrites relative URLs in stored code injection), and emits the slot-guarded
+  relocation script. Never hand-assemble the segment.
+- Option 1 v1 (runtime {{#get}} topic box) was retired with theme PR #51; boxes are
+  now precompiled per-article (Option A). Rollback = revert #51 (runtime box returns
+  instantly; injected metadata is inert without the slot).

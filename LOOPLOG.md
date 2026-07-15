@@ -782,3 +782,17 @@ manifest at scratchpad/concept-link-manifest*.md, NOT applied pending Floyd.
 Option 1 confirmed already live in the theme (all 7 topic boxes verified rendering).
 Standing maintenance: scripts/interlink_wave.py + docs/interlinking-maintenance.md —
 bulk review-gated waves for new articles; no publish-time auto-injection.
+
+## 2026-07-15 (later) — Option A SHIPPED: precompiled per-article wiki boxes, site-wide
+
+Floyd picked delivery (A): box HTML lives in each post's codeinjection_foot (metadata,
+never body). GLM-5.2 on Ollama Cloud curated all 608 articles against the full 801-page
+wiki catalog in context: 603 boxes (5 correctly off-topic). Theme PR #51 merged+deployed
+(runtime {{#get}} chain -> #wikiRelatedSlot + relocation script); legacy PR #15 closed.
+Incident caught & fixed same-day: nested markers in deliverable() stacked orphan script
+tails (4x/post) across sweeps — repaired fleet-wide (603/603 clean, verified live), and
+the relocation script now guards on an empty slot. Idempotency restored (absolute hrefs
+match Ghost's stored form). Routines created: daily 11:00 UTC (new/changed) and weekly
+Sun 12:00 UTC (full refresh + interlink wave prep). Option 2 fully deployed earlier today
+(966 in-text links); Option 3 v2 strict manifest (779 mappings/309 articles, GLM-5.2)
+awaits Floyd's review. Future: port Routines to Hermes webmaster agents.
