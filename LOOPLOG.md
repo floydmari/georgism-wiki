@@ -766,3 +766,19 @@ none needed — all closures via free legitimate channels):
 - modelewska NO ACCESS: UCL Discovery + EThOS now behind Cloudflare bot-challenges.
 Remaining retryable rows: tideman-plassmann, widerquist-howard (Ch. 4), modelewska,
 lewis, miller — all genuinely blocked on book copies / bot-walled repositories.
+
+## 2026-07-15 — Phase 2 interlinking: Option 2 DEPLOYED site-wide, Option 3 manifest ready
+
+Option 2 (in-text entity links), Floyd-approved manifest applied: 966 links across ~395
+/articles/ posts — lexical surgery on post-2021 posts (200/71) + NEW mobiledoc surgery on
+pre-2021 posts (762/323 + 4/1 sacrificial test), unblocking the ~330 articles previously
+ruled un-editable. Every edit verified (plain text byte-identical, links present), 0 drift,
+0 errors; snapshots in scratchpad/cache/apply-backups/; permanent record in
+sources/interlink-ledger.jsonl. Manifest pruning: Haiku fan-out (12 agents) + deterministic
+footnote/quote filter added after Floyd's Sun Yat-sen spot-check (69 citation-placement drops).
+Option 3 (conceptual proof-point links): GLM-4.7 on Ollama Cloud mapped 607/608 articles to
+problems/benefits/objections/narratives — 2,236 candidate mappings (97.7% grounded), review
+manifest at scratchpad/concept-link-manifest*.md, NOT applied pending Floyd.
+Option 1 confirmed already live in the theme (all 7 topic boxes verified rendering).
+Standing maintenance: scripts/interlink_wave.py + docs/interlinking-maintenance.md —
+bulk review-gated waves for new articles; no publish-time auto-injection.
