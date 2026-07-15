@@ -26,6 +26,16 @@ The objection is serious but is generally treated as a **solvable engineering pr
 
 **4. Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet). Independent evidence bears this out: hedonic decomposition of over a million home sales separates land from structure at scale ([Kuminoff & Pope](/wiki/kuminoff-pope-land-values/)), and Australian mass-appraisal appeal rates run well below the internationally accepted 2% benchmark ([Hefferan & Boyd](/wiki/hefferan-boyd-mass-appraisal-australia/)) — revealed taxpayer acceptance that value-based land assessment is treated as reliable.
 
+A documented real-world failure mode supports the objection's premise while locating it
+precisely: a 2005 New South Wales Ombudsman investigation found state Valuer-General
+assessments relied on outdated sales data and were biased conservative by
+litigation-avoidance incentives — understating land values so systematically that
+Australia's national statisticians abandoned VG data for a residual method (see
+[Recording Land in the National Balance Sheet](/wiki/london-group-land-balance-sheet/)).
+The lesson cuts both ways: assessment institutions can fail, and the failure documented
+was *under*-valuation by a cautious bureaucracy, not the arbitrary over-taxation the
+strong objection fears.
+
 ## Net Assessment
 
 Assessment difficulty raises the **cost and care** of implementing LVT well; it does not undermine the case. The objection is best read as an **implementation agenda**, not a refutation.

@@ -28,6 +28,13 @@ A land value tax is **not** regressive. Because the ownership of land and land-h
 
 Progressivity depends on design (exemptions, deferral for the [asset-rich/cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/), and how revenue is spent — a [citizen's dividend](/wiki/citizens-dividend/) makes it sharply progressive).
 
+Advocacy-side shift simulations point the same direction with the same caveat: the
+[Miller & Hoskins college-town analyses](/wiki/miller-hoskins-college-town-lvt/) (South
+Bend, Princeton) find apartments and commercial parcels gain while vacant-land owners pay
+sharply more — but their own homestead detail (52–66% of owner-occupied homes paying more
+in the modeled shifts) shows "progressive on average" coexists with many middle-class
+losers, and these are advocacy-institute static simulations, not incidence evidence.
+
 ## The Evidence in Detail — a Genuinely Two-Sided Record
 
 This outcome carries its dispute openly. On the challenging side,

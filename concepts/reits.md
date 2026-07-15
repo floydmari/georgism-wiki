@@ -15,6 +15,11 @@ A **Real Estate Investment Trust (REIT)** is a company that owns or finances inc
 
 Land-cycle writers cite the 1970s REIT bubble as a case study in how a tax-exempt, credit-financed vehicle can channel bank lending directly into land and property speculation, amplifying a boom and then transmitting its bust back into the banking system — the same credit-land feedback loop central to the [land speculation causes cycles](/wiki/land-speculation-causes-cycles/) narrative. The episode is treated as part of the broader recurring pattern Harrison traces around the ~[18-Year Land Cycle](/wiki/18-year-land-cycle/), with the REIT collapse falling near the 1973–74 downturn Harrison and later Phillip J. Anderson both associate with that cycle.
 
+The clearest national case study of REIT expansion into rental housing is Canadian:
+[August (2020)](/wiki/august-rental-financialization/) documents REITs growing from zero
+apartment suites in 1996 to roughly 10% of Canada's private rental stock by 2017, with
+financialized entities comprising nine of the ten largest landlords.
+
 ## See Also
 
 - [The Power in the Land](/wiki/harrison-power-in-the-land/) — Fred Harrison's account of the REIT bubble (Ch. 8–9)

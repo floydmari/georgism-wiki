@@ -95,6 +95,12 @@ every capture instrument here is either untested (data dividends), hard to desig
 (valuing data), or blunt (antitrust). The wiki's standing rule applies with full force:
 never let the airtight land case lend its certainty to this domain.
 
+For the labor-market scale that motivates (without settling) this page's question, the
+[IMF's Gen-AI Staff Discussion Note](/wiki/imf-gen-ai-future-of-work/) is the standard
+institutional reference: ~40% of global employment exposed to AI, ~60% in advanced
+economies, with the distributional outcome explicitly dependent on "the definition of AI's
+property rights" — the ownership question this page's rent framing makes explicit.
+
 ## See Also
 
 - [Virtual Land and Metaverse Real Estate](/wiki/virtual-land/) — a further, more speculative test case: does location-based rent appear even when scarcity is coded rather than natural?

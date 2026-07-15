@@ -15,6 +15,11 @@ Harry Gunnison Brown (May 7, 1880 – March 11, 1975) was an American economist 
 
 Unlike many Georgist writers who worked outside the academic mainstream, Brown made his case for [land value tax](/wiki/land-value-tax/) using the technical apparatus of orthodox neoclassical price theory — insisting, against the trend of merging land into the general category of "capital," that land's fixed supply gave it distinctive economic properties that justified taxing its value without the distortionary effects of taxes on labor or reproducible capital. Over a teaching and writing career spanning more than five decades he published more than one hundred articles and over ten books. The economist Paul Samuelson is reported to have named Brown among a short list of "American saints in economics" born after 1860 — a mark of the respect he commanded even from economists who did not share his conclusions.
 
+The wiki carries his 1927 *Journal of Political Economy* paper
+[Land Speculation and Land-Value Taxation](/wiki/brown-land-speculation-lvt/) in depth —
+the early rigorous statement of the carrying-cost argument that a land value tax
+discourages speculative withholding.
+
 ## See Also
 
 - [Henry George](/wiki/henry-george/) — the thinker whose land-tax program Brown defended within academic economics

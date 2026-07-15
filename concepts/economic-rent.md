@@ -42,6 +42,16 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 
 Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/). The standard modern survey and typology of which rent types are efficiently taxable is [Schwerhoff, Edenhofer & Fleurbaey (2020)](/wiki/schwerhoff-taxation-economic-rents/), which concludes that land rents are "one of the few true scarcity rents."
 
+Three recent institutional sources illustrate how hard the rent boundary is to draw in
+practice. [Giovannoni's labor-share decomposition](/wiki/giovannoni-labor-share-decomposition/)
+tests a "top 1% income as rent" framing quantitatively and shows how much the answer turns on
+measurement choices. The [Bank of Canada's firm-profits note](/wiki/boc-firm-profits-inflation/)
+shows the same difficulty episode-by-episode: attributing a specific price surge to
+rent-extraction versus cost pass-through defeated a well-resourced central-bank staff for the
+2021–22 inflation. And the [IMF's Gen-AI assessment](/wiki/imf-gen-ai-future-of-work/)
+documents AI's labor-market scale while conspicuously declining to adopt any rent framing at
+all — the institutional caution that marks the frontier end of the gradient.
+
 ## Land as a Share of Modern Wealth
 
 Lars Doucet reports that land constitutes approximately **40% of US household wealth** (citing OECD via Tideman), and 70.9% of urban real estate value in San Francisco (AEI, 2020). In New York City, land accounts for ~93% of total real estate value. Globally, land is ~39% of all real assets (McKinsey, 2021). These figures underscore that land rent — the surplus George and Ricardo identified — remains economically dominant in the modern economy, not a relic of agrarian ages (Doucet, *Land is a Big Deal*, Ch. 14). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).

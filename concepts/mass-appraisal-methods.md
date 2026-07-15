@@ -43,6 +43,11 @@ Mass appraisal is the practical answer to the [objection that land value can't b
 
 The [Lincoln Institute of Land Policy](/wiki/lincoln-institute/)'s standard policy reference on land value taxation, by Dye & England (2010), treats assessment methodology — including these techniques — as an implementation question to be addressed with better tools and investment, rather than a fundamental barrier to a [land value tax](/wiki/land-value-tax/).[3] The report surveys experience across more than 30 countries and US municipalities, including the [Pennsylvania](/wiki/pennsylvania/) split-rate cities, and covers assessment methods, transition issues, and the political economy of adoption.[3]
 
+Assessment *frequency* matters as much as method: in the one systematic scoring of
+European location-value taxes, [Fernandez Milan, Kapfer & Creutzig (2016)](/wiki/fernandez-milan-location-value-taxes/)
+find infrequent reassessment — bases dated 2001 or 2004 still in use by 2014 — among the
+most common and damaging design failures across all eight countries scored.
+
 ## Existing Practice at Scale
 
 Separate land-value assessment is not merely theoretical. Several jurisdictions already assess land values separately as routine practice:

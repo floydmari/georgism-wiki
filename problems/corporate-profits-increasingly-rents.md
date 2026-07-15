@@ -39,6 +39,8 @@ The main rival reading is that measured profits reward genuine efficiency and in
 
 These are not fully exculpatory: rents on intangibles and network positions are still returns to scarcity and position rather than to marginal production, which is why parts of this literature (e.g., [Mazzucato, Ryan-Collins & Gouzoulis 2023](/wiki/mazzucato-mapping-rents/)) treat them as the modern frontier of rent analysis. But they mean the *size* of the pure-rent component is genuinely contested.
 
+A rare admission-against-interest rides alongside the academic evidence: OpenAI's own 2026 [policy paper](/wiki/openai-industrial-policy-intelligence-age/) concedes "a risk that the economic gains concentrate within a small number of firms like OpenAI" — corroborating context for the concentration premise, though the document never argues those gains are rents.
+
 A separate, short-run caution: [Bank of Canada staff analysis (Bouras, Bustamante, Guo & Short 2023)](/wiki/boc-firm-profits-inflation/) finds Canadian markup *growth* explained less than one-tenth of 2021 inflation and was near zero or negative by 2022 — evidence against attributing that specific inflationary episode to firms flexing market power. It is a timing test of markup *growth* in one episode, not a rebuttal of the long-run markup-*level* literature this page rests on, but it warns against stretching this page's claim into a "greedflation" story about any particular price surge.
 
 ## The Evidence in Detail

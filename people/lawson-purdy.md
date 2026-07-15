@@ -17,6 +17,13 @@ Lawson Purdy (c. 1863 - 1959) was an American tax administrator and Georgist ref
 
 Gaffney and Harrison's ***[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)*** names Purdy among the wave of Georgist-influenced officials and campaigners active around the turn of the twentieth century, alongside figures such as [Tom L. Johnson](/wiki/tom-l-johnson/) and [Louis F. Post](/wiki/louis-f-post/) — part of the movement's push to embed land-value assessment inside mainstream US tax administration even as academic economists such as [E.R.A. Seligman](/wiki/era-seligman/) worked to blunt the single-tax movement's proposals.
 
+Purdy's assessment reforms also set the stage for New York's most-cited untax-buildings
+episode: during the [1921–1925 new-housing tax exemption](/wiki/nyc-1920s-tax-exemption/),
+his earlier practice of valuing land first at full market value — with building value
+treated as a residual — combined with the exemption to shift the city's effective tax
+burden further onto land in exactly those years (Gaffney 2001, as carried on the episode's
+research page).
+
 ## See Also
 
 - [Henry George](/wiki/henry-george/) — whose *[Progress and Poverty](/wiki/progress-and-poverty/)* converted Purdy to the land-tax cause

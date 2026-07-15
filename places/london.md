@@ -15,6 +15,14 @@ London is the site of some of the best-documented modern examples of publicly fu
 
 At the time of the 2017 report, Crossrail (the Elizabeth Line) was still under construction; the study found no clear residential land value uplift yet but did find commercial property uplifts of roughly 1–2.5% per year relative to controls, and a 50% increase in the density of new housing built within 500 metres of Crossrail stations compared with areas further away.[1] Looking forward, the same study estimated that a sample of eight prospective TfL projects — including Crossrail 2 and the Bakerloo Line extension, with a combined capital cost of roughly £36 billion — could generate around £87 billion in land value uplift, only a fraction of which existing UK tax and planning instruments (business rates, Stamp Duty Land Tax, the Community Infrastructure Levy) are designed to capture.[1]
 
+The realized capture, as opposed to the estimated uplift, is documented in the
+CIB-commissioned [Land Value Capture Study](/wiki/cib-land-value-capture-study/)
+(Siemiatycki, Fagan & Arku 2023): of Crossrail's £18.8 billion cost, the Business
+Rate Supplement raised about £4.2 billion and the Community Infrastructure Levy
+roughly £300 million — a substantial but minority share of a project whose land-value
+uplift estimates run far higher, illustrating the gap between LVC's potential and its
+implemented yield.
+
 ## An Illustrative Account
 
 The report opens with a widely cited passage from property investor Don Riley, describing the effect of the Jubilee Line Extension on office properties he owned near two of its stations: "Those two stations raised the value of my properties by more than all the taxes that I had paid into the public's coffers over the previous 40 years."[1] The anecdote is offered by TfL/GLA as an illustration of the underlying pattern documented statistically elsewhere in the report, not as a rigorous measurement in itself.
