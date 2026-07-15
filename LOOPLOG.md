@@ -731,6 +731,59 @@ gate for new scans (congestion-pricing FIND next) is open.
 preview links verified.
 - 2026-07-12 (Floyd's ruling, codified in EDITORIAL §0): the loop's standing priority is ENRICHMENT of benefits/, problems/, and objections/ pages — assemble the research, wire every new source into the claim lanes it bears on, honestly including support FOR objections. Waves 18-19 (warning cleanup) and 20-21 (objections wiring, benefits reinforcement) are the model: every future wave closes by asking which claim pages it enriched.
 
+## 2026-07-14 — PUBLISH: waves 23–28 live on progress.org/wiki (134 pages, 0 errors)
+
+Ghost sync executed on Floyd's explicit go-ahead: 11 created, 123 updated, 0 failures
+(scratchpad/sync-log-2026-07-14.txt). New pages: the 10 wave-28 research entries
+(berman-alaska, bezemer-samarina-zhang, he-sun, kerspien-madsen-strulik, kozminski-baek,
+letwin, pretis-bc-carbon-tax, sachs-warner, sen-poverty-and-famines, stewart-canadian-land)
+plus progress-and-poverty-full-text (not previously on Ghost despite the a84a6b8 recategorize).
+Spot-checked live: bodies render (645–177,443 words), titles correct, wiki-entry template applied.
+
+Publish had been blocked on credentials: root cause was the 1Password vault display name
+("Emma / Floyd Agent") containing " / ", which op:// reference parsing treats as path
+separators — op read could never resolve by name. scripts/_secrets.py and the SessionStart
+hook now default to vault/item IDs; future sessions load the Ghost key automatically.
+
+## 2026-07-14 — Verification retry wave: 4 backlog rows closed, 1 narrowed, 2 documented dead ends
+
+Worked sources/verification-backlog.md RETRYABLE table (paid/library access approved but
+none needed — all closures via free legitimate channels):
+- world-bank-changing-wealth CLOSED: CWON 2021 chapters 5+9 read via the openknowledge
+  DSpace REST API (the SPA hides per-chapter PDFs); Box 9.1 rent-vs-revenue read directly.
+- vickrey + myerson-satterthwaite CLOSED: Princeton UP's official free Radical Markets
+  Ch. 1 sample PDF pins both cites (pp. 49-50 en.29; pp. 50-51 en.32, p. 66 en.56).
+- phelps-brown-weber CLOSED: the June 1953 Economic Journal issue is freely digitized on
+  archive.org (sim_economic-journal_1953-06_63_250) — figures confirmed (10-11% -> ~7%,
+  pp. 266-271) AND an editorial finding: the paper never discusses land returns; Harrison's
+  "scissors" is his own synthesis, now said explicitly on the page.
+- pistor-code-of-capital: page cites resolved via Pistor's own 2021 S&LS rejoinder + Gordon's
+  Jotwell review (verbatim quotes w/ pages); honest note that the book itself is still unread.
+- widerquist-howard-pfd NARROWED: contributor PDF gave front matter, full ToC page numbers,
+  and Ch. 12 complete; Goldsmith Ch. 4 (the key empirics) still unverified — row updated.
+- lewis-building-cycles NO ACCESS: archive.org copy is lending-restricted (search-inside 403);
+  Google Books confirms "17.4" occurs once but shows no snippet. Dead end documented.
+- modelewska NO ACCESS: UCL Discovery + EThOS now behind Cloudflare bot-challenges.
+Remaining retryable rows: tideman-plassmann, widerquist-howard (Ch. 4), modelewska,
+lewis, miller — all genuinely blocked on book copies / bot-walled repositories.
+
+## 2026-07-15 — Phase 2 interlinking: Option 2 DEPLOYED site-wide, Option 3 manifest ready
+
+Option 2 (in-text entity links), Floyd-approved manifest applied: 966 links across ~395
+/articles/ posts — lexical surgery on post-2021 posts (200/71) + NEW mobiledoc surgery on
+pre-2021 posts (762/323 + 4/1 sacrificial test), unblocking the ~330 articles previously
+ruled un-editable. Every edit verified (plain text byte-identical, links present), 0 drift,
+0 errors; snapshots in scratchpad/cache/apply-backups/; permanent record in
+sources/interlink-ledger.jsonl. Manifest pruning: Haiku fan-out (12 agents) + deterministic
+footnote/quote filter added after Floyd's Sun Yat-sen spot-check (69 citation-placement drops).
+Option 3 (conceptual proof-point links): GLM-4.7 on Ollama Cloud mapped 607/608 articles to
+problems/benefits/objections/narratives — 2,236 candidate mappings (97.7% grounded), review
+manifest at scratchpad/concept-link-manifest*.md, NOT applied pending Floyd.
+Option 1 confirmed already live in the theme (all 7 topic boxes verified rendering).
+Standing maintenance: scripts/interlink_wave.py + docs/interlinking-maintenance.md —
+bulk review-gated waves for new articles; no publish-time auto-injection.
+
+---
 ---
 
 ## 2026-07-14 — Slack deep-scan triage + first ingest wave (session udw74p, issue #24)

@@ -2,6 +2,10 @@
 
 ## ⟳ RESUME HERE (updated 2026-07-15, session udw74p — post-deploy)
 
+**CLAIM: the entire Slack-candidates lane (issue #24 waves + TIER-2 citation wave) is owned by
+session udw74p on branch `claude/slack-research-triage-udw74p` — see LOOP.md "Claiming work".
+Other sessions: pick a different BACKLOG lane or coordinate via a comment on the merge PR.**
+
 **State:** branch `claude/slack-research-triage-udw74p`, all pushed through 26b4d67; lint 0
 errors, 827 pages, 0 orphans; registry 1,098 rows, 0 dead links. Issue #24 CLOSED (waves
 29-31: 25 research entries + universal-vs-targeted objection page). **Ghost DEPLOYED
@@ -317,7 +321,7 @@ Ghost API state: 771 wiki posts published; next full sync adds guides/ + wave-21
       companion rows dropped). Forget/BC-panel/PBO/World-Bank pages kept — wired as evidence on
       rent-dividend claims and the universal-vs-targeted objection. Future waves apply the rule
       at triage (TIER-2 wave: skip UBI items without a rent/commons tie).
-- [~] [READ&MINE] tier:T3 status:in-progress — **Slack TIER-2 citation wave** (scope-filtered per
+- [~] [READ&MINE] tier:T3 status:in-progress claimed:claude/slack-research-triage-udw74p (2026-07-15) — **Slack TIER-2 citation wave** (scope-filtered per
       EDITORIAL UBI rule). Batch 1 done 2026-07-15 (SWF proposals landscape ×5, US LVT activity ×2 —
       7 rows Referenced). Remaining ~100 rows: work through by target page, citing only where the
       delta rule is satisfied and the rent/commons tie is real; skip pure-UBI and news-brief items

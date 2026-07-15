@@ -9,7 +9,7 @@ tier: Supplementary
 source_url: https://books.google.co.uk/books/about/Building_cycles_and_Britain_s_growth.html?id=WoEkAAAAMAAJ&redir_esc=y
 stub: true
 excerpt: "J. Parry Lewis's 1965 economic history traces British building activity from 1700 to 1950 and finds a recurring construction-cycle rhythm — the UK data source Fred Harrison cites for a 17.4-year average cycle duration, the British counterpart to Hoyt's Chicago study."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-14
 ---
 
 ## Summary
@@ -42,6 +42,14 @@ about periodicity should accordingly be treated as second-hand — the 17.4-year
 average in particular is Harrison's reading of Lewis's Table 5.1, not a figure
 independently confirmed against the original — and could be checked against the
 primary source or a full academic review should a future editor gain access.
+**Checked again 2026-07-14:** the book's one Internet Archive copy
+(item `buildingcyclesbr0000unse`) is lending-restricted, and its search-inside
+API returns an access error without a library loan; Google Books' search-within-book
+index confirms the digit string "17.4" occurs exactly once in the scanned text
+(a weak sign the figure is not fabricated) but the record has no preview tier, so
+no snippet or page number is visible. This narrows but does not close the gap: the
+figure's existence in the book is now corroborated by an independent index, but its
+context, table, and exact page still are not.
 
 ## Relation to the Georgist Case
 

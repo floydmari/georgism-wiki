@@ -41,8 +41,10 @@ fi
 
 # --- 3. Resolve Ghost credentials into the session environment ---
 if [ -n "${OP_SERVICE_ACCOUNT_TOKEN:-}" ] && command -v op >/dev/null 2>&1; then
-  VAULT="${OP_VAULT:-Emma}"
-  ITEM="${OP_GHOST_ITEM:-Ghost Admin API Key — progress.org wiki}"
+  # IDs, not names: the vault name "Emma / Floyd Agent" contains " / ", which breaks
+  # op:// reference parsing. IDs are stable identifiers, not secrets.
+  VAULT="${OP_VAULT:-cupqdml5deh2x6povtmqsxdzyu}"
+  ITEM="${OP_GHOST_ITEM:-dvu2rmbugwj3lhtacwoddb2cja}"
   KEY=""
   for f in credential password "api key" notesPlain; do
     KEY="$(op read "op://${VAULT}/${ITEM}/${f}" 2>/dev/null || true)"

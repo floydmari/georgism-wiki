@@ -12,21 +12,25 @@ This keeps the token as the single root of trust: it must be injected into the e
 OP_SERVICE_ACCOUNT_TOKEN (env settings persist across sessions). Nothing secret is committed.
 
 Overridable via env:
-  OP_VAULT       (default "Emma")
-  OP_GHOST_ITEM  (default "Ghost Admin API Key — progress.org wiki")
+  OP_VAULT       (default: ID of the "Emma / Floyd Agent" vault — the name contains " / ",
+                  which op:// path parsing can't handle, so refs must use IDs)
+  OP_GHOST_ITEM  (default: ID of "Ghost Admin API Key — progress.org wiki")
   GHOST_URL      (default "https://progress-org.ghost.io")
 """
 import os
 import shutil
 import subprocess
 
-# Vaults renamed by Floyd 2026-07-15; try new names first, legacy "Emma" last.
-# Override with OP_VAULT (single) or OP_VAULTS (comma-separated, tried in order).
-_default_vaults = "Emma - Floyd Agent,Hugh & SES Agents,Emma"
+# Vaults renamed by Floyd 2026-07-15. Prefer stable IDs (rename-proof, safe for op://
+# refs), fall back to the current display names. Override with OP_VAULT (single) or
+# OP_VAULTS (comma-separated, tried in order).
+_default_vaults = "cupqdml5deh2x6povtmqsxdzyu,fdftwjzqhtchnt4dzj7nxmnzge,Emma - Floyd Agent,Hugh & SES Agents"
 OP_VAULTS = [v.strip() for v in os.environ.get(
     "OP_VAULTS", os.environ.get("OP_VAULT", _default_vaults)).split(",") if v.strip()]
 OP_VAULT = OP_VAULTS[0]  # backward compat for any external reader
-OP_GHOST_ITEM = os.environ.get("OP_GHOST_ITEM", "Ghost Admin API Key — progress.org wiki")
+# Item ID for "Ghost Admin API Key — progress.org wiki" (name contains an em-dash, which
+# op:// secret references reject — the _op_item_field fallback handles name-based lookups).
+OP_GHOST_ITEM = os.environ.get("OP_GHOST_ITEM", "dvu2rmbugwj3lhtacwoddb2cja")
 DEFAULT_GHOST_URL = "https://progress-org.ghost.io"
 
 
