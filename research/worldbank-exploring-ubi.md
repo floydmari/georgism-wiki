@@ -69,7 +69,6 @@ This report is general-revenue UBI evidence functioning as **context and design 
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/)
 - [Jones & Marinescu: The Labor Market Impacts of the Alaska Permanent Fund](/wiki/jones-marinescu-alaska-pfd/)
 - [Covering All the Basics: BC Basic Income Panel Final Report](/wiki/bc-basic-income-panel-final-report/)
-- [De Schutter — Eradicating Poverty Beyond Growth (A/HRC/56/61)](/wiki/de-schutter-poverty-beyond-growth/)
 - [Alaska](/wiki/alaska/)
 
 ## Sources

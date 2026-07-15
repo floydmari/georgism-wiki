@@ -1,6 +1,6 @@
 # Verification Queue — every [CITATION NEEDED] / [VERIFY] marker, by unblock channel
 
-Generated 2026-07-15 by `scripts/verification_queue.py` (23 markers). 
+Generated 2026-07-15 by `scripts/verification_queue.py` (20 markers). 
 Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2). Resolve by channel; 
 delete the marker only when the underlying fact is verified or the claim is removed.
 
@@ -8,12 +8,11 @@ delete the marker only when the underlying fact is verified or the claim is remo
 
 - `research/giovannoni-labor-share-decomposition.md` — **VERIFY** whether the financial-sector compensation gains documented here are substantially rent (e.g., from land-collateralized lending) versus a return to scarce financ
 
-## needs-unblocked-web (proxy allowlist or manual fetch) (2)
+## needs-unblocked-web (proxy allowlist or manual fetch) (1)
 
 - `research/august-rental-financialization.md` — **VERIFY** the mirror was not cross-checked page-by-page against the official Taylor & Francis PDF, since that PDF could not be fetched directly in this session.
-- `research/de-schutter-poverty-beyond-growth.md` — **VERIFY** the source URL provided in this task, basicincome.org's "De-Schutter.2024.A_79_SR-Poverty" PDF, is in fact a *different*, later De Schutter report — "The Burnou
 
-## unclassified (T1 triage) (20)
+## unclassified (T1 triage) (18)
 
 - `objections/universal-transfers-are-inefficient.md` — **CITATION NEEDED** a quantified Canadian estimate of take-up losses in income-tested programs, to size this response rather than assert it.
 - `research/august-rental-financialization.md` — **VERIFY** the paper's REIT-suite counts and top-25-landlord figures rely on August's own compiled dataset from trade-press "Who's Who" listings and corporate filings — de
@@ -33,6 +32,4 @@ delete the marker only when the underlying fact is verified or the claim is remo
 - `research/lapavitsas-financialization.md` — **VERIFY** not used for any claim in this entry; listed for a future re-attempt.
 - `research/leduc-liu-automation-bargaining.md` — **VERIFY** publication/peer-review status in a journal as of any later date.
 - `research/mintz-chen-capturing-resource-rents.md` — **VERIFY** the METRR percentage figures reported here (e.g., Australia's –20.1%) are transcribed from the paper's summary tables; the underlying Appendix A–E derivations w
-- `research/namibia-big-pilot.md` — **VERIFY** exact wording — quoted from a secondary summary of the paywalled *Basic Income Studies* article, not the original text directly
-- `research/namibia-big-pilot.md` — **VERIFY** full-text quotations sourced via secondary summaries, not the original paywalled article — direct access should be obtained before quoting Osterkamp verbatim el
 

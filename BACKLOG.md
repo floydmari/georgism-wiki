@@ -286,14 +286,12 @@ Ghost API state: 771 wiki posts published; next full sync adds guides/ + wave-21
       Corsica, JEC 1968, Senate Pate, IRPP BI volumes): Hope-Limberg tax-cuts-for-the-rich ·
       SWAY LVT/wealth-tax realist review (retitled in registry) · Fossum Petro-Canada (needs books/
       treatment) · Carney future-of-work speech · Walks Toronto polarization · Brown JPE follow-ups.
-- [ ] [REVIEW] tier:Floyd status:owner-input — **UBI scope ruling, disposition of existing pages**
-      (2026-07-15): research/namibia-big-pilot and research/de-schutter-poverty-beyond-growth are
-      pure-redistributive-UBI pages with no rent tie (registry rows demoted to supplementary).
-      EDITORIAL forbids deletion without owner sign-off: delete both, or keep as graded context?
-      Forget/BC-panel/PBO/World-Bank pages stay — they are wired as evidence/counter-evidence on
-      rent-dividend claim pages and the universal-vs-targeted objection, which is a citizen's-
-      dividend design question. Future waves apply the rule at triage (TIER-2 wave: skip UBI items
-      without a rent/commons tie).
+- [x] [REVIEW] tier:Floyd status:done — **UBI scope ruling, disposition RESOLVED** (Floyd,
+      2026-07-15): namibia-big-pilot and de-schutter-poverty-beyond-growth DELETED on owner
+      instruction (wiring unwound; registry rows retained as unscanned supplementary; Osterkamp
+      companion rows dropped). Forget/BC-panel/PBO/World-Bank pages kept — wired as evidence on
+      rent-dividend claims and the universal-vs-targeted objection. Future waves apply the rule
+      at triage (TIER-2 wave: skip UBI items without a rent/commons tie).
 - [ ] [READ&MINE] tier:T3 status:todo — **Loop wave N+1: Slack research candidates — TIER-2 ingestion.**
       117 TIER-2 rows: cite from relevant concept/benefit pages where they add delta (delta rule;
       most are Supplementary registry rows only — no research/ pages for news-adjacent items).
