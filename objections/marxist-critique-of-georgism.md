@@ -1,8 +1,8 @@
 ---
 title: "Marxist Class-Conflict Critique of Georgism"
 category: objections
-tags: [objections, marxism, class-conflict, karl-marx, single-tax, stub]
-stub: true
+tags: [objections, marxism, class-conflict, karl-marx, single-tax]
+stub: false
 status: "Long-settled historical rift, still an open theoretical disagreement — Marx dismissed George's single tax in 1881 as a bourgeois half-measure; whether land rent or capital-labour conflict is the primary driver of exploitation remains disputed between the traditions"
 excerpt: "Marx's own verdict on Henry George — a proposal to save capitalist domination 'decked out with socialism' — crystallizes the deeper Marxist objection that class conflict over surplus value, not land rent, is capitalism's central mechanism of exploitation."
 last_reviewed: 2026-07-13

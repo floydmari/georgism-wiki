@@ -1,8 +1,8 @@
 ---
 title: "Objection: Progress and Poverty Was Thirty Years Out of Date"
 category: objections
-tags: [objections, henry-george, history-of-economic-thought, blaug, marginalism, stub]
-stub: true
+tags: [objections, henry-george, history-of-economic-thought, blaug, marginalism]
+stub: false
 status: "A fair chronological point about method, not a refutation of the tax proposal — the same source that makes it also affirms the site-value-tax principle is sound"
 excerpt: "Mark Blaug's judgment that Progress and Poverty (1879) was already outdated classical economics on arrival, since Jevons, Menger, and Walras had launched the marginal revolution years earlier — and why that verdict does not by itself undercut George's land-tax argument."
 last_reviewed: 2026-07-13

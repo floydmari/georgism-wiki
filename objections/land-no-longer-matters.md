@@ -1,8 +1,8 @@
 ---
 title: "Land Is Not a Big Deal Anymore (Krugman Objection)"
 category: objections
-tags: [objections, land, macroeconomics, krugman, stub]
-stub: true
+tags: [objections, land, macroeconomics, krugman]
+stub: false
 status: "Contested — Krugman concedes the underlying theory but doubts land's modern fiscal and economic weight; independent macro-finance evidence on land's wealth share cuts against the strong reading of the objection"
 excerpt: "Paul Krugman's influential dismissal that land is 'just not a big enough thing' to matter much in a modern, services-and-technology economy — an objection Lars Doucet's Land Is a Big Deal was substantially written to answer."
 last_reviewed: 2026-07-13

@@ -1,8 +1,8 @@
 ---
 title: "Objection: Government Intervention Can Prevent the Land Cycle"
 category: objections
-tags: [objections, 18-year-cycle, business-cycle, monetary-policy, great-moderation, stub]
-stub: true
+tags: [objections, 18-year-cycle, business-cycle, monetary-policy, great-moderation]
+stub: false
 status: "Recurring and repeatedly falsified in its strong form — named 'tamed the cycle' claims have preceded the two largest property-linked crashes of the modern era (1929, 2008) — but the weak form (better policy can smooth some of the cycle's amplitude) is not addressed by pointing at the failures alone."
 excerpt: "Officials and economists have repeatedly declared the business or property cycle 'tamed' by better monetary policy — Bernanke's 2004 'Great Moderation' speech, Gordon Brown's 'no return to boom and bust' — only for a land-price-linked crash to follow. Georgist cycle writers treat this as a recurring, named, falsifiable pattern."
 last_reviewed: 2026-07-12

@@ -1,8 +1,8 @@
 ---
 title: "Objection: Oil Shocks, Not Land, Caused the 1970s Recessions"
 category: objections
-tags: [objections, business-cycle, land-cycle, oil-shock, opec, 1970s, stub]
-stub: true
+tags: [objections, business-cycle, land-cycle, oil-shock, opec, 1970s]
+stub: false
 status: "Contested — Harrison's timing argument is suggestive and rests on official farmland-return data (Melichar 1978), but is not backed by a counterfactual model isolating oil from land"
 excerpt: "The conventional view is that OPEC's 1973 oil embargo caused the 1974 recession. Georgist land-cycle writers argue the timing runs the other way: land and building markets peaked before the embargo, making the oil shock a coincident or amplifying factor, not the root cause."
 last_reviewed: 2026-07-13

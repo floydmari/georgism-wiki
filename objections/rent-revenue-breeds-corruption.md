@@ -1,8 +1,8 @@
 ---
 title: "\"Public Rent Collection Breeds Government Corruption\""
 category: objections
-tags: [objections, stub, corruption, governance, political-economy, resource-rents]
-stub: true
+tags: [objections, corruption, governance, political-economy, resource-rents]
+stub: false
 status: "Partly addressed — the book's South Africa/Russia/China case studies support privatized rent as the more corruption-prone path, but China's own land-lease corruption record shows nominal public ownership is not by itself immune; the load-bearing variable looks like transparency of the allocation mechanism, not the public/private ownership choice."
 excerpt: "The resource-curse worry: large rent revenues in government hands invite patronage and graft. Corruption of Economics counters with South Africa, Russia and China cases showing privatized rent — not public collection — drove the corruption; China's own record complicates the clean story."
 last_reviewed: 2026-07-12
