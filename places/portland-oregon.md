@@ -1,8 +1,8 @@
 ---
 title: "Portland, Oregon"
 category: places
-tags: [places, portland, oregon, urban-growth-boundary, land-use-planning, land-speculation, stub]
-stub: true
+tags: [places, portland, oregon, urban-growth-boundary, land-use-planning, land-speculation]
+stub: false
 excerpt: "Portland's 1979 urban growth boundary is a widely cited natural experiment on land-use restriction: Fred Harrison argues speculation, not the boundary, drove Portland's price rises, while peer-reviewed research finds the boundary does raise undeveloped land values significantly."
 last_reviewed: 2026-07-11
 ---

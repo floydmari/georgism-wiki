@@ -1,8 +1,8 @@
 ---
 title: "E. Glen Weyl"
 category: people
-tags: [people, glen-weyl, radical-markets, harberger-tax, radicalxchange, mechanism-design, stub]
-stub: true
+tags: [people, glen-weyl, radical-markets, harberger-tax, radicalxchange, mechanism-design]
+stub: false
 born: "1985, San Francisco, California"
 excerpt: "Economist at Microsoft Research and co-author of Radical Markets; originator of the modern Harberger-tax (COST) revival and founder of RadicalxChange, carrying Georgist rent-capture logic into mechanism design and technology circles."
 last_reviewed: 2026-07-11

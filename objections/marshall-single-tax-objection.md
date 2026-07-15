@@ -2,7 +2,7 @@
 title: "Marshall's Objection to the Single Tax"
 category: objections
 tags: [objections, alfred-marshall, quasi-rent, single-tax, history-of-thought, rent-gradient]
-stub: true
+stub: false
 status: "A serious historical critique that concedes the land case while denying George's generalization — largely defused for land itself by land's unique persistence and inelasticity, but the ancestor of every modern quasi-rent objection on the rent gradient"
 excerpt: "Alfred Marshall's rejoinder to Henry George: all factors earn short-run 'rents,' and even Ricardian land rent functions as a long-run incentive payment, so land is not as uniquely 'unearned' as the single tax assumes."
 last_reviewed: 2026-07-12

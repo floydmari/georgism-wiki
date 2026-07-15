@@ -1,8 +1,8 @@
 ---
 title: "\"LVT Causes Over-Development and Environmental Harm\""
 category: objections
-tags: [objections, environment, land-use, sprawl, development, stub]
-stub: true
+tags: [objections, environment, land-use, sprawl, development]
+stub: false
 status: "Design-dependent — a real risk under naive assessment, addressed by exemptions and current-use valuation for ecologically valuable land"
 excerpt: "The environmentalist mirror-image of the pro-density case for LVT: by taxing land at its highest-value use, a land value tax may pressure owners to develop farmland, wetlands, and other ecologically valuable sites that would otherwise stay undeveloped."
 last_reviewed: 2026-07-12

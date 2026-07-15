@@ -1,8 +1,8 @@
 ---
 title: "Asian Financial Crisis (1997)"
 category: events
-tags: [events, stub, asian-financial-crisis, thailand, land-speculation, boom-bust-cycle, 18-year-land-cycle, imf]
-stub: true
+tags: [events, asian-financial-crisis, thailand, land-speculation, boom-bust-cycle, 18-year-land-cycle, imf]
+stub: false
 excerpt: "A property-led boom in Thailand collapsed into a regional currency and banking crisis in 1997, spreading across Southeast Asia — cited by Georgist writers as evidence that land speculation cycles are not a uniquely Anglo-American phenomenon."
 last_reviewed: 2026-07-12
 ---

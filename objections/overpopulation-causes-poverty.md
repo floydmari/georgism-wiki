@@ -1,8 +1,8 @@
 ---
 title: "Overpopulation Causes Poverty (Malthusianism)"
 category: objections
-tags: [objections, malthusianism, population, poverty, stub]
-stub: true
+tags: [objections, malthusianism, population, poverty]
+stub: false
 status: "Rejected by George and by mainstream demography as a general theory of poverty, though population-resource pressure remains a live, separate concern in ecological economics"
 excerpt: "The claim, dating to Malthus (1798), that poverty results from population growth outrunning food supply rather than from unequal land distribution — the oldest rival explanation of poverty, which Henry George devoted a whole book to refuting."
 last_reviewed: 2026-07-13

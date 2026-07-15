@@ -1,8 +1,8 @@
 ---
 title: "Simon Patten"
 category: people
-tags: [people, economists, history-of-economics, gaffney, stub]
-stub: true
+tags: [people, economists, history-of-economics, gaffney]
+stub: false
 born: 1852
 died: 1922
 excerpt: "American economist and Wharton School chair who, in a 1908 Yale Review article, stated the recasting strategy explicitly: economic doctrine 'must be recast' to defeat the single-taxers — a line Mason Gaffney treats as the movement's own admission of intent."

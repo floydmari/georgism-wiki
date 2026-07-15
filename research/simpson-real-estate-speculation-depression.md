@@ -2,11 +2,11 @@
 title: "Simpson (1933): Real Estate Speculation and the Depression"
 category: research
 subcategory: wiki-research-georgism
-tags: [research, stub, great-depression, bank-failures, real-estate-cycle, 1930s, boom-bust]
+tags: [research, great-depression, bank-failures, real-estate-cycle, 1930s, boom-bust]
 authors: [Herbert D. Simpson]
 year: 1933
 tier: Supplementary
-stub: true
+stub: false
 supports_outcomes: [speculative-vacancy-wastes-cities]
 source_url: https://archive.org/details/sim_american-economic-review_1933-03_23_1
 excerpt: "A contemporary 1933 AER paper arguing that real estate speculation and overbuilding — not stock-market losses alone — drove the wave of US bank failures of 1930-33; cited by Phillip Anderson as an eyewitness data point for the land-cycle/banking-crisis mechanism."

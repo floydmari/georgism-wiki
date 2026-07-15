@@ -7,7 +7,7 @@ excerpt: 'Gaffney''s Georgist alternative to agglomeration doctrine: cities gene
   and the market channels that surplus into land rent.'
 last_reviewed: 2026-07-11
 source_url: https://masongaffney.org/publications/E14Synergistic_City.CV.pdf
-stub: true
+stub: false
 supports_outcomes: [public-goods-fundable-from-land-rent]
 subcategory: wiki-research-housing
 tags:

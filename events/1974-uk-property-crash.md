@@ -1,8 +1,8 @@
 ---
 title: "1973–74 UK Property Crash and Secondary Banking Crisis"
 category: events
-tags: [events, land-cycle, uk, secondary-banking-crisis, bank-of-england, 18-year-cycle, stub]
-stub: true
+tags: [events, land-cycle, uk, secondary-banking-crisis, bank-of-england, 18-year-cycle]
+stub: false
 excerpt: "The UK land-value peak of 1973 and 1974 recession Harrison's 18-year cycle model dates as a postwar repeat, coinciding with the secondary banking crisis: the Bank of England's 'lifeboat' extended £1.3bn to rescue 18 property-exposed lenders after an eightfold property-lending boom collapsed."
 last_reviewed: 2026-07-12
 ---

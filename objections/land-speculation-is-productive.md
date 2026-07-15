@@ -1,8 +1,8 @@
 ---
 title: "Objection: Land Speculation Performs a Useful Economic Function"
 category: objections
-tags: [objections, stub, land-speculation, risk-bearing, land-value-tax, mark-blaug]
-stub: true
+tags: [objections, land-speculation, risk-bearing, land-value-tax, mark-blaug]
+stub: false
 status: "Partly addressed. The wiki's response draws on land speculation's economics (fixed supply, option value, carrying cost) and on Blaug's own later verdict that site-value taxation creates no excess burden, but this page has not yet verified the exact wording of Blaug's risk-bearing argument against the primary text."
 excerpt: "Speculators who buy and hold land on a forecast of future value are sometimes defended as bearing a risk that would otherwise fall on the community. Does removing that private risk-bearer through land value taxation leave a gap, or just remove an unearned windfall?"
 last_reviewed: 2026-07-12

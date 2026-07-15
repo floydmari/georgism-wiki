@@ -1,8 +1,8 @@
 ---
 title: "Paul Samuelson"
 category: people
-tags: [people, paul-samuelson, neoclassical-economics, history-of-economics, textbooks, john-bates-clark, stub]
-stub: true
+tags: [people, paul-samuelson, neoclassical-economics, history-of-economics, textbooks, john-bates-clark]
+stub: false
 born: "May 15, 1915, Gary, Indiana"
 died: "December 13, 2009, Belmont, Massachusetts"
 excerpt: "MIT economist and the first American Nobel laureate in economics (1970), whose best-selling textbook Economics (1948–2009) is read by Georgist critics as the main channel through which John Bates Clark's land-into-capital treatment reached generations of students."

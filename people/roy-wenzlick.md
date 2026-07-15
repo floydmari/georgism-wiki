@@ -1,8 +1,8 @@
 ---
 title: "Roy Wenzlick"
 category: people
-tags: [people, roy-wenzlick, land-cycle, 18-year-cycle, real-estate-economics, st-louis, real-estate-analyst, stub]
-stub: true
+tags: [people, roy-wenzlick, land-cycle, 18-year-cycle, real-estate-economics, st-louis, real-estate-analyst]
+stub: false
 born: 1894
 died: 1988
 excerpt: "St. Louis real-estate appraiser and forecaster who independently identified an ~18-year real-estate cycle from data on 120+ U.S. cities and used it to predict, in his 1936 bestseller, a boom peaking around 1943–44 and a low around 1955 — a Hoyt-independent pillar of the land-cycle lineage."

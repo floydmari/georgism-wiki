@@ -2,12 +2,12 @@
 title: "Christophers (2020): Rentier Capitalism"
 category: research
 subcategory: wiki-research-lvt
-tags: [research, rentier, economic-rent, financialisation, ip-rents, resource-rents, stub]
+tags: [research, rentier, economic-rent, financialisation, ip-rents, resource-rents]
 authors: [Brett Christophers]
 year: 2020
 source_url: https://www.versobooks.com/products/871-rentier-capitalism
 tier: important
-stub: true
+stub: false
 excerpt: "A 2020 book by geographer Brett Christophers arguing that the UK economy's 'commanding heights' are dominated by rentiers extracting income from scarce assets — land, finance, IP, natural resources, digital platforms, and outsourcing contracts — rather than by productive enterprise."
 last_reviewed: 2026-07-12
 ---

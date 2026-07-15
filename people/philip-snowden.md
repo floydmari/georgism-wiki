@@ -1,8 +1,8 @@
 ---
 title: "Philip Snowden"
 category: people
-tags: [people, philip-snowden, uk, labour-party, chancellor, land-value-tax, 1931-budget, stub]
-stub: true
+tags: [people, philip-snowden, uk, labour-party, chancellor, land-value-tax, 1931-budget]
+stub: false
 born: 1864
 died: 1937
 excerpt: "British Labour politician and the first Labour Chancellor of the Exchequer (1924, 1929-31), influenced by Henry George, who put a land value tax on the statute book in his 1931 budget - suspended in 1932 and repealed before it ever took effect."

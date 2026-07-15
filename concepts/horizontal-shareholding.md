@@ -1,8 +1,8 @@
 ---
 title: "Horizontal Shareholding (Common Ownership)"
 category: concepts
-tags: [concepts, monopoly, financialization, antitrust, index-funds, stub]
-stub: true
+tags: [concepts, monopoly, financialization, antitrust, index-funds]
+stub: false
 excerpt: "The pattern in which large diversified index funds hold significant stakes in multiple competing firms in the same industry — argued to soften competition and raise prices, e.g. airline fares an estimated several percent higher, without contributing to production. The magnitude and even the existence of the effect are actively disputed."
 last_reviewed: 2026-07-12
 ---

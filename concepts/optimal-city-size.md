@@ -23,7 +23,7 @@ last_reviewed: 2026-07-12
 1. **Increasing returns to scale in public goods.** A larger population spreads the fixed cost of public goods over more taxpayers, reducing the per-capita cost.
 2. **Decreasing returns from commuting.** As the city grows, residents at the urban fringe face longer commutes, raising the marginal cost of adding one more resident.
 
-At the optimal population, these two forces exactly offset. As a corollary of the Product Exhaustion Theorem applied to a constant-returns economy, aggregate land rent at this optimum equals aggregate public-goods spending — the Henry George Theorem. The intuition is that public goods make a location more desirable, and that desirability is capitalised into land rent; collecting the rent therefore recovers precisely what the public spending created, a self-financing mechanism requiring no tax on labour or capital.
+At the optimal population, these two forces exactly offset. As a corollary of the [Product Exhaustion Theorem](/wiki/product-exhaustion-theorem/) applied to a constant-returns economy, aggregate land rent at this optimum equals aggregate public-goods spending — the Henry George Theorem. The intuition is that public goods make a location more desirable, and that desirability is capitalised into land rent; collecting the rent therefore recovers precisely what the public spending created, a self-financing mechanism requiring no tax on labour or capital.
 
 ## Generalization and Practicality: Arnott (2004)
 

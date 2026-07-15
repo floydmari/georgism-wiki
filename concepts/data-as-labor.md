@@ -1,8 +1,8 @@
 ---
 title: "Data as Labor"
 category: concepts
-tags: [concepts, data-rents, platform-economy, radical-markets, weyl, stub]
-stub: true
+tags: [concepts, data-rents, platform-economy, radical-markets, weyl]
+stub: false
 excerpt: "The proposal, developed by Lanier, Weyl and coauthors and popularized in Radical Markets Ch. 5, that platforms should treat user-generated data as compensated labor rather than a free byproduct of using a service — the leading redistribution mechanism for platform/data rents."
 last_reviewed: 2026-07-11
 ---

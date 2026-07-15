@@ -1,8 +1,8 @@
 ---
 title: "The Houston Plan of Taxation (1912–1915)"
 category: events
-tags: [events, united-states, single-tax, split-rate, history, texas, stub]
-stub: true
+tags: [events, united-states, single-tax, split-rate, history, texas]
+stub: false
 excerpt: "Houston Tax Commissioner J.J. Pastoriza used the Somers valuation method to shift the city's property tax onto land (70% of value) and off improvements (25%) and personal property, until Texas courts struck it down in 1915."
 last_reviewed: 2026-07-11
 ---

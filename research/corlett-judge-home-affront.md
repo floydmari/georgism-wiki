@@ -51,7 +51,7 @@ millennials' future home-ownership prospects under optimistic and pessimistic sc
 ## Honest Caveats the Report Itself Makes
 
 The authors attribute part of the ownership decline to demographic change — "longer education,
-later coupling and later child bearing" — and to policy (Right to Buy boosting older cohorts'
+later coupling and later child bearing" — and to policy ([Right to Buy](/wiki/right-to-buy/) boosting older cohorts'
 ownership). They also note that millennials who do buy face *lower interest costs* as a share
 of income than the previous two generations did at the same age, though capital repayments
 have "risen relentlessly from generation to generation." And they flag the open question of

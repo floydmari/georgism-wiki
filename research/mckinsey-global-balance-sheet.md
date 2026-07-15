@@ -2,12 +2,12 @@
 title: "McKinsey Global Institute (2021): The Rise and Rise of the Global Balance Sheet"
 category: research
 subcategory: wiki-research-inequality
-tags: [research, land-value, capital-share, global-wealth, real-estate, mckinsey, land-is-a-big-deal, stub]
+tags: [research, land-value, capital-share, global-wealth, real-estate, mckinsey, land-is-a-big-deal]
 authors: [Jan Mischke, Anu Madgavkar, Jonathan Woetzel, Eckart Windhagen, Sven Smit, et al.]
 year: 2021
 tier: Important
 source_url: https://www.mckinsey.com/industries/financial-services/our-insights/the-rise-and-rise-of-the-global-balance-sheet-how-productively-are-we-using-our-wealth
-stub: true
+stub: false
 excerpt: "McKinsey Global Institute's balance-sheet reconstruction for ten countries (60%+ of world income) found real estate accounts for roughly two-thirds of global net worth — mainstream institutional evidence, cited in Land Is a Big Deal, that land dominates modern wealth."
 last_reviewed: 2026-07-12
 bears_on_objections: [land-no-longer-matters]

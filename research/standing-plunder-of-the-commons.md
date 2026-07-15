@@ -7,7 +7,7 @@ excerpt: Guy Standing's 2019 manifesto tracing the enclosure of Britain's common
   Forest to modern privatization, proposing a Commons Fund levied on rentier income.
 last_reviewed: 2026-07-11
 source_url: https://www.penguin.co.uk/books/308407/plunder-of-the-commons-by-standing-guy/9780241396339
-stub: true
+stub: false
 subcategory: wiki-research-georgism
 tags:
 - research

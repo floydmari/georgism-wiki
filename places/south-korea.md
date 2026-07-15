@@ -1,8 +1,8 @@
 ---
 title: "South Korea"
 category: places
-tags: [places, south-korea, korea-land-corporation, public-land-development, land-value-capture, stub]
-stub: true
+tags: [places, south-korea, korea-land-corporation, public-land-development, land-value-capture]
+stub: false
 excerpt: "South Korea's Korea Land Corporation (merged into LH in 2009) developed land publicly at scale — a state-led alternative to a land value tax for capturing land value and supplying affordable serviced land."
 last_reviewed: 2026-07-12
 ---

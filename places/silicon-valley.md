@@ -1,8 +1,8 @@
 ---
 title: "Silicon Valley"
 category: places
-tags: [places, stub, silicon-valley, land-speculation, boom-bust-cycle, dot-com, ip-rents, agglomeration-economies]
-stub: true
+tags: [places, silicon-valley, land-speculation, boom-bust-cycle, dot-com, ip-rents, agglomeration-economies]
+stub: false
 excerpt: "The dot-com era's epicentre, and Fred Harrison's case study for the claim that 'New Economy' technology gains were substantially absorbed as land rent rather than passed on as broad prosperity."
 last_reviewed: 2026-07-11
 ---
@@ -11,7 +11,7 @@ last_reviewed: 2026-07-11
 
 **Silicon Valley**, the region in the southern San Francisco Bay Area centred on Santa Clara County, is the world's best-known concentration of technology firms and venture capital, and was the geographic epicentre of the late-1990s dot-com boom.[1] Fred Harrison's *Boom Bust: House Prices, Banking and the Depression of 2010* uses Silicon Valley as a case study against the "New Economy" narrative popular among policymakers and commentators in that period — the claim, promoted at forums such as Davos, that information technology had produced a durable break from the traditional boom-bust pattern.[2] Harrison instead frames the region's land speculation as speculation disguised as tech innovation, citing the coexistence of soaring local land and housing costs with visible homelessness (he references what he calls "Motel 22") amid the boom.[2] The phenomenon Harrison points to is not an encampment but the Santa Clara Valley Transportation Authority's Route 22 (Line 22) — the county's only 24-hour bus line, which for over a decade has doubled as a de-facto overnight shelter for the homeless riding its roughly two-hour loop, a use documented in journalism and film under the nickname "Hotel 22."[3]
 
-Harrison's broader argument, which he terms the "economic law of absorption," holds that productivity gains from technological change are substantially captured by landowners as rent rather than flowing through to workers and firms as durable prosperity — land prices rise to absorb the surplus that innovation generates.[2] On this reading, Silicon Valley's late-1990s land and housing price surges were not merely a side effect of the tech boom but a structural feature of it, paralleling the securitisation dynamics Harrison traces from the 1720 South Sea Bubble through the 1990s dot-com and Asian financial crises.[2]
+Harrison's broader argument, which he terms the "economic [law of absorption](/wiki/law-of-absorption/)," holds that productivity gains from technological change are substantially captured by landowners as rent rather than flowing through to workers and firms as durable prosperity — land prices rise to absorb the surplus that innovation generates.[2] On this reading, Silicon Valley's late-1990s land and housing price surges were not merely a side effect of the tech boom but a structural feature of it, paralleling the securitisation dynamics Harrison traces from the 1720 South Sea Bubble through the 1990s dot-com and Asian financial crises.[2]
 
 ## See Also
 

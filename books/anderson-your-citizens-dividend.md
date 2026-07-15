@@ -18,7 +18,7 @@ last_reviewed: 2026-07-12
 *Your Citizen's Dividend: How to double your wage, dramatically reduce
 financial stress and improve living standards for everyone* is a free 16-page
 advocacy eBook by [Phillip J. Anderson](/wiki/phillip-j-anderson/) (©2024
-Property Sharemarket Economics), distributed via his
+[Property Sharemarket Economics](/wiki/property-sharemarket-economics/)), distributed via his
 [citdiv.org](https://citdiv.org/) microsite in six languages. It is the
 program statement behind the site: collect society's
 [economic rent](/wiki/economic-rent/) through a **special-purpose vehicle

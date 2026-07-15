@@ -2,12 +2,12 @@
 title: "Lewis (1965): Building Cycles and Britain's Growth"
 category: research
 subcategory: wiki-research-georgism
-tags: [research, land-cycle, real-estate-cycle, uk, building-cycles, historical, stub]
+tags: [research, land-cycle, real-estate-cycle, uk, building-cycles, historical]
 authors: [J. Parry Lewis]
 year: 1965
 tier: Supplementary
 source_url: https://books.google.co.uk/books/about/Building_cycles_and_Britain_s_growth.html?id=WoEkAAAAMAAJ&redir_esc=y
-stub: true
+stub: false
 excerpt: "J. Parry Lewis's 1965 economic history traces British building activity from 1700 to 1950 and finds a recurring construction-cycle rhythm — the UK data source Fred Harrison cites for a 17.4-year average cycle duration, the British counterpart to Hoyt's Chicago study."
 last_reviewed: 2026-07-14
 ---

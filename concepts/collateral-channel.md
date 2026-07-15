@@ -1,8 +1,8 @@
 ---
 title: "Collateral Channel"
 category: concepts
-tags: [concepts, banking, credit, land, collateral, financial-accelerator, kiyotaki-moore, stub]
-stub: true
+tags: [concepts, banking, credit, land, collateral, financial-accelerator, kiyotaki-moore]
+stub: false
 excerpt: "The macro-finance mechanism by which the market value of an asset used as loan collateral, especially land, determines how much credit can be created against it — producing a feedback loop between asset prices and credit supply."
 last_reviewed: 2026-07-11
 ---

@@ -9,7 +9,7 @@ excerpt: Tideman and Plassmann's chapter in The Losses of Nations (Harrison ed.,
   calculation.
 last_reviewed: 2026-07-06
 source_url: https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf
-stub: true
+stub: false
 subcategory: wiki-research-lvt
 supports_outcomes:
 - taxing-land-raises-productivity

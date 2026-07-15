@@ -9,7 +9,7 @@ excerpt: A Philadelphia Fed life-cycle model finds a 10% permanent house-price r
   us all richer'.
 last_reviewed: 2026-07-11
 source_url: https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/business-review/2006/q1/q1_06_housevalue.pdf
-stub: true
+stub: false
 subcategory: wiki-research-resources
 tags:
 - research

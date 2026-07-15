@@ -11,7 +11,7 @@ excerpt: Michael Hudson's 2008 journal article cataloguing twelve political (not
   failed to build durable coalitions.
 last_reviewed: 2026-07-12
 source_url: https://michael-hudson.com/wp-content/uploads/2010/03/0801GeorgesCritics.pdf
-stub: true
+stub: false
 subcategory: wiki-research-housing
 tags:
 - research

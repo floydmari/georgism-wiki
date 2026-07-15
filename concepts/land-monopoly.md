@@ -59,7 +59,7 @@ See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their
 
 ### Daniel: Systematic Land Deprivation
 
-Pete Daniel's *Dispossession* (2013) documents how USDA discrimination functioned as a modern land monopoly mechanism. Through "passive nullification" — the systematic denial of loans, program access, and representation to African American farmers — the USDA contributed to a 93% decline in Black-operated farms from 1940 to 1974 (Daniel 2013, pp. 1, 23). County agricultural committees, dominated by white landowners, controlled acreage allotments and subsidy distribution through the ASCS, effectively channeling resources to large landholders while starving small Black farmers of credit (Daniel 2013, Ch. 7). (B-claim; empirical)
+[Pete Daniel](/wiki/pete-daniel/)'s *Dispossession* (2013) documents how USDA discrimination functioned as a modern land monopoly mechanism. Through "passive nullification" — the systematic denial of loans, program access, and representation to African American farmers — the USDA contributed to a 93% decline in Black-operated farms from 1940 to 1974 (Daniel 2013, pp. 1, 23). County agricultural committees, dominated by white landowners, controlled acreage allotments and subsidy distribution through the ASCS, effectively channeling resources to large landholders while starving small Black farmers of credit (Daniel 2013, Ch. 7). (B-claim; empirical)
 
 This demonstrates that land monopoly operates not only through outright seizure but through institutional control over the conditions of land access — credit, subsidies, and technical assistance — which can systematically disadvantage specific populations. (D-claim; interpretive)
 

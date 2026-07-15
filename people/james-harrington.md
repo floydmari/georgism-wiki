@@ -1,8 +1,8 @@
 ---
 title: "James Harrington"
 category: people
-tags: [people, james-harrington, land-monopoly, political-theory, republicanism, stub]
-stub: true
+tags: [people, james-harrington, land-monopoly, political-theory, republicanism]
+stub: false
 born: "1611"
 died: "1677"
 excerpt: "English political theorist (1611–1677) whose Oceana (1656) argued that 'empire follows the balance of property' — that the distribution of land determines the distribution of political power — a pre-Georgist ancestor of the land-and-power argument."

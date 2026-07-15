@@ -1,8 +1,8 @@
 ---
 title: "Philip Wicksteed"
 category: people
-tags: [people, philip-wicksteed, marginal-productivity, fabian, neoclassical-economics, stub]
-stub: true
+tags: [people, philip-wicksteed, marginal-productivity, fabian, neoclassical-economics]
+stub: false
 excerpt: "Unitarian minister turned economist (1844–1927) who was converted to economics by reading Progress and Poverty, formalized marginal productivity theory — and carried George's land politics into the Fabian Society, making him the bridge between Georgism and both neoclassical theory and British socialism."
 last_reviewed: 2026-07-06
 ---
@@ -18,7 +18,7 @@ theory [Gaffney's account](/wiki/gaffney-harrison-corruption-of-economics/) note
 George had foreshadowed (essay Ch. 3).[1] Unlike
 [Clark](/wiki/john-bates-clark/), who used the marginal apparatus to merge land
 into capital, Wicksteed carried George's land politics into practice — he was
-instrumental in pressing land taxation on the Fabian Society and, through it, into
+instrumental in pressing land taxation on the [Fabian Society](/wiki/fabian-society/) and, through it, into
 Liberal politics.[1] [Blaug](/wiki/economic-theory-in-retrospect/) treats his
 *Common Sense of Political Economy* (1910) as the era's most lucid statement of
 the marginal method.[2]

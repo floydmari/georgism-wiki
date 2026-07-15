@@ -1,8 +1,8 @@
 ---
 title: "A Full Land Tax Destroys Land's Selling Price and Its Own Tax Base"
 category: objections
-tags: [objections, valuation, land-value-tax, tax-capitalization, stub]
-stub: true
+tags: [objections, valuation, land-value-tax, tax-capitalization]
+stub: false
 status: "Addressed — the objection conflates capital (sale) value with rental (annual) value, which is the actual LVT base"
 excerpt: "The claim that a land value tax approaching 100% of rent drives land's selling price to zero, thereby wiping out the very tax base it depends on — and why the rental-value base survives even though the capital value does not."
 last_reviewed: 2026-07-12

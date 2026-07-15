@@ -1,8 +1,8 @@
 ---
 title: "Elizabeth Magie"
 category: people
-tags: [people, elizabeth-magie, landlords-game, monopoly, georgism-popularization, stub]
-stub: true
+tags: [people, elizabeth-magie, landlords-game, monopoly, georgism-popularization]
+stub: false
 born: 1866
 died: 1948
 excerpt: "Georgist game designer (1866–1948) who patented The Landlord's Game (1904) to teach George's rent critique — the game that, stripped of its Georgist lesson, became Monopoly. The wiki's clearest story of the movement's ideas entering popular culture anonymously."

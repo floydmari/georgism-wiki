@@ -9,7 +9,7 @@ excerpt: 'The academic paper behind the modern Harberger-tax/COST revival: it fo
   with a sale obligation — as a resolution.'
 last_reviewed: 2026-07-11
 source_url: https://papers.ssrn.com/abstract=2744810
-stub: true
+stub: false
 subcategory: wiki-research-resources
 tags:
 - research

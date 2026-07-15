@@ -10,7 +10,7 @@ excerpt: Richard Vague's survey of financial crises across six countries over 20
   bridge to the land-cycle account.
 last_reviewed: 2026-07-11
 source_url: https://eh.net/book_reviews/a-brief-history-of-doom-two-hundred-years-of-financial-crises/
-stub: true
+stub: false
 supports_outcomes: [finance-growth-is-land-credit]
 subcategory: wiki-research-urban
 tags:

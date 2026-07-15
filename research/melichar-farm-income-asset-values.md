@@ -9,7 +9,7 @@ excerpt: A Federal Reserve economist's study of the residual return to US farm p
   cycle in the return to farmland.
 last_reviewed: 2026-07-12
 source_url: https://ideas.repec.org/f/pme709.html
-stub: true
+stub: false
 subcategory: wiki-research-inequality
 tags:
 - research

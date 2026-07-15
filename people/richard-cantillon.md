@@ -1,8 +1,8 @@
 ---
 title: "Richard Cantillon"
 category: people
-tags: [people, richard-cantillon, proto-economist, banking, rent-theory, value-theory, stub]
-stub: true
+tags: [people, richard-cantillon, proto-economist, banking, rent-theory, value-theory]
+stub: false
 born: "c. 1680s, County Kerry, Ireland"
 died: "May 1734, London, England (died in a house fire, in circumstances suggesting he was murdered)"
 excerpt: "Irish-French banker and proto-economist whose Essai sur la Nature du Commerce en Général (c. 1730) grounded value in land and labor, theorized landlords as the ultimate recipients of a society's economic surplus, and first analyzed what is now called the Cantillon effect."

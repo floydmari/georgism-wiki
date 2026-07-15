@@ -1,9 +1,9 @@
 ---
 title: "Valencia \"Land Grab\" Law (LRAU, 1994)"
 category: events
-tags: [events, land-value-capture, spain, betterment-levy, cautionary-case, stub]
+tags: [events, land-value-capture, spain, betterment-levy, cautionary-case]
 year: 1994
-stub: true
+stub: false
 excerpt: "Valencia's 1994 urban-planning law let developers force landowners to surrender up to half their land's value for infrastructure — a badly designed land-value-capture scheme that dispossessed thousands, including foreign retirees, and became a byword for how not to do it."
 last_reviewed: 2026-07-12
 ---

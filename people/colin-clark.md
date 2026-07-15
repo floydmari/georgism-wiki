@@ -1,8 +1,8 @@
 ---
 title: "Colin Clark"
 category: people
-tags: [people, colin-clark, national-accounts, gnp, public-finance, single-tax, ronald-burgess, agricultural-economics, stub]
-stub: true
+tags: [people, colin-clark, national-accounts, gnp, public-finance, single-tax, ronald-burgess, agricultural-economics]
+stub: false
 born: 1905-11-02
 died: 1989-09-04
 excerpt: "British-Australian economist (1905–1989), a founder of national income accounting and pioneer of GNP measurement. His empirical claim that tax revenue above roughly 25% of net national product tends to trigger inflation — first advanced in a 1945 Economic Journal article — is cited on the wiki's single-tax and Ronald Burgess pages."

@@ -1,8 +1,8 @@
 ---
 title: "Financialization of Land and Housing"
 category: concepts
-tags: [concepts, land, housing, financialization, mortgage-credit, rentier, stub]
-stub: true
+tags: [concepts, land, housing, financialization, mortgage-credit, rentier]
+stub: false
 excerpt: "The process by which land and housing shift from being valued as places to live and work into being valued primarily as collateral and investment assets — driven by the feedback loop between mortgage credit and land prices."
 last_reviewed: 2026-07-11
 ---

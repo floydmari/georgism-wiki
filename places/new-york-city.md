@@ -1,8 +1,8 @@
 ---
 title: "New York City"
 category: places
-tags: [places, new-york-city, land-value, henry-george, urban-land, stub]
-stub: true
+tags: [places, new-york-city, land-value, henry-george, urban-land]
+stub: false
 excerpt: "The single largest concentration of measured urban land value in the United States — roughly $2.5 trillion citywide — and the site of Henry George's own 1886 run for mayor."
 last_reviewed: 2026-07-11
 ---

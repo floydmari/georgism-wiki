@@ -1,10 +1,10 @@
 ---
 title: "Shepheard-Walwyn Publishers"
 category: organizations
-tags: [organizations, publishing, uk, georgism, stub]
+tags: [organizations, publishing, uk, georgism]
 url: https://shepheardwalwyn.com/
 founded: 1971
-stub: true
+stub: false
 excerpt: "An independent London publisher, incorporated in 1971, that has become the principal UK outlet for modern Georgist books — including works by Fred Harrison and Philip J. Anderson — and for editions of Henry George's own writing."
 last_reviewed: 2026-07-11
 ---

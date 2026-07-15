@@ -1,8 +1,8 @@
 ---
 title: "François Quesnay"
 category: people
-tags: [people, francois-quesnay, physiocrats, tableau-economique, single-tax, stub]
-stub: true
+tags: [people, francois-quesnay, physiocrats, tableau-economique, single-tax]
+stub: false
 born: "June 4, 1694, Méré, France"
 died: "December 16, 1774, Versailles, France"
 excerpt: "Leader of the French Physiocrats and physician to Louis XV, whose 1758 Tableau économique and impôt unique — a single tax on land's net product — prefigured Henry George's single tax by over a century."

@@ -1,8 +1,8 @@
 ---
 title: "Demographic Change Explains House Prices"
 category: objections
-tags: [objections, house-prices, demographics, land-speculation, boom-bust-cycle, stub]
-stub: true
+tags: [objections, house-prices, demographics, land-speculation, boom-bust-cycle]
+stub: false
 status: "Demographics affect housing demand at the margin, but the strong version of the thesis — that population trends alone drive the boom-bust pattern in real house prices — is contested and its best-known prediction largely failed to materialize"
 excerpt: "The claim that population trends (e.g., the Baby Boom generation reaching house-buying age) are the primary driver of house-price movements — a standing rival to Georgist land-speculation accounts of housing cycles, associated with Mankiw and Weil's 1989 study."
 last_reviewed: 2026-07-12

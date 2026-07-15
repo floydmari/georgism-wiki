@@ -10,7 +10,7 @@ excerpt: 'Mason Gaffney''s 2005 working paper that names and states the ATCOR (A
   by a corresponding amount, expanding the taxable capacity of land.'
 last_reviewed: 2026-07-12
 source_url: https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf
-stub: true
+stub: false
 subcategory: wiki-research-resources
 tags:
 - research

@@ -1,8 +1,8 @@
 ---
 title: "Railway Mania (1840s Britain)"
 category: events
-tags: [events, uk, speculation, boom-bust-cycle, stub]
-stub: true
+tags: [events, uk, speculation, boom-bust-cycle]
+stub: false
 excerpt: "A stock-market bubble in UK and Irish railway shares in the 1840s, peaking in 1846 with 263 Acts of Parliament authorizing 9,500 miles of new line — an early large-scale case of infrastructure-linked speculation financed through Parliament-granted land-acquisition powers."
 last_reviewed: 2026-07-12
 ---

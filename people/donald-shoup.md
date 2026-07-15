@@ -1,8 +1,8 @@
 ---
 title: "Donald Shoup"
 category: people
-tags: [people, donald-shoup, parking, land-value-capture, urban-planning, deferred-assessment, stub]
-stub: true
+tags: [people, donald-shoup, parking, land-value-capture, urban-planning, deferred-assessment]
+stub: false
 born: 1938
 died: 2025
 excerpt: "UCLA urban planning professor (1938–2025) whose work reframed parking as underpriced land rent, and whose 1980 deferred-assessment proposal is the standard Georgist answer to the 'little old lady on a high-value site' objection."

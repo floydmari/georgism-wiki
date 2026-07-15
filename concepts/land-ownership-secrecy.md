@@ -1,8 +1,8 @@
 ---
 title: "Veil of Secrecy over Land Ownership and Values"
 category: concepts
-tags: [concepts, stub, land-ownership, transparency, land-value-tax, assessment, land-monopoly]
-stub: true
+tags: [concepts, land-ownership, transparency, land-value-tax, assessment, land-monopoly]
+stub: false
 excerpt: "Fred Harrison's term for the systematic lack of public data on who owns land and what it is worth — an obstacle, Georgists argue, to both fair assessment and public accountability for land monopoly."
 last_reviewed: 2026-07-12
 ---

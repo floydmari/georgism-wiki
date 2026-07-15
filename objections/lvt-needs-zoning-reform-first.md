@@ -1,8 +1,8 @@
 ---
 title: "\"LVT Is Useless Without Zoning Reform First\""
 category: objections
-tags: [objections, zoning, land-use-regulation, housing-supply, yimby, feasibility, stub]
-stub: true
+tags: [objections, zoning, land-use-regulation, housing-supply, yimby, feasibility]
+stub: false
 status: "Partially valid as a sequencing concern, not a refutation — the mainstream Georgist response treats LVT and zoning reform as complements, not rivals waiting on each other"
 excerpt: "The YIMBY-era worry that a land value tax cannot do its supply-side work where zoning already caps what can be built on a site — so LVT is pointless, or even harmful, unless zoning reform comes first."
 last_reviewed: 2026-07-12

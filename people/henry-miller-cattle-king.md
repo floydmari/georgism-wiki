@@ -1,11 +1,11 @@
 ---
 title: "Henry Miller (Cattle King of California)"
-tags: [people, land-monopoly, land-grants, california, gilded-age, stub]
+tags: [people, land-monopoly, land-grants, california, gilded-age]
 category: people
 born: 1827
 died: 1916
 excerpt: "German-American rancher (1827-1916) who built the Miller & Lux cattle empire into one of the largest private landholdings in US history, partly by gaming the 1850 Swamp and Overflow Lands Act — a case study in land monopoly via manipulated public-land grants."
-stub: true
+stub: false
 last_reviewed: 2026-07-12
 ---
 

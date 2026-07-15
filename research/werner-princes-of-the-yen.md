@@ -2,12 +2,12 @@
 title: "Princes of the Yen: Japan's Central Bankers and the Transformation of the Economy"
 category: research
 subcategory: wiki-research-lvt
-tags: [research, japan, central-banking, credit-creation, land-bubble, credit-window-guidance, stub]
+tags: [research, japan, central-banking, credit-creation, land-bubble, credit-window-guidance]
 authors: [Richard A. Werner]
 year: 2003
 tier: Important
 source_url: https://archive.org/details/princesofyenjapa0000wern
-stub: true
+stub: false
 supports_outcomes: [finance-growth-is-land-credit]
 excerpt: "Werner's controversial 2003 book arguing the Bank of Japan directed a surge of bank credit into real estate and stocks via 'window guidance' in the late 1980s, then tightened sharply — a central primary source for the credit-side account of Japan's land bubble."
 last_reviewed: 2026-07-12

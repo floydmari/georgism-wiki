@@ -1,8 +1,8 @@
 ---
 title: "Oklahoma Land Rush (1889)"
 category: events
-tags: [events, united-states, land-policy, public-land, 19th-century, frontier, stub]
-stub: true
+tags: [events, united-states, land-policy, public-land, 19th-century, frontier]
+stub: false
 excerpt: "On April 22, 1889, roughly 50,000 people raced to claim homesteads across 2 million acres of Oklahoma's 'Unassigned Lands' in a single day — the most vivid single illustration of the scramble for unearned location value at the closing American frontier."
 last_reviewed: 2026-07-11
 ---

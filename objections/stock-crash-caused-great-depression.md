@@ -1,8 +1,8 @@
 ---
 title: "The 1929 Stock Crash Caused the Great Depression"
 category: objections
-tags: [objections, great-depression, 1929, land-cycle, banking, stub]
-stub: true
+tags: [objections, great-depression, 1929, land-cycle, banking]
+stub: false
 status: "Contested — mainstream economic history assigns substantial independent weight to monetary contraction and the crash's own wealth effects; the land-cycle account adds a documented but not yet fully reconciled channel"
 excerpt: "The standard narrative treats the 1929 stock crash as the trigger of the Great Depression. Georgist land-cycle writers, citing Simpson and Calomiris & Mason, argue the deeper cause was collapse of an already-peaked real-estate boom that gutted bank balance sheets."
 last_reviewed: 2026-07-13

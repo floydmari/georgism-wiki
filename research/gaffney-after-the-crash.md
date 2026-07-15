@@ -2,8 +2,8 @@
 title: "Gaffney (2009): After the Crash — Designing a Depression-Free Economy"
 category: research
 subcategory: wiki-research-resources
-tags: [research, stub, gaffney, land-cycle, 18-year-cycle, boom-bust, subdivision, 2008-financial-crisis]
-stub: true
+tags: [research, gaffney, land-cycle, 18-year-cycle, boom-bust, subdivision, 2008-financial-crisis]
+stub: false
 authors: [Mason Gaffney]
 year: 2009
 tier: Important

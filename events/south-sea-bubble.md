@@ -1,8 +1,8 @@
 ---
 title: "South Sea Bubble (1720)"
 category: events
-tags: [events, south-sea-bubble, boom-bust-cycle, securitisation, speculation, 18th-century, stub]
-stub: true
+tags: [events, south-sea-bubble, boom-bust-cycle, securitisation, speculation, 18th-century]
+stub: false
 excerpt: "The 1720 collapse of South Sea Company shares, one of the earliest and most-studied speculative manias, in which future trade and debt-conversion profits were capitalised into share prices — a pattern Georgist writer Fred Harrison traces forward to modern land and mortgage securitisation."
 last_reviewed: 2026-07-12
 ---

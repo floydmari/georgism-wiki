@@ -1,8 +1,8 @@
 ---
 title: "Academic Purges of Georgist Economists"
 category: events
-tags: [events, henry-george, academic-freedom, corruption-of-economics, history-of-economics, stub]
-stub: true
+tags: [events, henry-george, academic-freedom, corruption-of-economics, history-of-economics]
+stub: false
 excerpt: "Gaffney and Harrison cite three early-20th-century academic dismissals — Nearing, Andrews, Eaton — as evidence economics purged Georgist sympathizers; independent sources attribute the same dismissals to other stated causes, making the Georgism-specific motive a contested reading."
 last_reviewed: 2026-07-11
 ---

@@ -12,7 +12,7 @@ excerpt: 'The 2018 AEA Papers and Proceedings paper formalizing the ''data as la
   input.'
 last_reviewed: 2026-07-11
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3093683
-stub: true
+stub: false
 subcategory: wiki-research-resources
 tags:
 - research

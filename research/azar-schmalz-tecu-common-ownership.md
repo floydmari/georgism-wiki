@@ -10,7 +10,7 @@ excerpt: The flagship empirical study finding that common institutional ownershi
   and a genuinely contested finding.
 last_reviewed: 2026-07-11
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2427345
-stub: true
+stub: false
 subcategory: wiki-research-lvt
 tags:
 - research

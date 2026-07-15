@@ -1,8 +1,8 @@
 ---
 title: "Lawson Purdy"
 category: people
-tags: [people, single-tax, new-york, property-tax-administration, stub]
-stub: true
+tags: [people, single-tax, new-york, property-tax-administration]
+stub: false
 born: 1863
 died: 1959
 excerpt: "New York City's Tax Commissioner (1906-1917) and a leading Georgist administrator who won the separate listing of land and building values on assessment rolls and rose to leadership in the National Tax Association."

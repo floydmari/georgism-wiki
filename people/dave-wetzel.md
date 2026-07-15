@@ -1,8 +1,8 @@
 ---
 title: "Dave Wetzel"
 category: people
-tags: [people, uk, transport, land-value-tax, labour-land-campaign, congestion-pricing, stub]
-stub: true
+tags: [people, uk, transport, land-value-tax, labour-land-campaign, congestion-pricing]
+stub: false
 born: "1942"
 died: "2024"
 excerpt: "British transport official and Georgist campaigner; first Vice-Chairman of Transport for London (2000-08), who pushed land value taxation into official UK transport-funding debates including the Lyons Inquiry."

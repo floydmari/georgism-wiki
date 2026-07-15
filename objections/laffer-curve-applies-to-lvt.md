@@ -1,8 +1,8 @@
 ---
 title: "\"A 100% Land Tax Yields Zero Revenue (Laffer Curve)\""
 category: objections
-tags: [objections, land-value-tax, laffer-curve, tax-incidence, public-finance, stub]
-stub: true
+tags: [objections, land-value-tax, laffer-curve, tax-incidence, public-finance]
+stub: false
 status: "Addressed — the Laffer curve models a behavioral response to taxes on elastically supplied activity; land supply is fixed, so the mechanism that drives revenue to zero at a 100% rate does not operate on a pure land value tax, and under ATCOR the taxable rent base widens rather than collapses as other taxes are removed"
 excerpt: "The claim that pushing a land tax toward 100% of rent must eventually collapse revenue to zero, by analogy with the Laffer curve for income taxes — and why land's fixed supply breaks the analogy."
 last_reviewed: 2026-07-13

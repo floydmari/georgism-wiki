@@ -1,8 +1,8 @@
 ---
 title: "Gordon Brown"
 category: people
-tags: [people, gordon-brown, uk, boom-bust-cycle, barker-review, housing-supply, stub]
-stub: true
+tags: [people, gordon-brown, uk, boom-bust-cycle, barker-review, housing-supply]
+stub: false
 born: "20 February 1951, Giffnock, Renfrewshire, Scotland"
 excerpt: "UK Chancellor of the Exchequer (1997-2007) and Prime Minister (2007-2010) who repeatedly promised an end to 'boom and bust' and commissioned the Barker Review of housing supply, yet presided over the run-up to the 2008 crash that Georgist land-cycle forecasters had predicted years in advance."
 last_reviewed: 2026-07-12

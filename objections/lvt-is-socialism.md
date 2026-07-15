@@ -1,8 +1,8 @@
 ---
 title: "\"The Single Tax Is a Form of Socialism/Communism\""
 category: objections
-tags: [objections, socialism, communism, private-property, single-tax, frank-knight, stub]
-stub: true
+tags: [objections, socialism, communism, private-property, single-tax, frank-knight]
+stub: false
 status: "A perennial rhetorical charge, not a live empirical dispute — the free-market/classical-liberal reply that Georgism strengthens rather than abolishes private property in labor and capital has been made repeatedly since at least the 1990s (and land value taxation is endorsed by economists across the ideological spectrum, from Friedman to Stiglitz), but the charge itself keeps recurring in new political contexts"
 excerpt: "Critics from Frank Knight to apartheid-era South African free-marketeers have branded the single tax a stalking-horse for socialism or Soviet-style collectivism — a charge Georgists rebut by pointing out land value taxation leaves private ownership of labor and capital untouched."
 last_reviewed: 2026-07-13

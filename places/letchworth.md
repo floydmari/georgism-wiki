@@ -1,8 +1,8 @@
 ---
 title: "Letchworth Garden City"
 category: places
-tags: [places, garden-city, ebenezer-howard, land-value-capture, uk, urban-planning, stub]
-stub: true
+tags: [places, garden-city, ebenezer-howard, land-value-capture, uk, urban-planning]
+stub: false
 excerpt: "The world's first Garden City (founded 1903 in Hertfordshire, England), built to Ebenezer Howard's plan of holding land in trust so that rising ground rents fund the town's own services rather than private landlords."
 last_reviewed: 2026-07-11
 ---
