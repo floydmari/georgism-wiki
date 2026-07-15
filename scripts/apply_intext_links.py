@@ -111,31 +111,39 @@ def try_link_phrase_mobiledoc(doc, phrase, slug):
     We only splice PLAIN text markers (type 0, no open markups) inside "p"
     sections, and never touch cards/atoms — the closes count moves to the last
     piece so any enclosing markup still closes in the right place."""
+    markups = doc.setdefault("markups", [])
     for sec in doc.get("sections", []):
         if not (isinstance(sec, list) and len(sec) >= 3 and sec[0] == 1 and sec[1] == "p"):
             continue
         markers = sec[2]
         for i, mk in enumerate(markers):
-            if not (isinstance(mk, list) and len(mk) == 4 and mk[0] == 0 and mk[1] == []):
+            if not (isinstance(mk, list) and len(mk) == 4 and mk[0] == 0):
                 continue
-            text = mk[3] or ""
+            opens, closes, text = mk[1], mk[2], mk[3] or ""
+            # Case A: plain run. Case B: self-contained formatting (marker opens N
+            # markups and closes all N itself, none of them links) — split re-wraps
+            # each piece in the same markups so styling survives. Anything else
+            # (markups spanning multiple markers, existing links) stays untouched.
+            self_contained = (opens and closes == len(opens)
+                              and all(markups[x][0] != "a" for x in opens))
+            if opens and not self_contained:
+                continue
             j = text.find(phrase)
             if j < 0:
                 continue
-            doc.setdefault("markups", []).append(
-                ["a", ["href", f"https://www.progress.org/wiki/{slug}/",
-                       "rel", "noopener"]])
-            midx = len(doc["markups"]) - 1
-            closes = mk[2]
+            markups.append(["a", ["href", f"https://www.progress.org/wiki/{slug}/",
+                                  "rel", "noopener"]])
+            midx = len(markups) - 1
             pieces = []
             if j > 0:
-                pieces.append([0, [], 0, text[:j]])
-            pieces.append([0, [midx], 1, phrase])
+                pieces.append([0, list(opens), len(opens) if opens else 0, text[:j]])
+            pieces.append([0, list(opens) + [midx], (len(opens) + 1) if opens else 1,
+                           phrase])
             tail = text[j + len(phrase):]
             if tail:
-                pieces.append([0, [], closes, tail])
-            else:
-                pieces[-1][2] += closes          # keep enclosing markup closes intact
+                pieces.append([0, list(opens), closes if opens else 0, tail])
+            elif not opens:
+                pieces[-1][2] += closes          # keep enclosing closes intact
             markers[i:i + 1] = pieces
             return True
     return False
