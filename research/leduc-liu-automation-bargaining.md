@@ -62,6 +62,7 @@ This paper strengthens the mechanism side of the wiki's automation/AI-and-labor-
 
 - [Gen-AI: Artificial Intelligence and the Future of Work (IMF SDN 2024)](/wiki/imf-gen-ai-future-of-work/)
 - [Korinek & Stiglitz — AI, Innovator Rents and Non-Distortionary Redistribution](/wiki/korinek-stiglitz-ai-rents/)
+- [Carney — The Future of Work (Whitaker Lecture, 2018)](/wiki/carney-future-of-work/) — a central banker's synthesis of the same automation-inequality diagnosis, with the Engels' pause precedent
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - [Economic Rent](/wiki/economic-rent/)
 - [Korinek & Ng — digital superstars](/wiki/korinek-ng-digital-superstars/)

@@ -292,9 +292,13 @@ Ghost API state: 771 wiki posts published; next full sync adds guides/ + wave-21
       companion rows dropped). Forget/BC-panel/PBO/World-Bank pages kept — wired as evidence on
       rent-dividend claims and the universal-vs-targeted objection. Future waves apply the rule
       at triage (TIER-2 wave: skip UBI items without a rent/commons tie).
-- [ ] [READ&MINE] tier:T3 status:todo — **Loop wave N+1: Slack research candidates — TIER-2 ingestion.**
-      117 TIER-2 rows: cite from relevant concept/benefit pages where they add delta (delta rule;
-      most are Supplementary registry rows only — no research/ pages for news-adjacent items).
+- [~] [READ&MINE] tier:T3 status:in-progress — **Slack TIER-2 citation wave** (scope-filtered per
+      EDITORIAL UBI rule). Batch 1 done 2026-07-15 (SWF proposals landscape ×5, US LVT activity ×2 —
+      7 rows Referenced). Remaining ~100 rows: work through by target page, citing only where the
+      delta rule is satisfied and the rent/commons tie is real; skip pure-UBI and news-brief items
+      (registry rows suffice). Candidates parked as future research entries rather than citations:
+      PPI land-value-taxes-in-college-towns reports; the NYC 1920s new-building tax exemption
+      episode (morehousing post is navigation-tier — needs primary sources).
 - [ ] [PROBLEM-BUILD/OBJECTION] tier:T1 status:todo — **objections/ubi-targeting-efficiency gap** (flagged
       by all three UBI entries): no objection page covers "universal transfers are a costly way to cut
       poverty vs targeted" — BC panel + PBO entries are the ready evidence base, steelman from the

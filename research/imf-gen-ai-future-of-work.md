@@ -72,6 +72,7 @@ The note's empirical contribution to the geoist case is narrower and more indire
 - [Data Rents](/wiki/data-rents/)
 - [Korinek & Stiglitz — AI, Innovator Rents and Non-Distortionary Redistribution](/wiki/korinek-stiglitz-ai-rents/)
 - [Leduc & Liu — Automation, Bargaining Power, and Labor Market Fluctuations](/wiki/leduc-liu-automation-bargaining/) — the mechanism companion: the *threat* of automation suppresses wages even without deployment
+- [Carney — The Future of Work (Whitaker Lecture, 2018)](/wiki/carney-future-of-work/) — the historical base rate: Engels' pause as the precedent for technology-driven wage stagnation
 - [Objection: Taxing Quasi-Rents Kills Innovation](/wiki/taxing-quasi-rents-kills-innovation/)
 - [Citizen's Dividend](/wiki/citizens-dividend/)
 

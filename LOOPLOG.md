@@ -783,3 +783,28 @@ public-investment-capitalizes + CIB practitioner survey · quasi-rents objection
 source · fire-sector/financialization-of-land/land-value-tax/land-value-capture/denmark/
 citizens-dividend enriched. Commits: 4a2072b · b68d667 · cde4c89. 824 pages; lint 0 errors;
 0 orphans; registry 1,098 rows, 0 dead links.
+
+---
+
+## 2026-07-15b — Wave 31: TIER-1 lane closed out; UBI scope ruling applied (session udw74p, issue #24)
+
+Floyd's scope ruling landed mid-loop (UBI only with rent/commons tie — codified EDITORIAL §0):
+2 pure-UBI pages deleted on his instruction (namibia-big-pilot, de-schutter-poverty-beyond-growth;
+wiring unwound, Osterkamp companion rows dropped), 11 registry rows demoted, pure-UBI candidates
+struck from queues. Deploy attempted per Floyd's "commit/deploy" — blocked on the Ghost Admin key
+(op://Emma item not resolving; Floyd-side fix, everything push-complete for a credentialed sync).
+
+Wave 31 entries (2 Sonnet agents, T1 review): sway-lvt-wealth-taxes-review (Sam Wolstenholme-Britt
+for Reform Scotland — MSc-placement report, graded supplementary; NWT avoidance losses 44%+ vs the
+immobile land base, wired into lvt-not-enough-revenue Response) · london-group-land-balance-sheet
+(ABS statisticians on the land/structure valuation problem — wired into the larson/davis-larson
+land-measurement cluster) · walks-toronto-income-polarization (spatial-inequality context; honest
+flag: no land-rent claim in the source) · carney-future-of-work (venue corrected to the Whitaker
+Lecture, Dublin — the Slack context's "Toronto PPF" was wrong; Engels'-pause base rate for the AI
+lane). First TIER-2 citation batch under the scope rule: SWF proposal landscape (Sanders/Bores/
+CTF/IPPR×2) and US LVT legislative activity (Sightline WA, NY S7871) — 7 rows Referenced.
+
+TIER-1 lane from issue #24 is COMPLETE: all 74 rows in registry; 24 research entries + 1 objection
+page live; remainder registry-only by design or explicitly deferred (Fossum → books wave;
+Hope-Limberg → general-tax, out of the rent lane). Issue closed; TIER-2 citation long-tail
+continues in the normal loop. 826 pages; lint 0 errors.

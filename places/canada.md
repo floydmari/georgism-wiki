@@ -52,6 +52,7 @@ The closest modern descendant is British Columbia's **Speculation and Vacancy Ta
 - [Common Wealth Canada](/wiki/common-wealth-canada/)
 - [British Columbia](/wiki/british-columbia/)
 - [Vancouver](/wiki/vancouver/)
+- [Walks et al. — Income Inequality and Polarization in Toronto and York Region](/wiki/walks-toronto-income-polarization/)
 - [Natural Common Wealth and Economic Rent in Canada](/wiki/natural-common-wealth-economic-rent-canada/)
 - [Assessing the Distributional Impacts of a Land Value Tax](/wiki/cwc-distributional-impacts-lvt/)
 - [Land Value Tax](/wiki/land-value-tax/)
