@@ -1,8 +1,8 @@
 ---
 title: "Narrative: This Time Is Different (New Era Thinking)"
 category: narratives
-tags: [narratives, land-cycle, business-cycle, harrison, reinhart-rogoff, stub]
-stub: true
+tags: [narratives, land-cycle, business-cycle, harrison, reinhart-rogoff]
+stub: false
 excerpt: "The recurring claim that structural change has ended the old boom-bust pattern -- from Homer Hoyt's 1933 prediction his land cycle was 'only of interest to historians' to the broader 'this time is different' fallacy Reinhart and Rogoff document across eight centuries of financial crises."
 last_reviewed: 2026-07-12
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Tax Clawback"
 category: concepts
-tags: [concepts, tax-clawback, fred-harrison, atcor, land-value-tax, stub]
-stub: true
+tags: [concepts, tax-clawback, fred-harrison, atcor, land-value-tax]
+stub: false
 excerpt: "Fred Harrison's term (Ricardo's Law, 2006) for how landowners recover, and often exceed, their tax payments through untaxed land-value gains funded by public investment — making an apparently progressive tax system regressive in net effect."
 last_reviewed: 2026-07-11
 ---

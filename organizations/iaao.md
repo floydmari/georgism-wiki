@@ -1,10 +1,10 @@
 ---
 title: "International Association of Assessing Officers (IAAO)"
 category: organizations
-tags: [organizations, assessment, mass-appraisal, property-tax, standards, stub]
+tags: [organizations, assessment, mass-appraisal, property-tax, standards]
 url: https://www.iaao.org/
 founded: 1934
-stub: true
+stub: false
 excerpt: "The 1934-founded professional body that sets technical standards for property assessment and mass appraisal — the standards infrastructure Georgist sources cite when answering the 'land can't be assessed' objection."
 last_reviewed: 2026-07-11
 ---

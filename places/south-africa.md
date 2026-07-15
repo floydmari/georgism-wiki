@@ -1,8 +1,8 @@
 ---
 title: "South Africa"
 category: places
-tags: [places, south-africa, site-value-rating, katz-commission, municipal-property-tax, stub]
-stub: true
+tags: [places, south-africa, site-value-rating, katz-commission, municipal-property-tax]
+stub: false
 excerpt: "South Africa has one of the world's longest municipal site-value-rating histories, running from the Transvaal Local Authority Rates Ordinance through the 2004 Municipal Property Rates Act, and a post-apartheid Katz Commission inquiry (1998–99) that examined and ultimately did not lead to a national land tax."
 last_reviewed: 2026-07-12
 ---

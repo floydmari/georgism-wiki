@@ -8,7 +8,7 @@ excerpt: Hotelling's 1938 Econometrica paper argues decreasing-cost industries (
   logic.
 last_reviewed: 2026-07-11
 source_url: https://www.econometricsociety.org/publications/econometrica/1938/07/01/general-welfare-relation-problems-taxation-and-railway-and
-stub: true
+stub: false
 subcategory: wiki-research-housing
 tags:
 - research

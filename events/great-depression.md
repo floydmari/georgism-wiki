@@ -1,8 +1,8 @@
 ---
 title: "1929 Wall Street Crash and the Great Depression"
 category: events
-tags: [events, great-depression, 1929-crash, boom-bust-cycle, 18-year-land-cycle, land-speculation, stub]
-stub: true
+tags: [events, great-depression, 1929-crash, boom-bust-cycle, 18-year-land-cycle, land-speculation]
+stub: false
 excerpt: "The October 1929 Wall Street Crash and the decade-long depression that followed it, presented alongside the Georgist land-cycle reading that treats the US land-price peak of 1925–26 as the precursor event Harrison and Patel situate within the 18-year land cycle."
 last_reviewed: 2026-07-12
 ---

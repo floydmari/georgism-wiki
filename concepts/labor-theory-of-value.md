@@ -1,8 +1,8 @@
 ---
 title: "Labor Theory of Value"
 category: concepts
-tags: [concepts, labor-theory-of-value, classical-economics, marginalism, value-theory, stub]
-stub: true
+tags: [concepts, labor-theory-of-value, classical-economics, marginalism, value-theory]
+stub: false
 excerpt: "The classical doctrine that a good's value is governed by the labor required to produce it — the theory of Smith, Ricardo, and Marx that the marginal revolution displaced, and that Georgism's rent-based case does not depend on."
 last_reviewed: 2026-07-11
 ---

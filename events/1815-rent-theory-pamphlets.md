@@ -1,8 +1,8 @@
 ---
 title: "The 1815 Rent Theory Pamphlets"
 category: events
-tags: [events, ricardo, rent-theory, corn-laws, classical-economics, stub]
-stub: true
+tags: [events, ricardo, rent-theory, corn-laws, classical-economics]
+stub: false
 excerpt: "Within about three weeks in February 1815, Malthus, West, Torrens, and Ricardo each independently published a pamphlet setting out differential rent theory — the founding moment of classical rent theory and the direct ancestor of Ricardo's Law of Rent."
 last_reviewed: 2026-07-11
 ---

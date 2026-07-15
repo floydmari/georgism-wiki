@@ -2,7 +2,7 @@
 title: "Martin Adams"
 category: people
 tags: [people, adams, author, land-value-tax, economic-rent, land-speculation, progress-org, north-atlantic-books]
-stub: true
+stub: false
 excerpt: "Systems thinker, software engineer, and author of 'Land: A New Paradigm for a Thriving World' (North Atlantic Books, 2015), a Creative Commons–licensed popular introduction to Georgist economics. Contributor and editor at Progress.org."
 last_reviewed: 2026-07-10
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Alan Greenspan"
 category: people
-tags: [people, alan-greenspan, federal-reserve, monetary-policy, boom-bust-cycle, stub]
-stub: true
+tags: [people, alan-greenspan, federal-reserve, monetary-policy, boom-bust-cycle]
+stub: false
 born: "March 6, 1926, New York City"
 died: "June 22, 2026, Washington, D.C."
 excerpt: "Chairman of the US Federal Reserve, 1987-2006, whose tenure spanned the dot-com and housing bubbles; a central figure in the Georgist critique that monetary policy alone cannot manage land-driven boom-bust cycles."

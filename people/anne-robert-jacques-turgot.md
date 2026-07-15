@@ -1,8 +1,8 @@
 ---
 title: "Anne Robert Jacques Turgot"
 category: people
-tags: [people, turgot, physiocrats, classical-economics, france, stub]
-stub: true
+tags: [people, turgot, physiocrats, classical-economics, france]
+stub: false
 born: 1727
 died: 1781
 excerpt: "French statesman and physiocrat-aligned economist (1727–1781) whose Reflections on the Formation and Distribution of Wealth (1770) developed Quesnay's theory that land is the sole source of net product, a decade before Adam Smith."

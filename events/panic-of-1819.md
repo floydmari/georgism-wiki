@@ -1,8 +1,8 @@
 ---
 title: "Land Boom of 1818 and Panic of 1819"
 category: events
-tags: [events, panic-of-1819, land-speculation, boom-bust-cycle, 18-year-land-cycle, rothbard, stub]
-stub: true
+tags: [events, panic-of-1819, land-speculation, boom-bust-cycle, 18-year-land-cycle, rothbard]
+stub: false
 excerpt: "A postwar cotton-and-public-land speculative boom collapsed when the Second Bank of the United States curtailed credit in 1818, triggering the Panic of 1819 — America's first widespread financial crisis and the earliest node in the Georgist 18-year land-cycle chronology."
 last_reviewed: 2026-07-12
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Silicon Valley"
 category: places
-tags: [places, stub, silicon-valley, land-speculation, boom-bust-cycle, dot-com, ip-rents, agglomeration-economies]
-stub: true
+tags: [places, silicon-valley, land-speculation, boom-bust-cycle, dot-com, ip-rents, agglomeration-economies]
+stub: false
 excerpt: "The dot-com era's epicentre, and Fred Harrison's case study for the claim that 'New Economy' technology gains were substantially absorbed as land rent rather than passed on as broad prosperity."
 last_reviewed: 2026-07-11
 ---

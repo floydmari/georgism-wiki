@@ -1,10 +1,10 @@
 ---
 title: "John R. Commons"
 category: people
-tags: [people, institutional-economics, wisconsin, single-tax, georgist-economists, corruption-of-economics, stub]
+tags: [people, institutional-economics, wisconsin, single-tax, georgist-economists, corruption-of-economics]
 born: 1862
 died: 1945
-stub: true
+stub: false
 excerpt: "American institutional economist (1862–1945) at the University of Wisconsin who called himself a Georgist, drafted a state land-value tax bill, and estimated that roughly 95% of American millionaire fortunes traced to land and franchise values."
 last_reviewed: 2026-07-12
 ---

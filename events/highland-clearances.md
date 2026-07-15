@@ -1,8 +1,8 @@
 ---
 title: "Scottish Highland Clearances (c. 1750–1860)"
 category: events
-tags: [events, scotland, land-monopoly, enclosure, evictions, 19th-century, stub]
-stub: true
+tags: [events, scotland, land-monopoly, enclosure, evictions, 19th-century]
+stub: false
 excerpt: "Forced evictions of tenant farmers across the Scottish Highlands and Islands, c. 1750-1860, as lairds replaced traditional tenant communities with large-scale sheep farms — including the notorious Sutherland Clearances directed by Patrick Sellar, tried and acquitted of culpable homicide in 1816."
 last_reviewed: 2026-07-12
 ---

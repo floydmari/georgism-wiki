@@ -2,12 +2,12 @@
 title: "Kindleberger & Aliber: Manias, Panics, and Crashes"
 category: research
 subcategory: wiki-research-georgism
-tags: [research, financial-crises, bubbles, minsky, boom-bust-cycle, stub]
+tags: [research, financial-crises, bubbles, minsky, boom-bust-cycle]
 authors: [Charles P. Kindleberger, Robert Z. Aliber]
 year: 1978
 tier: Important
 source_url: https://archive.org/details/maniaspanicscras0000kind
-stub: true
+stub: false
 excerpt: "The standard mainstream taxonomy of financial bubbles — displacement, credit-fuelled boom, euphoria, distress, and revulsion — built on Hyman Minsky's financial instability hypothesis; the canonical non-Georgist framework this wiki's land-cycle pages implicitly draw on but rarely cite directly."
 last_reviewed: 2026-07-12
 ---

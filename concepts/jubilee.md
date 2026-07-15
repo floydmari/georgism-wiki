@@ -1,8 +1,8 @@
 ---
 title: "Jubilee"
 category: concepts
-tags: [concepts, jubilee, land-as-commons, land-rights, religion, hebrew-bible, redistribution, debt, stub]
-stub: true
+tags: [concepts, jubilee, land-as-commons, land-rights, religion, hebrew-bible, redistribution, debt]
+stub: false
 excerpt: "The biblical institution of Leviticus 25: every fiftieth year, agricultural land reverted to its original family holders and Hebrew debt-bondservants went free — a periodic redistribution premised on the principle that the land belongs to God and 'shall not be sold for ever.' Invoked in the Georgist tradition as a scriptural precedent for treating land as common and inalienable."
 last_reviewed: 2026-07-09
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Skyscraper Index"
 category: concepts
-tags: [concepts, skyscraper-index, 18-year-land-cycle, boom-bust-cycle, land-speculation, stub]
-stub: true
+tags: [concepts, skyscraper-index, 18-year-land-cycle, boom-bust-cycle, land-speculation]
+stub: false
 excerpt: "The observation that record-breaking tall buildings tend to be launched near credit-fueled land-price peaks and complete around the following downturn — cited by land-cycle writers as a speculation indicator, though formal statistical tests find no reliable predictive relationship."
 last_reviewed: 2026-07-12
 ---

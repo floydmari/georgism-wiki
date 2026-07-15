@@ -1,8 +1,8 @@
 ---
 title: "Philip Wicksteed"
 category: people
-tags: [people, philip-wicksteed, marginal-productivity, fabian, neoclassical-economics, stub]
-stub: true
+tags: [people, philip-wicksteed, marginal-productivity, fabian, neoclassical-economics]
+stub: false
 excerpt: "Unitarian minister turned economist (1844–1927) who was converted to economics by reading Progress and Poverty, formalized marginal productivity theory — and carried George's land politics into the Fabian Society, making him the bridge between Georgism and both neoclassical theory and British socialism."
 last_reviewed: 2026-07-06
 ---

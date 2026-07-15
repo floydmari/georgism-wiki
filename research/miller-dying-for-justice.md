@@ -2,12 +2,12 @@
 title: "Miller: Dying for Justice"
 category: research
 subcategory: wiki-research-lvt
-tags: [research, health-inequality, mortality, taxation, george-miller, stub]
+tags: [research, health-inequality, mortality, taxation, george-miller]
 authors: [George J. Miller]
 year: 1999
 tier: Supplementary
 source_url: https://www.abebooks.co.uk/9781901202045/Dying-Justice-George-J-Miller-1901202046/plp
-stub: true
+stub: false
 excerpt: "A health-inequality study by epidemiologist George J. Miller that Fred Harrison cites as calculating roughly 50,000 premature deaths a year in England and Wales linked to tax-induced inequality — the strongest quantified mortality claim in the Georgist literature."
 last_reviewed: 2026-07-12
 ---

@@ -2,12 +2,12 @@
 title: "Buettner (2003): Tiebout Visits Germany — Land Tax Capitalization in a Sample of German Municipalities"
 category: research
 subcategory: wiki-research-finance
-tags: [research, tax-capitalization, land-value-tax, germany, incidence, stub]
+tags: [research, tax-capitalization, land-value-tax, germany, incidence]
 authors: [Thiess Buettner]
 year: 2003
 tier: Important
 source_url: https://www.economicpossibility.org/sources/tiebout-visits-germany-land-tax-capitalization-in-a-sample-of-german-municipaliti
-stub: true
+stub: false
 supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 excerpt: "Buettner's 2003 study of German municipalities finds that local land tax rates capitalize fully into land prices while leaving monthly rents unaffected — Tiebout-style empirical evidence for the standard incidence prediction of land value taxation."
 last_reviewed: 2026-07-12

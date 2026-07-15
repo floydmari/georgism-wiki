@@ -1,8 +1,8 @@
 ---
 title: "Common Agricultural Policy (CAP)"
 category: concepts
-tags: [concepts, agriculture, subsidies, capitalization, european-union, stub]
-stub: true
+tags: [concepts, agriculture, subsidies, capitalization, european-union]
+stub: false
 excerpt: "The EU's largest budget program pays farmers largely by land area — and a body of European Commission data and academic research finds much of that spending capitalizes into land rents and prices rather than farm income."
 last_reviewed: 2026-07-12
 ---

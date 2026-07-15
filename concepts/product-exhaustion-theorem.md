@@ -1,8 +1,8 @@
 ---
 title: "Product Exhaustion Theorem"
 category: concepts
-tags: [concepts, product-exhaustion-theorem, marginal-productivity, henry-george-theorem, history-of-economics, stub]
-stub: true
+tags: [concepts, product-exhaustion-theorem, marginal-productivity, henry-george-theorem, history-of-economics]
+stub: false
 excerpt: "The proof that, under constant returns to scale, paying every factor its marginal product exactly exhausts total output with no residual — Wicksteed's 1894 theorem, later tied to Euler's theorem and to the Henry George Theorem's rent-as-residual logic."
 last_reviewed: 2026-07-12
 ---

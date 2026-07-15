@@ -1,8 +1,8 @@
 ---
 title: "Asset Stripping and Hidden Corporate Land Value"
 category: concepts
-tags: [concepts, asset-stripping, corporate-land, hidden-value, land-monopoly, stub]
-stub: true
+tags: [concepts, asset-stripping, corporate-land, hidden-value, land-monopoly]
+stub: false
 excerpt: "Buying a public company below the market value of its landholdings, then breaking it up and selling the land, exposes how corporate balance sheets and share prices routinely understate — or fail to price at all — the land rent a firm sits on."
 last_reviewed: 2026-07-11
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Stationary State"
 category: concepts
-tags: [concepts, classical-economics, ricardo, mill, rent-theory, stub]
-stub: true
+tags: [concepts, classical-economics, ricardo, mill, rent-theory]
+stub: false
 excerpt: "The classical prediction, from Ricardo through Mill, that diminishing returns to land eventually drive profits and wages toward a bare minimum while rent absorbs the surplus of growth, ending economic expansion in a 'stationary state.'"
 last_reviewed: 2026-07-12
 ---

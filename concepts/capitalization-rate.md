@@ -1,8 +1,8 @@
 ---
 title: "Capitalization Rate"
 category: concepts
-tags: [concepts, capitalization-rate, land-value, revenue-estimates, stub]
-stub: true
+tags: [concepts, capitalization-rate, land-value, revenue-estimates]
+stub: false
 excerpt: "The ratio (net annual income ÷ asset price) used to convert a land selling-value estimate into an annual rental-income estimate, or vice versa — the stock-to-flow conversion every LVT revenue projection depends on."
 last_reviewed: 2026-07-12
 ---

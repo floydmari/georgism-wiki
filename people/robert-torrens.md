@@ -1,8 +1,8 @@
 ---
 title: "Robert Torrens"
 category: people
-tags: [people, robert-torrens, classical-economics, rent-theory, corn-laws, stub]
-stub: true
+tags: [people, robert-torrens, classical-economics, rent-theory, corn-laws]
+stub: false
 born: 1780
 died: 1864
 excerpt: "Anglo-Irish soldier, MP, and political economist who in 1815 independently published one of four near-simultaneous pamphlets founding the classical theory of differential rent, alongside Malthus, West, and Ricardo."

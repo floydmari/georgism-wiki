@@ -1,9 +1,9 @@
 ---
 title: "Meiji Land Tax Reform (1873)"
 category: events
-tags: [events, japan, land-tax, meiji-japan, history, stub]
+tags: [events, japan, land-tax, meiji-japan, history]
 year: 1873
-stub: true
+stub: false
 excerpt: "Japan's 1873 chisokaisei reform replaced in-kind harvest taxes with a uniform cash tax on assessed land value, giving the Meiji state a stable revenue base widely credited with financing early industrialization."
 last_reviewed: 2026-07-12
 ---

@@ -3,7 +3,7 @@ title: "Land Boom of 1888 and Panic of 1893"
 category: events
 tags: [events, panic-of-1893, land-speculation, boom-bust-cycle, 18-year-land-cycle, oklahoma-land-rush, frontier-thesis]
 year: 1893
-stub: true
+stub: false
 excerpt: "Oklahoma land-rush speculation and silver-standard fears culminated in the Panic of 1893, the worst US depression to that date — coinciding with Frederick Jackson Turner's announcement that the frontier had closed."
 last_reviewed: 2026-07-12
 ---

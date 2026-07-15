@@ -8,7 +8,7 @@ excerpt: Australia's official 2004 government inquiry into first-home affordabil
   demand late in the cycle.
 last_reviewed: 2026-07-11
 source_url: https://assets.pc.gov.au/inquiries/completed/first-home-ownership/report/housing.pdf
-stub: true
+stub: false
 subcategory: wiki-research-lvt
 tags:
 - research

@@ -10,7 +10,7 @@ excerpt: In Victoria, Australia, 27 municipalities rating only site value saw 12
   land rather than buildings encourages construction.
 last_reviewed: 2026-07-11
 source_url: https://osf.io/download/5ddb67506fc7690009d6cfe7/
-stub: true
+stub: false
 subcategory: wiki-research-resources
 supports_outcomes:
 - split-rate-increases-construction

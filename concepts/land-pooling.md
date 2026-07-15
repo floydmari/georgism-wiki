@@ -1,8 +1,8 @@
 ---
 title: "Land Pooling / Readjustment"
 category: concepts
-tags: [concepts, land-pooling, land-readjustment, land-value-capture, urban-planning, india, stub]
-stub: true
+tags: [concepts, land-pooling, land-readjustment, land-value-capture, urban-planning, india]
+stub: false
 excerpt: "A planning mechanism, widely used across Asia and Germany, in which landowners' parcels are pooled, serviced with infrastructure, reconstituted into smaller plots, and returned — with the state recovering costs from a betterment charge or reserved land sales."
 last_reviewed: 2026-07-12
 ---

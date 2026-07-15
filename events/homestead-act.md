@@ -1,8 +1,8 @@
 ---
 title: "Homestead Act (1862)"
 category: events
-tags: [events, united-states, land-policy, public-land, 19th-century, stub]
-stub: true
+tags: [events, united-states, land-policy, public-land, 19th-century]
+stub: false
 excerpt: "Signed by Lincoln on May 20, 1862, the act granted 160 acres of surveyed public land to settlers who lived on and improved it for five years — the defining US free-land policy and a recurring reference point in land-cycle history."
 last_reviewed: 2026-07-11
 ---

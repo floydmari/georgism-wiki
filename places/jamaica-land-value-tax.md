@@ -2,7 +2,7 @@
 title: "Jamaica's Land Value Taxation (1957-1974)"
 category: places
 tags: [places, jamaica, land-value-tax, caribbean, unimproved-value, case-study]
-stub: true
+stub: false
 excerpt: "Jamaica converted its property tax base from capital value to unimproved land value in 1957, extending the system nationwide with a 1974 revaluation; site values reportedly fell sharply, though coverage was reduced by agricultural and hotel exemptions."
 last_reviewed: 2026-07-11
 ---

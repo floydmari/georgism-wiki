@@ -1,8 +1,8 @@
 ---
 title: "Harry Gunnison Brown"
 category: people
-tags: [people, georgism, land-value-tax, economics, stub]
-stub: true
+tags: [people, georgism, land-value-tax, economics]
+stub: false
 born: 1880
 died: 1975
 excerpt: "American economist (1880–1975) who argued for land value taxation from inside orthodox neoclassical economics for over five decades at Yale and the University of Missouri, drawing praise from Paul Samuelson as one of a handful of 'American saints in economics.'"

@@ -1,9 +1,9 @@
 ---
 title: "Henry George Foundation of Canada"
 category: organizations
-tags: [organizations, canada, economic-rent, land-value-tax, education, advocacy, stub]
+tags: [organizations, canada, economic-rent, land-value-tax, education, advocacy]
 url: https://earthsharing.ca/
-stub: true
+stub: false
 excerpt: "Ottawa-based Canadian Georgist organization (online as earthsharing.ca), part of the international network popularizing Henry George's economics. Its plain-language economic-rent article and its proposed 24% mining-royalty rate are both cited in Common Wealth Canada's Natural Common Wealth paper."
 last_reviewed: 2026-07-12
 ---

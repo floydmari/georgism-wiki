@@ -1,8 +1,8 @@
 ---
 title: "Russia and the Post-Soviet Rent Opportunity"
 category: places
-tags: [places, russia, soviet-transition, land-rent, natural-resource-rent, oligarchs, shock-therapy, dmitry-lvov, stub]
-stub: true
+tags: [places, russia, soviet-transition, land-rent, natural-resource-rent, oligarchs, shock-therapy, dmitry-lvov]
+stub: false
 excerpt: "In the 1990s, economist Dmitry Lvov proposed funding post-Soviet Russia from land and natural-resource rent instead of privatizing it; Yeltsin's government chose voucher privatization and the 1995 loans-for-shares scheme instead, creating Russia's oligarch class."
 last_reviewed: 2026-07-12
 ---

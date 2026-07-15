@@ -2,12 +2,12 @@
 title: "Myerson & Satterthwaite (1983): Efficient Mechanisms for Bilateral Trading"
 category: research
 subcategory: wiki-research-lvt
-tags: [research, mechanism-design, bargaining, coase-theorem, holdout-problem, stub]
+tags: [research, mechanism-design, bargaining, coase-theorem, holdout-problem]
 authors: [Roger B. Myerson, Mark A. Satterthwaite]
 year: 1983
 tier: Important
 source_url: https://www.cs.princeton.edu/courses/archive/spr10/cos444/papers/myerson_satterthwaite83.pdf
-stub: true
+stub: false
 excerpt: "A mechanism-design paper showing no bargaining mechanism between a buyer and seller with private valuations can generally be simultaneously efficient, incentive-compatible, individually rational, and subsidy-free — cited against Coasean solutions to land assembly and holdout problems."
 last_reviewed: 2026-07-14
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Telosa (Marc Lore's Proposed City)"
 category: places
-tags: [places, telosa, marc-lore, equitism, land-value-capture, new-cities, stub]
-stub: true
+tags: [places, telosa, marc-lore, equitism, land-value-capture, new-cities]
+stub: false
 excerpt: "A proposed planned city in the American desert, announced by billionaire Marc Lore in 2021, whose land ownership model — 'Equitism' — is explicitly based on Henry George's proposal that a community endowment, not private landowners, should hold and capture the appreciating value of land."
 last_reviewed: 2026-07-11
 ---

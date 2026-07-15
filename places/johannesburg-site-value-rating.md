@@ -1,8 +1,8 @@
 ---
 title: "Johannesburg Site Value Rating"
 category: places
-tags: [places, south-africa, site-value-rating, johannesburg, land-assessment, stub]
-stub: true
+tags: [places, south-africa, site-value-rating, johannesburg, land-assessment]
+stub: false
 excerpt: "Johannesburg taxed land value alone from around 1918-1919, one of the world's longest-running site-value-rating systems, cited by Fred Harrison as evidence against the claim that isolating land value is impossible — until South Africa's 2004 Municipal Property Rates Act shifted the country to a combined land-and-buildings base."
 last_reviewed: 2026-07-12
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Abolition of Feudal Tenures (1660)"
 category: events
-tags: [events, england, feudalism, tax-history, excise, ricardos-law, stub]
-stub: true
+tags: [events, england, feudalism, tax-history, excise, ricardos-law]
+stub: false
 excerpt: "England's Tenures Abolition Act 1660 ended feudal military tenure and the Crown's land-based revenues, replacing them with a new excise tax on the general public — the moment, per Fred Harrison, that England's landed rents were effectively privatised."
 last_reviewed: 2026-07-11
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Bank Money Creation"
 category: concepts
-tags: [concepts, banking, credit, money-supply, mortgage, finance, land, stub]
-stub: true
+tags: [concepts, banking, credit, money-supply, mortgage, finance, land]
+stub: false
 excerpt: "Most of the money supply in modern economies is created not by central banks but by commercial banks, as a byproduct of lending — and that lending is disproportionately secured against real estate, tying money creation directly to land value."
 last_reviewed: 2026-07-11
 ---

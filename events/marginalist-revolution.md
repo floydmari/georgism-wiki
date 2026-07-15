@@ -1,8 +1,8 @@
 ---
 title: "The Marginalist Revolution (1871-74)"
 category: events
-tags: [events, history-of-economics, marginalism, neoclassical-economics, jevons, menger, walras, stub]
-stub: true
+tags: [events, history-of-economics, marginalism, neoclassical-economics, jevons, menger, walras]
+stub: false
 excerpt: "The near-simultaneous 1871-74 works of Jevons, Menger, and Walras that founded neoclassical economics — and, in the standard historical account, dissolved land's status as a distinct factor of production with its own theory of rent."
 last_reviewed: 2026-07-11
 ---

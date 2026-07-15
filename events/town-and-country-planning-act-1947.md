@@ -1,8 +1,8 @@
 ---
 title: "Town and Country Planning Act 1947"
 category: events
-tags: [events, uk, betterment, development-charge, land-value-capture, planning, stub]
-stub: true
+tags: [events, uk, betterment, development-charge, land-value-capture, planning]
+stub: false
 excerpt: "The UK statute that nationalized development rights and levied a 100% development charge on planning-permission value uplift — the most ambitious betterment-capture scheme ever legislated in Britain, and a cautionary design case: the 100% rate froze land supply and the charge was repealed within years."
 last_reviewed: 2026-07-06
 ---

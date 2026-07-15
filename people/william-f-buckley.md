@@ -1,8 +1,8 @@
 ---
 title: "William F. Buckley Jr."
 category: people
-tags: [people, conservatism, single-tax, cross-ideological, stub]
-stub: true
+tags: [people, conservatism, single-tax, cross-ideological]
+stub: false
 born: "November 24, 1925, New York City, United States"
 died: "February 27, 2008, Stamford, Connecticut, United States"
 excerpt: "Founder of National Review and the leading voice of postwar American conservatism, who repeatedly identified himself as a Georgist and defended Henry George's single tax on air, including in a widely-cited 2000 C-SPAN interview."

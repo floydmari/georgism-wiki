@@ -1,8 +1,8 @@
 ---
 title: "Property-Owning Democracy"
 category: concepts
-tags: [concepts, homeownership, political-economy, rethinking, homevoter, stub]
-stub: true
+tags: [concepts, homeownership, political-economy, rethinking, homevoter]
+stub: false
 excerpt: "A political ideal of spreading property ownership widely across society, coined by British Conservatives in the 1920s and later adopted by John Rawls — the aspiration behind mass-homeownership policy that helped create the homevoter bloc opposed to land value taxation."
 last_reviewed: 2026-07-12
 ---

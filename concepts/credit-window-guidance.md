@@ -1,8 +1,8 @@
 ---
 title: "Credit Window Guidance"
 category: concepts
-tags: [concepts, central-banking, credit-allocation, japan, korea, taiwan, land-speculation, stub]
-stub: true
+tags: [concepts, central-banking, credit-allocation, japan, korea, taiwan, land-speculation]
+stub: false
 excerpt: "An informal central-bank tool directing the volume and sector of bank lending — used by Japan, Korea, and Taiwan to steer credit toward production and, at times, away from land speculation."
 last_reviewed: 2026-07-11
 ---

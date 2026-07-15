@@ -1,8 +1,8 @@
 ---
 title: "Ireland"
 category: places
-tags: [places, stub, ireland, celtic-tiger, land-bubble, eurozone, land-value-tax]
-stub: true
+tags: [places, ireland, celtic-tiger, land-bubble, eurozone, land-value-tax]
+stub: false
 excerpt: "Ireland's Celtic Tiger boom capitalised EU funding and cheap eurozone credit into land prices; the 2007-2010 crash produced one of Europe's steepest house-price declines and thousands of unfinished 'ghost estates,' reviving debate over a site value tax."
 last_reviewed: 2026-07-11
 ---

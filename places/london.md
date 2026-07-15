@@ -2,7 +2,7 @@
 title: "London"
 category: places
 tags: [places, london, uk, land-value-capture, infrastructure, crossrail, jubilee-line]
-stub: true
+stub: false
 excerpt: "London is the UK's clearest case study in publicly created land value: major transit projects like the Jubilee Line Extension and Crossrail have generated tens of billions of pounds in largely uncaptured land value uplift."
 last_reviewed: 2026-07-11
 ---
