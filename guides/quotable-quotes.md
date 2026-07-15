@@ -61,7 +61,7 @@ This is the killer set: figures who agree on land value taxation *across* the po
 **Joseph Stiglitz** — Nobel laureate — formalized the **Henry George Theorem**: in an optimally sized city, the aggregate land rent exactly equals the spending on public goods — so land rent is the natural, efficient tax base for financing them. *(His result; paraphrase.)*
 → [Joseph Stiglitz](/wiki/joseph-stiglitz/) · [Henry George Theorem](/wiki/henry-george-theorem/)
 
-**William Vickrey** — Nobel laureate — argued the property tax is really two taxes: the tax on land value is among the best of all taxes, and the tax on buildings among the worst — so shift the weight onto land. *(His position; paraphrase.)*
+**William Vickrey** — Nobel laureate — argued the property tax is really two taxes: the tax on land value ranks among the best taxes there is, and the tax on buildings among the worst — so shift the weight onto land. *(His position; paraphrase.)*
 → [William Vickrey](/wiki/william-vickrey/)
 
 **Leo Tolstoy** — from the other pole entirely — became one of George's most fervent advocates, promoting the single tax as the remedy for the injustice of land ownership. *(Endorsement on record; paraphrase.)*
@@ -72,7 +72,7 @@ This is the killer set: figures who agree on land value taxation *across* the po
 - **Called fringe?** Pair Friedman and Tolstoy — "the free-market Nobel case and the Tolstoyan moral case land in the same place."
 - **Told it's anti-property?** Use Smith and Mill — the founders of the discipline drew the earned/unearned line first.
 - **Told it's utopian?** Churchill *legislated* it (the 1909 land duties), and Stiglitz and Vickrey put a Nobel-grade theorem under it.
-- Always follow the link and name the primary source; a quote you can source is a quote that survives a fact-check.
+- Follow the link and name the primary source; a quote you can source is a quote that survives a fact-check.
 
 ---
 
