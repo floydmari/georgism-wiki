@@ -808,3 +808,17 @@ TIER-1 lane from issue #24 is COMPLETE: all 74 rows in registry; 24 research ent
 page live; remainder registry-only by design or explicitly deferred (Fossum → books wave;
 Hope-Limberg → general-tax, out of the rent lane). Issue closed; TIER-2 citation long-tail
 continues in the normal loop. 826 pages; lint 0 errors.
+
+---
+
+## 2026-07-15c — Post-#24 loop: TIER-2 citations batch 2 + college-town LVT entry (session udw74p)
+
+Scope-filtered TIER-2 continuation: places/south-korea gains a Contemporary Georgist Politics
+section (Lee Jae-myung's land-dividend record + BIEN Korea's common-wealth-rent framing — Kang
+PDF URL was truncated in the harvest and flagged [VERIFY], not guessed); NEF What Lies Beneath
+cited on financialization-of-land; Equal Right's AI-commons framing added to the SWF proposal
+landscape. New entry: miller-hoskins-college-town-lvt (South Bend 4:1 + Princeton ~3:1 parcel
+simulations, advocacy-graded; both report PDFs read — Princeton found at its moved URL; the
+advocates' own homestead numbers wired into the asset-rich-cash-poor objection's steelman).
+Commits fe0c8d8 · 5edd217. 827 pages; lint 0 errors; registry 1,098 rows. Next iteration:
+TIER-2 remainder by target page, then BACKLOG NOW lanes.
