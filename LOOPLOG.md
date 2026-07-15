@@ -888,3 +888,22 @@ City" — with the complete report PDF located (queued as a deepen-scan candidat
 exemption page); Gaffney's NYC paper repointed to its stable UCR PDF. Osterkamp verification
 mooted by the namibia page deletion. Also: loop-diagram synced with the new claim-lane step
 (LOOP.md sync-rule debt). Lint 0 errors; 828 pages.
+
+---
+
+## 2026-07-15e — Deepen-scan: CHPC 1960 report read in full (218pp OCR), NYC exemption page corrected
+
+The 1960 documentary study (Schalkenbach-funded, Rybeck preface — provenance now stated on-page)
+yielded five corrections to the wave-32 entry: the Feb 15 (Aldermen) vs Feb 25 (Board of
+Estimate) ordinance dates were conflated; the "1921–1931" framing described the exemption tail,
+not the four-year operative window (commencement deadline April 1, 1925); the June 1923
+$15,000/building multifamily cap-tightening was missing (and was followed by no construction
+decline — a marginal-incentive complication now carried); the >760k/22% decade figures were
+about to be misattributed to the 1960 report (they are the 2024 note's — source split); and the
+"Al Smith Law" label is simplified (Lockwood Committee drafted it). Added: CHRP 1924/1925
+verdict pair ("principal factor in breaking deadlock" / "as a means of getting cheaper homes...
+almost useless"), 283,600 net units 1920–25, vacancy 0.15%→2.23%, rents +40–93%, $916.5M
+cumulative exempt value, the speculator-capture finding, the Rickert Manhattan-vs-Queens cap
+arithmetic, gross-vs-net (167,375 built vs 13,182 net), and the land-revenue mechanism
+(assessed valuation +$1.15B over 1922). Registry: 1960 report Scanned/Heavy; 2024 note split
+into its own Referenced row. 828 pages; lint 0 errors.
