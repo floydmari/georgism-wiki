@@ -2,12 +2,12 @@
 title: "On Fairness and Efficiency (George Miller, 2000)"
 category: research
 subcategory: wiki-research-housing
-tags: [research, health-inequality, 18-year-land-cycle, rent-privatization, stub]
+tags: [research, health-inequality, 18-year-land-cycle, rent-privatization]
 authors: [George Miller]
 year: 2000
 tier: Supplementary
 source_url: https://archive.org/details/onfairnesseffici0000mill
-stub: true
+stub: false
 excerpt: "George Miller's 2000 Policy Press book arguing that the privatisation of publicly-created income — chiefly land rent — over the past millennium underlies class gradients in health and life expectancy; cited by Fred Harrison and now located and bibliographically verified."
 last_reviewed: 2026-07-12
 supports_outcomes: []

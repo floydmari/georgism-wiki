@@ -2,7 +2,7 @@
 title: "Alvin Saunders Johnson"
 category: people
 tags: [people, alvin-johnson, new-school, single-tax-critics, natural-capital, history-of-economics, henry-george]
-stub: true
+stub: false
 born: 1874
 died: 1971
 excerpt: "American economist (1874–1971), co-founder and first director of the New School for Social Research, and a serious academic critic of the single tax — his 1914 Atlantic Monthly essay The Case Against the Single Tax was among the era's most-cited scholarly rebuttals of Henry George's program."

@@ -1,8 +1,8 @@
 ---
 title: "Monopsony"
 category: concepts
-tags: [concepts, monopsony, labor-market, market-power, rent-gradient, stub]
-stub: true
+tags: [concepts, monopsony, labor-market, market-power, rent-gradient]
+stub: false
 excerpt: "Buyer-side market power — most commonly an employer's power to hold wages below the competitive level — that lets firms extract a rent from workers, extending rent analysis from sellers (land, monopoly) to a channel on the buying side of a market."
 last_reviewed: 2026-07-11
 ---

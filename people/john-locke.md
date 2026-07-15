@@ -1,8 +1,8 @@
 ---
 title: "John Locke"
 category: people
-tags: [people, john-locke, property-theory, natural-rights, lockean-proviso, stub]
-stub: true
+tags: [people, john-locke, property-theory, natural-rights, lockean-proviso]
+stub: false
 excerpt: "The philosopher (1632–1704) whose labor theory of property — and its famous proviso that appropriation leave 'enough, and as good' for others — frames the moral debate over land ownership that Georgism inherits: property in what you make, conditional claims on what nobody made."
 last_reviewed: 2026-07-06
 ---

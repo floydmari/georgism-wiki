@@ -1,8 +1,8 @@
 ---
 title: "George Monbiot"
 category: people
-tags: [people, george-monbiot, land-reform, united-kingdom, journalism, environment, stub]
-stub: true
+tags: [people, george-monbiot, land-reform, united-kingdom, journalism, environment]
+stub: false
 excerpt: "Guardian columnist and environmental writer (Orwell Prize for Journalism, 2022) who carries the land question to a mainstream UK audience: a 2013 column reviving Churchill's case for land value taxation, editor of the Labour-commissioned land-reform report Land for the Many (2019), and the 2020 Schumacher Lecture 'Private Sufficiency, Public Luxury.'"
 last_reviewed: 2026-07-06
 ---

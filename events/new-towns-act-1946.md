@@ -1,8 +1,8 @@
 ---
 title: "New Towns Act 1946"
 category: events
-tags: [events, united-kingdom, land-value-capture, land-value-tax, 20th-century, stub]
-stub: true
+tags: [events, united-kingdom, land-value-capture, land-value-tax, 20th-century]
+stub: false
 excerpt: "UK legislation (9 & 10 Geo. 6 c. 68) that let development corporations buy land for new towns at agricultural-use prices, then capture the planning-driven uplift by selling developed sites -- one of the largest real-world land value capture programs on record."
 last_reviewed: 2026-07-12
 ---

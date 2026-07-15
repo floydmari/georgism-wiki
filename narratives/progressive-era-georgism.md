@@ -1,8 +1,8 @@
 ---
 title: "Georgism Ran the Progressive Era"
 category: narratives
-tags: [narratives, historical-argument, gaffney, progressive-era, single-tax, stub]
-stub: true
+tags: [narratives, historical-argument, gaffney, progressive-era, single-tax]
+stub: false
 excerpt: "Gaffney's claim that a modified Georgism 'helped run the USA' for seventeen years (1902-19) through both major parties — a historiographical argument, attributed, about the single-tax movement's reach into Progressive Era politics."
 last_reviewed: 2026-07-11
 ---

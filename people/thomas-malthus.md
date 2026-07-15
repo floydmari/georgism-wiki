@@ -1,8 +1,8 @@
 ---
 title: "Thomas Robert Malthus"
 category: people
-tags: [people, stub, malthus, population, rent-theory, classical-economics]
-stub: true
+tags: [people, malthus, population, rent-theory, classical-economics]
+stub: false
 born: 1766
 died: 1834
 excerpt: "English cleric-economist (1766–1834) whose 1798 population theory Henry George devoted Book II of Progress and Poverty to refuting, and who — independently of Ricardo — co-discovered the differential theory of rent in an 1815 pamphlet."

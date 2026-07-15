@@ -8,7 +8,7 @@ excerpt: Vickrey's 1961 Journal of Finance paper founded modern auction theory, 
   Radical Markets draws on.
 last_reviewed: 2026-07-14
 source_url: https://doi.org/10.1111/j.1540-6261.1961.tb02789.x
-stub: true
+stub: false
 subcategory: wiki-research-housing
 tags:
 - research
