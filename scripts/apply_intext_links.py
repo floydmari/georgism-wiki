@@ -82,7 +82,7 @@ def try_link_phrase(node, phrase, slug, parent_type="root"):
     for i, ch in enumerate(kids):
         if (isinstance(ch, dict) and ch.get("type") in TEXT_TYPES
                 and ch.get("mode", "normal") == "normal"
-                and ntype == "paragraph"):
+                and ntype in ("paragraph", "listitem")):
             text = ch.get("text") or ""
             j = text.find(phrase)
             if j >= 0:
@@ -112,10 +112,13 @@ def try_link_phrase_mobiledoc(doc, phrase, slug):
     sections, and never touch cards/atoms — the closes count moves to the last
     piece so any enclosing markup still closes in the right place."""
     markups = doc.setdefault("markups", [])
+    marker_lists = []
     for sec in doc.get("sections", []):
-        if not (isinstance(sec, list) and len(sec) >= 3 and sec[0] == 1 and sec[1] == "p"):
-            continue
-        markers = sec[2]
+        if isinstance(sec, list) and len(sec) >= 3 and sec[0] == 1 and sec[1] == "p":
+            marker_lists.append(sec[2])
+        elif isinstance(sec, list) and len(sec) >= 3 and sec[0] == 3:   # ul/ol lists
+            marker_lists.extend(m for m in sec[2] if isinstance(m, list))
+    for markers in marker_lists:
         for i, mk in enumerate(markers):
             if not (isinstance(mk, list) and len(mk) == 4 and mk[0] == 0):
                 continue
