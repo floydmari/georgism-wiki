@@ -5,7 +5,7 @@ authors:
 - Robert Nutifafa Arku
 category: research
 excerpt: "University of Toronto Infrastructure Institute study, financially supported by the Canada Infrastructure Bank, surveys land value capture mechanisms for transit financing: real but modest revenue (tens to low hundreds of millions per project), not a substitute for tax-base funding."
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-16
 source_url: https://cdn.cib-bic.ca/files/documents/Corporate/Land-Value-Capture-Study-April-2023.pdf
 stub: false
 subcategory: wiki-research-urban
@@ -24,7 +24,7 @@ year: 2023
 
 ## Summary
 
-"Land Value Capture Study: Paying for Transit-Oriented Communities" (April 2023) is a report by **Matti Siemiatycki, Drew Fagan, and Robert Nutifafa Arku** of the Infrastructure Institute at the University of Toronto's School of Cities. It is not a Canada Infrastructure Bank (CIB) publication authored by CIB staff: the report states plainly that "the findings and conclusions in this report are those of the Infrastructure Institute," and that "the Institute also thanks the Canada Infrastructure Bank for its financial support of this project" — CIB commissioned and funded the study, but the analysis and recommendations are the university researchers' own. [VERIFY: no named client sign-off from CIB appears beyond the funding acknowledgment and a discussion of CIB's potential future role.] Fetched and read in full (49 pages) for this entry.
+"Land Value Capture Study: Paying for Transit-Oriented Communities" (April 2023) is a report by **Matti Siemiatycki, Drew Fagan, and Robert Nutifafa Arku** of the Infrastructure Institute at the University of Toronto's School of Cities. It is not a Canada Infrastructure Bank (CIB) publication authored by CIB staff: the report's front matter states plainly that "the findings and conclusions in this report are those of the Infrastructure Institute at the University of Toronto's School of Cities. Any errors or omissions in fact or interpretation remain the sole responsibility of the Institute," followed immediately by "[t]he Institute also thanks the Canada Infrastructure Bank for its financial support of this project." That single sentence is the entirety of CIB's role as stated in the report's own front matter: a funding acknowledgment, not a named client review, sign-off, or approval. A full-text search of the report for every occurrence of "CIB," "acknowledg," "review," "approv," and "disclaimer" (re-confirmed this session against the complete 49-page PDF text) turns up no other CIB attribution anywhere in the document — every other CIB mention is the report's own forward-looking discussion of what role CIB *could* play as a public infrastructure investor in future land-value-capture deals (its potential future role, not oversight of this study). Fetched and read in full (49 pages) for this entry.
 
 The report surveys land value capture (LVC) mechanisms — instruments letting governments recoup, for infrastructure funding, some of the land-value increase that public transit investment creates — focused on financing "transit-oriented communities" in Canadian cities, benchmarked against international examples (London's Crossrail, Hong Kong's MTR "Rail + Property" model) and Canadian case studies (Toronto's Scarborough subway extension, Montreal's REM, Vancouver's Capstan Station).
 

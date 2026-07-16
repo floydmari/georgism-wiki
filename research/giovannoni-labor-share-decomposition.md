@@ -3,7 +3,7 @@ authors:
 - Olivier Giovannoni
 category: research
 excerpt: "Levy Institute working paper builds a national US labor share back to 1929 and decomposes its apparent stability: the bottom 99% labor share actually fell 8-18 points since 1980, offset by rising top-1% incomes and a shift of compensation share from manufacturing into finance."
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-16
 source_url: https://www.levyinstitute.org/pubs/wp_805.pdf
 stub: false
 subcategory: wiki-research-inequality
@@ -41,7 +41,7 @@ This paper does not address land directly and makes no claim about land's share 
 
 ## Nuances and Limits
 
-- **A working paper, not peer-reviewed.** Useful for methodological transparency and an unusually long (1929–2012) US series, but below peer-reviewed work in the wiki's source hierarchy. [VERIFY: whether this series was later published in a peer-reviewed venue was not checked this session.]
+- **A working paper, not peer-reviewed.** Useful for methodological transparency and an unusually long (1929–2012) US series, but below peer-reviewed work in the wiki's source hierarchy. Checked this session: the paper circulated simultaneously as Levy Economics Institute Working Paper No. 805 and University of Texas Inequality Project (UTIP) Working Paper No. 66 (dated March 3, 2014, confirmed from the UTIP PDF's own title page) — the same "Levy/UTIP" dual release Giovannoni used for this series generally. Giovannoni's Google Scholar author profile lists no subsequent peer-reviewed journal publication of Part III (or Parts I/II) of this series; all three parts remain listed solely as Levy Institute/UTIP working papers. Absence of a Scholar listing is not proof no journal version exists anywhere, but no evidence of one was found.
 - **US-focused.** International comparisons (Mexico, Canada, Japan, UK, France, Germany) show the US and Canada notably more stable than European labor shares 1960–2012, but the detailed top-income and sectoral decompositions are US-only; the paper does not explain why the US/Canadian series are unusually stable.
 - **Data end in 2012–13.** More recent trends are not covered and would need checking against newer data before citing this paper for present-day magnitudes.
 - **The "top 1% as rent" framing is illustrative, not a defended identification.** It is one alternative accounting lens, not an argument that top-1% income is rent in the technical sense; citing this paper to assert a specific share of the capital-share rise "is rent" would overstate what it shows.
@@ -64,3 +64,5 @@ This paper does not address land directly and makes no claim about land's share 
 ## Sources
 
 1. Olivier Giovannoni (2014), "What Do We Know About the Labor Share and the Profit Share? Part III: Measures and Structural Factors," Levy Economics Institute of Bard College Working Paper No. 805, May 2014. [PDF](https://www.levyinstitute.org/pubs/wp_805.pdf) — used for all findings, the apportionment-method comparison, the sectoral and top-income decompositions, and all direct quotations; fetched and read in full (all 44 pages) this session.
+2. Same paper, also released as University of Texas Inequality Project (UTIP) Working Paper No. 66, dated March 3, 2014. [PDF](https://utip.gov.utexas.edu/papers/utip_66.pdf) — confirms dual working-paper release, no peer-reviewed venue.
+3. Olivier Giovannoni, Google Scholar author profile — checked to confirm no later peer-reviewed publication of this series. [scholar.google.com/citations?user=h2y9TJEAAAAJ](https://scholar.google.com/citations?user=h2y9TJEAAAAJ&hl=en)
