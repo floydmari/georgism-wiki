@@ -9,9 +9,9 @@ last_reviewed: 2026-07-15
 
 ## What you're looking at
 
-The progress.org wiki is a verified evidence reference on Geoism — land value taxation and the broader capture of economic rent. As of this writing it is **836 pages**: 313 research summaries, 133 people, 118 concepts, 51 historical events, 40 places, 37 steelmanned objections, and the problem/benefit claim pages the evidence is wired into.
+The progress.org wiki is a verified evidence reference on Geoism — land value taxation and the broader capture of economic rent. As of **15 July 2026** it is **838 pages**: 313 research summaries, 133 people, 118 concepts, 51 historical events, 40 places, 37 steelmanned objections, and the problem/benefit claim pages the evidence is wired into.
 
-It was **written by AI agents running in loops, under the editorial direction of one person.** Not generated in a single pass — grown, over hundreds of iterations, the way a research desk grows a beat. This page explains the machinery honestly, because a reference that asks you to trust its method should show you the method.
+It was **written by AI agents running in loops, under the editorial direction of one person — [Floyd Marinescu](/wiki/floyd-marinescu/).** Not generated in a single pass — grown across roughly **167 looping work-sessions** and 654 commits, the way a research desk grows a beat. This page explains the machinery honestly, because a reference that asks you to trust its method should show you the method.
 
 The short version: a **written constitution** defines what a good page is; **loops** of AI agents find sources, read them, write pages, and cross-check each other against that constitution; a **human editor** sets the priorities, makes the judgment calls, and is the sole gate to the published site. The result is checked by scripts on every change and published through an automated pipeline.
 
@@ -25,7 +25,7 @@ The wiki grows the way a newsroom works a story, in five repeating moves:
 4. **Verify** relentlessly — every claim the wiki couldn't confirm carries a visible unverified-claim flag until someone works it down.
 5. **Expand** — reading keeps surfacing new topics worth covering; the best-connected ones become pages.
 
-Each pass through the loop is a **wave**. There have been **167 loop-wave commits** across **649 commits** total. A wave picks a lane — reinforce the problem claims, answer the objections, sweep the dead links, deepen the thin pages — does the work, checks it, and records what it changed and what it left undone.
+Each pass through the loop is a **wave**. There have been roughly **167 loop-wave passes** across **654 commits** total. A wave picks a lane — reinforce the problem claims, answer the objections, sweep the dead links, deepen the thin pages — does the work, checks it, and records what it changed and what it left undone.
 
 ## The roles: a desk staffed by models
 
@@ -58,7 +58,7 @@ This is the part people get wrong about AI-built work. The models did the writin
 - **Guarding the gates.** Nothing merges to the main record, and nothing publishes to the live site, without an explicit human go-ahead. The loop can run all night; it cannot publish itself.
 - **Catching the contradictions.** When a mid-stream instruction conflicts with an established rule, the agents are told to *surface it in the moment* rather than silently comply — and the editor rules on it. That standing tension between "do what I just said" and "protect the corpus's integrity" is resolved by a person, not a model.
 
-The cadence that produced this was blunt and effective: *"keep looping,"* the editor would say, and the desk would run waves through the night — enriching claims, answering objections, fixing link-rot — and report each morning what it had done, what it had verified, and what it had honestly failed to verify. Then a human decided what to merge and publish.
+The cadence that produced this was blunt and effective: *"keep looping,"* Marinescu would say, and the desk would run waves through the night — enriching claims, answering objections, fixing link-rot — and report each morning what it had done, what it had verified, and what it had honestly failed to verify. Then a human decided what to merge and publish.
 
 ## The pipeline
 
