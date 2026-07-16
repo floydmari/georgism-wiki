@@ -1,8 +1,8 @@
 ---
 title: "The Black Death and the Rent-Wage Inversion"
 category: events
-tags: [events, law-of-rent, medieval-england, wages, land-rent, stub]
-stub: true
+tags: [events, law-of-rent, medieval-england, wages, land-rent]
+stub: false
 excerpt: "After the Black Death killed roughly a third to half of England's population from 1348-49, real agricultural wages rose substantially over the following century while real land rents fell only modestly — a natural experiment for the law of rent, with genuine debate over the magnitudes."
 last_reviewed: 2026-07-11
 ---

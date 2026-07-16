@@ -1,8 +1,8 @@
 ---
 title: "Ted Gwartney"
 category: people
-tags: [people, stub, assessment, mass-appraisal, land-valuation, british-columbia, practitioner]
-stub: true
+tags: [people, assessment, mass-appraisal, land-valuation, british-columbia, practitioner]
+stub: false
 excerpt: "Career real-estate assessor (MAI) who ran British Columbia's province-wide land assessment authority and later assessed Greenwich, Connecticut — practitioner counter-evidence to the objection that land value cannot be separately assessed."
 last_reviewed: 2026-07-12
 ---

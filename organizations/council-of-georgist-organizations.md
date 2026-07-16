@@ -1,10 +1,10 @@
 ---
 title: "Council of Georgist Organizations"
 category: organizations
-tags: [organizations, usa, umbrella-organization, georgism, stub]
+tags: [organizations, usa, umbrella-organization, georgism]
 url: https://cgocouncil.org/
 founded: 1980
-stub: true
+stub: false
 excerpt: "The umbrella body that coordinated independent US (and international) Georgist organizations from around 1980, chiefly by convening an annual multi-day Georgist conference; legally dissolved, with its work transitioning to Common Ground USA and the Public Revenue Education Council."
 last_reviewed: 2026-07-12
 ---

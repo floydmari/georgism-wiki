@@ -1,8 +1,8 @@
 ---
 title: "Ronald Banks"
 category: people
-tags: [people, ronald-banks, uk-georgism, land-value-tax, stub]
-stub: true
+tags: [people, ronald-banks, uk-georgism, land-value-tax]
+stub: false
 excerpt: "UK Georgist analyst, editor of Costing the Earth (1989), and the source of the widely cited estimate that shifting UK taxes onto land rent could unlock roughly £880bn in additional output."
 last_reviewed: 2026-07-12
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Frank Knight"
 category: people
-tags: [people, frank-knight, chicago-school, single-tax-critics, stub]
-stub: true
+tags: [people, frank-knight, chicago-school, single-tax-critics]
+stub: false
 born: 1885
 died: 1972
 excerpt: "Founder of the Chicago School of economics (1885–1972) whose 1953 essay 'The Fallacies in the Single Tax' remains a touchstone anti-Georgist text, arguing land rent is not a uniquely taxable surplus."

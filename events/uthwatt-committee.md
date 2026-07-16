@@ -1,8 +1,8 @@
 ---
 title: "Uthwatt Committee (1942)"
 category: events
-tags: [events, uk, betterment, development-charge, land-value-capture, planning, stub]
-stub: true
+tags: [events, uk, betterment, development-charge, land-value-capture, planning]
+stub: false
 excerpt: "The wartime Expert Committee on Compensation and Betterment, chaired by Mr Justice Uthwatt, recommended state acquisition of development rights outside built-up areas and a periodic levy on site-value increases elsewhere — the intellectual basis for the 1947 planning settlement."
 last_reviewed: 2026-07-11
 ---

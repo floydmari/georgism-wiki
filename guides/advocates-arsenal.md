@@ -9,7 +9,7 @@ last_reviewed: 2026-07-12
 
 ## Read this before the debate
 
-This is the fast path for the advocate who needs ammunition tonight. It is organized by
+This is the fast path for the advocate who needs ammunition tonight. (Under attack and need the comeback *now*? Jump to the [Rebuttal Cards](/wiki/rebuttal-cards/).) It is organized by
 **what you are arguing for**, and for every point it gives you three things: the strongest
 graded claim, the citation you can name out loud, and — most important — **the one caveat
 an honest opponent will raise**, so you concede it first and keep your credibility. The
@@ -62,5 +62,5 @@ innovation](/wiki/taxing-quasi-rents-kills-innovation/) — which is exactly why
 case is the one to fight on. Conceding these makes your strong claims stronger.
 
 ---
-**Guides:** [Start Here](/wiki/start-here/) · [Evidence Dashboard](/wiki/evidence-dashboard/) · [How We Verify](/wiki/how-we-verify/)
+**Guides:** [Start Here](/wiki/start-here/) · [Quotable Quotes](/wiki/quotable-quotes/) · [Evidence Dashboard](/wiki/evidence-dashboard/) · [How We Verify](/wiki/how-we-verify/)
 **Portals:** [Housing](/wiki/portal-housing/) · [Cycles & Crises](/wiki/portal-cycles-and-crises/) · [Tax Design](/wiki/portal-tax-design/) · [Climate & Commons](/wiki/portal-climate-and-commons/) · [History & People](/wiki/portal-history-and-people/) · [Case Studies](/wiki/portal-case-studies/) · [Objections Answered](/wiki/portal-objections-answered/) · [The Rent Frontier](/wiki/portal-rent-frontier/)

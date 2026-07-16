@@ -1,10 +1,10 @@
 ---
 title: "George Bernard Shaw"
 category: people
-tags: [people, george-bernard-shaw, fabian-society, socialism, henry-george, stub]
+tags: [people, george-bernard-shaw, fabian-society, socialism, henry-george]
 born: "1856"
 died: "1950"
-stub: true
+stub: false
 excerpt: "Irish playwright and Fabian socialist (1856–1950) who dated his political awakening to hearing Henry George speak in London in 1882 and reading Progress and Poverty — a conduit that carried George's rent theory into British Fabian socialism."
 last_reviewed: 2026-07-11
 ---

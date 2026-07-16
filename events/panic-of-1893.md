@@ -3,14 +3,14 @@ title: "Land Boom of 1888 and Panic of 1893"
 category: events
 tags: [events, panic-of-1893, land-speculation, boom-bust-cycle, 18-year-land-cycle, oklahoma-land-rush, frontier-thesis]
 year: 1893
-stub: true
+stub: false
 excerpt: "Oklahoma land-rush speculation and silver-standard fears culminated in the Panic of 1893, the worst US depression to that date — coinciding with Frederick Jackson Turner's announcement that the frontier had closed."
 last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
-The **Panic of 1893** was a severe US financial crisis, triggered in the spring of 1893 by the collapse of the Philadelphia and Reading Railroad and the National Cordage Company amid fears that shrinking federal gold reserves and the ongoing "silver question" would force the country off the gold standard.[1][2] It opened a depression that lasted roughly until 1897, with more than 15,000 businesses and some 500 banks failing and unemployment estimated at 20–25% nationally (reportedly reaching 35% in New York and over 40% in Michigan) — commonly described as the worst downturn in US history to that point.[1][2] **Phillip J. Anderson**'s *[The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* places the crash after a "Land Boom of 1888," tied to the last great wave of frontier land speculation, including the 1889 **Oklahoma land rush** in which roughly 50,000 people staked claims to former Indian Territory in a single day.[3]
+The **Panic of 1893** was a severe US financial crisis, triggered in the spring of 1893 by the collapse of the Philadelphia and Reading Railroad and the National Cordage Company amid fears that shrinking federal gold reserves and the ongoing "silver question" would force the country off the gold standard.[1][2] It opened a depression that lasted roughly until 1897, with more than 15,000 businesses and some 500 banks failing and unemployment estimated at 20–25% nationally (reportedly reaching 35% in New York and over 40% in Michigan) — commonly described as the worst downturn in US history to that point.[1][2] **Phillip J. Anderson**'s *[The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* places the crash after a "Land Boom of 1888," tied to the last great wave of frontier land speculation, including the 1889 **[Oklahoma land rush](/wiki/oklahoma-land-rush/)** in which roughly 50,000 people staked claims to former Indian Territory in a single day.[3]
 
 The panic's timing coincided closely with a symbolically important moment for American land history: in 1893, historian **Frederick Jackson Turner** delivered "The Significance of the Frontier in American History," arguing that the US Census Bureau's 1890 declaration that a contiguous frontier line no longer existed marked the end of an era of free, open land that had shaped American institutions.[4][5] For the Georgist [18-year land cycle](/wiki/18-year-land-cycle/) tradition, the 1888–93 episode is catalogued as one node in a recurring sequence of US land-price booms and banking panics, alongside 1836–37, 1854–57, 1869–73, and 1925–29.[3]
 

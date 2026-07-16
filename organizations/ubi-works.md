@@ -1,10 +1,10 @@
 ---
 title: "UBI Works"
 category: organizations
-tags: [organizations, canada, basic-income, advocacy, citizens-dividend, stub]
+tags: [organizations, canada, basic-income, advocacy, citizens-dividend]
 url: https://www.ubiworks.ca/
 founded: 2019
-stub: true
+stub: false
 excerpt: "Canadian basic-income advocacy nonprofit founded by Floyd Marinescu; the predecessor organization of the Common Wealth Canada team, whose commissioned common-assets research and 'Canada Land Value Time Series (1990-2022)' analysis fed directly into the Natural Common Wealth paper."
 last_reviewed: 2026-07-10
 ---

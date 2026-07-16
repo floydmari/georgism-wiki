@@ -1,10 +1,10 @@
 ---
 title: "Irving Fisher"
 category: people
-tags: [people, irving-fisher, debt-deflation, monetary-theory, land-cycle, yale, stub]
+tags: [people, irving-fisher, debt-deflation, monetary-theory, land-cycle, yale]
 born: 1867
 died: 1947
-stub: true
+stub: false
 excerpt: "American economist (1867-1947), Yale monetary-theory pioneer whose 1933 debt-deflation theory explains the credit-collapse mechanism of the land-cycle bust — and whose 1929 'permanently high plateau' call is the emblematic case of economist blindness to a bubble."
 last_reviewed: 2026-07-11
 ---

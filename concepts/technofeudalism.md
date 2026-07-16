@@ -1,8 +1,8 @@
 ---
 title: "Technofeudalism and Siren Servers"
 category: concepts
-tags: [concepts, technofeudalism, platform-economy, data-rents, rentier, stub]
-stub: true
+tags: [concepts, technofeudalism, platform-economy, data-rents, rentier]
+stub: false
 excerpt: "The framing of dominant digital platforms as feudal rent-lords rather than capitalist firms — from Jaron Lanier's 'siren servers' (2013) to Yanis Varoufakis's 'technofeudalism' and 'cloud capital' (2023) — a contested extension of the rent concept to the platform economy."
 last_reviewed: 2026-07-11
 ---

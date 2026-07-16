@@ -1,8 +1,8 @@
 ---
 title: "Right to Buy (1980)"
 category: events
-tags: [events, uk, housing, council-housing, privatization, land-value-capture, stub]
-stub: true
+tags: [events, uk, housing, council-housing, privatization, land-value-capture]
+stub: false
 excerpt: "The UK's Housing Act 1980 gave council tenants a statutory right to buy their homes at discounts of 33-70% below market value. Roughly 1.5 million council homes were sold by 1990 — one of the largest transfers of public land-backed housing wealth into private hands in modern history."
 last_reviewed: 2026-07-12
 ---

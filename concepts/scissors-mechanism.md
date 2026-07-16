@@ -1,8 +1,8 @@
 ---
 title: "Scissors Mechanism (Diverging Returns to Land and Capital)"
 category: concepts
-tags: [concepts, land-cycle, 18-year-cycle, harrison, land-speculation, stub]
-stub: true
+tags: [concepts, land-cycle, 18-year-cycle, harrison, land-speculation]
+stub: false
 excerpt: "Fred Harrison's term for the ~20-year divergence in which returns to land rise while returns to capital fall, squeezing profits and driving the buildup to the 18-year land cycle's crash."
 last_reviewed: 2026-07-11
 ---

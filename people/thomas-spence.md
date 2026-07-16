@@ -1,8 +1,8 @@
 ---
 title: "Thomas Spence"
 category: people
-tags: [people, thomas-spence, single-tax, land-nationalization, radicalism, stub]
-stub: true
+tags: [people, thomas-spence, single-tax, land-nationalization, radicalism]
+stub: false
 excerpt: "English radical schoolteacher (1750–1814) who proposed vesting land in parish corporations and distributing the rent to residents — a land-rent scheme predating Henry George by roughly a century."
 last_reviewed: 2026-07-11
 born: 1750

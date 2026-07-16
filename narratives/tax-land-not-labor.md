@@ -232,6 +232,15 @@ Murray documents that the Budget was carefully designed to avoid burdening the w
 - **Use the cross-ideological quotations.** Friedman's "least bad tax" line is
   disproportionately persuasive with audiences skeptical of new taxes generally,
   precisely because it comes from an economist hostile to taxation in general.[2]
+- **Terminology is actively contested inside the movement.** A 2025 advocacy essay,
+  "Land value return is needed, pragmatic, and achievable" (Progress and Poverty
+  Substack), argues for reframing the policy as **"land value return"** — return of
+  community-created value — rather than "tax," on the ground that tax framing
+  concedes the loss-frame before the argument starts; SES's own Slack discussion
+  flagged it as a possible messaging pivot.[16] Mainstream carriers exist for
+  whichever frame wins: Redfin chief economist Daryl Fairweather made the LVT case
+  to a general finance audience on Bloomberg's Odd Lots ("the tax that could fix
+  housing," 2022), an example of the pitch working outside movement media.[17]
 - **Do not overclaim the scale.** Say the shift *improves welfare* and *can fund a
   major share* of government; avoid asserting it can *fully* replace existing taxation,
   which remains contested (see [Weak or Missing](#research-that-challenges-it--or-is-missing)
@@ -336,3 +345,5 @@ Murray documents that the Budget was carefully designed to avoid burdening the w
     (Oxford: Oxford University Press, 1980) — used for the People's Budget as historical
     precedent for shifting taxation from labor to land (A/D-claims).
     [Book page](/wiki/peoples-budget-1909/)
+16. "Land value return is needed, pragmatic, and achievable," Progress and Poverty (Substack), October 2025. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic) — used for the "land value return" reframing argument in How to Deploy It (advocacy essay, cited as such).
+17. "Transcript: Daryl Fairweather on the Tax That Could Fix Housing," Bloomberg Odd Lots, June 2022. [bloomberg.com](https://www.bloomberg.com/news/articles/2022-06-13/transcript-daryl-fairweather-on-the-tax-that-could-fix-housing) — used as an example of a mainstream economist deploying the LVT pitch to a general finance audience (podcast transcript, navigation-tier).

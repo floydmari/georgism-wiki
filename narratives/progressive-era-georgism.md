@@ -1,8 +1,8 @@
 ---
 title: "Georgism Ran the Progressive Era"
 category: narratives
-tags: [narratives, historical-argument, gaffney, progressive-era, single-tax, stub]
-stub: true
+tags: [narratives, historical-argument, gaffney, progressive-era, single-tax]
+stub: false
 excerpt: "Gaffney's claim that a modified Georgism 'helped run the USA' for seventeen years (1902-19) through both major parties — a historiographical argument, attributed, about the single-tax movement's reach into Progressive Era politics."
 last_reviewed: 2026-07-11
 ---
@@ -17,7 +17,7 @@ direct democracy (the initiative and referendum), the federal income tax, and
 municipal reform — has been "a great dereliction of American historians" to
 neglect.[1] Gaffney cites Warren Worth Bailey, a single-tax Congressman from
 Pennsylvania, as having drafted the first permanent federal income tax law (the
-Revenue Act of 1916) with Georgist goals, exempting most wage income; and William
+[Revenue Act of 1916](/wiki/revenue-act-of-1916/)) with Georgist goals, exempting most wage income; and William
 S. U'Ren, whom he credits as "father of the initiative and referendum," for
 building Oregon's direct-democracy machinery originally to carry single-tax
 ballot measures.[1] Gaffney also reports historian Eric Goldman's 1956 judgment,

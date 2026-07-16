@@ -1,8 +1,8 @@
 ---
 title: "The Ralston–Nolan Bill (1919–1924)"
 category: events
-tags: [events, ralston-nolan, federal-land-tax, single-tax-movement, stub]
-stub: true
+tags: [events, ralston-nolan, federal-land-tax, single-tax-movement]
+stub: false
 excerpt: "The single-tax movement's federal high-water mark: H.R. 12397, a bill for a 1% federal tax on the privilege of holding land valued over $10,000 (irrespective of improvements), drafted by Jackson H. Ralston and sponsored in the House by Rep. John I. Nolan — and, per Gaffney, the campaign that Ely's industry-funded land-economics institute was mobilized to defeat."
 last_reviewed: 2026-07-06
 ---

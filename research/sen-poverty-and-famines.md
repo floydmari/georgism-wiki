@@ -12,7 +12,7 @@ excerpt: Sen's classic study argues that major famines — including the 1943 Be
   against food supply.
 last_reviewed: 2026-07-13
 source_url: https://global.oup.com/academic/product/poverty-and-famines-9780198284635
-stub: true
+stub: false
 subcategory: wiki-research-inequality
 tags:
 - research

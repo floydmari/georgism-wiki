@@ -10,7 +10,7 @@ last_reviewed: 2026-07-13
 
 ## The Objection
 
-A widow living in a long-held home on now-valuable land might face a land tax larger than her cash income can cover, forcing her to sell. The objection — sometimes called the **"little old lady" problem** — holds that LVT is unfair to those who are **land-rich but cash-poor**, such as retirees.
+A widow living in a long-held home on now-valuable land might face a land tax larger than her cash income can cover, forcing her to sell. The objection — sometimes called the **"little old lady" problem** — holds that LVT is unfair to those who are **land-rich but cash-poor**, such as retirees. The scale is not trivial: even in Georgist advocates' own revenue-neutral shift simulations, a substantial share of owner-occupied homes pay more — 4,724 of 7,135 residential parcels in Princeton, NJ, and 52.5% of homesteads in South Bend, IN ([Miller & Hoskins college-town studies](/wiki/miller-hoskins-college-town-lvt/)) — so the population exposed to the liquidity question is real, whatever the remedy.
 
 ## The Response
 

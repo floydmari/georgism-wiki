@@ -16,7 +16,7 @@ Split-rate taxation is the most politically practical path to Georgist policy in
 
 ## In Practice
 
-The system is most associated with **Pennsylvania**, where state law permits municipalities to set separate rates. [Pittsburgh](/wiki/pittsburgh/) (from 1913), [Harrisburg](/wiki/harrisburg-pennsylvania/), Allentown, Scranton, and others have used it. This created the natural experiment behind the strongest empirical evidence that the policy [increases construction](/wiki/split-rate-increases-construction/).
+The system is most associated with **Pennsylvania**, where state law permits municipalities to set separate rates. [Pittsburgh](/wiki/pittsburgh/) (from 1913), [Harrisburg](/wiki/harrisburg-pennsylvania/), Allentown, Scranton, and others have used it. This created the natural experiment behind the strongest empirical evidence that the policy [increases construction](/wiki/split-rate-increases-construction/). For a mainstream, non-advocacy primer on the theory, the Pennsylvania record, and the practical obstacles (assessment difficulty, revenue adequacy, winner/loser politics), see the St. Louis Fed's [Cohen & Coughlin (2005) survey](/wiki/cohen-coughlin-two-rate-taxation/). For worked parcel-level examples of what a revenue-neutral shift does to actual tax bills, see the [Miller & Hoskins college-town simulations](/wiki/miller-hoskins-college-town-lvt/) for South Bend and Princeton (advocacy-institute analyses, graded as such).
 
 ## See Also
 

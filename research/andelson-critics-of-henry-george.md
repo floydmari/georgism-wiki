@@ -7,7 +7,7 @@ excerpt: Robert V. Andelson's edited anthology collecting and appraising every m
   case-by-case critical literature on Henry George.
 last_reviewed: 2026-07-11
 source_url: https://archive.org/details/criticsofhenryge0000unse
-stub: true
+stub: false
 subcategory: wiki-research-georgism
 tags:
 - research

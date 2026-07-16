@@ -1,5 +1,34 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+## ⟳ RESUME HERE (updated 2026-07-15, session udw74p — post-deploy)
+
+**CLAIM: the entire Slack-candidates lane (issue #24 waves + TIER-2 citation wave) is owned by
+session udw74p on branch `claude/slack-research-triage-udw74p` — see LOOP.md "Claiming work".
+Other sessions: pick a different BACKLOG lane or coordinate via a comment on the merge PR.**
+
+**State:** branch `claude/slack-research-triage-udw74p`, all pushed through 26b4d67; lint 0
+errors, 827 pages, 0 orphans; registry 1,098 rows, 0 dead links. Issue #24 CLOSED (waves
+29-31: 25 research entries + universal-vs-targeted objection page). **Ghost DEPLOYED
+2026-07-15** — full 827-page sync (25 created); key auto-resolves from renamed vaults via
+scripts/_secrets.py (op item get fallback for the em-dash item name).
+
+**Standing rules in force:** Floyd's UBI scope rule (EDITORIAL §0, 2026-07-15 — UBI only
+with rent/commons tie); loop priority = enrich benefits/problems/objections lanes.
+
+**Next iteration plan (in order):**
+1. TIER-2 citation wave continuation — remaining ~90 scope-relevant rows in
+   `sources/slack-research-triage-2026-07-14.json` (tier=TIER2, Status still "Not scanned"),
+   worked BY TARGET PAGE with the delta rule; flip cited rows to Referenced. Sub-batches
+   done so far: SWF proposals, US LVT activity, Korea politics, NEF, Equal Right.
+2. Parked research-entry candidates: NYC 1920s new-building tax exemption (primary sources
+   needed — the morehousing post is navigation-tier); Fossum Petro-Canada (books/ page,
+   needs text access); Hope-Limberg (only if a taxing-the-rich-vs-rents angle emerges).
+3. Then fall through to the NOW lanes below (VERIFY burn-down; problems/benefits stub waves).
+4. Ghost re-sync after each committed wave now that credentials work:
+   chunked `xargs -a <filelist> python3 -u scripts/sync_to_ghost.py` (foreground shells only —
+   background shells lack OP_SERVICE_ACCOUNT_TOKEN); or single files for small waves.
+
+
 *Regenerated 2026-07-10 (branch `claude/georgism-wiki-campaign-h3n8qd`). The work queue for
 the mission in EDITORIAL.md §0: the definitive, honest reference on Geoism and LVT.*
 
@@ -254,3 +283,65 @@ Ghost API state: 771 wiki posts published; next full sync adds guides/ + wave-21
 - FINDING: posts published ~2021 and earlier have lexical=null (HTML-only). The lexical method cannot edit them; extending in-text links to the older ~300 tagged articles would need the ?source=html path (roundtrip degradation risk — test on one sacrificial article first) or can simply be left to the theme block.
 - Theme block: paste-ready install guide delivered to Floyd (from-the-wiki-theme-block.md); requires his Ghost admin (integration key cannot manage themes). Nav item "Wiki" -> /wiki/start-here/ also recommended, also Floyd-manual.
 - Ghost admin manual queue (Floyd): install theme block; add nav item; hard-delete 4 drafts (_framework, kolbe-berlin-land-value-map, barr-manhattan-land-values, feldstein-1977-incidence-pure-rent) + empty "Outcomes" tag.
+
+## Addendum — Slack deep-scan triage session 2026-07-14 (issue #24, branch claude/slack-research-triage-udw74p)
+
+**Processed this session (wave 29):**
+- Triaged all **516** candidates from `sources/slack-research-candidates.json`:
+  **74 TIER-1** (academic/gov policy) · **117 TIER-2** (think-tank/long-form) ·
+  **263 TIER-3** (news briefs — not registry-worthy) · **49 SKIP** (dupes, mirrors of
+  already-ingested sources, homepages, ephemeral/social, 1 sci-hub). Per-URL map committed:
+  `sources/slack-research-triage-2026-07-14.json`. 12 confirmed-dead URLs carried as
+  "Dead link"; 2 dead+unidentifiable OECD numeric PDFs dropped.
+- Registry: **+196 rows** (191 triage + 5 sources used by new entries), 10 rows corrected/flipped
+  to Scanned. Dated export refreshed.
+- **10 research/ entries shipped** (T2-drafted, T1-reviewed, all sources fetched):
+  brown-land-speculation-lvt · cohen-coughlin-two-rate-taxation ·
+  mintz-chen-capturing-resource-rents · dachis-buyers-beware-housing-barriers ·
+  forget-mincome-town-with-no-poverty · bc-basic-income-panel-final-report ·
+  pbo-guaranteed-basic-income-costing · openai-industrial-policy-intelligence-age ·
+  imf-gen-ai-future-of-work · baunsgaard-vernon-windfall-profits.
+  Claim-lane wiring: lvt-dampens-land-speculation +1 support; resource-rent-capture-works +2;
+  rent-targeting-taxes-reduce-debt-bias +1; housing-unaffordability-is-a-land-problem +1;
+  rent-dividends-reduce-poverty +1 challenger (BC panel); quasi-rents objection steelman +2;
+  land-speculation-is-productive response +1; 5 concept pages enriched.
+
+**Remaining / queued:**
+- [x] [READ&MINE] tier:T2 status:done — **Loop wave 30 SHIPPED 2026-07-15** (12 entries + the
+      universal-vs-targeted objection page + 12 dead-link repairs; see LOOPLOG). ~46 TIER-1 rows
+      remain "Not scanned" — mostly StatCan data releases and reference documents that stay
+      registry-only by design; genuine entry candidates left after Floyd's 2026-07-15 UBI scope
+      ruling (EDITORIAL §0 — pure redistributive UBI struck from the queue: Clavet-Duclos-Lacroix,
+      Corsica, JEC 1968, Senate Pate, IRPP BI volumes): Hope-Limberg tax-cuts-for-the-rich ·
+      SWAY LVT/wealth-tax realist review (retitled in registry) · Fossum Petro-Canada (needs books/
+      treatment) · Carney future-of-work speech · Walks Toronto polarization · Brown JPE follow-ups.
+- [x] [REVIEW] tier:Floyd status:done — **UBI scope ruling, disposition RESOLVED** (Floyd,
+      2026-07-15): namibia-big-pilot and de-schutter-poverty-beyond-growth DELETED on owner
+      instruction (wiring unwound; registry rows retained as unscanned supplementary; Osterkamp
+      companion rows dropped). Forget/BC-panel/PBO/World-Bank pages kept — wired as evidence on
+      rent-dividend claims and the universal-vs-targeted objection. Future waves apply the rule
+      at triage (TIER-2 wave: skip UBI items without a rent/commons tie).
+- [~] [READ&MINE] tier:T3 status:in-progress claimed:claude/slack-research-triage-udw74p (2026-07-15) — **Slack TIER-2 citation wave** (scope-filtered per
+      EDITORIAL UBI rule). Batch 1 done 2026-07-15 (SWF proposals landscape ×5, US LVT activity ×2 —
+      7 rows Referenced). Remaining ~100 rows: work through by target page, citing only where the
+      delta rule is satisfied and the rent/commons tie is real; skip pure-UBI and news-brief items
+      (registry rows suffice). Candidates parked as future research entries rather than citations:
+      PPI land-value-taxes-in-college-towns reports; the NYC 1920s new-building tax exemption
+      episode (morehousing post is navigation-tier — needs primary sources).
+- [ ] [PROBLEM-BUILD/OBJECTION] tier:T1 status:todo — **objections/ubi-targeting-efficiency gap** (flagged
+      by all three UBI entries): no objection page covers "universal transfers are a costly way to cut
+      poverty vs targeted" — BC panel + PBO entries are the ready evidence base, steelman from the
+      panel's 1,640 simulations; Woo/Forget rebuttals for the response side.
+- [ ] [VERIFY] tier:T2 status:todo — Forget 2011 CPP published text (utppublishing 403 here): confirm the
+      8.5% hospitalization figure against the primary once access exists (currently verified via BC panel
+      quotation; flagged on-page).
+- [ ] [BULK] tier:T3 status:todo — dead-link mirror hunt for the 12 "Dead link" triage rows (UBC David
+      Green papers ×4, IPPR Our Common Wealth, Remodelling Capitalism, Reid Foundation universalism,
+      Brookfield, Rewheel, Reform Scotland SWAY, OECD LVC flyer, Green Party costing) — most have
+      archive.org or publisher-migration mirrors.
+
+**Skipped (with reasons, machine-readable in the triage JSON):** 13 already-ingested mirrors
+(Jones-Marinescu WP, Goodhart-stimulus ×2, Schwerhoff ×2, Haughwout, DØRS, OECD WP620, England AJES,
+Capitalism 3.0, Paine, Ricardo, Goldsmith ×2, Guettabi, Flomenhoft Vermont, Noah Smith) · 9 truncated
+Slack-ellipsis URLs · 5 archive wrappers · 7 homepages/portals · 6 in-list dupes · ephemeral
+attachments (Trello/Mailchimp) · petitions · 1 sci-hub link (EDITORIAL free/legal rule) · social/profile pages.

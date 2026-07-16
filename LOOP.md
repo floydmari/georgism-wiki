@@ -159,6 +159,24 @@ growth channel; curated lists are top-down only.
 Every ~10th editor shift, run an **`[AUDIT]`**: rubric-score 8 random pages, refresh
 `BACKLOG.md` priorities, staleness sweep, registry↔repo consistency.
 
+## Claiming work (added 2026-07-15 after a session collision on the Slack-candidates lane)
+
+A claim is only real if it is visible **on `origin/main`** — bookkeeping that lives on an
+unmerged branch is invisible to every other session. Before starting any BACKLOG lane:
+
+1. **Stamp the task line** in `BACKLOG.md`:
+   `status:in-progress claimed:<branch-name> (<date>)` — and keep the stamp updated.
+2. **Make the claim visible on main.** Either (a) the lane has a tracking GitHub issue —
+   comment "claimed: <branch>" there and assign it; or (b) push a one-line claim commit to
+   `main` touching only the BACKLOG task line (claim commits are the one exception to the
+   PR gate — they carry no content). If neither is possible, at minimum open the PR early
+   as a draft so the branch and its BACKLOG are discoverable.
+3. **Before claiming, check for competing claims**: `git fetch --all` and grep BACKLOG on
+   `origin/main` AND scan open PRs/branches (`git branch -r`, open PR list) for the lane.
+4. **Release on completion or abandonment** — flip the stamp to `done`/unclaimed in the
+   same commit that finishes or abandons the work, and merge promptly: long-unmerged
+   branches are how collisions happen.
+
 ## Lanes (who edits what, so agents never collide)
 
 - **Campaign branch** (this repo's `claude/...` branch): new coverage — the editor + writers.

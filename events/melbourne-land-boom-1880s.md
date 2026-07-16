@@ -1,8 +1,8 @@
 ---
 title: "Melbourne Land Boom of the 1880s"
 category: events
-tags: [events, land-speculation, boom-bust-cycle, 18-year-land-cycle, australia, stub]
-stub: true
+tags: [events, land-speculation, boom-bust-cycle, 18-year-land-cycle, australia]
+stub: false
 excerpt: "Melbourne land prices rose roughly eightfold from 1882 to 1888 on a wave of bank-financed speculation, then collapsed from 1891, dragging down dozens of banks and building societies in one of the 19th century's clearest land boom-bust cycles."
 last_reviewed: 2026-07-11
 ---

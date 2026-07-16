@@ -9,7 +9,7 @@ excerpt: Steven B. Cord's study of how American economists and historians treate
   academic reception despite his public influence.
 last_reviewed: 2026-07-12
 source_url: https://www.jstor.org/stable/j.ctv5rdwgp
-stub: true
+stub: false
 subcategory: wiki-research-lvt
 tags:
 - research

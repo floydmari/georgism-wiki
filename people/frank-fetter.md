@@ -1,8 +1,8 @@
 ---
 title: "Frank A. Fetter"
 category: people
-tags: [people, frank-fetter, austrian-school, capital-theory, john-bates-clark, history-of-economics, stub]
-stub: true
+tags: [people, frank-fetter, austrian-school, capital-theory, john-bates-clark, history-of-economics]
+stub: false
 born: 1863
 died: 1949
 excerpt: "American economist (1863–1949), leader of the early Austrian school in the US, whose 1927 essay on J.B. Clark's capital theory states on the record that the 'immediate stimulation' for Clark's anti-Georgist reformulation of capital was 'the contemporary single tax discussion.'"

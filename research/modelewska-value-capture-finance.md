@@ -8,7 +8,7 @@ excerpt: A UCL doctoral thesis proposing an 'Incremental Assessment Framework fo
   prices.
 last_reviewed: 2026-07-11
 source_url: https://discovery.ucl.ac.uk/id/eprint/1556387/
-stub: true
+stub: false
 subcategory: wiki-research-lvt
 tags:
 - research

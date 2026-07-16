@@ -11,7 +11,7 @@ stub: false
 excerpt: "Gochenour & Caplan's peer-reviewed search-theoretic critique argues a 100% tax on unimproved land value destroys the incentive to search for and discover land's hidden value, making the Georgist single tax distortionary rather than neutral."
 last_reviewed: 2026-07-12
 supports_outcomes: []
-bears_on_objections: [search-theoretic-critique]
+bears_on_objections: [search-theoretic-critique, lvt-austrian-critique]
 ---
 
 ## Summary

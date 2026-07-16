@@ -150,7 +150,7 @@ specific methodological pushback that this page should represent honestly rather
 book's headline claims as settled.
 
 - **The HHI-reliability critique (Eeckhout, 2021).** In a *Journal of Economic Literature* review,
-  Jan Eeckhout — co-author of the De Loecker-Eeckhout-Unger markups paper — argues the book's
+  [Jan Eeckhout](/wiki/jan-eeckhout/) — co-author of the De Loecker-Eeckhout-Unger markups paper — argues the book's
   central empirical strategy relies too heavily on concentration ratios (the Herfindahl-Hirschman
   Index) as a proxy for market power, which he calls theoretically unreliable: in some standard
   competition models (e.g., Melitz-type monopolistic-competition models) *more* market power can

@@ -22,7 +22,7 @@ capture, the public-choice symmetry argument, and above all the **Schumpeterian 
 that taxing quasi-rents kills innovation, which is *substantially valid at the rent
 frontier* and gates every non-land capture claim on this wiki. The rule is simple: the
 airtight land case does not get to lend its certainty to the contested frontier. Follow any
-link for the full steelman, the evidence, and the caveats.
+link for the full steelman, the evidence, and the caveats. For the debate-ready version — what to *say* when each objection is thrown at you — see the [Rebuttal Cards](/wiki/rebuttal-cards/).
 
 ## Efficiency & economics
 
@@ -41,6 +41,7 @@ link for the full steelman, the evidence, and the caveats.
 
 - [LVT won't raise enough revenue](/wiki/lvt-not-enough-revenue/) — **Partly addressed.** LVT is a major revenue source; whether it can replace every other tax is contested.
 - [LVT destroys its own tax base](/wiki/lvt-destroys-its-own-tax-base/) — **Answered.** Conflates capital (sale) value with the rental value that is the actual base.
+- [Universal transfers are an inefficient way to reduce poverty](/wiki/universal-transfers-are-inefficient/) — **Substantially valid as arithmetic.** At a fixed budget, targeting beats a universal dividend on poverty reduction per dollar (BC panel); the responses — net-cost accounting, take-up, durability, the equal-ownership framing — contest the objective, not the numbers.
 
 ## Political & public-choice
 

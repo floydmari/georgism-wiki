@@ -1,8 +1,8 @@
 ---
 title: "Monopsony"
 category: concepts
-tags: [concepts, monopsony, labor-market, market-power, rent-gradient, stub]
-stub: true
+tags: [concepts, monopsony, labor-market, market-power, rent-gradient]
+stub: false
 excerpt: "Buyer-side market power — most commonly an employer's power to hold wages below the competitive level — that lets firms extract a rent from workers, extending rent analysis from sellers (land, monopoly) to a channel on the buying side of a market."
 last_reviewed: 2026-07-11
 ---
@@ -49,7 +49,7 @@ same sense, and the size of monopsony's aggregate effect on wages remains an act
 empirical dispute rather than a settled fact.
 
 [*Radical Markets*](/wiki/posner-weyl-radical-markets/) (Posner & Weyl, 2018) applies
-the concept in two chapters: Ch. 3 proposes a Visas Between Individuals Program partly
+the concept in two chapters: Ch. 3 proposes a [Visas Between Individuals Program](/wiki/visas-between-individuals-program/) partly
 to break employers' monopsony power over migrant workers, and Ch. 5 argues that
 dominant data platforms hold monopsony power over the data individual users generate,
 motivating the [data as labor](/wiki/data-as-labor/) proposal to pay users for that

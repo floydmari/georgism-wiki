@@ -1,8 +1,8 @@
 ---
 title: "Quadratic Voting"
 category: concepts
-tags: [concepts, quadratic-voting, radical-markets, mechanism-design, stub]
-stub: true
+tags: [concepts, quadratic-voting, radical-markets, mechanism-design]
+stub: false
 excerpt: "A voting mechanism in which a voter buying n votes on an issue pays n² 'voice credits,' designed to let people express how strongly they feel, not just which side they favor. Popularized alongside the Georgist-adjacent Harberger tax in Radical Markets (2018)."
 last_reviewed: 2026-07-12
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Joseph Schumpeter"
 category: people
-tags: [people, joseph-schumpeter, business-cycle, creative-destruction, kondratiev, austrian-economics, stub]
-stub: true
+tags: [people, joseph-schumpeter, business-cycle, creative-destruction, kondratiev, austrian-economics]
+stub: false
 born: 1883
 died: 1950
 excerpt: "Austrian-American economist (1883–1950) whose theories of 'creative destruction' and long-wave business cycles underpin the technology-cluster half of the modern land-cycle synthesis — and who treated Henry George as 'a very orthodox economist' apart from the Single Tax."

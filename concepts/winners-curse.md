@@ -1,8 +1,8 @@
 ---
 title: "The Winner's Curse"
 category: concepts
-tags: [concepts, winners-curse, auction-theory, land-cycle, spectrum-auctions, speculation, stub]
-stub: true
+tags: [concepts, winners-curse, auction-theory, land-cycle, spectrum-auctions, speculation]
+stub: false
 excerpt: "The auction-theory finding that the winner of a common-value auction tends to have overestimated the item's worth and so overpays — applied on this wiki to both the final speculative phase of the land cycle and the UK's £22.5bn 2000 3G spectrum auction."
 last_reviewed: 2026-07-11
 ---

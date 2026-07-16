@@ -1,8 +1,8 @@
 ---
 title: "Edward West"
 category: people
-tags: [people, edward-west, classical-economics, rent-theory, diminishing-returns, 1815-pamphlets, stub]
-stub: true
+tags: [people, edward-west, classical-economics, rent-theory, diminishing-returns, 1815-pamphlets]
+stub: false
 born: "1 March 1782, England"
 died: "18 August 1828, Poona, India"
 excerpt: "British economist and colonial judge whose 1815 pamphlet stated differential rent theory and the law of diminishing returns in almost the same form and language as Ricardo did weeks later — an almost-forgotten co-discoverer of classical rent theory."

@@ -12,7 +12,7 @@ excerpt: A century-long reconstruction of Spanish national wealth (1900-2014) fi
   1950-2010.
 last_reviewed: 2026-07-12
 source_url: https://wid.world/www-site/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf
-stub: true
+stub: false
 subcategory: wiki-research-finance
 tags:
 - research

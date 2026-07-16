@@ -1,8 +1,8 @@
 ---
 title: "Residual Land Valuation"
 category: concepts
-tags: [concepts, residual-valuation, land-value, developers, house-prices, stub]
-stub: true
+tags: [concepts, residual-valuation, land-value, developers, house-prices]
+stub: false
 excerpt: "The standard method developers use to price land: expected sales revenue minus construction costs, finance costs, and required profit. It explains why land absorbs planning gain in full and why building costs do not set house prices."
 last_reviewed: 2026-07-12
 ---

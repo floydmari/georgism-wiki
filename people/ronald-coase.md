@@ -1,8 +1,8 @@
 ---
 title: "Ronald Coase"
 category: people
-tags: [people, economists, coase, transaction-costs, property-rights, law-and-economics, stub]
-stub: true
+tags: [people, economists, coase, transaction-costs, property-rights, law-and-economics]
+stub: false
 born: 1910
 died: 2013
 excerpt: "British economist and 1991 Nobel laureate whose 1959 proposal to auction radio spectrum and 1960 work on transaction costs and property rights underlie the spectrum-auction rent-capture model and the Radical Markets program's extension of Georgist logic beyond land."

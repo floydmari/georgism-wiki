@@ -1,8 +1,8 @@
 ---
 title: "Repeal of the Corn Laws (1846)"
 category: events
-tags: [events, corn-laws, free-trade, ricardo, landed-interest, stub]
-stub: true
+tags: [events, corn-laws, free-trade, ricardo, landed-interest]
+stub: false
 excerpt: "The nineteenth century's defining defeat of the landed interest: Peel's repeal of Britain's grain tariffs, won with Ricardo's rent theory as its intellectual artillery — the historical proof that rent-theory politics can beat organized landowners, and the template George's movement tried to repeat."
 last_reviewed: 2026-07-06
 ---

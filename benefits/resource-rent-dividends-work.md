@@ -41,6 +41,8 @@ And the model is no longer confined to rich or isolated economies. [Maricá, Bra
 
 Not every resource-rent windfall behaves like Alaska's transparent, per-capita dividend. [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that in Colombia, municipalities receiving large resource-rent transfers show *weaker* local tax effort and accountability — a local "resource curse" that cuts the other way. The lesson is that *how* rent is captured and distributed (transparent, equal, direct dividend vs. opaque government transfer) matters as much as the fact of capture itself.
 
+The clearest failure mode on record is **Mongolia's Human Development Fund** (2010–12), the only national UBI to date, reviewed in the [World Bank's UBI guide](/wiki/worldbank-exploring-ubi/): transfer levels were set by electoral promise against *future* mining revenue rather than paid from realized fund earnings, the shortfall was debt-financed (public debt rose from 31% to 48% of GDP in two years), and the program was replaced by a targeted child grant. The design lesson runs the same direction as Alaska's success: durability requires the dividend to track actual realized rent, not projected rent.
+
 ## The Evidence in Detail
 
 The case runs from theory through operation to rigorous evaluation.

@@ -1,8 +1,8 @@
 ---
 title: "Thorstein Veblen"
 category: people
-tags: [people, thorstein-veblen, institutional-economics, absentee-ownership, land-speculation, rentier, stub]
-stub: true
+tags: [people, thorstein-veblen, institutional-economics, absentee-ownership, land-speculation, rentier]
+stub: false
 born: 1857
 died: 1929
 excerpt: "American institutionalist economist and sociologist (1857–1929) whose Absentee Ownership (1923) diagnosed the American 'country town' as a real-estate speculation project run for the benefit of absentee landowners — an independent, non-Marxist rentier-critique tradition parallel to Georgism."

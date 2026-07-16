@@ -1,8 +1,8 @@
 ---
 title: "Panic of 1907"
 category: events
-tags: [events, banking-crisis, jp-morgan, federal-reserve, 18-year-cycle, stub]
-stub: true
+tags: [events, banking-crisis, jp-morgan, federal-reserve, 18-year-cycle]
+stub: false
 excerpt: "A US banking panic in October 1907, halted only by J.P. Morgan's private ad-hoc bailout of the banking system, that exposed the danger of having no central bank and led directly to the creation of the Federal Reserve in 1913-14."
 last_reviewed: 2026-07-11
 ---

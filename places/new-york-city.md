@@ -1,8 +1,8 @@
 ---
 title: "New York City"
 category: places
-tags: [places, new-york-city, land-value, henry-george, urban-land, stub]
-stub: true
+tags: [places, new-york-city, land-value, henry-george, urban-land]
+stub: false
 excerpt: "The single largest concentration of measured urban land value in the United States — roughly $2.5 trillion citywide — and the site of Henry George's own 1886 run for mayor."
 last_reviewed: 2026-07-11
 ---
@@ -22,6 +22,7 @@ New York illustrates, at extreme scale, the basic Georgist claim that a large sh
 - [Henry George](/wiki/henry-george/) — ran for Mayor of New York in 1886 on a land-value-tax platform
 - [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/) — the campaign itself, in depth
 - [Land Is a Big Deal](/wiki/land-is-a-big-deal/) — the book that compiles the citywide and Manhattan land-value estimates cited here
+- [The 1921–1931 New-Housing Tax Exemption](/wiki/nyc-1920s-tax-exemption/) — the decade NYC untaxed new buildings (but not land), and what the boom does and does not prove
 - [Land Value Tax](/wiki/land-value-tax/) — the policy George's campaign proposed for the city
 
 ## Sources

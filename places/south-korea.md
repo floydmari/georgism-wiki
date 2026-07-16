@@ -1,8 +1,8 @@
 ---
 title: "South Korea"
 category: places
-tags: [places, south-korea, korea-land-corporation, public-land-development, land-value-capture, stub]
-stub: true
+tags: [places, south-korea, korea-land-corporation, public-land-development, land-value-capture]
+stub: false
 excerpt: "South Korea's Korea Land Corporation (merged into LH in 2009) developed land publicly at scale — a state-led alternative to a land value tax for capturing land value and supplying affordable serviced land."
 last_reviewed: 2026-07-12
 ---
@@ -19,6 +19,10 @@ Rather than relying primarily on taxing privately held land, South Korea's model
 
 South Korea's experience is used by Georgist-adjacent writers as evidence that capturing socially created land value for public benefit does not require a land value tax specifically; public land ownership and development can achieve a similar end. This is a contested comparison, since Korea also has recurring property and (at various points) capital-gains-style land taxes, and the KLC/LH model has itself been criticized in Korean domestic debate for contributing to speculation around new-town development. As a stub, this page does not yet assess that literature; it records the model's existence and its citation in the Georgist comparative literature.
 
+## Contemporary Georgist Politics
+
+South Korea is unusual in having land-rent ideas near the center of national politics. President **Lee Jae-myung** (elected June 2025) championed, as Gyeonggi provincial governor, a **"land dividend" (국토보유세/기본소득토지세) proposal** — a national land-holding tax with proceeds distributed as a per-capita basic income — and Georgist commentators greeted his election with the question of whether Korea had "just elected a Georgist president" (Progress and Poverty Substack, June 2025; advocacy commentary, cited as such).[4] The Korean basic-income movement frames its case explicitly in rent terms: the Basic Income Korean Network's "common wealth rent" framing (Kang, BIEN Congress 2024) argues dividends should be financed from land and commons rents rather than general taxation — the same funding-source distinction this wiki's [citizen's dividend](/wiki/citizens-dividend/) page treats as decisive.[5] Whether Lee's national program delivers any land-dividend element remains to be seen; this paragraph records the political salience, not an enacted policy.
+
 ## See Also
 
 - [Taiwan](/wiki/taiwan/) — a neighboring East Asian case with an explicit, tax-based land-value-capture system
@@ -32,3 +36,5 @@ South Korea's experience is used by Georgist-adjacent writers as evidence that c
 1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, Zed Books, Ch. 7, §7.2. [wiki summary](/wiki/rethinking-economics-land-housing/) — discovery source; used for the Korea Land Corporation's role as a public land developer and South Korea's classification alongside Singapore and Hong Kong as an East Asian land-value-capture case. Specific figures such as KLC's exact share of residential land development are reported in the book per the discovery extraction and were not independently re-verified in this session; the page therefore states only that KLC supplied "a large share," a characterisation consistent with independent accounts of Korea's public land-development apparatus (see source 3), rather than a precise statistic.
 2. "Korea Land & Housing Corporation," Wikipedia — used for the 2009 merger of the Korea Land Corporation and the Korea National Housing Corporation into the present LH, and LH's ongoing mandate. Basic-facts tier source. [en.wikipedia.org](https://en.wikipedia.org/wiki/Korea_Land_%26_Housing_Corporation)
 3. "The Land Readjustment Program" and "Seoul's Land Readjustment with Gangnam Development," Seoul Solution (Seoul Metropolitan Government policy archive) — [seoulsolution.kr](https://www.seoulsolution.kr/en/content/land-readjustment-program) — read this session; used to corroborate the public-development model, describing land readjustment (replotting private parcels to secure land for public facilities and serviced urban land) as a core Korean instrument for supplying urban land and capturing part of the resulting land-value uplift for infrastructure.
+4. "Did South Korea just elect a Georgist President?", Progress and Poverty (Substack), June 2025. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/did-south-korea-just-elect-a-georgist) — used for the advocacy-commentary characterization of Lee Jae-myung's land-dividend record and its Georgist reception (advocacy source, cited as such).
+5. Namhoon Kang (2024), "Common Wealth Rent and Basic Income," presentation to the BIEN Congress 2024, Basic Income Korean Network ([basicincomekorea.org](https://basicincomekorea.org/)) — used for the Korean movement's rent-based (rather than general-revenue) framing of basic-income financing (advocacy source, cited as such). [VERIFY: the direct PDF URL was truncated in the harvest data and could not be reconstructed this session; the file lives under basicincomekorea.org/wp-content/uploads/2024/09/.]

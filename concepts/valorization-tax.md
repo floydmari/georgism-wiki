@@ -1,8 +1,8 @@
 ---
 title: "Valorization Tax (Contribución de Valorización)"
 category: concepts
-tags: [concepts, stub, valorization-tax, special-assessment, land-value-capture, colombia, bogota, betterment-levy]
-stub: true
+tags: [concepts, valorization-tax, special-assessment, land-value-capture, colombia, bogota, betterment-levy]
+stub: false
 excerpt: "Colombia's special-assessment charge on properties benefiting from public works, collected as the Contribución de Valorización since 1921 and used intensively in Bogotá since the 1950s-60s to fund roads and infrastructure."
 last_reviewed: 2026-07-11
 ---

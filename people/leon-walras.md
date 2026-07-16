@@ -17,7 +17,7 @@ one of the three independent founders of the marginal-utility revolution.[1]
 As professor of political economy at the University of Lausanne he founded
 the **Lausanne School**, and his *Éléments d'économie politique pure* (1874)
 pioneered **general equilibrium theory** — the mathematical demonstration
-that prices across all markets can simultaneously clear. Joseph Schumpeter
+that prices across all markets can simultaneously clear. [Joseph Schumpeter](/wiki/joseph-schumpeter/)
 called the achievement so significant that he considered Walras "the greatest
 of all economists," and the general-equilibrium framework was carried forward
 by Vilfredo Pareto, Knut Wicksell, and later formalized rigorously by Kenneth

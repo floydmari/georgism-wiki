@@ -1,8 +1,8 @@
 ---
 title: "John Dewey"
 category: people
-tags: [people, philosopher, pragmatism, henry-george-school, education, stub]
-stub: true
+tags: [people, philosopher, pragmatism, henry-george-school, education]
+stub: false
 excerpt: "America's leading philosopher and educational reformer, John Dewey was a lifelong, outspoken admirer of Henry George, serving as honorary president of the Henry George School and writing in praise of Progress and Poverty."
 last_reviewed: 2026-07-11
 born: 1859

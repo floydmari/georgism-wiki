@@ -2,7 +2,7 @@
 title: "Floyd Marinescu"
 category: people
 tags: [people, canada, common-wealth-canada, ubi, advocacy]
-stub: true
+stub: false
 excerpt: "Canadian technology entrepreneur and advocate for common-wealth economics; founder of Common Wealth Canada and UBI Works, and publisher of the Canadian economic-rent analyses the wiki's Canada coverage draws on."
 ---
 

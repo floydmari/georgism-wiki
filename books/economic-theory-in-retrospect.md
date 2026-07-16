@@ -56,7 +56,7 @@ The classical economists drew the practical corollary that "ground rent was an '
 
 ### Land as a Factor of Production (Ch. 3, §10)
 
-Blaug notes that J.S. Mill was the first to admit explicitly that rent land could earn in one use forms a cost when used for another purpose. Jevons seized on this to show that land does have a supply price like any other input and that, contrariwise, all inputs when completely specialised earn a differential rent. This led to the modern concept of "transfer earnings" — the earnings of any input in excess of its transfer price constitute "economic rent."
+Blaug notes that J.S. Mill was the first to admit explicitly that rent land could earn in one use forms a cost when used for another purpose. Jevons seized on this to show that land does have a supply price like any other input and that, contrariwise, all inputs when completely specialised earn a differential rent. This led to the modern concept of "[transfer earnings](/wiki/transfer-earnings/)" — the earnings of any input in excess of its transfer price constitute "economic rent."
 
 Blaug observes that the classical authors treated land as a "free gift of Nature" distinct from man-made means of production, but argues that "natural resources do not differ from the general run of capital goods in that they do require initial development and subsequent maintenance charges" — so that if land means costless gifts of nature, "a very large part of the territorial resources of a society are not 'land' at all" (Ch. 3, §10).
 

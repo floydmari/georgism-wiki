@@ -1,8 +1,8 @@
 ---
 title: "Guy Standing"
 category: people
-tags: [people, standing, basic-income, commons, rentier, precariat, uk, stub]
-stub: true
+tags: [people, standing, basic-income, commons, rentier, precariat, uk]
+stub: false
 excerpt: "British economist (SOAS), co-founder of the Basic Income Earth Network and theorist of the precariat and rentier capitalism; his Plunder of the Commons (2019) proposes a commons fund levied on rentier income — the citation behind the knowledge-commons argument in Common Wealth Canada's Natural Common Wealth paper."
 last_reviewed: 2026-07-10
 ---

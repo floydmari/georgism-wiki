@@ -2,12 +2,12 @@
 title: "Andelson (2000): A Georgist Rejoinder to F.A. Hayek"
 category: research
 subcategory: wiki-research-georgism
-tags: [research, andelson, hayek, unearned-increment, austrian-economics, stub]
+tags: [research, andelson, hayek, unearned-increment, austrian-economics]
 authors: [Robert V. Andelson]
 year: 2000
 tier: Important
 source_url: https://www.jstor.org/stable/3487863
-stub: true
+stub: false
 excerpt: "Robert Andelson's direct scholarly reply to F.A. Hayek's objection that landowners' earned and unearned increments cannot be precisely separated — arguing the precision Hayek demands exceeds what any workable tax assessment, Georgist or otherwise, requires."
 last_reviewed: 2026-07-12
 bears_on_objections: [lvt-austrian-critique]

@@ -141,6 +141,7 @@ tests.
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - [The Decline of Homeownership Among Young Adults (Cribb, Hood & Hoyle)](/wiki/cribb-hood-hoyle-homeownership/) — UK cohort evidence and the price driver
 - [A Lost Generation? Young Families' Wealth (St. Louis Fed)](/wiki/lost-generation-young-families-wealth/) — US birth-cohort wealth deficits
+- [Walks et al. — Income Inequality and Polarization in Toronto and York Region](/wiki/walks-toronto-income-polarization/) — the spatial geography on which Canadian locational exclusion operates (context; the paper itself makes no land-rent claim)
 - [Unearned Increment](/wiki/unearned-increment/) · [Land Speculation](/wiki/land-speculation/) · [Land Value Tax](/wiki/land-value-tax/)
 
 ## Sources

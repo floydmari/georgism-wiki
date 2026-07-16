@@ -220,6 +220,7 @@ where it can be stated precisely rather than compressed into a single frontmatte
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - [De Loecker, Eeckhout & Unger — The Rise of Market Power and the Macroeconomic Implications](/wiki/de-loecker-eeckhout-unger-markups/)
 - [Autor, Dorn, Katz, Patterson & Van Reenen — The Fall of the Labor Share and the Rise of Superstar Firms](/wiki/autor-superstar-firms/)
+- [Giovannoni — What Do We Know About the Labor Share? Part III](/wiki/giovannoni-labor-share-decomposition/) — a complementary measurement-side decomposition (gross/net, self-employment imputation, sectoral shifts) of the same labor-share decline
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Economic Rent](/wiki/economic-rent/)
 

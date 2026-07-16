@@ -1,8 +1,8 @@
 ---
 title: "Kuznets Cycles"
 category: concepts
-tags: [concepts, land-cycle, business-cycle, construction, kuznets, stub]
-stub: true
+tags: [concepts, land-cycle, business-cycle, construction, kuznets]
+stub: false
 excerpt: "Simon Kuznets's mainstream-recognized ~15–25 year medium-range economic swings in construction and demographic movement, cited by land-cycle Georgists as independent corroboration of the ~18-year land cycle."
 last_reviewed: 2026-07-11
 ---

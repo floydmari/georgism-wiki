@@ -1,8 +1,8 @@
 ---
 title: "Alfred Marshall"
 category: people
-tags: [people, alfred-marshall, neoclassical-economics, cambridge, rent-theory, stub]
-stub: true
+tags: [people, alfred-marshall, neoclassical-economics, cambridge, rent-theory]
+stub: false
 excerpt: "Founding father of neoclassical economics (1842–1924) who debated Henry George at Oxford in 1883 — and whose own theory kept more of the land question alive than his successors did: quasi-rents, the 'public value' of land, and support for taxing site value."
 last_reviewed: 2026-07-06
 ---

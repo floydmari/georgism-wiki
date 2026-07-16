@@ -1,8 +1,8 @@
 ---
 title: "Land Banking"
 category: concepts
-tags: [concepts, land-banking, land-value-capture, public-land-leasing, stockholm, sweden, stub]
-stub: true
+tags: [concepts, land-banking, land-value-capture, public-land-leasing, stockholm, sweden]
+stub: false
 excerpt: "Public purchase of land ahead of the development that will raise its value, so the increment accrues to the municipality rather than speculators — Stockholm built, per Fred Harrison, the largest municipal land bank in Western Europe, but it did not neutralize the land-speculation cycle."
 last_reviewed: 2026-07-11
 ---

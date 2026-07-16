@@ -1,8 +1,8 @@
 ---
 title: "Objection: Bubbles Cannot Be Identified in Advance"
 category: objections
-tags: [objections, stub, business-cycle, land-cycle, forecasting, monetary-policy, 18-year-cycle]
-stub: true
+tags: [objections, business-cycle, land-cycle, forecasting, monetary-policy, 18-year-cycle]
+stub: false
 status: "Partly answered — the land-cycle school's ex-ante prediction record is real, dated, and specific to real-estate/land-collateral bubbles, which weakens the strongest form of the doctrine; it does not establish that any bubble in any asset class can be reliably timed, nor does it answer the separate claim that popping a bubble via monetary policy is costly even when it is spotted."
 excerpt: "The Greenspan doctrine held bubbles can't be reliably identified before they burst, so central banks should clean up after, not pre-empt. Georgist land-cycle economists made dated, specific 2008-crash predictions years in advance — a direct challenge to the doctrine's strongest form."
 last_reviewed: 2026-07-12

@@ -1,8 +1,8 @@
 ---
 title: "James Mill"
 category: people
-tags: [people, james-mill, classical-economics, david-ricardo, unearned-increment, utilitarianism, stub]
-stub: true
+tags: [people, james-mill, classical-economics, david-ricardo, unearned-increment, utilitarianism]
+stub: false
 excerpt: "Scottish philosopher-economist (1773–1836), David Ricardo's mentor, who in Elements of Political Economy (1821) became the first economist to propose taxing the future increase in land rent — decades before his son John Stuart Mill made the idea famous."
 last_reviewed: 2026-07-12
 born: 1773

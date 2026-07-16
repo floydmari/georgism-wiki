@@ -1,8 +1,8 @@
 ---
 title: "Steven Cord"
 category: people
-tags: [people, steven-cord, land-value-tax, split-rate-taxation, pennsylvania, land-rent-estimates, stub]
-stub: true
+tags: [people, steven-cord, land-value-tax, split-rate-taxation, pennsylvania, land-rent-estimates]
+stub: false
 died: 2020
 excerpt: "American historian and Georgist scholar-activist (professor at Indiana University of Pennsylvania) whose land-rent revenue estimates fed the LVT revenue-sufficiency debate, and who led decades of grassroots advocacy behind Pennsylvania's cluster of split-rate ('two-rate') property tax adoptions."
 last_reviewed: 2026-07-12

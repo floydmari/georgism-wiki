@@ -113,7 +113,7 @@ alternative of writing "down debts to a level that can be paid." He notes that "
 bondholders prefer the former option" and "oppose debt write-downs." The book connects this
 modern proposal to ancient precedent: a chapter is titled "Financial Austerity or a Clean
 Slate?", and Hudson invokes the Bronze Age Mesopotamian and Biblical Jubilee-Year traditions of
-royal debt cancellation ("Clean Slate proclamations") as historical evidence that periodic
+royal debt cancellation ("[Clean Slate proclamations](/wiki/clean-slate-proclamations/)") as historical evidence that periodic
 write-downs were a normal restorative mechanism, contrasting them with the modern pro-creditor
 insistence that all debts must be paid. [Source: Hudson, *Killing the Host*, Introduction and
 Chapter 26, "Financial Austerity or a Clean Slate?"]

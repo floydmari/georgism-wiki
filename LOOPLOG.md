@@ -809,3 +809,95 @@ mobiledoc — reference-list author names). Result: +344 links across ~110 posts
 + cross-node splits (diminishing returns, logged). Entity links live: ~1,310 total.
 The 18.6-year article: 25 wiki links incl. Patel, Ryan-Collins, Gaffney, Gordon Brown,
 Toby Lloyd, Laurie Macfarlane. Standing rule: NO numeric caps in future prune prompts.
+---
+---
+
+## 2026-07-14 — Slack deep-scan triage + first ingest wave (session udw74p, issue #24)
+
+Wave 29 in the commit numbering. Input: 516 research candidates harvested from all SES Slack
+channels (2019–2026), pre-deduped against registry URLs but not against titles — title-level
+dedupe caught 13 mirrors of already-ingested sources (incl. the VoxEU/CEPR copies of
+goodhart-stimulus, the IMF landing page for schwerhoff-imf-equity-efficiency, and the ILO/UVM
+copies of Goldsmith's Alaska papers), plus 2 registry rows that were outright mislabeled and are
+now fixed (wpiea2022187 = Hebous et al. WP/22/187, not Baunsgaard-Vernon; CD Howe E-Brief 341 =
+Dachis "Buyers Beware", not a dev-charges title).
+
+Division of labor per Floyd's directive: Haiku for bibliographic lookups, 3 Sonnet T2 writers
+for the 10 entry drafts (each fetched its sources — 8/10 read in full, 2 partially via verified
+secondary), Fable T1 for triage judgment, review, claim-lane wiring, and the gate. Commits:
+4c3898d (registry +191) · 89e93d8 (triage map) · 0dcce23 (10 research pages + wiring).
+
+Loop-priority check (EDITORIAL §0): the wave enriched all three claim lanes — benefits
+(lvt-dampens-land-speculation, resource-rent-capture-works ×2, rent-targeting-taxes-reduce-debt-bias),
+problems (housing-unaffordability-is-a-land-problem), objections (quasi-rents steelman +2 sources,
+land-speculation-is-productive response +Brown 1927), and added honest counter-evidence
+(BC panel as challenged_by on rent-dividends-reduce-poverty). Gap surfaced and queued: no
+objections/ page for universal-vs-targeted transfer efficiency.
+
+811 pages; lint 0 errors, 11 warnings (7 new honest [VERIFY]/wording flags, routed);
+0 orphans; preview built. TIER-1 remainder (~64 rows) and TIER-2 wave queued in BACKLOG.
+
+---
+
+## 2026-07-15 — Wave 30: Slack TIER-1 remainder, first cut (session udw74p, issue #24)
+
+12 research entries (3 Sonnet lanes, Fable T1 review/wiring) + the objections/ page the wave-29
+UBI entries flagged as missing (universal-transfers-are-inefficient, T1-drafted: BC-panel
+steelman, World Bank 10-country corroboration, Woo/Forget/Widerquist-Howard responses, honest
+net assessment that the arithmetic stands) + Haiku dead-link mirror hunt (all 12 registry
+dead links repaired with verified-200 mirrors; the Reform Scotland "SWAY" row turned out to be
+a realist review of LVT/wealth taxes — retitled, queued).
+
+Source-integrity catches this wave: E-Brief 341 ≠ dev-charges paper (= Dachis Buyers Beware,
+already fixed w29); the supplied De Schutter URL was a different report (correct A/HRC/56/61
+fetched from UN ODS); CIB study's real authors are Siemiatycki-Fagan-Arku (U of T), CIB only
+funded; lead author is Blanca (not Beatriz) Fernandez Milan; wpiea2022187 = Hebous et al.
+(fixed w29, entry now written). Two entries carry deliberately counter-narrative findings and
+are wired on the challenge side: CMHC (quick-flip speculation NOT Montreal's main driver) and
+BoC SAN 2023-12 (markup growth <1/10 of 2021 inflation).
+
+Claim-lane deltas: rent-dividends-reduce-poverty +1 challenger (World Bank) · corporate-profits
++1 support (Hebous) +1 challenger (BoC) · resource-rent-dividends-work + Mongolia failure mode ·
+public-investment-capitalizes + CIB practitioner survey · quasi-rents objection +1 steelman
+source · fire-sector/financialization-of-land/land-value-tax/land-value-capture/denmark/
+citizens-dividend enriched. Commits: 4a2072b · b68d667 · cde4c89. 824 pages; lint 0 errors;
+0 orphans; registry 1,098 rows, 0 dead links.
+
+---
+
+## 2026-07-15b — Wave 31: TIER-1 lane closed out; UBI scope ruling applied (session udw74p, issue #24)
+
+Floyd's scope ruling landed mid-loop (UBI only with rent/commons tie — codified EDITORIAL §0):
+2 pure-UBI pages deleted on his instruction (namibia-big-pilot, de-schutter-poverty-beyond-growth;
+wiring unwound, Osterkamp companion rows dropped), 11 registry rows demoted, pure-UBI candidates
+struck from queues. Deploy attempted per Floyd's "commit/deploy" — blocked on the Ghost Admin key
+(op://Emma item not resolving; Floyd-side fix, everything push-complete for a credentialed sync).
+
+Wave 31 entries (2 Sonnet agents, T1 review): sway-lvt-wealth-taxes-review (Sam Wolstenholme-Britt
+for Reform Scotland — MSc-placement report, graded supplementary; NWT avoidance losses 44%+ vs the
+immobile land base, wired into lvt-not-enough-revenue Response) · london-group-land-balance-sheet
+(ABS statisticians on the land/structure valuation problem — wired into the larson/davis-larson
+land-measurement cluster) · walks-toronto-income-polarization (spatial-inequality context; honest
+flag: no land-rent claim in the source) · carney-future-of-work (venue corrected to the Whitaker
+Lecture, Dublin — the Slack context's "Toronto PPF" was wrong; Engels'-pause base rate for the AI
+lane). First TIER-2 citation batch under the scope rule: SWF proposal landscape (Sanders/Bores/
+CTF/IPPR×2) and US LVT legislative activity (Sightline WA, NY S7871) — 7 rows Referenced.
+
+TIER-1 lane from issue #24 is COMPLETE: all 74 rows in registry; 24 research entries + 1 objection
+page live; remainder registry-only by design or explicitly deferred (Fossum → books wave;
+Hope-Limberg → general-tax, out of the rent lane). Issue closed; TIER-2 citation long-tail
+continues in the normal loop. 826 pages; lint 0 errors.
+
+---
+
+## 2026-07-15c — Post-#24 loop: TIER-2 citations batch 2 + college-town LVT entry (session udw74p)
+
+Scope-filtered TIER-2 continuation: places/south-korea gains a Contemporary Georgist Politics
+section (Lee Jae-myung's land-dividend record + BIEN Korea's common-wealth-rent framing — Kang
+PDF URL was truncated in the harvest and flagged [VERIFY], not guessed); NEF What Lies Beneath
+cited on financialization-of-land; Equal Right's AI-commons framing added to the SWF proposal
+landscape. New entry: miller-hoskins-college-town-lvt (South Bend 4:1 + Princeton ~3:1 parcel
+simulations, advocacy-graded; both report PDFs read — Princeton found at its moved URL; the
+advocates' own homestead numbers wired into the asset-rich-cash-poor objection's steelman).
+Commits fe0c8d8 · 5edd217. 827 pages; lint 0 errors; registry 1,098 rows. Next iteration:
+TIER-2 remainder by target page, then BACKLOG NOW lanes.

@@ -48,6 +48,14 @@ true size of the base (the critics' view) is exactly what the dispute is about.
 The picture is more favourable than the headline figure suggests, though honest
 advocates concede full replacement is uncertain:
 
+0. **What LVT raises, it keeps.** A comparative point from the wealth-tax
+   literature: the [SWAY realist review](/wiki/sway-lvt-wealth-taxes-review/)
+   (an MSc-placement report for Reform Scotland, weighted accordingly) finds
+   recurrent net wealth taxes in OECD practice lost 44%+ of theoretical revenue
+   to avoidance and underreporting, while no comparable avoidance channel exists
+   for an immobile land base — whatever LVT's yield ceiling, its *realization
+   rate* compares favourably with the mobile-base alternatives it would replace.
+
 1. **Measured rent understates true rent.** [Gaffney (2009)](/wiki/gaffney-hidden-taxable-capacity/)
    argues conventional figures omit large categories — under-assessed urban land,
    public land and resource rents, spectrum, and transport corridors. Foldvary's

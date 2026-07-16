@@ -28,7 +28,7 @@ This option value is the core economic logic of speculative holding: the owner r
 
 The key variable determining how much speculative holding occurs is the **carrying cost** of holding land — the recurring expense an owner pays simply to maintain ownership, regardless of use. Under conventional property taxes, an empty or underused parcel often incurs little tax, because the tax is based on the value of buildings and improvements rather than land alone. This makes the carrying cost low and the option to wait cheap.
 
-A [land value tax](/wiki/land-value-tax/) changes this by taxing the full annual value of the location regardless of use. By converting the "free" wait into a costly one, LVT is theorized to **shrink the option value of holding land idle**, pushing owners to develop, rent, or sell. This is the mechanism behind the outcome that [land value taxation dampens land speculation](/wiki/lvt-dampens-land-speculation/).
+A [land value tax](/wiki/land-value-tax/) changes this by taxing the full annual value of the location regardless of use. By converting the "free" wait into a costly one, LVT is theorized to **shrink the option value of holding land idle**, pushing owners to develop, rent, or sell. This is the mechanism behind the outcome that [land value taxation dampens land speculation](/wiki/lvt-dampens-land-speculation/). The argument is nearly a century old: [Brown (1927)](/wiki/brown-land-speculation-lvt/) made the same carrying-cost case in the *Journal of Political Economy*, pointing to vacant in-city lots forcing development onto inferior fringe land as speculation's social cost.
 
 ### Appreciation Expectations
 

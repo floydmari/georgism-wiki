@@ -2,12 +2,12 @@
 title: "Bourassa (1987): Land Value Taxation and New Housing Development in Pittsburgh"
 category: research
 subcategory: wiki-research-lvt
-tags: [research, pittsburgh, split-rate, construction, empirical, pennsylvania, stub]
+tags: [research, pittsburgh, split-rate, construction, empirical, pennsylvania]
 authors: [Steven C. Bourassa]
 year: 1987
 tier: Important
 source_url: https://www.economicpossibility.org/sources/land-value-taxation-and-new-housing-development-in-pittsburgh
-stub: true
+stub: false
 excerpt: "The earliest econometric study of Pittsburgh's split-rate property tax, finding that the incentive effect of heavier land taxation significantly increased the number of new housing units built, without raising their average cost."
 last_reviewed: 2026-07-12
 supports: [split-rate-increases-construction]

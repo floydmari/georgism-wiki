@@ -13,7 +13,7 @@ supports_outcomes: []
 
 ## Summary
 
-*Ecological Economics and the Ecology of Economics: Essays in Criticism* is a collection of previously published essays by **Herman E. Daly** (1938–), Professor at the University of Maryland School of Public Affairs. Daly was Senior Economist in the Environment Department of the World Bank from 1988 to 1994, and previously Alumni Professor of Economics at Louisiana State University (Daly 1999, p. 13). The book was published by Edward Elgar in 1999.
+*Ecological Economics and the Ecology of Economics: Essays in Criticism* is a collection of previously published essays by **[Herman E. Daly](/wiki/herman-daly/)** (1938–), Professor at the University of Maryland School of Public Affairs. Daly was Senior Economist in the Environment Department of the World Bank from 1988 to 1994, and previously Alumni Professor of Economics at Louisiana State University (Daly 1999, p. 13). The book was published by Edward Elgar in 1999.
 
 Daly's thesis is that ecological economics "sees the economy as a subsystem of a larger ecosystem that is finite, non-growing, and materially closed, while open to a flow-through (throughput) of solar energy that is also finite and non-growing" (Daly 1999, p. 14). The book's two-part title reflects its dual concern: ecological economics as a discipline, and the competitive/symbiotic relations between different "species" of economists — the "ecology of economics" (Daly 1999, p. 14). Daly argues that standard neoclassical economics has become "a brittle, desiccated and ossified discipline" (Daly 1999, p. 14).
 

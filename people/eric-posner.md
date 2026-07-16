@@ -1,8 +1,8 @@
 ---
 title: "Eric A. Posner"
 category: people
-tags: [people, radical-markets, harberger-tax, cost, law-and-economics, stub]
-stub: true
+tags: [people, radical-markets, harberger-tax, cost, law-and-economics]
+stub: false
 born: "December 5, 1965, United States"
 excerpt: "University of Chicago legal scholar and, with E. Glen Weyl, co-author of Radical Markets (2018) -- the book whose Common Ownership Self-Assessed Tax proposal extends Georgist land-tax logic to property generally."
 last_reviewed: 2026-07-11

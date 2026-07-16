@@ -1,8 +1,8 @@
 ---
 title: "United States"
 category: places
-tags: [places, united-states, split-rate, pennsylvania, alaska, henry-george, stub]
-stub: true
+tags: [places, united-states, split-rate, pennsylvania, alaska, henry-george]
+stub: false
 excerpt: "The country with the wiki's densest concentration of real-world Georgist experiments — Pennsylvania's split-rate cities, Alaska's resource-rent dividend, Henry George's own 1886 campaign, and the property-tax revolt of Proposition 13 — but no national land value tax."
 last_reviewed: 2026-07-11
 ---

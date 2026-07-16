@@ -66,7 +66,7 @@ Harrison documents that Japanese urban land prices rose **2,200%** from 1955 to 
 
 Harrison presents Australian state-level data as a natural experiment. In Victoria (1966–78), cities taxing only site value (SVR) saw dwelling growth of +12.9%, while cities taxing land plus buildings (NAV) saw only +2.8% (Ch. 15). Building permits in 1975–78 were 39.9% of the 1966–69 level in SVR cities versus only 9.5% in NAV cities (Ch. 15). When Caulfield switched from SVR to composite rating in 1969–70, building permits dropped 66%, compared to a 16% drop in SVR cities (Ch. 15).
 
-The Canberra leasehold system (1958–71) is cited as evidence of how land speculation penetrates even public leasehold: average site prices rose from A$775 to A$3,215 (+22.5% p.a.) versus CPI at +2.3% p.a. Restricted first-home auctions averaged A$2,071, compared to ~A$3,200 in the five largest state capitals — a speculative premium of over A$1,000 per site (Ch. 18).
+The [Canberra leasehold system](/wiki/canberra-leasehold-system/) (1958–71) is cited as evidence of how land speculation penetrates even public leasehold: average site prices rose from A$775 to A$3,215 (+22.5% p.a.) versus CPI at +2.3% p.a. Restricted first-home auctions averaged A$2,071, compared to ~A$3,200 in the five largest state capitals — a speculative premium of over A$1,000 per site (Ch. 18).
 
 ### The Profit Squeeze (Ch. 21)
 

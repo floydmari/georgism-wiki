@@ -60,7 +60,19 @@ financial-sector "output" is, in Hudson's reading, a claim on land rent dressed 
 as a return to capital.[2] The same loop is the analytical core of
 [Ryan-Collins, Lloyd & Macfarlane's](/wiki/ryan-collins-rethinking-land-housing/)
 land–credit feedback cycle and of the credit side of the
-[18-year land cycle](/wiki/18-year-land-cycle/) literature.
+[18-year land cycle](/wiki/18-year-land-cycle/) literature. A parallel heterodox
+voice reaches a similar destination by a different route:
+[Lapavitsas](/wiki/lapavitsas-financialization/) (Marxist tradition) argues
+finance increasingly profits by "financial expropriation" of household wage
+income via debt service — locating the extraction in the debtor's income stream
+rather than in Hudson's appreciating land collateral. The two mechanisms are
+compatible but analytically distinct, and the wiki cites them separately. On
+the scale question, [Giovannoni's national-accounts
+decomposition](/wiki/giovannoni-labor-share-decomposition/) documents the
+compensation shift itself: the US manufacturing compensation share fell about
+14 points over 1977–2007 while finance's rose about 18 — a measured relocation
+of income toward FIRE that the paper reports without itself characterizing it
+as rent extraction.
 
 ## Why It Matters to the Rent Debate
 
