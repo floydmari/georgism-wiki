@@ -23,5 +23,5 @@ Georgist and land-cycle writers read the frontier's closure through the lens of 
 
 ## Sources
 
-1. Frederick Jackson Turner, "The Significance of the Frontier in American History" (1893). [Full text, National Humanities Center](https://nationalhumanitiescenter.org/pds/gilded/empire/text1/turner.pdf) · [Wikipedia overview](https://en.wikipedia.org/wiki/The_Significance_of_the_Frontier_in_American_History) — used for the thesis, the 1893 AHA delivery, and the 1890 Census closure finding.
+1. Frederick Jackson Turner, "The Significance of the Frontier in American History" (1893). [Full text, National Humanities Center](https://nationalhumanitiescenter.org/pds/gilded/empire/text1/turner.pdf) · [archived](https://archive.progress.org/files/the-significance-of-the-frontier-in-american-history.pdf) · [Wikipedia overview](https://en.wikipedia.org/wiki/The_Significance_of_the_Frontier_in_American_History) — used for the thesis, the 1893 AHA delivery, and the 1890 Census closure finding.
 2. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (Shepheard-Walwyn, 2008), Ch. 9 — used for the Georgist reading of 1890 frontier closure as removing the "safety valve" and its link to the severity of later depressions; see the wiki's [book summary](/wiki/anderson-secret-life-real-estate/).

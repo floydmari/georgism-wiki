@@ -23,4 +23,4 @@ The model depends on an institutional arrangement in which a single, partly gove
 ## Sources
 
 1. Ryan-Collins, Lloyd & Macfarlane, *Rethinking the Economics of Land and Housing* (2017), Ch. 7, Box 7.1 — used for the Rail + Property model as a land-value-capture case study. [Book page](/wiki/rethinking-economics-land-housing/)
-2. Jauregui-Fung, F., "The Case of Hong Kong Rail + Property Model," German Institute of Development and Sustainability (IDOS) — used for the mechanics of development-rights allocation, the land premium, and the share of MTRC revenue from property. [PDF](https://www.idos-research.de/uploads/media/Jauregui-Fung_Hong_Kong_MTR_IDOS.pdf)
+2. Jauregui-Fung, F., "The Case of Hong Kong Rail + Property Model," German Institute of Development and Sustainability (IDOS) — used for the mechanics of development-rights allocation, the land premium, and the share of MTRC revenue from property. [PDF](https://www.idos-research.de/uploads/media/Jauregui-Fung_Hong_Kong_MTR_IDOS.pdf) · [archived](https://archive.progress.org/files/the-case-of-hong-kong-rail-property-model.pdf)

@@ -969,3 +969,17 @@ sha256 manifest sources/gaffney-r2-manifest.csv is the record). Registry-wide PD
 preservation sweep into PRIVATE wiki-source-archive running (resumable;
 sources/r2-archive-manifest.csv). Todoist task closed. Preservation posture: the corpus
 now survives masongaffney.org's death; public serving limited to permissioned material.
+
+## 2026-07-17 — License pass: 18 sources promoted to public archive, 16 wiki pages annotated
+
+Classification (192 archived PDFs): rules pass found 26 candidates; T1 pre-review caught
+substring/date false positives (treasury.govt.nz≠US, 'Canberra in Crisis' 1971, AJES 1971,
+IP-paper 'public domain' as content); Sonnet doc-level verification settled 18
+VERIFIED-PROMOTE / 7 HOLD / 1 already-public. Notable holds: Furman-Orszag (private
+co-author on .gov host), Katz Commission (SA state copyright), Hudson AJES (© 2008).
+Promoted set (server-side copy, size-verified): 6 US federal works, 7 CC-licensed
+(variants recorded), 3 pre-1931 PD, 2 PD-stated — served at archive.progress.org/files/
+with readable slugs; ledger sources/r2-public-files.csv. 16 wiki pages now carry
+[archived] fallback links (14 auto via registry mapping + 2 hand-matched). Private
+holdings stay private. Classifier .gov-final-label fix committed. Archive totals:
+193 gaffney/ + 18 files/ public; 192 private. lint 0 errors.
