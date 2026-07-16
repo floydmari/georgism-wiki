@@ -1,5 +1,11 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+**CLAIM (2026-07-15, session 2z2oww, branch `claude/georgism-wiki-interlink-publish-2z2oww`):
+the claim-lane enrichment wave — objection steelman "government will waste the rent"
+(public-choice), lvt-reduces-sprawl 5th supporter, foldvary-reply-gochenour-caplan,
+raley-citizens-dividend verify, T3 mechanical-debt batch (BC SVT rates + Sources
+annotations). Does NOT touch the Slack lane (udw74p's).**
+
 ## ⟳ RESUME HERE (updated 2026-07-15, session udw74p — post-deploy)
 
 **CLAIM: the entire Slack-candidates lane (issue #24 waves + TIER-2 citation wave) is owned by
