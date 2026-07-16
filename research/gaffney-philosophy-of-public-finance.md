@@ -82,4 +82,4 @@ Section 6 restates, more briefly, the agglomeration argument Gaffney had already
 
 ## Sources
 
-1. Mason Gaffney (1998), "The Philosophy of Public Finance," Chapter 7 in Fred Harrison (ed.), *The Losses of Nations: Deadweight Politics versus Public Rent Dividends* (London: Othila Press, 1998), pp. 175–205 — used for all claims, quotations, and the equation derivation on this page; read in full and spot-checked directly against the source PDF. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/G44Philosophy_of_Public_Finance.CV.pdf)
+1. Mason Gaffney (1998), "The Philosophy of Public Finance," Chapter 7 in Fred Harrison (ed.), *The Losses of Nations: Deadweight Politics versus Public Rent Dividends* (London: Othila Press, 1998), pp. 175–205 — used for all claims, quotations, and the equation derivation on this page; read in full and spot-checked directly against the source PDF. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/G44Philosophy_of_Public_Finance.CV.pdf) · [archived](https://archive.progress.org/gaffney/publications/G44Philosophy_of_Public_Finance.CV.pdf)

@@ -957,3 +957,15 @@ sha256 manifest (sources/gaffney-r2-manifest.csv); R2 upload BLOCKED on bucket a
 (vault token is bucket-scoped) — Floyd to name/create buckets. archive_sources_r2.py
 ready for the all-registry-PDFs preservation sweep (PRIVATE bucket; archive-not-serve
 for copyrighted sources). 839 pages, lint 0 errors.
+
+## 2026-07-16 (night) — archive.progress.org LIVE: full Gaffney mirror on R2
+
+Floyd created buckets + token; executed the runbook: 193/193 objects uploaded and
+size-verified to gaffney-archive; custom domain archive.progress.org attached via the
+expanded progress.org zone token and serving (spot-checked 4 URLs incl. space-encoded,
+byte-identical). All 12 Gaffney research pages now carry '[archived]' links beside the
+masongaffney.org originals; the 10 mirrored PDFs removed from the repo (OCR texts kept;
+sha256 manifest sources/gaffney-r2-manifest.csv is the record). Registry-wide PDF
+preservation sweep into PRIVATE wiki-source-archive running (resumable;
+sources/r2-archive-manifest.csv). Todoist task closed. Preservation posture: the corpus
+now survives masongaffney.org's death; public serving limited to permissioned material.

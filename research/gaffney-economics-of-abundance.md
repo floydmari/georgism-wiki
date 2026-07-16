@@ -131,5 +131,5 @@ Schwerhoff et al.).
    (internal references place it c. 1993–94) — used for the entire page: the
    nineteen-resolutions framing, the equity/efficiency, demand/supply-side, and
    structural/macro arguments, the Riverside anecdote, the common-rights-and-tenure
-   argument, and the closing political epilogue. [PDF](https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf)
+   argument, and the closing political epilogue. [PDF](https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf) · [archived](https://archive.progress.org/gaffney/workpapers/WP018 George's Economics of Abundance.pdf)
    (verified against the PDF directly for all direct quotations on this page).

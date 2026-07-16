@@ -63,7 +63,7 @@ This is unpublished course-note material — an outline with appendices explicit
 
 ## Sources
 
-1. Mason Gaffney (1982), "Causes of Downturns: an Austro-Georgist Synthesis," working notes, masongaffney.org — used for the framing, the outline structure, and the appendices. Text mirrored and OCR'd from the site's scanned PDF this session (2026-07-16); quotations spot-checked against the source PDF. [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf)
+1. Mason Gaffney (1982), "Causes of Downturns: an Austro-Georgist Synthesis," working notes, masongaffney.org — used for the framing, the outline structure, and the appendices. Text mirrored and OCR'd from the site's scanned PDF this session (2026-07-16); quotations spot-checked against the source PDF. [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf) · [archived](https://archive.progress.org/gaffney/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf)
 2. Gaffney (1982), Section I, "Overpricing land" — used for George's original mechanism and the holdout-power quotation.
 3. Gaffney (1982), Section II, "Loss of Capital (K)" — used for the equity-withdrawal and consumption-of-gains mechanism.
 4. Gaffney (1982), Section III, "Excessive conversion of circulating K to fixed K" — used for the Austrian bridge and the land-substituting capital typology and quotations.

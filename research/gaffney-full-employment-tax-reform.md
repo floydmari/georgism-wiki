@@ -54,4 +54,4 @@ Gaffney supports the argument mostly with historical illustration rather than fo
 
 ## Sources
 
-1. Mason Gaffney (1993), "Full Employment through Total Tax Reform," Keynote Paper, Biennial Meeting, International Union for Land Value Taxation and Free Trade, Melbourne, 27 September 1993, published in *Conference Papers*, 1994 — used for all claims and quotations on this page; read in full for this page. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Full_employment_thru_total_tax_reform_1993.pdf)
+1. Mason Gaffney (1993), "Full Employment through Total Tax Reform," Keynote Paper, Biennial Meeting, International Union for Land Value Taxation and Free Trade, Melbourne, 27 September 1993, published in *Conference Papers*, 1994 — used for all claims and quotations on this page; read in full for this page. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Full_employment_thru_total_tax_reform_1993.pdf) · [archived](https://archive.progress.org/gaffney/essays/Full_employment_thru_total_tax_reform_1993.pdf)

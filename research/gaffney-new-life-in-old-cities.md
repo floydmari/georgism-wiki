@@ -213,5 +213,5 @@ undermined by other policies (a wage tax), or subverted by assessment practice.
    used for the entire page: the abstract's thesis, the NYC 1920–40 population
    comparisons and the Stein Committee quotation, the eight other-city case summaries,
    the Pittsburgh anomaly and its four explanations, the "pro-labor mayors" argument,
-   and Gaffney's own methodological hedges. [PDF](https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf)
+   and Gaffney's own methodological hedges. [PDF](https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf) · [archived](https://archive.progress.org/gaffney/publications/2006_New_Life_in_Old_Cities.pdf)
    (verified against the PDF directly for all direct quotations on this page).

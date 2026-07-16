@@ -50,4 +50,4 @@ This is a working paper published on Gaffney's personal site rather than in a pe
 
 ## Sources
 
-1. Mason Gaffney (2005), "The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)," Working Paper WP096, excerpt from notes on "Adequacy of Land as a Tax Base" — used for all claims, quotations, and the historical case list on this page; read in full for this page. [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf)
+1. Mason Gaffney (2005), "The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)," Working Paper WP096, excerpt from notes on "Adequacy of Land as a Tax Base" — used for all claims, quotations, and the historical case list on this page; read in full for this page. [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf) · [archived](https://archive.progress.org/gaffney/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf)

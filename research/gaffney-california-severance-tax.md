@@ -183,7 +183,7 @@ those sources were not available to, or cited by, Gaffney in 2006.
    used for the entire page: the Prop. 13/property-tax history, the Commonwealth
    Edison v. Montana citation, the six rent indicators, the four-condition incidence
    analysis, the royalty-offset argument, and the net-proceeds design recommendation.
-   [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf)
+   [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf) · [archived](https://archive.progress.org/gaffney/essays/2006_Severance_Tax_on_California_Oil.pdf)
    (verified against the PDF directly for all direct quotations on this page).
 2. Ballotpedia, "California Proposition 87, Severance Tax on Oil Producers to Fund
    Alternative Energy Programs Initiative (2006)" — used for the actual graduated

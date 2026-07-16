@@ -49,4 +49,4 @@ Gaffney builds two linked algebraic models. The first is a one-year model with o
 
 ## Sources
 
-1. Mason Gaffney (rev. January 2005), "A Better Way of Gauging the Excess Burden of Shiftable Taxes: Tax-induced Misallocation and Underuse of Land," Working Paper — used for all claims, derivations, and figures on this page; read in full for this page and verified against the source PDF. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf)
+1. Mason Gaffney (rev. January 2005), "A Better Way of Gauging the Excess Burden of Shiftable Taxes: Tax-induced Misallocation and Underuse of Land," Working Paper — used for all claims, derivations, and figures on this page; read in full for this page and verified against the source PDF. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf) · [archived](https://archive.progress.org/gaffney/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf)
