@@ -31,11 +31,13 @@ Each pass through the loop is a **wave**. There have been roughly **167 loop-wav
 
 Work is tiered, the way an editorial desk is — and the tiers are *editorial roles*, not just model sizes:
 
-- **T1 — the editor** (a frontier model). Judgment calls: what the evidence collectively justifies, whether a page's wording matches its source's strength, review of everyone else's drafts. **T1 is the sole gate to the published site.**
-- **T2 — the staff writers** (mid-tier models). Research and draft pages against vetted sources and templates.
-- **T3 — the copy desk** (fast, cheap models). Scan sources, wire cross-links, keep the checks green.
+- **T1 — the editor** (a frontier model — here, **Fable**). Judgment calls: what the evidence collectively justifies, whether a page's wording matches its source's strength, review of everyone else's drafts. **T1 is the sole gate to the published site.**
+- **T2 — the staff writers** (mid-tier models, interchanged — **GLM 5.2, Sonnet, and Opus**). Research and draft pages against vetted sources and templates.
+- **T3 — the copy desk** (fast, cheap models — **mostly Haiku**). Scan sources, wire cross-links, keep the checks green.
 
 For big jobs the desk **fans out**: a dozen agents run in parallel, each owning an exclusive set of files so they never collide, each returning its proposed changes to a coordinator that harvests them centrally, re-checks, and commits once. A single enrichment wave might launch three agents over the 37 objection pages, or twelve over a batch of articles — then one editor pass reconciles the lot. When the work is mechanical, it goes to the cheapest capable model; when it needs judgment, it waits for T1.
+
+The whole corpus, to the scale you see today, was built on **two Claude Max 20× subscriptions run nearly non-stop over two weeks**, alongside **GLM 5.2 served locally over Ollama** — a deliberately modest, off-the-shelf setup, not a bespoke cluster.
 
 ## The constitution that keeps it honest
 
@@ -48,6 +50,8 @@ None of this would be trustworthy without a rule the loop can't talk itself out 
 - **The rent gradient — the honesty rule that matters most here.** Land is the *clean* case: fixed supply, no incentive to damage, a century of evidence. Every step away from land — resource, monopoly, innovation, platform rents — is more contested. The airtight land case is *not allowed* to lend its certainty to the contested frontier. Pages carry that gradient explicitly.
 
 Two automated checks enforce the mechanical half of this on every change: a **linter** that fails the build if a page misrepresents itself (an evidence slug with no backing link, a claim page with no counter-evidence, an unresolved flag), and a **census** that tracks every page's backlinks and flags orphans. A page that breaks the rules doesn't ship.
+
+*Special thanks to **Liam Wilkinson**, whose quality-control review sharpened several of these guardrails — the checks that keep the loop honest are better for it.*
 
 ## Where the human sits
 
@@ -74,7 +78,11 @@ Because the method is the argument, the method's limits belong on the page too:
 
 ## Could you build one?
 
-Yes — and the ingredients are all here. A written constitution that defines a good page and can't be argued with. A loop that finds, mines, synthesizes, and verifies. Tiered agents that fan out for scale and defer to judgment. Mechanical checks that fail the build on dishonesty. An automated publish pipeline. And — the non-negotiable part — a human who sets the priorities, makes the calls the models can't, and holds the sole key to the front door.
+Yes — and the ingredients are all here, in the open. A written constitution that defines a good page and can't be argued with. A loop that finds, mines, synthesizes, and verifies. Tiered agents that fan out for scale and defer to judgment. Mechanical checks that fail the build on dishonesty. An automated publish pipeline. And — the non-negotiable part — a human who sets the priorities, makes the calls the models can't, and holds the sole key to the front door.
+
+Don't take our word for the method — **read the machinery yourself.** The full Markdown source, the editorial constitution, and the scripts live in the public repository at **[github.com/floydmari/georgism-wiki](https://github.com/floydmari/georgism-wiki)**, and the running reading list — every source found, its scan status, and where it landed — is the [sources registry](https://github.com/floydmari/georgism-wiki/blob/main/sources/registry.csv) (1,106 rows and counting). Scan it, check a page against its citation, or fork the whole approach.
+
+And this is a snapshot, not a finish line: as models better than Fable arrive, we expect to **regenerate these pages** — re-running the loop with stronger writers and sharper judgment — so the wiki improves not just by adding pages but by rebuilding the ones it has.
 
 The models are the labour. The constitution and the editor are why you can cite it.
 
