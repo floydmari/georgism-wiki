@@ -17,6 +17,11 @@ The short version: a **written constitution** defines what a good page is; **loo
 
 ## The loop
 
+<figure class="wiki-loopfig" style="float:right;width:340px;max-width:44%;margin:0.2rem 0 1.1rem 1.6rem;">
+<img src="https://www.progress.org/content/images/2026/07/loop.svg" alt="The loop diagram — Find, Read and mine, Synthesize, Verify, Expand, and repeat, gated by the editor's review before publishing to the main record" style="width:100%;height:auto;"/>
+<figcaption style="font-size:0.78rem;line-height:1.4;color:#6b6459;margin-top:0.4rem;text-align:left;">One pass through the loop. The editor's review is the sole door to the published record.</figcaption>
+</figure>
+
 The wiki grows the way a newsroom works a story, in five repeating moves:
 
 1. **Find** the literature — the papers, books, and people that bear on the land question. What's been found is tracked in a reading list (**1,106 sources** logged so far).
