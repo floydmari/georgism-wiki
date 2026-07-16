@@ -901,3 +901,21 @@ simulations, advocacy-graded; both report PDFs read — Princeton found at its m
 advocates' own homestead numbers wired into the asset-rich-cash-poor objection's steelman).
 Commits fe0c8d8 · 5edd217. 827 pages; lint 0 errors; registry 1,098 rows. Next iteration:
 TIER-2 remainder by target page, then BACKLOG NOW lanes.
+
+## 2026-07-16 — Wave (session 2z2oww): VERIFY burn-down + BACKLOG reconciliation
+
+Floyd: "keep looping, find more useful things." Claimed the claim-lane enrichment wave;
+discovered 4 of 5 claimed items were finished-but-unrecorded (sprawl at 6/5 w/ correct
+challenged_by discipline; foldvary reply wired since wave 1; public-choice steelman +
+raley both live) — BACKLOG NOW/NEXT sections reconciled against the page inventory so
+future sessions stop re-planning shipped work. Real work of the wave: VERIFY burn-down,
+10 markers closed across 10 pages (queue 27 -> ~16): Carver 1921 primary verbatim-confirms
+Brown; CMHC HMA found DISCONTINUED (March 2022), page rescoped; GIS take-up quantified
+(ESDC/Imbeau 2018: 89.8%, ~240k seniors) sizing the universal-transfers objection response;
+Ontario CBC cap confirmed; BoC markups note confirmed by Faryaar et al 2023; C&C p.370
+verbatim; fernandez-milan authorship settled; giovannoni negative finding dated; lapavitsas
+honest downgrade (all channels walled); CIB provenance made exact. Registry +7 rows. lint
+0 errors, warnings 30->20. T3: atcor Sources annotated; BC SVT rates verified current.
+Coordination: udw74p's Slack lane + unmerged tail (forget/nyc/south-korea/split-rate)
+deliberately untouched. Queue regenerated post-wave; next wave candidates: P&P + WoN
+deepen-scans, WS-GEOISM financial-rents sweep, Life of Henry George read&mine.
