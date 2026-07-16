@@ -76,5 +76,5 @@ This is the killer set: figures who agree on land value taxation *across* the po
 
 ---
 
-**Guides:** [Start Here](/wiki/start-here/) · [The Advocate's Arsenal](/wiki/advocates-arsenal/) · [Rebuttal Cards](/wiki/rebuttal-cards/) · [Evidence Dashboard](/wiki/evidence-dashboard/) · [How We Verify](/wiki/how-we-verify/)
+**Guides:** [Start Here](/wiki/start-here/) · [The Advocate's Arsenal](/wiki/advocates-arsenal/) · [Rebuttal Cards](/wiki/rebuttal-cards/) · [Argument Chains](/wiki/argument-chains/) · [Evidence Dashboard](/wiki/evidence-dashboard/) · [How We Verify](/wiki/how-we-verify/)
 **Portals:** [Objections Answered](/wiki/portal-objections-answered/) · [History & People](/wiki/portal-history-and-people/)
