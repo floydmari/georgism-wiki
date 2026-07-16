@@ -875,3 +875,30 @@ simulations, advocacy-graded; both report PDFs read — Princeton found at its m
 advocates' own homestead numbers wired into the asset-rich-cash-poor objection's steelman).
 Commits fe0c8d8 · 5edd217. 827 pages; lint 0 errors; registry 1,098 rows. Next iteration:
 TIER-2 remainder by target page, then BACKLOG NOW lanes.
+
+---
+
+## 2026-07-16 — Source figures: the load-bearing charts go into the entries (session ij2cr3)
+
+Floyd relayed Liam's ask: where a paper's own graphic does the work, put it in the entry.
+Built the pipeline (`scripts/source_figures.py` — declarative FIGURES manifest: source PDF
+URL → PyMuPDF page-region crop → Ghost image store upload → `<figure>` block; provenance
+lives in the manifest, PNGs not committed, same convention as the share cards) and shipped
+the first four figures, each verified visually in the preview before embedding:
+
+- **bonnet-land-is-back** — Bonnet et al. 2021 Fig 1 (HAL OA PDF, p.7): the six-panel
+  national-capital decomposition (FR/UK/CA/DE/US + land-share panel) — the chart Floyd's
+  ask started from.
+- **rognlie-capital-share** — Rognlie 2015 Fig 3 (Brookings PDF, p.44): housing vs
+  non-housing net capital share, G7 1948–2010.
+- **great-mortgaging** — Jordà–Schularick–Taylor Fig 2 (NBER w20501, p.11): mortgage vs
+  non-mortgage lending to GDP, 17 countries 1870–2011.
+- **knoll-schularick-steger-house-prices** — KSS Fig 27 (CESifo WP 5006, p.31): mean real
+  house vs imputed land prices, 14 countries — the ~80%-is-land decomposition.
+
+Policy codified as EDITORIAL §3c (load-bearing only, one per entry after the Summary, crop
+the figure body, mandatory credit line "— reproduced for comment and review" marking the
+CC-BY-4.0 carve-out, mandatory descriptive alt text, prefer OA versions, hosted-URL embed).
+Linter taught that HTML attribute values (alt text) are not quotations (the 50-word quote
+cap no longer false-positives on figure alts). Next-candidates list added to BACKLOG NOW
+(Piketty U-curve, Larson, Davis-Heathcote, Hoyt PD-check, etc.). Lint 0 errors.

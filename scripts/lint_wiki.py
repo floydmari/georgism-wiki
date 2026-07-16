@@ -263,6 +263,10 @@ def main():
             # and they start with a letter (spans start mid-sentence with space/punct)
             if any(ch in q for ch in ("*", "](", "[", "#")) or not q[:1].isalpha():
                 continue
+            # skip HTML attribute values (alt="…", title="…") — figure alt text
+            # is a description for accessibility, not a quotation from a source
+            if re.search(r'\w+\s*=\s*"' + re.escape(q[:40]), body):
+                continue
             if len(q.split()) > 50:
                 warn(f, f"quote may exceed 50-word cap ({len(q.split())} words): \"{q[:60]}…\"")
                 break

@@ -178,6 +178,38 @@ not merely summarize. Rules:
   environment fetches freely); each delivery is a `texts/` page or `sources/publicdomain/`
   file plus the usual discovery pass.
 
+### §3c Figures from sources (Floyd's ask, 2026-07-16)
+
+Some papers carry one chart that does more evidential work than a page of prose (Bonnet et
+al. 2021 Figure 1; Rognlie 2015 Figure 3; Knoll–Schularick–Steger Figure 27). Those figures
+may be embedded in the entry ABOUT that source, under these rules:
+
+- **Only where the chart itself is load-bearing** — it shows the finding the entry exists to
+  document, not decoration. Default is **one figure per entry**, placed right after the
+  Summary.
+- **Pipeline, not hand-crops:** `scripts/source_figures.py` is the only path. Its `FIGURES`
+  manifest records provenance (source PDF URL, page, crop box, dpi) for every hosted image,
+  renders the crop with PyMuPDF, uploads to the Ghost image store, and prints the
+  `<figure>` block to paste. Reproducible from the manifest; PNGs are not committed (same
+  convention as `gen_social_cards.py`).
+- **Crop the figure body only** — exclude the paper's own caption/notes; restate what
+  matters in our `<figcaption>` so the image reads at wiki column width. Never alter the
+  chart itself.
+- **Credit line required, every figure:** author(s) · year · figure number · venue, ending
+  "— reproduced for comment and review." Third-party figures are copyrighted excerpts used
+  for scholarly comment (fair-dealing basis); they are **NOT covered by the wiki's CC BY
+  4.0 license** and the caption's credit is what marks that boundary. Public-domain
+  figures (pre-1931) instead say "Public domain."
+- **Alt text required** — describe what the chart shows, including the trend and rough
+  magnitudes, for readers who can't see it. Alt text is a description, not a quotation
+  (the linter knows the difference).
+- **Prefer the open-access version** of a paywalled paper (HAL, NBER/CESifo working paper,
+  author's site) and say which version the figure number refers to when it differs from
+  the published one.
+- **Embed via the hosted URL** in the `www.progress.org/content/images/...` form (it 301s
+  to Ghost storage), with `loading="lazy"` — the `<figure class="wiki-figure">` block the
+  script prints is the canonical markup.
+
 ### Scan Depth policy — Tier sets the target
 `Scan Depth` records how much of a source's extractable value is actually in the wiki, so it must
 track **Tier** and **source size**, not just whether the source was ever cited:

@@ -53,6 +53,21 @@ commit+push+preview — publishing is Floyd's process.
 
 ## NOW (in flight today, 2026-07-10)
 
+### Source figures — embed the load-bearing charts (Floyd + Liam's ask, 2026-07-16; EDITORIAL §3c)
+- [x] [EXPAND] tier:T1 status:done — figure pipeline (`scripts/source_figures.py`) + first
+      four embeds: Bonnet Fig 1 (bonnet-land-is-back), Rognlie Fig 3 (rognlie-capital-share),
+      Jordà-Schularick-Taylor Fig 2 (great-mortgaging), KSS Fig 27
+      (knoll-schularick-steger-house-prices). Branch claude/wiki-image-sourcing-ij2cr3.
+- [ ] [EXPAND] tier:T2 status:todo — next figure candidates, same bar (chart must carry the
+      entry's headline finding; open-access PDF; §3c rules): piketty-capital-21st-century
+      (wealth-income U-curve from piketty.pse.ens.fr open figures), larson-us-land-value
+      (BEA land-value chart), davis-heathcote-us-land (land share of house value),
+      barkai-declining-shares, world-bank-changing-wealth, hoyt-chicago-land-values
+      (1933 archive.org scan — check PD status first, published 1933 so NOT yet PD;
+      fair-dealing crop OK), bezemer-samarina-zhang-debt-shift, glaeser-gyourko-housing-supply
+      (price vs construction-cost gap). One figure per entry, verify each crop visually
+      before upload.
+
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
 ### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
 - [~] [PROBLEM-BUILD] tier:T2 status:in-progress — problems 1–6 (PLAN §Gap analysis):

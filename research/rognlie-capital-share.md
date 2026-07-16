@@ -19,6 +19,11 @@ bears_on_objections: [land-no-longer-matters, lvt-austrian-critique]
 
 Matthew Rognlie's 2015 *Brookings Papers on Economic Activity* article is among the most influential modern findings for Georgist economics, though Rognlie did not frame it that way. Responding to Thomas Piketty's *Capital in the Twenty-First Century*, Rognlie decomposed the rising share of national income going to capital and found that essentially **all** of the long-run increase across developed economies comes from the **housing** sector.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/rognlie-fig3.png" alt="Line chart of the net capital share of private domestic value added for G7 countries, 1948 to 2010, split into housing and non-housing sectors. The housing series climbs steadily from about 3% to about 10%, while the non-housing series ends lower than it began, drifting from roughly 24% down to 17–20%." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 3 from the paper: the net capital share of private domestic value added for G7 countries, 1948–2010, split into housing (h) and non-housing (nh) sectors, weighted (w) and unweighted (uw). Housing's share roughly triples from ~3% to ~10% while the non-housing share ends <em>below</em> where it began — the long-run rise in the capital share is entirely a housing story. <span class="figure-credit">Source: Rognlie (2015), Figure 3, <em>Brookings Papers on Economic Activity</em> — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Why It Matters for Georgism
 
 Because the value of housing is dominated by the value of the **land** underneath it — structures depreciate and can be reproduced, locations cannot — Rognlie's result implies that the modern rise in "capital's" share is largely a rise in **land rent's** share. This is precisely the dynamic Henry George described: as economies grow, the gains accrue disproportionately to landowners. The finding was independently confirmed with European data by [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/) and reframes inequality debates around land rather than capital in the productive sense.
