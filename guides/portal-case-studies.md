@@ -9,6 +9,9 @@ last_reviewed: 2026-07-12
 
 ## The real record
 
+*For a scannable table of outcomes and caveats, see the [Implementation Scorecard](/wiki/implementation-scorecard/).*
+
+
 Theory says taxing land is efficient and shifting tax off buildings encourages
 construction. The places below let you check that against what actually happened — and the
 honest verdict is that reality is messier and more conditional than the clean model. Three

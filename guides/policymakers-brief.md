@@ -9,6 +9,9 @@ last_reviewed: 2026-07-12
 
 ## For the staffer writing the memo
 
+> Need the real-world record at a glance? The [Implementation Scorecard](/wiki/implementation-scorecard/) is the table: every jurisdiction, what it did, what was measured, and the honest caveat.
+
+
 This path walks the design decisions in the order a real proposal confronts them. For each,
 it links the governing claim, the strongest supporting evidence, and the counter-evidence a
 committee will raise — because a memo that only cites the friendly studies is a memo that

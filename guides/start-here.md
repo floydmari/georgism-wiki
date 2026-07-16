@@ -26,7 +26,7 @@ The five pages that carry the most weight:
 ## By what you need
 
 - **To make the case** → the advocate's toolkit: the [Advocate's Arsenal](/wiki/advocates-arsenal/) (graded ammunition by argument), the [Argument Chains](/wiki/argument-chains/) (move-by-move debate scripts), and [Quotable Quotes](/wiki/quotable-quotes/) (verified lines to drop) — with the [Evidence Dashboard](/wiki/evidence-dashboard/) for the state of the proof.
-- **To design policy** → the [Policymaker's Brief](/wiki/policymakers-brief/) for implementation records, design details, and defensible caveats.
+- **To design policy** → the [Policymaker's Brief](/wiki/policymakers-brief/) for design details, and the [Implementation Scorecard](/wiki/implementation-scorecard/) for the real-world record at a glance with its caveats.
 - **To face the counterarguments** → the [Rebuttal Cards](/wiki/rebuttal-cards/) for the one-breath comeback to any objection, and the [Objections Answered portal](/wiki/portal-objections-answered/), where each gets its strongest version and an evidenced response.
 
 ## By topic
