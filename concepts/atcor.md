@@ -80,9 +80,9 @@ ATCOR, like many claims in economic theory, depends on assumptions about market 
 
 ## Sources
 
-1. Mason Gaffney — collected work on ATCOR and land's taxable capacity. [Free archive](https://masongaffney.org/publications.html)
-2. Fred Harrison (2006), *Ricardo's Law: House Prices and the Great Tax Clawback Scam*. [Share The Rents](https://sharetherents.org/publications/)
-3. Related: [The Hidden Taxable Capacity of Land — wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
+1. Mason Gaffney — collected work on ATCOR and land's taxable capacity. [Free archive](https://masongaffney.org/publications.html) — used for the general ATCOR framework and Gaffney's theoretical contributions to the concept.
+2. Fred Harrison (2006), *Ricardo's Law: House Prices and the Great Tax Clawback Scam*. [Share The Rents](https://sharetherents.org/publications/) — used for the tax clawback mechanism and Harrison's version of ATCOR (§ "Fred Harrison's Version").
+3. Related: [The Hidden Taxable Capacity of Land — wiki summary](/wiki/gaffney-hidden-taxable-capacity/) — companion wiki page holding the quantified version of the claim (Gaffney 2009); see it for the figures.
 4. Henry George (1886), *Protection or Free Trade* — [wiki summary](/wiki/protection-or-free-trade/), used for George's own early statement of the logic later called ATCOR.
 5. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Ch. 2 — used for "negative shifting" and the ATCOR precursor concept (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
 6. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 15 — used for the modern exposition of ATCOR and the Single Tax self-financing argument (A-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
