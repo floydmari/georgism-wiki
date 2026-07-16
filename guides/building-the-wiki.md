@@ -13,7 +13,7 @@ The progress.org wiki is a verified evidence reference on Geoism — land value 
 
 It was **written by AI agents running in loops, under the editorial direction of one person.** Not generated in a single pass — grown, over hundreds of iterations, the way a research desk grows a beat. This page explains the machinery honestly, because a reference that asks you to trust its method should show you the method.
 
-The short version: a **written constitution** defines what a good page is; **loops** of AI agents find sources, read them, write pages, and cross-check each other against that constitution; a **human editor** sets the priorities, makes the judgment calls, and is the only gate to the published site. The result is checked by scripts on every change and published through an automated pipeline.
+The short version: a **written constitution** defines what a good page is; **loops** of AI agents find sources, read them, write pages, and cross-check each other against that constitution; a **human editor** sets the priorities, makes the judgment calls, and is the sole gate to the published site. The result is checked by scripts on every change and published through an automated pipeline.
 
 ## The loop
 
