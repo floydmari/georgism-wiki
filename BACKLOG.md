@@ -61,7 +61,16 @@ commit+push+preview — publishing is Floyd's process.
 
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
 ### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
-- [~] [PROBLEM-BUILD] tier:T2 status:in-progress — problems 1–6 (PLAN §Gap analysis):
+**[RECONCILED 2026-07-15, session 2z2oww — this block was stale: every NOW item below has
+shipped.** problems 1–6 all live (incl. `problems/homelessness-is-housing-cost-problem.md`);
+benefits 7/8/10 live; justice pair lives in `narratives/` (land-justice-and-indigenous-
+reconciliation, land-and-the-black-white-wealth-gap); people stubs shipped under corrected
+names (ronald-burgess, richard-noyes, eric-goldman, david-redfearn); the public-choice
+"government will waste the rent" steelman = `objections/public-choice-critique.md` +
+`objections/rent-revenue-breeds-corruption.md`; canons-of-taxation, sector-model,
+margin-of-production, progress-and-poverty-institute stubs all exist. Kept below only for
+provenance — do not re-plan.]**
+- [x] [PROBLEM-BUILD] tier:T2 status:done — problems 1–6 (PLAN §Gap analysis):
       (1) rising land values/housing costs drive poverty; (2) homelessness is a housing-cost
       problem (Colburn-Aldern anchor); (3) housing unaffordability is a land problem
       (KSS/Glaeser-Gyourko/Hsieh-Moretti — first stub landed this shift:
@@ -110,10 +119,10 @@ commit+push+preview — publishing is Floyd's process.
 
 ## NEXT (pick up when a NOW lane clears)
 
-- [ ] [SYNTHESIZE] tier:T1 status:todo — the last missing objection steelman from the 9→15
-      build-out: public-choice "government will waste the rent" (Buchanan lens). The other
-      five shipped (revenue insufficiency, transition shock, homevoter, credit-cycles,
-      assessment critique) — objections now 13 pages.
+- [x] [SYNTHESIZE] tier:T1 status:done (verified 2026-07-15, session 2z2oww) — the
+      public-choice steelman shipped as objections/public-choice-critique.md (Buchanan/
+      Brennan Leviathan + Tullock transitional-gains trap) with
+      objections/rent-revenue-breeds-corruption.md beside it; objections dir now 37 pages.
 - [ ] [FIND] tier:T2 status:todo — WS-TECH-RENTS remaining discovery, in order:
       (a) DSTs-as-tried (France/UK/India incidence; Amazon UK pass-through as the
       badly-aimed-rent-tax failure case; Pillar One/Two); (b) attention/ad rents (Romer's
@@ -125,17 +134,26 @@ commit+push+preview — publishing is Floyd's process.
       seigniorage (Hudson, Bezemer, Philippon, BIS/Borio steelman — honest FIRE grading);
       plus the IP-rents remainder (Boldrin-Levine, prize-vs-patent) to finish the
       platform/data/IP lane (concepts/data-rents already live).
-- [ ] [READ&MINE] tier:T2 status:todo — research/foldvary-reply-gochenour-caplan (RAE 27(4),
-      verified to exist; completes the Austrian-objection dialectic).
-- [ ] [EXPAND] tier:T2 status:todo — lvt-reduces-sprawl toward 5/5 supporters: check the
-      COVERAGE gauge first (song-zenou + taranu-verbeeck now live), then brueckner-kim-sprawl
-      and one of Burchfield 2006/McGrath 2005 if still short.
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-15, session 2z2oww) —
+      research/foldvary-reply-gochenour-caplan exists and is fully wired
+      (bears_on: search-theoretic-critique + lvt-austrian-critique; registry row 515;
+      abstract-only access honestly disclosed on the page — Springer paywalls the full text).
+- [x] [EXPAND] tier:T2 status:done (verified 2026-07-16, session 2z2oww) — lvt-reduces-sprawl
+      is at 6/5 supporters (COVERAGE gauge ✓; wave 21 completed it without flipping this line).
+      Brueckner-Kim correctly lives in challenged_by (theoretical ambiguity result), Song-Zenou
+      deliberately excluded (conventional-property-tax mechanism) — lane discipline verified
+      against primaries.
 - [ ] [READ&MINE] tier:T2 status:todo — Doucet ACX de-referencing Parts 1 & 3 (enumerate
       actual citations, diff vs registry, ingest missing); landlords-outcome Ch. 21 cluster
       (Borge-Rattsø, Capozza-Green-Hendershott, Hilber 2017, Buettner, Choi-Sjoquist).
-- [ ] [FIND] tier:T2 status:todo — research/raley-citizens-dividend candidate (verify
-      author/venue before drafting; would give citizens-dividend its first scholarly source
-      beyond George + Alaska).
+- [x] [FIND] tier:T2 status:done (verified 2026-07-16) — research/raley-citizens-dividend
+      candidate already verified and shipped: author/venue confirmed against the primary PDF
+      (Prof. Bill Raley, Hanyang University School of Law, "The Citizen's Dividend," 18th BIEN
+      Congress, Tampere, Finland, Aug 2018; abstract, Hanyang affiliation, and Locke-Paine-George
+      quotes cross-checked against the archived PDF text — grey literature, not peer-reviewed,
+      correctly tiered `supplementary`). Page exists, wired into concepts/citizens-dividend.md
+      (body sentence + list item + numbered source), and has registry.csv row 516. No further
+      action needed.
 - [ ] [EXPAND] tier:T3 status:recurring — mechanical debt, batched: annotate unannotated
       Sources (~25/wave, oldest pages first); thin-article burn-down (3–5/wave by inbound
       links); trim/attribute over-cap quotes; UPDATE places/british-columbia.md stale SVT
