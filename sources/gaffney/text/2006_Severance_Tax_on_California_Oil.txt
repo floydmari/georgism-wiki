@@ -1,0 +1,576 @@
+A Severance Tax on California Oil?
+Mason Gaffney, July 2006
+
+California has long been and remains a major oil-extracting state. It is the largest gasoline
+consumer by far, at the highest prices. Its fields were yielding up hydrocarbons not long ago
+when oil was at $10/bbl or less, and natural gas was a drug on the market. There is much
+economic rent there. And yet California is the only state, major or minor, with no severance tax.
+
+This November voters will turn thumbs up or down on Prop. 87, a severance tax measure.
+Besides the usual suspects, its backers include some leading venture capitalists from Silicon
+Valley, with interests in greentech. Two of the leading contributors are Vinod Khosla (Sun
+Microsystems) and John Doerr (Kleiner Perkins Caulfield and Byer).
+
+Alaska, as is well known, distributes a generous social dividend annually from its oil
+revenues, and also keeps building a “Heritage Fund” for the future. Alberta does the same. Less
+known are the heritage funds of smaller producers Wyoming and New Mexico. All three of these
+U.S. states are red, bright red, on the current political map. And yet their representatives in
+Washington have urged Congress and the Administration to follow their lead in rebuilding Iraq
+(not long ago, when that was a dream rather than a nightmare), and to export the idea to various
+African and other nations where we might sway policies. Colin Powell, when Secretary of State,
+took them seriously. They seem unconcerned that such an idea might “blow back” on us and
+influence U.S. policy. It’s an anomaly that a cynic—i.e. a reasonable observer of politics—can
+only explain by postulating that these red state reps knew their idea never had a chance, while
+they played to neocon fantasies. If someone has a more upbeat idea, I’m listening.
+
+In California the last time anyone pushed hard for a severance tax was 1981, when Jerry
+Brown was still Governor. Certain California local governments had been taking healthy
+revenues from oil fields. California’s State Board of Equalization had been doing an outstanding
+job of helping counties assess oil fields for property tax purposes (showing, among other things,
+that it can be done). Prop. 13 (1978) had cut off most of that property tax revenue, so it was a
+good time to get some back. The effort failed, but one major backer, Bill Lockyer, is now our
+A.G., a traditional rung up the ladder to the top.
+
+Georgists are of mixed minds on severance taxation. Some oppose it as being a tax on
+production, and prefer a property tax based on assessed value. Others say that extracting a
+natural deposit is not the same as production, and assessing underground values is impracticable
+anyway. There are elements of truth in both views. The following is an attempt to sort them out
+and come to a firm recommendation. The gist of it was written for the California State Assembly
+Committee on Revenue and Taxation.
+
+Introduction
+
+PROP. 87 would impose tax at rate of 6% of gross wellhead value "for the privilege of
+severing oil." The tax would be in addition to the property tax, and to any yield tax imposed in
+lieu of an "ad valorem" (meaning property) tax.
+
+Proceeds would go into a fund to promote greentech energy (the 1981 bill was earmarked for
+schools).
+IL Assumptions
+A. Astate severance tax on oil is constitutional.
+
+That is stare decisis. Various such state taxes have been challenged as bearing on interstate
+commerce. The U.S. Supreme Court resolved this in Commonwealth Edison Company v.
+Montana, 2 July 1981. Montana imposed a severance tax on coal, at a rate of 30%. Most of the
+sales were to out of state buyers like the plaintiff: Commonwealth Edison is a large utility in
+Chicago. However, Montana buyers are also subject to the tax so it was ruled not to violate the
+Commerce Clause of the U.S. Constitution.’
+
+In addition, much or most of the tax is not shifted forward at all, but is borne by owners of
+coal lands in Montana. It is almost certain that Commonwealth Edison is one of those owners:
+most consuming utilities do acquire their own energy reserves.” This may be the real reason
+behind their lawsuit.
+
+Sometimes the argument is made of an implied contract, or moral obligation, not to raise taxes
+above existing levels, because purchasers are "innocent," and bought in the faith taxes would not
+rise. However, no California owner can reasonably claim to be "innocent" of the possibility such
+a tax might be imposed at any time. The severance tax is legal, and adjudicated, and has long
+been imposed in all other states. Major owners are sophisticated investors. All major companies
+have tax departments and legal staff. They are in the business of taking risks; one such risk is
+that of higher taxation.”
+
+150 years ago, most of California was either public domain or in old Spanish or Mexican
+grants. Spanish and Mexican land grants routinely reserved mineral rights for the crown or its
+successor, on the "regalian principle."* The U.S. Government accepted and validated all such
+grants, with their conditions, at the Treaty of Guadelupe-Hidalgo, 1848.
+
+As for the U.S. public domain, Congress granted lands from it to individuals and corporations
+for the primary public purpose of developing agriculture, transportation, irrigation, and towns.
+Minerals were included mainly by oversight. Their early discovery was a windfall; their value at
+modern levels is the acme of a series of windfalls. If they were on the OCS (Outer Continental
+Shelf) the U.S. Government would still be the owner, auctioning off exploration rights for high
+prices. Riparian owners along the coastline were never given title to offshore minerals; by
+analogy, it seems only accidental that overlying landowners were given special rights to
+underground minerals. Accordingly, public sentiment in this country, and in most others, has
+long viewed mineral rights as being peculiarly affected by a public interest.
+
+B. A tax must have a public purpose.
+
+‘For a legal history of the issue, see Walter Hellerstein, 1983, "Legal Constraints on State Taxation of Natural
+Resources." In Charles McLure and Peter Mieszkowski (eds.), Fiscal Federalism and the Taxation of Natural
+Resources. Lexington, MA: Lexington Books.
+
+°They do so in order to expand their rate bases, and to protect themselves against potential upstream monopolists
+in an imperfect market.
+
+3to be consistent and symmetrical, as well, the argument implies that when taxes fall, owners should compensate
+the State. That would imply massive amounts due from all property owners following Prop. 13, a point on which the
+owners have not insisted at all.
+
+“warren Roberts, 1967. "Mine Taxation in Developing Countries." In M. Gaffney (ed.), Extractive Resources
+and Taxation. Madison: University of Wisconsin Press.
+There are new, high, legitimate demands on the California State Treasury. It is ground
+between the lower millstone of Prop. 13, causing localities to require more State funds; and the
+Administration in Washington, cutting back on national revenue-sharing.
+
+Before and independent of Prop. 13, there was and remains a need to supply a higher share of
+school funding from the State level, as mandated in the Serrano decision in California, and
+similar decisions in other states.
+
+C. There is a large taxable surplus, or rent, in California oil and gas that is privately owned.
+
+Rent has been characterized as "fat in the private sector." It is private income in excess of that
+required as an incentive to evoke production.
+
+1. Most of the fields were brought in, and remained producers, at much lower prices than
+those now obtaining.
+
+2. Many fields have recently been acquired by large, wealthy international major oil firms,
+at high prices. Mergers and acquisitions at high valuations are clear evidence of high
+rents. It is the surplus in lands that attracts wealthy outside buyers.
+
+3. The rent of California oil and gas is currently untapped for public purposes. California
+is the only major mineral-rich state lacking any form of state severance tax.
+
+4. Some California oil and gas is publicly owned, and is known to yield large surpluses to
+the public. The State owns its "tidelands," the strip of coastal land inside the three-mile
+limit. Outside that limit, the Federal government sells leases for high prices, even in
+deep water and with limited competition among a few major buyers. It seems to follow
+that upland oil, privately owned, yields surpluses too.
+
+5. Oil and gas extractors as a group show much higher profits per employee than any other
+major industry. They receive something like 40% of all profits in the Fortune 500, with
+only 10%° of the employees. High profits per employee are a sure indicator there is
+high rent.
+
+6. There has been talk that Kern County oil is played out, and of low quality. Yet, Philip
+Anschutz, legendary wildcatter and leasehound, in 1999 completed the costly Pacific
+Pipeline connecting Kern County oilfields with refineries in El Segundo and
+Wilmington.
+
+Il. There is a case for higher taxation of energy deposits.
+A. Effect of Prop. 13.
+
+Before Prop. 13, California had used its property tax in lieu of a severance tax, to get public
+revenues from oil and gas. California alone among oil-producing states had no severance tax. On
+the other hand, it almost alone had an effective property tax on oil and gas in situ. Only a few
+counties benefited, but one of them was the largest, Los Angeles.
+
+California's property tax was effective because the State Board of Equalization in Sacramento
+maintains an office of specialists to give professional aid to localities needing to assess reserves
+of oil in situ. The head of that office, Robert Paschall, testifying before the Alaska State
+
+°These figures are only roughly correct; check specific source before publishing.
+Legislature,° stated from his California experience that it is as feasible to assess the value of oil
+reserves as any ordinary parcel of real estate. He stated that the uncertainty regarding the
+physical quantity of oil in the ground is considerably less than the kinds of uncertainty that bear
+on the price of any other real estate: concerns about the future price of the product, and costs of
+production. With oil and gas, besides, the time horizon is shorter; and there is only one highest
+and best use to consider.
+
+Accordingly, California before 1978 got substantial revenues from its localities’ property
+taxes levied on reserves of oil and gas. Mr. Paschall later consulted in the Appalachian States,
+and has told me that California is a hundred years ahead of those states in assessing
+hydrocarbons for property tax purposes. It assesses oil and gas accurately, while they fail to
+assess coal—a much easier job, technically—accurately. The difference is political, or worse.
+Mr. Paschall says his life was threatened.
+
+In 1978, of course, Prop. 13 changed all that, lowering our property tax rate to 1/3 or so of its
+previous level, while also rolling back and freezing assessed valuations of property.”
+
+B. Prop. 13 was directed to property taxes on homes.
+
+Most of what Howard Jarvis and Paul Gann said and published, in advancing their Prop. 13 in
+1978, was about abating property taxes on homes, both owner-occupied and rented. Neither they,
+nor other advocates, said anything about abating property taxes on deposits of oil and gas in the
+ground. It is fair to infer that there was no voter intent to untax oil and gas. Such tax relief was,
+from the voters' view, incidental and unintended: it slipped by in the heat of the moment and
+general ignorance of relative values involved. This is relevant because the courts, in interpreting
+voter intent, rely on language used by proponents during elections. There is no evidence that
+voters intended to relieve oil and gas. Their minds and visions were directed elsewhere, and they
+fell for it. It follows that the voters' intent would not be violated now were we to use severance
+taxes to tap the rent surplus from California's mineral wealth.
+
+C. Ownership of oil and gas is highly concentrated, so any tax on this industry will have
+progressive consequences.
+
+D. Ownership is largely absentee.
+
+Beneficial ownership of the shares of the international major oil and gas corporations that
+own much of California oil and gas is routinely concealed, but much of it is known to be
+distributed nationwide, and worldwide. Thomas Mellon Evans, for example, is headquartered in
+New York; Jean Paul Getty was an expatriate resident in England; Philip Anschutz lives in and
+works from Denver, having no California residence or address; Texaco is in Houston; Chevron
+in Chicago; shareholders are everywhere. The rents are therefore spent, in large part, elsewhere.
+Tapping those rents for public purposes means spending the money in California instead, thus
+improving our balance of payments and our economic base.
+
+E. Recent price hikes, and ongoing deregulation, are bringing huge increases in wealth to
+owners of California oil and gas.
+
+Spaschall testified before the Alaska State Legislature at the time it was considering a tax on the value of locked-
+in oil reserves in the Sadlerochit Formation at Prudhoe Bay. I have a copy of his testimony on that occasion.
+
+"The property tax levy is the product of the rate times the base. Prop. 13 lowered both the rate and the base. 1/3
+the original rate times 1/2 the original base equals 1/6 the original tax revenue.
+F. It is a first step to taxing offshore extraction.
+
+California derives no revenue from Federal OCS lands, for they are outside the State's
+boundaries. It is possible that if the State puts in place a working, active tax-gathering
+mechanism for upland oil and gas, it can be adapted to the tricky job of taxing offshore
+extraction through a "first-use" tax.
+
+G. The State gasoline tax fails to capture rent.
+
+There is a State gasoline tax. Some of this is shifted backwards, to sellers. However, it fails to
+tap much of our mineral rents, for at least three reasons.
+
+1. The real value of the State gas tax has fallen over many decades now, because of
+"reverse bracket creep." That is, it is a "specific" tax, so much per gallon, rather than ad
+valorem. So it fails to keep up with inflation. On an ad valorem basis it is now much
+lower than it was 90 years ago. In 1920, incredible as it seems, it was our largest source
+of State revenue.
+
+2. | The tax bears the same on gas from high cost wells as from low-cost wells. Thus, it
+cannot begin to tap the economic rent from the low-cost wells. It may be a tolerably
+good way to tap the taxable surplus from some of the highway users, to the extent it is
+shifted forward to them. It is no way at all to tap rent from low-cost producers, even to
+the extent it is shifted back to producers: it hits the high-cost fields as hard as the low-
+cost fields.
+
+3. The State subsidizes gasoline consumption by building and policing and maintaining
+and replacing its huge highway network. The gasoline tax falls short even of paying for
+that.
+
+II. Concern the severance tax would be regressive.
+
+Some voice concern that a severance tax would simply be shifted forward to California
+consumers, and therefore be regressive, like a retail sales tax. The concern is unfounded in this
+case. The severance tax comes out of the surpluses now received by equity owners of the natural
+resource: it is largely a tax on rents from the natural resource in situ. Let us explain why.
+
+There are four conditions that let producers shift a tax forward to consumers. These are:
+A. Inelastic demand
+B. Elastic supply
+1. Lots of production from marginal fields
+2. High elasticity of production
+C. A high share of world production comes from the taxed jurisdiction
+
+D. The tax is based on activity (unit-of-production tax base), and structured so as to hit
+marginal production.
+
+The first three of these conditions are not met in this case, as we will now see; the fourth is
+only partially met. Let us look at them one at a time.
+
+A. World demand is price-sensitive.
+World demand for oil is sensitive to price; it once proved to be quite so. That is why there was
+an oil glut, and sinking prices following the initially successful Arab Oil Embargos, and in spite
+of OPEC's strong hold over world production.
+
+To be sure, following these successes Americans foolishly let suburban sprawl run wild again,
+so now demand is elastic from a higher base. Clearly Americans collectively, represented by
+their governments and intellectual leaders, need to take permanent measures to curb sprawl and
+the excess demand for fuel that it generates. This calls for “shock therapy”, such as we have
+sought to impose on Poland and Russia. Natural scarcity has just administered the shock to us.
+We must respond by throwing out the pro-sprawlers and re-compacting our settlements. Pro-
+sprawlers, or “the road gang”, are a highly organized lobby led by oil firms, auto firms and
+dealers, cement and asphalt firms, civil engineering firms, certain law firms, various allied firms,
+and (tragically) certain universities and think tanks whose personnel dance to their tune.
+
+B. Supply is fairly inelastic
+
+1. California was a major producer long before the Oil Embargo, at a much lower price
+level than that prevailing today. Much of our production is not, therefore, from fields that
+are marginal at today's higher prices. California is not primarily an active margin of new
+exploration and production, like the Overthrust Belt that was brought in by high prices.°
+
+California does extract a good deal of "heavy," low-quality oil. This fact is often cited in
+opposition to severance taxes. For two reasons, this is not a reason for opposing this tax.
+
+a. The extra refining cost needed for heavy oil takes place "after the Christmas-tree
+(wellhead)." The severance tax is imposed on the value of oil at the wellhead,
+thus exempting any value-added after the Christmas-tree.
+
+b. Heavy oil is dirty oil. Refining it pollutes air severely, so it should pay a special
+tax as a pollution charge. (Economists call this a “Pigovian” charge, after A.C.
+Pigou, a British economist and advocate.) In this case, it would actually make
+more sense to impose the severance tax on value-after-refining. PROP. 87 might
+be faulted for having too narrow, rather than too broad a base, in this special
+case. In general, though, it would work better to impose a Pigovian pollution
+charge on its own merits separately. It should be tuned to pollution damages,
+rather than value-added in refining.
+
+With increased awareness that global warming is real, and a problem, the case for taxing
+combustion, and the fossil hydrocarbons that fuel it, is now so strong that many people would
+favor severance taxes for this reason alone.
+
+Some oil is now being extracted using costly advanced recovery techniques, like steam
+injection. This is another matter, because these costs are undertaken before the Christmas tree,
+and add to wellhead value, the tax base. It is against our interest to discourage advanced recovery
+by taxing the values it conserves. Objective facts are needed concerning the relative importance
+of this special cost factor. Where oil revenues are 95% consumed by costs of extraction, there is
+little net rent remaining to tax at the wellhead.
+
+®These high prices work in tandem with the peculiar dynamics of utility rate regulation, which lets high-cost
+overthrust belt supplies be melded with low-cost Permian Basin supplies, and sold below the cost of Overthrust Belt
+production.
+Evidence cited above suggests that the marginal portion of California oil and gas production
+is not so great as to make most California production untaxable. It is only traditional, in any
+industry it is proposed to tax, for industry speakers to exhibit marginal firms and marginal lands
+as though they were typical. These are the "widows and orphans" of every tax debate, advanced
+to distract attention from the high taxable surpluses received by the more rentable (rent-yielding)
+fields.
+
+2. The basic resource is supplied originally by nature, not man. Like other forms of land, it
+comes in a fixed quantity.
+
+Most oil has a low "elasticity of production." That is, marginal variable costs of O&M per
+unit are low relative to the value of the unit. In economese, the marginal product of the current
+variable inputs is low relative to their average product. That implies you could cut back on O&M
+by, for example, 10%, and by so doing lower output only by, say, 2%. This is at the other
+extreme from a labor-intensive operation where lowering the labor input by 10% would lower
+output by 9% or even 10%. The difference is because oil to some extent produces itself, with
+minimal help from man: this is why oil in the ground sells for such fancy prices.
+
+The points above may be expressed equally well in terms of costs per barrel of oil.
+Costs/barrel are simply the reciprocal of value-of-product/unit-of-input. The above reasoning
+says that the costs of squeezing out the marginal barrel, and converting it to high-quality oil, may
+be high, while the average cost per barrel (including the low-cost barrels) remains much lower.
+
+C. California is not a big oil-supplier.
+
+Only a little of world supply comes from California. In fact, only part of California supply
+comes from California: much comes from Alaska. The middle east and Latin America stand
+ready to move in were California prices to rise much. Hugo Chavez is more than eager to supply
+American demands, and only doctrinaire bigotry would bid us refuse him. Alberta’s fabled tar
+sands, containing more reserves than Saudi Arabia, have at last come on line. Shale oil in the
+central Rockies, with even more reserves, may be next in line as prices rise. The giant machines
+needed are made in Milwaukee, abating any balance of payments problem. Thus, even if world
+demand were inelastic, demand for California oil would be highly elastic.
+
+D. The impact on marginal production can be offset.
+
+The proposed tax (severance) does hit marginal production. We will see (IV, infra) that this
+fault would be considerably offset by a drop in private royalties. These, like the severance tax
+itself, are a variable cost. They are based on units-of-production, and have the same disincentive
+effects as the severance tax. Private lessors, anticipating the severance tax, would offer about that
+much less to landowners in the form of royalties.
+
+The remaining faults of a severance tax may be corrected by modifying it, as will be shown,
+to allow deduction of some costs.
+IV. Concern about disincentive and anti-conservation effects.
+
+The severance tax does have some disincentive and anti-conservation effects on producers.
+However, these are only moderate compared with excise taxes on other bases. This is owing to
+the nature of the resource, and the institutions of the industry.
+
+A. The tax has little effect in the first "bonanza" years of an oil well.
+It is the nature of oil and gas fields to yield very high returns, with little variable cost, in a few
+"bonanza" years, followed by a long "tail" of dwindling yields over many years or decades. Then
+finally they go on a "stripper well" basis at the end of a long cycle. During the bonanza years, a
+6% tax on yields has little effect. During the stripper years, it is possible and, in some
+jurisdictions, routine to lower severance tax rates.
+
+If the explorer for oil finds nothing, it is no matter. If he does find something, revenues are so
+much greater than variable costs that a severance tax has little impact. After production declines,
+variable rates may be renegotiated, and often are. It is generally feasible to distinguish the
+bonanza years from the stripper years, as a practical matter.
+
+B. Existing oil and gas leases are already subject to much higher royalty rates.
+
+Much oil and gas is produced by lessees who have negotiated payment packages with private,
+public, or aboriginal landowners. Part of the payment is always a "royalty" element. Like the
+severance tax, the royalty is a share of well-head value. The lowest royalty rates are 1/8, or
+12.5%, more than double the severance tax rate proposed in Prop 87.
+
+Such rates have been standard since the beginning. In the last 50 years they have risen well
+above the old standard of 1/8. In Saudi Arabia they have long since risen above 50%, with no
+noticeable disincentive effects—direct controls are the effective limit on extraction. Many other
+private and public lessors, following the Saudi lead, have broken out of the old mold (imposed
+and long enforced by a unified group of major lessees) and raised royalty rates to high levels.
+Alaska, for example, takes a royalty from Prudhoe Bay, plus a 12.25% severance tax, plus a
+transit tax on use of the Trans-Alaska Pipeline, plus a tax on profits of oil corporations.
+
+In such perspective, the 6% severance tax proposed in PROP. 87 seems trivial as a variable
+cost. The existence and prevalence of high royalty rates within the industry itself, voluntarily
+negotiated by private parties, indicates that they do not regard variable charges on production as
+significantly aborting economic surpluses.
+
+Where a severance tax does drag down the rate of extracting oil, the loss is not total.
+Deferring is not destroying or aborting. The power of falling water, if not used today, is lost
+forever. Oil is different: less now means more later. Mis-timing may indeed result in substantial
+net economic losses, considering the time value of money. I do not minimize such losses, which
+most people, and even petroleum engineers, undervalue. However, many conservation-minded
+people, including some inside the industry, make the case that such deferral is a net social gain.
+One of its benefits is alleged to be, and may actually be, that slower extraction rates increase the
+total quantum ultimately recovered. On such grounds, engineers have traditionally referred to a
+slow rate, that maximizes ultimate recovery while disregarding the time-value of money, as the
+“Maximum Efficient Rate”, or MER.
+
+On balance, tax-induced deferral is a net social cost. However, in the larger context, tax-
+induced drag offsets subsidy-induced acceleration of extraction rates, and is not obviously, on
+balance, a net social loss. For example the “depletion allowance” of the Federal income tax,
+which still applies to stripper wells, is a kind of “negative severance tax”, i.e. a subsidy to rapid
+extraction. It is at tax rates much higher than the 6% severance rate we are considering here.
+
+C. On new leases, taxes would be offset by lower royalties.
+
+In negotiating new leases on private land, lessees would probably offer lower royalties than
+now, in light of anticipated severance taxes to fall on the lessee. Lessors would have to accept
+them. Thus the variable charge imposed by the State would probably be offset by lowering the
+variable charge paid to lessors.
+
+It is true that lessors would then have lesser incentive to produce, but their incentives are
+hardly relevant. In the standard lease, production rates are determined by lessees. Lessors'
+incomes are almost purely parasitic, and useless as incentives. The standard lease terms simply
+recognize that lessors serve no economic function. The State might tax their royalties 100%, with
+little disincentive effects.
+
+There are other possibilities, which lawyers writing the fine print in leases will want to cover,
+but we will leave the elegant variations to them. In general, lessees subject to future taxes might
+lower either the royalty rate, as above; or the "bonus bid" paid up front. If they lower bonus bids
+it is another social gain, because it tends to ease entry into the industry, and increase competition.
+Thus, either way the market goes, imposing the new tax would lead to an offsetting gain.
+
+D. Severance taxes could be structured to come entirely from royalty income.
+
+It is an interesting question how a new severance tax would be split between lessees and
+lessors under existing lease contracts. It seems most likely that existing contracts, if not simply
+silent on the matter, provide that a royalty owner receiving X% of wellhead value would also
+bear X% of the tax; and also that contracts that are silent would be interpreted in that same
+manner.
+
+With incentives in mind, it would be most desirable to structure the proposed severance tax so
+that it would all come out of royalty-owners' shares, and none out of lessees' shares. This would
+eliminate disincentive effects on extraction rates, since royalty recipients have no control over
+such rates.
+
+With distributive consequences in mind, however, the matter is not so clear. It is possible that
+lessees as a group are fewer, and wealthier, than royalty-recipients as a group. Facts are needed
+on concentration of ownership. A full-scale study is called for. Ownership of resources, and of
+corporate shares, are both traditionally shrouded in secrecy. Indeed, proposing and carrying out
+such a study might be more of a public benefit than the proposed tax itself. Perhaps the most
+politic way to proceed is first to impose the tax at a high rate, on the assumption that ownership
+is highly concentrated; then let those taxed press, if they will, for a study of the concentration of
+ownership. Of course, that assumes an administration not dominated by the industry, something
+we have not seen for a while.
+
+E. Intergovernmental relations.
+
+1. The severance tax, like many other state taxes, would be deductible from the Federal
+income tax bases, both corporate and individual. Thus, from the State view, its
+disincentive effects are partly abated by an added contribution from Washington. In this
+respect it is superior to the most likely alternative state taxes, on retail sales. These are
+not deductible.
+
+2. Federal income tax treatment of income from minerals, especially oil and gas, is
+generally very lenient on the taxpayer.” In tax lingo, this tax source is "unpreempted."
+There is vast "tax space," a vacuum this or any State might reasonably occupy.
+
+°Mason Gaffney, 1984. "Oil and Gas: the Unfinished Tax Reform." Unpublished ms.
+10
+
+This answers the concern that might be raised about any tax on minerals, however structured:
+will it erode motives to find new mineral sources through exploration? The U.S. Congress is so
+unreasonably generous in this regard, the rents are there for the State to take.
+
+F. Refiners and distributors.
+
+Most of the oil industry is vertically integrated, so shifting a tax from one stage to another is
+mostly arbitrary, determined by internal transfer pricing policies. To the extent that competition
+prevails, however, tax incidence depends on the relative supply elasticities. Whichever stage of
+production has the most inelastic supply conditions will bear most of any tax. In this case, for
+reasons given, elasticity of supply of oil and gas in situ is probably less than that of refining
+services. As to distribution involving pipelines, these operate everywhere under quasi-monopoly
+conditions, mostly in vertically integrated form. Questions of shifting are primarily institutional,
+depending on the facts and agreements of each case. There is no general simple theoretical
+answer to the outcome in such cases.
+
+In one sense a drag on extraction rates may benefit refineries. They may save capital by
+building less capacity, and using it over a longer period.
+
+G. Air pollution
+
+A severance tax has been advanced as a surrogate for a Pigovian pollution charge. It is not a
+good surrogate, in general, because it only slows down the flow of California oil. Unlimited
+foreign oil lies in wait to replace it.
+
+On the other hand, see comments on heavy oil, supra.
+Vv. The severance tax may be improved by allowing certain cost offsets.
+
+The idea of a severance tax is to tap the rent from oil and gas. Rent is the value given by
+nature, before man adds value. Ideally, a severance tax would be imposed not at the well-head,
+as now proposed, but at the well-foot, before the costs of lifting.
+
+There are several standard approaches to allowing cost offsets, to move from simple wellhead
+value to something approximating what we may call a true or pure severance tax. I will mention
+three.
+
+A. Sliding rate based on flow.
+
+The idea here is that low-cost (high-rent) wells flow faster than high-cost (low-rent) wells, so
+the tax rate rises with the flow per well. This is clearly an approximation based on an incidental
+attribute of most low-cost wells, rather than low cost itself. Like any approximation, it will give
+results that only approximate a sought-for outcome. In some cases it will be far off target.
+
+B. Use of rate classes, based on known standard recovery techniques.
+
+Under this system, wells are divided discretely into those using primary, secondary, and
+tertiary techniques. Oil from steam injection, a costly advanced technique, would be taxed at the
+lowest rate; modern gushers, if any, at the highest. The workability of the system depends in part
+on there being no "gray areas" between the standard recovery techniques. Its even more general
+weakness is that it is based on distinguishing among techniques, rather than the natural resource
+to which applied.
+
+C. Redefining the tax base to exclude costs of extraction.
+11
+
+This is getting to the "well-foot" basis of valuation cited above. The common American term
+for this tax base is "net proceeds." It is used in Nevada, Idaho, Utah, and South Dakota.?° It has
+eloquent expositors in Australian economists Ross Garnaut and Anthony Clunies-Ross,'' who
+have helped implement the system in Papua-New Guinea.
+
+The net proceeds tax has something in common with an income tax, but with important
+differences. The ordinary income tax is in personam (human or corporate), so funny things may
+happen en route to the tax base. For example, overhead from headquarters in Houston or New
+York may be over-allocated to a California field, wiping out much of its net income. The net
+proceeds tax avoids this. It is based on the facts of particular fields or deposits, regardless of the
+owners' other circumstances. Only expenditures in situ are deductible.
+
+The theoretical purist may prefer some scheme for perfect allocation of overhead to specific
+fields, for otherwise such overhead is not recognized as a legitimate cost. There are practical
+reasons, however, for preferring the net proceeds-in-situ approach. These are:
+
+1. Local tax authorities are not equipped to audit the books and evaluate the allocations
+made by multinational firms, nor would the firms want them to;
+
+2. There are strong sociological, anti-trust, pro-competitive, and local reasons for
+embedding some bias against large, absentee owners;
+
+3. It is widely believed that almost all large American firms would gain by cutting their
+administrative overhead. In addition, field operations are more purely productive. Some
+of the expenditures of central offices are for machinations that may benefit the firm at
+the expense of the public good.
+
+Any of those modifications of the severance tax will lower the tax base. The lost revenue may
+be more than regained, however, by raising the tax rate. This, indeed, is a major purpose of
+removing non-land costs from the tax base: it allows the Treasury to tap more of the pure surplus
+from low-cost fields, without jeopardy of aborting production from high-cost fields, or marginal
+production from all fields.
+
+A tricky question with taxing net proceeds is that of when to let capital costs be deducted. The
+subject deserves more time and space than available here; the writer has addressed it elsewhere.”
+VI. Conclusion
+
+Rent has been informally defined as "fat in the private sector." To tap rent for public purposes
+there are two requirements. First, the tax base must be a source of rent; second, the tax itself
+
+‘Robert Paschall, 1977. "A Comparison of Minerals Tax Systems." The Assessors’ Journal, 12(4), December,
+pp. 221-37; also, his "The 'Net Proceeds to Mines' Approach to Taxation." A paper presented at National
+Convention, American Institute of Mining Engineers, February, 1976.
+
+Ross Garnaut and Anthony Clunies-Ross, 1977. "A Tax on Mineral Rents." In Andrew Thompson and Michael
+Crommelin (eds.) Mineral Leasing as an Instrument of Public Policy. Vancouver: Univ. of British Columbia Press,
+1977.
+
+”M. Gaffney, 1977. Oil and Gas Leasing Policy: Alternatives for Alaska in 1977. A Report to The State of
+Alaska, Jay S. Hammond, Governor; Alaska Department of Natural Resources, Guy Martin, Commissioner; and
+Alaska State Legislature, Interim Committee on Oil and Gas Taxation and Leasing Policy. Juneau: The Committee,
+1977. Pp. i-ix, 1-132, plus Technical Appendices A-K, 8 of them by myself. Others by Michael Crommelin, Richard
+Norgaard, and Robert Rooney.
+must not abort or destroy rent. Oil and gas are indeed a source of rent. The severance tax would
+abort only a minor share of it, and this flaw may be remedied by modifying the tax to allow
+reasonable cost deductions. These would permit raising the rate to secure more of the rent from
+low-cost fields.
+
+12
