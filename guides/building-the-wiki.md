@@ -22,8 +22,8 @@ The wiki grows the way a newsroom works a story, in five repeating moves:
 1. **Find** the literature — the papers, books, and people that bear on the land question. What's been found is tracked in a reading list (**1,106 sources** logged so far).
 2. **Read and mine** each source — write its research page, and pull out *every* finding, figure, person, and counter-argument it contains. A source isn't done when it's summarized; it's done when everything it teaches has a home on the wiki.
 3. **Synthesize** what the sources collectively show into the argument pages — the problems, the benefits, and the objections.
-4. **Verify** relentlessly — every claim the wiki couldn't confirm carries a visible flag until someone works it down.
-5. **Expand** — reading always surfaces new topics worth covering; the best-connected ones become pages.
+4. **Verify** relentlessly — every claim the wiki couldn't confirm carries a visible unverified-claim flag until someone works it down.
+5. **Expand** — reading keeps surfacing new topics worth covering; the best-connected ones become pages.
 
 Each pass through the loop is a **wave**. There have been **167 loop-wave commits** across **649 commits** total. A wave picks a lane — reinforce the problem claims, answer the objections, sweep the dead links, deepen the thin pages — does the work, checks it, and records what it changed and what it left undone.
 
@@ -31,7 +31,7 @@ Each pass through the loop is a **wave**. There have been **167 loop-wave commit
 
 Work is tiered, the way an editorial desk is — and the tiers are *editorial roles*, not just model sizes:
 
-- **T1 — the editor** (a frontier model). Judgment calls: what the evidence collectively justifies, whether a page's wording matches its source's strength, review of everyone else's drafts. **T1 is the only gate to the published site.**
+- **T1 — the editor** (a frontier model). Judgment calls: what the evidence collectively justifies, whether a page's wording matches its source's strength, review of everyone else's drafts. **T1 is the sole gate to the published site.**
 - **T2 — the staff writers** (mid-tier models). Research and draft pages against vetted sources and templates.
 - **T3 — the copy desk** (fast, cheap models). Scan sources, wire cross-links, keep the checks green.
 
@@ -43,7 +43,7 @@ None of this would be trustworthy without a rule the loop can't talk itself out 
 
 - **Persuade by being accurate, never by asserting the conclusion.** A reader who disagrees should be able to see that their strongest objection was understood, sourced, and answered. This is why every objection page *steelmans* the criticism from its best source before replying, and concedes — out loud — wherever the criticism has real force.
 - **Classify every substantive sentence** by what kind of claim it is (measured finding, historical fact, theoretical prediction, interpretation, advocacy) and **match the language to the strength of the evidence.** "Proven" and "suggests" are not interchangeable.
-- **Never fabricate.** An unverified fact gets a visible `[VERIFY]` flag, not a confident guess. Quotes are transcribed word-for-word against the primary source or they don't get quotation marks.
+- **Never fabricate.** An unverified fact gets a visible in-text flag reading *verify* — not a confident guess. Quotes are transcribed word-for-word against the primary source or they don't get quotation marks.
 - **One finding, one home, many links.** A result lives on one page and is linked from everywhere it's relevant, rather than being restated (and subtly drifting) across a dozen pages.
 - **The rent gradient — the honesty rule that matters most here.** Land is the *clean* case: fixed supply, no incentive to damage, a century of evidence. Every step away from land — resource, monopoly, innovation, platform rents — is more contested. The airtight land case is *not allowed* to lend its certainty to the contested frontier. Pages carry that gradient explicitly.
 
@@ -74,7 +74,7 @@ Because the method is the argument, the method's limits belong on the page too:
 
 ## Could you build one?
 
-Yes — and the ingredients are all here. A written constitution that defines a good page and can't be argued with. A loop that finds, mines, synthesizes, and verifies. Tiered agents that fan out for scale and defer to judgment. Mechanical checks that fail the build on dishonesty. An automated publish pipeline. And — the non-negotiable part — a human who sets the priorities, makes the calls the models can't, and holds the only key to the front door.
+Yes — and the ingredients are all here. A written constitution that defines a good page and can't be argued with. A loop that finds, mines, synthesizes, and verifies. Tiered agents that fan out for scale and defer to judgment. Mechanical checks that fail the build on dishonesty. An automated publish pipeline. And — the non-negotiable part — a human who sets the priorities, makes the calls the models can't, and holds the sole key to the front door.
 
 The models are the labour. The constitution and the editor are why you can cite it.
 
