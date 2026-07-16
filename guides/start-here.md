@@ -44,7 +44,7 @@ Eight portals, each a curated way into a cluster of the wiki:
 
 ## How we verify
 
-Before you quote this wiki, read [How We Verify](/wiki/how-we-verify/) — the claim grades, the verbatim quote-checking, the honest-stop rule when no source can be found, and how to report an error. It is the reason the pages above can be trusted or, where they cannot yet, say so.
+Before you quote this wiki, read [How We Verify](/wiki/how-we-verify/) · [How This Wiki Was Built](/wiki/building-the-wiki/) — the claim grades, the verbatim quote-checking, the honest-stop rule when no source can be found, and how to report an error. It is the reason the pages above can be trusted or, where they cannot yet, say so.
 
 ## See Also
 
