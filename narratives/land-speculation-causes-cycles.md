@@ -63,7 +63,11 @@ rather than merely regulating the credit that finances it.
   *The Corruption of Economics* (1994), argued in *After the Crash* (2009) that the 2008
   crisis was substantially a land-price collapse consistent with George's analysis, while
   adding that land speculation is a *necessary but not sufficient* condition — credit
-  structure and capital theory also matter.[8]
+  structure and capital theory also matter.[8] Gaffney had in fact attempted the same
+  Georgist-Austrian fusion Foldvary later published fifteen years earlier, in unpublished
+  1982 working notes, "[Causes of Downturns](/wiki/gaffney-causes-of-downturns/)" — a fact
+  that supports reading the synthesis as a recognized line of Georgist thinking rather than
+  a single scholar's one-off argument.[17]
 
 ## Research That Supports It
 
@@ -112,6 +116,13 @@ rather than merely regulating the credit that finances it.
   the periodicity claim.[12]
 - A dedicated wiki page examines the empirical basis for the periodicity claim itself in
   more depth: [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/).
+- **Why the boom self-destructs, mechanically.** Gaffney's short working notes
+  "[How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/)"
+  (1993, revised 2005) supply an accounting-level answer to a question George's own text
+  leaves open: how rising land value under an *already-built* structure diverts the owner's
+  capital-replacement reserves into consumption ("equity withdrawal"), so that real capital
+  is quietly lost well before any credit-market stress is visible — a non-credit channel
+  running alongside, not dependent on, the banking mechanism described below.[18]
 
 ## Research That Challenges It — or Is Missing
 
@@ -417,3 +428,13 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     — used for the finding that housing markets fail weak-form efficiency tests (real
     price changes show year-ahead persistence) and that transaction and carrying costs
     impede professional arbitrage (B-claim; quotation under 50 words).
+17. Mason Gaffney, "Causes of Downturns: an Austro-Georgist Synthesis," working notes,
+    1982. [wiki summary](/wiki/gaffney-causes-of-downturns/) · [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf)
+    — used for the independent 1982 precursor to Foldvary's 1997 Georgist-Austrian
+    synthesis (A-claim). Text mirrored and OCR'd from the site's scanned PDF this session
+    (2026-07-16).
+18. Mason Gaffney, "How Rising Rents Can Devour Capital" (1993) and "How a Land Boom
+    Destroys Capital" (2005). [wiki summary](/wiki/gaffney-land-booms-destroy-capital/)
+    — used for the capital-destruction/equity-withdrawal mechanism by which a land boom
+    consumes real capital independent of the credit channel (C-claim). Text mirrored and
+    OCR'd from the site's scanned PDFs this session (2026-07-16).

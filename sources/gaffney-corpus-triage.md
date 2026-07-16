@@ -104,11 +104,11 @@ gaffney-after-the-crash; narratives/the-corruption-of-economics; people/mason-ga
 - [ ] `1972_Benefits_of_Military_Spending.pdf` — https://masongaffney.org/workpapers/1972_Benefits_of_Military_Spending.pdf
 - [ ] `A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf
 - [ ] `Capital_Gains_and_Future_of_Free_Enterprise.pdf` — https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf
-- [ ] `Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf` — https://masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf
+- [x] `Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf` — https://masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf — [research/gaffney-causes-of-downturns.md](/wiki/gaffney-causes-of-downturns/)
 - [ ] `Factitious_Locational_Obsolescence_in_Land_Booms_WP041 .pdf` — https://masongaffney.org/workpapers/Factitious_Locational_Obsolescence_in_Land_Booms_WP041%20.pdf
 - [ ] `How_Religious_Awakenings_Presage_Radical_Reforms.pdf` — https://masongaffney.org/workpapers/How_Religious_Awakenings_Presage_Radical_Reforms.pdf
-- [ ] `How_Rising_rents_devour_ capital_1993_WP039.pdf` — https://masongaffney.org/workpapers/How_Rising_rents_devour_%20capital_1993_WP039.pdf
-- [ ] `How_a_Land_Boom_Destroys_Capital_10_2005.pdf` — https://masongaffney.org/workpapers/How_a_Land_Boom_Destroys_Capital_10_2005.pdf
+- [x] `How_Rising_rents_devour_ capital_1993_WP039.pdf` — https://masongaffney.org/workpapers/How_Rising_rents_devour_%20capital_1993_WP039.pdf — [research/gaffney-land-booms-destroy-capital.md](/wiki/gaffney-land-booms-destroy-capital/)
+- [x] `How_a_Land_Boom_Destroys_Capital_10_2005.pdf` — https://masongaffney.org/workpapers/How_a_Land_Boom_Destroys_Capital_10_2005.pdf — [research/gaffney-land-booms-destroy-capital.md](/wiki/gaffney-land-booms-destroy-capital/)
 - [ ] `How_an_interest_hike_destroys_capital_1996.pdf` — https://masongaffney.org/workpapers/How_an_interest_hike_destroys_capital_1996.pdf
 - [ ] `Land_Markets_Lead_to_Misallocating_Capital_WP042 .pdf` — https://masongaffney.org/workpapers/Land_Markets_Lead_to_Misallocating_Capital_WP042%20.pdf
 - [ ] `Logos_Abused.pdf` — https://masongaffney.org/workpapers/Logos_Abused.pdf

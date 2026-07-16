@@ -77,6 +77,17 @@ economy, **land and credit are largely the same phenomenon seen from two sides.*
   but the crises with the largest and most persistent output costs are the ones tied to
   property and mortgage debt — which is exactly why property sits at the centre of the
   credit school's own data.
+- **A non-credit channel destroys real capital on the land side alone.** Mason Gaffney's
+  working notes [Causes of Downturns](/wiki/gaffney-causes-of-downturns/) (1982) and
+  [How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/) (1993/2005)
+  argue land-price appreciation under an *already-built* structure diverts the owner's
+  capital-replacement reserves into consumption ("equity withdrawal") well before any
+  bank-lending stress appears, and that "[s]imple sequential observation... shows that
+  land cycles have a life of their own, leading banking cycles" rather than the reverse.
+  This is a theoretical, historically-illustrated argument for the causal direction the
+  credit school disputes, not an econometric test of it — but it predates, and
+  independently anticipates, the same reply Foldvary later gave in his 1997 peer-reviewed
+  paper.
 
 So the two schools are describing one machine. Where they genuinely differ is the
 **remedy**: the credit school reaches for the banking side (macroprudential limits,
@@ -131,3 +142,10 @@ attack the same instability from two ends.** Not "cycles are land, not credit," 
    booms are overwhelmingly land credit. The Minsky, Werner, Keen, and Vague positions are
    summarised from the standard credit-school literature (no dedicated wiki page yet;
    discovery candidates).
+3. Mason Gaffney, "Causes of Downturns: an Austro-Georgist Synthesis" (1982) and "How
+   Rising Rents Can Devour Capital"/"How a Land Boom Destroys Capital" (1993/2005).
+   [wiki summary](/wiki/gaffney-causes-of-downturns/) ·
+   [wiki summary](/wiki/gaffney-land-booms-destroy-capital/) — used for the non-credit
+   capital-destruction channel and the land-cycles-lead-banking-cycles causal-direction
+   argument (C-claim). Text mirrored and OCR'd from the site's scanned PDFs this session
+   (2026-07-16).

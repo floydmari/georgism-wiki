@@ -24,6 +24,8 @@ The thesis is controversial among academic economists but is supported by consid
 ## Other Contributions
 
 - **After the Crash (2009)** — argued that the 2008 financial crisis was substantially a land price collapse, as predicted by George's analysis of land speculation and credit cycles
+- **Causes of Downturns: an Austro-Georgist Synthesis (1982)** — unpublished working notes that fused George's land-speculation theory with Austrian capital-structure theory fifteen years before Fred Foldvary's peer-reviewed 1997 statement of the same synthesis; see the wiki's [dedicated page](/wiki/gaffney-causes-of-downturns/)
+- **How Rising Rents Devour Capital (1993) / How a Land Boom Destroys Capital (2005)** — short working notes on how a rising land price under an existing building diverts the owner's capital-replacement reserves into consumption, destroying real capital independent of the credit channel; see the wiki's [combined page](/wiki/gaffney-land-booms-destroy-capital/)
 - Extensive work on the theory of capital and land, distinguishing them rigorously in ways mainstream economics had collapsed
 - Research on water rights and natural resource taxation
 - The *ATCOR* theorem — All Taxes Come Out of Rent — developing the theoretical case that land taxation is distinctively non-distortionary
@@ -33,6 +35,8 @@ The thesis is controversial among academic economists but is supported by consid
 - [Harry Gunnison Brown](/wiki/harry-gunnison-brown/) — earlier academic economist who defended Georgist land theory within orthodox neoclassical economics decades before Gaffney
 - [After the Crash: Designing a Depression-Free Economy (2009)](/wiki/gaffney-after-the-crash/) — Gaffney's late-career book-length argument that the 2008 crash followed a predictable ~18-year land-speculation pattern
 - [Gaffney (1994), Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — Gaffney's systematic catalogue of why land is not economically interchangeable with capital
+- [Gaffney (1982), Causes of Downturns](/wiki/gaffney-causes-of-downturns/) — unpublished precursor to Foldvary's 1997 Georgist-Austrian synthesis
+- [Gaffney, How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/) — the capital-destruction mechanism
 - [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — signatory
 
 - [Henry George](/wiki/henry-george/) — the intellectual tradition Gaffney defended
@@ -45,3 +49,5 @@ The thesis is controversial among academic economists but is supported by consid
 1. Mason Gaffney — complete career archive (100+ papers, free) — used for career scope, UC Riverside emeritus role, and the water-rights/resource-taxation work. [masongaffney.org](https://masongaffney.org/publications.html)
 2. Mason Gaffney & Fred Harrison (1994), *The Corruption of Economics* (book) — used for the profession-reshaping thesis and its archival-funding evidence (summarized on the wiki's [book page](/wiki/gaffney-harrison-corruption-of-economics/)).
 3. Gaffney, "The Hidden Taxable Capacity of Land" (2009) — used for the ATCOR theorem and the 2008-as-land-collapse reading. [wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
+4. Gaffney, "Causes of Downturns: an Austro-Georgist Synthesis" (1982) — used for the 1982 Georgist-Austrian synthesis. [wiki summary](/wiki/gaffney-causes-of-downturns/)
+5. Gaffney, "How Rising Rents Devour Capital" (1993) and "How a Land Boom Destroys Capital" (2005) — used for the capital-destruction mechanism. [wiki summary](/wiki/gaffney-land-booms-destroy-capital/)
