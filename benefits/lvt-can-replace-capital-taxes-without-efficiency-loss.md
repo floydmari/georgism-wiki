@@ -5,14 +5,14 @@ claim_type: benefit
 tags: [outcomes, efficiency, capital-tax, lvt, deadweight-loss]
 stub: false
 evidence_strength: "Strong for the core result — a land tax bears no deadweight loss while capital taxes deter investment (first-principles theory + calibrated general-equilibrium models); qualified by Feldstein's portfolio-shifting challenge to full land-tax neutrality and the Bentick–Mills assessment-basis timing distortion, both carried as counter-evidence"
-supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation, tideman-avoidable-excess-burden, schwerhoff-imf-equity-efficiency, site-value-ge-simulations]
+supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation, tideman-avoidable-excess-burden, schwerhoff-imf-equity-efficiency, site-value-ge-simulations, gaffney-europes-fatal-affair-with-vat]
 challenged_by: [feldstein-incidence-pure-rent, bentick-mills-timing-neutrality]
 excerpt: "Shifting tax from capital to land raises welfare: land taxes carry no deadweight loss while capital taxes discourage investment."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-16
 ---
 
 > **At a glance** — Because land is fixed in supply and bears no deadweight loss while capital taxes deter investment at the margin, a revenue-neutral swap from capital taxes to a land tax raises welfare — supported by theory and calibrated general-equilibrium models.
-> **Evidence:** Strong for the core no-deadweight-loss result (theory + calibrated general-equilibrium models); two qualifications now carried as counter-evidence · **8 supporting** sources · **2 challenging**
+> **Evidence:** Strong for the core no-deadweight-loss result (theory + calibrated general-equilibrium models); two qualifications now carried as counter-evidence · **9 supporting** sources · **2 challenging**
 > **Strongest support:** [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/) — taxing land dominates taxing capital and can substitute for capital taxes without the efficiency cost. **Strongest counter:** [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/) — in a growth model where land and capital compete as stores of wealth, a tax on pure rent can be "at least partly shifted," so even a land tax is not unambiguously neutral.
 
 ## The Claim
@@ -44,6 +44,21 @@ institutional advice, concluding land value should be taxed and business rates
 replaced with an LVT. [Brueckner (1986)](/wiki/brueckner-site-value-taxation/)
 supplies the formal split-rate theory: shifting tax off improvements onto land
 raises the capital-to-land ratio — the mechanism behind the efficiency claim.
+
+**A Georgist argument for the other side of the swap.** The mainstream case above
+compares land taxes against capital *income* taxes; [Gaffney (2016)](/wiki/gaffney-europes-fatal-affair-with-vat/)
+argues, as an advocate rather than in a peer-reviewed venue, that the VAT and
+general sales taxes many nations use instead of capital taxation carry their own
+excess burden — what he calls the "Mill Effect": an ad valorem sales tax taxes
+capital as it turns over, so it bears far more heavily on fast-turnover
+(labour-intensive) businesses than on slow-turnover ones, contradicting the
+textbook claim that a "truly general" sales tax is neutral across sectors. Land,
+having no turnover in this sense, is untouched by the distortion either way. This
+is Gaffney's own attributed argument for treating property/land taxation as
+categorically less distorting than the broader universe of "capital-adjacent"
+taxes a government might otherwise levy, not an independently modeled or
+peer-reviewed excess-burden estimate — see the [full page](/wiki/gaffney-europes-fatal-affair-with-vat/)
+for the honest-limits discussion of his headline "€1 trillion" figure.
 
 ## Counter-Evidence and Limits
 
@@ -77,3 +92,8 @@ Neither result reverses the ranking of a land tax above the capital taxes it wou
    Taxation," *IMF Working Paper* — used for the optimal-tax finding that an LVT can
    substitute for distortionary capital taxes without efficiency loss.
    [PDF](https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022263-print-pdf.pdf)
+3. Mason Gaffney (2016), "Europe's fatal affair with VAT," in *Beyond Brexit: The Blueprint*
+   — used, as Gaffney's attributed argument rather than peer-reviewed evidence, for the
+   "Mill Effect" case that ad valorem sales taxes and VAT carry excess burden on capital
+   turnover in a way land taxes do not. [wiki summary](/wiki/gaffney-europes-fatal-affair-with-vat/)
+   · [PDF](https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf)

@@ -7,6 +7,7 @@ born: 1923
 died: 2020
 sources: [gaffney-1994, gaffney-2009]
 excerpt: "American economist (1923–2020) at UC Riverside, among the most rigorous and prolific 20th-century academic defenders of Henry George’s land economics; co-author of The Corruption of Economics, originator of the ATCOR thesis, and adviser to governments on land taxation."
+last_reviewed: 2026-07-16
 ---
 
 ## Life and Career
@@ -29,6 +30,12 @@ The thesis is controversial among academic economists but is supported by consid
 - Extensive work on the theory of capital and land, distinguishing them rigorously in ways mainstream economics had collapsed
 - Research on water rights and natural resource taxation
 - The *ATCOR* theorem — All Taxes Come Out of Rent — developing the theoretical case that land taxation is distinctively non-distortionary
+- **[Europe's Fatal Affair with VAT (2016)](/wiki/gaffney-europes-fatal-affair-with-vat/)** — a late-career essay, co-published with Fred Harrison in *Beyond Brexit: The Blueprint*, arguing VAT and general sales taxes carry a hidden "Mill Effect" excess burden by taxing capital as it turns over
+- **[New Life in Old Cities (2006)](/wiki/gaffney-new-life-in-old-cities/)** — a historical survey of nine US and Canadian cities, 1890–1930, arguing Georgist tax shifts coincided with outsized population growth, with Pittsburgh's building-without-population growth as an explicit anomaly
+- **[A Severance Tax on California Oil? (2006)](/wiki/gaffney-california-severance-tax/)** — a policy essay on capturing California oil-and-gas rent through a severance tax, written amid the Proposition 87 campaign and after Proposition 13 (1978) gutted the state's earlier property tax on mineral reserves
+- **[George's Economics of Abundance (c. 1993–94)](/wiki/gaffney-economics-of-abundance/)** — a polemical essay arguing Henry George's program resolves, rather than trades off, efficiency against equity and demand-side against supply-side stimulus
+- **[Full Employment through Total Tax Reform (1993)](/wiki/gaffney-full-employment-tax-reform/)** — a keynote address proposing "True Fiscal Stimulus," a land-value tax shift argued to raise labour demand and supply-side incentives together
+- **[A Better Way of Gauging the Excess Burden of Shiftable Taxes (2005)](/wiki/gaffney-excess-burden-shiftable-taxes/)** — a working paper proposing to measure excess burden by tax-induced shifting of land to lower uses, rather than by conventional Harberger-triangle modeling
 
 ## See Also
 
@@ -51,3 +58,6 @@ The thesis is controversial among academic economists but is supported by consid
 3. Gaffney, "The Hidden Taxable Capacity of Land" (2009) — used for the ATCOR theorem and the 2008-as-land-collapse reading. [wiki summary](/wiki/gaffney-hidden-taxable-capacity/)
 4. Gaffney, "Causes of Downturns: an Austro-Georgist Synthesis" (1982) — used for the 1982 Georgist-Austrian synthesis. [wiki summary](/wiki/gaffney-causes-of-downturns/)
 5. Gaffney, "How Rising Rents Devour Capital" (1993) and "How a Land Boom Destroys Capital" (2005) — used for the capital-destruction mechanism. [wiki summary](/wiki/gaffney-land-booms-destroy-capital/)
+6. Gaffney, "Europe's Fatal Affair with VAT" (2016) — used for the VAT excess-burden argument. [wiki summary](/wiki/gaffney-europes-fatal-affair-with-vat/)
+7. Gaffney, "Full Employment through Total Tax Reform" (1993) — used for the "True Fiscal Stimulus" argument. [wiki summary](/wiki/gaffney-full-employment-tax-reform/)
+8. Gaffney, "A Better Way of Gauging the Excess Burden of Shiftable Taxes" (2005) — used for the land-use-shifting excess-burden method. [wiki summary](/wiki/gaffney-excess-burden-shiftable-taxes/)

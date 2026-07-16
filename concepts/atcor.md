@@ -6,10 +6,11 @@ excerpt: ATCOR — “All Taxes Come Out of Rent” — is Mason Gaffney’s the
   on labour, capital, and trade ultimately fall on land rent, the residual left after
   other factors earn market returns. If it holds, shifting taxes onto land rent is
   self-financing — though it remains an untested hypothesis.
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 sources:
 - gaffney-1994
 - george-1879
+- gaffney-europes-fatal-affair-with-vat
 stub: false
 tags:
 - atcor
@@ -59,10 +60,13 @@ Burgess's formulation of the single-tax argument — that abolishing taxation an
 
 ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not every tax is fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney and Harrison argue the mechanism operates over the medium-to-long term. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
 
+Gaffney invokes the term again, in passing, in his later 2016 essay on European tax policy — "Many of us now hew to the Physiocratic doctrine that All Taxes Come Out of Rents (ATCOR)" — but that essay's substantive argument is about VAT and sales-tax excess burden specifically, not a further development of the theorem itself; see [Gaffney (2016), Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/) for that argument, and the 2005 paper above for ATCOR's primary statement.
+
 ## See Also
 
 - [Monaco](/wiki/monaco/) — near-zero personal taxation fully capitalised into the world's highest land prices, an extreme real-world case of the ATCOR mechanism
 - [Gaffney (2005): The Physiocratic Concept of ATCOR](/wiki/gaffney-atcor/) — the working paper that coined the ATCOR acronym and states the thesis in Gaffney's own words
+- [Gaffney (2016): Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/) — a later essay that invokes ATCOR in passing while arguing the separate case against VAT
 - [EBCOR](/wiki/ebcor/)
 
 - [Land Value Tax](/wiki/land-value-tax/)

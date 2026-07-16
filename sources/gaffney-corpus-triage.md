@@ -7,13 +7,23 @@ in Notion (pending access — see BACKLOG). Local mirror of worked texts: `sourc
 
 **Already covered on the wiki** (research/): gaffney-atcor, gaffney-neoclassical-stratagem,
 gaffney-synergistic-city, gaffney-hidden-taxable-capacity, gaffney-land-distinctive-factor,
-gaffney-after-the-crash; narratives/the-corruption-of-economics; people/mason-gaffney.
+gaffney-after-the-crash, gaffney-causes-of-downturns, gaffney-land-booms-destroy-capital,
+gaffney-europes-fatal-affair-with-vat, gaffney-full-employment-tax-reform,
+gaffney-excess-burden-shiftable-taxes; narratives/the-corruption-of-economics;
+people/mason-gaffney.
+
+**2026-07-16 tax-shift cluster (T2 wave):** Europe's Fatal Affair with VAT, Full Employment
+through Total Tax Reform, and A Better Way of Gauging the Excess Burden of Shiftable Taxes
+are read, drafted, and wired (see checkboxes below and the three `research/gaffney-*` pages
+above) — wired into benefits/lvt-can-replace-capital-taxes-without-efficiency-loss,
+benefits/taxing-land-raises-productivity, and concepts/deadweight-loss respectively, with
+cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per the delta rule.
 
 ## Inventory (masongaffney.org, fetched 2026-07-16: 190 files)
 
 ### /publications/ (87)
 - [ ] `1977_Counter-colonial_Land_Policy_for_Montana.pdf` — https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf
-- [ ] `2006_New_Life_in_Old_Cities.pdf` — https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf
+- [x] `2006_New_Life_in_Old_Cities.pdf` — https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf — [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/), 2026-07-16
 - [ ] `A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf` — https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf
 - [ ] `A3-AlternativeWaysofTaxingForests.CV.pdf` — https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf
 - [ ] `A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf` — https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf
@@ -102,7 +112,7 @@ gaffney-after-the-crash; narratives/the-corruption-of-economics; people/mason-ga
 
 ### /workpapers/ (73)
 - [ ] `1972_Benefits_of_Military_Spending.pdf` — https://masongaffney.org/workpapers/1972_Benefits_of_Military_Spending.pdf
-- [ ] `A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf
+- [x] `A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf — [research/gaffney-excess-burden-shiftable-taxes.md](/wiki/gaffney-excess-burden-shiftable-taxes/)
 - [ ] `Capital_Gains_and_Future_of_Free_Enterprise.pdf` — https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf
 - [x] `Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf` — https://masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf — [research/gaffney-causes-of-downturns.md](/wiki/gaffney-causes-of-downturns/)
 - [ ] `Factitious_Locational_Obsolescence_in_Land_Booms_WP041 .pdf` — https://masongaffney.org/workpapers/Factitious_Locational_Obsolescence_in_Land_Booms_WP041%20.pdf
@@ -146,7 +156,7 @@ gaffney-after-the-crash; narratives/the-corruption-of-economics; people/mason-ga
 - [ ] `WP058 Conservation in a World of Private Property Extremists.pdf` — https://masongaffney.org/workpapers/WP058%20Conservation%20in%20a%20World%20of%20Private%20Property%20Extremists.pdf
 - [ ] `WP061 Token_Timber_Taxation_Mendocino_County_2000.pdf` — https://masongaffney.org/workpapers/WP061%20Token_Timber_Taxation_Mendocino_County_2000.pdf
 - [ ] `WP062 Observed Behavior vs A Priori Dogmatism in Land Markets.pdf` — https://masongaffney.org/workpapers/WP062%20Observed%20Behavior%20vs%20A%20Priori%20Dogmatism%20in%20Land%20Markets.pdf
-- [ ] `WP067 A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/WP067%20A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf
+- [x] `WP067 A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/WP067%20A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf — duplicate of the row above; see [research/gaffney-excess-burden-shiftable-taxes.md](/wiki/gaffney-excess-burden-shiftable-taxes/)
 - [ ] `WP068 Raising output by removing tax bias.pdf` — https://masongaffney.org/workpapers/WP068%20Raising%20output%20by%20removing%20tax%20bias.pdf
 - [ ] `WP070 Unearned Income as a Barrier to Free Enterprise.pdf` — https://masongaffney.org/workpapers/WP070%20Unearned%20Income%20as%20a%20Barrier%20to%20Free%20Enterprise.pdf
 - [ ] `WP071 Prop 13 and the Decline of California.pdf` — https://masongaffney.org/workpapers/WP071%20Prop%2013%20and%20the%20Decline%20of%20California.pdf
@@ -176,18 +186,18 @@ gaffney-after-the-crash; narratives/the-corruption-of-economics; people/mason-ga
 - [ ] `WP105 Why Should We Care About Land Value and Why Now.pdf` — https://masongaffney.org/workpapers/WP105%20Why%20Should%20We%20Care%20About%20Land%20Value%20and%20Why%20Now.pdf
 
 ### /essays/ (30)
-- [ ] `2006_Severance_Tax_on_California_Oil.pdf` — https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf
+- [x] `2006_Severance_Tax_on_California_Oil.pdf` — https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf — [research/gaffney-california-severance-tax](/wiki/gaffney-california-severance-tax/), 2026-07-16
 - [ ] `Americas_Low_Savings_Rate_8-9_2005.pdf` — https://masongaffney.org/essays/Americas_Low_Savings_Rate_8-9_2005.pdf
 - [ ] `Answer_to_Futilitarians_1998.pdf` — https://masongaffney.org/essays/Answer_to_Futilitarians_1998.pdf
 - [ ] `Corporations_Democracy_and_the_US_Supreme_Court.pdf` — https://masongaffney.org/essays/Corporations_Democracy_and_the_US_Supreme_Court.pdf
 - [ ] `Denying_Inflation--Who_Why_and_How_12_2005.pdf` — https://masongaffney.org/essays/Denying_Inflation--Who_Why_and_How_12_2005.pdf
 - [ ] `Empty_Spaces_final_3-29.pdf` — https://masongaffney.org/essays/Empty_Spaces_final_3-29.pdf
 - [ ] `Europes_Fatal_Affair_with_VAT_071713a.pdf` — https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_071713a.pdf
-- [ ] `Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf` — https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf
+- [x] `Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf` — https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf — [research/gaffney-europes-fatal-affair-with-vat.md](/wiki/gaffney-europes-fatal-affair-with-vat/)
 - [ ] `Four_vampires_of_capital.pdf` — https://masongaffney.org/essays/Four_vampires_of_capital.pdf
-- [ ] `Full_employment_thru_total_tax_reform_1993.pdf` — https://masongaffney.org/essays/Full_employment_thru_total_tax_reform_1993.pdf
+- [x] `Full_employment_thru_total_tax_reform_1993.pdf` — https://masongaffney.org/essays/Full_employment_thru_total_tax_reform_1993.pdf — [research/gaffney-full-employment-tax-reform.md](/wiki/gaffney-full-employment-tax-reform/)
 - [ ] `GAffney_interview_in_Canada_Sun_Life_Financial.pdf` — https://masongaffney.org/essays/GAffney_interview_in_Canada_Sun_Life_Financial.pdf
-- [ ] `Georges_Economics_of_Abundance.pdf` — https://masongaffney.org/essays/Georges_Economics_of_Abundance.pdf
+- [x] `Georges_Economics_of_Abundance.pdf` — https://masongaffney.org/essays/Georges_Economics_of_Abundance.pdf — [research/gaffney-economics-of-abundance](/wiki/gaffney-economics-of-abundance/), 2026-07-16
 - [ ] `Great_Crash_of_2008.pdf` — https://masongaffney.org/essays/Great_Crash_of_2008.pdf
 - [ ] `Great_Expectations.pdf` — https://masongaffney.org/essays/Great_Expectations.pdf
 - [ ] `Henry_George_100_Years_Later.pdf` — https://masongaffney.org/essays/Henry_George_100_Years_Later.pdf
