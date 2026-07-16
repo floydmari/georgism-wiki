@@ -64,7 +64,8 @@ def classify(url, text):
     if PD_RX.search(text):
         return "PROMOTE-PD-STATED", "explicit 'public domain' statement"
     host = re.sub(r"https?://([^/]+).*", r"\1", url).lower()
-    if host.endswith((".gov", ".mil")) or any(h in host for h in USGOV_HINTS):
+    # ".gov" must be the FINAL label — treasury.govt.nz / treasury.gov.za are not US federal
+    if host.split(".")[-1] in ("gov", "mil") or any(host.endswith(h) or host == h for h in USGOV_HINTS):
         if "frb" in host or "federalreserve" not in host and "fed" in host.split(".")[0]:
             ev.append("fed-bank host (not a federal work)")
         else:
