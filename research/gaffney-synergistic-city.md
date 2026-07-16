@@ -37,6 +37,7 @@ Fred Harrison's *Ricardo's Law* cites Gaffney's paper as documenting how "synerg
 - [Economic Rent](/wiki/economic-rent/) — the underlying concept the "synergistic surplus" is an instance of
 - [Ricardo's Law (Harrison, book)](/wiki/harrison-ricardos-law/) — cites this paper as evidence that transport- and city-generated surplus is captured by land rent
 - [Optimal City Size](/wiki/optimal-city-size/) — related literature on the tradeoff between urban benefits and costs
+- [Gaffney (1998): The Philosophy of Public Finance](/wiki/gaffney-philosophy-of-public-finance/) — a later chapter that cites this paper directly for its brief restatement of the synergy argument
 
 ## Sources
 

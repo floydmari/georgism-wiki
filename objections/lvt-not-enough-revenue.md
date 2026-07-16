@@ -86,7 +86,10 @@ advocates concede full replacement is uncertain:
 3. **[ATCOR](/wiki/atcor/) expands the base.** Because other taxes ultimately fall
    on rent, abolishing them raises land values — and the LVT base — so the static
    figure understates capacity (the thesis Gaffney
-   [names and states](/wiki/gaffney-atcor/)). (ATCOR is itself a hypothesis needing empirical
+   [names and states](/wiki/gaffney-atcor/)). [Gaffney's earlier (1998) chapter](/wiki/gaffney-philosophy-of-public-finance/)
+   works the mechanism algebraically and argues the land-tax base rises by *more*
+   than the abated building-tax revenue once timing, excess-burden, and synergy
+   effects are added in — a formal version of the same claim.[6] (ATCOR is itself a hypothesis needing empirical
    testing, as [Doucet's own exposition concedes](/wiki/land-is-a-big-deal/).)
 4. **It needn't be the *only* tax.** Most modern Georgists argue for LVT as a
    *major* revenue source, not a literal single tax. Even partial replacement
@@ -141,3 +144,7 @@ theory.
    verbatim against the [full text](/wiki/progress-and-poverty-full-text/)
    ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain,
    EDITORIAL §3b).
+6. Mason Gaffney (1998), "The Philosophy of Public Finance," Ch. 7 in Fred Harrison
+   (ed.), *The Losses of Nations* (Othila Press, 1998) — used for the algebraic
+   ATCOR derivation showing the land-tax base rise exceeds the abated building-tax
+   revenue (C-claim, theoretical). [wiki summary](/wiki/gaffney-philosophy-of-public-finance/)

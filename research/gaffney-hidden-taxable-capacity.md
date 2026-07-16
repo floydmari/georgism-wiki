@@ -58,6 +58,7 @@ Gaffney enumerates "hidden" sources of land and resource rent typically left out
 
 - [Dwyer (2003), Taxable Capacity of Australian Land](/wiki/dwyer-taxable-capacity-australia/) — the national companion
 - [Larson (2015), BEA land value estimate](/wiki/larson-us-land-value/) — the official-data side
+- [Gaffney (1998), The Philosophy of Public Finance](/wiki/gaffney-philosophy-of-public-finance/) — the earlier book chapter that supplies this paper's philosophical and algebraic groundwork
 - [Mason Gaffney](/wiki/mason-gaffney/)
 
 ## Sources

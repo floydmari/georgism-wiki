@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, revenue-sufficiency, atcor, land-rent]
 stub: false
 evidence_strength: "Contested (estimates vary widely with method and scope)"
-supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont, kuminoff-pope-land-values, foldvary-public-revenue]
+supported_by: [larson-us-land-value, albouy-ehrlich-shin-metro-land, davis-heathcote-us-land, mirrlees-review, world-bank-changing-wealth, gaffney-hidden-taxable-capacity, gaffney-philosophy-of-public-finance, natural-common-wealth-economic-rent-canada, total-resource-rents-australia, valuing-common-assets-vermont, kuminoff-pope-land-values, foldvary-public-revenue]
 excerpt: "Estimates of total land rent suggest it could fund a substantial fraction — by some accounts most — of government, though figures are sensitive to assumptions."
 last_reviewed: 2026-07-13
 ---
@@ -23,6 +23,7 @@ The total economic rent of land and natural resources is large enough to fund a 
 | View | Argument | Source |
 |------|----------|--------|
 | **Optimistic** | US land rent is "enough and to spare" once hidden rent categories and the [ATCOR](/wiki/atcor/) base-expansion effect are counted | [Gaffney (2009)](/wiki/gaffney-hidden-taxable-capacity/) |
+| **Formal mechanism** | Algebraic tax-capitalization model showing untaxing buildings raises the land-tax base by *more* than the abated revenue (timing, excess-burden, and synergy effects each add to the rise) | [Gaffney (1998)](/wiki/gaffney-philosophy-of-public-finance/) |
 | **Advocate aggregation** | US land/resource rent ≈ $3.5T/yr, over a third of GDP, via two back-of-envelope methods — an attributed advocate estimate, not an official figure | Jeffery J. Smith, *Counting Bounty* (2020), ch. 20 |
 | **Advocate extrapolation** | ~$11T US land value from Federal Reserve Z.1 balance-sheet tables (partial-sector; also documents the Fed's famous negative-land artifact from the land-residual method) — attributed; Larson 2015 remains the wiki's benchmark | Scott Baker, progress.org (2016), from Fed Z.1 |
 | **Conservative** | Currently *measured* land rent is a smaller share of GDP — enough for a major but not total replacement of existing taxes | mainstream national-accounts estimates |
@@ -100,4 +101,8 @@ At the measurement layer, [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) se
    [wiki summary](/wiki/gaffney-hidden-taxable-capacity/) · [PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf)
 2. Counterpoint framing: [Objection — LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/)
    — used as the steelmanned opposing view on revenue sufficiency.
-3. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the ATCOR revenue argument and the case that LVT replaces rather than supplements taxation (C-claims). [Book page](/wiki/public-revenue-without-taxation/)
+3. Mason Gaffney (1998), "The Philosophy of Public Finance," Ch. 7 in Fred Harrison (ed.),
+   *The Losses of Nations* (Othila Press, 1998) — used for the algebraic demonstration that
+   a revenue-neutral shift from building taxes to land taxes raises the land-tax base by more
+   than the abated revenue (C-claim; theoretical model). [wiki summary](/wiki/gaffney-philosophy-of-public-finance/)
+4. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the ATCOR revenue argument and the case that LVT replaces rather than supplements taxation (C-claims). [Book page](/wiki/public-revenue-without-taxation/)

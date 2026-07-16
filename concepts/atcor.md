@@ -42,7 +42,9 @@ ATCOR is the stronger version of the standard efficiency argument for LVT. The s
 
 ## Gaffney's "Negative Shifting" — the ATCOR Precursor
 
-The term "ATCOR" was coined by Mason Gaffney in 2005, not in his 1994 *The Corruption of Economics*. However, the conceptual foundation is already present there. Gaffney describes what he calls **"negative shifting"** (Ch. 2): taxing land rent does not raise prices to consumers but instead *lowers* them, because the supply-side effects of taxing rent "will raise supplies of goods and services, and raise the demand for labor." Feder's postscript states the converse: "when these taxes are reduced, the primary result of tax un-shifting is an increase in the gross rent of land" (Gaffney & Harrison, *The Corruption of Economics*, 1994, Ch. 2, Postscript). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
+The term "ATCOR" does not appear in Gaffney's 1994 *The Corruption of Economics*, but the conceptual foundation is already present there. Gaffney describes what he calls **"negative shifting"** (Ch. 2): taxing land rent does not raise prices to consumers but instead *lowers* them, because the supply-side effects of taxing rent "will raise supplies of goods and services, and raise the demand for labor." Feder's postscript states the converse: "when these taxes are reduced, the primary result of tax un-shifting is an increase in the gross rent of land" (Gaffney & Harrison, *The Corruption of Economics*, 1994, Ch. 2, Postscript). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
+
+**Dating correction (2026-07-16):** this section previously stated the acronym itself was coined in the widely-cited 2005 working paper (WP096, "The Physiocratic Concept of ATCOR"). Reading Gaffney's 1998 book chapter, ["The Philosophy of Public Finance"](/wiki/gaffney-philosophy-of-public-finance/) — Chapter 7 of Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998) — found a section headed "4. The concept of ATCOR," closing "This is what is meant by the ATCOR concept: All Taxes Come Out of Rent," seven years before WP096. That 1998 chapter is now the earliest confirmed dated use of the named acronym; WP096 (2005) remains the fuller, freestanding statement of the argument and the primary citation for the theorem itself.
 
 ## Doucet's Modern Exposition
 
@@ -65,7 +67,8 @@ Gaffney invokes the term again, in passing, in his later 2016 essay on European 
 ## See Also
 
 - [Monaco](/wiki/monaco/) — near-zero personal taxation fully capitalised into the world's highest land prices, an extreme real-world case of the ATCOR mechanism
-- [Gaffney (2005): The Physiocratic Concept of ATCOR](/wiki/gaffney-atcor/) — the working paper that coined the ATCOR acronym and states the thesis in Gaffney's own words
+- [Gaffney (2005): The Physiocratic Concept of ATCOR](/wiki/gaffney-atcor/) — the fuller, freestanding working-paper statement of the thesis
+- [Gaffney (1998): The Philosophy of Public Finance](/wiki/gaffney-philosophy-of-public-finance/) — the book chapter now confirmed as the earliest dated use of the "ATCOR" name, with a formal algebraic derivation
 - [Gaffney (2016): Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/) — a later essay that invokes ATCOR in passing while arguing the separate case against VAT
 - [EBCOR](/wiki/ebcor/)
 
@@ -91,3 +94,4 @@ Gaffney invokes the term again, in passing, in his later 2016 essay on European 
 5. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Ch. 2 — used for "negative shifting" and the ATCOR precursor concept (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
 6. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 15 — used for the modern exposition of ATCOR and the Single Tax self-financing argument (A-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 7. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the Physiocratic version of the ATCOR logic (C/D-claims). [Book page](/wiki/public-revenue-without-taxation/)
+8. Mason Gaffney (1998), "The Philosophy of Public Finance," Ch. 7 in Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998) — used for the dating correction on when the named acronym "ATCOR" is first attested (A-claim). [Wiki summary](/wiki/gaffney-philosophy-of-public-finance/)

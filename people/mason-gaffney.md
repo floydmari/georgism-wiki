@@ -36,6 +36,7 @@ The thesis is controversial among academic economists but is supported by consid
 - **[George's Economics of Abundance (c. 1993–94)](/wiki/gaffney-economics-of-abundance/)** — a polemical essay arguing Henry George's program resolves, rather than trades off, efficiency against equity and demand-side against supply-side stimulus
 - **[Full Employment through Total Tax Reform (1993)](/wiki/gaffney-full-employment-tax-reform/)** — a keynote address proposing "True Fiscal Stimulus," a land-value tax shift argued to raise labour demand and supply-side incentives together
 - **[A Better Way of Gauging the Excess Burden of Shiftable Taxes (2005)](/wiki/gaffney-excess-burden-shiftable-taxes/)** — a working paper proposing to measure excess burden by tax-induced shifting of land to lower uses, rather than by conventional Harberger-triangle modeling
+- **[The Philosophy of Public Finance (1998)](/wiki/gaffney-philosophy-of-public-finance/)** — Chapter 7 of Fred Harrison (ed.), *The Losses of Nations*, setting out the philosophical case for site value taxation and a formal algebraic derivation of ATCOR; now the earliest confirmed dated use of the named "ATCOR" acronym, three years before the 2005 working paper's fuller statement
 
 ## See Also
 
@@ -61,3 +62,4 @@ The thesis is controversial among academic economists but is supported by consid
 6. Gaffney, "Europe's Fatal Affair with VAT" (2016) — used for the VAT excess-burden argument. [wiki summary](/wiki/gaffney-europes-fatal-affair-with-vat/)
 7. Gaffney, "Full Employment through Total Tax Reform" (1993) — used for the "True Fiscal Stimulus" argument. [wiki summary](/wiki/gaffney-full-employment-tax-reform/)
 8. Gaffney, "A Better Way of Gauging the Excess Burden of Shiftable Taxes" (2005) — used for the land-use-shifting excess-burden method. [wiki summary](/wiki/gaffney-excess-burden-shiftable-taxes/)
+9. Gaffney, "The Philosophy of Public Finance" (1998), Ch. 7 in Fred Harrison (ed.), *The Losses of Nations* — used for the philosophical case for site value taxation and the earliest dated use of the "ATCOR" name. [wiki summary](/wiki/gaffney-philosophy-of-public-finance/)

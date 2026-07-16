@@ -9,8 +9,15 @@ in Notion (pending access — see BACKLOG). Local mirror of worked texts: `sourc
 gaffney-synergistic-city, gaffney-hidden-taxable-capacity, gaffney-land-distinctive-factor,
 gaffney-after-the-crash, gaffney-causes-of-downturns, gaffney-land-booms-destroy-capital,
 gaffney-europes-fatal-affair-with-vat, gaffney-full-employment-tax-reform,
-gaffney-excess-burden-shiftable-taxes; narratives/the-corruption-of-economics;
-people/mason-gaffney.
+gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance;
+narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-16 (Floyd's Notion priority, top gap):** *The Philosophy of Public Finance* (1998,
+Ch. 7 in Fred Harrison ed., *The Losses of Nations*, Othila Press) read, drafted, and wired
+— see [research/gaffney-philosophy-of-public-finance](/wiki/gaffney-philosophy-of-public-finance/).
+Notable finding: this 1998 chapter contains a section headed "4. The concept of ATCOR" naming
+and stating the acronym seven years before the 2005 WP096 working paper the wiki previously
+credited with coining it — corrected on research/gaffney-atcor.md and concepts/atcor.md.
 
 **2026-07-16 tax-shift cluster (T2 wave):** Europe's Fatal Affair with VAT, Full Employment
 through Total Tax Reform, and A Better Way of Gauging the Excess Burden of Shiftable Taxes
@@ -72,7 +79,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [ ] `G34QEquity_Premises_and_Case_for_Socializing_Rent.CV.pdf` — https://masongaffney.org/publications/G34QEquity_Premises_and_Case_for_Socializing_Rent.CV.pdf
 - [ ] `G39LandGains.CV.pdf` — https://masongaffney.org/publications/G39LandGains.CV.pdf
 - [ ] `G4-AgendaforStrengtheningthePropertyTax1.CV.pdf` — https://masongaffney.org/publications/G4-AgendaforStrengtheningthePropertyTax1.CV.pdf
-- [ ] `G44Philosophy_of_Public_Finance.CV.pdf` — https://masongaffney.org/publications/G44Philosophy_of_Public_Finance.CV.pdf
+- [x] `G44Philosophy_of_Public_Finance.CV.pdf` — https://masongaffney.org/publications/G44Philosophy_of_Public_Finance.CV.pdf — [research/gaffney-philosophy-of-public-finance](/wiki/gaffney-philosophy-of-public-finance/), 2026-07-16 (local mirror filename: `G44_Philosophy_of_Public_Finance.pdf`/`.txt`, same work)
 - [ ] `G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf` — https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf
 - [ ] `G4a-PropTax&amp;IntergovReltns.CV.pdf` — https://masongaffney.org/publications/G4a-PropTax&amp;IntergovReltns.CV.pdf
 - [ ] `G60Cannan_hits_the_Mark.CV.pdf` — https://masongaffney.org/publications/G60Cannan_hits_the_Mark.CV.pdf
@@ -231,6 +238,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 | George's Economics of Abundance | narratives lane |
 | A Severance Tax on California Oil (2006) | resource rents — benefits/resource-rent-capture-works |
 | A Better Way of Gauging Excess Burden of Shiftable Taxes (2005) | concepts/deadweight-loss, ATCOR support |
+| The Philosophy of Public Finance (1998, Ch. 7 of *The Losses of Nations*) | **done 2026-07-16** — ATCOR formal derivation, philosophy of site value taxation; problems/land-rent-could-fund-government, objections/lvt-not-enough-revenue, benefits/split-rate-increases-construction |
 
 **TIER 2 — next waves (not yet mirrored):** the Alaska oil & gas leasing pair (B03, 1977 —
 resource-rents depth), Oil & Gas: Unfinished Tax Reform, Soil Depletion & Land Rent,

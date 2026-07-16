@@ -942,3 +942,18 @@ second-hand claims. Coordination: nyc-1920s page untouched (udw74p's). Registry 
 + dated export. TIER 2 queued in the triage ledger. BLOCKED: Floyd's Notion priority
 list (needs Notion-key approval or paste) — cross-check tier-1 when available.
 Full-site preservation mirror: recommend R2 bucket (repo carries worked texts only).
+
+## 2026-07-16 (evening) — Gaffney wave 1 addendum: G44 + Notion cross-check + R2 staging
+
+Floyd's Notion priority list read (public-page API): 4/5 already covered; the gap —
+G-44 "The Philosophy of Public Finance" (Losses of Nations ch.7, 1998) — mirrored, OCR'd,
+research page shipped (organic-state theory, succession-premium base, formal ATCOR
+derivation, Milwaukee isovalic study wired to split-rate-increases-construction as a
+distinct data point). NOTABLE CORRECTION: the ATCOR acronym is first attested in this
+1998 chapter, not WP096 (2005) — dated correction notes on concepts/atcor.md and
+research/gaffney-atcor.md. tideman-plassmann backlog row annotated (book confirmed,
+its own chapter still unobtained). Full-site mirror staged: 193 files/52.5MB local with
+sha256 manifest (sources/gaffney-r2-manifest.csv); R2 upload BLOCKED on bucket access
+(vault token is bucket-scoped) — Floyd to name/create buckets. archive_sources_r2.py
+ready for the all-registry-PDFs preservation sweep (PRIVATE bucket; archive-not-serve
+for copyrighted sources). 839 pages, lint 0 errors.
