@@ -21,6 +21,7 @@ supported_by:
 - hartwick-rule
 - mintz-chen-capturing-resource-rents
 - baunsgaard-vernon-windfall-profits
+- gaffney-california-severance-tax
 tags:
 - outcomes
 - resource-rents
@@ -32,7 +33,7 @@ title: Capturing resource rent works — where institutions are strong
 ---
 
 > **At a glance** — Capturing a finite resource's rent at a high rate works in practice where fiscal design and institutions are strong — Norway is the flagship — while the resource curse remains real where they are weak.
-> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **9 supporting** sources · **0 challenging**
+> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **10 supporting** sources · **0 challenging**
 > **Strongest support:** [Lie (2018)](/wiki/lie-norwegian-oil-fund/) — Norway's ~78% petroleum rent capture built a sovereign fund now worth over $2 trillion without deterring extraction. **Strongest counter:** the resource-curse literature (Sachs & Warner 1995/2001) — resource-rich economies grow more slowly *on average*, and [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) shows rent windfalls eroding local tax effort and accountability; capture works where institutions are strong and curses where they are weak. See Why It Isn't Automatic.
 
 ## The Claim
@@ -118,6 +119,28 @@ taxation, governance decays. This is the contrapositive of the capture claim: it
 not the rent but the *institutional channel* that determines whether capture builds a
 Pula Fund or a patronage machine.[8]
 
+## A State-Level Counter-Example — Capture Lost, Not Just Never Built
+
+Norway and Botswana show institutions *building* capture capacity from the start;
+**California shows the opposite failure mode — capture built, then lost**. Before 1978,
+California ran an effective *in-situ* property tax on oil and gas reserves, assessed by
+the State Board of Equalization with a rigor its own head assessor called comparable to
+ordinary real estate.[9] **Proposition 13 (1978)** — a measure aimed, per Gaffney, "about
+abating property taxes on homes," with no stated intent to touch mineral rights — cut
+the property tax rate to roughly a third of its prior level and rolled back assessed
+values, which by Gaffney's own arithmetic eliminated most of that oil-and-gas revenue as
+an unintended side effect, leaving California — per Gaffney's account, alone among major
+oil-producing US states — with no severance tax to replace it.[9] Gaffney's 2006 proposal — a severance tax redesigned
+toward a **net-proceeds** (post-cost) base, closer to a pure rent tax than a flat
+wellhead levy — is a direct design response to that loss, and its incidence analysis
+(that a well-structured severance tax falls mostly on landowners' rent rather than
+passing through to consumers, because California's oil supply is comparatively
+inelastic and its share of world supply is small) anticipates, in less formal terms, the
+same rent-targeting logic the IMF and Mintz & Chen make above.[9] The lesson for the
+"capture works" claim is that institutional capacity to capture resource rent is not a
+one-time achievement: it can be lost to a tax reform aimed at an entirely different
+target, not only to weak institutions or the classic resource curse.
+
 ## Honest Scope (rent gradient)
 
 Resource rent sits a step away from the clean land case: it is genuine location/
@@ -150,6 +173,7 @@ necessary; the institutions are what make it sufficient.
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/) — the distribution side (Alaska)
 - [An African Success Story: Botswana](/wiki/acemoglu-johnson-robinson-botswana/) — the strongest non-Nordic capture case
 - [Learning by Failing: The Origins of the Norwegian Oil Fund](/wiki/lie-norwegian-oil-fund/) — how Norway's institutions were built
+- [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the state-level case of capture built, then lost, to Proposition 13
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -191,3 +215,9 @@ necessary; the institutions are what make it sufficient.
    for the sub-national resource curse: rent transfers associated with lower local tax
    effort and weaker accountability, illustrating that the institutional channel, not the
    rent, is decisive.
+9. Mason Gaffney (2006), "A Severance Tax on California Oil?," masongaffney.org —
+   [wiki summary](/wiki/gaffney-california-severance-tax/) ·
+   [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf) — used
+   for the Proposition 13 / pre-1978 property-tax-on-reserves history and the net-proceeds
+   design recommendation (advocacy essay/testimony, not peer-reviewed; corroborating, not
+   load-bearing).

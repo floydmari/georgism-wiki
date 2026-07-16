@@ -19,6 +19,23 @@ Mechanisms include severance and royalty taxes, auctioned extraction rights, spe
 
 Where resource rents are captured privately or by corrupt states, they can weaken governance — the "resource curse." Transparent public capture and distribution (as with the [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)) is the Georgist remedy.
 
+## Severance Tax Design and Incidence — Gaffney
+
+Mason Gaffney's [severance-tax essay](/wiki/gaffney-california-severance-tax/) (2006)
+develops the incidence question in more design-level detail than the summary above:
+a severance tax passes through to consumers only when demand is inelastic, supply is
+elastic, the taxed jurisdiction supplies a large world share, and the tax is structured
+to hit marginal production — conditions California's oil sector meets, at most,
+partially, so the tax falls mostly on landowners' rent rather than on drivers at the
+pump. He further argues the tax's remaining bite on marginal production is largely
+offset because lessees, anticipating a severance tax, negotiate lower royalties with
+landowners on new leases — a variable-cost substitution rather than a net new burden.
+His design recommendation is a **net-proceeds** (post-extraction-cost) tax base, used
+in Nevada, Idaho, Utah, and South Dakota, over a flat gross-wellhead-value levy, on the
+ground that it targets pure rent more precisely and allows a higher rate without
+discouraging genuinely marginal production. (D-claim: incidence reasoning and design
+argument in an advocacy essay/legislative testimony, not a peer-reviewed estimate.)
+
 ## Book Findings
 
 ### Barnes: Rent Capture for Common Assets
@@ -47,6 +64,8 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Economic Rent](/wiki/economic-rent/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/) · [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's rent capture framework for common assets
 - [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — ecological limits to rent extraction
+- [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — severance-tax incidence and net-proceeds design
+- [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
 
@@ -54,3 +73,4 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 2. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust rent capture framework applied to atmosphere, spectrum, and water (C-claim). [Book page](/wiki/capitalism-3-0/)
 3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the extracted-vs-recycled rent taxonomy (C-claim). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 4. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the ecological limits framework applied to resource rent extraction (C/D-claims). [Book page](/wiki/ecological-economics-daly/)
+5. Mason Gaffney (2006), "A Severance Tax on California Oil?," masongaffney.org — used for the four-condition incidence analysis, the royalty-offset mechanism, and the net-proceeds tax-base design (D-claim, advocacy essay). [wiki summary](/wiki/gaffney-california-severance-tax/) · [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf)

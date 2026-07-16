@@ -70,6 +70,17 @@ contested empirical magnitudes.
   collection of value that already belongs to the public — strengthening the
   "tax land, not labor" argument by denying that land rent capture is taxation in the
   first place.[B]
+- **Mason Gaffney**, in the essay [*George's Economics of Abundance*](/wiki/gaffney-economics-of-abundance/)
+  (c. 1993–94), makes the efficiency-and-equity case in Gaffney's own polemical register:
+  George's land tax "combines the magic of justice with the magic of incentive," raising
+  revenue progressively — because land ownership concentrates with wealth — "with no fear
+  of driving away business, construction, people, jobs, or capital," since "not one square
+  foot will walk out of town."[18] The essay is advocacy writing, not empirical research —
+  it catalogues nineteen such "resolutions" of alleged trade-offs rather than testing
+  them — but its distinctive contribution to this narrative's toolkit is rhetorical: a
+  memorable, quotable restatement of why a fixed-supply tax base cannot be scared away,
+  aimed at exactly the audience (skeptics of "there's no such thing as a free lunch")
+  this narrative needs to win over.
 - **[Martin Adams](/wiki/martin-adams/)** makes a contemporary popular case in [*Land: A New Paradigm for a
   Thriving World*](/wiki/land-a-new-paradigm/) (2015) that "by allowing some
   people to profit from land, we have privatized community wealth, which allows a few
@@ -347,3 +358,4 @@ Murray documents that the Budget was carefully designed to avoid burdening the w
     [Book page](/wiki/peoples-budget-1909/)
 16. "Land value return is needed, pragmatic, and achievable," Progress and Poverty (Substack), October 2025. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic) — used for the "land value return" reframing argument in How to Deploy It (advocacy essay, cited as such).
 17. "Transcript: Daryl Fairweather on the Tax That Could Fix Housing," Bloomberg Odd Lots, June 2022. [bloomberg.com](https://www.bloomberg.com/news/articles/2022-06-13/transcript-daryl-fairweather-on-the-tax-that-could-fix-housing) — used as an example of a mainstream economist deploying the LVT pitch to a general finance audience (podcast transcript, navigation-tier).
+18. Mason Gaffney, "George's Economics of Abundance: Replacing Dismal Choices with Practical Resolutions and Synergies," masongaffney.org workpaper WP018, c. 1993–94. [wiki summary](/wiki/gaffney-economics-of-abundance/) · [PDF](https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf) — used for the "magic of justice with the magic of incentive" and "not one square foot will walk out of town" quotations (D-claim, advocacy essay, direct quotations under 50 words).

@@ -5,14 +5,14 @@ claim_type: problem
 tags: [outcomes, speculative-vacancy, empty-homes, land-banking, underuse, housing]
 stub: false
 evidence_strength: "Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested)"
-supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, vancouver-empty-homes-tax, letwin-build-out-review, prosper-speculative-vacancies, cunningham-seattle-options, hoyt-chicago-land-values, simpson-real-estate-speculation-depression]
+supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, vancouver-empty-homes-tax, letwin-build-out-review, prosper-speculative-vacancies, cunningham-seattle-options, hoyt-chicago-land-values, simpson-real-estate-speculation-depression, gaffney-new-life-in-old-cities]
 challenged_by: [glaeser-gyourko-housing-supply]
 excerpt: "Even where housing demand is most acute, homes sit empty for years and valuable land is used far below its potential — documented by quasi-experimental tax evidence from France, vacant-lot price data from US metros, a UK government build-out review, and water-meter counts in Melbourne. Magnitude and cause remain contested."
 last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Even in cities where housing demand is most acute, a persistent stock of dwellings sits empty and valuable land is used well below its potential; the phenomenon is well documented across independent methods, though how much is speculative withholding rather than friction or zoning is contested.
-> **Evidence:** Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested) · **5 supporting** sources · **0 challenging**
+> **Evidence:** Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested) · **9 supporting** sources · **0 challenging**
 > **Strongest support:** [Segú (2020)](/wiki/segu-vacancy-tax-france/) — French microdata show long-term vacancy large enough that a vacancy tax cut it about 13%, returning roughly 40,000 dwellings to use. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
@@ -87,6 +87,13 @@ Ordered by evidential weight:
    withholding; [Hsieh & Moretti](/wiki/hsieh-moretti-spatial-misallocation/) and
    [Glaeser & Gyourko](/wiki/glaeser-gyourko-housing-supply/) quantify the aggregate
    cost of high-demand cities operating below potential, whatever the mix of causes.
+   A narrower historical illustration of the reverse mechanism — removing land-tax
+   pressure removes the incentive to develop rather than hold — comes from
+   [Gaffney's *New Life in Old Cities*](/wiki/gaffney-new-life-in-old-cities/): in
+   San Diego, a court order in 1926 reversed assessor Harris Moody's shift toward
+   land-value taxation, after which, per Gaffney's secondary citation, "the city
+   skyline froze for the next 75 years" — a single, second-hand anecdote rather than
+   a study, but consistent with the real-option account above.
 
 ## Counter-Evidence
 
@@ -147,6 +154,7 @@ tax it"; they should not say "speculators are the cause of the housing crisis."
 - [Letwin Review (2018)](/wiki/letwin-build-out-review/) — UK government evidence on slow build-out of permissioned land
 - [Prosper Australia](/wiki/prosper-australia/) · [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
+- [Gaffney (2006): New Life in Old Cities](/wiki/gaffney-new-life-in-old-cities/) — the San Diego "frozen skyline" historical illustration
 
 ## Sources
 
@@ -181,3 +189,9 @@ tax it"; they should not say "speculators are the cause of the housing crisis."
    permissioned land in high-demand areas (15.5-year median; 3.2%/yr London mega-sites)
    and the absorption-rate refinement of the land-banking mechanism (B-claims;
    government review).
+7. Mason Gaffney (2006), "New Life in Old Cities," masongaffney.org.
+   [wiki summary](/wiki/gaffney-new-life-in-old-cities/) ·
+   [PDF](https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf) — used
+   for the San Diego "frozen skyline" historical anecdote (D-claim: Gaffney's own
+   citation of an unpublished secondary source, not independently verified in this
+   pass; corroborating only).

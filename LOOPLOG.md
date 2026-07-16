@@ -919,3 +919,26 @@ honest downgrade (all channels walled); CIB provenance made exact. Registry +7 r
 Coordination: udw74p's Slack lane + unmerged tail (forget/nyc/south-korea/split-rate)
 deliberately untouched. Queue regenerated post-wave; next wave candidates: P&P + WoN
 deepen-scans, WS-GEOISM financial-rents sweep, Life of Henry George read&mine.
+
+## 2026-07-16 (later) — Gaffney corpus lane, wave 1 (Floyd's directive: hosting permission)
+
+masongaffney.org inventoried (190 files: publications 87, workpapers 73, essays 30) into
+sources/gaffney-corpus-triage.md; tier-1 (9 works) mirrored to sources/gaffney/ + OCR'd
+(image-scanned PDFs; tesseract 200dpi, 72k words). READ&MINE, 8 new research pages:
+- cycles: gaffney-causes-of-downturns (1982 — the 15-yr precursor to Foldvary 1997,
+  ancestry wired) + gaffney-land-booms-destroy-capital (1993+2005 pair)
+- tax-shift: europes-fatal-affair-with-vat, full-employment-tax-reform,
+  excess-burden-shiftable-taxes (deadweight-loss gains an attributed-critique section,
+  carefully 'alongside not instead of' Harberger)
+- urban/resource: new-life-in-old-cities (9-city survey w/ Pittsburgh anomaly honestly
+  in counter-evidence), california-severance-tax (+ actual Prop 87 defeat added),
+  economics-of-abundance (D-claim polemic, labeled)
+Claim lanes enriched: land-speculation-causes-cycles, cycles-are-credit-not-land,
+lvt-can-replace-capital-taxes, taxing-land-raises-productivity, split-rate-increases-
+construction, speculative-vacancy-wastes-cities, resource-rent-capture-works (novel
+'capture lost, not never built' CA counter-example), tax-land-not-labor. All quotes
+PDF-verified; working-paper/essay register throughout; 4 deliberate [VERIFY] markers on
+second-hand claims. Coordination: nyc-1920s page untouched (udw74p's). Registry +9 rows
++ dated export. TIER 2 queued in the triage ledger. BLOCKED: Floyd's Notion priority
+list (needs Notion-key approval or paste) — cross-check tier-1 when available.
+Full-site preservation mirror: recommend R2 bucket (repo carries worked texts only).
