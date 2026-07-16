@@ -1,0 +1,881 @@
+New Life in Old Cities
+
+Georgist' Policies and Population Growth in New York City, San Francisco, Chicago,
+Cleveland, Toledo, Detroit, Milwaukee, Pittsburgh, and Other Cities, 1890-1930
+
+Mason Gaffney, emended 10-22-06?
+
+Abstract
+
+In the period 1890 to 1930, the Georgist movement inspired a large number of civic leaders—
+mayors, assessors, governors, congressmen and others—to implement Georgist policies in a
+number of US and Canadian cities. That is, in order to encourage development, they reduced or
+eliminated assessments on buildings and increased assessments on land. They used land
+revenues to provide low-cost, high-quality public services. Where implemented, these policies
+resulted in rapid population growth.
+
+Contents
+INTRODUCTION .........cccccsssssssssssssssssssesssssscsssssssesssssssescssssessssesssessesessesessseesasessssesesssessasessessseseeees 2
+I. New York City Reborn, 1920-31 .............scssssssssssssssssssssssesscssssessesssssssecsessesessecsesoesessesseseesesseses 6
+A. Al Smith's 1920 Tax Reform Act and its Apparent Effects...
+B. NYC’s Success, and its Meaning «0.0.0... eessescececeseeseeececeseeseecseeaceeseesaeeaseeesesseeacnseeeaeeesereaes 7
+IL. NYC Under the Al Smith Act ..........ccscssssssssesssscssssssssssessssssssessessssssssssessesssssessesesseseseseesesens 7
+A. Sources on the Smith Actos ccsscsesesecscecseessssscsscscsssssssscseesssesesseesseessesssseessesseseesaees 7
+B. Political History: The Georgist Factor ..........scsscsssescsecseesseseeecscesceeeeecseeeseecsesseeeseeaeeaceeseeeaes 9
+C. Assessment Reform, Silent Senior Partner of Tax RefOrm..........cccccccsssescesecescescsseesesseeees 10
+D. The Plenty in Land as a Tax Base .......ccssssssessessecceecseesceeeseeseeeeeceneeaceecsecaseaseeseeaeeeeaeeaeeeseees 11
+E. Features of the Law as Applied, Summarized ............cessescsseseseseeceseseeeeeesesceeeeeseeeeeneeeeeeees 12
+F. NYC Outstripping Comparison Cities, 1920-4000... eee cesessecsecseeeseesecseeeseeseesaeeaeeeeeaes 13
+G. Summary: Effectiveness of the Smith Act .......ccceccssssssesessescseseeseceseeeeeeseseeseseseeeteeseseeeeeeees 15
+H. Aftermath wee ccssesesesssesesssssessessesenssessesseeseeseseesseseneseeseseseenseseeesseeseeeeeeeeseeeeeseneeeneeeeees 16
+
+' Henry George (1839-1897) is best known today for Progress and Poverty (1879). For a brief history of Henry
+George and the Georgist movement, see "Henry George 100 Years Later: the Great Reconciler" at
+http://www.masongaffney.org/essays/Henry_George_100_Years_Later.pdf.
+
+“Yisroel Pensack gave lavishly of his time and talent and editorial experience to upgrade and clarify my prose in
+Parts I and II. I am also indebted to the late Robert Andelson, Clifford Cobb, Richard Biddle, Dick Netzer, Jeffrey
+Smith, Heather Remoff, Daniel Sullivan, Herbert Barry, William Batt, Nicolaus Tideman, Robert Piper, Robert
+Fitch, Wyneth Achenbaum, Michael Hudson, Joshua Vincent and Ed O’Donnell for editorial and substantive
+corrections and additions, most of which I have used. My greatest debt is to Mary M. Cleveland, whose holistic
+mind, encyclopedic knowledge, and conscientious prodding, reaching across a continent, have guided me to
+integrate the parts into a coherent whole. I bear sole responsibility for the final product.
+TI. Growth Spurts in some Other Cities ..............csccsssssscssssssssssessessssessessesessecsessssessessessesessers 16
+A. Cleveland, 1900-20 .......ccccccssccsssccssccssscesscessecesecessecesscessecesscessecesscessecesscessecesssesseceseesseeenee 16
+B. Detroit, 1890-1930 00... eeesceescesseececcseeseeeeseescescsceseessencsecseeeesesseeacassesseeeeeesaeeaeeeseeeseeacenseees 17
+CG. Toledo, 1890-1920 ...... eee esceessesseeceecseeseeeescescescsceseesseecsecseceesesseeaceaseesaeeaeeesaesaeeesereaeeaseneaees 18
+D. Milwaukee, 1916-40 0... eescesseececcseeseeeecescescecesecseacseeseeseecseeseeacsesaeeaeeaseeeaeeaeeeseeeaeeasenes 18
+E. Chicago, 1890-1930.........sesceccssessecceeesesseescscesceecsecseeeseeeseeseeseeesceacecsaesseeeeeeeeeaeeesaeeaseaserenees 19
+F. San Francisco, 1906-30..........ceccsssccesssscceessccccesseecesseecceesseeccesseecesseeeeeessecccesseecessseeesesseeeeesee 24
+G. Cincinnati, Ohio politics, and Decadence, 1890-2000...........ceessesseceeeceeeeeeeseeseeeeeeeaeeeeeees 26
+H. Are Pro-labor Mayors Bad for Business? ...........:csccssssseceseeseeceeeeseeceeeeseeaceeeeeaeeeeeeeaeeaeeneeees 28
+I. The Puzzle of Pittsburgh..........cccesceseesessesesessesesesescecesesecesescseceeseseeeeseaeseeseaescceseseeeeseseeeeeeas 29
+
+TV. L’ Env) .........ssscscsscscsssescesssssssesscsessecscssssessesssssssecsessssessessesessessessssecsessssecsessesossessessssecsessesesoess 30
+TABLE I: Populations, NYC and Comparison Cities, 1890-2000, Ranked by 1900
+
+POPUMATIONS...... eee cece eessescesceeeseeneeecseeseeceseesceaceceseesseseeeaeeassceseeaceceaceseesaesaeseseeeseeaceceaeeaseeserees 31
+APPENDIX I: Hauser on Methods of Social Ostracism............:cscsssssssseseeseseeeseeceseseeeeeeseeeeeees 36
+APPENDIX II: Questions wanting further research, ..........ccssecceeseeeeeeeeeseeseeeceeseeaceeeseeeeeeeees 37
+
+Bibliography .............csscsssssssscsssesscsecsessecsesessessessssessessesessecsessssessessssessesseseesecsessssessesseseesesseseeseeses 38
+
+INTRODUCTION
+
+“History ... is the biography of great men” - Carlyle
+
+Some cities have grown in notable spurts. Some of these cities were new; others have revived
+after decaying. Cities' cells, like ours, metabolize and can refresh themselves constantly. Cities
+need not die like us. They can continue this cycle of renewal forever, when people remodel
+buildings and clear and renew sites. This can happen even after periods of sickness and senility.
+Given the will, it also takes some skill with public policy. We can learn the skill from the history
+of growing and reviving cities.
+
+The dynamics are bent by free will, not just iron laws of geography and history. True, they
+deal with economics and numbers and tax policy, with self-seeking employees and home-buyers
+and merchants and manufacturers, with simple motives and narrow outlooks. Yet the evidence
+keeps bringing us back to the impact of idealistic leaders, and the power of their ideals to move
+others, prevailing over and working with "destiny" and greed and myopia and technical details.
+
+There was a telling episode in New York City, 1920-32. Its leaders exempted new residential
+buildings from the property tax, while maintaining the tax on land values. As current land prices
+rose, which they swiftly did, the land taxes rose in step. There ensued a notable surge in building
+and population, unmistakably linked to the tax policy. National population data disclose,
+however, that New York was not the only city to have boomed or revived suddenly. What was
+remarkable about New York, that we should be mindful of it?
+Jane Jacobs has pointed out that cities grow "explosively" during periods of special vigor.
+She brilliantly described the private-sector process of import-substitution. However, she put such
+an anarchist spin on it she overlooked the positive role of political leaders, and tax and spending
+policy. When we find high growth rates in the data, we also find, more often than not, a pro-
+Georgist or fellow-traveling movement, Mayor, Council and Governor. We also find ports,
+parks, public schools, low-fare mass transit, social welfare, public plumbing, bridges and tunnels,
+public health programs, and so on, making a city attractive for people and profitable for business.
+We find public works and services provided without heavy taxes on private commerce, labor,
+and buildings, which also make a city livable and attractive. This was the promise of Henry
+George, and it seems to have come true in many places during this, the Golden Age of American
+and Canadian cities.
+
+To the extent that historians have noted this phenomenon it has been one city at a time.
+Robert Bremner's title, George and Ohio's Civic Revival, might give the impression that the
+action focused on Ohio; publicity about Pittsburgh, and more recently Harrisburg and Allentown,
+would make Pennsylvania the focus; a study of Henry George's origins leads us to San
+Francisco; and so on. But studies of one place at a time mistakenly localize what was a pandemic
+movement, 1890-1930. George and Georgists influenced tax policy in many other cities than
+New York, and rural areas too. The signature of their influence is the rate of population growth,
+reported in the U.S. Census of Population.
+
+Geography and "Historical Laws of Motion" play their roles, and brute economic "forces",
+too; but political leaders tip the balance. These may be inspirational, analytical, or political.
+Italy's Risorgimento, recall, had its poet, Mazzini, its sword, Garibaldi, its composer, Verdi, and
+its brain, Cavour. We find their counterparts who led growth spurts in New York City, Chicago,
+Cleveland, Detroit, Toledo, Milwaukee, San Francisco, Vancouver, Portland, Seattle, San Diego,
+Houston, Los Angeles, and some smaller cities. These are human factors that "cookbook"
+econometric modeling omits. Modern economics, with its mechanistic tools and canned standard
+procedures, is the poorer for it. Carlyle's history as the "biography of great men" (and women)
+has something to teach us.
+
+To compare one city's performance with others' requires a standard measure, preferably
+simple and unitary. I chose population in part because the measure is readily available. Census
+data on building, on the other hand, do not go back to the 1920s. Gathering and verifying
+building records, city by city, would be a major project, not attempted here. Cord, Tideman and
+Plassmann, and Oates and Schwab, have searched building permit records for various
+Pennsylvania cities, but the records are non-uniform, hard to interpret, and often inconsistent
+with population data.
+
+Population growth is not the only goal and measure of civic performance, it is understood.
+Population, however, is a sign of city health, even from the particularistic local view: a thriving
+city attracts people, and people, viewed as human resources, help the city thrive. From a larger
+view, macro-economists understand that the aggregate effect of having cities vie to attract people
+is not to raise the overall national or world birthrate, but is to make jobs and homes, raise wages,
+and lower living costs. The converse is also true, with grim results like homelessness and hunger.
+It is noteworthy that most cities' growth spurts accompanied provision of vast parks, superior
+schooling, mass transit, and other such public goods.
+Some cities' growth spurts are complicated by annexations. Chicago in 1889 tripled its land
+area (Hoyt, p.153). Detroit quadrupled its area in the 1920's. Columbus' steady growth is
+complicated by mergers and annexations that I have not tried to unravel. Milwaukee doubled its
+area around 1960, but lost population anyway. I have adjusted for these changes where I could,
+or dropped the city from the study.
+
+This rise and fall of growth rates is remarkably independent of external causes, and more
+responsive to internal reforms. Thus, the population bursts of Pacific Coast ports preceded the
+Panama Canal; the bursts of Great Lakes ports preceded the St. Lawrence Seaway; the collapse
+of Detroit accompanied growth of the Interstate Highway System.
+
+This inquiry began with New York City, under its Georgist-inspired plan, led by Governor
+Alfred Smith, to exempt new residential buildings—but not land—from its property tax base,
+1920-32. The ensuing boom in buildings and population was overwhelming. To get a perspective
+I tabulated growth rates of comparison cities. New York raced ahead of the nearest comparables.
+However, the data also disclose several other cities with impressive growth spurts. What about
+them? Aren't there many other causes of growth?
+
+Inspection revealed the remarkable and telling fact that these spurts occurred under Georgist
+leadership, too. Some of these cities and periods are Cleveland, 1900-20, under mayors Tom L.
+Johnson and Newton D. Baker; Detroit, 1890-1930, initially under Mayor, later Governor Hazen
+S. Pingree; Toledo, 1890-1920, under Mayors Samuel "Golden Rule" Jones and Brand Whitlock;
+Milwaukee, under "socialist" Mayors Emil Seidel, 1910-12, and Daniel Hoan, 1916-40; San
+Francisco under Georgist Mayor Edward Robeson Taylor, 1907-09, and consensual "Sunny Jim"
+Rolph, 1911-30, spurred by activist James Hartness Griffes (aka "Luke North"); Los Angeles
+under siege from socialist Job Harriman; Houston under single-tax’ Assessor J.J. Pastoriza; San
+Diego under Assessor Harris Moody; and Chicago, 1890-1930.
+
+Chicago leadership is more complex, with its host of nationally prominent Georgists and
+fellow-travelers (John Peter Altgeld, Louis Sullivan, Frank Lloyd Wright, Walter Burley Griffin,
+Clarence Darrow, Jane Addams, Louis F. Post, Brand Whitlock, Henry D. Lloyd, Margaret
+Haley, Edward Dunne, and others). Pittsburgh, known for its Georgist-oriented property tax
+policy, had a building spurt, but no population spurt, making it an anomaly to be examined
+below.
+
+Jersey City had a Georgist Mayor, Democrat Mark Fagan, with a redoubtable Georgist
+Republican mentor, George Record, off and on from 1900-18. They never grew strong enough to
+beat the railroads or dominate tax policy (Tobin, 1974). Yet it was after Fagan that Jersey City
+stopped growing, under "Boss" Frank Hague. In the 1920's, New Jersey specifically rejected a
+copycat Smith plan (Pleydell, passim).
+
+Vancouver under 8-time Mayor Louis Denison "Single-tax" Taylor went further than any U.S.
+city in exempting buildings, and grew much faster. It actually quintupled in population, 1895-
+1909, after exempting first 1/2, and then %, and then, 1910-18, all of building values from the
+property tax (Marsh, 1911, pp.33-37; George, Jr., 1911; Rawson, 2000; Nixon, p.66). That is the
+
+3 “Single-tax” was a label used in those years for the movement to remove buildings and other capital from the
+property tax base, and focus the property tax on land values. The property tax at that time was the mainstay of state
+and local finance, so the proposal was more fundamental than it would be today.
+fastest growth rate on record. Far from blighting Vancouver, it left it probably the most beautiful
+and livable city in North America, perhaps in the world. Emulation of Vancouver was a common
+theme in Seattle, Portland, and San Francisco.
+
+There were strong statewide single-tax campaigns in Oregon, led by W.S. U'Ren of Portland,
+father of the "Oregon System" of Initiative and Referendum, which he pioneered in the hope it
+would pave the way to the single tax. Losing at the polls did not dispose of the issue or dismiss
+the protagonists, especially in Portland, where the pro-single-tax vote was always strongest—up
+to 49% at one point. The campaigns raised consciousness of the issue and gave future politicians
+a well-defined constituency to "fish" for by bending assessment practices in the Georgist
+direction. This kind of shading is hard to document, but Professor William McKinley of Reed
+College told this writer in 1947 that Multnomah County (Portland) overassessed land relative to
+buildings up to 1941. Politicians troll for the votes of any strong constituency; shading
+assessments is one way.
+
+In 1912 "the City Council of Seattle, several of whom were single-taxers", submitted a single-
+tax amendment to the voters. The Chamber of Commerce weighed in with a proposed 10-year
+exemption for industry. The voters said no, but at the same time elected a single-tax Mayor,
+George F. Cotterill (Young, p.189). We may reasonably surmise that Seattle, with this kind of
+political and business support, also shaded assessments as Portland did, undervaluing new
+buildings relative to land.
+
+Houston, under single-tax assessor J.J. Pastoriza, grew by some 25%, 1911-15, until a court
+ordered him to go back to the old ways (Geiger, pp.434-35). Harris Moody, assessor in San
+Diego, single-handedly used his administrative latitude to convert the property tax to a land-
+value tax over several years, 1920-26, until stopped abruptly by court order (Mahoney). At this
+point the city skyline froze for the next 75 years (Andelson).
+
+These were not isolated local events; the leaders networked. In Dunne's Chicago, the
+principals "were very conscious of being part of a national movement, and they were in close
+contact" with Georgist powers in other cities, especially Tom Johnson of Cleveland and Jones of
+Toledo (Morton, pp. ix, 8). Johnson had been George's "field commander" (Barker). Mayor E.R.
+Taylor of San Francisco had helped Henry George write Progress and Poverty. Pioneer land
+assessor William A. Somers traveled busily on loan from Tom Johnson from city to city,
+instructing local assessors in his Georgist techniques. Altgeld of Chicago knew and supported
+George, and boosted his second run for Mayor of New York in 1897; Purdy of New York had
+campaigned for George. It is not likely a coincidence that all four of these George disciples or
+allies presided over cities that grew much faster than most others.
+
+An evidence of early networking was action at the national level. In 1892 there were six
+single-tax Congressmen: Tom Johnson and Michael Harter of Ohio; Jerry Simpson, Kansas;
+John de Witt Warner and Charles Tracy, New York; and James Maguire, California. They
+managed to help keep land rents in the base of the 1894 Income Tax Act. In 1896, John Peter
+Altgeld was the brains behind the fused Democratic-Populist platforms. Charles Evans Hughes
+nearly became U.S. President in 1916. Single-tax Congressmen Henry George, Jr., and Warren
+Worth Bailey dominated the drafting of the income-tax act of 1916 which exempted most labor
+income and taxed a lot of land rent. Woodrow Wilson appointed several Georgists to his cabinet,
+elevating Newton Baker to national stature as his Secretary of War; and Baker later came within
+a hair of being the Democratic Presidential nominee in 1932. Al Smith, of course, was the
+nominee in 1928, even as his New York City housing law was still working its magic there.
+
+Networking extended to the fellow-traveling conservation and national parks movements.
+Chicago, New York and San Francisco had led in providing their people with generous lands for
+public parks, canvases for the palettes of outstanding park designers like Daniel Burnham and
+Frederic Law Olmstead. It was a logical extension when Chicago and San Francisco supplied
+leaders for the National Park Service, founded in 1916 when Interior Secretary Franklin Lane of
+San Francisco, supported by Congressman William Kent of San Francisco, made Stephen T.
+Mather of Chicago first head of the Service. Earlier President Roosevelt of New York had set
+aside land for Yellowstone National Park. Later, Chicago progressive political junkie Harold L.
+Ickes served FDR and HST as Secretary of the Interior, 1933-46—the longest tenure of a cabinet
+officer in U.S. history. Ickes' long career was faithful to the model of John Peter Altgeld, whom
+he had revered as a youth. Ickes in power battled long and fiercely to protect the public domain
+from predators, to strengthen the national parks, to open public access to seashores, to save the
+"tidelands" from control of states dominated by oil firms, to enforce the public trust doctrine as
+Chicago had in 1892—all causes with a strong Georgist, or, if you prefer, Altgeldist component.
+
+Many stories remain untold or only briefly referenced here, of Houston, Vancouver, Victoria,
+New Westminster, Edmonton, Saskatoon, Portland, Seattle, Los Angeles, San Diego, and
+California farm towns like Modesto, Turlock, Fallbrook, Merced, Manteca, Fresno, Lindsay, et
+al., and irrigated farming around them under California's Irrigation District Acts (Henley;
+Gaffney, 1969; Rhodes). One “farm town”, San Jose, stimulated by its tailor-made modified
+irrigation district*, morphed into a major city and the capital of Silicon Valley. Populist farmers
+in the upper Midwest, with their “Non-Partisan League” and strong cooperatives, leaned toward
+single-tax. Farmers and farm towns in Canada’s Prairie Provinces with their CCF Party leaned
+the same. George-like single-tax fervor bent, if it did not dominate, most of the Pacific Coast and
+western Canada, rural and urban, during their fastest growth periods.
+
+We begin with New York City, move on through the cities cited above, and end with two
+anomalies. One is that Pittsburgh, long the poster-child of Georgist publicity, has lagged in
+population. The other is that “radical” and labor-oriented cities seem to grow faster than cities
+like Cincinnati with “pro-business” administrations.
+
+I. New York City Reborn, 1920-31
+
+A. Al Smith's 1920 Tax Reform Act and its Apparent Effects
+
+In September, 1920, Governor Al Smith of New York declared an emergency in New York
+City, a “housing crisis,” and called a special session of the legislature to deal with it (Polak,
+1924). The emergency was one of wholesale eviction notices, zero housing vacancies, and
+soaring rents. Gov. Smith’s message of 9/20/20 called for exempting new dwelling construction
+
+*Tts name is quite a mouthful: The Santa Clara Valley Water Conservation District. It is modeled on a Wright
+Act Irrigation District, under State Law, taxing land values and exempting buildings. Attorneys Herbert Jones and
+Albert Henley modified it to fit political conditions, as they saw them, around and including San Jose. They
+exempted improvements outside the city, and taxed them inside, to mollify the farmers. There followed what seemed
+at first to be an awful example of urban sprawl, as the subdivision of farm landholdings enabled developers to pick
+up farm lands here and there; but the result today is Silicon Valley.
+from taxation—a proposal that several legislators had previously advanced. The Legislature
+adopted this proposal, with a local option feature, tailoring the law mainly for New York City.’.
+In 1921 the New York City Council took the option. There ensued an extraordinary boom in both
+building and population, beginning immediately and with an “echo effect” to 1940, even during
+the Great Depression when most other cities’ populations froze.
+
+The “Al Smith Act” (as I will call it) exempted new housing construction (but not land
+values) from the property tax from 1921 until the end of 1931. The property tax rate was around
+2.7% of true value, at times up to 3%, making this a consequential matter, especially for
+dwellings built in the early 1920s which would qualify for up to ten years of exemption. Owing
+to the time value of money, full exemption for the first ten years of life is worth as much as or
+more than half-exemption over full life, especially considering that depreciation and
+obsolescence of buildings lower their taxable values in later life. Mortgage rates were around
+6%, so the tax that was not levied would have added nearly 50% to the financial carrying costs of
+buildings. With a generous supply of new housing, NYC’s population then grew much faster,
+even percentage-wise, than that of comparison cities, from 1920 to 1940, and for a while
+thereafter. See Tables I and II for city population data, 1890-1998. The data, first gathered for the
+purpose above, then point us to some other cities with decades of fast growth, which we
+examine.
+
+B. NYC’s Success, and its Meaning
+
+NYC’s growth had been slowing down just before the Act of 1920. After 1931 when the law
+expired, NYC grew slower than before, but this was the Great Depression, when most
+comparison cities stopped dead, and began to waste away. NYC not only held its #1 population
+ranking among U.S. cities, it pulled farther ahead in numbers, 1920-40, even in percentage terms.
+This finding tends:
+
+1. to refute the “convergence” thesis, which would have all cities becoming more alike,
+regardless of public policies;
+
+2. to deny the inevitability of “regression towards the mean,” which would have the top city
+of one generation be replaced at the top in the next;
+
+3. to support a thesis that the 1920 law had the intended effect of reanimating NYC at a time
+when it would otherwise have stagnated and begun to rot like other older eastern cities;
+
+4. to suggest that cities and states, through their public policies, control their own destinies.
+II. NYC Under the Al Smith Act
+
+A. Sources on the Smith Act
+The original stimulus for this study was a pamphlet by Charles Johnson Post, 1984, How New
+
+°Six other cities accepted the option, but I find no record of their experiences with it. I suspect their efforts were
+blocked by problems of overlapping taxing jurisdictions—problems lacking in NYC, where counties and school
+districts are coterminous with the city.
+York Solved its Housing Crisis. C.J. Post (son of Louis F. Post*) gives data on per capita
+spending on new buildings in NYC and four comparison cities for the years 1910 to 1929. These
+data show that NYC abruptly recovered from stagnation in 1920, and far outstripped the
+comparison cities that Post chose: Philadelphia, Boston, Minneapolis, and, to a lesser extent,
+Chicago. Post credits New York’s extraordinary housing tax holiday, 1920-31, for this recovery.
+Post's findings want substantiation because they are momentous, while his proofs are casual and
+his mood preachy.
+
+Post gives no sources for his data, which stop after 1929. Edward Polak (1924), Register of
+Deeds for Bronx County, published a brief chapter on the years from 1921 through 1923, giving
+data consistent with Post's, showing a startling seven-fold rise in NYC construction outlays
+compared with the previous three years, 1918-20. Geiger, normally a careful scholar, concludes
+without reservations, "There is little doubt that the tremendous building boom in the years
+immediately following 1920 was a direct result of that exemption" (1933, p.438). Geiger,
+though, provides no data or other support, and does not even cite Polak. Perhaps he regarded the
+New York boom as common knowledge. If it was so in 1933, it is not now, and wants
+documentation.
+
+Fortunately, we have Pleydell and Wood (1960), a detailed, extensive chronicle of the
+legislative history, news reports, and some studies of the results. The authors make no attempt to
+organize the materials, except chronologically, or to interpret or explain them. Pleydell does not
+make good reading, therefore, and one doubts if anyone but this researcher ever read it through;
+but it is valuable for confirming and supporting, however tediously, the interpretations given by
+Geiger, Post, Polak, Purdy, and others cited. We learn, for example, that in 1923 the Borough of
+Brooklyn, alone, led every city in the country in construction (p.3-51). We learn that the number
+of new family dwelling units, other than tenements, produced in NYC rose from 11,000 in 1920
+to 56,000 in 1923; while the number of new family dwelling units in tenements rose from 3,000
+to 53,000 (Appendix pp. 20-23. citing 1924 Report of Stein Commission). The most complete
+source cited is Leg. Doc 40, Report of the Commission on Housing & Regional Planning, chaired
+by Clarence Stein, a prominent New York architect and citizen. This last Stein Report includes
+statistics on new construction in NYC from Oct. 1920 thru Sept. 1925. A series of earlier reports
+by this commission, under Stein, documented the building boom, and attributed it to the Al
+Smith Act.
+
+The F.W. Dodge Co. reported monthly on floor space contracted for. This rose from .5m s.f.
+in December, 1920, to 13m s.f. in December, 1923, a 26-fold increase (Pleydell and Wood,
+Appendix p.22).
+
+Another source is the archive of papers of Lawson Purdy, at the Robert Schalkenbach
+Foundation, New York. Purdy directs us to the Report of Commissioners of Taxes and
+Assessments of the City of NY for 1931, p.12, for data confirming Post’s statements.
+
+So I will accept Post’s data, in spite of his shortcomings as a writer. His data seem confirmed
+by city records, from which he apparently took them. The population changes documented herein
+track Post’s construction data quite well, adding to his credibility.
+
+SL.F. Post, a prominent Chicago Georgist, author of several Georgist books, edited The Public for many years,
+before becoming Asst. Secy. of Labor under President Wilson, where he played an heroic role in blunting the
+hysteria of the Palmer Raids.
+Published literature on this episode, either popular or scholarly, is sparse. Here was a major
+event, in the nation’s biggest city, an event filled with policy implications. The event involved
+major public and political figures, filled with human interest. The world has not lacked for
+striving young professionals seeking new research topics. They have selected, all too often,
+minutiae, or passing fads, or pedantic parlor games, as though they had to fabricate to find
+worthy subjects. It is a sorrow and a puzzle, but it leaves us with a neglected job to do, beginning
+with this paper.
+
+Post sketches the enabling law (NY State Laws of 1920, ch. 949, section 4-B, and later
+amendments). New construction, to qualify, had to be ready for occupancy by April 1, 1926; and
+the tax-exemption, whatever the beginning date, lasted through December 31, 1931. The
+exemption had a cap of $1,000 per room, and $5,000 per house or apartment building, later
+raised to $15,000 (Geiger, 1933, p.438, n.137). These caps might seem to make this law
+resemble the "homestead exemptions" common in southeastern states, but the NYC exemptions
+applied only to buildings, not to land, and were much tighter, targeted to aid middle class
+residents mainly. Pleydell and Wood goes into great detail, more than is needed here, but
+definitively confirming the major points of Post, Polak and Geiger.’
+
+B. Political History: The Georgist Factor
+
+None of the sources adequately emphasize that the law applied not just to the municipality of
+New York City, but also the five counties that comprise its five “boroughs,” and also to its
+school taxes. The Act authorizes ALL units of local government to exempt buildings (Pleydell,
+Appendices, p.32, has the relevant text of the Act). The entire property tax was affected, in
+contrast to say, Pittsburgh, where its “graded tax plan” affects only that one-third or less of the
+property tax that is levied by the municipality. It is not surprising, then, that the NYC law had
+more visible effects.
+
+This more thoroughgoing “root and branch” attitude in New York reveals the existence of a
+strong, long-standing political movement. The New York Act sprang from a political history that
+links it to the movement Henry George left behind in New York, as well as to other Georgist
+episodes, to be related later, in Cleveland, Detroit, Toledo, Jersey City, Milwaukee, Pittsburgh,
+and Chicago. Gov. Al Smith took the visible lead, but he, like most political leaders, had to be
+pushed.
+
+Who was it that pushed? A major force was the group of single-tax clubs of NYC, the
+enduring legacy of Henry George’s runs for Mayor of NYC in 1886 and 1897. After George’s
+death, his influence survived him in his adopted home. “New York has been, more than any
+other city, a center of sustained single-tax activity and influence” (Young, p.215). Several NYC
+organizations and their hardball politics are documented in Miller (pp.19, 440-43), Young
+(pp.215-29, 244), Marsh (1953, pp. 17-36), Barker (pp. 521, 622-23), L.F. Post (1930, pp. 50-
+53), and Geiger (pp. 436-37). They left literary tracks in long reports and proceedings of city
+
+7In 1927 there came a new 20-year exemption for dwellings built by “limited dividend companies under the State
+housing law,” but this seems to have been closely hedged in, tailored for a big and powerful insurance company,
+Metropolitan Life, and of little overall weight. Metropolitan Life was constantly at work seeking favorable
+legislation, e.g. income-tax exemption for mortgage interest. It is still a major player in NYC real estate, e.g. with
+Stuyvesant Town and the Cooper package, which it recently sold. It was not, however, a major player under the
+Smith Act, tailored to small owners.
+10
+
+commissions (Marling, 1916; Haig, 1915). Polak (1915) was in the fray in the academic journals.
+“In NYC ... later Georgism (i.e. after 1897) ... was aggressive, and it had power” (Barker,
+pp.622-23).
+
+Those involved in or supporting or patronizing the movement included Gov. Charles Evans
+Hughes, Wall Street guru John Moody, Senator Tim Sullivan, lender Charles O’Connor
+Hennessy, and visible reformers like Jacob Riis, Lillian Wald, Frederic Leubuscher, Florence
+Kelley, Judge Samuel Seabury, and Lawson Purdy—dquite a roster, across the spectrum from
+social reformers to lawyers and conservative lenders, and including one near-miss U.S. President
+(Hughes), and one visible aspirant (Seabury*). Ben Marsh was ever the dedicated sparkplug and
+organizer; Joseph Dana Miller the recorder and journalist. In 1912, Marsh got even Theodore
+Roosevelt to speak for a George-oriented tax change and TR “made a rattling good speech ...
+which got splendid publicity” (Marsh, 1953, p.30). Lillian Wald raised contributions from Jacob
+Schiff, and the Warburg brothers of Kuhn Loeb.
+
+Before Smith was governor, Albany had blocked several single-tax bills, in the years 1909-16.
+Earlier, as majority leader of the Assembly and a Tammany wheelhorse, Smith himself had
+blocked a 1911 Georgist effort (the Sullivan-Shortt Bill) along similar lines. Busy Ben Marsh,
+who combined activism with chronicling, claimed Smith admitted that the Roman Catholic
+hierarchy and the New York Real Estate Board swayed him against Georgists (Marsh, 1953, pp.
+21-22). Perhaps so, but times and people change. Smith turned around after 1911, his change
+triggered by the awful incineration of 150 people trapped in the Triangle Shirtwaist Company
+workroom—a traumatic, watershed event of the times. He gave yeoman service on the resulting
+state Factory Investigation Commission, 1911-15, working with the likes of Frances Perkins and
+Samuel Gompers.
+
+Perkins and other social workers saw to it that Smith and his co-chair, Robert Wagner, got
+well exposed to sweatshop working conditions and housing (Colburn, p.29). Smith and the social
+workers warmed to each other (Colburn, p.31). Smith’s base, Tammany Hall, also turned, under
+the leadership of Charles Murphy, seeking to keep up with Progressive Republican Charles
+Evans Hughes who won the governorship, 1905-09, by his efforts to improve working
+conditions. The old “bosses” and the social reformers had something in common: they protected
+and enhanced the poor, much more so than did elitist “managerial reformers” like Mayors Seth
+Low and John Purroy Mitchel (Brownell, p.10; Holli, p.169). When first elected governor in
+1918, Smith was a changed man with a new power base. We may surmise, also, that his success
+in reviving NYC helped boost him to the Democratic nomination for U.S. President in 1928, and
+that was on his mind. Among other things, Smith, a Catholic, had to establish his independence
+from the Roman Catholic Church hierarchy, with its anti-Georgist history and mindset as
+revealed in its shabby treatment of Fr. Edward McGlynn (Gaffney,2000, and sources there cited).
+
+C. Assessment Reform, Silent Senior Partner of Tax Reform
+
+In addition to the Al Smith Act, Georgist thought and activism had made NYC assessors up-
+value land in the tax base, and down-value improvements, by recognizing the silent appreciation
+
+5 Seabury’s Georgist tendencies are cited in Fitch, 1985, p.192; his run at the 1932 Democratic Presidential
+nomination is in Neil. Seabury’s pro-Georgist views are also expressed in his speech at the opening of the 1939
+World’s Fair.
+11
+
+of land, and depreciation and obsolescence of buildings over time. The leader in this work was
+Lawson Purdy (Young, p.216; Geiger, p.436; Barker, pp. 582, 590, 623; Marsh, 1911, p.107).
+Purdy, a lawyer, was an early single-tax campaigner, a young associate of Henry George’s later
+years, who soon became President of the Board of Taxes and Assessments of the City of New
+York. As such he published The Assessment of Real Estate. Robert Murray Haig, noted Professor
+of Economics at Columbia University, in the Foreword, calls Purdy “the acknowledged authority
+in this field.” The single-tax warrior had become accepted in polite New York society, while
+remaining a leader of the Manhattan Single Tax Club (Barker, p.521). Purdy was also a power in
+the early history of the National Tax Association.
+
+In form, Purdy’s short treatise is procedural and administrative, gray and even a bit dull, but it
+wastes no words. It is mostly about how to value land, and draw up and publicize maps of land
+values used in assessing real estate for taxation. It draws on and enriches W.A. Somers’ earlier
+work in Cleveland, which Mayor Tom L. Johnson sponsored and publicized. Indeed, Purdy had
+gone to Cleveland in 1909 to consult with Somers, to teach and to learn (Barker, p.625). Purdy’s
+little monograph, along with longer works by Somers, Zangerle, Pollock and Scholz, and the
+Australian John Murray, constitute the “5-foot shelf of books” on how to value land for taxation
+where the intent is to make the typical American tax on “real estate” (land plus buildings) most
+resemble a tax on land alone. These books were assessment bibles in the 1920s, before the “dark
+days” of property-tax debasement set in’.
+
+Mayor Tom L. Johnson of Cleveland, Somers’ boss, had been Henry George’s “field
+commander” (Barker, passim). Johnson also became a major power in Ohio state politics
+(Russell, passim). Purdy when young was a leading campaigner for Henry George in 1897,
+George’s last campaign for Mayor of New York. Purdy continued to be an officer in the
+Manhattan Single Tax Club, and a Director of the Robert Schalkenbach Foundation: there is no
+doubt where Purdy was coming from.
+
+Purdy’s treatise tells NYC assessors to value the land first, as though it were bare, and then
+assign any residual value to the building. “The full value of any building is [only] the sum which
+the presence of the building adds to the value of the land.” Even a new building, if in the wrong
+place, has no more than “junk value” (Purdy, p.13). Today we call that the “building-residual
+method” of separating land from building value. This vital concept is straight from the single-tax
+movement, and central to its implementation. (It is also clearly laid out in Alfred Marshall’s
+Principles of Economics.) Thanks to the concept’s application, the value of land in the NYC tax
+base considerably exceeded the value of buildings during the Purdy era, coinciding with the
+period that the Al Smith Act covered.
+
+D. The Plenty in Land as a Tax Base
+
+NYC, in granting this tax holiday for new housing, was not “racing to the bottom” in terms of
+public spending. NYC financed one of the world’s best mass transit systems, and the nation’s
+best city college system (the “poor man’s Harvard”) with an impressive roster of graduates in the
+professions. Its parks and libraries were outstanding; its schools and social services above the
+national norm. NYC was not lowering taxes, but shifting them off buildings and onto land
+
+° These dark days resulted in part from the incentives created by the Federal income tax, to overstate the building or
+“depreciable” component of real estate value relative to the land or non-depreciable component.
+12
+
+values. Exempting buildings had the effect of raising land prices, thus preserving and even
+augmenting the overall tax base. The taxable assessed value of land in NYC rose steeply under
+this stimulus. In the 3-14-24 report of the (Clarence) Stein Committee we read,
+
+“There has been a tremendous increase in land assessments since 1920 in all the
+boroughs. ... The resumption of building has greatly increased the taxable value of the
+land, which is not included in the exemption. ... Tax exemption is creating aggregate
+taxable values to an extent heretofore unknown in the history of any municipality.”
+(Pleydell, Appendix p.23, emphasis mine).
+
+The above supports the “Physiocratic'® Theory of Tax Incidence” (all taxes come out of rents,
+or “ATCOR”). There are several more such statements scattered through Pleydell and Wood.
+Purdy cites the New York City Tax Department Report, 1931, pp.18-19, showing the assessed
+value of land by boroughs, 1904-31 (Purdy Papers, 9-24-34). Fragmentary evidence in Pleydell
+and Wood indicates that city revenues rose, while the tax rate fell (Section 3, pp. 31, 38-48, 51,
+58, 74).
+
+Some might see a kind of parallel here with the “Laffer-Curve Effect” of recent federal
+finance, where lowering the tax rate is alleged to raise the tax base. Some champions of the Al
+Smith Act did advance such a point, arguing that the new tax exempt houses would not even be
+there if they were not exempted, and they would come on the tax rolls in 1932. The parallel is
+not very good, and we leave the issue moot here, because it distracts from the larger point that
+the land tax base rose immediately and hugely. Banker Charles Hennessy wrote that the Al Smith
+Act resulted in “wild speculation in building sites, immediately reflected in rising prices” (Purdy
+Papers, 7-7-34). Reinforcing statements are scattered throughout Pleydell and Wood. Federal tax
+cuts under Reagan also caused steep rises in land values, but Reagan’s policies differed in that
+they favored land income as much as or more than income from using and improving land, and
+resulted in deficits. NYC tax cuts under the Al Smith Act applied only to new buildings, and
+were more than compensated, it seems, by a rise of the land tax base, which NYC immediately
+tapped for public revenue. Thanks to this rise of the tax base, it was even able to lower its
+general property tax rate.
+
+E. Features of the Law as Applied, Summarized
+
+There was more to the Smith Act in practice than meets the eye. Herewith is a summary of its
+relevant features.
+
+1. Newly built dwelling units were totally exempt from the property tax through 1931.
+2. Land was not exempt, either before or after building.
+
+3. Land assessments were kept up to date, using the building-residual method of separating
+land and building values.
+
+4. All levels of local taxation—city, county, and school district—were under the law.
+
+© The Physiocrats were 18" Century French economists including Quesnay, Mirabeau, Turgot, Condorcet, DuPont,
+and others, who developed this theme in the course of advocating something like the “single-tax” — indeed, they
+called it 1’ imp6t unique. Their students included Adam Smith, Thomas Jefferson, James Madison, James Monroe,
+Benjamin Franklin, the Holy Roman Emperor Joseph II of Austria, and other influentials in foreign lands.
+13
+
+5. The tax rate was moderately high, around 3%. Public services were maintained at fairly
+high levels. These included a city college system, and mass transit with low fares.
+
+6. There were dollar caps on exemptions: per room, per family, and per building.
+Rental units as well as owner units were exempted.
+
+8. The law had to be renewed annually, both at the State and local levels. It began in 1921,
+and was extended in 1922, 1923, and 1924. Each extension covered buildings completed
+in the next two years, so buildings completed as late as April 1, 1926, could qualify for
+exemption.
+
+9. The law was challenged in court and at one point overturned, but later upheld on appeal.
+This litigation for a while added to the uncertainty of it.
+
+10. There was a strong base of local understanding and support.
+
+F. NYC Outstripping Comparison Cities, 1920-40
+
+For comparison with NYC, I have limited the data to cities north and east of Kansas City,
+mainly with fixed boundaries. I have grouped them as follows, presenting aggregate data for
+each group (as well as for the individual cities).
+
+1. Four other major cities in NY State: Albany, Syracuse'', Rochester and Buffalo. Statewide
+policies would affect all these the same. [The Al Smith enabling act, although “local
+option” in form, was tailored for NYC (Post, 1984, p.1).] Rochester and Buffalo and, to a
+degree, Albany, also pick up influences from the Great Lakes economy; these influences
+also reach NYC. From 1920-40, these cities grew by 13.8%, while NYC grew by 32.7%,
+or 2.4 times as much.
+
+2. Five other major cities along the mid-Atlantic coast: Boston, Providence, New Haven,
+Philadelphia, and Baltimore. From 1920-40, these cities grew by 7.3%, while NYC grew
+by 4.8 times as much.
+
+3. Nearby New Jersey neighbors of NYC: Jersey City, Newark, and Paterson. (Jersey City
+and Newark might also be lumped with the cities in “B”, but are such close locational
+substitutes for NYC that separate treatment seems warranted.) From 1920-40, these New
+Jersey neighbors of NYC grew by 2.8%, while NYC grew by 11.7 times as much.
+
+Do these facts speak for themselves? Not entirely: a sequence is not always a consequence,
+and in the multivariate world of economics, “proofs” are always subject to doubt and open to
+challenge. Certainly, though, the NYC tax holiday was a relevant cause, with an effect expected
+a priori. The expected events started happening immediately, somewhat as the Dow-Jones jumps
+when Fed Chairman Greenspan announces an interest-rate cut, but with more lasting results.
+Anyone questioning cause and effect here should shoulder some burden of proof.
+
+I have also disaggregated NYC into its boroughs. Manhattan actually lost some resident
+population, 1920-40, while the explosive population growth was in the outer boroughs of Bronx,
+
+"Syracuse added a large area, 1920-30, inflating its growth rate and therefore, of course, that of the four cities
+taken together (Comick, p.57).
+14
+
+Brooklyn, and especially Queens”. One reason for the difference is the exemption cap of $5,000,
+which would carry less relative weight in the pricier housing of Manhattan. Still, this raises the
+qualifying possibility that NYC had simply merged with its inner suburbs, unlike some
+comparison cities, which provided it with land to expand; lacking in, say, Boston or Pittsburgh. It
+is true that most of the building under the Act went up in the outer boroughs. There are two
+reasons to doubt the weight of this qualification, however. One is that the population density of
+NYC was double that of any comparison city, vast although NYC’s area is. The other is that the
+merger occurred in 1898, while the growth revival we are studying didn’t begin until 22 years
+later, after NYC appeared to be choking from lack of housing.
+
+The futility of annexation alone was shown by Milwaukee after 1960. Milwaukee grew faster
+than most other cities up until then, when it annexed all of northwest Milwaukee County and
+doubled its area. Yet, the City started losing population at that very time, by hollowing out. It
+takes more than annexing land to grow a city. Most cities already have lots of derelict land; what
+they need are incentives.
+
+NYC tax policy worked in tandem with related growth policies. NYC in the 1920s
+coordinated its tax policy with developing its mass transit system, and holding fares down, much
+as Cleveland had done in the Johnson-Baker era, 1900-20. If Cleveland was known for Johnson’s
+low 3-cent fare, New York was famous for its low 5-cent fare under many administrations, clear
+up to 1947. New tunnels under the East and Harlem Rivers linked up with pre-existing elevated
+and subway lines in the outer boroughs, giving mass transit a sudden boost (Dick Netzer, letter,
+30 Dec 2000). By 1930, 91% of the population lived on 40% of the city’s land area—the land
+within half-mile strips on either side of elevateds and subways (Cornick, p.86). NYC held down
+fares by covering capital costs, and perhaps some operating deficits, from property taxes. With
+many new buildings being tax-exempt, and Purdy in charge of assessments, that meant raising
+taxes on land values.’ (For details on New York’s transit development, see Hammack, Fitch,
+Chernow, Jackson, and Hood.)
+
+All USS. cities in the 1920s poured a disproportionately high fraction of capital into public
+works, owing to the new Federal personal income tax, levied at high rates. The 1920s was the
+first peacetime decade of experience with high rates of personal income taxation. Lenders shied
+away from mortgages on private real estate, whose interest was fully taxable, in favor of tax-
+exempt municipals.
+
+It is true, of course, that the “imputed income” of owner-occupied residences is also tax-
+exempt. There are reasons, however, why this exemption is weaker than that on municipal bonds.
+
+1. The supply of loanable funds is highly elastic, so the income tax on interest income is
+mostly shifted forward to borrowers in higher interest rates. It is thus only the equity
+fraction of a home’s value that yield’s tax-exempt imputed income. New building is
+heavily financed, especially when the buyers are middle or lower-middle class wage-
+earners—they have little equity.
+
+1 have omitted Richmond (Staten Island), as too small in population to matter.
+
+The academic world recognized this after a lag, with Hotelling’s famous article in 1938. Even this article did
+not lack for theoretical detractors like Ragnar Frisch and I.M.D. Little.
+15
+
+2. Itis also true that interest paid by homeowners is deductible, seeming to offset the tax-
+induced interest premium they pay. However, that applies only to owners who itemize;
+most middle-class wage-earners do not, even today, and certainly did not in the 1920s
+when most did not even have to file.
+
+3. The homes affordable by the working poor are mostly on cheap land. New homes on
+cheap land have a high ratio of building value to land value. Yet it is mainly the land or
+location element in homes that yields imputed true income. The “service flow” from
+buildings per se is largely offset by depreciation and maintenance and upkeep expenses,
+and is not net income at all. The unearned increment of the land value under and around a
+house, which is taxed much lighter than “ordinary” income from labor, comes entirely
+from the land element. I would be delighted to learn of a single writer on income tax
+matters who has gotten those points—I know of none.
+
+The upshot of those three points is that income taxation, with exemption of municipal bonds,
+induces unbalanced urban expansion: too many streets and lots, not enough building to match.
+
+In many cities, like Chicago and Detroit, this imbalance of public works and private building
+led to excess subdivision and catastrophe, well documented in works by Homer Hoyt, Ernest
+Fisher, Lewis Maverick and others. The “orphan subdivision” exemplified the problem: a few
+scattered houses in a wilderness of vacant lots, streets full of weeds, curbs, gutters, sidewalks,
+fire hydrants and street lights. New York was not exempt from this curse of the times, but its
+experience was much less extreme: its private sector was keeping better pace and balance with
+its public sector.
+
+New York's greater population surge is the more impressive because of its greater dependence
+on immigration. Immigrants flow to all cities, including those deep in the heartland, but the
+fraction in New York has always been higher, owing to its gateway position. The Immigration
+Act of 1924, cutting immigration sharply, therefore impacted New York more than comparison
+cities - yet New York grew faster than the others. In the depression of the 1930s net immigration
+to the U.S.A. stopped completely, yet NYC continued to grow while most other cities stopped or
+shrank. NYC suburbs were growing too, as in other metropolitan areas; but this metro area did
+not hollow out like the others: the center held.
+
+G. Summary: Effectiveness of the Smith Act
+
+The Smith Act almost certainly helped cause a number of ensuing events, 1921-40.
+
+1. Building of new dwelling units rose by high factors that can fairly be called extreme and
+unprecedented.
+
+2. NYC maintained and extended its national lead in population, even in percentage terms.
+There was no tendency to “converge,” or “regress towards the mean.”
+
+3. NYC continued to grow, even during the Great Depression, when almost every other city
+of the Northeast Quadrant stopped.
+
+4. NYC supplied housing for the mass middle and lower-middle class markets.
+
+NYC land values rose sharply, even though taxation was more focused on land than
+before.
+16
+
+6. The location of new housing was compact, concentric, and compatible with continued use
+of mass transit.
+
+7. The flow of capital into public works was matched and balanced by capital going into
+improving private lands.
+
+8. NYC overcame the relative handicap to growth imposed by the Immigration Act of 1924,
+and the national stoppage of net immigration in the depression years.
+
+9. NYC grew, 1920-40, in spite of its beginning the period with a higher density than other
+cities, and not expanding its boundaries.
+
+H. Aftermath
+
+After 1932 the forces of tax limitation rallied, financed by the likes of the Rockefeller
+Brothers, the Seth Low family, A.A. Berle, and of course several others. According to Robert
+Fitch they chose Fiorello La Guardia as their front man, trusting him to put on a populist charade
+while capping their taxes and promoting a 6" Avenue subway line to serve Rockefeller Center
+(Fitch, 1985, p.192). And so New York City’s remarkable growth spurt tapered off, leaving it
+larger, but otherwise much like many other older cities.
+
+III. Growth Spurts in some Other Cities
+
+Data in Table I, p. 310, gathered originally for comparison with NYC, also point us to some
+other cities that grew rapidly during parts of 1890-1940. Some grew faster, percentage-wise, than
+NYC. What, then, is special about NYC’s spurt? In several of the other cities, rapid growth was
+associated with Georgist-oriented policies and attitudes similar to those of NYC under its Al
+Smith Act, and its Lawson Purdy assessment practices. This supports C.J. Post’s and Geiger’s
+and Polak’s assertions of cause and effect.
+
+A. Cleveland, 1900-20
+
+Cleveland grew by 109%, 1900-20. For most of this time it was under the administrations of
+single-taxers Tom L. Johnson, 1901-09, and Newton D. Baker, 1911-16. Charles Barker,
+biographer of Henry George, describes Johnson as George’s “field commander”. In 1906, Mayor
+Johnson inaugurated a low 3-cent trolley fare which entailed possible deficits he intended to
+meet by taxing real estate. In 1909, Johnson formally put in place reformed machinery for land
+assessment. W.A. Somers, who had supplied his “standard unit” system of mapping land values
+to Johnson in 1901, was made Chief Clerk. Somers supervised the first quadrennial assessment
+(Post, 1915, p.91). Johnson and Somers raised assessments from $180m to $500m, with a new
+emphasis on land values. For the first time, there was a fair assessment in Cleveland (Russell,
+p.291; Bremner, Chap. 14, pp.153-64).
+
+Johnson and Somers analyzed property assessments, and found that assessors had been
+undervaluing holdings in rich neighborhoods, and overvaluing those in poor. Johnson, a master
+showman, put up large maps illustrating this, inviting discussion and suggestions from the
+public. To aid understanding, he pushed “the Somers unit system”—a system later used by Purdy
+in NYC. A Standard Unit was one front foot, 100’ deep, with formulas to adjust for corner
+influence, depth influence, etc.
+
+To win support for up-valuing land and down-valuing buildings, Johnson set up a city-
+17
+
+sponsored Tax School in 1901. The biggest landowner in Cleveland sued to stop it, and won, but
+by the time the Tax School closed it had operated for 20 months, and prepared the public mind
+for a large rise of land assessments (Johnson, pp.127, 129; Bremner, pp. 129, 136, 157-58).
+Johnson’s parting view upon leaving office in 1909 was of his candidates taking control of the
+City Board of Equalization, which had the last word on assessed valuations (Bremner, pp.162-
+64). To this day a bronze statue of Johnson stands in downtown Cleveland, holding a book out
+for all to see, and on it engraven Progress and Poverty.
+
+Johnson's City Solicitor and ally, Newton D. Baker, was another remarkable leader, who later
+nearly edged out FDR for the Democratic Presidential nomination in 1932 (Cramer; Neal;
+Moley). Baker won the mayoralty in 1911, after an interregnum of just two years. Baker
+implemented Johnsonian policies until President Wilson appointed him Secretary of War in
+1916. This high-level appointment recognized the political power of the single-tax movement in
+that era, a power that later historians and economists have wrongly trivialized. Baker left behind
+an improved infrastructure, and the city debt that financed it, so the City needed heavy land-
+value taxes for some time to come. Peter Witt, often described as “a fiery single-taxer”, ran to
+succeed Baker and lost only narrowly, indicating that Johnsonian policies retained a large
+constituency. After 1916, though, Cleveland slowly fell into old-line Tory hands (Cramer, p.7). It
+also began its long slide into its present torpor and mediocrity. From 1900 to 1920, Cleveland's
+population had more than doubled. If Cleveland had continued growing at the Johnson-Baker
+rate, its population today would be 15 millions or so, double that of NYC, and 30 times the half
+million it actually has now. Its masses of voters would dominate Ohio politics, which helps
+explain the efforts of the Taft and Hanna machines in the 1912 Ohio constitutional convention, to
+be described below, to block its pro-growth policies.
+
+B. Detroit, 1890-1930
+
+Detroit's soaring growth, 1890-1930, obviously involved the auto industry, but why did that
+industry focus on Detroit? There was no St. Lawrence Seaway—that opened in 1959, when it
+failed to arrest the decline of most Great Lakes cities, whose leaders were failing to stop their
+internal decay. Growth began under Mayor, then Governor Hazen S. Pingree (Lorenz, pp.17-18;
+Johnson, p.91). Pingree had called Tom Johnson to Detroit in 1899 to help beef up its street car
+system and lower fares, under public ownership (Lorenz, pp.17-18; Johnson, pp.91-97; Bremner,
+p.42; Bemis). It is one of the great ironies: The Motor City, whose auto firms did so much to
+destroy mass transit, originally attracted them by providing cheap mass transit for their workers.
+Pingree was growth-oriented, but not annexationist, and was in tune with Johnson.
+
+Growth after Pingree, however, entailed vast annexations, nearly quadrupling the City area by
+1930. During this period Detroit subsidized sprawl massively, resulting in one of the worst cases
+of excess subdivision in the U.S.A. at that time (Fisher and Smith, 1932; Fisher, 1933), although
+there was keen competition for that superlative. Historians have neglected Pingree as compared
+with Johnson and Baker of Cleveland, and Jones and Whitlock of Toledo, but Joseph Dana
+Miller rates Pingree with Johnson and Whitlock as a “true single-taxer” (Miller, pp. 411-12).
+
+Table I shows a sensational collapse of Detroit after 1950 or so. A weak market for autos?
+Hardly: Detroit’s fall coincided with the Interstate Highway System and the greatest auto sales
+boom in history. The St. Lawrence Seaway opened in 1959, opening more export markets.
+18
+
+Foreign competition came later. Detroit’s leaders, auto-oriented, forgot the Pingree policies that
+had launched Detroit earlier'*. During Detroit's fall, the brand new suburb of Southfield elected a
+latter-day single-tax Mayor, James Clarkson, who appointed a single-tax assessor, Ted
+Gwartney. During the Clarkson-Gwartney era Southfield boomed vigorously, until opposing
+forces got Clarkson kicked upstairs as a lifetime judge. Thereupon, Southfield immediately
+stagnated."
+
+C. Toledo, 1890-1920
+
+Toledo tripled its population, 1890-1920. Much of this occurred under single-tax Mayors
+Samuel M. “Golden Rule” Jones, 1897-1904, and his disciple, Brand Whitlock, 1905-1913, a
+graduate of Gov. Altgeld’s populist administration in Illinois. Many cities grew fast in this
+period, but Toledo grew by 200%, outpacing most other cities. Books by Jones and Whitlock tell
+much of the story.
+
+Toledo peaked out after 1920. The shackles of the 1912 Constitution blocked Toledo just as
+they did Cleveland. In addition, according to Milwaukee Mayor Daniel Hoan, the railroads with
+their key landholdings choked Toledo by tying up its waterfront (Kerstein, pp.42-43). Hoan had
+taken drastic action to take control of Milwaukee’s waterfront, with its city-owned port and
+parks. Chicago had earlier done the same. It was Hoan who led the fight for the St. Lawrence
+Seaway Project, fighting railroad corporations all the way.
+
+D. Milwaukee, 1916-40
+
+Milwaukee grew fast for 30 years under its "socialist" Mayors Emil Seidel (1910-12) and
+Daniel Hoan (1916-40). Hoan’s tenure was the longest of any Mayor of a large American city;
+he was nationally recognized as the best mayor in the country, and Milwaukee under Hoan was
+the best-governed city (Kerstein, 1966). This was a period of slowing growth in most other cities
+in Table I.
+
+Hoan's brand of what others labeled "sewer socialism" consisted in applying the principles of
+marginal-cost pricing to Milwaukee's infrastructure, meaning keeping transit and utility user-
+rates low, and meeting deficits by raising property taxes. Hoan also expanded social services,
+and pressed city assessors (in Milwaukee these serve at the mayor's pleasure) to up-value land
+and down-value buildings (Hoan, 1936, pp.26-27). Hoan had his assessor distribute maps of city
+land values, block by block, to enlist citizen aid and support for assessing land first, and
+buildings "residually"—the quick and easy way, as well as the theoretically correct way, to raise
+assessed values of land and lower those of buildings. This is the system spread by W.A. Somers,
+and at that time known by his name. Like all progressive mayors of the era, and like Tax
+Commissioner Purdy in NYC, Hoan studied and learned from the achievements of Tom Johnson
+(Hoan, passim).
+
+“ Henry Ford in 1942 wrote the following: "We ought to tax all idle land the way Henry George said -
+tax it heavily so that its owners have to make it productive" (Wilhelm). Ford was erratic on social
+policy, but his statement at least shows that a prominent leader in the area was aware of the policy.
+
+'S Gwartney, after Southfield, led the British Columbia Assessment Authority for many years. He is now (2006)
+Director of Assessments in Greenwich, CT. Under Gwartney, land value constitutes %4 of the assessed value of real
+estate there.

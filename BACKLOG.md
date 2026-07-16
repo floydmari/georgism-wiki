@@ -4,7 +4,13 @@
 the claim-lane enrichment wave — objection steelman "government will waste the rent"
 (public-choice), lvt-reduces-sprawl 5th supporter, foldvary-reply-gochenour-caplan,
 raley-citizens-dividend verify, T3 mechanical-debt batch (BC SVT rates + Sources
-annotations). Does NOT touch the Slack lane (udw74p's).**
+annotations). Does NOT touch the Slack lane (udw74p's).
+UPDATE 2026-07-16: lane extended per Floyd — the GAFFNEY CORPUS (masongaffney.org, 190
+files; hosting permission from the site's webmaster, Gaffney d. 2020). Triage ledger:
+sources/gaffney-corpus-triage.md; tier-1 mirrored to sources/gaffney/ + OCR'd. BLOCKED
+SUB-ITEM: Floyd's Notion priority list (app.notion.com/p/floydm/MAson-Gaffney-pages-…)
+is a JS app; needs either the vault's Notion API key (Floyd's word required) or a paste
+of the list. Cross-check tier-1 against it when available.**
 
 ## ⟳ RESUME HERE (updated 2026-07-15, session udw74p — post-deploy)
 
