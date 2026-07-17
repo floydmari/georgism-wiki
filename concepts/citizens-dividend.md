@@ -46,6 +46,7 @@ Bill Raley's BIEN Congress 2018 paper [*The Citizen's Dividend*](/wiki/raley-cit
 
 ## See Also
 
+- [Equal Land Share](/wiki/equal-land-share/) — a predistributive reformulation: the tax and the dividend netted into a single per-capita-threshold settlement
 - [Raley, The Citizen's Dividend (BIEN 2018)](/wiki/raley-citizens-dividend/) — scholarly grounding of the dividend in the Locke–Paine–George tradition, with a divergent VAT funding proposal
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — what the evidence actually shows on the poverty/inequality claim
 
