@@ -983,3 +983,20 @@ with readable slugs; ledger sources/r2-public-files.csv. 16 wiki pages now carry
 [archived] fallback links (14 auto via registry mapping + 2 hand-matched). Private
 holdings stay private. Classifier .gov-final-label fix committed. Archive totals:
 193 gaffney/ + 18 files/ public; 192 private. lint 0 errors.
+
+## 2026-07-17 (cont.) — Wave: Gaffney tier-2 + link-health + archive retry
+
+Gaffney tier-2 (3 units, quotes PDF-verified): gaffney-two-centuries-land-taxation
+(K142, 1982 Lindholm&Lynn volume identified, registry row was mis-pointed/mis-dated —
+fixed; Walras/Wicksell marginalist-founders evidence wired into progress-and-poverty-
+outdated; Marshall 1909 into marshall-single-tax-objection; 13 people pages enriched);
+gaffney-alaska-oil-leasing (1977 pre-PFD design study, AVC proposal, Prudhoe Bay
+giveaway anchor -> resource-rent-capture 'design before the windfall' case);
+gaffney-land-market-distortions (WP041+WP042, honest wiring declines documented).
+Link-health: 16 registry 404s worked — 13 fixed (incl. wrong DOI, fabricated title
+variant caught against the actual PDF, truncated URLs), 1 waybacked, 2 genuinely dead
+(our monbiot article; the withdrawn Losses-of-Nations PDF — chapter citation precision
+gained: 'Taxed Out of Work and Wealth' pp.146-174; $7tn row stays open). Archive retry
+sweep: +62 preservation copies (254 archived total, 334+MB private). 842 pages, lint 0.
+Process note: git add -A swept one agent's in-flight edits into a sibling commit
+(verified correct, no damage) — explicit file lists are now the rule while agents run.
