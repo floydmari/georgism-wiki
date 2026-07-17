@@ -1,0 +1,25 @@
+{
+  "_readme": [
+    "CANONICAL source-candidate intake for the Georgism wiki (established 2026-07-17, Floyd).",
+    "Agents adding research candidates: APPEND to the 'queue' array and COMMIT+PUSH this file",
+    "to the repo (branch or main, like Hugh Bot's sources/slack-research-candidates.json).",
+    "Do NOT write to /workspace/wiki-queue.json or any container-local path - those are",
+    "ephemeral, invisible to other sessions, and lost on container recycle.",
+    "Item schema (same as the Slack candidates file): {url, source, author, date, context, topics}.",
+    "'source' = where it was found (slack channel, agent name, manual, etc.).",
+    "Triage sessions consume from here, record verdicts in a dated triage file (see",
+    "sources/slack-research-triage-2026-07-14.json for the pattern), and mark items",
+    "consumed by moving them to the 'consumed' array with a verdict."
+  ],
+  "queue": [
+    {
+      "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
+      "source": "external-agent (relayed by Floyd from /workspace/wiki-queue.json #423)",
+      "author": null,
+      "date": "2026-07-17",
+      "context": "Cincinnati report - landeconomics.blob.core.windows.net",
+      "topics": []
+    }
+  ],
+  "consumed": []
+}
