@@ -24,6 +24,11 @@ regulation inflates land prices in America's high-demand metros. From the abstra
 implement a new empirical strategy for estimating so-called 'zoning taxes' – the amount
 by which land prices are bid up due to supply side regulations."
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/gyourko-krimmel-fig4.png" alt="Dot plot of the 25th percentile, median, and 75th percentile zoning tax per quarter acre in 24 US metros, in thousands of 2018 dollars. San Francisco's median is about 410 thousand with a 75th percentile near 760 thousand; Los Angeles, Seattle and New York have medians around 150–200 thousand; most interior metros — Nashville, Columbus, Dallas, Cincinnati — sit near zero." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 4 from the working paper: the interquartile range of estimated "zoning taxes" — how much regulation bids up the price of a quarter-acre of land — across 24 metros (2018 dollars). The median gap is about $400k in San Francisco and $150–200k in Los Angeles, Seattle and New York, but near zero in most lightly regulated interior metros. <span class="figure-credit">Source: Gyourko &amp; Krimmel, NBER Working Paper 28993 (2021), Figure 4; published in <em>Journal of Urban Economics</em> 126 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Method and Findings
 
 The "zoning tax" is the gap between what land sells for on the extensive margin (a

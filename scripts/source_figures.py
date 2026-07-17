@@ -195,6 +195,51 @@ FIGURES = [
                     "<em>American Economic Journal: Economic Policy</em> 14(2), "
                     "2022 — reproduced for comment and review.</span>"),
     },
+    {
+        "key": "larson-fig3",
+        "entry": "research/larson-us-land-value.md",
+        "pdf_url": "https://www.bea.gov/sites/default/files/papers/WP2015-3.pdf",
+        "page": 21,
+        "clip": (138, 92, 470, 338),
+        "dpi": 300,
+        "alt": ("Line chart of the aggregate value of land in the lower 48 US "
+                "states, 2000 to 2009, in current trillions of dollars. The line "
+                "rises from about 20.8 trillion in 2000 to a peak of 26.2 trillion "
+                "in 2006, then falls to 23.0 trillion by 2009."),
+        "caption": ("Figure 3 from the paper: the aggregate value of land in the "
+                    "contiguous United States, 2000–2009 (current dollars). Land "
+                    "value rose 26% from $20.8&nbsp;trillion to $26.2&nbsp;trillion "
+                    "at the 2006 peak, then fell 12% to the paper's headline "
+                    "$23&nbsp;trillion in 2009 — the US government's own estimate "
+                    "of the land base, swinging with the property cycle. "
+                    "<span class=\"figure-credit\">Source: Larson (2015), Figure 3, "
+                    "BEA Working Paper WP2015-3. US federal government work — "
+                    "public domain.</span>"),
+    },
+    {
+        "key": "gyourko-krimmel-fig4",
+        "entry": "research/gyourko-krimmel-zoning-tax.md",
+        "pdf_url": "https://www.nber.org/system/files/working_papers/w28993/w28993.pdf",
+        "page": 41,
+        "clip": (68, 86, 545, 378),
+        "dpi": 220,
+        "alt": ("Dot plot of the 25th percentile, median, and 75th percentile "
+                "zoning tax per quarter acre in 24 US metros, in thousands of 2018 "
+                "dollars. San Francisco's median is about 410 thousand with a 75th "
+                "percentile near 760 thousand; Los Angeles, Seattle and New York "
+                "have medians around 150-200 thousand; most interior metros — "
+                "Nashville, Columbus, Dallas, Cincinnati — sit near zero."),
+        "caption": ("Figure 4 from the working paper: the interquartile range of "
+                    "estimated \"zoning taxes\" — how much regulation bids up the "
+                    "price of a quarter-acre of land — across 24 metros (2018 "
+                    "dollars). The median gap is about $400k in San Francisco and "
+                    "$150–200k in Los Angeles, Seattle and New York, but near zero "
+                    "in most lightly regulated interior metros. "
+                    "<span class=\"figure-credit\">Source: Gyourko &amp; Krimmel, "
+                    "NBER Working Paper 28993 (2021), Figure 4; published in "
+                    "<em>Journal of Urban Economics</em> 126 — reproduced for "
+                    "comment and review.</span>"),
+    },
 ]
 
 
