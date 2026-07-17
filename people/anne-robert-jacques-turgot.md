@@ -27,6 +27,7 @@ Turgot's insistence that land's net product is a category apart from ordinary pr
 - [Adam Smith](/wiki/adam-smith/) — Turgot's Reflections predates Smith's Wealth of Nations by about a decade
 - [David Ricardo](/wiki/david-ricardo/) — developed classical rent theory that built on and revised physiocratic land ideas
 - [Economic Theory in Retrospect (book)](/wiki/economic-theory-in-retrospect/) — Blaug's standard history covering Turgot's Reflections
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — names Turgot the Physiocrats' "political spokesman" in its survey of land-taxation advocates
 
 ## Sources
 

@@ -25,6 +25,7 @@ Economist Mark Blaug, in [*Economic Theory in Retrospect*](/wiki/economic-theory
 - [Henry George](/wiki/henry-george/) — popularized a land-rent single tax over a century later
 - [Economic Rent](/wiki/economic-rent/) — the concept underlying the Physiocratic "net product"
 - [Henry George: Rebel with a Cause](/wiki/blaug-henry-george-rebel/) — Blaug's fuller assessment of George's place in economic thought
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — surveys Quesnay and the Physiocrats alongside two centuries of later economists' positions on land taxation
 
 ## Sources
 

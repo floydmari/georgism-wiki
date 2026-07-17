@@ -22,6 +22,7 @@ Knight was also one of the single tax's most persistent academic critics. His es
 - [Edwin R. A. Seligman](/wiki/era-seligman/) — an earlier generation's most formidable academic single-tax critic
 - [Single Tax](/wiki/single-tax/) — the Georgist proposal Knight's 1953 essay targets
 - [Chicago](/wiki/chicago/) — the city and university where Knight built the Chicago School
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — an earlier (1982) Gaffney survey covering Knight's "innocent buyer" vested-title doctrine and tracing it to precedents in Francis A. Walker and J. S. Mill
 
 ## Sources
 

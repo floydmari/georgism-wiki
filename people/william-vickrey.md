@@ -48,6 +48,7 @@ respectability in mainstream public economics.
 - [Radical Markets (book)](/wiki/posner-weyl-radical-markets/)
 - [Richard Arnott](/wiki/richard-arnott/) — editor of Vickrey's collected public-economics papers
 - [Land Value Tax](/wiki/land-value-tax/) · [Split-Rate Taxation](/wiki/split-rate-taxation/) · [Joseph Stiglitz](/wiki/joseph-stiglitz/)
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — credits Vickrey with carrying Hotelling's marginal-cost-pricing case for land-financed deficits "much further to the logical conclusion of a thoroughgoing general shift to the land value tax base"
 
 ## Sources
 

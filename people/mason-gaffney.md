@@ -7,7 +7,7 @@ born: 1923
 died: 2020
 sources: [gaffney-1994, gaffney-2009]
 excerpt: "American economist (1923–2020) at UC Riverside, among the most rigorous and prolific 20th-century academic defenders of Henry George’s land economics; co-author of The Corruption of Economics, originator of the ATCOR thesis, and adviser to governments on land taxation."
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-17
 ---
 
 ## Life and Career
@@ -33,10 +33,13 @@ The thesis is controversial among academic economists but is supported by consid
 - **[Europe's Fatal Affair with VAT (2016)](/wiki/gaffney-europes-fatal-affair-with-vat/)** — a late-career essay, co-published with Fred Harrison in *Beyond Brexit: The Blueprint*, arguing VAT and general sales taxes carry a hidden "Mill Effect" excess burden by taxing capital as it turns over
 - **[New Life in Old Cities (2006)](/wiki/gaffney-new-life-in-old-cities/)** — a historical survey of nine US and Canadian cities, 1890–1930, arguing Georgist tax shifts coincided with outsized population growth, with Pittsburgh's building-without-population growth as an explicit anomaly
 - **[A Severance Tax on California Oil? (2006)](/wiki/gaffney-california-severance-tax/)** — a policy essay on capturing California oil-and-gas rent through a severance tax, written amid the Proposition 87 campaign and after Proposition 13 (1978) gutted the state's earlier property tax on mineral reserves
+- **[Oil and Gas Leasing Policy for Alaska (1977)](/wiki/gaffney-alaska-oil-leasing/)** — a commissioned report to Governor Jay Hammond and the Alaska Legislature, written three months after voters created the Permanent Fund, proposing an "ad valorem charge" on proven reserves in place as the state's primary lease-design instrument for capturing oil rent
+- **[How Land Markets Misallocate Capital (c. 1993)](/wiki/gaffney-land-market-distortions/)** — two short working papers on how overpriced land redirects capital into land-substituting investment, including a five-fold taxonomy of land-saving capital and a typology of overbuilding vs. withholding landowners
 - **[George's Economics of Abundance (c. 1993–94)](/wiki/gaffney-economics-of-abundance/)** — a polemical essay arguing Henry George's program resolves, rather than trades off, efficiency against equity and demand-side against supply-side stimulus
 - **[Full Employment through Total Tax Reform (1993)](/wiki/gaffney-full-employment-tax-reform/)** — a keynote address proposing "True Fiscal Stimulus," a land-value tax shift argued to raise labour demand and supply-side incentives together
 - **[A Better Way of Gauging the Excess Burden of Shiftable Taxes (2005)](/wiki/gaffney-excess-burden-shiftable-taxes/)** — a working paper proposing to measure excess burden by tax-induced shifting of land to lower uses, rather than by conventional Harberger-triangle modeling
 - **[The Philosophy of Public Finance (1998)](/wiki/gaffney-philosophy-of-public-finance/)** — Chapter 7 of Fred Harrison (ed.), *The Losses of Nations*, setting out the philosophical case for site value taxation and a formal algebraic derivation of ATCOR; now the earliest confirmed dated use of the named "ATCOR" acronym, three years before the 2005 working paper's fuller statement
+- **[Two Centuries of Economic Thought on Taxation of Land Rents (1982)](/wiki/gaffney-two-centuries-land-taxation/)** — a historiographical survey, in Lindholm & Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary* (University of Wisconsin Press), sorting roughly sixty economists from Quesnay to the 1970s — Smith, Ricardo, Mill, Marshall, Walras, Wicksell, J. B. Clark, Knight, and many others — into five camps by their stated sympathy toward taxing land rent
 
 ## See Also
 
@@ -44,6 +47,7 @@ The thesis is controversial among academic economists but is supported by consid
 - [After the Crash: Designing a Depression-Free Economy (2009)](/wiki/gaffney-after-the-crash/) — Gaffney's late-career book-length argument that the 2008 crash followed a predictable ~18-year land-speculation pattern
 - [Gaffney (1994), Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — Gaffney's systematic catalogue of why land is not economically interchangeable with capital
 - [Gaffney (1982), Causes of Downturns](/wiki/gaffney-causes-of-downturns/) — unpublished precursor to Foldvary's 1997 Georgist-Austrian synthesis
+- [Gaffney (1982), Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — the same-year historiographical survey of roughly sixty economists' positions on taxing land rent
 - [Gaffney, How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/) — the capital-destruction mechanism
 - [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — signatory
 
@@ -63,3 +67,5 @@ The thesis is controversial among academic economists but is supported by consid
 7. Gaffney, "Full Employment through Total Tax Reform" (1993) — used for the "True Fiscal Stimulus" argument. [wiki summary](/wiki/gaffney-full-employment-tax-reform/)
 8. Gaffney, "A Better Way of Gauging the Excess Burden of Shiftable Taxes" (2005) — used for the land-use-shifting excess-burden method. [wiki summary](/wiki/gaffney-excess-burden-shiftable-taxes/)
 9. Gaffney, "The Philosophy of Public Finance" (1998), Ch. 7 in Fred Harrison (ed.), *The Losses of Nations* — used for the philosophical case for site value taxation and the earliest dated use of the "ATCOR" name. [wiki summary](/wiki/gaffney-philosophy-of-public-finance/)
+10. Gaffney, "Oil and Gas Leasing Policy: Alternatives for Alaska in 1977" — used for the ad valorem charge design and the Alaska leasing-policy advisory work. [wiki summary](/wiki/gaffney-alaska-oil-leasing/)
+11. Gaffney, "Factitious Locational Obsolescence and Misguided Capital Consumption" (WP041) and "How Wayward Land Markets Lead to Misallocating Capital" (WP042), both undated (c. 1993) — used for the land-substituting capital taxonomy and buyer typology. [wiki summary](/wiki/gaffney-land-market-distortions/)

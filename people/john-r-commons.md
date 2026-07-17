@@ -22,6 +22,7 @@ Mason Gaffney and Fred Harrison's *[The Corruption of Economics](/wiki/gaffney-h
 - [John Bates Clark](/wiki/john-bates-clark/) — the American neoclassical economist Gaffney casts as Commons's institutionalist-vs-marginalist foil
 - [Edwin R. A. Seligman](/wiki/era-seligman/) — the era's leading single-tax critic, for contrast
 - [Single Tax](/wiki/single-tax/)
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — profiles Commons's Grimstad Bill and his three-tier income-tax proposal (low on wages, medium on capital, highest on land income) alongside two centuries of other economists' positions
 
 ## Sources
 

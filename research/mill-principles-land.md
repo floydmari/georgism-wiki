@@ -266,7 +266,7 @@ descendant of this objection.
     #55308](https://www.gutenberg.org/ebooks/55308)
 11. Andrew Phemister, "The Right to Life, the Right to Nature, and the Impact of Irish Land
     on Political Thought in the 1880s," *The Historical Journal* 66:3 (June 2023), 573–592
-    — open access (CC-BY), [Cambridge Core](https://www.cambridge.org/core/journals/historical-journal/article/right-to-life-the-right-to-nature-and-the-impact-of-irish-land-on-political-thought-in-the-1880s/5B9766F01D59B7F067D68BB18C1AB8D1)
+    — open access (CC-BY), [Cambridge Core](https://www.cambridge.org/core/journals/historical-journal/article/right-to-life-the-right-to-nature-and-the-impact-of-irish-land-on-political-thought-in-the-1880s/5B9766F01D59B7F067D68BB18C1AB8D1) (confirmed live 2026-07-17; the DOI https://doi.org/10.1017/S0018246X22000437 currently 404s)
     — fetched and read in full (2026-07-10). Used for the Harcourt "misty philosophers"
     characterization (Phemister's source: Harcourt's speech at Glasgow, 25 October 1881) and
     for the Fawcett/Thorold Rogers passage quoted in Period Criticism ("Eminent liberals

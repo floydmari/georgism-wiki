@@ -5,7 +5,7 @@ tags: [objections, land-capital-distinction, john-bates-clark, neoclassical-econ
 stub: false
 status: "Addressed on the economics — the enumerated differences (fixed supply, non-reproducibility, permanence, immobility) are accepted across the ideological spectrum and do the real analytic work; the historical question of why land was reclassified remains genuinely contested"
 excerpt: "The claim, traced to John Bates Clark's 1899 marginal-productivity theory, that land has no economically meaningful distinction from capital — so singling land out for taxation is arbitrary. The steelman, the responses, and the contested history."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-17
 ---
 
 ## The Objection
@@ -120,6 +120,22 @@ Clark exegesis:
 
 ## Limits and Caveats
 
+- **The Wicksteed grouping needs a caveat.** This page's Response (point 3)
+  follows Blaug in grouping [Philip Wicksteed](/wiki/philip-wicksteed/) with
+  Walras as a marginalist who "kept land distinct enough to advocate its
+  nationalization" rather than merging it into capital. Gaffney's own 1982
+  historiographical survey, [*Two Centuries of Economic Thought on Taxation
+  of Land Rents*](/wiki/gaffney-two-centuries-land-taxation/), complicates
+  this: on Gaffney's primary reading, Wicksteed's *theoretical* apparatus
+  parallels Clark's, not Walras's — "All resources are fixed... Rent is
+  erased. 'There is no surplus at all'" (Wicksteed 1914, p. 15). Wicksteed's
+  Fabian, pro-land-tax *politics* are not in dispute, but his marginal-
+  productivity framework gave land no more privileged analytical status than
+  Clark's did. The two readings are reconcilable — a marginalist could keep
+  George's politics while adopting an apparatus that erased George's
+  theoretical premise — but they show the "not every marginalist made
+  Clark's move" claim needs Wicksteed handled carefully, case by case, not
+  as a clean counter-example.
 - **The distinction blurs at real margins, not just in theory.** Depletable
   natural resources (minerals, oil) genuinely are "used up," in tension with
   the "permanent, non-depreciating" description; and the
@@ -206,3 +222,11 @@ economics, unresolved by the 2025 literature this page cites.
    abstract and journal landing page free) — used for the "theoretical
    choice rather than logical necessity" finding and the Alvin Johnson
    "natural capital" counter-example. [Wiki summary](/wiki/missemer-pottier-land-labor-capital/)
+7. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), p. 154 — used for the primary-source
+   complication of the Wicksteed/Walras grouping: Wicksteed's marginalist
+   apparatus, unlike his politics, is grouped by Gaffney with Clark's
+   land-erasing move (attributed; quotation re-verified against the source
+   PDF). [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)

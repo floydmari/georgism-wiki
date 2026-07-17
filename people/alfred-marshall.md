@@ -4,7 +4,7 @@ category: people
 tags: [people, alfred-marshall, neoclassical-economics, cambridge, rent-theory]
 stub: false
 excerpt: "Founding father of neoclassical economics (1842–1924) who debated Henry George at Oxford in 1883 — and whose own theory kept more of the land question alive than his successors did: quasi-rents, the 'public value' of land, and support for taxing site value."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-17
 ---
 
 ## Overview
@@ -25,9 +25,25 @@ merger of land into capital.[2] Marshall also flagged the local-finance caveat t
 wiki carries on the [HGT literature](/wiki/optimal-city-size/): high local land
 rates can over-attract population to rich-base jurisdictions.[1]
 
+## From Opponent to Supporter: the 1909 Land Tax
+
+The 1883 Oxford clash was not Marshall's last word. Mason Gaffney's 1982
+historiographical survey credits Marshall with a genuine theoretical
+advance over Ricardo — the "public value of land," extending rent theory
+beyond farm fertility to urban location, public works, and community
+synergy — and reports that when [David Lloyd George](/wiki/david-lloyd-george/)
+proposed a British land tax in 1909, Marshall backed it: "yet another
+George... did win Marshall's support." Gaffney reads the mature, practicing
+Marshall, not the 1883 polemicist, as "the one who stood up when push came
+to shove in his native land."[4] Marshall also distinguished "onerous"
+local taxes (funding services to people) from "beneficial" ones (funding
+services to property) — the ancestor of the modern argument that property
+should pay only for services to property.[4]
+
 ## See Also
 
 - [Marshall's Objection to the Single Tax](/wiki/marshall-single-tax-objection/) — the canonical Marshall–George quasi-rent debate, steelmanned and assessed
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — the source for Marshall's 1909 Lloyd George support and the "public value" concept
 - [John Bates Clark](/wiki/john-bates-clark/) — the American merger Marshall did not fully join
 - [Economic Theory in Retrospect (book)](/wiki/economic-theory-in-retrospect/) · [The Corruption of Economics (book)](/wiki/gaffney-harrison-corruption-of-economics/)
 - [Henry George](/wiki/henry-george/) · [Economic Rent](/wiki/economic-rent/)
@@ -47,3 +63,11 @@ rates can over-attract population to rich-base jurisdictions.[1]
    community-created "public value" of land is a fit object of taxation (his
    broader treatment appears in his evidence to the Royal Commission on Local
    Taxation). [Land value tax — Marshall's "fresh air rate"](https://en.wikipedia.org/wiki/Land_value_tax)
+4. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), pp. 166–168 — used for the "public
+   value of land" attribution, Marshall's 1909 support for Lloyd George's
+   land tax (via T. W. Hutchison, 1969), and the "onerous"/"beneficial" tax
+   distinction (attributed; quotations re-verified against the source PDF).
+   [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)

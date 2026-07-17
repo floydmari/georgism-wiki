@@ -62,6 +62,7 @@ The limits matter as much as the endorsement (developed in full on the [book pag
 - [The Wealth of Nations (Smith)](/wiki/wealth-of-nations/) — the Georgist-lens book page
 - [Taxes upon Rent (Smith, 1776)](/wiki/smith-taxes-upon-rent-1776/) — the full Book V article on taxing rent
 - [François Quesnay](/wiki/francois-quesnay/) — the Physiocrat whose impôt unique on land prefigured the single tax
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — a 1982 survey of two hundred years of economists' positions on land taxation that closes by returning to Smith as its frame
 - [David Ricardo](/wiki/david-ricardo/) · [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/) · [Land Monopoly](/wiki/land-monopoly/) · [Physiocrats](/wiki/physiocrats/)
 
 ## Sources

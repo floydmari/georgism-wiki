@@ -4,7 +4,7 @@ category: people
 tags: [people, mill, classical-economics, unearned-increment, land-reform, land-tenure-reform-association]
 stub: false
 excerpt: "Philosopher and economist (1806–1873) who coined the 'unearned increment' of land and proposed taxing future land-value gains — a direct forerunner of Georgism, though a more gradualist one who would compensate existing owners."
-last_reviewed: 2026-07-07
+last_reviewed: 2026-07-17
 ---
 
 ## Overview
@@ -57,6 +57,26 @@ George](/wiki/david-lloyd-george/) and the land-value provisions of the
 [1909 People's Budget](/wiki/1909-peoples-budget/). Through the LTRA, Mill turned a passage
 in a textbook into a live political demand.
 
+## A Skeptical Read of the Gradualism
+
+Mason Gaffney's 1982 historiographical survey treats Mill's gradualism more
+critically than most Georgist accounts. Gaffney notes that Mill "recognizes
+fleetingly that present land values include discounted future increments,
+but dances calisthenically around this," before concluding it is fine to
+tax only future increments — a position Gaffney finds does not hold up,
+since in a rising market "future increments for all future time are
+already reflected in land prices."[3] Yet Gaffney also credits Mill with
+stronger language than the future-increments qualification suggests
+Mill intended to concede: "among the very few kinds of income which are
+fit subjects for peculiar taxation, these (urban) ground-rents hold the
+principal place," and a house-tax, so far as it falls on the
+ground-landlord, "is liable to no valid objection" (Mill 1872, Book V, Ch.
+II) — "for Mill the moralist and logician, that is strong language."[3]
+Gaffney is also more pointed than this wiki's account above about the
+timing of Mill's Land Tenure Reform Association activism, calling it "almost
+a posthumous activity" that came "only after his autobiography is finished
+and his main energies spent."[3]
+
 ## Legacy
 
 Mill gave the Georgist movement something it could not have manufactured for itself:
@@ -93,3 +113,12 @@ classical tradition rather than outside it.
    LTRA record and Mill biography this session). Reproduced in full on this wiki:
    [Programme of the Land Tenure Reform Association (1871)](/wiki/land-tenure-reform-programme-1871/).
    [Wikipedia: Land Tenure Reform Association](https://en.wikipedia.org/wiki/Land_Tenure_Reform_Association)
+3. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), pp. 174–175 — used for the critical
+   reading of Mill's future-increments qualification, the "peculiar
+   taxation" and house-tax quotations, and the "almost a posthumous
+   activity" characterization of Mill's Land Tenure Reform Association work
+   (attributed; quotations re-verified against the source PDF).
+   [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)

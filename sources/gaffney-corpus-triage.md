@@ -101,7 +101,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [ ] `I2015-AJES-v74-n2-Real-assets-model.pdf` — https://masongaffney.org/publications/I2015-AJES-v74-n2-Real-assets-model.pdf
 - [ ] `I6A-1996_Taxes_Capital_and_Jobs_1978_revised.pdf` — https://masongaffney.org/publications/I6A-1996_Taxes_Capital_and_Jobs_1978_revised.pdf
 - [ ] `I6Taxes_Capital_and_Jobs.CV.pdf` — https://masongaffney.org/publications/I6Taxes_Capital_and_Jobs.CV.pdf
-- [ ] `K142_Centuries_Thought_Land_Taxation.CV.pdf` — https://masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf
+- [x] `K142_Centuries_Thought_Land_Taxation.CV.pdf` — https://masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf — [research/gaffney-two-centuries-land-taxation](/wiki/gaffney-two-centuries-land-taxation/), 2026-07-17
 - [ ] `K17-AlfredRusselWallacesCampaign.CV.pdf` — https://masongaffney.org/publications/K17-AlfredRusselWallacesCampaign.CV.pdf
 - [ ] `K18George_McGlynn_and_Leo_XIII.pdf` — https://masongaffney.org/publications/K18George_McGlynn_and_Leo_XIII.pdf
 - [ ] `K1Neo-classical_Stratagem.CV.pdf` — https://masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf
@@ -245,8 +245,21 @@ resource-rents depth), Oil & Gas: Unfinished Tax Reform, Soil Depletion & Land R
 Counter-colonial Land Policy for Montana, Capital Gains and the Future of Free Enterprise,
 Land Markets Lead to Misallocating Capital, Factitious Locational Obsolescence in Land Booms,
 Americas Low Savings Rate, Four Vampires of Capital, Answer to Futilitarians, timber/forest
-taxation trio (A1/A3/A5), Corporations Democracy & the US Supreme Court, Two Centuries of
-Economic Thought on Taxation of Land Rents (registry cite-only today — wants a page).
+taxation trio (A1/A3/A5), Corporations Democracy & the US Supreme Court.
+
+**2026-07-17:** *Two Centuries of Economic Thought on Taxation of Land Rents* (1982, in
+Lindholm & Lynn eds., *Land Value Taxation: The Progress and Poverty Centenary*, Univ. of
+Wisconsin Press for TRED — not a Lincoln Institute volume, confirmed via Stanford SearchWorks)
+read, drafted, and wired — see
+[research/gaffney-two-centuries-land-taxation](/wiki/gaffney-two-centuries-land-taxation/).
+Registry row flipped Scanned/Heavy, tier core. Wired into
+objections/marshall-single-tax-objection (Marshall's 1909 Lloyd George support),
+objections/progress-and-poverty-outdated (Walras and Wicksell as marginalist-generation
+economists reaching George's conclusion), and objections/land-is-just-capital (a genuine
+complication: Gaffney's primary reading groups Wicksteed's *theory*, not his politics, with
+Clark's land-erasing move — in tension with Blaug's grouping of Wicksteed with Walras);
+enriched people/ pages for Ricardo, Mill, Marshall, Walras, Wicksteed, Smith, Quesnay, Turgot,
+Vickrey, Commons, Knight, Clark, and Gaffney's own works list.
 
 **TIER 3 — archive-only for now:** remainder of the 190 (interviews, duplicates of published
 versions, narrow appendices). Full-site preservation mirror: recommend an R2 bucket rather

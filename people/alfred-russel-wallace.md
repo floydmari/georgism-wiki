@@ -27,7 +27,7 @@ As a scientist of the first rank lending his name and energy to land reform, Wal
 
 ## Sources
 
-1. Alfred Russel Wallace (1882), *Land Nationalisation: Its Necessity and Its Aims* — used for his land-reform programme and its distinction from George's tax approach (A-claims). [Full text (Internet Archive)](https://archive.org/details/landnationalisat00walliala)
+1. Alfred Russel Wallace (1882), *Land Nationalisation: Its Necessity and Its Aims* — used for his land-reform programme and its distinction from George's tax approach (A-claims). [Full text (Internet Archive)](https://archive.org/details/landnationalisat00walluoft)
 2. Alfred Russel Wallace (1880), "How to Nationalize the Land: A Radical Solution of the Irish Land Problem," *Contemporary Review* (S329), with editor Charles H. Smith's note — used for the essay's role in the 1881 formation of the Land Nationalisation Society and Wallace's election as first president (A-claim). [Wallace archive (WKU)](https://people.wku.edu/charles.smith/wallace/S329.htm)
 3. Wallace Online / Natural History Museum manuscript record (NHM-WP05) — used for the Society "formed in 1881 with A. R. Wallace as President," its motto ("to restore the Land to the People and the People to the Land"), and its persistence to at least 1905 (A-claim). [wallace-online.org](https://wallace-online.org/content/record?itemID=NHM-WP05)
 4. Wiki corpus: [the-land-question](/wiki/the-land-question/), [michael-davitt](/wiki/michael-davitt/), [herbert-spencer](/wiki/herbert-spencer/) — used for the Davitt 1882 nationalisation-vs-single-tax divergence and Wallace's criticism of Spencer's retreat.

@@ -67,6 +67,22 @@ Harrison's *Boom Bust* Ch. 14 §2 states. Pending recovery of the primary text, 
 GDP *level* documented above rather than treated as a verified aggregate G7 foregone-
 output loss.
 
+**Link-repair note (2026-07-17, T2 link-health pass) — chapter now precisely identified;
+still no free copy found.** The sharetherents mirror (dead since at least the prior
+verification pass) was hunted exhaustively this session: sharetherents.org's own current
+`/publications/` page lists *The Losses of Nations* (1998) linked only to an Amazon
+purchase page, confirming the free PDF was withdrawn rather than merely moved; no
+Wayback Machine capture of the sharetherents PDF URL exists at any timestamp; no copy
+was found at landresearchtrust.org, cooperative-individualism.org, SSRN, archive.org, or
+via the authors' institutional pages. One genuine gain: the chapter's own title and page
+range were pinned down independently (via Wikipedia's "Georgism" article references and
+corroborating web search, not the primary text) — Nicolaus Tideman & Florenz Plassmann,
+**"Taxed Out of Work and Wealth: The Costs of Taxing Labor and Capital,"** in Fred
+Harrison (ed.), *The Losses of Nations* (London: Othila Press, 1998), pp. 146–174. This
+is a citation-precision improvement only; it does not touch the "$7 trillion"
+verification question above, which still requires the primary chapter. Retryable status
+tracked in `sources/verification-backlog.md`.
+
 ## See Also
 
 - [Deadweight Loss](/wiki/deadweight-loss/) · [Land rent could fund government](/wiki/land-rent-could-fund-government/)

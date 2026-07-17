@@ -96,6 +96,7 @@ set the terms on which George was forgotten, whatever the motive.
 - [Land Monopoly](/wiki/land-monopoly/) — the concept whose analytical basis the merger dissolved
 
 - [Marginal Productivity](/wiki/marginal-productivity/) · [Richard T. Ely](/wiki/richard-t-ely/) · [Missemer & Pottier — land, labor, capital](/wiki/missemer-pottier-land-labor-capital/) — related pages from the comprehensiveness sweep
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — an earlier (1982), broader Gaffney survey covering Clark's "two strokes" against classical rent theory alongside roughly sixty other economists
 
 ## Sources
 
