@@ -222,3 +222,4 @@ preview/
 reports/
 scratchpad_disc/
 .figure-cache/
+*.pdf
