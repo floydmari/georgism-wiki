@@ -9,8 +9,23 @@ in Notion (pending access — see BACKLOG). Local mirror of worked texts: `sourc
 gaffney-synergistic-city, gaffney-hidden-taxable-capacity, gaffney-land-distinctive-factor,
 gaffney-after-the-crash, gaffney-causes-of-downturns, gaffney-land-booms-destroy-capital,
 gaffney-europes-fatal-affair-with-vat, gaffney-full-employment-tax-reform,
-gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance;
+gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance,
+gaffney-alaska-oil-leasing, gaffney-land-market-distortions;
 narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-17 (T2 wave):** *Oil and Gas Leasing Policy for Alaska* (1977, Part I only —
+Part II Appendices A-L not covered) read, drafted, and wired into
+benefits/resource-rent-capture-works ("Design Before the Windfall — Alaska, 1977"),
+concepts/resource-rents, and places/alaska — see
+[research/gaffney-alaska-oil-leasing](/wiki/gaffney-alaska-oil-leasing/). Two short
+undated working papers (WP041, WP042, internally dated circa 1993) combined onto one
+page, [research/gaffney-land-market-distortions](/wiki/gaffney-land-market-distortions/):
+WP041 restates the mechanism already on gaffney-land-booms-destroy-capital.md
+(linked, not repeated); WP042's five-fold capital-misallocation taxonomy is wired
+into problems/high-land-rents-suppress-productivity as a weakest-tier theoretical
+precursor. Judged narratives/land-speculation-causes-cycles.md to already carry
+enough Gaffney (Causes of Downturns Stage V, the land-booms-destroy-capital page) —
+no new wiring added there per the delta rule.
 
 **2026-07-16 (Floyd's Notion priority, top gap):** *The Philosophy of Public Finance* (1998,
 Ch. 7 in Fred Harrison ed., *The Losses of Nations*, Othila Press) read, drafted, and wired
@@ -35,7 +50,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [ ] `A3-AlternativeWaysofTaxingForests.CV.pdf` — https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf
 - [ ] `A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf` — https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf
 - [ ] `B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf
-- [ ] `B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf
+- [x] `B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf — [research/gaffney-alaska-oil-leasing.md](/wiki/gaffney-alaska-oil-leasing/), 2026-07-17. Part II (Appendices A-L, line above) not covered this wave.
 - [ ] `B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf` — https://masongaffney.org/publications/B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf
 - [ ] `B1Extractive_Resources_Conclusion.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf
 - [ ] `B1Extractive_Resources_Intro.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf
@@ -122,12 +137,12 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [x] `A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf — [research/gaffney-excess-burden-shiftable-taxes.md](/wiki/gaffney-excess-burden-shiftable-taxes/)
 - [ ] `Capital_Gains_and_Future_of_Free_Enterprise.pdf` — https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf
 - [x] `Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf` — https://masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf — [research/gaffney-causes-of-downturns.md](/wiki/gaffney-causes-of-downturns/)
-- [ ] `Factitious_Locational_Obsolescence_in_Land_Booms_WP041 .pdf` — https://masongaffney.org/workpapers/Factitious_Locational_Obsolescence_in_Land_Booms_WP041%20.pdf
+- [x] `Factitious_Locational_Obsolescence_in_Land_Booms_WP041 .pdf` — https://masongaffney.org/workpapers/Factitious_Locational_Obsolescence_in_Land_Booms_WP041%20.pdf — [research/gaffney-land-market-distortions.md](/wiki/gaffney-land-market-distortions/), 2026-07-17
 - [ ] `How_Religious_Awakenings_Presage_Radical_Reforms.pdf` — https://masongaffney.org/workpapers/How_Religious_Awakenings_Presage_Radical_Reforms.pdf
 - [x] `How_Rising_rents_devour_ capital_1993_WP039.pdf` — https://masongaffney.org/workpapers/How_Rising_rents_devour_%20capital_1993_WP039.pdf — [research/gaffney-land-booms-destroy-capital.md](/wiki/gaffney-land-booms-destroy-capital/)
 - [x] `How_a_Land_Boom_Destroys_Capital_10_2005.pdf` — https://masongaffney.org/workpapers/How_a_Land_Boom_Destroys_Capital_10_2005.pdf — [research/gaffney-land-booms-destroy-capital.md](/wiki/gaffney-land-booms-destroy-capital/)
 - [ ] `How_an_interest_hike_destroys_capital_1996.pdf` — https://masongaffney.org/workpapers/How_an_interest_hike_destroys_capital_1996.pdf
-- [ ] `Land_Markets_Lead_to_Misallocating_Capital_WP042 .pdf` — https://masongaffney.org/workpapers/Land_Markets_Lead_to_Misallocating_Capital_WP042%20.pdf
+- [x] `Land_Markets_Lead_to_Misallocating_Capital_WP042 .pdf` — https://masongaffney.org/workpapers/Land_Markets_Lead_to_Misallocating_Capital_WP042%20.pdf — [research/gaffney-land-market-distortions.md](/wiki/gaffney-land-market-distortions/), 2026-07-17
 - [ ] `Logos_Abused.pdf` — https://masongaffney.org/workpapers/Logos_Abused.pdf
 - [ ] `Oil_and_Gas_Leasing--a_Study_in_Pseudo-Socialism.pdf` — https://masongaffney.org/workpapers/Oil_and_Gas_Leasing--a_Study_in_Pseudo-Socialism.pdf
 - [ ] `Philippines_Land_Reform_Through_Tax_Reform.pdf` — https://masongaffney.org/workpapers/Philippines_Land_Reform_Through_Tax_Reform.pdf

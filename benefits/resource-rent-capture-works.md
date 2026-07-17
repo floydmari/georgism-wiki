@@ -22,6 +22,7 @@ supported_by:
 - mintz-chen-capturing-resource-rents
 - baunsgaard-vernon-windfall-profits
 - gaffney-california-severance-tax
+- gaffney-alaska-oil-leasing
 tags:
 - outcomes
 - resource-rents
@@ -33,7 +34,7 @@ title: Capturing resource rent works — where institutions are strong
 ---
 
 > **At a glance** — Capturing a finite resource's rent at a high rate works in practice where fiscal design and institutions are strong — Norway is the flagship — while the resource curse remains real where they are weak.
-> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **10 supporting** sources · **0 challenging**
+> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **11 supporting** sources · **0 challenging**
 > **Strongest support:** [Lie (2018)](/wiki/lie-norwegian-oil-fund/) — Norway's ~78% petroleum rent capture built a sovereign fund now worth over $2 trillion without deterring extraction. **Strongest counter:** the resource-curse literature (Sachs & Warner 1995/2001) — resource-rich economies grow more slowly *on average*, and [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) shows rent windfalls eroding local tax effort and accountability; capture works where institutions are strong and curses where they are weak. See Why It Isn't Automatic.
 
 ## The Claim
@@ -98,6 +99,35 @@ poor tropical country, not Nordic exceptionalism. (Honest scope: Botswana's succ
 was in growth and public finance, not across the board — the same paper flags an
 HIV/AIDS prevalence of "perhaps 25%–30% of adults" as "a serious public policy
 failure.")
+
+## Design Before the Windfall — Alaska, 1977
+
+Norway and Botswana show capture-oriented institutions already in place when the
+resource wealth arrived; **Alaska shows the design work happening in real time**, at
+the founding moment. Three months after voters approved the constitutional
+amendment creating the **[Alaska Permanent Fund](/wiki/alaska-permanent-fund/)**
+(November 1976) — and five years before the first [Permanent Fund
+Dividend](/wiki/resource-rent-dividends-work/) was paid — Governor Jay Hammond's
+administration and the state legislature commissioned Mason Gaffney to design the
+**leasing policy** that would determine how much oil rent the State actually
+captured before a barrel was sold.[10] Gaffney's report opens with a cautionary
+anecdote about what capture failure looks like: at a 1965 noncompetitive lease
+auction, Alaska sold what he estimates as roughly **$10 billion worth of oil at
+Prudhoe Bay for $6 million**, a mismatch he calls close to "a fraud with malice
+aforethought" against the State's own interest.[10] His central design proposal —
+an **"ad valorem charge" (AVC)**: a percentage levy on the *appraised value of
+reserves already proven in the ground*, rather than a bonus bid on unproven
+prospects — is functionally the same *in-situ* property-tax instrument California
+was running on its own oil and gas reserves at the same moment, before Proposition
+13 eliminated it the following year (see the California case above).[10][9] Gaffney
+ranks the AVC above bonus bidding, delay rentals, and flat royalties precisely
+because it is assessed *ex post* discovery rather than *ex ante* guesswork, sparing
+the State the Prudhoe Bay outcome by collecting on what is actually found rather
+than gambling on a single upfront price. The lesson for "capture works": Alaska's
+much-cited dividend success (below) rests on a prior, less-visible design question —
+how much rent the leasing terms let the State collect in the first place — that
+state economic advisors were actively working out at the exact moment the Fund was
+created, not after the fact.
 
 ## Why It Isn't Automatic — the Resource Curse
 
@@ -174,6 +204,7 @@ necessary; the institutions are what make it sufficient.
 - [An African Success Story: Botswana](/wiki/acemoglu-johnson-robinson-botswana/) — the strongest non-Nordic capture case
 - [Learning by Failing: The Origins of the Norwegian Oil Fund](/wiki/lie-norwegian-oil-fund/) — how Norway's institutions were built
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the state-level case of capture built, then lost, to Proposition 13
+- [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the design-stage case, written as the Permanent Fund was created
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -221,3 +252,10 @@ necessary; the institutions are what make it sufficient.
    for the Proposition 13 / pre-1978 property-tax-on-reserves history and the net-proceeds
    design recommendation (advocacy essay/testimony, not peer-reviewed; corroborating, not
    load-bearing).
+10. Mason Gaffney (1977), "Oil and Gas Leasing Policy: Alternatives for Alaska in 1977," a
+    report to the State of Alaska and the Alaska State Legislature —
+    [wiki summary](/wiki/gaffney-alaska-oil-leasing/) ·
+    [PDF](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf)
+    — used for the 1965 Prudhoe Bay lease-sale anecdote and the "ad valorem charge"
+    design proposal (commissioned government consulting report, not peer-reviewed;
+    corroborating, not load-bearing).

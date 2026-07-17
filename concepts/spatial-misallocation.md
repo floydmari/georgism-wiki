@@ -61,6 +61,7 @@ The studies above are about **land-use regulation** (zoning, permitting, density
 - [Bakker — Urban Land Rents and TFP](/wiki/bakker-land-rents-tfp/)
 - [Herkenhoff, Ohanian & Prescott — Tarnishing the Golden and Empire States](/wiki/herkenhoff-ohanian-prescott-tarnishing/)
 - [Speculative Vacancy](/wiki/speculative-vacancy/)
+- [Gaffney: How Land Markets Misallocate Capital](/wiki/gaffney-land-market-distortions/) — an earlier, informal statement of the same channel via a five-fold taxonomy of land-substituting capital
 
 ## Sources
 

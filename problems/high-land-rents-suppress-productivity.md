@@ -5,13 +5,13 @@ claim_type: problem
 tags: [outcomes, productivity, tfp, urban-land, misallocation]
 stub: false
 evidence_strength: "Emerging (strong top-journal evidence for the closely-related land-use-restriction channel; the direct privately-captured-rent version is thinner and one flagship magnitude is contested)"
-supported_by: [duranton-puga-urban-growth, hsieh-moretti-spatial-misallocation, herkenhoff-ohanian-prescott-tarnishing, fiorentino-moogan-agglomeration, hornbeck-moretti-tfp-incidence]
+supported_by: [duranton-puga-urban-growth, hsieh-moretti-spatial-misallocation, herkenhoff-ohanian-prescott-tarnishing, fiorentino-moogan-agglomeration, hornbeck-moretti-tfp-incidence, gaffney-land-market-distortions]
 excerpt: "High urban land costs price the most productive workers and firms out of the best locations, misallocating labour and capital and lowering aggregate productivity. The direction is well-supported; the magnitude and the specifically-rent (vs regulation) version remain active research."
 last_reviewed: 2026-07-12
 ---
 
 > **At a glance** — Model evidence indicates high land costs in the most productive cities misallocate workers and lower national output, but that evidence runs mainly on land-use regulation; the specifically Georgist version — that privately captured land rent itself suppresses productivity — is thinner and rests largely on a single model.
-> **Evidence:** Emerging (strong top-journal evidence for the closely-related land-use-restriction channel; the direct privately-captured-rent version is thinner and one flagship magnitude is contested) · **5 supporting** sources · **0 challenging**
+> **Evidence:** Emerging (strong top-journal evidence for the closely-related land-use-restriction channel; the direct privately-captured-rent version is thinner and one flagship magnitude is contested) · **6 supporting** sources · **0 challenging**
 > **Strongest support:** [Duranton & Puga (2023)](/wiki/duranton-puga-urban-growth/) — a quantitative model in which relaxing planning restrictions in seven large US cities raises aggregate output about 8%. No structural counter-evidence is currently wired; see Limits.
 
 ## The Claim
@@ -33,7 +33,7 @@ Productive cities offer high wages and returns because of agglomeration — but 
 Two distinct stories can raise that access cost, and the wiki keeps them separate:
 
 - **Regulation-induced scarcity.** Zoning, height limits, and permitting restrict how much can be built on valuable land, so extra demand shows up as higher prices rather than more housing. This is the channel modeled by [Hsieh & Moretti](/wiki/hsieh-moretti-spatial-misallocation/), [Duranton & Puga](/wiki/duranton-puga-urban-growth/), and [Herkenhoff, Ohanian & Prescott](/wiki/herkenhoff-ohanian-prescott-tarnishing/). Its natural remedy is *building more* (land-use liberalization).
-- **Privately captured location rent.** Even without binding regulation, the agglomeration surplus can be absorbed as land rent by owners and speculators, raising the cost of being there. This is the specifically Georgist version, and the remedy it points to is *taxing* land value — see [Fiorentino & Moogan (2025)](/wiki/fiorentino-moogan-agglomeration/) and [taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/).
+- **Privately captured location rent.** Even without binding regulation, the agglomeration surplus can be absorbed as land rent by owners and speculators, raising the cost of being there. This is the specifically Georgist version, and the remedy it points to is *taxing* land value — see [Fiorentino & Moogan (2025)](/wiki/fiorentino-moogan-agglomeration/) and [taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/). A much earlier, informal statement of the same channel — overpriced land redirecting capital into slow-turnover, land-substituting investment rather than production — is Mason Gaffney's 1990s taxonomy of "land-saving," "land-enhancing," "land-linking," "land-capturing," and "rent-leading" capital; see [Gaffney: How Land Markets Misallocate Capital](/wiki/gaffney-land-market-distortions/). It is a conceptual precursor, not empirical confirmation — cited here at the weakest evidentiary tier, below the structural models.
 
 The two channels overlap — regulation raises the scarcity rent that owners capture — but the empirical evidence is far stronger for the first than for the second, and a [land value tax](/wiki/land-value-tax/) is not the same policy lever as upzoning. The strongest honest reading is that **high land costs in productive places demonstrably misallocate activity; how much of that is fixable by taxation rather than deregulation is not settled by the papers below.**
 
@@ -97,6 +97,7 @@ This claim's evidence base has real weaknesses, and honest use requires stating 
 - [Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/) — the mirror-image benefit claim, with the least-harmful vs raises-productivity gap kept explicit
 - [The capital-share rise is really land](/wiki/capital-share-rise-is-land/) — where Bakker's measurement argument (land rents hidden inside measured capital income) actually bears
 - [Land capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/) — why capturing land value without relaxing supply need not lower costs
+- [Gaffney: How Land Markets Misallocate Capital](/wiki/gaffney-land-market-distortions/) — the theoretical precursor to the privately-captured-rent channel
 
 - [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/) · [Agglomeration Economies](/wiki/agglomeration-economies/)
 
@@ -110,3 +111,4 @@ This claim's evidence base has real weaknesses, and honest use requires stating 
 6. Fiorentino & Moogan (2025), "LVT and Urban Agglomeration Dynamics," SSRN — used for the (supplementary) model of a land value tax easing agglomeration misallocation. [wiki summary](/wiki/fiorentino-moogan-agglomeration/)
 7. Bas Bakker (2023), "Unveiling the Hidden Impact of Urban Land Rents on Total Factor Productivity," IMF Working Paper 2023/170. [IDEAS/RePEc](https://ideas.repec.org/p/imf/imfwpa/2023-170.html) — cited for the caveat that urban land rents cause standard growth decompositions to *underestimate* TFP growth (a measurement point, not misallocation evidence). [wiki summary](/wiki/bakker-land-rents-tfp/)
 8. Richard Hornbeck & Enrico Moretti (2018/2024), "Estimating Who Benefits from Productivity Growth," *NBER WP 24661* / *Review of Economics and Statistics* 106(3). [DOI](https://doi.org/10.1162/rest_a_01208) — used, with the double-edged national-incidence caveat, for four-IV causal evidence that local productivity growth capitalizes into land rent (the specifically-rent channel's premise). [wiki summary](/wiki/hornbeck-moretti-tfp-incidence/)
+9. Mason Gaffney, "How Wayward Land Markets Lead to Misallocating Capital," working paper WP042, undated (circa 1993) — [wiki summary](/wiki/gaffney-land-market-distortions/) — used as a weakest-tier theoretical/historical precursor to the privately-captured-rent channel (not empirical evidence; an informal 1990s taxonomy, not a modern structural model).

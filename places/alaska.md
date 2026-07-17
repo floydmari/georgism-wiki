@@ -18,6 +18,8 @@ Alaska is the U.S. state that has operated a permanent universal resource-rent d
 
 Oil is a natural resource whose value is a [resource rent](/wiki/resource-rents/), not a product of labour. By capturing that rent in a public fund and distributing it equally per capita, Alaska implemented—for one resource—the kind of [citizen's dividend](/wiki/citizens-dividend/) that Georgists advocate for land and resources generally. The case is the closest large-scale, long-running proof of concept for the claim that [resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/).
 
+Three months after the constitutional amendment passed, economist Mason Gaffney was commissioned to design the state's oil-and-gas *leasing* policy — the capture-side question of how much rent the state's lease terms secured before any oil was sold, five years before the first dividend was paid; see [Gaffney (1977)](/wiki/gaffney-alaska-oil-leasing/).
+
 ## Economic and Distributional Impacts
 
 Research on the PFD's economic effects converges on several key findings:
@@ -46,6 +48,7 @@ A key distinction emphasized in the scholarly literature is that Alaska's divide
 - [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Resource Rents](/wiki/resource-rents/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
+- [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the pre-Fund rent-capture design study
 - [Jones & Marinescu (2022)](/wiki/jones-marinescu-alaska-pfd/)
 - [Widerquist & Howard (2012)](/wiki/widerquist-howard-pfd/)
 - [Goldsmith (2002)](/wiki/goldsmith-alaska-pfd-wealth-distribution/)

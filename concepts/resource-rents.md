@@ -36,6 +36,23 @@ ground that it targets pure rent more precisely and allows a higher rate without
 discouraging genuinely marginal production. (D-claim: incidence reasoning and design
 argument in an advocacy essay/legislative testimony, not a peer-reviewed estimate.)
 
+## Leasing-Based Rent Capture — Gaffney's Alaska Ad Valorem Charge
+
+Nine years before the California history above, Gaffney designed a leasing-side
+(rather than tax-side) rent-capture instrument for Alaska. His
+[1977 report to Governor Hammond and the Alaska Legislature](/wiki/gaffney-alaska-oil-leasing/)
+proposes an **"ad valorem charge" (AVC)**: a percentage levy on the *appraised value
+of reserves already proven in the ground*, structurally resembling a property tax on
+mineral reserves rather than a bid on unproven prospects. Its key design feature is
+timing — the AVC is assessed *ex post* discovery (once reserves are actually proven),
+unlike bonus bids and most royalty schemes, which are set *ex ante* on guesswork
+about what a tract might contain. Gaffney frames the case for it against a
+cautionary anecdote: a 1965 noncompetitive lease auction in which Alaska sold what he
+estimates at roughly $10 billion of oil at Prudhoe Bay for $6 million, the kind of
+underpricing an ex post, reserves-based charge is designed to avoid. (D-claim:
+design argument and administrative-practicality reasoning in a commissioned
+government report, not an econometric estimate.)
+
 ## Book Findings
 
 ### Barnes: Rent Capture for Common Assets
@@ -65,6 +82,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's rent capture framework for common assets
 - [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — ecological limits to rent extraction
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — severance-tax incidence and net-proceeds design
+- [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the leasing-side ad valorem charge design
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
@@ -74,3 +92,4 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the extracted-vs-recycled rent taxonomy (C-claim). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 4. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the ecological limits framework applied to resource rent extraction (C/D-claims). [Book page](/wiki/ecological-economics-daly/)
 5. Mason Gaffney (2006), "A Severance Tax on California Oil?," masongaffney.org — used for the four-condition incidence analysis, the royalty-offset mechanism, and the net-proceeds tax-base design (D-claim, advocacy essay). [wiki summary](/wiki/gaffney-california-severance-tax/) · [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf)
+6. Mason Gaffney (1977), "Oil and Gas Leasing Policy: Alternatives for Alaska in 1977" — used for the ad valorem charge (AVC) design and the 1965 Prudhoe Bay lease-sale anecdote (D-claim, commissioned government report). [wiki summary](/wiki/gaffney-alaska-oil-leasing/) · [PDF](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf)

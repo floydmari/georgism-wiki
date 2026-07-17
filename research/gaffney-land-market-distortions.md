@@ -60,7 +60,7 @@ WP041 opens with the identical setup as the later "How a Land Boom Destroys Capi
 whose cash flow is normally reserved as CCAs until land-price appreciation lets the
 owner treat that cash flow as spendable income instead — "the rise of land price has
 done it for him" — a process Gaffney says "is silent and insidious, like a vampire in
-the night."[1] The only content in WP041 not carried by the fuller page is a single
+the night."[1] The single piece of content in WP041 not carried by the fuller page is a
 footnoted aside on Mill's dictum that "[c]apital is kept in existence from age to
 age, not by preservation, but by perpetual reproduction" (WP041's own wording differs
 by one word from the 2005 note's "continual reproduction" — a trivial variant,

@@ -146,11 +146,7 @@ A secondary but distinctive contribution is Gaffney's answer to *when* the State
 should sell leases, not just on what terms. He proposes ranking undeveloped state
 lands by "ripeness" — ready for sale once the anticipated growth rate of the DCF of
 the State's retained interest slows below the State's own borrowing rate — arguing
-this is not, as critics might assume, always a call to sell faster: "[i]t is often
-suspected that discounting the future leads us always in the direction of faster
-resource use. Not so. We will see that this criterion may well lead the State to
-retard lease sales and production, so long as the anticipated proceeds to the State
-are growing faster than money in the bank."[1] This is a straightforward application
+this is not, as critics might assume, simply a call to sell faster: "[i]t is often suspected that discounting the future leads us... in the direction of faster resource use. Not so. We will see that this criterion may well lead the State to retard lease sales and production, so long as the anticipated proceeds to the State are growing faster than money in the bank."[1] This is a straightforward application
 of the theory of optimal-extraction timing Gaffney had developed in an earlier work,
 "Extractive Resources and Taxation," attached to the report as an appendix — the
 principle that a resource owner should withhold, not rush, an appreciating asset
