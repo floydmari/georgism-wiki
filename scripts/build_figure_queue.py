@@ -99,6 +99,20 @@ def main():
         top_n = int(sys.argv[sys.argv.index("--top") + 1])
     check_urls = "--check-urls" in sys.argv
 
+    # carry non-todo stamps (no-chart, blocked:*, in-progress:*) across regenerations —
+    # a stamp is a finding; regenerating the queue must never wipe it. `done` needs no
+    # carrying: done entries embed a <figure> and drop out of the candidate set.
+    carried = {}
+    if os.path.exists(OUT):
+        for m in re.finditer(r"^\|\s*\d+\s*\|\s*\[([^\]]+)\][^|]*\|(?:[^|]*\|){5}\s*([^|]+?)\s*\|\s*$",
+                             open(OUT).read(), re.M):
+            slug, status = m.group(1), m.group(2)
+            if status != "todo":
+                carried[slug] = status
+        for m in re.finditer(r"^- `([^`]+)` — (no-chart|blocked:\S+)(?:\s+·\s+(.*))?$",
+                             open(OUT).read(), re.M):
+            carried[m.group(1)] = m.group(2) + (f" · {m.group(3)}" if m.group(3) else "")
+
     covered = manifest_keys()
     pages = {}          # relpath -> frontmatter post
     bodies = {}         # relpath -> body text
@@ -143,8 +157,18 @@ def main():
             "pdf_note": pdf_note, "score": score,
         })
 
+    # split off stamped entries (no-chart / blocked) — they leave the queue but stay
+    # recorded so the loop never re-fetches them
+    stamped = [(c["slug"], carried[c["slug"]]) for c in candidates
+               if carried.get(c["slug"], "todo") not in ("todo",)
+               and not carried.get(c["slug"], "").startswith("in-progress")]
+    stamped_slugs = {s for s, _ in stamped}
+    candidates = [c for c in candidates if c["slug"] not in stamped_slugs]
+
     candidates.sort(key=lambda c: (-c["score"], c["rel"]))
     queue = candidates[:top_n]
+    for c in queue:
+        c["status"] = carried.get(c["slug"], "todo")
 
     if check_urls:
         import requests
@@ -188,7 +212,19 @@ def main():
     for i, c in enumerate(queue, 1):
         lines.append(
             f"| {i} | [{c['slug']}]({c['rel']}) | {c['tier']} | {c['score']} "
-            f"| {c['inbound']} | {c['outcomes']} | {c['pdf_note']} | todo |")
+            f"| {c['inbound']} | {c['outcomes']} | {c['pdf_note']} | {c.get('status', 'todo')} |")
+    lines += [
+        "",
+        "## Stamped — out of the queue, never re-fetched",
+        "",
+        "One line per entry: `- \\`slug\\` — no-chart · reason` or `blocked:<why>`.",
+        "Stamps survive regeneration; delete a line to re-queue an entry.",
+        "",
+    ]
+    for slug, status in sorted(stamped):
+        lines.append(f"- `{slug}` — {status}")
+    if not stamped:
+        lines.append("*(none yet)*")
     lines += [
         "",
         "## Re-embed placement candidates (figure already hosted; §3c re-embed rule)",

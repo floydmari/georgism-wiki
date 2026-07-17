@@ -32,11 +32,34 @@ meet the strongest evidence.
    note WHICH version the figure numbers refer to. No legal open copy → stamp
    `blocked:paywalled` and route to the Hermes work order like any blocked fact-check.
    Shadow libraries are banned (sources/inbox/README.md) — for figures too.
-4. **Find the load-bearing chart.** List the paper's figure captions (PyMuPDF text scan),
-   read them against the entry's Summary/Key Findings, render the candidate page and
-   LOOK at it. The §3c bar: the chart must carry the entry's **headline finding**, not
-   decorate it. Papers with no such chart get stamped `no-chart` — that stamp is a
-   finding; the loop never re-fetches them.
+4. **Find the load-bearing chart — the T1 selection protocol (tightened 2026-07-16,
+   Floyd's re-review ask).** Selection is a claim about evidence and gets claim-level
+   rigor:
+   a. **Enumerate, don't satisfice.** List EVERY figure caption in the paper (PyMuPDF
+      text scan). Shortlist all plausible candidates — never stop at the first
+      plausible chart.
+   b. **Anchor to the entry's text.** Write down which sentence(s) of the entry's
+      Summary/Key Findings the chart must carry. The §3c bar: the chart shows the
+      **headline finding** the entry exists to document, not context, method, or a
+      secondary result.
+   c. **Read the shortlisted charts themselves** (render the pages, look): axes, series,
+      units, magnitudes. Confirm the chart actually shows what its caption — and OUR
+      planned caption — say it shows. Any number quoted in our caption must be readable
+      off the chart or stated in the paper's text.
+   d. **Rank the shortlist and justify the winner in one sentence** ("Fig 27 not Fig 25
+      because the entry's claim is about land, and 25 only shows costs"). If two figures
+      tie, prefer the one closest to the entry's headline claim, then the more legible
+      at column width.
+   e. **Adversarial pass before upload** (fresh eyes — a second look after a break, or a
+      verification subagent): try to REFUTE the selection on four checks: (1) does the
+      chart directly support the surrounding text? (2) is a DIFFERENT figure in the
+      source a better carrier of the page's claim? (3) is the crop faithful (nothing
+      cut that changes meaning — legends, panels, baselines)? (4) is provenance exact
+      (figure number, paper version, venue)? Any failed check → fix or drop.
+   f. **High confidence or nothing.** If no figure passes — the paper is theory, its
+      evidence lives in tables, or the chart only weakly relates — stamp `no-chart`.
+      That stamp is a finding; the loop never re-fetches. **No chart is better than an
+      unrelated chart.**
 5. **Extract via the manifest — never hand-crop.** Add the FIGURES entry to
    `scripts/source_figures.py` (pdf_url, page, clip, dpi, alt, caption), render with
    `--no-upload`, **view the PNG** (crop the figure body; exclude the paper's own

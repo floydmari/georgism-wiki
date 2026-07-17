@@ -144,6 +144,57 @@ FIGURES = [
                     "27; published in <em>American Economic Review</em> 107(2), "
                     "2017 — reproduced for comment and review.</span>"),
     },
+    {
+        "key": "glaeser-gyourko-fig3",
+        "entry": "research/glaeser-gyourko-housing-supply.md",
+        "pdf_url": "https://www.nber.org/system/files/working_papers/w23833/w23833.pdf",
+        "page": 27,
+        "clip": (60, 92, 675, 505),
+        "dpi": 200,
+        "alt": ("Labeled scatter plot of 98 US metropolitan areas: house-price to "
+                "minimum-profitable-production-cost ratio in 2013 against permits "
+                "issued 2000-2013 as a share of the 2000 housing stock. Most metros "
+                "cluster at ratios near or below 1; a coastal tail sits far above — "
+                "San Francisco near 2.8, Urban Honolulu about 2.6, Los Angeles and "
+                "San Diego around 2 — and these high-ratio metros issued the fewest "
+                "permits, with a downward-sloping fit line."),
+        "caption": ("Figure 3 from the working-paper version: house price divided by "
+                    "minimum profitable production cost (MPPC) in 2013 versus "
+                    "permitting intensity, 98 US metros. Most of the country builds "
+                    "at prices near production cost (ratio ≈ 1); the expensive tail "
+                    "— San Francisco ≈ 2.8, Honolulu, coastal California, New York — "
+                    "is exactly where the fewest permits were issued, and the gap is "
+                    "the price of land under regulatory scarcity. "
+                    "<span class=\"figure-credit\">Source: Glaeser &amp; Gyourko, "
+                    "NBER Working Paper 23833 (2017), Figure 3; published in "
+                    "<em>Journal of Economic Perspectives</em> 32(1), 2018 — "
+                    "reproduced for comment and review.</span>"),
+    },
+    {
+        "key": "jones-marinescu-fig2",
+        "entry": "research/jones-marinescu-alaska-pfd.md",
+        "pdf_url": "https://www.nber.org/system/files/working_papers/w24312/w24312.pdf",
+        "page": 35,
+        "clip": (95, 88, 480, 610),
+        "dpi": 200,
+        "alt": ("Two-panel synthetic-control chart. Panel (a): Alaska's employment "
+                "rate 1977-2014 tracks its synthetic control closely both before and "
+                "after the dividend begins (dashed vertical line at 1981), with no "
+                "visible post-dividend gap. Panel (b): the Alaska-minus-synthetic "
+                "difference stays near zero and well inside the band of placebo "
+                "states over more than 30 years of event time."),
+        "caption": ("Figure 2 from the working-paper version: Alaska's employment "
+                    "rate versus its synthetic control, 1977–2014. After the "
+                    "Permanent Fund Dividend begins (dashed line), actual Alaska "
+                    "tracks the no-dividend counterfactual with no detectable "
+                    "employment decline, and panel (b) shows the difference sits "
+                    "well inside the placebo band. (The paper's other headline — a "
+                    "~1.8&nbsp;pp rise in part-time work — is a real response; see "
+                    "text.) <span class=\"figure-credit\">Source: Jones &amp; "
+                    "Marinescu, NBER Working Paper 24312, Figure 2; published in "
+                    "<em>American Economic Journal: Economic Policy</em> 14(2), "
+                    "2022 — reproduced for comment and review.</span>"),
+    },
 ]
 
 
