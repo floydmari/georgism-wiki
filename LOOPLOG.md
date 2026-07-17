@@ -920,3 +920,28 @@ queued, 13 re-embed placements). EDITORIAL §3c gains the re-embed rule (outcome
 benefit pages may re-show a hosted figure that directly evidences their headline claim;
 source entry stays the canonical home). Wired: ROADMAP WS9 row, LOOP.md Related loops,
 BACKLOG lane flipped to "work the queue".
+
+---
+
+## 2026-07-17 — Figure loop waves 1–3 (autonomous, session ij2cr3; Floyd's go 2026-07-17)
+
+T1 selection protocol tightened per Floyd's re-review ask (LOOP-FIGURES step 4: enumerate
+all figures, anchor to entry text, rank + justify, adversarial pass, high-confidence-or-
+nothing). Waves shipped, each figure visually verified and synced live on commit:
+
+- **Wave 1:** glaeser-gyourko-housing-supply (w23833 Fig 3, HP/MPPC vs permitting — Fig 2
+  rejected as three-case anecdote) · jones-marinescu-alaska-pfd (w24312 Fig 2, both
+  panels incl. placebo band; caption flags the part-time response).
+- **Wave 2:** larson-us-land-value (BEA Fig 3, $20.8T→$26.2T→$23T; US federal work =
+  public domain credit) · gyourko-krimmel-zoning-tax (w28993 Fig 4, zoning-tax IQR —
+  carries the entry's own $ figures).
+- **Wave 3:** dors-land-taxes-housing-prices (DØRS 2017:1 Fig 1, the capitalization
+  quasi-experiment made visible).
+
+Stamps (findings, survive queue regeneration — builder now carries them + lists a
+Stamped section): no-chart = oates-schwab, arnott-stiglitz-HGT, gaffney-hidden-taxable-
+capacity, hsieh-moretti, mazzucato-mapping-rents, stiglitz-land-credit, doucet-does-
+georgism-work (charts are reproductions), gaffney-neoclassical-stratagem, progress-and-
+poverty, mirrlees-review. blocked = dye-england (Lincoln form gate), albouy-ehrlich-shin
+(needs mirror), harrison-power-in-the-land (book scan → Hermes). Queue: 323 open
+candidates, 22 re-embed placements pending. 9 entries now carry figures.

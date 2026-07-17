@@ -240,6 +240,33 @@ FIGURES = [
                     "<em>Journal of Urban Economics</em> 126 — reproduced for "
                     "comment and review.</span>"),
     },
+    {
+        "key": "dors-fig1",
+        "entry": "research/dors-land-taxes-housing-prices.md",
+        "pdf_url": ("https://dors.dk/files/media/publikationer/arbejdspapirer/"
+                    "2017/02_arbejdspapir_land_tax.pdf"),
+        "page": 9,
+        "clip": (140, 375, 455, 572),
+        "dpi": 300,
+        "alt": ("Line chart of average prices for Danish single-family homes, "
+                "2000 to 2008, in thousands of DKK, split into areas where the "
+                "land tax would later fall versus rise. The two lines track each "
+                "other until the 2004 reform announcement (first vertical line), "
+                "then diverge: by the 2007 implementation (second vertical line) "
+                "homes in lower-land-tax areas sell for roughly 100,000 DKK more, "
+                "about 1,600 versus 1,490 thousand DKK by 2008."),
+        "caption": ("Figure 1 from the paper: average single-family house prices "
+                    "in Danish municipalities where the 2007 amalgamation reform "
+                    "lowered versus raised the land tax (grundskyld). Identical "
+                    "trends before the 2004 announcement (first line); after it, "
+                    "prices rise less where the land tax rose — the visible "
+                    "quasi-experiment behind the paper's finding that land-tax "
+                    "changes are fully capitalized into prices. "
+                    "<span class=\"figure-credit\">Source: Høj, Jørgensen &amp; "
+                    "Schou, <em>Land Taxes and Housing Prices</em>, De Økonomiske "
+                    "Råd Working Paper 2017:1, Figure 1 — reproduced for comment "
+                    "and review.</span>"),
+    },
 ]
 
 
