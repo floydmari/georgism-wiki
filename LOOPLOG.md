@@ -902,3 +902,21 @@ CC-BY-4.0 carve-out, mandatory descriptive alt text, prefer OA versions, hosted-
 Linter taught that HTML attribute values (alt text) are not quotations (the 50-word quote
 cap no longer false-positives on figure alts). Next-candidates list added to BACKLOG NOW
 (Piketty U-curve, Larson, Davis-Heathcote, Hoyt PD-check, etc.). Lint 0 errors.
+
+---
+
+## 2026-07-16b — Figures live on Ghost + the figure-sourcing loop stood up (session ij2cr3)
+
+Floyd's follow-up: sync + design the loop. (1) The four figure-bearing pages synced to
+Ghost and verified live (figure + caption + credit + alt each; Ghost's Lexical round-trip
+strips the class attribute but keeps the <figure> markup): bonnet-land-is-back ·
+rognlie-capital-share · great-mortgaging · knoll-schularick-steger-house-prices.
+(2) The one-off became a loop, WS9: `LOOP-FIGURES.md` (runbook: ≤4 figures/shift, T1 picks
+the load-bearing chart, mandatory visual verification, no-chart/blocked stamps are
+findings) + `scripts/build_figure_queue.py` (deterministic pre-pass — scores all
+research/books entries by tier, inbound links, outcome wiring, PDF accessibility; skips
+figure-bearing entries) + seeded `sources/figure-queue.md` (341 open candidates, top-40
+queued, 13 re-embed placements). EDITORIAL §3c gains the re-embed rule (outcome/problem/
+benefit pages may re-show a hosted figure that directly evidences their headline claim;
+source entry stays the canonical home). Wired: ROADMAP WS9 row, LOOP.md Related loops,
+BACKLOG lane flipped to "work the queue".
