@@ -195,7 +195,7 @@ frees the land, land taxation makes holding it idle unaffordable.
    statement of the housing-as-land-crisis case (D-claims, attributed).
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *Rethinking the Economics of
    Land and Housing*, Zed Books / New Economics Foundation, 2017.
-   [NEF summary](https://neweconomics.org/2017/02/rethinking-economics-land-housing) ·
+   [NEF summary](https://neweconomics.org/2017/02/britains-housing-crisis-get) ·
    [wiki summary](/wiki/ryan-collins-rethinking-land-housing/) — used for the
    land–credit feedback loop (C/D-claims, attributed).
 3. Katharina Knoll, Moritz Schularick & Thomas Steger, "No Price Like Home: Global

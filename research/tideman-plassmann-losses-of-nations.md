@@ -91,9 +91,10 @@ tracked in `sources/verification-backlog.md`.
 
 ## Sources
 
-1. Nicolaus Tideman & Florenz Plassmann, in Fred Harrison (ed.), *The Losses of
-   Nations* (Othila Press, 1998).
-   [PDF (sharetherents mirror)](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
+1. Nicolaus Tideman & Florenz Plassmann, "Taxed Out of Work and Wealth: The Costs of
+   Taxing Labor and Capital," in Fred Harrison (ed.), *The Losses of Nations* (London:
+   Othila Press, 1998), pp. 146–174.
+   [PDF (sharetherents mirror) — DEAD LINK, no working copy or archived snapshot found as of 2026-07-17](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
    — used for thesis and venue (A-claims; full text unfetched from this
    environment). Carried into the wiki via
    [*Boom Bust*](/wiki/harrison-boom-bust/), Ch. 14 §2 (Heavy scan).

@@ -38,5 +38,5 @@ The US case is a patchwork, not a program: Pennsylvania's split-rate cities are 
 
 ## Sources
 
-1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, Zed Books — the discovery source for this page (Ch. 5, Ch. 7, discussing US non-recourse mortgage law, Pennsylvania split-rate taxation, and antitrust history); not independently re-read chapter-by-chapter this session. [wiki summary](/wiki/rethinking-economics-land-housing/) · [Publisher/NEF summary](https://neweconomics.org/2017/02/rethinking-economics-land-housing)
+1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, Zed Books — the discovery source for this page (Ch. 5, Ch. 7, discussing US non-recourse mortgage law, Pennsylvania split-rate taxation, and antitrust history); not independently re-read chapter-by-chapter this session. [wiki summary](/wiki/rethinking-economics-land-housing/) · [Publisher/NEF summary](https://neweconomics.org/2017/02/britains-housing-crisis-get)
 2. Wikipedia, "Land value tax in the United States" — used for the Hyattsville (1898), Fairhope/Arden single-tax colonies, Pennsylvania split-rate city count, Pittsburgh 1913–2001 dates, and Altoona 2011–2016 episode (A-claims; basic facts). [Wikipedia](https://en.wikipedia.org/wiki/Land_value_tax_in_the_United_States)
