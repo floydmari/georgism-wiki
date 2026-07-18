@@ -9,7 +9,7 @@ supported_by: [banzhaf-lavery-pa-sprawl, cho-two-rate-density, taranu-verbeeck-p
 challenged_by: [bentick-mills-timing-neutrality, brueckner-kim-sprawl, gemmell-grimes-skidmore-nz]
 related_places: [pennsylvania, pittsburgh, harrisburg-pennsylvania]
 excerpt: "Split-rate taxation increases housing density in the locations where it is applied — the mechanism anti-sprawl arguments predict — but whether this reduces sprawl at the metropolitan level depends on where the tax is adopted."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 > **At a glance** — Taxing land more heavily than buildings raises development density where it is applied — the mechanism anti-sprawl arguments predict — but whether that reduces sprawl at the metropolitan level remains inferential and depends on where the tax is adopted.
@@ -26,8 +26,16 @@ The theoretical argument runs as follows. A tax on land value cannot reduce the 
 
 This connects to broader Georgist concerns about [land speculation](/wiki/land-speculation/) and [speculative vacancy](/wiki/speculative-vacancy/): idle land held for appreciation is the low-density frontier of sprawl, and LVT is designed precisely to penalise that behaviour. The [ecological Georgism](/wiki/ecological-georgism/) framing extends the argument further — denser development means less land conversion, lower per-capita infrastructure costs, and reduced transportation externalities.
 
-The theoretical case predates Brueckner's formal model by over a decade. Mason
-Gaffney's 1973 essay argues taxing land, rather than buildings, removes a
+The theoretical case predates Brueckner's formal model by over two decades.
+[Gaffney's 1964 essay](/wiki/gaffney-containment-policies-urban-sprawl/) —
+the earliest statement of the argument in the wiki's corpus — already makes
+the core case: "negative" containment (greenbelts, zoning) fails because
+builders leapfrog it, while distance-graduated utility pricing plus "levying
+heavy taxes on the base of site value" makes land "cheap to buy, but dear to
+hold." He documents postage-stamp utility pricing subsidizing fringe
+development at the dense center's expense — the same cross-subsidy mechanism
+his 1978 Synergistic City essay restates more abstractly.[8] Mason Gaffney's
+1973 essay argues taxing land, rather than buildings, removes a
 specific bias toward sprawl built into credit markets: because land holding
 costs (absent taxes) are pure interest, and interest is systematically
 cheaper for wealthy "strong hands" than for credit-constrained buyers,
@@ -132,6 +140,7 @@ The honest assessment is that the theoretical mechanism is well-established and 
 - [Banzhaf & Lavery (2010) — Can the Land Tax Help Curb Urban Sprawl?](/wiki/banzhaf-lavery-pa-sprawl/)
 - [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the pre-Brueckner theoretical statement of the credit-discrimination and logrolling mechanisms
 - [Gaffney (1969): Land Planning and the Property Tax](/wiki/gaffney-land-planning-property-tax/) — the planner-empowerment argument, including synchronized open-space planning under a land-value tax base
+- [Gaffney (1964): Containment Policies for Urban Sprawl](/wiki/gaffney-containment-policies-urban-sprawl/) — the earliest Gaffney statement of the site-value-tax anti-sprawl case in the wiki's corpus
 - [Ecological Georgism](/wiki/ecological-georgism/)
 - [Land Speculation](/wiki/land-speculation/)
 - [Speculative Vacancy](/wiki/speculative-vacancy/)
@@ -146,3 +155,4 @@ The honest assessment is that the theoretical mechanism is well-established and 
 5. Florenz Plassmann & Nicolaus Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2):216–247 — [wiki summary](/wiki/plassmann-tideman-construction/) — used for the same comparison.
 6. Mason Gaffney (1973), "Land Rent, Taxation, and Public Policy: Taxation and the Functions of Urban Land Rent," *American Journal of Economics and Sociology* 32(1): 17–34 — used for the pre-Brueckner theoretical statement of the credit-discrimination and logrolling mechanisms behind sprawl (C-claim, attributed, historical context only — not wired as empirical evidence). [wiki summary](/wiki/gaffney-urban-land-rent/) · [PDF](https://masongaffney.org/publications/E12-LandRentTaxation%26PublicPolicy-TaxationUrbanLandRent.CV.pdf)
 7. Mason Gaffney (1969), "Land Planning and the Property Tax," *AIP Journal*, May 1969, pp. 178–183 — used for the synchronized-open-space-planning argument (D-claim, Gaffney's own argument addressed to planners, historical context only — not wired as empirical evidence). [wiki summary](/wiki/gaffney-land-planning-property-tax/) · [PDF](https://masongaffney.org/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf)
+8. Mason Gaffney (1964), "Containment Policies for Urban Sprawl," Chapter X in Richard L. Stauber (ed.), *Approaches to the Study of Urbanization* (Governmental Research Center, University of Kansas), pp. 115–133 — used for the historical-priority statement of the site-value-tax anti-sprawl argument and the postage-stamp utility-pricing cross-subsidy mechanism (C-claim, Gaffney's own theoretical argument, historical context only — not wired as empirical evidence). [wiki summary](/wiki/gaffney-containment-policies-urban-sprawl/) · [PDF](https://masongaffney.org/publications/E3Containment_policies.CV.pdf)

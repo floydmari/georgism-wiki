@@ -1510,3 +1510,26 @@ four expanded-page blurbs still accurate, evidence_strength buckets spot-checked
 across all 28 — NO edits needed, verified-clean is the recorded outcome.
 Registry +3 rows; triage 3 rows checked; inventory regenerated. 873 pages,
 lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney urban-housing cluster (E14 reconciled; E3+E22 mined; E1/E37 declined)
+
+E14 reconciliation: the unchecked row IS the synergistic-city page's sole source
+(Lincoln Colloquium 1977 / Real Estate Issues 1978 match) — but the page had been
+built from an ABSTRACT-ONLY read; PDF fetched and read in full this wave, registry
+Light→Heavy, page enriched with the two missed findings (pollution/open-space
+myth-busting; postage-stamp cross-subsidy mechanism, cross-linked to its earlier
+1964 statement). Two new pages: research/gaffney-containment-policies-urban-sprawl
+(874th) — the 1964 Kansas chapter, EARLIEST corpus statement of the LVT anti-sprawl
+argument (negative/neutral/positive containment trichotomy; "cheap to buy, but
+dear to hold"), wired into lvt-reduces-sprawl as historical priority, kept OUT of
+supported_by per convention; research/gaffney-land-as-element-of-housing-costs
+(875th) — the 1968 IDA/HUD study: pre-Oates capitalization argument for credit-
+constrained buyers + the federal holdout-reward tax catalogue (1031, stepped-up
+basis), wired into housing-affordability likewise as context-not-evidence, dated
+1968 tax specifics flagged. DECLINED with reasons: E1 (1958 USDA — now the
+earliest dated work known, but content overlaps existing coverage; flagged as
+future priority-correction candidate), E37 (zero-addition vs new-life-in-old-
+cities + urban-land-rent; [VERIFY] on its undated provenance). All five fetched
+native-text from masongaffney.org (%26 fix again clean). Registry E14 upgraded
++2 new rows (none for declines, C2 precedent); triage 5 rows checked, batch-5
+narrative. Inventory regenerated. 875 pages, lint 0 errors.

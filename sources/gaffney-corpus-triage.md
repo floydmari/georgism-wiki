@@ -13,7 +13,8 @@ gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance,
 gaffney-alaska-oil-leasing, gaffney-land-market-distortions, gaffney-california-severance-tax,
 gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depletion-land-rent,
 gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy,
-gaffney-rising-inequality-farm-property-tax, gaffney-urban-land-rent;
+gaffney-rising-inequality-farm-property-tax, gaffney-urban-land-rent,
+gaffney-containment-policies-urban-sprawl, gaffney-land-as-element-of-housing-costs;
 narratives/the-corruption-of-economics; people/mason-gaffney.
 
 **2026-07-18 (tier-2 batch 4 — priority correction + farm-subsidy incidence + time-indivisibility):**
@@ -305,6 +306,40 @@ was explicitly *not* wired as new evidence — flagged as corroboration only,
 per the delta rule already applied on concepts/land-monopoly to the same
 mechanism from C9/D1/E12.
 
+**2026-07-18 (tier-2 batch 5 — URBAN-HOUSING cluster: reconciliation + sprawl
+priority correction + housing-cost tax catalogue):** Started with a
+reconciliation sub-task: E14 (`E14Synergistic_City.CV.pdf`) was listed
+unchecked despite research/gaffney-synergistic-city already existing and
+citing the same PDF. Fetched and fully read it (the page had previously been
+built from an abstract-only read) — confirmed it is the identical work
+("The Synergistic City," *Real Estate Issues*, Winter 1978), upgraded
+registry Scan Depth from Light to Heavy, and enriched the page with two
+findings the earlier partial read had missed (the pollution/open-space
+myth-busting argument, and the postage-stamp cross-subsidy pricing
+mechanism). Then fetched and skimmed all four URBAN-HOUSING candidates —
+E1 (1958), E22 (1968), E37 (undated, ~late 1990s/2000s), E3 (1964) — and
+mined the two most substantive: **E3, "Containment Policies for Urban
+Sprawl"** (1964 University of Kansas book chapter) — see
+[research/gaffney-containment-policies-urban-sprawl](/wiki/gaffney-containment-policies-urban-sprawl/) —
+is a **priority correction**: the earliest Gaffney statement of the
+land-value-tax anti-sprawl argument in the wiki's corpus, predating the
+already-cited 1969 and 1972-73 essays by five to nine years, with a
+concretely worked-out postage-stamp-utility-pricing mechanism and the "cheap
+to buy, dear to hold" formulation later restated more abstractly in E14.
+**E22, "Land as an Element of Housing Costs"** (1968 IDA/HUD study) — see
+[research/gaffney-land-as-element-of-housing-costs](/wiki/gaffney-land-as-element-of-housing-costs/) —
+contributes an early, pre-Oates capitalization argument specifically
+explaining why land taxation helps credit-constrained low-income buyers, plus
+an exhaustive Federal-income-tax-code holdout catalogue distinct from the
+zoning/supply story already covered. Both wired as historical/theoretical
+context (not empirical evidence), per the E10/E11/E12 convention already
+established for Gaffney's own non-econometric arguments. E1 (1958,
+*Yearbook of Agriculture* — now the earliest dated work in the wiki's
+Gaffney corpus, predating C4 by three years) and E37 (the "Path to Justice"
+chapter) were read but declined pages this wave — see their triage rows
+below for the reasoning; E1 in particular is flagged as a strong
+priority-correction candidate for a future wave.
+
 ## Inventory (masongaffney.org, fetched 2026-07-16: 190 files)
 
 ### /publications/ (87)
@@ -330,12 +365,12 @@ mechanism from C9/D1/E12.
 - [x] `E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf — [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/), 2026-07-18 (Part I; merged with E12). Confirmed via masongaffney.org as *American Journal of Economics and Sociology* 31(3): 241-258 (July 1972). Same literal-ampersand mirror-404 problem as D1; fetched directly from masongaffney.org with `%26` percent-encoding.
 - [x] `E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf — [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/), 2026-07-18 (Part II; merged with E11). Confirmed via masongaffney.org as *AJES* 32(1): 17-34 (January 1973). Same mirror/encoding workaround as E11/D1.
 - [ ] `E13Changes_in_Land_Policy.CV.pdf` — https://masongaffney.org/publications/E13Changes_in_Land_Policy.CV.pdf
-- [ ] `E14Synergistic_City.CV.pdf` — https://masongaffney.org/publications/E14Synergistic_City.CV.pdf
+- [x] `E14Synergistic_City.CV.pdf` — https://masongaffney.org/publications/E14Synergistic_City.CV.pdf — reconciled 2026-07-18: confirmed this is the exact PDF already cited as the sole source of [research/gaffney-synergistic-city](/wiki/gaffney-synergistic-city/) (title page, venue, and date all match: Lincoln Institute Colloquium on Land Policy, Oct. 28, 1977; *Real Estate Issues*, Winter 1978, pp. 36-61). The page had previously been built from an abstract-only read (registry Scan Depth: Light); fetched and fully read the native-text PDF this session, upgraded Scan Depth to Heavy, and enriched the page's Overview with two findings not previously on it (the pollution/open-space myth-busting argument and the postage-stamp cross-subsidy pricing mechanism, the latter cross-linked to its earlier, more concrete 1964 statement in E3 below).
 - [ ] `E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf` — https://masongaffney.org/publications/E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf
-- [ ] `E1Urban_Expansion_Stop.CV.pdf` — https://masongaffney.org/publications/E1Urban_Expansion_Stop.CV.pdf
-- [ ] `E22-LandasanElementofHousingCosts.CV.pdf` — https://masongaffney.org/publications/E22-LandasanElementofHousingCosts.CV.pdf
-- [ ] `E37Ground_Rent_Urban_Decay_&amp;_Revival.CV.pdf` — https://masongaffney.org/publications/E37Ground_Rent_Urban_Decay_&amp;_Revival.CV.pdf
-- [ ] `E3Containment_policies.CV.pdf` — https://masongaffney.org/publications/E3Containment_policies.CV.pdf
+- [x] `E1Urban_Expansion_Stop.CV.pdf` — https://masongaffney.org/publications/E1Urban_Expansion_Stop.CV.pdf — read 2026-07-18 but declined a page this wave. *Urban Expansion — Will It Ever Stop?*, Yearbook Separate No. 2931, reprinted from the 1958 USDA *Yearbook of Agriculture*, pp. 503-522 — this is now the earliest dated work in the wiki's Gaffney corpus (predates C4, 1961, by three years), written while Gaffney was associate professor of agricultural economics at the University of Missouri. Rich, wide-ranging popular-press essay: an access/agglomeration argument that prefigures the 1964 and 1978 pieces below, plus a substantial diagnosis of land-speculation dynamics (capital-gains tax favoring speculators, property-tax assessment lag, land-boom financing leverage and collapse, population-forecast-driven overestimates of land demand) — but no explicit land-value-tax policy prescription in the excerpts read (the piece calls generally for "lowering the prices asked for urban land" without naming the mechanism). Declined a dedicated page this wave because its strongest material overlaps existing coverage (agglomeration/access economics duplicates the fuller E14 and E3 treatments below; land-boom dynamics overlaps [research/gaffney-land-booms-destroy-capital](/wiki/gaffney-land-booms-destroy-capital/), though that page's mechanism is a distinct, later 1993/2005 working paper) rather than being a clean own-topic fit for this wave's two picks. Flagged as a strong priority-correction candidate for a future wave (earliest-known-publication claim) or as an addition to [people/mason-gaffney](/wiki/mason-gaffney/)'s bibliography note. OCR not needed (native text via plain `pdftotext`, though the original two-column 1958 print layout causes some column interleaving in extraction — checked against context before any quoting). Text mirror: `sources/gaffney/text/E1Urban_Expansion_Stop.CV.txt`. No registry row added (not wired to a wiki page), per the C2 precedent.
+- [x] `E22-LandasanElementofHousingCosts.CV.pdf` — https://masongaffney.org/publications/E22-LandasanElementofHousingCosts.CV.pdf — [research/gaffney-land-as-element-of-housing-costs](/wiki/gaffney-land-as-element-of-housing-costs/), 2026-07-18. IDA Study S-324 / HUD H-931 (October 1968), Gaffney's own paper only (pp. 1-37 of a two-paper volume; Richard F. Muth's companion paper on housing demand not reviewed). Chosen as one of this wave's two picks: an early, pre-Oates capitalization argument specifically explaining why land taxation helps credit-constrained low-income buyers, plus an exhaustive catalogue of Federal income-tax provisions rewarding land holdout (covert depreciation write-off via understated assessor splits, exemption of imputed and unrealized income, Section 1031 barter, capital gains forgiven at death) — a mechanism for high housing costs distinct from the zoning/supply-constraint story already on benefits/lvt-improves-housing-affordability. Wired there as historical context (not empirical evidence), per the E11/E12 convention. Native text, no OCR needed.
+- [x] `E37Ground_Rent_Urban_Decay_&amp;_Revival.CV.pdf` — https://masongaffney.org/publications/E37Ground_Rent_Urban_Decay_&amp;_Revival.CV.pdf — read 2026-07-18 but declined a page this wave. "The Role of Ground Rent in Urban Decay and Revival: How to Revitalize a Failing City," a chapter (pp. 58-83) in *The Path to Justice* (a Georgist anthology; internal evidence — a citation to "Schwab (1998)" and a note about the Japanese land-value crash — dates it to the late 1990s/2000s, exact year `[VERIFY]`). A warm, anecdotal, commencement-style essay (addressed to graduating students) restating the standard Georgist case for reviving declining cities via a land-value tax base, already thoroughly covered on the wiki via [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/) (2006, empirical) and [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/) (1972-73, theoretical). Genuinely new content is thin: a footnoted response to the environmentalist "LVT causes overdevelopment" objection ("the tax encourages more intensive development of the sites with greatest value, leaving sites of lesser value... undisturbed" — with a fallback endorsement of urban growth boundaries "in this imperfect world") is the one citable nugget, but it restates rather than extends the reasoning already carried on objections/lvt-causes-overdevelopment's supporting pages. Zero-addition/fold verdict: declined. Confirmed the ampersand-mirror-404 problem does NOT apply here — masongaffney.org serves the PDF directly with `%26` percent-encoding, same as D1/E11/E12/B5/B13. Native text, no OCR needed. Text mirror: `sources/gaffney/text/E37Ground_Rent_Urban_Decay_and_Revival.CV.txt`. No registry row added (not wired to a wiki page), per the C2 precedent.
+- [x] `E3Containment_policies.CV.pdf` — https://masongaffney.org/publications/E3Containment_policies.CV.pdf — [research/gaffney-containment-policies-urban-sprawl](/wiki/gaffney-containment-policies-urban-sprawl/), 2026-07-18. Confirmed via web search as Chapter X in Richard L. Stauber (ed.), *Approaches to the Study of Urbanization* (Governmental Research Center, University of Kansas, 1964), pp. 115-133 (also reprinted as a Robert Schalkenbach Foundation pamphlet). Chosen as this wave's other pick: **priority correction** — the earliest Gaffney statement of the land-value-tax anti-sprawl argument in the wiki's corpus, predating the already-cited 1969 (E10) and 1972-73 (E11/E12) essays by five to nine years, with a concretely worked-out (not just asserted) postage-stamp-utility-pricing cross-subsidy mechanism and the "cheap to buy, dear to hold" formulation of site-value taxation. Wired into benefits/lvt-reduces-sprawl as historical-priority context (not empirical evidence), per the E10/E11/E12 convention, and cross-linked from research/gaffney-synergistic-city (E14 above), which restates the same cross-subsidy argument more abstractly fourteen years later. Native text, no OCR needed.
 - [ ] `E4-TaxReformtoReleaseLand.CV.pdf` — https://masongaffney.org/publications/E4-TaxReformtoReleaseLand.CV.pdf
 - [ ] `E5-WhenToBuildWhat-LocalServicePricingPolicies.CV.pdf` — https://masongaffney.org/publications/E5-WhenToBuildWhat-LocalServicePricingPolicies.CV.pdf
 - [ ] `E7Prop_taxes_&amp;_Urban_Renewal.CV.pdf` — https://masongaffney.org/publications/E7Prop_taxes_&amp;_Urban_Renewal.CV.pdf
