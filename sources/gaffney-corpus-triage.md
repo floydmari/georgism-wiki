@@ -10,8 +10,43 @@ gaffney-synergistic-city, gaffney-hidden-taxable-capacity, gaffney-land-distinct
 gaffney-after-the-crash, gaffney-causes-of-downturns, gaffney-land-booms-destroy-capital,
 gaffney-europes-fatal-affair-with-vat, gaffney-full-employment-tax-reform,
 gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance,
-gaffney-alaska-oil-leasing, gaffney-land-market-distortions;
+gaffney-alaska-oil-leasing, gaffney-land-market-distortions, gaffney-california-severance-tax,
+gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depletion-land-rent;
 narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-18 (T2 wave — natural-resource-taxation cluster):** Four forestry/soil
+publications read, drafted, and wired: *Concepts of Financial Maturity of Timber
+and Other Assets* (1957, A.E. Information Series No. 62, NC State College — see
+[research/gaffney-financial-maturity-timber](/wiki/gaffney-financial-maturity-timber/)),
+*Alternative Ways of Taxing Forests* (1980) + *Greater Social Benefits from our
+National Forests* (1977) combined on
+[research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/), and *Soil
+Depletion and Land Rent* (1965, *Natural Resources Journal* 4(3): 537-557 —
+see [research/gaffney-soil-depletion-land-rent](/wiki/gaffney-soil-depletion-land-rent/)).
+Notable findings: (1) the 1957 timber monograph is Gaffney's most externally,
+academically cited single work (81 Semantic Scholar citations; credited by
+Gaffney's own 2008 retrospective, and independently by D.H. Newman's 2002
+*Journal of Forest Economics* historiography, with helping trigger the 1957-76
+revival of Faustmann's formula that culminated in Samuelson's 1976 endorsement)
+— graded **Important**, not Core, since its direct contribution to the Georgist
+argument is one neutrality result plus a historical Faustmann-George linkage
+Gaffney only made explicit in 2008, not a flagship rent-capture statement; (2)
+the monograph is NOT Gaffney's PhD dissertation and has no Duke affiliation —
+his actual dissertation is "Land Speculation as an Obstacle to Ideal Allocation
+of Land" (UC Berkeley, 1956) — corrected on the new page; (3) *Soil Depletion
+and Land Rent* (a peer-reviewed law-journal article) gives a formal economic
+answer to the "depletable resources are used up" caveat in
+objections/land-is-just-capital.md, wired there as a new Response point; (4) the
+1977 National Forests address supplies a third institutional-failure mode
+(chronic non-capture in an ongoing public asset, via agency accounting
+doctrines) for benefits/resource-rent-capture-works.md, distinct from Norway/
+Botswana (design succeeding) and California (capture built, then lost).
+Extended (not restated) concepts/resource-rents.md with a new "Rent Capture in
+Forestry" subsection. B5's masongaffney.org filename has a literal ampersand
+that broke the automated R2 mirror (archive.progress.org 404s under every
+encoding tried); the live masongaffney.org URL and the UNM Digital Repository
+(the journal's own open-access host) are the working citations — flagged for a
+mirror re-run, not fixed this session.
 
 **2026-07-17 (T2 wave):** *Oil and Gas Leasing Policy for Alaska* (1977, Part I only —
 Part II Appendices A-L not covered) read, drafted, and wired into
@@ -46,16 +81,16 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 ### /publications/ (87)
 - [ ] `1977_Counter-colonial_Land_Policy_for_Montana.pdf` — https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf
 - [x] `2006_New_Life_in_Old_Cities.pdf` — https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf — [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/), 2026-07-16
-- [ ] `A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf` — https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf
-- [ ] `A3-AlternativeWaysofTaxingForests.CV.pdf` — https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf
-- [ ] `A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf` — https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf
+- [x] `A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf` — https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf — [research/gaffney-financial-maturity-timber](/wiki/gaffney-financial-maturity-timber/), 2026-07-18. Title/venue verified from the document: A.E. Information Series No. 62, NC State College, Sept. 1957 — NOT a Duke dissertation (Gaffney's actual PhD dissertation is a separate 1956 UC Berkeley work); graded Important on strong external academic standing (81 Semantic Scholar citations, Samuelson 1976 endorsement, credited with the 1957-76 Faustmann revival).
+- [x] `A3-AlternativeWaysofTaxingForests.CV.pdf` — https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf — combined with A5 into [research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/), 2026-07-18. Dated "Number 43, March 1980" in the document; publication venue/series not identified (`[VERIFY]` on page).
+- [x] `A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf` — https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf — combined with A3 into [research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/), 2026-07-18. Western Timber Association address, March 4, 1977.
 - [ ] `B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf
 - [x] `B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf — [research/gaffney-alaska-oil-leasing.md](/wiki/gaffney-alaska-oil-leasing/), 2026-07-17. Part II (Appendices A-L, line above) not covered this wave.
 - [ ] `B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf` — https://masongaffney.org/publications/B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf
 - [ ] `B1Extractive_Resources_Conclusion.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf
 - [ ] `B1Extractive_Resources_Intro.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf
 - [ ] `B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf` — https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf
-- [ ] `B5Soil_Depletion_&amp;_Land_Rent.CV.pdf` — https://masongaffney.org/publications/B5Soil_Depletion_&amp;_Land_Rent.CV.pdf
+- [x] `B5Soil_Depletion_&amp;_Land_Rent.CV.pdf` — https://masongaffney.org/publications/B5Soil_Depletion_&amp;_Land_Rent.CV.pdf — [research/gaffney-soil-depletion-land-rent](/wiki/gaffney-soil-depletion-land-rent/), 2026-07-18. Actually *Natural Resources Journal* 4(3): 537-557 (Jan. 1965), not undated as filename implies. Wired into objections/land-is-just-capital (Response point 5 + Limits caveat cross-reference). Note: the R2 mirror at this ampersand-containing key 404s (see `[VERIFY]` on the page) — masongaffney.org direct link and the UNM Digital Repository (open-access journal host) are the working free/legal sources.
 - [ ] `C2-LandandRentinWelfareEconomics.CV.pdf` — https://masongaffney.org/publications/C2-LandandRentinWelfareEconomics.CV.pdf
 - [ ] `C4-UnwieldyTime-DimensionofSpace.CV.pdf` — https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf
 - [ ] `C6-Counter-ColonialLandPolicyforMontana.CV.pdf` — https://masongaffney.org/publications/C6-Counter-ColonialLandPolicyforMontana.CV.pdf

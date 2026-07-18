@@ -5,6 +5,7 @@ tags: [concepts, resource-rents, natural-resources, severance-tax, resource-curs
 stub: false
 supports_outcomes: [resource-rent-capture-works]
 excerpt: "The economic rent from natural resources — oil, minerals, spectrum, fisheries — which Georgist analysis treats like land rent: socially capturable without efficiency loss."
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -53,6 +54,34 @@ underpricing an ex post, reserves-based charge is designed to avoid. (D-claim:
 design argument and administrative-practicality reasoning in a commissioned
 government report, not an econometric estimate.)
 
+## Rent Capture in Forestry — Gaffney on Site-Value vs. Yield Taxation
+
+Standing timber is a renewable, but time-dependent, resource whose rent-capture
+design questions parallel oil and gas: which tax base best targets the site's
+rent without distorting the extraction (harvest) decision? Gaffney's [1957
+Faustmann monograph](/wiki/gaffney-financial-maturity-timber/) establishes the
+underlying neutrality result: **a constant annual tax on site value alone
+leaves the economically optimal harvest rotation completely unchanged**, because
+the tax's effect on the incremental cost of waiting is exactly offset by an
+equal effect on site rent — the timber-economics analogue of the land-value-tax
+neutrality argument ([ATCOR](/wiki/atcor/)) applied to a *timing* decision
+rather than a static one. By contrast, a **property tax on standing timber
+itself** hastens harvest (owners minimize the tax base by holding less
+capital), and a **severance/yield tax** (levied only at harvest) lengthens
+rotations and, on Gaffney's calculation, requires a rate around **38% of
+stumpage value** to replace the revenue lost from a 1-percentage-point cut in
+a standing-timber property tax — a rate high enough to create "a strong
+intertemporal bias against short investment cycles," penalizing intensive
+management on the best sites most severely.[9] Applying the same site-rent
+logic to *public* forestland, Gaffney argued the US Forest Service's roughly
+$42 billion in National Forest holdings (Marion Clawson's estimate) were
+earning essentially no return relative to that imputed capital cost — proposing
+Congress require the Service to account for its holdings' opportunity cost the
+way private landowners already must under property taxation.[9] (D-claims:
+design/incidence arguments in a technical monograph and applied policy essays,
+not econometric estimates — see the [full page](/wiki/gaffney-forest-taxation/)
+for the honest scope caveats.)
+
 ## Book Findings
 
 ### Barnes: Rent Capture for Common Assets
@@ -83,6 +112,9 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — ecological limits to rent extraction
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — severance-tax incidence and net-proceeds design
 - [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the leasing-side ad valorem charge design
+- [Gaffney: Alternative Ways of Taxing Forests / Greater Social Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — forest site-value vs. yield taxation and public-lands rent capture
+- [Gaffney (1957): Concepts of Financial Maturity of Timber and Other Assets](/wiki/gaffney-financial-maturity-timber/) — the underlying site-value-tax neutrality result
+- [Gaffney (1965): Soil Depletion and Land Rent](/wiki/gaffney-soil-depletion-land-rent/) — exhaustible-resource rent theory and the ad valorem/severance design principle
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
@@ -93,3 +125,6 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 4. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the ecological limits framework applied to resource rent extraction (C/D-claims). [Book page](/wiki/ecological-economics-daly/)
 5. Mason Gaffney (2006), "A Severance Tax on California Oil?," masongaffney.org — used for the four-condition incidence analysis, the royalty-offset mechanism, and the net-proceeds tax-base design (D-claim, advocacy essay). [wiki summary](/wiki/gaffney-california-severance-tax/) · [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf)
 6. Mason Gaffney (1977), "Oil and Gas Leasing Policy: Alternatives for Alaska in 1977" — used for the ad valorem charge (AVC) design and the 1965 Prudhoe Bay lease-sale anecdote (D-claim, commissioned government report). [wiki summary](/wiki/gaffney-alaska-oil-leasing/) · [PDF](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf)
+7. Mason Gaffney (1957), "Concepts of Financial Maturity of Timber and Other Assets," A.E. Information Series No. 62, NC State College — used for the site-value-tax rotation-neutrality result (D-claim, technical monograph). [wiki summary](/wiki/gaffney-financial-maturity-timber/) · [PDF](https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf)
+8. Mason Gaffney (1965), "Soil Depletion and Land Rent," *Natural Resources Journal* 4(3) — used for the exhaustible-resource rent theory and the ad-valorem-to-severance-as-exhaustion-nears design principle (C-claim, peer-reviewed law journal). [wiki summary](/wiki/gaffney-soil-depletion-land-rent/) · [PDF](https://masongaffney.org/publications/B5Soil_Depletion_%26_Land_Rent.CV.pdf)
+9. Mason Gaffney (1980/1977), "Alternative Ways of Taxing Forests" and "Greater Social Benefits From our National Forests" — used for the private forest tax-base comparison (property/site-value/yield/income) and the National Forests public-lands rent-capture argument (D-claims, advocacy essay/address). [wiki summary](/wiki/gaffney-forest-taxation/) · [PDF (A3)](https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf) · [PDF (A5)](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)

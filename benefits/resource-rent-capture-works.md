@@ -4,6 +4,7 @@ challenged_by:
 - sachs-warner-resource-curse
 claim_type: benefit
 evidence_strength: "Strong for the flagship case (Norway), conditional in general — capture works where fiscal design and institutions are strong; the resource curse is real where they are weak"
+last_reviewed: 2026-07-18
 excerpt: 'High-rate capture of natural-resource rent is workable and durable: Norway
   taxes petroleum at a 78% marginal rate on a cash-flow basis, has banked over $2
   trillion in the world''s largest sovereign wealth fund, and spends only ~3% a year
@@ -23,6 +24,7 @@ supported_by:
 - baunsgaard-vernon-windfall-profits
 - gaffney-california-severance-tax
 - gaffney-alaska-oil-leasing
+- gaffney-forest-taxation
 tags:
 - outcomes
 - resource-rents
@@ -34,7 +36,7 @@ title: Capturing resource rent works — where institutions are strong
 ---
 
 > **At a glance** — Capturing a finite resource's rent at a high rate works in practice where fiscal design and institutions are strong — Norway is the flagship — while the resource curse remains real where they are weak.
-> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **11 supporting** sources · **0 challenging**
+> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **12 supporting** sources · **0 challenging**
 > **Strongest support:** [Lie (2018)](/wiki/lie-norwegian-oil-fund/) — Norway's ~78% petroleum rent capture built a sovereign fund now worth over $2 trillion without deterring extraction. **Strongest counter:** the resource-curse literature (Sachs & Warner 1995/2001) — resource-rich economies grow more slowly *on average*, and [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) shows rent windfalls eroding local tax effort and accountability; capture works where institutions are strong and curses where they are weak. See Why It Isn't Automatic.
 
 ## The Claim
@@ -171,6 +173,33 @@ same rent-targeting logic the IMF and Mintz & Chen make above.[9] The lesson for
 one-time achievement: it can be lost to a tax reform aimed at an entirely different
 target, not only to weak institutions or the classic resource curse.
 
+## A Renewable-Resource Case — Rent Chronically Uncaptured, Not Lost
+
+Norway, Botswana, and Alaska show design succeeding; California shows capture
+built, then lost to an unrelated tax reform. **The US Forest Service shows a
+third failure mode: rent that was never captured at all, in an ongoing,
+government-owned asset, because of the agency's own accounting incentives.**
+Applying the site-rent logic Gaffney had worked out for oil and gas leasing to
+a renewable resource, he estimated (via Marion Clawson's contemporaneous
+accounting) that the Forest Service's National Forest timber and land holdings
+were worth roughly **$42 billion** in 1977, against which the Service's actual
+1974 cash receipts merely offset its cash outlays — implying an annual
+opportunity cost, at a conservative 5% imputed rate, of about **$2.1
+billion** that dwarfed the water-regulation and recreation benefits the
+Service could point to.[11] The mechanism, on Gaffney's account, was internal
+accounting rather than resource-curse corruption or a political tax shock:
+the Service's "allowable cut effect" doctrine let it credit new investment
+with an arbitrarily large share of mature-timber value, obscuring the true
+carrying cost of its standing inventory, while its "culmination of mean
+annual increment" management standard is, mathematically, the rule that
+would apply only if capital were free — the same zero-interest-rate result
+Gaffney had derived for private forestry two decades earlier.[11][12] The
+general lesson complements the California case: **capture can fail not only
+by being lost to an unrelated shock, but by never having existed inside a
+public agency whose own performance metrics never charge it for the capital
+it ties up** — a failure mode ordinary tax-incidence and resource-curse
+analysis, both aimed at private or extractive rent, do not directly address.
+
 ## Honest Scope (rent gradient)
 
 Resource rent sits a step away from the clean land case: it is genuine location/
@@ -205,6 +234,7 @@ necessary; the institutions are what make it sufficient.
 - [Learning by Failing: The Origins of the Norwegian Oil Fund](/wiki/lie-norwegian-oil-fund/) — how Norway's institutions were built
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the state-level case of capture built, then lost, to Proposition 13
 - [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the design-stage case, written as the Permanent Fund was created
+- [Gaffney: Alternative Ways of Taxing Forests / Greater Social Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — the renewable-resource, chronic-non-capture case (US Forest Service)
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -259,3 +289,16 @@ necessary; the institutions are what make it sufficient.
     — used for the 1965 Prudhoe Bay lease-sale anecdote and the "ad valorem charge"
     design proposal (commissioned government consulting report, not peer-reviewed;
     corroborating, not load-bearing).
+11. Mason Gaffney (1977), "Greater Social Benefits From our National Forests," an address
+    to the Western Timber Association — [wiki summary](/wiki/gaffney-forest-taxation/) ·
+    [PDF](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)
+    — used for the $42 billion National Forest valuation, the 1974 receipts/outlays
+    figures, and the "allowable cut effect" critique (industry-association address,
+    not peer-reviewed; corroborating, not load-bearing).
+12. Mason Gaffney (1957), "Concepts of Financial Maturity of Timber and Other Assets,"
+    A.E. Information Series No. 62, NC State College —
+    [wiki summary](/wiki/gaffney-financial-maturity-timber/) ·
+    [PDF](https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf)
+    — used for the original zero-interest-rate derivation of "culmination of mean
+    annual increment" that the 1977 National Forests critique applies to public
+    lands (technical monograph, not itself about resource-rent capture policy).

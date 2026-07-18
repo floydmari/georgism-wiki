@@ -1018,3 +1018,18 @@ personality-trait effects added. Top needs-new-source item closed.
 Cincinnati queue scan: NDSPN report ingested (supplementary), queue item consumed;
 sources/wiki-queue.json established as canonical committed intake.
 843 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney timber/resource cluster + P&P follow-ups
+
+Three research pages (quotes PDF-verified): gaffney-financial-maturity-timber (1957
+NC State monograph — NOT Duke, NOT the dissertation, both corrected; tier Important on
+external evidence: 81 citations, Newman 2002 historiography beside Samuelson 1976);
+gaffney-forest-taxation (1977+1980 pair; site-value preference, 38%-equivalent yield-tax
+calc; Forest Service as $42B undercapitalized asset -> resource-rent-capture gains the
+renewable-resource institutional-failure case); gaffney-soil-depletion-land-rent (1965
+Natural Resources Journal, peer-reviewed — land-is-just-capital objection gains the
+fertility-depreciation response). P&P follow-ups earlier in wave: Spencer reversal with
+George's 1897 footnote; land-monopoly Book VIII ch.I; rentier 1879 antecedent; Rogers/
+Fawcett series; black-death<->Clark 2007 tie. Infra: B5 ampersand key broke the public
+mirror URL — re-uploaded ampersand-free, manifest updated, live 200. Gaffney corpus now
+15 research pages + person page; remaining tier-2 queued in triage ledger. lint 0 errors.

@@ -7,7 +7,7 @@ born: 1923
 died: 2020
 sources: [gaffney-1994, gaffney-2009]
 excerpt: "American economist (1923–2020) at UC Riverside, among the most rigorous and prolific 20th-century academic defenders of Henry George’s land economics; co-author of The Corruption of Economics, originator of the ATCOR thesis, and adviser to governments on land taxation."
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-18
 ---
 
 ## Life and Career
@@ -40,6 +40,9 @@ The thesis is controversial among academic economists but is supported by consid
 - **[A Better Way of Gauging the Excess Burden of Shiftable Taxes (2005)](/wiki/gaffney-excess-burden-shiftable-taxes/)** — a working paper proposing to measure excess burden by tax-induced shifting of land to lower uses, rather than by conventional Harberger-triangle modeling
 - **[The Philosophy of Public Finance (1998)](/wiki/gaffney-philosophy-of-public-finance/)** — Chapter 7 of Fred Harrison (ed.), *The Losses of Nations*, setting out the philosophical case for site value taxation and a formal algebraic derivation of ATCOR; now the earliest confirmed dated use of the named "ATCOR" acronym, three years before the 2005 working paper's fuller statement
 - **[Two Centuries of Economic Thought on Taxation of Land Rents (1982)](/wiki/gaffney-two-centuries-land-taxation/)** — a historiographical survey, in Lindholm & Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary* (University of Wisconsin Press), sorting roughly sixty economists from Quesnay to the 1970s — Smith, Ricardo, Mill, Marshall, Walras, Wicksell, J. B. Clark, Knight, and many others — into five camps by their stated sympathy toward taxing land rent
+- **[Concepts of Financial Maturity of Timber and Other Assets (1957)](/wiki/gaffney-financial-maturity-timber/)** — a technical forest-economics monograph (A.E. Information Series No. 62, NC State College) deriving the Faustmann formula from marginalist first principles; Gaffney's most academically cited single work (81 Semantic Scholar citations), credited with triggering the 1957-76 revival of interest in Faustmann's formula that led to Paul Samuelson's landmark 1976 endorsement
+- **[Alternative Ways of Taxing Forests (1980) / Greater Social Benefits from our National Forests (1977)](/wiki/gaffney-forest-taxation/)** — a private-forest tax-design survey (property, site-value, yield, and income tax bases compared) paired with a Western Timber Association address applying the same site-rent logic to argue the US Forest Service's roughly $42 billion in National Forest holdings earned no economic return
+- **[Soil Depletion and Land Rent (1965)](/wiki/gaffney-soil-depletion-land-rent/)** — a *Natural Resources Journal* paper building a four-category taxonomy of soil fertility (matrix, conservable flow, revolving fund, expendable surplus) to show that most agricultural land income remains genuine rent even accounting for exhaustible fertility
 
 ## See Also
 
@@ -69,3 +72,6 @@ The thesis is controversial among academic economists but is supported by consid
 9. Gaffney, "The Philosophy of Public Finance" (1998), Ch. 7 in Fred Harrison (ed.), *The Losses of Nations* — used for the philosophical case for site value taxation and the earliest dated use of the "ATCOR" name. [wiki summary](/wiki/gaffney-philosophy-of-public-finance/)
 10. Gaffney, "Oil and Gas Leasing Policy: Alternatives for Alaska in 1977" — used for the ad valorem charge design and the Alaska leasing-policy advisory work. [wiki summary](/wiki/gaffney-alaska-oil-leasing/)
 11. Gaffney, "Factitious Locational Obsolescence and Misguided Capital Consumption" (WP041) and "How Wayward Land Markets Lead to Misallocating Capital" (WP042), both undated (c. 1993) — used for the land-substituting capital taxonomy and buyer typology. [wiki summary](/wiki/gaffney-land-market-distortions/)
+12. Gaffney, "Concepts of Financial Maturity of Timber and Other Assets" (1957) — used for the Faustmann-formula derivation and the monograph's academic-citation standing. [wiki summary](/wiki/gaffney-financial-maturity-timber/)
+13. Gaffney, "Alternative Ways of Taxing Forests" (1980) and "Greater Social Benefits from our National Forests" (1977) — used for the forest tax-design survey and the National Forests critique. [wiki summary](/wiki/gaffney-forest-taxation/)
+14. Gaffney, "Soil Depletion and Land Rent" (1965), *Natural Resources Journal* 4(3) — used for the soil-fertility rent taxonomy. [wiki summary](/wiki/gaffney-soil-depletion-land-rent/)
