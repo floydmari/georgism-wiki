@@ -258,12 +258,19 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
    accessed only via secondary-source summaries (see the `[VERIFY]` note above).
    [Wiley (paywalled)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-7295.1976.tb00437.x)
 4. Mason Gaffney (2008), "Keeping Land in Capital Theory: Ricardo, Faustmann,
-   Wicksell, and George," *American Journal of Economics and Sociology* 67(2) —
-   used for Gaffney's own retrospective account of the 1957-76 "flurry of
+   Wicksell, and George," *American Journal of Economics and Sociology* 67(1):
+   119–142 — used for Gaffney's own retrospective account of the 1957-76 "flurry of
    interest" in reviving Faustmann, the Hirshleifer/Samuelson reception, and the
-   explicit George connection (quote ≤50 words verified against the working-paper
-   text, which matches the published AJES version's abstract/argument).
+   explicit George connection. Corrected issue number (previously miscited as
+   67(2)) and quotation re-verified this session directly against the
+   masongaffney.org PDF — image-only scan, no embedded text layer; read via a full
+   250dpi Tesseract 5.3.4 re-OCR (`sources/gaffney/text/K2008_Keeping_Land_in_Capital_Theory.txt`).
+   The Clark/Knight-vs-Austrians "period of production" material and Wicksell's
+   three capital-theory contributions from this same paper are folded into
+   [concepts/marginal-productivity](/wiki/marginal-productivity/) rather than here, to
+   keep this page's scope on Faustmann/timber.
    [Working-paper PDF (UC Riverside)](https://economics.ucr.edu/papers/papers07/07-14.pdf) ·
+   [Full PDF (masongaffney.org)](https://masongaffney.org/publications/K2008_Keeping_Land_in_Capital_Theory.pdf) ·
    [AJES (paywalled)](https://onlinelibrary.wiley.com/doi/10.1111/j.1536-7150.2007.00562.x)
 5. Semantic Scholar, paper record for "Concepts of financial maturity of timber
    and other assets" (Gaffney) — used for the 81-citation count (accessed via API

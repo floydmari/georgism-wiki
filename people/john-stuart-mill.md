@@ -4,7 +4,7 @@ category: people
 tags: [people, mill, classical-economics, unearned-increment, land-reform, land-tenure-reform-association]
 stub: false
 excerpt: "Philosopher and economist (1806–1873) who coined the 'unearned increment' of land and proposed taxing future land-value gains — a direct forerunner of Georgism, though a more gradualist one who would compensate existing owners."
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -48,7 +48,10 @@ is the central fault line between moderate and thoroughgoing land reform to this
 In 1869 Mill lent his prestige to founding the **[Land Tenure Reform
 Association](/wiki/land-tenure-reform-association/)** (LTRA), and in 1871 he wrote its
 *Programme* with an explanatory statement — his last major public campaign before his death
-in 1873. The programme's most striking planks were **heavy taxation of the unearned
+in 1873. Mill personally recruited [Alfred Russel Wallace](/wiki/alfred-russel-wallace/) to
+the LTRA in these years; Wallace, newly turned to land reform, deferred to Mill as its
+"veteran economist and social leader" and only struck out on his own more radical
+nationalisation program after Mill's 1873 death.[4] The programme's most striking planks were **heavy taxation of the unearned
 increment** of land values and the promotion of **cooperative agriculture**, alongside the
 abolition of primogeniture and entail and the reclamation of waste lands for the public. The
 LTRA was small and short-lived, but its programme carried the unearned-increment idea into
@@ -122,3 +125,9 @@ classical tradition rather than outside it.
    activity" characterization of Mill's Land Tenure Reform Association work
    (attributed; quotations re-verified against the source PDF).
    [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)
+4. Mason Gaffney (1997), "Alfred Russel Wallace's Campaign to Nationalize Land," *American
+   Journal of Economics and Sociology* 56(4): 609–615 — used for Mill personally recruiting
+   Wallace to the LTRA and Wallace's deference to Mill until Mill's 1873 death (A-claim;
+   quotation independently verified against a fresh re-OCR of the scanned source). Full
+   treatment on [Alfred Russel Wallace](/wiki/alfred-russel-wallace/).
+   [PDF (masongaffney.org)](https://masongaffney.org/publications/K17-AlfredRusselWallacesCampaign.CV.pdf)

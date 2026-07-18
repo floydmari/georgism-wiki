@@ -17,6 +17,51 @@ gaffney-rising-inequality-farm-property-tax, gaffney-urban-land-rent,
 gaffney-containment-policies-urban-sprawl, gaffney-land-as-element-of-housing-costs,
 gaffney-water-rent-taxation; narratives/the-corruption-of-economics; people/mason-gaffney.
 
+**2026-07-18 (K-series — history-of-economic-thought cluster):** Surveyed all
+unchecked K rows. Two were already resolved before this wave started: K142
+("Two Centuries of Economic Thought on Taxation of Land Rents") was already
+mined into [research/gaffney-two-centuries-land-taxation](/wiki/gaffney-two-centuries-land-taxation/)
+as of 2026-07-17 (contrary to this wave's initial briefing, which assumed it
+might still be unmined), and K1 ("Neo-classical Stratagem") had its checkbox
+reconciliation-fixed in a prior wave. Of the five genuinely unchecked K rows,
+three were mined and two declined. **Mined:** K9 (Stabile's "Henry George's
+Influence on John Bates Clark," *AJES* 54(3) 1995, with Gaffney's appended
+comment) and K2008 ("Keeping Land in Capital Theory," *AJES* 67(1) 2008) —
+both folded as deltas into
+[concepts/marginal-productivity](/wiki/marginal-productivity/),
+[people/john-bates-clark](/wiki/john-bates-clark/), and
+[people/philip-wicksteed](/wiki/philip-wicksteed/) (K9's Wicksteed-priority
+claim); K2008 additionally reconciled a prior-wave loose end — it was already
+quoted once on [research/gaffney-financial-maturity-timber](/wiki/gaffney-financial-maturity-timber/)
+but had never been registered in sources/registry.csv and its issue number was
+miscited (67(2) instead of 67(1)), both now fixed. K17 (Gaffney's "Alfred
+Russel Wallace's Campaign to Nationalize Land," *AJES* 56(4) 1997) was mined
+as a delta into the existing [people/alfred-russel-wallace](/wiki/alfred-russel-wallace/)
+page, with a light cross-link into [people/john-stuart-mill](/wiki/john-stuart-mill/).
+**Declined, no fold:** K18 (McGlynn/Leo XIII) and K2012 (Going My Way? —
+Georgism and Catholicism) are both substantive but are religious/political
+history, not history-of-economic-thought, and their factual content on the
+1886–1892 McGlynn/Corrigan/Rome conflict is already better-sourced (primary
+correspondence, not a secondary conference paper) on the existing
+[people/edward-mcglynn](/wiki/edward-mcglynn/) page. **Motive-claims handling:**
+K9's appended Gaffney comment is sharply more motive-attributing than the
+Stabile article it responds to ("Clark never intended to follow George except
+as a U-Boat stalks a troopship"; "Clark's main objective was to fuse and
+confuse land with capital") and Gaffney's Wicksteed-priority argument is his
+own polemical framing — both carried under the same attributed D-claim
+convention established on C9, cross-linked to
+[Missemer & Pottier](/wiki/missemer-pottier-land-labor-capital/)'s
+peer-reviewed counter-read wherever the claim touches Clark's land/capital
+merger specifically. **OCR notes:** K9, K17, and K18 are 300dpi scanned images
+with a garbled legacy OCR text layer baked into the PDF (using standard
+WinAnsi-encoded base-14 fonts rather than embedded fonts — misreading
+"Gaffney" as "GFrFx," "Marx" as "Maix," etc.); K2008's embedded text layer was
+completely empty. All three re-OCR'd this session at 250–300dpi with
+Tesseract 5.3.4, resolving the K9/K17 garbling and producing K2008's only
+usable text; canonical `.txt` files saved to `sources/gaffney/text/`.
+Registry: three new rows (K9 and K2008 tier `core`, Scan Depth Heavy; K17
+tier `important`, Scan Depth Heavy). `lint_wiki.py`: 0 errors.
+
 **2026-07-18 (H-series complete — water cluster triage finished):** Follow-on
 wave completing the H-series (water) rows opened by the prior batch-6 wave,
 which mined H3+H21 into [research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/).
@@ -529,11 +574,11 @@ priority-correction candidate for a future wave.
 - [ ] `I6A-1996_Taxes_Capital_and_Jobs_1978_revised.pdf` — https://masongaffney.org/publications/I6A-1996_Taxes_Capital_and_Jobs_1978_revised.pdf
 - [ ] `I6Taxes_Capital_and_Jobs.CV.pdf` — https://masongaffney.org/publications/I6Taxes_Capital_and_Jobs.CV.pdf
 - [x] `K142_Centuries_Thought_Land_Taxation.CV.pdf` — https://masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf — [research/gaffney-two-centuries-land-taxation](/wiki/gaffney-two-centuries-land-taxation/), 2026-07-17
-- [ ] `K17-AlfredRusselWallacesCampaign.CV.pdf` — https://masongaffney.org/publications/K17-AlfredRusselWallacesCampaign.CV.pdf
-- [ ] `K18George_McGlynn_and_Leo_XIII.pdf` — https://masongaffney.org/publications/K18George_McGlynn_and_Leo_XIII.pdf
+- [x] `K17-AlfredRusselWallacesCampaign.CV.pdf` — https://masongaffney.org/publications/K17-AlfredRusselWallacesCampaign.CV.pdf — read in full, 2026-07-18. "Alfred Russel Wallace's Campaign to Nationalize Land: How Darwin's Peer Learned from John Stuart Mill and Became Henry George's Ally," *AJES* 56(4) (Oct. 1997): 609–615. The wiki already carried a well-sourced [people/alfred-russel-wallace](/wiki/alfred-russel-wallace/) page built from Wallace's own primary texts (his 1880/1882 works) and NHM archival records, so this piece was folded as a **delta**, not a rewrite: the compensation-annuity's precise design (limited to "lives in being," based only on pre-nationalization net income, not highest-and-best-use), Mill's Land Tenure Reform Association personally recruiting Wallace (also folded, lightly, into [people/john-stuart-mill](/wiki/john-stuart-mill/)), the post-1873 turn to Wallace's own 1881 Society and his criticism of Parnell's peasant-proprietorship scheme, Asquith's "Tax or Buy" pincer slogan, the contrast with Huxley/Spencer/Sumner social Darwinism, and Gaffney's closing 1947-Planning-Act assessment. **OCR note:** the masongaffney.org PDF is a 300dpi scanned image with a garbled legacy OCR text layer (misread "Gaffney" as "GFrFx," "Marx" as "Maix," etc.); re-OCR'd this session at 300dpi with Tesseract 5.3.4, which resolved these before quotation.
+- [x] `K18George_McGlynn_and_Leo_XIII.pdf` — https://masongaffney.org/publications/K18George_McGlynn_and_Leo_XIII.pdf — skimmed in full, 2026-07-18. **Declined, no fold, no registry row.** A 1997/2000 conference paper (34pp) on the McGlynn/Corrigan/Leo XIII church conflict, substantially personal/genealogical in its opening sections (Gaffney's own Fenian/Georgist family history) and otherwise a political-religious narrative largely superseded, for wiki purposes, by the existing [people/edward-mcglynn](/wiki/edward-mcglynn/) page — built from Henry George Jr.'s *Life of Henry George* with directly-quoted primary correspondence — which already covers the 1886 campaign, suspension, excommunication, and 1892 reinstatement in more granular, better-sourced detail. Grepped for economic-theory content (single tax, land value, rent, Ricardo, neoclassical, marginal) and found none beyond passing mentions of "the single tax" as a political label; this is religious/political history, not history-of-economic-thought, and out of this wave's cluster scope.
 - [x] `K1Neo-classical_Stratagem.CV.pdf` — https://masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf — reconciliation fix, 2026-07-18 (found while surveying this wave's candidate pool, not separately re-read): already the source for [research/gaffney-neoclassical-stratagem](/wiki/gaffney-neoclassical-stratagem/) and cited twice in sources/registry.csv (rows "Neo-classical Economics as a Stratagem Against Henry George" and "The Corruption of Economics") — the checkbox was simply never flipped when that page was built. No content change.
-- [ ] `K2008_Keeping_Land_in_Capital_Theory.pdf` — https://masongaffney.org/publications/K2008_Keeping_Land_in_Capital_Theory.pdf
-- [ ] `K2012_Going_My_Way.pdf` — https://masongaffney.org/publications/K2012_Going_My_Way.pdf
+- [x] `K2008_Keeping_Land_in_Capital_Theory.pdf` — https://masongaffney.org/publications/K2008_Keeping_Land_in_Capital_Theory.pdf — read in full, 2026-07-18. "Keeping Land in Capital Theory: Ricardo, Faustmann, Wicksell, and George," *AJES* 67(1) (Jan. 2008): 119–142. **Reconciliation + delta:** this paper was already partially quoted (one sentence) on [research/gaffney-financial-maturity-timber](/wiki/gaffney-financial-maturity-timber/) — with the issue number miscited as 67(2) — but had never been registered in sources/registry.csv and its checkbox was never flipped; both fixed. Beyond the Faustmann-formula material already covered on that page, this paper's most valuable unmined content is (a) the historiographical link between the Austrian "period of production" concept and the Clark/Knight-vs-Austrians feud (citing Stigler 1941: 278) as further evidence for the land-capital-merger thesis, and (b) three specific Wicksell contributions to capital theory (the "grape-juice" coexistence model, the wages-fund-to-wages-flow reformulation, and explicitly folding site rent into the wages-flow) — none of which appeared anywhere else on the wiki. Both folded into [concepts/marginal-productivity](/wiki/marginal-productivity/) rather than the timber page, to keep that page's scope on Faustmann/forestry. **OCR note:** the masongaffney.org PDF's embedded text layer was completely empty (image-only scan, `pdftotext` returned 0 words); read via a full 25-page, 250dpi Tesseract 5.3.4 re-OCR this session.
+- [x] `K2012_Going_My_Way.pdf` — https://masongaffney.org/publications/K2012_Going_My_Way.pdf — skimmed, 2026-07-18. **Declined, no fold, no registry row.** "Going My Way? Wending a Way Through the Stumbling Blocks between Georgism and Catholicism," *AJES* (2012; the source PDF is a pre-publication proof with volume/issue numbers left as placeholders, "Vol. ••, No. ••") — a wide-ranging essay on Georgist/Catholic social-doctrine tensions (social gospel vs. individual salvation, RCC sex-abuse scandals, Susan Pace Hamill's Alabama tax-reform campaign, etc.), explicitly building on and cross-referencing K18/McGlynn. Grepped for economic-theory content and found only passing policy mentions (land-value tax rates, generic references to taxing land values); no history-of-economic-thought content and no claims not already better-sourced elsewhere on the wiki (e.g. Hamill's Alabama campaign, if pursued, belongs with the wiki's US state tax-reform material, not this cluster). Out of this wave's scope; not pursued further.
 - [ ] `K9-StabileHGInfluenceonJBClarkMGComments.CV.pdf` — https://masongaffney.org/publications/K9-StabileHGInfluenceonJBClarkMGComments.CV.pdf
 - [ ] `L2018_Gaffney-Cobb-draft-Corporate-Power-&amp;-Military-2018-07-22.pdf` — https://masongaffney.org/publications/L2018_Gaffney-Cobb-draft-Corporate-Power-&amp;-Military-2018-07-22.pdf
 - [ ] `L2Rent-Seeking_and_Global_Conflict.CV.pdf` — https://masongaffney.org/publications/L2Rent-Seeking_and_Global_Conflict.CV.pdf

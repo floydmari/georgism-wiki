@@ -1,0 +1,966 @@
+A . Lhe |
+merican Journa @)
+and
+Vol. 67 January 2008 No. 1
+Editor’s Introduction... 0. ee eee es Wii
+IDEOLOGY AND POLITICAL PARTIES
+Henry George’s Political Critics—Michael Hudson ...............1
+GEORGE’S IDEAS IN DEBATE
+Henry George, Emile de Laveleye, and the Issue of Peasant
+Proprietorship—jerome F. Heavey ......0000000 00000 AT
+Frank H. Knight's Criticism of Henry George—Koss B. Emmett ..... 61
+SOCIAL PHILOSOPHY
+Apprehending the Social Philosophy of Henry George—
+Charles R. McCann, Jr. oo ee es OF
+CONCEPTUAL DEBATES REGARDING LAND AND RENT
+The Marginalists Who Confronted Land—Fred E. Foldvary ....... . 89
+Keeping Land in Capital Theory: Ricardo, Faustmann, Wicksell,
+and George—Mason Gaffney... 0.0.0 eee eee. 119
+COMMUNICATIONS
+Comment—Mark Perlman .. 0.000 ee 143
+Keeping Land in Capital Theory
+Ricardo, Faustmann, Wicksell, and George
+By MASON GAFENEY*
+Apsrract. Most economists today live in a two-factor world: There is
+just labor and capital. Land, so central to classical political economy,
+has been swallowed into capital and “disappeared.” This paper
+surveys some of the better historical treatments of land and capital,
+their interrelations, and how they support modern Georgists and
+Greens who want land to reappear.
+I
+Introduction
+
+David Ricardo had a theory of land rent, of course, plus a practical
+understanding of compound interest and the relationship of capital to
+labor. He wove these together in his theory of value. He saw how the
+flow of investing into creating jobs and incomes led to higher employ-
+ment; he was concerned that excessive conversion of working capital
+into fixed capital would reduce that vital flow. This concern would
+resurface with Mill, Jevons, the Austrians, Wicksell, and possibly—
+indirectly—in Keynes.
+
+Martin Faustmann showed how to convert irregular pulses of cost
+and revenue, as in forestry, into the level annual equivalent, to define
+and find the regular flow of site rent. He made this a performance
+standard to maximize. In the process he showed how to find the
+optimal time to harvest and replace forests. As an important byprod-
+uct, his formula shows that rents vary inversely with interest rates, and
+this effect tempers the effect of interest rates on financial maturity. An
+
+*The author is Professor of Economics at the University of California, Riverside.
+
+This paper was originally written for the annual meeting of the History of Economics
+Society CHES), Grinnell College, June 25, 2006. The writer thanks Robert Dimand for
+generous references to the literature; Mary M. Cleveland for editorial advice; and
+Marianne Johnson for insightful suggestions about integrating the materials.
+
+American Journal of Economics and Sociology, Vol. 67, No, 1 Qanuary, 2008).
+© 2008 American Journal of Economics and Sociology, Inc.
+120 The American Journal of Economics and Sociology
+
+even more important byproduct (quantitatively) is to adapt Faustmann
+to time the salvaging of sites under old buildings by clearing and
+renewing the sites.
+
+He showed how to convert the infinite flow of such rents into a
+present value, or discounted cash flow (DCF). His site value measure
+combines the DCF of generation 1 with the reuse value of a site,
+providing a mathematical basis for George’s later observations on the
+damage done by land speculation. There was a flurry of interest in
+reviving Faustmann from about 1957-1976. Economists now neglect
+his work again; some industrial foresters may be subverting it for
+wrong ends.
+
+Bohm-Bawerk and other Austrians revived Ricardo’s concept of
+working capital versus fixed capital, using other terminology while still
+crediting Ricardo’s priority. J. B. Clark and Frank Knight expurgated the
+Austrian idea of a “period of production” because it would up-end
+Clark/Knight’s conflation of land and capital. Knight’s Chicago School
+dominates academe today, while Austrians survive only in odd corners.
+
+Wicksell improved on BOhm-Bawerk in three ways. He “normal-
+ized” the model of tree growth, showing how Austrian capital inten-
+sity works as a relation of coexistence (at any moment of time), not
+just as a relation of sequence. Second, he restated the misunder-
+stood and maligned “wages-fund” theory as a “wages-flow” theory,
+a basis for reviving Ricardo’s concern that converting working
+capital to fixed capital would disemploy labor. Third, he insisted
+that the wages-flow employs land as well as labor—a finding
+implicit in Faustmann, also.
+
+Henry George divided land price into two parts: DCF from the
+current use, plus the DCF from all future generations of use. He
+observed that the value derived from the later generations, discounted
+to the present, often keeps land from its highest and best use today
+because of speculation. This effect, immanent in all land markets,
+makes landowners collectively act like a universal cartel, pushing
+labor and capital to lands of lower quality, depressing wage and
+interest rates.
+
+The policy implications are that George’s proposed policy of focus-
+ing taxes on land value, and relieving commerce, industry, labor, and
+capital from taxation, would enhance human welfare in many ways.
+Ricardo, Faustmann, Wicksell, and George 121
+Il
+How Ricardo’s Theory of Value Includes Land and Capital
+
+Ricarpo ([1817] 1963) opens his Principles by noting that “the value of
+(some commodities) is determined by their scarcity alone,” and
+exceeds the value of labor embodied in them ([1817] 1963: 5). One
+example he offers is “grapes grown on a particular soil, of which there
+is a very limited quantity.” That is, a wine’s ferroir adds to its value.
+On page 7 he generalizes that the value of a commodity is enhanced
+by the “additional quantity of labor which the cultivation of inferior
+land requires.” That is, its the labor required on marginal land that
+equals value. On better land it takes less labor to produce the same
+value, so rent enters into value (whether as cause or effect we need
+not settle here). It is misleading to call that a “labor theory of value,”
+as some do. One need only read Ricardo with reasonable sympathy to
+see that his value theory is quite sophisticated and comprehensive. He
+assumes, perhaps too sanguinely, that his readers will see the
+extended implications of matters he covers only tersely.
+
+As to capital, Sections IV and V of Chapter 1, “On Value,” are all
+about the incorporation of imputed interest into value:
+
+Value... varies with the unequal durability of capital, and by the unequal
+
+rapidity with which it is returned to its employer. ({1817] 1963: 21)
+
+In Chapter 31, “On Machinery,” Ricardo picks up these ideas again to
+show how a reallocation of capital from working capital to fixed
+capital may disemploy labor. Some later commentators have alleged
+that Ricardo didn’t really mean it, or was aberrant when he wrote it.
+Yet, it follows from his analysis in Chapter 1, Sections IV and V.
+Ricardo does not mention Ludd, and he carefully avoids endorsing
+smashing of machinery.
+
+It is common to interpret Jevons as anti-Ricardian. This may be a
+case of Jevons’s protesting too much, in his introduction, to differen-
+tiate his product from Ricardo’s. It may also be a case of one critic
+copying from another who copied from another, and so on, for if we
+read Jevons himself, he writes that his views “on this subject are in
+fundamental agreement with those adopted by Ricardo; (which they
+are)... (as opposed to) some later economists” (1957: 222). He then
+122 The American Journal of Economics and Sociology
+replicates Ricardo’s points as cited above (‘Theory of Capital,” Ch. 7,
+esp. 222-245).
+
+Austrian economists picked up on Ricardo’s basic idea, and gave
+him credit by describing their finding as “Ricardo effect.” They
+invented their own terminology, writing of “higher and lower orders
+of capital.” Their treatment of land is somewhat negligent and inci-
+dental; yet their “period of production” idea implies a sharp dis-
+tinction between capital, which has one, and land, which does not.
+It was for this underlying reason, according to Stigler, that J. B.
+Clark and Frank Knight feuded so long and intransigently against
+Austrians BOhm-Bawerk, Friedrich von Hayek, Fritz Machlup, and
+others (Stigler 1941: 278). Clark and Knight aimed to wipe out any
+bright line, or any line at all, between land and capital. If libertari-
+anism and anti-Marxism were the dominant issues, Chicagoans and
+Austrians would merge in mutual admiration and support. Instead,
+rampant Chicagoans let Austrians survive mainly on the margins of
+the profession.
+
+TH
+Martin Faustmann and Other Forest Economists
+
+MarTIN FAUSTMANN was a German forest economist, writing in 1849,
+who undertook to find the annual value of a forest site yielding a
+periodic future stream of revenues. The aim was to find the “highest
+and best use” (as we say today) of the site; to make commensurable
+different uses with different yields over different time periods and with
+different costs. He called this measure Bodenrente (ground rent).
+Anglophonic foresters call it “soil rent,” but soil per se is only one of
+several components that make forest sites yield rent: rain, tempera-
+ture, slope, hours and angle of sunshine, and access to markets are as
+or more important. I will denote it by “B,” for Bodenrente, and
+Anglicize it as ground rent or site rent. (See Table 1.)
+
+Faustmann began with the planting cost (P) of a tree at time zero.
+He compounded this forward to the time (7) of harvest, using a
+market rate of interest (4). Compounding P makes it commensurable
+with the net value of the harvest at time 7 (5, for stumpage, which is
+the sale value less the cost of harvest). Finally, he annualized (or
+Ricardo, Faustmann, Wicksell, and George 123
+Table 1
+n Harvest ime
+i Interest rate
+SFF Sinking fund factor
+P Planting cost
+S Stumpage (net sale value)
+NS Net stumpage = —Pe" + S
+B Ground rent
+“levelized,” as some prefer to say) this value by multiplying it times the
+sinking fund factor (SFF). Algebraically, we now have:
+SEF = i/[e” -1] (1)
+B=[—Pe” +S]x SFF (2)
+
+Note that we now have labor, capital, and land compressed into one
+expression, and maximizing this expression is a performance stan-
+dard, that is, the highest and best use of land subject to market wage
+rates (included in P and subtracted from S) and a market interest rate
+(found in i# and the SFF).
+
+Note also that the SFF accumulates the rent of the forest site, year
+by year with interest, into the value of the final product, 5. This is a
+point on which the great Knut Wicksell insisted, but that most other
+economists have omitted. Even Wicksell never expressed it as com-
+pactly or correctly as Faustmann in Equation (2). Ohlin hit on it in
+1921, but never developed it, and apparently never checked the
+forestry texts to credit Faustmann’s finding of 72 years earlier.
+
+To simplify the notation, I will now consolidate the items in the
+brackets into one, calling it net stumpage, or NS. Note, however,
+that these items may include a lot more than the P value [| am
+making invisible. There may be any number of intermediate costs
+and revenues at times other than time zero and time , the ones
+shown explicitly. Just compound each item forward to year , using
+the appropriate number of years in each case. That makes them
+124 The American Journal of Economics and Sociology
+commensurable so you may add (or subtract) them together. Fur-
+thermore, these intermediate revenues may be falling, rather than
+rising to a climax as in the forestry case. Thus, the formula can be
+adapted to apply to factories, office buildings, milk cows, or any-
+thing. The idea is to consolidate all intermediate values at one point
+in time, #, and then levelize them into Bodenrente. Now we have:
+B= NS x SFF @)
+
+This levelized Bodenrente applies to years zero to n. To capitalize the
+rent in perpetuity, divide Equation (3) by 7. Faustmann called this the
+“Site Expectation Value” (Bodenerwartungswerte). (In fact, that is how
+he originally derived his formula, which one may derive in several
+ways.) Dividing by icancels the numerator of Equation (1), so we have:
+
+Site value = NS/[e” — 1] (4)
+
+The pesky little “-1” in the brackets in the denominator of Equa-
+tion (4) makes the difference between the discounted cash flow (DCF)
+of one generation of land use, and the DCF of infinite repeating
+generations of land use.
+
+Foresters have preserved Faustmann’s forrnula in a few texts, but
+have not taken kindly to it. That is because it contains compound
+interest, which most foresters (not all) wish would go away. They
+dislike it because timber culture is so capital-intensive that it needs a
+low rate of interest to justify itself in competition with rival uses of
+land and capital—and foresters are in the business of justifying timber
+culture. Instead, they generally prefer another performance standard
+that Germans call Waldrente, and Anglophones call forest rent. This is
+NS/n, where P is not compounded forward to year m but just sub-
+tracted from S as though they were simultaneous (so NS =—P+ 8).
+This, of course, results in higher values of forest rent.
+
+We will soon see that this forest rent is the same as Faustmann’s
+ground rent where a zero interest rate is applied. I have seen no
+evidence that foresters derived it that way, or understand the relation-
+ship, although surely some do. Many of them, however, disparage
+Faustmann’s result as coming from putting mathematical or green-
+eyeshade values, which they scorn, above forest values, which many
+Ricardo, Faustmann, Wicksell, and George 125
+embrace rather too romantically. Let us not scoff, for they are sensitive
+to collateral forest values that one-dimensional financial “rationality”
+easily neglects. Rather, let us see what economists can learn from this.
+
+Above all, let us not think foresters put no value on time, just
+because they use a zero rate of interest. They are not maximizing NS,
+but NS/n, that is NS per year. NS per acre per year is site rent, once
+they have dismissed compound interest. In practice the forest man-
+agement regime that maximizes NS/n is sometimes fairly close to the
+one that maximizes Faustmann’s site rent, so that rough-and-ready
+foresters have set aside the differences as nitpicking. This is anti-
+intellectual and caters to innumeracy, and yet it contains an important
+lesson for economists. This is, when interest rates are low, rent rises,
+and stands in for interest as a cost of time. We return to this below.
+
+Very few have been found who anticipated Faustmann. Discussions
+are found in Samuelson (1976), Scorgi and Kennedy (1996), Gane
+(1968), Ince (1999), Brazee (2001), Lofgren (1983), and others. Ohlin
+discovered the principle, apparently independently, in 1921, 72 years
+after Faustmann, but never developed it or discovered it was already
+in the forestry literature. Other good discussions are in Bentley and
+Teeguarden (1965), Pearse (1967), Scott (1987), Ellerman (2004), and
+several works of David Klemperer (e.g., 1996, 2001).
+
+A. Capital Distinct from Land
+Note how Faustmann’s reasoning distinguishes clearly between capital
+and land. Ever since J. B. Clark, neoclassical economists have con-
+flated capital with land, denying the classical tripartite division of
+factors into land, labor, and capital. Yet, felling, trimming and bucking
+trunks, and hauling away logs separates a tree from its former site so
+visibly and materially it is hard to deny. It is true that the capital in the
+tree includes stored-up site rent, with interest—that is inherent in the
+SFF used in Faustmann’s formula. We will see later how Wicksell
+handled this last point.
+
+B. Two Sources of Site Value
+Site value is seen to consist of two distinct parts. The first part derives
+from the present use: Call it generation 1, or G;. Discount the NS from
+126 The American Journal of Economics and Sociology
+G, to the present in the usual way. Denote site value as W (from
+Werte). Add to that the DCF of all later generations, G2, as of time 1.
+This is also W (assuming identical future cycles of planting and
+growth). Discount it to the present. Now we have:
+
+w =[NS+W]/e™ (5)
+
+Solving for W, we have Equation (4) again:
+Ww =Ns/[e” -1] (4, repeated)
+Some will object, and rightly so, to the simplifying assumption that
+future cycles exactly replicate the first one. The formulation in Equa-
+tion (5) is useful when we want to adapt Faustmann to conditions
+when the expected value of W at time m exceeds the value from
+generation 1. Klemperer and Farkas (2001) have recently opened this
+topic in Forest Science, and there is an interesting but short literature
+on the impact of taxes on the “ripening” of suburban land into higher
+uses. It is mnemonic to call W from generation 1 the “possessory”
+value, and value from later generations the R value, where R stands for
+resale, reuse, regeneration, renewal, or another “re”-word meaning a
+new start on the old site. Some call it “speculative” value because the
+uncertainty of specific forecasts rises with their futurity and novelty.
+Anyone pursuing those threads may adapt Faustmann’s formulation
+to untangle them. It waited on Henry George (q.v.) to pursue them
+seriously. He was moved by observation and intuition, without benefit
+of formal capital theory. We will see how theory can throw light on the
+case that troubled George.
+C. Site Kent Rises as Interest Rates Fall
+
+This is a most important result, one that is flouted daily in the business
+press, in academic literature, and in pleas to redistribute wealth and
+income from rich to poor by lowering interest rates. In the two-factor
+world of neoclassical economists, land is just another form of capital;
+by implication, rents and interest rates must move in sympathy. This
+has become the working assumption behind many public policies,
+some introduced from the “left” and some from the “right,” but equally
+mistaken.
+Ricardo, Faustmann, Wicksell, and George 127
+Table 2
+The SFF=7/ [e”- 1] (as a Percentage, Rounded) with
+Different Values of the Interest Rate i and the Term 7
+iN no 5 10 20 50
+0.1 19.95 9.95 4.95 1.95
+0.5 19.75 9.75 4.75 1,76
+1 19.50 9.51 4.52 1.54
+3 18.54 8.57 3.65 0.86
+5 17.60 7.71 2.91 0.45
+10 15.41 5.82 1.57 0.07
+When interest rates rise, site rents fall. Equation (2) tells us there are
+two reasons for this. The more obvious reason is that P, the initial
+planting cost, is compounded forward to year n, using a market rate
+of interest, before being subtracted from S (stumpage) in year 7.
+The second reason is less obvious, but equally weighty and general:
+The SFF is also a decreasing function of i. This is not obvious because ,
+both the numerator and denominator of the SFF are increasing func-
+tions of % Both approach zero as 7 approaches zero, so we cannot
+demonstrate the point by the easy reductio ad extremum of letting 7
+equal zero. Rather, we can tabulate values of the SFF to show how it
+varies with i It approaches a limit of 1/7 as i 0. ] begin with very
+low values of i, so the top row of Table 2 makes the point.! Note that
+the values are rounded.
+D. When to Terminate Investment Cycles
+The best forest sites, the ones that are “warm, wet, and flat,” are where
+timber grows fastest, and where succeeding crops may be replanted
+soonest. Faustmann therefore focused on finding the optimal harvest
+time, to maximize site rent. This turns out to be the year when the
+value of timber’s current annual growth just covers the sum of interest
+on the stumpage (5) and the site rent (B). (Gaffney 1957 covers the
+interesting problem of simultaneously finding the highest and best
+value of B while also using it to determine itself.)
+128 The American Journal of Economics and Sociology
+
+From Table 2, when 2=50 and i=5 percent or more, the SFF is
+negligible compared with interest on S. Practical foresters often just
+ignore it. However, when #2=10 and i=5 percent, the SFF is 8
+percent, and plays a larger role than / in determining harvest dates. A
+great deal of timber now matures in less than 20 years, especially in
+the southeastern United States, where sites are “warm, wet, and flat,”
+and the Southern yellow pine thrives.
+
+When the interest rate falls, easing the pressure to harvest mature
+timber, site rent rises, partially offsetting and tempering the first effect.
+So the net effect of interest rates on harvest times is much weaker than
+the simpler analysis, still found in textbooks, would indicate.
+
+But replacement analysis concerns much more than timber. The
+greater practical role of site rent is in determining when to clear aged
+buildings and renew the site. Here there is no salvage value, but only
+a weak and dying cash flow or service flow. Ratcliff (1949) and
+Gaffney (19604, 1969) have addressed this case.
+
+Here is where site rent, B, is essential to the decision of timing. The
+salvage value of a decrepit, obsolete building is close enough to zero
+that we may ignore it. Unlike mature timber, it has no growth rate, so
+we cannot use the simple old formula that capital is mature when its
+growth rate equals the interest rate. If we were to use that formula for
+timber and generalize from it, we would be left with no reason at all
+to clear and renew sites with old buildings.
+
+The economic reason to tear down old buildings is to salvage
+their sites for future use, and begin realizing the potential rent. To
+calculate that rent, we pencil out the capital cost of rebuilding, the
+timing and value of future cash flows, and their likely duration.
+Then we “levelize” those values, just as Faustmann did for timber
+(Equations (2) and (3)).
+
+In this case it is customary and intuitive to make a procedural
+change from Faustmann. Instead of compounding all values forward
+ta the terminal year, », discount all future values to time zero, add
+them up, and subtract the initial capital cost, P. Then levelize them
+and convert them into the annual rent by applying the installment plan
+factor (IPF), which is the same as the SFF multiplied by e”. Thus the
+result is identical with compounding each value forward to year 1,
+and applying the SFF. I bring it up here because it corresponds more
+Ricardo, Faustmann, Wicksell, and George 129
+closely with the way builders see the matter, just as Faustmann
+corresponds with how foresters see it.
+
+Recent neoclassical theorists have done little with the question of
+when it is economical to salvage and renew urban sites. It is a practical
+and theoretical question of high and growing importance. I can only
+surmise that this neglect results from recent neoclassical training that
+suppresses thoughts that entail distinguishing land values from build-
+ing values. This training, in which moderns are heavily invested, tells
+them there are only two factors: labor and capital.
+
+Notice, now, how the rate of interest affects site rent. Higher interest
+rates mean lower site rents. Thus, instead of speeding the end of life of
+old capital, higher interest rates retard it, by lowering site rents, which
+are here the only cost of time, the only economic force prompting
+clearance and renewal. This makes sense in its own right; a builder
+faced with higher interest rates will perceive their force on his decision
+in his own way. But if economic theory is to help him, or predict what
+he will do, it needs the help of something like Faustmann’s formula.
+
+E. The Flurry of Interest in Faustmann, ¢. 1957-1975
+
+The revival of Faustmann’s work attracted a good deal of interest after
+1957. Jack Hirshleifer circulated it among the economic “elite,” while
+many forest economists saw it as a useful tool. Samuelson endorsed it.
+Among economists this interest died out after a while. Both Hirshleifer
+(1970) and his cotleagues Alchian and Allen later published works in
+which they regressed to the old winery example where wine is
+immature so long as its value is growing faster than the interest
+rate—with never a mention of site rent. Samuelson omitted it when
+holding up his end of the Cambridge controversy, where it might have
+helped his case.’ I can only surmise that this regression resulted from
+their discomfort, as neoclassical economists, with distinguishing land
+from capital.
+
+The support of industrial foresters was something of a Faustman-
+nian bargain. Industry economists seized on Faustmann to put a gloss
+of rationale on rapid cutting, even abusive cutting, such as clearing
+steep slopes, polluting streams and fisheries, roading erosively, endan-
+gering rare species, and so on. They attacked the U.S. Forest Service,
+130 The American Journal of Economics and Sociology
+
+using Resources for the Future, Inc. (R.F.F.) as a vehicle. Their influ-
+ence on R.FF, is manifest in the list of major contributors, listed in
+every annual report, that kept that organization afloat after the Ford
+Foundation withdrew its support after 1971. This writer, an R.F-F.
+associate rescarching the undertaxation of forests and forest land, was
+blandished and courted by timber lobbyists, declined, and soon found
+it better to accept work elsewhere. Trying to publish such findings in
+academic journals has been a nightmare: Industry tentacles reach deep
+into the clerisy.
+
+U.S. schools of forestry have become adjuncts of the industry, as
+their deans troll for grants and avoid offense. They influence many
+scholarly journals. A leading professor of forestry threatened to retali-
+ate professionally if I wrote that timber owners in 1944 secured
+preferential capital-gains tax treatment, while troops overseas were
+receiving 1040 tax forms at mail-call—a soldiers meager pay is
+“ordinary” income. A current incident illustrates the culture of com-
+plaisance with industry demands. An apolitical graduate student in the
+School of Forestry at Corvallis, Daniel Donato, found evidence that
+certain salvage logging practices retard regeneration. This finding
+troubled industry officers and allied state legislators. These admon-
+ished the dean, writing in the familiar, insolent tone a king might use
+with his jester. The dean and some senior professors joined an effort
+to stop Science from publishing the findings (Boxall and Wilson 2006).
+
+IV
+Eugen von Bohm-Bawerk and Other Austrians
+Boum-Bawerk, as is well known, published a weighty tome on capital
+theory, dueled over it with J. B. Clark, and helped found the Austrian
+School of economics. He dealt with financial maturity of timber, and
+discounted cash flow, and other basic elements of finance. In debating
+Clark, insofar as one can follow their involuted arguments, Bohm-
+Bawerk insisted that capital has a “period of production,” and stated
+or implied that land has none—a solecism to Clark. George Stigler,
+echoing Clark and Knight, objects to the Austrian School concept of a
+“period of production” because it presumes a difference between
+capital, which has one, and land, which does not (Stigler 1941: 278).
+Ricardo, Faustmann, Wicksell, and George 131
+
+There is no clue that B6hm-Bawerk ever heard of Faustmann, or
+consulted the vigorous and extensive German literature on forest
+economics. Like Alchian and Allen later, Bohm-Bawerk simply tells us
+that timber is immature as long as its value is growing faster than the
+interest rate. Wicksell archly expressed an expository problem that also
+stands between B6hm-Bawerk and most readers: “he loves to pile up
+difficulties in order that he may remove them later” (Gaffney 1983: 201).
+
+Vv
+Knut Wicksell
+WickseLt ([1893] 1954) MoDEsTLY paints himself as a “Swedish Austrian,”
+a disciple of Béhm-Bawerk. He then proceeds to improve on the
+master.
+
+One great contribution is his normalizing BOhm-Bawerk’s model
+of growth over time, a relation of sequence, into the corresponding
+relation of coexistence. His model uses maturing wine as the example,
+and economists often call it the “grape-juice model” (Wicksell [1901]
+1934: 172-176), but it applies to all growing capital like trees. Here he
+deftly converts B6hm-Bawerk’s model of an even-aged forest into the
+corresponding normalized or “going-concern” forest, where ages are
+staggered so there is at any time one tree of every age. The whole life
+span of a single tree is then represented simultaneously by a cross-
+section of the normalized forest.
+
+Wicksell then shows that the higher capital content of a longer-lived
+tree (the accumulated interest over time), which Bohm-Bawerk con-
+ceives in the time dimension, makes the normalized forest equally
+capital-intensive at every moment in time. A mathematician might sniff
+that he merely inverted the order of integration. Perhaps that is all he
+did mathematically and conceptually, but he did it in an economic
+model, while others were struggling unsuccessfully to fit Bohm-
+Bawerk’s ideas into their neoclassical models from which time had
+been largely banished—and rejecting or isolating the ideas when they
+could not fit them into their static, Clarkian models. From 1870-1920,
+“much of the economics was ...an economic theory of acapitalistic
+production. Considerations of capital theory proper... simply disap-
+pear from the picture” (Robbins 1934: xiv).>
+132 The American Journal of Economics and Sociology
+
+Wicksell immediately used his normalized model to demonstrate
+how a lower interest rate makes for a more capital-intensive economy,
+as trees (or wines) are replaced more slowly, so there is more timber
+outstanding at any given time, while the labor of planting and har-
+vesting remains constant. Conversely, a lower wage rate leads to
+shorter cycles so that more labor is employed per unit of capital.
+(Lower taxes on labor would have the same effect.) Factor proportions
+will adjust to match any given supply of capital with any given supply
+of labor.
+
+Thus, Wicksell used BOhm-Bawerk to complete Ricardo’s and J. S.
+Mill's and Jevons’s cruder demonstrations that factor proportions are
+malleable, and tend to an optimal! equilibrium with full employment of
+labor and capital, both. Adam Smith’s invisible hand had dealt mainly
+with commodities, Ricardo and Mill extended the idea to comprehend
+factor proportions as well. Marshall regressed in this respect toward
+Smith when he developed supply and demand analysis, mainly with
+respect to commodities with limited markets. The profession generally
+has followed Marshall’s commodity-based model. Even Keynes,
+dealing with aggregate supply and demand, limited demand by a
+propensity to save (in excess of investing) that allegedly rose with
+income. Keynes, while crediting Wicksell with some othe? inspira-
+tions, paid no heed to Wicksell’s simple “grape juice” demonstration
+of the variability of factor proportions. Keynesians for decades
+brushed such questions aside as mere “structural” issues, unworthy of
+their time. Latter-day “supply-siders” and “growth-men” continue to
+shunt them aside, focusing on raising GNP with fixed factor propor-
+tions as the single-minded goal of thought and policy.
+
+Friedrich and Vera Lutz (1951) repeat Wicksell’s normalized model,
+but then turn around and botch it, in an otherwise flawless book.
+They use their own rather stilted terminology, from which four-
+letter words like “land” and “site” are absent. They cite neither
+Faustmann’s nor Wicksell’s previous work. Having first arrived at
+Faustmann’s solution with a single-aged stand of timber, they claim
+the normalized model leads them back to a longer optimal rotation
+period. In a word, they do this by including land in the single-aged
+model, then omitting it from their normalized model. The details are
+in Gaffney (1957).
+Ricardo, Faustmann, Wicksell, and George 133
+
+Wicksell also contributed a correction and revival of the misappre-
+hended “wages-fund” theory. He correctly reformulated it as the
+“wages-flow” theory. It is the flow of capital into investing, not a fixed
+fund of capital, that hires workers and creates incomes, Wicksell
+showed how the flow/fund ratio rises when capital turns over faster,
+as in the grape-juice model, so a fixed fund of capital can generate
+more investing whenever a surplus of labor seeks jobs. Or, by slowing
+its turnover, it can afford more investment opportunities when the
+supply of capital is in surplus (Wicksell 1901: 193-194).
+
+Thus, Wicksell laid the groundwork for a macro economics, and
+policy measures derived therefrom, that would be based on real
+turnover of real capital, and not just flows of spending money
+(Gaffney 2003). Earl Rolph, in a stimulating but unpublished paper,
+tried to show that Keynes’s Treatise on Money incorporated such
+ideas—to which Rolph was cool. If Keynes did that then, he dropped
+it from his General Theory that became the basis of standard macro
+theory for years. Macro is the poorer for it. Wicksell’s turnover of real
+capital is what could have bridged and still should bridge the chasm
+between macro and micro, and save macro from the futility and
+frustration of latter-day devices like the Phillips curve, growth theory
+with fixed proportions, rational expectations, and Barro’s twist on the
+Ricardian equivalence theorem.
+
+A third Wicksell contribution was to incorporate land into his
+capital theory. He insists in his wages-flow theory that the flow of
+investing pays not just wages but site rent. This point was already
+inherent in Faustmann’s use of the SFE to define rent, but there is no
+evidence that Wicksell was any more aware of Faustmann than was
+the Austrian, BOhm-Bawerk. Faustmann had never related his work to
+any macro-economic idea like the wages-fund theory. Considering
+that all were central Europeans who published in German, it was a
+tueful isolation of related work into airtight compartments, to the
+impoverishment of all.
+
+A common way to dismiss Wicksell and B6hm-Bawerk is to allege
+that their theories and models apply only to timber, and a limited
+range of kinds of living and appreciating capital like timber and
+wine. My colleague Karl Uhr (R.LP.), a lifelong student of and
+leading authority on Wicksell, taught that. Hans Brems, a native
+134 The American Journal of Economics and Sociology
+
+Dane steeped in Wicksell, held a related opinion. Assets like timber
+and wine are now generally called “point-input, point-output” assets
+(PIPO), and treated, if treated at all, as a trivial, exceptional special
+case.
+
+This is a mathematical error. The PIPO case is the building block for
+all capital theory, from which its other familiar formulae are derived
+by summation. Discounted cash flow, sinking fund, compounded cash
+flow, installment plan factors, capitalization in perpetuity, internal rate
+of return... all can be derived, jointly or separately, as summations of
+geometrical progressions of PIPO cases. What is true for the basic
+element is likely to hold also for the summations. Above (Section
+I.C), I pointed out how Faustmann’s formula, ostensibly dealing with
+timber growth, can be adapted to deal with all capital assets, with any
+time-patterns of inputs and outputs whatsoever.
+
+To respond to the error of isolating the PIPO case, the writer has
+published a set of models showing how to replicate Wicksell’s grape-
+juice model with depreciating assets, or with a constant-valued asset
+of finite lifespan (Gaffney 1976). The last, the “cow-sow model,” is the
+easiest to grasp and requires little mathematics or capital theory. A
+cow is assumed to yield a constant milk flow over 10 years, then
+suddenly be slaughtered for the hide and meat, which are sold for
+exactly the original cost of birthing and weaning. There is a herd of
+cows whose ages are staggered. Cut the lifespan to five years, and the
+ratio of cows (capital) to the costs of slaughter and birthing Gabor) is
+halved. Let each cow require a fixed complement of land, and the
+ratio of land to labor is likewise halved.
+
+The “clean sock” model is even simpler, more homely and intuitive.
+To have a clean pair of socks every morning, | can have one pair of
+socks and wash them by hand every night. (Some can recall that
+situation, as soldiers or students.) If 1 choose to save labor by washing
+once a week, I will need seven pairs of socks, with added storage
+space, a hamper, a washer, and so on, Baumol (1965) makes a similar
+point, mutatis mutandis, with his cash flow model.
+
+Perhaps Gaffney, like Faustmann, published in the wrong place at
+the wrong time, for his findings went unnoticed by the macro econo-
+mists of his day. Or perhaps Gaffney got it wrong: That is for others
+to judge.
+Ricardo, Faustmann, Wicksell, and George 135
+VI
+Henry George
+
+GEORGE ON CAPITAL THEORY is best forgotten. He is best known for his
+observations on land ([1879] 1938). The gist of Progress and Poverty is
+that land markets function badly, keeping the best lands from their
+highest uses and creating an artificial scarcity. He likens this to a
+universal cartel. George’s goal is to break the cartel, thus creating jobs,
+raising wage rates, and raising production and living standards.
+
+We find in Progress and Poverty three major reasons why land
+markets (absent land-value taxation) perform badly. One is “land
+speculation,” conceived as “holding for the rise” and, by strong
+implication, as a “store of value” without regard to current use. A
+second is the appetite of the rich for land as an item of consumption
+for recreation, for amenity, and for show, as exemplified then by
+English noblemen’s “deer parks,” and today by the vast manorial
+holdings of rich Americans in once-rural counties, marina space for
+their mega yachts, airspace for their private planes, urban land for
+grounds around their mansions, trophy golf courses and polo ficlds,
+hunting clubs, and so on. A third is that our Solons base taxes on using
+and improving land, with hardly any on just holding land. The “excess
+burden” of such taxation takes the form of underusing land. Gaffney
+(2006) has undertaken to show this excess burden in terms of the
+capital theory that George lacked.
+
+George’s effort to formalize his capital theory is weak. He lacks
+any mathematics of finance. He flays the wages-fund theory without
+citing any advocate, or seeming to understand it. He attributes the
+productivity of capital solely to living things like livestock. Then
+other uses of capital, which he says are not productive, must pay
+interest because of arbitrage. Let us forgive him these trespasses;
+they are isolated from his major thesis. His powers of observation,
+and his intuitions about land values, were sound and original,
+and may be formalized in terms that would satisfy a Wicksell or a
+Faustmann.
+
+We can express his idea of land speculation in terms of Equa-
+tion (3). Let B; be the land rent in current use until time n, Bo, for rent
+in subsequent use. Multiply B, by the discounted cash flow
+136 The American Journal of Economics and Sociology
+Table 3
+1/(é"— 1) as a Function of Interest Rates, 4, and Lifespans, 7
+An 10 20 30
+2% 451.67% 203.32% 121.64%
+4% 203.32% 81.60% 43.10%
+8% 81.60% 25.30% 9.98%
+12% 43.10% 9.98% 2.81%
+16% 25.30% 4.25% 0.83%
+20% 15.65% 1.87% 0.25%
+factor = (1 — &”)/i. Multiply Bs by 1/ie” to discount its value to time
+zero. We can write present value Was the sum of two terms:
+W =B(1-e”)/i+ B,/ie” (6)
+
+The ratio of the second to the first term is B2/B, * 1/Ce”— 1).
+
+This obviously falls as i and 7 increase. Table 3 shows 1/Ce’” — 1) as
+a function of tand n. If we look at the column under n= 20 years, a
+person with a discount rate of 2 percent values Bz over By approxi-
+mately 100 times as much as does a person with a discount rate of 20
+percent!
+
+Now make Bz >> Bi. The value of Wis dominated by Bo.
+
+Enter the phenomenon we know today as “capital market failure.”
+Those with good collateral obtain cheaper credit, or impute a lower
+discount rate, than do those without collateral—regardless of the
+quality of a proposed investment.
+
+To simplify, we are not far off the mark to postulate that a struggling
+startup entrepreneur—the kind that gives capitalism its dynamic—can
+place no value at all on the second term, B,/ie”. This entrepreneur is
+desperately seeking capital, paying high interest rates that devalue
+later uses so much that he ignores them. At the other extreme, a
+passive investor seeking a store of value that keeps with no care might
+place little value on the first term, B\ — &”)/i, and, applying his low
+Ricardo, Faustmann, Wicksell, and George 137
+discount rate, place a high value on the second term. The startup
+entrepreneur, financed with costly venture capital, would view the
+passive investor as a “dog-in-the-manger,” as George did. The passive
+investor would view the newcomer as a nuisance and interloper
+today, and a possible meal ticket for tomorrow. Cleveland (1984) has
+developed this theme at length.
+
+W grows rapidly as time passes and the present approaches 7.
+where B» is to displace By. This annual increment may be high
+enough to warrant holding the land for its appreciation alone. Of
+course, one could also use it at the same time, and some do; but
+others hold more land than they have time to bother using, or using
+well or fully.
+
+As an example, my family and I have lived on the same low hill
+since 1976, a quarter-mile from the city’s major shopping “galleria” and
+its many satellites, two major interchanges, a railway station, a large
+hospital, and dozens of little shops and services, Eight of the neigh-
+boring plots have not been used during that 30-year period, while
+new building proceeds in leaps and bounds dozens of miles further
+out. There are also many householders whose yards and curtilages
+include an extra lot or two for future resale. Each owner has his or her
+own story and reasons, often of a “passive-aggressive” hue, but
+meantime the lands have about octupled in value, doubling every 10
+years, for an annual return of 7.2 percent. That is more than one can
+make in the bank, and it is free of any tax on “ordinary” income, and
+may never be taxed at all.
+
+To accommodate the inchoate dreams of people like my neighbor-
+ing landowners, young people getting started are priced out of the
+land market for homes and businesses. The New York Times of June
+13, 2007 brings the news:
+
+From 1990 to 2004, the number of 25- to 34-year-old residents in the 52
+
+counties north of Rockland and Putnam declined by more than 25 percent.
+
+In 13 counties that include cities like Buffalo, Syracuse, and Binghamton,
+
+the population of young adults fell by more than 30 percent. In Tioga
+
+County, part of Appalachia in New York’s Southern ‘lier, 42 percent fewer
+
+young adults were counted in 2004 than in 1990.
+
+New York pays to educate them by taxing sales and incomes, mostly
+from work; then they take their bodies, filled with human capital and
+138 The American Journal of Economics and Sociology
+the spirit of enterprise, to greener pastures. This is a recipe for
+decadence and desuetude in a once-vibrant region.
+
+The market may be topping out—who can be sure?—but 30 years
+at 7.2 percent, tax-deferred or tax-free, has been a good run. The real
+growth rate is less than the nominal rate, due to inflation, but real
+interest rates are also lower than nominal rates, for the same reason,
+and fully taxable besides. Purists may say the owners would maximize
+their wealth by using the land as it appreciates, but they don’t, which
+speaks volumes. Economists need to explain what they observe, not
+just what their ideology says might or should be. It was just such an
+observation in the hills above Oakland that pricked Henry George,
+originally an investigative reporter and editor, to write Progress and
+Poverty.
+
+Gale Johnson (1950) and Stephen Cheung (1969) have explained
+the neglect of land in terms of share tenancy. A share tenant will take
+as much land as the landlord will allow because there is no fixed cost
+of taking more. Sharecropping creates an incentive structure that
+motivates the cropper to substitute land for labor (as much as the
+landowner allows) until the marginal product of land is zero. Our tax
+system, except for the property tax on land, operates something like
+sharecropping. We do not pay a tax for the land we hold, but only for
+the use we make of it: We “share the crop” with the fisc. The analogy
+needs modifying because we pay to buy land, and forego gain by
+holding it, unlike the share tenant. Yet at the same time we accrue gain
+“in our sleep,” as Mill said, by just holding it. The market as a whole
+operates against that fiscal background, which bids us substitute land
+for capital and labor.
+
+Vil
+Conclusion
+RICARDO, FAUSIMANN, BOhm-Bawerk and other Austrians, and Wicksell
+all contributed mightily to capital theory. Ricardo, Faustmann,
+Wicksell, and Henry George also contributed to our understanding of
+land values and rent. George, the least mathematical but the most
+observant of the lot, pointed up major flaws in land markets, exacer-
+bated by flaws in tax policy. We can use mathematics and insights
+Ricardo, Faustmann, Wicksell, and George 139
+from the others to expound more fully what George merely observed,
+and help evaluate his proposals to raise wage rates, and marginal
+returns on investing, by perfecting land markets.
+
+Notes
+
+1. Do not despair of evaluating a ratio that approaches 0/0. One of the
+Bernoullis solved this long ago, and named the solution for a wealthy patron,
+so it appears in many calculus texts as “L’H6pital’s Rule.”
+
+2. My esteemed colleague Mary M. Cleveland thinks not, and I have yet to
+prove her wrong.
+
+3. Tt was Auguste Comte who wrote that all science consists of relations
+either of coexistence or sequence. Clark confined neoclassical economics into
+a box that shut out relations of sequence. Wicksell’s model neatly combines
+both kinds of relations.
+
+References
+
+Baumol, William. (1965). Economic Theory and Operations Analysis. Engle-
+wood Cliffs, NJ: Prentice-Hall Co.
+
+Bentley, William, and Dennis Teeguarden. (1965). “Financial Maturity: A
+Theoretical Review.” Forest Science 2(March): 76-87.
+
+Boxall, Bettina, and Janet Wilson. (2006). “A Student’s Forest Paper Sparks
+One Hot Debate.” 7.4. Times, June 11: Al+.
+
+Brazee, R. J. (2001). “The Faustmann Formula: Fundamental to Forest
+Economics 150 Years After Publication.” Forest Science 47(4): 441-
+442,
+
+Cheung, S. N. S. (1969). The Theory of Share Tenancy. Chicago: University of
+Chicago Press.
+
+Cleveland, Mary M. (1984). “Differences Between Large and Small, Given
+Appreciating and Depreciating Capital, and Variations in Land Quality.”
+In: “Consequences and Causes of Unequal Distribution of Wealth.” PhD
+diss., U.C. Berkeley.
+
+Ellerman, David. (2004). “Series-Parallel Duality and the Faustmann-Ohlin-
+Gaffney Problem.” Unpublished ms.
+
+Faustmann, Martin. (1849). “Berechnung des Werthes welchen Waldboden-
+... fur die Waldwirtschaft besitzen.” Allgemeine Forst und Jagd-Zeitung
+25: 441-455. Rpt in M. Gane, Ed. (1968) Martin Faustmann and the
+Evolution of Discounted Cash Flow. Trans. W. Lennard. Institute Paper 42.
+Oxford, UK: Commonwealth Forestry Institute.
+
+Gaffney, Mason. (1957). Concepts of Financial Maturity of Timber and Otber
+Assets. Agricultural Information Series 62. Raleigh: North Carolina State
+College.
+140 The American Journal of Economics and Sociology
+
+——. (1964). “Property Taxes and the Frequency of Urban Renewal.” Pro-
+ceedings. NTA, 57th Annual Conference, Pittsburgh, PA.
+
+——.. (1969). “Land Planning and the Property Tax.” Journal of the American
+Institute of Planners May: 178-183.
+
+——. (1976). “Toward Full Employment with Limited Land and Capital.” In;
+Property Taxation, Land Use and Public Policy. Ed. Arthur Lynn, Jr.
+Madison: University of Wisconsin Press.
+
+——. (1983). “Tax Reporting and the Commerce Clause.” In: Fiscal Federalism
+and the Taxation of Natural Resources. Eds: Charles McLure and Peter
+Mieszkowski (pp. 199-203). Lexington: Lexington Books.
+
+——. (2003). “Laxes, Capitat and Jobs.” Geophilos 3(1): 62-75.
+
+——.. (2006). “A Simple Measure of Tax Bias.” American Journal of Economics
+and Sociology 65(3): 433-449.
+
+Gane, Michael, Ed. (1968). Martin Faustmann and the Evolution of Dis-
+counted Cash Flow. Institute Paper 42. Oxford, UK: Commonwealth
+Forestry Institute.
+
+George, Henry. ({1879] 1938). Progress and Poverty. New York: Modern
+Library.
+
+Hirshleifer, Jack (1970). investment, Interest, and Capital. Englewood Cliffs,
+NJ: Prentice-Hall.
+
+Ince, Peter J. (1999). “Faustmann and the Forestry Tradition.” Proceedings of
+the International Symposium. Baton Rouge School of Forestry, Wildlife
+and Fisheries, Louisiana State University Agricultural Center.
+
+Jevons, William Stanley. ([1882] 1957). The Theory of Political Economy. New
+York: Kelley and Millman.
+
+Johnson, Gale. (1950). “Resource Allocation Under Share Contract.” Journal of
+Political Economy 58(April): 111-123.
+
+Klemperer, David. (1996). Forest Resource Economics and Finance. New York:
+McGraw-Hill.
+
+Klemperer, David, and Daniel B. Farkas. (2001). “Impacts on Economically
+Optimal Timber Rotations When Future Land Use Changes.” Forest
+Science 47(4): 520-525,
+
+Lofgren, Karl. (1983). “The Faustmann-Ohlin Theorem.” History of Political
+Economy 15(2): 261-264.
+
+Lutz, Friedrich, and Vera Lutz. (1951). Theory of Investment of the Firm.
+Princeton, NJ: Princeton University Press
+
+Ohlin, Bertil. (1921), “Till Fragen om skogarnas omloppstid.” In: Ekonomisk
+Vidskrift, “Festschrift to Knut Wicksell.” Rpt. and trans. (1995) “Concerning
+the Question of the Rotation Period in Forestry.” Journal of Forest
+Economics 1: 89-114.
+
+Pearse, Peter. (1967). “The Optimal Forest Rotation.” Forestry Chronicle
+43(June): 178-195.
+
+Ratcliff, Richard U. (1949). Urban Land Economics. New York: McGraw-Hill.
+Ricardo, Faustmann, Wicksell, and George 141
+
+Ricardo, David. ([1817] 1963). Principles of Political Economy and Taxation.
+Homewood, IL: Richard D. Irwin.
+
+Robbins, Lionel. (1934). “Introduction.” In: Lectures on Political Economy.
+Trans. E. Classen. New York: Macmillan Company.
+
+Samuelson, Paul. (1976). “Economics of Forestry in an Evolving Society.”
+Economic Inquiry 14: 466-492. Rpt. (1995) Journal of Forest Economics
+10): 115 ff.
+
+Scorgi, Michael, and John Kennedy. (1996). “Who Discovered the Faustmann
+Condition?” HOPE 28(1): 77-80.
+
+Scott, Anthony. (1987). “Martin Faustmann.” In: The New Palgrave. Ed. Eatwell
+etal.
+
+Stigler, George J. (1941). Production and Distribution Theories. New York:
+Macmillan.
+
+Wicksell, Knut. ([1893] 1954). Value, Capital and Rent. Trans. S. H. Frowein.
+London: George Allen and Unwin.
+
+——. (119011 1934). Lectures on Political Economy. Trans. E. Classen. New
+York: Macmillan Company.
+142

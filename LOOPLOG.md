@@ -1590,3 +1590,22 @@ H5 DECLINED on garbled-OCR skim with the limit stated (a clean re-OCR could
 theoretically surface something). No second water page — none cleared the
 distinct-topic bar. Registry +6 rows (none for H5); 6 text mirrors. 876 pages,
 lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney K-series (3 mined, 2 declined, 1 reconciliation)
+
+K9 (Stabile AJES 1995 + Gaffney comment): Clark's 1886 "as conclusive as anything
+in mathematics" praise of George's wage theory — a quote the wiki lacked,
+predating its 1899 material; Wicksteed-not-Clark priority argument for marginal
+productivity (Wicksteed's 1894 title paraphrasing George's chapter title); folded
+into marginal-productivity, john-bates-clark, philip-wicksteed with Gaffney's
+U-Boat motive-claim carried as attributed D-claim against Missemer-Pottier per
+the C9 convention. K2008 (Keeping Land in Capital Theory): mid-wave discovery
+that it was ALREADY quoted unregistered (and issue-miscited) on the timber page —
+reconciled; Clark/Knight-vs-Austrians feud + three Wicksell contributions folded.
+K17 (Wallace's land-nationalization campaign): compensation-annuity mechanics,
+Mill's LTRA recruiting Wallace, Asquith's "Tax or Buy" — folded into the existing
+wallace page + mill cross-link. K18/K2012 DECLINED (religious/political history
+better-sourced on edward-mcglynn from primary correspondence). All three mined
+works re-OCR'd (garbled/empty embedded layers). CSV-quoting bug in a comma-
+bearing registry title caught pre-lint. K-series now fully checked. Registry +3
+rows. 876 pages, lint 0 errors.
