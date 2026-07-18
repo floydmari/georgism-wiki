@@ -4023,8 +4023,17 @@
       "reported": false,
       "context": "A League of Socialist Cities: David Harvey interviewed by Novara Media",
       "author": "research-scanner"
+    },
+    {
+      "url": "http://arxiv.org/abs/2511.21766v1",
+      "source": "internet-scan",
+      "reason": "arxiv paper (strong keyword: land value tax)",
+      "context": "The dynamic of a tax on land value : concepts, models and impact scenario \u2014 This paper develops a spatial-dynamic framework to analyze the theoretical and quantitative effects of a Land Value Tax (LVT) on urban land markets, capital accumulation, and spatial redistribution. Building upon the Georgis",
+      "author": "research-scanner",
+      "queued_at": "2026-07-18T10:02:36.674601+00:00",
+      "reported": false
     }
   ],
-  "total": 447,
-  "last_updated": "2026-07-18T00:06:37Z"
+  "total": 448,
+  "last_updated": "2026-07-18T10:02:40Z"
 }
