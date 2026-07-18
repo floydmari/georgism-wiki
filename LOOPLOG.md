@@ -1088,3 +1088,16 @@ Australia figure verified against the paper's own table; two never-published lea
 re-chases them. Remaining unclassified markers are all deliberate gaffney-* flags.
 MERGE NOTE: forget-mincome + nyc-1920s edits may conflict with udw74p's unmerged tail —
 normal git conflicts, both sides' edits are compatible in substance. 853 pages, lint 0.
+
+## 2026-07-18 (cont.) — Wave: Doucet ACX de-referencing + T3 cohesion
+
+Doucet Parts 1+3 fully de-referenced against the live essays: 50 scholarly citations
+enumerated, 33 already carried (the corpus has absorbed most of Doucet's evidence base
+across prior waves), 12 added as Referenced/Light (ONS Blue Book, Gloudemans-Almy IAAO
+textbook, ifo Grundsteuer study, both IAAO standards, Gaffney WP097, the six-country
+mass-appraisal case-study tail — one Doucet mis-date flagged), 5 rejected with reasons.
+Durable ledger: sources/doucet-acx-dereferencing.md — this task can never be re-done
+blind again. Page candidates queued: Gloudemans-Almy, the IAAO standards pair, a
+six-country mass-appraisal synthesis. T3 cohesion: 4 link-text fixes, terminology
+otherwise conformant; BC/Vancouver overlap reviewed at T1 — already compliant, no churn.
+853 pages, lint 0 errors. (Session-limit interruption mid-wave; recovered cleanly.)
