@@ -1886,3 +1886,46 @@ rechecked once each and HONESTLY LEFT BLOCKED (WorldCat now 429s; archive.org
 JS-rendered listing unfetchable; WP041/042 still undated on the source site) —
 no marker changes on failure, per convention. Inventory regenerated (SF
 stub-flag change absorbed). 888 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: thin-article burn-down, tier two (5 expansions from held sources)
+
+Re-ran the systematic survey (words-ascending/inbound-descending, excluding the
+prior tier's 13 expansions + 2 honest skips) restricted to non-research hub
+pages (concepts/people/places/events/organizations/narratives/objections/books/
+texts) — research pages are one-paper summaries by design and were excluded as
+targets, consistent with tier one. Top 8 by inbound among pages <500 words:
+estonia (423w/25), life-of-henry-george (421w/21), lincoln-institute (255w/19),
+single-tax-colonies (277w/17), harrisburg-pennsylvania (427w/16),
+alanna-hartzok (498w/12), karl-fitzgerald (404w/11), town-and-country-
+planning-act-1947 (351w/11). Expanded the top 5 (the last three were already
+adequately sourced relative to size from the prior annotation lane, per lint's
+own page-level check — no genuine gap found, left untouched rather than
+padded). All from held sources, zero new external fetches:
+places/estonia.md 240→~740 prose words (25 inbound — Tiits's 1993/1996/2001
+national valuation history, the Tomson Tallinn-Riga density finding promoted
+from a bare See-Also link to a full section, Andelson's comparative survey);
+books/life-of-henry-george.md 340→~800 (21 inbound — a new "Key Episodes This
+Wiki Draws From It" section consolidating what nine citing pages already pull
+from its Third Period chapters: the 1886 campaign, McGlynn, Davitt, the
+Anti-Poverty Society, the 1897 campaign — plus the one-digit Roosevelt
+vote-total discrepancy carried as an open, unadjudicated note rather than
+silently resolved); organizations/lincoln-institute.md 210→~700 (19 inbound —
+the John C./David C. Lincoln fellowship-naming inconsistency across Gloudemans's
+own papers carried honestly, the Institute's "not subject to detailed review"
+working-paper disclaimer, the OECD Global Compendium, the Taiwan LVIT case
+study); events/single-tax-colonies.md 250→~730 (17 inbound — Fairhope's Des
+Moines single-tax-club origin, the 28-colonist 1894 founding, Joseph Fels's
+Mayland/Essex English colony, and — per the house honesty rule — a new section
+carrying Fairhope's whites-only history from the black-white-wealth-gap
+narrative rather than leaving the colonies page silent on it);
+places/harrisburg-pennsylvania.md 320→~1,010 (16 inbound — the 1975 adoption
+date, Harrisburg's explicit inclusion in the Banzhaf-Lavery/Plassmann-Tideman/
+Yang-Hawley multi-municipality panels rather than only the single-city summary,
+the Cohen-Coughlin Fed survey's Pittsburgh "Renaissance II" confound applied
+by analogy to Harrisburg's own Reed-era redevelopment push, and Steven Cord's
+advocacy role). Bidirectional wiring checked for all five (see-also links from
+citing pages already existed in every case). Registry: no new rows needed —
+Tiits and Hughes were already present despite their source pages' stale
+"not yet in registry.csv" notes. One banned-word slip ("the only" inside "one
+of the only") caught by lint and rephrased before commit. 888 pages, lint 0
+errors, 50 warnings — identical to the git-stash-verified baseline.
