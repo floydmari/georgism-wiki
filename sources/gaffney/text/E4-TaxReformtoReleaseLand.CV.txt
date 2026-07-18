@@ -1,0 +1,1640 @@
+MODERNIZING
+URBAN LAND
+POLICY
+Papers presented at an RFF Forum held
+in Washington D.C., 13—14 April 1972
+
+
+EDITED BY MARION CLAWSON
+
+
+
+
+Published for Resources for the Future Inc.
+By The Johns Hopkins Univ ers ity Press, Baltimore and London
+
+
+                           MISSOURI STATE LIBRARY
+                          JEFFERSON CITY, MISSOURi
+RESOURCES FOR THE FUTURE, INC.
+1755 Massachusetts Avenue, N.W., Washington, D.C. 20036
+
+Board of Directors:
+Erwin D. Canham, Chairman, Robert 0. Anderson, Harrison Brown, Edward
+J. Cleary, Joseph L. Fisher, Luther H. Foster, F. Kenneth Hare, Charles 1.
+Hitch, Charles F. Luce, Frank Pace, Jr., Emanuel R. Piore, Stanley H.
+Ruttenberg, Lauren K. Soth, Maurice F. Strong, Mrs. Robert J. Stuart, P. F.
+Watzek, Gilbert F. White.
+Honorary Dire ctors. Horace M. Aibright, Reuben G. Gustavson, Hugh L.
+Keenleyside, Edward S. Mason, William S. Paley, Laurance S. Rockefeller,
+John W. Vanderwilt.
+
+President: Joseph L. Fisher
+Secretary- Treasurer: John E. Herbert
+
+Resources for the Future is a nonprofit corporation for research and edu-
+cation in the development, conservation, and use of natural resources and the
+improvement of the quality of the environment. It was established in 1952
+with the cooperation of the Ford Foundation. Part of the work of Resources
+for the Future is carried out by its resident staff; part is supported by grants
+to universities and other nonprofit organizations. Unless otherwise stated,
+interpretations and conclusions in RFF publications are those of the authors;
+the organization takes responsibility for the selection of significant subjects
+for study, the competence of the researchers, and their freedom of inquiry.
+
+RFF editors: Mark Reinsberg, Vera W. Dodds, Nora E. Roots.
+
+
+
+
+Copyright 1973 by The Johns Hopkins University Press
+All rights reserved
+Manufactured in the United States of America
+
+The Johns Hopkins University Press, Baltimore, Maryland 21218
+The Johns Hopkins University Press, Ltd., London
+Library of Congress Catalog Card Number 72—12365
+ISBN O—8018—1491—X
+TAX REFORM
+TO RELEASE LAND
+
+
+                                                      MASON GAFFNEY
+
+
+
+
+   Taxes on land and buildings are important influences on land use, and are
+within the control of government. Real estate taxes are a major source of
+revenue to local governments (LGs) in the United States, as well as being a
+major cost of owning property. Currently under legal attack in the United
+States is the local real estate tax as the backbone of public school finance.
+The premise is that children should not be deprived of reasonable education
+because their school district lacks an adequate tax base. Regardless of any
+reforms in this system of local taxing for local services, it seems probable that
+real estate taxes will persist at some level of government — they are too
+important a source of revenue to be abandoned. They might or might not be
+reduced.
+   Real estate taxes do more than raise revenue; they influence land use,
+often strongly. Their influence arises not merely from their level, but from
+the relative tax on land versus that on buildings, from the relative tax on
+unimproved land versus that on improved land, from the frequency and
+reasons for reassessment of property, and from other aspects of the imposi-
+tion of such taxes. Some of the land use effects may be unintended by the
+legislators and administrators responsible for the taxes, but many of the
+effects seem clearly to be desired and sought. Real estate taxes cannot abso-
+lutely compel some land uses nor absolutely forbid others, as can zoning or
+building codes; but they provide powerful economic incentives, which are
+
+
+M A S 0 N G A F F N E Y is a research associate at Resources for the
+Future and was formerly professor of economics at the University of Wiscon-
+sin, Milwaukee. He has also taught at the universities of Missouri and Oregon
+and at North Carolina State College and is the author of numerous mono-
+graphs and articles on urban expansion, containment of urban sprawl, prop-
+erty taxation and land use, economic theory, conservation, and resource eco-
+nomics. Born in 1923, Mr. Gaffney received his WA. from Reed College and
+his Ph.D. from the University of California, Berkeley.
+                                      115
+116                                               TaxReform toReleaseLand
+
+operative constantly over long periods of time and in the long run may be as
+effective as absolute prohibitions or mandates.
+   Local real estate taxes affect the landholder directly, and also indirectly by
+affecting the way local governments (LGs) use other land use controls. Most
+local zoning today has become fiscal zoning, calculated to fortify the local
+per capita tax base. That is not news, but it is only the most familiar example
+of the role of the real estate tax in the pattern of local particularism.
+   The purpose of this paper is to describe the many ways in which real estate
+taxes influence urban and suburban land use. Some of these effects are rather
+obvious and expected; but others, on analysis, turn out to be different than a
+quick and intuitive judgment would predict. In general and in total, real
+estate taxes as administered in the United States tend to favor the land
+speculator over the builder, the larger owner over the smaller, and the suburbs
+over central cities. De facto, real estate taxes as ordinarily administered are an
+instrument of economic discrimination. They might, if properly restructured,
+become instruments for socially more constructive land use.
+
+
+                 MOTIVES OF LOCAL GOVERNMENTS
+
+   The art of central government is one of motivating local governments to
+act in the wider public interest — to serve the nation by serving themselves.
+Local governments (LGs) have objectives and operate under constraints and
+incentives just like persons and firms. Economists have analyzed persons and
+firms since Adam Smith at least and examined how public policy can work
+with the market to harness private motives to public ends. But they have
+neglected the analogous question about LGs, and so have political scientists.
+   Local governments borrow the sovereignty and police power of the state,
+and are assumed in law to represent a public interest. But what public? Each
+represents a small and particular public. There are even cases — in California,
+of course — of special service districts that are armed with sovereignty and its
+trappings, immunities, privileges, and exemptions representing as few as one
+landowner.
+   Since local governments borrow the sovereignty of the state, the states
+have the power and duty to structure local incentives to constrain LGs to
+serve all by serving themselves. And so the states do, in many ways, but they
+have fallen behind the problem. Today the tension between parochial LG
+interests and broader public interests approaches the flash point. It is past
+time to be defming the tensions and aiming to resolve them. This is the point
+of this forum and this paper.
+   The local viewpoint differs from the national in that the local turf is more
+completely open to the movement of labor and capital. The LG is defined as
+Mason Gaffney                                                             117
+
+
+an area of land. Men and wealth come and go, and the level of their returns is
+set by national market forces, much as the waters of the sea find a common
+level by interfiowing. So the benefits of local spending lodge mainly in higher
+local land values, because land alone is stationaly for long. By the same
+token, the cost of taxes lodges in lower land values. Land is the equity
+interest in the municipal corporation. Land income is the bottom line of its
+income statement. Many municipal motives may best be understood, there-
+fore, as efforts to maximize land income and values.
+  There is a harmony here between local and national interest. The private
+owner maximizes net income from a given land area by carving it up and
+improving and using it so as to maximize its net service flow. The private
+owner's greed, harnessed by the market, makes him allocate his land for
+housing and complementary life-support facilities in a surprisingly socially
+oriented way. One sometimes hears "highest and best use" belittled as though
+it were a public nuisance, but basically it means the use serving the most
+human needs. That basic rule must be qualified to account for external ef-
+fects, but the qualifications are not the rule.
+   The same rule holds for the LG, which is a group of landowners in league
+to preside over the collective capital that they use jointly. The LG is a
+halfway house between the individual landowner and the state. Landowner
+control is modified by democracy, which gives the whole system some of its
+characteristic tensions and compromises. But landowners, as the permanent
+party of every LG, take a strong and steady interest in local government out
+of proportion to their numbers. It is reasonably accurate for many purposes
+to think of the LG as a collective landowner, maximizing land income. In so
+doing it serves the national good.
+    While there is that basic harmony of local and national good, LGs feel at
+least four pecuniary incentives that make their goals clash with the larger
+metropolitan and national welfare. LGs want to avoid dilution of tax base.
+They want to minimize tax export. They want to fence off local public goods
+from aliens. And they want to avoid pure competition among their members.
+No doubt there are more, but these are prominent, and a sufficient basis for
+the problems of local exclusivism that vex us today. The factor of ethnic bias
+is treated in other papers in this book.
+
+Avoiding Dilution of Tax Base
+   The states delegate to LGs certain service duties and certain tax powers to
+finance them. Many duties, such as drainage, vary as functions of area rather
+than of people; but others, notably education, vary with population. The
+property tax is redistributive. So old settlers in each LG are sedulous to see
+that immigrants contribute as much in taxes as they require in added spend-
+118                                                     Tax Reform to Release Land
+
+
+ing. Indeed, they go further. They try to limit new entry to those who will
+enrich the tax base by the maximum possible amount. Added to this is often
+a crabbed and misanthropic outlook on strangers, and a lack of urgency to
+develop annexed vacant land, which has led to extremes of exclusivism.
+  Whoever said Americans idolize motherhood never looked into suburban
+zoning. Whoever said the property tax is regressive is not listening when the
+rich grumble about taxing property to finance services to persons. For the
+state to require LGs to "tax the rich man's property to educate the poor
+man's child" is to invite them to fence out poor families. The tension is partly
+resolved by the fact that good schools are, like other local services, capitalized
+into higher real estate values. The bromide that property benefits only from
+services to property and not from services to people is false. But it is true that
+school benefits are in proportion to children and not to taxable real estate.
+The municipal manager finds it his duty to keep out children without a large
+complement of taxable real estate, and wears a black armband on Mothers
+Day.1
+  This attitude is not limited to suburbs. President of the U.S. Conference of
+Mayors, Milwaukee's Mayor Henry Maier, advocates removing "whole square
+miles of people" from central cities.2 Big city mayors have been doing that
+for several years, with federally subsidized programs for highways, urban
+renewal, land clearance, slum clearance, code enforcement, airport expansion,
+open space purchase, attraction of industry, campus expansion, harbor expan-
+sion, street widening, and so on. It is not just the lure of the suburbs that has
+lowered the density of central cities so far below what it was 30 years ago.
+   This exclusionary attitude is not an urban monopoly by any means. Cities
+have at least some tradition of welcoming immigrants — that is how they
+became cities. Some rural and sylvan areas never have wanted growth, which
+is often one reason they remained rural or sylvan. Northern Maine is a cele.
+brated case, owned by a handful of timber companies who have opposed the
+incorporation of any towns that might tax them to fmance schools and
+attract immigrants. In the settlement of the West the very formation of
+counties was fought by large ranchers whom the counties might tax. The
+Homestead Act, planting smaller farmers everywhere, overcame the resistance
+in most counties, and the need for farm labor softened the exclusionary
+
+   'Indeed our current Maithusian agitation may derive its plausibility and social status
+by committing the fallacy of composition on the problems of school finance in suburbs
+where many social leaders live and form their views of the world, seeing it as a spaceship
+suburb threatened by school taxes. It is an unfair extension: children do not dilute world
+wealth in the same way they dilute suburban tax bases.
+   2Presidential Address, U.S. Conference of Mayors, New Orleans, Washington Post,
+June 18, 1972, p. C12.
+Mason Gaffney                                                                119
+
+
+attitude. Today, as the average native student demands longer and costlier
+schooling, and as migrant labor competes, eveiy rural county feels a new
+impulse to exclude the poorer. Migrant labor does the job without requiring
+schools and without voting.
+
+Minimizing Tax Export
+   LGs like to help their constituents avoid paying taxes to higher levels of
+government. This takes several forms.
+  Within counties using the property tax, smaller LGs try to underassess real
+estate. Boards of equalization fight this competitive underassessment with
+overt success but sometimes fail to redress covert underassessment. Low-use
+zoning is underhanded underassessment, because it depresses resale values
+during the period before the zoning is breached or lifted. The LG in effect
+sets its county assessment low by its own motion. This ploy is invidiously
+reserved for LGs whose citizens can collectively afford to forgo resale value
+during a prolonged holding period before the zoning is changed.
+    A complement of low-use zoning is tax assessment based on present use
+rather than market value. Local assessors often find this acceptable to boards
+of equalization that would reject more overt forms of competitive underas-
+sessment.
+    Any local tendency to encourage commerce is discouraged in states that
+levy heavy sales taxes and, unlike Iffinois and California, do not return a share
+to the LG where collected. With no return, any local sacrifice of environment
+to build up commerce would only pour more taxes into the state treasury.
+    Property assessment also plays a central role in avoidance of state and
+federal income taxes. Income property is tax depreciable. Law and Internal
+Revenue Service (IRS) practice allow repeated depreciation by successive
+owners, ridiculous as that may be. The law recognizes that land does not
+depreciate, so each successive owner can depreciate only the building, not the
+land. When he buys he must allocate the cost between depreciable building
+and nondepreciable land. Enter the local tax assessor. It is IRS practice to
+accept the local assessor's allocation of value between land and buildings.
+Local assessors, by undervaluing land relative to buildings, thus help their
+constituents depreciate land and so avoid a large share of the income tax due
+on real estate, and help convert it from a tax payer to a tax shelter. This is the
+modem version of competitive underassessment, one that costs the federal
+treasury biffions annually and goes virtually unchecked. This practice creates
+a strong local bias to underassess land, which in turn tends, through its direct
+effect on landowner incentives, to keep land from serving the needs of the
+median consumer.
+120                                                 Tax Reform to Release Land
+
+
+   The income tax hits ordinary income much harder than capital gains
+— more than twice as hard, when one knows the angles on capital gains —and
+
+the name of the tax-avoidance game is converting income into capital gain.
+One's LG helps. Rather than use public money to help established industry
+and commerce earn ordinary income, the LG extends its capital infrastructure
+into new land to create capital gains, selling tax-exempt municipal bonds to
+raise the capital. The "unearned increment" on the land is the untaxed incre-
+ment as well.
+   The LG also devotes extra effort to securing state and federal spending and
+public works that will raise local land values. To this end it reserves sites,
+holding them ready for a new branch of the state university, a military base, a
+highway interchange, a defense plant, or whatever. To this end it also seeks to
+attract citizens with influence at court, which adds to its bias for the wealthy.
+   Blending into the minimizing of tax export is the maximizing of outside
+aid. An entire culture of local politics has grown up around the art of plead-
+ing poverty. Cities are always "strapped," in "crisis," requiring "relief," and
+so on, in spite of the rise of their real estate tax base. This is silly, but a game
+people play in dead earnest as they compete for federal dollars. Underassess-
+ment is a central part of the game, sequestering latent fiscal assets. So is
+regressive assessment, assuring that local taxes hurt and arouse sympathy and
+an image of desperation.
+
+Fencing Off Local Public Amenities from Aliens
+    LGs provide many public services, such as schools, parks, police and
+fire protection, libraries, and others. These municipal amenities yield a flow
+of services to theb users — a form of income to these persons that is tax free.
+Local taxes used to finance the production of these local amenities are de-
+ductible from the individual's taxable income, unlike cash payments for items
+of individual consumption. The availability and quality of these local services
+raise local land values, as anyone who seeks to buy a house in a neighborhood
+with good schools quickly learns; and the increases in land values are largely
+tax free, due to the capital gains provisions of income tax law. At a time
+when a penny saved is two pennies earned before taxes and tax-free income is
+almost the only kind worth having, these are weighty values.
+   The problem here is restricting the use of these local amenities to local
+residents. The goal is a tenure or right of use that is common but not too
+common — common within the small group of local residents, but private
+against outsiders. This source of pressure is often very strong. All residents of
+the local area have much to gain from exclusive use of local amenities, but
+only the large landowner has something to sell if aliens invade the local area
+Mason Gaffney                                                            121
+
+
+by purchase of property. The tenant and small owner have little or no salable
+tenure in local amenities — only a shadow equity in the old swimming hole
+based on use and custom, familiarity, and their small numbers. They can
+suffer real losses from the invasion and crowding of their old haunts.
+   To maintain the unstable balance between common amenities and limited
+access, suburbanites have developed the cult of open space, a philosophy that
+transmutes the exclusionary particularism of the golf course into the nobility
+of Naturalism. The apotheosis of open space is to suburban particularism
+what "national defense" is to the federal budget. The anomaly of open space
+behind cyclone fences is only a contradiction to those who don't get the
+subliminal part of the message. Every movement requires a philosophy and
+Naturalism has been recruited to serve the local treasury.
+
+Avoiding Pure Competition
+   The historical Mercantilistic city was a monopoly, using municipal policy
+to exploit its trade territory by restricting competition. Today the motive is
+less sharply defmed due to greater mobility, but it is by no means dead.
+Owners of old buildings are sensitive to competition from new ones, which
+pull away tenants. They know that renewal at higher density adds to supply
+and helps lower rents, while renewal at lower density is removal, which de-
+livers tenants into the hands of landlords. They mask this with talk of "good
+planning," "human scale of density and size," psychoses of crowded labora-
+tory rats, birth control, saving historical shrines, aesthetic absolutes, and
+other diversions and digressions. So far they have gotten away with it.
+
+
+                    LOCAL MERCANTILIST POLICIES
+
+   Local governments have other, more basic incentives on which the four
+discussed above are superimposed. They want to serve their constituents well
+at low cost (subject to Parkinsonian tendencies among bureaucrats, of
+course). They seek efficiency, internal equity among voters (even including
+tenants), renewal, ordinary (i.e., productive) income, growth of the local
+market, and succession of land to higher uses (i.e., uses serving more human
+needs). There is a continual tension between the goals, to understand which is
+to understand much of municipal behavior.
+    LG response to these combined incentives is municipal "Mercantiism" or
+"particularism," interchangeable terms emphasizing the pursuit of parochial
+self-interest at the expense of outsiders. LGs pursue Mercantilism by bending
+all their powers to the goal. These include establishing boundaries, taxing,
+122                                               TaxReform toReleaseLand
+
+
+zoning, allocating capital budgets, planning public works, policing buildings,
+pricing municipal services, influencing utility rates, negotiating for new in-
+dustries, and a few others.
+
+Balkanization
+   The basis of local particularism is segregating the tax base by creating and
+defending tax enclaves. Industrial tax enclaves are one type, but they get
+more than their share of the spotlight. Resources are a larger member
+of the family. "Trees don't go to school," says the timber owner, "why
+should I pay taxes?" Mineral owners don't say anything, they just lie low
+with nearly total success. Farm landowners, whose real estate weighs in at
+over $200 billion, have sold themselves as a collective welfare case. (Their
+national average property tax rate is about 1 percent of market value.)
+Factory owners on the other hand are blamed for school children, as though
+hiring were siring.
+    It is a double standard to ponder, as national unemployment rises to crisis
+levels while the birthrate drops toward zero population growth. Creating jobs
+is not really antisocial, it just seems that way to the local school board. Those
+who deploy their capital to employ men are doing a favor to the nation, and
+are not adding a bit to national school costs. So the establishment of indus-
+trial enclaves, which exclude residences, should not be singled out for avoid-
+ing school taxes, any more than farmland, timber, minerals, and utilities.
+Employers should pay taxes because they own property, not because they
+hire fathers.
+   Enclaves established to provide tax havens do not resist "growth" of every-
+thing, but only of population. They love to annex land and attract taxable
+capital From the parochial viewpoint of modern municipal Mercantilism, the
+best industry is the most capital-intensive industry that hires the fewest
+fathers per dollar of tax base. Such industries are hypersensitive to property
+taxes, and so tend to attract each other and cluster in low-tax enclaves. This is
+splendid for them, but hard on everyone else.
+   Some suburban residential enclaves, often mixed with rural ones, have
+effectively excluded racial and ethnic minorities and low-income people of
+every race. Such enclaves have recently been the center of legal and political
+efforts to desegregate races and classes and to tap segregated tax bases by
+invasion. The enclaves may well deserve the invasion, but let us not forget the
+larger tax bases not touchable in this way: forests, farms, minerals, vacation
+resorts, factories, utilities, stores, and warehouses. A move to statewide prop-
+erty taxation for schools will do more to equalize school resources than
+anti-zoning cases. And let us not forget that invading a segregated tax base
+wifi almost surely result in relocation of people and businesses in areas they
+Mason Gaffney                                                                     123
+
+
+might well not have chosen but for the lure of the richer tax base they could
+share there. Again, statewide school finance has the advantage of equalizing
+fiscal resources without requiring or inducing people or businesses to move in
+quest of more favorable tax treatment. Some of the longest leaps in the
+annals of suburban sprawl have resulted from developers' pioneering in
+peripheral rural counties to enjoy their low tax rates.
+
+Administrative Modification of the Property Tax
+   Assessors have much latitude, de facto. Most assessors are, for better or
+worse, chameleons of municipal policy, and use their latitude to help effect
+predominant local goals as seen by the local powers.
+   Regressive assessment has been found in many LGs, although never in pure
+form. It is mixed with other biases. Some, like the bias against newer build-
+ings, tend to countervail regressivity. But most biases probably reinforce it —
+for example, the bias for land, the lag in revaluing declining areas downwards
+and new areas upwards, the bias against subdivision, the bias against the
+unorganized and possibly against blacks, the "wholesale rate" given to large
+speculative acreage and larger lots, and basing assessment on present use
+rather than value.
+   Some recent studies showing or suggesting regressive assessment are by
+Oldman and Aaron in Boston; Theodore Smith inHartford; the Urban League
+in Atlanta; and Gaffney in Milwaukee.3
+   It may be hard to prove regressive or racist motives. They may not even
+prevail, although I personally believe they are an influence. The point of
+consistency is fiscal particularism, the desire to protect and enrich the local
+tax base.
+   "Hearth-tax" assessment is a strong tendency. A site is assessed in part by
+value, but adjusted for number of families there. The result, and I surmise the
+idea behind it, is to remake the property tax into something more like school
+tuition.
+   Sites without buildings are assessed most lightly of all. No hearth, no tax.
+We shall see that taxing buildings reduces population while taxing land in-
+creases it. The LG fighting immigration will naturally hit buildings harder.
+
+   3Oliver Oldman and Henry Aaron, "Assessment-Sales Ratios Under the Boston Prop-
+erty Tax," National Tax Journal, vol. 18, no. 1 (March 1965), pp. 36—49; Theodore
+Smith, Real Property Taxation in the Urban Center (Hartford: J. C. Lincoln Institute,
+January 1972); "Report of the Atlanta Urban League on the Fulton County Property
+Tax," mimeographed (The Atlanta Urban League, September 1971); Mason Gaffney,
+"What is Property Tax Reform?," American Journal of Economics and Sociology,
+vol. 31, no. 2 (April 1972), p. 149; and "The Property Tax is a Progressive Tax," S. J.
+Bowers, ed., 1971 Proceedings of 64th Annual Conference of National Tax Association
+(Columbus: National Tax Association, 1972), p. 415.
+124                                              Tax Reform to Release Land
+
+
+   Land assessment based on present use is part of the pattern. It is not true
+that taxing ripening land ad valorem forces premature use, but it is true that
+raising land assessments at the time of subdivision or other conversion to
+higher use is a powerful force postponing such conversion. It creates a
+locked-in effect, like the capital gains tax that waits on sale. The assessor's
+propensity to assess land use rather than value is reinforced and abetted by
+low-use zoning, discussed below.
+   There is tension here, and ambivalence. LG taxpayers would like the un-
+developed acreage to share the load. But they hold back, in an uneasy truce:
+we don't tax you; you don't crowd our schools.
+   The property tax is also modified by exemptions provided by state law.
+LGs are not omnipotent over this, but they have a choice of what exemptions
+to fight. The Milwaukee tax commissioner, for example, fights to disexempt
+dormitories, hospital annexes, and nursing homes — capital that serves
+people's needs. On the other hand he does not fight to tax cemeteries that
+preempt as much land as industry and hold most of it in reserve for future
+burials while life-support systems are taxed instead. Nor does he fight to tax
+the vast grounds surrounding many institutions, or to assess golf courses at
+market value. Cities blame the states and plead impotence, yet much of the
+exempt land is owned by agencies of the city itself: industrial land banks,
+harbor commissions, redevelopment authorities, and many agencies with ad-
+vance sites. Thus cities evince a preference for the kinds of tax exemption
+that reduce the supply of buildings (other than private schools, which help
+hold down school taxes).
+
+Forcing Property Consumption by Direct Control
+   One way to enrich the property tax base is to require every resident to use
+no less than a standard complement of land and capital, and exclude those
+who will not. This is forced consumption.
+   It is a pretty expensive indirect way to collect taxes, something like
+Charles Lamb's description of a mythical Chinese practice of burning down a
+house to roast a pig. It could raise a family's yearly debt service or other
+yearly capital costs by $10.00 in order to increase tax returns by $1.00. The
+lower the tax rate, the greater the forced consumption of real estate required
+per dollar of tax revenue. And low tax rates do not weaken the motive, which
+is to avoid increasing rates, from whatever level.
+    LGs force land consumption by using zoning, subdivision control, building
+codes, and condemnation power.
+   Zoning. Low-density zoning is the focus of today's perception of this set
+of devices, and is discussed by others in this forum. It is simply forced land
+consumption. Indirectly it also forces the individual to consume more capital,
+Mason Gaffney                                                               125
+
+
+because large homes go with large lots. It very directly forces LGs to sink
+more capital in all public works, the costs of which vary as functions of area,
+not population.
+   It is ironic that low-density zoning is viewed by some as a defense against
+urban expansion. It forces urbanites to consume more land, and cities to
+spread out, even if working ideally. The way it normally works, it thwarts
+demand for better land and sends developers probing outward seeking weak
+spots in the zoning umbrella. High-density land use thus erupts capriciously
+here and there, and threatens everywhere, rather than clustering where it
+belongs. The protection of nature and open space against man, purportedly a
+reason for low-density zoning, is not achieved. Man is frustrated in his quest
+for land, and more of nature is displaced than if he were satisfied. Zoning to
+protect nature is a boomerang policy. Touted as a solution, it has become a
+large part of the problem.
+   It is ironic that zoning is used as a defense against higher school enroll-
+ments and hence against higher taxes, for low density inflates most other
+public costs. Jumpy, uneven, unpredictable sprawl inflates them even more.
+The added costs are net social costs to the nation; the school savings are just
+transfers, local gains achieved by imposing the cost on others, or depriving
+children altogether. The national result is a tragic waste of resources to no
+purpose.
+   Agricultural zoning is the most extreme kind of exclusionary zoning, fol-
+lowed by large-lot zoning in horsey exurbs. But zoning is universal. Zoning
+extends clear to the center of the city, where it takes the form of floor-area
+ratios, height limits, and setbacks. At every stage it interdicts market choices
+for more intensive use. Usually this is a direct bias against the poor. Luxury
+high-rise apartments and some office buildings cater to the affluent, but the
+indirect effect of suppressing them also hits the poor, as the rich are forced to
+bid for more land.
+   As you might expect, LGs overzone for uses regarded as fiscal surplus
+generators, and underzone for deficit-makers. There is often a lack of careful
+counting of supply and demand, and a tendency to reserve most of the land
+for a small share of the market, regionwide. The fiscal motive is mixed with a
+variety of subjective value judgments and weakly based, strongly held opin-
+ions about high-rise apartment living, ethnic outgroups, and aesthetics. Some
+results of exclusionary zoning are capricious and hard to explain rationally, as
+with any human endeavor: what is regarded as a local liability often reflects
+more prejudice than analysis. But even with perfect knowledge, there would
+be a zoning bias.
+   Too much land is zoned for commerce and industry in most cities. Some
+rich suburbs zone them out as nuisances, but that is the exception: few can
+afford the luxury. The classic "good reason" for zoning is to protect ivy-
+126                                              Tax Reform toReleaseLand
+
+
+covered cottages from gas stations and rendering plants, but in most LGs the
+zoning gives these nuisance uses a wide choice of sites among dwellings. The
+ivy-covered cottages are the nuisance: they produce the fiscal pollutant,
+school kids. Many have to invade industrially and commercially zoned land,
+because so little is zoned residential.
+   The main limit on commercial zoning is imposed by influential merchants
+to stifle competition. Zoning boards entertain as quite legitimate, legal, and
+respectable the plea that commercial zoning be denied a newcomer because it
+would hurt someone else's business. The common law rule against monopolies
+is easily forgotten. This is in keeping with the historical municipal Mercantil-
+ism of monopolistic city-states.
+    Zoning often determines property tax assessments. From the land specu-
+lator's viewpoint, the ideal is farm zoning and a low assessed value during the
+ripening period, with the option to secure high-density zoning at the time of
+his choosing. Many have succeeded in achieving this. The rest of the commun-
+ity appreciates the speculator's not diluting the local tax base by developing,
+but would also appreciate his enriching it by paying taxes. There are other
+pros and cons in each case, too, and great variety in the compromises struck.
+But there is a common theme: zoning is used to hold down property tax
+assessments on ripening land. Zoning helped to change the property tax from
+a tax on present and potential land value to a tax on land use, activity, and
+human occupancy. It reinforces and legitimizes the assessment discrimination
+that occurs even without zoning. The assessment discrimination, in turn,
+helps keep land in low-density use or cold storage, withheld in either case
+from the poor.
+   Subdivision controL LGs have power to refuse subdivisions, and can make
+them meet standards. It is an obvious occasion for upgrading, and goldplating
+street improvements has become the rule. An aerial photograph shows vast
+areas in subdivision paving, planned to repel through traffic, used entirely for
+local access. The result: expensive lots, as intended.
+   Some LGs impose what are in effect special taxes on new building tracts by
+requiring donations of land for school sites. These add to the price of new
+houses, limiting supply and excluding poorer buyers.
+   A pernicious byproduct of imposing extra costs on subdividing is an exag-
+gerated propensity to build without subdividing, where possible. This means
+stringing buildings out along trunk roads fmanced by city, state, or the
+United States. Interior land is sterile, or worse, divided into bowling alley
+lots. Settlement is linear, guaranteeing a minimum of linkage, and a maximum
+of interference and congestion. The resultant low density makes public trans-
+port uneconomic, leading to total dependence on private autos —another
+exclusionary device.
+Mason Gaffney                                                               127
+
+
+   Building codes. The worthy purposes of codes, like other devices, are
+easily subverted to exclusionary ends, and probably have been. "Every build-
+ing a Cadillac" is hard on Datsun budgets. Occupancy limits further require
+that the Cadillac have empty seats.
+    Grandfather clauses let standards be focused on new buildings, the cutting
+edge of supply, without threatening old ones. This, too, acts against renewal.
+    It is grotesque to watch HUD struggling with its Operation Breakthrough,
+as though cheap housing waited on engineering advances. The theory of Cul-
+tural Lag has been a commonplace for decades, yet technocratic minds keep
+seeking physical solutions to institutional problems. American industry has
+offered us a good cheap dwelling unit called a trailer for as long as the life of
+the theory of Cultural Lag. The reason it does not solve our housing shortage
+is not to be found on the assembly line, but in the Assembly Chamber. LGs
+will not let them in, largely because they dilute the tax base.
+
+    Condemnation. Many cities condemn old buildings for safety and health
+reasons. This does, where applied, bring euthanasia to structures forced into
+the geriatric stage by policy. But the emphasis is on clearance, riddance, and
+removal, not on rebuilding. Like federal urban renewal, condemnation lends
+itself to policies of exclusion.
+    LG authorities would condemn old buildings more vigorously if welfare
+were all locally financed. Large federal sharing in welfare makes old slums
+much less a local liability than otherwise. The main local liability remains the
+school child.
+    Condemnation operates in reverse when a forsaken gargoyle, cornice,
+aesthetic or "historical" antiquity is threatened by market forces. People who
+look the other way when poor families are driven from their condemned
+homes may often be found rallying to save a shrine that symbolizes what they
+define as history or tradition. If it stands in the way of a housing project, so
+much the better.
+
+   Taste conformity. Some LGs have architectural review or fine arts com-
+missions and the like, with certain powers to save antiquities, prohibit non-
+conforming styles, and so on. Ostensibly they are concerned with aesthetics,
+and no doubt they are, but taste standards are subjective and often absolutist.
+As Veblen taught, an objective factor in taste is waste, preferably dignified by
+age and obsolescence, tempered by modesty in display. But modesty in dis-
+play entails setbacks, leading to immodest land requirements, the ultimate
+symbol of financial respectability, reserve power under leash, and priority of
+status. Class bias may masquerade as anger at the greed of developers, and
+fear of children as love of beauty. The end result is another fence against the
+poor.
+128                                                 TaxReform toReleaseLand
+
+
+Regressive Regulatory Bias
+   Utility rate regulation nearly eveiywhere ignores the fact that distribution
+cost gets lower as density rises and gets higher with distance from the load
+center. Yet at today's low densities, distribution (or collection) has become
+far and away the major cost in almost all utilities, so total costs are domi-
+nated by density of settlement. The cost varies as a function of area pri-
+marily, and only incidentally with volume per meter. Rates do not reflect
+these differential costs. Discounts, indeed, go to the large individual buyer,
+irrespective of density. Many large individual buyers are at low density and
+far out, and should pay higher rates.
+   Thus "rich territory" subsidizes the lean, and small lots subsidize the large.
+Utility rates are a regressive tax. Owners of large lots and of undivided vacant
+land are spared part of the costs of services available to them and hence are
+under less pressure to subdivide their land.
+   If the surpluses wrung from small users of land in this fashion went to
+local school boards, LGs might welcome the poor. But the surpluses are
+pooled, instead, over utility networks covering many LGs. The local school
+district is hit with the cost of the children living at high density, while the
+benefit of low per capita utility costs is diffused over a wide system. As a
+result many LGs use their power over certain mass systems, mainly sewer and
+water, to control immigration. They can block subdivision with "sewer
+power" by refusing sewers, pleading undercapacity — and then fail to increase
+capacity.
+   Meanwhile, building continues at the low densities appropriate to private
+individual water wells and septic tanks. Capital costs are high, and screen out
+the poor. Large-tract platting preempts land and precludes subdivision. In
+terms of sewer and water service this pattern of land settlement makes no
+sense at all. It is a device of local fiscal particularism, calculated to fortify the
+per capita tax base. And it is growing. Those who put much hope in cracking
+snob zoning as the route to reform, take note. LGs have several lines of
+defense.
+
+Allocation of Municipal Funds
+  The tendency of cities to tilt capital and operating budgets toward their
+upper classes is widely observed. In recent years, Milwaukee cleared a large
+urban renewal project area, evicting scores of families stacked up in the
+ghetto — but scheduled all its capital budget for city utilities into expansion
+onto raw land, zoned for large lots. The specifics are available but the point is
+not Milwaukee. If it were just one city we could laugh at the human circus.
+But this is a national epidemic, and where are these "whole square miles" of
+Mason Gaffney                                                                129
+
+
+poor people to find a resting place short of the whole square miles of tax-
+exempt land reserved for cemeteries?
+
+Industrial Promotion, Federal Programs, and Other Policies
+   In seeking industry, there is a hierarchy of desirables. It is based largely on
+capital intensity. Capital means taxes; labor means school children. Cities
+seeking industry use all their seffing wiles to favor capital over labor.
+   Cities have primary control over sales of cleared land under federally sub-
+sidized urban renewal programs. Sales and conditions are dominated by fiscal
+bookkeeping, in keeping with other policies.
+   There are dozens of ways that city policy affects land use — too many to
+catalog here. Step by step, a city's motives determine the result. Today, the
+motive is to repel poor people, and many programs develop that thrust.
+   Without itemizing every policy, note the implication of the fact that there
+are many. If local government is to function meaningfully it must have
+powers and areas of discretion. Anti-Mercantilist policies of central govern-
+ment should aim at restructuring incentives, therefore, rather than at impos-
+ing federal control on every specific power, as by categorical grants. The
+virtues of local autonomy are those of independence, human scale of organi-
+zation, contact with local needs, and quick responses. These are to be pre-
+served and cherished. To overcome LG Mercantiism by direct controls is to
+destroy local autonomy, a price too high to pay, especially since we don't
+have to. The alternative is to make it fiscally advantageous for LGs to attract
+people so that they will compete for families instead of for capital and land.
+This brings us to the subject of taxes.
+
+
+                    THE PROPERTY TAX, LAND USE,
+                    AND MUNICIPAL MERCANTILISM
+
+   The property tax is at the heart of fiscal Mercantilism in today's American
+cities. It is a control over land use — the most powerful and pervasive of all,
+and the most flexible. It has been used as an exclusionary device, but it can
+be, and to some extent has been used as a promotional device, depending on
+how the assessor allocates real estate value between land and buildings. The
+property tax can be a lever for the reform of LG Mercantilism.
+   Property taxes affect several aspects of land use: intensity, frequency of
+demolition and renewal, size of parcel, choice of location of improvements,
+and the time when land is ripe for higher use. In the aggregate, property taxes
+affect the supply of buildings and floor space in each LG jurisdiction. The
+property tax not only raises money, it controls land use, redistributes wealth,
+130                                                Tax Reform toReleaseLand
+
+
+and dominates LG Mercantilism. It wants a close analytical look. Analysis
+may entail some pain. But, as your dentist says, it only hurts a little, and it
+should improve your bite.
+  The property tax is at least three taxes: one on land, one on buildings, and
+one on personal property (in practice, business inventories). Each has its
+distinctive effects. I treat the first two separately, and omit the last, which is
+the smallest, in the interest of brevity.
+   The effect of property taxes depends among other things on how high the
+real rate is. A rough national mean today might be about 1%-2 percent with
+a wide dispersion about the mean. At these levels the tax rate is still not very
+high next to interest rates at 8 percent or so, and annual inflation at 4 percent
+or so. But the effect of the tax rate may outweigh the effect of interest at an
+equal rate if the interest is only forgone interest on equity, because the tax is
+a cash outgo. There are many LGs, too, where real rates are above 3 percent,
+or are threatening to be. There are a few up around 7 percent with Newark
+and Boston. Here the property tax is a major control.
+
+Intensity of Use
+   Taxes on buildings. The property tax on buildings is a percentage of their
+value and is therefore something like an increase in the mortgage interest rate.
+Interest is the largest cost by far in building, as it is with all very durable
+goods; over the life of a building, interest on investment is greater than the
+principal, the latter representing payments to construct the building. The
+property tax added onto this cost and recurring annually for 50-100 years is
+the second largest cost, unless rates are uncommonly low.
+  The effect of raising building costs is to reduce building. And when one
+does build, everything about a building that is marginal is made submarginal.
+Every individual site, considered in isolation, is less intensively improved.
+Chopped off are marginal increments to quality, beauty, safety, pollution
+control, convenience, fireproofing, quakeproofing, insulation, durability,
+height, and all aspects of intensity (excepting lot coverage, discussed sepa-
+rately). In essence, one applies less capital per unit of land. It is a matter of
+diminishing returns of capital applied to land.
+   It is a sad fact of life that egoism precedes altruism, and much of what is
+marginal to an owner is that which is there to impress, please, and avoid
+offending and endangering his neighbors. What is marginal to the owner is of
+more than marginal value to the health of neighborhoods, so the loss of
+marginal increments to one owner's capital is a collective loss of consequence.
+In some jurisdictions it has been found that building owners neglect exterior
+appearance specifically and selectively because they believe it influences asses-
+Mason Gaffney                                                               131
+
+
+sors. The celebrated case of the Seagrams Building assessment in Manhattan,
+although extreme, lends credence to this notion. The Seagrams Building as-
+sessment was raised 50 percent because of its good looks.4
+    Taxing buildings makes capital dearer, motivates people to substitute land
+for capital, and encourages horizontal spread. Vertical rise meets increasing
+capital costs, whereas horizontal spread enjoys decreasing capital costs, up to
+a point, and saves on capital by consuming more land.
+    This produces the anomaly that taxing buildings, although it lowers inten-
+sity, acts to increase lot coverage. By putting a premium on horizontal spread,
+it encourages the building to invade the yard. This might be overcome by
+enlarging the lot, but here one runs directly into his neighbor trying to do the
+same thing. A corollary is artificially forced demand for land, and higher land
+prices. In time this also leads to urban expansion and larger lots.
+    High rise is sometimes painted as a desperate expedient of poverty, but it
+is more accurately seen as a luxury that lets us enjoy the benefits of closer
+living without walling off all open space. The luxury is available when capital
+is cheap. Taxing buildings makes capital artificially dear and prices this luxury
+out of the market.
+    Where lot coverage is limited by zoning and buildings are taxed, horizontal
+spread cannot substitute for height. The net result is limited height and a
+reduction in the carrying capacity of the land of the LG. The tax is another
+form of forced land consumption — less direct than zoning, and with other
+side effects.
+  Taxes on land value. These would be neutral in their effect on land use
+under the simplifying but unreal assumption that there is a perfect market for
+capital. The tax cost does not add to the interest cost of holding land, but
+displaces it. Forgone interest on equity falls as the tax lowers the price of
+land. Simple algebra shows that the decline of interest cost exactly equals the
+increase of tax levy — that is the classic theory of tax capitalization (see
+Appendix, section I).
+   But in fact, interest rates vary among people. They are regressive — the
+poor pay more. Land taxes, assuming true assessment, are not regressive.
+Substituting taxes for interest therefore undoes the effect of regressive inter-
+est rates. It hits the rich owner harder than the poor. This is the theory of
+differential capitalization of land taxes. It gives the land tax a progressive
+quality (see Appendix).
+   Differential capitalization increases the bidding power of the poor for
+land, causing them to encroach on lands held by the rich. This occurs through
+
+   4Life, August 16, 1963, p. 4.
+132                                                Tax Reform toReleaseLand
+
+
+subdivision of large holdings, accelerated release of ripening land to higher
+uses, consolidation of very small holdings, and sales of land from the rich to
+the poor.
+   The effect of land taxes on intensity of land use is therefore not a simple
+plus or minus. The effect is equalizing as among classes. Land taxes let the
+poor, who live crowded on poor land, live less crowded and move to better
+land. They lower density for the poor by raising it for the rich, who own
+most of the land.
+   That is not widely understood. It is often advanced that land taxes "force
+land into use," and result in higher density. This simplicity is catchy and will
+not easily give way. But it is misleading. Land taxes crowd the rich, but open
+up more land for the poor. Only from the standpoint of the wealthy are land
+taxes simply intensifying. The land tax is rather redistributive.
+   In terms of finding land to house and serve the mass market and the poor,
+this kind of redistribution is a virtue. But at the local level, it runs counter to
+Mercantiist needs by increasing population, attracting immigrants of only
+average wealth, and whetting competition. This is why the exclusive taxation
+of site values has not been more widely supported by LGs. The state and
+national incentive structures are not gauged to make its results unambigu-
+ously attractive to them.
+   Land taxes focused on central land also tend to lower intensity of land use
+in fringe areas by meeting demand on central land and so weakening out-
+thrusting demand. Those who choose to go exurban thus achieve lower den-
+sity, too.
+
+Timing of Demolition and Renewal
+   Short-run effects. When a building is old, the effect of building taxes is
+probably to lengthen its life, and certainly to defer the renewal of its site.
+   It is not the taxes on the old building itself that lengthen its tenure. On the
+contrary, they may cause premature demolition and replacement by a parking
+lot or a nothing if the owner can count on the assessor then lowering the
+valuation, a point on which local practice varies.
+   What does defer renewal is the threat of taxes on the successor building.
+Building on a parcel of real estate is the occasion for a large increase in the
+tax bill. This throws a weight into the scales of decision between old and new.
+The year that would be optimal for renewal in the absence of taxes now looks
+premature to the owner, because of the tax difference.
+   So long as taxes depend on the use to which land is put, they intercede in
+the competition of the market in favor of the lower taxed use and alter
+decisions at the margin. Here it is a matter of one particular application of
+that general principle: the margin of decision between old and new. Building
+Mason Gaffney                                                              133
+
+
+taxes are heavier on the new and weight the decision against it. They may
+defer renewal for any number of years and decades, depending on particulars.
+Because of neighborhood effects, which are mutually reinforcing, what defers
+renewal of the individual site for 25 years may defer renewal of neighbor-
+hoods and cities for 50 years or in some cases forever. The city may die.
+Some cities are dying in this way. Perfectly good land is abandoned, rendered
+unrenewable by the cumulative neighborhood effects of counterproductive
+tax policy.
+    Land taxes are more neutral than building taxes in the renewal decision,
+and in perfect capital markets they might be completely so. In practice they
+accelerate renewal because they drain cash from holdouts waiting for high
+bids from builders. According to the portion of tax theory that looks at
+marginal incentives and ignores the wealth and liquidity effects of taxes, land
+taxes are simply neutral, and in an important sense that is true. But taxes
+affect behavior in more than marginal ways. They affect it through changing
+relative wealth and holdout power and credit ratings. The effect of a cash
+drain on a holdout far outweighs the effect of an equal value of forgone
+interest on equity because the cash drain lowers his wealth and liquidity. The
+cash drain of land taxes also conveys information to many owners who are
+only vaguely aware that they are holding a resource of high salvage value to
+society. Land taxes build a fire under sleeping owners. Anyone who talks
+with owners of ripening land soon learns that many who are not in debt
+perceive their holding costs in terms of taxes more than forgone interest,
+though the latter be five to ten times as high; and in legislature assembled
+they put their faith in preferential low assessment of ripening land when they
+want to forestall its urbanization. If money talks, the tax dollar outtalks the
+interest dollar, at least the dollar of forgone interest on equity, which speaks
+in a whisper.
+   Long-run effects. Taxes also affect the planned life of buildings. Because
+they act like higher interest rates, they discourage durability, which may be
+perceived as substituting capital for labor. From this, it is easy to infer that
+building taxes act to shorten planned life. Easy, but wrong, for the taxes also
+force substituting land for capital. In the discussion of intensity of use, that
+meant spreading out in space. Here it means spreading out in time, letting
+structures stand a long time before demolition.
+   So we seem to have two contrary forces at work. Building taxes cause us
+to build less durable structures, but then to defer demolition. These two
+forces are consistent in that each helps save on capital. They are at odds in
+that the first appears to shorten life, the second to lengthen it.
+   The matter is resolved by distinguishing service life from carcass life of
+buildings. Taxing buildings makes us shorten service life, but lengthen carcass
+134                                                Tax Reform to Release Land
+
+
+life, thus creating a geriatric afterlife of buildings during which they occupy
+space without doing much good. Houses are built for faster recovery of
+capital but slower recovery of site, so that the shells of old structures, the
+ghosts of departed values, stand to haunt us after they have been drained of
+most of their serviceability.
+   This reinforces the short-run effect. Old buildings stay with us a long time,
+thanks to taxes on buildings, and they stay with us yielding less service.
+   There are those who oppose demolitions on the ground that they destroy
+housing for the poor. Federal Urban Renewal Programs and other removal
+programs have been frightful in this respect, and wanton demolition for
+"slum clearance" is surely to be condemned. The proposal made by John and
+Ursula Hicks to exempt new buildings while taxing old5 is to be faulted for
+forcing premature demolition. But taxing buildings as generally practiced in
+the United States today is not defensible on the grounds that it defers demoli-
+tion because it does so only by weakening the profit motive to rebuild and
+increase supply. Indeed, taxing old buildings, taken by itself, often causes
+premature demolition, long before land is ripe for renewal. In tandem with
+the tax threat against new buildings, it lengthens the dead period between
+buildings when land is held out of service.
+   As to land taxes, they are again more neutral, subject to the qualification
+that the market for capital be perfect. But taxes affect behavior in at least
+two ways. There is the effect on marginal incentives, discussed above; then
+there is the wealth effect. Land taxes are neutral in respect to marginal
+incentives, but they have a definite wealth effect, especially in contrast to the
+taxation of buildings. Taxing buildings drains wealth from, and creates liquid-
+ity crises, for builders; taxing land serves the same discipline to nonbuilders
+and to the holders of obsolete and inadequate improvements. By this mechan-
+ism land taxes affect the market sharply.
+
+Size of Parcel
+  We have seen that taxing buildings causes the substitution of land for
+capital. The immediate impact is increased lot coverage. The secondary im-
+pact is bigger lots. If there is just so much land in a city, lots cannot get
+bigger, and the result is simply higher land values. But if a city can spread out,
+it does, under this influence.
+    Similarly, taxing buildings discourages subdivision where that means more
+capital per acre. It discourages converting old estates to middle-class housing,
+for example, because the tax bill would rise.
+
+  5J. and U. Hicks, Report on Finance and Taxation in Jamaica (Kingston: Govern-
+ment Printer, 1955), chapter 10.
+Mason Gaffney                                                                        135
+
+
+   Apartments might seem to be an exception because they involve assembly,
+but the exception is only specious. The ownership of apartments is unified, as
+a rule, but the use is subdivided. So subdivision, broadly construed, includes
+the building of apartments. A tax on buildings is quite consistent in its bias
+against this kind of land use.
+   Land taxes are not neutral in their effect on the size of parcels, for a
+reason already cited. Interest paid or forgone is the main cost of holding land.
+Interest rates are regressive, and as a result, the use of land is regressive. This
+means that those who enjoy low interest rates spread out over land that at the
+margin yields them less service than it would yield their credit-pinched rivals.
+Land taxes displace the interest cost of holding land by a tax cost. They fall
+harder on those who enjoy lower interest rates and larger land holdings. They
+tend therefore — assuming true assessment — to equalize land holdings.
+
+Choice of Location
+   The effect of taxing buildings is not merely incremental in the manner
+treated so far. It changes the relative bidding power of different uses, and
+changes the structure of cities.
+    In a perfect market, uses needing high accessibility cluster around a center
+of maximum access. Access is mutual, so the presence of those seeking access
+is a net benefit to others seeking access, and clustering is self-reinforcing, up
+to a point. Likewise, uses needing specific mutual access, or access to the
+same people or things, cluster in specialized neighborhoods and districts.
+Aggregate transportation needs are minimized, for any level of linkage. There
+is a logic to market decisions — the "highest and best" use in the market sense
+also has a good claim to approximating highest and best use in a more ulti-
+mate sense of social good.6 So it is a social cost of moment to deny the
+market allocation of land without some good reason like a playground, mini-
+park, or street.
+   Two rival uses compete on equal terms for land, and represent equally high
+and good use, when they have the same imputed site value, S.
+
+(1)                                S=PVR-C
+where PVR is the present value of revenues (net, discounted), and Cis cost of
+construction. It is the difference between PVR and C that makes site value,
+
+   6For further discussion and sources, see Mason Gaffney, "Land Rent, Taxation, and
+Public Policy," Papers of the Regional Science Association, vol. 23 (1970), pp. 141 —153;
+and "The Sources, Nature and Functions of Urban Land Rent," American Journal of
+Economics and Sociology, July 1972, pp. 241 -57.
+136                                                Tax Reform toReleaseLand
+
+
+not the absolute size of either. Thus a gas station can sometimes compete
+with an apartment; though present value of revenues is less, so is construction
+cost. But the effect of building taxes varies with C, the tax base. As between
+two uses equally high and good, i.e., with an equal difference of PVR and C,
+the building tax intercedes in favor of the one of lower construction cost (C).
+Although its revenue is less, the gas station outbids the apartment because the
+apartment would have paid more building taxes.
+   This is a matter of leverage. A given percentage increase in cost cuts deeper
+into the residual land value afforded by the more intensive use, because its
+cost is higher relative to the land value. Let us give that some precision and
+generality.
+  We begin by converting the stream of future building taxes to a lump sum,
+their present value (PV). "Present value" of the stream means if you bor-
+rowed PV and paid it off on the installment plan over the life of the building,
+your annual payment would be the amount of your building tax. The PV of
+an annual payment of $1 over sixty years is a lump sum of around $13
+(discounting future dollars at 7 percent per year compounded). So a property
+tax rate of 1 percent of building cost is equivalent to a present value of 13
+percent of building cost.
+   This comes out of what a builder can bid for land. He reduces his bid by
+13 percent of the cost of the planned building (C). The higher is C, the more
+the disadvantage.
+   Let us couch this in terms of the percentage drop in what competing uses
+can bid for a site. The absolute drop, for each 1 percent of tax rate, is:
+
+(2)                            —S = 0.13C.
+That drop as a percentage of site value is:
+
+(3)                          —AS/S = 0.13C/S.
+
+C/S for a high-rise structure might run 8/1. Since 8 X 0.13 = 104 percent,
+the tax reduces the bid by more than 100 percent and so wipes out the site
+value.
+   For a $70,000 gas station on a $140,000 hot corner, C/S is ½. Since
+½ X 0.13 = 6½ percent, the oil company can bid only 6½ percent less than
+if there were no taxes. The effect of building taxes is to give the less intensive
+use a comparative advantage over the more intensive.
+    That does not mean the total abolition of high-rise buildings everywhere.
+This is not the way the world works. It means gas stations get more land, and
+better land. (They also spread out.) Apartments get less land, and worse.
+(They also are built shorter.) Gas stations move into the center; apartments
+Mason Gaffney                                                               137
+
+
+move outwards. This helps account for the anomaly of intensive uses popping
+up on poor land and mixed in with much lower uses, while low uses preempt
+much of the central land. In general there is a poorer matching of buildings
+and uses with sites.
+   The above is a picture of urban disintegration. Our ways of imposing taxes
+play a role in making cities sprawl. Sprawl, in turn, with attendant suburban
+enclavization, weakening of metropolitan community ties and facilities, and
+automobile dependency, spawns many of the problems of class conflict that
+concern us now.
+   More directly, the bias against uses with a high building-cost/site-value
+ratio (C/S) is a bias against the poor, who live crowded at much higher
+density than the rich and on land of lower unit value as a rule.
+   I noted earlier that the tax on buildings affected incentives somewhat as
+would a rise of interest rates. Here we reach the limits of that parallel. The
+building tax is more specifically targeted against intensive use than is the
+interest rate. In the extreme, on an unpaved parking lot yielding income with
+no building, the building tax does not lower its value a bit, while a higher
+interest rate would lower the value. More generally, in (1), building taxes are
+proportional to C, while higher interest rates have an effect which is propor-
+tional to PVR. Thus the artificial scarcity of capital caused by the building
+tax is more disruptive to the integrity of urban linkages than is a natural
+scarcity of capital reflected in high interest rates. Indeed, high interest rates
+would also make roads and affied infrastructure costlier, raising horizontal
+transportation costs and raising the premium on central location.
+
+Ripening of Land for Higher Use
+   Criteria of ripeness. Under dynamic conditions, land is often in transit
+from one use to another and usually higher use. In anticipation of a move, it
+develops an "expectation value," or speculative value, that is higher than
+income from the current best use will support. When should the owner take
+the quantum jump and initiate the higher use? When is the land ripe for the
+change?
+   The choice of ripeness date (D) is difficult because a durable building,
+indivisible in construction, must be placed on the land to shift its use. As
+demand for the site grows with each succeeding year, the hypothetical opti-
+mal improvement that one would put up if he were going to build in that year
+changes. Each succeeding year's optimal building yields more net present
+value to the land.
+   To avoid premature, preclusive underimprovement or other irreversible
+error one postpones building — but not forever. R. T. Ely identified himself
+with the doctrine of "ripening costs" in which he argued the case for deferral,
+138                                                      Tax Reform to Release Land
+
+
+but he failed to supply a criterion for ripeness. D-date (ripeness) arrives when
+the value imputed to the site by each succeeding year's hypothetical optimal
+building stops rising faster than the interest rate.7 (This is the same as select-
+ing the date that maximizes present value of the land as of any fixed calendar
+year.) By not building in Year 1 you forgo — and thus in effect invest — the
+present value of site (S1) realizable by building in Year ito gain 2 in Year 2,
+orS3,S4,. . . ,S,.Ifany
+
+(4)                             S, > S1 (1 + i)' -1
+
+then the value of holding the uncommitted site grows faster than money in
+the bank and is a good investment.
+   In addition, there is current site income (a i) from the tag end of the prior
+use, or from some interim use. Adding these in, a site is not ripe so long as
+
+(5)                              (a1 + iS)/S1 > i
+Note that IS is not just the yearly rise of land value in the market, but is
+       S1 as defined in the previous paragraph. S is "use value." It is below
+      —
+
+market value until the optimal year of building, at which time use value has
+risen to equal market value. Market value is use value at D-date (ripeness)
+discounted, so market value grows at the investor's rate of interest. Use value
+(5) grows faster than that until ripeness, by defmition of ripeness.
+   Taxing buildings affects ripeness. We have seen that taxing buildings re-
+duces site values derived from buildings and applies leverage against intensive
+building. It follows that taxing buildings affects the growth rate of site values,
+assuming that the optimal building-cost/site-value ratio (C/S) changes with
+ripening. Thus taxing buildings affects the date of ripeness.
+   I shall show the following. As land ripens, the effect of taxes on the
+ripeness date depends on whether further waiting would lead to a higher or
+lower C/S ratio. Normally it leads to a lower ratio; C rises, but S rises by a
+higher rate. The effect of taxes is then to retard ripeness. They make one
+more disposed to sacrifice an earlier for a later use.
+   This is the kind of elusive relationship that algebra was invented to nail
+down. To simplify, assume no current income from a prior or interim use. To
+simplify the notation, the present value of the stream of future net revenues,
+
+      7Mason Gaffney, "Replacement of Individual by Mass System," Proceedings of
+American Real Estate and Urban Economics Association, vol. 4 (1969), pp. 21—68. This
+piece also treats the effect on ripeness of later generations of use, a point omitted here.
+Mason Gaffney                                                                139
+
+
+PVR in equation (1), is denoted simply as R. The growth rate of use value (5)
+is:
+
+(6)
+                                S
+                                       _____
+                                        R-C
+   Let T be the present value of future building taxes, expressed as a percent-
+age of C. (We previously illustrated T as 13 percent for a 1 percent tax rate;
+about 15-40 percent is normal, depending on the tax rate and the discount
+rate.) After taxes, assumed to lodge in lower site values:
+
+                           S_R—C(1+T)
+()
+7
+                            S R—C(l+T)
+Taxes proportional to LC reduce S, because iC comes out of IXS. But taxes
+also reduce S, the denominator of the rate. Which factor prevails? The rules
+of algebra provide an answer.
+   The effect of taxes is to raise the growth rate of S if:
+
+
+ 8                     iR—zC(1+T)>zR—zC
+                         R — C(1 + T)               R— C
+
+     By cancellation (or inspection), (8) implies
+
+(Q\                                 ZC     zR
+                                     C<R
+   By inspection, (9) is true if C/R is falling. I shall call C/R the cost/benefit
+ratio. From (1), R is (C + 5), the sum of building and land value, so:
+
+                                    C_ C
+(1)                                 RC+S
+Thus C/R is simply the share of building cost in real estate value. Falling C/R
+implies falling C/S as well.
+   Intuitively we think that land npens into higher intensity, but intuition is
+a blind guide here because it compares incommensurables: building value per
+unit of land area. Economic intensity compares commensurables: building
+value and land value. Our C/S and C/R are proper indices to economic inten-
+sity.
+140                                                  Tax Reform to Release Land
+
+
+      For several reasons, I believe ripening usually entails a drop in C/R. C rises,
+but R rises at a higher rate, so C/R falls. These reasons are developed in
+section II of the Appendix. So the usual effect of taxing buildings is to retard
+ripeness by raising the percentage growth rate of the use value of the site. I
+conclude that the paramount effect of building taxes on ripeness is to defer
+it.
+    The demonstration above must be tempered to allow for the evasive action
+of the taxpayer faced with the threat of a tax on buildings. This modification
+is in section III of the Appendix.
+      Occasionally, ripening would lead to a higher dR. Then the effect of
+building taxes is to advance ripeness by making the later use relatively less
+attractive. The point of consistency is that intensity loses either way. Taxing
+buildings makes landholders more patient to wait for lower uses, but less
+patient to wait for higher uses. But section II of the Appendix shows that
+excessive patience is the rule.
+   Neighborhood effects add to the retarding influence of building taxation.
+Part of ripening is not waiting so much for greater demand but for greater
+certainty. Certainty means waiting for neighbors to commit themselves. But
+Alphonse waiting for Gaston simply perpetuates uncertainty when Gaston is
+waiting for Alphonse. Much of the rationale for ripening is a hyperindividual-
+istic one that does not bear examination from a social viewpoint and can only
+be painted a social good by committing the fallacy of composition. "We have
+no plans," said a San Francisco land speculator, "we're waiting for other
+people's plans." In such a context, whoever leads off ripens his neighbor's
+land and shortens the sterile downtime of land between major improvements.
+Building taxes that retard the improvement of one site thus retard the ripe-
+ness of neighboring complementary sites by generating uncertainty. Uncer-
+tainty of this kind in a highly complementary urban neighborhood is an
+external nuisance every bit as noxious as odors, fumes, noises, and shadows.
+    I remarked earlier that the property tax on buildings affects investor be-
+havior somewhat as would a rise of the interest rate. In respect to ripening
+that is not true. A higher interest rate would also require the use value of sites
+(S) to grow faster to remain unripe; but a higher building tax rate has no such
+effect. Indeed, the macro nationwide effect of having buildings taxed in all
+jurisdictions is to lower the level of interest rates that investors require land
+to earn.
+    Turning to land taxes, they would be largely neutral if credit markets were
+ costless. It is widely believed that they speed up ripening, but the belief has
+ been wrongly rationalized. It rests mostly on assuming that land taxes are
+ piled on top of interest costs of holding land. But land taxes are capitalized
+into lower values, and thereby supplant interest costs rather than supplement
+Mason Gaffney                                                               141
+
+
+them, as already noted. The reason that land taxes hasten ripening is that
+ripening land is mostly held by strong hands whose comparative advantage
+lies in holding assets where the main cost is paying interest on loans and
+forgoing interest on equity. Hastening the ripening of such land is simply an
+aspect of the transfer from rich to poor that land taxation effects via differen-
+tial capitalization (see Appendix, section I).
+    Frequently the date of ripeness is outside the owner's direct control and
+depends on when public works are extended. Today, in many suburban areas,
+sewers are controlling. Here, land taxes cannot speed ripening until sewers are
+built. But they can then speed private building to match public building and
+effect great savings on public capital of all kinds.
+    Land taxes also have important distributive effects. Future sewers have a
+present value to landowners. Values rise above farm levels —not once and for
+all, but incrementally along a line wiggling around a basic compound interest
+growth curve. This annual accrual of value is a current income, in the true
+economic sense, just as depreciation is a current cost. Land taxes levied ad
+valorem on the base of this selling value are a way of tapping this accruing
+income for the public. Appreciation is proportional to value; the tax is pro-
+portional to value; therefore the tax is proportional to the appreciation.
+    Arguments against taxing appreciating land do not therefore hold water on
+the grounds on which they are usually presented — i.e., that ripening land
+yields no income. They do, however, make sense to the local interests whose
+welfare is the bottom line of the municipal enterprise. Land taxes redistribute
+income from landowners to other voters and immigrants. From the parochial
+Mercantilist view this is bad. From the national view, where the welfare of
+migrants and labor are a greater concern, it might be valued more positively.
+   It is traditional to blame premature building and sprawl on ad valorem
+assessment of ripening land. Premature extension of public works is more
+guilty, coupled with postmature conversion of ripe land close-in, made unripe
+or submarginal by taxes on building.
+   Aside from wealth effects, land taxes are neutral in their effect on date of
+conversion, so long as they are not contingent on the date selected. Noncon-
+tingency is the same principle that makes land taxes neutral towards other
+land use choices. Suppose someone were panicked by rising land taxes into
+premature urbanization of farmland, as is sometimes feared. What would he
+gain? Either he would overimprove and lose money the first few years; or he
+would gauge his building to the slim early market, and in a few years be
+locked into an underimprovement while his land assessment and taxes kept
+on rising.
+  If he behaves rationally he will not convert land sooner because of tax
+carrying costs. The time permanently to convert land use, with or without
+142                                                Tax Reform to Release Land
+
+
+taxes, is when the rapid rise of value begins to taper off. Then the land is ripe.
+This happens when the city has grown out to abut the land in question. Land
+taxes should tend to help conversion be less disorderly than now by equaliz-
+ing carrying costs among owners of different credit ratings. Land assessments
+should also be given a quantum jump when public works are supplied, trigger-
+ing action, prompting owners to fill in compactly and developers to sell
+quickly, lest the public investment in the works be sterile.
+  Land taxes would encourage premature conversion if the assessor malad-
+ministered them, i.e., if he raised them until the owner improved the land,
+then locked the assessment at that level. Under that system, the owner could
+buy himself a low assessment by early underdevelopment. Some assessors do
+maladminister like that. The solution is the building-residual method of as-
+sessment: assess the land at what it would bring if vacant; then assign the
+building the residual value.
+
+Aggregate Local Effect of Property Taxes on Supply of Buildings
+  Building taxes. The overall effect of taxing buildings is to reduce the
+service flow from a municipality of given area. We have seen this in several
+aspects.
+    Intensity falls, in terms of quality, durability, and height especially. There
+is some compensatory tendency toward increasing lot coverage, the strength
+of it depending on whether people have somewhere else to go. If they do, lots
+get larger as buildings ramble.
+    Site renewal slows down greatly. This slowdown, coupled with less durable
+buildings, creates slums and out-of-service land. Each old building robs neigh-
+boring sites of their renewability, and the extreme result is nonrenewable,
+abandoned neighborhoods.
+   Building taxes magnify the motive to withhold land for ripening. The
+virtue of avoiding premature commitment is distorted into the vice of post-
+mature commitment. Within a neighborhood the delay can be indefinite, as
+each separate owner, waiting for certainty, imposes uncertainty on others. In
+the still larger scene of the entire metropolis, postmature building in truly
+ripe areas disperses demand outwards. Development takes place in outer areas
+that are made to look ripe from a local viewpoint, even after taxes, but are
+grossly premature in the regional plan. This is the more likely when central
+city tax rates become substantially higher than suburban.
+   Taxing buildings tends to favor larger parcels and discourage subdivision
+and apartments.
+   Last, taxing buildings weakens the relative bidding power of more inten-
+sive uses in competing for land, and changes the structure of cities. Gas
+Mason Gaffney                                                              143
+
+
+stations and parking lots push high buildings out of the center. Out-of-service
+lands break up complementary clusters, and cause urban sprawl.
+   The combined effect is to reduce the service from any given amount of
+land and to diffuse demand over a wider area than is necessary, economical,
+or socially desirable. This result is a kind of forced consumption of land, plus
+forced consumption of capital, as sprawl inflates the infrastructure costs of
+urbanization. This heavy capital cost dashes the hope that moving out to
+cheap land in the old frontier tradition may open up land for housing the
+mass market.
+   Land taxes. The overall effect of taxing land is toward equalizing the
+intensity of use between rich and poor by displacing regressive interest costs
+with the tax. That means intensifying the use of land, because most land is
+held by the rich; but it means more land per family for most families, be-
+cause the median family is far below the mean in income and even lower
+in wealth.
+   Taxing land is redistributive, the more so when the proceeds go to finance
+schools and welfare. So long as localities were infected with a wish to grow,
+and an egalitarian philosophy, land taxes found strong support. In today's
+mood of local Mercantilism, which questions growth and leans to elitism
+while still seeking local efficiency and community, tension and ambivalence
+surround the local taxation of land.
+
+
+                  EFFICIENCY, EQUITY, AND POLICY
+
+   Policies of forced consumption of land and capital achieve their ends at
+high cost in social efficiency. They reduce density below what sovereign
+consumers evidently desire, running up heavy public costs in the process.
+They retard renewal and create slums. They frustrate the mass market desire
+for cheap land and cheap housing.
+   They make cities disintegrate in several ways. Building taxes weaken the
+relative power of intensive uses to compete for the most accessible land.
+Underemphasis on land taxes, as by underassessment and zoning dodges,
+causes the most rentable land to go to the strongest hands with superior
+financial power, rather than to the most productive use. A weak seller far out
+often looks better to a builder than a strong holdout close in. Zoning as we
+practice it is self-defeating, because a builder's biggest profit comes from
+breaking the zoning rather than following the rules and paying a high price
+for land already zoned to his needs. Long extension of the ripening period
+creates too many niches for shoddy interim uses that disfigure the American
+city.
+144                                                Tax Reform to Release Land
+
+
+   The policies force consumption of more land and capital than consumers
+want. And they inhibit adequate development of mass systems like transit
+and sewerage that depend on high density.
+   The set of policies also militates against social equity and sense of commu-
+nity. They are consistently biased against the poor and school-age children
+and their parents, contributing to class division and the generation gap. They
+are biased against people, contributing to the unemployment problem that
+federal policy alone has now proven powerless to abate. If Tawney was right
+that a society is rich when material goods are cheap and human beings dear,
+then these policies work to impoverish society. They treat people as a pol-
+lutant.
+   Remedial policy can be at once radical and conservative. It needs to be
+radical in the sense of being pervasive and transcendent. That is, we need
+policies that will change local incentives and nudge local decisions in the
+humanist direction, as opposed to a series of running battles forcing local
+officials to go against what they perceive to be their interest.
+   Policy can be conservative in the sense that small changes can tip the
+balance between exclusionary and philanthropic policies. Cities have powerful
+incentives to attract people, as well as to resist them. The two large forces are
+about evenly balanced. It was not long ago, after all, that the growth booster
+was an American stereotype. Heaven protect us from his most barbaric mani-
+festations, but he does display a set of motives for welcoming immigrants.
+What is needed now is to tip the scales of local incentive in favor of receiving
+human immigrants, as opposed to exclusive emphasis on capturing capital,
+public works, and territory.
+   Policy can also be conservative in retaining local control over local matters.
+There is great administrative efficiency in having each local government
+handle as much as possible, motivated towards efficiency by having its own
+bottom line to maximize. It is not important that the profit or equity be
+large. It is important that profit vary with, reward, and motivate local ef-
+ficiency.
+   It would not work to withdraw local zoning power. Zoning and other
+exclusionary devices are means to ration access to local public schools, and in
+lesser measure to parks, streets, and other common properties. To take away
+the LG's exclusionary powers would cause them to starve the teachers and
+sell the parks for commerce. They would not pay for good schools if these
+simply attracted more large, poor families to share the schools and dilute the
+tax base. Fighting the good fight against snob zoning will boomerang on the
+warriors if it results in lowering school support. The object after all is not just
+access to land for housing, but also to good schools. The object is not just to
+equalize school access, but to improve schools.
+Mason Gaffney                                                               145
+
+
+   The most important feasible radical-conservative policy change to achieve
+these goals today is to shift "foundation" school financing to the state level,
+and the property tax along with it. A year ago that was far out. Suddenly it is
+imminent and probable.
+   School children entering a community complete with a generous voucher
+for tuition, social dividend, or other device for allocating state funds by
+school population would be a local fiscal asset. LGs would compete to attract
+them. It would become financially respectable to be a human being.
+   Much else would then fall into place as a result of voluntary local action.
+And the property tax itself, as a state institution, could be remodified: all the
+exclusionary features that characterize local assessment practice could be
+changed. The site value tax with exemption of buildings would make more
+sense than it does now from the local viewpoint. And rates could be much
+higher than now, with less fear of repelling fiscal surplus generators. Property
+could carry more of the tax burden, lightening the load on regressive sales and
+payroll taxes.
+   A concurrent change should be a higher emphasis on user charges gauged
+to social cost. Exclusionary policies now are an indirect device to ration use
+of local commons. They are very inefficient devices with more side effects
+than effects, and readily perverted to antisocial goals as we have seen. If we
+don't like autos we should tax autos, not houses.
+   User charges today are perverse. We tax water supply and exempt private
+wells, tax sewer use and exempt septic tanks, tax mass transit and exempt
+autos and streets, and so on. Within mass systems, rate regulation makes rich
+territory (which houses poor people) subsidize lean territory and rich people.
+All this needs to be worked over, on marginal cost principles. The effect on
+land use would be a conservative, economical, accountant-directed humani-
+tarian revolution.
+   Changes in federal tax policy are also needed. Congress needs to take the
+fun out of land speculation by hitting capital gains in a dozen ways, thus
+encouraging cities to use their capital budgets to serve their median citizens
+rather than the strong hands who hold speculative land and inveigle council-
+men. Washington might also share the social dividend of school finance, rais-
+ing the revenue by kinds of tax reform that encourage better land use.
+   Cities could expand with sharp edges, coordinating zoning and tax assess-
+ment with extension of municipal services, developing close-in land com-
+pactly for median citizens, letting the wealthy average-raisers outside pay
+their own way.
+   Congress needs to stop the competitive underassessment of land by local
+assessors, described above, which makes a mockery of the federal income tax
+by letting people avoid taxes by depreciating land not just once, which
+146                                               Tax Reform to Release Land
+
+
+amounts to complete exemption of land income, but several times, which
+amounts to a large subsidy for holding title to land. There is no substitute for
+federal review of assessments — a federal board of equalization, in effect.
+Otherwise, local assessors will continue overvaluing buildings relative to land
+to inflate the depreciable share of real estate owned by their local consti-
+tuents.
+   These economic policy suggestions do not displace the legal steps discussed
+by others here, but supplement them in our mutual quest for the lost sense of
+American community and purpose. These are exciting times, and there wifi be
+much excitement in implementing and detailing the policy shifts sketched
+above. Nobody said it was going to be easy.
+
+
+                                  APPENDIX
+
+L Differential Capitalization of Taxes on Land Value
+Let a = annual net income of land before land tax (but after other taxes)
+      i = rate of interest
+      t = rate of yearly property tax on land value
+  V = market value of land = assessed value of land.
+Witht = 0
+
+(1)                                 V=.
+This is simple "capitalization" of income into value.
+     With t > 0
+                                    = a — tV
+
+
+                                V(i + t) = a,
+
+(2)                               V=..
+Equation (2) is the classic algebra of tax capitalization: the tax is capitalized
+into a lower value.
+     Now assume that credit rationing divides the capital market into two
+groups, Poor and Rich, who pay (or forgo) two different interest rates, p and
+r.
+Mason Gaffney                                                                147
+
+
+(3)                                 p>r.
+Equation (2) now tells us what each group can bid for land, using p or r in
+place of i. This is diffential capitalization. Rich outbids Poor for land yielding
+each the same net income (a), and even for land yielding Poor more income,
+up to:
+
+(4)                             _>p+t.
+                                   r+t
+                                     —
+
+
+
+  But taxes (t) lower the bids of Rich more than bids of Poor. Bids of the
+Poor are cut in half when t = p, but bids of the Rich are cut in half at the
+lower t = r. More generally, equation (4) says that raising t dilutes the effect
+of p being higher than r, tending to equalize bidding power of Rich and Poor.
+   I have simplified by omitting that the lower bidder must figure on taxes on
+a value established by the higher bidder, but the simplification merely under-
+states without changing the conclusion.
+   To restate in terms of yearly carrying costs, c,
+
+(5)                             c= V(i+ t).
+The poor pay more to carry a given piece of land, because the cost is mostly
+interest. Again I understate by simplifying. The poor not only pay higher
+rates, they borrow on shorter terms, so their carrying costs include a heavier
+amortization factor as well. The self-fmanced landowner has no debt to
+amortize, and no cash drain but taxes.
+      But as t is made larger, V falls, so Vi falls, and the impartial tax cost
+displaces the regressive interest cost.
+   The effect of the tax is greater when land is appreciating. Let V rise yearly
+by g, a percentage. Deduct this from c (we could instead have added it to
+income). Now
+
+(6)                          c V(i—g+ t).
+(6) shows that g leverages or fortifies the effect of p being greater than r, in
+contrast to t which dilutes the effect.
+    Thus appreciating land gravitates to "strong hands," i.e., those who borrow
+at the prime rate, or don't have to borrow at all. And by the same token the
+equalizing effect of land taxes is most pronounced when applied to appreciat-
+ing land. A numerical example based on (6), when p = 0.08 and r           0.05,
+follows.
+148                                                  Tax Reform to Release Land
+
+
+                 Ratio of Carrying Costs        —
+                                                —
+                                                    0.08   g+t
+                                           Cr       0.05 — g + t
+
+                                  0        0.02      0.04
+                     t\\g
+                      0         8/5       6/3        4/1
+                      0.02     10/7       8/5        6/3
+                      0.04     12/9      10/7        8/5
+                      0.06     14/11     12/9       10/7
+                      0.08     16/13     14/11      12/9
+                      0.10     18/15     16/13      14/11
+
+
+II. Why Land Generally Ripens into a Lower Intensity
+Let C = capital cost of building
+      R = present value of future net revenues or cash flow from building
+      S = usevalue of site = R — C
+        =
+            c s = cost/benefit ratio (C/R).
+    1. There is a hierarchy of land uses, qualitatively different. While each one
+is of variable intensity, they are discrete, with a quantum jump from one step
+to the next, as from grazing to row crops, row crops to orchards, acreage to
+lots, singles to walk-ups, walk-ups to high-rise, and so on.
+    Demand is generally rising, and land succeeds from one generation of use
+to another. Each use has an inner margin where it is the lower use, less
+intensive than its inner rival; and an outer margin where demand is weaker, or
+land is less suited, and it is the higher use, more intensive than its outer rival.
+    "Marginal" land connotes low intensity, but the connotation is misleading.
+It is based on a physical or per acre concept, while economics is concerned
+with values. The essence of economic marginality is that C/R -÷ 1, the cost/
+benefit ratio approaches unity. In these terms, marginal land is the most
+intensively used. As demand rises and costs fall, land yields a surplus. As the
+rings in the hierarchy of land uses expand, and a site shifts from the outer to
+the inner margin of its ring, it becomes less marginal and more rentable, and
+C/R falls.
+    2. Land ripens because of falling building costs as well as increasing de-
+mand. Obsolescence is a continuing expectation, an ineluctable factor in all
+decisions (independent of inflation and overstated fatalism about union wage
+rates, not at issue here). Of course, falling C means lower C/R.
+Mason Gaffney                                                                  149
+
+
+   Another general reason to expect falling C is economy of scale. As demand
+grows, a larger building is appropriate. There are great economies of scale in
+building.
+   Land can also ripen into a new generation of use at lower density. A
+quarter or more of many central business districts has ripened into parking
+lots, for example, and many a house has been knocked down to expand a gas
+station apron.
+   Another kind of falling cost generally to be expected is lower borrowing
+rates of interest. This results from better creditworthiness of land as the
+proposed use becomes less marginal, innovative, or experimental in an area.
+As the land ripens into a better credit rating, R rises because it is the dis-
+counted value of future revenues, and a lower discount rate is relevant.
+   This last factor is partly circular, but that is the nature of credit ratings. It
+depends on the cumulative process of forming conventional opinion among
+lenders, few of whom supply much venture capital.
+   3. Empirical studies generally show that C/R is lower on better lands. It is
+very low in Champaign County, Illinois, or Benton County, Indiana, the best
+grain land. It is very low in Kuwait, the best oil land. It is quite low in
+Manhattan, the best urban land; generally lower on retail land than residen-
+tial; lower in central cities than fringes; lower in rich suburbs than poor ones.
+It is lower for Site I timber lands on the western slope of the Coast Range in
+Oregon than for Site VI lands in the high Cascades. To some extent that may
+reflect underutilization of better land due to cartel behavior, the soporific
+effect of surplus income on owners, and other institutional factors, but it
+probably is more basic than that — basic as that is!
+    4. Time generally brings public works, paid by others, to lower costs. This
+is one factor in increasing demand, already postulated, but it is also a factor
+in lower costs. Thus extension of city sewer and water precludes septic tank
+and well.
+    Figure 1 is a schematic representation of these relationships.
+
+III. Effects of Building Tax on Intensity and Ripeness Combined
+  in equations (7) and (8) in the text, I proceeded for simplicity as though C
+and R in each year would be the same despite the threat of building taxes.
+Actually, the landowner would turn to less-intensive alternatives so C/R
+would fall. This would almost certainly entail an absolute decline in both, as
+well.
+  Thus, consider all cases where
+
+(1)                            C(l + T)/R> 1.
+150                                                     Tax Reform to Release Land
+
+
+That means
+
+(2)                             R — C(l + T) < 0.
+
+i.e., the use value is negative, taxes have made the particular use of land
+submarginal. But they have not made the land itself submarginal. The owner
+can find a lower use whose
+
+(3)                               C(l + T)/R < I.
+  Now posit a base intensity-path, without taxes, following the course
+charted in Appendix H, with C/R falling; apply building taxes, and let the
+
+Dollars
+per acre
+
+
+
+
+                                                                       To better land >
+
+
+                                                                        Higher uses moving
+                                                                    \\\onto_poorer land
+
+
+
+
+Percent I
+    100
+
+      80
+      60
+      40
+      20
+       0
+            1st generation   2nd generation    3rd generation
+              (estates)       (subdivisions)    (apartments)
+Figure 1. Costs, revenues, use values of sites, and intensities (or cost-benefit ratios),
+comparing succeeding discrete generations of uses as land ripens into higher uses.
+Mason Gaffney                                                                 151
+
+
+taxpayer change his path, to avoid taxes optimally. He will lower dR where
+it is highest, i.e., at the beginning of the path. Thus C/R will be lower at the
+start and will drop less along the path. This, in turn, reduces the high after-tax
+growth rate of S, and reduces the retarding effect on ripening.
+   The net effect of all this is a combination of two evasive wiggles. In
+general, he builds less, later. The emphasis depends on particulars. He may
+build much less and a little later; or a little less much later; or any combina-
+tion.
+

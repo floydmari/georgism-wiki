@@ -1693,3 +1693,23 @@ epigraph), declined without registry row. Registry +2 rows (I1 Heavy, I2012
 Heavy). I11 surfaced as a related precursor — left flagged for a future
 capital-theory cluster, not chased mid-wave. Inventory regenerated. 883 pages,
 lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: workpapers/essays skim-triage — GAFFNEY CORPUS TRIAGE COMPLETE
+
+95 remaining rows verdicted (65 workpapers + 25 essays + 5 stray publications) →
+FINAL UNCHECKED COUNT: 0. The 190-file triage that began 2026-07-16 is closed.
+Breakdown: ~26 duplicates (byte-identical files, WP mirrors of covered AJES
+essays, an E9 double-listing), ~45 declines (incl. a Bill Gates Sr. op-ed
+mis-hosted under Gaffney's name, book reviews, bare tables, Groundswell columns),
+~23 ranked future candidates recorded in the triage narrative (top: WP048/049
+Peace Dividends pair; Cleveland/Chicago/Michigan city-growth cluster; WP077
+Johannesburg/Cape Town; Great_Expectations bidding-power model; 1972 military-
+spending piece as a priority correction for the corporate-power pages). Bonus
+mine: E4 "Tax Reform to Release Land" (RFF 1972/73, 39pp) → research/
+gaffney-tax-reform-release-land.md (884th page): local governments as collective
+landowners practicing fiscal Mercantilism + three formal models (bidding-power,
+ripening-date, differential-capitalization) not in closed form anywhere else in
+the corpus — priority correction into nimbyism, third independent derivation into
+land-monopoly, context into lvt-dampens-land-speculation. Registry +1; inventory
+regenerated. 884 pages, lint 0 errors. Gaffney lane state: 38+ works read in
+full, ~23 ranked candidates queued, triage ledger authoritative.

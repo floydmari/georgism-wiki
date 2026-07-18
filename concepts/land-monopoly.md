@@ -159,9 +159,19 @@ the credit-access gap specifically for land, since land (unlike depreciating
 assets) carries no cost but interest.[10] (C-claim; Gaffney's own theoretical
 argument and worked example, attributed.)
 
+A contemporaneous companion paper, ["Tax Reform to Release
+Land"](/wiki/gaffney-tax-reform-release-land/) (delivered April 1972, same
+year as the worked numerical example above), states the mechanism as a third,
+independent closed-form derivation: splitting borrowers into "Rich" (rate
+`r`) and "Poor" (rate `p`) groups, Gaffney shows algebraically that a land
+tax *dilutes* the Rich/Poor carrying-cost ratio while appreciation *widens*
+it — the same leverage conclusion reached via a different algebraic route
+than the 1961 derivation, corroboration rather than new evidence.
+
 See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) ·
 [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) ·
 [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) ·
+[Gaffney (1973): Tax Reform to Release Land](/wiki/gaffney-tax-reform-release-land/) ·
 [Gaffney (1961): The Unwieldy Time-Dimension of Space](/wiki/gaffney-time-dimension-of-space/)
 
 ### Gaffney: A Multi-Study Concentration Table (1971)
