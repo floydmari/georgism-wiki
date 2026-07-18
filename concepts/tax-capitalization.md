@@ -51,9 +51,13 @@ The wiki carries the capitalization literature directly:
   the strongest quasi-experimental confirmation to date.
 - **Surveyed breadth:** [Doucet's *Land is a Big Deal*](/wiki/land-is-a-big-deal/)
   (Ch. 20–21) surveys 13+ capitalization studies, 12 supporting substantial-to-full
-  capitalization; the primary studies are being ingested per the wiki's
-  de-referencing rule (BACKLOG carries the Borge–Rattsø / Capozza / Hilber /
-  Buettner / Choi–Sjoquist cluster).
+  capitalization. The Ch. 21 landlords-incidence cluster —
+  [Borge & Rattsø](/wiki/borge-rattso-norway-capitalization/),
+  [Capozza, Green & Hendershott](/wiki/capozza-green-hendershott-residential-land/),
+  [Hilber](/wiki/hilber-capitalization-synthesis/),
+  [Buettner](/wiki/buettner-german-land-tax-capitalization/), and
+  [Choi & Sjoquist](/wiki/choi-sjoquist-atlanta-lvt-cge/) — is now fully
+  de-referenced to primary text (see `sources/doucet-acx-dereferencing.md`).
 
 ## Limits and Caveats
 
@@ -93,5 +97,6 @@ The wiki carries the capitalization literature directly:
 4. Dye & England (2010) — used for the LVT application and design implications
    (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
 5. Lars Doucet, *Land is a Big Deal* (2022), Chs. 20–21 — used for the survey count
-   (13+ studies, 12 supportive; A-claim; Heavy scan, primaries being ingested).
+   (13+ studies, 12 supportive; A-claim; Heavy scan; Ch. 21's landlords-incidence
+   cluster of five studies is fully de-referenced to primary text as of 2026-07-18).
    [Book page](/wiki/land-is-a-big-deal/)

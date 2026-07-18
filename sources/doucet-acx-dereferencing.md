@@ -105,6 +105,38 @@ but are not counted as "citations" in these totals.)
 
 ---
 
+## Addendum — the Ch. 21 / ACX Part 2 "landlords" capitalization cluster
+
+**Wave:** T2 READ&MINE, 2026-07-18. This is a distinct cluster from Parts 1 & 3 above:
+it comes from the book's **Chapter 21** (the section corresponding to ACX **Part 2**,
+"Can Landlords Really Pass on Land Value Tax to Tenants?" — a separate essay from
+the Parts 1 & 3 covered by this file's main tables), and was tracked as its own
+BACKLOG line (`landlords-outcome Ch. 21 cluster`) rather than folded into the counts
+above. Five citations: **Borge & Rattsø, Capozza-Green-Hendershott, Hilber (2017),
+Buettner, and Choi & Sjoquist.** Status at the start of this wave: four already had
+dedicated, previously-de-referenced wiki pages (`borge-rattso-norway-capitalization`,
+`capozza-green-hendershott-residential-land`, `hilber-capitalization-synthesis`,
+`buettner-german-land-tax-capitalization`); only **Choi & Sjoquist** remained
+second-hand, folded as an abstract-verified row inside the
+[site-value-ge-simulations](/wiki/site-value-ge-simulations/) CGE cluster page with
+Scan Depth **Light**.
+
+| Citation | Status (start of wave) | Verdict this wave |
+|---|---|---|
+| Borge & Rattsø (2014), *Capitalization of Property Taxes in Norway* | **HAVE**, Scan Depth Medium — page `borge-rattso-norway-capitalization` | Unchanged; already de-referenced in a prior wave (full text read 2026-07-11) |
+| Capozza, Green & Hendershott (1996), *Taxes, Mortgage Borrowing, and Residential Land Prices* | **HAVE**, Scan Depth Medium — page `capozza-green-hendershott-residential-land` | Unchanged; already de-referenced (working paper + companion abstract read 2026-07-11) |
+| Hilber (2017), *The Economic Implications of House Price Capitalization: A Synthesis* | **HAVE**, Scan Depth Medium — page `hilber-capitalization-synthesis` | Unchanged; already de-referenced (full text read 2026-07-11) |
+| Buettner (2003), *Tiebout Visits Germany* | **HAVE**, Scan Depth **Light** (abstract only) — page `buettner-german-land-tax-capitalization` | **DE-REFERENCED THIS WAVE.** Full conference-paper text located and fetched (gwern.net archive copy, `2003-buettner.pdf`) and read in full; page rewritten with the 675-municipality Baden-Württemberg sample, the land-value/rent regression coefficients (Table 2–3), and the overcapitalization finding. Scan Depth now Heavy (registry update pending — see `registry-additions-ch21.csv`). |
+| Choi & Sjoquist (2015), *Economic and Spatial Effects of Land Value Taxation in an Urban Area* | **HAVE at second hand only** — abstract-verified row folded into `site-value-ge-simulations`, Scan Depth Light | **DE-REFERENCED THIS WAVE.** Full published article located and fetched (gwern.net archive copy, `2015-choi.pdf`) and read in full (20 pages). Promoted to a dedicated page, [`choi-sjoquist-atlanta-lvt-cge`](/wiki/choi-sjoquist-atlanta-lvt-cge/), carrying findings the abstract-only version could not: the revenue-neutral-rate figures (with an honestly flagged internal inconsistency in the source, 82.9% vs. 89.2%), the 18–19%-of-tax-revenue welfare gain (vs. DiMasi's 6.6%), and — new to the wiki — the paper's progressivity result across three income groups. Scan Depth now Heavy (registry update pending). |
+
+**Net result: 5/5 papers in this cluster now de-referenced to primary text** — 3 already
+were (Borge-Rattsø, Capozza-Green-Hendershott, Hilber), 2 became so this wave
+(Buettner, Choi-Sjoquist). None required rejection or abstract-only disclosure; both
+targets this wave were located as free full-text copies via gwern.net's Georgism
+document archive (`gwern.net/doc/economics/georgism/`), the same source that supplied
+the Borge-Rattsø and Hilber PDFs in the earlier wave. The BACKLOG line for this
+cluster (`landlords-outcome Ch. 21 cluster`) is closed.
+
 ## Counts summary
 
 Row mentions across both tables: 25 (Part 1) + 27 (Part 3, including the unnumbered

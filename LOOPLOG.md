@@ -1205,3 +1205,25 @@ Amazon evidence). Prat-Valletti carried at abstract level, disclosed. Wired:
 taxing-tech-rents §3, romer proposal page (paired-page pattern), dst pages,
 data-rents. Registry +12 rows. Lint 0 errors (inventory regen deferred to wave
 close — Ch. 21 cluster agent still in flight).
+
+## 2026-07-18 (cont.) — Wave: Doucet Ch. 21 capitalization cluster (5/5 de-referenced)
+
+Scope correction found first: 4 of 5 papers (Borge-Rattsø, Capozza-Green-
+Hendershott, Hilber, Buettner) already had research pages from an earlier wave —
+another stale backlog note. Real gaps closed: (1) Choi & Sjoquist (2015) — full
+Land Economics article fetched (gwern.net mirror) and read; new standalone page
+research/choi-sjoquist-atlanta-lvt-cge.md (859th page): full capitalization onto
+landowners under fixed boundaries, welfare gain 18-19% of revenue (~3x DiMasi
+1987), and the previously-unmined PROGRESSIVE incidence result across income
+groups; a source-INTERNAL inconsistency (82.9% vs 89.2% fixed-boundary revenue-
+neutral rate, both verbatim in the primary at pp. 544/546) carried as a deliberate
+[VERIFY] flag rather than silently resolved. 6 inbound links. (2) Buettner (2003)
+upgraded abstract-only → Heavy: full text obtained, Table 2/3 coefficients mined
+(land-value elasticity -0.314 GMM, rent coefficient ≈0 insignificant,
+"substantial overcapitalization" vs theoretical 3.6%), Nebenkosten/rent-control
+institutional detail added. Benefit pages wired with the model-evidence-not-
+measurement caveat kept explicit. Doucet de-referencing ledger addendum written;
+BACKLOG item checked off. Registry: no new rows (all 5 pre-existed); rows 564/637
+Referenced→Scanned, Light→Heavy, citations updated. Inventory regenerated.
+860 pages, lint 0 errors. All five Doucet Ch. 21 citations now rest on primary
+text — none abstract-only, none second-hand.

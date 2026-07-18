@@ -239,9 +239,20 @@ provenance — do not re-plan.]**
       Brueckner-Kim correctly lives in challenged_by (theoretical ambiguity result), Song-Zenou
       deliberately excluded (conventional-property-tax mechanism) — lane discipline verified
       against primaries.
-- [ ] [READ&MINE] tier:T2 status:todo — Doucet ACX de-referencing Parts 1 & 3 (enumerate
-      actual citations, diff vs registry, ingest missing); landlords-outcome Ch. 21 cluster
-      (Borge-Rattsø, Capozza-Green-Hendershott, Hilber 2017, Buettner, Choi-Sjoquist).
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-18, session 2z2oww) —
+      Doucet ACX de-referencing Parts 1 & 3 complete (see
+      sources/doucet-acx-dereferencing.md, prior wave: 12 sources added, 5 rejected).
+      landlords-outcome Ch. 21 cluster (Borge-Rattsø, Capozza-Green-Hendershott,
+      Hilber 2017, Buettner, Choi-Sjoquist) now 5/5 de-referenced to primary text:
+      3 already had dedicated pages from an earlier wave; Buettner and Choi-Sjoquist
+      full texts located this wave via gwern.net's Georgism archive and read in full.
+      Choi-Sjoquist promoted from an abstract-only cluster-page row to its own page,
+      research/choi-sjoquist-atlanta-lvt-cge.md (revenue-neutral-rate figures with an
+      honestly flagged source-internal inconsistency, the 18–19%-of-revenue welfare
+      gain vs. DiMasi's 6.6%, and a new progressivity-across-income-groups result).
+      Buettner's page deepened from abstract-only to the full 675-municipality
+      Baden-Württemberg regression results. See addendum in
+      sources/doucet-acx-dereferencing.md for the full ledger. Lint 0 errors.
 - [x] [FIND] tier:T2 status:done (verified 2026-07-16) — research/raley-citizens-dividend
       candidate already verified and shipped: author/venue confirmed against the primary PDF
       (Prof. Bill Raley, Hanyang University School of Law, "The Citizen's Dividend," 18th BIEN

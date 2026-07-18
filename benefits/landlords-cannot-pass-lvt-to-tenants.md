@@ -8,7 +8,7 @@ evidence_strength: "Strong (theory near-unanimous on the land component; direct 
 supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, borge-rattso-norway-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, capozza-green-hendershott-residential-land, mieszkowski-property-tax-incidence, zodrow-three-views, hilber-capitalization-synthesis, doucet-does-georgism-work, buettner-german-land-tax-capitalization, oates-1969-capitalization]
 challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents, feldstein-incidence-pure-rent, nielsson-wroblewski-yding-danish-lvt]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 ---
 
 > **At a glance** — Standard incidence theory is near-unanimous that the land portion of a land value tax falls on the landowner rather than tenants, and the capitalization evidence supports it — but direct rental-market measurement is thinner and the Danish quasi-experiments disagree on magnitude, so the empirical case is supportive rather than settled.
@@ -68,7 +68,13 @@ preferences for homeownership are **fully capitalized into house — chiefly
 residential land — prices** (removing the mortgage-interest and property-tax
 deductions is estimated to cut housing values ~13–17%, borne by owners at the moment
 of change): the fixed factor, land, absorbs the tax variable because structures are
-elastically supplied.
+elastically supplied. A general-equilibrium simulation reaches the same qualitative
+place by a different route: [Choi & Sjoquist's (2015)](/wiki/choi-sjoquist-atlanta-lvt-cge/)
+Atlanta-calibrated urban CGE model finds that, holding the city's spatial boundaries
+fixed, "landowners bear the entire burden of the tax... it is not possible for
+landowners to avoid the tax." This is **model evidence, not measurement** — internally
+consistent given the model's assumed elasticities, weaker than the capitalization
+studies above — but it corroborates the same incidence result from a third method.
 
 **Rental markets — direct measurement, both directions.**
 [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/), *NTJ*, examine
@@ -150,7 +156,7 @@ caveats a fair reader should know:
 
 ## See Also
 
-- [Choi & Sjoquist (2015), in the site-value GE simulations cluster](/wiki/site-value-ge-simulations/) — an Atlanta-calibrated CGE simulation study Doucet lists among the papers supporting full capitalization of LVT into land prices (model evidence)
+- [Choi & Sjoquist (2015)](/wiki/choi-sjoquist-atlanta-lvt-cge/) — an Atlanta-calibrated CGE simulation finding full capitalization onto landowners under fixed boundaries plus a progressive welfare gain across income groups (model evidence; full findings on its dedicated page, part of the [site-value GE simulations cluster](/wiki/site-value-ge-simulations/))
 - [Buettner (2003): Tiebout Visits Germany](/wiki/buettner-german-land-tax-capitalization/) — German municipal-level evidence that variation in local land tax rates capitalizes into land prices without raising rents.
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/) · [Tax Capitalization](/wiki/tax-capitalization/)
 - [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/) · [Zodrow (2001)](/wiki/zodrow-three-views/) — the theory
