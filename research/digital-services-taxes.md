@@ -330,6 +330,7 @@ the [rent gradient](/wiki/geoism/) demands: the DST record is evidence about a b
 - [Resource Rents](/wiki/resource-rents/) — the royalty template Cui & Hashimzade's rent-rationale invokes
 - [Land Value Tax](/wiki/land-value-tax/) — the fixed-factor contrast: why a rent tax on an immobile site cannot be shifted the way a DST is
 - [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — a rival revenue-based instrument aimed at the same firms
+- [Digital Advertising Taxes After Romer: Maryland's Real-World Test](/wiki/maryland-digital-ad-tax/) — the US ad-tax parallel to this page's DST record: legal fragility and under-projection revenue
 - [Geoism](/wiki/geoism/) — the rent-domain program and the gradient rule this page's Georgist reading applies
 
 ## Sources

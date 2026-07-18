@@ -229,6 +229,22 @@ the service — squarely the [quasi-rent objection](/wiki/taxing-quasi-rents-kil
 It is untested, and the DST record cautions against assuming the intended incidence will
 materialise.[R2]
 
+**It did not stay untested for long, and the record so far is legal fragility, not
+capture.** Maryland enacted a version of the idea in 2021 — a graduated tax on Maryland
+digital-ad revenue keyed to a firm's global size, with Romer testifying for the bill — but
+the enacted statute departs from Romer's own design (a broader "digital advertising
+services" base rather than *targeted* advertising specifically, a cliff-rate rather than
+marginal-bracket structure, no subscription escape hatch) and has spent most of its life in
+court rather than raising the roughly $250 million/year originally projected: collections
+have run closer to $90–120 million/year, and a unanimous Fourth Circuit panel struck down
+the statute's "pass-through ban" — the provision barring firms from itemizing the tax's cost
+to customers — as an unconstitutional restriction on commercial speech in August 2025, with
+the tax's core constitutional merits still unresolved in the Maryland Tax Court.[20] See
+[Digital Advertising Taxes After Romer: Maryland's Real-World Test](/wiki/maryland-digital-ad-tax/)
+for the full litigation record and an extended argument, both ways, on whether attention/ad
+revenue is rent at all (Prat & Valletti's attention-oligopoly concentration mechanism versus
+the genuine-matching-service counter-reading).
+
 ## 4. Data Dividends / Data-as-Labor — C-minus
 
 A distinct strand targets the **input** side. Arrieta-Ibarra, Goff, Jiménez-Hernández, Lanier
@@ -330,6 +346,7 @@ claim no more certainty than that on the AI frontier.
 - [Intellectual-Property Rents](/wiki/ip-rents/) — the sibling frontier-rent domain (statutory monopoly grant, not structural moat) · [Prizes vs Patents](/wiki/prizes-vs-patents/) · [Against Intellectual Monopoly (Boldrin & Levine)](/wiki/boldrin-levine-against-intellectual-monopoly/)
 - [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) · [Cash-Flow Tax](/wiki/cash-flow-tax/) — the rent-only corporate bases
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) · [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — the two capture-side revenue taxes
+- [Digital Advertising Taxes After Romer: Maryland's Real-World Test](/wiki/maryland-digital-ad-tax/) — Romer's idea as actually enacted and litigated
 - [Furman Review](/wiki/furman-review-digital-competition/) · [The Digital Markets Act](/wiki/dma-interoperability-dissolution/) — the dissolve pole, diagnosis and legislation
 - [Korinek & Stiglitz — AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory
 - [Superstar Firms (Autor et al.)](/wiki/autor-superstar-firms/) · [Corporate profits increasingly rents](/wiki/corporate-profits-increasingly-rents/) — the efficiency counter-reading
@@ -417,6 +434,13 @@ draws on; DST and DMA figures come from working papers and primary legislation a
     — used for the revenue-has-a-location argument, the progressive/split-up and subscription-escape
     design, the 59%/18% political-ad figures, and the Acemoglu–Johnson "sin tax" variant. Via
     [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/).
+20. Maryland Digital Advertising Gross Revenues Tax statute and litigation record (Sales Tax
+    Institute, Tax Foundation, U.S. Chamber of Commerce Litigation Center, Fourth Circuit No.
+    24-1727, Conduit Street/Maryland Association of Counties) — used for the enacted rate
+    schedule and its departures from Romer's design, the revenue shortfall against the $250m
+    projection, and the August/October 2025 pass-through-ban First Amendment ruling. Via
+    [Digital Advertising Taxes After Romer](/wiki/maryland-digital-ad-tax/), whose Sources
+    section carries the full per-claim citation list.
 18. HM Treasury (Nov 2025), *Digital Services Tax Review Report*. [GOV.UK PDF](https://assets.publishing.service.gov.uk/media/6925dfd647904590c9da2d36/Digital_Services_Tax_Review_.pdf);
     National Audit Office (2022), *Investigation into the Digital Services Tax*. [NAO PDF](https://www.nao.org.uk/wp-content/uploads/2022/11/Investigation-into-the-digital-services-tax.pdf);
     Assemblée nationale (2023), reply to question n°2974. [Assemblée nationale](https://questions.assemblee-nationale.fr/q16/16-2974QE.htm)

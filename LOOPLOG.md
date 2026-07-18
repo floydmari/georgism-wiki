@@ -1184,3 +1184,24 @@ Gloudemans merge (2000 row added; 2002 row Medium→Heavy, citations 1→4, wiki
 repointed to the new deep-dive). Inventory regenerated. 858 pages, lint 0 errors.
 WS-TECH-RENTS remaining: (b) attention/ad rents, (c) dissolution vs capture,
 (d) is-it-rent diagnosis update, then the gated instrument-comparison synthesis.
+
+## 2026-07-18 (cont.) — Wave: attention/ad rents (WS-TECH-RENTS part b)
+
+Agent discovered the Romer proposal page ALREADY EXISTED (research/
+romer-digital-advertising-tax.md, commit 75b4503) — stale backlog note honored via
+delta rule: no duplication; built the genuinely missing piece instead.
+research/maryland-digital-ad-tax.md created (T1 renamed from the agent's
+digital-ad-taxes-romer slug — confusably close to the existing proposal page):
+Maryland's Digital Advertising Gross Revenues Tax as Romer's real-world test.
+Verified: cliff-not-marginal rate schedule 2.5/5/7.5/10% by global revenue tier —
+a design DEPARTURE from Romer flagged on-page (no targeted-ads carve-out, no
+subscription escape hatch); litigation as the main story (2022 trial-court
+invalidation reversed 2023 on exhaustion grounds ONLY, merits still pending in
+Tax Court; Fourth Circuit Aug-2025 struck the pass-through-disclosure ban on First
+Amendment grounds, final injunction Oct-2025; core tax still in force); revenue
+~$93M/$82.5M FY22/23 vs $250M projection, flagged press-reported. Honest gap
+recorded: NO ex-post incidence estimate for Maryland exists (unlike UK DST's
+Amazon evidence). Prat-Valletti carried at abstract level, disclosed. Wired:
+taxing-tech-rents §3, romer proposal page (paired-page pattern), dst pages,
+data-rents. Registry +12 rows. Lint 0 errors (inventory regen deferred to wave
+close — Ch. 21 cluster agent still in flight).

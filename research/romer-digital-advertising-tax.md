@@ -122,11 +122,19 @@ is a useful test of what a frontier rent instrument is really trying to do.
 
 ## Nuances and Limits
 
-- **Untested.** No jurisdiction has enacted Romer's progressive ad-revenue tax; the
-  behavioural predictions (firms split up, or switch to subscriptions) are theoretical. The
-  actual DST record (revenue taxes largely passed through — see
-  [DST incidence](/wiki/digital-services-tax-incidence/)) is a caution about assuming the
-  intended incidence will materialise.
+- **Untested as Romer specified it — but a relative did get enacted.** No jurisdiction has
+  enacted Romer's progressive ad-revenue tax exactly as he designed it (targeted-advertising
+  scope, subscription escape hatch), so the behavioural predictions (firms split up, or
+  switch to subscriptions) remain theoretical for that specific design. Maryland enacted a
+  looser adaptation in 2021 after Romer testified for it — a broader "digital advertising
+  services" base with a cliff-rate structure and no escape hatch — and its five-year record
+  is legal fragility (a Fourth Circuit First Amendment loss on its "pass-through ban") and
+  revenue well under projection, not the behavioural shift Romer wanted. See
+  [Digital Advertising Taxes After Romer: Maryland's Real-World Test](/wiki/maryland-digital-ad-tax/)
+  for the full record and how it does and doesn't test Romer's own proposal. The actual DST
+  record (revenue taxes largely passed through — see
+  [DST incidence](/wiki/digital-services-tax-incidence/)) is a further caution about assuming
+  the intended incidence will materialise.
 - **Not, in the author's own framing, primarily a rent tax.** Romer motivates the proposal
   as a defence of democratic discourse against concentrated informational power, and
   Acemoglu & Johnson as a public-health "sin tax." Read as *rent capture* it is a secondary
@@ -144,6 +152,7 @@ is a useful test of what a frontier rent instrument is really trying to do.
 ## See Also
 
 
+- [Digital Advertising Taxes After Romer: Maryland's Real-World Test](/wiki/maryland-digital-ad-tax/) — the enacted, litigated adaptation of this proposal
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
 
