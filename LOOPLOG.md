@@ -1029,3 +1029,24 @@ returned to todo). Queue 224 open; 19 source entries + 6 evidence pages figured.
 yet: famous-tail remains (piketty open figures, de-loecker markups, barr-smith-kulkarni
 Manhattan, bezemer-samarina-zhang, albouy-what-are-cities-worth) — one more named sweep,
 then the loop downshifts.
+
+---
+
+## 2026-07-18i — Wave 12 (famous-tail) + DOWNSHIFT: the figure campaign wraps
+
+Final hourly wave: piketty-capital-21st-century (Figure 5.3 from the author-posted figure
+set — the private-capital U-trend the wiki's capital-share cluster decomposes; caption makes
+that framing explicit) · de-loecker-eeckhout-unger-markups (w23687 Fig 1 — the rising-markups
+chart, 1.21→1.67) · barr-smith-kulkarni-manhattan-land (working-paper Fig 4 — Manhattan land
+vs sales indices 1950–2014). Stamps: albouy-what-are-cities-worth + blanco + kuminoff-pope
+no-chart (reviewed), bezemer-samarina-zhang blocked (DNB mirror to chase).
+
+**Campaign totals (waves 1–12, 2026-07-16→18):** 29 pages carry figures — 22 source entries
+(incl. 1 public-domain diagram, 1 paired-map figure, 2 explicitly contrasting/steelman
+charts) + 7 evidence pages under their "The Claim" sections. Every figure: manifest
+provenance, visual crop verification, preview render check, anchored caption with credit
+line, descriptive alt text, synced live on commit. ~60 no-chart stamps and ~30 blocked
+stamps (mirrors/book scans → Hermes) recorded and regeneration-proof. 9 auto-suggested
+re-embed placements rejected on anchor grounds. The loop is now STEADY-STATE per BACKLOG
+WS9 — no self-wakeup chain; new entries, delivered scans/mirrors, or an editor's ask re-arm
+it.

@@ -41,7 +41,7 @@ only afterward via `scripts/sync_to_ghost.py`.
 | WS5 | Deepen thin articles | partly done (deepen-scan wave); remainder queued |
 | WS8 | Claim-level citation retrofit of legacy pages | queued (`[CITE]` tasks) |
 | WS4/7 | Full cross-link graph, UX polish, `last_reviewed` everywhere | orphans 0 as of wave 3; rest queued |
-| WS9 | Figure sourcing — load-bearing charts into entries (`LOOP-FIGURES.md`, EDITORIAL §3c) | **active 2026-07-16**: pipeline + queue live; 4 figures shipped (Bonnet, Rognlie, JST, KSS); 341-candidate queue seeded |
+| WS9 | Figure sourcing — load-bearing charts into entries (`LOOP-FIGURES.md`, EDITORIAL §3c) | **steady-state 2026-07-18**: 12-wave campaign done — 29 pages carry figures (22 source entries + 7 evidence pages), all live; ~60 no-chart + ~30 blocked stamps recorded; queue machinery re-arms on new entries/Hermes deliveries |
 
 Success metrics: articles 139→300+ (now 240), research 47→100+ (now ~85), narratives 0→12 (✅ 12),
 outcomes each ≥5 supporting papers, zero fabricated citations ever (enforced by

@@ -510,6 +510,79 @@ FIGURES = [
                     "Activity</em> 2003:2 — reproduced for comment and "
                     "review.</span>"),
     },
+    {
+        "key": "barr-fig4",
+        "entry": "research/barr-smith-kulkarni-manhattan-land.md",
+        "pdf_url": ("https://sasn.rutgers.edu/sites/default/files/2024-02/"
+                    "Whats%20Mahattan%20Worth%20v3.1%20Oct%202015.pdf"),
+        "page": 27,
+        "clip": (70, 94, 437, 318),
+        "dpi": 220,
+        "alt": ("Line chart on a log scale of a Manhattan land values index and a "
+                "Manhattan real estate sales price index, 1950 to 2014. The two "
+                "series track each other: roughly flat to 1970, a deep trough in "
+                "the mid-1970s for land, then both climbing steeply from about "
+                "1980 to 2014, with land swinging harder than sales prices."),
+        "caption": ("Figure 4 from the working-paper version: Manhattan land "
+                    "values against real-estate sales prices (log scale), "
+                    "1950–2014. Land tracks the market but swings harder — "
+                    "collapsing in the 1970s, then climbing relentlessly from "
+                    "1980 — the century-scale appreciation behind the paper's "
+                    "estimate that Manhattan's land alone was worth about "
+                    "$1.74 trillion by 2014. <span class=\"figure-credit\">"
+                    "Source: Barr, Smith &amp; Kulkarni, <em>What's Manhattan "
+                    "Worth?</em> (working paper, 2015), Figure 4; published in "
+                    "<em>Regional Science and Urban Economics</em> 70, 2018 — "
+                    "reproduced for comment and review.</span>"),
+    },
+    {
+        "key": "dlu-fig1",
+        "entry": "research/de-loecker-eeckhout-unger-markups.md",
+        "pdf_url": "https://www.nber.org/system/files/working_papers/w23687/w23687.pdf",
+        "page": 10,
+        "clip": (170, 214, 448, 392),
+        "dpi": 250,
+        "alt": ("Line chart of the sales-weighted average markup of US firms, "
+                "1960 to 2014. The line drifts between 1.16 and 1.32 until about "
+                "1980, dips to 1.18, then climbs steadily to 1.67 by 2014."),
+        "caption": ("Figure 1 from the working-paper version: the sales-weighted "
+                    "average markup of US firms, 1960–2014. Flat around 1.2–1.3 "
+                    "for two decades, then climbing from 1980 to 1.67 — the "
+                    "average firm charged 67% over marginal cost in 2014 versus "
+                    "18% in 1980, the rise-of-market-power finding this entry "
+                    "documents. <span class=\"figure-credit\">Source: De "
+                    "Loecker, Eeckhout &amp; Unger, NBER Working Paper 23687 "
+                    "(2017), Figure 1; published in <em>Quarterly Journal of "
+                    "Economics</em> 135(2), 2020 — reproduced for comment and "
+                    "review.</span>"),
+    },
+    {
+        "key": "piketty-53",
+        "entry": "research/piketty-capital-21st-century.md",
+        "pdf_url": ("http://piketty.pse.ens.fr/files/capital21c/en/"
+                    "Piketty2014FiguresTables.pdf"),
+        "page": 33,
+        "clip": (35, 35, 815, 550),
+        "dpi": 200,
+        "alt": ("Line chart titled 'Figure 5.3. Private capital in rich "
+                "countries, 1970-2010': the value of private capital as a "
+                "percent of national income for the US, Japan, Germany, France, "
+                "the UK, Italy, Canada and Australia. All eight countries rise "
+                "from roughly 200-350% in 1970 to 400-700% by 2010, with "
+                "Japan's late-1980s bubble spiking to 700% before falling "
+                "back."),
+        "caption": ("Figure 5.3 from the book's author-posted figure set: "
+                    "private capital as a share of national income in eight rich "
+                    "countries, 1970–2010 — from 2–3.5 years of national income "
+                    "in 1970 to 4–7 years by 2010. This is the return-of-capital "
+                    "trend whose composition the wiki's capital-share cluster "
+                    "(Rognlie, Bonnet et al., Knoll et al.) decomposes into land. "
+                    "<span class=\"figure-credit\">Source: Piketty, <em>Capital "
+                    "in the Twenty-First Century</em> (2014), Figure 5.3, from "
+                    "the freely posted figure files at "
+                    "piketty.pse.ens.fr/capital21c — reproduced for comment and "
+                    "review.</span>"),
+    },
 ]
 
 

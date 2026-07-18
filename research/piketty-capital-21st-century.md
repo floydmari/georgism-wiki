@@ -38,6 +38,11 @@ right, but as **the widely credentialed data source and thesis that the land-dec
 literature (Rognlie, Bonnet et al., La Cava, Knoll-Schularick-Steger) subsequently refines and
 partially redirects**.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/piketty-53.png" alt="Line chart titled 'Figure 5.3. Private capital in rich countries, 1970–2010': the value of private capital as a percent of national income for the US, Japan, Germany, France, the UK, Italy, Canada and Australia. All eight countries rise from roughly 200–350% in 1970 to 400–700% by 2010, with Japan's late-1980s bubble spiking to 700% before falling back." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 5.3 from the book's author-posted figure set: private capital as a share of national income in eight rich countries, 1970–2010 — from 2–3.5 years of national income in 1970 to 4–7 years by 2010. This is the return-of-capital trend whose composition the wiki's capital-share cluster (Rognlie, Bonnet et al., Knoll et al.) decomposes into land. <span class="figure-credit">Source: Piketty, <em>Capital in the Twenty-First Century</em> (2014), Figure 5.3, from the freely posted figure files at piketty.pse.ens.fr/capital21c — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## The Core Argument
 
 1. **Wealth-income ratios have risen back toward historically high, pre-WWI levels.** Using

@@ -62,12 +62,17 @@ commit+push+preview — publishing is Floyd's process.
       (runbook) + `scripts/build_figure_queue.py` → `sources/figure-queue.md` (341 candidates
       scored by tier/inbound/outcomes/PDF-access; 13 re-embed placements). First four synced
       live to Ghost same day.
-- [ ] [EXPAND] tier:T2 status:todo — WORK THE FIGURE QUEUE: run shifts per LOOP-FIGURES.md
-      (≤4 figures/shift, §3c bar, visual verification, T1 picks the chart). Top of queue:
-      oates-schwab-pittsburgh, arnott-stiglitz-HGT, glaeser-gyourko, hsieh-moretti (needs WP
-      mirror), harrison-power-in-the-land, hoyt-chicago-land-values (1933 — NOT yet PD,
-      fair-dealing crop with credit), larson-us-land-value. Stamp queue statuses as you go;
-      regenerate after each merge.
+- [x] [EXPAND] tier:T1 status:done (2026-07-18) — 12-wave autonomous campaign complete:
+      29 pages carry figures (22 source entries + 7 evidence-page re-embeds), all synced
+      live. Queue machinery in steady-state.
+- [ ] [EXPAND] tier:T2 status:todo — figure loop STEADY-STATE: future shifts work
+      sources/figure-queue.md as normal editorial work (no self-wakeup chain). Restart
+      triggers: (a) new research entries land (queue regenerates and surfaces them);
+      (b) Hermes delivers book scans (12 chart-bearing books blocked:book-scan) or WP
+      mirrors (saiz, brueckner, plassmann-tideman, barkai, davis-heathcote Fed WP,
+      cunningham, foldvary-cycle, hilber-vermeulen LSE repo, bezemer-samarina DNB WP,
+      guettabi, dye-england, world-bank-changing-wealth fetch); (c) Floyd/Liam point at a
+      chart. Per-figure protocol unchanged: LOOP-FIGURES.md step 4.
 
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
 ### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
