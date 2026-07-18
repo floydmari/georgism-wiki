@@ -1961,3 +1961,21 @@ congestion-displacement caveat; ERP as Vickrey pricing). One banned-word slip
 ("proves") caught and reworded pre-lint. Zero registry changes needed. Verdict:
 one more inventory-driven tier-five scoping pass recommended before declaring
 the seam exhausted. 888 pages, lint 0 errors, warnings baseline-identical.
+
+## 2026-07-18 (cont.) — Wave: tier five — BURN-DOWN LANE CLOSED (mined out)
+
+Widest band yet (500-900w × ≥12 inbound, 21 candidates each read against held
+material): 17/21 ADEQUATE (incl. all 6 portals adequate-by-design and taiwan's
+already-honest Lincoln case study), 4 EXPANDED — and the diagnosis matters: all
+4 were CROSS-LINK gaps, not thinness (Denmark never cited the two DUELING 2007-
+reform quasi-experiments — Høj-et-al full capitalization vs Nielsson-et-al
+precise zero, "unreconciled tension" preserved; geolibertarianism lacked the
+Gochenour-Caplan/Foldvary critique-reply pair + kinetic/potential revenue
+divergence; ecological-georgism got the nonpoint-pollution section its own
+See-Also had promised; lvt-can-be-progressive gains Gaffney 1971 as historical
+corroboration EXPLICITLY out of supported_by with his "remains regressive under
+the best of management" limit kept). FORMAL CLOSURE: the words×inbound seam is
+mined out across five tiers — short high-traffic pages are short because they
+warrant it. Future waves should pivot axes: a systematic Bears-On/reciprocal-
+link gap sweep between today's ~15 new Gaffney pages and their concept/outcome
+homes (the exact failure mode behind all 4 finds). 888 pages, lint 0 errors.

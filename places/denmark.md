@@ -4,7 +4,8 @@ category: places
 tags: [denmark, grundskyld, land-value-tax, georgism, scandinavia, fiscal-policy]
 stub: false
 sources: [tideman-1999]
-excerpt: "Denmark’s grundskyld (“ground duty”) is one of the developed world’s longest-standing land taxes — a recurrent levy assessed on land value, separate from and in addition to any tax on buildings."
+excerpt: "Denmark’s grundskyld (“ground duty”) is one of the developed world’s longest-standing land taxes — a recurrent levy assessed on land value, separate from and in addition to any tax on buildings. Two recent quasi-experiments on the same 2007 municipal reform reach opposite conclusions on whether it capitalizes into prices."
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -39,13 +40,22 @@ Denmark implemented significant land reforms over the 20th century, including po
 
 In more recent decades, the share of Danish local government revenue coming from the grundskyld has varied as political priorities shifted. Debates about property taxation in Denmark frequently revisit the question of how to apportion the tax between land and building values. The grundskyld remains a live element of Danish fiscal policy.
 
+## Contemporary Evidence: The Capitalization Debate
+
+Denmark's 2007 municipal-boundary reform — which reshuffled grundskyld rates across roughly 250 areas as merged municipalities harmonized their local rates — has since produced the wiki's two most-cited quasi-experimental tests of pure land-tax incidence, and they disagree. [Høj, Jørgensen & Schou (2017)](/wiki/dors-land-taxes-housing-prices/), a Danish Economic Councils (DØRS) working paper, tracked house prices across the same rate variation and found **full capitalization** of the tax into prices — the classical prediction that the burden lands on the owner at the moment of the change, with no channel left for it to reach tenants. [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/), using the identical national setting, instead estimate a **precise zero** price effect, explicitly ruling out full capitalization, and read their result as implying the burden is shared with tenants and future purchasers rather than absorbed entirely by owners at announcement; they also find null effects on housing development and mobility, though older homeowners sort away from high-tax areas. The two studies are in direct, unreconciled tension on the same reform, the same country, and (in overlapping part) the same years — a caution against treating Danish capitalization evidence as settled in either direction. See [Tax Capitalization](/wiki/tax-capitalization/) for how the wider capitalization literature situates this disagreement.
+
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Estonia](/wiki/estonia/) — a more complete national LVT implementation
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — US split-rate case study
+- [Tax Capitalization](/wiki/tax-capitalization/) — the general mechanism the 2007-reform studies test
+- [Land Taxes and Housing Prices (Danish Economic Councils, 2017)](/wiki/dors-land-taxes-housing-prices/) — finds full capitalization
+- [The Incidence and Efficiency of Land Value Taxation (Nielsson, Wroblewski & Yding, 2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — finds a precise zero effect, the counter-result
 
 ## Sources
 
 1. IMF Fiscal Affairs (2013), "Taxing Immovable Property: Revenue Potential and Implementation Challenges" — used for the global property/land tax assessment incl. Nordic systems. [PDF](https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf)
 2. Viggo Starcke, "Centuries of Experience with Land Taxation in Denmark" (excerpted from *Denmark in World History*, 1962), hosted by Henry George Biblioteket (the Danish Georgist library), Copenhagen. [bibliotek1.dk](https://bibliotek1.dk/english/history/centuries-of-experience-with-land-taxation-in-denmark) — fetched and read (2026-07-11); used for the legislative chronology (1903 valuation reform, 1908 increment tax, 1916 separate land/building assessment, 1919 land reform, the **1922** national grundskyld Act, the **1926** municipal land-value Act, the **1933** unearned-increment Act), the "about half of the land-rent collected" estimate, and the Justice Party (Retsforbundet) 1957–1960 coalition and its land-value-tax measures. Author is a former parliamentary leader of the Justice Party, so this is a Georgist-advocacy historical source; the 1922/1926/1933 dates are independently corroborated. Standard neutral comparative reference: Robert V. Andelson (ed.), *Land-Value Taxation Around the World*, 3rd ed. (2001), Denmark chapter. [Publisher](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470755364) (see [research summary](/wiki/andelson-lvt-around-the-world/)).
+3. Anne Kristine Høj, Mads Rahbek Jørgensen & Poul Schou (2017), "Land Taxes and Housing Prices," Danish Economic Councils (DØRS) Working Paper 2017:1 — used for the 2007 municipal-reform design and the full-capitalization finding. [wiki summary](/wiki/dors-land-taxes-housing-prices/)
+4. Ulf Nielsson, Caleb Wroblewski & Anders Yding (2024), "The Incidence and Efficiency of Land Value Taxation," working paper — used for the precise-zero-capitalization counter-finding and the burden-sharing/null-development results. [wiki summary](/wiki/nielsson-wroblewski-yding-danish-lvt/)

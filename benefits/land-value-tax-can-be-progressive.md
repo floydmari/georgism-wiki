@@ -8,7 +8,7 @@ evidence_strength: "Strong that LVT falls on concentrated land wealth and can be
 supported_by: [schwerhoff-imf-equity-efficiency, schwerhoff-taxation-economic-rents, plummer-lvt-distribution, bowman-bell-lvt-distribution, rognlie-capital-share, cwc-distributional-impacts-lvt, saez-zucman-wealth-inequality, bonnet-land-is-back]
 challenged_by: [england-zhao-lvt-distribution, wyatt-critical-view-lvt]
 excerpt: "Because land ownership is concentrated among the wealthy, a land value tax falls disproportionately on high-wealth households — making it both efficient and progressive. Household-level incidence is design-dependent; a flat refundable credit or citizen's dividend makes it sharply progressive."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 ---
 
 > **At a glance** — Because land ownership is heavily concentrated among wealthier households, a land value tax can be made progressive without sacrificing efficiency — though household-level incidence is design- and jurisdiction-dependent, and at least one revenue-neutral case was regressive without a credit.
@@ -61,6 +61,28 @@ summary: LVT's progressivity is real at the top of the wealth distribution
 (land ownership is concentrated) but **design-dependent** at the household
 level — and contested from the left as well as the right.
 
+## An Older Case for the Same Concentration Premise
+
+The modern evidence above rests on wealth-concentration data (Saez & Zucman,
+Rognlie); [Mason Gaffney's 1971 National Tax Association paper](/wiki/gaffney-property-tax-progressive/)
+made essentially the same ownership-concentration argument decades earlier, for
+the general property tax rather than a pure LVT, and reached it independently of
+the capital-mobility "new view" that dominates modern incidence theory. Gaffney
+assembled wealth-concentration figures from a dozen studies spanning 1926–1971
+(US estates, farm acreage, corporate shares) to argue property ownership is
+consistently far more concentrated than income — his own Milwaukee data found the
+top 10% of industrial property owners held roughly 60% of assessed value — and
+that standard regressivity findings commit a **regression-fallacy**: ranking
+households by income rather than by wealth "practically preordains" a regressive-
+looking result, while ranking by wealth flips the same data progressive. This is
+Gaffney's own argument (C/D-claim; a 1971 conference paper responding to the
+literature of its moment, not an econometric result, and its own text concedes
+the tax "remains regressive under the best of management" if regressively
+*assessed* — the argument is about the tax's concept, not its administration in
+any given jurisdiction). It is carried here as independent historical corroboration
+of the concentration premise from a different methodological angle, not as
+additional statistical evidence for the modern progressivity finding.
+
 ## Strength of Evidence
 
 **Strong** — follows from the concentration of land ownership plus formal optimal-tax results.
@@ -69,6 +91,7 @@ level — and contested from the left as well as the right.
 
 - [Citizen's Dividend](/wiki/citizens-dividend/) · [Land Value Tax](/wiki/land-value-tax/)
 - [Taxation of Economic Rents (Schwerhoff, Edenhofer & Fleurbaey 2020)](/wiki/schwerhoff-taxation-economic-rents/) — the same authors' survey: a *linear* land rent tax alone could be regressive on US SCF evidence, but the recycled reform is "very likely to be progressive"
+- [Gaffney (1971), The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — the independent, decades-earlier ownership-concentration argument (historical corroboration, not statistical evidence)
 
 ## Sources
 
@@ -84,3 +107,9 @@ level — and contested from the left as well as the right.
    distributional reading: a linear land rent tax alone could be regressive on US
    SCF evidence, but the recycled reform is "very likely to be progressive."
    [wiki summary](/wiki/schwerhoff-taxation-economic-rents/)
+4. Mason Gaffney (1971), "The Property Tax Is A Progressive Tax," *Proceedings of
+   the Sixty-Fourth Annual Conference on Taxation*, National Tax Association, pp.
+   408–426 — used for the independent ownership-concentration argument and its
+   regression-fallacy critique of income-ranked incidence studies (C/D-claim,
+   attributed; historical corroboration, not counted among the 8 supporting
+   sources above). [wiki summary](/wiki/gaffney-property-tax-progressive/)

@@ -246,6 +246,11 @@ current rent, exactly reversing the picture a rent-based measure implies.
   predicting who wins and loses under a shift toward land, a question that
   page's "Practical Obstacles" section already raises from Cohen &
   Coughlin's later, different angle.
+- **Benefit:** [A land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/) —
+  carried as independent historical corroboration of the concentration
+  premise (ownership more concentrated than income), reached by a distinct
+  methodological route decades before the modern wealth-data evidence; not
+  counted among that page's formal supporting sources.
 
 ## Provenance
 

@@ -71,6 +71,7 @@ such, not as peer-reviewed. The progress.org column's date is unverified
 
 - [Fred Foldvary](/wiki/fred-foldvary/)
 - [Larson's BEA land-value estimates](/wiki/larson-us-land-value/) — the measured-kinetic side of the ledger
+- [Geolibertarianism](/wiki/geolibertarianism/) — the decomposition's stake in whether a land tax alone can fund all legitimate government revenue
 
 ## Sources
 
