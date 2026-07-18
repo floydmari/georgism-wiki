@@ -27,6 +27,7 @@ supported_by:
 - gaffney-montana-land-policy
 - gaffney-extractive-resources-taxation
 - gaffney-mineral-leasing-tax-reform
+- gaffney-water-rent-taxation
 tags:
 - outcomes
 - resource-rents
@@ -193,6 +194,43 @@ still lose rent to tax-code leakage on the private production it does not
 directly control, or fail before that stage through avoidable leasing
 errors.
 
+## An Eighth Mode — Water Rights Assigned by Doctrine, Not Price
+
+Norway, Botswana, Alaska, Montana, and the Forest Service govern ownership
+and leasing of oil, minerals, coal, and timber; the sixth and seventh modes
+show rent leaking through leasing design and ordinary tax law. **Gaffney's
+water-law essays document an eighth mode: an entire resource class where the
+allocating institution isn't a lease, a royalty, or the tax code, but
+century-old common-law doctrine that was never designed to price the
+resource at all.** His 1961 case study of California's Kaweah River system
+found the marginal value of water varying by a factor of ten or more between
+adjacent, physically connected users — because riparian, appropriative, and
+correlative water-rights doctrine each assign water by land-adjacency or
+priority-of-claim rather than by productive value; appropriative rights
+specifically reward premature, inflated diversion, since "a cost to
+society — withdrawing water — is made a revenue to the appropriator."[16]
+He further traced a self-reinforcing overinvestment cycle distinct from the
+leasing-design and tax-code failures above: because private land
+development lags decades behind the public water projects meant to serve
+it, inflated land values persist long enough to hold what he calls a
+**"price umbrella,"** enticing more competing water-project starts than
+markets can absorb, compounded by defensive racing for water rights and
+project-siting logrolling — a dynamic he ties to water's role in the 1893
+and 1929 US land collapses.[16] His 1992 synthesis, "The Taxable Surplus in
+Water Resources," proposes the same rent-tax remedy already documented for
+oil, gas, and minerals — severance, net-proceeds, and gains taxes on
+withdrawals — framed as a rebuttal of six specific fallacies blocking it,
+notably that water rights are alienable private property (they are a
+revocable public-trust license) and that firm property rights alone let
+markets allocate water efficiently (permit holders carry no debt and no
+property tax, so — unlike the recorded, debt-financed real-estate
+market — they face no cash-drain pressure to sell).[17] Read against the
+other seven modes, water shows that "capture works" requires, as a logical
+first step, that the *legal category itself* recognize the resource as
+rent-bearing property subject to a public price — a threshold California's
+oil-and-gas and Alaska's mineral regimes had already crossed, but which
+western water law, on Gaffney's account, still had not.
+
 ## Why It Isn't Automatic — the Resource Curse
 
 The general result is more sobering, and the page states it plainly. [Sachs and Warner's](/wiki/sachs-warner-resource-curse/)
@@ -300,6 +338,7 @@ necessary; the institutions are what make it sufficient.
 - [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — the concentrated-absentee-leasing-plus-weak-instrument case (coal)
 - [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Crown-land leasing-design errors and US federal oil-tax-code leakage, two further failure modes
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — early (1967) empirical anchor for the scale of capturable rent in extractive industries
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the eighth failure mode: water rights assigned by legal doctrine rather than price
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -388,3 +427,20 @@ necessary; the institutions are what make it sufficient.
     — used for the US federal income-tax loophole catalogue, led by the
     leasehold-abandonment deduction (advocacy essay, not peer-reviewed;
     corroborating, not load-bearing).
+16. Mason Gaffney (1961), "Diseconomies Inherent in Western Water Laws: A
+    California Case Study," *Economic Analysis of Multiple Use*, Report No.
+    9, Western Agricultural Economics Research Council, pp. 55–82 —
+    [wiki summary](/wiki/gaffney-water-rent-taxation/) ·
+    [PDF](https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf)
+    — used for the Kaweah River marginal-productivity dispersion case study
+    and the price-umbrella/racing/logrolling dynamic (single-river-system
+    case study generalized by assertion, not a multi-system statistical
+    sample; text recovered via fresh OCR of a poor legacy scan — see the
+    dedicated page's `[VERIFY]` note; corroborating, not load-bearing).
+17. Mason Gaffney (1992), "The Taxable Surplus in Water Resources,"
+    *Contemporary Policy Issues* 10, pp. 74–82 —
+    [wiki summary](/wiki/gaffney-water-rent-taxation/) ·
+    [PDF](https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf)
+    — used for the six-fallacy case for taxing water withdrawals (advocacy/
+    policy-journal essay, not peer-reviewed; corroborating, not
+    load-bearing).

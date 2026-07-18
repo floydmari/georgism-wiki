@@ -14,8 +14,76 @@ gaffney-alaska-oil-leasing, gaffney-land-market-distortions, gaffney-california-
 gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depletion-land-rent,
 gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy,
 gaffney-rising-inequality-farm-property-tax, gaffney-urban-land-rent,
-gaffney-containment-policies-urban-sprawl, gaffney-land-as-element-of-housing-costs;
-narratives/the-corruption-of-economics; people/mason-gaffney.
+gaffney-containment-policies-urban-sprawl, gaffney-land-as-element-of-housing-costs,
+gaffney-water-rent-taxation; narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-18 (tier-2 batch 6 — E-series skim-verdicts + WATER cluster, a wholly new
+resource-rent domain):** Two-part wave. **(1) E-series skim verdicts:** E13,
+"Changes in Land Policy: How Fundamental Are They?" (1976 WAEA conference
+paper), and E15, a book review of Heilbrun's *Real Estate Taxes and Urban
+Housing* (1966), were read in full and both **declined dedicated pages**.
+E13 is genuinely substantive (a rich 1970s diagnosis of exclusionary
+zoning) but its policy core overlaps E3/E10/E11/E12/E14, all already mined
+this session; its one clean delta — the "grants to governments are grants
+to landowners" fiscal argument and a utility zonal-rate cross-subsidy
+incentive for exclusionary zoning — was wired as a light addition to the
+stub page [concepts/nimbyism](/wiki/nimbyism/) instead of a full mining
+pass, proportionate to a skim-verdict item (registry row added, Light
+scan, per the E1 reversal precedent). E15 is thin as expected: a two-page
+book review restating already-covered ATCOR-precursor and tax-incidence
+material with no primary Gaffney research; zero-addition verdict, no
+registry row (C2 precedent). E15's ampersand-filename mirror problem
+recurred (236-byte cached 404 stub) and was resolved the usual way
+(`%26` direct fetch from masongaffney.org). **(2) Corpus-wide picks —
+WATER:** surveyed the full remaining unchecked-row pool (F environmental,
+G property-tax-miscellany, H water, I capital/employment, K history-of-
+thought, L/N/O/Z singles, plus workpapers and essays) for genuine wiki
+gaps rather than restatements of the strong-hands/timing material now
+covered 4+ times. **Water rights emerged as the strongest gap**:
+[concepts/resource-rents](/wiki/resource-rents/) names water in its own
+opening definition of resource-rent domains but had developed zero content
+on it, and no other wiki page covers water rights, western water law, or
+water markets at all. Skimmed the H-series water cluster by file size and
+opening pages (H18 Water Giveaway, H19 How a Water Market Might Work — 4pp,
+too short; H20 Whose Water — Ours, abridged/unabridged pair, likely
+overlapping with H21; H22 What Price Water Marketing, unread — large but
+lower priority once H21 covered the core argument; H4 Water Law &
+Economic Transfers Reply — mirror 404 stub, not pursued; H5 Comparison of
+Market Pricing, H8 Economic Aspects of Water Resource Policy — 14pp
+survey, also-ran) and picked the two most substantive: **H3, "Diseconomies
+Inherent in Western Water Laws: A California Case Study"** (1961) and
+**H21, "The Taxable Surplus in Water Resources"** (1992), combined onto
+[research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/)
+as a career-spanning pair (empirical diagnosis, then mature policy
+proposal), the same two-work-combination pattern already used for
+B1/B4+B13/E11+E12. **H3 also yields a priority finding**: delivered
+January 23, 1961, it predates "The Unwieldy Time-Dimension of Space"
+(October 1961) by nine months, making it the earliest-dated
+professional/academic conference paper so far identified in the corpus
+(after the 1957 timber monograph and 1958 *Yearbook of Agriculture*
+essay) — though it does not contain the "strong hands" credit-
+concentration mechanism, so C4's specific priority claim on
+concepts/land-monopoly stands unaffected (see the new page's dedicated
+priority-note section, cross-referenced from people/mason-gaffney).
+**OCR note:** H3's masongaffney.org PDF carries a poor-quality legacy-scan
+text layer; re-OCR'd this session at 250dpi with Tesseract 5.3.4, which
+recovered substantially cleaner text (17,195 vs. ~13,437 words) — flagged
+`[VERIFY]` on the page regardless, since the underlying scan quality is
+still a limiting factor for exact figures. H21 is native, cleanly
+`pdftotext`-extractable text. **Bonus reconciliation:** while surveying
+the candidate pool, found K1 (`K1Neo-classical_Stratagem.CV.pdf`) already
+cited by [research/gaffney-neoclassical-stratagem](/wiki/gaffney-neoclassical-stratagem/)
+and twice in the registry — its triage checkbox had simply never been
+flipped; fixed, no content change. Wired (delta additions, not
+restatement): concepts/resource-rents (new "Water as a Resource Rent"
+section), benefits/resource-rent-capture-works (an eighth institutional-
+failure mode — water rights assigned by legal doctrine rather than price
+— distinct from the seven leasing/tax-code/ownership modes already there),
+and people/mason-gaffney (replaced a vague unlinked "Research on water
+rights and natural resource taxation" placeholder bullet with a proper
+linked entry plus the priority note). Registry: two new rows (both tier
+`core`, Scan Depth Heavy) for H3/H21, one new row (tier `supplementary`,
+Scan Depth Light) for E13. `lint_wiki.py`: 0 errors.
 
 **2026-07-18 (tier-2 batch 4 — priority correction + farm-subsidy incidence + time-indivisibility):**
 Three publications read, drafted, and wired: C4 (1961), D3 (1966), and E10
@@ -364,9 +432,9 @@ priority-correction candidate for a future wave.
 - [x] `E10-Land_Planning_and_the_Property_Tax_AIP.pdf` — https://masongaffney.org/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf — [research/gaffney-land-planning-property-tax](/wiki/gaffney-land-planning-property-tax/), 2026-07-18. *AIP Journal*, May 1969, pp. 178–183. **Priority finding:** this is the primary source of the Milwaukee "isovalic" study and Marine Plaza illustration the wiki previously credited only to its 1998 restatement (research/gaffney-philosophy-of-public-finance) — corrected there. Native text, no OCR needed.
 - [x] `E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf — [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/), 2026-07-18 (Part I; merged with E12). Confirmed via masongaffney.org as *American Journal of Economics and Sociology* 31(3): 241-258 (July 1972). Same literal-ampersand mirror-404 problem as D1; fetched directly from masongaffney.org with `%26` percent-encoding.
 - [x] `E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf — [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/), 2026-07-18 (Part II; merged with E11). Confirmed via masongaffney.org as *AJES* 32(1): 17-34 (January 1973). Same mirror/encoding workaround as E11/D1.
-- [ ] `E13Changes_in_Land_Policy.CV.pdf` — https://masongaffney.org/publications/E13Changes_in_Land_Policy.CV.pdf
+- [x] `E13Changes_in_Land_Policy.CV.pdf` — https://masongaffney.org/publications/E13Changes_in_Land_Policy.CV.pdf — skim-verdict 2026-07-18: read in full (27pp, native text, no OCR needed). "Changes in Land Policy: How Fundamental Are They?" (WAEA paper, Fort Collins, July 20, 1976) is a substantive, wide-ranging essay on 1970s exclusionary zoning (British Columbia's Agricultural Land Reserve, Vermont/Oregon anti-growth statutes, preferential farm assessment) with real analytical content — an environmental/fiscal-causes taxonomy, a "federal grants to governments are grants to landowners" argument, zonal-utility-rate cross-subsidy design, and BC Land Reserve Gini-ratio farmland-concentration data. **Declined a dedicated page this wave**: its policy core (LVT anti-sprawl, cross-subsidy zonal pricing, preferential-assessment critique) substantially overlaps E3/E10/E11/E12/E14, all mined this session. Genuinely new angle — a systematic economic diagnosis of *exclusionary* zoning specifically (as distinct from growth-boundary containment) — filled a real gap on the stub page [concepts/nimbyism](/wiki/nimbyism/) instead: wired as a new paragraph (the grants-to-landowners fiscal argument and the utility cross-subsidy incentive), a lightweight fix proportionate to the skim-verdict process rather than a full mining pass. Registry row added (Light scan, supplementary tier, 1 in-wiki citation: concepts/nimbyism), per the E1 precedent — a declined dedicated-page verdict does not exempt a source from the registry once it is directly cited from at least one page.
 - [x] `E14Synergistic_City.CV.pdf` — https://masongaffney.org/publications/E14Synergistic_City.CV.pdf — reconciled 2026-07-18: confirmed this is the exact PDF already cited as the sole source of [research/gaffney-synergistic-city](/wiki/gaffney-synergistic-city/) (title page, venue, and date all match: Lincoln Institute Colloquium on Land Policy, Oct. 28, 1977; *Real Estate Issues*, Winter 1978, pp. 36-61). The page had previously been built from an abstract-only read (registry Scan Depth: Light); fetched and fully read the native-text PDF this session, upgraded Scan Depth to Heavy, and enriched the page's Overview with two findings not previously on it (the pollution/open-space myth-busting argument and the postage-stamp cross-subsidy pricing mechanism, the latter cross-linked to its earlier, more concrete 1964 statement in E3 below).
-- [ ] `E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf` — https://masongaffney.org/publications/E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf
+- [x] `E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf` — https://masongaffney.org/publications/E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf — skim-verdict 2026-07-18: the local mirror held only a 236-byte cached 404 stub (same ampersand-mirror problem as D1/E11/E12/B5/B13/E37); fetched directly from masongaffney.org with `%26` percent-encoding, confirming the fix generalizes yet again. The PDF is exactly what the filename promises: Gaffney's ~2-page book review of James Heilbrun, *Real Estate Taxes and Urban Housing* (Columbia UP, 1966), published in *The Journal of Business* (Univ. of Chicago Press; exact volume/issue `[VERIFY]` — the OCR'd masthead reads "277" as a page number but the journal name is legible), signed "University of Wisconsin — Milwaukee," dating it to Gaffney's brief Milwaukee period, mid-to-late 1960s. **Declined a dedicated page — thin as expected.** Content is almost entirely a critique of another author's dissertation-based book (four numbered "errors and omissions": no capital theory, understated site-value-tax revenue potential, a construction-cost/land-price-offset error, and misapplied housing-demand-elasticity studies treating a small open local jurisdiction like a closed economy), not primary Gaffney research. Its one recurring phrase of note — "a kind of law of conservation of economic energy" — is the same pre-ATCOR language already covered and correctly prioritized via the 1998 Philosophy of Public Finance chapter on [research/gaffney-atcor](/wiki/gaffney-atcor/) and [concepts/atcor](/wiki/atcor/); this review does not predate that citation (undated more precisely than "1960s" against ATCOR's already-corrected 1998 priority) and adds no new argument beyond restating existing tax-incidence points (local property taxes fall on land, not tenants, because local housing demand is highly elastic even though national closed-economy demand studies show inelasticity). No registry row added (zero-addition verdict; not cited from any wiki page), per the C2 precedent.
 - [x] `E1Urban_Expansion_Stop.CV.pdf` — https://masongaffney.org/publications/E1Urban_Expansion_Stop.CV.pdf — read 2026-07-18 but declined a page this wave. *Urban Expansion — Will It Ever Stop?*, Yearbook Separate No. 2931, reprinted from the 1958 USDA *Yearbook of Agriculture*, pp. 503-522 — this is now the earliest dated work in the wiki's Gaffney corpus (predates C4, 1961, by three years), written while Gaffney was associate professor of agricultural economics at the University of Missouri. Rich, wide-ranging popular-press essay: an access/agglomeration argument that prefigures the 1964 and 1978 pieces below, plus a substantial diagnosis of land-speculation dynamics (capital-gains tax favoring speculators, property-tax assessment lag, land-boom financing leverage and collapse, population-forecast-driven overestimates of land demand) — but no explicit land-value-tax policy prescription in the excerpts read (the piece calls generally for "lowering the prices asked for urban land" without naming the mechanism). Declined a dedicated page this wave because its strongest material overlaps existing coverage (agglomeration/access economics duplicates the fuller E14 and E3 treatments below; land-boom dynamics overlaps [research/gaffney-land-booms-destroy-capital](/wiki/gaffney-land-booms-destroy-capital/), though that page's mechanism is a distinct, later 1993/2005 working paper) rather than being a clean own-topic fit for this wave's two picks. Flagged as a strong priority-correction candidate for a future wave (earliest-known-publication claim) or as an addition to [people/mason-gaffney](/wiki/mason-gaffney/)'s bibliography note. OCR not needed (native text via plain `pdftotext`, though the original two-column 1958 print layout causes some column interleaving in extraction — checked against context before any quoting). Text mirror: `sources/gaffney/text/E1Urban_Expansion_Stop.CV.txt`.
 
 **Priority-correction pass, 2026-07-18 (cont.):** re-read in full against the two flagged targets. (1) [people/mason-gaffney](/wiki/mason-gaffney/) — added a one-line note identifying E1 as the earliest *land-policy* item in the corpus (three years before the 1961 AJES paper), explicitly distinguishing it from the single earliest-dated work overall (the 1957 forestry/Faustmann monograph, a distinct technical question). (2) [concepts/land-monopoly](/wiki/land-monopoly/)'s "earliest known (1961) statement of the credit/'strong hands' concentration mechanism" — **left untouched**: E1 discusses land-boom financing, credit-quality deterioration, and "financial power" letting large holders outwait smaller ones, but never states the specific self-reinforcing loop (ownership qualifies for credit, credit buys more land) the 1961 paper and land-monopoly.md's Schikele quote state; verdict is "land booms/agglomeration only," not the mechanism, so the 1961 priority attribution stands per the wave's own instruction. (3) [research/gaffney-land-booms-destroy-capital](/wiki/gaffney-land-booms-destroy-capital/) — added a one-line "Historical precursor" note: E1's 1819–1929 land-crash list and "national prosperity on the film of a land bubble" line anticipate the *general* land-boom-threatens-capital concern 24–47 years before the 1982/1993/2005 notes, but explicitly does not contain their specific CCA/capital-consumption-allowance accounting mechanism — noted as anticipation, not priority-correction. Registry row added (Light scan, 2 in-wiki citations: mason-gaffney + gaffney-land-booms-destroy-capital), since this pass cites E1 directly from two pages — reversing the earlier no-registry-row default now that it's wired in. No dedicated E1 page created (still declined, per this morning's verdict).
@@ -404,9 +472,9 @@ priority-correction candidate for a future wave.
 - [ ] `H20WhoseWater--Ours.CV.pdf` — https://masongaffney.org/publications/H20WhoseWater--Ours.CV.pdf
 - [ ] `H20Whose_Water_Ours_Bibliography.pdf` — https://masongaffney.org/publications/H20Whose_Water_Ours_Bibliography.pdf
 - [ ] `H20Whose_Water_Ours_unabridged_reformatted.pdf` — https://masongaffney.org/publications/H20Whose_Water_Ours_unabridged_reformatted.pdf
-- [ ] `H21-TaxableSurplusinWaterResources.CV.pdf` — https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf
+- [x] `H21-TaxableSurplusinWaterResources.CV.pdf` — https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf — combined with H3 into [research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/), 2026-07-18. *Contemporary Policy Issues* 10 (Oct. 1992): 74-82, Western Economic Association International; revised from a paper delivered at the WEAI 66th Annual Conference, Seattle, July 1, 1991. Native text, no OCR needed. Chosen as one of this wave's two corpus-wide picks: a mature, six-fallacy systematic case for taxing water withdrawals, filling a total gap (water rent capture was previously undeveloped anywhere on the wiki despite being named in concepts/resource-rents' own opening definition).
 - [ ] `H22-WhatPriceWaterMarketing.CV.pdf` — https://masongaffney.org/publications/H22-WhatPriceWaterMarketing.CV.pdf
-- [ ] `H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf` — https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf
+- [x] `H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf` — https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf — combined with H21 into [research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/), 2026-07-18. "Diseconomies Inherent in Western Water Laws: A California Case Study," read before the Western Agricultural Economics Research Council, Tucson, Jan. 23, 1961; published in *Economic Analysis of Multiple Use*, Report No. 9, pp. 55-82. **Priority finding:** delivered January 23, 1961 — nine months before "The Unwieldy Time-Dimension of Space" (October 1961) — making this the earliest-dated professional/academic conference paper so far identified in the corpus after the 1957 timber monograph and 1958 *Yearbook of Agriculture* essay; does not, however, contain the "strong hands" credit-concentration mechanism, so C4's specific priority claim on concepts/land-monopoly is unaffected (see the dedicated page's priority-note section). **OCR note:** the masongaffney.org PDF's embedded text layer is poor-quality legacy scan-era OCR (e.g. "£_", "1%. ,aiZ", heavily garbled body text in spots); re-OCR'd this session at 250dpi with Tesseract 5.3.4 (`pdftoppm -r 250` + per-page `tesseract --psm 6`), which recovered dramatically cleaner text (17,195 words vs. ~13,437 from the embedded layer) — flagged `[VERIFY]` on the page as a residual transcription-risk caveat for exact figures despite the improvement, since the source scan quality itself is poor.
 - [ ] `H4-WaterLaw&amp;EconomicTransfersReply1.CV.CV.pdf` — https://masongaffney.org/publications/H4-WaterLaw&amp;EconomicTransfersReply1.CV.CV.pdf
 - [ ] `H5Comparison_of_Market_Pricing.CV.pdf` — https://masongaffney.org/publications/H5Comparison_of_Market_Pricing.CV.pdf
 - [ ] `H8-EconomicAspectsofWaterResourcePolicy.CV.pdf` — https://masongaffney.org/publications/H8-EconomicAspectsofWaterResourcePolicy.CV.pdf
@@ -420,7 +488,7 @@ priority-correction candidate for a future wave.
 - [x] `K142_Centuries_Thought_Land_Taxation.CV.pdf` — https://masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf — [research/gaffney-two-centuries-land-taxation](/wiki/gaffney-two-centuries-land-taxation/), 2026-07-17
 - [ ] `K17-AlfredRusselWallacesCampaign.CV.pdf` — https://masongaffney.org/publications/K17-AlfredRusselWallacesCampaign.CV.pdf
 - [ ] `K18George_McGlynn_and_Leo_XIII.pdf` — https://masongaffney.org/publications/K18George_McGlynn_and_Leo_XIII.pdf
-- [ ] `K1Neo-classical_Stratagem.CV.pdf` — https://masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf
+- [x] `K1Neo-classical_Stratagem.CV.pdf` — https://masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf — reconciliation fix, 2026-07-18 (found while surveying this wave's candidate pool, not separately re-read): already the source for [research/gaffney-neoclassical-stratagem](/wiki/gaffney-neoclassical-stratagem/) and cited twice in sources/registry.csv (rows "Neo-classical Economics as a Stratagem Against Henry George" and "The Corruption of Economics") — the checkbox was simply never flipped when that page was built. No content change.
 - [ ] `K2008_Keeping_Land_in_Capital_Theory.pdf` — https://masongaffney.org/publications/K2008_Keeping_Land_in_Capital_Theory.pdf
 - [ ] `K2012_Going_My_Way.pdf` — https://masongaffney.org/publications/K2012_Going_My_Way.pdf
 - [ ] `K9-StabileHGInfluenceonJBClarkMGComments.CV.pdf` — https://masongaffney.org/publications/K9-StabileHGInfluenceonJBClarkMGComments.CV.pdf

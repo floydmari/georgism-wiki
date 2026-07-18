@@ -1,0 +1,509 @@
+                THE TAXABLE SURPLUS IN WATER RESOURCES
+                                              MASON GAFFNEY*
+
+
+           Taxes or rental charges for water use are bearable and legal and would spur water
+       economy, but the following fallacies impede acceptance of these ideas: (1) water rights
+       are real property, (ii) a charge on water would be passed on to consumers, (iii) the
+       cost of water is just its development cost, (iv) markets solve most problems if property
+        rights are firm, (v) only consumptive use is a social cost, and (vi) common rights
+        must spell tragedy. This paper dispels these fallacies while advocating taxation and/or
+        rental charges for water use.
+
+
+
+
+                I. INTRODUCTION                                charging at high cost. During the 1976—
+   Imposing a package of severance1 and                        1977 drought, San Joaquin Valley land-
+other taxes on water withdrawals and                           owners drilled 10,000 new wells
+power drops can ameliorate five major                          (Weatherford et al., 1982, p. 1031). This is
+problems of water economy. Such taxation                       a treadmill: subsidized water supply fol-
+would (i) spur holders of surplus water to                     lowed by overdraft followed by State res-
+sell, (ii) foster conservation, (iii) convert                  cue projects followed by new overdrafts,
+water from a sink to a source of state                         and so on.2
+funds, (iv) offset the concentrated posses-                           The purpose of this paper is to dispel
+sion of water, and (v) integrate the econo-                    several fallacies that impede appreciation
+mies of ground and surface water. One can                      of the tax approach.
+view a severance or net proceeds tax as a
+price charged by the owner of water (the                        II.    FIRST FALLACY: 'WATER RIGHTS ARE REAL
+state) for using its property. The rationale                                       PROPERTY"
+is the same as that for an effluent charge                            Water is public domain. Most state con-
+on polluters, which is a familiar proposal.                    stitutions read that water belongs to the
+  A virtue of properly tuned taxation is                       state in trust for the people. (The analysis
+that it puts a uniform constraint on use of                    here focuses solely on intrastate waters.)
+both ground and surface waters. Today,                         California Water Code Section 102 reads,
+pumping is less constrained than surface                       "All water within the State is the property
+withdrawals. While California rations and                      of the people of the State" (emphasis
+prices surface water, landowners in the                        added). Private parties have possessory
+San Joaquin Valley drill more wells and                        interests. A water license is a privilege,
+pump up unpriced water the State is re-                        like that of an airline to occupy its time
+                                                               slots, of a cab to work the streets, of a
+   *0fesSor of Economics, University of California,
+Riverside. This is a revised version of a paper pre-
+sented at the Western Economic Association Interna-               2. Palm Springs and the Coachella Valley get water
+tional 66th Annual Conference, Seattle, Wash., July 1,         from the Colorado River Aqueduct and store it in their
+1991, in a session organized by Victor Brajer and Jane         aquifer. The water otherwise would go to Los Angeles..
+V. Hall, California State University Fullerton.                and its environs, which then would need less from
+     1. Colorado applies such a tax along the S. Platte        Northern California (Warren, 1991). No constraint on
+River. The tax has "operated for several years.. .with         pumping exists, as evinced by the 82 golf courses that
+little problem or controversy" (Young ef a!., 1986, p.         operate in the Coachella Valley, a Sonoran desert, and
+                                                               the 50 more that are planned.
+
+                                                          74
+Contemporary Policy Issues
+Vol. X, October 1992                                                              Economic Association International
+                            GAFFNEY: TAXABLE SURPLUS IN WATER RESOURCES                                          75
+
+
+broadcaster to use a frequency, or of a                     trol" (In re Hood River, 1924, pp. 190—191).
+rancher to graze his herds on public lands.                 In Ivanhoe v. McCracken (1958) the U.S.
+It is subject to conditions and invasion.3                  Supreme Court stingingly rejected the
+   Water licenses are not recorded with                     doctrine that the U.S. Bureau of Reclama-
+title deeds to real property. Only rarely do                tion holds water in trust only for landown-
+they appear on property tax rolls, and                      ers. The implied or constructive trust is
+when they do, they usually are listed as                    founded on another principle: "The proj-
+personal property, although this situation                  ect was designed to benefit people, not
+is confused, ambiguous, and neglected                       land" (Ivanhoe, pp. 296—297). Law profes-
+(LaBahn, 1971). Owners' lawyers often call                  sors such as Harrison Dunning (1982) and
+permits "real property," but not when the                   Joseph Sax (1990) have helped lay citizens
+subject is property taxation. (See Gaffney,                 recognize their legislature's power to reg-
+1962a, for discussion of the resulting                      ulate and by implications to tax. Because
+"double-talk.") "Appurtenancy" is a sup-                    water licenses are not real property, they
+ple legal term used to reconcile such con-                  would seem to be exempt from limits im-
+tradictions favorably for owners. Water li-                 posed by California Proposition 13, as are
+censes "appurtenant" to specific lands en-                  benefit assessments levied by irrigation
+able owners (i) to reserve original water                   and other water districts (American River
+claims in proportion to landholdings, (ii)                  case, 1982).
+to bolster water claims under color of real                    Ground water, too, is subject to legisla-
+property, (iii) to shelter water claims from                tive power. In coastal areas, pumping is
+taxation, and finally (iv) to separately cash               limited and/or taxed to stop salt water in-
+out surplus water claims. "The appropri-                    trusion and to pay for fresh-water
+ative right is.. .separable and alienable                   recharge.4 Pumping also is regulated to
+from the land to which it became initially                  control movement of toxic plumes. Under
+appurtenant" (Wright v. Best, 1942, cited                   the "correlative rights" doctrine, pumping
+in Hutchins, 1977, Vol. III, p. 191). True, a               is controlled so as to stop "export" of
+water license may be taxed indirectly                       water from lands overlying an aquifer
+through the value of taxable land it serves.                (Katz v. Walkinshaw, 1903). If that measure
+However, unused and misused water sur-                      does not suffice, pumping is controlled to
+pluses—the focus of the problem at                          prorate water among surface owners and
+hand—do not significantly raise the value                   shorten pump lifts (Pasadena-Aihambra
+of any land. Thus, they escape taxation in                  case, 1949). Pumping near streams is
+whole or part.                                              stopped to prevent indirect diversion of
+   The upshot is that legislatures have                     surface water (Tulare-Lindsay case, 1935).
+great latent power. The public purpose of                   Arizona authorized a pump tax in 1980
+water licenses is to put water to the best                  (for later implementation) and set about
+use, not to serve as "property-for-its-own-                 retiring farmlands to reserve groundwater
+sake." In Oregon, a leading decision reads                  for higher uses (Dunning, 1982, pp. 41—
+that "water use in this country (never)                     43). Meanwhile, Arizona is relying on di-
+rose above the dignity of a mere privilege                  rect regulations to conserve groundwater
+over which the state had complete con-                      (Brown and Ingram, pp. 23-24).
+
+   3. The leading 1928 Amendment to the California
+Constitution limits riparian water claims previously            4. Dating from 1933, the Orange County Water Dis-
+considered real property. "The [new] appropriator           trict levies a public charge on pumping ground water
+may take the surplus [of old claimants] without giving      in its 180,000 acres. Water Code Sections 60220 and
+compensation" (Hutchins, 1956a, p. 18). These limits        55335 permit water replenishment districts to exist any-
+"apply to the use of all water under whatever right" (em-   where (Birdlebough and Wilkins, pp. 267—268;
+phasis added) (Hutchins, 1956a, p. 19).                     Weatherford, pp. 1035—1036).
+76                              CONTEMPORARY POLICY ISSUES
+
+
+   An ancillary error is that the appropri-    input—a nonreproducible resource whose
+ative doctrine of water licensing ("first in   higher price will raise production. When
+time, first in right") originated with the     one pays more for water, one often
+'Forty-niner miners, who used water with       switches to higher-valued crops. One sub-
+possessory placer mining claims. The           stitutes capital and labor for water on the
+'Forty-finer fallacy subtly reinforces the     same land, raising monetary yields per
+fallacy that water rights are real property    acre and releasing surplus water to serve
+by intimating that extant appropriators        more lands. Conversely, the effect of cheap
+are the real "people" for whom the Con-        water was seen in the rural populations of
+stitution reserves water. This is more ro-     Fresno, Kings and Tulare Counties. Hav-
+mance than history. Placer mining claims       ing soared with dear water, 1940—50, these
+were narrowly limited in space and time.       populations stagnated with cheap water,
+They were just "ten feet square" in the        1951—1977 (Ballard, p. 30).
+good locations (Robinson, p. 137), making         With dearer water, one uses less by con-
+the mines ant-heaps. According to one for-     trolling it better, switching from furrow
+mer miner, "no one might.. .hold [gold-        irrigation to drip. Some growers plant av-
+bearing land] for a longer time than he        ocados on steep, formerly barren hillsides
+continued to use it" (George, 1879, p. 286).   that yield more dollars of product for less
+However, water flows on forever, and its       water. These facts point to a portentous
+scarcity value continues to rise. Perpetual    corollary: government can raise public
+ownership of water over thousands of           revenue from water and stimulate, not
+acres per owner is not in the 'Forty-finer     parch out, farm production and employ-
+tradition.                                     ment.
+   Securing a good water license required
+being at the right place and time, free, and    IV.   THIRD FALLACY: WATER IS WORTH WHAT
+white. Some owners based their claims on                    IT COSTS TO DEVELOP
+shotguns, a matter of common boast                Even a century ago, water supplied
+today. Above all, one needed to own land       freely by nature at the source was worth
+whereto to make the water "appurtenant."
+Landownership in the southwest has been        shooting people for. Today, developing
+                                               and distributing water through the Gage
+highly concentrated from an early time         Canal from the Santa Ana River to River-
+(Gates, 1978; Worster, 1985, pp. 98—111). It   side, Southern California, where it is used
+remains so today (Worster, 1985, pp. 243—      to grow citrus, costs $20 per acre foot (a.f.).
+247, 291—302; Villarejo, 1982; Feilmeth,       Meanwhile, the State is wholesaling im-
+1973, pp. 3—25, 163—180; U.S. Census of Ag-    ported water just over the city line for
+riculture, 1987, pp. 16, 36, 84, 120). Major   twelve times as much, $240/a.f. Because
+doctrines of water law (riparian, appropri-    of hidden and cross subsidies, the true so-
+ative, and correlative rights) restrict con-   cial cost of developing and delivering the
+trol of water to those with prior landown-     water at the outer and upper margins of
+ership. One also needed front money to         the system may run up to $2,000/a.f., or
+win the claim-staking race by appropriat-      100 times the total price (fixed and vari-
+ing water prematurely.                         able) charged for Gage Canal water. (No
+                                               one is able to figure the cost to the penny
+     HI. SECOND FALLACY: "COST OF WATER IS     because the books are cooked. Alan Post,
+            SHIFTED TO CONSUMERS"
+                                               1982, made a major effort; Gaffney, 1982,
+   One who sells in a world, national, or      a minor one.)
+competitive local market is a price-taker,        The social cost of withdrawing water is
+regardless of cost. That is standard doc-      the highest cost that preempting it im-
+trine. In addition, water is an unusual        poses on those who fail to receive it. In
+                            GAFFNEY: TAXABLE SURPLUS IN WATER RESOURCES                                       77
+
+
+this case, the cost is $2,000 rather than $20.             B. Water Distribution Is A Natural
+"Avoided cost" is the familiar regulatory                     Monopoly
+concept; "opportunity cost" is the theoret-                    Most big water projects are multi-pur-
+ical one. This third fallacy, reinforcing the
+                                                           pose and require centralized integration.
+second, conceals the central truth that                    Acknowledging and exploiting that fact,
+water such as Santa Ana River water,                       many appropriators have gained huge po-
+which arises naturally where demand ex-                    litical rents by getting Congress to over-
+ceeds supply, bears rent. It should com-                   pay for "non-reimbursable" features of
+mand the same price as water imported                      multi-purpose river-basin projects. Strong
+from 600 miles away. When so priced,                       economies of scale (to volume, not dis-
+users will economize it, and it will yield a               tance) mark even single-purpose water
+taxable surplus.                                           conveyance (Gaffney, 1961, 1962b, 1966,
+                                                           1969), so no place exists for parallel, com-
+  V.   FOURTH FALLACY: "FIRM UP PROPERTY;
+          THE MARKET WILL PROVIDE"
+                                                           peting lines. Rights-of-way are acquired
+                                                           by eminent domain, imposing a public
+   The market solves many problems; here                   servitude on the owner. Accordingly,
+are four it cannot solve.5                                 water supply, conveyance, and distribu-
+                                                           tion are almost everywhere public, coop-
+A. Some Human Rights Are Unalienable                       erative, or regulated.
+                                                              Water markets will not work by faith. A
+   No one may pledge or sell a child. It
+follows that society cannot collectively                   central conveyance and integrating
+alienate a child's birthrights. Water be-                  agency, regulated or administered in the
+                                                           public interest at a high level of economic
+longs to the states as trustees for all citi-
+                                                           and financial sophistication, must do what
+zens. That ongoing obligation must apply                   a market would do if a market would
+to citizens yet unborn.
+                                                           work. That possibility is not a dream: it is
+   The birthright may be a right of access,                what regulatory commissions do for
+where feasible. Often access must be lim-
+ited so that the resources can be managed                  power, gas, and communications. Com-
+                                                           missions will not work by faith, either.
+efficiently. Some seize on this necessity as
+the occasion to extinguish common rights,                  Keeping them honest and capable requires
+but this need not be the case. The state                   hard work, sound thinking, and dedica-
+                                                           tion. The economics profession must ac-
+merely can replace the common right of
+access with a state duty to collect revenues               cept that necessity and keep it a central
+                                                           concern.
+to serve common needs and replace other
+taxes. A right of revenue means a state
+would charge licensees for withdrawing                     C. Markets Require Motivated Sellers
+its water to use on private lands instead                     Put pink-slips (a metaphor for alienable
+of subsidizing them to do it, as is the cur-               property rights) on water, declare a free
+rent practice. A right of revenue would                    market, and watch the magic work, the
+turn financial sinkholes into sources and                  "new resource economists" write (Ander-
+"Negabucks into Megabucks" for state                       son, 1983; Moore, 1991).6 California As-
+treasuries and their trustors. At the same                 semblyman Richard Katz carried a statute
+time, it would promote efficient water use.                in 1982 (AB 3491) to let public agencies
+
+
+   5. The author has a long track record promoting            6. In 1961, the author saw great promise in ridding
+water marketing (Gaffney 1962a, 1962b, 1977). Now          water of legal barriers to alienability and making it
+that it is stylish, however, the uncritical dogmatism of   merchantable. Now he blushes as "new resource econ-
+zealots embarrasses him.                                   omists" make a panacea of the pink-slip.
+78                              CONTEMPORARY POLICY ISSUES
+
+
+help individuals sell water. The Environ-        son, 709). Claims to water are constantly
+mental Defense Fund has become a water           being made, expanded and firmed up.
+broker. In 1986, a new Katz bill (AB 2746)       Any giveaway process violates the virtues
+let water transferors use public agencies'       of the market. The rule for prior appropri-
+conveyance facilities. Water marketing is        ators and adverse possessors is "Waste
+all the rage.                                    today, want not tomorrow." The number
+   The results are disappointing given the       of examples almost equals the number of
+pent-up needs. Many deals are wanted;            licenses. For instance, in 1962 the Orange
+few are done. Something else obviously is        County Water District sued every up-
+wrong. A major obstacle to marketing is          stream diverter on the Santa Ana River. In
+that sellers are undermotivated. Water flows     the 1969 judgment, "each water agency's
+are perpetual, and demand keeps grow-            allotment is based on historical use"
+ing. No cash drain and no hurry exist. The       (Patterson, 1991). Think about that incen-
+broker's delight—the motivated seller—is         tive structure.
+a family moving or anyone with surplus              As we segue toward a market system,
+land subject to debt and property taxes.         speculators are moving in to acquire per-
+The broker's despair is farm water dis-          mits from old local holders. The specula-
+tricts. Most water permits are free of debt      tors visualize commercializing and mov-
+(banks do not lend on them) and free of          ing the water and using political influence
+property tax. The real estate market works       to modify the water permits. This new, so-
+because hundreds of thousands of deeds           phisticated rent-seeking, blended with
+are recorded every year. The water market        old-fashioned land speculation, raises
+has only dozens of transfers. To get this        great hostility and anxiety (Gottlieb, 1988,
+market working, some device must im-             pp. 261-280) and causes many to oppose
+pose a cash drain on holders of surplus          water marketing. A better way exists. A
+waters so they will actively seek out buy-       policy of taxing water withdrawals, based
+ers.                                             on the opportunity cost of water, would
+                                                 do the job without attracting alien buyers
+D. "Rent-seeking" Perverts the Market            seeking unearned increments.
+   The prior appropriation doctrine for es-        Popularizing Pareto, the fashion today
+tablishing water claims ("first in time, first
+                                                 is to boost water trades as "win-win"
+in right") is the locus classicus of "rent-      deals, but this is only a half-truth. Most
+seeking." It distorts present investment so
+                                                 water trades are "win-win-lose" deals.
+as to secure future rents. The motive is to      The loser is the general public. Every sale
+divert, develop, and half-use water before       of licenses helps validate private seizure
+its economic time so as to lay claim to its      of public domain. Besides the common
+future. Surface waters thus have been pre-       water, subsidies are attached. In December
+empted and misallocated for over a cen-          1988, the U.S. Interior Department issued
+tury. In 1949, the California Supreme            a water marketing policy that let recipi-
+Court extended the system to groundwa-           ents of subsidized water from its projects
+ter and triggered a "race to the pump            sell the water and keep the profit (Levin,
+house" (Krieger and Banks, 62) when it           1988). The "innocent purchaser" now
+proclaimed the doctrine of "mutual pre-          would seem to have secured a perpetual
+                                                 right to be subsidized. Richard Wahi
+scription" for groundwater basins (Pasa-         (1989), Angelides and Bardach (1978), and
+dena-Aihambra, 1949). This ruling "encour-
+                                                 the Environmental Defense Fund overtly
+aged defensive ground water overdrafting         promoted that conclusion.
+by pumpers in other basins who antici-
+pated ground water adjudication" (Glea-             Water marketing supposedly gets gov-
+                                                 ernment out of the market. Wahi et al.
+                          GAFFNEY: TAXABLE SURPLUS IN WATER RESOURCES                                 79
+
+
+would deal government in forever. Under                  mand for and scarcity of water, this is the
+his proposal, every subsidy and giveaway                 weightier, more general issue.
+engineered by pork-barrel politics be-                      An ancillary doctrine of zealous marke-
+comes sacrosanct, perpetual property, and                teers is that "bureaucrats" always fear and
+taxpayers forever incur ongoing costs of                 fight markets. During the 1940s, however,
+$60/a.f. or more to deliver water for                    the U.S. Bureau of Reclamation (USBR)
+$3.50/a.f. to landowners who can resell it               tried to mobilize water along California's
+for $400/a.f.7 This is the absurd, unjust                Friant-Kern Canal. Bureaucrats wrote of
+sequitur of condoning private seizure of                 "pooling" and sending water "to which-
+public domain.                                           ever demand develops first" (Maass, 1952,
+   Such thinking also sends a message to                 p. 546; Central Valley Basin, 1949; Taylor,
+future rent-seekers. Once one receives a                 1949). The contracting local districts could
+subsidy or giveaway, by whatever means,                  and did sell surplus contract waters out-
+one has a right to keep receiving it forever             side their boundaries. The State granted
+and to call that right "property." Agitation             USBR water filings not to certain lands but
+for new subsidies would soar; the state                  "for the use and benefit of said Central
+would be bankrupted. This is hardly the                  Valley Project" to further a "general or co-
+condition that water marketing should                    ordinated plan" (California Farm Bureau,
+achieve. Chanting "win-win" sounds con-                  pp. 58, 60). The U.S. Supreme Court up-
+structive, but those who take public prop-               held the mobility of these filings deci-
+erty in the name of the free market are not              sively in Ivanhoe (1958). Thanks to
+promoting the market. Rather, they are                   Ivanhoe, marketing federal water is possi-
+free-riding on and dragging down its                     ble today (Graham, 1961, pp. 172—190). Ar-
+good name for private gain. They are the                 guably, Ivanhoe also makes marketing
+market's worst enemies.                                  state water possible. In the Burns-Porter
+  Taxation can transform water trades                    Act of 1959, the State's answer to Ivanhoe,
+into "win-win-win" deals by making                       the State adopted utility-type contracts on
+water permits transferable but also                      the "9(e)" (federal) model (Graham, 1961,
+chargeable. Most economists acknowledge                  pp. 188—190).
+that contractors who get subsidized water                  Private Property fought bureaucratic-
+from federal and state projects should pay               led marketing and pooling. Speaking
+the full cost of project services. Equally               through U.S. Senator Sheridan Downey,
+obvious should be that licensees taking                  landowners demanded "that the land and
+rentable water from the public domain                    water should be joined together, never to be cut
+should pay its full value. The policy pack-              asunder.. .in perpetuity [and that] neither
+age could carefully balance and combine                  should be sold separately" (Downey, 1947,
+severance, net proceeds, property, transfer,             pp. 226—227, emphasis added). That de-
+and gains taxes.8 Given the growing de-                  mand did not leave much room for water
+                                                         marketing. Rather, it reminds one that the
+                                                         philosophical godparents of free mar-
+   7. WahI wrote when 40-year contracts on CVP wa-       kets—such as Quesnay, Turgot, Smith, Ri-
+ters were starting to expire and come up for review.     cardo, and Mill—were heavily engaged in
+The whole point of those contracts and the strife they
+caused from 1948 on was that they were not to be per-    fighting landowners who wanted pro-
+petual. Wahl would give away what even Congress          tected markets. Many bureaucrats today
+and a complaisant Commissioner of Reclamation had
+not given away when they were under heavy pressure       are fallen angels, but who pushed them?
+to close contracts.                                      The bureaucrats who advocated market-
+    8. U.S. Senator Bill Bradley has promoted a bill     ing then were traduced and persecuted as
+that would, as of May 31, 1991, include a gains tax of
+25 percent on transfers from federal projects (Ellis,    communists (Kirkendall, 1964; Dinuba
+1991). It is feeble, but a start.
+80                             CONTEMPORARY POLICY ISSUES
+
+
+Sentinel, 1947; Kings River Water Associa-      commons. Their use is restricted to over-
+tion, 1950).                                    lying landowners on overlying lands. An
+                                                observer with a different bias would as-
+VI.    FIFTH FALLACY: 'ONLY NET CONSUMPTIVE     cribe overdraft to landowners' assertion of
+             USE IS A SOCIAL cosr               private property rights. Overuse per se is
+      In water law and lore, "consumptive"      the tragedy; blaming it on common rights
+use is primitively construed, without ref-      gives it a certain spin.
+erence to "The Second Law" (entropy).             Asserting common rights need not
+Much diverted water returns to a river or       imply open access and unrestricted use.
+aquifer for reuse and hence is not "con-        Often the opposite is the case. Here are
+sumed" in the sense of the antique First        five examples of how the act of restricting
+Law. This usage writes off the value of         use asserts common rights: (i) constrain-
+elevation, purity, and other elements of        ing water use by taxing withdrawals, (ii)
+                                                constraining hunters and fishers by im-
+negative entropy. Elevation both generates
+power and moves water by gravity. British       posing bag limits, (iii) constraining pollu-
+Columbia raises large revenues by taxing        tion of common waters by imposing efflu-
+power drops; so might we.                       ent charges, (iv) protecting watersheds by
+   To understand the meanings of "use" or       regulating timber harvest practices, and
+"consume" in economics, one must think          (v) protecting swimmers and small boat-
+in terms of entropy. The water user takes       ers by limiting size and power of boats.
+in pure water at high elevation at a time       Economists like to believe they are "value-
+and place of his choice. He returns some        free." If so, they will replace the "tragedy
+of it, but at lower elevation at other times    of the commons" with "the tragedy of
+and at scattered places that are inconve-       overuse" and often will ascribe overuse to
+nient for those below. As for water quality,    suppressing common rights, not upholding
+many return flows are worse than no re-         them (Bromley, 1990; Wantrup and Bishop,
+turn at all.                                    1975).
+   Many senior permits are downstream.
+Downstream seniors have enjoined up-                         VIII.   CONCLUSION
+stream juniors from diverting water and           Water is public domain. A package of
+are dissipating the elevation drop without      water taxes (severance, net proceeds,
+using it (Consolidated Peoples' Ditch case,     property, and gains) and/or rental charges
+1928, cited in Gaffney, 1961). The down-        would improve incentives and the water
+stream seniors are consuming water's po-        economy. When one pays for water, one
+tential energy as if they were withdrawing      often shifts to higher-valued crops, substi-
+and using it upstream (e.g., for low-head       tuting capital and labor for water and rais-
+hydro or gravity conveyance to better           ing yields. Government can tax water
+lands). A tax or charge based on best al-       withdrawals while improving the water
+ternative use would include a surcharge
+for the loss of elevation.                      economy.
+                                                  We must control pumping to prevent
+                                                overdraft if any system of surface control
+VII. SIXTH FALLACY: 'COMMON RIGHTS SPELL        is to work. A tax is an economic price
+             ECONOMIC TRAGED
+                                                charged by the owner of water—the
+     "Tragedy of the Commons" has become        state—for the use of its property. We must
+part of the culture, but analytically and       charge both for net water withdrawals and
+economically, it does not hit the nail on the   for raising water entropy.
+head. All agree that overdrafting aquifers        Common rights may be asserted as
+is a tragedy. However, aquifers are not a       open access where such access is feasible
+                             GAFFNEY: TAXABLE SURPLUS IN WATER RESOURCES                                             81
+
+
+or rights of revenue where closed-access                           Analysis and Multiple Use, Report #9 in the series
+                                                                   Water and Range Resources and Economic Develop-
+is more efficient. The tax-price will pro-                         nient of the West, Proceedings of Western Agricul-
+mote efficient use and also will be progres-                       tural Economics Research Council, Range and
+sive, with water distribution being highly                         Water Section, Tucson, Ariz., January 1961, pp.
+                                                                   55—82.
+skewed. It also will raise money for state
+                                                              _________ "Water Law and Economic Transfers of
+treasuries and their trustors, the people.                        Water. a Reply," 1FF, 44:2, May 1962a, 427-434.
+   Water in good locations is highly rent-                                  "Comparison of Market Pricing and Other
+able. Water markets work badly because                             Means of Allocating Water Resources," Water Law
+                                                                   and Policy in the Southeast, Southeastern Water
+no cash drain motivates sellers and be-                            Law Conference, Univ. of Ga., Nov. 1961, pub-
+cause selling prices rise indefinitely. To                         lished by Institute of Law and Government, Univ.
+                                                                   of Ga., in cooperation with the Farm Foundation
+overcome this resistance, policymakers                             and the Southeastern Land Tenure Research
+must subject water licenses to severance                           Committee, 1962b, pp. 195—229.
+and/or property taxes or other public                         ________ "Milliman on Urban Water Price and Tax
+charges that are based on their opportu-                           Policy," AJES, September 1966, 399-404.
+nity cost values. Property taxes on land,                     ________ "Economic Aspects of Water Resource Pol-
+which drain cash from holders of sur-                              icy," AJES, 28:2, April 1969, 131—44.
+pluses, make the land market work as well                     _________ "Diseconomies Inherent in our Present
+                                                                   Water Law," Kick-off Testimony, California
+as it does. Taxes on water would abort                             Governor's Commission on Water Rights Law
+rent-seeking and allow water markets to                           Reform, Sacramento, July 14, 1977. Testimony
+                                                                  and discussion recorded in Harrison Dunning,
+work without granting unearned incre-                             Staff Director, "Minutes of First Regular Meet-
+ments to speculators in water rights.                              ing," Sacramento, July 14, 1977, 1—17.
+                                                                            "Why I Recommend a 'No' Vote on the
+                                                                   Resolution to Endorse the Peripheral Canal Pro-
+                    REFERENCES                                     posal," Report and Recommendation on Peripheral
+                                                                   Canal, Report of Public Utility Commission to
+Anderson, Terry, Water Crisis: Ending the Policy                   City Council, City of Riverside, Appendix, 1982,
+    Drought, Johns Hopkins University Press, Balti-                1—7.
+    more, 1983.
+                                                              Gates, Paul, "California Land Policy and its Historical
+Angelides, Sotirios, and Eugene Bardach, Water Bank-              Context: the Henry George Era," Institute of Gov-
+     ing, Institute for Contemporary Studies, San                 ernmental Studies, Four Persistent Issues. Univer-
+     Francisco, 1978.                                              sity of California Press, Berkeley, Calif., 1978,
+                                                                   1—30.
+Ballard, Patricia Louise, " .. .And Conflict Shall Prevail:
+     Reclamation Law, Water Districts, and Politics in        George, Henry, Progress and Poverty, Modem Library,
+     the Kings River Service Area of California," MA               N.Y., 1879, rpt. 1929.
+     Thesis, School of Architecture and Urban Plan-
+     ning, University of California, Los Angeles, Los         Gleason, Victor E., "Los Angeles v. San Fernando:
+    Angeles, Calif., 1980.                                        Ground Water Management in the Grand Tradi-
+                                                                  tion," 4 Hastings Constitutional Law Quarterly,
+Bromley, Daniel, "The Ideology of Efficiency: Search-              1977, pp. 703, 709.
+     ing for a Theory of Policy Analysis," Journal of         Gottlieb, Robert, A Life of its Own, Harcourt Brace
+     Environmental Economics and Management, 19:1,
+     July 1990, 86—107.                                           Jovanovich, N.Y., 1988.
+Brown, Lee, and Helen Ingram, Water and Poverty in            Graham, Leland 0., Some Aspects of Federal-State Rela-
+    the Southwest. University of Arizona Press, Tuc-               tionships in California Water Resources Development,
+    son, Ariz., 1987.                                              (Duplication process) Sacramento, 1961.
+Dinuba Sentinel, "Kaupke Denounces Reclamation Bu-            Hutchins, Wells, The California Law of Water Rights,
+    reau as Communistic and Untrustworthy," April                  State Engineer of California in cooperation with
+     17, 1947.                                                     Production Economics Research Branch, Agricul-
+                                                                   tural Research Service, US. Department of Agri-
+Downey, Senator Sheridan, They Would Rule the Valley,              culture, Sacramento, Calif., 1956.
+     San Francisco, Calif., 1947.
+                                                              __________ Water Rights Laws in the Nineteen Western
+Dunning, Harrison, Water Allocation in California: Legal           States, Vols. I—Ill, completed by Harold Ellis and
+    Rig! its and Reform Needs, Institute of Governmen-             Peter DeBraal, Misc. Pub. #1206, Natural Re-
+    tal Studies, U.C., Berkeley, Calif., 1982.                     source Economics Division, Economic Research
+Fellmeth, Robert, Politics of Land, Grossman Publish-              Service, US. Department of Agriculture, Wash-
+     ers, N.Y., 1973.                                              ington, D.C., U.S.G.P.O., 1977.
+Gaffney, Mason, "Diseconomies Inherent in Western             Kings River Water Association, Kings River—Facts and
+    Water Laws: a California Case Study," Economic                 Falsehoods, Kings River Water Association,
+                                                                   Fresno, Calif., 1950.
+82                                      CONTEMPORARY POLICY ISSUES
+
+
+Kirkendall, Richard, "Social Science in the Central Val-     Wahi, Richard, Markets for Federal Water: Subsidies,
+     ley of California," California Historical Society            Property Rights, and the Bureau of Reclamation, Re-
+     Quarterly, Vol. XLIII, No. 3, 1964, 195—218.                 sources for the Future, Washington, D.C., 1989.
+Krieger, James, and Harvey Banks, "Ground Water              Wantrup, Siegfried, and Richard Bishop, "Common
+     Basin Management," 50 Cal fornia Law Review, 56,           Property as a Concept in Natural Resources Pol-
+     1962.                                                        icy," Natural Resources Journal, Vol. 15, 1975, 713—
+                                                                  728.
+LaBahn, Edward A., "Taxation of Water Rights by
+     Local Government," University of Southern Cal-          Warren, Jennifer, "Well-made Plans keep Palm Springs
+     ifornia, School of Public Administration, Los An-           an Oasis," Los Angeles Times, April 28, 1991b, p.
+     geles, Calif., 1971, 1—19.                                   A—3.
+
+Levin, Myron, "US. Issues New Policy on Marketing            Weatherford, Gary, Kim Malcolm and Barbara An-
+     Water," Los Angeles Times, December 28, 1988, p.           drews, "California Groundwater Management:
+     1—3.                                                       The Sacred and the Profane," Natural Resources
+                                                                  Journal, 22:4, October 1982, 1031—1044.
+Maass, Arthur, The King's River Project, Inter-Univer-
+    sity Case Program, Harcourt Brace & Co., N.Y.,           Worster, Donald, Rivers of Empire, Pantheon Books,
+     1952.                                                        New York, 1985.
+Moore, Nancy, "There are Ways to Lessen Water Cii-           Young, Robert, John Daubert, and Hubert Morel-
+     sis," Los Angeles Times, May 8, 1991, editorial            Seytoux, "Evaluating Institutional Alternatives
+     page.                                                      for Managing an Interrelated Stream-Aquifer
+Patterson, Tom, "The Search for Water: How Riverside              System," AJAE, 68:4, 1986, 787—797.
+     got an Early Start," The Press-Enterprise, River-
+     side, Calif., April 28,     P                           Legislation and Court Cases
+Post, Alan, Chairman, Report of the Task Force               American River Flood Control District v. Board of Su-
+     California's Water Future, State of California, Com-
+    mission for Economic Development, Sacramento,               pervisors, Sacramento County 130 Cal Ap. 3d 707,
+    Calif., 1982.                                                 (1982).
+                                                             Central Valley Basin, US.D.I., Bureau of Reclamation.
+Robinson, W. W., Land in Calfornia, University of Cal-            Senate Document 113, 81st Congress, 1st Session
+    ifornia Press, Berkeley, Calif., 1948.
+                                                                  (1949).
+Sax, Joseph, "The Constitution, Property Rights and          Consolidated People's Ditch Company v. Foothill
+     the Future of Water Law," University of Colorado
+                                                                  Ditch Company, 205 Cal[ 54, 269 Pac. 915 (1928).
+     Law Review, Vol. 61, 1990, 257.
+                                                             In re Hood River, 114 Oregon 112, 227 Pac. 1065, (1924).
+Taylor, Paul S., "The Central Valley Project: Water and
+     Land," The Western Political Quarterly, Vol. 2,         Ivanhoe I.D. v. Courtney McCracken, 357 U.S. 275
+     1949, 228—253.                                               (1958).
+Villarejo, Don, How Mudi is Enough?, Federal Water           Tulare Irrigation District v. Lindsay-Strathmoie Irriga-
+     Subsidies and Agriculture in California's Central            tion District, 1935. 3 Calif. 2nd 489, 45 Pac. (2nd)
+     Valley, California Institute for Rural Studies, Inc.,        (1972).
+     Davis, Calif., 1986.
+

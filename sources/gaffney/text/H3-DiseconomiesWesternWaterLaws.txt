@@ -1,0 +1,2074 @@
+. Baa. we Rant titi: * sie 7 ™ : a fom Sete bite fatten eae " 7 — ma . ah ne : pit F Ss .
+gS
+DISECONOMIES INHERENT IN WESTERN WATER LAWS
+A CALIFPORNTA CASE STUDY
+by
+Mason Gaffney
+University of Missouri ,
+A paper read before the Western Agricultural
+ ! Economics Research Council at Tucson, Arizona
+| on Jée-uary 23, 1961 |
+i
+As published in Econor:s Arelysis of Multiple Use,
+| Report No, 9 in the series Water and Renge Resources and
+E mic Development oz the West, Proceedings of
+W. earn Agricultural Economics Research Council,
+Range and Water Section, Tucson, Arizona,
+January 23-24, 1961, pp, 55-82.
+Eme: > -d
+ee ta . . .
+ny ; . -
+TABLE OF CONTENTS e
+, Page
+_ I. Introduction 1
+II, Diseconomies in the Kaweah River distributary
+system , 5
+A. Indications of wide dispersion of marginal
+revenue productivities of water within the
+system 5
+1, Water conservation expenses . 6
+2. Marginal costs of lifting ground water 9
+3. Water applied per acre 10
+4, Value of output per acre-foot 11
+5, Production response to increased water
+supply 13
+6. Land-value response to increased water
+supply 14
+7. Willingness to pay for water and water
+rights 15
+8, Competent appraisals of soils and climate 16
+9. Size of farms 16
+B, Unreliability of water supply 17 _
+1. Aggregate variability in the system 17
+2. Distribution of variability among water-
+users 18
+C, Excess diversion capacity 20
+1
+Page
+_ D. Excess canal mileage 20
+° 1, Scattered service area 21
+2. Overlapping service areas 21
+: : 3. Unintegrated ditches , 22
+. E, Conveyance losses ; ; 23
+1. Loss of elevation 23
+2. Channel seepage 23
+F, Inadequate use of the ground reservoir 24
+1, Storage use 24
+2. Permanent recharge 25
+G. Inadequate reuse of water 26
+‘H, Segregation of the Kaweah from small local
+streams 27
+I. Segregation of the Kaweah from the Kings River 28
+I1lI. The role of water law in imposing and perpetuating
+diseconomies 30
+A, Productivity not the initial basis of water
+rights 30 -
+1, Riparian rights 30
+2. Appropriative rights 31
+3. Correlative rights 32
+B. The initial pattern is frozen 33
+1, Allegations of transferability | 33
+;
+. - Page i
+is
+2. Kinds of transfers achieved on the Kaweah 34
+3. Uneconomic aspects of these transfers 35
+a. Fixed point of diversion 35 -
+b. Short-run inflexibility 36
+ec. Deconsolidation of service areas 37
+ff 4. Limited area of transfer 37 |
+4, Kinds of transfers blocked 2 iw 7 37”
+a. Riparian rights 37 ,
+b. Correlative rights , 38
+c. Appropriative rights 38
+(1) Uncertainty of tenure 38
+(2) Marginal adjustments 40
+(3) Rights held by water-users' organi-
+zations 4l ;
+(4) Point of diversion 43
+IV. The dynamic evolution shaped by water law 44
+A, Marginal vs. monumental adjustments 44
+B, Drawbacks of monumental projects 46
+1, Size of increment 46 -
+2. Slow response to changing demands 49
+3. A cycle of overdevelopment 49
+a. Lag of private land improvement behind
+public works 50
+b,. Incitement of competing projects 50
+(1) The price umbrella 50
+: Page
+(2) Racing for water rights §1 .
+(3) Logrolling 51 .
+C. Current overexpansion of water-supply projects 52 - ;
+Vv. Conclusion 56
+}
+a
+s
+é
+:
+é
+t
+a t
+: | }
+i
+aaa xe ee ee
+DISECONOMIES INHERENT IN WESTERN WATER LAWS: F
+A CALIFORNIA CASE STUDY
+I, Introduction 7
+. Is our system of water law compatible with economic use of
+the resource? This old question came again to the fore as the
+postwar cycle of resource development brought renewed pressures
+on limited water resources. For a time the negative answer ,
+‘seemed ascendant, at least in the intellectual world (it made 5
+somewhat less headway with the holders of superior water rights.) ;
+More recently the positive has been accentuated by Professors q
+s. V. Wantrup?, Stephen smith’, George Tolley?, v. Ss. Hastings”, y
+and others, Even Professor S, T. Harding, who once might have :
+been regarded as a sharp critic of the system? (espectally its F
+riparian components), has recently risen to its defense.° :
+:
+1 Wantrup, 5S, V., "Concepts Used as Economic Criteria for a i
+System of Water Rights'', 32 Land Economics (4) 295-312, ~
+November, 1956, j
+| 2 Smith, Stephen, "Legal and Institutional Controls in Water f
+Allocation", 42 JFE (5) 1345-58, December, 1960. f
+3 Folley, George, and Hastings, V. S., “Optimal Water Allocation I
+for the North Platte River”, dittoed MS, nd, (c. 1957). f
+?
+‘ 4 Harding, Sidney T,, Water Rights for Irrigation. (Stanford; t
+Stanford University Press, 1936). t
+5 Harding, Sidney T,, Water in California, (Palo Alto: N-P
+Publications, 1960), pp. 59-60, 211-12. Professor Harding
+is specifically contrasting the established diligence prin-
+1 ciple favorably against the exemption from diligence of
+1 filings by the State. But his language and evident purport i
+4 become much more general. ,
+'
+5 “ .
+q - 2. | |
+; -Watle it {8 hazardous to summarize se-many authors, they... i.
+
+seem to share the view that water law in its entirety does not :
+. work out in practice in nearly the absurd ways that one might .
+expect from a priori analysis of the enunciated principles; -
+that in fact it would be hard to improve on the allocation ;
+achieved in the field; and critics should be required to show
+how allocation might be improved. q
+This allegation shifts the emphasis of the debate from the ;
+analysis of principles to the observation of practice. For ‘
+this purpose I have selected the Kaweah River system, which E
+is in the southeastern San Joaquin Valley, largely in Tulare
+: County. This system, like all local situations, is unusual f
+in some particulars, but contains diseconomies of kinds and :
+g in degrees that in my observation prevail throughout the (
+Valley and the State. /
+The Kaweah system makes a good study area for the following ie
+° reasons: :
+A. Unusually complete data on diversions are available.
+The stream has long been administered by a water master, and :
+his 1920-55 records of daily flows in the ditches of some 21 [
+water user organizations are published in California Division a
+3 of Water Resources Bulletins 49, 49A and 4op°, ]
+ee
+6 State of California, Department of Public Works, Division f
+: of Water Resources, Kaweah River Flows, Diversions and Ser- :
+é vice Areas, Bulletins Nos. 4°, 49A, and 49B (Sacramento: _ I
+{ State Printing Office, 1940, 1950, and 1956.) | f
+i
+:
+-3- ; :
+S a ng-the-Kaweah River. emerges from the foothills At fans. _ i
+out over an alluvial cone, in such wise that water may be
+shifted among the rival claimante through existing channels :
+with minimal transfer costs. There is therefore, no appre- )
+. ciable transportation cost barrier among the separate water 7 a
+users to complicate the analysis. :
+C. There is no great problem of water quality to compli-
+cate the analysis. , i
+D. The wnit is small enough for analysis in some depth, :
+yet its institutions are complex and varied enough to pre- F
+sent in microcosm many basic problems of water law. ;
+E. The river is located where water is clearly the lim- iq
+iting factor on economic expansion. A high scarcity value
+imputes to Kaweah River water, so there are compelling
+economic reasons for allocating it to its best uses.
+F, The area is important for its own sake. It was the
+{ alleged crisis of this area that originally triggered off
+the Central Valley Project in the ‘twenties, and it remains |
+the major payoff area for that project. It is the major |
+: State and national producer of navel oranges and plums, and
+an important producer of clings and freestones. In respect -
+f to water law, the Kaweah is the locale of at least two
+L
+|
+?
+ani : i m . — — ” elite ne _ use is _ . , 3 eee) a a n° em we ee rhe ae =*
+ad a. :
+. ~4- - |
+teading cases, Tulare Irrigation District vs. Lindsay- :-
+Strathmore Irrigation District, @ and Ivanhoe Irrigation Dis-
+‘crict and the State of California vs. McCracken, et al. 6b
+1
+G. Toward the end of the period of study the area received ,
+a large imported water supply from the completed Central
+Valley Project. Observation of the reactions of the local . d
+water economy to this increment has brought out a number of
+significant points that are obscured in a static situation.
+| t
+H
+7 }
+| it
+;
+| | |
+rf .
+h
+4 ee
+4 ba 3 :
+3 Calif, (2d) 489, 45 Pac, (2d) 972 (1935)
+3
+6
+> 357 U.S. 275 (1958) .
+e _ 3
+| ae -5- |
+-§} — 15, —Disecongmies in the Kaweah River Distributary System i .
+|
+A. Indications of wide dispersion of marginal revenue pro- '
+ductivities of water within the system, i
+; It is a weakness of much grand-scale project planning to ;
+4 assume implicitly that there is an operative local market mech-= !
+4 anism which has succeeded in equating the marginal productiv- ; i
+: ities of water among different users. Thus, one hears statements i
+i of the order "Down in Tulare County they pay $15 an acre-foot f
+for water". In fact, in the Kaweah system, the marginal pro- E
+ductivity. of water varies from less than zero in some areas ;
+(where it is applied in such excess as to damage crops and
+j soil) to an upper figure that I hesitate to specify. To save 4
+: a heavy citrus crop worth $1,000 an acre on the tree, and to j
+q save the trees themselves, a marginal acre-foot at the critical iy
+4 moment assumes a short-run value many times greater than the ’
+maxima we ordinarily discuss. Within the area there have been
+: citrus groves in just such straits at the very moment that ‘
+i water was wasting elsewhere. 7
+So great is the range of marginal productivities obtaining je
+in the system that it is possible, without pretending to fine ;
+; “uccuracy, to establish the contrast beyond cavil. These con- is
+‘ trasts have persisted over several decades because, as we :
+4 ‘nzll see, the system's evolution has been almost completely
+i «rrested since before 1920. t
+3 Each of over twenty water user groups has its own insulated ;
+Fupply-demand balance, hence its own marginal productivity. .
+‘ linds without surface water using pumped wells of greatly 7
+is ‘
+: ; -6- .
+“—“Gyvergent fte-have-etill more separate marginal productivities. h
+‘ This paper focuses on what is probably the most extreme diver-
+; gences that between the "thermal" areas, the "coves" and bench-
+4 ands above about 350' elevation, and the lower Kaweah delta ;
+of cold nights and alkali-damaged soils. The thermal zone is | !
+: adapted for citriculture; the lower. delta at best for alfalfa .
+‘ and cotton, at worst for barley and pasture, These areas are
+: in direct competition for the same water deliverable by gravity.
+to either area through existing channels.
+There are several means by which the outside observer can I
+| estimate the marginal productivity of water. In the larger t
+study from which this paper is drawn many of these means were [
+essayed. While some of them eventuate in only crude estimates,
+plus or minus considerable margins of doubt, they are adequate
+to the present purpose which is simply to establish the contrast
+j between the lowest and the highest marginal productivities.
+Possible uncertainty attaching to single methods of estimate
+’ was resolved by the fact that tle different methods consistently
+yrinted to the same conclusion. The methods of estimate and
+; their results are listed and described below.
+1. Water conservation expenses +
+i There is some index to the marginal value of water :
+; tt, che pains that water users take to conserve it. Let us take
+the Lindsay-Strathmore Irrigation District, extending east from
+; Lindsay and Strathmore to the foothills, as the prototype of
+citrus water organizations, The following description applies
+$
+zs 5 _ ™ = ioe a pees ay ene gk Ril tel aki “woes te a oe oe “ oe a4
+| -7- |
+; ns iod before Its acute water shor tage was relieved by —-- —— =
+: to the per
+: che deus ex machina of the Central Valley Project. . qi
+i This district pumps water up over 200 feet from the river af
+a co the top of its system (a cost, as we shall see, imposed not -
+by nature but by water law). It distributes water in steel
+pipe under pressure throughout its area, 80 that sprinklers | 5
+4 ray be used. It operates a surface and an underground res- i
+. ervoir and has the necessary excess distributive capacity to . cf
+f
+serve water on demand so that operators need apply water only H
+when the trees require it. It has withal one of the most ab
+: elaborate water conservation systems of any Irrigation District ,
+in the State, a fact reflected in persistently high tax rates i
+¢
+and wavex totls: in 1949, $6.79 per assessed acre and $8.14 ie
+per delivered acre-foot.’
+By contrast, the Tulare Irrigation District (around Tulare f:
+; in the southwestern Kaweah Delta) loses some 50% of the water i
+i ic diverts through a long unlined ditch.® When it finally fs
+, j
+y Coxputed from State of California, Dept. of Public Works, |:
+; Division of Water Resources, Irrigation Districts in Cali- i,
+fornia, 1944-1950, Bul. No. 21-P, (Sacramento: State i:
+Printing Office, nd). In 1929 the District Charged $24.50 i -
+per acre and $10 per acre-foot. State of California, Dept. t
+of Public Works, Div. of Water Resources, Permissible Annual I
+i Ch:rges for Irrigation Water in the Upper San Joaquin Valley, ts
+: .uiletin No, 34 (Sacramento: State Printing Office, 1930), t.
+; pr. 65, Table 39, bs
+Adams, Frank, Irrigation Districts in California, State of |
+California, Dept. of Public Works, Division of Engineering t:
+and Irrigation, Bulletin No. 21 (Sacramento: State Printing ie
+Office, 1929), p. 247. it
+}
+; ~8-
+i] trict, ". . .the use of water is very ununiform AL.
+SET TT Eee i nen nee ee eee cee oe i bs
+j and generally wasteful" observed Frank Adams in an William
+Horn, in studies preliminary to the 1955 Bulletin 2, “ete if
+Y chis District the low overall “irrigation efficiency" of .39. 1
+: Let me emphasize that neither Mr. Horn, Mr. Adams nor I are - i:
+j necessarily levelling any witicism at the management of this
+< Irrigation District. Its behavior may be perfectly rational
+4 within the framework of water law. It is rather that framework
+i trself which is under examination here, !2
+jhe Tulare Irrigation District is not the worst example. |
+: indeed it is, among our twenty-odd water users, one of those {,
+Z -ore pressed for water, There is only one lined canal in the ti
+te
+entire Raweah system (Foothill Ditch in the thermal zone). gs:
+" : 2
+: Kusteful rotation systems of water distribution are the rule. et
+4 , |
+}
+7 State of California, Dept. of Engineering, Irrigation Districts :
+in California, 1881-1915, Bulletin No. 2 (Sacramento: State oF
+rinting Office, ¢. 1916), p. 88 a
+'
+q ae State of California, Water Resources Board, Water Utilization
+. -@ Reauirements of Califormmia, Bul. No. 2, Vol. 1. (Sacramento:
+; tite Printing Office, 1955).
+il a
+Correspondence in writer's files. -
+,
+j 2 “essrs. Horn and Adams are not implicated, of course.
+5
+1
+i
+1 .
+us - 4
+- 9 - J
+“Ga marginal costs of lifting ground water _
+
+The marginal cost of lifting ground water in individual
+pumped wells is an excellent guide to marginal productivity, since -
+{ndividuals are in a position of complete control wherein they ee
+can pursue the natural tendency to equate private marginal cost
+and marginal revenue product. .
+
+The Lindsay-Strathmore Irrigation District, like much of the
+thermal citrus zone, is underlain by very poor aquifers, Lifts :
+had increased to over 150 feet before 1920, 15 and costs were
+higher even than that would suggest because the underlying rock 3
+imposed high drilling costs and low yields per we11, 14 From 4
+about 1913, many wells struck connate brines with boron, toxic :
+to citrus. !°
+
+By contrast, along the lower reaches of the St. Johns River, “
+(the northern distributary of the Kaweah,) between Goshen and }
+Traver, ground water has damaged the soil by intermittently evapor- j
+ating from the surface, and is not far down today. 16 °
+
+i 13 State of California, Dept. of Public Works, Division of Engi-
+; neering and Irrigation, Water Resources of Tulare County and
+their Utilization, Bulletin No, 3 (Sacramento: State Printing -
+Office, 1922), Map No. l.
+14 Hearings on S, 912 before Senate Public Lands Subcommittee, 80th nN
+' Congress, Ist Session, 1947, p. 636.
+15 rid., p. 400
+16 Althouse, Irvin H., "Water Requirements of Tulare County’) Re-
+port to Tulare County Board of Supervisors, January, 1942
+F (mimeo.), p, 13.
+E Weir, Walter W., Transactions of the American Geophysical Union,
+: 1941, cited in U. S. Dept. of Agri., Bureau of Agri. Econ.,
+i "San Joaquin Valley Water Investigations, Agricultural Aspects",
+; (Berkeley, 1944,) p. 149.
+aie oO ee es atte, i A hia. <vetiial Rais ” ‘
+Po sf :, ig
+: . - 10 - ;
+; - Despt te this accessible water table, there is little pumping, = ~~
+due to poor soils.!/ A large amount of Kaweah water is none-
+theless consigned to the area each year, under vested rights in ;
+surface diversion and channel seepage. In most of the Kaweah
+delta area over the period of study, pump lifts averaged less ;
+than 25'. Only in the southwestern delta were lifts much
+8
+greater. ;
+3, Water applied per acre :
+Lindsay-Strathmore Irrigation District was forced by 4
+unfavorable court judgements to subsist for many years on 1.76 q
+acre-feet per acre.?9 Even to achieve this depth it had to .
+20 d
+halve its acreage. 4
+As the cther extreme, the Consolidated Peoples’ Ditch Company x
+i rean annual diversion over 36 years has been about 7 acre-feet <
+£ :
+5 per acre,“t plus whatever may be lifted by private pumps from P
+a
+3 shallow wells after July when the river usually runs dry. |
+4 a
+Es ee ¢
+17 U. S. Department of Agriculture, Bureau of Agricultural Eco- j
+nomics Division of Land Economics, Water Utilization Section,
+‘Area Proposal, Kaweah-Tule Area, California", September, 1941, ‘
+p. 7.
+¢ 18 Note 13, supra; and U. S. Bureau of Reclamation, Central
+; Valley Basin, Senate Document 113, 8lst Congress, lst Session,
+4 1945, Plates 4-6 facing p. 104. .
+$ 19 gegen of Donald Burr, Manager, Lindsay-Strathmore I.D.,
+58,
+i 20 Kerr, S. A., in Hearings on S. 912..... supra (Note 14), p. 390.
+, :
+1 Computed from Kaweah River Flows....., supra (Note 6), Table
+: 8. Cf, Permissible Annual Charges....., supra (Note 7), p. 81,
+‘ on the lavish use of water by irrigators in the Kaweah Delta,
+| -1- |
+WP Lee me repeat that it is physically possible to shift water
+from Consolidated Peoples’ Ditch Company to Lindsay~Strathmore
+Irrigation District without cost, simply by changing the point
+of diversion. The only barrier is legal. Lindsay-Strathmore
+Irrigation District was prepared to make the shift in 1928,
+having bought shares in Consolidated Peoples’ Ditch Company
+and an easement in Foothill Ditch, and was stopped only by
+injunction. 724
+4. Value of output per acre-foot
+We all know of course that the average revenue product ;
+per acre-foot is not the marginal revenue product. But it is “
+a near relative, so that differences as great as those recorded 7
+here, especially in conjunction with the other data, are worth
+noting. In fact, the use of average products understates the :
+contrast of marginal productivities, probably a good deal,
+since thirstier areas are nearer the stage of increasing aver-
+age returns to water, and some are in that stage. 4
+| The Lindsay-Strathmore Irrigi tion District, before the ad-
+vent of Central Valley Project water, grossed something like ,
+35,000,000 per year? from 16,400 acre-feet per year, or about -
+} 718 Consolidated Peoples’ Ditch Company v. Foothill Ditch
+Company 205 Calif. 54, 269 Pac. 915 (1928). —t—i‘C:™*W
+| 22 Adapted from data compiled under supervision of Wm. Taggart,
+U, S. Bureau of Reclamation, Sacramento; from Annual Reports
+of Tulare County Agricultural Commissioner; and several con-
+tributing sources,
+Fs
+| ~4z-. |
+~~ 4300 per acré-foot: ~ Consolidated -Peeples'Diteh-Company,-1.. is
+vould estimate, (exact figures are not compiled) grossed in
+the rough neighborhood of $2,000, 000 from its 66,000 acre-feet, :
+_ or Little more than 10% as much per acre-foot,
+: If we go by crops instead of area, we can deduct current 2
+; variable costs (i.e. cultural and harvest costs) and arrive at
+: a more significant figure. Costs are higher for navels, of qq
+i course, and that reduces their advantage, but leaves it still F
+¥ > tepressive. The average net product of water applied to navels, i
+at current levels of prices and costs, would run from $200-$500 :
+an acre-foot compared to around $40 for cotton, $20 for alfalfa,
+$20 for barley, and $10 for pasture. 2? r
+. In the long run the advantage of navels would be still less H
+because of their long development period and heavy fixed costs. 2
+# Sut for our present purpose the short run difference is relevant. fi
+{ :vy in the Kaweah area it was not just raw citrus land that was 7
+: vi.icd water for the benefit of downstream barley and pasture. :
+F It was also established citrus groves, with fixed costs already i
+4 sunk, The economic pressure that water law has withstood is 7
+the full difference in the short run values of water between :
+; citrus and pasture. Ly
+i _ Contrasting to the high yields and low water requirements of :
+‘:trus, irrigated pasture grasses in the lower delta are little e
+i "ore than domesticated phreatophytes. Irrigated pasture uses '
+i b
+. ost data supplied by Tulare County Farm Advisers, ts
+: -13- |
+- --zpout-five-acre-feet per acre. Michael Brewer has recently = $$
+tabulated water cost as a percentage of all variable costs in
+pasture operation. 24 He finds it to be 23%, a good deal more
+than for cotton at 5%, Emperors at 2.7%, and event rice at 14.9%.
+But this contrast, striking as it is, understates the full -
+economic contrast a good deal because only explicit outlays are .
+considered. No opportunity cost value is assigned to the water
+itself, even though this may be the predominant social cost of
+water use. If, in the Kaweah area, we were to charge against §
+irrigated pasture an opportunity cost of about $15 per acre-foot, 7
+there would remain no net return at all to other variable inputs, =
+the operator or the equity. There would remain precious little
+return to growers of barley and alfalfa. These crops can be i
+grown here only because water law insulates their growers from i
+feeling the social cost of water as a personal cost. 4
+5. Production response to increased water supply ,
+From 1952, the Central Valley Project brought a prodi- i
+gious increment to the area's water supply. According to Tulare
+County Agricultural Commissioner reports, the response of navel az
+output was immediate and continuing. Tulare County navel yields
+for 1952-58 are about double those for 1943-51, and the division -
+between 1951 and 1952 is clean and sharp. By way of a control,
+| 24 Brewer, Michael, "Water Pricing and Allocation with Particu-
+lar Reference to California Irrigation Districts", Giannini
+Foundation Mimeographed Report No, 235, 1960, p. 84.
+=e NT Renee re eees oe an es ia eras eat aie
+. oe - 14-
+
+— = in neighboring Fre sno County, where navels received no new 2 ——~O
+Central Valley Project water, there was no significant change
+in yields between the two periods. _ 7 :
+
+Crops grown in the middle and lower delta--plums, alfalfa
+and walnuts--show no increased yields after 1952 (cotton is not
+used as an example because its intermittent acreage control
+program overshadowed other factors influencing yields). :
+6. Land-value response to increased water supply ;
+In the thermal citrus zone, access to a reliable water 4
+supply today is worth something in the neighborhood of $500-$800
+an acre. This is the difference in the price of raw land with
+and without water. Dry land, of which there is ample, would ;
+bring some $50-$100 an acre based on grazing income. Water :
+y raises this to $500-$900. Access to water is not free, but i
+F entails annual land taxes and water tolls of some $30 an acre, ‘
+f and the land value increment is based on expected income net of §&
+F othese charges. 7° E.
+} This index is inflated by today's high land prices, based in
+part on speculative anticipations that may be unwarranted. Ten :
+years ago the figure was less than half today's, and ten years an
+hence, in my opinion, it will be that low again, or lower, due "
+to overexpansion of water-supply and related land-development . z
+projects, 2° Still it contrasts sharply with the lower delta, ;
+25 Interviews with local realtors and water officials, 1958. See ..
+also Hearings on S. 912..., supra (Note 14), pp. 654-55,
+26 See Section IV, infra. .
+iC ois ell ee nn nla tabi Raa ie iri tetii bein ss ~
+al \
+
+- 15 - ;
+—_ where 1 t is difficult to find evidence of any land value incre- =~ J
+
+ment related to increased water supply, and for our present pur- ;
+
+pose it is the contrast, not the absolute quantity, that is 4
+important. - ;
+
+7. Willingness to pay for water and water rights |
+Lindsay-Strathmore Irrigation District before 1935 had 4
+
+bought, and downstream interests had sold shares in most of the |
+Ditch Companies in the Kaweah Delta, despite the high risk (which. 4
+
+came to pass) that Lindsay-Strathmore Irrigation District could 4
+never use them. Consistently thwarted in her quest for water, q
+Lindsay-Strathmore Irrigation District just as consistently put 4
+
+up whatever money seemed necessary to get it some other way. 4
+
+In 1949 when the Irrigation Districts' Association sought to ¥
+
+* maintain a united front in bargaining with the Bureau of Rec-
+lamation, it was Lindsay-Strathmore Irrigation District which q
+first broke ranks and consented to a contract with several un- :
+
+iy popular features. By contrast the lower delta ditch companies ;
+
+, have never even organized as Irrigation Districts to contract ;
+for Bureau water, The Kaweah Delta Water Conservation District,
+representing the whole delta, is unwilling to pay the Bureau's 7
+prices, ;
+
+|
+
+f
+
+i
+ee, ais _ " inlet 4a = PETE Ee ‘ este: Ce ge yee ee aL i a itis m4
+- 16 - | j
+if
+gs Competent appraisals of soils and climate =o ==—<i‘“‘“S;CO;O™:*CSCir
+The excellence of the benchlands in soils and climate
+iq
+ig documented in sources cited in the appended footnote.2/ :
+parts of the lower delta also have excellent soils, but the
+thermal qualities of the benchlands suit them for much more pro- |
+ductive uses of water, ; -
+. 9. Size of farms F
+In Lindsay-Strathmore Irrigation District almost all the oF
+| land is in unusually small and intensive farms, averaging about if
+15 acres.-° At that size clearly the operator is in sore need “4
+S to spread his overhead over as much output per acre as possible, ‘4
+He is likely to have on hand underutilized indivisible input i
+items to maxe’the fullest use of marginal water at the least mar- ¥
+; ginal associated cost. tg
+. b-.
+go 7
+5 ty
+: hy
+27 USDA Bureau of Agr. Economics, "San Joaquin Valley Water In- ra
+vestigations, Agricultural Aspects", (Berkeley: 1944), Mimeo, “
+3 A Report to the War Dept. U. S. Engineers Office, Sacramento .-. :.
+re District, {made of public record by introduction by Paul ;
+Johnstone in testimony at Hearings on S. 912. . ., supra ;
+(Note 14) p. 842/, Table 19, p. is Table 24, p. 60; Table 39, ¢
+pp. 108-09 ;
+USDA Bureau of Agricultural Economics, "Area Proposal, Kaweah- _
+Tule Area, California", supra (Note 17), pp. 7 ff.
+Althouse, Irvin H., op. cit. (Note 16), pp. 12, 96-97. é
+oe:
+f U. S. Dept. of Interior, Bureau of Reclamation, "Factual Re- t
+: port, Tulare Irrigation District", (Fresno: 1949), mimeo. :
+; 28 U. S. Dept. of Interior, Bureau of Reclamation, "Factual Re- [t
+port, Lindsay-Strathmore I.D." (Fresno: 1949), Mimeo, '
+H
+i?
+i:
+|
+ac iia itil tt lh nts tO a BE a pitlinmi sae ta dain Matsa on. -
+. -17- |
+fh... powhere else in the delta are farms nearly 80 small PF i
+. B. Unreliability of water supply |
+- A common rationalization for rigidity of water allocations, A
+and unresponsiveness to demands, is that this is simply the price :
+we must pay for security and stability of supply. But this ar- -
+| gument will not bear much weight in the Kaweah River situation, :
+since the division of waters is such as to increase materially :
+the system's aggregate variability over what it might be; and
+the allocation of the burden of variability among different users ;
+is such as to deprive a needlessly large share of the diverted :
+water of much of its value, as will be shown directly. i
+It is natural to think that irregularity of irrigation water KN
+supply must reflect irregularity of demand, but such is not the A
+case in the Kaweah system. Demand plays no part in timing de- a
+: liveries, Diversions are regulated by an iron-bound schedule
+B based exclusively on rates of flow in the river. Demand must 3
+adjust to the supply so determined, .
+1, Aggregate variability in the system , 4
+Nature imposes a certain variability on water supply, ;
+which man can reduce only by physical means, i.e. storage, But . '
+he can increase it, when dividing the supply among many claimants, [
+; by the counter-movement of diversions. That is, if one diversion {
+rises as another falls there is new variability introduced in i
+__ i
+. 29 Clawson, Marion, and Wilson, Edwin E., "Agricultural Land
+Ownership and Operation in the Southern San Joaquin Valley",
+USDA Bureau of Ag. Econ., (Berkeley: 1945), Mimeo.
+!
+4 - 18 - :
+fe che-system. Or if the diversions change disproportionately (even. :
+though perfectly correlated) there is a sort of increased varia-
+pility introduced, if we define and measure "variability" in
+such a way (as I think we should) that deviations are weighted
+- in step with their magnitudes (e.g. by squaring them).
+For this purpose the variance divided by the mean makes an
+appropriate measure. For annual flows from 1920-55 this figure
+. for the sum of all diversions was 63,016 acre-feet. This repre-
+| sents the variability which nature imposed on that portion of the
+: river which man diverted, But the sum of the corresponding q
+| figures for the individual diversions was 98,050 acre-feet, or .
+56% more.” Thus, man's division of the waters added, by this 4
+measure, 56% to the burdens imposed by nature .>+ a
+| Three user-organizations actually received supplies which r
+4 were less steady than wasted flood waters, i.e. Kaweah River i
+é rlows in excess of diversions. This hardship is clearly un- 8
+necessary, and is imposed by the system on junior appropriators "
+i to the benefit of no one. s
+2. Distribution of variability among water-users j
+System variability is very unequally distributed. The :
+steady portion of the flows, which is of course much the more L -
+valuable share, goes to a few. In general, these are the same
+: which get the heavier per acre mean annual supplies. e
+ae
+30 Computed from Kaweah River Flows . . ., supra, (Note 6).
+31 une percentage increase is greater in the summer months, which ;
+y far the more important ones. Exact figures on this,
+a however, have been derailed in a vacuum tube deep in the bowels
+4 meeting and could not be located in time for this |
+- ai ee et dons iii A atielrta nalts asa heenlntat a nies casein Mcahiciniin,
+a ,
+-19- ©
+- ~——~"FRe result is that few-acres receive water supplies that are-——— :
+|; adequate in poth quantity and reliability. To give some quanti-
+] tative measure of this I have improvised a "coefficient of re- ;
+ie Liability" defined as Atf.l + (coefficient of variation) /,
+. This is not the best such coefficient that human ingenuity might
+, devise, but is frankly a Rube Goldberg gadget which simply corres-
+ponds to ay intuitive evaluation of the importance of steadiness |
+in water supply. I will rise to defend it against simple mis- :
+: understanding or sandbagging, but gladly abandon it to a better
+: alternative. 4
+After adjusting mean annual supplies with this coefficient
+the acres getting adequate water supply are seen to be much less :
+than they could be. |
+i 89,500 acres get some Kaweah surface water. Mean annual flows i]
+could supply them nearly four acre-feet per acre. Multiplying {
+: by the coefficient of reliability for the River this becomes it
+1.13 adjusted acre-feet per acre, But, due to the unequal dis- i
+tribution of water and steadiness, the acreage receiving that }
+good a supply or better is only 29,000. These acres receive very i
+good supplies indeed, But they are only 32% of the acres (89,500) "
+that might receive that good a supply. 7
+When we consider further that the 29,000 acres for whose bene-
+Ps fit the others are deprived do not include the best combinations
+x of soil and climate, we have a notion of the undeveloped poten- :
+: tial in the Kaweah River. :
+‘
+it
+oe Me = * a sar ft aed dnc meh . ™ haan i et iz ™ : _ et fs ree t toe! ie + sere Aare -
+: | ; 2 20 - P
+— ioe ¢. Excess diversion capacity” ™ OE ‘-
+F A third important diseconomy in the system is excessive
+4 diversion capacity. One would expect this from the excessive
+4 aggregate variability discussed above, but there is more excess ;
+q than that accounts for. With few exceptions, ditch diversion 4
+. capacity far exceeds all recorded diversions except perhaps
+; one--one day in 36 years--and that one diversion apparently 4
+1 undertaken in the hope of stretching and/or nailing down a :
+: claim to water. . ,
+; The sum of all diversion capacities is 4740 second-feet, > B
+@ =or 2.2 times the peak of the sum of all diversions reached on
+: June 4, 1952, °° and 11.5 times the mean diversion. :
+a
+5 D. Excess canal mileage 4
+z Excess canal mileage is one of the more conspicuous dis- :
+¥ Z
+HI eeonomLes in the Kaweah system. Probably over two-thirds of 4
+4 it could be dispensed with in a compact integrated system. I
+ih
+;  hwve not tried to demonstrate this directly, The indirect
+%%
+5 evidence happens to be easier to marshal, and it suffices.
+! 32 Go, :
+3 Computed from Kaweah River Flows .. ., supra, (Note 6). q
+4 4
+y 3 June 4, 1952, is not necessarily the all-time peak of the
+5 Sum of diversions, The task of computing this series daily
+for 36 years was beyond my resources, But this was cer-
+tainly near the all-time peak, and far above the normal
+annual peak,
+| i
+4 | ; - 21-
+qo 7p. Scattered service area |
+The 89,500 acre Kaweah service area is strewn over
+about 440,000 acres, or five times as much land, which is con-
+F ‘tained within the perlmeter of service.?* Some of the bypassed
+| lands are poor, but some are very good, and better than those
+geccing service, and in general the scatter cannot be ration- 7
+alized as an effort to apply limited water to better soils.
+: Neither is it an effort to bring surface water where underground |
+water is costly, for there is clearly no such pattern. It is ;
+a heedless, haphazard scatter reflecting random historical §
+| forces now frozen tight.
+: 2, Overlapping service areas 4
+, Shares of the separate ditch companies have traded 4
+# freely over the area and reached the sort of reductio ad :
+3 absurdum that might be lampooned in an elementary text to dra- i
+: matize the inevitability of monopoly in public utilities, but {
+which one hardly expects to meet face to face, 4
+4 Only 12,000 acres are actualty served by two or more com- .
+i panies, but the company service areas are now scattered among
+i each other most intricately, so that there is much overlapping ‘
+@ of the areas within service perimeters, The sum of the areas
+d within the service perimeters of the separate companies is i
+‘ 356,000 acres, or four times. the net area served (89,500 acres).
+| 34 Computed from Kaweah River Flews . . ., supra (Note 6), map |
+in back pocket, 7
+as
+-22- |
+~ “one” company, the Wutchumna Water Company, its so scattered that’
+it serves only 11% of the lands within its perimeter. Five
+other companies operate within this same area,>” .
+3, Unintegrated ditches and cross-hauling 7
+Many ditches in this system cross one another, some
+of them two or three times. A most. conspicuous waste are the .
+parallel ditches which work at cross purposes, carrying water
+in opposite directions, or at least with significant contrary
+vector components. For example, by long standing tradition
+| (and court order) the River must be split 50-50 at McKay Point .
+between the St. Johns, or northern distributary, and the ''Kaweah 4
+Branch", or southern distributary. This division has behind :
+it no rationale that I have discovered deeper than that there 4
+is a ring of rough and ready justice to "fifty-fifty". The °
+* productivity of and demand for water are greater in the south. i
+i And so the Ketchum Ditch and Packwood Canal have been built to i
+q curry St. Johns' water from below McKay Point back to the south- $
+4 ern branch. The Tulare Irrigation District canal goes even K
+farther north to tap the Wutchumna Ditch, whence it crosses both
+branches (with the most sanitary precaution against interming-
+ling) and proceeds many miles southwest to lands which could be 7
+a served from one of the natural distributaries of the south branch, ;
+‘
+4
+} ee
+t
+q
+4
+— a tia eRe estertlinin. + ok eae aeiiaiavets nal eas ental
+: - 23 - |
+I cameron Greek. fron this dane Wutchimne Blick the Lindsay- ~~
+Strathmore pipeline carries water not only back southeast whence |
+it came, but back up hill to lands that the water could reach ,
+: by gravity via an existing aqueduct, Foothill Ditch. . :
+E. Conveyance losses 7
+The problem has at least two important dimensions. 7
+: 1. Loss of elevation 7
+From about elevations 650 feet down to 250 feet the 13
+; Kaweah River falls freely. This drop could hardly be used F
+| to generate power, but it could be used to move water southeast 4
+. at high elevations. The gradient of marginal productivity a
+rises rapidly to the southeast, and uphill, so this would be a 29
+very productive use of the elevation. This valuable elevation ,
+4 is completely dissipated in the process of moving water through i
+
+E the present system to low lands that could be served by imported im
+| northern waters--if waters must be imported--much more cheaply FH
+
+‘ tian the higher and more southerly lands. rk
+
+' 2. Channel seepage uy
+Both the natural and artificial channels pass over i
+
+. porous materials and lose large fractions of their flow to -
+5 the underground, Much of this water is later pumped and used, i
+3 but it still represents significant loss. 4
+} First, much of it percolates in the wrong places, e.g. the +
+4 lower St. Johns channel, where ground water is too high already
+
+: and the marginal productivity is zero. And once it has sunk
+
+: it becomes subject to the paramount rights of overlying land- i
+
+! owners and is very difficult to export. H
+
+4 i
+pasties iiss: 4 —. atthe ee Pe ee ee ee
+| - 24 - ; ;
+~~ Second, much of Lt percolates at the wrong time, that fs in ~ oO ;
+summer when pumps are busy lifting water from the ground res-
+ervoir and surface delivery of this seepage water would save a 4
+. needless round trip. - ;
+F. Inadequate use of the ground reservoir ;
+: 1. Storage use E
+Below the surface of the Kaweah delta lies a resource ts
+that is comparable in value to the River itself, viz. a large 3
+=: underground storage reservoir in coarse gravel that is notable . ly
+for ease of recharge and withdrawal, especially toward the apex ig
+f of the cone. Like the River the reservoir has high location |
+‘ value, because in this area storage, like water, is scarce.
+7 Neither the Kaweah nor the neighboring Tule has a large and Ei
+? cconomical site for surface storage, and ground storage south :
+* znd especially southeast from the Kaweah delta is poor. 6 os
+* Clearly this ground storage should be filled in spring and 4
+7 crawn down in summer to regulate the flow. if
+} But many overlying landowners have strong rights in surface {
+j water, So hardly need the ground water. And the reservoir can- if
+q not be used for the benefit of other lands, California law t -
+allows only "surplus" waters to be exported from a ground water * fe
+3 basin, and in this area exports have been enjoined. Even if i
+| 36 Gardner, Wm., testimony at Hearings on S. 912... ., supra, i
+4 (Note 15), p. 417. if
+|
+‘ ;
+
+. - 25 -
+
+q tne "foreign" Land holder supplies his own water by artificial :
+be recharges wishing only to use the reservoir, he cannot, be- ;
+; cause the natural and artificial waters commingle underground. o 7
+3 When he withdrew the equivalent of what he had "deposited" in :
+: this bank it would include some natural water, thereby threat- :
+7 ening to establish a prescriptive right which overlying owners - sei =
+a would be bound to enjoin. ” a
+
+7 The Lindsay-Strathmore Irrigation District did, it is true, &
+4 operate a well-fleld in this area for several years up to 1952, *
+B® tut was forced finally to discontinue. It had only enough bar- P
+gaining power to get consent to continue its use until Central =
+4 Valley Project water became available. Even this well-field ‘a
+used only a small fraction of the underground reservoir capa- “3
+4S city. . 3
+i 2. Permanent recharge a
+‘ In some areas in recent years, recharge of aquifers ri
+».suld have been desirable. One of the most productive uses of i
+;  ¥tker often is to submerge it permanently to support the water 4
+4 tuble and reduce pump lifts. In aquifers of 10% water-holding na
+
+ie capacity, for example, one acre-foot per acre should raise
+ts pump lifts 10 feet, worth about $1.50 a year if three acre- *
+. fect per acre are pumped. A dollar and a half a year at 5% .
+r vuuld be worth $30, an exceedingly rough figure, but suggestive ‘
+3 vf the order of values involved. ?°4 if
+' Preliminary studies by Edward Renshaw at the Giannini Found- Ad
+| ation appear to yield comparable figures. #
+q - 26 - |
+| —~"Recharge has not proceeded as fast as it should. -The- 9
+Tulare Irrigation District, interested in recharge, could
+i not or did not pick up enough water from other organizations. |
+; The Kaweah Delta Water Conservation District, whose primary :
+{ physical function is recharge, has acquired no water rights of r
+4 tes own whatever. ‘
+i A prime cause is the scattering of irrigated farms among dry :
+7 farms in the area. Not only are organizational service areas ig
+
+scattered, as described above, but pump-irrigated land is sim- q
+; “jarly interspersed with dry-farmed land over a wide area,>! ‘4
+| Tnis pattern of course multiplies the volume of water that must
+be sunk underground to support water tables beneath the irri- a!
+-tated acreage, and no doubt helps to make uneconomical an oper- it
+a ation that would, with compact development of irrigation, often oF
+: be fcasible, 7
+Corresponding to inadequate recharge is the problem of ex- :
+4 cossive withdrawal. The individual pumper feels no constraint ¢
+3 to economize on ground water anu accordingly treats it as a free id
+
+good, ‘
+G. Inadequate reuse of water f -
+The early diversions from the Kaweah, which today have i
+t fixed priorities based on historical use as well as privileged #
+. viperian status, were largely made at lower elevations, toward ;
+——a
+7 Water Resources of.Tulare County . . ., supra, (Note 13),
+x Map I Althouse, Irvin H., Supra (Note 16), map in back pocket.
+ee '
+‘
+Ce ate ee . ar sas tats oe ce a ect belek IE oe itn
+oo” all ies
+- i ”
+OO - 27 < i HE.
+
+_the bottom ofthe. system, —Water-se-applied- drains out of the ~~ ————
+
+system with less reuse than if it were applied initially on My
+the higher bench lands, 7 i:
+Hy . -
+H. Segregation of the Kaweah from small local streams | “
+ay?
+There are several small intermittent streams nearby the i eee
+Kaweah, whose flows aggregate some 20% of the Kaweah's, Gen- i “
+erally, the smaller a stream the less reliable its flow, so i aa
+these waters are largely unusable. | eae
+It is interesting to note, however, that these intermittent : 33
+waters could be made usable by integration with the Kaweah, oy
+materially augmenting the area's usable water supply. They rise alee
+from much lower watersheds than the Kaweah, so their patterns rE
+of flow are different, tending to offset each other and the ie
+Kaweah. When all the flows are aggregated, in fact, the coef- : ip -
+ficient of variation of the combined flows is little greater i
+than for the Kaweah alone, °° This benefit would flow simply i
+from applying the principle of pooling offsetting risks. How- . wee
+ever, it has not been done. Rather, as we have seen in II, B, : a
+the contrary: the Kaweah itself is unpooled, split up in such 7 Ps
+a way as to create more risk, regressing from Nature rather Bi -
+than improving on her. L, a
+38 .52 for the Kaweah and .54 for the combined flows. The a
+coefficients of variation for the small streams taken indi- a
+vidually run around .75-.80. Computed from data for 1890- a or
+1940 in Althouse, Irvin H., op cit. supra (Note 16). ) os
+iq...
+:
+Se eter ippinediiens ONT ereaaae crys SOR age EP
+ye or a ee ea canes
+; " ] 4
+sm |
+~~ "Py "Segregation of the Kaweah from the Kings River Al
+Integration of the Kaweah with its larger northern i ke
+neighbor, the Kings, has been recommended by most students of | RC
+WI} =
+the area of an engineering or economic orientation. These in- ~ | i“
+clude Irvin Althouse, >” a leading engineer of Tulare County; | 4
+the California Division of Water Resources in its original | ie
+plans for the Central valley; * and more recently the Bureau BE
+of Reclamation.“ Some of the advantages would be: pa
+1. The Kings River has abundant cheap surface storage (at ‘3
+Pine Flat), which could be used to firm up the Kaweah, thus a
+indirectly helping to regulate the latter, 1
+2. The Kings has a relative water surplus, and its present i
+service area is much cheaper to reach from the north if more . a
+supplies are to be imported. F
+3, The Kings could serve much of the Kaweah delta by gravity, I.
+releasing Kaweah water for export southeastward at high eleva- 5
+tions into the zone of highest marginal productivity. The —
+Friant-Kern canal could have been shortened into a “Kaweah ~ : Le
+south" canal and its cross-section could have been reduced by t.
+utilizing some elevation to increase the very low gradient, ‘a -
+39 op. cit. supra (Note 16), p. 97
+40 Bailey, Paul, Water Resources of California, State of Califor- 7
+nia, Dept. of Public Works, Division of Engineering and Irri- :
+gation, Bul. No. 9 (Sacramento; State Printing Office, 1925), a ca
+Plate IV facing p. 10. az .
+4. Central Valley Basin, supra (Note 18), p. 132. . ,
+2 ae cea aitaiaiect 2 aM ag sees, were er ‘o) REE? Teor iets oe Sates SR Te ;
+—ee |
+| presently just six inches per mile, These measures would [
+. have greatly reduced its high cost, which was incurred by.
+te 4
+naintaining elevation through the rough foothills between the ~ i
+W osan Joaquin and the Kings. *? | ;
+These net gains waited upon getting some flexibility into od
+water allocations. They still wait. Not only was local enter- 7 3
+prise blocked, but even when outside benefactors, the State and 3
+the Nation, offered to cover most of the expenses, the obstacles ;
+. 2
+of water law proved insurmountable, 7
+|
+- |
+. 4
+# ;
+2 f |
+- ¥ {
+f
+| 7
+| |
+bo
+42 Boke, Richard, testi t Hearings on S. 912 -
+’ 2 e mony a earin On o. Flé . +. «=, Supra a
+(Note 14), p. 661. HEATINES © Supra 7
+euch ~ _— . ory oe aoa rere ce eee ne ene
+: i
+. BF a
+- 30 - | zy
+Oo
+; 42a ie
+The role of water law in imposing and perpetuating diseconomies A es
+I have several times already alluded to the role of water law a
+in the diseconomies described. The present section spells out i a
+this relationship more systematically. Ba
+A
+otk
+1 ie
+A. Productivity not the initial basis of water rights eae:
+The State has never allocated its valuable waters by put- 7 a
+ting a rental on their use, neither has it ever sold licenses fs
+Na)
+or titles to the highest bidder. Rather it has followed a mix- Hoe
+ture of methods whose rationale bears little apparent relation- pee
+ship to marginal productivity. § ice
+Agen
+1. Riparian rights Ua |
+i = ee
+Riparian rights are limited, as we all know, to lands a « net
+fronting on natural channels. The Kaweah delta with its many ms. |
+distributaries is endowed with more than the usual quota of as os
+riparian lands. The Kaweah channels are unusually shallow, as R a
+‘ell as absorptive. Ground water gradients, therefore, slope bf , |
+lowmn away from the channels, so that riparian lands in general i we
+13 Seen foo
+ave the easiest pump lifts and the least need of surface do :
+Pe end
+ater. Thus riparian rights attach surface waters to the lands f te
+yat need them least. | aan
+Pr
+3 Y am indebted to Thomas Crocker for assistance in research ;
+for this section, and to Professor Fred Mann for tolerant he
+legal counsel.
+I
+tee inne a PT EL OTE Le OE Rt nn tee, ete
+i - . 31 - .
+2. Appropriative rights i
+d Appropriative rights, as we all also know, are based :
+; on priority of use and ranked by seniority. Rights become |
+i appurtenant to lands in the order that they are developed for Ad
+i {rrigation. 4
+q Now the supersession of lands from less to more intensive 1
+uses in our society has almost never proceeded orderly-wise, |:
+q in compact increments, and irrigation use is no exception, i
+q The more diligent early irrigators are sprinkled among dry ;
+4 farmers, and their appropriative rights the same, so that con- a
+{ veyance costs are excessive. ag
+a Early appropriative rights are not necessarily biassed toward ih.
+: better soils, since dry-farmers on these are under less pressure :
+i than those on poor soils to augment their incomes, and are -
+3 sore typically holdouts against innovations like irrigation. .
+j Early rights are biassed, however, toward soils and locations Li
+‘ ‘etter suited to quick-development crops, uses like hay or
+' erain, The slower evolving user with high per-acre capital H
+4 requirements, like orchards, tend to join the race too late to .
+; get good water, even though they ultimately develop higher mar- [:
+ginal productivities than the fast starters. Thus it is that tf .
+: the citrus zone has such inadequate water rights. Not only is MN
+. land development slow, but extension of ditches to serve these ;
+: higher lands requires more capital and a longer development it
+4 period. The earliest pioneers were short on the capital and 7
+: organization for such projects, i!
+{ i
+‘ tt
+aes a ie , ate Sa ath ere wenete. ‘ 4 sas ake cae ata ‘ Se aA x
+| - 32 - | :
+: worst of all, the appropriative system puts a premium on are
+excessive and wasteful diversions. Even before that the “doctrine
+: of relation", which bases priorities on the date of first claim
+: rather than first use, puts a premium on premature and inflated
+7 claims, which are a source of enervating uncertainty. But when
+the chips are down, the courts have generally fallen back on
+1 histories of diversion as the ultimate basis for prorating scarce if
+q waters. The individual's incentive is, therefore, to divert 4
+water whether he needs it or not. It is the accepted means of
+staking a claim for the future. F
+: Thereby a cost to society--withdrawing water--is made a rev- Lg
+it enue to the appropriator. Where water was superabundant this a
+: may onee have served some useful function in accelerating devel- is
+© .pment. Now when water has become’ scarce it would be hard to '
+. .untrive a more perverse arrangement.
+: 3. Correlative rights
+. In California rights to percolating ground water are
+2 called "Correlative", They have no statutory basis but are "
+4 based on court traditions and judgements. Land overlying an .
+; aquifer is treated analogously to land riparian to a stream, i
+; and correlative rights are limited to these overlying lands. :
+; "Surplus" waters may be exported, but the meaning of "surplus" .
+, is for a court to decide in each case and on the Kaweah, despite ‘
+i the situations described in II, A, above, the courts have denied Hl
+: permission to export ground water from acres of low to high z
+: sarginal reyenue productivity. ‘|
+| i
+it
+4 - 4
+-33- : = as
+bh] te
+As mentioned above (II, F, 1) the prohibition'on exporting can
+ground water also stops "foreign" land holders from using under- a
+ground reservoirs. . 84
+||
+B. The initial pattern is frozen 1 Boxe
+The initial pattern would be of limited concern if it could a
+be altered to meet changing demands. But under prevailing water 1| a
+laws, water users are insulated. from social opportunity costs. % b,
+The State charges no economic rental for the use of its waters, : ide
+or indeed any rental at all. The counties hardly tax water a Be
+rights (unless held by rich outside cities). Nor is there much ip
+appreciable implicit opportunity cost felt by the individual ae
+because he cannot easily sell surplus waters even if he wants ie
+to. The last point bears elaboration. a
+1. Allegations of transferability
+It is generally recognized that riparian and correlative i
+rights are not transferable, but several writers have alleged fl
+that appropriative rights are. S. T. Harding in 1936, seemingly -
+in a glow of optimism over Peabody vs. Vallejo, +24 could write 1
+that "economic pressure will eventually result in the available o
+water supplies' being used where the greatest return will be |
+secured", *> but this was little more than an expression of faith : -
+and hope. Several other allegations of transferability ultimately t
+42a 5 calif. (2d) 351, 40 pac. (24) 486 (1935)
+43 Harding, Sidney T., Water Rights for Irrigation, supra (Note 4), ,
+p. . .
+i
+Oe, ST Tl eT IEE STR IR ee oe Te
+ir . . : eit 2 ey Eh 5 ag
+7 7 | if .
+
+- 34 - | a oo
+ee
+44 “fl ooo? =
+
+trace back to a citation in Wells Hutchins” wherein he dis- | a
+
+cusses some of the possibilities of and obstacles to transfer ; oss
+
+in various states. But the discussion is purely legalistic en
+A
+
+with no purport of economic analysis or quantitative evaluation, | ng
+| rae
+
+and certainly should not be asked to bear much weight as a : H 8
+
+{ oreees
+demonstration that any significant volume of our water resources i eae
+are effectively transferable in response to ordinary economic || ee:
+
+Ho 8
+pressures. To my knowledge there is no such general demonstra- qs
+tion, but only a belief in some quarters that one exists, ABS:
+
+2. Kinds of transfers achieved on the Kaweah a.
+Certain limited kinds of water transfers actually have es
+
+been effected in the Kaweah system. The most common kind is x. ee
+the sale of shares in Mutual Water Companies. There has been Pe,
+| Sa
+
+an active and continuing market in these shares, among individ- a “s
+
+uals and areas. In general, the movement has been in economical : i
+
+directions, from north to south. Big buyers have been the 7 i
+
+Irrigation Districts: The Lindsay-Strathmore, Tulare and “he
+
+Corcoran, Biggest sellers have been shareholders in the Wut- aoe
+
+chumna Water Company, which had an undoubted surplus, i.
+
+phe
+
+nr
+
+5 oes
+
+pS:
+
+44 Hutchins, Wells, Selected Problems in the Law of Water Rights ff
+
+in the West, USDA Misc. Publication No. 418 (Washington: on an
+Government Printing Office, 1942) pp. 378 ff. ; _
+
+7 on
+
+{
+
+i .
+. Ro
+- 35 - - be wt
+| St
+He
+3. Uneconomic aspects of these transfers {| Meza
+i ie
+Transfer of water company shares has bemused several | ee
+1] Ra
+water economists recently as a means toward that workable water i weil,
+market most of us would postulate as an ultimate goal.”> Unfor- . oan &
+tunately, these are drawbacks to this type of transfer which F on es
+severely narrow its potentiality, ‘| Cr
+ia ee
+a. Fixed point of diversion ar
+The buyer of Mutual Water Company shares in California | “3S
+must use the selling company's diversion works, however incon- i UPS
+a ie va
+venient. In 1928, Lindsay-Strathmore Irrigation District, hav- + | ees
+ing bought shares in several downstream Mutual Water Companies, Ps pe.
++ [ee ',
+sought to divert its share of their waters by gravity through he kaha 32
+Foothill Ditch from a higher diversion point. The courts en- i TBAT
+joined this, *° requiring Lindsay-Strathmore to let the water . : Wet ee
+Zlow freely downhill to the Mutual Water Companies’ diversion ae
+| ee .
+vorks, tap onto the individual ditches below their heads, re- : a
+oe oh
+sather the waters and then pump them back uphill. These require- Feo
+i pons:
+ients precluded most of the transfers, and imposed extra costs a
+*hich consumed much of the net benefits from the one such trans- ee
+i ee
+‘ex that was consummated (from Wutchumna Water Company). i AR oy .
+a ace
+t Bec
+: whe
+5 Anderson, Raymond L., "Operation of the Water Rental Market ta.
+oR South Platte Basin", 42 JFE (5): 1501-03 (December, tbs A.
+1960), vt:
+, "The Irrigation Water Rental Market: | my,
+a Case Study.” “Agricultural Economics Research 13 (2): Ae coe
+54-58 (April, 1961). 1a
+i Poo
+6 Consolidated Peoples’ Ditch, Co. v. Foothill Ditch Co., 205 ibe.
+Calif. 54, 269 Pac. 915 (1928),
+7 | eae
+- IES
+Tulare Irrigation District, which lies below Wutchumna ex
+Water Company, in order to divert its share has had to build iH
+the long canal previously described, paralleling the Kaweah ARS:
+Branch and crossing both branches to tap the Wutchumna Ditch i.
+near Woodlake. : aa
+Thus the Kaweah water distribution system has had to grow ! ee
+physically in a manner analogous to the law itself, with one ee
+principle hanging on another back to the ancient and ultimate : ioe
+fountainheads of authority. It is questionable whether cir- ‘ a
+cuitous transfers of this sort are desirable at all, even if aq
+each individual operation shows a net gain. For as one ditch ' Pr
+is tacked on to another, more and more interests become vested i #
+in an increasingly absurd tangle, and the hope of rationali- 7 BF
+zation recedes ever further into the realm of unattainable ff
+visions. I
+b. Short run inflexibility , I
+The flexibility achieved by sale of shares is largely 7
+long run. Within some areas there is some leasing, but between 7 a
+companies it would usually be necessary to extend a ditch to f
+effect a transfer. There is lacking a planned excess ditch | ; °
+capacity such as is necessary to allow much flexibility. The | _—
+process of transfer is slow and sticky, whereas demands fluc- .
+tuate continually and to a degree unpredictably. ;
+. ;
+,
+. $
+ined Sey eyo, ak 0 + 2 : %
+. - pire!
+~~" Deconsolidation of service areas) ittsti—‘is;~*~™S : ie
+Individuals selling shares give little heed to the dag
+overall effect on distribution costs, so the company service i ig
+areas are shot full of holes, resulting in the pattern of scat~ | By
+tered and overlapping service areas noted above. (II, D). may
+d. Limited area of transfer we
+The transferability of Mutual Water Company shares | eo
+is limited to the Kaweah delta area, Areas of higher marginal f oe
+productivity outside the delta cannot get Kaweah water this d a
+way (or any other way). This point was decisively settled by i ie
+the out-of-court treaty closing the "17-years war" against cam
+Lindsay-Strathmore. While this one persistent district was f <
+finally vouchsafed an interim supply until Central Valley [ ef:
+Project water should arrive, there was clearly no hope for a
+other citrus lands, none of whose owners have since found the he
+temerity to try to tap the Kaweah, ne
+4. Kinds of transfers blocked i on
+Other types of voluntary transfer have been blocked i en
+almost completely. } re
+a. Riparian rights | ie .
+Riparian rights in California are "part and parcel" ' Ae.
+of land and transferable only by extinction. The same holds for 4 os
+Mutual Water Company shares based on riparian rights.
+
+Riparian rights are not good for storage. If a riparian | SS ;
+claimant wants to store water he can do so only by filing as |. a
+a junior appropriator and taking his place at the end of the | ve
+
+1 .
+boa . ° -~ rej
+sf .
+- “x Wheel
+- . | 4 Lhe
+line. Since the Kaweah is all "claimed up" this would avail Eee
+him nought, and if he sought to put water at the end of the ES
+line by abandoning his riparian claim he would find this water cre@
+is) SSS
+completely swallowed up in the inflated claims of-prior appli- AES
+ants. , f uy
+cants } ep
+A riparian, therefore, has little choice but to insist on i ee ok
+1} (eee s
+t eek anv
+maintenance of the natural flows he can claim and use them Fes
+SAS
+without any storage regulation. Transfer of these waters to # aS
+storage is legally impossible, in the normal course of events. pa
+b. Correlative rights i iS
+Like riparian rights these are completely non- t ry.
+an ee
+transferable. . Se
+an | ace
+c. Appropriative rights | ee
+i v4.
+The basic legal presumption is that appropriative |
+rights are transferable, and sometimes they have been trans- |
+ferred. But there are many hurdles to cross which, in their i a
+. i$ . .
+cumulative effect in the Kaweah area, have the effect of com- :
+plete prohibition, a
+(1) Uncertainty of tenure “ be
+An appropriator does not "own" a water right. | + : ;
+lhe .
+He has a permit or a license to use the State's water. Appro- a
+priators would like to have these licenses regarded as firm a
+property rights, and in part they have succeeded, but only in | .
+part. The law is equivocal, now asserting the State's owner- |
+ship, now deferring to the licensees’ "property" rights, and ;
+fi
+— My te.
+- ane
+
+| - 39 - | ‘ “s
+‘in the last analysis will no doubt, like Mr. Dooley's Supreme Bae
+Court, follow the election returns. Meantime: appropriative . wes
+rights are left hanging in a tenuous limbo, the judicial re- . : ek
+flection of public schizophrenia. ~~ | red
+The appropriators' position rests on a kind of mystic philos- ae
+ophy that value is entirely created by use, a mystique that — i os
+will not bear analysis and 80 must deny much of the rationalism i eee
+associated with the commercial revolution, This mystique is ; | ae:
+roughly violated, and the acquiescent public outraged, by the i £3 4
+spectacle of licensees "trafficking" in their privileges and i page
+neasuring them in the balance with something so profane as 4 Peo
+a8 | te aoe
+noney. i if
+a | See
+
+Some of this attitude rubs off on the licensees themselves, “ pee
+sany of whom put water rights in a class with family heirlooms 7 aa
+and heap social disapproval on any of their number who would ol pee
+sell, the more so because publicity attending sales at high | a
+osrices might weaken the already shakey position of licensees ‘ oa
+jenerally, expose them to regulation, taxation, or royalty es
+charges, and rouse opposition to their receiving subsidized: | TES
+ceservoir services from Federal agencies. And so there is.a i won -
+
+itrong bias against commerce in appropriative rights. By its i hoe
+cature the relative strength. of this factor is impossible to ! ao
+| Sepp
+
+Bo
+
+| is
+i _ * :
+Oo 7 . _ a , te - ' oe ee Cg bc hs, ae re
+nt Beige ee ee ee ae DS ce, R. seea' * Mir GOs SF NE No eh Om, pate Sih He: Ay.
+a ae ae ei aah ai eee,
+. {apy -
+- . s 4, Pe
+re
+- 40 - yey
+we eal
+we cee ne A a Eo ee ee ne ee ee ee ne ee ee ee Se ee wae cee ee EAT wees ' one Ry in
+quantify, but in my observation and judgment it is appreciable. | ae
+It has some measure in the zeal with which landholders agitate : eae.
+Wal 332 2¢¢
+:o have -Federally developed and delivered waters made "appur- _ mPa
+Ai eree
+senant” to their lands.- | | era
+. | eras:
+(2) Marginal adjustments | oe
+Ordinarily an appropriator with surplus water | oars
+vould not want to sell his entire supply, but only the surplus, if Tee ag
+chat is the part whose marginal productivity falls below its ao Neae ce
+»pportunity cost. It is doubtful if a licensee could guarantee eared fi i a:
+- We| (3c: ad
+Hie | 3 3.3, Tay
+che buyer a good title in such a transfer, however, because | ‘9 BS
+an coed
+he validity of the license rests on historical beneficial use, ‘| ex ot
+nt; aoe
+nd sale of surplus water could and doubtless would be siezed hl tee “
+Rn ae ee
+ipon by thirsty junior appropriators as evidence that the water tH i oH
+ever had been used "beneficially" and should revert to them. PPX
+. ~ LEP
+ee a0 aa
+7 the "Chicago School" approach of Drs. Hirshleifer, De Haven . I. oo,
+and Milliman is doomed to frustration, I believe, for failure “apo
+to acknowledge this aspect of the problem. They argue most th
+persuasively the benefits to flow from removing barriers to an sea
+transfer of water, their means being to strengthen absolute 7 PHONE -
+private property control over water. (Water Supply [Chicago: | pe -
+University of Chicago Press, 19607 pe: 23-34) But to con- an cers
+vert a conditional into an absolute "Giveaway" is to clarify an See
+the issue of distributive equity to the degree that the pub- a.
+lic will become aware of it. So long as the licensees are af oan
+ascendant they are unlikely to tolerate market transfers ‘| yO,
+that risk arousing the public; while if the public were as-~ iS ee
+cendant, it would not likely abandon all interest in its :
+waters without exacting some quid pro quo. We are not likely 7
+to achieve the benefits of market allocation of water rights 77 ee
+without an unequivocal resolution of this incertitude: the ee
+licensees gain full control of the water by buying or (I | woe
+think preferably) leasing it from the State. ie Co
+i oe
+; ae
+, | oe
+| - 41 - oF;
+“hus a lieénsee cannot sell something as good as what he has Mm} ed. ‘
+>ecause the process of sale weakens the license. A strong bias 7 cane
+against change inheres in the system. 7 f ee
+(3) Rights held by water-users' organizations - ‘ ' ua
+Additional difficulties beset transfers of water i oy
+rights when these are held by Mutual Water Companies or Irriga~ | a
+tion Districts. Since most water rights on the Kaweah and in ' oy
+California are so held, these special hurdles are of prime I oP
+importance in any discussion of water-right transfers. Curiously, ee
+however, I have found little such discussion, so that what fol- | lore
+lows must be partly the conjecture of a guardhouse lawyer, If eee
+it is seriously misleading, I hope it will at least irritate i ee
+some real lawver into publishing a definitive correction. 7 iO am
+Mutual Water Companies and Irrigation Districts hold property " gee
+and water rights as trustees for the beneficial owners, the ra
+served landholders. The landholder is more than an ordinary : ote
+shareholder in a Mutual, or a voter in a District: he is the ' | saeae
+beneficiary of a trust. The law presumes that the trustees will : th G
+continue the customary service to the customary beneficiaries 7 a
+in the absence of some new condition which a judge finds com- | wns
+pelling and persuasive. 7 oa :
+Just what a judge might deem compelling and persuasive is iPe
+sometimes hard for an economist to fathom, I have found no
+clear-cut decision authorizing a Mutual or District to sell | 7 7
+water rights. Nor have I found any instance where one has :
+done so, save to another organization serving the same lands, | .
+fia nnn wae, 4 I", tebe Set, Amira abe Ti RE ay 4 ‘ mor pe Cae ke
+- 42 - | ae
+‘oe
+jut there are several tnetances of conveyances* through sale ~~ ae
+\ | eo
+ax foreclosure being enjoined, 48 Since there are scores of os
+OSA
+Jistricts and Mutuals with surplus appropriated water they 6G
+. - ya VALS
+3hould but do not sell, it seems that judicial interpretation i eeareic
+. . | | oor
+o£ the trustee relationship has virtually prohibited sale. | er
+The would-be seller is pinched between the devil and the | Pe
+cea
+deep, for on one hand he must satisfy the courts that he is not | 8
+depriving any litigious trust beneficiary of something of much ; | Bae:
+IBS: 2s
+value, and on the other hand that the District or Mutual has a It | eee
+1. Brae
+valid appropriation to convey, based on beneficial use. An Hi ae
+2conomist might feel he could resolve such a dilemma to the H ae: >:
+| tt
+mutual benefit of all parties, but economic concepts are not to i ee
+3e presumed as among the intellectual equipment of jurists, .. i fetom
+on coh a
+2specially in the lower courts. So the trustees play it safe a) a
+a ore
+»y hanging on to all the water they can for such future use as | oon
+it may have to them, It is effectively withdrawn from commerce : oe
+in a mortmain grip as deadly as that fastened on the lands of yrs
+—_—_— a thee.
+redieval Europe. TEE
+PX *
+Wes.
+48 Copeland et al. v. Fairview Land and Water Co. et al., 165 anaes -
+Cal. 89 (1913); Bent v. Second Extension Water Co. et al. 51 a
+C.A. 648 (1921); Hutchins, Wells, Mutual Water Companies in 17
+California and Utah, Farm Credit Administration, Cooperative >
+Division, Bulletin No. 8 (Washington: Gov't. Printing Office,
+1936), pp. 87-91, 137-38; Tulare Irrigation District v. qo
+Collins, 154 Cal. 440 (1908). “An Irrigation District owns a.
+no lands in a proprietary sense, and its property is owned .-
+by the State and is held only for governmental purposes". oo
+--Allen v. Hussey, 225 Pac. 2d 674, (1950); 101 C. A. 2d |
+457 (1951). OO — | To
+.
+4 "
+dhe i a cinta llc ad ' ay 5S
+s 1" wet . :
+, et)
+- 43 - 7 »
+| | eee
+cent ce nee gn ee ee ane enn enna ene eng cee oe oe eee neenmeneenenn nee oe Sane ce cine een ne = te “id
+(4) Point of diversion er $e
+In transferring an appropriative right one may : pe
+shift the point of diversion only if no one is damaged. The t 3stng
+— t - ms
+most economical transfers in the Kaweah area would entail H race
+shifting points of diversion, as we have noted, But today one | nae
+cannot shift any point of diversion without damaging or at ret.
+| | ees,
+least discommoding someone else. 4? One could seek an agreement t ee:
+| | epeacas
+from him not to press his claim, but his ransom is not neces- . ! ad ote
+: TERE
+sarily limited to actual damages. No point of diversion has ute
+A ae
+been changed on the Kaweah during the period this study covers i ee
+| eg
+most intensively, that is back to 1919; and the general patterns i ¥ aa
+. ae paar
+of uneconomic diversions still extant go back at least to 1880, i F ie
+it ay)
+when they were roundly condemned by the California State Engi- Me
+neer 20 : <a
+poo ;
+. ee
+L
+49 PS.
+On the neighboring Kings River a few changes have been pos- oe Pores
+sible, but only downstream. --Clarence Smith, Kings River VBR LS -
+Water Master, in interview, 1958. The General need, however, } ESS,
+is for upstream shifts, and these are blocked by intervening TP pe
+land holders with interests in channel seepage. [ Fp
+30 Hall, Wm. H. Report of the State Engineer to the Legislature °
+of California, bession of L880, Part I (i880), pp. BS. 35, fee
+36, 105-17 et passim. Hall's observations applied specifi- ';
+cally to the Kings, Tule, and Kern, which border on and | Moe
+overlap the Kaweah service area. os
+Ip
+‘| ae:
+i
+4 aa
+| 7" e
+. mn Lahey
+: Aa .
+- } Siw Eg
+. ° } pert
+° 44 . : eeer,?
+oe ee ce ee ee rn nee ee wa ee te em eee cee ener tiene cnet ee ce ameeeee nee enn eee cones - tt a4
+IV. The dynamic evolution shaped by water law | Bae:
+| Bee.
+Professor Wantrup has remarked that a system of water law , al i
+- - ; | ieee
+should be judged over time, >+ and the point is well taken. t wos.
+| | ane
+sut if this is to imply that the judgment will thereupon become ; eae
+: | es
+yore favorable, it is not. , : wef
+| eS
+The effect of water law on economic development is to rein- : bes on
+force other economic and political pressures working toward | slg
+| | ae.
+xremature over-development of new lands, a process already ; 4 par.
+ayes ga e
+vast the point of no return today, Let me expand on this per- 7 gto
+. it | Bearer -
+iaps startling asseveration. | Oper
+a 2
+a 7 ae os
+A. Marginal. vs. monumental adjustments i 44
+Legal pcvception of economic values is too crude, as we ‘ yay
+EP ad, -
+ave seen, to effect or even to permit of marginal adjustments See
+mong local water-users. Yet Justice is not entirely blind. pe
+' ~
+‘t is more to be likened to the near-sighted Mr. Magoo who |
+‘ oe
+‘oes respond, however inappropriately, to the major outlines | _ .
+£ things. After the water-seeker has ranged far enough from laos
+oA
+Px
+ome, and crossed several underused streams, he ultimately | a
+‘eaches one in which the courts will acknowledge the existence : aus
+o£ a “surplus”. ac
+1 Wantrup, S. V., "Conceptual Problems in Projecting the Demand a.
+for Land and Water", Giannini Foundation Paper No. 176 Lt.
+(Berkeley: 1959) mimeo., p. 14. | _
+a ee re Terra od ahead ase
+- Hee
+: : 65. >
+~~He finds the courts Tittle concerned with any monetary ! at
+comparison of productivity F.0.B. the source. Such compari- t ee
+sons might leave him with a negative or very low net product, aN
+after deducting his high conveyance costs. But the law is - re
+disposed to count that in his favor as a mark of sincere pur- ey
+pose and acute thirst. ae
+Panglossian philosophers may point to this as evidence that | ae
+water law is, after all, dynamic, On the Kaweah, it is true ae
+water law has attained to a nearly perfect degree of stagnation | tae
+which the law contemplates with equanimity. But this has not | eon
+Stopped, indeed it has materially accelerated great inter- | eee
+regional transfers of dimensions that dwarf the Kaweah. ae
+Thus water law as a whole does not simply resist change. | ie
+Inexpensive little local economies on the Kaweah meet a stone . es
+vall of judicial disapproval, but water law opens up wide es
+avenues for monumental projects to effect grand interregional Wee,
+cransfers.?'? Rather than block development, it biasses devel- fee .
+o2pment toward remote sources. This is the dynamic growth pattern Hess
+‘mposed by water law. If we wish to criticize the law, it | ‘oan 7
+wust be on grounds that the type of change it promotes is less jPey -
+lesirable than the alternatives. : Pres.
+14 For a more general criticism of monumental transfer projects 7 __
+see Hirshleifer et al., op. cit. (Note 47). DAY.
+;
+ce Ne
+. er
+"2 46 ’ ee
+--—-§- Drawbaeks—of-monumental projects 9 cee
+Monumental interregional transfer projects have captured rat
+the imaginations of the State's voters and politicians to the. : 3 at
+extent that they now dominate water development. It is my aid
+thesis that this type of development is leading to overexpan-~ i &. Sy
+sion, | ee ‘3
+1. Size of increment : ares :
+A remote import must usually be a large one for several | weg
+reasons, First, to be economical at all it must realize scale | RH
+economies springing from the fact that canal cross sections in- ie
+crease out of proportion to their cost. Second, it requires S73
+strong political support, to secure both water rights and State | ae
+or Federal financing, and for these purposes it must have a_ . | aoe
+large service areas: Third, this service area typically has Ps | ia
+scattered irrigation developments, and to keep project distri- ye ,
+bution costs within bounds it must plan to serve the included ee -
+dry lands as well. Likewise, in recharging underground reset- 7 a
+voirs, it must import enough to recharge the entire area over he
+which irrigation is scattered. Fourth, the political conjunc- Hk
+ture which permits the region to import water is an opportunity on
+to be fully exploited, and the beneficiaries will try to stake ee -
+claim to as much water as possible. oes
+So a remote import is likely to be a large one, an indivisi- : a
+bility in economic development, in contrast to the continual o
+fine adjustments that would be possible under a more flexible oot
+system of water law. In the Kaweah area the increment from . 7 .
+!
+y fal mre _- cb te He .. wee cath “ity TP Pee Sy: a Pe VM G a BA! wy One: Ot ~ So) (Misaite,
+a x4 ~
+De Sas
+| | - 47 - ar
+oe eee anne oe ee ae
+the Central Valley Project is in fact several times the local fo: 1
+eae
+supply, The Friant-Kern Canal with 4,000 second-feet capacity ‘| Bee
+can import most of the San Joaquin River, whose mean annual wg
+flow of nearly two million acre-feet is about four times the ae
+combined means of the Kaweah and Tule Rivers. More, this is : vy
+xegulated water from Millerton Lake. Almost one million acre- ish be,
+° | ee
+feet is to be Class I water delivered on demand. The increment : Eee: -
+to summer water is much greater than 400%, F ae’
+4 gay
+The potential impact of this increment has been concealed, { Bas "
+iB fF
+among other ways, by the belief that much of it would go to t ees -
+| eRe
+overcome overdraft, But the annual overdraft is of a much oe
+smaller order than the San Joaquin imports, Equally important, 7 ea
+2 } a
+there is no basis for assuming that irrigated land development : pes
+will cease when water equilibrium shall have been attained. , ae
+There are no controls on pumping and nothing (except market | a
+i ~ ro
+collapse) to stop development short of another overdraft. But 1 So
+in fact, before this becomes an issue there will be a question ae
+ys
+of how to dispose of the waters now used for recharge and soon iP -
+to be available for other uses as that operation is completed, > PS.
+52 In their commendable zeal to maintain the Government's bar- | are
+gaining position in drawing up water contracts, Bureau of || a
+Reclamation officials have understandably tended to minimize ae
+this eventuality. See, for example, Hearings on S. 912... .,
+supra (Note 14), pp. 710 et passim, Whether their prognosti- '
+cations of continued high demand are correct is a question 7.
+of fact which I am content to leave to the verdict of events. }
+The current drought forestalls the emergence of a surplus, i oe
+but on the other hand helps stimulate more new water supply if
+developments that in the long run may aggravate the over- [Fe
+supply. | on
+!
+{
+“4
+- paar ae — ’ se ’ ye 2) a a ey ae o * 7 . yee aac a,
+* f r “whe
+; | PSE,
+|| eee es
+~ 48 - ‘| ee
+i ens
+~~ In terms of acreage, size of the increment has been concealed —_—— | BRINE.
+by most of its having gone into alfalfa, pasture, and cotton, | ee
+whereby the impact is absorbed by nationwide markets or govern- \ Mise
+i aS
+ment storage. But these uses could never justify the cost of hls
+the Central Valley Project. They are lower uses in an area of i ceyt
+. : i oe Tee -
+excellent soils and superlative climate suited for horticulture \ as pied
+| aera
+and winter vegetables, It is only a question of time before Coes”
+Mm) AD
+these slower-developing, higher-yielding farm enterprises lay : rouk.:
+“Ti ©, som
+claim to much of the new water. | AS 3a
+aot y<
+. Peete
+But here the impact will be overwhelming. Three local pro- * eS.
+: ie 2%, ze ;
+ducts of which California produces most of the nations’ supply if
+are plums, freestone peaches, and navel oranges. These supplies foe
+come from the following acreages: plums, 21,000; freestones, mie Se
+| aaa
+36,000; navels, 65,000.72 In the last five years, new non- : “ae
+bearing acres of these (and other) tree fruits have turned up a
+sharply, reversing long declines. The potential acreage incre- RY -
+ments of 10% or 20% have aroused considerable anxiety, as well Wer
+they might, the moreso because they are more intensively planted | aoa
+than the old and with better stock, But they are as nothing Wa
+compared to the eligible acres now newly supplied with water dee an
+from Friant-Kern. The increment of almost one million acre-feet aoe
+: FA
+53 Dean, Gerald W., and McCorkle, Chester 0., Trends for Major
+California Fruit Crops, California A.E,S. Extension Service a
+Circular 448, 1960. : io
+Sherwood W. Shear of the Giannini Foundation has been more a | 7
+than gracious in supplying acreage and production data, oy
+Neither of the above is implicated in the use of the data here. :
+i hh eee
+| | Rees
+- 49 - | is Bs
+ger year of Class I water, and additional Class II of variable oo ; ON ~
+water, could support 300,000 or 400,000 new acres, far more | ; seg
+than markets could absorb in the foreseeable future. This one t on
+project has brought water supply to so much potential fruit - Ae
+land that fruit land as such is hardly any longer a scarce Beery
+economic good. Scarcity today attaches only to producing groves, ee
+and tomorrow perhaps not even to them. Only this relationship | pie
+is not yet reflected in land prices, whose inflated levels | ed
+lend a specious plausibility to the Project still. ! AA
+2. Slow response to changing demands on ay
+Another serious drawback of remote imports is the long ! oie
+lag between stimulus and response, Lindsay-Strathmore's wells | ar
+began striking boron in 1913, Friant-Kern water reached them ‘| ee
+in 1951, 38 years later. Meantime the area's high potential ae .
+citrus development was arrested completely, and other regions mo
+filled the gap. The scale economies of monumental projects a ~
+are to be considerable discounted on account of their ponderous Hh .
+immaneuverability. They are slow a-building, and once built ‘oo .
+they are slower to liquidate. They cannot be rolled up when pee ;
+obsolete, and they pay out slowly if at all. ples :
+3. A cycle of over development ona
+A response which is both slow and excessive is the basic Frat
+element in a cycle of over development along the lines of the
+classic cobweb theorem (corn-hog cycle). Only with land and . =
+water development the period is much longer, the mistakes irre- . of
+versible, and the excesses much greater for several reasons I : -
+will mention, a ;
+; . a Ee
+LOM
+- 50 - im Loy
+ry
+a. Lag of private land improvement behind public works ~~ °—----- ly .)
+. ¢ ve ey 7
+To increase public water supplies rarely results in Say
+ommensurate increases in the products of irrigated land until ! Ne eat
+ong after, because private improvement of the lands made irri- / | pa
+‘able lags many years, decades in fact, behind the public works .>4 : oad
+‘hus, the price effects and capital requirements of the incre- ~ (ey . Be
+. on - ry ’
+yental land supply are deferred and concealed until the project ae
+ind its several features are committed past the point of no | | aan
+‘eturn. The long developmental period of tree fruits lends it- r ued
+: mh. ade nN
+self to its own cycle of overexpansion anyway. When this is . cB SS
+:ombined with the lag in building large water supply systems f pee
+she lags and accompanying perils of overexpansion are multiplied. rhe
+b. Incitement of other projects _ ge S
+ot s Em ore,
+a os ieee
+(1) The price umbrella hae
+Lagging private development of project-served eee
+tands holds a price umbrella that entices more starts than mar- 4 Se" >
+cets can ultimately absorb and for which capital can be found fee
+it feasible cost. The high prices bring on competitive starts ~ pee
+o£ several kinds, Private lands in older irrigated areas are Pes.
+a ee
+intensified, for which the sloppy developments of the past ( was
+Hee >
+ann PER
+4 Teele, Ray P., The Economics of Land Reclamation, (Chicago: | See
+A. W. Shaw Co., 1927), pp. 99-100. ae
+_ » Land Reclamation Policies in the United States, ‘ 263
+U. S. Dept. of Agri. Bulletin No. 1257 (Washington: Govern-
+ment Printing Office, 1924), p. 15. i re
+Huffman, Roy, Irrigation Develo ment & Public Water Polic > a a
+(New York: The Ronald Press, 1953), pp. 61-62, 81. | ~
+as | soy
+_ | \ pee
+- 51 - | eer
+i ees
+| as
+~Yeave considerable scopé--in fact, if lands served by pre- = | Tee, _
+Central Valley Project water supplies were developed to capacity, ! ee)
+there would be little need for new public water supplies. Lands _ : 2
+in the new project area are planted at high standards of inten- us:
+sity based on high land values that do not accurately reflect : pac:
+the impending abundance of raw land. . inte
+Most striking of all, entirely new water supply projects are | aa
+begun. To a degree this is simply analagous to what has happened | er ‘.
+in land cycles of every kind throughout our history. But water : foe
+law is responsible for amplifying the cycle in ways besides ase
+those already mentioned. ee
+(2) Racing for water rights ee
+When one region goes foraging about the whole [pes .
+State for "surplus" waters, this naturally awakens anxieties Ae, -.
+in others lest they lose out. They seek to nail down claims peo
+that others cannot jump. The surest means to this end is to er =
+begin developing waters to establish a history of use. It hee :
+takes little imagination to anticipate the result, which today Woo ;
+one observes throughout California: premature interest in ; ee
+developing water ahead of need. (eee ;
+(3) Logrolling os, -
+| or
+Monumental interregional transfers are usually 7 cee
+too costly for local finances, They are undertaken with State t .
+and Federal subsidies. This incurs political debts to be repaid Sr -
+in kind, less on a basis of economic productivity than of polit- . ye _
+ical bargaining power. There must be something for everyone, = oo
+. a.
+
+" = 52 - te WS
+
+aioe
+
+or at least for enough legislators to constitute’a working at .
+
+majority. And most projects need to be started before any is wry
+
+completed, lest late starters lose their bargaining-power. ase
+
+This process clearly lends itself to the cycle of overexpan- . ene
+
+sion, too: the impact of the first project is suppressed by es
+
+non-completion until the later ones are well underway. This ast:
+
+is the sort of process by which Indiana went bankrupt in another ee
+
+kind of canal boom that busted in 1836. . nai
+org
+
+Cc. Current overexpansion of water-supply projects Pa a
+
+J. K. Galbraith has won wide support for his thesis that tees
+
+we put too smalla portion of our resources into the public ae
+sector. While this may be true in comparing tail fins vs. |e
+school rooms, it can be very misleading in comparing private |
+vs. public coniributions to land and water development. Public | on
+water supply works stand ready to serve far more land than pri- . a
+vate capital has improved to use the water. - -
+This is not a new phenomenon. David Weeks & Charles West is
+documented it extensively in 1927 in their classic The Problem Fes
+of Securing Closer Relationship Between Agricultural Develop- ie ~
+
+ment and Irrigation Construction, ”> They noted that capital ion _
+
+flowed into public water supply works much easier than into i on
+35 Univ. of Calif. College of Agriculture, Agri. Expt. Sta., ;
+1270 435 (Berkeley: Univ. of Calif, Printing Office, a
+_ ; per
+- 53 - fee ee
+corresponding private farm ‘improvement , with a resulting lag, Hess
+serious imbalance, and ultimate overdevelopment of irrigated ee
+land. Their judgment was abundantly confirmed in the ensuing PR
+collapse of land values. - coe
+The premature excessive public works they observed were ain
+the product of local enterprise almost entirely, To redress as
+the balance would seem to have called for diversion of capital - rae A
+from public works to individual land improvement. Yet instead ae
+the last 25 years have witnessed the opposite, and on a scale Ae
+hitherto undreamed of, Sais
+First, the value of the tax-exempt feature of local bonds Ce.
+has risen along with p rsonal income tax rates. In the 1920's ee
+these bonds often sold at big discounts: today at handsome Rear
+premia. H ee .
+‘Second, local water enterprises receive new State and Federal ie
+subsidies, under the Small Projects Act, the Davis-Grunsky | oa
+Act, and interest-free loans from the ‘Bureau of Reclamation. —_
+Third, Irrigation Districts and private power companies ae
+have cemented an effective working alliance whereby the power prog ~
+company borrows the Irrigation Districts’ immunity from local Pest _
+property taxes and pays for it with free water. This is a big [ve
+factor in the estimated one billion dollars worth of local pro- : ” a
+jects now under way in California. °° t-
+aa
+56 Western Water News, October, 1960 ws _
+ba oe ‘ eae wag
+| : es,
+- 34 - BS
+nes 2 ¢ -.- _-
+Fourth, the Army Engineers have gotten into water supply | A
+under guise of flood control, especially since the Flood Con- 24
+trol Act of 1944, and are planting Federal projects in hitherto Sar
+neglected sites all over the State, including Terminus on the A
+Kaweah, and Success and Pine Flat on its neighbors the Tule ae
+and Kings. . iar é
+Fifth, the Bureau of Reclamation, once a negligible force ON
+in California, has contributed the Central Valley Project and ee
+its slowly proliferating appendages. S98
+Sixth, if all this were not enough, we add now the Feather oe
+River Project, whose $1.75 billion bond issue is conceived as Sea
+only a beginning on an overall California Water Plan, pecs
+Finally, seventh, Secretary of Interior Udall announces that Kew?
+the U.S. has shirked its duties and will increase its contri- line
+butions to water supply development. ; ols
+There has been no commensurate stimulus to the flow of cap- , .
+ital into improving private farm lands, On the contrary, higher i
+personal income tax rates, in conjunction with the various po
+capital gains loopholes, have encouraged much more land buying Fa
+to reap price increments without land improvement, a type of i wt -
+behavior that has previously played a central role in creating Hoe
+this problem even without such added stimulus. Indeed it is v
+only in the last five years or so that bearing acreages of {
+most of California's distinctive specialty crops have ceased } ity
+a iene - . mes : late : pid ti att ' , Pitas ‘
+sontracting.°” Were 1s the bottleneck that has held back =sts—=~*~S*wa~iS
+output and sustained the prices on which the whole mammoth ee
+structure of public works is premised. Modest increases of a _ PEs "
+few thousand bearing acres, soon finally to be forthcoming, TRA
+are adequate to meet the market demands that ultimately must oa
+justify investments in water supply. z pa
+Irrigation is new enough in American history that it has oe
+figured in only two major land collapses, 1893 and 1929. But ey -
+in those two it figured prominently, through excessive expan- i ee
+sion of water supply works for undeveloped lands. "Too much, has
+too late" has characterized the denouement of each cycle. se
+There is evidence. that we have moved too far on the same course ies
+again. ; : S. °
+In this cycle water law, while not solely responsible, ee .
+plays an important role. It is water law that blocks the eco- oo
+nomical use of the best waters, compelling recourse to marginal oe
+sources, gigantic projects, and State and Federal financing I -
+with consequent log rolling. It is water law that sets region ee
+racing against region, and agency against agency to establish P. .
+use rights ahead of need. I .° -
+And so when we view water law in the dynamics of development Rose
+the view is more illuminating, but not more complimentary. How 4
+serious the defects, again I am willing to leave to the verdict
+of events. . 2
+~ 97 Dean and McCorkle, op. cit. (Note 53). oo ,
+os . at of
+- 56 - eee
+See emma rane SoS a pa nae ara ean gees mn oe eR en ee te oe nee cae eee een pe ge nee nyo cet pee 1.
+V. Conclusion Ley
+gat} ,
+, enh eg
+In this paper I have sought to expound the conclusion 1 Pe
+2G
+have reached from observation of water use in thé Kaweah area, ee
+- ae a R
+that water use is grossly uneconomical. 1 have laid the blame ~- Peas
+aaa
+where I believe it belongs, on the doorstep of water law. I Bg
+oa NN
+"The a.
+have gone on to show how water law contributes to the cycle of ied
+overexpansion which has rum so far along today. Sr5%
+eet
+Nar,
+I have not suggested, save by indirection, alternative 5A
+saree C.
+policies, nor will I impose further on your patience by doing . ET “
+; Pats f-
+so now. But assuredly, if it be established that present pol- pees
+icies are intolerable, the moulding of new is the greatest a
+c allenge facing our profession. Az 7
+i
+.
+a) | oo :
+. | ~ |
+. | . !
+| fo
+| ’
+rT :
+smn ae al" | |
+cama shia del tpn ahaa Lanes inal haianel : poy ORE NY ee fa } ;
+: t a ee ates pom
+preeteeeeeeeee smsrnmcrese “ a — ; tat .
+sroonat : Lace vated *. 60.1 : :
+: Cen, : cocosossescoders 2 ft “ y ! ,
+gene ; Lececnsens coereceeeresessonsges caer Ry A, ; :
+: J , wYreny 4 « Wee) 7 :
+gre ™ t , - : : .
+5 i wpa sles oe {Z
+-. ry BY Ff fz ) |
+Ey 0 iy ct - 2 Ly i
+i £23 fewen S ea ~ as +i :
+i [Vf - By .
+| . if oT... |
+i Tes : ; - HT BES aay “HS :
+onl my a Yate |
+: wt eet poe yy NS . i ‘
+“ ros ne 5D eee
+i ae Be yi ~ Pst Ota
+an wy bla Te
+a poate, OMX 0 Kye LEO \. : |
+meg ta SY ra ; | ahd Boe. 7 i i 7
+ee! . a. fo , mf EL eta, dh os : h l¢
+ge . Bt hy el Re Ma? Pe. He ovrucs Ze ! i
+Byte ses way we MOURNE 7% pe NEO PLES Ye
+| oe a a ; id kt | geeeed Ae iy
+Bape hee _ f tani so Ald > f’ . 8 ag % _
+: a ° 5 xt : . H AEN |e |
+Frrerergte” ye nay. ~ ; — _ , =a ! f & OH..62 oe LG, aE -_
+: és ee a . = nas et 3 Beet OA FE sareree
+: y * wie wd fr meds 3 hair SSN 138 Pe, i iat Si ae
+bd yi 'é q . y Sth 6 %, Ses rags fags 28 ~ a
+a Y oe wae 4.8 OU ft CAM PANY Lg BC Bieeg ed re ad
+2 4 : Os Tae ric af” 3 ZEX Lipp Sg Be eoqan mote
+pret a Pe ‘ y Bet H Ei rage ee fees mee
+eerooees 2 no ho . Fe ceucel CL
+; 7 ee) | Vesabe. | eT, 5 a i “Yj” Poon ,
+Seow eveee kg ry be nae corse’ is beedebesrssesoee® Tn SS ee
+3 ie soissinas tt “a By ou prerererevere’® Piebereere meet ZZ LIE, GARR LANDS wiTH |inmvcation stavice
+5.8, BR jrrscenccoeoooes wa get 7 maak” jpnee
+$ “og 5 H . . Kawean AiveR
+: i i 3 i rs . SHOWING Five! OF THE TWENTY-<<oE
+sesecerereg I » i SEAVICE AAAS
+Secome’ i pe / 40
+3 STIS a ee Peete ome POTRO,...6 Pile inthe
+y . 2 . *
+a 1 . i

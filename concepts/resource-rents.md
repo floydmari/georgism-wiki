@@ -178,6 +178,50 @@ advocacy essays, not econometric estimates — see the [full
 page](/wiki/gaffney-mineral-leasing-tax-reform/) for the complete taxonomy
 and honest scope caveats.)
 
+## Water as a Resource Rent — Gaffney's Kaweah Case Study and Taxable-Surplus Proposal
+
+Water is named in this page's opening definition as a resource-rent domain
+but was previously undeveloped here; two Gaffney essays, read as a pair,
+extend the wiki's rent-capture argument to water specifically. His **1961**
+case study of California's Kaweah River system, ["Diseconomies Inherent in
+Western Water Laws"](/wiki/gaffney-water-rent-taxation/), shows the marginal
+productivity of water varying by a factor of ten or more between adjacent,
+physically connected users on the same river system — a direct sign of
+misallocation — because none of the three doctrines governing western water
+rights (riparian, appropriative "first in time," correlative) assigns water
+by productivity: appropriative rights specifically reward premature,
+inflated diversion claims, since "a cost to society — withdrawing water —
+is made a revenue to the appropriator." He further documents a self-
+reinforcing cycle distinct from anything else in the wiki's Gaffney
+corpus — the **"price umbrella"**: because private land development lags
+decades behind the public water projects meant to serve it, inflated land
+prices persist long enough to entice more competing project starts than
+markets can absorb, compounded by defensive **racing for water rights** and
+project-siting **logrolling** — which he ties to water's specific role in
+the 1893 and 1929 US land collapses.
+
+His **1992** synthesis, ["The Taxable Surplus in Water
+Resources"](/wiki/gaffney-water-rent-taxation/), proposes taxing water
+withdrawals — severance, net-proceeds, property, transfer, and gains
+taxes — the same public-landlord logic as the wiki's oil, gas, and mineral
+rent-capture material, structured as a rebuttal of six fallacies: that
+water rights are real property (they are a revocable public-trust license);
+that a water charge would be shifted to consumers (water bears rent, so a
+tax on the rent component is non-shiftable); that water is worth only its
+development cost (he compares $20/acre-foot delivery cost against roughly
+$2,000/acre-foot true opportunity cost at the system's margin); that firm
+property rights alone let markets allocate water efficiently (water
+distribution is a natural monopoly, and permit holders — carrying no debt
+and no property tax — are chronically undermotivated to sell); that only
+net consumptive use is a social cost (he adds an entropy/elevation-loss
+argument specific to water); and that common rights necessarily produce
+tragedy (a state revenue-collection duty, not open access, is one way of
+asserting a common right). (D-claims: advocacy/policy essays, not
+econometric studies — see the [full
+page](/wiki/gaffney-water-rent-taxation/) for the complete argument and
+honest scope caveats, including a note on this page's OCR-quality
+limitation for the 1961 essay.)
+
 ## Book Findings
 
 ### Barnes: Rent Capture for Common Assets
@@ -214,6 +258,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — absentee ownership, concentrated federal coal leasing, and a land-value-tax counter-colonial prescription
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — the property-tax-vs-income-tax instrument comparison and the nine-reason overmotivated-exploration taxonomy
 - [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Canadian Crown-land leasing errors and US federal oil-tax loopholes as two distinct rent-leakage channels
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the Kaweah River misallocation case study and the six-fallacy case for taxing water withdrawals
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
@@ -230,3 +275,4 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 10. Mason Gaffney (1977), "Counter-colonial Land Policy for Montana," *Western Wildlands: A Natural Resource Journal* — used for the absentee-ownership diagnosis, the coal-lease concentration figure, the copper property-tax loophole, and the land-value-tax counter-colonial design (D-claims, conference address). [wiki summary](/wiki/gaffney-montana-land-policy/) · [PDF](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf)
 11. Mason Gaffney, ed. (1967), *Extractive Resources and Taxation* (University of Wisconsin Press) — used for the property-tax-vs-income-tax instrument comparison and the nine-reason overmotivated-exploration taxonomy (D-claim, edited-volume closing essay). [wiki summary](/wiki/gaffney-extractive-resources-taxation/) · [PDF (Conclusion)](https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf)
 12. Mason Gaffney, "Objectives of Government Policy in Leasing Mineral Lands" (c. 1975) and "Oil and Gas: The Unfinished Tax Reform" (1982) — used for the eight Crown-land leasing errors, the rent/profit accounting identity, and the US federal oil-tax loophole catalogue including leasehold abandonment (D-claims, advocacy essays). [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) · [PDF (leasing)](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf) · [PDF (tax reform)](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf)
+13. Mason Gaffney (1961), "Diseconomies Inherent in Western Water Laws: A California Case Study," *Economic Analysis of Multiple Use*, Report No. 9, Western Agricultural Economics Research Council, pp. 55–82, and (1992) "The Taxable Surplus in Water Resources," *Contemporary Policy Issues* 10, pp. 74–82 — used for the Kaweah River marginal-productivity dispersion case study, the price-umbrella/racing/logrolling dynamic, and the six-fallacy case for taxing water withdrawals (D-claims, case study and advocacy essay). [wiki summary](/wiki/gaffney-water-rent-taxation/) · [PDF (1961, OCR-quality caveat applies)](https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf) · [PDF (1992)](https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf)

@@ -1550,3 +1550,24 @@ power material but NOT the self-reinforcing credit loop); land-booms page gains 
 one-line historical-precursor note with the general-vs-CCA-mechanism distinction
 explicit. No E1 page (morning decline respected). Registry +2 rows (Clawson, E1).
 VERIFY warnings 31→28, exactly the 3 resolutions. 875 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney burn-down (water-rents gap filled; E13/E15 skimmed; K1 stale checkbox)
+
+research/gaffney-water-rent-taxation.md created (876th page) — H3 "Diseconomies
+Inherent in Western Water Laws" (1961, Kaweah case study: 10x+ marginal-value
+dispersion between adjacent users under doctrine-not-price allocation;
+price-umbrella/racing/logrolling overexpansion cycle; poor legacy scan re-OCR'd
+at 250dpi recovering +28% words, residual [VERIFY] kept) + H21 "The Taxable
+Surplus in Water Resources" (1992, six-fallacy case for withdrawal taxation;
+$20/$240/$2000 per-acre-foot dispersion; Gaffney's own "books are cooked"
+concession preserved). WATER was a total wiki gap despite being named in
+resource-rents' own definition — now a section there + Eighth Mode on
+resource-rent-capture-works. Priority note: H3 (Jan 1961) predates C4 (Oct 1961)
+as earliest academic conference paper but does NOT contain the credit mechanism —
+C4's land-monopoly attribution unaffected, documented on-page. E13 (1976 WAEA):
+declined a page (overlaps 5 mined works) but its exclusionary-zoning fiscal
+diagnosis ("federal grants to governments are grants to landowners") filled a
+real gap on concepts/nimbyism.md. E15 (Heilbrun review, ~2pp): zero-addition,
+no registry row. K1 stale triage checkbox fixed (already covered by
+neoclassical-stratagem page). Registry +3 rows; triage updated; inventory
+regenerated. 876 pages, lint 0 errors.
