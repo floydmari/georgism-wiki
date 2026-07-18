@@ -1,7 +1,7 @@
 slug,title,category,url,inbound_links,outbound_links,words,stub,orphan,last_reviewed
 18-year-land-cycle,18-Year Land Cycle,concepts,https://www.progress.org/wiki/18-year-land-cycle/,91,34,1876,false,false,2026-07-04
 1815-rent-theory-pamphlets,The 1815 Rent Theory Pamphlets,events,https://www.progress.org/wiki/1815-rent-theory-pamphlets/,2,6,463,false,false,2026-07-11
-1886-nyc-mayoral-election,1886 New York City Mayoral Election,events,https://www.progress.org/wiki/1886-nyc-mayoral-election/,10,3,268,false,false,
+1886-nyc-mayoral-election,1886 New York City Mayoral Election,events,https://www.progress.org/wiki/1886-nyc-mayoral-election/,10,4,433,false,false,
 1909-peoples-budget,The 1909 People's Budget (United Kingdom),events,https://www.progress.org/wiki/1909-peoples-budget/,35,11,355,false,false,
 1974-uk-property-crash,1973–74 UK Property Crash and Secondary Banking Crisis,events,https://www.progress.org/wiki/1974-uk-property-crash/,1,6,864,false,false,2026-07-12
 2008-financial-crisis,The 2008 Financial Crisis,events,https://www.progress.org/wiki/2008-financial-crisis/,27,10,1796,false,false,2026-07-05
@@ -223,7 +223,7 @@ enclosure-movement,Enclosure of the English Commons,events,https://www.progress.
 england-zhao-lvt-distribution,Assessing the Distributive Impact of a Revenue-Neutral Shift from a Uniform,research,https://www.progress.org/wiki/england-zhao-lvt-distribution/,4,5,2043,false,false,2026-07-05
 enterprise-zones,Enterprise Zones,concepts,https://www.progress.org/wiki/enterprise-zones/,2,5,504,true,false,2026-07-11
 era-seligman,Edwin R. A. Seligman,people,https://www.progress.org/wiki/era-seligman/,11,8,469,false,false,2026-07-06
-eric-goldman,Eric F. Goldman,people,https://www.progress.org/wiki/eric-goldman/,3,5,717,false,false,
+eric-goldman,Eric F. Goldman,people,https://www.progress.org/wiki/eric-goldman/,4,5,717,false,false,
 eric-posner,Eric A. Posner,people,https://www.progress.org/wiki/eric-posner/,3,4,334,false,false,2026-07-11
 estonia,Estonia,places,https://www.progress.org/wiki/estonia/,18,4,405,false,false,
 evidence-dashboard,The Evidence Dashboard,guides,https://www.progress.org/wiki/evidence-dashboard/,16,42,1728,false,false,2026-07-12
@@ -459,7 +459,7 @@ lewis-building-cycles,Lewis (1965): Building Cycles and Britain's Growth,researc
 li-yao-house-price-welfare,'Li & Yao: Your House Just Doubled in Value? Don''t Uncork the Champagne Just,research,https://www.progress.org/wiki/li-yao-house-price-welfare/,1,5,622,false,false,2026-07-11
 liberation-theology,Liberation Theology,concepts,https://www.progress.org/wiki/liberation-theology/,3,6,745,false,false,2026-07-09
 lie-norwegian-oil-fund,Learning by Failing: The Origins of the Norwegian Oil Fund (Lie),research,https://www.progress.org/wiki/lie-norwegian-oil-fund/,6,6,655,false,false,2026-07-12
-life-of-henry-george,"The Life of Henry George (Henry George Jr., 1900)",books,https://www.progress.org/wiki/life-of-henry-george/,5,4,390,false,false,2026-07-10
+life-of-henry-george,"The Life of Henry George (Henry George Jr., 1900)",books,https://www.progress.org/wiki/life-of-henry-george/,7,4,390,false,false,2026-07-10
 limehouse-speech-1909,The Limehouse Speech (1909),texts,https://www.progress.org/wiki/limehouse-speech-1909/,4,6,5470,false,false,2026-07-10
 lincoln-institute,Lincoln Institute of Land Policy,organizations,https://www.progress.org/wiki/lincoln-institute/,16,4,247,false,false,
 loffler-siegloch-german-pass-through,"Löffler & Siegloch, ""Welfare Effects of Property Taxation"" — German Rent Pass-Through",research,https://www.progress.org/wiki/loffler-siegloch-german-pass-through/,15,7,2767,false,false,2026-07-05
@@ -648,7 +648,7 @@ ramin-shokrizade,Ramin Shokrizade,people,https://www.progress.org/wiki/ramin-sho
 real-estate-4-ransom,Real Estate 4 Ransom (2012 documentary),research,https://www.progress.org/wiki/real-estate-4-ransom/,6,9,333,false,false,2026-07-06
 rebuttal-cards,"Rebuttal Cards: Every Objection, Answered in One Breath",guides,https://www.progress.org/wiki/rebuttal-cards/,5,51,2527,false,false,2026-07-15
 reits,Real Estate Investment Trusts (REITs),concepts,https://www.progress.org/wiki/reits/,1,5,377,true,false,2026-07-11
-rendezvous-with-destiny,Rendezvous with Destiny: A History of Modern American Reform,books,https://www.progress.org/wiki/rendezvous-with-destiny/,4,7,1505,false,false,2026-07-07
+rendezvous-with-destiny,Rendezvous with Destiny: A History of Modern American Reform,books,https://www.progress.org/wiki/rendezvous-with-destiny/,4,8,1512,false,false,2026-07-07
 renegade-economists-podcast,Renegade Economists Podcast,research,https://www.progress.org/wiki/renegade-economists-podcast/,4,6,345,false,false,2026-07-12
 rent-dividends-reduce-poverty,Rent dividends reduce poverty and inequality,benefits,https://www.progress.org/wiki/rent-dividends-reduce-poverty/,18,19,2807,false,false,2026-07-13
 rent-revenue-breeds-corruption,"\""Public Rent Collection Breeds Government Corruption\""",objections,https://www.progress.org/wiki/rent-revenue-breeds-corruption/,2,9,1061,false,false,2026-07-12
@@ -714,7 +714,7 @@ simpson-real-estate-speculation-depression,Simpson (1933): Real Estate Speculati
 singapore,Singapore,places,https://www.progress.org/wiki/singapore/,19,15,618,false,false,
 single-tax,Single Tax,concepts,https://www.progress.org/wiki/single-tax/,90,21,1453,false,false,
 single-tax-colonies,The Single-Tax Colonies (Fairhope & Arden),events,https://www.progress.org/wiki/single-tax-colonies/,9,6,266,false,false,
-single-tax-narrative,Narrative: The Single Tax,narratives,https://www.progress.org/wiki/single-tax-narrative/,16,51,2554,false,false,2026-07-12
+single-tax-narrative,Narrative: The Single Tax,narratives,https://www.progress.org/wiki/single-tax-narrative/,16,52,2705,false,false,2026-07-12
 site-value,Site Value,concepts,https://www.progress.org/wiki/site-value/,15,13,1076,false,false,
 site-value-ge-simulations,Computable General-Equilibrium Simulations of Site-Value Taxation,research,https://www.progress.org/wiki/site-value-ge-simulations/,6,16,1924,false,false,2026-07-11
 skyscraper-index,Skyscraper Index,concepts,https://www.progress.org/wiki/skyscraper-index/,1,7,529,false,false,2026-07-12
