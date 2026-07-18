@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, assessment, cama, hedonic-regression, valuation, lvt]
 stub: false
 excerpt: "The statistical toolkit — computer-assisted mass appraisal, hedonic regression, and cooperative-game separation methods — used by assessors to estimate land value separately from building value at scale."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -54,11 +54,22 @@ Separate land-value assessment is not merely theoretical. Several jurisdictions 
 
 [New Zealand](/wiki/new-south-wales/)'s historical use of land-value rating as a primary local government funding mechanism provides another significant case, and the country's gradual shift from land-value to capital-value rating bases has given researchers a quasi-natural experimental setting for studying the effects of the assessment base choice.[6]
 
+Beyond these established systems, a [synthesis of six single-country case studies](/wiki/mass-appraisal-international-cases/) (Croatia, Turkey, Lithuania, Spain, China, Quebec) shows statistical, fuzzy-logic, and multi-criteria land-valuation methods being attempted independently across unrelated legal and academic traditions.[15] Individually most of these studies are thin — several are readable only at abstract or bibliographic level — so they support **breadth of attempt**, not confirmed accuracy in any one country; one case in the set (Lithuania) is itself a caution, showing three defensible valuation methods diverging by 3.4× on the same parcel.[15]
+
 ## Assessment Quality and Error
 
 Because land is immobile and visible, gross mis-assessment is relatively easy to challenge through appeal processes. Assessment quality improves with investment in data, methodology, and professional capacity — a focus of the [Center for Land Economics](/wiki/center-for-land-economics/), co-founded by [Lars Doucet](/wiki/doucet-does-georgism-work/).[4]
 
 The key insight from the assessment literature is that land-value assessment errors are **bounded and contestable** in ways that many other tax-base errors are not: land cannot be hidden, moved offshore, or recharacterized as another asset class. Under-assessment, not evasion, is the primary practical risk — a concern addressed in the wiki's [tax-you-can't-dodge](/wiki/the-tax-you-cant-dodge/) narrative.[4]
+
+### How Assessment Quality Is Actually Measured: Ratio Studies
+
+The profession's own instrument for testing whether a mass-appraisal model is any good is the **ratio study**, standardized by the [IAAO's Standard on Ratio Studies](/wiki/iaao-standards/) — read directly for the wiki rather than at second hand.[14] A ratio study compares appraised values against known sale prices and reports two kinds of error: **level** (are values close to 100% of market value overall?) and **uniformity** (are similar properties assessed at similarly close-to-market ratios?). Three metrics carry that testing:
+
+- **Coefficient of dispersion (COD)** — average percentage deviation of individual ratios from the median; the standard's acceptable range is tighter for improved residential property (5.0–10.0/15.0) than for vacant land (5.0–25.0), a gap plausibly driven by thinner vacant-land sales samples rather than land being intrinsically harder to value.[14]
+- **Price-related differential (PRD)** and **price-related bias (PRB)** — measures of vertical equity, testing whether low-value and high-value properties are assessed at the same fraction of market value; PRDs should sit between 0.98 and 1.03, and PRBs between −0.05 and 0.05.[14] These are the formal metrics behind Berry (2021)'s finding, above, that US assessments are "typically regressive" — in IAAO's own vocabulary, a PRD/PRB result.[14]
+
+The standard also explicitly names **land-only ratio studies** as routine practice — "for a ratio study of vacant land, the numerator in the ratio should reflect only the appraised value of the land" — direct professional confirmation that isolating and testing land value alone is standardized methodology, not a Georgist-specific workaround.[14] The companion **Standard on Property Tax Policy** states IAAO's "core principles" for property tax design but, read in full, says nothing substantive about land value or split-rate taxation as a policy choice beyond a single unglossed bibliography citation — a silence worth noting rather than assuming otherwise.[14]
 
 ## Limits and Open Questions
 
@@ -72,6 +83,8 @@ The key insight from the assessment literature is that land-value assessment err
 - [PLACES Lab](/wiki/places-lab/) — Boston University research group whose machine-learning land-value maps are a modern, nationwide-scale demonstration of the assessment feasibility this page argues for
 - [Residual Land Valuation](/wiki/residual-land-valuation/) — how developers price land in practice (sales value minus costs), explaining why land absorbs planning gain in full
 - [International Association of Assessing Officers (IAAO)](/wiki/iaao/) — the professional standards body behind mass appraisal and ratio-study methodology
+- [IAAO Standards: Ratio Studies & Property Tax Policy](/wiki/iaao-standards/) — the COD/PRD/PRB definitions and quality bands read first-hand
+- [Mass Appraisal International Cases](/wiki/mass-appraisal-international-cases/) — the six-country breadth synthesis, honestly graded by access level
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
 
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
@@ -97,3 +110,5 @@ The key insight from the assessment literature is that land-value assessment err
 11. Christopher Berry (2021), "Reassessing the Property Tax," University of Chicago, Harris School of Public Policy, working paper. [PDF](https://law.yale.edu/sites/default/files/area/center/corporate/spring2022_paper_berrychristopher_2-24-22.pdf) — used for systematic evidence on assessment accuracy variation across 2,628 US counties (county-level r-squared averaging .46) and on the regressivity of existing whole-property assessments.
 12. Tambet Tiits, "Current Situation and Practice of Land Valuation and Taxation in Estonia" (Lincoln Institute of Land Policy). [PDF](https://www.lincolninst.edu/app/uploads/2024/04/tiits_current_situation_and_practice_in_estonia_0.pdf) — used for Estonia's Land Tax Act (levied on the value of land, national collection) and the 1993/1996/2001 national land valuations with value-zone mass-valuation models (verified against the PDF, 2026-07-10).
 13. Michael Laskin (2025), "The method for the land plot value appraisal as part of the single real estate object, based on game theory approach," *Business Informatics*, DOI 10.17323/2587-814x.2025.1.93.107 — used to corroborate that game-theoretic (Shapley) land/building separation remains a research method: the paper states there "are no established methods" for the split and that its own approach "is new in the theory and practice of valuation" (verified via abstract/introduction, 2026-07-10).
+14. International Association of Assessing Officers, *Standard on Ratio Studies* (2013) and *Standard on Property Tax Policy* (revised 2020). [wiki summary](/wiki/iaao-standards/) · [Ratio Studies PDF](https://www.iaao.org/wp-content/uploads/Standard_on_Ratio_Studies.pdf) · [Property Tax Policy PDF](https://www.iaao.org/wp-content/uploads/Standard_on_Property_Tax_Policy.pdf) — both read in full (2026-07-18); used for the COD/PRD/PRB definitions and acceptable-range tables, the explicit land-only ratio-study instruction, and the confirmed absence of land/site-value-taxation discussion in the policy standard's body text.
+15. Kilić, Rogulj & Jajac (2019, Croatia); Yalpır & Ünel (2017, Turkey); Raslanas et al. (2010, Lithuania); Aragonés-Beltrán et al. (2008, Spain); Xue et al. (2008, China); Kettani & Khelifi (2001, Quebec). [wiki synthesis](/wiki/mass-appraisal-international-cases/) — used for the six-country breadth evidence and the Lithuanian valuation-divergence caution; see the synthesis page for per-source access-level grading.
