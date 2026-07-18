@@ -28,6 +28,9 @@ settlement:
   claim, through taxation, the *future* rise in that value arising from the growth and
   effort of society rather than from the owner — capturing socially-created value
   prospectively, without confiscating past gains. This was the association's defining plank.
+  (The programme's own wording, in Article IV, was the "unearned increase" of land value —
+  "unearned increment" is the label that later became standard, popularized by Mill's
+  editors and followers rather than appearing in his or the programme's own text.)
 - **Free trade in land.** Abolish **primogeniture** and **entail**, the legal devices that
   kept great estates intact and land off the market, so that land could be bought and sold
   more freely.

@@ -29,8 +29,8 @@ And Smith on the landlord's unearned take:
 > "As soon as the land of any country has all become private property, the landlords, like all other men, love to reap where they never sowed, and demand a rent even for its natural produce."
 > — *The Wealth of Nations* (1776), Book I. → [Adam Smith](/wiki/adam-smith/)
 
-**John Stuart Mill** — who coined the term, on why the increment is unearned:
-> Landlords "grow richer, as it were in their sleep, without working, risking, or economizing."
+**John Stuart Mill** — who gave the idea its classical statement (his own words were "unearned appendage"; the phrase "unearned increment" came from his editors and followers), on why the increment is unearned:
+> Landlords "grow richer, as it were, in their sleep, without working, risking, or economizing."
 > — *Principles of Political Economy* (1848); Mill named this the **"unearned increment."** → [John Stuart Mill](/wiki/john-stuart-mill/) · [unearned increment](/wiki/unearned-increment/)
 
 **Thomas Paine** — the moral root, and the first citizen's-dividend proposal:

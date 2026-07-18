@@ -1,6 +1,6 @@
 # Hermes Work Order — Fact-Check Desk field assignment
 
-Generated 2026-07-17 by `scripts/verification_queue.py`. This is the
+Generated 2026-07-18 by `scripts/verification_queue.py`. This is the
 routed slice of the verification queue that ONLY Hermes's environment can work
 (unblocked web + Floyd's book library). Protocol: `sources/inbox/README.md` —
 verbatim quotes with locators, CONFIRMED/CORRECTED/NOT-FOUND verdicts, legal
@@ -12,10 +12,9 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
 - `research/giovannoni-labor-share-decomposition.md` — **VERIFY** whether the financial-sector compensation gains documented here are substantially rent (e.g., from land-collateralized lending) versus a return to scarce financ
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 2 of 2
+## needs-unblocked-web (proxy allowlist or manual fetch) — 1 of 1
 
-- `places/south-korea.md` — **VERIFY** the direct PDF URL was truncated in the harvest data and could not be reconstructed this session; the file lives under basicincomekorea.org/wp-content/uploads/2
-- `research/august-rental-financialization.md` — **VERIFY** the mirror was not cross-checked page-by-page against the official Taylor & Francis PDF, since that PDF could not be fetched directly in this session.
+- `research/august-rental-financialization.md` — **VERIFY** PDF access still blocked — 2026-07-18 Wayback Machine attempt on the Taylor & Francis full-text page still shows only the abstract behind a paywall (Log in/Purc
 
 
-*3 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
+*2 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*

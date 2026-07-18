@@ -29,7 +29,11 @@ beyond economics.
 
 ## Who Promotes It
 
-- **John Stuart Mill** coined the term. In *Principles of Political Economy* (1848,
+- **John Stuart Mill** gave the idea its classical statement — though the exact phrase
+  "unearned increment" is not found in his own prose (he wrote "unearned appendage" in
+  the *Principles* and "unearned increase" in the 1871 Land Tenure Reform Association
+  programme; the two-word phrase was popularized by his editors and followers). In
+  *Principles of Political Economy* (1848,
   Book V, Ch. II, §5) he observed that landlords "grow richer, as it were in their
   sleep, without working, risking, or economizing," and asked what claim they have, on
   general principles of social justice, to that accession of riches.[1] In 1870–71 he
@@ -49,9 +53,10 @@ beyond economics.
   Churchill](/wiki/winston-churchill/), then a Liberal minister, put it in its
   most-quoted form in a speech at the King's Theatre, Edinburgh, on 17 July 1909,
   reprinted in *The People's Rights* (1910): "Roads are made, streets are made,
-  services are improved … and all the while the landlord sits still. To not one of
-  those improvements does the land monopolist, as a land monopolist, contribute, and
-  yet by every one of them the value of his land is enhanced."[4] Chancellor
+  railway services are improved … and all the while the landlord sits still. To not
+  one of those improvements does the land monopolist, as a land monopolist,
+  contribute, and yet by every one of them the value of his land is sensibly
+  enhanced."[4] Chancellor
   [David Lloyd George](/wiki/david-lloyd-george/) defended the
   [People's Budget](/wiki/1909-peoples-budget/)'s land duties in the same terms at
   Limehouse on 30 July 1909, including its "halfpenny tax on unearned increment."[5]

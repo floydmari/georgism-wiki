@@ -30,7 +30,7 @@ intellectual bridge between
 [David Ricardo](/wiki/david-ricardo/)'s theory of rent and
 [Henry George](/wiki/henry-george/)'s *[Progress and Poverty](/wiki/progress-and-poverty/)*
 (1879). The wiki's other pages already draw on this chapter for its single most quoted
-line — landlords who "grow richer, as it were in their sleep, without working, risking, or
+line — landlords who "grow richer, as it were, in their sleep, without working, risking, or
 economizing."[1] This page mines the surrounding argument: Mill's inherited rent theory,
 the specific tax design he proposed, his land-tenure-reform activism, and — the page's
 central analytical payoff — exactly where Mill's proposal stops short of George's, and why
@@ -57,7 +57,7 @@ implication of a surplus that grows independent of its recipient's effort.
 In Book V, Chapter II, Mill argued that landlords, as a class, are progressively enriched
 by "the general prosperity of a growing community" while contributing nothing to that
 prosperity — the passage from which the wiki already quotes: landlords "grow richer, as it
-were in their sleep, without working, risking, or economizing."[1] Multiple independent
+were, in their sleep, without working, risking, or economizing."[1] Multiple independent
 secondary sources corroborate Mill's supporting formulation in the same discussion:
 describing rent as "a kind of income which constantly tends to increase, without any
 exertion or sacrifice on the part of the owners" — a class "whom the natural course of
@@ -165,7 +165,7 @@ descendant of this objection.
 ## See Also
 
 - [John Stuart Mill](/wiki/john-stuart-mill/) — biographical page
-- [Unearned Increment](/wiki/unearned-increment/) — the concept Mill coined
+- [Unearned Increment](/wiki/unearned-increment/) — the concept Mill gave its classical statement (his own phrase was "unearned appendage"; the two-word label came from his editors and followers)
 - [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the argument's persuasive career from Mill through George to today
 - [David Ricardo](/wiki/david-ricardo/) — the rent theory Mill inherited
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's generalization of Mill's argument
