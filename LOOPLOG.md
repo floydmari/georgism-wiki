@@ -1945,3 +1945,19 @@ only a navigational landing page clears 10 inbound; the rest are short because
 they warrant it. Tier four, if run, should widen to ~750 words targeting the
 high-inbound band: fred-harrison (576w/67 inbound!), hong-kong, william-vickrey,
 singapore, joseph-stiglitz. 888 pages, lint 0 errors, warnings baseline-identical.
+
+## 2026-07-18 (cont.) — Wave: tier-four widened burn-down (all five expanded)
+
+fred-harrison 617→1,735 (67 inbound — Corruption of Economics framed AS ADVOCACY
+with JEL 1996 skepticism cited; the Hoyt Heist section carries Hoyt's own
+disavowal + Harrison's rebuttal; 2008 prediction corroborated via Bezemer with
+existing precision caveats paired); william-vickrey 554→1,207 (the AJES
+capital-neutrality proof found this session, Type-C excluded from supported_by;
+1977 HGT priority per Albouy; Myerson-Satterthwaite lineage); joseph-stiglitz
+533→1,123 (his 1977 paper finally cited directly; Korinek-Stiglitz AI section
+under the rent-gradient rule); hong-kong 727→1,019 (MTR rail+property HK$171.8bn
+with the precondition caveat); singapore 618→974 (ALS 76% effect with the
+congestion-displacement caveat; ERP as Vickrey pricing). One banned-word slip
+("proves") caught and reworded pre-lint. Zero registry changes needed. Verdict:
+one more inventory-driven tier-five scoping pass recommended before declaring
+the seam exhausted. 888 pages, lint 0 errors, warnings baseline-identical.
