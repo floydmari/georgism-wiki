@@ -1,7 +1,8 @@
 slug,title,category,url,inbound_links,outbound_links,words,stub,orphan,last_reviewed
 18-year-land-cycle,18-Year Land Cycle,concepts,https://www.progress.org/wiki/18-year-land-cycle/,92,34,1876,false,false,2026-07-04
 1815-rent-theory-pamphlets,The 1815 Rent Theory Pamphlets,events,https://www.progress.org/wiki/1815-rent-theory-pamphlets/,2,6,463,false,false,2026-07-11
-1886-nyc-mayoral-election,1886 New York City Mayoral Election,events,https://www.progress.org/wiki/1886-nyc-mayoral-election/,10,3,268,false,false,
+1886-nyc-mayoral-election,1886 New York City Mayoral Election,events,https://www.progress.org/wiki/1886-nyc-mayoral-election/,14,8,975,false,false,
+1897-nyc-mayoral-campaign,The 1897 New York City Mayoral Campaign (Henry George's Last Campaign),events,https://www.progress.org/wiki/1897-nyc-mayoral-campaign/,3,6,794,true,false,2026-07-18
 1909-peoples-budget,The 1909 People's Budget (United Kingdom),events,https://www.progress.org/wiki/1909-peoples-budget/,35,11,355,false,false,
 1974-uk-property-crash,1973–74 UK Property Crash and Secondary Banking Crisis,events,https://www.progress.org/wiki/1974-uk-property-crash/,1,6,864,false,false,2026-07-12
 2008-financial-crisis,The 2008 Financial Crisis,events,https://www.progress.org/wiki/2008-financial-crisis/,27,10,1796,false,false,2026-07-05
@@ -11,7 +12,7 @@ academic-suppression-of-georgists,Academic Purges of Georgist Economists,events,
 acemoglu-johnson-robinson-botswana,"An African Success Story: Botswana (Acemoglu, Johnson & Robinson)",research,https://www.progress.org/wiki/acemoglu-johnson-robinson-botswana/,6,6,742,false,false,2026-07-12
 acemoglu-johnson-robinson-colonial-origins,The Colonial Origins of Comparative Development,research,https://www.progress.org/wiki/acemoglu-johnson-robinson-colonial-origins/,2,5,998,false,false,2026-07-11
 adair-turner,Adair Turner,people,https://www.progress.org/wiki/adair-turner/,2,5,453,true,false,2026-07-11
-adam-smith,Adam Smith,people,https://www.progress.org/wiki/adam-smith/,24,11,1483,false,false,2026-07-12
+adam-smith,Adam Smith,people,https://www.progress.org/wiki/adam-smith/,25,11,1725,false,false,2026-07-18
 advocates-arsenal,The Advocate's Arsenal,guides,https://www.progress.org/wiki/advocates-arsenal/,4,32,728,false,false,2026-07-12
 aei-land-price-indicators,AEI Land Price and Land Share Indicators (dataset),research,https://www.progress.org/wiki/aei-land-price-indicators/,3,5,648,false,false,2026-07-11
 agglomeration-economies,Agglomeration Economies,concepts,https://www.progress.org/wiki/agglomeration-economies/,8,13,1623,false,false,2026-07-05
@@ -39,6 +40,7 @@ anderson-your-citizens-dividend,Your Citizen's Dividend (Anderson eBook),books,h
 andersson-sweden-carbon-tax,'Carbon Taxes and CO2 Emissions: Sweden as a Case Study (Andersson)',research,https://www.progress.org/wiki/andersson-sweden-carbon-tax/,7,5,808,false,false,2026-07-11
 anne-robert-jacques-turgot,Anne Robert Jacques Turgot,people,https://www.progress.org/wiki/anne-robert-jacques-turgot/,4,5,500,false,false,2026-07-12
 ansolabehere-money-in-politics,Why Is There So Little Money in U.S. Politics?,research,https://www.progress.org/wiki/ansolabehere-money-in-politics/,1,5,422,false,false,2026-07-10
+anti-poverty-society,Anti-Poverty Society,organizations,https://www.progress.org/wiki/anti-poverty-society/,3,5,440,true,false,2026-07-18
 arnold-harberger,Arnold Harberger,people,https://www.progress.org/wiki/arnold-harberger/,1,5,406,true,false,2026-07-11
 arnold-tax-growth-ej,Tax Policy for Economic Recovery and Growth,research,https://www.progress.org/wiki/arnold-tax-growth-ej/,5,10,2262,false,false,2026-07-10
 arnott-hgt-practical-guide,Does the Henry George Theorem Provide a Practical Guide to Optimal City Size?,research,https://www.progress.org/wiki/arnott-hgt-practical-guide/,7,9,2120,false,false,2026-07-04
@@ -211,6 +213,7 @@ economic-rent,Economic Rent,concepts,https://www.progress.org/wiki/economic-rent
 economic-theory-in-retrospect,Economic Theory in Retrospect,books,https://www.progress.org/wiki/economic-theory-in-retrospect/,36,13,2849,false,false,2026-07-12
 economics-of-henry-george,The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist,books,https://www.progress.org/wiki/economics-of-henry-george/,5,11,1952,false,false,2026-07-07
 edward-glaeser,Edward L. Glaeser,people,https://www.progress.org/wiki/edward-glaeser/,4,7,1510,false,false,2026-07-04
+edward-mcglynn,Edward McGlynn,people,https://www.progress.org/wiki/edward-mcglynn/,4,7,827,true,false,2026-07-18
 edward-west,Edward West,people,https://www.progress.org/wiki/edward-west/,2,5,509,false,false,2026-07-12
 edwards-site-value-taxation-australia,Edwards (1984): Site Value Taxation in Australia,research,https://www.progress.org/wiki/edwards-site-value-taxation-australia/,3,7,524,false,false,2026-07-12
 eeckhout-profit-paradox,The Profit Paradox: How Thriving Firms Threaten the Future of Work,research,https://www.progress.org/wiki/eeckhout-profit-paradox/,3,10,2944,false,false,2026-07-12
@@ -316,7 +319,7 @@ gwartney-estimating-land-values,Estimating Land Values (Gwartney),research,https
 gyourko-krimmel-zoning-tax,The Impact of Local Residential Land Use Restrictions on Land Values Across and Within Single Family Housing Markets,research,https://www.progress.org/wiki/gyourko-krimmel-zoning-tax/,6,7,593,false,false,2026-07-12
 hamilton-benefit-tax,"'Hamilton''s Benefit View: Zoning, Property Taxation, and Local Tax-Price Capitalization'",research,https://www.progress.org/wiki/hamilton-benefit-tax/,7,9,3548,false,false,2026-07-10
 hanratty-local-economic-homelessness,Do Local Economic Conditions Affect Homelessness? Impact of Area Housing Market,research,https://www.progress.org/wiki/hanratty-local-economic-homelessness/,5,8,669,false,false,2026-07-11
-harberger-tax,Harberger Tax (COST),concepts,https://www.progress.org/wiki/harberger-tax/,19,15,1255,false,false,
+harberger-tax,Harberger Tax (COST),concepts,https://www.progress.org/wiki/harberger-tax/,19,15,1966,false,false,
 harrisburg-pennsylvania,"Harrisburg, Pennsylvania",places,https://www.progress.org/wiki/harrisburg-pennsylvania/,13,5,431,false,false,
 harrison-boom-bust,"Boom Bust: House Prices, Banking and the Depression of 2010",books,https://www.progress.org/wiki/harrison-boom-bust/,37,18,1907,false,false,2026-07-05
 harrison-power-in-the-land,"'The Power in the Land: An Inquiry into Unemployment, the Profits Crisis and",books,https://www.progress.org/wiki/harrison-power-in-the-land/,47,20,1821,false,false,2026-07-05
@@ -327,7 +330,7 @@ he-sun-metro-housing-premiums,"He, Sun, Li & Webster (2024): New Metro and Housi
 hebous-excess-profit-taxes,Excess Profit Taxes: Historical Perspective and Contemporary Relevance,research,https://www.progress.org/wiki/hebous-excess-profit-taxes/,3,5,1481,false,false,2026-07-15
 hebous-ruf-ace,"Hebous & Ruf (2017): ACE Systems, Multinational Debt Financing and Investment",research,https://www.progress.org/wiki/hebous-ruf-ace/,7,5,449,false,false,2026-07-12
 hefferan-boyd-mass-appraisal-australia,Property Taxation and Mass Appraisal Valuations in Australia (Hefferan & Boyd),research,https://www.progress.org/wiki/hefferan-boyd-mass-appraisal-australia/,7,6,799,false,false,2026-07-12
-henry-george,Henry George,people,https://www.progress.org/wiki/henry-george/,187,33,1427,false,false,
+henry-george,Henry George,people,https://www.progress.org/wiki/henry-george/,190,38,1978,false,false,
 henry-george-foundation-canada,Henry George Foundation of Canada,organizations,https://www.progress.org/wiki/henry-george-foundation-canada/,3,8,874,false,false,2026-07-12
 henry-george-foundation-uk,Henry George Foundation (UK),organizations,https://www.progress.org/wiki/henry-george-foundation-uk/,4,5,582,false,false,2026-07-11
 henry-george-school,Henry George School of Social Science,organizations,https://www.progress.org/wiki/henry-george-school/,6,5,534,false,false,2026-07-12
@@ -337,7 +340,7 @@ herbert-spencer,Herbert Spencer,people,https://www.progress.org/wiki/herbert-spe
 herkenhoff-ohanian-prescott-tarnishing,Tarnishing the Golden and Empire States: Land-Use Restrictions and the U.S. Economic Slowdown,research,https://www.progress.org/wiki/herkenhoff-ohanian-prescott-tarnishing/,4,5,2476,false,false,2026-07-12
 herman-daly,Herman E. Daly,people,https://www.progress.org/wiki/herman-daly/,2,4,584,false,false,
 high-land-rents-suppress-productivity,High land rents suppress productivity,problems,https://www.progress.org/wiki/high-land-rents-suppress-productivity/,20,14,2085,false,false,2026-07-12
-highland-clearances,Scottish Highland Clearances (c. 1750–1860),events,https://www.progress.org/wiki/highland-clearances/,1,7,833,false,false,2026-07-12
+highland-clearances,Scottish Highland Clearances (c. 1750–1860),events,https://www.progress.org/wiki/highland-clearances/,2,9,1125,false,false,2026-07-18
 hilber-capitalization-synthesis,'The Economic Implications of House Price Capitalization: A Synthesis',research,https://www.progress.org/wiki/hilber-capitalization-synthesis/,5,9,847,false,false,2026-07-11
 hilber-vermeulen-england-supply,The Impact of Supply Constraints on House Prices in England,research,https://www.progress.org/wiki/hilber-vermeulen-england-supply/,7,6,1260,false,false,2026-07-03
 holdout-problem,Holdout Problem (Land Assembly),concepts,https://www.progress.org/wiki/holdout-problem/,6,12,1915,false,false,2026-07-10
@@ -437,7 +440,7 @@ land-is-a-big-deal,"Land is a Big Deal: Why rent is too high, wages too low, and
 land-is-just-capital,"\""Land Is Just a Form of Capital\""",objections,https://www.progress.org/wiki/land-is-just-capital/,5,18,2241,false,false,2026-07-18
 land-justice-and-indigenous-reconciliation,Land Justice and Indigenous Reconciliation — An Honest Intersection,narratives,https://www.progress.org/wiki/land-justice-and-indigenous-reconciliation/,3,15,2650,false,false,2026-07-10
 land-matters-podcast,Land Matters Podcast (Lincoln Institute),research,https://www.progress.org/wiki/land-matters-podcast/,1,3,307,false,false,2026-07-12
-land-monopoly,Land Monopoly,concepts,https://www.progress.org/wiki/land-monopoly/,48,24,2441,false,false,2026-07-18
+land-monopoly,Land Monopoly,concepts,https://www.progress.org/wiki/land-monopoly/,49,24,2773,false,false,2026-07-18
 land-no-longer-matters,Land Is Not a Big Deal Anymore (Krugman Objection),objections,https://www.progress.org/wiki/land-no-longer-matters/,2,10,1096,false,false,2026-07-13
 land-ownership-secrecy,Veil of Secrecy over Land Ownership and Values,concepts,https://www.progress.org/wiki/land-ownership-secrecy/,1,5,702,false,false,2026-07-12
 land-pooling,Land Pooling / Readjustment,concepts,https://www.progress.org/wiki/land-pooling/,1,8,825,false,false,2026-07-12
@@ -470,7 +473,7 @@ lewis-building-cycles,Lewis (1965): Building Cycles and Britain's Growth,researc
 li-yao-house-price-welfare,'Li & Yao: Your House Just Doubled in Value? Don''t Uncork the Champagne Just,research,https://www.progress.org/wiki/li-yao-house-price-welfare/,1,5,622,false,false,2026-07-11
 liberation-theology,Liberation Theology,concepts,https://www.progress.org/wiki/liberation-theology/,3,6,745,false,false,2026-07-09
 lie-norwegian-oil-fund,Learning by Failing: The Origins of the Norwegian Oil Fund (Lie),research,https://www.progress.org/wiki/lie-norwegian-oil-fund/,5,6,655,false,false,2026-07-12
-life-of-henry-george,"The Life of Henry George (Henry George Jr., 1900)",books,https://www.progress.org/wiki/life-of-henry-george/,5,4,390,false,false,2026-07-10
+life-of-henry-george,"The Life of Henry George (Henry George Jr., 1900)",books,https://www.progress.org/wiki/life-of-henry-george/,11,4,390,false,false,2026-07-10
 limehouse-speech-1909,The Limehouse Speech (1909),texts,https://www.progress.org/wiki/limehouse-speech-1909/,4,6,5470,false,false,2026-07-10
 lincoln-institute,Lincoln Institute of Land Policy,organizations,https://www.progress.org/wiki/lincoln-institute/,16,4,247,false,false,
 loffler-siegloch-german-pass-through,"Löffler & Siegloch, ""Welfare Effects of Property Taxation"" — German Rent Pass-Through",research,https://www.progress.org/wiki/loffler-siegloch-german-pass-through/,15,7,2767,false,false,2026-07-05
@@ -519,7 +522,7 @@ melbourne-land-boom-1880s,Melbourne Land Boom of the 1880s,events,https://www.pr
 melichar-farm-income-asset-values,"'Melichar (1978): Farm Income and Asset Values, 1950-77'",research,https://www.progress.org/wiki/melichar-farm-income-asset-values/,2,3,461,false,false,2026-07-12
 metcalf-stock-europe-carbon-taxes,The Macroeconomic Impact of Europe's Carbon Taxes (Metcalf & Stock),research,https://www.progress.org/wiki/metcalf-stock-europe-carbon-taxes/,5,5,828,false,false,2026-07-11
 mian-sufi-verner-household-debt,"Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide",research,https://www.progress.org/wiki/mian-sufi-verner-household-debt/,3,9,965,false,false,2026-07-12
-michael-davitt,Michael Davitt,people,https://www.progress.org/wiki/michael-davitt/,6,8,1061,false,false,2026-07-05
+michael-davitt,Michael Davitt,people,https://www.progress.org/wiki/michael-davitt/,8,9,1387,false,false,2026-07-05
 michael-hudson,Michael Hudson,people,https://www.progress.org/wiki/michael-hudson/,19,9,340,false,false,
 mieszkowski-property-tax-incidence,The Property Tax: An Excise Tax or a Profits Tax?,research,https://www.progress.org/wiki/mieszkowski-property-tax-incidence/,14,7,2349,false,false,2026-07-12
 mill-principles-land,Mill's Principles of Political Economy: The Land-Taxation Chapters,research,https://www.progress.org/wiki/mill-principles-land/,4,12,3045,false,false,2026-07-12
@@ -568,7 +571,7 @@ oil-shocks-cause-recessions,"Objection: Oil Shocks, Not Land, Caused the 1970s R
 oklahoma-land-rush,Oklahoma Land Rush (1889),events,https://www.progress.org/wiki/oklahoma-land-rush/,2,5,527,false,false,2026-07-11
 opec,OPEC,organizations,https://www.progress.org/wiki/opec/,1,5,335,true,false,2026-07-11
 open-letter-to-gorbachev,Open Letter to Gorbachev (1990),events,https://www.progress.org/wiki/open-letter-to-gorbachev/,4,6,221,false,false,2026-07-06
-open-letter-to-pope-leo-xiii,The Condition of Labour: An Open Letter to Pope Leo XIII,texts,https://www.progress.org/wiki/open-letter-to-pope-leo-xiii/,2,0,1590,false,false,2026-07-06
+open-letter-to-pope-leo-xiii,The Condition of Labour: An Open Letter to Pope Leo XIII,texts,https://www.progress.org/wiki/open-letter-to-pope-leo-xiii/,3,0,1590,false,false,2026-07-06
 openai-industrial-policy-intelligence-age,Industrial Policy for the Intelligence Age: Ideas to Keep People First,research,https://www.progress.org/wiki/openai-industrial-policy-intelligence-age/,2,7,1259,false,false,2026-07-14
 optimal-city-size,Optimal City Size,concepts,https://www.progress.org/wiki/optimal-city-size/,6,10,1391,false,false,2026-07-12
 overpopulation-causes-poverty,Overpopulation Causes Poverty (Malthusianism),objections,https://www.progress.org/wiki/overpopulation-causes-poverty/,3,8,1439,false,false,2026-07-18
@@ -630,7 +633,7 @@ product-exhaustion-theorem,Product Exhaustion Theorem,concepts,https://www.progr
 production-boundary,Production Boundary,concepts,https://www.progress.org/wiki/production-boundary/,5,12,2089,false,false,2026-07-05
 productivity-commission-first-home-ownership,"First Home Ownership (Productivity Commission, 2004)",research,https://www.progress.org/wiki/productivity-commission-first-home-ownership/,2,5,512,false,false,2026-07-11
 progress-18-6-year-cycle,The 18-Year Pattern Predicting 2027's Market Crash,research,https://www.progress.org/wiki/progress-18-6-year-cycle/,11,11,3093,false,false,2026-07-12
-progress-and-poverty,Progress and Poverty,books,https://www.progress.org/wiki/progress-and-poverty/,84,15,1127,false,false,2026-07-13
+progress-and-poverty,Progress and Poverty,books,https://www.progress.org/wiki/progress-and-poverty/,84,16,1694,false,false,2026-07-13
 progress-and-poverty-full-text,"Progress and Poverty (Henry George, 1879; Memorial Edition, 1898)",texts,https://www.progress.org/wiki/progress-and-poverty-full-text/,31,6,177385,false,false,2026-07-11
 progress-and-poverty-institute,Progress and Poverty Institute,organizations,https://www.progress.org/wiki/progress-and-poverty-institute/,1,7,371,false,false,2026-07-06
 progress-and-poverty-outdated,Objection: Progress and Poverty Was Thirty Years Out of Date,objections,https://www.progress.org/wiki/progress-and-poverty-outdated/,3,12,1623,false,false,2026-07-17
@@ -724,7 +727,7 @@ silicon-valley,Silicon Valley,places,https://www.progress.org/wiki/silicon-valle
 simon-patten,Simon Patten,people,https://www.progress.org/wiki/simon-patten/,1,5,480,false,false,2026-07-12
 simpson-real-estate-speculation-depression,Simpson (1933): Real Estate Speculation and the Depression,research,https://www.progress.org/wiki/simpson-real-estate-speculation-depression/,3,4,516,false,false,2026-07-12
 singapore,Singapore,places,https://www.progress.org/wiki/singapore/,18,15,618,false,false,
-single-tax,Single Tax,concepts,https://www.progress.org/wiki/single-tax/,90,22,1788,false,false,
+single-tax,Single Tax,concepts,https://www.progress.org/wiki/single-tax/,91,22,1788,false,false,
 single-tax-colonies,The Single-Tax Colonies (Fairhope & Arden),events,https://www.progress.org/wiki/single-tax-colonies/,9,6,266,false,false,
 single-tax-narrative,Narrative: The Single Tax,narratives,https://www.progress.org/wiki/single-tax-narrative/,16,51,2554,false,false,2026-07-12
 site-value,Site Value,concepts,https://www.progress.org/wiki/site-value/,15,13,1076,false,false,
@@ -791,7 +794,7 @@ tideman-plassmann-losses-of-nations,Taxation and the Losses of Nations (Tideman 
 tiebout-model,Tiebout Model,concepts,https://www.progress.org/wiki/tiebout-model/,1,12,1331,false,false,2026-07-03
 toby-lloyd,Toby Lloyd,people,https://www.progress.org/wiki/toby-lloyd/,2,3,298,true,false,2026-07-11
 tolstoy-principles-redfearn,Tolstoy: Principles for a New World Order,books,https://www.progress.org/wiki/tolstoy-principles-redfearn/,3,9,1457,false,false,2026-07-07
-tom-l-johnson,Tom L. Johnson,people,https://www.progress.org/wiki/tom-l-johnson/,5,6,597,false,false,2026-07-11
+tom-l-johnson,Tom L. Johnson,people,https://www.progress.org/wiki/tom-l-johnson/,8,6,597,false,false,2026-07-11
 tomson-estonia-lvt,'Sustainable Urban Development and Land Value Taxation: The Case of Estonia',research,https://www.progress.org/wiki/tomson-estonia-lvt/,12,2,152,false,false,
 total-resource-rents-australia,Total Resource Rents of Australia (Fitzgerald / Prosper Australia),research,https://www.progress.org/wiki/total-resource-rents-australia/,9,14,2385,false,false,2026-07-12
 town-and-country-planning-act-1947,Town and Country Planning Act 1947,events,https://www.progress.org/wiki/town-and-country-planning-act-1947/,7,7,325,false,false,2026-07-06
@@ -824,7 +827,7 @@ wages-fund-doctrine,Wages Fund Doctrine,concepts,https://www.progress.org/wiki/w
 walks-toronto-income-polarization,"Walks, Dinca-Panaitescu & Simone (2016): Income Inequality and Polarization in the City of Toronto and York Region",research,https://www.progress.org/wiki/walks-toronto-income-polarization/,2,5,1110,false,false,2026-07-15
 wallace-oates,Wallace E. Oates,people,https://www.progress.org/wiki/wallace-oates/,3,11,1276,false,false,2026-07-04
 watson-guettabi-reimer-cash-crime,Universal Cash and Crime (Alaska PFD),research,https://www.progress.org/wiki/watson-guettabi-reimer-cash-crime/,3,5,618,false,false,2026-07-11
-wealth-of-nations,The Wealth of Nations (Smith),books,https://www.progress.org/wiki/wealth-of-nations/,10,13,3112,false,false,2026-07-12
+wealth-of-nations,The Wealth of Nations (Smith),books,https://www.progress.org/wiki/wealth-of-nations/,11,15,4004,false,false,2026-07-18
 werner-princes-of-the-yen,Princes of the Yen: Japan's Central Bankers and the Transformation of the Economy,research,https://www.progress.org/wiki/werner-princes-of-the-yen/,4,6,636,false,false,2026-07-12
 wertzuwachssteuer-germany,'The German Reich Wertzuwachssteuer (1911–1913): A National Increment Tax That,research,https://www.progress.org/wiki/wertzuwachssteuer-germany/,5,9,2075,false,false,2026-07-11
 weyl-zhang-depreciating-licenses,'Weyl & Zhang (2017): Depreciating Licenses',research,https://www.progress.org/wiki/weyl-zhang-depreciating-licenses/,1,6,370,false,false,2026-07-11

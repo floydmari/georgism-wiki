@@ -35,6 +35,16 @@ George's argument proceeds in three major stages:
 
 3. **The remedy.** George proposes a single tax on land values — sufficient to replace all other taxes — which would capture the unearned increment for the community while leaving wages and capital untaxed.
 
+## How the Book Was Written
+
+The fullest account of the book's composition is George's son's 1900 biography, written from the family's own memory and papers. The main work took place in a house on First Street, San Francisco, in a workroom — "large and light... three windows looking out on the bay" — furnished mainly with George's library of "nearly eight hundred volumes," supplemented by borrowings from the city's four public libraries. George wrote at irregular hours, often through the night: "Sometimes it fell in the middle of the night, when sleep was coy and thought surged. Brilliant passages of his book came in these hours, as by voluntary gift, and his pen ran rapidly over the paper." His declared motto for the endless revision that followed first drafts was "What makes easy reading is hard writing." His eldest son (the biographer) served as amanuensis; Dr. Edward R. Taylor, a San Francisco physician-lawyer-poet, was "the only man who read all of the manuscript and subsequently all of the proofs" (Henry George Jr., *Life of Henry George*, 1900, Second Period, Ch. X). (A-claim; documented from family papers and named informants)
+
+George finished the manuscript in mid-March 1879, "almost a year and a half" after starting. He later described the moment of finishing the final chapter: "On the night in which I finished the final chapter of 'Progress and Poverty,' I felt that the talent intrusted to me had been accounted for — felt more fully satisfied, more deeply grateful than if all the kingdoms of the earth had been laid at my feet." A fuller, more private account survives in a February 1883 letter to Rev. Thomas Dawson of Glencree, Ireland, quoted in full by the biographer from the original manuscript — never seen by anyone but Father Dawson until after George's death:
+
+> "And when I had finished the last page, in the dead of night, when I was entirely alone, I flung myself on my knees and wept like a child. The rest was in the Master's hands. That is a feeling that has never left me." (Henry George to Rev. Thomas Dawson, 1 February 1883, quoted in Henry George Jr., *Life of Henry George*, 1900, Second Period, Ch. X)
+
+The same letter records the "flash-like revelation" George traced his whole argument to — a moment years earlier, "checking my horse on a rise that overlooks San Francisco Bay," when "the commonplace reply of a passing teamster to a commonplace question crystallised, as by lightning-flash, my brooding thoughts into coherency" (quoted from George's own 1897 preface to *The Science of Political Economy*, in the same chapter of the biography; see [Henry George](/wiki/henry-george/) for the fuller episode). (A-claim; George's own letter and later autobiographical account, both directly quoted by the biographer)
+
 ## In George's Own Words
 
 George illustrates that land value is created by the presence of the community, not by the soil itself, with his famous **unbounded-savannah** thought experiment: a lone settler on uniform, fertile land is materially poor, and each new arrival makes the earlier settlers' locations more valuable until "[l]abor has now an effectiveness which, in the solitary state, it could not approach."
@@ -68,6 +78,7 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 - [Margin of Production](/wiki/margin-of-production/)
 
 - [Henry George](/wiki/henry-george/) — the author
+- [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the primary biography's account of the book's writing, full public-domain text in-repo
 - [The Crime of Poverty](/wiki/crime-of-poverty/) (1885) — George's popular-lecture distillation of this book's argument, held in full
 - [Land Value Tax](/wiki/land-value-tax/) — the policy George proposes
 - [Economic Rent](/wiki/economic-rent/) — the theoretical foundation
@@ -79,3 +90,4 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 
 1. Henry George (1879), *Progress and Poverty*. **Complete text hosted on this wiki:** [Progress and Poverty — full text](/wiki/progress-and-poverty-full-text/) — the text of the Memorial Edition of the *Writings of Henry George*, Vol. I (New York: Doubleday & McClure, 1898), reproducing George's revised text (Preface to the Fourth Edition, dated November 1880), transcribed from [Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308), fetched 2026-07-11, Gutenberg boilerplate stripped top and bottom with no modernization (EDITORIAL §3b). Also available: [full text at henrygeorge.org](https://www.henrygeorge.org/pcontents.htm). — used as the primary text for George's argument, structure, and central claims summarised on this page (public domain).
 2. Authoritative editions published by the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used as the standard modern edition and custodian of the text.
+3. Henry George Jr. (1900), *Life of Henry George*, Second Period, Ch. IX–X — public domain, reproduced on this wiki: [life-of-henry-george](/wiki/life-of-henry-george/). Used for the composition history (the First Street workroom, writing method, Dr. Taylor's role as sole reader of the full manuscript), the finishing-night quote, and the 1883 letter to Father Dawson describing weeping on finishing the book (A-claims; direct quotation verified against the repo-hosted full text; filial biography, so read the finishing-night framing as the son's, the letter text itself as primary).

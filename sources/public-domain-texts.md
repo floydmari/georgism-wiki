@@ -23,7 +23,7 @@ This tracker drives Floyd's standing request: *add as `texts/` any and all publi
 
 ## To add — confirmed fetchable, next up
 - [x] **Henry George, *The Irish Land Question* (1881, Appleton)** → texts/irish-land-question-1881 *(created 2026-07-10; ~31.5k words, 17 chapters, programmatic transcription from archive.org irishlandquestio00geor with T1 artifact pass; T2 image-proofread queued)*
-- [ ] Henry George Jr., *The Life of Henry George* (1900) — PD, full text at archive.org (lifeofhenrygeorg00geor); large (book-length) → `sources/publicdomain/` channel; already cited as a primary on 3+ pages.
+- [x] Henry George Jr., *The Life of Henry George* (1900) — PD, full text at archive.org (lifeofhenrygeorg00geor) *(full text already in `sources/publicdomain/life-of-henry-george.md` + `books/life-of-henry-george.md` summary as of the 2026-07-09 ingest wave; READ&MINE completed 2026-07-18: mined into books/progress-and-poverty.md (composition history — the "wept like a child" episode), people/henry-george.md (the 1871 "flash of insight"), events/1886-nyc-mayoral-election.md (Ivins exchange, vote totals, Bunker Hill speech), people/michael-davitt.md (Loughrea/Athenry arrests), plus two new stubs: people/edward-mcglynn.md and events/1897-nyc-mayoral-campaign.md, and organizations/anti-poverty-society.md. registry.csv In-Wiki Citations 2→10)*.
 
 ## Full public-domain BOOKS we cite (→ `sources/publicdomain/`, not `texts/`)
 These are on Gutenberg/archive and could be mirrored in full to the publicdomain store beside their `books/` summary; large, so lower priority than the short works above.

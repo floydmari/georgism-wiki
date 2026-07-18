@@ -165,11 +165,18 @@ provenance — do not re-plan.]**
       over old BACKLOG prose.
 
 ### Public-domain texts program (sources/public-domain-texts.md; 12 texts/ pages live)
-- [ ] [READ&MINE] tier:T2 status:todo — NEXT TARGET: Henry George Jr., *The Life of Henry
-      George* (1900), archive.org lifeofhenrygeorg00geor — book-length, so
-      `sources/publicdomain/` channel (not texts/); already cited as primary on 3+ pages.
-      Then per the file's list: Mill Principles (Gutenberg 30107), Progress & Poverty
-      (55308), Garden Cities (46134), Pigou Welfare (Econlib), Hoyt 1933 (check renewal).
+- [x] [READ&MINE] tier:T2 status:done (2026-07-18) — Henry George Jr., *The Life of Henry
+      George* (1900) full text was already ingested (2026-07-09 wave: books/life-of-henry-george.md
+      + sources/publicdomain/life-of-henry-george.md, Scan Depth Heavy). This shift did the
+      READ&MINE: mined chapters III (1871 "flash of insight"), IX-X (P&P composition, "wept
+      like a child"), VIII-IX (1886 campaign, McGlynn/excommunication), IV (Loughrea/Athenry
+      arrests), XIV (1897 death) into books/progress-and-poverty.md, people/henry-george.md,
+      events/1886-nyc-mayoral-election.md, people/michael-davitt.md; new sourced stubs
+      people/edward-mcglynn.md, events/1897-nyc-mayoral-campaign.md,
+      organizations/anti-poverty-society.md. registry.csv In-Wiki Citations 2→10; dated
+      export regenerated. NEXT for this ledger: Mill Principles (Gutenberg 30107),
+      Progress & Poverty (55308), Garden Cities (46134), Pigou Welfare (Econlib), Hoyt 1933
+      (check renewal).
 
 ---
 

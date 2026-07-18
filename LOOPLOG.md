@@ -1047,3 +1047,31 @@ DEBUNKED — it's monetary policy, not betterment). COST enriched with real Taiw
 performance data (Lam & Tsui 1998 read in full: LVIT capture ~32% of assessed vs 40-100%
 statutory, Taipei 1979-93); Niou & Tan 1994 genuinely paywalled, logged for Hermes.
 needs-new-source channel now EMPTY. 846 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — READ&MINE: Life of Henry George (Henry George Jr., 1900)
+
+BACKLOG public-domain-texts NEXT TARGET. Pre-check confirmed the full text was already
+ingested (2026-07-09 wave: books/life-of-henry-george.md + sources/publicdomain/
+life-of-henry-george.md, Scan Depth Heavy) — this shift's job was the READ&MINE, not
+the ingest. Read strategically by chapter (Second Period Ch. III "flash of insight,"
+Ch. IX-X P&P composition; Third Period Ch. VIII 1886 campaign, Ch. IX Standard/
+Anti-Poverty Society/McGlynn excommunication, Ch. IV Loughrea-Athenry Irish arrests,
+Ch. XIV the 1897 death). Delta-mined into books/progress-and-poverty.md (new "How the
+Book Was Written" section — the First Street workroom, Dr. Taylor's role, the
+finishing-night quote, and the verbatim 1883 Dawson letter: "I flung myself on my
+knees and wept like a child"), people/henry-george.md (the teamster "flash of insight"
+quote + richer 1886/1897 political-career detail), events/1886-nyc-mayoral-election.md
+(Ivins "raise hell" exchange, exact vote totals 90,552/68,110/60,135, Cooper Union
+speech, Bunker Hill speech, Hewitt's letter — page was previously thin and lacked vote
+totals entirely), people/michael-davitt.md (corrected/enriched the Athenry note — it
+was actually two separate arrests, Loughrea then Athenry, with the Eton-master Joynes
+detail and George's own account). Three new sourced stubs for figures/events the
+biography showed were real gaps: people/edward-mcglynn.md (excommunicated ally,
+including the 1892 Satolli reinstatement — richer than expected, found in Ch. XIII),
+events/1897-nyc-mayoral-campaign.md (the fatal second run), organizations/
+anti-poverty-society.md. All quotes PD-exempt from the 50-word cap (pd_quotes: true
+added where flagged). registry.csv In-Wiki Citations for this source: 2→10; dated
+export regenerated (sources/exports/registry-export-2026-07-18.csv). BACKLOG line
+flipped to done. 849 pages, lint 0 errors, 30 warnings (unchanged by this wave — all
+new-page warnings resolved). No commit (per task instruction) — working tree has the
+changes.
