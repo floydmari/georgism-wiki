@@ -89,6 +89,8 @@ blanket levy — and the calibration is where the genuine disagreement lives.
 - [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/)
 - [Geoism](/wiki/geoism/) — the rent-domain program and its gradient
 - [Spectrum Auctions](/wiki/spectrum-auctions/) — the sibling "capture a government-granted privilege" case
+- [Taxing Tech Rents](/wiki/taxing-tech-rents/) — the neighboring platform/data-rent instrument comparison, and why it treats IP as a distinct domain rather than a sixth family
+- [Against Intellectual Monopoly (Boldrin & Levine)](/wiki/boldrin-levine-against-intellectual-monopoly/) · [Prizes vs Patents](/wiki/prizes-vs-patents/) — the abolitionist and capture-via-buyout poles, developed
 
 ## Sources
 

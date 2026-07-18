@@ -210,10 +210,26 @@ provenance — do not re-plan.]**
       concepts/seigniorage.md, wired into bank-money-creation.md, positive-money.md,
       new-economics-foundation.md. Lint 0 errors/850→851 pages. Registry rows added
       (Huber-Robertson, Beneš-Kumhof) and Cochrane row upgraded Light→Heavy. **IP-rents
-      remainder (Boldrin-Levine, prize-vs-patent) NOT done — split out below, still open.**
-- [ ] [FIND] tier:T2 status:todo — WS-GEOISM IP-rents remainder: Boldrin-Levine
-      (*Against Intellectual Monopoly*) and the prize-vs-patent literature, to finish
-      the platform/data/IP lane (concepts/data-rents already live).
+      remainder note was stale** — see correction below.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — WS-GEOISM IP-rents remainder:
+      Boldrin-Levine and prize-vs-patent. Inventory found this note was stale: both
+      research/boldrin-levine-against-intellectual-monopoly.md (Tier Important, Scan
+      Depth Medium — thesis, ch.8's 23-study "weak or no evidence" finding, Watt's
+      steam engine, the pharma chapter addressed head-on as the hardest case) and
+      research/prizes-vs-patents.md (Wright 1983 mechanism-choice theory, Kremer 1998
+      patent-buyout-then-public-domain, the pneumococcal AMC field result) already
+      existed and were wired (commit 620c8e5, 2026-07-11) into concepts/ip-rents.md
+      and objections/taxing-quasi-rents-kills-innovation.md's Response section, with
+      registry rows present (3 rows, Scanned). Genuinely open piece was the
+      instrument-comparison call: read concepts/taxing-tech-rents.md's five families
+      and judged IP does NOT belong as a sixth family there — platform rent is a
+      structural moat, patent rent exists only because a statute grants it, so the
+      remedies act on different objects. Added a "Why Patents Aren't a Sixth Family
+      Here" section to taxing-tech-rents.md explaining the call and cross-linking
+      ip-rents/boldrin-levine/prizes-vs-patents, plus reciprocal See Also links both
+      directions. Rent-gradient discipline verified present on both research pages
+      (Schumpeterian objection given its due, pharma/hardest-case honestly flagged,
+      no land-certainty bleed). Lint 0 errors.
 - [x] [READ&MINE] tier:T2 status:done (verified 2026-07-15, session 2z2oww) —
       research/foldvary-reply-gochenour-caplan exists and is fully wired
       (bears_on: search-theoretic-critique + lvt-austrian-critique; registry row 515;

@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, data-rents, platform-economy, rent-targeting-taxes, digital-services-tax, interoperability, geoism, quasi-rent]
 stub: false
 excerpt: "How would you actually capture platform and data rents? Five instrument families graded — rent-targeting corporate taxes (ACE/DBCFT), digital services taxes, Romer's progressive ad tax, data dividends, and rent-dissolution via antitrust/DMA — against one hard prior: whether big-tech profit is rent or the quasi-rent that rewards real innovation is genuinely disputed."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-18
 ---
 
 ## The Question
@@ -74,6 +74,29 @@ wiki steelmans at
 return that motivated an invention is not free to tax the way a location windfall is.* Grades
 here are grades on **aim and incidence**, not verdicts that the rents are large or that
 capture is warranted.
+
+## Why Patents Aren't a Sixth Family Here
+
+Patents and copyright are the other government-created rent this wiki treats as frontier —
+see [Intellectual-Property Rents](/wiki/ip-rents/) — and the same capture-vs-dissolve split
+shows up there: [Kremer's patent-buyout mechanism](/wiki/prizes-vs-patents/) is capture (the
+state buys the rent at auction-revealed value and puts the invention in the public domain),
+and [Boldrin & Levine's abolitionist case](/wiki/boldrin-levine-against-intellectual-monopoly/)
+is dissolve (deny the monopoly ever needed granting). It is tempting to fold IP into the table
+below as a sixth instrument family; this page's judgment is not to. **What generates the rent
+differs in kind.** Platform rent (this page) comes from a *structural* moat — network effects,
+accumulated data, gatekeeping — that exists whether or not government acts on it; that is why
+antitrust and interoperability can dissolve it without touching a statute. Patent rent exists
+*only because a government grants an exclusive right*: without the statute there is no monopoly
+to tax or dissolve, so "dissolve" there means reform or abolish the grant, not break up a firm.
+The instruments accordingly act on different objects — ACE/DBCFT, DSTs and interoperability act
+on firms that already exist and compete; patent buyouts, term/scope reform and abolition act on
+the grant itself, upstream of any firm. A dominant platform can hold a large patent portfolio
+too, but taxing its platform rent and its patent rent are different design questions with
+different instruments, and grading them on one axis would understate how the IP case's own
+evidence and objections differ from the platform case's (see [ip-rents' Honest
+Limits](/wiki/ip-rents/) and the shared [quasi-rents objection](/wiki/taxing-quasi-rents-kills-innovation/),
+which both domains answer to but in different ways).
 
 ## The Grades at a Glance
 
@@ -288,6 +311,7 @@ claim no more certainty than that on the AI frontier.
 ## See Also
 
 - [Platform and Data Rents](/wiki/data-rents/) — the diagnosis these instruments act on · [Geoism](/wiki/geoism/) — the rent-domain program and its gradient
+- [Intellectual-Property Rents](/wiki/ip-rents/) — the sibling frontier-rent domain (statutory monopoly grant, not structural moat) · [Prizes vs Patents](/wiki/prizes-vs-patents/) · [Against Intellectual Monopoly (Boldrin & Levine)](/wiki/boldrin-levine-against-intellectual-monopoly/)
 - [Allowance for Corporate Equity](/wiki/allowance-for-corporate-equity/) · [Cash-Flow Tax](/wiki/cash-flow-tax/) — the rent-only corporate bases
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) · [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — the two capture-side revenue taxes
 - [Furman Review](/wiki/furman-review-digital-competition/) · [The Digital Markets Act](/wiki/dma-interoperability-dissolution/) — the dissolve pole, diagnosis and legislation
