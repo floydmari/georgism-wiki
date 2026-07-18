@@ -14,7 +14,7 @@ The **Robert Schalkenbach Foundation** (RSF), founded in 1925, is the oldest org
 
 ## Role in the Field
 
-For nearly a century RSF has been the custodian of George's intellectual legacy: it publishes authoritative editions of *[Progress and Poverty](/wiki/progress-and-poverty/)* and George's other works, funds academic work (including an endowed chair), and supports the *American Journal of Economics and Sociology*. In recent years it has aligned with the Progress and Poverty Institute, broadening into contemporary policy research and analysis of LVT legislation.
+For nearly a century RSF has been the custodian of George's intellectual legacy: it publishes authoritative editions of *[Progress and Poverty](/wiki/progress-and-poverty/)* and George's other works, funds academic work (including an endowed chair), and supports the *American Journal of Economics and Sociology*. In recent years it has aligned with the [Progress and Poverty Institute](/wiki/progress-and-poverty-institute/), broadening into contemporary policy research and analysis of LVT legislation.
 
 ## Significance
 

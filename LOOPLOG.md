@@ -1349,3 +1349,22 @@ rent-seeking 346→802 (growth-cost + tax-design sections); split-rate-taxation
 355→673 (the four land-value duties with statutory rates from the book page).
 Warning count verified unchanged vs baseline (git-stash comparison). ~400 pages
 from later cohorts left for future recurring batches. 863 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: stub-queue leftovers (3 backfills created, 4 honest skips)
+
+All three NAMED candidates (sector-model, margin-of-production, progress-and-
+poverty-institute) turned out to ALREADY EXIST fully written — stale backlog notes;
+P&P-institute was below the accept bar at 1 inbound and got wired to 4. Real
+output = the lloyd-george/BC backfill candidates, accept-bar-tested one by one:
+CREATED people/henry-george-jr.md (8+ citing pages, Congress Bioguide/House
+Historian verified; 1897-candidacy detail honestly left thin rather than padded),
+organizations/bc-assessment-authority.md (BC Assessment's own corporate history,
+3 inbound), events/parliament-act-1911.md (5 near-duplicate passages across UK
+pages consolidated into one linkable home, primary statute cited, 5 inbound).
+SKIPPED with reasons: 1913-bc-crash (already fully treated on vancouver/l-d-taylor,
+a page would duplicate), land-enquiry-committee (1 substantive mention — fails
+bar), 1925-green-book (only the discovering page mentions it), balfour (all 5
+mentions tangential, confirming the backlog's own caveat). Registry rows deferred
+to scratchpad (Gaffney agent holds the registry lock this round); inventory regen
+deferred to wave close. Lint 0 errors at agent close (867 pages incl. Gaffney
+agent's in-flight work).

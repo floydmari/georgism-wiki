@@ -264,6 +264,6 @@ new independent evidence.
    directly with the "54% of homeowners paid more" finding, a more precise figure than the
    Cincinnati report's unverified "14 poorest / 18 wealthiest districts" claim.
 4. Greg Miller & Stephen Hoskins (2025-26), "New Reports: Land Value Taxes in College Towns,"
-   Progress and Poverty Institute — [wiki summary](/wiki/miller-hoskins-college-town-lvt/) —
+   [Progress and Poverty Institute](/wiki/progress-and-poverty-institute/) — [wiki summary](/wiki/miller-hoskins-college-town-lvt/) —
    used as the comparison genre (the same SPN/CLE partnership's prior South Bend and
    Princeton simulations) and for the grading pattern this entry follows.

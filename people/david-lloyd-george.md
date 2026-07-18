@@ -18,7 +18,7 @@ since. His 1909 "People's Budget" introduced land value duties framed as recover
 "[unearned increment](/wiki/unearned-increment/)" created by the community rather than the
 landowner;[1] his Limehouse speech defending them became one of the most quoted moments in the
 history of land taxation; and the House of Lords' rejection of the budget triggered a
-constitutional crisis that produced the Parliament Act 1911.[2] The land duties he introduced
+constitutional crisis that produced the [Parliament Act 1911](/wiki/parliament-act-1911/).[2] The land duties he introduced
 proved administratively unworkable and were wound down within a decade, and his subsequent
 1913–14 Land Campaign was cut short by the First World War — but the episode remains the
 clearest example of land value taxation reaching mainstream governing power in a major

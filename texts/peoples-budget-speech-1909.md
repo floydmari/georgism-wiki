@@ -21,7 +21,7 @@ On April 29, 1909, David Lloyd George — then Chancellor of the Exchequer in As
 
 The budget also proposed new valuations of all land in the United Kingdom, separating the value of land from the value of improvements — a necessary precondition for any land value tax.
 
-The House of Lords rejected the budget — an unprecedented constitutional crisis that ultimately led to the Parliament Act 1911. The land valuations proceeded, but the land duties were repealed in 1920 before they had been fully implemented.
+The House of Lords rejected the budget — an unprecedented constitutional crisis that ultimately led to the [Parliament Act 1911](/wiki/parliament-act-1911/). The land valuations proceeded, but the land duties were repealed in 1920 before they had been fully implemented.
 
 Lloyd George's speech contains some of the most stirring rhetoric in British parliamentary history on the subject of land monopoly. He quotes Henry George directly, and his attack on the landed aristocracy — holding millions of acres while children starved in the slums below — is among the most celebrated passages of Edwardian politics.
 

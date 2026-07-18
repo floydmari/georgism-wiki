@@ -13,7 +13,7 @@ The **People's Budget** of 1909, introduced by Chancellor **[David Lloyd George]
 
 ## The Constitutional Crisis
 
-The budget passed the House of Commons but was **rejected by the House of Lords** — dominated by landowners — breaking a long convention that the Lords did not block finance bills. The ensuing crisis led to two general elections in 1910 and ultimately the **Parliament Act 1911**, which permanently stripped the Lords of the power to veto money bills.
+The budget passed the House of Commons but was **rejected by the House of Lords** — dominated by landowners — breaking a long convention that the Lords did not block finance bills. The ensuing crisis led to two general elections in 1910 and ultimately the **[Parliament Act 1911](/wiki/parliament-act-1911/)**, which permanently stripped the Lords of the power to veto money bills.
 
 ## The Land Value Duties
 
