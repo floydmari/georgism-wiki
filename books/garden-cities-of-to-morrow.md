@@ -82,7 +82,7 @@ Howard envisions Garden Cities proliferating in a network, with each city of ~30
 
 - [Land Value Tax](/wiki/land-value-tax/) — Howard's rate-rent proposal is a form of LVT applied at the municipal level
 - [Land Speculation](/wiki/land-speculation/) — Howard's model explicitly seeks to prevent land speculation through communal ownership
-- [Citizens Dividend](/wiki/citizens-dividend/) — the surplus revenue from rate-rent funding social welfare echoes the citizen's dividend concept
+- [Citizen's Dividend](/wiki/citizens-dividend/) — the surplus revenue from rate-rent funding social welfare echoes the citizen's dividend concept
 - [Georgism](/wiki/georgism/) — Howard was influenced by Henry George; the land-value capture mechanism is Georgist in inspiration
 - [Ebenezer Howard](/wiki/ebenezer-howard/) — author page
 
@@ -92,7 +92,7 @@ Howard envisions Garden Cities proliferating in a network, with each city of ~30
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Land Speculation](/wiki/land-speculation/)
 - [Georgism](/wiki/georgism/)
-- [Citizens Dividend](/wiki/citizens-dividend/)
+- [Citizen's Dividend](/wiki/citizens-dividend/)
 
 ## Sources
 
