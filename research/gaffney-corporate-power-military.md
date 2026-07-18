@@ -133,7 +133,7 @@ scale of national foreign policy, as an instance of rent-seeking — extending t
 wiki's rent-seeking material (previously confined to domestic lobbying, licensing,
 and tax privilege) to geopolitics and war.
 
-## Priority Note: The 1988 Precursor
+## Priority Note: The 1988 Precursor, and an Earlier 1972 Original
 
 A much shorter (roughly 1,500-word) 1988 conference summary by Gaffney alone,
 "[Rent-Seeking and Global Conflict](/wiki/gaffney-rent-seeking-global-conflict/)"
@@ -149,6 +149,30 @@ declassified CIA sources unavailable in 1988). Both papers are read in full for
 this page; the 1988 piece is cited only for its priority (the caciques framework
 and land-tenure-first argument were already substantially formed by 1988) and does
 not receive a separate registry row.
+
+**A further priority correction (2026-07-18):** the caciques/rent-seeking-military
+argument is documented substantially earlier still, in Gaffney's own 43-page 1972
+paper "Benefits of Military Spending: An Inquiry into the Doctrine that National
+Defense is a Public Good" (presented at the 10th Annual TRED Conference, Madison,
+Oct. 25, 1971, updated to March 1972) — predating this 2018 paper by 46 years and
+the 1988 summary by 16 years.[3] The 1972 paper is, if anything, the more fully
+developed precursor of the two: it already names "caciques" as a formal three-class
+typology of beneficiaries (caciques, European/Japanese-based firms, U.S.
+multinationals), rejects the "public good" defense-spending framing on the same
+land-tenure-first grounds, and documents the Guatemala 1954 (Árbenz/United Fruit)
+and Iran 1953 (Mossadegh, dated in the paper's text as "1954") coup case studies
+this 2018 paper also carries — a full 46 years before this paper's fuller sourcing
+of the same episodes.[3] It also develops an economic-accounting argument this page's
+1988/2018 pair does not carry in the same depth: multinational firms' offshore asset
+values are shown, via capital-flow, plow-back, and appreciation data (Aramco,
+Bahrein Petroleum, Caltex), to vastly exceed cumulated US capital outflows —
+evidence for the "capitalized value of the flag" thesis independent of the case
+studies. This page's research read roughly the first fifth of the 1972 paper in
+detail (the public-good critique, the caciques typology, the multinational-stake
+accounting, and the conclusion) plus its structure throughout; it was not mined
+section-by-section into new page content here, consistent with the wiki's priority-
+correction convention of naming the earliest source and pointing to the fuller
+existing treatment rather than re-deriving the argument a third time.
 
 ## Policy Proposal
 
@@ -205,7 +229,7 @@ rather than a claim that no defense spending is a public good.[1]
 
 ## See Also
 
-- [Gaffney (1988), Rent-Seeking and Global Conflict](/wiki/gaffney-rent-seeking-global-conflict/) — the short 1988 precursor to this paper
+- [Gaffney (1988), Rent-Seeking and Global Conflict](/wiki/gaffney-rent-seeking-global-conflict/) — the short 1988 precursor to this paper (itself predated by the 1972 paper above)
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Resource Rents](/wiki/resource-rents/)
 - [Rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/)
@@ -227,3 +251,12 @@ rather than a claim that no defense spending is a public good.[1]
    used for the priority note. [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/L2Rent-Seeking_and_Global_Conflict.CV.pdf);
    local mirror at `sources/gaffney/text/L2-RentSeekingGlobalConflict.txt`.
+3. Mason Gaffney (1972), "Benefits of Military Spending: An Inquiry into the
+   Doctrine that National Defense is a Public Good," presented at the 10th Annual
+   Conference, Committee on Taxation, Resources and Economic Development, Madison,
+   Oct. 25, 1971, updated to March 29, 1972 — used for the further priority
+   correction above; a substantial portion (the public-good critique, caciques
+   typology, and conclusion) read in detail, remainder skimmed for structure. [Free
+   PDF
+   (masongaffney.org)](https://masongaffney.org/workpapers/1972_Benefits_of_Military_Spending.pdf);
+   local mirror at `sources/gaffney/text/1972-BenefitsOfMilitarySpending.txt`.

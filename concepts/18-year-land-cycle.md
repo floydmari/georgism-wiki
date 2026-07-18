@@ -89,6 +89,23 @@ estate) and 1929 (stocks).[7] "The interplay of these two cycles," he writes,
 attributed, un-tested interpretive framework (D-claim) layered on top of, not a
 substitute for, the endogenous-cycle evidence documented above.
 
+**Priority correction (2026-07-18):** the peace-dividend overlay-cycle thesis
+restated in this 2012 lecture is not new to it. Two earlier Gaffney workpapers —
+"[Peace Dividends, Land Bubbles and Economic Disasters in U.S.
+History](/wiki/gaffney-peace-dividends-land-booms/)" (1991) and "Peace Dividends
+and Land Booms in World History" (2005) — state the same thesis 21 and 7 years
+earlier respectively, in fuller form: the 1991 paper works out the Versailles/
+1920s-boom and postwar-interruption cases (both cited again in 2012) in
+considerably more analytical detail, and the 2005 paper independently lists the
+Utrecht/Mississippi-Bubble and Guadalupe-Hidalgo cases (also cited again in 2012)
+among a seven-century chronology drawing on an obscure French land-price source
+(Levasseur, 1892–93) the 2012 lecture does not cite. The 2012 lecture is not a mere
+restatement — it adds the 1990–2008 "perfect 18-year cycle" case study (Riverside,
+California land prices, Proposition 13, Glass-Steagall repeal) absent from the
+earlier two — but the underlying overlay-cycle framework itself was already
+substantially formed by 1991. See [the dedicated page on the 1991/2005
+pair](/wiki/gaffney-peace-dividends-land-booms/) for the full treatment.
+
 Gaffney restates the endogenous cycle's mechanism as a five-step "reverberation"
 between land prices and bank credit — a recovery raises land prices, which draws
 banks from short-term commercial lending toward longer-term real-estate collateral

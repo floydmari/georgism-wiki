@@ -1713,3 +1713,23 @@ the corpus — priority correction into nimbyism, third independent derivation i
 land-monopoly, context into lvt-dampens-land-speculation. Registry +1; inventory
 regenerated. 884 pages, lint 0 errors. Gaffney lane state: 38+ works read in
 full, ~23 ranked candidates queued, triage ledger authoritative.
+
+## 2026-07-18 (cont.) — Wave: Peace Dividends pair + 1972 military-spending priority
+
+research/gaffney-peace-dividends-land-booms.md created (885th page) from WP048
+(1991, King's College IU meetings — 4pp) + WP049 (2005 teaching module — 7pp,
+course-outline provenance flagged): the peace-dividend overlay cycle in full —
+PRIORITY CORRECTION on 18-year-land-cycle, which had credited the thesis solely
+to the 2012 AFEE lecture (WP048 predates by 21 years, incl. the missing-1912-slump
+and WWII-interruption analyses; WP049's seven-century sweep uses Levasseur
+1892-93, cited nowhere else on the wiki). Bonus wiring: objections/cycles-are-
+credit-not-land gains the boundary-condition point that pre-modern-banking-era
+land booms sit outside the credit school's 1870-onward evidence base. Gaffney's
+own "evidence needed" hedges preserved; no statistical test claimed. The 1972
+"Benefits of Military Spending" (TRED, 53pp) proved MORE significant than its
+#5 ranking: the true earliest caciques/military-rent-seeking source (16 years
+before the 1988 summary, 46 before Gaffney-Cobb), already containing the
+Guatemala/Iran cases — priority notes added to both military pages per the
+no-re-derivation pattern; read ~20% + structure (Sections D-G surveyed only,
+redundant with existing coverage — recorded, not hidden). Registry +3 rows;
+triage annotations resolved; inventory regenerated. 885 pages, lint 0 errors.

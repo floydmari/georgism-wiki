@@ -5,7 +5,7 @@ tags: [objections, business-cycle, credit, finance, land-speculation, 18-year-cy
 stub: false
 status: "Partly conceded — the pure 'autonomous land clock' claim is the wiki's weakest, and the credit critique lands against it; the defensible claim is that land is the dominant collateral through which credit booms run, so the two accounts describe one machine and their remedies are complements."
 excerpt: "The credit school argues the boom-bust regularity that actually predicts crises is credit growth, not land speculation (Schularick & Taylor: 'credit booms gone wrong'), and Minsky-style leverage dynamics need no land to generate cycles. The steelman, why land and credit are largely the same phenomenon in the mortgage book, and what the wiki should stop overselling."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -88,6 +88,16 @@ economy, **land and credit are largely the same phenomenon seen from two sides.*
   credit school disputes, not an econometric test of it — but it predates, and
   independently anticipates, the same reply Foldvary later gave in his 1997 peer-reviewed
   paper.
+- **A pre-modern-banking-era boom/bust pattern.** Mason Gaffney's [Peace Dividends,
+  Land Bubbles, and Land Booms](/wiki/gaffney-peace-dividends-land-booms/) (1991/2005)
+  documents a peace-treaty/tax-relief-driven land-boom pattern recurring across seven
+  centuries, including episodes (1259, 1431, 1509–29, 1648) that predate the
+  fractional-reserve banking systems the credit school's own evidence base covers
+  (Schularick & Taylor's dataset begins in 1870). This is not offered as a rebuttal of
+  the credit-school evidence for the modern era — Gaffney does not make that argument —
+  but it is a boundary condition worth noting: whatever the credit school's data show
+  about 1870-onward crises, it cannot be the *whole* explanation for a pattern with
+  pre-banking-era antecedents.
 
 So the two schools are describing one machine. Where they genuinely differ is the
 **remedy**: the credit school reaches for the banking side (macroprudential limits,

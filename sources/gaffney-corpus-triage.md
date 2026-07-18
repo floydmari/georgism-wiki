@@ -18,8 +18,45 @@ gaffney-containment-policies-urban-sprawl, gaffney-land-as-element-of-housing-co
 gaffney-water-rent-taxation, gaffney-nonpoint-pollution, gaffney-property-tax-progressive,
 gaffney-noyes-income-stimulating-property-tax, gaffney-real-assets-model-china,
 gaffney-corporate-power-military, gaffney-rent-seeking-global-conflict,
-gaffney-full-employment-limited-land, gaffney-tax-reform-release-land;
+gaffney-full-employment-limited-land, gaffney-tax-reform-release-land,
+gaffney-peace-dividends-land-booms;
 narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-18 (Peace Dividends pair mined + 1972 priority correction — first
+future-wave-candidate pass):** Mined the top two ranked future candidates from
+the burn-down wave below. **WP048 + WP049** ("Peace Dividends, Land Bubbles and
+Economic Disasters in U.S. History," 1991, and "Peace Dividends and Land Booms
+in World History," 2005) — read in full — gave a new dedicated page,
+[research/gaffney-peace-dividends-land-booms](/wiki/gaffney-peace-dividends-land-booms/),
+and delivered a genuine priority correction on
+[concepts/18-year-land-cycle](/wiki/18-year-land-cycle/): the peace-dividend
+"overlay cycle" thesis credited there to Gaffney's 2012 AFEE lecture is
+documented up to 21 years earlier (1991) and 7 years earlier (2005), in fuller
+form, with the 2005 paper adding an unused primary source (Levasseur's 1892-93
+French land-price history) spanning seven centuries. Also wired as a new
+supporting bullet on [objections/cycles-are-credit-not-land](/wiki/cycles-are-credit-not-land/)
+(pre-modern-banking-era land-boom episodes as a boundary condition on the
+credit school's 1870-onward evidence base). **`1972_Benefits_of_Military_Spending`**
+(ranked #5, flagged as a priority correction) — substantially read (public-good
+critique, caciques typology, multinational-stake accounting, conclusion; full
+structure surveyed) — proved to be an even earlier and more fully developed
+statement of the caciques/rent-seeking-military argument than the 1988 summary
+previously credited as the wiki's earliest source: it predates the 1988 paper
+by 16 years and the 2018 Gaffney & Cobb treatise by 46 years, and already
+carries the Guatemala 1954 and Iran 1953 case studies both later papers repeat.
+Per the established priority-correction pattern (earliest statement named,
+later pages cross-referenced, no re-derivation), it received priority notes on
+both [research/gaffney-corporate-power-military](/wiki/gaffney-corporate-power-military/)
+and [research/gaffney-rent-seeking-global-conflict](/wiki/gaffney-rent-seeking-global-conflict/)
+rather than its own dedicated page — its other distinctive content (a
+capital-flows/plow-back/appreciation accounting argument for the "capitalized
+value of the flag" thesis, Section F's tax-recoupment catalogue) substantially
+overlaps ground the 2018 paper and concepts/resource-rents already cover. Three
+new registry rows (WP048/WP049 tier `important`, Scan Depth Heavy; 1972 piece
+tier `supplementary`, Scan Depth Medium — cited but not dedicated-page-mined).
+Text mirrors for all three at `sources/gaffney/text/WP048-*`,
+`sources/gaffney/text/WP049-*`, and `sources/gaffney/text/1972-*`.
+`lint_wiki.py`: 0 errors.
 
 **2026-07-18 (workpapers/essays triage complete — the corpus burn-down's
 final wave):** Skim-triage swept the entire remaining tail: all 65 unchecked
@@ -84,13 +121,10 @@ OCR needed). Text mirrored to `sources/gaffney/text/E4-TaxReformtoReleaseLand.CV
 
 **Future-wave candidates, ranked:**
 
-1. **WP048 + WP049, "Peace Dividends, Land Bubbles..." (1991) / "...in World
-   History" (2005)** — the single strongest candidate in the tail: a
-   two-paper set giving Gaffney's fullest statement of the peace-treaty/
-   land-boom-cycle thesis, predating I2012's AFEE restatement (already on
-   concepts/18-year-land-cycle) by up to 21 years, with WP049 extending the
-   evidence base seven centuries into world history via an obscure primary
-   source (Levasseur 1892-93) not otherwise cited on the wiki.
+1. ~~**WP048 + WP049, "Peace Dividends, Land Bubbles..." (1991) / "...in World
+   History" (2005)** — the single strongest candidate in the tail~~ —
+   **MINED 2026-07-18**, see [research/gaffney-peace-dividends-land-booms](/wiki/gaffney-peace-dividends-land-booms/)
+   and the priority-correction entry at the top of this file.
 2. **WP089 (Cleveland, Mayors Johnson & Baker) + WP091 (Chicago 1890-1900) +
    `Whats_the_Matter_with_Michigan` (essays)** — a three-city cluster of
    concrete Georgist-era municipal case studies (growth under single-tax
@@ -104,10 +138,11 @@ OCR needed). Text mirrored to `sources/gaffney/text/E4-TaxReformtoReleaseLand.CV
 4. **`Great_Expectations` (essays, 2013)** — a formal "Scrooge vs. Cratchit"
    numerical bidding-power model extending the credit-concentration
    mechanism now on gaffney-tax-reform-release-land and concepts/land-monopoly.
-5. **1972_Benefits_of_Military_Spending** — earliest known (1972) statement
-   of the caciques/rent-seeking-military-spending argument, a priority
-   correction for research/gaffney-corporate-power-military and
-   research/gaffney-rent-seeking-global-conflict (predates L2 by 16 years).
+5. ~~**1972_Benefits_of_Military_Spending** — earliest known (1972) statement
+   of the caciques/rent-seeking-military-spending argument~~ — **MINED
+   2026-07-18** as a priority correction on research/gaffney-corporate-power-military
+   and research/gaffney-rent-seeking-global-conflict, see the entry at the top
+   of this file.
 6. **WP020, "Economic Development as a Response to Stress"** — an early
    (1991/92) draft applying the peace-dividend thesis to California history,
    a further priority-correction candidate alongside #1.
@@ -1003,7 +1038,7 @@ priority-correction candidate for a future wave.
 - [x] `Z1-LandasShareofWealthLACounty1971.CV.pdf` — https://masongaffney.org/publications/Z1-LandasShareofWealthLACounty1971.CV.pdf — skimmed, 2026-07-18. "Land as a Share of All Wealth, Los Angeles County, 1971" (notes by Gaffney, 1986) — a city-by-city table of assessed land/improvement value ratios drawn from Dr. William Truehart's 1973 Claremont dissertation. **Declined, no fold, no registry row:** the masongaffney.org PDF's legacy OCR text layer is heavily garbled in exactly the numeric table cells that carry this source's only content (e.g. the county land total is legible as both "7,248" and "1,248" in different parts of the same table under `pdftotext`), compounding the standard dated-data caveat (1971–72 assessment roll, fractional-assessment-era California) with a genuine transcription-risk problem; superseded in any case by the more systematic, better-sourced treatment in [research/gaffney-hidden-taxable-capacity](/wiki/gaffney-hidden-taxable-capacity/) (2009).
 
 ### /workpapers/ (73)
-- [x] `1972_Benefits_of_Military_Spending.pdf` — https://masongaffney.org/workpapers/1972_Benefits_of_Military_Spending.pdf — CANDIDATE (top future pick): skimmed 2026-07-18. "Benefits of Military Spending" (1972) is the earliest known statement of the caciques/rent-seeking-multinationals critique of military spending, predating L2's 1988 conference summary by 16 years and L2018's 2018 treatise by 46 years (same "caciques" terminology). Not mined this wave (one-mining-pick budget spent on E4); flagged as the top future candidate for a priority-correction pass on research/gaffney-corporate-power-military and research/gaffney-rent-seeking-global-conflict. No registry row.
+- [x] `1972_Benefits_of_Military_Spending.pdf` — https://masongaffney.org/workpapers/1972_Benefits_of_Military_Spending.pdf — CANDIDATE (top future pick): skimmed 2026-07-18. "Benefits of Military Spending" (1972) is the earliest known statement of the caciques/rent-seeking-multinationals critique of military spending, predating L2's 1988 conference summary by 16 years and L2018's 2018 treatise by 46 years (same "caciques" terminology). **Mined 2026-07-18 (priority-correction pass):** substantially read (public-good critique, caciques typology, multinational-stake accounting, conclusion; structure surveyed throughout, 53pp). Confirmed as the wiki's true earliest source for this argument — already carries the Guatemala 1954 and Iran 1953 case studies both the 1988 and 2018 papers repeat, plus a capital-flows/plow-back/appreciation accounting argument neither later paper develops as fully. Priority notes added to research/gaffney-corporate-power-military and research/gaffney-rent-seeking-global-conflict rather than a dedicated page (overlapping ground with the 2018 treatise and concepts/resource-rents). Registry row added (Academic/Research, Scanned, Scan Depth Medium, supplementary tier, 2 in-wiki citations). Text mirror at `sources/gaffney/text/1972-BenefitsOfMilitarySpending.txt`.
 - [x] `A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf — [research/gaffney-excess-burden-shiftable-taxes.md](/wiki/gaffney-excess-burden-shiftable-taxes/)
 - [x] `Capital_Gains_and_Future_of_Free_Enterprise.pdf` — https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf — [research/gaffney-capital-gains-free-enterprise](/wiki/gaffney-capital-gains-free-enterprise/), 2026-07-18. 1991 (rev. Dec. 1991) chapter for Richard Noyes (ed.), *Now the Synthesis*. Wired into problems/capital-share-rise-is-land (ancestor-statement to the modern Rognlie/Piketty capital-share decomposition), concepts/unearned-increment (new section: Georgist-origins history of the U.S. income tax + tax-loophole catalogue), and benefits/lvt-can-replace-capital-taxes-without-efficiency-loss (1960s accelerated-depreciation episode as an informal land-for-capital tax shift).
 - [x] `Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf` — https://masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf — [research/gaffney-causes-of-downturns.md](/wiki/gaffney-causes-of-downturns/)
@@ -1035,8 +1070,8 @@ priority-correction candidate for a future wave.
 - [x] `WP044 Farm Labor Productivity Tradeoff with Water Use.pdf` — https://masongaffney.org/workpapers/WP044%20Farm%20Labor%20Productivity%20Tradeoff%20with%20Water%20Use.pdf — DUPLICATE-OF (WP025 above — verbatim-identical data table, different title): skimmed 2026-07-18. No registry row.
 - [x] `WP045 Critique of Thorstein Veblen Victorian Firebrand by Jorgensens.pdf` — https://masongaffney.org/workpapers/WP045%20Critique%20of%20Thorstein%20Veblen%20Victorian%20Firebrand%20by%20Jorgensens.pdf — DECLINE: skimmed 2026-07-18. A 1999 book-review critique of a Veblen biography's treatment of a specific family dispute (Wallace Walter Atwood); pure history-of-economic-thought biographical dispute, no land-rent content, out of mission scope. No registry row.
 - [x] `WP046 Measure C and Riverside Property Values.pdf` — https://masongaffney.org/workpapers/WP046%20Measure%20C%20and%20Riverside%20Property%20Values.pdf — DECLINE: skimmed 2026-07-18. 1988 outline notes on a local Riverside, CA land-use ballot measure; thin, local, not developed into a transferable argument. No registry row.
-- [x] `WP048 Peace Dividends, Land Bubbles and Economic Disasters in U.S. History.pdf` — https://masongaffney.org/workpapers/WP048%20Peace%20Dividends,%20Land%20Bubbles%20and%20Economic%20Disasters%20in%20U.S.%20History.pdf — CANDIDATE (top-ranked, peace-dividend cluster): read substantially 2026-07-18. 1991 conference paper — Gaffney's fullest early statement of the peace-treaty/land-boom-cycle thesis (Andrew Bisset's *On the Strength of Nations* as George's own source; three waves of American Georgism, 1886-1917), predating I2012's AFEE restatement (already folded into concepts/18-year-land-cycle) by 21 years. One of this wave's two strongest future candidates.
-- [x] `WP049 Peace Dividends and Land Booms in World History.pdf` — https://masongaffney.org/workpapers/WP049%20Peace%20Dividends%20and%20Land%20Booms%20in%20World%20History.pdf — CANDIDATE (top-ranked, companion to WP048): read substantially 2026-07-18. 2005 companion paper extending the peace-dividend/land-boom thesis across seven centuries of world history (1259 Louis IX to 2001-date), citing Levasseur's 1892-93 French land-price history — a source no other wiki page carries. One of this wave's two strongest future candidates, alongside WP048.
+- [x] `WP048 Peace Dividends, Land Bubbles and Economic Disasters in U.S. History.pdf` — https://masongaffney.org/workpapers/WP048%20Peace%20Dividends,%20Land%20Bubbles%20and%20Economic%20Disasters%20in%20U.S.%20History.pdf — CANDIDATE (top-ranked, peace-dividend cluster): read substantially 2026-07-18. 1991 conference paper — Gaffney's fullest early statement of the peace-treaty/land-boom-cycle thesis (Andrew Bisset's *On the Strength of Nations* as George's own source; three waves of American Georgism, 1886-1917), predating I2012's AFEE restatement (already folded into concepts/18-year-land-cycle) by 21 years. **Mined 2026-07-18** into [research/gaffney-peace-dividends-land-booms](/wiki/gaffney-peace-dividends-land-booms/) (combined with WP049), with a priority-correction note added to concepts/18-year-land-cycle. Registry row added (Academic/Research, Scanned, Scan Depth Heavy, important tier).
+- [x] `WP049 Peace Dividends and Land Booms in World History.pdf` — https://masongaffney.org/workpapers/WP049%20Peace%20Dividends%20and%20Land%20Booms%20in%20World%20History.pdf — CANDIDATE (top-ranked, companion to WP048): read substantially 2026-07-18. 2005 companion paper extending the peace-dividend/land-boom thesis across seven centuries of world history (1259 Louis IX to 2001-date), citing Levasseur's 1892-93 French land-price history — a source no other wiki page carries. **Mined 2026-07-18** into [research/gaffney-peace-dividends-land-booms](/wiki/gaffney-peace-dividends-land-booms/) (combined with WP048). Registry row added (Academic/Research, Scanned, Scan Depth Heavy, important tier).
 - [x] `WP050  Water as Yield-cutting Substitute.pdf` — https://masongaffney.org/workpapers/WP050%20%20Water%20as%20Yield-cutting%20Substitute.pdf — DECLINE: skimmed 2026-07-18. A short worked numerical example (berries vs. pasture water economics); thin data note, could lightly extend research/gaffney-water-rent-taxation but not developed enough to warrant independent treatment. No registry row.
 - [x] `WP051 Who Owns Southern California.pdf` — https://masongaffney.org/workpapers/WP051%20Who%20Owns%20Southern%20California.pdf — CANDIDATE (minor): skimmed 2026-07-18. 1988/97 land-ownership-concentration data essay ("Law of Concentration" applied to Southern California, citing 1985 IRS estate-tax-return data); could extend concepts/land-monopoly with region-specific concentration data. No registry row.
 - [x] `WP053 Alaska's proposed tax on oil reserves in situ 1981.pdf` — https://masongaffney.org/workpapers/WP053%20Alaska's%20proposed%20tax%20on%20oil%20reserves%20in%20situ%201981.pdf — DECLINE: skimmed 2026-07-18. Outline comments on a specific 1981 Alaska bill (SSHB#200); restates the in-rem-reserves-tax argument already covered in depth on research/gaffney-alaska-oil-leasing (1977 report), outline form, not developed. No registry row.

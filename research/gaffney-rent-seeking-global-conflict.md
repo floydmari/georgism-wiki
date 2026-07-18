@@ -74,6 +74,16 @@ repeats without adding further detail. Readers wanting the developed, fully cite
 version of this argument should consult [the 2018
 paper](/wiki/gaffney-corporate-power-military/) directly.
 
+**Priority correction (2026-07-18):** this 1988 summary is itself not the earliest
+statement. Gaffney's own 1972 paper "Benefits of Military Spending" (presented
+1971, updated to March 1972) already names the caciques typology, rejects the
+"public good" defense framing on the same land-tenure grounds, and works through
+the Guatemala 1954 and Iran 1953 coup cases in detail — 16 years before this
+summary and 46 years before the 2018 treatise. See the fuller priority note on
+[the 2018 paper](/wiki/gaffney-corporate-power-military/), which carries the full
+citation for the 1972 paper. This page's priority claim is revised accordingly: it establishes that the
+argument was in developed form by 1988, not that 1988 is its origin.
+
 ## Bears On
 
 - **Research:** [Gaffney & Cobb (2018), Corporate Power and Expansive U.S.
