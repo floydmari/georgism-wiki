@@ -1533,3 +1533,20 @@ cities + urban-land-rent; [VERIFY] on its undated provenance). All five fetched
 native-text from masongaffney.org (%26 fix again clean). Registry E14 upgraded
 +2 new rows (none for declines, C2 precedent); triage 5 rows checked, batch-5
 narrative. Inventory regenerated. 875 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: VERIFY retryables (3/3/0) + E1 1958 priority corrections
+
+Retryables: 3 RESOLVED (August REIT figures spot-checked line-for-line against a
+second independent T&F-typeset mirror; Clawson $42bn corroborated via the Science
+1976 PubMed abstract, granular split honestly left as Gaffney's citation;
+soil-depletion citation count = 21 via Semantic Scholar) and 3 BLOCKED with
+documented attempts (WorldCat 403/429 on Alaska circulation; Jarvis book
+borrow-restricted; WP041/042 date still undatable — circa-1993 stands). Queue +
+backlog ledgers updated. E1 (1958 USDA): mason-gaffney chronology gains the
+earliest-land-policy-item line (explicitly distinguished from the earlier 1957
+Faustmann monograph — different question); land-monopoly 1961 attribution
+CORRECTLY LEFT UNTOUCHED (mechanism-presence verdict: E1 has land-boom/financial-
+power material but NOT the self-reinforcing credit loop); land-booms page gains a
+one-line historical-precursor note with the general-vs-CCA-mechanism distinction
+explicit. No E1 page (morning decline respected). Registry +2 rows (Clawson, E1).
+VERIFY warnings 31→28, exactly the 3 resolutions. 875 pages, lint 0 errors.

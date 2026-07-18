@@ -202,9 +202,14 @@ Service asset value, the $2.1 billion imputed carrying cost) are Gaffney's own
 calculations or his citation of Marion Clawson's contemporaneous accounting,
 not independently re-verified by this page — Gaffney's 38% figure explicitly
 depends on assumed 50-year rotations and a 7% discount rate that he states are
-illustrative, not universal.[1] `[VERIFY: the Clawson $42-billion National
-Forest valuation and the 1974 cash-receipts/outlay figures Gaffney cites are not
-independently re-verified against Clawson's original work by this page.]`
+illustrative, not universal.[1] **Clawson source identified (2026-07-18):** the
+$42-billion figure traces to Marion Clawson, "The National Forests," *Science*
+191(4228): 762–767 (1976), whose own abstract independently states the Forest
+Service held "approximately $42 billion in assets" generating "$400–500
+million annually" — corroborating Gaffney's headline figure and revenue range
+via the abstract alone (the article itself is paywalled, not read in full this
+session, so Gaffney's more granular $486-million 1974 cash-receipts/outlay
+split is still his own citation of Clawson, not independently re-derived).[3]
 
 **A5's title is a claim, not a finding.** "Greater Social Benefits from our
 National Forests" describes the *goal* Gaffney argues policy reform would
@@ -272,3 +277,16 @@ resembling Gaffney's proposed reforms is covered by this page.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)
    (both verified reachable this session); local mirror at `sources/gaffney/`.
+3. Marion Clawson, "The National Forests," *Science* 191(4228): 762–767 (Feb. 20,
+   1976) — independently identified this session (2026-07-18) as Gaffney's likely
+   source for the $42-billion National Forest asset valuation: the article's own
+   abstract states the Forest Service held "approximately $42 billion in assets"
+   generating "$400-500 million annually" in cash revenue, matching Gaffney's
+   figures and 1974 timeframe closely enough to confirm the figure traces to a
+   real, findable Clawson publication rather than an unverifiable Gaffney
+   citation. Confirmed via the article's PubMed record (abstract only; the
+   *Science* article itself is paywalled — not independently read in full this
+   session, so Gaffney's specific $486 million 1974 cash-receipts/outlay split
+   remains his own citation, not independently re-derived from Clawson's text).
+   [PubMed record](https://pubmed.ncbi.nlm.nih.gov/17754173/) ·
+   [DOI: 10.1126/science.191.4228.762](https://doi.org/10.1126/science.191.4228.762)

@@ -111,7 +111,13 @@ directly against a Georgist-adjacent Proposition 13 argument: Howard Jarvis's sl
 rested on the contract theory of the state, which Gaffney charges with skirting the
 question of how the property came to be owned in the first place.[1] `[VERIFY: this
 is Gaffney's own polemical framing of Jarvis's argument, not independently checked
-against Jarvis's own writing this session]`
+against Jarvis's own writing this session. **Attempted** (2026-07-18): general web
+search for the verbatim slogan found no primary Jarvis source; Jarvis's own book,
+*I'm Mad As Hell* (1979), exists on Internet Archive only as a borrow-restricted
+scan (no full-text search available without a loan), and a previously indexed
+third-party full-text mirror (members.tripod.com) no longer resolves. Book/
+archival access is needed — a library loan of *I'm Mad As Hell* or contemporaneous
+Prop. 13 campaign literature — not another web search.]`
 
 **B-4/B-5: land rent does not evoke production, and is therefore a taxable
 surplus.** "Land rent, however high, does not raise the rate of return on investment

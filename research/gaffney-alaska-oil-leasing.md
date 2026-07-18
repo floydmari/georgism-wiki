@@ -321,7 +321,12 @@ commissioned and delivered to name officials for a live legislative process, but
 like a working paper, it was never submitted to peer review or, so far as this
 session established, formally published. `[VERIFY: publication/circulation history
 of the report beyond delivery to the Alaska Legislature and DNR — not established
-this session]` Its empirical claims (the 1965 Prudhoe Bay sale price, the leaseholder
+this session. **Attempted** (2026-07-18): a WorldCat catalog search returned
+HTTP 403/blocked in this environment on every access pattern tried; no citing
+paper, Alaska State Library catalog record, or contemporaneous reception item
+surfaced via general web search. Direct WorldCat access or an Alaska State
+Library/legislative-archives catalog lookup is needed, not another web search.]`
+Its empirical claims (the 1965 Prudhoe Bay sale price, the leaseholder
 concentration data, the cost-inflation figures) are Gaffney's own citations of
 contemporary Alaska sources (DNR staff, industry survey data) rather than
 independently verified by this page — Part II's Appendix C (Tables C-1 through C-3,

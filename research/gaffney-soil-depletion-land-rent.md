@@ -170,12 +170,12 @@ addresses this wiki covers, though a law review rather than an economics
 journal, and its theoretical apparatus (the four-category taxonomy, the
 discounted-remote-liquidation depletion rule) is Gaffney's own proposed
 framework, not an empirically estimated or independently replicated result — a
-C-claim (theoretical), not a B-claim (empirical). `[VERIFY: this page could not
-establish an independent citation count or reception history for this specific
-paper within this session — its academic standing is inferred from its venue
-(a respected, still-active law journal) and its explicit citation in later
-Georgist-adjacent scholarship (Dwyer 2014, AJES), not from a systematic citation
-search.]`[3]
+C-claim (theoretical), not a B-claim (empirical). **Citation count established
+(2026-07-18):** Semantic Scholar's paper-search API records **21 citations**
+for Gaffney's "Soil Depletion and Land Rent" — a modest but real independent
+reception history for a 1965 law-journal paper, corroborating (not merely
+inferring from venue) the standing already noted from its explicit citation in
+later Georgist-adjacent scholarship (Dwyer 2014, AJES).[3][4]
 
 **Archive-mirror gap.** The masongaffney.org filename contains a literal
 ampersand ("B5Soil_Depletion_&_Land_Rent.CV.pdf"), which broke the automated
@@ -250,3 +250,6 @@ pages rather than the real PDFs.]`
    Economics and Sociology* 73(4) — used only to corroborate that this paper
    remains cited in later Georgist-adjacent scholarship; not itself mined for
    content this session. [Wiley (paywalled)](https://onlinelibrary.wiley.com/doi/10.1111/ajes.12082_3)
+4. Semantic Scholar, paper-search API record for "Soil Depletion and Land Rent"
+   (Gaffney) — used for the 21-citation count (accessed via API 2026-07-18).
+   [Semantic Scholar](https://www.semanticscholar.org/search?q=Soil%20Depletion%20and%20Land%20Rent%20Gaffney)

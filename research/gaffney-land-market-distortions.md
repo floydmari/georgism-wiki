@@ -39,7 +39,15 @@ boom and bust"), and WP042 references events from 1993 — Canary Wharf's unfill
 office space and British Prime Minister John Major's May 1993 opening of the
 Limehouse Link tunnel — as current news, so this page treats **circa 1993** as the
 best-supported estimate, not a confirmed date.[2] `[VERIFY: exact publication date
-of WP041/WP042 — not stated on masongaffney.org; inferred from internal references]`
+of WP041/WP042 — not stated on masongaffney.org; inferred from internal references.
+**Attempted again** (2026-07-18): masongaffney.org's workpapers listing and vita/CV
+page still show no date for either entry; a search for other papers citing WP041/
+WP042 found only one, formatted with no year given (consistent with no dated
+citing source existing); Gaffney's own later, freely-available papers that might
+cite these working papers by date ("Keeping Land in Capital Theory," 2007; "The
+Role of Land Markets in Economic Crises," 2009) could not be searched reliably in
+this environment (PDF text extraction failed on both). Circa-1993 remains the
+best-supported estimate; a genuinely dated citing source still hasn't been found.]`
 
 The two papers do not carry equal weight for the wiki. **WP041 restates a mechanism
 the wiki already covers in full**: its "cash cow," Capital Consumption Allowance

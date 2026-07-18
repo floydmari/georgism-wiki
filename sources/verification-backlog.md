@@ -71,6 +71,53 @@ figure, the Jarvis Prop-13 slogan, a citation-count check, and the T&F PDF cross
 `august-rental-financialization`). Lint 0 errors before and after; queue script's marker
 count 28→23 (the 5 resolutions; the 2 PENDING markers were never in its count).
 
+## 2026-07-18 (cont.) — T1 retryable-queue wave 2 (6 RETRYABLE worked: 3 resolved, 3 BLOCKED)
+Worked all 6 RETRYABLE rows queued above, same day. **3 resolved:**
+- `research/august-rental-financialization.md` — a second independent mirror of the
+  actual Taylor & Francis-typeset PDF (tandfonline.com branding, DOI cover page, "To
+  cite this article" header intact) was found via web search at a University of
+  Waterloo-region community site (not the paywalled tandfonline.com page itself, which
+  Unpaywall confirms has no OA copy — `is_oa: false`, `oa_status: closed`). Downloaded
+  both this PDF and the already-cited Herongate Tenants mirror with `curl`, extracted
+  both with `pdftotext -layout`, and spot-checked every figure the wiki page cites
+  (164,498-suite REIT growth including its footnote marker, the 290,712 top-25 total,
+  the 15.8%→20.2% concentration rise, "27.8"/"one fifth" phrasing, "nine of the top 10,
+  and 18 of the top 25") — all matched verbatim between the two independent copies.
+  Marker removed.
+- `research/gaffney-forest-taxation.md` — identified Gaffney's likely source for the
+  $42-billion National Forest valuation: Marion Clawson, "The National Forests,"
+  *Science* 191(4228): 762–767 (Feb. 20, 1976), found via a targeted web search after
+  general Clawson/RFF searches turned up nothing. The article's own PubMed abstract
+  (the article itself is paywalled, not read in full) independently states
+  "approximately $42 billion in assets" and "$400-500 million annually" — corroborating
+  Gaffney's headline figure and revenue range. Gaffney's more granular $486-million 1974
+  receipts/outlays split is still his own citation of Clawson, not independently
+  re-derived — noted as a narrower residual caveat rather than a blanket marker. New
+  registry row added (Light scan / abstract-only).
+- `research/gaffney-soil-depletion-land-rent.md` — Semantic Scholar's paper-search API
+  (`api.semanticscholar.org/graph/v1/paper/search`) records **21 citations** for
+  Gaffney's 1965 paper (rate-limited on repeated calls; one successful call sufficed).
+  Marker removed.
+
+**3 moved to BLOCKED:**
+- `research/gaffney-alaska-oil-leasing.md` — WorldCat (`worldcat.org`,
+  `search.worldcat.org`) returned HTTP 403/429 on every access pattern tried in this
+  environment; no citing paper or Alaska State Library catalog record surfaced via
+  general web search. Direct catalog access (outside this environment) or an Alaska
+  State Library/legislative-archives lookup is the next channel.
+- `research/gaffney-land-distinctive-factor.md` — Jarvis's *I'm Mad As Hell* (1979) is
+  on Internet Archive only as a borrow-restricted scan (no full-text search without a
+  loan); a previously indexed third-party full-text mirror (members.tripod.com) no
+  longer resolves (DNS failure). Book/archival access needed.
+- `research/gaffney-land-market-distortions.md` — re-checked masongaffney.org's
+  workpapers listing and vita/CV page (still no date shown for WP041/WP042); searched
+  for citing sources by title (found only one indirect, itself-undated mention); tried
+  fetching two of Gaffney's own later papers that might cite these by date (2007 UCR
+  working paper, 2009 AJES paper) but PDF text extraction failed on both (image/font-
+  encoded streams) in this environment. Circa-1993 remains the best-supported estimate.
+
+Lint 0 errors before and after; live-marker count 25→22 (3 resolutions this pass).
+
 ## RETRYABLE — primary exists, we couldn't reach it this session
 | Page | What's still unverified | Unblock channel |
 |------|-------------------------|-----------------|

@@ -10,11 +10,13 @@ guides/ narratives/ objections/ organizations/ people/ places/ problems/ researc
 texts/`; excludes `LOOPLOG.md`, `BACKLOG.md`, `sources/inbox/`, `sources/gaffney/text/`,
 and this repo's own meta-docs, none of which carry live in-page markers).
 
-This wave resolved **5** (see `sources/verification-backlog.md` for the dated entry) —
-down from 30 at the start of this pass. Markers are the wiki's anti-fabrication
-firewall (EDITORIAL rule 2). **Never delete a marker without either resolving the
-claim (cite what was verified) or downgrading it (weaken the claim to what's
-verifiable, note the downgrade).**
+This wave resolved **5**, then a same-day continuation pass worked the 6 RETRYABLE
+rows queued below and resolved **3** more (see `sources/verification-backlog.md`
+for both dated entries) — **22 live markers remain**, down from 30 at the start of
+this pass. Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2).
+**Never delete a marker without either resolving the claim (cite what was
+verified) or downgrading it (weaken the claim to what's verifiable, note the
+downgrade).**
 
 Every marker below is classified into exactly one of three buckets:
 
@@ -78,40 +80,40 @@ Every marker below is classified into exactly one of three buckets:
   false-positive keyword match on "lending" inside the claim text, not an actual
   book-copy need.)
 
-## RETRYABLE (6) — candidates for the next wave
+## RETRYABLE (0) — none open; the prior 6 were worked this pass
 
-- `research/august-rental-financialization.md` — cross-check the Herongate Tenants
-  mirror page-by-page against the official Taylor & Francis PDF (DOI-resolved).
-  Approach: Unpaywall API for a green-OA copy, or SOAS/author-repository mirror
-  (same channel that worked for other T&F-blocked papers this session, e.g.
-  Lapavitsas — worth retrying periodically as Cloudflare challenges are session-
-  dependent).
-- `research/gaffney-alaska-oil-leasing.md` (L322) — publication/circulation history of
-  the 1977 report beyond delivery to the Alaska Legislature/DNR. Approach: WorldCat
-  record, Alaska State Library catalog, or a citing-paper search (Google Scholar) for
-  contemporaneous reception.
-- `research/gaffney-forest-taxation.md` (L205) — Clawson's $42-billion National Forest
-  valuation and 1974 cash-receipts/outlay figures. Approach: search for Marion
-  Clawson's own 1970s RFF (Resources for the Future) publications/working papers
-  directly (attempted this session via general web search with no hit; RFF's own
-  archive or a WorldCat/library search for the specific Clawson report is the next
-  step, not yet tried).
-- `research/gaffney-land-distinctive-factor.md` (L112) — Gaffney's polemical framing of
-  Howard Jarvis's "services to property, not services to people" slogan. Approach:
-  Jarvis's own book (*I'm Mad As Hell*, 1979) or contemporaneous Prop. 13 campaign
-  literature — a light web search this session found no verbatim primary source;
-  needs a book/archival pass, not another web search.
-- `research/gaffney-soil-depletion-land-rent.md` (L173) — independent citation
-  count/reception history for the paper. Approach: Google Scholar citation count,
-  RePEc/IDEAS citation graph.
-- `research/gaffney-land-market-distortions.md` (L41) — exact publication date of
-  WP041/WP042. **Attempted this session** (masongaffney.org's own publications and
-  workpapers listings show no date for either entry; Wayback Machine's earliest
-  capture is 2024-07-13, which is an archive date, not an authorship date) — kept
-  RETRYABLE rather than BLOCKED because a dated citing source (e.g., a paper citing
-  WP041/042 with a year) hasn't been searched for yet.
+All 6 rows queued in the previous pass were worked in a same-day continuation
+(2026-07-18). **3 resolved:**
 
-## BLOCKED (3) — attempted, not resolvable this wave
+- `research/august-rental-financialization.md` — resolved. A second independent
+  mirror of the actual Taylor & Francis-typeset PDF (tandfonline.com branding,
+  DOI cover page intact) was located via web search (a University of Waterloo-
+  region community site) and extracted with `pdftotext`; every figure the wiki
+  page cites was spot-checked line-for-line against the Herongate mirror and
+  matched verbatim (164,498-suite REIT growth with footnote marker, the 290,712
+  top-25 total, 15.8%→20.2% concentration, "27.8"/"one fifth" phrasing). Marker
+  removed.
+- `research/gaffney-forest-taxation.md` (L205) — resolved (partial). Identified
+  Gaffney's likely source for the $42-billion figure: Marion Clawson, "The
+  National Forests," *Science* 191(4228): 762–767 (1976) — its own abstract
+  (read via PubMed; the article itself is paywalled) independently states
+  "approximately $42 billion in assets" and "$400-500 million annually," which
+  corroborates Gaffney's headline figure and revenue range. Gaffney's more
+  granular $486-million 1974 receipts/outlays split remains his own citation of
+  Clawson, not independently re-derived — noted honestly in place of the old
+  blanket marker. New registry row added (Marion Clawson, "The National
+  Forests," 1976, Light scan/abstract-only).
+- `research/gaffney-soil-depletion-land-rent.md` (L173) — resolved. Semantic
+  Scholar's paper-search API records 21 citations for Gaffney's 1965 paper.
+  Marker removed.
+
+**3 moved to BLOCKED** (see below): `gaffney-alaska-oil-leasing.md` (WorldCat
+403'd in this environment), `gaffney-land-distinctive-factor.md` (Jarvis's book
+is borrow-restricted on Internet Archive, no full-text search available), and
+`gaffney-land-market-distortions.md` (no dated citing source found for
+WP041/WP042 despite a fresh search).
+
+## BLOCKED (6) — attempted, not resolvable this wave
 
 - `research/gaffney-financial-maturity-timber.md` (L191) — Samuelson's "Economics of
   Forestry in an Evolving Society" (*Economic Inquiry*, 1976). **Attempted**: Wiley
@@ -127,6 +129,34 @@ Every marker below is classified into exactly one of three buckets:
   **Attempted**: no trace of the address found online. **Likely unrecoverable** —
   unpublished conference remarks generally don't survive independently of the
   citing author's own account.
+- `research/gaffney-alaska-oil-leasing.md` (L322) — publication/circulation history of
+  the 1977 report beyond delivery to the Alaska Legislature/DNR. **Attempted**
+  (2026-07-18): WorldCat (`worldcat.org` and `search.worldcat.org`) returned
+  HTTP 403/429 on every access pattern tried in this environment; no citing
+  paper or Alaska State Library catalog record surfaced via general web search.
+  **Direct catalog access** needed (WorldCat outside this environment, or an
+  Alaska State Library/legislative-archives lookup).
+- `research/gaffney-land-distinctive-factor.md` (L112) — Gaffney's polemical framing of
+  Howard Jarvis's "services to property, not services to people" slogan.
+  **Attempted** (2026-07-18): general web search for the verbatim phrase found
+  no primary source; Jarvis's *I'm Mad As Hell* (1979) exists on Internet
+  Archive only as a borrow-restricted scan (no full-text search without a
+  loan); a previously indexed third-party full-text mirror
+  (members.tripod.com) no longer resolves (DNS failure). **Book/archival
+  access** needed — a library loan of *I'm Mad As Hell* or contemporaneous
+  Prop. 13 campaign literature.
+- `research/gaffney-land-market-distortions.md` (L41) — exact publication date of
+  WP041/WP042. **Attempted again** (2026-07-18): masongaffney.org's workpapers
+  listing and vita/CV page still show no date for either entry; searched for
+  other papers citing WP041/WP042 by title and found only one indirect mention,
+  itself undated; two of Gaffney's own later papers that might cite these by
+  date ("Keeping Land in Capital Theory" 2007, "The Role of Land Markets in
+  Economic Crises" 2009) could not be text-searched reliably in this
+  environment (PDF extraction failed on both — image/font-encoded streams).
+  **Moved to BLOCKED**: circa-1993 remains the best-supported estimate; a
+  genuinely dated citing source still hasn't been found across two separate
+  passes. A cleaner PDF-text tool or direct access to Gaffney's own dated CV
+  entries (if any exist offline) would be the next channel.
 
 *(Book-copy items already tracked in `sources/verification-backlog.md`'s RETRYABLE
 ledger and `sources/wanted-books.md` are not duplicated here to avoid a two-ledger
