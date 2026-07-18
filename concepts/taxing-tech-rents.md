@@ -185,6 +185,22 @@ pass the tax forward because supply does not change, whereas a platform simply r
 One partial silver lining the authors note: the DST may still shift competitive balance toward
 brick-and-mortar rivals — an antitrust-adjacent effect, not rent capture.
 
+**The revenue and political record add a second discouraging layer.** The UK's DST raised
+£358 million in its first year (2020-21, 30% above HMRC's own forecast), rising to £808
+million by 2024-25 — with 90% of that first year's total paid by just five business groups —
+while France's DST undershot its own first-year forecast (€277m collected against a €400m
+estimate).[18] Every DST examined was framed as an interim measure pending the OECD/G20's
+Pillar One deal, whose explicit purpose is to trade a global profit-reallocation regime for
+the "withdrawal and standstill of Digital Services Taxes... with respect to all companies" —
+but that deal has not closed: as of the Inclusive Framework's own January 2025 status
+statement, the implementing treaty had not opened for signature.[19] Where DSTs have actually
+come off the books since, it has been through unilateral retreat under direct US tariff
+threats, not the promised multilateral bargain — Canada rescinded its DST within three days
+of a June 2025 Trump ultimatum, France's attempts to raise its own rate have twice failed, and
+a blanket 100% tariff threat against any country's DST was renewed in June 2026.[19] See
+[Digital Services Taxes as Actually Implemented](/wiki/digital-services-taxes/) for the full
+country-by-country revenue and incidence record this synthesis draws on.
+
 ## 3. Romer's Progressive Digital-Advertising Tax — C
 
 Nobel laureate Paul Romer's proposal (2019, developed 2021) is a **progressive tax on the
@@ -401,3 +417,14 @@ draws on; DST and DMA figures come from working papers and primary legislation a
     — used for the revenue-has-a-location argument, the progressive/split-up and subscription-escape
     design, the 59%/18% political-ad figures, and the Acemoglu–Johnson "sin tax" variant. Via
     [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/).
+18. HM Treasury (Nov 2025), *Digital Services Tax Review Report*. [GOV.UK PDF](https://assets.publishing.service.gov.uk/media/6925dfd647904590c9da2d36/Digital_Services_Tax_Review_.pdf);
+    National Audit Office (2022), *Investigation into the Digital Services Tax*. [NAO PDF](https://www.nao.org.uk/wp-content/uploads/2022/11/Investigation-into-the-digital-services-tax.pdf);
+    Assemblée nationale (2023), reply to question n°2974. [Assemblée nationale](https://questions.assemblee-nationale.fr/q16/16-2974QE.htm)
+    — used for the UK/France year-by-year DST revenue figures and concentration ratio. Via
+    [Digital Services Taxes as Actually Implemented](/wiki/digital-services-taxes/).
+19. OECD/G20 Inclusive Framework on BEPS, Co-Chairs (13 Jan 2025), "Pillar One Update." [OECD PDF](https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/beps/pillar-one-update-co-chair-statement-inclusive-framework-on-beps-january-2025.pdf);
+    Government of Canada, Department of Finance (29 June 2025), DST rescission announcement. [Canada.ca](https://www.canada.ca/en/department-finance/news/2025/06/canada-rescinds-digital-services-tax-to-advance-broader-trade-negotiations-with-the-united-states.html);
+    CBS News (26 June 2026), "Trump vows immediate 100% tariff if countries levy digital services
+    tax." [CBS News](https://www.cbsnews.com/news/trump-digital-services-tax-tariff-europe/)
+    — used for the Pillar One withdrawal-and-standstill design, its unsigned status, and the
+    Canada/tariff-threat unwind. Via [Digital Services Taxes as Actually Implemented](/wiki/digital-services-taxes/).

@@ -5,7 +5,7 @@ tags: [concepts, data-rents, platform-economy, network-effects, superstar-firms,
 stub: false
 supports_outcomes: []
 excerpt: "The returns a handful of digital firms earn from network-effect moats, accumulated data, and gatekeeping — the 'land-like positions' of the digital economy. The most contested rent in the file, alongside IP: is big-tech profit unearned rent, or the quasi-rent that rewards genuine innovation? The evidence is real but its interpretation is disputed."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -102,7 +102,7 @@ never let the airtight land case lend its certainty to this domain.
 - [Data as Labor](/wiki/data-as-labor/) — the leading redistribution proposal for platform/data rents: compensating users as producers of the data platforms use
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
 
-- [DST incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried (Amazon passed ~half the UK DST to sellers) · [Romer's digital ad tax](/wiki/romer-digital-advertising-tax/) — the attention-rent capture proposal · [Furman Review](/wiki/furman-review-digital-competition/) — the official is-it-rent diagnosis and the dissolve pole
+- [DST incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried (Amazon passed ~half the UK DST to sellers) · [DSTs as actually implemented](/wiki/digital-services-taxes/) — the revenue record and the stalled OECD Pillar One withdrawal bargain · [Romer's digital ad tax](/wiki/romer-digital-advertising-tax/) — the attention-rent capture proposal · [Furman Review](/wiki/furman-review-digital-competition/) — the official is-it-rent diagnosis and the dissolve pole
 
 - [Superstar Firms](/wiki/superstar-firms/) · [Rochet & Tirole (two-sided markets)](/wiki/rochet-tirole-two-sided/) · [Korinek & Ng (digital superstars)](/wiki/korinek-ng-digital-superstars/)
 - [Crouzet & Eberly (intangibles)](/wiki/crouzet-eberly-intangibles/) — the efficiency counter-view

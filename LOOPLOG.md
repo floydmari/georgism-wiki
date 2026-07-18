@@ -1160,3 +1160,27 @@ BC SVT rate backlog item: NO EDIT NEEDED — british-columbia.md already carries
 2026 1%/3% rates with a sound gov.bc.ca cite, independently re-verified by fresh
 fetch this session (backlog note about vancouver.md carrying the figures was wrong).
 857 pages, lint 0 errors. Registry rows deferred to DST-wave commit (single-writer).
+
+## 2026-07-18 (cont.) — Wave: DSTs-as-tried (WS-TECH-RENTS part a)
+
+research/digital-services-taxes.md created (858th page) — country-by-country record
+of DSTs as run, deliberately complementary to the existing incidence page (delta
+rule: Muddasani-Langenmayr pass-through stays there; this page carries revenue +
+political economy). Verified from primary fetches (NAO 2022, HMT Nov-2025 review,
+OECD IF Jan-2025 co-chair statement, Assemblée nationale answer, Canada DoF —
+garbled PDFs recovered via curl+pdftotext): UK £358m→£808m with 90% of yr-1 from 5
+payers and a derived ~£2.80bn 5-yr cumulative flagged as OUR arithmetic vs HMRC/OBR
+">£3bn" forecast; France €277m vs €400m forecast, CCIA-commissioned 55/40/5 incidence
+split flagged as industry ex-ante modeling; India's two-piece levy dismantled
+2024-25; Canada's DST rescinded 3 days after the June-2025 tariff ultimatum; Pillar
+One treaty still unopened for signature per the IF's own statement — so the promised
+multilateral DST retirement has actually proceeded only by unilateral coercion.
+Georgist reading kept on the rent gradient: a DST is a REVENUE tax, not a rent tax.
+Omissions recorded on-page: India multi-year collections (search-synthesis only),
+Canada ~$2bn first payment (403s), India Pillar One-vs-Two attribution (sources
+conflict), France rate flagged fast-moving. Wired: taxing-tech-rents §2 (primary
+home), dst-incidence, data-rents, resource-rents. Registry +12 rows (DST) + deferred
+Gloudemans merge (2000 row added; 2002 row Medium→Heavy, citations 1→4, wiki-page
+repointed to the new deep-dive). Inventory regenerated. 858 pages, lint 0 errors.
+WS-TECH-RENTS remaining: (b) attention/ad rents, (c) dissolution vs capture,
+(d) is-it-rent diagnosis update, then the gated instrument-comparison synthesis.
