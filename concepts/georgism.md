@@ -5,6 +5,7 @@ tags: [georgism, land-value-tax, henry-george, political-economy, geoism]
 stub: false
 excerpt: "The political-economic philosophy, named for Henry George, holding that the value of land and natural resources is created by the community and therefore belongs to the public, while the fruits of individual labour and capital should be left untaxed with those who produce them."
 sources: [george-1879, andelson-2003]
+pd_quotes: true
 ---
 
 ## Definition
@@ -22,6 +23,27 @@ The philosophy is named after Henry George (1839–1897), whose 1879 book *Progr
 3. **The remedy is a land value tax.** By capturing land rent through a tax on assessed site values, the community can fund public services without taxing wages or capital — removing the incentive to speculate on land and eliminating the deadweight loss of conventional taxes.
 
 4. **Wages and capital returns are just.** Unlike some critics of capitalism, Georgists do not object to returns on labour or productive investment. The injustice lies specifically in unearned income from land ownership.
+
+## The Civilizational Argument (Book X)
+
+Beyond the economic argument, George closes *Progress and Poverty* with a theory of
+civilizational rise and fall. Book X, "The Law of Human Progress," asks why civilizations
+that start with comparable human capacities diverge so sharply — some advancing, some
+arrested, some decaying — and answers that "mental power," the capacity available for
+improvement once the demands of mere maintenance and conflict are met, is freed by
+cooperation and dissipated by inequality and injustice: "Association in equality is the
+law of progress. Association frees mental power for expenditure in improvement, and
+equality, or justice, or freedom... prevents the dissipation of this power in fruitless
+struggles" (Book X, Ch. III). On this reading, land monopoly is not only an economic
+injustice but the specific mechanism by which advancing civilizations generate their own
+decline, since it recreates the inequality that consumes the mental power progress
+requires — a claim George states as "both a menace and a promise" in the book's closing
+chapter (Book X, Ch. V). This civilizational claim is broader than, and independent of,
+the narrower tax-incidence and productivity arguments carried elsewhere on the wiki
+(e.g. [Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/));
+it has not been and likely cannot be tested empirically in the way those claims are, and
+is carried here as George's own theory of history, not as an evidenced finding (D-claim,
+interpretive).
 
 ## Variants and Related Traditions
 
@@ -96,7 +118,7 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/); Book X, Chs. III and V specifically used for the civilizational-argument quotations, verified verbatim against the [repository full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain, EDITORIAL §3b).
 2. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* (3rd ed.) — used for the implementation survey (A/B-claims; the standard comparative reference).
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for the editions of George's works cited throughout (custodial source).
 4. Robert V. Andelson and James M. Dawsey, *From Wasteland to Promised Land: Liberation Theology for a Post-Marxist World* (Orbis Books / Shepheard-Walwyn, 1992) — used for the liberation theology framing of Georgism (D-claims). [Book page](/wiki/from-wasteland-to-promised-land/)

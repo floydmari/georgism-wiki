@@ -8,7 +8,8 @@ evidence_strength: "Mixed (lower land prices well-supported; effects on rents pa
 supported_by: [oates-schwab-pittsburgh, oates-1969-capitalization, saiz-housing-supply-elasticity, glaeser-gyourko-housing-supply, hilber-vermeulen-england-supply, hsieh-moretti-spatial-misallocation, plummer-lvt-distribution, tomson-estonia-lvt, site-value-ge-simulations, tubio-reyes-loja-ecuador-lvt, bourassa-pittsburgh-lvt-housing]
 challenged_by: [loffler-siegloch-german-pass-through, nielsson-wroblewski-yding-danish-lvt, gemmell-grimes-skidmore-nz]
 excerpt: "LVT reliably lowers land prices (tax capitalization) and encourages construction — but its effect on rents actually paid is mixed, and affordability gains require permissive zoning; capturing land value alone need not make housing cheap."
-last_reviewed: 2026-07-13
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 > **At a glance** — A land value tax reliably lowers land prices and encourages construction, but its effect on rents actually paid is mixed and any affordability gain depends on permissive land-use policy — so capturing land value need not, on its own, make housing cheap.
@@ -26,6 +27,10 @@ The three strongest citations:
 3. **[Saiz (2010), *Quarterly Journal of Economics*](/wiki/saiz-housing-supply-elasticity/)** — geography and regulation jointly determine how much housing demand shows up as land price rather than new supply — the land-scarcity mechanism the affordability argument rests on.
 
 **Honest limits:** the well-supported effect is on land *prices*; the effect on *rents actually paid* is mixed (German evidence finds property-tax increases substantially passed through to rents), and jurisdictions that capture land value while constraining supply — Singapore, Hong Kong — still have expensive housing.
+
+## George's Original Prediction (1879)
+
+Before any of the modern evidence below existed, Book IX of *Progress and Poverty* predicted both channels this page evidences — as a prediction, not a finding, and the wiki cites it accordingly. George predicted the entry-price effect directly: "the builder of a city homestead would not have to lay out as much for a small lot as for the house he puts upon it" (Book IX, Ch. I) — the mechanism the modern capitalization evidence ([Oates 1969](/wiki/oates-1969-capitalization/); the [DØRS](/wiki/dors-land-taxes-housing-prices/) natural experiment; [Plummer 2010](/wiki/plummer-lvt-distribution/)) tests below. He also predicted the supply channel: taxing idle land as heavily as improved land would mean "the owner of a vacant city lot would have to pay as much for the privilege of keeping other people off of it... as his neighbor who has a fine house upon his lot," so that "land now withheld from use would everywhere be thrown open to improvement" and "the selling price of land would fall; land speculation would receive its deathblow." This is George's own statement of the [speculative vacancy](/wiki/speculative-vacancy/) mechanism the [Pittsburgh](/wiki/oates-schwab-pittsburgh/) and [Bourassa](/wiki/bourassa-pittsburgh-lvt-housing/) construction evidence tests empirically. Modern evidence supports the *direction* of both predictions but not their unconditional strength — precisely the gap this page's Counter-Evidence and "capture ≠ cheap" sections document (rent pass-through, Singapore/Hong Kong, the second Danish study's null price effect).
 
 ## Prices Versus Rents: Two Different Claims
 
@@ -89,3 +94,4 @@ the pairing this page's headline assessment insists on.
 5. [Danish Economic Councils (DØRS, 2018), land-tax capitalization](/wiki/dors-land-taxes-housing-prices/) — used for the full-capitalization-into-house-prices finding from Denmark's 2007 municipal reform; full citation on the linked research page.
 6. José María Tubío-Sánchez & Fabián Reyes-Bueno (2026), "Do Land Value Taxes Curb Land Prices? ... Loja, Ecuador," *Journal of Regional Science*. [DOI: 10.1111/jors.70063](https://doi.org/10.1111/jors.70063) · [wiki summary](/wiki/tubio-reyes-loja-ecuador-lvt/) — used for the ~2.5%-per-point core capitalization estimate and the "does not necessarily enhance affordability" caveat; the first Latin American land-tax capitalization study.
 7. Ulf Nielsson, Caleb Wroblewski & Anders Yding (2024), "The Incidence and Efficiency of Land Value Taxation," working paper. [wiki summary](/wiki/nielsson-wroblewski-yding-danish-lvt/) — counter-evidence; used for the "precise zero effect... on residential home prices," the ruling-out of full capitalization, and the null housing-development finding from Danish municipal variation.
+8. Henry George (1879), *Progress and Poverty*, Book IX, Ch. I ("Effects of the Remedy — Production") — used for George's own 1879 prediction of the entry-price and idle-land/speculative-vacancy mechanisms, quoted and explicitly labeled as a prediction rather than evidence (D-claim, public domain, verified verbatim against the [repository full text](/wiki/progress-and-poverty-full-text/), EDITORIAL §3b).

@@ -8,7 +8,8 @@ narrative_type: economic
 supported_by: [lvt-can-replace-capital-taxes-without-efficiency-loss, landlords-cannot-pass-lvt-to-tenants, land-value-tax-can-be-progressive]
 related_people: [milton-friedman, william-vickrey, joseph-stiglitz, nicolaus-tideman, henry-george, david-ricardo]
 related_places: [estonia, denmark, pennsylvania]
-last_reviewed: 2026-07-03
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 *This page covers the persuasive, efficiency-and-equity case for shifting taxation onto
@@ -33,6 +34,19 @@ the two goals. Among the twelve narratives mapped in the
 [narrative framework](/wiki/unearned-increment-narrative/), this is generally judged the
 most strongly evidenced, resting on textbook tax-incidence theory rather than on
 contested empirical magnitudes.
+
+### George's own formulation (1879)
+
+The narrative's title states, almost verbatim, the contrast George draws in Book IX of
+*Progress and Poverty* between taxing production and taxing land — an 1879 argument, not
+itself evidence, but the wording the narrative descends from. Describing the present
+system of taxing improvements, he wrote that it operates like "a fine upon" energy and
+industry: "We punish with a tax the man who covers barren fields with ripening grain; we
+fine him who puts up machinery, and him who drains a swamp." Untaxing production while
+taxing land, he argued, would reverse the state's message to the producer: "Instead of
+saying to the producer, as it does now, 'The more you add to the general wealth the more
+shall you be taxed!' the state would say to the producer, 'Be as industrious, as thrifty,
+as enterprising as you choose, you shall have your full reward!'" (Book IX, Ch. I).
 
 ## Who Promotes It
 
@@ -110,6 +124,13 @@ rather than a contested empirical estimate:
   supply is perfectly inelastic, standard tax-incidence theory assigns the entire
   burden to the landowner rather than the renter or buyer; [Doucet (2021)](/wiki/doucet-does-georgism-work/)
   works through the argument and the supporting capitalisation evidence in detail.[9]
+  The claim's classical pedigree predates George: he quotes Ricardo directly as already
+  having established it — "a tax on rent would fall wholly on landlords, and could not
+  be shifted to any class of consumers" (Ricardo, *Principles*, Ch. X, quoted in
+  *Progress and Poverty*, Book VIII, Ch. IV) — and cites Ricardo's further point that
+  such a tax "would leave unaltered the difference between the produce obtained from
+  the least productive land in cultivation and that obtained from land of every other
+  quality," so it would not discourage bringing new land into use.[19]
 - **Equity: the same base is also progressive.**
   [A land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)
   (strong). [Schwerhoff, Edenhofer & Fleurbaey (2022, IMF)](/wiki/schwerhoff-imf-equity-efficiency/)
@@ -359,3 +380,10 @@ Murray documents that the Budget was carefully designed to avoid burdening the w
 16. "Land value return is needed, pragmatic, and achievable," Progress and Poverty (Substack), October 2025. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic) — used for the "land value return" reframing argument in How to Deploy It (advocacy essay, cited as such).
 17. "Transcript: Daryl Fairweather on the Tax That Could Fix Housing," Bloomberg Odd Lots, June 2022. [bloomberg.com](https://www.bloomberg.com/news/articles/2022-06-13/transcript-daryl-fairweather-on-the-tax-that-could-fix-housing) — used as an example of a mainstream economist deploying the LVT pitch to a general finance audience (podcast transcript, navigation-tier).
 18. Mason Gaffney, "George's Economics of Abundance: Replacing Dismal Choices with Practical Resolutions and Synergies," masongaffney.org workpaper WP018, c. 1993–94. [wiki summary](/wiki/gaffney-economics-of-abundance/) · [PDF](https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf) — used for the "magic of justice with the magic of incentive" and "not one square foot will walk out of town" quotations (D-claim, advocacy essay, direct quotations under 50 words).
+19. Henry George (1879), *Progress and Poverty*, Book IX, Ch. I ("Effects of the
+    Remedy — Production") and Book VIII, Ch. IV ("Indorsements and Objections") —
+    used for George's own formulation of the tax-substitution argument and his
+    citation of Ricardo's incidence claim, quoted verbatim (D-claim for the
+    formulation, A-claim for the Ricardo quotation George reproduces; public domain,
+    verified verbatim against the [repository full text](/wiki/progress-and-poverty-full-text/),
+    EDITORIAL §3b).

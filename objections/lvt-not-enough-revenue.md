@@ -5,7 +5,8 @@ tags: [objections, revenue, single-tax, critique]
 stub: false
 status: "Partly addressed — LVT is a major revenue source; full replacement is contested"
 excerpt: "The objection that land rent is too small to fund modern government — Krugman's and Blaug's versions steelmanned — and the responses around hidden rent, ATCOR, and realistic revenue targets."
-last_reviewed: 2026-07-12
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -89,7 +90,12 @@ advocates concede full replacement is uncertain:
    [names and states](/wiki/gaffney-atcor/)). [Gaffney's earlier (1998) chapter](/wiki/gaffney-philosophy-of-public-finance/)
    works the mechanism algebraically and argues the land-tax base rises by *more*
    than the abated building-tax revenue once timing, excess-burden, and synergy
-   effects are added in — a formal version of the same claim.[6] (ATCOR is itself a hypothesis needing empirical
+   effects are added in — a formal version of the same claim.[6] George himself
+   anticipated the mechanism, unnamed, in 1879: abolishing other taxes, he predicted,
+   "would lead to an increase in the value of land — a new surplus which society
+   might take for general purposes" (*Progress and Poverty*, Book IX, Ch. I) — a
+   prediction, not a finding, cited here as the claim's historical root rather than
+   as independent evidence for its size.[7] (ATCOR is itself a hypothesis needing empirical
    testing, as [Doucet's own exposition concedes](/wiki/land-is-a-big-deal/).)
 4. **It needn't be the *only* tax.** Most modern Georgists argue for LVT as a
    *major* revenue source, not a literal single tax. Even partial replacement
@@ -148,3 +154,9 @@ theory.
    (ed.), *The Losses of Nations* (Othila Press, 1998) — used for the algebraic
    ATCOR derivation showing the land-tax base rise exceeds the abated building-tax
    revenue (C-claim, theoretical). [wiki summary](/wiki/gaffney-philosophy-of-public-finance/)
+7. Henry George (1879), *Progress and Poverty*, Book IX, Ch. I ("Effects of the
+   Remedy — Production") — used for George's own 1879 anticipation of the
+   base-expansion (proto-ATCOR) mechanism, quoted and explicitly labeled as a
+   prediction rather than evidence (D-claim, public domain, verified verbatim
+   against the [repository full text](/wiki/progress-and-poverty-full-text/),
+   EDITORIAL §3b).
