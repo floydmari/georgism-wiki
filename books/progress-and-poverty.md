@@ -35,7 +35,7 @@ George's argument proceeds in three major stages:
 
 3. **The remedy.** George proposes a single tax on land values — sufficient to replace all other taxes — which would capture the unearned increment for the community while leaving wages and capital untaxed.
 
-The walk-through above covers Books I–VI; George does not stop at the remedy. Books VII–X go on to argue the remedy's justice (the case against private property in land and against compensating owners), its practical application (tried against the canons of taxation), its effects on production, distribution, and social life, and finally George's own theory of civilization and human progress.
+The walk-through above covers Books I–VI; George does not stop at the remedy. Books VII–X go on to argue the remedy's justice (the case against private property in land and against compensating owners), its practical application (tried against the canons of taxation), its effects on production, distribution, and social life, and finally George's own theory of civilization and human progress — summarized separately on [Book X: The Law of Human Progress](/wiki/progress-and-poverty-book-x/).
 
 ## In George's Own Words
 
