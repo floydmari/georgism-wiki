@@ -1929,3 +1929,19 @@ Tiits and Hughes were already present despite their source pages' stale
 "not yet in registry.csv" notes. One banned-word slip ("the only" inside "one
 of the only") caught by lint and rephrased before commit. 888 pages, lint 0
 errors, 50 warnings — identical to the git-stash-verified baseline.
+
+## 2026-07-18 (cont.) — Wave: tier-three burn-down (restart-recovered, verified, committed)
+
+Container restart killed the tier-three agent mid-wave; relaunched in resume mode.
+Verdict: the partial work was actually COMPLETE — verifier checked every claim
+word-for-word against held sources (Saratoga roster vs the hosted 1890 text;
+Weyl's COST/dividend figures vs the Radical Markets page; Seligman's debate
+quotes verbatim; Fels's lecture-bureau section corroborated via louis-f-post;
+Widerquist de-stubbed with the Goldsmith caveats). Zero fixes needed — committed
+as recovered. Five pages: saratoga-single-tax-debate, e-glen-weyl, era-seligman,
+joseph-fels, karl-widerquist. LANE-EXHAUSTION SIGNAL (formal): the strict
+sub-500-word high-inbound lane is EXHAUSTED — 43 sub-500 candidates remain but
+only a navigational landing page clears 10 inbound; the rest are short because
+they warrant it. Tier four, if run, should widen to ~750 words targeting the
+high-inbound band: fred-harrison (576w/67 inbound!), hong-kong, william-vickrey,
+singapore, joseph-stiglitz. 888 pages, lint 0 errors, warnings baseline-identical.

@@ -6,7 +6,7 @@ stub: false
 born: 1861
 died: 1939
 excerpt: "Columbia public-finance economist (1861–1939), author of The Shifting and Incidence of Taxation — the founding systematic study of who bears a tax — and the single tax's most formidable academic critic, debating the question publicly from the [1890 Saratoga session](/wiki/saratoga-single-tax-debate-1890/) onward."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -35,13 +35,51 @@ of September 5, 1890 — the American Social Science Association session at whic
 organized economics profession — and his incidence framework became the professional
 lens through which the movement's claims were judged.[1][2] The wiki's
 [1914 Johnson critique page](/wiki/johnson-1914-single-tax-critique/) documents the
-next generation of that academic opposition;
-[Gaffney's corruption thesis](/wiki/the-corruption-of-economics/) reads Seligman's
-role adversarially — reported there as Gaffney's argument.
+next generation of that academic opposition. Gaffney's corruption thesis is more
+pointed still: it calls Seligman a "scion of a wealthy banking family" who "created
+the field of public finance in America" and then devoted Chapter III of his own
+*Essays in Taxation* (1895) to "savaging" the single tax — quoting Seligman's later
+retrospective judgment on his own polemical tone, "the spirit of invective is not the
+spirit of science nor philosophy" — an interpretation to read as Gaffney's own framing
+of Seligman's career, not settled history.[4]
 
 Ironically, the incidence tradition Seligman founded underpins the modern
 Georgist-friendly finding that a land tax is **not** shifted to tenants
 ([landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)).
+
+## The Saratoga Address and Reply
+
+At Saratoga, Seligman's opening address made a concession George's side treated as a
+significant admission: on the narrow economic question of who bears a land tax, "Henry
+George is… substantially right in maintaining, with Adam Smith, Ricardo, and Mill, that
+a tax on land values… will fall wholly on the owner." He built his case against the
+single tax entirely on other ground — the canons of **universality** and **equality**
+in taxation, plus a compensation dilemma: either the tax hits only present owners, in
+which case justice requires buying them out (which, he argued, would consume the very
+revenue the tax was meant to raise), or it also hits future purchasers, who paid full
+price for their land and would be taxed while bondholders and other capital owners,
+enjoying comparable "unearned increment," go free.[2]
+
+George's floor reply, delivered the same evening, denied that compensation was owed:
+the single tax proposes to tax future land value going forward, he argued, not to
+settle old scores or claim what owners have already received — "keep what you have; but
+don't do it any more." In the exchange with Edward Atkinson that followed, George drew
+the line his opponents kept pressing him on: the tax would fall only on land carrying
+**economic rent** (land more valuable than the least valuable land in use), so a
+"landless man" could still take up unrented land for free.[2]
+
+Seligman's same-evening reply pressed the compensation point harder — comparing a
+partial land-value tax to a proposal for "pulling out a man's teeth one by one" rather
+than all at once, calling it "pro tanto confiscation" either way — and extended his
+unearned-increment argument beyond land to railroad bonds, appreciating art, and
+"the fortuitous conjuncture of events" behind most large American fortunes, arguing
+that singling out land alone for confiscation-without-compensation was arbitrary. He
+closed by predicting the single tax would intensify the farmer's tax burden and do
+nothing for the "rack-rented" tenement dweller, since urban rents in his account were
+already set by competition for crowded, fully-occupied central-city land rather than by
+idle speculative holdings.[2] The full three-part exchange — Seligman's address,
+George's reply, and Seligman's rejoinder — is transcribed on the wiki's
+[primary-text page](/wiki/saratoga-single-tax-debate-1890/).
 
 ## See Also
 
@@ -49,6 +87,7 @@ Georgist-friendly finding that a land tax is **not** shifted to tenants
 - [Richard T. Ely](/wiki/richard-t-ely/) — the institutional wing of the same academic generation
 - [Johnson (1914), The Case Against the Single Tax](/wiki/johnson-1914-single-tax-critique/)
 - [Tax incidence on the wiki: Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
+- [The George–Seligman Exchange — full primary text](/wiki/saratoga-single-tax-debate-1890/) — the complete Saratoga addresses and replies
 
 ## Sources
 
@@ -60,8 +99,17 @@ Georgist-friendly finding that a land tax is **not** shifted to tenants
 2. *The Single Tax Discussion, Held at Saratoga, Sept. 5, 1890* (American Social
    Science Association; F. B. Sanborn, ed.; Concord, Mass.), containing the "Address
    of Professor Edwin R. A. Seligman" — used for Seligman's role in the 1890 debate
-   (A-claim; venue and proceedings verified this session).
+   (A-claim; venue and proceedings verified this session), and for the address/reply/
+   rejoinder content in the "Saratoga Address and Reply" section, quoted from the
+   wiki's own transcription of this same proceedings volume.
    [Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/browse?type=title&key=single+tax+discussion+held+at+saratoga+sept+5+1890)
+   · [Wiki primary-text page](/wiki/saratoga-single-tax-debate-1890/)
 3. "The Seligman–Edgeworth Debate about the Analysis of Tax Incidence," *History of
    Political Economy* / Project MUSE — used for the incidence-debate context (A-claim).
    [Project MUSE](https://muse.jhu.edu/article/42774/summary)
+4. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994), Gaffney essay
+   Ch. 3 — used for Gaffney's characterization of Seligman's family background, his
+   "created the field of public finance in America" framing, the *Essays in Taxation*
+   Ch. III attack on the single tax, and the "spirit of invective" quotation
+   (Gaffney's interpretation, attributed; Heavy scan, per the wiki's
+   [book page](/wiki/gaffney-harrison-corruption-of-economics/)).
