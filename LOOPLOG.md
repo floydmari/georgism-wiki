@@ -1571,3 +1571,22 @@ real gap on concepts/nimbyism.md. E15 (Heilbrun review, ~2pp): zero-addition,
 no registry row. K1 stale triage checkbox fixed (already covered by
 neoclassical-stratagem page). Registry +3 rows; triage updated; inventory
 regenerated. 876 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney H-series completion (6 folds, 1 decline — water lane CLOSED)
+
+All 9 H-series triage rows now checked. Best catch: H4 (JFE 1962) — recovered via
+%26 fetch from a 404-stub mirror — is Gaffney's published reply to Dean Trelease's
+critique of the Kaweah study: genuine third-party scholarly pushback the water
+page previously said DIDN'T EXIST; Standing-and-Limits corrected accordingly (the
+right direction: the page got MORE contested, not less). H8 (AJES 1969): nine-
+criterion doctrine comparison + primary-source Wright Act economics, upgrading
+california-irrigation-districts from secondary-only sourcing. H22 (AJES 1997):
+heavy fold — WTP/WTA entitlement economics incl. treaty-rights example, named
+1990s permit speculators, avoided-cost traced to George's Science of Political
+Economy. H19's 4pp market design folded despite length (the "how" H21/H22 lack).
+H18 light fold (pre-1986 expensing driver + Compact/revolving-fund details).
+H20 partial (Chinatown Syndrome/Owens 1913; Irvine vs Wright district voting).
+H5 DECLINED on garbled-OCR skim with the limit stated (a clean re-OCR could
+theoretically surface something). No second water page — none cleared the
+distinct-topic bar. Registry +6 rows (none for H5); 6 text mirrors. 876 pages,
+lint 0 errors.

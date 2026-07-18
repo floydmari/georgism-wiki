@@ -1,0 +1,157 @@
+               How a water market might work.
+
+
+Notes by Mason Gaffney, July 27, 1977
+
+
+     On July 14, at a Hearing of the Governor's Commission
+on Water Rights Law Reform, I offered a suggestion that the
+State of California, as the underlying owner of water, set
+a price on withdrawals. This raises the question of how such
+price might be dtermined and administered.
+
+     There are many possibilities, and varying circumstances
+to adapt to. Almost any reasonable pricing arrangement would
+improve on the present practise, so I do not insist on one
+particular scheme. I present here one plan which works like
+the coffee market has this year: when the supply fails the
+price rises, screening out marginal consumption; as supply
+recovers the price drops. It works like the markets in
+which most farmers sell their products: prices rise and fall
+constantly from week to week to balance changing supply and
+demand.
+
+     This will not be a perfect market. There will be only
+one seller, and the buyers will surely form a user's associa-
+tion. But this should not deter us. No human institution
+is perfect, except some that are perfectly awful. The present
+water market is one of these, and the point is to make it less
+awful. Maximum feasible improvement is the goal. To achieve
+this, continous monitoring of both buyers and sellers by a
+sophisticated regulatory agency may be needed, although the
+proposed market is inherently self-regulating in the absence
+of malice and blundering. It is also simple, clean, and
+unambiguous in philosophy, so the needed oversight does not
+entail framing a regulatory concept, or even implementing
+one, but simply the double negative of preventing anyone from
+preventing the system from regulating itself.
+I assume the most difficult case, a stream without storage,
+with unpredictable varying flows. The model is easily
+modified to accommodate storage. Among its benefits, however,
+we find that price flexibility substitutes for some storage
+and reduces the need for it by eliminating waste in dry times
+and encouraging more use in wet times.
+
+     I assume a watermaster in charge both of distributing
+water and collecting money, like any merchant, but subject to
+guidelines provided by legislation. These guidelines essen-
+tially instruct him to follow precepts to be found in hundreds
+of elementary economics textbooks. He is to maximize net
+revenues from water sales subject to the competitive constraint
+that he not withhold supply deliberately to raise price.
+                            -2-
+
+                                                                *
+If he gets into capital outlays and water storage he should
+maximize DCF (discounted cash flow). I assume my readers are
+or can become conversant with the social welfare rationale
+behind such guidelines.
+
+     The main unusual feature of this market is the water-
+master's urgency for information about demand, in the face
+of unpredictable variable unstorable supply. He requires a
+distribution schedule before water runs to waste. The solution
+is advance bidding. Each bidder submits a demand schedule for
+the range of probable prices. The watermaster cumulates these.
+This gives him a basis for striking a market-clearing price at
+any rate of flow, and a set of orders at that price.
+
+     Table 1. shows how a distribution schedule works today.
+Table 2 shows how it works using this advance bidding system.
+Row 2 of Table 2, "Cumulative Demand," having once been deter-
+mined, now becomes Row 1 of a revised Table 1, i.e. Flow of
+Princess R. For every flow there is a price and a set of orders
+for delivery.
+     That is a basic framework. There are bugs to work out
+of the system. I believe they are ininornext to its benefits.
+I would be glad to go into this further if desired by the
+Commission: both the bugs and the benefits.
+                          Table 1
+
+
+                    The Way It's Done Now
+
+
+
+                                  Flow of Princess River
+                                at Muck-a-Muck Narrows (sf)
+
+                         10   20    30   40   50   60   70    80
+Pioneer Ditch            10   15    15   15   15   15   15    15
+Highline Canal                 5     5    5    5    5    5     5
+People's Ditch                       5    5    5    7    8     8
+Onion Slough Water Co.               5   15   25   25   25    25
+Monona I.D.                                        4    4      4
+Porcupine Cut                                      4    4      4
+Valley Mutual                                            1     1
+Amalgamated I.D.
+Fresno Scraper Canal                                     3     3
+Sierra MWC                                              4½    4½
+Barcelona W.S.D.,                                             10
+                                               Table 2
+
+
+                                       The Way It Can Be_Done
+
+                       Jointly Determining Price of Water. and Allocation.
+
+                            Users submit demand schedules indicating desired
+                       flow at each price. Watermaster cumulates these. For
+                       every rate of ow there is now a price and an allocation
+                       schedule (by interpolation if need be).
+
+Price of Water         260 240 220 200 180 160 140 120 100 80 60 40 20 10
+Cum. Demand (sf)         5   8  13  15  17  19  21  25  31 36 50 70 98 140
+
+Pioneer Ditch                                                               1   2   2    3
+Highline Canal                                           1      1   2   2   3   3   4    5
+                                                                        1       5 10
+People's Ditch
+Onion Slough W.C.
+Monona I.D.             ½
+                         1    1
+                              1
+                                   1
+                                   2
+                                         1 4114 14
+                                         3
+                                                                1
+                                                                5
+                                                                    1   1
+                                                                            1
+                                                                            1
+                                                                    5 6101112   1   1
+                                                                                        12
+                                                                                         1
+                                                                                        13
+Porcupine Cut
+                                              1    1     1      2   2
+                                                                        4 44
+                                                                        2
+                                                                        3   9 12 12
+                                                                                         5
+                                                                                        12
+Valley Mutual
+Amalgamated I.D.                                                    1   1   1   3   8    8
+Fresno Scraper Canal                                                1   1   1   1   3    3
+Sierra MWC                                                              1   1   1   1    1
+Barcelona W.S.D.                                                    1   1   1   1   4   20
+Dynamic Ditch           ½     1    1     1    1    1     1      2   2   2   2   2  2     2
+Poverty I.D.            2     2    3     3    3    3     4      4   4   4   4   8 10    10
+Dryland Development           1    1     1    1    2     2      3   3   3   3   3   6    6
+Inovating MWC                      1     1    1    2     2      2   2   2   2   2   8    8
+Enterprise   I.D.                  1     1    1    1     1      1   1   1   1   6   6   16
+Late-blooming
+Farmers' Canal Co.
+                        1     2    3     4    4    4     4      4   5   5   5   5   5 15
+
