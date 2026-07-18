@@ -52,7 +52,13 @@ cautionary anecdote: a 1965 noncompetitive lease auction in which Alaska sold wh
 estimates at roughly $10 billion of oil at Prudhoe Bay for $6 million, the kind of
 underpricing an ex post, reserves-based charge is designed to avoid. (D-claim:
 design argument and administrative-practicality reasoning in a commissioned
-government report, not an econometric estimate.)
+government report, not an econometric estimate — though the report's companion
+Part II appendices do supply an independent econometric estimate for the
+*rejected* alternative: contributor Richard Norgaard's regression of Alaska's own
+Cook Inlet lease sales found bonus bidding captured only 9–16% of realized rent
+there, a B-claim corroborating Gaffney's ranking of bonus bidding below the AVC
+without directly testing the AVC itself — see
+[Part II](/wiki/gaffney-alaska-oil-leasing/#part-ii-the-appendices-a-l).)
 
 ## Rent Capture in Forestry — Gaffney on Site-Value vs. Yield Taxation
 

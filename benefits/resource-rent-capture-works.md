@@ -125,7 +125,13 @@ was running on its own oil and gas reserves at the same moment, before Propositi
 ranks the AVC above bonus bidding, delay rentals, and flat royalties precisely
 because it is assessed *ex post* discovery rather than *ex ante* guesswork, sparing
 the State the Prudhoe Bay outcome by collecting on what is actually found rather
-than gambling on a single upfront price. The lesson for "capture works": Alaska's
+than gambling on a single upfront price. The report's companion Part II appendices
+(read in a later wave) supply an independent empirical check on that ranking:
+contributor Richard Norgaard regressed Alaska's own offshore Cook Inlet bonus-bid
+sales (Lease Sales 7 and 9) against the oil actually discovered and found bonus
+bidding captured only an estimated 9–16% of realized rent there — using real
+multi-sale Alaska data, not the single dramatic Prudhoe Bay anecdote.[10] The lesson
+for "capture works": Alaska's
 much-cited dividend success (below) rests on a prior, less-visible design question —
 how much rent the leasing terms let the State collect in the first place — that
 state economic advisors were actively working out at the exact moment the Fund was
@@ -309,7 +315,9 @@ necessary; the institutions are what make it sufficient.
     [PDF](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf)
     — used for the 1965 Prudhoe Bay lease-sale anecdote and the "ad valorem charge"
     design proposal (commissioned government consulting report, not peer-reviewed;
-    corroborating, not load-bearing).
+    corroborating, not load-bearing); also, via the report's companion Part II
+    appendices, for contributor Richard Norgaard's Cook Inlet bonus-bid regression
+    (Appendix E — an independent econometric estimate, not Gaffney's own).
 11. Mason Gaffney (1977), "Greater Social Benefits From our National Forests," an address
     to the Western Timber Association — [wiki summary](/wiki/gaffney-forest-taxation/) ·
     [PDF](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)

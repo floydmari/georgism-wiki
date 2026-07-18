@@ -15,6 +15,25 @@ gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depleti
 gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy;
 narratives/the-corruption-of-economics; people/mason-gaffney.
 
+**2026-07-18 (Alaska Part II backlog resolution):** *Oil and Gas Leasing Policy for
+Alaska* (1977), **Part II: Appendices A–L**, read and mined — the companion volume
+deliberately left unread when Part I was mined 2026-07-17. Image-scan PDF (155
+pages, no usable embedded text); OCR'd this session (`pdftoppm -r 200` + Tesseract
+5.3.4) and added as a new "Part II" section to
+[research/gaffney-alaska-oil-leasing](/wiki/gaffney-alaska-oil-leasing/#part-ii-the-appendices-a-l),
+resolving the page's `[VERIFY]` flag. Twelve appendices: Gaffney's own worked
+numerical examples (A, B, C, H, I, J, unsigned K) plus three independently authored
+contributed papers — Michael Crommelin (Melbourne) on non-competitive leasing
+abroad, Richard Norgaard (UC Berkeley) regressing actual Cook Inlet lease-sale data
+to find bonus bidding captured only 9–16% of realized rent there, and three papers
+by consulting economist Robert F. Rooney on multipart royalty design,
+exploration-expenditure bidding, and profit-share bidding. No contributor dissent
+from Gaffney's ad valorem charge recommendation found — the appendices independently
+corroborate his low ranking of bonus bidding and profit sharing without commenting
+on the AVC directly. Norgaard's finding wired (delta addition, not restatement)
+into benefits/resource-rent-capture-works and concepts/resource-rents as an
+independent econometric plank alongside Gaffney's own design argument.
+
 **2026-07-18 (T2 wave — tier-2 batch 3):** *"Capital" Gains and the Future of Free
 Enterprise* (1991) and *Counter-colonial Land Policy for Montana* (1977) read,
 drafted, and wired; *Corporations, Democracy, and the U.S. Supreme Court* (2010)
@@ -118,8 +137,8 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [x] `A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf` — https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf — [research/gaffney-financial-maturity-timber](/wiki/gaffney-financial-maturity-timber/), 2026-07-18. Title/venue verified from the document: A.E. Information Series No. 62, NC State College, Sept. 1957 — NOT a Duke dissertation (Gaffney's actual PhD dissertation is a separate 1956 UC Berkeley work); graded Important on strong external academic standing (81 Semantic Scholar citations, Samuelson 1976 endorsement, credited with the 1957-76 Faustmann revival).
 - [x] `A3-AlternativeWaysofTaxingForests.CV.pdf` — https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf — combined with A5 into [research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/), 2026-07-18. Dated "Number 43, March 1980" in the document; publication venue/series not identified (`[VERIFY]` on page).
 - [x] `A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf` — https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf — combined with A3 into [research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/), 2026-07-18. Western Timber Association address, March 4, 1977.
-- [ ] `B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf
-- [x] `B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf — [research/gaffney-alaska-oil-leasing.md](/wiki/gaffney-alaska-oil-leasing/), 2026-07-17. Part II (Appendices A-L, line above) not covered this wave.
+- [x] `B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf — [research/gaffney-alaska-oil-leasing.md](/wiki/gaffney-alaska-oil-leasing/#part-ii-the-appendices-a-l), 2026-07-18. Image-scan PDF (155 pages), no usable text layer; OCR'd this session (`pdftoppm -r 200` + Tesseract 5.3.4) to `sources/gaffney/text/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.txt`. Twelve appendices A-L: Gaffney's own worked AVC/DCF numerical examples and Alaska leaseholder-concentration data (A, B, C, H, I, J, K), plus three independently authored contributed papers (Crommelin on non-competitive leasing abroad, D; Norgaard's Cook Inlet bonus-bid regression, E; three Rooney papers on royalty design, exploration-expenditure bidding, and profit-share bidding, F/G/L). No contributor dissent from the AVC recommendation found. Resolves the `[VERIFY: Part II not yet read]` flag carried on the page since 2026-07-17.
+- [x] `B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf — [research/gaffney-alaska-oil-leasing.md](/wiki/gaffney-alaska-oil-leasing/), 2026-07-17. Part II (Appendices A-L, line above) covered 2026-07-18.
 - [ ] `B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf` — https://masongaffney.org/publications/B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf
 - [ ] `B1Extractive_Resources_Conclusion.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf
 - [ ] `B1Extractive_Resources_Intro.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf

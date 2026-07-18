@@ -6,7 +6,7 @@ excerpt: 'Gaffney''s February 1977 report to Governor Hammond and the Alaska Leg
   on oil-and-gas leasing policy, commissioned three months after voters created the
   Permanent Fund, proposing an "ad valorem charge" on reserves in place as the state''s
   primary instrument for capturing oil rent before a barrel is produced.'
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-18
 source_url: https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -51,11 +51,16 @@ The document is a **commissioned government consulting report**, not a peer-revi
 paper: Gaffney describes its tenor as "expository and not advocatory," a systematic
 survey of leasing alternatives for legislative review rather than a single argued
 thesis, though he offers his own "Tentative Recommendations" at the end.[1] This page
-covers **Part I** (~36,600 words) — the main report. A companion **Part II**
-(Appendices A–L, including contributions by Michael Crommelin, Richard Norgaard, and
-Robert Rooney, and Gaffney's own numerical worked examples) exists in the same
-archive but is not covered by this page; it remains a candidate for a future wave.
-`[VERIFY: Part II Appendices A-L not yet read or mined this session]`
+covers **Part I** (~36,600 words) — the main report — and, as of this revision,
+**Part II**: a separate 155-page volume of twelve lettered appendices (A–L), read
+and mined below in [Part II: The Appendices](#part-ii-the-appendices-a-l). Part II
+mixes Gaffney's own numerical worked examples backing up Part I's arguments
+(Appendices A, B, C, H, I, J, and an unsigned K) with four independently authored
+contributed papers commissioned alongside the main report: Michael Crommelin
+(University of Melbourne) on non-competitive leasing abroad, Richard Norgaard (UC
+Berkeley) testing bonus bidding against actual Alaska sale data, and three papers by
+consulting economist Robert F. Rooney on royalty design, exploration-expenditure
+bidding, and profit-share bidding.[6]
 
 ## The Founding Anecdote: $10 Billion of Oil for $6 Million
 
@@ -152,6 +157,151 @@ of the theory of optimal-extraction timing Gaffney had developed in an earlier w
 principle that a resource owner should withhold, not rush, an appreciating asset
 whose value is compounding faster than the owner's cost of capital.[1]
 
+## Part II: The Appendices (A–L)
+
+### Gaffney's own worked examples (Appendices A, B, C, H, I, J, K)
+
+Appendices A and B carry forward the numerical illustration of the "ripeness"
+timing criterion from Part I's appended "Extractive Resources and Taxation" essay:
+a graphical worked example (Figure C.4) of Moving vs. Stationary Present Value, and
+a worked argument that longer mine/well reserve life slows an industry's adjustment
+to changed interest rates — illustrated with Anaconda Copper, which held roughly 40
+percent of world copper reserves against under 14 percent of world output and was,
+Gaffney notes, investing to raise output by 50 percent from those "idle" reserves.[6]
+
+Appendix C supplies the leaseholder-concentration data Part I's "Standing and
+Limits" section flags as Gaffney's own, previously unverified, Alaska-source
+citation. Tables C-1/C-2 (source: "Pedro Denton, D.N.R.") rank Alaska's
+**noncompetitive** leaseholders by acreage: Texaco (16.2%) and Union (15.8%) alone
+account for 32.0% of the cumulative total, and the top five firms (adding Cities
+Service, Amoco, and ARCO) reach 53.8%. Table C-3 does the same for **competitive**
+acreage: Atlantic Richfield leads at 17.8%, with the top five firms (adding Sohio,
+Phillips, Union, and BP Alaska) at 48.2%.[6] This resolves Part I's honest gap: the
+concentration Gaffney's prose describes is real and heavily skewed toward a handful
+of major integrated firms under both allocation systems.
+
+Appendix H works a full numerical example of computing the AVC itself, using actual
+Prudhoe Bay reserve-flow forecasts (the Van Poollen 1976 reservoir-engineering
+report on the Sadlerochit Formation) at a 20 percent AVC rate: because the charge is
+"capitalized" against 25 years of expected flows, Gaffney shows the effective
+current-year split between lessor and lessee lies at roughly 2.5-to-1 in the
+State's favor, not the nominal 20 percent the headline rate suggests.[6] Appendix I
+then runs a sensitivity test on that same Sadlerochit data across a range of
+discount rates and finds production timing "not very sensitive to large increases
+in the interest rate or the ad valorem charge" — direct numerical support for Part
+I's claim that the AVC does not meaningfully bias extraction speed.[6] Appendix J,
+"The Future Shift Effect," derives algebraically that a royalty (unlike the AVC)
+biases the optimal extraction schedule toward slower, longer production, and closes
+by reprinting a formal proof — attributed to **William Vickrey** and Michele
+Consigny and headed "Tax-Induced Slow Turnover of Capital," citing the *American
+Journal of Economics and Sociology* (page 107 per the reprint's running head) —
+that an income tax computed on true economic depreciation is intertemporally
+neutral. `[VERIFY: this page cites the Vickrey/Consigny proof only as reprinted in
+Appendix J of this OCR'd PDF; the original AJES article has not been independently
+located or read this session]`[6] The unsigned Appendix K,
+"Financial Characteristics of Energy Firms Operating in Alaska," compiles Fortune
+500 data showing large integrated energy firms are markedly less labor-intensive
+than either smaller energy firms or large non-energy industrials (net worth per
+employee of roughly $119,000 for the ten largest energy firms vs. $24,200 for the
+ten largest non-energy firms) and enjoy sharply cheaper long-term credit (Aaa/Aa
+energy-firm bonds yielding 7.6–7.9% in mid-1976 vs. 14–16% for Ba/B-rated
+borrowers) — offered as the explanation for those firms' capacity to bond against
+newly discovered reserves and pay charges like the AVC well in advance of
+production.[6]
+
+### Appendix D: Michael Crommelin — non-competitive leasing abroad
+
+Michael Crommelin (Faculty of Law, University of Melbourne), in a paper "prepared
+for Dr. Mason Gaffney" and dated 27 January 1977, surveys the non-competitive
+leasing systems used by the United Kingdom, Norway, Canada, Australia, and the
+Middle East producers — noting the United States "represents the exception rather
+than the rule" in relying on competitive bidding — and catalogs the standard
+critique of filing and discretionary systems: inefficiency from races to file
+before geological information is adequate, loss of potential government revenue
+relative to competitive sale, and weaker government control over where exploration
+happens.[6]
+
+### Appendix E: Richard Norgaard — testing bonus bidding against actual Alaska data
+
+Richard Norgaard (Associate Professor of Agricultural and Resource Economics, UC
+Berkeley), in "Uncertainty, Competition, and Leasing Policy," supplies the report's
+only independent econometric test, and its strongest empirical grounding for the
+central case against bonus bidding. Regressing Alaska's own offshore Cook Inlet
+Lease Sales 7 and 9 bonus bids against the discounted value of oil later produced
+and the number of bidders, Norgaard finds the bid highly sensitive to bidder count
+(an increase from three to four bidders raised the bid by roughly 78%) but weakly
+tied to what was actually found — "[t]he simple correlation coefficient between
+these two variables even turned out to be negative."[6] Under assumptions he states
+are deliberately biased in favor of bonus bidding's effectiveness, Norgaard
+estimates the bonus bid captured only **9 to 16 percent** of the rent remaining
+after royalties and production costs at Cook Inlet, concluding report-wide that
+bonus bidding has been "between 5 and 20 percent effective... as a means of
+collecting rent."[6] This is Part II's most significant addition: where Part I's
+case against bonus bidding rests on the singular, dramatic Prudhoe Bay anecdote,
+Norgaard independently reaches the same conclusion from a multi-sale regression
+using Alaska's own lease-sale record. His recommendations — state-sponsored
+pre-sale exploration and information disclosure to reduce bidder uncertainty, and
+state-set competitive bid-rejection floors — do not engage Gaffney's AVC proposal
+at all; they are aimed at making bonus bidding itself work better, should the State
+retain it.
+
+### Appendices F and G: Robert Rooney — refining royalties, and a fifth design
+
+Robert F. Rooney, Ph.D. (an independent consulting economist, Fallbrook,
+California, who elsewhere in Part II identifies himself as the author of a related
+study for the California State Lands Commission), contributes three papers.
+Appendix F, "Royalties on Petroleum Production" (January 1977), works a single
+hypothetical lease through a full numerical example to show that a **multipart
+(sliding-scale) royalty schedule** — 12.5% on the first 10,000 barrels/year, 66.7%
+above that, in his example — can more than double a landowner's discounted lease
+receipts relative to a flat one-sixth royalty ($33.9 million vs. $73.85 million)
+while *avoiding* the standard objection to raising a flat royalty rate: in his
+example, a flat four-sixths royalty causes abandonment after 26 years against 36
+years for the flat one-sixth rate, while the multipart schedule reaches the higher
+revenue without shortening field life.[6] Rooney frames this as an improvement
+achievable **within** the royalty instrument Part I ranks below the AVC, not as a
+case for adopting AVC itself. Appendix G, "Exploration Expenditure Bidding for
+Exploratory Leases on Lands Owned by the State of Alaska" (January 1977), proposes
+a fifth allocation design beyond bonus bid, royalty, AVC, and profit share: award
+exploration leases to whichever bidder commits the largest funded program of
+exploration and environmental-impact work, let that bidder select one productive
+tract for development if the program succeeds, and re-offer the remaining tracts
+competitively with the now-public exploration data — aimed specifically at
+Alaska's untested frontier acreage, where geological uncertainty is too high for
+bonus bidding to price well.[6]
+
+### Appendix L: Robert Rooney — profit-share bidding, a negative verdict
+
+"Profit Share Bidding for Petroleum Leases" (February 1977) examines the one real
+US precedent — the State of California and City of Long Beach's 1965 competitive
+profit-share sale of the East Wilmington unit in Long Beach Harbor — and works
+through administrative problems with the design: incentives for an
+integrated-refiner lessee to undervalue production via internal transfer pricing
+("quasi-rent" capture), reciprocity arrangements with materials suppliers (Rooney
+cites the East Wilmington dispute over restricting tubular-steel bids to American
+firms), and the practical impossibility of auditing a diversified lessee's books.
+Rooney concludes that "a careful analysis of all the alternative leasing procedures
+will result in a relatively low ranking being assigned to profit share bidding on
+economic grounds."[6] From a different angle — administrability rather than
+discounted-cash-flow logic — this reaches the same place as Part I's own ranking of
+bonus bidding, royalties, and profit sharing all below the AVC.
+
+### No contributor dissent from the AVC recommendation found
+
+None of the four independently authored appendices directly engages or disputes
+Gaffney's central ad valorem charge proposal: Crommelin's brief is
+international-comparative, Norgaard's is a data-driven case against bonus bidding
+specifically, and Rooney's three papers work to improve or evaluate royalty,
+exploration-expenditure, and profit-share designs on their own terms. Read
+together, the contributed appendices supply independent support for Part I's low
+ranking of bonus bidding (Norgaard's regression) and profit sharing (Rooney's
+administrability critique) without ever taking an explicit position for or against
+Gaffney's top recommendation. This page reports that absence rather than treating
+silence as agreement. `[VERIFY: checked only against these appendices as OCR'd from
+the archived PDF, not against any transmittal letter, legislative testimony, or
+correspondence that might record a contributor's view of the AVC proposal
+directly]`
+
 ## Standing and Limits
 
 This is a **commissioned government consulting report**, not a peer-reviewed paper —
@@ -166,10 +316,16 @@ of the report beyond delivery to the Alaska Legislature and DNR — not establis
 this session]` Its empirical claims (the 1965 Prudhoe Bay sale price, the leaseholder
 concentration data, the cost-inflation figures) are Gaffney's own citations of
 contemporary Alaska sources (DNR staff, industry survey data) rather than
-independently verified by this page. The AVC proposal itself is a **design argument**
-— Gaffney argues from administrative and incentive principles, not from an estimated
-model of Alaska field values, for why an ex post reserves-in-place charge dominates
-ex ante bonus bidding; the report offers no econometric test of the claim.
+independently verified by this page — Part II's Appendix C (Tables C-1 through C-3,
+sourced to "Pedro Denton, D.N.R.") now supplies the actual concentration figures
+behind that claim, but the underlying DNR acreage data itself remains uncorroborated
+by an outside source. The AVC proposal itself is a **design argument** — Gaffney
+argues from administrative and incentive principles, not from an estimated model of
+Alaska field values, for why an ex post reserves-in-place charge dominates ex ante
+bonus bidding; the report offers no econometric test of the AVC claim itself, though
+Part II's Appendix E (Norgaard) does supply an independent econometric test of the
+*rejected* alternative — bonus bidding — using actual Alaska sale data; see
+[Part II](#part-ii-the-appendices-a-l) above.
 
 The report predates, and is not itself about, the **Permanent Fund Dividend**: it is
 addressed to how the State should structure *leases* to capture oil rent as
@@ -195,7 +351,9 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
   commissioned a systematic rent-capture design study at the very moment its
   constitutional Permanent Fund was created, showing capture-oriented economic
   advice shaping a resource-rich jurisdiction's leasing law before, not after, the
-  windfall was fully realized.
+  windfall was fully realized. Part II adds an independent econometric plank to
+  the same case: Norgaard's regression of actual Cook Inlet lease-sale outcomes
+  (Appendix E), finding bonus bidding captured only 9–16% of realized rent there.
 - **Concept:** [Resource Rents](/wiki/resource-rents/) — supplies a leasing-side
   design instrument (the ad valorem charge on reserves in place) distinct from and
   complementary to the severance-tax design already covered there from Gaffney's
@@ -224,9 +382,8 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
    `scratchpad/cache/gaffney-mirror/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf`).
    [Free PDF (masongaffney.org)](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf);
-   local mirror at `sources/gaffney/`. Part II (Appendices A–L,
-   `B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf`) exists in the same
-   archive and is not covered by this page.
+   local mirror at `sources/gaffney/`. Part II (Appendices A–L) is a separate
+   document — see source 6.
 2. Alaska Department of Revenue, Permanent Fund Dividend Division — used for the
    November 1976 constitutional-amendment date and the first 1982 dividend payment,
    corroborating the report's own internal reference to an already-existing
@@ -243,3 +400,30 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
    — used for the honest scoping statement that this report's capture-side content
    is distinct from, and does not add evidence to, the PFD's dividend-operation
    record.
+6. Mason Gaffney, Michael Crommelin, Richard B. Norgaard, and Robert F. Rooney,
+   "Oil and Gas Leasing Policy for Alaska, Part II: Appendices A–L," companion
+   volume to source 1, 1977 (contributed papers individually dated January–February
+   1977) — used for the entire [Part II](#part-ii-the-appendices-a-l) section: the
+   worked AVC/DCF examples (Appendices H, I, J), the leaseholder-concentration
+   tables (Appendix C), the Fortune 500 energy-firm financial data (Appendix K),
+   Crommelin's international leasing survey (Appendix D), Norgaard's Cook Inlet
+   bonus-bid regression (Appendix E), and Rooney's royalty, exploration-expenditure,
+   and profit-share papers (Appendices F, G, L). This is an **image-scan PDF with no
+   usable embedded text layer** (`pdftotext` extracted essentially nothing —
+   confirmed against page-by-page tests this session); the full 155 pages were
+   rendered to PNG at 200 DPI (`pdftoppm -r 200 -png`) and OCR'd page-by-page with
+   Tesseract 5.3.4 (`--psm 6 -l eng`) this session (2026-07-18), then concatenated
+   with page markers to
+   `sources/gaffney/text/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.txt`.
+   All quotations above were checked against that OCR text and spot-checked against
+   the rendered page images. `[VERIFY: OCR quality is poor on several image-heavy
+   pages — the bar-chart pages under Appendix C (raw acreage-by-year charts) and the
+   Moody's bond-yield table under Appendix K are visibly garbled; this page avoids
+   quoting numbers from those specific pages and relies instead on the cleanly-OCR'd
+   summary tables (C-1/C-2/C-3 rankings, Appendix K's net-worth-per-employee
+   ranking, and Rooney's royalty-schedule tables) and prose passages, each
+   spot-checked against the source image.]`
+   [Free PDF (masongaffney.org)](https://masongaffney.org/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf) ·
+   [archived](https://archive.progress.org/gaffney/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf);
+   local mirror at
+   `scratchpad/cache/gaffney-mirror/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf`.

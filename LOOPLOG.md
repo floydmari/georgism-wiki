@@ -1291,3 +1291,23 @@ GATE OPEN: WS-TECH-RENTS a-d all done → instrument-comparison synthesis unlock
 Synthesis must reconcile against Korinek-Lockwood Table 3 (DST/robot-services =
 consumption-tax-like vs compute/robot-ownership = capital taxes) and decide
 include-or-exclude-with-reason for their SWF/windfall-clause/UBC family.
+
+## 2026-07-18 (cont.) — Wave: Gaffney Alaska 1977 Part II Appendices A-L (VERIFY resolved)
+
+The deliberate Part-I-wave flag closed: Part II (155pp image scan) found on the
+local gaffney mirror, OCR'd via pdftoppm+tesseract (mid-run agent stall recovered
+by coordinator nudge after OCR completed 155/155), text committed to
+sources/gaffney/text/. Standout find: Appendix E — Norgaard's Cook Inlet
+regression (Lease Sales 7 and 9) showing bonus bidding captured only ~9-16% of
+realized rent — independent ECONOMETRIC corroboration of Part I's anecdote-based
+case, now wired into benefits/resource-rent-capture-works (explicitly labeled
+corroborating-not-load-bearing) and concepts/resource-rents. Appendix C resolves
+Part I's unspecified leaseholder-concentration claim with real numbers (top-5
+noncompetitive = 53.8% of acreage); H/I give the AVC's worked 2.5:1 split on real
+Sadlerochit data; J the royalty-timing-bias algebra (banned-word fix: "derives"
+not "proves"); D/F/G/L the Crommelin/Rooney alternatives. Contributor dissent:
+NONE FOUND — reported as absence, not tacit agreement, with a scoped VERIFY. 4 new
+deliberate VERIFY flags all narrowly scoped (Vickrey/Consigny original not located;
+OCR-poor pages not quoted; correspondence unchecked; Part I circulation history
+untouched/out of scope). Triage ledger row checked off. Registry +1 row (Part II).
+863 pages, lint 0 errors. Task #28 wave complete — WS-TECH-RENTS synthesis next.
