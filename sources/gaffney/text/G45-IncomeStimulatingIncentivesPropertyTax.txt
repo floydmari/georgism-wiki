@@ -1,0 +1,1168 @@
+                           Chapter 8
+
+       The Income-Stimulating
+    Incentives of the Property Tax
+             Mason Gaffney and Richard Noyes
+
+1. Reputation of the property tax
+IT WAS common practice in the 1990s to proclaim the unpopularity of the
+property tax in the United States.
+   Unpopularity, of course, is generic with taxes. Property taxes are levied
+in relatively large sums once, twice or at best only a few times each year,
+an inconvenience that may aggravate the attitude more so than for taxes
+that are "candy coated". But is there something universally detrimental in
+this case? Or is the attitude fostered by the holders of large properties
+who find other taxes easier to escape? The architects of good government
+need to know.
+   The hard evidence supports the latter explanation. But whatever the
+explanation the electorate's prejudice, where it exists, is misconceived.
+The facts are clear enough. Where a large share of fiscal revenue comes
+from property taxes, individual income tends to be high. There is a clear
+propensity for the local economy to grow faster than in those states which are
+less dependent upon the property tax than on taxes linked to income or sales.
+   Our findings begin with an analysis of two states - New Hampshire and
+California - which differ in that choice.
+   New Hampshire shows a strong and stable aversion to taxes on income
+or consumption (Table 8:1), and a strong preference for the property tax. It
+is the only state in the Union where more than half of all government
+revenue, both state and local, comes from the property tax. In fact, nearly
+two-thirds of all state/local revenue is from that source.
+   But that is not the only distinctive feature about New Hampshire. For
+example, it has been growing twice as fast as its neighbors - such as
+Maine and Vermont - and that difference needs explanation. Could there
+be a connection between the property tax and prosperity?
+                                    206
+The Income-Stimulating Incentives of the Property Tax                      207
+  California's use of the property tax has diminished sharply since the
+change known by its enactment: Proposition 13. Its tax history has been
+more typical of the 50 states as a whole, during the two or three decades
+when the "unpopularity" claim emerged. Limited sharply in property tax
+use, it has turned of necessity to taxes on both sales and income. Its once
+vigorous growth rate has been slowed. Could there be a connection between
+the decline of the property tax and the slump in the state's economic
+prosperity?
+   The two states differ in other ways, too, so we have looked at a wider
+number of states, grouping them by a range of differences, in search of
+valid conclusions.
+   As unpopularity was charged against the property tax, voters came to
+oppose it sharply enough to make political leaders propose, as alternatives,
+new taxes on labor, industry, trade and money flow. The property tax,
+once the principal source of money to fund state and local governments,
+dwindled in the latter half of the 20th century. Having "provided some
+80% of all state-local revenue until the early 1920s, [it] was providing only
+45% of that total in the mid-1950s" and had fallen to about 30 % at the
+start of the 1980s (Netzer 1983: 222).
+   Some states shifted away from it sooner than others. New Hampshire
+refused to make the shift at all. The results make it possible, by a comparison
+of tax structures in the 50 United States, to draw some conclusions about
+cause and effect.
+   California's basic state rate for sales taxes is 7% (1997), but counties
+may add to it. The top combined rate in San Francisco county is 8.5%.
+Ever since Proposition 13, sales taxes have risen to make up for the
+losses.
+   There is no clear pattern to the new taxes adopted by states as the
+property tax waned. Texas, Wyoming, South Dakota, and Washington are
+among states which have no personal income tax but do have general
+sales taxes. Oregon has no sales tax, but a personal income tax ranging
+from 5% to 9%. Several states have corporate income taxes. Most states
+have added many sundry "nuisance" taxes like a surtax on hotel rooms,
+tuition hikes at state universities, sin taxes, etc.
+   All things taken into account, New Hampshire's state tax burden is the
+lightest for any of the 50 states when measured as a percentage of per
+capita income. When local taxes are included, the total burden moves up
+a little in the rankings, but the essential fact is that those local taxes are on
+property. And by a number of different measures, the state is among the
+most prosperous states.
+208                                                        The Losses of Nations
+                                  Table 8:1
+   Rates of Three Major Taxes Selected States, USA, 1992: %
+
+                                       \
+
+       New Hampshire                 (a)             8.0              0.0
+       California                 1.0-11.0           9.3              6.0
+       Maine                     2.1-9.89         3.5-8.93            6.0
+       Vermont                       (b)          5.5-8.25            5.0
+       New Jersey                  2.0-7.0           9.0              6.0
+       New York                   4.0-7.87           9.0              4.0
+       Pennsylvania                 2.95            12.25             6.0
+
+      SOURCE: Tanzi 1995:21, Table 3-I, which drew from data furnished by the
+      Advisory Commission on Intergovernmental Relations (ACIR).
+
+      Note (a): New Hampshire has only a twilight shadow of a personal income
+      tax. A 5% tax on income from interest and dividends is a left-over from the
+      earlier revision of personal property taxes on securities. Local assessors
+      had found it hard to keep up-to-date information on them, so the state
+      imposed the tax on income. The total income subject to it in 1995 was only
+      2.5% of all individual personal income.
+      Note (b): Vermont's income tax was pegged at from 28% to 34% of federal
+      income tax liability.
+
+
+  Could this correlation be due to its heavy dependence on the
+property tax, coupled with a low dependence on other taxes?
+  California, by contrast, has been running down its use of the property
+tax as a revenue-raiser. Can we accurately see, as a result of this, the
+relative collapse of its economic prosperity and the quality-of-life of its
+citizens?
+   Figures published by ACIR in its two-volume Sign ijI cant Features of
+Fiscal Federalism (SFFF) for 1994 provide some data that will help. They
+are for the year 1992.
+   Since the search is for evidence of cause and effect, it is necessary to
+be concerned with relationships. This explains the fact that many of the
+numbers in what follows are ratios: a measure of relationship.
+  It makes sense to examine the relationship between the property tax
+The Income-Stimulating Incentives of the Property Tax                         209
+
+and all state and local taxes, taken together. We start at the top and at the
+bottom of the list, with New Hampshire and Alabama, comparing them
+with the average for the nation. And because the population of the 50
+states varies so greatly, it is not total dollars that interest us, but dollars per
+capita.
+
+                                   Table 8:11
+                            Taxes per capita ($)
+
+                                Property          All state!
+                                   Tax           local taxes          Ratio
+
+       United States                699              2178               .32
+       New Hampshire               1344              2098               .64
+       Alabama                      174              1435               .12
+
+
+
+  The top and bottom are highly suggestive. They accurately symbolize
+our more general findings. However, we need to look at the figures for
+more states, and to the ratios between more of the factors under
+consideration. We start by grouping those states with high ratios of property
+tax use and those states with low such use ratios, so as to compare those
+highs and lows, and other factors.
+   The top five states in this Property Tax!All Taxes ratio have higherper
+capita incomes than the bottom five states. It means extra columns; the
+three above, plus one for state!local tax burden in dollars per thousand and
+another for the per capita income ranking within the whole country.
+   The "New Hampshire five" have high property tax per capita as the
+sum of two reasons: first, higher taxes per capita; and second, a higher
+ratio of property tax to all state and local taxes. Of the two reasons, the
+ second is stronger. Here are the ratios for the means above: first, 3091/
+ 1606 = 1.92; second, .41!.15 = 2.73
+    Do the top five levy higher taxes per capita because of higher per
+ capita income? The ratio for the means here are 24.3/16.0 = 1.52. This
+ direction of causation would require that a 52% rise of income per capita
+ caused a 92% rise of all taxes, and a 173% rise of property taxes. That
+ seems extreme, and therefor implausible. It is more plausible that the heavier
+ dependence on property taxes caused the rise of personal income per
+ capita. We explore this further below.
+210                                                  The Losses of Nations
+                                 Table 8:11!
+           States Ranked by Property Tax per capita ($)
+                                                             S
+                                               S
+TOP FIVE
+      New Hampshire 1344             2098      .64    21.9       8
+      New Jersey     1268            2926      .43    26.1      2
+      Connecticut         1198       3061      .39    27.2       1
+
+      NewYork             1178       3534      .33    24.1       3
+      Alaska              1069       3835      .28    22.1       7
+      (Unweighted
+      Mean)               1211       3091      .41    24.3      4.2
+
+BOTTOM FIVE
+    Louisiana             277        1654      .17    15.9     45
+    Arkansas              261        1518      .17    15.6     46
+    Oklahoma              243        1635      .15    16.4     42
+    New Mexico            217        1788      .12    15.5     49
+    Alabama                174       1435      .12    16.5     41
+    (Unweighted
+    Mean)                 234        1606      .15    16.0     44-6
+
+Hypothesis 1
+A high ratio of high property taxes to all taxes is associated strongly
+with high personal income per capita.
+  This is important enough so that we should complete the ranking by the
+ratio of property taxes to all taxes. The source of data is the same as
+above. The new columns at the right are personal income per capita and
+the ranking for that measure.
+   The mean personal income per capita ranking of the high eleven is
+19.3, versus a ranking for the low eleven of 36.3.
+   The mean all-tax revenues are higher in the Top Eleven (Table 8:IV).
+This refutes the conventional argument that states like New Hampshire
+skimp on public spending (although New Hampshire itself is slightly below
+the United States mean of $2, 178.)
+   The starkest contrast is between New Hampshire itself, with 64% of its
+state and local revenues coming from the property tax, and Alabama and New
+Mexico with only 12%. New Hampshire ranks eighth in personal income per
+Michigan
+New Jersey
+Wyoming
+Vermont
+Rhode Island
+                            ,
+The Income-Stimulating Incentives of the Property Tax
+                           Table 8:IV
+
+
+
+
+                         2173
+                         2926 1268
+                         2335
+                         2283
+                         2243
+                                   950
+
+                                   991
+                                   954
+                                   943
+                                            1
+      US States Ranked by Ratio of Property Tax to All Taxes
+
+
+
+TOP ELEVEN
+New Hampshire            2098 1344         .64
+                                           .44
+                                           .43
+                                           .42
+                                           .42
+                                           .42
+                                                   2
+
+                                                   4
+
+                                                   6
+                                                    1
+
+
+
+                                                    3
+
+                                                    5
+                                                         21.9
+                                                         19.6
+                                                         26.1
+                                                         18.2
+                                                         18.8
+                                                         20.3
+                                                                    8
+                                                                   20
+                                                                    2
+                                                                   27
+                                                                   26
+                                                                   18
+                                                                        211
+
+
+
+
+Oregon                   2096      864     .41      7    18.6      28
+Montana                  1770      707     .40      8    16.2      43
+Connecticut              3061     1198     .39     9     27.2       1
+
+Illinois                 2205      849     .39    10     21.8       9
+Texas                    1857      730     .39     11    18.4      30
+Mean                     2277      982     .43    20.7   19.3
+
+BOTTOM ELEVEN
+Tennessee                1471     348      .24    40      17.7     35
+North Carolina           1814     374      .21    41      17.9     34
+West Virginia            1660     294      .18    42      15.6     47
+Kentucky                 1755     297      .17    43      16.5     40
+Arkansas                 1518     261      .17    44      15.6     46
+Louisiana                1654     277      .17    45      15.9     45
+Hawaii                   2935     481      .16    46     22.2       6
+Oklahoma                 1635     243      .15    47 16.4 42
+Delaware                 2341     330      .14    48     20.7      14
+Alabama                  1435      174     .12    49     16.5      41
+New Mexico               1788     217      .12    50      15.5     49
+Mean                     1819     300      .17    17.3   36.3
+
+capita. Alabama ranks as number 41. New Mexico ranks as number 49.
+   It would be a mistake not to take into account some of the non-statistical
+factors: geography, history, weather, for instance.
+   Alabama and New Mexico are in the fast-growing sunbelt, but they are
+not high growth states. New Hampshire is an old state in an old region -
+one of the original 13 colonies - but it is a growth state. Over the past
+several decades it has been the fastest growing state in the northeast.
+212                                                     The Losses of Nations
+Among eastern states, it is the only one except Florida in which more of its
+residents have moved into the state than those who were born there.
+   New Mexico is between Arizona and Texas, two of the fastest growing
+states, but New Mexico does not grow much. Nearby Utah, Colorado and
+Nevada all grow, but not New Mexico.
+   New Mexico is a border state, with a minority population which doubtless
+lowers its mean personal income. So, however, is New Hampshire. The
+immigrant Canadian fraction (Quebec is New Hampshire's neighboring
+province) of the New Hampshire population probably exceeds the
+immigrant fraction in New Mexico, and certainly that of Alabama.
+  New Mexico has attracted a number of very wealthy land buyers who
+hold ranches in the million dollar league. Ted Turner is well known; Robert
+Anderson of ARCO has long been another; Maurice Strong and his
+consortium of water-rights speculators are a third. The distribution of
+landownership in New Mexico is extremely unequal, as documented in
+Gaffney (1992), New Hampshire is at the other extreme, as shown in the
+same source.
+  We cannot attribute the higher property tax/all tax ratio of New
+Hampshire to higher incomes in that state, because its other taxes are
+much lower. It is, in fact, below the United States mean in all state and
+local taxes per capita. The conventional explanation on income is that it
+arises independently of tax expenditures, and taxes are a kind of
+consumption item, reflecting a consumer taste for state and local services.
+This blanks our minds to the possibility that a better tax system might raise
+incomes, and/or attract people of higher income.
+   New Hampshire is a rugged, mountainous, northern-tier New England
+state with harsh winters, no outstanding farm resources, or minerals, or
+fuels, or seacoast, or natural urban confluences. It is a summer vacational
+and winter ski-land. It has many old mill towns where obsolescent plants
+are still to be found, although computers and other technological industry
+has begun to multiply.
+   Its major natural or non-institutional "lucky break" advantage would
+seem to be its Boston suburban bedroom communities on the Massachusetts
+fringe, but it is doubtful if they make up a large share of its population
+much north of the border.
+   The mild winters of New Mexico and Alabama enable people to survive
+with lower incomes than are required to survive in New Hampshire. On
+the other hand, this factor tends to increase land values in the milder states,
+and should therefor make it easier to raise property tax revenues. This
+clearly has not been done in New Mexico and Alabama.
+The Income-Stimulating Incentives of the Property Tax                    213
+
+   The most likely causal relationship, therefor, is from the tax system to
+the personal income. Let us, for that reason, pose a second hypothesis.
+
+Hypothesis 2
+Heavy reliance on property taxes, as opposed to others enacted in
+recent decades, tends to cause higher incomes per capita.
+   The data supports the hypothesis.
+   It will be helpful, as a cross-check, to rank states by personal income
+per capita. This will sort out the effect of personal income on taxes.
+States with higher personal incomes per capita will also have higher totals
+of all taxes per capita, because of income elasticity of demand for public
+services.
+   However, higher income will not cause higher reliance on the property
+tax. (If anything, it would cause higher reliance on the income tax.)
+Therefore, a finding of higher ratio for property taxes to all taxes in high
+income states indicates that the high ratio itself caused the higher incomes.
+
+Summary of and inferences from Table 8:V
+First, the U.S. means ratio of property taxes to all taxes is .32. Six of the
+Top Ten states are above it. The other four are Maryland with .28, Hawaii
+with .16, Arkansas with .28 and Nevada with .24. These exceptions are
+explained below. The unweighted mean for the Top Ten states is .35
+   Nine of the Bottom Ten states, on the other hand, are below the .32
+ratio. The sole exception is Montana. The unweighted mean for the Bottom
+Ten is .21
+   In sum, a high ratio of property tax to all taxes is associated with the
+Top Ten, while a low ratio is strongly associated with the Bottom Ten.
+Thus a tax-mix that is rich in property tax is not the only cause of high
+incomes, but a tax-mix that lacks property taxes seems to guarantee low
+incomes.
+Second, moving from the means of the Bottom Ten to the Top Ten:
+• Personal income per capita rises from 15.8 to 23.4, a rise of 48%.
+• All taxes rises from 1607 to 2751, a rise of 71%.
+• Property tax rises from 344 to 940, a rise of 173%.
+   One might explain the rise of all taxes as an effect of the rise of income.
+There is nothing, however, about a rise of income that would explain a
+higher preference for the property tax over all other taxes. This leaves us
+with the more likely finding that the preference for the property tax explains
+the higher incomes.
+   A weaker statement is that high incomes permit higher use of all taxes,
+which acts as a brake on further rises, except that people learn to switch
+214                                                    The Losses of Nations
+
+
+
+
+   TOP TEN
+                                    ,  ,
+                                Table 8:V
+              US States Ranked by Personal Income per capita
+
+
+                                ,<p , /
+   Connecticut                 27.2      1     3061      1198      .39
+   New Jersey                  26.1      2     2926      1268      .43
+   NewYork                     24.1      3     3534      1178      .33
+   Massachusetts               23.7      4     2554       877      .34
+   Maryland                    23.3      5     2332       653      .28
+   Hawaii                      22.2      6     2935       481      .16
+   Alaska                      22.1      7     3835      1069      .28
+   New Hampshire               21.9      8     2098      1344      .64
+   illinois                    21.8      9     2205       849      .39
+   Nevada                      21.7     10     2031       488      .24
+   Mean                        23.4            2751       940      .35
+   U.S.                        20.1            2178       699      .32
+
+   BOTTOM TEN
+   Alabama                     16.5    41      1435       174      .12
+   Oklahoma                    16.4    42      1635       243      .15
+   Montana                     16.2    43      1770       707      .40
+   South Carolina              16.2    44      1584      451       .28
+   Louisiana                   15.9    45      1654      277       .17
+   Arkansas                    15.6    46      1518      261       .17
+   West Virginia               15.6    47      1660      294      .18
+   Utah                        15.6    48      1701      461      .27
+   New Mexico                  15.5    49      1788      217      .12
+   Mississippi                 14.1    50      1323      357      .27
+   Mean                        15.8            1607      344      .21
+
+to a higher use of property tax in the mix because it is less of a constraint
+than other taxes.
+Third, moving from the mean of the Bottom Ten to the Top Ten, the ratio
+of property taxes to all taxes rises from .21 to .35, a rise of 67%.
+Fourth, the unweighted means of the Top Ten exceed the U.S.
+   means as follows:
+• Personal income per capita is 23.4, exceeding the U.S. mean of
+      20.1 by 16%.
+The Income-Stimulating Incentives of the Property Tax                    215
+• All taxes per capita total 2721, exceeding the U.S. mean of 2178 by
+     25%.
+• The property tax mean is 940, exceeding the U.S. mean of 699 by
+     34%.
+Fifth, the unweighted means of the Bottom Ten fall below the U.S. means
+as follows:
+• Personal income per capita is 15.8, or 21% below the U.S. mean.
+• The mean of all taxes is 1607, or 42% below the U.S. mean.
+. The property tax mean is 344,or 51% below the U.S. mean.
+  Moving from the bottom state, Mississippi, to the top state, Connecticut,
+we see the following rises:
+• Personal income per capita rises from 14.1 to 27.2, or by 93%.
+• All taxes rises from 1323 to 3061, orby 131%.
+• Property tax rises from 357 to 1198, or by 236%.
+   Another difference between the Top Ten and the Bottom Ten is that
+the latter states are more rural. There is no obvious reason, however, why
+being rural would create a preference for all other taxes over the property
+tax. A plausible hypothesis, however, is that a bias against the property tax
+would inhibit the growth of cities and commerce. New Hampshire is a
+state that has become quite urban in spite of its lack of any great natural
+urban confluence, whereas Louisiana, Mississippi and Alabama are all
+located on great waterways.
+
+2. California: a sudden break
+WHAT HAPPENS when a state abruptly changes its degree of
+dependence on the property tax? California provides the most obvious
+case study. A great many of the states have shifted gradually away from
+the property tax in the past several decades. California did it suddenly.
+   In 1978 the electorate was persuaded to support Proposition 13, which
+put a cap on the rates of the property tax. California's rank in personal
+income per capita dropped from seventh place in 1978 to twelfth place in
+1992.
+   The drop in real personal income per capita, and especially in wage
+income per capita, is considerably greater. Both rents and housing prices
+soared after 1978, such that only ten years later, in 1988, one could not find
+an apartment for less than $600 a month. Between 1980 and 1989, according
+to reports in the press, real disposable income fell for a majority of the
+region's residents. The average household's income in 1985 was $26,500;
+in 1990, it was $50,800, but when we adjust for inflation those gains
+disappear. This was a gain of 91%. This compares with the consumer
+216                                                     The Losses of Nations
+price index, which rose 64%; with median rent which rose 132%, from
+$274 a month to $635 a month; and with the median price of owner-occupied
+homes and condominiums which rose 163%, from $98,100 to $257,800.
+(These data are from San Francisco Examiner, September 27, 1991,
+page B-i.)
+   California's unemployment rate has become the highest in the United
+States, rising to over 9%, three percentage points above the national rate.
+It was "good news" when it fell to 8.5% in May, 1994 - high above the
+national rate of 5.6%. Its student/teacher ratio, grades K- 12, deteriorated.
+Most telling of all, spending per pupil dropped from fifth place in 1965 to
+fortieth place in 1985. It is hard to see how a state can continue to win and
+hold the high-tech professionals required for California's high-tech industries
+to remain competitive, with one of the worst school systems in the nation.
+   California was one of three states where median household incomes
+fell by 2.1% in the two years from 1992 to 1994. California's poverty rate
+in 1994 was 17.9%, compared with the U.S. rate of 14.5.
+   The Los Angeles Times (October 11, 1995) chronicled the continuing
+decline. Colleen Kreuger, explaining a new Census Bureau report by Census
+staffer Kristin Hansen, on geographic mobility from March 1993 to March
+1994, said a smaller fraction of people in the country as a whole were
+moving, possibly because of hard times. In California, however, the trend
+was reversed. There was a net outmigration from California to other states
+of 236,000. Out of a population of3 1,000,000 that is .76%. Hansen told
+Kreuger, moreover, that more accurate "Census estimate" put the
+outmigration into other states at 426,000 people, or 1.37%, including
+international migration (which showed a net inflow). And worse yet,
+excluding international migration the loss ran even higher, at 2.3%. Most
+of the loss was from Los Angeles-Riverside, a "large metro area."
+   Economist Michael Boskin blamed defense cutbacks and government
+regulations. This turned attention away from Proposition 13 and its effects.
+Daniel J.B. Mitchell of UCLA, writing a forecast in the UCLA Quarterly,
+helped to shift the cause in people's minds by blaming a downturn in the
+"real estate industry," and predicting the creation of new jobs ahead.
+   California's counties lack funds to maintain existing stretched-out roads.
+Riverside County is responsible for 2,500 miles of roads. In the eight years
+to 1995 it repaved an average 19 miles per year. At that rate roads are
+repaved once every 130 years. It should be once every 20 years, according
+to industry standards, if roads are to be correctly maintained.
+   California's bond rating dropped to last among the states. Some cities
+and neighborhoods are especially devastated. In 1976, San Bernardino
+The Income-Stimulating Incentives of the Property Tax                   217
+
+was an "All-American City,"one often receiving the award as a "city on
+the go." But two decades later, and after the sharp turn away from the
+property tax, 40% of its 185,000 residents were on welfare, up from 18%
+in 1985. Orange County, known as the epicenter of wealth and conservatism,
+actually went bankrupt in 1995, and some other counties are close to it.
+   Still, median home value in 1995 in San Bernardino was $94,000. High
+as that is, it is the lowest in southern California. A shack rents for $550.
+Absentee ownership and tenancy are rising, because in the 1980s
+speculators moved in from Los Angeles and Orange County, thinking values
+had to rise. (So thinking, they ruined neighborhoods and caused values to
+fall.)
+  Downtown Los Angeles remains a basket case. It was boom and bust
+carried to the nth degree, as has been the case in Hawaii. Federal tax
+breaks encouraged speculative office building. Then, floor space rents
+dropped over 50% from their peak, and values dropped even more.
+  Walkaways and bankruptcies multiplied.
+  Large parts of the San Fernando Valley are failing to renew themselves
+following the Northridge Earthquake of January, 1994. California was quickly
+rebuilt after many previous earth quakes. This time it is different.
+   It is too easy to "explain" California's recent fall by the ending of the
+Cold War, the loss of defense jobs, and cutbacks in aerospace. Many
+professional "explainers" seize upon these factors. The events of recent
+decades must be compared with the similar, but much more severe, external
+events after World War II. Wartime immigrants did not languish
+unemployed, then, or return home. They remained to create or join in a
+fantastic burst of growth.
+   Things went otherwise before the scuttling of the property tax. By the
+end of 1945, Los Angeles lost three quarters of its aircraft workers, and
+80 % of its shipbuilders. Motion pictures went into a decline. Los Angeles
+was left without much of its former "economic base" of export industries.
+   Yet, during 1945-there was an increase in jobs (Jacobs 1969: 151-54).
+Los Angeles grew by replacing imports. It became remarkably self-
+contained, as large metropoles do. New local companies prospered.
+   One eighth of all new businesses started in the United States during
+those four years were in Los Angeles. Firms which formerly sold materials
+to Los Angeles opened branch plants there: Detroit auto-makers, for
+instance, and Akron time-makers.                                     -
+   What was different about 1945-49? Why did Los Angeles thrive then,
+but not now? The difference in which to look for cause and effect is in the
+fact that in those earlier years California was taxing property heavily, and
+218                                                     The Losses of Nations
+land heaviest of all. Absentee land speculators, rushing in to free-ride on
+California's enterprise, were required to share in bearing its public costs.
+Holders of prime land were pressed to sell or use it to pay the taxes.
+Anecdotal evidence comes from executives of interstate firms, who
+commented on the greater pressure toward land performance in California.
+   The state's fall did not begin until 1978, with Proposition 13. It continues.
+When we compare California with other states that ranked high in property
+taxation in 1977 - Alaska, New Jersey, New York, Connecticut, Wyoming
+and New Hampshire - we see that they performed better.
+
+3. New Hampshire: prospect for growth
+NEW HAMPSHIRE can be seen as the stable element in this study of
+what happens as property tax use dwindles as a part of the state/local
+fiscal revenue mix.
+   It has stayed with the property tax, as other states have shifted steadily
+into an increasingly heavy dependence on sales, income or other .taxes on
+labor and industry or cash flow.
+   As the northernmost of the 13 original colonies, and one of the smaller
+in both area and population from the start, it has had a relatively fixed
+position in economic terms, near the center of the cluster. It lost population
+for a few years in the middle of the 19th century, as the continent was
+being opened up, but for the most part has kept pace.
+  It was not until the start of the national disenchantment with the property
+tax that the state's place began to move up.
+   In 1967 it stood exactly in the center - in 25th place - onthe best indicative
+measure: all state and local taxes per capita.
+   The only major change in tax policy, during the time in which the other
+states were shifting, came early in the seventies when one of three
+categories subject to the property tax - personal property - was, for the
+most part, removed from the base. The tax was eliminated on stock in
+trade, livestock, mills and machinery, and most other types of personal
+property.
+   A growing professionalism in the field of assessment has resulted in
+more realistic land values, so that land as a part of the remaining tax base
+has increased in three decades from just under 20% of the total to a high
+of 39.7% in 1990. That high level was due, in part, to some increase in
+speculative investment. It was prompted by a growing prosperity which
+started with the removal of personal property from the base, coupled with
+the fact that, despite the steady improvement in property tax administration,
+only part of the growing land rent was being collected. The result was a
+The Income-Stimulating Incentives of the Property Tax                       219
+
+short-term downturn, which has since been reversed, and land values started
+climbing again.
+  The employment "problem" in New Hampshire since the effects of
+eliminating taxation on personal property began to show up has not been a
+shortage ofjobs, but a shortage of people to fill them. The unemployment
+rate had remained, during most of the past two decades, at least two points
+below that of the nation. And the availability of jobs, in turn, attracted
+people to the state, which encouraged growth.
+   Stability - as a basic characteristic of the state - is to be seen in the fact
+that a return to both full employment and steady population growth began
+to emerge in the numbers within two years of the speculative "bust" of
+1990. The downturn was brief.
+   New Hampshire's place in this study, based primarily on the 1992 figures
+used in the Advisory Commission's SFFF for 1994, was eighth, measured
+by personal income per capita.
+   The state led all the rest of New England in income growth from 1993
+to 1995 (Economic and Labor Market Information Bureau, NH
+Employment Security: Jan. 1997). But more revealing for purposes of this
+study, it had the tenth highest percentage gain for the country as a whole.
+(That agency's annual report, Vital Signs reports that in 1995 New
+Hampshire "leapfrogged over Maryland to have the sixth highest per capita
+disposable income in the nation.")
+   The most recent income rankings from the U.S. Commerce Department
+in its monthly "Survey of Current Business" (Vol. 76, No. 10, October,
+1996) move New Hampshire up to seventh place for personal income per
+capita, but to fifth place for disposal income, a two-place difference which
+can be explained by the low total state/local tax burden per capita.
+
+4. Why some high-income states are exceptions
+FOUR of the Top Ten states listed in Table 8: 4 seem different than the
+other six in that they have low property tax to all tax ratios. They need to
+be examined if our hypothesis is to remain valid. The four are Maryland
+(.28), Hawaii (.16), Alaska (.28) and Nevada (.24).
+   Hawaii is the most glaring anomaly. There are at least four factors
+involved in that case:
+First, the cost of living is very high, especially due to housing values
+and rents. Income data are not adjusted for this, even though Federal
+pay scales have long contained a cost-of-living allowance for location
+there.
+   Median values of owner-occupied homes in Hawaii, according to the
+220                                                     The Losses of Nations
+1990 census, were the highest in the nation, at $245,000 as compared with
+$79,000 for the country overall.
+Second, the 1993 data is for the end-of-boom phase. Hawaii is marked by
+high instability, based on the inrush and outrush of outside speculators.
+   When Japan crashed, Hawaii crashed, too. It is very likely that its personal
+income per capita is now lower.
+   Hawaiian prosperity was just a shadow of Japanese prosperity, Now,
+Japanese lenders are foreclosing or taking properties back. Hawaii was
+hardest hit; it received a quarter of all Japanese investment in the United
+States in 1985-90, about $16 billion. Japanese speculators have lost one-
+third of that: their timing was terrible. Hawaii has a history of boom/bust
+cycles, based on first mainland, then Canadian investors, most recently
+Japanese (and some Korean, and probably Taiwanese). The Pacific rim
+problems which exploded late in 1997 are factors which should be looked
+at carefully when things settle down again.
+Third, the balmy climate and long coastline of Hawaii attract wealthy
+retirees whose incomes, derived from property elsewhere, are credited to
+Hawaii in the 1992 numbers. This would even include many Japanese
+billionaires, whose penchant for buying Hawaiian shorefront homes is famous.
+Fourth, Hawaii feeds heavily on United States naval base spending.
+   Turning to Alaska, it even more than Hawaii has high local cost of
+living. Coupled with the harsh interior climate and gloomy, rainy coastal
+climate, it results in premium salaries required to keep workers in the state.
+These reflect payment for hardship, rather than being true higher incomes
+in the welfare sense.
+   Maryland, like the District of Columbia and Hawaii, feeds off Federal
+spending. Being suburban to the District, it attracts the more highly paid
+federal workers, lobbyists and others unusual enough from the ordinary to
+affect the comparisons being made.
+   Nevada depends on gambling. It feeds off neighboring states where
+gambling is outlawed.
+
+5. Verdict
+OUR ANALYSIS of the statistical evidence supports this hypothesis There
+is a correlation between the relatively heavy use of property taxes, as
+a part of the state/local tax mix, and high per capita incomes.
+  This invites one final question: How much larger would these differences
+be, and how much better the results, if one end of the fiscal spectrum
+were socially-created land rents alone, clearly distinguished from the other
+end - the labor and industry of individuals?
+                        Appendix 1
+
+ An Inventory of Rent-yielding
+          Resources
+                          Mason Gaffney
+MANY NATURAL resources of great value are not comprehended in
+the simple colloquial concept of land as platted or surveyed land surfaces.
+These natural resources yield rents that are part of the proposed land tax
+base.
+   Resource rents may be classified into three categories: the major, the
+minor, and the huge aggregate. (Overlap among classes is minimized but
+unavoidable in certain cases.) Bibliographical sources used in this appendix
+appear at the bottom of this inventory.
+
+
+
+                  The Major Sources of Rent
+1. Energy
+a. Hydrocarbons
+In 1959, Alfred E. Kahn (1959) put the fraction of rent in oil and gas firms
+at 32-38% of sales. Paul Davidson (1963, 1964) put it even higher. Of
+course this fraction varies from field to field, and firm to firm, and is hard
+to summarize in a single figure. Oil firms studiously conceal as much of it
+as they can, to avoid taxation. Still, this was before the OPEC price
+revolution and the oil price shocks, a time when you could fill your tank,
+have your glass cleaned, oil, water, battery and air pressure checked, use
+a clean restroom and get a free map, for $3.25 or so, indicating rent must
+be a higher fraction today. This and other material is summarized in Gaffney
+(1967: 409-15. See also Gaffney 1977, 1981, 1982).
+  We know that oil and gas rents support all or most of government
+spending in various oil-rich nations, as in the Persian Gulf and Caspian Sea
+areas. Dmitri Lvov (1994) estimates that Russian oil and gas revenues
+                                     221
+222                                                    The Losses of Nations
+alone could support the entire national government budget. In Norway,
+in several years the mere change in the value of petroleum reserves
+has exceeded the entire GDP of Norway (Aaheim and Nyborg 1995:
+65).
+   Appreciation is a form of rent, on top of unit-of-production rent charges.
+Oil deposits normally appreciate many times over between when claims
+are first established and actual extraction begins, and more yet before it
+ends. A large fraction of industry "profit" is taken this way, but not usually
+declared for tax purposes. In 1980 the American Financial Accounting
+Standards Board (FASB) required oil firms (for the first and only time) to
+report the change in the value of their reserves. In that year the Getty Oil
+Co. reserves, for example, rose by 3.8 times as much as the profit they
+showed otherwise (Gaffney 1982, from Getty Annual Report). These gains
+now receive at worst preferential "capital gains" treatment, and at best
+become the basis for depletion allowances such that they are never taxed,
+but become a tax shelter. For this and other reasons, rent from oil and gas
+deposits has long enjoyed a high degree of immunity to present tax systems.
+Some of those nations that have found ways to tap this rent for public
+revenues are notoriously prosperous (although others have corruptly
+squandered their riches).
+  By 1980, in developing countries, host country shares of oil profits
+sometimes exceeded 80%. Conrad and Gillis (1985: 27) cite Colombia,
+Malaysia, and Indonesia. Oil taxes were 50%-66% of total revenues in
+Ecuador, Mexico, Trinidad and Tobago; and two-thirds of taxes in Indonesia,
+Nigeria, Venezuela, Gabon, and Congo.
+
+b. Uranium.
+With China turning to nuclear energy, we may expect rising demand for
+this scarce mineral.
+
+c. Hydro.
+Most American jurisdictions prodigally give away this cleanest, cheapest
+source of power to private firms. Canada sets a better example of how
+provinces and the nation can tap these rents for the public.
+
+2. Minerals
+Hardrock, sulfur, sand, clay and gravel, misc. After 1965, hardrock minerals
+produced 1 0%-20% of total public revenues in Chile, Thailand and Malaysia;
+and over 25% in Bolivia, Gabon, Jamaica, Liberia, New Caledonia, Papua
+New Guinea, Zaire, and Zambia (Conrad and Gillis 1985). These are mostly
+Appendix 1: An Inventory of Rent-yielding Resources                       223
+
+naive people dealing with highly sophisticated and even ruthless foreign
+firms, so it is reasonable to infer that the true rents are higher than the
+figures given.
+
+3. Fresh water and adjunct resources
+In arid lands, like the western half of the U.S.A., dry land surface per se
+has only low value. The scarce, limiting resource is water. Yet, claims to
+water resources are not on the tax rolls and are not counted when we add
+up all tax valuations. Water is not held by title deeds, but by a complex
+system of licenses, customs and legal precedents. Thus there is a great
+deal of rent and value here above and beyond that counted in other ways
+(Gaffney 1992, 1997). Some of the valuable items are listed below.
+a. Licenses to withdraw (for farming, domestic, industrial, recreational,
+      lacustrine uses);
+b. Aquifers and recharge beds;
+c. Dam and reservoir sites;
+d.   Power drops (cross-ref. 1 ,c);
+e.   Fish (fin and shell), fishing banks, waterfowl, other wildlife (high value
+     of quotas);
+f.   Scenic use (from bays to tarns to waterfalls);
+g.   Right-of-way, navigation servitude and priority and exemption from
+     liability;
+h.   Riparian values (also apply to salt water): beaches, foreshores, water
+     lots, frontage on water, access to water, views, fresh air;
+i.   Eminent domain for access to divert and "wheel" water;
+j.   Watersheds (water blotters, for storage and regulation of flow);
+k.   (Formerly) source of ice;
+1.   Recreation use (flatwater, whitewater);
+m. salinity repulsion;
+n. Waste disposal.
+   Waters almost all belong to the Crown, the states, or the federal
+government (depending on the jurisdiction), in trust for the people. Levying
+proper public charges on some or all of the above resources would fulfill
+that trust in the most efficient, equitable way.
+
+4. Timberlands
+The area is vast - one-third, in the case of the U.S.A. Unit values are low,
+but even low values add up to a lot over such an area. The annual value
+(rent) for growing wood is a fraction of the harvest value. The fraction
+varies with the time period and the discount rate, but if the time period is
+224                                                      The Losses of Nations
+20 years, and the real discount rate (inflation-adjusted) is 5%, the annual
+value (rent) is 3.0% of the net harvest value (applying a standard financial
+formula, "the sinking fund factor"). As a very rough cut, fthe harvest
+value were $20,000 per acre, every 20 years, the rent would come to $600
+per acre per year. One-third of the U.S.A. comprises 771 million acres.
+At $600 per acre per year, that would come to $462 billions annually. This
+is probably too high an estimate, since many lands classified as "forest"
+are less productive than the example; but it is a hundred or more times
+higher than taxes actually levied, for timberland enjoys virtual tax-exemption,
+even compared with other properties that are lightly taxed (like all California
+real estate after 1978). In Mendocino County, California, taxes on
+timberland are at about 1/36 of its annualized rent value from timber culture
+alone (Gaffney 1995).
+   Land uses declared by law to be "compatible" with timber go completely
+unrecognized in the legislated low valuations for property tax. These include
+grazing, resorts, vacation (but not retirement) homes, campsites, fishing,
+hunting, watershed protection, tourism, rifle ranges, rights-of-way, mining,
+log storage, landings, roads, logging camps, etc. There is also marijuana,
+possibly California's most valuable crop, but unrecorded: officially it does
+not exist.
+   Some timberland also has high ripening values for "incompatible uses"
+like urban subdivisions that require formal changes of zoning. These growing
+values go completely untaxed until conversion actually occurs - by which time
+the accrual of value, which is part of rent, will have gone completely untaxed.
+   Mature trees contain a lot of stored-up rent, most of which was never
+taxed. It is not too late to tap this store, with interest, by using yield taxes
+that the industry itself has lobbied through to displace the property tax on
+standing timber. In general, yield taxes are not an efficient way to tap
+timberland rents, but there is a place for them during a transition period
+towards a tax-free economy, and they are popular with preservationists
+because they tend to slow cutting cycles. Currently legislated levels of
+yield tax rates are much too low to compensate for the revenues previously
+lost, but raising the rate is a simple matter. Revenue-neutral rates may be
+calculated by formula, coupled with some judgment calls (Gaffney 1997).
+
+5. Radio spectrum
+Almost everyone now recognizes that radio spectrum is a natural resource,
+of enormous value, and part of the public domain. The uses of spectrum
+are many and growing: radio, TV, cellular phones, telephones, satellite
+linkages, fax, email, internet, and who knows what future forms of
+Appendix 1: An Inventory of Rent-yielding Resources                        225
+
+transmission. Nationwide, there are 16m radio dispatch units (RDUs) in
+use; and 14m cellular phones. In Los Angeles alone, there are 550,000
+RDUs.
+   Assignments of licenses to use spectrum are territorial, like most natural
+resources. Values differ widely with the territory covered, like all rents.
+The next big thing may be Personal Communications Services (PCS), low-
+power cellular, mobile phones for the masses. Construction costs are half
+those of cellular. Licenses are expected to go for $1 00-s150 per potential
+customer. With 250 million potential customers in the U.S.A., that comes
+to $15.6 billions for PCS uses alone.
+   Past assignments have been based on a giveaway policy. The Federal
+Communications Commission, charged with meting out these rights, in 1993
+began pricing new assignments by auction, which helps raise the value of
+old ones. As economists would predict, the result has included much "rent-
+seeking" effort, with resulting premature acquisitions of spectrum.
+Licenses are now going for about double the maximum value at which a
+firm could break even in the first years. The rest is "rent-seeking": wasting
+capital today to secure rents for tomorrow.
+   Public service obligations, anti-merger restrictions, and regulatory control,
+never adequate, are now being relaxed and sloughed off, raising spectrum
+values. On February 18, 1993, President Clinton created a small stir when
+he estimated that the airwaves would sell for $4.1 bn. In the event, the
+1993 auction fetched $9 billions, but it was like selling off the badlands
+after giving away the beachfront properties. The truth is much more stirring.
+AT&T paid $12.6 billions for McCaw Cellular, a smallish regional firm,
+whose assets consisted of spectrum licenses (Los Angeles Times, Aug.17,
+1993, p.1). In 1995, Disney Co. paid $19 billions for Capital Cities/ABC
+Inc., comprising 30 TV stations and the ABC network. On this deal Warren
+Buffett, the second richest American, made over $2 billions, an unearned
+increment, a form of resource rent that we include in the proposed tax
+base. These were, of course, only a tiny fraction of all the outstanding
+licenses. Like other untaxed natural resources, spectrum is being
+concentrated in a few strong hands. At the auction of March, 1995, a few
+deep-pocket firms dominated the bidding: these were AT&T, the Baby
+Bells, and The Wireless Co. (Sprint, Tele-comm Inc., Cox Cable, &
+Comsat). Westinghouse and CBS together own 15 TV and 39 radio stations
+that reach one-third of the U.S. population.
+   These values are based mostly on economic rents, almost as though the
+assets traded were bare carparks. At Westinghouse, profit margins are
+45% of revenues; at ABC the rent fraction is higher; at CBS, somewhat
+226                                                   The Losses of Nations
+lower (Los Angeles Times, 2 August 1995, p.!). Rents show up as above-
+average rates of return on capital. In cellular phones, rates of return have
+ranged from 40-100% per year (Morgan Stanley Inc., 1994). During the
+long giveaway period before 1993, many applied for licenses "and then sat
+on them until they could resell them for a large profit." From 1985-94,
+85% of cellular licenses turned over. In such sales, the license "accounts
+for approximately 60% of the sale price..." (Cohen 1995).
+   In addition to basic spectrum, high values attach to ancillary sites like
+hilltops for transmission relay stations. Even orbits like the geosynchronous
+orbital band and LEO (Low Elevation Orbits) are assuming a value. Many
+of these hilltops are on public lands, and are generally given away in what
+are essentially "sweetheart deals."
+   Teledesic (Bill Gates and Craig McCaw) next plans to link the whole
+globe with phone, video, and data services, using 840 satellites. Each one,
+of course, requires spectrum assignments from the public domain of various
+nations. These are Low Earth Orbit (LEO) satellites, at 435 mi. up, the
+cheapest kind, with the shortest life. Gravity pulls each one out of orbit
+every eight years or so - but the spectrum assignment remains, and
+spectrum lasts forever, rising in value (Los Angeles Times, 22 March,
+1994, p.D1).
+   A few other major firms are aggressively expanding worldwide, seizing
+spectrum and orbital positions as they go, vying for the needed political
+influence. One of their vehicles is the ITU (International
+Telecommunications Union, a U.N. body with 182 members), dominated
+by U.S. money and national power, by which the firms exploit national
+power for private gain. Vice- President Al Gore, U.S. Government point
+man on this matter, is pushing hard, using U.S. power. "Gore said the U.S.
+will throw its weight behind the global network project" (speech in Buenos
+Aires to the ITU (Los Angeles Times, 22 March, 1994, p.D1).
+  Is it feasible for the public to collect spectrum rents? It is a simple
+matter of adapting classical economic theory to modern technology.
+Techniques and venues change; principles perdure. Professor Harvey Levin
+worked out feasible methods 25 years ago (Levin 1971). It only remains to
+apply them.
+
+6. Rights of way, easements, etc.
+Rights-of-way (ROW) occupy enormous areas. In cities, especially, streets
+occupy from one quarter to one half of the entire improved area. Right-of-
+ways have strategic monopoly bargaining power limited only by what the
+traffic will bear or what regulation permits. When privately owned they
+
+
+
+                                                                                F
+Appendix 1: An Inventory of Rent-yielding Resources                        227
+owe their very existence to the state, which not only granted the original
+land surface, but in almost every case loaned its power of eminent domain
+to cobble the ROW together. The power to extract rents from taxing and
+rating ROWs is almost limitless (Gaffney 1988). It is limited prudentially
+by the case for economical (marginal cost) pricing to maximize use, but
+this can be provided via various forms of price discrimination (declining
+block rates) that are compatible with extracting rent from customers on
+high-rent lands.
+   Some basic ROWs are streets, rails, highways, canals, navigation
+servitude with priority and subsidy and freedom from liability, air corridors
+with overflight privileges, ROW for power lines, phone lines, cable lines,
+gas lines, waterlines, storm sewers, sanitary sewers, flood-control channels,
+drainage lines, etc.
+  When ROWs are congested, direct use has high marginal social cost,
+and could and should be used to raise revenues. Peak load tolls on ferries,
+bridges, and controlled highways are obvious cases. Parking fees for
+downtown streets are another: think what revenues New York could raise
+from the street parking it now gives away on land worth up to $2,000 per
+square foot, or about $600,000 per parking space. Moving vehicles also
+take up scarce space: electronic means of measuring vehicle space usage
+are now technologically and economically feasible and in actual use in
+several stretches of congested space, like California #91 in Orange County.
+Taxi medallions in Manhattan now trade for over $200,000 apiece, values
+that could easily be socialized. Oversized, space-hogging vehicles can and
+should pay more.
+   Utility ROWs are the essence of the franchise's monopoly power.
+Through the common devices of price discrimination they can be and are
+used to extract rents from consumers, limited only by regulation. A public
+agency might easily use such discrimination to tap rents from customers
+with high land values (Gaffney 1988).
+   ROW monopolists are often required to provide "common carrier" service
+to all applicants. In practice, some of them comply with the letter, but not the
+spirit of the law by giving outsiders and interlopers low priorities of usage,
+reserving the prime times for themselves. This results in monopoly profits, a
+form of rent, that should be taxed away, if it cannot be prevented altogether.
+   The common tax practice is to value utility lands on the same basis as
+ordinary private lands adjacent thereto - lands lacking the eminent domain
+premium. This results in ignoring the eminent domain premium in ROWs -
+in effect, valuing it at zero. A proper tax on rents would assess its monopoly
+value and tax it accordingly.
+228                                                     The Losses of Nations
+
+     Many ROWs were granted, and accepted, subject to heavy public
+obligations, like the rails duty to carry the mails free, and carry troops in
+wartime, and maintain passenger service. Private beneficiaries have
+become expert at sloughing off these public obligations, and brainwashing
+the public into accepting it as being in their interest. Deregulation;
+privatization
+   Backup lands with special access and/or integration: parking, railyards,
+power-plant sites, tank farms, fuel stations, moorings, truckyards, rest stops,
+sales yards for autos, trucks, driveways, laterals, container lots, aircraft
+parking, billboard sites, etc.
+
+7. Aircraft time-slots, landing rights, gates, airlanes, etc.
+a. Busy airports: congestion-relieving landing fees are rent charges.
+b.   Redundant airports: high unit cost from underuse. Here, user cost
+       equals zero, so users as such should not be charged, leaving benefited
+       landowners to pay it all. Desired economic result: abort such airports,
+       release vast lands for higher uses.
+
+8. Pollution easements, de facto and de jure.
+These include contingent easement (Price-Anderson Act), and subsidized
+waste-disposal. The alternative is "polluter pays," a "green tax," which is
+a rent charge rinciple of "Tax bads, not goods.")
+
+9. Farm soils
+10. Recreation Lands
+11. Privileged use of congested commons (user charges on
+commons are rent taxes.)
+a.    City streets: taxi permits; curb parking; access to congested times
+      and areas; preferential traffic controls; vending licenses, dejure and
+      de facto, mobile and stationary; licenses for oversized vehicles;
+      surface mass transit; emergency vehicles; cortege right-of-ways;
+      right-of-ways for utilities, with rights to stop traffic for digging, etc.
+b.    Highways: peakload use; exclusive rights to serve, e.g. trucking, busing;
+       accident investigation and clearance;
+c.    Parks, beaches
+d.    Air
+e. Common waters
+f.    Open range (grazing, hunting)
+g.    Pre -leasing exploration
+                                                                                   I
+Appendix 1: An Inventory of Rent-yielding Resources                      229
+12. Territorial franchises
+a. Publicly granted: bank charters; concessions at parks; utility
+     franchises; liquor licenses; gambling licenses; etc.
+b.   Privately granted: dealerships; leases that bar competition; etc.
+
+13. Salt water
+
+
+
+                         The Minor sources
+1. Privileged access
+
+2. Wildlife habitat zones
+
+3. Misc. energy sources: geothermal, wind, solar sites, firewood,
+adiabatic sites, tides, currents
+
+4. Zoning
+a.   Unaccounted-for zoning losses
+b.   Exclusive use zones, e.g. foreign trade; tax-preferred zones, e.g. urban
+     redevelopment zones (clear case of All Taxes Come Out of Rent);
+     dumpsites; commercial zoning; locally undesirable land use (nuisance)
+     zones;
+c.   Variances with grandfather protection
+
+5. The gene pool: seed patents; natural herbs, medications; breeding
+stock
+
+6. Quotas, allotments to produce or import or sell.
+Generally, such quotas should simply be stricken, transferring their rents to
+other lands; but, if not, they are taxable property.
+
+7. Some patents which are indirect means of dominion over natural
+resources. Shale oil extraction techniques; coal liquefaction; sulfur
+extraction; etc.
+
+8. Licenses to produce or dispense goods or services that are
+generally prohibited: nuclear materials; medicinal drugs; pharmacies;
+alcohol; undertaking & burial; barbering; gambling, liquor, prostitution.
+230                                                   The Losses of Nations
+9. Monopoly, with or without government support.
+Monopoly or market power may be recognized wherever price
+discrimination is practiced, or might be.
+
+10. Aspects of advertising
+Intruding without leave on public's limited attention span, downgrading
+associated experiences. Billboards, commercials on media, phone
+solicitations, junk mail, roadside lights, newspaper ads, skywriting, sound
+trucks, etc.
+
+11. Easements for views, air rights, etc.
+Also the converse: permission to build or maintain eyesores, like the
+transmission tower on Twin Peaks, San Francisco; overhead wires;
+
+12. Moorings
+Riparian and foreshore land has high premium value from water access,
+but in addition, space on the water itself has another value.
+
+                        Falsified land values
+ECONOMISTS and government statisticians trivialize values and rents of
+ordinary or "standard" land. To recap the high points, here are some of the
+devices of false measurement that make land and rent vanish.
+1.   Narrow meaning of "land" to farmland.
+2. Making land and rent the "residual" when allocating value between
+    land and extant buildings. This has its reductio ad absurdum when
+    buildings are demolished, indicating a net value of zero, and the tax
+      valuer is still valuing the building higher than the site.
+3.    Understating building depreciation; ignoring building obsolescence.
+4.    Granting low assessments based on current use; or current restrictive
+      zoning that market prices ignore; or historical cost; or capitalized
+      cash income.
+5.    Valuing "acreage" as though it were farmland, regardless of location.
+      Reductio ad absurdum comes to light when condemnation values
+      are found to be many times assessed values.
+6.    Subsidizing some activities by exempting their land from taxation,
+      even though salaries earned thereon are taxed; and neglecting to
+      value the land at market.
+7.    Omitting the option value of favorable zoning until it is exercised.
+      Likewise, omitting other option values like potential mineral leasing.
+8.    Omitting the value of grandfather privileges of old buildings.
+
+                                                                               A
+Appendix 1: An Inventory of Rent-yielding Resources                     231
+
+9.   Omitting the value of land and resources outside state and local tax
+     jurisdictions (e.g. the Outer Continental Shelf).
+10. "Cashflow bias": overlooking noncash and other less obvious and
+      less easily measurable non-standard values of land. Overlooking or
+     understating imputed income and unrealized gains.
+11. Treating corporate values as "intangibles," ignoring the land assets
+      of corporations, thus treating corporate income as though it contained
+      no land income. Ditto for other profits.
+12. Valuing ROWs only in lower uses; putting no value on result of using
+      eminent domain.
+13. Ignoring the ruse of shifting income to foreign-flag vessels, thus
+     concealing the rents taken by businesses that are vertically integrated.
+14. Overlooking the rents taken by extraterritorial assets that enjoy
+     national flag protection, for which payment should be due.
+15. Maladministration of public lands, concealing their latent rents.
+16. Overlooking the value of defacto tenures without formal fee simple
+     titles, e.g. licenses to divert water.
+17. Overlooking unrealized gains in value, a form of rent.
+18. Overlooking latent strata values ("air rights").
+19. Overlooking the value of reservations held back by sellers and lessors.
+20. Omitting latent plottage values of wrongly sized or shaped parcels.
+21. Omitting the value of favorable leaseholds.
+22. Omitting the value of privileged exemption from public liability, e.g.
+     nuclear power sites, old plants with grandfather licenses to pollute,
+     shipping licenses, etc.
+23. Omitting the premium value of lands held by firms with superior market
+     power. Adjusting the values of "ordinary" lands (land surfaces that
+     are surveyed and platted) for the above factors results in rent values
+     much higher than anything conventionally measured or reported today.
+     Yet, when we propose taxing rents, those elements of value are all
+     part of the tax base.
+   It seems reasonable to conclude that aggregate resource rents, in a
+tax-free economy, would be adequate to replace all present taxes.
+That conclusion is subject to a comprehensive definition of rent, as
+explained above.
+232                                                     The Losses of Nations
+
+                               Bibliography
+
+Asbjom Aaheim and Karine Nyborg, 1995. "On the Interpretation and Applicability
+      of a 'Green Nat. Product." The Review oflncome and Wealth 1(41 ):5772,
+     March.
+Warren Cohen, 1995. "Halting the Air Raid." The Washington Monthly, June,
+      pp.30-32.
+Robert Conrad and Malcolm Gillis, 1985. "Progress and Poverty in Developing
+      Countries." In Stephen R. Lewis Jr. (ed.) 1985. Henry George and
+      Contemporary Economic Development. Williamstown, MA: Williams
+      College, pp.25-48.
+Paul Davidson, 1964, "Reply to Comments on Public Policy Problems of the
+      Domestic Crude Oil Industry," American Economic Review, 54 (March
+       1964), 125-34).
+       1963, "Public Policy Problems of the Domestic Crude Oil Industry,"
+     American EconomicReview, 53 (March 1963), 85-108.
+Mason Gaffhey, 1 997a, "A Simple General Test for Tax Bias," MS submitted for
+      review to National Tax Journal.
+      1 997b, "What Price Water Marketing? California's New Frontier." Am. J. of
+      Ecs. and Soc. 56(4):475-520 (October, 1997).
+      1995, "Property Tax Reform in the Big Picture." A Paper Delivered at the
+      Conference on Land, Wealth, and Poverty, Annandale, NY: The Jerome
+      Levy Institute, November 3.
+      1992, "The Taxable Surplus in Water Resources," Contemporary Policy
+      Issues 10(4): 74-82, October.
+       1988, "Tapping Land Rents after Prop. 13." Western Tax Review (annual),
+      pp. 1-55.
+      1982, "Oil and Gas: the Unfinished Tax Reform." Paper delivered at 20th
+      Annual Conference of TRED, The Committee on Taxation, Resources and
+      Economic Development, Cambridge, MA, 1982.
+      1981, "Effects of Severance Taxation on Industrial Efficiency and State
+      Revenues." Invited Testimony, California State Assembly Committee on
+      Revenue and Taxation, Hearings on Oil Severance Taxation and AB 1597,
+      15 October.
+       1977, Oil and Gas Leasing Policy: Alternatives for Alaska in 1977. A
+       Report to The State of Alaska, Jay S. Hammond, Governor, et al. Juneau:
+       Interim Committee on Oil and Gas Taxation and Leasing Policy.
+       (ed.), 1967, Extractive Resources and Taxation, Madison: University of
+       Wisconsin Press
+Alfred Kahn and Melvin De Chazeau, 1959, Integration and Competition in the
+       Petroleum Industry, New Haven: Yale University Press, 1959.
+Harvey Levin, 1988 (Title not available), in Telecommunications Policy, March.
+       1980, "Economic Rents in Broadcasting," in Facts and Fancy in TV
+      Regulation, New York: Basic Books.
+Appendix 1: An Inventory of Rent-yielding Resources                        233
+       1971, The In visible Resource. Baltimore: Johns Hopkins University Press.
+Dmitri Lvov, 1994, Practicable Course of Economic Reforms in Russia. Moscow:
+     Russian Academy of Sciences, Central Economics and Mathematics
+     Institute.
+Morgan Stanley Inc., cit. Cliff Cobb, 1994. "Auctioning the Radio Spectrum."
+       Groundswell, Jan/Feb, p.7.
+

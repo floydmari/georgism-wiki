@@ -1629,3 +1629,23 @@ unrelated book); G2009 (84pp, unOCR'd) and G45 (Gaffney-Noyes, richest remaining
 G candidate) flagged as FUTURE candidates rather than confidently declined —
 honest incompleteness recorded. No ampersand stubs this wave. Registry +2 rows;
 all 21 triage boxes flipped; inventory regenerated. 878 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: G45 + G2009 follow-ups (both resolved)
+
+G45 (Gaffney & Noyes) → research/gaffney-noyes-income-stimulating-property-tax.md
+(879th page) — identified as Losses of Nations ch. 8 (1998, pagination-continuous
+with the covered ch. 7). CA/NH claim verdict: REAL argued comparison (50-state
+1992 ACIR data) but unweighted top/bottom-ten means, no controls, disconfirming
+states (HI/AK/MD/NV) explained away ad hoc, and Noyes's NH home-state proximity
+disclosed as a limit — wired to taxing-land-raises-productivity as attributed
+context, EXPLICITLY out of supported_by; didn't fit the flagged split-rate lane
+(measures overall reliance, not land/buildings split) — recorded. Appendix
+deltas: 1990s spectrum-concentration data → spectrum-auctions ([VERIFY] on the
+business-press figures); 23-point falsified-land-values taxonomy → resource-rents.
+G2009: 84pp OCR'd (~47k words) — turns out to be the PEER-REVIEWED PUBLISHED
+version (IJSE 36(4) 2009) of the already-covered hidden-taxable-capacity paper,
+NOT an expansion: page upgraded (full 16-element enumeration, journal citation,
+Krugman-rebuttal + Sinai-Gyourko data points), registry Medium→Heavy. Table-cell
+OCR misalignment in G45's source flagged; prose summaries relied on instead.
+Registry +1 new row +1 upgrade; triage narrative added; inventory regenerated.
+879 pages, lint 0 errors.

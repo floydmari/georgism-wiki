@@ -57,6 +57,27 @@ Spectrum auctions are now the global standard and have raised very large sums:
   adopted their design almost in full, and Canada, the UK, Germany, India and many
   others followed.[4]
 
+## Before the Auctions — the Giveaway Era's Concentration
+
+The record above begins with the 1994 competitive-bidding era; Mason Gaffney's
+appendix to a 1998 book chapter co-authored with Richard Noyes, ["An Inventory of
+Rent-Yielding Resources,"](/wiki/gaffney-noyes-income-stimulating-property-tax/)
+documents the **pre-auction and immediate post-auction period** with specific,
+dated transactions showing spectrum rent capitalizing into private sale prices
+well before — or just as — competitive bidding began: AT&T's **$12.6 billion**
+1993 purchase of McCaw Cellular, "a smallish regional firm whose assets consisted
+of spectrum licenses"; Disney's **$19 billion** 1995 acquisition of Capital
+Cities/ABC, on which Gaffney credits Warren Buffett with over $2 billion of
+"unearned increment"; and a specific secondary-market turnover statistic — from
+1985–94, 85% of cellular licenses changed hands, with the license itself
+"accounting for approximately 60% of the sale price."[5] He frames the pattern
+through the same "strong hands" concentration lens the wiki's
+[Land Monopoly](/wiki/land-monopoly/) page documents for land: "[l]ike other
+untaxed natural resources, spectrum is being concentrated in a few strong
+hands." (D-claim: an advocacy essay's own citations to contemporaneous business
+press, not independently re-verified here — treat the specific dollar figures as
+Gaffney's citations, `[VERIFY]`.)
+
 ## Honest Limits — the "Sell Once vs Lease" Tension
 
 - **One-time capture, not recurring.** A standard auction sells a licence for a
@@ -85,6 +106,8 @@ Spectrum auctions are now the global standard and have raised very large sums:
 - [Public Land Leasing](/wiki/public-land-leasing/) — the same "capture the rent, but recurring vs one-shot" tension
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 - [Resource Rents](/wiki/resource-rents/) — the broader natural-resource-rent family
+- [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — the giveaway-era concentration data
+- [Land Monopoly](/wiki/land-monopoly/) — the "strong hands" concentration mechanism applied to spectrum
 
 ## Sources
 
@@ -102,3 +125,10 @@ Spectrum auctions are now the global standard and have raised very large sums:
 4. Royal Swedish Academy of Sciences, "The Prize in Economic Sciences 2020" (Milgrom
    & Wilson) — used for the SMRA design, its role in the FCC auctions, and the global
    adoption (A-claims). [NobelPrize.org](https://www.nobelprize.org/prizes/economic-sciences/2020/popular-information/)
+5. Mason Gaffney & Richard Noyes (1998), "The Income-Stimulating Incentives of the
+   Property Tax" (Ch. 8) and Mason Gaffney, "An Inventory of Rent-Yielding Resources"
+   (Appendix 1), in Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998)
+   — used for the giveaway-era and post-auction concentration data (D-claim, advocacy
+   essay citing contemporaneous business press, not independently re-verified).
+   [wiki summary](/wiki/gaffney-noyes-income-stimulating-property-tax/) ·
+   [PDF](https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf)

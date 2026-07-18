@@ -259,6 +259,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — the property-tax-vs-income-tax instrument comparison and the nine-reason overmotivated-exploration taxonomy
 - [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Canadian Crown-land leasing errors and US federal oil-tax loopholes as two distinct rent-leakage channels
 - [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the Kaweah River misallocation case study and the six-fallacy case for taxing water withdrawals
+- [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — a 23-point taxonomy of devices that understate land value ("falsified land values"), plus a US-state property-tax-reliance comparison
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources

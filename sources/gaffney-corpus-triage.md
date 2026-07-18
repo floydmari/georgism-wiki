@@ -15,8 +15,63 @@ gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depleti
 gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy,
 gaffney-rising-inequality-farm-property-tax, gaffney-urban-land-rent,
 gaffney-containment-policies-urban-sprawl, gaffney-land-as-element-of-housing-costs,
-gaffney-water-rent-taxation, gaffney-nonpoint-pollution, gaffney-property-tax-progressive;
+gaffney-water-rent-taxation, gaffney-nonpoint-pollution, gaffney-property-tax-progressive,
+gaffney-noyes-income-stimulating-property-tax;
 narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-18 (G45/G2009 follow-up — the two flagged future candidates
+closed out):** Follow-on wave resolving the two G-series items the F/G wave
+flagged as future candidates rather than declining outright (see the F/G
+entry below). **G45**, "The Income-Stimulating Incentives of the Property
+Tax" (Gaffney & Noyes), turned out to be Chapter 8 of Fred Harrison (ed.),
+*The Losses of Nations* (1998) — the same volume whose Chapter 7 (Gaffney's
+"Philosophy of Public Finance") is already covered, confirmed by continuous
+pagination (175–205, then 206–233) and running headers. Read in full and
+given a **dedicated page**,
+[research/gaffney-noyes-income-stimulating-property-tax](/wiki/gaffney-noyes-income-stimulating-property-tax/):
+a 50-state cross-sectional comparison (unweighted top-ten/bottom-ten group
+means, not a regression) arguing heavier property-tax reliance is
+associated with higher personal income per capita, anchored by New
+Hampshire (co-author Noyes's home state — an undisclosed proximity this
+page flags as an honest limit) against California's post-Proposition-13
+decline, plus a solo Gaffney appendix, "An Inventory of Rent-Yielding
+Resources." The chapter body did not fit its originally-flagged home,
+benefits/split-rate-increases-construction (it measures overall
+property-tax reliance and personal income, not a land-vs-buildings split
+predicting construction); it corroborates
+[benefits/taxing-land-raises-productivity](/wiki/taxing-land-raises-productivity/)'s
+Claim A instead, and per the standing convention for Gaffney-observational
+(not quasi-experimental) evidence on a benefits page, it is wired as
+attributed context in prose and in See Also/Sources — **explicitly not
+added to that page's `supported_by` list**. The appendix's two genuine
+deltas — 1990s spectrum-concentration transaction data (AT&T–McCaw,
+Disney–Capital Cities/ABC, 1985–94 cellular-license turnover) and a
+23-point "falsified land values" measurement-bias taxonomy — were wired
+into concepts/spectrum-auctions (new subsection, extending its factual
+record earlier than the 1994 FCC auctions) and concepts/resource-rents
+(light cross-link); the appendix's other entries (oil/gas, water, timber,
+rights-of-way rent) restate ground the existing dedicated Gaffney pages
+already cover in more depth and are cited only as corroboration, per
+strict delta. Also updated people/richard-noyes (co-author identification,
+treated as a well-supported inference rather than an independently
+confirmed fact) and people/mason-gaffney. **G2009**, the 84pp scanned
+"Hidden Taxable Capacity of Land" PDF, was OCR'd in full this session
+(`pdftoppm -r 250` + Tesseract 5.3.4, ~47,100 words) — **not an expansion,
+but the same paper**: the scan carries the *International Journal of
+Social Economics* cover and structured abstract (Vol. 36 No. 4, 2009,
+pp. 328–411), confirming it is the **peer-reviewed published version** of
+the paper the existing page previously cited only via a UCR working-paper
+mirror. Upgraded
+[research/gaffney-hidden-taxable-capacity](/wiki/gaffney-hidden-taxable-capacity/)
+with the paper's full 16-Element/4-Group structure (previously summarized
+only loosely), the confirmed journal citation, and several illustrative
+data points read from the full text (Krugman & Wells' "1% of income"
+textbook figure being rebutted; Sinai & Gyourko's imputed-housing-rent
+estimate; the Milwaukee cadastral-mapping cross-link to the already-covered
+1969/1998 studies). Registry: one new row for G45 (tier `important`, Scan
+Depth Heavy); the existing hidden-taxable-capacity row's Scan Depth
+upgraded Medium → Heavy. Text mirrored to `sources/gaffney/text/` for
+both works. `lint_wiki.py`: 0 errors.
 
 **2026-07-18 (F-series complete + G-series triage — environment/energy and
 property-tax-miscellany burn-down):** Fetched and skimmed all 21 unchecked
@@ -666,7 +721,7 @@ priority-correction candidate for a future wave.
 - [x] `G19Many_Faces_of_Site_Value_Taxation.CV.pdf` — https://masongaffney.org/publications/G19Many_Faces_of_Site_Value_Taxation.CV.pdf — skimmed 2026-07-18. "The Many Faces of Site-Value Taxation," Canadian Tax Foundation, 27th Annual Conference, Nov. 12 1975 (to be published *Canadian Tax Journal* 1976). Substantive survey of site-value-tax variants; **not selected this wave** (G17 judged the stronger delta) — flagged as a strong candidate for a future wave. No registry row.
 - [x] `G1Adequacy_of_land.CV.pdf` — https://masongaffney.org/publications/G1Adequacy_of_land.CV.pdf — skimmed 2026-07-18. "Adequacy of Land as a Tax Base," in Daniel Holland (ed.), *The Assessment of Land Value* (U. Wisconsin Press, 1970), pp. 157-212. **Declined**: overlaps gaffney-hidden-taxable-capacity's revenue-adequacy argument; independently confirmed as a real, citable Gaffney work via F7's own bibliography. No registry row.
 - [x] `G20-NatlTaxAssnDiscussantonEnergyTaxes.CV.pdf` — https://masongaffney.org/publications/G20-NatlTaxAssnDiscussantonEnergyTaxes.CV.pdf — skimmed 2026-07-18. A short discussant comment inside the full NTA 1977 *Proceedings* volume (Louisville, Nov. 1977). **Declined**, thin fragment. No registry row.
-- [x] `G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf` — https://masongaffney.org/publications/G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf — fetched 2026-07-18, 84pp scanned image (no usable text layer), **not OCR'd this wave**. Very likely a later/expanded edition of the 2008 UCR working paper already the primary source for gaffney-hidden-taxable-capacity — flagged as a scan-depth-upgrade candidate for a future wave rather than declined outright, since it was not actually read. No registry row.
+- [x] `G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf` — https://masongaffney.org/publications/G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf — fetched 2026-07-18, 84pp scanned image (no usable text layer), **not OCR'd this wave**. Very likely a later/expanded edition of the 2008 UCR working paper already the primary source for gaffney-hidden-taxable-capacity — flagged as a scan-depth-upgrade candidate for a future wave rather than declined outright, since it was not actually read. No registry row. **RESOLVED 2026-07-18 (follow-up wave):** OCR'd in full (`pdftoppm -r 250` + Tesseract 5.3.4, 84pp, ~47,100 words). **Not an expansion — the same paper**, confirmed identical (16-Element/4-Group structure, section headings, illustrative material) to the UCR working-paper mirror; this scan carries the *Emerald/International Journal of Social Economics* cover and structured abstract (Vol. 36 No. 4, 2009, pp. 328–411), so it is the **peer-reviewed published version** rather than a distinct work. Upgraded [research/gaffney-hidden-taxable-capacity](/wiki/gaffney-hidden-taxable-capacity/) with the full 16-element enumeration (previously only loosely summarized), the confirmed journal citation, and several illustrative data points (Krugman & Wells' "1% of income" textbook figure being rebutted; Sinai & Gyourko's $11.1tn/$22.2tn imputed-housing-rent estimate; the Milwaukee cadastral-mapping cross-link to the 1969/1998 studies). Registry Scan Depth Medium → Heavy; text mirrored to `sources/gaffney/text/G2009-Hidden_Taxable_Capacity_of_Land_2009.txt`.
 - [x] `G21-PartialityofIndexingCapitalGains.CV.pdf` — https://masongaffney.org/publications/G21-PartialityofIndexingCapitalGains.CV.pdf — fetched 2026-07-18. **Scan mismatch / dead file**: extracted text is unrelated endnotes from a different book entirely (citations to Piaget, Kuhn, Hegel on "Quantum Theory" of socioeconomic change), not the Gaffney essay the filename implies. Not usable; no registry row.
 - [x] `G28-AnAlternativeReform.CV.pdf` — https://masongaffney.org/publications/G28-AnAlternativeReform.CV.pdf — skimmed 2026-07-18. "Taxation and Human Values: An Alternative Reform," *The Center Magazine*, Nov./Dec. 1978, pp. 19-28 — a Proposition 13 response essay. **Declined**, not checked against the existing events/proposition-13 page in detail this wave; candidate for a future wave. No registry row.
 - [x] `G29-TaxableCapacityofLand.pdf` — https://masongaffney.org/publications/G29-TaxableCapacityofLand.pdf — skimmed 2026-07-18. "The Taxable Capacity of Land" — restates the G1/hidden-taxable-capacity revenue-adequacy argument; its own bibliography independently cites G17, corroborating that work's standing. **Declined**. No registry row.
@@ -676,7 +731,7 @@ priority-correction candidate for a future wave.
 - [x] `G39LandGains.CV.pdf` — https://masongaffney.org/publications/G39LandGains.CV.pdf — skimmed 2026-07-18. "Land Gains, Fast Write-off, and Incentives to Build," for TRED Conference, Sept./Oct. 1985 — a depreciation/capital-gains tax-asymmetry argument adjacent to gaffney-capital-gains-free-enterprise. **Declined**, not read in full; candidate for a future wave. No registry row.
 - [x] `G4-AgendaforStrengtheningthePropertyTax1.CV.pdf` — https://masongaffney.org/publications/G4-AgendaforStrengtheningthePropertyTax1.CV.pdf — skimmed 2026-07-18. "An Agenda for Strengthening the Property Tax" — four-point program (no relief, assessment reform, shift to state level, convert to site value); same speech as G4a below, restates ground covered elsewhere. **Declined**. No registry row.
 - [x] `G44Philosophy_of_Public_Finance.CV.pdf` — https://masongaffney.org/publications/G44Philosophy_of_Public_Finance.CV.pdf — [research/gaffney-philosophy-of-public-finance](/wiki/gaffney-philosophy-of-public-finance/), 2026-07-16 (local mirror filename: `G44_Philosophy_of_Public_Finance.pdf`/`.txt`, same work)
-- [x] `G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf` — https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf — skimmed 2026-07-18. "The Income-Stimulating Incentives of the Property Tax," Mason Gaffney and Richard Noyes (co-authored), Chapter 8 of an unidentified book, with an "Appendix 1: An Inventory of Rent-yielding Resources" (minerals, water, wildlife habitat, spectrum/energy sites) and a California/New Hampshire growth comparison. Richest-by-word-count G candidate not selected this wave; potentially relevant to benefits/split-rate-increases-construction. **Not selected** (co-authored, not read in full) — flagged as a strong candidate for a future wave. No registry row.
+- [x] `G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf` — https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf — skimmed 2026-07-18. "The Income-Stimulating Incentives of the Property Tax," Mason Gaffney and Richard Noyes (co-authored), Chapter 8 of an unidentified book, with an "Appendix 1: An Inventory of Rent-yielding Resources" (minerals, water, wildlife habitat, spectrum/energy sites) and a California/New Hampshire growth comparison. Richest-by-word-count G candidate not selected this wave; potentially relevant to benefits/split-rate-increases-construction. **Not selected** (co-authored, not read in full) — flagged as a strong candidate for a future wave. No registry row. **RESOLVED 2026-07-18 (follow-up wave):** read in full (the source PDF already carried an extractable text layer; no fresh OCR needed, though several statistical tables show OCR-era column misalignment — flagged `[VERIFY]` on exact table cells). Identified the book as Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998) — Chapter 8, immediately following Gaffney's own already-covered Chapter 7 ("The Philosophy of Public Finance"). **Verdict: dedicated page**, [research/gaffney-noyes-income-stimulating-property-tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — the chapter body (a cross-sectional 50-state property-tax-reliance/income comparison, not a split-rate land-vs-buildings study) didn't fit the flagged split-rate-increases-construction lane and instead corroborates [benefits/taxing-land-raises-productivity](/wiki/taxing-land-raises-productivity/)'s Claim A, wired as attributed context per the standing Gaffney-observational-not-quasi-experimental convention (explicitly **not** added to that page's `supported_by`). The solo Gaffney appendix's two genuine deltas — 1990s spectrum-concentration transaction data and a 23-point "falsified land values" measurement taxonomy — were wired into concepts/spectrum-auctions (new subsection) and concepts/resource-rents (light cross-link) respectively; most of the appendix's other entries (oil/gas, water, timber, ROW rent) restate ground the existing dedicated Gaffney pages already cover in more depth and were cited only as corroboration. Also updated people/richard-noyes (co-author identification, treated as a well-supported inference) and people/mason-gaffney. Registry: one new row (tier `important`, Scan Depth Heavy). Text mirrored to `sources/gaffney/text/G45-IncomeStimulatingIncentivesPropertyTax.txt`.
 - [x] `G4a-PropTax&amp;IntergovReltns.CV.pdf` — https://masongaffney.org/publications/G4a-PropTax&amp;IntergovReltns.CV.pdf — fetched cleanly this wave (no 236-byte 404 stub encountered; direct `%26`-encoded fetch used as a precaution, per established fix). "The Property Tax and Intergovernmental Relations," remarks to the President's Advisory Commission on Intergovernmental Relations, Sept. 14 1972 — the same four-point speech as G4 above (near-identical opening text), different occasion. **Declined**, duplicate content. No registry row.
 - [x] `G60Cannan_hits_the_Mark.CV.pdf` — https://masongaffney.org/publications/G60Cannan_hits_the_Mark.CV.pdf — skimmed 2026-07-18. "A Cannan Hits the Mark," on Edwin Cannan (1861-1935), LSE economist and editor of the standard 1904 Wealth of Nations edition — history-of-economic-thought material, K-series-adjacent rather than property-tax-miscellany. No people/edwin-cannan page exists yet to fold it into. **Declined**, out of this wave's scope. No registry row.
 - [x] `H18_Water_Giveaway.pdf` — https://masongaffney.org/publications/H18_Water_Giveaway.pdf — read in full, 2026-07-18. "The Water Giveaway: A Critique of Federal Water Policy," in Robert Haveman & Robert Hamrin (eds.), *The Political Economy of Federal Policy* (Harper & Row, 1973), excerpted from Gaffney's 1969 JEC Subcommittee testimony. **Light fold** into [research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/): mostly restates the racing/logrolling/price-umbrella dynamic already on the page from H3, but adds a distinct fiscal driver (pre-1986 expensing of premature-development losses against ordinary income while land-value gains went untaxed) plus two concrete illustrations (Colorado River Compact critique, the Bureau of Reclamation's 1902 revolving fund never completing one revolution by 1969) — folded as item 6 of the Dynamic Pattern list. Native text, no OCR needed.
