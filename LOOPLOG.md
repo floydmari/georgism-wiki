@@ -1075,3 +1075,16 @@ export regenerated (sources/exports/registry-export-2026-07-18.csv). BACKLOG lin
 flipped to done. 849 pages, lint 0 errors, 30 warnings (unchanged by this wave — all
 new-page warnings resolved). No commit (per task instruction) — working tree has the
 changes.
+
+## 2026-07-18 (cont.) — Wave: VERIFY unclassified burn-down (queue 33 -> 22)
+
+9 resolved / 3 honest downgrades across 10 pages. Highlights: the 1960 CHPC report
+identified precisely (title, May 1960, Schalkenbach-funded, Rybeck preface — via OCR of
+the digitized primary); leduc-liu + Green-reanalysis publication upgrades (Green's
+published version argues the OPPOSITE causal reading of Mincome — added as honest
+nuance); August's REIT counts corroborated by StatCan CHSP land-registry data; Mintz-Chen
+Australia figure verified against the paper's own table; two never-published leads
+(Walks Part II; a land-specific efficiency-wage test) closed as SETTLED so nobody
+re-chases them. Remaining unclassified markers are all deliberate gaffney-* flags.
+MERGE NOTE: forget-mincome + nyc-1920s edits may conflict with udw74p's unmerged tail —
+normal git conflicts, both sides' edits are compatible in substance. 853 pages, lint 0.
