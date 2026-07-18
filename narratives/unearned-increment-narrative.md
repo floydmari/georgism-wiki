@@ -248,7 +248,9 @@ values — is among the better-evidenced propositions in the wiki:
    linked outcome pages, which carry the underlying references:
    [Rognlie 2015](/wiki/rognlie-capital-share/) ·
    [Bonnet et al. 2021](/wiki/bonnet-land-is-back/) ·
-   [Schwerhoff et al. 2022](/wiki/schwerhoff-imf-equity-efficiency/) (B-claims).
+   [Schwerhoff et al. 2022](/wiki/schwerhoff-imf-equity-efficiency/) (B-claims) — used
+   for the empirical-support pointer in this narrative's core claim, navigating to the
+   `research/` pages that carry the actual capitalization/capital-share evidence.
 10. On the symmetry/decrement objection: Donald G. Hagman, "Betterment For Worsenment:
    The English 1909 Act and Its Progeny," *University of Queensland Law Journal* 10(1),
    1977 [PDF (AustLII)](https://www8.austlii.edu.au/au/journals/UQLJ/1977/3.pdf); the
@@ -256,4 +258,7 @@ values — is among the better-evidenced propositions in the wiki:
    Misczynski (eds.), *Windfalls for Wipeouts: Land Value Capture and Compensation*
    (American Society of Planning Officials, 1978). Full treatment and georgist replies
    on the [symmetry/decrement objection page](/wiki/symmetry-decrement-objection/)
-   (A/B-claims).
+   (A/B-claims) — used for flagging, but not resolving, the symmetry/decrement
+   objection to this narrative (that unearned-increment capture logically implies
+   compensating unearned-decrement losses), which this page defers to the dedicated
+   objection page rather than answering in-line.

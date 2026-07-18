@@ -1471,3 +1471,18 @@ Wired: resource-rents (2 subsections), resource-rent-capture-works (modes 6-7 +
 supported_by), capital-gains page, mason-gaffney. Registry +4 rows; triage rows
 checked. 870 pages, lint 0 errors. (T3 batch-two agent still in flight; inventory
 regen deferred to wave close.)
+
+## 2026-07-18 (cont.) — Wave: T3 batch two (annotations + quote-cap compliance)
+
+Annotations: the 2026-07-03..06 cohort (~90 pages) surveyed and found ALREADY
+substantially annotated from earlier passes — first-pass grep false-positives
+(line-wrapped phrasing, equivalent wording) manually adjudicated; 18 genuinely
+thin entries fixed across 14 files, each derived from page text. Coming in under
+the ~25 estimate is the honest outcome, not a shortfall. Quote caps (EDITORIAL
+§1.5 ≤50 words per copyrighted work): precise per-quote counter built (fixing
+naive blockquote-merge inflation); 4 pages/5 instances confirmed over-cap and
+trimmed-or-paraphrased (worst: a 96-word Lie quote → 12-word verbatim close);
+PD-exempt pages (Pigou/Smith-lectures/Walras/George quotes) correctly left; 4
+apparent offenders cleared as parser false-positives. Baseline warnings verified
+unchanged via git-stash comparison. Inventory regenerated (2 extractive pages
+absorbed, warnings 36→34). 870 pages, lint 0 errors. Task #35 wave complete.

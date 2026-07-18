@@ -96,11 +96,10 @@ large digital companies does not mean that the companies will bear the entire co
 Muddasani and Langenmayr (2025) put numbers on this using Amazon marketplace data across
 DST-adopting countries. Their finding:
 
-> "on average, Amazon increased its fees by roughly half the amount of the digital service
-> tax. Firms using Amazon as a platform have largely passed these increased fees on to
-> consumers. Large digital firms thus bear only a small part of the tax burden, but the tax
-> may nevertheless succeed in making them less competitive relative to brick-and-mortar
-> competitors."[3]
+Muddasani and Langenmayr find that "on average, Amazon increased its fees by roughly half
+the amount of the digital service tax," and that sellers passed most of that increase on to
+consumers — so large digital firms bear only a small part of the statutory tax burden, even
+as the surcharge may still erode their competitiveness against brick-and-mortar rivals.[3]
 
 So on the best available evidence the dominant platform — the party actually earning the
 rent the DST was meant to reach — absorbed only a **minority** of a tax nominally levied on

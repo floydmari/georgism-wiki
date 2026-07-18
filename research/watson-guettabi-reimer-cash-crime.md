@@ -43,9 +43,11 @@ of crime raises another. The page grades it that way.
 The published abstract states the results verbatim:
 
 > "We find a 14% increase in substance-abuse incidents the day after the payment and a 10%
-> increase over the following four weeks. This is partially offset by an 8% decrease in property
-> crime, with no changes in violent crimes. On an annual basis, however, changes in criminal
-> activity from the payment are small."[1]
+> increase over the following four weeks."[1]
+
+That rise is partially offset by an 8% decrease in property crime, with no change in violent
+crime; on an annual basis, the authors note, the net change in criminal activity from the
+payment is small.[1]
 
 The authors' bottom line is reassuring on net: "Estimated costs comprise a very small portion of
 the total payment, suggesting that crime-related concerns" do not undermine the case for a

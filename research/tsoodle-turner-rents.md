@@ -84,10 +84,14 @@ roughly $400 annually" (abstract). Scan depth **Light**.
    [DOI](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6229.2008.00207.x)
    — used for the pass-through finding and magnitude (B-claim).
 2. Larry L. Orr, "The Incidence of Differential Property Taxes on Urban Housing,"
-   *National Tax Journal* 21(3), 1968, pp. 253–262. — no-shifting result (B-claim).
+   *National Tax Journal* 21(3), 1968, pp. 253–262. — no-shifting result (B-claim)
+   — used for the "Context — the older exchange it revived" section above, as the
+   no-shifting pole of the 1968–81 exchange.
 3. John D. Heinberg & Wallace E. Oates, "The Incidence of Differential Property
    Taxes on Urban Housing: A Comment and Some Further Evidence," *National Tax
-   Journal* 23(1), 1970. — partial-shifting re-estimate (B-claim).
+   Journal* 23(1), 1970. — partial-shifting re-estimate (B-claim) — used for the
+   same "Context" section, as the methodological critique of Orr that found
+   partial shifting.
 4. Richard Dusansky, Melvin Ingber & Nicholas Karatjas, "The Impact of Property
    Taxation on Housing Values and Rents," *Journal of Urban Economics* 10(2), 1981,
    pp. 240–255. [Listing](https://ideas.repec.org/a/eee/juecon/v10y1981i2p240-255.html)

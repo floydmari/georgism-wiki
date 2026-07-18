@@ -120,4 +120,4 @@ The data cited (2003-2004 UK land values, housing stock values) is now two decad
 
 1. Fred Harrison, *Ricardo's Law: House Prices and the Great Tax Clawback Scam* (London: Shepheard-Walwyn, 2006). ISBN 978-0-85683-241-3. 474 pp. — primary source for all claims on this page; verified against primary text 2026-07-05 (Scan Depth: Heavy).
 2. Nicolaus Tideman, calculations cited in Harrison Ch. 1–2 — used for the revenue-sufficiency and deadweight loss estimates (B-claim; empirical).
-3. David Ricardo, *Principles of Political Economy and Taxation* (1817) — the Law of Rent that gives the book its title and theoretical framework (F-claim; definition).
+3. David Ricardo, *Principles of Political Economy and Taxation* (1817) — the Law of Rent that gives the book its title and theoretical framework (F-claim; definition) — used for the "The Ricardo Connection" section above, which explains how the book's title and clawback mechanism derive from Ricardo's rent theory.

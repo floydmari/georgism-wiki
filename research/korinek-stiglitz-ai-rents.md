@@ -46,8 +46,10 @@ it ties this directly to the inequality debate:
 
 > "There is a growing consensus that one of the sources of the growth of inequality is the
 > growth of rents, including the rents that innovators earn in excess of the cost of
-> innovation... Taxing and redistributing such rents has an important role in ensuring that
-> AI and other advances in technology are Pareto improving."[1]
+> innovation."[1]
+
+Taxing and redistributing those rents, the authors argue, has an important role in ensuring
+that AI and other technological advances are Pareto improving.[1]
 
 **The redistribution instruments are the Georgist menu.** The authors reach for
 rent-targeting tools rather than broad income taxation: **high rent taxes** funding targeted
@@ -74,9 +76,10 @@ compete for scarce non-reproducible resources like land, driving up their price.
 even reproduce, unprompted, the classic Georgist urban-rent picture:
 
 > "competition for fixed resources that are part of their consumption basket, such as land
-> used for housing, may lead workers to eventually be worse off... Rich rentiers may occupy
-> the more desirable locations near the center, with workers having to obtain less expensive
-> housing at the periphery, spending more time commuting."[1]
+> used for housing, may lead workers to eventually be worse off."[1]
+
+They spell out the spatial mechanism: rich rentiers occupy the more desirable locations near
+the center, pushing workers to less expensive housing at the periphery and longer commutes.[1]
 
 And the redistribution that answers it is the single-tax logic verbatim: "Since taxes on
 non-reproducible factors are **by definition non-distortionary**, there is scope for
