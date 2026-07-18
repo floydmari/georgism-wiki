@@ -56,6 +56,7 @@ A second, independent data point supports reading the episode as less monolithic
 ## See Also
 
 - [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/)
+- [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — the primary-source catalogue of land/capital distinctions this article's historical-motive question is about; its own Standing and Limits section already cites this article for the counter-read
 - [John Bates Clark](/wiki/john-bates-clark/)
 - [Richard T. Ely](/wiki/richard-t-ely/)
 - [Marginal Productivity](/wiki/marginal-productivity/)

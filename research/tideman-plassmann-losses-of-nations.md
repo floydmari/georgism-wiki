@@ -88,6 +88,7 @@ tracked in `sources/verification-backlog.md`.
 - [Deadweight Loss](/wiki/deadweight-loss/) · [Land rent could fund government](/wiki/land-rent-could-fund-government/)
 - [Goodhart, Hudson, Kumhof & Tideman (2021)](/wiki/goodhart-stimulus/) — the modern successor
 - [Harrison, Boom Bust (book)](/wiki/harrison-boom-bust/) — carries the figure at Ch. 14
+- [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — the immediately following chapter of the same *Losses of Nations* volume
 
 ## Sources
 

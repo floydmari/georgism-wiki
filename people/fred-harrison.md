@@ -43,6 +43,7 @@ Harrison separately edited *The Losses of Nations: Deadweight Politics versus Pu
 - [Bezemer (2009): "No One Saw This Coming"](/wiki/bezemer-no-one-saw-this-coming/) — the independent academic survey that lists Harrison among twelve documented advance forecasters of the 2008 crisis
 - [Objection: Bubbles Cannot Be Identified in Advance](/wiki/bubbles-cannot-be-identified-in-advance/) — the wiki's full, caveated treatment of Harrison's forecasting record against the Greenspan/Fama doctrine
 - [Homer Hoyt](/wiki/homer-hoyt/) · [Hoyt (1933): One Hundred Years of Land Values in Chicago](/wiki/hoyt-chicago-land-values/) — the data source Harrison built on, and disavowed, and rebutted in "The Hoyt Heist"
+- [Gaffney (1991/2005): Peace Dividends, Land Bubbles, and Land Booms](/wiki/gaffney-peace-dividends-land-booms/) — credits Harrison, alongside Locke, Vanderlint, Quesnay, and George, as co-source of the Physiocratic tax-incidence premise behind the peace-dividend land-boom thesis
 - [Donald Shoup](/wiki/donald-shoup/) — UCLA economist whose 1980 deferred-assessment proposal, cited in Harrison's *Power in the Land*, answers the asset-rich/cash-poor objection to LVT
 - [Henry George](/wiki/henry-george/) — the intellectual tradition
 - [Mason Gaffney](/wiki/mason-gaffney/) — co-author of *The Corruption of Economics*

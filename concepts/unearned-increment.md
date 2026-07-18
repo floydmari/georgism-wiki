@@ -103,6 +103,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 - [Commoners (Neeson)](/wiki/commoners-neeson/) — enclosure as creation of unearned increment
 - [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's "collectively-earned increment"
 - [Gaffney (1991): "Capital" Gains and the Future of Free Enterprise](/wiki/gaffney-capital-gains-free-enterprise/) — the Georgist-origins history of the U.S. income tax and a catalogue of how the unearned increment escapes taxation in practice
+- [Gaffney: The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — an agricultural case study of unearned-increment capture (price supports and subsidies landing on farmland owners) predating the wiki's urban capitalization literature by decades
 
 ## Sources
 

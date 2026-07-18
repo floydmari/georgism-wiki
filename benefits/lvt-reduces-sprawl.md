@@ -141,6 +141,8 @@ The honest assessment is that the theoretical mechanism is well-established and 
 - [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the pre-Brueckner theoretical statement of the credit-discrimination and logrolling mechanisms
 - [Gaffney (1969): Land Planning and the Property Tax](/wiki/gaffney-land-planning-property-tax/) — the planner-empowerment argument, including synchronized open-space planning under a land-value tax base
 - [Gaffney (1964): Containment Policies for Urban Sprawl](/wiki/gaffney-containment-policies-urban-sprawl/) — the earliest Gaffney statement of the site-value-tax anti-sprawl case in the wiki's corpus
+- [Gaffney (1988/89): Nonpoint Pollution](/wiki/gaffney-nonpoint-pollution/) — connects the anti-sprawl mechanism specifically to water-quality/runoff outcomes; historical context, not additional empirical evidence
+- [Gaffney (1968): Land as an Element of Housing Costs](/wiki/gaffney-land-as-element-of-housing-costs/) — documents delinquency-with-redemption laws and tax-code provisions that let fringe speculators hold land cheaply, the credit-side counterpart to this page's sprawl mechanism
 - [Ecological Georgism](/wiki/ecological-georgism/)
 - [Land Speculation](/wiki/land-speculation/)
 - [Speculative Vacancy](/wiki/speculative-vacancy/)

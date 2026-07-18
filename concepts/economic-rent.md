@@ -99,6 +99,7 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 - [Geoism](/wiki/geoism/) — the system built on capturing rents of every kind
 
 - [Law of Rent](/wiki/law-of-rent/)
+- [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — Gaffney's fullest catalogue of why land's rent behaves unlike any return to capital
 
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response to economic rent
 - [Unearned Increment](/wiki/unearned-increment/) — John Stuart Mill's term for the same concept

@@ -23,6 +23,7 @@ Gaffney and Harrison's ***[The Corruption of Economics](/wiki/gaffney-harrison-c
 - [The Corruption of Economics (book page)](/wiki/gaffney-harrison-corruption-of-economics/) — names Purdy among the movement's administrative campaigners
 - [Tom L. Johnson](/wiki/tom-l-johnson/) — fellow Georgist official of the same era, Mayor of Cleveland
 - [Land Value Tax](/wiki/land-value-tax/) — the reform Purdy's assessment-roll reforms moved New York City toward
+- [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — documents the Somers land-value mapping system Purdy carried from Cleveland (Mayor Tom Johnson) to New York
 
 ## Sources
 

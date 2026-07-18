@@ -182,6 +182,14 @@ formalizing why cheap long-term credit concentrates *speculative* landholding
 specifically, more than it concentrates landholding generally.[13] (C-claim;
 Gaffney's own theoretical model and worked example, attributed.)
 
+The same "strong hands" mechanism recurs outside land proper: Gaffney documents 1993-95
+spectrum licenses concentrating in a few well-financed telecom buyers before the FCC's
+own competitive auctions began (see [gaffney-noyes-income-stimulating-property-tax](/wiki/gaffney-noyes-income-stimulating-property-tax/)),
+and restates the credit-concentration logic for extractive minerals and oil-and-gas leases
+(see [gaffney-extractive-resources-taxation](/wiki/gaffney-extractive-resources-taxation/)) —
+corroboration that the mechanism is general to untaxed, capital-intensive natural-resource
+rights, not specific to land titles.
+
 See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) ·
 [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) ·
 [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) ·

@@ -126,6 +126,8 @@ correct because the same hierarchy appears in both, the dissertation being the e
 - [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/) — later restatement of the Hoyt-derived lineage
 - [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) — the outcome page distinguishing Hoyt's premise-level evidence from a direct LVT test
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/)
+- [Gaffney (1991/2005): Peace Dividends, Land Bubbles, and Land Booms](/wiki/gaffney-peace-dividends-land-booms/) — a 1991 Gaffney paper builds directly on Hoyt's 19th-century US land-cycle timetable to explain two anomalous breaks in it (the missing 1912 slump; the post-1945 interruption)
+- [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — the unabridged Chicago workpaper documenting an 1894 Bureau of Labor Statistics land-concentration study that "inspired" Hoyt's later dissertation
 
 ## Sources
 

@@ -157,7 +157,11 @@ Policy](/wiki/gaffney-corporate-power-military/) argues that a large share of
 U.S. military spending functions as a subsidy defending private corporate
 resource tenure abroad, with the "capitalized value of the flag" as the asset
 being protected — extending this page's rent-leakage catalogue from tax and
-leasing design into geopolitics.
+leasing design into geopolitics. A much shorter 1988 Gaffney conference
+summary, [Rent-Seeking and Global Conflict](/wiki/gaffney-rent-seeking-global-conflict/),
+states the compressed precursor of the same argument three decades earlier:
+national governments originate to seize and police land/resource rent, so war
+and foreign "rent-seeking" are the same phenomenon at a different scale.
 
 ## Two Institutional Channels for Rent Leakage — Gaffney on Canadian Leasing and US Oil Tax Law
 

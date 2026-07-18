@@ -89,6 +89,7 @@ The Law of Rent, as a theoretical model, has been subject to several lines of cr
 - [The 1815 Rent Theory Pamphlets](/wiki/1815-rent-theory-pamphlets/) — the founding episode where Malthus, West, Torrens, and Ricardo independently published differential rent theory within weeks of each other
 - [Robert Torrens](/wiki/robert-torrens/) — one of four economists (with Malthus, West, and Ricardo) who independently published differential rent theory in 1815
 - [Hornbeck & Moretti](/wiki/hornbeck-moretti-tfp-incidence/) — a modern instrumented restatement of the Ricardian capture concern, with its own honest counterweight
+- [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — a ten-point catalogue of why land's supply-and-rent behaviour differs from capital's, the modern companion to Ricardo's differential-surplus argument
 
 - [Economic Rent](/wiki/economic-rent/) — the broader concept of which the Law of Rent is the classical foundation
 - [Margin of Production](/wiki/margin-of-production/) — the reference point that determines the magnitude of rent

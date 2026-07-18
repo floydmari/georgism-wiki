@@ -88,6 +88,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
 - [Commoners (Neeson)](/wiki/commoners-neeson/) — enclosure as historical vacancy/underuse
 - [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — anti-speculation model
+- [Gaffney (1968): Land as an Element of Housing Costs](/wiki/gaffney-land-as-element-of-housing-costs/) — documents delinquency-with-redemption laws and capital-gains tax provisions that let speculators hold land at low carrying cost
 
 ## Sources
 

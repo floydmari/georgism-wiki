@@ -339,6 +339,7 @@ necessary; the institutions are what make it sufficient.
 - [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Crown-land leasing-design errors and US federal oil-tax-code leakage, two further failure modes
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — early (1967) empirical anchor for the scale of capturable rent in extractive industries
 - [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the eighth failure mode: water rights assigned by legal doctrine rather than price
+- [Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash?](/wiki/gaffney-real-assets-model-china/) — cited lightly, outside the failure-mode catalogue above, as a mechanism argument for why land/resource-rent taxation (not credit regulation alone) addresses crisis prevention at its root
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources

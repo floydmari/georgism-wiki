@@ -1979,3 +1979,19 @@ mined out across five tiers — short high-traffic pages are short because they
 warrant it. Future waves should pivot axes: a systematic Bears-On/reciprocal-
 link gap sweep between today's ~15 new Gaffney pages and their concept/outcome
 homes (the exact failure mode behind all 4 finds). 888 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: reciprocal link-gap sweep (25 links, cohort wiring axis closed)
+
+Mechanical bidirectional audit of today's 23 Gaffney pages vs their referenced
+concept/outcome/objection/place pages: ~50 raw gaps → 25 warranted links added
+across 22 files (all See-Also bullets or one-clause inline pointers — zero new
+paragraphs, zero supported_by changes, verified by diff), 7 skips documented
+with reasons (incl. henry-george.md kept as curated hub; the tax-capitalization
+gap the source page itself had zero-addition-flagged). Notable additions: the
+Pingree Detroit antecedent onto detroit-lvt-proposal; the Somers lineage onto
+lawson-purdy; arnott-stiglitz-hgt got its first See Also section (the
+pre-Stiglitz Gaffney statement); the Losses-of-Nations same-volume companions
+cross-tied. Reverse keyword sweep confirmed the rest of the corpus already
+well-wired. AXIS CLOSED for the cohort; surfaced remainder: gaffney-to-gaffney
+sibling wiring (water↔alaska, urban-land-rent↔synergistic-city etc.) — a
+distinct axis queued next. 888 pages, lint 0 errors, warnings baseline.

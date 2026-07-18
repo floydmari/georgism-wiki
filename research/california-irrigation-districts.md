@@ -61,6 +61,7 @@ The Wright Act's effect on farm size was real but partial, and did not eliminate
 - [Land Speculation](/wiki/land-speculation/) — the behaviour the improvements exemption discouraged
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) — the modern policy family the improvements exemption anticipates
 - [San Francisco](/wiki/san-francisco/) — cites this page's WP020 source for a briefer, independent corroboration of the 1906 earthquake land-tax rebuild episode
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — Gaffney's own primary-source economic-theory account of why Wright Act district financing works (natural-monopoly economies of scale, synchronized settler investment), complementing this page's largely secondary-sourced history
 
 ## Sources
 
