@@ -63,6 +63,22 @@ commit+push+preview — publishing is Floyd's process.
 
 ---
 
+**RECONCILED 2026-07-18 (session 2z2oww, branch claude/georgism-wiki-interlink-publish-2z2oww):
+~14 waves this session (LOOPLOG "WoN Book II + Book IV deepen-scan" through "Gaffney tier-2
+land-theory batch"), 855→867 pages, lint 0 errors throughout. Headline outcomes: the
+WS-TECH-RENTS lane (a-d discovery + gated instrument-comparison synthesis) is fully COMPLETE;
+Gaffney corpus work landed C9 "Land as a Distinctive Factor of Production" (rewritten),
+D1 "Rising Inequality and Falling Property Tax Rates" (new page), and the Alaska 1977 Part II
+appendices (155pp OCR'd, VERIFY resolved with independent econometric corroboration of the
+bonus-bidding-undercaptures-rent case); the Doucet Ch. 21 capitalization cluster finished 5/5
+de-referenced to primary text; the stub-queue leftovers wave closed out 3 named stale
+"todo" stubs that already existed and backfilled 3 real gaps instead (henry-george-jr,
+bc-assessment-authority, parliament-act-1911); a T3 mechanical-debt batch annotated 23 Sources
+and expanded 4 thin articles. This pass also caught and corrected several stale BACKLOG notes
+below (checked off, corrected, or tightened in place) — see the dated annotations throughout
+NOW/NEXT. Below reflects true state as of this reconciliation; treat anything not re-dated
+2026-07-18 as carried forward unchanged from its last verification.**
+
 ## NOW (in flight today, 2026-07-10)
 
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
@@ -99,10 +115,11 @@ provenance — do not re-plan.]**
       indexes must stay current per EDITORIAL §5b).
 
 ### People stubs from book scanning (sources/inbox/T1-TODO-people-pages-from-book-scanning.md)
-- [~] [EXPAND] tier:T2 status:in-progress — 10 of the listed authors already have pages
-      (Andelson, Barnes, Daly, Daniel, Barker, Neeson, Banner, Bryson, Howard, Adams).
-      Remaining this wave, standard triage bar applies: K.W. Burgess, John Noyes,
-      Eric Goldman, William Redfearn. Then move the TODO file to sources/inbox/consumed/.
+- [x] [EXPAND] tier:T2 status:done (verified 2026-07-18) — stale duplicate of the
+      RECONCILED note above: all remaining named authors shipped under corrected names
+      (people/ronald-burgess.md, richard-noyes.md, eric-goldman.md, david-redfearn.md all
+      present in the repo). TODO file already moved to
+      sources/inbox/consumed/T1-TODO-people-pages-from-book-scanning.md.
 
 ### VERIFY burn-down (queue regenerated this shift: 121 markers on wiki pages)
 - [ ] [VERIFY] tier:T1 status:recurring — the **unclassified channel (82 markers)** is the
@@ -186,13 +203,22 @@ provenance — do not re-plan.]**
       public-choice steelman shipped as objections/public-choice-critique.md (Buchanan/
       Brennan Leviathan + Tullock transitional-gains trap) with
       objections/rent-revenue-breeds-corruption.md beside it; objections dir now 37 pages.
-- [ ] [FIND] tier:T2 status:todo — WS-TECH-RENTS remaining discovery, in order:
-      (a) DSTs-as-tried (France/UK/India incidence; Amazon UK pass-through as the
-      badly-aimed-rent-tax failure case; Pillar One/Two); (b) attention/ad rents (Romer's
-      progressive digital ad tax); (c) rent DISSOLUTION vs capture (antitrust/DMA/interop);
-      (d) is-it-rent diagnosis update (Furman Review, Korinek-Stiglitz AI rents). THEN the
-      gated synthesis: concepts/taxing-tech-rents instrument comparison (ACE/DBCFT vs DST vs
-      ad tax vs data dividend vs antitrust, graded). Rent-gradient rule applies hardest here.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — WS-TECH-RENTS lane COMPLETE, a-d + gated
+      synthesis all shipped this session: (a) DSTs-as-tried →
+      research/digital-services-taxes.md (UK/France/India/Canada record, Pillar One still
+      unsigned); (b) attention/ad rents → research/maryland-digital-ad-tax.md (the Romer
+      proposal page itself, research/romer-digital-advertising-tax.md, was found ALREADY
+      shipped from an earlier wave — stale note, no duplication); (c) rent DISSOLUTION vs
+      capture → research/tech-rent-dissolution-vs-capture.md (DMA fines/interop record vs
+      US antitrust remedies); (d) is-it-rent diagnosis update → Furman/Korinek-Stiglitz/
+      De Loecker all verified ALREADY Heavy-scanned (no-ops), but two genuinely new papers
+      mined instead: research/korinek-vipra-ai-concentration.md and research/
+      korinek-lockwood-ai-public-finance.md. THEN the gated synthesis (T1) landed on
+      concepts/taxing-tech-rents.md: DST grade reconciled with Korinek-Lockwood's
+      consumption-tax-like classification; new §6 AI-specific taxes (compute/token/robot)
+      graded D-provisional; new §7 public equity stakes (SWF/windfall-clause/UBC) INCLUDED
+      at B-minus with the fair-value-acquisition trap stated plainly. 863 pages at lane
+      close, lint 0 errors.
 - [x] [FIND] tier:T2 status:done (2026-07-18) — WS-GEOISM financial-rents & seigniorage
       domain sweep. Inventory found the domain already substantially built (Hudson,
       Bezemer×2, Philippon×2, Borio, Greenwood-Scharfstein, Bazot, Lapavitsas all had
@@ -261,16 +287,40 @@ provenance — do not re-plan.]**
       correctly tiered `supplementary`). Page exists, wired into concepts/citizens-dividend.md
       (body sentence + list item + numbered source), and has registry.csv row 516. No further
       action needed.
-- [ ] [EXPAND] tier:T3 status:recurring — mechanical debt, batched: annotate unannotated
+- [~] [EXPAND] tier:T3 status:recurring — mechanical debt, batched: annotate unannotated
       Sources (~25/wave, oldest pages first); thin-article burn-down (3–5/wave by inbound
-      links); trim/attribute over-cap quotes; UPDATE places/british-columbia.md stale SVT
-      rates (0.5%/2% → 1%/3% for 2026; vancouver.md has fresh cites).
-- [ ] [EXPAND] tier:T2 status:todo — cohesion items from the 2026-07-04 audit:
-      BC/Vancouver scope split; terminology normalization pass (citizen's dividend /
-      18-year cycle / single-tax variants).
-- [ ] [EXPAND] tier:T3 status:todo — stub-queue leftovers at next [PRIORITIZE]:
-      concepts/sector-model, margin-of-production, progress-and-poverty-institute;
-      candidate events/orgs from the lloyd-george/BC backfills (accept bar applies).
+      links); trim/attribute over-cap quotes. **CORRECTION (2026-07-18): the "UPDATE
+      places/british-columbia.md stale SVT rates" sub-item was wrong** —
+      places/british-columbia.md already carries the current 2026 1%/3% SVT rates with a
+      sound gov.bc.ca cite (independently re-verified by fresh fetch 2026-07-18, wave
+      "Gloudemans LVT feasibility papers + BC SVT rate check"); it was vancouver.md, not
+      british-columbia.md, that this note had backwards — vancouver.md never carried SVT
+      rate figures itself, it correctly defers to the BC page. No edit needed on either
+      page. **Batch shipped 2026-07-18** (wave "T3 mechanical debt batch"): 23 Source
+      annotations across 15 most-neglected pages (1 honestly left unannotated, role not
+      determinable from page text); 4 thin articles expanded from material already in the
+      repo — henry-george-theorem (358→749 words), rent-seeking (346→802),
+      split-rate-taxation (322→632), 1909-peoples-budget (355→673). ~400 pages from later
+      cohorts still remain for future recurring batches; over-cap quote trimming untouched
+      this round.
+- [~] [EXPAND] tier:T2 status:in-progress — cohesion items from the 2026-07-04 audit:
+      BC/Vancouver scope split is DONE (executed in the 2026-07-11 addendum wave —
+      british-columbia.md carries province/SVT context, vancouver.md carries city
+      history/EHT, each cross-linking to the other for its complementary scope;
+      re-confirmed live 2026-07-18 while checking the SVT rates above). Remaining open:
+      terminology normalization pass (citizen's dividend / 18-year cycle / single-tax
+      variants) — not touched this session.
+- [x] [EXPAND] tier:T3 status:done (2026-07-18) — stub-queue leftovers, wave "stub-queue
+      leftovers (3 backfills created, 4 honest skips)": all three NAMED candidates
+      (concepts/sector-model, margin-of-production, progress-and-poverty-institute) turned
+      out to ALREADY EXIST fully written — stale backlog notes (progress-and-poverty-
+      institute was below the accept bar at 1 inbound link and got wired to 4). Real output
+      = the lloyd-george/BC backfill candidates, accept-bar-tested one by one: CREATED
+      people/henry-george-jr.md, organizations/bc-assessment-authority.md,
+      events/parliament-act-1911.md (5 inbound, consolidating near-duplicate passages).
+      SKIPPED with reasons: 1913-bc-crash (would duplicate vancouver/l-d-taylor coverage),
+      land-enquiry-committee (1 substantive mention, fails bar), 1925-green-book
+      (single-page mention only), balfour (all 5 mentions tangential).
 
 ---
 
