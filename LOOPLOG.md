@@ -1122,3 +1122,21 @@ read, no land/rent bearing. Scan-depth ledger on books/wealth-of-nations.md upda
 reasoning recorded inline). All quotes verified verbatim vs repo-hosted PG #3300
 text (T1 re-verified 4 spot checks incl. capital-N "Nature" readings). 855 pages,
 lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gloudemans-Almy "Fundamentals of Mass Appraisal" book page
+
+books/fundamentals-of-mass-appraisal.md created (856th page) — the assessment
+profession's standard textbook, de-referenced WITHOUT pretending to read it: built
+from IAAO Course 300 syllabus (structural proxy, flagged as a compression), the
+Standard on Mass Appraisal's dozen+ page-specific citations to the book (land
+valuation pp. 178-180, PRD/PRB pp. 385-392), and the authors' freely available
+papers. Genuine Georgist gain: Gloudemans's separate Lincoln Institute LVT work
+(2000 fellowship paper + 2002 WP02RG1, fetched and read in full) — CAMA models
+"can predict land values with acceptable reliability, even when some neighborhoods
+lack vacant land sales altogether." Page states plainly the textbook is NOT an LVT
+advocacy source and should only be cited for the narrow standardization point.
+Honest gaps recorded: no direct read, no reception literature found, 604-pp count
+unconfirmed for 2011 print. 5 inbound links wired (bar ≥2): iaao-standards,
+mass-appraisal-international-cases, almy-oecd, doucet-does-georgism-work (moved
+from "second-hand only" list), mass-appraisal-methods. Registry: FMA row →
+Scanned, 4 new source rows. 856 pages, lint 0 errors.

@@ -81,6 +81,7 @@ What they support collectively is narrower and more defensible: **the attempt to
 - [Bencure et al.: iLVM, Baybay City, Philippines](/wiki/bencure-ilvm-baybay-philippines/) — the wiki's other thin-data / non-Anglophone developing-country case, method-comparable to the Spain and Croatia entries here
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the wiki's strongest single-country accuracy evidence, for contrast
 - [Doucet, *Does Georgism Work?*](/wiki/doucet-does-georgism-work/) — the essay whose citation tail this page de-references
+- [Gloudemans & Almy, *Fundamentals of Mass Appraisal*](/wiki/fundamentals-of-mass-appraisal/) — the IAAO textbook backbone behind the standardized technique family (sales comparison, regression, allocation) these six countries' methods approximate
 
 ## Sources
 

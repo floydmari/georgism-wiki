@@ -85,6 +85,7 @@ The standard also explicitly names **land-only ratio studies** as routine practi
 - [International Association of Assessing Officers (IAAO)](/wiki/iaao/) — the professional standards body behind mass appraisal and ratio-study methodology
 - [IAAO Standards: Ratio Studies & Property Tax Policy](/wiki/iaao-standards/) — the COD/PRD/PRB definitions and quality bands read first-hand
 - [Mass Appraisal International Cases](/wiki/mass-appraisal-international-cases/) — the six-country breadth synthesis, honestly graded by access level
+- [Gloudemans & Almy, *Fundamentals of Mass Appraisal*](/wiki/fundamentals-of-mass-appraisal/) — the IAAO textbook backbone behind the technique inventory (comparable sales, allocation, abstraction, residual estimation) this page describes
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
 
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)

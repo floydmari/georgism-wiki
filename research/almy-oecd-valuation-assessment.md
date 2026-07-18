@@ -28,7 +28,7 @@ year: 2014
 
 ## Summary
 
-*Valuation and Assessment of Immovable Property* (OECD Working Papers on Fiscal Federalism No. 19, 2014; paper dated 7 October 2013) by **Richard Almy** — a veteran assessment consultant and co-author of the IAAO's *Fundamentals of Mass Appraisal* — is the broadest international survey of how property is actually valued for tax. It "draws on published information and data on property tax policy and administration in **172 countries**" and organises the field around three questions: "What is valued? How is it valued? And who values?"[1]
+*Valuation and Assessment of Immovable Property* (OECD Working Papers on Fiscal Federalism No. 19, 2014; paper dated 7 October 2013) by **Richard Almy** — a veteran assessment consultant and co-author of the IAAO's *[Fundamentals of Mass Appraisal](/wiki/fundamentals-of-mass-appraisal/)* — is the broadest international survey of how property is actually valued for tax. It "draws on published information and data on property tax policy and administration in **172 countries**" and organises the field around three questions: "What is valued? How is it valued? And who values?"[1]
 
 For the wiki it matters as the source behind two numbers Doucet cites second-hand — the per-property cost of a mass-appraisal system, and the typical accuracy of such systems — and as the authoritative statement that mass valuation is routine international practice, not a Georgist aspiration.
 
@@ -60,6 +60,7 @@ Almy supplies the *cost* leg of the assessability rebuttal. The [land-cannot-be-
 - [Kolbe et al., *Land Value Appraisal Using Statistical Methods*](/wiki/kolbe-berlin-land-value-appraisal/)
 - [Hefferan & Boyd, *Mass Appraisal Valuations in Australia*](/wiki/hefferan-boyd-mass-appraisal-australia/)
 - [IMF, *Taxing Immovable Property*](/wiki/imf-taxing-immovable-property/)
+- [Gloudemans & Almy, *Fundamentals of Mass Appraisal*](/wiki/fundamentals-of-mass-appraisal/) — Almy's co-authored IAAO textbook
 
 ## Sources
 
