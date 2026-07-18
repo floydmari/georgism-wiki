@@ -19,6 +19,11 @@ last_reviewed: 2026-07-12
 
 [Lars Doucet](/wiki/doucet-does-georgism-work/) draws on Saez–Zucman in *Does Georgism Work? Part 1* for the proposition that ownership of wealth — real estate and land included — is heavily **concentrated** among the wealthy, part of his case that land is a large and unequally held share of national assets. The paper is the most-cited modern primary source for that concentration claim.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/sz-fig1.png" alt="Line chart of the share of total US household wealth owned by the richest 0.1% of families, 1913 to 2012. The share falls from about 25% in the late 1920s to about 7% in 1978, then climbs steadily back to about 22% by 2012 — a U-shaped century." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure I from the paper: the top 0.1% share of total US household wealth, 1913–2012 — from ~25% in 1929 down to 7% in 1978 and back to ~22% by 2012, the U-curve at the heart of the modern wealth-concentration debate. <span class="figure-credit">Source: Saez &amp; Zucman (2016), Figure I, <em>Quarterly Journal of Economics</em> 131(2), author-posted PDF — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Key Findings
 
 Verified against the published QJE PDF:[1]

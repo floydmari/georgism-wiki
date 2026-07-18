@@ -1016,3 +1016,16 @@ reasoned out (9, recorded in REJECTED_PLACEMENTS). Exit NOT declared: famous-cha
 remain untriaged below the queue's structural top (barkai, saez-zucman, davis-heathcote,
 world-bank-changing-wealth, mian-sufi-verner, borio, case-shiller) — wave 11 triages them
 by name, then reassesses exit.
+
+**Wave 11 (2026-07-18h) — the famous-chart sweep:** four of the literature's iconic charts
+shipped: saez-zucman (QJE Fig I — the top-0.1% wealth U-curve, author-posted PDF) ·
+mian-sufi-verner (Fig 2 — household-debt rises predict weaker growth, firm debt doesn't) ·
+borio-financial-cycle (Graph 1 — financial vs business cycle; embedded under the entry's
+explicit steelman framing, dual-credited to Drehmann et al.) · case-shiller-2003 (Fig 2 —
+CA/MA price-income waves vs flat Wisconsin). Triage stamps: 10 tabular-genre rows no-chart,
+5 paywalled blocked, patel book-scan; two of my own stamps corrected after protocol review
+(CWON re-marked blocked pending a working fetch — it likely DOES hold charts; kuminoff-pope
+returned to todo). Queue 224 open; 19 source entries + 6 evidence pages figured. Exit not
+yet: famous-tail remains (piketty open figures, de-loecker markups, barr-smith-kulkarni
+Manhattan, bezemer-samarina-zhang, albouy-what-are-cities-worth) — one more named sweep,
+then the loop downshifts.

@@ -419,6 +419,97 @@ FIGURES = [
                 "map above it."),
         "caption": None,  # embedded as the second panel of a paired figure
     },
+    {
+        "key": "sz-fig1",
+        "entry": "research/saez-zucman-wealth-inequality.md",
+        "pdf_url": "https://eml.berkeley.edu/~saez/SaezZucman2016QJE.pdf",
+        "page": 3,
+        "clip": (68, 74, 382, 240),
+        "dpi": 300,
+        "alt": ("Line chart of the share of total US household wealth owned by "
+                "the richest 0.1% of families, 1913 to 2012. The share falls from "
+                "about 25% in the late 1920s to about 7% in 1978, then climbs "
+                "steadily back to about 22% by 2012 — a U-shaped century."),
+        "caption": ("Figure I from the paper: the top 0.1% share of total US "
+                    "household wealth, 1913–2012 — from ~25% in 1929 down to 7% "
+                    "in 1978 and back to ~22% by 2012, the U-curve at the heart "
+                    "of the modern wealth-concentration debate. "
+                    "<span class=\"figure-credit\">Source: Saez &amp; Zucman "
+                    "(2016), Figure I, <em>Quarterly Journal of Economics</em> "
+                    "131(2), author-posted PDF — reproduced for comment and "
+                    "review.</span>"),
+    },
+    {
+        "key": "msv-fig2",
+        "entry": "research/mian-sufi-verner-household-debt.md",
+        "pdf_url": "https://bfi.uchicago.edu/wp-content/uploads/MianSufiVerner_worlddebt-1.pdf",
+        "page": 55,
+        "clip": (140, 219, 560, 510),
+        "dpi": 220,
+        "alt": ("Line chart of estimated effects of a three-year rise in debt to "
+                "GDP on subsequent GDP growth over one to five year horizons, "
+                "with confidence bands. The household-debt coefficient falls "
+                "steadily to about minus 0.6 by year five; the non-financial "
+                "firm-debt coefficient stays near zero."),
+        "caption": ("Figure 2 from the working-paper version: the effect of a "
+                    "three-year rise in debt-to-GDP on subsequent growth. A "
+                    "household-debt expansion predicts progressively weaker "
+                    "growth over the next five years, while an equal firm-debt "
+                    "expansion predicts none — the household/mortgage credit "
+                    "channel that drives boom-bust cycles. "
+                    "<span class=\"figure-credit\">Source: Mian, Sufi &amp; "
+                    "Verner, <em>Household Debt and Business Cycles "
+                    "Worldwide</em> (working paper), Figure 2; published in "
+                    "<em>Quarterly Journal of Economics</em> 132(4), 2017 — "
+                    "reproduced for comment and review.</span>"),
+    },
+    {
+        "key": "borio-g1",
+        "entry": "research/borio-financial-cycle.md",
+        "pdf_url": "https://www.bis.org/publ/work395.pdf",
+        "page": 9,
+        "clip": (70, 459, 548, 684),
+        "dpi": 220,
+        "alt": ("Chart of the financial cycle versus the business cycle in the "
+                "United States, early 1970s to 2011. A blue financial-cycle line "
+                "(credit and property prices) traces long, large waves peaking "
+                "around 1989 and 2007; a red GDP-cycle line wiggles in much "
+                "shorter, smaller cycles around zero. Grey bands mark NBER "
+                "recessions; orange and green bars mark financial-cycle peaks "
+                "and troughs."),
+        "caption": ("Graph 1 from the paper: the financial cycle (credit plus "
+                    "property prices, blue) against the GDP business cycle (red) "
+                    "in the United States, 1970–2011. The financial cycle runs "
+                    "far longer and larger than the business cycle — and its "
+                    "peaks (1989, 2007) sit just before the deepest recessions. "
+                    "<span class=\"figure-credit\">Source: Borio, BIS Working "
+                    "Paper 395 (2012), Graph 1 — there reproduced from Drehmann, "
+                    "Borio &amp; Tsatsaronis (2012) — reproduced for comment and "
+                    "review.</span>"),
+    },
+    {
+        "key": "cs-fig2",
+        "entry": "research/case-shiller-2003-bubble.md",
+        "pdf_url": "https://www.brookings.edu/wp-content/uploads/2003/06/2003b_bpea_caseshiller.pdf",
+        "page": 12,
+        "clip": (55, 94, 375, 622),
+        "dpi": 220,
+        "alt": ("Three stacked line charts of the ratio of home prices to per "
+                "capita personal income, 1985 to 2002, for California, "
+                "Massachusetts and Wisconsin. California swings between 6 and "
+                "8.5, Massachusetts between 4.3 and 6.6, both in boom-bust "
+                "waves; Wisconsin stays flat around 2.2 throughout."),
+        "caption": ("Figure 2 from the paper: home prices relative to per-capita "
+                    "income, 1985–2002. California and Massachusetts swing "
+                    "through boom–bust waves while Wisconsin never leaves ~2.2 — "
+                    "glamour-market prices decouple from income while most of "
+                    "the country tracks fundamentals, the pattern Case and "
+                    "Shiller used to diagnose bubble psychology in 2003. "
+                    "<span class=\"figure-credit\">Source: Case &amp; Shiller "
+                    "(2003), Figure 2, <em>Brookings Papers on Economic "
+                    "Activity</em> 2003:2 — reproduced for comment and "
+                    "review.</span>"),
+    },
 ]
 
 
