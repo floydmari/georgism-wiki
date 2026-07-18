@@ -150,6 +150,14 @@ concessions), the publicity value of discovery to credit markets, management
 self-aggrandizement, and direct tax favors — a mechanism-level account of the
 exploration-timing distortions complementing the leasing-stage failures
 documented on [benefits/resource-rent-capture-works](/wiki/resource-rent-capture-works/).
+That single parenthetical — military protection of overseas concessions — is
+itself the subject of a much later, full-length Gaffney treatment: [Gaffney &
+Cobb (2018), Corporate Power and Expansive U.S. Military
+Policy](/wiki/gaffney-corporate-power-military/) argues that a large share of
+U.S. military spending functions as a subsidy defending private corporate
+resource tenure abroad, with the "capitalized value of the flag" as the asset
+being protected — extending this page's rent-leakage catalogue from tax and
+leasing design into geopolitics.
 
 ## Two Institutional Channels for Rent Leakage — Gaffney on Canadian Leasing and US Oil Tax Law
 

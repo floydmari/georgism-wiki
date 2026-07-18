@@ -138,6 +138,23 @@ the talent/effort-allocation mechanism (channel 1 above) applied to a
 concrete rent-seeking arena, not as independent evidence for the growth-cost
 magnitude.
 
+## A Second Historical Illustration: Military Power as Rent-Seeking Infrastructure
+
+[Gaffney & Cobb (2018)](/wiki/gaffney-corporate-power-military/) extend the
+talent/effort-allocation mechanism (channel 1 above) to a scale this page's
+mainstream anchors do not address: national military policy itself. Their
+central claim is that a large share of 20th- and 21st-century U.S. military
+spending functioned economically as a subsidy that manufactured and defended
+private corporate land and resource tenure abroad — from Cold War
+interventions (Iran 1953, Guatemala 1954, Chile 1970–73) to ordinary defense
+procurement (uncompeted Halliburton/KBR contracts, F-35 cost overruns spread
+deliberately across congressional districts) — rather than the "public good"
+of textbook treatment.[8] This is a D-claim (a historical-narrative,
+motive-attributing argument from two committed advocates, not an econometric
+test), cited here as a historical illustration extending the rent-seeking
+frame to geopolitics, not as independent evidence for this page's growth-cost
+magnitude estimate.
+
 ## Strength of Evidence
 
 **Moderate.** The theoretical mechanisms are well established and the historical
@@ -172,6 +189,7 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
 - [Gaffney (1966): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the intensity-quotient mechanism linking marginal-land leverage to political mobilization
+- [Gaffney & Cobb (2018): Corporate Power and Expansive U.S. Military Policy](/wiki/gaffney-corporate-power-military/) — military spending as a subsidy defending corporate resource tenure abroad
 
 ## Sources
 
@@ -208,3 +226,8 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
    summary](/wiki/gaffney-benefits-farm-programs/) — used for the "intensity quotient"
    mechanism linking marginal-land leverage to political mobilization (C-claim, Gaffney's
    own theoretical argument, historical illustration only).
+8. Mason Gaffney & John B. Cobb Jr. (2018), "Corporate Power and Expansive U.S.
+   Military Policy," unpublished draft — [wiki
+   summary](/wiki/gaffney-corporate-power-military/) — used for the military-spending
+   rent-seeking illustration (D-claim, historical-narrative argument, illustration
+   only).

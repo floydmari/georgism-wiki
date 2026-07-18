@@ -1649,3 +1649,25 @@ Krugman-rebuttal + Sinai-Gyourko data points), registry Medium→Heavy. Table-ce
 OCR misalignment in G45's source flagged; prose summaries relied on instead.
 Registry +1 new row +1 upgrade; triage narrative added; inventory regenerated.
 879 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney I/L/N/O/Z singles (3 pages; publications series ~complete)
+
+16 rows verdicted. MINED: (1) I2015 "Real-Assets Model / Will China Crash in
+2015?" (AJES 74(2), peer-reviewed) → research/gaffney-real-assets-model-china.md
+(880th): K·T=F turnover mechanism, four land-price→capital-structure channels,
+2008 case, the China prediction — upgrades what was a bare citation bullet on
+18-year-land-cycle. (2) L2018 Gaffney-Cobb "Corporate Power and Expansive U.S.
+Military Policy" (62pp unpublished draft, ~150 sources, largest single work in
+corpus) → research/gaffney-corporate-power-military.md (881st): military spending
+as rent-seeking — genuinely NEW wiki territory (cacique typology,
+Mossadegh/Arbenz/Allende/F-35 cases); unpublished-draft status + motive-framing
+conventions applied; rent-seeking-drags-growth gains a historical-illustration
+subsection NOT added to supported_by. (3) L2 (1988) precursor given a short
+priority page (882nd). DECLINED with reasons: 11 rows incl. I1 (68pp full-
+employment work — declined on two-pick budget NOT merit, flagged strong future
+candidate), I2012 (future 18-year-cycle addition), I6/I6A verbatim dupes, O12
+incomplete draft, Z1 OCR-garbled tables. K9 checkbox reconciled (mined earlier,
+never flipped). 3 more ampersand 404 stubs recovered + CACHE REPAIRED for future
+sessions. Registry: I2015 Light→Heavy + 2 new rows. Remaining unchecked tail: 95
+rows — 73 workpapers + essays dir + 5 stray publications (C2, E4, E5, E7, E9).
+Inventory regenerated. 882 pages, lint 0 errors.
