@@ -26,6 +26,11 @@ becoming the machinery through which **land rent is capitalised and collected**.
 connects the [FIRE sector](/wiki/fire-sector/) to the land question with unusually
 strong long-run evidence.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/great-mortgaging-fig2.png" alt="Line chart of the average ratio of bank lending to GDP across 17 advanced economies, 1870 to 2011, with separate lines for mortgage and non-mortgage lending. Non-mortgage lending rises from roughly 0.17 to 0.49 of GDP; mortgage lending rises from under 0.1 to about 0.7, overtaking non-mortgage lending in the 1990s and surging steeply after 1980." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The claim in one chart: average bank mortgage and non-mortgage lending to GDP for 17 advanced economies, 1870–2011. Non-mortgage lending roughly triples over 140 years while mortgage lending rises about eightfold, overtaking it in the 1990s — modern financial growth is overwhelmingly lending against real estate. <span class="figure-credit">Source: Jordà, Schularick &amp; Taylor (2014), Figure 2, NBER Working Paper 20501 — reproduced for comment and review. See the wiki's entry on <a href="/wiki/great-mortgaging/">the paper</a>.</span></figcaption>
+</figure>
+
 ## The Evidence
 
 - **Banks became real-estate funds.** Jordà, Schularick & Taylor's

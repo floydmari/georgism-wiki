@@ -7,7 +7,7 @@ category: books
 excerpt: Fred Harrison's 1983 book presents the 18-year land cycle as the driver of
   the business cycle, extending Homer Hoyt's Chicago research with UK, Japanese, and
   Australian evidence. Harrison predicted the 1992 recession nine years ahead.
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-18
 source_url: https://shepheardwalwyn.com/product/the-power-in-the-land/
 stub: false
 supports_outcomes:
@@ -100,7 +100,7 @@ Harrison acknowledges that pre-1850 data is "piece-meal" and that no formal econ
 
 ### The Hoyt Anomaly
 
-Hoyt himself predicted in 1933 that his cycle was "only of interest to historians" because government economic management would prevent future cycles — a prediction that proved incorrect, as the 1973–74 cycle demonstrated (Ch. 8). Harrison argues this actually strengthens the case that the cycle is structural, not policy-dependent.
+Hoyt himself predicted in 1933 that his cycle's sequence of events might in the future be "of interest only to historians" because government economic management would prevent future cycles — a prediction that proved incorrect, as the 1973–74 cycle demonstrated (Ch. 8). Harrison argues this actually strengthens the case that the cycle is structural, not policy-dependent.
 
 ### Revenue-Sufficiency Contested
 

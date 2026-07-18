@@ -156,6 +156,7 @@ honest reading keeps both edges.
 ## See Also
 
 
+- [Korinek & Vipra: Concentrating Intelligence](/wiki/korinek-vipra-concentrating-intelligence/) — Korinek's foundation-model-era sequel (2024): the market-structure analysis of whether compute, data, and talent scale economies actually produce the concentration this paper's theory presumes
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Platform and Data Rents](/wiki/data-rents/) — the contested frontier this paper theorizes
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried on the same firms

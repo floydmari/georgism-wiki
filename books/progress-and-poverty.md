@@ -35,14 +35,7 @@ George's argument proceeds in three major stages:
 
 3. **The remedy.** George proposes a single tax on land values — sufficient to replace all other taxes — which would capture the unearned increment for the community while leaving wages and capital untaxed.
 
-Book X, the closing book, adds a fourth, philosophical argument beyond these three: a
-theory of civilizational rise and decline (association and equality drive progress;
-inequality arrests and reverses it), applied as a direct warning that American democracy
-itself risks decay into "government of the worst" if land monopoly persists — political
-corruption, a corrupted franchise among the poor, and city political machines George
-likens to the Prætorian Guards of declining Rome. See
-[Georgism § The Civilizational Argument (Book X)](/wiki/georgism/) for the full argument
-and verbatim quotations, including Ch. IV's "How Modern Civilization May Decline."
+The walk-through above covers Books I–VI; George does not stop at the remedy. Books VII–X go on to argue the remedy's justice (the case against private property in land and against compensating owners), its practical application (tried against the canons of taxation), and its effects on production, distribution, and social life. Book X, the closing book, then adds a fourth, philosophical argument beyond the original three: a theory of civilizational rise and decline (association and equality drive progress; inequality arrests and reverses it), applied as a direct warning that American democracy itself risks decay into "government of the worst" if land monopoly persists — political corruption, a corrupted franchise among the poor, and city political machines George likens to the Prætorian Guards of declining Rome. See [Georgism § The Civilizational Argument (Book X)](/wiki/georgism/) for the full argument and verbatim quotations, including Ch. IV's "How Modern Civilization May Decline."
 
 ## How the Book Was Written
 

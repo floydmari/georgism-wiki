@@ -18,6 +18,7 @@ tags:
 - economic-rent
 tier: Core
 title: 'Philippon (2015): Has the US Finance Industry Become Less Efficient?'
+last_reviewed: 2026-07-17
 year: 2015
 ---
 

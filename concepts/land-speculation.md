@@ -63,7 +63,7 @@ George gives concrete cases: a settler heading west "must, like the man who swam
 
 ### George: Speculation as the Primary Cause of Depressions
 
-The thesis that land speculation is a *cause of industrial depressions* — not merely a symptom of them — originates with [Henry George](/wiki/henry-george/). In [*Progress and Poverty*](/wiki/progress-and-poverty/) (1879), Book V, Ch. I ("The Primary Cause of Recurring Paroxysms of Industrial Depressions"), George argued that because land is fixed in supply, its price can be bid up speculatively past the point where labour and capital can profitably engage in production; the resulting squeeze on the [margin of production](/wiki/margin-of-production/) periodically checks output and triggers a slump:
+The thesis that land speculation is a *cause of industrial depressions* — not merely a symptom of them — originates with [Henry George](/wiki/henry-george/). In [*Progress and Poverty*](/wiki/progress-and-poverty/) (1879), Book V, Ch. I ("The Primary Cause of Recurring Paroxysms of Industrial Depression"), George argued that because land is fixed in supply, its price can be bid up speculatively past the point where labour and capital can profitably engage in production; the resulting squeeze on the [margin of production](/wiki/margin-of-production/) periodically checks output and triggers a slump:
 
 > *A consideration of the manner in which the speculative advance in land values cuts down the earnings of labor and capital and checks production leads, I think, irresistibly to the conclusion that this is the main cause of those periodical industrial depressions to which every civilized country, and all civilized countries together, seem increasingly liable.*
 

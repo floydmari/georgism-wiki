@@ -37,6 +37,11 @@ The paper asks a question of direct relevance to Georgist proposals to fund a ci
 
 Jones and Marinescu study the **[Alaska Permanent Fund](/wiki/alaska-permanent-fund/) Dividend (PFD)**, which has paid every Alaska resident an annual, universal, unconditional cash dividend since 1982, funded from the state's oil-resource rents. Using Current Population Survey (CPS) data on Alaska and other US states, they construct a **synthetic control** for Alaska — a weighted combination of other states, chosen to reproduce Alaska's pre-1982 labor-market trends (employment rate, demographic and industry composition) — and then compare Alaska's actual post-1982 labor-market trajectory to what the synthetic control predicts it would have been absent the dividend.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/jones-marinescu-fig2.png" alt="Two-panel synthetic-control chart. Panel (a): Alaska's employment rate 1977–2014 tracks its synthetic control closely both before and after the dividend begins (dashed vertical line at 1981), with no visible post-dividend gap. Panel (b): the Alaska-minus-synthetic difference stays near zero and well inside the band of placebo states over more than 30 years of event time." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 2 from the working-paper version: Alaska's employment rate versus its synthetic control, 1977–2014. After the Permanent Fund Dividend begins (dashed line), actual Alaska tracks the no-dividend counterfactual with no detectable employment decline, and panel (b) shows the difference sits well inside the placebo band. (The paper's other headline — a ~1.8&nbsp;pp rise in part-time work — is a real response; see text.) <span class="figure-credit">Source: Jones &amp; Marinescu, NBER Working Paper 24312, Figure 2; published in <em>American Economic Journal: Economic Policy</em> 14(2), 2022 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 Their headline empirical findings:
 
 - **No detectable reduction in the aggregate employment rate.** The synthetic-control estimate finds no statistically significant effect of the PFD on the overall share of Alaskans employed, contrary to the standard prediction that a permanent unconditional income would reduce aggregate work.

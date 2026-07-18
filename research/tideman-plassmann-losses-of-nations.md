@@ -7,8 +7,8 @@ excerpt: Tideman and Plassmann's chapter in The Losses of Nations (Harrison ed.,
   quantifying the deadweight losses of conventional taxation across the G7 and the
   output gains from shifting to rent-based revenue — the movement's headline excess-burden
   calculation.
-last_reviewed: 2026-07-06
-source_url: https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf
+last_reviewed: 2026-07-17
+source_url: https://books.google.com/books/about/The_losses_of_nations.html?id=bertAAAAMAAJ
 stub: false
 subcategory: wiki-research-lvt
 supports_outcomes:
@@ -67,21 +67,31 @@ Harrison's *Boom Bust* Ch. 14 §2 states. Pending recovery of the primary text, 
 GDP *level* documented above rather than treated as a verified aggregate G7 foregone-
 output loss.
 
-**Link-repair note (2026-07-17, T2 link-health pass) — chapter now precisely identified;
-still no free copy found.** The sharetherents mirror (dead since at least the prior
-verification pass) was hunted exhaustively this session: sharetherents.org's own current
-`/publications/` page lists *The Losses of Nations* (1998) linked only to an Amazon
-purchase page, confirming the free PDF was withdrawn rather than merely moved; no
-Wayback Machine capture of the sharetherents PDF URL exists at any timestamp; no copy
-was found at landresearchtrust.org, cooperative-individualism.org, SSRN, archive.org, or
-via the authors' institutional pages. One genuine gain: the chapter's own title and page
-range were pinned down independently (via Wikipedia's "Georgism" article references and
-corroborating web search, not the primary text) — Nicolaus Tideman & Florenz Plassmann,
-**"Taxed Out of Work and Wealth: The Costs of Taxing Labor and Capital,"** in Fred
-Harrison (ed.), *The Losses of Nations* (London: Othila Press, 1998), pp. 146–174. This
-is a citation-precision improvement only; it does not touch the "$7 trillion"
-verification question above, which still requires the primary chapter. Retryable status
-tracked in `sources/verification-backlog.md`.
+**Second corroboration pass (2026-07-17) — chapter now precisely identified; still no
+free copy found.** The chapter's exact identity is now pinned: **"Taxed Out of Work and
+Wealth: The Costs of Taxing Labour and Capital"**, Chapter 6 of the volume (also
+independently confirmed via Wikipedia's "Georgism" article references and corroborating
+web search as pp. 146–174), citation confirmed verbatim in the Labour Land Campaign's
+*Cut Out the Deadweight* briefing, fn. xiv.[2] The sharetherents mirror (dead since at
+least the prior verification pass) was hunted exhaustively this session:
+sharetherents.org's own current `/publications/` page lists *The Losses of Nations*
+(1998) linked only to an Amazon purchase page, confirming the free PDF was withdrawn
+rather than merely moved; no Wayback Machine capture of the sharetherents PDF URL exists
+at any timestamp; no copy was found at landresearchtrust.org,
+cooperative-individualism.org, SSRN, archive.org, or via the authors' institutional
+pages; the book remains undigitized (not on the Internet Archive; Google Books holds a
+metadata-only record). Two independent secondaries now give identical figures — 1993 US
+GDP of $5.495 trillion versus a $7.097 trillion counterfactual (a ~23% US deadweight
+loss), with European losses nearer 50% owing to VATs[3] — so the reading above (US
+counterfactual *level*, not a G7 aggregate loss) is corroborated rather than resting on
+one summary. The same briefing adds a per-country UK result: 1993 UK output at **55% of
+its counterfactual** under the rent-shift regime (per-capita net domestic product of
+£15,000 actual versus £27,000 counterfactual) — further evidence the chapter reports
+country-by-country results. One loose end: that UK figure implies an output gain of
+~80%, slightly below this page's earlier "over 90% in higher-tax European countries"
+paraphrase; which country (if any) reaches 90%+ can only be settled against the primary
+chapter, which still requires recovery. Retryable status tracked in
+`sources/verification-backlog.md`.
 
 ## See Also
 
@@ -92,10 +102,20 @@ tracked in `sources/verification-backlog.md`.
 
 ## Sources
 
-1. Nicolaus Tideman & Florenz Plassmann, "Taxed Out of Work and Wealth: The Costs of
-   Taxing Labor and Capital," in Fred Harrison (ed.), *The Losses of Nations* (London:
-   Othila Press, 1998), pp. 146–174.
-   [PDF (sharetherents mirror) — DEAD LINK, no working copy or archived snapshot found as of 2026-07-17](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
-   — used for thesis and venue (A-claims; full text unfetched from this
-   environment). Carried into the wiki via
+1. Nicolaus Tideman & Florenz Plassmann, "Taxed Out of Work and Wealth: The Costs
+   of Taxing Labour and Capital", Ch. 6 in Fred Harrison (ed.), *The Losses of
+   Nations* (London: Othila Press, 1998), pp. 146–174. Primary text not independently
+   obtained — the former [sharetherents mirror](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
+   returns 404, no working copy or archived snapshot was found as of 2026-07-17, and the
+   book is undigitized
+   ([Google Books record](https://books.google.com/books/about/The_losses_of_nations.html?id=bertAAAAMAAJ)).
+   — used for thesis and venue (A-claims; full text unfetched from this environment).
+   Carried into the wiki via
    [*Boom Bust*](/wiki/harrison-boom-bust/), Ch. 14 §2 (Heavy scan).
+2. Labour Land Campaign, [*Cut Out the Deadweight*](https://www.labourland.org/wp-content/uploads/2019/05/Cut-out-the-deadweight.pdf)
+   (briefing), pp. 7–8 and fn. xiv — confirms the chapter title and citation, the
+   aggregate-production-function method on 1993 data, and the UK per-country
+   result (output at 55% of counterfactual; per-capita NDP £15,000 vs £27,000).
+3. Matt Leichter, ["Actually, There's Quite a Bit of Research on Land Taxes"](https://lawschooltuitionbubble.wordpress.com/2013/10/18/actually-theres-quite-a-bit-of-research-on-land-taxes/)
+   (2013) — independently states the Ch. 6 figures: 1993 US GDP $5.495tn actual vs
+   $7.097tn counterfactual (~23% US deadweight loss; ~50% for VAT-heavy Europe).

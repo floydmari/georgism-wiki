@@ -3,7 +3,7 @@ title: "Unearned Increment"
 category: concepts
 tags: [unearned-increment, economic-rent, georgism, land-value-tax, john-stuart-mill]
 stub: false
-excerpt: "The rise in land value that comes not from the owner's effort but from the growth of the surrounding community and public investment. John Stuart Mill named it and proposed taxing the future increment — the phrase and the policy that bridge classical rent theory to Georgism."
+excerpt: "The rise in land value that comes not from the owner's effort but from the growth of the surrounding community and public investment. John Stuart Mill gave the concept its classical statement and proposed taxing the future increment — the idea and the policy that bridge classical rent theory to Georgism."
 sources: [mill-1848, george-1879]
 pd_quotes: true
 last_reviewed: 2026-07-18
@@ -13,7 +13,9 @@ last_reviewed: 2026-07-18
 
 The **unearned increment** is the increase in the value of land that arises not from the owner's effort, investment, or improvement, but from the growth of the surrounding community, public investment in infrastructure, and general economic development.
 
-The term was introduced into political economy by **John Stuart Mill**, who noted in his *Principles of Political Economy* (1848) that landowners receive a passive benefit from the labour and investment of others — and who proposed that future increases in land value beyond a certain threshold should be taxed rather than pocketed privately.
+The concept's classical statement in political economy is **John Stuart Mill**'s, in his *Principles of Political Economy* (1848): landlords, he wrote, "grow richer, as it were, in their sleep, without working, risking, or economizing," and it would be "no violation of the principles on which private property is grounded" for the state to appropriate that passive gain rather than "allowing it to become an unearned appendage to the riches of a particular class."[1] Mill's own proposal was deliberately prospective, exempting everything already capitalized into land's present value: "The first step should be a valuation of all the land in the country. The present value of all land should be exempt from the tax; but after an interval had elapsed, during which society had increased in population and capital, a rough estimate might be made of the spontaneous increase which had accrued to rent since the valuation was made."[1] He recorded, rather than dismissed, the strongest objection to his own plan: "It is urged against this plan that, if the Government take for itself the increase from rent, it should also make compensation for loss arising from declining rents, whenever there happens to be any readjustment of values in land."[1]
+
+(A note on terminology: the exact two-word phrase "unearned increment" does not appear in Mill's own prose in the *Principles* text held on this wiki — his own wording in this passage is "unearned appendage," and his 1871 Land Tenure Reform Association Programme, which he wrote and which the wiki also holds in full, uses "unearned increase." See [John Stuart Mill](/wiki/john-stuart-mill/) for the primary-source detail. The two-word phrase was in common use within a few decades — J. Laurence Laughlin's 1885 study-question edition of the *Principles* already treats "the unearned increment in the value of land" as settled terminology — and it is that later-standardized term the rest of this page and wiki use.)
 
 ## The Mechanism
 
@@ -25,7 +27,7 @@ Henry George made the unearned increment the centrepiece of his analysis in *Pro
 
 If the unearned increment is not earned by the landowner, the argument runs, it belongs to the community that created it. A land value tax is the mechanism by which this socially created value is returned to its social origin. The tax does not punish any productive activity; it merely prevents the private capture of a windfall that the community itself generated.
 
-Winston Churchill made a memorable version of this argument in a 1909 speech: *"Roads are made, streets are made, services are improved, electric light turns night into day, water is brought from reservoirs a hundred miles off in the mountains — and all the while the landlord sits still"* — every improvement, he continued, effected by others' labour and cost* — and, he continued, the land monopolist contributes to none of them while every one raises the value of his land*, and yet by every one of them the value of his land is enhanced."*
+Winston Churchill made the memorable version of this argument at Edinburgh on 17 July 1909: "Roads are made, streets are made, railway services are improved... water is brought from reservoirs a hundred miles off in the mountains — and all the while the landlord sits still." Every one of those improvements, he continued, is effected by the labour and cost of other people; the land monopolist contributes to none of them, "and yet by every one of them the value of his land is sensibly enhanced."[2]
 
 ## Gaffney: The Income Tax as a Captured Rent Tax
 
@@ -107,8 +109,19 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## Sources
 
-1. John Stuart Mill (1848), *Principles of Political Economy* — used for the term's origin and Mill's taxation proposal (A-claims). [Full text](https://www.econlib.org/library/Mill/mlP.html)
-2. Winston Churchill (1909), land-monopolist speech (the [People's Budget](/wiki/1909-peoples-budget/) debates) — used for the quoted passage (A-claim; quote ≤50 words).
+1. John Stuart Mill (1848), *Principles of Political Economy*, Book V, Ch. II, §5 (Ashley
+   numbering) — used for the "grow richer... in their sleep," "unearned appendage," valuation/
+   exemption-of-present-value, and compensation-objection quotations (A/D-claims). [Ashley
+   edition full text](https://www.econlib.org/library/Mill/mlP.html). **Complete text also
+   held in this repository:**
+   [`sources/publicdomain/principles-of-political-economy.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/principles-of-political-economy.md)
+   (Laughlin abridged ed., Project Gutenberg #30107; this §5 sits under Book V, Ch. I there).
+   All four quotations re-verified verbatim against the hosted text 2026-07-18, including the
+   comma after "as it were" that an earlier draft of this page's sister page,
+   people/john-stuart-mill.md, had dropped (fixed there the same day). See
+   [John Stuart Mill](/wiki/john-stuart-mill/) and [research/mill-principles-land.md](/wiki/mill-principles-land/)
+   for the fuller citation record.
+2. Winston Churchill, speech at the King's Theatre, Edinburgh, 17 July 1909 (the [People's Budget](/wiki/1909-peoples-budget/) campaign) — used for the quoted passages, corrected 2026-07-18 against this wiki's hosted full text: [The Mother of All Monopolies](/wiki/churchill-mother-of-monopolies-1909/) (A-claim; quotes ≤50 words each).
 3. Henry George (1879), *Progress and Poverty* — used for the Georgist radicalization of Mill's idea (A-claim). [wiki summary](/wiki/progress-and-poverty/)
 4. J. M. Neeson, *Commoners* (Cambridge University Press, 1993), Ch. 1 — used for the enclosure-as-unearned-increment account (D-claim). [Book page](/wiki/commoners-neeson/)
 5. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. II — used for the "collectively-earned increment" formulation (C-claim). [Book page](/wiki/garden-cities-of-to-morrow/)

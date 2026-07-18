@@ -28,6 +28,11 @@ The three strongest citations:
 
 **Honest limit, up front:** modern economics has studied every *component* of this claim, but almost never George's causal chain end-to-end; and George's literal 1879 version — that progress deepens absolute want — is contradicted by the long-run decline in measured material poverty. The defensible modern claim is about who captures growth and what shelter costs do to the margins, not about absolute immiseration.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/kss-fig27.png" alt="Scatter-line chart of mean real house prices and mean real imputed land prices across 14 advanced economies, 1870 to 2012, indexed to 1990=100, with the two world wars shaded. Both series are roughly flat until about 1950, then rise together; after the 1990s land prices accelerate past house prices, reaching an index of about 250 versus 155 by the late 2000s." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The first link of the chain, drawn: mean real house prices and mean imputed real land prices, 14 advanced economies, 1870–2012 (index 1990&nbsp;=&nbsp;100). The housing costs squeezing renters are, in the long run, rising <em>land</em> prices — about 80% of the postwar boom. (The poverty link is evidenced separately; see below.) <span class="figure-credit">Source: Knoll, Schularick &amp; Steger, <em>No Price Like Home</em> (CESifo Working Paper 5006, 2015 version), Figure 27; published in <em>American Economic Review</em> 107(2), 2017 — reproduced for comment and review. See the wiki's entry on <a href="/wiki/knoll-schularick-steger-house-prices/">the paper</a>.</span></figcaption>
+</figure>
+
 ## The Evidence
 
 ### Housing costs are now central to who counts as poor

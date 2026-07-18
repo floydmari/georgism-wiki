@@ -18,6 +18,11 @@ last_reviewed: 2026-07-13
 
 The total economic rent of land and natural resources is large enough to fund a substantial portion of government spending, potentially replacing many taxes on labour and capital.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/larson-fig3.png" alt="Line chart of the aggregate value of land in the lower 48 US states, 2000 to 2009, in current trillions of dollars. The line rises from about 20.8 trillion in 2000 to a peak of 26.2 trillion in 2006, then falls to 23.0 trillion by 2009." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The scale of the base: the US government's own estimate of the aggregate value of land in the contiguous United States, 2000–2009 — $23&nbsp;trillion in 2009, having peaked at $26.2&nbsp;trillion in 2006. <span class="figure-credit">Source: Larson (2015), Figure 3, BEA Working Paper WP2015-3. US federal government work — public domain. See the wiki's entry on <a href="/wiki/larson-us-land-value/">the paper</a>.</span></figcaption>
+</figure>
+
 ## The Evidence and the Debate
 
 | View | Argument | Source |

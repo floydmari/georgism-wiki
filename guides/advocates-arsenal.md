@@ -9,7 +9,7 @@ last_reviewed: 2026-07-12
 
 ## Read this before the debate
 
-This is the fast path for the advocate who needs ammunition tonight. (Under attack and need the comeback *now*? Jump to the [Rebuttal Cards](/wiki/rebuttal-cards/).) It is organized by
+This is the fast path for the advocate who needs ammunition tonight. (Under attack and need the comeback *now*? Jump to the [Rebuttal Cards](/wiki/rebuttal-cards/) · [Argument Chains](/wiki/argument-chains/).) It is organized by
 **what you are arguing for**, and for every point it gives you three things: the strongest
 graded claim, the citation you can name out loud, and — most important — **the one caveat
 an honest opponent will raise**, so you concede it first and keep your credibility. The

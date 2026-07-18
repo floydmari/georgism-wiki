@@ -45,6 +45,11 @@ substantial critical literature contesting its measurement choices, it functions
 both as evidence for a modern, non-land generalization of the rent problem and as a case study in
 how contested the boundary between "rent" and "legitimate return" can be outside the land case.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/dlu-fig1.png" alt="Line chart of the sales-weighted average markup of US firms, 1960 to 2014. The line drifts between 1.16 and 1.32 until about 1980, dips to 1.18, then climbs steadily to 1.67 by 2014." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 1 from the working-paper version: the sales-weighted average markup of US firms, 1960–2014. Flat around 1.2–1.3 for two decades, then climbing from 1980 to 1.67 — the average firm charged 67% over marginal cost in 2014 versus 18% in 1980, the rise-of-market-power finding this entry documents. <span class="figure-credit">Source: De Loecker, Eeckhout &amp; Unger, NBER Working Paper 23687 (2017), Figure 1; published in <em>Quarterly Journal of Economics</em> 135(2), 2020 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## The Core Argument and Findings
 
 **Data and method.** The authors compute firm-level markups — the ratio of price to marginal

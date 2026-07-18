@@ -162,6 +162,13 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
   [Fairhope Single Tax Corporation](/wiki/fairhope-single-tax-corporation/)) and Arden,
   Delaware: working miniatures that collect ground rent in lieu of internal taxes.
   Proof of administrative concept at village scale; silent on national scale.
+- **The movement at its peak, in George's own words** — signing off the final issue
+  of *The Standard* (31 August 1892), George wrote that "there are now scattered over
+  the United States hundreds of local journals devoted to the same cause" and that
+  "nearly a million copies of a single tax book have been distributed under the
+  sanction of one of the great political parties" — the founder's own contemporaneous
+  measure of reach, preserved in his son's biography (pp. 574–575) and quoted here as
+  George's claim rather than an independently audited circulation figure.[11]
 - **Sun Yat-sen's programme** — "equalization of land rights" carried the idea into
   the constitutional order that still governs [Taiwan](/wiki/taiwan/), the largest
   polity whose land-tax system descends directly from Georgist doctrine.
@@ -265,3 +272,4 @@ David Redfearn's *Tolstoy: Principles for a New World Order* (1992) documents To
 8. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952) — used for the single-tax movement in American reform, the 1886 campaign, and single-tax vs. Populist tensions (A/D-claims). [Book page](/wiki/rendezvous-with-destiny/)
 9. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for the movement's transatlantic spread and institutional emergence (A-claims). [Book page](/wiki/barker-henry-george-biography/)
 10. David Redfearn, *Tolstoy: Principles for a New World Order* (London: Shepheard-Walwyn, 1992) — used for Tolstoy's role as international single-tax advocate (D-claims). [Book page](/wiki/tolstoy-principles-redfearn/)
+11. Henry George Jr., *The Life of Henry George* (1900), pp. 574–575 — used for George's own signed statement in the final issue of *The Standard* (31 August 1892) on the movement's reach; verified against the archive.org scan (`lifeofhenrygeorg00geor`) this session, and framed as George's contemporaneous claim, not an audited figure (A/D-claims). [Full transcription on this wiki](/wiki/life-of-henry-george/)

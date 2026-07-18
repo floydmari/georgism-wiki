@@ -25,9 +25,9 @@ The five pages that carry the most weight:
 
 ## By what you need
 
-- **To make the case** → the [Advocate's Arsenal](/wiki/advocates-arsenal/) for quotable, graded ammunition, and the [Evidence Dashboard](/wiki/evidence-dashboard/) for the state of the proof.
-- **To design policy** → the [Policymaker's Brief](/wiki/policymakers-brief/) for implementation records, design details, and defensible caveats.
-- **To face the counterarguments** → the [Objections Answered portal](/wiki/portal-objections-answered/), where each objection gets its strongest version and an evidenced response.
+- **To make the case** → the advocate's toolkit: the [Advocate's Arsenal](/wiki/advocates-arsenal/) (graded ammunition by argument), the [Argument Chains](/wiki/argument-chains/) (move-by-move debate scripts), and [Quotable Quotes](/wiki/quotable-quotes/) (verified lines to drop) — with the [Evidence Dashboard](/wiki/evidence-dashboard/) for the state of the proof.
+- **To design policy** → the [Policymaker's Brief](/wiki/policymakers-brief/) for design details, and the [Implementation Scorecard](/wiki/implementation-scorecard/) for the real-world record at a glance with its caveats.
+- **To face the counterarguments** → the [Rebuttal Cards](/wiki/rebuttal-cards/) for the one-breath comeback to any objection, and the [Objections Answered portal](/wiki/portal-objections-answered/), where each gets its strongest version and an evidenced response.
 
 ## By topic
 
@@ -44,7 +44,7 @@ Eight portals, each a curated way into a cluster of the wiki:
 
 ## How we verify
 
-Before you quote this wiki, read [How We Verify](/wiki/how-we-verify/) — the claim grades, the verbatim quote-checking, the honest-stop rule when no source can be found, and how to report an error. It is the reason the pages above can be trusted or, where they cannot yet, say so.
+Before you quote this wiki, read [How We Verify](/wiki/how-we-verify/) · [How This Wiki Was Built](/wiki/building-the-wiki/) — the claim grades, the verbatim quote-checking, the honest-stop rule when no source can be found, and how to report an error. It is the reason the pages above can be trusted or, where they cannot yet, say so.
 
 ## See Also
 

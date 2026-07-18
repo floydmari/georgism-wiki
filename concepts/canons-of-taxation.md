@@ -15,7 +15,7 @@ The **canons (or maxims) of taxation** are the classic criteria by which a tax i
 In [*The Wealth of Nations*](/wiki/wealth-of-nations/), Book V, Ch. II, Part II, Smith lays down what later writers call the four canons (F-claim; see the [book page](/wiki/wealth-of-nations/) for the verbatim quotations):
 
 1. **Equality.** Contribute "in proportion to the revenue which they respectively enjoy under the protection of the state."
-2. **Certainty.** The tax "ought to be certain, and not arbitrary" — clear as to time, manner, and quantity.
+2. **Certainty.** The tax "ought to be certain and not arbitrary" — clear as to time, manner, and quantity.
 3. **Convenience.** Levied "in the manner… most likely to be convenient for the contributor to pay." Smith's own example of a well-timed tax is one on the rent of land or houses.
 4. **Economy.** Take "as little as possible, over and above what it brings into the public treasury."
 

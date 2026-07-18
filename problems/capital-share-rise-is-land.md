@@ -19,6 +19,11 @@ last_reviewed: 2026-07-18
 
 The rising share of national income flowing to "capital" in developed economies — popularised by Thomas Piketty's *Capital in the Twenty-First Century* — is, when decomposed, **almost entirely a rise in the housing sector**, and therefore largely a rise in **land rent**. Reproducible capital (machines, equipment, structures) shows little long-run increase in its income share; land does.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/rognlie-fig3.png" alt="Line chart of the net capital share of private domestic value added for G7 countries, 1948 to 2010, split into housing and non-housing sectors. The housing series climbs steadily from about 3% to about 10%, while the non-housing series ends lower than it began, drifting from roughly 24% down to 17–20%." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The claim in one chart: the net capital share of private domestic value added for G7 countries, 1948–2010, split into housing (h) and non-housing (nh) sectors. Housing's share roughly triples while the non-housing share ends <em>below</em> where it began. <span class="figure-credit">Source: Rognlie (2015), Figure 3, <em>Brookings Papers on Economic Activity</em> — reproduced for comment and review. See the wiki's entry on <a href="/wiki/rognlie-capital-share/">the paper</a>.</span></figcaption>
+</figure>
+
 ## The Evidence in Numbers
 
 | Study | Data | Finding |

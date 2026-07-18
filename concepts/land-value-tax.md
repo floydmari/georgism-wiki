@@ -5,7 +5,7 @@ tags: [lvt, taxation, georgism, fiscal-policy, land]
 stub: false
 excerpt: "A levy on the unimproved value of land, excluding buildings and improvements — held by economists across the ideological spectrum to be the least distortionary of all taxes, because land's supply is fixed and cannot shrink in response to the tax."
 sources: [george-1879, mirrlees-2011, tideman-1999]
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 pd_quotes: true
 ---
 
@@ -65,7 +65,7 @@ Howard's terminology is instructive: he decomposed total rent into "landlord's r
 
 The key anti-speculation mechanism is explicit:
 
-> "Under this system, while it would be impossible for the tenant to secure to himself any undue share of that natural increment of land-value which would be brought about by the general growth in well-being of the town, he would yet have, as tenants in possession all probably should have, a preference over any new-comer." (Howard 1902, Ch. II, The Agricultural Estate)
+> "Under this system, while it would be impossible for the tenant to secure to himself any undue share of that natural increment of land-value which would be brought about by the general growth in well-being of the town, he would yet have, as all tenants in possession probably should have, a preference over any new-comer." (Howard 1902, Ch. II, The Agricultural Estate)
 
 This is a 100% land-rent capture mechanism — the full Georgist "single tax" applied at the municipal scale — demonstrating that the practical implementation challenges of LVT (assessment, transition, governance) were addressed in concrete detail by Howard over a century ago. (D-claim; interpretive)
 

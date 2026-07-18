@@ -86,6 +86,7 @@ Goldman's book is a work of history, not advocacy, but it documents the policy p
 
 ## See Also
 
+- [Eric Goldman](/wiki/eric-goldman/) — the book's author
 - [Henry George](/wiki/henry-george/)
 - [Single Tax](/wiki/single-tax/)
 - [Single-Tax Narrative](/wiki/single-tax-narrative/)

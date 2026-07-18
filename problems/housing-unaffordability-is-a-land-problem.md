@@ -26,6 +26,11 @@ The three strongest anchors, in order of evidential weight:
 
 **Honest limits, up front:** this is a claim about *expensive* markets, not all markets — Glaeser and Gyourko's own data show roughly three-quarters of US housing units in 2013 were priced at or below production cost; and in the US the proximate reason land is scarce is substantially **regulatory** (zoning), a policy-made scarcity that a land tax alone does not repeal.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/kss-fig27.png" alt="Scatter-line chart of mean real house prices and mean real imputed land prices across 14 advanced economies, 1870 to 2012, indexed to 1990=100, with the two world wars shaded. Both series are roughly flat until about 1950, then rise together; after the 1990s land prices accelerate past house prices, reaching an index of about 250 versus 155 by the late 2000s." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The strongest anchor, drawn: mean real house prices and mean imputed real land prices, 14 advanced economies, 1870–2012 (index 1990&nbsp;=&nbsp;100; world wars shaded). Flat for eight decades, then land prices surge after 1950 and outpace house prices — the decomposition behind the finding that rising land prices explain about 80% of the postwar house-price boom. <span class="figure-credit">Source: Knoll, Schularick &amp; Steger, <em>No Price Like Home</em> (CESifo Working Paper 5006, 2015 version), Figure 27; published in <em>American Economic Review</em> 107(2), 2017 — reproduced for comment and review. See the wiki's entry on <a href="/wiki/knoll-schularick-steger-house-prices/">the paper</a>.</span></figcaption>
+</figure>
+
 ## What the Evidence Shows
 
 ### The 140-year decomposition: it was never the building

@@ -6,7 +6,7 @@ stub: false
 born: 1863
 died: 1945
 excerpt: "Liberal Chancellor of the Exchequer who introduced the 1909 People's Budget's land value duties, defended them at Limehouse, and pursued a 1913-14 Land Campaign — the high-water mark of land taxation in British politics, later reversed."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -66,7 +66,7 @@ energy? Was it his brains… his forethought? It was purely the combined efforts
 people engaged in the trade and commerce of the Port of London."[2] The speech deliberately
 framed land ownership as a conditional "stewardship" rather than an absolute right, warning
 landowners who neglected the duties of ownership that "the time will come to reconsider the
-conditions under which the land is held in this country."[2] Ten weeks later, at Newcastle upon Tyne on 9
+conditions under which land is held in this country."[2] Ten weeks later, at Newcastle upon Tyne on 9
 October 1909, he sharpened the attack on the hereditary peerage that would soon reject his
 budget with a much-quoted jibe reported in *The Times*: "a fully-equipped duke costs as much to
 keep up as two Dreadnoughts, and dukes are just as great a terror, and they last longer."[13]
@@ -212,7 +212,11 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
    to reconsider the conditions under which the land is held in this country" (A-claims).
    (Earlier drafts mis-rendered the risk contrast as "a doctor, a soldier, or a miner" and
    quoted a "who is going to maintain that the landlord has earned that increment" line not in
-   the speech; both corrected against the transcript.)
+   the speech; both corrected against the transcript.) T2 quote-verification sweep, 2026-07-18:
+   re-checked all quotations above against this wiki's [full Limehouse
+   text](/wiki/limehouse-speech-1909/); found and corrected one small drift — "the conditions
+   under which the land is held in this country" had an inserted "the" not present in the
+   original ("conditions under which land is held").
 3. Dictionary of Welsh Biography, "Lloyd George, David (1863–1945), the first Earl Lloyd-George
    of Dwyfor, statesman." [Text](https://biography.wales/article/s2-LLOY-DAV-1863.html) — used
    for birth, early life, the Llanfrothen case, the 1890 by-election, the 1908 succession to the

@@ -29,6 +29,11 @@ The **[Alaska Permanent Fund](/wiki/alaska-permanent-fund/)** has, since 1982, p
 
 [Guettabi's synthesis of the PFD-effects literature](/wiki/guettabi-pfd-effects-survey/) is the authoritative summary of four decades of evidence: substantial poverty reductions (largest for rural Alaska Natives) with no detectable aggregate labor-market withdrawal — the workability claim, confirmed across studies rather than in any single one. One honest timing nuance from the same literature: [Watson, Guettabi & Reimer](/wiki/watson-guettabi-reimer-cash-crime/) find substance-abuse incidents rise briefly right after disbursement while property crime falls, with small net annual effects — a lump-sum-timing cost that monthly payment designs would avoid.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/jones-marinescu-fig2.png" alt="Two-panel synthetic-control chart. Panel (a): Alaska's employment rate 1977–2014 tracks its synthetic control closely both before and after the dividend begins (dashed vertical line at 1981), with no visible post-dividend gap. Panel (b): the Alaska-minus-synthetic difference stays near zero and well inside the band of placebo states over more than 30 years of event time." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The workability claim, tested: Alaska's employment rate versus its synthetic control, 1977–2014. After the Permanent Fund Dividend begins (dashed line), actual Alaska tracks the no-dividend counterfactual with no detectable employment decline; panel (b) shows the difference sits well inside the placebo band. <span class="figure-credit">Source: Jones &amp; Marinescu, NBER Working Paper 24312, Figure 2; published in <em>American Economic Journal: Economic Policy</em> 14(2), 2022 — reproduced for comment and review. See the wiki's entry on <a href="/wiki/jones-marinescu-alaska-pfd/">the paper</a>.</span></figcaption>
+</figure>
+
 ## Significance
 
 Alaska is the closest large-scale, long-running proof of concept for the Georgist idea that the rent of [natural resources](/wiki/resource-rents/) belongs to all and can be returned directly to citizens.

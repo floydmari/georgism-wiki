@@ -1,5 +1,6 @@
 ---
 title: "Economic Rent"
+last_reviewed: 2026-07-17
 category: concepts
 tags: [economic-rent, land, ricardo, georgism, rent-theory]
 stub: false

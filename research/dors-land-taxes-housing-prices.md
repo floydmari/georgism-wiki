@@ -51,6 +51,11 @@ price, and there is no channel left through which tenants pay. This is the study
 culminating evidence on the pass-through question — the wiki now carries it
 directly rather than through the synthesis.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/dors-fig1.png" alt="Line chart of average prices for Danish single-family homes, 2000 to 2008, in thousands of DKK, split into areas where the land tax would later fall versus rise. The two lines track each other until the 2004 reform announcement (first vertical line), then diverge: by the 2007 implementation (second vertical line) homes in lower-land-tax areas sell for roughly 100,000 DKK more, about 1,600 versus 1,490 thousand DKK by 2008." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 1 from the paper: average single-family house prices in Danish municipalities where the 2007 amalgamation reform lowered versus raised the land tax (grundskyld). Identical trends before the 2004 announcement (first line); after it, prices rise less where the land tax rose — the visible quasi-experiment behind the paper's finding that land-tax changes are fully capitalized into prices. <span class="figure-credit">Source: Høj, Jørgensen &amp; Schou, <em>Land Taxes and Housing Prices</em>, De Økonomiske Råd Working Paper 2017:1, Figure 1 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Why It Carries Unusual Weight
 
 - **It is about a land tax, not a property tax.** Nearly all pass-through evidence

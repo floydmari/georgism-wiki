@@ -55,6 +55,7 @@ This wiki is version-controlled and public. If you find a misquote, a bad figure
 
 ## See Also
 
+- [How This Wiki Was Built](/wiki/building-the-wiki/) — the full method: the loops, the AI agents, the constitution, and where the human editor sits
 - [Start Here](/wiki/start-here/) — the entry point for advocates and policymakers
 - [Georgism](/wiki/georgism/) — the philosophy this wiki documents
 - [Economic Rent](/wiki/economic-rent/) — the concept at the center of the rent gradient

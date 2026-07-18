@@ -19,6 +19,12 @@ bears_on_objections: [land-cannot-be-assessed, lvt-austrian-critique]
 
 The paper's motivation is explicitly the cost objection to a value-based tax: "In light of the recent property tax reform discussion in Germany, it has been argued that a value-based tax therefore cannot be implemented at a reasonable cost."[1] Its answer is that "the methods are capable of producing land value estimates that match up well with expert based assessments" (abstract).[1]
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/kolbe-fig1.png" alt="Choropleth map of Berlin colored by official expert-assessed standard land values (Bodenrichtwerte) in euros per square meter, capped at 1500. Values peak in a deep-red city center and fade to pale yellow at the periphery, with parks and water shown in green and blue." loading="lazy" style="width:100%;height:auto;"/>
+  <img src="https://www.progress.org/content/images/2026/07/kolbe-fig5.png" alt="Map of Berlin colored by statistically estimated land values from kernel regression on transaction data, same color scale as the expert map: deep-red center, pale-yellow periphery, green parks and blue water — closely resembling the expert-assessed map above it." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The paper's finding as a pair of maps: Berlin's official expert-assessed land-value map (<em>Bodenrichtwerte</em>, top — the paper's Figure 1) and the map estimated purely statistically from transaction data (kernel regression, bottom — Figure 5), on the same colour scale. The statistical map reproduces the expert one — the mass-appraisal feasibility claim, drawn. <span class="figure-credit">Source: Kolbe, Schulz, Wersing &amp; Werwatz, FORLand Working Paper 07 (2019), Figures 1 and 5 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## What It Establishes
 
 The authors apply an escalating ladder of estimators to Berlin data and compare each to the BRW map:

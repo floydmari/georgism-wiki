@@ -3,7 +3,7 @@ authors:
 - Olivier Giovannoni
 category: research
 excerpt: "Levy Institute working paper builds a national US labor share back to 1929 and decomposes its apparent stability: the bottom 99% labor share actually fell 8-18 points since 1980, offset by rising top-1% incomes and a shift of compensation share from manufacturing into finance."
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 source_url: https://www.levyinstitute.org/pubs/wp_805.pdf
 stub: false
 subcategory: wiki-research-inequality
@@ -41,7 +41,7 @@ This paper does not address land directly and makes no claim about land's share 
 
 ## Nuances and Limits
 
-- **A working paper, not peer-reviewed.** Useful for methodological transparency and an unusually long (1929–2012) US series, but below peer-reviewed work in the wiki's source hierarchy. Checked this session: the paper circulated simultaneously as Levy Economics Institute Working Paper No. 805 and University of Texas Inequality Project (UTIP) Working Paper No. 66 (dated March 3, 2014, confirmed from the UTIP PDF's own title page) — the same "Levy/UTIP" dual release Giovannoni used for this series generally. Giovannoni's Google Scholar author profile lists no subsequent peer-reviewed journal publication of Part III (or Parts I/II) of this series; all three parts remain listed solely as Levy Institute/UTIP working papers. Absence of a Scholar listing is not proof no journal version exists anywhere, but no evidence of one was found.
+- **A working paper, not peer-reviewed — checked 2026-07-18, remains unpublished.** The paper circulated simultaneously as Levy Economics Institute Working Paper No. 805 and University of Texas Inequality Project (UTIP) Working Paper No. 66 (dated March 3, 2014, confirmed from the UTIP PDF's own title page) — the same "Levy/UTIP" dual release Giovannoni used for this series generally. Searched IDEAS/RePEc (which lists no "published in" field for wp_805), SSRN, Google Scholar (Giovannoni's own author profile), general web search, and the Levy Institute's own publications page; found no evidence Part III (or the companion Parts I/II, working papers 803-804) was ever published in a peer-reviewed journal. Giovannoni's subsequent Levy work (e.g., "Income Distribution Macroeconomics," Levy WP 807) also remains working-paper tier. Absence of a Scholar/RePEc/SSRN listing is not proof no journal version exists anywhere, but no evidence of one was found across any of these channels. This paper should continue to be cited and weighted as an unpublished working paper — useful for methodological transparency and an unusually long (1929–2012) US series, but below peer-reviewed work in the wiki's source hierarchy.
 - **US-focused.** International comparisons (Mexico, Canada, Japan, UK, France, Germany) show the US and Canada notably more stable than European labor shares 1960–2012, but the detailed top-income and sectoral decompositions are US-only; the paper does not explain why the US/Canadian series are unusually stable.
 - **Data end in 2012–13.** More recent trends are not covered and would need checking against newer data before citing this paper for present-day magnitudes.
 - **The "top 1% as rent" framing is illustrative, not a defended identification.** It is one alternative accounting lens, not an argument that top-1% income is rent in the technical sense; citing this paper to assert a specific share of the capital-share rise "is rent" would overstate what it shows.

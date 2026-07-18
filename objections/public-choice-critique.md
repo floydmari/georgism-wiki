@@ -3,9 +3,9 @@ title: "Objection: The Public-Choice Critique (Government Failure Won't Stop at 
 category: objections
 tags: [objections, public-choice, buchanan, tullock, leviathan, rent-seeking, land-value-tax]
 stub: false
-status: "Open and partly conceded — the symmetry argument is valid (LVT faces public-choice failure like any tax), but it is not disqualifying: LVT's base is unusually transparent and hard to game, so among real taxes it minimizes discretionary rent-seeking; the design burden it imposes is real"
-excerpt: "The Buchanan–Tullock objection: Georgists apply optimistic assumptions to government and pessimistic ones to markets. If rent-seeking is real, it does not stop at the assessor's door — assessment discretion is a surface for political favoritism, a revenue-maximizing 'Leviathan' would prize the land tax precisely because it is inescapable, and Tullock's transitional-gains trap explains why the reform is so hard to enact. The steelman and the georgist replies."
-last_reviewed: 2026-07-10
+status: "Open and partly conceded — the symmetry argument is valid (LVT faces public-choice failure like any tax), but it is not disqualifying: LVT's base is unusually transparent and hard to game, and Buchanan's own rent-seeking analysis endorses a flat distribution rule (the dividend design) as the fix for the spending side; the design burden both impose is real"
+excerpt: "The Buchanan–Tullock objection: Georgists apply optimistic assumptions to government and pessimistic ones to markets. If rent-seeking is real, it does not stop at the assessor's door — assessment discretion is a surface for political favoritism, a revenue-maximizing 'Leviathan' would prize the land tax precisely because it is inescapable, Tullock's transitional-gains trap explains why the reform is so hard to enact, and even a captured rent draws rent-seekers into the budget that holds it. The steelman and the georgist replies — including Buchanan's own nondifferential-distribution escape valve."
+last_reviewed: 2026-07-17
 ---
 
 ## The Objection
@@ -54,9 +54,25 @@ loss on today's owners — many of them ordinary mortgaged households — who wi
 to block it. Public choice thus predicts not a smooth Pigouvian reform but a durable
 political trap.
 
+**4. Even a captured rent stays contested — the fight moves into the budget.** Buchanan's
+own definitional essay on rent-seeking works through a municipal-license example that maps
+directly onto rent capture: when government *auctions* a scarce right rather than granting
+it by discretion — which is what a land value tax effectively does to land rent — the
+first level of rent-seeking is eliminated, but a second emerges as politics and the civil
+service become "differentially productive employments if rents are allowed to remain
+available to those persons fortunate enough to occupy the rent-access positions," and a
+third emerges over the distribution rule itself, unless the proceeds are "returned or
+passed through the budget in some nondifferential or random manner."[6] Niskanen's model
+of bureaucracy supplies the mechanism: nearly everything a bureau head values — salary,
+perquisites, reputation, power, patronage — rises with the bureau's budget, so a large
+new revenue stream predictably feeds budget expansion rather than efficient provision.[7]
+On this view the single tax does not end the scramble for rent; it relocates the scramble
+from the land market into the state's budget process.
+
 Taken together: rent-seeking does not stop at the assessor's door. It re-enters through
-valuation discretion, through a revenue-hungry state that loves an inescapable base, and
-through the entrenched interests any reform must dispossess.
+valuation discretion, through a revenue-hungry state that loves an inescapable base,
+through the entrenched interests any reform must dispossess — and, even after capture
+succeeds, through the contest over who staffs and who shares the fund.
 
 ## Why People Worry About This
 
@@ -71,14 +87,18 @@ aberrations. The transitional-gains logic is visible wherever a licensed rent �
 [taxi medallions](/wiki/tullock-transitional-gains-trap/), sugar quotas, grazing rights —
 has proven politically immortal despite obvious inefficiency. And the Leviathan concern
 is grounded in the plain fact that governments given a productive new revenue source have
-often expanded to absorb it rather than cut other taxes. A reader who distrusts
-concentrated power has every reason to ask why the state capturing the rent should be
-trusted more than the landlords who capture it now.
+often expanded to absorb it rather than cut other taxes. The wiki's own record supplies
+the sharpest documented case that the contest over rent does not end at enactment:
+[Vancouver](/wiki/vancouver/)'s early-twentieth-century site-value regime was dismantled
+between 1919 and 1984 by organized property-owner interests (England's 2018 *AJES* study,
+cited there, reads the rollback in explicitly Olsonian rent-seeking terms). A reader who
+distrusts concentrated power has every reason to ask why the state capturing the rent
+should be trusted more than the landlords who capture it now.
 
 ## The Response
 
 The public-choice critique is a serious *symmetry* argument, and the honest georgist
-response concedes its premise while contesting its conclusion. It divides into four
+response concedes its premise while contesting its conclusion. It divides into five
 moves.
 
 **1. The argument overreaches — it indicts all taxation, and LVT survives the comparison
@@ -132,6 +152,34 @@ funded by the rent itself under [ATCOR](/wiki/atcor/)), not for perpetuating the
 privilege. A reform can escape the trap by buying out the entrenched loss rather than
 denying it exists.
 
+**5. Buchanan's own analysis contains the answer to the spending-side worry: fix the
+distribution rule.** The budget-side rent-seeking of objection 4 arises, in Buchanan's
+own words, *unless* the proceeds are "returned or passed through the budget in some
+nondifferential or random manner" — under an equal or random allocation "all persons have
+equal expected values of rights, and they have little or no incentive to engage in rent
+seeking."[6] That condition is precisely the design of a flat per-capita
+[citizen's dividend](/wiki/citizens-dividend/): a fixed, non-discretionary, equal
+distribution rule leaves no differential shares to lobby over. Nor is it hypothetical —
+the [Alaska Permanent Fund](/wiki/alaska-permanent-fund/) dividend's formula-driven equal
+payment has run for four decades, and its observed politics match the mechanism both
+ways: differential-share lobbying over the fund is largely absent, while the real fight
+has been *defending the formula* against discretionary appropriation (the 2016
+half-dividend veto, upheld in *Wielechowski*) — evidence that a flat rule dampens
+rent-seeking and that a statutory rule alone does not fully bind a revenue-hungry
+legislature. The fiscal-illusion channel through which Leviathan grows is also
+structurally weak here: the mechanisms Buchanan catalogs from Puviani — excises hidden in
+prices, debt in place of taxes, inflation, misrepresented program durations — all work by
+concealing the price of government, and a land tax instead arrives as a visible annual
+bill on an asset the taxpayer can see. Buchanan himself reports survey evidence that
+property owners are *less* favorably inclined toward property taxation than renters —
+self-interest responding to a visible cost, the opposite of illusion.[8] A base too
+visible to hide, plus a distribution rule too flat to lobby, is — on public-choice logic
+itself — about the least Leviathan-friendly configuration a large revenue stream can
+have. (On one academic reading George anticipated this whole line: Borcherding, Dillon
+and Willett present him as a "precursor to public choice analysis" who warned of
+rent-seeking dangers himself — a characterization this wiki has verified only to their
+essay's abstract.[9])
+
 ## Limits and Caveats
 
 - **The symmetry premise is correct, and pages that assume a benevolent state are weaker
@@ -142,10 +190,13 @@ denying it exists.
   audits, and a free press are absent, the "auditable land value" response weakens sharply;
   the critique has most force exactly where state capacity is lowest — which is also where
   Georgist reform is hardest for many other reasons.
-- **The Leviathan concern about spending is genuine and unresolved by the tax base alone.**
-  Nothing in the efficiency of LVT guarantees the revenue is well spent; that requires the
-  separate constitutional machinery (rate limits, dividends, earmarking) the response
-  invokes but which is not itself part of the tax.
+- **The spending-side answer is a design condition, not a property of the tax.** The
+  dividend rule answers Buchanan on his own terms in theory, and Alaska shows it working
+  imperfectly in practice — but a statutory formula is not a constitutional guarantee
+  (Alaska's 2016 veto proved the rule raidable), and nothing forces a jurisdiction that
+  adopts an LVT to adopt a flat distribution rule with it. Where the rent flows into
+  general discretionary spending, the Level-2/Level-3 rent-seeking of objection 4 stands
+  unanswered.
 - **The transition trap is a real cost, not merely a framing problem.** Even a
   well-designed phase-in imposes losses on some current owners; "the status quo is also a
   trap" is true but does not make those losses painless.
@@ -159,17 +210,20 @@ denying it exists.
 The public-choice critique is the most intellectually serious "government failure"
 objection to Georgism, and its central premise — model the state as self-interested, not
 saintly — is **correct and should be conceded**. What it does not establish is that LVT is
-*disqualified*. Its three mechanisms are all real but all comparative: rent-seeking
+*disqualified*. Its four mechanisms are all real but all comparative: rent-seeking
 afflicts every tax, and among real taxes the land base offers the *smallest* discretionary
 surface (immobile, visible, spatially smooth, self-assessable) rather than the largest.
 The Leviathan inversion is an argument against efficient taxation in general, curable by a
-constitutional limit on the *level* of capture rather than by rejecting the base. And
+constitutional limit on the *level* of capture rather than by rejecting the base. The
+budget-side worry is answered — conditionally — by Buchanan's own prescription: a
+nondifferential distribution rule, which is what the dividend design is. And
 Tullock's trap, correctly applied, indicts the privatized-rent status quo as much as it
 warns against abrupt reform — turning it into a design constraint (phased, compensated
 transition) rather than a veto. The objection's lasting contribution is a **burden of
 institutional design**: an honest Georgist program must specify who controls assessment,
-how it is audited, what caps the level of capture, and how the transition buys out
-entrenched losses. Where those are unspecified, the critique stands.
+how it is audited, what caps the level of capture, how the proceeds are distributed, and
+how the transition buys out entrenched losses. Where those are unspecified, the critique
+stands.
 
 ## See Also
 
@@ -206,3 +260,26 @@ entrenched losses. Where those are unspecified, the critique stands.
 5. Fred Foldvary on public revenue — [wiki summary](/wiki/foldvary-public-revenue/) — used
    for the georgist case that a land/resource base minimizes the discretionary surface
    relative to income and commodity taxes.
+6. James M. Buchanan, "Rent Seeking and Profit Seeking," in James M. Buchanan, Robert D.
+   Tollison & Gordon Tullock (eds.), *Toward a Theory of the Rent-Seeking Society* (Texas
+   A&M University Press, 1980), pp. 3–15 — used for the three-levels-of-rent-seeking
+   analysis (objection 4) and the nondifferential-distribution escape valve (response 5).
+   Read in full this session via a course-reader reprint
+   ([PDF](https://publics22.classes.ryansafner.com/readings/Buchanan-1999.pdf), paginated
+   103–115); quotes are verbatim from that reprint (quoted passages at reprint
+   pp. 112–113), whose pagination has not been checked against the 1980 print edition.
+7. William A. Niskanen, *Bureaucracy and Representative Government* (Aldine-Atherton,
+   1971) — used, in paraphrase only, for the budget-maximizing-bureau mechanism
+   (the standard attribution, to p. 38, of the bureaucrat's utility arguments rising with
+   budget); the primary text was not obtained this session (archive.org copy is
+   lending-restricted), so no verbatim quotation is used.
+8. James M. Buchanan, *Public Finance in Democratic Process: Fiscal Institutions and
+   Individual Choice* (1967; Collected Works Vol. 4, Liberty Fund).
+   [Full text (OLL PDF)](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1073/0102.04_LFeBk.pdf)
+   — read this session; used for the Puviani fiscal-illusion catalog (Ch. 10, print
+   pp. 130–133) and Buchanan's report of the David (1961) survey finding that property
+   owners are less favorable to property taxation than renters (pp. 195–196).
+9. Thomas E. Borcherding, Patricia Dillon & Thomas D. Willett, "Henry George: Precursor
+   to Public Choice Analysis," *American Journal of Economics and Sociology* 57(2), 1998,
+   pp. 173–182. [JSTOR](https://www.jstor.org/stable/3487491) — paywalled; used only for
+   its abstract-level thesis, explicitly flagged as verified no further than the abstract.
