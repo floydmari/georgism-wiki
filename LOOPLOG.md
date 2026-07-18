@@ -973,3 +973,14 @@ no-chart (verified tables-only), albouy-ehrlich-shin no-chart (author-posted PDF
 headline lives in Tables 2-3), saiz/brueckner/plassmann-tideman/tomson blocked:needs-mirror
 (course-site copies rejected as non-legal), ryan-collins blocked (lending-only scan). Queue
 306 open, 11 re-embed placements left; 17 pages carry figures.
+
+**Wave 7 (2026-07-18d):** la-cava-housing-capital-share (BIS WP 572 Fig 4 — actual vs
+constant-1980-price counterfactual: the housing income-share rise is all relative price) ·
+loffler-siegloch-german-pass-through (IZA DP 14195 Fig 2 — the pass-through event study,
+captioned as the wiki's strongest CONTRASTING incidence evidence, with the land-vs-buildings
+scope note). Honest stamps: total-resource-rents-australia + imf-taxing-immovable-property
+(headlines in tables/text) and a genre sweep of commentary pages (podcasts, video
+explainers, blog compilations — 7 rows, no source figures by construction). Queue 295 open;
+13 source entries + 6 evidence pages figured. Exit condition NOT met — score-7/8 open-PDF
+tier still holds plausible carriers (kolbe-berlin, schwerhoff, martinez-colombia, PD
+diagrams in Howard's Garden Cities, etc.).

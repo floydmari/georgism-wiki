@@ -318,6 +318,54 @@ FIGURES = [
                     "Source: Bakker, IMF Working Paper 23/170 (2023), Figure 6.1 "
                     "— reproduced for comment and review.</span>"),
     },
+    {
+        "key": "lacava-fig4",
+        "entry": "research/la-cava-housing-capital-share.md",
+        "pdf_url": "https://www.bis.org/publ/work572.pdf",
+        "page": 16,
+        "clip": (120, 100, 470, 362),
+        "dpi": 250,
+        "alt": ("Line chart of net housing capital income as a share of total net "
+                "domestic income in the United States, 1960 to 2014. The actual "
+                "series falls from about 6.6% to 5.3% by 1979, then climbs to "
+                "about 8% by 2014 with a peak of 8.4%. A second series holding "
+                "relative housing prices constant at their 1980 level stays flat "
+                "between 5% and 6% for the whole period."),
+        "caption": ("Figure 4 from the paper: net housing capital income as a "
+                    "share of total net US domestic income, 1960–2014. Since 1980 "
+                    "the actual share climbs from about 5.3% to 8% — but holding "
+                    "relative housing prices at their 1980 level (lower line) it "
+                    "goes nowhere. The rise in housing's income share is a rise "
+                    "in the relative <em>price</em> of housing, not in housing "
+                    "services produced. <span class=\"figure-credit\">Source: "
+                    "La Cava, BIS Working Paper 572 / RBA RDP 2016-04 (2016), "
+                    "Figure 4 — reproduced for comment and review.</span>"),
+    },
+    {
+        "key": "loffler-siegloch-fig2",
+        "entry": "research/loffler-siegloch-german-pass-through.md",
+        "pdf_url": "https://docs.iza.org/dp14195.pdf",
+        "page": 21,
+        "clip": (92, 98, 500, 318),
+        "dpi": 220,
+        "alt": ("Event-study chart of the estimated effect of a one percentage "
+                "point property tax increase on gross rents in German "
+                "municipalities, four years before to four years after reform. "
+                "Pre-reform estimates sit near zero; after reform the estimates "
+                "rise, reaching the dashed full-pass-through benchmark line by "
+                "year three, with wide confidence intervals."),
+        "caption": ("Figure 2 from the working paper: event-study estimates of a "
+                    "one-percentage-point <em>Grundsteuer</em> increase on gross "
+                    "rents in German municipalities. Pre-trends are flat; about a "
+                    "third of the tax reaches rents within two years and point "
+                    "estimates hit full pass-through after three — the wiki's "
+                    "strongest contrasting evidence on property-tax incidence. "
+                    "(Germany's Grundsteuer taxes land <em>and</em> buildings; "
+                    "the pure-land component is the part incidence theory says "
+                    "cannot shift.) <span class=\"figure-credit\">Source: "
+                    "Löffler &amp; Siegloch, IZA Discussion Paper 14195 (2021), "
+                    "Figure 2 — reproduced for comment and review.</span>"),
+    },
 ]
 
 
