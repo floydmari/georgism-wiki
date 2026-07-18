@@ -1101,3 +1101,24 @@ blind again. Page candidates queued: Gloudemans-Almy, the IAAO standards pair, a
 six-country mass-appraisal synthesis. T3 cohesion: 4 link-text fixes, terminology
 otherwise conformant; BC/Vancouver overlap reviewed at T1 — already compliant, no churn.
 853 pages, lint 0 errors. (Session-limit interruption mid-wave; recovered cleanly.)
+
+## 2026-07-18 (cont.) — Wave: WoN Book II + Book IV deepen-scan
+
+Smith's chapter-length engagement with the Physiocrats (Book IV Ch. IX) mined into
+concepts/physiocrats.md (Colbert-overcorrection origin, three-class restatement,
+five-point rebuttal of "barren and unproductive," the "with all its imperfections...
+nearest approximation to the truth" verdict, physician/"exact regimen" analogy +
+principle-of-preservation rebuttal, Mirabeau "three great inventions" tribute in
+Smith's primary rendering) and people/francois-quesnay.md ("very ingenious and
+profound author"). Book IV Ch. VII colonial land-engrossment natural experiment →
+concepts/land-monopoly.md (improve-or-forfeit colony law, quit-rent-on-alienation,
+"greatest obstruction to its improvement"). Book II Ch. V "work of Nature" second
+rent theory → concepts/economic-rent.md, flagged honestly as in tension with the
+Book I monopoly-price account. Zero-addition verdicts recorded: Turgot never named
+in WoN (full grep); Book II Ch. II banking read but NOT forced onto
+bank-money-creation (specie-displacement ≠ endogenous money); invisible-hand passage
+read, no land/rent bearing. Scan-depth ledger on books/wealth-of-nations.md updated
+(Book IV Ch. IX → Heavy; Book II Ch. V + Book IV Ch. VII → Medium; strict-delta
+reasoning recorded inline). All quotes verified verbatim vs repo-hosted PG #3300
+text (T1 re-verified 4 spot checks incl. capital-N "Nature" readings). 855 pages,
+lint 0 errors.
