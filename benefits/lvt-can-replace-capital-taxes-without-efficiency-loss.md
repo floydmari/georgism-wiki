@@ -5,14 +5,14 @@ claim_type: benefit
 tags: [outcomes, efficiency, capital-tax, lvt, deadweight-loss]
 stub: false
 evidence_strength: "Strong for the core result — a land tax bears no deadweight loss while capital taxes deter investment (first-principles theory + calibrated general-equilibrium models); qualified by Feldstein's portfolio-shifting challenge to full land-tax neutrality and the Bentick–Mills assessment-basis timing distortion, both carried as counter-evidence"
-supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation, tideman-avoidable-excess-burden, schwerhoff-imf-equity-efficiency, site-value-ge-simulations, gaffney-europes-fatal-affair-with-vat]
+supported_by: [arnold-tax-growth-ej, bonnet-land-is-back, mirrlees-review, oecd-taxation-economic-growth, brueckner-site-value-taxation, tideman-avoidable-excess-burden, schwerhoff-imf-equity-efficiency, site-value-ge-simulations, gaffney-europes-fatal-affair-with-vat, gaffney-capital-gains-free-enterprise]
 challenged_by: [feldstein-incidence-pure-rent, bentick-mills-timing-neutrality]
 excerpt: "Shifting tax from capital to land raises welfare: land taxes carry no deadweight loss while capital taxes discourage investment."
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 > **At a glance** — Because land is fixed in supply and bears no deadweight loss while capital taxes deter investment at the margin, a revenue-neutral swap from capital taxes to a land tax raises welfare — supported by theory and calibrated general-equilibrium models.
-> **Evidence:** Strong for the core no-deadweight-loss result (theory + calibrated general-equilibrium models); two qualifications now carried as counter-evidence · **9 supporting** sources · **2 challenging**
+> **Evidence:** Strong for the core no-deadweight-loss result (theory + calibrated general-equilibrium models); two qualifications now carried as counter-evidence · **10 supporting** sources · **2 challenging**
 > **Strongest support:** [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/) — taxing land dominates taxing capital and can substitute for capital taxes without the efficiency cost. **Strongest counter:** [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/) — in a growth model where land and capital compete as stores of wealth, a tax on pure rent can be "at least partly shifted," so even a land tax is not unambiguously neutral.
 
 ## The Claim
@@ -60,6 +60,26 @@ taxes a government might otherwise levy, not an independently modeled or
 peer-reviewed excess-burden estimate — see the [full page](/wiki/gaffney-europes-fatal-affair-with-vat/)
 for the honest-limits discussion of his headline "€1 trillion" figure.
 
+**A historical natural experiment: 1960s accelerated depreciation as an implicit
+land-for-capital tax shift.** [Gaffney (1991)](/wiki/gaffney-capital-gains-free-enterprise/)
+argues, as attributed historical interpretation rather than a modeled estimate,
+that the U.S. already ran a real-world version of "tax land, untax capital" without
+recognizing it as such. He traces an intellectual lineage from Georgist economist
+John R. Commons (University of Wisconsin), who argued for taxing land-value gains
+at the highest rates while giving new capital fast write-off, through Commons's
+student Harold Groves to Groves's own student Walter Heller — who, as chair of
+President Kennedy's Council of Economic Advisers, sold Congress on accelerated
+depreciation and the Investment Tax Credit as "business Keynesianism" in the
+1960s. Combined with the high, non-write-off-eligible top rates then applying to
+land rents and gains, Gaffney's claim is that the country briefly had "a species
+of national 'graded tax plan,' uptaxing land and downtaxing capital" — a policy
+episode he reads as informal, unrecognized confirmation that relieving capital
+investment from tax while land remains fully taxed does not require a formal LVT,
+only the *asymmetric* tax treatment this page's efficiency argument calls for. (D-claim:
+historical interpretation and institutional lineage in an advocacy essay, not a
+policy evaluation with a counterfactual — no study isolating the 1960s
+depreciation reforms' growth effect from the era's other policy changes is cited.)
+
 ## Counter-Evidence and Limits
 
 The core claim — that a tax on land's fixed supply changes no production decision while capital taxes deter investment at the margin — is among the most secure in public finance. Two qualifications keep it from being asserted as a literal, unconditional zero.
@@ -81,6 +101,7 @@ Neither result reverses the ranking of a land tax above the capital taxes it wou
 - [Taxation of Economic Rents (Schwerhoff, Edenhofer & Fleurbaey 2020)](/wiki/schwerhoff-taxation-economic-rents/) — the peer-reviewed survey backing the non-distortion case
 - [Feldstein (1977): the portfolio-shifting incidence challenge](/wiki/feldstein-incidence-pure-rent/) — the canonical caveat that even a pure land tax may not be perfectly neutral
 - [The Bentick–Mills timing critique](/wiki/bentick-mills-timing-neutrality/) — why market-value assessment can distort development timing, and Tideman's rebuttal
+- [Gaffney (1991): "Capital" Gains and the Future of Free Enterprise](/wiki/gaffney-capital-gains-free-enterprise/) — the 1960s accelerated-depreciation episode read as an informal land-for-capital tax shift
 
 ## Sources
 
@@ -97,3 +118,8 @@ Neither result reverses the ranking of a land tax above the capital taxes it wou
    "Mill Effect" case that ad valorem sales taxes and VAT carry excess burden on capital
    turnover in a way land taxes do not. [wiki summary](/wiki/gaffney-europes-fatal-affair-with-vat/)
    · [PDF](https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf)
+4. Mason Gaffney (1991), "'Capital' Gains and the Future of Free Enterprise" — used,
+   as attributed historical interpretation rather than a modeled estimate, for the
+   1960s accelerated-depreciation/Investment-Tax-Credit episode as an informal,
+   unrecognized land-for-capital tax shift. [wiki summary](/wiki/gaffney-capital-gains-free-enterprise/)
+   · [PDF](https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf)

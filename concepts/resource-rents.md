@@ -82,6 +82,35 @@ design/incidence arguments in a technical monograph and applied policy essays,
 not econometric estimates — see the [full page](/wiki/gaffney-forest-taxation/)
 for the honest scope caveats.)
 
+## Absentee Ownership and Weak Instruments — Gaffney on 1970s Montana
+
+Nine years before his California severance-tax analysis and the same year as his
+Alaska leasing report, Gaffney applied the same rent-capture logic to a state
+whose resource ownership was overwhelmingly external. His [1977 conference
+address on Montana](/wiki/gaffney-montana-land-policy/) frames the state as an
+internal "resource colony": absentee-held minerals and rail/finance corporations
+(a 1973 Senate committee print showed seven New York banks holding nearly 22% of
+Burlington Northern), a copper property-tax loophole capping assessment at the
+$1.25-per-acre price paid by the original 19th-century patentee, and a
+concentrated federal coal-leasing regime — ten energy firms held half of the
+roughly 773,000 acres under federal coal lease in Montana as of 1970. Gaffney's
+policy prescription was the same instrument as his other resource work, applied
+to a *land-value* rather than a severance base: exempt capital from the property
+tax, raise the rate on land, professionalize assessment, and specifically close
+loopholes that shelter absentee-held resource land — a design he argues attracts
+productive capital while discouraging absentee holding, illustrated with New
+Westminster, British Columbia's decades of land-favoring property taxation and
+California's Wright Act irrigation districts, both credited with shifting land
+from absentee to resident, intensive ownership. He separately criticizes
+Montana's newly adopted 30% coal yield tax as one of "the least efficient tax
+instruments known to man," because an extraction-only base lets absentee lessees
+control the timing of state revenue — the same design flaw his later, more
+formal [California severance-tax work](/wiki/gaffney-california-severance-tax/)
+argues against by taxing the resource's value in place rather than only its
+extraction. (D-claims: design and incidence arguments and historical
+illustrations in a conference address, not econometric estimates — see the
+[full page](/wiki/gaffney-montana-land-policy/) for the honest scope caveats.)
+
 ## Book Findings
 
 ### Barnes: Rent Capture for Common Assets
@@ -115,6 +144,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Gaffney: Alternative Ways of Taxing Forests / Greater Social Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — forest site-value vs. yield taxation and public-lands rent capture
 - [Gaffney (1957): Concepts of Financial Maturity of Timber and Other Assets](/wiki/gaffney-financial-maturity-timber/) — the underlying site-value-tax neutrality result
 - [Gaffney (1965): Soil Depletion and Land Rent](/wiki/gaffney-soil-depletion-land-rent/) — exhaustible-resource rent theory and the ad valorem/severance design principle
+- [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — absentee ownership, concentrated federal coal leasing, and a land-value-tax counter-colonial prescription
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
@@ -128,3 +158,4 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 7. Mason Gaffney (1957), "Concepts of Financial Maturity of Timber and Other Assets," A.E. Information Series No. 62, NC State College — used for the site-value-tax rotation-neutrality result (D-claim, technical monograph). [wiki summary](/wiki/gaffney-financial-maturity-timber/) · [PDF](https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf)
 8. Mason Gaffney (1965), "Soil Depletion and Land Rent," *Natural Resources Journal* 4(3) — used for the exhaustible-resource rent theory and the ad-valorem-to-severance-as-exhaustion-nears design principle (C-claim, peer-reviewed law journal). [wiki summary](/wiki/gaffney-soil-depletion-land-rent/) · [PDF](https://masongaffney.org/publications/B5Soil_Depletion_%26_Land_Rent.CV.pdf)
 9. Mason Gaffney (1980/1977), "Alternative Ways of Taxing Forests" and "Greater Social Benefits From our National Forests" — used for the private forest tax-base comparison (property/site-value/yield/income) and the National Forests public-lands rent-capture argument (D-claims, advocacy essay/address). [wiki summary](/wiki/gaffney-forest-taxation/) · [PDF (A3)](https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf) · [PDF (A5)](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)
+10. Mason Gaffney (1977), "Counter-colonial Land Policy for Montana," *Western Wildlands: A Natural Resource Journal* — used for the absentee-ownership diagnosis, the coal-lease concentration figure, the copper property-tax loophole, and the land-value-tax counter-colonial design (D-claims, conference address). [wiki summary](/wiki/gaffney-montana-land-policy/) · [PDF](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf)

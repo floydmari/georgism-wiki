@@ -10,7 +10,6 @@ excerpt: 'High-rate capture of natural-resource rent is workable and durable: No
   trillion in the world''s largest sovereign wealth fund, and spends only ~3% a year
   — the textbook escape from the resource curse. But the escape is institutional,
   not automatic; where institutions are weak, resource rents are still a curse.'
-last_reviewed: 2026-07-13
 stub: false
 supported_by:
 - resource-rents
@@ -25,6 +24,7 @@ supported_by:
 - gaffney-california-severance-tax
 - gaffney-alaska-oil-leasing
 - gaffney-forest-taxation
+- gaffney-montana-land-policy
 tags:
 - outcomes
 - resource-rents
@@ -36,7 +36,7 @@ title: Capturing resource rent works — where institutions are strong
 ---
 
 > **At a glance** — Capturing a finite resource's rent at a high rate works in practice where fiscal design and institutions are strong — Norway is the flagship — while the resource curse remains real where they are weak.
-> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **12 supporting** sources · **0 challenging**
+> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **13 supporting** sources · **0 challenging**
 > **Strongest support:** [Lie (2018)](/wiki/lie-norwegian-oil-fund/) — Norway's ~78% petroleum rent capture built a sovereign fund now worth over $2 trillion without deterring extraction. **Strongest counter:** the resource-curse literature (Sachs & Warner 1995/2001) — resource-rich economies grow more slowly *on average*, and [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) shows rent windfalls eroding local tax effort and accountability; capture works where institutions are strong and curses where they are weak. See Why It Isn't Automatic.
 
 ## The Claim
@@ -130,6 +130,26 @@ much-cited dividend success (below) rests on a prior, less-visible design questi
 how much rent the leasing terms let the State collect in the first place — that
 state economic advisors were actively working out at the exact moment the Fund was
 created, not after the fact.
+
+## A Fifth Mode — Concentrated Absentee Leasing, Montana Coal, 1977
+
+Norway, Botswana, Alaska, California, and the Forest Service show design
+succeeding, design in progress, capture lost, and capture never attempted inside
+a public agency. **Montana's coal, in the same year as the Alaska report above,
+shows a fifth pattern: an instrument nominally in place but structurally too weak
+to capture rent from concentrated absentee ownership.** In his 1977 address
+"Counter-colonial Land Policy for Montana," Gaffney documents that ten energy
+firms held half of the roughly 773,000 acres under federal coal lease in the
+state as of 1970, and assesses Montana's own response — a newly adopted 30% coal
+yield (severance) tax — as poorly designed rather than absent: because the tax
+applies only at extraction, "revenues are turned on and off with the pace at
+which the lessees and owners decide to produce the coal," ceding the state
+effective control over its own revenue timing to the absentee lessees.[13] This
+differs from California's failure mode (a working instrument later repealed) and
+the Forest Service's (no charge for capital at all): Montana had *a* severance
+tax, but one built on the extraction-only base Gaffney's later, more developed
+California work explicitly argues against in favor of taxing the resource's value
+in place.[9]
 
 ## Why It Isn't Automatic — the Resource Curse
 
@@ -235,6 +255,7 @@ necessary; the institutions are what make it sufficient.
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the state-level case of capture built, then lost, to Proposition 13
 - [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the design-stage case, written as the Permanent Fund was created
 - [Gaffney: Alternative Ways of Taxing Forests / Greater Social Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — the renewable-resource, chronic-non-capture case (US Forest Service)
+- [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — the concentrated-absentee-leasing-plus-weak-instrument case (coal)
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -302,3 +323,10 @@ necessary; the institutions are what make it sufficient.
     — used for the original zero-interest-rate derivation of "culmination of mean
     annual increment" that the 1977 National Forests critique applies to public
     lands (technical monograph, not itself about resource-rent capture policy).
+13. Mason Gaffney (1977), "Counter-colonial Land Policy for Montana," *Western
+    Wildlands: A Natural Resource Journal*, Winter 1977, pp. 16–25 —
+    [wiki summary](/wiki/gaffney-montana-land-policy/) ·
+    [PDF](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf)
+    — used for the 1970 federal coal-lease concentration figure and the critique
+    of Montana's extraction-only yield tax (conference address, not peer-reviewed;
+    corroborating, not load-bearing).

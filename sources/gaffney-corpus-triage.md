@@ -11,8 +11,42 @@ gaffney-after-the-crash, gaffney-causes-of-downturns, gaffney-land-booms-destroy
 gaffney-europes-fatal-affair-with-vat, gaffney-full-employment-tax-reform,
 gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance,
 gaffney-alaska-oil-leasing, gaffney-land-market-distortions, gaffney-california-severance-tax,
-gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depletion-land-rent;
+gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depletion-land-rent,
+gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy;
 narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-18 (T2 wave — tier-2 batch 3):** *"Capital" Gains and the Future of Free
+Enterprise* (1991) and *Counter-colonial Land Policy for Montana* (1977) read,
+drafted, and wired; *Corporations, Democracy, and the U.S. Supreme Court* (2010)
+read and declined a research page (see the checklist entry below for the full
+triage reasoning). **Capital Gains** — see
+[research/gaffney-capital-gains-free-enterprise](/wiki/gaffney-capital-gains-free-enterprise/)
+— is Gaffney's most developed single statement of the "capital gains are mostly
+land gains" thesis: a documented Georgist-origins history of the U.S. income tax
+(the 1894 Maguire amendment, the 16th Amendment, Warren Worth Bailey's role in the
+1916 Revenue Act) plus a systematic tax-loophole catalogue (deferral, covert land
+depreciation, step-up of basis at death, the Bishop Estate's 340,000 Hawaii acres
+never triggering a taxable sale) and a symmetry critique of inflation-indexing
+proposals. Wired as an ancestor-statement (not independent quantitative evidence)
+into problems/capital-share-rise-is-land, as new tax-code mechanics into
+concepts/unearned-increment, and as a historical natural-experiment (1960s
+accelerated depreciation read as an implicit land-for-capital tax shift, via the
+Commons→Groves→Heller lineage) into
+benefits/lvt-can-replace-capital-taxes-without-efficiency-loss. **Montana** — see
+[research/gaffney-montana-land-policy](/wiki/gaffney-montana-land-policy/) — frames
+1970s Montana as an internal resource colony (absentee-held rail/finance
+corporations, a copper property-tax loophole capped at the 19th-century patentee
+price, concentrated federal coal leasing) and prescribes land value taxation,
+illustrated with New Westminster BC and California Wright Act irrigation-district
+case studies. Wired into concepts/resource-rents (new subsection) and
+benefits/resource-rent-capture-works (a fifth institutional-failure mode:
+concentrated absentee leasing plus a structurally weak extraction-only yield
+tax). No `places/montana` page created — the accept bar (≥2 existing pages that
+would naturally link to it) was not met. **Corporations, Democracy, and the U.S.
+Supreme Court** was judged tangential to the rent-capture mission (a political
+essay on corporate personhood and *Citizens United*, not primarily about rent
+capture) and declined; its one on-topic claim cites a source
+(Feldstein, *JPE* 1977) the wiki already carries independently.
 
 **2026-07-18 (T2 wave — natural-resource-taxation cluster):** Four forestry/soil
 publications read, drafted, and wired: *Concepts of Financial Maturity of Timber
@@ -79,7 +113,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 ## Inventory (masongaffney.org, fetched 2026-07-16: 190 files)
 
 ### /publications/ (87)
-- [ ] `1977_Counter-colonial_Land_Policy_for_Montana.pdf` — https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf
+- [x] `1977_Counter-colonial_Land_Policy_for_Montana.pdf` — https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf — [research/gaffney-montana-land-policy](/wiki/gaffney-montana-land-policy/), 2026-07-18. *Western Wildlands: A Natural Resource Journal*, Winter 1977, pp. 16-25. Wired into concepts/resource-rents (new subsection) and benefits/resource-rent-capture-works (fifth institutional-failure mode: concentrated absentee federal coal leasing plus a structurally weak yield tax). No `places/montana` page created — accept bar (≥2 existing pages that would naturally link to it) not met; only 5 wiki pages mention Montana at all, none as a subject.
 - [x] `2006_New_Life_in_Old_Cities.pdf` — https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf — [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/), 2026-07-16
 - [x] `A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf` — https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf — [research/gaffney-financial-maturity-timber](/wiki/gaffney-financial-maturity-timber/), 2026-07-18. Title/venue verified from the document: A.E. Information Series No. 62, NC State College, Sept. 1957 — NOT a Duke dissertation (Gaffney's actual PhD dissertation is a separate 1956 UC Berkeley work); graded Important on strong external academic standing (81 Semantic Scholar citations, Samuelson 1976 endorsement, credited with the 1957-76 Faustmann revival).
 - [x] `A3-AlternativeWaysofTaxingForests.CV.pdf` — https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf — combined with A5 into [research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/), 2026-07-18. Dated "Number 43, March 1980" in the document; publication venue/series not identified (`[VERIFY]` on page).
@@ -93,7 +127,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [x] `B5Soil_Depletion_&amp;_Land_Rent.CV.pdf` — https://masongaffney.org/publications/B5Soil_Depletion_&amp;_Land_Rent.CV.pdf — [research/gaffney-soil-depletion-land-rent](/wiki/gaffney-soil-depletion-land-rent/), 2026-07-18. Actually *Natural Resources Journal* 4(3): 537-557 (Jan. 1965), not undated as filename implies. Wired into objections/land-is-just-capital (Response point 5 + Limits caveat cross-reference). Note: the R2 mirror at this ampersand-containing key 404s (see `[VERIFY]` on the page) — masongaffney.org direct link and the UNM Digital Repository (open-access journal host) are the working free/legal sources.
 - [ ] `C2-LandandRentinWelfareEconomics.CV.pdf` — https://masongaffney.org/publications/C2-LandandRentinWelfareEconomics.CV.pdf
 - [ ] `C4-UnwieldyTime-DimensionofSpace.CV.pdf` — https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf
-- [ ] `C6-Counter-ColonialLandPolicyforMontana.CV.pdf` — https://masongaffney.org/publications/C6-Counter-ColonialLandPolicyforMontana.CV.pdf
+- [x] `C6-Counter-ColonialLandPolicyforMontana.CV.pdf` — https://masongaffney.org/publications/C6-Counter-ColonialLandPolicyforMontana.CV.pdf — same essay as `1977_Counter-colonial_Land_Policy_for_Montana.pdf` above (identical title; different scan, 300KB vs 59KB — not separately reviewed), covered on [research/gaffney-montana-land-policy](/wiki/gaffney-montana-land-policy/), 2026-07-18.
 - [ ] `C9Land_Distinctive_Factor.CV.pdf` — https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf
 - [ ] `D1Rising_Inequality_&amp;_Falling_Prop_Tax_Rates.CV.pdf` — https://masongaffney.org/publications/D1Rising_Inequality_&amp;_Falling_Prop_Tax_Rates.CV.pdf
 - [ ] `D3-BenefitsofFarmPrograms.CV.CV.pdf` — https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf
@@ -170,7 +204,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 ### /workpapers/ (73)
 - [ ] `1972_Benefits_of_Military_Spending.pdf` — https://masongaffney.org/workpapers/1972_Benefits_of_Military_Spending.pdf
 - [x] `A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf` — https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf — [research/gaffney-excess-burden-shiftable-taxes.md](/wiki/gaffney-excess-burden-shiftable-taxes/)
-- [ ] `Capital_Gains_and_Future_of_Free_Enterprise.pdf` — https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf
+- [x] `Capital_Gains_and_Future_of_Free_Enterprise.pdf` — https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf — [research/gaffney-capital-gains-free-enterprise](/wiki/gaffney-capital-gains-free-enterprise/), 2026-07-18. 1991 (rev. Dec. 1991) chapter for Richard Noyes (ed.), *Now the Synthesis*. Wired into problems/capital-share-rise-is-land (ancestor-statement to the modern Rognlie/Piketty capital-share decomposition), concepts/unearned-increment (new section: Georgist-origins history of the U.S. income tax + tax-loophole catalogue), and benefits/lvt-can-replace-capital-taxes-without-efficiency-loss (1960s accelerated-depreciation episode as an informal land-for-capital tax shift).
 - [x] `Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf` — https://masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf — [research/gaffney-causes-of-downturns.md](/wiki/gaffney-causes-of-downturns/)
 - [x] `Factitious_Locational_Obsolescence_in_Land_Booms_WP041 .pdf` — https://masongaffney.org/workpapers/Factitious_Locational_Obsolescence_in_Land_Booms_WP041%20.pdf — [research/gaffney-land-market-distortions.md](/wiki/gaffney-land-market-distortions/), 2026-07-17
 - [ ] `How_Religious_Awakenings_Presage_Radical_Reforms.pdf` — https://masongaffney.org/workpapers/How_Religious_Awakenings_Presage_Radical_Reforms.pdf
@@ -246,7 +280,7 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [x] `2006_Severance_Tax_on_California_Oil.pdf` — https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf — [research/gaffney-california-severance-tax](/wiki/gaffney-california-severance-tax/), 2026-07-16
 - [ ] `Americas_Low_Savings_Rate_8-9_2005.pdf` — https://masongaffney.org/essays/Americas_Low_Savings_Rate_8-9_2005.pdf
 - [ ] `Answer_to_Futilitarians_1998.pdf` — https://masongaffney.org/essays/Answer_to_Futilitarians_1998.pdf
-- [ ] `Corporations_Democracy_and_the_US_Supreme_Court.pdf` — https://masongaffney.org/essays/Corporations_Democracy_and_the_US_Supreme_Court.pdf
+- [x] `Corporations_Democracy_and_the_US_Supreme_Court.pdf` — https://masongaffney.org/essays/Corporations_Democracy_and_the_US_Supreme_Court.pdf — **read and triaged 2026-07-18, declined a research page.** A 2010 political essay on *Citizens United v. FEC* and the legal history of corporate personhood (Dartmouth College v. Woodward, Santa Clara v. Southern Pacific, Citizens United), using the falling share of federal revenue from the corporate income tax as a loose "metric" of corporate power. Its only rent-relevant claim — "the corporate income tax is mainly a tax on economic rent," citing Stiglitz and Martin Feldstein (*JPE* 85(2), April 1977, p. 357) — cites work the wiki already carries independently ([research/feldstein-incidence-pure-rent](/wiki/feldstein-incidence-pure-rent/), the same *JPE* 1977 issue) rather than adding new analysis. The remaining ~95% of the essay (corporate-personhood doctrine, campaign-finance remedies, U.S. constitutional history) is a political-history argument tangential to the rent-capture mission per EDITORIAL §0's scope rule, not a page-worthy contribution to it. Registry row added (`Corporations, Democracy, and the U.S. Supreme Court`, Status: Referenced, Scan Depth: Light, no Wiki Page) for provenance; moved to TIER 3 (archive-only) below.
 - [ ] `Denying_Inflation--Who_Why_and_How_12_2005.pdf` — https://masongaffney.org/essays/Denying_Inflation--Who_Why_and_How_12_2005.pdf
 - [ ] `Empty_Spaces_final_3-29.pdf` — https://masongaffney.org/essays/Empty_Spaces_final_3-29.pdf
 - [ ] `Europes_Fatal_Affair_with_VAT_071713a.pdf` — https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_071713a.pdf
@@ -290,12 +324,14 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 | A Better Way of Gauging Excess Burden of Shiftable Taxes (2005) | concepts/deadweight-loss, ATCOR support |
 | The Philosophy of Public Finance (1998, Ch. 7 of *The Losses of Nations*) | **done 2026-07-16** — ATCOR formal derivation, philosophy of site value taxation; problems/land-rent-could-fund-government, objections/lvt-not-enough-revenue, benefits/split-rate-increases-construction |
 
-**TIER 2 — next waves (not yet mirrored):** the Alaska oil & gas leasing pair (B03, 1977 —
-resource-rents depth), Oil & Gas: Unfinished Tax Reform, Soil Depletion & Land Rent,
-Counter-colonial Land Policy for Montana, Capital Gains and the Future of Free Enterprise,
-Land Markets Lead to Misallocating Capital, Factitious Locational Obsolescence in Land Booms,
-Americas Low Savings Rate, Four Vampires of Capital, Answer to Futilitarians, timber/forest
-taxation trio (A1/A3/A5), Corporations Democracy & the US Supreme Court.
+**TIER 2 — next waves (not yet mirrored):** Oil & Gas: Unfinished Tax Reform,
+Americas Low Savings Rate, Four Vampires of Capital, Answer to Futilitarians. (The
+Alaska leasing pair, Soil Depletion & Land Rent, Counter-colonial Land Policy for
+Montana, Capital Gains and the Future of Free Enterprise, Land Markets Lead to
+Misallocating Capital, Factitious Locational Obsolescence in Land Booms, the
+timber/forest taxation trio, and Corporations Democracy & the US Supreme Court —
+all listed here as of 2026-07-16 — are now done or triaged; see the dated entries
+above and below.)
 
 **2026-07-17:** *Two Centuries of Economic Thought on Taxation of Land Rents* (1982, in
 Lindholm & Lynn eds., *Land Value Taxation: The Progress and Poverty Centenary*, Univ. of
