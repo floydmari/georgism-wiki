@@ -83,20 +83,31 @@ more cities, arguing the NYC pattern was not unique:
 
 - **Cleveland, 1900–20** (+109%): Mayors Tom L. Johnson and Newton D. Baker raised
   land assessments citywide (from $180m to $500m) using W.A. Somers's "standard unit"
-  land-value mapping system, funding a 3-cent trolley fare from land taxation.[1]
+  land-value mapping system, funding a 3-cent trolley fare from land taxation.[1] *A fuller,
+  workpaper-level account of Cleveland (and of Chicago below), including material this capsule
+  compresses away, is on this wiki's [Gaffney's Georgist City-Growth Case
+  Studies](/wiki/gaffney-georgist-city-growth-cases/) page.*
 - **Toledo, 1890–1920** (population tripled): single-tax Mayors Samuel "Golden Rule"
   Jones and Brand Whitlock.[1]
 - **Detroit, 1890–1930**: growth under Mayor/Governor Hazen Pingree, who brought Tom
   Johnson to Detroit to build cheap public transit; Gaffney separately notes Detroit's
   post-Pingree annexation-driven sprawl produced "one of the worst cases of excess
-  subdivision in the U.S.A."[1]
+  subdivision in the U.S.A."[1] Gaffney's much longer 2008 essay "What's the Matter with
+  Michigan?" — not summarized elsewhere on this wiki — carries the Detroit/Michigan story
+  forward from Pingree through the 1975 Single Business Tax and Governor Engler's 1995
+  property-tax-to-sales-tax shift; see [Gaffney's Georgist City-Growth Case
+  Studies](/wiki/gaffney-georgist-city-growth-cases/).
 - **Milwaukee, 1916–40**: Socialist Mayors Emil Seidel and Daniel Hoan pursued
   "sewer socialism" — low transit and utility rates funded by land-focused property
   taxation, plus Somers-system assessment maps distributed to citizens.[1]
 - **Chicago, 1890–1930**: no single leader but a dense network of Georgist-aligned
   figures (Governor John Peter Altgeld, Mayor Edward Dunne, Clarence Darrow, Jane
   Addams, Louis F. Post) and the 1894 Illinois Bureau of Labor Statistics report on
-  landownership concentration in the Loop.[1]
+  landownership concentration in the Loop.[1] Gaffney's dedicated Chicago workpaper (detailed on
+  [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/))
+  gives the specific 1890-1900 growth figure (+54%, with an annexation caveat) and, notably,
+  Gaffney's own hedge that the Chicago case does not "fully add up" to a definitive showing the
+  way the other cities here do.
 - **San Francisco, 1907–30** (+22% each decade, 1900–1930): recovering from the 1906
   earthquake and fire with **75% of its real-estate tax base already in land value**
   before the disaster, under Mayor Edward Robeson Taylor — who had helped Henry George
@@ -202,6 +213,7 @@ undermined by other policies (a wage tax), or subverted by assessment practice.
 
 ## See Also
 
+- [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — fuller workpaper-level detail on the Cleveland and Chicago cases, plus Detroit/Michigan (1890-2008) and Johannesburg/Cape Town, not covered by this survey
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/)
 - [New York City's 1921–1931 Tax Exemption for New Housing](/wiki/nyc-1920s-tax-exemption/) — the deeper, independently-sourced treatment of the flagship NYC episode

@@ -58,6 +58,59 @@ Text mirrors for all three at `sources/gaffney/text/WP048-*`,
 `sources/gaffney/text/WP049-*`, and `sources/gaffney/text/1972-*`.
 `lint_wiki.py`: 0 errors.
 
+**2026-07-18 (city-growth case-study cluster mined — #2-ranked future
+candidate):** Mined the #2-ranked future candidate, the Georgist-era
+city-growth case-study cluster: **WP089** ("Cleveland's Explosive Growth
+Under Mayors Tom Johnson and Newton Baker," undated, 1p), **WP091**
+("Chicago's Growth Spurt, 1890-1900," undated, 2pp), **`Whats_the_Matter_
+with_Michigan`** (2008, 12pp — by far the richest of the set, no prior wiki
+coverage of Detroit or Michigan), and **WP077** ("Enterprising Johannesburg
+and Sleepy Cape Town: A Contrast," undated, c. 1991-92, 2pp — the #3-ranked
+candidate, folded in as the same genre rather than left separate) — all four
+read in full. Delta-checked against existing coverage first: WP089 and WP091
+turned out to be the unabridged workpaper-level notes behind two already-
+compressed capsules on [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/)
+(Cleveland's $180m→$500m Somers-system assessment shift; Chicago's Altgeld/
+Dunne/1894-Bureau-of-Labor-Statistics network) — real but modest deltas
+(the Cleveland tax school, Peter Witt's near-miss election, and a statue
+detail; Chicago's specific 54% figure, the IC Railroad lakefront case, and,
+notably, **Gaffney's own hedge that the Chicago case does not "fully add
+up" to a definitive showing** the way his other cities do). WP077 likewise
+turned out to have two existing anchor pages ([places/johannesburg-site-
+value-rating](/wiki/johannesburg-site-value-rating/) and [places/south-
+africa](/wiki/south-africa/) — superseding this file's earlier "no dedicated
+page exists" notes on both WP077's and WP089/091's rows), but its causal
+growth-comparison argument (crediting a reported 4% site-value tax for
+Johannesburg's rise vs. Cape Town's sprawl) is new; Cape Town has no wiki
+page at all. `Whats_the_Matter_with_Michigan` is the one genuinely
+uncovered case: a full Pingree-to-Engler century (1890s land-tax-funded
+rise; the neglected Southfield 1960-70 counter-case; the 1975 Single
+Business Tax's land-expensing quirk; Gaffney's own 1995 anti-Prop.-13
+testimony to Engler's staff; the 2008 "Big Three" collapse), and it also
+supplies a Pingree-mentored-Johnson lineage this wiki's Tom L. Johnson page
+did not carry. **Page-shape decision: one cluster page**
+([research/gaffney-georgist-city-growth-cases](/wiki/gaffney-georgist-city-growth-cases/)),
+not four page-level mentions or new place pages for Cleveland/Detroit/Cape
+Town — the four pieces share one thesis, one author, and (for Cleveland/
+Chicago/Detroit) a mentorship lineage only visible read together, while none
+individually clears the bar for its own page. Cross-links (not full
+duplication) added to [people/tom-l-johnson](/wiki/tom-l-johnson/),
+[places/chicago](/wiki/chicago/), [places/johannesburg-site-value-rating](/wiki/johannesburg-site-value-rating/),
+[places/south-africa](/wiki/south-africa/), and reciprocally on
+[research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/).
+**Historiographic caution applied per instruction: none of the four works
+was added to any outcome page's `supported_by` list** — all are hand-picked,
+advocacy-authored historical case narratives, not matched-control studies,
+and the new page's Standing and Limits section names confounders Gaffney
+does not quantify (Chicago annexation, Southfield white-flight/
+suburbanization vs. tax policy, the national auto industry's independent
+trajectory for Michigan, apartheid-era spatial planning for Johannesburg/
+Cape Town). Four new registry rows (all tier `important`, Scan Depth Heavy,
+Status "Read in full," native text, no OCR needed). Text mirrors at
+`sources/gaffney/text/WP089-*`, `sources/gaffney/text/WP091-*`,
+`sources/gaffney/text/WP077-*`, and `sources/gaffney/text/WhatsTheMatterWithMichigan.txt`.
+`lint_wiki.py`: 0 errors.
+
 **2026-07-18 (workpapers/essays triage complete — the corpus burn-down's
 final wave):** Skim-triage swept the entire remaining tail: all 65 unchecked
 `/workpapers/` rows, all 25 unchecked `/essays/` rows, and the 5 stray
@@ -125,16 +178,24 @@ OCR needed). Text mirrored to `sources/gaffney/text/E4-TaxReformtoReleaseLand.CV
    History" (2005)** — the single strongest candidate in the tail~~ —
    **MINED 2026-07-18**, see [research/gaffney-peace-dividends-land-booms](/wiki/gaffney-peace-dividends-land-booms/)
    and the priority-correction entry at the top of this file.
-2. **WP089 (Cleveland, Mayors Johnson & Baker) + WP091 (Chicago 1890-1900) +
+2. ~~**WP089 (Cleveland, Mayors Johnson & Baker) + WP091 (Chicago 1890-1900) +
    `Whats_the_Matter_with_Michigan` (essays)** — a three-city cluster of
    concrete Georgist-era municipal case studies (growth under single-tax
    assessment reform; Michigan's specific post-1994 decline as a natural
    before/after comparison), comparable in richness to the already-covered
    New Life in Old Cities (2006) survey but with city-level narrative detail
-   that page does not carry.
-3. **WP077, "Enterprising Johannesburg and Sleepy Cape Town"** — a vivid
+   that page does not carry.~~ — **MINED 2026-07-18**, together with WP077
+   (ranked #3 below, folded into the same cluster as it proved to be the same
+   genre), see [research/gaffney-georgist-city-growth-cases](/wiki/gaffney-georgist-city-growth-cases/)
+   and the entry immediately below.
+3. ~~**WP077, "Enterprising Johannesburg and Sleepy Cape Town"** — a vivid
    international comparative case study (Johannesburg's 4% site-value tax)
-   with no existing South-Africa-focused wiki page to anchor it.
+   with no existing South-Africa-focused wiki page to anchor it.~~ — **MINED
+   2026-07-18** as the fourth member of the #2 cluster above (this note's
+   "no existing page" premise was wrong: [places/johannesburg-site-value-rating](/wiki/johannesburg-site-value-rating/)
+   and [places/south-africa](/wiki/south-africa/) already existed — the
+   workpaper's delta was its growth-*causation* argument, not the site-value-rating
+   fact itself).
 4. **`Great_Expectations` (essays, 2013)** — a formal "Scrooge vs. Cratchit"
    numerical bidding-power model extending the credit-concentration
    mechanism now on gaffney-tax-reform-release-land and concepts/land-monopoly.
@@ -1091,7 +1152,7 @@ priority-correction candidate for a future wave.
 - [x] `WP073 Property Tax Reform in Big Picture.pdf` — https://masongaffney.org/workpapers/WP073%20Property%20Tax%20Reform%20in%20Big%20Picture.pdf — DECLINE (broad synthesis, overlapping ground): skimmed 2026-07-18. 1995 Jerome Levy Institute keynote synthesizing Prop 13/California decline (already covered via G45), VAT/sales-tax critique (already covered via research/gaffney-europes-fatal-affair-with-vat), and the land-consumption-tax-base argument; a restatement rather than a new delta. Source of the WP071/WP074 excerpts below. No registry row.
 - [x] `WP074 Californias Balkanized Tax Base.pdf` — https://masongaffney.org/workpapers/WP074%20Californias%20Balkanized%20Tax%20Base.pdf — DUPLICATE-OF-COVERED: skimmed 2026-07-18. Excerpt of WP073 above; California county assessed-value-per-capita disparity data (Beverly Hills vs. Parlier); restates concepts/land-monopoly-adjacent concentration themes already covered, thin standalone excerpt. No registry row.
 - [x] `WP076 South African Diary, March 17-30, 1992.pdf` — https://masongaffney.org/workpapers/WP076%20South%20African%20Diary,%20March%2017-30,%201992.pdf — DECLINE (South Africa cluster): skimmed 2026-07-18. Travel-diary/personal narrative of a 1992 South Africa trip; the substantive land-tax content is in WP077/WP078 below. No registry row.
-- [x] `WP077 Enterprising Johannesburg and Sleepy Cape Town-A Contrast.pdf` — https://masongaffney.org/workpapers/WP077%20Enterprising%20Johannesburg%20and%20Sleepy%20Cape%20Town-A%20Contrast.pdf — CANDIDATE (strong): skimmed 2026-07-18. A compelling comparative case study crediting Johannesburg's site-value tax (4% rate, land-only base) for its rise despite no natural site advantages, contrasted with Cape Town's sprawl and blight under a conventional property tax. No dedicated Johannesburg/South-Africa page exists on the wiki.
+- [x] `WP077 Enterprising Johannesburg and Sleepy Cape Town-A Contrast.pdf` — https://masongaffney.org/workpapers/WP077%20Enterprising%20Johannesburg%20and%20Sleepy%20Cape%20Town-A%20Contrast.pdf — **MINED 2026-07-18**, read in full. See [research/gaffney-georgist-city-growth-cases](/wiki/gaffney-georgist-city-growth-cases/) (Johannesburg/Cape Town section) and the top-of-file entry; also folded as delta onto [places/johannesburg-site-value-rating](/wiki/johannesburg-site-value-rating/) and [places/south-africa](/wiki/south-africa/), both of which turned out to already exist (the earlier "no dedicated page exists" note above was superseded on re-check).
 - [x] `WP078 Critique of South African Katz Commision (sic) Reports.pdf` — https://masongaffney.org/workpapers/WP078%20Critique%20of%20South%20African%20Katz%20Commision%20(sic)%20Reports.pdf — DECLINE (South Africa cluster): skimmed 2026-07-18. A point-by-point critique of an anonymous South African Treasury report's methodology; polemical/technical rebuttal, thinner than WP077. No registry row.
 - [x] `WP079 Privatization without giveaway-capitalism without kleptocracy.pdf` — https://masongaffney.org/workpapers/WP079%20Privatization%20without%20giveaway-capitalism%20without%20kleptocracy.pdf — DECLINE (overlapping ground, Russia cluster): skimmed 2026-07-18 (long, 211KB). Post-Soviet land-privatization synthesis (to be published, ed. Tideman & Wick, 1991); restates rent-collection-methods ground already covered via concepts/resource-rents and research/gaffney-philosophy-of-public-finance; companion to WP080/WP083 below. No registry row.
 - [x] `WP080 Taxable Surplus in Russian Land.pdf` — https://masongaffney.org/workpapers/WP080%20Taxable%20Surplus%20in%20Russian%20Land.pdf — DECLINE (overlapping ground, Russia cluster): skimmed 2026-07-18. 1999 Duma testimony restating the taxable-surplus/common-property-compatible-with-markets argument already covered; part of the Russia cluster with WP079/WP083. No registry row.
@@ -1101,8 +1162,8 @@ priority-correction candidate for a future wave.
 - [x] `WP086 Sales Tax Revenues vs Taxable Property Values, California Counties, 1993-1994.pdf` — https://masongaffney.org/workpapers/WP086%20Sales%20Tax%20Revenues%20vs%20Taxable%20Property%20Values,%20California%20Counties,%201993-1994.pdf — DECLINE: skimmed 2026-07-18. Raw county-level sales-tax/assessed-value data table; thin, data-only, no developed argument. No registry row.
 - [x] `WP087 Salestax Leakages-Why Yield Less than Income Tax.pdf` — https://masongaffney.org/workpapers/WP087%20Salestax%20Leakages-Why%20Yield%20Less%20than%20Income%20Tax.pdf — CANDIDATE (minor): skimmed 2026-07-18. A developed catalogue (11+ items) of sales-tax avoidance/leakage mechanisms; companion to WP084 above, could extend research/gaffney-europes-fatal-affair-with-vat's sales-tax critique. No registry row.
 - [x] `WP088 Replacing California Sales Tax with Property Tax, Regional Impacts.pdf` — https://masongaffney.org/workpapers/WP088%20Replacing%20California%20Sales%20Tax%20with%20Property%20Tax,%20Regional%20Impacts.pdf — DECLINE: skimmed 2026-07-18. Excerpt from a 1999 e-commerce-taxation talk; restates the sales-tax-to-property-tax swap argument (equity/regional-impact angle) in outline form. No registry row.
-- [x] `WP089 Cleveland's Explosive Growth under Mayors Tom Johnson and Newton Baker.pdf` — https://masongaffney.org/workpapers/WP089%20Cleveland's%20Explosive%20Growth%20under%20Mayors%20Tom%20Johnson%20and%20Newton%20Baker.pdf — CANDIDATE (strong, historical case-study cluster): skimmed 2026-07-18. Concrete case study of Cleveland's 1900-1920 population growth (+109%) under single-tax Mayors Tom Johnson and Newton Baker, with specific assessment data (the Somers unit system, a $180M→$500M reassessment). Companion to WP091 below; part of a strong future-candidate cluster.
-- [x] `WP091Chicago's growth spurt 1890-1900.pdf` — https://masongaffney.org/workpapers/WP091Chicago's%20growth%20spurt%201890-1900.pdf — CANDIDATE (strong, companion to WP089): skimmed 2026-07-18. Chicago's 1890-1900 growth (+54%) linked to Governor Altgeld's single-tax-influenced administration and the Illinois Bureau of Labor Statistics' 1894 Lorenz-curve landownership-concentration study of the Loop — described by Gaffney as unique among American cities. Part of the same strong future-candidate cluster as WP089.
+- [x] `WP089 Cleveland's Explosive Growth under Mayors Tom Johnson and Newton Baker.pdf` — https://masongaffney.org/workpapers/WP089%20Cleveland's%20Explosive%20Growth%20under%20Mayors%20Tom%20Johnson%20and%20Newton%20Baker.pdf — **MINED 2026-07-18**, read in full. See [research/gaffney-georgist-city-growth-cases](/wiki/gaffney-georgist-city-growth-cases/) (Cleveland section) and the priority-correction entry at the top of this file; also folded as delta onto [people/tom-l-johnson](/wiki/tom-l-johnson/).
+- [x] `WP091Chicago's growth spurt 1890-1900.pdf` — https://masongaffney.org/workpapers/WP091Chicago's%20growth%20spurt%201890-1900.pdf — **MINED 2026-07-18**, read in full. See [research/gaffney-georgist-city-growth-cases](/wiki/gaffney-georgist-city-growth-cases/) (Chicago section, including Gaffney's own hedge on the case's strength) and the top-of-file entry; also folded as delta onto [places/chicago](/wiki/chicago/).
 - [x] `WP095 2005 Temporal excess burden of Taxes on Buildings.pdf` — https://masongaffney.org/workpapers/WP095%202005%20Temporal%20excess%20burden%20of%20Taxes%20on%20Buildings.pdf — DUPLICATE-OF-COVERED: skimmed 2026-07-18. Restates the ripening-deferral/ATCOR argument already covered on research/gaffney-land-planning-property-tax (the Milwaukee isovalic study) and now more fully via this wave's new research/gaffney-tax-reform-release-land page. No registry row.
 - [x] `WP096 2005 The Physiocratic Concept of ATCOR.pdf` — https://masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf — DUPLICATE-OF-COVERED: skimmed 2026-07-18. Restates ATCOR already covered in depth on research/gaffney-atcor and concepts/atcor. No registry row.
 - [x] `WP097 2004 Unknown revenue potential of land 15 hidden elements.pdf` — https://masongaffney.org/workpapers/WP097%202004%20Unknown%20revenue%20potential%20of%20land%2015%20hidden%20elements.pdf — DUPLICATE-OF-COVERED: skimmed 2026-07-18. A 2004 CGO Albuquerque address — an earlier, 15-element precursor draft of the taxonomy fully developed as the 16-Element/4-Group structure already covered via the 2009 published paper on research/gaffney-hidden-taxable-capacity; superseded by that fuller, later treatment. No registry row.
@@ -1142,7 +1203,7 @@ priority-correction candidate for a future wave.
 - [x] `The_Red_and_the_Blue_04-12.pdf` — https://masongaffney.org/essays/The_Red_and_the_Blue_04-12.pdf — CANDIDATE (minor): skimmed 2026-07-18. "Tenancy Rates and Voting Patterns" (2004) — an original political-economy observation (the red-state/blue-state income paradox explained by land/rent costs rather than nominal income) not covered elsewhere on the wiki. No registry row.
 - [x] `The_Sales_Tax--History_of_a_Dumb_Idea_3_2005.pdf` — https://masongaffney.org/essays/The_Sales_Tax--History_of_a_Dumb_Idea_3_2005.pdf — DECLINE (companion to WP084): skimmed 2026-07-18. Groundswell column tracing sales-tax history from the Physiocrats/Turgot through Charles I and James II; a popular-column companion to the more substantive WP084 "Salestax Suicides" listicle flagged above. No registry row.
 - [x] `What_Is_Consumption_10_2005.pdf` — https://masongaffney.org/essays/What_Is_Consumption_10_2005.pdf — DECLINE: skimmed 2026-07-18. Groundswell column (Oct 2005) arguing land-holding is a form of "consumption" NIPA fails to count; a compact restatement of the land-as-consumption argument touched elsewhere (E22/research/gaffney-land-as-element-of-housing-costs). No registry row.
-- [x] `Whats_the_Matter_with_Michigan.pdf` — https://masongaffney.org/essays/Whats_the_Matter_with_Michigan.pdf — CANDIDATE (strong, historical case-study cluster): read substantially 2026-07-18. A rich, detailed 2008 case study of Detroit/Michigan's Progressive-era high-wage, high-tax-supported auto-industry rise (Mayor Hazen Pingree) contrasted with its post-1994 (Governor Engler's property-tax-to-sales-tax school-finance shift) collapse — Congressional apportionment 19→15, the "Big 3" bankruptcy, and the Southfield 1960-70 stimulative-reform success story "scholars and politicians have studiously ignored." Companion to WP089 (Cleveland) and WP091 (Chicago) above; the single strongest candidate in the essays tranche, joining that historical-case-studies cluster.
+- [x] `Whats_the_Matter_with_Michigan.pdf` — https://masongaffney.org/essays/Whats_the_Matter_with_Michigan.pdf — **MINED 2026-07-18**, read in full (all 12 pages). See [research/gaffney-georgist-city-growth-cases](/wiki/gaffney-georgist-city-growth-cases/) (Detroit/Michigan section — by far the richest of the four, no prior wiki coverage) and the top-of-file entry; also folded as Pingree-mentorship delta onto [people/tom-l-johnson](/wiki/tom-l-johnson/).
 
 
 ## Tier decisions (T1, 2026-07-16 — wave 1)

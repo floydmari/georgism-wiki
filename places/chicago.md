@@ -38,6 +38,22 @@ Hoyt's own framing of the underlying mechanism, in his chapter on "The Chicago R
 
 The Great Chicago Fire of October 8–10, 1871 destroyed much of the city's central business district and residential areas. In Hoyt's periodization the Fire is not a discrete cycle of its own: it is treated inside chapter iii, "The Land Boom that Followed a Panic, a Civil War, and a Great Fire, 1863–77," in a section titled "The Great Fire of 1871 and the Period before the Panic of 1873" — an accelerant within the broader post–Civil War boom.[1] Far from ending that boom, "the great fire of October 9, 1871" was followed by continued increases in the value of outlying lands and a market that crested at "the peak of 1873"; the aggregate value of Chicago land then fell from $575 million at that peak to approximately $250 million in 1877 after the Panic of 1873.[1]
 
+## Gaffney's 1890s Growth Case
+
+Separately from Hoyt's data, Mason Gaffney's workpaper "Chicago's Growth Spurt, 1890-1900"
+argues Chicago's **54% population growth** in that decade (a figure he himself flags as
+"complicated by annexation") coincided with a single-tax-adjacent political network rather than
+a single reforming mayor: Governor John Peter Altgeld's administration, Mayor Edward F. Dunne
+(who later brought Cleveland's Tom Johnson in as an adviser), and the Illinois Bureau of Labor
+Statistics's 1894 8th Annual Report, which published Lorenz-curve data on landownership
+concentration in the Loop that Gaffney calls unique among American cities.[7] **Gaffney's own
+verdict on this case is a hedge, not a confident claim**: he writes that the evidence "does not
+fully add up... to a definitive showing that a city administration consciously shifted taxes to
+land values, as in Toledo, Cleveland, New York, Detroit, and Milwaukee. More research into
+Chicago's political history is needed." Full detail, and the same caveat, are carried on this
+wiki's [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/)
+page.
+
 ## Relation to the Georgist Case
 
 Hoyt's study is a **historical-empirical source for the premise that land markets exhibit a recurring speculative boom-bust cycle** — the phenomenon that the Georgist land-cycle tradition built on. [Fred Harrison](/wiki/fred-harrison/) drew directly on Hoyt's Chicago chronology in *The Power in the Land* (1983) and *Boom Bust* (2005) to argue the same land-and-credit rhythm recurs in modern economies, using it to forecast the [2008 financial crisis](/wiki/2008-financial-crisis/).[3][5] [Fred Foldvary](/wiki/fred-foldvary/) independently reached a similar forecast in 1997, writing that "the next major bust, 18 years after the 1990 downturn, will be around 2008."[6]
@@ -60,6 +76,7 @@ It is important to be precise about what this study does **not** do. **Hoyt's di
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the general concept of recurrent economic cycles
 - [Fred Harrison](/wiki/fred-harrison/) — popularised Hoyt's findings as a forecasting tool
 - [2008 Financial Crisis](/wiki/2008-financial-crisis/) — the crash forecast using Hoyt-derived cycle analysis
+- [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — Gaffney's separate 1890s growth-and-politics case for Chicago, including his own hedge on its evidentiary strength
 
 ## Sources
 
@@ -69,3 +86,4 @@ It is important to be precise about what this study does **not** do. **Hoyt's di
 4. Progress.org, "The 18-Year Pattern Predicting 2027's Market Crash" — via this wiki's [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/) research page — used for the commonly-cited Chicago peak-year list (1836, 1856, 1872, 1890, 1925) attributed to Hoyt's study. That list has now been confirmed directly against Hoyt's primary text (source 1, p. 391), with the caveats noted in the body: Hoyt dates the land-value (as opposed to subdivision) peaks of the third and fifth cycles to 1873 and 1926, and the intervals between peaks are irregular (roughly 20, 16, 18, and 35 years).
 5. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 2005. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for Harrison's use of Hoyt's Chicago data to build the modern 18-year cycle forecasting tradition.
 6. Fred Foldvary, "The Business Cycle: A Georgist-Austrian Synthesis," *American Journal of Economics and Sociology* 56(4), 1997, pp. 521–541. [JSTOR](https://www.jstor.org/stable/3487330) — used for Foldvary's 1997 prediction of the 2008 bust (quotation under 50 words).
+7. Mason Gaffney, "Chicago's Growth Spurt, 1890-1900" (workpaper WP091, undated) — read in full; used for the 54% 1890-1900 growth figure and its annexation caveat, the Altgeld/Dunne network, the 1894 Illinois Bureau of Labor Statistics Loop study, and Gaffney's own hedge on the case's evidentiary strength. Full detail on this wiki's [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) page.

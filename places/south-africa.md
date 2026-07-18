@@ -19,6 +19,21 @@ For much of the twentieth century, South African municipalities rated property u
 
 After the end of apartheid, the Katz Commission — a tax-reform commission appointed by the new government — examined whether South Africa should adopt a national or rural land tax. Its **Eighth Interim Report**, *The Implications of Introducing a Land Tax in South Africa* (signed at Johannesburg in September 1998; briefed to Parliament's Finance Committee on 21 September 1999), concluded that a land tax could be a good revenue source, especially at local government level, but identified **limited administrative capacity to value and collect the tax**, particularly on communal and tribal land — where the report notes "market values could not be ascertained" and mass valuation of use values would be required — as the main obstacle to implementation.[2][3] The Commission set out "minimum requirements" a land tax would need to meet — including that the taxing authority be local, not national — but the recommendation was not enacted into a comprehensive land tax; subsequent policy discussions, including a 2017 land-audit report and ongoing National Treasury analysis, have continued to raise a land value tax as an option for funding land reform without it being adopted.[3][4]
 
+## Gaffney's Johannesburg-Cape Town Comparison
+
+Mason Gaffney's workpaper "Enterprising Johannesburg and Sleepy Cape Town: A Contrast" (undated,
+c. 1991–92) argues Johannesburg's site-value-only property tax (which he reports, unverified, at
+a 4% rate) explains why the city rose to become South Africa's economic capital despite no
+natural site advantages — no harbor, exhausted gold mines, poor surrounding farmland — while
+Cape Town, with a far superior natural site and the national legislative capital, "subsists
+without that benefit" and shows urban sprawl and a blighted, underused downtown.[6] This is a
+distinct, more causally ambitious claim than the administrative site-value-rating history above,
+and Cape Town has no dedicated page of its own on this wiki; the argument's confounders
+(apartheid-era Group Areas Act spatial planning, each city's distinct economic role) are carried
+in full on this wiki's [Gaffney's Georgist City-Growth Case
+Studies](/wiki/gaffney-georgist-city-growth-cases/) page as attributed historical argument, not
+independently corroborated evidence.
+
 ## Significance
 
 South Africa shows that long, granular experience administering site-value rating at the municipal level does not automatically translate into political traction for land taxation at the national scale — administrative capacity and land-tenure complexity (particularly communal and tribal landholding) were the specific obstacles cited by the government's own commission, not a rejection of the underlying economic case.[2] The Commission's recommendation was in any case confined to a *rural* land tax administered locally, and no dedicated post-2000 study isolates why even that limited recommendation was never enacted; the country's trajectory in fact ran the other way, as Riël Franzsen's 2003 survey of property taxation across the Southern African Development Community records South Africa moving toward a combined land-and-improvements base under the framework legislation that became the 2004 Municipal Property Rates Act.[5]
@@ -30,6 +45,7 @@ South Africa shows that long, granular experience administering site-value ratin
 - [Land Value Tax Can Be Progressive](/wiki/land-value-tax-can-be-progressive/) — the distributional argument the Katz Commission weighed
 - [Brueckner, Site Value Taxation (research)](/wiki/brueckner-site-value-taxation/) — the theoretical case for the system South Africa partly abandoned in 2004
 - [Hong Kong](/wiki/hong-kong/) — a contrasting case of land-value capture sustained at national scale
+- [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — Gaffney's Johannesburg-vs-Cape-Town growth-causation argument
 
 ## Sources
 
@@ -38,3 +54,4 @@ South Africa shows that long, granular experience administering site-value ratin
 3. National Treasury / GTAC (Government Technical Advisory Centre), *Policy Discussion About a Land Tax: Opportunities and Pitfalls* (presentation) — used for summarizing the Katz Commission Eighth Interim Report's "minimum requirements" for a land tax, its administrative-capacity conclusion, and the Municipal Property Rates Act's current land-and-buildings tax base (A-claim; South African government source). [PDF](https://www.gtac.gov.za/wp-content/uploads/2022/02/Policy-Discussion-About-Land-Tax.pdf)
 4. South Africa, *Land Audit Report* (November 2017) — used for the post-Katz recommendation to fund a Land Reform Fund partly through a land value tax under the Municipal Property Rates Act (B-claim, secondary reference within source 3's briefing).
 5. Riël C.D. Franzsen (2003), *Property Taxation within the Southern African Development Community (SADC): Current Status and Future Prospects of Land Value Taxation — Botswana, Lesotho, Namibia, South Africa and Swaziland*, Lincoln Institute of Land Policy Working Paper WP03RF1 — [Lincoln Institute PDF](https://www.lincolninst.edu/app/uploads/2024/04/franzsen-wp03rf1.pdf) — read this session; used as a post-2000 academic account confirming that site-value rating persisted in roughly a third of South African municipalities (including Johannesburg and Tshwane) while national framework legislation was already moving the country toward a capital-improved-value base, the trajectory that became the 2004 Municipal Property Rates Act.
+6. Mason Gaffney, "Enterprising Johannesburg and Sleepy Cape Town: A Contrast" (workpaper WP077, undated, c. 1991-92) — read in full; used for the Johannesburg-Cape Town growth-comparison argument. Full detail and confounders on this wiki's [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) page.

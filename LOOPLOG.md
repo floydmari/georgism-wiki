@@ -1733,3 +1733,21 @@ Guatemala/Iran cases — priority notes added to both military pages per the
 no-re-derivation pattern; read ~20% + structure (Sections D-G surveyed only,
 redundant with existing coverage — recorded, not hidden). Registry +3 rows;
 triage annotations resolved; inventory regenerated. 885 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Georgist city-growth cluster (4 works, one cluster page)
+
+research/gaffney-georgist-city-growth-cases.md created (886th page) — WP089
+Cleveland (1pp), WP091 Chicago (2pp), WP077 Johannesburg/Cape Town (2pp, c.
+1991-92), and the Nov-2008 Groundswell Michigan essay (12pp, the only genuinely
+uncovered work). Shape rationale recorded: WP089/091 are the unabridged notes
+behind capsules already on new-life-in-old-cities; WP077's triage note ("no
+dedicated page") was WRONG — two anchor pages existed; the cluster coheres via
+the Pingree→Johnson/Baker lineage visible only read together. Honesty ledger:
+Chicago's 54% growth annexation-caveated AND Gaffney's own "doesn't fully add
+up... more research is needed" hedge preserved; Southfield boom carried WITH
+Oldman's white-flight rebuttal (which Gaffney disputes but doesn't refute with
+data); the "4%" Johannesburg rate flagged as Gaffney's "they tell me," not fact;
+auto-industry trajectory and Group Areas Act named as unaddressed confounders;
+NOTHING added to supported_by anywhere. Deltas to tom-l-johnson, chicago,
+johannesburg-site-value-rating, south-africa. Registry +4 rows; triage
+candidates struck; inventory regenerated. 886 pages, lint 0 errors.
