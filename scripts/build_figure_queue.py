@@ -191,6 +191,16 @@ def main():
         ("benefits/lvt-can-replace-capital-taxes-without-efficiency-loss.md",
          "bonnet-land-is-back"):
             "Fig 1 shows wealth ratios, not the efficiency-swap result (wave 6)",
+        ("benefits/lvt-improves-housing-affordability.md", "glaeser-gyourko-housing-supply"):
+            "regulation price-cost gap ≠ the LVT-affordability claim (wave 9)",
+        ("problems/speculative-vacancy-wastes-cities.md", "hoyt-chicago-land-values"):
+            "century cycles ≠ vacancy claim (wave 9)",
+        ("problems/speculative-vacancy-wastes-cities.md", "gyourko-krimmel-zoning-tax"):
+            "zoning tax ≠ vacancy claim (wave 9)",
+        ("benefits/lvt-dampens-land-speculation.md", "hoyt-chicago-land-values"):
+            "cycle history ≠ LVT-dampens-speculation claim (wave 9)",
+        ("benefits/lvt-dampens-land-speculation.md", "dors-land-taxes-housing-prices"):
+            "capitalization evidence ≠ speculation-dampening claim (wave 9)",
     }
 
     # re-embed placement candidates: evidence pages wired to figure-bearing entries

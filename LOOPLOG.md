@@ -993,3 +993,13 @@ unaltered crops in one <figure>; the match IS the claim, so a single map couldn'
 Stamps: korinek-stiglitz-ai-rents (theory, no figures), wealth-of-nations (1776 text),
 stiglitz-theory-local-public-goods (1977 theory), guettabi (blocked, wayback returns text).
 Queue 289 open; 15 source entries + 6 evidence pages figured.
+
+**Wave 9 (2026-07-18f):** re-embed kss-fig27 → problems/rising-land-costs-drive-poverty
+(caption explicitly scoped to the land-cost link, matching the page's component-level
+framing). Four placements REJECTED on anchor grounds (GG fig3 ≠ LVT-affordability claim;
+hoyt/gyourko-krimmel/dors ≠ vacancy or speculation-dampening claims) — recorded in
+REJECTED_PLACEMENTS. Schwerhoff rent-taxation survey no-chart (definitional diagrams).
+Big honest genre sweep: 20 prose sources (biographies, pre-1931 texts, essay collections)
+no-chart; 12 in-copyright chart-bearing books blocked:book-scan → the Hermes lane;
+guettabi + martinez blocked on gated fetches. Queue 257 open, 3 re-embed placements left;
+22 pages carry figures.
