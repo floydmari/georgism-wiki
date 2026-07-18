@@ -63,6 +63,7 @@ These are **advocacy-institute simulation studies**, not independent or peer-rev
 - [Bowman & Bell — Distributional Consequences of Converting the Property Tax to a Land Value Tax](/wiki/bowman-bell-lvt-distribution/)
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Objection: LVT hurts the "asset-rich, cash-poor"](/wiki/lvt-hurts-asset-rich-cash-poor/)
+- [Notre Dame SPN's Cincinnati LVT Analysis (2026)](/wiki/ndspn-cincinnati-lvt-analysis/) — the same SPN/CLE partnership's third parcel simulation, this time for a full city rather than a college town
 
 ## Sources
 

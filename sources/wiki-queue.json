@@ -11,15 +11,19 @@
     "sources/slack-research-triage-2026-07-14.json for the pattern), and mark items",
     "consumed by moving them to the 'consumed' array with a verdict."
   ],
-  "queue": [
+  "queue": [],
+  "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
       "source": "external-agent (relayed by Floyd from /workspace/wiki-queue.json #423)",
       "author": null,
       "date": "2026-07-17",
       "context": "Cincinnati report - landeconomics.blob.core.windows.net",
-      "topics": []
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/ndspn-cincinnati-lvt-analysis/",
+      "triage_date": "2026-07-18",
+      "notes": "Triage + full scan completed (text extraction plus PDF figure/table review for chart data pdftotext dropped). \"From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio\" (Notre Dame Student Policy Network, in partnership with the Center for Land Economics, 15 July 2026) — a revenue-neutral 4:1 split-rate LVT parcel simulation for Cincinnati, OH, occasioned by Ohio SJR 7. Graded tier: supplementary (undergraduate student report with an advocacy-institute partner, not peer-reviewed; third in the SPN/CLE parcel-simulation series after South Bend and Princeton). Created research/ndspn-cincinnati-lvt-analysis.md; wired one-line mention into organizations/center-for-land-economics.md and cross-linked research/miller-hoskins-college-town-lvt.md, research/oates-schwab-pittsburgh.md, places/pittsburgh.md, places/pennsylvania.md, places/new-south-wales.md, places/australia.md. Not added to benefits/split-rate-increases-construction.md's supported_by (prospective simulation, not new independent evidence, per the delta rule and the precedent set by the sibling South Bend/Princeton reports). No places/cincinnati.md page created (does not clear the ≥2-inbound-link accept bar on its own). registry.csv row added."
     }
-  ],
-  "consumed": []
+  ]
 }
