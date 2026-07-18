@@ -1,3 +1,21 @@
+> **Triage outcome (T2 wave, 2026-07-18): all 14 names in this TODO are now resolved.**
+> The 10 resolved in earlier waves (pages exist in `people/`): Robert V. Andelson,
+> Peter Barnes, Herman E. Daly, Pete Daniel, Charles Albro Barker, J.M. Neeson,
+> Stuart Banner, Phillip Bryson, Ebenezer Howard, Martin Adams.
+> This wave triaged the remaining 4 (the TODO's already-corrected names — see
+> per-entry notes below) and confirmed all clear the people-page accept bar
+> (EDITORIAL §311 stub standard): each is the identified author/editor of a book
+> already carrying a `books/` page in this wiki, with independently corroborated
+> biographical sourcing (no fabrication) and a real Key Ideas/Contributions section
+> tied to that book. All 4 already had non-stub `people/` pages from a prior wave
+> (commit `52ce8c7`), verified sound on review — no page content changed this wave:
+> - **Ronald Burgess** (`people/ronald-burgess.md`) — accept, page exists.
+> - **Richard Noyes** (`people/richard-noyes.md`) — accept, page exists.
+> - **Eric Goldman** (`people/eric-goldman.md`) — accept, page exists.
+> - **David Redfearn** (`people/david-redfearn.md`) — accept, page exists.
+>
+> Nothing left in this TODO requires action. Filed as consumed.
+
 # T1 Agent TODO: People Pages from Book Scanning
 
 ## Context

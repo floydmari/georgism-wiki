@@ -93,11 +93,12 @@ commit+push+preview — publishing is Floyd's process.
       COST self-assessment evidence, symmetry/decrement objection's best academic statement.
 
 ### Public-domain texts program (sources/public-domain-texts.md; 12 texts/ pages live)
-- [ ] [READ&MINE] tier:T2 status:todo — NEXT TARGET: Henry George Jr., *The Life of Henry
-      George* (1900), archive.org lifeofhenrygeorg00geor — book-length, so
-      `sources/publicdomain/` channel (not texts/); already cited as primary on 3+ pages.
-      Then per the file's list: Mill Principles (Gutenberg 30107), Progress & Poverty
-      (55308), Garden Cities (46134), Pigou Welfare (Econlib), Hoyt 1933 (check renewal).
+- [ ] [READ&MINE] tier:T2 status:in-progress — *Life of Henry George* DONE (ingested in a
+      prior shift; ledger reconciled + citations verified drift-free + mined 2026-07-18:
+      vote tallies/"first skirmish" wired into events/1886-nyc-mayoral-election, the 1892
+      Standard statement into narratives/single-tax-narrative). NEXT TARGET per the file's
+      list: Mill Principles (Gutenberg 30107), then Progress & Poverty (55308), Garden
+      Cities (46134), Pigou Welfare (Econlib), Hoyt 1933 (check renewal).
 
 ---
 
