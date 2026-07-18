@@ -25,6 +25,8 @@ supported_by:
 - gaffney-alaska-oil-leasing
 - gaffney-forest-taxation
 - gaffney-montana-land-policy
+- gaffney-extractive-resources-taxation
+- gaffney-mineral-leasing-tax-reform
 tags:
 - outcomes
 - resource-rents
@@ -157,6 +159,40 @@ tax, but one built on the extraction-only base Gaffney's later, more developed
 California work explicitly argues against in favor of taxing the resource's value
 in place.[9]
 
+## A Sixth and Seventh Mode — Weak Leasing Design and Tax-Code Leakage
+
+Norway, Botswana, Alaska, Montana, and the Forest Service all involve a
+government that owns, or is deciding how to lease, the resource itself.
+**Two further Gaffney essays document rent leaking away through
+institutional channels that do not require public ownership to fail.**
+His mid-1970s essay on Canadian Crown-land leasing, ["Objectives of
+Government Policy in Leasing Mineral Lands,"](/wiki/gaffney-mineral-leasing-tax-reform/)
+names eight specific leasing-design errors a provincial landlord commits
+before a resource windfall is even realized — overdecentralization (subsidizing
+premature, dispersed mine development), overdelegation to a single giant
+lessee, overallowance for alleged risk, overadmission of prospectors under
+open access, underpricing to domestic consumers, confusion of rent with
+profit, overlooking taxation of nonmining activity, and overconsolidation
+of accounts that lets rich and poor deposits' books hide each other — a
+sixth failure mode distinct from the leasing-instrument choice (bonus bid
+vs. royalty vs. ad valorem charge) Alaska's report addresses, because it
+diagnoses errors that persist *within* any single instrument.[14] His
+companion 1982 essay, ["Oil and Gas: The Unfinished Tax
+Reform,"](/wiki/gaffney-mineral-leasing-tax-reform/) shows a **seventh**
+mode operating even where government does not own the resource at all:
+the **US federal income tax code** lets private oil-and-gas lessees
+retain rent that would otherwise flow to the Treasury, led by a loophole
+Gaffney says the reform literature had entirely missed — roughly 80% of
+the true cost of lease acquisition (the four-fifths of exploratory leases
+that prove dry) is expensed as an ordinary loss through leasehold
+abandonment, rather than capitalized as part of the one producing lease's
+real acquisition cost.[15] Read together, the two essays show that
+"capture works" requires getting both the leasing terms *and* the
+ordinary tax code right — a government can own its minerals wisely and
+still lose rent to tax-code leakage on the private production it does not
+directly control, or fail before that stage through avoidable leasing
+errors.
+
 ## Why It Isn't Automatic — the Resource Curse
 
 The general result is more sobering, and the page states it plainly. [Sachs and Warner's](/wiki/sachs-warner-resource-curse/)
@@ -262,6 +298,8 @@ necessary; the institutions are what make it sufficient.
 - [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the design-stage case, written as the Permanent Fund was created
 - [Gaffney: Alternative Ways of Taxing Forests / Greater Social Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — the renewable-resource, chronic-non-capture case (US Forest Service)
 - [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — the concentrated-absentee-leasing-plus-weak-instrument case (coal)
+- [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Crown-land leasing-design errors and US federal oil-tax-code leakage, two further failure modes
+- [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — early (1967) empirical anchor for the scale of capturable rent in extractive industries
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -337,4 +375,16 @@ necessary; the institutions are what make it sufficient.
     [PDF](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf)
     — used for the 1970 federal coal-lease concentration figure and the critique
     of Montana's extraction-only yield tax (conference address, not peer-reviewed;
+    corroborating, not load-bearing).
+14. Mason Gaffney, "Objectives of Government Policy in Leasing Mineral Lands"
+    (c. 1975) — [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) ·
+    [PDF](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf)
+    — used for the eight named Crown-land leasing-design errors (advocacy essay
+    for a Canadian provincial audience, not peer-reviewed; corroborating, not
+    load-bearing).
+15. Mason Gaffney (1982), "Oil and Gas: The Unfinished Tax Reform" —
+    [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) ·
+    [PDF](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf)
+    — used for the US federal income-tax loophole catalogue, led by the
+    leasehold-abandonment deduction (advocacy essay, not peer-reviewed;
     corroborating, not load-bearing).

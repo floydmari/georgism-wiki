@@ -1447,3 +1447,27 @@ never re-litigates. BACKLOG cohesion item fully closed. No anchor breaks (no
 heading edits). 868 pages, lint 0 errors, warnings unchanged — audit-grade no-op
 where the corpus was already right, which is the correct outcome for a
 normalization pass on a well-maintained corpus.
+
+## 2026-07-18 (cont.) — Wave: Gaffney extractive-resources cluster (B1 volume + B4/B13 pair)
+
+research/gaffney-extractive-resources-taxation.md (869th) — the 1967 TRED volume
+bookends (26pp intro + 117pp conclusion, native text): STRICT-DELTA catch of the
+wave — the ripeness/Figure C.4 timing theory turns out to be THIS essay, reused by
+Gaffney as the Alaska report's appendix a decade later; recognized and
+cross-referenced, NOT re-derived. Page carries what's genuinely new: the 1967
+property-tax-vs-income-tax instrument comparison for exhaustibles + nine-reason
+exploration-overmotivation taxonomy; strong-hands mechanism flagged as third
+occurrence (corroboration only). Gray's reprinted 1914 QJE piece not summarized
+(not Gaffney's work). research/gaffney-mineral-leasing-tax-reform.md (870th) —
+B4+B13 combined as companion rent-leakage essays: B4's eight Crown-leasing errors,
+Rent=Profit−Interest identity, BNA s.125 discussion (publication year unconfirmed,
+[VERIFY], dated ~mid-70s from internal Turner-budget evidence); B13's 1982 US
+loophole catalogue, strongest delta the ~80%-of-lease-cost-expensed-via-
+abandonment mechanism absent from the capital-gains page. B13 mirror was another
+ampersand 404-stub (%26 fix now confirmed generalizing across 5 files). B13's
+factual figures honestly attributed to Gaffney's own trade-press citations, not
+independently verified; neither paper claims econometric revenue estimates.
+Wired: resource-rents (2 subsections), resource-rent-capture-works (modes 6-7 +
+supported_by), capital-gains page, mason-gaffney. Registry +4 rows; triage rows
+checked. 870 pages, lint 0 errors. (T3 batch-two agent still in flight; inventory
+regen deferred to wave close.)

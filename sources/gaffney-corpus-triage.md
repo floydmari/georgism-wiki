@@ -203,6 +203,53 @@ gaffney-land-distinctive-factor row's Scan Depth upgraded Light -> Heavy (closin
 the open Core-tier/Light-scan gap EDITORIAL's Scan Depth policy flags); one new row
 added for D1.
 
+**2026-07-18 (EXTRACTIVE-RESOURCES cluster, T2 wave):** Four publications read —
+B1 (Editor's Introduction + Conclusion to *Extractive Resources and Taxation*,
+1967), B4 ("Objectives of Government Policy in Leasing Mineral Lands," a
+Canadian Crown-land leasing essay), and B13 ("Oil and Gas: The Unfinished Tax
+Reform," 1982) — drafted onto two new pages per the delta rule: B1 alone on
+[research/gaffney-extractive-resources-taxation](/wiki/gaffney-extractive-resources-taxation/)
+and B4+B13 combined (both proved substantive, not fragments — companion
+essays on the same theme of institutional rent leakage from two channels,
+leasing design and tax law) on
+[research/gaffney-mineral-leasing-tax-reform](/wiki/gaffney-mineral-leasing-tax-reform/).
+Key finding on B1: the 1977 Alaska report's appended timing theory (Figure
+C.4, the "ripeness" criterion — already wired via
+[gaffney-alaska-oil-leasing](/wiki/gaffney-alaska-oil-leasing/)) turns out to
+be *this same 1967 essay*, reused by Gaffney as a theoretical appendix a
+decade later — so that material was **not** re-derived on the new page,
+strictly applying the delta rule; the page instead covers B1's genuinely
+uncovered content: a systematic property-tax-vs-income-tax instrument
+comparison for exhaustible resources (Gaffney's earliest, 1967, academic
+resource-tax treatment) and a nine-reason taxonomy of why institutions
+overmotivate exploration. B4's eight named Crown-land leasing errors include
+a formal rent/profit accounting identity (`Rent = Profit − Interest`) and
+engage Canadian constitutional law (BNA Act s.125) directly — unique among
+the wiki's Gaffney corpus for its Canadian-provincial framing. B13's
+strongest original contribution is a set of three "invisible" US federal
+tax loopholes Gaffney says the reform literature had entirely missed, led
+by **leasehold abandonment**: because roughly four-fifths of exploratory
+leases prove dry, and their cost is expensed as an ordinary loss rather than
+capitalized as part of the one producing lease's true acquisition cost, "some
+80% of the de facto cost of land acquisition is expensed at an early date" —
+a genuine delta against the wiki's existing general land-gains-thesis page,
+[gaffney-capital-gains-free-enterprise](/wiki/gaffney-capital-gains-free-enterprise/),
+which does not cover oil/gas-specific mechanics (depletion, abandonment,
+leasehold churning). B13's mirror filename has the same literal-ampersand
+problem as D1/E11/E12/B5 (236-byte cached 404 stub); fetched directly from
+masongaffney.org with `%26` percent-encoding, confirming the fix generalizes.
+Wired (delta additions, not restatement) into concepts/resource-rents (two
+new subsections: the instrument-comparison/overmotivation taxonomy, and the
+leasing-design/tax-code rent-leakage pair) and benefits/resource-rent-capture-works
+(a sixth and seventh institutional-failure mode, distinct from the five
+already there — leasing-design errors that persist within any instrument
+choice, and federal tax-code leakage that operates even where government
+does not own the resource). The "strong hands" credit-concentration
+mechanism recurs a third time in B1 (applied to extractive resources) but
+was explicitly *not* wired as new evidence — flagged as corroboration only,
+per the delta rule already applied on concepts/land-monopoly to the same
+mechanism from C9/D1/E12.
+
 ## Inventory (masongaffney.org, fetched 2026-07-16: 190 files)
 
 ### /publications/ (87)
@@ -213,10 +260,10 @@ added for D1.
 - [x] `A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf` — https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf — combined with A3 into [research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/), 2026-07-18. Western Timber Association address, March 4, 1977.
 - [x] `B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf — [research/gaffney-alaska-oil-leasing.md](/wiki/gaffney-alaska-oil-leasing/#part-ii-the-appendices-a-l), 2026-07-18. Image-scan PDF (155 pages), no usable text layer; OCR'd this session (`pdftoppm -r 200` + Tesseract 5.3.4) to `sources/gaffney/text/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.txt`. Twelve appendices A-L: Gaffney's own worked AVC/DCF numerical examples and Alaska leaseholder-concentration data (A, B, C, H, I, J, K), plus three independently authored contributed papers (Crommelin on non-competitive leasing abroad, D; Norgaard's Cook Inlet bonus-bid regression, E; three Rooney papers on royalty design, exploration-expenditure bidding, and profit-share bidding, F/G/L). No contributor dissent from the AVC recommendation found. Resolves the `[VERIFY: Part II not yet read]` flag carried on the page since 2026-07-17.
 - [x] `B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf` — https://masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf — [research/gaffney-alaska-oil-leasing.md](/wiki/gaffney-alaska-oil-leasing/), 2026-07-17. Part II (Appendices A-L, line above) covered 2026-07-18.
-- [ ] `B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf` — https://masongaffney.org/publications/B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf
-- [ ] `B1Extractive_Resources_Conclusion.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf
-- [ ] `B1Extractive_Resources_Intro.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf
-- [ ] `B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf` — https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf
+- [x] `B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf` — https://masongaffney.org/publications/B13-Oil&amp;GasUnfinishedTaxReform.CV.pdf — combined with B4 into [research/gaffney-mineral-leasing-tax-reform](/wiki/gaffney-mineral-leasing-tax-reform/), 2026-07-18. 1982 US federal oil-and-gas tax-loophole catalogue. Mirror filename has a literal ampersand (same problem as D1/E11/E12/B5); local mirror held only a 236-byte cached 404 stub — fetched directly from masongaffney.org with `%26` percent-encoding.
+- [x] `B1Extractive_Resources_Conclusion.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf — combined with B1 Intro into [research/gaffney-extractive-resources-taxation](/wiki/gaffney-extractive-resources-taxation/), 2026-07-18. Editor's Conclusion to the 1967 TRED volume (~90pp); native text, no OCR needed.
+- [x] `B1Extractive_Resources_Intro.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf — [research/gaffney-extractive-resources-taxation](/wiki/gaffney-extractive-resources-taxation/), 2026-07-18. Editor's Introduction to *Extractive Resources and Taxation* (1967, U. Wisconsin Press, TRED symposium); native text, no OCR needed.
+- [x] `B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf` — https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf — combined with B13 into [research/gaffney-mineral-leasing-tax-reform](/wiki/gaffney-mineral-leasing-tax-reform/), 2026-07-18. Canadian Crown-land mineral-leasing policy essay (undated, mid-1970s internal evidence); native text, no OCR needed.
 - [x] `B5Soil_Depletion_&amp;_Land_Rent.CV.pdf` — https://masongaffney.org/publications/B5Soil_Depletion_&amp;_Land_Rent.CV.pdf — [research/gaffney-soil-depletion-land-rent](/wiki/gaffney-soil-depletion-land-rent/), 2026-07-18. Actually *Natural Resources Journal* 4(3): 537-557 (Jan. 1965), not undated as filename implies. Wired into objections/land-is-just-capital (Response point 5 + Limits caveat cross-reference). Note: the R2 mirror at this ampersand-containing key 404s (see `[VERIFY]` on the page) — masongaffney.org direct link and the UNM Digital Repository (open-access journal host) are the working free/legal sources.
 - [ ] `C2-LandandRentinWelfareEconomics.CV.pdf` — https://masongaffney.org/publications/C2-LandandRentinWelfareEconomics.CV.pdf — read 2026-07-18 (native text, 27pp, no OCR needed) but declined a page this wave in favor of C9 and D1 (see LAND-THEORY cluster ledger entry below); confirmed via C9's own bibliography as Gaffney, "Land and Rent in Welfare Economics," in Clawson, Harriss & Ackerman (eds.), *Land Economics Research* (Johns Hopkins UP, 1962), pp. 141-67 — a philosophical essay on reintegrating land economics and welfare economics, largely conceptual/programmatic rather than data-driven; candidate for a future wave, possibly folded into concepts/economic-rent or a Gaffney historiography page rather than a standalone research page given overlap with gaffney-land-distinctive-factor and gaffney-neoclassical-stratagem.
 - [ ] `C4-UnwieldyTime-DimensionofSpace.CV.pdf` — https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf

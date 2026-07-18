@@ -117,6 +117,67 @@ extraction. (D-claims: design and incidence arguments and historical
 illustrations in a conference address, not econometric estimates — see the
 [full page](/wiki/gaffney-montana-land-policy/) for the honest scope caveats.)
 
+## Optimal Instrument Design — Gaffney's 1967 Property-Tax-vs-Income-Tax Comparison
+
+Five years before his urban-rent essays, Gaffney's earliest systematic academic
+treatment of resource-rent taxation — his introduction and closing synthesis for
+[*Extractive Resources and Taxation*](/wiki/gaffney-extractive-resources-taxation/)
+(1967), the TRED symposium volume he edited — works through a point-by-point
+comparison of the three practical instruments for taxing exhaustible-resource
+rent: an income tax with expensing, a modified property tax on in-situ reserve
+value, and outright government ownership. He argues the income tax fails on six
+practical grounds (it cannot discriminate by tenure condition, penalizes new
+undiversified firms, blurs the rent/managerial-competence distinction at high
+rates, misses unincorporated owners, invites disguising land payments as
+productive outlays, and requires reconstructing decades of capital-outlay
+records at transition), while a property tax on in-situ value — applied even
+*before* discovery, to "leasability" value — automatically discriminates by
+tenure and forces rather than merely permits exploration, because "the tenure
+instrument itself is the tax base." He judges government ownership worst on
+efficiency grounds despite endorsing it as workable in principle, citing
+Alberta and OPEC as owner-governments whose ownership produced cartel behavior
+rather than efficient extraction. (D-claim: theoretical/design argument in an
+edited-volume closing essay, not an econometric estimate — see the [full
+page](/wiki/gaffney-extractive-resources-taxation/) for the complete argument
+and honest scope caveats.)
+
+The same essay supplies a **nine-reason taxonomy of why institutions
+overmotivate exploration** — open access to undiscovered minerals, preclusive
+acquisition for market power, duplication forced by vertical integration,
+cartel price umbrellas, prorationing's inflexibility, the leverage of private
+over public investment (including military protection of overseas
+concessions), the publicity value of discovery to credit markets, management
+self-aggrandizement, and direct tax favors — a mechanism-level account of the
+exploration-timing distortions complementing the leasing-stage failures
+documented on [benefits/resource-rent-capture-works](/wiki/resource-rent-capture-works/).
+
+## Two Institutional Channels for Rent Leakage — Gaffney on Canadian Leasing and US Oil Tax Law
+
+Gaffney's [essay on Crown-land mineral leasing](/wiki/gaffney-mineral-leasing-tax-reform/)
+(mid-1970s, written for a Canadian provincial audience) catalogues eight named
+leasing-design errors that dissipate rent before it reaches the public
+landlord — overdecentralization, overdelegation to a single giant lessee,
+overallowance for alleged risk, overadmission of prospectors under open
+access, underpricing to domestic consumers, confusion of rent and profit,
+overlooking taxation of nonmining activity, and overconsolidation of
+accounts — formalizing the rent/profit distinction algebraically:
+`Rent = Cash Flow − Capital Recovery = Profit − Interest`, so that on a
+marginal deposit rent is zero even where profit (the return to capital)
+remains substantial. His companion 1982 essay, ["Oil and Gas: The Unfinished
+Tax Reform"](/wiki/gaffney-mineral-leasing-tax-reform/), shows the same
+leakage occurring through a different channel — the **US federal income tax
+code** — even where government does not itself own the resource: beyond the
+well-known percentage-depletion and intangible-drilling-cost preferences, he
+documents three "invisible" loopholes the reform literature had missed,
+led by **leasehold abandonment**, where roughly 80% of the de facto cost of
+lease acquisition (the four-fifths of exploratory leases that prove dry) is
+expensed as an ordinary loss rather than capitalized as part of the
+producing lease's true acquisition cost — "the weightiest question in oil
+tax law, in dollar values." (D-claims: design and tax-policy arguments in
+advocacy essays, not econometric estimates — see the [full
+page](/wiki/gaffney-mineral-leasing-tax-reform/) for the complete taxonomy
+and honest scope caveats.)
+
 ## Book Findings
 
 ### Barnes: Rent Capture for Common Assets
@@ -151,6 +212,8 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Gaffney (1957): Concepts of Financial Maturity of Timber and Other Assets](/wiki/gaffney-financial-maturity-timber/) — the underlying site-value-tax neutrality result
 - [Gaffney (1965): Soil Depletion and Land Rent](/wiki/gaffney-soil-depletion-land-rent/) — exhaustible-resource rent theory and the ad valorem/severance design principle
 - [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — absentee ownership, concentrated federal coal leasing, and a land-value-tax counter-colonial prescription
+- [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — the property-tax-vs-income-tax instrument comparison and the nine-reason overmotivated-exploration taxonomy
+- [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Canadian Crown-land leasing errors and US federal oil-tax loopholes as two distinct rent-leakage channels
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
@@ -165,3 +228,5 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 8. Mason Gaffney (1965), "Soil Depletion and Land Rent," *Natural Resources Journal* 4(3) — used for the exhaustible-resource rent theory and the ad-valorem-to-severance-as-exhaustion-nears design principle (C-claim, peer-reviewed law journal). [wiki summary](/wiki/gaffney-soil-depletion-land-rent/) · [PDF](https://masongaffney.org/publications/B5Soil_Depletion_%26_Land_Rent.CV.pdf)
 9. Mason Gaffney (1980/1977), "Alternative Ways of Taxing Forests" and "Greater Social Benefits From our National Forests" — used for the private forest tax-base comparison (property/site-value/yield/income) and the National Forests public-lands rent-capture argument (D-claims, advocacy essay/address). [wiki summary](/wiki/gaffney-forest-taxation/) · [PDF (A3)](https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf) · [PDF (A5)](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)
 10. Mason Gaffney (1977), "Counter-colonial Land Policy for Montana," *Western Wildlands: A Natural Resource Journal* — used for the absentee-ownership diagnosis, the coal-lease concentration figure, the copper property-tax loophole, and the land-value-tax counter-colonial design (D-claims, conference address). [wiki summary](/wiki/gaffney-montana-land-policy/) · [PDF](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf)
+11. Mason Gaffney, ed. (1967), *Extractive Resources and Taxation* (University of Wisconsin Press) — used for the property-tax-vs-income-tax instrument comparison and the nine-reason overmotivated-exploration taxonomy (D-claim, edited-volume closing essay). [wiki summary](/wiki/gaffney-extractive-resources-taxation/) · [PDF (Conclusion)](https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf)
+12. Mason Gaffney, "Objectives of Government Policy in Leasing Mineral Lands" (c. 1975) and "Oil and Gas: The Unfinished Tax Reform" (1982) — used for the eight Crown-land leasing errors, the rent/profit accounting identity, and the US federal oil-tax loophole catalogue including leasehold abandonment (D-claims, advocacy essays). [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) · [PDF (leasing)](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf) · [PDF (tax reform)](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf)

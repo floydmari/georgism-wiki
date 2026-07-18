@@ -241,6 +241,7 @@ verified here.)
 - [Unearned Increment](/wiki/unearned-increment/) · [Economic Rent](/wiki/economic-rent/)
 - [LVT can replace capital taxes without efficiency loss](/wiki/lvt-can-replace-capital-taxes-without-efficiency-loss/)
 - [Gaffney (2016): Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/) — Gaffney's later companion argument that land, unlike capital, cannot "turn over" and so is untouched by ad valorem tax distortions either
+- [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — the oil-and-gas-specific extension of this essay's land-gains thesis (leasehold abandonment, cost-depletion resale, capital-gains treatment of proven reserves)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 - [Henry George](/wiki/henry-george/) · [Progress and Poverty](/wiki/progress-and-poverty/)
 
