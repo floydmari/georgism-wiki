@@ -952,3 +952,12 @@ illegible at column width) · bakker-land-rents-tfp (IMF 23/170 Fig 6.1 — Sing
 in PWT vs doubling once land rents split out; Fig 5.3 rejected as input, not finding).
 Stamps: davis-larson-oliner-shui (no-chart, dataset paper), zodrow (blocked, Rice repo
 empty response). 11 entries figured; queue 319 open.
+
+**Wave 5 (2026-07-18b):** first re-embed wave per §3c — rognlie-fig3 →
+problems/capital-share-rise-is-land · kss-fig27 → problems/housing-unaffordability-is-a-
+land-problem · larson-fig3 → problems/land-rent-could-fund-government (each placed directly
+under "The Claim" it evidences, captions cross-link the source entries). New-embed triage
+came up empty honestly: AJR-Botswana (institution scatters, not the rent-capture claim),
+Baunsgaard-Vernon (design note), OECD tax-and-growth (regression tables) all no-chart;
+foldvary-public-revenue paywalled book, dwyer PDF link dead, both Harrison books need scans
+→ blocked. Queue 312 open; 11 source entries + 3 evidence pages carry figures.
