@@ -60,7 +60,7 @@ argument rather than independent evidence for it.[2]
 1. Josh Ryan-Collins, Toby Lloyd, and Laurie Macfarlane, *Rethinking the Economics
    of Land and Housing*, Zed Books, 2017, Ch. 5 ("The Financialisation of Land and
    Housing"), including Box 5.1 on bank money creation.
-   [NEF summary](https://neweconomics.org/2017/02/rethinking-economics-land-housing)
+   [NEF summary](https://neweconomics.org/2017/02/britains-housing-crisis-get)
    · [wiki book summary](/wiki/rethinking-economics-land-housing/) · [wiki research
    summary](/wiki/ryan-collins-rethinking-land-housing/) — used for the land–credit
    feedback loop mechanism, the UK lending-share statistics, and the bank

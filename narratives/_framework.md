@@ -361,4 +361,6 @@ the narrative page covers its persuasive career from
    https://mises.org/library/single-tax-economic-and-moral-implications — used as the
    representative opposing source narratives 3 and 4 must answer.
 4. Evidence mappings above otherwise cite the wiki's own `outcomes/` and `research/`
-   pages, each of which carries its external citations (navigation per EDITORIAL.md §1.7).
+   pages, each of which carries its external citations (navigation per EDITORIAL.md §1.7)
+   — used for the "Research that supports" and "Research that challenges" fields in each
+   narrative's mapping table above, which link out rather than duplicate citations.

@@ -7,13 +7,13 @@ stub: false
 evidence_strength: "Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent."
 supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, mian-sufi-verner-household-debt, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy, bezemer-samarina-zhang-debt-shift, stiglitz-land-credit-inequality, capozza-green-hendershott-residential-land, vague-brief-history-of-doom, werner-princes-of-the-yen]
 excerpt: "Over the past century the expansion of banking in advanced economies has been, above all, the expansion of mortgage lending — and the value that lending is secured against is overwhelmingly land, not buildings. Much of what looks like 'financial deepening' is the banking system capitalising and collecting land rent."
-challenged_by: []
+challenged_by: [cochrane-finance-function-matters]
 last_reviewed: 2026-07-13
 ---
 
 > **At a glance** — Long-run cross-country data show the growth of modern banking is overwhelmingly mortgage credit against real estate whose rising value is mostly land; the further step that finance income itself is land rent is weaker and contested.
-> **Evidence:** Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent. · **6 supporting** sources · **0 challenging**
-> **Strongest support:** [The Great Mortgaging](/wiki/great-mortgaging/) — across 17 economies the mortgage share of bank lending roughly doubled, from ~30% in 1900 to ~60% by 2007. No structural counter-evidence is currently wired; see Limits.
+> **Evidence:** Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent. · **6 supporting** sources · **1 challenging**
+> **Strongest support:** [The Great Mortgaging](/wiki/great-mortgaging/) — across 17 economies the mortgage share of bank lending roughly doubled, from ~30% in 1900 to ~60% by 2007. **Strongest challenge:** [Cochrane (2013)](/wiki/cochrane-finance-function-matters/) — finance's growth reflects demand for genuine services (asset management, risk-bearing), not rent capture; see Honest Scope.
 
 ## The Claim
 
@@ -107,12 +107,17 @@ mortgage-dominated, and the appreciating collateral is land. That is robust. It 
 is largely economic rent — the heterodox statement of *that* claim is
 [Bezemer & Hudson (2016)](/wiki/bezemer-hudson-finance-is-not-the-economy/), which the wiki
 carries as attributed argument, not settled fact; [Philippon's efficiency puzzle](/wiki/philippon-finance-efficiency/)
-is suggestive on that front but not dispositive, and the [FIRE-sector](/wiki/fire-sector/)
-page carries the strongest counter-view (Cochrane: the size of finance is consistent
-with rising demand for genuine services, and the "FIRE" grouping itself can manufacture
-a rentier bloc by classification). The claim on this page is the one the evidence
-carries cleanly: the modern financial system is, first and foremost, in the business of
-lending against land.
+is suggestive on that front but not dispositive. The wiki's strongest cited challenge to
+the "growth means rent" step is [Cochrane (2013)](/wiki/cochrane-finance-function-matters/):
+he reads the *same* scale facts Greenwood–Scharfstein and this page rely on — quantity
+up, and (for component fee schedules) prices not rising — as an ordinary demand-shift
+response paying for genuine services (scarce managerial skill, risk-bearing, liquidity),
+not as evidence of rent capture, and he does not dispute that the credit itself is mostly
+mortgage credit; his challenge runs to the *interpretation* of finance's growth, not to
+this page's composition claim. The "FIRE" grouping itself, on his reading, can manufacture
+a rentier bloc by classification alone. The claim on this page is the one the evidence
+carries cleanly regardless of that dispute: the modern financial system is, first and
+foremost, in the business of lending against land.
 
 **Adjacent, distinct channels — do not merge.** Two related literatures sit next to this page's claim without being evidence for it: [August (2020)](/wiki/august-rental-financialization/) documents the *equity* side of housing financialization in Canada (which entities own rental buildings and how they reprice them — REITs from 0% to ~10% of the stock, 1996–2017), complementary to this page's *credit*-composition evidence but a different channel; and [Lapavitsas](/wiki/lapavitsas-financialization/) reads mortgage profit as "financial expropriation" of the debtor's wage income — a Marxist mechanism located in the income stream, not in the appreciating land collateral this page's sources identify. Citing either as if it established the land-credit composition claim would overstate both.
 
@@ -129,6 +134,7 @@ lending against land.
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the income-side evidence, kept honest
 - [Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide](/wiki/mian-sufi-verner-household-debt/) — the independent 30-country result that the mortgage-credit expansion predicts *slower* growth, not the productive deepening it is taken for
 - [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the interpretive companion that reads this composition as rent · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the credit-side steelman
+- [Cochrane (2013): Finance — Function Matters, Not Size](/wiki/cochrane-finance-function-matters/) — the strongest cited challenge to reading finance's growth as rent capture
 - [Bezemer, Samarina & Zhang: The Shift in Bank Credit Allocation](/wiki/bezemer-samarina-zhang-debt-shift/) — the widest-panel (74-economy) confirmation of the debt shift toward mortgage credit
 - [The 18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land speculation causes cycles](/wiki/land-speculation-causes-cycles/)
 - [Objection: cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — where this "credit is land credit" point does its work

@@ -29,13 +29,12 @@ a master plan executed at the first oil strike.
 Lie describes the fund's architecture — the same design the [capture claim](/wiki/resource-rent-capture-works/)
 credits for Norway's success:
 
-> "The Norwegian Government Pension Fund Global is the world's largest sovereign wealth fund. ...
-> This is a result not only of high levels of petroleum revenue, but also of a solution whereby
-> government revenue is channelled straight into the fund and invested abroad, with clear rules for
-> how capital can be fed back into the Norwegian economy through annual political decisions on
-> balancing the government budget. And it is only the return on the fund that can be used in this
-> way; the capital invested is not available for consumption and must remain in global capital
-> markets."[1]
+Lie describes the fund — the world's largest sovereign wealth fund — as the product of a
+design in which government petroleum revenue is channelled straight into the fund and invested
+abroad, with capital fed back into the Norwegian economy only through annual political decisions
+on the government budget. Critically, only the fund's *return*, not its principal, may be spent:
+the capital invested "is not available for consumption and must remain in global capital
+markets."[1]
 
 He records the fund's widely recognised purpose — an explicit anti-curse device:
 

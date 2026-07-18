@@ -38,5 +38,5 @@ Pete Daniel is an American historian and former curator at the Smithsonian Insti
 ## Sources
 
 1. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: University of North Carolina Press, 2013). — used for the county committee system, passive nullification, the decline of black farms, and Pigford v. Glickman (A/B/D-claims). [book page](/wiki/dispossession-daniel/)
-2. U.S. Commission on Civil Rights, *Equal Opportunity in Farm Programs* (1965) — primary source document Daniel analyzes (A-claim).
+2. U.S. Commission on Civil Rights, *Equal Opportunity in Farm Programs* (1965) — primary source document Daniel analyzes (A-claim) — used for the primary institutional record of USDA discrimination that Daniel's county-committee analysis (§"The county committee system..." above) draws on.
 3. Pigford v. Glickman, 1999 class-action decision — legal source for the discrimination finding (A-claim).

@@ -46,8 +46,10 @@ it ties this directly to the inequality debate:
 
 > "There is a growing consensus that one of the sources of the growth of inequality is the
 > growth of rents, including the rents that innovators earn in excess of the cost of
-> innovation... Taxing and redistributing such rents has an important role in ensuring that
-> AI and other advances in technology are Pareto improving."[1]
+> innovation."[1]
+
+Taxing and redistributing those rents, the authors argue, has an important role in ensuring
+that AI and other technological advances are Pareto improving.[1]
 
 **The redistribution instruments are the Georgist menu.** The authors reach for
 rent-targeting tools rather than broad income taxation: **high rent taxes** funding targeted
@@ -74,9 +76,10 @@ compete for scarce non-reproducible resources like land, driving up their price.
 even reproduce, unprompted, the classic Georgist urban-rent picture:
 
 > "competition for fixed resources that are part of their consumption basket, such as land
-> used for housing, may lead workers to eventually be worse off... Rich rentiers may occupy
-> the more desirable locations near the center, with workers having to obtain less expensive
-> housing at the periphery, spending more time commuting."[1]
+> used for housing, may lead workers to eventually be worse off."[1]
+
+They spell out the spatial mechanism: rich rentiers occupy the more desirable locations near
+the center, pushing workers to less expensive housing at the periphery and longer commutes.[1]
 
 And the redistribution that answers it is the single-tax logic verbatim: "Since taxes on
 non-reproducible factors are **by definition non-distortionary**, there is scope for
@@ -162,6 +165,7 @@ honest reading keeps both edges.
 - [Leduc & Liu — Automation, Bargaining Power, and Labor Market Fluctuations](/wiki/leduc-liu-automation-bargaining/) — a complementary mechanism: automation *threats* erode bargaining power and shift income to capital owners even absent deployment
 - [Furman Review — Unlocking Digital Competition](/wiki/furman-review-digital-competition/) — the dissolve-the-rent pole; its forward warning that AI may entrench incumbents "because of the importance of data"
 - [Korinek & Ng — digital superstars](/wiki/korinek-ng-digital-superstars/) — Korinek's companion model of how digitization creates superstar rents
+- [Korinek & Vipra — Concentrating Intelligence](/wiki/korinek-vipra-ai-concentration/) — the short-run market-structure evidence behind this paper's long-run theory · [Korinek & Lockwood — Public Finance in the Age of AI](/wiki/korinek-lockwood-ai-public-finance/) — the tax-instrument design this paper's "non-distortionary taxation" claim is built out into
 - [Economic Rent](/wiki/economic-rent/) · [Quasi-Rent](/wiki/quasi-rent/) · [Law of Rent](/wiki/law-of-rent/) · [ATCOR](/wiki/atcor/)
 - [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) — the innovation-incentive cost the authors' second-best model itself weighs
 - [Geoism](/wiki/geoism/) — the rent-domain program and its gradient

@@ -1,0 +1,1877 @@
+                 What Price Water Marketing?:
+                         Cal4fornia's New Frontier
+
+                                  By Mason Gaffney*
+
+ABSTRACT. We can multiply the value of output from limited natural water
+supplies by allocating them to higher uses. To this end we need a market
+in raw water, but existing markets work badly, for several reasons. Sellers
+are undermotivated, absent taxes or debt. Free groundwater subverts the
+pricing of surface water. Loss of elevation, and damage from effluents, and
+instream uses are not charged for. Obsolete subsidies abound; obsolete
+entitlements dominate allocation. Some trades extinguish public rights.
+Rent-seeking distorts allocation. Needed public agencies have been sub-
+verted by organized land speculators. Recommendations are given.
+
+
+                     The Delayed Coming of Water Marketing
+THIS 'V1UTER HAS A LONG TRACK record, from 1960, championing water mar-
+keting. In those days we were beset by those saying we already had it,
+others saying it would be a disaster if we did, and some saying both things
+at once. Now, however, market champions are popular—even legitimate—
+and their philosophical burden is light. This might seem a blessing, but
+doctrinaire marketeers may have carried a good idea too far. The first step
+toward the market solution is always to convert existing tenures, which are
+now conditional and temporary, into absolute property rights. This move
+wipes out obligations to the public—yet usually includes within the prop-
+erty obligations so created duties by the public to subsidize the owners.
+Firm up property rights, the market champions say, give out negotiable
+titles on all water sources, declare a free market, and let the good times
+roll (Phelps et al. for the RAND Corporation, 1978; Anderson, 1983b).1
+
+   *
+     Professor Mason Gaffney is a Professor of Economics at the University of California,
+Riverside. His interests indude urban economics, land and resource economics, public
+finance, and the history of economic thought. Recently, he published with coauthor Fred
+Hamson, The Corruption of Economics (London: Shepheard—Walwyn Ltd., 1994), and
+"Land As a Distinctive Factor of Production" in N. Tideman, ed., Land and Taxation
+(London: Shepheard—Walwyn Ltd., 1994).
+American Journal of Economics and Sociology, Vol. 56, No. 4 (October, 1997).
+ 1997 American Journal of Economics and Sociology, Inc.
+476           American Journal qf Economics and Sociology
+  At this time, water marketing is the rage. In 1982, a forward-thinking
+legislator, Richard Katz (D-Sylmar), sharing in part the Anderson-RAND
+viewpoint and seeking more water for Southern California, carried a statute
+to remove certain ancient legal barriers to selling or leasing water permits.2
+The Environmental Defense Fund, originally a reforming group, has turned
+into more of a brokerage house, combing the state to negotiate deals. In
+1986 a new Katz bill passed, letting private water sellers use conveyance
+facilities of public agencies.3
+  A third Katz bill died in 1991. Senator John Seymour, during his brief
+tenure, tried a bill to let federal water be sold, with existing subsidies
+firmly attached. Senator Bill Bradley along with Congressman George
+Miller tried a bill with at least token recoupment of public costs required,
+and stricter acreage limitation. It has been a busy time for water mar-
+keting legislation.
+
+                                      II
+
+                   Water Is The "Yield-Cutting Substitute"
+
+CRrncs OF WATER MARKETING FRET that areas losing water may become un-
+productive. No doubt there are cases in point. Elsewhere, however, overall
+potential gains from reallocating water actually exceed what simple cal-
+culations predict. That is because water, in many areas, has been used as
+a "yield-cutting substitute"—a term I have had to coin for lack of standard
+theoretical treatment of what should be a basic tool of economic analysis.
+Water is such a potent substitute for labor and capital that more water often
+means lower yields from each acre. The productivity of water is measured,
+not in higher yields, but in lower labor and capital costs that raise net rents
+in spite of lower yields. I am not aware that farm production economists
+have ever faced up to this phenomenon and its implications.4
+   Thus, lesswater per acre may mean more output per acre, an uncommon
+and momentous relationship. Conversely, when water is cheap it is sub-
+stituted for labor and capital. The effect of cheap water may be seen in
+Fresno, Kings, and Tulare Counties, California. Their populations grew by
+32 percent during the 1940's when water was expensive. Then they re-
+ceived an influx of cheap water from two federally subsidized projects: The
+Pine Flat Dam on the Kings River and the Friant-Kem Canal of the Central
+                              Water Ma rketing                            477
+
+Valley Project. For the next 30 years their populations stopped growing
+and even fell through outmigration (Ballard, 1980, p. 30).
+   In Tulare county, in 1974, wages and salaries accounted for only 50
+percent of income payments (California Statistical Abstract, cit. Ballard,
+1980, p. 28). Faims receiving the federal water subsidy were 7.2 times
+larger, on the average, than other California irrigated farms (calculated by
+Villarejo, 1986, p. 20). By 1980 California's Central Valley contained six of
+the ten American cities with the highest proportion of people on welfare
+(Metropolitan Area Fact Book, 1984, cit. Villarejo, 1986, p. 109). Two of
+them were Visalia and Fresno, in the region receiving federal water.5 Cheap
+water has not converted the Great Valley into a beehive any more than
+cheap power has converted the Tennessee Valley. Indeed, it has degraded
+life in the Great Valley.
+   When water is dear, and users perceive that dearness, less is used. Less
+is used because users switch from primitive furrow irrigation to sprinklers,
+spitters, and drip methods, thereby conserving water. This in turn allows
+for innovative techniques such as growing avocados on steep hillsides for-
+merly considered wasteland. These water conservation efforts produce a
+yield representing more dollars of product for less water.
+   The fact is, farmers cannot afford to dump high-priced water on barley,
+or alfalfa, or rice, or irrigated pasture. Yet today, these low-valued crops
+still drink up most of California's water (Dean's Committee, 1968, p. 48)
+while using under lO% of its farm labor (Mitchell, 1993). A number of
+fairways and even cemeteries would also give way to higher-valued uses
+if water were priced dearly.6
+   Professor Mark Kanazawa correctly reminds us that the U.S. Bureau of
+Reclamation (BR) uses non-price rationing in many service areas, so its
+projects may have less surplus to export than its pricing policy alone sug-
+gests to the theorist who looks only at price. However, in this case the price
+theorist is basically right. There are leaks in the non-price rationing system.
+There is no effective limit on the amount of land for which an individual
+may obtain water rights but he may apply that water to less land, and pump
+groundwater for the rest. Groundwaters replenished from BR imports are
+not considered supplied by the project, hence this water usage is not lim-
+ited or counted. Besides, the BR is serving whole farms and huge districts
+that cannot pay the true social cost of storing and delivering water. In other
+words, the opportunity cost of using water is in many instances not covered
+478            American Journal of Economics and Sociology
+by the subsequent (marginal) value that is produced by the extra water
+consumed.
+  All of this leads to a wonderful corollary: You can tax water withdrawals
+without hurting the water-based California economy. A simple solution to
+many of our intractable water problems would be a severance tax on water
+withdrawals.7 Legally, if you can regulate it you can tax it.8 A tax, properly
+gauged, is an economic price charged by the owner of water (the State of
+California) for using its scarce property. If the market champions, along
+with Chicago-School economists and allied "new resource economists,"
+were more thorough in their support for the price system (and less mis-
+trustful of the taxing power of legislatures), they would boost this appli-
+cation of basic price theory with all their influence and talent.
+
+                                     III
+
+                      Barren Results of Water Marketing
+
+SADLY, THE RESULTS OF THE WATER MARKETING MOVEMENT thus far have been
+meager, considering the pent-up pressures for economical transfers.9 There
+are offers and refusals but a wide gulf still exists between negotiation and
+any consummation of a deal. The water market is still only as fluid as glue,
+if that. Only one of the larger deals has reached a final result, and that only
+partially and haltingly.1° This was true even during and after five years of
+drought from 1986 to 1991, with severe crises in Santa Barbara and Mann
+Counties, whose respective abilities to pay cash for water are substantial.1'
+   In 1991 Assemblyman Katz moved a third time, seeking to remove still
+more obstacles to water sales (Ellis, 1991b; Ellis, 1991c). His latest proposal
+was to let individuals sell without the approval of the water districts that
+serve them. This tracked a major RAND recommendation (Phelps et al.,
+1978). Katz's proposal enjoyed editorial support of the Los Angeles Times,
+ever thirsting.12 This move failed.
+   Water marketing is a worthy goal and deserves support. Katz's 1991
+move, however, carried this doctrine beyond reasonable limits. The prob-
+lem is, this change would have subverted the integrity of rural district dis-
+tribution systems.13 It would not tap a new artery, but rather only tap a
+scatter of local capillaries.14
+  Actually, some Mutual Water Companies already provide long experi-
+ence with alienable individual shares. It took a state constitutional amend-
+                              Water Marketing                              479
+ment, but irrigation districts can and do buy and hold shares in these com-
+panies (Gaifney, 1961). It would be prudent to observe the results. In the
+Kaweah Delta, this has resulted in Balkanized, intertwined, overlapping,
+money-wasting, water-wasting distribution lines and service areas that cry
+out for rationalization and economy (Gaifney, 1961). Frustration over mar-
+ket torpidity could lead to damaging, ill considered measures. This one,
+fortunately, died.'5
+  Senator Katz, in this case, did not identify the basic causes of market
+torpidity. Water is already legally alienable, after a fashion, and has been
+for many years. California Water Code Sections 1700—05 spell out the pro-
+cedures. According to a 1942 California case, "The appropriative right is—
+separable and alienable from the land to which it became initially appur-
+tenant; . . ." (Wright v. Best, 1942, cited in Hutchins 1977, Vol. III, p. 191).
+In 1940 the Madera Irrigation District (I.D.) sold its water "filings" on the
+San Joaquin River to the U.S. Bureau of Reclamation for the Central Valley
+Project (Downey, p. 6). More generally, galloping urban sprawl in southern
+California has been watered by continual urbanization of indigenous farm
+supplies, using legal condemnation procedures and the legislated domestic
+priority where necessary.
+  "Water banking," too, has been around a long time. In the 1940s and
+1950s bureaucrats in the BR tried to implement water pooling along Cali-
+fornia's Friant-Kern Canal (a facility well suited to it). They were imple-
+menting a policy of President Franklin D. Roosevelt, who consistently or-
+dered that "all units of the plan should be fully coordinated on a regional
+basis" (Maass 1951, p. 233 et passim). They promoted the "9(e)" or utility
+form of contract under which water ownership never vested in the land-
+owner-customer, but only in the seller, who provided it to customers for a
+price: no pay, no water. Water had to be measured. Water could be ex-
+changed. There was room for periodic review, renegotiation, repricing, and
+reallocation (Graham, 172—90; Taylor, 1949; DeRoos, Chap. 1 1)16
+  The BR's avowed aim was to act like a public utility, so each reservoir
+and canal "would be operated in coordination with other reservoirs and
+canals in the comprehensive plan to deliver water to all areas in the most
+economical manner" (U.S. Bureau of Reclamation, 1949, p. 127; California
+Farm Bureau Federation, p. 62 if.). The concepts of planning, coordination,
+and integration were not federal impositions, as later alleged, but had orig-
+inated in California in the 1920s as "The Marshall Plan," promoted by Rob-
+480          American Journal of Economics and Sociology
+ert Bradford Marshall and other private Californians (notably Rudolf
+Spreckels the sugar grower).17 The disputed 9(e) or utility-type contracts
+had also originated in California in 1935. The U.S. did not authorize them
+until four years later. It was California itself, represented by the very per-
+sons who had defeated Upton Sinclair and his programs, that invited the
+Federal Government into the state in order to get federal money.18
+   The BR's personnel wrote and spoke of "pooling" and "integration" and
+sending water "to whichever demand develops first." "Conjunctive use" of
+surface and ground reservoirs was a buzzword. They were, in short, to act
+on a regional scale the way city water departments act locally, and ration-
+alize a Balkanized system. They were doing so only with new waters they
+developed, leaving existing uses undisturbed and unpriced.19 They were
+doing so only as a wholesaler, leaving retailing to existing local districts
+(Maass, 1952, p. 546). The contracting local districts could and did sell
+surplus contract waters outside their boundaries. Much of it was used for
+recharge.
+   In the 1977 drought there was active banking along the California Aq-
+ueduct (ironically, from south to north, and from urban to farm use) (An-
+gelides and Bardach, p. 17; Robie, p. 49). In 1977, the American Congress
+authorized the BR to broker water sales (Robie, p. 49; Saliba and Bush, p.
+113; Wahi, pp. 136—38).
+  There is more to reallocating water than the simple "free trade in water"
+philosophy imagines. What obstacles are really gluing up the market?
+
+
+                                     Iv
+                          Under-Motivated Sellers
+
+As WAThR HAS LONG BEEN legally alienable and transferable, something else
+must be wrong. A major flaw in the market is this: the sellers are not
+motivated to sell. Water flows are perpetual; sellers do not feel much ur-
+gency. Unmotivated sellers may daily coyly, while every year the demand
+for their water rights rises. Real estate brokers understand this very well
+from costly experience. They learn to screen out unmotivated sellers, who
+waste everyone's time dallying. The broker's delight—the motivated
+seller—is typically an ordinary family moving to Pennsylvania. Anyone
+with surplus land subject to debt and/or property taxes will also be moti-
+                              Water Marketing                            481
+
+vated. The cash drain is what attracts the attention of any seller and mo-
+tivates him to sell.20
+  Farm water districts are the broker's despair. They are not moving to
+Pennsylvania, even if the particular individuals in those districts do. The
+lands they serve are not moving. Water permits are free of debt (banks
+don't lend on precarious tenures), and generally five ofproperty tax. Water
+districts with surplus waters are like hoarders during an energy crisis except
+that the condition is perpetual. Demand keeps growing—so why not hold
+out another few years?
+  Another factor described by the Westlands Water District Public Relations
+officer Mr. Rob Leake is the "general reluctance" of growers to sell water,
+thereby creating "the perception that there are surpluses ..." (Levin,
+1988.) Those with precarious tenures know they are insecure, and tiptoe
+accordingly.21 Water marketing champions have a simple answer, they
+want to make all tenures secure and all tenures marketable. It is not so
+simple to do this, in practice however.
+   The few big deals that eventually will be cut will not achieve much. The
+real estate market works because there are hundreds of thousands of deeds
+recorded every year. Ownership rights are clearly defined and publicly
+proclaimed at the Registry of Deeds in the county court house. Title transfer
+procedures are (relatively) cheap and easy to accomplish. An efficient wa-
+ter market would call for the same level of activity; but such a market and
+its attendant institutions is nowhere in sight. What is necessary to change
+the motivation and get this market working is some constructive use of
+taxation: property taxation, severance taxation, or even water royalties are
+obvious sticks to supplement the selling-price carrot.22 With such reforms
+even the water districts might be motivated to sell and not hold on.
+
+                                     V
+
+                         Leaks In the Market System
+
+THE MARKET RATIONALE CARRIES UTFJ conviction when applied only partially
+and half-heartedly. The water market leaks badly.
+V.1 Unpriced Withdrawals
+   Unconstrained Pumping. Whether by taxation or regulation, we must
+control pumping in some manner if any system of surface control is to
+succeed. While California rations and conserves surface water, landowners
+482            American Journal of Economics and Sociology
+in the arid San Joaquin Valley just punch more and more wells into the
+aquifers and pump up free water which the state and federal projects re-
+charge at high cost. In the drought of 1976—77, 10,000 new wells were
+drilled in the San Joaquin Valley (Weatherford et al., p. 1031). Thus they
+play out their destined role in The Great Water Treadmill: subsidized water
+supplies followed by overdrafts followed by emergency state rescue proj-
+ects followed by new overdrafts, and so on until bankruptcy.
+  This treadmill started in 1913 when Los Angeles tapped the Owens Valley
+waters to supply free water in the San Fernando Valley. The lands there
+were timely prepurchased by insiders before annexation, giving a clue to
+the forces behind the premature seizures and diversion of water. The tread-
+mill drill is often now labeled the "Chinatown Syndrome."23
+   And the treadmill keeps turning. The Metropolitan Water District of
+Southern California (MWD) keeps pressing for more water sources, wring-
+ing its hands over the drought, preaching domestic conservation and im-
+posing rationing on its old customers—and annexing new desert lands to
+water. "It's hard for the public to understand how you can annex and talk
+about a water shortage," stated Lois Boylan Krieger, MWD Board Chair, as
+the Board approved another drought-year annexation (Metzler, 199 1).24 It
+is hard indeed, and not just for the lay public. A month later she proposed
+making more water available for farmers in her district (Bankole, 1991).
+MWD maintains a balancing fund to subsidize waste by keeping prices low
+during droughts and to prevent peak-load pricing (Krieger, 1991).
+   Excess landowners in and around Central Valley Project service areas
+routinely gain from recharge that others pay for. CVP contracts even "de-
+clare that such water shall not be considered as furnished by the project"
+(Ivanhoe v McCracken, 1958, p. 296—97). Kern County landowners keep
+irrigating desert lands, overdrafting, and petitioning Sacramento for "emer-
+gency" aid. The landowners even oppose metering city water, fearing that
+if cities get slapped with meters, their wells are next. (News Services,
+1991 )25 They summarized their position this way:
+   The existence of overdraft in the southern San Joaquin Valley does not indicate an
+   "unmanaged" situation, but only the absence of an adequate supply of supplemental
+   water. . (Weatherford, p. 1038).
+V.2 Loss ofElevation
+  We don't use water consumptively, but return it to the river, says the
+rice-grower. Of course, rice growers lose 3—4 feet per acre to evaporation
+                              Water Marketing                             483
+but by appealing to the Law of Conservation of Matter they pretend to show
+the loss of other water is more apparent than real. In terms of the Conser-
+vation Laws we consume nothing—we just turn it into useless or bane-
+ful forms.
+   To properly understand the meanings of "use" or "consume" in econom-
+ics we must think in terms of The Second Law of Thermodynamics, the law
+of entropy. The water user adds entropy (chaos, disorganization) to water.
+He takes in pure water, at a high elevation, at a time and place of his choice.
+Next, he returns less pure water at a lower elevation, at another time and
+place of his choice, however inconvenient for those below.26 August water
+is worth many times September water; rice growers hold August water on
+their land and release September water.
+   More importantly, power drops are also "non-consumptive," a term of
+art that exonerates power companies from the onus of "using" any water.
+Actually, this "non-consumptive," use is worth more than all the rest of the
+consumptive uses and competes directly with them. The aphorism is that
+"people will vote for water but pay for power." Canadians harvest large
+public revenues by taxing power drops; and so might we in California.
+  Water users also often preempt water from those above. On many
+streams th senior permits are downstream. Many legal careers have been
+made as downstream seniors enjoined upstream juniors from diverting wa-
+ter, to be sure a suitable amount reached the downstream intakes. A good
+deal of valuable elevation is thus dissipated to the benefit of no one.27
+V.3 Unpriced Effluents
+   As to water quality, many return flows are worse than no return at all.
+Up north, the notoriety of the Kesterson swamp says it all. Down south,
+manure piles around Chino say a lot, too. Abundant groundwater in the
+Chino Groundwater Basin "is currently untouchable because of poor qua!-
+ity." It is "contaminated with nitrates, byproducts of animal waste and fer-
+tilizers from the dairies and other farms in the area" (Salamon, 1991)28
+   Then there is the drainage problem. Every irrigation opportunity is also
+a drainage problem, usually for someone else. There is no simple market
+solution. The runoff is "non-point" and difficult to trace.
+V4 Unrepresented Demands
+  Environmentalists see economists as ignoring or trivializing their form of
+demand for water. Demands for instream uses, recreational uses, fishing,
+wildlife, saltwater repulsion, amenities, protection against non-point pol-
+484           American Journal of Economics and Sociology
+
+lution, drainage, abatement of common pests like mosquitoes, public
+health, aquifer management and protection are often ignored by the econ-
+omist (Gaffney, 1989). Too many economists are guilty as charged. Eco-
+nomics should deal with how best to meet all human wants, including
+those listed plus amenities, pure water, sustained resource supply, water-
+shed protection, public health, and conservation. Many water marketeering
+economists, however, think only of maximizing GNP measured in the old-
+fashioned way developed during World War II for war's emergency pur-
+poses and never revised. Worse yet, some others are totally oriented to
+property and politics and don't even follow the market. They write only of
+sustaining farm land values, disregarding the cost to fish, wildlife, and the
+taxpayers (Knapp and Vaux, Jr., 1982)29 The writings of Professors Buch-
+anan and Tullock offer a convenient philosophical basis for such a myopic
+attitude (Buchanan and Tullock, 1975). Others, however, are developing
+an environmental and resource economics.
+V.5 Economizing Is Conserving
+  The proper aim of economics is inherently prudential. Economics jibes
+with conservation especially when dealing with the problem of optimal
+water usage. For example, if we put the Santa Ana River of southern Cali-
+fornia to its highest and most valued uses, it would eliminate the need for
+most water imports, the associated multi-billion dollar costs to the public
+along with most of the environmental damage. This river rises naturally in
+an area of intense water shortage, yet its claimants waste it. Why? There is
+only a trivial variable charge. Instead, there is a yearly fixed cost, at about
+$30 per acre foot for a "standard" amount.3° The standard amount has not
+changed in a century and is much more water than one properly needs for
+any reasonable purpose.
+  Meanwhile, the state is importing water here at a true social cost (at the
+margins) of about $3,000 per acre foot, one hundred times above the $30
+amount the holders of ancient quotas pay. If there were a market where a
+person could sell his quota for a tenth of that $3,000 price, he surely would.
+But there is no such market, so people don't trade. Thus, thousands keep
+wasting water.
+V.6 Subsidy Wastes Both Dollars and Ecologies
+  Abuse of local waters in arid areas of high demand, like southern Cali-
+fornia, results in "hydro-imperialism."31 Local waters are doing much less
+work than they might, leading to a steadily increasing demand for imported
+                               Water Marketing                           485
+
+water. Hydro-imperialism is the common enemy of both Sierra Club en-
+thusiasts and economists. "You have no right to stop growth," says the
+hydro-imperialist. True, but neither have we any duty to subsidize growth.
+Hydro-imperialists and allied land speculators have no right to demand
+subsidies from the general public. Unfortunately, they do demand them,
+and they do get them.
+  Water supply, flood control, and navigation projects, the traditional
+kinds, are heavily subsidized. Subsidy generates waste almost by definition,
+in the amount of the subsidy. If it is a subsidy to withdraw water it also
+creates scarcity of water where nature may have given us plenty. Consider
+the lower Colorado River. Every major user is subsidized, mostly by the
+American Congress. No one pays for water at the source, but everyone gets
+paid to pump it up and take it home. It is no wonder there is a shortage.
+It is also no wonder why there are 82 golf courses operating in the Coach-
+ella Valley, a Sonoran desert, and 50 more planned for the future. It is no
+wonder the BR can not even find takers for water carried to Phoenix, Ari-
+zona in its multibillion dollar Granite Reef Aqueduct. All these dubious ends
+are served by impairing our natural habitat and pretending it costs nothing
+to do this.
+V.7 Correct Economic Analysis Prescribes More Water for Fish
+   Twenty-five years ago a study32 on the Fraser River in British Columbia
+prescribed sacrificing the fishery to a proposed power project, reasoning
+as follows: the fishery has no value because it is overcrowded; its "rent has
+been dissipated by the tragedy of the commons." The value of the catch is
+only great enough to pay the fishermen and no one else. The fishery as
+such therefore has no residual value; it adds nothing to the total value.
+Take it away and nothing of value is lost to the economy, that is, nothing
+net of costs.
+   That is a profound fallacy. The fallacy is to say you should remove water
+from the use in which it is most scarce, precisely because it is scarce. This
+violates the basic law of diminishing returns. It violates good marginal anal-
+ysis, the bedrock of economics. It also "dehumanizes" fishermen and as-
+sumes away their readjustment costs, but this is not my major point here.
+   The crowding of a resource and the reduction of economic rents does
+not mean that the resource is worthless. Rather, it has become extremely
+scarce to those crowded onto it, and the marginal value of water added
+to that use is extremely high. In terms of redressing unbalanced factor
+486           American Journal of Economics and Sociology
+proportions, adding water has the same effect as subtracting some fisher-
+men from the congested fishery, which the writer of the Fraser River study
+would have approved.33
+
+                                      VT
+
+
+      The Distribution of Entitlements and the Allocation of Resources
+VI.1 TheMyth That Water Trades Are Win-win Deals
+   Giving away the store hurts the owners. There are "win-win" outcomes
+in water trading, but too many of them are "win-win-lose" outcomes. The
+loser is the general public which is not adequately represented. The "win-
+win" slogan bantered about by most water marketing advocates uncon-
+sciously rules the unlicensed majority out of the game. What the majority
+loses is its beneficial ownership of water.
+   It is wonderful when trading moves water from lower valued to more
+highly valued uses. Every economist applauds the better allocation of
+scarce resources. As to the distribution of the gains, the economist is trained
+to think that it hardly matters at all. The distribution of the gains does
+matter—indeed it matters quite a bit.
+   However, every sale or trade of existing licenses creates another "inno-
+cent purchaser" to legitimize and sanctify the seizure of common property
+by powerful individuals and the "public" water districts they control. The
+trouble with markets, as currently envisioned, is that ". . . markets reflect
+and reinforce the existing distribution of water rights and wealth. .
+(Saliba and Bush, p. 252).
+  It is not just common water property that is thus traded away by the
+water marketing zealots. Subsidies attached to the water are traded as well.
+In December 1988, the U.S. Department of the Interior issued a water mar-
+keting policy to allow recipients of subsidized water from its projects to
+sell the water and keep the profit. The "innocent purchaser" would seem
+now to have secured a right to be subsidized by the Federal Government
+in perpetuity because he paid for it.
+   You would think no one could miss the fallacy. "Because I was robbed
+yesterday, . . . is it. . . any reason. . . that the robber has acquired a
+vested right to rob me?" (George, 1879, p. 365). Once you deny Henry
+George's point and buy into the premise that purchase creates property,
+much that is absurd follows. The policy follows the prescription published
+                              Water Marketing                             487
+
+by The Institute for Contemporary Studies: "The water bank concept pro-
+tects farmers from losing water they now have, and from paying more
+money for it" (Angelides and Bardach, p. 33). "The policy was hailed by
+the Environmental Defense Fund,. . ." (Levin, 1988). Phelps et al. of RAND
+(p. 38) show a more muted propensity to vest the subsidies and carry on.
+Resources for the Future chimes in with no muting at all. ". . . federally
+subsidized water supplies have become property rights. . . the most ef-
+fective way to confront the issue of inefficient usage is to recognize those
+rights. . . Rather than attempting to reduce the subsidies embodied in
+existing contracts, federal policymakers should seek to make the current
+property interests in federally supplied water more secure and to allow
+voluntary market trading of the resource among water users" (Wahl,
+pp. 3, 5).
+   To "get government out of the market," these writers would make gov-
+ernment subsidies the very basis of their revised market system! They
+would make every giveaway, however, basely originated, into a property
+right.35 They would bind taxpayers now and in the future to spend up to
+$ 3,000/af to sell and deliver water for as little as $3.00 /af to landowners
+who can resell it for as much as $300 /af today and more in the future.
+This is an outcome that will produce perpetual financial ruin to the general
+public who must foot the bill for these subsidies out of income and
+other taxes.
+  There is added damage from the message thus sent to future rent-seek-
+ers. In the name of the market, these advocates would announce to the
+world this policy: "Once get on the dole and you have established an
+entitlement to take forever, and call it 'property'." Economists who helped
+originate the idea of water marketing 35 years ago (Hirshleifer et al.) were
+not out to sanctify subsidies. Their objective was to obviate monumental
+new development projects, not foster more. Two points about privatizing
+rights that are currently subsidized come to mind. First, the motive to agitate
+for new subsidies would be multiplied and second, the state would be
+rushed to fiscal bankruptcy.
+  A supplemental subsidy has gotten into the system by water "banking."
+A state agency buys water at a good price, and risks selling it for less, or
+not at all. This was the fate of the California Water Bank, 1991. In spite of
+a five-year drought, the Bank found a seller, the Yuba County Water
+Agency, with a "phenomenal water surplus." The Yuba agency charged
+488           American Journal of Economics and Sociology
+
+$45/af (Bowman). The Bank and its major contractor, MWDSC, then in-
+curred heavy losses. Late in August 1991, even at the peak of seasonal water
+shortage, MWDSC virtually gave away its contracted bank water, at bargain
+winter rates. The water went into ground storage (Muir).37
+  "Win-win" has a constructive ring. However, the ring cannot drown out
+the basic fiscal truth: no one taps the Treasury or grabs part of the public
+domain without hurting everyone else. Those who seize public property in
+the name of the free market are not promoting the market, but exploiting
+its good name for private monopoly. They are the market's worst enemies:
+They stigmatize it, and give arms to its critics. As Theodore Roosevelt said,
+we must save the rich "from the ruin that they would bring upon themselves
+if they were permitted to have their way" (cited in Seckler, p. 262).
+    What we need is a "win-win-win" deal. In the spirit of Henry George,
+we can have water banking and common rights: make water permits trans-
+ferable, but make permittees and contractors pay for what they get. First,
+contractors getting subsidized water from federal and state projects should
+pay the full cost of project services, that is without subsidy. LeVeen and
+King, for example, have outlined a workable program for the BR (LeVeen
+and King, 1985, pp. 148 if.).
+    Second, the basic privilege of withdrawing rent-bearing water, surface
+or ground, should be subject to a user charge—either as taxation or as a
+royalty paid over to the state. With growing demand and scarcity this, rather
+than cash operating costs, is the larger matter. This way Smith wins, Jones
+wins, and the public wins, hence win-win-win.39
+VI.2 Water as Public Domain
+   "Water right" is another term of art, promoted to protect licensees under
+color of property. "Right" is the wrong word for a claim on water. A right
+is something like free speech, possessed by everyone. Water rights, prop-
+erly speaking, are common property. Blackstone wrote, ". . water is a
+                                                                .
+
+
+movable, wandering thing, and must of necessity continue common by the
+law of nature;. . ." (Roy Huifman, p. 38). Private water interests are claims,
+licenses, permits, holdings, reservations, privileges, or possessory interests.
+Water is public domain, the property of the states.4°
+   Most private water claims are licenses, at least in the 17 U.S. western
+states. Most state constitutions read that the water of a state belongs to the
+state (James Huifman, 1993). Of course, it is in trust for the people of the
+state. In California it is Water Code Section 102: "All water within the State
+                             Water Marketing                             489
+
+is the property of the people of the State         " The 1879 Constitution
+declared, "No special privileges or immunities shall ever be granted which
+may not be altered, revoked, or repealed by the Legislature,..." (Article
+I, Sec 21). In Oregon, "It does not seem to me that water use in this country
+ever rose above the dignity of a mere privilege over which the state had
+complete control" (Oregon Chief Justice McBride, In re Hood River, 1924,
+190—91).
+   There is a good deal of paltering on the matter. Lawyers labor studiously
+to secure licensees the benefits of owning property without the social ob-
+ligations. The bottom line, however, is that a water license has about the
+same standing as the privilege some airlines have to occupy certain airport
+gates and time slots; the privilege of a cab to work the streets of New York;
+a license from the FCC to use a specified frequency; or a grazing permit on
+federal lands. It is like the old Oregon and California Railroad land grant
+which was revested when the grantee failed to perform. It is subject to
+conditions, and to forfeiture for failure to comply with them.
+   If water licenses were real property, they would be recorded along with
+title deeds to real property—but they are not. Rarely are they on the prop-
+erty tax rolls.41 Some water claims, if not excessive, are taxed indirectly
+through the value of taxable land the water serves, but unused and misused
+water reservations (the problem at hand) do not much raise the value of
+any land anywhere, and are not taxed even indirectly.
+   Generally, the licensees' dual interest is to make permits seem solid and
+"real" property, except when the subject is property taxation, or moving
+the place of use—at these points the permits collapse into something else.
+The resulting "double-talk" has been deplored (Gaffney, 1962).42
+  The legal concept of "appurtenancy" is an example of such double talk.
+Water rights are said to be "appurtenant" to the lands they serve, meaning
+they disappear into the land and are not listed separately for taxation. How-
+ever, when the owner wants to sell water separately from land, appurten-
+ancy is no problem (Hutchins, 1956a). Appurtenancy is a pliable term of
+art that is used: (1) To give landowners preferential claims on water in
+proportion to their acreage; (2) To bolster the standing of water claims
+under color of real property; (3) To protect water claims from taxation; and
+(4) finally to let surplus water claims be moved around and cashed out.
+   The upshot is that the legislature has great latent power. As electors and
+citizens, our hands are not tied—just our minds. Most lawyers are on hire
+490           American Journal of Economics and Sociology
+to represent licensees. A notable few law professors like Professors Harri-
+son Dunning and Joseph Sax help let citizens know their latent powers
+over water permits (Dunning, 1982a; Sax, 1990; see also Huffman, 1993).
+VL3 TheRentof Water
+   Water is worth a great deal more than the costs of labor and capital to
+divert, store, regulate and distribute it. That is why people fight over it. It
+costs $30/acre-foot to deliver the water that Gage Canal shareholders get
+from the Santa Ana River in southern California. Meanwhile, the state is
+wholesaling imported water just across a survey line for ten times as much.
+MWDSC is preparing to reclaim polluted groundwater for more than that.
+The prevailing idea of water economy is that pure, sweet water rising nat-
+urally in this arid region is only worth what it costs to withdraw it from the
+river; at the source it has no value and may be wasted. It makes more sense
+to say water at the source has a high value, proven by people's willingness
+to spend $300/unit to buy other water just like it.
+   The true social cost of withdrawing water is the cost imposed on others
+by preempting it from them. It is the same as what the Federal Energy
+Regulatory Commission today calls "avoided cost," that is, the cost of pro-
+viding a substitute for what is taken. The concept of "avoided cost," like
+so many good ideas in economics, harks back to Henry George. He wrote
+that the value of a thing is not the past labor that went into it, but the future
+labor avoided by owning it (Science of Political Economy, p. 249), The
+Federal Energy Regulatory Commission has made good use of this concept,
+making electric utilities buy co-generated power from independent sellers
+at a price equal to "avoided cost."
+   That's not the half of avoided cost, however, because state water is heav-
+ily subsidized. Its wholesale price of $300 is far below the full cost of bring-
+ing it down south. State water comes from the Feather River, 600 miles
+north and is pumped over the Tehachapi and San Bernardino Mountains.
+Its true social cost, at the margins, is more like $3,000 per acre-foot, give
+or take.44 Notice $3,000 is ten times what the state charges for it, and 100
+times what the Gage Canal charges for local water.
+   A variation on this basic theme is to admit water has value at the source,
+but trivialize it by saying it is the historical purchase price, if any. Those
+few water holdings that are assessed as taxable property seem to be valued
+on this basis (LaBahn). This is like saying Manhattan is worth no more than
+the $24 Pieter Minuit once paid for it.
+                                Water Marketing                           491
+
+   Santa Ana River water, rising where demand is high and supply short,
+yields rent. Rent is a taxable surplus. Tax it, and the state can let people
+sell it for an economic price without cheating the general public that really
+owns it (Gaffney, 1988).
+
+                                        VII
+
+                         Fundamental Economic Ideas
+VII. 1 Entitlements, the Public Trust Doctrine, and Allocation
+   Correct economic analysis has to presume or prove something about
+who should own water: either a public trust doctrine, or a giveaway doc-
+trine.45 "Entitlements"—the initial assignments of property rights—have a
+major effect on the relative bargaining power of different parties. For years
+economists would ask, say, canoers, what they as individuals would pay
+to keep a river wild. They got rather low valuations and duly reported them
+as the scientific measure of the value of recreation. This was an effective
+defensive strategy for dam builders since the value came Out quite small.
+   One day it occurred to some unsung genius to invert that question. Ask
+not what canoers would pay for the wild river, but ask instead what is the
+maximum amount the power company would have to pay the canoers to
+take it away from them.46 The second question presumes that canoers, as
+citizens, already own the wild river. In fact, the citizens do own that
+wild river.
+  In the current lingo, one arguing ex parte the canoers stresses that
+canoers' Willingness to Accept Price (WTA) is the relevant dollar value, and
+that is higher, perhaps much higher, than their Willingness to Pay Price
+(WTP). WTA is also called a "compensation-demanded valuation." In its
+basic CERCIA47 legislation in 1980, the U.S. Congress specified it wanted
+measurements of WTA, not WTP (Carson & Navarro, 1988, p. 830). Many
+pollster-theorists fret that "received theory" has "been unable to explain
+     the persistently observed differences between WI'P and WTA mea-
+sures" (Cummings et al., 1986 p. 41)48 The problem is that "received the-
+ory" was received damaged.
+  Pro-privatizing economists dismiss the matter by alleging that WTP =
+VFA (Mitchell and Carson, 1981), so initial entitlements do not matter.
+They lean on Ronald Coase, perhaps overlooking the qualifications he put
+in the fine print in his famous article (Coase, 1960). In this mindset, distri-
+492          American Journal of Economics and Sociology
+bution does not matter, only resource allocation matters. Then just start the
+game of "Free Market" and let the opportunistic exchange of property
+rights begin. Everything works out so long as private property rights are
+flim and clearly defined. Resources end up allocated to their most valued
+uses, no matter who starts the game with all the chips. Why? Because WTP
+=
+  That is wrong. In fact, distribution dominates allocation. An owner often
+says "My home is not for sale. I will not sell at any price, don't call again."
+She can take that attitude when she holds the entitlement. Buyers never
+say "I will pay any price, call any time." That is, the WTA is often much
+higher than the WTP. It must be so, or real estate would be constantly on
+the market.
+  "Modem" microeconomics, now dominated by Coasians, is a reincar-
+nation of the old Manchester School whose members prescribed "free trade
+in land" as the solution to all resource problems. The trade they called
+"free" was to begin with existing entitlements inherited from centuries of
+conquest, corruption, theft, confiscation, negligence, deception, cunning,
+and fraud. In this narrow view, exchange launders all. Everything is for
+sale; everyone has his price; all values are determined at the margin, and
+efficiency inevitably wins out.
+  Mitchell and Carson use Coasian concepts in survey research: They poll
+people to put a value on environmental damages.51 One review faulted
+"the high rate of unusable responses" (Fischhoff, p. 287). Why "unusable"?
+Mitchell and Carson throw Out WTA answers when they exceed WFP an-
+swers by more than 5 percent (Mitchell and Carson, 1981; Carson and
+Mitchell, 1988; see also Mitchell and Carson, 1989, pp. 32—35, p. 22652),
+Sometimes over 50 percent of the responses are "invalid." They don't fit
+the Coase model; they must be, in Carson/Mitchell's phrases, "methodo-
+logical artifacts," or "outliers," or "protest responses," or "aberrations."53
+  The native American aborigines are one such aberration, and a stark
+object lesson. Some Indian tribes have Treaty Rights to fish. Their WTP for
+those rights is minimal, partly because their Ability to Pay is minimal. On
+the other hand, they will not sell "at any price": their WTA is sky high.
+They may be unreasonable, but that's the point: ownership lets you be as
+unreasonable as you please. Call that "revealed preference."54 We notice
+mainly when it is someone else, especially someone different.55
+  Politics and institutions are involved: Treaty rights are the most valuable
+                               Water Marketing                           493
+
+mode of holding property. They enjoy legal supremacy as high as the Con-
+stitution itself (Article VT, Section 2), preempting contracts and ordinary
+legislation. All those and other important institutional and sociological con-
+siderations are outside the "perfect-markets" ambit of Carson and Mitchell.
+    American Indians are an extreme case, but most of us have a streak of
+their psychology. Not many generations back we shared the same kind of
+culture, a dependence on traditional family lands we held in common, in
+implied trust for our descendants. These traditions are still part of the cul-
+tural subconscious, and affect current attitudes. They are disregarded in
+mechanistic micro modeling in the modem style (except perhaps as tau-
+tological "revealed preferences").56
+   Distribution dominates allocation. Economists who belittle the question
+of entitlements deserve the paranoia57 they evoke in environmentalists. The
+proper answer to them is, "If entitlement doesn't matter, give it all to me:
+Then let's talk and trade."58 Most of them want to give it, fully laundered,
+to whatever private party has a license now. This is another version of the
+doctrine "might makes right."
+VII.2 Rent-seeking Perverts the Market
+   Scarce waters, where demand exceeds supply, yield rent. With demand
+growing, even abundant waters, where demand is now low, are expected
+to become scarce and yield future rents. Waters currently rentable are ex-
+pected to yield still higher rents. In anticipation, persons and organizations
+with an eye to future rents are ready to do what is needed today to lay
+claim to future waters.
+   "What is needed today," by case law, is to divert water and put it to
+"beneficial use." This is the prevailing appropriative doctrine of water law,
+under which no one pays a state to take its water, now or in the future.
+Rather, one acquires a permit that ripens into something resembling per-
+petual ownership, by the very process of taking. In practice, "beneficial
+use" is a token, an economic bad joke. Private taking is the essence of what
+is happening. Local water boosters call this "foresight," and hail it as a
+cardinal virtue.
+   This appropriative doctrine is the locus classicus of "rent-seeking," i.e.,
+distorting present investment to secure future rents. The motive is to divert,
+develop, and half-use water before its economic time to lay claim to its
+future.
+   The concept of prescriptive rights is even more perverse. Here, own-
+494           American Journal of Economics and Sociology
+
+ership is established essentially by adverse use, that is, interfering with
+someone else's use. The taker's beneficial use becomes even more inci-
+dental. In 1949 the California Supreme Court triggered a "race to the pump
+house" (Krieger and Banks, 1962) when it proclaimed the doctrine of
+"mutual prescription" for groundwater basins (City of Pasadena v. City
+ofAlbambra, 1949). This "encouraged defensive ground water overdraft-
+ing by pumpers in other basins who anticipated ground water adjudica-
+tion" (Gleason, 709).
+   Modem privatizers tell us to firm up property rights. Accepting existing
+entitlements is their first step; then, and only then, will the market work its
+magic. They glide too easily over the process of firming up. They offer no
+process but giveaways to privatize resources.5? Yet, claims to water are
+constantly being made, expanded, and firmed up, and any giveaway pro-
+cess violates the virtues a market is supposed to possess. Indeed, giveaway
+is the essential precondition for "rent-seeking" behavior which, in most
+other realms, economists deplore (Krueger, 1971). The rule for prior ap-
+propriators and adverse possessors is particularly counterproductive:
+"Waste today, want not tomorrow."6°
+   As we segue toward a market system we see a gray area between older,
+stationary water licenses and the coming new, portable ones. A class of
+speculators is moving in to acquire permits from present holders who still
+value them in their fixed, traditional places and uses. The speculators vi-
+sualize commercializing the water for distant growing cities or industries,
+using their political influence to secure needed rights-of-way, and litiga-
+tion/legislation to modify the water permits to make them more tradable.
+Some publicized examples are PG&E Properties in northem Califomia, Pe-
+ter Hensen and John Huston near Denver, BCE (Bell Canada), Cadiz Land
+in Riverside County, Tenneco in Kern County, a few major oil firms, the
+Maurice Strong consortium in New Mexico, and the Bass Brothers in the
+Imperial Valley (Fulton, 1996; Gaffney, 1997).
+   This is a new modified, more sophisticated form of rent-seeking, blended
+with old-fashioned land speculation.61 It is raising great anxiety and re-
+sentment among environmentalists, egalitarians, and other concerned cit-
+izens (Gottlieb, 1988, pp. 261—80). It causes many to reject the idea of water
+marketing, saying "A water market just means a plague of speculators."
+Ownership of irrigated land is already more concentrated than ownership
+of other land (Gaffney, 1992a). Wealthy buyers like Sid and Lee Bass, oil
+                              Water Marketing                             495
+billionaires from Fort Worth, quickly amassing 45,000 acres in the Imperial
+Valley, make it more so.
+   There is a better way. A policy of taxing water withdrawals, based on
+the full opportunity cost of water, will do the job without giving away the
+benefits that belong to the public to private usurpers (Gaffney 1992b). That
+does mean our own governments must take an interventionist hand and
+assess the market value of water, probably using existing county assessors.
+It's that or the absentee speculators. Thus far the choice has gone to the
+speculators; the results are neither just nor efficient.
+
+                                     VIII
+
+            Bureaucracy, Private Property, and Water Markets
+VIH.1
+The Misleading Devil Theo?y of Bureaucracy and Angel Theory of Private Property
+  It's easy, too easy in today's Zeitgeist, to demonize government "bureau-
+crats" and beautify private property and markets. "Bureaucracy" is a ster-
+eotype. To be fair, let's look at the other side.
+   Irrigation Districts along the Friant-Kern Canal were selling surplus Fed-
+eral water in the 1950s, with federal blessing (Maass, 1952). Water filings
+by the feds were granted by the State not to certain lands, but "for the use
+and benefit of said Central Valley Project," to further a "general or coor-
+dinated plan         (California Farm Bureau, pp. 58, 60). The U.S. Supreme
+Court upheld the mobility of these filings decisively in 1958 (Ivanhoe v.
+McCracken).62 Such pooling and banking was inherent in the ambitious
+Marshall Plan, the comprehensive statewide plan of the 1920s that devolved
+into the present Central Valley Project.
+   Who opposed these market-oriented proposals? Big landowner lobbies
+pushed for undisseverable attachment of specffic waters to specific lands.
+Apart from acreage limitations, "the principal public attack . . . has been
+focused on the employment of the so-called 9(e) (non-appurtenant) form
+of contract        (Graham, 172; Crampton, 99)63 "Appurtenancy" was their
+slogan.64 The big landowners' concern has been with the distribution of
+water rights, not their efficient allocation.65 They advanced "a moral claim
+to water in proportion to their landholdings,. . . "(Taylor, 1955, p. 478).
+   When Federal bureaucrats tried to create a flexible market in water, it
+was "Communism," "fellow-traveling," and the baleful influence of Henry
+496           American Journal of Economics and Sociology
+
+Wallace andJames Roosevelt (Downey, pp. 30,40,41, 49, 167). A California
+trial judge ruled that the BR was "Marxian" (Albonico v. Madera I.D., 1951,
+p. 10, cit. Graham p. 74, n. 236). "What partisan motives, what ideology,
+what pathological processes, what mysterious political influence       was
+at work (Downey, p. 49)? Thus did private property greet the idea of water
+marketing.
+   An ancillary policy, acreage limitation, also offended big landowners.
+It is not clear which issue aroused them more, but the two together made
+the Federal Government, which had been invited to subsidize their water
+supply, their target (Cooper, pp. 154_66).67 BR personnel were "Commu-
+nists," supported by the Daily People's World (Worster, p. 251, 254; Dow-
+ney, p. 41; Kirkendall, 1964, pp. 200—01). Efforts to pool waters and inte-
+grate the system are ". . . a careful, fully conscious and deliberately
+planned attempt to bring about in the U.S. the same kind of collectivization
+they have in Russia" (Kings River Water Association, 1950, p. 15). Covering
+all bases, they add ". . . Fascism is exactly what we will get" (op cit, p.
+19). Trading on the anti-Federalist pathos helped people forget that full
+integration of all Sierra rivers was the essence of the California Marshall
+Plan of the conservative 1920s, approved by the State Legislature.69
+   U.S. Senator Sheridan Downey was the landowners' leading spokesman.
+Here is what he demanded in 1947. ". . . that the land and water should
+be joined together, never to be cut asunder that the farmers should enjoy
+in perpetuity the use of the water. . ; that when the land is sold, the right
+to water shall also be sold with it, and that neither should be sold separately'
+(Downey, 1947, pp. 226—27, emphasis supplied).
+  An allied writer found "the clue to the bureau's arbitrary and seemingly
+stupid actions" was its hidden agenda to transfer water to cities. "Sober
+Californians, however, realize that agriculture is the basis of the state's
+wealth, and that it must not be jeopardized" (Crampton, 102). In its 1957
+Ivanhoe decision (later reversed by the United States Supreme Court, in
+1958) the California Supreme Court covered unappropriated waters with a
+right based on landownership, that is, a new right modeled on the riparian
+law making water "part and parcel" of the land to which applied (Taylor
+1957 p. 83).
+   An earlier spokesman for private property rights, Mr. Henry Miller, the
+riparian, had successfully demanded that waters be made "part and parcel"
+of his riparian lands, letting him monopolize most of the San Joaquin River
+                               Water Ma rketing                           497
+
+(Lux v. Haggin, 1886). Just so again, today's landowners want and get farm
+price supports, preferential tax exemptions, export subsidies, protection
+against foreign sugar, control of the cow colleges, and subsidized water.7°
+By now we should have gotten the picture: Private property is a distribu-
+tive, not an allocative arrangement. The owners want their unearned in-
+crements first. Then maybe later a little, free competition will do, carefully
+measured out when it adds to their rents, otherwise not.71
+   Further to frustrate flexible water marketing, Sheridan Downey and the
+landowners invoked the U.S. Army Corps of Engineers, the historical ve-
+hicle for "rivers and Harbors" pork-barrel appropriations. The Flood Con-
+trol Act of 1944 turned over to them several key rivers: The Kings', Kaweah,
+Tule, and Kern, their flows never to be integrated with the San Joaquin or
+each other (Morgan, pp. 70, 404; Kahrl, 1978, p. 50; Maass 1951, pp. 215—
+59; Gaffney, 1960; Cooper, p. 158). Arthur Maass and Arthur Morgan de-
+scribe this as "an enormous financial grab."72 President Franklin D. Roo-
+sevelt complained "of the desire of certain large land interests in California
+to obtain irrigation and other benefits without being subjected to the re-
+payment requirements          (Maass, 1951, p. 235). Contrary to the cliche,
+allocative efficiency was sacrificed for distributive inequity and pilfering.73
+   The Kings River Water Association made 15 demands on the BR in 1946.
+One demand was that "all Kings River water remain within the presently
+irrigated area." Another demand was that the Kings River remain a separate
+entity from the Central Valley Project (Kaupke, 1957, p. 51). In 1956, ac-
+cording to Wahi, they secured permanent rights to federal project water
+"within the boundaries of the contractors' district" (Wahl, p. 175). In 1979
+they were still fighting the BR and their neighbors—going to great lengths
+to distance themselves from the neighboring Westlands Water District
+(Leake and Barnes, pp. 19—20). Rigid Balkanization was identified with
+private property rights.
+   Traducement anticipates persecution The lobbies played hardball. The
+Bureau of Agricultural Economics (BAE) was singled out for attack in
+Budget Hearings for 1946—47. Its offense was to shelter Mr. Marion Claw-
+son, Ms. Mary Montgomery, Mr. Edwin Wilson and Dr. Walter Goldschmidt
+in its Berkeley office. They had supported the BR by conducting landown-
+ership surveys and planning studies of the project area, and reporting on
+the unequal distribution of land to receive project waters (Worster, pp. 245—
+49). "The upshot of this. . was that Congress made deep cuts in the BAE
+                           .
+498          American Journal of Economics and Sociology
+
+budget.    . With budget cuts resulting from their objectionable work they
+(Marion Clawson and Mary Montgomery) were dropped by BAE, as was
+natural" (Downey, p. 52). Goldschmidt and Wilson were also "separated
+from the Bureau" at this time (Downey, p. 256; for Clawson's perspective,
+v. Clawson, 1987, pp. 150—60; for more on Goldschmidt, see Taylor, 1976).
+   It was the McCarthy era style politics. State Senator Jack Tenney ran an
+inquisition in Sacramento.74 The University made its professors sign a loy-
+alty oath. Senator Downey published long ad hominem attacks on Mr.
+Richard Boke, Bureau Chief in Sacramento, and caused his salary to be
+suspended for nine months, a virtual Bill of Attainder that was revoked
+only upon the surprise election of Harry Truman in 1948 (Taylor, Vol. II,
+p. 193). Mr. George Sokolsky and Mr. Fulton Lewis, Jr., inflammatory col-
+umnists, joined the pack in full cry (Kirkendall, 1966, pp. 223—25). The BAE
+was never forgiven and "disappeared" in 1953. Heads rolled, careers were
+broken or made, survivors cowed.
+   Even Clawson, a strong man who survived and prospered, became cau-
+tious and cynical. Reviewing the matter, he wrote retrospectively that he
+learned this lesson: "Follow not too closely at the heels of truth, lest she
+kick your teeth in" (Clawson, 1987, p. 160). Donald Worster sees young
+Clawson as a "devoted New Deal liberal" (Worster, p. 245). Sober-sided,
+scholarly Richard Kirkendall, reviewing Clawson's correspondence in the
+National Archives, described him as having been "passionately involved"
+(Kirkendall, 1964, p. 206). Clawson's later career has been productive and
+creative, but "passionately involved" he has not been. According to Wors-
+ter, he had "surrendered" as early as 1944 (Worster, p. 253), although that
+did not stay the persecution.75 He never again touched the region or
+the issue.76
+   Goldschmidt, too, has prospered, even within the University of California
+system. He adapted, however, by transferring his studies to Africa, far from
+the AES and its turf. From the grave, Sheridan Downey78 inhibited his
+survivors.The treatment of Wells Hutchins was friendlier. Hutchins wrote
+U. S. Department of Agriculture and AES bulletins about the sanctity of
+property rights in water. The waterlords found these materials useful.
+"State's Rights" was their theme, and they needed legalistic writings from
+a reliable source. After Hutchins reached 65, The California Water Council
+and the National Reclamation Association asked Secretary Ezra Taft Benson
+to keep Hutchins on a "retired annuitant" basis, which Benson did (Western
+                              Water Marketing                              499
+ Water News, February 1958, p. 1) Hutchins was kept on the USDA payroll
+17 more years until his death in 1970, aged 82. It took seven more years
+for two other writers to complete his Water Right Laws in the 19 Western
+States. The handsome, expensive publication of these three volumes
+breathes endorsement, legitimacy, and approval. In contrast, Wilson and
+Clawson's classic BAE study of landownership concentration is cheaply
+mimeographed, barely legible, and hard to find;79 Goldschmidt's classic
+study was suppressed and had to be published privately.
+  If you want to credit private property with supporting free markets and
+fair play in water, land, outputs, ideas, or promotions and retirements,
+pause and review this object lesson. Theodore Schultz wrote of it, "To
+understand the vulnerability of the BAE one has to appreciate the profound
+unfriendliness which these organized political forces. . . feel for agricul-
+tural economics research that does not provide the 'right' answers."
+(Schultz, 1954, p. 19.) Schultz had been there, having been bounced from
+Iowa State University for a study finding oleo as good as butter. Now he is
+a Nobel Laureate.
+   Many bureaucrats are fallen angels, granted, but we have to ask "who
+pushed them." "Government" water agencies become private agencies
+masquerading as public ones. They enjoy government powers and im-
+munities but carry water for the private landed establishment. This in turn
+harks back to the original distribution of land ownership, when politicians
+corruptly distributed public lands to favored private parties. Just as distri-
+bution dominates allocation, it also dominates politics. Subsequent laws
+are twisted in application by the political weight of the original beneficiaries
+and their successors interlocked in power at the apex of the pyramid.8°
+They get away with it because the original land grab gives leverage and
+power to get more, and most people go along to get along, some weakly
+and meekly, some apologetically,81 some avariciously seeking their private
+cut. Only a few stand out for the public interest, and they are systematically
+traduced.
+   More recently, in 1978 both the RAND Corporation and the Governor's
+Conirnission to Review Water Rights Law proposed a few mild and politic
+controls on waste, and facilitating transfers. Senator Nejedly's proposals in
+SB 1361 were so mild that even DWR supported them, "but the powerful
+agricultural and land development interests"—Private Property—blocked
+legislation to implement them (Dennis, p. 60).
+500           American Journal of Economics and Sociology
+VIII.2 Water Districts as Pocket Boroughs
+  The Metropolitan Water District of Southern California (MWDSC) is run
+by a board of 50 directors representing 27 cities and districts that it serves.
+These directors are not elected but appointed, resulting in an old-boys'
+club where some directors sit for more than 30 years. Business is conducted
+by committees; seniority is a ruling factor. "Not a single member of your
+board is elected by the people, yet you collectively assert the right to pass
+on statewide policy" (Governor Pat Brown to MWD Board, 1960). Half the
+directors are developers or landowners; others own engineering or con-
+struction firms, or banks that lend to them (Dennis, p. 128).
+   As for the elected officials who appoint the directors, those from cities
+are elected on the basis of "one-person-one-vote"—well and good. How-
+ever, those from several outlying districts are elected by a land-based fran-
+chise: one-dollar one-vote. Here is the heart of antidemocracy. Sacramento
+has delegated the people's sovereign powers to these landowner controlled
+districts.82 Control may be completely nonresident. Representatives from
+landowner-owned districts remain the same from election to election, gain-
+ing seniority to dominate the 50-person Board and its ruling committees
+(GoothIl et al., 1978, pp. 97—98. Bradley and Morales, 1981.) "At times the
+control of public government— in this case the water district—by private
+organizations may be complete." (Goodall, et al., p. 98. Hall et al., Stipu-
+lation, p. 7.)
+  Thus a handful of speculative landowners, some living in other countries,
+have as many votes as millions of city residents. Accordingly, MWDSC
+preaches water conservation to the guilt-ridden middle classes in the cities
+while it continues to annex new speculations and serve new developments
+with artificial lakes and golf courses. They plunge ahead, heedless of five
+years of drought and their own water-conservation jawboning. MWDSC's
+former chair, the one who frets that some voters just "do not understand,"
+was appointed a director of MWDSC by the board of the Western Municipal
+Water District of Riverside County, an area dominated by thirsty land spec-
+ulators.83 Many economists have criticized MWD's persistent refusal to con-
+sider any kind of economically rational, cost-justified rate stmcture.
+  To give a notion of how this works, consider the Newhall Land Partner-
+ship. It holds 123,000 acres, mainly in Los Angeles and Ventura Counties,
+from Valencia and Magic Mountain west down the Santa Clara Valley of
+the south toward Piru and Fillmore. The Newhall family controls the public
+                               Water Marketing                              501
+
+partnership, with 40 percent of the shares [L.A. Times, 3—86, 8—87]. The
+Newhalls are developing the city of Valencia, but slowly: 7,000 of its 10,000
+acres remain undeveloped.
+  The Newhalls were early, major financial backers of the political cam-
+paigns for the 1982 Peripheral Canal bond issue to bring more northern
+water south.85 MWDSC was the front. The Newhalls also work through the
+Castaic Lake Water Agency which is a major lobbyist and, some believe,
+their own fiefdom (Gaffney, 1997). The purpose of this proposed project
+was to valorize speculative landholdings on the fringe of the southern meg-
+alopolis. They joined in this campaign with other large development inter-
+ests: the Irvine Company, Southern California Edison, Security Pacific Bank,
+Rockwell, Mission Viejo (the O'Neills), Bixby Ranch, and Union Oil [L.A.
+Times, 1—80]. Yeager Construction Co. (highways and landholdings) led
+the campaign in Riverside County.
+   MWDSC solicitude for speculative landowners does not stop at its
+boundaries. It has a history of releasing a large part of its entitlements in
+California Aqueduct water to a few water districts in Kern County! It has
+gone along from the start with pricing policies egregiously unfavorable to
+its own people to subsidize the Kern County Water Agency (Storper and
+Walker, 1984). This agency serves lands straddling 1-5, owned by a few
+major oil companies in which MWDSC Directors have signfficant interests.87
+Another huge owner is the Chandler family, whose interests include the
+Los Angeles Times, and the vast Tejon Ranch and (part of the) J.G. Boswell
+landholdings of the southern and western San Joaquin Valley (Gottlieb and
+Wolt, pp. 500—509; Villarejo, 1981, pp. 3—10). The Times spearheaded the
+Peripheral Canal campaign.89
+  All that is not to disparage the MWDSC ideal. It's the practice that is faulty,
+and the problem is the same as with the U.S. Bureau of Reclamation: land-
+owner domination of what should be a democratic institution. The reme-
+dies are the same as those advanced by Progressives like Hiram Johnson
+(R) and Woodrow Wilson (D): democratic control with professional lead-
+ership.
+   That seems so long ago as to be irrelevant, but don't despair. What de-
+stroyed Progressivism was The Cold War, which really began in 1919 with
+The Palmer Raids and is only now just ending. This seems a good time to
+pick up where The Progressives left off. The old bones are stirring. Merrill
+Goodall's studies have analyzed the problem. The Center for Law in the
+502             American Journal of Economics and Sociology
+Public Interest, representing the disenfranchised citizens of Irvine, won its
+1979 case forcing reform of voting in the Irvine Ranch Water District, It's a
+matter of marshaling a few troops to win the battles of democracy. As
+Clarence Darrow said, "Authority is nothing more than what the rich and
+powerful can put over on the rest of us." It is not to despair that we must
+turn; rather, let us learn the right lesson for future guidance. Do not look
+to big landowners to give us free markets. The white hats were a handful
+of idealistic populist battlers who persevered against ridicule, libel, indif-
+ference, the press, the landed/monied establishment, and daunting odds.
+We have always suspected democracy depends on such die-hards; "New
+Resource Economists" and other water marketeers need to learn free mar-
+kets depend on them, too.
+
+                                          Notes
+  1. Nancy Moore now speaks for RAND Corporation. She is partial to the pink-slip
+metaphor. She and her former co-author Charles Phelps, in telephone interviews, are
+more temperate in their claims and open to dialogue. However, their basic monograph
+(Phelps et al., 1978) seems based on a "hard-line" Chicago-Rochester doctrine. It contains
+no distributive philosophy other than converting conditional tenures into absolute
+property.
+   2. AB 3491. The statute lets water districts act as brokers for individuals, and mandates
+state agencies to encourage and provide technical help. The State Department of Water
+Resources has set up a Water Transfers Committee to do so.
+   3. AB 2746. See Saliba and Bush, 1987, p. 178.
+   4. Other examples might be sheep in sixteenth century England during the first enclo-
+sure movement, and wheat during the second. Timber replacing small farmers in the
+Appalachians is another example. Cheap energy has sometimes helped giant farm ma-
+chines displace workers, and often lower yields.
+   5. This is a shift from the dream of "Water, Wealth, Contentment and Health" that was
+promised and delivered to the people of Modesto from 1887 to 1950 or so, when they
+were struggling and paying to develop their waters. Modesto today is prosperous and
+secure—but a third member of the ten highest-welfare cities.
+   Modesto has delivered water without variable charge from an early date. However, in
+its earlier days it levied steep land assessments to pay for ambitious dams and canal
+systems. It was these that kept the landowners hopping. Now the bonds are retired, land
+yields a surplus that attracts absentee buyers with a lesser propensity to husband land
+intensively.
+   6. Such common sense is obscured by the clumsy apparatus of 'production possibility
+curves" and "frontiers" that micro-economists stylize their thinking with today; ditto for
+"Cobb-Douglas functions." Wearing those blinders, economists generally presume that
+higher input prices must lead to lower output. However, it is a three-factor world. The
+                                    Water Marketing                                      503
+"product" of cheap water to many farmers is not the increase of yields, but the drop of
+costs other than water.
+   7. Such a tax has been proposed by White, p. 5; Boulding, p. 91; Brewer, pp. 240—42;
+Young and Martin; Young, Daubert, and Morel-Seytoux; Billings; Gaffney 1969, 1973,
+1977, 1988; and indirectly, by van Schulfgaarde, p. 114. It is possible but not confirmed
+that it was also proposed by RAND Corporation, cit. Dennis, p. 79. Possibly there was
+division among the many RAND people putting out studies. Phelps et al., p.17, seem
+negative, because the "tax would heavily redistribute wealth away from current water
+users" ... and so "is likely to meet heavy political opposition             That is an oddly
+non-efficiency reason to bear weight in a study otherwise exclusively concerned with
+and entitled Efficient Water Use, but it serves them to dismiss the matter.
+   8. Colorado applies such a tax along the S. Platte River, calling it an "augmentation
+charge." The approach "has operated for several years, . . . with little problem or con-
+troversy" (Young, Daubert and Morel-Seytoux, p. 790).
+   9. For $180/year one can keep current with Water Market Update, Santa Fe.
+   10. It now seems likely that Imperial Irrigation District will transfer a small part of its
+large surplus to MWD. This deal has been in the making for some 40 years, and should
+probably not be attributed to recent legislation, according to Myron Holburt, representing
+MWD. The "deal" was made in 1989, but no water is expected actually to be shifted until,
+(and who knows what glitches await) (Warren, 1991a). The amount proposed for transfer,
+100,000 a.f., is only about 3 percent of the nearly 4 m.a.f. taken by irrigators on the lower
+Colorado, California side—more than a token, but just barely.
+   11. I refer here to emergency or "spot market" water. As to permanent supplies, they
+themselves have avoided acquiring them, to stifle unwanted growth. In Santa Barbara in
+1989 there was a six-year line-up for water for detached homes; twelve years for multiple
+units (Evans, p. 2).
+   12. This support is found on its Editorial page, June 5 and July 3, 1991.
+   13. Water districts have prospered by serving compact blocks of land, thus minimizing
+conveyance costs (Gaffney, 1969). Forced inclusion of lands in the service perimeter is
+at the heart of Irrigation District history, economy, and success.
+   14. Procedures for severing water from specific lands are still so clumsy and uncertain
+that MWD plans to rely mainly on buying lands outright and idling them, to get their
+waters (Warren, 1991). This extreme "meat-axel' procedure dates back to 1907: it is how
+Los Angeles got its Owens Valley waters (Kahrl, 1982; Ostrom). Coupled with Katz's latest
+bill, it could seriously inflate distribution costs in rural districts.
+   15. This occurred in the Senate Agriculture and Water Committee (one hopes for the
+right reasons) in mid-August, 1991 (L.A. Times, 26 August 91).
+   16. For a long bibliography see Graham, p. 172, n. 440.
+   17. Marshall was a former Colonel in the Engineer Corps who had retired to promote
+his dream as a private California citizen (Kahrl, 1978, p. 51). For a less rosy view of
+Marshall, and a discussion of Spreckels, see Angel, 1944, 60—67.
+   18. Later yet, in 1959 California revived utility-type contracts in the Burns-Porter Act
+and the State Water Plan (Graham, 184—88), coming full circle. The State's position has
+not been marked by philosophical consistency.
+504            American Journal of Economics and Sociology
+   19. In this the Feds were much less radical than the home-grown Marshall Plan, in
+which the Kings River was fully integrated in 1927 (Jopson and Giannelli, Plate 2). The
+State Water Code, Section 105, says ". . . the State shall determine in what way the water
+of the State, both surface and underground, should be developed for the greatest benefit"
+(op. cit., p. 1).
+   20. A common misuse of theory is the notion that people react to opportunity cost as
+promptly as they do to cash costs because that is what "rational" people "should" do.
+This belief is a severe case of doctrine overriding observation.
+   21. The point was raised by Gaffney, 1961, pp. 38—40, who called it the "heirloom
+attitude"; attacked in Trelease, 1961, who called the reasoning "subliminal"; and defended
+in Gaffney, 1962. The point is also observed by Phelps et al. 1978, p. 28.
+   22. A water license is not real property, but a privilege. Privileges are less protectable
+than property. Recall that Congress passed a corporation income tax in 1909 as a license
+fee for the privilege of doing business as a corporation. Congress did this at a time before
+the 16th Amendment when it could not (practically) tax the income from property. On
+such nice wordplay do mighty issues turn.
+   California's tax limit applies only to "real property." This raises the interesting possi-
+bility that a tax based on water licenses—privileges—would be exempt from California's
+tax limit. Where there's a will there's a legal way (Gaffney, 1988).
+   Another possibility is levying a special benefit assessment on lands with special access
+to waters. A California court has ruled that benefit assessments are not taxes and therefore
+not limited by Proposition 13 (American River Flood Control District v. Board of Super-
+visors, Sacramento County, 130 Cal Ap. 3d 707, 1982. Also, County of Fresno v. Malstrom,
+94 Cal. App. 3rd, 974, 1979).
+   23. The episode was dramatized in the film Chinatown, although key names like Mul-
+holland, Van Nuys, Sherman, Huntington, Otis, and Chandler are occidental.
+   24. "I weep for you," the Walrus said; "I deeply sympathize. With sobs and tears he
+sorted Out those of the largest size, holding his pocket handkerchief before his streaming
+eyes. "—Lewis Carroll
+   25. Seeking to avoid the treadmill effect in Arizona, the Carter Administration required
+the state to control farm overdraft as the pnce for the subsidized Central Arizona Project.
+In result, Arizona water is being urbanized much faster than California water (Peterson,
+1986). Earlier, pioneer water economists Robert Young and William Martin had been
+traduced and penalized at The University of Arizona for recommending the same thing.
+They did not have Federal billions behind them (Young and Martin, 1967).
+   26. Power companies, of course, are the greatest consumers of elevation. The tax on
+water "withdrawals" proposed herein would include a tax on power drops (British Co-
+lumbia has long raised revenues from such a tax). It has often been alleged that power
+companies used "pigmy dams" to preempt power drops while undenitilizing them (Leg-
+islative Analyst, 1947, p. 8). If so, the proposed tax, based on putative full development,
+would prompt such development.
+   27. Consolidated People's Ditch Co. v. Foothill Ditch Co., 1928, cit. Gaffney, 1961.
+Elevation of water has great value, even if not used to generate power, because it is used
+to move water hundreds of miles, by gravity.
+                                   Water Marketing                                    505
+  28. Heaping irony upon manure, these malodorous piles in an urban area result from
+preferential low assessment of farmland, to enhance the environment.
+  29. These authors, under color of technical analysis, actually base their findings on the
+political premise that no pump tax should be considered unless the result is to raise
+overlying farm land rents and prices. Their model is tailored to the west side of Kern
+County, California, province of a few giant landowners whose political power and militant
+opposition to metering water use are well known.
+   30. The small charges cover expenses of the Gage Canal Co., which delivers in the
+cheapest old-fashioned way, by gravity, in rotation with other users. The Canal Co. pays
+nothing at the source for water as such.
+   31. Apologies to etymological purists for combining a Greek with a Latin root.
+   32. There is no need to embarrass the author, long retired, by naming him or her.
+   33. The good instinct behind the writeis point was that access to fisheries needs to
+be limited or otherwise better managed. That much of the work is valid.
+   34. Wahl is silent on the standing of those who have been getting water for excess
+lands in violation of federal law. His clear implication, however, is in their favor on all
+points. This is no small matter. For example, Southern Pacific Land Co. owns 81,200 acres
+in the Westlands Water District alone (Villarejo and Redmond, p. 46). Boswell has 24,000
+acres. Both have larger holdings elsewhere getting more subsidized water.
+   35. Compounding the offense, Wahl wrote this at exactly the time that 40-year con-
+tracts on CVP waters were expiring and up for review. The whole point of those contracts,
+and the strife in 1948 on, and the Ivanhoe decision, was that subsidies were not to be
+perpetual. Congress has waffled since then, but there is no need to encourage them.
+   36. This is the main policy pushed in the otherwise scholarly and useful study of Wahl,
+1989. He premises it on pp. 3, 5, repeats the point several times, and concludes with it
+onp. 295.
+  37. The plot thickens when we consider that ground storage is a traditional route
+whereby small users cross-subsidize large ones (Fellmeth, 1973, 168; Teitz and Walker,
+59—67). This is because overlying landowners have pumping rights proportional to their
+acreage.
+   38. Severance taxes, property taxes, and gains taxes need to be combined optimally.
+We leave the details moot here.
+   39. U.S. Senator Bill Bradley promoted a bill in 1991 that would include a gains tax of
+25 percent on transfers (Ellis, 1991a).
+   40. There are issues among states, and between states and the United States. Here we
+confine our attention to one state.
+   41. There are exceptions, too trivial to pursue here. The legal ambiguity is betrayed
+when some licenses are taxed as personal, others as real property.
+   42. Wells Hutchins authored a pamphlet on water law for California farmers in which
+boldface headings read "Water Rights Are Real Estate." These headings were apparently
+added by someone else; Hutchins' text says no such thing (Hutchins, 1956b). His full-
+dress book of the same year states that the 1928 Amendment to the California Constitution
+limits water claims previously considered property, and these limits "apply to the use of
+506             American Journal of Economics and Sociology
+all water under whatever right           (Hutchins, 1956a, p. 19). ". . . the (new) appropri-
+ator may take the surplus without giving compensation" (op. cit., p. 18). Those are not
+attributes of property.
+   43. The peroration of Sax's scholarly, documented treatise is quite stirring, as though
+inspired by Moses, Tolstoy, and Henry George.
+   44. No one ever could figure it out to the dollar, so cooked are the books. A major
+effort was made by Alan Post, 1982; a minor one by Mason Gaffney, 1982.
+   45. In Ivanhoe the USSC rejected the doctrine that the state holds water in trust spe-
+cifically for excess landowners, opining instead that "The project was designed to benefit
+people, not land" (357 U.S. 296). In Sporhase (458 U.S. 941 [19821) it rejected the use of
+trust doctrine to stop interstate transfers. I do not presume to enter the technical side of
+the law of trusts, but neither decision seems to have inhibited the flowering in the 1980s
+of the public trust doctrine to protect instream uses. In all three instances, the courts seem
+to be sorting things out as well as I could ask.
+   46. The point is made in Herfindahl and Kneese, 1965, rpt. 1974, p. 287.
+   47. Comprehensive Environmental Response, Compensation and Liability Act.
+   48. Hanemann (1991) uses "received theory" to refute Carson/Mitchell et al.
+   49. In the 1981 work they find the difference is only 1%. They cite this approvingly,
+1989, pp. 32—33.
+   50. For a flagrant example of the genre see WahI, p. 130. Economists today are trained
+to toss this off without thinking and even come to believe it themselves.
+   51. It's called the "contingent valuation method," or CV, because the questions are
+hypothetical.
+   52. Mitchell and Carson are a challenge to decipher. The "fine print" is scattered. It
+comes down to this, however. High-valued answers to VFA questions are an "artifact,"
+and not "meaningful." "[VFP] and [WTAI should be within 5 percent of each other.
+(pp. 22—23, emphasis supplied). To say "I want an extremely large... amount of com-
+pensation for agreeing to this" is a "protest answer," and they trash it. 50 percent or more
+of all answers are often such "protest" answers. These answers are "outliers" (p. 34).
+They remove "outliers" either outright or by using statistical devices that have the effect
+of discounting them (p. 226). See Mitchell and Carson, 1989.
+   53. The case is something like that of NASA's Goddard Space Flight Center and why
+they missed detecting the ozone hole before Farman found it in 1985. "Their instruments
+had recorded the losses (of ozone), but the computer interpreting the results had been
+programmed to ignore readings that deviated so far from normal" (BW, 22 July 91, p. 10).
+   54. Status-quo theory is shaken to the foundation by survey findings that VfAWFP.
+Its criterion for acceptable policy changes is based on Pareto's and Edgeworth's notion
+that you mustn't deprive one rich landowner, even to help a thousand starving orphans,
+because you can't compare their subjective feelings. When, however, we acknowledge
+common birthrights to a clean environment, the shoe is on the other foot. Now you can't
+pollute anyone's air or water because the victims own it. They can be as unreasonable
+as any great landlord. This explains the busy-ness of theorists seeking to plug the dike.
+   55. Another large group to consider are the rural Hispanics of the southwest, who put
+                                   Water Marketing                                    507
+a high value on preserving their communities. A survey in Taos and Quests, N.M., found
+80.6 percent were "Opposed and don't want to sell." Only 6.1 percent answered yes to
+"Would sell if price is right" (Brown and Ingram, p. 79). We are talking here about very
+poor people and very expensive water.
+  56. It was 1974 when a survey first showed WTAVFP, "in contradiction to received
+theory (i.e., Coase)." This sent dozens of professors scunying to torture the data until it
+confessed otherwise and saved Coase. Mitchell and Carson slog through a long literature
+survey, apparently impartially, but in the end find ways to stick with WTP after all (1989,
+pp. 37—38).
+  57. Some paranoia may be in order. According to Carson and Navarro (p. 830), Con-
+gress wanted measurements of VIA for CERCLA, but the USD1. overrode Congress and
+used VIP because of the "admitted difficulty by economists of measuring WFA.
+That seems to say that economic consultants overrode the Congress of the United States
+by snowing them with technicalities!
+   58. That cuts at the root of the Pareto concept that is used as a bulwark against chal-
+lenges to concentrated private property. According to Pareto, nothing may be changed
+if anyone is injured, unless that person be compensated. Only win-win changes are
+allowed, beginning from the status quo. The influence of rent-takers has worked this idea
+into the center of economic theory.
+   59. Vernon Smith wants to give away "water deeds" based on histories of pumping;
+Terry Anderson wants to give them away in proportion to land ownership (Terry Ander-
+son, 1983b, pp. 101—02). The idea of firming up titles by actually charging for them
+seems taboo.
+   60. ". . . farmers or cities first divert and use water by crude systems. Conservation
+measures often are delayed until the pinch is on" (Patterson, 1991). In 1962, The Orange
+County Water District sued every upstream diverter on the Santa Aria. In the 1969 judge-
+ment, "each water agency's allotment is based on historical use" (Patterson, 1991). With
+that in mind, Riverside Mayor Davison boasted that "Riverside's water use doubled during
+my term of office" (1941—48). He deemed it an achievement. It reminds one of the uni-
+versity chancellor who boasted his greatest achievement was creating four new vice-
+chancellorships and several associate deanships.
+   61. This writer believes plain old-fashioned land speculation is an example of market
+failure. Some others see it as a wholesome, functional, integral part of the market. The
+writer's position on this is in the following. "Tax Reform to Release Land." In Marion
+Clawson (ed.), Modernizing Urban Land Policy. Baltimore: Johns Hopkins Press, 1973,
+pp. 115—52. "Land and Rent in Welfare Economics." In Marion Clawson, Marshall Harriss
+and Joseph Ackerman (eds) Land Economics Research. Baltimore: The Johns Hopkins
+University Press, 1962, pp. 151—67. "The Unwieldy Time-dimension of Space." AJES 20(5)
+:465—8 1. October 1961. "Land Rent, Taxation and Public Policy." Papers of the Regional
+Science Association Volume 23, 1970, pp. 141—53. "Privatizing Land without Giveaway."
+Conference of Social Collection of Rent in the Soviet Union, August 1990, pp. 1—58 (pub-
+lished in Russian by Ekograd, St. Petersburg, 1995). "Economic Aspects of Water Resource
+Policy." AJE28(2) :131—44 (April, 1969). "Ground Rent and the Allocation of Land among
+508             American Journal of Economics and Sociology
+Firms." In Frank Miller (ed.) Rent Theory, Problems and Practices. North Central Regional
+Research Bulletin 139 (University of Missouri Research Bulletin 810). Pp. 30—49; 74—82.
+"Land as a Distinctive Factor of Production." In Tideman, Nicolaus (ed.), Land and Tax-
+ation. London: Shepheard-Walwyn, 1995.
+   62. In 1958 the U.S. Supreme Court, under California's former Governor Earl Warren
+(R), stunningly reversed the trial and appellate courts and a divided California Supreme
+Court, when it unanimously ruled that the BR held water in its own right, not in trust for
+landowners of the contracting districts. If there were any implied or constructive trust, it
+was on another principle: "The project was designed to benefit people, not land" (Ivan-
+hoe v. McCracken, 357 US. 275, 1958, 296—97). The 9(e) contracts were valid (op cit,
+299—300).
+   Thanks to that decision it is possible to market federal water today (Graham, 172—90).
+The California Supreme Court, shot down, had to admit their misuse of the trust doctrine.
+     was established that the title of the U.S. was or can be made unlimited" (53 Cal. 2d
+at 716, cit. Graham 101). Arguably, it is also the Ivanhoe decision that makes it possible
+to market state water. In the Bums-Porter Act of 1959, the state's answer to Ivanhoe, the
+state elected to use utility-type contracts on the 9(e) model (Graham, 188-90).
+   63. For a bibliography on 9(e) contracts see Graham, p. 172, n. 440.
+   64. They were invoking Section 8 of the Reclamation Act of 1902 which makes fed-
+erally supplied water be "appurtenant to the lands irrigated." Big landowners sought to
+use this to establish permanent ownership in proportion to their holdings. Now they want
+to sell their surplus waters—that's different (WahI, p. 148). Ironically, the concept of
+appurtenancy originated with folk-hero John Wesley Powell (Terrell, pp. 198 if.), whose
+aim was quite the reverse. Powell was assuming the land would be divided into small
+tracts, so to him appurtenancy was a way of assuring subdivision of water.
+   65. On the Kings' River, Pine Flat Dam developed new waters never usable before,
+called "overschedule water." The locals demanded it all (Maass, 1951, p. 218). They also
+demanded full control of all storage space in the reservoir. They also demanded the
+power drops at Pine Flat and elsewhere (Kings' River Water Association, 1950, p. 11).
+   66. John Wesley Powell's idea had been to induce subdivision of land by subdividing
+water. This idea had been incorporated in the Reclamation Act, 1902. Although deeply
+subverted, it has never been repealed. George Chaffey in 1882 at Etiwanda and Ontario
+had developed another approach, subdividing land and water at the same time through
+the device of the mutual water company (Alexander, pp. 32—34), dominant in southern
+California. Mutuals, in spite of the name, are not true coops because voting is based on
+acreage.
+   67. I have discarded the vituperative pamphlets that used to flood the mails. For a long
+bibliography of this "literary exchange of unpleasantries" see Graham, 196, n. 528. It
+begins: "Kaupke Denounces Reclamation Bureau as Communistic and Untrustworthy,"
+and runs on at that level of discourse.
+  68. The Kings River Water Association, publisher of those unpleasantries, is organized
+much like the MWDSC (analyzed below). Power is insulated from the voters in tiers, with
+an appointed board weighted to under-represent populous, democratic irrigation districts
+                                    Water Marketing                                      509
+(Fresno, Aita and Consolidated) (op cit p. 6), and give power to a few big downstream
+landowners through landowner fronts without any democratic franchise. There is an
+executive committee appointed by the appointed board, and a powerful watermaster-
+spokesman at the apex.
+  69. Specifically, there was to be a Friant-Kings Canal, serving the lower Kings from the
+San Joaquin; and a "Kings-Earlimart" Canal tapping Pine Flat and using the elevation thus
+conserved to carry water south (Jopson and Giannelli, Plate 2).
+  70. In 1982 they got the residency requirement repealed; in 1984 they were still work-
+ing through Congress to force the Bureau to weaken enforcement of repayment provi-
+sions (WahI, pp. 149, 66).
+   71. A complete survey of political forces would include private power companies, who
+opposed independently generated and distributed power from public multipurpose
+projects, and had spiked state water power development in 1922 and 1925 (Sinclair, 1933,
+p. 43). Their position was clearly anticompetitive.
+   72. According to Morgan, the Corps next grabbed Maass, put him on the payroll and
+silenced him. I have no first-hand opinion on how fair that appraisal is, but Ballard (1980)
+later finds Maass indulgent toward the Corps and its clientele; Worster finds him 'sym-
+pathetic toward agribuiness and its values" (Worster, p. 255).
+   73. The cliché among standard economists is that we must choose between equity (for
+the poor) and efficiency (for the general good). With landowner subsidies like these,
+they have it backwards. Given time and space one could headline that as another Grand
+Fallacy.
+   74. In Kern County this era may never end. In the 1980s, Stuart Pyle, longtime Director
+of the Kern County Water Agency, was still calling people "communistic" if they sug-
+gested controlling or taxing pumping.
+   75. Worster may be harsh. Clawson was outnumbered and tried to salvage what he
+could in a compromise. It didn't work: the opposition refused to sign anyway (Acreage
+Limitation, 1944).
+   76. I saw him nearly daily from 1969—73. He did not warm to discussing this topic.
+   77. The AES has long sided with the big owners (Kirkendall, 1964, p. 201; Worster, p.
+251). ". . . agricultural economists ... have a vested interest in continuing their present
+relationship with farmer clientele which could be jeopardized if the agricultural econo-
+mists were viewed by farmers as opposing the interests of farmers" (Scott, Jr., and Chi-
+come, p. 11).
+   78. It is tempting to see Downey as a traitor to Upton Sinclair's cause but that is perhaps
+too simple. Sinclair (1934) campaigned for California reform, explicitly opposing control
+from Washington. Downey, opposing a federal agency, was in that limited sense true to
+Sinclair. Otherwise, Downey does seem to have turned against his earlier professions.
+   79. It calls to mind a sagebrush ballad of Clawson's youth, the one about the straight
+narrow path.
+   80. High-income farm corporations today are not sharply different from the 1930s,
+while princes and wise men come and go. Some top incomes in the thirties went to
+Limoneira, Corona Foothill, Irvine, Kern County Land, Sutter Basin, Miller and Lux, Cal-
+510             American Journal of Economics and Sociology
+
+pack (Del Monte),J.G. Boswell, El Tejon, etc. ("California Agricultural Background," 1939,
+pp. 22851 if.)
+  81. Cf. the iimp apologies of Angelides and Bardach, pp. 33—39, and WahI pp. 181—
+85. To their credit, they felt some need to rationalize.
+   82. This is done through the California Water District Act (Water Code Sections 34000
+et seq.) The original water districts in California were "Wright Act" Irrigation Districts.
+Products of the populist-Georgist era, they were and are controlled by popular vote. Large
+landowners put through the later Water District Act to fend off popular control.
+   83. She was appointed in 1976 to replace her deceased husband, James Krieger. It is
+no disrespect to his memory (he is cited with respect herein), or to her personally, to
+acknowledge the impropriety of treating public office like family property. It says a lot,
+however, about the power and mindset of a tight circle who call themselves "Southern
+California's water community" (MWDSC Focus, May, 1990, p. 7).
+   84. MWD has built up a surplus, or "rate stabilization fund," that it uses to avoid peak-
+load pricing. It also taps the fund for "interest-free" expansion capital (Krieger, 1991).
+   85. Curiously, Scott Newhall, then editor of the San Francisco Chronicle, had opposed
+the 1960 California Water Plan, predecessor of the (aborted) Peripheral Canal, "criticizing
+the southern California penchant for population boosting" (Gottlieb, p. 505). It seems
+probable that Newhall, a respected pro in the ancient center of anti-southern power, had
+other priorities then. At that time Newhall lands were well outside the urban penumbra.
+Their traditional citrus empire enjoyed prior claims on the Santa Clara River of the south
+and state aid, which built Pyramid Dam on Piru Creek to regulate it.
+   86. These Kern County and Tulare Lake Basin landowners are also organized in dis-
+tricts with the land-based franchise, one-dollar one-vote. They favor the "Water Storage
+District" form. Some of their names are Arvin Edison, Buena Vista, North Kern, Tulare
+Lake Basin, Rosedale-Rio Bravo, Semitropic, and Wheeler Ridge-Maricopa (Graham, 207—
+08, n. 577). There is not much chance for local residents to assume democratic control
+of these districts and adopt policies favoring small farmers. The Kings River Water As-
+sociation is organized in a manner analogous to the MWDSC (Kings River Water Asso-
+ciation, 1950; Taylor 1949, p. 249).
+   87. These interests are disclosed in MWDSC, April 10, 1981, "Answers to Commonly
+Used Arguments against the Peripheral Canal."
+   88. It would be reasonable to surmise that the Times'editorial position is driven mainly
+by an interest in boosting its circulation. However, Dean Misczynski has shown that a
+project furthered by the Times in 1984 would have had Southern California pay 6i percent
+of the cost to get 8 percent to 13 percent of the water (Staff Report, Avocado Grower,
+December, 1984, p. 10). That seems a dubious way to boost local prosperity and circu-
+lation, leading one to imagine other motives like valorizing Kern County landholdings.
+There is ample precedent from the 1913 "Chinatown" case.
+   89. Upon losing, the Times showed its pride by running a Conrad cartoon of northern
+California, whose votes had beaten the project, as a giant male figure spitefully urinating
+south over the Tehachapis.
+                                   Water Marketing                                     511
+                                      References
+
+Acreage Limitation in the Central Valley, 1944. A Report on Problem #19, Central Valley
+     Project Studies. Berkeley: U.S.D.A., Bureau of Agricultural Economics. Mimeo.
+Albonico v. Madera Irrigation District, 1951. No. 8497, Superior Court of California in
+     and for the County of Madera, Memorandum Opinion and Order, Nov. 21.
+Alexander, J.A. 1928. Lffe of George Chaffey. London: Macmillan and Co., Ltd.
+American River Flood Control District v. Board of Supeivisors, Sacramento County, 130
+     Cal Ap. 3d 707, 1982.
+Anderson, Terry, 1983a. Water Crisis. Ending the Policy Drought. Baltimore: Johns Hop-
+     kins University Press.
+Anderson, Terry (ed.), 1983b. Water Rights: Scarce Resource Allocation, Bureaucracy
+    and the Environment. Cambridge: Ballinger Press.
+Angel, Arthur, 1944. Political and Administrative Aspects of the Central Valley Project of
+     Ca4[ornia. Los Angeles: UCLA.
+Angelides, Sotirios and Eugene Bardach, 1978. Water Banking. San Francisco: Inst. for
+     Contemporary Studies.
+Ballard, Patricia Louise, 1980. ". . . And Conflict Shall Prevail: Reclamation Law, Water
+     Districts, and Politics in the Kings River Service Area of California." MA Thesis, UCLA
+      School of Architecture and Urban Planning.
+Bankole, Sharilyn, 1991. "MWD official wants to give more water to farmers." Riverside,
+      The Press-Enterprise, March 30, p. A-4.
+Billings, Bruce, 1986. "A Severance Tax on Water." A paper delivered at annual meetings,
+      Western Tax Association.
+Birdlebough, Stephen and Alfred Wilkins, 1971. 'Legal Aspects of Conjunctive Use in
+      California." In David Seckler (ed.), Calf fornia Water. Berkeley: University of Cali-
+      fornia Press, pp. 263—70.
+Boulding, Kenneth, 1964. "The Economist and the Engineer: Economic Dynamics of Wa-
+      ter Resource Development." In Stephen Smith and Emery Castle (eds.), Economics
+      and Public Policy in Water Resource Development, Ames: Iowa State University
+      Press, pp. 82—92.
+Bowman, Chris, 1990. "This agency hits pay dirt in drought." The Sacramento Bee, June
+      3, p. B—i.
+Bradley, Michael, Rebecca Morales et al., 1981. The MUD. The Institution and Water
+      Supply Planning. A Report Prepared for the City of Santa Monica. Los Angeles:
+      UCLA, School of Architecture and Urban Planning.
+Brewer, Michael, 1964. "Economics of Public Water Pricing: the California Case." In Ste-
+      phen Smith and Emery Castle (eds.), Economics andPublicPolicy in WaterResource
+      Development, Ames: Iowa State University Press, pp. 222—47.
+Brown, Lee, and Helen Ingram, 1987. Water and Poverty in the Southwest. Tucson: Uni-
+      versity of Arizona Press.
+Bryce, James 1891. The American Commonwealth. London: Macmillan and Co. 2nd Edi-
+      tion Revised. Volumes I, II.
+512             American Journal of Economics and Sociology
+Buchanan, J.M. and Gordon Tullock, 1975. "Polluters, Profits and Political Response:
+   Direct Controls vs. Taxes." American Economic Review 65:139—47.
+Bumess, H. Stuart, and James P. Quirk, 1980. "Water Laws, Water Transfers, and Eco-
+   nomic Efficiency: The Colorado River." Journal of Law and Economics 23 (April):
+      133.
+Bumess, H. Stuart, and James P. Quirk, 1979. "Appropriative Water Rights and the Effi-
+     cient Allocation of Resources." American Economic Review 69:25—37.
+Burnham, John, 1981. "Reevaluation of the Peripheral Canal." Los Angeles.
+California Agricultural Background, 1939. Supplementary Exhibits, Part 62. Violations of
+     Free Speech and Rights ofLabor. Hearings before a Subcommittee of the Committee
+     on Education and Labor, U.S.S., 76th Cong. 3d Sess, pursuant to Sen. Resolution 266
+     (74th Congress). Washington: U.S.G.P.O.
+California Farm Bureau Federation, 1948. "Facts on the Water Rights and Other Issues
+     Confronting Irrigation Agriculture." 2nd ed. Berkeley. Mimeo.
+Canby, Judge William, 1991. Opinion in Santa Monica rent control case, 9th Circuit Court
+     of Appeals, San Francisco, June 4, cited in Egelko, 1991.
+Carpenter, G. Alvin, 1940. Farm Size in Ca4fornia. Berkeley: B.A.E., U.S.D.A., mimeo.
+Carson, Richard T., and Robert C. Mitchell, 1988. "The Value of Clean Water." San Diego:
+     Department of Economics, U.C.S.D., Discussion Paper 88—13.
+Carson, Richard T., and Peter Navarro, 1988. "Fundamental Issues in Natural Resource
+     Damage Assessment," NRJ28, Fall 88, pp. 815—36.
+Caswell, Margriet, and David Zilberman, 1990. "Managing California's Water in the Long
+      Run." Contemporary Policy Issues V11L92—105.
+Central Valley Basin, 1949. USD1., Bureau of Reclamation. Senate Document 113, 81st
+    Congress, 1st Session.
+Clawson, Marion, and Jack Knetsch, 1966. Outdoor Recreation. Baltimore: The Johns
+     Hopkins Press.
+Clawson, Marion, 1987. From Sagebrush to Sage. Washington: Ana Publications.
+Coase, Ronald, 1960. "The Problem of Social Cost."Journal of Law and Economics 3(1),
+    October, pp. 1—44.
+Consolidated People's Ditch Company v. Foothill Ditch Company, 1928. 205 Calif. 54,269
+    Pac. 915.
+Cooper, Erwin, 1968. Aqueduct Empire. Glendale, California, Arthur H. Clark.
+County of Fresno v. Malstrom, 94 Cal App 3rd 974, 1979.
+Crampton, Frank, 1952. "California's War with the 'Welfare State'." U.S.A., November, pp.
+      97—104.
+Crooke, Howard, District Manager, Orange County Water Conservation District, Santa
+    Ana, speaking to the Water Study Section, Commonwealth Club of California, Feb-
+    mary 5, 1959. The Minutes are not for publication, but the facts cited here are of
+    public record.
+Cummings, Ronald, et al., 1986. Valuing Public Goods: an Assessment of the Contingent
+     Valuation Method. Totowa, NJ: Rowman and Allenheld.
+Dean's Committee of College of Agriculture and Environmental Science, 1968. Agricul-
+                                   Water Marketing                                     513
+     tural Development of New Lands, West Side of San Joaquin Valley, Land, Crops and
+    Economics. Report #1, U.C. Davis, 15 Feb.
+Dennis, Hany, 1981. Water and Power. San Francisco: Friends of the Earth.
+DeRoos, Robert, 1948. The Thirsty Land. Stanford University Press.
+Dinuba Sentinel, 1947. "Kaupke Denounces Reclamation Bureau as Communistic and
+   Untrustworthy," April 17.
+Downey, Senator Sheridan, 1947. They Would Rule the Valley. San Francisco: privately
+    printed.
+Dunning, Harrison, 1982a. "The Water Rights Tangle." California Tomorrow, Spring, Vol.
+    17, No. 2, pp. 19—23.
+Dunning, Harrison, 1982b. Water Allocation in California: Legal Rights and Reform
+     Needs. Berkeley: Institute of Governmental Studies, U.C.
+Dunning, Harrison, 1990. "Dam Fights Make California's Water Policy." Bay on Trial
+     2(2—3):12—16. (The Bay Institute of San Francisco, 10 Liberty Ship Way #120, Sau-
+     salito CA 94965.)
+Egelko, Bob, 1991. "Santa Monica wins rent control battle." Los Angeles Times,June 5, p.
+     A-4.
+Ellis, Virginia, 1991a. "Bill Altering Use of U.S. Water in State Stirs Sparks." Los Angeles
+     Times, May 31, p. A—3.
+Ellis, Virginia, 1991b. "Panel OKs Bill Easing Limits on Water Sales." Los Angeles Times,
+      June 5, p. A—3.
+Ellis, Virginia, 1991c. "Urban Water Bill OKd by Assembly." Los Angeles Times, July 3, p.
+     A-3.
+Evans, Jan, 1989. "Legislative Update." Watchword 1 1(23):1—2. Santa Barbara: Santa Bar-
+     bara Board of Realtors, July 28.
+Feinerman, Eli, and Keith Knapp, 1982. "Benefits from Ground Water Management: Mag-
+     nitude, Sensitivity and Distribution." Mimeo. Department of Soils and Environmental
+     Sciences, University of California, Riverside.
+Fellmeth, Robert (ed.), 1971. Powerand Land in Ca4fornia. In two volumes. Washington:
+     Center for Study of Responsive Law.
+Fellmeth, Robert, 1973. Politics of Land. NY: Grossman Publishers.
+Fischhoff, Baruch, 1990. Book review of Mitchell and Carson, Using Surveys. Public Opin-
+     ion Quarterly 54:286-89.
+Fulton, William, 1996. "Shifting Politics of Water." Los Angeles Times May 19, p. M—1.
+Gaffney, Mason, 1960. "Rural—urban Competition for Water." JFE42 (December): 1363—
+     66.
+Gaffney, Mason, 1961. "Diseconomies Inherent in Western Water Laws: a California Case
+     Study." Economic Analysis and Multiple Use, Report #9 in the series Water and
+     Range Resources and Economic Development of the West. Proceedings of Western
+     Agricultural Economics Research Council, Range and Water Section, Tucson, Jan-
+     uary 1961, pp. 55—82. Republished, Hearings on Economic Analysis and the Effi-
+     ciency of Government. U.S. Congress. Joint Economic Committee. Subcommittee
+     on Efficiency in Government. Part 2, pp. 389—405.
+514               American Journal of Economics and Sociology
+Gaffney, Mason, 1962a. 'Comparison of Market Pricing and Other Means of Allocating
+    Water Resources." Water Law and Policy in the Southeast. Southeastern Water Law
+     Conference, Univ. of Ga., Nov. 1961, published by Inst. of Law and Govt., Univ. of
+    Ga., in cooperation with the Farm Foundation and the Southeastern Land Tenure
+     Research Committee, pp. 195—229.
+Gaffney, Mason, 1962b. "Water Law and Economic Transfers of Water: a Reply." JFE
+      44(2):427—34, May.
+Gaffney, Mason, 1966. "Milliman on Urban Water Price and Tax Policy." American Jour-
+     nal of Economics and Sociology, 35 (September), pp. 399—404.
+Gaffney, Mason, 1967. "Urban Water Supply—A Second Look." American Economic
+     Association Proceedings, May, pp. 192—95.
+Gaffney, Mason, 1969. "Economic Aspects of Water Resource Policy." American Journal
+     of Economics and Sociology 38(2):131—44, April. Republished in Charles J. Meyers
+     and Dan Tarlock (eds.) Water Resource Management: a Law School Case Book.
+     Stanford Law School. Republished in Jesse Dukeminier and James Krier (eds.) Prop-
+     erty. Boston: Little, Brown, 1981.
+Gaffney, Mason, 1973. "A Critique of Federal Water Policy." In R. Haveman and R. Ham-
+     nm, eds., The Political Economy of Federal Policy. New York. Harper and Row.
+Gaffney, Mason, 1977. "Diseconomics Inherent in Our Present Water Law." Final Report
+     of the Commssion on Water Rights. Sacramento.
+Gaffney, Mason, 1982. "Why I Recommend a 'No' Vote on the Resolution to Endorse the
+     Peripheral Canal Proposal." Appendix to Report and Recommendation on Periph-
+     eral Canal, Report of Public Utility Commission to City Council, City of Riverside, in
+     my capacity as Public Utility Commissioner, pp. 1—7.
+Gaffney, Mason, 1988. "Tapping Land Rents after Prop. 13." Western TaxReview(annual),
+      pp. 1—55.
+Gaffney, Mason, 1989. "Non—point Pollution." J. of Business Administration 18(1 & 2),
+     (Special Issue: Future Directions for Economics), pp. 133—54.
+Gaffney, Mason, 1992a. "Rising Concentration and Falling Property Tax Rates." In Gene
+     Wunderlich (ed.), Land Ownership and Taxation in American Agriculture. Boul-
+     der: Westview Press, pp. 119—37.
+Gaffney, Mason, 1992b. "The Taxable Surplus in Water Resources." ContemporaryPolicy
+     Issues 10 (October): pp. 74—82.
+Gaffney, Mason, in press, 1997. "Who Owns Southern California?" In Kenneth Wenzer
+     (ed.), Our Land and Land Policy. Rochester: Rochester University Press.
+Gates, Paul, 1961. "California's Agricultural College Lands." Pacific Historical Revtew 30
+      (May): pp. 103—22.
+Gates, Paul, 1970. "The Suscol Principle, Preemption, and California Latifundia." Pacific
+     Historical Review 39 (November): pp. 395—430.
+Gates, Paul, 1975. "Public Land Disposal in California." In James Shideler (ed.), Agricul-
+     ture in the Development of the Far West. Washington: The Agricultural History So-
+     ciety.
+Gates, Paul, 1978. "California Land Policy and its Historical Context: the Henry George
+                                   Water Marketing                                      515
+     Era." Institute of Governmental Studies, Four Persistent Issues. Berkeley: University
+     of California, pp. 1—30.
+George, Henry, 1871, rpt. 1901. Our Land and Land Policy. New York: Doubleday and
+    McClure Co.
+George, Henry, 1879, rpt. 1929. Progress and Poverty. New York: Modem Library.
+George, Henry, 1898, rpt. 1939. The Science of Political Economy. New York: The Robert
+     Schalkenbach Foundation.
+Gleason, Victor E., 1977. "Los Angeles v. San Fernando: Ground Water Management in
+     the Grand Tradition." 4 Hastings Constitutional Law Quarterly, pp. 703, 709.
+Goldenweiser, E.A., and Leon Truesdell, 1920. Farm Tenancy in the United States. U.S.
+     Bureau of the Census, Census Monograph #4.Washington: U.S.G.P.O.
+Goldschmidt, Walter, 1947. As You Sow. The Free Press, Glencoe, Illinois.
+Goldschmidt, Walter, 1975. "A Tale of Two Towns." In Peter Barnes (ed.), The Peoples'
+     Land. Emmaus, PA: Rodale Press, for the National Coalition for Land Reform, pp.
+     171—75.
+Goodall, Merrill, John D. Sullivan and Timothy De Young, 1978. Ca4fornia Water. A New
+      Political Economy. N.Y.: Allenheld.
+Goodall, Merrill, and James Jamieson, 1974. "Property Qualification Voting in Rural Cal-
+      ifornia's Water Districts." Land Economics 50 (August): 292—94.
+Goodall, Merrill, 1991. "Property and Water Institutions in California." Draft, pp. 1—18,
+      available from author, Claremont Graduate School.
+Gottlieb, Robert, and Irene Wolt, 1977. Thinking Big. New York: Putnam.
+Gottlieb, Robert, and Peter Wiley, 1982. Empires in the Sun. New York: Putnam.
+Gottlieb, Robert, 1988. A Life of Its Own. NY: Harcourt Brace Jovanovich, Publishers.
+Graham, Leland 0., 1961. Some Aspects of Federal—State Relationships in California Water
+      Resources Development. (Duplication process) Sacramento.
+Hadly, Scott, 1990. "Is water marketing a monster?" Bay on Trial 2(2&3):17.
+Hall, Carlyle, et al., 1979. Petitioner brief in O'Toole v. Irvine Ranch Water District, Su-
+     perior Court, State of California, County of Orange, Civ. Nos. 29—12—52, 29—12—63,
+    with Stipulation thereto.
+Hanemann, Michael, 1991. "Willingness to Pay and Willingness to Accept: How Much
+     Can They Differ?" American Economic Review 81(3):635—47.
+Hardin, Garrett, April, 1966. "Equality, One World and Science," Western Destiny, p. 17.
+Harding, S.T., 1950. "Background of California Water and Power Problems," 38 CalLaw
+     Rev 547.
+Harding, S.T., 1960. Water in California. Palo Alto: N—P Publications.
+Henley, Albert, 1969. "Land Value Taxation by California Irrigation Districts." In Arthur
+     Becker (ed.), Land and Building Taxes. Madison: UW Press, pp. 137—45.
+Herfindahl, Orris, and Allen Kneese, 1965. "Some Problems Associated with the Use of
+     Rural Areas." Quality of the Environment. Washington: Resources for the Future,
+     Inc., pp. 74—79. Rpt. in David Brooks (ed.), 1974. Resource Economics. Washington:
+     Resources for the Future, Inc., pp. 285—89.
+Hirshleifer, Jack, James DeHaven, and Jerome Milliman, 1960. Water Supply. Chicago:
+     University of Chicago Press.
+516             AmericanJournal of Economics and Sociology
+Huffman, James L., 1993. 'State Law of Water Rights." "Federal Allocation and Regulation
+    of Water." In Polly Dyer (ed.), Whose Water? Past; Present; Future. Seattle: Institute
+    for Environmental Studies, University of Washington, pp. 7—12.
+Huffman, Roy, 1953. Irrigation Development and Public Water Policy. New York: The
+      Ronald Press Co.
+Hutchins, Wells, 1956a. The California Law of Water Rights. Sacramento: State Engineer
+      of California in cooperation with Production Economics Research Branch, Agricul-
+      tural Research Service, U.S.D.A.
+Hutchins, Wells, 1956b. Imgation Water Rights in California. AES'Circ. 452.
+Hutchins, Wells, 1967. Irrigation Water Rights in California. AE Circ. 452, revised.
+Hutchins, Wells, 1977. Water Rights Laws in the Nineteen Western States, Vols. I—HI.
+      Completed by Harold Ellis and Peter DeBraal. Misc. Pub. #1206, Natural Resource
+      Economics Division, Economic Research Service, U.S. Department of Agriculture.
+      Washington: U.S.G.P.O.
+In re Hood River, 1924. 114 Oregon 112, 227 Pac. 1065.
+Ivanhoe ID. v. Courtney McCracken, 357 U.S. 275, 1958
+Jaquette, David L., and Nancy Moore, with Albert J. Lipson, 1978. Efficient Water Use in
+      California: Groundwater Use and Management. Santa Monica: The RAND Corpo-
+      ration.
+Johnson, R.W., 1989. "Water Pollution and the Public Trust Doctrine." Environmental
+      Law Review 19: 485—513.
+Jopson, L.C., and W.R. Gianelli, 1955. Water Right Applications by State Department of
+     Finance. . and Other Related Matters. Sacramento: State of California, Division
+     of Water Resources.
+Kahrl, William (ed.), 1978. California Water Atlas. Sacramento: State of California.
+Kahrl, William, 1982. Water and Power. Berkeley: University of California Press.
+Kaupke, Charles, 1957. Forty Years on the Kings' River. Fresno: Hume Printing, for The
+     Kings River Water Association.
+Kings River Water Association, 1950. Kings River — Facts and Falsehoods. Fresno: Kings
+     River Water Association.
+Kirkendall, Richard, 1964. "Social Science in the Central Valley of California." California
+      Historical Society Quarterly 43 (3): 195—2 18.
+Kirkendall, Richard, 1966. Social Scientists and Farm Politics in the Age of Roosevelt.
+     Columbia, Mo.: University of Missouri Press.
+Knapp, Keith, and Henry J. Vaux, Jr., 1982. "Barriers to Effective Ground Water Manage-
+     ment: the California Case." Ground Water 20(1):61—66.
+Krieger, James, and Harvey Banks, 1962. "Ground Water Basin Management." 50 Cali-
+    fornia Law Review 56.
+Krieger, Lois Boylan, 1991. "MWD Reserves." Los Angeles Times, Editorial Page, May 12.
+LaBahn, Edward A., 1971. "Taxation of Water Rights by Local Government." University
+    of Southern California, School of Public Administration, typewritten, pp. 1—19.
+Landownershp Survey on Federal Reclamation Projects, 1946. USD1., Bureau of Rec-
+    lamation. Washington: U.S.G.P.O.
+                                  Water Marketing                                   517
+La?ge Landholdings in Southern California (A Report on), with Recommendations, 1919.
+     Issued by California Commission on Immigration and Housing. Sacramento: Cali-
+     fornia State Printing Office.
+Leake, Robert Jr., and Stanley Barnes, 1979. The Pine Flat Project on Kings River, Cali-
+    fornia: Should Reclamation Law Applj.? Fresno: Kings River Water Users' Commit-
+     tee.
+Legislative Analyst, 1957. Economics of a State Water Program. Sacramento: California
+     State Legislature.
+Le Veen, Philip, and Laura King, 1985. Turning Off the Tap on Federal Water Supplies.
+     San Francisco, The National Resources Defense Council.
+Levin, Myron, 28 December 1988, "U.S. Issues New Policy on Marketing Water," Los
+     Angeles Times, p. 1—3.
+Maass, Arthur, and Raymond Anderson, 1978. And the Desert Shall Rejoice: Conflict,
+    Growth and Justice in Arid Environments. Cambridge: MIT Press.
+Maass, Arthur, 1951. Muddy Waters. Cambridge: Harvard University Press.
+Maass, Arthur, 1952. The King's River Project. Inter—University Case Program. New York:
+    Harcourt Brace & Co.
+MacCannell, Dean, and Jerry White, 1984. "The Social Costs of Large-scale Agriculture:
+     The Prospects of Land Reform in California." In Charles Geisler and Frank Popper
+     (eds.), Land Reform: American Style, Totowa, NJ.: Rowman & Allenheld, pp. 35—
+     54.
+Marts, Marion E., 1961. "When Can California Join the Union?" Presidential Address, As-
+     sociation of Pacific Coast Geographers, in 1961 Yearbook, Association of Pacific
+     Coast Geographers.
+McWilliams, Carey, 1939. "Land Monopolization." Chap. 2, Factories in the Field, Boston:
+     Little, Brown and Co., pp. 11—27.
+McWilliams, Carey, 1976. California: the Great Exception. Santa Barbara: Peregrine Smith.
+Merritt, John, 1968. "Project Ground Water." Washington Law Review 44: pp. 259—306.
+Metzler, Barbara, 1991. "MWD OKs builder's plea for annexation." Riverside, The Press—
+     Enteiprise, February 28, p. B—4.
+Mitchell, David L., 1993. WaterMarketing in California. San Francisco: Foster Economics.
+Mitchell, Robert C., and Richard Carson, 1981. "An Experiment in Determining Willing-
+     ness to Pay for National Water Quality Improvements," draft report to the U.S. EPA.
+     Washington, D.C.
+Mitchell, Robert C., and Richard Carson, 1989. Using Surveys to Value Public Goods: the
+     Contingent Valuation Method. Washington: Resources for the Future.
+Moore, Nancy, and Timothy Quinn, 1984. "If 'Water—rich' Californians Could Sell, We'd
+     All Profit." Los Angeles Times, September 17, editorial page.
+Moore, Nancy, 1991. "There Are Ways to Lessen Water Crisis." Los Angeles Times, May
+     8, editorial page.
+Morgan, Arthur, 1971. Dams and other Disasters. Boston: Porter Sargent Publishers.
+Muir, Frederick, 1991. "MWD Has Too Much of a Good Thing - Reservoirs Brimming."
+     Los Angeles Times, 20 August, p. B—i.
+518             American Journal of Economics and Sociology
+National Planning Association, 1971. "Federal Land Reclamation." An NPA Agriculture
+     Committee Policy Statement. Looking Ahead 19(7):1—7.
+News Services, 1991. "Millions of Californians awash in unmetered water." Riverside, The
+      Press—Enteiprise, March 16, p. A—3.
+Ostrom, Vincent, 1954. Water and Politics. Los Angeles: The Haynes Foundation.
+Patterson, Tom, 1991. "The Search for Water: How Riverside Got an Early Start." Riverside,
+      The Press—Enterprise, 28 April, p.B—5.
+Peterson, Cass, 1986. "Farms Come Up Dry in Arizona Water Project." Los Angeles Times,
+     June 9, p. IV—2.
+Phelps, Charles, Nancy Moore, and Morlie Graubard, 1978. Efficient Water Use in Cali-
+     fornia: Water Rights, Water Districts, and Water Transfers. Report to the California
+      State Assembly Rules Committee, Prepared in part under a grant from the Rockefeller
+      Foundation. Santa Monica: The RAND Corporation.
+Phelps, Charles, Nancy Moore, and Timothy Quinn, 1982. "The Challenge of Water Con-
+      servation: Sharing the Burden Equally." Sacramento Bee, December 30, page no.
+      n.a.
+Post, Man, Chairman, 1982. Report of the Task Force on California's Water Future. State
+      of California, Commission for Economic Development, Sacramento.
+Powell, John Wesley 1878. Report on the Lands of the Arid Regions of the United States,
+      ed. Wallace Stegner, 1962. Cambridge, Mass.
+Pring, George, and Karen Tomb, 1979. "License to Waste." Proceedings, 25th Annual
+      Rocky Mountain Mineral Law Institute, Article 25, pp. 1—67.
+Roberts, Polly, 1971. "Power and Land in California." A summary of the Nader Report
+     chaired by Robert Fellmeth, 1971, q.v.
+Robie, Ronald, 1978. "Water Issues Facing California." Institute of Governmental Studies,
+      Four Persistent Issues. Berkeley: University of California, pp. 31—52.
+Robinson, W.W., 1948. Land in Ca4fornia. Berkeley: U.C. Press.
+Salamon, Kathleen, 1991. "Desalination plant to treat basin's nitrate—laced water." Los
+      Angeles Times, March 12, pB—i.
+Saliba, Bonnie C., and David Bush, 1987. Water Markets in Theory and Practise: Market
+      Transfers, Water Values, and Public Policy. Boulder: Westview Press.
+Sapiro, Stanley, 1953. Appellant's Opening Brief, Hanks v. Board of Equalization.
+Sax, Joseph, 1990. "The Constitution, Property Rights and the Future of Water Law," Uof
+      Colorado Law Rev 6 1:257.
+Schultz, T.W., 1954. "Some Guiding Principles in Organizing Agricultural Economics Re-
+      search." JFE 36:18—2 1.
+Scott, John Jr., and David Chicoine, 1991. "Equity in Real Estate Taxation." University of
+      Illinois, No. 91 E—465. Paper given at the Western Economics Association meeting,
+      Seattle, July 2, 1991.
+Seckler, David (ed.), 1971. California Water. Berkeley: University of California Press. Staff
+      Report, 1984. "Water Trading Suggested as One Way to Deal with Future." Avocado
+      Grower, December, p. 10.
+Sinclair, Upton, 1933. I, Governor of California, and How I Ended Poverty. Los Angeles,
+      privately published.
+                                    Water Marketing                                      519
+Sinclair, Upton, 1994 [19341. 1, Candidate for Governor and Howl Got Licked. Berkeley:
+     University of California.
+Steinbeck, John, 1939. The Grapes of Wrath. NY: The Viking Press Inc.
+Storper, Michael, and Richard Walker, 1984. The Price of Water. Berkeley: Institute of
+     Governmental Studies, University of California.
+Taylor, Paul S., 1949. 'The Central Valley Project: Water and Land." The Western Political
+     Quarterly 2:228—53, rpt. Taylor, Paul S., 1979.
+Taylor, Paul S., 1955. "The Excess Land Law: Execution of a Public Policy." The YaleLaw
+    Journal 64(4):455—514, February.
+Taylor, Paul S., 1957. "Destruction of Federal Reclamation Policy? The Ivanhoe Case."
+     Stanford Law Review 10:76—111, December.
+Taylor, Paul S., 1958. "Excess Land Law on the Kern?" 46 California Law Review 2, 153,
+     May.
+Taylor, Paul 5., 1973—75. "Paul S. Taylor, California Social Scientist." Interviews conducted
+     by Suzanne B. Riess and Malca Chall, Regional Oral History Office. Berkeley: Ban-
+     croft Library.
+Taylor, Paul S., 1974. "Whose Dam Is Pine Flat?" The Pacific Spectator 8:349—359, rpt.
+     Taylor, Paul S., 1979.
+Taylor, Paul 5., 1976. "Walter Goldschmidt's Baptism by Fire." Anthropology UCLA 8:129—
+     40, rpt. Taylor, Paul S., 1979.
+Taylor, Paul S., 1979. Essays on Land, Water and the Law in California. NY: Amo Press.
+Taylor, Paul S., 1981. "Water in your COFPHE." California Monthly, Jan—Feb.
+Teitz, Michael, and Richard Walker, 1982. "Industry." In Ernest Engelbert. (ed.), Compe-
+      tition for California Water. Berkeley: UC Press.
+Terrell, John U., 1969. The Man Who Red iscovered America. NY: Weybright and Talley.
+Trelease, Frank, 1957. "Government Ownership and Trusteeship of Water." 45 Cal Law
+     Rev 638.
+Trelease, Frank, 1961. "Water Law and Economic Transfers of Water."JFE43:1147—52.
+Truesdell, Leon, 1931. "Farm Tenancy in the United States." In E.R.A. Seligman (ed.),
+     Encyclopedia of the Social Sciences, Vol. 6. New York: The Macmillan Co.
+Tulare Irrigation District v. Lindsay—Strathmore Irrigation District, 1935.3 Calif. 2nd 489,
+     45 Pac. (2nd) 1972.
+van Schilfgaarde, Jan, 1979. "Water Conservation Potential in Irrigated Agriculture." Pro-
+      ceedings, 34th Annual Meeting of the Soil Conservation Society ofAmerica, Ottawa,
+      pp. 105—15. Available from USDA Salinity Control Laboratory, Riverside, California.
+van Schilfgaarde, Jan, 1982. "The Wellton—Mohawk Dilemma." Water Supply and Man-
+      agement 6(1/2):1 15—27
+Villarejo, Don, 1981. New LandsforAgriculture: the California State WaterProject. Davis:
+      California Institute for Rural Studies.
+Villarejo, Don, 1986. "How Much Is Enough?" Federal Water Subsidies and Agriculture
+      in California's Central Valley. Davis: California Institute for Rural Studies, Inc.
+Villarejo, Don, andJudith Redmond, 1988. Missed Opportunities—SquanderedResources.
+      Davis: California Institute for Rural Studies.
+520             American Journal of Economics and Sociology
+WahI, Richard, 1989. Markets for Federal Water. Subsidies, Property Rights, and the Bu-
+     reau of Reclamation. Washington: Resources for the Future.
+Walker, Richard, and Michael Storper, 1982. "The Expanding California Water System."
+    In Wj. Kockelman et al. (eds.), San 'Francisco Bay: Use and Protection. San Fran-
+    cisco: Pacific Division, A.A.A.S.
+Wame, William, 1947. "Land Speculation." Reclamation Era 33(8):176—77.
+Warren, Jennifer, 1991a. "Farmland Eyed as MWD Water Source." Los Angeles Times, 26
+    April, p. A-3.
+Warren, Jennifer, 1991b. "Well—made Plans keep Palm Springs an Oasis." Los Angeles
+      Times, 28 April, p. A—3.
+Weatherford, Gary, Kim Malcolm and Barbara Andrews, 1982. "California Groundwater
+     Management: The Sacred and the Profane." Natural ResourcesJournal22 (4):1031—
+     44, October.
+Wetzel, Bruce, 1978. Efficient Water Use in California: Economic Modeling of Ground-
+     water Development with Applications to Groundwater Management. Santa Monica:
+     The RAND Corporation.
+White, Gilbert, 1967. "The Changing Role of Water in Arid Lands." Arizona Review 16(3),
+      March, pp. 1—8.
+Wilson, Edwin, and Marion Clawson, 1945. Agricultural Land Ownershib and Operation
+     in the Southern San Joaquin Valley. Berkeley: USDA, Bureau of Agricultural Eco-
+    nomics.
+Worster, Donald, 1985. Rivers of Empire. New York: Pantheon Books.
+Wright, Donald, Chairman. Governor's Commission to Review California Water Rights
+     Law, 1978. Final Report. Sacramento: State Printer.
+Wright v. Best, 1942. 19 Cal (2d) 368, 382 121 Pac. (2d) 702.
+Young, Robert, John Daubert, and Hubert Morel-Seytoux, 1986. "Evaluating Institutional
+    Alternatives for Managing an Interrelated Stream—Aquifer System." AJAE68(4):787—
+     97
+Young, Robert, and William Martin, 1967. "The Economics of Arizona's Water Problem,"
+     Arizona Review, College of Business, 16(3): pp. 9—18.
+Zonlight, Margaret A. Cooper, 1979. Land, Water and Settlement in Kern County, Cali-
+    fornia, 1850-1890. New York: Arno Press.
+

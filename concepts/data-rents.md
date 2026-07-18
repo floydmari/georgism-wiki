@@ -5,7 +5,7 @@ tags: [concepts, data-rents, platform-economy, network-effects, superstar-firms,
 stub: false
 supports_outcomes: []
 excerpt: "The returns a handful of digital firms earn from network-effect moats, accumulated data, and gatekeeping — the 'land-like positions' of the digital economy. The most contested rent in the file, alongside IP: is big-tech profit unearned rent, or the quasi-rent that rewards genuine innovation? The evidence is real but its interpretation is disputed."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -85,7 +85,11 @@ instruments are largely **untested**:
 
 These instruments are compared and graded head-to-head — on whether each actually reaches
 platform rent and whether the burden stays on the platform — at
-[Taxing Tech Rents: an Instrument Comparison](/wiki/taxing-tech-rents/).
+[Taxing Tech Rents: an Instrument Comparison](/wiki/taxing-tech-rents/). The dissolve side has
+a real, checkable enforcement record now — DMA fines, a rejected Google breakup, a lost FTC
+case against Meta — assembled at
+[Rent Dissolution vs. Rent Capture](/wiki/tech-rent-dissolution-vs-capture/), alongside the
+honest counter-case that dissolving a moat can destroy real efficiencies too.
 
 ## Honest Limits
 
@@ -101,8 +105,9 @@ never let the airtight land case lend its certainty to this domain.
 - [Technofeudalism and Siren Servers](/wiki/technofeudalism/) — the polemical feudal-landlord framing of platform dominance (Lanier's "siren servers," Varoufakis's "cloud rent"), a contested narrative extension of this page's core rent question
 - [Data as Labor](/wiki/data-as-labor/) — the leading redistribution proposal for platform/data rents: compensating users as producers of the data platforms use
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+- [Korinek & Vipra — Concentrating Intelligence](/wiki/korinek-vipra-ai-concentration/) — the 2024–25 update: compute-market concentration (Nvidia) as a fresh, checkable rent mechanism, plus the Bertrand-competition evidence against the rent already having tipped
 
-- [DST incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried (Amazon passed ~half the UK DST to sellers) · [Romer's digital ad tax](/wiki/romer-digital-advertising-tax/) — the attention-rent capture proposal · [Furman Review](/wiki/furman-review-digital-competition/) — the official is-it-rent diagnosis and the dissolve pole
+- [DST incidence](/wiki/digital-services-tax-incidence/) — the capture instrument as actually tried (Amazon passed ~half the UK DST to sellers) · [DSTs as actually implemented](/wiki/digital-services-taxes/) — the revenue record and the stalled OECD Pillar One withdrawal bargain · [Romer's digital ad tax](/wiki/romer-digital-advertising-tax/) — the attention-rent capture proposal · [Maryland's digital ad tax after Romer](/wiki/maryland-digital-ad-tax/) — the proposal enacted and litigated, and the is-it-rent question argued both ways · [Furman Review](/wiki/furman-review-digital-competition/) — the official is-it-rent diagnosis and the dissolve pole
 
 - [Superstar Firms](/wiki/superstar-firms/) · [Rochet & Tirole (two-sided markets)](/wiki/rochet-tirole-two-sided/) · [Korinek & Ng (digital superstars)](/wiki/korinek-ng-digital-superstars/)
 - [Crouzet & Eberly (intangibles)](/wiki/crouzet-eberly-intangibles/) — the efficiency counter-view

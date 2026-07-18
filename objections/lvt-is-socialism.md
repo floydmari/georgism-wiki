@@ -5,7 +5,8 @@ tags: [objections, socialism, communism, private-property, single-tax, frank-kni
 stub: false
 status: "A perennial rhetorical charge, not a live empirical dispute — the free-market/classical-liberal reply that Georgism strengthens rather than abolishes private property in labor and capital has been made repeatedly since at least the 1990s (and land value taxation is endorsed by economists across the ideological spectrum, from Friedman to Stiglitz), but the charge itself keeps recurring in new political contexts"
 excerpt: "Critics from Frank Knight to apartheid-era South African free-marketeers have branded the single tax a stalking-horse for socialism or Soviet-style collectivism — a charge Georgists rebut by pointing out land value taxation leaves private ownership of labor and capital untouched."
-last_reviewed: 2026-07-13
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -70,6 +71,35 @@ Stiglitz.[3] A policy commended by the Chicago School's most prominent
 free-marketeer is an awkward fit for the charge that the single tax is disguised
 communism.
 
+## George's Own View of Socialism (Book VI, Ch. I)
+
+The charge is often treated as a purely modern dispute, but George addressed it
+directly in *Progress and Poverty* itself, nearly a century before Feder's postscript,
+in the chapter surveying and rejecting remedies he considered before proposing the
+single tax. Reviewing "governmental direction and interference" — measures "which in
+their most thorough-going form are called socialistic" — he wrote:
+
+> "It is evident that whatever savors of regulation and restriction is in itself bad,
+> and should not be resorted to if any other mode of accomplishing the same end
+> presents itself." (*Progress and Poverty*, Book VI, Ch. I)[4]
+
+George did not treat socialism's aim as illegitimate — he called its "ideal... grand
+and noble" and thought it "possible of realization" — but rejected its *method*, "the
+substitution of governmental direction for the play of individual action," as
+impractical for a modern state lacking "a strong and definite religious faith," and as
+resting on a mistaken model of how a free society develops:
+
+> "Society is an organism, not a machine. It can live only by the individual life of
+> its parts." (*Progress and Poverty*, Book VI, Ch. I)[4]
+
+This is the primary-source version of the modern reply above: George's own remedy — a
+tax collected through ordinary fiscal machinery, leaving production, exchange, and the
+private ownership of capital and labor's product untouched — was, in his own framing,
+explicitly *not* the government-directed, restriction-based programme he understood
+"socialistic" measures to be. The distinction predates Feder's res communis/res
+nullius/state-ownership framing by over a century and comes from George himself rather
+than a later defender against a specific attack.
+
 ## Limits and Caveats
 
 - This page currently rests on one secondary account (Feder's postscript,
@@ -116,3 +146,4 @@ more than a fact in dispute.
 1. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (Shepheard-Walwyn, 1994; postscript by Kris Feder), Postscript — discovery source; used for the South African 1994 episode, the Grant/Knight lineage of the argument, and Feder's res communis/res nullius/state-ownership distinction, via the wiki's existing book-page summary. [Wiki book page](/wiki/gaffney-harrison-corruption-of-economics/)
 2. Frank H. Knight, "The Fallacies in the 'Single Tax,'" *The Freeman*, August 1953, pp. 809–811 — used for independent bibliographic confirmation that this is a real, dated, locatable Knight essay rather than a misattributed reference. [Mises Institute scan of The Freeman, August 1953](https://mises.org/freeman/freeman-august-1953)
 3. "The Modern Georgism of Respected Economists," *Progress and Poverty Substack* — used for the cross-spectrum roster of economists endorsing land value taxation, including Milton Friedman's characterization of a tax on the unimproved value of land as the "least bad tax," which counts against the socialism/communism framing. [wiki summary](/wiki/modern-georgism-respected-economists/) · [article](https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected)
+4. Henry George, *Progress and Poverty*, 1879, Book VI, Ch. I ("Insufficiency of Remedies Currently Advocated," §V "From Governmental Direction and Interference"). Verified verbatim against the [wiki's full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for George's own primary-source distinction between his tax-based remedy and "socialistic" governmental regulation (D-claim; quotations from a public-domain work, EDITORIAL §3b).

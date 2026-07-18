@@ -1,5 +1,16 @@
 {
-  "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners (Slack channels + internet research scan) awaiting triage by the wiki loop agents. See _readme.md for schema and workflow.",
+  "_readme": [
+    "CANONICAL source-candidate intake for the Georgism wiki (established 2026-07-17, Floyd).",
+    "Agents adding research candidates: APPEND to the 'queue' array and COMMIT+PUSH this file",
+    "to the repo (branch or main, like Hugh Bot's sources/slack-research-candidates.json).",
+    "Do NOT write to /workspace/wiki-queue.json or any container-local path - those are",
+    "ephemeral, invisible to other sessions, and lost on container recycle.",
+    "Item schema (same as the Slack candidates file): {url, source, author, date, context, topics}.",
+    "'source' = where it was found (slack channel, agent name, manual, etc.).",
+    "Triage sessions consume from here, record verdicts in a dated triage file (see",
+    "sources/slack-research-triage-2026-07-14.json for the pattern), and mark items",
+    "consumed by moving them to the 'consumed' array with a verdict."
+  ],
   "queue": [
     {
       "url": "https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102",
@@ -7,7 +18,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:58.770025+00:00",
       "reported": false,
-      "context": "<https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102|archive.is/20260606061953/\u2026/andy-burnham-land-tax-rock-house-prices#\u2026>\n\nthis article itself is internally inconsistent. half the article talks about h",
+      "context": "<https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102|archive.is/20260606061953/…/andy-burnham-land-tax-rock-house-prices#…>\n\nthis article itself is internally inconsistent. half the article talks about h",
       "author": "UNYCKRMC6"
     },
     {
@@ -16,7 +27,7 @@
       "reason": "unknown domain with keyword (zoning)",
       "queued_at": "2026-07-16T00:12:58.770475+00:00",
       "reported": false,
-      "context": "Hello all :wave: Yesterday, using Fable, I built a kind of SimCity for zoning and urban tax policy! It\u2019s miraculous how you can now build something over the course of an afternoon that a mere year or two ago would have taken a team of engineers months to build.\n\nI instructed the AI model to ground a",
+      "context": "Hello all :wave: Yesterday, using Fable, I built a kind of SimCity for zoning and urban tax policy! It’s miraculous how you can now build something over the course of an afternoon that a mere year or two ago would have taken a team of engineers months to build.\n\nI instructed the AI model to ground a",
       "author": "U09GHK05HT8"
     },
     {
@@ -43,7 +54,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:12:58.770841+00:00",
       "reported": false,
-      "context": "Just got off a call with a super interesting person (Heerad, of <http://FourthSector.org|FourthSector.org>) and he shared a perspective that made complete sense to me: that the Buddha\u2019s Four Noble Truths was, in effect, a problem-solving algorithm; then he proceeded to share how the very first quest",
+      "context": "Just got off a call with a super interesting person (Heerad, of <http://FourthSector.org|FourthSector.org>) and he shared a perspective that made complete sense to me: that the Buddha’s Four Noble Truths was, in effect, a problem-solving algorithm; then he proceeded to share how the very first quest",
       "author": "U09GHK05HT8"
     },
     {
@@ -70,7 +81,7 @@
       "reason": "unknown domain with keyword (gini)",
       "queued_at": "2026-07-16T00:12:58.771270+00:00",
       "reported": false,
-      "context": "*Food Stamp Work Rules (redtape) Don\u2019t Increase Employment, Researchers Sa*\n<https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/>",
+      "context": "*Food Stamp Work Rules (redtape) Don’t Increase Employment, Researchers Sa*\n<https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/>",
       "author": "UKTJP503G"
     },
     {
@@ -151,7 +162,7 @@
       "reason": "unknown domain with keyword (georgist)",
       "queued_at": "2026-07-16T00:12:58.772899+00:00",
       "reported": false,
-      "context": "From a Georgist perspective, I have some serious concerns about SpaceX/Starlink\u2026 and have been having them for many years. For one, Starlink is using up the commons (orbits) without compensating humanity for it, but what\u2019s actually terrifying is the danger of a collision, which is increasingly likel",
+      "context": "From a Georgist perspective, I have some serious concerns about SpaceX/Starlink… and have been having them for many years. For one, Starlink is using up the commons (orbits) without compensating humanity for it, but what’s actually terrifying is the danger of a collision, which is increasingly likel",
       "author": "U09GHK05HT8"
     },
     {
@@ -187,7 +198,7 @@
       "reason": "policy domain (youtube.com) with keyword (ubi)",
       "queued_at": "2026-07-16T00:12:58.773208+00:00",
       "reported": false,
-      "context": "Richard Murphy (323K youtube subs, 233.9K X)  is a British political economist and chartered accountant who is widely recognized for his work on tax justice and economic reform.\n\nWhat this episode is trying to do\n\u2022 *Purpose:* Position the *Common Sense Policy Group* as a pragmatic, research-driven p",
+      "context": "Richard Murphy (323K youtube subs, 233.9K X)  is a British political economist and chartered accountant who is widely recognized for his work on tax justice and economic reform.\n\nWhat this episode is trying to do\n• *Purpose:* Position the *Common Sense Policy Group* as a pragmatic, research-driven p",
       "author": "UKTJP503G"
     },
     {
@@ -196,7 +207,7 @@
       "reason": "unknown domain with keyword (productivity)",
       "queued_at": "2026-07-16T00:12:58.773322+00:00",
       "reported": false,
-      "context": "Canadian business can improve its productivity \u2014 by working less - The Star (4 day workweek)\n<https://www.thestar.com/business/opinion/heres-how-canadian-business-can-improve-its-productivity-by-working-less/article_9c8f651b-3ef7-4b0a-9a50-8651db3c9a4b.html|https://www.thestar.com/business/opinion/h",
+      "context": "Canadian business can improve its productivity — by working less - The Star (4 day workweek)\n<https://www.thestar.com/business/opinion/heres-how-canadian-business-can-improve-its-productivity-by-working-less/article_9c8f651b-3ef7-4b0a-9a50-8651db3c9a4b.html|https://www.thestar.com/business/opinion/h",
       "author": "UKTJP503G"
     },
     {
@@ -241,7 +252,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.414313+00:00",
       "reported": false,
-      "context": "\u201cAn AI dividend is not a handout from technology companies. It is payment to the people whose knowledge and data made their technology valuable.\u201d\n<https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0|marketwatch.com/story/",
+      "context": "“An AI dividend is not a handout from technology companies. It is payment to the people whose knowledge and data made their technology valuable.”\n<https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0|marketwatch.com/story/",
       "author": "UKTJP503G"
     },
     {
@@ -268,7 +279,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:12:59.414907+00:00",
       "reported": false,
-      "context": "\u201cKorea should experiment with linking the outcomes of AI transformation to basic income, analyze its pros and cons, and share these insights with the international community. This, I believe, is our policy obligation.\u201d - Kim Min-seok, Prime Minister of South Korea\n\nSouth Korea may soon lead on UBI.\n",
+      "context": "“Korea should experiment with linking the outcomes of AI transformation to basic income, analyze its pros and cons, and share these insights with the international community. This, I believe, is our policy obligation.” - Kim Min-seok, Prime Minister of South Korea\n\nSouth Korea may soon lead on UBI.\n",
       "author": "UKTJP503G"
     },
     {
@@ -313,7 +324,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:12:59.415303+00:00",
       "reported": false,
-      "context": "*APnews - Anthropic pledges $200 million to research AI\u2019s economic impact as CEO suggests job loss solutions (*June 10, 2026)\n<https://apnews.com/article/anthropic-dario-amodei-ai-afeb5279eef406980dffa46ff91495e0>\n\n> \u201cThe key challenge in such a world won\u2019t be incentivizing growth, but finding a way",
+      "context": "*APnews - Anthropic pledges $200 million to research AI’s economic impact as CEO suggests job loss solutions (*June 10, 2026)\n<https://apnews.com/article/anthropic-dario-amodei-ai-afeb5279eef406980dffa46ff91495e0>\n\n> “The key challenge in such a world won’t be incentivizing growth, but finding a way",
       "author": "UKTJP503G"
     },
     {
@@ -376,7 +387,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.416194+00:00",
       "reported": false,
-      "context": "Kansas Reflector - As data centers sprawl across the landscape, AI companies should pay Kansans what we\u2019re owed (May 27, 2026)\n\"An AI dividend could work the same. Companies are charged for the use of American data, the money goes into a common fund, and all American residents receive a regular divi",
+      "context": "Kansas Reflector - As data centers sprawl across the landscape, AI companies should pay Kansans what we’re owed (May 27, 2026)\n\"An AI dividend could work the same. Companies are charged for the use of American data, the money goes into a common fund, and all American residents receive a regular divi",
       "author": "UKTJP503G"
     },
     {
@@ -430,7 +441,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:12:59.417002+00:00",
       "reported": false,
-      "context": "Business Insider - I'm an early participant in a UBI program that helps workers displaced by AI, and the support is life-changing\n\n\"Being behind on all my bills has been a crushing stress. But with this basic income, I'm able to focus on improving my r\u00e9sum\u00e9, working on projects, attending meetings, ",
+      "context": "Business Insider - I'm an early participant in a UBI program that helps workers displaced by AI, and the support is life-changing\n\n\"Being behind on all my bills has been a crushing stress. But with this basic income, I'm able to focus on improving my résumé, working on projects, attending meetings, ",
       "author": "UKTJP503G"
     },
     {
@@ -574,7 +585,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:12:59.905219+00:00",
       "reported": false,
-      "context": "Globe and Mail - *Canadians face food insecurity as 120% of income for some goes to food, rent (*May 25, 2026)\n\"It\u2019s an income problem that requires income solutions.\u201d\" - Lauren Kennedy, registered dietician with Lakelands Public Health.\n\nA number of options could help tackle the issue, Alexander sa",
+      "context": "Globe and Mail - *Canadians face food insecurity as 120% of income for some goes to food, rent (*May 25, 2026)\n\"It’s an income problem that requires income solutions.”\" - Lauren Kennedy, registered dietician with Lakelands Public Health.\n\nA number of options could help tackle the issue, Alexander sa",
       "author": "UKTJP503G"
     },
     {
@@ -583,7 +594,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:12:59.905299+00:00",
       "reported": false,
-      "context": "Globe and Mail - *Canadians face food insecurity as 120% of income for some goes to food, rent (*May 25, 2026)\n\"It\u2019s an income problem that requires income solutions.\u201d\" - Lauren Kennedy, registered dietician with Lakelands Public Health.\n\nA number of options could help tackle the issue, Alexander sa",
+      "context": "Globe and Mail - *Canadians face food insecurity as 120% of income for some goes to food, rent (*May 25, 2026)\n\"It’s an income problem that requires income solutions.”\" - Lauren Kennedy, registered dietician with Lakelands Public Health.\n\nA number of options could help tackle the issue, Alexander sa",
       "author": "UKTJP503G"
     },
     {
@@ -601,7 +612,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.905776+00:00",
       "reported": false,
-      "context": "*Warren Buffet says 800 US companies could wipe out income tax \u2014 but 88 profitable giants paid the IRS $0 in 2025 rebates*\n\"Big business and billionaires have long wielded outsized power. But one such multi-billionaire, Warren Buffet, argues that if the top corporations paid what Berkshire Hathaway ",
+      "context": "*Warren Buffet says 800 US companies could wipe out income tax — but 88 profitable giants paid the IRS $0 in 2025 rebates*\n\"Big business and billionaires have long wielded outsized power. But one such multi-billionaire, Warren Buffet, argues that if the top corporations paid what Berkshire Hathaway ",
       "author": "UKTJP503G"
     },
     {
@@ -610,7 +621,7 @@
       "reason": "unknown domain with keyword (gini)",
       "queued_at": "2026-07-16T00:12:59.905846+00:00",
       "reported": false,
-      "context": "<https://policyoptions.irpp.org/2026/02/cost-anxiety/>\n*Canadians aren\u2019t imagining the cost-of-living crisis -* February 24, 2026",
+      "context": "<https://policyoptions.irpp.org/2026/02/cost-anxiety/>\n*Canadians aren’t imagining the cost-of-living crisis -* February 24, 2026",
       "author": "UKTJP503G"
     },
     {
@@ -619,7 +630,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.905993+00:00",
       "reported": false,
-      "context": "\u201cRaising children is becoming more expensive.\u201d\n<https://www.cicnews.com/2023/02/why-birth-rates-are-low-in-canada-and-much-of-the-western-world-0232764.html>",
+      "context": "“Raising children is becoming more expensive.”\n<https://www.cicnews.com/2023/02/why-birth-rates-are-low-in-canada-and-much-of-the-western-world-0232764.html>",
       "author": "UKTJP503G"
     },
     {
@@ -664,7 +675,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.907938+00:00",
       "reported": false,
-      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n\u2022 daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n\u2022 <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n\u2022 <http://realist.ca|realist.ca> for investments. Cofou",
+      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n• daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n• <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n• <http://realist.ca|realist.ca> for investments. Cofou",
       "author": "UKTJP503G"
     },
     {
@@ -673,7 +684,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.908025+00:00",
       "reported": false,
-      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n\u2022 daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n\u2022 <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n\u2022 <http://realist.ca|realist.ca> for investments. Cofou",
+      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n• daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n• <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n• <http://realist.ca|realist.ca> for investments. Cofou",
       "author": "UKTJP503G"
     },
     {
@@ -682,7 +693,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.908103+00:00",
       "reported": false,
-      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n\u2022 daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n\u2022 <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n\u2022 <http://realist.ca|realist.ca> for investments. Cofou",
+      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n• daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n• <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n• <http://realist.ca|realist.ca> for investments. Cofou",
       "author": "UKTJP503G"
     },
     {
@@ -691,7 +702,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.908178+00:00",
       "reported": false,
-      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n\u2022 daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n\u2022 <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n\u2022 <http://realist.ca|realist.ca> for investments. Cofou",
+      "context": "\"young Canadians are hitting the brakes on everything ownership because they have no money\"\n• daniel foch 51k followers - Real estate. <https://t.co/49WFiH3f3E|http://>\n• <http://valery.ca|valery.ca> for homes. <https://t.co/8Y29iO7W0O|http://>\n• <http://realist.ca|realist.ca> for investments. Cofou",
       "author": "UKTJP503G"
     },
     {
@@ -754,7 +765,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:59.909846+00:00",
       "reported": false,
-      "context": "Canadian millionaires are asking for tax increases \u2014 but just for themselves\n<https://www.cbc.ca/player/play/video/9.6757110>",
+      "context": "Canadian millionaires are asking for tax increases — but just for themselves\n<https://www.cbc.ca/player/play/video/9.6757110>",
       "author": "UKTJP503G"
     },
     {
@@ -763,7 +774,7 @@
       "reason": "unknown domain with keyword (housing)",
       "queued_at": "2026-07-16T00:12:59.910013+00:00",
       "reported": false,
-      "context": "<https://www.timescolonist.com/local-news/monthly-food-bank-use-soars-to-record-2-million-driven-by-cost-of-groceries-housing-9718776?utm_source=dlvr.it&amp;utm_medium=twitter|https://www.timescolonist.com/local-news/monthly-food-bank-use-soars-to-record-2-millio[\u2026]ries-housing-9718776?utm_source=dl",
+      "context": "<https://www.timescolonist.com/local-news/monthly-food-bank-use-soars-to-record-2-million-driven-by-cost-of-groceries-housing-9718776?utm_source=dlvr.it&amp;utm_medium=twitter|https://www.timescolonist.com/local-news/monthly-food-bank-use-soars-to-record-2-millio[…]ries-housing-9718776?utm_source=dl",
       "author": "UKTJP503G"
     },
     {
@@ -853,7 +864,7 @@
       "reason": "policy domain (ubiworks.ca) with keyword (ubi)",
       "queued_at": "2026-07-16T00:13:00.556057+00:00",
       "reported": false,
-      "context": "future-proofing CCB report findings (first used in UW welcome email series)\n\nthe lang we've used historically\n> CCB contributes $46B annually to the Canadian economy \u2013 exceeding the economy of Nova Scotia\nmore permanently relevant anchor:\n> CCB contributed $46B annually to the Canadian economy, roug",
+      "context": "future-proofing CCB report findings (first used in UW welcome email series)\n\nthe lang we've used historically\n> CCB contributes $46B annually to the Canadian economy – exceeding the economy of Nova Scotia\nmore permanently relevant anchor:\n> CCB contributed $46B annually to the Canadian economy, roug",
       "author": "UNYCKRMC6"
     },
     {
@@ -934,7 +945,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:00.557270+00:00",
       "reported": false,
-      "context": "*Basic Income for the Arts pilot produced over \u20ac100 million in Social and Economic Benefits*\n\n<https://www.gov.ie/en/department-of-culture-communications-and-sport/press-releases/basic-income-for-the-arts-pilot-produced-over-100-million-in-social-and-economic-benefits/|https://www.gov.ie/en/departme",
+      "context": "*Basic Income for the Arts pilot produced over €100 million in Social and Economic Benefits*\n\n<https://www.gov.ie/en/department-of-culture-communications-and-sport/press-releases/basic-income-for-the-arts-pilot-produced-over-100-million-in-social-and-economic-benefits/|https://www.gov.ie/en/departme",
       "author": "UKTJP503G"
     },
     {
@@ -943,7 +954,7 @@
       "reason": "policy domain (youtu.be) with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:00.558126+00:00",
       "reported": false,
-      "context": "At 31-32:00 he talk about central banks need to find a basic income if faced with deflation (where Japan has been for 30 yrs but not what\u2019s in Canada didn\u2019t now). He also connects Basic income with increasing worker bargaining power. <https://youtu.be/pU_yyadYgG8|https://youtu.be/pU_yyadYgG8>",
+      "context": "At 31-32:00 he talk about central banks need to find a basic income if faced with deflation (where Japan has been for 30 yrs but not what’s in Canada didn’t now). He also connects Basic income with increasing worker bargaining power. <https://youtu.be/pU_yyadYgG8|https://youtu.be/pU_yyadYgG8>",
       "author": "UKQ1MQDMW"
     },
     {
@@ -1015,7 +1026,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:00.560174+00:00",
       "reported": false,
-      "context": "Working on Floyd's entrepreneur ship video and stumble into this news article by Fraser Institue.\n\n*Specifically, in Canada, small business startups \u2014 as a percentage of all small businesses \u2014 fell sharply from 24.5 per cent in 1984 to 12.8 per cent in 2014, a decline of almost 50 per cent.*\n\n<http:",
+      "context": "Working on Floyd's entrepreneur ship video and stumble into this news article by Fraser Institue.\n\n*Specifically, in Canada, small business startups — as a percentage of all small businesses — fell sharply from 24.5 per cent in 1984 to 12.8 per cent in 2014, a decline of almost 50 per cent.*\n\n<http:",
       "author": "UKTJP503G"
     },
     {
@@ -1033,7 +1044,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:01.160027+00:00",
       "reported": false,
-      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n\u2022 @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
+      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n• @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
       "author": "U0ALSLM063Z"
     },
     {
@@ -1042,7 +1053,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:01.160180+00:00",
       "reported": false,
-      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n\u2022 @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
+      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n• @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
       "author": "U0ALSLM063Z"
     },
     {
@@ -1051,7 +1062,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:01.160285+00:00",
       "reported": false,
-      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n\u2022 @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
+      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n• @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
       "author": "U0ALSLM063Z"
     },
     {
@@ -1060,7 +1071,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:01.160384+00:00",
       "reported": false,
-      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n\u2022 @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
+      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n• @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
       "author": "U0ALSLM063Z"
     },
     {
@@ -1069,7 +1080,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:01.160479+00:00",
       "reported": false,
-      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n\u2022 @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
+      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n• @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
       "author": "U0ALSLM063Z"
     },
     {
@@ -1078,7 +1089,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:01.160599+00:00",
       "reported": false,
-      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n\u2022 @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
+      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n• @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
       "author": "U0ALSLM063Z"
     },
     {
@@ -1087,7 +1098,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:01.160692+00:00",
       "reported": false,
-      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n\u2022 @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
+      "context": "Qualifying comments on our accounts (Floyd, UBIWorks, CW) on X &amp; Bluesky:\n\n• @basicincome_uk (Basic Income UK): \"UBI isn't proposed to solve every economic problem. It's proposed to solve one: income insecurity. Housing, debt, industrial policy and jobs all matter too. That's why many of us advo",
       "author": "U0ALSLM063Z"
     },
     {
@@ -1213,7 +1224,7 @@
       "reason": "unknown domain with keyword (productivity)",
       "queued_at": "2026-07-16T00:13:01.683642+00:00",
       "reported": false,
-      "context": "Just saw this article. <https://www.theglobeandmail.com/business/article-out-of-nowhere-canada-became-poorer-than-alabama-how-is-that-possible/>\n(free version: <https://archive.is/8bQP7>)\n\nI believe this is due to Canada\u2019s addiction to high real estate prices\u2026 stifling productivity and keeping GDP p",
+      "context": "Just saw this article. <https://www.theglobeandmail.com/business/article-out-of-nowhere-canada-became-poorer-than-alabama-how-is-that-possible/>\n(free version: <https://archive.is/8bQP7>)\n\nI believe this is due to Canada’s addiction to high real estate prices… stifling productivity and keeping GDP p",
       "author": "U09GHK05HT8"
     },
     {
@@ -1222,7 +1233,7 @@
       "reason": "unknown domain with keyword (productivity)",
       "queued_at": "2026-07-16T00:13:01.683721+00:00",
       "reported": false,
-      "context": "Just saw this article. <https://www.theglobeandmail.com/business/article-out-of-nowhere-canada-became-poorer-than-alabama-how-is-that-possible/>\n(free version: <https://archive.is/8bQP7>)\n\nI believe this is due to Canada\u2019s addiction to high real estate prices\u2026 stifling productivity and keeping GDP p",
+      "context": "Just saw this article. <https://www.theglobeandmail.com/business/article-out-of-nowhere-canada-became-poorer-than-alabama-how-is-that-possible/>\n(free version: <https://archive.is/8bQP7>)\n\nI believe this is due to Canada’s addiction to high real estate prices… stifling productivity and keeping GDP p",
       "author": "U09GHK05HT8"
     },
     {
@@ -1285,7 +1296,7 @@
       "reason": "unknown domain with keyword (ubi)",
       "queued_at": "2026-07-16T00:13:01.684188+00:00",
       "reported": false,
-      "context": "Another anti-ubi piece\n\n<https://theconversation.com/voters-in-hamburg-have-rejected-universal-basic-income-many-economists-would-agree-with-them-269327?utm_source=bluesky&amp;utm_medium=bylineblueskybutton|https://theconversation.com/voters-in-hamburg-have-rejected-universal-basic-income-man[\u2026]em-2",
+      "context": "Another anti-ubi piece\n\n<https://theconversation.com/voters-in-hamburg-have-rejected-universal-basic-income-many-economists-would-agree-with-them-269327?utm_source=bluesky&amp;utm_medium=bylineblueskybutton|https://theconversation.com/voters-in-hamburg-have-rejected-universal-basic-income-man[…]em-2",
       "author": "UKTJP503G"
     },
     {
@@ -1294,7 +1305,7 @@
       "reason": "policy domain (wikipedia.org) with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:01.684431+00:00",
       "reported": false,
-      "context": "*Netherlands May Become the First Country With a Universal Basic Income*\nA key plank of their platform was the introduction of an \u201c<https://en.wikipedia.org/wiki/Universal_basic_income_in_the_Netherlands|individual basic amount>,\u201d a policy aimed at simplifying the current complex benefits system. Th",
+      "context": "*Netherlands May Become the First Country With a Universal Basic Income*\nA key plank of their platform was the introduction of an “<https://en.wikipedia.org/wiki/Universal_basic_income_in_the_Netherlands|individual basic amount>,” a policy aimed at simplifying the current complex benefits system. Th",
       "author": "UKTJP503G"
     },
     {
@@ -1303,7 +1314,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:01.684467+00:00",
       "reported": false,
-      "context": "*Netherlands May Become the First Country With a Universal Basic Income*\nA key plank of their platform was the introduction of an \u201c<https://en.wikipedia.org/wiki/Universal_basic_income_in_the_Netherlands|individual basic amount>,\u201d a policy aimed at simplifying the current complex benefits system. Th",
+      "context": "*Netherlands May Become the First Country With a Universal Basic Income*\nA key plank of their platform was the introduction of an “<https://en.wikipedia.org/wiki/Universal_basic_income_in_the_Netherlands|individual basic amount>,” a policy aimed at simplifying the current complex benefits system. Th",
       "author": "UKTJP503G"
     },
     {
@@ -1312,7 +1323,7 @@
       "reason": "policy domain (substack.com) with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:01.684504+00:00",
       "reported": false,
-      "context": "*Netherlands May Become the First Country With a Universal Basic Income*\nA key plank of their platform was the introduction of an \u201c<https://en.wikipedia.org/wiki/Universal_basic_income_in_the_Netherlands|individual basic amount>,\u201d a policy aimed at simplifying the current complex benefits system. Th",
+      "context": "*Netherlands May Become the First Country With a Universal Basic Income*\nA key plank of their platform was the introduction of an “<https://en.wikipedia.org/wiki/Universal_basic_income_in_the_Netherlands|individual basic amount>,” a policy aimed at simplifying the current complex benefits system. Th",
       "author": "UKTJP503G"
     },
     {
@@ -1357,7 +1368,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:01.684734+00:00",
       "reported": false,
-      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I\u2019m blown away at the team you\u2019ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
+      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I’m blown away at the team you’ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
       "author": "U09GHK05HT8"
     },
     {
@@ -1366,7 +1377,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:01.684796+00:00",
       "reported": false,
-      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I\u2019m blown away at the team you\u2019ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
+      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I’m blown away at the team you’ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
       "author": "U09GHK05HT8"
     },
     {
@@ -1375,7 +1386,7 @@
       "reason": "policy domain (ubiworks.ca) with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:01.684854+00:00",
       "reported": false,
-      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I\u2019m blown away at the team you\u2019ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
+      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I’m blown away at the team you’ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
       "author": "U09GHK05HT8"
     },
     {
@@ -1384,7 +1395,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:01.684912+00:00",
       "reported": false,
-      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I\u2019m blown away at the team you\u2019ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
+      "context": "Such an inspiring weekend. It was a joy to listen to <@UNYCKRMC6> and <@UKD25NV0A> presenting their work, brimming with competence, excellence, and professionalism. Thank you both! <@UKQ1MQDMW> I’m blown away at the team you’ve picked. With Ken being a master marketer, and Liam a cutting-edge resear",
       "author": "U09GHK05HT8"
     },
     {
@@ -1420,7 +1431,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:02.848080+00:00",
       "reported": false,
-      "context": "\"Today's op-ed about the 2026 Basic Income Earth Network (BIEN) Congress, happening Aug. 20 to 22 in Toronto, marking BIEN\u2019s 40th anniversary.\"\n<https://bsky.app/profile/nicollneedschange.bsky.social/post/3mnhnuvmxwk2d>\n\n<https://www.thespec.com/opinion/contributors/basic-income-can-help-us-avert-a-",
+      "context": "\"Today's op-ed about the 2026 Basic Income Earth Network (BIEN) Congress, happening Aug. 20 to 22 in Toronto, marking BIEN’s 40th anniversary.\"\n<https://bsky.app/profile/nicollneedschange.bsky.social/post/3mnhnuvmxwk2d>\n\n<https://www.thespec.com/opinion/contributors/basic-income-can-help-us-avert-a-",
       "author": "UKTJP503G"
     },
     {
@@ -1429,7 +1440,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:02.848115+00:00",
       "reported": false,
-      "context": "\"Today's op-ed about the 2026 Basic Income Earth Network (BIEN) Congress, happening Aug. 20 to 22 in Toronto, marking BIEN\u2019s 40th anniversary.\"\n<https://bsky.app/profile/nicollneedschange.bsky.social/post/3mnhnuvmxwk2d>\n\n<https://www.thespec.com/opinion/contributors/basic-income-can-help-us-avert-a-",
+      "context": "\"Today's op-ed about the 2026 Basic Income Earth Network (BIEN) Congress, happening Aug. 20 to 22 in Toronto, marking BIEN’s 40th anniversary.\"\n<https://bsky.app/profile/nicollneedschange.bsky.social/post/3mnhnuvmxwk2d>\n\n<https://www.thespec.com/opinion/contributors/basic-income-can-help-us-avert-a-",
       "author": "UKTJP503G"
     },
     {
@@ -1681,7 +1692,7 @@
       "reason": "policy domain (ubiworks.ca) with keyword (ubi)",
       "queued_at": "2026-07-16T00:13:03.259746+00:00",
       "reported": false,
-      "context": "new changes to site.\n\u2022 homepage now leads with CTAs\n\u2022 UBI Supporters page now live <https://www.ubiworks.ca/ubi-supporters> (i've debated it, we lead with UBI term because that is what drew people to us and it's more powerful branding)\n\u2022 Star power image quotes carousel\n",
+      "context": "new changes to site.\n• homepage now leads with CTAs\n• UBI Supporters page now live <https://www.ubiworks.ca/ubi-supporters> (i've debated it, we lead with UBI term because that is what drew people to us and it's more powerful branding)\n• Star power image quotes carousel\n",
       "author": "UNYCKRMC6"
     },
     {
@@ -1699,7 +1710,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:03.260010+00:00",
       "reported": false,
-      "context": "v1 chatbot is now staged across full site, currently gemini-flash-3-preview on 0.2 temperature:\n<https://ubiworks-v8.webflow.io>\n\nRelatively straightforward to\n\u2022 update the vector database with future articles, transcripts, tweets\n\u2022 tweak system prompt (what the chat agent is asked to do -- very sen",
+      "context": "v1 chatbot is now staged across full site, currently gemini-flash-3-preview on 0.2 temperature:\n<https://ubiworks-v8.webflow.io>\n\nRelatively straightforward to\n• update the vector database with future articles, transcripts, tweets\n• tweak system prompt (what the chat agent is asked to do -- very sen",
       "author": "UNYCKRMC6"
     },
     {
@@ -1843,7 +1854,7 @@
       "reason": "policy domain (youtu.be) with keyword (ubi)",
       "queued_at": "2026-07-16T00:13:05.330921+00:00",
       "reported": false,
-      "context": "Harvard Professor Randall Kekoa Akee explains Long-Term Study on UBI Youth Outcomes - _Great Smoky Mountains Study_ (Cherokee casino cash transfers)\n<https://youtu.be/mvYc2NLmta4|youtu.be/\u2026>",
+      "context": "Harvard Professor Randall Kekoa Akee explains Long-Term Study on UBI Youth Outcomes - _Great Smoky Mountains Study_ (Cherokee casino cash transfers)\n<https://youtu.be/mvYc2NLmta4|youtu.be/…>",
       "author": "UKTJP503G"
     },
     {
@@ -1888,7 +1899,7 @@
       "reason": "unknown domain with keyword (ubi)",
       "queued_at": "2026-07-16T00:13:05.331411+00:00",
       "reported": false,
-      "context": "Robert Inman, Wharton Prof LVT Quote (+ bonus clips)\n<https://app.notion.com/p/ubiworks/Robert-Inman-Wharton-Prof-LVT-388a9ac7ed73808d9b85f46d87493c4c?d=390a9ac7ed7380b5b6de001cad1d7e06#390a9ac7ed7380dbaa5dd66fc38d4d18|app.notion.com/p/ubiworks/\u2026/Robert-Inman\u2026?d=390a9ac7ed7380b5b6de\u2026#\u2026>",
+      "context": "Robert Inman, Wharton Prof LVT Quote (+ bonus clips)\n<https://app.notion.com/p/ubiworks/Robert-Inman-Wharton-Prof-LVT-388a9ac7ed73808d9b85f46d87493c4c?d=390a9ac7ed7380b5b6de001cad1d7e06#390a9ac7ed7380dbaa5dd66fc38d4d18|app.notion.com/p/ubiworks/…/Robert-Inman…?d=390a9ac7ed7380b5b6de…#…>",
       "author": "UKTJP503G"
     },
     {
@@ -1897,7 +1908,7 @@
       "reason": "policy domain (youtu.be) with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:05.331463+00:00",
       "reported": false,
-      "context": "Prime Minister Kim Min-seok proposes Linking Ai Wealth to Basic Income\n<https://youtu.be/iJViRM8RClg|youtu.be/\u2026>",
+      "context": "Prime Minister Kim Min-seok proposes Linking Ai Wealth to Basic Income\n<https://youtu.be/iJViRM8RClg|youtu.be/…>",
       "author": "UKTJP503G"
     },
     {
@@ -1906,7 +1917,7 @@
       "reason": "policy domain (youtube.com) with keyword (ai)",
       "queued_at": "2026-07-16T00:13:05.331541+00:00",
       "reported": false,
-      "context": "Daryl Fairweather - Ever wonder why there are random parking lots in NYC? (Newsweek\u2019s 1600 Podcast)\n\n<https://x.com/FairweatherPhD/status/2071638638165696904|x.com/FairweatherPhD/status/2071638638165696904>\n\n<https://www.youtube.com/watch?v=wFrk8dYeqrA&t=2s|youtube.com/watch?v=\u2026&t=2s>",
+      "context": "Daryl Fairweather - Ever wonder why there are random parking lots in NYC? (Newsweek’s 1600 Podcast)\n\n<https://x.com/FairweatherPhD/status/2071638638165696904|x.com/FairweatherPhD/status/2071638638165696904>\n\n<https://www.youtube.com/watch?v=wFrk8dYeqrA&t=2s|youtube.com/watch?v=…&t=2s>",
       "author": "UKTJP503G"
     },
     {
@@ -1915,7 +1926,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:05.331643+00:00",
       "reported": false,
-      "context": "Forbes - AI Cost 21,000 Jobs At Oracle This Year\u2014And More Layoffs Could Be Coming (Jun 23, 2026)\n<https://www.forbes.com/sites/maryroeloffs/2026/06/23/ai-cost-21000-jobs-at-oracle-this-year-and-more-layoffs-could-be-coming/|forbes.com/sites/\u2026/ai-cost-21000-jobs-at-oracle-this-year-and-more-layoffs-c",
+      "context": "Forbes - AI Cost 21,000 Jobs At Oracle This Year—And More Layoffs Could Be Coming (Jun 23, 2026)\n<https://www.forbes.com/sites/maryroeloffs/2026/06/23/ai-cost-21000-jobs-at-oracle-this-year-and-more-layoffs-could-be-coming/|forbes.com/sites/…/ai-cost-21000-jobs-at-oracle-this-year-and-more-layoffs-c",
       "author": "UKTJP503G"
     },
     {
@@ -1924,7 +1935,7 @@
       "reason": "unknown domain with keyword (housing)",
       "queued_at": "2026-07-16T00:13:05.331704+00:00",
       "reported": false,
-      "context": "*Projet Montr\u00e9al calls for a tax on vacant housing (2026 june 17)*\n<https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/>",
+      "context": "*Projet Montréal calls for a tax on vacant housing (2026 june 17)*\n<https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/>",
       "author": "UKTJP503G"
     },
     {
@@ -2122,7 +2133,7 @@
       "reason": "unknown domain with keyword (citizen dividend)",
       "queued_at": "2026-07-16T00:13:05.333532+00:00",
       "reported": false,
-      "context": "Bloomberg - *South Korea Floats \u2018Citizen Dividend\u2019 Using AI Profits (* May 12, 2026)\n<https://archive.is/20260512024743/https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls#selection-1429.0-1429.12>",
+      "context": "Bloomberg - *South Korea Floats ‘Citizen Dividend’ Using AI Profits (* May 12, 2026)\n<https://archive.is/20260512024743/https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls#selection-1429.0-1429.12>",
       "author": "UKTJP503G"
     },
     {
@@ -2527,7 +2538,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:07.077065+00:00",
       "reported": false,
-      "context": "Andy Burnham is currently the bookies' favorite to succeed Sir Keir Starmer as the next Prime Minister of the United Kingdom.\n\nPushing for LVT\n\n&gt; Burnham suggested *replacing \u201ciniquitous\u201d council tax with a land value tax*, and said public sector procurement should prioritise British industry.\n<h",
+      "context": "Andy Burnham is currently the bookies' favorite to succeed Sir Keir Starmer as the next Prime Minister of the United Kingdom.\n\nPushing for LVT\n\n&gt; Burnham suggested *replacing “iniquitous” council tax with a land value tax*, and said public sector procurement should prioritise British industry.\n<h",
       "author": "UKTJP503G"
     },
     {
@@ -2554,7 +2565,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:07.077215+00:00",
       "reported": false,
-      "context": "\"The favourite to be Britain\u2019s next prime minister backs a tax revolution that has painful repercussions\"\n<https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/>",
+      "context": "\"The favourite to be Britain’s next prime minister backs a tax revolution that has painful repercussions\"\n<https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/>",
       "author": "UKTJP503G"
     },
     {
@@ -2581,7 +2592,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:07.077529+00:00",
       "reported": false,
-      "context": "broadandliberty - *_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/|Russell Richie:>_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/| Philadelphia\u2019s job-killing wag",
+      "context": "broadandliberty - *_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/|Russell Richie:>_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/| Philadelphia’s job-killing wag",
       "author": "UKTJP503G"
     },
     {
@@ -2599,7 +2610,7 @@
       "reason": "unknown domain with keyword (housing)",
       "queued_at": "2026-07-16T00:13:07.078736+00:00",
       "reported": false,
-      "context": "Canadian Affairs - Op-Ed: The problems Build Canada Homes must solve - Matt Spoke\n_Ottawa\u2019s new housing corporation could help solve Canada\u2019s housing crisis \u2014 if it stays focused on what matters_\n\n\"Ottawa's new housing agency Build Canada Homes will receive $13B to improve housing affordability.\"\n\n<",
+      "context": "Canadian Affairs - Op-Ed: The problems Build Canada Homes must solve - Matt Spoke\n_Ottawa’s new housing corporation could help solve Canada’s housing crisis — if it stays focused on what matters_\n\n\"Ottawa's new housing agency Build Canada Homes will receive $13B to improve housing affordability.\"\n\n<",
       "author": "UKTJP503G"
     },
     {
@@ -2617,7 +2628,7 @@
       "reason": "unknown domain with keyword (infrastructure)",
       "queued_at": "2026-07-16T00:13:07.079382+00:00",
       "reported": false,
-      "context": "Globe and Mail - Canada\u2019s financial system needs to recognize value of natural assets, report says - <https://archive.is/o/n6XRm/https://www.theglobeandmail.com/authors/jeffrey-jones/|Jeffrey Jones>\n<https://archive.is/20260424041231/https://www.theglobeandmail.com/business/article-canadas-financial",
+      "context": "Globe and Mail - Canada’s financial system needs to recognize value of natural assets, report says - <https://archive.is/o/n6XRm/https://www.theglobeandmail.com/authors/jeffrey-jones/|Jeffrey Jones>\n<https://archive.is/20260424041231/https://www.theglobeandmail.com/business/article-canadas-financial",
       "author": "UKTJP503G"
     },
     {
@@ -2626,7 +2637,7 @@
       "reason": "unknown domain with keyword (infrastructure)",
       "queued_at": "2026-07-16T00:13:07.079491+00:00",
       "reported": false,
-      "context": "Globe and Mail - Canada\u2019s financial system needs to recognize value of natural assets, report says - <https://archive.is/o/n6XRm/https://www.theglobeandmail.com/authors/jeffrey-jones/|Jeffrey Jones>\n<https://archive.is/20260424041231/https://www.theglobeandmail.com/business/article-canadas-financial",
+      "context": "Globe and Mail - Canada’s financial system needs to recognize value of natural assets, report says - <https://archive.is/o/n6XRm/https://www.theglobeandmail.com/authors/jeffrey-jones/|Jeffrey Jones>\n<https://archive.is/20260424041231/https://www.theglobeandmail.com/business/article-canadas-financial",
       "author": "UKTJP503G"
     },
     {
@@ -2770,7 +2781,7 @@
       "reason": "policy domain (substack.com) with keyword (ai)",
       "queued_at": "2026-07-16T00:13:08.473933+00:00",
       "reported": false,
-      "context": "Melissa Lantsman - *Could a massive tax cut fix Canada\u2019s economy? -* What if we address this by making the first $100,000 of income federal tax free?\n*\"*What if 88% of Canadian tax filers never had to pay federal income tax again?\"\n\n<https://melissalantsman.substack.com/p/could-a-massive-tax-cut-fix",
+      "context": "Melissa Lantsman - *Could a massive tax cut fix Canada’s economy? -* What if we address this by making the first $100,000 of income federal tax free?\n*\"*What if 88% of Canadian tax filers never had to pay federal income tax again?\"\n\n<https://melissalantsman.substack.com/p/could-a-massive-tax-cut-fix",
       "author": "UKTJP503G"
     },
     {
@@ -2788,7 +2799,7 @@
       "reason": "unknown domain with keyword (ubi)",
       "queued_at": "2026-07-16T00:13:08.474699+00:00",
       "reported": false,
-      "context": "\"reveals that conservatives are cool with the idea of UBI if you\u2019re careful not to call it that\"\n<https://bsky.app/profile/tyleraking.com/post/3m6hrykabn225>",
+      "context": "\"reveals that conservatives are cool with the idea of UBI if you’re careful not to call it that\"\n<https://bsky.app/profile/tyleraking.com/post/3m6hrykabn225>",
       "author": "UKTJP503G"
     },
     {
@@ -2869,7 +2880,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:08.477222+00:00",
       "reported": false,
-      "context": "\u201cIf you can lift people up, be it through a job, or in this case basic income, I\u2019m sure their health will improve.\" - Laurie Scott, MPP (PC)\n\n\"Money in people\u2019s pockets is money they\u2019ll spend... This is certainly the right sized community for it to develop the local economy.\" - Scott on Lindsay as O",
+      "context": "“If you can lift people up, be it through a job, or in this case basic income, I’m sure their health will improve.\" - Laurie Scott, MPP (PC)\n\n\"Money in people’s pockets is money they’ll spend... This is certainly the right sized community for it to develop the local economy.\" - Scott on Lindsay as O",
       "author": "UNYCKRMC6"
     },
     {
@@ -2914,7 +2925,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:09.718622+00:00",
       "reported": false,
-      "context": "Also this was totally new to me... Qu\u00e9bec passed a special vacant/underused tax authority for municipalities in 2023.\n\nHere's a random example of a municipality that is using it. <https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/>\n\nWhy did they apply this charge you mig",
+      "context": "Also this was totally new to me... Québec passed a special vacant/underused tax authority for municipalities in 2023.\n\nHere's a random example of a municipality that is using it. <https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/>\n\nWhy did they apply this charge you mig",
       "author": "UKD25NV0A"
     },
     {
@@ -2968,7 +2979,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:09.718950+00:00",
       "reported": false,
-      "context": "Last 30 days skill used on LVT. Excellent newsletter / twitter thread material!\n\nAlso shows what Lars\u2019 group is accomplished focusing on government / politico lobbying and education. I want to see us playing that game too. \n<https://claude.ai/share/684fa97f-7962-4eff-aa7c-5cb3101161f9>",
+      "context": "Last 30 days skill used on LVT. Excellent newsletter / twitter thread material!\n\nAlso shows what Lars’ group is accomplished focusing on government / politico lobbying and education. I want to see us playing that game too. \n<https://claude.ai/share/684fa97f-7962-4eff-aa7c-5cb3101161f9>",
       "author": "UKQ1MQDMW"
     },
     {
@@ -3049,7 +3060,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:09.721102+00:00",
       "reported": false,
-      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n\u2022 Spokane Report &amp; Syracuse Report decks (attached PDFs)\n\u2022 Civic Mapper (by CLE) - <h",
+      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
       "author": "UNYCKRMC6"
     },
     {
@@ -3058,7 +3069,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:09.721180+00:00",
       "reported": false,
-      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n\u2022 Spokane Report &amp; Syracuse Report decks (attached PDFs)\n\u2022 Civic Mapper (by CLE) - <h",
+      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
       "author": "UNYCKRMC6"
     },
     {
@@ -3067,7 +3078,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:09.721256+00:00",
       "reported": false,
-      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n\u2022 Spokane Report &amp; Syracuse Report decks (attached PDFs)\n\u2022 Civic Mapper (by CLE) - <h",
+      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
       "author": "UNYCKRMC6"
     },
     {
@@ -3139,7 +3150,7 @@
       "reason": "unknown domain with keyword (monopoly)",
       "queued_at": "2026-07-16T00:13:09.722723+00:00",
       "reported": false,
-      "context": "Wow. <http://Realtor.com|Realtor.com> implicitly admitting that real estate is a monopoly business. \u201c_Even more shocking: The game\u2019s original ethos was meant to teach the dangers of monopolies, not encourage them._\u201d",
+      "context": "Wow. <http://Realtor.com|Realtor.com> implicitly admitting that real estate is a monopoly business. “_Even more shocking: The game’s original ethos was meant to teach the dangers of monopolies, not encourage them._”",
       "author": "U09GHK05HT8"
     },
     {
@@ -3148,7 +3159,7 @@
       "reason": "unknown domain with keyword (henry george)",
       "queued_at": "2026-07-16T00:13:09.722896+00:00",
       "reported": false,
-      "context": "> Elizabeth Magie created what she called \u201cThe Landlord\u2019s Game,\u201d which she described as \u201cpractical demonstration of the present system of land-grabbing with all its usual outcomes and consequences.\u201d\n> \n> Her vision was based on the ideas of 19th\u2011century economist Henry George, who argued that govern",
+      "context": "> Elizabeth Magie created what she called “The Landlord’s Game,” which she described as “practical demonstration of the present system of land-grabbing with all its usual outcomes and consequences.”\n> \n> Her vision was based on the ideas of 19th‑century economist Henry George, who argued that govern",
       "author": "UNYCKRMC6"
     },
     {
@@ -3229,7 +3240,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:09.724586+00:00",
       "reported": false,
-      "context": "&gt; _\u201cRedistributing gains from the [land] tax in the form of land dividends would benefit the overwhelming majority of Koreans\u201d -_ Young Seong-yoo et al. (<https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975|2022>) Gyeonggi R",
+      "context": "&gt; _“Redistributing gains from the [land] tax in the form of land dividends would benefit the overwhelming majority of Koreans” -_ Young Seong-yoo et al. (<https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975|2022>) Gyeonggi R",
       "author": "UNYCKRMC6"
     },
     {
@@ -3526,7 +3537,7 @@
       "reason": "unknown domain with keyword (basic income)",
       "queued_at": "2026-07-16T00:13:12.464108+00:00",
       "reported": false,
-      "context": "Had a BIEN Congress call with Sheila and Ben this morning, things are still in early planning but I'm sharing some notes which will be more formalized soon:\n\n\u2022 There's lots of interest from US participants for Proposals, but not very much Canadian. Sheila's top priority now is getting quality propos",
+      "context": "Had a BIEN Congress call with Sheila and Ben this morning, things are still in early planning but I'm sharing some notes which will be more formalized soon:\n\n• There's lots of interest from US participants for Proposals, but not very much Canadian. Sheila's top priority now is getting quality propos",
       "author": "UNYCKRMC6"
     },
     {
@@ -3553,7 +3564,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:12.465079+00:00",
       "reported": false,
-      "context": "Quick chat this morning with Ben for BIEN Congress Toronto (<https://bien2026.net>). SES will be a partner (idea stage):\n\u2022 Drive registration (email, social), speaker spotlights, live broadcast\n\u2022 Local meetup earlier in the week-of\n\u2022 Moonshot: Invite key influencers\n\u2022 Submit talks (abstracts in work",
+      "context": "Quick chat this morning with Ben for BIEN Congress Toronto (<https://bien2026.net>). SES will be a partner (idea stage):\n• Drive registration (email, social), speaker spotlights, live broadcast\n• Local meetup earlier in the week-of\n• Moonshot: Invite key influencers\n• Submit talks (abstracts in work",
       "author": "UNYCKRMC6"
     },
     {
@@ -3679,7 +3690,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:12.968080+00:00",
       "reported": false,
-      "context": "There are some interesting possible narratives <https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze|coming out of the findings here form gensqueeze> on the BC budget:\n\u2022 if BC still had just 10 per cent of its population over age",
+      "context": "There are some interesting possible narratives <https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze|coming out of the findings here form gensqueeze> on the BC budget:\n• if BC still had just 10 per cent of its population over age",
       "author": "UKQ1MQDMW"
     },
     {
@@ -3796,16 +3807,16 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:12.971362+00:00",
       "reported": false,
-      "context": "Had a meeting with Andrew Rose to organize an event in Vic &amp; Van, possibly oct (minus halloween week), with a key elements:\n\u2022 presenting our latest BC model\n\u2022 preview of new statcan partnership\n\u2022 speaker idea: Jenn Bradshaw  <https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-",
+      "context": "Had a meeting with Andrew Rose to organize an event in Vic &amp; Van, possibly oct (minus halloween week), with a key elements:\n• presenting our latest BC model\n• preview of new statcan partnership\n• speaker idea: Jenn Bradshaw  <https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-",
       "author": "UNYCKRMC6"
     },
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
       "source": "direct-from-floyd",
-      "reason": "LVT research report (PDF) \u2014 direct from Floyd",
+      "reason": "LVT research report (PDF) — direct from Floyd",
       "queued_at": "2026-07-17T23:43:36.200120+00:00",
       "reported": false,
-      "context": "Cincinnati LVT report from Land Economics \u2014 direct submission for wiki queue",
+      "context": "Cincinnati LVT report from Land Economics — direct submission for wiki queue",
       "author": "floyd"
     },
     {
@@ -3850,7 +3861,7 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
       "queued_at": "2026-07-17T23:44:18.845463+00:00",
       "reported": false,
-      "context": "Land Value Capture in Practice: Reflections on Ethiopia\u2019s Urban Land Lease System",
+      "context": "Land Value Capture in Practice: Reflections on Ethiopia’s Urban Land Lease System",
       "author": "research-scanner"
     },
     {
@@ -3859,7 +3870,7 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
       "queued_at": "2026-07-17T23:44:18.854785+00:00",
       "reported": false,
-      "context": "New York Authorizes a Land Value Tax to Fund Transit and More \u2014 Landscape 9",
+      "context": "New York Authorizes a Land Value Tax to Fund Transit and More — Landscape 9",
       "author": "research-scanner"
     },
     {
@@ -3922,7 +3933,7 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: cities)",
       "queued_at": "2026-07-17T23:44:18.896437+00:00",
       "reported": false,
-      "context": "Don\u2019t Reject Data Centers. Negotiate Harder.",
+      "context": "Don’t Reject Data Centers. Negotiate Harder.",
       "author": "research-scanner"
     },
     {
@@ -3958,7 +3969,7 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
       "queued_at": "2026-07-17T23:44:18.924260+00:00",
       "reported": false,
-      "context": "BOOM: Unanimous Vote Puts Land Value Tax Enablement on Governor\u2019s Desk",
+      "context": "BOOM: Unanimous Vote Puts Land Value Tax Enablement on Governor’s Desk",
       "author": "research-scanner"
     },
     {
@@ -4003,7 +4014,7 @@
       "reason": "rss (www.niskanencenter.org, keyword: monopoly)",
       "queued_at": "2026-07-17T23:44:26.955979+00:00",
       "reported": false,
-      "context": "\u2018Speed to Power\u2019 doesn\u2019t require a utility monopoly",
+      "context": "‘Speed to Power’ doesn’t require a utility monopoly",
       "author": "research-scanner"
     },
     {
@@ -4028,12 +4039,24 @@
       "url": "http://arxiv.org/abs/2511.21766v1",
       "source": "internet-scan",
       "reason": "arxiv paper (strong keyword: land value tax)",
-      "context": "The dynamic of a tax on land value : concepts, models and impact scenario \u2014 This paper develops a spatial-dynamic framework to analyze the theoretical and quantitative effects of a Land Value Tax (LVT) on urban land markets, capital accumulation, and spatial redistribution. Building upon the Georgis",
+      "context": "The dynamic of a tax on land value : concepts, models and impact scenario — This paper develops a spatial-dynamic framework to analyze the theoretical and quantitative effects of a Land Value Tax (LVT) on urban land markets, capital accumulation, and spatial redistribution. Building upon the Georgis",
       "author": "research-scanner",
       "queued_at": "2026-07-18T10:02:36.674601+00:00",
       "reported": false
     }
   ],
-  "total": 448,
-  "last_updated": "2026-07-18T10:02:40Z"
+  "consumed": [
+    {
+      "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
+      "source": "external-agent (relayed by Floyd from /workspace/wiki-queue.json #423)",
+      "author": null,
+      "date": "2026-07-17",
+      "context": "Cincinnati report - landeconomics.blob.core.windows.net",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/ndspn-cincinnati-lvt-analysis/",
+      "triage_date": "2026-07-18",
+      "notes": "Triage + full scan completed (text extraction plus PDF figure/table review for chart data pdftotext dropped). \"From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio\" (Notre Dame Student Policy Network, in partnership with the Center for Land Economics, 15 July 2026) — a revenue-neutral 4:1 split-rate LVT parcel simulation for Cincinnati, OH, occasioned by Ohio SJR 7. Graded tier: supplementary (undergraduate student report with an advocacy-institute partner, not peer-reviewed; third in the SPN/CLE parcel-simulation series after South Bend and Princeton). Created research/ndspn-cincinnati-lvt-analysis.md; wired one-line mention into organizations/center-for-land-economics.md and cross-linked research/miller-hoskins-college-town-lvt.md, research/oates-schwab-pittsburgh.md, places/pittsburgh.md, places/pennsylvania.md, places/new-south-wales.md, places/australia.md. Not added to benefits/split-rate-increases-construction.md's supported_by (prospective simulation, not new independent evidence, per the delta rule and the precedent set by the sibling South Bend/Princeton reports). No places/cincinnati.md page created (does not clear the ≥2-inbound-link accept bar on its own). registry.csv row added."
+    }
+  ]
 }

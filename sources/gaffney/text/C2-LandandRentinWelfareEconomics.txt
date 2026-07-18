@@ -1,0 +1,1460 @@
+8
+
+
+
+
+Land and Rent in Welfare Economics
+
+
+                                                     by M. Mason GatFney*
+
+
+
+
+     In the classical synthesis, human welfare and land rent were two
+parts of an integrated philosophy. As Smith, Mill, Marshall, and
+especially Ricardo scan us from their present eyries they must note with
+ shock two virtually separate disciplines tagged "land economics" and
+"welfare economics." The first has come to connote Wisconsin Institu-
+tionalism with its skepticism of marginal analysis, its emphasis on
+evolution, its earthy pragmatism and inductive reasoning. The second
+designates a rarefied a priori Scholasticism that proceeds from sanitary
+postulates through tangencies and equations to anything from sweeping
+reforms to nagging doubts about the value of any economics. The division
+of the two constitutes an indefensible compartmentalization of thought, and
+the writer does not favor either over the other. Rather he suggests some
+paths toward reintegration.
+     The two subdisciplines contrast in a number of ways. Welfare
+economics tends to emphasize static optimality, with only perfunctory
+obeisance to the passage of time; land economics deals with long-run
+intertemporal changes. Welfare economics is generally spaceless, also,
+while space is the essence of land economics. Land economists have been
+impatient of theory to the verge of anti-intellectualism, while welfare
+economists exhibit more patience than most of their readers in spinning
+subtleties which, instead of being means to human welfare, sometimes
+
+    *M. MASON GAFFNEY has been associate professor and professor of agricultural
+economics at the University of Missouri since 1958. Born in New York in 19Z3. he did
+his undergraduate work at Reed College, and obtained his Ph.D. from the University
+of California. He has been an instructor at the University of Oregon, an assistant
+professor at North Carolina State College, and a Ford Foundation fellow. One of his
+interests is Land rent, a aatter which he treats in this chapter.
+Author's Note: To Thomas Crocker, Research Assistant sans pareil, my thanks for many valuable
+contributions; to Dean Elmer Kiehi, my thanks for fostering an environment favorable to basic
+research; to Marion Clawson, my thanks for gently prodding me into finishing this chapter; to all
+three, my thanks for tolerance of roy heterodoxy, and absolution from responsibility for it.
+
+                                              141
+142
+
+seem to become the ends of their lucubrations. As to policy, land
+economists are probably too easily pleased, asking only to see movement
+in economical directions; welfare economists are often implacable,
+spurning mere "piecemeal" optimizing, pointing ever upwards and out-
+wards to ideal and universal Platonic prototypes. Land economists are
+the more eclectic for they do read the welfare literature, which in its
+turn, however, yields no evidence that any pure welfare theorist since
+Pigou knew a shred of land economics.
+     As an earthbound land economist levitates through the pure welfare
+literature he sees much to admire: lhe rigor; the elegant marginalism;
+the normative pursuit of the general welfare; the suppression of sub-
+jective bias; the boldness with policy. He wishes he saw more of those in
+his own subdiscipline. But he also finds it a long way between drinks, and
+he wonders what earthlings can survive in these arid and vertiginous
+altitudes. He does not insist that all economists have met payrolls, but
+those who declaim on so humanistic a subject as welfare should exhibit
+some sign that they bleed when cut and weep when wounded. Between the
+Platonic peaks and the deeps of life and sin there must lie a temperate
+zone where the universals of theory come to bear on more humid human
+problems. Probably the greatest reciprocal contribution of land and
+welfare economics is to balance one another and keep within that temperate
+zone, where indeed we already see the tracks of Regan, Chryst, Margolis,
+ Tolley, Clawson, Krutilla, Eckstein, Renshaw, Hirshleifer, Milliman, and
+others, who commendably defy subclassification: they are economists.
+      Welfare economics has a signal contribution for land economics in
+its normative outlook. Land economists are prone to accept the institu-
+tions they emphasize as ultimate constraints, fixed with the stars in their
+courses. They cast themselves, with notable exceptions, in the subsidiary
+role of commentators scribbling in the margins of history, annotating the
+ineluctable. Dulled by the gross wastes their profession keeps disclosing
+they grow uncritical.
+      Welfare economists are more delicately attuned, more imperious,
+and in an important sense more realistic. They look through and beyond
+institutional constraints to the ultimate goals of human organization.
+ They assert the status of those ultimates over mere institutions, evaluate
+institutions accordingly, consign to perdition those found wanting, and
+rise on their hind legs with bold new gadgets such as social dividends,
+lump-sum capacity taxes, or open-ended stock issues to enhance the
+general welfare.
+      To accompany this attitude they supply an analytical apparatus on
+which land economists often rely who do render normative judgments.
+The apparatus may grow unwieldy with all the armor it has clad to fend
+off cynics and spoilers, but deep inside we still find a simple working
+rule, The Rule, the equimarginal principle, and many qualifications to
+temper it.
+      The obvious contribution of land economics to welfare economics is
+an element of reality, a wealth of experience, a feel for human possibili-
+ties. Welfare economics has a surplus of empty boxes, which land
+economics is peculiarly competent to fill.
+     But ironically the prime contribution of land to welfare economics is
+a higher degree of generality. For all its ecumenical purport, most of
+the "pure" welfare economics is both spaceless and timeless. It is all
+very well to abstract from localisms, but space and time are absolute
+                                                                                              143
+universals. It is welfare economics that preaches against "piecemeal"
+optimizing. Economizing at dimensionless points in space and time is
+piecemealism beyond sufferance. Space and time are the very stuff of
+land economics, and if it contributed nothing else to welfare economics
+that would be enough to fill several of those empty boxes.
+     Consider consumer surplus. In land economics that attaches not to
+free-floating individuals, but specific lands. If Connecticut commuters,
+for example, put more aggregate value on the New Haven Railroad than
+that unhappy bankrupt can collect at the ticket window, the surplus finds
+its way into Connecticut land prices. if California irrigators derive from
+water supramarginal benefits above the price, that surplus imputes to
+lands under the ditch.
+     Consider external economics. Their most general cause is spatial
+proximity, and land economics copes with them, both technological and
+pecuniary, constantly. Every irrigation development affects ground
+water levels and local trade. Urban buildings affect their neighbors'
+views, share their transport-utility lines and taxes, and pull customers
+to or away from them. A basic way to render external economies internal
+is to acquire more land, whereby one evolves from an atomistic parcel-
+holder to a competitor of the local government and democracy, which in
+tim maintains itself and the viability of atomistic landholdings, by
+judicious manipulation of external economies related to land.
+     Consider the welfare economist's problem of interdependencies.
+Again, these most often entail spatial proximity. Land economists have
+grappled for decades with problems of co-ordinating and synchronizing
+complementary public and private contributions to the interdependent land
+settlement process, both urban and rural.
+     Consider the welfare economist's specifications for an ideal tax, a
+lump-sum "capacity-tax" based on latent potentialities, uncontingent on
+actual economic behavior, without distortion or excess burden. Having
+given the specifications, welfare economists are at a curious loss to
+identify a suitable base, yet land not only affords a theoretical base of
+the requisite properties, but is so taxed and has been for centuries where-
+ever assessments are based, as the law now directs in most American
+jurisdictions, on site potentialities regardless of current use.
+     Last, consider the welfare economist's problem of identifying de-
+creasing cost operations, determining marginal costs, and meeting the
+deficits implicit in marginal cost pricing. The prototype of decreasing
+cost operations is the transport of utility service over a network within a
+fixed perimeter. Hotelling, recall, was discussing the general welfare in
+relation to problems of taxation and of railway and public utility rates.
+Dupuit was concerned with Ponts et Chausses. The consumer surplus
+generated was clearly imputed to the rental value of lands served, where
+it could be measured and whence recaptured by lump-sum land-capacity
+taxes to meet the deficits of marginal cost pricing. 1
+     Since Hotelling, welfare economists, in their praiseworthy pursuit
+of generality, have abstracted his principle from its earthy genesis until
+the material referents are lost and the box emptied. But returned from
+the abstrusities of Laputa to the terra firma of Swift's admirable
+Houyhnh.nms, the box is full of relevant experience with municipal transit,
+   'Harold Hotelling, "The General Welfare in Relation to Problems of Taxation and of Railway and
+Utility Rates,' Econometrica, July 1938, pp. 242-69, p. 256, and 'The Relation of Prices to
+Marginal Costs in an Optimum System," Econometrica, April 1939, pp. 151 -55.
+ 144
+
+ irrigation districts, cheap power, et hoc genus omne. The "subsidy"
+ which offends many conservative econornistsZ is seen to be not properly
+ a subsidy at all, not a redistribution from "other industries" or regions,
+ but a means of extracting supramarginal surplus windfalls from specific
+ beneficiaries by the approved capacity-tax method. Distributionally, it
+ bears the earmarks of a charge on gainers usable to compensate losers ---
+ again an ideal of welfare economics.
+      Those, then, are some reciprocal potential contributions of land and
+ welfare economics which we now proceed to develop. First we define
+ ground rent and differentiate it from other distributive shares. Second,
+ we treat the role of ground rent as an economic constraint on the posses-
+ sion of land, both in space and time, by atomistic individual landholders.
+ Last, we treat the role of ground rent as a guide to land development by
+ transport-utility networks.
+
+     GROUND RENT AND OTHER DISTRIBUTIVE SHARES: SIMILARITIES
+                       AND DIFFERENCES
+
+      The concepts of land and ground rent have suffered a terrible mauling
+ in recent decades. The new conventional wisdom has it that ground rent
+ is only one of many rents, and land is scarcely worth distinguishing from
+ other resources, if indeed it can be.
+      This is not the place for technical analysis of the imputation of ground
+ rent. I have tried elsewhere to show how ground rent may be segregated
+ from depletion and depreciation charges and from income of depletable
+ virgin fertility and old improvements. 3 In general it is my position that
+ the ground4 has salvage value and a future opportunity cost where old im-
+ provements do not, so land is valued from the future and old improvements
+ residually. In the same work I treat the traditional quibbles about "made"
+ land, underground improvements, soil exhaustion, substitutability by
+ capital, and Venus de Milo, none of which need detain us here.
+      This is the place to point up the importance for welfare economics of
+ land's unique qualities: natural origin; fixed location; extension; perma-
+ nence;5 fixed aggregate supply.
+      Fixed location is the quality that lets land serve as the measure and
+ trap for localized consumer surpluses and external economies. Labor and
+ capital immigrate to share local windfalls to their kind, and in due time
+ compete them away entirely. Benefits to local land are rather imputed
+ away in higher rents. Institutional barriers may preserve local benefits
+ to local monopolies of labor or capital, but then the windfall imputes to the
+ monopoly, not to labor and capital as such. The obstacle to land immigra-
+ tion is physical, inherent in the resource itself, and the windfall imputes
+ to land as such, whose local monopoly is granted by Nature.
+   2For example, Howard S. Ellis and William Fellner, 'External Economies and Diseconomies,
+The American Economic Review, September 1943. pp. 493-511.
+   3Mason Galfney. "Ground Rent and the Allocation of Land among Firms," Proceedings, 1961
+Land Economics Seminar, North Central Land Tenure Research Committee, to be published 1962.
+   4By 'ground" I purport something more than "site" but less than "land" as the term is usually
+used. Ground is site plus permanent geological matrix, but excluding that much of virgin fertility
+which it is economical to deplete. In general the difference is small relative to other economic
+magnitudes. and in the present work "ground" and "land" are interchangeable.
+   5This excludes from the present discussion geological funds which are depleted by use.
+                                                                                  I
+                                                                           145
+     Fixed location is also the key to land's unique relation to the inter-
+dependency question. Water service that opens up new lands1 for example,
+requires the complezrxentation of sewers, houses for customers, and
+ultimately the whole complex of transport—utility lines that make a finished
+community. The water service requires these complements not just any..
+where but serving the same lands. The services achieve necessary scale
+economies by finding many customers not just anywhere, but compactly
+grouped in space.
+     The importance to welfare economics of land's natural origin and
+permanence is in the unique suitability those qualities give land as the base
+of a lump-sum "capacity-tax," a neutral nondistorting tax not contingent
+on man's creating the tax base by storage or saving, not avoidable by
+consuming or removing it. The only contingency is that the landholder
+retain title, but a financial flight from land titles removes no square foot
+from the supply. Ad valorem land taxes are simply capitalized into lower
+land prices and the net outcome is to substitute a tax burden for an interest
+burden, explicit or implicit. Insofar as that shift would cause reallocation
+of the fixed supply it is by the removal of a distortion -- - unequal access to
+credit -- - and not (assuming accurate assessment) by the imposition of a
+new distortion.
+     Natural origin and permanence of ground give it a unique place in the
+distributional ethic. Ground rent as private income is without functional
+rationale, as generations of economists have duly, if discreetly, noted.
+It neither elicits the supply nor preserves it. It only serves to allocate it
+to the high bidder, but this function is so badly distorted by speculation in
+anticipated increments to the market price of infinite future rents, as
+almost any city planner will document, that there is reason to believe
+public rent collection through heavy lump-sum ad valorem capacity taxes
+could serve the allocative function better.
+    When, however, we claim uniqueness of the ground in its fixity of
+supply we run afoul of the new conventional wisdom which preaches a blur-
+ring of such discriminations. Some leading arguments are these: man can
+increase the land supply; rent is one of many differentials; Roger Mans can
+earn more slugging than soda-jerking; labor supply is wage-inelastic;
+capital formation is interest-inelastic. Let us entertain them in order.
+     When urban economists speak of increasing land supply they apparently
+have in mind such operations as extending expressways and sewer mains,
+bringing new lands into the urban sphere. Farm economists who speak
+of 'elastic" land supplies in turn have in mind reclamation and clearing.
+Cities may take land from orchardists, they from pig-farmers, who push
+on wheat-farmers. Wheat-farmers push on cattlemen, they on sheepmen,
+they on forestry, recreation, and the Indians, but none of that, as the
+displaced persons keep reminding us, creates new land. It intensifies the
+use of land formed when the Earth was young.
+     Similarly we intensify the use of labor when it grows relatively dear,
+and of capital. We do not describe that as creating new labor and capital,
+although over some range it substitutes for such creation. But in addi-
+tion we actually do spawn new people, and store up net new capital. There
+is the difference.
+     The idea that rent means "differential" is I believe a case of con-
+founding the incidental with the essential. The concept of rent arose to
+help explain why men should pay for something Nature supplied gratis,
+courtesy of the house. Its expositors, following Ricardo, have taken note
+ 146
+
+  that lands differ in quality per acre and command different rents per acre.
+ Some writers have Siezed upon that difference as the essence of rent, but
+  it is a secondary aspect.6 Rent arises because land is scarce relative to
+ dema.rjd and would arise in that circumstance if land were uniform.
+       The public celebrity analogy projects a resemblance between ground
+ rent, a payment Without the function of eliciting supply, and the income of
+ theatrical and athletic 5tars who allegedly enjoy their work, are good for
+ little else, and would work as much for less money. The analogy falls on
+ two counts.
+     First, the alleged rental component of the star's income is indefin-
+ able. It is supposed to be the excess of his star income over his oppor-
+ tunity cost. Expositors describe that best alternative as remote and ill-
+ rewarded: BB as a scrubwoman, Roger Mans as a teacher. Thus they
+ make most of star-income a rent. But the alternatives are arbitrary and
+ the rent is rubber. There is a whole range of closer alternatives, and
+ what is rent and what is not depends entirely on the one specified, until
+ we have Roger playing for another team, and Brigitte for another audience,
+ near their present fees, and their rent vanishes into earned income.
+       Second, ground rent is a macro-economic concept, that is it applies
+ to the whole class of land incomes without reference to allocation among
+ different industries or uses. It would obtain if all land and labor were
+ homogeneous and produced but one commodity. It is distinguished from
+ wages by the curse of Adam that labor toward suppertime grows irksome,
+ and at all times represts a sacrifice of pleasant diversions. Wages in
+ general serve the neces Mary function of enticing man from leisure. Rent
+ in general evokes no Supply response: the Creator never sees it.
+      If the remolders of terms and issues must describe celebrity income
+ as "rent" let them at least spare the original term uncorrupted, and the
+language unimpoverished by qualifying their concept as "micro-rent" or
+"transfer-rent." Then their readers could divine that land income is
+double-rent,  macro and micro. The block at 34th and 5th Avenue, that
+is, that sustains the Empire State Building, is not only given freely by
+Nature, like true love Without demand for requitement or threat of remov-
+al, but also might be a potato patch. And so its million-dollar yearly
+ground income is 100% rent and also 99. 99%, double-damned to damn
+Brigitte once. No doubt we are all poor sinners, as the micro-rent con-
+cept intimates, who if We got what we deserve wouldn't get much. But
+among economic sinners, the ground rent collector holds a unique
+pre -eminence.
+     Those who regard Wages as a form of rent have another string to
+their bow, however. They note that incomes are higher today than in
+1900 but hours are shorter. Post hoc ergo propter hoc:_pay them more
+and they work less. The argument of the road gang boss has been com-
+mandeered by the modern Cameralist. Wages do not elicit labor; labor
+is perversely elastic to wage rates.
+     The argument might be neater if ceteris were paribus. Over sixty
+years many things have changed. Today among other new things we have
+steeply progressive inCotne tax rates, more accumulated wealth, longer
+subsidized schooling, bi unions, seniority and tenure, reduced inter-
+professional wage differfltials social security, Freud, protection from
+    6lndeed, the area unit is  4rbitrary one within which to define quality and supramarginal
+ranking. Low-valued acres mv tn some extensive uses produce more per man than high-yielding
+ones, be higher above the marg,,, and slower to go out of use when costs rise or prices fall.
+                                                                                               147
+
+immigration, and Miltown to bank the inner fires of workmanship, and it
+is a violent assumption to attribute all our modern otiosi.ty to high wage
+rates. But is long-run response really relevant at all? Insofar as higher
+wages over time are responsible for reducing hours it is by helping us
+accumulate the wherewithal to put a higher price on leisure. The price
+we put on our leisure is not a function of the wage of our marginal efforts
+at a given moment, but of the wages we got yesterday and expect tomor-
+row, our property income, government checks, and a variety of things.
+The money we get for working from 4 to 5 P. M. on Friday, December
+22, 1961 is necessary to elicit the supply under the conditions of that
+moment. In that sense wages are functional where ground rent is not.
+     The new conventional wisdom also has it that we save and create
+capital more or less by reflex, so that interest7 is a rent, too. It would
+be presumptuous in a few words to sum up decades of debate around and
+about this topic, but the lagging rate of capital formation in the United
+States during three decades of the new wisdom at least gives us license
+to wonder if the last word was spoken when the rentier was consigned to
+euthanasia. A land economist suspects that interest rates do affect
+capital formation, if not directly then through their effect on asset values
+and especially land values, with their high interest-elasticity. High land
+values, the result of low interest rates, satisfy without benefit of real
+capital formation their holders demand for assets and so tend to weaken
+saving.
+      It also seems obvious, land values or not, that at zero interest we
+could live by borrowing indefinitely and would give up not only saving but
+our jobs and all unpleasantness, deprivation, and restraint whatsoever.
+The Gesellniks can hardly dodge that dilemma by pleading credit ration-
+ing, for at the end of the credit line lies capital scarcity and an interest
+rate. Zero interest is clearly a fantasy in which we would run through the
+accumulations of centuries in a few glorious days. As Natura non facit
+saltum, it is plausible to suppose that near approaches toward zero
+interest would likewise tend to discourage capital formation.
+     In a closed economy the effects of farther approaches toward zero
+interest would make interesting debating. But as a practical matter the
+issue is seldom so drawn. Taxing jurisdictions are defined as specific
+land areas, from which capital will flee for light and transient causes,
+while you can tax the very all out of the land and never a square foot wilr
+rise up and walk out of town.
+     In summary, when we speak of "rent' we mean an income share that
+appertains specifically to land and which is likened to other distributive
+shares only by specious analogies which never should have risen above the
+dignity of debaters' ruses.
+
+                GROUND RENT AS A CONSTRAINT ON LAND USE
+                     BY ATOMISTIC PARCELHOLDERS
+    Ground rent is a "surplus, " we have maintained, differentiated from
+other distributive shares in lacking the function of eliciting the aggregate
+supply.
+       personally prefer profit to denote the net return on stored capital realized         reserv-
+ing interest as the price of money reflecting exante anticipations. 8ut this is not the place to
+open that box and I here use 'interest' in the classical sense.
+148
+
+      But factor payments serve two functions. Besides calling forth the
+ aggregate supply they ration it among competing demands. Re.sèrves
+ the second function quite as much as do other shares. "Rent," wrote
+Ely and Wehrwein, "acts as the 'sorter' and 'arranger' of this pattern
+(of land use)." Rent pre-empts the choicest sites for uses that most need
+their advantages, and ranks land uses in order of rent-paying capacity.
+ The body of lore called "location theory" advanced by Thiinen, Weber,
+Lsch, Hoover, Dunn, Isard, and others elaborates at length on this
+principle, so that the allocative function of rent is not only received but
+embellished doctrine.
+     The systematic and comprehensive welfare economist, however, must
+feel that land and location economists have not fully established the
+economic rationale of rent in a quantitative sense. They have rationalized
+the qualitative function of ranking land uses, but have slighted the quanti-
+tative function of arbitrating the margins between landholdings: just how
+much. land should each firm occupy, and at what intensity? They have
+given us no demonstration that the rent of central sites serves optimally
+to constrain landholders from expanding and thereby imposing private
+and social costs on utilities and peripheral land users who must traverse
+their holdings. They have generally been content to accept private trans-
+port-utility costs as equal to social costs, even though that is conspicuously
+untrue, and have asked no very deep questions about the nature of social
+transport costs, nor therefore about the effect of land occupancy on those
+costs.
+      The geo-welfare economist would note with approval that location
+ theorists demonstrate that individuals with greater demands on transport
+ tend to locate centrally, thereby tending to minimize transport costs, at
+least the part paid by individuals. That is important information. But
+transport costs also vary with the over-all intensity of land use. If all
+land users, preserving their ordinal ranking, were to double their land-
+holdings, they would much increase the miles they, their supplies,
+customers, and products had to travel, and very likely the social costs per
+mile as well. 8
+     Clearly, an important function of rent is to constrain such extension,
+to the end of minimizing aggregate transport costs and maximizing pro-
+ductive linkages. Clearly, too, this is one of the more interesting
+questions in an era of rapidly increasing per capita space use, both urban
+and rural. But it is a question on which the geo-welfare economist finds
+precious little guidance. Transportation economics has yet to be inte-
+grated with land and location economics.
+     The interrelations are rather extended. For example, suppose it
+be true that at urban fringes, private transport-utility costs are less
+than social costs. That would first, obviously, open up excess peripheral
+lands. But that in turn would relax rental constraints on intramargirial
+lands, and reduce intensities there below economical levels. This in its
+turn would disperse population wider, and impose more transport costs
+on the society that underwrites them. The burdens imposed by uneconom-
+ical transport rates are not simply the obvious short run misuse of sunk
+social overhead, but the long run thinning of land settlement, the reloca-
+tion of population, with demands for further extension of subsidized
+    8Hoovers and Dunn's assumption of decreasing costs per mile refers only to private costs in
+trucking. Social overhead costs are another matter--unit costs rise as trade territory density
+declines.
+                                                                                149
+transport facilities. Those are the extended interactions of land use and
+transport-utility rates that a geo-welfare economist would want worked
+out explicitly.
+Rent as a Constraint on Spatial Extension
+     Let us begin with the atomistic individual landholder and define the
+positive expansive force within, against which the constraint of external
+opportunity cost must contend at every margin. Rent is too crude a term
+for this kind of quantitative analysis — rent is an average concept, and
+we need a marginal one. If rent from an integral land-using operation is
+the average net product per acre, the outthrusting force is not that, but
+the marginal net product, which we can call "marginal rent," which may
+be higher or lower than the average depending on whether the operation is
+too small or too large. While that may seem obvious to any marginalist
+economist, it has not to my knowledge been explicitly developed in the
+literature, and certaixily its implications are widely flouted. Let us then
+develop the concept of marginal rent.
+     To proceed step by step, first abstract from scale by assuming con-
+stant returns. Let us also at first abstract from the transport question
+and discuss simple adjacent farrnholdings on homogeneous soil and with-
+out significant location differences. That leads directly to some inter-
+esting welfare conclusions about equilibria at the margins between adjacent
+landholdings.
+    In Figure 1 we signalize the assumption of constant returns by plotting
+on the abscissa not land alone, but the ratio of land to complementary
+inputs. The two solid curves represent per acre figures: Average Gross
+Revenue per acre (AGR); and Average Complementary Costs per acre
+
+                                                                                      I
+                                                                                      4
+
+
+
+
+                                                  A        S
+
+                             LAND IN ACRES PER COMPLEMENT
+
+
+
+Figure 1. Complementary Costs, revenues, and derived average and marginal net
+products of land with assumed constant returns to scale.
+150
+
+(ACC). The ACC curve is a rectangular hyperbola.9 AGR behaves as any
+conventional average product curve, showing the result of varying pro-
+portions on output. Note that "average" here means "per acre," and not
+"per unit of output.
+      The vertical span between AGR and ACC, their difference, is Aver-
+age Net Revenue (ANR), or rent, which is also graphed separately (dash
+line). ANR, of course, peaks farther to the right than AGR peaks. Note
+the characteristic lenticular form of the area between the AGR and ACC
+curves. It is a form we will meet several times.
+      The most interesting curve is the last, Marginal Net Revenue (MNR),
+or marginal rent, and the most interesting thing about it for the present
+analysis is the contrast it draws between two firms, one of which is a
+little too intensive (at A), and the other of which is a little too extensive
+(at C). The average net value of land is the same to each, and if that
+were our sharpest tool we would be at a loss to choose between them, and
+to allocate marginal acres between them. But we would probably give the
+acres to C because it is very much the fashion these days to applaud lower
+costs per acre and overlook output per acre, and that would be exactly
+wrong because the marginal rent, the proper arbiter of boundaries, is
+much higher for A.
+      The curves of Figure 1 do not exaggerate how quickly marginal rent
+falls with a slight decline of average rent. Table 1 is a numerical exam-
+ple of such a relationship. Marginal rent falls from 15 down to minus 3
+while average rent barely changes.
+Table 1: Relations of average and marginal gross and net revenues with declining intensity of land
+           is e
+    (1)            (2)      (3)         (4)       (5)         (6)        (7)         (8)     (9)
+   Land           Gross
+                   Average Marginal Comple- Average     Net   Average Marginal
+(Acres Per Revenue Gross    Gross   mentary Cornple- Revenue Net        Net
+Complement) (GR)   Revenue Revenue   Costs  mentary    (NR)   Revenue Revenue
+            .       (AGR)  (MGR)*    (CC)    Costs    (2)—(5)  (ANR)  (MNR)*
+                          (2)—(l)                           (ACC)                  (7)—(l)
+                                                            (5}—(l)
+
+                                         4                                                    4
+       1            4        4.0                   42        42.0        -38       -38.0
+                                        16                                                   16
+       2           20       10.0                   42        21.0        -22       -11.0
+                                        17                                                   17
+       3           37       12.3                   42        14.0        -5        - 1.7
+                                        16                                                   16
+       4           53       13.3                   42        10.5         Il         2.8
+                                        15                                                   15
+       5           68       13.6                   42         8.4         26         5.2
+                                        13                                                   13
+       6           81       13.5                   42         7.0         39         6.5
+                                        10                                                   10
+       7           91       13.0                   42         6.0         49         7.0
+                                         6                                                    6
+       8           97       12. 1                  42         5. 3        55         6.9
+                                         0                                                    0
+       9           97       10.8                   42         4. 7        55         6. 1
+                                        —3                                                   -3
+      10           94       9.4                    42         4.2         52         5.2
+*MGR and MNR are here identical, because Marginal Complementary Costs (MCC) are zero,
+ throughout.
+ MGR and MNR are tabulated between rows because they represent changes between the defined
+ values of Gross Revenue.
+  9Deterrnined by the definition of the abscissa, of which it is the reciprocal.
+                                                                                            151
+     The implication of all that is that, insofar as our analysis compre-
+ hends the relevant considerations, adjacent users of similar land for
+ similar purposes should be drawn by the rental constraint toward com-
+ parable intensities, with due allowance for differences of managerial
+energy and skill. We cannot rationalize the extensive use of valuable land
+by citing lower costs per acre, higher output per man, and that sort of
+thing. The relevant driving force is the marginal rent of land and it is,
+given the rein, a strict taskmaster.
+     But need we limit the conclusion to land used "for similar purposes?"
+I think not. Let the ACC curve of Figure 1 be an envelope type curve,
+representing not just the best adjustment to different intensities of pro-
+ducing one product, but the best adjustment of products to each intensity
+as well. Adjust the other curves, all measured in the economist's uni-
+versal ruler, to the new definition of ACC. Their positions and curvatures
+will change, but not their basic shapes nor critical intersections, nor the
+conclusion they impose on us. Of two uses yielding the same rent per
+acre, the more intensive should, in a perfect market, acquire marginal
+lands from the less until the intensities are equal.
+     The observation of extensive land uses persisting in central places
+on valuable sites has seemed to call for rationalizations, such as those of
+Ely and Wehrwein. Bat it is also possible that these are evidences of
+badly distorted markets. I do not believe that a meticulous geo-welfare
+economist would give the standard apologetics very long shrift. He would
+even find the assumption of managerial differences stretched beyond
+capacity. He would insist that a perfect market should achieve an equi-
+marginal balance at the fence lines: that the outthrusting force of operator
+A should be the marginal rent of land to him, and the opportunity cost
+surrounding and constraining him should be the marginal rent of land to
+his neighbors, like C. He would have to deplore the failure of most land
+economists to apply such a standard in their judgments and comparisons.
+Rent as a Constraint on Scale
+     Or is it just that he doesn't yet understand the marvels of large-scale
+production? Let us now drop the assumption of constant returns to scale,
+retaining yet however the homogeneous soil, and locational indifference.
+The analysis changes surprisingly little, so long as we limit it to atomistic
+individual landholders who do not capture many of their own external
+economies. Land, to the atomistic landholder, is much more divisible
+than labor or buildings or machinery, so that scale economies are almost
+synonymous with spreading the overhead of large capital and labor inputs
+over more land. Thus the scale question can be analyzed as a variation
+of the intensity theme. The necessary adaptations are in Figure 2.
+     Figure 2 differs from Figure 1 in these ways: the abscissa is now
+simply acres, instead of acres per complement; ACC is no longer a
+rectangular hyperbola but is appreciably flatter, being an envelope repre-
+senting optimal adjustment in all respects to increased acreage, of which
+adjustments reduced intensity is only one;'° MNR is no longer identical
+with MGR but lesser, because MCC are now positive (in Figure 1 they
+were zero;) MNR intersects AGR to the left of the latter's peak, or not
+   10When scale economies spring from landholders' entrapping their own external economies, the
+ACC curve may rise over some range. But ANR still traces a lenticular figure, so that comparable
+conclusions emerge.
+ 152
+
+
+
+              I.
+              I.
+        -J
+        -J
+        0
+        0
+              It
+        'U
+              I0
+        Ill        AGR
+
+        'U
+                                                                                   ACC
+        0     I
+        I—
+        (4    4
+        0
+              2                                                                     ANR
+                          ANR
+              0'
+                                              4
+                                                   I8 C
+                                          LAND IN ACRES
+
+   Figure 2. Costs, revenues, and derived average and marginal net products of land with
+   increase of scale.
+ at all; and AGR peaks nearer the peak of ANR, at least relatively so,
+because of the flatness of ACC, and AGR (which is easy to measure) be-
+comes more nearly normative. 1
+      The essential lenticular shape of the ANR curve is still with us;
+likewise the normative value of its peak, its intersection with MNR, which
+now represents optimal scale as well a.s intensity.
+      As before, the most interesting curve is MNR, and this time it draws
+a pointed contrast between the firm at A which is a little too small, and
+another at C which is a little too large. Their average rents (ANR) are
+the same. But the marginal rent curve (MNR), which the geo-welfare
+economist insists on, reminds us that in private as in public welfare
+economics it is not good practice to let the supramarginal parts of an
+operation carry the submarginal. There are substantial social gains from
+transferring marginal acres from the too-large firm to the too-small, so
+long as the latter remains viable.
+      In its long love affair with scale economies, the profession of agri-
+cultural economics has tended to overlook such nagging marginal consider-
+ations. It has leaned heavily on that falling ACC curye to the neglect of
+the others. Geo-welfare economists have a mission to bring equimar-
+ginalism into the picture. We have come to imagine small farmers as
+weak and inferior, to be preserved, if at all, only for sentimental, mili-
+tary, or sociologicalu reasons. But in terms of the marginal revenue
+productivity of additional lands for their cramped holdings, overmanned,
+overimproved, and perhaps overequipped relative to their land base, some
+of them must be as ravening wolves. Just what keeps those wolves behind
+fences should make an interesting study in market imperfections.
+    ''It is worth signalizing the implications of the last point. The great emphasis of production
+economists on minimizing costs per acre may be misleading. If we must emphasize a single cri-
+terion of good combination of inputs, maximum output per acre (AGR) comes closer to the norm.
+                                                                                                  153
+
+     The scale question now appears as an aspect of the intensity ques-
+tion. 12 Rent is more than a constraint on "extensity" abstracted from
+scale. In the process it assumes a key role as an absolute limit on scale,
+because it is one cost that does not decrease with scale. That i3 most
+obvious n the short run: as one expands his landholding he presses on his
+neighbors and meets increasing costs per acre. In the long run the cost
+of homogeneous land is constant, while the cost of land within finite dis-
+tributive networks tends, as we see later, to increase.
+     By contrast, there are definite economies in larger buildings, larger
+rooms, larger machines, and so on. One doubles the floor space of a
+house, for example, without doubling the building cost. The role of rent
+as a constraint on scale is well exemplified by observing the evolution of
+autos and trucks, which are partly exempted from the constraint thanks
+to public underwriting of progressively wider and straighter streets and
+highways, and vehicle taxes based on criteria other than space occupancy.
+As the roads widen and straighten the vehicles widen and lengthen, and if
+they were publicly garaged, too, might eventually approach the dimensions
+of yachts and railroad cars. When they have to pay for the space they
+pre-empt, or when traffic congestion applies a constraint, they shrink
+again. 13
+     Another aspect of land's special role in limiting scale economies is
+that the MCC required to integrate fringe lands with a firm's operating
+center include rising internal transportation costs. The essence of a
+firm's individuality, and hence of scale economies it may realize, is its
+integral organic nature centered about some nucleus like a farmstead.
+Land added to a firm is marginal not just in quantity, but in location
+relative to the nucleus. Increasing internal transportation costs result
+from both longer lines and, after some point, overcongestion at the nucle-
+us. The TNEC Fetterites and others have pointed to analogous disecono-
+mies in the administrative nexus, but the geo-welfare economist need not
+reason by analogy. The long lines and congested centers are physical
+facts.
+     And so the landholder adding an acre to his operation must discount
+its net product for remoteness in space, just as he does future net prod-
+ucts for remoteness in time. But whereas we swim through time to-
+gether, we occupy different points in space, and one man's remoteness
+is another man's proximity. As A encroaches on B, therefore, the MNR
+of land falls to A, but rises to B, constraining the encroachment and
+limiting economies of scale.
+     Yet a third way in which rent serves to constrain scale of firms is by
+penalizing the lavish use of land-time that characterizes large-scale
+operations. Large scale of capital inputs is associated, as a rule, with
+durability, and the economy depends on spreading initial costs over a long
+period. Annual rent, an inexorable function of time, is a serious brake on
+   lZOne could also interpret the risk question as a variation of the intensity theme, but space
+limitation precludes that here.
+   131n the example, road space, although partly a human product, is made analogous to bare land,
+which is entirely a natural product. I do not allege that road space is generally synonymous with
+land -- cnly analogous, in the particular example, and in the short run. In the long run, streets
+and roads and highways may be widened, and in that process the unique role of rent as a constraint
+on scale is manifest in the contrast between rural roads, where land is 'a minor cost, and downtown
+streets, where land is the major cost. Widening rural roads, we meet decreasing costs per foot of
+width; widening city streets, we meet sharply rising costs, as the street clips off the fronts of small
+and valuable lots.
+154
+all such grand conceptions. We proceed next to chrorio-welfare economics:
+the role of rent as a constraint on extension in time.
+
+Rent as a Constraint on Temporal Extension
+      Extension in space, with fixed- complementary inputs, obviously makes
+land use less intense by spreading the fixed or indivisible inputs over more
+land. It is a little less obvious, but equally important, that one reaches a
+ similar end by spreading fixed inputs over more land-time. One does this
+by letting buildings depreciate and yet survive over many years at low
+values unrenewed, thus encroaching on the time-margin of land use.
+      The primary constraint on this temporal extension is again rent,
+which the chrono-welfare economist views as part of the marginal cost
+of time. Rent as an opportunity cost puts land uses under pressure not
+just from all sides but from the future. Rent is not the only marginal cost
+of time--all costs have a time vector. But rent behaves in time as in
+space, that is it holds up inexorably at fixed or rising levels as one
+approaches the margins of decision where other costs as a rule taper off.
+      The usual capital input occupying land depreciates and obsolesces
+with time and has little, no, or negative salvage value toward its senility.
+Without rent, old buildings would almost never be demolished. On a base
+of zero any return is infinite. Along Park Avenue today a sound 30-story
+building has just fallen to the wreckers' ball to release the site for a
+larger modern improvement. The same building in St. Louis, or another
+part of Manhattan, would sttrvive another half-century; in Aberdeen, S. D.,
+perhaps two centuries; in Malta Bend, Mo., until it fell of its own weight,
+for it could always be used for storing grain, or old equipment, and
+ultimately for disposing of junk. There is always a use, however humble,
+for an old building. If the site beneath has no salvage value there is no
+limit to economic life but sheer physical collapse.
+      This function of rent is known to urban land economists, and ably
+expounded by Ratcliffe, but somehow it has never found its way into the
+main body of production economics which has tended to remain not only
+spaceless but timeless. Open almost any tome on cost analysis or price
+or production economics and you will see the axes labeled "Input A" or
+"Output B" with no reference to the time unit assumed, or the method of.
+annualizing fixed costs. It is to the credit of Boulding that he has made
+the effort to apply marginal analysis to time economics, but he has con-
+cluded--I believe mistakenly--that marginal analysis there breaks down.'4
+Literature on capital theory has tended to neglect both marginal analysis
+and the role of ground rent. I hope I am not preaching to the converted,
+therefore, in expanding on the role of rent as a temporal constraint.
+     The rental constraint on time-extension operates more specifically
+as follows. Let us adopt Terborgh's expressive wording and describe old
+and new rivals for a site as "defenders" and "challengers." The time to
+salvage an old site arrives when the defender's current annual income net
+of operating costs falls below the top challenger's anticipated annualized
+
+   14Kenneth Boulding, Economic Analysis (3rd edition) (New York: Harper & Brothers, 1955),
+Chapter 39. For a criticism see Mason Gafmney, 'Concepts of Financial Maturity of Timber,'
+A. E. Info. Series No. 62 (Raleigh: North Carolina State College, 1957 and 1960), pp. 45-52. See
+also p. 54, which seeks a reconciliation -- it is not alleged that Bouiding is entirely wrong, by any
+means.
+                                                                          155
+
+rent net of all costs. Note that we are biased for the defender because
+its capital costs are already sunk and rionsalvageable, so in the marginal
+comparison we deduct no charge on sunk capital, neither depreciation,
+obsolescence, nor interest. What's done is done and historical costs are
+irrelevant even if embodied in outstanding debt.
+     The challenger's annualized net rent is a more difficult concept.
+Since the challenger is typically not another firm but another land use
+contemplated by the same firm we have little excuse to assume this rent
+has been correctly determined "externally." We will have to compute it
+ourselves.
+     A new use usually entails heavy initial costs, compensated by revenues
+tapering off over many future years until the next challenger succeeds to
+the site. The entire cycle of investment and liquidation is an indivisible
+unit that must be evaluated as a whole.
+     The challenger's rent must be an average of its performance over
+time. A simple mean will not do, however, for in addition to the quantities
+of costs and revenues, we must consider their distribution in time. A
+"time-average" is necessary. This is found by annualizing all costs and
+revenues--for brevity let us henceforth say simply "net revenues.
+Annualizing a quantity of given time-position, ii, means finding the amount,
+call it a, which if received as a constant annual sum from now to 11
+would be of equal present value with the said quantity received once at n.
+     Net revenues in the terminal year, t, are annualized by the following
+standard formula:
+
+    a=
+         iR
+         (l+i)t 1                                                     (1)
+where R is net revenue, us the relevant interest rate, and t is the
+terminal age of the improvement.
+    Net revenues in any other year, n, are annualized by compounding
+them forward to the terminal year, t, before applying the annualizing
+operations of equation (1). Thus the complete annualizing formula is:
+
+    a         R(l+ i)t_
+         (1+ j)t — 1                                                  (Z)
+
+It only remains to select the value for t that maximizes a, which one may
+do in a number of ways.
+     It reassures one's faith in marginal analysis to note that one way of
+doing so is to find the year when R a, that is when the marginal revenue
+of time (Rn) equals the marginal cost of time (a). In the first years of
+heavy initial costs the values of R1, R2, and so on may be less than a, and
+ordinarily will be even less than zero as the initial costs are counted as
+negative revenues. That is inevitable in the nature of long-term improve-
+ments. But toward the later years any value of R which fell below the
+running time-average, a, established by preceding years, and not repre-
+senting a new investment to be requited by later revenues, would lower
+the time-average of the whole and call for demolition and renewal.
+     Which is also to say that in time analysis, as in space analysis, and
+as in the timeless-spaceless abstract analysis on which economists still
+ 156
+
+ nourish their young. a marginal revenue intersects the corresponding
+ average revenue function where the latter is a maximum.
+      The accelerated replacement constrained by rent is a form of intensi-
+fication of land use, as one would expect from the operation of a land
+constraint. Without the constraint the individual's motivation would be to
+ squeeze the last drop of income from the initial inputs by spreading them
+over as much land-time as they would endure, thus minimizing the time-
+average of his costs without regard to the time-average of his revenues.
+      The intensity that the time-constraint encourages is of a sort that is
+not necessarily obvious if we should observe the static ratio of land to
+improvement at any given point of time. Intensity over time takes the
+form of faster turnover of improvements, rather than heavier initial im-
+provements. Rent as a spatial constraint, it is true, prompts heavier
+initial improvements, but rent as a temporal constraint, chopping off the
+last years of each cycle, puts a premium rather on quick recoverability of
+capital, on flexibility and speedy replacement. Rent penalizes the ponder-
+ous and the monumental, and so has a tempering influence on initial costs.
+Its influence is rather toward maximizing volume of business, the joint
+product of capital times turnover. It is worth emphasizing that this rapid
+turnover of a nation's capital is a major factor tending to enhance employ-
+ment opportunities for labor. 15 Conversely, all factors that weaken the
+operation of rent as a time-constraint tend thereby to reduce employment
+opportunities.
+      This influence of rent is pervasive, affecting not only buildings but
+the daily use of rooms, floors, and shelf space. Rent is no less the
+executioner of the creaking lathe and the stale bread than of the firetrap
+apartment and the tired orchard. A high-rent economy is one that econo-
+mizes on land-time by introducing a note of urgency into all phases of life.
+     Rent is not, however, entirely the enemy of quality, substance and
+durability. It is an optimizing force that abhors extremes. While it does
+not let the minimization of time-average costs dominate decisions to the
+extent of overlooking time-average revenues, neither does it the opposite.
+It rather strikes a golden mean, maximizing the excess of time-average
+revenues over time-average costs.
+       In Equation (2) we submerged this relationship by combining revenues
+and costs in one inscrutable expression, R. Let us now express them
+separately and observe graphically a typical interplay of the              time-averages
+of costs and revenues with increasing life of improvements (Figure 3).
+     Here we see the now familiar lenticular shape of average net revenue
+(ANR), manifesting the same general principle as in Figures 1 and 2, only
+here applied to spreading fixed costs over time instead of space. The
+rental constraint precludes indefinite rightward drift because the slight
+decline of time-average costs is offset by the sharper decline of time-
+average revenues The rental constraint does not however drive us clear
+back to the maximum of time-average revenues at A, for there time-
+average costs are too high. It drives us rather to B, where the curves
+are parallel and farthest apart, and time-average rent is a maximum.
+     The systematic chrono-welfare economist would now want to explore
+many more dimensions of this analysis and fill in many missing details.
+He would want to trace the behavior of the challenger's marginal net
+
+  15Cf. Knut Wicksell, Lectures on Political Economy, Vol. I, General Theory. trans. E. Classen
+(New York: The Macmillan Company, 1934), pp. 127 ff.
+                                                                                     157
+
+
+
+              'I
+
+
+        'U
+              4I
+
+
+
+
+              I
+        'U
+              •0
+        'U
+        I..                                                                RVEMIES
+              I
+              'I
+
+
+
+
+                                      TIME IN YEARS
+
+              Figure 3. Time-averages of costs and revenues over building life.
+
+product of land-time and assure hirnseLf that it equalled average net prod-
+uct at the latter's peak. He would want to trace out optimal interteinporal
+marginal arbitration when the challenger's future was constricted by an
+impending higher use so that his average net product could not be maxi-
+mized--and he would discover he could improve a good deal on the "ripen-
+ing-cost" apologetics of R. T. Ely. He would want to adapt his analysis
+to land uses like stock-feeding in which the capital appreciates over time- -
+there he would discover the German forester Martin Faustmann to have
+anticipated him by over a century. But in this wide survey we must leave
+the question here.
+
+Rent as an Expression of Traversal Costs
+     Our geo-chrono-welfare economist is now equipped, albeit crudely,
+for an excursion into transport costs and their relation to land use.
+     Rent serves to constrain excessive pre-emption of space generally,
+but most particularly of space that others must traverse. It is a most
+important principle for the layout and rating of transport-utility networks
+that the force of the constraint equal the increased traversal costs im-
+posed by extension of land occupancy. While that may appear a welfare
+truism, it has not to my knowledge been formally expounded, and its
+policy implications are widely ignored both in practice and theory.
+     Let us suppose a row of five plots, equal in all qualities save location,
+running uphill from a common source of free water, S. A Water District
+serves them from a common pipeline, delivering to the uphill corner of
+each plot. Pipe capacity fits demand all along the line, declining after
+each outlet gate, in the likeness of an untelescoped telescope, but with
+enough excess capacity to permit a small adjustment.
+     Water is free at the source but not at the outlets. Service at each
+outlet is priced optimally to cover marginal costs, in a graduated manner
+we detail later. Now it is enough to note the water users feel the full
+social costs, exemplified by pumping, so that each successive user pays
+a higher rate.
+158
+
+     In Figure 4 the capacity needed for each plot is represented by a line
+running from its service outlet to the water source, S. The plots are
+designated in ascending order, A, B, C, D, and N. N is the marginal
+plot, and as our curtain rises it is dry-farmed.
+
+
+                                                                            .1
+
+
+
+
+             Figure 4. Schematic diagram of water service to hillside parcels.
+
+
+
+     In order for each plotholder to justify his tenure, both total and
+marginal, in the court of welfare economics, he must impute a marginal
+rent to the land as great as the traversal costs he imposes on landholders
+above, all of whom his presence pushes one slot uphill and who must pay
+for lifting water past his entire holding.
+     Let us concentrate on the margin between A and B. It is now affected
+by more complex factors than in our earlier example where location was
+unimportant. The outthrusting force of A is still the marginal rent he
+imputes, but B's resistance is tempered by his higher water rates, because
+he can encroach on C whose land is cheaper, or move to N. B has in fact
+a large family of interesting alternatives to scan, but for an introduction,
+the basic forces are exhibited by supposing A to buy plot B outright, and
+B to skip up to plot N. We now make that supposition.
+      When B leapIrogs over C and ID to plot N he leaves C and ID virtually
+unaffected, so the costs imposed on society are largely summarized in
+ the costs felt by B. That is encouraging, for it suggests that B will require
+ of A a price for plot B, or any slice thereof, equalling the social costs of
+his total or partial move uphill. Such a price would constrain A optimally.
+     The costs imposed on B are those of acquiring land at N, hopefully at
+the price of its marginal rent without water; the cost, of lifting water past
+plots C, D, and N; and the loss of producer surplus on the water that he
+took at plot B but now thinks submarginal at the higher pumping cost.
+     It is encouraging, too, further to note that the additional pumping costs
+imposed on B equal the sum of everyone's cost of traversing the land onto
+which A has expanded. That is, B's cost of pumping one supply past three
+plots, (C, ID, and N,) represented by the dash line in Figure 4, equals the
+cost of pumping three supplies, for B, C, and ID, past one plot (B.) Thus
+the new transport costs imposed on society are the costs of traversing
+A's new territory. The removal of B to plot N gives the same result as
+                                                                                T
+
+
+
+
+                                                                         159
+
+though A's expansion had simply boosted B, C, and D uphill in order.
+     So far, then, it seems that market rents can be accurate constraints
+guiding social economy of central space whose extension imposes traversal
+costs on outsiders.
+     To be sure the elegant geo-chrono-welfare economist would be aghast
+at the crudeness of our model. He would resolve to do a monograph
+embellishing the finer points at an early opportunity and lay no claims of
+accuracy until that was done.
+     But he would also note the futility of piecemeal optimizing. The norma-
+tive welfare implications of our pumping model depend utterly on the
+assumption that privately felt transport costs equal social costs, and the
+fact is they do not. Where is there a water service that graduates rates
+with pump lifts? I know of none. Postage-stamp and capricious pricing
+are the rules in transport and utilities.
+     The location theorists have been content to spin out elaborate detailed
+models of lacy geometry on the assumption that pri'ate transport costs
+equal social costs, and that is their privilege. But it seems a poor alloca-
+tion of their scarce time and abundant talents when not only is the assump-
+tion untrue, but no welfare theorist seems to be telling us what normative
+rate structures would look like. There is also an economy of economists,
+and our geo-chrono-welfare economist would wonder if he shouldn't rather
+go back to where Hotelling left us and develop a welfare pricing for trans-
+port and utilities as a framework within which to economize on land.
+     He would note that if B can get water at plot N and beyond as cheaply
+as at plot B, little restrains B from ranging and roaming gaily up the hill-
+side, heedless of the costs underwritten by society. Looking back toward
+the valley, that release of constraint would cause B to sell plot B too
+cheaply, and relieve A of a proper constraint to economize on valley lands.
+If the valley lands - - - here made analogous to central city lands - - - had
+already, as in actual history, been intensively improved before the release
+of constraint, A would make his adjustment in the temporal margin of land
+use, reducing intensity over time by letting improvements age without
+renewal. Demolition is another name for salvaging land, and if land is
+made too cheap, renewal comes too slowly.
+     One reason some of the worst slums are found in American cities, of
+all places, is the same reason we have some of the world's worst-used
+soils, and some of the sloppiest camping manners: rather than renew we
+migrate. We have had that nearly-empty frontier, and a series of races
+to get out their firstest with the mostest, which seemed to justify the
+whole uneconomic process. We have subsidized one after another new
+form of transportation, spreading thin the ground rent that otherwise would
+have concentrated about the older centers and mandated their intensive
+renewal. The result has been careless exploitation at the fringes, and
+stagnation at the cores. Periodically, the process has brought on stagna-
+tion at the fringes, also, as rents have collapsed following bursts of
+overexpansion. Low rents, recall, mean low constraints on the temporal
+extension of land uses, hence a freezing of capital turnover, and reduced
+employment of labor.
+     And so our geo-chrono-weLfare economist's train of thought leads him
+back to one of the great figures of welfare economics, Hotelling, who initi-
+ated a goodly share of marginal-costing and all that, back in 1938, by
+inquiring into criteria for setting railway and utility rates. He now sees
+that question as integrally related to a normative economy of land.
+160
+  THE ROLE OF GROUND RENT IN PLANNING OPTIMAL TRANSPORT-
+                   UTILITY NETWORKS
+
+     We now rise above the viewpoint of the atomistic individual land-
+holder, to whom rent is an external constraint, and adopt the vantage of
+the municipality, or utility, or large land company -- very large, that is --
+which is presiding over the layout of a transport-utility network to service
+large numbers of atomistic plots. This latter activity is land "development,"
+as distinct from the "improvement" of individual plots. It differs from
+mere improvement among other ways in this, that development creates
+rents on the atomistic parcels served, which parcels capture consumer
+surpluses and external economies from tranaport-.utility networks.
+Municipalities and large landholders can recapture these spillovers, the
+one by taxation and the other by ownership, and use them to help finance
+development and to optimize rate structures along the guidelines of welfare
+economics. Let us assume a municipality in charge of development, dedi-
+cated to practice an art we will call enlightened Ricardian Cameralism, in
+the light of the best geo-chrono-welfare economics. What policies should
+it adopt for distributing water from a single free source?
+     To begin, it would mince no words quibbling whether to apply Lerner's
+Rule. The logic is inescapable. Price should be equated to marginal cost
+in every possible dimension, until the point where the cost of fiddling with
+prices exceeds the gains. No enlightened individual land manager would
+deny himself the gains of internal equimarginalism, and the enlightened
+Ric ardian Caine ralis t can do no less.
+     We may abstract from and defer the short-run question by noting that
+a planner should aim roughly toward building and sizing so as to equate
+long-run marginal costs with the time-average of short-run marginal costs
+ over project life - - - a straightforward application of chrono-equimarginal-
+ ism. There will be an early developmental stage of excess capacity, with
+ short-run costs below long-run costs, and a terminal stage of the opposite.
+Here we discuss simply long-run marginal costs.
+      We must not be taken in by a specious sort of "increasing cost" that
+ appears when we lengthen the pipelines to serve more lands. That is not
+a true increasing cost because the product is not homogeneous. "The
+product" we are supplying is not water -- that, recall, was assumed free
+at the source -- but transportation. We are producing place utilities. As
+we carry water farther, costs per gallon rise because the gallons are
+carried farther.
+     The homogeneous gallon is that delivered to one outlet. There, we
+increase the product by delivering more to one buyer at one place. And
+there we find decreasing costs, long-run costs, among other reasons
+because the cross-section of our pipe grows with the product of the radius
+times the circumference.
+     The Ricardian Cameralist is therefore selling not one product in
+increasing costs, but many products each in decreasing costs. He re-
+quires not one indiscriminate rate for the whole, but a graduated structure
+rising with distance from the source. Once having freed himself from the
+fallacy of regarding his product as homogeneous, he can allocate costs to
+each outlet individually, and marginal-cost pricing comes into its own.
+     First, note another problem we can solve jointly with the marginal
+cost pricing problem. Each outlet represents not just an individual prod-
+uct but an individual market, a perfect bilateral monopoly. Society pro-
+                                                                         161
+tects the buyer from the seller, after a fashion, by regulating rates, but
+nothing protects the seller from the non-buyer, the landholder who does
+not choose to participate, although the physical nature of space gives the
+ seller no choice but to make service available and to invest money in Ca-
+pacity traversing the holding. Ricardian Carneralism will give the seller
+an equipoise.
+      Now the Ricardian Cameralist sets a water rate equalling marginal
+cost as allocated to the individual outlet. The resulting deficit he covers
+by a lump-sum land-capacity tax on the land served from that outlet. The
+tax is a price paid for having water service made available - - an insurance
+premium if nothing else - - and a means of collecting consumer surplus.
+The landholder is compensated by getting water transported at low margin-
+al-cost rates, with the net social gains thereby effected, and by the great
+economy of a compact distributive network. He loses the option of keeping
+his land out of the system, a welfare question we return to later.
+      The problem of allocating pipe costs to individual outlets is straight-
+forward. Each section of pipe may be conceived as a large sleeve tele-
+scoped full of smaller sleeves. One sleeve is cast off after the pipe
+reaches each outlet, until the last outlet is reached by a simple, narrow,
+empty sleeve, the core of the pipe. A complete sleeve-length running
+clear back to the source, is allocated to each outlet.
+      In computing marginal cost the outermost sleeve does multiple duty,
+being allocated to each outlet. It is generally the cheapest sleeve per unit
+capacity, although the big trunks near the source will in a large system
+exhaust their scale economies. The allocation of total costs among
+individual parcels does present some complications, but as it is a less
+critical question we will not dwell on those here. It is certain, however,
+that the outermost sleeve should be allocated to the outermost parcel of
+land, for there we have the marginal decision to make: how far to extend
+service. That we take up now.
+      Marginal cost pricing is commonly criticized for providing no test of
+whether an operation is economical overall. It is a strength of Ricardian
+Cameralism to supply such a test, for each extension of a system and of
+course thereby for the whole. Our sculptor is pressing us for a decision
+where to locate his bust to the ancient god Terminus. How do we calcu-
+late an answer?
+      We have given the peripheral landholder shabby treatment so far, at
+least by his lights. We have let rates increase roughly with distance from
+the source, and actually somewhat faster because, although we allocate
+him the cheap outermost sleeve all the way, toward the end of the line that
+sleeve is at or near the expensive inner core. We are not following the
+common practice of letting the profitable center of the system carry the
+margins. The peripheries are segregated and must stand on their own
+feet, receiving only those economies inherent in the large-scale distribu-
+tion system in which they participate.
+      It is therefore with a clear conscience that the Ricardian Caxneralist
+resorts to the ultimate weapons of marginal cost pricing to justify extend-
+ing service. Indeed he can do no other, for he will not have exhausted the
+last economy inherent in his position until he has done so.
+      He has already deployed his penultimate weapons: marginal cost
+pricing itself; and allocating the outermost sleeve to the outermost parcel.
+He has one other, usually reserved for sick railroads and submarginal
+reclamation schemes, but which actually should be marshalled to pinpoint
+162
+the margins of every distributive network. The ultimate weapon is this:
+he measures and recaptures every last shred of consumer surplus and
+external economy created by water service -- - his yardstick is a land
+assessment and his reaper is a lump-sum ad valorem tax -- - and applies
+it to cover the deficits of marginal cost pricing. He proceeds outwards
+until the surplus which he creates and reaps just covers the deficit. Thus
+far and no further. There we raise the bust to Terminus, the ancient
+god of boundaries. Thus we determine the total supply of land within our
+System.
+    At the termini we can be certain to find costs decreasing more steeply
+than further in, because a larger proportion of the sleeves allocated to
+the terminal parcel will be near the core. The Ricardian Cameralist
+must expect, therefore, to have relatively greater need of the land tax
+toward the termini, even though marginal costs and water rates are abso-
+lutely higher there. Figure 5 exemplifies the penultimate situation and
+makes the points graphically.
+
+                           AC
+
+
+              00
+
+
+
+
+         -J
+         -j
+         0
+         0    00MR
+
+
+         s0.
+         U)
+
+
+
+              40                                                         MC
+                   A
+         0
+                   ———————                                                    AC
+
+                                                 B
+
+                                             M                           MR OF WATER
+                                     o
+              0        I         2       3   4       S   I   T   5   9   10
+
+
+                                WATER DELIVERED TO ONE OUTLET
+
+
+          Figure 5. Costs and revenues of water service to a penultimate outlet.
+
+
+
+    As we proceed outwards along the water pipe, the AC curve, which
+represents costs allocated to just one outlet, rises bodily. Demand is
+here synonymous with the marginal net revenue of water applied to the
+land. Total benefits are the area C + D + A. Total costs are C + D + B.
+It is economical to extend service until area B waxes to equal or exceed
+area A, which in turn wanes as the AC curve ascends.
+      In terms of deficits and taxes, the deficit is C ÷ B. Consumer sur-
+                                                                        163
+plus, captured in land rent, is C + A. The lump-sum land tax can cover
+the deficit and still leave some rent unrecaptured so long as A outmeasures
+B.
+     It is geometrically obvious that as the AC schedule ascends, and we
+approach the terminal outlet, the intersection of MC and MR drifts left-
+ward, beneath ever steeper reaches of AC, where costs are decreasing
+more rapidly, where the net social gains from marginal cost pricing are
+greater, and where, as we said, relative reliance on the lump-sum land
+tax must be greater.
+     Having pushed Ricardian Carneralism to its spatial limit, let us again
+don the chrono-welfare hat and return to the short-run vs. long-run
+question. When a system is new it should generally be overbuilt, antici-
+pating increased demand. In those early years even the central parcels
+may exhibit the marginalis tic traits shown in Figure 5, even though the
+time-average outcome is to be supramarginal. In those early marginal
+years, of course, price should be set to equal short-run marginal cost,
+which will be low, and the heavy deficits met by land-capacity taxes,
+which also serve as mandatory injunctions on landholders to accelerate
+improvement, thereby synchronizing interdependent investments. Thus
+at the temporal as at the spatial margins of the system the Ricardian
+element of Cameralism assumes greater importance.
+     There, then, are the bare bones of a transport-utility rate structure
+wherein social transport costs would be privately felt, and it would make
+sense to economize carefully on atomistic land parcels by geo-chrono-
+welfare principles. It is a system in which rent plays a central role, and
+which would in turn profoundly alter the present pattern of rents, were it
+applied.
+     The proposed system departs radically from present practice. Now,
+instead of subsidizing decreasing cost distributive operations we relin-
+quish them to the publicans as tax-collecting machines, setting rates to
+cover not only average costs but the city deficit as well. With decreasing
+costs, and elastic demand, the excess burden from this form of indirect
+taxation, especially at the centers of the systems, is awful to contemplate.
+     Now, instead of graduating rates with distance we maintain postage-
+stamp rates over wide areas, letting surpluses from the center under-
+write extensions into no-one-knows how deeply submarginal outlands. In
+respect to city streets we may temper the felony with gas taxes, but we
+compound it with taxes on vertical transportation, and indeed all manner
+of intensification, in private buildings, doubling the bias against the
+underfilled third dimension. The predictable result of taxes on downtown
+buildings and subsidies to capricious horizontal extensions is the checker-
+boarding and leapfrogging that we get.
+     Why do we subject ourselves to those hardships? Certainly not be-
+cause you and I are the first who ever noticed that transport costs increase
+with distance; and lump-sum land taxes have been imposed in some meas-
+ure throughout recorded history. The counterforces to Ricardian
+Cameralism fall also within the scope of welfare economics, and of them
+I would dwell on three most prominent: freedom of choice; economies of
+aggregate social scale; and the conflict of distributive equity with alloca-
+tive efficiency.
+     As to freedom of choice, it strikes many people that to charge a
+landholder for transport-utility service whether he wants it or not is to
+bereave him of a dimension of freedom in choice, and reduce his welfare.
+164
+The view is specious, but I believe must yield to deeper values.
+     For one, whatever increases the community's net product increases
+the individual's free choice, quantitatively of course, and doubtless
+qualitatively as well. To permit holdout landholders to disrupt the spatial
+integrity of the community is to permit a distance-barrier among all citi-
+zens, a barrier to the linkages in space that give richness and reality to
+the abstract freedom of choice. There is not a wide range of alternatives
+in an isolated homestead at the end of a mud road.
+     For another, hyper-individualistic welfare economics may have under-
+sold the value of the freedom of men to act in concert. Man is a social
+animal, after all, and to allow one or a few holdóuts to veto group projects
+and frustrate neighborly co-operation may be carrying a good thing too
+far. It certainly implies an interpersonal comparison in which the hold-
+outs' freedom to say "No" is ranked above the majority's freedom to act
+as a community.
+     Last, the alleged loss of freedom is based on an implicit indivisi-
+bility, the identification of particular men with particular parcels of
+ground. But there is certainly no welfare postulate more basic than that
+man is the measure of all things; and an option denied to a square of land
+does not deny it to the man. He is not a serf, to the glebe adscript, but
+a free agent, master of his fate in society with many alternatives
+including other squares of land. In a word, people can move around. We
+complicate social problems needlessly if we impute the immobility of land
+to the men who own it.
+     Once the man is loosed from the matrix we see that Ricardian Canieral-
+lam would compensate for the loss of veto power by adding a new dimen-
+sion to free choice. Today we can choose different quantities at a given
+price; then we could choose the price as well, by choosing the location:
+low rates in the center, high at the fringe, and a full spectrum in between.
+Let the individual choose freely just which combination of lump-sum land
+charge and variable use-rate best suits him. Today we impose a dull uni-
+formity on all sites, epitomized in the grid system and postage-stamp
+pricing, in a crude gesture toward some pre-monetary barter concept of
+distributive equity, with every man's plot made as good as his neighbor's;
+Ricardian Cameralism would differentiate sites, fully exploiting and
+accentuating the natural advantages of the center, leaving the extreme
+peripheries for the misanthrope. To secede from co-operative society
+is certainly every man's inalienable right, and worth protecting, but not,
+please, right in the middle of it.
+     Now let us entertain the second counterforce to Ricardian Garner-
+alisrn, the economies to 'aggregate social scale. Ricardian Cameralisrn
+may appear to be an introverted and short-sighted policy. Cheap subsi-
+dized peripheral transport, as today, helps to widen markets and so open
+the way for scale economies at the center. That is a point from which our
+examples abstracted by assuming water free at the source. But it is no
+problem now to price water at the source, before it enters our pipe price
+system, which is only a means of pricing transport. If there are scale
+economies at the source they can be optimally encouraged by marginal-
+cost pricing. There is no magic in scale economies that exempts them
+from comparison with other values in the price balance, and it would be
+folly, it is folly, to enshrine them as national idols and sacrifice net
+welfare to them.
+     But the hyper-scale economist looks beyond the present. If his city,
+                                                                           165
+
+his utility company, his region, his agency, his nation doesn't stake
+ claim to untapped peripheral resources now, preclusively, some other
+ empire-builder may sneak Out there first. While we aren't quite sure
+ what we want with the territories today, we certainly don't want those
+ other fellows taking over and discrediting all the lies we tell about the
+ destinies of our crossroads and its merchantable real estate, our corpora-
+ tion and its public shares, etc.
+      So to secure those figments of future economies we acquiesce in
+ otherwise uneconomical transport-utility extensions. In the process we
+ sacrifice true present economies in scale of distribution lines serving
+compact populations, economies that come from broadening or thickening
+ rather than lengthening lines, economies of a sort to put most modern
+American cities in at once both the stages of increasing returns to scale
+but negative returns to more space.
+      As to the hopeful future economies, it is now some 100 miles across
+what passes for the city of Los Angeles, to cite an extreme example, with
+precious few possibilities of true economic sharing of common costs
+between extremes, and two-thirds of the downtown sterilized by the space
+demands of the insolent chariots. The New York Regional Planning
+Authority recently estimated a need for $50 billion in the next 25 years
+for transport-utilities to reintegrate the fragments of what used to be New
+York City. It is noble to sacrifice the present for posterity, but it is
+stupid to sacrifice both to an illusion, which we may have let get a little
+out of hand, just as our daddies did before us on several immemorial
+occasions.
+      It would seem wiser for most cities, and analogous distributive or-
+ganisms, to grow compactly, at peace with their neighbors, and when the
+time came to break out of the shell and integrate with other organisms to
+the end of widening markets and achieving scale economies, to do so at
+the wholesale and trunk-line level, proceeding in order and the fullness of
+time toward complete integration. That would present its problems, to be
+sure; but the alternative is the interurban mess we have today.
+      Finally, there is the conflict of allocative efficiency with distributive
+equity, and there is a counter-dominant to sunder the social fabric indeed.
+By this point I trust no reader remains unapprised that the distribution of
+utility services in space has an important bearing on that other kind of
+distribution - - of income, of wealth, hence ultimately of that other kind of
+utility of which the welfare economists write. Setting rates, locating lines
+and terminals here instead of there, those are key activities that make or
+break the value of lands, and the men who hold their titles.
+      Ricardian Cameralism, as sketched out thus far, appears to favor the
+center over the circumference. It charges the outer landholder not only a
+higher use-rate but a higher lump-sum tax as well, thus abusing him
+thrice: initially he received lands less favored by Nature, from those
+lotteries of Fate we call history and patrimony, next we would raise his
+utility rates; and then, instead of compensation, on his groaning back we
+heap the bulk of municipal taxes But that is insufferable. It not only
+overburdens the outlanders, it cuts off their escape routes and throws
+them back on the mercies of the inner few, mercies not always tender.
+Clearly we have developed only a partial philosophy and must think farther.
+      Terminus, the god of boundaries, has not found favor in American
+history because so often he appeared as an agent of the inner interests, the
+Establishment, a sort of sheep dog hounding us to the clipping houses. It
+166
+
+ is curious that economists who, since discovering monopoly 30 years ago
+ have defined it into every jar and carton on our shelves, have given so few
+ words to the most transcendent and entrenched monopoly of all, that com-
+ munity of interest of important local landholders organized openly and
+ aboveboard as city councils and county boards and state legislatures. But
+ the outsiders, although they may not have known acet. par. from a rnut.
+ mut., have maintained a healthy skepticism of the Establishment, and
+ American history is a series of successful revolts against overcontain-
+ ment. George III sculpted Terminus on the Appalachian Trail, the Procla-
+ mation Line, and reaped The Revolution. Hamilton tried the Ohio River
+ line but got Jefferson and Louisiana. The Whigs tried again and got old
+ Hickory and the canal boom. The southern Democrats tried once more
+ and got Oregon, Lincoln, transcontinental railroads, the Homestead and
+ Morrill Acts, and all the rest. Downtown has tried and reaped the shop-
+ ping center. The Budget Bureau tries but cannot contain the Reclamation
+ and Flood Control Associations. You cannot hold the American people
+ behind fences. Negative containment policies do not work, and we wouldn't
+ like them if they did.
+      The inner few, therefore, seeing the limits of power, have accommo-
+ dated the demand for admission and expansion as befits shrewd cartel
+ managers. They are custodians of a surplus, a potential social dividend,
+ which we have called ground rent. They need a formula to distribute it
+ among their retainers, and they have used for this the atomistic land
+ parcel, a quota in the cartel, with postage-stamp utility rates a means
+ toward a crude communion, a species of distributive equity, among mem-
+ bers. The institution of property in land ceases to be a means toward
+ efficient allocation of a resource and becomes (perhaps it always has
+ been) a means to maintain a viable political structure. I do not belittle
+ the achievement. It is worth some sacrifice.
+      How might Ricardian Carneralism resolve the problem and reconcile
+ distributive equity with allocative efficiency? The answer clearly lies in
+levying on those central rents. The containment effected by graduated
+ transport-utility rates would multiply those rents over present levels, and
+we could with clear consciences go after them on the welfare principle of
+taxing the gains of winners to compensate losers. We could use the same
+lump-sum land-capacity tax already described, which would have the im-
+portant bonus of converting a large share of the landholder's implicit rent,
+a soft .and easy-going sort of constraint, into an explicit cash obligation,
+a regular fixed charge, which would increase the leverage of the remaining
+net rent and so whet his incentives remarkably.
+      The question next arises, which Ricardian Cameralist should collect
+those central rents? The local distributive organism has already been
+adequately financed from the charges levied as constraints on peripheral
+parcelholders. Here is a pleasant sort of dilemma, and the obvious
+answer is that the central surpluses are the proper preserve of state or
+federal government. From the larger view, indeed, the analogy is almost
+perfect between the State-local relationship and the local-individual rela-
+tionship. To the State, presiding over trunk highways, power pools,
+natural gas lines, interregional canals, and the like, the local distributive
+organism is an atornistic parcel, a cell surrounding a nucleus, with
+marginal rents declining toward the peripheries, just as in the individual
+parcel, and for perfectly analogous reasons: growing internal transport
+costs.
+                                                                        167
+     The ground rents generated at the centers of these local organisms
+are but the reflection of natural location advantage, in the larger scheme
+of things, plus the artificial enhancements of natural advantages consti-
+tuted by the trunk distribution lines that link the cells in the nexus of the
+regional, national, and world superorganisms. Ricardian Cameralism
+in the larger sense would simply entail applying at the regional and national
+levels the same principles already worked out at the local. We might then
+discover that an increasing population can live quite comfortably on no
+more lands than we presently pre-empt, but a good deal less.
+     And so the geo-chrono-welfare econoriist, who began by joshing
+welfare economists for dreaming of unattainable Platonic prototypes,
+culminates with a model that will strike some readers as farther-out than
+any scheme yet hatched by the Cam or the Thames. Yet, so rough and
+ready a monarch as William the Norman was able to apportion his feudal
+levies among his vassals by the capacity of their lands, and produce in the
+Domesday Books a tolerably useful national cadaster. Not long ago most
+American States levied directly on every lot and acre, and few would deny
+today that State Boards of Equalization assess land more truly than their
+local counterparts. Even without any Ricardian Cameralism, the Federal
+Bureau of Internal Revenue today must check the market value of every
+parcel when it changes hands by sale, gift, or death, and while that is the
+thousandth part of its present impossible task, it is virtually the whole of
+the Ricardian system. As to overarnbitiousness, the Ricardian system
+can be writ small as well as large, approached gradually as well as
+abruptly, applied piecemeal as well as whole.
+     I do not believe the barrier to Ricardian Cameralism, therefore, lies
+in any complexity or remoteness, but only in the minds and customs of
+men. Western man has now been pushing back frontiers, and running
+away from problems behind him, for some 1500 years, and the realization
+has not quite fully broken that the world is round and finite. Without
+question the world offers still more frontiers where, with the usual el-
+bowing and throat-slitting, we could expand beachheads, but to what avail?
+Manifest Destiny has already stretched us thin from sea to shining sea;
+world resources may be tapped through trade. With the problem of atomic
+survival now uppermost, today's challenge is rather to demonstrate that a
+free economy can prosper without forever thrusting outward to encroach
+on its neighbors; that it can reorient a vigorous people's aggressions into
+heightening and deepening our capital and culture on the land we already
+have. Too, we are challenged to find better modes of balancing and
+reconciling the legitimate claims of society and individuals, of socialism
+and free enterprise. Toward those ends the land economist and the wel-
+fare economist, severally and jointly, can offer society more plausible
+alternatives than those it now faces so distraughtly.
+

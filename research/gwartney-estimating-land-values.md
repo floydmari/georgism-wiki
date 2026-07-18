@@ -69,6 +69,7 @@ administratively routine rather than exotic — the practitioner's answer to the
 
 - [Dye & England, Assessing the Theory and Practice of LVT](/wiki/dye-england-assessing-lvt/)
 - [FHFA land-price methodology](/wiki/davis-larson-oliner-shui-fhfa-land/) — the modern statistical counterpart
+- [IAAO Standards: Ratio Studies & Property Tax Policy](/wiki/iaao-standards/) — the professional-standard formalization of the eight-step assessment procedure Gwartney describes
 
 ## Sources
 

@@ -5,7 +5,7 @@ tags: [objections, alfred-marshall, quasi-rent, single-tax, history-of-thought, 
 stub: false
 status: "A serious historical critique that concedes the land case while denying George's generalization — largely defused for land itself by land's unique persistence and inelasticity, but the ancestor of every modern quasi-rent objection on the rent gradient"
 excerpt: "Alfred Marshall's rejoinder to Henry George: all factors earn short-run 'rents,' and even Ricardian land rent functions as a long-run incentive payment, so land is not as uniquely 'unearned' as the single tax assumes."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-17
 ---
 
 ## The Objection
@@ -80,6 +80,22 @@ clearest case for taxation.
   value tax confined to unimproved site value; a tax that successfully
   isolates site rent from improvement value sidesteps much of the force of
   the critique, as Blaug notes.
+- Marshall's own record on the policy is more sympathetic than the 1883
+  clash suggests. Mason Gaffney's 1982 historiographical survey credits
+  Marshall with a genuine theoretical advance over Ricardo — the "public
+  value of land," extending rent theory from farm fertility to urban
+  location and community synergy — and reports that Marshall concretely
+  backed [David Lloyd George](/wiki/david-lloyd-george/)'s 1909 land-tax
+  proposal, a generation after the Oxford clash with George: "yet another
+  George... did win Marshall's support for a British land tax." Gaffney
+  reads the mature, practicing Marshall — not the 1883 polemicist — as "the
+  one who stood up when push came to shove in his native land."[5] Marshall
+  also drew a distinction, in the same period, between "onerous" local
+  taxes (funding services to *people*) and "beneficial" ones (funding
+  services to *property*) — the ancestor of the modern "property should pay
+  only for services to property" framing, and a further sign that Marshall's
+  engagement with the land question was sustained rather than a single
+  hostile episode.[5]
 - The objection does real work at the frontier of the rent gradient: it is
   the ancestor of arguments that innovation profits, patents, and
   superstar-firm rents are incentive-necessary quasi-rents rather than pure
@@ -137,3 +153,11 @@ now answer.
    [Full text](https://www.marxists.org/reference/subject/economics/marshall/bk5ch11.htm)
    — used for Marshall's own "general progress of society" framing of urban
    site value (public domain; quote verified verbatim).
+5. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), pp. 166–168 — used for Marshall's
+   "public value of land" concept, his 1909 support for Lloyd George's land
+   tax (via T. W. Hutchison, 1969), and the "onerous"/"beneficial" tax
+   distinction (attributed; quotations re-verified against the source PDF).
+   [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)

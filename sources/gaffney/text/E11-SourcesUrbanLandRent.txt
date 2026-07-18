@@ -1,0 +1,810 @@
+                          Land Rent, Taxation,
+                           and Public Policy:
+                  The Sources, Nature and Functions
+                        of Urban Land Rent*
+                              By MASON GAFFNEY
+                                          I
+                  RENT, TAXATION, 4ND THE ECONOMISTS
+NOT MANY YEARS AGO, mention of taxing ground rent was likely to evoke
+at best pleadings of ignorance, usually well founded, and at worst scorn
+and rage, similarly founded. More recently, many economists have set
+out to dispel the ignorance. Netzer (1966)t, Harriss (1968), Gaffney
+(1962, 1964), Schwartz and Wert (1958), Clawson (1962), Hulten
+(1966), and Alyea (1967) have written on urban taxation in the United
+States. Turvey (1957) has written in the English context; Holland (1965),
+Lindholm (1965), and Kaldor (1963) in the developmental. McDonald
+(1965) and Gaffney (1967, 1966, 1965) have written on taxing rent
+from exhaustible resources; Brewer (1961) and Henley (1968) on rural
+land taxation. Clark (1965), Rawson (1961), and Groves (1948) have
+written on experience in Canada and Australia. A complete modern bibli-
+ography would gt on for pages.
+   These modern restatements have a distinguished ancestry. Most econ-
+omists are aware that the dassical economists wrote seriously and favorably
+about taxing rent. Smith (1776) and Mill (1872) were advocatory, fol-
+lowed by Say (1830), Senior (1928), and Cairnes (1873). Ricardo
+(1911) stated the rationale curtly in his Chapter 10, "Taxes on Rent."
+   It is less well known that many neo-dassical and interwar period econ-
+omists argued for taxing rent. These were the years when the topic was
+dominated by the protagonistic personality of Henry George, who attacked
+economists as Mandarins and won their enmity. Marshall (1967) and
+Walker (1888, 1891) (1) debated him bitterly—yet they wrote lucidly
+of the advantages of taxing land and rent. Harry Gunnison Brown (2) is
+known as the advocate in this period, and is often thought to have stood
+alone. Many economists will be surprised, therefore, at the favorable
+    * Eased on a paper delivered at the 15th annual meeting of the Regional Science
+Association, Cambridge, Mass., November 9, 1968. Portions of the study appeared in
+Papers of the Regional Science Association; thanks are due the editor for permission to
+reprint.
+    t Bibliographical citations appear in "Selected Bibliography on Land Rent Taxation,"
+in this issue.
+242         The Americm Journal of Economics and Sociology
+
+treatment by Pigou (1949), Carver (1932), Graham (1942), Hotelling
+(1938), Hayes (1919—20), Bye and Hewett (1939), Trevelyan (1907),
+Zangerle (1927), Heaton (1925), and Simpson (1932). The interest
+of John R. Commons (1961), the institutionalist was particularly strong;
+he was an active political partisan.
+     On the continent, the contentious prose of George paled beside the
+florid Gallic advocacy of the father of the sober-sided art of mathematical
+economics, Walras (3). Another land-taxer was Wicksell (1958).
+   Naturally there have been also noncommittal writers, those reserving
+judgment, those wanting limited or modified taxation of rent, and so on.
+Among these are Anderson (1914), Simon (1959), Fisher (4), Wald
+(1959), Seligman (1913), the Hickses (5), Heilbrun (6), Jensen (7),
+Scheftel (1916), and Haig (1915a, 1915b, 1917).
+     There has also been the negative. Outright skeptics and critics include
+Cannan (1907), Edgeworth (1906), Hoxie (1915) and Darwin (1907),
+who emphasized the problem of street congestion. King (1921, 1924)
+objected to distinguishing land value increments from other speculative
+
+gains,   as did Knight (1953). Ely (1922, 1930) objected to forcing
+unripe suburban land into premature use. A. Johnson (8) and Davenport
+(1917) took the opposite tack, that private collection of land value incre-
+ments stimulated outmigration and building. V. Johnson and R. Barlow
+(1954) emphasize distributive inequity and regressivity. Ratcliff (1950)
+denies the possibility of defining ground rent, as do Keiper et al. (9).
+Kurnow (1959) believes the base to be inadequate.
+    The topic has not, then, been altogether neglected, as often thought. It
+has recurrently commanded the interest of economists over at least two
+centuries and continents. It has, however, been neglected in the senses that
+it is much bigger than the little treatment it has received, and even that
+little is not widely known. I will not review here the literature, nor reopen
+old debates, but will survey the topic, emphasizing several new issues and
+approaches, with a view to affording some notion of how vast the field
+really is and how much work is needed. In this and a subsequent paper
+I will treat the social functions of urban site rent; the necessity of taxing
+rent for it best to serve its social functions; alternative ways of taxing rent;
+and intergovernmental relations.
+
+                                       II
+         URBAN LAND RENT: MEANING, SOURCES, AND FUNCTIONS
+A.     Meaning. Essentially, rent is the net product of land after deducting
+non-land costs. It includes imputed service flow as well as cash flow, of
+                Land Rent, Taxation, and Public Policy                   243
+
+course, with the former assuming primary importance today because it is
+exempt from income tax.
+  There is a host of definitional details in applying the simple basic con-
+cept of rent. In respect to time, "rent" is originally an annual concept
+based on the yearly repetitive cycles of farming. Most urban ground rent,
+even under static assumptions, derives from an irregular stream of costs
+and revenues over the life of a building. To be sure, the ubiquitous
+parking lot yields yearly and even daily and hourly ground rent with a
+minimum of intertemporal dependence of costs and revenues. But most
+urban rent must be discovered by first forecasting the life of buildings;
+then discounting costs and revenues to the present; and finally multiplying
+this present value by the capital recovery coefficient (10), which converts
+to a level annuity over building life.
+   Under dynamic assumptions the definition of rent becomes even more
+interesting. Building lives must be foreshortened to allow for progressive
+locational obsolescence, to release the site for a series of higher and higher
+future uses. Land income now consists of two parts: simple ground rent
+from first-generation buildings; and value increments from the temporal
+approach of higher future rents. R. T. Ely developed his theory of "ripen-
+ing costs" to justify postponing land improvement in this condition, but
+there was no pretense of rigor in his analysis, which was innocent of any
+real capital theory (1921, 1922, 1930). The Lutzes (1951) have applied
+capital theory to a parallel analytical problem and reversed the conclusion,
+I believe correctly. This correct determination of optimal life yields also
+a correct definition of rent.
+   In respect to quantity, additional land around a building yields increas-
+ing and then diminishing net service flows, so one need usually distinguish
+marginal from average net productivity, except in an equilibrium when all
+latent plottage has been realized by replatting. Even in this equilibrium,
+outlying incremental square feet are less productive to a land-using house-
+holder or firm than central ones, and as a whole unit expands, added sub-
+units become marginal in location as well as quantity. All these little
+details need to be tidied up and specified in defining rent for any par-
+ticular purposes (11).
+   The purpose of social policy, to which this paper is oriented, is gener-
+ally best served by defining rent as the highest latent opportunity cost
+of land. Ideally, this rent would be charged against all land uses so as to
+eliminate all marginal extensions of land holding, in space or time, whose
+marginal service flow fell short of the marginal social cost.
+   There is a lingering tradition of regarding rent as a "residual." Al-
+244        The American Journal of Economics and Sociology
+
+though economists generally recognize that residual and direct imputation
+are equivalent, the old idea persists. It is a poor convention. It makes
+of rent a wastebasket for the mistakes of managers and the slothfulness of
+heirs. Landowners dealing with lessees are more importunate: rent is due
+periodically with the passage of time, regardless of land use. Owner-
+occupants leasing land from themselves need to apply the same principle.
+If an owner fails to profit from good land, it is not the land's fault. For
+social as for private accounting, land should be imputed the highest avail-
+able latent opportunity cost. Like the lawyer, its time is its stock in trade.
+Land-time is worthy of its hire—that is rent. Land as such is passive and
+unresponsible. It yields its service flow by being owned and available.
+It is always an input to its owner's economy, regardless of output. Actual
+use is a function of ownership and management.
+  Neither should land be regarded as a risk-bearing agent. Land is a
+flow resource, not a fund of circulating capital which can be depleted to
+meet losses. Land is best regarded as a hired factor, like daily labor, to
+which the capitalist employer advances "subsistence" (12). The owner
+demands regular payment, in advance of product completion and consump-
+tion. The great Wicksell nailed down this point (13). Landowners who
+lease land to building owners on long terms for level annual payments—
+the most common arrangement—confirm the point (14). The reason that
+common parlance and perception often confuse the landowner function
+with the capitalist function is that the functions are usually joined in the
+same person. Imputation of rent requires a functional analysis, however.
+Functionally, the owner of capital hires land and advances rent. Capital
+then carries the product over time, absorbing risk for better or worse. It
+is capital that is embodied in a product irreversibly, losing any scrap value
+commensurate with its previous value, while land retains a scrap value in
+general equal to its previous value—an unlosable measure and meaning of
+opportunity cost. It is capital whose return is meaningfully "residual."
+   If it is not already obvious, these definitional details assume great im-
+portance when we later ask how best to tax "rent," and what effects to
+expect. They assume great importance when we ask how much of urban
+property income is "rent." If the above definitional detail be used, the
+estimates of urban rent and land value made by Goldsmith (1962) and
+Kurnow (1959), often cited and relied upon, are meaningless. The allo-
+cation between land and buildings made by most tax assessors is meaning-
+less.   If rent is the latent opportunity cost of land, then most current
+operating income from property in older central cities is rent.
+                Land Rent, Taxation, and Public Policy                 245
+
+B.  The Sources of Rent. Land rent is the joint product of three things:
+natural features, public spending, and private activity by others than the
+landowner.
+   Natural features include location at a natural confluence of routes,
+amenities, bearing strength, drainage, and so on. Non-economists, includ-
+ing many planners and engineers, often go overboard attributing all value
+to such natural features, with no regard for travel savings and mutual
+access. Economic model builders have a weakness for the other extreme,
+because time-distance is fun to model. The market plods ahead and
+resolves the several forces, disregarding unbalanced advice. Many econ-
+omists, happily, are now developing models and evidence weighing and
+balancing various determinants of urban rent and value (Mills, 1967,
+ 1968; Harriss, Tolley and Harrell, 1968; Shenkel 1968; Crocker 1968;
+Ridker 1967).
+    Public spending is essential to establish and maintain land tenure. Ini-
+ tially the public armed forces appropriated land for the nation; they now
+maintain sovereignty. In marginal outposts where American-owned land
+has been confiscated (Chile, Cuba, Guatemala, Mexico), or might be
+(Saudi Arabia, Philippines), the point is hard to miss, much as many
+would like to. Local police are equally essential: imagine collecting rent
+in Harlem without them. In this age of riots and rent strikes, looting,
+loitering, and absentee landlords, the need for hired force to maintain
+property institutions not commanding universal spontaneous compliance
+is all too clear.
+   Public spending also supplies works and services that add to land rent.
+Indeed, the entire net benefit from many public works is to be found in the
+added rents they create. Other public works, like water supply or power
+lines (where these are public) yield added revenue from user charges. In
+setting the level of user charges, the debate often, indeed customarily,
+proceeds without recognition that Newton's third law must apply, i.e., for
+every added user charge there is an equal and opposite reaction in the form
+of lower rents on the limited land served. Fortunately the marginal cost
+pricers are bringing to increasing audiences this basic law of conservation
+of economic energy, which Hotelling (1938) made so clear.
+   A portion of what the world calls "land value" is produced by the land-
+ owner himself, as when he subdivides and pays much of the initial capital
+cost of streets. This still occasions some confusion in defining rent. But
+Marshall (1947) solved the dilemma long ago with his concept of "the
+ public value of land." (See also Pigou 1949). What is rent depends on
+ what the public does free for the landowner. If the public does nothing
+246       The American Journal of Economics and Sociology
+
+there is no added rent from this source (15). A good working definition
+of rent is: that amount which could be taxed away without impairing any
+useful incentive.
+   Under current practice around American cities, some subdividers have
+to contribute something like $2,000 to the value of the finished lot, which
+may be from 10 to 100 per cent of its market value, depending on location.
+Clearly true land value is only the excess above this cost, and rent is the
+annual equivalent of land value. The landowner whose land income is
+all rent is he who just uses frontage along an existing public road. Tax-
+ation of rent would hit the latter harder than the subdivider, and it would
+help avoid the noxious pattern of sucker (16) driveways strung out for
+miles along trunk roads.
+   The private share of street improvements is overestimated by some
+analysts who look simply at the landowner's initial capital cost. After
+that, the public assumes maintenance, repair, snow removal, policing, and
+finally replacement. In most neighborhoods the original landowner's early
+contribution is long gone and may as well be forgotten. The landowner
+does continue to contribute in his capacity as a taxpayer; but not unless his
+tax payments get ahead of the service flows received back can he claim to
+have a net credit in creating rent.
+   Public authority today also gives—or denies.—rent through control of
+land use by zoning. Where zoning is limiting, a monopoly rent attaches
+to it; and where this is appurtenant to land it may as well be regarded as
+part of land rent. The power that influential people have to get preferred
+zoning in a variety of places is temporarily another form of monopoly rent;
+but once exercised, it too becomes appurtenant to land.
+  A third source of urban land's productivity is complementary private
+activity on other land significantly linked to a given parcel. Positive spill-
+over benefits, cumulating and reinforcing, are emphasized by urban econo-
+mists as what cities are all about. Urban gravitation, magnetism, agglom-
+eration economies, scale, critical mass, increasing returns, external econo-
+mies, and now symbiosis and synergism are common terms for the phe-
+nomenon. I will use the last, indicating an interacting process where the
+whole comes to exceed the sum of its parts. The excess is rent.
+  Marshall (1947) and George (1879) perceived it long ago. Florence
+(1955), Futterman (1961), Thompson (1965), Gaffney (1958, pp. 503—
+07), and Chinitz (1964), among others, have eulogized it recently. E. M.
+Hoover (1948) sought to summarize the causes in three basic principles:
+multiples, massing of reserves, and bulk transactions. "Multiples" refers
+to specialization and subcontracting; "massing-of-reserves" to pooling of
+                Land Rent, Taxation, and Public Policy                   247
+
+supplies through mutual access; "bulk transactions" to large scale transfer
+and handling. Interpreted very broadly these spare words may be intended
+to subsume a host of gains from urban size and concentration, but it is
+probably not redundant to itemize cheaper distribution; greater markets
+and tax base to share the cost of—and warrant greater investments in—
+developing the city's basic locational assets, and supplying unique facilities
+and services. Larger markets also serve to whet competition, to maximize
+choice and variety, to foster innovation, to pool risks and maximize load
+factors, to improve credit, and to facilitate all human contact for economic,
+social, and political ends. Nothing short of several thousand pages can
+really convey the full force of urban synergism. The first thousand might
+profitably be the Yellow Pages. But Adam Smith captured the essence in
+one phrase, "The division of labor is limited by the extent of the market."
+  Frank I-I. Knight (1953) and other critics of the rent concept have
+emphasized how much of land rent is a "human product." But mark well
+the confusion in identifying the individual landowner with all humanity.
+Rent is the product of people, it is true, but they are other people than the
+rent collector. The human contribution to rent is given through public
+spending and synergistic spillovers.
+  Summing up, urban land rent derives from natural advantages, public
+spending, and synergism. It may be defined operationally as that which
+may be taxed away without impairing any functional economic motivation.
+So defined, it comprises a large share of the income of urban real estate.
+
+C. Economic Functions of Urban Land Rent. Most prices and factor pay-
+ments serve two functions: to elicit supply; and to ration it among com-
+peting demands.
+   Rent serves only the second of these. It is not that the supply is fixed,
+although the supply of natural advantages is fixed. Public spending and
+synergism both add to the want-satisfying service flow of land. But pri-
+vately collected rent does not elicit public spending (except dishonestly).
+Neither does rent on one parcel stimulate private activity on other parcels
+of the sort that radiates synergistic spillover benefits. The synergistic part
+of urban rent is created, like the British Empire, in fits of absentminded-
+ness; not aforethought by those who receive it.
+   High urban rents do cause fringe landowners to reallocate farm land to
+urban use. Some interpret this as "eliciting supply." But from an overall
+view, this is clearly part of the function of rationing the fixed land supply
+among competing uses. The city only gains what the farm loses.
+   Many words have been wasted over whether land supply is fixed or
+248        The American Journal of Economics and Sociology
+
+elastic. The answer is in one's definitions and terms of reference, which
+need to be specified. The present subject is taxation of urban rent. In
+this context, an elastic supply is one that flees a jurisdiction in response to
+taxation. Taxing jurisdictions are defined as areas of land, from which
+land cannot, by definition, flee to escape taxes.
+   If anything, land supply rises due to taxing it. Higher taxes give the
+public more to spend to enhance the rentability of land. Taxes also in-
+crease the public motive to spend to create more rents, since taxes return a
+share of rent to the agency that creates it. We shall also see presently that
+taxing land rent may activate inert land. The resulting increased private
+activity spills over synergistic surpluses onto neighboring land, adding to
+real service flows from land (17). In view of these matters, land taxes do
+not erode their own base but tend to increase effective supply.
+  The function of rent is to ration land among competing demands. The
+tax authority must take care to announce (in Pigou's sense) taxes in such
+a way as not to impair this function. Rent communicates the economic
+signal letting no one believe that open space is a free good. It constrains
+owners to economize not just on nature's gift of raw space, important as
+that is; but also on the other factors that give land its value. These are
+public spending, and spilled-over synergism. The first obviously costs
+money. The second may seem "free" like nature; but it is, again like
+nature, scarce, and must be economized.
+  Indeed, the natural limit on land supply makes it the more important
+that rent be charged to ration land, to assure that mankind receive the
+maximum benefit from what land there is. Intensifying land use is a
+substitute for adding to land supply. 'When this function is obstructed, as
+by rent control or low-density zoning, the supply will not go around. The
+needed extra land may then be supplied, at enormous social cost, by ex-
+tending urban infrastructures into the country. Charging market rents on
+central lands would supply it at no social cost.
+  Ely and Wehrwein described rent as the "sorter and arranger" of land
+uses, pursuing von Thunen's model where rent withholds central land from
+lower uses in order that they not interfere with higher and better ones.
+This only begins to indicate the rationing function of rent, however. Rent
+not merely sorts commerce from industry, it is much more subtle. It deter-
+mines the optimal intensity of each use.
+  Intensity is the quotient of non-land inputs divided by output. It has
+several dimensions. An obvious one is height. High rent ordains high
+buildings. Marshall expounded the rationale artfully. Beginning with a
+high building, hold floor space constant while you cut the height and ex-
+                Land Rent, Taxation, and Pnblic Policy                 249
+
+pand horizontally onto a larger site (all this in the planning stage, of
+course). Thus you lower building cost but increase land cost, with constant
+output. Optimal height is where the marginal saving of capital from
+adding land equals the price of land (18).
+   Another dimension of intensity is, of course, quality. Rent constrains
+people to enjoy their luxury in the form of better and lovelier buildings
+and plantings instead of wide grounds.
+   Yet another aspect of intensity is density of occupancy or use. This is
+not fully harmonious with quality, for there is up to a point a conflict
+between quality and crowding. The conflict is resolved in the market
+place. The poor compete with the rich for valuable land by doubling up
+at higher density. They compete so well that the 100 per cent location
+in most retail areas serves not the carriage trade but the mass market, sharp
+elbows and all. They compete so well that the rich, where they have the
+power, often dismiss the market referee and legislate for low-density zon-
+ing, a sort of compulsory land consumption. This strengthens their con-
+sumption dollars by giving preference to their style of consuming space.
+It helps them even more as owners: although it lowers some specific unit
+values, one would expect compulsory consumption to valorize the whole.
+   A final dimension of intensity is temporal. We have seen that rent is
+an annualized level amount derived from fluctuating yearly costs and
+revenues, over building life. Intensity is the quotient of non-land inputs
+divided by output, remember. These non-land inputs must be annualized
+to compare them with annual output, and compute intensity (19).
+   The findings from this operation are more than trivial, for they establish
+a trait of intensive land use that common parlance and perception over-
+look: to wit, shortness of building life. The annual input from a dollar
+ invested in constructing a new building is the sum of depreciation and
+ interest on the undepreciated balance. The shorter the life the greater the
+ yearly depreciation input. In terms of output, that means a dollar invested
+ so as to be recovered with interest in 20 years must yield a higher annual
+service flow than one to be recovered in 60 years.
+   It is very common for economists to deal casually with intensity in terms
+of building value and land value. This can lead to oversights. A million
+dollar building may represent high intensity or low, depending n the
+life over which it is designed to yield service enough to return the mil-
+lion with interest. The shorter the life, the higher the intensity.
+   A function of rent is to attenuate the lavish use of land-time, just as it
+constrains the careless use of land-space. This is easy to show with a little
+of the mathematics of capital theory; but most readers require some orien-
+250        The American Journal of Economics and Sociology
+
+tation before they feel comfortable with that, so let us instead adapt Mar-
+shall's technique of common sense applied to rates of substitution between
+land and capital. Beginning with a short-lived building, hold the present
+value of future service flows constant while you cut the yearly service flow
+and expand temporally into a longer-lived building (all this in the plan-
+fling stage, of course). Thus you lower building cost but increase the
+present value of the land-time required, with constant present value of
+output. Optimal planned life is where the marginal saving of capital
+from adding future land-time equals the present value of that increment
+of future land-time.
+   The higher the future rents, the greater the pressure not to substitute
+longevity for service flow.
+   Again, there are conflicts between the things that high rent stimulates.
+Tall buildings tend to be more durable. Rent promotes height but dis-
+courages longevity. Again, the market resolves the several forces and
+settles the conflict. Circumstances determine which force prevails in each
+case.
+   Mark that the subject was planned longevity. Another function of rent
+is to convey up-to-date information about changes in the scrap value of
+land. This new information is the basis for ultimately demolishing a
+building to salvage the land. The time to demolish is when the old build-
+ing ceases to yield a return on the salvage value of the site. Almost always
+time will have brought some surprises and locational obsolescence, and
+the original plans should be modified.
+   While the latter point is in the literature (Gaffney 1964), the former is
+not. The role of rent in determining the planned longevity of capital is
+virgin intellectual territory. Whoever works out the analysis and what it
+implies for policy will have made a signal contribution to economics and
+the public welfare. The macro-economic implications are challenging.
+Rent affects replacement and turnover of capital, and hence demand for
+labor, factor proportions, and even gross investment and hence national
+income. There is a set of challenges worthy of anyone's steel.
+
+                                    III
+                       THE SOCIAL IMPACT OF RENT
+So FAR WE HAVE SURVEYED the impact of rent only on individuals singly.
+But the rationing function of rent is more subtle yet, and more social.
+Rent coordinates interdependent activities of neighbors.
+  A remarkable accomplishment of rent is to encourage the production of
+spillover benefits—yes, even those which are produced in "fits of absent-
+                Land Rent, Taxation, and Public Policy                  251
+
+mindedness." Here is the invisible hand at work, once removed! This
+comes about because the "highest and best use" of land is usually that
+which most complements its neighbors.
+  The landowner is not trying to complement his neighbors; he wants
+access to them. But there is a law of reciprocity. Access is mutual, so
+what is the poor Scrooge to do? In spite of his worst intentions, he can
+only help himself by helping others. By using his land optimally he not
+only exploits the opportunities his neighbors and government have given
+him: he gives more back. If in addition he and his neighbor should
+happen to perceive this happy relation, and deliberately plan to maximize
+joint net benefits, there is no telling how far self-interest might carry
+them. And is it really unrealistic to anticipate a little public spirit, too?
+  So rent not only makes landowners economize on synergism, it makes
+them produce more. Rent thus plays a central role in a self-reinforcing
+multiplier process whereby growth begets growth. Like all feedback
+processes, this one is complex, powerful, temperamental, and imperfectly
+understood. It is what makes urban economics the mystery and challenge
+that it is. Like all multipliers, it has brakes too. Limited hinterland is
+an external one; congestion an internal one. We will see presently some
+ways to release these brakes.
+  Another function of rent is to determine the timing of land use succes-
+sion. An old building should be demolished and replaced when its cur-
+rent operating income ceases to cover interest on the land value. Given
+static expectations, that is simply rent. Given growth expectations, that is
+rent from the first generation replacement plus an adjustment reflecting the
+economic value of bringing later generations nearer to the present (Lutz,
+1951).
+   Rent not only tells the individual when to renew, it helps synchronize
+the succession of uses on neighboring sites. As a city expands, or as its
+center expands into old residential neighborhoods, high opportunity rents
+at the perimeter apply simultaneous pressure to all landowners there to
+convert to the higher use. With this mechanism in good working order,
+all private and public investments in the transition area can be made with
+secure knowledge that complementary and supplementary activity is forth-
+coming without costly delays. This is the triple-S principle: synchro-
+nized synergistic succession.
+   A last function of rent is to help plan the linkage or circulatory sector
+of the city—streets and utility lines. These generally raise rents, par-
+ticularly when the user charges are kept low and equal to marginal cost.
+By capturing the surplus benefit from these works, rent can serve to mea-
+252             The American Journal of Economics and Sociology
+
+sure the surplus, and simultaneously, if taxed, to finance the deficits of
+marginal cost pricing. Decisions of size, extension, and replacement of
+lines can then be made optimally (Gaffney 1962, pp. 157—68).
+Resources for the Future, Inc.
+Washington, D.C. 20036
+
+
+    1. Walker is known for his furious debates with Henry George, but evidently stood
+closer to him than many writers.
+    2. The Economic Basia of Tax Reform (1932). A complete list of Professor Brown's
+contributions to this topic would number thirty or more articles and books.
+    3. See L. Walras, Etudes d'Ecouointe Socia!e (1936). It is a pity that all of this is
+lost in the Jaffe translation, which altogether Bowdlerizes this aspect of Walras.
+    4. House and Home (1960). This work taken alone would place Fisher among the
+advocates, but elsewhere he expresses deep doubts about the feasibility of distinguishing
+land and buildings (1954).
+    5. In their Report on Finance and Taxation in Jamaica (1955) the Hickaea question
+the feasibility of assessing land, but favor the assessment freeze approach to new buildings.
+    6. On allocative grounds Heilbrun (1966) is among the proponents, but he is con-
+cerned about adequacy of yield and equity.
+    7. In his "Exemption and Improvements" (1939) Jensen emphasizes the inadequacy
+of the base but is otherwise favorable.
+    8. Johnson (1914) asserts that land value increments stimulate both agriculture and
+building.
+    9. Theory and Measnresnent of Rent (1961).          An extraordinary book      in which
+the authors first deny that rent is definable and then purport to measure it.
+    10. In standard interest tables, the "annuity whose present value is one":
+
+_____________    where i is interest rate and L is life. To capitalize in perpetuity, divide
+I — (1 + i)°     by i, but note this would assume stasis in perpetuity. For more detail see
+Gaffney (1962, pp. 154—57, and 1957).
+   11. A beginning has been made by M. Gaffney (1962).
+    12. The term has an archaic ring which may raise eyebrows; but this classical term
+expresses the relationship of capital to hired factors better than any later expression.
+If this be wages-fund heresy, make the most of it! (It is actually Wicksell).
+    13. Value, Capital and Rent (1958, pp. 98, 103, 115, 146—68). It is tragic that
+these penetrating insights have not yet found their way into common use and under-
+standing.
+    14. Other lessors who take a "piece of the action" do not refute the point. Rather,
+they are assuming part of the capitalist's function of bearing risk, frequently involving
+a contribution to capital. As always in questions of functional imputation, the function
+must be distinguished from the person.
+    A landowner as such may also take a "piece" as an indirect and imperfect means
+of letting rent payments vary with variations in the exogenous factors determining rent.
+Farm landowners have devised a much better technique, the use of county average yields
+that reflect weather but not individual management. The public has an even better
+technique: the use of assessed land values, kept up to date rigorously.
+    15. Warren Roberts (1967) has written profoundly on the absence of rent under
+political turbulence, and rent as the product of an effective sovereign.
+    16. The analogy is to a twig growing directly from a tree-trunk without proper
+dendritic development of limbs and branches.
+    17. If there were a monopoly-breaking effect from activating inert land the result
+might be a net loss of rents to monopolists. There would, of course, be greater gains
+elsewhere. See my succeeding paper, "Land Rent, Taxation, and Public Policy: Taxa-
+tion and the Functions of Urban Land Rent," section II, C, forthcoming in this Journal.
+    18. Marshall (1947, pp. 447—49). An excellent modern empirical English work is
+P. A. Stone, "Economics of Housing and Urban Development" (1959). Stone's work is
+                   Land Rent, Taxation, and Public Policy                            253
+
+written from the viewpoint of a town-builder who holds streets and buildings equally
+in his purview. A work of high quality, it betrsys an interestsng technocratsc blind
+spot. Economy of land is conceived as economy of streets and farm land. There is no
+use of market value, hence no economy of synergistic values or travel time.
+    19. Alternatively, one gets equivalent results by discounting all costs and incomes to
+present values, but it must be done tu perpetuity, and most capital theorssts overlook
+this, so their use of present value leads to error. Annualization gives the same result as
+the perpetuity approach, but without the use of a nebulous infinite future.
+
+
+                           A Selected Bibliography
+                           on Land Rent Taxation
+                               By MASON GAFFNEY
+Alyed, Paul (1967). "Property-tax Inducements to Attract Industry," in R. Lindholm,
+       ed., Property Taxatton: U.S.A. (Madison: Univ. of Wisconsin Press), pp. 13 9—60.
+Anderson Jr., B. M. (1914). "Unearned Increments, Land Taxes, and the Building
+       Trade," Quarterly Journal of Economics, 28 (1914), pp. 811—14.
+Brewer, Midsael (1961). "Local Government Assessment: Its Impact on Land and
+       Water Use," Land Economics, 37 (August 1961), pp. 207—14.
+         (1960). "Water Pricing and Allocation with Particular Reference to Cali-
+     fornia Irrigation Districts," California Agricultural Experiment Station Mimeo.
+     Report No. 233, October 1960.
+Brown, H. G. (1932). The Economic Basis of Tax Reform (Columbia, Mo.: Lucas
+      Bros.)
+Bye, R. T. and W. W. Hewett (1939).          Applied Economics, 3rd ed., (New York:
+      F. S. Croft & Co.), pp. 438—76.
+Cairnes, J. E. (1873). Essays in Economics (London: Macmillan & Co.), pp. 187—231.
+Canoan, Edwin (1907). "The Proposed Relief of Buildings from Local Rates," Eco-
+       nomic Journal, 17 (1907), pp. 36—46.
+Carver, T. N. (1932). Essays in Social Justice (Cambridge: Harvard Univ. Press),
+       pp. 281—303.
+Chamberlin, E. (1933). Theory of Monopolistic Competition (Cambridge: Harvard
+       Univ. Press), Appendices C and D.
+Chinirz, B. ed., (1964). City and Suburb (Englewood Cliffs: Prentice Hall), pp. 3—29.
+Clark, Cohn (1965). "Land Taxation: Lessons from International Experience," in
+       P. Hall, ed., Land Values (London: Sweet & Maxwell), pp. 126—46.
+Clawaon, Marion (1962). "Urban Sprawl and Speculation in Suburban Land," Land
+    Economics, 38 (May 1962), pp. 99—111.
+Commons, J. R. (1961). Institutional Economics (Madison: Univ. of Wisconsin Press),
+       Vol. 2, pp. 815—40.
+Crocker, Thomas D. (1968). "Some Economic Aspects of Air Pollution Control," a
+      report to the National Center for Air Pollution Control, January 1968 (mimeo).
+Darwin, L. (1907). "The Taxation of Site Values with Reference to the Distribution
+     of Population," Economic Journal, 17 (September 1907), pp. 330-44.
+Davenport, H. J. (1917). "Theoretical Issues in the Single Tax," American Econo,nic
+     Review, 7 (March 1917), pp. 1—30.
+Edgeworrh, F. Y. (1906). "Recent Schemes for Rating Urban Land Values," Economic
+     Journal, 16 (1906), pp. 66—77.
+2)4            The American Journal of Economics and Sociology
+
+Eichler, Edward P. and Marshall Kaplan (1967). The Community Builders (Berkeley:
+      Univ. of California Press).
+Ely, R. T. (1921). "Outlines of Land Economics," Vol. 3 (Ann Arbor: Institute for
+       Research in Land Economics), (mimeo).
+         (1922). "The Taxation of Land," Proceedings, 14th Annual Conference Na-
+       tional Tax Association, pp. 241—54.
+            (1930). "Taxing Land Values and Taxing Building Values," Annals of the
+       AAPSS, 148 (March 1930), pp. 165—69.
+Fisher, E. M., M. Gaffney, et al. (1960).    "Land: A Special    Issue," House and Home,
+       August 1960.
+Fisher, E. M. and R. M. Fisher (1954). Urban Real Estate (New York: Holt), pp.
+       54—57.
+Florence,P. S. (1955). "Economic Efficiency in the Metropolis," in R. M. Fisher, ed,,
+       The Metropolis in Modern Life (Garden City: Doubleday & Co.), pp. 85—124.
+Futterman, R. (1961). Future of Our Cities (Garden City: Doubleday), ch. 2, "Peo-
+       ple and Jobs."
+Gaffney, Mason (1957, 1960). "Concepts of Financial Maturity of Timber and Other
+      Assets," A.E. Information Series No. 62 (Raleigh: North Carolina State College,
+       1957 and 1960).
+         (1967). Extractive Resources and Taxation (Madison: Univ. of Wisconsin
+       Press).
+        (1962). "Ground Rent and the Allocation of Land Among Firms," in F. Miller,
+       ed., Rent Theory, Problems, and Practises, Univ. of Missouri Research Bulletin
+       810, pp. 30—49, 74—82.
+            (1962). "Land and Rent in Welfare Economics," in M. Clawson, M. Harris,
+       and J. Ackerman, eds., Land Ecosmoinics Research (Baltimore: Johns Hopkins Uni-
+       versity Press).
+        (1969). Land Cost and Low-Income Housing, a report to the U.S. Department
+       of Housing and Urban Development, Institute for Defense Analyses.
+        (1972). "What is Property Tax Reform," American Journal of Economics and
+       Sociology, 31 (April, 1972), pp. 139—52.
+        (1964). "Property Taxes and the Frequency of Urban Renewal," Proceedings
+       of the National Tax Association, (1964), pp. 272—85.
+            (1965). "Soil Depletion and Land Rent," Natural Resources Journal 4 (Jan-
+       uary 1965), pp. 537—57.
+        (1967). "Tax-Induced Slow Turnover of Capital," Western Economic Journal,
+       September 1967, pp. 308—23.
+        (1961). "The Unwieldy Time-Dimension of Space," Anserican Journal of Eco-
+       nosnics and Sociology 20 (October 1961), pp. 465—81.
+            (1958). "Urban Expansion—Will it Ever Stop?" in A. Stefferud, ed., Land,
+       The 1958 Yearbook of Agriculture (Washington: Government Printing Office),
+       pp. 503—22.
+George, Henry (1879). Progress and Poverty (New York: Modern Library, n.d.) Book
+       IV, ch. 2, "Effect of Increase of Population upon the Distribution of Wealth."
+Goldsmith, Raymond W. (1962). The National Wealth of the United States in the
+     Postwar Period (Princeton: Princeton Univ. Press).
+Graham, Frank D. (1942). Social Goals and Economic Institutions (Princeton: Prince-
+       ton Univ. Press), pp. 182—88.
+                       Land Rent, Taxation, and Public Policy                     255
+
+Groves, Harold (1948). "The Property Tax in Canada and the United States," Land
+      Economics, 24 (February 1948), pp. 23—30.
+Haig, R. M. (1915a). The Exemption of improvements from Taxation in Canada and
+      the United States (New York: M. B. Brown).
+        (1917). "Limited Single Tax," Proceedings National Tax Association, 1917, p.
+       377 if.
+         (191 5b). Some Probable Effects of the Exemption of Improvements from Tax-
+       ation in the City of New York, a report to the Committee on Taxation of the City
+       of New York, 1915.
+Harriss, C. Lowell (1968). "Economic Evaluation of Real Property Taxes," in R. Con-
+       nery, ed., Municipal Income Taxes (New York: Academy of Political Science of
+       Columbia University), pp. 67—8 2.
+Harriss, R., G. Tolley, and C. Harrell (1968). "The Residence Site Choice," Review
+      of Economics and Statistics, 40 (May 1968), pp. 50—155.
+Hayes, H. G. (1919—20). "The Capitalization of the Land Tax," Quarterly Journal of
+       Economics, 34:373—80 34 (1919—20), pp. 373—80.
+Heaton, H. (1925). "The Taxation of Unimproved Value of Land in Australia," Quar-
+       terly Journal of Economics, 39 (May 1925), pp. 410—49.
+Heilbrun, James (1966). Real Estate Taxes and Urban Housing (New York: Colum.
+       bia Univ. Press).
+
+Henley,    A. T. (1968). "Land Value Taxation by California Irrigation Districts,"
+       American Journal of Economics &- Sociology, 27 (October 1968), pp. 377—86.
+Hicks, J. and U. (1955). Report on Finance and Taxation in Jamaica (Kingston,
+      Jamaica: Government Printer), ch. 10, "Unimproved Value Rating."
+Holland, Daniel (1965). "The Taxation of Unimproved Value in Jamaica," Proceedings
+      of National Tax Association, (1965), pp. 23—46.
+Hoover, E. M. (1948). Location of Economic Activity (New York: McGraw-Hill),
+       ch. 8, "The Economic Structure of Communities."
+        (1937). "Spatial Price Discrimination," Review of Economic Studies 4    (1937),
+       pp. 182—93.
+Hotelling, Harold (1938). "The General Welfare in Relation to the Problems of Taxa-
+       tion and of Railway and Utility Rates," Ecosso-nseirica, 6 (July 1938), pp.
+       242—69.
+        (1929). "Stability in Competition," Economic Journal, 39 (1929), pp. 49—60.
+Hoxie, George L. (1915). "City Taxation and Skyscraper Control, Journal of Political
+      Economy, 23 (February 1915), pp. 166—76.
+Hulten, H. (1966). "Land Reform in Hawaii," Land Economics, 42 (May 1966), pp.
+       235—40.
+Ise, J. (1940). "Monopoly Elements in Rent," American Economic Review 30 (1940),
+          pp. 33—SI.
+Jensen, J. P. (1939). "Exemption of Improvements," in Tax Policy League, Tax
+          Exemptions (New York: J. J. Little & Ives Co.), pp. 206—21.
+         (1931). Property Taxation in the United States (Ohicago: Univ. of Chicago
+       Press), ch. 3.
+Johnson, A. (1914). "The Case Against the Single Tax," Atlantic Monthly 113
+      (1914), pp. 27—37.
+Johnson, V. and R. Barlowe (1954). Land Problems and Policies (New York: McGraw-
+      Hill), pp. 308—23.
+256           The American Journal of Economics and Sociology
+
+Kaldor, N. (1963). "Will Underdeveloped Countries Learn to Tax?" Foreign Affairs
+       41 (January 1963), pp. 410—19.
+Keiper, Jos., E. Kurnow, Clifford Clark, and H. Sega! (1961). Theory and Measnre-
+       went of Rent (Philadelphia: Chilcon Co.)
+King, W. I. (1921). "Earned and Unearned Income," Annals of the AAPSS,           1921,
+       VoL 95, pp 251—59.
+        (1924). "The Single-Tax Complex Analyzed," Journal of Political Economy,
+     32 (1926), pp. 604—12.
+Knight, Prank H. (1953). "The Fallacies in the 'Single Tax,'" The Freeman, August
+       10, 1953, pp. 809—11.
+Kurnow, E. (1959). "Measurement of Land Rent and the Single Taxers," Commercial
+      S. Financial Chronicle 190 (August 27, 1959), p. 834.
+Lindholm, Richard (1965). "Land Taxation and Economic Development," Land Eco-
+       nomics,   (May 1965), pp. 121—30.
+Lutz, F. and V. (1951). Theory of Investment of the Firm (Princeton: Princeton
+     Univ. Press), pp. 109—11, "Influence of Anticipated Obsolescence."
+Marshall, A. (1947). Principles of Economics, 8th ed. (London: Macmillan), pp. 794—
+       804.
+McDonald, Stephen (1965). "The Effect of Severance vs. Property Taxes on Petroleum
+        Conservation," Proceedings of National Tax Association, November 10, 1965.
+Mill, J. 5. (1872). Principles of Political Economy (New York: Lee, Shepard & Dilling-
+      ham), Book V, pp. 483—504.
+Mills, E. (1968). "Numerical Analysis of a General Equilibrium Model of a Metro-
+      politan Area," unpublished manuscript presented to Conference on Urban Trans-
+      portation and Land Values, June 1968, (William Vickrey, chairman).
+       (1967). "The Value of Land," unpublished manuscript presented to Conference
+      on Environmental Quality, November 1967 (to be published by Resources for
+       the Future, H. Perloff, ed).
+Netzer, Dick (1966). Ecoovsnics of the Property Tax (Washington: Brookings Institu-
+      tion), pp. 197—220.
+Pigou, A. C. (1949). A Stndy in Pnblic Finance, 3rd ed. (rev.), (London: Macmillan)
+       pp. 147—53.
+Ratcliff, R. U. (1950). 'Net Income Can't Be Split," Appraisal Journal, 1950, pp.
+       168—72.
+Rawson, Mary (1961). Property Taxation and Urban Development, Urban Land In-
+       stitute Research Monograph No. 4, 1961.
+Ricardo, D. (1911). Principles of Political Economy and Taxation (New York: E. P.
+       Dutton).
+Ridker, R. (1967). Economic Costs of Air Pollution (New York: Praeger), cbs. 6
+       and 7.
+Roberts, Warren (1967). 'Mine Taxation in Developing Countries," in M. Gaffney,
+       ed., Extractive Resonrces and Taxation (Madison: Univ. of Wisconsin Press,
+       1967).
+Say, 5. B. (1830). Treatise on Political Economy (Philadelphia: John Grigg), pp. 418—
+       41.
+Scheftel, Yetta (1916). The Taxation of Land Value (Boston: Houghton-Mifflin,
+      1916).
+von Schmoller, Gustav F. (1884). The Mercantile System and Its Historical Significance
+                    Land Rent, Taxation, and Public Policy                            257
+
+       (New York: A. M. Kelly, 1967). Reprint of 1884 translation. In Series of Re-
+       prints of Economic Classics.
+Schwartz, E. and J. Were (1958). Potential Effects of a Land Value Based Properly
+       Tax (Bethlehem, Pa.: Lehigh University Institute of Research).
+Seligman, E. R. A. (1913). Essays in Taxation, 8th ed. (New York: Macmillan),
+       "The Single Tax," pp. 66—97.
+Senior, N. (1928). Industrial Efficiency and Social Ecovo-my (New York: Holt), Vol.
+      II, p. 267.
+Shenkel, William (1968). Seminar on application of data processing model for the
+       valuation of property, International Association of Assessing Officers, 34th Annual
+       Conference, St. Louis, Mo., October 13—16, 1968.
+Simon, Herbert (1959). 'The Incidence of a Tax on Urban Real Property," reprinted
+     in R. Musgrave and C. Shoup, eds., Readings in the Economics of Taxation
+      (Hornewood: Irwin), pp. 416—35.
+Simpson, H. D. (1932). "Incidence of Real Estate Taxes," American Economic Review,
+      22 (June 1932), pp. 219—30.
+Smith, Adam (1776). Wealth of Nations (New York: Random House, Inc., 1937),
+       Book V, pp. 773—803.
+Stone, P. A. (1959). "Economics of Housing and Urban Development," Journal of
+       Royal Statistical Society 122 (1959), pp. 417—60.
+Teele, R. P. (1905). "The Irrigation Situation," Journal of Political Economy, March
+       1905, p. 240 et passim.
+Thompson, W. (1965). Preface to Urban Economics (Baltimore: Johns Hopkins Press),
+       ch. 1.
+Trevelyan, C. (1907). "Land Value Taxation and the Use of Land," Ecoisomic Journal,
+       March 1907, pp. 30—3 5.
+Turvey, R. (1957). Economics of Real Property (London: George Allen & Unwin),
+       pp. 76—92.
+Wald, H. (1959). Taxation of Agricultural Land in Underdeveloped Countries (Cam-
+      bridge: Harvard Univ. Press), pp. 179—223.
+Walker, F. (1891). Land and Its Rent (Boston: Little, Brown).
+        (1888). Political Economy, 3rd ed, (New York: Henry Holt), pp. 415—17.
+Walras, Leon (1936). Eludes d'Economie Sociale, 2nd ed. (Lausanne: F. Rouge et Cie.,
+       1936), pp. 218—26, 267—78, 303—07, 338—53, 427—44.
+Wicksell, Knut (1958). "A New Principle of Just Taxation," in R. A. Musgrave and
+     A. T. Peacock, eds., Classics in the Theory of Public Finance (New York: Mac-
+     millan).
+       (1954). Value, Capital and Rent, S. H. Frowein, trans., (London: G. Allen
+       & Unwin), pp. 98, 103, 115, 146—68.
+Young, A. N. (1916).     The Single Tax Movement in the United States (Princeton:
+       Princeton Univ. Press).
+Zangerle, John (1927). Principles of Real Estate Appraising (Cleveland: Stanley Mc-
+      Michael), pp. 82—87, et passim.                              -
+
+Resources for the Future, Inc.
+Washington, D.C. 20036
+258       The American journal of Economics and Sociology
+
+                Technology and Higher Education
+INSTITUTIONS OF HIGHER EDUCATION continue to be in deep financial
+trouble, and cannot hope to escape that trouble by pursuing their old
+courses in their old ways. We find it still a reasonable article of faith
+that technology offers some promise of relief from the financial dilemma.
+   On the basis of a year's endeavor, we believe we can identify more nar-
+rowly the problems that the program confronts.
+   1. We must be careful not to permit ourselves, or to encourage others,
+to be guided by too strict a definition of "technology." The word is too
+readily taken to signify the computer and the television installation. We
+extend it to include the entire technology of the printed word, the whole
+range of classroom tools, and even the concepts of the learning module,
+self-paced instruction and the reordering of the presentation of learning
+materials, whether or not these are associated (as indeed often they are)
+with such more clearly technological devices as video cassettes and com-
+puter-assisted instruction.
+  2. Programs in educational technology can be designed around the
+hardware, the institution, or the discipline. In the first instance, one
+asks, "How can I use e.g. the computer in the educational process?" In
+the second instance, one asks, "How should I reorganize my institution to
+take advantage of educational technology?" In the third, one asks, "What
+technological instruments can be used to render more efficient the com-
+munication to students of a specific discipline?"
+   We have come to the conclusion that for the immediate future the dis-
+ciplinary approach is likely to be the most fruitful, as indeed it has already
+been fruitful in the sciences, engineering and mathematics. We must
+identify the professor, discontented with the manner in which the educa-
+tional process is now carried out, and desirous of developing the use of
+more sophisticated teaching and learning tools than he now possesses.
+   3. There are suggestions of a role for technology in education which
+goes beyond questions of economics. There has been, in higher educa-
+tion, a loosening of the constraints with respect to time and place. The
+growing emphasis on openness and flexibility is accompanied by a renewed
+interest in lifelong education and the promise that the growth of leisure
+will give the consumer of education considerable choice as to when and
+what and how he studies. The whole development seems to provide op-
+portunities for the use of technology, or even to depend upon technology
+for its full realization. [From the Report for 1971.]
+                                                        NILs Y. WESSEL
+Alfred P. Sloan Foundation
+

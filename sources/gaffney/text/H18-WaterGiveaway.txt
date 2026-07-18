@@ -1,0 +1,346 @@
+          The Water Giveaway: A Critique of Federal Water Policy*
+                                          Mason Gaffney, 1973
+   The many wasteful policies and procedures in federal water resources programs have been
+much analyzed by economists and other scholars. Agency benefit-cost practices have been found
+wanting. Benefit estimates have been biased upward and cost estimates downward.
+Environmental effects of projects, often adverse, are not weighted enough. I generally endorse
+the thrust of these criticisms and will not repeat them here. Rather, I will discuss a few equally
+significant questions which have been neglected.
+WASTEFUL PRACTICES AND THEIR CONSEQUENCES
+Giving Away Public Resources
+   Public water policy has been dominated by a giveaway psychology. Dam sites, water rights,
+and de facto licenses to pollute water have gone free of any but occasional nominal charges to
+individuals, corporations, and municipalities. It is as though the Interior Department gave Texaco
+the rights to offshore oil gratis, and then paid for their drilling rigs to help develop the country.
+   Economists have rightly condemned the use of sub-market interest rates in appraising federal
+works. The use of zero-interest for all costs that ingenuity can allocate to “irrigation” benefits of
+a project is an outstanding outrage. The use of zero rent on public sites and waters is equally
+outstanding.
+   The resulting damages are several:
+    1. The pressure to put resources to their best use is abated. When valuable land and water
+inputs are entered at zero value, any of several projects can show super-unitary benefit-cost
+ratios and appear economical. When these resources are appraised at their highest and best use,
+and their value entered as a cost, only one use plan for a given resource is economical: the best.
+It has a ratio of one: all others fall below. (It is not, incidentally, the same project whose ratio is
+highest when no rent is charged. Rather, it is the project yielding the greatest excess of benefits
+over costs, i.e., net benefits or surplus.)
+   That is just elementary economics, one of the first things we teach freshmen. But analysts of
+public projects often overlook it, perhaps trying to accommodate themselves to the giveaway
+tradition. The result is often to fail to scan all alternatives for a site or stream. For example, a
+recreational use might be highest for Canyon X, but if a power company gets it before the Park
+Service does and can show a ratio of 1.01, it’s gone.
+   2. The pressure to develop water prematurely, preemptively, is paramount. The prospect of
+future rents has a present value long before there are any present rents. Enjoyment of those future
+rents goes to him who establishes his claim, usually by first possession and use. It takes little
+imagination to foresee the results, which one observes everywhere. Scores of state and federal
+
+In Robert Haveman and Robert Hamrin (eds.), The Political Economy of Federal Policy. New York etc., Harper
+and Row, Publishers, 1973.
+Excerpted and reprinted from statement of Mason GAFFNEY in U.S. Congress, joint Economic Committee,
+Economic Analysis and the Efficiency of Government, Part 2, Hearings of the Subcommittee on Economy in
+Government, September 1969.
+Mason GAFFNEY was then a Research Associate at Resources for the Future, Inc., Washington, D.C.
+                                                                                                    2
+
+
+agencies, municipalities, corporations, and individuals race for one resource after another, not
+because they need it now, but to keep those greedy other fellows from hoarding it.
+   Congressmen will recognize the same uneconomic motivation at work in the scrambles for
+broadcast licenses, air routes, quotas, trucking routes, pipeline routes, bank charters, and other
+valuable resources and monopolies it gives away without competitive bidding.
+   At least four congressional policies reinforce the overwhelming pressure toward premature
+capture and development of water.
+   One is an income tax matter. The premature developer of a resource may lose money for years
+while it is submarginal. These losses are currently expensible, i.e., shared by the Treasury each
+year. Actually they should not be, for they are a long-term investment designed to capture the
+resource while it rises in value. Now if Congress had accepted the advice of eminent public
+finance economists such as Joseph Pechman, William Vickrey, and Richard Musgrave, and
+moved to a “comprehensive income tax base” (often called a “Haig-Simons” definition of
+income) as Canada’s Carter Commission has recommended there, and subjected the capital gains
+accrual of resource value to the same effective tax rates as ordinary income, it would be all right
+to expense those early losses. But Congress has not done so. So the taxpayer can expense early
+operating losses which he invests to capture a resource, while he pays no tax on the resource
+appreciation which he captures.
+   Looking at this in terms of “tax expenditures,” the United States is not only giving away water
+resources, it is advancing some half of the private investment required to capture the resource
+with little hope of ever getting its principal back. The best it could do through future taxes is
+recover its own principal with interest. The private investor’s interest is tax-free.
+   A second reinforcing policy is racing for farm production quotas. During the Korean War, for
+example, cotton quotas were eased. The availability of water let California expand cotton
+acreage and establish histories of production. After the war when quotas were re-imposed,
+California was in. More accurately, those landowners were “in” who had access to uncommitted
+land and water at the crucial time.
+   A third reinforcing policy is that old devil, “logrolling.” Whenever there is a giveaway,
+naturally everyone wants some. Since a Congress cannot very well commit its successor to honor
+cloakroom bargains, everyone wants some right now. A concrete start is the most convincing
+commitment Congress can give. And so we have chronically too many starts and too few
+completions. The economist would say, rank your projects and give priority to those that
+generate the most surplus of benefits over costs (present-value basis). The exigencies of vote-
+marshaling interfere with such priorities, and say, “start something everywhere at once.”
+    A fourth reinforcing policy is in the public regulation of utilities. Rates are reckoned so as to
+allow a specified return on the “rate base,” or invested capital less depreciation. Every utility
+seeks to magnify its rate base. One way is to invest in submarginal waters. Regulatory policy lets
+utilities recoup the losses by charging higher rates in their rich, surplus-yielding territory.
+   Of course Congress has only limited influence on state regulation, but it has greater influence
+on federal commissions, and potentially could dominate most power utility regulation because of
+interstate ties and the use of federal property.
+   3. A third damage from giveaways is distributional. The successful early preemptors of
+submarginal waters are those with the greatest waiting power. That is, they are the wealthy. But
+                                                                                                 3
+
+
+regardless of who they were before, they become wealthy and powerful once they have nailed
+down the resource, and it rises in value. They become a privileged class.
+   4. Water is misallocated. Some submarginal projects remain submarginal, but they do not
+lose control of their water. Some allocations, that once were economical, become obsolescent
+and stop yielding surpluses; but they keep their water. Water is very hard to transfer, once
+allocated, because the beneficiaries generally have no clear title they can convey — after all,
+they never bought one. The federal owner is not charging them any rent, so they hang on without
+cost to themselves.
+   5. Water is underpriced and wasted. Underpricing results not merely from the water
+giveaway, of course, but from that plus other subsidies like zero interest. The wastes that ensue
+are more than meet the eye. It is often assumed that cheap water encourages intensive farming,
+but the reverse is true. If California farmers had to pay $20 an acre-foot for water they would
+feed the world. It takes intensive farming to pay such prices, and this may be observed in areas of
+dear water. As one moves from south to north in California, for example, the humidity rises and
+the agriculture declines. Cheap water favors sloppy, extensive farming, with water being
+substituted for labor and farm capital.
+  This in turn affects project costs. To achieve a given output, when water is cheap, more water
+must be delivered per acre, and more acres served. Distribution being the costliest element of
+water supply systems, this magnifies costs.
+   Dear water from federal projects would encourage economy not just of water but of land. The
+Bureau of Reclamation does not sell direct to individuals, but wholesales water to irrigation
+districts. These pass on the cost to their land-owners, but not entirely as user charges. They also
+levy land taxes, and these encourage early, compact, and intensive use of land under the ditch.
+Imbalance, Deferred Impact, and the Unknown
+   Considering the several subsidies involved, capital obviously flows more easily into water
+projects than into ordinary private investments like barns, fences, or machines. Thus public
+investment tends to get ahead of matching private land development. This adds to the waiting
+period during which the public investment is sterile.
+   The balance is partly redressed, but on the whole probably worsened, by the impact of federal
+taxes on land developers.
+   The favored treatment of capital gains makes it very attractive simply to hold land while
+federally financed flood control or water supply enhance its value. The result is “irrigation
+sprawl” or simply agricultural sprawl in flood-protected areas. Land speculation jeopardized land
+development long before income tax accounting, became a major factor; now the holdout
+motives are redoubled. Federal subsidies also mean that local property taxes are minimized, and
+those that do come are deductible, i.e., shared by the Treasury.
+   On the one hand, capital investments in “water conservation” are expensible. Expensing of
+capital investments is tantamount to complete tax exemption or more, because the most the
+Treasury can recover is interest on its own investment. This, coupled with SCS [Soil
+Conservation Service] subsidies, has certainly caused enormous capital to be invested on private
+land.
+    Some of this capital must complement public works and help redress the balance. On the
+                                                                                                   4
+
+
+other hand, some of it no doubt is completely substitutional. Indeed, the assessments paid to
+irrigation districts, through which public water must be distributed, are not deductible, so tax
+shelter is denied to the most complementary of all local water investments.
+    Regardless of the balance between public and private works, there is clearly a bias toward
+water-related capital. Here we are flying blind. No one seems to know how much capital has
+been invested in farm water systems. There is a remarkable gap between $13 billion of net farm
+income estimated by the Commerce Department and U.S.D.A. and $2.5 billion dollars reported
+to the Internal Revenue Service, which no one can explain, except that the discrepancies are on
+the cost side. Expensing of capital investments is certainly involved. Big capital items that may
+be expensed are breeding stock, soil conservation, and water conservation. The enhanced land
+value that results from the last two is virtually tax-exempt income for anyone with a good
+lawyer.
+   So Congress is continuing to subsidize a particular kind of capital outlay without much
+knowledge of how much has been sunk already. It is reasonable to infer that water-related capital
+has now gotten far ahead of its complements, and further subsidy is undesirable.
+Slow Payout
+   Premature investments, and submarket interest rates, and logrolling and waiting for capital
+gains, all imply a long wait between investment and payout.
+   From a certain narrow political view this has attractions. Many constituents are enriched by
+unrealized, untaxed capital gains. And since production increase is at a minimum, prices are
+sustained, letting more and more land be enhanced elsewhere.
+  When we look at some other burning issues, the picture changes. One is inflation. Investments
+whose output is small or deferred are inflationary, creating demand without supply.
+   Another is poverty. Investments which lie on the land passively for decades before turning
+over are complementary to land but not to labor. just as water which is recycled rapidly can do
+more work and complement more inputs than water which is recycled slowly, so capital turning
+over fast employs more men, and relieves more poverty, than the same capital turning over
+slowly. Every time capital turns over and is reinvested it employs men, and feeds their families.
+Federal policy tends to freeze capital in massive monuments from which it is seldom recovered
+fast. Federal works are capital-intensive; they create a minimum of jobs per thousand (or in this
+case million) dollars sunk.
+   When the Bureau of Reclamation began business in 1902 it had something called a “revolving
+fund.” It was to recover this each 10 years and reinvest it, so the same capital would by now have
+been used several times. It was a splendid idea, but that the fund has yet to complete the first
+revolution. This, I am afraid, symbolizes the whole dreary tale of dragging, lagging results and
+payouts from federal water enterprises.
+Regressive Distribution
+   The prime beneficiaries of federal water and flood control projects are landowners. The
+holdings are often very large, the benefits narrowly focused on a small number. No one at all
+familiar with the Tulare Basin, the West Side of the San Joaquin Valley, or the Mississippi Delta
+will question this for a moment. These are extreme cases, where some ownerships exceed
+100,000 (sic) acres receiving benefits, and more elsewhere. Obviously in other service areas
+                                                                                                    5
+
+
+ownerships may be smaller but still represent large fortunes.
+   The costs are borne by the federal taxpayer. Until recently, “everyone knew” that the federal
+income tax was highly progressive. This year, thank goodness, the truth has dawned and
+everyone knows that the federal income tax has devolved into a payroll tax, with high
+exemptions on property income.
+   The income of the wealthy beneficiaries of water service may be very lightly taxed. A recent
+U.S.D.A. study shows that of the largest 66,000 farms in the United States two-thirds reported
+net losses from farming! These, incidentally, are those large farms which “everyone knows” are
+more efficient. As to their accrual of land value, that is virtually exempt from income tax in
+practice. I ask leave to submit an appendix on the many routes by which land income escapes
+taxation.
+IS REFORM POSSIBLE?
+   Water institutions have proven peculiarly refractory to reformers. Ten years ago I had a go at
+them, and soon felt like the melodious Paul Simon whose “words like silent raindrops fell, and
+echoed in a well of silence.” Lest this seem like a personal Cassandra complex, I and others have
+found a warm welcome in tax reform; but, other critics of water policy have been equally
+unavailing. Few policies, indeed, have been so exposed and pilloried by so many economists,
+and so little defended, with so little result.
+   Nothing improves. On the contrary, wilder and wilder plans are seriously discussed in these
+very halls. That “great land-locked” Tulsa is soon by your hand to become an ocean port, and I
+do not doubt the Corps of Engineers would carry the channel to the summit of Pike’s Peak
+should you authorize it.
+   The line-up of vested interests opposing reform is formidable. Water law is a WPA for
+lawyers. Every project is a WPA for civil engineers, who have been defined by Boulding as men
+who can tell you the best way to do something that should not be done at all. Many projects are
+WPAs for marginal mountain counties who sell their votes for local dams. Every project is a
+consumer of cement. Every project extends the job security of bureaucrats, whose motto might
+be “Pour cement or perish.” And above all the beneficiary landowners are constantly lobbying,
+and playing on the hysteria so easily aroused in matters regarding water. It may not be irrelevant
+that water and land are symbols of motherhood.
+   Who, then, will speak for mankind? Is there any hope of a breakthrough? I believe I see
+several counter-forces developing.
+   One is the universities. For years, their influence was thrown the other way under the sway of
+Keynesian doctrines that endorsed all public spending. Today they are dropping that and
+analyzing choices among alternatives. Since one major alternative is the university itself…need I
+go on? Governor Reagan dramatized the point recently by offering to trade a university for a new
+water source.
+   Another is the acute capital shortage of our times. High interest rates are the market’s way of
+signaling the shortage of housing, inventories, gymnasiums, equipment, urban sewers, and a
+hundred other capital items we have failed to replace and expanded while freezing our treasure
+into cement yielding 3 percent or nothing, and quite irrecoverable for years (wouldn’t it be nice
+to have it back now at 10 percent?). Fun is fun, but many of these shortages are reaching crisis
+proportions and cannot be ignored.
+                                                                                                    6
+
+
+   A third is the youth rebellion with all it implies. The effective rebels of course are not the
+louts, but the working leaders like Nader and Yannaconne who have learned how to mobilize
+idealism and move mountains.
+    Fourth is the wilderness conservation movement, spearheaded by the redoubtable Sierra Club
+and its new, taxable lobbying incarnation. They may be True Believers. But if we must choose -
+and we must-between them and the excesses they fight, they are clearly the better choice. And so
+I think there is some hope of reform.
+POLICY RECOMMENDATIONS
+   Congress obviously suffers from certain problems of internal organization. I will not presume
+to comment on these before men who know them better than I. Rather I will tell you what if I
+were king I should try to accomplish. Congress needs a superior substitute for logrolling. Trading
+votes is essentially the way one region pays another for a share of the common wealth—basically
+a reasonable concept. A problem is that often the only coin in which payment can be made is
+another water project, when a hospital is needed more; or a project of any kind, when reduced
+taxes are needed more. Another problem is that all jurisdictions have equal bargaining strength,
+while capital is much more productive in some than others.
+   So how else may the beneficiaries of public works compensate other Americans? By paying
+more taxes. It’s surprisingly simple. The whole wretched, corrupting business of lobbying for
+and horse-trading federal largesse, which seems so intractable that many observers and citizens
+lose hope in Congress and lean more and more towards a strong executive—this whole business
+has a solution. Lincoln Steffens observed that the troublemaker in Eden was not Eve, nor yet the
+Serpent; it was the Apple! Taxing the beneficiaries of federal works should serve wondrously to
+dehydrate the apples of discord on Capitol Hill.
+   The beneficiaries of public water works are surprisingly easy to identify. The works service
+certain defined lands. The landowners gain. Other local beneficiaries are subject to competition
+from immigrants. Land cannot immigrate; it appreciates instead.
+   But federal income taxation virtually exempts land appreciation. If you work for a living you
+pay the full tax rate on ordinary income. If you improve land under federal works and match the
+federal enterprise with private enterprise, your land income is mostly “ordinary” and taxed at full
+rates. But if you can influence public officials to improve your land while you do nothing, your
+income is almost all your own.
+   And so it pays landowners to commit great effort to drumming for federal aid. This has
+always been a problem, but has worsened in our times because of the cumulative perversion of
+the federal income tax into a payroll tax. Another problem is the declining role of the property
+tax, which used to socialize a good share of land value increments. The latter long decline is in a
+short-run reversal. The former is in the hand of Congress. As you labor in the vineyard of tax
+reform, you have an opportunity to prune the apple tree of discord with the same strokes.
+   Congress should charge market prices or rents for federal property. It should encourage the
+states to do likewise with state property, as a condition of federal aid. No state should get away
+with giving away its valuable resources to local influentials and then pleading poverty in
+Washington. Congress should assert federal property rights aggressively when they are
+paramount, and convey them unequivocally and explicitly when it releases them, not to the end
+of grabbing everything in sight but of creating a certain and workable tenure system.
+                                                                                                     7
+
+
+    It should certainly not do this in one stroke, without detailed analysis. Hydrology and water
+law are complicated. It should immediately commission a group to return recommendations for
+clarifying federal water rights. The difference between this and previous and ongoing efforts
+would be the posture of the United States as a great landlord seeking to maximize income from
+its domain. Economic analysis will show this is also the way to maximize general welfare.
+   The benefits are the converse of the problems cited under the section entitled “Giving Away
+Public Resources.” There is more pressure to put resources to the highest use. Premature
+preemptive appropriation is stopped. Distribution is better. Allocation is better. Waste is reduced.
+   An important added gain from asserting public property rights is to solve the “pollution
+conundrum” of who should pay whom for doing or not doing what. To some people it is self-
+evident that polluters are no better than louts who would nuisance on the public streets, and
+should control themselves at their own cost and be grateful if they are not jailed for past
+obscenities. To others it is equally clear that people who want a clean environment should pay
+polluters not to pollute. The latter school is waxing mighty in the learned journals. Although I
+have never understood how they would limit the number of those who must be paid not to
+pollute, they have managed to lend respectability to those who would love to be paid a good
+price to relinquish the waste-removing capacity of the common water which they have
+appropriated in the past.
+   Assertion of public ownership resolves the conundrum. Neither beneficiary of water pays the
+other. Rather, both pay the government: the ones an effluent charge for unavoidable waste
+disposal; the others a variety of user or standby charges, depending on their terms of access to
+the water.
+   As part of this effort, Congress should assume great responsibility to use its unique powers in
+resolving interstate water conflicts. It should abandon such economic monstrosities as the
+Colorado River Compact, which rigidly divides water among political states regardless of
+demand, and find a formula that recognizes productivity and requires repayment.
+   Another function uniquely tractable to federal powers is that of pooling, and integrating local
+projects. Power pooling is a fact over wide areas. Pooling of water supply, storage, power
+generation and flood control are much more limited. Conjunctive use of surface and ground
+storage is barely begun. The obstacles of law, institutions, and local vested interests are
+formidable. The federal might is often the most potent available engine of reform.
+   Congress should move toward full-funding of a few projects at once, and away from yearly
+appropriations for more projects than available funds can complete in a reasonable time. A
+“reasonable time” depends on the interest rate. Money doubles in a number of years equal to 72
+divided by the interest rate. At 7.2 percent, for example, money doubles every 10 years, and
+quadruples every 20. If a construction job is stretched out to 20 years the early costs are
+quadrupled by the delay. Obviously, the delays we learned to accept at low interest rates are no
+longer reasonable.
+   Once the logrolling logjams are broken by tax reform and beneficiary charges, endless
+possibilities open up for rationalizing the timing of works, and ranking projects by priority. This
+requires use of a reawakening subdiscipline of economics known as “capital theory.” Congress
+should commission expert studies on this topic to develop criteria for priorities.
+    Now, some development is postmature. Probably more is premature. In general, priority
+                                                                                                      8
+
+
+should go to projects yielding the greatest surplus per dollar of cost, as of now, on a present-
+value basis.
+   But this needs to be tempered by holding off on sites that are ripening very fast to still higher
+uses. Capital theory needs to teach us how to make this trade-off.
+   Congress should scratch “regional development” as a benefit from any project. All projects
+are regional. The concept is either meaningless, or else a thin cover for vote-swapping,
+maintenance of obsolete congressional districts, and sinking the nation’s dwindling treasure into
+submarginal projects.
+    Congressmen who are tempted to go on piling concrete into every narrow gorge with a
+strident lobby could do worse than to review the history of a previous boom in water works, the
+canal boom that busted in 1836. They went wild, simply wild over regional development. Some
+states have outlawed state bond issues ever since.
+   Another pressure to resist is that of designating the Corps of Engineers and the S.C.S. as
+“antipoverty” agencies. A dollar invested in any hamburger stand does more to fight poverty
+than ten spent by the corps, which has demonstrated beyond misunderstanding its eagerness to
+serve the very, very, very rich by servicing their lands, free. It is an “arrangement” of long
+standing, a scarlet affair beside which the novel of the same name pales into dull gray.
+   Not only does the hamburger stand employ more people per dollar of capital, it feeds them as
+well, and it does both things many times a year as each dollar turns over and over. If we aim to
+deploy our capital to fight poverty we need channel more of it into small, labor-using businesses
+that produce useful goods. The Corps of Engineers does not recover its capital outlays for
+decades, if ever, either directly or from increased tax collections. Each new project requires new
+capital, so that over the years the sum of capital invested for every job created is greater than in
+any private industry except tombstones. Monumental engineering works are the tombstones of
+civilizations. Pharoah had his pyramids; Caesar had his aqueducts; and Uncle Sam…may profit
+by their example.
+

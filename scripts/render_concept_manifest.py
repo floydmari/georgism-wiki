@@ -10,7 +10,8 @@ they are NOT applicable as in-text links without a human picking the anchor.
 import collections, json, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, "scratchpad", "cache", "concept-candidates.jsonl")
+SRC = os.environ.get("CONCEPT_OUT",
+                     os.path.join(ROOT, "scratchpad", "cache", "concept-candidates.jsonl"))
 OUT = os.path.join(ROOT, "scratchpad", "concept-link-manifest.md")
 
 rows = [json.loads(l) for l in open(SRC)]
@@ -29,7 +30,8 @@ L = [
     f"{total-grounded} ungrounded, listed but not auto-applicable). "
     f"Relations: " + ", ".join(f"{k} {v}" for k, v in rel.most_common()) + ".*",
     "",
-    "Model: GLM-4.7 on Ollama Cloud (external-model rule: candidates only, review gates apply).",
+    "Model: " + (rows[0].get("model", "?") if rows else "?")
+    + " on Ollama Cloud (external-model rule: candidates only, review gates apply).",
     "",
     "## Most-mapped claim pages",
     "",
@@ -46,6 +48,8 @@ for r in rows:
         flag = "" if m["grounded"] else " ⚠️ *ungrounded anchor*"
         L.append(f"- **{m['relation']}** [`{m['claim']}`](https://progress.org/wiki/{slug}/)"
                  f" — anchor: **“{m['anchor_phrase']}”**{flag}")
+        if m.get("page_claim"):
+            L.append(f"  - page's claim: {m['page_claim']}")
         if m.get("anchor_sentence"):
             L.append(f"  - sentence: …{m['anchor_sentence'][:240]}…")
         if m.get("why"):

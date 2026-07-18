@@ -51,9 +51,13 @@ The wiki carries the capitalization literature directly:
   the strongest quasi-experimental confirmation to date.
 - **Surveyed breadth:** [Doucet's *Land is a Big Deal*](/wiki/land-is-a-big-deal/)
   (Ch. 20–21) surveys 13+ capitalization studies, 12 supporting substantial-to-full
-  capitalization; the primary studies are being ingested per the wiki's
-  de-referencing rule (BACKLOG carries the Borge–Rattsø / Capozza / Hilber /
-  Buettner / Choi–Sjoquist cluster).
+  capitalization. The Ch. 21 landlords-incidence cluster —
+  [Borge & Rattsø](/wiki/borge-rattso-norway-capitalization/),
+  [Capozza, Green & Hendershott](/wiki/capozza-green-hendershott-residential-land/),
+  [Hilber](/wiki/hilber-capitalization-synthesis/),
+  [Buettner](/wiki/buettner-german-land-tax-capitalization/), and
+  [Choi & Sjoquist](/wiki/choi-sjoquist-atlanta-lvt-cge/) — is now fully
+  de-referenced to primary text (see `sources/doucet-acx-dereferencing.md`).
 
 ## Limits and Caveats
 
@@ -76,6 +80,7 @@ The wiki carries the capitalization literature directly:
 - [Enterprise Zones](/wiki/enterprise-zones/) — 1980s UK tax-and-rates subsidy zones as a policy case of the capitalization mechanism, with the Isle of Dogs' tenfold land-value rise as documented evidence
 - [Common Agricultural Policy (CAP)](/wiki/common-agricultural-policy/) — the EU's farm-subsidy program as a large-scale, partly-contested case of subsidies capitalizing into land rents and prices
 - [ATCOR](/wiki/atcor/) · [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) · [Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
+- [Gaffney (1968): Land as an Element of Housing Costs](/wiki/gaffney-land-as-element-of-housing-costs/) — a near-contemporaneous, independently-derived capitalization result, published the year before Oates (1969)
 - [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — the same mechanism applied to public-investment uplift
 - [Objection: Homevoters will never allow it](/wiki/homevoters-will-block-lvt/) — the political economy of capitalization
 
@@ -93,5 +98,6 @@ The wiki carries the capitalization literature directly:
 4. Dye & England (2010) — used for the LVT application and design implications
    (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
 5. Lars Doucet, *Land is a Big Deal* (2022), Chs. 20–21 — used for the survey count
-   (13+ studies, 12 supportive; A-claim; Heavy scan, primaries being ingested).
+   (13+ studies, 12 supportive; A-claim; Heavy scan; Ch. 21's landlords-incidence
+   cluster of five studies is fully de-referenced to primary text as of 2026-07-18).
    [Book page](/wiki/land-is-a-big-deal/)

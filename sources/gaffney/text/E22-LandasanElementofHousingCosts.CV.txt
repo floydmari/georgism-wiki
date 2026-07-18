@@ -1,0 +1,1333 @@
+                STUDY S-324
+
+  LAND AS AN ELEMENT OF
+     HOUSING COSTS:
+         THE EFFECTS OF
+ PUBLIC POLICIES AND PRACTICES
+THE EFFECTS OF HOUSING DEMAND
+
+                Two Papers by:
+               Mason Gaffncy
+              Richard F. Muth
+
+
+
+                October 1968
+
+
+
+
+                   IDA
+    INSTITUTE FOR DEFENSE ANALYSES
+      PROGRAM ANALYSIS DIVISION
+400 Army-Navy Drive, Arlington, Virginia 22202
+                   HUD H-931
+                                      I
+             POLICIES AND PRACTICES AFFECTING URBAN LAND COSTS
+                        AS AN ELEMENT OF HOUSING COSTS
+
+                              by Mason Gaffney
+
+                                     A.
+                                INTRODUCTION
+
+
+    Land is a major cost element of urban housing. Site values of improved
+    urban lots are about 20 percent of the total value of new single unit
+    dwellings. However, this ratio varies significantly between neighbor—
+    hoods and regional areas in the United States. For example, for the
+    third quarter, 1967, FHA da for proposed one-family homes to be
+    financed under Section 203, indicated that house lot prices per
+    square foot varied from $1.72 in Orange County, California, to $.16
+    in Bixningham, Alabama--with the national average at $.38 per square
+    foot) Cost per unit of land is much higher in densely populated
+    areas. For example, the acquisition cost of 110 acres for a 00—
+    operative apartment project in a decaying area qf Queens, New York
+    was $6.5 million, or $3-,.u per acre, or nearly $2' per square foot. 2
+          The cost of any parcel of urban land is derived from two elanents.
+    First, a private investment must be made to transfomn raw land into
+t   something usable for urban purposes. This private investment is
+    embodied in the form of streets, sewers, utility facilities, and
+    other privately financed improvements necessary for modern, urban
+    living. Second, much urban land derives a value, and hence a cost
+
+         1. See Area Trends, Second Quarter 1967, RR:250-M, (Department
+    of Housing and Urban Development, FHA, Division of Research and
+    Statistics).
+          2 • See "Rochdale Village," a brochure prepared by the United
+    Housing Foundation (New York, Noveaber, 1967). In addition, over
+    $1.4 million was spent by the developer for water lines and sewers.
+    Overall cost of the project was $100 million, including $85 million
+    f or buildings and other site improvements.
+
+                                     1
+to any user, from an advantageous site location and from public works.
+                                                                                     interact in comp1i
+In the economic literature treating the subject of land, the source
+                                                                                     and Pricing proces
+of this second element of land cost is often viewed as economic rent,
+                                                                                     are further compli
+or simpiy as land rent or the earnings of land per se. As such, it
+                                                                                     Policy elements:
+is conceptually distinct from the return on any private investment i
+                                                                                 /   Property taxation,
+land improvements which is necessary to make raw land useful.
+                                                                                     an attempt to clar:
+      We may illustrate these two elements of land earnings as follows:
+Suppose it requires private initial investment of $2500 (to include
+a pro rata share of streets, sewers, and so forth) to transform a
+piece of raw land into a usable house lot. If the opportunity rate
+of return on investment is 10 percent, the annual earnings of the
+lot will be $250 (the public bears any costs of maintaining and
+replacing the facilities). The $250 might also be viewed as the
+rental price, or hire, of the land. As such it represents the value
+of the flow of services provided by the land improvements.
+     Assume next an identical parcel of land that is favorably
+located.    It could be within walking distance of an efficient urban
+transportation system, or provide   its owners an inspiring view, or
+both. As a result of this favorable location, it may be worth $1,000
+a year for a homeowner to live in that location, in contrast to a
+"marginal" location. Here there is a differential flow of services,
+which has a value to consumers, associated with the particular
+location.  If the rate of return on investment is 10 percent, the
+$1,000 annual value of the services due to the choice location of
+the land parcel will be capitalized at the 10 percent rate. Its
+capital value is $10,000. This capital value is in addition to the
+$2,500 investment in improvements necessary to make the parcel usable.
+The total capital value of the land, or its acquisition cost, is
+$12,500    if we assume a 1C)peroent capitalization rate. The annual
+cost of the land's services (including that which is derived from
+its preferet±al location) is $1,250.
+
+     Th        terininants of urban land value--i.e., investment necessary
+to transform raw or agricultural land into usable urban land,
+differertia1svlue, and a capitalization or valuation process--
+
+                                    2
+
+
+
+                                                                             I
+interact in complicated ways through the operation of land market
+and pricing process. The operation of urban land markets and pricing
+are further complicated by their interaction with critical public
+policy elements: zoning, the location of public works and facflities,
+property taxation, and Federal income tax practices. What foflows is
+an attempt to clarify some of these relationships.                   —
+
+
+
+
+                                 3
+                                   B.
+
+               ELEMENTS OF LAND COSTS AND PROPERTY TAX
+
+
+1•   ThE STABLE CASE:   ANNUAL PLOWS VERSUS PRESENT VALUES3
+
+     Table 1 illustrates by means of a hypothetical example the
+nature of land cost. It is assumed that Parcel ATT possesses p
+particular locational advantage; whereas Parcel "B" enjoys a favorable
+locational advantage as illustrated by the $1,000 annual site advantage.
+Both parcels are assumed to have embedded $2,500 worth of investment
+which renders them useful for urban housing. (The mechanics of how
+this kind of investment occurs——which is also the process by which
+the supply of urban land is increased--will be discussed later).
+The rate of return on investment, and the capitalization rate by
+which all future income streams is discounted, is assumed to equal
+10 percent. It is further assumed that the land itself, including
+the investment embedded in it, is nondepreciable--i.e., the returns
+and benefits flow indefinitely.
+     Under these assumptions, Table 1 illustrates that the annual
+cost and present worth methods of looking at land values are different
+ways of viewing the same phenomenon. It should be emphasized, how-
+ever, that in the case of urban land—because the supply can only be
+increased in roundabout ways and because urban land is nondepreciable-—
+some special forces operate that warrant clarification. These forces
+operate through a capitalization process.
+
+
+
+
+     1. For a more rigorous development of the material in this
+section, in terms of the mathematics of investment, see Appendix A.
+                                  5
+                                     Table 1
+                     ILLUSTRATION OF URBAN LAND VALUE
+                               DETERNB'ATION
+
+
+                                               Parcel A   Parcel B
+        Investment Cost                        $ 2,500    $2,500
+            Annual Return on Investment
+            @ 10%                                 250        250
+
+            Annual Differential Site
+            Advantage                              0       1,000
+            Annual Benefits (Cost)                250      1,250
+
+        Present Cost (Worth)
+
+            Discounted @ 10%                    2,500     12,500
+
+        If we assume the stock of urban land is f:ixed, the primary focus
+on the cost of the annual flows should be $250 and $1,250 for
+Parcels A and B respectively. The cost is unchangeable. For
+example, a lowering of interest rates which will reduce the capitali-
+zation rate to, say, five percent, will not benefit the prospective
+homeowner. The fixed earnings of the land will be capitalized by
+the lower five percent rate; parcel A's price will increase to $5,000
+and parcel B's to $25,000. The purchaser of parcel B, therefore,
+will have to borrow $25,000 at 5 percent, instead of $12,500 at 10
+percent. The lowering of interest rates, per se, does ixt     benefit
+the housing consumer insofar as he consumes the services of urban
+land.
+     Let us next assume that parcel B is subjected to special property
+taxes, say $500 a year (possibly because it is in a "high tax" juris-
+diction). The net private rent (or benefits derived from the land
+site) fall to $750 ($1,250 annual benefits, less $500 annual tax).
+The $750 annual rent after tax is capitalized at a rate of 10 percent
+and the market price of the land is $7,500. The prospective purchaser
+of the land confronts a market price for the parcel of $7,500, plus a
+
+                                       6
+present worth of future tax obligations of $5,000. The cost of the
+land remains the same. Conversely, if the property tax is reduced,
+only the land owner benefits. The market price of the land increases
+to reflect the reduced property tax obligation. The essential ele-
+ments of land cost remain. Students who propose property tax reduction
+as a means of permitting lower cost housing should riot be surprised
+if in fact no cost reduction occurs. Rather, under certain ccxiditions
+such property tax reduction may only increase the net worth of land
+owners.
+     To summarize, there are certain inescapable costs associated
+with urban land. Land parcels that enjoy a preferential location,
+and hence an tteconcIc rent," incur a cost that cannot be avoided.
+Lower interest (or capitalization) rates, more or less differential
+property taxation, merely operate to change the prices which are
+registered in the market for the land itself.
+     By recognizing these points, we can dispose of some specious
+but ineffective proposals for lowering land cost:
+    (1) Lower interest rates: These raise the land price base
+    in the same proportion that they lower the capitalization
+    rate, leaving yearly carrying costs constant.
+          This argument presupposes a supply of land that is not
+    elastic (or responsive) to lower interest rates. It would
+    have to be modified under assumptions which made land supply
+    rise with a fall of interest rates. For example, subsidized
+    low cost credit for housing helps housing take land from
+    industry, trade, recreation, charitable institutions, and
+    agriculture. The supply of land for any one activity has
+    some elasticity, especially if that activity is subsidized
+    at the expense of others. The critical point is that there
+    is no magic in low interest rates as a general policy that
+    will circumvent holding costs.
+    (2) Lower tax rates: The basic general analysis is exactly
+    the same as for interest rates. Lower tax rates can raise
+    land prices. The net result is to substitute an added interest
+    cost for the reduced tax cost.
+         Due to the nature of credit markets, the tradeoff between
+    interest and taxes is not perfect and has an allocative effect.
+    It removes a cost (property taxes) that bears equally on all
+    landowners and replaces it with one (interest) that varies
+    inversely with the credit rating of the individual. Credit
+    ratings vary directly with income and wealth. Lower property
+    taxes, therefore, can operate unfavorably against the low
+    income groups seeking to acquire homes.
+                                 7
+     (3) Higher land taxation: It is often asserted that higher
+     land taxes will reduce the cost of land. Although it is
+                                                                      "7
+     correct that through a capitalization process, higher property
+     taxes will reduce the market price of land, the prospective
+     buyer should also include the present worth of future tax
+     obligations as part of the acquisition cost of land. However,
+     there is a case for higher land taxes, as indicated in (2) by
+     the criticism of the effects of lower land taxes. Raising
+     the land tax substitutes an impartial tax cost f or an interest
+     charge that bears more heavily on lower-income groups. Land
+     taxation lowers thus the capital that must be raised by private
+     parties to achieve land ownership. If low-income individuals
+     encounter higher costs of raising capital than do high-income
+     individuals (and groups, including corporations), property
+     taxes which lower land acquisition costs will operate to the
+     relative advantage of those in the lower income groups. In
+     addition, the added tax revenue from higher land taxation can
+     assist local governmentsto  handle their financial problems,
+     or substitute for such taxes as payroll taxes (i.e., city
+     "income" taxes), sales taxes, and perhaps taxes on building
+     improvements. As noted earlier, however, an increase of land
+     tax rates implies a wealth loss to those owning the land at
+     the time the rate increase is anticipated. This loss occurs
+     to all land owners——including lower income individuals who own
+     their homes.
+
+2.   LAND COST AND ThE SUPPLY OF LAND
+
+a.   Some General Relationships
+     A large share of what we normally call land value is not pro-
+duced by private people in the same sense that buildings are, and
+land rent is not a reward for producing land. It may be described
+as a "public value," the joint product of appropriation and tenure
+protection provided through the police power of government, and
+access and utility provided by public works • The worth of land
+also arises from spillover benefits of private wor1s on neighboring
+land. These spilover benefits values are "public" too, in the
+sense of not being captured by their producers, but by the neighbors
+of the producers.
+     For these reasons we can speak of land cost as not serving very
+directly to elicit the stock of land, and to treat stock as inelastic
+to price. This is not to say the stock is fixed in a meaningful
+economic sense. Area is fixed, but the productive and want-satisfying
+                                  8
+potential of the fixed area is indefinitely expansible as spillover
+benefits from social progress and public works accumulate • But this
+process occurs mostly without the work of the landowner as such
+there is no direct market mechanism whereby the public value of land
+stimulates its own production.
+     High land costs do motivate landowners to intensify the use of
+their land, where zoning allows it. This is a vital economic function
+of land price, without which the limited stock of valuable land
+would be used wastefully. The good use of a fixed stock has many
+effects that resemble an increase of supply, and the two are often
+confused. A 20-story building on a site uses less land per unit of
+builthng.   When fill is dumped into the bay, use is made of a marginal
+underwater site. Higher land costs also takes land from lavish
+users-—sportsmen, gentleman farmers, nurseries, and so forth--and
+causes it to be used for the needs of those who are willing to pay a
+higher price for less land per capita. In the process, a new set of
+prices is established, which is a necessary condition to attain the
+new and more intensive use of land.
+     But there is only a weak and indirect stimulus from land price
+to motivate people to "produce" land for housing. High land prices
+might motivate local governments to extend public works. But it is
+the public equity in the land, as asserted through taxation, that is
+the direct motive. A higher private equity motivates public works
+insofar as it moves landowners to exert political pressure to promote
+public works.
+     With these relationships in mind, let us review the effects of
+lower interest (1) and tax rates (t). No longer are they parallel,
+but at odds, for the public and private equities are divided in the
+proportions of t and i. (Compare Eq. A14 in Appendix A, "The
+Mathematics of Land Costs.") The public share of rent is Pet, and
+the private share is P•i. If i fails, the public share of rent
+()    rises • This should motivate cities to extend public works.
+Thus it may, through the tortuous path of city councils, add to land
+supply.
+
+                                  9
+     A higher tax rate should motivate cities to add to land stock
+by extending public works because a higher tax rate means a higher
+public equity in land. Thus higher land taxes should not reduce land
+supply; rather, they actually can cause it to be increased.4
+b.   Some Administrative Practices
+
+     The points that land taxation can operate to increase the supply
+of urban land, and to lubricate the functioning of the market mech-
+anism, depend on the assumption that the tax system is administered
+in a certain way: that the tax base is an assessed value estimating
+the "opportunity cost" or best alternative use of land, and assessment
+is uniform. In practice this assumption is seldom perfectly met,
+and often not even approached. Let us now review the aspects of
+assessment and other practices most inimical to releasing land for
+low—cost housing.
+
+     (1) Exemptions. A large share of real property is exempt from
+the property tax. The privilege does not attach to the property,
+in rem, but to the organization - church, school, charity, foundation,
+brotherhood, cemetery association, state and Federal government, etc.
+It is therefore indefinitely expansible as these privileged groups
+accumulate more assets. Today, nore and more human activity is
+being channeled into tax— exempt institutions.
+          The privilege being granted by the state, the local govern-
+ment has only weak defenses against erosion of its real estate tax
+base. The result is to limit the use of the property tax because
+the privilege is naturally rth sost where tax rates are highest.
+Any municipality that taxes its property to provide superior local
+
+     4 • There is also some deliberate private production of land
+value to consider. Large private landowners can consciously plan to
+deliberately create spillovers--" internalize externalities"-—as in
+shopping centers, or other large, integrated land developments. If
+this were the predominant source of land values, indeed, the
+conclusion of the preceding paragraph would have to be reversed.
+On the whole, lowever, it is secondary to public works financed by
+government.
+
+                                 10
+services will be that much more attractive to tax-exempt institutions.
+Thus the very existence of the threat of invasion by exempt institu-
+tions serves to limit the positive good that might be done by raising
+tax rates on land.
+         The primary direct damage done to low-income housing by tax
+exemption, of course, is the withholding of land from home seekers.
+The exempt holder has lower carrying costs, and can outbid the taxa-
+ble rival for at least some land. In addition, exempt parcels in
+other uses, or unrelated uses, break up neighborhood symbiosis and
+synergism.   In a perfect market, the highest use of a site is generally
+that which maximizes the present value of the net income stream.
+Such a use would be most complementary to the use of neighboring
+sites.   This is most obvious in commercial centers. Churches,
+cemeteries, or schools at key places--which would t be located in
+a given site if they had to pay property taxes—-break up the integrity
+of retail centers, reducing their agg-regate power to satisfy wants,
+and sending retailers out in search of other sites. In this search
+they compete with homesite seekers over wide areas.
+      (2) Underassessment of Land. Although in some cases it does
+not matter how the total assessment is divided between land and
+building, in other cases to be discussed below, it does.
+           (a) Land under old buildings--When a builder buys an old
+"junker" and demolishes it, he obviously has bought land. The "land
+value" is the purchase price plus demolition cost. On the eve of
+demolition, therefore, old buildings should be assessed at zero or
+less (salvage less demolition costs); and the land be assessed
+at the full value of the parcel, or more. However, a study of about
+1500 demolitions in Milwaukee over the last six years has brought
+out that just before demolition the assessor attributed over half
+the assessed value to the building. This suggests that the assess-
+ment practice may be generally biased in favor of land. This practice,
+which probably prevails nationwide, has a number of effects inimical
+to the production of buildings.
+
+                                  11
+                First, it lets new buyers of "junkers" redepreciate
+much of the purchase price for income tax shelter, so long as they
+do not renew. The Internal Revenue Service accepts local assessorTs
+allocations of value between depreciable building and nondepreciable
+land.
+                Second, it puts a bias in favor of larger and more
+valuable grounds around buildings. If a parcel with a larger lot is
+assessed higher on account of the lot, it is not assessed enough
+higher when the proportion of the land to building is understated.
+Gasoline stations with wide aprons, for example, would receive lower
+assessments.
+                Third, to the extent that the assessment on neighboring
+vacant parcels is set and defended by comparison with nearby land, it
+biases downward and appears to justify low assessments on parking
+lots, unused land, vast grounds, etc.
+                Fourth, it makes an artificial incentive for owners to
+demolish old buildings of some residual value--often supplying low
+income housing——and leave land vacant, to lower their tax assessment.
+                Fifth, it partially converts the land tax into a tax
+on new buildings. Landowners may or may not succeed by demolition
+and waiting in keeping the land assessment down when they renew the
+site. Local practice varies widely.     In New York, it is comiwn for
+the land assessment to be raised when a new building goes up on the
+site. That practice makes the "land" tax partly5 a tax on new
+
+
+     5. It is still partly a land tax because on land of low value
+the land assessment could not rise much or at all when a new building
+is erected.    In
+                general, so long as the rise of land assessment bears
+some relation to the land value, and is not simply a fixed proportion
+of the building cost, it is partly a land tax. Indeed, it is con-
+ceivable that the increase of land assessment could be entirely a
+function of the land's market value and independent of the building
+value. Then it would act as a building tax in respect to       of
+renewal, but as a land tax in respect to intensity and quality  of the
+building. A land tax assessment administered this way would probably
+increase rather than reduce intensity when renewal occurred; the
+builder would want to minimize the amount of land whose assessment
+rose when he renewed the site. The net result would be sites renewed
+
+                                  12
+buildings, and provides an incentive to defer renewal. In some
+jurisdictions, sale of land is the occasion for reassessment, making
+the "land" tax really a tax on change of ownership, locking in old
+owners and penalizing new ones——usually builders.
+               It might seem healthier for builders, by comparison, if
+land assessments simply remained frozen on the occasions of building
+or sale; and there are cases of that, too. But that means gradual
+tax exemption for land altogether, putting the whole burden on build-
+ings, requiring a higher tax rate, reinforcing the disincentive
+effects of taxing buildings.
+               The proper standard against which to compare present
+practice is one in which land assessments are based on value, as the
+law directs. Value at any time is what the land if bare would sell
+for. It is value in the best alternative use: the economists'
+"opportunity cost." It is independent of present use or ownership.
+It changes year by year, usually gradually, as demands and neighbor-
+hoods change. A proper land assessment changes in step with these
+exogenous determinants, ignoring the specific response that individual
+landowners make to their environmental challenge. A simple test of
+land assessment technique is whether the assessor uses a map of land
+values that may be contoured, showing the dependence of land value
+on location. Most assessors, astoundingly, have no such map. Their
+assessed land values jump up and down from lot to lot.
+               The rarity of proper land assessment practice is
+attested to by the conmution aroused when an assessor applies it.
+Currently Assessors Francis Austin in Rosslyn, Virginia; Theodore
+Gwartney in Southfield, Michigan; and Irene Hickman in Sacramento,
+California are following the practice, apparently with positive
+results.
+
+"too much, too late." As we now observe durably constructed high-
+rise buildings rising in many downtown areas long overdue for renewal,
+it is worth hypothesizing that this pattern of land assessment practice
+plays a role in determining land use.
+
+
+                                 13
+
+
+
+
+ I                  FI                 I        I        I
+               (b) Appreciating Land. The Census of Governments in 1957
+     and periodically thereafter has supplied the most thoroughgoing
+     nationwide evidence on assessment discrimination. Underassessment
+     of vacant land was unquestionably the most extreme and consistent
+     discrimination. Many fragmentary earlier studies had shown the same
+     pattern, although obviously there have been periods (Like the 1930's
+     when vacant land was being abandoned for taxes) when this pattern did
+     not prevail.
+                    The pattern develops from several causes, other than
+     explicit intent. One is that assessors tend to confuse the
+     property tax with the in personam income tax, and base assessments
+     on present land use, income, and ownership, regardless of land
+     potential. Thus land used for fanning is regarded as "farm land,"
+     a class bearing lower assessments, regardless of urban value. Some-
+     times they confuse it with the welfare system and hold down assess-
+     ments for "widows and orphans," although here one must register
+     skepticism atout who is hiding behind the widow's skirts. Sometimes
+     they wait for a "happening," like a sale, raising the assessment
+     on the parcel sold but not on the neightoring parcels.
+                    Often assessors wait for subdivision. Subdivision
+     raises square foot values and differentiates parts of a tract, so
+     it is an occasion for reassessment; but assessors make it the
+     occasion to tax nDt merely the gain from subdividing, but all the
+     prior incrnent in acreage value as well. The effect must certainly
+     be to defer subdivision. Another probable effect is to raise density
+     in subdivisions in order to minimize the area of land whose assessment
+     rises. The last may be a saving grace for low-income buyers but if
+     it allocates capital inefficiently it is rot for long a favor to
+     low-income buyers most vulnerable to a shortage of capital.
+                    Another way to avoid subdivision and still profit from
+     urban demand is to sell off acreage having frootage on a road someone
+     else has paid for. The inefficient land-use pattern is commonplace
+     in urban fringes: individual driveways attached like
+     suckers to a tree trunk; interior acreage idle, or farmed. As this
+
+                                      14
+t.
+can occur without formal subdivision it costs the landowner less.
+If he avoids a tax increase as well, he is doubly motivated to subur-
+banize his land in this way, losing half of its potential to satisfy
+human wants.
+
+          Cc) Missized lots-- Assessors often regard the unit of
+assessment to be the lot, or ownership unit,   with its existing
+boundaries, rather than the square foot. Thus they can put a lower
+square foot value on a large   lot than a neighboring small lot,
+without seeming to depart from market value as the criterion. They
+do not assess unrealized tTplottage"——the gain from optimizing size of
+parcel.
+               Thus lots larger than the optimum are not assessed
+more in proportion to their land content. In newly dividing land,
+this puts a bias toward larger lots.
+               In older areas, where apartments are succeeding single
+family dwellings, the plottage problem is rather the reverse: lots
+below optimal size are assessed lower because they are too small.
+This strengthens the hand of holdouts, helps to make land assembly
+f or apartments more costly than it should be, and contributes to a
+pattern of "apartment sprinkle" in the inner city that, in terms of
+apartment intensities, is more extreme than "urban sprawl" at the
+urban fringe. It not only slows apartment building but also casts
+its own floating value pattern over interstitial land, pricing it
+too high for new low income housing other than apartments.
+          (d)   Zoning devices-- When assessors finally do catch up
+with rising market values of appreciating land, owners seeking to
+minimize their carrying costs have another bowstring in low-density
+zoning. Low-density zoning, if credible, holds down actual market
+values and so justifies low assessments and carrying costs. Even if
+it carries low credibility in the market, it may still get by in
+court and justify low assessments. The holder has the best of both
+worlds where low-density zoning is coupled with a lax policy of
+granting zxning variances and spot zoning to individuals at the time
+they are ready to cash in.
+                                   15
+                   Low-density zoning has become almost universal in
+    suburbs. The practice operates to keep low-income homeseekers Out
+    of a municipality because they have school age children and are
+    therefore feared to be net fiscal liabilities. The only effective
+    cowiterforce will be state school aid based on population or atten-
+    dance. But some suburbs even zone so low and strictly that they
+    virtually destroy the resale value of land. This succeeds in holding
+    down assessments and school costs, but would seem to be biting the
+    nose to spite the face. However, there are tax motives here, too.
+                      First, the loss of revenue may be largely to an
+    outside body, the county    or a large school district, rather than to
+    the municipality that imposes the zoning. In Wisconsin, with its
+    shared state income tax obviating property tax revenues for rich
+    municipalities, this is a common motive. The zoning is essentially
+    a species of fraud against the countywide equalization process,
+    sparing the suburbsT having to contribute much in county property
+    taxes, during the years while they await their capital gains that
+•
+
+    can result from generally increasing land values. These they will
+    reap at some future date, as yet undisclosed, when they will      change
+    their zoning and allow subdivision. Another force behind low-density
+    zoning    is the open—space conservation movement. On the whole
+    advocates of open space may be relied on to oppose cities, subdivisions,
+    and land taxes, on whatever gtound the issue may   be joined  ata given
+    time.    Although not explicitly committed to perpetuating ghettoes
+    and slums, open—space advocacy inspires low-density zoning and is a
+    powerful force to reckon with.
+            (3)   Delinquency With Option to Redeem. Most state laws grant
+    landowners extended rights to reclaim land after letting taxes go
+    delinquent for some years. In the late twenties and early thirties
+    it was common for speculators to hold land tax delinquent, on the
+    chance that it might appreciate. Should it do so, they could pay
+    their back taxes with light penalties. Should it not do so they let
+    it go for back taxes: heads they win, tails the county loses. In
+    the meantime the land was frozen, unavailable to builders; and those
+    who improved their own land had to pay taxes for them.
+                                         16
+     (4) Fighting Annexation by the City. Some landowners can
+ successfully resist annexation by the city. Often quite near the
+city center there are wild lands that the city cannot saddle with
+ services and taxes. In the absence of county zoning, wealthy resi-
+dent landowners generally use extra space f or insulation against
+nuisances that their neighbors might inflict: midget auto racing
+tracks, dumps, and so forth. Commitment of capital to individual
+wells and septic tanks, low capacity roads, and so forth during the
+early succession period strengthens resistance to incorporation and
+full urbanization, often leaving such lands for decades at much lower
+densities than
+          More cdmon is preemptive incorporation. Landowners in
+the path of urban growth established a "cityt' dedicated to being rural,
+or much less dense than the adjacent and sometimes surrounding city.
+Here a group of landowners manage to maintain a low density of land
+use. Snob zoning is used, but more is involved than zoning. Street
+and utility networks are kept primitive, so that tax rates may be
+low-—the "septic tank suburbs." These practices hold down the unit
+value of land for resale, a disadvantage to owners wanting quick
+cash, but an advantage to owners seeking deferred capital gains and
+minimum carrying costs for tax purposes.
+C.   Summary
+
+     The principle mechanism by which higher prices of urban land
+operate to increase the supply of land is through the local govero-
+ment, which provides the social investment necessary to convert raw
+or agricultural land into land usable for urban purposes. Through a
+wefl administered property tax system, the local government can
+also have a powerful financial incentive to increase urban land
+supply. The sine       non for a well administered property tax system,
+however, is to appraise land for tax assessment purposes in such a
+way as to reflect the economic or opportunity cost of the land.
+There is a widespread tendency to undervalue land for property tax
+purposes, which simultaneously is contrary to the stated intent of
+legislators when they write the tax laws. These assessment practices,
+                                   17
+         combined with low-intensity zoning, operate to reduce the supply of
+         land available for urban use, including housing. The lower supply
+         increases the market price of the land that is available.
+              An important policy implication of these points is that local
+         governments may have at their immediate disposal untapped resources
+         to cope with their financial difficulties. The property tax, poten-
+         tially, is a means of financing public works improvements which can
+         enhance the local setting and thereby increase land values. Conversely,
+         public works financed by high government units (e.g., state and Fed-
+         eral) can often operate mainly to enhance local land values in such
+         a way as to benefit only the land owners. This possibility suggests
+         that grants from the state and Federal governments to local govern-
+         ments should primarily be employed to provide support for services
+         oriented toward people, to include educational programs. However,
+         any program of grants to local governments must be very carefully
+         designed and administered if they are to achieve the effects pux'-
+    :1
+         ported for them, rather than being a mere transferra.]. of ederal
+         taxing power to state and local governments. Such actions, in turn,
+         contain a high probability of extensive Federal "interventionism"
+         in local government affairs, which creates a further set of problems.
+         3.   PROPERTY XES: ThR GENERAL SEITThG
+              The previous sections treating land costs and their relationship
+         to property taxes should be placed in a proper general setting.
+         Actually, property taxes are also imposed on all "real estate,"
+         including buildings and housing, and on "personal" property.
+         "Personal" property includes industrial equipment, machinery and
+         inventory, as well as agricultural and commercial inventory. Public
+         utilities, including railroads, telephone, and other service utilities,
+         also bear substantial property tax burdens.
+              Table 2 shows the extent to which the US property tax system
+         taxes assets other than housing, as well as housing.
+p
+
+
+
+
+                                          18
+                                  Table 2
+                     EFFECTIVE PROPERTY TAX RATES,
+                     BY MAJOR TYPES OF ASSETS, 1956a
+
+                                                                  Effective
+                                                   Property Tax  Property
+                                   Asset Value,0     Payments    Tax Rate
+     Type of Jsset                   (Millions)      (Millions)C (Percent)
+     Non—Farm Housing               $406,780          $5,195        1.28
+     Agriculture                     149,117           1,164         .78
+     Total Non-Farm Business          503,286          5,544        1.10
+     Selected Utilites and
+     Transport                       118,158           1,541        1.30
+     Manufacturing                   161,814           1,620        1.00
+     Other                           189,314           2,383        1.07
+
+
+     a. Source: Dick Netzer, Economics of the Property Tax,
+         (Washington, D. C. 1966) pp. 20, 28—29.
+     b. Asset value data primarily from Goldsmith; The National
+         Wealth of the United States (Princeton: Princeton Univ.
+         Press, 1962).
+     c.   Property tax data from the Census of Governments, which
+          encompasses fiscal years exxiing in 1956—57.
+
+     When viewed in this broader context, it is apparent that the
+property tax operates as a general tax on the earnings or income from
+wealth, including land. As such, it can cause the private earnings
+from all investment activity to fall and it lowers the rate at which
+all asset. earnings are capitalized. For example, if the before tax
+rate of return on new investment is 10 percent, a property tax system
+which taxes 17 percent of thtal net asset earnings will lower the
+capitalization rate to 8.3 percent. In 1966, property taxes amounted
+to 17 percent of total asset earnings in the United States. Table 3           t
+shows the derivation of these estimates.
+     Table 3 also illustrates that property taxes have increased in
+both their absolute and relative impact on property earnings. A
+recognition of this general character of the US property tax system
+has two important implications.
+                                    19
+                               Table 3
+            DERIVATION OF ASSET EPRNINGS, 1956 and l9G6
+                         (Millions of Dollars)
+
+                                             1956          1966
+    Net National Product                    384,768       697,782
+       Employee Compensation                242,502       435,719
+       Property Earnings
+         Corporate Profits                   41,990        82,196
+         Rental Income                       10,913        19,374
+         Net Interest                        11,716        20,163
+         Property Taxe&                      12,147        25,392
+       Total Property Earnings               76,766       147,125
+       Total Earningsc                      319,268       582,844
+       Property Earnings as
+       Percent of Total                          24.0        25.2
+       Property Taxes as Percent
+       of Property Earnings                      15.8        17.3
+
+    a. Source: Survey of Current Business, July, 1961, 1963
+        and 1967.
+    b. Comprises property and vehicle license taxes identified
+        as "business" taxes, and classified as an element of
+        "indirect" business taxes in the national accounting
+        scheme. Does not include an element of property taxes
+        (specifically personal property taxes and vehicle license
+        taxes) imposed on individuals which in the national
+        accounting framework are classified as "personal" taxes.
+        In 1966, these taxes were $1,956 million.
+    c. Remainder of net national product claimed by non-farm
+        and farm proprietors (which the national accounts do not
+        identify in terms of labor and non-labor earnings), and
+        the non-property tax elements of "indirect taxes"--speci-
+        fically sales and excise taxes.
+
+    First, to produce the effects on land values discussed in
+Section B of this Study-—whereby a land tax is "capitalized" and the
+market price of land falls-—land yielding an economic or differential
+"rent" must. be taxed at a higher rate than other assets are taxed.
+If land earnings are reduced by only the same proportion as are the
+                                   20
+earnings of other assets, the capitalization rate and the land
+earnings fall by equal proportions. Lower earnings are discounted
+by a proportionally lower rate, and land values remain unchanged.
+     On the other hand, to the extent that land is not as heavily
+taxed as are other assets, Like improvements and industrial assets,
+possibly as a result of assessment practices   discussed above, land
+values will be higher than they would otherwise be. Land thus becomes
+an attractive asset to hold; and improvements on it may be discouraged
+insofar as they call the assessor's attention to reappraise it.
+Property tax administration appears to be a critical factor in urban
+land cost and use.
+      The general nature of property taxes causes many students to
+ignore a second important point when they focus on the subject of
+housing. Some students suggest that the property tax is an important
+cause of high housing costs in urban areas.6 The policy implication
+is that property taxes should be reduced. For example, a property         4
+
+worth $20,000 in an urban area might bear an annual property tax of
+$400 to $600 which would be an effective tax rate of 2 to 3 percent.
+Thus property taxes, along with martgage interest, appear to be a
+major iten in the annual, or "full cost" of housing services. The
+property tax is thus viewed as a "consumption" tax. It is also
+tempting to translate property tax liabilities into estimates of the
+"burden"   they place on housing owners and occupants (as consumers) as
+a percentage of their income.7 Thus it is held that property taxes
+especially burden the poor since they allegedly spend a larger share
+of their income on housing than do middle and upper income families.
+     This line of thinldng warrants careful examination. First, it
+does not fully take into account the fact that property taxes are
+"general" insofar as they are imposed on property other than housing.
+
+     6.    See e.g. Dick Netzer, Impact on the Property Tax: Effect
+on Housing,. Urban Land Use, Local Government Finances (printed for
+the use of the Joint Economic Committee) Washington, GPO, 1968.
+     7. Ibid, p. 19.
+
+                                   21
+    Consequently, the property tax may be considered to be a tax on
+    wealth generally. Viewed in this way, the property tax simply re-
+    duces the earnings of the wealth and of property owners generally--
+    including landlords (rich and poor) as well as low income individuals
+    who own their homes.
+          A recognition of the general impact of this tax does not deny
+    that if the tax were eliminated from housing but kept on other assets,
+    an increased flow of investment into housing would be encouraged.
+    However, a recognition of this possibility only means that tax
+    exemption of some selected activities, when all other activities
+    are taxed, is a subsidy and can indeed increase the output and reduce
+    the price of the subsidized commodity. It would be equally appro-
+    priate to recommend that businesses and workers engaged in housing
+    construction be exempted from income taxes • Such exemption, by
+    making housing activity attractive relative to other activities would
+    stimulate the flow of workers and capital into the housing sector.
+         Second, to the extent that tax assessors in urban areas may in
+    fact be imposing heavy taxes on land values, and to the extent that
+    those heavier taxes are reflected in lower land values, the effective
+    tax rate, i.e., the ratio of tax to the market value of the property,
+    will be high. Empirical evidence of high effective property tax
+    rates in urban areas (particularly central cities) may in fact
+    reflect heavy taxation of the favorable location of the property.
+    If such tax capitalization has occurred, lowering of property taxes
+    may only operate to enhance the earnings of the land owners, and to
+    increase land values. No reduction in housing costs will occur.8
+         In summary, property taxes should not be viewed as "consumption"
+    taxes-—on housing or anything else. Rather, they reduce the earnings
+    from creating and holding assets (which is the main reason property
+
+         8 • Prof. Netzer's cited works (especially his Economics of the
+    Property Tax Washington: Brookirgs, 1966 ) take this effect into
+    account in his excellent treatment of site value taxation. However
+    we believe that he has not yet fully incorporated that analysis into
+    his general statements about forward shifting of the property tax.
+    Nor has he given due weight to the fact that even taxes on buildings
+    may be borne by landowners in the form of reduced land values.
+                                    22
+
+
+I
+owners complain about them).    Given an overall level of asset taxation,
+higher taxation of land earnings due to favorable location can reduce
+the market price of land and capture for the local goverrmtent a share
+of the land rent. Under-taxation of land, on the other hand, benefits
+only the landowner and causes the market price of land to be higher.
+Tax relief for housing in densely populated urban areas may or may
+not benefit consumers of housing. To the extent that it does not, it
+makes landowners more wealthy; to the extent such tax relief does
+benefit housing consumers, it does so only insofar as the property
+tax system is simultaneously taxing other kinds of assets more heavily,
+and in this fashion is forcing capital investment out of nonhousing
+activities and into housing. In this case the property tax system
+is operating to subsidize one forn of consumption at the expense of
+others • In most cases, property tax relief f or housing in urban
+areas will probably exert effects both favorable to landowners and
+to subsidized housing consumers.
+
+
+
+
+                                   23
+                                                     C.
+
+                         THE FEDERAL INCOME TAX AND LAND VALUE
+
+
+The Federal income tax system is characterized by major differences
+in the rates at which different kinds of earnings or gains are
+taxed: personal income at a scheduled rate of 14 to 70 percent,
+corporate profits at 48 percent, and realized long-term capital
+gains at one-half the personal or corporate rate or a maximum
+of  25 percent or at a minimum of zero percent. Important items like
+depreciation (particularly accelerated forms of depreciation),
+interest on borrowed money, and charitable giving are deductable for
+purposes of computing taxable income. These and other features of
+the Federal tax system combine in ways to make land an especially
+attractive vehicle by which taxpayers can reduce their income tax
+liabilities, and in this fashion increase land prices and hold land
+of f the market.
+
+1.       COVERT WRJTBDFP OF UNDEPRThTED AND APPRECIATED LAND VALUE
+
+       Urban land is nondepreciable for tax purposes, on the ground
+that it is physically indestructable. If a nondepreciating asset
+could be written off, its income would achieve complete tax exemption
+as foflows: Let t be the income tax rate. When the taxpayer writes
+off the asset, he reduces his tax liability by that amount, and his
+tax payments by t percent of that amount. Now the Treasury has put
+up t percent of the value of the asset. It also receives t percent
+of the income of the asset. Thus the Treasury simply receives a
+return on its investment. As for the owner, he has now invested
+only (1-t) percent of the value; and he gets (l.-t) percent of the
+income. On his equity9 he would earn a tax—free income in perpetuity.
+
+       9. We assume 100 percent equity financing, f or expository simpli—
+city. Actually the game is leverage, or using borrowed funds to finance
+the venture. The mortgaged landowner who writes off land could easily
+end up receiving income on no equity at all.
+                                                    25
+     The way to write off land is to buy it under an old building
+and allocate most of the acquisition cost of the property to the
+building, which is depreciable. If the remaining life of the building
+is short, it is rapidly depreciable (although there are limits to
+what one can get away with). The IRS has no well organized defense
+against this practice. It permits taxpayers to use the land-building
+allocation reported by the local tax assessors as evidence supporting
+their allocation. These allocations consistently understate the land
+component by a very large factor.
+    Covert writeoff of land is a factor above and beyond the multiple
+writeoff of buildings. This latter is a more or less intended con-
+sequence of accelerated building depreciation, which reduces book
+value of the depreciable asset below its remaining resale value.
+Land depreciation occurs when the buyer of an old building allocates
+less value to the land than it had originally, eventhough it has
+not declined; or allocates the same, even though it has risen.
+     There might seem to be recapture of land writeoff when one sells
+and pays a tax on the excess of sale price over book value. But this
+tax is twice diluted. First, it is deferred until sale, whereas
+writeoff came earlier. Second, it is at capital gains rates; the
+writeoff was from ordinary income. If the owner never sells there is
+never an occasion to recapture.
+    But actually taxpayers can do even better than that by selling,
+because the buyer starts writing off the land all over again--no
+matter how many times it was done before. Thus land, which the law
+says is not supposed to be depreciated at all, is written off several
+times. The only proviso is that it must remain under an old building.
+      Were it not for this device, the income tax might prosote urban
+renewal. Once the initial cost of a building was ccanpletely written
+off, accelerated or not, its current cash flow would be fully taxable.1°
+
+     10.   Indeed, if a building underwent locational obsolescence due
+to land appreciatian, writeoff should end before the life originally
+contemplated, as soon as the "challenger" land value equalled the
+"defender" value of land with old building.
+
+                                  26
+Thus in the year after the last allowable writeoff, the slum owner
+would suddenly face a much higher tax bill. If he wanted a tax
+shelter in real estate, he could get it only by actually building; not
+by redepreciating old slums.
+     But under present practice the surest way to lose the privilege
+of depreciating land is to clear it and erect a new building. For
+then the IRS perceives that what was bought was not the depreciable
+building but the nondepreciable site underneath it. It denies
+writeoff. Even demolition cost is nondepreciable. Or, if there was
+no recent purchase, the IRS allows depreciation only on the cost of a
+new building construction, not the land. The net effect: an owner
+can depreciate land so long as he does not improve it.
+     Thus the tax law biases owners of older buildings to delay
+renewal, to milk the last drop of tax shelter out of old buildings
+before releasing the land for new.
+
+2. EXPTIONS
+a.   Exemption of Imputed Income
+     Durable goods used for the owner's consumption yield an income
+"in kind" that is not taxed. The price of land is more affected by
+this than is that of other assets because the service flow from land
+is 100 percent income—-no wearing out.
+     The availability of land that builders might use is reduced in
+urban fringes by the high propensity of the affluent to "reside"
+over considerable acreage • Teamed with large-lot zoning (which holds
+down assessed values and property taxes), expensing of taxes arEl
+interest, expensing of "conservation" investments, capital gains on
+breeding stock, indefinite deferral of tax on sale of "residence,"
+and a host of favors to deferred land increments (all to be treated
+later), this exemption of imputed income serves greatly to fortify
+the holdout power of landowners surrounding every city.
+     It is true, of course, that buyers of new homes on this same
+land would also enjoy the exemption of imputed land income, partially
+neutralizing the bias. But there is normally a tax-bracket
+                                   27
+differential--appreciating suburban land gravitates to the strongest
+hands. Higher prices mean higher credit barriers all around, screen-
+ing out the poor. Where the new use is an apartment and the income
+is taxable there is no offset at all-—that is, there is an unmitigated
+or total bias against apartment owners and renters.
+
+b.   Exemption of Unrealized Appreciation
+     The form of income known as capital gains is rt taxed until
+realized by sale.11 If the land is never sold, there is no tax.
+Some landowners therefore prefer to lease ripe land rather than sell--
+prominent examples are the Big Five of Oahu. Others prefer to buy
+many years in advance of their own anticipated needs, even very
+conjectural ones. When and if the needs materialize, they have on
+tap needed land, now of high value, acquired at a low value. The
+difference is tax-exempt income. The motive is strengthened by, and
+mutually strengthens, the motive to acquire advance reserves of a
+raw material whose supply is jeopardized by the absence of a vigorous
+free market. The coml,ination magnifies the area of reserves which
+individtials and finns find it advantageous to hold. Thus it raises
+the holdout price of land.
+c. Capital Gains at Death
+     Capital gains taxes on appreciated assets are forgiven at death.
+There are death taxes to pay instead, but these would also be due on
+whatever other asset was substituted for appreciated land. It is
+therefore very costly for individuals to sell any appreciated asset
+during a period of several years before death; usually land is just
+held off the market.
+d. Bequests
+     Eleenosynary bequests of appreciated land enjoy exemption from
+capital gains tax; yet they are fully deductible at appraised value
+for purposes of computing taxable income. Thus the taxpayer can
+
+     11.   Eisner v. Macember, 252 U.S. 189 (1920), 40 S. Ct. 189.
+
+
+                                  28
+deduct a value which he has accumulated tax free, in addition to
+enjoying the prestige and satisfaction of supporting his favorite
+church, college, or foundation. This adds to the motives to hold
+land for appreciation.
+     Another aspect is the gift with life estate. Under this arrange—
+rnent, the taxpayer deducts the appraised value at time of bequest,
+but enjoys use of the home and grounds for life with no tax on the
+imputed income. During this period he cannot sell and the land is
+frozen.
+
+e.   Capital Gains of Eleemosynary Owners
+
+     Churches and other tax-exempt owners are normally not allowed
+exemption on business-type, profit-making activities. The exception
+is gains on land sales. The central city church that goes suburban
+takes the full selling price along with it. Edified by the experi-
+ence, the church will probably select a large site with ample grounds
+and parking space, with one eye to future tax-free gains. It may buy
+its future site years before it is ready to build. Cemetery associa-
+tions especially are large land speculators which benefit from this
+provision. The benefits from income tax exemption are usually coupled
+with exemption from local property tax.
+
+
+3.   DEFERRAL OP TAX ON REALIZED APPRECIATION
+
+     Land value can appreciate in two ways. First, its value can
+increase due to increased population and growth, which increases
+the relative scarcity of its services. Second, inflation can
+increase the money value of its services. Both these forces can
+operate to increase the value of all assets, including those which
+can be produced but which depreciate with use. However, land-—because
+it does not depreciate with use, or because it is especially long
+lived--possesses more potential to increase in value from these
+forces.
+     This characteristic of land combines with the "realization
+doctrine" embedded in the Federal income tax to make the
+long-period holding of land a very attractive tax shelter. The
+
+                                 29
+    essence of the realization doctrine is that gain cannot be taxed
+    until the taxpayer actually realizes it through a sale or other
+    explicit transaction. Appreciating land is Like a corporation that
+    does not distribute profits to avoid taxation of dividends, but plows
+    them back into capital and lets the shareholders realize the income
+    at their tax convenience in the form of appreciated stock values at
+    capital gains rates. This loophole for corporations has been
+    recognized and somewhat compensated by the double taxation inherent in
+    the corporate income tax. In the case of appreciating land, however,
+    there is no such compensating device. There are rather a number of
+    fortifying loopholes, discussed elsewhere.
+         The desire of landholders to defer taxes on gains is often
+    colloquially described as the "locked-in" effect. To show the force
+    of the locked-in effect and its tendency to defer sale, Table 4
+    shows how after-tax rates of return increase with holding periods.
+            Table 4   is derived from a formula that assumes that selling
+    price of land rises yearly at an assumed rate i. A tax rate, t,
+    is applied to the excess of sales price in any year, (l+i)X, over
+    cost of l at time zero. The landowner's rate of return after tax
+    is r.
+                             (l+r)X = (l+i)X (1-t) +t                       (1)
+            Using a standard set of interest tables, Table 4 shows numerical
+    examples    of how r rises with x, the year of sale.
+         The speculator who sells in one year bears the full stated
+    tax rate--his rate of return is halved, as the nominal tax rate of
+    50 percent contemplates. The speculator who sells in 20 years bears
+    less than three-fourths of the nominal tax rate. The old settler
+    who waited 50 years bears less than half the tax rate.
+            At the same time that investors seek to defer tax liabilities
+    they seek to advance deductions. Here the landowner again receives
+    favorable treatment because he deducts his holding costs as he spends
+    the money--i.e., he "expenses" local land taxes and interest on borrowed
+    money, even though the increment of land value which they finance will
+    not be taxable for many years to come, if ever. Hence, even without
+    preferential treatment of capital gains, the realization doctrine makes
+                                          30
+
+
+
+I
+land an attractive investment. Taxation of realized gains at lower
+capital gains rates makes holding land even more attractive. But even
+if long term capital gains were treated as ordinary income, the reali-
+zation doctrine would still make land holding attractive.
+                                    Table 4
+       AFTER-TAX RATE OF RETURN FOR DIFFERENT HOLDING PERIODSa
+
+                                           Value of 1
+                                          Compounded at
+                                            After- Tax
+                    Value of 1            Rate of Return
+                 Compounded at 8%          for x Years       After-Tax
+Year of Sale        for x years               (r.04)       Rate of Return
+      x               l.08x                   (l+r?              r
+      1                    1.080                1.04           .040
+       5                   1.469                1.24           .043
+      10                   2.159                1.58           .047
+      15                   3.172                2.09           .050
+      20                   4.661                2.83           .053
+      25                   6.848                3.92           .056
+      50                  46.902                23.95          .065
+     100             2199.798                 1100.40          .072
+                            ——                   ——            .080
+
+     a. Based on the equation:
+               (l+r)' =    (l+i)'
+                                (l—t) +t =      l.08'
+                                                 •
+                                                   1/2 + 1/2 when
+r is after-tax rate-of-return to land owner for different holding
+periods, when the rate of appreciation before tax (i) is constant at
+8%, tax rate (t) is 50%, and acquisition cost of $1 is deductible
+in year of sale (x).
+
+
+4.   DEFERRAL OF TAX BEIOND DATE OF SALE
+
+a.    Sale of Residence
+     If an owner sells a residence, the tax is deferred so long as he
+buys another residence within a year. Under large lot zoning, five
+or ten acres of grounds would probably qualify as part of the
+"residence," although local administrative practice varies.
+
+                                     31
+b.   Deferral of Tax by Barter
+     If the grounds qualify as a "farm" the owner can barter it, tax
+free, for a larger "like property" further out of town. The new
+owner has a higher basis--the appraised value at time of barter-—
+and can subdivide and sell off without tax on the pre-barter increment.
+Or he can hold for further appreciation, the tax on which he too can
+defer in the same manner. Section 1031 of the Internal Revenue Code
+provides: "No gain or loss shall be recognized if property held for
+productive use in trade or business or for investment (not including
+stock, etc.) is exchanged solely for property of a like kind to be
+held either for productive use in trade or business or for investment."
+There is a good deal of "tailoring" of transactions to fit the letter
+of Section 1031. An investor whose intent is to buy a suburban farm
+for cash will first buy a rural farm, satisfactory to the prospective
+seller, and then barter farms with him. Or he might buy other
+suburban land for barter. The other land of "like kind" might also
+be a golf course, dump, drive-in, airport, nursery, etc. A network
+of brokers' clubs has developed to arrange such bartering. Thus a
+ready avenue is open to suburban land speculators to defer taxation
+of capital gains.
+     Section 1031 is not an unmixed evil for low—income housing. It
+unlocks some locked-in investors by letting them release their land
+to commerce without tax penalty on the transaction. On the other
+hand, it makes land speculating more attractive and so tends overall
+to inflate the level of land prices. The seller, too, is still locked
+into his "like property," which may be a rural farm--a big factor
+inflating farm land prices--but may also be another suburban farm.
+c.   Deferral by Installment Sale
+     The affluent seller who is in no hurry for cash, or whose strong
+credit enables him to obtain cash by borrowing, may defer tax on land
+sale by the installment device. He must be the mortgagee. He must
+not take a down payment of more than 30 percent of the selling price.
+     An important incidental benefit of this method of sale is that
+a large share of the interest on the deferred payments may be treated
+as part of the contract price and receive capital gains rates. Only
+a 4 percent rate must be treated as interest, at simple interest rates.
+                                 32
+Mortgage interest rates today are about double that, at compound
+interest. So contract prices are inflated to reflect the buyer's
+benefit from borrowing at 4 percent simple interest from the seller;
+and the seller takes his interest above 4 percent at capital gains
+rates.
+       The longer the installment period, the greater the difference
+between simple and compound interest. So sellers who can wait a
+very long time for cash can get capital gains treatment on all
+compound interest above 2 percent or 3 percent, depending on the
+time involved.
+      A variant of installment sale is the "land contract." The
+seller instead of conveying title and taking a mortgage, retains title
+until payments are completed. If payments come in slowly this method
+is rather like rental, but with the tax benefit of capital gains
+treatment for all payments on principal representing taxable gains
+to the seller, and all interest payments above 4 percent simple.
+Thus a good deal of oixiinary rent income receives capital gains
+rates.
+
+d.    Simple Prorating of Installment Payments between Interest and
+      Principal
+     Whenever a debt is paid off in level installments, the true
+proportion which is interest is a maximum in the first year when the
+unpaid balance is a maximum, and falls nearly to zero in the last
+installment. The necessary sinking fund tables to find the true
+proportion are the common property of bankers, and no deep mystery.
+Simple prorating of level installments between interest and principal
+theref ore constitutes a deferral of tax liability relative to an
+accurate accounting--another benefit from installment sales.
+e.    Contract Price Contingent on Buyer's Profits
+
+      If the contract price is contingent on the buyer's profits from
+the land, the seller need not prorate early payments between interest
+and   recovery.   He treats all payments as nontaxable recovery of
+principal until he has recovered his full basis; and only then does
+he begin to pay taxes on his cash receipts.
+                                    33
+f.   Condemnation
+     If land is condemned, as for highways or urban renewal, the tax
+on gains is deferred if the unwilling seller reinvests in like prop-
+erty within a year.
+
+
+5.   DEFERRAL OF INCOME P1)M LAND USE
+
+a.   "Implicit Expensing" of Foregone Income
+     There is often an intertemporal dependence of land rents.
+Sacrificing early rents to get higher later ones is a form of invest-
+rnent, basically quite legitimate. However, the income tax biases
+landowners toward more of this kind of investment, because the fore-
+gone early rent is plowed back without ever having been received and
+taxed.
+     The effect is the same as though the early foregone rent were
+received in cash and then reinvested, and granted the valuable tax
+privilege of being expensed. This is "implicit expensing." Expensing
+of capital investments, we have seen, is tantamount to 100 percent
+exemption from income tax.
+     An example of how implicit expensing decreases the availability
+of land to builders is the following. As a district or neighborhood
+fills in, the early builders establish a pattern of use. The more
+of the land is developed, the more certain become the specifics of the
+highest use of the remaining undeveloped land. Thus certainty improves
+over time. This has always supplied a certain rationale for deferral
+of land development, even before income tax rates were significant.
+But now the early foregone rent--the investment in greater certainty--
+is expensible (implicitly, that is.) This encourages individuals to
+withhold land to achieve greater certainty. &Lnce the individual's
+gain of certainty is achieved by imposing uncertainty on other land-
+owners, there is no net social gain to justify a subsidy to this
+kind of withholding.
+     Another familiar example is the effort of large developers to
+attract the highest possible stratum of the market, at the expense of
+
+                                  34
+some waiting. Early sales to wealthy buyers are thought. to tone up
+a subdivision and erthance later sale prices, if not volume. Thus a
+bias toward high pricing and slow sales results. The income tax
+exaggerates it. The loss of potential income from idle land is
+"implicitly expensed." The same reasoning applies to apartment
+management which holds rents above the level that would fill the
+building quickly. Implicit expensing is involved not merely in the
+year-to-year management but in the original decision to put up a
+building whose units cater to higher tastes than the broadest and
+most frustrated stratum of the market can now afford.
+     A third example is the new towns movement. These have ideal tax
+shelter properties. Early operating losses are expensible; the final
+payout is the land value increment, taxed very lightly. Many towns
+have foundered by overestimating the increments and using too much
+leverage,  but the point here is that the tax structure helps them
+divert land from meeting the most urgently felt current needs in order
+to prepare land for tomorrow's alleged needs as envisaged by the
+founders, their advisers, and the aesthetic taste dictators
+of the architectural haut monde. Too often they were rich ments
+hobbies and status symbols.
+     A fourth example is the California zoning device whereby large
+landowners can have their development density measured as a whole.
+They can raise density in parts of their land if they keep the average
+down to the required level. Their response is to begin at densities
+below the average, building up zoning "credits" to apply later to
+apartments after the integrated development has become established.
+The unreaped rents of the unused land, meantime, are implicitly ex-
+pensed.
+
+b.   Explicit Expensing of Early Operating Losses
+
+     It is possible in several ways to appropriate control over
+territory by establishing an early position. An example is the effort
+of retailers to establish an early position in growing suburban
+territory. Here the bias is toward premature development--but not of
+housing, as a rule. How does this work?
+
+                                 35
+     Retailers establish new positions around every growing city.
+Where there is room for only one store, or shopping center, or only
+a few gas stations, to be there first is to establish a species of
+franchise over the trade area, at least for several years. The
+early losses are expensible; the taxable income is deferred, and
+might even be taken as capital gain by sale of land.
+     Thus, areas best suited for residential use are subject to
+premature invasion by commerce, a higher use. The "floating value"
+that results, diffused over wide areas, inflates values above the
+residential level, without, however, raising them enough to stop the
+commercial demand. This drives residential builders farther out,
+where high density residential use establishes a floating value over
+areas best suited for low density use.
+    While the homesite seeker is thus pressed from above by the higher
+use of commerce, he is pressed from below by the farming   interests which
+also enjoy extraordinary privileges. "Farmers" may expense many
+capital investments in soil and water "conservation." The gentlemen
+farmers who sink money in farms have become a conspicuous case in
+point.   A recent U.S.D.A. study, based on 1963 tax returns, shows
+that most wealthy taxpayers who own farms report farming losses.
+Of 3.2 million individuals who filed tax returns including farm income,
+66,000 reported combined farm and non-farm incomes over $25,000.12
+Of this top group two-thirds reported farm losses. Their alleged tax
+losses are only current. They are expensed from ordinary   income,
+usually urban, to be recouped later at capital gains rates by sale of
+a greatly improved farm. Soil and water conservation are likely to
+hold the land in agriculture until the tax-motivated farm improvements
+have been used for farming.
+     The cost of establishing orchards also is expensible, and the
+unrealized rent of the land used for an orchard's early nursery years
+
+     12. Edward I. Reinsel, Farm and Off-Farm Income Reported     on
+Federal Tax Returns (ERS-USDA, ERS-383), August, 1968, p. 25.
+
+
+
+                                  36
+enjoys implicit expensing. The competitive strength of horticulture
+against housing is thus enhanced.
+
+6.   SUMMARY ON THE FEDERAL INCOME TAX
+
+     It seems reasonable to assert that the Federal income tax
+operates in such a way as to encourage land holdout and so increase
+urban land prices. It also stimulates consumption of owner occupied
+housing and land by income tax payers. It stimulates, through
+accelerated depreciation, construction of office buildings and rental
+apartments for moderate and high income renters. Each of these
+factors, by forcing up the price of land, impacts unfavorably upon
+housing costs for low-income individuals.
+     It is tempting to suggest changes in the Federal tax system
+that would "improve"   this situation as it applies to housing. The
+present Federal tax system is exceedingly complex: changes in one
+part of the system usually create inequities or difficulties in other
+parts. To close one man's loophole makes the remaining ones stand
+out even more; and to eliminate one set of the loopholes or shelters
+while leaving others untouched may itself be a form of inequity.
+Nothing short of a sweeping reform of  the entire system may suffice
+to restore some semblance of neutrality to the impact of the Federal
+tax system as it affects land use and housing, and a number of other
+elements of our economic system. It may be concluded, however, that
+land income receives unusually favorable tax treatment; that the
+favors are granted in such ways as to encourage land holdout and
+price inflation; and that there is probably scope for legitniate
+reduction of housing costs, without subsidy, via review and revision
+of the income tax features discussed in this paper.
+
+
+
+
+                                  37
+

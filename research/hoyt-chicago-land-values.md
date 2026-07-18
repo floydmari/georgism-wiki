@@ -328,6 +328,7 @@ outcome claim.**
 
 - [Lewis (1965): Building Cycles and Britain's Growth](/wiki/lewis-building-cycles/) — the British counterpart to Hoyt's Chicago study, cited by Harrison for a 17.4-year average cycle duration
 - [Chicago](/wiki/chicago/)
+- [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — a companion 1890s Chicago political-history workpaper (Altgeld, the 1894 Bureau of Labor Statistics land-concentration study) this page does not otherwise document
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/)

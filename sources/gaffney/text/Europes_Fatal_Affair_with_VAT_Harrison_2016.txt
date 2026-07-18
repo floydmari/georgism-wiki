@@ -1,0 +1,1917 @@
+Beyond Brexit: The Blueprint
+
+100
+Europe's fatal affair with VAT
+
+Europe's fatal affair
+with VAT
+
+Mason Gaffney
+
+As austerity drives Europe deeper into insolvency and loss of competitiveness, the
+political crisis is coming to a head. Economic stagnation is inextricably associated
+with the way governments raise revenue. One of the European Union’ policies,
+
+the Value Added Tax, has inflicted a pernicious and persistent cost on 500
+million Europeans. For as the VAT tax-take grew, banks and public exchequers
+grew mutually dependent, together building a house of cards based on future tax
+revenues — revenues that VAT does not and cannot provide, even as it chokes off
+productive commerce and industry and employment opportunities.
+
+In 2014, the 28 members of the European Union used VAT to collect €975,900
+million (equal to 7% of GDP). By the time the people of the United Kingdom
+voted in their Brexit referendum in June 2016, the tax-take was about €1 trillion.
+
+This means that the losses stemming from VAT alone were €1 trillion: that is the
+sum on top of what was collected. It is the measure of what the nations of Europe
+could have produced and enjoyed if, instead, their governments had employed the
+one revenue raiser that does not distort economic behaviour. And yet, economists
+
+fail to highlight these distortions as breaches in the dikes guarding Europe from its
+encroaching sea of troubles.
+
+As a customs union, the EU imposes tariffs which inflict further losses of
+wealth and welfare. Tariffs, like all taxes based on transactions in the marketplace
+(‘taxable events”) have effects similar to VAT, mutatis mutandis.
+
+The excess burden of taxation is a worldwide problem. An ideological collective
+of economic scholars and statesmen stands idly by while the defences around their
+communities are systematically eroded. Worse, many rationalize and endorse
+VAT, supported by the cartel of international agencies and banks that promote
+‘harmony in taxing, lending and collecting. Contrary to the stridently expressed
+views of libertarian commentators, Europe has not reached the limit of its taxable
+capacity; rather, it needs a better fiscal system and philosophy, with higher tax rates
+on narrower and less elastic and less dynamic revenue bases.
+
+101
+Beyond Brexit: The Blueprint
+
+102
+Europe's fatal affair with VAT
+
+1
+
+What's the matter
+with sales taxation?
+
+N AUGUST 2011 S&P Global Ratings lowered the credit rating of the
+
+U.S. Treasury. We held our breath, thinking this might be the tipping point
+before a flight from the dollar. Our Congress, deadlocked, quarrelsome and
+dysfunctional, seemed to deserve it. And yet mobile international capital saw
+something, spited S&P, and stayed with US Treasury securities. It seems that we
+must be doing something right, or at least less wrong than other nations. I would
+not breast-beat about “American Exceptionalism.” I deplore our nation’s faults,
+and failure to face them and reform them. I deplore it when some primitive calls
+it unpatriotic to spotlight our faults: how else can we see and cure them? At the
+same time it is foolish to preach that we must emulate Europe, when Europe is
+sliding downhill faster than we, and floundering as it slides.
+
+I build a thesis around a simple, if partial answer: the USA is the only major
+nation lacking a national-level sales tax (or VAT or GST). At the same time we
+raise a higher fraction of our combined national, state and local revenues from
+taxes on property, and income from property, and from bequests of property.
+The fraction is not justa little higher, but plain to see even without the microscopes
+of modern theory and econometrics. True, our fraction of revenues raised from
+property has been trending downwards for half a century, but even so is still many
+times higher than in Europe, or in most nations of the world.
+
+A major talking point among corporate spokesmen is to contrast the U.S.
+nominal corporate tax rate with those of other nations, which have recently
+become lower. Therefore, they say, we must lower ours, to make us “competitive”
+(today’s buzzword). They give the impression that the income tax base is gross
+income. I will show below that any income tax, personal or corporate, is less
+depressive, and has less excess burden, than any sales or excise tax or VAT,
+however “general.” That is partly because labour costs are deductible from
+taxable income. In addition, earlier economists like Musgrave and Domar and
+Commons and many others showed that deducting capital outlays may lower
+the effective income tax rate on investing in new capital goods, often to zero
+and even below. As Anne-Robert Jacques Turgot, an outstanding public servant,
+
+103
+Beyond Brexit: The Blueprint
+
+economic philosopher and social reformer wrote, even longer ago, investing is
+“the beneficial and fruitful circulation that animates all the work of society...”
+
+It is true that nominal corporate income-tax rates in the USA have moved
+recently to the #1 rank among major OPEC nations. That is not, however,
+because our rates have risen; rather, others have fallen. Italy’s rate, for example,
+has dropped from 52% in 1962 to 27% in 2012, a huge fall of 48%, while Italy
+replaced the revenues by raising its VAT. If Italy had prospered, it might prove
+the point urged by corporate lobbyists. However the well-known fact is that Italy
+has fallen to beggar status in the EU. It is the biggest beggar among the failing
+“PIIGS” nations.' This is the more remarkable considering that European VATs
+generally are of the “consumption type” that lets one expense investments.
+
+Today, U.S. economists and politicians of left and right are moving toward
+a pessimal consensus: lowering tax rates on business and rentier incomes is
+acceptable so long as Congress also closes “loopholes.” Hardly anyone says
+what loopholes, hiding the vital truth that many loopholes, like fast write-off
+and expensing of investing in creating new capital goods — genuinely “income-
+creating” spending — are exactly what have made high rates of income taxation
+tolerable, and compatible with high rates of investing during the mid-20th
+Century.
+
+Europe generally uses the “consumption-type VAT,” meaning that capital
+outlays are expensible. This may have the effect of exempting the income of
+capital from the tax, although it is hard to find a comprehensible definition of
+“capital,” and if it includes land it is extremely discriminatory, and in any case
+favours more durable over less durable capital, and fixed over circulating capital.
+This, which should be a major issue, is untouched, to my knowledge, in the
+literature — but will be touched herein.
+
+James Buchanan has enjoyed great success with his new school of “Public
+Choice,” appearing in many texts as the trunk of a new, alternative economics.
+
+‘The Public Choice school argues that the best
+tax is one with the most excess burden. That is
+because the excess burden will dissuade voters
+from supporting any taxes at all.’
+
+One of its tenets, turning previous thinking upside down, is that the best tax is
+one with the most excess burden. That is because the excess burden will dissuade
+voters from supporting any taxes at all, and thus shrink government down to
+
+1 PIIGS = Portugal, Ireland, Italy, Greece, and Spain. While these are mostly Mediterranean, we will see that many
+Baltic and central continental nations are nearly as troubled.
+
+104
+Europe's fatal affair with VAT
+
+where it can be “drowned in a bathtub,” in Grover Norquist’s metaphor. Many
+deeply- funded new think-tanks undergird dozens of well-paid economists to
+orate on the same text.
+
+Europe’s recent history seems to refute Buchanan’s thesis. Europe’s welfare
+states, or most of them, fast outgrow Norquist’s little bathtubs, even though
+financed by growing VATs with their excess burdens. VAT champions uphold
+it because of what they see as its high capacity to raise revenue, and yet Europe’s
+revenues keep falling as its nations substitute VATs more and more for narrower-
+based income taxes.
+
+John Stuart Mill in 1848, citing an even earlier finding by John McCullough,
+showed that a seemingly “general” sales tax would tax capital for turning over,
+and thus induce investors to favour those capital goods that turn over slowly.
+In Austrian terms, the tax induces investors to lengthen the Austrian “period of
+production,” and thus distort the “structure of capital” in favour of “high order”
+capital goods. In Austrian cycle theory, this is a cardinal sin of public policy.
+
+Modern Austrian writers, however, almost to a man, blame the problem
+entirely on low interest rates enabled by misguided central bankers. Something is
+missing there, and that something is tax policy.
+
+Here is Mill’s proto-Austrian case against a general sales tax:
+
+‘...if there were a tax on all commodities, exactly proportioned to their value, there
+would ...as Mr. M’Culloch has pointed out, be a ‘disturbance’ of values ...owing to
+..the different durability of the capital employed in different occupations ...in two
+different occupations ...if a greater proportion of one than of the other is fixed
+capital, or if that fixed capital is more durable, there will be a less consumption
+of capital in the year, and less will be required to replace it, so that the profit, if
+absolutely the same, will form a greater proportion of the annual returns.
+
+To derive from a capital of £1,000 a profit of £100, the one producer may have to
+sell produce to the value of £1,100, the other only to the value of £500. [i.e., where
+capital is less durable, you must sell more gross to get the same net profit.]
+
+‘If on these two branches of industry a tax be imposed ...the one commodity
+must rise in price, or the other must fall, or both: commodities made chiefly by
+immediate labour must rise in value, as compared with those which are chiefly
+made by machinery... ?
+
+How memorable is Mill’s word “disturbance,” 150 years before Darth Vader in
+Star Wars sensed a “Disturbance in The Force.” In Mill’s and M’Culloch’s usage,
+“The Force” is value as determined in a market before or without taxes based on
+gross sales.
+
+What Mill means by “capital” is clear from his insightful saying, “Capital is kept
+in existence from age to age not by preservation but by continual reproduction”.
+Mill’s “capital” then obviously does not include land. Capital is not a specific
+concrete good, like a chair in the furniture shop. Rather, it is a quantum of value
+
+2 1848, Book V, Chapter IV, pp. 504-05.
+3 1848, Book |, Chapter V, para. 18.
+
+105
+Beyond Brexit: The Blueprint
+
+that we can, and normally do, keep existing by using the cash from sales to “meet
+the next payroll,” as they say, to replace the chair. It need not be an identical
+chair, or any chair at all, for capital in this transition is totally fungible in form
+and location.
+
+Mill hid this light under a bushel, by offering just one example of a small
+difference, arithmetic only. Tt was easy to overlook in passing, which is what later
+standard-brand economists have done. Austrian-School writers, who should see
+Mill’s point so clearly, have mostly skirted tax policy. We should, rather, set this
+light in a tower on a hilltop as a beacon sending its gleam across the wave to save
+the foundering ship of state. This paper therefore returns to it below, as a prime
+example of the excess burden of any kind of sales tax, including VAT.
+
+Then there is The Ramsey Rule. Most standard textbooks and learned papers
+tell us that a truly general retail sales tax, unlike an excise tax, is neutral as between
+one commodity and another. A national tax is also neutral between locations, since
+it is the same in one region as another. Those conditions are never approached in
+practice, but in the sales-tax canon that merely means reformers should extend
+the reach of the tax, as the EU does with its push for tax “harmonization” among
+member nations, meaning in practice that all should follow-the-leader and adopt
+a VAT at about the same rate. Sales-taxers in the USA keep pushing for ways to
+override the Commerce Clause in the U.S. Constitution and allow each state to
+tax imports from other states.
+
+Thus, Buchanan and Flowers wrote “If the tax is uniformly imposed on the
+sale of all commodities and services, there can be no real shifting of resources
+from taxed employments to non-taxed employments. The shift in relative prices
+occasioned by the partial tax cannot occur under a truly general sales tax”.4 Even
+Harry G. Brown, no fan of sales taxes, wrote “if there is a tax on the production
+of all commodities and services...there is no advantage in leaving one taxed line
+for another line which is taxed to the same extent.”® Earl Rolph and George Break
+commit to this view.° So does Harold Somers, generalizing that a tax on gross
+sales is the same as a tax on net income.’
+
+Bernard Herber® and David Hyman? chime in cautiously. Charles McLure
+throws out caution and boldly damns “...the ridiculously unfair and distortionary
+de facto exemption of interstate sales...”1° |!
+
+The Ramsey Rule says that sales tax rates, to be allocationally neutral, should
+not be uniform at all, but inversely proportional to elasticities of supply and
+demand. I have addressed this issue elsewhere,'* quoting A.C. Pigou:
+
+4 Buchanan & Flowers (1975: 399).
+
+5 Brown (1939: 254).
+
+6 Rolph and Break (1949: 117.
+
+7 Somers (1964: 17, 26, 27).
+
+8 Herber (1967: 254).
+
+9 Hyman (2005: 617-26).
+
+10 McLure (2005).
+
+11 Gaffney (2000 and 2000a) refutes this position.
+12 Gaffney (2009: 52-53).
+
+106
+Europe's fatal affair with VAT
+
+“If there is any commodity for which either the demand or the supply is absolutely
+inelastic, the formula implies that the rate of tax imposed on every other commod-
+ity must be nil, i.e. that the whole of the revenue wanted must be raised on that
+commodity.”
+
+Pigou’s reasoning leads straight as a guided missile to levying taxes exclusively
+on the value of land, because its supply is inelastic. Whether Pigou knew what he
+was saying we may never know, for he was guarded and cautious and indirect and
+often obscure and coded, like so many academics fearful of witch-hunters. He
+had reason to be concerned, since even today, long after his death, some are trying
+to discredit his ideas by alleging he was a Soviet secret agent. His Chapter XIV,
+“Taxes on the Public Value of Land,” does favour such taxes, but is more hedged.
+
+Richard Musgrave avoids the issue by leaving Ramsey completely out of his
+classic Theory of Public Finance. Many, indeed most modern academics square
+the circle by first citing and then misquoting the Rule. They apply it only to
+demand elasticities, omitting supply elasticities, even though these are the more
+important part of the original rule. Allyn Young started this ball rolling in
+reviewing Pigou in 1929: “I shall assume that costs are constant. It will be
+unnecessary, therefore, to take account of elasticity of supply as something
+apart from elasticity of demand.” The notable exception is Joseph Stiglitz.
+Consistently, Stiglitz often writes sympathetically of taxing land values.'
+
+Modern writers deplore the exemption of “services” from the sales tax base.
+‘These writers and teachers refer in their contexts only to labour services, ignoring
+the service flows of land or capital. This is not from ignorance: they know that the
+“service-flow” of an owner’s home has long been included in the National Income
+and Product Accounts (NIPA) as a form of income, income consumed by the
+owner-occupant as the real estate yields it. They just blank that out when it comes
+‘6 Then there is the well-nourished
+doctrine that we should tax consumption in order to exempt saving. The writer
+
+to taxing services to the “final” consumer.
+
+has refuted this elsewhere,'” and will only summarize the arguments here.
+Basically they are that circulating capital is the life-blood of an economy,
+and there are four major vampires draining it away. These are
+1. public debts
+2. equity withdrawal from appreciated lands
+3. preferential tax treatment of imputed incomes from durable capital
+
+and lands, and
+
+4. the corporation.
+
+13 Pigou (1928: 105).
+
+14 Young (1929: 15).
+
+15 Stiglitz (2010).
+
+16 Anderson (1913: 252).
+17 Gaffney (2009).
+
+107
+Beyond Brexit: The Blueprint
+
+2
+
+Origins of American
+exceptionalism
+
+EFORE THE ENLIGHTENMENT, and the Ages of Reason and Benevolent
+
+Despotism, Europe raised major revenues from excise taxes like the hated
+salt tax (gabelle), and tariffs, and tolls (like those exacted by the original Robber
+Barons straddling the Rhine). It built roads with drafted corvée and robot labour.
+In England, Thomas Hobbes, a leading influence on the Stuart line of monarchs,
+had pushed hard for taxes on what he called “consumption” (meaning in practice
+the products and commerce of the bourgeoisie).'* Slavery, serfdom, peonage,
+and indentured labour were common. Prison labour and the galleys were not
+unknown, and lingered into the 19th Century, as dramatized in Les Misérables.
+Underpaid Religious staffed schools and hospitals, hospices and asylums.
+As recently as 1930 England used a salt tax as a tool of its imperialism in India,
+and beat down Gandhi's passively resisting Indians with extreme cruelty that
+became notorious worldwide. At the same time it was forcing native Africans
+to labour like slaves by imposing poll taxes. Margaret Thatcher even tried to
+re-import the poll tax into England itself, which was her downfall.
+
+French King Louis XVI, briefly playing the benevolent despot, in 1774
+appointed Turgot his Finance Minister. Turgot was fresh from his triumphs as
+Intendant of The Limousin (Limoges), where he had converted a stagnant into a
+thriving province. The Parlement de Paris, composed of the First Estate (clergy)
+and the Second Estate (nobles) articulated dominant attitudes in its Rémonstrance
+to Turgot’s Six Edicts of 1774.
+
+‘The personal responsibility of the clergy is to fulfil all the functions relating to edu-
+cation and religion and to aid the unfortunate through alms. The noble devotes his
+life to the defence of the state and assists the sovereign by providing council. The
+
+last class of the nation, which cannot render such distinguished service to the state,
+fulfils its obligation through taxes, industry and physical labour...’
+
+The Physiocrats wrote and preached, and Turgot the statesman acted for
+un-taxing commerce and industry and labour, raising revenues from land
+
+18 Neither Hobbes nor any later sales-taxer, to my knowledge, has ever defined “consumption” to mean anything but
+trade in “personal” (movable) property, excluding real estate.
+
+108
+Europe's fatal affair with VAT
+
+taxation, and coining the slogan laissez faire for their philosophy, which gradually
+advanced throughout Europe. They schooled both Adam Smith and many of the
+American “Founding Fathers” in their thinking. Obviously, “liberal” then meant
+something drastically different from “neo-liberal” today.
+
+The students, in practice, got ahead of their teachers. Adam Smith asked why
+Spain, jump- started with gold pilfered from the New World, lagged in economic
+progress. He laid it on the Spanish alcabala and cientos.'° These were heavy sales
+taxes, their nominal rates magnified by cascading, that spared the grandees from
+taxes on their lands while stifling Spanish commerce and industry.” They were
+“broad-based,” which modern sales-taxers tout as raising more revenues, but
+under Philip II with his broad-based alcavala and cientos, Spain declared national
+bankruptcy three times.
+
+People today associate Adam Smith with international free trade, but Smith
+actually contains many passages favouring domestic free trade even more than
+international trade. Here is one wherein he contrasts Great Britain with Spain
+and France, noting that the interior commerce of G.B. is relatively tax free.”!
+
+‘This freedom of interior commerce ...is perhaps one of the principle causes of the
+
+prosperity of Great Britain, every great country being necessarily the best and most
+extensive market for the greater part of the productions of its own industry.” 7
+
+Today, neo-liberals tout “trade” as a basic social good, but they mean just
+international trade. Look up “commerce” in The New Palgrave Dictionary of
+Economics: it says “see International Trade.” States and cities speak of their export
+industries as their “economic base,” ignoring the findings of Jane Jacobs and others
+about the virtues of import substitution as key to economic development. Neo-
+liberal free traders like Charles McLure lead the charge to override the Commerce
+Clause of the U.S. Constitution and allow each American State to tax imports, to
+help them raise their State sales taxes. “Neo-” pundits hijack old words to mean
+the opposite of their originals.
+
+In the new USA after 1789 the Federalists under Hamilton first took control,
+and began levying excise taxes. In 1794 farmers of western Pennsylvania rebelled
+against a tax on their maize, which they marketed as whisky to cut down on
+transportation costs. Hamilton, with his Napoleonic ambitions, led Federal troops
+to put down this uprising. The voters, when they found him dominating the
+subsequent cabinet of John Adams,” and leading the country into the depression
+of 1798, retired his party and installed Jefferson, whose Virginia dynasty shaped
+the nation for the next 36 years.”
+
+19 Smith (1776: 850-51); Groves (1946: 307, n.14).
+
+20 Klein (1920).
+
+21 “Relatively” is a necessary word. Godwin the idealist 20 years later deplored the growth of taxes on “consumption”
+(read retail trade). The glass that Smith saw as half full, Godwin saw as half empty.
+
+22 Smith, Wealth of Nations (1776: 851-52).
+
+23 Hamilton was not a formal member of Adams’ Cabinet, but dominated it anyway.
+
+24 President J.Q. Adams, 1825-29, had left the Federalists in 1807, supported Madison for President, and been Mon-
+roe’s Sec. of State. Jackson and Polk were Tennesseans who led Jefferson's old Party against the Whigs.
+
+109
+Beyond Brexit: The Blueprint
+
+These Virginians knew their Physiocracy. Jefferson, Madison and Monroe had
+all represented the colonies or the USA in Paris, as had their friend Franklin,
+where they hobnobbed with philosophers and picked up their ideas.?> They were
+pro-French, even as France shifted from monarchy to Directory to Empire to The
+Bourgeois King Louis Philippe, 1832-48. It was Monroe who had led the fight
+for the Commerce Clause, freeing internal trade from excise taxes;”° Jefferson who
+wrote the Northwest Ordinance dividing public lands for privatization in small
+parcels, and bought Louisiana, and brought the Physiocrats Gallatin and DuPont
+into his circle, and welcomed Tom Paine back from France, and extended easy
+credit to small buyers of western lands. It was Madison, with all his faults, who
+masterminded the Constitution, and then, in the War of 1812, used the Federal
+power to tax property, a power he had so carefully circumscribed.”” They got the
+new nation off to a flying start.
+
+The Confederate states, even though fighting to survive, stood on their
+states’ rights against their own C.S.A. government, and bucked an attempted
+C.S.A. property tax.?8 Jefferson Davis had to finance secession with excise taxes.
+So Davis put a 10% tax on all farm production, paid in kind — a crushing
+burden on marginal farmers. Winn Parish, LA, for example, home of Huey
+Long, in 1863 petitioned General Grant to save them from this “oppression”.”
+The C.S.A. repudiated its bonds and currency, and lost the war catastrophically.
+Following attempted Reconstruction, however, came Hayes, Reunion and
+Restoration of the old ruling class which ever since, first as Democrats and now
+as Republicans, has saddled the old Confederate States with the most regressive
+tax systems in the nation, featuring heavy reliance on sales taxes.
+
+Through the complex turmoil of 19th century Europe the bourgeoisie joined
+the first two estates in the ruling class. In the transition, Louis Philippe of France,
+reigning between the revolts of 1830 and 1848, earned the title of “the bourgeois
+king,” indicating he did not view commerce and industry simply as geese to be
+plucked, as in the overworked phrase from Louis XIV’S finance minister Colbert.
+“The sales tax existed ...intermittently, in various European countries to about
+1800, but in the 19th century it played no part in the fiscal development of
+the important nations”.* Rulers in several nations, including the USA, fostered
+la petite propriété (in Russia, “kulaks’?') as a political buffer for /a grande
+propriété. (In Germany, Grossgrundeigentum.) Tax regimes evolved with shifting
+class voting power, in a complex history with details beyond the scope here.*”
+
+25 Bigelow (1868: IV:195); Van Doren (1938: 372); Foner (1948: 15, 24-39).
+
+26 Norton (1941: 51).
+
+27 Medina (1960).
+
+28 Foner (1988: 15).
+
+29 Brinkley (1982: 11); T. Harry Williams (1969: xii).
+
+30 Shoup and Haimoff (1934: 811); National Industrial Conference Board (1929: 163-66).
+
+31 Originally “kulak" meant any peasant more acquisitive than average, following the Stolypin reforms. During the
+liquidation phase under Stalin it evolved to mean almost any peasant who opposed collectivization.
+
+32 Wikipedia's anonymous article on Turgot cites many sources on his being followed by many of the best-known
+economists of the 19th Century.
+
+110
+Europe's fatal affair with VAT
+
+By the end of World War 2, tax structures in Europe were a mélange, short of
+anything ideal but not as regressive as under ancien régime. We will pick up the
+story later in 1954, when the first VAT began the march back to the fiscal ideals
+
+of Le Rémonstrance.
+
+Taxation in the colonies
+
+American colonies had little need of taxes, by modern standards. There was no
+national government to support. French and Indian wars were a major expense,
+but Imperial Britain paid for much of that to fend off their French rivals. Armed
+settlers and hunters and vigilantes dealt with most kinds of local crime; volun-
+teers fought fires. Church and extended families covered much of what today
+we call social welfare and education, such as they were. Companies chartered in
+England sought dividends in various ways, as from road tolls and by selling off or
+renting out lands granted them by the Crown. Plymouth Plantation meted out
+lands to each settler, “and him that had a better (location) allowed something to
+%3 _ that is, in their crude way, they
+taxed land ad valorem, as many migrants did as they moved west.
+
+him that had a worse, as ye valuation wente”
+
+Nationwide, when George III’s treasury sought to charge the colonies for
+providing their common defence it was by an excise tax like that on tea. The new
+nation was born in revolt against The East India Company’s monopoly and these
+kinds of taxes that accompanied it. Tax revolt and trust-busting were built into
+our very DNA, at birth.
+
+Many of America’s “Founding Fathers” visited France as diplomats, and learned
+from Turgot. Some noted American visitors included Franklin, Jefferson, Paine,
+Madison, Monroe, Adams, and others. America’s revolution against England
+meant friendship with France and Frenchmen, including liberals like La Fayette,
+du Pont, and Gallatin. Turgot tried but failed to reform France in his day, but
+he was one of our Founding Fathers, in the mind. The Commerce Clause of the
+U.S. Constitution did for the new USA what Turgot had tried to do for France,
+it guaranteed free trade among the states.
+
+Turgot first made his mark as Royally-appointed Intendant of Limoges (1761-
+74). There he abolished the mandatory corvée (roadwork in lieu of taxation). He
+improved roads by other means, like taxing the lands they served. He encouraged
+
+33 “Then they agreed that every person or share should have 20 acers of land devided unto them ... and they (who
+were) appoynted were to begin first on ye one side of ye towne, & how farr to goe; and then on ye other side in like
+manner; and so to devid it by lotte; and appointed sundrie by name to doe it, and tyed them to certainrruls to pro-
+ceed by; as that they should only lay out settable or tillable land, at least such of it as should butt on ye water side
+..and pass by ye reste as refuse or comune ...And they were first to agree of ye goodnes and fitnes of it before ye lott
+was drawne ...whose lottssoever should fall next ye towne ...or most convenint for nearness they should take to them
+a neighbor or tow ...and should suffer them to plant corne with them for 4 years ...ye rest were valued and equalized
+at an indifferent rate, and so every man kept his owne, and he that had a better allowed something to him that had a
+worse, as ye valuation wente” (emphasis mine). Wm. Bradford, 1627, History of Plymouth Plantation, from the original
+ms of Bradford's history Of Plimoth Plantation, Book II. Boston: Wright and Potter Printing Company, State Printers
+(1898: 258-61).
+Beyond Brexit: The Blueprint
+
+the now-famous porcelain industry, so that Limoges-Turgot is now a block
+phrase in that region of France. In 1774 the new King Louis XVI, impressed,
+made Turgot Comptroller-General for all France. Turgot set about removing
+interprovincial trade barriers, which he perceived as a major barrier to French
+prosperity. He coined the term Laissez-faire.*4 He also set about reforming the
+tax system, subjecting the previously exempt lands of the Ist and 2nd Estates?°
+to forms of property taxation. This was in the spirit of the Age, the Age of
+Benevolent Despotism and Enlightenment. Enlightenment included Science and
+Philosophy, which included Physiocracy as taught by Quesnay at Versailles, and
+practiced by Turgot.
+
+‘Turgot abolished the mandatory corvée
+(roadwork in lieu of taxation). He improved roads
+by other means like taxing the lands they serve.’
+
+While Intendant of Limoges he published his Reflexionssur la Formation et la
+Distribution des Richesses (1766). This short, compact work contains much of
+the essential wisdom that Adam Smith soon was to popularize and expand with
+The Wealth of Nations (1776). Turgot stressed the important roles of capital, and
+free markets. He favoured letting the market determine interest rates — not from
+dogma, but from observing the results of John Law’s ruination of French banking
+in 1720. He would combat poverty by relieving the poor of taxes, while raising
+revenues from taxes on the value of land — including lands traditionally exempt or
+under-taxed. He correctly observed that taxes based on land values are nearly the
+only kind that raises revenues without intervening in free markets, twisting and
+suppressing incentives to produce and invest. By “invest” he meant paying labour
+to produce new capital, or replace old capital. He emphatically did not mean the
+zero-sum casino games of buying land, or old capital, or trading shares in existing
+companies. Smith visited France in 1766 and consulted extensively with Turgot,
+a man whose practical turn of mind made him a congenial tutor for Smith.
+
+The Commerce Clause, Turgot’s contribution to the U.S. Constitution, has
+preserved interstate tax competition. It created and has preserved our domestic
+market, the greatest free trade zone in the world, an essential ingredient
+of American productivity and prosperity. Like Turgot, our Founding Fathers
+aimed for domestic more than for international free trade. As the USA
+expanded the “domestic” market swelled to include many times the land area its
+founders dreamed of.
+
+34 Laissez faire, laissez passer, le monde va de lui-méme. It is French for an ancient Chinese concept from Lao-tse, and
+has now been hijacked and distorted by the very kinds of people Turgot meant to rebuke.
+35 The Clergy and the Hereditary Aristocracy, respectively.
+
+112
+Europe's fatal affair with VAT
+
+Until 1933, domestic free trade also prevented states from using sales taxes to
+raise revenue, for fear of interstate competition. It still tends to cap state sales tax
+rates. That forced states back on the property tax, just as Turgot recommended for
+France. Without it, it is likely that state sales taxes would rise to 20% or more in
+short order, as the wholesome fear of interstate competition was stifled.*°
+
+The U.S. Constitution was a product of The Age of Reason and Enlightenment.
+Science flowered. Turgot, like Quesnay, admired the work of William Harvey on
+how blood circulates, with flux and reflux. Turgot simply wrote that investing is
+“the beneficial and fruitful circulation that animates all the work of society” —
+thus capturing the basic idea of modern macro-economics, in simpler language
+than used today.
+
+‘America's Founding Fathers aimed for domestic
+more than for international free trade.’
+
+The U.S. did impose national excise taxes, emphasizing sumptuary ones like
+Hamilton's tax on whiskey, but the “Whiskey Rebellion” spoke to its unpopularity,
+and helped Jefferson displace the Federalists. Jefferson doubled our already
+vast area by buying Louisiana, accelerating a century of raising major revenues
+from land sales. Jackson even paid off the whole national debt, and went on to
+distribute surpluses to the States. Many States squandered the funds, but avoided
+paying the full price by stiffing their European creditors.
+
+Before lands acquired in the Louisiana Purchase were sold out, President James
+K. Polk acquired more land clear to the Pacific, our “Manifest Destiny” as he
+called it. The USA became the biggest free trade zone in the world, perhaps in
+history, and prospered mightily, if erratically and prodigally, with giant-swinging
+cycles of boom and bust. We tied the parts together with ambitious long rails,
+but financed them with land grants that spared us from taxes. When the nation
+annexed lands from France and Spain and Mexico it left the private titles intact,
+but freed them from the repressive tax systems of those nations. Americans old
+and new grew accustomed to low domestic national tax rates, over a long period.
+State and local governments performed most public functions, and lived mainly
+on property taxes, a kind of tax with no taxable event in its base and thus little, if
+any, disincentive effects.
+
+Not until 1909 did the U.S. turn to a corporation income tax, spurred by
+domestic demands for reform and naval and military ambitions. The personal
+income tax from 1913 was carefully focused by Progressive Congresses on
+
+36 Gaffney (2000, 2000a).
+Beyond Brexit: The Blueprint
+
+property income. There were no state sales taxes of consequence until 1933.°”
+Not until 1942 did Congress turn seriously to taxing wage and salary incomes,
+and withholding the taxes, and even then rates were graduated so steeply that
+property incomes, being in the top brackets, bore much of the brunt.
+
+Since 1945 the tide has turned sharply back towards taxing labour more and
+property less, and yet even so America still taxes labour less, and property more,
+than most other nations. We stand alone as the nation with no national sales tax
+or facsimile thereof.
+
+‘The USA became the biggest free trade zone in
+the world, perhaps in history, and prospered
+mightily, if erratically and prodigally, with giant-
+swinging cycles of boom and bust.’
+
+37 Gaffney (2000, 2000a).
+
+114
+Europe's fatal affair with VAT
+
+3
+
+From Wirtschaftswunder
+to Common Market to EU and VAT
+
+E PICK UP THE STORY IN 1948. World War 2 left Germany devastated,
+
+but not for lack of money demand or purchasing power. Wartime rationing
+and price controls, cum monetary stimulus — “suppressed inflation” — had left
+Germans with piles of cash in Reichsmarks. Ludwig Erhard, minister of finance
+under Konrad Adenauer, abolished rationing and price controls. He demonetized
+Hitler’s Reichsmarks and replaced them with Deutschemarks as the new legal
+tender, lowering the effective money supply by 93%. German families lost not
+just capital goods, but their life savings.** They were “ruined,” so it seemed. They
+didn’t even have rationing tickets.
+
+To credit (or blame) Erhard alone would be to oversimplify. Kindleberger and
+Ostrander supply a raft of details - in fact, too many.* Squinting between the
+lines, though, they tell us that Military Governor General Lucius Clay supported
+an early report by Colm, Dodge and Goldsmith that called for high taxes on
+“unjust enrichment,” and on property and estates, but low taxes on current
+“taxable events,” to stimulate incentives to work and save.“° It was in the spirit of
+V-Day, roughly comparable to the Reconstruction Era following our Civil War.
+Erhard was the German survivor who surfed this wave at its crest. For brevity
+here, I will simply refer to Erhard’s reforms.
+
+Erhard observed that the only rationing tickets Germans needed after the
+currency reform were the new Deutschemarks, and they would work hard to get
+them. The same reasoning implies that they would also put their properties to
+work, if they owned any — and someone did own all the lands of Germany, and
+the surviving capital as well. A song of the times captured the spirit and attitude
+that emerged:
+
+38 Heller, Walter W. “Tax and Monetary Reform in Occupied Germany.” National Tax Journal 2, no. 3 (1949: 215- 231);
+Hirshleifer, Jack W. Economic Behavior in Adversity. Chicago: University of Chicago Press, 1987. Klopstock, Fred H.
+“Monetary Reform in Western Germany." Journal of Political Economy 57, no. 4 (1949): 277- 292; Lutz, F. A. “The Ger-
+man Currency Reform and the Revival of the German Economy.” Economica 16 (May 1949): 122-142; Mendershaus-
+en, Horst. “Prices, Money and the Distribution of Goods in Postwar Germany.” American Economic Review 39 (June
+1949): 646-672; Wallich, Henry C. Mainsprings of the German Revival. New Haven: Yale University Press, 1955.
+
+39 Kindleberger and Ostrander (2003).
+
+40 Colm, Dodge and Goldsmith (1946: 185).
+Beyond Brexit: The Blueprint
+
+“Morgen, morgen, lacht uns wieder das Gluck
+Gestern, gestern, liegt schon so weit zuruck,
+war es auch eine schéne, schéne Zeit.’ *!
+
+What followed is proclaimed asa Wirtschafiswunder, but let us not call it a
+Wunder (miracle) for that suggests a supernatural cause and stifles inquiry into
+real causes. It was unaccustomed Armut (poverty) that drove Germans to perform.
+The first cause of poverty was the obvious: paying taxes to prepare for war, the
+total war itself, losing it, being bombed, invaded, morally shamed, occupied and
+plundered. Second, less obvious, was Erhard’s repudiating Hitler's Reichsmarks.
+Economists who sympathize both with Erhard and private property may cover
+up the contradiction by calling it “currency reform,” a “wealth effect” (or income
+or liquidity effect), but the naked fact is that Erhard’s State simply stiffed its
+creditors, the German people, thus confiscating their private property without
+compensation. It came from recognizing that incentives come from Morgen
+(tomorrow) and are only dulled by the security and comfort of holding property
+in the accumulations of Gestern (yesterday). Yes, Erhard believed in free markets
+and incentives; decartelization and Walter Eucken and the Freibourg School were
+in vogue. Yes, Social Democrats discredited themselves by opposing Erhard, and
+it is good press to mock them for their doctrinaire myopia. But generations of
+conservatives since then have spun the story to blank out the positive (sic) role of
+state confiscation of private property.
+
+Few would deny today that the desperate circumstances of the times necessitated
+radical “currency reform.” Now that Erhard’s policy is a fait accompli, safely in the
+past, few would deny its spectacular success — it is an outstanding fact of history.
+But let us learn the economic lesson. Taxes have two opposite kinds of effects.
+There are the marginal effects, the kinds that Laffer and a thousand anti-taxers
+preach, the disincentive effects of diluting the rewards of work and enterprise.
+But there are also the wealth effects such as Erhard’s “Miracle” demonstrated.
+
+‘The secret of raising revenues without damping
+incentives is to select kinds of taxes with powerful
+wealth effects and weak marginal effects.’
+
+Germany’s experience suggests that the wealth effects may even be stronger
+than the marginal effects. Certainly they are if we “play our cards right” and
+choose wisely among tax alternatives. The secret of raising revenues without
+damping incentives is to select kinds of taxes with powerful wealth effects and
+weak marginal effects. Property taxes come close to filling the bill, and even closer
+if we exempt capital improvements and movable capital (personal property) from
+
+41 “Tomorrow, tomorrow, good fortune will laugh for us again/ yesterday, yesterday lies already so far behind/ it
+was a beautiful, beautiful time.”
+
+116
+Europe's fatal affair with VAT
+
+the tax base. VATs, at the other pole, fit the Laffer model like a glove: strong
+effects on marginal incentives, and minimal wealth effects.
+
+With the Marshall Plan the USA undertook to help rebuild western Europe
+and Japan, with great success. “Social Democracy” was the slogan, to enlist
+proletarians in the common struggle against the Red Menace, which so quickly
+replaced the fascist menace of wartime. Former belligerents buried the dulled
+hatchets of nationalism. French leaders like Jean Monnet and Robert Schuman
+proposed a United States of Europe, to include the old Axis Powers, but not the
+USSR or its allies. France needed Germany to stop the USSR, and Germany was
+too big and robust for France to let go its own way again.
+
+Initial steps like the European Coal and Steel Community and European
+Common Market grew to become the European Union. The 1957 Treaty of
+Rome created the European Community (EC), aka “The Common Market.”
+In 1990 a commission led by former French Finance Minister Jacques Delors
+broached a single currency, a step short of political union. French President
+Francois Mitterand forced the Euro on a reluctant Germany as the price for
+France’s support of German reunification after the Berlin Wall fell in 1989. The
+Maastricht Treaty of 1992 created the European Union (EU). The EU adopted
+the Euro. Soon the EU doubled in size, to 27 nations, including eight former
+members of the Soviet bloc. France as the leader rode high. Germany’s size and
+economic strength has now passed leadership partly to her, now under Chancellor
+Angela Merkel.
+
+Meantime, by 1954 the tide had started to turn back toward the attitudes
+of Pancien régime with its taxes on producers, merchants and buyers. Maurice
+Lauré, an engineer turned tax-man, got France to adopt VAT “to meet a fiscal
+crisis” (although such spin accompanies most political moves). VAT had political
+and administrative attractions, but economically speaking is only a variant form
+of sales tax. France introduced the first national VAT in 1954 (the same year it
+lost at Dien Bien Phu). It was not general, but destined to become so. René Coty
+was the last President of the fractionated 4th Republic, but Lauré’s VAT was
+declared a success.
+
+Charismatic Charles de Gaulle succeeded Coty, founded the 5th Republic,
+and presided from 1959-69. A fabled hero of /a résistance, Le Grand Charlie
+could get what he wanted, and was President in 1963 when a Common Market
+committee on tax “harmonization” issued the landmark (Fritz) Neumark Report
+that found the French VAT to be superior to Germany’s cascading turnover tax.”
+The Committee agreed to make VAT the basis of tax harmonization within the
+growing EU. In 1968 France changed its VAT from partial to general.
+
+VAT quickly metastasized around Europe. The EC required member states to
+adopt VAT to enter the EU. Latin America also went along. In a second push
+
+42 Lindholm (1976: xxx).
+Beyond Brexit: The Blueprint
+
+around 1990, some industrial states like Canada,** Australia, Switzerland and
+Japan came on board too, along with many “developing” economies in Africa and
+Asia, until today some 140 nations use VAT. They were pushed along by newly
+empowered international organizations like OECD and the IMF and the World
+Bank — probably not what their founders had in mind at Bretton Woods in 1944.
+
+The USA has played a schizoid role, worldwide. The Shoup Mission to Japan
+in 1949 had tried to pioneer VAT there, although in vain.“* Harry Truman’s
+agent, Joseph Dodge, blocked it.
+
+‘USAID has spent huge sums promoting and
+subsidizing VAT in small nations. Only the USA
+itself has rejected VAT.’
+
+USAID has spent huge sums promoting and subsidizing VAT in small nations.
+Only the USA itself has rejected VAT. Evidently there is a chasm between our
+international representatives, “the best and the brightest,” and the voters at home.
+
+By now, almost all nations except the USA have national VATs. Many
+leading American economists are urging the same for the USA, chiding us for
+backwardness. Many prominent economists are pushing parallel proposals as
+well, under names and euphemisms like “the flat tax,” “the fair tax,” “the people’s
+welfare tax,” and so on.
+
+‘| advance a thesis that our lack of a national
+VAT is a major source of U.S. fiscal strength
+vis-a-vis Europe.’
+
+A united Europe with a harmonized tax system and common currency
+would seem to have realized the fondest dreams of founding fathers Schuman
+and Monnet. And yet ...mobile international capital is seeking security in U.S.
+Treasuries, in spite of our notorious flirtation with national bankruptcy. Here I
+advance a thesis that our lack of a national VAT is a major source of U.S. fiscal
+strength vis-a-vis Europe; and that established standard-brand U.S. economists
+are seriously derelict in failing to point this out. Austrian-School economists are
+also derelict by failing to stress how VAT distorts the structure of capital, a topic
+in which they have special insight and interest.
+
+43 Canada, which calls it a General Services Tax (GST), has only dipped a toe in the water;so far, with a national rate of
+5%. Its Provinces, however, are huge. Ontario is bigger than many small nations, and Ontario's rate is 8%, for a total of
+13%. Ontario also includes services in its tax base.
+
+44 Brownlee (1985).
+
+118
+Europe's fatal affair with VAT
+
+4
+
+Europe after VAT:
+troubles and setbacks
+
+ODAY EUROPE IS STAGGERING. Many of its nations face bankruptcy.
+
+Its stronger members and the institutions they dominate seek to impose
+“austerity” on the resentful weaker members. Banks hold mostly their government’s
+securities, crowding out small businesses that create most jobs. Unemployment
+rates are breaking records. Tax collections fall ever farther behind the needs,
+threatening both the governments and their bank-creditors with insolvency. Real
+estate manias in nations like Spain and Ireland, new to the perils of prosperity,
+have collapsed, bringing banks down with them.
+
+Unemployment
+
+Unemployment rates across Europe reached catastrophic levels: 10.4% in the
+Euro area, and 23.3% for youths aged 15-25. Patterns diverged across nations,
+with the highest youth unemployment rates in Greece (55.6%), Spain (54.2%),
+Ireland (34.5%), Italy (35.1%) and Portugal (35.1%). Even in France, a pillar of
+EU, the rate was 27.9%. Sturdy lowland and Baltic nations were not immune:
+rates in Belgium reached 18.0%, Denmark 14.2%, Finland 18.9%, Luxembourg
+18.6%, Sweden 23.4%. Central European Hungary, Poland, and the Czech
+Republic have high rates, too. Latvia, where wages were so low and jobs so scarce
+that she lost about 10% of her labour force to emigration, was proclaimed a
+success story bys Christine LaGarde, Olivier Blanchard and other faces of the
+establishment.
+
+Debts, Public and Private
+
+The debts of Greece, Italy and Spain made the headlines, but many “stronger”
+nations also owed more than their revenues could well handle. Greece owes $315
+bn. Even Germany, supposedly the EU’s economic bulwark, showed signs of
+stagnation in the 1990s, leading to the sarcastic epithet “The German Disease.”
+Germany's “Miracle” seems slowly to be following an Olsonian pathway from
+
+119
+Beyond Brexit: The Blueprint
+
+unity and strength-through-defeat to disunity and weakness-through-success.
+Germany’s claimed debt of about $2.1 trillion is rigged downwards by omitting
+huge pension obligations, estimated to add another $3 trillion to the total. Some
+banks in greatest danger include Germany’s DeutscheBank, biggest in Europe.
+
+‘Governments’ creditors are mostly banks,
+but these in turn are bailed out by the same
+governments to whom they lend.’
+
+Governments’ creditors are mostly banks, but these in turn are bailed out by
+the same governments to whom they lend, a spiral winding only downwards
+until and unless European governments raise tax rates — and find a way to do
+so without stifling tax bases. The whole structure rests, finally, on tax revenues,
+lacking which it is just a house of cards. However, most tax bases fall when they
+are needed most, and the VAT base is falling fastest. As credit ratings fall, required
+interest rates rise, so debt service rises, deficits rise, and debts keep growing, a
+disastrous vicious spiral.
+
+Pop Keynesians may see this as a virtue: deficit finance is the way to spend
+our way out of recessions. That idea from 1936 would seem to have died with
+the Stagflation of the 1970-79, and again with the deficit-fuelled crash of 2008,
+but it keeps rising from the ashes of its own self-immolation. The unanswered
+question now is, “Who will lend when both borrowers and lenders lack the will
+and the ability?”
+
+How did Europe and its fellow VAT-sters reach this sorry state?
+
+120
+Europe's fatal affair with VAT
+
+5
+
+Excess burdens from VAT
+
+HE IDEA keeps resurfacing that a sales tax is made neutral by virtue of being
+“general.” Many great economists have refuted it, only to be inundated by
+floods of lesser voices in mass textbooks.
+
+Retail sales taxes, however “general” or universal in their apparent coverage,
+tax capital as it turns over. Turnover is measured by the sales/ capital ratio, which
+is highly variable among different firms, products, locations, stages of the cycle -
+and tax regimes, which economists influence. Sales taxes depress it heavily. This
+is not a mindless grouch at all taxes, for we need public revenues, and some taxes
+have positive effects. This is a rifle-shot at sales taxes, of which VAT is one.
+
+To repeat for emphasis, retail sales taxes tax capital for turning over. Turnover
+means replacement; and replacement sustains demand for labour. Replacement
+does not just depend on sales, it anticipates them, and thereby generates the
+consumer incomes that finance them: turnover is the autonomous variable that
+takes the lead in the otherwise circular and now vicious circle of macro-economics
+in which employers wait for consumers, while consumers wait for employers to
+hire them. Turnover is measured by the sales/capital ratio, which is highly variable
+among different firms, products, locations, stages of the cycle —and tax regimes,
+which economists influence.
+
+‘Turnover is the autonomous variable that takes
+the lead in the otherwise circular and now vicious
+circle in which employers wait for consumers,
+while consumers wait for employers to hire them.’
+
+By taxing turnover, sales taxes shrink their own base. Arthur Laffer discredited
+this idea by letting his patrons apply it to a// kinds of taxes; Murray Rothbard
+mistakenly applied it just to the property tax, the one major tax to which it does
+not apply because it taxes capital and land for standing still, not for turning over.
+These errors should not blind us to the truth in applying the idea to VAT and the
+
+121
+Beyond Brexit: The Blueprint
+
+other sales taxes that “shoot anything that moves”. In the lingo of public finance,
+they are contingent on “taxable events.”
+
+Many standard textbooks and learned papers tell us that a truly general retail
+sales tax, unlike an excise tax, is neutral as between one commodity and another.
+A national tax is also neutral between locations, since it is the same in one region
+as another. Those conditions are never approached in practice, but in the sales-tax
+canon that merely means reformers should extend the reach of the tax, as the EU
+does with its push for tax “harmonization” among member nations.
+
+As already noted, Buchanan and Flowers wrote that “If the (sales) tax is
+uniformly imposed on the sale of all commodities and services, there can be no
+real shifting of resources from taxed employments to nontaxed employments.
+The shift in relative prices occasioned by the partial tax cannot occur under a
+truly general sales tax”.** We quoted and cited Harry G. Brown , Earl Rolph
+and George Break, Harold Somers, Bernard Herber, David Hyman, and Charles
+McLure to the same effect.
+
+Capital proper, when affixed to land, becomes “real estate,” hence exempt by
+law from sales taxes, for these apply, by law, only to sales of what we call “personal”
+property (Due, 1963: 287), and which Europeans, more realistically, call movable
+property. The most durable forms of capital, the kinds that Austrians believe are
+over-supplied, are affixed to land, hence exempt from sales taxes and VATs.
+
+Many “Neo-con” or “Neo-liberal” writers deplore the exemption of “services”
+from the sales tax base. These writers and teachers refer in their contexts only
+to labour services, ignoring the service flows of land or capital. This is not from
+ignorance: they know that the “service-flow” of an owner’s home has long been
+included in NIPA as a form of income, income consumed by the owner-occupant
+as the real estate yields it. They just blank that out when it comes to taxing
+services to the “final” consumer.“ John Stuart Mill in 1848 looked deeper, in a
+proto-Austrian way, and pointed out a systemic bias inherent in the tax. I have
+quoted him above.
+
+Mill hid this light under a bushel, by offering just one example of a small
+difference, and only in the form of arithmetic. It is easy to overlook in passing,
+and standard-brand economists have done so. Tragically, so have most Austrian
+writers, few of whom analyse tax policy. Their strong tendency is to impute the
+misallocation of capital solely to misguided central bank policies, blanking out
+other factors like tax policy.
+
+Harold Groves, a clearer expositor than Mill, makes the point in a simple
+table.” “Store A is engaged in a trade which has a very slow turnover, such as the
+furniture business; Store B is one with a rapid turnover, perhaps a meat shop.”
+
+45 Buchanan and Flowers (1975: 399).
+46 Anderson (2003: 252).
+47 Groves (1946: 113).
+
+122
+Europe's fatal affair with VAT
+
+Tax bias between slow and fast turnover businesses
+
+I ll Ill IV Vv Vi
+Operating Sales/ Sales/ Tax Tax/
+STORE capital Gross sales Capital Capital @0.5% Capital
+A $30,000 $30,000 1 1 $150 0.5%
+B $2,000 $100,000 50 50 $500 25.0%
+
+The sales tax is based on Column (II). It gathers much more from B, the meat
+shop, than from A, the furniture store, because of B’s higher turnover and greater
+volume. B’s little capital of
+
+$2,000 turns over 50 times and is taxed 50 times a year, while A’s $30,000
+turns over and is taxed just once. (Groves uses this table for another purpose, but
+it serves to make Mill’s point as well.)
+
+Again, compare a parking lot with a cafeteria. Suppose both to be taxed on
+gross sales, including services. The inventory of fresh food in the cafeteria is taxed
+daily, as it sells out and turns over. The payrolls are taxed daily too, for they add
+to the gross value of sales. The value they add to the purchased stock of food is
+capital, too: “working capital.” Or, if one prefers to ignore capital of life so brief
+and so small a claim on the final product, the sales tax is simply a tax on labour.
+The gross sales of parking lots, at the other extreme, include no turnover of capital
+at all.
+
+More generally, as Dan Sullivan points out, sales taxes penalize high-volume
+low-mark-up marketing strategies as against their opposite. Lest one turn up his
+nose at, say, Walmart, its low prices do not reflect low mark-up so much as low
+labour-service per dollar of inventory. It also provides acres of free parking, a
+service of land, like other big-box stores. Sullivan also notes that sellers in better
+locations, say Rodeo Drive, can have higher mark-ups, so sales taxation favours
+better locations over marginal ones.** New businesses with high start-up costs can
+deduct them from taxable income, but not from gross sales. Clifford Cobb notes
+that ghettos have many barber shops and beauty parlours but few shops carrying
+commodities.” One could go on through all the Yellow Pages for thousands of
+more examples.
+
+Illustrations and Analogies
+
+Within each business there are also differences among kinds of capital. In a retail
+bakery, for example, there are pies and pie-shelves. The pies come and go, perhaps
+
+48 Sullivan (n.d.).
+49 Cobb (2014).
+
+123
+Beyond Brexit: The Blueprint
+
+several times a day; the shelves last for years; the ovens for decades; the build-
+ings even longer; the sites forever. Many a needy widow with hardly any capital
+has earned her mite by baking, while renting the site, building and hardware.
+Her sales/capital ratio is high in contrast with that of the landlord, and orbital
+in contrast to timber-holding corporations like Georgia-Pacific, Weyerhaeuser,
+Simpson, or the Kenneth Ford family’s Roseburg timber companies around
+Roseburg, OR.
+
+Adam Smith, with his flair for metaphor, made the point by contrasting
+cargoes in foreign and domestic trade, in an age of wind-powered ocean vessels.
+
+‘[T]he quantity of that labour, which equal capitals are capable of putting in motion,
+
+varies extremely according to the diversity of their employment® ...A capital...
+
+employed in the home-trade will sometimes make twelve operations, or be sent
+
+out and returned twelve times, before a capital employed in the foreign trade
+
+of consumption has made one...the one will give four and twenty times more
+
+encouragement and support to the industry of the country than the other: *!
+
+The case is even clearer when we compare two uses competing for the same
+land. The one with more turnover pays more sales tax per dollar of capital
+invested. The tax drives away capital that turns over fast, and reallocates the land
+to capital that turns slower, or to uses requiring less capital, or no capital at all,
+like the parking lot. As to the lot itself, it never turns over in the relevant sense of
+wearing out and being replaced. (Owner A may sell land to Owner B, but mere
+ownership turnover is a zero-sum transaction in the national accounts.)
+
+Curiously, Harry G. Brown, a relentless critic of holding land idle, as well as
+of taxes with excess burdens, does not connect his two goals in one consistent
+system.” He does not recognize that sales taxes inhibit using land intensively, if
+at all. His mentor Irving Fisher may have misled him. In Fisher’s tax theory, all
+taxes should fall on consumption, holding land is not consumption, and capital
+gains are not income at all.*
+
+Chemists have a good vocabulary for it. Land in production is like a chemical
+“catalyst”: it facilitates a process without disappearing into the product. Its
+“quantum of value” remains intact in the land. Working capital is, at the other
+extreme, like a “reactant”: its corpus and its quantum of value go into the product.
+That means they get sales-taxed with each turnover — the basis of the Mill Effect.
+Physiologists have a name for it, too: what is metabolism but the turnover of
+protoplasm in cells? One could elaborate, and find analogies from other sciences,
+but the point is made, and will be made once more below with Dorfman’s essay
+on hydraulic engineering.
+
+50 Smith, Book II Ch. 5, par 1.
+51 Smith, Book II Ch. 5, par 27.
+52 Brown (1939: 254).
+
+53 Fisher (1937, 1942).
+
+124
+Europe's fatal affair with VAT
+
+Difficulties, solutions and measures
+
+“Fixed” (durable) capital is a mixed, and therefore instructive story. The corpus
+of fixed capital as a catalyst does not get sales-taxed, only its income plus a little
+extra for depreciation get sales-taxed, as Mill wrote. Separating the catalyst from
+the reactant in fixed or durable capital is a trifle less simple than with working
+capital, but only marginally so. The basic mathematics of finance tells us exactly
+how to divide the product between interest, the net income of capital, and
+depreciation, which corresponds to the recovery or turnover of capital (and is
+labeled a “Capital Consumption Allowance” (CCA) in NIPA). We only repeat
+a sliver of the mathematics here, but lenders, mortgagors, bankers, and I.R.S.
+agents use it every day. So do millions of innumerate consumers who buy on
+the installment plan, taking the mathematics on faith. Innumerate readers may
+likewise take on faith the algebra below, but here it is for those who want it.
+
+Let “a” be a level annual cash flow lasting for “n” years. “P” is its Present
+Value, found by taking the Discounted Cash Flow (DCF) using an interest
+
+aes
+
+rate, “i”.
+P =a{1-(1+i)*J/i (1)
+The fraction of “a” that is interest on P is:
+Pi/a = 1-(1+i)” (2)
+
+“1” is 100%. The second term as a function of “n” forms a curve of
+exponential decay (a ski-slope curve) starting from “1” when n=0 and falling to
+zero when n=0o.
+
+Thus when n=0 the cash flow is all capital recovery — there is no interest income
+— and the sales tax is based entirely on turnover of pre-existing capital. At the
+other extreme, when n grows big, (1+i)" — 0 and there is little capital recovery,
+and that little is not taxed until after “n” years. So much for the algebra.
+
+A unit or “quantum” of fixed capital embodied and frozen into, say, the
+Oroville Dam and the long aqueducts it feeds, or the English-French “Chunnel,”
+or the even longer tunnel from Sakhalin to Hokkaido, or grading steep building
+sites, or land-fill in shallow water, or The Pyramids, or The Mackinac Bridge, or
+the marble cladding of Nelson Rockefeller’s Parthenon in Albany, turns over so
+slowly that its net product or service after O&M (Operation and Maintenance)
+is mostly pure income. That product or service as a tax base, however we measure
+it, includes little recovery of capital. Too often, indeed, there is none at all,
+thanks to engineering megalomania coupled with the “irrational exuberance”
+of land speculators and “earmarking” politicians who trade subsidies for
+campaign contributions.
+
+125
+Beyond Brexit: The Blueprint
+
+As to land, this never turns over. Its ownership may turn over many times,
+but that is an entirely different meaning of “turnover”: it is a zero-sum game,
+macro-economically. It entails no depreciation and ultimate replacement of
+the lot, and no routine recovery of the original purchase price through a CCA
+(Capital Consumption Allowance). In a rational market, land is priced so high
+that its cash flow is just enough to cover interest on its price, with nothing left
+over for a CCA. In a rising but still rational market, indeed, interest on the price
+is greater than cash flow by an amount equal to annual appreciation. In a market
+with “irrational exuberance,” which comes along in a regular cycle of 18 years or
+so, interest often exceeds the sum of cash flow and appreciation, as we learned so
+well in 1990, promptly forgot, and went through again in 2008, and began a new
+cycle of forgetting in 2013.
+
+Many economists disregard The Mill Effect by assuming, too blithely, that
+sales taxes are all shifted forward to “consumers”. Even if that were 100% true it
+would certainly depress demand for the over-taxed items. Most economists today
+share some, at least, of the paradigm of Buchanan and Flowers wherein sales taxes
+are shifted backwards to factors of production. There is a hint of this in Mill,**
+but the stronger recent statement is in Harry G. Brown.” Earl Rolph, crediting
+°6 Richard Musgrave, crediting both Brown and Rolph, endorses
+this approach in the main, too.*” Many of us now hew to the Physiocratic doctrine
+that All Taxes Come Out of Rents (ATCOR). Either way, sales taxes create “A
+disturbance in The Force” — a massive and basic disturbance. To fuss over trivia,
+while missing the Mill Effect, would be to strain at gnats while swallowing a
+camel. For examples of such straining see Shoup and Haimoff, Somers, Rolph/
+Break, and almost any popular text on public finance.
+
+Brown, agrees.
+
+Many texts on public finance compare a retail sales tax favourably with a
+“turnover tax,” since the latter taxes every transaction up to and including the
+retail stage. Thus they dispose of “turnover” by giving it an entirely different
+meaning than that used by Mill, and used here. They criticize a “turnover tax” (as
+sometimes used in Germany, and in the former Soviet Union, and now in Ohio)
+for taxing the same capital several times, “in cascade,” as it moves from owner to
+owner in successive transactions through the “stages” of production. They then
+criticize how firms may avoid it by integrating vertically. Fair enough, but then
+they dust off their hands as though done, leaving us the retail sales tax, imposed
+at only one “stage” of production, as though it were free of taxing turnover.*®
+Thus they purge The Mill Effect, the “Disturbance in The Force,” from modern
+
+fiscal economics.
+
+54 (Bk V, Chap 5: 517).
+
+55 Brown (1939).
+
+56 Rolph (1952).
+
+57 Musgrave (1953: 318; 1959: 379).
+
+58 While they are at it, Buchanan and Flowers want to tax unemployed people for “consuming leisure,’ The euphe-
+mism dates from Chicago's Henry Simons (1938). Buchanan and Flowers do not call this a poll tax, for they disap-
+prove of “emotive terms.” Yet they do not suggest taxing idle or underused land or capital for taking leisure.
+
+126
+Europe's fatal affair with VAT
+
+Mark Skousen presents a long valuable list of previous texts and learned
+writings supporting Austrian capital theory. He argues against policies that drive
+capital away from “lower order” capital goods that turn over quickly because they
+are near to the final consumer. You would therefore expect him to take the lead
+against retail sales taxes, with their bias against these lower order goods. Instead,
+Skousen switches to another paradigm and favours sales taxes on the grounds that
+final consumers bear them, and this exempts saving and capital formation. I have
+refuted this belief elsewhere,”
+
+As to the structure of production, Skousen writes that “a consumption tax...
+would be highly favourable toward the earlier stages of production...”° But
+“earlier stages of production” means unripe capital, at farthest remove from final
+
+and will not repeat the reasoning here.
+
+consumers, capital that ripens and turns over slowly, the kind that Austrian theory
+tells us to treat less favourably, or at least not favourably. I will not labour the
+obvious contradiction, but simply express dismay that no Austrian economist, to
+my knowledge, has ever used Austrian-derived paradigms to criticize sales taxes.
+Skousen also gives priority to repealing the “capital gains tax,” evidently believ-
+ing that it is a tax on capital, as its name misleadingly suggests. Actually, most
+unearned increments of value come from land. Taxing or un-taxing them has no
+direct effect on the structure of capital proper. Most real capital depreciates with
+time. There are some exceptions, like commercial timber and other biological
+capital that does add value with time. Here, a pure gains tax would indeed con-
+tain a small bias in favour of slow turnover, since the tax is deferred until sale.
+The capital gains tax as we know it in practice, however, is structured to impose
+higher rates on faster turnovers.
+
+Richard Musgrave does cite the “Swedish Austrian,” Wicksell, who published
+in German on tax policy, and with great insight. In laboured prose, Musgrave
+finally concludes that a tax on “gross receipts...leads to a lengthening of the
+average period of investment”.
+
+As to definitions and measurement, some economists see nothing but
+insoluble problems in measuring or even conceiving of the lifetime of a simple
+capital item, and even worse problems with the average lifetime of a collection
+of heterogeneous items. The matter may be made to seem hopelessly complex,
+and a battery of economists, following J.B. Clark and Frank Knight, ever stand
+too ready to oblige.
+
+Fred Foldvary, an “Austrian” thinker, neatly solves the problem by distinguishing
+concrete items of capital as “capital goods,” while “capital” standing alone means
+the quantum of value.“ This quantum of value is relayed from one concrete
+capital good to another with each turnover (cycle of liquidation and replacement).
+
+59 5kousen (1990, Chap. 4, pp. 84-130 et passim).
+60 Gaffney (2009).
+
+61 Skousen (1990: 345).
+
+62 Gaffney (1957: 1970-71, 2006; Vickrey (1971).
+63 Musgrave (1953: 392-99, 396-97).
+
+64 Foldvary (2016).
+
+127
+Beyond Brexit: The Blueprint
+
+In this relaying the capital becomes completely fungible in form and composition
+and location. Fungibility is a concept that most economists grasp and teach,
+although some resist the idea of capital as a quantum of value — something
+more obvious to accountants, however, and, as Dorfman showed, to hydraulic
+engineers.
+
+Hydraulic physics and engineering provide a simple solution, ably expounded
+by Robert Dorfman in an article I cannot praise too highly.® Dorfman
+whimsically calls it “The Bathtub Theorem,” and properly acknowledges Knut
+Wicksell’s priority with his “grape-juice model,” although Dorfman’s model is
+more general. Dorfman’s bottom line is that the higher the sales/capital ratio, the
+faster a quantum of value will travel through a fund of capital. More briefly yet,
+the mean turnover of capital is the sales/capital ratio.® For the lady baking pies
+and selling out daily the annual ratio is 365. For the boreal forester the annual
+ratio is 1/70. Both figures may be modified slightly for elegant variations on
+the main point, but the difference of 26,000 times illustrates the Mill Effect so
+starkly, why bother with more? For doubters and masochists Dorfman provides
+many equations, but ends them delightfully by saying “Tt is nice that this elaborate
+calculation is really unnecessary”.””
+
+Dorfman does not treat land separately, which is a fault. Neither does he analyse
+sales taxes and their effects. I have supplied the lack. For now it is enough that
+we can measure turnover simply, and it varies hugely among sales-taxable items
+and firms.
+
+Professor William Vickrey contributed a general mathematical model published
+as an Appendix to my “Tax-induced Slow Turnover of Capital”. He showed how
+“Yield Taxes” (sales taxes on timber harvests) slow down average rotation periods.
+He equates average tree life with the sales/capital ratio simply by inverting the
+order of integration — a simple trick for him, a mathematician.” It was consistent
+with his lifelong efforts to tax capital gains as they accrue, following the Haig-
+Simons definition of income.
+
+Summary
+
+We are left with this. Jobs depend on turnover. Turnover is measured by the
+sales/capital ratio, which varies hugely among different firms, products, locations,
+stages of the cycle — and tax regimes. Elected officials control the last, and we as
+economists try, at least, to influence elected officials. Sales taxes, rampant and
+rising in our times, depress turnover heavily, and so depress demand for labour —
+both the number of jobs and their pay rates.
+
+65 Dorfman (1959).
+
+66 Dorfman (ibid. p.353).
+
+67 Dorfman (ibid., p. 372).
+
+68 Gaffney (1976, mathematical appendix).
+69 Gaffney (1971).
+
+70 Vickrey (1971).
+
+128
+Europe's fatal affair with VAT
+
+Property taxes have the opposite effect, and so may some aspects of income
+taxation. We do not here address how both property and income taxes may be
+modified for the better, although they may and should be. Our main point here is
+that sales taxes (and their twin, VAT) are among the worst possible choices when
+the objective is to make jobs and raise pay rates.
+
+The USA, with all its faults, has no national VAT. We do not lack for crusading
+VATsters. They chide us for being behind Europe. As the EU careens to financial
+crisis, and derivative political crises, while world capital flees for refuge in the
+USA, the evidence of history is not speaking well for VAT. Forecasting is perilous,
+and some see doom ahead for the U.S. dollar, but as of this writing the evidence
+is against VAT. What Dien Bien Phu did for France’s empire, VAT is doing for
+France’s economy, and with it all of Europe’s.
+
+‘Sales taxes, rampant and rising in our times,
+depress turnover heavily, and so depress demand
+for labour - both the number of jobs and their
+pay rates.’
+
+129
+Beyond Brexit: The Blueprint
+
+6
+
+Scholarly origins of
+and support for VAT
+
+E HAVE SEEN how Maurice Lauré pioneered VAT in France in 1954,
+
+whence it grew with the idea of European Union, before going viral around
+the world. Lauré was not the first to broach the idea, however. Others had been
+tilling the seedbed before. Of course, everyone touting a retail sales tax had been
+conditioning minds for years before, but there were only few who limned out the
+specific form of VAT.
+
+One was the American economist Thomas S. Adams.’”! Adams was disturbed
+by the growth of income taxes, especially on “business” (property) incomes, and
+proposed substituting a national tax on gross sales. His prose was muddy and
+equivocal, and anyway, Andrew Mellon soon led Congress to lower surtax rates
+on high incomes, relieving much of rich families’ grievances and Adams’ case
+against income taxes.
+
+Another was Wilhelm von Siemens,” who saw VAT as a technical improvement
+to avoid cascading in the German sales tax. Siemens could cite some earlier
+pamphlets as supports, but they and he were only on the margins of power and
+there was no follow-up. Soon German governments, saddled with debts and
+reparations, turned from collecting taxes to printing money, causing one of
+history’s worst hyperinflations.
+
+The high income-tax rates of World War 1 in the USA led to a spate of proposals
+for a national sales tax, including some from Andrew Mellon, W.R. Hearst,
+Ogden Mills, and his allegedly liberal friend R.T. Ely. While they never prevailed
+nationally, their views reinforced a climate of opinion that influenced the many
+states that rushed in a horde to substitute retail sales taxes for property taxes in
+the 1930s. Another less obvious factor was the 18th Amendment (Prohibition)
+which cut deeply into Federal revenues from sumptuary excise taxes on alcohol,
+forcing more reliance on income taxes, both corporate and personal. The du Pont
+family subsidized the campaign to repeal the 18th Amendment, a less extreme
+but more successful move to relieve themselves and their class from income taxes.
+
+71 Adams QJE (August 1921).
+72 Von Siemens (1918).
+
+130
+Europe's fatal affair with VAT
+
+The du Ponts, as major owners of GM, also had an interest in holding down
+gasoline taxes.”
+
+The next tranche of advocates included scholars Irving Fisher, Kaldor, Meade,
+and Prest. Following World War 2, Carl Shoup of Columbia joined the tranche.
+General Douglas MacArthur as head of SCAP” was in a position to dictate many
+policies to occupied Japan, and he picked Shoup to head an advisory group on
+tax policy. Shoup, of professorial and objective mien, was the scion of Paul Shoup,
+President of the Southern Pacific Railroad and developer of upper class Los Altos
+in San Mateo County. Shoup came out strongly for a VAT.” He was one of the
+first American economists to push VAT abroad. Like MacArthur, he hoped that
+his policies applied first in a foreign nation would set an example to be followed in
+the USA itself, but it did not work out that way, either for him or later Americans
+working for the IMF, World Bank, OECD, and other international bureaucracies.
+
+More recent champions are Pete Peterson, Harold Somers, Michael Dukakis
+and his advisor Larry Summers, Cary Brown, James Buchanan, Paul Krugman,”
+G.N. Hatsopolous, James Poterba, Steve Forbes, Rick Perry, Robert Hall and Alvin
+Rabushka backed by The Hoover Institution, Newt Gingrich, Milton Friedman,
+Richard Armey, Henry Aaron, Charles McLure, Richard Lindholm, John Due,
+Raymond Mikesell, Arnold Harberger and many others. The Republican platform
+of 2012 even included a plank to repeal the 16th Amendment and adopt a national
+VAT. Centrists scoffed at the extremism, but in our times we have seen how fast,
+sometimes, extreme becomes mainstream.
+
+The EU as Enforcement Cartel
+
+The European Union has required and spawned its own governing legislatures
+and bureaucracies in bewildering array, layered on top of existing national bureau-
+cracies. These new agencies take on powers and lives and agenda and academic
+satrapies of their own, like our own Federal Reserve System. Like most bureaucra-
+cies they tend to aggrandize and perpetuate themselves and freeze in place. A major
+recent shift is evident. Control has shifted from Social Democrats to Conserva-
+tives representing bankers and other lenders. A critic describes them as the “giant
+Goldman-Sachs squid.” The metaphor is exaggerated, but a useful mnemonic of
+where power now lies.
+
+In 1998 the OECD was pressuring errant nations to raise tax rates. It campaigned
+against tax regimes it stigmatized as “harmful” because they might attract
+mobile capital.”” By 2013, raising income taxes was off the table, unthinkable,
+
+73 More recently Pierre (Pete) Samuel du Pont IV, ex-Governor of Delaware, has come out against state sales taxes.
+Times and families change, or perhaps “Pete” is cycling back to his ancestor and namesake, PS. du Pont the Physiocrat.
+Otherwise, however, he is prominent in ultra-conservative causes and politics.
+
+74 Supreme Command, Allied Powers.
+
+75 Shoup was overborne by the rival mission of Detroit banker Joseph Dodge, representing Truman, who preferred
+income taxes modified by fast write-off.
+
+76 It is hard to understand how Krugman, today’s leading champion of deficits, in 1989 co-authored
+Overconsumption, a criticism of spending,
+
+77 Report of OECD Committee on Fiscal Affairs (1998), Harmful Tax Competition, an Emerging Global Issue
+
+131
+Beyond Brexit: The Blueprint
+
+unmentionable, a solecism. The prevailing dogma was that raising tax rates would
+choke recovery and lower the tax base, as Laffer once warned. The focus was on
+“austerity,” meaning to lower spending on social programs and force down wage
+rates. Protesters in debtor nations see The Troika and its appanages as a hydra-
+headed cartel of bankers and Germans to reduce them to debt slavery. Conspiracy
+theory and paranoia? More likely what we see is just the unconscious or semi-
+conscious comity of people with common interests working in harmony. Either
+way the results are much the same.
+
+One thing the old and the new EU agencies share in common is making an
+ideal of tax “uniformity” among nations. Sales-taxers have long seen their need
+for the same ideal within nations or even big states. California is our biggest State
+in all but area, and also the most isolated by topography, so it most resembles a
+nation. Accordingly, it has led the march to state sales taxes. For example, in 1955,
+California sales-taxers invoked the doctrine of “uniformity”: if only every city
+raised the sales tax, no retailer or buyer could escape it by fleeing toa city without
+one. Accordingly, our Legislature encouraged local sales taxes state-wide.’® The
+State collects it, and returns it to each municipality of origin. A central power
+can overcome interjurisdictional tax competition, as Europe’s Troika agencies are
+attempting now. Thus, EU was the necessary pre-condition for VAT. The two
+have grown together.
+
+‘Europe now enjoys a colossal Peace Dividend,
+one of the biggest and longest in history. The idea
+that this should lead to national bankruptcies is
+absurd and ridiculous.’
+
+Why do lender groups like Europe’s Troika come to the aid of debtors
+approaching peonage?
+
+It is a survival mechanism found in nature. Most parasites stop short of
+destroying their hosts because they need them for the future. Most predator
+populations leave behind a saving remnant of their prey to supply the next
+generation of their food supply. Mankind most consciously saves both the seed
+corn and the breeding stock for future generations. Thus lender groups have an
+interest in keeping borrowers solvent enough to repay the principal of debts,
+while also risky enough to have low credit ratings calling for high interest rates.
+Lenders also want to discourage debtors from seeking other lenders, and maintain
+a united front to discipline debtors who default.
+
+Has Europe reached the limit of its taxable capacity? The thought is nonsense
+in the light of history. The Cold War wound down from 1989. Today the USA,
+
+78 Bradley-Burns Uniform Local Sales Tax Act, Revenue and Taxation Code Section 7200.
+
+132
+Europe's fatal affair with VAT
+
+the only nation with no VAT, bears the cost of policing and defending Europe,
+and most of the world too. Europe for centuries before now poured its treasures
+into a series of internecine wars from which the EU has rescued it. Europe now
+
+‘The bottom line is that Europe is strangling itself
+with VAT, while the USA, for all its many serious
+faults, is surviving better without one.
+
+enjoys a colossal Peace Dividend, one of the biggest and longest in history. The
+idea that this should lead to national bankruptcies is absurd and ridiculous on its
+face. The alternative hypothesis is that Europe’s woes are endogenous. A major
+cause is heavy reliance on VAT — the main tax to which Laffer’s warnings might
+apply — and the lack of substantial taxes on property or its income, the taxes
+to which Laffer’s strictures least apply. The evidence of Europe’s solvency and
+untapped taxable capacity is the high level of its land prices compared with
+America’s. International buyers are paying record-smashing figures for homes
+in world-class neighbourhoods like Woodside and Los Alto Hills, San Mateo
+County, for example, because our prices, steep as they look to us, are still cheaper
+and the quality of life may be better than in counterpart regions of Europe.”
+The bottom line is that Europe is strangling itself with VAT, while the USA,
+for all its many serious faults, is surviving better without one. Well may we
+chant, “Vive la différence? We still cling to the remnants of a property tax system
+inherited from earlier times when we led the world in real production and real
+per capita income, making us a magnet for immigrants from the world — from
+
+‘Let us pray that the python of VAT never wraps
+us in its coils; let us work to make that prayer
+come true.
+
+the “wretched refuse” kind to the most talented kind, both of which strengthen
+us when we offer them chances to work and invest productively. We have an
+income tax system that, while riddled now with counterproductive loopholes,
+still prohibits the tax-depreciation of land and occasionally succeeds in taxing the
+unearned increment of land values. We still find some investment “loopholes”
+that were designed constructively to reward real income-creating investing in new
+capital. Let us pray that the python of VAT never wraps us in its coils; let us work
+to make that prayer come true.
+
+79 LAT 1-29-13, p.B5.
+
+133
+Beyond Brexit: The Blueprint
+
+Bibliography
+
+“On saving Europe”, The Economist, 9-17-2011.
+
+Aaron, Henry, and Harvey Galper, 1985, Assessing Tax Reform. Washington: The
+Brookings Institution Adams, Thomas S., 1921, “Fundamental Problems of Federal
+Income Taxation”. QJE 35 (4):528-53.
+
+Andelson, Robert A., with Mason Gaffney, 1979. “E.R.A. Seligman’s Attack on “The
+Single Tax”. In Andelson, R.A. (ed.), Critics of Henry George. Madison, N.J.: The
+Fairleigh- Dickinson Univ. Press, pp. 273-92.
+
+Anderson, John E., 2003. Public Finance. Boston: Houghton-Mifflin co.
+
+Anderson, B.M., Jr, 1913-14, “'Unearned increments’, land taxes, and the building
+trade” Q/E XXVIII, pp. 411-14.
+
+Arnott, Richard, and Joseph Stiglitz, 1979. “Aggregate land rents, expenditures on public
+goods, and city size.” Q/E XCIII(4), November.
+
+Bigelow, John, (ed.) 1868. Autobiography of Benjamin Franklin. Philadelphia: J.B.
+Lippincott; London: Triibner & Co.
+
+Blommestein, Hans J., et a/., 2011. Overview OECD Sovereign Borrowing Outlook,
+OECD Journal Financial Market Trends Vol. 2011 #2.
+
+Bogart, William T., David E Bradford, and Michael G. Williams, December 1992.
+“Incidence and allocation effects of a state policy shift: the Florio initiatives in New
+Jersey”. Working paper #4177. Cambridge, MA, NBER. Rpt. NTJ.
+
+Bradford, William, 1627, History of Plymouth Plantation, from the original ms of
+Bradford’s history Of Plimoth Plantation, Book II. Boston: Wright and Potter Printing
+Company, State Printers, 1898, pp. 258- 61.
+
+Brinkley, Alan, 1982, Voices of Protest. NY: A.A. Knopf.
+
+Brown, Harry G., 1924, rpt 1979. The Economics of Taxation. Chicago: Univ. of Chicago
+Press. Chapter III.
+
+Brown, Harry G., 1939. “The incidence of a general output or general sales tax”. /PE
+47: 254-62. Rpt as corrected in Musgrave, Richard A., and Carl S. Shoup (eds.), 1959,
+Readings in the Economics of Taxation, 1959, Selected by a Committee of the AEA,
+Homewood IL, Richard D. Irwin, Inc.
+
+Brownlee, W. Elliot, 1985, “Wilson and Financing the Modern State: The Revenue Act of
+1916”. Proceedings of the American Philosophical Society 129 (2), pp. 173-210.
+
+134
+Europe's fatal affair with VAT
+
+Buchanan, James, and Marilyn R. Flowers, 1975, The Public finances. Homewood, IL:
+Richard D. Irwin Co.,
+
+Chernow, Barbara — see Columbia Encyclopedia.
+Cobb, Clifford, 2014, letter to the author.
+
+Colm., G., J.M. Dodge and R.W. Goldsmith (1946), A Plan for the Liquidation of War
+Finance and the Financial Rehabilitation of Germany, Office of Military Government For
+Germany (U.S.), May 20.
+
+Columbia Encyclopedia, The, 5th Ed, 1995 (Barbara A. Chernow and George A. Vallasi
+(eds.).
+
+Commager, Henry Steele, and Richard Morris, 1975. The Spirit of seventy-six. NY:
+HarperCollins Publishers. Rpt 1995, Da Capo Press ppb.
+
+Commons, John R., 1934, rpb 1961. Institutional Economics. Madison: University of
+Wisconsin Press, 1961; first published by The Macmillan Company, 1934. Vol. II, p.
+819.
+
+De Jong, Frank, 2012, Letter to the author, 10-20.
+Domar, Evsey D., 1953. “The case for accelerated depreciation”. Q/E XLVII, pp. 493-519.
+
+Domar, Evsey D., and Richard A. Musgrave, 1943-44, “Proportional Income Taxation
+and Risk-Taking”, QJE LVII (May 1944); rpt in Musgrave, Richard A., and Carl S.
+Shoup (eds.), 1959, Readings in the Economics of Taxation, 1959, Selected by a Committee
+of the AEA, Homewood IL, Richard D. Irwin, Inc. pp. 493-524.
+
+Dorfman, Robert, 1959, “The Bathtub Theorem”. Q/E.
+Due, John, 1963. Government Finance. 3rd Ed. Homewood, IL: Richard T. Irwin Co.
+
+Due, John, 1972. “The proposal for a federal VAT to substitute for local property taxes in
+financing education”. Taxation with Representation, pp. 41-46.
+
+Ebel, Robert D., 1972, The Michigan business activities tax. East Lansing, MI: Board of
+Trustees of MI State Univ.
+
+Ebel, Robert D. and Papke, James A. 1967. “A closer look at the VAT”. NTA Proceedings,
+pp. 158-59 Ebrill, Liam et al., 2001, The Modern VAT. Cited in Kathryn James, q.v.
+
+Ebrill, Liam et a/., 2001, The Modern VAT. Cited in Kathryn James, q.v.
+
+Eisner, Robert, 1952, “Depreciation allowances, replacement requirements, and growth’.
+
+AER LXVI, pp. 820-52.
+
+European Economic Council, First, Second, and Sixth Council Directives, 1967, 1977,
+and 2006.
+
+Fisher, Irving, 1937. “Income theory and income taxation in practice”. Econometrica V
+
+pp. 1-56.
+
+Fisher, Irving, 1942. Constructive income taxation. NY: Harper and Bros.
+
+135
+Beyond Brexit: The Blueprint
+
+Foldvary, Fred E., 2008, “The Gaffney Quantum Leap Effect”, Prosper Australia
+htpps://www.prosper.org.au/2008.
+
+Foldvary, Fred E., 2016, “Shifting the Landscape”, in Fred Harrison (Ed), Rent Unmasked.
+London: Shepheard-Walwyn (publishers) Ltd., pp. 85-104.
+
+Foner, Eric, 1988. Reconstruction. New York: Harper and Row, Publishers.
+
+Foner, Philip, 1948, 1974, Introduction to Thomas Paine, The Age of Reason, Secaucus,
+NJ: Citadel Press.
+
+Gaffney, Mason, 1962. “Ground rent and the allocation of land among firms’. In Miller,
+Frank (ed.), Rent Theory. Univ. of MO Research Bulletin #810, MO A.E.S., pp. 30-39,
+74-82.
+
+Gaffney, Mason, 1970. “Adequacy of land as a tax base”. In Holland, Daniel (ed.),
+The Assessment of land value. Madison: The U. of Wisconsin Press, pp. 157-212.
+Gaffney, Mason, 1988. “Tapping land rents after Prop. 13”. Western Tax Review (annual),
+pp. 1-55.
+
+Gaffney, Mason, 1991, ‘Capital’ Gains and the Future of Free Enterprise. A paper delivered
+at a program with James Poterba at the annual meetings of “Common Ground”,
+Philadelphia.; rev. D/91. Used as Working Paper, Dept. of Economics, U.C.R.; and for
+
+class notes.
+
+Gaffney, Mason, 1993. The Taxable capacity of land. In Patricia Salkin (ed.), Land Value
+Taxation. Albany: The Government Law Center of Albany Law School, pp. 59-82. Also
+in Proceedings, pp. 60-74.
+
+Gaffney, Mason, 2005. “The sales tax: history of its fallen champions”. For class use. Also
+entitled “Sales tax suicides through history”, but lacking long bibliography.
+
+Gaffney, Mason, 2009, “Four Vampires of Capital”. Land and Liberty , 212 Piccadilly,
+London, Vol. 116 (4), #1224, pp. 12-17.
+
+Gaffney, Mason, 2009, “The Hidden Taxable Capacity of Land”, /nternational J. of Social
+Economics, Vol. 36 #4 , pp. 328-411. Extensive bibliography, pp. 393-403.
+
+Gide, Charles, 1890-91. “The single tax and the Jmpot Unique’. QJE V,pp. 494-95.
+
+Gide and Rist, 2nd Edn, 1948, History of Economic Doctrine. London: George G. Harrap
+& Co.
+
+Goode, Richard, 1955. “Accelerated depreciation allowances as a stimulus to growth’.
+QJE LXIX pp. 191-221.
+
+Groves, Harold, 1946, Public Finance. New York: Henry Holt and Co.
+
+Hagemann, Harald, 2013. “Germany after World War II: Ordoliberalism, the Social
+Market Economy, and Keynesianism’. History of. ‘Economic Thought and Policy, Issue 1
+
+Harberger, Arnold, 1966. “Let’s try the VAT”. Challenge 15, pp. 16-18.
+
+Hatsopolous, G.N., Paul Krugman, and James Poterba, 1989. Overconsumption.
+Washington, D.C., and Waltham, MA.
+
+136
+Europe's fatal affair with VAT
+
+Hayek, FA., 1951. John Stuart Mill and Harriet Taylor. Chicago: Univ of Chicago Press.
+
+Heller, Walter W. “Tax and Monetary Reform in Occupied Germany.” National Tax
+Journal 2, no. 3 (1949): 215-231.
+
+Herber, Bernard, 1967. Modern Public Finance. Homewood, IL: Richard D. Irwin.
+
+Hill, Malcolm, 1999. Statesman of the Enlightenment — the life of Anne-Robert Turgot.
+London: The OTHILA Press.
+
+Hirshleifer, Jack W. Economic Behavior in Adversity. Chicago: University of Chicago Press,
+1987.
+
+Hotelling, Harold, 1938. “The general welfare in relation to the problems of taxation and
+of railway and utility rates”. Econometrica 6: 242-69.
+
+Hutchison A.R., 1968. Land rent as public revenue in Australia. Melbourne: Land Values
+Research Group.
+
+Hyman, David, 1990. Public Finance. 3rd Ed. Chicago: Dryden Press.
+
+James, Kathryn, 2011. “Exploring the Origins and Global Rise of VAT”. The VAT Reader,
+Tax Analysts 2011, pp. 15-22.
+
+Kaldor, Nicholas, 1955. An expenditure tax. London: George Allen and Unwin.
+
+Keen, Michael, and Ben Lockwood, 2007, The Value-Added Tax: its Causes and
+Consequences. (IMF Working Paper 183).
+
+Kindleberger, Charles P., and E. Taylor Ostrander, 2003. “The 1948 Monetary Reform in
+Western Germany”. Chapter 7 in Flandreau, Marc, Carl-Ludwig Holtfrerich, and Harold
+James (eds.), International Financial History in the Twentieth Century, German Historical
+Society, Washington, D.C., and Cambridge University Press, pp. 169-196.
+
+Klein, Julius, 1920. The Mesta. Cambridge: Harvard Univ. Press.
+
+Klopstock, Fred H. “Monetary Reform in Western Germany.” Journal of Political Economy
+57, no. 4 (1949): 277-292.
+
+Lauré, Maurice, 1954. Influence de la fiscalité sur la formation de lépargne’. Rev. de sciences
+et legislation financiers, pp. 290-309.
+
+Lindholm, Richard, 1976, Value-added Tax and Other Reforms. Chicago: Nelson-Hall
+Inc. (Outstanding bibliography included.)
+
+Lindholm, Richard W., 1951. “The impact of accelerated depreciation”. N7J IV, pp.
+180-86.
+
+Lutz, E A. “The German Currency Reform and the Revival of the German Economy.”
+Economica 16 (May 1949): 122-142.
+
+Marshall, Alfred, 1947. Principles of economics. 8th ed. London: Macmillan and Co. Pp.
+794- 804.
+
+McLure, Charles, 1972. VAT: two views. Washington, D.C.: American Enterprise Inst.
+
+137
+Beyond Brexit: The Blueprint
+
+McWilliams, David, 2011. “Small savers will pay price if euro goes into meltdown”. Irish
+Independent Nov. 30.
+
+Medina, Harold, 1960. (former judge, Atty. with Swaine, Cravath and Moore, NY). A
+written legal opinion for PI. Prentice, of TIME, Inc. Copies on file.
+
+Mendershausen, Horst. “Prices, Money and the Distribution of Goods in Postwar
+Germany.” American Economic Review 39 (June 1949): 646-672.
+
+Mill, John Stuart, 1848. Principles of Political Economy. People’s ed. Boston: Lee and
+Shepard.
+
+Musgrave, Richard, and Evsey Domar — see Domar.
+
+Musgrave, Richard, 1953, Theory of Public Finance. New York: McGraw-Hill National
+industrial Conference Board, 1929, pp. 163-66).
+
+Nelson, Carl, Gladys Blakey and Roy Blakey, 1935. Sales Taxes. Minneapolis: League of
+
+Minnesota Cities.
+
+Neumark, Fritz, 1963. Neumark report of fiscal. ‘and / financial. committee on tax harmonization
+in the common market. Chicago: Commerce Clearing House.
+
+Nevins, Allan, and Henry Steele Commager, rpt 1996, Pocket History of the U.S., Trustees
+of Columbia University.
+
+New Columbia Encyclopedia (NCE).
+
+Norton, Thomas J., 1941. Zhe Constitution of the U.S. Cleveland: The World Publishing
+Company, p.51
+
+Oakland, William, 1972. “A national VAT”. Taxation with representation. Pp.61-66.
+Oakland, William, 1987, “Value-added Tax”, in The New Palgrave.
+
+Parlement de Paris, 1784, Rémonstrance of the First Two Estates to Turgot’s 6 edicts.
+Peterson, Pete, 1987. “The Morning After.” The Atlantic Monthly, October.
+
+Pigou, A.C., 1928. .A Study in Public Finance. London: Macmillan.
+
+Prest, A.R., 1963. “A VAT coupled with a reduction in taxes on business profits”. British
+Tax Review. Pp. 338-41.
+
+Quesnay, Francois, ca. 1760, rpt 1963, various works.In Ronald Meek (ed.), The Economics
+of Physiocracy. Cambridge: Harvard University Press.
+
+Ramsey, EP. 1927. “A Contribution to the theory of taxation”. EJ XXXVII pp. 47-62.
+
+Rolph, Earl, and George Break, 1949, “The Welfare Aspects of Excise Taxes”, /PE 47(1).
+Rpt. In Musgrave, Richard, and Carl Shoup, q.v.
+
+Rothbard, Murray, 1997. The Single Tax: Economic and Moral Implications. The Mises
+Institute and London: Edward Elgar. At p. 197. Rebutted by Gaffney, 2009, pp. 328-411,
+pp. 95-96.
+
+Roy, Joaquin, 2007, Reflections on the Treaty of Rome and Today’ EU. Coral Gables: Miami
+
+European Union Center.
+
+138
+Europe's fatal affair with VAT
+
+Salmon, Felix, 2011. Europe’s disastrous summit. www.reuters.com/us, Dec 9, 2011
+00:56 EST.
+
+Sanborn, E B. (ed.), 1890. ‘The single tax discussion held at Saratoga Sept. 5, 1890. Concord,
+MA, Reported for the American Social Science Assn.
+
+“Saratoga single tax debate”, 1890. /. of Social Science 27, October.
+Schenk, Alan, and Oliver Oldman, 2007, Value Added Tax: a Comparative Approach.
+Shoup Mission, 1949 and 1950, Report on Japanese Taxation. 4 Vols. Tokyo: SCAP.
+
+Shoup, Carl, 1948. “Incidence of the corporate income tax: capital structure and turnover
+rates”. NT], 1, pp. 12-18.
+
+Shoup, Carl, 1956-57, “Theory and background of the VAT”. NTA Proceedings, pp. 6-20.
+Shoup, Carl, 1969, Public Finance. Chicago: Aldine.
+Shoup, Carl, 1972, “The VAT”. Taxation with representation. Pp. 67-72.
+
+Shoup, Carl, and Louis Haimoff, 1934. “The Sales Tax”. Columbia Law Review 34:5 pp.
+809-30 and at p.312.
+
+Simon, Herbert, 1943. “Incidence of a tax on urban real estate”. Q/E 57: 398-420.
+Skousen, Mark, 1990. The Structure of production. NY: The NYU Press.
+
+Skousen, Mark, 2009, 2nd Ed., The making of modern economics. Armonk, NY: M.E.
+Sharpe.
+
+Slitor, Richard E., 1963. “The VAT as an alternative to corporate income tax”. Tax Policy,
+Nov.-Dec.
+
+Smith, Adam, 1776, Wealth of Nations. 5th Edition. Rpt 1937, NY: Modern Library.
+Smith, Dan Throop, 1970. “VAT: the case for”. Harvard Business Review 48, pp. 77-85.
+
+Somers, Harold, 1964. The Sales Tax. Sacramento: Assembly interim committee on
+revenue and taxation, California Legislature.
+
+Statesman of the Enlightenment — see Hill, Malcolm.
+
+Stiglitz, Joseph, 1977. “The theory of local public goods”. In Martin Feldstein and Robert
+Inman (eds.), Zhe Economics of Public Services, International Economic Assn., Vol.43.
+
+Stiglitz, Joseph, 2010, Freefall. W.W. Norton.
+
+Sullivan, Clara K., 1965, The Tax on Value Added. New York: Columbia University Press.
+Sullivan, Dan, 20014, letter to the author.
+
+Surrey, Stanley, 1970. “The VAT: the case against”. Harvard Business Review 48: pp. 86-94
+“Taxation with Representation”, 1972, The VAT: a preliminary analysis. Arlington, VA.
+Tideman, Nicolaus, 1999. “Better-than-neutral’ taxation’. Unpublished ms.
+
+Ture, Norman, 1972. VAT: Two Views. Washington, D.C.: American Enterprise Inst.
+
+139
+Beyond Brexit: The Blueprint
+
+Turgot, A.R.J. — see Hill, Malcolm.
+
+Turgot, A.R. Jacques, 1766, (Kenneth Jupp transl., 1999), Reéflexions sur la Formation et
+la Distribution des Richesses. London: Othila Press.
+
+Vallasi, George A. — see Columbia Encyclopedia.
+
+Van Doren, Carl, 1938. Benjamin Franklin. NY: The Viking Press.
+
+Vickrey, William, 1947. Agenda for Progressive Taxation. New York: Ronald Press.
+Vickrey, William, 1971. Mathematical appendix to Gaffney, 1971.
+
+Vickrey, William, 1977. “The city as a firm’. Public Economics, papers of William Vickrey.
+Rpt In Martin Feldstein and Robert Inman (eds) The Economics of Public Services.
+
+von Siemens, C.F, 1921, /mproving the Sales Tax.
+
+Wallich, Henry C. Mainsprings of the German Revival. New Haven: Yale University Press,
+1955.
+
+Weiss, Martin, and Larry Edelson, June 18 2012, “Double Trauma Strikes Europe”,
+Money and Markets.
+
+Wicksell, Knut, 1901, transl. E. Classen 1938. The “grape-juice model”, from Lectures on
+Political Economy. NY: The Macmillan Co., pp. 172 ff.
+
+Williams, T. Harry, 1969, Huey Long. NY: A.A. Knopf.
+
+Young, Allyn A., 1929, Review of “A.C. Pigou: a Study in Public Finance”. E.J. XXXIX
+(March 1929). Rpt in Musgrave, Richard A., and Carl S. Shoup (eds.), 1959, Readings
+in the Economics of Taxation, 1959, Selected by a Committee of the AEA. Homewood IL,
+Richard D. Irwin, Inc. pp. 13-18.
+
+140
+Europe's fatal affair with VAT
+
+141

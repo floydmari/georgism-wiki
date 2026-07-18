@@ -1,0 +1,587 @@
+      Economic Aspects of Water Resource Policy*
+                               By MASON GAFFNEY
+
+This ARTICLE REPORTS what I as an economist think I have learned from
+the experience of the western states in economizing on water, which may
+suggest what eastern researchers might learn by directing some of their
+efforts toward sifting and evaluating the western history. This is one area
+in which history flowed backwards: the western evolution anticipated that
+in the East by a hundred years. Learning from the West does not mean
+copying the West for the West made mistakes as well as scored successes.
+Prom the total experience I shall seek to distill what seem to me to be
+general economic truths bearing on water resources.
+
+
+WATER DEVELOPMENT is a fit subject for community action. There is
+little real scope for a free market in water supply systems, which involve
+economies of large scale all along the line, and particularly in distribution.
+Water supply has all the qualities of a classic natural monopoly, and usu-
+ally should be treated as such. This does not mean that the community
+should not use good economic pricing and costing principles in planning,
+fixing the size, delimiting, upgrading, setting a price structure and other-
+wise managing its water supply system. It does not rule out consumer
+sovereignty. It simply means that these economic problems need to be
+settled in the public arena rather than in the market place.
+  Western water users have had long experience with community organi-
+zations at the local level—with commercial water companies, municipal
+governments, mutual water companies, and a variety of public districts.
+The most successful is a type of special service district called an "irrigation
+district." These originated and have their prototype in California, but
+have spread, with modifications, to all states.
+  California irrigation districts historically arose from the extremity of
+small farmers who needed an organization to provide them with an es-
+sential service which otherwise would, because of its large scale, be the
+sole preserve of giant landowners. Without districts, these giants would
+have dominated arid lands agriculture, an outcome which was indeed en-
+visioned and fostered by the Desert Land Act of 1877. For their success,
+districts required three basic powers: taxation; bonding; and forced in-
+  * This article is based on a paper delivered at a colloquium on "The Social Sciences in
+Water Resources Research" at Pennsylvania State University on June 4, 1968.
+132       The American Journal of Economics and Sociology
+
+clusion of lands within the economical service area. Taxation let them
+engage in and cover the deficits of marginal-cost pricing, a practice es
+sential to the best development of decreasing cost services. Bonding let
+them build large works as units, ahead of demand, a practice necessary to
+achieve economies of scale. Forced inclusion let them serve a compact
+area, a practice essential to avoid dissipation of gains in fragmentation of
+service area and "irrigation sprawl." In addition, it has proven vital that
+their tax power be limited to bare land, thus avoiding focusing of taxes
+on early improvers, fragmentation of demand, retardation of development,
+and hardship on smaller landowners and intensive farmers.
+   With these powers, small farmers were able to pool their economic
+strength and develop water. Irrigation districts now serve over 4 million
+acres in California. In these areas, subdivision of land into small farms
+has been the rule, during a half century when consolidation and engross-
+ment have been the paramount national trends. Irrigation generally pre-
+supposes an intensive application of labor and capital to land, with close
+management of small tracts. Small optimal scale of the farm unit in con-
+trast with large optimal scale of the water supply unit led to waste wherever
+one factor was allowed to override the other. This made it optimal to
+separate the two functions: hence the great success of districts.
+  The economies of scale achieved are in the main the following:
+   a. Pooling of supplies to regularize the total. Water flows are a vari-
+able raw material to their consumers, and whatever puts the supply on a
+firm basis is of particular value. On top of natural flow variability there is
+an added instability imposed on users when a river is divided among many
+small claimants under various historical rights of use. A district pools
+these various supplies and legal rights. Offsetting fluctuations counteract
+one another, reducing aggregate instability and uncertainty. The same pool-
+ing principle applies on the demand side as well.
+  b. Water storage, surface and underground. Surface storage generally
+enjoys large scale economies within the limits of the market, although these
+are limited by the qualities of specific damsites. Irrigation districts have
+built more and larger dams than any private agency, and are only outdone
+by federal agencies. Many of the federal agency dams, incidentally, pro-
+vide service for the primary benefit of those same giant landowners whose
+size is often explained by their exclusive ability to achieve economies but
+who have called in government to do the big jobs for them.
+   c. Diversion from streams and pumping from aquifers. Scale economies
+to these operations are fully realized at low volumes, but they are important
+              Economic Aspects of Water Resource Policy                133
+
+in humid areas today because scale economies are usually first perceived
+in diversion and pumping.
+   d. Conveyance and distribution. Because aqueduct costs increase with
+length of line, but only in proportion to the square root of line capacity,
+nothing is so wasteful as parallel lines. The principle is nearly universal,
+and results in distributive networks of all kinds being recognized as nat-
+ural monopolies. "Bundling" of small individual water lines into large
+ones makes it economical to carry water long distances, so much more
+land may be served from a given source. It also makes it feasible to sup-
+ply the peak demand capacity needed to provide water at all times.
+   e. Financing. Irrigation districts have much better credit ratings than
+their component members, and can tap national credit markets through
+bond sales. The credit they receive is passed on to incoming settlers in
+an interesting way. Note, first, that the conversion to more intensive
+agriculture, and the payoff to the investment in water supply, presupposes
+immigration. The small farmers who are willing to submit to the exact-
+ing work of developing new farms are not wealthy, and they need credit.
+Irrigation districts pass credit along to new settlers in the form of unap-
+preciated land prices. It is not that districts depress prices—then there
+would be little motive for the original landowners to form them. But
+they prevent gross speculative increases, and they discourage holdouts.
+That is because they tax land, and their bonds are liens on land. The
+settler thus buys land cheaper, because it is mortgaged to the district. And
+as he pays his taxes over many years, he pays off the mortgage.
+  This feature of district finance is little understood, but is probably the
+most important single factor in their success.
+  f. Synchronization of interdependent development. The development
+of new communities requires simultaneous risky investments by large num-
+bers of independent decision makers. The success and viability of each
+investment depends on the others. Whoever gets out ahead runs more
+risk, and is in that sense exploited by laggards. A giant landowner can
+if he will (a big "if") "internalize the externalities," and proceed on all
+fronts at once, needing only confidence in himself. A community of in-
+dependent men needs a community synchronizer. An irrigation district
+serves the need. By this tool, the community as a whole makes the initial
+commitment—and puts tax pressure on all its members to match up.
+   Owing to decreasing costs in water supply, and its limitational nature,
+the optimal water supply works are built ahead of demand. They must
+come first. Immediately there ensues a crisis period—will the owners of
+134        The American Journal of Economics and Sociology
+
+the served lands respond fast enough to forestall bankruptcy? There
+must be a synchronizing mechanism to assure that they do.
+   g. Compactness of settlement. By forcing inclusion of contained lands,
+and limiting service areas, irrigation districts achieved great savings in
+distribution. This saving in water supply cost, however, proved to be the
+least of the gains. Every other distributive network—roads, power, tele-
+phone, delivery and collection systems for farm inputs and outputs, etc.—
+benefited as well. The purchasing power of many small farmers was
+brought to focus on local towns, which responded with improved storage,
+packing, shipping, retailing, farm supply, and so ad infinitum. Farmers
+had closer contact with one another, virtually eliminating the need for
+self-sufficiency and vertical integration which forces many isolated ranches
+and plantations to be so huge, and paternalistic or tyrannical. The way
+was opened for the development of "total community."
+  Along with the benefits, the total community suffered some of the dis-
+economies of regional specialization, as land taxes forced each parcel to
+its highest use. There is a peak demand problem in seasonal requirements
+for farm labor that may be aggravated by specialization. But irrigators
+responded to this with a diversification to match the specialization—both
+are possible when a high volume comes from a small area. The classical
+evils of monoculture are the product of plantations, and have been overcome
+by intensive irrigators.
+  h. Management of aquifers As aquifers underlie large areas, and as
+water is pooled in them, they require unified management. Irrigation
+(and other) districts have undertaken this. Aquifer storage is cheaper
+than surface storage as a rule, and with modern developments in pumping
+and electric power distribution, aquifer management is the vital frontier
+of water supply.
+   i. Drainage. Every water supply creates a drainage problem, usually
+for someone else. There is no money in water removal, but it must be
+done, and it is obviously best done on a large scale under a unitary system.
+   j. Multipurpose river development. Irrigation districts, as semi-public
+agencies with tax power, have been able to justify devoting some of their
+reservoir space to flood control power, and recreation.
+  k. Marshaling social surpluses to finance social infrastructure. Eco-
+nomic development of an area generates many spillover benefits and costs,
+produced by some individuals but received by others. In general, the net
+balance is strongly positive, that is, spillover benefits exceed spillover costs.
+This creates and constitutes a social surplus. The surplus is indigenous to
+a limited area within which economic development has occurred, and so is
+             Economic Aspects of Water Resonrce Policy                 135
+
+in the main captured by local landowners in the form of higher rents and
+land values. Irrigation districts, having a first mortgage on this income,
+can tap it to pay for prerequisite projects of large optimal scale. Thus
+the surplus is harnessed to useful purposes.
+   Surplus-generating spillovers are of two kinds: technological and pecu-
+niary. The technological kind is easier to understand: if my irrigation
+water, imported from a surface source, percolates underground, raises my
+neighbor's water table, and reduces his pump lifts, he benefits. The pe-
+cuniary kind is more important, more likely to be positive, more transcen-
+dent of particular technologies—but harder for the concrete mind to grasp,
+and therefore less appreciated. It comprises the benefits of "total com-
+munity" discussed above (f, g).
+   Pecuniary spillover benefits are not limited to physically adjacent lands
+because they are transmitted not by touch but through the market. They
+show up mainly in towns and cities serving farm hinterlands. California's
+irrigation districts recognized this relationship long ago, and acquired the
+right to include cities and to tax their lands at market value to help finance
+the farmers' irrigation water. Far from resenting this, city voters have
+usually supported irrigation bond issues by larger margins than the as-
+sociated farm voters! In a few cases they have carried them over a neg-
+ative majority of farmers!
+  Crises of drought are socially useful in that they overcome inertia,
+which is the paramount obstacle to economic development. Crises should
+therefore be viewed as opportunities, rather than as catastrophes. The
+continuing water crisis of southern and south-central California has made
+this the most productive agricultural region in the country, and perhaps
+in the world. The historical theory of "challenge and response" finds
+strong support on the Pacific Coast, as one travels from south to north:
+the humidity rises, and the agriculture declines. Community institutions
+for irrigation are not easily accepted by complacent individual landowners
+where there is no great crisis, even where there is great potential gain. The
+community institution, when it does come, creates a man-made crisis for
+all slow-adapting landowners, through heavier land taxes, and thus pro-
+vides challenge and provokes response.
+   Irrigation farming in the arid western states has had a powerful impact
+on national markets The irrigation district device is the prime mover.
+Heavy fixed charges on land prompt rapid, intensive and compact develop-
+ment. This in turn fosters local markets and social life and "total com-
+munity." It has made small farming economically viable, in a half century
+when everywhere else the trend is toward farm enlargement. In the last
+136       The American Journal of Economics and Sociology
+
+decade, it is true, there has been some reconsolidation inside irrigation dis-
+tricts: irrigation farmers are not entirely immune from the same factors
+of mechanization and finance and marketing that have favored consolida-
+tion elsewhere. But a greater cause has been the retirement of old bonds,
+and resulting reduction of land taxes and rise of land value as an invest-
+ment for absentees. Whenever new districts are formed, or whenever
+existing districts are revitalized by new bond issues, the tax pressure on
+land is renewed and subdivision becomes again the paramount trend.
+   Community action at the level of the giant private landowner, as en-
+visioned in the Desert Land Act, remains a possibility. Historically, the
+giant owners moved at a snail's pace compared with the irrigation districts
+and played largely the role of parafeudal reactionaries. More recently
+many of them have shown great enterprise, abetted by outside income and
+the privilege of writing off capital investments in agriculture as business
+expenses for income tax purposes. Their renewed vigor has easily cap-
+tured the fancy of those who prefer private to public enterprise in all
+cases; and it possesses a greater flexibility, thanks to the smaller numbers
+involved in key decisions, and the relative freedom from institutional ob-
+solescence. I remain a skeptic, however. Most of the giants report neg-
+ative taxable incomes each year, indicating quite clearly the nature of the
+motivation behind their enterprise, and its dependence on non-farm in-
+come. Their special skill is holding land in the path of taxpayer-financed
+new water projects, and lobbying for projects they prefer.
+
+                                      II
+OTHER LEVELS of community action are needed too. At the state
+level, the primary need is for the state to define property rights in
+water. In most states these rights are ambiguous and, to the extent
+they are clearly defined, not intelligently defined. The ambiguity is
+exploited by the possessors of superior rights to maximize their own
+position, often at considerable social cost. This begins by their gaining
+enjoyment of a public resource without ever paying the public anything
+for it—often euchering the public into paying them to develop it—and
+then denying that the valuable resource they enjoy is taxable real property.
+The whale structure of property rights being raised on this foundation of
+double-think, there is resistance at every step to economical measures de-
+signed to rationalize systems of water allocation.
+   In some areas the state can also serve a wholesaling function vis-a-vis
+irrigation districts and other local groups as retailers. That is, it builds
+and administers trunk lines. It probably should apply on regional levels
+many of the same principles which irrigation districts have made work on
+              Economic Aspects of Water Resource Policy                  137
+
+micro, local levels, but no state has to my knowledge done so—a pity.
+This has resulted in great magnification of cost of state water supply proj-
+ects, and deferment and destruction of benefits.
+   Federal action is necessary to define interstate water property questions.
+Other federal participation has many marks of the porkbarrel, doing for
+states and localities what they could and should do for themselves or, more
+often, what should not be done at all. There has been great obsolescence
+of institutionalized intent, with irrigation water supply and navigation
+taking priorities that today should go to pollution abatement, and perhaps
+mining, municipal, and industrial supply.
+  The riparian doctrine of water rights is not suited to conditions when
+water becomes scarce. As increased demands on fixed supplies make water
+scarce in all fifty states, the riparian doctrine needs simply to be abandoned
+everywhere. It fails on several criteria.
+   a. Initial allocation. Water is reserved for the owner of riparian land,
+in proportion to the area of his holding, regardless of productivity. Only
+by chance would these lands be those where the water was most productive.
+  A pernicious byproduct is a bias against subdivision, except in long nar-
+row "bowling-alley" parcels, on the French pattern, which are uneco-
+nomical to use. It is no accident that the riparian doctrine is identified
+with large landowners.
+  b. Motive to develop. The doctrine in its original form does not con-
+template consumptive withdrawals of water. They may or may not be
+allowed—in many jurisdictions one simply does not know until he has
+tried it. Consumptive use is possible only by modifying or departing from
+strict riparian doctrines. Generally such departure is allowed, but thence-
+forward the entire fabric of law rests on a principle that is being denied,
+leading to the kind of confusion and uncertainty that was once associated
+with a geocentric theory of the heavens. "Oh, what a tangled web we
+weave, when first we practice to deceive." Better not to base an institution
+on a lie,
+   Another problem is that water storage is not permissible under riparian
+rights.
+   In western water history, riparians have played a dog-in-the-manger role.
+The doctrine was used to claim the right to stop others from developing
+water which the riparian was not using. He felt no pressure to develop
+it himself. He lacked a need; he lacked a right to export to lands that
+had a need; he paid nothing for it; and he couldn't sell it. The com-
+bination was so anti-developmental that the doctrine had to go, and in most
+states it did.
+   c. Constraint on uneconomic use. The riparian's right to daim water is
+138        The American lournal of Economics and Sociology
+
+not limited by economic use. There is more question about his right ac-
+tually to use water, since that is limited by the claims of downstream
+riparians. But there is no limit on his right to claim that the original
+flow of the stream, undiminished and unpolluted, should reach his land.
+   d. Rationing under scarcity. When a river goes low, riparian rights are
+often prorated among riparians in proportion to their landholdings. Pro-
+rationing is an uneconomical principle of allocation, however common in
+many walks of life. Cut back everyone by 25 per cent and some will
+miss the marginal water very little, others a great deal.
+  e. Transferability. Riparian rights are rigid and non-transferable. They
+are part and parcel of a landholding in the most complete sense. They
+can be disseverd only by the owner's failing to assert his right against
+an adverse use which establishes a prescriptive right—but then how trans-
+ferable is the prescriptive right so established? As to selling, the only
+thing a riparian can sell is an agreement not to assert his rights, but that
+is of little value to most buyers because it does not bind other riparians,
+each of whom has something like an absolute claim on the natural flow.
+There is a recent water rights settlement on the Kaweah River, California,
+where a block of riparians accepted money as part of a complex settle-
+ment in which they agreed not to push the nuisance value of some ancient
+unused rights, but that is a rare bird.
+   f. Pooling for cooperative community action. The riparian right is tied
+to the individual parcel of private land. The concept of pooling supplies
+in a community system is alien to that concept. In those rare cases where
+riparian rights have been pooled, it is by such devices as computing con-
+tinually what the natural flow past the riparian land would have been
+under natural conditions, and supplying the owner that amount through
+the community system, regardless of cost and competing needs. Imagine
+a city water supply system in which each household had to be located on
+a stream, and divert and process and return its own water. Fortunately,
+the law gives a priority to domestic and public interest uses which lets
+cities override riparian constraints and avoid such absurd outcomes. But
+outside cities, in the looser organized unincorporated areas of the world,
+exactly such absurdities are forced on agriculture, industry, and mining by
+the riparian doctrine where it prevails.
+  g. Management of aquifers. Ground and surface water are both water,
+and they intercommunicate in a grand system. The riparian right applies
+to the surface subsystem, and owing to its historical priority, imposes on
+aquifer management the responsibility of preserving the status of the sur-
+face subsystem, even where that involves much lesser values than the under-
+ground subsystem. Thus, pumped wells near a stream, especially on an
+               Economic Aspects of Water Resource Policy                   139
+
+alluvial cone with coarse gravel, may effectively divert water from the
+stream, and be enjoined by downstream riparians. The aquifer must then
+be managed in such a way as to preserve the original natural surface flow.
+This is an increasingly wasteful requirement as it becomes realized that
+good aquifers are a valuable resource comparable in value to water itself.
+  h. Containment of service area. The riparian service area is contained,
+generally quite narrowly, but not in a rational way. One riparian's land
+extends back many miles from the stream; another may be just a few feet.
+There is generally a prohibition against export over a watershed line, which
+again serves to contain, but not necessarily economically—the best use of
+water may be over the line, and there are dozens of cases in point.
+   i. Distributive equity. The riparian system divides up water rights es-
+sentially in proportion to the prior ownership of land. Thus, a valuable
+public resource is given away to those who already have most resources;
+there is no equipoise for others. We live in a world of curious double
+standards and compartmentalized thinking. In discussing problems of
+the Negro ghetto, and the urban dispossessed, we immediately look to the
+suburbs and find our villains in middle-class salaried and professional
+people who have worked their way out of the slums. We propose and
+invoke redistributive taxation with a right good will. But in discussing
+the ownership of property, that's different. Here, few seem to question
+the propriety of "To him that hath shall be given." As a salaried pro-
+fessional person who burns a lot of midnight oil, I find this irksome. If
+the dispossessed have a claim on society, would this not be better asserted
+through a public claim on natural resources?
+   The appropriative doctrine of water rights is no answer to the faults of
+the riparian doctrine. Judging it on the same criteria, its faults are dif-
+ferent, but no less disqualifying.
+   a. Initial allocation. "First in time, first in right" is the operative prin-
+ciple. This is clearly pro-developmental, but it goes too far and fosters
+premature development. The reason is that water is everywhere in tran-
+sition from being submarginal to being a valuable rent-bearing resource;
+and under this doctrine, one seeks to capture submarginal waters in order
+to enjoy their later rents. To capture the waters one must invest real
+social capital in diverting, storing, and applying water. Capital is diverted
+from socially productive uses to this factitious task of capturing submar-
+ginal resources. In today's capital markets, with real interest rates on
+mortgages rising to 8 per cent, wouldn't it be nice to have back some of
+the concrete frozen in the premature and abortive Feather River Project,
+for instance?
+   b. Motive to develop. The motive to capture is clear enough, and that
+140        The American Journal of Economics and Sociology
+
+involves a certain kind of development. Excessive diversion capacity is
+the rule. What one does with water after diverting it is something else
+again, and most appropriative takings of water are characterized by in-
+adequate investment in post-diversionary aspects of development, espe-
+cially those designed to save water.
+   c. Constraint on uneconomic use. The appropriator's motive is to use
+as much water as he possibly can. Withdrawing water, a social cost, is
+to him a private gain, because it is the basis of his claim to future water.
+So appropriators learn to live in an environment where it is considered
+socially creditable to overirrigate. Much of the water "shortage" of the
+arid west would disappear overnight if appropriators had to start paying
+an economic price for water; and it would be greatly abated if they simply
+started thinking in terms of a zero price, instead of, as now, regarding
+the price to be negative because of the gain they realize by piling up a
+great "history" of "use."
+   d. Rationing under scarcity. Under the "first in time, first in right"
+doctrine, appropriators are senior and junior to one another along a scale
+from the first to the last. X"hen water falls low, the juniors drop Out
+first and lose everything before the next senior appropriator loses any-
+thing. In result, there is no pooling of risk whatever. The top senior
+has a 100 per cent firm supply; the last junior has a supply so uncertain
+it is unusable. Two basic economizing principles are denied. One is
+marginal productivity. The junior appropriator who loses all his water
+obviously loses marginal units of high productivity, while the senior re-
+tains marginal units of low productivity. The other is pooling of risk.
+The doctrine is conceived in terms of an assumed necessity for vertical
+integration: that is, there is no market for the raw material, water, but
+every user rather owns his own supply. His supply is a piece of the larger
+common supply, but his piece is defined in such a way as greatly to in-
+crease the aggregate variability of supply above that which nature imposes;
+to increase the uncertainty as well; and, finally, to distribute these risks
+unequally.
+  e. Transferability. Appropriative rights are more transferable than
+riparian rights, but the advantage is nothing to crow about: it is the super-
+iority of 2 per cent efficiency over 1 per cent efficiency. The reasons are
+complex and lengthy. The empirical fact is undeniable. There is no
+market for appropriative rights worthy of the name. They simply are not
+bought and sold freely, despite crying needs for water transfers in every
+area. Anyone who comes east touting the appropriative doctrine by virtue
+of its greater flexibility bears examination—a very searching cross-examina-
+tion in search of factual evidence.
+              Economic Aspects of lVater Resource Policy                 141
+
+  f. Pooling for cooperative community action. In this particular, ap-
+propriative rights rank reasonably high. A public agency, formed to
+rationalize a multitude of individual rights, may acquire them and manage
+them centrally, provided they serve the same lands from the same points
+of diversion, and again provided that one agency does not try to acquire
+water from another—the flexibility is largely within agencies, and within
+areas of land. Most of the irrigation districts described earlier operate
+with appropriative rights.
+   g. Management of aquifers. Appropriative rights to surface water often
+interfere with and take priority over aquifer management, in the same
+manner as riparian rights.
+   h. Containment of service areas. Here, the evaluation is mixed. Where
+administered by irrigation districts, appropriative rights are applied to
+contained service areas. However, that is more to the credit of the dis-
+trict institution than the appropriative institution. Where claimed by in-
+dividuals, or small individual districts, service areas from given streams
+open to appropriation are generally scattered. "First in time, first in right"
+puts the premium on jumping the gun. The farther one is from a source,
+and the more convenient it is to others, the greater the motive to get
+there first to preclude them. So, typically, the first claimants on a source
+are scattered; soon the supply is fully claimed, and the included dry lands
+can never get water from this source. They can, however, search about
+to tap other sources, remote to them. The results need not be imagined,
+they may be observed throughout the arid states.
+   i. Distributive equity. The amount of water that complaisant courts
+will recognize as being used "beneficially" is a function of, among other
+things, the amount of land that the user has to apply it to. So this doc-
+trine, like the riparian, tends to distribute public water to those who al-
+ready own private land, in proportion to the size of the landholding.
+
+                         III
+AQUIFER MANAGEMENT presents problems. The cheapest way to store
+and treat water is in an aquifer provided by nature, where one is ac-
+cessible. The modern frontier of water management is in unitized aquifer
+management: recharge, containment, and control of withdrawals, and
+conjunctive use of ground and surface water. Present ground water law
+suffers the same cultural lag as that for surface water. The law gen-
+erally contemplates perfect vertical integration—in this case quite literal—
+between the aquifer and the overlying landowner. Of course, this is
+hydrologic-economic nonsense, and the result is waste of many kinds.
+  The failure to economize on valuable rent-bearing waters in locations
+142        The American Journal of Economics and Sociology
+
+of water shortage leads to costly development of submarginal waters.
+There is little in the law to suggest that anyone understands that water
+occurring naturally in southern California, for instance, is worth just as
+much as water that is conveyed there at high cost, and should be priced
+and economized upon accordingly. The tendency is to waste local waters.
+This magnifies many fold the cost of water supply. Institution-builders
+need to take drastic steps to overcome this glaring fault in water law.
+  Water in locations where water is scarce is a rent-bearing resource. De-
+veloping water need not, therefore, require subsidy; on the contrary, it can
+yield a surplus, and should, through the imposition of prices collected by
+the owner of the water—preferably, in my judgment, a public body of
+wide jurisdiction.
+  A water system consists of several subsystems with different economic
+characteristics. While the "production" end of the business yields rents,
+the local distribution subsystem is a decreasing cost operation which, if
+properly managed with price of service equal to marginal cost, yields
+negative rents, or specious deficits.
+   It is fairly common for the management of a complete system to ar-
+rogate the surpluses from water production to cover the deficits of dis-
+tribution. This is a bad practice. It results in excessive extension of
+distribution systems, and inadequate economy of scarce waters in arid areas
+of high demand.
+   The major cost in water supply is conveyance and distribution. It is
+largely a study in transportation economics. Dams and reservoirs are
+photogenic and have memorable names, but aqueducts, canals, ditches,
+pipes, siphons, checks, pumps and furrows eat up the money. Hence the
+overriding importance of keeping service areas compact, and exploiting
+local sources before ranging over long hauls for remote sources.
+  Very few lands and waters are adequately served with high-quality
+distribution systems, with pressure for sprinklers and excess capacity to
+supply water on demand. Limited capital funds are squandered on ex-
+cessively long lines; on excessive diversionary capacity; and on premature
+capture of submarginal waters. Not enough is spent on raising line ca-
+pacity and quality.
+                                        Iv
+WATER IN MOST USES evinces diminishing returns.    From this fol-
+low some important corollaries. One is that user charges on water
+can cut back marginal consumption, and rise quite high, without driving
+land out of use, because the average product of water is very high. User
+              Economic Aspects of Water Resource Policy                 143
+
+charges will cause water to be spread thin, and serve a great deal more
+land.
+  A second corollary is that water supply is necessarily political. "People
+will vote for water, but pay for power" is the aphorism. In light of the
+diminishing returns to water, this makes some sense. Water supply is
+a small tail that wags a very large dog. It is a limitational input—no
+water, no life—---and yet a very small part of the total capital cost of de-
+veloping land. This helps us understand why westerners are willing to
+invest in what seems like such an extravagant manner to assure themselves
+a water supply, but refuse to pay in user charges anything at all compar-
+able. This is, of course, compounded by the appropriative doctrine, and
+as much more so by the variability of the natural supply. Hirshleifer,
+Milliman, and De Haven devoted a chapter of their excellent book on
+Water Supply to refuting the notion that "water is different," and made
+many excellent points; yet it would be hard to name an input at once so
+essential to life, and so variable in supply. Some stream flows jump up
+and down from 20 per cent or so to 400 per cent or so of their mean
+annual levels, in addition to seasonal patterns. Cydical storage from
+wet years to dry is very costly, owing to the infrequent use of the storage
+space. There being no market for raw water, every city and farm or
+farm group must acquire its own individual source—pure vertical inte-
+gration, a market structure that everywhere magnifies aggregate need for
+raw materials. If it wants a firm supply, it must hog enough natural flow
+so that the minimum expected flow will cover its needs. If it expects to
+grow, it must add yet more, to serve the undeveloped lands already within
+its boundaries (remember urban sprawl?) plus lands it hopes to annex.
+In light of these relationships it is to be expected that water seekers would
+depart widely from standards of economy.
+   To the extent that the problem is man-made, institutional that is, it
+is curable. I look forward to better and better systems of pooling water
+supplies. This will not come through an open market in raw water, be-
+cause transportation cost is the major cost, and a natural monopoly, owing
+to decreasing cost to aqueduct capacity. It will come through making
+water a public utility over wider and wider areas, on the model of the
+Metropolitan Water District of Southern California. But whatever we
+do it will have to recogniae that water is in some ways different, and it
+is these differences that will continue to make it more political than most
+raw materials need to be.
+  A third corollary is that standby capacity to serve water on demand is
+as important as water itself. In order to justify other investments, land-
+144         The American Journal of Economics and Sociology
+
+owners need assurance that their limitational water supply will not run
+out. The assurance of firm water permits great intensification of land use.
+    The cost to the supplier of water is therefore largely the cost of sup-
+plying capacity—a fixed, not a variable cost. The benefit to the user
+ is also a fixed function of time more than of use. If the seller has to
+ rely solely on user charges, he finds that most of his volume sales come
+when water is abundant and the marginal value is low. And of course he
+has acute financing problems if he has to rely on periodic spurts of in-
+come to cover regular fixed costs.
+  And so it makes great sense for landowners to pay for water supply
+systems as one pays for insurance, on a fixed periodic basis, independent
+of use. Only at times of peak demand will there be a scarcity, either
+of raw water or system capacity, to ration. At other times, having the
+excess capacity, user charges should be very low.
+  A fourth corollary is that pricing of water should be very flexible. Peak
+demand needs can be greatly reduced by letting user charges rise to high
+levels when system capacity is loaded. Here I go down the line with
+Hirshleifer, Milliman, and De Haven. Price rationing is far superior in
+many respects to alternative methods; and the absence of any peak ration-
+ing leads to great waste in unneeded capacity.
+
+                                      V
+THE ECONOMIC SUCCESS of water supply investments depends on the
+availability of multiple quantities of capital in complementary public and
+private investments. At a time of acute capital shortage and high interest
+rates, like right now, a prudent man or community should not plunge
+into an ambitious scheme of community development in the absence of
+compelling counterarguments. This is less true in the humid states, where
+water supply may often be viewed more as a supplemental investment in
+established communities than the foundation of a complete new commu-
+nity. But the difference is one of degree only, for artificial water supply,
+if optimally developed, brings a new standard of intensity to an existing
+community, with economic effects not unlike those in the arid states.
+  But life cannot stand still because of high interest rates. Rather, we
+must take greater pains to economize on capital. To that end, the com-
+bination of land value taxation and legal reform sketched above becomes
+more urgent than ever.
+University of Wisconsin, Milwaukee
+

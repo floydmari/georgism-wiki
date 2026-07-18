@@ -1,5 +1,17 @@
 # BACKLOG.md — Wiki Improvement Queue
 
+**CLAIM (2026-07-15, session 2z2oww, branch `claude/georgism-wiki-interlink-publish-2z2oww`):
+the claim-lane enrichment wave — objection steelman "government will waste the rent"
+(public-choice), lvt-reduces-sprawl 5th supporter, foldvary-reply-gochenour-caplan,
+raley-citizens-dividend verify, T3 mechanical-debt batch (BC SVT rates + Sources
+annotations). Does NOT touch the Slack lane (udw74p's).
+UPDATE 2026-07-16: lane extended per Floyd — the GAFFNEY CORPUS (masongaffney.org, 190
+files; hosting permission from the site's webmaster, Gaffney d. 2020). Triage ledger:
+sources/gaffney-corpus-triage.md; tier-1 mirrored to sources/gaffney/ + OCR'd. BLOCKED
+SUB-ITEM: Floyd's Notion priority list (app.notion.com/p/floydm/MAson-Gaffney-pages-…)
+is a JS app; needs either the vault's Notion API key (Floyd's word required) or a paste
+of the list. Cross-check tier-1 against it when available.**
+
 ## ⟳ RESUME HERE (updated 2026-07-15, session udw74p — post-deploy)
 
 **CLAIM: the entire Slack-candidates lane (issue #24 waves + TIER-2 citation wave) is owned by
@@ -58,6 +70,137 @@ commit+push+preview — publishing is Floyd's process.
 
 ---
 
+**RECONCILED 2026-07-18 (session 2z2oww, branch claude/georgism-wiki-interlink-publish-2z2oww):
+~14 waves this session (LOOPLOG "WoN Book II + Book IV deepen-scan" through "Gaffney tier-2
+land-theory batch"), 855→867 pages, lint 0 errors throughout. Headline outcomes: the
+WS-TECH-RENTS lane (a-d discovery + gated instrument-comparison synthesis) is fully COMPLETE;
+Gaffney corpus work landed C9 "Land as a Distinctive Factor of Production" (rewritten),
+D1 "Rising Inequality and Falling Property Tax Rates" (new page), and the Alaska 1977 Part II
+appendices (155pp OCR'd, VERIFY resolved with independent econometric corroboration of the
+bonus-bidding-undercaptures-rent case); the Doucet Ch. 21 capitalization cluster finished 5/5
+de-referenced to primary text; the stub-queue leftovers wave closed out 3 named stale
+"todo" stubs that already existed and backfilled 3 real gaps instead (henry-george-jr,
+bc-assessment-authority, parliament-act-1911); a T3 mechanical-debt batch annotated 23 Sources
+and expanded 4 thin articles. This pass also caught and corrected several stale BACKLOG notes
+below (checked off, corrected, or tightened in place) — see the dated annotations throughout
+NOW/NEXT. Below reflects true state as of this reconciliation; treat anything not re-dated
+2026-07-18 as carried forward unchanged from its last verification.**
+
+## NOW (in flight today, 2026-07-10)
+
+### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
+### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
+**[RECONCILED 2026-07-15, session 2z2oww — this block was stale: every NOW item below has
+shipped.** problems 1–6 all live (incl. `problems/homelessness-is-housing-cost-problem.md`);
+benefits 7/8/10 live; justice pair lives in `narratives/` (land-justice-and-indigenous-
+reconciliation, land-and-the-black-white-wealth-gap); people stubs shipped under corrected
+names (ronald-burgess, richard-noyes, eric-goldman, david-redfearn); the public-choice
+"government will waste the rent" steelman = `objections/public-choice-critique.md` +
+`objections/rent-revenue-breeds-corruption.md`; canons-of-taxation, sector-model,
+margin-of-production, progress-and-poverty-institute stubs all exist. Kept below only for
+provenance — do not re-plan.]**
+- [x] [PROBLEM-BUILD] tier:T2 status:done — problems 1–6 (PLAN §Gap analysis):
+      (1) rising land values/housing costs drive poverty; (2) homelessness is a housing-cost
+      problem (Colburn-Aldern anchor); (3) housing unaffordability is a land problem
+      (KSS/Glaeser-Gyourko/Hsieh-Moretti — first stub landed this shift:
+      problems/housing-unaffordability-is-a-land-problem.md); (4) rent-seeking drags growth
+      (Murphy-Shleifer-Vishny, Baumol); (5) the young are locked out of land wealth;
+      (6) land underuse / speculative vacancy in high-demand cities.
+- [~] [BENEFIT-BUILD] tier:T2 status:in-progress — benefits 7, 8, 10 (PLAN):
+      (7) taxing land/rents increases productivity (OECD WP620 w/ Xing caveat, HGT, ATCOR as
+      attributed theory); (8) LVT reduces the cost of housing (land PRICES well-supported vs
+      RENTS paid weaker — say so); (10) rent dividends reduce poverty/inequality
+      (Jones-Marinescu, Segal, WITH the Goldsmith correction from this shift's purge).
+      Benefit 9 (construction/density) already exists — [EXPAND] split-rate-increases-
+      construction with Oates-Schwab + Song-Zenou at next touch, don't duplicate.
+- [~] [PROBLEM-BUILD] tier:T1 status:in-progress — justice pair 11–12 (T1 drafts personally,
+      highest editorial sensitivity): (11) land justice & Indigenous reconciliation;
+      (12) land & the Black-white wealth gap. Rule: document the intersection (shared
+      diagnosis, divergent remedies), do NOT overclaim geoism = reconciliation/reparations.
+- [ ] [SYNTHESIZE] tier:T1 status:todo — as each new page ships: add it to
+      concepts/the-problems.md / concepts/the-benefits.md indexes (lint requires claim_type;
+      indexes must stay current per EDITORIAL §5b).
+
+### People stubs from book scanning (sources/inbox/T1-TODO-people-pages-from-book-scanning.md)
+- [x] [EXPAND] tier:T2 status:done (verified 2026-07-18) — stale duplicate of the
+      RECONCILED note above: all remaining named authors shipped under corrected names
+      (people/ronald-burgess.md, richard-noyes.md, eric-goldman.md, david-redfearn.md all
+      present in the repo). TODO file already moved to
+      sources/inbox/consumed/T1-TODO-people-pages-from-book-scanning.md.
+
+### VERIFY burn-down (queue regenerated this shift: 121 markers on wiki pages)
+- [ ] [VERIFY] tier:T1 status:recurring — the **unclassified channel (82 markers)** is the
+      biggest lane: triage each into a channel or resolve directly. Recent pace: 4–8
+      markers/wave (waves 10–11). Channels snapshot: owner-input 2 · book-copy 8 ·
+      unblocked-web 23 · new-source 6 · unclassified 82. Queue file is ground truth.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — Cherokee casino-dividend primary
+      (Costello/Akee line) resolved via genuine source-by-source access check, not memory:
+      Costello et al. (2003, *JAMA*) is paywalled (Cloudflare-gated, Unpaywall closed, no
+      free mirror) — only the full structured PubMed/Europe PMC abstract (with exact
+      numbers/odds ratios) is verified; Akee et al. (2010, *AEJ:App*) full text read free via
+      PMC author manuscript; Akee, Simeonova, Costello & Copeland (2018, *AER*) read free via
+      NBER WP 21562 (new — adds personality-trait/psychiatric-symptom findings through age
+      16). An unverifiable "$6,000-by-2001" figure from the prior draft was removed.
+      research/great-smoky-mountains-casino-dividend.md rebuilt with an Access Level section;
+      registry.csv rows corrected (Costello Scan Depth Deep→Medium, Akee 2010 Deep→Heavy,
+      new Akee 2018 row added); wired into resource-rent-dividends-work.md and
+      rent-dividends-reduce-poverty.md.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — 3 of the "5 needs-new-source markers" this
+      note flagged were **already resolved** (Loop wave 4, 2026-07-11, "forage x8" —
+      commit ed8f40b) and this note was stale; re-verified genuinely this session (fetched
+      primaries, not memory) rather than re-foraged from scratch:
+      (1) **Letchworth empirical data** — concepts/garden-city-movement.md's "Letchworth:
+      the empirical record" section already anchors on Katie O'Sullivan, *Berkeley Planning
+      Journal* 28 (2017, peer-reviewed) + the Heritage Foundation's audited *Report &
+      Accounts 2024*; both re-fetched this session and every quoted figure verified verbatim
+      (O'Sullivan's abstract language matches exactly; the Report's £14.4m income, "65p
+      managing / 34p reinvestment," and £600k grants figures all confirmed via pdftotext
+      against the actual PDF). No further action needed — RESOLVED, not open.
+      (2) **COST/Harberger-tax self-assessment evidence** — concepts/harberger-tax.md's
+      Evidence section already had genuine field/theory sourcing (Weyl-Zhang 2022 *AEJ:EP*,
+      Gstach 2009 *Metroeconomica*, Taiwan's Equalization of Land Rights Act Art. 16, all
+      re-verified this session). ENRICHED further: Alven Lam & Steve Tsui's Lincoln
+      Institute working paper (1998) — already a Light-scanned registry row used on
+      land-value-increment-tax.md — was read in full this session (pdftotext) and yields
+      real performance data absent from the page: Taiwan's owner-self-declaration-plus-
+      purchase-right design was superseded by a government-set "publicly declared value"
+      benchmark from 1968/1977 on, and measured LVIT capture (Taipei City 1979-1993) ran
+      far below statutory rates (~32% of the assessed-value increment vs. 40-100% statutory;
+      an estimated <20-24% of true market-value gains). Registry Scan Depth Light→Heavy,
+      citations 1→2. Also logged (not cited — genuinely paywalled, no free mirror on
+      Springer/SSRN/ResearchGate/Academia.edu): Niou & Tan, "An Analysis of Dr. Sun
+      Yat-sen's Self-Assessment Scheme for Land Taxation," *Public Choice* 78(1), 1994 —
+      new registry row, flagged for the Hermes unblocked-web channel.
+      (3) **Symmetry/decrement objection's academic anchor** — objections/
+      symmetry-decrement-objection.md already carries Hagman 1977 (*Univ. Queensland Law
+      J.*, re-verified via search-indexed exact-quote match after AustLII 403'd this
+      session), the Uthwatt Report (1942), Hagman & Misczynski's *Windfalls for Wipeouts*
+      (1978, the field's canonical statement — its title literally is the objection), and
+      Alterman's cross-national durability analysis. This is already the strongest
+      available academic anchor; checked the task's Hayek *Constitution of Liberty* ch. 22
+      lead and it does not hold up — ch. 22 is "The Monetary Framework," not betterment
+      levies, so no substitution needed. No further action — RESOLVED, not open.
+      Net: BACKLOG's "5 remaining" count was wrong; 3 were already shipped. lint 0 errors
+      after registry edits; dated export sources/exports/registry-export-2026-07-18.csv
+      regenerated. The other "+2 others" referenced in the old note were not identified
+      (no matching marker found anywhere in the repo) and are presumed to be a similarly
+      stale reference — a future VERIFY-burn-down wave should re-run
+      `python3 scripts/verification_queue.py` and treat its live output as ground truth
+      over old BACKLOG prose.
+
+### Public-domain texts program (sources/public-domain-texts.md; 12 texts/ pages live)
+- [x] [READ&MINE] tier:T2 status:done (2026-07-18) — Henry George Jr., *The Life of Henry
+      George* (1900) full text was already ingested (2026-07-09 wave: books/life-of-henry-george.md
+      + sources/publicdomain/life-of-henry-george.md, Scan Depth Heavy). This shift did the
+      READ&MINE: mined chapters III (1871 "flash of insight"), IX-X (P&P composition, "wept
+      like a child"), VIII-IX (1886 campaign, McGlynn/excommunication), IV (Loughrea/Athenry
+      arrests), XIV (1897 death) into books/progress-and-poverty.md, people/henry-george.md,
+      events/1886-nyc-mayoral-election.md, people/michael-davitt.md; new sourced stubs
+      people/edward-mcglynn.md, events/1897-nyc-mayoral-campaign.md,
+      organizations/anti-poverty-society.md. registry.csv In-Wiki Citations 2→10; dated
+      export regenerated. NEXT for this ledger: Mill Principles (Gutenberg 30107),
+      Progress & Poverty (55308), Garden Cities (46134), Pigou Welfare (Econlib), Hoyt 1933
+      (check renewal).
 ## NOW (opened 2026-07-10; 2026-07-18 reconciliation — nearly every lane below is DONE, see
 ## per-item evidence. The live NOW work is upstream in RESUME HERE's TIER-2 continuation.)
 
@@ -149,6 +292,141 @@ commit+push+preview — publishing is Floyd's process.
 
 ## NEXT (pick up when a NOW lane clears)
 
+- [x] [SYNTHESIZE] tier:T1 status:done (verified 2026-07-15, session 2z2oww) — the
+      public-choice steelman shipped as objections/public-choice-critique.md (Buchanan/
+      Brennan Leviathan + Tullock transitional-gains trap) with
+      objections/rent-revenue-breeds-corruption.md beside it; objections dir now 37 pages.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — WS-TECH-RENTS lane COMPLETE, a-d + gated
+      synthesis all shipped this session: (a) DSTs-as-tried →
+      research/digital-services-taxes.md (UK/France/India/Canada record, Pillar One still
+      unsigned); (b) attention/ad rents → research/maryland-digital-ad-tax.md (the Romer
+      proposal page itself, research/romer-digital-advertising-tax.md, was found ALREADY
+      shipped from an earlier wave — stale note, no duplication); (c) rent DISSOLUTION vs
+      capture → research/tech-rent-dissolution-vs-capture.md (DMA fines/interop record vs
+      US antitrust remedies); (d) is-it-rent diagnosis update → Furman/Korinek-Stiglitz/
+      De Loecker all verified ALREADY Heavy-scanned (no-ops), but two genuinely new papers
+      mined instead: research/korinek-vipra-ai-concentration.md and research/
+      korinek-lockwood-ai-public-finance.md. THEN the gated synthesis (T1) landed on
+      concepts/taxing-tech-rents.md: DST grade reconciled with Korinek-Lockwood's
+      consumption-tax-like classification; new §6 AI-specific taxes (compute/token/robot)
+      graded D-provisional; new §7 public equity stakes (SWF/windfall-clause/UBC) INCLUDED
+      at B-minus with the fair-value-acquisition trap stated plainly. 863 pages at lane
+      close, lint 0 errors.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — WS-GEOISM financial-rents & seigniorage
+      domain sweep. Inventory found the domain already substantially built (Hudson,
+      Bezemer×2, Philippon×2, Borio, Greenwood-Scharfstein, Bazot, Lapavitsas all had
+      research/ pages; fire-sector.md and finance-growth-is-land-credit.md existed).
+      Gaps filled: (1) Philippon (2015) unit-cost page — already existed, verified
+      complete, no action needed. (2) Cochrane (2013) "Finance: Function Matters, Not
+      Size" — was a Light-scanned registry row cited only as a footnote; read in full
+      and given its own page `research/cochrane-finance-function-matters.md` (tier
+      Important), the wiki's honest steelman for "finance's growth reflects genuine
+      services, not rent," wired as `challenged_by` into
+      problems/finance-growth-is-land-credit.md and into concepts/fire-sector.md.
+      (3) Seigniorage — no coverage existed; assessed and accepted (Huber & Robertson's
+      NEF report explicitly cites Mason Gaffney and models itself on Georgist land-rent
+      logic — a genuine Georgism-adjacent gap, not scope creep). New page
+      concepts/seigniorage.md, wired into bank-money-creation.md, positive-money.md,
+      new-economics-foundation.md. Lint 0 errors/850→851 pages. Registry rows added
+      (Huber-Robertson, Beneš-Kumhof) and Cochrane row upgraded Light→Heavy. **IP-rents
+      remainder note was stale** — see correction below.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — WS-GEOISM IP-rents remainder:
+      Boldrin-Levine and prize-vs-patent. Inventory found this note was stale: both
+      research/boldrin-levine-against-intellectual-monopoly.md (Tier Important, Scan
+      Depth Medium — thesis, ch.8's 23-study "weak or no evidence" finding, Watt's
+      steam engine, the pharma chapter addressed head-on as the hardest case) and
+      research/prizes-vs-patents.md (Wright 1983 mechanism-choice theory, Kremer 1998
+      patent-buyout-then-public-domain, the pneumococcal AMC field result) already
+      existed and were wired (commit 620c8e5, 2026-07-11) into concepts/ip-rents.md
+      and objections/taxing-quasi-rents-kills-innovation.md's Response section, with
+      registry rows present (3 rows, Scanned). Genuinely open piece was the
+      instrument-comparison call: read concepts/taxing-tech-rents.md's five families
+      and judged IP does NOT belong as a sixth family there — platform rent is a
+      structural moat, patent rent exists only because a statute grants it, so the
+      remedies act on different objects. Added a "Why Patents Aren't a Sixth Family
+      Here" section to taxing-tech-rents.md explaining the call and cross-linking
+      ip-rents/boldrin-levine/prizes-vs-patents, plus reciprocal See Also links both
+      directions. Rent-gradient discipline verified present on both research pages
+      (Schumpeterian objection given its due, pharma/hardest-case honestly flagged,
+      no land-certainty bleed). Lint 0 errors.
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-15, session 2z2oww) —
+      research/foldvary-reply-gochenour-caplan exists and is fully wired
+      (bears_on: search-theoretic-critique + lvt-austrian-critique; registry row 515;
+      abstract-only access honestly disclosed on the page — Springer paywalls the full text).
+- [x] [EXPAND] tier:T2 status:done (verified 2026-07-16, session 2z2oww) — lvt-reduces-sprawl
+      is at 6/5 supporters (COVERAGE gauge ✓; wave 21 completed it without flipping this line).
+      Brueckner-Kim correctly lives in challenged_by (theoretical ambiguity result), Song-Zenou
+      deliberately excluded (conventional-property-tax mechanism) — lane discipline verified
+      against primaries.
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-18, session 2z2oww) —
+      Doucet ACX de-referencing Parts 1 & 3 complete (see
+      sources/doucet-acx-dereferencing.md, prior wave: 12 sources added, 5 rejected).
+      landlords-outcome Ch. 21 cluster (Borge-Rattsø, Capozza-Green-Hendershott,
+      Hilber 2017, Buettner, Choi-Sjoquist) now 5/5 de-referenced to primary text:
+      3 already had dedicated pages from an earlier wave; Buettner and Choi-Sjoquist
+      full texts located this wave via gwern.net's Georgism archive and read in full.
+      Choi-Sjoquist promoted from an abstract-only cluster-page row to its own page,
+      research/choi-sjoquist-atlanta-lvt-cge.md (revenue-neutral-rate figures with an
+      honestly flagged source-internal inconsistency, the 18–19%-of-revenue welfare
+      gain vs. DiMasi's 6.6%, and a new progressivity-across-income-groups result).
+      Buettner's page deepened from abstract-only to the full 675-municipality
+      Baden-Württemberg regression results. See addendum in
+      sources/doucet-acx-dereferencing.md for the full ledger. Lint 0 errors.
+- [x] [FIND] tier:T2 status:done (verified 2026-07-16) — research/raley-citizens-dividend
+      candidate already verified and shipped: author/venue confirmed against the primary PDF
+      (Prof. Bill Raley, Hanyang University School of Law, "The Citizen's Dividend," 18th BIEN
+      Congress, Tampere, Finland, Aug 2018; abstract, Hanyang affiliation, and Locke-Paine-George
+      quotes cross-checked against the archived PDF text — grey literature, not peer-reviewed,
+      correctly tiered `supplementary`). Page exists, wired into concepts/citizens-dividend.md
+      (body sentence + list item + numbered source), and has registry.csv row 516. No further
+      action needed.
+- [~] [EXPAND] tier:T3 status:recurring — mechanical debt, batched: annotate unannotated
+      Sources (~25/wave, oldest pages first); thin-article burn-down (3–5/wave by inbound
+      links); trim/attribute over-cap quotes. **CORRECTION (2026-07-18): the "UPDATE
+      places/british-columbia.md stale SVT rates" sub-item was wrong** —
+      places/british-columbia.md already carries the current 2026 1%/3% SVT rates with a
+      sound gov.bc.ca cite (independently re-verified by fresh fetch 2026-07-18, wave
+      "Gloudemans LVT feasibility papers + BC SVT rate check"); it was vancouver.md, not
+      british-columbia.md, that this note had backwards — vancouver.md never carried SVT
+      rate figures itself, it correctly defers to the BC page. No edit needed on either
+      page. **Batch shipped 2026-07-18** (wave "T3 mechanical debt batch"): 23 Source
+      annotations across 15 most-neglected pages (1 honestly left unannotated, role not
+      determinable from page text); 4 thin articles expanded from material already in the
+      repo — henry-george-theorem (358→749 words), rent-seeking (346→802),
+      split-rate-taxation (322→632), 1909-peoples-budget (355→673). ~400 pages from later
+      cohorts still remain for future recurring batches; over-cap quote trimming untouched
+      this round.
+- [x] [EXPAND] tier:T2 status:done (2026-07-18) — cohesion items from the 2026-07-04 audit:
+      BC/Vancouver scope split is DONE (executed in the 2026-07-11 addendum wave —
+      british-columbia.md carries province/SVT context, vancouver.md carries city
+      history/EHT, each cross-linking to the other for its complementary scope;
+      re-confirmed live 2026-07-18 while checking the SVT rates above). **Terminology
+      normalization pass shipped 2026-07-18** (wave "cohesion terminology-normalization
+      pass"): wiki-wide grep audit of citizen's dividend / 18-year cycle / single-tax
+      variants against the house style already ruled in EDITORIAL.md §Terminology
+      (2026-07-11) found the corpus already ~98% compliant. 10 mechanical fixes across
+      8 files: 5 stray "Citizen's Dividend" mid-sentence capitals (concepts/benefits.md,
+      3x in sources/books/summaries/land-is-a-big-deal-research-summary.md,
+      books/land-is-a-big-deal.md) normalized to lowercase; 5 single-tax casing/hyphenation
+      fixes (places/denmark.md, research/doucet-does-georgism-work.md x2,
+      organizations/commonwealth-land-party.md, people/william-s-uren.md, one summary
+      table cell). 18-year cycle family needed zero content fixes — 18.6-year is already
+      correctly gated to Anderson-attributed claims throughout, with explicit sourcing
+      caveats already in place. EDITORIAL.md §Terminology extended with the audit findings
+      and the "18-year land cycle" vs "property cycle" distinction so future waves don't
+      re-litigate. Lint: 0 errors, 31 warnings (unchanged from baseline). This item is
+      now fully closed — both halves done.
+- [x] [EXPAND] tier:T3 status:done (2026-07-18) — stub-queue leftovers, wave "stub-queue
+      leftovers (3 backfills created, 4 honest skips)": all three NAMED candidates
+      (concepts/sector-model, margin-of-production, progress-and-poverty-institute) turned
+      out to ALREADY EXIST fully written — stale backlog notes (progress-and-poverty-
+      institute was below the accept bar at 1 inbound link and got wired to 4). Real output
+      = the lloyd-george/BC backfill candidates, accept-bar-tested one by one: CREATED
+      people/henry-george-jr.md, organizations/bc-assessment-authority.md,
+      events/parliament-act-1911.md (5 inbound, consolidating near-duplicate passages).
+      SKIPPED with reasons: 1913-bc-crash (would duplicate vancouver/l-d-taylor coverage),
+      land-enquiry-committee (1 substantive mention, fails bar), 1925-green-book
+      (single-page mention only), balfour (all 5 mentions tangential).
 - [x] [SYNTHESIZE] tier:T1 status:done 2026-07-17 — public-choice "government will waste
       the rent": folded into objections/public-choice-critique.md (which already carried
       the Leviathan side) as objection prong 4 (Buchanan's Level-2/3 budget rent-seeking +

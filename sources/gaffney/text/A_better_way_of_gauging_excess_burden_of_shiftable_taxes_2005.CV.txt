@@ -1,0 +1,376 @@
+A_ BETTER WAY OF GAUGING THE EXCESS BURDEN OF SHIFTABLE TAXES
+
+Tax-induced Misallocation and Underuse of Land
+
+Pp. 1-4 are a one-year model; pp. 5-8 deal with durable capital
+Mason Gaffney, (Rev. January 2005)
+
+The excess burdens of shiftable taxes are gauged here by analyzing tax-induced shifting
+of land to lower uses. This is advanced as a truer and more general measure of excess burden,
+compared with the conventional exposition of “excise tax effects” and “Harberger triangles.”
+
+Why Land?
+
+Supplies of inputs for using and improving land are highly elastic and will not hold still
+to be taxed. Likewise, demands for the products of land are elastic, precluding forward-
+shifting.’ The supply of land, within any taxing jurisdiction, is fixed: tax jurisdictions are
+DEFINED as specific areas of land.
+
+Purpose and Method
+
+The purpose here is to show how most kinds of taxes bias landowners against uses more
+heavily taxed. Landowners have choices among several different uses, and different intensities
+of each different use. Tax-avoidance takes the form of shifting land to lower uses.
+
+The use yielding the highest site rent and/or site value is "the highest and best use" (as
+judged by the market).” Any tax on using or improving land changes the ranking of different
+uses, so the highest use before-tax becomes a lower use after-tax.
+
+Key Assumptions
+
+Supply of land is fixed (inelastic) inside the taxing jurisdiction.
+Supply of capital is elastic - it flows across boundaries.
+Supplies of labor, materials, utilities, etc. are also elastic.
+Demands for products and services are elastic.
+
+A SIMPLE ONE-YEAR MODEL
+
+To introduce this point most simply, we begin with a one-year model, where all costs are
+in the form of labor expenses, and there is no capital other than some working capital and
+supplies, too little to affect our findings. This avoids the complications of compound interest
+and discounting, and turnover of working capital, which we introduce later after making the
+basic point.
+
+1 For simplicity, we do not here consider the monopoly position of some landowners. The writer has dealt with this
+elsewhere (Gaffney, 1994). It turns out to strengthen the case made here.
+
+2 Judging the principle of consumer sovereignty itself, in the manner of Veblen for example, is beyond the scope of
+this demonstration.
+Excess Burden 2
+
+Notation
+
+G = Gross revenues
+
+C = Costs (all in the form of current expenses)
+N = Net revenues (same as land rent)
+[IN=G-C]
+
+t = tax rate applied to C (e.g. a payroll tax)
+NAT = Net revenues after tax
+
+Note that under our assumptions, all taxes on Costs are shifted to the landowner, i.e. they come
+out of NAT.
+
+NAT=G-C-tC=N-tC (1A)
+Likewise, taxes on Gross revenues come out of NAT.
+
+NAT=G-C-tG=N-tG (1,B)
+Method
+
+The technique of this model is to find NAT/N. For a neutral tax, i.e. one with no tilting
+effect, this ratio (NAT/N) would be simply (1-t), meaning the tax would take a fixed fraction of
+the net revenue, N. Such a tax would not change the ranking of different uses in the eyes of the
+private owner of land. Such a tax would be one based on N, so NAT = N(1-t). (Then, of course,
+NATIN = (1-t).) There are a few such taxes,’ but they are the exception, even though the logic
+here tells us they should be the rule. Taxes based on values other than N, whatever rationale may
+be used, impose excess burdens or collateral damage.*
+
+To illustrate excess burden, therefore, Equation (1,A) shows a tax based on C (Costs).
+This does tilt the results, as shown in Equation (2).
+
+NATIN = 1 -t[C/N] (2)
+
+By inspection, (2) shows how this tax tilts the incentive structure. This tax creates a
+strong bias against uses with high ratios of C/N. As C>G, N-0, and C/N.
+
+A high RATIO of C/N need not imply a small DIFFERENCE of C and G. If both C and
+Gare high, their absolute difference may be large, even as their RATIO approaches unity (i.e.,
+C/G 1). These are high-volume operations. These are either cropped at the margins, or
+completely driven away in response to a tax based on either C or G, rather than on N.
+
+3 The most obvious such tax is the part of the property tax based on land value. Another such tax could be the
+corporate income tax, to the extent that capital income is removed from the base by rapid depreciation. Ditto for the
+part of the personal income (ax that falls on land rents. In practice, both of the last two have been so gutted with
+loopholes as to be practically negligible.
+
+4 Early enthusiasts of the personal income tax thought they saw an analogous virtue in it. This claim has become
+something of a bitter joke now, with growing complexity and unfairness in the actual tax. Even in simplest terms the
+analogy fails, for several reasons. One is that labor supply within any taxing jurisdiction is elastic; another is that the
+costs of creating and improving and maintaining human beings, and of sacrificing leisure and independence, and
+simply reporting for work, are not deductible. Many of them are, rather, taxed additionally by calling them
+“consumption.”
+Excess Burden 3
+
+C/N may easily reach a value of 10 or more, in a labor-intensive operation. If the payroll
+tax (combined employer and employee shares) is 14.2%, and C/N = 10, and the taxes are all
+shifted to NAT (as per our assumptions), the tax takes 142% of the net return to land, and the
+operation cannot return anything to the landowner - no matter how productive it may be before
+tax.
+
+These disfavored uses are the more intensive uses, i.e. the ones that provide more jobs
+and produce more goods from a given base of natural land. This tax forces downsizing of labor
+forces, and upsizing of land requirements per worker and per consumer. Also disfavored are
+uses on marginal land, where C — G even at very low intensities per acre.
+
+On the other extreme, as C0, the tax approaches zero too, and does not lower NAT
+much at all. A parking lot is an example; so is land used for grazing and breeding cattle, or
+sheep.
+
+Taxes based on G alone also bias land managers against intensive uses of land. Here,
+NAT/N = (N - tG)/N = 1 - t[G/N] (3)
+Readers may, and I hope will, repeat the modeling used after (2), above, to show the bias
+from taxes based on G. It differs in detail from the bias shown in (2), but evinces the same bias
+against intensive uses of land. As we proceed from here, however, we will limit the modeling to
+
+taxes based on C, or parts of C, counting on readers to tailor the models, if they wish, to
+represent different kinds of taxes.
+
+NUMERICAL EXAMPLE OF TAXES THAT DISTORT RENT AND LAND USE
+
+Basic equation:
+NAT/N =1-tx TRM
+TRM (Tax Rate Multiplier) = C/N = C/((G-C) = 1/[(G/C)-1]
+
+qd) (2) (3) (4) (5)
+Intensity Ratio Difference Reciprocal Denominator TRM
+C/G GC GIG G)-1 23)
+0.0 G 00 00 0.0
+0.1 IG 10 9 dl
+0.5 5G 2 1 1.0
+0.8 26 1.25 25 4.0
+95 .05G 1.053 053 18.9
+1.0 0.0 1.0 0.0 0
+
+Excess Burden 4
+
+Notes:
+
+1. The range of intensities is very great, both on the table and in practice. Think of some
+examples.
+
+2. The ratio of C/G (Col. 1) is independent of their absolute levels. The difference of C and G
+(Col. 2) does depend on their absolute levels. The ratio and the difference vary independently of
+each other. Keep them distinct in your mind.
+
+3. Col. (3), G/C, is the reciprocal of (1). It is there to plug into the final equation, and to help
+you keep things straight.
+
+Many people carelessly and/or deceptively refer to G/C as “productivity,” making it seem
+like a good thing, a desirable goal or “performance standard.” Here we see it may simply
+represent the underuse of good land.
+
+4. (4) is the denominator of TRM. Like (3), it is there to plug into the final equation, and to help
+you keep things straight.
+
+It also represents the mathematical phenomenon called “leverage.” Notice that as you
+read down columns (3) and (4), (4) drops much faster than (3). This is what happens when you
+subtract a constant (in this case, “1”) from a variable (in this case, G/C).
+
+It means that (4) is much more sensitive (or “elastic’”’) than (3) to changes in G/C. The
+TRM varies inversely with (4), so this makes the TRM equally sensitive to (4).
+
+5. You who like math and calculus, find the derivative and the log derivative of NAT w.r.t. C
+(holding G constant). The log derivative is the fractional change (i.e. the % change/100).
+
+That may seem pretty fancy, but elasticity (€) is the ratio of two log derivatives. The
+denominator is the log derivative of the independent variable, in this case C, and said log
+derivative is simply 1/C. Bottom line: take the derivative of the function; divide this by the
+function, to get the log derivative; and multiply by C (the independent variable) to get elasticity.
+
+6. A TRM as high as 18.9 means that each 1% of tax levied on C lowers land rent by 18.9%. It
+doesn’t take much of that to induce landowners to seek lower uses, using less of the taxed inputs.
+First they will crop their usage of C; then they will take quantum leaps into different land uses
+altogether, to cut their usage of C.
+
+What about the alleged fixity of land? The quantity of land, and all the specific lands are
+fixed inside any taxing jurisdiction; but the use of land, and the intensity of use, are highly
+variable. These are changes in capital and labor applied to the land; not in the land itself. Keep
+these ideas distinct.
+
+A TAX ON DURABLE CAPITAL
+The property tax
+
+The model in (1)-(3) above is based on simple annual cycles, i.e. it contains no durable
+capital. We next introduce durable capital in the form of buildings, subject to the property tax.
+We find the same basic tilting as above, but in a larger framework of more general applicability.
+
+Excess Burden 5
+
+Be warned, though, that this entails some understanding and use of the basic mathematics of
+finance. Most readers probably are conversant with such math. Those who are not will find it a
+barrier. They may either be content with the simple logic of Equations (1)-(3); or take the
+occasion to learn something about compound interest, and discounting.
+
+We treat here of an American-style property tax, levied annually at a rate "t" on the base
+of the assessed value of the building on a site. We assume this building to have an assessed
+value of "K”, the capital cost of the building when new.
+
+(The tax considered here is only PART of the usual property tax: the part that is based on
+the building value, K. The American-style tax also includes the site value, which we do not treat
+here, because we have already shown that it is neutral. The present model treats the tax on the
+building, K, in isolation.)
+
+Notation and Definitions:
+
+a= annual cash flow from land and building
+
+Cash flow = gross revenues less operating expenses (but not net of Capital cost of
+building, or of interest or of depreciation)
+
+DCF = Discounted cash flow from land and building. You find this by multiplying a by
+the DCFF (DCF Factor - see below).
+
+DCFF = Discounted cash flow factor, a standard expression in finance for converting a
+stream of future payments into the equivalent present value, allowing for the time value of
+money*. DCFF is also known as the Present Value Factor.
+
+© (theta) = shorthand for DCFF, used in equations
+K = capital cost of building, at time zero.
+
+S = site value of land, net of costs of improving and operating land, but before taxes on
+building.
+
+S=DCF-K (4)
+
+t = property tax rate applied annually to value of building, K. [In practice today, this
+generally runs around 1-2% in most American jurisdictions, ranging widely from 4-5% in a few
+states like New Hampshire and New Jersey to .2% or so in Alabama and New Mexico.]
+
+For simplicity I assume here that the K used as the tax base remains fixed over building
+life. In practice this tax base falls toward the end of life, but this simplification is tolerably
+accurate here, for the present purpose, because of the time value of money: the value found by
+applying the DCFF (@) to a 50-year stream of building taxes is little affected by what happens
+after the first 25 years or so of building life. [Later in the course we will contrast the effect of
+taxes on the choice between old buildings and new ones, and then this simplification will not do
+at all.]
+
+5 Algebraically the DCFF = [1-(1+i)"Vi
+Excess Burden 6
+
+SAT = Site value after deducting taxes on building. Note that the high elasticity of
+supply of capital means that all taxes levied on buildings are shifted to the landowners in the
+form of lower land values. Capital runs away from taxes; land cannot. This is why we have set
+up the model as we have, to focus on the sensitivity of SAT to building taxes.
+
+SAT = DCF - K - @tK =S - OtK (5)
+
+R = Resale value of land after life of new building (valued at K, above). [I list this for
+completeness, but at this stage we will omit it, for simplicity, by assuming its discounted value to
+be zero, or so near zero we can overlook it. Note, however, that this simplifying assumption is
+not generally true, and R must be treated, and will be - later, when we study taxation of "capital
+gains."]
+
+n= economic life of building of initial cost K. The tables below assume that n = 50
+years.
+
+i = interest rate used for discounting. The tables below assume that i = .07.
+With n=50, and i=.07, DCFF @ = 14
+Technique of Analysis
+
+The technique of analysis is to calculate ratios of SAT/S for various ratios of K/S. If
+these values were all the same, e.g. 50%, then a tax would have no effect on the ranking of land
+use choices. It would thus be what is called "neutral," i.e. the landowner’s choices after-tax
+would be the same as his or her choices before tax, and we could raise the rate as high as we
+please without any tilting or suppressing of incentives. We show below, however, that the tax on
+buildings is much harder on land uses with higher ratios of K/S. This tilts the choices in favor of
+those uses more lightly taxed, i.e. those with lower ratios of K/S.
+
+SAT/S = [S-OtK]/S = 1 - @t[K/S] (6)
+
+Table 1, below, shows how SAT/S varies with different ratios of K/S. The assumed tax
+rate is 2%, and the DCFF (@) is 14, derived from n=50 and i=.07, as shown above.
+
+Table 1: Effect of building tax on site values
+
+K/S 14t(K/S) | SAT/S | EXAMPLE
+
+(1) (2) (3) | 4)
+
+0.0 0.00 1 | Parking lot, unpaved
+0.5 14 .86 | Gasoline station
+
+1.0 .28 .72 | Auto repair shop
+
+2.0 56 44 | Tract house
+
+4.0 1.12 -.12 | Garden apartment
+5.0 1.40 -.40 | Elevator apartment
+
+Excess Burden 7
+
+Columns (2) and (3) above are complements, so column (2) shows the fractional drop in
+site value caused by the 2% tax on K. (For the percentage drops, multiply each figure by 100.)
+Thus, when K/S is 2.0, SAT is 56% less than S.
+
+The point of Table 1 is that the tax on buildings wipes out the entire gain from intensive
+uses like apartments, while not affecting low-intensity uses like parking lots at all. This is tax-
+induced bias, or tilting: the opposite of tax neutrality.
+
+Sensitivity
+Table 2, below, shows the effect of t, at various levels, on SAT.
+Table 2: Effects of ton SAT
+[Parameters: S=100, K=100, O=14]
+
+to 0 01 .02 .04 .08
+Ork 0 14 28 56 112
+SAT 100 86 72 44 -12
+-ASAT - 14 14 28 56
+-ASAT/SAT - 14 16 39 1.27
+
+This sensitivity grows fast, as t rises. Doubling t from .01 to .02 lowers SAT by only
+14%. Doubling t from .04 to .08 lowers SAT by 127%.
+
+How about the sensitivity of SAT to K/S? Table 1, above, already deals with that.
+Doubling K/S from 2 to 4 lowers SAT by more than 100%.
+
+How about the sensitivity to @? From (5), SAT/S is a decreasing function of © (SAT/S
+falls as © rises). © in turn is a decreasing function of the interest rate, i (@ falls as i rises). So
+SAT/S is an increasing function of the interest rate. This is interesting, but we do not pursue it
+further at this point, leaving it for future analysis.
+
+Note that a tax based on DCF, or any element of DCF, without deduction of K, will
+produce similar tilting and suppression of incentives to put land to the highest use. The only way
+to raise taxes without such tilting is to base them on the excess of DCF over K, that is, on S. [In
+practice, a tax based on S is even more free of tilting than the above suggests, because it is based
+on the highest use, not the existing use. That is, parking lots are taxed based on the site value, S,
+that might be derived from higher uses, rather than on their value merely as parking lots. We
+need not pursue this point here, but it does reinforce the present point (cf. n.1, above).]
+
+S is derived from the net income imputable to the site, often called "economic rent."
+
+[Do not confuse this site income proper with the net income of any person. Thus
+a tax on wage income will be shifted, in whole or in part, to employers, and through them to
+landowners, by lowering DCF. It will discourage labor-intensive uses. A tax on property
+income includes a tax on the income imputable to K. A tax on the landowner's personal income
+Excess Burden 8
+
+is reduced by the landowner's debt payments, is augmented by the landowner's work as a
+manager or laborer, and by capital that the landowner furnishes. It is not, therefore, at all the
+same as a tax on site value or site income. ]
+
+A sales tax, under our assumptions, is not borne by the buyer, but is shifted back to the
+landowner. It is based on gross sales, without even deducting expenses - 1. it is greater than
+cash flow, which in turn is greater than land income. It is death on downstream operations of
+high turnover.
+
+The reason for picking site value as the indicator of bias is that the supply of land is
+inelastic, so the effects of all taxes are reflected in land rents and prices. The S-values derived
+from competing uses simply decide to what use the landowner will put the land: the highest use.
+
+Findings, summarized
+1. Taxes based on K tilt landowner incentives against uses with higher ratios of K/S.
+
+2. Taxes based on DCF, or some part of DCF, tilt landowner incentives against land uses
+with higher ratios of DCF/S.
+
+3. Taxes based on S have no such bias; they are “neutral.”
+
+4. Taxes based on personal income are not the same as taxes on S, and so are not neutral.
+Taxes on S are based on the net income "imputable" to the site, which is not the same as the net
+income of the owner.
+
+5. Taxes based on sales tilt landowners against downstream uses, and uses of high
+turnover.
+
+6. Taxes based on payrolls tilt landowners against labor-intensive land uses.

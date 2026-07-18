@@ -44,6 +44,7 @@ Three load-bearing distinctions follow from that text:
 - **Concept:** [Land Value Tax](/wiki/land-value-tax/) — defends the non-distortion claim by denying that land value is a produced good whose supply responds to the tax.
 - **Concept:** [Economic Rent](/wiki/economic-rent/) — the dispute is fundamentally over how to classify revealed land value: genuine rent on a fixed natural endowment (Foldvary) versus [quasi-rent](/wiki/quasi-rent/) on produced information (Gochenour–Caplan).
 - **Concept:** [Single Tax](/wiki/single-tax/) — Foldvary defends the George/geoist single-tax proposal named as the critique's target.
+- **Concept:** [Geolibertarianism](/wiki/geolibertarianism/) — this reply is the peer-reviewed defense of exactly the premise geolibertarianism needs (land is categorically distinct from produced capital), argued by the term's own coiner.
 
 ## Cuts Against
 

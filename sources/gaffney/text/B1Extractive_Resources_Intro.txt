@@ -1,0 +1,811 @@
+Exiractive Resources and Taxation
+Proceedings of a Symposium Sponsored
+by the Committee on Taxation, Resources,
+and Economic Development (TRED) at the
+University of Wisconsin-Milwaukee, 1964
+E xtractive
+Resources
+and Taxation
+
+EDITED BY
+
+Mason Gaffney
+
+
+
+
+The University of Wisconsin Press
+Madison, Milwaukee, and London
+1967
+Published by the University of Wisconsin Press
+Madison, Milwaukee, and London
+U.S.A.: Box 1379, Madison, Wisconsin 53701
+U.K.: 26—28 Hallam Street, London W. i
+
+Copyright      1967 by the
+Regents of the University of Wisconsin
+All rights reserved
+Printed in the United States of America
+by the North Central Publishing Company
+St. Paul, Minnesota
+
+Library of Congress Catalog Card Number 67-20755
+    2.2='
+
+
+
+
+                         gt
+                          EkpORL,
+                                 EC      '70
+
+
+
+
+   To Weld S. Carter, master of friendly persuasion,
+who so gently inspired the series of conferences that
+fostered this book; who sustained its editor through
+the conclusion; and who continues along his construc-
+tive way; the editor affectionately dedicates this vol-
+ume, confident that every contributor will applaud the
+choice.
+
+
+
+
+                      59238
+  Contributors
+
+
+
+B. Delworth Gardner
+ Professor of Business Economics
+ Director of the Center for Social Science Research on Natural
+ Resource Problems
+ Utah State University, Logan, Utah
+Orris C. Herfindahi
+ Senior Research Associate, Resources for the Future, Inc.
+ 1755 Massachusetts Avenue, N.W., Washington, D.C.
+
+John D. Hogan
+ Staff Economist, Northwestern Life Insurance Company
+ Lecturer in Economics, University of Wisconsin-Milwaukee
+ Lecturer in Managerial Statistics, Marquette University
+ Milwaukee, Wisconsin
+David D. Martin
+ Professor of Economics
+ Graduate School of Business Economics
+ Indiana University, Bloomington, Indiana
+Stephen L. McDonald
+ Professor of Economics
+ University of Texas, Austin, Texas
+Walter J. Mead
+ Professor of Economics
+ University of California, Santa Barbara, California
+Irving Morrissett
+ Associate Professor of Economics, Graduate School of Industrial
+ Administration
+ Director of the Social Science Education Consortium, Inc.
+ Purdue University, Lafayette, Indiana
+Giulio Pontecorvo
+ Professor of Business Economics and Coordinator of Doctoral Studies
+ Columbia University Graduate School of Business
+ New York, New York
+                            vii
+viii                                                        Contributors
+
+       Warren Roberts
+        Professor of Political Science
+        Wabash College, Craw fordsville, Indiana
+       Anthony T. Scott
+        Professor of Political Economics
+        University of British Columbia, Vancouver, British Columbia
+
+       James A. Seagraves
+        Associate Professor of Agricultural Economics
+        North Carolina State College, Raleigh, North Carolina
+
+       Henry Steele
+        Professor of Economics
+        University of Houston, Houston, Texas
+       William Vickrey
+        Professor and Chairman, Department of Economics
+        Columbia University, New York, New York
+       Gene Wunderlich
+         Chief, Resource Institutions Branch, Resource Development
+        Economics Division, Economic Research Service
+         U.S. Department of Agriculture, Washington, D.C.
+         Acknowledgments
+
+
+
+   To consider enumerating the hundreds who have added to this work
+is a humbling experience for the editor under whose name it now ap-
+pears. There were typists, wives, earlier writers, research assistants,
+teachers, editors, friends, critical colleagues, parents, foundation and
+academic administrators, philanthropists — the list begins to stagger
+one, not to mention taxpayers! It is a lesson in the technical complexity
+of human cooperation, but even more in the spiritual wonder of irra-
+tional mutual confidence, without which there would be nothing. Imag-
+ine: each of fourteen writers labors painstakingly over his lonely manu-
+script in the confidence that thirteen others, whom he hardly knows, are
+doing the same; that their joint product may be articulated and accept-
+able to a reputable publisher; that concerned intelligent readers may
+match their effort by responsive study, and give life to their thought by
+incorporating some of it among the ideas which move them; and that
+the acts of these concerned readers may thread their way through the
+perils of politics to influence legislators and administrators. What ana-
+lyst, reasoning a priori from mechanistic axioms about individual opti-
+mization, would ever anticipate such group dynamics? It is too absurd
+even to contemplate — but here it is. That "man is a social animal"
+bears on ever so much more than cocktail parties. Man likes to give to
+exciting enterprises, and what you find in these pages are gifts of men
+and women who found this enterprise exciting.
+   In 1964 the Robert Schalkenbach Foundation financed a conference
+at the University of Wisconsin-Milwaukee on "Tax Treatment of
+Exhaustible Resources," at which the chapters of this book were orig-
+inally presented as discussion papers. To the Foundation goes our appre-
+ciation, and to its amiable Executive Secretary, V. G. Peterson, with
+whom it is always a pleasure to work. The Conference was sponsored by
+the Committee on TRED, to whose Chairman and founding father,
+Professor Arthur P. Becker, the editor owes special thanks. Professor
+Becker had the rare courage to lend his name and talent to encouraging
+renewed study of natural resources as a tax base at a time when the
+                                   ix
+  x                                                   Acknowledgments
+
+topic suffered under a peculiar historical stigma that discouraged seri-
+ous consideration. His remarkable success in restoring the topic to the
+dignity of a respectable subject for analysis and discussion is attested
+to by the stature of the contributors to this and other annual confer-
+ences of the Committee on Taxation, Resources and Economic Devel-
+opment (TRED), and of the other members of TRED: Paul Alyea, Karl
+Falk, Richard Lindholm, Carl McGuire, and William Vickrey.
+   Mrs. Faye Levner has shepherded the editor through the valleys of
+style and pitfalls of footnotes and risen loyally to every crisis. Michèle
+Consigny has applied her genius to graphs and equations and inspired
+the editor as only a brilliant student can by mastering the analysis and
+bringing it to bear on more difficult questions before the ink was dry on
+this manuscript. Dennis Jesmok helped prepare the index and scanned
+the literature as the editor's radar. William Vickrey and Stephen
+McDonald have been notably generous in their help to the editor.
+  The Harvard University Press kindly let us reprint L. C. Gray's
+article, "Rent Under the Assumption of Exhaustibility," from the
+Quarterly Review of Economics, 28 (May 1914), 464—89.
+  Above all, the editor thanks his contributors. Each man who gave of
+his time and talent acted out his faith in the editor — more perhaps
+than he realized — a faith which led the editor to greater toils than ever
+he expected, but which he appreciates no less for all that. Each con-
+tributor acted out his faith in each of the others, and each was inspired
+to greater effort by the trust of the others. All of us owe the final debt
+to the wonderful social tradition of voluntary group action —a means
+to common ends, but a means so gratifying that, if it should be the end
+as well, it would be enough.
+                                                                  M.G.
+Milwaukee, Wisconsin
+March, 1967
+    Contents
+
+
+
+    List of Contributors
+    Editor's Introduction
+                     Part I Theoretical Foundation
+   Introduction                                                          3
+1 A Functional Distribution Theory and Analysis of Returns
+    from Commodity Programs for Tobacco and Oil                         11
+                                               James A. Sea graves
+2 The Theory of the Mine Under Conditions of Certainty                  25
+                                                 Anthony T. Scott
+3 Depletion and Economic Theory                                         63
+                                               Orris C. Herfindahl
+4 Resource Exploitation and Optimum Tax Policies: A Con-
+   trol Model Approach                                                  91
+                                                     John D. Hogan
+
+                     Part II Economic Institutions
+    Introduction                                                       109
+    Resource Control and Market Power                                  i 19
+                                                 David D. Martin
+6 Resource Control as a Basis for Market Power: The Case
+   of Timber                                                           '39
+                                                     Walter J. Mead
+
+7   Optimization and Taxation in an Open-Access Resource:
+    The Fishery                                                        157
+                                                Giulio Pontecorvo
+8 Toward a Disposal Policy for Federally Owned Oil Shales              i6g
+                                              B. Delworth Gardner
+g Mine Taxation in Developing Countries                                197
+                                                     Warren Roberts
+                            Part III Policy
+    Introduction                                                       219
+10 Natural Resource Taxation: Resource Allocation and Dis-
+    tribution Implications                                             233
+                                                        Henry Steele
+                                   xi
+ xii                                                        Contents
+
+i i Percentage Depletion, Expensing of Intangibles, and Pe-
+     troleum Conservation                                        269
+                                         Stephen L. McDonald
+12 Taxing and Exploiting Oil: The Dakota Case                    289
+                                            Gene Wunderlich
+
+13 Economic Theory and Resource Policy                           295
+                                             Irving Morrissett
+14 Economic Criteria for Optimum Rates of Depletion              315
+                                              William Vickrey
+    Editor's Conclusion                                          333
+                                                Lewis C. Gray
+
+   Appendix: Rent Under the Assumption of Exhaustibility         423
+   Index                                                         447
+         Editor c Introduction
+         MASON GAFFNEY
+
+
+
+
+              The Importance of Extractive Resources
+  Mankind signalizes the importance of extractive resources in a
+number of traditional ways. Nations insist on some political control
+of their own supplies of raw materials, believing that these are limita-
+tional inputs vital to national survival. Among oligopoly firms the same
+tendency prevails — most mills try to capture their own resource reserves,
+in spite. of the inflated capital requirements, because the free market in
+most ores is not reliable and resource ownership is, or might become, a
+lever of exploitation or control. This insistence on controlling one's
+own supplies constitutes in the aggregate, indeed, an overrecognition
+of the importance of extractive resources. It often fosters premature
+development of excessive reserves: in mining and oil firms the asset-
+output ratio is higher than in any other industry.
+ • Federal stockpiling of strategic minerals is another traditional ac-
+knowledgment of the importance of exhaustible resources. Subsidy for
+exploration is another. Social and legal pressures to retard withdrawal
+of minerals and to discourage exports are yet others. Every month or
+two produces its new jeremiad against rising population and living
+standards, with intimations of Malthusian doom.
+  Probably most economists would agree that those traditional feelings
+are, on the whole, overwrought. But there are more sober indicators
+of the. true importance of exhaustible resources. One is the higher wage
+level in the United States. The perennial question "How can American
+firms compete with foreign firms which pay lower wage rates?" has as
+                                   xli'
+  xiv                                              Editor's Introduction
+
+part of its perennial answer that the marginal productivity of American
+laborers is perennially elevated by their more generous complement of
+raw materials.
+  Monopolization of strategic deposits of raw materials is one of the
+more common means of controlling markets; and in World War II
+federal priorities and rationing of raw materials were key levers in con-
+trol of the economy. Exhaustible resources are especially susceptible to
+concentrated ownership because the workable, accessible high-quality
+deposits are limited. Again, the long waiting period between early
+exploration and ultimate liquidation of many deposits favors concen-
+tration of ownership. Only a handful of the ultra-affluent can afford to
+wait half a century between investment and liquidation; and if we
+measure the extreme range from first exploration to the last yield from
+a mine, more than fifty years would be a realistic life. In extractive
+industries, an average reserve-output ratio of twenty years would not be
+unusual. But that is like an inventory that turns over only five times a
+century. Within the industries the financial Titans tend to specialize
+in carrying the financial burden of holding valuable reserves, a pattern
+of ownership that helps set the stage for market and social control. In
+any complete list of giant corporations and giant personal and family
+fortunes, mineral holders are conspicuous near the top: oil and gas,
+coal and iron, and in Europe "chemicals" are paramount; followed by
+copper, sulfur, lead and zinc, gold and silver, molybdenum, bauxite,
+uranium, phosphate, potash, nickel, and so on through the list of useful
+elements.
+  In public finance, special treatment of exhaustible resources provides
+one of the major loopholes through which property income escapes taxa-
+tion. The value of the depletion allowance is a matter of some billions
+of dollars each year. And in many local jurisdictions the assessor is ill-
+equipped to put a proper valuation on subsurface mineral possibilities
+for property-tax purposes.
+   The development of exhaustible resources is also a source of economic
+instability. This, like the concentration of ownership, follows from the
+long waiting period between early exploration and final liquidation.
+Natural resources might be described as a capital investment of unusual
+duration. The more durable a capital good, of course, the more subject
+it is to the acceleration principle and cobweb-type oscillations. Its value
+is sensitive to small changes in interest rates. Economic instability,
+studied both empirically and theoretically, is widely agreed to relate
+MASON GAFFNEY                                                             XV
+
+
+closest to investment in durable assets. Added to this, natural-resource
+owners are prone to form cartels, with their tendency to hold a price
+umbrella that stimulates submarginal developments and leads, over a
+long swing of perhaps a generation, to the development of excess
+capacity and an ultimate boomerang that collapses prices and cartels.
+             The Conference Topic in the TRED ProgTam
+   Exhaustible resources and their taxation also constitute important
+links in the development of economic and fiscal theory and policy. It
+is this that makes the subject appropriate for a symposium sponsored
+by the Committee on Taxation, Resources and Economic Development
+(TRED).i TRED is an association of economists sharing a common in-
+terest in the use of taxation to assert the public interest in natural
+resources. TRED works to foster a usable modern literature in its field
+to help acquaint the profession and the public with the best thinking
+that economists have to offer, and thereby to help guide intelligent
+policy. TRED's function is to bring advanced thinking to bear particu-
+larly on the moot and difficult questions that earlier writers have skirted
+or abandoned in confusion. TRED's philosophy is not to push policy
+positions as foregone conclusions, but to enlist the help of able econo-
+mists to clarify the challenging unresolved issues in resource taxation,
+with the faith that solutions will evolve from the conflict and discussion.
+   The committee recognized that the traditional rationale for heavier
+taxation of natural resources rests heavily on the concept of fixed sup-
+ply, as so unhappily expressed by Ricardo in his "original and indestruc-
+tible powers of the soil." Because of this, some economists and policy-
+makers regard the arguments for heavier taxation of land as inapplicable
+to exhaustible resources. At the same time, at the other extreme, there
+is a strong current of thought, the "natural heritage" theory, which
+regards natural resources as properly national property, and by "natural
+resources" purports exhaustible ones primarily (implicitly excluding
+surface extension and location). This is partly a philosophy of distribu-
+tive equity, but includes a strain of skepticism of the workability of the
+market in resources, and perhaps, too, of the normative value of even
+a perfect market in matters of conservation particularly, and inter-
+  1 Other symposia have treated "Land Value Taxation and Urban Economic Prob-
+
+lems," chaired by Professor Arthur Becker; "Land Reform and Tax Reform in Less
+Developed Countries," chaired by Professor Carl McGuire; and "Property Taxation,
+US.A.," chaired by Dean Richard Lindholm.
+  xvi                                                  Editor's Introduction
+
+temporal economizing generally. Thus we have one school that would
+minimize the fiscal assertion of public equity in extractive resources, and
+another that would control or socialize them. Here isa "moot and diffi-
+cult" question worthy of our steel.
+  Not all economists accept the idea that even inexhaustible natural
+resources should be loaded with heavier taxes. Some economists main-
+tain that the private receiver of ground rent requires it to motivate
+essential economic functions. These defenses are, however, relatively
+transparent and easily penetrated.
+   Among agricultural economists, for example, the idea is seriously
+advanced that absentee landlords serve the essential economic function
+of assuming the financial burden of carrying title to expensive land.
+This is a rather straightforward fallacy of composition. The individual
+absentee landlord does indeed perform this function for the tenant,
+but landlords collectively simply lower the capitalization rate, raising
+prices out of reach of tenants who lack comparable ownership of, or
+access to, long-term funds. Thereby, landlords collectively necessitate
+the very function which they individually perform. The argument fails
+to distinguish, a cynic might say succeeds in confusing, price-determined
+and price-determining factor payments. (The cynic might be wrong—
+the confusion could arise without malice, simply from adopting the
+individual farm-management viewpoint and forgetting the need for
+transposition from individual to social economics.)
+  Again, economists teach that the function of rent is to ration the
+land supply among competing users, even if it does not serve the double
+function of other factor payments which elicit the supply as well as
+ration it. Some economists take this as the functional rationale for
+private receipt of rent.
+  This is to ignore, however, that rent can still serve to ration the
+supply even if heavy taxes are imposed, just so the taxes are independent
+of the allocation, or if they are levied as a percentage of net rather than
+gross rent.2 Resources can also be, and many are, owned by government
+and leased to the highest bidder, without violating free-market prin-
+ciples or depriving any economic function of its motivation.
+   However, with exhaustible resources the arguments for private col-
+lection of resource rent are not so easily demolished. Here, price has
+the function of regulating conservation over time, and also the func-
+  2 The last method, a land-income tax, has the demerit of exempting implicit and
+
+psychic income, and therefore works a material bias against uses that yield cash.
+MASON GAFFNEY                                                               Xvii
+
+tion of eliciting supply tO replace exhausted resources To be sure, the
+more enthusiastic ex parte arguments are overstated when the social
+costs of exploration are alleged to include lease payments to passive land-
+owners. Such lease payments and "points," along with the traditional
+one-eighth royalty,3 are obviously price-determined rents, and not func-
+tional in eliciting supply. But all cases get overstated by sonieone with-
+out destroying the case. If we trim off the overstatement there remains
+a troublesome nub of substance in the claims of a need for privately
+collected rent income to foster conservation and replacement of ex-
+hausted resources.
+  And so the present symposium was organized by TRED to help
+advance our thinking about natural-resource taxation under conditions
+of exhaustibility. Given the subtleties of the topic, it is unavoidable
+that the symposium should also contribute to economic theoi-y, and to
+a better understanding of the economic institution of property, of
+market structures, of concentration of wealth and power, and other
+central concerns of economists.
+  There are only a few high-quality publications dealing with this im-
+portant subject. Some aspects are almost entirely untreated such as
+the proper place of depletion in the national income accounts; capital-
+ization of different kinds of taxes on exhaustible resOurces, and the
+effect of tax capitalization on output rates; the relative social efficiency
+of public versus private exploration, and the proper division of fünc-
+tion between them; a correct imputation of the final product between
+the early prospector, the financier, and the public, whose work helps add
+value to mineral deposits over the years; the capacity of natural re-
+sources to yield tax revenues; the use of probability theory in appraising
+and assessing incompletely known underground deposits; the dynamics
+of expansion and collapse of cartels and their relation to business cycles;
+and the lessons of wartime federal control of priorities and rationing for
+peacetime policy.
+  Some areas are more marked by controversy than consensus, such as
+the effect of corporate income taxes on the durability of investments;
+the incidence of benefits from depletion allowances; and the choice of
+a proper discount rate.
+   Most topics the existing literature touches on have simply been
+  ' Note that this is ½ of gross welihead or mine-mouth value. It is more than /8 of
+the net rent of the resource — it may be the whole of it where production Costs are
+high. Our concern here is with the net rent to land, not the gross-value product.
+  xviii                                           Editor's Introduction
+
+treated by too few economists to produce a meaningful consensus. The
+neglect of the field by the profession as a whole is betrayed by the lack
+of treatment in most elementary economics textbooks. Little as has
+been done, most of that little remains to be widely understood, even by
+economists. The Committee on TRED therefore believes the present
+volume may serve a useful role in a field marked by overall neglect,
+unresolved controversy, and undistributed literature.
+                  The Articulation of the Chapters
+  The symposium comprises chapters on economic theory, economic
+institutions, and economic policy.
+  Few of the chapters fall entirely in one of the above classes, but
+overlap. The overlap makes the symposium. The papers were discussed
+by the participants for three days and revised. The interplay of differ-
+ent minds on the same topic, the constructive tension generated by
+differing viewpoints, and the richness of background of the several con-
+tributors, are the unique values of the symposium approach.
+  Each writer supplies some new insight into the common topics of
+the symposium, as well as expertise on his special subtopic. Comparing
+each writer's treatment of the common themes is like watching a land-
+scape change with the clouds and the hour. Each brings a fresh eye for
+what is vital; each points up aspects that others have shadowed out.
+The human experience, the accumulated wisdom of several lifetimes,
+and the ingenuity of their several creative minds are represented here
+among our distinguished experts. The collective result has a depth and
+animated movement that displays, better than any individual author,
+the fullness and variety of its subject.
+  The editor made little effort to achieve consistency or consensus. Yet
+it is remarkable how much consistency (except of terminology!) and
+consensus emerged. The profession evidently is moving towards a gen-
+erally accepted position in this still underdeveloped subdiscipline. That
+might suggest banality, but on the contrary the points of consensus in-
+clude some shockers for anyone schooled in the conventional rhetoric
+either of "business" or of "conservation."
+Part I THEORETICAL FOUNDATION
+         Introduction
+
+
+
+                              Imputation
+   Professor James A. Seagraves took on the important preliminary task
+of clarifying the imputation of returns to different inputs. Part of our
+intellectual heritage from the Fabian Society has been that production
+is a joint cooperative endeavor in which the contributions of individual
+factors are merged and not identifiable. In this position the left wing
+has received support from the right, as rent-receivers resisted clear-cut
+imputation of returns and sought to camouflage rent elements with more
+functional and, socially defensible elements of their income. Today,
+Communist critics of capitalism, as Professor Warren Roberts brings
+out in Chapter 9 of this book, are not eager (and probably not able) to
+help distinguish functional from non-functional income; that is the
+task of the defenders. Marginal analysis, of course, has been the tool of
+those seeking to clarify the analysis of income distribution.
+  Professor Seagraves points out that modern developments in linear
+programming have advanced a step beyond marginal analysis in tying
+specific contributions to specific inputs.
+  Using case studies in agriculture and petroleum, Seagraves concludes
+that the natural resource input, because of its relative fixity, tends to
+receive the primary benefit of tax favors, or other favors, 'to specific
+industries. This is a conclusion that hangs on' the specificity of the
+resources to the industries, and would not apply to highly versatile land
+                                                       '
+inputs and narrowly defined industries.
+  Professor Seagraves also brings to our attention some interesting
+political results of tenure institutions controlling mineral rights. He
+points out that a large share of political support for tax' and other favors
+to mineral producers might logically be expected from lañdholdérs who
+have not yet signed leases. They are in a stronger position to capture the
+gains than those under contract already. The latter, drawing one-eighth
+of the gross, also tend to support higher prices. Lessees have ri ore lever-
+age than any other group and might reasonably spearhead the move-
+  4                                                       Theoretical Foundation
+
+ment. The three groups together are a political Troika to conjure with,
+indeed.
+   L. C. Gray's classic "Rent under the Assumption of Exhaustibility"
+is reprinted in the Appendix. We include the article because it is basic
+to our subject; our contributors refer to it often; and it is not readily
+accessible to many readers.
+   Gray faces the basic question of how much depletion charge to deduct
+from the cash flow of mines, after other costs, to determine what portion
+of the flow is properly rent income. Gray attempts to determine how
+much the miner should let depletion retard his rate of extraction; how
+he should respond to higher prices that lift his mine above the marginal
+level; and how the public should tax mines.
+  On the, first question, Gray's answer surprises one: he would deduct
+nothing from income for depletion of the substance of the resource.
+Depletion, he says, is simply the present value of future rent foregone
+to realize present rent. He regards the entire cash flow as rent. His
+emphasis is more on the concept of rent as a surplus above social costs
+than it is on rent as an income; but he avoids the questions of discovery
+and replacement cost, so that the issue is never clearly posed.
+   On this one point, our current contributors do not all follow Gray.
+Henry Steele, in Chapter io of this book, specifically criticizes Gray for
+neglecting replacement of exhausted resources. It may be that Gray
+was implicitly assuming a resource something like the oil shale which
+B. Delworth Gardner treats in Chapter 8, whose discovery cost is
+negligible and whose replacement cost would consist entirely of capital-
+ized rents paid to passive landowners. In such cases, Gray is telling us
+something important. The economic surplus, which might be socialized
+without impairing functional, incentives, is the full surplus of gross
+income over non-land costs. He is rejecting the notion of rent as a
+surplus of income above opportunity cost, where the foregone opportu-
+nity is simply another way of realizing some rent in this case by with-
+drawing a mineral in the future instead of the present.
+   Even with petroleum, a large share of exploration "costs" are lease
+acquisition and rental payments to passive landowners.1 Yet another
+large share are real social costs, so it does seem that we should modify
+Gray's stand on this account. Gray says we might take the entire return
+to land in taxes and not impair functional incentives at all. Most con-
+      In 1960, Big million dollars Out of 2,045 million dollars, or about 40 per cent
+of oil exploration costs were for leases. (See 3, p. 287 n.)
+INTRODUCTION                                                                   5
+
+tributors feel we must leave something to motivate replacement; the
+interesting question is, How much?
+  Yet Gray sets the tone for much of our discussion. He begins to supply
+us with an analytical framework for appraising depletion if we do
+choose to net it out of rent income. Depletion is the loss of future rent
+caused by realizing present rent. Depletion is usually small relative to
+present rent because the lost future rent must be discounted over the
+life of the mine. Thus, even if we do define rent net of depletion, Gray
+reduces the depletion charge to well below the spot liquidation value of
+the geological fund being depleted. In this he follows Bohm-Bawerk
+(I, p. 335) and has been followed by Gaffriey (2, pp. 555—57).
+   Although he would not deduct depletion from income, Gray would
+let it retard output by adding it to marginal costs. He emphasizes that
+on marginal land there is no depletion because there is no rent — and
+depletion is simply discounted remote future rent.2 It might seem to
+follow that extraction should proceed fastest on marginal land but
+Gray, like all our contributors, says the opposite. There is no urgency
+about using marginal ores that yield nothing above cost. But it is
+urgent to use superior ore, because rent today is worth more than rent
+that one must wait for. Our contributors agreed that the transcendent
+fault of public policy today is failure to understand and follow this
+principle spelled out by Gray many years ago.
+  The higher the discount rate, and the longer the remaining life of a
+mine, the less will depletion retard output.
+  As to tax policy, Gray notes that a tax taking a fixed percentage of
+the rent realized in any year would achieve intertemporal neutrality by
+leaving undisturbed the ratios of rent-after-tax in every year. Un-
+fortunately, he does not tell us how to handle time depreciation of
+durable mine improvements in defining this tax base — a matter which
+Professors Stephen McDonald and Henry Steele perceive as crucial,
+and which has a central role in the editorial conclusion.
+  Gray's work suffers from some other crudeness too. The use of partic-
+ular arithmetic examples to demonstrate general propositions is danger-
+ous; our contributors have remedied this. The dismissal of replacement
+costs is unjustifiable as well as unnecessary. The coverage is limited.
+And yet Gray manages in this remarkable little work to foreshadow
+   2 He does not consider the dynamic case of land presently marginal but potentially
+
+rent-yielding. If he had, it would strengthen his point. Herfindahl and the editor do
+take this up in the present volume.
+  6                                              Theoretical Foundation
+
+many of the issues of this conference, to build an analytical foundation
+consistent with the more polished ones presented at the symposium, to
+link current with classical thinking, and to lead us toward policy con-
+clusions consistent with what most conferees reached by more sophisti-
+cated means.
+                          Time in Economics
+  This subject is usually called "capital theory," but the ineptitude
+of that rubric is glaring in this symposium, where the subject is not
+"capital" in the usual meaning, but natural resources. Whatever we
+call it, it is clearly basic to any discussion of conservation; depletion,
+and reserve-output ratios.
+  Professor Anthony Scott, in Chapter 2 of this book, provides us with
+a systematic theoretical framework for analysis of intertemporal econ-
+omizing. Some of his findings might seem heretical against the back-
+ground of the existing literature in the field, as he points out. But these
+original contributions do not seem heretical in light of the symposium
+discussions, and it may be he has timely captured "what oft was thought
+but ne'er so well expressed."
+  Professor Scott concludes that it is rational for us to use our best
+natural opportunities first, "reducing quickly the amount of natural
+capital he [a miner] has tied up in illiquid form." This passage nicely
+epitomizes the attitude to "conservation" prevailing among the con-
+ferees. It contrasts sharply with the Pavlovian protest against depletion
+that not long ago dominated conservationist thought, and with many
+prevailing policies that force us to use marginal resources while superior
+ores are held in reserve.
+  Professor Scott finds that the optimal rate of output is a balance be-
+tween time preference — as represented by interest and other carrying
+costs — and increasing costs that attend acceleration of the rate of pro-
+duction. This follows Gray's earlier reasoning, but Scott generalizes the
+principle far beyond Gray's vulnerable arithmetic example.
+  Scott's heresy, which appears unexceptionable, is that the rational
+mine manager will tilt his production plan in favor of the present
+instead of producing at a constant annual rate. He will do this because
+of the ever-shortening future life of the mine, even in the absence of
+conditions such as deterioration of ore quality, or falling prices, or
+rising costs. This is because of the rising value of what Professor Scott
+calls the user cost of mining as exhaustion shortens the future life of
+a mine.
+INTRODUCTION                                                                       7
+
+  Using a homely analogy, Scott's principle might be paraphrased as
+follows: the toothpaste which I squeeze from the tube tonight does not
+sacrifice tomorrow night's supply. Rather, I roll up the end of the tube
+(which represents the future date of exhaustion) and bring tomorrow
+night's supply to the orifice (which represents the present). What I
+sacrifice is the toothpaste supply of the year of exhaustion, and the
+user cost properly accounted tonight is that future value discounted
+back over the life of the toothpaste tube. If the life is thirty or forty
+years the discount factor is high and the proper user cost is correspond-
+ingly low.
+  The principle of rising user cost must be modified to fit the more
+common condition that a mine dwindles out gradually as costs rise
+over time. But Professor Scott's point is that such rise of costs is not the
+only, or even a necessary, reason for tilt of production rates. Even if
+quality and location of ore were constant until the hour of complete
+exhaustion, as with the toothpaste, user cost would rise steadily (expo-
+nentially) as future life shortened.
+  In addition to these primary points, Professor Scott systematically
+elaborates the behavior of a rational miner under a wide range of as-
+sumed conditions.
+  Dr. Orris Herfindahi addresses his analysis to extractive industry as
+a whole rather than the individual firm that Scott treats; and to the
+very long run — so long a run, indeed, that he takes as his unit of time
+the life of a mine.
+  Like Scott, Herfindahl gives the central role in his analysis to the net
+return imputable to the natural resource input, but where Scott labels
+this "profit," Herfindahl prefers "royalty."3 Both authors postulate
+maximizing the present value of expected future net rents (or profits or
+royalties) as the proper rule of conduct, both individual and social.
+  In Scott's model, increasing cost of output is the effective constraint
+  8 It should be obvious that the editor has not succeeded in imposing uniform ter-
+minology on the contributors. If he had, it would be "rent." Herfindahl's definition
+of "royalty" is the price of the metal in the ground. This is not to be confused with
+Alfred Marshall's use of the term, as criticized by Gray. Marshall's "royalty" is the
+same as Scott's "user cost." Scott's "profit" is gross of his "user cost" — a usage con-
+sistent with Gray's insistence that "rent" is gross of Marshall's "royalty." Herfindahi
+points his analysis to a longer run than Scott or Gray, and his choice of "royalty"
+for economic rent may intimate an implicit asumption that mine rent, in part at
+least, answers the description of Marshall's "royalty" (Scott's "user cost") — a deple-
+tion fund to finance replacement via prospecting. McDonald and Steele share Her-
+findahl's emphasis on prospecting and replacement.
+  8                                                 Theoretical Foundation
+
+on unlimited immediate withdrawals. In Herfindahi's model it is ex-
+pected rising prices that serve this role, but Herfindahl does not foresee
+future shortages and higher prices of raw materials. On the contrary,
+he sees future cost reductions bringing into the market large supplies
+from low-grade ores now submarginal. When he postulates rising prices
+of the royalty they result from lower costs, not higher prices of raw
+materials.
+  That forecast presumably applies primarily to ores now submarginal
+and as yet undeveloped. Ores already worked with capital committed
+to older techniques would not share fully, if at all, in new techniques
+reducing costs. Output of these ores would not be limited by anticipated
+rising royalty values, but only by short-run increasing costs as described
+by Scott.4
+  With these differences of coverage, Herfindahl's findings are harmoni-
+ous with Scott's. Use the best ores first: a major goal of conservation
+policy should be to convert illiquid surpluses to earning assets. Her-
+findahi elaborates this theme: the higher the royalty value, the more
+should output be accelerated. "If demand is greater, shouldn'tuse be
+shifted from present to future in the sense of extending the period of
+exploration? The answer is No. . . . urgent demands as expressed by
+the demand increase are urgent now as well as in the future. . . . The
+better deposits will be exploited first. . . . The productive services
+saved while using the better deposits can be put to work producing either
+capital or consumer goods."
+  This basic position of Herfindahl's harmonizes with that of Gray. In
+Gray's example it is a higher price of the product in both present and
+future that increases the rent, cost remaining fixed. As Gray puts it, the
+extra future rent does not fully offset the extra present rent, because
+the future rent must be waited for and its discounted present value is
+less than the undiscounted value of its present alternative. Therefore,
+anything raising the rent of mines by a given absolute amount in both
+present and future makes present withdrawal more attractive relative
+to future. The absolute excess of the present net rent over the present
+value of its future alternative rises, thus accelerating present output.
+  Herfindahl puts the case more generally than Gray. In effect, he tells
+   Indeed some ores presently superior but undeveloped may be made obsolete
+and devalued by cost reductions. This is the present fate of hematite, due to the
+higher quality of pellets produced from taconite beneficiation, according to Dr.
+Clarence Nelson of the Federal Reserve Bank of Minneapolis.   -
+INTRODUCTION                                                                      9
+
+us, the ratio of future to present royalties must always be such as to
+yield the going rate of interest.5 He notes various leverage factors at
+work on royalty values. For example, a price rise, as in Gray's example,
+with costs unchanged, raises present royalties, R0, by a larger percentage
+than it raises future ones, R, since the future ones already had to be
+larger to pay interest on R0 over t years. Herfindahl points out that a
+given rise of prices causes a faster rise of royalties because of the leverage
+of fixed costs. So prices need not rise as fast as the rate of interest to
+make royalties rise at that rate, and warrant deferral of output.
+   Herfindahi, like Gray, notes the intertemporal neutrality of a tax
+based on the net royalty value, because it would maintain a constant
+ratio between royalties in different years.6 Taxes based on gross output,
+or on inputs, lack this quality but apply leverage that changes inter-
+temporal choices. Professor William Vickrey, in Chapter 14 of this book,
+shares that conclusion.
+  In the large view, Herfindahl emphasizes the similarity of mineral
+industries to other industries. He recognizes that depletion will over-
+take individual ore deposits, but he stresses that progressive cost reduc-
+tions continually bring submarginal ores into economic use so that in
+the aggregate there is hardly any social depletion. If one takes the firm
+or the industry rather than a piece of land as his basic unit, ores may
+be regarded as a revolving inventory continually renewed by a combina-
+tion of discovery and cost reduction and public works and human
+migration. Thus, the firm is an earthworm moving slowly through
+limitless resources, with an inventory of digestible resources moving
+through the worm. This picture of the relations of economic man to
+natural resources makes ore reserves an inventory —differing, however
+
+   That is, where r
+                         r R 1!
+                         I   It —1
+                   L Ro J
+            r(P_c)1!
+  6That is, I    '            r(P_c)(l-r)1!
+                    I t — I = I          I t —1
+             L("0 — C0)j                L("o — C0)(l_r)J
+where P = Price of a unit of ore in the indicated year
+      C = Cost of removing the unit
+      t=Anyyear
+      r = Rate of tax
+Those equations assume that the site has no reuse value. If it does, the rate of return
+(X) on holding ore falls to:
+
+                              [(Pt_ct)+s1I
+                             L (P0 — C0) + SJ
+where S is site value. Now a neutral tax must also hit S.
+  10                                             Theoretical Foundation
+
+from other kinds of inventories in the long period between discovery
+and consumption.
+                   A General Control Model
+  Rounding out the theory section is an original exploration by Dr.
+John Hogan into the possible use of dynamic programming to optimize
+tax policy over time. Sympathetically reviewing the literature, Dr.
+Hogan notes the serious limitations of classical-type models which are
+forced into unrealistic simplifying assumptions, and retreat into ceteris
+paribus, because pre-computer man could not juggle many variables
+simultaneously. Hogan would like to introduce more realistic con-
+siderations of imperfect competition, for example, and he points to
+the many feedbacks ignored in classical-type models. He then sketches
+out for us the rudiments of a general control model along modem lines.
+  The potential value of Hogan's approach may be appreciated by
+comparing the various contributions to this symposium, which differ
+from one another in what each writer chooses to hold constant, or
+assume away.
+  Hogan's sophisticated and challenging contribution is especially re-
+freshing in considerations of tax policy where policy-makers have as-
+sumed for years that guidelines should not rise too far above the level
+of sloganeering. Hogan would apply modern computer theory and
+technique to a set of issues ridden by tradition and subrational pres-
+sures. It would be interesting to see how the computer's findings might
+be translated for political consumption. As we go to press, Hogan and
+Dr. Joseph Midler (RAND Corporation) are attempting to fit real-world
+cost and revenue data to the control model described in this symposium,
+so the time for actual application may arrive sooner than we think.
+
+
+                               References
+ 1 Eugen von Bohm-Bawerk, Positive Theory of Capital, Vol. II of Capital
+  and Interest, South Holland, Illinois: Libertarian Press, 1959.
+2 Mason Gaffney, "Soil Depletion and Land Rent," Natural Resources Jour-
+  nal, 4 (January 1965), 537—57.
+  Joint Association Survey, Estimated Expenditures and Receipts of U.S. Oil
+  and Gas Producing Industry, 1960, sponsored by the American Petroleum
+  Institute, Independent Petroleum Association of America, and Midconti-
+  nental Oil and Gas Association, December 1962. Cited in Alfred E. Kahn,
+  "The Depletion Allowance in the Context of Cartelization," American
+  Economic Review,     (June 1964), 286—314.
+

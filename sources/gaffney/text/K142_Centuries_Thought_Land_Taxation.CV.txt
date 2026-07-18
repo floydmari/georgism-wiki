@@ -1,0 +1,2304 @@
+9 Mason Gaffney
+
+Two Centuries of Economic Thought
+on Taxation of Land Rents!
+
+Professor Harry G. Brown often complained of a “conspiracy of
+silence” against the land tax idea. Certainly it has received more silence
+than its due, yet it would be hard to find a topic on which so many
+economists have rendered opinions and taken positions over the last two
+hundred years. I group these writers under five headings, according to
+their apparent sympathies towards the policy: (1) mainly negative; (2)
+mixed, or shifting and changeable; (3) noncommittal, detached, or
+supercilious; (4) positive but tentative, limited, partial, and remote; (5)
+mainly positive.
+
+Many, indeed most, of those contributing to the debate had to be omit-
+ted to save space. On the affirmative side, some of these omitted are
+Henry George, Harry G. Brown, Thomas N. Carver, Eli Heckscher,
+Frank Graham, Lawson Purdy, Frederic Howe, Philip Cornick, Paul
+Alyea, Pierre Proudhon, Alfred R. Wallace, Joseph Schumpeter, Ed-
+ward Polak, Philip Raup, Eli Schwartz, Arthur Becker, Raymond
+Richman, Marion Clawson, John Ise, F. F. von Wieser, Silvio Gesell,
+Charles Trevelyan, Walter Pollock, Thomas Paine, Thomas Jefferson,
+
+1. Research support from the Robert Schalkenbach Foundation is gratefully acknow-
+ledged. Bibliographical help came from Paul Downing, Dennis Jesmok, Earl Bossard, and
+especially Peter Wells. 1 drew on the bibliography of Donald Ellickson, “A History of Land
+Taxation Theory,” Ph.D. dissertation, Univ. of Wisconsin, 1966. A dissertation just com=
+pleted by Terence Dwyer at Harvard has been very useful both bibliographically and con-
+ceptually.
+
+151
+152 LAND AS A TAX BASE
+
+and the Count Destutt Tracy, Louis Post, J. C. Stamp, and Josiah
+Wedgwood. On the negative side, some notable omissions are Frederic
+Bastiat, Gustav Cassel, Robert Harvey, Alexander Hamilton, John Hob-
+son, Manuel Gottlieb, Yetta Scheftel, F. H. Finnis, Elmer Fagan, Carl C.
+Plehn, Dean Worcester, Ezra Mishan, Walter Morton, Raleigh Barlow,
+Albert Schaaf, Murray Rothbard, and George Hoxie. In the uncertain
+middle I have neglected Henry Aaron, John and Ursula Hicks, Arthur
+Weimer and Homer Hoyt, Donald Hagman, Arch Woodruff, Laszlo
+Ecker-Racz, Irving Fisher, Ernest Fisher, P. H. Clarke, Charles McLure,
+Abba Lerner, Benjamin Franklin, Kenneth Boulding, Charles Gide,
+Frank Taussig, Arthur Laffer, James Heilbrun, Carl Bye, Albert
+Hirschman, H. G. Hayes, and Erik Lindahl. No doubt I have also
+neglected to acknowledge all those neglected. But I have tried to cover
+the major issues.
+
+Mainly Negative
+
+Large numbers of economists have, over the years, articulated their
+opposition to the heavy and exclusive use of land as a tax base, par-
+ticularly in the thoroughgoing manner advocated by Henry George.
+Some have attacked the land tax directly; others have worked on the con-
+ceptual structure of the argument. They are grouped here according to
+their most emphasized or most distinctive lines of argument.
+
+Fusing Land with Capital: Theory
+
+J. B. Clark in The Distribution of Wealth (1899) led the assault on
+George by undercutting the distributive basis of classical economics, the
+threefold division of inputs into land, labor, and capital. Clark’s work
+marks the watershed between classical political economy and neoclassical
+economics. George himself believed that this quantum change was
+designed to undo his influence. While this might seem paranoid today, we
+must remember that George was the best-selling popular economist of
+the time, indeed of all time—Laffer, Thurow, Galbraith, Friedman,
+Heilbroner combined — and it was no more unusual for an establishmen-
+tarian at that time to be anti-Georgianthan for one to refute Marx today.
+It is not hard to imagine that Clark was also gunning for Marx.
+However, J. B. Clark states it is George’s marginal theory of wages that
+led him to develop his own (1899, pp. viii, xiii). Charles Collier (1979, p.
+270) supports George’s claim. He cites Simon Pattern: “Nothing please a
+. . . Single taxer better than . . . to use the well-known economic theories
+. . . [therefore] economic doctrine must be recast . . . it must isolate itself
+more fully from history . . .” (Patten 1908, p. 219). Frank A. Fetter also
+GarFney: Economic Thought on Taxation of Land Rents 153
+
+believes the “single tax agitation” is what moved Clark to reformulate
+theory (Fetter 1927, rpt. 1977 pp. 126-28).
+
+Clark’s obliteration of land as a category takes two forms. One is the
+idea that all factors alike have marginal products, so the laws of produc-
+tion are symmetrical. Rent is not set apart as a “residual,” due to
+“differential” fertility, location, or other qualities. Land is productive
+too, so land rent is no longer a “surplus,” but a payment for a productive
+input. This payment is a real and legitimate social cost, an opportunity
+cost of taking land from the best alternative use.
+
+Actually, none of this much affects the case for taxing land. Residual
+imputation of rent is reconciled with marginal imputation via Euler’s
+theorem, and the productivity of land does not say anything about who
+should receive the income. But Clark’s recasting of theory did serve to
+block the mental pathway via which classical political economy pointed
+so sharply towards land taxation by calling rent a residual surplus. One
+still hears Clarkogenic arguments levelled against land taxation.
+
+Yet more was needed, to preclude permanently any clear distinction of
+inputs. Marginal productivity, after all, is the tool of those who want to
+impute specific contributions to specific inputs, and this could lead to
+peculiar treatment of land. Clark’s other stroke (1883, 1895-96) was to
+essay a capital theory that would remove the quality of capital that
+distinguishes it from land, namely that capital is produced by labor,
+wears out, and is replaced. This is a different Clark from the crystalline
+logician of Distribution of Wealth. This is a mystic who creates
+ectoplasm in lieu of material capital.
+
+Clark’s ectoplasm is permanent; similar to land, it has no finite life. -
+Clark engages the energies of Francis A. Walker (1888) and Bohm-
+Bawerk (1895-96), and Clark’s follower Frank Knight (1946) engages
+Hayek (1936) in fruitless debates in their strange efforts to deny that
+capital turns over. The Austrians have no difficulty understanding the
+differences of land and capital; Knight believes the distinction can not be
+made, and he attacks it with vigor. George Stigler, Knight’s disciple,
+indicates that the Austrian idea of a period of investment is objectionable
+because it presumes a distinction between capital and land (1941, p. 278).
+Stigler’s only objection to Clark is that Clark made too many concessions
+(1941, p. 317). The strongest argument for untaxing buildings while “up-
+taxing” land is that it provides an incentive to replace and renew decrepit
+and obsolete capital, which, unlike land, is both reproducible and
+depreciable. Clark and Knight’s concept of capital as an ether of immor-
+tal spirits is calculated to silence such arguments by destroying the very
+words in which they might be made.
+
+Philip Wicksteed parallels Clark. All resources are fixed. “There is no
+154 LAND AS A TAX BASE
+
+such thing” as a supply curve—supply merely reflects the demand of
+those already possessing resources. The laws of distribution are sym-
+metrical. Rent is erased. “There is no surplus at all” (1914, p. 15).
+Wicksteed deplores the misleading idea of diminishing returns because it
+is so intuitive to hold land fixed and let labor vary, resulting in a residual
+to land. He prefers to make land the variable: “ . . . in practical problems
+. . . any individual can have as much land as he likes if he will pay the
+price... . ” (1914, p. 23).
+
+The modern usage of “variable proportions” in preference to
+diminishing returns, and indifference curves in preference to either,
+reflects Wicksteed and the extended flight from identifying rent as a
+surplus attaching to land.
+
+Vilfredo Pareto (1897) is the progenitor of “transfer rent.” The evi-
+dent effort is to erase classical land rent and instead replace it with a new
+concept of the same name and a meaning analogous enough to lend
+plausibility to the switch. Transfer rent is just the surplus above oppor-
+tunity cost; any factor may earn some, with land getting no more than
+any of the other factors. This destroys the classical contrast that human
+effort is a sacrifice of leisure, comfort, and often safety, while land comes
+free as a gift from Nature.
+
+Alvin Johnson (1902) developed the idea in America, with emphasis on
+undercutting the case for taxing land. Land is mobile economically
+among competing uses, and so yields no more transfer rent than other
+factors.
+
+Pareto’s idea is subtly blended with Clark-Wicksteed’s factor sym-
+metry; it is hard to trace it explicitly for many years until the work of
+Frank Knight. More careful users of transfer rent, such as Alfred Mar-
+shall, Joan Robinson, and Hubert Henderson, have been scrupulous to
+distinguish the social viewpoint from the individual, and social distribu-
+tion theory from exchange theory. Robinson writes, “From the point of
+view of society, land . . . is provided free, and the whole rent is a surplus
+and none of it is a social cost” (1933, p. 107). She uses only opportunity
+cost in partial analysis.
+
+Knight, on the other hand, totally fuses the individual and social view-
+points. A cost to one is a cost to all. There is no aggregation problem, no
+fallacy of composition. Opportunity cost is social cost. There is no basis
+for distinguishing land from capital. “Killing off previous claimants” to
+land is merely an investment like any other; competition keeps the returns
+down to market levels (1924, rpt. 1952, pp. 167-69). It resembles a
+caricature of Chicago, but it is Chicago; it has been reprinted as a classic
+by the American Economic Association. Knight also argues (1953, p.
+810) that slave-owners had just titles to slaves, because of society’s sanc-
+tion and open competition for capture of slaves. “Summary liberation”
+GAFENEY: Economic Thought on Taxation of Land Rents 155
+
+was unethical. “Society” was to blame and compensation was due. How-
+ever, he does not say what tax should be used to finance the redemption.
+
+“Choice” is everything. “Apart from a necessity of choosing, values
+have no meaning or existence.” “. . . The cost of any value is simply the
+value that is given up when it is chosen” (1924, rpt. 1952, pp. 167-69).
+Knight is quite clear that this undercuts classical ideas about taxing rent.
+George Stigler tracks Knight faithfully (1947, chap. 7); Milton Friedman
+brings Knight to the masses. In private correspondence Friedman occa-
+sionally refers to the land tax as “the least bad tax,” but inconsistently
+reverts to Knight’s and Pareto’s concepts which impute rents to
+everything and everyone.
+
+Frank A. Fetter is a persistent critic of Ricardian rent. He would erase
+all distinction between land and capital, and evidently also between
+social and individual viewpoints, and give a broader reading to rent. He
+does not, however, arrive at any clear alternative, and ultimately he
+mainly appears to have carped and nit-picked at the classics, as well as
+repeated J. B. Clark.
+
+Fusing Land With Capital: Applied Economics and Law
+
+Some real estate economists, students of R. T. Ely, have merged land
+with capital on practical business grounds. Richard Ratcliff writes that
+“Net Income Can’t Be Split” between land and capital (1950). Dorau and
+Hinman were saying much the same in 1928: practica! real estate men
+cannot “unscramble the omelette” and split income between land and
+capital. Yet one can wonder how, if we cannot split net income, we can
+know what net income is, or even if any exists, since net income is cash
+flow less depreciation, and land is not depreciable. The Internal Revenue
+Code is very clear on this point. Frederick Babcock’s Valuation of Real
+Estate (1932), generally regarded as definitive, devotes several chapters to
+splitting income between land and buildings. His approach is followed by
+A. A. Ring, Morris Shenkel, and many others.
+
+Henry C. Carey (1840) is better remembered today as a popular
+crusader than a seminal theorist, but he was influential in formulating
+protectionist and expansionist thought in Lincoln’s day. Carey had no
+use for land taxation, nor for any taxation that might obviate tariffs. He
+is enjoying a modern revival at the hands of Lyndon La Rouche (former
+U.S. Labor Party candidate for president, now a Democratic primary
+candidate). As a proto-Keynesian (but Anglophobic) mercantilist, Carey
+regarded classical political economy with deep distrust and sought to
+discredit Ricardo by claiming that cultivation actually progressed from
+worse to better land. This principle alluded to Westward migration into
+the fertile corn belt lands, a part of The American System which he and
+Henry Clay promoted. This was supposed to weaken the idea of differen-
+156 LAND AS A TAX BASE
+
+tial rent, but it has not received much of a following. His more enduring
+point is that western speculators made no more on their dollars than
+other investors — hence, no surplus.
+
+Carey’s theme is repeated later in a much-noted study by Shannon and
+Bodfish (1929) showing that land speculator returns were no more than,
+perhaps less than, returns on other investments during the 1920s. Shan-
+non and Bodfish conclude from this that no differential tax is justified.
+Here, economic surplus is implicitly redefined from Ricardian rent to the
+increments received from buying and selling rents capitalized into land
+titles. Pareto’s redefinition of rent makes it only a surplus over oppor-
+tunity cost. Carey-Shannon-Bodfish make it a surplus over a normal
+return on the historical purchase price. For Ricardo and George, of
+course, land rent is the whole surplus above zero, because land is sup-
+plied by Nature, and they look at social issues from a social viewpoint.
+
+Willford King (1921, 1924) fuses land and capital when he writes that
+capital itself would yield no profit above its costs were it not for the rise
+of land values. The speculative increase on land yields the return to
+capital. Evidently, he is describing investments in new buildings built on
+land already speculatively valued, and entered as a cost—a common
+situation today, where investors buy into “negative cash flows,” and hold
+on. This is then a modified version of Carey-Shannon-Bodfish. Once one
+buys land at a speculative price, rising rents are necessary to yield a nor-
+mal rate of return.
+
+Frank Knight, we have seen, joined J. B. Clark in denying or obscur-
+ing in metaphysics the most distinctive qualities of capital vis-a-vis land,
+to wit its formation, migration, consumption, and replacement. Knight
+(1953) goes on to develop the doctrine of vested interest acquired by inno-
+cent purchase of land at advanced prices, a doctrine held by Francis
+A. Walker, J. S. Mill, and many others. Once society has let this happen
+it has endorsed and underwritten the contract, regardless of the origins
+of rent, and it would destroy confidence in contracts to act otherwise.
+Land becomes the moral equivalent of man-made capital. This
+presumably occurs some time after the first owner invests economically in
+“killing off previous claimants,” as Knight puts it.
+
+However one regards Knight the moralist, he is a bad lawyer. Few
+things are more basic to our Common Law than the underlying owner-
+ship by the sovereign of the regal estate —now called “real estate.” This
+follows logically from the sovereign’s monopoly of deadly force used to
+acquire land. Titles originate with the sovereign, who reserves para-
+mount rights to condemn, police, regulate, zone—and tax. Titles are
+held subject to taxation, and tax liens are prior to private liens. That is
+the legal contract with the title holder. Anything more is based on senti-
+GaFENEY: Economic Thought on Taxation of Land Rents 157
+
+ment and political clout, not contract. Still, the innocent buyer doctrine
+has put down many potential socializers of unearned increment.
+Granted, they say, that many landholders have grown rich in their sleep,
+yet there are others who bought in recently at high prices. It would be un-
+fair to injure them, and so we must spare all.
+
+It is ironic, then, to look at the detail of California’s Proposition 13 of
+June 6, 1978, which applies exactly the reverse doctrine of innocence.
+Proposition 13 spares the ancient holder, he who innocently rode up the
+price escalator through no “fault” or desire of his own. High prices are
+the fault of recent buyers. The Proposition punishes these recent buyers
+by raising their assessments, while freezing others. Nor is this an inadver-
+tent result; it was the major discussion point of Howard Jarvis, the
+measure’s creator.
+
+Equally ironic is the suppression of latent land values by low-density
+zoning. Many “innocent” buyers have lost out, as have their numerous
+lawsuits alleging inverse condemnation and demanding compensation.
+An equal confiscation of value by taxation would put billions a year into
+the fisc, to increase services or reduce other taxes. Yet, increasingly
+restrictive zoning blankets the country. The same developers who fight it
+where they build support it where they live. Only a few of Frank Knight’s
+modern Chicago knights have raised a lance against it —it is easier to
+pick on rent controls.
+
+We conclude that the innocent buyer doctrine is only a good debating
+point, but not a binding constraint in the real world of our institutions
+and cultural baggage. Law and custom say that land is different, and no
+buyer is presumed innocent or “lacking in worldly knowledge” about his
+
+_tisks. We never promised him a rose garden, and he probably knows it.
+He only plays dumb because it often works.
+
+Fusing Land with Capital: Collectivist Approaches
+
+Karl Marx is a strange bedfellow for Frank Knight. Although
+sometimes discoursing lengthily on land rent, he generally merges it with
+capital and its “mode of production.” He often sacrifices consistency
+and clarity to sarcasm and invective, but the real Karl Marx stands up in
+Capital (1867, rpt. 1906, vol I, chap. 33). He attacks Wakefield’s
+Australian scheme for locking up the frontier at high prices, in order to
+throw workers back into the arms of employers. This was a plan to create
+an artificial scarcity of land; its effect should be to increase rents, land
+values, and the bargaining position of landholders. But. for Marx, the
+scarcity of land only increases the bargaining power of capital. He totally
+transfers the gains of land to the accounts of capital, even though “the
+old world constantly throws in capital” (1867, rpt. 1906, p. 843). Marxian
+158 LAND AS A TAX BASE
+
+distribution theory, like Clark-Wicksteed-Knight, thus fuses land and
+capital. But where Clark et al. simply stir them up, Marx subordinates
+land to capital. For Marx, capital has the superpowers of
+Mephistopheles; it seizes all surpluses, however generated, even though
+its supply is elastic.
+
+When we ask what Marx means by “capital,” we find Clark-Knight
+again. “. . . The value of commodities . . . in the circulation. . . of
+capital, suddenly presents itself as an independent substance . . . in which
+money and commodities are mere forms which it assumes and casts off in
+turn” (1867, rpt. 1906, p. 172). “Land as capital is no more eternal than
+any other capital” (1847, p. 138). It is fascinating to speculate on whether
+Clark the Rightist knew he was borrowing from Marx the Leftist. Cer-
+tainly they shared a common purpose, that is, to destroy the case for land
+taxation as advanced by Clark’s target, George, and Marx’s target, Proud-
+hon. One wonders, too, if they read the transcendentalists and Hindu
+mystics, for they both, like Knight later, seem to have enlisted the
+Hindu’s Brahma for economic analysis. In any case, Marx, like Clark-
+Knight, uses these concepts to create a paradigm in which it is impossible
+to perceive the rationale for land taxation, a concept which to many neo-
+Marxists is simply meaningless.
+
+Another strange bedfellow for Marx is Charles Spahr (1891) who has
+his own way of fusing land and capital. Spahr sees land value produced
+not by all men but by the good people collectively. Spahr identifies cer-
+tain groups whose presence lowers land values, and who, therefore, have
+no claim to share in them. He mentions American Indians and “the most
+degraded negroes.” Hungarians, Italians, and Bohemians are a wash at
+best. Anglo-Saxon laws recognize that land value results from im-
+provements, public as well as private. The old owners paid for these indi-
+vidually and collectively, so they created the land value.
+
+Spahr would then of course keep all wealth private, both land and
+capital; in contrast, Marx would socialize both land and capital. The
+common theme is a denial of George’s effort to compromise by
+distinguishing land values, publicly created, from capital created by
+private effort and sacrifice. Together they sow the seeds of irrepressible
+conflict between Communism and Capitalism.
+
+Let us end with the utopian socialists and others who say, “you cannot
+unscramble an omelette.” Production is collective, they say, and imputa-
+tion is futile (Russell 1945, rpt. 1967, p. 612). Better to drop the effort and
+distribute “to each according to his needs.” There is a good deal of this in
+the advocacy of income taxation, too, “from each according to ability.”
+In the long run this leads to collectivism, of the right or left, limited only
+by the emigration of those with high ability and low needs (as perceived
+by the authorities).
+GaFFNEY: Economic Thought on Taxation of Land Rents 159
+
+Inelastic Supply of Capital
+
+C. B. Fillebrown (1907, 1914, 1916; see also Marling, pp. 40, 44), a
+George follower, published a sly argument based on Seligman’s doctrine
+of tax capitalization. The doctrine said that land taxes serve to lower selling
+prices, so new buyers buy “free of tax,” which all falls on sellers. Very
+well, says Fillebrown, let us go on from there. Owners of capital are pay-
+ing taxes; owners of land are not, even though they appear to, because
+they bought free of taxes. To make landowners pay equal taxes, then, we
+may raise the rate each year by a surtax rate equal to the whole tax on
+capital. After a few years, voila! We shall have the single tax.
+
+This was too provocative to ignore. T. S. Adams (1916), H. J. Daven-
+port (1917), and E. R. A. Seligman (1916) replied that if taxes borne by
+capital lower the after-tax return on capital, they divert investors into
+land until prices rise, equalizing the return on all investments. The new
+owner may buy clear of land taxes, but he is indirectly taxed by taxes on
+capital which lower the capitalization rate and raise the price of land. An
+old tax is a good tax because the market has adjusted to it; any change
+will hurt someone, and Fillebrown is rejected. One wonders what the
+world would be like today if all other new proposals, such as the Six-
+teenth Amendment, had to meet the same test.
+
+Davenport and Seligman went on to adumbrate a theory that is hard to
+distinguish from what is now called the “Harberger thesis.” In a closed
+economy, taxes on capital are borne by capital and are substantially
+neutral, provided the coverage is total, because capital has no escape
+routes. Total capital stock is virtually fixed in the short run because cur-
+rent saving is small next to the accumulated treasure of centuries.
+Besides, it is not known whether a lower net return after tax will raise or
+lower saving.
+
+Where, says Seligman rhetorically to George, is all this capital to come
+from to fill the vacant lots? There is no fund of capital floating in the
+air —it can only come from other uses (Seligman 1895, rpt. 1923, chap.
+III, sect. 3). The metaphor and the idea both actually originate with
+Charles Spahr (1891, p. 632). There is the hand of J. B. Clark here, too.
+Clark assumed a “static” economy with “fixed” resources. Thus by
+assumption capital is fixed, like land. A “static” economy is akin to a
+closed economy: capital is fixed.
+
+Jens Jensen, although not given to unequivocal affirmations, joins in
+this group: “. . . the property tax on producers’ goods must rest largely on
+the owners of capital in general in the form of a lower interest rate . . .”
+(1931, pp. 61, 90). This is because the supply of capital is fixed.
+
+It is easy to see the magnetism of this idea for the 1960 Chicago school,
+with its emphasis on scarcity, and allocation of fixed supplies. Only the
+160 ' LAND AS A TAX BASE
+
+Utopian Keynesians thought you could pull new capital out of the air,
+and they saw investment, not saving, as the effective constraint on capital
+formation. It was natural for monetarist Chicagoans to differentiate
+themselves from Utopian Keynesians who promised suspiciously too
+much — higher employment, plus capital formation as a free lunch. Thus
+Chicago’s Harberger replicated Seligman-Adams-Spahr-Jensen and sup-
+plied a rationale for taxing capital. Capital is as good a base as land, pro-
+vided the tax be uniform, the supply fixed, the economy closed, and the
+flow of investment adequate. Chicago rejected the assumption of Netzer
+and Musgrave that capital taxes are shifted.
+
+Meanwhile, the Keynesians of the ’60s were rediscovering one, if not
+all, of the wheels on the carriage of Henry George. As had George, they
+pulled new capital “out of the air”; following George’s ideas, they did it
+by favorable tax treatment. Unlike him, their vehicle was the income tax;
+and unlike him, they made labor pick up most of the revenue losses. Yet,
+there is a promise (or a threat) in their tax policies of converting the cor-
+porate income tax, and the property part of the personal income tax, into
+taxes on land income, with capital virtually exempt. It may not be coin-
+cidental that Walter Heller (1954) wrote in favor of taxing land in
+developing countries and studied at Madison where, we will see, John R.
+Commons advocated accelerated depreciation as a Georgian tool.
+
+Jacob Stockfisch: (1956, 1957), who with Earl Rolph (1954) kept
+Adams-Spahr-Seligman alive and anticipated Harberger, points out
+explicitly the Georgian implications of income tax loopholes. The effect
+of accelerated depreciation, investment tax credits, and expensing capital
+outlays is to exempt an increasing share of capital income from the tax
+base, leaving nondepreciable land bearing the brunt. While Georgist
+frontal assault waves were breaking against the rock of local property
+taxes, Keynesian subtlety was transforming the income tax. Stockfisch
+seems to view this transformation negatively. However, he identifies a tax
+development that Georgists let pass unrecognized as a move toward their
+preferred reform.
+
+To be sure, Stockfisch overstates the case. Tax-cutting Keynesians who
+gave investment incentives for capital were also leaving many loopholes
+for land income. They were also piling up payroll taxes on workers, taxes
+George would have execrated. And yet, like George, they had a dream, a
+dream that untaxing capital could pull new capital out of the air, and
+spin off multiplied increased output and jobs. If the methods were
+different, the expansive optimistic spirit was alike, and quite at odds with
+the limited resources, competing ends, astringent skepticism, and expen-
+sive lunches of Chicago.
+
+And so we find the “conservatives” Spahr, Jensen, Seligman, Adams,
+GAFFNEY: Economic Thought on Taxation of Land Rents 161
+
+Davenport, Knight, Rolph, Stockfisch, Harberger et al. rationalizing the
+taxation of capital. Meanwhile the “liberal” Georgists and Keynesians
+rationalize untaxing it, linking up with various right-wingers who must
+find their Chicago allies’ position baffling, and alienating many left-
+wingers who view capital only as Robin Hood viewed the fat monk’s
+purse. It is a confusing paradox that Chicago and other conservatives
+should line up with the Left on an issue so central to economic ideologies
+as the taxation of capital. One root of this paradox is the traditional reac-
+tion to the single-tax drive to replace capital with land in the tax base. In
+this context, taxing capital is the conservative position. Frank Knight is
+the pivotal figure. He dominates two generations at Chicago; his
+relentless antipathy to George lies between the lines of much of his work
+and locks his followers into a paradigm that guides them away from tax-
+ing rent.
+
+If uniformity can make the taxation of capital efficient, so can it make
+other taxes efficient. We find much of the world accepting general income
+taxes for this reason, and now increasingly general sales taxes and next
+VAT. Forward shifting and the excess burden of indirect taxation are “ex-
+cise tax effects,” not the effects of general taxes. General equilibrium
+analysis, and theories of second-best all point toward this policy finding.
+
+Ragnar Frisch (1939) used such a course of thought to attack Harold
+Hotelling’s basic article on marginal-cost pricing. The attack was equally
+levelled against Hotelling’s corollary case for taxing land to meet the
+deficits of marginal-cost pricing with decreasing costs —a case William
+Vickrey has adopted and developed. Yet a uniform sales tax applied in-
+discriminately both to increasing and decreasing cost producers is in-
+herently inefficient, for reasons Hotelling gave: it is more efficient to sub-
+sidize the latter. Still, much of the later writing on welfare economics
+follows Frisch, undercutting Hotelling’s principles and the implementa-
+tion of marginal-cost pricing with theories of second-best and all that
+(Little 1950, rpt. 1960, appendix IV).
+
+The other troubles with uniformity as a working guide are that there
+are not closed economies and there are no truly uniform taxes. Taxes on
+capital drive it away —the local supply is never fixed. In an open
+economy only one thing is closed, and that is the land supply. Tax
+jurisdictions are defined as areas of land; capital and people move in and
+out. So skeptics of the Harberger-Seligman-Spahr approach, such as
+Netzer, still have a lot to say about the excess burden of indirect taxation
+and the superiority of land as a tax base. As for Gaffney (1971), his reasons
+for believing the property tax to be progressive do not include a full
+subscription to the Harberger thesis, or any belief that the U.S. economy
+is more than partially closed.
+162 LAND AS A TAX BASE
+
+The Social Functions of Land Speculation
+
+Richard T. Ely advanced a theory of “ripening costs” to explain the
+function of land speculation. By holding land idle until the rise in value,
+he says, “I perform social service” (1920, p. 127). The service is to pre-
+empt land from premature underimprovement, while it ripens to a higher
+use. Holding costs — the unrealized latent rents — are the “costs of ripen-
+ing.” Land taxes force premature use at less than optimal intensity.
+
+Ely’s idea had a strong following in the 1920s, followed by a crash in
+the 1930s, after which Ely and Wehrwein ruefully accepted the revised
+metaphor of Simpson and Burton (1931, p. 44): “We speak of land ripen-
+ing, but this is putting land into cold storage, and loading the community
+with the frozen assets that result.” The pros and cons of the doctrine are
+easily subsumed today in the modern rule of planning the timing of a
+series of replacements over time so as to maximize discounted cash flow.
+
+Ely’s idea was briefly revived by Donald Shoup (1970) and Peter
+Mieszkowski (1970, p. 17), but not pushed. Roger Smith (1979) and Louis
+Rose (1971) have kept it alive, and John Krutilla has applied it to the pre-
+emption of scenic resources. But these modern statements are much more
+careful and limited than Ely’s sweeping generalization; Krutilla’s avoids
+tax issues entirely. It is not necessary to frame the question in the emotive
+pugilistic style of the 1920s. It is not a gut question of whether individual
+landholders serve any function, but rather how that function is affected
+by taxes. Shoup, Rose, and Smith suggest that land taxes motivate
+premature conversion. Gaffney (1970, 1973b), on the other hand, em-
+phasizes that building taxes delay conversion. Ely’s soul marches on in
+the political movement for preferential assessment of ripening land.
+Whether Ely originated the idea, or, like some composers, merely picked
+up an old folk tune, we may never know. Nevertheless the idea persists. It
+thrives in our times because urban sprawl has brought dreams or fears of
+ripening to so many more lands than ever before that every country
+Muzak box plays Ely’s tune.
+
+Ely also objected to calling land supply “fixed.” A high price induces
+more supply, man-made. He interpreted many capital improvements,
+land use conversions, migrations, discoveries, and substitutions of
+capital for land as actually “increasing the land supply.” Many neo-
+classical economists approve of this locution, which helps excuse them
+from rationalizing rent as a surplus. Orris Herfindahl (1974), the
+neoclassical mineral economist, saw mineral rents as mainly a return of
+discovery costs —a position I like to believe he would modify if writing
+after OPEC. He reflects the Chicago compulsion to rationalize markets so
+perfectly that there is no unearned wealth except by chance, and even
+then, it is a functional reward for taking chances (see Gaffney 1979).
+GaAFENEY: Economic Thought on Taxation of Land Rents 163
+
+J. B. Clark (1899, pp. 85-87), H. J. Davenport (1917), and B. H. Hib-
+bard (1930) identify another function of land speculation, that of hasten-
+ing the conquest of the frontier. “The lure of unearned increment” drew
+pioneers westward earlier than otherwise. Land taxation would put a
+damper on this “rent-seeking” behavior, which Clark and his followers
+regarded as beneficial, and slow down the early development of frontiers
+that were otherwise submarginal. Alvin S. Johnson claims the same effect
+in cities: unearned increments lead men to build in anticipation of future
+demand. Rising land values in boomtowns cause “overbuilding,” a
+desirable outcome (1914, p. 35). At the same time, rising land values keep
+farmers from leaving for the city (1914, p. 34). B. M. Anderson (1914)
+refutes these positions, apologizing at the same time for siding with the
+single taxers.
+
+To Ely, the function of land speculation is to delay use. To Clark et al.
+speculation serves to advance use. None of these economists sought to
+reconcile their polar positions, but instead united in their criticism of
+land taxation, which Ely said would bring on new land too soon, and
+Clark et al. said would delay it. George himself intended land taxes to act
+on the better lands, causing infilling and full use, and obviating pre-
+mature recourse to marginal lands. Progress and Poverty is filled with
+complaints against urban sprawl and scattered rural settlement.
+
+Davenport (1909) also raises the soil conservation issue. He believes
+that land taxes encourage soil mining, looting, and abandonment of
+erosive soils (and, by extension, of other extractive resources). This is
+also a theme of Seligman.
+
+F. Y. Edgeworth writes that land taxes would inevitably bite into
+building profits, that builders’ and buyers’ fears would magnify the deter-
+rent to build, and bankers’ fears would doubly magnify the problem. The
+tax would hamper raising money on the “security of the premises.”
+Edgeworth also objects to “forcing the market,” and anticipates Ely’s
+ripening cost doctrine — speculation is reserving land for a higher use. “In
+fine, the interest of monopolists is not always contrary to that of their
+customers” (1906, p. 73). The mood of Edgeworth’s prose is more queru-
+lous than mordant, and he concedes some limited role for taxing un-
+earned increments. The limits, however, are clearly his primary interest.
+
+Edgeworth’s point about land as collateral for loans is not found in
+other scholarly critics, and he himself gives it only a Parthian shot — and
+wisely so. It is clear in theory and experience that untaxing buildings im-
+proves the credit of builders as such; taxing land weakens the credit of
+holdout land speculators and helps shift land to builders. Yet,
+Edgeworth’s point has an active life in political campaigns that touch
+164 LAND AS A TAX BASE
+
+anywhere near our subject. Lessees on Crown land in British Columbia,
+for example, successfully oppose the Crown’s extraction of market rents
+by pleading their credit ratings, used to attract eastern capital “for the
+benefit of all.”
+
+Local Land Taxes as a “Tragedy of the Commons”
+
+Alfred Marshall, who sees much merit in land taxation, also sees it as
+overcrowding central cities, and proposes that some land tax revenues be
+earmarked to a “fresh air fund” to offset this damage. Leonard Darwin
+(1907) carries this much further than Marshall. However, Edward Polak
+(1915) replies that cities generate more positive than negative spillovers.
+
+A more challenging negative comes from Edwin Cannan. Cannan
+defends taxing buildings on the now familiar basis that they increase
+local public costs, and\in proportion to building value (1907, p. 39).
+Buildings receive more services in large cities than small, so untaxing
+them will subsidize congéstion in central cities. Free services to urban
+building create something\analogous to a “tragedy of the commons,”
+overcrowding cities and destroying rent (1907, p. 44).
+
+Although Cannan’s styh is partisan, and much of his work unim-
+pressive, this point is basic;‘he desperately wants an answer in light of to-
+day’s exclusionary zoning and related policies. Cannan’s argument needs
+adapting today when the suburbs outdo the central cities in their fear of
+fiscal parasites. Yet it is fiscal sharing more than physical congestion that
+concerns Cannan. His logic leads towards pooling tax revenues of
+whatever kind at higher levels of government, as proposed by Colin
+Clark. It is perhaps the great weakness of most Georgians that they have
+persisted in pushing land taxation purely as a local policy, thus leading
+right into Cannan’s powerful rebuttal which currently is sweeping the
+field.
+
+Inadequacy of Land as a Tax Base
+
+Spahr (1891) and later Seligman (1895, rpt. 1923) write that marginal
+communities have little land value and hence no land value tax base. This
+is consistent with their belief that taxes on capital are borne by capital
+(for if local capital taxes come instead out of land rents, then a direct tax
+on land is simply a more efficient way of tapping the taxable surplus,
+which cannot exceed rent anyway [Andelson and Gaffney 1979]). It is at
+odds with their belief that farmers bear most of a tax on land values, a
+contradiction so glaring that Spahr and Seligman have little message for
+today. In retrospect, Edwin Cannan had a stronger point. He did not
+question the adequacy of rent, but the efficiency of locational incentives
+created by socializing rent through local taxation.
+GaFFNEY: Economic Thought on Taxation of Land Rents 165
+
+Many economists have questioned land’s adequacy as a tax base.
+Ernest Kurnow is the most recent and quantitative of these (1959, 1960,
+and 1961). Gaffney has criticized his procedures elsewhere (1970,
+pp. 180-81).
+
+Jens Jensen notes that land taxes are capitalized, but the value of
+capital has to remain at its cost of production. He sees capital therefore
+as able to yield “enormous revenue” compared to land (1931, p. 91). The
+opposite view is that local taxes on whatever base are shifted into land
+values. John A. Zangerle (1927) takes this view, tracing it back to John
+Locke (1692) and Jacob Vanderlint (1734). The physiocrats also held this
+view, as did Adam Smith. Gaffney has elaborated on this theme (1970),
+citing Paul Douglas, Bronson Cowan, and Ebenezer Howard, among
+others. A curious twist is that the arch-critic Alvin S. Johnson sees land
+rent as much more than adequate to cover all public needs (1914, pp.
+29, 30).
+
+Wide Distribution of Landownership
+
+Alvin S. Johnson’s major theme is that single tax is “a device for the
+spoliation of the middle class” (1914, p. 30), because they own most of
+the urban land, and ail the farmland. Charles Spahr (1891) had earlier
+sounded the same note. E. R. A. Seligman (1895, rpt. 1923) takes relish in
+quoting Voltaire’s satire L’Homme au quarante écus, accusing the
+physiocratic land taxers of a regressive proposal, hitting the poor people
+who own all the land. It is fascinating to read these pre-econometric
+economists who issue facts on their own authority without data.
+
+General Francis A. Walker (1883a, rpt. 1898), director of the U.S. cen-
+sus, president of M.I.T., and first president of the American Economic
+Association, did have data. He pointed out that the average size of farms
+in 1880 was small, and growing smaller, contrary to George’s allegation
+of increasing concentration. George objected to the use of a simple
+mean; he wanted to know how much was held by the largest few. He
+never used the term “Lorenz Curve,” but that was the idea. Walker, trap-
+ped in an untenable position, tried to shoot his way out in an exchange
+that must have embarrassed him (Walker 1883a, rpt. 1898, May, June). It
+is perhaps due to this exchange that in 1900 the census began collecting
+data on farms ranked and grouped by size. There was no retroactive
+count, but the trend from 1900 to the present is one of rising concentra-
+tion.
+
+Later critics have avoided this issue, other than mentioning it inciden-
+tally in connection with the question of whether the general property tax
+is regressive. Here the main germane issue becomes the corporation.
+Several studies show corporate shares to be held more closely than “real
+166 LAND ASA TAX BASE
+
+estate.” Many property tax opponents conclude from this that property
+taxes exempt the wealthiest. I am not aware, however, of any systematic
+study refuting the belief that corporations are our major landholders, as
+documented in Gaffney (1970).
+
+Mixed, or Shifting and Changeable Positions
+
+Francis A. Walker thought that George overstated his case inex-
+cusably. We have discussed Walker on his feelings about concentration.
+He also attacks George’s forecast that rents will continue to rise with in-
+creased population, because the evolution of technology is labor-saving
+and resource-using, and because higher incomes lead to higher demand
+for land. Walker cites M. Leroy-Beaulieu, “an economist and statistician
+of eminence,” who said that rent “will soon disappear altogether”
+(Walker 1883b, p. 147). Chicagoan Theodore Schultz (1953) says much
+the same.
+
+In truth, the periodic collapse of land values in our history of cyclical
+territorial expansion has weakened support for land taxation; George’s
+forecasts were overdrawn and premature. But now, one hundred years
+later, land values are looming up as George warned.
+
+Walker’s hostility to George is more stylistic and personal than
+substantive. Walker remains a Ricardian, and tackles J. B. Clark for
+treating capital as though it were fixed, like land (1888, pp. 417-35). In
+Land and Its Rent, after a furious attack on George, Walker still says in
+regard to the rights of property, “property in land stands lower, much
+lower in the hierarchy than property in capital” (1883b, p. 198). Before he
+is through, the eminent M. Leroy-Beaulieu “can command little convic-
+tion” (1883b, p. 191).
+
+Five years later, Walker has mellowed so far as to accept land taxation
+as reasonable in principle but impracticable in implementation (1888, pp.
+415-17).
+
+Alfred Marshall (1920, rpt. 1947) improves upon Ricardo by con-
+tributing a new concept, the “public value of land,” to help define the
+desired tax base. Ricardo wrote mainly of farmland and fertility
+differences and perverse readers persisted in taking this narrowly. Mar-
+shall’s public value is what George means by “community-created” value,
+the joint product of nature, location, public works and services, settle-
+ment, and community synergy. Marshall realizes that urban location
+values are outgrowing farm values, and he provides an appropriate con-
+cept.
+
+Marshall also develops a lucid statement of how high urban land costs
+cause intensive land use by actuating substitution of capital for dear land
+GAFENEY: Economic Thought on Taxation of Land Rents 167
+
+(1920, rpt. 1947, chap. XI). Marshall is also clear that “from the
+economic and from the ethical point of view, land must everywhere and
+always be classed as a thing by itself” (1920, rpt. 1947, appendix G). He
+seems to favor a kind of creeping land tax.
+
+But Marshall is ambivalent and cautious, the very type of Harry
+Truman’s two-handed economist. For every proposal there is a caveat,
+for every aid to one side, comfort to the other. Any change should be
+slow — during one 1883 lecture, he discusses the merit of nationalizing
+land interests after one hundred years (1883, rpt. 1969). It is a sobering
+thought that that centennial is now only two years away.
+
+Marshall also contributes new concepts for the Omelette School,
+which resist unscrambling land and capital. Durable capital earns “quasi-
+rents,” in the short run just like land rents. Big land developers con-
+sciously create values that spill over onto neighboring lands that they
+own. The supply of national capital is fixed, so a uniform national tax on
+building values is neutral, and not shifted (this is the “new view”
+Harberger thesis again).
+
+Marshall distinguishes “onerous” and “beneficial” local taxes. An
+“onerous” rate is one which taxes property to provide services to
+people — for example, “a poor-rate levied on the well-to-do” (1920, rpt.
+1947, p. 794) —and so fails to give back to property a service equal to
+what it pays for. This is cousin to Cannan’s tragedy-of-commons case
+against taxing local land values to provide services that attract im-
+migrants and congest cities. But where Cannan focuses on people moving
+in, Marshall sees the wealthy moving out to the suburbs. Having raised
+the issue, however, Marshall characteristically minimizes it — he says that
+the rich cannot escape because tax jurisdictions are widened to catch
+them in their new locations.
+
+Still, Marshall provides the framework for today’s mischievously po-
+tent slogan, that property should pay only for services to property. These
+are “beneficial”; services to people are “onerous.” The viewpoint is clearly
+that of the local landholder.
+
+Marshall resented Henry George’s influence in England, and in 1883 he
+took the stump against him. As with Walker, differences of style over-
+rode substance, and no doubt George seemed a cocky intruder in Mar-
+shall’s nation and profession. George developed his attitudes in a land
+that either belonged to the national government or was only freshly
+granted to private holders; Marshall’s England had its own history. Mar-
+shall mainly objected to the immediacy of George’s reforms.
+
+The mature Marshall never published these immature polemics, and
+wisely so. George Stigler (1969) has exhumed them, possibly in the belief
+they show the real Marshall. But yet another George (Prime Minister
+168 LAND ASA TAX BASE
+
+Lloyd) did win Marshall’s support for a British land tax when he pro-
+posed it in 1909 (Hutchison 1969, pp. 248-49, n. 50). The real Alfred
+Marshall is probably the one who stood up when push came to shove in
+
+’ his native land. Hostility to an invader is one thing: conviction on princi-
+ple is another.
+
+A. C. Pigou (1949) takes a fairly clear stand in favor of using
+Marshall’s public value of land as a tax base, “a moderate tax assessed at
+a moderate percentage,” in a family of “different imposts.” Its strong
+point is its perfect “announcement aspect,” i.e., its unavoidability and
+unshiftability. It rates poorly on horizontal equity (Pigou takes “income”
+as the base of reference for “equity,” without regard to sources); but rates
+well on vertical equity. An added attraction is automatic recoupment of
+betterment.
+
+Pigou contributes the important concept of “announcement effect.”
+Some prior economists wrote simply of taxing rent, without usually
+specifying much about the actual method. Pigou likes the tax because we
+can “announce” it to the taxpayer as a lump sum for the year, based on
+an outside assessment, independent of taxpayer activity. It is not clear if
+some earlier writers always had this in mind, or would tax rent as realiz-
+ed, ex post. Today, most discussion, pro and con, premises Pigou’s con-
+cept of a tax on presumptive or “notional” rent, as revealed by assessed
+land value. This unfortunately confuses two questions, because there
+also are income taxes on rent, and there is a case for letting taxes vary
+with short term changes in realized rent (as when prices widely vary). It is
+too bad Pigou never pursues this lead further. It has been left to analysts
+of leasing methods to choose among different ways for a landlord to “an-
+nounce” rent to a tenant, and the field is beginning to yield a vigorous
+literature. Among land taxers, we will see John R. Commons emphasiz-
+ing the use of income taxation to collect rent.
+
+Karl Marx wavers in a love-hate relationship with land taxation.
+Mostly it is hate. The Manifesto (Marx and Engels 1848, rpt. 1959),
+demands “application of all rents of land to public purposes” (Plank 1),
+but the means is never explained. The allied demands include forced
+labor (Plank 8), the reverse of what land taxers intend. Still, the unfinish-
+ed posthumous vol. III of Capital (1867, rpt. 1906), pieced together by
+Engels, is half about ground rent. However, in The Poverty of
+Philosophy (1847), Marx attacks Proudhon for pushing a tax on rental
+income. He marshals technical problems of separating land and capital,
+but more basically he objects to a reform so easily accommodated within
+the capitalist system of market pricing. He suggests that rent might better
+be distributed by lowering consumer prices — a process familiar enough
+to domestic producers of “old” oil and gas today, and consistent with
+GaFENEY: Economic Thought on Taxation of Land Rents 169
+
+Marx’s disdain for conservation. Marx also is leery of a proposal
+animated by a decentralist bias, his own being the reverse. Marx seems at
+times to say that only farming yields rents, because of diminishing
+returns, while manufacturing yields none, because of increasing returns
+—he is careless about distinguishing scale and proportions.
+
+Finally, he opposes any reform that would make capitalism more
+tolerable, and that would delay the apocalypse of his heart’s desire
+(whatever that is— we know what Marx is against, but not what he is for).
+
+E. R. A. Seligman (1895), like Francis Walker and Alfred Marshall,
+followed the catharsis of a no-holds-barred attack on George by a partial
+agreement on the desirability of at least some special taxation of land
+(Andelson and Gaffney 1979).
+
+There are countless other economists who have touched on one or
+another aspect of the land tax case and then shifted as they aged and
+changed. I leave to philosophers the case of Herbert Spencer. I do not at-
+tempt a comprehensive catalogue, but hasten on to cover the more prom-
+inent or currently relevant cases.
+
+Noncommittal, Detached, or Supercilious Economists
+
+David Ricardo, whose contributions to analytical method tower over
+our subject, does not take an advocate’s role. He merely explains in short
+and simple terms that a tax on rent is not shifted (1817, chap. X). Nothing
+suggests that he cares if this intelligence is put to use.
+
+That it was put to use by others is some kind of tribute to the power of
+conceptualization in guiding behavior, a power clearly understood by
+Clark et al. as they went about undoing Ricardo.
+
+My guess is that Ricardo doubted the adequacy of rent for taxes,
+because his treatment of other taxes has them all shifted forward, never
+back into rent. He even rebukes Adam Smith on this point. Believing
+this, he would not see that most taxes in an open economy come from
+rent anyway.
+
+Other and more sophisticated aspects of rent were defined by Heinrich
+von Thiinen, founder of location theory; and Martin Faustmann (1849,
+rpt. 1968) who mastered the mathematics of defining ground rent in
+forestry when yields are slow and periodic. Both care about economizing
+on land, but are not known to have written about taxing it.
+
+Location theorists, urban land economists, and regional scientists in
+large numbers deal constantly with location rents and the importance of
+pressing landholders to economize on land in the measure indicated by its
+rent in order to economize on transportation. They are allied with pro-
+
+170 LAND AS A TAX BASE
+
+fessional city planners, many of whom follow the lead of Ebenezer
+Howard (1965) in promoting special taxation of situation rents. But the
+theorists, oddly, have avoided tax policy questions. William Alonso
+(1964) extends himself beyond the norm of this reference group when he
+devotes one half of page 116 to note that a tax on land rent is neutral.
+
+Paul Samuelson, in various editions of his text, gives statements as
+lucid as any heart could desire of land rent as a taxable surplus — and
+there they rest. We cannot attribute this quiescence to a reticent disposi-
+tion, or to qualms against melding positive and normative economics. He
+simply is detached from this issue.
+
+Herbert Simon’s article on the incidence of a tax on urban real pro-
+perty (1943) is a fine piece of thread-the-needle reasoning that suggests a
+general equilibrium approach to tax incidence along lines pioneered by
+Harry G. Brown, and shows that a tax on “house rental” is separable into
+a tax on land and building, with different effects. He spikes Edgeworth’s
+incipient fallacy that a given capital adds more to value on a more highly
+rented site — an approach that could arrogate the land value to the capital
+value, in the manner of Marx. There are ideas launched about housing as
+a composite service combining location and building, and it is regarded
+as a contribution to demand theory. Yet, if it was anything for Simon but
+an intellectual game, there is no sign. In 1979, however, Simon played a
+role in a successful campaign to place more of Pittsburgh’s graded pro-
+perty tax on land, and less on buildings.
+
+Frederick Babcock’s classic Valuation of Real Estate covers most of
+the topics on separating land and building values over building life, on
+different shaped lots, and so on (1932, see esp. chaps. 23, 30). Babcock
+does for urban real estate what Faustmann did for forestry: he applies
+capital theory to separate land and capital values over the long life of
+durable capital. Richard Hurd (1903) earlier did for urban real estate
+what von Thiinen did for regions; he showed the power of location over
+land values. Anyone constructing a map of land values relies heavily on
+Hurd’s work because it shows the spatial continuity of urban land values,
+which is the basis for interpolating and extrapolating. While Hurd at-
+tempts no formal theory, it would be hard to fault his penetrating obser-
+vations of real life on any theoretical ground. Perhaps it is just as well
+that Babcock and Hurd wrote for the trade, and pronounced nothing on
+public policy. They illustrate that the needs of economic life demand
+separate valuations for land and capital, regardless of ideologies.
+
+It is altogether remarkable that Babcock and Homer Hoyt (1933) were
+writing their classics on land values in Chicago right by Knight’s temple.
+George Olcott was issuing his annual Blue Book of Chicago Land
+Values. Herbert D. Simpson (1933) was studying property taxation and
+GaFENEY: Economic Thought on Taxation of Land Rents 171
+
+land value cycles, and attributing the banking collapse to the collapse of
+real estate — a point never entertained by Friedman. Chicago sociologists
+Park and Burgess (1925) were pioneering their ring hypothesis of land
+value, and Hoyt (1939) was developing his sector hypothesis. Wallace At-
+wood was founding the discipline of economic geography, the study of
+how land determines the location of human culture. They drew on the
+rich and instructive experience of the vital city around them. However,
+University of Chicago economists were hewing to Simon Patten’s counsel
+that “economic doctrine must isolate itself more fully”; for them the land
+market was ruled out of this world. The brilliance of their work in other
+fields has only compounded the mischief by spreading theories from
+which land was exorcised.
+
+Friedrich Hayek (1941, pp. 87-94) like other Austrians rejects the
+classical reason for distinguishing land and capital as backward-looking
+and based on origin. He insists on maintaining the distinction in Austrian
+economics for an appropriately forward-looking reason: “. . . capital . . .
+needs replacement and in consequence leads to investment.” He rejects
+Clark, Cassel, and Knight on the capital fund as “pure mysticism.” “The
+distinction between capital and land is surely not an invention of the
+economists. .. .”
+
+Yet, having kept the concept pure he lets it languish, and no Austrian
+has been conspicuous as a land taxer. Nor do they even enter land rent
+among the carrying costs of durable capital in their treatments of
+replacement timing, a matter near the heart of their theories.
+
+Positive, but Tentative, Limited, Partial, and Remote
+
+Developing Nations
+
+Haskell Wald (1959) gathers together many arguments for land taxa-
+tion, although the style is skittish. He anticipates one modern domestic
+trend in recommending some “personal allowances” in the land tax, to
+remove the regressive stinger (John Shannon’s term) and allow a higher
+overall rate. He suggests the wisdom of adjusting levies for year-to-year
+changes in economic rent due to weather and prices. However, after mar-
+shalling a persuasive case for a tax that sharpens incentives, distributes
+wealth more equitably, and is administrable and richly yielding, he sug-
+gests that land taxation is a transitional tool that can be phased
+downwards after developing countries acquire the accounting skills need-
+ed for income taxation.
+
+John Due (1963) is much more the observer-analyst than advocate. He
+finds and records a land tax being implemented in many cities of east
+Africa. He brings out the importance of land registry, surveys, and clear
+172 LAND AS A TAX BASE
+
+titles. In West Africa he generally finds that titles are so obscure, bound-
+aries so unspecific, and extended families so complex that a land tax base
+can hardly be defined, so property taxes concentrate on buildings. In
+rural east Africa, likewise, the cadastral tradition is lacking. He might
+have added that in precommercial societies community interests in land
+are expressed in nonpecuniary ways.
+
+In East African cities, however, European concepts of tenure have
+been applied. Land has been commercialized, making’ land taxation
+possible — and, he might have added, more appropriate, in order to com-
+pensate for extinguishing ancient communal rights.
+
+Due writes glowing reports of the modernity of land-tax
+cities— Nairobi and Salisbury receive specific praise — and of high stan-
+dards of administration, among both Africans and Europeans. Due
+remains the careful technician, mainly discussing nuts and bolts, eschew-
+ing ideologies, except when he attributes land taxation in East Africa to
+“a spread of ideas of the single tax. . . from Great Britain through South
+and Central Africa.and gradually into Kenya.” One gathers that the ideas
+traveled in the natural way, by indigenous grapevine without benefit of
+A.L.D., World Bank, Ford, U.N., or Colombo Plan, and are the firmer
+rooted for it.
+
+Due contributes to theory the cultural relativity of land taxation: it fits
+where land is under tenure. On Crown and unsurveyed lands, he notes,
+charging for the use of land is “the same as a program of land value rates
+under freehold.” The idea is germane in our own commercial culture
+where so many resources (such as highways and waters) are still without
+adequate tenure control. Due also echoes Cannan’s concern about
+distorting locational incentives by distributing central city rents. We still
+see that Colin Clark has a solution to this.
+
+Robert M. Haig (1915a) is both a keen observer and a theoretician. In
+1915 he writes, on behalf of the city of New York, “The Exemption of Im-
+provements from Taxation in Canada and the U.S.,” mainly discussing
+western Canada. The title is carefully chosen. Property taxes were so low
+in that part of Canada, both absolutely and relative to other revenues,
+that the experience was more with exempting buildings than taxing land,
+as he points out. His meager raw data on building volumes demonstrate
+no clear effect on the policy. Cautious and detached though he is, he
+reasons a priori and from extensive interviews that the policy has a
+substantial effect in stimulating building and reducing lot sizes. As a
+political observer, he notes that the policy is pushed by real estate men, in
+the booster spirit. The region is growth oriented, quite the reverse of
+Cannan’s England. He notes the net effect on land values is positive, and
+the zeal of the boosters is not utopian, but wealth-maximizing. There is
+GaFFnEy: Economic Thought on Taxation of Land Rents 173
+
+no drying up of loanable funds, as Edgeworth feared. In a few smaller
+towns, taxes have been high enough utterly to destroy “speculation”
+(construed as holding vacant land for the rise). Ever circumspect, Haig
+offers a left-handed conclusion: “Under certain circumstances” im-
+provements can be exempted “without disastrous consequences.”
+
+Haig contributes a practical sense of the importance of credit ration-
+‘ing—a factor neglected by most theoreticians. He observes that banks
+are loathe to lend on raw land, so some owners must build in order to
+borrow. He conjectures that this may stimulate building, where holders
+keep land for the “lure of unearned increment,” a topic that bemused
+him. He feels that present land taxes hasten building, but anticipated
+taxes dampen the lure of increments. The increment is not the direct
+cause of stimulus: “It is rather the necessity of preserving title to that in-
+crement” (1915b, p. 837). He does not determine whether this is an
+economically efficient stimulus, or another “tragedy-of-commons”
+misuse of rent as a stimulus, as modern economists would sense, and
+Harry G. Brown replied. He likes to define contervailing forces, and to
+leave us with country lawyer wisdom: “Circumstances alters cases.” Like
+Due, however, he contributes a strong sense of the importance of tenure
+institutions in determining the effects of land taxation.
+
+Harold Groves contrasts Canadian and American property taxation.
+Canada has narrowed the base more than we have, partly exempting im-
+provements and nearly wholly exempting personal property, following
+the British custom. Groves says “. . . exempting improvements . . . strikes
+a responsive chord in those who, like the author, hold that land is an
+especially suitable subject for taxation and that little, if any, rational
+ground can be found for taxing improvements” (1948, p. 29). However,
+there it rests, since he devotes his main strength to institutional matters.
+
+American, English, and Canadian economic missionaries to LDCs
+have been legion during the last 35 years of Pax Americana. I cannot
+possibly name all those who have smiled on land taxation abroad, but a
+representation includes Richard Bird (1974), William Rhoads (1969),
+Albert Berry (1972), Erwin Johnson (1970), Richard Musgrave (1969),
+Daniel Holland (1969), Robert Hardie (1952), Richard Lindholm (1965),
+Richard Goode (1970), Peter Dorner (1972), John Strasma (1969, 1965),
+Orville Grimes, Jr. (1977), George Lent (1967), John R. Hicks (1959),
+Milton Taylor (1965), and Walker Heller (1954). Reform may be easier to
+comtemplate at a distance, but dreams of far away may come to life. We
+have seen Marshall shorten the count-down from one-hundred years to
+“Blast off!” in 1909. Lindholm, for one, has also promoted domestic land
+taxation. Heller, a student of Groves, has engineered major exemptions
+of domestic capital from income taxation. John Strasma has skillfully
+174 LAND AS A Tax BASE
+
+guided a tax on net proceeds of mineral extraction—read “rent” —
+through the Wisconsin legislature. Others, too, may yet bring their
+messages home.
+
+Advocates with Unresolved Reservations
+
+J. S. Mill, like the early Marshall, would limit rent taxes to future in-
+crements only. The problem turns out not to be so simple, since in a
+rising market, future increments for all future time are already reflected
+in land prices paid by “innocent” buyers. He recognizes fleetingly that
+present land values include discounted future increments, but dances
+calisthenically around this, concluding it is all right to tax future in-
+crements to rent (1872, book V, chap. II). In later passages he returns to
+the attack without the qualification. The existing land tax is not a tax
+burden at all, but a reservation of ancient feudal rights. Landowners
+should bear it silently, p/us their share of general taxes. He says profits of
+capital should be taxed at a lower rate than land rent (1872, chap. III;
+para. 2). The long run supply of capital is elastic because of international
+. flows. (He also anticipates Domar and Musgrave by noting that taxes on
+profits increase risk-taking.) “. . . among the very few kinds of income
+which are fit subjects for peculiar taxation, these (urban) ground-rents
+hold the principal place.” A house-tax, so far as it falls on the ground-
+landlord, “is liable to no valid objection.” For Mill the moralist and logi-
+cian, that is strong language.
+
+In later years, Mill becomes active in the Land Tenure Reform
+Association, but only after his autobiography is finished and his main
+energies spent; it is almost a posthumous activity.
+
+Most poignant is Paul Douglas’ (1972) comment in his autobiography,
+concerning what might have been. Looking back, he regrets his failure to
+support land taxation more vigorously. Knight’s Chicago was hardly a
+hospitable matrix for a young professor so inclined, and anyway Douglas
+had been trained at Columbia by J. B. Clark and nurtured on Philip
+Wicksteed. Later as a U.S. Senator he did push the National Commis-
+sion on Urban Problems to recommend land taxation (1968). He hopes
+“St. Peter may forgive my silence . . . and accept my later efforts as at
+least partial atonement” (1972, p. 446). There is no suggestion of how St.
+Peter should deal with Clark and Wicksteed, who conditioned the young
+mind against those efforts. To the very end Douglas calls Wicksteed “one
+of my favorites . . . from whom I had learned the coordination of the
+laws of production and distribution” (1972, p. 123). One could argue that
+the Cobb-Douglas production function, which came from Wicksteed
+(Douglas 1972, p. 46), helps condition even more minds, if not against,
+then away from those efforts. As used by Wicksteed and Douglas there
+GAFFNEY: Economic Thought on Taxation of Land Rents 175
+
+are just two factors of production, labor and capital. The enclosure
+movements, in which capital drives labor off the land and which actuated
+the radicalism of both Marx and George, cannot be fitted to any
+Cobb-Douglas function.
+
+Advocates for Special Industries or Conditions
+
+There are repeated proposals to exempt specific kinds of capital from
+taxes. In forestry, Ellis Williams (1974) renews the call for a tax based on
+site productivity. Fred R. Fairchild (1935) and many others have preced-
+ed Williams on this topic. The problem is that there has been no effort to
+calculate the equivalent rate necessary to compensate others whose
+capital remains taxable. In effect, these proposals involve preferential
+treatment for one industry.
+
+Ebenezer Howard (1965) has led generations of planners toward an
+ideal city financed solely from ground rents. However, Howard’s interest
+in taxes is incidental, and stops at the local level.
+
+Harold Hotelling (1938) is prominent for his marginal-cost pricing pro-
+posals. While Marshall and Pigou launched the same balloon in the
+abstract, Hotelling got right down to the case of regulated utilities, reviv-
+ing and crediting Jules Dupuit (1844). To meet the deficits of marginal-
+cost pricing with declining average costs, Marshall and Pigou suggested
+taxes on increasing-cost industries (with the sideshow of some confusion
+in defining increasing cost). Hotelling suggests meeting the deficit by
+taxes on income, inheritance, or land. Land is an even better tax base
+than increasing cost industries, says Hotelling, because there is some
+deadweight loss in taxing even them; the vertical supply curve of land,
+however, means there is no deadweight loss at all. As he warms to his
+subject, Hotelling gives the strong impression that the ideal tax base for
+meeting deficits is the land benefited by a utility or new bridge, and he
+therefore forgets the income and inheritance taxes.
+
+He recognizes that it is hard to measure benefits exactly from each pro-
+ject, but urges us to more “communal spending in ways beneficial to the
+public at large” — perhaps not realizing what a Pandora’s box he was
+opening! At any rate, this could be interpreted to mean that land taxes
+need not be limited to benefits demonstrably received from specific pro-
+jects.
+
+Hotelling’s seminal article is filled with insights on the nature of rents
+and costs and congestion. In spite of immediate and recurrent attacks by
+neo-Leibnitzians? such as Frisch and Little, Hotelling launched a whole
+
+2. Leibnitz is the original for Dr, Pangloss in Voltaire’s Candide, who counsels that
+reform is futile anywhere because the world is imperfect everywhere else, and all is inter-
+
+connected. It is hard to distinguish Leibnitz’ philosophy from “second-best” theories of
+welfare economics.
+176 LAND As A TAx BASE
+
+new field of utility economics and forward-looking marginal-cost pricing.
+
+Hotelling also contributes to defining the rent of exhaustible mines.
+However, here, as with his bridges, Hotelling never makes it crystal clear
+what all his assumptions and conclusions are, and in the end there are
+those nagging doubts over how far he is advising us to-carry the land tax
+policy.
+
+William Vickrey carries Hotelling’s ideas much further to the logical
+conclusion of a thoroughgoing general shift to the land value tax. base.
+To Vickrey, urban land rents are a reflection of all the economies of ur-
+ban scale. Efficiency requires that these land rents “be devoted primarily
+to financing the intramarginal residues” or deficits of marginal-cost pric-
+ing (1969, p. 19).
+
+The rent of mines, including oil and gas wells, is a topic of wide in-
+terest. Where forest economists have sought taxes on sites only as an inci-
+dent to preferential exemption of timber capital, other economists have
+seen mineral rents as a particularly good tax base, with only incidental, if
+any, mention of exempting capital. This biased treatment could be a
+reaction to the preferences achieved by mine owners de facto, and/or to
+widespread absentee ownership. Otherwise it is anomalous, because the
+rent of mines is harder to separate out, and easier to defend as socially
+functional, than other rents. One can blend mine rents with a return on
+discovery costs, call it a fund for replacement, and so on. We have seen
+Herfindahl (1974) taking this tack. Economists leaning the same way in-
+clude Henry Steele (1967), Paul Bradley (1977), and Stephen McDonald
+(1963, 1967, 1971). And yet, their differences from others are only those of
+emphasis, not of analytical technique or concept. All four of them ex-
+pound and use the concept of resource rent. McDonald has even praised
+a property tax on oil deposits (1966). It is a fascinating development in
+economic thought that “rent” has become the universal usage in mineral
+economics, where it is most vulnerable.
+
+A pioneer analyst of mine rents is Lewis C. Gray (1914), who also
+draws together and discusses the sparse earlier treatments in Marshall,
+Ricardo, B6hm-Bawerk, and Sorley. Gray divides mineral rents into two
+parts, a pure income and a depletion charge, the latter variously referred
+to by others as “user cost” and “royalty.” Gray insists that both are part
+of rent, which he defines as the surplus above social costs. Depletion, he
+says, is simply the present value of future rents foregone by present use,
+and therefore part of rent. He has in mind resources which are
+replaceable without high discovery costs. He does not fully face up to the
+problem of long run replacement; or he may simply be taking implicit
+note of the empirical fact that the bulk of replacement costs consist of
+payments made to other landowners.
+GaFENEY: Economic Thought on Taxation of Land Rents 177
+
+John Ise (1925) joins Gray’s inclination to socialize mineral rents, but
+is more conservation-minded. Ise favors policies to retard the rate of use,
+a position later reached by Gray as well. Ise is the intellectual idealist,
+appalled at the vulgar materialism of sovereign consumers, and not at all
+disturbed at making them learn the character-building discipline of
+waiting. This message, of course, would be ridiculed by Joe Hill, whose
+preacher tells the slave, “There’ll be pie in the sky in the sweet bye and
+bye,” and by John Keynes: “In the long run we are all dead.”
+
+Harold Hotelling (1931) supplies a classic mathematical model of mine
+rents, one rightly admired by modern modelers for its rigor, but with
+more than a touch of exclusionary esoteric obscurity. Hotelling tells us
+we must master the calculus of variations in order to understand deple-
+tion. One senses an element of pedantic ostentation, and we are grateful
+that he was not also vaunting Greek and Sanskrit. The basic reasoning
+and the findings are in fact much like Gray’s.
+
+Warren Roberts (1944, 1967) reinforces the emerging Gray-Hotelling
+model of resource rents. The presence of rent in mining is implied by
+sharply rising marginal costs, with average cost therefore well below
+price. Although Roberts is by trade a political scientist, he favors the
+economic model of defining rent, and the economic solution of taxing
+it. “. . . Other means, such as exchange control, tend to confuse issues
+and lead away from, rather than toward, optimum understanding”
+(1967, p. 215). “Accounting is not without political meaning. It educates
+and puts in gear the rationality of men. . . . The practical importance of
+the concept of rent lies in its near universal validity and in the ability of
+intellectuals to give it proximate definition.” (1967, pp. 207-8.)
+
+Mason Gaffney (1967) writes favorably of taxing mine rents, but not
+in a discriminatory way. To him, land rents of all kinds are the tax base
+of choice. As to mineral rents he treads more cautiously than Gray, see-
+ing a need to reward and finance replacement, in principle. Yet, in pursu-
+ing this principle he finds such a weight of institutional bias favoring
+excessive and premature discovery that he sees little need for current
+concern about adequacy of motivation. He seeks to devise a tax scheme
+which would motivate exploration optimally while raising revenues as
+well. He sees much potential rent dissipated in interest on premature ef-
+fort and emphasizes the benefits of an industry operating with leaner ad-
+vance reserves. Gaffney also sees rent taxation as a reform of extended
+economic and social consequences, with benefits to equity, competitive
+structure of industry, employment, efficiency, and social harmony.
+
+Absentee ownership of minerals gives a fillip to our subject where in-
+tellectuals find themselves in colonial settings. Canadian economists
+have responded in force. Lewis C. Gray originated as a Canadian. An-
+178 LAND AS A TAX BASE
+
+thony Scott (1976) assembles a number of them in his Natural Resource
+Revenues: A Test of Federalism. Contributors include Thomas J. Cour-
+chene, W. D. Gainer, John Helliwell, J. Clark Leith, Milton Moore, T.
+L. Powrie, Donald Smiley, and Irene Spry. Milton Moore writes, “I shall
+take as my first principle that economic rents belong to the
+community” (1976, p. 241). Only Paul Bradley, an American by origin,
+shows major doubts. But it is characteristic of this Canadian group that
+they focus solely on the rent of mines. There is no hint of extending the
+taxation of rents to the commercial land of Toronto, the political land of
+Ottawa, the docks of Montreal, or the fields of Manitoba.
+
+Another Canadian writing on mineral rents is Meyer Bucovetsky of
+Toronto (1972). Later, he joins with Malcolm Gillis of Harvard (1978).
+Their locations may demand more circumspection than the colonial
+spokesmen’s. They by no means dispute the case for taxing mineral rents,
+but look at it mainly from the taxpayer’s viewpoint.
+
+Economists are also giving great attention to collecting mineral rents
+from lessees on public lands. Few challenge the old practice of giving
+away water rights free, and hardly any have taken up Delworth
+Gardner’s (1962) evidence of a need for higher grazing fees. But
+economic writers and policy makers are vigorously pursuing the mineral
+rents. Even the “conservatives” in this field, such as Mead (1977), Soren-
+son (Mead and Sorenson 1980), McDonald (1979), and Kenneth Dam
+(1965), do not dispute the meaning of resource rent, or the public right to
+receive it. On the contrary, they proclaim it. They simply prefer leases to
+be written with low royalties, no intermeddling, and a high emphasis on
+the front-end bonus as the bid variable and allocating device. Others
+prefer leases with more deferred payments, and “participation.” These
+include Ross Garnaut and Anthony Clunies-Ross (1977), Michael Crom-
+melin (1977), Mason Gaffney (1977a, 1977b), Gregg Erickson (1977),
+Arlon Tussing (1977), and Robert Kalter and Wallace Tyner (1975).
+
+The subject of rent pervades and transcends all of economic life and
+policy, inescapably. (“They reckon ill who leave me out; when me they
+fly, I am the wings.”) Hundreds of economists recognize rent when
+capitalized into the value of taxi medallions and liquor licenses, of all
+things. It is a strange quirk that so many economists recognize and con-
+demn these as petty while resting so taciturn on the gross ones.
+
+The rent of water manifests another anomaly. Hardly anyone has
+responded to Gaffney’s call (1969a, 1973b) for public charges on reserving
+and withdrawing water, but legions have joined Allen Kneese’s (1962)
+effort to promote effluent charges for polluting water and air. But neither
+GaFENEY: Economic Thought on Taxation of Land Rents 179
+
+movement has made much headway compared to community collection
+of the rent of mines.
+
+There is an active literature on collecting rent from the radio spectrum,
+a valuable resource now allocated without any price going to the owners,
+viz. the public (Levin, 1971). As with all these “exotic” resources, there
+quickly emerge three camps. The first wants to collect rent publicly. The
+second dismisses distributive equity and focuses on firming up existing
+tenure rights. The social goal of this is to allow commercialization and
+easy transfer, leading to efficient allocation. The third camp is solely con-
+cerned with asserting the public right, regardless of efficiency. The
+beauty of taxing rent, of course, is to achieve and harmonize the (pro-
+fessed) goals of the second and third camps. It would have prevailed long
+since, were the second and third camps more aware and respectful of the
+validity and sustained power of each others’ half-share of truth.
+
+Mainly Positive
+
+Several economists have dedicated major efforts to promoting land
+taxation. I pass over the most dedicated advocates, Henry George and
+Harry G. Brown, because their positions are so well known, so total, and
+so easily referenced. Beyond these, it is often thought there is only an
+eccentric band of true believers. These eccentrics include, however,
+Léon Walras, John R. Commons, Colin Clark, Dick Netzer, William
+Vickrey, Lowell Harriss, Ralph Turvey, Frangois Quesnay and the
+physiocrats, John Zangerle and a large group of assessors, Knut
+Wicksell, and Adam Smith.
+
+The appearance of Léon Walras (1896) here may be a surprise to those
+who know him through Jaffe’s translation of selections that emphasize
+abstruse techniques. Walras is a thoroughgoing land taxer, who writes
+with the passion of a Gallic Henry George. A few passages give the
+flavor.
+
+“ ... In order that the total of personal faculties and their products
+should belong to the individual, the State must own the land and find in its
+rent the means to subsist and the source of capital it needs. The assign-
+ment of land to the State solves the question of taxation by erasing it”
+(1896, book II, section 8).
+
+“Lands do not belong to all the men of one generation; they belong to
+humanity, that is, to all generations of men” (1896, book II, section 6).
+(Rawlsians take note.)
+
+“In relieving the feudal aristocracy of its public duties, we neglected to
+take back the soil, the enjoyment of which constituted the compensation
+for these duties” (1896, book II, section 6).
+180 LAND AS A TAX BASE
+
+Walras regards himself as the carrier of the truths of Quesnay and
+Turgot, “and for this to have been excommunicated from the science by
+those who have led it to the point of sinking and discredit where it finds
+itself today” (1896, book II, section 9). He assails Bastiat, leader of the
+“Chicago School” of France. “One reaches the top by persuading himself
+that lands which sell at 2000 francs the square meter have no value”
+(1896, book III, section 36). Henry George never impugned the motives
+of courtier economists more bitterly than Walras.
+
+Walras devotes great care to a detailed plan of transition to land taxa-
+tion, beginning from earlier compensation proposals of James Mill and
+Hermann-Henri Gossen. Mill would compensate present holders at a
+price capitalized from current income (similar to modern “use-value”
+assessments), taking development and speculative value for the State.
+Gossen would compensate at a higher price discounted from future
+higher rents, relying on the State’s superior credit and lower capitaliza-
+tion rate to let the State amortize the debt from future rents, and even-
+tually own it clear.
+
+Walras rejects Gossen’s rationale, finding his mathematics imprecise,
+and observing (with Adam Smith) that the State’s discount rate must be
+higher than that of its creditors — who also can buy land. From here he
+becomes a bit vague, suggesting that when political economy has been
+rescued from its venal traducers, the State could carry out such a project
+and make it pay as successively higher industrial stages raise rents, aided
+by a State that guides social organization better, advised by honest and
+right-thinking economists. (Wicksteed expresses the same hope, from the
+other side!)
+
+Walras also treats the practical problem of separating land from
+capital (1896, book IV). He refutes the idea that farmland is so fused
+with fertilizers and “buried” improvements that land and capital are in-
+distinguishable — he treats the capital as a revolving fund, recovered in
+crop sales. He scores economists who “declare insoluble all questions
+which strike them as difficult.” Walras is fun to read. “God, according to
+them, in creating man said to him, ‘You will discover the compass, the
+railroad, the electric telegraph, constitutional government, but you will
+never discover a satisfactory tax.’ Strange malediction!” For Walras the
+land tax is not a tax but co-ownership of land by the State, and the
+perfect source of public revenue.
+
+John R. Commons (1922, 1934) is another devoted land taxer, more
+politically involved than most. The 1921 Grimstad Bill in Wisconsin em-
+bodies his proposals. Commons urges us to modify “ability to pay” as a
+canon of taxation. Social utility is also important; taxes are part of the
+police power. Even if not so intended, “taxes nevertheless regulate, . . .
+GAFENEY: Economic Thought on Taxation of Land Rents 181
+
+they say to the businessman: Here is profit; there is loss.” So taxes should
+vary directly with ability to pay, but inversely with service and contribu-
+tions to the common wealth. Landowners as such only take from the
+common wealth without returning anything. Land and its rent income
+should therefore pay at the highest rate.
+
+“Institutional doctrines” are utilitarian, looking to the future, disregard-
+ing the “dogma of natural rights.” Institutionalism says we should give
+“inducements to individuals to acquire wealth by increasing the com-
+monwealth.” It sounds as though Commons is arguing in favor of incen-
+tives and against excess burden, but he has his own way of putting things.
+
+Like Walras, Commons is absorbed in the question of soil conserva-
+tion, and equally involved in the institutional problem of winning farm
+votes. He proposes a rough-and-ready 50 percent exclusion of farm land
+values from the tax base, to allow for capital mixed with the soil — a pro-
+posal that overlooks entirely the differences among soils, which is the
+basis of Ricardo. This was really a political strategem. It mollified “the
+farmers,” he claims — but the Grimstad Bill fails.
+
+Commons writes with especial favor of “the American invention of
+Special Assessments”; Marshall much earlier wrote of their use in
+England, but Commons traces them to 1830 in New York. Unlike Hotell-
+ing, Commons likes the idea of limiting the assessment to the cost of the
+public works, and limiting public works to those thus financeable. But
+even more he prefers the limitation of these assessments to land values.
+He likes the common sense of early courts in seeing that public works
+enhance only land values, not capital values. The legal distinction be-
+tween taxes and assessments has a renewed life in post-Proposition 13
+California. Many lawyers believe that “assessments” for benefits to land
+fall outside the 1 percent limitations of Proposition 13; some one-fourth
+of all property revenues in California are from assessments of special
+districts (Zion 1979).
+
+Commons likes rules of reason rather than absolutes: “There is a
+diminishing validity of truth.” “A single truth, like a single tax, ends in its
+own destruction.” So he proposes to blend the two canons of taxing the
+ability to pay and untaxing the service to the community by a three-tier
+income tax rate: a low rate on wages, a medium rate on capital, and a
+highest rate on land income.
+
+Unlike most Georgians, Commons sees the Federal income tax as one
+tool for socializing rent. He would dispute Paul Douglas, who kept silent
+on land taxation as a senator because “the issue involved local and state
+governments, rather than national” (Douglas 1972, p. 446) and who
+lumped accelerated depreciation together with the depletion allowance
+and capital gains under the titles of “abuses” and the “citadel of
+182 LAND As A TAX BASE
+
+privilege” (1972, p. 452). Commons notes the L. H. Parker Committee
+(1931) is proposing higher rates on unearned income, but failing to
+distinguish land and capital. Commons proposes favoring capital by ac-
+celerated depreciation. That wish has come true, but not the rest of the
+package. He would not like today’s confiscatory rates on ordinary wage
+income, nor 60% exclusion for unearned increments.
+
+Commons ends by refuting Willford King’s (1921) attempt to fuse land
+and capital. It is the same issue we have met several times. King wrote
+from the individual view, and failed to see that “if our canon...be...
+that of the economic effects of speculation on the wealth of the nation,”
+then land income has no social function. Creating capital adds to the
+common wealth. Acquiring land is merely a zero-sum game, as we would
+say today, and worse than that if speculation and credit rationing in-
+terfere with economic allocation, as George alleged.
+
+Many assessors have become land taxers, or vice versa. We have
+already cited John Zangerle. Some others are Moody of San Diego, A.
+A. Pastoriza of Houston, Lawson Purdy of New York (1929), Percy
+Williams of Pittsburgh, W. W. Pollock (1926), William A. Somers of St.
+Paul, John Rackham of Washington, D.C., John McCutcheon of
+Johannesburg, J. F. N. Murray of Australia (1969), Ted Gwartney of
+British Columbia, and Hector Wilks and P. H. Clarke of England. Pur-
+dy, Pollock, Somers (1901), and Murray in particular wrote extensively
+on techniques of separate land valuation, fully understanding the
+necessity for demonstrating the practicability of this art.
+
+Francois Quesnay (ca. 1760, rpt. 1963), the founding physiocrat, royal
+physician to Louis XVI, and precursor of input-output analysis (the
+Tableau Economique) was of course a land taxer (possibly to save his pa-
+tient’s health?). He defines the produit net or rent of farm land as that
+which the state may tax without damage. In his zeal to discourage the
+taxation of capital, he doesn’t even allow that it receives net income, but
+only a recovery of principal, so any taxation will diminish the stock, and
+thus also reduce produit net. This is a primitive apprehension of excess
+burden. It is hard to be sure if Quesnay actually believes that capital has
+no income, and that only agriculture is productive; he may be overstating
+his case in a desperate effort to penetrate the slow wits who mismanaged
+France. His follower Pierre Samuel du Pont de Nemours, who later fled
+the Terror and helped his son Eleuthére Irénée found the powder mill in
+Delaware, believed the main idea was to keep the State from taxing
+capital. Perhaps that was du Pont’s main interest. In any case, Quesnay
+and Victor de Mirabeau framed a reasonable definition of land rent, and
+a rationale for taxing it. Some others of the school were Mercier de la
+Riviere and N. Baudeau. Its political spokesman was Baron A. R. J.
+Turgot.
+GaFENEY: Economic Thought on Taxation of Land Rents 183
+
+Knut Wicksell’s (1896) case for taxing land resembles Hotelling’s, only
+Wicksell begins more timidly and ends more boldly. He begins with the
+narrowest of benefit theories of taxation, the purpose being to put an
+upper limit on spending. All public spending should have a positive
+benefit/cost ratio at the margin; the proof of this is to be unanimous con-
+sent of those taxed (at least the theoretical possibility of unanimous con-
+sent) or nearly unanimous consent. Evidently, Wicksell is not thinking
+here of purely transfer taxation, but of public works and services.
+
+He deplores the use of hidden taxes, which yield such ample revenue
+that States spend it wastefully, without needing to ask how to fund each
+project.
+
+Then he turns moderate. His principle will let legislatures pass pro-
+posals that might otherwise fail because non-benefiting citizens will not
+be taxed, and so not oppose them. It sounds like “Public Choice” —
+and was indeed translated by J. M. Buchanan (Wicksell 1896).
+
+But next he seems like Hotelling. The simple pricing or fee principle
+will not do for public works, because marginal cost is far below average
+cost. He is much more specific than Hotelling, though, about how to
+meet deficits. The specific beneficiaries can pay, in fixed fees.
+
+Finally, he arrives at Henry George’s ideas. Everyone knows you never
+get unanimous consent from landholders to pay for public works — but
+Wicksell’s unanimity rule applies only to those who hold their wealth
+justly. Landholders are to have no veto. “I agree . . . wholeheartedly
+with the special taxation, or better confiscation. . . of . . . the increase in
+land value. . . .” Private rights to land are “. . . in open contradiction
+with modern concepts of law and equity . . . society has both the right
+and the duty to revise the existing property structure” (Wicksell 1896, p.
+7). So we have the benefit principle construed as a tax on land values, but
+with no suggestion that this tax be limited to benefits. There is a sugges-
+tion, but not much more, that it be limited to future increases. “The tax
+should be increased in steps to the point where the unearned windfall
+profits are in principle absorbed . . .”
+
+The tax should be levied currently — the Haig-Simons principle — and
+not as a transfer tax, which would “hinder the flow of commerce.” It
+should be levied not just on urban land or farmland, but all land.
+
+Last, Wicksell declares that private land rights be narrowly limited to
+those qualities of land contemplated by the original grantors; and future
+resources discovered or made valuable, such as mineral rights, should be
+reserved to the Crown. Think of all the natural goods that were “free” in
+1896, and even 1933, and precious today.
+
+Ralph Turvey’s (1957) analysis is characteristically terse, tight, and
+practical. He never actually says he favors land taxation, but only that
+the claims of the advocates are “in general correct.” He shows no interest
+184 LAND AS A TAX BASE
+
+in even bringing up the various doubts we have noted in other writers. He
+writes in the English context where rates fall on occupiers, not title
+holders, but he has no difficulty distinguishing impact from incidence.
+He emphasizes the stimulus to urban renewal and to improved quality of
+building, using simple diminishing returns concepts and marginal equa-
+tion of costs and receipts. Ever practical, he discusses liquidity effects.
+He notes the removal of excess burden and the resulting increase of tax-
+able surplus. This is physiocracy renewed, only this time for a nation of
+shopkeepers in the cities. His only reservation is a faint doubt about tax-
+ing ripening land on its capital value — the Ely idea — but he does not pur-
+sue this.
+
+Lowell Harriss (1968) also emphasizes the excess burden of taxing
+buildings. However, where Turvey posits diminishing returns as we add
+capital to land, Harriss, like Walter Morton, emphasizes decreasing unit
+costs per square foot as buildings get larger (he does not say what this
+does to lot size). Of course, this would redouble the excess burden of tax-
+ing buildings. Like Marx however, he may have failed to distinguish
+variable scale from variable proportions.
+
+Harriss meets part of Cannan’s argument for taxing buildings by
+noting that public costs are not in proportion to building values when we
+compare old and new ones. Costs are, if anything, inversely proportional
+to values. As for the distortion of locational incentives that disturbed
+Cannan, Harriss writes that taxing buildings leads industries to cluster in
+low-tax enclaves. The result is a centrifugal bias, a major cause of sprawl
+in American metropoles, and a self-reinforcing process that keeps getting
+worse.
+
+Harriss deplores the property tax on utility capital, using a muted
+Hotelling-Wicksell rationale, and ends by suggesting the replacement of
+all capital taxes with land taxes.
+
+Colin Clark (1965) repeats the now familiar idea about lack of excess
+burden of the land tax, in contrast to other taxes. Then he launches a
+simple and original scheme for preventing the distortion of locational in-
+centives caused by local taxation: “ . . . land values per head of popula-
+tion should first be ascertained; then the state would impose a land tax
+which exempted altogether those local authority areas where per-head
+land values were low, and which rose in a progressive scale for those with
+higher land values per head. Each local authority would then also impose
+its own tax. . ..” Gaffney (1973a, p. 33) has also written in a similar vein,
+and it seems sure that local exclusionary zoning will slowly strangle
+us if we fail to move along such lines.
+
+Dick Netzer (1966) systematically disposes of the various cases against
+land taxation surveyed in our “Mainly Negative” section above, save for
+Garrnev: Economic Thought on Taxation of Land Rents 185
+
+some residual doubts about adequacy of base; these doubts subsequently
+have been dropped. Netzer meets the Cannan argument by proposing to
+supplement the land tax, not with a building tax but with a “family of
+user charges” geared to marginal congestion costs, in the style of William
+Vickrey. He recognizes that this does not address the larger question of
+how to handle Marshall’s “onerous” taxes, for “services to people” — that
+is, transfers.
+
+Conclusion
+
+‘We end where so much economics begins, with Adam Smith (1776, rpt.
+1937). Smith likes land as a revenue base first because it is stable and per-
+manent. Few great nations or sovereigns, looking back, have subsisted
+without it — many by direct ownership of crown lands. Smith thinks that
+sovereigns do a dreadful job when they try to manage land directly; he
+advises them to sell it and tax it.
+
+Smith accuses the physiocrats (rightly or wrongly) of favoring a land
+tax that varies as a function of realized rather than potential rent. He
+points to the excess burden of such a tax, and the lack of burden in the
+fixed English land tax. Yet the English tax is out of date, so Smith pro-
+poses a regular reassessment of the rental value, exempting im-
+provements. Before a landlord’s improvement, Smith would assess his
+land and “rate him at this valuation for such a number of years as might
+be fully sufficient for his complete indemnification.” Data for updating
+values are to come from a public register of lease terms, a Venetian prac-
+tice. A “general survey and valuation” is also possible, but Smith thinks
+this to be painful; he prefers the Venetian method.
+
+Smith, like Ricardo, opposes “Tithes,” or any tax on gross output. But
+unlike Ricardo, he sees such taxes shifted to landowners, along with their
+excess burden (Ricardo saw them shifted forward). Smith does not need
+Marshall to teach him about supply and demand; he uses it as a tool.
+
+Smith believes housing to be a superior good and is not dead set
+against a tax on house rents. However, he says, “Ground rents are a still
+more proper subject of taxation than the rents of houses.” There is no
+shifting, no decline of supply. The owner is always a “monopolist” who
+charges what he can. (It is interesting how often critics like Stigler deride
+George for this classical usage, as though it were peculiarly his.)
+
+Place a tax on rent, and “no discouragement will thereby be given to
+any sort of industry. The annual produce . . . of the society... might be
+the same after such a tax as before. . . . Nothing can be more reasonable
+than that a fund which owes its existence to the good government of the
+state, should be taxed peculiarly . . .” (p. 796).
+186 LAND AS A TAX BASE
+
+If you tax stock (capital), on the other hand, it will be concealed or
+removed. Worse, some forms of capital are more concealable than
+others, so a tax is necessarily nonuniform. Knowing the quantity of
+capital requires a deep inquisition “as no people could support” (p. 800).
+How he would boggle at the inquisitions “supported” today — but capital
+is never uniformly taxed. Place a tax on stock, and “not only the profits
+of stock, but the rent of land and the wages of labor, would necessarily
+be diminished by its removal” (p. 800). The last thought epitomizes a fair
+share of both Georgian and Keynesian economics. May economics pro-
+gress faster in the next two hundred years than in the last, or at least stop
+retrogressing from the necessary and sufficient wisdom of the great
+Adam Smith.
+
+References
+
+Adams, T. S. 1916. “Tax Exemption Through Tax Capitalization—A Fiscal
+Fallacy.” American Economic Review 6: 271-87.
+
+Alonso, William. 1964. Location and Land Use: Toward a General Theory of
+Land Rent. Cambridge: Harvard Univ. Press.
+
+Andelson, Robert V., and Mason Gaffney. 1979. “Seligman and His Critique
+form Social Utility.” In Critics of Henry George, ed. Robert V. Andelson.
+Rutherford, N.J.: Fairleigh Dickinson Univ. Press.
+
+Anderson, B. M., Jr. 1914. “‘Unearned Increments,’ Land Taxes, and the Build-
+ing Trade.” Quarterly Journal of Economics 28: 811-14.
+
+Babcock, Frederick. 1932. The Valuation of Real Estate. New York: McGraw-
+Hill.
+
+Bahl, Roy W. 1968. “A Land Speculation Model: The Role of the Property Tax as
+a Constraint to Urban Sprawl.” Journal of Regional Science 8, no. 2: 199-208.
+
+Baker, John A. 1945. “Toward a Theory of Land Income.” Journal of Land and
+Public Utility Economics 21: 160-66.
+
+Berry, Albert. 1972. “Presumptive Income Tax on Agricultural Land.” National
+Tax Journal 25: 169-81.
+
+Bird, Richard M. 1960. “A National Tax on the Unimproved Value of Land: the
+Australian Experience, 1910-1952.” National Tax Journal 13: 386-92.
+
+Bird, Richard M. 1974. Taxing Agricultural Land in Developing Countries.
+Cambridge: Harvard Univ. Press.
+
+Bradley, Paul. 1977. “Some Issues in Mineral Leasing and Taxation Policy.” In
+Mineral Leasing as an Instrument of Public Policy, ed. Michael Crommelin
+and Andrew Thompson. Vancouver: Univ. of British Columbia Press.
+
+Bradley, Paul. 1976. “Governments and Mineral Resource Earnings.” In Natural
+Resource Revenues: A Test of Federalism, ed. Anthony Scott. Vancouver:
+Univ. of British Columbia Press.
+
+Bucovetsky, Meyer. 1972. “Tax Reform in Canada: The Case of the Mining
+Industry.” Ph.D. diss. Univ. of Toronto.
+
+Bye, Carl R. 1940. Developments and Issues in the Theory of Rent. New York:
+Columbia Univ. Press.
+GAFENEY: Economic Thought on Taxation of Land Rents 187
+
+Cannan, Edwin. 1907. “The Proposed Relief of Buildings from Local Rates.”
+Economic Journal 17: 36-46.
+
+Carey, Henry C. 1840. Principles of Political Economy. Philadelphia: Carey, Lea
+& Blanchard.
+
+Carver, Thomas N. 1915. Essays in Social Justice. Cambridge: Harvard Univ.
+Press.
+
+Clark, Colin. 1965. “Land Taxation: Lessons from International Experience.”
+In Land Values, ed. Peter Hall. London: Sweet and Maxwell.
+
+Clark, J. B. 1883. Capital and Its Earnings. Publications of the American
+Economic Association, vol. 3, no. 2: 1-61. See the discussion with E. v.
+Bohm-Bawerk, Quarterly Journal of Economics 1895-96, vols. 9, 10.
+
+Clark, J. B. 1899. The Distribution of Wealth. New York: Macmillan,
+
+Collier, Charles. 1979, “Clark and Patten: Exemplars of the New American
+Professionalism.” In Critics of Henry George, ed. Robert Andelson. Ruther-
+ford, N.J.: Fairleigh-Dickinson Univ. Press.
+
+Commons, John R. 1922. “A Progressive Tax on Bare Land Value.” Political
+Science Quarterly 37: 41-68.
+
+Commons, John R. 1934. Institutional Economics: Its Place in Political
+Economy. New York: Macmillan.
+
+Cornick, Philip H. 1934. “Land Prices in a Commodity Price System.” Journal of
+Land and Public Utility Economics 10: 217-31.
+
+Crommelin, Michael. 1977, “Concluding Note: Economic Rent and Government
+Objectives.” In Mineral Leasing as an Instrument of Public Policy, eds.
+Michael Crommelin and Andrew Thompson. Vancouver: Univ. of British Col-
+umbia Press.
+
+Dam, Kenneth, 1965. “Oil and Gas Licensing in the North Sea.” Journal of Law
+and Economics 8: 51-75.
+
+Dam, Kenneth. 1970. “Pricing of North Sea Gas in Britain.” Journal of Law and
+Economics 13: 11-44,
+
+Darwin, Leonard. 1907. “The Taxation of Site Values with Reference to the Dis-
+tribution of Population.” Economic Journal 17: 330-44.
+
+Davenport, H. J. 1909. “Exhausted Farms and Exhausting Taxation.” Journal of
+Political Economy 17: 354-62.
+
+Davenport, H. J. 1917. “Theoretical Issues in the Single Tax.” American Eco-
+nomic Review 7: 1-30.
+
+Dorau, Herbert, and Albert Hinman. 1928. Urban Land Economics. New York:
+Macmillan.
+
+Dorner, Peter. 1972. Land Reform and Economic Development, Harmonds-
+worth: Penguin Books.
+
+Douglas, Paul. 1972. In the Fullness of Time. New York: Harcourt Brace
+Jovanovich.
+
+Douglas, Paul. 1968. “Supplementary Views on the Taxation of Land Values.”
+In Building the American City. Report of the National Commission on Urban
+Probiems. Washington, D.C.: United States Government Printing Office.
+188 LAND AS A TAX BASE
+
+Due, John. 1963. Taxation and Economic Development in Tropical Africa.
+Cambridge: The Massachussetts Institute of Technology Press.
+
+Edgeworth, Francis Y. 1906. “Recent Schemes for Rating Urban Land Values.”
+Economic Journal \6: 66-77.
+
+Ely, R. T. 1920. “Land Speculation.” Journal of Farm Economics 2: 121-36.
+
+Ely, R. T. 1922. “The Taxation of Land.” In Proceedings of the 14th Annual Con-
+Jerence of the NTA, 241-54. Harrisburg, Pa.: National Tax Association.
+
+Erickson, Gregg. 1977. “Work Commitment Bidding.” In Mineral Leasing as an
+Instrument of Public Policy, eds. Michael Crommelin and Andrew Thomp-
+son. Vancouver: Univ. of British Columbia Press.
+
+Fairchild, Fred R., et al. 1935. Forest Taxation in the United States. United States
+Department of Agriculture, Miscellaneous Publication 218. Washington: The
+department.
+
+Faustmann, Martin. 1849. Reprint 1968. “Calculation of the Value which Forest
+Land and Immature Stands Possess for Forestry.” In Martin Faustmann and
+the Evolution of Discounted Cash Flow, ed. M. Gane, trans. W. Linnard. Ox-
+ford: Commonwealth Forestry Institute: The University.
+
+Fetter, Frank A. 1927. Reprint 1977. Capital, Interest, and Rent. Kansas City:
+Sheed Andrews & McMeel.
+
+Fillebrown, C. B. 1907. “The Single Tax.” National Tax Association Bulletin,
+
+_ Vol. 1, pp. 286-93.
+
+Fillebrown, C. B. 1910. “The Taxation of Privilege.” The Outlook 94:311-13.
+
+Fillebrown, C. B. 1914. Taxation. Chicago: A.C. McClurg.
+
+Fillebrown, C. B. 1916. The ABC of Taxation. 4th ed. Garden City, N.Y.:
+Doubleday, Page, & Co.
+
+Frisch, Ragnar. 1939. “The duPuit Taxation Theorem.” Econometrica 7:145-50.
+
+Gaffney, Mason. 1967. “Editor’s Conclusion.” In Extractive Resources and
+Taxation, ed. Mason Gaffney. Madison: Univ. of Wisconsin Press.
+
+Gaffney, Mason. 1969a. “Economic Aspects of Water Resources Policy.” Ameri-
+
+can Journal of Economics and Sociology 28:131-44.
+
+Gaffney, Mason. 1969b. “Land Rent, Taxation, and Public Policy.” Papers of the
+Regional Science Association 23: 141-53.
+
+Gaffney, Mason. i970. “Adequacy of Land as a Tax Base.” In The Assessment of
+Land Value, ed. Daniel Holland. Madison: Univ. of Wisconsin Press.
+
+Gaffney, Mason. 1971. “The Property Tax is a Progressive Tax.” In Proceedings
+of the National Tax Association, 1971. Columbus, Ohio: The association.
+
+Gaffney, Mason. 1973a. “A Critique of Federal Water Policy.” In The Political
+Economy of Federal Policy, eds. Robert Hamrin and Robert Haveman. New
+York: Harper & Row.
+
+Gaffney, Mason. 1973b. “Tax Reform to Release Land.” In Modernizing Urban
+Land Policy, ed. Marion Clawson. Baltimore: Johns Hopkins Univ. Press.
+Gaffney, Mason. 1977a. “Objectives of Government Policy in Leasing Mineral
+
+Lands.” In Mineral Leasing as an Instrument of Public Policy, ed. Michael
+
+Crommelin and Andrew Thompson. Vancouver: Univ. of British Columbia
+Press.
+GaFFNneEy: Economic Thought on Taxation of Land Rents 189
+
+Gaffney, Mason. 1977b. “Oil and Gas Leasing Policy: Alternatives for Alaska.”
+A Report to the State of Alaska, Department of Natural Resources.
+
+Gaffney, Mason. 1979. “Review and Recollection Related to Resource Economics:
+Selected Works of Orris C. Herfindahl.” Natural Resources Journal October:
+1006-1010.
+
+Gardner, Delworth. 1962. “Transfer Restrictions and Misallocation in Grazing
+Public Range.” Journal of Farm Economics 44: 50-63.
+
+Garnaut, Ross, and Anthony Clunies-Ross. 1977. “A New Tax for National
+Resources Projects.” In Mineral Leasing as an Instrument of Public Policy,
+ed. Michael Crommelin and Andrew Thompson. Vancouver: Univ. of British
+Columbia Press.
+
+Gillis, Malcolm, et al. 1978. Taxation and Mining. Cambridge, Mass.: Ballinger.
+
+Goode, Richard. 1964. “Reconstruction of Foreign Tax Systems.” Readings on
+Taxation in Developing Countries, ed. Richard Bird and O. Oldman.
+Baltimore: Johns Hopkins Univ. Press.
+
+Gillis, Malcolm, et. al. 1978. Taxation and Mining. Cambridge, Mass.: Ballinger.
+
+Goode, Richard. 1964. “Reconstruction of Foreign Tax Systems.” Readings on
+Taxation in Developing Countries, eds. Richard Bird and O. Oldman.
+Baltimore: Johns Hopkins Univ. Press.
+
+Gray, Lewis C. 1914. “Rent under the Assumption of Exhaustibility.” Quarterly
+Journal of Economics 28: 464-89.
+
+Grimes, Orville, Jr. 1977. “Urban Land and Public Policy: Social Appropriation
+of Betterment.” In Local Service Pricing Policies, etc. ed. Paul Downing.
+Vancouver: Univ. of British Columbia Press.
+
+Groves, Harold. 1948. “The Property Tax in Canada and the United States.”
+Land Economics 24: 23-30; 120-28.
+
+Groves, Harold. 1949. “Impressions of Property Taxation in Australia and New
+Zealand.” Land Economics 25: 22-28.
+
+Hagman, Donald. 1978. “Land Value Taxation.” In Windfalls for Wipeouts, ed.
+Donald Hagman and Dean Misczynski. Chicago: Planners Press.
+
+Haig, Robert M. 1915a. The Exemption of Improvements from Taxation in
+Canada and the United States. New York: The Committee on Taxation.
+
+Haig, Robert M. 1915b. “The Effects of Increment Taxes upon Building
+Operations.” Quarterly Journal of Economics 29: 829-40.
+
+Haig, Robert M. 1915c. Some Probable Effects of the Exemption of Improve-
+ments from Taxation in the City af New York. New York: Press of Clarence
+Nathan.
+
+Hall, Peter, ed. 1965. Land Values. London: Sweet and Maxwell.
+
+Hardie, Robert S. 1952. “Philippine Land Tenure Reform.” Special technical and
+economic mission, U.S. Mutual Security Agency, Manila. Lithographed and
+bound.
+
+Harriss, Lowell. 1968. “Economic Evaluation of Real Property Taxes.” In
+Municipal Income Taxes, ed. R. H. Connery. New York: Academy of Political
+Science.
+
+Hayek, Friedrich. 1936. “The Mythology of Capital.” Quarterly Journal of
+Economics 50: 199-228.
+
+Hayek, Friedrich. 1941. The Pure Theory of Capital. London: Macmillan.
+
+Hayes, H. Gordon. 1920. “The Capitalization of the Land Tax.” Quarterly Jour-
+nal of Economics 34: 373-80.
+190 LAND AS A TAX BASE
+
+Heilbrun, J. 1966. Real Estate Taxes and Urban Housing. New York: Columbia
+Univ. Press.
+
+Heller, Walter W. 1954. “The Use of Agricultural Taxation for Incentive Pur-
+poses.” In Papers and Proceedings of the Conference on Agricultural Taxation
+and Economic Development, ed. Haskell Wald and Joseph Froomkin. Cam-
+bridge, Mass.: Harvard Law School.
+
+Herfindahl, Orris. 1974. Resource Economics: Selected Works of Oris C. Her-
+findahl, ed. David Brooks. Baltimore: Johns Hopkins Univ. Press.
+
+Hibbard, Benjamin H. 1930. “A National Policy to Conserve Land Values.”
+Annals of the American Academy of Political and Social Science 148: 115-19.
+
+Hirschman, Albert. 1964. “Land Taxes and Land Reform in Colombia.” In
+Readings on Taxation in Developing Countries, ed. Richard Bird and Oliver
+Oldman. Baltimore: Johns Hopkins Univ. Press.
+
+Hobson, J. A. 1920. Taxation in the New State. New York: Harcourt Brace and
+Howe.
+
+Hobson, J. A. 1931. Poverty in Plenty: The Ethics of Income. New York:
+Macmillan.
+
+Holland, Daniel. 1969. “A Study of Land Taxation in Jamaica.” In Land and
+Building Taxes: Their Effect on Economic Development, ed. Arthur P.
+Becker. Madison: Univ. of Wisconsin Press.
+
+Hotelling, Harold. 1931. “The Economics of Exhaustible Resources.” Journal of
+Political Economy 39: 137-75.
+
+Hotelling, Harold. 1938. “The General Welfare in Relation to the Problems of
+Taxation and of Railway and Utility Rates.” Econometrica 6: 242-69.
+
+Howard, Ebenezer. 1965. The Garden City of Tomorrow. Cambridge: The
+Massachusetts Institute of Technology Press.
+
+Hoyt, Homer. 1933. One Hundred Years of Land Values in Chicago. Chicago:
+Univ. of Chicago Press.
+
+Hoyt, Homer. 1939. The Structure and Growth of Residential Neighborhoods in
+American Cities. Washington: Federal Housing Authority.
+
+Hutchison. T. W. 1969. “Economists and Economic Policy in Britain after 1870.”
+History of Political Economy 1: 231-55.
+
+Ise, John. 1925. “The Theory of Value as Applied to Natural Resources.”
+American Economic Review 15: 28-91.
+
+Jensen, Jens P. 1931. Property Taxation in the United States. Chicago: Univ. of
+Chicago Press.
+
+Johnson, Alvin. 1902. Rent in Modern Economic Theory. AEA Publications.
+Third Series 3, no. 4.
+
+Johnson, Alvin. 1914, “The Case Against the Single Tax.” The Atlantic Monthly
+113: 27-37.
+
+Johnson, Erwin. 1970, “Land Tax and Its Impact on Use and Ownership in Rural
+Japan.” Economic Development and Cultural Change. 19: 49-70.
+
+Kalter, Robert; Wallace Tyner; and Daniel Hughes. 1975. “Alternative Energy
+Leasing Strategies and Schedules for the Outer Continental Shelf.” Depart-
+ment of Agricultural Economics, Cornell University.
+
+Keiper, Joseph, Ernest Kurnow, et al. 1961. Theory and Measurement of Rent.
+Philadelphia: Chilton.
+GaFFney: Economic Thought on Taxation of Land Rents 191
+
+King, Willford I. 1921. “Earned and Unearned Income.” Annals of the American
+Academy of Political and Social Science: 240-60.
+
+King, Willford I. 1924. “The Single-Tax Complex Analyzed.” Journal of Political
+Economy 32: 604-12.
+
+Kneese, Allen. 1962. Water Pollution. Baltimore: Johns Hopkins Univ. Press.
+
+Knight, Frank. 1924. Reprint 1952. “Some Fallacies in the Interpretation of Social
+Cost.” In Readings in Price Theory, ed. G. Stigler and K. Boulding. Chicago:
+R. D. Irwin.
+
+Knight, Frank. 1946. “Capital and Interest.” Encyclopedia Brittanica 4: 779-801.
+
+Knight, Frank. 1953. “The Fallacies in the ‘Single Tax.’ ” The Freeman, 809-11.
+
+Kurnow, Ernest. 1960. “Land Value Trends in the United States.” Land
+Economics 36: 341-48.
+
+Kurnow, Ernest. 1961. “Distribution and Growth of Land Values.” In Theory
+and Measurement of Rent, Joseph Keiper, et al. Philadelphia: Chilton.
+
+Lawrence, Elwood. 1957. Henry George in the British Isles. East Lansing:
+Michigan State Univ. Press.
+
+Lent, George E. 1967. “The Taxation of Land Value.” /.M.F. Staff Papers 14, no.
+1: 89-123.
+
+Levin, Harvey. 1971. The Invisible Resource. Baltimore: Johns Hopkins Univ.
+Press.
+
+Lindholm, Richard. 1964. Economic Development Policy. Eugene: Univ. of
+Oregon Press.
+
+Lindholm, Richard. 1965. “Land Taxation and Economic Development.” Land
+Economics 41: 121-30.
+
+Little, I. M. D. 1950. Reprint 1960. A Critique of Welfare Economics. London:
+Oxford Univ. Press.
+
+Marling, Alfred E., chairman. 1916. Final Report of the Committee on Taxation
+of the City of New York. New York: The O'Connell Press.
+
+Marshall, Alfred. 1883. Reprint 1969. “Three Lectures on Progress and Poverty.”
+Journal of Law and Economics 12: 181-226.
+
+Marshall, Alfred. 1920. Reprint 1947. Principles of Economics. 8th ed. London:
+Macmillan.
+
+Marx, Karl. 1847. The Poverty of Philosophy. New York: International
+Publishers.
+
+Marx, Karl. 1867. Reprint 1906. Capital, trans. Samuel Moore and Edward
+Aveling. Chicago: Charles H. Kerr.
+
+Marx, Karl, and Friedrich Engels. 1848. Reprint 1959. “Manifesto of the Com-
+munist Party.” In Marx and Engels, ed. Lewis Feuer. Garden City, N.Y., trans
+Samuel Moore: Doubleday.
+
+McCulloch, John. 1979. “Site Value Rating in Johannesburg, South Africa.” In
+The Taxation of Urban Property in Less Developed Countries, ed. Roy W.
+Bahl. Madison: Univ. of Wisconsin Press.
+
+McDonald, Stephen. 1963. Federal Tax Treatment of Income from Oil and Gas.
+Washington, D.C.: The Brookings Institution.
+
+McDonald, Stephen. 1966. “The Effects of Severance vs. Property Taxes on
+Petroleum Conservation.” In Proceedings of the National Tax Association,
+1965. Columbus, Ohio: The association.
+192 LAND AS A TAX BASE
+
+McDonald, Stephen. 1967; “Percentage Depletion, Expensing of Intangibles, and
+Petroleum Conservation.” In Extractive Resources and Taxation, ed. Mason
+Gaffney. Madison: Univ. of Wisconsin Press.
+
+McDonaid, Stephen. 1979. The Leasing of Federal Lands for Fossil Fuel Pro-
+duction. Baltimore: Johns Hopkins Univ. Press.
+
+Mead, Walter. 1977. “Cash Bonus Bidding for Mineral Resources.” In Mineral
+Leasing as an Instrument of Public Policy, ed. Michael Crommelin and An-
+drew Thompson. Vancouver: Univ. of British Columbia Press.
+
+Mead, Walter, and Philip E. Sorenson. 1980. “Competition and Performance in
+OCS Oil and Gas Lease Sales and Lease Development, 1954-69.” Final report,
+USGS contract no. 14-08-0001-16552.
+
+Mieszkowski, Peter. 1970. “A Critical Appraisal of Land Value Taxation.”
+Draft, pp. 1-37.
+
+Mill, John S. 1872. Principles of Political Economy. People’s ed. Boston: Lee and
+Shepard.
+
+Moore, Milton. 1976. “The Concept of a Nation and Entitlements to Economic
+Rents.” In Natural Resource Revenues: A Test of Federalism, ed. Anthony
+Scott. Vancouver: Univ. of British Columbia Press.
+
+Murray, J. F. N. 1969. Principles and Practice of Valuation. 4th ed. Sydney:
+Commonwealth Institute of Valuers.
+
+Musgrave, Richard. 1950. “A Graduated Land Tax.” In The Basis of a Develop-
+ment Program for Colombia, pp. 384-87. Washington, D.C.: The Interna-
+tional Bank for Reconstruction and Development.
+
+Netzer, Dick. 1966. Economics of the Property Tax. Washington, D.C.: The
+Brookings Institution.
+
+Olcott, George C. 1910-1979. Land Values Blue Book of Chicago and Suburbs.
+Chicago: G.C. Olcott. Annual Volumes.
+
+Pareto, Vilfredo. 1897. Cours d’Economie Politique. Lausanne: Libraririe de
+PUniversitie, vol. 2.
+
+Park, R. E., and Burgess, E. W. 1925. The City. Chicago: Univ. of Chicago Press.
+
+Parker, L. H. 1931. Preliminary Report on Earned Incomes. Report of the Joint
+Committee (on Internal Revenue and Taxation) to the Committee on Ways
+and Means of the House of Representatives.
+
+Patten, Simon. 1908. “The Conflict Theory of Distribution.” Yale Review, 17:
+156-84.
+
+Pigou, A. C. 1949. A Study in Public Finance. 3d rev. ed. London: Macmillan.
+
+Pilack, Edward. 1915. “Reduction of Tax on-Buildings in the City of New York.”
+Annals of the American Academy of Political and Social Science 58: 183-88.
+
+Pollock, Walter William, and Karl W. H. Scholz. 1926. The Science and Practice
+of Urban Land Valuation: An Exposition of the Somers Unit System.
+Philadelphia: Manufacturer’s Appraisal Co.
+
+Purdy Lawson. 1929.. The Assessment of Real Estate. 4th ed. New York:
+National Municipal League.
+
+Quesnay, Francois. ca. 1760. Reprint 1963. Various works. In The Economics of
+Physiocracy, trans. R. Meek. Cambridge, Mass.: Harvard Univ. Press.
+GaFFNEY: Economic Thought on Taxation of Land Rents 193
+
+Ratcliff, Richard. 1950. “Net Income Can’t Be Split.” Appraisal Journal 18:
+168-72.
+
+Rhoads, William, and Richard Bird. 1969. “The Valorization Tax in Colombia.”
+In Land and Building Taxes: Their Effect on Economic Development, ed.
+Arthur P. Becker. Madison: Univ. of Wisconsin Press.
+
+Ricardo, David. 1817. Principles of Political Economy and Taxation. London: J.
+Murray.
+
+Roberts, Warren. 1944. State Taxation of Metallic Deposits. Cambridge, Mass.:
+Harvard Univ. Press.
+
+Roberts, Warren. 1967. “Mine Taxation in Developing Countries.” In Extractive
+Resources and Taxation, ed, Mason Gaffney. Madison: Univ. of Wisconsin
+Press.
+
+Robinson, Joan. 1933. The Economics of Imperfect Competition. London:
+Macmillan.
+
+Rolph, Earl. 1954. Theory of Fiscal Economics. Berkeley: Univ. of California
+Press.
+
+Rose, Louis A. 1971. “Taxation of Land Value Increments Attributable to Rezon-
+ing.” Honolulu: Economic Research Center, 1-61.
+
+Russell, Bertrand. 1945. Reprint 1967. History of Western Philosophy. London:
+G. Allen and Unwin.
+
+Schultz, Theodore. 1953. The Economic Organization of Agriculture. New
+York: McGraw-Hill.
+
+Scott, Anthony. 1967. “The Theory of the Mine under Conditions of Certainty.”
+In Extractive Resources and Taxation, ed. Mason Gaffney. Madison: Univ. of
+Wisconsin Press.
+
+Scott, Anthony. 1976. “Who Should Get Natural Resource Revenues?” In
+Natural Resource Revenues: A Test of Federalism, ed. Anthony Scott. Van-
+couver: Univ. of British Columbia Press.
+
+Seligman, E. R. A. 1895. Reprint 1923. Essays in Taxation. New York: Macmillan.
+
+Seligman, E. R. A. 1916. “Tax Exemption Through Tax Capitalization: a Reply.”
+American Economic Review 6, 790-807.
+
+Shannon, H. L., and H. M. Bodfish. 1929. “Increments in Land Values in
+Chicago.” Journal of Land and Public Utility Economics 5: 29-47.
+
+Shoup, Carl. 1940. “Capitalization and Shifting of the Property Tax.” Property
+Taxes. Symposium conducted by the Tax Policy League. New York: The
+League.
+
+Shoup, Donald C. 1969. “Advance Land Acquisition by Local Governments.”
+Yale Economic Essays 9, no. 2: 147-202.
+
+Shoup, Donald C. 1970. “Optimal Timing of Urban Land Development.” Papers
+of the Regional Science Association 25: 37-39.
+
+Simon, Herbert. 1943. “Incidence of a Tax on Urban Real Property. ” Quarterly
+Journal of Economics 57: 398-420.
+
+Simpson, Herbert D. 1933. “Real Estate Speculation and the Depression.” Pro-
+ceedings of AEA 23 (supplement): 163-71.
+194 LAND AS A TAX BASE
+
+Simpson, Herbert D., and E. R. Burton. 1931. The Valuation of Vacant Land in
+Suburban Areas. Evanston: Northwestern Univ. Press.
+
+Skouras, A. 1977. Land and Its Taxation in Recent Economic Theory. Athens,
+Greece: Papazissis.
+
+Smith, Adam. 1776. Reprint 1937, The Wealth of Nations, 5th ed. New York:
+Modern Library.
+
+Smith, Rogers. 1979. “The Effects of Land Taxes on Development Timing and
+Rates of Change in Land Prices.” In The Taxation of Urban Property in Less
+Developed Countries, ed. Roy W. Bahl. Madison: Univ. of Wisconsin Press.
+
+Somers, William A. 1901. The Valuation of Real Estate for the Purpose of
+Taxation. St. Paul, Minn.: Rich and Clymer.
+
+Spahr, Charles B. 1891. “The Single Tax.” Political Science Quarterly 6: 625-34.
+
+Steele, Henry. 1967. “Natural Resource Taxation: Resource Allocation and Dis-
+tribution Implications.” In Extractive Resources and Taxation, ed. Mason
+Gaffney. Madison: Univ. of Wisconsin Press.
+
+Stigler, George. 1941. Production and Distribution Theories. New York: Mac-
+millan.
+
+Stigler, George. 1947. The Theory of Price. New York: Macmillan.
+
+Stockfisch, J. A. 1956. “Capitalization, Allocation and Investment Effects of
+Asset Taxation.” Southern Economic Journal 22: 317-29.
+
+Stockfisch, J. A. 1957. “Investment Incentive, Taxation, and Accelerated
+Depreciation.” Southern Economic Journal 24: 28-40.
+
+Strasma, John. 1969. “Property Taxation in Chile.” In Land and Building Taxes,
+ed, Arthur Becker. Univ. of Wisconsin Press.
+
+Taylor, Milton, et al. 1965. Fiscal Survey of Colombia. Baltimore: Johns Hop-
+kins Univ. Press.
+
+Turvey, Ralph. 1957. The Economics of Real Property. London: George Allen
+and Unwin.
+
+Tussing, Arlon. 1977. “The Role of Public Enterprise.” In Mineral Leasing as an
+Instrument of Public Policy, ed. Michael Crommelin and Andrew Thompson.
+Vancouver: Univ. of British Columbia Press.
+
+Vickrey, William. 1969. “External Economies in Urban Development.”
+Proceedings of The American Real Estate and Urban Economics Association,
+ed. Stephen Messner.
+
+Wald, Haskell. 1959. Taxation of Agricultural Land in Underdeveloped
+Economies. Cambridge: Harvard Univ. Press.
+
+Walker, Francis A. 1883a. Reprint 1898. Letters to’ Frank Leslie’s Illustrated
+Newspaper. In George, Henry. Social Problems. New York: Doubleday and
+McClure.
+
+Walker, Francis A. 1883b. Land and Its Rent. London: Macmillan.
+
+Walker, Francis A. 1888. Political Economy. 3d ed. New York: H. Holt.
+
+Walras, Léon. 1896. Studies in Social Economics. Lausanne: F. Rouge and Co.,
+Inc. Unpublished trans. M. Gaffney, 1967.
+
+Wicksell, Knut. 1896. “A New Principle of Just Taxation,” trans. J. M.
+Buchanan. In Classics in the Theory of Public Finance, ed. R. A. Musgrave
+and A. T. Peacock. New York: Macmillan, 1958.
+GaFENEY: Economic Thought on Taxation of Land Renis 195
+
+Wicksteed, Philip. 1914. “The Scope and Method of Political Economy.”
+Economic Journal 24: 1-23.
+
+Wieser, F. F. von. 1909. Reprint 1960. “The Theory of Urban Ground Rent.” In
+Essays in European Economic Thought, ed. L. Sommer, New York: Van
+Nostrand.
+
+Williams, Ellis. 1974. “Site Value Taxation.” National Tax Journal 27: 29-44.
+
+Zangerle, John A. 1927. Principles of Real Estate Appraisal. 2d ed. Stanley
+McMichael Publishing Organization.
+
+Zion, William. 1979. “Special Districts: A Special Tax Limitation Problem.” The
+Urban Interest Spring: 75-80.

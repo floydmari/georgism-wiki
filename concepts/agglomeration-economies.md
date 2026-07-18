@@ -67,6 +67,7 @@ However, as Duranton and Puga's model makes clear, the binding constraint on eff
 ## See Also
 
 - [Gaffney (1978): The Synergistic City](/wiki/gaffney-synergistic-city/) — Gaffney's Georgist precursor to agglomeration economics, arguing urban synergy surplus is captured as land rent rather than wages
+- [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — Gaffney's earlier, fuller statement of "synergism" as one of three sources of urban rent, and (in its companion taxation essay) an informal pre-Stiglitz statement of the capitalization mechanism this page's Kanemoto et al. section connects to the Henry George Theorem
 - [Optimal City Size](/wiki/optimal-city-size/)
 - [Henry George Theorem](/wiki/henry-george-theorem/)
 - [Spatial Misallocation](/wiki/spatial-misallocation/)

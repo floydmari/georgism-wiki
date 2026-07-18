@@ -4,12 +4,12 @@ challenged_by:
 - sachs-warner-resource-curse
 claim_type: benefit
 evidence_strength: "Strong for the flagship case (Norway), conditional in general — capture works where fiscal design and institutions are strong; the resource curse is real where they are weak"
+last_reviewed: 2026-07-18
 excerpt: 'High-rate capture of natural-resource rent is workable and durable: Norway
   taxes petroleum at a 78% marginal rate on a cash-flow basis, has banked over $2
   trillion in the world''s largest sovereign wealth fund, and spends only ~3% a year
   — the textbook escape from the resource curse. But the escape is institutional,
   not automatic; where institutions are weak, resource rents are still a curse.'
-last_reviewed: 2026-07-13
 stub: false
 supported_by:
 - resource-rents
@@ -21,6 +21,13 @@ supported_by:
 - hartwick-rule
 - mintz-chen-capturing-resource-rents
 - baunsgaard-vernon-windfall-profits
+- gaffney-california-severance-tax
+- gaffney-alaska-oil-leasing
+- gaffney-forest-taxation
+- gaffney-montana-land-policy
+- gaffney-extractive-resources-taxation
+- gaffney-mineral-leasing-tax-reform
+- gaffney-water-rent-taxation
 tags:
 - outcomes
 - resource-rents
@@ -32,7 +39,7 @@ title: Capturing resource rent works — where institutions are strong
 ---
 
 > **At a glance** — Capturing a finite resource's rent at a high rate works in practice where fiscal design and institutions are strong — Norway is the flagship — while the resource curse remains real where they are weak.
-> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **9 supporting** sources · **0 challenging**
+> **Evidence:** Strong for the flagship case (Norway), conditional in general: capture works where fiscal design and institutions are strong; the resource curse is real where they are weak · **13 supporting** sources · **0 challenging**
 > **Strongest support:** [Lie (2018)](/wiki/lie-norwegian-oil-fund/) — Norway's ~78% petroleum rent capture built a sovereign fund now worth over $2 trillion without deterring extraction. **Strongest counter:** the resource-curse literature (Sachs & Warner 1995/2001) — resource-rich economies grow more slowly *on average*, and [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) shows rent windfalls eroding local tax effort and accountability; capture works where institutions are strong and curses where they are weak. See Why It Isn't Automatic.
 
 ## The Claim
@@ -98,6 +105,132 @@ was in growth and public finance, not across the board — the same paper flags 
 HIV/AIDS prevalence of "perhaps 25%–30% of adults" as "a serious public policy
 failure.")
 
+## Design Before the Windfall — Alaska, 1977
+
+Norway and Botswana show capture-oriented institutions already in place when the
+resource wealth arrived; **Alaska shows the design work happening in real time**, at
+the founding moment. Three months after voters approved the constitutional
+amendment creating the **[Alaska Permanent Fund](/wiki/alaska-permanent-fund/)**
+(November 1976) — and five years before the first [Permanent Fund
+Dividend](/wiki/resource-rent-dividends-work/) was paid — Governor Jay Hammond's
+administration and the state legislature commissioned Mason Gaffney to design the
+**leasing policy** that would determine how much oil rent the State actually
+captured before a barrel was sold.[10] Gaffney's report opens with a cautionary
+anecdote about what capture failure looks like: at a 1965 noncompetitive lease
+auction, Alaska sold what he estimates as roughly **$10 billion worth of oil at
+Prudhoe Bay for $6 million**, a mismatch he calls close to "a fraud with malice
+aforethought" against the State's own interest.[10] His central design proposal —
+an **"ad valorem charge" (AVC)**: a percentage levy on the *appraised value of
+reserves already proven in the ground*, rather than a bonus bid on unproven
+prospects — is functionally the same *in-situ* property-tax instrument California
+was running on its own oil and gas reserves at the same moment, before Proposition
+13 eliminated it the following year (see the California case above).[10][9] Gaffney
+ranks the AVC above bonus bidding, delay rentals, and flat royalties precisely
+because it is assessed *ex post* discovery rather than *ex ante* guesswork, sparing
+the State the Prudhoe Bay outcome by collecting on what is actually found rather
+than gambling on a single upfront price. The report's companion Part II appendices
+(read in a later wave) supply an independent empirical check on that ranking:
+contributor Richard Norgaard regressed Alaska's own offshore Cook Inlet bonus-bid
+sales (Lease Sales 7 and 9) against the oil actually discovered and found bonus
+bidding captured only an estimated 9–16% of realized rent there — using real
+multi-sale Alaska data, not the single dramatic Prudhoe Bay anecdote.[10] The lesson
+for "capture works": Alaska's
+much-cited dividend success (below) rests on a prior, less-visible design question —
+how much rent the leasing terms let the State collect in the first place — that
+state economic advisors were actively working out at the exact moment the Fund was
+created, not after the fact.
+
+## A Fifth Mode — Concentrated Absentee Leasing, Montana Coal, 1977
+
+Norway, Botswana, Alaska, California, and the Forest Service show design
+succeeding, design in progress, capture lost, and capture never attempted inside
+a public agency. **Montana's coal, in the same year as the Alaska report above,
+shows a fifth pattern: an instrument nominally in place but structurally too weak
+to capture rent from concentrated absentee ownership.** In his 1977 address
+"Counter-colonial Land Policy for Montana," Gaffney documents that ten energy
+firms held half of the roughly 773,000 acres under federal coal lease in the
+state as of 1970, and assesses Montana's own response — a newly adopted 30% coal
+yield (severance) tax — as poorly designed rather than absent: because the tax
+applies only at extraction, "revenues are turned on and off with the pace at
+which the lessees and owners decide to produce the coal," ceding the state
+effective control over its own revenue timing to the absentee lessees.[13] This
+differs from California's failure mode (a working instrument later repealed) and
+the Forest Service's (no charge for capital at all): Montana had *a* severance
+tax, but one built on the extraction-only base Gaffney's later, more developed
+California work explicitly argues against in favor of taxing the resource's value
+in place.[9]
+
+## A Sixth and Seventh Mode — Weak Leasing Design and Tax-Code Leakage
+
+Norway, Botswana, Alaska, Montana, and the Forest Service all involve a
+government that owns, or is deciding how to lease, the resource itself.
+**Two further Gaffney essays document rent leaking away through
+institutional channels that do not require public ownership to fail.**
+His mid-1970s essay on Canadian Crown-land leasing, ["Objectives of
+Government Policy in Leasing Mineral Lands,"](/wiki/gaffney-mineral-leasing-tax-reform/)
+names eight specific leasing-design errors a provincial landlord commits
+before a resource windfall is even realized — overdecentralization (subsidizing
+premature, dispersed mine development), overdelegation to a single giant
+lessee, overallowance for alleged risk, overadmission of prospectors under
+open access, underpricing to domestic consumers, confusion of rent with
+profit, overlooking taxation of nonmining activity, and overconsolidation
+of accounts that lets rich and poor deposits' books hide each other — a
+sixth failure mode distinct from the leasing-instrument choice (bonus bid
+vs. royalty vs. ad valorem charge) Alaska's report addresses, because it
+diagnoses errors that persist *within* any single instrument.[14] His
+companion 1982 essay, ["Oil and Gas: The Unfinished Tax
+Reform,"](/wiki/gaffney-mineral-leasing-tax-reform/) shows a **seventh**
+mode operating even where government does not own the resource at all:
+the **US federal income tax code** lets private oil-and-gas lessees
+retain rent that would otherwise flow to the Treasury, led by a loophole
+Gaffney says the reform literature had entirely missed — roughly 80% of
+the true cost of lease acquisition (the four-fifths of exploratory leases
+that prove dry) is expensed as an ordinary loss through leasehold
+abandonment, rather than capitalized as part of the one producing lease's
+real acquisition cost.[15] Read together, the two essays show that
+"capture works" requires getting both the leasing terms *and* the
+ordinary tax code right — a government can own its minerals wisely and
+still lose rent to tax-code leakage on the private production it does not
+directly control, or fail before that stage through avoidable leasing
+errors.
+
+## An Eighth Mode — Water Rights Assigned by Doctrine, Not Price
+
+Norway, Botswana, Alaska, Montana, and the Forest Service govern ownership
+and leasing of oil, minerals, coal, and timber; the sixth and seventh modes
+show rent leaking through leasing design and ordinary tax law. **Gaffney's
+water-law essays document an eighth mode: an entire resource class where the
+allocating institution isn't a lease, a royalty, or the tax code, but
+century-old common-law doctrine that was never designed to price the
+resource at all.** His 1961 case study of California's Kaweah River system
+found the marginal value of water varying by a factor of ten or more between
+adjacent, physically connected users — because riparian, appropriative, and
+correlative water-rights doctrine each assign water by land-adjacency or
+priority-of-claim rather than by productive value; appropriative rights
+specifically reward premature, inflated diversion, since "a cost to
+society — withdrawing water — is made a revenue to the appropriator."[16]
+He further traced a self-reinforcing overinvestment cycle distinct from the
+leasing-design and tax-code failures above: because private land
+development lags decades behind the public water projects meant to serve
+it, inflated land values persist long enough to hold what he calls a
+**"price umbrella,"** enticing more competing water-project starts than
+markets can absorb, compounded by defensive racing for water rights and
+project-siting logrolling — a dynamic he ties to water's role in the 1893
+and 1929 US land collapses.[16] His 1992 synthesis, "The Taxable Surplus in
+Water Resources," proposes the same rent-tax remedy already documented for
+oil, gas, and minerals — severance, net-proceeds, and gains taxes on
+withdrawals — framed as a rebuttal of six specific fallacies blocking it,
+notably that water rights are alienable private property (they are a
+revocable public-trust license) and that firm property rights alone let
+markets allocate water efficiently (permit holders carry no debt and no
+property tax, so — unlike the recorded, debt-financed real-estate
+market — they face no cash-drain pressure to sell).[17] Read against the
+other seven modes, water shows that "capture works" requires, as a logical
+first step, that the *legal category itself* recognize the resource as
+rent-bearing property subject to a public price — a threshold California's
+oil-and-gas and Alaska's mineral regimes had already crossed, but which
+western water law, on Gaffney's account, still had not.
+
 ## Why It Isn't Automatic — the Resource Curse
 
 The general result is more sobering, and the page states it plainly. [Sachs and Warner's](/wiki/sachs-warner-resource-curse/)
@@ -117,6 +250,55 @@ weaker accountability** — when unearned rent arrives without the fiscal discip
 taxation, governance decays. This is the contrapositive of the capture claim: it is
 not the rent but the *institutional channel* that determines whether capture builds a
 Pula Fund or a patronage machine.[8]
+
+## A State-Level Counter-Example — Capture Lost, Not Just Never Built
+
+Norway and Botswana show institutions *building* capture capacity from the start;
+**California shows the opposite failure mode — capture built, then lost**. Before 1978,
+California ran an effective *in-situ* property tax on oil and gas reserves, assessed by
+the State Board of Equalization with a rigor its own head assessor called comparable to
+ordinary real estate.[9] **Proposition 13 (1978)** — a measure aimed, per Gaffney, "about
+abating property taxes on homes," with no stated intent to touch mineral rights — cut
+the property tax rate to roughly a third of its prior level and rolled back assessed
+values, which by Gaffney's own arithmetic eliminated most of that oil-and-gas revenue as
+an unintended side effect, leaving California — per Gaffney's account, alone among major
+oil-producing US states — with no severance tax to replace it.[9] Gaffney's 2006 proposal — a severance tax redesigned
+toward a **net-proceeds** (post-cost) base, closer to a pure rent tax than a flat
+wellhead levy — is a direct design response to that loss, and its incidence analysis
+(that a well-structured severance tax falls mostly on landowners' rent rather than
+passing through to consumers, because California's oil supply is comparatively
+inelastic and its share of world supply is small) anticipates, in less formal terms, the
+same rent-targeting logic the IMF and Mintz & Chen make above.[9] The lesson for the
+"capture works" claim is that institutional capacity to capture resource rent is not a
+one-time achievement: it can be lost to a tax reform aimed at an entirely different
+target, not only to weak institutions or the classic resource curse.
+
+## A Renewable-Resource Case — Rent Chronically Uncaptured, Not Lost
+
+Norway, Botswana, and Alaska show design succeeding; California shows capture
+built, then lost to an unrelated tax reform. **The US Forest Service shows a
+third failure mode: rent that was never captured at all, in an ongoing,
+government-owned asset, because of the agency's own accounting incentives.**
+Applying the site-rent logic Gaffney had worked out for oil and gas leasing to
+a renewable resource, he estimated (via Marion Clawson's contemporaneous
+accounting) that the Forest Service's National Forest timber and land holdings
+were worth roughly **$42 billion** in 1977, against which the Service's actual
+1974 cash receipts merely offset its cash outlays — implying an annual
+opportunity cost, at a conservative 5% imputed rate, of about **$2.1
+billion** that dwarfed the water-regulation and recreation benefits the
+Service could point to.[11] The mechanism, on Gaffney's account, was internal
+accounting rather than resource-curse corruption or a political tax shock:
+the Service's "allowable cut effect" doctrine let it credit new investment
+with an arbitrarily large share of mature-timber value, obscuring the true
+carrying cost of its standing inventory, while its "culmination of mean
+annual increment" management standard is, mathematically, the rule that
+would apply only if capital were free — the same zero-interest-rate result
+Gaffney had derived for private forestry two decades earlier.[11][12] The
+general lesson complements the California case: **capture can fail not only
+by being lost to an unrelated shock, but by never having existed inside a
+public agency whose own performance metrics never charge it for the capital
+it ties up** — a failure mode ordinary tax-incidence and resource-curse
+analysis, both aimed at private or extractive rent, do not directly address.
 
 ## Honest Scope (rent gradient)
 
@@ -150,6 +332,14 @@ necessary; the institutions are what make it sufficient.
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/) — the distribution side (Alaska)
 - [An African Success Story: Botswana](/wiki/acemoglu-johnson-robinson-botswana/) — the strongest non-Nordic capture case
 - [Learning by Failing: The Origins of the Norwegian Oil Fund](/wiki/lie-norwegian-oil-fund/) — how Norway's institutions were built
+- [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the state-level case of capture built, then lost, to Proposition 13
+- [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the design-stage case, written as the Permanent Fund was created
+- [Gaffney: Alternative Ways of Taxing Forests / Greater Social Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — the renewable-resource, chronic-non-capture case (US Forest Service)
+- [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — the concentrated-absentee-leasing-plus-weak-instrument case (coal)
+- [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Crown-land leasing-design errors and US federal oil-tax-code leakage, two further failure modes
+- [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — early (1967) empirical anchor for the scale of capturable rent in extractive industries
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the eighth failure mode: water rights assigned by legal doctrine rather than price
+- [Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash?](/wiki/gaffney-real-assets-model-china/) — cited lightly, outside the failure-mode catalogue above, as a mechanism argument for why land/resource-rent taxation (not credit regulation alone) addresses crisis prevention at its root
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -191,3 +381,67 @@ necessary; the institutions are what make it sufficient.
    for the sub-national resource curse: rent transfers associated with lower local tax
    effort and weaker accountability, illustrating that the institutional channel, not the
    rent, is decisive.
+9. Mason Gaffney (2006), "A Severance Tax on California Oil?," masongaffney.org —
+   [wiki summary](/wiki/gaffney-california-severance-tax/) ·
+   [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf) — used
+   for the Proposition 13 / pre-1978 property-tax-on-reserves history and the net-proceeds
+   design recommendation (advocacy essay/testimony, not peer-reviewed; corroborating, not
+   load-bearing).
+10. Mason Gaffney (1977), "Oil and Gas Leasing Policy: Alternatives for Alaska in 1977," a
+    report to the State of Alaska and the Alaska State Legislature —
+    [wiki summary](/wiki/gaffney-alaska-oil-leasing/) ·
+    [PDF](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf)
+    — used for the 1965 Prudhoe Bay lease-sale anecdote and the "ad valorem charge"
+    design proposal (commissioned government consulting report, not peer-reviewed;
+    corroborating, not load-bearing); also, via the report's companion Part II
+    appendices, for contributor Richard Norgaard's Cook Inlet bonus-bid regression
+    (Appendix E — an independent econometric estimate, not Gaffney's own).
+11. Mason Gaffney (1977), "Greater Social Benefits From our National Forests," an address
+    to the Western Timber Association — [wiki summary](/wiki/gaffney-forest-taxation/) ·
+    [PDF](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)
+    — used for the $42 billion National Forest valuation, the 1974 receipts/outlays
+    figures, and the "allowable cut effect" critique (industry-association address,
+    not peer-reviewed; corroborating, not load-bearing).
+12. Mason Gaffney (1957), "Concepts of Financial Maturity of Timber and Other Assets,"
+    A.E. Information Series No. 62, NC State College —
+    [wiki summary](/wiki/gaffney-financial-maturity-timber/) ·
+    [PDF](https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf)
+    — used for the original zero-interest-rate derivation of "culmination of mean
+    annual increment" that the 1977 National Forests critique applies to public
+    lands (technical monograph, not itself about resource-rent capture policy).
+13. Mason Gaffney (1977), "Counter-colonial Land Policy for Montana," *Western
+    Wildlands: A Natural Resource Journal*, Winter 1977, pp. 16–25 —
+    [wiki summary](/wiki/gaffney-montana-land-policy/) ·
+    [PDF](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf)
+    — used for the 1970 federal coal-lease concentration figure and the critique
+    of Montana's extraction-only yield tax (conference address, not peer-reviewed;
+    corroborating, not load-bearing).
+14. Mason Gaffney, "Objectives of Government Policy in Leasing Mineral Lands"
+    (c. 1975) — [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) ·
+    [PDF](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf)
+    — used for the eight named Crown-land leasing-design errors (advocacy essay
+    for a Canadian provincial audience, not peer-reviewed; corroborating, not
+    load-bearing).
+15. Mason Gaffney (1982), "Oil and Gas: The Unfinished Tax Reform" —
+    [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) ·
+    [PDF](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf)
+    — used for the US federal income-tax loophole catalogue, led by the
+    leasehold-abandonment deduction (advocacy essay, not peer-reviewed;
+    corroborating, not load-bearing).
+16. Mason Gaffney (1961), "Diseconomies Inherent in Western Water Laws: A
+    California Case Study," *Economic Analysis of Multiple Use*, Report No.
+    9, Western Agricultural Economics Research Council, pp. 55–82 —
+    [wiki summary](/wiki/gaffney-water-rent-taxation/) ·
+    [PDF](https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf)
+    — used for the Kaweah River marginal-productivity dispersion case study
+    and the price-umbrella/racing/logrolling dynamic (single-river-system
+    case study generalized by assertion, not a multi-system statistical
+    sample; text recovered via fresh OCR of a poor legacy scan — see the
+    dedicated page's `[VERIFY]` note; corroborating, not load-bearing).
+17. Mason Gaffney (1992), "The Taxable Surplus in Water Resources,"
+    *Contemporary Policy Issues* 10, pp. 74–82 —
+    [wiki summary](/wiki/gaffney-water-rent-taxation/) ·
+    [PDF](https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf)
+    — used for the six-fallacy case for taxing water withdrawals (advocacy/
+    policy-journal essay, not peer-reviewed; corroborating, not
+    load-bearing).

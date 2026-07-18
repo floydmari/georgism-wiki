@@ -18,7 +18,9 @@ supports_outcomes: [lvt-dampens-land-speculation]
 
 "The Business Cycle: A Georgist-Austrian Synthesis" is a peer-reviewed article by **Fred E. Foldvary**, then an economist at John F. Kennedy University, published in the **American Journal of Economics and Sociology**, Vol. 56, No. 4 (October 1997), pp. 521–541 — a special issue commemorating the 100th anniversary of Henry George's death.[1] It is the scholarly source behind Foldvary's well-known forecast, made eleven years in advance, of a downturn "around 2008" (already quoted and cited elsewhere on this wiki's [Fred Foldvary](/wiki/fred-foldvary/) page, [18-Year Land Cycle](/wiki/18-year-land-cycle/) concept page, and [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/)). This page is the dedicated research-record treatment of the paper itself: its argument, its historical evidence, and its own stated limits — material those other pages draw on but do not fully reproduce.
 
-The paper's ambition is narrower and more theoretical than the "2008 prediction" framing suggests. Foldvary's actual project is to fuse two economic traditions that, he argues, have talked past each other for decades despite sharing a great deal: **Austrian capital-structure and monetary-cycle theory** and **Georgist (geo-economic) land-speculation theory**. He credits Karl Pribram, an Austrian economist who was "perhaps the first geo-Austrian synthesist" without being explicitly Georgist, as an intellectual predecessor, and cites Leland Yeager's earlier work comparing George's and Carl Menger's methodologies as evidence the two schools were "compatible" long before this synthesis was attempted.[2]
+The paper's ambition is narrower and more theoretical than the "2008 prediction" framing suggests. Foldvary's actual project is to fuse two economic traditions that, he argues, have talked past each other for decades despite sharing a great deal: **Austrian capital-structure and monetary-cycle theory** and **Georgist (geo-economic) land-speculation theory**. He credits Karl Pribram, an Austrian economist who was "perhaps the first geo-Austrian synthesist" without being explicitly Georgist, as an intellectual predecessor, and cites Leland Yeager's earlier work comparing George's and Carl Menger's methodologies as evidence the two schools were "compatible" long before this synthesis was attempted.[2] **Ancestry note:** the specific fusion this paper publishes was not Foldvary's alone — [Mason Gaffney](/wiki/mason-gaffney/)'s unpublished 1982 working notes, "[Causes of Downturns: an Austro-Georgist Synthesis](/wiki/gaffney-causes-of-downturns/)," work out the same land-speculation-plus-Austrian-capital-theory fusion fifteen years earlier, under a near-identical name, though only as course-note material rather than a peer-reviewed article.
+
+
 
 ## The Core Argument
 
@@ -59,6 +61,7 @@ The paper supports the Georgist claim that credit-financed land speculation is a
 
 ## See Also
 
+- [Gaffney (1982): Causes of Downturns — an Austro-Georgist Synthesis](/wiki/gaffney-causes-of-downturns/) — an earlier, unpublished statement of the same synthesis
 - [Fred Foldvary](/wiki/fred-foldvary/)
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/)

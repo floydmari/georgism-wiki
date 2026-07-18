@@ -26,15 +26,20 @@ He is best known internationally as the editor of *Now the Synthesis: Capitalism
 
 - **Post-socialism and the single tax.** Fred Harrison's chapter ("Post-socialism and the Single Tax: a holistic philosophy", Ch. 4, pp. 77–111) extends the argument to post-socialist Eastern Europe, arguing that the single tax offers a path for transitioning economies that avoids both the failures of state socialism and the rent-seeking of unregulated capitalism. (D-claim; interpretive)
 
+- **Co-authored empirical research with Mason Gaffney.** Noyes co-wrote, with Mason Gaffney, "The Income-Stimulating Incentives of the Property Tax," Chapter 8 of Fred Harrison (ed.), *The Losses of Nations* (1998) — a 50-state comparison arguing states with heavier property-tax reliance (led by Noyes's home state, New Hampshire) show higher personal income per capita than states relying more on income or sales taxes. This wiki treats the co-author identification as a well-supported inference (matching dates, subject, and Georgist-movement circle) rather than an independently confirmed fact — see the [dedicated page](/wiki/gaffney-noyes-income-stimulating-property-tax/) for the identification note and the argument's honest limits, including the New Hampshire case study's lack of disclosed authorial proximity to its own subject. (A/B-claim; attributed)
+
 ## Key Works
 
 - *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (1991, ed.) — [book page](/wiki/now-the-synthesis/)
+- "The Income-Stimulating Incentives of the Property Tax" (1998, with Mason Gaffney) — [wiki summary](/wiki/gaffney-noyes-income-stimulating-property-tax/)
 
 ## See Also
 
 - [Now the Synthesis](/wiki/now-the-synthesis/) — book page
+- [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — co-authored research
 - [Nicolaus Tideman](/wiki/nicolaus-tideman/) — contributor to the volume
 - [Fred Harrison](/wiki/fred-harrison/) — contributor to the volume
+- [Mason Gaffney](/wiki/mason-gaffney/) — co-author of the 1998 chapter
 - [Single Tax](/wiki/single-tax/) — the synthesis Noyes advocates
 - [Georgism](/wiki/georgism/) — the broader tradition
 
@@ -45,3 +50,4 @@ He is best known internationally as the editor of *Now the Synthesis: Capitalism
 3. Francis M. Smith, "'Planning Gain': the making of a tax on land values" (Ch. 3 of *Now the Synthesis*, pp. 60–74) — used for the planning gain analysis (D-claim; chapter author corrected against the book's contents page 2026-07-10 — an earlier draft misattributed it to Fred Harrison, whose chapter is Ch. 4, "Post-socialism and the Single Tax").
 4. Dick Noyes, "What One Founding Father Foresaw," [*Georgist Journal*](http://georgistjournal.org/2012/08/24/what-one-founding-father-foresaw/) — biographical note: "Richard Noyes was the publisher of The Salem Observer for 35 years… one of the founding directors in 1985 of Common Ground-USA… editor and publisher of Groundswell from 1986 to 1993… Council of Georgist Organizations president in 1993-94, and he edited the 1991 book Now The Synthesis." Used for the Georgist-movement roles (A-claim).
 5. "Richard A. Noyes Obituary," [*The Eagle Tribune*](https://obituaries.eagletribune.com/obituary/richard-noyes-770749881), May 2009 — "Richard A. Noyes, 85, of Salem, N.H. died Friday, May 15, 2009… Editor and Publisher for the Salem Observer for 35 years… member and director of the Robert Schalkenbach Foundation… a N.H. State Representative for Salem." Used for the death date, age (implying birth c. 1923–1924), and identification as the same person (A-claim; independent of the Georgist Journal note, matched on the shared Salem Observer / Schalkenbach Foundation facts).
+6. Mason Gaffney & Richard Noyes (1998), "The Income-Stimulating Incentives of the Property Tax," Ch. 8 in Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998) — used for the co-authored empirical work (A-claim for the chapter's existence and content; D-claim for the author identification). [wiki summary](/wiki/gaffney-noyes-income-stimulating-property-tax/)

@@ -51,6 +51,7 @@ Honest bounds on the challenge: it is a working paper (not yet peer-reviewed), t
 - **Benefit (challenges):** [LVT can improve housing affordability](/wiki/lvt-improves-housing-affordability/) — disputes full capitalization into lower prices and finds null housing-development effects.
 - **Benefit:** [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) — a zero price-capitalization result weakens the "full capitalization reduces speculative resale value" channel.
 - **Research:** [Danish Economic Councils, Land Taxes and Housing Prices](/wiki/dors-land-taxes-housing-prices/) — the opposite Danish result on the same question.
+- **Place:** [Denmark](/wiki/denmark/) — grundskyld context; the page's "Contemporary Evidence" section carries both dueling results.
 
 ## See Also
 

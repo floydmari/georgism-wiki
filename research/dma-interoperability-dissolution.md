@@ -9,7 +9,7 @@ tier: Important
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R1925
 stub: false
 excerpt: "The EU's Digital Markets Act (Regulation 2022/1925) is the rent-dissolution pole of the wiki's data-rents design choice, actually legislated. Instead of taxing platform rents, it attacks the moat that creates them: designated 'gatekeepers' must open their app stores, hardware and — for the first time in law — their messaging services to interoperability. If users can leave with their network, the location loses its lock-in and the rent competes away without ever being captured. Kades & Scott Morton supply the analytical case; the DMA is it in force."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 bears_on_objections: [taxing-quasi-rents-kills-innovation]
 ---
 
@@ -167,6 +167,7 @@ quality) is the empirical question the next few years will answer.
 
 
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
+- [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/) — the 2025-26 update this page's "early, effectiveness unproven" limit points to: the first DMA fines (Apple €500m, Meta €200m), WhatsApp's messaging-interoperability rollout, browser-choice-screen outcomes, and the US courts' parallel move toward data-access remedies over breakup
 - [Platform and Data Rents](/wiki/data-rents/) — the capture-or-dissolve design choice the DMA answers on the dissolve side; the concept explicitly names "the logic of the EU's Digital Markets Act 'gatekeeper' rules"
 - [Furman Review — Unlocking Digital Competition](/wiki/furman-review-digital-competition/) — the intellectual template for interoperability-and-data-mobility remedies the DMA enacts
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the capture pole, and the cautionary incidence tale

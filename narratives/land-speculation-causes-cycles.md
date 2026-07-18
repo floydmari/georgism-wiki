@@ -8,7 +8,8 @@ narrative_type: economic
 supported_by: [lvt-dampens-land-speculation]
 related_people: [henry-george, fred-harrison, fred-foldvary, akhil-patel, mason-gaffney]
 related_places: [estonia]
-last_reviewed: 2026-07-10
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 *This page covers the persuasive claim that land speculation drives the business cycle.
@@ -63,7 +64,47 @@ rather than merely regulating the credit that finances it.
   *The Corruption of Economics* (1994), argued in *After the Crash* (2009) that the 2008
   crisis was substantially a land-price collapse consistent with George's analysis, while
   adding that land speculation is a *necessary but not sufficient* condition — credit
-  structure and capital theory also matter.[8]
+  structure and capital theory also matter.[8] Gaffney had in fact attempted the same
+  Georgist-Austrian fusion Foldvary later published fifteen years earlier, in unpublished
+  1982 working notes, "[Causes of Downturns](/wiki/gaffney-causes-of-downturns/)" — a fact
+  that supports reading the synthesis as a recognized line of Georgist thinking rather than
+  a single scholar's one-off argument.[17]
+
+## George's Own Statement of the Mechanism (Book V, Ch. I)
+
+The citation to Book V above has so far paraphrased George's argument rather than
+quoting it. The primary text (public domain; the 50-word quote cap is waived per
+EDITORIAL §3b) states the causal claim and its resolution more precisely than any
+secondary summary:
+
+> "A consideration of the manner in which the speculative advance in land values cuts
+> down the earnings of labor and capital and checks production leads, I think,
+> irresistibly to the conclusion that this is the main cause of those periodical
+> industrial depressions to which every civilized country, and all civilized countries
+> together, seem increasingly liable." (*Progress and Poverty*, Book V, Ch. I)[1]
+
+George explicitly names this the *primary*, not the sole, cause — a concession worth
+crediting to George himself rather than treating as a modern qualification. He lists
+"the growing complexity and interdependence of the machinery of production," currencies
+that "contract when most needed," volatile commercial credit, and protective tariffs as
+contributing "proximate causes" that "undoubtedly bear important part in producing and
+continuing" hard times, before concluding "the great initiatory cause is to be looked
+for in the speculative advance of land values" (Book V, Ch. I).[1]
+
+George also gives the mechanism a built-in resolution — a depression ends only when one
+of three things happens:
+
+> "The period of depression thus ensuing would continue until (1) the speculative
+> advance in rents had been lost; or (2) the increase in the efficiency of labor, owing
+> to the growth of population and the progress of improvement, had enabled the normal
+> rent line to overtake the speculative rent line; or (3) labor and capital had become
+> reconciled to engaging in production for smaller returns." (*Progress and Poverty*,
+> Book V, Ch. I)[1]
+
+This three-way resolution is the textual root of the "boom, bust, re-equilibration"
+cycle this narrative describes — and it is explicitly non-periodic: nowhere in this
+chapter does George commit to a fixed interval between cycles, which bears directly on
+the "lead with the mechanism, not the number" deployment guidance below.
 
 ## Research That Supports It
 
@@ -112,6 +153,13 @@ rather than merely regulating the credit that finances it.
   the periodicity claim.[12]
 - A dedicated wiki page examines the empirical basis for the periodicity claim itself in
   more depth: [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/).
+- **Why the boom self-destructs, mechanically.** Gaffney's short working notes
+  "[How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/)"
+  (1993, revised 2005) supply an accounting-level answer to a question George's own text
+  leaves open: how rising land value under an *already-built* structure diverts the owner's
+  capital-replacement reserves into consumption ("equity withdrawal"), so that real capital
+  is quietly lost well before any credit-market stress is visible — a non-credit channel
+  running alongside, not dependent on, the banking mechanism described below.[18]
 
 ## Research That Challenges It — or Is Missing
 
@@ -326,11 +374,15 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 
 ## Sources
 
-1. Henry George, *Progress and Poverty*, 1879, Book V ("The Problem Solved") and the
-   full subtitle's reference to "industrial depressions."
-   [Full text (Project Gutenberg)](https://www.gutenberg.org/ebooks/55308) — used for
-   George's original theory that speculative land withholding causes depressions
-   (C-claim).
+1. Henry George, *Progress and Poverty*, 1879, Book V, Ch. I ("The Primary Cause of
+   Recurring Paroxysms of Industrial Depression") and the full subtitle's reference to
+   "industrial depressions." Verified verbatim against the
+   [wiki's full text](/wiki/progress-and-poverty-full-text/)
+   ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for
+   George's original theory that speculative land withholding causes depressions, the
+   direct quotation of the causal mechanism, his own concession that land speculation is
+   the *primary* rather than sole cause, and the three-way resolution of a depression
+   (C-claim; quotations from a public-domain work, EDITORIAL §3b).
 2. Fred Harrison, *The Power in the Land*, Shepheard-Walwyn, 1983; on Hoyt's Chicago data
    see also Harrison, "The Hoyt Heist," reprinted at
    [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
@@ -417,3 +469,13 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     — used for the finding that housing markets fail weak-form efficiency tests (real
     price changes show year-ahead persistence) and that transaction and carrying costs
     impede professional arbitrage (B-claim; quotation under 50 words).
+17. Mason Gaffney, "Causes of Downturns: an Austro-Georgist Synthesis," working notes,
+    1982. [wiki summary](/wiki/gaffney-causes-of-downturns/) · [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf)
+    — used for the independent 1982 precursor to Foldvary's 1997 Georgist-Austrian
+    synthesis (A-claim). Text mirrored and OCR'd from the site's scanned PDF this session
+    (2026-07-16).
+18. Mason Gaffney, "How Rising Rents Can Devour Capital" (1993) and "How a Land Boom
+    Destroys Capital" (2005). [wiki summary](/wiki/gaffney-land-booms-destroy-capital/)
+    — used for the capital-destruction/equity-withdrawal mechanism by which a land boom
+    consumes real capital independent of the credit channel (C-claim). Text mirrored and
+    OCR'd from the site's scanned PDFs this session (2026-07-16).

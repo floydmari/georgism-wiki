@@ -47,6 +47,31 @@ Subsequent public-finance literature (notably George Zodrow's 2001 survey "The P
 
 For the Georgist case specifically, all three views agree on one point that matters most here: none of them offers a mechanism by which a tax on land value alone could be shifted onto tenants. The three views disagree about the *capital* and *consumption* components of the ordinary property tax, not about the land component's incidence.
 
+## An Independent, Non-Overlapping Argument for a Related Conclusion
+
+The "new view" is not the only 1971–72 argument against the traditional
+regressive-excise picture of the property tax; it is the mainstream
+general-equilibrium version of a conclusion **Mason Gaffney** reached the
+same year by an entirely different route. Gaffney's "The Property Tax Is A
+Progressive Tax" (National Tax Association, delivered October 1971) makes
+no capital-mobility argument at all — it argues from **ownership
+concentration**: because property ownership is far more concentrated than
+income (Gaffney assembles a table of a dozen independent wealth-concentration
+studies spanning 1926–1971), and because the standard studies finding the
+tax regressive commit a "regression fallacy" by ranking households on
+income rather than wealth, correctly specified comparisons find the tax
+falls hardest on the wealthy regardless of how the tax's economic burden is
+reallocated through capital markets. The two arguments are complementary,
+not competing: Mieszkowski's result concerns how a fixed tax burden
+*redistributes* once capital can move; Gaffney's concerns *who owns the
+taxed asset* in the first place, a question upstream of any incidence
+model. See [research/gaffney-property-tax-progressive](/wiki/gaffney-property-tax-progressive/)
+for the full argument and its own standing and limits — it is a conference
+paper responding to an older empirical literature, not a peer-reviewed
+general-equilibrium result, and is treated here as a genuinely distinct
+historical argument rather than as additional weight for the "new view"
+specifically.
+
 ## Nuances and Limits
 
 - **Fixed national capital stock is a modeling assumption, not an empirical claim about capital supply.** The new view's "profits tax" result depends on treating the *aggregate* capital stock as fixed at the national level even though it is freely reallocable within the country. In an open economy where capital can also flow across national borders, or over a long enough horizon in which national saving and investment respond to after-tax returns, this assumption is more questionable — a concern raised in later applications of the framework to small, open, or developing economies, where full capital mobility and inelastic land supply are less reliably satisfied.
@@ -57,6 +82,7 @@ For the Georgist case specifically, all three views agree on one point that matt
 ## Bears On
 
 - **Outcome:** [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) — the paper's land-component result (fixed, immobile supply implies full incidence on the owner) is the general-equilibrium theoretical foundation for this claim, extended here from an ordinary property tax to the pure-land case.
+- **Research:** [Gaffney (1971), The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — an independent, ownership-concentration-based argument for a related conclusion, reached the same year through disjoint premises (see "An Independent, Non-Overlapping Argument" above).
 - **Concept:** [Tax Capitalization](/wiki/tax-capitalization/) — Mieszkowski's mechanism for why the land portion of a property tax cannot be shifted is precisely tax capitalization into a lower land price.
 - **Concept:** [Deadweight Loss](/wiki/deadweight-loss/) — the paper's contrast between a distortionary capital-tax component (excise effects, capital reallocation) and a non-distortionary land component is an early general-equilibrium statement of why a land tax alone would carry no efficiency cost.
 - **Research:** Hamilton's benefit-tax view — the paper this one is most productively read against; both concern property-tax incidence but locate the burden differently (capital owners vs. local service consumers).
@@ -72,6 +98,7 @@ For the Georgist case specifically, all three views agree on one point that matt
 - Hamilton's benefit-tax view
 - [Oates (1969), property tax capitalization](/wiki/oates-1969-capitalization/)
 - [Economic Rent](/wiki/economic-rent/)
+- [Gaffney (1971), The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — an independent, ownership-concentration-based argument for a related conclusion
 
 ## Sources
 

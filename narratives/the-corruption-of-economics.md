@@ -190,7 +190,7 @@ This framework directly connects to the [corruption narrative](/wiki/the-corrupt
    authorship, and structure (A/D-claims, attributed).
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *Rethinking the Economics of
    Land and Housing*, Zed Books, 2017.
-   [NEF summary](https://neweconomics.org/2017/02/rethinking-economics-land-housing)
+   [NEF summary](https://neweconomics.org/2017/02/britains-housing-crisis-get)
    · [wiki summary](/wiki/ryan-collins-rethinking-land-housing/) — used for the
    non-conspiratorial institutional retelling (D-claim, attributed).
 3. John Bates Clark, *The Distribution of Wealth*, Macmillan, 1899, Preface.

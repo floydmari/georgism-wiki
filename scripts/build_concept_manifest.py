@@ -24,8 +24,8 @@ import argparse, glob, json, os, re, sys, threading, time, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "scratchpad", "cache")
 ARTICLES = os.path.join(CACHE, "legacy-articles.jsonl")
-OUT = os.path.join(CACHE, "concept-candidates.jsonl")
-MODEL = os.environ.get("CONCEPT_MODEL", "glm-4.7")
+OUT = os.environ.get("CONCEPT_OUT", os.path.join(CACHE, "concept-candidates.jsonl"))
+MODEL = os.environ.get("CONCEPT_MODEL", "glm-5.2")
 API = os.environ.get("OLLAMA_HOST", "https://ollama.com")
 KEY = os.environ.get("OLLAMA_API_KEY") or sys.exit("OLLAMA_API_KEY not set")
 
@@ -68,17 +68,29 @@ ESSAY TITLE: {title}
 ESSAY TEXT (may be truncated):
 {text}
 
-Task: identify AT MOST 4 claim pages this essay SUBSTANTIVELY bears on — where the essay
-argues, evidences, illustrates, or disputes that page's claim. Substantive means a reader
-of that passage would genuinely benefit from the wiki page; do not map on shared topic
-alone. For each mapping give:
-- "claim": the catalog id exactly as written (e.g. "benefits/lvt-improves-housing-affordability")
+Task: identify AT MOST 3 claim pages whose SPECIFIC CLAIM this essay directly engages —
+asserts it, provides evidence for it, or argues against it. The bar (Floyd, 2026-07-15,
+after rejecting a looser pass as "related but not very direct"):
+
+1. First restate the page's claim in <=12 words ("page_claim").
+2. Then find the ONE essay sentence that takes a position on THAT claim — not the same
+   topic, THAT claim. If no sentence does, the mapping does not exist. Do not map because
+   the essay is about land/tax/rent in general.
+3. "anchor_phrase": 2-8 EXACT CONSECUTIVE WORDS from within that sentence that themselves
+   express the claim — the words a reader would expect to click to see the evidence for
+   what they just read. Topic nouns ("land value tax"), names, and scene-setting phrases
+   are WRONG anchors; the assertion is the anchor ("landlords cannot pass the tax on",
+   "speculation drove the 1926 collapse", "captured 77% of the rent").
+
+For each mapping give:
+- "claim": catalog id exactly as written
 - "relation": "supports" | "illustrates" | "counters"
-- "anchor_phrase": 2-8 EXACT CONSECUTIVE WORDS copied verbatim from the essay text where a
-  hyperlink would sit naturally (the conceptual heart of the passage, not a heading)
-- "anchor_sentence": the full sentence containing that phrase, verbatim
-- "why": one short clause explaining the bearing
-Fewer, stronger mappings beat many weak ones. Zero mappings is a valid answer.
+- "page_claim": the page's claim in your words, <=12 words
+- "anchor_phrase": as defined above, verbatim from the essay
+- "anchor_sentence": the full sentence containing it, verbatim
+- "why": one clause: how the sentence engages the page's claim
+Fewer, stronger mappings beat many weak ones. Zero mappings is the RIGHT answer for most
+tangential essays.
 
 Reply with ONLY a JSON object: {{"mappings": [ ... ]}}"""
 
@@ -145,6 +157,7 @@ def main():
                     grounded = bool(ph) and ph.lower() in text_l
                     clean.append({"claim": m["claim"],
                                   "relation": m.get("relation", "supports"),
+                                  "page_claim": (m.get("page_claim") or "")[:120],
                                   "anchor_phrase": ph, "grounded": grounded,
                                   "anchor_sentence": (m.get("anchor_sentence") or "")[:400],
                                   "why": (m.get("why") or "")[:200]})

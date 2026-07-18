@@ -9,7 +9,7 @@ year: 2009
 tier: Important
 source_url: https://cooperative-individualism.org/gaffney-mason_the-role-of-land-markets-in-economic-crises-2009-oct.pdf
 excerpt: "Gaffney's late-career argument that the 2008 crash followed a well-documented ~18-year pattern of land speculation and premature subdivision, and that a land-focused property tax is the best instrument for preventing the next one."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 bears_on_objections: [government-can-tame-the-cycle]
 ---
 
@@ -22,6 +22,24 @@ Gaffney (1923–2020), then in his mid-80s and a UC Riverside economics professo
 ## Ex Ante Predictions Cited
 
 A central piece of Gaffney's evidence is that other Georgist-tradition economists had already forecast the crash years in advance using the same land-cycle logic. He quotes **Fred Harrison**'s 1997 book *The Chaos Makers*: "By 2007, Britain and most of the other industrially advanced economies will be in the throes of frenzied activity in the land market... Land prices will be near their 18-year peak... on the verge of the collapse that will presage the global depression of 2010."[1] He also quotes **Fred Foldvary**'s 1997 peer-reviewed paper: "The 18-year cycle in the U.S. and similar cycles in other countries give the geo-Austrian cycle theory predictive power: the next major bust... will be around 2008."[1] Both predictions are also documented, with fuller context, on this wiki's own [Foldvary business-cycle](/wiki/foldvary-business-cycle-synthesis/) page.
+
+## Priority Note: A Real-Time Essay Predates This Paper by 14 Months
+
+**2026-07-18.** Before this October 2009 special issue, Gaffney had already
+published substantially the same argument in real time: "The Great Crash of
+2008" (*Progress*, Melbourne, August 2008; also *The Georgist Journal*
+#110-111, 2008), written 17 August 2008 as the crisis was still unfolding.[3]
+The 2008 essay states the same Hoyt-derived cycle mechanism (with the same
+20-element list, lightly paraphrased) and reaches the same policy
+conclusions, but is not a mere draft of this paper — it independently lists
+a different pair of forecasters credited with calling the crash (Fred
+Foldvary and Bryan Kavanagh, alongside Harrison and Hudson, versus this
+paper's citation of Harrison's 1997 and Foldvary's 1997 predictions
+specifically), derives an explicit valuation-plateau algebra (`V = a/(i-g)`)
+this paper does not carry, and extends the historical chronology to the 1720
+Mississippi Bubble, the 1630s Amsterdam tulip/housing bubble, and a 1454
+Florence episode not mentioned here. See [concepts/18-year-land-cycle](/wiki/18-year-land-cycle/)
+for the fuller treatment of the 2008 essay's distinctive content.
 
 ## Standing and Limits
 
@@ -40,3 +58,4 @@ A central piece of Gaffney's evidence is that other Georgist-tradition economist
 
 1. Mason Gaffney (2009), "The Role of Land Markets in Economic Crises," Ch. 1 of *After the Crash: Designing a Depression-Free Economy*, special issue of *American Journal of Economics and Sociology* 68(4), pp. 855–888 (also published as a standalone book, Wiley-Blackwell, 2009) — used for the abstract's central claim, the Hoyt-derived "elements" of the cycle, and the Harrison (1997) and Foldvary (1997) prediction quotes. [Free PDF](https://cooperative-individualism.org/gaffney-mason_the-role-of-land-markets-in-economic-crises-2009-oct.pdf) · [Publisher listing](https://www.wiley.com/en-us/After+the+Crash:+Designing+a+Depression-free+Economy-p-9781444333589) · [Internet Archive (book)](https://archive.org/details/aftercrashdesign0000gaff)
 2. Akhil Patel (2023), *The Secret Wealth Advantage* — used for discovery context situating Gaffney within the land-cycle lineage (via the wiki's [book page](/wiki/patel-secret-wealth-advantage/); note: the book page notes do not independently corroborate every specific claim above, which are drawn primarily from direct reading of Gaffney's 2009 paper).
+3. Mason Gaffney (2008), "The Great Crash of 2008," *Progress* (Melbourne), August 2008 — used for the priority note above. Read in full 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Great_Crash_of_2008.pdf); local mirror at `sources/gaffney/text/GreatCrashOf2008.txt`.

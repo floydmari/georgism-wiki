@@ -143,7 +143,7 @@ At 85% LVT, even ±15% assessment error stays within safe bounds (max 97.75% of 
 1. Implement LVT at the highest practical rate (~85% suggested as realistic target)
 2. Abolish taxes on improvements — remove the portion of property tax falling on buildings
 3. Replace inefficient taxes — shift from income, sales, and capital taxes toward land rents (ATCOR makes this revenue-neutral or positive)
-4. Distribute a Citizen's Dividend (UBI) — return excess land rent equally to all citizens
+4. Distribute a citizen's dividend (UBI) — return excess land rent equally to all citizens
 5. Improve assessment accuracy — raising assessed land values to true market values effectively increases the hidden LVT in existing property taxes
 6. Repeal restrictive zoning — LVT-aligned cities have incentives to allow development
 7. Deferment options for owner-occupiers — allow deferring LVT until sale/transfer (Nate Blair proposal)

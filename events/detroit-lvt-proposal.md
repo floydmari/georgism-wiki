@@ -28,6 +28,7 @@ As of mid-2026 the plan is dormant. In **November 2025 Duggan pledged to revive 
 ## See Also
 
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) · [Speculative Vacancy](/wiki/speculative-vacancy/) · [Pittsburgh, Pennsylvania](/wiki/pittsburgh/)
+- [Gaffney: "What's the Matter with Michigan?"](/wiki/gaffney-georgist-city-growth-cases/) — a century-earlier Detroit land-tax history (Mayor Hazen Pingree's 1890s reforms through the city's later decline), the historical antecedent this modern proposal is not otherwise connected to on the wiki
 
 ## Sources
 

@@ -1,0 +1,940 @@
+pple Bu, Vamenbie
+
+JBA, Vol. 18- No. 1 and 2, 1988/89 133
+
+8
+
+Nonpoint Pollution: Tractable Solutions to
+Intractable Problems *
+
+Mason Gaffney
+
+University of California, Riverside
+
+The Special Challenge to Economic Thinking
+
+Nonpoint pollution goes right to a chink in the armor of conventionally trained
+economists (like myself) who are overtrained towards becoming protagonists of
+the price system. The very name “nonpoint” pollution suggests that economists
+see this as just an odd bit of clutter, something “non-regular” in their tidy world.
+Indeed, all pollution was an exception, an “externality”, until recently. Then
+economists learned you can meter effluents and tax them, or create and trade
+effluent rights like private property. Thenceforth they could fit pollution into
+existing models and ideologies with minimum intellectual strain. Unfortunately,
+we can’t meter runoff, it comes from areas, and its damages are spread unequally
+over other areas, differentially populated. Economists are ill-equipped and un-
+disposed to face such problems,
+
+Conventional price theory has been accused of mocking physics because it
+uses some elementary calculus, but if so, it is a poor imitation: it deals with an
+imaginary world abstracted not just from friction but from space and time
+themselves. Space is relegated to one subdiscipline (location theory) and time to
+another (finance) (Gaffney, 1962). Most price theoryis spaceless. Even location
+theory, at least the most common kind, conventionally treats cities as Euclidean
+points: the math is simpler that way. Newton could get away with it explaining
+planetary motion; students of urban sprawl cannot.
+
+Economists are also ill-equipped to deal with ecology. Economists’ “exter-
+nalities” pour into a biosphere of interdependencies at least as complex as what
+economists purport to understand. Economists are too disposed to underrate
+the sensitivity, passion and numbers of Nature’s votaries, and the real economic
+value of the philosophical values these votaries celebrate. Fisheries economists
+are a notable exception, although they probably impose more economics on
+biology than vice versa. But most economists treat “eco-freaks” as noisy
+nuisances.
+
+CECH uled
+A vy: Ly
+
+1995
+134 Mason Gaffney
+
+Economists, regardless, are often useful citizens. As a budgeteer allocating
+limited resources among competing ends -- his favorite posture -- it is often the
+economist, the “soft scientist”, who makes hard choices among hard scientists
+with soft programs. Another good use for economists interfacing with natural
+scientists is to temper extremism among those susceptible to technofascination.
+But sometimes a positive-thinking economist develops affirmative enthusiasms
+of his own for social and political programs that transcend particular technolo-
+gies. Then he may need natural scientists to temper his zeal, as you may temper
+mine in what follows.
+
+The Search for Surrogates
+
+The frustrated economist, unable to impose an excise tax or effluent charge
+on runoff itself, looks for surrogates to tax that move through a market, such as
+pesticides, fertilizers, or salt. Thus we “internalize the externalities” and, in
+theory, have “proper pricing of inputs” to create incentives for correct “trade-
+offs” in the “production functions”.
+
+A few problems remain, however. One is that many economists don’t like
+the effluent charge approach anyway, even for point sources. They follow Dales
+(1968) and Coase (1960) and prefer to grant pollution entitlements to be traded
+in a free market. In principle, they profess not to care who gets the original
+entitlements but, in practice, established polluters tend to appropriate them.
+The EPA now calls these “offset rights” inside airshed “bubbles”, a new form of
+property. In the Los Angeles Basin (South Coast Air Quality Management Dis-
+trict), a few corporations have grown rich by establishing their respective
+histories of pollution which they can now sell as rights to others.
+
+But what of those needing air to breathe? According to the theory, they can
+enter the market, buy up offset rights and retire them. Thus is fulfilled Robert
+Ingersoll’s forecast of a century ago that if some corporation could bottle the air,
+they would charge us to breathe (Greeley, 1983, p. 79). It seems to confirm the
+dour warning from a former Secretary of Labor:
+
+We soon discovered . .. the danger of allowing economic policy to be
+dominated by business or financial interests or, which usually comes to
+the same thing, orthodox economic analysis (Marshall, 1987, p. ix).
+JBA, Vol. 18 - No. 1 and 2, 1988/89 135
+
+Offset rights have not gained public acceptance. Tosimplify, therefore, Iam
+not going to speculate how the Dales /Coase theory might be applied to nonpoint
+sources, but just ignore it. I will treat effluent charges, and taxes on surrogates,
+as the conventional economic solution to pollution.
+
+But before leaving this, there is a lesson in it. The holders of offset rights
+have demanded compensation to stop polluting (Polakovic, 1987). They will
+probably get it, for if the system be changed, there will be a taking of something,
+which they claim is property. Such is the force of current social values, that
+unearned gains are sacred, even those originating with something as unworthy
+as the generation of pollution. Many economists write calmly and blandly about
+the desirability of “bribing” polluters to stop. This philosophical approach
+explains why effective control seems so expensive.
+
+The surrogate approach may work through regulation and prohibition as
+well as taxation. Banning DDT and other organochlorines after 1972 has solved
+or prevented a lot of nonpoint problems. We may also tax or ban other pesticides
+oflong residual life, stimulating a predictably successful quest for pesticides that
+self-destruct after doing their job. But economists balk at absolutes. While
+admitting that regulation has achieved some notable successes, most economists
+are convinced that things would be better with more tempered, measured re-
+sponses. They prefer taxation to regulation: it inhibits rather than prohibits. It
+is more flexible, leaving latitude for applicator adaptation, recognizing the
+smoothness and continuity of production and damage and substitution func-
+tions.
+
+They would point out, for example, that making pesticides costlier would
+discourage the present practise of routine preventive or “insurance” spraying,
+and provide incentives to farmers to spray only when the pests are up to an
+“economic threshold”. Regulation to achieve the same end would be much
+more difficult (Hall and Duncan, 1984). Economists would point out that
+inhibition rather than prohibition is compatible with Integrated Pest Manage-
+ment (IPM), the optimizing solution.
+
+This is the traditional theory; it is arguable (Headley and Lewis, 1967). We
+can inhibit nonpoint pollution, in some ways optimally, by controlling sur-
+rogates. But let’s look at the problems that would remain.
+
+1. Taxes overlook the locational element, whereas damages vary according
+to the site of the runoff. A tax imposed only in critical areas is avoidable by
+importing the input from tax-free zones. We could tax uniformly everywhere;
+136 Mason Gaffney
+
+but a uniform tax on, say, nitrogen fertilizer would, in order to protect certain
+waters, reduce yields from all lands. Presently that would pull more acres into
+use, worsening other problems.
+
+2. Taxes raise revenue, and recipients develop interests in the revenue,
+interests which may come to override the regulatory purpose of the tax. For
+instance, the main issue of 19th century tariff debates was regulation versus
+revenue.
+
+3. Excise taxes are not leakproof. The volume of bootleg cigarettes should
+give us pause, and I (a small fruit grower) have been tempted more than once
+with illicit supplies of the herbicide Roundup. There is a huge underground
+economy in this country.
+
+There is a grand tradition of bailing out sellers with stocks on hand whena
+product is taxed or banned. Chlordane is a recent example. Dairy producers
+have been compensated when they could not sell their pesticide-contaminated
+milk (Carlson, 1977, p.319). To sell existing stocks tax free, when new ones are
+banned or taxed, creates a nice windfall. The 1972 Federal Pesticide Act also
+“provides for compensation to holders of patents on pesticides when registra-
+tion removal occurs” (Carlson, p. 319). The problem is that this whets the
+appetite for future windfalls. It is something like a treadmill where a perverse
+incentive is created to develop new harmful products whose future prohibition
+or taxation will endow the creator with more windfalls. There are more than
+50,000 agricultural pesticides registered in the U.S. (Gianessi, 1987, p. 1), giving
+a notion of the possibilities. This is a second kind of “pesticide treadmill”.
+
+It has been optimistically noted that herbicides are becoming more specific,
+tailored to certain crop problems (Nicol and Heady, 1977, p.339), but many such
+chemicals, such as Roundup, are anything but that.
+
+4, A tax on nitrogen could be avoided by growing legumes. This is not abad
+idea, perhaps, but it just scratches the surface of the kinds of substitution, some
+of it unpredictable, that can occur when you tax a surrogate rather than the
+damaging effluent itself.
+
+5. Taxing a surrogate fails to distinguish among individual applicators. It
+taxes the best for the sins of the worst, and credits the worst for the virtues of the
+best. Even if the rate be set optimally, it will overtax the good and undertax the
+bad, and will not motivate anyone towards greater care and conscience to avoid
+harmful practices (Hall and Norgaard, 1973).
+JBA, Vol. 18 - No. 1 and 2, 1988/89 137
+
+6. The objectivity and moral authority of the professionals on whom we
+must rely to evaluate pesticides is not unquestioned. This is a delicate area, but
+we must face a certain public skepticism. The University of California recently
+
+lost a case in which they were accused by California Agrarian Action Project, and
+
+convicted in Alameda County Superior Court, November 17, 1987,"of violating
+the Hatch Act by favoring agribusiness over family farmers, What would happen
+if their objectivity were questioned on the grounds that they accept large, di-
+rected grants from the same pesticide producers who bankrolled the fight
+against California Proposition 65, the Anti-Toxics Initiative of 1986 (Jacobs,
+
+1986)?
+
+U.C. Entomology Professor Robert van den Bosch has referred to the
+dominance of what he called “the pesticide mafia”. His Pesticide Conspiracy
+(1978), although tendentious, cites enough specifics to impugn several adminis-
+trators, other universities, the USDA, many congressmen, bankers and food
+processors, farm employers, most producers, salesmen and lobbyists. It is not a
+reassuring picture. Moral authority or not, there are questions of efficiency and
+expedition. The mills of the EPA may or may not grind exceeding fine, but they
+certainly grind exceedingly slowly. Since 1972, EPA has arrived at suspending
+only 79 active ingredients. Most of its “reregistration” reviews are still in some
+interim stage (Gianessi, 1987, p.3). Since industry advances new chemicals
+much faster than EPA reviews them, the inventory of pending reviews can only
+grow.
+
+7. The case for “proper pricing of inputs” is most persuasive when we can
+show that everything else in the system is working right first, as the optimal back-
+ground we are to avoid distorting. But that is conspicuously untrue. When the
+system is balanced wrong anyway, what is one more distortion? It might even
+make things better, a viewpoint labelled “the theory of second best” (Lipsey and
+Lancaster, 1956-7).
+
+In fact, land use decisions are superimposed on a settlement pattern based
+on massive market failure in land. The phenomena rather imprecisely called
+“land speculation” and “absentee ownership” betray market failure; and noone
+disputes there is massive regulatory failure in pricing and subsidizing transpor-
+tation which, in turn, determines land rents and values. The result is that the land
+market is not efficient; land is not properly priced and allocated to begin with.
+This is the thread I will follow.
+
+(vevused mu
+vee uk, 1/64)
+138 Mason Gaffney
+
+Sources of Nonpoint Pollution
+
+All pollution is originally “nonpoint”. It only becomes “point” pollution
+when someone has taken the trouble of gathering it at a small orifice in order to
+control it, often for the benefit of others. If we then tax point polluters while
+exempting nonpoint, we will impair the incentive to control, That of course is
+why we consider taxing surrogates. Taxing and banning surrogates has a place,
+perhaps a big place, in any control program. But it may not touch many sources
+of nonpoint pollution. Let’s list them here; see what damage they do (next
+section); and then see what remains unsolved by taxing and banning surrogates.
+
+Major sources of nonpoint pollution include: agriculture, forestry, mining,
+a few kinds of recreation, paving and rooftops, roads, lawns and gardens, onsite
+industrial waste dumps, and the military. To these I would add the class of
+moving point sources, like autos and vessels and aircraft, which have part of the
+elusive character of nonpoint sources. I would also add septic tanks, and
+moonlight dumpers and everything served by a storm sewer, or no sewer at all.
+
+“Construction” is usually added, but construction per se is innocent and
+should not bear the onus. It is rather grading, the destruction that precedes
+construction on new lands, that denudes land and allows runoff and blowing.
+Filling can be noxious, too, when it takes wetlands that otherwise help filter
+runoff before it hits shellfish beds and beaches.
+
+So nice a distinction may seem picky, but it is heavy with policy meaning. The
+Sears Tower and the Empire State Building probably caused less runoff than any
+modern subdivision. We can have needed construction without grading and
+filling by renewing and infilling our cities instead of promoting more urban
+sprawl. Milwaukee, for example, has lost 20% of its population since 1960, while
+its suburban counties grow. Inside Milwaukee itself, population has moved
+toward the borders while old Milwaukee decays. Buildings are boarded up and
+land lies vacant while bulldozers and scrapers tear up new land upstream of it.
+Perhaps a fourth of Milwaukee should be renewed forthwith, obviating much of
+the random lateral expansion onto new land whose runoff now causes so much
+grief (Gaffney, 1970). -
+
+Within agriculture it is common to hear that tillage is the problem; the
+solution, evidently, is grazing. On some lands that is true, but the generalization
+is not. On other more fragile lands, grazing causes runoff. Not for nothing are
+sheep called “woolly maggots”. Exploitive high-grading grazing, leaving weeds
+to take over the range, is another form of pollution -- biological pollution,
+JBA, Vol. 18 - No. 1 and 2, 1988/89 139
+
+depleting the gene pool. As with all land problems, “where” and “when” are as
+important as “what”. “A place for everything, and everything in its place”, the
+slogan of land economics, is the proper watchword.
+
+We sometimes hear that good organic manure is the answer. But on
+feedlots, too much of a good thing becomes a nonpoint pollutant. Cities in the
+upper Santa Ana River basin in California must provide tertiary sewage treat-
+ment, but the largest concentration of dairy cattle in the world, in the Chino ba-
+sin, drains into the same waters. (Chino, ironically, is in an agricultural preserve,
+virtually tax-exempt, to enhance the environment.) These feedlots also overlie
+what might be one of our most usable aquifers, in a region in sorest need of water
+storage.
+
+Cities like Milwaukee are painted as victims of nonpoint pollution, but
+within cities the great anomaly is that the output of sanitary sewers is monitored
+and treated while that of storm sewers is not. In downtown Milwaukee you can
+see coal and salt stored in the open, draining directly into the harbor with each
+rain.
+
+In Riverside, California, lying along the upper Santa Ana River, sanitary
+sewage water gets tertiary treatment, making it drinkable straight from the
+plant. It is our storm runoff that’s dirty. Some cities of course have only one set
+of sewers, but that creates problems of its own. In Riverside we have also
+poisoned many of our own water wells with toxic percolation from farm and
+industry wastes.
+
+What Problems are Created?
+
+If the old problems of biochemical oxygen demand (BOD), bacteria,
+nitrogen, sedimentation and phosphates are partially mitigated, new ones are
+upon us: toxic metals, new pesticides, ammonia, and organic supertoxins
+(Harkin, 1985, p. K-II-4). Salt accumulation is almost irreversible, and BOD, al-
+though perhaps mitigated inland, is still lethally high in Long Island Sound and
+Chesapeake Bay (Business Week, October, 1987).
+
+Damage is affected by reconcentration. Beneficial concentration of runoffs
+in dumps, to minimize damage, is inherently unlikely. Much of the damage does
+come from reconcentration of toxics in waterways and fats, but the damage is not
+restricted to riparian owners or fish and other biota since water supplies for large
+downstream cities depend on river waters, Cities can treat polluted waters, of
+course, but at considerable cost, and substantially reduced consumer satisfac-
+140 Mason Gaffney
+
+tion with the product. The last often leads to extremely high-cost projects to
+import remote, pure waters.
+
+Sediment silts up harbors. To handle this problem we first need recognize
+that we have too many harbors as a result of logrolling in Congress and the
+activities of the Army Corps of Engineers. Rivers and harbors are the classic
+porkbarrel vehicle of Congress. Wisconsin alone may have as many harbors as
+the whole Pacific Coast. Part of any solution here is to stop subsidizing dredging.
+Subeconomic harbors would close; others would finance their own dredging,
+with this bonus for the welfare of all: they would redirect their lobbying budgets
+from the zero-sum game of soliciting federal funds to the constructive game of
+promoting runoff control.
+
+Sediment also silts up reservoirs; and again we have too many, thanks to a
+long history of subsidizing water supply in western states. Of course there are
+many good and useful dams, and real waste in losing reservoir capacity and
+abrading turbines. But in the logic of true values we should probably put even
+more weight on other damages, such as that land and people are poisoned, and
+beauty made ugly. Species are destroyed or constricted, leaving the natural
+world to surviving coyotes, crows and carp. High-grading the forests leaves weed
+trees to inherit the earth, a form of genetic pollution.
+
+It is the shame of economists that some of them make the world equate
+economist with “materialist”. Economics properly deals with how to meet
+human desires; staying alive in a healthy, pleasing environment ranks high
+among those. Even an economist can read Aldo Leopold (1949), who makes a
+certain amount of sense from which micro theory might benefit.
+
+In macroeconomic theory, the received view isthat raising GNP is prerequi-
+site to providing necessary resources to pay for cleaning the environment. But
+GNP is too gross a measure, and pollution is a systemic problem (Commoner,
+1971). Even today, national income accountants have still not modified their
+definition of GNP at all, after decades of informed, sophisticated criticism from
+environmental economists.
+
+Several writers treat salt runoff lightly. It may be of small concern in parts
+of the Midwest, but it is of monumental moment in the arid west. Downstream
+water becomes unusable, and water pooling and exchanging, from which so
+many economies could result, become much harder to negotiate. While we can’t
+blame Washington for everything, much salt runoff comes from Federally
+subsidized water. Kesterson Refuge is poisoned by runoff from the Westlands
+JBA, Vol. 18 - No. 1 and 2, 1988/89 141
+
+Water District, irrigated under heavy Federal subsidy from the Central Valley
+Project (in spite of its long violation of acreage limitation provisions of the
+Reclamation Act). The worst problem on the Colorado is salt runoff from the
+Wellton-Mohawk project, near Yuma, a subeconomic project from start to
+finish. All extant Colorado River salt problems are now aggravated by the
+subsidized Central Arizona Project.
+
+Other salt problems come via underground water. Irrigation water applied
+upstream percolates underground and resurfaces at lower elevations, evapo-
+rates and leaves salt residues, sterilizing certain lands (e.g., below the Fresno
+Irrigation District), But more ominous, aquifers themselves are impaired, and
+maybe destroyed forever. Americans have yet to hear this alarm bell, and take
+a frighteningly insouciant attitude toward groundwater.
+
+A common view is that pesticides hurt us only by being concentrated via the
+food chain (Nicol and Heady, p.335). But in southern California, many aquifers
+are being impaired, perhaps lost forever by “downward runoff” or percolation
+of water laced with toxics. I wish I could report this has made the western states
+more conscious of the problem than easterners. The Metropolitan Water
+District of Southern California (MWDSC), the apex of our water establishment,
+which should be leading a militant defense of our aquifers’ integrity, isn’t.
+
+Damage to lakes and impairment of riparian values is notorious and needs
+no laboring here. We see some progress in protecting inland lakes, but now the
+oceans themselves are threatened. There is worsening damage to salt-water
+estuaries, gulfs, bays, and wetlands. Shellfish and finfish supplies are diminished
+and contaminated; beaches arc littered; swimming is restricted; riparian ameni-
+ties are impaired.
+
+Urban invasion of coastal wetlands is one aspect of the problem. Wetlands
+have served as filters protecting the ocean: urbanize them and more raw sewage
+reaches the ocean. Here again the culprit is not “construction” as such, it is
+filling. Cuts in the hills increase runoff; fills in the wetlands reduce filtering. The
+combined effect creates a serious problem.
+
+Wind drift is an episodic problem. Where there are windless days, it is
+controllable except for mindless operators. It only takes one human error, and
+in Hemet, California, in 1974, 2500 ducks were wind-drifted to death. Bees are
+routinely lost in large numbers. In Hawaii or Wyoming, lacking many windless
+days, one wonders about the extent ofthe problem. Wind erosion from bare land
+is something else. Land laid bare stays bare in all weather.
+142
+
+Mason Gaffney
+
+Insects fly across property lines, wind or no. Nonpoint entomological
+pollution is a by-product of the pesticide treadmill. The biocide-by-pesticide of
+natural predators, followed by exploding populations of previously minor pests,
+has turned oversprayed fields into baneful insectaries spawning new problems
+that cross property lines.
+
+What Sources and Problems are Untouched by Excise Taxes on Surrogates?
+
+Summarizing from the two prior sections, here is a list of nonpoint sources and
+problems calling for solutions other than taxes on surrogates.
+
+g)
+
+h)
+
+i)
+i)
+k)
+
+1)
+
+Soil runoff, a problem in itself and a vector for adsorptive pollutants
+Denuded forest land
+Forest roads
+
+Mining: pit drainage, heap-leaching, drilling fluids, tank cleaning, oil
+spills
+
+Open storage of materials: coal and salt in Milwaukee; sulfur in Van-
+couver and Texas; etc.
+
+Return flow of irrigation water, with salts and toxics
+
+Inappropriate tillage: non-contour, steep land, erosive soils, eroding
+climates
+
+Inappropriate grazing: overgrazing, high-grading the herbage, steep
+land, compacting the soil, etc.
+
+Dumping of all kinds
+Septic tanks and cesspools
+Leaking gasoline tanks
+
+Land-grading: destructive scalping techniques in inappropriate places
+
+m) Filling wetlands
+JBA, Vol. 18 - No. 1 and 2, 1988/89 143
+
+n) Flooding, channel-scouring, etc.
+
+0) Transportation of all kinds: a long subcatalogue
+
+p) Animal waste
+
+q) Industrial waste from unsewered areas
+
+r) Paved lands and rooftops
+
+s) Burned-over land: forest, brush, grass
+
+t) Hyperpotent toxics and hypervulnerable individuals
+
+u) Aquifer loss
+
+v) Irreversible human damage and loss
+
+w) Worker exposure
+
+x) Nursing new pests due to predator destruction
+The Case of Forestry
+
+The inadequacy of surrogate pollution taxation is exemplified by forestry.
+The main purposes of watershed protection have long been to regulate water
+flows, to reduce flooding and erosion, and sustain flows during droughts.
+Minimizing pesticide runoff is a worthy additional purpose, but not the sole one.
+
+Denuded land is the source of most forest runoff problems. Erosion results
+from a combination of logging roads (too many, too long, on land too steep);
+clearcutting; and slow replanting.
+
+Slow replanting is the central problem. It slows the supply of second-growth
+timber, and thus creates pressure to invade submarginal areas. Foresters should
+harvest the low, flat, warm lands early and often because: (a) regeneration is
+economical there, it pays for itself where trees grow fast; (b) regeneration is
+fastest there, minimizing the exposure period of bare land; (c) logging roads may
+be shorter and less erosive there, because theyare nearer to markets and on level
+
+land; (d) the temporary loss of scenic beauty is less severe; (e) the exposed bare
+land is less steep, (f) logging is cheaper and less destructive; selective logging is
+144 Mason Gaffney
+
+more feasible; (g) fire control is easier; and (h) younger stands are more
+vigorous and naturally resistant to pests.
+
+The last point bears underscoring here. It points to how good forest man-
+agement can minimize pest damage without heavy reliance on toxics. The spruce
+budworm, for example, wreaks damage mainly on trees weakened by age. To
+protect those older trees, whole forests, millions of acres in the northeast are
+sprayed, with tragic treadmill results. The tussock-moth, over which so much
+organochlorine has been shed in the fir forests, damages trees mainly on poor
+growing sites. Trees on good sites withstand defoliation, green up, and grow with
+renewed vigor. The moral: stay off the poor sites. The method: utilize the good
+sites fully. Why aren’t the good sites harvested early, replanted quickly, and
+utilized fully? One major reason lies in the tax system.
+
+1, Replanting cost is not expensable for income tax, it must be capitalized,
+hence not written off until decades later when timber is harvested. The timber
+lobbies have deliberately traded this off to keep what they prize more, the capital
+gains treatment of timber sales.
+
+2. Most states have substituted the yield tax for the property tax. The result
+is a bias against early harvesting. When you look at the whole system it also
+pushes cutting pressure out to marginal lands, But a yield tax at a high rate wholly
+destroys any incentive to restock marginal lands, once cut: it makes them
+subeconomic to replant.
+
+3. Some states have virtually eliminated the land value part of the property
+tax on timber, removing an incentive to early reforestation. A tax based on land
+value continues at a steady level during the sterile downtime of land between
+harvest and replanting, thus pricking holders in the most compelling way to
+restock, while not taxing them at all for actually restocking. On marginal land the
+tax base is zero (it being based on land value) so it does not cause abandonment,
+nor make replanting any less economic than it already,is. .
+
+rr 1996, Usd will be-aper’s -
+
+4. When timber is standing, the value added by growth is partly unrecog-
+nized as taxable income. Timber has been a “capital asset” for income tax
+purposes since 1944 Not only is much of the gain unrecognized as income, but
+any tax is deferred until harvest. After timber is felled, value-added in the mills
+and markets is “ordinary” income and bears the full brunt of the tax rates.
+
+When timber is standing there is no property tax, so it need only grow fast
+enough to pay interest on its value. After it is cut, it must yield a rate of return
+JBA, Vol. 18 - No. 1 and 2, 1988/89 145
+
+high enough to cover a property tax, too, not just on its stumpage value, but also
+on the value-added by harvesting, hauling, milling, shipping, storing, merchan-
+dising, and constructing (Gaffney, 1980).
+
+Thus the dual result of income and property taxes is to defer harvest,
+increasing the volume of old, disease-prone timber standing on good land, and
+pushing logging pressure out to marginal lands. Many marginal lands are non-
+regencrable. Logging there is simply mining, leaving the terrain denuded and
+open to the elements indefinitely.
+
+Forestry on public lands, ironically, manifests similar biases, from a differ-
+ent set of incentives. William Hyde (1980), Marion Clawson (1976) and others
+have documented the pattern: undermanagement of superior sites accompanied
+by premature invasion of steep, remote sites as the Forest Service internalizes
+all its profits from timber sales to build more roads.
+
+An optimal solution would constructively combine and synthesize two
+apparently contrary concepts of land stewardship:
+
+Thesis: Concept A says “Conserve for the future.”
+
+Antithesis: Concept B says “Stewardship means highest and best use.” Land-
+holders are responsible to use land now, in order to employ others (generate
+incomes), to produce goods (combat inflation), and pay taxes (avoid deficits).
+
+Synthesis: Concept AB says “do both, but in different places.” Use the good
+lands intensively, grow timber early and often, thus relieve human pressure and
+help conserve the vulnerable, erosive lands.
+
+Until this is done, will optimal taxes on aerial sprays do much good? Some
+good, no doubt. But the main problems are deeper rooted and call for bolder
+measures, That is my basic message. Forestry suffers from cutting sprawl, quite
+analogous to urban sprawl. The center is neglected, so the action moves to
+submarginal fringes and damages what’s left of the center. Let us now look at two
+more cases, urban sprawl itself, and agricultural sprawl, where the source of
+problems is analogous, and the implied solutions the same.
+
+The Case of Urban Settlement
+
+The central problem here is urban sprawl; the solution is compactness.
+More land urbanized means more urban runoff. But more people on given land
+146 Mason Gaffney
+
+may even mean less runoff per acre, €.g., at the threshold where sewering can
+economically replace a collection of septic tanks and leach lines. It certainly
+means less runoff per capita. It means better control of any given runoff.
+
+A compact, synergistic city is resource-saving; sprawl is resource-wasting,
+using up more land, capital, materials, fuels, and air/water quality to substitute
+for direct human contacts and cooperation. Here are some items that sprawl
+maximizes of worsens:
+
+(a) the number of car-miles for any given level of urban linkage, with smog
+generated in proportion.
+
+(b) paved areas, with salt and roadside litter both spread in proportion.
+
+(c) sudden death, Auto accidents, the ultimate “negative externality”, kill
+some 40,000 Americans per year, and maim many times more.
+
+(d) the grading and denuding of new lands, generally upstream and more
+sloping, Three-quarters of the pollutant loadings in Wisconsin’s Menom-
+inee River come from urban non-point sources. Developing urban
+areas cover only 2.6% of the watershed, but contribute 37% of the
+suspended solids and 48% of the phosphorous (Bauman et al. 1980,
+cited in Falk, 1985, p. P-II-B-2).
+
+(ce) an increased number of homes on septic tanks.
+
+(f) the diversion of sewer funds from treating sewage to collecting it.
+
+(g) larger lots and lawns, longer driveways.
+
+(h) inhabited areas without good fire protection, with more grass and
+brush exposed to humans. To protect dwellings in emergencies, bull-
+dozing fire lines goes to extremes which do worse damage than fire
+itself (Pavicic, 1987).
+
+(i) private wells puncturing aquifer caps.
+
+(j)_ settlement and industry beyond gutters and storm drains.
+
+(k) the withering of mass transit.
+JUBA, Vol. 18 - No. 1 and 2, 1988/89 147
+
+(1) longer, wider utility rights-of-way, with higher voltage and pressure and
+hazard.
+
+(m) the filling of wetlands.
+
+(n) occupying floodplains, so more flood control reservoirs are needed.
+
+Automobile dependency also creates its own treadmill effect. The car itself
+is the major consumer of urban space; space which must in turn be traversed,
+using still more car-miles. Mass transit withers away. The market does not lead
+us to optimal outcomes in such a world.
+
+Suburbs abate their own problems at the expense of central cities, e.g., by
+getting sewers they could not pay for themselves. Milwaukee Metropolitan is as
+good an example as any. Systemwide that is a dubious gain, when the central
+infrastructure goes to ruins. The titles ofsome seminal works on this subject tell
+the story quite well: America in Ruins (Choate and Walters, 1981); The Costs of
+Sprawl (Real Estate Research Corporation, 1974); “Cost-push of Urban Sprawl”
+(Schechter, 1961); and “The City as a Distorted Price System” (Thompson,
+1968). Solutions to urban sprawl will involve at least three courses:
+
+1. Marginal-cost pricing of city services, with a spatial or locational compo-
+nent. Examples include: a water-rate surcharge rising with pressure zones, and
+cheap city services in the center, encouraging infill and centralization.
+
+2. Renewal-oriented tax policy, especially in central cities. Renewal-ori-
+ented property taxation imposes higher tax rates on land than buildings (Breck-
+enfeld, 1983). Former Mayor Dan Hoan (1936, pp. 26-27) of Milwaukee favored
+this policy. Renewal-oriented property assessment accomplishes the same end
+by apportioning a higher share of assessed value to land, and less to buildings.
+During Hoan’s tenure, the City Assessor accomplished it by using the “building-
+residual” method of apportionment. He drew up, reproduced, and publicly
+distributed land value maps, on which every parcel was valued at its highest and
+best use, as determined by comparable sales in the neighborhood. This approach
+approximately triples the assessed value of land, as compared to current
+Milwaukee practice (Gaffney, 1970).
+
+3. Renewal-oriented spending and service policy. One guide to this is
+“tiered” zoning and planning, firm and consistent. Attorney Robert Freilich, the
+“father of growth control”, has shown how to make this work in Ramapo, New
+nen,
+
+va
+
+148 Mason Gaffney
+
+~
+‘
+
+’* - # Jersey; San Diego; and elsewhere. When Dan Hoan (1936, Chaps. 2, 8) was
+
+(-
+
+-’ Mayor of Milwaukee from 1916 to 1936, he oriented spending this way reflex-
+
+ively, to serve the existing city rather than to expand it. Milwaukee was a city that
+worked -- then.
+
+One may prefer other measures. More should be said about constraining
+the space demands of cars and trucks. But the point is that whatever measures
+one wants, they will have to cut much deeper than taxing pesticides and
+fertilizers. We are talking about major, radical readjustments of urban, tax and
+utility policies.
+
+The Case of Agriculture
+
+Farming manifests the same problem as forests and cities. Public policy
+suppresses full use of the best lands while subsidizing use and abuse of marginal
+lands. As we said of urban sprawl, the more land in use, the more runoff. Here
+are some elements that cause “agricultural sprawl”.
+
+1. Urban sprawl takes the best land out of farming. Cities deserve the best
+land and get it, but urban sprawl inflates urban demand several times over. In the
+best light, the demand is premature. Much of it is just wrong, now and forever.
+Shock waves from exploding cities fan out through the entire hierarchy of farm
+land uses. At each margin of supersession there is a transfer of chaos plus an
+increment. Citrus invades deciduous, deciduous sprawls out among vines and
+vegetables, these move into cotton, cotton pushes on alfalfa which displaces
+small grains which take over pasture which invades the forests and, at each
+margin, there is a new contribution of sprawl, chaos or entropy, a loss of
+concentration and focus and good economic spatial organization of farm
+activities.
+
+2. Land retirement programs, under whatever label (there’s been a new
+variation on the theme every few years since 1933) put good land on ice to
+support prices. Under the resulting “price umbrella”, marginal land enters
+production. This is classic cartel behavior: a classic not of genius but of folly.
+
+3. Surpluses are destroyed at home, or dumped (sold below cost) abroad,
+under Federal subsidy.
+
+4. Some crops associated with high erosion receive strong support or pro-
+tection: wheat, corn, cotton and sugarbeets, for example.
+JBA, Vol. 18- No. 1 and 2, 1988/89 149
+
+5. SCS funds are not allocated by need, but per Senator. Aldo Leopold
+(1949, p. 210) observed of SCS, “In our attempt to make conservation easy, we
+have made it trivial”. It is worse: we have made it a pork barrel, like rivers and
+harbors. So instead of cover-cropping problem lands, we use SCS funds on lands
+that scarcely need them, reducing their output and increasing the pressure to till
+marginal lands. .
+
+6. We raise a farmer’s property tax assessment for installing a truly conserv-
+ing device like a Harvestore which turns hay into silage. The other farmer who
+stores corn silage in an open bunker pays few taxes while losing 1/3 to 1/2 of the
+product of an erosive culture. Corn also leads all crops by far in dependence on
+pesticides (Gianessi, 1987, p. 3). Six of the seven leading active ingredients used
+in farm pesticides are devoted mainly to field corn, these being alachlor,
+atrazine, butylate, metolachlor, trifluralin, and cyanazine.
+
+Meantime we subsidize new and submarginal lands in dozens of ways. But
+on the farm as in the city, the more land, the more runoff. I have already cited
+the federal government’s responsibility for the Westlands Water District drain-
+ing into Kesterson Refuge, and the Wellton- Mohawk Project draining into the
+Colorado River. The State of California is as bad. The whole arid southwest
+quarter of the Great Central Valley is being brought into cultivation using
+subsidized water from the California Water Project’s Westside Canal. Promot-
+ers there have discovered another treadmill effect, the “groundwater treadmill”
+of local-depletion-and-state-rescue. But salt runoff has reached such a level that
+the next rescue requirement will be a “brine line” to the sea, if a receptive coast
+county can be found for the outfall.
+
+South of the Tehachapis, the Metropolitan Water District of Southern
+California (MWD) frightened city voters with drought forecasts (Kahrl, 1982),
+secured entitlements to excess water, and dumped it on surrounding deserts, en-
+riching land speculators who, while waiting for urban sprawl to reach them, farm
+with the mindset of short-term tenants, caring nothing for soil conservation or
+permanent farm improvements. MWD is now watering an “avocado crescent”
+200 miles north-south, with groves on slopes up to 45 degrees.
+
+Will pesticide taxation control those problem? It would certainly help.
+What inflates farm acreage also inflates demand for chemicals; and agricultural
+chemo-therapy is less rewarding to buyer and seller, both, when chemicals pay
+more tax. But in the whole picture, toxic runoffis just one of several reasons why
+we must face up toradical review of our political-economic treadmills, driven as
+they are by what Time Magazine has called “The Great American System of
+Public Works for Private Profit.”
+150 Mason Gaffney
+
+The Common Theme from Forest, City and Farm
+
+Market failure, public programs, and perverse incentives in the land market
+create a gross bias towards spreading out too much. This aggravates otherwise
+fairly tractable runoff problems. The more denuded land, the more runoff.
+
+This perversion does not occur by accident. Spread and sprawl in forestry,
+cities and agriculture are common results of the dominant force driving Ameri-
+can politics, the quest for unearned increments to land value, Thorstein Veblen
+(1923, pp. 138-40) in his final testament, Absentee Ownership, noted that
+American farmers:
+
+..- have always, ... wanted something more than their ... share of the
+soil; not because they were driven by a felt need of doing more than their
+fair share of work ..., but with a view to... getting a little something
+for nothing in allowing their holdings to be turned to account.
+
+Rising population is one factor pushing up land values, but not the strongest.
+Increased demand per capita is the main factor. These demands include all the
+spurious demands described above, like the demand of government for land to
+“bank” and hold idle, and the demand of speculators “with a view to getting a
+
+little something for nothing”.
+
+Veblen went on to say that farm technology adapts to the Procrustean bed
+of absentee ownership. Rather than leading, technology lags changes in land-
+holdings wrought by rural speculative investors. Thus it is not “society” or
+“efficiency” alone that mandate monocultural chemical farming, but also the
+peculiar needs of absentee speculators holding more land than they can work
+themselves or with their families. Logic of, by, and for this minority is set up as
+logic for all.
+
+Solutions
+
+The solution is land stewardship, a new-old ethic to supplant the cowboy
+ethic in which western man has wallowed over several centuries of territorial
+expansion. To reprise from the section on forestry, we must synthesize two
+concepts of land stewardship. Concept A says “save for the future”; Concept B
+says put land to full use right now, to serve and employ people. Concept AB says
+do both, but each in the right place. Use the good land, use it well and fully,
+employ the workers, serve everyone’s needs. Congregate and cooperate on
+JBA, Vol. 18 - No. 1 and 2, 1988/89 151
+
+central, low, flat, fertile ground, as efficient markets and efficient public policies
+would dictate anyway. Leave the marginal land in peace.
+
+Effective stewardship is not easy or trivial. Excise taxes have their place,
+true, but the problems at hand are much vaster and deeper than little measures
+reach. Solutions call for basic reconstruction and reorientation more drastic
+than most of us usually contemplate. But let’s try: it might even be fun. Dan Hoan
+had fun making Milwaukee work; he is as good a model as we need.
+
+REFERENCES
+
+Bauman, J., A. Domanik, and J. Konrad, (1980) “Nonpoint Source Pollution in
+Urban Areas,” Seminar on Water Quality Management Trade-offs, US.
+EPA, pp. 309-22.
+
+Breckenfeld, Gurney, (1983) “Higher Taxes that Promote Development,”
+Fortune Magazine (reprint, unpaged), August 8.
+
+Callies, David L., and Robert H. Freilich, (1986) Cases and Materials on Land
+Use, West Publishing Company, St. Paul.
+
+Carlson, Gerald A., (1977) “Economic Incentives for Pesticide Pollution Con-
+trol,” In James B. Stephenson (ed.), The Practical Application of Economic
+Incentives to the Control of Pollution: the Case of British Columbia, Univer-
+sity of British Columbia Press, Vancouver, pp. 319-32.
+
+Choate, Pat and Susan Walter, (1981) America in Ruins, Council of State
+Planning Agencies, Washington D.C.
+
+Clawson, Marion, (1976) “The National Forests,” Science, 191, February 20, pp.
+762-67.
+
+Clawson, Marion, (1976) The Economics of National Forest Management,
+Resources for the Future, Washington, D.C., June.
+
+Coase, Ronald H., (1960) “The Problem of Social Cost,” Journal of Law and
+Economics, 3, October, pp. 1-44.
+
+Commoner, Barry, (1971) The Closing Circle, AA. Knopf, New York.
+152 , Mason Gaffney
+
+Dales, J.H., (1968) Pollution, Property and Prices, University of Toronto Press,
+Toronto.
+
+Falk, Kathleen M., (1985) “Urban Wisconsin Should Join the Fight Against
+Nonpoint Pollution,” in Proceedings of Non-point Pollution Abatement
+Symposium, Marquette University et al., Milwaukee, pp. P-II-B 1-4.
+
+Gaffney, Mason, (1962) “Land and Rent in Welfare Economics,” in Marion
+Clawson, Marshall Harris and Joseph Ackerman (eds.), Land Economics
+Research, The Johns Hopkins University Press, Baltimore, Chapter 8,
+pp.141-67.
+
+Gaffney, Mason, (1970) “Adequacy of Land as a Tax Base,” in Daniel Holland
+(ed.), The Assessment of Land Value, The University of Wisconsin Press,
+Madison, pp. 157-212.
+
+Gaffney, Mason, (1980) “Alternative Ways of Taxing Forests,” in Will Knedlick
+(ed.), State Taxation of Forest and Land Resources, Lincoln Institute of Land
+Policy, Cambridge, pp. 5-16.
+
+Gianessi, Leonard P., (1987) “Lack of Data Stymies Informed Decision on Ag-
+ricultural Pesticides,” Resources, Resources for the Future, Washington,
+D.C., Fall, pp. 1-4.
+
+Greeley, Roger, (1983) The Best of Robert Ingersoll, Prometheus Books, Buffalo.
+
+Hall, Darwin, and Gregory Duncan, (1984) “Econometric Evaluation of New
+Technology with an Application to Integrated Pest Management,” Ameri-
+can Journal of Agricultural Economics, 66, pp. 624-33.
+
+Hall, Darwin, and Richard Norgaard, (1973) “On the Timing of Application of
+Pesticides,” American Journal of Agricultural Economics, 55, pp. 198-201.
+
+Harkin, John M., (1985) “Magnitude and Variety of Problems of Nonpoint
+Pollution from Agricultural Practices,” in Proceedings of Non-point Pollu-
+tion Abatement Symposium, Marquette University et al., Milwaukee, pp. K-
+Il, 1-10.
+
+Headley, J.C., and J.N. Lewis, (1967) The Pesticide Problem: an Economic Ap-
+proach to Public Policy, Resources for the Future, Washington, D.C.
+JUBA, Vol. 18 - No. 1 and 2, 1988/89 153
+
+Hoan, Daniel W., (1936) City Government, Harcourt, Brace & Co., New York.
+
+Hyde, William, (1980) Timber Supply, Land Allocation, and Economic Effi-
+ciency, Johns Hopkins University Press, Baltimore.
+
+Ingersoll, Robert G., (1987). Address, ca, 1890, cited in Intermountain Frontier,
+Spring. .
+
+Jacobs, Paul, (1986) “‘Foes of Toxic Measure Outspend Backers,” Los Angeles
+Times, October 8, p.3.
+
+Kahrl, William, (1981) Water and Power, University of California Press, Berkeley.
+
+Leopold, Aldo, (1949).A Sand County Almanac, Oxford University Press, New
+York.
+
+Lipsey, R.G., and K. Lancaster, (1956-7) “The General Theory of Second Best,”
+Review of Economic Studies, 24, pp. 11-32.
+
+Marshall, Ray, (1987) Unheard Voices, Basic Books, Inc., New York.
+
+Nicol, Kenneth, and Earl O. Heady, (1977) “Alternative Mechanisms for Con-
+trolling Non-point Sources of Water Pollution,” in James B. Stephenson
+(ed.), The Practical Application of Economic Incentives to the Control of
+Pollution: the Case of British Columbia, University of British Columbia
+Press, Vancouver, pp. 333-50.
+
+Pavicic, Sandy, (1987) “Scars of Palomar Fire Remain,” Press/Enterprise, Riv-
+erside, California, December 28, p. B-).
+
+Polakovic, Gary, (1987) “Proposed Tougher Smog Rules,” Press/Enterprise,
+Riverside, California, October 31, p.4.
+
+Powledge, Fred, (1984) “Dereg’s Deadly Diet,” The Nation, March 17, pp. 314-
+18. .
+
+Powledge, Fred, (1984) Fat of the Land, Simon and Schuster, N.Y.
+
+Real Estate Research Corporation, (1974) The Costs of Sprawl, U.S. Govern-
+ment Printing Office, Washington, D.C.
+154 Mason Gaffney
+
+Schechter, Henry, (1961) “Cost-push of Urban Sprawi,” Land Economics, Feb-
+ruary, pp. 18-31.
+
+Thompson, Wilbur, (1968) “The City as a Distorted Price System,” Psychology
+Today, Tl, pp. 28-33.
+
+van den Bosch, Robert, (1978) The Pesticide Conspiracy, Doubleday and Co.,
+Inc., Garden City, N.Y.
+
+Veblen, Thorstein, (1923) Absentee Ownership, B.W. Huebsch, Inc., New York.
+
+* ACKNOWLEDGEMENT
+
+An earlier version of this paper was delivered at a conference on “Political, In-
+stitutional and Fiscal Alternatives to Accelerate Nonpoint Pollution Programs,”
+Milwaukee, December 9, 1987.

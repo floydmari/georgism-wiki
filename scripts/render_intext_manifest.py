@@ -15,6 +15,10 @@ import collections, glob, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "scratchpad", "cache")
 
+PRUNED_DIR = os.environ.get("PRUNED_DIR", os.path.join(CACHE, "pruned"))
+OUT_MD = os.environ.get("MANIFEST_OUT",
+                        os.path.join(ROOT, "scratchpad", "intext-link-manifest.md"))
+
 raw = {a["slug"]: a for a in json.load(open(os.path.join(CACHE, "intext_manifest.json")))}
 # join on (slug, phrase) — NOT target — so dictionary fixes after a pruning run
 # (e.g. the Henry George person-vs-biography collision) re-map kept links to the
@@ -41,7 +45,7 @@ def _in_quotes(sentence, phrase):
 
 kept = collections.defaultdict(list)
 drops, dropwhy, anomalies, seen = 0, collections.Counter(), 0, set()
-for f in sorted(glob.glob(os.path.join(CACHE, "pruned", "chunk-*.json"))):
+for f in sorted(glob.glob(os.path.join(PRUNED_DIR, "chunk-*.json"))):
     for art in json.load(open(f)):
         slug = art["slug"]; seen.add(slug)
         for k in art.get("keep", []):
@@ -97,6 +101,6 @@ for slug in sorted(kept, key=lambda s: (pub(s), s), reverse=True):
         lines.append(f"  - context: …{c['sentence'][:220]}…")
     lines.append("")
 
-out = os.path.join(ROOT, "scratchpad", "intext-link-manifest.md")
+out = OUT_MD
 open(out, "w").write("\n".join(lines) + "\n")
 print(f"{nlinks} links / {narts} articles -> {out}")

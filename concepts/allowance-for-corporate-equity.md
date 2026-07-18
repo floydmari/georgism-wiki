@@ -178,7 +178,8 @@ since imf.org itself returns 403 to direct requests.)*
     OTA TP-5; Laura Power & Austin Frerick (2016), "Have Excess Returns to
     Corporations Been Increasing Over Time?" *National Tax Journal* / OTA WP
     111 — used for the supernormal-share estimates (63%; ~60→75%).
-    [Treasury](https://home.treasury.gov/system/files/131/wp-111.pdf)
+    [Treasury](https://home.treasury.gov/system/files/131/wp-111.pdf) ·
+    [archived](https://archive.progress.org/files/have-excess-returns-to-corporations-been-increasing-over-time-ota-wp-1.pdf)
 12. Clemens Fuest, Andreas Peichl & Sebastian Siegloch (2018), "Do Higher
     Corporate Taxes Reduce Wages? Micro Evidence from Germany," *American
     Economic Review* 108(2) — used for the rent-sharing incidence caveat.

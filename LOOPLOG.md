@@ -783,6 +783,32 @@ Option 1 confirmed already live in the theme (all 7 topic boxes verified renderi
 Standing maintenance: scripts/interlink_wave.py + docs/interlinking-maintenance.md —
 bulk review-gated waves for new articles; no publish-time auto-injection.
 
+## 2026-07-15 (later) — Option A SHIPPED: precompiled per-article wiki boxes, site-wide
+
+Floyd picked delivery (A): box HTML lives in each post's codeinjection_foot (metadata,
+never body). GLM-5.2 on Ollama Cloud curated all 608 articles against the full 801-page
+wiki catalog in context: 603 boxes (5 correctly off-topic). Theme PR #51 merged+deployed
+(runtime {{#get}} chain -> #wikiRelatedSlot + relocation script); legacy PR #15 closed.
+Incident caught & fixed same-day: nested markers in deliverable() stacked orphan script
+tails (4x/post) across sweeps — repaired fleet-wide (603/603 clean, verified live), and
+the relocation script now guards on an empty slot. Idempotency restored (absolute hrefs
+match Ghost's stored form). Routines created: daily 11:00 UTC (new/changed) and weekly
+Sun 12:00 UTC (full refresh + interlink wave prep). Option 2 fully deployed earlier today
+(966 in-text links); Option 3 v2 strict manifest (779 mappings/309 articles, GLM-5.2)
+awaits Floyd's review. Future: port Routines to Hermes webmaster agents.
+
+## 2026-07-15 (evening) — Entity-link delta wave (Floyd's 18.6-year spot-check)
+
+Root cause of missed names: the 2026-07-14 Haiku prune capped keeps at 6/article
+(197 genuine links discarded fleet-wide). Delta wave: rescan against live link state
+(794 remaining candidates), GLM-5.2 uncapped prune (drop only noise categories),
+Floyd-approved delta manifest (452 links / 163 articles), applied in three passes with
+two matcher upgrades (self-contained formatted runs; list items in both lexical and
+mobiledoc — reference-list author names). Result: +344 links across ~110 posts, 0 drift,
+0 errors. Remaining 108 unplaced = text already inside external links (correct skips)
++ cross-node splits (diminishing returns, logged). Entity links live: ~1,310 total.
+The 18.6-year article: 25 wiki links incl. Patel, Ryan-Collins, Gaffney, Gordon Brown,
+Toby Lloyd, Laurie Macfarlane. Standing rule: NO numeric caps in future prune prompts.
 ---
 ---
 
@@ -876,6 +902,1168 @@ advocates' own homestead numbers wired into the asset-rich-cash-poor objection's
 Commits fe0c8d8 · 5edd217. 827 pages; lint 0 errors; registry 1,098 rows. Next iteration:
 TIER-2 remainder by target page, then BACKLOG NOW lanes.
 
+## 2026-07-16 — Wave (session 2z2oww): VERIFY burn-down + BACKLOG reconciliation
+
+Floyd: "keep looping, find more useful things." Claimed the claim-lane enrichment wave;
+discovered 4 of 5 claimed items were finished-but-unrecorded (sprawl at 6/5 w/ correct
+challenged_by discipline; foldvary reply wired since wave 1; public-choice steelman +
+raley both live) — BACKLOG NOW/NEXT sections reconciled against the page inventory so
+future sessions stop re-planning shipped work. Real work of the wave: VERIFY burn-down,
+10 markers closed across 10 pages (queue 27 -> ~16): Carver 1921 primary verbatim-confirms
+Brown; CMHC HMA found DISCONTINUED (March 2022), page rescoped; GIS take-up quantified
+(ESDC/Imbeau 2018: 89.8%, ~240k seniors) sizing the universal-transfers objection response;
+Ontario CBC cap confirmed; BoC markups note confirmed by Faryaar et al 2023; C&C p.370
+verbatim; fernandez-milan authorship settled; giovannoni negative finding dated; lapavitsas
+honest downgrade (all channels walled); CIB provenance made exact. Registry +7 rows. lint
+0 errors, warnings 30->20. T3: atcor Sources annotated; BC SVT rates verified current.
+Coordination: udw74p's Slack lane + unmerged tail (forget/nyc/south-korea/split-rate)
+deliberately untouched. Queue regenerated post-wave; next wave candidates: P&P + WoN
+deepen-scans, WS-GEOISM financial-rents sweep, Life of Henry George read&mine.
+
+## 2026-07-16 (later) — Gaffney corpus lane, wave 1 (Floyd's directive: hosting permission)
+
+masongaffney.org inventoried (190 files: publications 87, workpapers 73, essays 30) into
+sources/gaffney-corpus-triage.md; tier-1 (9 works) mirrored to sources/gaffney/ + OCR'd
+(image-scanned PDFs; tesseract 200dpi, 72k words). READ&MINE, 8 new research pages:
+- cycles: gaffney-causes-of-downturns (1982 — the 15-yr precursor to Foldvary 1997,
+  ancestry wired) + gaffney-land-booms-destroy-capital (1993+2005 pair)
+- tax-shift: europes-fatal-affair-with-vat, full-employment-tax-reform,
+  excess-burden-shiftable-taxes (deadweight-loss gains an attributed-critique section,
+  carefully 'alongside not instead of' Harberger)
+- urban/resource: new-life-in-old-cities (9-city survey w/ Pittsburgh anomaly honestly
+  in counter-evidence), california-severance-tax (+ actual Prop 87 defeat added),
+  economics-of-abundance (D-claim polemic, labeled)
+Claim lanes enriched: land-speculation-causes-cycles, cycles-are-credit-not-land,
+lvt-can-replace-capital-taxes, taxing-land-raises-productivity, split-rate-increases-
+construction, speculative-vacancy-wastes-cities, resource-rent-capture-works (novel
+'capture lost, not never built' CA counter-example), tax-land-not-labor. All quotes
+PDF-verified; working-paper/essay register throughout; 4 deliberate [VERIFY] markers on
+second-hand claims. Coordination: nyc-1920s page untouched (udw74p's). Registry +9 rows
++ dated export. TIER 2 queued in the triage ledger. BLOCKED: Floyd's Notion priority
+list (needs Notion-key approval or paste) — cross-check tier-1 when available.
+Full-site preservation mirror: recommend R2 bucket (repo carries worked texts only).
+
+## 2026-07-16 (evening) — Gaffney wave 1 addendum: G44 + Notion cross-check + R2 staging
+
+Floyd's Notion priority list read (public-page API): 4/5 already covered; the gap —
+G-44 "The Philosophy of Public Finance" (Losses of Nations ch.7, 1998) — mirrored, OCR'd,
+research page shipped (organic-state theory, succession-premium base, formal ATCOR
+derivation, Milwaukee isovalic study wired to split-rate-increases-construction as a
+distinct data point). NOTABLE CORRECTION: the ATCOR acronym is first attested in this
+1998 chapter, not WP096 (2005) — dated correction notes on concepts/atcor.md and
+research/gaffney-atcor.md. tideman-plassmann backlog row annotated (book confirmed,
+its own chapter still unobtained). Full-site mirror staged: 193 files/52.5MB local with
+sha256 manifest (sources/gaffney-r2-manifest.csv); R2 upload BLOCKED on bucket access
+(vault token is bucket-scoped) — Floyd to name/create buckets. archive_sources_r2.py
+ready for the all-registry-PDFs preservation sweep (PRIVATE bucket; archive-not-serve
+for copyrighted sources). 839 pages, lint 0 errors.
+
+## 2026-07-16 (night) — archive.progress.org LIVE: full Gaffney mirror on R2
+
+Floyd created buckets + token; executed the runbook: 193/193 objects uploaded and
+size-verified to gaffney-archive; custom domain archive.progress.org attached via the
+expanded progress.org zone token and serving (spot-checked 4 URLs incl. space-encoded,
+byte-identical). All 12 Gaffney research pages now carry '[archived]' links beside the
+masongaffney.org originals; the 10 mirrored PDFs removed from the repo (OCR texts kept;
+sha256 manifest sources/gaffney-r2-manifest.csv is the record). Registry-wide PDF
+preservation sweep into PRIVATE wiki-source-archive running (resumable;
+sources/r2-archive-manifest.csv). Todoist task closed. Preservation posture: the corpus
+now survives masongaffney.org's death; public serving limited to permissioned material.
+
+## 2026-07-17 — License pass: 18 sources promoted to public archive, 16 wiki pages annotated
+
+Classification (192 archived PDFs): rules pass found 26 candidates; T1 pre-review caught
+substring/date false positives (treasury.govt.nz≠US, 'Canberra in Crisis' 1971, AJES 1971,
+IP-paper 'public domain' as content); Sonnet doc-level verification settled 18
+VERIFIED-PROMOTE / 7 HOLD / 1 already-public. Notable holds: Furman-Orszag (private
+co-author on .gov host), Katz Commission (SA state copyright), Hudson AJES (© 2008).
+Promoted set (server-side copy, size-verified): 6 US federal works, 7 CC-licensed
+(variants recorded), 3 pre-1931 PD, 2 PD-stated — served at archive.progress.org/files/
+with readable slugs; ledger sources/r2-public-files.csv. 16 wiki pages now carry
+[archived] fallback links (14 auto via registry mapping + 2 hand-matched). Private
+holdings stay private. Classifier .gov-final-label fix committed. Archive totals:
+193 gaffney/ + 18 files/ public; 192 private. lint 0 errors.
+
+## 2026-07-17 (cont.) — Wave: Gaffney tier-2 + link-health + archive retry
+
+Gaffney tier-2 (3 units, quotes PDF-verified): gaffney-two-centuries-land-taxation
+(K142, 1982 Lindholm&Lynn volume identified, registry row was mis-pointed/mis-dated —
+fixed; Walras/Wicksell marginalist-founders evidence wired into progress-and-poverty-
+outdated; Marshall 1909 into marshall-single-tax-objection; 13 people pages enriched);
+gaffney-alaska-oil-leasing (1977 pre-PFD design study, AVC proposal, Prudhoe Bay
+giveaway anchor -> resource-rent-capture 'design before the windfall' case);
+gaffney-land-market-distortions (WP041+WP042, honest wiring declines documented).
+Link-health: 16 registry 404s worked — 13 fixed (incl. wrong DOI, fabricated title
+variant caught against the actual PDF, truncated URLs), 1 waybacked, 2 genuinely dead
+(our monbiot article; the withdrawn Losses-of-Nations PDF — chapter citation precision
+gained: 'Taxed Out of Work and Wealth' pp.146-174; $7tn row stays open). Archive retry
+sweep: +62 preservation copies (254 archived total, 334+MB private). 842 pages, lint 0.
+Process note: git add -A swept one agent's in-flight edits into a sibling commit
+(verified correct, no damage) — explicit file lists are now the rule while agents run.
+
+## 2026-07-18 — Wave: P&P DEEPEN-SCAN COMPLETE (all 10 books) + Cherokee primaries + Cincinnati
+
+P&P full-text deepen-scan finished across three slices: 20 pages enriched with verbatim
+Book/Chapter-cited primary material, 0 new pages needed (coverage validated). Highlights:
+canons page now quotes George's actual per-canon application; cycles narrative quotes the
+Book V mechanism; transition-shock carries George's harder no-compensation line contrasted
+with modern phase-ins; wages-fund out of stub; T1 wired the Book IV 'rent would take
+everything' limiting case into taxing-tech-rents as the 145-yr AI-rents antecedent.
+Registry Scan Depth Medium->Heavy. Uncovered candidates logged (Spencer Social Statics,
+Book VIII ch.I, spurious capital, Book X ch.IV decline mechanism).
+Cherokee casino-dividend: primaries genuinely read (Akee 2010 full via PMC; 2018 via NBER
+WP; Costello 2003 abstract-only, honestly graded) — and a prior-session fabrication caught
+& corrected ('$6,000 by 2001' unconfirmable; 'fetched and read' overstated). 2018
+personality-trait effects added. Top needs-new-source item closed.
+Cincinnati queue scan: NDSPN report ingested (supplementary), queue item consumed;
+sources/wiki-queue.json established as canonical committed intake.
+843 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney timber/resource cluster + P&P follow-ups
+
+Three research pages (quotes PDF-verified): gaffney-financial-maturity-timber (1957
+NC State monograph — NOT Duke, NOT the dissertation, both corrected; tier Important on
+external evidence: 81 citations, Newman 2002 historiography beside Samuelson 1976);
+gaffney-forest-taxation (1977+1980 pair; site-value preference, 38%-equivalent yield-tax
+calc; Forest Service as $42B undercapitalized asset -> resource-rent-capture gains the
+renewable-resource institutional-failure case); gaffney-soil-depletion-land-rent (1965
+Natural Resources Journal, peer-reviewed — land-is-just-capital objection gains the
+fertility-depreciation response). P&P follow-ups earlier in wave: Spencer reversal with
+George's 1897 footnote; land-monopoly Book VIII ch.I; rentier 1879 antecedent; Rogers/
+Fawcett series; black-death<->Clark 2007 tie. Infra: B5 ampersand key broke the public
+mirror URL — re-uploaded ampersand-free, manifest updated, live 200. Gaffney corpus now
+15 research pages + person page; remaining tier-2 queued in triage ledger. lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: WoN Book III + needs-new-source forage trio
+
+WoN Book III: ch.IV mined (ch.II found already covered — correctly skipped); land-monopoly
++ book page (first Book III section, honest open question on commerce-vs-LVT) + adam-smith
++ highland-clearances (Smith's 1776 near-contemporary account). Jeffery-J.-Smith-vs-Adam
+citation trap caught. Forage trio: all three items RESOLVED — Letchworth and symmetry/
+decrement were already shipped (wave 4, ed8f40b) but BACKLOG never flipped; both
+independently re-verified against primaries (O'Sullivan BPJ 2017 verbatim; Letchworth
+2024 accounts figures exact; Hagman/Uthwatt anchors re-confirmed; the Hayek ch.22 lead
+DEBUNKED — it's monetary policy, not betterment). COST enriched with real Taiwan
+performance data (Lam & Tsui 1998 read in full: LVIT capture ~32% of assessed vs 40-100%
+statutory, Taipei 1979-93); Niou & Tan 1994 genuinely paywalled, logged for Hermes.
+needs-new-source channel now EMPTY. 846 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — READ&MINE: Life of Henry George (Henry George Jr., 1900)
+
+BACKLOG public-domain-texts NEXT TARGET. Pre-check confirmed the full text was already
+ingested (2026-07-09 wave: books/life-of-henry-george.md + sources/publicdomain/
+life-of-henry-george.md, Scan Depth Heavy) — this shift's job was the READ&MINE, not
+the ingest. Read strategically by chapter (Second Period Ch. III "flash of insight,"
+Ch. IX-X P&P composition; Third Period Ch. VIII 1886 campaign, Ch. IX Standard/
+Anti-Poverty Society/McGlynn excommunication, Ch. IV Loughrea-Athenry Irish arrests,
+Ch. XIV the 1897 death). Delta-mined into books/progress-and-poverty.md (new "How the
+Book Was Written" section — the First Street workroom, Dr. Taylor's role, the
+finishing-night quote, and the verbatim 1883 Dawson letter: "I flung myself on my
+knees and wept like a child"), people/henry-george.md (the teamster "flash of insight"
+quote + richer 1886/1897 political-career detail), events/1886-nyc-mayoral-election.md
+(Ivins "raise hell" exchange, exact vote totals 90,552/68,110/60,135, Cooper Union
+speech, Bunker Hill speech, Hewitt's letter — page was previously thin and lacked vote
+totals entirely), people/michael-davitt.md (corrected/enriched the Athenry note — it
+was actually two separate arrests, Loughrea then Athenry, with the Eton-master Joynes
+detail and George's own account). Three new sourced stubs for figures/events the
+biography showed were real gaps: people/edward-mcglynn.md (excommunicated ally,
+including the 1892 Satolli reinstatement — richer than expected, found in Ch. XIII),
+events/1897-nyc-mayoral-campaign.md (the fatal second run), organizations/
+anti-poverty-society.md. All quotes PD-exempt from the 50-word cap (pd_quotes: true
+added where flagged). registry.csv In-Wiki Citations for this source: 2→10; dated
+export regenerated (sources/exports/registry-export-2026-07-18.csv). BACKLOG line
+flipped to done. 849 pages, lint 0 errors, 30 warnings (unchanged by this wave — all
+new-page warnings resolved). No commit (per task instruction) — working tree has the
+changes.
+
+## 2026-07-18 (cont.) — Wave: VERIFY unclassified burn-down (queue 33 -> 22)
+
+9 resolved / 3 honest downgrades across 10 pages. Highlights: the 1960 CHPC report
+identified precisely (title, May 1960, Schalkenbach-funded, Rybeck preface — via OCR of
+the digitized primary); leduc-liu + Green-reanalysis publication upgrades (Green's
+published version argues the OPPOSITE causal reading of Mincome — added as honest
+nuance); August's REIT counts corroborated by StatCan CHSP land-registry data; Mintz-Chen
+Australia figure verified against the paper's own table; two never-published leads
+(Walks Part II; a land-specific efficiency-wage test) closed as SETTLED so nobody
+re-chases them. Remaining unclassified markers are all deliberate gaffney-* flags.
+MERGE NOTE: forget-mincome + nyc-1920s edits may conflict with udw74p's unmerged tail —
+normal git conflicts, both sides' edits are compatible in substance. 853 pages, lint 0.
+
+## 2026-07-18 (cont.) — Wave: Doucet ACX de-referencing + T3 cohesion
+
+Doucet Parts 1+3 fully de-referenced against the live essays: 50 scholarly citations
+enumerated, 33 already carried (the corpus has absorbed most of Doucet's evidence base
+across prior waves), 12 added as Referenced/Light (ONS Blue Book, Gloudemans-Almy IAAO
+textbook, ifo Grundsteuer study, both IAAO standards, Gaffney WP097, the six-country
+mass-appraisal case-study tail — one Doucet mis-date flagged), 5 rejected with reasons.
+Durable ledger: sources/doucet-acx-dereferencing.md — this task can never be re-done
+blind again. Page candidates queued: Gloudemans-Almy, the IAAO standards pair, a
+six-country mass-appraisal synthesis. T3 cohesion: 4 link-text fixes, terminology
+otherwise conformant; BC/Vancouver overlap reviewed at T1 — already compliant, no churn.
+853 pages, lint 0 errors. (Session-limit interruption mid-wave; recovered cleanly.)
+
+## 2026-07-18 (cont.) — Wave: WoN Book II + Book IV deepen-scan
+
+Smith's chapter-length engagement with the Physiocrats (Book IV Ch. IX) mined into
+concepts/physiocrats.md (Colbert-overcorrection origin, three-class restatement,
+five-point rebuttal of "barren and unproductive," the "with all its imperfections...
+nearest approximation to the truth" verdict, physician/"exact regimen" analogy +
+principle-of-preservation rebuttal, Mirabeau "three great inventions" tribute in
+Smith's primary rendering) and people/francois-quesnay.md ("very ingenious and
+profound author"). Book IV Ch. VII colonial land-engrossment natural experiment →
+concepts/land-monopoly.md (improve-or-forfeit colony law, quit-rent-on-alienation,
+"greatest obstruction to its improvement"). Book II Ch. V "work of Nature" second
+rent theory → concepts/economic-rent.md, flagged honestly as in tension with the
+Book I monopoly-price account. Zero-addition verdicts recorded: Turgot never named
+in WoN (full grep); Book II Ch. II banking read but NOT forced onto
+bank-money-creation (specie-displacement ≠ endogenous money); invisible-hand passage
+read, no land/rent bearing. Scan-depth ledger on books/wealth-of-nations.md updated
+(Book IV Ch. IX → Heavy; Book II Ch. V + Book IV Ch. VII → Medium; strict-delta
+reasoning recorded inline). All quotes verified verbatim vs repo-hosted PG #3300
+text (T1 re-verified 4 spot checks incl. capital-N "Nature" readings). 855 pages,
+lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gloudemans-Almy "Fundamentals of Mass Appraisal" book page
+
+books/fundamentals-of-mass-appraisal.md created (856th page) — the assessment
+profession's standard textbook, de-referenced WITHOUT pretending to read it: built
+from IAAO Course 300 syllabus (structural proxy, flagged as a compression), the
+Standard on Mass Appraisal's dozen+ page-specific citations to the book (land
+valuation pp. 178-180, PRD/PRB pp. 385-392), and the authors' freely available
+papers. Genuine Georgist gain: Gloudemans's separate Lincoln Institute LVT work
+(2000 fellowship paper + 2002 WP02RG1, fetched and read in full) — CAMA models
+"can predict land values with acceptable reliability, even when some neighborhoods
+lack vacant land sales altogether." Page states plainly the textbook is NOT an LVT
+advocacy source and should only be cited for the narrow standardization point.
+Honest gaps recorded: no direct read, no reception literature found, 604-pp count
+unconfirmed for 2011 print. 5 inbound links wired (bar ≥2): iaao-standards,
+mass-appraisal-international-cases, almy-oecd, doucet-does-georgism-work (moved
+from "second-hand only" list), mass-appraisal-methods. Registry: FMA row →
+Scanned, 4 new source rows. 856 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gloudemans LVT feasibility papers + BC SVT rate check
+
+research/gloudemans-lvt-assessment-feasibility.md created (857th page): BOTH Lincoln
+working papers (WP00RG1 2000, WP02RG1 2002) fetched via curl+pdftotext and read in
+full. Mined: improved-only baseline CODs 5.87/5.75/8.82; combined vacant+improved
+model barely moved improved accuracy (5.97/5.55) while fixing the land/building
+split; vacant CODs 9.55-22.96 (consistent with IAAO's wider vacant tolerance, carried
+honestly); the "no or few vacant sales" headline conclusion; PLUS the 2000 paper's
+distributional caution (land-ratio shift correlates with age/size/quality, r=.63-.71,
+"less advantageous to lower-value... properties") — a counter-evidence find carried
+into land-cannot-be-assessed Limits. Provenance stated plainly: single-author,
+Lincoln-funded, "not subject to detailed review," inconsistent fellowship names
+between the papers' own citations (flagged, not reconciled), inconsistent Ada County
+sample counts, no independent replication found. Wired: land-cannot-be-assessed
+(Response 3d + Limits), fundamentals-of-mass-appraisal, mass-appraisal-methods.
+BC SVT rate backlog item: NO EDIT NEEDED — british-columbia.md already carries the
+2026 1%/3% rates with a sound gov.bc.ca cite, independently re-verified by fresh
+fetch this session (backlog note about vancouver.md carrying the figures was wrong).
+857 pages, lint 0 errors. Registry rows deferred to DST-wave commit (single-writer).
+
+## 2026-07-18 (cont.) — Wave: DSTs-as-tried (WS-TECH-RENTS part a)
+
+research/digital-services-taxes.md created (858th page) — country-by-country record
+of DSTs as run, deliberately complementary to the existing incidence page (delta
+rule: Muddasani-Langenmayr pass-through stays there; this page carries revenue +
+political economy). Verified from primary fetches (NAO 2022, HMT Nov-2025 review,
+OECD IF Jan-2025 co-chair statement, Assemblée nationale answer, Canada DoF —
+garbled PDFs recovered via curl+pdftotext): UK £358m→£808m with 90% of yr-1 from 5
+payers and a derived ~£2.80bn 5-yr cumulative flagged as OUR arithmetic vs HMRC/OBR
+">£3bn" forecast; France €277m vs €400m forecast, CCIA-commissioned 55/40/5 incidence
+split flagged as industry ex-ante modeling; India's two-piece levy dismantled
+2024-25; Canada's DST rescinded 3 days after the June-2025 tariff ultimatum; Pillar
+One treaty still unopened for signature per the IF's own statement — so the promised
+multilateral DST retirement has actually proceeded only by unilateral coercion.
+Georgist reading kept on the rent gradient: a DST is a REVENUE tax, not a rent tax.
+Omissions recorded on-page: India multi-year collections (search-synthesis only),
+Canada ~$2bn first payment (403s), India Pillar One-vs-Two attribution (sources
+conflict), France rate flagged fast-moving. Wired: taxing-tech-rents §2 (primary
+home), dst-incidence, data-rents, resource-rents. Registry +12 rows (DST) + deferred
+Gloudemans merge (2000 row added; 2002 row Medium→Heavy, citations 1→4, wiki-page
+repointed to the new deep-dive). Inventory regenerated. 858 pages, lint 0 errors.
+WS-TECH-RENTS remaining: (b) attention/ad rents, (c) dissolution vs capture,
+(d) is-it-rent diagnosis update, then the gated instrument-comparison synthesis.
+
+## 2026-07-18 (cont.) — Wave: attention/ad rents (WS-TECH-RENTS part b)
+
+Agent discovered the Romer proposal page ALREADY EXISTED (research/
+romer-digital-advertising-tax.md, commit 75b4503) — stale backlog note honored via
+delta rule: no duplication; built the genuinely missing piece instead.
+research/maryland-digital-ad-tax.md created (T1 renamed from the agent's
+digital-ad-taxes-romer slug — confusably close to the existing proposal page):
+Maryland's Digital Advertising Gross Revenues Tax as Romer's real-world test.
+Verified: cliff-not-marginal rate schedule 2.5/5/7.5/10% by global revenue tier —
+a design DEPARTURE from Romer flagged on-page (no targeted-ads carve-out, no
+subscription escape hatch); litigation as the main story (2022 trial-court
+invalidation reversed 2023 on exhaustion grounds ONLY, merits still pending in
+Tax Court; Fourth Circuit Aug-2025 struck the pass-through-disclosure ban on First
+Amendment grounds, final injunction Oct-2025; core tax still in force); revenue
+~$93M/$82.5M FY22/23 vs $250M projection, flagged press-reported. Honest gap
+recorded: NO ex-post incidence estimate for Maryland exists (unlike UK DST's
+Amazon evidence). Prat-Valletti carried at abstract level, disclosed. Wired:
+taxing-tech-rents §3, romer proposal page (paired-page pattern), dst pages,
+data-rents. Registry +12 rows. Lint 0 errors (inventory regen deferred to wave
+close — Ch. 21 cluster agent still in flight).
+
+## 2026-07-18 (cont.) — Wave: Doucet Ch. 21 capitalization cluster (5/5 de-referenced)
+
+Scope correction found first: 4 of 5 papers (Borge-Rattsø, Capozza-Green-
+Hendershott, Hilber, Buettner) already had research pages from an earlier wave —
+another stale backlog note. Real gaps closed: (1) Choi & Sjoquist (2015) — full
+Land Economics article fetched (gwern.net mirror) and read; new standalone page
+research/choi-sjoquist-atlanta-lvt-cge.md (859th page): full capitalization onto
+landowners under fixed boundaries, welfare gain 18-19% of revenue (~3x DiMasi
+1987), and the previously-unmined PROGRESSIVE incidence result across income
+groups; a source-INTERNAL inconsistency (82.9% vs 89.2% fixed-boundary revenue-
+neutral rate, both verbatim in the primary at pp. 544/546) carried as a deliberate
+[VERIFY] flag rather than silently resolved. 6 inbound links. (2) Buettner (2003)
+upgraded abstract-only → Heavy: full text obtained, Table 2/3 coefficients mined
+(land-value elasticity -0.314 GMM, rent coefficient ≈0 insignificant,
+"substantial overcapitalization" vs theoretical 3.6%), Nebenkosten/rent-control
+institutional detail added. Benefit pages wired with the model-evidence-not-
+measurement caveat kept explicit. Doucet de-referencing ledger addendum written;
+BACKLOG item checked off. Registry: no new rows (all 5 pre-existed); rows 564/637
+Referenced→Scanned, Light→Heavy, citations updated. Inventory regenerated.
+860 pages, lint 0 errors. All five Doucet Ch. 21 citations now rest on primary
+text — none abstract-only, none second-hand.
+
+## 2026-07-18 (cont.) — Wave: P&P Book X Ch. IV decline mechanism (strict delta)
+
+The last uncovered candidate from the all-10-books P&P deepen-scan closed. Pre-check
+confirmed Ch. IV was genuinely unmined and that the natural home already existed
+(concepts/georgism.md "The Civilizational Argument (Book X)" section — so NO new
+law-of-human-progress page, per delta rule). Ch. IV read in full plus Chs. I/III/V:
+the political mechanism mined (universal suffrage as route TO despotism once wealth
+concentrates; "government of the worst"; corrupted-franchise/tramp-pauper argument;
+Prætorian Guard analogy for city machines; "leap upward or plunge downward"), plus
+the "tomb of the dead empires" and Rome-from-within passages backing the thesis
+paragraph. Method caveat extended honestly: 1870s pre-archaeological armchair
+comparative history, carried as P&P's philosophical capstone, NOT an evidenced
+collapse theory the wiki endorses. Ch. II correctly skipped (Spencer-critique
+preamble, no distinct claim); Ch. V rhetoric not over-mined. All quotes T1
+re-verified verbatim (5/5) against texts/progress-and-poverty-full-text.md.
+books/progress-and-poverty.md gains the fourth-argument note + cross-link. New lint
+warning is George's own quoted "always" — correct as a quote. No registry change
+(source already Core/Heavy). 860 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: rent dissolution vs capture (WS-TECH-RENTS part c)
+
+research/tech-rent-dissolution-vs-capture.md created (861st page) — the enforcement
+record complementing the existing DMA design page (paired-page pattern, delta rule
+held). The Georgist asymmetry stated as the frame: land rent has no dissolution
+option (fixed supply), some platform rents do — and where dissolution works it
+beats capture. Verified from primaries/near-primaries: first DMA fines 23-Apr-2025
+(Apple €500m Art. 5(4), Meta €200m Art. 5(2), both on appeal); gatekeeper roster
+incl. Booking.com add + Facebook-Marketplace un-designation; WhatsApp Art. 7
+interop launched Nov-2025 to two minor rivals; Mozilla choice-screen gains flagged
+as vendor-self-reported; Epic iOS store ~29M vs 100M target. US record: Mehta
+rejected Chrome/Android divestiture for data-access remedies (dissolution by data
+sharing); Brinkema ad-tech remedies STILL PENDING (flagged, not predicted);
+Boasberg's FTC-v-Meta loss carried as the no-moat-found case. Counter-case argued
+(Schumpeter/scale-efficiency, Cambridge security paper on interop messaging,
+Signal's objection). 3 new banned-word lint warnings T1-reviewed and accepted:
+two state the land-side asymmetry (core doctrine), one conditional, one hedge.
+Wired: taxing-tech-rents §5, quasi-rents objection Limits, DMA page, Furman page,
+data-rents. Registry +16 rows. Inventory regenerated. 861 pages, lint 0 errors.
+WS-TECH-RENTS: only (d) is-it-rent diagnosis update remains before the gated
+instrument-comparison synthesis.
+
+## 2026-07-18 (cont.) — Wave: is-it-rent diagnosis update (WS-TECH-RENTS part d — lane discovery COMPLETE)
+
+Assigned targets (Furman diagnosis, Korinek-Stiglitz 2017, De Loecker markups) all
+verified as ALREADY Heavy-scanned from earlier waves — three verified no-ops, no
+churn. Agent instead found and mined two genuinely new on-point papers:
+(1) research/korinek-vipra-ai-concentration.md (862nd page) — INET WP 228 / Economic
+Policy 2025, read in full: the rent MECHANISM specified (fixed compute costs, Nvidia
+92-98% GPU share — internal 92 vs cited-Wells-Fargo 98 discrepancy flagged not
+resolved; intelligence feedback loop), authors' own phrase "monopoly rents" — BUT
+their own Sept-2024 market snapshot shows near-Bertrand pricing among frontier labs:
+diagnosis carried as mechanism-present/rent-not-yet-realized. (2) research/
+korinek-lockwood-ai-public-finance.md (863rd) — NBER WP 34873 Feb-2026, read in
+substantial part (formal proofs §§3-4 honestly NOT relied on beyond authors' prose):
+independently derives the wiki's own rent-gradient principle ("tax rents of fixed
+factors... unimproved land, spectrum rights, unique datasets... no distortion") and
+maps every live AI-tax proposal onto capital-vs-consumption logic. Wired into
+taxing-tech-rents (AI coda + Sources 21-22), data-rents, both existing Korinek/
+Furman pages, quasi-rents objection. Registry +2 rows. 863 pages, lint 0 errors.
+GATE OPEN: WS-TECH-RENTS a-d all done → instrument-comparison synthesis unlocked.
+Synthesis must reconcile against Korinek-Lockwood Table 3 (DST/robot-services =
+consumption-tax-like vs compute/robot-ownership = capital taxes) and decide
+include-or-exclude-with-reason for their SWF/windfall-clause/UBC family.
+
+## 2026-07-18 (cont.) — Wave: Gaffney Alaska 1977 Part II Appendices A-L (VERIFY resolved)
+
+The deliberate Part-I-wave flag closed: Part II (155pp image scan) found on the
+local gaffney mirror, OCR'd via pdftoppm+tesseract (mid-run agent stall recovered
+by coordinator nudge after OCR completed 155/155), text committed to
+sources/gaffney/text/. Standout find: Appendix E — Norgaard's Cook Inlet
+regression (Lease Sales 7 and 9) showing bonus bidding captured only ~9-16% of
+realized rent — independent ECONOMETRIC corroboration of Part I's anecdote-based
+case, now wired into benefits/resource-rent-capture-works (explicitly labeled
+corroborating-not-load-bearing) and concepts/resource-rents. Appendix C resolves
+Part I's unspecified leaseholder-concentration claim with real numbers (top-5
+noncompetitive = 53.8% of acreage); H/I give the AVC's worked 2.5:1 split on real
+Sadlerochit data; J the royalty-timing-bias algebra (banned-word fix: "derives"
+not "proves"); D/F/G/L the Crommelin/Rooney alternatives. Contributor dissent:
+NONE FOUND — reported as absence, not tacit agreement, with a scoped VERIFY. 4 new
+deliberate VERIFY flags all narrowly scoped (Vickrey/Consigny original not located;
+OCR-poor pages not quoted; correspondence unchecked; Part I circulation history
+untouched/out of scope). Triage ledger row checked off. Registry +1 row (Part II).
+863 pages, lint 0 errors. Task #28 wave complete — WS-TECH-RENTS synthesis next.
+
+## 2026-07-18 (cont.) — Wave: WS-TECH-RENTS GATED SYNTHESIS (T1) — lane COMPLETE
+
+The instrument-comparison revision, graded at T1 per the model directive. Decisions:
+(1) DST's D STANDS, now with independent corroboration — Korinek-Lockwood's
+classification of the DST as consumption-tax-like is convergent, not contrary
+(both frameworks agree the platform doesn't bear it; "efficient consumption tax"
+and "failed rent tax" are the same fact viewed from different questions) —
+reconciliation note added to §2. (2) NEW FAMILY §6: AI-specific taxes
+(compute/token/robot) graded D-provisional — input taxes in rent-tax clothing,
+deferred even by their friendliest analysts (K-L: services-variants pattern as
+consumption taxes, ownership/compute variants are capital taxes to defer);
+taxing inputs before the rent arrives is the REVERSE of the Georgist sequence.
+(3) NEW FAMILY §7: public equity stakes (SWF/windfall clause/UBC) INCLUDED and
+graded B-minus — the only incidence-proof instrument in the table (an equity
+claim reprices nothing), Alaska Permanent Fund as the real precedent, but the
+fair-value-acquisition trap stated plainly (buying equity at market price
+captures no rent — same trap as buying land to "capture" its rent; Alaska worked
+because the state already owned the oil). Grades table now 7 rows + K-L
+cross-check note; patents-exclusion heading retitled (numbering went stale);
+AI coda hand-off line closed out; honest-limits bullet extended. 863 pages,
+lint 0 errors. WS-TECH-RENTS lane (a,b,c,d + synthesis) is DONE.
+
+## 2026-07-18 (cont.) — Wave: T3 mechanical debt batch
+
+Source annotations: 23 entries across 15 most-neglected pages (no last_reviewed at
+all) annotated with usage DERIVED from each page's body — 1 honestly left
+unannotated with an inline note (economic-rent's Mill entry: role not determinable
+from page text; flagged, not invented). Thin-article burn-down, 4 high-inbound
+pages, all expanded from material ALREADY in the repo (no new external claims):
+henry-george-theorem 358→749 words (Behrens second-best extension + Feldstein
+capitalization challenge with CKR/Fane replies — the wiki's own research pages
+finally surfaced on the concept page; one garbled Feldstein sentence fixed at T1);
+rent-seeking 346→802 (growth-cost + tax-design sections); split-rate-taxation
+322→632 (Harrisburg + practical obstacles from Cohen-Coughlin); 1909-peoples-budget
+355→673 (the four land-value duties with statutory rates from the book page).
+Warning count verified unchanged vs baseline (git-stash comparison). ~400 pages
+from later cohorts left for future recurring batches. 863 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: stub-queue leftovers (3 backfills created, 4 honest skips)
+
+All three NAMED candidates (sector-model, margin-of-production, progress-and-
+poverty-institute) turned out to ALREADY EXIST fully written — stale backlog notes;
+P&P-institute was below the accept bar at 1 inbound and got wired to 4. Real
+output = the lloyd-george/BC backfill candidates, accept-bar-tested one by one:
+CREATED people/henry-george-jr.md (8+ citing pages, Congress Bioguide/House
+Historian verified; 1897-candidacy detail honestly left thin rather than padded),
+organizations/bc-assessment-authority.md (BC Assessment's own corporate history,
+3 inbound), events/parliament-act-1911.md (5 near-duplicate passages across UK
+pages consolidated into one linkable home, primary statute cited, 5 inbound).
+SKIPPED with reasons: 1913-bc-crash (already fully treated on vancouver/l-d-taylor,
+a page would duplicate), land-enquiry-committee (1 substantive mention — fails
+bar), 1925-green-book (only the discovering page mentions it), balfour (all 5
+mentions tangential, confirming the backlog's own caveat). Registry rows deferred
+to scratchpad (Gaffney agent holds the registry lock this round); inventory regen
+deferred to wave close. Lint 0 errors at agent close (867 pages incl. Gaffney
+agent's in-flight work).
+
+## 2026-07-18 (cont.) — Wave: Gaffney tier-2 land-theory batch (C9 + D1; C2 declined with reasons)
+
+C9 "Land as a Distinctive Factor of Production" (1994, 64pp native text): the
+one-paragraph stub page substantially rewritten against the actual chapter — ten
+land/capital distinctions plus the original B-8/B-9 credit-concentration mechanism
+("the basis of credit is not marginal productivity, but collateral security";
+land purchase "not self-liquidating") — advocacy tone flagged in Gaffney's own
+words, and his Clark/Seligman motive-claims flagged AGAINST the wiki's existing
+Missemer-Pottier/Milgate counter-findings rather than swallowed. D1 "Rising
+Inequality and Falling Property Tax Rates" (1992, 19pp): new research page — farm
+Gini 0.63 (1930) → 0.92 (1988, vanished-farms-adjusted) as farm property tax rates
+fell 40%; carried as observational/cross-sectional, no regressions, causation left
+open per Gaffney himself; wired into land-monopoly (new credit-mechanism
+subsection), split-rate-increases-construction (17th supporter), land-is-just-
+capital. C2 welfare-economics essay READ IN FULL but DECLINED a page — diffuse
+programmatic overlap with existing coverage; bibliographic details logged in
+triage for a future call. D1's ampersand-filename mirror rot found and worked
+around (%26 refetch; archive mirror 404s — known B5-class issue). Registry: C9
+row Light→Heavy, D1 new row, + 7 deferred stub-wave rows merged (Parliament
+Act/House-Historian/BC-Assessment sources). Inventory regenerated (5 new pages
+absorbed). 867 pages, lint 0 errors, warnings back to 32.
+
+## 2026-07-18 (cont.) — Wave: Gaffney E11/E12 urban-land-rent pair (+ BACKLOG reconciliation committed separately)
+
+research/gaffney-urban-land-rent.md created (868th page, Core tier) — the 1972-73
+AJES two-parter read in full (ampersand mirror-rot hit as predicted; %26 refetch;
+BOTH stale 404-stub mirror files REPAIRED in cache so future sessions don't
+re-hit it). Part I: tripartite urban-rent sources (natural features, public
+spending, synergism); rent rations land, never elicits supply. Part II: five
+taxation mechanisms, fullest being the strong-hands/weak-hands credit
+discrimination argument WITH worked leverage arithmetic (poor buyer's holding-cost
+ratio 1.8→3.0 as land appreciates) — the earlier original of C9's B-8/B-9
+mechanism, cross-wired. Also mined: a pre-Stiglitz informal HGT capitalization
+statement ("conservation of economic energy," crediting Jensen 1931) — added to
+henry-george-theorem's Origin as an intermediate data point, strict-delta with the
+just-shipped Behrens/Feldstein material; and a logrolling political-economy
+argument absent from later Gaffney. Honest limits: advocacy-toned theory, one
+descriptive Milwaukee cross-section, several claims on Gaffney's own authority.
+Congestion section deliberately NOT wired (no matching objection page — recorded,
+not forced). sprawl page addition explicitly kept OUT of supported_by (theoretical
+context, not evidence). Registry +2 rows; triage rows checked; inventory
+regenerated. 868 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: VERIFY-channel regeneration + 5 resolutions
+
+Ground-truth census regenerated: 30 live markers → classified 13 DELIBERATE-SCOPED
+(honest records, stay), 6 RETRYABLE (queued with approach), 3 BLOCKED (attempted
+this wave: Samuelson 1976 paywalled everywhere free; 1971 Milwaukee Journal not
+digitized; unpublished Andelson address untraceable), 5 RESOLVED with real fetches:
+Vickrey/Consigny proof pinned to its exact primary (Appendix II, Gaffney
+"Tax-Induced Slow Turnover of Capital" Part V, AJES 30(1) 1971 pp. 105-111,
+fetched from masongaffney.org and cross-checked word-for-word vs the Alaska-report
+reprint); South Korea BIEN presentation URL reconstructed + author-name corrected
+(Nam Hoon Kang); Pittsburgh 10%-of-base figure corroborated via Hughes 2006
+Lincoln WP tracing to Snowbeck, Post-Gazette 15-Jan-2001; forest-taxation venue
+identified (Knedlick ed., Lincoln 1980); Now-the-Synthesis publication confirmed
+and linked to the existing book page rather than re-read. verification-queue.md
+rewritten in 3-way classified format; backlog narrative dated; hermes-workorder
+auto-regenerated. VERIFY warnings 30→25 (exactly the 5 resolutions). 868 pages,
+lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: terminology normalization (the 2026-07-04 audit's last open half)
+
+EDITORIAL §Terminology's 2026-07-11 rulings applied (they win over de facto counts).
+Corpus found ~98% compliant already: citizen's-dividend family — 5 stray
+mid-sentence capitals fixed (24 grep outliers all turned out to be out-of-scope
+scratchpad files); 18-year-cycle family — ZERO fixes needed, all ~26 "18.6-year"
+instances already correctly gated to Anderson's specific claim with caveats,
+"property cycle" correctly recognized as a different term and left alone;
+single-tax family — 6 genuine violations fixed out of ~1,900 raw instances
+(the rest legitimate proper names/titles/quotes). Judgment calls recorded IN
+EDITORIAL (not silently): "Single Tax movement" kept as historiographic
+capitalization; Anderson's branded "Citizen's Dividend concept" kept. EDITORIAL
+§Terminology extended with the cycle-naming distinction + closeout note so this
+never re-litigates. BACKLOG cohesion item fully closed. No anchor breaks (no
+heading edits). 868 pages, lint 0 errors, warnings unchanged — audit-grade no-op
+where the corpus was already right, which is the correct outcome for a
+normalization pass on a well-maintained corpus.
+
+## 2026-07-18 (cont.) — Wave: Gaffney extractive-resources cluster (B1 volume + B4/B13 pair)
+
+research/gaffney-extractive-resources-taxation.md (869th) — the 1967 TRED volume
+bookends (26pp intro + 117pp conclusion, native text): STRICT-DELTA catch of the
+wave — the ripeness/Figure C.4 timing theory turns out to be THIS essay, reused by
+Gaffney as the Alaska report's appendix a decade later; recognized and
+cross-referenced, NOT re-derived. Page carries what's genuinely new: the 1967
+property-tax-vs-income-tax instrument comparison for exhaustibles + nine-reason
+exploration-overmotivation taxonomy; strong-hands mechanism flagged as third
+occurrence (corroboration only). Gray's reprinted 1914 QJE piece not summarized
+(not Gaffney's work). research/gaffney-mineral-leasing-tax-reform.md (870th) —
+B4+B13 combined as companion rent-leakage essays: B4's eight Crown-leasing errors,
+Rent=Profit−Interest identity, BNA s.125 discussion (publication year unconfirmed,
+[VERIFY], dated ~mid-70s from internal Turner-budget evidence); B13's 1982 US
+loophole catalogue, strongest delta the ~80%-of-lease-cost-expensed-via-
+abandonment mechanism absent from the capital-gains page. B13 mirror was another
+ampersand 404-stub (%26 fix now confirmed generalizing across 5 files). B13's
+factual figures honestly attributed to Gaffney's own trade-press citations, not
+independently verified; neither paper claims econometric revenue estimates.
+Wired: resource-rents (2 subsections), resource-rent-capture-works (modes 6-7 +
+supported_by), capital-gains page, mason-gaffney. Registry +4 rows; triage rows
+checked. 870 pages, lint 0 errors. (T3 batch-two agent still in flight; inventory
+regen deferred to wave close.)
+
+## 2026-07-18 (cont.) — Wave: T3 batch two (annotations + quote-cap compliance)
+
+Annotations: the 2026-07-03..06 cohort (~90 pages) surveyed and found ALREADY
+substantially annotated from earlier passes — first-pass grep false-positives
+(line-wrapped phrasing, equivalent wording) manually adjudicated; 18 genuinely
+thin entries fixed across 14 files, each derived from page text. Coming in under
+the ~25 estimate is the honest outcome, not a shortfall. Quote caps (EDITORIAL
+§1.5 ≤50 words per copyrighted work): precise per-quote counter built (fixing
+naive blockquote-merge inflation); 4 pages/5 instances confirmed over-cap and
+trimmed-or-paraphrased (worst: a 96-word Lie quote → 12-word verbatim close);
+PD-exempt pages (Pigou/Smith-lectures/Walras/George quotes) correctly left; 4
+apparent offenders cleared as parser false-positives. Baseline warnings verified
+unchanged via git-stash comparison. Inventory regenerated (2 extractive pages
+absorbed, warnings 36→34). 870 pages, lint 0 errors. Task #35 wave complete.
+
+## 2026-07-18 (cont.) — Wave: Gaffney C4/D3/E10 + index sync (verified clean)
+
+Three works, three pages (871st-873rd), two PRIORITY CORRECTIONS: (1) C4 "The
+Unwieldy Time-Dimension of Space" (AJES 1961) is the earliest dated Gaffney in
+the corpus — the algebraic root of the strong-hands credit mechanism, so
+land-monopoly's earliest-statement attribution corrected 1972-73 → 1961; the
+recurring conclusion held as corroboration-only (4th occurrence), page carries
+the genuinely new time-indivisibility/leasing-critique/dynamic-equilibrium
+content. (2) E10 "Land Planning and the Property Tax" (AIP Journal 1969) is the
+PRIMARY of the Milwaukee isovalic 20%/50% study the wiki carried via the 1998
+philosophy-of-public-finance restatement ("galloping merger movement" phrasing
+near-verbatim) — citation priority corrected on that page + split-rate page,
+Milwaukee material NOT re-derived; new page carries only the uncovered
+building-tax credit-leverage mechanics + the seven-point LVT-increases-planning-
+power argument. (3) D3 "Benefits of Farm Programs" (AJES 1966): Ricardian
+subsidy-incidence catalogue + the original intensity-quotient rent-seeking
+mechanism, wired into public-investment-capitalizes and rent-seeking-drags-growth.
+D3 volume/issue unrecoverable from text ([VERIFY], B4 precedent). Index-sync:
+problems (13) and benefits (15) indexes verified complete, zero dead rows, all
+four expanded-page blurbs still accurate, evidence_strength buckets spot-checked
+across all 28 — NO edits needed, verified-clean is the recorded outcome.
+Registry +3 rows; triage 3 rows checked; inventory regenerated. 873 pages,
+lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney urban-housing cluster (E14 reconciled; E3+E22 mined; E1/E37 declined)
+
+E14 reconciliation: the unchecked row IS the synergistic-city page's sole source
+(Lincoln Colloquium 1977 / Real Estate Issues 1978 match) — but the page had been
+built from an ABSTRACT-ONLY read; PDF fetched and read in full this wave, registry
+Light→Heavy, page enriched with the two missed findings (pollution/open-space
+myth-busting; postage-stamp cross-subsidy mechanism, cross-linked to its earlier
+1964 statement). Two new pages: research/gaffney-containment-policies-urban-sprawl
+(874th) — the 1964 Kansas chapter, EARLIEST corpus statement of the LVT anti-sprawl
+argument (negative/neutral/positive containment trichotomy; "cheap to buy, but
+dear to hold"), wired into lvt-reduces-sprawl as historical priority, kept OUT of
+supported_by per convention; research/gaffney-land-as-element-of-housing-costs
+(875th) — the 1968 IDA/HUD study: pre-Oates capitalization argument for credit-
+constrained buyers + the federal holdout-reward tax catalogue (1031, stepped-up
+basis), wired into housing-affordability likewise as context-not-evidence, dated
+1968 tax specifics flagged. DECLINED with reasons: E1 (1958 USDA — now the
+earliest dated work known, but content overlaps existing coverage; flagged as
+future priority-correction candidate), E37 (zero-addition vs new-life-in-old-
+cities + urban-land-rent; [VERIFY] on its undated provenance). All five fetched
+native-text from masongaffney.org (%26 fix again clean). Registry E14 upgraded
++2 new rows (none for declines, C2 precedent); triage 5 rows checked, batch-5
+narrative. Inventory regenerated. 875 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: VERIFY retryables (3/3/0) + E1 1958 priority corrections
+
+Retryables: 3 RESOLVED (August REIT figures spot-checked line-for-line against a
+second independent T&F-typeset mirror; Clawson $42bn corroborated via the Science
+1976 PubMed abstract, granular split honestly left as Gaffney's citation;
+soil-depletion citation count = 21 via Semantic Scholar) and 3 BLOCKED with
+documented attempts (WorldCat 403/429 on Alaska circulation; Jarvis book
+borrow-restricted; WP041/042 date still undatable — circa-1993 stands). Queue +
+backlog ledgers updated. E1 (1958 USDA): mason-gaffney chronology gains the
+earliest-land-policy-item line (explicitly distinguished from the earlier 1957
+Faustmann monograph — different question); land-monopoly 1961 attribution
+CORRECTLY LEFT UNTOUCHED (mechanism-presence verdict: E1 has land-boom/financial-
+power material but NOT the self-reinforcing credit loop); land-booms page gains a
+one-line historical-precursor note with the general-vs-CCA-mechanism distinction
+explicit. No E1 page (morning decline respected). Registry +2 rows (Clawson, E1).
+VERIFY warnings 31→28, exactly the 3 resolutions. 875 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney burn-down (water-rents gap filled; E13/E15 skimmed; K1 stale checkbox)
+
+research/gaffney-water-rent-taxation.md created (876th page) — H3 "Diseconomies
+Inherent in Western Water Laws" (1961, Kaweah case study: 10x+ marginal-value
+dispersion between adjacent users under doctrine-not-price allocation;
+price-umbrella/racing/logrolling overexpansion cycle; poor legacy scan re-OCR'd
+at 250dpi recovering +28% words, residual [VERIFY] kept) + H21 "The Taxable
+Surplus in Water Resources" (1992, six-fallacy case for withdrawal taxation;
+$20/$240/$2000 per-acre-foot dispersion; Gaffney's own "books are cooked"
+concession preserved). WATER was a total wiki gap despite being named in
+resource-rents' own definition — now a section there + Eighth Mode on
+resource-rent-capture-works. Priority note: H3 (Jan 1961) predates C4 (Oct 1961)
+as earliest academic conference paper but does NOT contain the credit mechanism —
+C4's land-monopoly attribution unaffected, documented on-page. E13 (1976 WAEA):
+declined a page (overlaps 5 mined works) but its exclusionary-zoning fiscal
+diagnosis ("federal grants to governments are grants to landowners") filled a
+real gap on concepts/nimbyism.md. E15 (Heilbrun review, ~2pp): zero-addition,
+no registry row. K1 stale triage checkbox fixed (already covered by
+neoclassical-stratagem page). Registry +3 rows; triage updated; inventory
+regenerated. 876 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney H-series completion (6 folds, 1 decline — water lane CLOSED)
+
+All 9 H-series triage rows now checked. Best catch: H4 (JFE 1962) — recovered via
+%26 fetch from a 404-stub mirror — is Gaffney's published reply to Dean Trelease's
+critique of the Kaweah study: genuine third-party scholarly pushback the water
+page previously said DIDN'T EXIST; Standing-and-Limits corrected accordingly (the
+right direction: the page got MORE contested, not less). H8 (AJES 1969): nine-
+criterion doctrine comparison + primary-source Wright Act economics, upgrading
+california-irrigation-districts from secondary-only sourcing. H22 (AJES 1997):
+heavy fold — WTP/WTA entitlement economics incl. treaty-rights example, named
+1990s permit speculators, avoided-cost traced to George's Science of Political
+Economy. H19's 4pp market design folded despite length (the "how" H21/H22 lack).
+H18 light fold (pre-1986 expensing driver + Compact/revolving-fund details).
+H20 partial (Chinatown Syndrome/Owens 1913; Irvine vs Wright district voting).
+H5 DECLINED on garbled-OCR skim with the limit stated (a clean re-OCR could
+theoretically surface something). No second water page — none cleared the
+distinct-topic bar. Registry +6 rows (none for H5); 6 text mirrors. 876 pages,
+lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney K-series (3 mined, 2 declined, 1 reconciliation)
+
+K9 (Stabile AJES 1995 + Gaffney comment): Clark's 1886 "as conclusive as anything
+in mathematics" praise of George's wage theory — a quote the wiki lacked,
+predating its 1899 material; Wicksteed-not-Clark priority argument for marginal
+productivity (Wicksteed's 1894 title paraphrasing George's chapter title); folded
+into marginal-productivity, john-bates-clark, philip-wicksteed with Gaffney's
+U-Boat motive-claim carried as attributed D-claim against Missemer-Pottier per
+the C9 convention. K2008 (Keeping Land in Capital Theory): mid-wave discovery
+that it was ALREADY quoted unregistered (and issue-miscited) on the timber page —
+reconciled; Clark/Knight-vs-Austrians feud + three Wicksell contributions folded.
+K17 (Wallace's land-nationalization campaign): compensation-annuity mechanics,
+Mill's LTRA recruiting Wallace, Asquith's "Tax or Buy" — folded into the existing
+wallace page + mill cross-link. K18/K2012 DECLINED (religious/political history
+better-sourced on edward-mcglynn from primary correspondence). All three mined
+works re-OCR'd (garbled/empty embedded layers). CSV-quoting bug in a comma-
+bearing registry title caught pre-lint. K-series now fully checked. Registry +3
+rows. 876 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney F/G series (21 rows verdicted; F7+G17 mined)
+
+F-series CLOSED (3 rows): F7 "Nonpoint Pollution" (JBA 1988/89, re-OCR'd) → new
+page (877th): seven failure modes of effluent-charge/surrogate toolkits for
+diffuse pollution traced to land-market failure; FIRST Gaffney-specific source on
+pigouvian-taxation; wired to ecological-georgism + 3 sibling gaffney pages.
+Venue known only as "JBA" from the printed header — [VERIFY] on page AND registry.
+F2Q declined (discussant wit, duplicative); F8 = same article, worse scan.
+G-series: G17 "The Property Tax Is A Progressive Tax" (NTA 1971, re-OCR'd) → new
+page (878th): four-part regressivity rebuttal reached independently of
+Mieszkowski 1972 via disjoint premises — new section on the mieszkowski page
+distinguishing the two; Table 1 concentration figures carried as Gaffney's
+reported (some marked "preliminary" in his own original); landlords-benefit page
+gets See Also ONLY (kept out of supported_by). 16 G rows declined on skims with
+per-row reasons; G21 exposed as a DEAD FILE (scan mismatch — endnotes of an
+unrelated book); G2009 (84pp, unOCR'd) and G45 (Gaffney-Noyes, richest remaining
+G candidate) flagged as FUTURE candidates rather than confidently declined —
+honest incompleteness recorded. No ampersand stubs this wave. Registry +2 rows;
+all 21 triage boxes flipped; inventory regenerated. 878 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: G45 + G2009 follow-ups (both resolved)
+
+G45 (Gaffney & Noyes) → research/gaffney-noyes-income-stimulating-property-tax.md
+(879th page) — identified as Losses of Nations ch. 8 (1998, pagination-continuous
+with the covered ch. 7). CA/NH claim verdict: REAL argued comparison (50-state
+1992 ACIR data) but unweighted top/bottom-ten means, no controls, disconfirming
+states (HI/AK/MD/NV) explained away ad hoc, and Noyes's NH home-state proximity
+disclosed as a limit — wired to taxing-land-raises-productivity as attributed
+context, EXPLICITLY out of supported_by; didn't fit the flagged split-rate lane
+(measures overall reliance, not land/buildings split) — recorded. Appendix
+deltas: 1990s spectrum-concentration data → spectrum-auctions ([VERIFY] on the
+business-press figures); 23-point falsified-land-values taxonomy → resource-rents.
+G2009: 84pp OCR'd (~47k words) — turns out to be the PEER-REVIEWED PUBLISHED
+version (IJSE 36(4) 2009) of the already-covered hidden-taxable-capacity paper,
+NOT an expansion: page upgraded (full 16-element enumeration, journal citation,
+Krugman-rebuttal + Sinai-Gyourko data points), registry Medium→Heavy. Table-cell
+OCR misalignment in G45's source flagged; prose summaries relied on instead.
+Registry +1 new row +1 upgrade; triage narrative added; inventory regenerated.
+879 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney I/L/N/O/Z singles (3 pages; publications series ~complete)
+
+16 rows verdicted. MINED: (1) I2015 "Real-Assets Model / Will China Crash in
+2015?" (AJES 74(2), peer-reviewed) → research/gaffney-real-assets-model-china.md
+(880th): K·T=F turnover mechanism, four land-price→capital-structure channels,
+2008 case, the China prediction — upgrades what was a bare citation bullet on
+18-year-land-cycle. (2) L2018 Gaffney-Cobb "Corporate Power and Expansive U.S.
+Military Policy" (62pp unpublished draft, ~150 sources, largest single work in
+corpus) → research/gaffney-corporate-power-military.md (881st): military spending
+as rent-seeking — genuinely NEW wiki territory (cacique typology,
+Mossadegh/Arbenz/Allende/F-35 cases); unpublished-draft status + motive-framing
+conventions applied; rent-seeking-drags-growth gains a historical-illustration
+subsection NOT added to supported_by. (3) L2 (1988) precursor given a short
+priority page (882nd). DECLINED with reasons: 11 rows incl. I1 (68pp full-
+employment work — declined on two-pick budget NOT merit, flagged strong future
+candidate), I2012 (future 18-year-cycle addition), I6/I6A verbatim dupes, O12
+incomplete draft, Z1 OCR-garbled tables. K9 checkbox reconciled (mined earlier,
+never flipped). 3 more ampersand 404 stubs recovered + CACHE REPAIRED for future
+sessions. Registry: I2015 Light→Heavy + 2 new rows. Remaining unchecked tail: 95
+rows — 73 workpapers + essays dir + 5 stray publications (C2, E4, E5, E7, E9).
+Inventory regenerated. 882 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: I1 full-employment READ&MINE + I2012 fold + I16 decline
+
+I1 "Toward Full Employment with Limited Land and Capital" (Lynn ed., Property
+Taxes, Land Use and Public Policy, U. Wisconsin Press 1976, pp. 99-166 —
+provenance confirmed from the running head, NOT the Lindholm volume) → research/
+gaffney-full-employment-limited-land.md (883rd page): the Great Revolving Fund
+K·T=F model with full worked derivations — the mathematical machinery the 2015
+China paper USES WITHOUT DERIVING (priority note added there); dR/dn = i(R+S)
+(higher land rent shortens optimal capital-recovery cycles — the paper's most
+policy-relevant original result); monuments/frontiers/war capital-sink taxonomy
+(distinct from WP041/042's five-fold micro version); the neo-Georgist/Keynesian
+"benefits to capital are benefits to labor" critique. Appendices are derivations
+from assumed parameters, not data fits — flagged. I2012 folded into
+18-year-land-cycle: peace-dividend overlay, the 1990-2008 "perfect cycle" claim,
+and Gaffney's own 2012 forecast of a crash "in about 2026" — carried as an OPEN
+dated forecast, deliberately unadjudicated (today sits inside the window; no
+evidence sought either way). I16 skim-confirmed as I1-minus (identical tables/
+epigraph), declined without registry row. Registry +2 rows (I1 Heavy, I2012
+Heavy). I11 surfaced as a related precursor — left flagged for a future
+capital-theory cluster, not chased mid-wave. Inventory regenerated. 883 pages,
+lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: workpapers/essays skim-triage — GAFFNEY CORPUS TRIAGE COMPLETE
+
+95 remaining rows verdicted (65 workpapers + 25 essays + 5 stray publications) →
+FINAL UNCHECKED COUNT: 0. The 190-file triage that began 2026-07-16 is closed.
+Breakdown: ~26 duplicates (byte-identical files, WP mirrors of covered AJES
+essays, an E9 double-listing), ~45 declines (incl. a Bill Gates Sr. op-ed
+mis-hosted under Gaffney's name, book reviews, bare tables, Groundswell columns),
+~23 ranked future candidates recorded in the triage narrative (top: WP048/049
+Peace Dividends pair; Cleveland/Chicago/Michigan city-growth cluster; WP077
+Johannesburg/Cape Town; Great_Expectations bidding-power model; 1972 military-
+spending piece as a priority correction for the corporate-power pages). Bonus
+mine: E4 "Tax Reform to Release Land" (RFF 1972/73, 39pp) → research/
+gaffney-tax-reform-release-land.md (884th page): local governments as collective
+landowners practicing fiscal Mercantilism + three formal models (bidding-power,
+ripening-date, differential-capitalization) not in closed form anywhere else in
+the corpus — priority correction into nimbyism, third independent derivation into
+land-monopoly, context into lvt-dampens-land-speculation. Registry +1; inventory
+regenerated. 884 pages, lint 0 errors. Gaffney lane state: 38+ works read in
+full, ~23 ranked candidates queued, triage ledger authoritative.
+
+## 2026-07-18 (cont.) — Wave: Peace Dividends pair + 1972 military-spending priority
+
+research/gaffney-peace-dividends-land-booms.md created (885th page) from WP048
+(1991, King's College IU meetings — 4pp) + WP049 (2005 teaching module — 7pp,
+course-outline provenance flagged): the peace-dividend overlay cycle in full —
+PRIORITY CORRECTION on 18-year-land-cycle, which had credited the thesis solely
+to the 2012 AFEE lecture (WP048 predates by 21 years, incl. the missing-1912-slump
+and WWII-interruption analyses; WP049's seven-century sweep uses Levasseur
+1892-93, cited nowhere else on the wiki). Bonus wiring: objections/cycles-are-
+credit-not-land gains the boundary-condition point that pre-modern-banking-era
+land booms sit outside the credit school's 1870-onward evidence base. Gaffney's
+own "evidence needed" hedges preserved; no statistical test claimed. The 1972
+"Benefits of Military Spending" (TRED, 53pp) proved MORE significant than its
+#5 ranking: the true earliest caciques/military-rent-seeking source (16 years
+before the 1988 summary, 46 before Gaffney-Cobb), already containing the
+Guatemala/Iran cases — priority notes added to both military pages per the
+no-re-derivation pattern; read ~20% + structure (Sections D-G surveyed only,
+redundant with existing coverage — recorded, not hidden). Registry +3 rows;
+triage annotations resolved; inventory regenerated. 885 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Georgist city-growth cluster (4 works, one cluster page)
+
+research/gaffney-georgist-city-growth-cases.md created (886th page) — WP089
+Cleveland (1pp), WP091 Chicago (2pp), WP077 Johannesburg/Cape Town (2pp, c.
+1991-92), and the Nov-2008 Groundswell Michigan essay (12pp, the only genuinely
+uncovered work). Shape rationale recorded: WP089/091 are the unabridged notes
+behind capsules already on new-life-in-old-cities; WP077's triage note ("no
+dedicated page") was WRONG — two anchor pages existed; the cluster coheres via
+the Pingree→Johnson/Baker lineage visible only read together. Honesty ledger:
+Chicago's 54% growth annexation-caveated AND Gaffney's own "doesn't fully add
+up... more research is needed" hedge preserved; Southfield boom carried WITH
+Oldman's white-flight rebuttal (which Gaffney disputes but doesn't refute with
+data); the "4%" Johannesburg rate flagged as Gaffney's "they tell me," not fact;
+auto-industry trajectory and Group Areas Act named as unaddressed confounders;
+NOTHING added to supported_by anywhere. Deltas to tom-l-johnson, chicago,
+johannesburg-site-value-rating, south-africa. Registry +4 rows; triage
+candidates struck; inventory regenerated. 886 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Great Expectations + WP020 (ranked candidates #1-6 all resolved)
+
+Great_Expectations (2013, ~2pp, unpublished) → research/gaffney-great-
+expectations-bidding-power.md (887th page): NOT a restatement of E4's model —
+no tax variable; instead splits parcel income into current-use vs speculative-
+tail components and shows the tail's extreme interest-rate sensitivity
+(Scrooge-at-3% vs Cratchit-at-10%: 2.1x bidding advantage on current use,
+23.9x on the tail — T2 agent independently re-derived all seven table columns).
+Explicitly flagged as the FOURTH and LATEST strong-hands statement (1961,
+1972-73, 1973, 2013) — no priority claim. Depression-era cartel illustrations
+(NRA/AAA/ALCOA/Texas prorating) carried as Gaffney's own attributed examples,
+not verified against administrative records. WP020 ("OUTLINE, AND ROUGH DRAFT"
+1991/92): the hoped-for peace-dividend priority correction FAILED honestly —
+its revision dates postdate WP048's March-1991 delivery; ~90% tangential
+political history left unmined per scope; ONE narrow delta folded — the 1909
+Dennett Wright-Bridgeford amendment (named/dated where california-irrigation-
+districts said only "a subsequent amendment"), flagged as Gaffney's account
+not legislatively cross-checked. Gaffney's own "(data needed)" sub-theses
+excluded. Registry +2; triage ranked list: #1-#6 ALL STRUCK; only the unranked
+minor bundle remains. Inventory regenerated. 887 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: I11 capital-theory-cluster follow-on (READ&MINE, resolves prior wave's "declined-as-tangential" flag)
+
+I11 "Tax-Induced Slow Turnover of Capital" (5-part *AJES* series, 1970-71) —
+declined-as-tangential in the I-series wave, then surfaced twice more today (I1's
+footnote-40 precursor; the series whose Part V appendix is the Vickrey/Consigny
+proof already pinned on the Alaska page) — read in full this wave (all five parts,
+obtained as Gaffney's own unabridged posted text, already OCR'd this session at
+/tmp/ilnoz_txt/, ~2725 lines). Verdict: **genuine derivational hub, not
+tangential** — strict delta against the four named anchor pages found original
+content the wiki previously touched only at second hand: (1) Part II derives that
+universal capital-expensing converts a corporate income tax into a de facto land-
+rent tax — a 1970 formal precursor to the ATCOR mechanism, 24 years before the
+wiki's next-earliest dated statement (1994's "negative shifting"); (2) Part IV
+applies the 1957 Financial-Maturity-of-Timber Faustmann condition, for the first
+time in Gaffney's corpus, to how a tax-driven fall in site value delays optimal
+harvest timing — the missing derivational middle term between the 1957 monograph
+and the 1976 Full-Employment K·T=F macro model; (3) Appendix I (Vickrey/Matthew
+Gaffney Jr./Holzinger — "after-tax return rises with investment life") is a
+second, previously-uncited proof distinct from the Appendix II proof already
+reprinted on the Alaska page; (4) the body-text verbal derivation of the neutral-
+depreciation theorem (Parts III-IV) was itself new to the wiki, which had only the
+Alaska page's formal Appendix II proof. Given a dedicated page,
+[research/gaffney-tax-induced-slow-turnover](/wiki/gaffney-tax-induced-slow-turnover/)
+(tier `core`). Deltas added to research/gaffney-full-employment-limited-land
+(Bears On + See Also), research/gaffney-financial-maturity-timber (Bears On + See
+Also), research/gaffney-alaska-oil-leasing (follow-on note pointing to the new
+page), concepts/atcor (precursor-dating paragraph), people/mason-gaffney (new
+works-list bullet); concepts/marginal-productivity's Wicksell material noted in
+prose only (K2008 remains the fuller Wicksell-specific citation). O11 ("Time,
+Taxes, Turnover" — the "technical rejoinder" companion) fetched and read for
+context per the triage's own characterization; confirmed as a priority/
+terminology dispute restating rather than extending I11, not separately mined.
+Theoretical (Type-C) throughout — kept out of every `supported_by` array, per the
+same discipline applied to I1's Appendix 3 result. Text mirrors saved to
+`sources/gaffney/text/I11-TaxInducedSlowTurnoverofCapital.CV.txt` and
+`sources/gaffney/text/O11Time_Taxes_Turnover.CV.txt`. Registry: I11's existing row
+updated (Wiki Page → new dedicated page, Scan Depth Light → Heavy, Tier
+supplementary → core, authors extended to credit Appendix I's Vickrey/M. Gaffney
+Jr./Holzinger); +1 new row for O11 (supplementary, Light). Triage file's I11/O11
+entries marked RESOLVED with cross-references. Single writer for
+sources/registry.csv this wave; wiki-inventory.csv intentionally not regenerated
+per instructions (a separate T3 annotation agent is concurrently active on
+non-Gaffney pages). `lint_wiki.py`: 0 errors.
+
+## 2026-07-18 (cont.) — Wave: T3 batch three (cohort compliant; 3 thin pages 3-4x'd)
+
+Annotations: the 2026-07-07..10 cohort (~96 pages, ~406 Sources entries manually
+adjudicated) is ALREADY COMPLIANT — post-convention authorship holds; 24/25
+grep flags were equivalent-phrasing false positives; 1 genuine fix
+(korinek-ng-digital-superstars #5). Lint's own page-level check confirms zero
+debt in the cohort. The annotation lane is likely nearing exhaustion — later
+cohorts are convention-aware; the recurring item's value has shifted to
+thin-page expansion. Burn-down: events/alaska-permanent-fund 312→1,329 words
+(31 inbound — exact 1976 vote, Goldsmith/Jones-Marinescu findings, Walker veto/
+Wielechowski/SB-26 durability arc, all from already-cited sources);
+people/fred-foldvary 238→1,049 (19 inbound — geolibertarianism coinage,
+Geo-Rent estimate, kinetic/potential distinction, Gochenour-Caplan reply, from
+his four research pages); organizations/schalkenbach-foundation 217→545
+(18 inbound — Critics funding history, 2025 P&P-Institute rename). Zero new
+external fetches — every claim traces to a held source. Warnings identical to
+stash-verified baseline. 888 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: minor bundle final sweep — GAFFNEY CORPUS LANE CLOSED
+
+All 19 bundle items READ IN FULL (agent exceeded the skim brief), 19/19
+verdicted: 10 FOLDED (Mendocino TPZ case → forest-taxation; Sales_Tax_Bias 2011
+→ PRIORITY note on europes-fatal-affair-with-vat — Mill Effect stated 5 years
+before the 2016 chapter; WP001/040 1830s canal-boom narrative → 18-year-cycle;
+Sleeping_with_the_Enemy → pigouvian-taxation's new Institutional Capture section
+(RFF Pigou-to-Coase shift); Repopulating_New_Orleans → new-life-in-old-cities as
+a NEGATIVE-case coda; Great_Crash_of_2008 → priority notes, predates the 2009
+AJES paper by 14 months; Katz Commission critique → south-africa; two Russia
+rent-privatization papers incl. 1999 Duma testimony → russia-post-soviet-
+transition), 8 declined-thin, 1 declined-duplicate, 0 unresolved, ZERO new pages
+(closure standard held). CORPUS CLOSURE entry written in the triage as the
+lane's handoff record. Registry +10 supplementary rows; 19 text mirrors.
+888 pages, lint 0 errors. GAFFNEY LANE FINAL STATE: 190-file corpus fully
+triaged and worked — ~40 works read in full onto dedicated/updated pages,
+~20 folded, remainder declined with recorded reasons; 5 priority corrections
+shipped today alone (1961 credit mechanism, 1969 Milwaukee primary, 1991 peace
+dividend, 1972 caciques, 2011 Mill Effect).
+
+## 2026-07-18 (cont.) — Wave: thin-article burn-down (systematic survey, 5 expansions, 3 honest skips)
+
+Survey ranked all pages by words-ascending/inbound-descending. Expanded from held
+sources ONLY: michael-hudson 340→798 (49 inbound — his own Bezemer 2016 paper
+kept as contested interpretation, the Fed negative-$4B land-value accounting
+critique, the previously-uncited 2008 George's-political-critics AJES piece);
+nicolaus-tideman 275→517 (both quantified papers with verification caveats
+carried); lars-doucet 343→540 (ACX dates, Center for Land Economics founding);
+prosper-australia 207→408 (SV11 5.2% Melbourne vacancy, Renegade Economists
+run); new-york-city 462→872 (54 inbound — 1921-31 exemption episode with
+causation caveats + Jan-2025 congestion-pricing eval flagged working-paper).
+SKIPPED with reasons: ryan-collins + patel (held material already fully cited —
+no padding), san-francisco (477w/49 inbound, time-boxed; Saiz/Albouy/Gaffney
+material identified for a future wave). Zero new external fetches; zero registry
+changes needed. 888 pages, lint 0 errors, warnings baseline-identical.
+
+## 2026-07-18 (cont.) — Wave: San Francisco expansion + loop-state checks
+
+places/san-francisco.md 477→~1,260 prose words, stub→false (49 inbound): Saiz
+supply-elasticity (~0.66, non-LVT-argument caveat kept), Albouy land-value
+standing (both papers, "should not be interpreted causally" kept), the 1906
+land-tax-financed rebuild as a surgical summary linking the Gaffney page (D-claim
+sequence-not-consequence caveat via link-out, plus WP020's corroborating line
+cited the same narrow way california-irrigation-districts already does), and a
+Prop-13 section explicitly flagged as the statewide mechanism applied to SF, not
+an SF-specific study. Bidirectional wiring across 7 held pages. STATE CHECKS:
+wiki-queue EMPTY (no arrivals since Cincinnati); all 3 blocked VERIFY rows
+rechecked once each and HONESTLY LEFT BLOCKED (WorldCat now 429s; archive.org
+JS-rendered listing unfetchable; WP041/042 still undated on the source site) —
+no marker changes on failure, per convention. Inventory regenerated (SF
+stub-flag change absorbed). 888 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: thin-article burn-down, tier two (5 expansions from held sources)
+
+Re-ran the systematic survey (words-ascending/inbound-descending, excluding the
+prior tier's 13 expansions + 2 honest skips) restricted to non-research hub
+pages (concepts/people/places/events/organizations/narratives/objections/books/
+texts) — research pages are one-paper summaries by design and were excluded as
+targets, consistent with tier one. Top 8 by inbound among pages <500 words:
+estonia (423w/25), life-of-henry-george (421w/21), lincoln-institute (255w/19),
+single-tax-colonies (277w/17), harrisburg-pennsylvania (427w/16),
+alanna-hartzok (498w/12), karl-fitzgerald (404w/11), town-and-country-
+planning-act-1947 (351w/11). Expanded the top 5 (the last three were already
+adequately sourced relative to size from the prior annotation lane, per lint's
+own page-level check — no genuine gap found, left untouched rather than
+padded). All from held sources, zero new external fetches:
+places/estonia.md 240→~740 prose words (25 inbound — Tiits's 1993/1996/2001
+national valuation history, the Tomson Tallinn-Riga density finding promoted
+from a bare See-Also link to a full section, Andelson's comparative survey);
+books/life-of-henry-george.md 340→~800 (21 inbound — a new "Key Episodes This
+Wiki Draws From It" section consolidating what nine citing pages already pull
+from its Third Period chapters: the 1886 campaign, McGlynn, Davitt, the
+Anti-Poverty Society, the 1897 campaign — plus the one-digit Roosevelt
+vote-total discrepancy carried as an open, unadjudicated note rather than
+silently resolved); organizations/lincoln-institute.md 210→~700 (19 inbound —
+the John C./David C. Lincoln fellowship-naming inconsistency across Gloudemans's
+own papers carried honestly, the Institute's "not subject to detailed review"
+working-paper disclaimer, the OECD Global Compendium, the Taiwan LVIT case
+study); events/single-tax-colonies.md 250→~730 (17 inbound — Fairhope's Des
+Moines single-tax-club origin, the 28-colonist 1894 founding, Joseph Fels's
+Mayland/Essex English colony, and — per the house honesty rule — a new section
+carrying Fairhope's whites-only history from the black-white-wealth-gap
+narrative rather than leaving the colonies page silent on it);
+places/harrisburg-pennsylvania.md 320→~1,010 (16 inbound — the 1975 adoption
+date, Harrisburg's explicit inclusion in the Banzhaf-Lavery/Plassmann-Tideman/
+Yang-Hawley multi-municipality panels rather than only the single-city summary,
+the Cohen-Coughlin Fed survey's Pittsburgh "Renaissance II" confound applied
+by analogy to Harrisburg's own Reed-era redevelopment push, and Steven Cord's
+advocacy role). Bidirectional wiring checked for all five (see-also links from
+citing pages already existed in every case). Registry: no new rows needed —
+Tiits and Hughes were already present despite their source pages' stale
+"not yet in registry.csv" notes. One banned-word slip ("the only" inside "one
+of the only") caught by lint and rephrased before commit. 888 pages, lint 0
+errors, 50 warnings — identical to the git-stash-verified baseline.
+
+## 2026-07-18 (cont.) — Wave: tier-three burn-down (restart-recovered, verified, committed)
+
+Container restart killed the tier-three agent mid-wave; relaunched in resume mode.
+Verdict: the partial work was actually COMPLETE — verifier checked every claim
+word-for-word against held sources (Saratoga roster vs the hosted 1890 text;
+Weyl's COST/dividend figures vs the Radical Markets page; Seligman's debate
+quotes verbatim; Fels's lecture-bureau section corroborated via louis-f-post;
+Widerquist de-stubbed with the Goldsmith caveats). Zero fixes needed — committed
+as recovered. Five pages: saratoga-single-tax-debate, e-glen-weyl, era-seligman,
+joseph-fels, karl-widerquist. LANE-EXHAUSTION SIGNAL (formal): the strict
+sub-500-word high-inbound lane is EXHAUSTED — 43 sub-500 candidates remain but
+only a navigational landing page clears 10 inbound; the rest are short because
+they warrant it. Tier four, if run, should widen to ~750 words targeting the
+high-inbound band: fred-harrison (576w/67 inbound!), hong-kong, william-vickrey,
+singapore, joseph-stiglitz. 888 pages, lint 0 errors, warnings baseline-identical.
+
+## 2026-07-18 (cont.) — Wave: tier-four widened burn-down (all five expanded)
+
+fred-harrison 617→1,735 (67 inbound — Corruption of Economics framed AS ADVOCACY
+with JEL 1996 skepticism cited; the Hoyt Heist section carries Hoyt's own
+disavowal + Harrison's rebuttal; 2008 prediction corroborated via Bezemer with
+existing precision caveats paired); william-vickrey 554→1,207 (the AJES
+capital-neutrality proof found this session, Type-C excluded from supported_by;
+1977 HGT priority per Albouy; Myerson-Satterthwaite lineage); joseph-stiglitz
+533→1,123 (his 1977 paper finally cited directly; Korinek-Stiglitz AI section
+under the rent-gradient rule); hong-kong 727→1,019 (MTR rail+property HK$171.8bn
+with the precondition caveat); singapore 618→974 (ALS 76% effect with the
+congestion-displacement caveat; ERP as Vickrey pricing). One banned-word slip
+("proves") caught and reworded pre-lint. Zero registry changes needed. Verdict:
+one more inventory-driven tier-five scoping pass recommended before declaring
+the seam exhausted. 888 pages, lint 0 errors, warnings baseline-identical.
+
+## 2026-07-18 (cont.) — Wave: tier five — BURN-DOWN LANE CLOSED (mined out)
+
+Widest band yet (500-900w × ≥12 inbound, 21 candidates each read against held
+material): 17/21 ADEQUATE (incl. all 6 portals adequate-by-design and taiwan's
+already-honest Lincoln case study), 4 EXPANDED — and the diagnosis matters: all
+4 were CROSS-LINK gaps, not thinness (Denmark never cited the two DUELING 2007-
+reform quasi-experiments — Høj-et-al full capitalization vs Nielsson-et-al
+precise zero, "unreconciled tension" preserved; geolibertarianism lacked the
+Gochenour-Caplan/Foldvary critique-reply pair + kinetic/potential revenue
+divergence; ecological-georgism got the nonpoint-pollution section its own
+See-Also had promised; lvt-can-be-progressive gains Gaffney 1971 as historical
+corroboration EXPLICITLY out of supported_by with his "remains regressive under
+the best of management" limit kept). FORMAL CLOSURE: the words×inbound seam is
+mined out across five tiers — short high-traffic pages are short because they
+warrant it. Future waves should pivot axes: a systematic Bears-On/reciprocal-
+link gap sweep between today's ~15 new Gaffney pages and their concept/outcome
+homes (the exact failure mode behind all 4 finds). 888 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: reciprocal link-gap sweep (25 links, cohort wiring axis closed)
+
+Mechanical bidirectional audit of today's 23 Gaffney pages vs their referenced
+concept/outcome/objection/place pages: ~50 raw gaps → 25 warranted links added
+across 22 files (all See-Also bullets or one-clause inline pointers — zero new
+paragraphs, zero supported_by changes, verified by diff), 7 skips documented
+with reasons (incl. henry-george.md kept as curated hub; the tax-capitalization
+gap the source page itself had zero-addition-flagged). Notable additions: the
+Pingree Detroit antecedent onto detroit-lvt-proposal; the Somers lineage onto
+lawson-purdy; arnott-stiglitz-hgt got its first See Also section (the
+pre-Stiglitz Gaffney statement); the Losses-of-Nations same-volume companions
+cross-tied. Reverse keyword sweep confirmed the rest of the corpus already
+well-wired. AXIS CLOSED for the cohort; surfaced remainder: gaffney-to-gaffney
+sibling wiring (water↔alaska, urban-land-rent↔synergistic-city etc.) — a
+distinct axis queued next. 888 pages, lint 0 errors, warnings baseline.
+
+## 2026-07-18 (cont. 2) — Wave: gaffney-to-gaffney sibling cross-references (final wiring axis)
+
+Mechanical sibling matrix across all 45 research/gaffney-*.md pages (grepped
+each page for every other slug) found 127 directed edges, 73 one-way. Judged
+each one-way edge against the pair's own stated relationship rather than
+forcing full reciprocity — most one-way citations are legitimate hub pointers
+(california-severance-tax, land-booms-destroy-capital, extractive-resources-
+taxation, noyes-income-stimulating-property-tax, atcor) that would only add
+noise if reciprocated. 25 links added across 13 files where a specific,
+already-articulated relationship was missing its return link: the water↔oil/
+mineral cluster (alaska-oil-leasing gained 4 backlinks incl. water-rent-
+taxation, closing the named example gap; california-severance-tax, mineral-
+leasing-tax-reform, montana-land-policy, capital-gains-free-enterprise, and
+financial-maturity-timber each gained one); the 1961→1972-73→1994→2013 credit-
+concentration lineage (time-dimension-of-space→urban-land-rent→land-
+distinctive-factor→great-expectations-bidding-power) now walkable in both
+directions at every link, land-distinctive-factor being the worst-wired node
+(3 missing links, none); the 1964 urban-sprawl root (containment-policies-
+urban-sprawl) gained backlinks from land-planning-property-tax and urban-land-
+rent; the farm-property-tax trio (property-tax-progressive, rising-inequality-
+farm-property-tax, benefits-farm-programs) closed; neoclassical-stratagem
+gained its first-ever See Also section (two backlinks from land-distinctive-
+factor and two-centuries-land-taxation, both of which named it as a companion
+without it naming them back). Verified urban-land-rent↔synergistic-city (the
+sweep's other named example) was already bidirectional — no action needed.
+Confirmed via re-grep matrix: all 22 targeted pairs now bidirectional. Skipped
+with reasons: extractive-resources-taxation and noyes reciprocating every
+citing case study (hub-page noise); tax-reform-release-land↔containment/
+synergistic-city (bare-link citations, no distinct textual relation, already
+2-hop reachable); peace-dividends-land-booms↔corporate-power-military/rent-
+seeking-global-conflict (no textual overlap — different mechanism, fiscal-
+cycle vs. active rent-capture-protection); land-planning-property-tax↔hidden-
+taxable-capacity (minor shared-dataset footnote, 2-hop reachable via
+philosophy-of-public-finance). The military pair (rent-seeking-global-conflict
+1988 ↔ corporate-power-military 2018) and the turnover-identity chain (tax-
+induced-slow-turnover 1970-71 → full-employment-limited-land 1976 → real-
+assets-model-china 2015) were both already fully wired going in — no changes
+needed. GAFFNEY WIRING AXIS CLOSED — this was the last surfaced axis from the
+reciprocal sweep; no further Gaffney cross-link gaps queued. 888 pages, lint 0
+errors, 50 warnings (unchanged from baseline).
+
+## 2026-07-18 (cont.) — Wave: sibling wiring — GAFFNEY WIRING FULLY CLOSED
+
+45-page matrix (127 directed edges): 25 links added across 13 files closing all
+22 genuinely-warranted pairs — oil/mineral cluster interconnected, credit-
+concentration lineage (1961→1972-73→1994→2013) and urban lineage (1964→1969→
+1972-73→1978→1988) now walkable both directions, farm-tax trio and history-of-
+thought companions tied; turnover lineage and military pair verified already
+wired. 5 skip classes documented (hub pages deliberately one-way; 2-hop-
+reachable footnote pairs; no-textual-overlap pairs). Post-edit re-grep confirms
+bidirectionality. NO further Gaffney cross-link gaps queued — the corpus lane
+and both its wiring axes are now fully closed. 888 pages, lint 0 errors.
+
+## 2026-07-18 — SESSION CAPSTONE (loop day complete)
+
+~29 waves closed this session. Pages 855→888 (+33), lint 0 errors throughout.
+LANES CLOSED TODAY: WS-TECH-RENTS (discovery a-d + gated T1 synthesis: grades
+table now 7 families with the Korinek-Lockwood cross-check); GAFFNEY CORPUS
+(190/190 files verdicted, ~40 works read in full, 6 priority corrections, both
+wiring axes closed); THIN-ARTICLE BURN-DOWN (5 tiers, 27 pages expanded, seam
+formally mined out); T3 ANNOTATIONS (debt paid — later cohorts verified
+compliant); TERMINOLOGY (canonical forms recorded in EDITORIAL); VERIFY channel
+at ground truth (13 deliberate / 3 blocked-documented / 8 resolved today);
+BACKLOG reconciled to truth. REMAINING WORK IS GATED ON FLOYD: Option 3 v2
+manifest review (on hold at his word); branch merge decision (~50 commits ahead);
+provenance attestation; Hermes port; book-copy-blocked verification rows; future
+wiki-queue arrivals (queue empty). Loop continues at maintenance cadence:
+check-ins watch for queue arrivals, Routine firings, and Floyd's return.
 ---
 
 ## 2026-07-16 — Source figures: the load-bearing charts go into the entries (session ij2cr3)

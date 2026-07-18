@@ -64,6 +64,7 @@ The paper's finding is about the *general property tax* (land plus improvements)
 - [Oates & Schwab, "The Impact of Urban Land Taxation: The Pittsburgh Experience" (1997)](/wiki/oates-schwab-pittsburgh/)
 - [Arnott & Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size"](/wiki/arnott-stiglitz-henry-george-theorem/)
 - [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/)
+- [Gaffney (1968): Land as an Element of Housing Costs](/wiki/gaffney-land-as-element-of-housing-costs/) — Part B derives a near-contemporaneous capitalization result independently of this paper
 
 ## Sources
 

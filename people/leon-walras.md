@@ -6,7 +6,7 @@ stub: false
 born: 1834
 died: 1910
 excerpt: "French mathematical economist (1834–1910), founder of general equilibrium theory and the Lausanne School, who called for state ownership of land — arguing land rent alone could fund government and let all other taxes be abolished."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-17
 ---
 
 ## Overview
@@ -53,6 +53,36 @@ shrink in relative terms over time. Blaug groups Walras with
 [John Bates Clark](/wiki/john-bates-clark/) in the United States, advocated
 land nationalization rather than folding land analytically into capital.[3]
 
+## In His Own Words: Gaffney's 1967 Translation
+
+Because most English-language readers know Walras only through William
+Jaffé's translation of the abstract general-equilibrium *Elements*, the
+polemical, Georgist side of Walras's writing is easy to miss. Mason
+Gaffney's 1982 historiographical survey draws on his own then-unpublished
+1967 translation of Walras's *Études d'économie sociale* (1896) to make the
+case directly, calling Walras "a thoroughgoing land taxer, who writes with
+the passion of a Gallic Henry George":[4]
+
+> "In order that the total of personal faculties and their products should
+> belong to the individual, the State must own the land and find in its
+> rent the means to subsist and the source of capital it needs. The
+> assignment of land to the State solves the question of taxation by
+> erasing it." (*Études*, Book II, §8)[4]
+
+> "Lands do not belong to all the men of one generation; they belong to
+> humanity, that is, to all generations of men." (*Études*, Book II, §6)[4]
+
+Walras regarded himself as the intellectual heir of [Quesnay](/wiki/francois-quesnay/)
+and [Turgot](/wiki/anne-robert-jacques-turgot/), and attacked Frédéric
+Bastiat — whom he called the leader of "the 'Chicago School' of France" —
+for denying that land has real, taxable value: "One reaches the top by
+persuading himself that lands which sell at 2000 francs the square meter
+have no value."[4] Gaffney also credits Walras with a detailed transition
+plan compensating existing landholders at a price capitalized from current
+income, building on earlier proposals by James Mill and Hermann Heinrich
+Gossen, and with directly rebutting the claim — still made today — that
+farmland's improvements are too "buried" to separate from its site value.[4]
+
 ## Significance for Georgism
 
 Walras matters to the Georgist case for a reason distinct from George's own
@@ -91,3 +121,11 @@ relic incompatible with rigorous marginal analysis.
    mechanism (bonds funded by future rents) and the grouping of Walras with
    Wicksteed as land-nationalization advocates distinct from Clark's
    land-into-capital merger. [Book page](/wiki/economic-theory-in-retrospect/)
+4. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), pp. 179–180 — used for the direct
+   quotations from Gaffney's own 1967 translation of Walras's *Études
+   d'économie sociale* (1896), the Bastiat exchange, and the transition-plan
+   detail (quotations ≤50 words each; re-verified against the source PDF).
+   [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)

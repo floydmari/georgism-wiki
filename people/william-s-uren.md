@@ -19,7 +19,7 @@ U'Ren and the Direct Legislation League won voter approval of an initiative-and-
 
 - [Henry George](/wiki/henry-george/) — the book that set U'Ren's political career in motion
 - [Single Tax](/wiki/single-tax/) — the policy U'Ren spent his career trying, and failing, to enact through direct democracy
-- [Joseph Fels](/wiki/joseph-fels/) — soap manufacturer who funded Single Tax ballot campaigns in the U.S., including in Oregon
+- [Joseph Fels](/wiki/joseph-fels/) — soap manufacturer who funded single-tax ballot campaigns in the U.S., including in Oregon
 - [Saratoga Single Tax Debate](/wiki/saratoga-single-tax-debate/) — contemporary single-tax movement debate
 
 ## Sources

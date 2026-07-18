@@ -68,3 +68,4 @@ Verified against the open-access article (abstract and Results):[1]
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the data-rich contrast case
 - [Almy, *Valuation and Assessment of Immovable Property* (OECD)](/wiki/almy-oecd-valuation-assessment/) — the international-capacity caveat
+- [Mass Appraisal International Cases](/wiki/mass-appraisal-international-cases/) — six more single-country cases, method-comparable to iLVM's expert-weighted approach

@@ -5,7 +5,7 @@ tags: [organizations, research, assessment, lvt, doucet]
 url: https://landeconomics.org/
 stub: false
 excerpt: "A US nonprofit research and education organisation launched in 2025 by Greg Miller and Lars Doucet, focused on equitable land assessment and open-source tools for modelling land value tax shifts."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ The **Center for Land Economics** (CLE) is a US nonprofit research and education
 
 ## Focus
 
-The Center's central concern is **land assessment** — building better methods and data to value land separately from improvements, directly tackling the most common [objection to LVT](/wiki/land-cannot-be-assessed/), that land value cannot be assessed accurately. Its flagship tool, **LVTShift**, is an open-source modelling platform that lets a city estimate the effect of a land-value-tax shift on property tax bills by property type and neighbourhood, drawing on parcel-level data about vacant and underutilised land and land-to-improvement ratios.[4] The Center has also published empirical studies of assessment failures — including analyses of the systematic undervaluation of vacant land in Baltimore and across Maryland (2024–2026), arguing that such undervaluation shifts tax burdens and rewards speculative blight.[5]
+The Center's central concern is **land assessment** — building better methods and data to value land separately from improvements, directly tackling the most common [objection to LVT](/wiki/land-cannot-be-assessed/), that land value cannot be assessed accurately. Its flagship tool, **LVTShift**, is an open-source modelling platform that lets a city estimate the effect of a land-value-tax shift on property tax bills by property type and neighbourhood, drawing on parcel-level data about vacant and underutilised land and land-to-improvement ratios.[4] The Center has also published empirical studies of assessment failures — including analyses of the systematic undervaluation of vacant land in Baltimore and across Maryland (2024–2026), arguing that such undervaluation shifts tax burdens and rewards speculative blight.[5] It has also partnered with student policy teams on city-level parcel simulations, including the University of Notre Dame Student Policy Network's South Bend and Princeton reports and, most recently, [an analysis of a hypothetical land value tax shift for Cincinnati, Ohio](/wiki/ndspn-cincinnati-lvt-analysis/) (July 2026).
 
 ## Significance
 
@@ -26,6 +26,7 @@ Where older organisations preserve and teach the tradition, the Center for Land 
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the objection the Center's assessment work directly addresses
 - [Land Value Tax](/wiki/land-value-tax/) — the policy the Center's LVTShift tool models
 - [Common Wealth Canada](/wiki/common-wealth-canada/) — a comparable data-driven organisation focused on Canada
+- [Miller & Hoskins — College-Town LVT Shift Simulations](/wiki/miller-hoskins-college-town-lvt/) and [Notre Dame SPN's Cincinnati LVT Analysis](/wiki/ndspn-cincinnati-lvt-analysis/) — the Center's partnered student-policy parcel simulations
 
 ## Sources
 

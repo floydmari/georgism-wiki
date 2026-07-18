@@ -160,7 +160,7 @@ tests.
    2018-080, Federal Reserve Board — used for US cohort homeownership (50% vs 34%), the
    net-worth gap, and the no-preference-shift and recession-timing caveats.
    [wiki summary](/wiki/kurz-li-vine-are-millennials-different/) ·
-   [PDF](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf)
+   [PDF](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf) · [archived](https://archive.progress.org/files/are-millennials-different.pdf)
 4. Knoll, Schularick & Steger (2017) — used, attributed, for the decomposition assigning most
    of the post-1950 house price boom to land.
    [wiki summary](/wiki/knoll-schularick-steger-house-prices/)

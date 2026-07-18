@@ -62,6 +62,7 @@ Steelmanned, the argument is: Georgist theory treats land's value as a pre-exist
 ## See Also
 
 - [Foldvary's Reply to Caplan & Gochenour](/wiki/foldvary-reply-gochenour-caplan/) — the peer-reviewed rebuttal
+- [Geolibertarianism](/wiki/geolibertarianism/) — the position whose land/capital distinction this critique targets
 - [Objection: Search-Theoretic Critique of Georgism](/wiki/search-theoretic-critique/)
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Economic Rent](/wiki/economic-rent/)

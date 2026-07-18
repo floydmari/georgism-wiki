@@ -5,7 +5,7 @@ tags: [objections, land-capital-distinction, john-bates-clark, neoclassical-econ
 stub: false
 status: "Addressed on the economics — the enumerated differences (fixed supply, non-reproducibility, permanence, immobility) are accepted across the ideological spectrum and do the real analytic work; the historical question of why land was reclassified remains genuinely contested"
 excerpt: "The claim, traced to John Bates Clark's 1899 marginal-productivity theory, that land has no economically meaningful distinction from capital — so singling land out for taxation is arbitrary. The steelman, the responses, and the contested history."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -95,7 +95,14 @@ Clark exegesis:
    Gaffney's [catalogue of land as a distinctive factor of production](/wiki/gaffney-land-distinctive-factor/)
    assembles the same enumerated differences — fixed supply, immobility,
    non-reproducibility — as the economic core of the distinction, independent
-   of the political-history argument.
+   of the political-history argument, and adds a mechanism the other sources
+   here do not: because land purchase is "not self-liquidating" — buyers'
+   cash flow rarely covers even interest on the price, let alone principal —
+   land acquisition depends on prior collateral rather than productive
+   intent, quoting agricultural economist Rainer Schikele that "[t]he basis
+   of credit is not marginal productivity, but collateral security," which
+   Gaffney argues is why land, unlike capital, concentrates in "financially
+   strong hands" independent of who would use it most productively.
 3. **Not every marginalist made Clark's move.** The land/capital merger was
    an American, largely Clark-and-Fisher-specific development, not a
    necessary consequence of adopting marginal analysis. Blaug records that
@@ -117,16 +124,51 @@ Clark exegesis:
    across twenty-eight years — evidence, on this reading, that the
    reclassification was not a disinterested analytic advance but a response
    to a live political threat.[3][6]
+5. **Even exhaustible land is not depreciating capital in the building
+   sense.** Gaffney's [1965 rent-theory paper](/wiki/gaffney-soil-depletion-land-rent/)
+   works out the depletable-resources caveat (below) in formal detail rather
+   than asserting past it: building on a four-category taxonomy of soil
+   fertility, he shows that "depletion of virgin fertility... does not
+   ordinarily detract much from ground rent" — most agricultural land income
+   remains genuine rent even accounting for exhaustible fertility, with only
+   the "revolving fund" portion (nutrients economically replaced from
+   off-site, "best likened to an inventory") properly counted as a return on
+   capital rather than rent.[7] His structural argument is that soil
+   *conservation* and building *maintenance* are economic opposites, not
+   variants of the same thing: "structures deteriorate with time, which
+   nature uses to undermine the work of man; soils deteriorate with use,
+   whereby man undermines the work of nature."[7]
 
 ## Limits and Caveats
 
+- **The Wicksteed grouping needs a caveat.** This page's Response (point 3)
+  follows Blaug in grouping [Philip Wicksteed](/wiki/philip-wicksteed/) with
+  Walras as a marginalist who "kept land distinct enough to advocate its
+  nationalization" rather than merging it into capital. Gaffney's own 1982
+  historiographical survey, [*Two Centuries of Economic Thought on Taxation
+  of Land Rents*](/wiki/gaffney-two-centuries-land-taxation/), complicates
+  this: on Gaffney's primary reading, Wicksteed's *theoretical* apparatus
+  parallels Clark's, not Walras's — "All resources are fixed... Rent is
+  erased. 'There is no surplus at all'" (Wicksteed 1914, p. 15). Wicksteed's
+  Fabian, pro-land-tax *politics* are not in dispute, but his marginal-
+  productivity framework gave land no more privileged analytical status than
+  Clark's did. The two readings are reconcilable — a marginalist could keep
+  George's politics while adopting an apparatus that erased George's
+  theoretical premise — but they show the "not every marginalist made
+  Clark's move" claim needs Wicksteed handled carefully, case by case, not
+  as a clean counter-example.
 - **The distinction blurs at real margins, not just in theory.** Depletable
   natural resources (minerals, oil) genuinely are "used up," in tension with
   the "permanent, non-depreciating" description; and the
   [search-theoretic critique](/wiki/search-theoretic-critique/) shows that
   discovering what a site is actually worth is itself a costly, produced
   activity — so land's value is not simply a free, static gift of nature at
-  every margin. The rent-gradient point stands regardless: whatever the
+  every margin. Response point 5 above (Gaffney 1965) answers the
+  depletable-resources half of this caveat in formal detail — most
+  exhaustible-fertility income is still rent, not capital return — but the
+  caveat's core point stands for the *remaining* fraction near actual
+  exhaustion, which Gaffney himself concedes shifts toward capital
+  liquidation. The rent-gradient point stands regardless: whatever the
   qualification, it is far weaker for land than for the frontier cases
   (patents, platforms) this wiki treats as genuinely contested.
 - **Separating land value from structure value is a real practical problem,
@@ -171,6 +213,7 @@ economics, unresolved by the 2025 literature this page cites.
 - [Rethinking the Economics of Land and Housing (book)](/wiki/rethinking-economics-land-housing/) — the fullest statement of the land/capital differences
 - [Objection: the Austrian critique of LVT](/wiki/lvt-austrian-critique/) — the adjacent objection this page expands on
 - [Rothbard, "The Single Tax" (1957)](/wiki/rothbard-single-tax/) — the Austrian-school statement of the land-is-just-capital argument, holding there is no economically meaningful distinction between land and other capital goods
+- [Gaffney (1965): Soil Depletion and Land Rent](/wiki/gaffney-soil-depletion-land-rent/) — the formal answer to the depletable-resources caveat
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/)
 
 ## Sources
@@ -206,3 +249,17 @@ economics, unresolved by the 2025 literature this page cites.
    abstract and journal landing page free) — used for the "theoretical
    choice rather than logical necessity" finding and the Alvin Johnson
    "natural capital" counter-example. [Wiki summary](/wiki/missemer-pottier-land-labor-capital/)
+7. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), p. 154 — used for the primary-source
+   complication of the Wicksteed/Walras grouping: Wicksteed's marginalist
+   apparatus, unlike his politics, is grouped by Gaffney with Clark's
+   land-erasing move (attributed; quotation re-verified against the source
+   PDF). [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)
+8. Mason Gaffney (1965), "Soil Depletion and Land Rent," *Natural Resources
+   Journal* 4(3): 537-557 — used for the four-category soil-fertility taxonomy
+   and the conservation-vs-maintenance argument answering the depletable-
+   resources caveat (quotes ≤50 words, verified against the source PDF).
+   [wiki summary](/wiki/gaffney-soil-depletion-land-rent/) ·
+   [PDF](https://masongaffney.org/publications/B5Soil_Depletion_%26_Land_Rent.CV.pdf)

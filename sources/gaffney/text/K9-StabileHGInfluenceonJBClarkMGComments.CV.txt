@@ -1,0 +1,526 @@
+pr
+| Henry George’s Influence on John Bates Clark:
+The Concept of Rent was Pivotal to Equating Wages with the
+| Marginal Product of Labor
+By DONALD R. STABILE* .
+ABsTRACT. John Bates Clark’s marginal productivity theory of income -distri-
+bution has been portrayed as being derived from David Ricardo. This article
+| traces the influence Henry George had on that theory in providing a standard
+for measuring labor’s addition to aggregate output as comparable to what could
+be earned on no-rent land. Following George, John Bates Clark extended that
+standard to include no-rent capital. .
+| I .
+|
+Introduction
+HISTORIANS OF ECONOMIC THOUGHT usually teach that John Bates Clark based
+his formulation of the marginal productivity theory of income distribution
+on ‘“‘a generalization of Ricardo’s theory of rent.”’ (Rima 1978, 252) Scholars
+interested in the writings of Henry George, however, have often pointed out
+that Clark attributed his conception of the marginal product of labor to
+George's theory of rent. (Teilhac 1936, 172; Geiger 1941, 98; Bruchy 1972,
+115; Dwyer 1982, 363; Genovese 1984, 133; Yeager 1984, 196-97) Despite
+this interest, George’s influence on Clark has been analyzed only briefly.
+. (Collier 1979, 266-67)
+. Because Clark and George had different objectives in mind when it came to
+explaining the distribution of income, Clark’s indication of George’s influence
+needs to be explained with greater detail. After all, Clark has a reputation as a
+pioneer in neoclassical economics, being ‘‘a central figure in the emergence of
+the marginal productivity analysis of distribution.” (Baumol 1985, 2) George
+on the other hand anticipated many arguments of institutional economics and
+had little use for the marginalist school. (Horner 1993, 248-50) Nevertheless,
+George and Clark had common interests. Clark employed a socioeconomic
+perspective before his discovery of marginalism and based it on a populist frame
+of mind similar to George’s. (Henry 1982, 175-77) He shared George’s sympathy
+for the goals of labor unions and distaste for socialism. (Clark 1886, 37 and 68;
+* Donald R. Stabile, PhD., is professor of economics at St. Mary’s College of Maryland, St.
+Mary's City, MD 20686. ;
+American Journal of Economics and Sociology, Vol. 54, No. 3 Quly, 1995).
+© 1995 American Journal of Economics and Sociology, Inc.
+374 American Journal of Economics and Sociology
+Henry 1983, 377; Genovese 1991, 113 and 123) Clark was also willing to adopt :
+good ideas whatever their source. This article traces out that adaptation with
+respect to George, starting with the problem Clark needed to solve. ,
+I f
+Clark’s Theory of Distribution \
+CLARK'S SOCIOECONOMIC PERSPECTIVE formed an important component of his first
+major treatise on economic theory, The Philosophy of Wealth. (Clark 1886) Its .
+premises resembled institutional economics, (Jalladeau 1975, 213) for it stressed . .
+the need of envisioning society as a social organism: {
+It is not merely man as an individual that needs to be considered. A man is not independent. :
+| So close is the relationship between him and others of his race that his conduct is dictated t
+and his nature transformed by it. Though a self-directing being of the highest organization, i
+he is made by his relations to others, to be an atomic part of a higher organism—society. é
+(Clark 1886, 37) ge
+George shared Clark’s appreciation for the usefulness of treating society as an
+organism and both recognized, as did Austrian economics, that analysis of the
+individual units of that organism were as important as analysis of the total picture.
+(Yeager 1954, 188)
+As part of ongoing social change, Clark perceived a trend toward the consol-
+idation of capital, which was replacing the individualist competition that pre-
+viously existed. This trend altered the balance of power between capital and
+labor. (Clark 1886, 65-73) According to Clark, the “‘solidarity of capital’ was
+being countered by ‘“‘a solidarity of labor.” (Clark 1886, 68) This opposed sol-
+idarity, however, fostered social strife, with each party claiming justice was on
+its side. At this point, Clark set forth the need for a standard regarding income
+distribution,
+If it is humanly possible to thus settle the questions at the basis of the law of wages, no
+scientific work can be more immediately and widely beneficent. These questions tend, if
+rightly answered, to public order; if wrongly answered, to communism; and if unanswered,
+to agitation and peril. (Clark 1886, 109) ’
+Clark eventually settled on the marginal productivity theory of wages as pro-
+viding a standard of justice to which labor and capital could both comply. Royall
+Brandis characterizes Clark’s analysis of income as a factor return on the basis
+of fairness in no uncertain terms, ‘‘The return measured the contribution to
+production, the contribution to production measured desert, and, thus, reward
+and desert were equated and justice was done.” (Brandis 1985, 873)
+In his classic statement of marginal productivity theory in The Distribution
+of Wealth (1989), Clark made this equation quite clear, “It is the purpose of
+George and J. B. Clark 375
+this work to show that the distribution of the income of society is controlled by
+a natural law, and that this law, ifit worked without friction, would give to every
+agent of production the amount of wealth which that agent creates.” Regarding
+wages, he added, ‘“‘However wages may be adjusted by bargains freely made
+between individual men, the rates of pay that result from such transactions tend,
+it is here claimed, to equal the product of industry which is traceable to the
+labor itself. . .’ The same rule applied to interest and profit. (Clark 1965, v)
+(The words italicized here presaged important work by other economists gen-
+erations later.)
+
+Clark devoted most of the book to explaining, justifying and applying this
+natural law. With some changes, Clark’s version of marginal productivity theory
+
+has become standardized in modern economic theory when it uses the concept
+
+| of an aggregate production function to explain the distribution of income. (Tobin
+1985, 31-32) Clark defined this aggregation approach as follows, “The pay of
+labor in each industry tends to conform to the marginal product of social labor
+employed in connection with a fixed amount of social capital, as such.” (Clark
+1965, 116) Atany time, society had a fixed amount of labor. It was the additional
+contribution made to total production by an individual unit of that social labor
+that determined wages.
+
+Clark used his theory to provide the basis for a fair distribution of income.
+He could counter claims by socialists that workers were not getting all they
+produced. (Henry 1983, 376-78) His point was that while workers were paid
+in line with what they produced, ‘the whole product of industry does not go
+to the worker.” Capital added to production and deserved a share of total output.
+(Clark 1965, 82-84)
+
+To make his approach operational, Clark needed to describe how the marginal
+product of labor could be identified and measured as a social outcome. His
+solution to this aggregate measurement problem came from George. Starting
+from Adam Smith’s notion that in a early state of society a person working
+without capital, or any payment of rent, would earn all of what was produced,
+
+Clark added, ‘‘Mr. Henry George has advanced an interesting theory which makes
+the gains of men who are in this condition set the standard of general wages.”
+(Clark 1965, 84) Clark’s basis for wage determination reflected George’s thinking
+‘on the topic. Since George did not find the economic system to be fair, his
+thinking with regard to income distribution needs to be explained before Clark’s
+use of it can be considered.
+; Il
+Henry George on Income Distribution
+CLARK SUPPLIED NO CITATIONS to George’s writings in The Distribution of Wealth
+but in his earlier book, The Philosophy of Wealth, he specifically referred to the
+376 American Journal of Economics and Sociology
+
+third chapter of Progress and Poverty. Clark’s appreciation for George’s theory {
+of wages at this time was clearly stated: ‘Certain opponents of Mr. Henry George .
+have committed the strategic error of attacking his system at an impregnable -
+point, namely, his theory of the origin of wages.” Although he found problems }
+with George’s theory, as will be described below, Clark remarked, “On the
+single point, . . . that products are the source from which labor derives its
+
+maintenance, Mr. George's reasoning is as conclusive as anything in mathe-
+
+matics.” (Clark 1886, 126)
+
+Clark’s praise for George’s theory of wages did not extend to all of his work. .
+In his overall appraisal of that work, Clark “referred to George’s theory ‘with 7
+all its absurdity’.” (Bruchey 1972, 105) Very likely, Clark would have found it {
+
+objectionable that George wanted to explain why ‘‘widespread want is found f
+in the midst of the greatest abundance” and that he placed the burden for ‘the é
+cause of want and misery” on “‘the injustice of society.” (George 1954, 7 and i
+141) As noted above, Clark employed marginal productivity theory to explain . 7
+how the distribution of income under ideal conditions was socially just. He Z
+. wanted to refute theories which claimed the distribution was unjust and occa- .
+sionally singled out George as one of his targets. (Collier 1979, 267)
+
+As is well known, George found the root of injustice in rent on land. He
+defined rent not simply as the amount paid to superior land, but as an ownership
+return. As long as good land was abundant, no one would pay a premium for
+it. When all the good land was taken up, however, superior land earned a rent
+in comparison to inferior land. The natural productiveness of land led to the
+differential output that created rent, but ownership determined who received
+it. As George concluded, “‘Rent, in short, is the price of monopoly, arising from
+the reduction to individual ownership of natural elements which human exertion
+can neither produce nor increase.” (George 1954, 166-67)
+
+When land was privately owned and not reproducible, the other factors had
+to pay a premium for its use. As a result, “the law of rent is necessarily the law
+of wages and interest taken together, for it is the assertion, that no matter what
+the production which results from the application of labor and capital, these
+two factors will receive in wages and interest only such part of the produce as :
+they could have produced on land free tothem. . .” Thus, in terms of a theory
+of distribution, George claimed that rent was a payment of the monopoly price
+of land and that this had harmful consequences for society.
+
+Rent was a deduction from total output before wages and interest were
+paid. George described this outcome with blunt detail, ‘Produce — Rent =
+Wages + Interest.’”’ Wages and interest were not a function of the output of
+labor and capital, but were based ‘‘upon what is left after rent is taken out.”’
+
+No matter how productive labor and capital became, as long as rent kept
+George and J. B. Clark 377
+pace with their productivity growth, ‘‘neither wages nor interest can in-
+crease.’ (George 1954, 171)
+
+With the owners of the natural powers of land able to secure a premium
+merely for their ownership, the distribution of income could hardly be called
+fair. Instead, there would be “progress and poverty.” For this reason, George
+saw the single tax on land rent as a solution for poverty. Few of his reputable
+contemporary economists subscribed to this tax. Clark several times opposed
+treating land as a special resource. (Collier 1979, 269)
+
+Moreover, Clark was interested in the emerging issue of his day, the distri-
+bution of income between labor and capital. Rent on land scarcely figured in
+his writings, even though he admitted that any division of output “between
+
+capitalists and laborers, must, if the traditional theory of rent be tacitly accepted,
+! be regarded as what remains to the producing classes after rent has been paid.”
+To be sure, Clark hedged on his acceptance of the traditional theory, feeling
+that it needed ‘‘an extensive supplementing.” (Clark 1886, 125n) Nonetheless,
+the concept of rent did figure into Clark’s theory of wages, and it was here that
+George had useful insights for him.
+IV
+George on Wages
+GEORGE'S VIEWS ON wages were set forth in two separate parts of Progress and
+Poverty, Book I (Wages and Capital) and Book III (The Laws of Distribution),
+Chapter 6 (Wages and the Law of Wages). Book I was primarily concerned with
+refuting the wages fund doctrine of classical political economy, which held
+wages to be determined by the total amount of capital in the economy at any
+given time. Since Clark found the wages fund to be in error at about the same
+time, (Clark 1886, 20-21 and 126-27) he might be expected to be a sympathetic
+reader of Book I.
+
+Although George’s argument was quite long, in essence he argued that wages
+were based on what labor produced, not on some preexisting stock of com-
+modities for the maintenance of labor that preceded production. Moreover, in
+looking at what a worker produced, George took a marginalist approach. From
+the perspective of social production, he insisted, a worker “receives in return
+for the addition his labor has made to the general stock of wealth, a draft upon
+that general stock. . .” This result meant that wages represented for the worker
+“the wealth, or a portion of the wealth, his labor has already added to the general
+stock.” (George 1954, 23 and 29)
+
+By thinking of wages in terms of what workers added to total production,
+George had something akin to marginal productivity theory in mind. His state-
+378 American Journal of Economics and Sociology
+
+ment about labor’s addition to the general stock of wealth resembled Clark’s :
+notion of wages as the contribution of a marginal unit of social labor, and predated
+it. Because Clark had read Progress and Poverty before his marginalist revolution, :
+there is evidence to ascribe Clark’s formulation of marginal productivity theory ‘
+to George, despite their disagreement on other issues. 7
+
+The influence was purely stimulative, however, because George never trans-
+lated his rudimentary marginalism into a theory of wages. As Martin Bronfen-
+brenner has written, George used ‘“‘marginalist ideas without marginalist lan-
+guage” and dismissed several early marginalist writers as perplexing. (Bron- i
+fenbrenner 1985, 16; see also Aslanbeigui and Wick 1991, 241) In his last, e ;
+incomplete work, The Science of Political Economy, George characterized mar- f
+ginal utility as an “elaborate piling of confusion on confusion.” His one reference if
+to Clark lists Clark’s definition of wealth with that of other notable economists, i
+while his critique of a theory of income distribution refers to John Stuart Mill. i
+(George 1981, 217, 123 and 430-69) ;
+
+If George helped devise the marginal productivity theory of distribution, he J
+never admitted to it. Regardless, in his own marginalist revolution, Clark did
+
+make use of George’s law of wages from Book III, Chapter 6.
+
+| George based his law of wages on the notion that humans wanted to
+exert themselves as little as possible. With competitive wages, this
+meant that equal exertion under similar conditions should generate equal
+pay. No worker would supply greater effort than other workers without
+higher pay.
+
+When workers determined whether the wages offered them were worth -
+the effort, they took into account other opportunities available to them. As .
+a result, George argued, ‘“‘the terms at which one man can hire others to
+work for him. . . will be fixed by what the men could make in laboring for
+themselves.” (George 1954, 205) At that time in the U.S., George observed,
+there was plenty of land on the frontier. Instead of working for someone
+
+else, labor could stake a claim and earn a livelihood on land. The amount 7
+that could be earned on that land set the minimum amount of wages. If :
+employers offered wages below this amount, workers would go out and :
+homestead.
+
+The problem was a bit more complicated when there was land of different
+quality involved, for in that case the income of the labor included an implied
+rent for the land along with wages earned by labor. (George 1954, 206-07)
+
+Rent still had to be deducted from production to establish wages. Ultimately,
+however, wages were based on what labor on the poorest land could earn. Labor
+on no-rent land explained the general level of wages.
+George and J. B. Clark 379
+
+Supply and demand explained relative wages, but not their general level. As
+George put it,
+
+When it is said, as is commonly said, that the general rate of wages is determined by supply
+and demand, the words are meaningless. For supply and demand are but relative terms. The
+supply-of labor can only mean labor offered in exchange for labor or the produce of labor,
+and the demand for labor can only mean labor or the produce of labor offered in exchange
+for labor. Supply is thus demand, and demand supply, and, in the whole community, one
+must be coextensive with the other. (George 1954, p. 208-9)
+
+To explain the general wage level, George replaced supply and demand ar-
+guments with a law of wages that rested on no-rent land: ‘“‘Wages depend upon
+the margin of production, or upon the produce which the laborer can obtain if
+at the highest point of natural productiveness open to it without the payment
+of rent.’’ (George 1954, 213) The general wage level rose and fell with changes
+in what could be earned on no-rent land. It was this postulate that Clark found
+so helpful.
+
+Vv
+Clark on Wages
+
+ALTHOUGH HE FOUND IT USEFUL, Clark did not take over George’s theory of wages
+intact. As a description of what was taking place in the U.S., Clark objected to
+George’s law of wages on the grounds that even no-rent land required some
+. capital be used and that it ignored the part rising land values had played in
+farmers’ incomes in the U.S. Even homesteaders on the frontier experienced
+appreciable gains on their land in a very short time. In addition, those gains
+were spent on further improvements, financed by credit, which transferred
+themselves into higher earnings for industrial capitalists and workers. (Clark
+1965, 84-7) The spread of civilization brought widespread prosperity to labor
+
+and capital, not just to the owners of land.
+Given these qualifications, Clark applied George’s concept to industry. There
+he found that the margin where workers kept everything that was produced was
+. when they utilized “the poorest instruments that are kept in action at all.” He
+
+explained,
+
+To make the existing stock of capital goods available to the larger number of men, it would
+be necessary to work the worn tool, the rickety engine, the unseaworthy ship, etc., somewhat
+longer than it would have been used under former conditions. When it is at the point of
+abandonment, however, the labor that uses it creates wages only. (Clark 1965, 97)
+
+Labor working with no-rent capital set the level of wages for the rest of society.
+This wage theory was ‘‘akin to that of Mr. George,” Clark concluded, if it was
+amended to read, ‘“‘all men must accept what any of them could produce, if they
+chose to use marginal land and other valueless instruments.” (Clark 1965, 98)
+380 American Journal of Economics and Sociology
+At some level of production, there always were workers whose pay was low
+enough that employers were indifferent as to whether they should be hired and
+put to work with no-rent capital. Clark thus marked off a ‘‘zone of indifference,”
+a sort of industrial frontier, where “‘men may come or go without affecting the ;
+employers’ pockets.” (Clark 1965, 102) It was in this zone that the natural law :
+of wages and distribution operated, and the last workers hired in it set the wage
+level for all other workers.
+This result would not appear to invoke the sense of fairness Clark sought. For
+Clark to tell workers that their wage depended on the addition to total output
+of workers in the worst case scenario on the grounds that all workers could be
+in that zone was not very inspirational. But Clark was concerned that the process H
+of wage determination was fair, not whether its level added to the well-being :
+of workers—another difference from George. F
+Despite what he gained from George, Clark disliked the notion of injustice that f
+permeated George’s definition of rent. To counter it, he defined rent in its more -
+popular meaning as payment for the use of any instrument. (Clark 1965, 123-4) In :
+addition, Clark’s: theory operated in a static world, wherein the total amount of
+labor and capital were as fixed as the quantity of land, although labor and capital
+were more mobile. Given this fixed amount, there were differential gains to be had
+for better capital and labor. Rent, in the differential sense, applied to all factors of
+production. Skilled workers could earn a rent above what inferior workers earned.
+(Clark 1965, 336-42, 350-51, and 360-63) Better capital also commanded a higher
+return. An income premium reflected society’s willingness to pay for the use of the
+greater productiveness of the particular factor of production
+As for differences in wages, they did not alter the marginal productivity theory
+either. When the pay difference resulted from skills, Clark counted higher paid
+workers as several units of low paid workers. The marginal productivity theory
+applied to these units of labor and not to individual workers. (Clark 1965, 365)
+Since it was society that determined which skills were valuable, it followed that the
+pay of highly skilled workers was a social phenomenon, just as George had said of
+rent on land. For Clark, higher wages for workers were as much a feature of improved
+civilization as the increased rent of land. Clark had indeed extended the theory of
+rent to all factors of production and found in it a theory of social justice. .
+VI —
+Conclusion
+IT 1s CLEAR from the above that Henry George stimulated John Bates Clark’s
+formulation of marginal productivity theory as applied to labor. This influence
+George and J. B. Clark 381
+was not sufficiently powerful to accord George recognition as a member of
+the marginalist revolution. Instead, we must agree with Leland Yeager that
+“George did not understand the marginalist revolution in value theory that
+was getting under way in the last decades of his life.”’ (Yeager 1984, 193)
+This assessment does not mean that we must slight George’s contribution
+to economics, however.
+
+George believed that supply and demand could not explain the general
+level of wages. That was why he employed what could be earned on no-rent
+land as the basis for aggregate wages, making ita key variable in determining
+the distribution of income. From the same perspective, Clark used rent as
+basis for explaining the wage structure, but he retained the marginal pro-
+ductivity theory to explain the overall distribution of income. It meant that
+the growth of capital could increase wages and bring progress and prosperity,
+but only under ideal conditions of competition. The idea of rent as a incre-
+mental return to monopoly power did not figure in marginal productivity
+theory.
+
+On this disagreement, George was the more prescient. As Will and Dorothy
+Lissner point out, (Lissner and Lissner, 1991, 179-81) George understood that
+free enterprise required government intervention against business power to
+remain workable, a view Clark shared. But George added to this the insight that
+government itself could confer rent, skewing the distribution of income in a
+rent-seeking society, a point Clark never made. Neoclassical economics might
+have achieved better insights into the functioning of the modern economy if
+Clark had followed George more closely.
+
+References
+
+Aslanbeigui, Nahid, and Adele Wicks. “Progress: Poverty or Prosperity? Joining the Debate between
+George and Marshall on the Effects of Economic Growth on the Distribution of Income,”
+The American Journal of Economics and Sociology (Apr. 1990):229-56.
+
+Baumol, William J. 1985. ‘On Method in U.S. Economics a Century Earlier,” The American
+Economic Review (Dec.):1-12.
+
+Brandis, Royall. 1985. ‘Distribution Theory: Scientific Analysis or Moral Philosophy?” Journal
+of Economic Issues 19 (Dec.):867-78. ;
+
+Bronfenbrenner, Martin. 1985. ‘Early American Leaders - Institutional and Critical Traditions,”
+The American Economic Review (Dec.):13-27.
+
+Bruchey, Stuart. 1972. ‘‘The Twice ‘Forgotten’ Man: Henry George,”’ The American Journal of
+Economics and Sociology, (Apr.), reprinted in Lissner and Lissner, 1991. ;
+
+Clark, John Bates. 1886. The Philosophy of Wealth, Boston: Ginn & Co.
+
+———.. 1965. The Distribution of Income, New York: Augustus M. Kelley reprint of 1899 original.
+
+Collier, Charles F. 1979. “Clark and Patten: Exemplars of the New American Professionalism,”
+in Robert V. Andelson, editor, Critics of Henry George: A Centenary Appraisal of Their
+Strictures on Progress and Poverty, Rutherford, NJ: Farleigh Dickinson UP.
+382 American Journal of Economics and Sociology
+Dwyer, Terrance M. 1982. “Henry George’s Thought in Relation to Modern Economics,” American
+Journal of Economics and Sociology (Oct.):363-73.
+Geiger, George R. 1941. ‘The Forgotten Man: Henry George,” The Antioch Review (Sept),
+reprinted in Lissner and Lissner, 1991.
+Genovese, Frank C. 1984. “An Economic Classic and Plutology,” The American Journal of Eco- :
+nomics and Sociology, (Oct.), reprinted in Lissner and Lissner, 1991. %
+——. 1991. “Henry George and Organized Labor: The 19th. Century Economist and Social
+Philosopher Championed Labor’s Cause, but used Its Candidacy for Propaganda,” The
+American Journal of Economics and Sociology (Jan.):113-27.
+George, Henry. 1954. Progress and Poverty. New York: Robert Schalkenbach Foundation.
+———.. 1981. The Science of Political Economy, New York: Robert Schalkenbach Foundation.
+Henry, John F. 1982. ‘“‘The Transformation of John Bates Clark: An Essay in Interpretation,”
+History of Political Economy (Summer):166-77. j
+———.. 1983. “John Bates Clark and the marginal product: an historical inquiry into the origin f
+of value-free economic theory,” History of Political Economy (Fall):375-89. :
+Horner, James H. 1993. “Seeking Institutionalist Signposts in the Work of Henry George: Relevance 3
+Often Overlooked,” The American Journal of Economics and Sociology (Apr.):247-55. #
+Jalladeau, Joel. 1975. “The Methodological Concession of John Bates Clark,” History of Political .
+Economy (Summer):209-26. :
+Lissner, Will and Dorothy Burnham Lissner. 1991. George and the Scholars: A Century of Scientific
+Research Reveals the Reformer Was an Original Reformer and a World-Class Social Phi-
+losopber, New York: Robert Schalkenbach Foundation.
+Oser, Jacob, and William C. Blanchfield. 1975. The Evolution of Economic Thought, third edition.
+New York: Harcourt Brace Javonovich.
+Rima, Ingrid Hahne. 1978. Development of Economic Analysis, third edition. Homewood, IL:
+Richard D. Irwin.
+Teilhac, Ernest. Pioneers of American Economic Thought in the Nineteenth Century, translated
+by E. A. J. Johnson, New York: Macmillan, 1936.
+Tobin, James. 1985. “Neoclassical Economic Theory in America: J. B. Clark and Fisher,” The
+American Economic Review (December) 28-38. ’
+Yeager, Leland. 1954. “The Methodology of Henry George and Carl Menger,” The American ;
+Journal of Economics and Sociology, (Apr.), reprinted in Lissner and Lissner, 1991.
+——. 1984. ‘‘Henry George and Austrian Economics,” History of Political Economy, (16:2),
+reprinted in Lissner and Lissner, 1991.
+Comment—Stabile on George and Clark ;
+WE ARE IN DEBT to Professor Stabile for reviewing so clearly Henry George’s
+contribution to marginal productivity theory. As he concludes, ‘neoclassical :
+economics might have achieved better insights. . . if Clark had followed George
+more closely.’ However, Clark never intended to follow George except as a U-
+Boat stalks a troopship. I have documented this elsewhere (1994, 47-59). If
+Clark followed Ricardo, as Rima (cited by Stabile) alleges, it was for the same
+American Journal of Economics and Sociology, Vol. 54, No.3 Quly, 1995).
+© 1995 American Journal of Economics and Sociology, Inc.
+George and J. B. Clark 383
+end, namely to eliminate land and its distinctive rent from the lexicon of eco-
+nomics. Ricardo had to be sunk, too, and Clark did his best.
+
+Clark should not get credit for originating the marginal productivity theory
+of distribution. Professor Stabile might have noted that said theory was developed
+by Henry George’s sometime disciple, Philip Wicksteed (1894), well before
+Clark (1899). The title of Wicksteed’s masterpiece, The Coordination of the
+Laws of Distribution, is obviously paraphrased from ‘The Correlation and Co-
+ordination of These Laws (of Distribution)” (George, 1879, Book III, Chapter
+VII, 218). Wicksteed was formalizing, in more elegant form, an insight from his
+friend George.
+
+Wicksteed, unlike Clark, did that while retaining the identity of land as a
+distinctive factor of production. This could help explain why Clark failed to
+acknowledge Wicksteed. Clark may indeed have been “willing to adopt good
+ideas whatever their source,” as Professor Stabile avers, but he was not always
+willing to give credit. Clark’s main objective was to fuse and confuse land with
+capital, to undercut George’s case for taxing land while exempting capital. To
+this end, it was necessary for him to “rediscover” the theory of marginal pro-
+ductivity in a new framework where land was merged with capital. If that involved
+cribbing, well, his powerful academic friends overlooked it. Wicksteed, after
+all, consorted not just with Henry George but with unseemly Fabians like G. B.
+Shaw and Graham Wallas.
+
+It is insufficient to say Clark ‘shared George’s . . . distaste for socialism,”
+citing Clark from 1886. In 1886 George ran for Mayor of New York with full
+socialist support. Later, Clark regularly uses “‘socialism” and “agrarian socialism”
+as slurring codewords for Georgism - mischievously, because by then socialism
+was in bad odor, and George had broken with the Marxist socialists. Clark disliked
+all the distributive aspects of socialism, whereas George always remained a
+“land socialist.”
+
+Professor Stabile implies that George’s marginalism was inadequate because
+he belittled marginal utility; and Professor Stabile agrees with Leland Yeager
+that George “‘did not understand the marginalist revolution in value theory. . .”
+I submit that he understood it all too well, with sure intuition, and therefore
+smelled a rat that eluded Professors Stabile and Yeager. The main function of
+this value-theory revolution, to rent-takers and their apologists, was to help
+confuse land with capital. The classical idea of capital as stored-up labor marked
+capital sharply off from land; the new demand-side approach to value made
+land and capital much the same. As Frank Fetter crowed, ‘“‘now we have rec-
+ognized utility, regardless of the origin of the good, as the measure of value. . . .
+When the utility theory displaced the cost-of-production theory of value, this
+change of the capital concept (to include land) became a logical necessity”
+384 American Journal of Economics and Sociology
+(1901, 77-78). Ever since, orthodox economics has lacked a defensible concept
+of capital, a weakness grievously exposed in the recent ‘‘Cambridge controversy.”
+
+Professor Stabile rightly writes that Clark averred the growth of capital would '
+raise wages. Since Clark fused land with capital, and let the land supply grow /
+as capital grew, who could disagree? Absurd as it seems, that has been the f
+orthodox view ever since. It is something else to believe that growth of capital E
+proper is an unmixed blessing for labor, when capital can displace labor from
+a fixed land base. The historical displacement of labor by sheep in England,
+and by farm machines in the U.S.A. and Canada, had shown the problem. Pro- .
+fessor Stabile only hints at this point, on which Henry George laid great store. ;
+It bears intense study and elaboration, but has not received it. George may be '
+faulted, and has been, for overstating the matter. Clark and his followers may
+be faulted more, but have not been, for papering it over completely.
+
+MASON GAFENEY* .
+References
+Fetter, Frank, 1901. ‘The Next Decade of Economic Theory.” American Economic Association,
+Papers and Proceedings of the Thirteenth Annual Meeting (February). Rpt. Fetter, 1977
+Fetter, Frank, 1977. Capital, Interest, and Rent. Menlo Park, CA: Institute for Humane Studies
+Gaffney, Mason, 1994. The Corruption of Economics. London: Shepheard-Walwyn
+George, Henry, 1879, rpt 1971. Progress and Poverty. New York: The Robert Schalkenbach Foun-
+dation .
+Wicksteed, Philip, 1894. An Essay on the Coordination of the Laws of Distribution. London:
+Macmillan & Co.
+* [Mason Gaffney, Ph.D., is professor of economics at the University of California at Riverside,
+CA 92521.]
+f
+‘

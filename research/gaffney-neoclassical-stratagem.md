@@ -36,10 +36,17 @@ The thesis is controversial and contested by historians of economic thought, but
 - **Narrative:** [The Corruption of Economics](/wiki/the-corruption-of-economics/) — the persuasive deployment, with both historiographies mapped
 - **Counter-source:** [Blaug, "Henry George: Rebel with a Cause"](/wiki/blaug-henry-george-rebel/)
 
+## See Also
+
+- [Gaffney: Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — Gaffney's broader, sixty-name, less accusatory 1982 companion covering overlapping ground on J. B. Clark's "blocked mental pathway"
+- [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — Gaffney's companion argument on the land/capital distinctions this stratagem thesis claims neoclassical theory erased
+- [Mason Gaffney](/wiki/mason-gaffney/) — the author
+- [Henry George](/wiki/henry-george/) · [John Bates Clark](/wiki/john-bates-clark/)
+
 ## Sources
 
 1. Mason Gaffney (1994), "Neo-classical Economics as a Stratagem Against Henry George"
    — used for Gaffney's thesis (an attributed, contested interpretation) that early
    neoclassical economics was shaped in part to obscure the land question and blunt
-   the single-tax movement. [PDF](https://www.masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/gaffney-neoclassical-stratagem.pdf)
+   the single-tax movement. [PDF](https://www.masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf) · [archived](https://archive.progress.org/gaffney/publications/K1Neo-classical_Stratagem.CV.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/gaffney-neoclassical-stratagem.pdf)
 2. Mason Gaffney & Fred Harrison (1994), *The Corruption of Economics* (book).

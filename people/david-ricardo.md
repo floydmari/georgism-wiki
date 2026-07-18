@@ -6,7 +6,7 @@ stub: false
 born: 1772
 died: 1823
 excerpt: "Classical economist (1772–1823) whose Law of Rent — rent as a price-determined differential surplus — is the analytical engine Henry George generalized, and whose formulation carried land as a distinct factor to the heart of economics for a century."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-17
 ---
 
 ## Overview
@@ -46,6 +46,23 @@ interest made rent theory politically explosive from birth, a lineage
 modern tax system (the claim that public spending flows back to landowners as
 rent).[1][3]
 
+## Not an Advocate
+
+Ricardo himself never campaigned for a land tax; Mason Gaffney's 1982
+historiographical survey of the two-century debate places him among the
+"noncommittal, detached, or supercilious" economists rather than the
+advocates. Gaffney credits Ricardo with the foundational technical point —
+he "merely explains in short and simple terms that a tax on rent is not
+shifted" (Ricardo 1817, Ch. X) — while noting "nothing suggests that he
+cares if this intelligence is put to use." Gaffney's guess is that Ricardo
+"doubted the adequacy of rent for taxes," since his treatment of every
+other tax has it shifted forward onto prices, never backward into rent,
+and he "even rebukes Adam Smith on this point."[4] The distinction matters
+for how the wiki attributes credit: Ricardo supplied the analytical engine
+George generalized into a policy program, but the program itself — and the
+belief that rent could fund government — was George's addition to
+Ricardo's theory, not a conclusion Ricardo drew himself.
+
 ## Significance for Georgism
 
 Ricardo gave George his analytical engine. The [law of rent](/wiki/law-of-rent/)
@@ -75,3 +92,11 @@ ground rent" — precisely the move Georgists contest.[2]
    [Book page](/wiki/economic-theory-in-retrospect/)
 3. Fred Harrison (2006), *Ricardo's Law* — used for the modern revival claim
    (D-claim, attributed). [Book page](/wiki/harrison-ricardos-law/)
+4. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), p. 169 — used for the "noncommittal,
+   detached" characterization of Ricardo and Gaffney's reading that Ricardo
+   doubted rent's adequacy as a tax base (attributed; quotation re-verified
+   against the source PDF).
+   [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)

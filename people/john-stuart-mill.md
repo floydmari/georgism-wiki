@@ -63,18 +63,41 @@ is the central fault line between moderate and thoroughgoing land reform to this
 In 1869 Mill lent his prestige to founding the **[Land Tenure Reform
 Association](/wiki/land-tenure-reform-association/)** (LTRA), and in 1871 he wrote its
 *Programme* with an explanatory statement — his last major public campaign before his death
-in 1873. The programme's most striking plank, Article IV, claimed for the state "the
+in 1873. Mill personally recruited [Alfred Russel Wallace](/wiki/alfred-russel-wallace/) to
+the LTRA in these years; Wallace, newly turned to land reform, deferred to Mill as its
+"veteran economist and social leader" and only struck out on his own more radical
+nationalisation program after Mill's 1873 death.[4] The programme's most striking plank, Article IV, claimed for the state "the
 Interception by Taxation of the Future Unearned Increase of the Rent of Land (so far as the
 same can be ascertained)... reserving to owners the option of relinquishing their property to
 the State at the market value which it may have acquired at the time when this principle may
 be adopted by the Legislature" — heavy taxation of the future unearned increase of land
-values, alongside the promotion of cooperative agriculture, the abolition of primogeniture
+values, alongside the promotion of **cooperative agriculture**, the abolition of primogeniture
 and entail, and the reclamation of waste lands for the public.[2] The LTRA was small and
 short-lived, but its programme carried the (what came to be called) unearned-increment idea
 into organised Liberal politics, where it inspired later generations down to [David Lloyd
 George](/wiki/david-lloyd-george/) and the land-value provisions of the
 [1909 People's Budget](/wiki/1909-peoples-budget/). Through the LTRA, Mill turned a passage
 in a textbook into a live political demand.
+
+## A Skeptical Read of the Gradualism
+
+Mason Gaffney's 1982 historiographical survey treats Mill's gradualism more
+critically than most Georgist accounts. Gaffney notes that Mill "recognizes
+fleetingly that present land values include discounted future increments,
+but dances calisthenically around this," before concluding it is fine to
+tax only future increments — a position Gaffney finds does not hold up,
+since in a rising market "future increments for all future time are
+already reflected in land prices."[3] Yet Gaffney also credits Mill with
+stronger language than the future-increments qualification suggests
+Mill intended to concede: "among the very few kinds of income which are
+fit subjects for peculiar taxation, these (urban) ground-rents hold the
+principal place," and a house-tax, so far as it falls on the
+ground-landlord, "is liable to no valid objection" (Mill 1872, Book V, Ch.
+II) — "for Mill the moralist and logician, that is strong language."[3]
+Gaffney is also more pointed than this wiki's account above about the
+timing of Mill's Land Tenure Reform Association activism, calling it "almost
+a posthumous activity" that came "only after his autobiography is finished
+and his main energies spent."[3]
 
 ## Legacy
 
@@ -127,3 +150,18 @@ classical tradition rather than outside it.
    hosted text and the quotation of it in Mill's own *Principles*, Bk V §5 footnote). Reproduced
    in full on this wiki: [Programme of the Land Tenure Reform Association (1871)](/wiki/land-tenure-reform-programme-1871/).
    [Wikipedia: Land Tenure Reform Association](https://en.wikipedia.org/wiki/Land_Tenure_Reform_Association)
+3. Mason Gaffney (1982), ["Two Centuries of Economic Thought on Taxation of
+   Land Rents"](/wiki/gaffney-two-centuries-land-taxation/), in Lindholm &
+   Lynn (eds.), *Land Value Taxation: The Progress and Poverty Centenary*
+   (University of Wisconsin Press), pp. 174–175 — used for the critical
+   reading of Mill's future-increments qualification, the "peculiar
+   taxation" and house-tax quotations, and the "almost a posthumous
+   activity" characterization of Mill's Land Tenure Reform Association work
+   (attributed; quotations re-verified against the source PDF).
+   [PDF](https://www.masongaffney.org/publications/K142_Centuries_Thought_Land_Taxation.CV.pdf)
+4. Mason Gaffney (1997), "Alfred Russel Wallace's Campaign to Nationalize Land," *American
+   Journal of Economics and Sociology* 56(4): 609–615 — used for Mill personally recruiting
+   Wallace to the LTRA and Wallace's deference to Mill until Mill's 1873 death (A-claim;
+   quotation independently verified against a fresh re-OCR of the scanned source). Full
+   treatment on [Alfred Russel Wallace](/wiki/alfred-russel-wallace/).
+   [PDF (masongaffney.org)](https://masongaffney.org/publications/K17-AlfredRusselWallacesCampaign.CV.pdf)

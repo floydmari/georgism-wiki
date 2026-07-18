@@ -5,14 +5,14 @@ claim_type: problem
 tags: [outcomes, capital-share, land, housing, inequality, piketty]
 stub: false
 evidence_strength: "Strong (independently replicated across US and European data)"
-supported_by: [rognlie-capital-share, knoll-schularick-steger-house-prices, bonnet-land-is-back, la-cava-housing-capital-share, furman-orszag-firm-rents, bakker-land-rents-tfp, kerspien-madsen-strulik-buildings-labor-share, rognlie-piketty-note, stiglitz-land-credit-inequality, davis-heathcote-us-land]
+supported_by: [rognlie-capital-share, knoll-schularick-steger-house-prices, bonnet-land-is-back, la-cava-housing-capital-share, furman-orszag-firm-rents, bakker-land-rents-tfp, kerspien-madsen-strulik-buildings-labor-share, rognlie-piketty-note, stiglitz-land-credit-inequality, davis-heathcote-us-land, gaffney-capital-gains-free-enterprise]
 challenged_by: [autor-superstar-firms, barkai-declining-shares]
 excerpt: "The much-discussed rise in capital's share of income is, on decomposition, overwhelmingly a rise in the value of land under housing — vindicating a core Georgist claim."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 ---
 
 > **At a glance** — When the modern rise in the capital share is decomposed, it is mostly rising housing — and therefore land — value rather than reproducible capital, a result independently replicated across US and European data.
-> **Evidence:** Strong (independently replicated across US and European data) · **7 supporting** sources · **2 challenging**
+> **Evidence:** Strong (independently replicated across US and European data) · **8 supporting** sources · **2 challenging**
 > **Strongest support:** [Rognlie (2015)](/wiki/rognlie-capital-share/) — the long-run rise in the net capital share is concentrated in housing; ex-housing, capital's share is roughly flat. **Strongest counter:** [Autor et al. (2020)](/wiki/autor-superstar-firms/) — reads the falling labor share as a shift toward high-markup "superstar firms," capping how much the land story can claim.
 
 ## The Claim
@@ -60,6 +60,23 @@ economy-wide shift away from labor the land story can claim for itself. The wiki
 [corporate-rents outcome](/wiki/corporate-profits-increasingly-rents/) carries that
 side of the ledger in full.
 
+## A Georgist Ancestor-Statement (1991)
+
+The decomposition above is a modern, quantitative finding, but the underlying claim
+— that what U.S. tax and national-accounts data call "capital" gains and capital
+income are, on inspection, mostly land gains — is not new. [Mason Gaffney (1991)](/wiki/gaffney-capital-gains-free-enterprise/)
+made essentially the same argument a quarter-century before Rognlie's decomposition,
+using tax-code evidence rather than macro data: he catalogued the U.S. income tax's
+extensive preferential treatment of "capital gains" — deferral, covert land
+depreciation, step-up of basis at death — and argued these provisions overwhelmingly
+benefit land rather than produced capital, because true capital "depreciate[s],
+usually fast," while land's "gains" are pure, undiminished appreciation. This is
+listed here as the argument's Georgist **ancestor-statement**, not as independent
+quantitative confirmation of Rognlie's or Bonnet et al.'s specific magnitudes —
+Gaffney's essay is advocacy reasoning from tax-code mechanics and anecdote, not a
+national-accounts decomposition. See the [full page](/wiki/gaffney-capital-gains-free-enterprise/)
+for its honest limits.
+
 ## Why It Matters
 
 If inequality's capital dimension is really a **land** dimension, a tax on land values targets the actual driver — without the efficiency cost of taxing productive capital. This connects 21st-century inequality research directly to Henry George's 19th-century diagnosis in *[Progress and Poverty](/wiki/progress-and-poverty/)*.
@@ -95,3 +112,9 @@ An independent macro confirmation comes from [Bakker (2023, IMF)](/wiki/bakker-l
    Can Be Taxed," *European Economic Review* — used for the independent European
    replication decomposing capital into land vs structures.
    [wiki summary](/wiki/bonnet-land-is-back/) · [PDF](https://amu.hal.science/hal-03238443/file/Land%20is%20back%2C%20it%20should%20be%20taxed%2C%20it%20can%20be%20taxed.pdf)
+3. Mason Gaffney (1991), "'Capital' Gains and the Future of Free Enterprise" — used,
+   as an attributed 1991 Georgist ancestor-statement rather than quantitative
+   evidence, for the tax-code-level argument that preferential capital-gains
+   treatment overwhelmingly benefits land rather than produced capital.
+   [wiki summary](/wiki/gaffney-capital-gains-free-enterprise/) ·
+   [PDF](https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf)

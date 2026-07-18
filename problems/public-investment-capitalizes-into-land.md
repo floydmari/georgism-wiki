@@ -60,6 +60,51 @@ land values and an LVC instrument recovered part of the gain — while candidly
 documenting the administrative complexity and modest yields of real-world
 mechanisms, a useful design caution alongside this page's econometric evidence.
 
+## An Earlier, Informal Statement of the Mechanism
+
+The formal Arnott–Stiglitz result had a Georgist precursor. In his 1972–73
+essay "Land Rent, Taxation, and Public Policy," Mason Gaffney states the same
+capitalization logic in Newtonian language, six or seven years before
+Stiglitz's formalization: "for every added user charge there is an equal and
+opposite reaction in the form of lower rents on the limited land served...
+this basic law of conservation of economic energy."[9] He goes further than
+the transit-uplift literature above by arguing the *absence* of rent capture
+has a political-economy cost as well as an efficiency one: because every
+uncaptured public improvement is an unrecovered windfall to whichever
+landowners happen to benefit, local governments face a **logrolling**
+incentive — approving each other's projects reciprocally regardless of
+merit — that a rent-capture mechanism would remove by letting winning
+locations compensate losing ones through the tax system itself, rather than
+through reciprocal pork.[9] This is Gaffney's own theoretical argument,
+offered without independent empirical testing within the essay, and is cited
+here as intellectual history — an early informal statement of the mechanism
+this page's modern evidence establishes empirically — not as additional
+evidence for the capitalization finding itself.
+
+## A Pre-1970s Agricultural Case: Rural Public Works
+
+The modern transit-uplift literature above is overwhelmingly urban. An
+earlier Gaffney essay documents the same capitalization mechanism in a
+different domain entirely: 1960s US federal agricultural policy. In "The
+Benefits of Farm Programs" (1966), Gaffney catalogues how federal
+reclamation projects, price-discriminated rural power and water rates,
+uniform "postage-stamp" utility and freight pricing that subsidizes remote
+extensions from an urban rate base, disproportionate rural highway mileage,
+Rural Free Delivery, and Agricultural Conservation Program cost-sharing all
+land, as a matter of program design, on farmland owners: "the proximate
+beneficiaries of submarginal extensions are clearly those whose lands they
+serve... to enjoy the benefit, one must locate where it is to be had, and of
+course pay the price in rent or land value."[10] He further documents a
+government-*subsidized* credit channel with the same capitalization effect —
+distinct from the private credit-discrimination mechanism on [Land
+Monopoly](/wiki/land-monopoly/) — arguing federal rural-lending agencies
+originally meant to offset private collateral-based rationing instead simply
+"increase[d] land value by lowering the structure of interest rates
+available to landowners."[10] This is Gaffney's own qualitative survey, not
+an econometric estimate, and is cited as an earlier, domain-different
+illustration of the capitalization mechanism, not as independent
+quantitative evidence for the magnitude claims above.
+
 ## Limits and Heterogeneity
 
 The regularity is robust, but the *magnitude* is not a constant. The field's own
@@ -87,6 +132,8 @@ here (Gibbons–Machin, He et al.) rely on quasi-experimental designs.
 - [Riley (2001): Taken for a Ride — Jubilee Line Land Value Uplift](/wiki/riley-taken-for-a-ride/) — the originating popular case study: a £3.5bn London transit line yielding a reported ~£13bn landowner windfall, since partially corroborated by an independent academic study.
 - [He, Sun, Li & Webster (2024): New Metro and Housing Price and Rent Premiums — A Natural Experiment in China](/wiki/he-sun-metro-housing-premiums/) — a modern causal (natural-experiment DID) corroboration from Shenzhen, with a rent-distance gradient
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
+- [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the pre-Stiglitz informal statement of the same capitalization mechanism
+- [Gaffney (1966): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the same capitalization mechanism documented in 1960s US rural public works, a pre-1970s agricultural case
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Henry George Theorem](/wiki/henry-george-theorem/) · [Unearned Increment](/wiki/unearned-increment/)
 
@@ -98,3 +145,13 @@ here (Gibbons–Machin, He et al.) rely on quasi-experimental designs.
 2. Arnott & Stiglitz (1979) — used for the theoretical result that the value of a public
    good capitalizes into surrounding land rent.
    [wiki summary](/wiki/arnott-stiglitz-henry-george-theorem/)
+3. Mason Gaffney (1972), "Land Rent, Taxation, and Public Policy: The Sources, Nature and
+   Functions of Urban Land Rent," *American Journal of Economics and Sociology* 31(3):
+   241–258, and (1973) "...Taxation and the Functions of Urban Land Rent," *AJES* 32(1):
+   17–34 — used for the pre-Stiglitz informal statement of the capitalization mechanism
+   and the logrolling argument (C-claim, attributed, historical context only). [wiki
+   summary](/wiki/gaffney-urban-land-rent/)
+4. Mason Gaffney (1966), "The Benefits of Farm Programs: Incidence, Shifting, and
+   Dissipation," *American Journal of Economics and Sociology* — used for the
+   rural-public-works and subsidized-credit capitalization catalogue (B-claim,
+   descriptive survey, historical context only). [wiki summary](/wiki/gaffney-benefits-farm-programs/)

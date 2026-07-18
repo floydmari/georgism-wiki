@@ -26,7 +26,7 @@ year: 2005
 
 ## Overview
 
-"The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)" is a 2005 working paper (WP096) by economist [Mason Gaffney](/wiki/mason-gaffney/), excerpted from his longer notes on "Adequacy of Land as a Tax Base."[1] It is the source that coined and named the acronym **ATCOR**, distinguishing it from the closely related argument Gaffney had already made in *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)* (1994) under the label "negative shifting."[1] The paper states the thesis directly: "when we lower other taxes, the revenue base is not lost, but shifted to land rents and values, which can then yield more taxes."[1]
+"The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)" is a 2005 working paper (WP096) by economist [Mason Gaffney](/wiki/mason-gaffney/), excerpted from his longer notes on "Adequacy of Land as a Tax Base."[1] It is the fullest, freestanding statement of the **ATCOR** thesis and the paper the wiki cites as the primary source for the argument, distinguishing it from the closely related case Gaffney had already made in *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)* (1994) under the label "negative shifting."[1] The paper states the thesis directly: "when we lower other taxes, the revenue base is not lost, but shifted to land rents and values, which can then yield more taxes."[1] **Correction (2026-07-16):** this page previously credited WP096 with coining the acronym "ATCOR" itself; reading Gaffney's earlier chapter ["The Philosophy of Public Finance"](/wiki/gaffney-philosophy-of-public-finance/), in Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998), found a section headed "4. The concept of ATCOR" that already names and states the acronym seven years earlier — see that page for the earliest confirmed dated use. WP096 remains the fuller treatment and the better citation for the argument itself.
 
 ## Argument and Evidence
 
@@ -42,11 +42,12 @@ This is a working paper published on Gaffney's personal site rather than in a pe
 
 ## See Also
 
-- [ATCOR](/wiki/atcor/) — the wiki's concept page for the theorem this paper names
+- [ATCOR](/wiki/atcor/) — the wiki's concept page for the theorem this paper states
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
+- [Gaffney (1998), The Philosophy of Public Finance](/wiki/gaffney-philosophy-of-public-finance/) — the 1998 book chapter now confirmed as the earliest dated use of the "ATCOR" name, with a formal algebraic derivation of the mechanism
 - [The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/) — Gaffney's earlier statement of the same logic as "negative shifting"
 - [Objection: LVT wouldn't raise enough revenue](/wiki/lvt-not-enough-revenue/) — the objection this paper is cited against
 
 ## Sources
 
-1. Mason Gaffney (2005), "The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)," Working Paper WP096, excerpt from notes on "Adequacy of Land as a Tax Base" — used for all claims, quotations, and the historical case list on this page; read in full for this page. [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf)
+1. Mason Gaffney (2005), "The Physiocratic Concept of ATCOR (All Taxes Come Out of Rent)," Working Paper WP096, excerpt from notes on "Adequacy of Land as a Tax Base" — used for all claims, quotations, and the historical case list on this page; read in full for this page. [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf) · [archived](https://archive.progress.org/gaffney/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf)

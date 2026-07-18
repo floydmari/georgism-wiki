@@ -6,7 +6,7 @@ stub: false
 born: 1847
 died: 1938
 excerpt: "American neoclassical economist whose marginal-productivity theory — developed, by his own preface, in response to Henry George's wage doctrine — treated land as a form of capital. Gaffney reads the merger as the move that buried George; mainstream historiography reads it as analytic development. Both accounts, attributed."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -73,6 +73,12 @@ of a century, and its modern empirical return
 [Rognlie](/wiki/rognlie-capital-share/)) has made the stakes of Clark's move visible
 again.
 
+## Stabile (1995): A Documented Textual Link, and Gaffney's Rejoinder
+
+Donald R. Stabile's peer-reviewed article "Henry George's Influence on John Bates Clark" (*AJES* 54(3), 1995) supplies a textual link independent of Gaffney's own historiography. Stabile shows that in his earlier *Philosophy of Wealth* (1886) — thirteen years before *The Distribution of Wealth* — Clark had already credited George's wage theory directly: "Certain opponents of Mr. Henry George have committed the strategic error of attacking his system at an impregnable point, namely, his theory of the origin of wages," calling George's argument "as conclusive as anything in mathematics" (Clark 1886, p. 126).[6] Stabile traces how Clark's mature "zone of indifference" — the point where the poorest capital good still in use yields wages only, no rent, setting the economy-wide wage floor — directly generalizes George's *Progress and Poverty* rule that wages are set by what labor earns at the margin of "natural productiveness... without the payment of rent."[6] Stabile's own conclusion is deliberately non-motive-attributing: "the influence was purely stimulative," and George never developed the insight into formal theory himself.[6]
+
+Gaffney's comment appended to the same article is considerably sharper, and is carried here under the same attributed-D-claim caveat as the rest of this page's "Gaffney's reading" section: "Clark never intended to follow George except as a U-Boat stalks a troopship," and "Clark's main objective was to fuse and confuse land with capital, to undercut George's case for taxing land while exempting capital."[6] Gaffney also disputes Clark's originating-priority claim on marginal productivity theory itself, arguing that [Philip Wicksteed](/wiki/philip-wicksteed/) formalized the theory in 1894 — five years before Clark — while explicitly retaining land as a distinctive factor, and that Clark never credited him. This priority argument is Gaffney's own polemical framing, not adjudicated here against the wider history-of-thought literature.[6]
+
 ## Legacy
 
 Clark's marginal-productivity framework became the backbone of twentieth-century
@@ -96,6 +102,7 @@ set the terms on which George was forgotten, whatever the motive.
 - [Land Monopoly](/wiki/land-monopoly/) — the concept whose analytical basis the merger dissolved
 
 - [Marginal Productivity](/wiki/marginal-productivity/) · [Richard T. Ely](/wiki/richard-t-ely/) · [Missemer & Pottier — land, labor, capital](/wiki/missemer-pottier-land-labor-capital/) — related pages from the comprehensiveness sweep
+- [Gaffney, Two Centuries of Economic Thought on Taxation of Land Rents](/wiki/gaffney-two-centuries-land-taxation/) — an earlier (1982), broader Gaffney survey covering Clark's "two strokes" against classical rent theory alongside roughly sixty other economists
 
 ## Sources
 
@@ -120,3 +127,13 @@ set the terms on which George was forgotten, whatever the motive.
    used for the biographical rejection of the hired-apologist reading (B/D-claims).
 5. American Economic Association, "John Bates Clark Medal" (award description). —
    used for the medal's existence and criterion (A-claim; institutional fact).
+6. Donald R. Stabile, "Henry George's Influence on John Bates Clark: The Concept of
+   Rent was Pivotal to Equating Wages with the Marginal Product of Labor," with a
+   Comment by Mason Gaffney, *American Journal of Economics and Sociology* 54(3)
+   (July 1995): 373–384.
+   [PDF (masongaffney.org)](https://masongaffney.org/publications/K9-StabileHGInfluenceonJBClarkMGComments.CV.pdf)
+   — used for the 1886 *Philosophy of Wealth* quotations and the no-rent-margin/
+   "zone of indifference" parallel (A/B-claims, independently verified against a
+   fresh re-OCR of the scanned source), and for Gaffney's appended comment (D-claims,
+   attributed). Source text at
+   `sources/gaffney/text/K9-StabileHGInfluenceonJBClarkMGComments.CV.txt`.

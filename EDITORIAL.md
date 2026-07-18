@@ -371,8 +371,32 @@ Each reference gets a one-line "used for" note:
 ### Terminology (house style, ruled 2026-07-11)
 - **citizen's dividend** lowercase mid-sentence; "Citizen's Dividend" only in titles/headings. Link: `/wiki/citizens-dividend/`.
 - **single-tax** hyphenated as adjective ("the single-tax movement"), **single tax** unhyphenated as noun ("the single tax"), lowercase in both roles. Capitals only in true proper names (Single Tax Party, Fairhope Single Tax Corporation) and quoted titles.
-- **18-year cycle** generically; **18.6-year cycle** only where the cited source specifically claims 18.6.
+- **18-year cycle** generically (shorthand for the concept page's full name, **18-year land cycle** —
+  `/wiki/18-year-land-cycle/`); **18.6-year cycle** only where the cited source specifically claims
+  18.6 (chiefly Phillip J. Anderson's framework — Hoyt, Foldvary, and Patel all use "~18 years,"
+  not 18.6, and pages must say so where relevant). **"Property cycle"** is a distinct, more generic
+  term (ordinary real-estate market cycles in a given jurisdiction, or the title of the
+  `objections/cycles-are-credit-not-land` page) — do not rewrite it into "18-year land cycle" merely
+  because the two are related; only fix it where a passage is actually naming *this wiki's* cycle
+  concept and drifted from the established name.
 - Direct quotes, blockquotes, PD texts (`texts/`, `sources/publicdomain/`), and frontmatter slugs are never normalized.
+- **Terminology-normalization pass (Floyd/2026-07-18, cohesion audit closeout):** wiki-wide grep audit
+  of all three families found the corpus already overwhelmingly compliant with the rules above —
+  the "citizen's dividend" family had exactly 1 stray mid-sentence capital in `concepts/benefits.md`
+  plus 4 in book-summary bullet lists; the "18-year cycle" family needed no fixes (18.6-year is
+  already consistently gated to Anderson-attributed claims, with `people/homer-hoyt.md` and
+  `research/progress-18-6-year-cycle.md` explicitly noting Hoyt/Foldvary/Patel do NOT use 18.6);
+  the "single tax" family needed 6 fixes (stray unhyphenated-adjective and mid-sentence capitals in
+  `places/denmark.md`, `research/doucet-does-georgism-work.md`, `organizations/commonwealth-land-party.md`,
+  `people/william-s-uren.md`, and one summary table cell) — the large "Single Tax"/"Single-Tax"
+  population elsewhere is legitimate: heading title-case, direct quotations, or true proper names
+  (Single Tax Party, Single-Tax Colonies, Fairhope Single Tax Corporation, book/article titles like
+  *Joseph Fels and the Single-Tax Movement*). "Single Tax movement" specifically was left alone as a
+  conventional capitalized historical-movement name (on par with "the Progressive movement"), not
+  litigated further — EDITORIAL's proper-name exception list above names Party and Corporation only,
+  but movement-name capitalization is common historiographic style and changing ~30 instances
+  risked more harm (breaking book-title matches) than value. Future waves: this is a closed loop,
+  not a recurring task — only fix genuinely new drift, don't re-audit the whole corpus.
 
 ### Categorization (ruled 2026-07-11, after a cross-session divergence)
 - **Place-based empirical case studies** (natural experiments, policy evaluations tied to one

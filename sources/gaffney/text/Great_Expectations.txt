@@ -1,0 +1,162 @@
+                              Great Expectations:
+          How credit markets twist the allocation and distribution of land
+                                          Mason Gaffney, 5-14-2013
+
+           “The basis of allocating loans is not marginal productivity but collateral security” –
+           Rainer Schikele
+
+Henry George likened the aggregate effects of land speculation to those of a cartel of
+landowners. What do cartels do? They control enough of a resource to affect price, and withhold
+part of the resource from use, or from its full and best use. Formal cartels do this consciously.
+Herbert Hoover called it “Associationism”, and fostered his “Associations” which he evidently
+thought were good for the economy and the country. FDR spent his first term sponsoring his
+National Recovery Administration (NRA), with its Blue Eagle logo posted in every store
+window. Each logo bore the motto “We do our part”, meaning our part in upholding prices and
+avoiding competition while goods stuck glued to the shelves. For farm landowners (but not
+tenants or workers) there was the Agricultural Adjustment Administration (AAA) dedicated to
+retiring much of our best farmland from production and employment. A locomotive pulling just
+3 cars and a caboose were a common sight then, while railroad freight rates and passenger fares
+were maintained at high levels. Cities and counties that foreclosed on millions of tax-delinquent
+lands around the nation held them in cold storage for years, to help support the market. Texas
+enforced a “prorate” on oil wells, limiting each well to pumping just 15 days or less a month.
+ALCOA monopolized aluminum by owning all the bauxite and holding it underground until
+wartime's urgent need for aircraft forced the U.S. Government to build up a competitor,
+Reynolds.
+
+Rootless youths rode the boxcars or the rods,* such as were moving, seeking jobs or a handout,
+then even as today. Cartels are not good at making jobs. But Henry George saw and wrote about
+hordes of tramps in the depression after 1873, and traced their problems to the same root: land
+held out of use – only then it was hard to blame organized cartels. How can there be too little
+land, he asked, in a nation with more and better land per capita than any nation in history? How
+can the free market fail to allocate land to more intensive and better uses when people seek work,
+and demand more food, clothes, and shelter?
+
+What about that wonderful free market Chicago-Schoolers crow about? There must be, he
+reasoned, some basic flaw in the land market that makes it produce results like a cartel, without
+the visible presence of cartels. He called this immanent presence “land speculation”. This term
+“land speculation” today can mean several different things. Land lasts forever, so even to
+forecast a constant future stream of rents and discount rates is speculative. It is just as conjectural
+as to posit continual rises, or falls, or any repeated pattern of cycles. Economic theorists
+sometimes write casually of “perfect knowledge”, but perfect forecasting to infinity smacks more
+of Divine Omniscience beyond human foresight. From George's contexts, however, he clearly
+uses “speculation” to mean buying and holding land for the rise, whether for future resale or re-
+use or collateral or estate-building, so that is the meaning I use here.
+
+*
+    Bars connecting two cars—a very dangerous position.
+                                                                                                       2
+
+
+George never learned the basic algebra of finance. He had the mind for it, demonstrated for
+example in his demolition of M.I.T. President Francis A. Walker in their celebrated debate over
+how to measure the concentration of farmland. He anticipated what are now named the Lorenz
+Curve and the Gini Ratio, after scholars who formalized his insights. But he did not move
+beyond words and similes into algebraic formulae. It is true that today's academics clothe
+themselves in pretentious formulae to hide their naked brains; yet it is also true that a few good
+formulae outlast the exciting oratory that evoked them. Few understand Einstein, for example,
+but many can recite E=MC2. Let us, therefore, translate George's “land speculation” into some of
+the basic algebra of finance, not to hide but to clarify.
+
+                                    a
+Our mentors weaned us on V            , where “V” is land value, “a” is annual rent, and “i” is the
+                                     i
+interest rate. It's a good start, but deceptively simple. Here are its hidden assumptions:
+
+       “a” and “i” will stay the same forever. (Forever is a long, long time.)
+       Everyone in the market has access to long-term funds at the same interest rate, “i”
+       Everyone forecasts the same value of “a”
+       Irregular pulses of costs and revenues can be levelized and summed to translate them into
+        the assumed level “a”
+       We can think in infinite time, although our lives are finite, and so are the lives of goods
+        other than land
+
+To handle infinite time, and relate it to the present, I will divide it into two parts:
+
+    a. The current use, with levelized annual rent of “a”, and a life of “n” years. For an
+       arithmetical example, let n=30 years.
+    b. The rest of infinite time after the first 30 years, with levelized annual rent of “b”.
+        “b” > “a”, and may well be >>“a”.
+
+Land Value (V) comes from both parts of the infinite future, “a” and “b”.
+
+The present value of part (a) is the Discounted Cash Flow (DCF) of “a” over 30 years. There is a
+compact formula for DCF:
+
+        DCF (1  (1  i)  n
+                                               (1)
+         a         i
+
+The right side of (1) is the Discounted Cash Flow Factor (DCFF). It converts a 30-year flow of
+rents into the equivalent “point” value at time 0. (Point values are aka “lump-sum” values.)
+
+The left side of (1) is often called, in the stock market, “the P/e ratio”, but the name deceives,
+even as it clarifies: it includes rent among “earnings”, disguising the unearned nature of rent. In
+London real estate it is “the year's purchase”; in Turgot's French it was le denier. I will call it just
+the Price/rent ratio.
+                                                                                                       3
+
+
+Note that the bottom of the DCFF is “i” and is, obviously, an increasing function of “i”. This
+makes the DCFF a DEcreasing function of “i”. The decrease is tempered by the top of the DCFF,
+which is a gently Increasing function of “i”. For the net result see Table 1, Column 3.
+
+As to Part b, let us begin by valuing it at its beginning point, after year 30. At this point it still
+has a future life of ∞, even though “a” has used the first 30 years. A remarkable quality of ∞ is
+that you can use 30 years of it, or any finite number of years, without deleting the remainder at
+all. The DCF of Part “b” as of year 30 is therefore simply b/i. To find the value at time 0, simply
+apply the discount factor for a point value, and the net result is:
+
+           DCF          1
+                                                      (2)
+            b    i  (1  i )30
+
+Note well here that the bottom of the ratio (the denominator if you prefer) is a DOUBLY
+increasing function of “i”. The first “i” covers all years from 31 to ∞. The second “i” covers all
+years from 1 to 31. Multiply the two elements together and the DCF that derives from “b” is a
+sharply DEcreasing function of “i”. To compete in the market for buying title to land, therefore,
+one must have access to long term funds at low interest rates. Call this “Financial Power”, or
+“Waiting Power”. This is what makes expectations “great”. It is not so much that b>a – it might
+be the same, or lesser. It is rather that the DCF of the “b” values looms so much higher to people
+with Waiting Power than to those without it.
+
+Table 1 gives a numerical example. It compares the present value, as seen by two different
+individuals, of the two components of land's present value at time 0. One person we'll call
+“Scrooge”, is a retired banker with access to rich long-term funds at an effective interest rate of
+3%. The other we'll call “Cratchit” would have to pay 10% for such funds. We'll ignore, to keep
+it simple, the other terms and incidents of loans, weighty though they are in practice, which favor
+Scrooge over Cratchit even more. Just remember Schikele's universal truth at the head of this
+essay: “The basis of allocating loans is not marginal productivity but collateral security”. Credit
+is not like water that seeks its own level; rather, it flows uphill, so credit rationing, once initiated,
+concentrates Financial Power more and more. This is why landowner-speculators, as a group, act
+like a cartel.
+
+         TABLE 1: Financial Power Rising with Futurity of Cash Flows
+
+
+         (1)            (2)       (3)      (4)       (5)         (6)             (7)
+
+                                                                                    1
+Factor                   i    DCFF       (1  i)30   1/i     i  (1  i)30
+                                                                             i  (1  i )30
+
+Scrooge                .03        19.6    2.43       33        0.073            13.7
+
+Cratchit               .10        9.4     17.5       10         1.75           00.57
+
+Scrooge/Cratchit .30              2.1     .139       3.3       0.042            23.9
+                                                                                                     4
+
+
+Column 7 shows that Scrooge can bid 23.9 times what Cratchit can bid for the speculative
+element in land values. This wide disparity is why the land market is so flawed, and speculators,
+Scrooge-like, choose to withhold so much land from the Cratchits of this world.
+
+Bankers, other lenders, and their apologists say that the Cratchits simply must pay a risk
+premium to even things out, because of their bad credit ratings and poor records of repaying
+loans. Professional economists, mostly in the apologist class, generally agree. They are viewing
+the world from the side of the lender class, who butter their bread. From the side of the Cratchit
+class, however, each individual is penalized for being poor, and especially and most acutely
+penalized in the effort to buy land from speculators who preempt more than they need, or will
+ever need. For, as Tolstoy had the Indian chief observe, each of us before long will need only 6'
+x 3'.
+

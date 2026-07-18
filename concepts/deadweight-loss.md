@@ -9,6 +9,7 @@ excerpt: The loss of economic welfare when a tax drives the quantity traded belo
 pd_quotes: true
 sources:
 - mirrlees-2011
+- gaffney-excess-burden-shiftable-taxes
 stub: false
 tags:
 - deadweight-loss
@@ -17,6 +18,7 @@ tags:
 - land-value-tax
 - efficiency
 title: Deadweight Loss
+last_reviewed: 2026-07-16
 ---
 
 ## Definition
@@ -51,6 +53,10 @@ Smith wrote before the marginalist apparatus of surplus and elasticity existed, 
 
 The result reappears, in near-modern analytical language, in [A. C. Pigou](/wiki/pigouvian-taxation/)'s *The Economics of Welfare* (1st ed., 1920). Analysing a tax on the community-created ("public") value of land, Pigou concludes that such a tax "will, like taxes on windfalls, leave the national dividend wholly unaffected," because "the value of the taxed object, being due to public causes, cannot be made less by any action or abstention from action on the part of the owner" (Ch. IV §4, pp. 612–613). That is the zero-excess-burden argument stated by a founder of welfare economics. Notably, Pigou grants the *efficiency* point in full but then limits the tax's *scope* on equity grounds ("their scope is strictly limited," p. 615) — the efficiency case and the fairness caveat, side by side. The passages, with page cites and Pigou's honest grading, are collected at [Pigou on Taxing Land Values, Windfalls, and Increments](/wiki/pigou-land-taxation/).
 
+## An Attributed Critique of Conventional Measurement (Gaffney)
+
+The standard exposition above measures excess burden with the Harberger-triangle apparatus: a supply-and-demand-curve gap between the taxed and untaxed equilibrium quantity. In a 2005 working paper, [Mason Gaffney](/wiki/gaffney-excess-burden-shiftable-taxes/) argues this is neither the sole nor the best way to see the same result, and proposes measuring excess burden instead by how far a shiftable tax pushes land out of its highest-value use into a lower one. Working through algebraic models of taxes on costs, gross revenue, and building value, he derives that only a tax on site value itself leaves a landowner's ranking of possible uses undisturbed — taxes on any other base "tilt" the ranking toward less intensive uses, with the distortion compounding sharply as the taxed cost approaches the size of net revenue.[4] This is Gaffney's own methodological proposal, published as a working paper rather than in a peer-reviewed journal, and it has not displaced the conventional Harberger-triangle exposition in the mainstream literature; the wiki carries it as his attributed argument for *why* a pure land tax is uniquely neutral, alongside — not instead of — the standard treatment above. See [Gaffney (2005): A Better Way of Gauging the Excess Burden of Shiftable Taxes](/wiki/gaffney-excess-burden-shiftable-taxes/) for the full derivation and its limits.
+
 ## The Excess Burden of the Current Tax System
 
 Every dollar raised through labour income taxes, capital gains taxes, sales taxes, or corporate taxes carries with it a deadweight loss — an additional cost to society beyond the revenue raised. Estimates of this excess burden typically range from 20 to 50 cents per dollar of revenue, depending on the tax and the economy. LVT is the one major revenue source with no excess burden.
@@ -66,9 +72,11 @@ Every dollar raised through labour income taxes, capital gains taxes, sales taxe
 - [Land Value Tax](/wiki/land-value-tax/) — the zero-deadweight-loss tax
 - [Economic Rent](/wiki/economic-rent/) — the base that LVT targets
 - [ATCOR](/wiki/atcor/) — the stronger theorem about tax incidence
+- [Gaffney (2005): A Better Way of Gauging the Excess Burden of Shiftable Taxes](/wiki/gaffney-excess-burden-shiftable-taxes/) — the attributed land-use-shifting critique of conventional excess-burden measurement
 
 ## Sources
 
 1. James Mirrlees et al. (2011), *Tax by Design* (the Mirrlees Review), Institute for Fiscal Studies — used for the authoritative statement that recurrent land/property taxes are the least distorting (A/B-claims). [IFS](https://ifs.org.uk/books/tax-design) · [wiki summary](/wiki/mirrlees-review/)
 2. Standard public-economics treatment of excess burden under inelastic supply — used for the textbook mechanism (A-claim; any intermediate public-finance text states it).
 3. Adam Smith (1776), *The Wealth of Nations*, Book V, Ch. II, Part II, Article I — used for the classical antecedent of the no-shifting and no-discouragement arguments (A-claims for the quotations, public domain, verified verbatim against the repo-hosted text 2026-07-11; D-claim for the lineage). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/) · full section: [Taxes upon Rent (Smith, 1776)](/wiki/smith-taxes-upon-rent-1776/).
+4. Mason Gaffney (rev. January 2005), "A Better Way of Gauging the Excess Burden of Shiftable Taxes" — used, as Gaffney's attributed argument rather than settled doctrine, for the land-use-shifting alternative measure of excess burden and the derivation that only a site-value tax leaves land-use rankings undistorted (C-claim). [wiki summary](/wiki/gaffney-excess-burden-shiftable-taxes/) · [PDF](https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf)

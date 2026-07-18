@@ -10,7 +10,7 @@ excerpt: Digital services taxes (DSTs) are the first real-world attempt to tax p
   digital cousin of a resource royalty. In practice (Muddasani & Langenmayr) the UK
   levy was largely passed through — Amazon raised seller fees ~2%, sellers passed
   most to consumers — making it the wiki's cleanest 'badly-aimed rent tax' case.
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-18
 source_url: https://research.wu.ac.at/ws/portalfiles/portal/76680012/2025_05_DST_2_.pdf
 stub: false
 subcategory: wiki-research-lvt
@@ -96,11 +96,10 @@ large digital companies does not mean that the companies will bear the entire co
 Muddasani and Langenmayr (2025) put numbers on this using Amazon marketplace data across
 DST-adopting countries. Their finding:
 
-> "on average, Amazon increased its fees by roughly half the amount of the digital service
-> tax. Firms using Amazon as a platform have largely passed these increased fees on to
-> consumers. Large digital firms thus bear only a small part of the tax burden, but the tax
-> may nevertheless succeed in making them less competitive relative to brick-and-mortar
-> competitors."[3]
+Muddasani and Langenmayr find that "on average, Amazon increased its fees by roughly half
+the amount of the digital service tax," and that sellers passed most of that increase on to
+consumers — so large digital firms bear only a small part of the statutory tax burden, even
+as the surcharge may still erode their competitiveness against brick-and-mortar rivals.[3]
 
 So on the best available evidence the dominant platform — the party actually earning the
 rent the DST was meant to reach — absorbed only a **minority** of a tax nominally levied on
@@ -147,7 +146,13 @@ the opposite of the land case the wiki treats as clean.
   explicitly a placeholder pending the OECD/G20 two-pillar deal; the Cui–Hashimzade LSR
   rationale is a *reconstruction* of a defensible logic, not necessarily the design intent.
   A tax deliberately built to capture location-specific rent might be structured very
-  differently (e.g., on excess returns rather than gross revenue).
+  differently (e.g., on excess returns rather than gross revenue). That placeholder deal has
+  still not closed: the Inclusive Framework's own January 2025 status statement records that
+  the treaty implementing the promised DST withdrawal-and-standstill had not opened for
+  signature, and where DSTs have actually been withdrawn since, it has been through
+  unilateral retreat under US tariff threats (Canada, June 2025) rather than the multilateral
+  bargain — see [Digital Services Taxes as Actually Implemented](/wiki/digital-services-taxes/)
+  for the country-by-country revenue and Pillar One record.[8]
 - **The critics' file is real.** The Congressional Research Service and others characterise
   DSTs as poorly-designed cascading taxes or as protectionist measures aimed at U.S. firms;
   the U.S. threatened retaliatory tariffs over France's DST. Cui and Hashimzade contest
@@ -162,6 +167,7 @@ the opposite of the land case the wiki treats as clean.
 
 
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
+- [Digital Services Taxes as Actually Implemented](/wiki/digital-services-taxes/) — the companion page: UK/France/India revenue and payer-concentration record, and the stalled OECD Pillar One withdrawal bargain
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
 
 - [Platform and Data Rents](/wiki/data-rents/) — the contested frontier the DST tries to reach
@@ -213,3 +219,8 @@ the opposite of the land case the wiki treats as clean.
    [The Register](https://www.theregister.com/offbeat/2020/09/02/google_amazon_uk_digital_services_tax/)
    — used for Google's 2% UK "DST Fee" on advertisers (from Nov 2020) and the Austria (5%)
    and Turkey (7.5%) DST pass-throughs (A-claim; trade press).
+8. OECD/G20 Inclusive Framework on BEPS, Co-Chairs (13 Jan 2025), "Pillar One Update from the
+   Co-Chairs of the Inclusive Framework on BEPS."
+   [OECD PDF](https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/beps/pillar-one-update-co-chair-statement-inclusive-framework-on-beps-january-2025.pdf)
+   — used for the Pillar One withdrawal-and-standstill design and its still-unsigned status as
+   of January 2025 (A-claim; primary institutional statement).

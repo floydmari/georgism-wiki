@@ -23,6 +23,14 @@ Before Ricardo formalised the theory, [Adam Smith](/wiki/adam-smith/) had alread
 
 Smith is a classical antecedent here, not a Georgist: he drew no single-tax conclusion from the observation, and treating this passage as the seed of the later rent-and-LVT analysis is the Georgist tradition's reading (see the [book page](/wiki/wealth-of-nations/) for the passage in context and its honest limits). (A-claim for the quotation; D-claim, interpretive, for the lineage.)
 
+## Smith: Rent as "the Work of Nature" (Book II, Ch. V)
+
+Alongside the monopoly-price account, Smith offers a second, distinct theory of *why* agricultural rent in particular is so large — not a scarcity/bargaining argument but a claim that rent is literally payment for nature's own uncompensated labour. Comparing capital invested in farming to capital invested in manufacturing, in **Book II, Ch. V** ("Of the Different Employments of Capitals"), Smith writes that in agriculture, unlike a factory, "Nature labours along with man," so that farm labourers "occasion... the reproduction of the rent of the landlord":
+
+> "This rent may be considered as the produce of those powers of Nature, the use of which the landlord lends to the farmer. It is greater or smaller, according to the supposed extent of those powers... It is the work of Nature which remains, after deducting or compensating every thing which can be regarded as the work of man. It is seldom less than a fourth, and frequently more than a third, of the whole produce. No equal quantity of productive labour employed in manufactures, can ever occasion so great reproduction. In them Nature does nothing; man does all." (Book II, Ch. V)
+
+This is a different — and, on its own terms, more physiocratic-sounding — argument than the Book I "monopoly price" passage above: there, rent is what the landlord *can extract* because he controls a scarce resource; here, rent is what nature *itself contributes* to the harvest, over and above human labour and capital. Smith uses the "Nature's free contribution" framing to conclude that agricultural capital is "of all the ways in which a capital can be employed... by far the most advantageous to society" (Book II, Ch. V) — the same conclusion the Physiocrats reached from a version of this premise, though Smith reaches it without their "barren class" doctrine and reserves his full critique of that doctrine for [Book IV, Ch. IX](/wiki/physiocrats/). Read together, the two Smith passages leave land rent resting on two different foundations in his own text — bargaining power over a fixed resource (Book I) and nature's own physical productivity (Book II) — a tension this wiki notes rather than resolves; later rent theory (Ricardo, below) settles on the scarcity/differential-margin account, not the "nature's labour" one. (A-claim for the quotation, public domain text, verified verbatim 2026-07-18; D-claim for the two-foundations reading, interpretive.)
+
 ## Ricardo's Law of Rent
 
 David Ricardo formalised the analysis of land rent in his *Principles of Political Economy and Taxation* (1817). He observed that in agriculture, different plots of land have different natural fertility. Farmers on superior land can produce more output from the same inputs than those on inferior land. In a competitive market, the price of agricultural produce is set at the cost of production on the *least productive* (marginal) land in use. Farmers on better land earn a surplus above this margin — that surplus is rent, and it accrues to the landlord, not to the farmer's labour or capital.
@@ -42,6 +50,28 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 ## The Neoclassical Redefinition of Rent
 
 Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/). The standard modern survey and typology of which rent types are efficiently taxable is [Schwerhoff, Edenhofer & Fleurbaey (2020)](/wiki/schwerhoff-taxation-economic-rents/), which concludes that land rents are "one of the few true scarcity rents."
+
+## Gaffney: The Three Sources of Urban Rent
+
+Where Ricardo and George explain rent's *emergence* at the margin of
+production, Mason Gaffney's 1972–73 essay "Land Rent, Taxation, and Public
+Policy" asks a complementary question: operationally, what generates the
+rent of a given urban parcel? His answer is a tripartite typology: "Land rent
+is the joint product of three things: natural features, public spending, and
+private activity by others than the landowner" (Gaffney's term for the
+third is "synergism" — the surplus created when a land market brings
+independent actors into mutual access, so that, in his words, "the whole
+comes to exceed the sum of its parts. The excess is rent."). Gaffney also
+argues rent plays only one of the two roles most factor prices play: it
+**rations** the fixed supply of land among competing uses, but — because
+privately collected rent does not itself call forth more public spending or
+more of the neighboring private activity that created it — it does not
+**elicit** additional supply the way wages or interest can call forth more
+labor or capital. (C-claim; Gaffney's own theoretical framework, primary
+source, attributed.) See [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/)
+for the fuller argument, including the companion taxation essay's five
+mechanisms by which taxing rent (rather than income or buildings) lets it
+perform this rationing function.
 
 ## Land as a Share of Modern Wealth
 
@@ -70,6 +100,7 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 - [Geoism](/wiki/geoism/) — the system built on capturing rents of every kind
 
 - [Law of Rent](/wiki/law-of-rent/)
+- [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — Gaffney's fullest catalogue of why land's rent behaves unlike any return to capital
 
 - [Land Value Tax](/wiki/land-value-tax/) — the policy response to economic rent
 - [Unearned Increment](/wiki/unearned-increment/) — John Stuart Mill's term for the same concept
@@ -80,11 +111,12 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 
 ## Sources
 
-1. Adam Smith (1776), *The Wealth of Nations*, Book I, Ch. XI — used for rent as "naturally a monopoly price" (A-claim; public domain; quote verified verbatim against the repo-hosted text 2026-07-11). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/).
-2. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text](https://www.econlib.org/library/Ricardo/ricP.html)
-3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/)
-4. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html)
+1. Adam Smith (1776), *The Wealth of Nations*, Book I, Ch. XI, and Book II, Ch. V ("Of the Different Employments of Capitals") — used for rent as "naturally a monopoly price" (Book I) and for the distinct "Nature's labour" account of agricultural rent (Book II) (A-claims; public domain; quotes verified verbatim against the repo-hosted text 2026-07-11/2026-07-18). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/).
+2. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text](https://www.econlib.org/library/Ricardo/ricP.html) — used for Ricardo's law of rent: the differential-surplus theory determined at the margin of production (§"Ricardo's Law of Rent" above).
+3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) — used for George's extension of Ricardo's analysis from agricultural to urban land and all natural resources (§"George's Extension" above).
+4. John Stuart Mill (1848), *Principles of Political Economy*. [Full text](https://www.econlib.org/library/Mill/mlP.html) — listed in frontmatter as a background source for classical rent theory, but not cited to a specific claim in the body text beyond the "Unearned Increment" cross-reference; role could not be precisely determined from the page text as written — flagged rather than annotated with an invented use.
 5. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, Chs. 1, 7 — used for Pareto's redefinition of rent and the neoclassical merger of land into capital (A-claim). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/).
 6. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 7. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the definition of rent as surplus above competitive costs and the argument that rent is neglected in public discourse (C/D-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 8. Martin Adams, *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — used for the argument that rent privatization drives wealth inequality (D/B-claims). [Book page](/wiki/land-a-new-paradigm/)
+9. Mason Gaffney (1972), "Land Rent, Taxation, and Public Policy: The Sources, Nature and Functions of Urban Land Rent," *American Journal of Economics and Sociology* 31(3): 241–258 — used for the tripartite (natural features / public spending / synergism) typology of urban rent sources and the rationing-not-eliciting distinction (C-claim). [wiki summary](/wiki/gaffney-urban-land-rent/) · [Free PDF](https://masongaffney.org/publications/E11-LandRentTaxation%26PublicPolicy-SourcesUrbanLandRent.CV.pdf)

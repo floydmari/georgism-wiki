@@ -5,6 +5,7 @@ tags: [single-tax, henry-george, georgism, land-value-tax, tax-reform]
 stub: false
 sources: [george-1879]
 excerpt: "Henry George’s 1879 proposal to replace all taxes on income, trade, and production with a single tax on the annual rental value of land, excluding improvements — capturing for the public the value the community itself creates."
+pd_quotes: true
 ---
 
 ## The Proposal
@@ -12,6 +13,31 @@ excerpt: "Henry George’s 1879 proposal to replace all taxes on income, trade, 
 Henry George argued in *Progress and Poverty* (1879) that a single tax levied on the annual rental value of land — assessed on the site alone, excluding improvements — could replace all other taxes on income, trade, and production. The revenue from land rent, George contended, would be sufficient to fund government and would eliminate all the distortions caused by taxing productive activity.
 
 George was not proposing a modest land tax as one element of a diversified tax system. He was proposing the wholesale abolition of all other taxes, replaced by a single source of public revenue: the capture of what the community creates.
+
+## George's Own Case Against the Alternatives (Book VI, Ch. I)
+
+Before proposing the single tax, George devotes the whole of Book VI, Chapter I to
+systematically ruling out six remedies then current in reform circles — economy in
+government, education, labor combinations (unions), cooperation, "governmental
+direction and interference" (socialism), and a more general distribution of land
+ownership — arguing none of them reaches the underlying cause: rent's tendency to
+absorb every gain in productive power. This survey is George's own anticipation of
+objections that still recur — "why not just break up the big estates?", "why not just
+unionize?" — argued out a century before their modern form.
+
+On land redistribution specifically — the remedy closest in spirit to the single tax,
+since it also targets land ownership rather than labor or capital — he concluded it
+would help individual smallholders but leave the underlying problem untouched: it "would
+not reduce rent, and therefore cannot increase wages... [i]t may make the comfortable
+classes larger, but will not improve the condition of those in the lowest class"
+(*Progress and Poverty*, Book VI, Ch. I). On labor unions he conceded they genuinely
+"can advance wages," but only "at the expense of rent" and within narrow limits, because
+the real contest is not between labor and capital but "laborers on the one side and the
+owners of land on the other" — a fight labor is structurally disadvantaged to win, since
+"land will not starve like laborers or go to waste like capital — its owners can wait"
+(Book VI, Ch. I). This chapter-length elimination is why George arrived at a tax on
+rent specifically, rather than at any of the other reforms that shared his diagnosis
+that land monopoly was the underlying cause.
 
 ## The Movement
 
@@ -75,7 +101,7 @@ Tideman's chapter argues that 100% land value taxation, introduced without compe
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — used for the proposal's original statement (A-claims). [wiki summary](/wiki/progress-and-poverty/)
+1. Henry George (1879), *Progress and Poverty* — used for the proposal's original statement (A-claims). [wiki summary](/wiki/progress-and-poverty/); Book VI, Ch. I ("Insufficiency of Remedies Currently Advocated") specifically verified verbatim against the [wiki's full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for George's own case against land redistribution and labor combinations as alternative remedies (D-claim; quotations from a public-domain work, EDITORIAL §3b).
 2. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the movement's political history (A/B-claims; the modern scholarly history, on the wanted-books list for full scan). [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 3. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for the movement's spread and international influence (A-claims). [Book page](/wiki/barker-henry-george-biography/)
 4. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the modern single-tax case and the Physiocratic lineage (A/C-claims). [Book page](/wiki/public-revenue-without-taxation/)

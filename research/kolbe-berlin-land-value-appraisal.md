@@ -65,6 +65,8 @@ Two points matter for how the wiki uses it:
 
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
+- [IAAO Standards: Ratio Studies & Property Tax Policy](/wiki/iaao-standards/) — the COD metric this page's 0.845/0.704 correlations would be tested against under professional ratio-study practice
+- [Mass Appraisal International Cases](/wiki/mass-appraisal-international-cases/) — thinner, non-German case studies for contrast
 - [Doucet, *Does Georgism Work?*](/wiki/doucet-does-georgism-work/)
 - [Almy, *Valuation and Assessment of Immovable Property* (OECD)](/wiki/almy-oecd-valuation-assessment/)
 - [Hefferan & Boyd, *Mass Appraisal Valuations in Australia*](/wiki/hefferan-boyd-mass-appraisal-australia/)

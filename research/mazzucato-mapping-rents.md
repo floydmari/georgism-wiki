@@ -53,4 +53,4 @@ report it as a framework, not a finding.
 
 ## Sources
 
-1. Mariana Mazzucato, Josh Ryan-Collins & Giorgos Gouzoulis (2023), "Mapping modern economic rents," *Cambridge Journal of Economics* — used for the three-domain rent framework and the value-creation/extraction distinction (C-claims: peer-reviewed framework/interpretation, not empirical measurement). [PDF](https://discovery.ucl.ac.uk/id/eprint/10172018/1/bead013.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/mazzucato-mapping-rents.pdf)
+1. Mariana Mazzucato, Josh Ryan-Collins & Giorgos Gouzoulis (2023), "Mapping modern economic rents," *Cambridge Journal of Economics* — used for the three-domain rent framework and the value-creation/extraction distinction (C-claims: peer-reviewed framework/interpretation, not empirical measurement). [PDF](https://discovery.ucl.ac.uk/id/eprint/10172018/1/bead013.pdf) · [archived](https://archive.progress.org/files/mapping-modern-economic-rents.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/mazzucato-mapping-rents.pdf)

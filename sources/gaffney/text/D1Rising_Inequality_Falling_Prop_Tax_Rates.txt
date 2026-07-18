@@ -1,0 +1,844 @@
+                                  10
+         Rising Inequality and Falling
+                   Property Tax Rates
+                             Mason Gaffney
+
+
+   It is a common belief that property tax relief is "good for farmers." It
+certainly raises the private share of economic rent. That in turn raises
+the investment grade of farmland and encourages its purchase as a store
+of value, a place to park slack money. This may be at odds, however,
+with using it as a vehicle for enterprise and an outlet for workmanship.
+Lower farm property taxes are associated with lower ratios of capital to
+land, and labor to land, both over time and among states. They are also
+associated with larger mean farm size and less equal distribution of
+farm sizes.
+   In the sections that follow, I first document the rise of inequality in
+the distribution of farmland that followed a sharp drop in farm property
+tax rates after 1930. Then I show, by cross-sectional analysis, a positive
+relationship between higher property tax rates and more intensive use
+of farmland, which in turn is associated with more equal distribution of
+farmland. Conversely, I find property tax relief associated with under-
+use and underimprovement of land.
+   A priori, a tax on buildings works to suppress building and to penal-
+ize smaller farmers, whose building to land ratio is higher than that of
+bigger farmers. The findings seem to show, therefore, a stronger coun-
+tereffect, proincentive and prosubdivision, of the other part of the prop-
+erty tax, the part based on land value.
+
+        Property Tax Relief and the March of Concentration
+  The national average of farm property tax rates peaked in 1930 at 1.32
+percent. It fell to 0.77 percent in 1945, and stabilized at about that level—
+120                                                             Mason Gaffneii
+
+it was 0.85 percent in 1987.1 Sales and income taxes, which bear heavier
+on urban activities, replaced the missing property taxes as sources of
+revenue.
+
+Vanishing Farmers and Unaffordable Farms
+   Mean acres per farm had remained fairly constant for 65 years
+(1870-1935), at about 155 acres, despite two major industrial merger
+movements. After 1935 the mean took off and had tripled to 462 acres
+by 1987. As the number of farms was falling, national population was on
+the rise. In 1900 there was one farm per 11 Americans; in 1987 only one
+per 113. Farms became unaffordable. Real wage rates have not risen as
+fast as real land prices since 1955, and not at all since about 1975,2 which
+has raised the labor-price of land. Coupling this with rising acres per
+farm, the labor-price of a farm roughly tripled, from about 6 years'
+wages (before payroll deductions) in 1954 to about 17 years' wages in
+1987.
+
+The Vanishing Middle Class
+   In 1900 the Census Bureau began publishing farm data ranked by
+acres per farm. Using those data, the Cmi ratio (GR)4 was .58 in 1900,
+and it rose only slowly, to .63 in 1930. After that it rose faster, to .70 by
+1950, plateaued there for 15 years, then rose again to .76 by 1987. (By
+comparison, GRs for personal income are much lower, about .40, and
+are much more stable over decades.) The accelerated rise since 1930 co-
+incided with the rise of mean acres per farm, and both followed the fall
+of property tax rates.
+   As a measure, GR deals only with concentration among existing farms.
+Industrial economists fault it for not reflecting the loss of farms. Acknowl-
+edging the critics, CR can be modified to combine both effects: Simply
+add the ghosts of 4.5 million farms that died between 1935 and 1988 to the
+lowest bracket, as farms with zero acres in 1988. This raises CR for 1988
+from .76 to .92, a radical rise of inequality since 1930 (.63). Calculating the
+CR this way gives one a better sense of how concentration shot up after
+1930-1935. In the Creat Depression (1930-1941), millions of small farms
+provided a refuge for the jobless and homeless. Today, that refuge is
+closed, with explosive social consequences in urban slums.
+
+The Rise of Land Quality in Vast Farms
+   The concentration of the value of farm real estate is growing faster
+than that of farm acres. The value of land and buildings ($L+B) per acre
+in the top bracket (farms of 1,000 acres and over) has risen relative to
+Rising Inequality and Falling Property Tax Rates                        121
+
+
+that of all farms. For easy recall and reference, I label this ratio Gamma.
+Gamma is the top bracket's acre value divided by the mean acre value.
+In 1910, Gamma for $L+B was .35. By 1930 it had dropped to .29, after
+20 years of high farm property tax rates.6 By 1987, after 57 years of low
+property tax rates, it had doubled to .61.
+   Accordingly, the share of $L+B in farms of 1,000 acres and over rose
+faster than the share of acreage from 1930-1987. The share of acreage
+rose from .28 to .62, a rise of 123 percent. The share of $L+B rose from
+.08 to .38, a rise of 375 percent.
+   The land share of real estate value (LSRE\T) in the top bracket (1,000
+acres and over) has probably risen faster than overall. LSREV is an acro-
+nym for $L/($L+B), that is, the value of land as a fraction of the value of
+land and buildings together. Gamma for $L alone always stood higher
+than that for $L+B during the years 1900-1940, when the census published
+separate data on $L and $B for all farms. There is no comparable later
+data published to test directly whether Gamma for $L has risen even
+higher over Gamma for $L+B (for 1988, the Agricultural Economics and
+Land Ownership Survey, AELOS, separates $L and $B only for owner-
+occupied farms, not for all farms). There is indirect evidence, however,
+that LSREV in the top bracket may have risen faster than overall.
+   One indicator is the share of harvested cropland, by size of farm. This
+share in the top bracket has risen relative to the share for all farms. This
+ratio in 1925 was 8.5 percent/37.3 percent, or .23. It rose to .37 in 1950
+and to .69 by 1987.8
+   Another confirming indicator is the rising concentration of irrigated
+land. When irrigation was young in Anglo-America (1890-1914), it was
+the recourse of small farmers struggling for land against bonanza wheat
+farmers and ranchers (the familiar grist of horse operas). Then, vast
+spreads were subdivided to create small irrigated farms. There was.
+drastic subdivision and intensification (1900-1930).9 Land in farms of
+1,000 acres and over actually dropped (nationally) by 15 percent from
+1900 to 1910, the only drop on record. Now, however, 34 percent of all
+irrigated land is in the top bracket, farms of 2,000 acres and over.10 Con-
+trol of irrigated land means control over water. Control of water gives
+control over arid lands roundabout. Ownership and control based on
+water have become highly concentrated. For farms with irrigated land,
+GR = .82,11 substantially higher than the GR of .76 for all farms.
+   An independent study by Villarejo illustrates the trend from 1940 to
+1982 in a specific area intensively studied by Wilson and Clawson in
+1940. The study area was the irrigable and irrigated land in Kern and
+Tulare counties, California. Replicating the study in 1982, Villarejo found
+that CR = .71 and that "land ownership has become more concentrated
+as more land has been placed in irrigated farms,."12
+122                                                          Mason Gaffney
+
+   A last confirming indicator is concentration by sales. Data for this are
+available from 1950. From 1950-1987, GR for farms ranked by sales rose
+faster from 1950-1987 (.67 to .80) than CR for farms ranked by acres (10
+to .76). Sales were less concentrated than acres; now they are more con-
+centrated. That is consistent with the hypothesis that land quality in
+large holdings is rising.13
+
+Rising Land Share and Rising Ratio of Price to Cash Flow
+  The LSREV almost certainly rose from 1940, when land prices were
+depressed, to 1987. By splicing disparate tables to get comparable data, I
+estimate that LSREV for all farms rose from .69 to about .80.14 Higher
+LSREV means a higher price to cash flow (P/C) ratio. That is because
+cash flow (C) from buildings and other capital includes allowance for
+depreciation (D). Depreciation is part of cash flow, but not part of earn-
+ings; price is capitalized only from earnings (C-D). Thus, the price of
+capital is capitalized from less than its cash flow. The price of land,
+oppositely, is capitalized from more than its cash flow. It is from cash
+flow plus the current appreciation (C+A).15 Land price also captures ex-
+pectations of cash and service flows from various nonfarm elements,
+many of which are deferred and speculative.
+  High ratios of farm price to cash flow are another barrier to farm
+entry. Direct data on farmland P/C ratios are not available, but a rough
+surrogate (to show trend, not value) is the ratio of farm real estate
+values to gross farm revenues. This ratio was low (2.56) in 1945, when a
+gloomy market looked for another postwar farm depression and land
+buyers got lucky. It rose to 4.0 in 1954, and to 5.9 in 1982. Farmland
+prices dropped sharply in the mid-1980s, but still left the iatio at 4.35 in
+1987, much higher than for 19451950.16
+  A high P/C ratio shows a higher share of $L in farm wealth. A com-
+mon belief is that high capital costs of machinery and equipment
+($M&E) are peculiar to modern farm technology and are the main bar-
+rier to farm entry. That belief doesn't wash, however.17 Cyrus McCor-
+mick was mass marketing mechanical reapers before the Civil War.
+Today, $M&E is about 10 percent of all farm assets, much smaller than
+$L+B.'8 In addition, loans invested in $M&E are usually self-liquidating
+from the excess of cash flow over interest, but loans for buying land
+mean negative cash flow for several years. Meeting a negative cash flow
+requires pumping in still more outside capital, an added barrier to entry.
+   To sum up, rising acreages mean there are fewer farms overall. Rising
+labor prices per farm mean aspiring farmers who lack prior wealth can
+no longer buy in. Rising GRs mean acreage is less equally shared among
+a given number of farms. Rising Gamma factors mean the higher quality
+Rising inequality and Falling Property Tax Rates                        123
+
+
+land is moving into bigger farms. The Gamma data are confirmed by
+rising shares of cropland and irrigated land in vast farms. Rising P/C
+ratios reflect a higher LSREV, and they mean it is harder for a newcomer
+to acquire any farm acres. The combination means the agricultural lad-
+der has been pulled up. Entry is nearly impossible for farmers lacking
+outside finance; exit and latifundiazation proceed apace. These changes
+accompanied and followed a 40 percent drop in farm property tax rates.
+
+              The Lesser Improvement of Larger Farms
+  A result of rising concentration is the separation of land from capital.
+With some exaggeration, American latfundia are now lands without
+buildings, but buildings are clustered on smaller farms, many without
+enough land. This implies at least three points. First, building wealth is
+more equally distributed than land wealth. Second, the property tax
+would be more progressive if changed to a pure land tax, exempting
+buildings. Third, many latifundia are not being used to their potential,
+and capital on some small farms is undercomplemented with land. I
+support the case first using national data, and then by comparing states.
+   It is awkward that the 1987 Census of Agriculture defines "farm
+size," and ranks farms, only by acres rather than value. I used the
+acreage rankings above for intertemporal comparison because they are
+comparable with each other over time and are all that is available over
+time. Data on value per acre are available by acreage brackets, but a
+proper data set to test my thesis cross-sectionally would rank farms by
+land value ($L), rather than acres. This would reshuffle and rerank indi-
+vidual farms.19 For example, in the brackets from 260 acres to 1,999
+acres, there are now more farms worth $1 million and over than there
+are in the top bracket (2,000 acres and over).20 Half the farms in the top
+bracket are worth less than $1 million each. If all farms were properly
+reranked by value, the degree of inequality and the effect of "size" on
+factor proportions would change. In what follows, I use available data to
+simulate what those changes might be. One available data set, although
+partial, is ranked by value, and it confirms my thesis with startling force.
+
+National Data
+   Concentration of Irrigated Land. The yield per acre of most crops
+stays level or rises with harvested acres per farm. At the same time,
+sales per dollar of real estate fall somewhat.21 The most likely reason is
+that the quality of harvested land rises with quantity. There is, to be
+sure, a trade-off between quality and quantity, but there is also a bond.
+Whoever can afford more can afford better. Which effect is stronger?
+The question must be resolved by data.
+124                                                            Mason Gaffney
+
+   The 1987 Census of Agriculture does not provide overall land-value
+data (separate from $B), but it does provide one surrogate for land
+quality: land irrigated. Irrigated land is generally flatter, lower, and
+warmer; in addition, the water supply itself is an easement over more
+land (the watershed, whose acreage is not counted with acres per farm).
+Farms of 2,000 acres and over have 34 percent of all irrigated land, but
+only 24 percent of $L÷B.22 That indicates higher land quality coupled
+with lesser improvement.
+  The 1987 census ranks farms by "acres harvested," not in the aggre-
+gate, but crop by crop. For almost all crops, the share irrigated rises
+steeply with acres per farm.23 Alfalfa is an example. Sixty-seven percent
+of acres in the top bracket are irrigated, compared with 23 percent for all
+farms producing alfalfa. The ratio of those percentages forms an index,
+Zeta (share of land irrigated on vast acreages, relative to all farms).24 For
+example, for alfalfa Zeta = .67/.23 = 2.9. (The Zetas for other crops are
+given in the endnote.) This finding is very strong because it runs
+against the ranking bias. These farms are ranked by all acres harvested;
+this bias alone would make Zeta < I if the scatter of points was perfectly
+symmetrical about both axes. If the census ranked these same data by
+acres irrigated, instead of acres harvested, the Zetas would be much
+higher.
+   Comparing different crops, high values of GR go with crops that are
+mostly irrigated. For example, 85 percent of tomato acres and 14 percent
+of silage corn are irrigated. For tomatoes, GR = .91; for silage corn, CR =
+.52.26
+   It is easy to presume that in a state of extremes, like California, high
+GRs result simply from consolidating high-priced irrigated land with
+vast arid ranches, "the cattle on a thousand hills." Several of the older
+Wright Act27 irrigation districts are strikingly egalitarian, it is true, with
+small mean farm sizes.28 These older districts have become, however,
+exceptional. An intensive study of the huge Westlands Water District,
+100 percent irrigated with cheap, subsidized federal water, shows CR =
+7729 Villarejo consolidated data from 10 districts receiving among them
+48 percent of all Central Valley Project water, for CR = .69.° These high
+CR values come from 100 percent irrigated lands.3 These and other
+data32 on irrigated acres support the thesis that quantity and quality of
+cropland are mates more than alternatives. The vaster farms also get
+more water per acre.
+   Land Concentration for Farms Ranked by Sales. The Census of Agri-
+culture now also ranks farms by sales per farm. This yields highei CR
+values: .80 in 1987, compared with .76 by acres. Sales are a measure of
+dollar values.. This suggests, without proving, that GR-by-$L > GR-by-
+acres.
+Rising Inequality and Falling Property Tax Rates                          125
+
+  In 1950, the top class (at that time, farms with sales > $25,000 per
+year) comprised 1.9 percent of all farms, 26 percent of the sales, and 41
+percent of the irrigated land.33 Again, this finding is very strong because
+it runs against the ranking bias, which is to put a higher share of sales in
+the top bracket.
+    I used 1950 above because the current census does not consolidate
+this information. It does, however, show it on a crop-by-crop basis.34 For
+example, for cash-grain corn, in the top group (highest sales per farm),
+37 percent of the acres are irrigated versus 14 percent for all groups. It
+goes on like that for all crops (except rice, all of which is irrigated). This
+finding is unaffected by ranking bias, pro or con.
+   Lack of Buildings on Latifundia. The 1940 Census of Agriculture, as
+noted, was the last to separate $L from $B, overall. In 1940 the building
+share of real estate ($B/ [$L+B], or BSREV) was .69 in the lowest acreage
+bracket, .31 for all farms, and .12 for farms of 1,000 acres and over.36
+   AELOS (1988) gives no comparable comprehensive data, but it does
+give two series that test the point and have the advantage of disaggrega-
+tion. One is for "owner-operators" and one for "landlords with debt."
+For the owner-operators, ranked by acres per farm, BSREV was .63 for
+farms under 10 acres; .29 for all farms; and .12 for farms of 2,000 acres
+and over.37 Building values are much more equally distributed among
+these farms than land values.
+   For "landlords with debt,"38 the BSREVs are lower overall (.11) than
+for owner-operators (.29), but the immediate interest here is how the
+shares fall with size of holding. Ranking by acres per farm, BSREV is .11
+overall, and falls gently to .07 in the top bracket. These data, however,
+are also ranked by $L+B. Ranking thus, BSREV is still .11 overall, but—
+here is the shocker—BSREV falls to an astonishingly low .01 in the top
+bracket.39
+   A share of .01 is breathtaking in any such scatter, but more so here
+because the ranking .variable includes $B. When a scatter of points is
+loose, the choice of ranking variable (i.e., the definition of "size") biases
+the findings to show the share of the ranking variable rising with size.
+However, the current data are ranked by $L+B, which is neutral be-
+tween $L and $B. Thus, BSREV = .01 in the top bracket is free of ranking
+bias and fully significant without adjustment. This is an uncommonly
+strong relationship. The biggest landlord holdings, in dollar value, are 99
+percent pure land.
+   Lack of Family Labor on Latifundia. Lack of buildings reveals lack
+of family labor, because so many farm buildings are operator dwellings,
+whose economic function is to house operator labor near the job site.
+The Census of Agriculture no longer publishes data on family labor.4°
+As a surrogate, one can assume that operator labor inputs are roughly in
+126                                                           Mason Gaffney
+
+proportion to operator housing, which the census reports separately. In
+1988 operator dwellings were 48 percent of farm real estate assets in the
+smallest acreage bracket, 16.4 percent for all farms, and falling steadily,
+4.4 percent on farms 2,000 acres and over.41 For family-held corporate
+farms (of all sizes), the share is 6.3 percent; for other corporate farms, 3.2
+percent. These data support the common impression that smaller and
+unincorporated farms are better supplied with operator family labor.42
+   In 1950 the census reported more detail than it does now on inputs
+used by farms ranked by sales. Class I farms (the largest) had 22 percent.
+of the land in farms and 7 percent of the farm labor (at that time, family
+labor was included). Class VI farms (the smallest) had 5 percent of the
+land in farms and 11 percent of the farm labor.43 This contrast would be
+much greater if farms were ranked by acres or $L+B because sales re-
+flect the presence of labor inputs, as well as feeder livestock and pur-
+chased feed. These contrasts of people to land ratios were brought out in
+many studies in that more socially conscious era.
+  To sum up what national data show, there is evidence that land
+quality rises with acreage harvested, using irrigated acres as a surrogate
+for quality, and that BSREV falls. Ranking farms by sales, the same rule
+holds. For all owner-operated farms, ranked by acres, BSREV falls steep-
+ly with size. For landlords with debt, ranked by $L+B, BSREV falls even
+more steeply with size, nearly to zero. The last point distills my thesis to
+its essence in one datum.
+
+Comparisons Among States
+   AELOS provides a third set of separate land and building values.
+These are aggregates by state.45Grouping data by areal units, as Reid
+did in her study of housing and income, is one way to overcome regres'
+sion fallacy.46 The idea is to group data on some basis other than the
+variables being studied and then to compare those variables among the
+groups. States serve the purpose, just as neighborhoods served Reid in
+her housing studies.
+    Lesser Improvement of Land in States with Larger Farms. One
+method of testing how SB grows with $L is to compare their disper-
+sions. The result is unbiased because the two variables are treated the
+same—neither ranking is given priority over the other. The egg-shaped
+envelope of scatter points is standing on its end if the y variable is more
+dispersed, and leaning on its side if the x variable is more dispersed.
+Any standard measure of dispersion is acceptable.47 I use two. One is
+the mean deviation, dividing each by its respective mean to standardize
+it for comparison with others. I also calculated coefficients of variation
+(CV), which are standard deviations divided by the respective means.
+    My results support the hypothesis that farmland values are much
+more concentrated than farm building values. The CVs are .44 for land
+value, and .24 for building value. (See Table 10.1 for details.)
+TABLE 10.1 Dispersion of Farm Sizes, U.S. and States, by Type
+Group                          LSREV         $L/A          A/Fm          L/Fm ($k)        B/Fm ($k)         L+B/FM ($k)
+50 states                        .71           537          299              161             64.7                225
+  Mean deviation (MD)            —             —            177              70.9              15.7
+  MD/mean                        —             —            .59               .44               .24              —
+  Std. deviation                 —             —            319              102               23.2              —
+  Cv                             —             —            1.07              .63               .36              —
+34 Rural-urban states            .70           708          213              151               64.4              215
+  Mean deviation (MD)            —             —            67.5             66.9              13.9              —
+  MD/mean                        —             —              .32             .44               .22              —
+  Std. deviation                 —             —            97.1             101               20.8              —
+  CV                             —             —              .46             .67               .32              —
+7 small urban states             .70          3186           106              337               143              480
+  Mean deviation (MD)            —             —            13.5              128              18.5              —
+  MD/mean                        —             —            .127              .38              .129              —
+  Std. deviation                 —             —            15.1              140              22.7              —
+  CV                             —             —            .143             .415              .159              —
+9 arid ranching states           .78           201          879               201              56.3              258
+  Mean deviation (MD)            —             —            423              57.0              13.2              —
+  MD/mean                        —             —             .48             .283              .234              —
+  Std. deviation                 —             —            567              64.4              16.6              —
+  CV                             —             —            .645              .320             .295              —
+
+Notes: The nine arid ranching states are North Dakota, South Dakota, Nebraska, Kansas, Montana, Wyoming, Nevada, Colo-
+rado, and New Mexico. (Arizona is surprisingly missing, because of its high $L/acre.)
+   The seven small urban states are Massachusetts, Rhode Island, Connecticut, New Jersey, Delaware, Maryland, and New
+Hampshire. (New Hampshire is surprisingly included, because of its small area and high $L/acre. Ideally, northern New
+Hampshire would be treated separately as rural, but then many other states should be split as well.)
+   The 34 "regular" states are all the others.
+   LSREV = land share of real estate value, i.e., $L/($L+B); $L/A = land value per acre; A/Fm = acres per farm; L/Fm = land
+value per farm; B/Fm = buildings value per farm; L+B/Fm = land+buildings value per farm.
+128                                                             Mason Gaffney
+
+   My overall findings are displayed in Figure 10.1, a scatter plotting of
+ LSREV against $L per farm, by states. Land value per farm ranges from
+ $71,000 (West Virginia) to $630,000 (Arizona). Arizona and other big-
+ farm states have higher LSREVs than West Virginia and other small-
+ farm states. Overall, the scatter displays a strong positive relationship
+between $L per farm and LSREV, state to state.48 This supports the basic
+finding, which is, otherwise put, that land is much more concentrated
+than buildings among farms.49
+   Urban Influence. Data by states also provide new insights into inter-
+state and interregional differences. I divide states into three groups: 9
+small urban states, 7 arid ranching states, and 34 rural and rural-urban
+states (see Table 10.1). For the small urban states, the CV values for $L
+and $B are .42 and .16; for the arid ranching states, .32 and .29; and for
+the 34 rural states, .67 and .32.° Thus, $L is more concentrated than $B
+among the states within each of the three groups, but the difference is
+greatest among the small urban states, where farm values are most af-
+fected by urban speculation. This suggests that the effect of urban land
+speculation is toward higher concentration of landholdings, a point
+made earlier by Gray, and by Goldenweiser and Truesdell,51 and obser-
+vable today around growing cities.52
+   Association of Property Taxation and Land Improvement. The spe-
+cific contrast of two states, Wisconsin and Florida, illustrates and ex-
+emplifies my general findings. In Table 10.2, I rank the 50 states by
+LSREV. The complement of LSREV is BSREV. Wisconsin has the highest
+BSREV, .47; Florida has the lowest, .15. Yet, Wisconsin's farm property
+tax rate (PTR) exceeds Florida's 4 to 1. Wisconsin, the high-tax state,
+leads Florida 3 to 1 in farm output per dollar of farmland value, 5 to 1 in
+farm buildings per dollar of farmland value, and (surprisingly) 7 to 3 in
+machinery/livestock. Florida, the low-tax state, leads Wisconsin in GR
+(2 to 1), in $L per farm (5.5 to 1), in acres per farm (3 to 2), in $L per acre
+(4 to 1), and in real estate/all assets (11 to 8) (Table 10.2).53
+   Florida and Wisconsin are not exceptions or outliers, but bellwethers.
+Extending the data to eight states below Florida, and eight above
+Wisconsin, the differences persist and accumulate consistently. The
+"Florida 9" are Florida, Arizona, New Mexico, Hawaii, Montana, North
+Dakota, Wyoming, California, and Texas. The "Wisconsin 9" are
+Wisconsin, Delaware, Maine, Pennsylvania, New York, New
+Hampshire, North Carolina, Oklahoma, and Ohio. There are two con-
+trasting Gestalts along the lines shown.
+   The Wisconsin 9 have higher PTRS overall than the Florida 9. To the
+extent that the PTR is a cause of the effects with which it is associated,
+its effect is not so much to abort farm capital, as expected. It is associ-
+ated with high BSREV. High PTR is also associated with small farms
+      U,                                                                                                                                               FL
+                                                                                                                     NM                                                        AZ
+                                                                                                                     •            NI                                           — 630
+
+                                                                                                                                  N
+
+
+
+
+>
+w
+      SC
+                                                                                     NO
+                                                                                     •              WV
+                                                                                                               MT
+                                                                                                                   _____
+                                                                 NI         TO                                                                              CA
+(I)
+-J                                          KS                                                                                                              S
+                                            •              IL
+a,                                               I         S
+                                                                                                     CO                                          MA
+CC
+>
+      .15                                   SO
+                                                                                                         •                                       ,                NJ
+                                                                                                                                                                     ,
+                                                      IA
+a,
+CC                                          Ui,
+                                                                 .                                                                                          .
+                                                                                                                                                                 CT
+                                                                                                                                                                 N
+Cl)                                         S
+w
+CS    To
+                                 LA
+                               —a--—                                                            ____
+a,
+                      MS'
+                      I
+                                                                WA
+                                                                •               NV
+E                                                                                I
+CS                .             SCGA                                                                 RI
+U-                                 a   .                                                  MO
+0     65
+                               —S.S.-.-.
+                                IN MN
+                                                                                          •                                            -
+a,
+CC
+
+Cl)
+                TN ..
+                 a.
+               1KV
+                                       •.
+                                       o#
+
+                                                                            •
+U)          WYISAL             MI
+CS
+
+a,
+D             NC.. •                   NV                       NH
+CC
+>
+                     OK
+                                    PAl                         I
+-o                         M1
+C
+CC
+                               .
+-J .56                                 OS
+                                       I
+                .
+                WI
+
+
+
+
+      50
+                          00
+                                                                                                                              -
+                                                150                   200                     250            300          . 350            400        400                550
+
+                               Land Value per Farm ($K), by State, 50 States.
+       FIGURE 10.1 LSREV plotted against $L per farm, by state, 1988. Source: Calculated from Bureau
+       of the Census, 1987 Census of Agriculture, Vol. 3, Related Surveys, Pt. 2, Agricultural Economics and
+       Land Ownership Survey (Washington, D.C., 1990):Table 71.
+TABLE 10.2. States Ranked by LSREV, Top and Bottom Nine
+State         LSREV L/Fm          L/A       GR        PTR L÷B/AFA M&E/LS A/Fm L/AFA Leased Share Sales/L
+FL               .85     452      1686      .847        .54        .88          .75        306       .75           .26           .23
+AZ               .84     630       542      .870        .44        .86          .55       4752       .72           .77           .31
+NIvI             .84     329       137      .782        .37        .84          .52       3230       .71           .48           .32
+HI               .83     366      1726      .962        .35        .85         4.57        353       .71           .51           .25
+MT               .80     304       ISO      .617        .85        .79         1.59       2451       .63           .32           .18
+ND               .80     229       279      .467        .96        .73         4.02        818       .58           .51           .23
+WY               .78     274       118      .682        .81        .77          .70       2314       .60           .42           .24
+CA               .78     476      2318      .875        .55        .86         1.11        368       .67           .58           .31
+TX               .78     215       570      .782        .56        .84         1.19        376       .66           .51           .22
+OH               .59       91      702      .556        .95        .78         2.56        130       .46           .42           .33
+OK               .59       92      361      .649        .60        .79          .97        255       .47           .46           .43
+NC               .59       89      943      .621        .47        .81         2.94         95       .48           .49           .59
+NH               .58      183     1370      .547        .97        .86         1.85        134       .50           .14           .15
+NY               .58      126      704      .506       1.58        .75         1.52        223       .43           .22           .40
+PA               .57      118      945      .490        .80        .76         1.41        153       .43           .33           .40
+ME               .56      106      520      .528       1.17        .74         2.27        214       .41           .15           .70
+DE               .54      126      1299     .679*       .44        .82         3.75        205       .44           .57           .85
+WI               .53       84       444     .436       2.13        .64         1.32        221       .34           .28           .72
+
+       1982 data used; 1987 data for Delaware not available.
+Notes: LSREV = land share of real estate value, i.e., $L/($L+B); $L/Fm = land value per farm; $L/A = land value per acre; GR =
+Gini ratio, intrastate, by acres; PTR = property tax rate on real estate, de facto; $L+B/AFA land+buildings as share of all farm
+assets; M&E/LS = machinery and equipment divided by livestock, dollar values; A/Fm = acres per farm; $L/AFA land value as
+share of all farm assets; leased share = fraction of acres in state under lease; and sales/L = sales (of farm output) per dollar of land
+value (est.).
+Sources: Data are from Bureau of the Census, 1987 Census of Agriculture, Vol. 3, Pt. 2, as follows: separate land and building
+values, p. 229, Table 70; other asset values, p. 61, Table 28; Gini ratios calculated from data in Table 5, (p. 179); tax rates, p.181,
+Table 51; leased land, p. 5, Table 2; sales, p. 20, Table 8; $L+B, p. 61, Table 28. $L+B was converted to $L using the LSREV factor in
+Column 1. This is an estimate because the LSREV factor applies to owner-occupied farms, but the sales and $L÷B data are for all
+farms. This approximation is necessary because fully coordinated published data are lacking.
+Rising Inequality and Falling Property Tax Rates                                131
+
+
+(low $L per farm, low $L per acre), low GR values, high ratios of M&E
+to livestock and to real estate, low shares of leased land,54 and fuller
+land usage, as measured by sales per $L.
+   The inverse relationship between PTR and CR is particularly consist-
+ent and noteworthy. In this respect North Dakota and Delaware, other-
+wise nonconforming members of their respective groups, fall into line.
+Delaware has a low PTR and a high CR; North Dakota, the opposite.
+The egalitarian effects of a high PTR seem stronger than its negative
+incentive effects, even though buildings are part of the tax base. These
+egalitarian effects would be stronger if the tax base was limited to naked
+land value, because LSREV rises steeply with size of farm. Untaxing
+buildings would also eliminate negative incentive effects.
+
+                                Conclusion
+   One may at least firmly conclude that large farm units are less im-
+proved and less peopled than small and medium-sized farms. There are
+two possible interpretations. One is that big farms are more efficient,
+getting more from less, but that is refuted by their getting less output
+per $L. The other is that Veblen was right, many of them are oversized
+stores of value, held first to park slack money and only secondarily to
+produce food and fiber and complement the owner's workmanship.55
+The Florida 9 may represent a home grown rural "third world" of large,
+underutilized landholdings that preempt the best land and force median
+farmers onto small farms on low-grade land.
+   The issue cannot be settled in a few words, but the implications for
+tax policy are the same either way. If large units are more efficient, they
+can bear heavier taxes. If they are less efficient, heavier PTRs will induce
+them to release surplus land for others, which will tend at the margins
+to equalize factor proportions, moving more states from the Florida to-
+ward the Wisconsin model.
+
+                                Notes
+   Mason Gaffney is professor, Department of Economics, University of
+California-Riverside.
+   1. The rates for 1930 and 1945 are from U.S. Department of Agriculture, The
+Economic Almanac (New York, 1960):33. The 1988 rate is from Bureau of the
+Census, 1987 Census of Agriculture, Vol. 3, Related Surveys, Pt. 2, Agricultural
+Economics and Land Ownership Survey (Washington, D.C., 1990):179, Table 50.
+Earlier information is fuzzy, but before 1930 there were no state sales taxes and
+few state income taxes. In 1920, half of all state government revenues were from
+property taxes, as well as 90 percent of local revenues (particularly counties and
+school districts). The levies of special improvement districts, e.g., for irrigation
+132                                                                  Mason Gaffney
+
+and drainage, are not legally "taxes," but "benefit assessments," and were in
+addition to the numbers given.
+  2. In constant dollars, average hourly earnings of nonsupervisory production
+labor in U.S. manufacturing peaked in 1975 and had dropped about 7 percent by
+1988. Bureau of Labor Statistics, Handbook of Labor Statistics, Bulletin 2340
+(Washington, D.C., 1991):312, Table 80.
+   3. Average hourly earnings (before tax) of nonsupervisory production
+workers were $1.71 in 1955 and $8.57 in 1985. The value of land and buildings
+per farm was $20,400 in 1954 and $289,000 in 1987. Using 2,000 as the number of
+working hours per year yields the labor-cost of a farm in yearly wages. I have
+understated both the rise and the years by using "earnings" instead of dispos-
+able pay after payroll taxes, which have risen sharply. Also, I did not allow for
+layoffs, sickness, injury, unemployment, etc.
+   4. The CR is a measure of unequal distribution. It is a pure index that sums
+and standardizes large amounts of disparate data in one number. A rise in CR
+means the big got bigger and/or the small got smaller. It ranges from .00 (com-
+plete equality) to 1.00 (complete inequality). Its essence is explained in many
+basic texts on industrial organization. See, e.g., D. Needham, The Economics of
+Industrial Structure and Performance (New York: St. Martin's Press, 1978):424.
+   5. Calculated from the Census of Agriculture for various years. The full set of
+GRs is: 1900 = .58; 1910 = .57; 1920 = .60; 1925 = .62; 1930 = .63; 1935 = .65; 1940 =
+.67; 1945 = .70; 1950 = .70; 1959 = .71; 1969 = .71; 1982 = .75; 1987 = .76.
+   6. Calculated from Bureau of the Census, 1940 Census of Agriculture (Wash-
+ington, D.C., 1941), Vol. 3:78-79, 82; and 1950 Census of Agriculture (Washington,
+D.C., 1951), Vol. 2:776.
+   7. Calculated from Bureau of the Census, 1987 Census of Agriculture, 93, Table
+51; 1940 Census of Agriculture, Vol. 3:78-79, 82; and 1950 Census of Agriculture,
+Vol. 2:776. In 1940 and 1950 the top bracket was 1,000 acres and over; in 1987 it
+was 2,000 acres and over. I adjusted for this by combining the top two brackets
+in 1987.
+   8. Data for 1925-1950 are from Bureau of the Census, 1950 Census of Agricul-
+ture, Vol. 2:780-782; and for 1987, the 1987 Census of Agriculture, 90-91, Table 51.
+To maintain comparability it was necessary to consolidate the top two brackets
+in 1987.
+      9. For example, the number of farms in Stanislaus County, California, quin-
+tupled from 1900 to 1920. Subdivision for more intensive culture by small
+farmers was the dominating trend there then. Heavy land taxes were levied
+there (by irrigation districts) to finance public irrigation works. See B.F. Rhodes,
+"The Thirsty Land," Ph.D. dissertation, University of California, Berkeley, 1943;
+available from the university's Main Library and on microfilm, HD1740, M6R4.
+See also A. Henley, 1969, "Land-value Taxation by California Irrigation Dis-
+tricts," in A. Becker, ed., Land and Building Taxes (Madison: University of
+Wisconsin Press, 1969).
+  10. From Bureau of the Census, 1987 Census of Agriculture, 16, Table 8, and
+84, Table 51. The movement in California is separately studied by R. Felimeth,
+Politics of Land (New York: Grossman Publishers, 1973); M. Goodall, "Property
+and Water Institutions in California," draft, Claremont Graduate School,
+Rising Inequality and Falling Property Tax Rates      .                            133
+
+
+1991:1-18; P. Roberts, "Power and Land in California," a summary of the Nader
+report, chaired by R. Fellmeth, 1971 (available from California State Library, Sac-
+ramento, and various University of California campus libraries); P.S. Taylor,
+Essays on Land, Water and the Law in California (New York: Arno Press, 1979); D.
+Villarejo and J. Redmond, Missed Opportunities—Squandered Resources (Davis:
+California Institute for Rural Studies, 1988). Re: concentrated control of water in
+Hawaii, see P. Philipp, The Diversified Agriculture of Hawaii (Honolulu: Univer-
+sity of Hawaii Press, 1953):18-20.
+    11. Calculated from Bureau of the Census, 1987 Census of Agriculture, 16,
+Table 8. Because of the peculiar arrangement of data, this figure needs cautious
+interpretation. For other confirmation, however, see below.
+    12. D. Villarejo, How Much is Enough? (Davis: California Institute for Rural
+Studies, 1986):101, 108.
+    13. Data on sales for 1930 are not available, but going back to 1900, GR by
+sales was .50, and GR by acres was .58.
+    14. In 1940, the last year in which the Census of Agriculture separated $L and
+$B, LSREV was .69 overall. In AELOS (1988) LSREV is reported for owner-
+operators (.71), and for "landlords with debt" (.89), but not for overall LSREV.
+From that, I "ballpark" LSREV at .80 for 1988.
+    15. The standard capitalization formula (omitting the property tax rate) is P =
+CF/[i-gl, where P is land price, CF is current cash flow, i is interest rate, and g is
+annual growth rate of CF. Rearranging terms, P = [CF+Pg]/i. Pg is the current
+annual increment to land price. The formula is simplified, but in the market,
+brokers have been capitalizing and selling Pg for ages using this basic theme and
+variations.
+   16. From Bureau of the Census, 1987 Census of Agriculture, 7, Table 1, for
+1954-1987 data; 1950 Census of Agriculture, Vol. 2, Pt. 10:775-76 and Vol. 2, Pt.
+9:753, Table 1, for 1945. The data for earlier years require some piecing out, but
+are roughly as follows: 1900 = 4.55; 1910 = 5.56; 1920 = 3.85; 1930 = 4.17; 1940 =
+4.17. Within those spare numbers lie the stories, follies, hopes, heartbreaks, delu-
+sions, labors, savings, and lives of millions of Americans.
+   17. Historians would not expect it to: latfundia perdidere Italiam two mullen-
+niums before modem technology. Veblen, supposedly a technocrat, did not buy
+the farm technology story either. A farm boy and historian, he saw farm machin-
+ery conforming to the Procrustean bed of speculative landholdings, rather than
+the other way around. T. Veblen, "The Independent Farmer," in T. Veblen, Ab-
+sentee Ownership (New York: B.W. Huebsch, 1923):129-142. In 1916, after many
+giant farms had been divided, Fordson came out with a new, smaller tractor.
+  18. Bureau of the Census, 1987 Census of Agriculture, Vol. 3, Pt. 2:58, Table 27.
+  19. Failure to observe this point is "regression fallacy." See A.E. Waugh, Ele-
+ments of Statistical Method (New York: McGraw-Hill, 1943):387-389.
+   20. I.e., 56,355 farms versus 35,484 farms over 2,000 acres; Bureau of the
+Census, 1987 Census of Agriculture, 93, Table 51.
+   21. Ibid., 36, Table 44, and 84, Table 51. This means sales per dollar of land fall
+with size of farm since LSREV rises with size of farm.
+  22. Ibid., 16, Table 8, and 84, Table 51.
+134                                                                  Mason Gaffney
+
+
+   23. thid., 36, Table 44. G. Wunderlich has made the same point in a brilliant
+(but, ruefully, unpublished) note, "Wetter is Better," Economic Research Service,
+U.S. Department of Agriculture, 1985.
+   24. This is the counterpart of Gamma, used above.
+   25. Zeta values by crop, calculated from Bureau of the Census, 1987 Census of
+Agriculture, 36, Table 44. Cash corn = 2.1; silage corn = 3.3; sorghum = 0.8; wheat
+= 1.0; barley = 1.3; oats = 3.2; cotton = 1.4; tobacco 1.8; soybeans = 2.0; dry
+edible beans = 1.5; potatoes = 1.1; sugar beets 1.5; peanuts = 1.8; alfalfa hay etc.
+= 3.3; other hay = 7.5; seeds = 1.4; vegetables = 1.3; tomatoes = 1.2; sweet corn
+1.6; berries = 0.9; orchards = 1.2; rice = 1.0.
+   26. Those who find GR index numbers too abstract will find more meaning in
+these raw data. For tomatoes, the top acreage bracket contains 1.1 percent of the
+farms, 45 percent of the harvested acres, and 52 percent of the irrigated acres in
+tomatoes. For silage corn, the top bracket contains 1.0 percent of the farms, 11.3
+percent of the harvested acres, and 26 percent of the irrigated acres in silage
+corn.
+    27. Wright Act irrigation districts in California are special improvement dis-
+tricts whose governing boards are democratically elected (in most' others, voting
+is by property value). Wright Act districts were the major vehicle of rapid settle-
+ment and subdivision, 1902-1930, before there were any outside subsidies. Dur-
+ing this period, tax assessments on land in several districts were extremely high.
+These districts levy exclusively on land, exempting buildings.
+    28. Series of Factual Reports on specific irrigation districts (I.D.), U.S. Bureau
+of Reclamation, Sacramento office, ca. 1947. The reports give data for calculating
+the following GRs: Lindsay-Strathmore ID., .31; Ivanhoe ID., .46; Madera I.D.,
+.45. These data are from 1947, before the districts began getting political rent
+from federally subsidized (Central Valley Project) water. They are less
+egalitarian today.
+      29. Calculated from data in D. Villarejo and J. Redmond, Missed
+Opportunities—Squandered Resources, 45.
+      30. Calculated from Villarejo, How Much is Enough? 28.
+      31. These lands are also subject to a "160-acre limitation" that nominally ac-
+companies federal water. Enforcement is toothless, but sporadic attempts have
+some effect. Other vast districts, not in these data, get state-subsidized water free
+of any acreage limitation, and their GRs run higher.
+   32. A good general source for California is Department of Water Resources,
+Bulletin 23 (Sacramento, series).
+  33. Bureau of the Census, 1950 Census of Agriculture, 1118, Table 1.
+  34. Bureau of the Census, 1987 Census of Agriculture, 120, Table 52.
+   35. There is no ranking bias because neither acres nor irrigated acres is the
+ranking variable. Sales is the ranking variable, and gross acres are compared
+with irrigated acres.
+   36. Bureau of the Census, 1940 Census of Agriculture, Vol. 3:80. An earlier
+insightful article on the subject is D. Weeks, "Factors Affecting Selling Prices of
+Land in the 11th Federal Farm Loan District," Hilgardia 3, no. 17 (1929):459-542.
+  37. Bureau of the Census, 1987 Census of Agriculture, Vol. 3, Pt. 2:229, Table
+70.
+Rising Inequality and Falling Property Tax Rates                                   135
+
+
+   38. Ibid., 219, Table 64.
+   39. As $L+B per farm rises, $B per farm actually falls, which is astounding.
+Like most extreme findings, this one results from several concurrent factors: (1)
+these data are for ownership, not operation; (2) these are all rented lands; and (3)
+these data are ranked by value, not acres. Thus, they are ideal to test my thesis in
+its purest form. They show, technically, how very sensitive concentration data
+are to the choice of ranking variable. Above all, they show substantively that the
+largest holdings of farm wealth consist of land without buildings.
+    40. It is a wry commentary on modem attitudes that a farm family's own
+work is no longer counted as labor.
+    41. Bureau of the Census, 1987 Census of Agriculture, Vol. 3, Pt. 2:229, Table
+70.
+   42. This also implies that land in smaller farms is more productive in terms of
+supplying the service flow of shelter, plus the amenities of rural life, to families.
+To appreciate the weight of this factor, consider that the 1990 census shows 40
+percent of American households pay more than 30 percent of their income for
+housing. As discussed above and again below, land in small farms is also more
+productive in purely cash terms (sales per $L). The two kinds of productivity are
+additive.
+   43. Bureau of the Census, 1950 Census of Agriculture, Vol. 5, Pt. 6:51, cited in
+M. Gaffney, "Land Speculation," Ph.D. dissertation, University of California,
+Berkeley, 1956, 207.
+  44. See Gaffney, ibid., 203-209. Cited there are supporting data from studies
+by C. Goodrich, J.A. Baker, L. Nelson, C. Hammar and J.H. Muntzell, W.J. Cash,
+A.O. Craven, A. Raper, T.J. Woofter et a!., J.V. Rogers, D.C. Miley, H. Weaver,
+W.W. Wilcox and WE. Hendrix, S. Hamilton and D. Parker, D. Weeks, H.L.
+Roberts, L. Gay, Jr., E. Jacoby, and R. Hardie.
+    45. Bureau of the Census, 1987 Census of Agriculture, Vol. 3, Pt. 2:230, Table
+71. These data are just for owner-operators. More coverage would be better, and
+is stored, but this is all that is released in AELOS.
+    46. Margaret Reid, Housing and Income (Chicago: University of Chicago Press,
+1962). Discussion is in R. Muth, "Permanent Income, Instrumental Variables, and
+the Income-Elasticity of Housing Demand," unpublished manuscript, ca. 1971,
+1-40. Reid's studies were in conjunction with developing the "permanent income
+hypothesis," which was an extended exercise in offsetting regression fallacy. See
+also the discussion in M. Gaffney, 1971, "The Property Tax Is a Progressive Tax,"
+Proceedings, National Tax Association, 64th Annual Conference, Kansas City (Co-
+lumbus, Ohio: National Tax Association):421-424.
+    47. A. Wallis and I-I. Roberts, Statistics (Glencoe, Ill.: Free Press, 1956):263 and
+preceding.
+    48. Using $L to rank the states would reintroduce an element of ranking bias
+if grouped data were not being used. Lumping data causes extreme understate-
+ment of the relationship displayed, so no net exaggeration is perpetrated by
+Figure 10.1.
+136                                                                 Mason Gaffney
+
+  49. If that is not clear, think of it in extreme terms. It is as though buildings
+were all of equal value, from farm to farm, and farms differed only in their
+lai?ds.
+   50. To sharpen these differentials, I have experimented with dividing states
+synthetically into regions. Thus, it is reasonable to impute the characteristics of
+Iowa to the northern third of Missouri and the southern third of Minnesota,
+leaving the residuals to the other two-thirds of each state. The result is a steep
+jump in the mean deviation of $L per farm, and a small rise in that of acres per
+farm and $B per farm. County-by-county data processed in this way would
+make the points even sharper. Several prior researchers have used county data
+to good effect.
+   51. L.C. Gray, "Land Speculation," In E.R.A. Seligman, ed., Encyclopedia of the
+Social Sciences (New York: Macmillan, 1931); E.A. Goldenweiser and L. Trues-
+dell, Farm Tenancy in the United States, Bureau of the Census Monograph No. 4
+(Washington, D.C.: Government Printing Office, 1924).
+   52. Florida, singled out below as a "bellwether" state, is not a "small" urban
+state, but ranks high in urban sprawl, which spreads urban price influence over
+farmland: 7.4 percent of Florida is "urban and built-up" compared with less in
+other states of comparable area and population—5.1 percent in illinois, 5.2 per-
+cent in Michigan, and 5.8 percent in New York (U.S. Department of Commerce,
+Statistical Abstract of the United States 1988 (Washington, D.C.: Government
+Printing Office, 1989):187.) Florida ranks low in per capita income, but second
+among states in domestic travel spending. The Florida land boom of 1926 is
+history, but the dispersed settlement pattern that fostered it still stamps Florida,
+and helps explain its farmland characteristics, namely, high LSREV and high GR.
+  P. Raup points out that recreation-retirement uses, along with tax shelters,
+even dominate ranchiand values in some arid states. See his statement in Sub-
+committee on Monopoly, Senate Small Business Committee, Role of Giant Corpo-
+rat ions (Washington, D.C.: Government Printing Office, 1972), Pt. 3:3969.
+   53. Florida also outranks Wisconsin in many measures of social and civic
+morbidity. Florida leads the nation in violent crimes per 100,000 population, and
+it leads Wisconsin 5 to 1 (Federal Bureau of Investigation's Uniform Crime Rates,
+1991 World Almanac and Book of Facts (New York: World Almanac):848). That is
+the more significant considering its age distribution, which is short on the
+violence-prone youthful cohorts. Florida ranks 44th in voter turnout, to 4th for
+Wisconsin, even though Florida ranks first in share of population over age 65,
+the high-voting ages. Florida also leads Wisconsin in infant mortality rate, 12.8 to
+9.5; divorce rate, 6.7 to 3.6; and prisoners per 100,000 people, 243 to 102. In a
+cultural factor like patents issued per million people, Wisconsin leads Florida
+185 to 113. (Data from U.S. Department of Commerce, Statistical Abstract of the
+United States 1990 (Washington, D.C.: Government Printing Office, 1991):xii-xxi,
+535; U.S. Department of Commerce, State and Metropolitan Area Data Book, 1986,
+Bureau of the Census (Washington, D.C.: Government Printing Office, 1986);
+U.S. Department of Commerce, Commissioner of Patents and Trademarks, An-
+nual Report (Washington, D.C., selected years); Congressional Quarterly, America
+Votes, Vol. 19 (Washington, D.C., 1991). These data are only partial and explora-
+tory: Many factors, including urban factors, contribute to such contrasts. A
+Rising Inequality and Falling Property Tax Rates                            137
+
+
+much-discussed treatment is W. Goldschmidt, As You Sow (Glencoe, Ill.: The
+Free Press, 1948). Also worth consulting is M.R. Greenberg, G.W. Carey, and F.J.
+Popper, "Violent Death, Violent States, and American Youth," The Public Interest
+no. 87, Spring (1987):38-48.
+   54. Florida, my bellwether state, is an exception to this rule.
+   55. T. Veblen, "The Independent Farmer," 129442.
+

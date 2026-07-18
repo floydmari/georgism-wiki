@@ -59,4 +59,4 @@ Oates and Schwab are careful not to claim the tax was the sole cause: Pittsburgh
    split-rate natural experiment: the city's heavier tax on land (vs structures)
    coincided with a building boom not seen in comparable rust-belt cities.
    [Full text (PDF)](https://cooperative-individualism.org/oates-wallace_the-impact-of-urban-land-taxation-1997-mar.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/oates-schwab-pittsburgh.pdf)
-2. Related multi-municipality evidence: [Plassmann & Tideman (2000) — wiki summary](/wiki/plassmann-tideman-construction/)
+2. Related multi-municipality evidence: [Plassmann & Tideman (2000) — wiki summary](/wiki/plassmann-tideman-construction/) — used as a cross-reference for the "Authors' Caution" section above, corroborating the single-city Pittsburgh finding with a multi-city panel.

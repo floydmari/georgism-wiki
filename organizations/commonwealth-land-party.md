@@ -17,7 +17,7 @@ The party's 1924 platform called for a single tax on land to replace all other m
 
 - [Single Tax](/wiki/single-tax/) — the underlying proposal and movement the party was built around
 - [Henry George](/wiki/henry-george/) — the movement's founding figure, though he died in 1897 before the party's founding
-- [Joseph Fels](/wiki/joseph-fels/) — soap manufacturer who funded Single Tax campaigns in the US and UK during the same era
+- [Joseph Fels](/wiki/joseph-fels/) — soap manufacturer who funded single-tax campaigns in the US and UK during the same era
 - [The Corruption of Economics (book)](/wiki/gaffney-harrison-corruption-of-economics/) — the discovery source, which names John C. Lincoln as the party's 1924 vice-presidential candidate
 
 ## Sources

@@ -7,6 +7,7 @@ excerpt: "American journalist and political economist (1839–1897) whose 1879 b
 born: 1839
 died: 1897
 sources: [george-1879, andelson-2003]
+pd_quotes: true
 ---
 
 ## Life
@@ -21,7 +22,9 @@ The intellectual crisis that shaped his life's work came in the late 1860s. Watc
 
 ## Political Career
 
-George's ideas attracted a mass following. He ran for mayor of New York City in 1886, narrowly losing to Abram Hewitt in a race that placed him ahead of the Republican candidate Theodore Roosevelt in the popular vote. He ran again in 1897 and died of a stroke four days before the election, at the age of 58. Hundreds of thousands attended or lined the streets at his funeral procession.
+George's ideas attracted a mass following. He ran for mayor of New York City in 1886, narrowly losing to Tammany-backed Democrat Abram S. Hewitt in a race that placed him ahead of the Republican candidate Theodore Roosevelt in the popular vote — official canvass Hewitt 90,552, George 68,110, Roosevelt 60,135; George believed, and his supporters long argued, that he had actually been "counted out" (Henry George Jr., *Life of Henry George*, 1900, Third Period, Ch. VIII). See [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/) for the full campaign.
+
+He ran again for mayor of the newly consolidated Greater New York in 1897, against explicit medical warnings — his physician told him the campaign would "most probably prove fatal." George's reply, as his son records it: "But I have got to die. How can I die better than serving humanity?" (*Life of Henry George*, Third Period, Ch. XIV). He collapsed of a stroke in his New York hotel room in the early hours of 29 October 1897, four days before the election, at the age of 58; an estimated 100,000 people passed his casket as it lay in state, and hundreds of thousands lined the streets of his funeral procession. See [The Last Campaign, 1897](/wiki/1897-nyc-mayoral-campaign/) for the full account.
 
 ## Influence
 
@@ -39,6 +42,12 @@ Barker emphasizes that the California experience was essential to George's intel
 
 Eric F. Goldman's *Rendezvous with Destiny* (1952) places George within the broader American reform tradition. Goldman describes George writing *Progress and Poverty* in his "rugless, ill-heated room" in San Francisco after the depression of 1873, arguing that the closing of the American frontier of free land was causing the "New World" to "repeat the Old World's dismal story" (Goldman 1952, p. 39). The single-tax movement had "a pervasive effect" on urban reform politics; the Knights of Labor organ testified in 1887: "No man has exercised so great an influence upon the labor movement of to-day as Henry George" (Goldman 1952, p. 47). See [Rendezvous with Destiny](/wiki/rendezvous-with-destiny/). (A/D-claim; factual/interpretive)
 
+### Henry George Jr.: The "Flash of Insight" and the San Francisco Years
+
+The primary account of George's founding moment comes from his son's 1900 biography, which quotes George's own later description of the "flash-like revelation" behind *Our Land and Land Policy* (1871), the pamphlet that first stated the argument later expanded into *Progress and Poverty*: "I well recall the day when, checking my horse on a rise that overlooks San Francisco Bay, the commonplace reply of a passing teamster to a commonplace question, crystallised, as by lightning-flash, my brooding thoughts into coherency, and I there and then recognised the natural order — one of those experiences that make those who have had them feel thereafter that they can vaguely appreciate what mystics and poets have called the 'ecstatic vision'" (Henry George, quoted in [Henry George Jr.](/wiki/henry-george-jr/), *Life of Henry George*, 1900, Second Period, Ch. III). George insisted the idea was his own, arrived at "without conscious aid" and before he had "even heard of the Physiocrats" — a claim the biographer corroborates by tracing the same rent-wage argument back through George's unsigned 1868 *Overland Monthly* article "What the Railroad Will Bring Us." (A-claim; direct quotation of George's own account, corroborated against his earlier published writing)
+
+The biography is also the fullest primary source for the writing of *Progress and Poverty* itself — the San Francisco workroom, George's working method, and the night he finished the manuscript, on which he later wrote he "flung myself on my knees and wept like a child." See [Progress and Poverty § How the Book Was Written](/wiki/progress-and-poverty/) for the full episode. (A-claim; letter quoted verbatim by the biographer)
+
 ### Bryson: Rehabilitation of George as Economist
 
 Phillip Bryson's *The Economics of Henry George* (2011) provides the most comprehensive modern academic rehabilitation of George as an economist. Bryson argues George has been progressively "rehabilitated" by the economics profession: "For at least half a century, George was terribly popular with the general public, but rather viciously attacked by academics. […] George was actually very competent and understood classical economics very well, so it was incumbent on history to recognize the value of his work" (Bryson 2011, Ch. 1) — recognition that, Bryson adds, history ultimately delivered and continues to deliver. Schumpeter assessed George as "a very orthodox economist and extremely conservative as to methods," whose methods were "those of the English classics" (Bryson 2011, p. 5). See [Bryson's book page](/wiki/economics-of-henry-george/). (D-claim; interpretive)
@@ -54,6 +63,9 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 - [The Saratoga debate with Seligman (1890) — full text](/wiki/saratoga-single-tax-debate-1890/) — George defending the single tax before the academic economists
 
 - [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the primary biography, full public-domain text in-repo
+- [Edward McGlynn](/wiki/edward-mcglynn/) — the excommunicated priest who was George's closest ally in the 1886 campaign and the [Anti-Poverty Society](/wiki/anti-poverty-society/)
+- [1897 Mayoral Campaign](/wiki/1897-nyc-mayoral-campaign/) — the fatal second run for mayor of Greater New York
+- [Michael Davitt](/wiki/michael-davitt/) — Irish Land League leader George reported on and collaborated with during the 1881-82 Land War
 
 - [Progress and Poverty](/wiki/progress-and-poverty/) — George's 1879 masterwork
 - [The Crime of Poverty](/wiki/crime-of-poverty/) (1885) — his most famous popular lecture, held in full
@@ -79,3 +91,4 @@ Phillip Bryson's *The Economics of Henry George* (2011) provides the most compre
 4. Charles Albro Barker, *Henry George* (New York: Oxford University Press, 1955) — used for biographical details, the California formation, and the triple legacy (D-claims). [Book page](/wiki/barker-henry-george-biography/)
 5. Eric F. Goldman, *Rendezvous with Destiny: A History of Modern American Reform* (New York: Alfred A. Knopf, 1952) — used for political context and the 1886 campaign (A/D-claims). [Book page](/wiki/rendezvous-with-destiny/)
 6. Phillip J. Bryson, *The Economics of Henry George* (New York: Palgrave Macmillan, 2011) — used for the rehabilitation of George as economist (D-claims). [Book page](/wiki/economics-of-henry-george/)
+7. Henry George Jr. (1900), *Life of Henry George*, Second Period Ch. III and X, Third Period Ch. VIII and XIV — public domain, reproduced on this wiki: [life-of-henry-george](/wiki/life-of-henry-george/). Used for the "flash of insight" episode and George's own account of it, the composition of *Progress and Poverty*, the 1886 mayoral vote totals and the "counted out" belief, and the 1897 campaign and death (A-claims for quoted letters and reported vote totals; D-claims where the son characterizes his father — a sympathetic filial biography, cited accordingly).

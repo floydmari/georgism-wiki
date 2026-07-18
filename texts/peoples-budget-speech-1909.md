@@ -21,7 +21,7 @@ On April 29, 1909, David Lloyd George — then Chancellor of the Exchequer in As
 
 The budget also proposed new valuations of all land in the United Kingdom, separating the value of land from the value of improvements — a necessary precondition for any land value tax.
 
-The House of Lords rejected the budget — an unprecedented constitutional crisis that ultimately led to the Parliament Act 1911. The land valuations proceeded, but the land duties were repealed in 1920 before they had been fully implemented.
+The House of Lords rejected the budget — an unprecedented constitutional crisis that ultimately led to the [Parliament Act 1911](/wiki/parliament-act-1911/). The land valuations proceeded, but the land duties were repealed in 1920 before they had been fully implemented.
 
 The speech draws a sustained contrast between agricultural landlords, who Lloyd George says generally reinvest in their tenants' buildings and repairs, and urban and mineral-royalty landlords, who "recognise no such obligations" while collecting value created entirely by "the energy and the enterprise of the community." The land value duties that followed — the increment value duty, the undeveloped land duty, and the reversion duty — are each explained and costed in the passages below, along with the case for a nationwide land valuation separating land value from the value of improvements.
 

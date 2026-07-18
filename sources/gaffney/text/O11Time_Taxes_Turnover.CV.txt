@@ -1,0 +1,1306 @@
+                    TINE, TAXES, TJRNOVER, AND INTENS ITY
+                              M. Mason Gaffney
+                       Resources for the Future, Inc.
+
+         I welcome the occasion to discuss comments by Thomson and Goldstein
+(214.) on my "Tax-induced Slow Turnover of Capital" (9), (8). The subject
+warrants continued recycling, which they have done a service to attempt.
+
+They have done some disservice by erring on several points, which, however,
+it is my pleasure to correct.
+       To narrow the issues, I first identify matters of agreement. There
+are more than meet the eye. T & G's litigious style differentiates their
+product more than the content warrants.
+        They agree that what they call an excise or severance or "gross" tax
+is biased in favor of long life.-" They qualify this by toying with a
+
+"Single Cycle Case" in which there is no bias, but the model is a nonesuch,
+
+even though the proof based on it has become a clich of introductory capital
+
+theory. Site is permanent, and since their approach is invariably to maxi-
+
+mize site value, they must always do so in perpetuity, if only by allowing
+
+a site salvage value in a speciously one-cycle model. So we may
+
+miss    all their "Single Cycle Cases." They err (plausibly) in thinking my
+cases   are "Single Cycle"    of which more later. There really are no single
+cycle cases, except where land is abandoned after one pass. Life goes on.
+
+
+      i/ In current American forestry usage an ad valorem harvest tax on
+stumpage is called a "yield" tax. In 1967 (9)    I
+                                                 used "severance" tax, and
+T & G repeat my usage. In forest usage "severance" taxes are specific, so
+it was an unhappy choice. I now comply with field usage     and call this
+                                                                        a
+"yield" tax, where forest examples are used.  However my subject  was taxa-
+tion of all   capital,
+                     not forests alone, so "excise" is a good term. "Gross,"
+which T & G   favor, is too gross. Yield taxes arebased on stunipage, which
+is the value of logs in the woods net of harvest costs.
+                                    -2
+
+      They also agree that a tax on land income is neutral. They bury this
+by mislabelling their land tax an "Income Tax" (214., "D," Table 1, p. 32).
+The base of this tax "D" is [V - Peim] (their notation, p. 32), that is
+harvest value less planting costs compounded to maturity. The compounding
+means interest on P is also deducted from the tax base, leaving nothing in
+the base except the pure net product of the site.
+      They do not explain why they call this the "income tax." The Federal
+income tax would resemble it if planting costs were expensable in year zero:
+this deduction would then have the same present value as deducting compounded
+planting costs (r im ) in year m (maturity). Some European taxes come close
+to this. But the income tax as we know it in the United States requires the
+taxpayer to capitalize P and wait until maturity to deduct it (subject to
+some chiseling).                  This is my usage in the article which T & G
+purport to be discussing. It is their tax "C", which they variously call
+"net severance," "capital gains," and "net tax" -- a babble of tongues all
+at odds with current usage. The confusion could mislead many readers, and
+creates a cover for their mislabelling a land tax -— their "D" -- as the
+income tax.
+      They follow my argument that conclusions about tax bias are affected by
+assumptions about shifting. In their heat of contention they suppress what
+I said, but interested readers may consult the record, pp. 312-3114-, and for
+
+emphasis my concluding sentence, p. 323, "... the   neutrality is impaired by
+shifting, and the only part of the income tax that may be made perfectly neutral
+
+is the part that falls on land income." See also the next set of citations.
+                                    -3-
+
+         They agree that taxes not on land may often be shifted into lower
+
+land values. (9, notes 2 and 5, 8, p. 179, n. 12; p. l8li., n. 17; pp.
+187-90; pp. 195-97; p. 282; p. 11.11; and. especially pp. 419-2O). I close
+by noting I have only scratched the surface of the relations between
+interest and rent and "regard this as of first priority for extended. treat-
+nnt in a seqtl.'t (p. 11.20) It is splendid that T & G followed my lead,
+
+however ineptly; it would have been gracious of them to acknowledge it,
+
+rather   than pick a fight. Incidentally I have also followed mr own
+svggestion (3, 187-97 et passim and io).
+      Finally, I can hardly dissent from their revelation of Faustmann's
+
+formula to which I originally guided them during a correspondence (7) they
+
+omitted from their credits, and which I used in the work attacked (8, p. 11.20).
+
+Gentleman Jack Hirshleifer is too generous when in the work which T & G laud
+
+he credits me with having "rediscovered" the formula (13, p. 89, n. 11.5), and
+
+Pbter Pearse is too modest when, in the work T & G cite as their authority,
+
+he says he is bringing my monograph (14.) to a wider audience (20, p. 178),
+
+but of such excesses T & G are free. Their Appendix, at any rate, is a
+
+passable restatement of my 1957 monograph (11.) and I cannot deny it.
+
+      This broad area of agreement being established, we may zero in on
+
+the few substantial differences. I will not squander space on their hasty
+
+craftsmanship: their internal contradictions, unsupported pronouncements,
+selective reading, appeals to authority, discourtesy, captious digressions,
+shifting definitions, misimputation of meaning, suppression of material
+
+information, and quarrelsome temper. These will be self-evident to the
+careful reader, and tedious to the casual one.
+                                    -'i. -
+
+
+
+
+       I will dwell on four issues of substance: present value vs. internal
+
+rate   of return; bias of the incon tax; the bias of the property tax; and
+allocative effects of tax loopholes for land.
+A. Present value vs. internal rate of return
+       T & G take an adamant line against letting taxes lodge on the rate of
+return. They reason as follows: Assume ... a constant interest rate,
+(211., p. 27). Only this and nothing nre. It is hardly enough, even in a
+
+matter of faith and imrals. The T & G criticism follows trivially from
+assuming that taxes are shifted off capital while I assund not. Their case
+
+against ir is not that I reasoned wrong, but that I entertained an heretical
+assumption.
+       It is not news that assumptions affect conclusions. I show later that
+niy assumptions fit the circumstances I had in mind; and theirs change the
+results less than they allege. But as to their attack, it is only an explora-
+tion of the differences that stem from switching an assumption. They puff
+it up into sonthing more general, but never discuss the basis of their
+
+difference, the choice of assumptions. They do not conmnt on nnj discussion
+of this choice, which is explicit (8, pp. 312-111., and other citations above).
+So the critical aspects of their paper are only a courtroom device and at
+
+once deflated.
+
+       Let n paraphrase what I said about the choice of assumptions and tax
+
+incidence. I distinguish an open and a closed tax jurisdiction. An open one
+is too small to affect world interest rates, so I is hard fixed, exogenous,
+given, and absorbs no taxes. The capital supply is infinitely elastic.
+                                       -5-
+
+Prices and wages are also given, for consistency. Land is the equity
+interest  in the jurisdiction, so all taxes are shifted into lower land
+rents. In this jurisdiction I find all taxes except on land value to be
+unneutral, as they drive marginal land from use, and abort all marginal
+activities, including timely renewal of sites (9, pp. 312-114; 8, pp. 195-
+97,   282).
+       As an interesting corollary, since land pays all taxes anyway, it
+
+would be possible to replace all taxes in an open economy by one on land
+values     (3, pp. 187-92). (I wonder if T & G are aware they are so close to
+that position?)
+       A closed tax jurisdiction on the other hand is a large one where the
+
+supply of capital is not very elastic, so some taxes lodge on capital and
+
+lower the post -tax rate of return. Most of my analysis, and the only part
+
+that T & G read, dealt with this assumption.
+       I   do not take a hard line that only the closed case is relevant. On
+the contrary I lean more toward the open case: I just do not fail prostrate
+with T & G. Circumstances alter cases. The circumstances dictating my
+emphasis on the closed economy were several.
+       First, I was discussing Federal taxation. I know we have a balance
+of payments problem and a world capital market, and I would welcome a modi-
+fied model which allowed for high elasticity of capital supply. But at the
+
+national level the United States is so large in the world there is less
+than infinite elasticity and we should make some concession to that in
+building models.
+                                    -6-
+
+
+      Second, I was criticizing the income tax and gave it the most favorable
+assumption, to anticipate a defense. It is child's play to show a.ll taxes
+
+but a land value tax are biased in an open jurisdiction, because they drive
+marginal land out of use and block out aU marginal investments.    The ad-
+
+vocate of income taxes replies that capital supply is inelastic: investors
+harg in there at a lower rate of return. My article shows that if that defense
+be so, then the income tax has a time bias, so either way it's a loser. If
+it can't drive investors away, it drives them into longer maturities. My
+target was income-tax idolatry; I was influenced by a wish to communicate with
+the large group whose support of the income tax rests on their assuming in-
+elastic capital supply.
+      I go on to show that assuming national capital supply inelastic makes
+us conclude that a neutral national tax on property income would count un-
+realized accruals as current income. T & G flatter me to suggest this is my
+own crank. I merely rediscovered the wheel. Haig (12, pp. 7ff.), Simons
+(23, pp. 61-62, 206), Ichman (21), Musgrave (18, pp. 1i.l, 60), Vickrey (26),
+the Canadian Carter Commission (22, p. 39), Brazer, Sneed, Blum, Steger,
+Surrey, White   (25) and the Ford Foundation (2) all have priority. I am out
+alone in noting that the property tax, considered as a national institution,
+
+is tantamount to a tax on Haig—Simons property income. AnalrticaUy the
+
+conclusion is obvious, but is not likely to draw much support from income
+tax reformers committed to "Revenue Sharing" to lower the property tax (an
+inconsistency I wish they would explain or, better, abandon). I also
+
+suggest that a local property tax, while not ideal, is better than a local
+income tax. T & G evidently mistook my conditional for an absolute, and
+                                      -7-
+
+my   meliorative for a superlative. The differences are important, but
+may assume too much of the unsubtie reader. Certainly they require a
+
+careful reader. Here at any rate is what I said:
+         "Let us summarize. Our accrued income tax, and. the property tax
+that it resembles, are neutral interteniporally if capital absorbs the
+full tax without shifting.    If capital emigrates to escape the tax, the
+
+emigration is itself a tax-induced misallocation, and the tax is not
+neutral. Only a tax on land, which cannot emigrate, can be fully neutral.
+But if society does tax interest income, our accrued-income tax base pre-
+serves intertenrporal neutrality among investments at that higher rate of
+
+time-discount appropriate to the tax-induced scarcity of capital.     Thus
+
+the accrued-income basis is distinctly superior to the realized-income
+
+basis of taxation, containing an important element of neutrality which the
+latter lacks, and the possibility of complete neutrality under the special
+and. unrealistic assumption of nonemigration and nonshifting, or under the
+realistic assumption that the property tax base be modified to exempt
+improvements.
+       Historical opposition to and. criticism of the property tax has re-
+sulted from the tax's making very visible the destructive effects of
+
+taxing the income of a mobile, migratory input like   capital.   That has
+
+been especially true in forestry. But shifting to the realized-income
+
+basis makes the tax no less destructive, only less conspicuously so. The
+
+income   tax drives capital into longer maturities. It also sloughs the tax
+burdens of property onto labor, 'which lacks equally effective means to
+avoid taxes." (   9 , pp. 313-114).
+                                    -8-
+
+      Third, I was writing about general incon taxes and not taxes on timber
+considered alone. My subject was not timber taxation as such, but taxation
+of property incoite. Timber exemplified appreciating capital. There was
+also full salvage capital and depreciating capital and. land. Yet T & G
+never got it. Their talk of forward shifting has a micro-economic flavor
+(2ll, p. 38) and they even have a case where equilibrium obliterates the
+"forests." In context of nw work wh.tch they are ostensibly discussing that
+should read "obli1erates the United. States." T & G remain staunchly obtuse
+not to see that the supply of capital in general is less elastic than the
+supply for one industry in one jurisdiction; and again not to see that forward
+
+shifting   is a partial concept that is a retreat from the issues of incidence
+of general taxes.
+      To add to the confusion, T & G let the light in in one sentence -   only
+to shut it right out. "Property taxes on all assets, by contrast, lower the
+                    i
+interest rate -- fails as p (the tax rate) rises -- so that the bias leaves
+the forest and lodges in the capital market" (21i.,
+                                                  p. li-O). They return forth-
+
+with to belabor me with renewed vigor for pursuing that thought. I do not
+
+understand their self-contradiction. They might.
+
+       Fourth, to let the tax lodge in the rate of return is to let one abbre-
+viate the analysis by omitting land. As T & G point out, if i won't give,
+then one must ask what else can absorb the tax and the answer requires using
+
+the more complete Faustmann franwork, which is essentially a way of adding
+a third factor of production, land, to the inputs with claims on the product.
+Simplification has its dangers, of course. It has seduced most analysts of
+
+capital theory and incon taxation into omitting land from their studies, to
+
+their great loss. I am pleasantly surprised that others are reversing the usual
+                                      -9-
+
+
+roles and insisting that I give more attention to land. But I show below
+
+that one may add. land to the analysis, using Faustmann' s framework, let the
+
+tax lodge in the rate of return -- and not change my original basic finding
+of bias to long life.
+        Fifth, to assume that the tax lodges in rate of return is actually a
+compromise assuflTption in which some tax is borne by land rent. That is, if
+site value be assurEd constant, and taxes lodge in rates of return, then it
+must be that land rent (a) is being taxed. Otherwise land values would rise
+(ii., pp. 53-55).
+
+        T & G say several times that I am violating the rule that investors
+
+seek to maximize present value. They are wrong. To pursue, as I did, the
+
+assumption that yield and income and property taxes may    lodge in the rate of
+return is not to assert that individual managers should or do maximize in-
+ternal rates of return. Those are separate questions.
+        In terms of manag' maximizing present values, my points would be
+
+rephrased along these lines. 1hen taxes lodge in the rate of return, r <1,
+
+where I is pretax and r is post-tax rate of return. Investors now maximize
+
+the present values of their post-tax income using the lower rate r. At this
+
+lower rate, longer cycles rise in present value relative to shorter ones, so
+the preference for different investments is reordered in favor of longer ones.
+
+        As before, assume a pretax equilibrium with R =   e, and FIR = 1,
+where FIR present value of R. Apply a yield tax, and assume a trial r is
+struck by the market, r <i. Now
+
+        FiR =   e'(l t)ein = (1 t)e)in
+                    -             -
+                                                                       (i)
+
+FIR is an increasing function of in, so long as r < 1.
+                                   -10-
+
+      Now nre reshuffling is needed, with resources pouring out of short
+investments into long ones, until $1. invested in any maturity has a F = $1;
+and so on, just as before. This is all implicit in the original approach.
+If it helps some readers to have it spelled out this way, good.
+      I do not take a hard line on the issue of whether managers should maxi-
+mize present values or internal rates. I have shown elsewhere that the two
+methods yield identical results in perfect markets, provided the analyst does
+the job right (ii., pp. 52-58). "Doing the job right" means using Faustmannts
+formula or an equi.valent means of including all inputs in the calculation.
+
+      Faustmann's formula is historically associated with the approach of
+
+maximizing present value, but that Is incidental. Connotation must not be
+
+taken for denotation. The essential point is to enter a term for land which
+
+is an input in year zero and is fully salvaged at maturity. Then we can
+
+maximize the internal rate of return honestly.
+                         .2/ and solving for i, Faustinann s formula becomes:
+      Using T & G s notation—
+
+               =
+                    v+w
+                     m
+           e
+                    p+w                                             (2)
+               or
+
+           = 1M Vpw
+                  +W   m
+
+
+
+where Vm is harvest value
+     W is site value
+      P is planting cost
+      m is maturity.
+      The reason calculations of internal rate of return have a bad name is
+that imst of the calculators omit or understate W (site value), thus over-
+
+      2/ As a courtesy to readers on whom T & G have already imposed an extra
+burden of shifting from my original notation to theirs.
+                                    -II-
+stating the internal rate (and with it the contribution of management, the
+wisdom of projects being promoted, etc.). We need      be wise as serpents
+
+in beiaring that everyday fraud, and a good practical way is to insist on
+
+maximizing present site value. But that is no reason to make a quarrelsome
+
+medieval school of the matter. Mathematically the principles are equivalent.
+
+Which to use is a matter of judgment and circumstances, which I have discussed
+
+elsewhere (14, pp. 51-58).
+
+      T & G thought I must be analyzing a single cycle case. It is an under-
+
+standable impression, but wrong.   Note that when we define i in the Faustrnann
+
+we are assuming an "infinite recycle" by entering a salvage value for land. (w)
+
+in the numerator of (2). The salvage value of land is always based on "infinite
+recycling," more familiarly known as capitalization. I let W = 0 in (2), which
+
+then devolves to the simpler internal rate definition most people use. This
+simplified the prose and. deferred land to a sequel, as I carefully noted.
+But it did not imply a "single cycle case •"   To let a constant equal zero is
+
+not to deny   it. My case dealt with infinite recycles, but on marginal land.
+      My basic finding of bias does not depend on this simplifying assumption.
+Since T & G raise the point, let us enrich the analysis by pursuing it.
+
+Using their notation, let W > 0.   Now Vm has to cover interest on w (but not
+
+recovery of W, which is separate) plus recovery of P with interest, so
+
+
+      V(P+W)e'-W                                                      (3)
+
+
+Note that this is simply Faustmann recycled, that is (2) again, solved for V.
+
+      For the yield tax:
+
+              (i-t) + w
+      ern= Vin                                                        (14)
+                                   -12-
+
+Substituting (3),
+
+      erm =eim (i-t)+t
+                     W
+                                                                       (5)
+
+
+      (5) gives an excellent overview of factors affecting the bias of
+general excise taxes. Several points stand out.
+
+      First, this is like my original (3)   [cited by T & G (21., p. 31k) and
+renumbered (7)) but using their notation and with the addition of a parameter
+
+(t y)) to the right side.
+      Second, the addition of t     moderates but does not eliminate the bias
+in favor of longer life. The reasoning is the same as with my original equation
+
+(li), (9, p. 310). When P = 0 it is like the income tax case exactly.
+       Third, (5) devolves to the original case when W = 0, that is for marginal
+land. Here, bias is a maximum. As W rises relative to P,the parameter grows
+in its tempering influence to a maximum when P = 0, and/or W is very high. The
+
+decline in r is least, and the sensitivity of r to in is least, when P = 0.
+      (5) tells us the yield tax is biased in favor of a high ratio of W.
+                                                                             P
+That means it is harder on poorer land, and harder on intensive culture on
+all land. It favors understocking, substituting land for labor.
+      This is interesting new information, a new dimension to the picture.
+The tax deters not only frequent inputs of planting labor but also heavy
+inputs. But it does not change the original finding of a bias in favor of
+long life.
+      Next let us analyze the income tax. Herer
+       rm    Vin (i-t) + w + tP
+      e                                                                (6)
+
+Substituting (3),
+                                      -13-
+
+      e   = (P-i) (tin    + t(P-4w)      e' (1 - t) t
+                                                   +                (7)
+
+
+      (7) is the same as my original income tax equation (li) because P and W
+drop out. (7) tells us a general income tax, to the extent it lodges in
+
+r < i, is biased in favor of longer cycles, but this bias is independent of
+that is of land quality and intensity of use. (We will see that this conclusion
+changes when the tax lodges in site value (W): then the bias is for ).
+
+
+      No matter how you analyze tax incidence, someone will nip at you for not
+
+doing it his way, and the analyst must be prepared to entertain various
+assumptions and explain why he chose those he did. The above tools are
+versatile and. should be adaptable to many circumstances.
+
+B. Bias of the Income Tax when i is Fixed
+      T & G seem to accept my mathematics. They agree, in their own endearing
+way, that the internal rate of return after yield taxes is an increasing
+function of life. They do not pick a nit from my finding that the internal
+rate of return after income taxes is an increasing function of life, and in
+the context this would. seem to imply unreserved endorsement. Under their
+preferred assumption of a fixed i, they agree that a yield tax is biased in
+favor of long cycles, as it also is under my original assumptions. They also
+agree that a tax on land income (their 'TD") is neutral, as I found. That
+narrows the issues. In their Table 1, p. 32, we have dismissed their "single
+cycle" cases as imaginary. There remains in all of Table 1 only one point
+of difference, therefore. Their II, C, which ty should call the income
+tax (as I discussed),has no effect on life. This is I believe their prime
+                                      -lIi -
+
+
+
+
+contribution.     I cannot dispute it, being on record to the same effect (io).
+
+Their formula in Table 1 is mathematically sound, as far as it goes, which
+
+is not far enough.
+
+      First, they might have derived it for us. Let îr = site value after
+
+income tax when I is fixed.
+
+          V(l-t) -   im + p = (l-t) Pe + tP + W(e i)(i-t)
+                                               -                  -
+                  im
+                  e -l                             e -l
+        = w(i -   t) -tP                                               (8)
+
+  is not an explicit function of rn, seeming to indicate lack of time bias.
+I will show this is only specious.
+
+      (8) seems to suggest that the time-bias of a general income tax disappears
+
+in an open jurisdiction, and hangs completely on assuming the tax lodges in
+
+the interest rate. I believe this ou1d be an overstatement. Time-bias is
+reduced when r 1, being replaced by a direct bias against P. But the bias
+
+against P is also a bias against shorter cycles, as I show next.
+      The bias against P stands out by looking at the percentage reduction,
+                                I
+(p.r.) of site value caused by the tax.
+            W-n W+P
+     p.r. = ____ = t
+
+      p.r. is greater than the tax rate (for P > 0), and rises with F, which
+                                                                      w
+raises our suspicions at once. On marginal land. p.r. is infinite -- this
+
+land is sterilized. All land is sterilized for which ii <0.     From (8)     that
+is all land where:
+
+
+     t(w+P)>w
+           or
+
+
+     t>                                                                (10)
+                                       -15-
+Clearly this is not a neutral tax in general. If it cannot drive capital
+into longer maturities it drives it away altogether.
+        Of course landowners may now reconsider the level of P. Some may
+
+just survive, and all optimize by lowering P, that is by using their land
+less intensively. This is another way of perceiving that the intensive
+
+margin of land use is sterilized, just like the extensive. In general,
+
+(9) shows that the hierarchy of land uses will be reordered, with less in-
+
+tensive uses replacing more intensive ones. Consider two rival land uses
+
+that are equally matched in bidding for land, but differ        in intensity,
+
+measured by P. Imposing an income tax weights the balance heavily in favor
+
+of the lower P.     More generally, consider a spectrum of rival land use plans
+being considered for any given site. The drop in the present valis of the
+alternative plans is an increasing function of P. Of rival uses that bid
+equally for a site before taxes, the income tax tilts the advantage to those
+using less P.
+       T & G "finesse these complexities" (211., p. 28, n. 1) by assuming P
+                                        like
+constant.     That is their privilege,/truniping a partner's ace, but it does
+lose the game. Evidently they made this move thinking otherwise, for they
+say taxes leave P unchanged if taxes lodge in rents (ibid.). But (8), (9)
+
+and (10) indicate a sharp bias against P on every quality of land. (8) is
+
+a simple extension of their present value formula II, C, in their Table 3.
+
+(211., p.   32), where taxes are assumed to lodge in the present value of land,
+i.e. in rents.
+
+       So the income tax is not neutral under their preferred assumption of
+
+constant i. Its anti-labor bias is expressed directly, as a force against
+                                    -i6 -
+
+heavy labor inputs, instead of indirectly as a force against frequent labor
+inputs. In fact the proper assumption lies between theirs and the other extreme,
+so actual effects are some mixture of the two kinds of anti-labor bias.
+       This leaves the question of whether and how a lower P value (planting
+input) affects time bias.   T & G say it "depends on the type   of tree," (ibid.)
+and. let it go. In fact, the bias against labor destroys the argument for
+
+interteinporal neutrality. Lower P means longer life. I will give several
+
+arguments.
+
+       As an opener, a reliable clue to general findings is always to look at
+marginal and slightly supramarginal land.   Marginal land connotes low dollar
+
+yields, but that is only one of three reasons why land may be of low value.
+The other two are high costs (P) and long life (in). Referring to (8), it
+is   apparent that the income tax drives out lands and/or uses of lands that
+are marginal by virtue of high P sooner than others which are margins.]. by
+virtue of low yields or slow growth. Indeed., the tax   is not biased at all
+against the lazy grower who lets nature do all the work, leaving P = 0.
+      More generally, there are three reasons why lowering P will lengthen the
+growth period. The explanations are long, but fundamental and. worth study.
+       1. Capacity of site. A site has a limited capacity to hold trees and
+let them grow.
+       We are used to thinking of factor proportions in terms of fixed, short
+
+cycles of investment and recovery -- cycles so short we treat input and
+
+output as simultaneous. With this conditioning, we easily follow the line
+
+of thinking that the primary function of more P is to get more final output, V.
+                                     —17-
+
+And this does make sense when rn is to be short anyway. If P is small the
+site is partly empty.    To balance factors cafls for more growing stock,
+
+of which P is the only source. A small tV returns        AP with interest; and
+the site is responsive because underoccupied.
+       But when in is to be long, it requires a large Vm to return tP with
+interest. Take Faustmaim 's formula (2 or 3), hold site value (w) constant.
+      ?JV
+Now         tells us by how much Vm must respond to P in order to justify
+
+
+
+                   elm                                                  (U)
+To get the feel of this, let i = .072, at which rate em doubles every 10
+                                                  rn/b
+years, beginning from unity. That is, e072in=2           .So if in = 60, emn
+  26 = 61i. This means the extra dollar spent on planting must add $61i. to
+stumpage value to pay off; and conversely, a dollar saved in year zero is
+
+as good as $61 of harvest. So naturally when cycles are      to be long the
+premium is on miniiizing P.
+       Now it is thinkable to get a 61i.-fold increase,given sixty years.
+
+The problem is, the site gets crowded if P and in are both high. This is
+
+a matter of diminishing returns. The value of growing stock is given by (3).
+
+A representative value for P in the Pacific Northwest is $100 per acre; the same
+
+for W (19, T. 3-7 and pp. 3-13).     If em = 61, v= $12,700. At a stumpage
+
+price of $100 per F that represents 127 MBF.      100   F   is about all the
+                                                             V
+Douglas -fir that can be crowded on one acre. As a ratio,        equals a topheavy
+127. So growth must halt . *
+
+      *These figures are subject to wide current variation, and even greater forecast
+variation. There is a rule of thumb that Douglas-fir physical growth on Site I(the
+best) has a nan of one 1VF per year. At this rate it would never reach 100 F in
+tin   topay 7.2 on $200. But the owners forecast higher prices and enjoy special
+tax situations, which make the figures possible as given. They are illustrative
+primarily. The facts are from Walter Mead (17). The conjectures are mine.
+                                      -18-
+
+        (3) shows that V is an increasing function of both rn and P. Given
+W, and given a ceiling on V, P and in are substitutes. Adding to one is
+an alternative to the other. Either alone crowds a site, both together
+
+are too much.
+
+        So then an incon tax motivates landowners to       reduce P, it tends to
+lead them to use nxre tine (rn) in place of P to fill up the site before
+harvest. Thus the incon tax lengthens cycles.
+        A good way to perceive these relations is in terms of the stunipage to
+
+regeneration ratio, Va/P. For long cycles to compete with short ones, the
+
+grower must raise that ratio. To avoid overcrowding the site he must hold
+
+down the stunipage value, Vm To do both at once, he holds down P. Thus
+
+low values of P go with long cycles. The grower might also increase V/P
+
+by raising V. But so long as he makes any of the adjustnnt by lowering
+
+P, why, lower values of P go with longer cycles.
+
+        The   simplest way to grasp the present point is to see that at maturity
+the   stunipage to site ratio, VmjkI tends to be about the same regardless of
+life, because of site crowding. Higher P causes earlier crowding and
+earlier harvest.
+        2. Initial outlays speed harvests
+       When in is long, say 60, so     is 61i-,   and   = 127, we have seen that
+
+more P is not very productive if used to raise V. But it is very productive
+if used to shorten in.    That is another option, and an attractive one. Cutting
+
+in by 1/6, or 16.7%, from 60 to 50,   cuts em in half and approximately doubles
+site value    (w).   It is equivalent approximately to doubling V60 from
+$12,700 to $25,500 (using the pararrters of our previous example).
+                                            -19-
+
+      Examine Faustmann's formula, solved for W (12).
+
+          V e -im -P
+                                                                           (12)
+            1-e
+Considering just the numerator, shortening in
+                                            — by
+                                                 10 years is as good as
+doubling V (assuming      e = 2 rn/b ). Actually, shortening ni is even a trifle
+better because it also lowers the denominator, but this is just a
+dollop unless rn is down below 30 or so.
+      More generally,
+      m. -l
+      5P i(PiW)                                                             (13)
+
+(13) may be rewritten
+              -P
+                      —
+                                                                            (111.)
+
+
+   is unity when          =   i. So (i14.) says that reducing in by one year is
+as good. as reducing P by i(P + w). For example, when P + W = $200, one
+year off life is as good as $114. off P.
+      Similarly,
+
+                1         -         1
+                                                                             15
+              i(V + W)
+                                iein(PIW)
+and
+
+
+             (\T+W)                e(P+W)                                   (16)
+
+
+(16) says that one year off life is as good as adding ie(P+W) to V.
+                                          —20-
+
+
+In the example, with in = 60,     P'V =   .07 x $12,800 or $895.
+         Note also that the absolute values of the partials (13) and. (is) are
+
+decreasing functions of P. The more P has been             added,   the less the
+
+drop in life needed to be as good as a drop in P or rise in V. That shows
+
+increasing returns to P when used to shorten life. That is, the more P is
+
+applied, the greater is the benefit of still more P provided it can be used,
+and is used,to speed the recovery of capital already sunk.
+
+         Likewise,   the partials are decreasing functions of W. The better the
+land, the greater the benefit of recovering its unreaped harvests quickly.
+         The above analyzes tradeoffs among P, V, and rn to keep W constant.
+To confirm and round out the findings, let W be the dependent variable.
+W   is very sensitive to in, when P and V are fixed. It gives a sense of
+
+proportion to break down W as follows:
+
+              V
+        w =                                                                (17)
+
+
+         With m = 60 and i = .072 as before
+
+
+        w=-7  V      P
+                                                                           (18)
+
+
+         Cutting   rn to 50 more than doubles W by lowering the first denominator
+
+to 31 (and hardly changing the second denominator).
+
+        More generally,
+
+               -i(P+W)
+         ' = 1-e
+(19)    says that reducing rn by one year adds about $11f to W, using the same
+numbers as before. This is consistent with Equations 13-16. For low values
+of in   the denominator becomes materially less than one, meaning a year off
+rn adds more than $lL to w (but of course shortening in becomes progressively
+
+harder as in shortens).
+                                    —21--
+
+
+       The upshot: when in is long it is feasible arid productive to use more
+P to shorten in, but not to raise V. This implies that high P values go with
+
+short rn values; and therefore that the incon tax, by forcing lower P values,
+lengthens cycles.
+
+      Now let us look at how P is used in the field to shorten in.
+
+       One way is by thick planting, including control of weed trees, cattle
+
+and rodents, and preparing soil for a good catch or take of seeds. The heavy
+
+stocking causes much growth per acre in the early years, followed by early
+crowding. Crowding slows growth. Slow growth on a large base prompts
+
+harvest.
+
+      Harvest is often deferred by thinning. But thinning is a partial
+
+harvest -- completing one short sub-cycle -- and/or an investment in an
+
+early future harvest -- beginning another short sub-cycle.
+
+       Choice of spacing is important. If one plans on long life he need
+not space trees so close, for they will need room as they grow. On the
+
+other hand, Christmas trees and nursery stock are jammed tight together.
+
+David Kiemperer, Forest Economist with Associated Oregon Industries, writes
+
+that it costs rrx,re to start an acre of Christmas trees than an acre of saw
+
+timber -   (lt).
+       The reverse is understocking, the result of thin planting. The income
+
+tax fosters understocking by holding down P. Forestry literature describes
+
+a "trend to normality" of understocked stands (16, Table 12, and p. 28; 1 ,and
+
+bibliography; 28; 27, and. bibliography). Understocked stands lay on little
+
+wood per acre at first because there is little growing stock. But as the
+
+trees grow they expand into ample space. So in middle years when heavy
+                                    -22-
+
+stands exhaust their space, thin ones keep growing. Fast growth on a small
+base defers harvest. More bluntly, you can get away without regenerating
+forest land if you are willing to wait longer for harvest.
+
+       A second general way for P to shorten rn is by very directly giving
+
+growth a head start. A high cost regeneration is to plant seedlings from
+nursery stock, aged. about four years. Another high cost method is to avoid
+
+clear cutting and save the saplings as you take the riper trees. Both
+
+practices obviously get the new generation off to a flying start. Early
+
+harvest, rather than stumpage volume, is the primary gain.
+
+       Medium cost regeneration entails seeding, with accompanying spending
+
+on scarifying the soil to improve the probability of a good take;fencing out
+
+cattle; rodent control; hardwood control; burning brush, followed by fire
+
+control; fertilization; removing weed trees, including slow-maturing ones;
+
+and so on.
+
+       Low cost regeneration comes right down to zero. Many forest acres are
+
+managed, or mismanaged, this way. A major penalty is the slow start.
+
+Natural regeneration, even from seed trees left standing, takes 7 - 15
+years for Douglas-fir in Oregon (19, pp. 3-11). In addition, hardwoods
+
+start faster and invade an open site, causing understocking (ibid., pp. 3-12
+
+15).
+
+       Natural seeding also means the owner has no control of seed quality.
+
+Research in forest genetics has produced faster-maturing strains; but the
+
+landowner must expend some cost to buy and plant them.
+
+       In terms of factor balance and proportions, long cycles are inherently
+
+wasteful.    They begin with raw land and little capital. The land is barren
+                                    —23-
+
+
+during a long initial period of underuse. Then growing stock accumulates,
+
+until in later years there is a topheavy imbalance, with more stock than
+the site can carry.
+       When a manager goes to work on land, he naturally applies stock where
+
+there has been too little -- to the barren early years. Filling that early
+
+void with growing trees naturally also brings them sooner to maturity.
+
+        3. The need to fill the site
+
+       A small volume of growing stock cannot yield a surplus large enongh to
+
+pay land rent. On long cycles, stock grows large with time, and the lost
+
+rent of the slow early years is diluted by averaging with later years. On
+short cycles, the necessary stock must be applied by investing in regeneration.
+Otherwise there can only be a meager harvest.
+
+        Of course even a meager harvest might pay the rent (support a high
+land value) if received frequently and with little cost. The limit however
+is   that to pay rent that way, the short cycles would have to achieve un-
+realistically high rates of annual growth. Growth must pay rent (interest
+on w) as well as interest on stock, and. if the stock is small the growth
+rate must be high.
+       A precise mathematical statement is almost essential to confirm the
+
+reasoning. Let x be the annual growth rate connecting P and V.
+
+             V
+       e =—m
+        xm
+                                                                     (20)
+
+Substituting (3) and solving for x:
+
+
+                                                                     (21)
+                                                -211.-
+
+              (21) defines values of x required to cover all charges: interest,
+ rent, and cost recovery.
+
+          x is a decreasing function of rn. Note that (21) is the same in form
+  as Equation (LI.)) of w 1967 article (9, p. 310). The several expositions
+
+ used there may be adapted here as well, mutatis mutandis. The                           mutation
+ is that t of the original becomes -                    and the change of sign reverses
+
+ the effect of the parameter. Appendix I proves the case. It is better
+ than the previous proof (8, p. 106).
+          When in is large, x -,        i. When rn is small, x can become uncomfortably
+ high,   if    large -- that is if little stock is applied to good land.
+                is
+
+ The way to hold down x when in is small is to apply more P. Table 1 is a
+ nunrical example calculated from (21).
+          Table 1.     Values of x, the growth rate connecting regeneration
+                                 cost ()and harvest             value (v).
+                       exm      m im  WW
+                                —=e (l+) -                           (i= .072)
+               urn           W1                     ( = 1)
+                                                    W                              W
+                                                                                       = 5)
+                            (- = .)                                            (•p
+                         xm                                                    ian
+                        e         x              exrn        x                 e          x
+ 1        1.07          1.08          .08       1.114        .111.        1.142           .142
+ 2        1.15          1.18          .08       1.30        .111.         1.90            .32
+ 3        1.23          1.27          .08       1.146       .13           2.38            .29
+ 5        1.11.1        1.50          .08       1.82        .12           3.91I.          .25
+10        2.0           2.2           .078      3           .11           7               .20
+20        14            14.6          .076      7           .10          19               .15
+30        8             9.11.         .0711.   15           .09          143              .13
+140      16            19             .073 31               .09          91               .11
+50       32            38             .073 63               .o8         167               .10
+60       614           76             .072 127              .08         379               .10
+                                        -25-
+
+          More generally,
+
+
+                             —   -1
+                                                                     (22)
+
+                                 l-e +1]
+      is a decreasing function of both in and P. That means when rn is small,
+x is nre sensitive to P, a point evident in Table 1 as well. By appliing
+nre P to short cycles one reduces x. With long cycles, x is low by virtue
+of high in, and insensitive to P (unless P is nearly zero).
+
+          Summing up, P and. rn cannot be small together without making x become
+unattainably high. Therefore for short cycles one must raise P; and for low
+planting inputs one must lengthen in.     The result is that low P values go with
+
+high in values. The income tax that forces down P therefore and thereby lengthens
+
+in.
+
+               It is easy to get buried in difficult details. What emerges
+from it all is sweeping and simple.       If is already long, P is most pro-
+                                               in
+
+
+ductive when used to shorten in; if in   is already short, P is most productive
+when used to raise V.       So P and in are inversely related: low P means long
+
+cycles.
+
+          Therefore the income tax, by virtue of its bias against P, is also
+
+biased against shorter cycles, even in the circumstance of perfectly elastic
+supply of capital.
+
+C. Bias of the Property Tax
+           taxes lodge fully in r, the rate of return after taxes, and t
+          If
+
+is the property tax rate, then r + t = 1, where i is the no-tax rate of return.
+                                              -26-
+
+
+The base of the property tax is         asset value, the same as the base that
+earns interest.  It follows quite directly from those assumptions that the
+property tax would be neutral. The taxpayer uses (r + t) where before he
+
+used i in making choices.         My original article could be summarized as an
+exploration of that theme.          Curiously, T & G concede the point   (211.,   p. 11.0),
+although   they don't let it interfere with their train of thought.
+          primarily,       they emphasize that the property tax shortens cycles,
+assuming i    is fixed.       Their methods   do not do. First they lean on authorities
+-- Groves, Fagan, and Macy. These were writing at the time from a local
+
+viewpoint, implicitly assuming i to be fixed. But in 1967 Groves came to nw
+
+support    (11). Second, T & G maximize the value of a single-cycle case
+
+(their Equation 9a, p. 1O), abandoning their basic method of maximizing
+
+land value.    Third, they emphasize marginal conditions at end-of-cycle,
+
+ignoring effects on starting-up time. Net result: partiality leading to
+error.
+
+          Let us       define site value net of property taxes on trees, assuming
+i   is fixed. We will see that the afleged bias to short life is weak, but
+there is a strong bias against labor and indirectly therefore against
+short life.
+          Let 0 be site value after a property tax on trees which lodges in
+site value.
+
+
+
+                   -
+                                                                            (23)
+
+
+Substituting (3), and summing,
+
+
+
+
+           ewt(Pw)                                                           (2k)
+                                       -27-
+
+
+The percentage reduction of site value is:
+
+
+                   w-e =t                   m
+          p.r. =
+                    w     (!w + 1)                  -
+                                                        1                (25)
+                                       3.   -e
+
+Several conclusions follow from sensitivity analysis of (25). To save
+
+space, I present these without the steps of proof.
+
+          1. p. r. >t.
+
+          2. p. r. is an increasing function of P, and is very sensitive to P.
+
+The taxpayer abates the full force of the tax by applying less P. This is
+
+true   at all rn, but more so at longer in.      So the property tax discourages full
+
+stocking.    We have already seen that lower P values tend to lengthen cycles.
+
+          3. p.r. is a decreasing function of W. The tax is harder on poorer
+lands,   and sterilizes marginal lands.
+          ii. p.r. is an increasing function of in, but only a weak one.        The
+             in                                   ..        1
+                           upwards from a minimum of - when in = 1 to maxima
+          1 -e im ranges
+fraction
+
+negligibly greater than in for in over about 50 (and limited by limits on rn).
+It is a badly balanced tax literature which has emphasized this weak effect
+and excluded the stronger bias against P. Indeed, the strong anti-labor
+bias may overcome the weak anti-waiting bias and lengthen cycles -- that is
+indeterminate here.
+        To explain this in literary form, the property tax penalizes having
+capital on the land over a whole cycle of growth, not just at the end. Indeed
+it is relatively harder on early capital than late capital, because the former
+is taxed earlier and more often. So its strongest effect is to hold down P,
+which tends to lengthen life. Then, at that lower level of stocking, it is
+mildly biased in favor of short life. The net effect is the resultant of
+
+the two vectors, and the first one is not subject to simple generalization.
+                                       -28
+
+D. Ailocative effects of exempting land income
+           T & G conclude by seeming to agree that land taxes are neutral.
+
+Captious to the end, they turn this into a gibe by dismissing my complaints
+
+about how land income escapes the income tax as improper "equity arguments ."
+It is not clear if they are really obtuse or just posturing, but I patiently
+respond.
+
+           1. Equity is important. Why do we have an income tax at all instead
+
+of a heavy poll tax?      It's something about fair shares, ability to pay, and
+all   that.   The fact that wealthy landowners pay lower effective rates than
+
+lowly wage earners has a lot to say about how fit this tax may be for its
+
+alleged redistributive purpose. The fact thatunearned rents, increments
+             taken from the community
+and enrichments/are taxed lower than services rendered to the community
+
+by human effort offends another equity concept.
+           2. Exempting land income necessitates higher taxes on other income,
+
+increasing allocational bias.
+
+           3. Land income is exempt by virtue of loopholes to use which land-
+
+owners misaflocate land. I discussed several examples in the papers at
+
+issue (8, pp. 30, 1l0, 11.13- l4, 1416-214.) and many more elsewhere (5,   3).
+           T & G here as elsewhere indicate a belief that taxes must be neutral
+
+if they take land rent. It is a good instinct gone wrong.       Rent is a surplus
+that may be tapped without excess burden by skillful policy, but which may
+
+also be and    is being impaired by the clumsy tax methods we actually have (6).
+           In general, taxing wages while exempting land causes land. to be
+
+substituted for labor. Land is used less intensively. The results are
+
+several.      One is to spread out land settlement, increasing the length of
+streets and. all lin.kage lines.   Another is to reduce the aggregate demand for
+labor, disemploying people.
+                                    -29-
+
+       Ii. Land values are made and broken by public policy and works.
+The income received for rendering useful services is called "ordinary"
+and is fully taxed. The income received for expending money and. effort
+to influence governnnt to help develop onets land is called a "capital
+gain" and virtually exempt. "Produce," says the fisc, "and your income
+is half mine. But lobby, bribe, wine and dine, influence, corrupt, beg
+and thine, and the resulting increase of land values is all thine." It
+
+affects how people spend time.
+
+        In fine, I have shown four things.
+
+       A. The choice between maximizing present value or internal rate
+
+of return is one of circumstances and judgment, not theology.
+
+       B.   Maximizing present value instead of internal rate reduces time
+bias of income taxes, but increases anti-labor bias, which turns out to be
+a time bias as well.
+       C. Maximizing present value instead of internal rate prevents the
+
+property tax from being neutral, but its bias is more against labor and
+
+less   against slow cycles than usually believed.
+       D.   Exempting land. income is a serious a.llocative as well as equity
+
+matter.
+
+       The importance of this topic should not be lost in the detail. The
+
+major point is that the tax system in various ways intercedes in market
+
+choices and lowers demand for labor. With unemployment never conquered,
+
+and re-emerging as national problem number one, it    is worth suffering with
+the tedium to confirm the new implications that emerge for tax policy.
+                                  -30-
+
+The maligned property tax scores high, and the land part very high.
+
+Income taxes score so-so, and only that well because fast write-off
+may make the income tax reseithle a land. tax. Excise taxes flunk.
+      These are controversial findings. I hope they provoke more
+discussion to resolve any questions.
+                                           -31-
+
+                                        APPENDIX 1*
+
+
+            Proof that required growth rate, x, is a decreasing function of
+
+
+
+                  =e (l+)W -e
+life, rn.
+
+            e
+             xm V          W
+                           im                                                i
+            xm 2n e                                                          (l,a)
+            To   Prove: dx
+                           din
+
+                  dn0 is
+            g =              •, the growth rate of 0(m)                      (2)
+
+
+
+
+            0=fdftemg                                                        ()
+
+
+            Substituting (l,a)
+
+            x= gdin                                                          (it)
+
+By inspection of (Ii.) and the Theorem of the Mean, x must be failing if
+
+g is monotonicafly failing,          i.e. if      <0.
+
+
+                                               <o       (>0)                 (5)
+
+
+
+
+                                                               Q.E.D.
+
+*With thanks to Matt Gaffney, Jr., John Hoven, and Steve Hanke.
+
+
+Note that this proof may be applied to the income tax case by replacing
+
+  with -t (tax      rate).       It may be substituted for (8) Appendix 1.
+                                         -32-
+
+                                     REFERENCES
+
+  1. P.A. Briegleb and J.W. Girard, "New Methods and Results of Growth
+Measurement in Douglas-fir," Jour. of Forestry 1911.3, Ii.1, 196-201.
+    2. Ford Fdtn, The Law and the Lore of Endoment Funds 1969, New York.
+    3. M. Gaffney, "Adequacy of Land as a Tax Base," The Assessment of
+Land Value (ed. Daniel Holland), Madison, 1970, 157-212.
+    11.M. Gaffney, "Concepts of Financial Maturity of Timber," A.E. Info.
+Series No. 62, Raleigh, 1957, 1960.
+
+   5. M. Gaffney, "Coordinating Tax Incentives and. Public Policy: The
+Theatment of Land Income," Hearings on Econ. Analysis and the Efficiency
+of Government, 1970, U.S. Congress, Joint Econ. Committee, Subcomm. on
+Efficiency in Govt., Part 2, pp. 11.05_15.
+
+    6. M. Gaffney, "Land Rent, Taxation, and Public Policy," Papers of the
+Regional Sci. Assoc. 1970, 23, 111.1-53.
+
+   7. M. Gaffney, letters to Henry Goldstein and Procter Thomson, 1-16-68,
+2-16-68, 5-20-70.
+
+    8.     M. Gaffney, "Tax-induced Slow Turnover of Capital" (unabridged), Am.
+Jour. Econ. & Soc., Jan., April, July, Oct., 1970; Jan. 1971, 29, 25-32,
+179-97, 277-87, 11.09-211.; 30, 105-U.
+
+   9. N. Gaffney, "Tax-induced Slow Turnover of Capital," Western Econ.
+Jour., Sept., 1967, 5, 308-23.
+
+  10.      M. Gaffney, "Tax Policy and Capital Rotation," unpublished Ms., 1970,
+16-11.3,   App. IV, 1-23.
+  U. H. Groves, letter of 7-l8-67,on file.
+
+  12. R.M. Haig, "The Concept of Income," The Federal Income Tax (ed. R.M.
+Haig), New York, 1921.
+
+  13. J. Hirshleifer, Investment, Interest, and Capital. Englewood Cliffs,
+1970.
+
+  lii.     D. KLemperer, letter of L1.-26_71, on file.
+  15. T. Lowry, letter of 12-70, on file.
+
+  16. A.L. MacKinney and L.E. Chai.ken, "Volume, Yield, and Growth of Loblolly
+Pine in the Mid-Atlantic Coastal Region," Appalachian Forest Exp. Sta. Tech.
+Note No. 33, Ashville, April 1939.
+  17. W. Mead, letter of 12-9-70, on file.
+                                    -33-
+   18. R. Musgrave, "In Defense of an InconConcept," Harvard Law Rev.,
+1968, 81, I.t-62.
+
+   19.  Palo Alto Research Associates, "Forest Tax Study," for Wn. State
+Forest Tax Committee, July, 1970.
+
+   20. P. Pearse, "The Optimum Forest Rotation," Forestry Chron., June,
+1967, )43, 178-85.
+
+   21.  J. Pechman, "Comprehnsive Income Taxation: a Comment," Harvard Law
+Rev., 1968, 81, 63-67.
+  22. Royal Commission on Taxation, Report of the Royal Commission on
+Taxation, 1966, 3, Ottawa.
+   23. H. Simons, Personal Income Taxation, Chicago, 1938.
+
+   21i. P. Thomson and H. Goldstein, "Time and Taxes," Western Econ. Jour.,
+March 1971, 2' 27-11.5.
+
+   25. U.S. Congress (86th, 1st), House,Committee on Ways and 1ans, Tax
+Revision Compendium of Papers on Broadening the Tax Base, 1959.
+
+   26. W. Vickrey, Agenda for Progressive Taxation, New York, 19147.
+
+   27. R. W. WeUood, "Trend Towards Normality of Stocking,'t Jour.
+of Forestry, 1911.3, 11., 202-09.
+
+   28. Weyerhaeuser Timber Co., Empirical Yield Tables for Douglas-fir,
+1914.7, Tacoma.
+

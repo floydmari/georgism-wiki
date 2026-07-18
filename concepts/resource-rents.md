@@ -5,6 +5,7 @@ tags: [concepts, resource-rents, natural-resources, severance-tax, resource-curs
 stub: false
 supports_outcomes: [resource-rent-capture-works]
 excerpt: "The economic rent from natural resources — oil, minerals, spectrum, fisheries — which Georgist analysis treats like land rent: socially capturable without efficiency loss."
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -18,6 +19,220 @@ Mechanisms include severance and royalty taxes, auctioned extraction rights, spe
 ## The Resource Curse
 
 Where resource rents are captured privately or by corrupt states, they can weaken governance — the "resource curse." Transparent public capture and distribution (as with the [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)) is the Georgist remedy.
+
+## Severance Tax Design and Incidence — Gaffney
+
+Mason Gaffney's [severance-tax essay](/wiki/gaffney-california-severance-tax/) (2006)
+develops the incidence question in more design-level detail than the summary above:
+a severance tax passes through to consumers only when demand is inelastic, supply is
+elastic, the taxed jurisdiction supplies a large world share, and the tax is structured
+to hit marginal production — conditions California's oil sector meets, at most,
+partially, so the tax falls mostly on landowners' rent rather than on drivers at the
+pump. He further argues the tax's remaining bite on marginal production is largely
+offset because lessees, anticipating a severance tax, negotiate lower royalties with
+landowners on new leases — a variable-cost substitution rather than a net new burden.
+His design recommendation is a **net-proceeds** (post-extraction-cost) tax base, used
+in Nevada, Idaho, Utah, and South Dakota, over a flat gross-wellhead-value levy, on the
+ground that it targets pure rent more precisely and allows a higher rate without
+discouraging genuinely marginal production. (D-claim: incidence reasoning and design
+argument in an advocacy essay/legislative testimony, not a peer-reviewed estimate.)
+
+## Leasing-Based Rent Capture — Gaffney's Alaska Ad Valorem Charge
+
+Nine years before the California history above, Gaffney designed a leasing-side
+(rather than tax-side) rent-capture instrument for Alaska. His
+[1977 report to Governor Hammond and the Alaska Legislature](/wiki/gaffney-alaska-oil-leasing/)
+proposes an **"ad valorem charge" (AVC)**: a percentage levy on the *appraised value
+of reserves already proven in the ground*, structurally resembling a property tax on
+mineral reserves rather than a bid on unproven prospects. Its key design feature is
+timing — the AVC is assessed *ex post* discovery (once reserves are actually proven),
+unlike bonus bids and most royalty schemes, which are set *ex ante* on guesswork
+about what a tract might contain. Gaffney frames the case for it against a
+cautionary anecdote: a 1965 noncompetitive lease auction in which Alaska sold what he
+estimates at roughly $10 billion of oil at Prudhoe Bay for $6 million, the kind of
+underpricing an ex post, reserves-based charge is designed to avoid. (D-claim:
+design argument and administrative-practicality reasoning in a commissioned
+government report, not an econometric estimate — though the report's companion
+Part II appendices do supply an independent econometric estimate for the
+*rejected* alternative: contributor Richard Norgaard's regression of Alaska's own
+Cook Inlet lease sales found bonus bidding captured only 9–16% of realized rent
+there, a B-claim corroborating Gaffney's ranking of bonus bidding below the AVC
+without directly testing the AVC itself — see
+[Part II](/wiki/gaffney-alaska-oil-leasing/#part-ii-the-appendices-a-l).)
+
+## Rent Capture in Forestry — Gaffney on Site-Value vs. Yield Taxation
+
+Standing timber is a renewable, but time-dependent, resource whose rent-capture
+design questions parallel oil and gas: which tax base best targets the site's
+rent without distorting the extraction (harvest) decision? Gaffney's [1957
+Faustmann monograph](/wiki/gaffney-financial-maturity-timber/) establishes the
+underlying neutrality result: **a constant annual tax on site value alone
+leaves the economically optimal harvest rotation completely unchanged**, because
+the tax's effect on the incremental cost of waiting is exactly offset by an
+equal effect on site rent — the timber-economics analogue of the land-value-tax
+neutrality argument ([ATCOR](/wiki/atcor/)) applied to a *timing* decision
+rather than a static one. By contrast, a **property tax on standing timber
+itself** hastens harvest (owners minimize the tax base by holding less
+capital), and a **severance/yield tax** (levied only at harvest) lengthens
+rotations and, on Gaffney's calculation, requires a rate around **38% of
+stumpage value** to replace the revenue lost from a 1-percentage-point cut in
+a standing-timber property tax — a rate high enough to create "a strong
+intertemporal bias against short investment cycles," penalizing intensive
+management on the best sites most severely.[9] Applying the same site-rent
+logic to *public* forestland, Gaffney argued the US Forest Service's roughly
+$42 billion in National Forest holdings (Marion Clawson's estimate) were
+earning essentially no return relative to that imputed capital cost — proposing
+Congress require the Service to account for its holdings' opportunity cost the
+way private landowners already must under property taxation.[9] (D-claims:
+design/incidence arguments in a technical monograph and applied policy essays,
+not econometric estimates — see the [full page](/wiki/gaffney-forest-taxation/)
+for the honest scope caveats.)
+
+## Absentee Ownership and Weak Instruments — Gaffney on 1970s Montana
+
+Nine years before his California severance-tax analysis and the same year as his
+Alaska leasing report, Gaffney applied the same rent-capture logic to a state
+whose resource ownership was overwhelmingly external. His [1977 conference
+address on Montana](/wiki/gaffney-montana-land-policy/) frames the state as an
+internal "resource colony": absentee-held minerals and rail/finance corporations
+(a 1973 Senate committee print showed seven New York banks holding nearly 22% of
+Burlington Northern), a copper property-tax loophole capping assessment at the
+$1.25-per-acre price paid by the original 19th-century patentee, and a
+concentrated federal coal-leasing regime — ten energy firms held half of the
+roughly 773,000 acres under federal coal lease in Montana as of 1970. Gaffney's
+policy prescription was the same instrument as his other resource work, applied
+to a *land-value* rather than a severance base: exempt capital from the property
+tax, raise the rate on land, professionalize assessment, and specifically close
+loopholes that shelter absentee-held resource land — a design he argues attracts
+productive capital while discouraging absentee holding, illustrated with New
+Westminster, British Columbia's decades of land-favoring property taxation and
+California's Wright Act irrigation districts, both credited with shifting land
+from absentee to resident, intensive ownership. He separately criticizes
+Montana's newly adopted 30% coal yield tax as one of "the least efficient tax
+instruments known to man," because an extraction-only base lets absentee lessees
+control the timing of state revenue — the same design flaw his later, more
+formal [California severance-tax work](/wiki/gaffney-california-severance-tax/)
+argues against by taxing the resource's value in place rather than only its
+extraction. (D-claims: design and incidence arguments and historical
+illustrations in a conference address, not econometric estimates — see the
+[full page](/wiki/gaffney-montana-land-policy/) for the honest scope caveats.)
+
+## Optimal Instrument Design — Gaffney's 1967 Property-Tax-vs-Income-Tax Comparison
+
+Five years before his urban-rent essays, Gaffney's earliest systematic academic
+treatment of resource-rent taxation — his introduction and closing synthesis for
+[*Extractive Resources and Taxation*](/wiki/gaffney-extractive-resources-taxation/)
+(1967), the TRED symposium volume he edited — works through a point-by-point
+comparison of the three practical instruments for taxing exhaustible-resource
+rent: an income tax with expensing, a modified property tax on in-situ reserve
+value, and outright government ownership. He argues the income tax fails on six
+practical grounds (it cannot discriminate by tenure condition, penalizes new
+undiversified firms, blurs the rent/managerial-competence distinction at high
+rates, misses unincorporated owners, invites disguising land payments as
+productive outlays, and requires reconstructing decades of capital-outlay
+records at transition), while a property tax on in-situ value — applied even
+*before* discovery, to "leasability" value — automatically discriminates by
+tenure and forces rather than merely permits exploration, because "the tenure
+instrument itself is the tax base." He judges government ownership worst on
+efficiency grounds despite endorsing it as workable in principle, citing
+Alberta and OPEC as owner-governments whose ownership produced cartel behavior
+rather than efficient extraction. (D-claim: theoretical/design argument in an
+edited-volume closing essay, not an econometric estimate — see the [full
+page](/wiki/gaffney-extractive-resources-taxation/) for the complete argument
+and honest scope caveats.)
+
+The same essay supplies a **nine-reason taxonomy of why institutions
+overmotivate exploration** — open access to undiscovered minerals, preclusive
+acquisition for market power, duplication forced by vertical integration,
+cartel price umbrellas, prorationing's inflexibility, the leverage of private
+over public investment (including military protection of overseas
+concessions), the publicity value of discovery to credit markets, management
+self-aggrandizement, and direct tax favors — a mechanism-level account of the
+exploration-timing distortions complementing the leasing-stage failures
+documented on [benefits/resource-rent-capture-works](/wiki/resource-rent-capture-works/).
+That single parenthetical — military protection of overseas concessions — is
+itself the subject of a much later, full-length Gaffney treatment: [Gaffney &
+Cobb (2018), Corporate Power and Expansive U.S. Military
+Policy](/wiki/gaffney-corporate-power-military/) argues that a large share of
+U.S. military spending functions as a subsidy defending private corporate
+resource tenure abroad, with the "capitalized value of the flag" as the asset
+being protected — extending this page's rent-leakage catalogue from tax and
+leasing design into geopolitics. A much shorter 1988 Gaffney conference
+summary, [Rent-Seeking and Global Conflict](/wiki/gaffney-rent-seeking-global-conflict/),
+states the compressed precursor of the same argument three decades earlier:
+national governments originate to seize and police land/resource rent, so war
+and foreign "rent-seeking" are the same phenomenon at a different scale.
+
+## Two Institutional Channels for Rent Leakage — Gaffney on Canadian Leasing and US Oil Tax Law
+
+Gaffney's [essay on Crown-land mineral leasing](/wiki/gaffney-mineral-leasing-tax-reform/)
+(mid-1970s, written for a Canadian provincial audience) catalogues eight named
+leasing-design errors that dissipate rent before it reaches the public
+landlord — overdecentralization, overdelegation to a single giant lessee,
+overallowance for alleged risk, overadmission of prospectors under open
+access, underpricing to domestic consumers, confusion of rent and profit,
+overlooking taxation of nonmining activity, and overconsolidation of
+accounts — formalizing the rent/profit distinction algebraically:
+`Rent = Cash Flow − Capital Recovery = Profit − Interest`, so that on a
+marginal deposit rent is zero even where profit (the return to capital)
+remains substantial. His companion 1982 essay, ["Oil and Gas: The Unfinished
+Tax Reform"](/wiki/gaffney-mineral-leasing-tax-reform/), shows the same
+leakage occurring through a different channel — the **US federal income tax
+code** — even where government does not itself own the resource: beyond the
+well-known percentage-depletion and intangible-drilling-cost preferences, he
+documents three "invisible" loopholes the reform literature had missed,
+led by **leasehold abandonment**, where roughly 80% of the de facto cost of
+lease acquisition (the four-fifths of exploratory leases that prove dry) is
+expensed as an ordinary loss rather than capitalized as part of the
+producing lease's true acquisition cost — "the weightiest question in oil
+tax law, in dollar values." (D-claims: design and tax-policy arguments in
+advocacy essays, not econometric estimates — see the [full
+page](/wiki/gaffney-mineral-leasing-tax-reform/) for the complete taxonomy
+and honest scope caveats.)
+
+## Water as a Resource Rent — Gaffney's Kaweah Case Study and Taxable-Surplus Proposal
+
+Water is named in this page's opening definition as a resource-rent domain
+but was previously undeveloped here; two Gaffney essays, read as a pair,
+extend the wiki's rent-capture argument to water specifically. His **1961**
+case study of California's Kaweah River system, ["Diseconomies Inherent in
+Western Water Laws"](/wiki/gaffney-water-rent-taxation/), shows the marginal
+productivity of water varying by a factor of ten or more between adjacent,
+physically connected users on the same river system — a direct sign of
+misallocation — because none of the three doctrines governing western water
+rights (riparian, appropriative "first in time," correlative) assigns water
+by productivity: appropriative rights specifically reward premature,
+inflated diversion claims, since "a cost to society — withdrawing water —
+is made a revenue to the appropriator." He further documents a self-
+reinforcing cycle distinct from anything else in the wiki's Gaffney
+corpus — the **"price umbrella"**: because private land development lags
+decades behind the public water projects meant to serve it, inflated land
+prices persist long enough to entice more competing project starts than
+markets can absorb, compounded by defensive **racing for water rights** and
+project-siting **logrolling** — which he ties to water's specific role in
+the 1893 and 1929 US land collapses.
+
+His **1992** synthesis, ["The Taxable Surplus in Water
+Resources"](/wiki/gaffney-water-rent-taxation/), proposes taxing water
+withdrawals — severance, net-proceeds, property, transfer, and gains
+taxes — the same public-landlord logic as the wiki's oil, gas, and mineral
+rent-capture material, structured as a rebuttal of six fallacies: that
+water rights are real property (they are a revocable public-trust license);
+that a water charge would be shifted to consumers (water bears rent, so a
+tax on the rent component is non-shiftable); that water is worth only its
+development cost (he compares $20/acre-foot delivery cost against roughly
+$2,000/acre-foot true opportunity cost at the system's margin); that firm
+property rights alone let markets allocate water efficiently (water
+distribution is a natural monopoly, and permit holders — carrying no debt
+and no property tax — are chronically undermotivated to sell); that only
+net consumptive use is a social cost (he adds an entropy/elevation-loss
+argument specific to water); and that common rights necessarily produce
+tragedy (a state revenue-collection duty, not open access, is one way of
+asserting a common right). (D-claims: advocacy/policy essays, not
+econometric studies — see the [full
+page](/wiki/gaffney-water-rent-taxation/) for the complete argument and
+honest scope caveats, including a note on this page's OCR-quality
+limitation for the 1961 essay.)
 
 ## Book Findings
 
@@ -37,7 +252,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 
 - [OPEC](/wiki/opec/) — the largest real-world example of collective natural-resource rent capture, via production quotas rather than public taxation
 - [Natural Asset Companies](/wiki/natural-asset-companies/) — NYSE/Intrinsic Exchange Group proposal to securitize ecosystem-service rents as tradable equity, withdrawn from SEC consideration in 2024
-- [DST incidence](/wiki/digital-services-tax-incidence/) — Cui–Hashimzade's framing of digital platform revenue as location-specific rent, royalty-style
+- [DST incidence](/wiki/digital-services-tax-incidence/) — Cui–Hashimzade's framing of digital platform revenue as location-specific rent, royalty-style · [DSTs as actually implemented](/wiki/digital-services-taxes/) — the revenue collected and the stalled OECD Pillar One bargain
 
 - [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/)
 
@@ -47,6 +262,17 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Economic Rent](/wiki/economic-rent/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/) · [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's rent capture framework for common assets
 - [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — ecological limits to rent extraction
+- [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — severance-tax incidence and net-proceeds design
+- [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — the leasing-side ad valorem charge design
+- [Gaffney: Alternative Ways of Taxing Forests / Greater Social Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — forest site-value vs. yield taxation and public-lands rent capture
+- [Gaffney (1957): Concepts of Financial Maturity of Timber and Other Assets](/wiki/gaffney-financial-maturity-timber/) — the underlying site-value-tax neutrality result
+- [Gaffney (1965): Soil Depletion and Land Rent](/wiki/gaffney-soil-depletion-land-rent/) — exhaustible-resource rent theory and the ad valorem/severance design principle
+- [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — absentee ownership, concentrated federal coal leasing, and a land-value-tax counter-colonial prescription
+- [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — the property-tax-vs-income-tax instrument comparison and the nine-reason overmotivated-exploration taxonomy
+- [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Canadian Crown-land leasing errors and US federal oil-tax loopholes as two distinct rent-leakage channels
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the Kaweah River misallocation case study and the six-fallacy case for taxing water withdrawals
+- [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — a 23-point taxonomy of devices that understate land value ("falsified land values"), plus a US-state property-tax-reliance comparison
+- [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
 
@@ -54,3 +280,12 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 2. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust rent capture framework applied to atmosphere, spectrum, and water (C-claim). [Book page](/wiki/capitalism-3-0/)
 3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the extracted-vs-recycled rent taxonomy (C-claim). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 4. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the ecological limits framework applied to resource rent extraction (C/D-claims). [Book page](/wiki/ecological-economics-daly/)
+5. Mason Gaffney (2006), "A Severance Tax on California Oil?," masongaffney.org — used for the four-condition incidence analysis, the royalty-offset mechanism, and the net-proceeds tax-base design (D-claim, advocacy essay). [wiki summary](/wiki/gaffney-california-severance-tax/) · [PDF](https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf)
+6. Mason Gaffney (1977), "Oil and Gas Leasing Policy: Alternatives for Alaska in 1977" — used for the ad valorem charge (AVC) design and the 1965 Prudhoe Bay lease-sale anecdote (D-claim, commissioned government report). [wiki summary](/wiki/gaffney-alaska-oil-leasing/) · [PDF](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf)
+7. Mason Gaffney (1957), "Concepts of Financial Maturity of Timber and Other Assets," A.E. Information Series No. 62, NC State College — used for the site-value-tax rotation-neutrality result (D-claim, technical monograph). [wiki summary](/wiki/gaffney-financial-maturity-timber/) · [PDF](https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf)
+8. Mason Gaffney (1965), "Soil Depletion and Land Rent," *Natural Resources Journal* 4(3) — used for the exhaustible-resource rent theory and the ad-valorem-to-severance-as-exhaustion-nears design principle (C-claim, peer-reviewed law journal). [wiki summary](/wiki/gaffney-soil-depletion-land-rent/) · [PDF](https://masongaffney.org/publications/B5Soil_Depletion_%26_Land_Rent.CV.pdf)
+9. Mason Gaffney (1980/1977), "Alternative Ways of Taxing Forests" and "Greater Social Benefits From our National Forests" — used for the private forest tax-base comparison (property/site-value/yield/income) and the National Forests public-lands rent-capture argument (D-claims, advocacy essay/address). [wiki summary](/wiki/gaffney-forest-taxation/) · [PDF (A3)](https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf) · [PDF (A5)](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)
+10. Mason Gaffney (1977), "Counter-colonial Land Policy for Montana," *Western Wildlands: A Natural Resource Journal* — used for the absentee-ownership diagnosis, the coal-lease concentration figure, the copper property-tax loophole, and the land-value-tax counter-colonial design (D-claims, conference address). [wiki summary](/wiki/gaffney-montana-land-policy/) · [PDF](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf)
+11. Mason Gaffney, ed. (1967), *Extractive Resources and Taxation* (University of Wisconsin Press) — used for the property-tax-vs-income-tax instrument comparison and the nine-reason overmotivated-exploration taxonomy (D-claim, edited-volume closing essay). [wiki summary](/wiki/gaffney-extractive-resources-taxation/) · [PDF (Conclusion)](https://masongaffney.org/publications/B1Extractive_Resources_Conclusion.CV.pdf)
+12. Mason Gaffney, "Objectives of Government Policy in Leasing Mineral Lands" (c. 1975) and "Oil and Gas: The Unfinished Tax Reform" (1982) — used for the eight Crown-land leasing errors, the rent/profit accounting identity, and the US federal oil-tax loophole catalogue including leasehold abandonment (D-claims, advocacy essays). [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) · [PDF (leasing)](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf) · [PDF (tax reform)](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf)
+13. Mason Gaffney (1961), "Diseconomies Inherent in Western Water Laws: A California Case Study," *Economic Analysis of Multiple Use*, Report No. 9, Western Agricultural Economics Research Council, pp. 55–82, and (1992) "The Taxable Surplus in Water Resources," *Contemporary Policy Issues* 10, pp. 74–82 — used for the Kaweah River marginal-productivity dispersion case study, the price-umbrella/racing/logrolling dynamic, and the six-fallacy case for taxing water withdrawals (D-claims, case study and advocacy essay). [wiki summary](/wiki/gaffney-water-rent-taxation/) · [PDF (1961, OCR-quality caveat applies)](https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf) · [PDF (1992)](https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf)

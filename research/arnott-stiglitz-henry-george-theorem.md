@@ -39,6 +39,12 @@ The theorem turns Henry George's intuition into a precise welfare-economics resu
 
 - **Concept:** [Henry George Theorem](/wiki/henry-george-theorem/)
 
+## See Also
+
+- [Henry George Theorem](/wiki/henry-george-theorem/)
+- [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — states the same "user charge lowers rent" conservation mechanism, in prose, seven years before this paper's formalization
+- [Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/)
+
 ## Sources
 
 1. Richard Arnott & Joseph Stiglitz (1979), "Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size," *Quarterly Journal of Economics* 93(4):471–500. — used for the statement of the theorem (aggregate land rent equals optimal public-goods spending in an optimally sized city) and its significance; primary source for this page. [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf)  ·  [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/arnott-stiglitz-henry-george-theorem.pdf)

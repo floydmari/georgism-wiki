@@ -6,7 +6,7 @@ stub: false
 born: 1853
 died: 1914
 excerpt: "Soap magnate (1853–1914) who bankrolled the international single-tax movement: the Joseph Fels Fund financed campaigns, lecture bureaus, and land-reform experiments on both sides of the Atlantic in the movement's peak decade."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -34,6 +34,22 @@ He also backed the Jewish Territorialist Organization's search for a homeland to
 founded on Georgist land principles.[2] After his death from influenza in 1914 his
 widow, Mary Fels, continued the work.[2]
 
+## The Lecture Bureau's Cost to Its Speakers
+
+The Fels-funded circuit put single-tax argument in front of national audiences, but it
+also put its speakers in the path of the same institutional resistance the movement
+faced elsewhere. [Louis F. Post](/wiki/louis-f-post/) — the bureau's most senior figure
+— carried the argument into the **1903 Cooper Union debate against
+[John Bates Clark](/wiki/john-bates-clark/)**, a direct sequel to the
+[1890 Saratoga confrontation](/wiki/saratoga-single-tax-debate/) between Clark and
+George himself.[3] Scott Nearing, another of the bureau's lecturers, paid a steeper
+price: he was later dismissed from the University of Pennsylvania's Wharton School for
+his Georgist sympathies, one of three academics — alongside Allen Eaton (Oregon) and
+Elisha Andrews (Brown) — that Gaffney's corruption thesis names as fired for the same
+reason.[3] Read together, Fels's money bought the movement professional reach, but not
+academic legitimacy: the university establishment that resisted George's own ideas at
+Saratoga resisted his hired lecturers just as hard.
+
 ## See Also
 
 - [Louis F. Post](/wiki/louis-f-post/) — the lecture bureau's star
@@ -41,6 +57,7 @@ widow, Mary Fels, continued the work.[2]
 - [The Single-Tax Colonies (Fairhope & Arden)](/wiki/single-tax-colonies/) — the experiments he helped fund
 - [Narrative: The Single Tax](/wiki/single-tax-narrative/) · [Single Tax](/wiki/single-tax/)
 - [1909 People's Budget](/wiki/1909-peoples-budget/)
+- [The Saratoga Single Tax Debate (1890)](/wiki/saratoga-single-tax-debate/) — the academic confrontation Post's Cooper Union debate echoed
 
 ## Sources
 
@@ -56,3 +73,9 @@ widow, Mary Fels, continued the work.[2]
    1900, Mayland/Essex 1906). Facts verified against this biography and the
    corroborating Fels literature this session.
    [Internet Archive](https://archive.org/details/josephfelssingle00dudd)
+3. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994), Gaffney
+   essay Ch. 3 — used for Post's 1903 Cooper Union debate against Clark and for
+   the Scott Nearing dismissal from Wharton, listed alongside the Eaton and
+   Andrews firings as academic retaliation for Georgist sympathies (A-claims
+   with book locators; Heavy scan, per the wiki's
+   [book page](/wiki/gaffney-harrison-corruption-of-economics/)).

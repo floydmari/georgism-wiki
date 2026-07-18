@@ -32,12 +32,30 @@ Transcribed programmatically from the Internet Archive scan (item [lifeofhenryge
 - It is the source of record for George's life chronology: the Philadelphia childhood, the voyage to India and Australia before the mast, the San Francisco printing and newspaper years, the 1871 pamphlet *Our Land and Land Policy*, the writing of [*Progress and Poverty*](/wiki/progress-and-poverty/), the Irish Land War reporting, the [1886 New York mayoralty campaign](/wiki/1886-nyc-mayoral-election/), and the fatal 1897 campaign.
 - Its texture — letters quoted at length, campaign scenes witnessed first-hand — is exactly the primary record a definitive reference should carry rather than merely summarize.
 
+## Key Episodes This Wiki Draws From It
+
+The biography's Third Period chapters (VIII–XIV) are the wiki's single most heavily mined primary source for George's political career, cited claim-by-claim across nine other pages:
+
+- **The 1886 mayoral campaign.** The book supplies the 30,000-signature condition George set before agreeing to run, his account of Tammany emissary William M. Ivins's offer of a safe Congressional seat in exchange for withdrawal ("You cannot possibly be counted in... but your running will raise hell!" / "I do not want the responsibility... but I do want to raise hell!"), the Cooper Union nomination speech, the official canvass (Hewitt 90,552; George 68,110; Roosevelt 60,135 — George placed second, ahead of the future president), George's own belief he had been "counted out," and his election-night "This is the Bunker Hill... We have lit a fire that will never go out" address — all detailed on [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/).
+- **Father Edward McGlynn.** The book is the primary source for McGlynn's role in the 1886 campaign, his suspension and 1887 excommunication after defying his Archbishop to support George, quoted correspondence between McGlynn and Archbishop Corrigan's office, his founding of the [Anti-Poverty Society](/wiki/anti-poverty-society/), and his 1892 reinstatement by Archbishop Satolli — the full episode is on [Edward McGlynn](/wiki/edward-mcglynn/).
+- **Michael Davitt and the Irish Land War.** The book documents George's 1882 arrests at Loughrea and Athenry alongside [Michael Davitt](/wiki/michael-davitt/), including the James L. Joynes detail and Davitt's reaction to the Phoenix Park murders — see [Michael Davitt](/wiki/michael-davitt/).
+- **The Anti-Poverty Society.** The founding, officers, declared object, and a crowd estimate for a McGlynn demonstration — explicitly sourced by the biography itself to a contemporary newspaper rather than George Jr.'s own observation — are on [Anti-Poverty Society](/wiki/anti-poverty-society/).
+- **The fatal 1897 campaign.** The book is the primary source for George's decision to run for mayor of the newly consolidated Greater New York against his doctors' advice, the final weeks of the campaign, his death by stroke four days before the election, and his funeral — on [The Last Campaign, 1897](/wiki/1897-nyc-mayoral-campaign/).
+
+## An Honest Note on Sourcing Style
+
+Because George Jr. was present for many of these events and writing as a devoted son rather than a disinterested historian, the wiki cites the book as **A-claims for quoted letters, speeches, and reported facts** (vote totals, dates, correspondence) but treats his own framing and interpretation as **D-claims** — a filial perspective, not independent scholarship. One documented case shows the value of checking it against other sources: the biography's reported 1886 vote total for Theodore Roosevelt (60,135) differs by one digit from the figure modern reference works commonly give (60,435), a discrepancy the wiki has not adjudicated and reports as found rather than silently correcting.
+
 ## See Also
 
 - [Henry George](/wiki/henry-george/) — the subject
+- [Henry George Jr.](/wiki/henry-george-jr/) — the author, George's eldest son
 - [Barker: Henry George (1955)](/wiki/barker-henry-george-biography/) — the standard academic biography, to be read against this one
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the book at the center of the life
+- [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/) — the campaign this book most heavily documents
+- [The Last Campaign, 1897](/wiki/1897-nyc-mayoral-campaign/) — George's fatal second run
+- [Edward McGlynn](/wiki/edward-mcglynn/) · [Michael Davitt](/wiki/michael-davitt/) · [Anti-Poverty Society](/wiki/anti-poverty-society/) — episodes this book is the primary source for
 
 ## Sources
 
-1. Henry George Jr., *The Life of Henry George* (New York: Doubleday & McClure Company, 1900). Public-domain full text: [in-repo transcription](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/life-of-henry-george.md); provenance: [archive.org lifeofhenrygeorg00geor](https://archive.org/details/lifeofhenrygeorg00geor). — used for all biographical and bibliographic claims on this page; primary text, hosted in full in this repository.
+1. Henry George Jr., *The Life of Henry George* (New York: Doubleday & McClure Company, 1900). Public-domain full text: [in-repo transcription](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/life-of-henry-george.md); provenance: [archive.org lifeofhenrygeorg00geor](https://archive.org/details/lifeofhenrygeorg00geor). — used for all biographical and bibliographic claims on this page, and, via its Third Period chapters, for the claim-level detail on [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/), [The Last Campaign, 1897](/wiki/1897-nyc-mayoral-campaign/), [Edward McGlynn](/wiki/edward-mcglynn/), [Michael Davitt](/wiki/michael-davitt/), and [Anti-Poverty Society](/wiki/anti-poverty-society/); primary text, hosted in full in this repository.

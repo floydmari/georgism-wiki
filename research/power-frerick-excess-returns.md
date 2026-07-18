@@ -89,7 +89,7 @@ The finding cuts two ways, per the wiki's [rent gradient](/wiki/geoism/):
    Been Increasing Over Time?", Treasury Office of Tax Analysis Working Paper 111
    — used for the 40%→25% normal-return share finding (abstract and pp. 7–8,
    verified against the Treasury PDF this session; robust under economic
-   depreciation). [Treasury PDF](https://home.treasury.gov/system/files/131/wp-111.pdf) ·
+   depreciation). [Treasury PDF](https://home.treasury.gov/system/files/131/wp-111.pdf) · [archived](https://archive.progress.org/files/have-excess-returns-to-corporations-been-increasing-over-time-ota-wp-1.pdf) ·
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2810319)
 2. Julie-Anne Cronin, Emily Lin, Laura Power & Michael Cooper (2013),
    "Distributing the Corporate Income Tax," *National Tax Journal* 66(1);

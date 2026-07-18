@@ -1,0 +1,305 @@
+                      Critique of South African Katz Commision (sic) Reports
+                                S. African Department of Finance
+
+
+                                     Critique by Mason Gaffney
+
+
+   8th Report - LAND TAX
+
+
+   Chap. 2 THE ECONOMIC EFFECT OF A LAND TAX ON AGRICULTURE
+
+
+   n.d., but emailed to me by FH, 3/20/99. FH got it from Peter Meakin
+
+
+   Comments by Mason Gaffney, 28 March 99. Numbers in my text refer to section numbers in
+the report.
+
+
+   1. Polemic tone
+   This report has a polemic quality, barely concealed, that betrays the anonymous authors'
+intent to make a debaters' case against the land tax on agriculture. Examples follow:
+
+
+   A. No. 30, a land tax is an "intervention"—other taxes, apparently, are not. This device is
+repeated later.
+   "Intervention" is a code word used tendentiously by partisan economists, especially those
+working from libertarian premises, to stigmatize selected policies they do not like, while sparing
+policies they do. In the present case it may be used, rather, to stigmatize changes from the status
+quo—cf. B, below.
+
+
+   B. No. 40, the optimum farm plan without a land tax is "used as a base scenario." That means
+that any effect that they impute to a land tax is a departure from the ideal, hence a "distortion"—a
+word they use again and again. Thus, the "ideal" base situation is the status quo, whatever that
+happens to be. Most economists would rather take some untrammeled market condition as the
+ideal—that would at least have some rationale other than stasis.
+   In No. 80, they conclude that a land tax violates the "principles for an efficient and coherent
+tax system," but they do not state those principles, other than as above.
+Gaffney                         Critique: Katz Commission Reports                                     2
+
+   Others, ignored in this report, would not accept the inherited distribution of entitlements to
+property as a starting point. They would object first to the obvious distributive inequities, based
+on histories of conquest and forcible eviction (not just in South Africa, but worldwide). They
+would go on to note that the prior distribution of landownership endows the owners with greater
+bargaining power in the market, relative to the landless. Both those points are ignored in the
+report.
+
+
+   C. No. 63, they fault a land tax based on market value because it "does not account for the
+ability to pay principle…" This is inferentially because amenity values yield no cash, although
+the point is not made explicitly, and the quoted words are just gratuitous at this point, an obiter
+dictum without support or explanation.
+   If they treated the point fully, instead of taking just this "Parthian shot," they would have to
+deal with the point that all urban owner-occupied residences yield no cash, but pay property
+taxes based on market value. This is why the property tax is the only way to tax imputed income,
+which all economists agree escapes from what is misleadingly called "the income tax" (but is in
+practice more of a selective tax on cash wages). The modern development is that vast rural areas
+have become extensions of urban residences, along the lines of the English lordly deer parks of
+the 19th century.
+   The authors might be called on to ask who would pay for public services if urban residences
+were made tax free, as they implicitly recommend here. Property taxes are one source of urban
+fiscal surpluses from which farmland owners benefit.
+   With some more thought, the authors would also realize that land that is ripening into a higher
+use yields another form of invisible income, viz. the annual accrual of market value. They would
+realize that the land tax takes a portion of this each year as it accrues. Most economists have
+accepted in principle the "Haig-Simons" definition of taxable income, in which such unrealized
+accruals are income at the time they accrue. By failing to acknowledge this, and as it were
+"playing dumb" about it, these authors are keeping the discourse at a low level. As they purport
+to be economists, we may assume they are aware of imputed income and Haig-Simons, but
+choose to maintain silence, with the evident intent of discrediting the land tax.
+
+
+   D. No. 69, a land tax "negat[es] the equity principle," because its "effect" on "net farm
+income" (narrowly construed in strictly cash terms) varies among regions. They call this a
+"distortion."
+   The word "effect" here means compared with the status quo, which is taken as ideal. Cf. 1, B,
+above. By implication, all existing policies should be frozen, because any change is a
+"distortion," by definition. One obvious question, with such a criterion, is at what date should we
+have frozen the system? A land-taxer might choose the year before VAT was imposed, for
+Gaffney                        Critique: Katz Commission Reports                                    3
+
+example. It would add weight and credibility to the authors' use of "effect" and "distortion" if
+they could document their having opposed VAT on this status quo principle. Or is this principle
+used selectively against land taxation?
+
+
+   2. Methodology
+    They present us with a "black box" methodology, linear programming (LP), which they
+hardly explain or describe. This immediately restricts the audience to those who are adept at
+linear programming, and those who will take the alleged results on authority or because they are
+intimidated. This is pretty clearly the authors' intent. They perform all their operations behind
+this screen, like the Wonderful Wizard of Oz, who did it because he was, if you recall, a
+humbug.
+   They provide generic praise for LP, but no explanation of what it is, or how it works, or its
+limitations, except that its assumptions are "somewhat restrictive" (No. 30). Basically what it
+does is reduce the relations of production to a set of linear equations, assuming fixed factor
+proportions (even though these relations are not really linear). Because of the simplicity of linear
+algebra, these equations can be placed in a matrix and solved simultaneously—usually now with
+use of canned programs that the operator need not even understand, hence cannot explain. This
+may be the case here. See No. 57, where the text says the land tax will exceed the income tax,
+and "The reasons for this MIGHT [emphasis added] be…" so and so. Why "MIGHT" be? If the
+analyst knows his data and methods, he should know why he gets the results he does.
+   The limitations are glossed over by calling the procedure "rigorous" (No. 30), just because it
+uses mathematics in the form of matrix algebra, and in spite of its "restrictive [read: unrealistic)
+assumptions about the way in which markets, and biological processes, work." This concept of
+"rigour" betrays a mindset that is unfortunately widespread in academia today, wherein the
+analyst sacrifices reality in order to force the facts into some canned model he has learned in
+school with which to overawe his readers, and keep others out of the dialogue. Let's look at some
+of these limitations:
+
+
+   A. "Certain resource limitations" are taken as given (No. 33). This means that the existing
+factors of production in place on each individual farm unit are taken as fixed; the only question
+answered is how best to combine these.
+   Thus, LP is mostly used as a tool for advising individual farmers how to farm with what they
+have; or how best to mix hog feed (the standard early application of LP); but not for analyzing
+public policy, which may involve applying more labor and less land, for example, and selling off
+the excess land.
+  In No. 34, "a typical linear programming model would indicate how much land is used and
+HOW MUCH IS UNUSED" (emphasis added). That is, the model may tell the landowner he has
+Gaffney                         Critique: Katz Commission Reports                                       4
+
+too much land with too little labor and equipment, but that moral is not drawn—he is simply
+advised not to use some of his land. (What they call the "shadow price" of land looks like what
+other production theorists have called the "marginal product" of land, but they have to give it a
+new name because marginal productivity entails diminishing returns, which is nonlinear. How
+the shadow price can be positive when the landowner holds more land than he can use is not
+explained, but flies in the face of common sense, and surely calls for some answer.)
+    Again, in No. 58, after a land tax is raised, "Labour hours remain constant because of the
+static cost structure." This allegedly static structure is strictly an artifact of the rigid LP model—
+it does not bear on reality. Reams of experience have shown that one result of raising land taxes
+is to put many landowners with excess, underutilized land in a cash flow bind that impels them to
+hire more workers to raise their yields. A model that cannot handle this possibility is of no use
+analyzing public policy. One alleged virtue of a land tax is precisely to induce such a reaction,
+making more jobs and feeding more mouths.
+
+
+   B. No. 35 says that LP tells them that a rise in the land tax is a rise in the "overhead cost" of a
+farm. Clearly their LP program is not calibrated to tell them that interest on the purchase price of
+land is part of the financial "carrying costs" of land, which are part of overhead cost to a new
+buyer; and that potential selling price ("opportunity cost") is also part of overhead cost to an old
+owner; and that changes in these just offset changes in the land tax, such that the carrying costs
+are always equal to the ground rent, i.e., are unaffected by a land tax. This is not matrix algebra,
+but financial algebra, with which the authors seem unconversant, even though this report comes
+via the Department of Finance.
+   Accordingly, most economists teach that a land tax is "neutral," and has no effect on the
+organization of a farm (except through wealth and cash flow effects which the authors, to their
+partial credit, occasionally allude to). Ditto for the carrying costs of land, of whatever kind: they
+are part of "fixed costs," which do not affect the intersection of marginal costs and marginal
+revenues. Our authors offer no explanation of how the mystery and wizardry of LP changes this
+received doctrine.
+
+
+   3. Primitive agricultural fundamentalism
+    No. 46, we begin to see the implicit assumption that this study is concerned entirely with the
+welfare of existing farm landowners, not with South Africa as a whole. This does not seem
+fitting in a Finance Department report concerned, presumably, with the nation's welfare.
+   No. 49, farmers oppose an "agricultural land tax." This is unclear. It would be useful to know
+the authors' original assignment, or terms of reference. The very title of the report is ambiguous:
+"Effect of a Land Tax on Agriculture." Does that mean, the effect on AGRICULTURE of a
+GENERAL land tax; or the effect of a land tax LIMITED to agriculture? Obviously, ANY tax
+Gaffney                        Critique: Katz Commission Reports                                    5
+
+limited to agriculture would bear heavier on agriculture than the absence of taxes; that needs no
+special proof, nor LP models, especially when public services are held constant, as in this paper
+(e.g., No. 49).
+   I surmise the status quo is that agriculture pays no land tax at all, and cities do, and what is
+being considered is extending the urban treatment to farmland—a step in the direction of
+uniformity, which would indeed by "non-distortionary," in most meanings. With a little
+tendentious vagueness and ambiguity the authors make this seem like a new and therefore
+somehow unfair imposition on owners of farmland. (Such tendentious ambiguity is part of the
+agricultural college culture, and may have become ingrained and subconscious with the authors.)
+  The authors say nothing about what jurisdictions will be levying the proposed tax, or how the
+money is to be used, leaving these vital matters to the readers' speculation.
+   In several places, "farmers" and "landowners" are used interchangeably. This glosses over
+ownership of farmland by absentee urban residents and financial institutions, who are thus
+transmuted into "farmers" with dirt in their nails; while farm laborers are treated not as
+"farmers," but as impersonal hired inputs. This all fits with modern agricultural fundamentalism.
+   No. 50, in Gauteng, "market values are distorted by non-farm factors." The authors evidently
+believe that non-farm demands for land are somehow illegitimate and distortionary—an element
+of farm fundamentalism.
+   No. 51 refers to "land prices in South Africa as a whole." From the context this seems to refer
+only to farmland prices, although when read literally it includes prices of city land, mining land,
+spectrum assignments, et al. One suspects these authors still harbor the archaic superstition that
+"land" refers mainly to farmland.
+    In No. 57 they fault the land tax because it will bear heavier on farmers than the income tax,
+because of "widespread evasion of income tax," and "a low average income tax rate applicable to
+farmers." This seems to say that a tax is bad if farmers cannot evade it, and good if they can. This
+is agricultural fundamentalism of a high order. Thus, this report is a brief ex parte farmers who
+avoid their share of the common tax burden.
+   In No. 65, they attribute a multiplier effect to net farm income, and fault the land tax for
+reducing the net income. That is extreme agricultural fundamentalism, ignoring the mutuality of
+multiplier effects. Mutuality is not exactly news: Adam Smith, in The Wealth of Nations, wrote
+two chapters on how the commerce of the towns stimulated the development of the country.
+   In No. 66, they partly concede the above, but more in form than in substance, for they now
+claim the multipliers for agriculture are larger. They offer no support for this claim, nor do I
+know of any.
+   In nos. 72 and 73 they fault the land tax because they allege it bears heavier on farm
+landowners than RSC levies, etc. What about non-farm landowners? What about workers and
+investors in buildings and equipment? Are they not South Africans, too?
+Gaffney                        Critique: Katz Commission Reports                                    6
+
+   What, too, about the efficiency of resource use? This section shows no concern with that, but
+only with distribution. It favors turnover taxes and wage taxes and VAT simply because they will
+bear lighter on landowners (at least, the ones selected for their sample) than land taxes will. The
+facts that they discourage production and employment, and drive marginal lands out of use, are
+given no consideration.
+   No. 75 faults a tax on "market value" because it will be higher, relative to cash farm income,
+than a tax based on capitalized cash farm income alone. The clear message is that landowners
+who call themselves "farmers" should be allowed to receive imputed income from the amenities
+of land, and invisible income from accruing gains in value, free of tax.
+   No. 46 faults a land tax in Gauteng province, where non-farm factors dominate land prices,
+because it will have a high effect on "farm incomes." This presumes that a tax comes "out of"
+farm incomes, and them alone. It is as though someone had a mansion with a small vegetable
+garden, and the taxes on the mansion were presumed to come "out of" the produce of the garden.
+Actually they mainly must "come out" of the imputed income of the mansion, using cash from
+some other source. Likewise, in Gauteng, land taxes come "out of" the invisible, imputed income
+of the "non-farm factors." It's not that the authors are unaware of imputed income; they enter it
+on the positive side of the income statement when it comes to explaining high land prices. They
+only delete it when lamenting the fate of the landowner whom they now paint as the victim of the
+high prices of this land that he holds voluntarily.
+   In fact, many students of land markets have observed the tendency of appreciating land
+around growing cities, or in regions of high amenity values, to be agglomerated or retained in
+vast, speculative holdings. One might go back to L.C. Gray's classic article on "Land
+Speculation" in the old Encyclopedia of Social Sciences, 1931, where he illustrates this principle
+with data from Germany. I can supply extensive data from California, like the 82,000 acres of
+prime land attached to San Simeon, the lordly palace of William Randolph Hearst, including
+miles of shoreline, north of Santa Barbara. To picture these combinations of baronial estates and
+land speculations as "farming" is to stretch the meaning of words prejudicially.
+
+
+   4. Database lacking
+   The data they cite come from their own tables, but the tables themselves are neither sourced
+nor explained, other than that the data have been processed, in some unspecified way, through
+LP models. There is no way, however, any other researcher can replicate their work to check its
+accuracy, for they do not show their work.
+   Thus in No. 57 they "support" a point by writing, "Table 2.1 shows…" Table 2.1 is only a set
+of numbers that may be pulled out of the air, so far as we know. It cannot "show" anything,
+except that the authors have chosen to enter certain numbers, of whose provenance we know
+nothing. See nos. 51 and 58 for more of the same.
+Gaffney                         Critique: Katz Commission Reports                                    7
+
+
+   5. Errors, blunders, and contradictions
+   No. 51 says that landowners may shift a land tax "down" to tenants. Few economists would
+agree.
+   No. 52 states that lower land prices do not make more buyers eligible to buy land, if the %
+rate of return on the land price remains the same. This entirely misses and fails to address the
+main point, that a lower price, per se, eases purchase. A buyer will now find that his equity
+comprises a higher fraction of the purchase price, making more buyers eligible for credit.
+   The essential effect of a land tax is to substitute a long series of tax payments—theoretically,
+an infinite series—for a high purchase price up front. This has the same effect as extending credit
+to all potential buyers on the same terms, thus removing credit rationing as a force determining
+who can buy land. This reasoning is spelled out in this writer's chapter in Riel Franzsen (ed.), *A
+Land Tax for the New South Africa*, published at the Universiteit van Pretoria by the Faculty of
+Law. One would think that the authors would at least acknowledge that such a position has been
+advanced in the South African literature on land taxation, if only to refute it, rather than brush it
+aside by ignoring it.
+   No. 51 states that a land tax of 1% will lower land prices by 5.3%. No source is given but a
+table, which is only a set of numbers of unknown provenance, massaged by a Wizard of Oz
+behind a curtain of obscurity. Basic valuation theory says the tax will lower values by 11.1%
+(because .08/.09 = .889), using their assumed interest rate of 8%, and using their implied
+assumption that the taxes are all "onerous," in Marshall's sense—i.e., that they are exported and
+used elsewhere than to serve the lands in question.
+   No. 52 states that a land tax of 2% will lower land prices by 12.32%. It is not clear whether
+they mean lowered from a tax rate of zero, or of 1%, but either way their finding is hard to
+replicate. It also entails saying that successive increments of 1% to the tax rate will have ever-
+larger effects on land prices, when the opposite is true.
+  No. 53 says that a fall from R297.75 to R218.40 is a drop of 12.32%. It is actually a drop of
+27%. Has this material been proofread? Are the tables beset with such errors?
+    Next, in No. 53, they invoke "variable weather conditions" to explain why land values and net
+returns will drop by different fractions. They offer no rationale for this implausible claim, but
+hasten nonetheless to say it shows a land tax will not favor new entrants. Their reasoning, if any,
+is opaque; but their eagerness is transparent to seize any stick to beat the land tax.
+   No. 54 states that there is a "theoretical argument" that a land tax rate of 4% to 5% will make
+land values fall to zero. What "theoretical argument?" Basic valuation theory says that land
+values are derived from ground rent, divided by the sum of the interest rate and the land tax rate.
+Thus, even a land tax rate of 100% is still too low to reduce land prices to zero. This is the basic
+Gaffney                        Critique: Katz Commission Reports                                   8
+
+theory of tax capitalization, used by all valuers. How can these authors say anything of value
+about land taxation when they are unaware of such basic, elementary relationships?
+   No. 35 says that "the whole-farm organization will change" if the land-tax rate changes. No.
+58, on the contrary, says that when a land tax is introduced, "no changes occur to the farming
+structure." Which statement would they have us believe? Which is their real position? Who
+knows? Not I.
+   No. 58 says a land tax will force farmers to use more debt. There is no explanation of this,
+except the usual "tables show" it. What went into the tables, and what was left out, are unknown.
+Why using debt instead of equity capital is forced, and whether equity is preferable to debt, is not
+discussed.
+   There is no refutation offered of the familiar argument that lower land prices let buyers
+acquire land using less debt, and that high land prices induce landowners with equity to take on
+new debt to convert their land-price gains into cash.
+
+
+   In summary, I have shown that: 1) the subject report has a polemic tone betraying its authors
+foregone conclusions hostile to land taxation; 2) its LP methodology is inappropriate to the
+subject addressed (land taxation); 3) its argumentation is premised on an archaic ideology of
+agricultural fundamentalism, placing the interests of a few farm landowners above those of the
+nation; 4) its database is not given, nor its tables explained, yet they are cited as "showing"
+selected points the authors make; and 5) it is blemished with many errors, blunders, and
+contradictions that indicate the authors did not exercise due care in their work.
+
