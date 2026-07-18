@@ -3,13 +3,13 @@ title: "Narrative: This Time Is Different (New Era Thinking)"
 category: narratives
 tags: [narratives, land-cycle, business-cycle, harrison, reinhart-rogoff]
 stub: false
-excerpt: "The recurring claim that structural change has ended the old boom-bust pattern -- from Homer Hoyt's 1933 prediction his land cycle was 'only of interest to historians' to the broader 'this time is different' fallacy Reinhart and Rogoff document across eight centuries of financial crises."
-last_reviewed: 2026-07-12
+excerpt: "The recurring claim that structural change has ended the old boom-bust pattern -- from Homer Hoyt's 1933 prediction his land cycle would be 'of interest only to historians' to the broader 'this time is different' fallacy Reinhart and Rogoff document across eight centuries of financial crises."
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
 
-At every major asset-price peak, Georgist land-cycle advocates argue, prevailing opinion declares that the old rules of valuation and risk no longer apply — only for the crash that follows to look much like its predecessors. Economists Carmen Reinhart and Kenneth Rogoff gave this pattern its name in *This Time Is Different: Eight Centuries of Financial Folly* (2009), a non-Georgist survey of sixty-six countries across roughly eight centuries of financial crises, arguing that the recurring conviction that "this time is different" has preceded most of the episodes they study.[1] Advocates of the [18-Year Land Cycle](/wiki/18-year-land-cycle/) invoke one specific, well-documented instance of the pattern: economist Homer Hoyt, having traced Chicago land values through the 1933 peak, himself predicted that his own cycle would be "only of interest to historians" because government economic management would prevent its recurrence — a claim Fred Harrison's *[The Power in the Land](/wiki/harrison-power-in-the-land/)* (1983) treats as refuted by the 1973–74 UK property-price crash that Hoyt's prediction did not anticipate.[2]
+At every major asset-price peak, Georgist land-cycle advocates argue, prevailing opinion declares that the old rules of valuation and risk no longer apply — only for the crash that follows to look much like its predecessors. Economists Carmen Reinhart and Kenneth Rogoff gave this pattern its name in *This Time Is Different: Eight Centuries of Financial Folly* (2009), a non-Georgist survey of sixty-six countries across roughly eight centuries of financial crises, arguing that the recurring conviction that "this time is different" has preceded most of the episodes they study.[1] Advocates of the [18-Year Land Cycle](/wiki/18-year-land-cycle/) invoke one specific, well-documented instance of the pattern: economist Homer Hoyt, having traced Chicago land values through the 1933 peak, himself predicted that its sequence of events would be "of interest only to historians" because government economic management would prevent its recurrence — a claim Fred Harrison's *[The Power in the Land](/wiki/harrison-power-in-the-land/)* (1983) treats as refuted by the 1973–74 UK property-price crash that Hoyt's prediction did not anticipate.[2]
 
 ## Who Invokes It
 
@@ -24,7 +24,7 @@ Reinhart and Rogoff document the recurrence of the *rhetoric*, not that a single
 ## See Also
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the cyclical claim this narrative defends against "new era" skepticism
-- [Harrison, The Power in the Land (book)](/wiki/harrison-power-in-the-land/) — source of the Hoyt "only of interest to historians" case
+- [Harrison, The Power in the Land (book)](/wiki/harrison-power-in-the-land/) — source of the Hoyt "of interest only to historians" case
 - [Anderson, The Secret Life of Real Estate and Banking (book)](/wiki/anderson-secret-life-real-estate/) — the US banking-failure evidence across cycle peaks
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the parent narrative this one supports
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/)
@@ -33,5 +33,5 @@ Reinhart and Rogoff document the recurrence of the *rhetoric*, not that a single
 ## Sources
 
 1. Carmen M. Reinhart and Kenneth S. Rogoff, *This Time Is Different: Eight Centuries of Financial Folly* (Princeton University Press, 2009) — used for the book's title thesis and its survey of sixty-six countries and roughly eight centuries of financial crises (B-claim; mainstream, non-Georgist corroboration of the rhetorical pattern; publisher summary read). [Publisher page](https://press.princeton.edu/books/paperback/9780691152646/this-time-is-different)
-2. Fred Harrison, *The Power in the Land* (Shepheard-Walwyn, 1983), Ch. 8 — used for the account of Homer Hoyt's 1933 prediction that his cycle was "only of interest to historians," later contradicted by the 1973–74 cycle (A-claim, per the wiki's existing verified book-page summary). [Wiki book page](/wiki/harrison-power-in-the-land/)
+2. Fred Harrison, *The Power in the Land* (Shepheard-Walwyn, 1983), Ch. 8 — used for the account of Homer Hoyt's 1933 prediction that his cycle's sequence of events would be "of interest only to historians," later contradicted by the 1973–74 cycle (A-claim, per the wiki's existing verified book-page summary). [Wiki book page](/wiki/harrison-power-in-the-land/)
 3. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (Shepheard-Walwyn, 2008), Ch. 16, 22 — used for the list of banking failures coinciding with successive US cycle peaks (B-claim, per the wiki's existing verified book-page summary). [Wiki book page](/wiki/anderson-secret-life-real-estate/)

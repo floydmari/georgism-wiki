@@ -5,6 +5,7 @@ tags: [concepts, land-value-capture, betterment, public-finance, infrastructure]
 stub: false
 excerpt: "The broad family of public-finance tools that recover, for public benefit, the land-value increases created by public investment and community growth."
 pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -30,7 +31,7 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 
 ### Howard: Garden City as LVT Application
 
-Ebenezer Howard's *Garden Cities of To-morrow* (1902) is one of the most detailed practical applications of land value capture ever proposed. Howard's "rate-rent" mechanism — in which all ground rents based on the annual value of land are paid to the municipality — is a form of LVC implemented through communal land ownership rather than taxation. Howard estimated that on a 6,000-acre estate with 30,000 residents, the rate-rent could yield approximately £50,000 per annum at the outset, rising as the town prospered (Howard 1902, Ch. II, pp. 20–28). (A-claim; factual)
+Ebenezer Howard's *Garden Cities of To-morrow* (1902) is one of the most detailed practical applications of land value capture ever proposed. Howard's "rate-rent" mechanism — in which all ground rents based on the annual value of land are paid to the municipality — is a form of LVC implemented through communal land ownership rather than taxation. Howard estimated that on a 6,000-acre estate with 30,000 residents, the rate-rent could yield approximately £50,000 per annum at the outset, rising as the town prospered (Howard 1902, Ch. I–III, pp. 20–43 — the estate purchase is set out in Ch. I, the rate-rent/unearned-increment mechanism in Ch. II, and the £50,000 revenue table specifically in Ch. III). (A-claim; factual)
 
 Howard's mechanism captures the same value that LVC instruments target — the [unearned increment](/wiki/unearned-increment/) created by community presence and public investment — but does so through a trust ownership model rather than a tax on private title:
 

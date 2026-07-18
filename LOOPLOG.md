@@ -875,3 +875,116 @@ simulations, advocacy-graded; both report PDFs read — Princeton found at its m
 advocates' own homestead numbers wired into the asset-rich-cash-poor objection's steelman).
 Commits fe0c8d8 · 5edd217. 827 pages; lint 0 errors; registry 1,098 rows. Next iteration:
 TIER-2 remainder by target page, then BACKLOG NOW lanes.
+
+---
+
+## 2026-07-18 — T2 quote-verification sweep: hosted speech/pamphlet primaries (Paine, Spencer,
+Lloyd George, Mill/LTRA, George shorts, Saratoga, Johnson 1914)
+
+Mill-pattern quote sweep over the twelve `texts/` primaries not yet audited (Progress and
+Poverty, Smith 1776, Churchill's Mother of All Monopolies, and *Life of Henry George* were
+already done). Two major integrity findings, both isolated to their own pages (no fabricated
+wording had propagated into citing pages — every downstream quote checked against these
+primaries was independently verbatim-correct):
+
+**texts/peoples-budget-speech-1909.md was substantially fabricated and has been replaced.**
+The page purported to excerpt Lloyd George's 29 April 1909 budget speech from Hansard but
+contained paraphrase and invented content: a "Glasgow rental rose from £600 to £430,000"
+anecdote falsely attributed to the Limehouse speech (the full genuine Limehouse text, held
+on this wiki, contains no such passage), an invented "railway swing bridge" illustration, and
+an invented closing passage ("I do not hesitate to say that a slice of the increment is by
+right the property of the state...") not found in Hansard or any secondary source. Verified
+against the actual official Historic Hansard record (api.parliament.uk/historic-hansard,
+HC Deb 29 April 1909 vol. 4, cc472-543, fetched directly) and replaced in full with verbatim
+text from the real "Taxation of Land," "Land Kept Out of Market," "Unearned Increment," "Duty
+on Undeveloped Land," "Reversion Duty," and "Valuation of Real Property" sections. The
+genuine "This is a War Budget" opening line was retained (independently corroborated). Added
+a proper See Also/Sources section (previously missing) citing each Hansard column range.
+
+**texts/open-letter-to-pope-leo-xiii.md is also fabricated/paraphrased and is flagged, not yet
+fixed.** George's actual 1891 letter runs to roughly 35,000 words across an introduction and
+four numbered parts; the wiki page held a ~1,500-word compression whose opening line and
+Rerum Novarum quotation both differ from independently verified sources
+(henrygeorgefoundation.org's transcription; the Vatican's own Rerum Novarum §8 text). Flagged
+in the page's provenance field and with an inline editorial warning; needs full re-acquisition
+from a primary scan (Internet Archive item conditionoflabor00georuoft or TheConditionOfLabor)
+via the Hermes PD-acquisition pipeline (EDITORIAL §3b) — out of scope for a quote-fix pass
+given the length. No other wiki page quotes this text directly, so the exposure is contained
+to the one page.
+
+**Verified genuine (spot-checked against archive.org/Hansard/independent transcriptions,
+no material drift found):** agrarian-justice.md, social-statics-right-to-use-earth.md,
+limehouse-speech-1909.md, churchill-budget-resolutions-1909.md,
+land-tenure-reform-programme-1871.md, irish-land-question-1881.md, crime-of-poverty.md,
+moses.md, thy-kingdom-come.md, saratoga-single-tax-debate-1890.md (Seligman's "substantially
+right... Adam Smith, Ricardo, and Mill" line and George's "Keep what you have; but don't do
+it any more" both confirmed verbatim against the archive.org DjVu OCR text), and
+johnson-case-against-single-tax-1914.md.
+
+**Small drifts fixed in citing pages:** people/david-lloyd-george.md had one inserted word
+("the conditions under which **the** land is held" vs. the genuine "conditions under which
+land is held"). guides/argument-chains.md asserted "John Stuart Mill coined 'the unearned
+increment'" — his own words were "unearned appendage"/"unearned increase"; the corpus
+(concepts/unearned-increment.md, people/john-stuart-mill.md, research/mill-principles-land.md)
+had already been corrected to say so and this page was the one stale holdout. people/
+thomas-paine.md's Barnes blockquote gives Paine's pension age as "fifty-five" where Paine's
+own text (held in full on this wiki) says fifty — added a caveat rather than altering the
+Barnes quote, and pointed its source note at the wiki's verified Gutenberg-based full text
+instead of the constitution.org mirror the base agrarian-justice.md page's own provenance
+flags as OCR-corrupted. All changed pages got `last_reviewed: 2026-07-18`.
+
+Lint: 834 pages, 0 errors, 11 pre-existing warnings unrelated to this wave's edits.
+
+---
+
+## 2026-07-18 — T2 integrity fix: re-acquired genuine text of the Pope Leo XIII open letter
+
+Follow-up to the quote-verification sweep above, which flagged `texts/open-letter-to-pope-leo-xiii.md`
+as holding a ~1,500-word fabricated pastiche of Henry George's *The Condition of Labor: An Open
+Letter to Pope Leo XIII* (1891) rather than the real ~35,000-word letter. This loop re-acquired
+and re-transcribed the genuine text and replaced the pastiche in full.
+
+**Source:** Internet Archive item `conditionoflabor00georuoft` (University of Toronto copy of the
+1891 first edition, New York: United States Book Company, successors to John W. Lovell Company;
+digitized 2007), djvu.txt OCR layer fetched directly from
+`https://archive.org/download/conditionoflabor00georuoft/conditionoflabor00georuoft_djvu.txt` on
+2026-07-18. This particular 1891 printing bound George's letter together with the official English
+translation of *Rerum Novarum* as an appendix ("With Encyclical Letter of Pope Leo XIII"); only
+George's own letter (title page through his "New York, September 11, 1891" signature) was kept —
+the appendix is a separate document and was discarded, not reproduced.
+
+**Cleanup performed (mechanical only, no wording added/removed/paraphrased):** the scan's running
+page headers — "THE CONDITION OF LABOR." and "OPEN LETTER TO POPE LEO XIII." with page numbers, in
+wildly inconsistent OCR case/spacing (e.g. "OPEtf", "LETTEB", "Xltl", "COTFDITlOtf") — were stripped
+via regex, taking care to keep this **case-sensitive** for the "CONDITION OF LABOR" pattern: an
+early draft of the cleanup script used a case-insensitive match and silently deleted every
+legitimate lowercase occurrence of the phrase "the condition of labor" in George's own prose
+(that phrase is the letter's own subject and recurs constantly), corrupting the opening sentence
+and others; caught by re-diffing against the raw OCR before finalizing. Line-wrap hyphenation was
+rejoined; paragraphs broken across page boundaries mid-sentence (not at a real paragraph break)
+were spliced back together; a handful of unambiguous scanner misreadings were corrected (`tbe`→
+`the`, a stray `%` used where the scan's question marks were misread as percent signs, `Qod`→`God`,
+`JSulty`→`Nulty` for the Rt. Rev. Dr. Thomas Nulty, Bishop of Meath, whom George quotes at length,
+and a badly garbled Latin phrase reconstructed with high confidence from context as "jus primae
+noctis"). Two garbled numeric citations to Encyclical paragraph numbers in George's own
+proposition list — rendered in the scan as "(1J/.-17.)" and "(SI.)" — were left as transcribed
+rather than guessed at, since the correct digits aren't recoverable with confidence from context
+alone; flagged in the page's `provenance` field for a future proofreading pass against the
+archive.org page images.
+
+**Verification:** both anchor points the prior fabrication had been caught on now match. Opening
+line: "I have read with care your Encyclical letter on the condition of labor, addressed, through
+the Patriarchs, Primates, Archbishops and Bishops of your faith, to the Christian World." Rerum
+Novarum quotation George engages: "God has not granted the earth to mankind in general in the
+sense that all without distinction can deal with it as they please." Final word count of George's
+letter alone (excluding the Rerum Novarum appendix): ~34,400 words, in an introduction and four
+numbered parts (I–IV), matching the length the earlier sweep estimated. Read start-to-finish after
+cleanup to confirm the argument holds together coherently across all four parts to George's closing
+signature, with no leftover header fragments or mid-sentence splices.
+
+**Files changed:** `texts/open-letter-to-pope-leo-xiii.md` (full replacement of body text and
+provenance field, `last_reviewed: 2026-07-18`); `sources/registry.csv` (source URL corrected from
+a generic cooperative-individualism.org homepage link to the actual archive.org item used, Scan
+Depth Medium→Heavy); this LOOPLOG entry.
+
+Lint: `texts/open-letter-to-pope-leo-xiii.md` — see lint run below.

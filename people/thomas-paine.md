@@ -4,7 +4,7 @@ category: people
 tags: [people, thomas-paine, agrarian-justice, citizens-dividend, natural-rights]
 stub: false
 excerpt: "Revolutionary pamphleteer (1737–1809) whose Agrarian Justice (1797) is the founding document of the citizen's-dividend idea: land in its natural state is 'the common property of the human race,' so landowners owe a ground-rent funding universal capital grants and old-age pensions."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-18
 pd_quotes: true
 ---
 
@@ -32,7 +32,7 @@ Peter Barnes revives Paine's *Agrarian Justice* framework in [*With Liberty and 
 
 > "There are two kinds of property. Firstly, natural property, or that which comes to us from the Creator of the universe—such as the earth, air, water. Secondly, artificial or acquired property—the invention of men. The latter kind of property must necessarily be distributed unequally, but the first kind rightfully belonged to everyone equally." (Thomas Paine, *Agrarian Justice*, quoted by Barnes 2014, Ch. 1)
 
-Barnes presents Paine's "National Fund" as the first practical proposal for distributing income from shared natural wealth: "Paine's genius was to invent a way to distribute income from shared ownership of natural property. He proposed a 'National Fund' to pay every man and woman fifteen pounds at age twenty-one and ten pounds a year after age fifty-five. […]" (Barnes 2014, Ch. 1) — the fund's revenue, Barnes continues, would come from the ground rent paid by landowners, the privatizers of natural wealth. Barnes describes Paine's analysis as "a remarkable feat of analysis and imagining" for recognizing that "land, air, and water could be monetized, not just for the benefit of a few but for the good of all" (Barnes 2014, Ch. 1). (A-claim; factual)
+Barnes presents Paine's "National Fund" as the first practical proposal for distributing income from shared natural wealth: "Paine's genius was to invent a way to distribute income from shared ownership of natural property. He proposed a 'National Fund' to pay every man and woman fifteen pounds at age twenty-one and ten pounds a year after age fifty-five. […]" (Barnes 2014, Ch. 1) — quoted as printed in Barnes; note that Paine's own text (held in full at [Agrarian Justice](/wiki/agrarian-justice/)) specifies the annual ten pounds beginning at age **fifty**, not fifty-five ("the sum of ten pounds per annum, during life, to every person now living, of the age of fifty years, and to all others as they shall arrive at that age") — the fund's revenue, Barnes continues, would come from the ground rent paid by landowners, the privatizers of natural wealth. Barnes describes Paine's analysis as "a remarkable feat of analysis and imagining" for recognizing that "land, air, and water could be monetized, not just for the benefit of a few but for the good of all" (Barnes 2014, Ch. 1). (A-claim; factual)
 
 Barnes's own proposal extends Paine's logic from land to all co-owned wealth, maintaining the principle that income from shared natural inheritance belongs to all citizens as a right — "not redistribution" but "legitimate property income" (Barnes 2014, Preface). The Paine-Barnes lineage thus connects the 18th-century origins of the citizen's dividend idea to modern commons-trust and universal-dividend proposals. (D-claim; interpretive)
 
@@ -47,11 +47,14 @@ Barnes's own proposal extends Paine's logic from land to all co-owned wealth, ma
 
 1. Thomas Paine, *Agrarian Justice* (1797) — used for the common-property claim,
    the ground-rent argument, and the grant/pension design (A-claims; quotes ≤50
-   words). [Full text (Constitution Society)](https://www.constitution.org/tp/agjustice.htm) —
-   verified this pass: the page returns HTTP 200 and carries the complete 1797 text,
-   including the verbatim phrases "the common property of the human race," the
-   "ground-rent" a landowner "owes to the community," and the "national fund" paying
-   "fifteen pounds sterling" at "the age of twenty-one years" and "ten pounds per annum"
-   from "the age of fifty years." The former `/1-Activism/cmt/tpaine/agjustice.htm`
-   path now 404s; `/tp/agjustice.htm` is the stable canonical location on the host.
+   words). Primary citation: this wiki's [full text](/wiki/agrarian-justice/), transcribed
+   from the Conway-edited Project Gutenberg text (ebook #31271) — the base text preferred
+   over the constitution.org transcription, which that page's provenance note documents as
+   carrying OCR corruptions. T2 re-verification (2026-07-18): the phrases quoted above —
+   "the common property of the human race," the "ground-rent" a landowner "owes to the
+   community," and the "national fund" paying "fifteen pounds sterling" at "the age of
+   twenty-one years" and "ten pounds per annum" from "the age of fifty years" — all check
+   out verbatim against the on-wiki text and are unaffected by the OCR issues noted there.
+   [Constitution Society mirror](https://www.constitution.org/tp/agjustice.htm) (unverified
+   transcription quality) retained only as a secondary external link.
 2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the revival of Paine's framework as the foundation of the citizen's dividend tradition (A/D-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)

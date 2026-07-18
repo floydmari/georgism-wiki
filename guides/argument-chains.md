@@ -4,7 +4,7 @@ category: guides
 tags: [guides, advocate, debate, argument, reading-path]
 stub: false
 excerpt: "Full move-by-move scripts for the five debates you'll actually have — housing affordability, fairness, efficiency, does-it-work, and the socialism charge. Each chain is a sequence you can walk an audience through: the frame, three or four moves that build on each other with the evidence to cite, the honest caveat to pre-empt, and the close. The narrative companion to the one-liner Rebuttal Cards."
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-18
 ---
 
 ## How to use this
@@ -35,7 +35,7 @@ Your strongest footing. Lead with the diagnosis; the remedy follows on its own.
 The moral high ground, and it happens to be the best-evidenced ground too.
 
 1. **You didn't make the land more valuable — the community did.** A lot near a new transit stop, a good school, a thriving downtown is worth more purely because of what *everyone else* built and did around it. The owner slept through it. → [Community creates land value](/wiki/community-creates-land-value/) · [unearned increment](/wiki/unearned-increment/)
-2. **This was the founders' point, not a radical one.** Adam Smith said landlords "love to reap where they never sowed"; John Stuart Mill coined "the unearned increment"; Churchill called land monopoly "the mother of all monopolies." → [Quotable Quotes](/wiki/quotable-quotes/)
+2. **This was the founders' point, not a radical one.** Adam Smith said landlords "love to reap where they never sowed"; John Stuart Mill gave the idea its classical statement — landlords "grow richer, as it were, in their sleep" (his own term was "unearned appendage"; "unearned increment" is the later-standardized label); Churchill called land monopoly "the mother of all monopolies." → [Quotable Quotes](/wiki/quotable-quotes/)
 3. **So capturing that increment for the public isn't a taking — it's returning what the public created.** You keep every dollar your labour and capital earn; only the community-made land rent is socialised. → [economic rent](/wiki/economic-rent/) · [land value tax](/wiki/land-value-tax/)
 4. **The incidence knockout — where fairness meets the evidence:** unlike almost every other tax, a land tax can't be passed on to tenants, because the supply of land doesn't shrink when you tax it. So it hits the owner, not the renter. → [Landlords cannot pass LVT to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 
