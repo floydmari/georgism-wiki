@@ -95,7 +95,14 @@ Clark exegesis:
    Gaffney's [catalogue of land as a distinctive factor of production](/wiki/gaffney-land-distinctive-factor/)
    assembles the same enumerated differences — fixed supply, immobility,
    non-reproducibility — as the economic core of the distinction, independent
-   of the political-history argument.
+   of the political-history argument, and adds a mechanism the other sources
+   here do not: because land purchase is "not self-liquidating" — buyers'
+   cash flow rarely covers even interest on the price, let alone principal —
+   land acquisition depends on prior collateral rather than productive
+   intent, quoting agricultural economist Rainer Schikele that "[t]he basis
+   of credit is not marginal productivity, but collateral security," which
+   Gaffney argues is why land, unlike capital, concentrates in "financially
+   strong hands" independent of who would use it most productively.
 3. **Not every marginalist made Clark's move.** The land/capital merger was
    an American, largely Clark-and-Fisher-specific development, not a
    necessary consequence of adopting marginal analysis. Blaug records that

@@ -12,7 +12,8 @@ gaffney-europes-fatal-affair-with-vat, gaffney-full-employment-tax-reform,
 gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance,
 gaffney-alaska-oil-leasing, gaffney-land-market-distortions, gaffney-california-severance-tax,
 gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depletion-land-rent,
-gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy;
+gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy,
+gaffney-rising-inequality-farm-property-tax;
 narratives/the-corruption-of-economics; people/mason-gaffney.
 
 **2026-07-18 (Alaska Part II backlog resolution):** *Oil and Gas Leasing Policy for
@@ -129,6 +130,30 @@ above) — wired into benefits/lvt-can-replace-capital-taxes-without-efficiency-
 benefits/taxing-land-raises-productivity, and concepts/deadweight-loss respectively, with
 cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per the delta rule.
 
+**2026-07-18 (LAND-THEORY cluster, T2 wave):** Of three LAND-THEORY candidates
+(C2 "Land and Rent in Welfare Economics," C9 "Land as a Distinctive Factor of
+Production," D1 "Rising Inequality and Falling Property Tax Rates"), C9 and D1
+proved the most substantive on reading and were mined; C2 was read but declined a
+dedicated page this wave (see its checklist entry below). **C9** is Gaffney's
+major theoretical essay from Nicolaus Tideman's *Land and Taxation* (1994,
+Shepheard-Walwyn) — ten primary land/capital distinctions plus eighteen policy
+consequences — and substantially replaces a one-paragraph stub that had been
+sourced only to a 2004 web-expansion; the primary 1994 text (native, no OCR) is now
+the citation. **D1** is a new page: a 1992 Westview Press book-chapter using US
+Census of Agriculture data (1900-1987, 50-state cross-section) showing farm-property
+concentration (Gini ratio) rose from 0.63 to 0.76 (0.92 adjusted for vanished farms)
+as average farm property tax rates fell 40% after 1930, with a Wisconsin-vs-Florida
+cross-state comparison tying higher property tax rates to more intensive land
+improvement and more equal farm distribution. Both wired (delta additions, not
+restatement) into concepts/land-monopoly (a new "credit access as a modern
+concentration mechanism" subsection) and benefits/split-rate-increases-construction
+(D1 as a farmland data point distinct from the existing urban-permit literature);
+C9 additionally strengthens objections/land-is-just-capital's existing citation
+with a specific credit-concentration quote. Registry: the pre-existing
+gaffney-land-distinctive-factor row's Scan Depth upgraded Light -> Heavy (closing
+the open Core-tier/Light-scan gap EDITORIAL's Scan Depth policy flags); one new row
+added for D1.
+
 ## Inventory (masongaffney.org, fetched 2026-07-16: 190 files)
 
 ### /publications/ (87)
@@ -144,11 +169,11 @@ cross-links (not restatement) to research/gaffney-atcor and concepts/atcor per t
 - [ ] `B1Extractive_Resources_Intro.CV.pdf` — https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf
 - [ ] `B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf` — https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf
 - [x] `B5Soil_Depletion_&amp;_Land_Rent.CV.pdf` — https://masongaffney.org/publications/B5Soil_Depletion_&amp;_Land_Rent.CV.pdf — [research/gaffney-soil-depletion-land-rent](/wiki/gaffney-soil-depletion-land-rent/), 2026-07-18. Actually *Natural Resources Journal* 4(3): 537-557 (Jan. 1965), not undated as filename implies. Wired into objections/land-is-just-capital (Response point 5 + Limits caveat cross-reference). Note: the R2 mirror at this ampersand-containing key 404s (see `[VERIFY]` on the page) — masongaffney.org direct link and the UNM Digital Repository (open-access journal host) are the working free/legal sources.
-- [ ] `C2-LandandRentinWelfareEconomics.CV.pdf` — https://masongaffney.org/publications/C2-LandandRentinWelfareEconomics.CV.pdf
+- [ ] `C2-LandandRentinWelfareEconomics.CV.pdf` — https://masongaffney.org/publications/C2-LandandRentinWelfareEconomics.CV.pdf — read 2026-07-18 (native text, 27pp, no OCR needed) but declined a page this wave in favor of C9 and D1 (see LAND-THEORY cluster ledger entry below); confirmed via C9's own bibliography as Gaffney, "Land and Rent in Welfare Economics," in Clawson, Harriss & Ackerman (eds.), *Land Economics Research* (Johns Hopkins UP, 1962), pp. 141-67 — a philosophical essay on reintegrating land economics and welfare economics, largely conceptual/programmatic rather than data-driven; candidate for a future wave, possibly folded into concepts/economic-rent or a Gaffney historiography page rather than a standalone research page given overlap with gaffney-land-distinctive-factor and gaffney-neoclassical-stratagem.
 - [ ] `C4-UnwieldyTime-DimensionofSpace.CV.pdf` — https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf
 - [x] `C6-Counter-ColonialLandPolicyforMontana.CV.pdf` — https://masongaffney.org/publications/C6-Counter-ColonialLandPolicyforMontana.CV.pdf — same essay as `1977_Counter-colonial_Land_Policy_for_Montana.pdf` above (identical title; different scan, 300KB vs 59KB — not separately reviewed), covered on [research/gaffney-montana-land-policy](/wiki/gaffney-montana-land-policy/), 2026-07-18.
-- [ ] `C9Land_Distinctive_Factor.CV.pdf` — https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf
-- [ ] `D1Rising_Inequality_&amp;_Falling_Prop_Tax_Rates.CV.pdf` — https://masongaffney.org/publications/D1Rising_Inequality_&amp;_Falling_Prop_Tax_Rates.CV.pdf
+- [x] `C9Land_Distinctive_Factor.CV.pdf` — https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf — [research/gaffney-land-distinctive-factor](/wiki/gaffney-land-distinctive-factor/), 2026-07-18. This is the actual 1994 *Land and Taxation* (Tideman, ed.) book chapter (64pp, native text, no OCR); the page previously carried only Gaffney's later 2004 web-expansion (cooperative-individualism.org) as its source and was a one-paragraph stub. Substantially rewritten: ten primary distinctions (A-1 to A-10), major economic consequences (B-1 to B-15, notably the B-8/B-9 credit-access concentration mechanism and B-11 market-power argument), and the land-driven-booms-and-busts section (C-1 to C-3). Registry Scan Depth updated Light -> Heavy (this closes the open `[DEEPEN-SCAN tier:T2]`-class gap the Core/Light combination flagged per EDITORIAL's Scan Depth policy).
+- [x] `D1Rising_Inequality_&amp;_Falling_Prop_Tax_Rates.CV.pdf` — https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf — [research/gaffney-rising-inequality-farm-property-tax](/wiki/gaffney-rising-inequality-farm-property-tax/), 2026-07-18. Confirmed via C9's bibliography as Chapter 10 in Gene Wunderlich (ed.), *Ownership, Tenure, and Taxation of Agricultural Land* (Westview Press, 1992). The R2-mirrored copy at this literal-ampersand filename is a cached 404 page (0.2KB), not the PDF — the working fetch requires percent-encoding the ampersand (`%26`); archive.progress.org's mirror also 404s on this file. Fetched directly from masongaffney.org this session (native text, 19pp, no OCR).
 - [ ] `D3-BenefitsofFarmPrograms.CV.CV.pdf` — https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf
 - [ ] `E10-Land_Planning_and_the_Property_Tax_AIP.pdf` — https://masongaffney.org/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf
 - [ ] `E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf

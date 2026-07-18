@@ -100,6 +100,38 @@ This demonstrates that land monopoly operates not only through outright seizure 
 
 See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
+### Gaffney: Credit Access as a Modern Concentration Mechanism
+
+The historical mechanisms above (primogeniture, enclosure, colonial dispossession,
+USDA discrimination) explain how land concentration was created or enforced by
+law. [Mason Gaffney's](/wiki/gaffney-land-distinctive-factor/) 1994 essay supplies a
+distinct, ongoing economic mechanism for why concentration *persists and
+self-reinforces* even without any legal privilege: because land is priced so high
+relative to its cash flow that purchase is typically "not self-liquidating" (a
+buyer's cash flow rarely covers even interest on the price, let alone principal),
+land acquisition depends on access to outside collateral rather than on productive
+intent. Quoting agricultural economist Rainer Schikele — "[t]he basis of credit is
+not marginal productivity, but collateral security" — Gaffney argues prior land
+ownership is itself the main qualification for the credit needed to buy more land,
+so that "landownership is highly concentrated" and gravitates to "financially
+strong hands" independent of who would farm or develop it most productively.[8]
+(D-claim; Gaffney's own theoretical argument, attributed.)
+
+Gaffney's companion empirical paper, [Rising Inequality and Falling Property Tax
+Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) (1992), tests this
+mechanism against US Census of Agriculture data: after the average farm property
+tax rate fell 40 percent between 1930 and 1987, farm-acreage concentration (Gini
+ratio) rose from 0.63 to 0.76 among surviving farms — and to 0.92 once the 4.5
+million farms that disappeared over the period are counted as zero-acre holdings —
+while a 50-state cross-section shows states with higher property tax rates
+consistently have smaller, more equally distributed, and more intensively improved
+farms.[9] (B-claim; empirical, cross-sectional; Gaffney himself flags the
+direction-of-causation question as open rather than statistically resolved — see
+the page's Standing and Limits.)
+
+See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) ·
+[Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/)
+
 ## See Also
 
 - [Enclosure of the English Commons](/wiki/enclosure-movement/) — the historical event that created the private land market and landless wage class underlying land monopoly
@@ -121,6 +153,8 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 - [Commoners (Neeson)](/wiki/commoners-neeson/) — enclosure as monopoly mechanism
 - [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/) — colonial land acquisition
 - [Dispossession (Daniel)](/wiki/dispossession-daniel/) — systematic land deprivation
+- [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — the credit-access concentration mechanism
+- [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) — the empirical test on US farmland
 
 ## Sources
 
@@ -131,3 +165,5 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 5. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the enclosure-as-monopoly-mechanism account (A/B-claims). [Book page](/wiki/commoners-neeson/)
 6. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Harvard University Press, 2005) — used for the colonial land-acquisition-as-monopoly account (A/D-claims). [Book page](/wiki/how-the-indians-lost-their-land/)
 7. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: UNC Press, 2013) — used for the systematic land-deprivation account (B/D-claims). [Book page](/wiki/dispossession-daniel/)
+8. Mason Gaffney (1994), "Land as a Distinctive Factor of Production," in Nicolaus Tideman, ed., *Land and Taxation*, Shepheard-Walwyn — used for the credit/collateral concentration mechanism (D-claim, attributed). [Wiki summary](/wiki/gaffney-land-distinctive-factor/) · [PDF](https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf)
+9. Mason Gaffney (1992), "Rising Inequality and Falling Property Tax Rates," Chapter 10 in Gene Wunderlich, ed., *Ownership, Tenure, and Taxation of Agricultural Land*, Westview Press — used for the 1930–1987 Gini-ratio and property-tax-rate data (B-claim, empirical). [Wiki summary](/wiki/gaffney-rising-inequality-farm-property-tax/) · [PDF](https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf)

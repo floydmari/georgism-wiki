@@ -1368,3 +1368,25 @@ mentions tangential, confirming the backlog's own caveat). Registry rows deferre
 to scratchpad (Gaffney agent holds the registry lock this round); inventory regen
 deferred to wave close. Lint 0 errors at agent close (867 pages incl. Gaffney
 agent's in-flight work).
+
+## 2026-07-18 (cont.) — Wave: Gaffney tier-2 land-theory batch (C9 + D1; C2 declined with reasons)
+
+C9 "Land as a Distinctive Factor of Production" (1994, 64pp native text): the
+one-paragraph stub page substantially rewritten against the actual chapter — ten
+land/capital distinctions plus the original B-8/B-9 credit-concentration mechanism
+("the basis of credit is not marginal productivity, but collateral security";
+land purchase "not self-liquidating") — advocacy tone flagged in Gaffney's own
+words, and his Clark/Seligman motive-claims flagged AGAINST the wiki's existing
+Missemer-Pottier/Milgate counter-findings rather than swallowed. D1 "Rising
+Inequality and Falling Property Tax Rates" (1992, 19pp): new research page — farm
+Gini 0.63 (1930) → 0.92 (1988, vanished-farms-adjusted) as farm property tax rates
+fell 40%; carried as observational/cross-sectional, no regressions, causation left
+open per Gaffney himself; wired into land-monopoly (new credit-mechanism
+subsection), split-rate-increases-construction (17th supporter), land-is-just-
+capital. C2 welfare-economics essay READ IN FULL but DECLINED a page — diffuse
+programmatic overlap with existing coverage; bibliographic details logged in
+triage for a future call. D1's ampersand-filename mirror rot found and worked
+around (%26 refetch; archive mirror 404s — known B5-class issue). Registry: C9
+row Light→Heavy, D1 new row, + 7 deferred stub-wave rows merged (Parliament
+Act/House-Historian/BC-Assessment sources). Inventory regenerated (5 new pages
+absorbed). 867 pages, lint 0 errors, warnings back to 32.
