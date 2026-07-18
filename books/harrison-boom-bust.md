@@ -121,7 +121,7 @@ Harrison acknowledges that homeowners — now the majority — are themselves be
 - [LVT Dampens Land Speculation](/wiki/lvt-dampens-land-speculation/) — the outcome Harrison's policy prescription addresses
 - [The Corruption of Economics](/wiki/the-corruption-of-economics/) — Harrison's collaborative work with Gaffney
 - [Fred Harrison](/wiki/fred-harrison/) — author page
-- [Citizens Dividend](/wiki/citizens-dividend/) — the Alaska model Harrison cites
+- [Citizen's Dividend](/wiki/citizens-dividend/) — the Alaska model Harrison cites
 - [Deadweight Loss](/wiki/deadweight-loss/) — the Tideman/Plassmann estimates Harrison references
 - [Single Tax Narrative](/wiki/single-tax-narrative/) — the historical lineage from Henry George to Harrison
 
