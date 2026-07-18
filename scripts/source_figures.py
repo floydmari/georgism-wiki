@@ -366,6 +366,59 @@ FIGURES = [
                     "Löffler &amp; Siegloch, IZA Discussion Paper 14195 (2021), "
                     "Figure 2 — reproduced for comment and review.</span>"),
     },
+
+    {
+        "key": "garden-cities-magnets",
+        "entry": "books/garden-cities-of-to-morrow.md",
+        "pdf_url": ("https://ia800505.us.archive.org/30/items/"
+                    "gardencitiesofto00howa/gardencitiesofto00howa_bw.pdf"),
+        "page": 21,
+        "clip": (12, 78, 288, 400),
+        "dpi": 300,
+        "alt": ("Ebenezer Howard's 1898 'Three Magnets' diagram. Two magnets "
+                "labeled Town and Country list their attractions and drawbacks — "
+                "the Town's high wages but high rents and foul air; the Country's "
+                "beauty of nature but low wages and lack of society. A third "
+                "magnet, Town-Country, promises beauty of nature with social "
+                "opportunity, low rents with high wages, pure air, freedom and "
+                "co-operation. In the center: 'The People — where will they go?'"),
+        "caption": ("The book's famous opening diagram: Town and Country each "
+                    "attract and repel — only the planned Town–Country magnet "
+                    "offers \"low rents, high wages\" together, the combination "
+                    "Howard proposed to finance by capturing the community-created "
+                    "rise in land values. <span class=\"figure-credit\">Source: "
+                    "Ebenezer Howard, <em>Garden Cities of To-morrow</em> (1902 "
+                    "edition), \"The Three Magnets\"; scan via Internet Archive. "
+                    "Public domain.</span>"),
+    },
+    {
+        "key": "kolbe-fig1",
+        "entry": "research/kolbe-berlin-land-value-appraisal.md",
+        "pdf_url": "https://edoc.hu-berlin.de/bitstream/handle/18452/20511/FORLand-2019-07.pdf",
+        "page": 10,
+        "clip": (120, 205, 480, 572),
+        "dpi": 200,
+        "alt": ("Choropleth map of Berlin colored by official expert-assessed "
+                "standard land values (Bodenrichtwerte) in euros per square "
+                "meter, capped at 1500. Values peak in a deep-red city center "
+                "and fade to pale yellow at the periphery, with parks and water "
+                "shown in green and blue."),
+        "caption": None,  # embedded as the first panel of a paired figure
+    },
+    {
+        "key": "kolbe-fig5",
+        "entry": "research/kolbe-berlin-land-value-appraisal.md",
+        "pdf_url": "https://edoc.hu-berlin.de/bitstream/handle/18452/20511/FORLand-2019-07.pdf",
+        "page": 18,
+        "clip": (120, 222, 480, 586),
+        "dpi": 200,
+        "alt": ("Map of Berlin colored by statistically estimated land values "
+                "from kernel regression on transaction data, same color scale as "
+                "the expert map: deep-red center, pale-yellow periphery, green "
+                "parks and blue water — closely resembling the expert-assessed "
+                "map above it."),
+        "caption": None,  # embedded as the second panel of a paired figure
+    },
 ]
 
 
@@ -442,8 +495,9 @@ def main():
         if do_upload:
             hosted = upload(png, fig["key"])
             print(f"  hosted: {hosted}\n")
-            print(figure_block(fig, hosted))
-            print()
+            if fig.get("caption"):
+                print(figure_block(fig, hosted))
+                print()
 
 
 if __name__ == "__main__":

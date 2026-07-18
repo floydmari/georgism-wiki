@@ -984,3 +984,12 @@ explainers, blog compilations — 7 rows, no source figures by construction). Qu
 13 source entries + 6 evidence pages figured. Exit condition NOT met — score-7/8 open-PDF
 tier still holds plausible carriers (kolbe-berlin, schwerhoff, martinez-colombia, PD
 diagrams in Howard's Garden Cities, etc.).
+
+**Wave 8 (2026-07-18e):** first PUBLIC-DOMAIN figure — Howard's "Three Magnets" diagram
+(1902 scan via Internet Archive) on books/garden-cities-of-to-morrow, credit line "Public
+domain" per §3c · kolbe-berlin-land-value-appraisal gets the paper's finding as a PAIRED
+figure (Figs 1+5, expert BRW map vs kernel-regression map on the same colour scale — two
+unaltered crops in one <figure>; the match IS the claim, so a single map couldn't carry it).
+Stamps: korinek-stiglitz-ai-rents (theory, no figures), wealth-of-nations (1776 text),
+stiglitz-theory-local-public-goods (1977 theory), guettabi (blocked, wayback returns text).
+Queue 289 open; 15 source entries + 6 evidence pages figured.
