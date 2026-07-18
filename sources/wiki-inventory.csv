@@ -1,7 +1,7 @@
 slug,title,category,url,inbound_links,outbound_links,words,stub,orphan,last_reviewed
 18-year-land-cycle,18-Year Land Cycle,concepts,https://www.progress.org/wiki/18-year-land-cycle/,92,34,1876,false,false,2026-07-04
 1815-rent-theory-pamphlets,The 1815 Rent Theory Pamphlets,events,https://www.progress.org/wiki/1815-rent-theory-pamphlets/,2,6,463,false,false,2026-07-11
-1886-nyc-mayoral-election,1886 New York City Mayoral Election,events,https://www.progress.org/wiki/1886-nyc-mayoral-election/,14,8,975,false,false,
+1886-nyc-mayoral-election,1886 New York City Mayoral Election,events,https://www.progress.org/wiki/1886-nyc-mayoral-election/,14,8,1012,false,false,
 1897-nyc-mayoral-campaign,The 1897 New York City Mayoral Campaign (Henry George's Last Campaign),events,https://www.progress.org/wiki/1897-nyc-mayoral-campaign/,3,6,794,true,false,2026-07-18
 1909-peoples-budget,The 1909 People's Budget (United Kingdom),events,https://www.progress.org/wiki/1909-peoples-budget/,35,11,355,false,false,
 1974-uk-property-crash,1973–74 UK Property Crash and Secondary Banking Crisis,events,https://www.progress.org/wiki/1974-uk-property-crash/,1,6,864,false,false,2026-07-12
@@ -56,7 +56,7 @@ austrian-school,Austrian School,organizations,https://www.progress.org/wiki/aust
 autor-superstar-firms,The Fall of the Labor Share and the Rise of Superstar Firms,research,https://www.progress.org/wiki/autor-superstar-firms/,18,6,1850,false,false,2026-07-03
 azar-schmalz-tecu-common-ownership,"'Azar, Schmalz & Tecu (2018): Anticompetitive Effects of Common Ownership'",research,https://www.progress.org/wiki/azar-schmalz-tecu-common-ownership/,3,5,650,false,false,2026-07-11
 bakker-land-rents-tfp,Unveiling the Hidden Impact of Urban Land Rents on Total Factor Productivity,research,https://www.progress.org/wiki/bakker-land-rents-tfp/,12,2,239,false,false,
-bank-money-creation,Bank Money Creation,concepts,https://www.progress.org/wiki/bank-money-creation/,2,7,591,false,false,2026-07-11
+bank-money-creation,Bank Money Creation,concepts,https://www.progress.org/wiki/bank-money-creation/,3,9,701,false,false,2026-07-18
 banzhaf-lavery-pa-sprawl,Can the Land Tax Help Curb Urban Sprawl? Evidence from Growth Patterns in Pennsylvania,research,https://www.progress.org/wiki/banzhaf-lavery-pa-sprawl/,13,8,2174,false,false,2026-07-12
 barkai-declining-shares,Declining Labor and Capital Shares,research,https://www.progress.org/wiki/barkai-declining-shares/,11,8,2534,false,false,2026-07-04
 barker-henry-george-biography,Henry George,books,https://www.progress.org/wiki/barker-henry-george-biography/,5,7,1557,false,false,2026-07-07
@@ -86,7 +86,7 @@ boldrin-levine-against-intellectual-monopoly,Against Intellectual Monopoly (Bold
 bonnet-land-is-back,"Land is Back, It Should Be Taxed, It Can Be Taxed",research,https://www.progress.org/wiki/bonnet-land-is-back/,29,3,226,false,false,2026-07-12
 boom-bust-cycle,Boom-Bust Cycle,concepts,https://www.progress.org/wiki/boom-bust-cycle/,55,31,2855,false,false,2026-07-04
 borge-rattso-norway-capitalization,Capitalization of Property Taxes in Norway,research,https://www.progress.org/wiki/borge-rattso-norway-capitalization/,4,11,957,false,false,2026-07-11
-borio-financial-cycle,'Borio (2012): The Financial Cycle and Macroeconomics',research,https://www.progress.org/wiki/borio-financial-cycle/,6,12,1126,false,false,
+borio-financial-cycle,'Borio (2012): The Financial Cycle and Macroeconomics',research,https://www.progress.org/wiki/borio-financial-cycle/,7,12,1126,false,false,
 bourassa-pittsburgh-lvt-housing,Bourassa (1987): Land Value Taxation and New Housing Development in Pittsburgh,research,https://www.progress.org/wiki/bourassa-pittsburgh-lvt-housing/,4,5,866,false,false,2026-07-12
 bowman-bell-lvt-distribution,Distributional Consequences of Converting the Property Tax to a Land Value,research,https://www.progress.org/wiki/bowman-bell-lvt-distribution/,8,7,1984,false,false,2026-07-09
 branzoli-caiumi-italy-ace,Branzoli & Caiumi (2020): Italy's Incremental ACE and the Debt Bias,research,https://www.progress.org/wiki/branzoli-caiumi-italy-ace/,6,4,389,false,false,2026-07-12
@@ -130,10 +130,11 @@ churchill-budget-resolutions-1909,"The Budget Resolutions (Churchill, House of C
 churchill-mother-of-monopolies-1909,"The Mother of All Monopolies (Churchill, 1909)",texts,https://www.progress.org/wiki/churchill-mother-of-monopolies-1909/,4,9,3155,false,false,2026-07-07
 churchill-peoples-rights,"Winston Churchill, The People's Rights (1910)",research,https://www.progress.org/wiki/churchill-peoples-rights/,8,8,2542,false,false,2026-07-03
 cib-land-value-capture-study,Land Value Capture Study: Paying for Transit-Oriented Communities,research,https://www.progress.org/wiki/cib-land-value-capture-study/,2,4,1364,false,false,2026-07-16
-citizens-dividend,Citizen's Dividend,concepts,https://www.progress.org/wiki/citizens-dividend/,65,21,1111,false,false,
+citizens-dividend,Citizen's Dividend,concepts,https://www.progress.org/wiki/citizens-dividend/,66,21,1111,false,false,
 citizens-dividend-narrative,Narrative: A Dividend from Common Wealth,narratives,https://www.progress.org/wiki/citizens-dividend-narrative/,8,23,1802,false,false,2026-07-10
 clean-slate-proclamations,Clean Slate Proclamations (Ancient Debt Jubilees),concepts,https://www.progress.org/wiki/clean-slate-proclamations/,2,4,706,true,false,2026-07-12
 cmhc-housing-market-assessment-2021,"CMHC Housing Market Assessment, Canada (September 2021)",research,https://www.progress.org/wiki/cmhc-housing-market-assessment-2021/,2,8,1388,false,false,2026-07-16
+cochrane-finance-function-matters,"'Cochrane (2013): Finance — Function Matters, Not Size'",research,https://www.progress.org/wiki/cochrane-finance-function-matters/,3,9,1676,false,false,
 cohen-coughlin-two-rate-taxation,An Introduction to Two-Rate Taxation of Land and Buildings,research,https://www.progress.org/wiki/cohen-coughlin-two-rate-taxation/,1,6,1545,false,false,2026-07-16
 colburn-aldern-homelessness,'Homelessness Is a Housing Problem: How Structural Factors Explain U.S. Patterns',research,https://www.progress.org/wiki/colburn-aldern-homelessness/,7,5,1036,false,false,2026-07-10
 colin-clark,Colin Clark,people,https://www.progress.org/wiki/colin-clark/,2,5,803,false,false,2026-07-09
@@ -209,7 +210,7 @@ ebenezer-howard,Ebenezer Howard,people,https://www.progress.org/wiki/ebenezer-ho
 ecological-economics-daly,Ecological Economics and the Ecology of Economics: Essays in Criticism,books,https://www.progress.org/wiki/ecological-economics-daly/,6,2,1674,false,false,2026-07-07
 ecological-georgism,Ecological Georgism,concepts,https://www.progress.org/wiki/ecological-georgism/,20,13,667,false,false,
 ecological-rent,Narrative: Green Georgism — Charging for the Earth,narratives,https://www.progress.org/wiki/ecological-rent/,9,22,1725,false,false,2026-07-05
-economic-rent,Economic Rent,concepts,https://www.progress.org/wiki/economic-rent/,195,18,1616,false,false,
+economic-rent,Economic Rent,concepts,https://www.progress.org/wiki/economic-rent/,197,18,1616,false,false,
 economic-theory-in-retrospect,Economic Theory in Retrospect,books,https://www.progress.org/wiki/economic-theory-in-retrospect/,36,13,2849,false,false,2026-07-12
 economics-of-henry-george,The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist,books,https://www.progress.org/wiki/economics-of-henry-george/,5,11,1952,false,false,2026-07-07
 edward-glaeser,Edward L. Glaeser,people,https://www.progress.org/wiki/edward-glaeser/,4,7,1510,false,false,2026-07-04
@@ -234,10 +235,10 @@ fairhope-single-tax-corporation,Fairhope Single Tax Corporation,organizations,ht
 fairlie-short-history-enclosure,A Short History of Enclosure in Britain,research,https://www.progress.org/wiki/fairlie-short-history-enclosure/,8,7,2579,false,false,2026-07-05
 feldstein-incidence-pure-rent,"Feldstein, ""The Surprising Incidence of a Tax on Pure Rent"" — the Portfolio-Shifting",research,https://www.progress.org/wiki/feldstein-incidence-pure-rent/,9,8,1949,false,false,2026-07-11
 fernandez-milan-location-value-taxes,A Systematic Framework of Location Value Taxes Reveals Dismal Policy Design in Most European Countries,research,https://www.progress.org/wiki/fernandez-milan-location-value-taxes/,2,5,1419,false,false,2026-07-16
-finance-growth-is-land-credit,The growth of modern banking is largely mortgage credit against land,problems,https://www.progress.org/wiki/finance-growth-is-land-credit/,22,25,1794,false,false,2026-07-13
+finance-growth-is-land-credit,The growth of modern banking is largely mortgage credit against land,problems,https://www.progress.org/wiki/finance-growth-is-land-credit/,23,26,1900,false,false,2026-07-13
 financialization-of-land,Financialization of Land and Housing,concepts,https://www.progress.org/wiki/financialization-of-land/,3,7,571,false,false,2026-07-11
 fiorentino-moogan-agglomeration,LVT and Urban Agglomeration Dynamics,research,https://www.progress.org/wiki/fiorentino-moogan-agglomeration/,4,3,144,false,false,
-fire-sector,FIRE Sector,concepts,https://www.progress.org/wiki/fire-sector/,28,21,1841,false,false,2026-07-18
+fire-sector,FIRE Sector,concepts,https://www.progress.org/wiki/fire-sector/,30,22,1979,false,false,2026-07-18
 florenz-plassmann,Florenz Plassmann,people,https://www.progress.org/wiki/florenz-plassmann/,2,9,669,false,false,2026-07-05
 florida-land-boom-1920s,Florida Land Boom (1924–26),events,https://www.progress.org/wiki/florida-land-boom-1920s/,2,6,1350,false,false,2026-07-11
 floyd-marinescu,Floyd Marinescu,people,https://www.progress.org/wiki/floyd-marinescu/,2,5,348,false,false,
@@ -286,7 +287,7 @@ garden-cities-of-to-morrow,Garden Cities of To-morrow,books,https://www.progress
 garden-city-movement,The Garden City Movement,concepts,https://www.progress.org/wiki/garden-city-movement/,4,8,1622,false,false,2026-07-11
 gary-flomenhoft,Gary Flomenhoft,people,https://www.progress.org/wiki/gary-flomenhoft/,3,10,759,false,false,
 gemmell-grimes-skidmore-nz,Do Local Property Taxes Affect New Building Development? Results from a Quasi-Natural,research,https://www.progress.org/wiki/gemmell-grimes-skidmore-nz/,11,7,1713,false,false,2026-07-12
-geoism,Geoism,concepts,https://www.progress.org/wiki/geoism/,42,42,743,false,false,2026-07-06
+geoism,Geoism,concepts,https://www.progress.org/wiki/geoism/,44,42,743,false,false,2026-07-06
 geolibertarianism,Geolibertarianism,concepts,https://www.progress.org/wiki/geolibertarianism/,15,17,556,false,false,
 george-bernard-shaw,George Bernard Shaw,people,https://www.progress.org/wiki/george-bernard-shaw/,1,4,312,false,false,2026-07-11
 george-monbiot,George Monbiot,people,https://www.progress.org/wiki/george-monbiot/,2,6,481,false,false,2026-07-06
@@ -302,7 +303,7 @@ glaeser-real-estate-bubbles,A Nation of Gamblers: Real Estate Speculation and Am
 glynn-byrne-culhane-homeless-inflection,"Inflection Points in Community-Level Homeless Rates (Glynn, Byrne & Culhane",research,https://www.progress.org/wiki/glynn-byrne-culhane-homeless-inflection/,2,5,872,false,false,2026-07-11
 gochenour-caplan-search-theoretic,An Entrepreneurial Critique of Georgism (Gochenour & Caplan),research,https://www.progress.org/wiki/gochenour-caplan-search-theoretic/,4,7,2323,false,false,2026-07-12
 goldsmith-alaska-pfd-wealth-distribution,'The Alaska Permanent Fund Dividend: An Experiment in Wealth Distribution',research,https://www.progress.org/wiki/goldsmith-alaska-pfd-wealth-distribution/,7,8,1844,false,false,2026-07-10
-goodhart-stimulus,'Post-Corona Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto,research,https://www.progress.org/wiki/goodhart-stimulus/,8,9,635,false,false,2026-07-11
+goodhart-stimulus,'Post-Corona Balanced-Budget Super-Stimulus: The Case for Shifting Taxes onto,research,https://www.progress.org/wiki/goodhart-stimulus/,9,9,635,false,false,2026-07-11
 gordon-brown,Gordon Brown,people,https://www.progress.org/wiki/gordon-brown/,1,5,520,false,false,2026-07-12
 government-can-tame-the-cycle,Objection: Government Intervention Can Prevent the Land Cycle,objections,https://www.progress.org/wiki/government-can-tame-the-cycle/,4,9,1274,false,false,2026-07-12
 government-granted-privileges,Government-Granted Licences and Privileges,concepts,https://www.progress.org/wiki/government-granted-privileges/,1,10,1041,false,false,2026-07-12
@@ -311,7 +312,7 @@ great-irish-famine,The Great Irish Famine (1845–1852),events,https://www.progr
 great-mortgaging,"The Great Mortgaging: Housing Finance, Crises, and Business Cycles",research,https://www.progress.org/wiki/great-mortgaging/,16,10,1626,false,false,2026-07-12
 great-smoky-mountains-casino-dividend,The Great Smoky Mountains Casino-Dividend Natural Experiment,research,https://www.progress.org/wiki/great-smoky-mountains-casino-dividend/,4,6,2316,false,false,2026-07-18
 green-carbon-pricing-review,Does Carbon Pricing Reduce Emissions? A Review of Ex-Post Analyses (Green),research,https://www.progress.org/wiki/green-carbon-pricing-review/,4,5,599,false,false,2026-07-12
-greenwood-scharfstein-growth-of-finance,'Greenwood & Scharfstein (2013): The Growth of Finance',research,https://www.progress.org/wiki/greenwood-scharfstein-growth-of-finance/,6,7,755,false,false,
+greenwood-scharfstein-growth-of-finance,'Greenwood & Scharfstein (2013): The Growth of Finance',research,https://www.progress.org/wiki/greenwood-scharfstein-growth-of-finance/,7,7,755,false,false,
 ground-rent,Ground Rent,concepts,https://www.progress.org/wiki/ground-rent/,17,18,1376,false,false,2026-07-07
 guettabi-pfd-effects-survey,What do we know about the effects of the Alaska PFD? (Guettabi 2019),research,https://www.progress.org/wiki/guettabi-pfd-effects-survey/,5,6,654,false,false,2026-07-12
 guy-standing,Guy Standing,people,https://www.progress.org/wiki/guy-standing/,4,10,947,false,false,2026-07-10
@@ -414,7 +415,7 @@ karl-marx,Karl Marx,people,https://www.progress.org/wiki/karl-marx/,1,9,717,fals
 karl-widerquist,Karl Widerquist,people,https://www.progress.org/wiki/karl-widerquist/,4,6,221,true,false,2026-07-05
 kerspien-madsen-strulik-buildings-labor-share,Capital Composition and the Decline of the Labor Share: Why Buildings Matter,research,https://www.progress.org/wiki/kerspien-madsen-strulik-buildings-labor-share/,2,6,582,false,false,2026-07-13
 kindleberger-manias-panics-crashes,"Kindleberger & Aliber: Manias, Panics, and Crashes",research,https://www.progress.org/wiki/kindleberger-manias-panics-crashes/,1,5,509,false,false,2026-07-12
-knoll-schularick-steger-house-prices,"No Price Like Home: Global House Prices, 1870–2012",research,https://www.progress.org/wiki/knoll-schularick-steger-house-prices/,32,8,1631,false,false,2026-07-12
+knoll-schularick-steger-house-prices,"No Price Like Home: Global House Prices, 1870–2012",research,https://www.progress.org/wiki/knoll-schularick-steger-house-prices/,33,8,1631,false,false,2026-07-12
 kolbe-berlin-land-value-appraisal,"Land Value Appraisal Using Statistical Methods (Kolbe et al., Berlin)",research,https://www.progress.org/wiki/kolbe-berlin-land-value-appraisal/,9,6,1394,false,false,2026-07-12
 kondratiev-waves,Kondratiev Long Waves,concepts,https://www.progress.org/wiki/kondratiev-waves/,1,4,393,true,false,2026-07-11
 korinek-ng-digital-superstars,Digitization and the Macro-Economics of Superstars,research,https://www.progress.org/wiki/korinek-ng-digital-superstars/,8,12,2334,false,false,2026-07-09
@@ -551,7 +552,7 @@ natural-asset-companies,Natural Asset Companies,concepts,https://www.progress.or
 natural-common-wealth-economic-rent-canada,Natural Common Wealth and Economic Rent in Canada,research,https://www.progress.org/wiki/natural-common-wealth-economic-rent-canada/,11,14,2750,false,false,2026-07-09
 ndspn-cincinnati-lvt-analysis,"Notre Dame SPN — From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio",research,https://www.progress.org/wiki/ndspn-cincinnati-lvt-analysis/,2,14,2374,false,false,2026-07-18
 netherlands,Netherlands,places,https://www.progress.org/wiki/netherlands/,1,5,618,false,false,2026-07-12
-new-economics-foundation,New Economics Foundation,organizations,https://www.progress.org/wiki/new-economics-foundation/,1,5,403,true,false,2026-07-11
+new-economics-foundation,New Economics Foundation,organizations,https://www.progress.org/wiki/new-economics-foundation/,2,6,519,true,false,2026-07-18
 new-south-wales,"New South Wales, Australia",places,https://www.progress.org/wiki/new-south-wales/,12,13,742,false,false,2026-07-11
 new-towns-act-1946,New Towns Act 1946,events,https://www.progress.org/wiki/new-towns-act-1946/,1,4,655,false,false,2026-07-12
 new-york-city,New York City,places,https://www.progress.org/wiki/new-york-city/,2,5,462,false,false,2026-07-11
@@ -597,7 +598,7 @@ phang-toh-singapore-congestion-pricing,'Road Congestion Pricing in Singapore: 19
 phelps-brown-weber-accumulation,"Phelps Brown & Weber (1953): Accumulation, Productivity and Distribution in the British Economy, 1870-1938",research,https://www.progress.org/wiki/phelps-brown-weber-accumulation/,1,4,800,false,false,2026-07-14
 philip-snowden,Philip Snowden,people,https://www.progress.org/wiki/philip-snowden/,1,5,601,false,false,2026-07-12
 philip-wicksteed,Philip Wicksteed,people,https://www.progress.org/wiki/philip-wicksteed/,8,9,478,false,false,2026-07-17
-philippon-finance-efficiency,'Philippon (2015): Has the US Finance Industry Become Less Efficient?',research,https://www.progress.org/wiki/philippon-finance-efficiency/,7,7,539,false,false,
+philippon-finance-efficiency,'Philippon (2015): Has the US Finance Industry Become Less Efficient?',research,https://www.progress.org/wiki/philippon-finance-efficiency/,8,7,539,false,false,
 philippon-great-reversal,'The Great Reversal: How America Gave Up on Free Markets',research,https://www.progress.org/wiki/philippon-great-reversal/,3,7,3037,false,false,2026-07-10
 phillip-bryson,Phillip J. Bryson,people,https://www.progress.org/wiki/phillip-bryson/,4,5,723,false,false,
 phillip-j-anderson,Phillip J. Anderson,people,https://www.progress.org/wiki/phillip-j-anderson/,18,9,1448,false,false,2026-07-06
@@ -623,7 +624,7 @@ portal-objections-answered,Portal: Objections Answered,guides,https://www.progre
 portal-rent-frontier,Portal: The Rent Frontier,guides,https://www.progress.org/wiki/portal-rent-frontier/,12,31,612,false,false,2026-07-12
 portal-tax-design,Tax Design: LVT as Policy Machinery,guides,https://www.progress.org/wiki/portal-tax-design/,12,28,861,false,false,2026-07-12
 portland-oregon,"Portland, Oregon",places,https://www.progress.org/wiki/portland-oregon/,2,6,657,false,false,2026-07-11
-positive-money,Positive Money,organizations,https://www.progress.org/wiki/positive-money/,2,4,351,true,false,2026-07-11
+positive-money,Positive Money,organizations,https://www.progress.org/wiki/positive-money/,4,5,412,true,false,2026-07-18
 posner-weyl-radical-markets,Radical Markets: Uprooting Capitalism and Democracy for a Just Society,books,https://www.progress.org/wiki/posner-weyl-radical-markets/,24,8,2466,false,false,
 power-frerick-excess-returns,'Power & Frerick (2016): Have Excess Returns to Corporations Been Increasing,research,https://www.progress.org/wiki/power-frerick-excess-returns/,5,7,536,false,false,2026-07-06
 pretis-bc-carbon-tax,'Pretis (2022): Does a Carbon Tax Reduce CO2 Emissions? Evidence from British Columbia',research,https://www.progress.org/wiki/pretis-bc-carbon-tax/,1,4,655,false,false,2026-07-13
@@ -670,7 +671,7 @@ rent-revenue-breeds-corruption,"\""Public Rent Collection Breeds Government Corr
 rent-seeking,Rent-Seeking,concepts,https://www.progress.org/wiki/rent-seeking/,43,12,315,false,false,
 rent-seeking-drags-growth,Rent-seeking drags economic growth,problems,https://www.progress.org/wiki/rent-seeking-drags-growth/,11,19,1424,false,false,2026-07-13
 rent-targeting-taxes-reduce-debt-bias,Rent-targeting corporate taxes reduce debt bias without penalizing marginal investment,benefits,https://www.progress.org/wiki/rent-targeting-taxes-reduce-debt-bias/,11,18,1391,false,false,2026-07-13
-rentier,Rentier,concepts,https://www.progress.org/wiki/rentier/,12,31,2345,false,false,2026-07-18
+rentier,Rentier,concepts,https://www.progress.org/wiki/rentier/,13,31,2345,false,false,2026-07-18
 repeal-of-the-corn-laws,Repeal of the Corn Laws (1846),events,https://www.progress.org/wiki/repeal-of-the-corn-laws/,3,5,292,false,false,2026-07-06
 residual-land-valuation,Residual Land Valuation,concepts,https://www.progress.org/wiki/residual-land-valuation/,2,5,618,false,false,2026-07-12
 resource-rent-capture-works,Capturing resource rent works — where institutions are strong,benefits,https://www.progress.org/wiki/resource-rent-capture-works/,17,18,2711,false,false,2026-07-18
@@ -720,6 +721,7 @@ search-theoretic-critique,Objection: The Search-Theoretic Critique of Georgism,o
 sector-model,Sector Model,concepts,https://www.progress.org/wiki/sector-model/,2,8,933,false,false,2026-07-11
 segal-resource-dividend,"'Resource Rents, Redistribution, and Halving Global Poverty: The Resource Dividend'",research,https://www.progress.org/wiki/segal-resource-dividend/,6,8,1932,false,false,2026-07-09
 segu-vacancy-tax-france,'The Impact of Taxing Vacancy on Housing Markets: Evidence from France',research,https://www.progress.org/wiki/segu-vacancy-tax-france/,4,6,484,false,false,2026-07-10
+seigniorage,Seigniorage,concepts,https://www.progress.org/wiki/seigniorage/,3,9,1356,false,false,2026-07-18
 sen-poverty-and-famines,'Sen (1981): Poverty and Famines — An Essay on Entitlement and Deprivation',research,https://www.progress.org/wiki/sen-poverty-and-famines/,1,4,865,false,false,2026-07-13
 sharecropping,Sharecropping,concepts,https://www.progress.org/wiki/sharecropping/,1,5,514,true,false,2026-07-12
 shepheard-walwyn,Shepheard-Walwyn Publishers,organizations,https://www.progress.org/wiki/shepheard-walwyn/,1,9,321,false,false,2026-07-11

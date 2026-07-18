@@ -102,14 +102,22 @@ it is a puzzle consistent with rent, not a measurement of the rent share.
 
 ## The Counter-View
 
-The strongest mainstream reply is Cochrane's: the right question about finance is
-whether it *functions* well, not how large it is — and the size data are consistent
-with rising demand for genuine financial services (asset management,
-liquidity, risk-bearing) rather than with growing extraction.[8] On this reading
-the FIRE grouping itself misleads: insurance is straightforwardly productive,
-much of "real estate" value added is imputed rent on owner-occupied housing, and
-lumping them with banking manufactures a rentier bloc by classification. The wiki
-carries both readings, attributed; the dispute is unresolved in the literature.
+The strongest mainstream reply is [Cochrane's](/wiki/cochrane-finance-function-matters/):
+the right question about finance is whether it *functions* well, not how large it is —
+and the size data are consistent with rising demand for genuine financial services
+(asset management, liquidity, risk-bearing) rather than with growing extraction.[8]
+Cochrane reinterprets Greenwood & Scharfstein's own "quantity up, prices flat" finding
+as an ordinary demand-shift response, not a rent signal, and leans on the Berk–Green
+model of active-management fees — fees rise to fully capture a scarce manager's
+value-added in a competitive market for that skill, which he reads as efficient
+pricing rather than waste. On this reading the FIRE grouping itself misleads: insurance
+is straightforwardly productive, much of "real estate" value added is imputed rent on
+owner-occupied housing, and lumping them with banking manufactures a rentier bloc by
+classification. He does concede that regulation, subsidy, and regulatory capture — not
+finance's sheer size — are "a more fertile fishing ground" for genuine problems, and
+that high-frequency trading is the one activity where his own reading of the evidence
+(the 2010 Flash Crash) leans skeptical of a "genuine service" story. The wiki carries
+both readings, attributed; the dispute is unresolved in the literature.
 
 A second, non-Georgist discipline on the FIRE reading comes from
 [Borio's financial-cycle work](/wiki/borio-financial-cycle/): the BIS account explains
@@ -125,6 +133,7 @@ property prices at the centre of the cycle.
 - [Greenwood & Scharfstein: The Growth of Finance](/wiki/greenwood-scharfstein-growth-of-finance/) · [Bazot: the cost of finance in Europe](/wiki/bazot-cost-of-finance-europe/) — the scale and unit-cost evidence, US and Europe
 
 - [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the peer-reviewed statement of the "finance income is rent" thesis · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the steelman that credit booms are a general monetary phenomenon
+- [Cochrane: Finance — Function Matters, Not Size](/wiki/cochrane-finance-function-matters/) — the steelman that finance's growth reflects genuine services, not rent capture
 
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
 - [Progress and Poverty (full text)](/wiki/progress-and-poverty-full-text/) — George's 1879 "spurious capital" chapter, the historical antecedent above
@@ -179,9 +188,11 @@ property prices at the centre of the cycle.
    Harvard University Press, 2011 — used
    for the portfolio-income measurements and the policy-origins account (B-claims).
 8. John H. Cochrane, "Finance: Function Matters, Not Size," *Journal of Economic
-   Perspectives* 27(2), 2013, pp. 29–50.
-   [Open access (AEA)](https://www.aeaweb.org/articles?id=10.1257/jep.27.2.29) —
-   used as the strongest citable counter-view (E-claim).
+   Perspectives* 27(2), 2013, pp. 29–50 — used as the strongest citable counter-view
+   (E-claim; full paper read and paged this session).
+   [wiki summary](/wiki/cochrane-finance-function-matters/) ·
+   [Author PDF](https://johnhcochrane.com/s/Cochrane_jep_function_size_final.pdf) ·
+   [Open access (AEA)](https://www.aeaweb.org/articles?id=10.1257/jep.27.2.29)
 9. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book III, Ch. IV
    ("Of Spurious Capital and of Profits Often Mistaken for Interest") — used for the
    1879 antecedent of the "fictitious capital" framing: government bonds and watered

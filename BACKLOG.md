@@ -193,10 +193,27 @@ provenance — do not re-plan.]**
       (d) is-it-rent diagnosis update (Furman Review, Korinek-Stiglitz AI rents). THEN the
       gated synthesis: concepts/taxing-tech-rents instrument comparison (ACE/DBCFT vs DST vs
       ad tax vs data dividend vs antitrust, graded). Rent-gradient rule applies hardest here.
-- [ ] [FIND] tier:T2 status:todo — WS-GEOISM remaining domain sweep: financial rents &
-      seigniorage (Hudson, Bezemer, Philippon, BIS/Borio steelman — honest FIRE grading);
-      plus the IP-rents remainder (Boldrin-Levine, prize-vs-patent) to finish the
-      platform/data/IP lane (concepts/data-rents already live).
+- [x] [FIND] tier:T2 status:done (2026-07-18) — WS-GEOISM financial-rents & seigniorage
+      domain sweep. Inventory found the domain already substantially built (Hudson,
+      Bezemer×2, Philippon×2, Borio, Greenwood-Scharfstein, Bazot, Lapavitsas all had
+      research/ pages; fire-sector.md and finance-growth-is-land-credit.md existed).
+      Gaps filled: (1) Philippon (2015) unit-cost page — already existed, verified
+      complete, no action needed. (2) Cochrane (2013) "Finance: Function Matters, Not
+      Size" — was a Light-scanned registry row cited only as a footnote; read in full
+      and given its own page `research/cochrane-finance-function-matters.md` (tier
+      Important), the wiki's honest steelman for "finance's growth reflects genuine
+      services, not rent," wired as `challenged_by` into
+      problems/finance-growth-is-land-credit.md and into concepts/fire-sector.md.
+      (3) Seigniorage — no coverage existed; assessed and accepted (Huber & Robertson's
+      NEF report explicitly cites Mason Gaffney and models itself on Georgist land-rent
+      logic — a genuine Georgism-adjacent gap, not scope creep). New page
+      concepts/seigniorage.md, wired into bank-money-creation.md, positive-money.md,
+      new-economics-foundation.md. Lint 0 errors/850→851 pages. Registry rows added
+      (Huber-Robertson, Beneš-Kumhof) and Cochrane row upgraded Light→Heavy. **IP-rents
+      remainder (Boldrin-Levine, prize-vs-patent) NOT done — split out below, still open.**
+- [ ] [FIND] tier:T2 status:todo — WS-GEOISM IP-rents remainder: Boldrin-Levine
+      (*Against Intellectual Monopoly*) and the prize-vs-patent literature, to finish
+      the platform/data/IP lane (concepts/data-rents already live).
 - [x] [READ&MINE] tier:T2 status:done (verified 2026-07-15, session 2z2oww) —
       research/foldvary-reply-gochenour-caplan exists and is fully wired
       (bears_on: search-theoretic-critique + lvt-austrian-critique; registry row 515;

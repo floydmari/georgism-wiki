@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, banking, credit, money-supply, mortgage, finance, land]
 stub: false
 excerpt: "Most of the money supply in modern economies is created not by central banks but by commercial banks, as a byproduct of lending — and that lending is disproportionately secured against real estate, tying money creation directly to land value."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -17,6 +17,8 @@ This matters for the Georgist case because bank lending is not spread evenly acr
 
 If the dominant channel of money creation is lending against land, then the banking system's ordinary operation — not merely speculative excess — has a structural tendency to inflate land prices and expand private debt in tandem. This connects bank money creation to the wiki's [FIRE sector](/wiki/fire-sector/) analysis and to the [boom-bust cycle](/wiki/boom-bust-cycle/) literature, where credit-financed land speculation is a recurring driver of financial instability. A [land value tax](/wiki/land-value-tax/), by taxing away the speculative capital gain in land, would reduce the collateral value that this credit-creation mechanism capitalises — though this is a Georgist policy inference rather than a claim made by the Bank of England or the standard monetary-economics literature cited here (rent-gradient caveat: the mainstream sources below describe how money is created and where it flows; they do not themselves argue for land value taxation).
 
+A separate, more contested strand of monetary reform reads this same mechanism through a rent lens directly: because a bank's cost of creating deposit money is near zero, sovereign-money reformers (Huber & Robertson; the campaign group [Positive Money](/wiki/positive-money/)) argue commercial banks capture a form of [seigniorage](/wiki/seigniorage/) — the profit from issuing money — that would otherwise be public revenue. That argument is explicitly modeled on Georgist land-rent-capture logic (its foundational report cites Mason Gaffney directly) but is advocacy-grade and mainstream-contested, not a settled empirical finding; see the seigniorage page's Honest Limits for the dispute.
+
 ## See Also
 
 - [The Great Mortgaging](/wiki/great-mortgaging/) — the long-run data on mortgage credit's rising share of bank lending
@@ -24,6 +26,7 @@ If the dominant channel of money creation is lending against land, then the bank
 - [FIRE Sector](/wiki/fire-sector/) — the broader finance/insurance/real-estate framing
 - [Josh Ryan-Collins](/wiki/josh-ryan-collins/) · [Rethinking the Economics of Land and Housing](/wiki/ryan-collins-rethinking-land-housing/) — the land–credit feedback loop
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the cyclical consequences of credit flowing into land
+- [Seigniorage](/wiki/seigniorage/) — the contested case that commercial money creation itself is a captured public rent
 
 ## Sources
 
