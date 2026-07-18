@@ -1311,3 +1311,25 @@ deliberate VERIFY flags all narrowly scoped (Vickrey/Consigny original not locat
 OCR-poor pages not quoted; correspondence unchecked; Part I circulation history
 untouched/out of scope). Triage ledger row checked off. Registry +1 row (Part II).
 863 pages, lint 0 errors. Task #28 wave complete — WS-TECH-RENTS synthesis next.
+
+## 2026-07-18 (cont.) — Wave: WS-TECH-RENTS GATED SYNTHESIS (T1) — lane COMPLETE
+
+The instrument-comparison revision, graded at T1 per the model directive. Decisions:
+(1) DST's D STANDS, now with independent corroboration — Korinek-Lockwood's
+classification of the DST as consumption-tax-like is convergent, not contrary
+(both frameworks agree the platform doesn't bear it; "efficient consumption tax"
+and "failed rent tax" are the same fact viewed from different questions) —
+reconciliation note added to §2. (2) NEW FAMILY §6: AI-specific taxes
+(compute/token/robot) graded D-provisional — input taxes in rent-tax clothing,
+deferred even by their friendliest analysts (K-L: services-variants pattern as
+consumption taxes, ownership/compute variants are capital taxes to defer);
+taxing inputs before the rent arrives is the REVERSE of the Georgist sequence.
+(3) NEW FAMILY §7: public equity stakes (SWF/windfall clause/UBC) INCLUDED and
+graded B-minus — the only incidence-proof instrument in the table (an equity
+claim reprices nothing), Alaska Permanent Fund as the real precedent, but the
+fair-value-acquisition trap stated plainly (buying equity at market price
+captures no rent — same trap as buying land to "capture" its rent; Alaska worked
+because the state already owned the oil). Grades table now 7 rows + K-L
+cross-check note; patents-exclusion heading retitled (numbering went stale);
+AI coda hand-off line closed out; honest-limits bullet extended. 863 pages,
+lint 0 errors. WS-TECH-RENTS lane (a,b,c,d + synthesis) is DONE.

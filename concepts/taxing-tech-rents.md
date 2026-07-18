@@ -75,7 +75,7 @@ return that motivated an invention is not free to tax the way a location windfal
 here are grades on **aim and incidence**, not verdicts that the rents are large or that
 capture is warranted.
 
-## Why Patents Aren't a Sixth Family Here
+## Why Patents Aren't a Family in This Table
 
 Patents and copyright are the other government-created rent this wiki treats as frontier —
 see [Intellectual-Property Rents](/wiki/ip-rents/) — and the same capture-vs-dissolve split
@@ -83,7 +83,7 @@ shows up there: [Kremer's patent-buyout mechanism](/wiki/prizes-vs-patents/) is 
 state buys the rent at auction-revealed value and puts the invention in the public domain),
 and [Boldrin & Levine's abolitionist case](/wiki/boldrin-levine-against-intellectual-monopoly/)
 is dissolve (deny the monopoly ever needed granting). It is tempting to fold IP into the table
-below as a sixth instrument family; this page's judgment is not to. **What generates the rent
+below as another instrument family; this page's judgment is not to. **What generates the rent
 differs in kind.** Platform rent (this page) comes from a *structural* moat — network effects,
 accumulated data, gatekeeping — that exists whether or not government acts on it; that is why
 antitrust and interoperability can dissolve it without touching a statute. Patent rent exists
@@ -107,10 +107,15 @@ which both domains answer to but in different ways).
 | **Romer's progressive ad tax** | Capture / dissolve | Targets the ad *business model*, not rent per se | Author does not mind pass-through; point is behavioural | Untested; DST record is the caution | **C — a Pigouvian/antitrust device in fiscal clothing** |
 | **Data dividends / data-as-labor** | Capture | Prices the unpaid input | Unknown — valuation unsolved | Untested; theoretical | **C-minus — right diagnosis, no working design** |
 | **Antitrust / DMA / interoperability** | Dissolve | Attacks the moat, not the profit | Raises no revenue; success = rent competed away | In force (DMA); effectiveness unproven | **B for dissolve — legislated, sidesteps quasi-rent, unproven** |
+| **AI-specific taxes (compute / token / robot)** | Capture | No — they tax inputs and machines, not realized rent | Input taxes are the classic pass-through case | Proposals only; no enactment anywhere | **D provisional — input taxes in rent-tax clothing, deferred even by their friendliest analysts** |
+| **Public equity stakes (SWF / windfall clause / UBC)** | Capture via ownership | Source-blind, like ACE — dividends catch whatever profit materialises | Cannot be passed through — an equity claim reprices nothing | Alaska Permanent Fund as the non-tech precedent; no tech implementation | **B-minus — incidence-proof by construction, fair-value acquisition unsolved** |
 
 The grades are the wiki's analysis, not a source's ranking. They read the instruments
 against the Geoist ideal — reach the rent, leave the incentive — and none clears it the way
-an [LVT](/wiki/land-value-tax/) does on land.
+an [LVT](/wiki/land-value-tax/) does on land. One independent cross-check now exists:
+[Korinek & Lockwood (2026)](/wiki/korinek-lockwood-ai-public-finance/) map the same
+instrument space onto capital-vs-consumption-tax logic, and where the two frameworks meet
+they agree — see the reconciliation notes in §§2 and 6 below.[22]
 
 ## 1. Rent-Targeting Corporate Tax Bases (ACE / DBCFT) — B
 
@@ -200,6 +205,14 @@ of a June 2025 Trump ultimatum, France's attempts to raise its own rate have twi
 a blanket 100% tariff threat against any country's DST was renewed in June 2026.[19] See
 [Digital Services Taxes as Actually Implemented](/wiki/digital-services-taxes/) for the full
 country-by-country revenue and incidence record this synthesis draws on.
+
+**An independent framework lands in the same place.** Korinek & Lockwood's optimal-taxation
+primer classifies the DST not as a rent tax at all but as functioning like a **consumption
+tax** — reasonably efficient *as such*, precisely because the burden ends up on users rather
+than the platform.[22] That is convergent with, not contrary to, this page's D: both readings
+say the platform does not bear it. Whether that is acceptable depends entirely on what the tax
+was for — as revenue-raising it is defensible; as *rent capture*, the stated purpose of every
+DST enacted, it fails by the friendliest available account as well as by the empirical one.
 
 ## 3. Romer's Progressive Digital-Advertising Tax — C
 
@@ -319,6 +332,52 @@ case) — deserves equal weight. See
 [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/)
 for the full record, argued both ways.
 
+## 6. AI-Specific Taxes — Compute, Token, and Robot Taxes — D (provisional)
+
+The newest proposal family taxes the *inputs* of the AI economy directly: levies on compute
+(GPU-hours or training runs), per-token charges on model usage, and "robot taxes" on machines
+that displace workers. None has been enacted anywhere; the grade is necessarily provisional.
+
+**Why they grade poorly on aim.** Each taxes an input or an asset, not a realized rent, and
+an input tax is the classic pass-through case — the DST record (§2) is the direct warning,
+since a DST is itself a gross levy on an input-side proxy. The sharpest available analysis is
+also the friendliest: [Korinek & Lockwood (2026)](/wiki/korinek-lockwood-ai-public-finance/)
+sort the family by what each instrument economically *is* — a tax on robot **services** patterns
+like a consumption tax (tolerable), while taxes on compute or robot **ownership** are capital
+taxes that discourage exactly the investment they sit on, which even these authors — writing
+sympathetically about redistribution in an AI economy — recommend deferring unless and until
+labour's share collapses in an AGI-dominated economy.[22] When a proposal's own best-case
+academic treatment says "not yet, and not in this form," the wiki has no basis to grade higher.
+The rent these taxes are gestured at — the moat [Korinek & Vipra](/wiki/korinek-vipra-ai-concentration/)
+specify — had, on their own market evidence, not yet produced realized monopoly pricing.[21]
+Taxing the inputs *before* the rent arrives is the reverse of the Georgist sequence, which
+taxes the realized surplus of a fixed factor and leaves inputs alone.
+
+## 7. Public Equity Stakes — Sovereign Wealth Funds, Windfall Clauses, Universal Basic Capital — B-minus
+
+The last family is not a tax: the public takes an **ownership share** and receives whatever
+dividends materialise. Korinek & Lockwood treat sovereign-wealth funds, "windfall clauses"
+(pre-commitments by AI firms to share extreme profits), and Universal Basic Capital —
+distributing equity claims broadly — as a distinct instrument class, and this page's judgment
+is to include it, because it alone dissolves the problem that sank the DST.[22]
+
+**Why it grades B-minus.** An equity stake is **incidence-proof by construction**: a levy
+changes a platform's cost function, so the platform re-prices and shifts it (§2); a dividend
+claim changes nothing about pricing — the public simply owns part of whatever profit occurs,
+rent or quasi-rent alike. It is source-blind in the same way as an ACE (a limit on aim, a
+virtue for administrability), and it has the family's only strong real-world precedent in the
+[Alaska Permanent Fund](/wiki/alaska-permanent-fund/) — resource rent converted into a
+diversified public endowment paying a [citizen's dividend](/wiki/citizens-dividend/) for four
+decades, the wiki's best-evidenced capture success outside land. The deductions are equally
+real: **no tech implementation exists**; a fund that *buys* platform equity at market price
+captures no rent at all (the price already capitalises the expected profits — the public pays
+full value for what it receives, the same trap as buying land at market price to "capture" its
+rent); so everything turns on acquiring the stake below the rent-inclusive price — windfall
+clauses (voluntary, untested, unenforceable so far) and conditioning grants of public
+resources (data, spectrum, contracts) on equity are the live designs, none proven. The Alaska
+precedent also cuts only partway: the state *already owned* the oil before leasing it, which
+is precisely the acquisition step no state has solved for platforms it does not own.[22]
+
 ## The AI Coda — Where the Whole File Is Heading
 
 [Korinek & Stiglitz (2017)](/wiki/korinek-stiglitz-ai-rents/) supply the strongest mainstream
@@ -349,8 +408,9 @@ datasets" heavily, exempt the normal return — is the wiki's own [law of rent](
 logic, arrived at independently, and mapped directly onto the live AI-tax proposals (compute,
 token, robot, digital-services taxes) this page grades. **Neither paper resolves the is-it-rent
 question; both narrow it** — one by pinning down the mechanism and showing it has not yet fired,
-the other by supplying the tax-design vocabulary the next revision of this page's instrument
-table should use.
+the other by supplying the tax-design vocabulary this page's instrument table now uses: §§6–7
+above grade the AI-specific tax family and the public-equity-stake family against it, and §2
+records where their classification of the DST converges with the wiki's own.
 
 ## Counter-Evidence and Honest Limits
 
@@ -369,7 +429,10 @@ table should use.
 - **Capture and dissolve are not free lunches either way.** Rent-targeting corporate taxes are
   politically fragile (universal ACE repeal) and their platform incidence is untested;
   interoperability raises no revenue and strains security (end-to-end encryption); data
-  dividends have no working valuation method.[9][15]
+  dividends have no working valuation method; AI-input taxes exist only on paper and are
+  deferred even by their friendliest analysts; and the equity-stake family, though
+  incidence-proof, has no solved mechanism for acquiring the stake below the rent-inclusive
+  market price.[9][15][22]
 - **No instrument here approaches the land case.** For land the wiki can point to fixed supply,
   non-shiftable incidence, and a century of evidence. For platforms it can point to a durable
   position (well evidenced), a disputed rent share (unresolved), and instruments that are
