@@ -8,7 +8,7 @@ evidence_strength: "Strong (two decades-to-generation-long real-world dividends 
 supported_by: [jones-marinescu-alaska-pfd, guettabi-pfd-effects-survey, goldsmith-alaska-pfd-wealth-distribution, great-smoky-mountains-casino-dividend, segal-resource-dividend, marica-brazil-basic-income, widerquist-howard-pfd, hartwick-rule]
 excerpt: "Alaska's decades-long Permanent Fund Dividend shows that capturing natural-resource rent and distributing it as a citizen's dividend is administratively and politically durable — and it is no longer the only case: the Cherokee casino dividend has run since 1996 and Maricá, Brazil now pays an oil-royalty dividend."
 challenged_by: [martinez-colombia-resource-rents]
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 ---
 
 > **At a glance** — Capturing a natural resource's rent and paying it out as an equal per-capita dividend is administratively simple and politically durable — Alaska's dividend has run continuously since 1982 across four decades and changing administrations.
@@ -35,7 +35,7 @@ Alaska is the closest large-scale, long-running proof of concept for the Georgis
 
 ## Caveats
 
-Alaska is not the sole long-running per-capita dividend from a co-owned asset. The [Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) documents the Eastern Band of Cherokee Indians distributing an equal per-capita share of casino profits to every tribal member every six months since 1996 — an unconditional common-asset dividend that, like Alaska's, ran durably and showed no detectable labor-supply withdrawal (Akee et al. 2010), while also improving recipients' children's long-run outcomes. (The underlying rent is gaming/monopoly rent rather than resource rent, but the distributive mechanism is the same.)
+Alaska is not the sole long-running per-capita dividend from a co-owned asset. The [Great Smoky Mountains casino-dividend natural experiment](/wiki/great-smoky-mountains-casino-dividend/) documents the Eastern Band of Cherokee Indians distributing an equal per-capita share of casino profits to every tribal member every six months since 1996 — an unconditional common-asset dividend that, like Alaska's, ran durably and showed no detectable labor-supply withdrawal (Akee et al. 2010), while also improving recipients' children's long-run outcomes, including personality-trait and psychiatric-symptom measures through age 16 (Akee, Simeonova, Costello & Copeland 2018). (The underlying rent is gaming/monopoly rent rather than resource rent, but the distributive mechanism is the same.)
 
 And the model is no longer confined to rich or isolated economies. [Maricá, Brazil](/wiki/marica-brazil-basic-income/) has, since the mid-2010s, paid a permanent, unconditional, per-capita dividend funded from **oil royalties** channelled through a municipal sovereign fund (the *Fundo Soberano de Maricá*) — now the largest basic income in Latin America. [Balakrishnan, Costa, Haushofer & Waltenberg (2024, NBER)](/wiki/marica-brazil-basic-income/) find recipients' household income rose about 9% and consumption 5%. The measured effects are modest and the design quasi-experimental, but Maricá establishes that the capture-and-distribute mechanism operates durably in a large middle-income country — direct evidence against the objection that Alaska's dividend is a curiosity of oil wealth and a small, homogeneous population.
 

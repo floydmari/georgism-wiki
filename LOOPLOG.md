@@ -1000,3 +1000,21 @@ gained: 'Taxed Out of Work and Wealth' pp.146-174; $7tn row stays open). Archive
 sweep: +62 preservation copies (254 archived total, 334+MB private). 842 pages, lint 0.
 Process note: git add -A swept one agent's in-flight edits into a sibling commit
 (verified correct, no damage) — explicit file lists are now the rule while agents run.
+
+## 2026-07-18 — Wave: P&P DEEPEN-SCAN COMPLETE (all 10 books) + Cherokee primaries + Cincinnati
+
+P&P full-text deepen-scan finished across three slices: 20 pages enriched with verbatim
+Book/Chapter-cited primary material, 0 new pages needed (coverage validated). Highlights:
+canons page now quotes George's actual per-canon application; cycles narrative quotes the
+Book V mechanism; transition-shock carries George's harder no-compensation line contrasted
+with modern phase-ins; wages-fund out of stub; T1 wired the Book IV 'rent would take
+everything' limiting case into taxing-tech-rents as the 145-yr AI-rents antecedent.
+Registry Scan Depth Medium->Heavy. Uncovered candidates logged (Spencer Social Statics,
+Book VIII ch.I, spurious capital, Book X ch.IV decline mechanism).
+Cherokee casino-dividend: primaries genuinely read (Akee 2010 full via PMC; 2018 via NBER
+WP; Costello 2003 abstract-only, honestly graded) — and a prior-session fabrication caught
+& corrected ('$6,000 by 2001' unconfirmable; 'fetched and read' overstated). 2018
+personality-trait effects added. Top needs-new-source item closed.
+Cincinnati queue scan: NDSPN report ingested (supplementary), queue item consumed;
+sources/wiki-queue.json established as canonical committed intake.
+843 pages, lint 0 errors.

@@ -109,10 +109,20 @@ provenance — do not re-plan.]**
       biggest lane: triage each into a channel or resolve directly. Recent pace: 4–8
       markers/wave (waves 10–11). Channels snapshot: owner-input 2 · book-copy 8 ·
       unblocked-web 23 · new-source 6 · unclassified 82. Queue file is ground truth.
-- [ ] [FIND] tier:T2 status:todo — the 6 **needs-new-source** markers each want a forage
-      task; top: Cherokee casino-dividend primary (Costello/Akee line — do NOT cite from
-      memory; feeds resource-rent-dividends-work AND benefit 10), Letchworth empirical data,
-      COST self-assessment evidence, symmetry/decrement objection's best academic statement.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — Cherokee casino-dividend primary
+      (Costello/Akee line) resolved via genuine source-by-source access check, not memory:
+      Costello et al. (2003, *JAMA*) is paywalled (Cloudflare-gated, Unpaywall closed, no
+      free mirror) — only the full structured PubMed/Europe PMC abstract (with exact
+      numbers/odds ratios) is verified; Akee et al. (2010, *AEJ:App*) full text read free via
+      PMC author manuscript; Akee, Simeonova, Costello & Copeland (2018, *AER*) read free via
+      NBER WP 21562 (new — adds personality-trait/psychiatric-symptom findings through age
+      16). An unverifiable "$6,000-by-2001" figure from the prior draft was removed.
+      research/great-smoky-mountains-casino-dividend.md rebuilt with an Access Level section;
+      registry.csv rows corrected (Costello Scan Depth Deep→Medium, Akee 2010 Deep→Heavy,
+      new Akee 2018 row added); wired into resource-rent-dividends-work.md and
+      rent-dividends-reduce-poverty.md. Remaining 5 needs-new-source markers (Letchworth
+      empirical data, COST self-assessment evidence, symmetry/decrement objection's best
+      academic statement, + 2 others) still open.
 
 ### Public-domain texts program (sources/public-domain-texts.md; 12 texts/ pages live)
 - [ ] [READ&MINE] tier:T2 status:todo — NEXT TARGET: Henry George Jr., *The Life of Henry
