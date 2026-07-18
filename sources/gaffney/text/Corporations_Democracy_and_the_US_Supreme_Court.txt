@@ -1,0 +1,436 @@
+Corporations, Democracy, and the U. S. Supreme Court
+Mason Gaffney, February 24, 2010
+
+On Jan 21 2010 our High Court shocked Americans by ruling in Citizens United v. Federal
+Elections Commission that a corporation may contribute unlimited funds advertising its views for
+and against political candidates of its choice — in practice, the choice of its CEO or Directors.
+The ideas behind this are that a corporation is a “legal person”, with all the rights (if not all the
+duties) of a human being; that as such it has a right of free speech; and that donating money is a
+form of speech. Already K&L Gates, a top Washington lobbying firm, is advising its clients how
+to funnel money through lobbying groups or “trade associations”. This culminates a long series
+of actions and reactions (decisions, legislative acts, and electoral results) that bit by bit have
+raised the power of corporations in American economic and public life. Herein I will take the fall
+of the corporate income tax as a simple metric of the power of corporations. Nothing about
+corporations is that simple, however, so I must also touch on other aspects of power.
+
+Some critics react apocalyptically, calling Citizens United a death blow to democracy; some
+cynically, calling this merely making de jure what is already de facto; some legalistically, saying
+the Court ruled more broadly than justified by the case brought before it. Supporters, naturally,
+take this contentedly as righting an injustice of long standing. Some economists would applaud
+this as a step toward sunsetting the corporate income tax, by electing more candidates beholden
+to corporate money. Many of them — not all — have been seeking this end for years in their
+learned journals and op-eds. Even the late Wm Vickrey, otherwise an egalitarian, gave high
+priority to this change.
+
+This writer does not applaud either sunsetting the tax, or this step. I agree with Joseph Stiglitz
+that the corporate income tax is mainly a tax on economic rent. That means that a high tax rate
+does not destroy the tax base. Martin Feldstein, an economist who is as conservative as Stiglitz is
+liberal, also sees the corporate income tax as a tax on economic rent (JPE 85(2); April 1977, p.
+357). It is not the ideal form of such a tax, but it beats any tax on work, or sales of the necessities
+of the poor, or value-added, or gross sales. Both Vickrey and Stiglitz rate high in the profession
+and garnered Nobels, so we cannot simply appeal to “authorities”. To prepare our minds, let us
+review some milestones in the history of corporations, especially in America.
+
+This is not a paper on the theory of tax incidence. Such a paper is needed, but would take a
+heavy tome, most of it devoted to fine-spun and pretentious theories that appear in academic
+journals, and which fail to convince because the authors are weak on distinguishing land from
+capital. My own postulates here, in brief, are 1) that corporations own a large fraction of the
+wealth in the country; 2) much of that wealth is land; 3) taxes that do fall on capital are in part
+shifted to land; 4) pure land taxes would be better but are not the subject here; and 5) payroll
+taxes are worse and must bear most of the burdens that are shifted off corporations.
+
+Roman Law knew no such thing as corporate personhood. It grew in Europe after the 12"
+Century, to be used by bodies both civil (cities and guilds) and ecclesiastical, including
+universities. “The church” was a huge set of interlocking corporate bodies. Being immortal,
+corporations would progressively agglomerate land and power, leading to restrictions like the
+English Statutes of Mortmain (1279 and 1290), and direct attacks like confiscations as by Henry
+VIII. So when America rebelled in 1776, Europe had had long experience with corporations and
+relevant law.
+England, when it was our “mother country”, gave the East India Company extraordinary
+powers. It was a private corporation acting as the “chosen instrument” of the Crown. Others may
+investigate which of these powers co-opted the other, but they were a strong combination. The
+Company’s powers included the governance of India, supported by the royal military; and a
+monopoly of tea export, enforced by the British Navy. Americans’ early experience with this
+monopoly corporation was hostile: we were its angry exploited customer. Its monopoly power,
+coupled with Lord North’s excise tax on tea, led of course to the “Boston Tea Party”, an event
+that modern “tea-baggers” seriously misinterpret as they use it as a symbol to use against all
+taxes. While they are at it they may unthinkingly support politicians who support corporate
+monopolies. And yet, “It was the danger of this (tea) monopoly rather than the tax itself, only 5
+pence to the pound, that aroused resentment in the colonies” (Henry Steele Commager, Spirit of
+Seventy-six).
+
+Some of the original 13 colonies were founded by chartered companies resembling
+corporations, with powers to grant land. A goal of the American Revolution was to strip these
+original governments of their corporate powers , and redistribute lands they had granted to their
+favorites. Descendants of these dispossessed Loyalists and Tories, many living in Canada,
+occasionally still remind us that we should compensate them as a matter of “honor”. Data are
+vague, and historians coy on the matter, but something like 1/3 of all early colonial land titles
+changed hands in this period. Hostility ran unusually high: in later wars the winning Americans
+have rarely confiscated the lands of the losers — unless they were Indians, and not always then.
+(But see Chandler, Alfred, Land Titles: a Tale of Force and Fraud, and J. Franklin Jameson, The
+Revolution as a Social Movement.) If the Dutch-granted “patroon” spreads in the Hudson Valley
+survived there were special reasons: British troops dominated the lower Valley; Holland became
+our ally and financial angel during the war; and Robert Livingston, a major landholder, was an
+influential Revolutionist himself. It was not the national government that confiscated Tory lands,
+but independent local militia seizing the occasion. Our “Minute Men” were the guerillas then.
+“The Revolution was in the hearts and minds of men.” — John Adams. The British controlled
+many major cities, but militia controlled the countryside, and made the most of it.
+
+“The girls in Boston are dancin’ tonight; the gol-durned redcoats are holdin’ ‘em tight
+When we git there we’ll show them how, but that ain’t a-doin’ us no good now”
+
+What did “do them good” and motivate the militia was seizing lands from Tories. The
+Continental Congress had little tax power. Its currency fell to 2 cents on the dollar, and was “not
+worth a continental”. Commander George Washington lost every battle against the redcoats until
+Yorktown. He was elsewhere when the Green Mountain Boys, organized to validate their
+“Wentworth” land grants, enabled General Horatio Gates to turn the tide at Saratoga:
+
+“Johnny Burgoyne in the wilderness, got his army in an awful mess
+The farmers got mad at the British and the Huns, and captured ten thousand son-of-a-
+guns”
+
+It was southern militia that drove Cormwallis into his refuge at Yorktown:
+
+“General Washington and Rochambeau, drinking their wine by the firelight’s glow,
+Big Dan Morgan come a-gallopin’ in, we got Cornwallis in the old cowpen”
+— (Soldiers’ Joy)
+(On a personal note, the site of the Battle of Cowpens is Gaffney, SC. ) Even at Yorktown, de
+Grasse’s French fleet and Rochambeau’s French troops and Parisian money played major roles,
+along with LaFayette, Polish Pulaski and German von Steuben.
+
+After the Revolution, naturally, Americans were not eager to restore the authority of colonial
+corporations. A common attitude in this era was that corporations are not persons because “They
+have neither souls to be damned nor bodies to be kicked”: they are outside and above social
+sanctions, sacred or profane. Corporations are “soulless”, and their directors’ only social
+responsibility is to the shareholders (or, as it often turns out, to themselves and their top brass).
+
+The U.S. Constitution did not mention corporations, pro or con, and left them to be chartered
+by the states, as they still are. It has been the U.S.S.C., using its power of judicial review, that
+gradually built up corporate power (even though the 5"Amendment limits Federal, not state
+powers). The Constitution does not mention judicial review, either — it is a power that the Court
+under Chief Justice John Marshall gradually assumed from an early date and has made into a
+tradition, step by step. A leading case is Marbury v. Madison, 1803. Marshall was a Federalist
+politician and a disciple of Alexander Hamilton, whose chief concern was upholding “property”,
+including property in land and slaves. He had been Secretary of State under President John
+Adams. Adams when a lame duck appointed him as Chief Justice in order to offset the victory of
+Thomas Jefferson and his popular party — not that Jefferson in power was as radical as the
+ringing words he wrote. Marshall was wily and took power effectively over a long tenure, 1801-
+35. His was the original “Activist Court” that propertied people have supported until it briefly
+became a pejorative to be used against the Warren Court.
+
+The next milestone was the decision in Trustees of Dartmouth College v. Woodward, 1819.
+The Governor of New Hampshire, William Plumer, and his Legislature sought to take control of
+Dartmouth College to turn it from an elite private institution into a public university for a wider
+student body. Dartmouth had been founded by Eleazar Wheelock in 1769 under a corporate
+Charter from King George III — not a popular name in America. The original purpose was to
+“save” and instruct the Indians in European ways like drinking rum and privatizing lands.
+
+Oh, Eleazar Wheelock was a very pious man;
+
+He went into the wilderness to teach the Indian,
+
+With a gradus and a Parnassum, a Bible, and a drum,
+
+And five hundred gallons of New England rum. — (Dartmouth student song)
+
+Governor Plumer believed that the Revolution had transferred sovereignty from the King to
+American legislatures, so he might take control by appointing new trustees.
+
+Daniel Webster, representing the trustees, prevailed upon John Marshall to validate King
+George’s charter on the grounds that a privilege, once given, was a contract in perpetuity and
+could not be withdrawn —lawyers may cavil over the wording. The effect on academic freedom
+was to subject faculty members completely to the will of self-perpetuating boards of trustees, a
+matter covered in this writer’s The Corruption of Economics. The effect on privileges was to
+give them sanctity (a theological concept), however they originated and whatever damage they
+do to society at large. Before that the grant of a corporate charter was seen as a privilege, not a
+right; it was a license, not property, something more like your drivers’ license, or a license to sell
+liquor or cut hair. It was subject to conditions, and revocable without compensation. After
+Dartmouth it had the best of both worlds: it was still not taxable as property, but otherwise
+protected under the 5"and later 14° Amendments.
+The next milestone was in 1832 when Andrew Jackson defied the High Court in Worcester v.
+Georgia. Apparently Jackson never actually said “John Marshall has made his decision, now let
+him enforce it”, as often quoted, but that was the idea. Jackson was morally wrong, by modern
+values — he and Georgia aimed to force the Cherokees from their ancient homeland. Marshall
+was probably more concerned with the principle of upholding ancient land tenures than with
+helping the Cherokee people. The point for us here is that Jackson prevailed, after various face-
+saving moves, demonstrating that a strong assertive President can face down a Chief Justice
+when he thinks the stakes are high enough. This is relevant today, when Citizens United has
+suddenly raised the stakes high enough indeed.
+
+The next legal milestone was the dreadful Dred Scott decision by Roger Taney’s Court, 1857.
+Dred Scott demonstrated two things we should note today. One is the tendency of the Court, left
+to its own devices, to uphold “property rights” of whatever kind, even in human flesh, in
+disregard of human rights like personal freedom. The other is the tendency of median Americans
+to react against the Court when it overreaches.
+
+The reaction to Dred Scott produced, besides an awful war, The Emancipation Proclamation
+in 1863. This was an extra-legal act that Lincoln felt strong enough to perform after Union troops
+blocked Lee’s invasion at Antietam, and no slave-owner felt strong enough to challenge as
+invading the “sanctity of property”, and no Court to review. Following the war came the Radical
+Republican Congress that pushed Reconstruction in the South, and the 13", 14" and
+15""Amendments establishing the freedmen as citizens with full rights. These were radical acts
+under radical leaders like Thaddeus Stevens, leading towards considerable taxation of real estate
+in the south, temporarily.
+
+Next came the Grant Administration, 1869-77, filled with bribery scandals and giveaways of
+public lands to private corporations, mainly to build railways. The Desert Land Act of 1876 also
+rationalized a giveaway of vast lands plus the Kern River, supposedly to promote irrigation.
+Mark Twain and Charles Dudley Warner labeled it “The Gilded Age” (the first one), and “The
+Great Barbecue”. These scandals were on a greater scale than anything the states had done in the
+earlier Canal Boom. Greed in corporate forms rushed in to exploit the sacrifices of millions of
+soldiers in the bloodiest war in U. S. history.
+
+In 1871 an obscure San Francisco journalist, Henry George, published Our Land and Land
+Policy, with a map showing the extent of the railroad land grants, painting them as broad swaths
+comprising a large fraction of the west. He somewhat exaggerated their extent since these solid
+ribbons were actually checker-boarded, but he made his point. Historians like Paul Gates now
+credit him with being first to sound the alarm, slowly resulting in various political reactions like
+the Populist, Progressive, and Single Tax movements.
+
+Meantime, propertied northerners recaptured the Republican Party and joined forces with
+propertied southerners to install Rutherford Hayes as President in the disputed election of 1876
+(seethe writer’s “Florida Voting, The Stolen Election of 1876, Abram Hewitt, Columbia
+University, and Henry George”, Groundswell, November-December 2000). Thus ended
+Reconstruction and Radical Republicanism.
+
+In 1873 came a great crash, starting a 10-year depression that slowly turned minds again
+against corporations and the enormous land grants that the “robber barons” controlled. These
+bided their time until recovery and complacency let our High Court rule in Santa Clara County
+v. The Southern Pacific Railroad, 1886, that the corporation was a “legal person” within the
+meaning of the 14"°Amendment. The Court hijacked the Amendment, passed to protect the rights
+and properties of former slaves, to protect corporations.
+
+Critics also say that the U.S.S.C. did not even include that in its decision, but some clerk
+wrote it into the headnotes. This may have been more sneaky than accidental, but The High
+Court has reaffirmed this “precedent” since. Santa Clara began a legal process of endowing all
+corporations with personhood, so no state can deprive them of life, liberty OR PROPERTY, so
+there. The tenures deriving from the notorious bribery scandals of the Grant years are now above
+the reach of any state. They are endowed with “Sanctity”: you offend God Almighty even to
+question them! That was quite a coup.
+
+To be sure the change was not that sudden. The law evolves incrementally. As late as the
+1970’s Justices Rehnquist and White could say that a corporation is just “a creature (creation) of
+the law”, without all the civil rights of natural persons. The ideas finally crystallized in the
+Citizens United decision of 2010 have been bruited about tendentiously for a long time in
+influential circles, without becoming law. The new decision, however, draws a clear new line in
+the sand, and will not be ignored.
+
+The reaction to the Santa Clara kind of judicial activism was voter receptivity to another
+wave of reform. History books dwell on changes at the Federal level during The Age of Reform,
+led by the Populist and Progressive Movements; but the unsung part of reform was that states
+and cities and counties and school districts struck back at land barons by raising state and local
+property taxes to finance public schools and public works of many kinds (Paul Gates, The
+Wisconsin Pine Lands of Cornell University, and many other works). 1880-1920 was the golden
+age of urbanization in the U.S.A., and growing cities taxed property to provide schools to make
+people literate, and many services like sanitation and water supply to make urban life possible.
+Henry George was a leader of this movement. Princeton historian Eric Goldman, author of
+Rendezvous with Destiny, speaks to that. “An enormous number of men and women ... who were
+to lead 20"Century America in a dozen fields of humane activity wrote or told someone that
+their whole thinking had been redirected by reading Progress and Poverty ...no other book came
+anywhere near comparable influence ... (it) magically catalyzed the best yearnings of our
+grandfathers and fathers” (Letter to Henry George News, Centennial issue,1979).
+
+At the Federal level many dissidents joined to form The Populist Party, winning one million
+votes and 22 electoral votes for their little-known presidential candidate, James Weaver. In the
+1894 by-elections they polled even 50% more votes. They elected six senators and several
+congressmen and enough influence to pass a desired progressive personal income tax that
+included a tax on property income. In 1896 they merged with the Democrats, cast out old leaders
+like Cleveland and went with Bryan and his brain, John Peter Altgeld. Republicans, trolling for
+their votes, became Progressives themselves under T. R. and Wm. H. Taft, followed by
+Progressive Democrat Wilson, so for two decades we had two Progressive Parties. Many
+Progressive Republicans and their ideas even survived the postwar reaction against Wilson. Few
+have called Andrew Mellon, powerful Treasury Secretary who virtually ruled Presidents
+Harding, Coolidge and Hoover, a Progressive, and yet he wrote in 1924 that we should tax
+property-derived income higher than wage income (Taxation: the People’s Business).
+
+Of course in 1894 our High Court had overturned the Populist personal income tax on the
+grounds that it included a tax on real estate income, which they construed as a “direct” tax
+(Pollock v. Farmers’ Loan and Trust Co.). The U.S. Constitution reads that a “direct” tax must
+be apportioned among the states according to population, which the 1894 tax was not. This
+setback, however, only led first of all to the corporate income tax of 1907, a major blow to
+corporations, and then in 1913 to the 16'"Amendment and the personal income tax. In 1916 the
+first substantial income tax bill under the amendment exempted most wage and salary income,
+making this more a tax on property income even than envisioned in the Act that the 1894 Court
+had disallowed.
+
+In 1912 Hiram Johnson won as Governor of California, defying and breaking (some of) the
+power of the Southern Pacific Railway Corporation. As part of this movement before and after
+Johnson, the California Legislature enabled the growth of Irrigation Districts with strong powers
+to tax lands to pay for remarkable systems of water supply, under which California quickly
+vaulted into our leading farm state. It was a striking object lesson in how radical Progressive
+policies of the right kind can attract industry, people and capital. The U.S. High Court had laid
+the foundation for this in its validation of District powers in Fallbrook I. D. v. Bradley, 1896.
+
+Single-taxers were active and visible in the Progressive Movement. Henry George, Jr.,
+published The Menace of Privilege in 1905. He included the corporate form among the four most
+threatening privileges. John Z. White, itinerant single-tax lecturer, was a product of this era, later
+to make him publish his attack on the Dartmouth College Case Decision in Public and Private
+Property. William Gorgas rose to Surgeon General of the Army, soon to lead the fledgling
+Single Tax Party (until he died in 1920). Woodrow Wilson placed at least four single-taxers in
+his Cabinet, including Newton Diehl (“New Deal”) Baker and Louis F. Post. Congressman Tom
+Johnson, later Mayor of Cleveland, helped assure that the income tax act of 1894 included land
+and dividend income in its base — otherwise we would have had a pure payroll tax and the High
+Court would have blessed it. Several cities had single-tax mayors, as documented in this writer’s
+New Life in Old Cities. Chicago and Milwaukee seized back their waterfront lands from railroad
+corporations to make their beautiful parks. Single-tax Congressmen Henry George, Jr. and
+Warren Worth Bailey worked with Claude Kitchin and a socialist or two to frame the income tax
+act of 1916 that virtually exempted wage and salary income (Elliot Brownlee, Proceedings of
+Am. Phil. Soc. 129(2): 173-210).
+
+By 1917 the old Populists could say they had achieved most of their goals through other
+Parties. The postwar reaction of 1920, however, was all the Court needed to rule in Eisner v.
+Macomber, 1920, that the I.R.S. could not tax unrealized capital gains without another Act of
+Congress — an Act that Congress never provided. This has provided a major loophole ever since,
+both for corporations and their shareholders.
+
+Meantime in England a parallel movement led by the “Radical-Liberals” installed in series
+three PM’s: Henry Campbell-Bannerman, Herbert Asquith, and David Lloyd-George. In 1909
+Lloyd-George, then Chancellor of the Exchequer under Asquith, introduced his radical “People’s
+Budget”, including a token tax on the hitherto untouchable ancestral lands of the Lords. When
+the House of Lords vetoed it, Asquith demonstrated how a strong executive can overawe such a
+body: he prevailed upon King Edward VII to threaten to “pack” the House by creating new
+peers. The Lords bowed to superior fire power and passed the budget — an event known since as
+the Constitutional Revolution in England. Americans were watching.
+
+Within the economics profession a new school of thought, “Institutionalism”, flowered for
+many years. Veblen was a leader of thought, although he shunned any active role. Professor John
+R. Commons of Wisconsin developed the thought at length — he saw the corporation as much
+more than merely another “economic agent”, as the neo-classicals would have it. Commons was
+also more a single-taxer than not, although shunning purism. Adolph Berle and Gardiner Means’
+1933 book on The Corporation and Private Property made a strong impact on thinking at a time
+when corporations were on the defensive, justifying a raft of new regulations only dismantled in
+the recent Age of Milton Friedman. These are likely to be re-legislated after the last great crash,
+although it will take years to develop a new crop of economists free of libertarian utopianism and
+methodological obscurantism.
+
+1937 saw the next milestone when President FDR, at the height of his electoral strength, tired
+of having the High Court reject his programs. He copied Lloyd-George’s 1909 success against
+the House of Lords. He didn’t just threaten to “pack” the Court by adding new justices, he played
+hardball with the Reorganization of Judiciary Act. This did not go down easily and a major battle
+loomed, when Justice Owen Roberts, who had been joining in 5-4 majorities against the
+President, prudently changed sides in a minimum wage case. It’s been called “The switch in time
+that saved nine” (cutely mimicking an old saying that many young people today never heard). It
+demonstrated that there are limits to the Court’s power to override a united electorate. As “Mr.
+Dooley” had quipped, “The Supreme Court follows the election returns”.
+
+All along, though, an accumulation of small actions was helping corporations at the expense
+of labor. The Warren Court, 1953-69, did many notable deeds for the common man and woman,
+but it did not stop the decremental fall of the share of corporate income tax revenues in Federal
+finance. 1968 was the milestone year when the payroll tax quietly surpassed the corporate tax as
+the second biggest source of Federal Revenue. Just think: the corporate income tax of 1907
+antedated the payroll tax of 1935 by 28 years, and it was another 33 years, 1935-68, before the
+payroll tax took in more money than the corporate tax did. That was a revolution indeed, but so
+quiet and gradual that most people never noticed. Nor was that the end of it: by 2008 the
+corporate tax raised just 11% of Federal revenues, compared with 38% for the payroll tax, nearly
+4 times as much. That is a measure of the growing power of corporations in politics.
+
+On top of that, personal income taxes on corporate dividends and capital gains have been
+singled out for preferentially low rates. In 2003 President Bush and his Congress lowered the tax
+rate on both dividends and capital gains to 15%, so that a smaller share of the personal income
+tax now comes from corporate shareholders. As late as in the Tax Reform Act of 1986, dividends
+were taxed like other “ordinary” income. So, briefly, were capital gains. President George H. W.
+Bush then devoted most of his presidency, and sacrificed a second term, to get a token cut in the
+capital gains rate. It was the thin end of a wedge, leading soon to the present cap of 15%.
+“Capital gains”, so-called by Congress, derive from many sources, but one of the biggest is sales
+of corporate stock.
+
+And so things stood until January 21, 2010, when the High Court authorized corporate leaders
+to contribute unlimited amounts of their shareholders’ cash to political causes. This poses a
+challenge to our tabloid-and-TV-numbed generation. Will “ordinary” taxpayers rebel, as they did
+in the American Revolution, Emancipation, the Progressive Age of Reform, and the New Deal;
+or will corporate power wax unchecked until it replaces democracy altogether? Cyclical theory
+says we will have another anti-corporate reaction, but history also records tipping points in the
+decline of nations from which they do not recover for generations, if ever. This one may be a
+squeaker.
+Here is a summary from that brief history of the problems with treating corporations as “legal
+persons”.
+
+1. Corporations never die, never pay estate taxes, never divide their wealth among
+succeeding generations. In this they resemble medieval Churches that agglomerated over
+many years so much land they threatened the state itself — resulting often in massive
+confiscations, as by Henry VIII.
+
+2. Besides not dying, corporations merge with or otherwise acquire other corporations,
+progressing, if unchecked, from competition to cartel to oligopoly to monopoly.
+
+3. A corporation is by nature a combination in restraint of trade — that is, a union of
+many individuals with their wealth to act as a unit, dealing with customers, suppliers, and
+workers. It took Thorstein Veblen, a thinking man, to bring out this fact that should be so
+obvious. The courts, historically, have borne down on labor unions as illegal
+combinations while, as a matter of course, treating this combination of lands and capitals
+as an individual.
+
+4. Corporations enjoy the legal privilege of limited liability.
+
+5. The ownership of corporations is, or may be made, secret. Many stocks are recorded
+in “street names” — a favorite being “Cede and Co.” Hugo Chavez is one such owner
+whose name has been revealed: others might be Al Qaeda, the Nazi Party, the heirs of
+Mao tse-Tung, La Cosa Nostra, or anyone. No citizenship is required for a corporation to
+sway American government more than almost any citizen.
+
+6. No person is easily held responsible for corporate acts. The first duty of CEO’s is to
+the shareholders, so they say, to dodge guilt for any outrage against others. Most
+shareholders, in turn, have little idea what their CEO’s are doing.
+
+7. The internal governance of most corporations is intensely undemocratic
+
+8. The corporation cannot be jailed, and its officers seldom are, as they have great
+opportunities to pass the buck
+
+9. The corporation has no spiritual counselor or confessor to prick its conscience.
+
+10. Before January 21 the attitude, as expressed by Justices White and Rehnquist in
+the 1970s, has been that corporations are “creatures of the law”, not equal to natural
+persons in their civil rights. Suddenly to reverse this now is to upset many expectations
+that relied on the previous rule.
+
+Finally, what can we do about the High Court’s marriage to corporate power? I first list what I
+consider ineffective remedies, and then those that can work, and work quickly.
+
+1. Ineffective remedies
+
+a. Justices may be impeached. This has succeeded only once, to my knowledge, in
+1804, when a justice was obviously insane.
+
+b. Within a State a Justice may be recalled, as Rose Bird was. There is no such
+provision for Federal judges.
+
+c. A President can appoint anti-corporate judges as vacancies occur. This will happen
+at best over a long time-span, but it needs to happen fast because with their newfound
+pecuniary “free speech” corporations will soon control both Congress and the Executive
+even more than they do now.
+
+d. Congress can tighten restrictions on foreign corporations contributing through
+American subsidiaries. This is better than nothing, but does not affect American-
+chartered corporations, whoever actually owns them.
+
+e. Congress might ban political advertising by any non-citizen, including any group
+that includes a non-citizen. This would entail forcing corporations to identify their
+shareholders. This proposal may entail too many steps to be implemented quickly, if at
+all. As a layperson I would refer that point to learned counsel.
+
+2. Effective remedies
+
+a. The Executive and the Congress can play hardball by drafting new legislation to
+curb corporate contributions, and threatening covertly to raise the corporate income tax as
+a bargaining chip — a big chip! This calls for a leader who sees the imminent danger, and
+is willing and able to act firmly and decisively, and communicate credible threats
+covertly without breaking any rules, a la FDR. Washingtonians are skilled and
+experienced in this sort of thing.
+
+b. The Executive can introduce legislation modeled on the 1937 Reorganization of
+Judiciary Act. This act would have given the President power to appoint six new justices.
+It was a credible threat that worked by turning FDR’s 4-5 minority into a 5-4 majority, in
+spite of a great outcry against it. It is what we need today. It is radical, yes; but the
+Court’s ruling is radical, and calls for a remedy equally strong or stronger.
+
+c. Could a simple act of Congress declare that a corporation is not a legal person?
+Perhaps so, perhaps no, we need learned counsel to tell the odds. However, a straight line
+is the shortest distance between two points, and this action would bring the issue quickly
+to a head.
+
+In summary, we have seen that the United States was born in rebellion against corporations.
+The U. S. Supreme Court soon began restoring their power. When it overreached, strong
+executives and popular movements set it back: under Andrew Jackson, Abraham Lincoln, Teddy
+Roosevelt, and FDR. Today it has overreached again; it remains to see if a new movement or
+leader will arise to set it back again.
