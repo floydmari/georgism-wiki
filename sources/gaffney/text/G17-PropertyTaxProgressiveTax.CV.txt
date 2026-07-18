@@ -1,0 +1,1016 @@
+[Reprinted from the Proceedings of the Sixty-Fourth Annual Conference
+on Taxation sponsored by the National Tax Association, 1971.]
+
+THE PROPERTY TAX IS A PROGRESSIVE TAX
+
+M. Mason GAFFNEY
+
+Resources for the Future, Inc. \
+Washington, D.C. oS
+
+Introduction
+
+“The regressive property tax” has become a common block phrase
+among economists and in the popular press. President Nixon’s sup-
+port for revenue-sharing is increasingly based on the need to protect
+the poor from heavy property taxes. Some prominent tax economists
+are favoring even sales taxes to make the tax system more progressive,
+by lowering the property tax.1 Even local income taxes, which are
+mainly payroll taxes, are being advanced to relieve property and the
+poor.
+
+I find this implausible. To own property is to be rich, in the measure
+that one owns, and to tax the quality of richness should not be pre-
+sumed to burden the poor more than the rich. As to the elderly, it is
+only traditional for interest groups to hide behind selected widows, and
+one should rarely take such appeals at face value. And so I propose
+critically to examine the bases for alleging the property tax to be
+regressive.
+
+The Founding Fathers regarded property taxes as redistributive and
+equalitarian. James Madison wrote:
+
+In England, at this day, if elections were open to all classes of people,
+the property of landed proprietors would be unsure. ... Landholders
+ought to have a share in the government, to support these invaluable
+interests, .... They ought to be so constituted as to protect the minority
+of the opulent against the majority.2
+
+Madison also wrote “... the most common and durable source of fac-
+tions has been the various and unequal distribution of property.” He
+foresaw that the landless majority might use government to redistribute
+property. “To secure ... private rights against the danger of such a
+faction ... is then the great object ....”3
+
+The constitutional safeguard which the Founders established is the
+
+1 Joseph Pechman, “Fiscal Federalism for gine 1970's,” National Tax Jour-
+nal 24 (3): 281-90 (September 1971), p.
+
+2Louis Hacker, Triumph of ‘American Coniralicm (New York: Columbia
+University Press, 1947), p. 187.
+
+3 The Federalist #73, cited in Charles Beard, An Economic Interpretation
+of the Constitution (New York: The Macmillan Co., 1935), pp. 156-58.
+PROPERTY TAXATION 409
+“regulation of apportionment.” “Representatives and direct taxes shall
+be apportioned among the several States which may be included within
+this Union, according to their respective numbers, ....”4 It was de-
+signed to win the support of property owners by assuring them that
+the new federal government would be financed mainly by excise taxes
+rather than property taxes 5 and that when property taxes were used,
+states above average in property per capita would be spared.®
+Property qualifications on voting were widespread at this time.
+in the opinion of conservative people they barely sufficed to exclude
+from the suffrage such shiftless persons as had no visible interest in
+keeping down the taxes.”7 Throughout the 19th century the suffrage
+was extended (it is not universal even yet), and government func-
+tiéns ‘increased. Public schools became popular, and increasingly tax-
+financed. E. R. A. Seligman seems to perceive the property tax as
+redistributive in opposing exclusive reliance on it: . it involves some
+tisk ‘for a small class to pay the taxes and for a large class to vote on
+them ....” 8 (Ironically, Seligman is Known as a proponent of the
+ability ethic of taxation.) A common argument for sales and income
+taxes over property taxes is their “broad base,” discouraging the poor
+from voting for public extravagance. “Broad-based” seems quite like
+“regressive.” ‘
+Property qualifications for the vote are not dead. Special improve-
+ment district boards throughout the west are elected by landowners
+alone (notably excepting California Wright Act Irrigation Districts).
+The prevailing argument for limited suffrage is that so nicely distilled
+by Seligman supra.® In the settlement of the west, the county property
+tax was traditionally the fiscal means by, which small settlers and home-
+steaders asserted some public equity in the lands of large absentees,
+ranches, and speculators. In some areas, ‘owners covering whole coun-
+ties (like Kenedy County, Texas) refused to sell to immigrants, to
+keep them from voting and raising county taxes— which the big
+owners evidently perceived as redistributive. Company towns like
+Arvin, California, have been kept unincorporated to keep migrant la-
+borers from using the property tax on the owners. All of northern
+Maine is unincorporated, ostensibly because Great Northern and a few
+
+“
+
+4 Article I, sect. 2, clause 3; and sect. 9, clause 4.
+
+5 A. Hamilton, 7. he Federalist #12.
+
+6 Charles Beard, An Economic Interpretation of the Constitution, op. cit.,
+p: 169. - See also pp. 100-03, on Hamilton’s support from speculators in
+western lands.
+
+. F John Fiske, The Critical Period of American History (Cambridge: The
+Riverside Press, 1888), p.
+
+Spssas in Taxation Pi ndon: Macmillan and Co. Ltd., 8th ed. 1919),
+
+p. 7
+8 See Wells Hutchins, Irrigation Districts, U.S. Department of Agriculture
+Technical Bulletin #254, 1931, pp. 15-16.
+410 NATIONAL TAX ASSOCIATION
+
+other paper companies want to avoid letting immigrant voters tax their
+property. Similarly, industrial tax enclaves in metropolitan areas keep
+out resident voters. In the Southeast half the poor have been disen-
+franchised because of poll taxes and race. The southeast relies less on
+the property tax than other regions. If the property tax were regres-
+sive the dominant minority would seem rationally to have imposed it
+on the disenfranchised poor. Instead they pioneered the state sales tax.
+
+H. D. Simpson has pointed out how property owners favored the
+“contract” as opposed to “organic” theory of government. Under the
+contract theory, property could be charged only for benefits received
+(rather narrowly construed). Under organic theory, the public asserts
+its equity for redistributive ends, taxing ad valorem without reference
+to the source of value. “The opponents of expansion (of public serv-
+ices), representing largely the property classes who would have to
+carry the cost of these expansions and who would participate least in
+their benefits, necessarily fell back on the Benefit Theory, ...”2° The
+benefit or contract theory lives today under the saying that property
+should only pay for services to property, not services to people. The
+animus is that property taxes to finance schools are redistributive.
+Services to property are often opposed, too. Property taxes to finance
+any mass system that favors small over large holdings inspire resist-
+ance in the spirit of attorney Maxwell’s image of water districts as
+“Communism and confiscation under guise of law.” 11 Such language
+suggests these taxes were viewed as progressive, and the history of
+irrigation shows they were indeed the weapon of small farmers against
+large.22
+
+It is quite a wrench to shift from this historical perspective to the
+modern image of the property tax as regressive. But times have
+changed, and even the modern examples could be exceptional and
+atavistic. Also, today we have the income tax as a reference datum.
+Allegations of property tax regressivity usually imply a contrast with
+the income tax, lacking in Madison’s day and weak in Seligman’s.
+Current and recurrent proposals for property tax relief entail substi-
+tuting income tax (and other state and federal tax) revenues for property
+taxes. To meet the argument in its strongest general form, therefore,
+we must compare property and income.
+
+To define and narrow the issue I am making, I here define the prop-
+erty tax as one levied at a uniform rate on the base of the capital value
+of property as revealed by the current market. This is a property tax
+
+10H. D. Simpson, “Historical Development of the Property Tax from the
+Tegal Viewpoint,” American Economic Review (September, 1939), pp. 457-
+67, p. 462. -
+11 Fallbrook v. Bradley, 1895, 164 U.S. 112.
+12 Albert Henley, “Land Value Taxation by California Irrigation Dis-
+tricts,” in A. Becker (ed.), Land and Building Taxes (Madison: University
+of Wisconsin Press, 1969), pp. 137-46.
+PROPERTY TAXATION 411
+
+reduced to its essence, stripped of the regressivity that may result from
+maladministration and Balkanization, which are not the issues I raise
+here because they are not peculiar to the property tax. Maladminis-
+tration often entails regressive assessment, a serious problem. But all
+taxes are applied regressively, and for about the same unhappy reasons
+related to legal costs and financing politics. The income tax may be
+the worst administered of the lot, in this respect. It is an unbalanced
+literature that would compare a badly run property tax with an ideal-
+ized income tax.
+
+As to Balkanization, this is not inherent in the property tax as such,
+but in local taxation as such. A local income tax similarly lets tax
+havens attract the rich by low rates. Wisconsin municipalities, indeed,
+have a local income tax (state-collected and returned). Since the rates
+are common, regressivity takes the indirect form of higher services and
+lower local property taxes in the favored enclaves, but it is nonetheless
+a feature of local income taxation. California, on the other hand, may
+move to a statewide property tax in response to the recent state Su-
+preme Court decision, bringing in to finance education not only the
+property of Emeryville and the Cities of Commerce and Industry, but
+also rich, undertaxed farm, timber, recreational, and above all, mineral-
+bearing real estate.
+
+To hang the tax enclave problem on the property tax as such would,
+therefore, be an example of the fallacy of identification, one which I
+seek to avoid here by focusing on property value — the idealized tax
+base — rather than collections.
+
+Today’s common concept of regressivity owes much to an early work
+by Musgrave, Carroll, Cook, and Frane.18 Their selection of data
+sources, assumptions, concepts and methods set a pattern followed in
+many later studies which repeated the general finding, with individual
+variations. It is my thesis that the finding is inherent in the sources,
+assumptions, concepts and methods, not in the subject. To demon-
+strate this I make four points: property ownership is much more
+concentrated than income; the property tax is not primarily shifted
+forward, as assumed; the studies commit basic errors of correlation
+analysis with systematic biases toward their conclusion; and the studies
+misdefine both income and property, again with systematic bias toward
+their finding. :
+
+A. Property Ownership Is More Concentrated Than Income
+
+To begin, a large share of the adult population — half, as a rough
+measure — are renters and own no meaningful value of taxable prop-
+
+13 “Distribution of Tax Payments by Income Groups: A Case Study for
+1948,” IV, National Tax Journal (1): 1-53, March, 1951. For a list of others
+see Dick Netzer, Economics of the Property Tax (Washington, D.C., Brook-
+ings Institution, 1966), pp. 247 ff., and the Netzer book itself, Chap. III.
+412 NATIONAL TAX ASSOCIATION
+
+erty at all. Most of these essentially propertyless adults do earn tax-
+able wage income. (We consider later whether property taxes are
+shifted onto them.)
+
+Savings rise with income, faster than income. With savings one
+acquires property, and we would naturally expect therefore higher in-
+come groups to own property in proportion to their greater saving,
+which is a disproportionately high share of their high incomes. And
+we would also expect a high share of high incomes to come from
+property.
+
+Musgrave et al: support this. They rank 1948 U.S. “Spending Units”
+by income and group them, using Treasury sources of data. The
+highest class got 23% of the income, but 78% of dividend income and
+45% of rental income, and only 12% of the wage and salary income.!*
+Other sources might be cited, too.
+
+Musgrave et al. omitted capital gains. These are probably the most
+concentrated source of income, and of course property-derived. Real-
+ized gains swell from virtually nothing at the $10,000 income level to
+about half of income at the million dollar level.15 Unrealized accrued
+gains, which we should include in a proper Haig-Simons income con-
+cept, are probably larger yet, and more concentrated. There are no
+easy data on this, but several @ priori and indirect reasons to think
+them concentrated. The rich have a comparative advantage in waiting
+for deferred cash. They are known to favor growth stocks, undis-
+tributed profits, speculative landholdings and unripe minerals, major
+sources of unrealized accruals.
+
+Among those who do own material amounts of property, concen-
+tration is high relative to that of income. The top 10% of income
+receivers, as income is usually defined and reported, get about 30% of
+all income. Every study of property owners shows figures in another
+ballpark altogether. Table 1 summarizes what several such studies
+show about the top group. Note that most of these figures show only
+concentration among those who own enough property to be counted,
+thus understating concentration among the whole population.
+
+Wealth is measured by value in all cases except where acreage is
+specified (rows 4,5). Here, some will object that the acreage measure
+overstates concentration, on the premise that large holdings of acreage
+are below average in unit value. But even if they are, to accept that
+objection from this premise would be a splendid case of regression
+fallacy. When we move to the value measurement we must rerank
+the owners on the new basis, and the new top group would consist in
+part of different individuals. And there is no way to know whether
+the new top group would have a higher or lower share, short of actu-
+
+14 Musgrave, et al., op. cit., Table 1, p. 11.
+15 Business Week, March 29, 1969, p. 96, “Making the Burden More
+Equal,” citing the Brookings Institution.
+PROPERTY TAXATION 413
+
+ally reranking, regrouping, and recounting.
+
+Most data sources don’t do this for us, but a few such comparisons
+may be found. A special U.S. Census study of the ownership of rented
+farms in 1900 measured them both by area and land value. By area,
+the top 45% had 83%. By value, the top 45% had 85%.18 In 1951
+Danish farming: by area, the top 2% had 14%; by value, the top 1.3%
+had 14%.17 For Milwaukee industrial real estate, J ranked firms in
+‘1960 by both land area and land value (my mass appraisal). By area,
+the top 10% had 75%; by land value, 76%. For the Milwaukee CBD
+(east side) 1968, I ranked owners by area and land assessment (City
+Tax Commissioner’s appraisal). By area, the top 10% had 48%; by
+assessed value, 60%. (Preliminary, subject to adjustment.)
+
+These scraps of evidence show there is no presumption that acreage
+rankings overstate concentration of wealth as a general rule, although
+they doubtless do in some regions.
+
+Corporate shares are not taxable property, but of course corporate
+income is mostly derived from taxable property.18 Some will object
+that corporations have many owners and should not be treated as single
+units. That is true, but again, it smacks of regression fallacy. Wealthy
+owners also have many corporations, and in general corporate shares
+are the most concentrated kind of asset.
+
+Ownership of large property gives one control of other assets. Prop-
+erty is borrowing power and credit rating: all studies show interest
+rates to be very regressive with size and quality of collateral, and terms
+easier. But simple borrowing is only the beginning. With great wealth
+one goes into banking and exerts multiple leverage. The story has
+been told many times, if not as well, since Brandeis’ Other Peoples’
+Money: collateral, leverage, conglomerates, interlocking directorates,
+mergers, lender suasion, industrial leadership, pyramiding, the Wallen-
+berg Grip, subcontracting market power, control of dealerships, ... .
+Control is power and status (psychic income), and control is a source
+of additional income, as revealed by the premium prices of shares dur-
+ing battles for control.
+
+Data in Table 1 probably understate concentration, for four general
+reasons: omitting the unpropertied, accepting and reporting regressive
+assessments, accepting the bias in partial inventories, and accepting and
+reporting straw owners as separate owners.
+
+1. Omitting the unpropertied. Few families have no income, so
+income data cover most people. Many have too little property to
+count, however, so many studies omit them. General asset ownership
+
+16 U.S. Census of Agriculture 1900, Part I, pp. xc, xcii.
+
+17 Danmark’s Statistik Arbog, 1953, p. 50.
+
+18 For an exegesis on this point, cf. the writer’s “Adequacy of Land as a
+Tax Base,” in Daniel Holland (ed.), The Assessment of Land Value (Madi-
+son: University of Wisconsin Press, 1970).
+414 NATIONAL TAX ASSOCIATION
+
+TaBLE t.-—Share of Wealth Held by Top Wealthholders
+
+% of % of
+Holders Wealth
+Investigator Kind of Wealth in Top in Top
+Group(s) Group(s)
+USS. Estates, 1926 0.1 8.5
+FIC ® US. Estates, 1926 2.5 46
+Smith and Calvert > USS. Wealth, 1958 1 24
+Lampman ¢ U.S. Wealth, 1961 1 28
+U.S. Census 4 U.S. Farm Acreage, 1949 2.3 43
+R, Nader et al.e Calif. Acreage, 1971 <.01 13.5
+M. Gaffney t Milwaukee, CBD, east side,
+assessed value, 1968 10 60
+M. Gaffney & Milwaukee Industrial Real 10 89
+Estate, assessed value,
+1960 1 59
+Same, land area 10 75
+TNEC 4 U.S. Corporate Shares 3 50
+Crockett and Friend! U.S. Corporate 0.1 20
+. Shares, 1960 1 - 50
+Judiciary Comm.,
+
+USS. Senate J Shares of GM, 1956 <.01 33
+Lydall and Lansing * U.S. Net Worth, 1953 10 56
+US.D.I1 Federal Coal Leases,
+
+773,000 acres, 1970 10 holders 49
+
+4U.S. Federal Trade Commission, National Wealth and Income, Senate
+Doc. No. 126, 1926, p. 59.
+
+>bJames Smith and Staunton Calvert, “Estimating the Wealth of Top
+Wealth-holders from Estate Tax Returns,” American Statistical Association,
+1965 froceedings of the Business and Economic Statistical Section, Table 5,
+p. 258.
+
+¢ Robert Lampman, The Share of the Top Wealth Holders in National
+Wealth (Princeton: Princeton University Press, 1962), updated to 1961 by
+Lampman in Business Week, “Rich Get Richer — but not for Long,” Janu-
+ary 27, 1962, p. 31.
+
+41950 U.S. Census of Agriculture, Vol. 2, Ch. 10, p. 775.
+
+¢ Robert Fellmeth (ed.), “Power and Land in California” (Washington:
+Center for Study of Responsive Law (1971)), Preliminary Draft (mimeo),
+Vol. I, p. 1-17.
+
+£Data taken from City of Milwaukee assessment rolls and ranked by
+Patricia Bevic, research assistant.
+
+8 I ranked 626 City of Milwaukee industrial firms by assessed value, using
+data collected by Norbert Stefaniak. .
+
+h Temporary National Economic Committee, Monograph 29, Distribution
+of Ownership of the Largest 200 Non-financial Corps. (Washington: GPO,
+1940), pp. 37 ff. and Monograph 30, Survey of Shareholders in 1710 Corps.,
+
+50
+
+“i James Crockett and Erwin Friend, “Characteristics of Stock Owner-
+PROPERTY TAXATION 415
+
+studies use the estate-multiplier technique. Here the minimum is
+$60,000. Corporate shareholder data omit most people, because most
+own no stock. Farm data omit hired labor, treat tenants as owners,
+and say nothing about former ’croppers now crowded in city ghettos.
+
+My Milwaukee CBD data are in percentage terms relating only to
+other owners. But the whole east side area studied has only 401
+owners of record, while some hundred thousand people work and pay
+sales taxes there.
+
+2. Accepting regressive assessments as fact. Regressive assessment
+is not universal, but some kinds of property are systematically assessed
+regressively and, if not overtly, at least openly enough so assessors
+under questioning do not deny but explain and defend the practice.
+Unsubdivided land in large tracts is usually given a lower assessed
+unit value, specifically because the holding is large. The result may
+be seen by ranking Milwaukee industries by value of land (estimated
+from reported area adjusted by mass appraisal technique). The top
+10% have 76% of the land value, but only 61% of the assessed land
+value. Thus the Table 1 datum, based on assessed value (of land
+and buildings), probably understates concentration.
+
+This factor also affects findings of studies using U.S. Treasury data.
+For IRS practice gives weight to locally assessed values in appraisals
+for Federal estate and income taxation. The notion that malassess-
+ment only affects local taxes is a myth. a
+
+Another factor is the watering of prices charged to the poor in and
+around ghettos. A speculator often buys cheap and sells for what
+looks like a huge markup. But the buyer has no cash. The seller
+takes his profit in an inflated and risky second trust, which he quickly
+sells at a large discount. The sage assessor knows how to dehydrate
+watered prices if he wants to, but there is pressure to maintain tax
+revenues from these areas, often resulting in watered assessments on
+the poor.
+
+Of course, if property assessments are regressive, property taxes are
+based on them anyway, not on true values. But I distinguish tax con-
+cept from tax administration, as noted. This is important for policy.
+
+ship,’ American Statistical Association, 1963 Proceedings, reported in Mil-
+waukee Sentinel, September 18, 1963.
+
+i Bigness and Concentration of Economic Power — a Case Study of Gen-
+eral Motors. Staff Report, Subcommittee on Antitrust and Monopoly,
+Committee on the Judiciary, U.S. Senate, 84th Cong., Ist Sess. (Washing-
+ton: GPO, 1956), p. 7.
+
+k Harold Lydall and John Lansing, ‘A Comparison of the Distribution of
+Personal Income and Wealth in the U.S. and Gt. Britain,” AER 49 (I):
+43-67 (March 1959), (using data from University of Michigan Survey of
+Consumer Finance).
+
+1U.S. Department of the Interior, “Working Paper” (unpublished), cited
+in Milwaukee Journal, August 29, 1971.
+416 NATIONAL TAX ASSOCIATION
+
+A regressively conceived tax remains regressive under the best of man-
+agement. If the property tax is progressive in essential concept, then
+it needs reform and new life rather than the gas chamber.
+
+Regressive assessment is usually explained by assessors on grounds
+of regressive use of property. Large holdings are generating less ac-
+tivity per dollar of value. In Oregon, for example, larger timber hold-
+ings are overtly assessed lower with the rationale they are worth less
+because of the owners’ slower cutting schedule. But note this says
+activity-based taxes (sales and income) are then less progressive than
+property taxes. Thus the very explanation of regressive assessment is
+a phenomenon that shows the property tax, properly administered, to
+be progressive relative to income and sales taxes.
+
+3. The bias in partial inventories. Any wealth inventory short of
+universal will usually understate concentration because larger holders
+.are more diversified. The largest owners in one city, region, industry,
+or other class are most likely to have holdings outside the class.
+
+As to housing, it is the rich who have second homes, hobby farms,
+summer resorts, tax shelters, ski houses, Caribbean hideaways, lake
+frontage, and advance sites for future building. Yet studies of income
+-and housing, from which some would damn the property tax, compare
+a full statement of income (at least wage income) with housing nar-
+rowly defined. Walter Morton (p. 143) goes so far as to judge the
+entire property tax on the basis of housing alone. He not only omitted
+second homes, but other property comprising half the total: commerce,
+industry, rental, vacant, farm, forest, mineral, water, and miscellaneous.
+Again, ownership of these is concentrated among those ranking high
+in the housing scale.
+
+Studies of foreign-owned farms in America have shown them to be
+larger than owner-occupied holdings. The 1900 Census of Agriculture
+(a high water mark in good government statistics) reported on farm
+landlords. In-county landlords averaged 85 acres; out-of-county but
+in-state landlords, 126 acres; out-of-state but U.S. landlords, 159 acres.
+Foreign landlords were highest of all. 28% of them held over 2500
+acres, while only 10% of U.S. landlords did.19 I take this to be a
+universal tendency, deducible @ priori from the fact that it doesn’t pay
+to range far abroad to invest only a small sum. As U.S. residents
+change from colonials into the world’s absentee owners, this universal
+tendency is clear. It is our largest oil firms, the international majors,
+who cover the entire U.S. with marketing and the world with mineral
+holdings. The largest holdings in any one jurisdiction, industry, or
+other narrow class of property, thus are usually owned by those with
+large holdings outside. With every passing year of mergers and con-
+glomeration this grows more true.
+
+19 1900 Census of Agriculture, Part 1, p. xc.
+PROPERTY TAXATION 417
+
+Thus my data on Milwaukee’s CBD understate concentration. The
+third largest holder on the west side there for example is the Schlitz
+Company, yet the area omits the brewery that made Milwaukee famous,
+millions of dollars in the controlling family’s vast speculative suburban
+landholdings, and large worldwide interests. Smaller owners have out-
+side interests too, but on the whole are less diversified.
+
+Again, the data on industry take no account that the large firms
+either have or are branch plants. Increasingly they are merged into
+conglomerates. In Wisconsin, Udell finds recent conglomeration has
+resulted in large drops in activity-based income taxes from the merged
+properties. Conglomeration is partly motivated, indeed, to avoid in-
+come taxes. That means the corporate income tax is regressive in
+practice.?°
+
+Many popular recent studies omit all property but housing, follow-
+ing Walter Morton. The better studies, as by Musgrave and Netzer;
+avoid this outright blunder. But wide currency and credibility have
+gone recently to a study by Daniel Lucas for the D.C. Government,
+based entirely on housing — first home only — and hypothetical hous-
+ing at that.21_ The Wisconsin Department of Revenue released a study
+in May “in defense of Governor Lucey’s use of the income tax to
+provide property tax relief” with the same blunder.2? This study
+follows the precedent of a 1959 release by the University of Wisconsin
+School of Commerce.?%
+
+Many writers exempt corporate shares from taxable wealth, faulting
+the property tax for not reaching such “intangibles.” Yet most cor-
+porate assets are very tangible at a price. In most jurisdictions the
+largest property taxpayers are corporations.24 Studies based on indi-
+vidual ownership alone and omitting corporate wealth are simply not
+relevant. ;
+
+A large genre of partial inventories is the farm study, of which every
+Agricultural Experiment Station must have issued one or more. Hardly
+anyone wealthy enough to own a large farm today lacks nonfarm in-
+come. One cannot afford to keep a large farm without using it as an
+income tax shelter — that is the “highest and best use” under our in-
+come tax law. Studies purporting to compare “farm income” with
+farm property taxes are founded on the obsolete premise that “farmers”
+are a separate class of people, and have no value.
+
+20Jon Udell, Social and Economic Consequences of the Merger Move-
+ment in Wisconsin (Madison: Bureau of Business Research, 1969).
+
+21D. Lucas, “Major Tax Burdens in Washington Compared With Those
+in the 25 Largest Cities,” D.C. Government, press release, December 1970.
+
+22 Milwaukee Journal, May 25, 1971.
+
+23 University of Wisconsin Tax Study Commission, Wisconsin’s State and
+Local Tax Burden (Madison: University of Wisconsin School of Commerce,
+1959).
+
+24M. Mason Gaffney, loc. cit..
+418 NATIONAL TAX ASSOCIATION
+
+4. Accepting straw owners as separate owners. Large land assem-
+blies are habitually arranged through straw owners. Thus one large
+owner often appears on records as several small ones. The Milwaukee
+CBD study, as reported, is premised on one certain block’s having
+several separate owners, as recorded. Some time after the First Wis-
+consin Bank announced it was building on the assembled site,25 we
+did not find it listed as owner.26 Nor did we find Northwestern Mutual
+Life listed for more than its home office, although Gordon Davidson,
+director of real estate, stated the company had been acquiring land in
+our area “over the years.” 27 Small owners, on the other hand, are
+not likely to appear as large ones. Wealthy families wear several
+guises: banks, insurance companies, corporations, estates, utilities, etc.
+Property is assigned to children and relatives to split income. Rarely
+are these veils pierced by formal quantitative studies. Even the ICC
+has never found out who owns the-railroads. But we can be quite
+certain ownership is held more closely in fact than on paper.
+
+B. The Property Tax is not Primarily Shifted Forward
+
+With a base so concentrated, it requires some creative methods to
+find the property tax regressive. One is to assume general forward
+shifting. Then the property owner is exempt, exempt as a homeowner.
+Tenants do not escape. No one does. The property tax becomes a
+general consumption tax, and therefore regressive. I submit several
+reasons why the property tax is not shifted forward.
+
+1, All studies have greatly understated the share of land in real
+estate value. Some overlook it altogether. The good ones assign it
+a value, and allow for nonshifting, but the value is much too low.
+They-are all pre-Douglas Commission Report, and rendered obsolete
+by Manvel’s study of how high a share land values are.28 Manvel’s
+study plus my Milwaukee study plus Gustafson’s California data
+support a land share of 40% and up, much higher than the 15% or so
+used by Musgrave et al. At present the assessed value of land is
+40-50% of the total in Washington, D.C., California, and some other
+jurisdictions that have updated assessments.
+
+It is true that in most jurisdictions land is underassessed, and Mus-
+grave’s numbers were reasonable in their day as a statement of what
+assessors were doing. As noted, however, maladministration should
+be blamed on administrators, not on the property tax per se. And
+Musgrave omitted three important points.
+
+25 Milwaukee Sentinel, February 14, 1969.
+
+26 Report by Patricia Bevic, Research Assistant, March, 1969.
+
+‘27 Milwaukee Sentinel, February 14, 1969.
+
+28 Allen D. Manvel, “Trends in the Value of Real Estate and Land, 1956-
+66,” in National Committee on Urban Problems, Three Land Research
+Studies, Research Report #12 (Washington: GPO, 1968), pp. 1-17.
+PROPERTY TAXATION 419
+
+One, the share of land in real estate tends to rise with value of
+holdings.2° So nonshiftability of the property tax rises with wealth.
+
+Two, the share of land in real estate is lowest in owner-occupied
+residences, where the shifting assumption has no effect on progressivity.
+The land share is highest, normally over half, in commerce, where
+the assumption is critical. In Milwaukee, 40% of all retail land space
+is in gas stations! The property tax on downtown and other retail
+landowners with wide parking lots in good locations is one of the
+most progressive imaginable, but Musgravian assumptions convert it
+into a regressive sales tax.
+
+Three, taxes on land actually have some positive effect on supply.
+.They are not simply neutral, but apply leverage prompting earlier and
+more intensive use of land. To assume non-shifting understates their
+impact on landowners. They weaken his market position vis-a-vis
+non-owners, making them doubly progressive. This is @ fortiori true
+of mineral bearing lands. Here, property tax critics often forecast
+panic liquidation if rates rise. They overdraw the point, but there is
+a point there, and it is in the reverse of forward shifting.
+
+2. Taxes on buildings are not mostly shifted forward. There is
+no reason to assume forward shifting of taxes on capital, and I find no
+persuasive rationale in Musgrave et al.,/or Morton. Netzer mug-
+wumps the issue.
+
+To be simply shifted forward, a tax would have to be proportional
+to output. Taxes on capital are not proportional to output, but to one
+input. They fall differentially hard on capital intensive firms and
+industries, which could not recoup from customers without raising
+prices relative to labor-intensive competitors. Capital-intensity varies
+over a very wide range — see any issue of Fortune’s annual analysis
+of the top 500 corporations. And it is the large firms that own more
+capital per unit of output. That is, the use of property is regressive,
+so that activity-based taxes are regressive relative to taxes on capital.
+Even if there be some tendency toward forward shifting it would be
+very uneven, the more capital-intensive firms being less able to shift.
+
+But of alternative shifting hypotheses, forward shifting seems the
+least likely. It would only make sense if the tax were levied on one
+industry, exempting others, thus reducing supply and raising real price.
+But the property tax is a general tax on capital. It cannot be analyzed
+with tools of partial equilibrium. It chases capital out of capital-
+intensive and into labor-intensive uses. The tax on buildings (not on
+land) encourages Jand-intensive use, too, i.e. a low capital/land ratio.
+
+Where we go from here depends on what we are analyzing. If it is
+
+29 President’s Commission on Urban Housing, Report on Urban Housing
+(Washington: GPO, 1968), p. 351; M. Gaffney, “Land Speculation,” unpub-
+lished Ph.D. dissertation, University of California, 1956, pp. 210-17; 1940
+
+Census of Agriculture, Vol. 3, p. 80; R. Hurd, Principles of City Land
+Values (New York: Record and Guide, 1902), p. 102.
+420 NATIONAL TAX ASSOCIATION
+
+an open economy like the typical local taxing body, then wage rates
+and interest rates are fixed exogenously, leaving only land to bear any
+local tax. The local tax on capital thus is largely shifted to land. The
+shifting is differential, owing to different capital/land ratios; and
+density is reduced. But the point here is that the tax is not shifted
+off property and is not made regressive.
+
+If it is federal revenue-sharing we analyze, the rules change. Now
+the proposal would affect property taxes nationwide. Here we cannot
+assume that interest and wage rates are fixed exogenously.
+
+In a completely closed economy, capital should bear most of: the
+tax on capital. If it cannot emigrate, its escape routes are limited to
+dissaving and tax-exempt public works. Supply being fairly inelastic,
+capital has to accept a lower rate of return after taxes. If capital
+did not absorb the tax, the tax rate added to the pre-tax interest rate
+would drive capital out of capital-intensive and into labor-intensive
+uses. In the latter it complements labor, raising demand for labor,
+preventing a shift of the tax to labor.
+
+But the U.S. economy is not entirely closed. Capital now emigrates,
+not without cost, but more freely than labor. Thus the position of
+capital vis-a-vis labor is stronger than in a completely closed economy,
+and labor does suffer from the tax. But the position vis-a-vis land is
+strong too. So the capital tax as a national institution is borne by land
+and capital and labor, all three. Thus property still bears much, and
+probably most of the capital tax.80 Remember now, that the other
+half of the property tax falls directly on land and stays. Putting it all
+together, it seems most likely that the property tax is indeed largely
+what it purports to be, a tax on property.
+
+The case for forward shifting is’ strongest with utilities, and rails,
+not for analytical but institutional reasons. Here, however, a simple
+forward shift would only result if we took regulatory piety at face
+value, as no one does who really looks into the matter. We cannot
+develop that here. But note that the rate required to attract capital
+into utilities is lowered by taxes on non-utility property. Thus: in-
+directly, if regulation works at all, utilities bear the property tax too,
+at least in part.
+
+The case for forward shifting seems weak with timber, livestock,
+and all appreciating capital in the short run, since it hastens liquidation.
+
+30 Adding the property tax rate to the interest rate affects the allocation
+of new investments in much the same way as raising interest rates by the
+amount of the property tax rate. This forces capital into labor-intensive
+forms, moderating the damage to labor by increasing demand for labor.
+Saving capital also involves substituting land, but this is tightly limited,
+because using more private land would require more social overhead capital
+(like longer streets). And saving capital entails lowering longevity of capi-
+tal, which substitutes labor for land, as explained by Wicksell in Value,
+Capital and Rent.
+PROPERTY TAXATION 421
+
+But this is only short run, and a partial analysis. In the long run the
+tax drives capital out of capital-intensive uses. The case is really
+weak where cartels are engaged in underutilizing capital or land —
+the common condition according to students of industrial organiza-
+tion. These holding actions are extremely vulnerable to the property
+tax. Far from being shifted forward, the tax forces idle capital and
+land into use, increasing supply and lowering prices. All cartels are
+characterized by excess capacity — that is of the essence. When you
+consider that half the wells in Texas are surplus — need I go on?
+In a cartelized society like ours the forward shifting thesis is not just
+shaky but ludicrous. Untaxing property, as by revenue sharing, would
+strengthen the hand of every cartel now locking up excess capacity.
+It is not the property tax but the lack of one that would be shifted
+forward in higher prices.
+
+C. The Need to Correct for Regression Fallacy,
+or Which Top 10% Do You Mean?
+
+Most studies of property tax regressivity stumble squarely into the
+pratfall of regression fallacy. The problem in brief is this. Income
+and property are positively related but the scatter of points is loose,
+with great individual residuals from any fitted curve, and a high error
+of estimate. We want to know which rises faster as they rise together.
+The answer depends on which we arbitrarily select as the ranking vari-
+able. Let us say we rank by income on the abscissa and find the top
+10% have 30% of the income and 25% of the property (a hypothetical
+number). It looks as though the property tax is regressive. But now
+rank them by property on the ordinate. The top 10% are now a dif-
+ferent group —- we have taken a stratum of points at right angles to
+the original column. Some of the humble have been exalted, and the
+mighty laid low. This top 10% has say 50% of the property and 25%
+of the incomé, and the property tax looks progressive (in terms of
+income) .31
+
+When the Census of Housing ranks families by income, rent pay-
+ments do not keep up with income.®? But ranking them by value of
+dwelling units, value quintuples while income only doubles.38 That is
+the difference a technical detail or two can make.
+
+So which top 10% do we mean? Most studies have uncritically
+
+31 Good discussions of regression fallacy are in Allen Wallis and Harry
+Roberts, Statistics (Glencoe: The Free Press, 1956), preceding p. 263;
+Lawrence Klein, Introduction to Econometrics (Englewood Cliffs: Prentice-
+Hall, 1962), pp. 68-69; George Stigler, ‘Labor Productivity and Size of
+Farm: A Statistical Pitfall,” Journal of Farm Economics 28: 821-25 (1946);
+and A. E. Waugh, Elements of Statistical Method (New York: McGraw-
+Hill, 1943), pp. 387-89. :
+
+32 U.S. Census of Housing, 1960, Table A-3.
+
+33 Op. cit., Table B-3, p. 14.
+
+a
+~~
+
+rh
+
+422 NATIONAL TAX ASSOCIATION
+
+chosen income as the proper ranking variable, by assumption, thus
+practically preordaining the conclusion — and largely invalidating it. °
+
+The Chicago school of permanent income hypothesizers have counter-
+attacked sharply on the housing salient. Margaret Reid 94 undertook
+to narrow the scatter of points by removing random year-to-year in-
+come changes. She related housing to a definition of permanent
+income, and came up with income-elasticity of demand for housing
+well above unity.
+
+One of Reid’s methods of avoiding regression fallacy was the inter-
+area comparison, where data are grouped by a neutral variable (neigh-
+borhood) which is neither housing nor income. Brodsky has repeated
+this for Census Tracts of the District of Columbia. His findings strike
+me because he is a geographer who is not concerned with the perma-
+nent income or regressivity question and presents his findings just as
+interesting facts. He finds residential improvement values rise with the
+1.3 power of income; land values rise with the 1.8 power.3%
+
+Muth has refined and expanded Reid’s methods. He now suggests
+1.2 or 1.3 as correct income-elasticities of demand for housing.26 Lee
+has criticized Reid’s methods and come up with an elasticity of about
+-81. However, Lee’s data were too small a sample to lean on heavily,
+and more important they excluded land.37 We have seen that land is
+the most progressive share of housing, so this biases Lee’s findings
+downwards.
+
+Another needed correction is the treatment of realized capital gains.
+Say an asset rises slowly for twenty years and is sold. In the year of
+sale, reported income is high, but property taxes are normal or fall.
+In the first 19 years there were property taxes and no reported income.
+This creates a statistical illusion of regressivity. If accrual of value
+were treated as current income, the illusion would be dispelled.
+
+Another needed correction is the treatment of normal life-cycles of
+accumulation and liquidation. It is normal for the retired elderly to
+draw on savings in years of low income, and get help from children,
+if needed, to hang onto property the children will inherit. The prop-
+erty tax which has not been regressive in a lifetime sense looks regres-
+sive when no correction is made for this statistical illusion.
+
+But these are only glancing blows. The central question is, why
+rank by income at all — any concept of income? When we do that
+we accept income-fundamentalism, a kind of philosophical imperialism
+
+962 M. Reid, Housing and Income (Chicago: University of Chicago Press,
+1962).
+
+35 H. Brodsky, “Residential Land and Improvement Values in a Central
+City,” Land Economics 46 (3): 229-47 (August 1970), p. 239.
+
+36 R. Muth, “Permanent Income, Instrumental Variables, and the Income
+Elasticity of Housing Demand” (MS, n.d., ca. 1971, pp. 1-40).
+' 87 Tong Lee, “Housing and Permanent Income,” Review of Economics
+and Statistics 50 (4): 480-90 (November 1968), p. 487.
+PROPERTY TAXATION 423
+
+where Adjusted Gross Income on Form 1040 is the basic reference
+datum against which to measure and judge everything. “Similar cir-
+cumstances” mean similar AGI, and similar circumstances deserve
+similar taxes. In effect this means we judge the property tax on the
+basis of how closely it resembles the income tax, in every detail. Since
+nothing resembles the income tax so much as the income tax, the prop-
+erty tax looks inferior.
+
+Again, the concept called “income-elasticity of demand for wealth”
+contains implicit income —Chauvinism. It implies one-way causa-
+tion: income causes wealth. But wealth also causes income, and as
+Klein points out that changes the rules for relating them.38 No longer
+can income be the simple ranking variable.
+
+If the property tax had no rationale of its own we would be forced
+to accept income fundamentalism. But if the property tax has a
+rationale, then it is legitimate to rank by wealth, and fault the income
+tax for failing to tax large properties adequately. Here is an outline
+rationale for the property tax.
+
+1. “Ability-to-pay” derives from wealth as well as current income.
+James Tobin, Arnold Zellner, Taylor and Houthakker, Harold Somers,
+and others have stressed this lately. The old cliche that “taxes are
+paid out of income” is as empty as the one that we consume “out of
+income.” We spend money, and it is not labelled.
+
+2. The property tax asserts a public equity in land which was won
+and is defended by joint efforts, and whose value derives from public
+works and spillovers, not from the owner’s efforts. It exempts human
+effort, thus rewarding service to the community and denying the state
+any equity in the bodies of its citizens whose freedom and dignity is
+thus enhanced in their capacity as human beings, as distinct from
+owners of wealth.
+
+3. Property taxes reduce the differential effect of inherited wealth
+on the current generation. They strike directly at concentration of
+economic and other power based on wealth, promoting competition
+and equal opportunity. Property as collateral is a source of invisible
+income (credit rating). Taxing property reduces the differential ad-
+vantage of the rich in credit rationing.
+
+4, Property income of a given dollar value places the receiver on a
+higher welfare plane than labor income, because he needn’t work for it.
+$10,000 a year received by dint of working long hours in a coal mine
+with black lung disease is not the same as $10,000 plus a life of ease.
+
+5. The property tax is needed to plug loopholes in the income tax,
+which is inexorably devolving into a payroll tax.
+
+If one finds that rationale compelling, then the proper approach is
+to rank by wealth. Doing so, one finds that property is used regres-
+
+38 Klein, op. cit., p. 68.
+ay
+
+ns
+
+424 NATIONAL TAX ASSOCIATION
+
+sively, i.e., the larger holdings generate less taxable sales and income
+per dollar of wealth. Thus in the Milwaukee industries reported in
+Table 1, ranking by value, the top 10% who have 89% of the value
+have only 69% of the employees.
+
+If one likes the property tax rationale partly but not wholly, then
+he may follow Wallis and Roberts 3° who tell us that to avoid regres-
+sion fallacy a valid way to compare two populations is to compare
+their standard deviations or other measure of variability. If there is
+less income than property in the upper groups, the variability of the
+income distribution will be less. But we have already seen that is so
+(Table 1). Table 1 only gives the top group, but in each case I have
+computed Gini (or Lorenz concentration) ratios for the entire distri-
+bution, and they are as you would expect much higher than for in-
+come. (The Gini ratio is, in my experience, closely correlated with
+the coefficient of dispersion.)
+
+The more we correct for regression fallacy, then, the more progres-
+sive the property tax looks.
+
+D. On Defining Income and Wealth
+
+Dick Netzer, like others, uses AGI as the reference standard against
+which to match the property tax and find it regressive.4#® A certain
+citizen in 1970 reported no AGI, but heavy property taxes, which
+might make the property tax quite regressive were it not Ronald Reagan.
+Yet he is not alone, and it seems harsh to select a measure that makes
+the property tax regressive because it is the only tax many rich men
+pay. General Oppenheimer has written a fine set of manuals on how
+to reach Zero AGI by losing money farming,*1 and they work so well
+that taxable farm income is down to about $3 billions while the USDA
+estimates farm income at $14 billions.42 I do not think that AGI
+will do.
+
+It is not just farming. Property is the paramount tax shelter. How
+does it cover thee? Let me count the ways. There is expensing of
+intangibles and soil and water conservation, percentage depletion, capi-
+tal gains rates, deferred realization, non-distribution of profits, non-
+realization, conversion of interest into cost recovery by watered sales
+prices, accelerated depreciation, multiple depreciation, de facto expen-
+sing of capital improvements, deduction of interest, covert write-off of
+
+39 Op. cit., p. 263.
+
+40 Op. cit., p. 49.
+
+41H. L. Oppenheimer, Cowboy Economics, 1966; Cowboy Litigation,
+1968; Cowboy Arithmetic, 1964 (Danville, Illinois: Interstate Printers and
+Publishers).
+
+42 Hendrik S. Houthakker, “The Great Farm Tax Mystery,” Challenge,
+January and February, 1967, pp. 12-13 and 38-39; Edward Reinsel, Farm
+and Off-farm Income Reported on Federal Tax Returns, ERS-383 (Wash-
+ington: GPO, 1968).
+PROPERTY TAXATION 425
+
+undepreciated land value, deferral of tax beyond date of sale, and
+many others.
+
+At the same time, property is a large source of income that is not
+counted in AGI. Unrealized accruals and imputed income are the
+most obvious, and each is a huge item.
+
+’ Thus the ownership of property tends on a large scale to reduce AGI
+and increase real income. When we rank by AGI, property owners
+move into lower brackets than they belong; non-owners move into
+higher brackets. Property tax payments move into the lower brackets,
+pre-ordaining a finding of regressivity which is totally illusory.
+
+At least two studies have sought to correct for the Reagan Effect.
+Both corrected only partially, and with spectacular results. The Sur-
+vey Research Center made the tax progressive simply by including
+imputed income.4* Brainin and Germanis do a similar job with Cali-
+fornia data.44
+
+Another common method is to define property tax payments as only
+the net burden after deducting payments from taxable income. This
+is to impute a regressive feature of the income tax to the property tax.
+That would be wrong at best, but more so when one is comparing the
+property tax with the income tax itself.
+
+If one does choose to evaluate the two taxes jointly, he should note
+above all that the Federal Government has moved far toward aban-
+doning the taxation of property income. That is the cumulative effect
+of a hundred loopholes, available to property but not to the poor stiff
+with his W-2 Form. Equity suggests that state and local treasuries
+move in on this unpreémpted tax base.
+
+Definition of the property tax base is also a source of serious error
+in a number of studies based on cash rents. Netzer for example as-
+sumes that property taxes are proportional to rents. They aren’t.
+The base is not rent but capital value. The poor live in declining
+neighborhoods and buildings nearing abandonment, where capital value
+is a very low multiple of rent. Rents include high costs for collection,
+turnover, damage, loss of status, maintenance and repairs, and general
+unpleasantness. In Milwaukee’s “Inner Core” or slum area the rule
+of thumb is you pay 30 months’ rent to buy a dwelling unit. Tenant
+incomes are low, but higher than such capital values. The rich live
+in new buildings of long future life in appreciating neighborhoods.
+Incomes are high, but normally less than half of lot or acreage plus
+house values.
+
+It is true that slums are often overassessed, but again, maladminis-
+
+43 Survey Research Center, Income and Welfare in the U.S. (New York:
+McGraw-Hill, 1962).
+
+44 David Brainin and John J. Germanis, Comments on “Distribution of
+Property, Retail Sales and Personal Income Tax Burdens in California: an
+
+Empirical Analysis of Inequity in Taxation,” National Tax Journal, March
+1967, pp. 106-112.
+
+rareny
+wt.
+
+426 NATIONAL TAX ASSOCIATION
+
+tration is the fault of administrators. The property tax in concept is
+progressive precisely because it is based on capital value. Owners of
+appreciating property often complain that capital value as a base hits
+them harder than would current income or service flow as a base, and
+they are right. That is precisely what makes the property tax, cor-
+rectly administered, so progressive.

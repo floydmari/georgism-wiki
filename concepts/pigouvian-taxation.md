@@ -28,6 +28,37 @@ Carbon taxes and cap-and-trade systems are the most prominent modern application
 
 This framing differs from the standard Pigouvian presentation in emphasis. Where Pigouvian theory stresses *correcting a price signal* to restore efficiency, the Georgist framing stresses *capturing a common resource rent* that belongs to the community. The policy instruments — carbon taxes, emission permit auctions — are the same; the normative foundation is what differs. The economist **James K. Boyce** makes exactly this move: he treats the atmosphere as a **common-property resource** and carbon dividends as "payments by users of the resource to its owners," so that carbon pricing becomes rent collected on a commons and returned to its co-owners.[4][5]
 
+## Where the Toolkit Breaks Down: Nonpoint Pollution
+
+The standard Pigouvian remedy — meter the externality, charge for it — presupposes
+a meterable point of emission. **Mason Gaffney**'s essay "Nonpoint Pollution:
+Tractable Solutions to Intractable Problems" (1988/89) is a sympathetic critique
+of the toolkit precisely where that assumption fails: agricultural runoff,
+forestry erosion, urban stormwater, and similar diffuse pollution have no single
+outlet to tax. Economists respond by taxing a *surrogate* instead — pesticides,
+fertilizers — but Gaffney catalogues seven specific failure modes of surrogate
+taxation: it ignores location (a uniform rate either overprotects or
+underprotects depending on the site), creates revenue interests that can override
+the regulatory purpose, leaks through an underground economy and windfall
+compensation to sellers of soon-to-be-banned stock, invites unpredictable
+substitution, fails to discriminate between careful and careless applicators,
+depends on regulatory institutions whose objectivity is itself contested, and —
+most fundamentally — operates in a "second-best" world where the land market
+generating the pollution is already badly distorted by speculation and absentee
+ownership, so correcting one more price is no guarantee of improvement.[9]
+
+Gaffney's resolution is characteristically Georgist: rather than search for a
+cleverer surrogate tax, he traces nonpoint pollution back to land-market failure
+— urban sprawl, idle speculative land, and tax-code incentives to defer
+harvesting good timberland while overcutting marginal, erosion-prone land — and
+argues the fix is land value taxation and compact settlement, not a better-
+designed emissions charge. This does not undercut the Pigouvian case generally
+(Gaffney explicitly accepts effluent charges "have their place" for point
+sources); it identifies a specific domain — diffuse, unmeterable pollution —
+where the price-correction model needs a land-market answer instead. See
+[research/gaffney-nonpoint-pollution](/wiki/gaffney-nonpoint-pollution/) for
+the full argument. (C-claim; Gaffney's own applied argument, attributed.)
+
 ## Relationship to Deadweight Loss
 
 Pigouvian taxes occupy an unusual position in tax theory. Most taxes create [deadweight loss](/wiki/deadweight-loss/) by discouraging beneficial activity — the lost transactions would have been mutually beneficial. A Pigouvian tax, by contrast, is designed to discourage a *harmful* activity whose private cost understates its social cost. Under the standard theoretical model, a correctly calibrated Pigouvian tax improves allocative efficiency rather than reducing it.
@@ -60,6 +91,7 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 - [The Macroeconomic Impact of Europe's Carbon Taxes (Metcalf & Stock)](/wiki/metcalf-stock-europe-carbon-taxes/) — externality correction without a growth penalty
 
 - [Ecological Georgism](/wiki/ecological-georgism/) — the extension of Georgist rent-capture to environmental externalities
+- [Gaffney (1988/89): Nonpoint Pollution](/wiki/gaffney-nonpoint-pollution/) — where the standard effluent-charge/surrogate-tax toolkit breaks down, and Gaffney's land-market alternative
 - [Deadweight Loss](/wiki/deadweight-loss/) — why most taxes are inefficient, and why Pigouvian taxes and LVT are exceptions
 - [Resource Rents](/wiki/resource-rents/) — the Georgist treatment of natural resource rents as socially capturable
 - [Land as Commons](/wiki/land-as-commons/) — the tradition holding that land and natural resources are common property
@@ -77,3 +109,4 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 6. Kevin Rennert et al., "Comprehensive evidence implies a higher social cost of CO₂," *Nature* 610 (2022), pp. 687–692 — used for the ~$185/tonne central social-cost-of-carbon estimate and its sensitivity to damage functions and discounting. DOI [10.1038/s41586-022-05224-9](https://doi.org/10.1038/s41586-022-05224-9).
 7. Lawrence H. Goulder, "Environmental Taxation and the 'Double Dividend': A Reader's Guide," *International Tax and Public Finance* 2(2) (1995), pp. 157–183 — used for the weak/strong double-dividend distinction and the tax-interaction effects that qualify it. DOI [10.1007/BF00877495](https://doi.org/10.1007/BF00877495) (also [NBER WP 4896](https://www.nber.org/papers/w4896)).
 8. Alanna Hartzok (2008), *The Earth Belongs to Everyone*, Institute for Economic Democracy Press — referenced in this wiki's ecological-georgism page for the land-rent-capture / environmental-justice convergence. No stable external URL for this book has been confirmed; it carries no load-bearing claim on this page — the peer-reviewed weight for the carbon-rent framing rests on Boyce (sources 4–5).
+9. Mason Gaffney (1988/89), "Nonpoint Pollution: Tractable Solutions to Intractable Problems," *JBA* 18(1&2): 133–154 — used for the critique of surrogate-tax Pigouvian remedies for diffuse pollution and the land-market alternative (C-claim, attributed). [Wiki summary](/wiki/gaffney-nonpoint-pollution/) · [PDF](https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf)

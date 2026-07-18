@@ -138,6 +138,7 @@ mechanism and normative proposal, not independently tested in this chapter.)
 - [Gaffney (1969): Land Planning and the Property Tax](/wiki/gaffney-land-planning-property-tax/) — the next Gaffney statement of a related sprawl mechanism, five years later
 - [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the credit-discrimination and logrolling sprawl mechanisms, eight to nine years later
 - [Gaffney (1978): The Synergistic City](/wiki/gaffney-synergistic-city/) — the later, more abstract restatement of the postage-stamp cross-subsidy argument
+- [Gaffney (1988/89): Nonpoint Pollution](/wiki/gaffney-nonpoint-pollution/) — makes explicit a connection only implicit here: sprawl as the mechanism of nonpoint water pollution, with a Milwaukee runoff/renewal case
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 
 ## Sources

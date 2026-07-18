@@ -30,6 +30,7 @@ Cohen & Coughlin (2005) is candid about the difficulties, drawing on Edwin Mills
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) · [Pittsburgh](/wiki/pittsburgh/)
 - [Detroit Land Value Tax Proposal (2023–24)](/wiki/detroit-lvt-proposal/) — a recent attempt to bring split-rate taxation to a major US city outside Pennsylvania
+- [Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — Gaffney's finding that commercial land (highest land-share of value) bears the property tax most heavily is directly relevant to who wins and loses under a shift toward land
 
 ## Sources
 

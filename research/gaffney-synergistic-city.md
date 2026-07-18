@@ -51,6 +51,7 @@ Fred Harrison's *Ricardo's Law* cites Gaffney's paper as documenting how "synerg
 - [Optimal City Size](/wiki/optimal-city-size/) — related literature on the tradeoff between urban benefits and costs
 - [Gaffney (1998): The Philosophy of Public Finance](/wiki/gaffney-philosophy-of-public-finance/) — a later chapter that cites this paper directly for its brief restatement of the synergy argument
 - [Gaffney (1964): Containment Policies for Urban Sprawl](/wiki/gaffney-containment-policies-urban-sprawl/) — the earlier, more concretely worked-out statement of this paper's postage-stamp cross-subsidy argument
+- [Gaffney (1988/89): Nonpoint Pollution](/wiki/gaffney-nonpoint-pollution/) — a decade-later essay making the compact-city/resource-saving argument explicitly about water pollution
 
 ## Sources
 

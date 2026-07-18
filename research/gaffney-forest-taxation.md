@@ -246,6 +246,9 @@ resembling Gaffney's proposed reforms is covered by this page.
 - [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/)
   — the parallel leasing-design argument for a different public natural-resource
   asset, written the same month as the National Forests address
+- [Gaffney (1988/89): Nonpoint Pollution](/wiki/gaffney-nonpoint-pollution/) —
+  extends the yield-tax/land-value-tax timber argument with a runoff/erosion
+  case for why the choice of tax base affects where logging pressure falls
 - [Resource Rents](/wiki/resource-rents/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 

@@ -15,7 +15,130 @@ gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depleti
 gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy,
 gaffney-rising-inequality-farm-property-tax, gaffney-urban-land-rent,
 gaffney-containment-policies-urban-sprawl, gaffney-land-as-element-of-housing-costs,
-gaffney-water-rent-taxation; narratives/the-corruption-of-economics; people/mason-gaffney.
+gaffney-water-rent-taxation, gaffney-nonpoint-pollution, gaffney-property-tax-progressive;
+narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-18 (F-series complete + G-series triage — environment/energy and
+property-tax-miscellany burn-down):** Fetched and skimmed all 21 unchecked
+F/G rows (3 F, 18 G — G4a and G20's ampersand/discussant-proceedings
+filenames were fetched cleanly this time; no 236-byte 404 stubs turned up,
+contrary to this wave's briefing, so the `%26` fix was not needed). Two
+works mined into new dedicated pages, chosen as the most substantive
+genuine wiki-gap fillers after checking against the existing
+concepts/pigouvian-taxation, concepts/ecological-georgism, and
+research/mieszkowski-property-tax-incidence coverage (neither page
+previously carried any Gaffney-specific content).
+
+**F7/F8, "Nonpoint Pollution: Tractable Solutions to Intractable
+Problems"** (*JBA* 18(1&2), 1988/89 — full journal title unconfirmed,
+`[VERIFY]`) — see
+[research/gaffney-nonpoint-pollution](/wiki/gaffney-nonpoint-pollution/).
+F7 and F8 are the identical article from two different scans (F7's OCR
+layer markedly cleaner; F8 not separately mined, per the H20
+abridged/unabridged duplicate precedent). The essay is a sympathetic
+internal critique of the standard Pigouvian effluent-charge/surrogate-tax
+toolkit specifically where it breaks down — diffuse, unmeterable
+"nonpoint" runoff — cataloguing seven concrete failure modes, then
+relocates the fix to land-market failure: urban sprawl, timber-tax
+incentives that defer harvest on good land while overcutting marginal
+land, and speculative/absentee land holding. This is a genuine bridge
+document across three existing pages (extends
+gaffney-forest-taxation's yield-tax-vs-land-value-tax argument with a
+runoff/erosion case; makes explicit, for the first time in the corpus, the
+sprawl-causes-pollution link only implicit in
+gaffney-containment-policies-urban-sprawl and gaffney-synergistic-city)
+while also supplying pigouvian-taxation and ecological-georgism their
+first Gaffney-specific primary source. **F2Q, "Welfare Economics and
+Environmental Quality"** (1966 RFF Forum comments on Allen Kneese) was
+read in full and declined a dedicated page: a witty discussant response,
+not an original research contribution; its one durable point (land-rent
+capitalization as a measure of pollution-abatement benefits) restates
+mechanisms already covered via tax-capitalization and Oates (1969), three
+years ahead of them but adding nothing beyond what those pages establish.
+Zero-addition verdict, no registry row (C2/E15 precedent).
+
+**G17, "The Property Tax Is A Progressive Tax"** (NTA *Proceedings*,
+1971) — see
+[research/gaffney-property-tax-progressive](/wiki/gaffney-property-tax-progressive/).
+A four-part rebuttal of the standard regressivity finding — property
+ownership is far more concentrated than income (a twelve-study wealth-
+concentration table, 1926–1971), the tax is not chiefly shifted forward,
+the standard studies commit a regression fallacy by ranking on income
+rather than wealth, and AGI understates property owners' true income —
+published essentially simultaneously with Mieszkowski's 1972 "new view"
+but reasoned from entirely disjoint premises (ownership concentration,
+not capital mobility). Wired as a genuinely independent, non-overlapping
+argument into research/mieszkowski-property-tax-incidence (new section
+distinguishing the two), with the wealth-concentration table folded as
+additional evidence into concepts/land-monopoly and light cross-links
+into concepts/split-rate-taxation and
+benefits/landlords-cannot-pass-lvt-to-tenants (historical context, not
+wired into that page's curated `supported_by` evidence tables, per the
+house rule against treating a Gaffney conference argument as peer-reviewed
+incidence evidence). G29's own bibliography independently cites G17,
+corroborating its standing as a distinct, citable Gaffney work.
+
+**Other G rows skimmed and declined this wave** (all read in part; none
+selected as this wave's two picks, all judged either overlapping with
+already-covered ground or out of this wave's environment/property-tax
+scope): **G1** ("Adequacy of Land as a Tax Base," 1970, in Holland ed.,
+*The Assessment of Land Value*) — a revenue-adequacy argument
+overlapping substantially with gaffney-hidden-taxable-capacity; cited
+independently by F7 as a reference, confirming its real identity. **G13**
+("The Partiality of Indexing Capital Gains," NTA 1990/91) — a capital-
+gains-indexing critique adjacent to gaffney-capital-gains-free-enterprise,
+not read in full this wave. **G21**, nominally a duplicate of G13, is a
+**scan mismatch**: its extracted text is unrelated endnotes from a
+different book entirely (citations to Piaget, Kuhn, Hegel on "Quantum
+Theory") — flagged, not usable, no registry row. **G18** ("What Is
+Property Tax Reform?") restates G17's ownership-concentration argument in
+more popular form, ending in a Kropotkin quotation; **G4/G4a** ("An
+Agenda for Strengthening the Property Tax," two scans of the same 1972
+ACIR remarks) restate the same four-point program covered elsewhere.
+**G19** ("The Many Faces of Site-Value Taxation," Canadian Tax
+Foundation, 1975) is a substantive survey of site-value-tax variants and
+remains a strong candidate for a future wave. **G20** (NTA 1977
+discussant remarks on energy taxes, inside the full conference
+*Proceedings* volume) is a short discussant fragment. **G2009**
+("Hidden Taxable Capacity of Land," 2009, 84pp scanned image, not
+OCR'd this wave) is very likely a later/expanded edition of the 2008 UCR
+paper already the primary source for gaffney-hidden-taxable-capacity —
+flagged as a scan-depth-upgrade candidate for a future wave rather than
+declined outright, since it was not actually read. **G28** ("Taxation
+and Human Values: An Alternative Reform," *Center Magazine*, 1978) is a
+Proposition 13 response essay; events/proposition-13 already exists as a
+dedicated page and this essay was not checked against it in detail this
+wave. **G29** ("The Taxable Capacity of Land") restates the G1/hidden-
+taxable-capacity revenue-adequacy argument. **G2Q** (two files:
+"Coordinating Tax Incentives and Public Policy," Brookings 1969 draft;
+and 1967 Senate testimony before the President's Commission on Urban
+Problems, Sen. Paul Douglas presiding — badly garbled OCR) both restate
+tax-reform ground covered elsewhere. **G34Q** ("Equity Premises and the
+Case for Socializing Rent") is philosophical/normative argument
+overlapping gaffney-philosophy-of-public-finance; per the house
+convention, theoretical material of this kind is kept out of
+`supported_by` lists regardless. **G39** ("Land Gains, Fast Write-off,
+and Incentives to Build," TRED 1985) works a depreciation/capital-gains
+tax-asymmetry argument adjacent to gaffney-capital-gains-free-enterprise;
+not read in full. **G45** ("The Income-Stimulating Incentives of the
+Property Tax," Gaffney & Noyes, book chapter with an appendix cataloguing
+rent-yielding resources and a California/New Hampshire growth
+comparison) is co-authored and the richest-by-word-count G candidate not
+selected — a strong candidate for a future wave, potentially relevant to
+benefits/split-rate-increases-construction. **G60** ("A Cannan Hits the
+Mark," on Edwin Cannan, 1861–1935) is history-of-economic-thought
+material, K-series-adjacent rather than property-tax-miscellany; no
+people/edwin-cannan page exists yet to fold it into. None of these eight
+were mirrored to `sources/gaffney/text/` (skim-only, per the C2/E1
+save-only-if-cited convention); no registry rows added for any of them.
+Registry: two new rows this wave (F7 and G17, both tier `important`, Scan
+Depth Heavy — both re-OCR'd at 250dpi with Tesseract 5.3.4 after the
+default `pdftotext` extraction showed the same legacy-scan WinAnsi-font
+artifact pattern documented on the K-series and H3 pages). `lint_wiki.py`:
+0 errors. This closes out the F-series (no unchecked F rows remain); the
+G-series retains nine declined-but-unread-in-full rows (G1, G13, G19,
+G20, G2009, G28, G39, G45, G60 — G21 is a scan-mismatch dead file) as
+candidates for a future wave.
 
 **2026-07-18 (K-series — history-of-economic-thought cluster):** Surveyed all
 unchecked K rows. Two were already resolved before this wave started: K142
@@ -534,28 +657,28 @@ priority-correction candidate for a future wave.
 - [ ] `E5-WhenToBuildWhat-LocalServicePricingPolicies.CV.pdf` — https://masongaffney.org/publications/E5-WhenToBuildWhat-LocalServicePricingPolicies.CV.pdf
 - [ ] `E7Prop_taxes_&amp;_Urban_Renewal.CV.pdf` — https://masongaffney.org/publications/E7Prop_taxes_&amp;_Urban_Renewal.CV.pdf
 - [ ] `E9-TaxToolforMeetingUrbanFiscalCrisis.CV.pdf` — https://masongaffney.org/publications/E9-TaxToolforMeetingUrbanFiscalCrisis.CV.pdf
-- [ ] `F2QWelfareEconomics_and_Environmental_Quality.CV.pdf` — https://masongaffney.org/publications/F2QWelfareEconomics_and_Environmental_Quality.CV.pdf
-- [ ] `F7Nonpoint_Pollution.CV.pdf` — https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf
-- [ ] `F8-NonpointPollution.CV.CV.pdf` — https://masongaffney.org/publications/F8-NonpointPollution.CV.CV.pdf
-- [ ] `G13Partiality_of_Indexing_Capital_Gains-Original.pdf` — https://masongaffney.org/publications/G13Partiality_of_Indexing_Capital_Gains-Original.pdf
-- [ ] `G17Property_Tax_Progressive_Tax.CV.pdf` — https://masongaffney.org/publications/G17Property_Tax_Progressive_Tax.CV.pdf
-- [ ] `G18What_is_Prop_Tax_Reform.CV.pdf` — https://masongaffney.org/publications/G18What_is_Prop_Tax_Reform.CV.pdf
-- [ ] `G19Many_Faces_of_Site_Value_Taxation.CV.pdf` — https://masongaffney.org/publications/G19Many_Faces_of_Site_Value_Taxation.CV.pdf
-- [ ] `G1Adequacy_of_land.CV.pdf` — https://masongaffney.org/publications/G1Adequacy_of_land.CV.pdf
-- [ ] `G20-NatlTaxAssnDiscussantonEnergyTaxes.CV.pdf` — https://masongaffney.org/publications/G20-NatlTaxAssnDiscussantonEnergyTaxes.CV.pdf
-- [ ] `G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf` — https://masongaffney.org/publications/G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf
-- [ ] `G21-PartialityofIndexingCapitalGains.CV.pdf` — https://masongaffney.org/publications/G21-PartialityofIndexingCapitalGains.CV.pdf
-- [ ] `G28-AnAlternativeReform.CV.pdf` — https://masongaffney.org/publications/G28-AnAlternativeReform.CV.pdf
-- [ ] `G29-TaxableCapacityofLand.pdf` — https://masongaffney.org/publications/G29-TaxableCapacityofLand.pdf
-- [ ] `G2QCoordinating_Tax_Incentives.CV.pdf` — https://masongaffney.org/publications/G2QCoordinating_Tax_Incentives.CV.pdf
-- [ ] `G2QTestimony_before_Sen_Douglas.CV.pdf` — https://masongaffney.org/publications/G2QTestimony_before_Sen_Douglas.CV.pdf
-- [ ] `G34QEquity_Premises_and_Case_for_Socializing_Rent.CV.pdf` — https://masongaffney.org/publications/G34QEquity_Premises_and_Case_for_Socializing_Rent.CV.pdf
-- [ ] `G39LandGains.CV.pdf` — https://masongaffney.org/publications/G39LandGains.CV.pdf
-- [ ] `G4-AgendaforStrengtheningthePropertyTax1.CV.pdf` — https://masongaffney.org/publications/G4-AgendaforStrengtheningthePropertyTax1.CV.pdf
+- [x] `F2QWelfareEconomics_and_Environmental_Quality.CV.pdf` — https://masongaffney.org/publications/F2QWelfareEconomics_and_Environmental_Quality.CV.pdf — read in full, 2026-07-18. "Welfare Economics and Environmental Quality: Comments on Allen V. Kneese," 1966 RFF Forum on Quality of the Environment. **Declined, zero-addition verdict**: a discussant response, not original research; its one durable point (land-rent capitalization as pollution-benefit measure) is already covered via tax-capitalization/Oates 1969. No registry row (C2/E15 precedent).
+- [x] `F7Nonpoint_Pollution.CV.pdf` — https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf — [research/gaffney-nonpoint-pollution](/wiki/gaffney-nonpoint-pollution/), 2026-07-18. "Nonpoint Pollution: Tractable Solutions to Intractable Problems," *JBA* 18(1&2), 1988/89, pp. 133-154. Legacy-scan OCR text layer; re-OCR'd at 250dpi with Tesseract 5.3.4, mirrored to `sources/gaffney/text/F7-NonpointPollution.CV.txt`.
+- [x] `F8-NonpointPollution.CV.CV.pdf` — https://masongaffney.org/publications/F8-NonpointPollution.CV.CV.pdf — same article as F7 above (identical text, worse-quality scan); not separately mined (F7/F8 duplicate precedent, cf. H20). Covered on [research/gaffney-nonpoint-pollution](/wiki/gaffney-nonpoint-pollution/), 2026-07-18.
+- [x] `G13Partiality_of_Indexing_Capital_Gains-Original.pdf` — https://masongaffney.org/publications/G13Partiality_of_Indexing_Capital_Gains-Original.pdf — skimmed 2026-07-18. "The Partiality of Indexing Capital Gains," NTA 1990/91 Proceedings. **Declined this wave**, not read in full — capital-gains-indexing critique adjacent to gaffney-capital-gains-free-enterprise; candidate for a future wave. No registry row.
+- [x] `G17Property_Tax_Progressive_Tax.CV.pdf` — https://masongaffney.org/publications/G17Property_Tax_Progressive_Tax.CV.pdf — [research/gaffney-property-tax-progressive](/wiki/gaffney-property-tax-progressive/), 2026-07-18. "The Property Tax Is A Progressive Tax," *Proceedings of the Sixty-Fourth Annual Conference on Taxation*, NTA, 1971, pp. 408-426. Legacy-scan OCR text layer; re-OCR'd at 250dpi with Tesseract 5.3.4, mirrored to `sources/gaffney/text/G17-PropertyTaxProgressiveTax.CV.txt`.
+- [x] `G18What_is_Prop_Tax_Reform.CV.pdf` — https://masongaffney.org/publications/G18What_is_Prop_Tax_Reform.CV.pdf — skimmed 2026-07-18. "What Is Property Tax Reform?" — restates G17's ownership-concentration argument in more popular form (ends on a Kropotkin quotation). **Declined**, not selected as this wave's pick; no registry row.
+- [x] `G19Many_Faces_of_Site_Value_Taxation.CV.pdf` — https://masongaffney.org/publications/G19Many_Faces_of_Site_Value_Taxation.CV.pdf — skimmed 2026-07-18. "The Many Faces of Site-Value Taxation," Canadian Tax Foundation, 27th Annual Conference, Nov. 12 1975 (to be published *Canadian Tax Journal* 1976). Substantive survey of site-value-tax variants; **not selected this wave** (G17 judged the stronger delta) — flagged as a strong candidate for a future wave. No registry row.
+- [x] `G1Adequacy_of_land.CV.pdf` — https://masongaffney.org/publications/G1Adequacy_of_land.CV.pdf — skimmed 2026-07-18. "Adequacy of Land as a Tax Base," in Daniel Holland (ed.), *The Assessment of Land Value* (U. Wisconsin Press, 1970), pp. 157-212. **Declined**: overlaps gaffney-hidden-taxable-capacity's revenue-adequacy argument; independently confirmed as a real, citable Gaffney work via F7's own bibliography. No registry row.
+- [x] `G20-NatlTaxAssnDiscussantonEnergyTaxes.CV.pdf` — https://masongaffney.org/publications/G20-NatlTaxAssnDiscussantonEnergyTaxes.CV.pdf — skimmed 2026-07-18. A short discussant comment inside the full NTA 1977 *Proceedings* volume (Louisville, Nov. 1977). **Declined**, thin fragment. No registry row.
+- [x] `G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf` — https://masongaffney.org/publications/G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf — fetched 2026-07-18, 84pp scanned image (no usable text layer), **not OCR'd this wave**. Very likely a later/expanded edition of the 2008 UCR working paper already the primary source for gaffney-hidden-taxable-capacity — flagged as a scan-depth-upgrade candidate for a future wave rather than declined outright, since it was not actually read. No registry row.
+- [x] `G21-PartialityofIndexingCapitalGains.CV.pdf` — https://masongaffney.org/publications/G21-PartialityofIndexingCapitalGains.CV.pdf — fetched 2026-07-18. **Scan mismatch / dead file**: extracted text is unrelated endnotes from a different book entirely (citations to Piaget, Kuhn, Hegel on "Quantum Theory" of socioeconomic change), not the Gaffney essay the filename implies. Not usable; no registry row.
+- [x] `G28-AnAlternativeReform.CV.pdf` — https://masongaffney.org/publications/G28-AnAlternativeReform.CV.pdf — skimmed 2026-07-18. "Taxation and Human Values: An Alternative Reform," *The Center Magazine*, Nov./Dec. 1978, pp. 19-28 — a Proposition 13 response essay. **Declined**, not checked against the existing events/proposition-13 page in detail this wave; candidate for a future wave. No registry row.
+- [x] `G29-TaxableCapacityofLand.pdf` — https://masongaffney.org/publications/G29-TaxableCapacityofLand.pdf — skimmed 2026-07-18. "The Taxable Capacity of Land" — restates the G1/hidden-taxable-capacity revenue-adequacy argument; its own bibliography independently cites G17, corroborating that work's standing. **Declined**. No registry row.
+- [x] `G2QCoordinating_Tax_Incentives.CV.pdf` — https://masongaffney.org/publications/G2QCoordinating_Tax_Incentives.CV.pdf — skimmed 2026-07-18. "Coordinating Tax Incentives and Public Policy: The Treatment of Land Income," presented at Brookings, May 1969 (for Charles Schultze, ed., *The Role of Incentives in Public Policy*). **Declined**, restates tax-reform ground covered elsewhere; not read in full. No registry row.
+- [x] `G2QTestimony_before_Sen_Douglas.CV.pdf` — https://masongaffney.org/publications/G2QTestimony_before_Sen_Douglas.CV.pdf — skimmed 2026-07-18. Testimony before the President's Commission on Urban Problems, Pittsburgh, June 11 1967, Sen. Paul Douglas presiding. Badly garbled OCR. **Declined**, restates ground covered elsewhere. No registry row.
+- [x] `G34QEquity_Premises_and_Case_for_Socializing_Rent.CV.pdf` — https://masongaffney.org/publications/G34QEquity_Premises_and_Case_for_Socializing_Rent.CV.pdf — skimmed 2026-07-18. "Equity Premises and the Case for Socializing Rent" — philosophical/normative argument overlapping gaffney-philosophy-of-public-finance; per house convention, theoretical material of this kind stays out of `supported_by` lists regardless. **Declined**. No registry row.
+- [x] `G39LandGains.CV.pdf` — https://masongaffney.org/publications/G39LandGains.CV.pdf — skimmed 2026-07-18. "Land Gains, Fast Write-off, and Incentives to Build," for TRED Conference, Sept./Oct. 1985 — a depreciation/capital-gains tax-asymmetry argument adjacent to gaffney-capital-gains-free-enterprise. **Declined**, not read in full; candidate for a future wave. No registry row.
+- [x] `G4-AgendaforStrengtheningthePropertyTax1.CV.pdf` — https://masongaffney.org/publications/G4-AgendaforStrengtheningthePropertyTax1.CV.pdf — skimmed 2026-07-18. "An Agenda for Strengthening the Property Tax" — four-point program (no relief, assessment reform, shift to state level, convert to site value); same speech as G4a below, restates ground covered elsewhere. **Declined**. No registry row.
 - [x] `G44Philosophy_of_Public_Finance.CV.pdf` — https://masongaffney.org/publications/G44Philosophy_of_Public_Finance.CV.pdf — [research/gaffney-philosophy-of-public-finance](/wiki/gaffney-philosophy-of-public-finance/), 2026-07-16 (local mirror filename: `G44_Philosophy_of_Public_Finance.pdf`/`.txt`, same work)
-- [ ] `G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf` — https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf
-- [ ] `G4a-PropTax&amp;IntergovReltns.CV.pdf` — https://masongaffney.org/publications/G4a-PropTax&amp;IntergovReltns.CV.pdf
-- [ ] `G60Cannan_hits_the_Mark.CV.pdf` — https://masongaffney.org/publications/G60Cannan_hits_the_Mark.CV.pdf
+- [x] `G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf` — https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf — skimmed 2026-07-18. "The Income-Stimulating Incentives of the Property Tax," Mason Gaffney and Richard Noyes (co-authored), Chapter 8 of an unidentified book, with an "Appendix 1: An Inventory of Rent-yielding Resources" (minerals, water, wildlife habitat, spectrum/energy sites) and a California/New Hampshire growth comparison. Richest-by-word-count G candidate not selected this wave; potentially relevant to benefits/split-rate-increases-construction. **Not selected** (co-authored, not read in full) — flagged as a strong candidate for a future wave. No registry row.
+- [x] `G4a-PropTax&amp;IntergovReltns.CV.pdf` — https://masongaffney.org/publications/G4a-PropTax&amp;IntergovReltns.CV.pdf — fetched cleanly this wave (no 236-byte 404 stub encountered; direct `%26`-encoded fetch used as a precaution, per established fix). "The Property Tax and Intergovernmental Relations," remarks to the President's Advisory Commission on Intergovernmental Relations, Sept. 14 1972 — the same four-point speech as G4 above (near-identical opening text), different occasion. **Declined**, duplicate content. No registry row.
+- [x] `G60Cannan_hits_the_Mark.CV.pdf` — https://masongaffney.org/publications/G60Cannan_hits_the_Mark.CV.pdf — skimmed 2026-07-18. "A Cannan Hits the Mark," on Edwin Cannan (1861-1935), LSE economist and editor of the standard 1904 Wealth of Nations edition — history-of-economic-thought material, K-series-adjacent rather than property-tax-miscellany. No people/edwin-cannan page exists yet to fold it into. **Declined**, out of this wave's scope. No registry row.
 - [x] `H18_Water_Giveaway.pdf` — https://masongaffney.org/publications/H18_Water_Giveaway.pdf — read in full, 2026-07-18. "The Water Giveaway: A Critique of Federal Water Policy," in Robert Haveman & Robert Hamrin (eds.), *The Political Economy of Federal Policy* (Harper & Row, 1973), excerpted from Gaffney's 1969 JEC Subcommittee testimony. **Light fold** into [research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/): mostly restates the racing/logrolling/price-umbrella dynamic already on the page from H3, but adds a distinct fiscal driver (pre-1986 expensing of premature-development losses against ordinary income while land-value gains went untaxed) plus two concrete illustrations (Colorado River Compact critique, the Bureau of Reclamation's 1902 revolving fund never completing one revolution by 1969) — folded as item 6 of the Dynamic Pattern list. Native text, no OCR needed.
 - [x] `H19-HowaWaterMarketMightWork.CV.pdf` — https://masongaffney.org/publications/H19-HowaWaterMarketMightWork.CV.pdf — read in full, 2026-07-18. "How a Water Market Might Work," notes to California's Governor's Commission on Water Rights Law Reform, July 27, 1977. **Light fold** into [research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/) as a new "Designing the Price Mechanism" subsection: a concrete advance-bidding, watermaster-cleared spot-market mechanism for pricing water period to period — a "how" complement to H21's "that we should price withdrawals" argument, not covered by any other H-series item read this session. Native text, no OCR needed. Only 4pp/974 words but substantively distinct, contra this wave's opening prediction that it was "too short" to be worth mining.
 - [x] `H20WhoseWater--Ours.CV.pdf` (abridged/published version) and `H20Whose_Water_Ours_unabridged_reformatted.pdf` (unabridged, used as primary text) — https://masongaffney.org/publications/H20WhoseWater--Ours.CV.pdf / https://masongaffney.org/publications/H20Whose_Water_Ours_unabridged_reformatted.pdf — both read in full, 2026-07-18. "Whose Water? Ours? Clearing Fallacies about Implementing Common Rights," Institute for Environmental Studies public conference, University of Washington, Sept. 29–30, 1989, revised for publication April 1991. **Partial fold** into [research/gaffney-water-rent-taxation](/wiki/gaffney-water-rent-taxation/): 18 numbered fallacies, of which roughly 6 substantially overlap H21's six fallacies (real property, cost pass-through, development cost, consumptive use, tragedy of the commons, undermotivated sellers/rent-seeking) and a further several overlap H22's later, more polished treatment (below) — those were **not** separately mined, consistent with the strict-delta rule. Two genuinely distinct facts were folded: the "Great Water Treadmill"/"Chinatown Syndrome" account (Owens Valley 1913, LA/San Fernando Valley insider land purchases) into a new "Groundwater Treadmill" subsection, and the Irvine Water District land-based-franchise voting-rights fact (50,000 registered voters, only 4 eligible to vote in water district elections) contrasted with Wright Act districts' resident suffrage, cross-linked to [research/california-irrigation-districts](/wiki/california-irrigation-districts/). Native text, no OCR needed.

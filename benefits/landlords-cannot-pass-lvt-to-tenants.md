@@ -162,6 +162,7 @@ caveats a fair reader should know:
 - [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/) · [Zodrow (2001)](/wiki/zodrow-three-views/) — the theory
 - [Palmon & Smith (1998)](/wiki/palmon-smith-capitalization/) · [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/) — the measurement
 - [Narrative: Tax Land, Not Labor](/wiki/tax-land-not-labor/) — deploys this outcome
+- [Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — an independent, ownership-concentration-based argument against forward shifting, published essentially simultaneously with Mieszkowski's "new view"; historical context, not wired into the evidence tables above (a Gaffney policy-conference argument, not a peer-reviewed incidence result)
 
 ## Sources
 

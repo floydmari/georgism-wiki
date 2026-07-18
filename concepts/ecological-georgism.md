@@ -48,6 +48,7 @@ Daly's critique of the standard neoclassical paradigm — which treats nature as
 - [Ecological Economics (Daly)](/wiki/ecological-economics-daly/) — steady-state economics and throughput limits
 - [The EU ETS reduced CO2 emissions despite low prices (Bayer & Aklin)](/wiki/bayer-aklin-eu-ets/) — empirical evidence that charging for the atmospheric commons curbs its overuse
 - [Carbon Taxes and CO2 Emissions: Sweden (Andersson)](/wiki/andersson-sweden-carbon-tax/) — the cleanest causal carbon-tax case
+- [Gaffney (1988/89): Nonpoint Pollution](/wiki/gaffney-nonpoint-pollution/) — Gaffney's own case that diffuse pollution traces back to land-market failure, not just missing prices
 
 ## Sources
 

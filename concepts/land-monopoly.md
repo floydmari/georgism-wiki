@@ -164,6 +164,26 @@ See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-
 [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) ·
 [Gaffney (1961): The Unwieldy Time-Dimension of Space](/wiki/gaffney-time-dimension-of-space/)
 
+### Gaffney: A Multi-Study Concentration Table (1971)
+
+A decade before the credit-access mechanism above, Gaffney assembled a
+different kind of evidence for the same underlying pattern: a table
+comparing twelve independent wealth-concentration studies (1926–1971,
+spanning US estates, farm acreage, corporate shares, and his own Milwaukee
+property assessments), all showing wealth concentrated far more heavily
+than income — e.g., the top 1% of 1961 US wealth-holders held 28% of
+wealth (Lampman) against the top 10% of income-receivers holding roughly
+30% of *income*, and the top 10 federal coal lessees held 49% of 773,000
+leased acres in 1970 (US Dept. of Interior).[12] Gaffney's point in the
+original was narrower than this page's (that concentrated *property*
+ownership makes the property tax progressive, not regressive — see
+[Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/)),
+but the table itself is independent, additional evidence for land/wealth
+concentration as a general pattern, assembled from sources this page does
+not otherwise cite. (B-claim; empirical, though several rows are Gaffney's
+own preliminary, unpublished mass-appraisal data — see that page's Standing
+and Limits.)
+
 ## See Also
 
 - [Enclosure of the English Commons](/wiki/enclosure-movement/) — the historical event that created the private land market and landless wage class underlying land monopoly
@@ -187,6 +207,7 @@ See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-
 - [Dispossession (Daniel)](/wiki/dispossession-daniel/) — systematic land deprivation
 - [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — the credit-access concentration mechanism
 - [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) — the empirical test on US farmland
+- [Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — the multi-study wealth-concentration table
 
 ## Sources
 
@@ -201,3 +222,4 @@ See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-
 9. Mason Gaffney (1992), "Rising Inequality and Falling Property Tax Rates," Chapter 10 in Gene Wunderlich, ed., *Ownership, Tenure, and Taxation of Agricultural Land*, Westview Press — used for the 1930–1987 Gini-ratio and property-tax-rate data (B-claim, empirical). [Wiki summary](/wiki/gaffney-rising-inequality-farm-property-tax/) · [PDF](https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf)
 10. Mason Gaffney (1973), "Land Rent, Taxation, and Public Policy: Taxation and the Functions of Urban Land Rent," *American Journal of Economics and Sociology* 32(1): 17–34 — used for the earlier (1972–73), more fully worked original of the credit-discrimination "strong hands" mechanism and its numerical leverage example (C-claim, attributed). [Wiki summary](/wiki/gaffney-urban-land-rent/) · [PDF](https://masongaffney.org/publications/E12-LandRentTaxation%26PublicPolicy-TaxationUrbanLandRent.CV.pdf)
 11. Mason Gaffney (1961), "The Unwieldy Time-Dimension of Space," *American Journal of Economics and Sociology* 20(5): 465–481 — used for the earliest known (1961) formal, algebraic derivation of the same credit-concentration mechanism, and for the priority correction above (C-claim, attributed). [Wiki summary](/wiki/gaffney-time-dimension-of-space/) · [PDF](https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf)
+12. Mason Gaffney (1971), "The Property Tax Is A Progressive Tax," *Proceedings of the Sixty-Fourth Annual Conference on Taxation*, National Tax Association, pp. 408–426 — used for the multi-study wealth-concentration table (B-claim, empirical). [Wiki summary](/wiki/gaffney-property-tax-progressive/) · [PDF](https://masongaffney.org/publications/G17Property_Tax_Progressive_Tax.CV.pdf)

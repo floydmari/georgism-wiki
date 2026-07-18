@@ -1609,3 +1609,23 @@ better-sourced on edward-mcglynn from primary correspondence). All three mined
 works re-OCR'd (garbled/empty embedded layers). CSV-quoting bug in a comma-
 bearing registry title caught pre-lint. K-series now fully checked. Registry +3
 rows. 876 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gaffney F/G series (21 rows verdicted; F7+G17 mined)
+
+F-series CLOSED (3 rows): F7 "Nonpoint Pollution" (JBA 1988/89, re-OCR'd) → new
+page (877th): seven failure modes of effluent-charge/surrogate toolkits for
+diffuse pollution traced to land-market failure; FIRST Gaffney-specific source on
+pigouvian-taxation; wired to ecological-georgism + 3 sibling gaffney pages.
+Venue known only as "JBA" from the printed header — [VERIFY] on page AND registry.
+F2Q declined (discussant wit, duplicative); F8 = same article, worse scan.
+G-series: G17 "The Property Tax Is A Progressive Tax" (NTA 1971, re-OCR'd) → new
+page (878th): four-part regressivity rebuttal reached independently of
+Mieszkowski 1972 via disjoint premises — new section on the mieszkowski page
+distinguishing the two; Table 1 concentration figures carried as Gaffney's
+reported (some marked "preliminary" in his own original); landlords-benefit page
+gets See Also ONLY (kept out of supported_by). 16 G rows declined on skims with
+per-row reasons; G21 exposed as a DEAD FILE (scan mismatch — endnotes of an
+unrelated book); G2009 (84pp, unOCR'd) and G45 (Gaffney-Noyes, richest remaining
+G candidate) flagged as FUTURE candidates rather than confidently declined —
+honest incompleteness recorded. No ampersand stubs this wave. Registry +2 rows;
+all 21 triage boxes flipped; inventory regenerated. 878 pages, lint 0 errors.
