@@ -103,10 +103,12 @@ commit+push+preview — publishing is Floyd's process.
 
 ## NEXT (pick up when a NOW lane clears)
 
-- [ ] [SYNTHESIZE] tier:T1 status:todo — the last missing objection steelman from the 9→15
-      build-out: public-choice "government will waste the rent" (Buchanan lens). The other
-      five shipped (revenue insufficiency, transition shock, homevoter, credit-cycles,
-      assessment critique) — objections now 13 pages.
+- [x] [SYNTHESIZE] tier:T1 status:done 2026-07-17 — public-choice "government will waste
+      the rent": folded into objections/public-choice-critique.md (which already carried
+      the Leviathan side) as objection prong 4 (Buchanan's Level-2/3 budget rent-seeking +
+      Niskanen) and response move 5 (Buchanan's own nondifferential-distribution escape
+      valve = the dividend design; fiscal-illusion visibility). A separate page would have
+      duplicated the existing one.
 - [ ] [FIND] tier:T2 status:todo — WS-TECH-RENTS remaining discovery, in order:
       (a) DSTs-as-tried (France/UK/India incidence; Amazon UK pass-through as the
       badly-aimed-rent-tax failure case; Pillar One/Two); (b) attention/ad rents (Romer's
@@ -118,11 +120,14 @@ commit+push+preview — publishing is Floyd's process.
       seigniorage (Hudson, Bezemer, Philippon, BIS/Borio steelman — honest FIRE grading);
       plus the IP-rents remainder (Boldrin-Levine, prize-vs-patent) to finish the
       platform/data/IP lane (concepts/data-rents already live).
-- [ ] [READ&MINE] tier:T2 status:todo — research/foldvary-reply-gochenour-caplan (RAE 27(4),
-      verified to exist; completes the Austrian-objection dialectic).
-- [ ] [EXPAND] tier:T2 status:todo — lvt-reduces-sprawl toward 5/5 supporters: check the
-      COVERAGE gauge first (song-zenou + taranu-verbeeck now live), then brueckner-kim-sprawl
-      and one of Burchfield 2006/McGrath 2005 if still short.
+- [x] [READ&MINE] tier:T2 status:done (pre-2026-07-17, confirmed this date) —
+      research/foldvary-reply-gochenour-caplan exists (abstract-sourced, honestly flagged);
+      full text re-confirmed paywall-blocked everywhere 2026-07-17 (foldvary.net is
+      domain-squatted; bepress discontinued; SSRN/RG bot-gated). Institutional access only.
+- [x] [EXPAND] tier:T2 status:done (stale item, closed 2026-07-17) — lvt-reduces-sprawl
+      gauge already at 6/5; brueckner-kim exists as research/brueckner-kim-sprawl.md,
+      correctly wired as challenged_by (theoretical ambiguity); McGrath 2005 already in
+      supported_by. No work was needed.
 - [ ] [READ&MINE] tier:T2 status:todo — Doucet ACX de-referencing Parts 1 & 3 (enumerate
       actual citations, diff vs registry, ingest missing); landlords-outcome Ch. 21 cluster
       (Borge-Rattsø, Capozza-Green-Hendershott, Hilber 2017, Buettner, Choi-Sjoquist).
@@ -131,8 +136,8 @@ commit+push+preview — publishing is Floyd's process.
       beyond George + Alaska).
 - [ ] [EXPAND] tier:T3 status:recurring — mechanical debt, batched: annotate unannotated
       Sources (~25/wave, oldest pages first); thin-article burn-down (3–5/wave by inbound
-      links); trim/attribute over-cap quotes; UPDATE places/british-columbia.md stale SVT
-      rates (0.5%/2% → 1%/3% for 2026; vancouver.md has fresh cites).
+      links); trim/attribute over-cap quotes. (BC SVT rates: checked 2026-07-17 — already
+      current on places/british-columbia.md with verbatim-cited 2026 rates; sub-item closed.)
 - [ ] [EXPAND] tier:T2 status:todo — cohesion items from the 2026-07-04 audit:
       BC/Vancouver scope split; terminology normalization pass (citizen's dividend /
       18-year cycle / single-tax variants).
