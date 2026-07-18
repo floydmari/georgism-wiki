@@ -110,6 +110,12 @@ The Geoist responses concede the core insight and dispute its scope.
    [irreproducible factor stays scarce](/wiki/korinek-stiglitz-ai-rents/) — land,
    energy — whose owners can be taxed without distortion, so redistribution can
    in principle make the transition a Pareto improvement.
+   The frontier's own market evidence currently cuts the objection's way:
+   [Korinek and Vipra's foundation-model market-structure analysis](/wiki/korinek-vipra-concentrating-intelligence/)
+   (2024) finds Bertrand-like pricing near variable cost and rapid entry — thin
+   margins that look like the competitive returns this objection defends, not
+   captured rent — even as it documents scale economies that could tip the
+   market toward rent later.
    The objection *gates the frontier* — it is the reason this wiki's
    [rent gradient](/wiki/geoism/) exists — but it concedes the core.
 2. **Design can exempt the incentive — in theory completely.** Rent-only bases
