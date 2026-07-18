@@ -300,6 +300,25 @@ effectiveness is **unproven** — the DMA is early (first gatekeepers designated
 and whether opening the moat erodes the rent or merely reveals that the advantage was real
 quality is the same is-it-rent question, relocated from the tax base to the remedy.[15][16]
 
+**"Unproven" now has two years of enforcement content behind it.** The Commission issued its
+first DMA fines in April 2025 — €500m against Apple for anti-steering, €200m against Meta for
+its consent-or-pay design — both under appeal; WhatsApp's Article 7 messaging interoperability
+began rolling out in November 2025, three years after it was mandated, to two minor
+competitors; browser-choice screens show the clearest measurable shift so far (Firefox reports
+6M+ EU selections); and Epic's alternative iOS store, legally open since August 2024, has
+reached under a third of its own install target. US courts moved the same direction without any
+DMA framing: Judge Mehta's September 2025 remedies ruling in the Google search case rejected a
+Chrome/Android breakup for forced data-sharing and an anti-exclusivity rule instead — dissolution
+by data access rather than by divestiture — while a parallel FTC case against Meta was lost in
+November 2025 on a finding that no durable moat currently exists to dissolve. None of this
+resolves whether dissolution *works* in the sense of measurably eroding rent rather than merely
+relocating it, and the honest counter-case — that breakups and interoperability mandates can
+destroy real scale efficiencies and introduce real security costs (Cambridge's Blessing &
+Anderson document the technical version; ICLE and Schumpeterian scale research make the economic
+case) — deserves equal weight. See
+[Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/)
+for the full record, argued both ways.
+
 ## The AI Coda — Where the Whole File Is Heading
 
 [Korinek & Stiglitz (2017)](/wiki/korinek-stiglitz-ai-rents/) supply the strongest mainstream
@@ -348,6 +367,7 @@ claim no more certainty than that on the AI frontier.
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) · [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — the two capture-side revenue taxes
 - [Digital Advertising Taxes After Romer: Maryland's Real-World Test](/wiki/maryland-digital-ad-tax/) — Romer's idea as actually enacted and litigated
 - [Furman Review](/wiki/furman-review-digital-competition/) · [The Digital Markets Act](/wiki/dma-interoperability-dissolution/) — the dissolve pole, diagnosis and legislation
+- [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/) — the 2025 DMA fines, the rejected Google breakup, the FTC's Meta loss, and the honest counter-case that dissolution can destroy real efficiencies too
 - [Korinek & Stiglitz — AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory
 - [Superstar Firms (Autor et al.)](/wiki/autor-superstar-firms/) · [Corporate profits increasingly rents](/wiki/corporate-profits-increasingly-rents/) — the efficiency counter-reading
 - [Harberger Tax (COST)](/wiki/harberger-tax/) · [Radical Markets](/wiki/radical-markets/) — the data-as-labor / self-assessment program

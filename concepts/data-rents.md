@@ -85,7 +85,11 @@ instruments are largely **untested**:
 
 These instruments are compared and graded head-to-head — on whether each actually reaches
 platform rent and whether the burden stays on the platform — at
-[Taxing Tech Rents: an Instrument Comparison](/wiki/taxing-tech-rents/).
+[Taxing Tech Rents: an Instrument Comparison](/wiki/taxing-tech-rents/). The dissolve side has
+a real, checkable enforcement record now — DMA fines, a rejected Google breakup, a lost FTC
+case against Meta — assembled at
+[Rent Dissolution vs. Rent Capture](/wiki/tech-rent-dissolution-vs-capture/), alongside the
+honest counter-case that dissolving a moat can destroy real efficiencies too.
 
 ## Honest Limits
 

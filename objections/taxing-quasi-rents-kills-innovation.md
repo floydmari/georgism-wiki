@@ -5,7 +5,7 @@ tags: [objections, schumpeter, quasi-rent, innovation, tech-rents, rent-gradient
 stub: false
 status: "Substantially valid at the frontier — it gates every non-land rent-capture claim; answered in theory by designs (full loss offset, normal-return exemption) that no real system fully implements; no purchase on land itself"
 excerpt: "The Schumpeterian objection to generalized rent capture, steelmanned: innovation profits are quasi-rents — the ex-post prize that motivated the ex-ante gamble — so taxing 'excess returns' taxes the incentive itself. The strongest reason Geoism's certainty about land cannot be extended to platforms, patents, and superstar firms."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -177,7 +177,13 @@ The Geoist responses concede the core insight and dispute its scope.
   at realized profits — and it can be sidestepped entirely by *dissolving* a rent
   rather than taxing it, as the EU's [Digital Markets Act](/wiki/dma-interoperability-dissolution/)
   does by forcing platform interoperability so the network lock-in competes away
-  without ever being captured.
+  without ever being captured. But sidestepping the tax-incentive objection does
+  not mean dissolution is costless: the enforcement record two years into the DMA,
+  and a rejected Chrome/Android breakup in the US Google search case, show courts
+  and regulators weighing the same trade-off in a different form — whether forcing
+  a network open (or a firm apart) destroys real integration and scale efficiencies
+  rather than only unearned rent. See [Rent Dissolution vs. Rent
+  Capture](/wiki/tech-rent-dissolution-vs-capture/) for that record argued both ways.
 
 ## Net Assessment
 
@@ -194,6 +200,7 @@ evidence base thins exactly where the claimed rents persist longest.
 ## See Also
 
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+- [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/) — whether dissolving a rent avoids this objection's costs, or just moves them
 
 - [Quasi-Rent](/wiki/quasi-rent/) — the concept doing the work
 - [Intellectual-Property Rents](/wiki/ip-rents/) — where this objection bites hardest, and where the evidence for the incentive is weakest

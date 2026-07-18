@@ -11,7 +11,7 @@ excerpt: The UK Treasury's 2019 expert-panel report, chaired by Jason Furman, on
   data 'tip' digital markets to a durable single winner — is a leading is-it-a-rent
   source. But its prescription is to *dissolve* the advantage through interoperability,
   data mobility and antitrust, not to *capture* it through a rent tax.
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-18
 source_url: https://assets.publishing.service.gov.uk/media/5c88150ee5274a230219c35f/unlocking_digital_competition_furman_review_web.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -164,6 +164,7 @@ durable, and a strong reminder that on the digital frontier the right instrument
 
 
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
+- [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/) — whether this report's dissolve-not-capture prescription has actually worked, checked against the 2025-26 DMA and US antitrust enforcement record
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
 
 - [Platform and Data Rents](/wiki/data-rents/) — the diagnosis the review corroborates

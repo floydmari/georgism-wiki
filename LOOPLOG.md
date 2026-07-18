@@ -1246,3 +1246,25 @@ re-verified verbatim (5/5) against texts/progress-and-poverty-full-text.md.
 books/progress-and-poverty.md gains the fourth-argument note + cross-link. New lint
 warning is George's own quoted "always" — correct as a quote. No registry change
 (source already Core/Heavy). 860 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: rent dissolution vs capture (WS-TECH-RENTS part c)
+
+research/tech-rent-dissolution-vs-capture.md created (861st page) — the enforcement
+record complementing the existing DMA design page (paired-page pattern, delta rule
+held). The Georgist asymmetry stated as the frame: land rent has no dissolution
+option (fixed supply), some platform rents do — and where dissolution works it
+beats capture. Verified from primaries/near-primaries: first DMA fines 23-Apr-2025
+(Apple €500m Art. 5(4), Meta €200m Art. 5(2), both on appeal); gatekeeper roster
+incl. Booking.com add + Facebook-Marketplace un-designation; WhatsApp Art. 7
+interop launched Nov-2025 to two minor rivals; Mozilla choice-screen gains flagged
+as vendor-self-reported; Epic iOS store ~29M vs 100M target. US record: Mehta
+rejected Chrome/Android divestiture for data-access remedies (dissolution by data
+sharing); Brinkema ad-tech remedies STILL PENDING (flagged, not predicted);
+Boasberg's FTC-v-Meta loss carried as the no-moat-found case. Counter-case argued
+(Schumpeter/scale-efficiency, Cambridge security paper on interop messaging,
+Signal's objection). 3 new banned-word lint warnings T1-reviewed and accepted:
+two state the land-side asymmetry (core doctrine), one conditional, one hedge.
+Wired: taxing-tech-rents §5, quasi-rents objection Limits, DMA page, Furman page,
+data-rents. Registry +16 rows. Inventory regenerated. 861 pages, lint 0 errors.
+WS-TECH-RENTS: only (d) is-it-rent diagnosis update remains before the gated
+instrument-comparison synthesis.
