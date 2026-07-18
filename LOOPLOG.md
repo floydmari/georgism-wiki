@@ -1816,3 +1816,21 @@ entries marked RESOLVED with cross-references. Single writer for
 sources/registry.csv this wave; wiki-inventory.csv intentionally not regenerated
 per instructions (a separate T3 annotation agent is concurrently active on
 non-Gaffney pages). `lint_wiki.py`: 0 errors.
+
+## 2026-07-18 (cont.) — Wave: T3 batch three (cohort compliant; 3 thin pages 3-4x'd)
+
+Annotations: the 2026-07-07..10 cohort (~96 pages, ~406 Sources entries manually
+adjudicated) is ALREADY COMPLIANT — post-convention authorship holds; 24/25
+grep flags were equivalent-phrasing false positives; 1 genuine fix
+(korinek-ng-digital-superstars #5). Lint's own page-level check confirms zero
+debt in the cohort. The annotation lane is likely nearing exhaustion — later
+cohorts are convention-aware; the recurring item's value has shifted to
+thin-page expansion. Burn-down: events/alaska-permanent-fund 312→1,329 words
+(31 inbound — exact 1976 vote, Goldsmith/Jones-Marinescu findings, Walker veto/
+Wielechowski/SB-26 durability arc, all from already-cited sources);
+people/fred-foldvary 238→1,049 (19 inbound — geolibertarianism coinage,
+Geo-Rent estimate, kinetic/potential distinction, Gochenour-Caplan reply, from
+his four research pages); organizations/schalkenbach-foundation 217→545
+(18 inbound — Critics funding history, 2025 P&P-Institute rename). Zero new
+external fetches — every claim traces to a held source. Warnings identical to
+stash-verified baseline. 888 pages, lint 0 errors.
