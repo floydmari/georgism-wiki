@@ -111,6 +111,78 @@ Status "Read in full," native text, no OCR needed). Text mirrors at
 `sources/gaffney/text/WP077-*`, and `sources/gaffney/text/WhatsTheMatterWithMichigan.txt`.
 `lint_wiki.py`: 0 errors.
 
+**2026-07-18 (`Great_Expectations` + WP020 mined — #4 and #6-ranked future
+candidates):** Mined the next two ranked future candidates. **`Great_Expectations`**
+(essays, 2013, ~2pp/~1,600 words, unpublished — no journal or conference
+venue indicated) — read in full and delta-checked against the E4
+differential-capitalization model (the 1973 "Tax Reform to Release Land"
+bidding-power formula) before deciding page shape, per instruction. It is
+**not** a restatement: E4's model is a tax-and-appreciation-driven
+differential-capitalization formula (`V = a/(i+t)`, Rich/Poor carrying-cost
+ratio `(p+t)/(r+t)`) explaining why *property taxes* equalize Rich/Poor
+bidding power; this 2013 essay has no tax variable at all and instead splits
+a parcel's infinite income stream into a finite current-use component and an
+infinite speculative-tail component, showing the tail is far more sensitive
+to a buyer's interest-rate access — a distinct mechanism, illustrated with a
+new, vivid, quotable numerical example ("Scrooge" at 3% credit can bid 2.1×
+"Cratchit" at 10% credit for current-use value, but **23.9×** for the
+speculative-tail value; the underlying seven-column arithmetic was
+independently re-derived and reconciles). The essay also supplies a
+Depression-era historical illustration of Henry George's land-speculation-
+as-cartel analogy (NRA, AAA, Texas oil-well prorating, ALCOA's bauxite
+hoarding) not found elsewhere in the corpus. Given the distinct model, the
+new quotable statistic, the new historical illustration, and an accept bar
+cleared several times over (concepts/land-monopoly, benefits/lvt-dampens-
+land-speculation, research/gaffney-tax-reform-release-land, and research/
+gaffney-land-booms-destroy-capital all naturally link to it), it received a
+**new dedicated page**,
+[research/gaffney-great-expectations-bidding-power](/wiki/gaffney-great-expectations-bidding-power/) —
+explicitly flagged there as the *fourth and chronologically latest* (not the
+earliest) of the wiki's four independent Gaffney statements of the
+credit-access "strong hands" mechanism (1961, 1972–73, 1973, 2013), so no
+priority-correction claim is made. Cross-links added to concepts/land-
+monopoly (fourth formal statement), benefits/lvt-dampens-land-speculation
+(theoretical context only, not `supported_by`), research/gaffney-tax-reform-
+release-land (companion-model note), and research/gaffney-land-booms-
+destroy-capital (Depression-cartel companion note). **WP020** ("Economic
+Development as a Response to Stress," 1991/92, an explicitly self-labeled
+"OUTLINE, AND ROUGH DRAFT," ~10,000 words, unpublished) — read in full. Its
+flagged premise (a possible priority correction on the peace-dividend thesis
+alongside WP048/WP049) did not survive a full read: WP020's own header dates
+it "Revised 22 Dec 91; material added 26 Sept 92" — later, not earlier, than
+WP048's March 1991 King's College conference delivery, so WP048 remains the
+wiki's earliest-documented statement. WP020's detailed, itemized California
+1846–1991 timeline is mostly either (a) general political/cultural history
+tangential to the rent-capture mission (Prohibition, the Pill, Watergate,
+naval arms races) or (b) land-rent-relevant material the wiki already
+carries, in more precise form, from other Gaffney sources — notably, the
+1906 San Francisco land-tax rebuild under Mayor Edward Robeson Taylor and
+the 1916 260,000-vote pure-single-tax initiative are both already sourced
+(with the mayor's full name and a 31%-of-vote/72%-of-1917-roll figure WP020
+lacks) from "New Life in Old Cities" on research/gaffney-new-life-in-old-
+cities, and the 1912 "missing slump" peace-dividend explanation duplicates
+WP048. One genuine, narrow, checkable delta survived: **the 1909 L.L.
+Dennett amendment to the Wright-Bridgeford Act**, letting irrigation
+districts locally limit assessments to bare land value (made mandatory
+statewide in 1917) — a dated, named mechanism the wiki's existing
+research/california-irrigation-districts page previously described only
+vaguely ("a subsequent amendment exempted..."). **Fold verdict, not a new
+page**: added as a new section on research/california-irrigation-districts
+with the specific dates and the reformer's name, sourced to WP020 and
+flagged as drawn from a rough-draft, never-independently-published source.
+Two new registry rows (`Great_Expectations`: tier `important`, Scan Depth
+Heavy, Status "Read in full"; WP020: tier `supplementary`, Scan Depth
+Medium, Status "Referenced" — cited but not dedicated-page-mined, per the
+established pattern for unpublished-workpaper-status sources). Text mirrors
+at `sources/gaffney/text/Great_Expectations.txt` and
+`sources/gaffney/text/WP020-EconomicDevelopmentResponseToStress.txt`.
+`lint_wiki.py`: 0 errors. **Ranked-candidate list status: #1–#6 all now
+mined or resolved (#1 WP048/WP049, #2 the city-growth cluster, #3 WP077
+folded into #2, #4 `Great_Expectations`, #5 the 1972 military-spending
+priority correction, #6 WP020). Only the unranked "minor candidates" bundle
+(item #7 above) remains open** — no individually-ranked candidate is left
+unmined.
+
 **2026-07-18 (workpapers/essays triage complete — the corpus burn-down's
 final wave):** Skim-triage swept the entire remaining tail: all 65 unchecked
 `/workpapers/` rows, all 25 unchecked `/essays/` rows, and the 5 stray
@@ -196,17 +268,29 @@ OCR needed). Text mirrored to `sources/gaffney/text/E4-TaxReformtoReleaseLand.CV
    and [places/south-africa](/wiki/south-africa/) already existed — the
    workpaper's delta was its growth-*causation* argument, not the site-value-rating
    fact itself).
-4. **`Great_Expectations` (essays, 2013)** — a formal "Scrooge vs. Cratchit"
+4. ~~**`Great_Expectations` (essays, 2013)** — a formal "Scrooge vs. Cratchit"
    numerical bidding-power model extending the credit-concentration
-   mechanism now on gaffney-tax-reform-release-land and concepts/land-monopoly.
+   mechanism now on gaffney-tax-reform-release-land and concepts/land-monopoly.~~
+   — **MINED 2026-07-18**, read in full: gave a new dedicated page,
+   [research/gaffney-great-expectations-bidding-power](/wiki/gaffney-great-expectations-bidding-power/) —
+   see the entry below for why it earned a page rather than a fold (it is a
+   distinct, no-tax, time-horizon-decomposition model, not a restatement of
+   E4's tax-and-appreciation model, plus a new Depression-cartel historical
+   illustration).
 5. ~~**1972_Benefits_of_Military_Spending** — earliest known (1972) statement
    of the caciques/rent-seeking-military-spending argument~~ — **MINED
    2026-07-18** as a priority correction on research/gaffney-corporate-power-military
    and research/gaffney-rent-seeking-global-conflict, see the entry at the top
    of this file.
-6. **WP020, "Economic Development as a Response to Stress"** — an early
+6. ~~**WP020, "Economic Development as a Response to Stress"** — an early
    (1991/92) draft applying the peace-dividend thesis to California history,
-   a further priority-correction candidate alongside #1.
+   a further priority-correction candidate alongside #1.~~ — **MINED
+   2026-07-18**, read in full: this "priority-correction candidate" premise
+   did not pan out (WP020's Dec-1991/Sept-1992 revision dates are not
+   earlier than WP048's March-1991 conference delivery — see the entry
+   below); folded as a narrow, dated delta into
+   [research/california-irrigation-districts](/wiki/california-irrigation-districts/)
+   instead (no new dedicated page).
 7. Minor candidates (not independently ranked): WP051 (Southern California
    land-concentration data), WP061 (Mendocino timber-tax case study), WP062
    (George as behavioral economist), WP084 + WP087 + `Sales_Tax_Bias_Against_Turnover`
@@ -1117,7 +1201,7 @@ priority-correction candidate for a future wave.
 - [x] `WP014 Newark and the Office Building Model of Urban Renewal.pdf` — https://masongaffney.org/workpapers/WP014%20Newark%20and%20the%20Office%20Building%20Model%20of%20Urban%20Renewal.pdf — DECLINE: skimmed 2026-07-18. 1988/89 lecture excerpt on Newark/NYC office-building ground rent and absentee land ownership; overlaps research/gaffney-urban-land-rent and research/gaffney-synergistic-city's already-covered ground-rent-of-height and absentee-ownership themes. No registry row.
 - [x] `WP018 George's Economics of Abundance.pdf` — https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf — DUPLICATE-OF-COVERED: confirmed 2026-07-18 (word count and opening/closing text match) identical essay to `essays/Georges_Economics_of_Abundance.pdf`, already covered on research/gaffney-economics-of-abundance.
 - [x] `WP019 George &amp; Danger of Favoring Capital Over Labor.pdf` — https://masongaffney.org/workpapers/WP019%20George%20&amp;%20Danger%20of%20Favoring%20Capital%20Over%20Labor.pdf — DUPLICATE-OF-COVERED: local mirror was a 236-byte 404 stub; fetched directly from masongaffney.org with `%26` percent-encoding, generalizing the established fix. Confirmed identical text to `essays/The_Danger_of_Favoring_Capital_Over_Labor_Spring_2004.pdf` (see that row below for the verdict).
-- [x] `WP020 Economic Development as a Response to Stress.pdf` — https://masongaffney.org/workpapers/WP020%20Economic%20Development%20as%20a%20Response%20to%20Stress.pdf — CANDIDATE (peace-dividend cluster): skimmed 2026-07-18. 1991/92 rough-draft outline applying the war-stimulates-development/peace-dividend-causes-slump thesis to California history 1846–1991, with the same 1713-1720/1815-1819/1865-73/1918-29 date list later restated in I2012's AFEE lecture (already folded into concepts/18-year-land-cycle) — predating I2012 by roughly 20 years. Strong priority-correction candidate for a future wave. No registry row.
+- [x] `WP020 Economic Development as a Response to Stress.pdf` — https://masongaffney.org/workpapers/WP020%20Economic%20Development%20as%20a%20Response%20to%20Stress.pdf — read in full 2026-07-18. Priority-correction premise did not hold up on a full read: WP020 is dated "Revised 22 Dec 91; material added 26 Sept 92" — later, not earlier, than WP048's March 1991 conference delivery (already the wiki's earliest-documented peace-dividend statement, see research/gaffney-peace-dividends-land-booms), so no priority correction. Its detailed California 1846–1991 timeline mostly duplicates ground the wiki already carries from other Gaffney sources (San Francisco's 1906 land-tax rebuild and the 1916 260,000-vote single-tax initiative are both already sourced, with more precision, from "New Life in Old Cities" on research/gaffney-new-life-in-old-cities; the peace-dividend/1912-missing-slump mechanism duplicates WP048). One genuine, narrow delta survived: the 1909 L.L. Dennett Wright-Bridgeford Act amendment (local-option bare-land-value assessment, made mandatory in 1917) — a dated, named mechanism the wiki's existing Wright Act page only described vaguely as "a subsequent amendment." Folded into research/california-irrigation-districts.md as a new section; no new dedicated page. Registry row added (tier supplementary, Scan Depth Medium, Status "Referenced" — cited but not dedicated-page-mined, per the established pattern for unpublished-workpaper-status sources).
 - [x] `WP024 Macroeconomics as a field of study.pdf` — https://masongaffney.org/workpapers/WP024%20Macroeconomics%20as%20a%20field%20of%20study.pdf — DECLINE: skimmed 2026-07-18. Course-notes survey outline on macroeconomics as a field (aggregation, unemployment, land/labor/capital roles); its closing "Peace Dividends" section restates the WP020/WP048/WP049 theme in miniature. Thin outline form. No registry row.
 - [x] `WP025 Labor Productivity and Farm Intensity.pdf` — https://masongaffney.org/workpapers/WP025%20Labor%20Productivity%20and%20Farm%20Intensity.pdf — DUPLICATE-OF (WP044 below — verbatim-identical data table, different title): skimmed 2026-07-18. Thin farm-crop labor-productivity-per-water table sourced from a third-party study; no dedicated-page fit. No registry row.
 - [x] `WP028 Making jobs by changing factor proportions.pdf` — https://masongaffney.org/workpapers/WP028%20Making%20jobs%20by%20changing%20factor%20proportions.pdf — DECLINE: skimmed 2026-07-18. 2005 course notes on eleven ways to substitute labor for land/capital; restates full-employment/factor-substitution themes already covered on research/gaffney-full-employment-tax-reform and research/gaffney-full-employment-limited-land, in outline form. No registry row.
@@ -1187,7 +1271,7 @@ priority-correction candidate for a future wave.
 - [x] `GAffney_interview_in_Canada_Sun_Life_Financial.pdf` — https://masongaffney.org/essays/GAffney_interview_in_Canada_Sun_Life_Financial.pdf — DECLINE (not primary Gaffney research): skimmed 2026-07-18. A 2009 interview (not an original Gaffney essay) promoting *After the Crash*; useful biographically but the already-covered book (research/gaffney-after-the-crash) is the primary source. No registry row.
 - [x] `Georges_Economics_of_Abundance.pdf` — https://masongaffney.org/essays/Georges_Economics_of_Abundance.pdf — [research/gaffney-economics-of-abundance](/wiki/gaffney-economics-of-abundance/), 2026-07-16
 - [x] `Great_Crash_of_2008.pdf` — https://masongaffney.org/essays/Great_Crash_of_2008.pdf — CANDIDATE (minor): skimmed 2026-07-18. A real-time August 2008 call invoking Homer Hoyt's Chicago cycle and the same 18-year rhythm later restated in I2012 (already folded into concepts/18-year-land-cycle) — an earlier, contemporaneous documented forecast, predating I2012's 2012 retrospective by four years. No registry row.
-- [x] `Great_Expectations.pdf` — https://masongaffney.org/essays/Great_Expectations.pdf — CANDIDATE (strong): skimmed 2026-07-18. "How credit markets twist the allocation and distribution of land" (2013) — a vivid cartel-behavior framing of Depression-era land withholding (NRA, AAA, Texas oil prorating) plus a concrete numerical "Scrooge vs. Cratchit" bidding-power model (Scrooge can bid 23.9× Cratchit for speculative land value) — a strong companion to the differential-capitalization mechanism now on the new research/gaffney-tax-reform-release-land page and concepts/land-monopoly.
+- [x] `Great_Expectations.pdf` — https://masongaffney.org/essays/Great_Expectations.pdf — [research/gaffney-great-expectations-bidding-power.md](/wiki/gaffney-great-expectations-bidding-power/), 2026-07-18. Read in full (delta-checked against E4's differential-capitalization model first: not a restatement — no tax variable, a distinct time-horizon-decomposition mechanism, plus a new Depression-cartel historical illustration not elsewhere in the corpus).
 - [x] `Henry_George_100_Years_Later.pdf` — https://masongaffney.org/essays/Henry_George_100_Years_Later.pdf — DECLINE: skimmed 2026-07-18. A 1997 centennial tribute summarizing George's core ideas for a general audience; overview content already covered across multiple existing George/Gaffney pages. No registry row.
 - [x] `How_to_Thaw_Credit.pdf` — https://masongaffney.org/essays/How_to_Thaw_Credit.pdf — DUPLICATE-OF (`Four_vampires_of_capital.pdf` above — same Quesnay-bloodstream-metaphor argument and near-verbatim closing paragraph, 2008 draft of the 2009 published version): skimmed 2026-07-18. No registry row.
 - [x] `I-920-OpEd.pdf` — https://masongaffney.org/essays/I-920-OpEd.pdf — DECLINE (not Gaffney's own work): this op-ed is authored by William H. Gates Sr., not Mason Gaffney — an inheritance-tax advocacy piece apparently hosted on masongaffney.org/essays/ as allied material. Out of scope for this Gaffney-corpus triage. No registry row.

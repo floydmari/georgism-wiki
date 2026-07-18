@@ -1751,3 +1751,24 @@ auto-industry trajectory and Group Areas Act named as unaddressed confounders;
 NOTHING added to supported_by anywhere. Deltas to tom-l-johnson, chicago,
 johannesburg-site-value-rating, south-africa. Registry +4 rows; triage
 candidates struck; inventory regenerated. 886 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Great Expectations + WP020 (ranked candidates #1-6 all resolved)
+
+Great_Expectations (2013, ~2pp, unpublished) → research/gaffney-great-
+expectations-bidding-power.md (887th page): NOT a restatement of E4's model —
+no tax variable; instead splits parcel income into current-use vs speculative-
+tail components and shows the tail's extreme interest-rate sensitivity
+(Scrooge-at-3% vs Cratchit-at-10%: 2.1x bidding advantage on current use,
+23.9x on the tail — T2 agent independently re-derived all seven table columns).
+Explicitly flagged as the FOURTH and LATEST strong-hands statement (1961,
+1972-73, 1973, 2013) — no priority claim. Depression-era cartel illustrations
+(NRA/AAA/ALCOA/Texas prorating) carried as Gaffney's own attributed examples,
+not verified against administrative records. WP020 ("OUTLINE, AND ROUGH DRAFT"
+1991/92): the hoped-for peace-dividend priority correction FAILED honestly —
+its revision dates postdate WP048's March-1991 delivery; ~90% tangential
+political history left unmined per scope; ONE narrow delta folded — the 1909
+Dennett Wright-Bridgeford amendment (named/dated where california-irrigation-
+districts said only "a subsequent amendment"), flagged as Gaffney's account
+not legislatively cross-checked. Gaffney's own "(data needed)" sub-theses
+excluded. Registry +2; triage ranked list: #1-#6 ALL STRUCK; only the unranked
+minor bundle remains. Inventory regenerated. 887 pages, lint 0 errors.

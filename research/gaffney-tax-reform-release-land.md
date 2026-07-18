@@ -195,6 +195,7 @@ than a narrative claim.
 - [NIMBYism](/wiki/nimbyism/)
 - [Land Monopoly](/wiki/land-monopoly/)
 - [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/)
+- [Gaffney (2013): Great Expectations](/wiki/gaffney-great-expectations-bidding-power/) — a companion model isolating the credit-access-alone (no-tax) case of the same "strong hands" mechanism
 - [Gaffney (1972–73): Land Rent, Taxation, and Public Policy](/wiki/gaffney-urban-land-rent/)
 - [Gaffney (1964): Containment Policies and Urban Sprawl](/wiki/gaffney-containment-policies-urban-sprawl/)
 - [Gaffney (1977): The Synergistic City](/wiki/gaffney-synergistic-city/)

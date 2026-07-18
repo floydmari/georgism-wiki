@@ -168,10 +168,25 @@ tax *dilutes* the Rich/Poor carrying-cost ratio while appreciation *widens*
 it — the same leverage conclusion reached via a different algebraic route
 than the 1961 derivation, corroboration rather than new evidence.
 
+Four decades after the 1961 original, a short 2013 essay, ["Great
+Expectations"](/wiki/gaffney-great-expectations-bidding-power/), restates the
+mechanism a fourth time — chronologically the *latest*, not a priority
+correction, but the most accessible and quotable of the four. Rather than a
+tax-and-appreciation model, it splits a parcel's infinite income stream into
+a finite current-use component and an infinite speculative-tail component,
+and shows the latter is far more sensitive to the interest rate a buyer can
+access: in a worked numerical example, a buyer with 3% long-term credit
+("Scrooge") can outbid a buyer facing 10% credit ("Cratchit") only 2.1-to-1
+for current-use value, but **23.9-to-1** for the speculative-tail component —
+formalizing why cheap long-term credit concentrates *speculative* landholding
+specifically, more than it concentrates landholding generally.[13] (C-claim;
+Gaffney's own theoretical model and worked example, attributed.)
+
 See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) ·
 [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) ·
 [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) ·
 [Gaffney (1973): Tax Reform to Release Land](/wiki/gaffney-tax-reform-release-land/) ·
+[Gaffney (2013): Great Expectations](/wiki/gaffney-great-expectations-bidding-power/) ·
 [Gaffney (1961): The Unwieldy Time-Dimension of Space](/wiki/gaffney-time-dimension-of-space/)
 
 ### Gaffney: A Multi-Study Concentration Table (1971)
@@ -218,6 +233,7 @@ and Limits.)
 - [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — the credit-access concentration mechanism
 - [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) — the empirical test on US farmland
 - [Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — the multi-study wealth-concentration table
+- [Gaffney (2013): Great Expectations](/wiki/gaffney-great-expectations-bidding-power/) — the fourth, most accessible statement of the mechanism, with the Scrooge/Cratchit worked example
 
 ## Sources
 
@@ -233,3 +249,4 @@ and Limits.)
 10. Mason Gaffney (1973), "Land Rent, Taxation, and Public Policy: Taxation and the Functions of Urban Land Rent," *American Journal of Economics and Sociology* 32(1): 17–34 — used for the earlier (1972–73), more fully worked original of the credit-discrimination "strong hands" mechanism and its numerical leverage example (C-claim, attributed). [Wiki summary](/wiki/gaffney-urban-land-rent/) · [PDF](https://masongaffney.org/publications/E12-LandRentTaxation%26PublicPolicy-TaxationUrbanLandRent.CV.pdf)
 11. Mason Gaffney (1961), "The Unwieldy Time-Dimension of Space," *American Journal of Economics and Sociology* 20(5): 465–481 — used for the earliest known (1961) formal, algebraic derivation of the same credit-concentration mechanism, and for the priority correction above (C-claim, attributed). [Wiki summary](/wiki/gaffney-time-dimension-of-space/) · [PDF](https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf)
 12. Mason Gaffney (1971), "The Property Tax Is A Progressive Tax," *Proceedings of the Sixty-Fourth Annual Conference on Taxation*, National Tax Association, pp. 408–426 — used for the multi-study wealth-concentration table (B-claim, empirical). [Wiki summary](/wiki/gaffney-property-tax-progressive/) · [PDF](https://masongaffney.org/publications/G17Property_Tax_Progressive_Tax.CV.pdf)
+13. Mason Gaffney (2013), "Great Expectations: How Credit Markets Twist the Allocation and Distribution of Land," essay, masongaffney.org — used for the fourth, most accessible restatement of the credit-concentration mechanism and its "Scrooge vs. Cratchit" worked numerical example (C-claim, attributed). [Wiki summary](/wiki/gaffney-great-expectations-bidding-power/) · [PDF](https://masongaffney.org/essays/Great_Expectations.pdf)

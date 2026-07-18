@@ -48,9 +48,11 @@ Both notes are short working papers on Gaffney's personal site, not peer-reviewe
 - **Objection:** [Cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — this mechanism describes a *non-credit* channel through which a land boom destroys real capital (diverted CCAs, "equity withdrawal" spent on consumption rather than replacement), independent of whether the withdrawal is itself financed by new borrowing — reinforcing the wiki's reply that land, not only credit, is doing causal work even where credit intermediates the transaction.
 - **Research:** [Gaffney (1982): Causes of Downturns](/wiki/gaffney-causes-of-downturns/) — the longer outline both notes excerpt and revise.
 - **Concept/Claim:** [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) — the 2005 note's valuation-identity argument for a land-focused property tax as a boom-capping instrument.
+- **Research:** [Gaffney (2013): Great Expectations](/wiki/gaffney-great-expectations-bidding-power/) — a companion piece: where this page's mechanism explains how a land boom, once underway, consumes existing capital, that essay documents the deliberate *withholding* of land and resources from use (Depression-era NRA, AAA, Texas oil prorating, ALCOA) that precedes and enables such booms, plus a formal model of why cheap long-term credit specifically favors withholding for speculative gain.
 
 ## See Also
 
+- [Gaffney (2013): Great Expectations](/wiki/gaffney-great-expectations-bidding-power/) — Depression-era land/resource-withholding companion
 - [Gaffney (1982): Causes of Downturns — an Austro-Georgist Synthesis](/wiki/gaffney-causes-of-downturns/) — the longer outline this pair excerpts (Appendix 7)
 - [Foldvary (1997): The Business Cycle — A Georgist-Austrian Synthesis](/wiki/foldvary-business-cycle-synthesis/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
