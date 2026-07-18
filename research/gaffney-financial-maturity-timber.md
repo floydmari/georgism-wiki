@@ -210,6 +210,13 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
 
 ## Bears On
 
+- **Research:** [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/)
+  — a delta added 2026-07-18: Part IV of that later AJES series takes this
+  monograph's Faustmann-maturity condition and applies it, for the first time in
+  Gaffney's corpus, to how a tax-driven fall in site value delays optimal harvest —
+  the missing middle term between this 1957 pure-Faustmann treatment and the 1976
+  full K·T=F macro model on [Toward Full Employment with Limited Land and
+  Capital](/wiki/gaffney-full-employment-limited-land/).
 - **Concept:** [Resource Rents](/wiki/resource-rents/) — supplies an early,
   independently derived instance of the land-value-tax neutrality result (ATCOR's
   logic) applied to a *dynamic* allocation problem (optimal harvest timing) rather
@@ -219,6 +226,7 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
 
 ## See Also
 
+- [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/) — applies this monograph's Faustmann-maturity condition to tax-driven timing shifts
 - [Gaffney (1980/1977): Alternative Ways of Taxing Forests / Greater Social
   Benefits from our National Forests](/wiki/gaffney-forest-taxation/) — Gaffney's
   later, more policy-facing forest-taxation writing, which explicitly cites and

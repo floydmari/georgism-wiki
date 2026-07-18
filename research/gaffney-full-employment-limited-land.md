@@ -269,6 +269,14 @@ from the fuller 1976 original.
 
 ## Bears On
 
+- **Research:** [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/)
+  — read and mined in full on a later wave (2026-07-18) after being flagged here as a
+  precursor and left unchased. That five-part AJES series works the same Faustmann-
+  maturity machinery this chapter's Appendix 3 formalizes as `dR/dn = i(R+S)`, but
+  applied specifically to how a *tax*-driven change in site value shifts optimal
+  harvest timing — six years earlier, and itself building on the 1957 Financial
+  Maturity of Timber monograph. Read together, the three works form one 19-year line
+  of development on a single mechanism rather than three independent treatments.
 - **Research:** [Gaffney (1993), Full Employment through Total Tax Reform](/wiki/gaffney-full-employment-tax-reform/)
   — this 1976 chapter is the technical foundation the 1993 keynote's "True Fiscal
   Stimulus" argument asserts rhetorically without deriving; a reader wanting the
@@ -290,6 +298,7 @@ from the fuller 1976 original.
 
 ## See Also
 
+- [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/) — the earlier five-part AJES series applying the same Faustmann-maturity machinery to tax-driven timing shifts
 - [Gaffney (1993), Full Employment through Total Tax Reform](/wiki/gaffney-full-employment-tax-reform/) — the shorter, rhetorical restatement of this paper's policy conclusion
 - [Gaffney (2015), A Real-Assets Model of Economic Crises: Will China Crash in 2015?](/wiki/gaffney-real-assets-model-china/) — the later paper using the same K·T=F turnover identity in a business-cycle application
 - [Gaffney: How Land Markets Misallocate Capital](/wiki/gaffney-land-market-distortions/) — the later, micro-level five-fold taxonomy of land-substituting capital, distinct from this paper's macro-level "monuments/frontiers/war" framing

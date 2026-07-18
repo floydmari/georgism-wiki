@@ -1,0 +1,2726 @@
+         Tax-Induced Slow Turnover of Capital, I
+                             By MASON GAPFNEY*
+                                   "Ye build I ye build! but
+                                     ye enter not in."
+                                       Lyms FIUNnEY SIG0URNEY
+
+                               I
+                         Introduction
+PRESENT DOLLARS are heavy dollars; future dollars are light dollars. The
+effort of taxpayers to retard tax liabilities and advance tax write-offs fol-
+lows as the night the day, and economists understand the rudiments of this
+game: taxes deferred are taxes denied.
+   The economics profession has Jagged in developing capital theory and
+more so in incorporating it in its teachings. It is catching up, but the
+particular application to tax policy still lags.1 This is a serious omission,
+since taxation has the most profound effects on the intertemporal alloca-
+tion of resources and, by retarding replacement of capital, on gross invest-
+ment and national income.
+   This study purports to help recover the lag; to develop the thesis that
+excise and income taxation as practiced today bias investors toward the
+future; to specify a modified definition of depreciation that would remove
+the intertemporal bias; to advance the thesis that tax neutrality requires
+that we tax appreciation and deduct depredation at the time they accrue;
+and that these reforms would convert the income tax into the property tax.
+   The early enthusiasts of income taxation believed that the tax would not
+much bias resource allocation because that use of a resource which yields
+the highest returns before taxes still yields the highest return after taxes,
+
+
+   * 'With mathematical appendices by Michêle Consigny. The writer thanks die depart-
+ments of economics at the University of Wisconsin—Milwaukee and the Universities of
+California at Los Angeles and Santa Barbara, and the real estate research department at
+the University of California as Berkeley, for criticism offered at seminars on the subject
+of this paper; and MichIle Consigny for criticism and assistance. (A short version of
+this article appeared under the same title in Western Economic Journal, Vol. S, No. 4
+(September, 1967), pp. 308—23.
+    1 The lag does not suggest complete neglect. The timing of tax liability and write-off
+were matters whose importance was evident to Irving Fisher, with his proposal for an
+expenditures tax; William Vickrey [38, 7, 137—38]; Henry Simons, who emphasized the
+desirability of taxing asset appreciation currently rather than waiting for realization;     F
+
+Harold Hotelling, who advocated defining depletion as the drop in value of a mine due
+to use, a lesser figure than the spot value of minerals severed [18, 170]; Richard Mus-      F
+
+gray; who seeks a basis for a neutral depreciation schedule (23, 338—44]. But none of
+these dwelt on the question long enough to integrate the pans into a general theory of
+the subject, or arrive at operational results.
+26            The American Journal of Economics and Sociology
+
+all returns being reduced pro rata. L. C. Gray applied this principle to
+one instance of intertemporal allocation, mineral conservation [15). He
+noted that a mineral should be extracted when the percentage growth rate
+of its net value falls below the interest rate; and that that percentage
+growth rate was the same after taxes as before.2
+  From that he conclhded that a tax on land income could be free of inter-
+temporal bias. We have no major quarrel with that finding, although
+much depends on how the tax is announced. But Gray's example is quite
+a special case, where investment at time zero consists of foregone gain on
+early realization of a rent. We will see below (Section V) that such pas-
+sive investments automatically receive unusual tax treatment—they are
+"expensed"—written off as current expensesimplicitly.5
+  In the more general case, early costs are written off over time or at
+maturity. Then income taxation loses its intertemporal neutrality. Still
+Gray's demonstration holds forth the hope that we might devise a tax
+system free of such bias. This paper has both aims: to demonstrate that
+prevailing tax methods bias investors toward longevity; and to show how
+we may modify the income tax to remove the bias.
+  The importance of the subject for micro-economics is self-evident: i
+bias towards longevity keeps sovereign consumers from getting what they
+want. It ties up scarce capital in trees or premature utility extensions
+yielding society, say, 4 per cent yearly, while small merchants and manufac-
+turers cannot finance inventories that would yield, say, 15 per cent, and
+would also sharpen competition.'
+   The importance I or macro-economics is even greater. Almost everyone
+has learned to eschew the "broken-window fallacy" (that even wanton
+destruction is healthy because the replacement employs people); and
+hardly anyone endorses planned obsolescence as a means of increasing
+employment. Economists do not like macro-economic benefits that vio-
+late micro-economic principles. And, although we have accepted many
+wastes in the name of full employment, we cherish a particular distaste
+for artificial acceleration of turnover and replacement.
+  2   R(i—t) RD = (1 + i) ", when = net revenue of mineral severance, with Sill cons
+      R,(i
+        —t) it.
+assumed current (a very limiting assumption).
+  5atse the resource whose gains are foregone incurs no tax liability in the year
+when committed to a long term investment. To anticipate Section V, expensing is
+tantamount to tax exemption, which accounts for the seeming absence of bias. It is not
+the rent which is exempted, but interest on deferral of rent.
+   'Small businessmen with weak credit ratings are on the whole the more competitive
+£rnu in the economy. Because of their weak credit they tend to specialize in enterprises
+where the capital turns over faster, and the marginal rate of return is higher. These
+more competitive £rms are the ones our tax system bits harder.
+                   Tax-Induced Slow Turnover of Capital, 1                               27
+
+   This is not to suggest accelerating replacement by any artificial means
+that would impose micro-economic wastes. But what if there is a large
+institutional bias that artificially retards replacement? We would expect
+economists to oppose it for both micro- and macro-economic reasons.
+We will show that excise and income taxation do just that. The macro
+losses of slow replacement were long ago outlined by Bohm-Bawerk and
+Wicksell,5 and more recently restated by Domar, Dorfman, Terborgh,
+Brems, and others,6 and we will not labor them here. The micro losses
+will be obvious in our exposition.
+   The importance of our topic to the distribution of wealth and the alloca-
+tion of resources is manifest in the fact that higher income groups take
+higher shares of their income in the form of capital gains, a fact of mod-
+ern life documented in many recent studies.' The taxpayer gains from
+the lower tax rate on capital gains, of course. But even at equal rates he
+would gain by the deferment of tax liability, and this second benefit often
+outweighs the first and affords the paramount motive for arranging one's
+affairs so as to convert ordinary income into capital gains.
+  To the extent that taxpayers can convert ordinary to gains income by
+mere paper manipulations, the effect is only distributive, an important
+matter in itself. But there are few paper manipulations without their real
+counterparts, and the general effect of this tax-avoidance maneuver is to
+reallocate real capital. Investments that pay out fast lose their lustre rela-
+tive to alternatives that pay out slower. Tax bias makes pie in the sky
+look better than pie on the plate. Capital moves into growth situations;
+submarginal utility extensions to capture remote future markets; minerals
+exploration far in advance of need; premature research; building up farms
+by current losses for future gains; elbowing for Pacific airline routes that
+might yield returns some day; purchase and development of exurban land
+for appreciation; tree farms; institutional advertising; grandiose visionary
+
+        . - any given total of present goods, be it large or small, is sufficient to purchase
+and remunerate the total supply of labor. . . - All that is required is to bring about a
+corresponding contraction or extension of the production period." 14, 354].
+    "If - - . a shorter period of production . . . is adopted, . . . the capital which was
+before insufficient is now able to give employment to all workers." [42, 127. See also
+131—33, 14-46, et passim.] See also Wicksell's Lectures on Politicd Economy [41,
+172—78].
+   6 See Domar, Essays in the
+                              Theory of Economic Growth [9, 33]; Dorfman, "Waiting
+and the Period of Production" [11]; Terborgh, Bogey of Economic Maturity [37]; and
+Brems, Output, Employment, Capital, and Growth [5]. Other economists writing on
+the macroeconomic importance of replacement frequency have been Senior, Ricardo,
+Von Thunen, Jevons, Barone, Akerman, Spiethoff, and Hayek.
+    See Internal Revenue Service, study of 1962 tax returns, reported in Business Week,
+Feb. 11, 1967, p. 90.
+                                                                                            *1
+
+28          The American Journal of Economics and Sociology
+
+enterprises of all kinds. Meantime, capital neglects more pressing immedi-
+ate and intermediate needs and opportunities: operation and maintenance
+of central buildings and rental property; adequate inventories; tools and
+machinery; developing and extracting known mineral reserves; rolling
+stock; poultry and hogs (which mature faster than cattle); vegetables
+(which mature faster than fruit); prosaic "fillers" needed to complement
+the visionary "builder" investments in every industry. Those are faults of
+which we love to accuse the Soviets; but before picking the mote from
+our neighbor's eye, let us check with our own ophthalmologist.
+  The bias is to neglect immediate opportunities in favor of Boulding's
+"benefits hereafter" with the associated benefit of taxes hereafter. A
+review of the .diany specific maneuvers by which corporations and people
+of means avoid taxes suggests that the allocation of capital has become
+downright dominated by the motive to defer tax liability—a motive which
+our mathematics will demonstrate, and which is not hard to credit in an
+age of tax rates at 50 per cent and more.
+  In an age of such high tax rates, again, we may dismiss the old red
+herring that investors are not rational enough to follow the thinking in-
+volved in maximizing their after-tax returns, or even in distinguishing pre-
+and post-tax returns. Surely there is great irrationality to be observed on
+every hand; and Ezra Solomon has recently shown that conventional ac-
+counting practice usually misstates true rates of return.0 At the same time,
+rates of interest on tax-exempt municipal bonds are advertised in the daily
+press specified to four significant figures, suggesting that someone calcu-
+lates alter-tax returns carefully. This generation of lawyers and accoun-
+tants has made a major profession of "tax engineering," and one may take
+their growth as prima fade evidence that tax avoidance has become a major
+determinant of investment decisions.
+   On the other extreme, some mathematical readers may regard our argu-
+ment as too obvious to labor. If we do draw that response, we will con-
+gratulate ourselves on a successful conversion and take some credit for
+having made it so obvious. As indicated at the outset, Professors Simons,
+
+       memory serves: 0fl modern industry, research
+                          Has become a kind of church
+                          Where rubber-aproned acolytes
+                          Perform the ceremonial rites
+                          And firms spend funds they do not halter
+                          In hope of benefits hereafter."—K. BouwING.
+  'Solomon's "Return on Investment: The Relation of Book Yield to True Yield' [3OJ.
+Among other things, he shows that conventional practice usually overstates the return
+on longer maturities relative to short. So if irrationality does prevail here, it may re-
+inforce the bias to longevity.
+                 Tax-induced Slow Turnover of Capital, I                         29
+
+Fisher, Hotelling, Vickrey, Musgrave and other have all anticipated parts
+of our thesis. But the most recent of thes; Professor Musgrave, left the
+subject, which he treats by an arithmetic example and a trial-and-error
+approach, with the observations that, ". - . the problem does not lend
+itself to a simple mathematical solution. .. ." t23 340] and "... the task
+of formulating a truly neutral-depreciation policy becomes exceedingly
+complex." (23, 343]. It is this exceeding complexity which we believe
+we have overcome Another prominent tax economist, Professor E Cary
+Brown, has reached a conclusion the reverse of ours, with much laying-on
+of hands.'° On different grounds, Professor Stephen McDonald has main-
+tamed that business income taxes are biased against capital-intensive indus-
+tries.1'
+   Obviously our finding should not appear trivial to those who teach that
+an income tax need not deflect resources from the uses they would other-
+wise have: we find that it does. Our analysis will also discredit the belief
+that an excise tax may be neutral so long as it is general Most important,
+our analysis will suggest that macro-economic policy makers need attend
+ to the effects of tax and depreciation methods on the longevity of invest-
+ments and thereby on frequency of reinvestment
+    For introductory expository purposes, it is useful to divide real assets
+ into four classes with different major traits, which we will treat in order.
+There are
+    i Appreciating assets, like trees or cattle, whose primary yield is their
+ salvage value at maturity These obviously benefit more than other assets
+ from deferral of tax hability (except that most inventories, which fail in
+ this class, have lives too short to receive any benefit in practice, or much
+ in theory) This is the "point-input," "point-output" case
+    2. "Pull salvage" or constant value assets. This is a model case that is
+
+    10 See Brown s "Business-Income Taxation and Investment" [6] The denial is on
+page 129 of the reprint Selection by Editors Musgrave and Shoup does not, of course,
+imply their personal endorsement of every position held by each contributor. Indeed,
+Professor Shoup s article in the same volume [29] might be construed to hint toward the
+opposite conclusion, s e the one we endorse. Inclusion does imply, however, that the work
+is regarded by elders of the profession as a "classic." Professor Musgrave elsewhere [23,
+337, n. 1) refers to this work as "the basic article" on the subject although, again,
+Professor Musgrave's text on pages 340—42 of the very same work finds a bias against
+short investment. So his own position would seem like ours rather than Brown's.
+   11 Stephen McDonald has maintained that business income taxes are biased against
+capital-intensive industries [21]. For a summary of extended subsequent debate between
+McDonald and several critics, see S. McDonald, "Percentage Depletion Expensing of In-
+tangibles, and Petroleum Conservation," [22]. Professor McDonald, like ourselves,
+finally finds a high degree of neutrality in the long-scorned property tax. For that
+position see McDonald, "The Effects of Severance vs Property Taxes on Petroleum
+Conservation" [20]
+30         The American Journal of Economics and Sociology
+
+useful for exposition because of its analytical simplicity. It may be
+approximated by the milk cow. The asset costs C0 dollars at time 0;
+yields a regular income for m years of life; and then returns a full salvage
+value of Cm dollars, the same as its cost It neither appreciates nor depre-
+ciates. It is like a time aeposit from which one regularly withdraws all
+the interest.
+   3. Depreciating assets, like plant and equipment. These yield a regular
+cash flow that includes both income and return of capital. Here, the divi-
+sion of gross income between taxable income and capital recovery is more
+difficult than in the simpler cases 1 and 2; but we will expound a technique
+for doing so which can be applied to other assets as well, and which, ap-
+plied to determine deductible depreciation, could remove much of the
+intertemporal bias from income taxation. Assets depreciate over time both
+because their life expectancy declines and because they yield less each year.
+The first is analytically simpler if taken alone, and, for expository clarity,
+on this basis we subdivide class 3 into: a. Assets yielding a constant cash
+flow over finite lives, and depreciating only because they approach end of
+life. (Anyone who has dealt in the academic flesh market will recognize
+this concept.) b. Assets yielding changing cash flows over finite lives.
+Usually the change is negative, but many assets yield undulating returns
+and we will ultimately frame a general formulation to cover all cases
+ (Appendix II). Initially, however, we expound the simpler case 3a.
+   4. Land. Here there is infinite life. Partial depreciation is possible due
+to declining income, but appreciation is more common and may continue
+indefinitely. Here, as with case 1, the possibility of tax deferral is a
+maximum. There can be no tax bin to construct more durable land, of
+course, since it is not produced and its longevity comes from nature. There
+can occur, however, an interclass distributional benefit to owners of this
+asset; and within the class a special benefit to holders of appreciating land.
+There can also be a special incentive to investment in what Wicksell called
+"rent goods," i.e. nearly permanent land improvements like filling in
+shallow water sites, or damming up artificial lakes to sell lakeside lots, or
+grading and filling land for subdivisions. These improvements are closely
+associated with land. They take on some of the qualities of land itself, and
+often are realized on only by selling lots.
+  For brevity, we omit paper assets from the list, with the thought that
+these are ultimately claims to real assets, so that our list is reasonably corn-
+prehensive as a beginning. But certainly paper operations like the plow-
+back of corporate earnings to convert stockholder income into later capital
+gains, or the assignment of earnings to contingency reserves, are central
+                Tax1nduced Slow Turnover ot Capital, 1                    31
+
+to our subject and warrant early attention. Again for brevity, we asswne
+that our investors are self-financed and cannot deduct interest from taxable
+income. When interest is deductible it adds some interesting wrinldes to
+the analysis, but in essence it merely adds a step without changing the
+basics, for what is deductible to the borrower is taxable to the lender.
+   We assume expectations of no change in tax rates, and we ignore the
+progressive rate structure. It has been suggested that investors expect to
+move into higher brackets and so prefer present over future tax liabilities.
+No doubt such cases can be found. We suspect, however, that a large
+share of investing by individuals is done by older people nearing retirement,
+with the prospect of lower marginal tax rates. To resolve that question
+is beyond our present scope.
+  We assume away the possible acceptance of a lower rate of return on
+shorter maturities due to liquidity preference In a perfect market that
+should not be a factor anyway, since longer maturities are liquid through
+resale or hypothecation Our conclusions need to be refined to take ac
+count of the fact that, under taxation, the investor, to gain the benefit of
+tax deferral, has to avoid sale, i.e. is "locked in." This itself destroys any
+perfect market in long maturities and should make investors require a
+premium for loss of liquidity when they invest long. However, they can
+borrow on these assets, and so liquidate them without sale or tax. Perhaps
+the major problem to note here is that the opportunity to achieve tax
+avoidance by deferral tends to be invidiously reserved for the rich and
+creditworthy who can afford to absorb any loss of liquidity and whose loss
+is the least because of better credit ratings.
+   It is also often assumed that investors accept lower returns on shorter-
+lived investments because of lesser risk. We reject that assumption. It
+would involve transferring an observation (a questionable one at that)
+from the bond market, a sanitary refuge where there are no price risks,
+but only lenders' (credit) risks and risks of general changes in interest
+rates, to the firing line of real goods investments where there are a dozen
+more risks.
+    Consider the investor as the residual claimant on the product ova
+time The leverage on his share of the product varies inversely with the
+period of investment To earn 5 per cent in one year, in a point case, the
+investor must sell a $100 investment for $105 A 5 per cent drop of
+selling price below his expectation wipes out his income completely To
+earn 5 per cent in 56 years, he must sell for about $1,600 A 5 per cent
+drop of selling price scarcely ruffles his return It would have to drop by
+$1,500, or 94 per cent to wipe out his income
+32          The American Journd of Economics a,zd Sociology
+
+   So we doubt if in pre-tax equilibrium longer investments require a risk
+premium any more than shorts, and for brevity we assume no premium
+either way.
+     With those preliminaries and ground rules, then, let us lay out the
+effect of tax avoidance on investment longevity in the four basic dasses
+of real assets. We will first show biases withiaT each class, and later com-
+ment on interclass bias.
+                                 (Continued)
+Resources for the Future, Inc.                  -
+Washington, D. C. 20036
+
+                  Econombis and Sociologb/s Needed
+A CONTINUING RECRUITMENT PROGRAM for persons with background in
+economics and sociology is being directed by New York State's Narcotic
+Commission to meet the demands of its expanding program of treatment
+and rehabilitation of drug addicts, Commissioner Lawrence W. Pierce has
+announced.
+   Qualifications for positions with the commission in this area include a
+bachelor's degree from an accredited college or university and a profes-
+sional background in economics and sociology. Annual salaries for these
+positions, when they are available, range from $7,200 to $16,490, de-
+pending on experience and qualifications.
+   The program, initiated in April, 1967, by Governor Rockefeller, pro-
+vides for the commitment of court-certified addicts, followed by a re-
+habilitation program having the broadest applications. Induded in the
+program are medical care, grpup counseling, psychiatric and other re-
+habilitative therapy, job training and placement.
+   To maintain the high standards set by the commission's program, per-
+sons with formal educational training and practical experience in social
+work, education, psychology, sociology and law, are frequently needed
+to fill important civil service posts.
+   Information about the program and employment opportunities can be
+obtained by writing to the personnel director of the State Narcotic Com-
+mission at Executive Park South, Albany, N.Y. 12203. (From the Com-
+mission.]
+        Tax-Induced Slow Turnover of Capital, II
+                             By MASON GAPFNEY
+                                                                                   -.
+                                         U
+                                Appreciating Assets
+Wn BEGIN with a simple "point-input point-output" model investment
+approximated by a tree plantation. All cost, C0, is incurred at the begin-
+ning of year 0; all returns come at the beginning of year m (maturity).
+There are no intermediate explicit revenues or explicit costs, although of
+course there are implicit interest costs every year, and implicit site rents,
+and implicit income through appreciation.
+   In the absence of taxes investors adjust to an equilibrium so that trees
+of whatever maturity yield the same yearly rate of return, i. Each tree has
+two values: a liquidation value for immediate harvest; and an investment
+value for buying and holding toinaturity. The investment value begins
+at the planting cost; C0, and grows at the rate of interest The liquidation
+value is always below the investment value except at snaturity when it
+catches up by virtue of faster growth. At this point both grow at the rate
+of interest; i; thereafter the liquidation value would have grown slower,
+which is why maturity had arrived?
+  Some trees mature fast, others slow, others slower yet in pre-tax
+equilibrium, prices and costs all adjust so that each has an optimal maturity
+year when it yields i percent; that is when investors do harvest them; and
+this represents a normative condition in which the sovereign consumer
+reigns and rules.
+  Algebraically, the equilibrium condition is:
+(1)                                (1+i)m=Rm
+where       is the ratio of stumpage revenue in the year of maturity, m, to
+planting costs, C0. If you prefer, B is revenue per dollar of cost; or it
+is revenue on the assumption that        $1.
+   Now the state imposes an ad valorem severance or excise tax, i.e. it
+takes a fixed percentage, s of the gross value of stumpage. The investor's
+rate of return alter tax, r, is, of course, now reduced below 1. But the
+reduction is not uniform. The longer the maturity, the less the reduction.
+Let us show that algebraically:
+(2)                            (l+r)mcl(m(I_t)
+   221n a more refined model we would include a separate term for land cost and allow
+for some shifting of the tax into lower site values- See below under V, Land, for &
+preliminary model giving separate ueatznent to land.
+180       The American Journal of Economics and Sociology
+
+whereristheyearlyrateofreturnaftertax
+       m is the year of maturity
+            is the revenue in year m per dollar of cost in year 0
+       t is the tax raèe.
+Substituting from (1):
+(3)                      (1+r)m=(1+i)m(1_t)
+Solving for r:
+(3a)                 r—(1+i)(1—t)"—l
+  In (3a) one may see thatr varies with m, because (1—t) <1, and
+the higher the root of a number less than one the higher the value of the
+root, approaching unity as a limit when m is very large.
+  Thevalueofrvariesfroznalowwhenmitoahighwhenm—co.
+When m — 1:
+(3b)                r1— (1+i)(1—t) —' ..ti(1—t) —t
+
+This r1 will actually be negative whenever >           , i.e. for all tax rates
+equal to or greater than a value just below the interest rate.
+  But when m —
+(3c)                     r=(li-i)(1—t)°—lni.
+The taxpayer achieves full tax exemption by investing in a tree of infinite
+maturity. Of course, there are none such, but the point is that r approaches
+iasyinptoticaliy as m rises and the investor achieves a high degree of tax
+exemptionbyinvestinginatreeofsay,soyears'life. IfialOpercent,
+t—50 per cent, and rn—SO years, then ra(1.1) (l—.5)"°_l—l.l
+x.986—1 —.0846, or about 8.5 per cent, a reduction of JOP or 15 per
+cent, from i. Thus a fierce nominal tax rate of 50 per cent on gross in-
+come has been tamed to a meek 15 per cent of net income. Among other
+things we now begin to see why timber holders fight so hard for severance
+taxation. It is virtual tax exemption for them, especially in the West
+where maturities are long.
+  Algebra asid; whence springs this bias? Basically it is from the de-
+fermi of tax liability inherent in longer maturities. With each passing
+year the taxpayer defers taxes not just on the value accruing in the current
+year, but on the sum accrued in all prior years. The value of this deferral
+grows with time so as finally to dominate the mgttn•
+  Thelawtaxesincomeifandwhenitjsrealizegjincash. Buttheine
+vestor constructively receives income at the time it goes to work nr&ng
+more income for him. The investment value of timber (different, recall,
+from the liquidation value) grows at compound interest That means
+                 Tax-Induced Slow Turnover 0/ Capital, II                       181
+
+that each year its value grows enough to earn interest on the interest ac-
+cued the year before, as well as that accrued from all prior years. (Money
+makes money, and the money money makes makes more money.) Thus
+the investor has contrived to receive his income and reinvest it, but without
+yet paying a tax on it. (The money money made paid no tax before mak-
+ing more) He can even realize this income in cash, by borrowing on the
+collateral of the appreciated asset, without incurring tax liability, and
+deduct the interest payments to boot A tree is like a corporation that
+pays no dividends for decades but plows back all its earnings to increase
+its assets and let the shareholder take his income as deferred capital —.
+  At the short end of the continuum of maturities, the rate of return after
+taxes is dominated by the fact that the excise tax on gross sales taxes not
+just net income, but also the turnover or recovery of capital. That is why
+the after-tax income can actually become negative for short maturities.'
+The power of tax deferral to afford tax exemption is dramatized when we
+note from our earlier example of a 50-year maturity and a 10 per cent
+before-tax true yield, that by waiting 50 years a taxpayer — a major
+exemption of net income from the nominal tax rate, even though he is
+being taxed on gross income!
+  But at the short end capital recovery is the lion's share of gross receipts
+andtheexcisetaxcutsdeeplyintonetincome. Anotherwayofperceiv-
+ing the bias toward longevity is to see the ndse tax as a tax on real capital
+turnover—not on turnover in the exchange sense of passing from hand to
+hand1 but in the basic Wicksellian-Austrian sense of a cycle of real invest-
+ment and real recovery of capital. Each time capital cycles, in this sense,
+it is taxed. The tax-avoiding investor naturally therefore moves toward
+investments that cycle less often through timt He thus minimizes his
+burden, both by lowering its total value and by deferring it.
+  A tax that is interteinporally neutral would lower r by the tax rate for
+all lives, so that r-i(1-t) at any maturity. For the excise tax there is
+only one intermediate year of maturity when r — i(i — t), and it is simply
+thebalanceofthetwobiases.14 Forshortmahzritiesr.ci(1—t) because
+
+   12 If iJ0 and t .co, then for all maturities less than 6.6 years, r<O. In general,
+the investor must hold long enough for money to double at the before-tax yield before
+the after-tax yield becomes positive, since the tax takes half the gross.
+    14The year is the is that satisfies equation (3) when rei(i-t). Substituting and
+solving for is we get:
+                                mnn (1—t)_
+                                    tn
+if t—3 and inIO%, rn—il years.
+182         The American Journd of Economics and Sociology
+
+the excise tax base includes capital recovery as well as income. For longer
+maturities r>i(1-t) because the benefit of tax deferral comes to out-
+weigh the fact that capital recovery is taxed.
+  In summary, then, the severance or excise tax on gross receipts is doubly
+biased toward futurity because it both taxes capital turnover and defers
+thetaxonunrealizedincome. Itismorebiasedthananytaxonnetin-
+come. Wehaveexamineditinsomedetailbecauseitistheflrstcasepre-
+sented and many readers will appreciate careful orientation; and because
+in some ways it is the simplestcase, useful as a point of reference in more
+cumplexcases. Itisalsoimportantinitsownright:alargeshareoftax
+revenue is from excises on gross sales, many of them sales of appreciating
+assets.
+  Next; consider how the bias changes when the flsc lets the taxpayer
+deduct his costs. A gross bias is removed—no longer is capital recovery
+taxed. But the benefit of deferring tax liability is still a motive for tax
+avoiders to lengthen maturities.
+  It is here that we run counter to Professor Brown's conclusion on the
+subject. He based his analysis on the present value of depreciation
+(henceforth PVD). He noted that the longer write-off is deferred the
+less is the PVD for any dollar of cost; and from that concluded that, "This
+effect may change the ranking as to their profitability of various outlays on
+durable goods Shorter-lived assets would move up the scale relative to
+the longer-lived." [6, 529].
+  We agree with Brown that the PVD is lower for longer maturities
+(assuming that write-off dates in practice retreat in step with cash flow,
+which we will later question). But we believe he overlooked the larger
+point that the present value of the tax liability itself also falls with futur-
+ity.15 And since the gross tax liability is greater than the write-off (so
+long as there is any net income), the net bias is still toward longevity.
+   Letusnowmodifyequations(3) toshowtherateofreturnaftertaxes
+when the base is not gross sales, but is net income over costs. Here the
+taxpayer may write off or deduct initial cost; C0, from taxable income,
+exempting capital turnover from taxation. This moderates the bias to
+futurity, but by no means eliminates it, as we will show.
+   The thning of write-off is important. We begin with the most plausible
+assumption, that costs are capitalized and written off in the year rn, when
+    isThis refers to the tax liability that would be due at the beginning of any given
+yearn if It Is deferred one year ton+1. The effect Is veiled by the fact that additional
+income accrues during year n, just enough to offset the drop in present value, so the
+present value of the growing tax liability is always the same since it grows at the rate of
+interest.
+                   Tax4nduced Slow Turnover of Capital, ii                             183
+
+they are recovered. This is the actual practice with timber planting
+although subject to some chiseling.
+   Nowtherateofreturnaftertaxis:
+ (4)             ra[(1+i)m(1_t)+t]hlm_1
+Equation (4) is like (3) but for the addition of the write-off to the right
+side. It appears as the unwritten coemcient $1 before S in the brackets—
+$1 is theinitial cost C0, andthevalue of the write-off is S per cent of $1,
+or just S.
+  Here again r varies positively with m, although not so obviously as
+before. We will demonstrate this by graph and by calculus, but first illus-
+trate it by a numerical example.
+                                       Table I
+   RATES OP RETURN AFTER INCOME TAX AT DIPPERENT MATURITIES
+     (when the rate before tax is constant at s%, write-off is In year of maturity,
+                                  and tax rate is 10%)
+                              PolsS-hsuS $Mt-ost ssS case.
+                               (1 +r)— (1.0S)a (%) + 54
+       a                     (i.Og)S                    (1 +r)                   r           H
+
+
+       1                      1.050                      1.04                   .040
+       1                      1.469                      1.24                   .043
+      10                      2.119                      1.1$                   .047
+      11                      3.172                      2.09                   .010
+      20                      4.661                      2.53                   .013
+      21                      6.548                      3.92                   .016
+      10                     46.902                     23.91                   .061
+     100                   2199.79*                   1100.40                   .072
+      00                                                                        .0*
+
+   Whenm.1, r— (1+1) (I—t) +t—lsi(1—t). That is, for sone-
+year cycle, the investor bears the full nominal tax rate. Unlike the excise
+tax the income tax exempts his capital recovery, and so his income is tea
+ducedbynomorethanthenoininaltaxrate,andthereisnostageof
+negative rY
+  But for longer cycles he bears less than the nominal tax rate, as witness
+Table 1, which anyone may duplicate (toni standard interest tablet
+   11n this introductory paper we omit the treatment of cycles tinder one year. Here,
+so much depends on administrative practice and tax dates that a quick theoretical general-
+ization based on simple assumptions would be mhlea.1h.g Suffice it to observe that LLS.
+practice ii diligent in preventing kiting practices which would benefit short investors.
+For example, a business is taxed on increase of inventory in a year, preventing anyone's
+deducting coats a year before incurring tax liability. This strictness contrasts with the
+laxity for long investments, and adds to interteinporal bias.
+184        The American Journal of Economics and Sociology
+
+That is less interteinporal bias than the excise tax exerts, but still great.
+Further, the advantage of deducting costs looks dimmer when we note
+that the tax rate, t, must be higher under the income tax to yield the same
+revenue, since the base 4s smaller; and the impact of any bias increases with
+the tax rate.1t
+  A simple graphical exposition is in Figure 1. The semi-log scale has
+several properties that help us visualize the case:
+—any straight line from the ordinate represents a constant percentage
+growthratefromthey-interceptvalue. ThusthecurveRa(1+i)shows
+the growth of $1., the intercept whence it begins, at i per cent, the equi-
+librium rate of interest In equilibrium without taxes, all investments of
+$1 grow to touch this curve at maturity.
+—the steeper the straight line curve, the higher the value of I it repre-
+sents. Thus a set of rays from the origin, as shown, represent different
+rates of return on $1 of initial cost. Negative slopes represent negative
+rates of return. Doubling the rate of return doubles the slope.
+—constant vertical lengths represent constant percentage changes, so
+Rm(1t) is represented by a line parallel to Rm, as shown, representing
+ 50 per cent of R. for all values of m.
+—any curve radiating from the origin that is concave upwards represents
+ a rate of return that rises with vi, since it cuts continually higher straight
+ rays from the origin. The lump sum received after taxes at maturity must
+describe such a curve, since it begins at 1 when mO, because (1+r)
+(1i-i)° (i—t)÷t—i. The curve rises slowly at first, and then ap-
+proaches asymptotically the lower parallel curve, La (1 - t).
+—any straight curve ennnating from an intercept below I represents like-
+wise a rising rate of return on 1, since it cuts steeper and steeper rays from
+1. But it represents a constant rate of return on the intercept value. Thus
+the curve shown, R.a (1 — t), represents a constant return of i per cent on
+an initial investment of (1 —t), in this example 1/2. So, as we see pres'
+ently, if the fisc puts up half the initial investment by letting the taxpayer
+expense capital outlays it can take half the gross receipts without lowering
+his rate of return at all—and without gilning anything for the govern-
+ment except a market return on its own investment.
+—the most convenient way to convert the graph into numbers is to think
+of money doubling every so many years at different interest rates. The
+
+    'tBut we would ivoid much emphasis on the last point, because if we brought land
+into the analysis we would see that the seemingly lower tax base of the income tax is
+made up by the shifting of the tax benefit into land renu, which are still part of the
+income tax Lnsç.
+               Tax-Induced Slow Turnover of Capital, II                   185
+
+numbers shown refer to5 per cent, at which money doubles approximately
+in 14 years. (For computer programming, this fits the binary system
+nicely.)
+   From Figure 1 it is now evident that after-tax returns corresponding to
+constant before-tax returns get higher and higher as maturities lengthen.
+In the absence of any write-off the effect is much stronger: rates of return
+after an excise tax are shown in the slopes of rays that cut the lowest curve,
+
+                                   Figure 1
+                  Growth of Investment, at cowound interest
+                                                                                  1]
+                            before and after taxes
+  Log
+scale
+
+   16
+
+
+    8
+
+
+   4
+
+
+   2
+
+
+    1
+                    14            28            42
+
+   1.
+   2
+
+( 1— t). Write-off tempers but does not eliminate the effect: rates of
+return after an income tax are represented in the rising slopes of rays that
+cut themiddlecurve,Bm(1—t)+t.
+   The decline of the present value of depreciation (PVD) with rising m,
+the point Professor Brown stressed, may be visualized as the diminWilng
+vertical distance between the lower two curves as m rises, if we draw
+from any point on the middle curve a straight line parallel to the lower
+curve, its y-intercept is the present value of the middle curve discounted
+at i per cent. As m rises, this y-intercept falls, indicating a falling present
+value of the lump sum which the investor keeps after taxes. This fall is
+186         The American Journal of Economics and Sociology
+
+due to the falling present value of t x 1. This 'would seem to — to
+Brown's condus ion that investors would favor shorter maturities to ad-
+vance their write-oils. We believe this to be an error.
+  The fallacy lies in u4ng the wrong rate of interest i, for discounting.
+We are here concerned with taxpayer incentives and the taxpayer is moved
+by r, his return after taxes, and not i, which includes the fisc's take. If
+he discounted using i, all the present values of after-tax returns would be
+less than $1, an impossible result since no one would pay $1 for an asset
+whtse present value was less than $1 and there would be no investment
+at all.Th
+  To confirm the need to use r instead of i for discounting future rebates,
+the following is conclusive. Assume a point case, and a rebate, W, due
+in year m. To begin, (1jr)m_(1÷im+W
+                                /  m The question is, is
+that ratio, obtained by adding Jr to revenues at m, equal to the ratio ob-
+tained by substracting discounted Wm from costs at time 0? Discounting
+at i, the answer is no: the result is an inequality. But discounting at r:
+                        I
+      (1 +i)m+'W,,, —            (1+i)m           =      (1 4-i)
+                            c_wm(1+r)m                r'-.O_W
+                        (1+i)+Wm_Wmn(1+i)
+                                        0=0
+
+   Returning to Figure 1, any ray from the origin that cuts the middle curve
+has a lower slope than the top and bottom curves. Consider the topmost
+ray. Any parallel line above it cuts the middle curve farther to the right,
+tnd has a higher y-intercept, indicating that at the rate of return which
+the taxpayer uses and which guides his behavior, the longer maturities have
+higher present values. Of course the topmost ray may not be the equl.
+libriutn r; but whatever ray does represent r it has the property that all
+longer maturities have higher present values, and all shorter ones have
+presentvalueslessthan$1 andwillnotbeinvestedinatall.
+  We believe that the present value appmach is clumsy for this purpose,
+and henceforth will write In terms of r as a function of m. We did think
+   t5Tlils sante basic error appears consistently in Prof. Brown's sequel, 'use New
+Depreciation Policy under the Income Text an Economic Analysis" (7]. It is, however,
+avoided by Prof. Musgrave, who scrupulously distinguhhes before- and after-ui rates
+of return (23, 339]. (Musgrave denotes our r as It. Musgrave uses his It to discount
+future write-off rebates to present values in his equation (14—17) wherewith he analyzes
+straight-line depreciation. We follow the same practice for all cases.)
+                 Tax-Induced Slow Turnover of Capital, II                           187
+
+it necessary, however, to meet the Brown argument in its own terms, for
+in those terms it can seem quite convincing. The simpler refutation is to
+note, as we have, that r rises with in. Another refutation is to note that as
+m rises the taxpayer's loss due to deferring writeoff of $1 is exactly offset
+by his gain from deferring taxes on recovery of $1, leaving him a net gain
+of deferring taxes on all income above the initial $1 of costs. Thus Brown
+reached the wrong conclusion by spotlighting a lesser factor and omitting
+a greater one."                                                        ir.ri
+   For a rigorous general proof that r rises with in, it is necessary to find
+       0. The proof is not trivia!, and appears in Appendix L
+  So far we have not discussed shifting the tax, but assumed it fell wholly
+on the nominal taxpayer, the investor. Some readers might think the kiter-
+temporal bias would disappear as the tax is shifted, but such is not the case.
+Indeed, shifting is never automatic but results from reduced supply, so
+only the absence of shifting is consistent with neutrality in taxation.
+   In this case two concepts of shifting are entailed: first;, shifting away
+from capital, which would bring r back up to the initial level of        (the
+base interest rate), and would push iup to a new level, i;and second, shift-
+ing among maturities, which will occur whether or not the total supply of
+capital changes, and whether or not r reattains the b level.
+   The two concepts of shifting are separate, but related, because shifting
+to longer maturities has much the same effect on the bargaining po wtt of
+capital vis-a-vis labor as emigration, consumption, or hoarding of capital—
+the other avenues by which it flees from taxation and shifts taxes. Longer
+maturities imply a substitution of capital for labor, as Wicksell showed,
+hence a reduced demand by capital for labor and a shifting of the taxto
+labor in the form of lower wage rates and/or higher prices.'0
+    Shifting among maturities is inevitable, because in after-tax equilibrium
+it is the value àf r, not of 1, that investors will tend to make the same for
+all maturities. They will do so by shunning short investments in favor of
+longer ones, until the premium of short i over long i is enough to equalize
+short and long r.
+
+   "By way of analogy: "There was a young lady of Crete
+                            Who was so exceedingly neat
+                            When she got out of bed
+                            She stood on her head
+                            To be sure of not soiling her feet."
+                                 —Thanks to Miss Ann Gafiney
+   O Longer maturities, however, increase the demand for land. Each module of "frozen
+labor" now requires more years of land-time before liquidation, so the effect is to worsen
+the bargaining position of labor st-s-sb land. See also note 1.
+188        The American Journal of Economics and Sociology
+                                                                                       It
+   Even if the aggregate capital supply were wholly inelastic, the supply
+at each maturity is still elastic because capital shifts into longer maturitIes.
+This elasticity of supply at any maturity is what lets capital shift the tax
+off the particular maturities on which it falls heaviest and spread it among
+all maturities.
+   Graphically one may visualize this On Figure 1. Imagine that the middle
+curve, Rm(1 - t) + t, is a curve in the road that Paul Bunyan wanted to                 ft
+
+straighten. Assume, further, that most economists remember their native
+folk legends. Paul hitches Babe, the Great Blue 0; to the end of the
+curve and with a mighty — pulls it straight!
+  This orthopraxy is not achieved without some side effects. The top
+curve is rigidly connected to the middle one by the requirement that they
+differ by t(R—1). So the top line develops a curve. It becomes con-
+cave downwards, a mirror image of the middle curve shown on Figure 1.
+This mirror reflects the fact that i, the gross-of-tax rate of return, must
+now be higher for shorter maturities, in order that r be the same for all.
+  Stephen McDonald has developed an ingenious thesis about such shift-
+ing that might temper the basic effect. He points out that shifting by
+industries whose operations entail shorter maturities is easier because the
+gross returns comprise less return on capital and more return of capital, the
+second representing payments to labor and other initial inputs. Indeed,
+McDonald goes so far as to conclude from this that the tax biases investors
+against longer maturities. We believe that he has taken a responsive,
+equilibrating effect and made it the prime mover, overlooking the initial
+cause: the force that initiates shifting is a move to longer maturities. The
+McDonald effect" might temper the primary movement but could not over-
+power it because without the initial cause there would be no McDonald
+effect. Shifting may or Say not be easier at shorter maturities, but what
+reallocation does occur will have to be toward longer maturities.
+   We believe that McDonald's thesis is also open to the criticism that
+slower maturing investments, while the value of their final product con-
+tains a high interest component as timber, also consume yeats of land-
+time and have a high component of land rent. So while shifting to labor
+is harder, shifting to land is easier, and it is not certain that on balance
+the longer maturities will impede shifting.
+  We began by observing that the timing of write-off is important, and
+assuming that it occurred at maturity, m. Now let us see how advancing
+the date of write-off affects intertemporal bias. We will show that it
+   21We do not here judge the quantItative importance of the effect. which we regard
+as plausible and ably arped but as yet mgot. See also note 11.
+               Tax-Induced Slow Turnover of Capital, Ii                  189
+
+appears to reduce intertemporal bias but that the appearance is deceptive
+because it does so only by elimbiating the tax [23, 343—44].
+  Let w be the year of write-off. We have so far let w = m. Now let
+w - rn-i. The write-off now yields the investor one yen's interest before
+maturity so the value to him at vs of the two lump sums he gets is
+Rm(it)+t(i+r).
+  Note that the year's interest gain to the investor Is at the rate r, and not
+1. ristheratewhichhecangetandkeepforhimselfbyinvestingthe
+write-off dollar a year before maturity. To compound the write-off at the
+rate i would overstate its value to the investor.
+  Now let w fall, and t(l+r) rises. Interest earned by the write-off
+dollarhelpspaythetaxatm. Aswmovestowardzero,themiddlecurve
+inFigurelbothrotatesupwardandstraightensout. Jfthisisnotintui-
+tively obvious, it becomes so when we consider the extreme case when
+w -0, i.e. when the taxpayer may write off capital investments as though
+they were current expenses ("expense" them). Then, interest earned by
+the write-off dollar pays the entire tax at all maturities, and the middle
+line becomes the same as the top line.
+   This straightening indicates the removal of tax bias. By letting investors
+expense capital investments we have removed bias from taxation. This
+discovery might be a boon to minkmnd like fire or the wheel but for one
+flaw: it also eliminates the tax.
+   Algebrikally, the point is clear by solving fort when w -0.
+(6)               (1 +r)m_ (1 +i)m (1 —t) +t(1 +r)mo
+                    (1+r)a (1—t) = (i+i)a (i—t)
+                            (1 + r)m — (1   + i)
+The taxpayer gets the full rate of return. All the (xx gets is a market
+return on its own investment of t per cent of $1 at time zero. The easiest
+way in general to view this case is that the taxpayer and the fisc have been
+partners in this investment. The fix puts up I per cent and the investor
+(i - t) per cent. Each earns i per cent on its share of the investment
+   It would be misleading to thigk of expensing as an approach to nen-
+frailty, therefore. A neutral tax must first be a tax. It would also be mis-
+leading to think that some halfway measure lice making w =             would
+lessen intertemporal bias, for that would reduce revenue and require a
+higher tax rate to nithitnin revenue. That would actually increase bias as
+may be seen by shifting the lowest curve in Figure i, Rm(1t), down-
+wudt
+190         The American Journal of Economics and Sociology
+
+   But while expensing does not convert the income tax into a neutral tar
+                                                                                              I
+on that capital which turns over, it does contain an important element of
+neutrality which we have not brought out yet. Land does not turn over
+and the Internal Revenue Service, although it does many strange things,
+in this case quite properlykand logically rules that land purchase is not a                   H
+cost and may not be depreciated and written. off, much less expensed.
+Expensing effectively exempts from tax the income of expensible invest-
+ments, but not of land. Thus it tends to convert the corporate income tax,
+which exempts wages, into a tax on land income."
+   Since land income is rent; the tax may be neutral. However tax neu-
+trality requires more than a base which is rent, Le. a base whose supply
+withinthetaxjurisdictionisflxed. Rentisasurpluswhichmaybeprc-
+served unabated by skillful taxation, but not one which cannot be destroyed
+by taxation. As a means of taxing land rent, expensing of capital invest-
+ments under the corporate income tax has some merit, but on the whole
+seems to us less promising than the conventional approach of modifying
+theadvalorempropertytaxtoexemptcapital. Sowewillnotpursueit
+other than to snmrnnrize the faults we find:
+—expensing in practice discriminates against investments of less than one
+year's maturity (which are a large share of the gross investment flow)
+because the tax calendar is discontinuous. To achieve exemption, an 11-
+month investment would have to be expensed at the beginning of month 0
+and taxed at the beginnhig of month 11; in practice it would be taxed and
+expensed simultaneously."
+—expensing can only be neutral for long run decisions ix ants the invest-
+ment. Lx post, all short run decisions are biased by the tax rate on gross
+cash flow, which operates just like an ndce tax. This rate might have to
+be higher to compensate for exempting so much.'4 The short run bias
+would then reflect back and affect the long run decision cx ante invest-
+ment, since the investor would anticipate his later short run reactions
+Only if the initial investment were completely irreversible and controlling.
+so no later adjustments were possible, would the tax be neutraL
+
+    "Or 'dd, if the fi Sna1l tax rata on the rsn.hang crnw. Congress Lu
+been generous In extending the expensing privilege to oil men, for example, but then it
+also exempts their rent income by the depletion allowance.
+    "In addition, the current "investment tax credit," a species of partial expensing, Is
+not fully allowable for investments unless their life exceeds $ years, a most explicit bias
+against short maturity This and other measures suggest it actually is the intent of
+Congress to favor long maturities.
+   24flj is advanced tentatively, because some of the advantages will be shifted to land
+rent, and still be part of the tax base therefore. 'We have reserved treatment of this
+important issue for a sequel.
+                                                                                           i)
+
+                 Ta-Induced Slow Turnover 4 Capital, Ii                          191
+
+—the advantage of expensing is denied to new, small, and losing firms,
+which have no outside income against which to write off new investments.
+—after write-off in time zero the investor is locked in, i.e. he cannot sell
+an immature asset in year n without incurring his accrued tax liability,
+whereas if he holds to maturity he defers the tax accrued by year n to year
+vi without increasing its amount, a dear gain. Thus the market in longer
+maturities is virtually destroyed. The net toss of investor welfare, as earlier
+noted, is mitigated because the assets are still bankable; but an economical
+allocation of resources may be blocked, and vertical integration to defer
+tax liability receives a big boost with resulting damage to competitive mar-
+ket structure.
+—in practice, investors have learned to disguise land purchase as purchase
+of old buildings on land, and write off much of it, often more than once.
+Unless this practice were drastically reformed, investors would expense
+land purchase too and the tax would have little or no base at all.
+—taxation of the current yearly appreciation of land prices, which is in-
+come just like appreciation of tree; would still be deferred until sale, or
+if never sold, forever. Land appreciation may be converted to cash at any
+time, not just by banking on it (mortgaging it) but, more commonly, by
+consuming the cash recovery from other asset; especially the buildings on
+the land in question,2° and relying on the land value increment as the
+sinking fund.
+   Universal expensing of capital investments would have the very real
+advantage of making general one invidious advantage now granted a-
+plicitly to oil (Intangible" well costs and dry holes), toR & D (research
+and development), to advertising and other "intangible" costs, and taken
+implicitly in a dozen devious ways: by gentleman farmers who build up
+ old farms by "losing money" on capital improvements written off as cur-
+ rent expenses; by utilities which suffer current losses In new territory to
+ nail it down for future exploitation; by oligopolists who incur current
+ losses in price wars to secure future market; or underwrite premature
+ suburban retail outlets to secure position; by land developers who sell or
+ rent the first units at a loss in order to enhance the others; by land specu-
+ lators who lose money operating nurseries or farms or drive-ins so they
+ can satisfy the IlLS, rule that the land is used in their business, and
+ qualify for capital gains; et hoc genus ovine. Further, universal expensing
+
+              depredation funds are seldom provided for the buildings in New York,
+ dependence being placed upon the increase in land values to counterbalance the decrease
+ in building values through wear and tear." See Robert Hug, "Some Probable Effects of
+ the Execption of Improvements front Taxation. • ." [16, 133—34].
+192         The American Journal of Economics and Sociology
+
+would make general the advantage of deferred tax liability now reserved
+for appreciating assets. If, upon realizing income, I can immediately
+reinvestitandwriteitalloff,Ihavenotaxtopay,andamaswelloffas                               4
+though my original asset had continued to appreciate without being taxed.
+  On balance, however we do not recommend expensing as the best way
+to tax land rent since the ad valorem property tax on land values is an
+available alternative which lacks the faults just listed. Land value is the
+sum of future discounted income less costs, with all costs, including capital
+costs, dated at the time they are expensed. Levying on the land value
+base, therefore, is the counterpart of expensing under the corporate income
+tax, with the difference, of course, that the ad valorem approach bases the
+tax on assessment of the land's market price or opportunity cost rather than
+on records of the present owner's receipts and expenses.
+   So far we have considered write-off at maturity, w = m, and expensingi
+w 0. There are other possibilities, which we now entertain: a constant
+windependentof life, w—k; awalwayskyearsshortof life, w-m—k;
+and a w always some fraction of life, w=.
+  If w-k the bias to longevity is much greater than if warn, obviously,
+because longer life defers tax liability, just as with the simple excise tax
+on gross, but does not defer write-off. Maturities less than k are espe-
+cially hard hit.
+   This might seem a fanciful case, but far from it. We remarked earlier,
+in discussing Cary Brown's thesis, that we would question the realism of
+assuming w a m in fact. The write-off periods of assets tend to be based
+on arbitrary lives specified in I.R.S. Bulletin P or Revenue Procedure 62-21.
+Lawyers tend to think in categories, not continua. More durable plant
+ ndequipmentofacatgorygivenlsyearsinBullethParemostl&ely
+to get 15 years, regardless of actual llfe.'
+  Ifwam_lçthebiaswouldbeagainstlongevity. Maturitiesofless
+than I would be written off before they were born; and by turning capital
+rapidly one could drain the Treasury. This is a fanciful caseD' Not that
+no one is allowed to ardn the Treasury, but the privilege is reserved for
+investors with long maturities.
+   "Breeding cows get 8 years, for example: producing lives may be as high as 15 years.
+See Oppenheimer's Cowboy A4Ssetic [24].
+   2tUsi these rules: "There was an investor stained Bright
+                        Whose money moved faster than light
+                        He invested one day
+                        In a roundabout way
+                        And cashed in on the previous night?
+r                  Tar-Induced Slow Turnover of Capital, II                   193
+
+      If w =     the outcome is somewhere between w - m and w -0. The
+
+    returnaftertaxisshowninequation(7)whereka2.
+    (7)            (1 ÷r)m_ (1 +i)a (1 —t)+t(1 -,-ry'-'/2
+                  (1-fr)tm [1_t(1+r)/2] = (1+i)tm (1—t)
+                                  (li-r)a= (i÷j)m[(1_t)
+                                                 [ '(11r)mI2
+    Asmgetslarge therightfraction approaches (1-t) as alimitand the
+    case resembles earlier cases, Equations (2) and (3), where r—*i as
+    m—,. . Formal rigorous proof thatr rises with m follows the lines of
+    Appendix 1. Arithmetic illustration follows the lines of Table 1. We
+    omit these exercises because they are repetitive variations on a theme.
+      An easy near-proof is to take the natural log of both sides of (7).
+    (7a) m ' ln(1 + r) —m• ln(1 + 1) + ln(1 — t) — ln[1 —t(1 +r)m15]
+    But when r is in the normal range of interest rates:
+                        ln(1+r) r,and1n(1+i) i,
+    and so:
+    (7b)       r= mi-i-ln(1—t) .—ln[1 _t(1+r)/2]
+                                         —1+
+                                               ln(1—t) _ln[1_t(1+r)M/h]
+                                                             in
+    The only thing that keeps r below I is the fraction on the right (note that
+    it is negative) whose denominator is m. As vs rises, this fraction declines
+    in relative weight, and r rises to approach I.
+        So even under the write-off assumption most favorable to brevity and
+    still levying a tax, the bias is to longevity. There is no escaping it, so
+    long as taxation waits on realization. Equation (7b) is generally appli-
+    cable to all the point-input point-output cases. Simply replac4by what-
+    ever value w has; or if no write-off is allowed strike out the second in in
+    the numerator altogether.
+       It is easy to tear down. Let us turn now to reconstruction. How might
+    we levy an intertemporally neutral tax on the income of capital? We
+    begin with some criteria learned above.
+      a. Initial costs must be deductibi; to avoid taxing capital turnover.
+      b. Unrealized appreciation must be taxed as it accrues, not waiting for
+             fle American Journal oj Econondcs and SocioJogy
+realization in cash. Thus tax liability is not deferrable by lengthening
+maturity.29
+  c. Write-off must synchronize with capital recovery; earlier write-off
+grants partial or complçte tax exemption.
+  The investment value of our immature trees in equilibrium grows at
+the rate of interest, I. An income tax as above would take each year the
+tax rate times the base V'i. There would be no other tax because at
+maturity all appreciation would already have been taxed; and the write-off
+of initial cost, C0, would exactly offset the recovery of c.
+  The reader's skepticism may rise when he suddenly realizes that our
+neutral income tax is very like a property tax on standing timber: it takes
+a percentage of the market value each year! Can a tax in such bad odor
+actually be a good one?
+   The neutrality of the tax is shown as follows:
+   r is defined in Equation (8).
+(8\/               —it
+                         —   i(1+i)t —         —   i(1÷i)m-1t + (1÷i)m
+                  1+r        (1+r)2                  (1.J.r)m   (1+r)m
+which says that the present value of gross receipts less the present value
+of taxes must equal the initial cost of $1. Snmming the geometric pro-
+gression and switching the last term to the left side:
+
+ (8a)                        i/1+i\a_itI1 f1÷i\m
+                                \1+r/         r—.iL k1+r/
+                                     r—i——it
+                                     r—i(1--t)
+ And this holds true for all m.
+   The rationale of the taç and its intertemporal neufrality stand out
+ dearly when we consider what the tax would be if we let the amount due
+ accrue in a sinldng fund. The present value at time zero of the Inn is
+ from (8).
+ (Sb)
+
+ But
+         r—i
+       2tAkernatively, to avoid liquidity problem cases, unpaid accrued taxes might be let
+ grow in a sinking fund at interest, to be paid in cash at maturity. But the appreciated
+ asset ii always bankable, averting liquidity crises. Of cours the owner must then pay
+ interest on the loan, but that is the whole point.
+     291t is as though the tree were sold each year, from one investor to another, so else
+ whole tiine-consuniing ripening process were "vertically disintegrated." The need for
+ that is very clear upon considering one of its incidental benefits, which is to avoid dii-
+ crimination between long-haul investors and quick in-and-out investor; and to avoid
+ encouraging vertical integration to defer taxes.
+               Tax-Induced Slow Turnover of Capital, 11                  195
+
+So the value in year    coznpoundingat r, is
+                                                                                H
+(8c)                     VTms(1+i)m_(1+r)m
+That is, if we gave the taxpayer the choke of paying at maturity with
+interest, his tax burden would grow exponentially, like money in the badç
+at a rate of interest equal to r, maintaining intertemporal neutrality of
+cimice by maintaining a constant difference between i and r.
+  The remarkable fact emerges that the neutral income tax is like the
+property tax on standing timber! Can it be that this pariah of taxes, which
+we have scourged out of the system to the cheering of economists, was
+actually neutral?
+  It is neutral if we assume, as we have, no shifting of the tax, i.e. that
+capital bears it wholly in a lower r.
+  But that is not a vety realistic assumption; neither is it permissible in a
+proof. To assume the absence of shifting of any kind is to assume tax
+neutrality, since it is tax-induced reallocation of inputs whose supply is
+elastic that causes tax shifting. We cannot prove a tax is neutral by assum-
+ing that it is. In Figure 1 we could prove the tax on realized interest
+income was not neutral, regardless of shifting to other inputs, because of
+intertempora! shifting. We have shown the tax on accrued interest income
+is intertemporally neutral if not shifted to other inputs. But now we
+must ask what happens to intertemporal neutrality if it is so shifted?
+   Suppose a property tax is levied in a jurisdiction too small to infinenre
+national or world interest rates at all. Investors need not accept lower
+returns there than elsewhere, so capital emigrates until the tax is com-
+pletely shifted.
+   Now capitals scarcer there and needs to berationed at a higher interest
+rate. To ration this reduced supply best a tax system needs to bear equally
+on all maturities. That is what the property tax and our neutral income
+tax would accomplish. Capital must now earn i (the gross-of-tax rate of
+return) in all uses and maturities to return to the taxpayer an after-tax
+return, r, that is the same for all uses and maturities.
+   Because capital is scarcer, some former uses of it must be abandoned.
+The question is, which ones? Under the property tax, capital-intensive
+enterprises are hardest hit, as forest owners have always complained. But
+that is as it should be: if capitalS scarce, capital intensity is wastefuL
+   Capital longevity is of course synonymous with capital-intens4 Long-
+lived trees that tie up capital for 80 years or so become submarginal under
+196        The American Journal of Economics and Sociology
+
+the property tax. The jurisdiction's scarce capital supply is marshaled
+into shorter-lived investments.
+   The property tax and our accrued-income tax are neutral in this sense:
+once the decision is made to tax interest income and accept the consequent
+scarcity of capital, then the reduced supply is economically rationed by
+requiring all investments to earn i before taxes. The tax is neutral among
+all maturities at the higher rate of interest, i, which is now the equilibrium
+rate.
+   Higher interest rates of course tend to ration out longer maturities, and
+the result is to shorten lives. This bears the semblance of a tax bias against
+longevity, but that is not & meaningful way to perceive it. It is the tax-
+induced capital shortage that causes the bias against longevity. Our tax
+then rations capital economically under this new constraint
+  Compare, now, the result of a tax on realized income if the tax is
+shifted. This bears lighter on longer maturities, and so causes the jurisdic-
+tion's scarce capital to be tied up in capital-intensive enterprises—exactly
+the wrong allocation to meet a shortage. It spares the investments that
+are marginal by virtue of longevity, but hits other& Capital is forced out
+of higher uses rather than lower uses.
+   There might appear to be some benefit in the realized-income tax basis
+to compensate for the bias to longevity in that capital finds a tax shelter
+ nlongm iiesandlessof it need be driven to emigrate. But that
+would be a false hope to pursue. By avoiding taxes, capital deprives the
+Sc of revenue, forcing higher tax rates to yield the same revenue. The
+higher rates force out more capital, leaving us finally with less capital and
+more intetternporal bias. We cannot take comfort in the hope that tax
+avoidance for capital will be imputed into higher tnrble land rents, asin        :1
+the expensing case, because the same deferral of realization of income by        14
+
+which capital avoids taxes also defers realization of the associated land
+rents and lets land escape as welL In comparing the income tax and the
+excise tax we could truly say that the taxpayer benefits of the former over
+the latter would be imputed to land and so not escape from the tax base,
+because the income tax has less longevity bias than the excise tax. But
+now we are comparing the income tax and the property tax. The tax-
+payerbenefltsoftheformeroverthelatterarealsoshiftedtoland,butthey                1!J
+
+
+do escape from the tax base even so because the resulting increase of land
+rents is deferred.
+   The only reason for preferring the realized basis, therefore, would be
+to dissemble: to appease voter clamor for taxes on property income while
+ft.
+
+
+                       Tax-Induced Slow Turnover of Capital, II                 197
+
+      actually letting it escape. It is easy to imagine and to observe how such
+      a device could be and is useful in politics. But it is not the function of
+      economic science to supply ruses to mislead voters; it is rather to recom-
+      mend the best possible policies in the public interest
+        Let us sIIn'm2rize. Our accrued income tax, and the property tax which
+      it resembles, are neutral intertemporally if capital absorbs the full tax with-
+      out shifting. If capital emigrates to escape the tax the emigration is
+      itself a tax-induced misallocation, and the tax is not neutral. Only a tax
+      on land, which cannot emigrate can be fully neutral. But if society does
+      tax interest income, our accrued-income tax base preserves intvt temporal
+      neutrality among investments at that higher rate of time-discount appro-
+      priate to the tax-induced scarcity of capital. Thus the accrued-income
+      basis is distinctly superior to the realized-income basis of taxation, contain-
+      ing an important element of neutrality which the latter lacks, and the
+      possibility of complete neutrality under the special and unrealistic assump-
+      tion of non-emigration and non-shifting, or under the assumption that the
+      property tax base has been modified to exempt improvements.
+         Historical opposition to and criticism of the property tax has resulted
+      from the tax's rnnldng very visible the destructive effects of tn4ng the
+      income of a mobile, migratory input like capitaL That has been especially
+      true in forestry. But shifting to the realized-income basis makes the tax
+      no less destructive, only less conspicuously so. In the process of conceal-
+      ing the damage, however, the income tax adds greatly to it by driving
+      capital into longer maturities. It also slougbs the tax burdens of prop-
+      erty onto labor, which lacks equally effective means to avoid taxes.
+
+                                       (Continued)
+      Resources lot the Future, lit.
+      WeslAugIos, A). C. 2OO3                                                      .4
+
+
+
+                     Cooperation in Antarctic Research
+      Fznr scinmsrs from 12 countries which are signatories to the Antarctic
+      Treaty, induding the United States, Britain, Japan, and the Soviet Union,
+      met in Tokyo in 1968 for the 14th general meeting of the Scientific Corn-
+      mittee on Antarctic Research. The group decided on the establishment of
+      an international cooperation system on geological studies, jomt studies on
+      logistical problems and creation of a telecommunication bptezn in the
+      Antarctice. [From the U S Department of State]
+       Tax-Induced Slow Turnover of Capital, III
+                   By MASON GMFN
+
+                                     in
+               Constant Value Assets: the Full Salvage Case
+WE BEGAN with the point-input point-output case, thinking it was the
+simplest. It turned out to be rather complicated. That was partly be-
+cause we took advantage of its simplicity to introduce a number of com-
+plications and establish beyond cavil our general thesis of a bias to longev-
+ity. That was worth some care, even though only a few real assets
+approximate the point-input point-output model, because all other models
+may be constructed as summations of point cases, and what is true for each
+of the parts is almost surely true for the whole.
+  Indeed, with that thought we might almost close here and take the
+remainder on faith. But as it happens some of the more complex models
+are easier to understand than the point case. Further, it is not iinmedi-
+ately obvious from the point case what depreciation schedule would be
+neutral, how to judge the bias in schedules commonly used, or how to
+judge interclass bias. Also, critics of Austrian capital theory have never
+accepted the generality of the tree case. Finally, the more complex models
+help us frame some wider generalizations which we would leave with the
+reader.
+    We next consider an asset whose salvage value at maturity equals its
+initial cost; and which yields a steady net income in the years between.
+Call it a milk cow, &ssie, foster-mother to man over life, destined for
+sausage and shoe-leather on maturity. By assumption she neither appreci-
+ates nor depreciates throughout her life. She is much like a time deposit.
+The beauty of the Bessie model for tax analysis is the simplicity of de-
+fining income in the absence of depreciation and appreciation. The net
+ current income is all income. There is no recovery of capital until her
+ last day.
+     In this case a neutral tax results if the owner pays on current net in-
+ come as received; and writes off capital cost in year m when he recovers
+ it. Under this rule there is no tax on capital recovery, as with an excise
+ tax, to penalize shorter maturities; nor any advance of write-off before
+ recovry, as with expensing, to subsidize the investor and counteract the
+ tax. The owner cannot avoid full taxation by turning to more long-lived
+ Bessies, nor is he penalized if he jilts Bessie for Henrietta Hen, who yields
+ a stream of eggs over a short life before broiling. At any life he bears
+the full tax, so r=i(l—t).
+278       The American Journd of Economics and Sociology
+
+  If we let him defer taxes on milk income until maturity the case would
+be like that of the tree with a bias to longevity and a wide-open route
+to tax awidance. That is not done explicitly although he can do it indi-
+rectly by feeding more milk to calves for future income, and even by
+dumping milk in quixotic milk strikes in hope of higher future income.
+If we let him write off Bessie before her time he would also pay a lower
+effective tax rate (and that we do do, explicitly). As with the tree, ex-
+pensing (writing off Bessie's cost as business expenses) would afford full
+tax exemption: the yearly interest on write-off at time zero would pay the
+yearly tax on income (and the tax rebate on write-off itself would just
+cover the tax on realization of salvage value). As with the tree, the bias
+to longevity caused by write-off in an intermediate year, sit, would depend
+on how w varied with m. In practice it would be biased to longevity be-
+cause w tends to vary insufficiently with m. That is equally true whether
+w is actually a single year or something like the mean year of a deprecia-
+tion schedule taken as the unitary equivalent of the whole schedule.
+   An undepreciating asset like Bessie should not be written off over life1
+therefore, because to do so in any feasible way creates an intra-class bias.
+The only reason for allowing it would be to reduce the inter-class bias in
+favor of trees and other appreciating assets. But that is not a good rea-
+son either because it would increase the inter-class bias against depredating
+assets, the most common kind.
+  The Bessie model is of course artificial, rigid, and nnhikely to exist in
+pure form. Its value is to highlight basic criteria which we may. seek
+to apply to the more difficult case of depreciating aets to help find a
+timing of tax liability and write-off that is intertemporally neutral. These
+criteria are:
+   a. Tax income when it accrues, either as appreciated value (the tree
+case) or in cash payments.
+   b. Write off assets only when they depreciate (or are liquidated out-
+right, which we include with 'depreciate").
+   To summarize (a) and (b) tersely: tax cash receipts, deduct cash out-
+lays; tax appreciation, deduct depreciation.
+   Let us now apply those principles to the more general case of depreciat-
+ing assets and find a formula for intertemporal neutrality.
+
+                                     IV
+                     Depreciating Assets
+ASSETS THAT YIELD regular or intermittent incomes over life may be wa-
+lyzed, and usually are, as though they were aggregates of point-input point-
+                  Tax-Induced Slow Tumovet of Capital, III                            279
+
+output cases. That is, standard financial formulae for annuities are de-
+rived simply by summing up the present value of all the future payments,
+thus:
+                                         I
+                                   V9—Z [a(l+i)]
+                                         1
+where I is life.
+For a constant annuity of Si (beginning at the end of year zero)
+                                         i-.(i +i)-3
+and all annuity formulae are variations of that.
+  We should expect, therefore, that our condus ions from the tree case
+should apply to the present more general case, as the Austrians alleged.
+Butthatisquiteatrnsfertotakeonfaith,andevenifonedid,thedetails
+of the transfer would still pose several perplexities. So we now present
+a model of a depreciating asset, the impact of taxation, and the write-off
+schedule needed to avoid intertemporal bias.
+  Assume our asset costs $1 at time zero and yields a constant cash flow
+(net of current costs, of course) over life of / years. It is a depredating
+asset not because of falling income but because of falling life expectancy.'°
+In equilibrium without taxes the cash flow is the annuity, a, whose present
+value is one:
+
+
+a function tabulated in all interest tables. Sometimes it is called the
+"capital recovery" formula, because it returns a dollar of capital with
+interest at i per cent.
+  Now we levy an excise tax on this annuity. The taxpayer gets a(i -t).
+His rate of return after tax, r, is now the capitalization rate that will give
+this reduced annuity a present value of one.
+                                                        1     1       -'
+                                                   —
+                                                                  r
+Table 2 is a numerical example from the interest tables showing that r
+rises with 1.
+   Here, as in the point case, excise taxation without deduction of costs
+results in extreme bias against short lives, and for the same reason. Any
+tax rate higher than 8 per cent makes r negative for maturities of one year
+            we said in the introduction, we are treating here only thb case and not the case
+of a falling income stream. The latter ii comprehended in the general formula in the
+appendix.
+280        The American Journal of Economics and Sociology
+
+or less. The 50 per cent rate of Table 2 makes r negative for maturities
+under 19 years.
+
+                                   TabIe2
+        RATE OF RETURN AFTER EXCISE TAX OF so% ON A}NUITY
+               WHOSE PRESENT VALUE AT 8% IS ONE (1)
+ 1          a
+                      i                     I              r             r
+                  1(1+)1         a(1—t)a-j- •= 1—(1+rY'
+  1               1.080                          .5400               —45.
+  5               .2505                          .1253               — 14.
+
+ 10               .1490                          .0745               —   5.
+(19)             ( .1041)                       (.0521)              C0
+ 20               .1019                          .510                     .2
+ 30               .0889                           .0444                  2.0
+40                .0839                          .0419                   2.8
+ 50               .0817                          .0409                   3.3
+
+   The case is so obvious from Table 2 that we dispense with graphical
+illustration and rigorous proof by differentiation. It is enough to solve
+ (9) for r and inspect it:
+
+(9a)
+                          r=i(1_.t)ETJ
+      Whenl=i,r—i(1—t)—tandrisnegativeforallt> hi. But as!
+grows, the fraction in brackets approaches unity and r—*i(i —t).
+   The interesting project now is to find a depreciation schedule that may
+free the tax of interteinporal bias. The Bessie case leads us to expect this
+is possible by writing off capital at the time recovered. The trick in the
+annuity case is to separate income from capital recovery.
+   The project involves four steps:
+   First, modify equation (9) to include the depreciation rebate.
+   Second, define true yearly depreciation as the drop in value of an Asset
+   Third, substitute the true depreciation into modified equation (9).
+   Fourth, show thatr_ifl-t) for all lives, 4 when true depreciation is
+allowed.
+   Beginning with the first, the taxpayer's r is now redefined to show the
+write-off:
+                          i                                I
+(10)        1—
+                                     1 (1+r)4
+                              (1 —t)
+                  1— (1 ÷i)-'              r              +[i ÷r)11]
+The la             the tax rate times the present value of all depreciation
+                 Tax-Induced Slow Turnover of Capital, III                           281
+
+write-offs,d,inallyears,w. Theeffectofaddingaterintotheright
+side is to raise the value of r, since now the investor can capitalize his
+after-tax annuity at a higher rate to snake it equal $1.
+   We use r rather than i to discount future d to present values in equa-
+tion (10) because the original equation (9) was set up to define that r
+necessary to discount after-tax incomes to present values in order to make
+the sum equal the initial investment, one. That is what the first term on
+the right side of equation (10) does. Write-off rebates are just like
+another after-tax income payment at the date received, and discounting by
+r treats them parallel to other after-tax income. r is the disctwit rate
+that reduces the sum of all future after-tax payments, including write-off
+rebate% to $1 [23, 339, Equation (14)—(17)].
+  Second, we define true yearly depredation as the drop in value of an
+asset. Hereisanetyielthngasteadyanuityofaover/yearsand
+then ceasing abruptly. It depreciates not because of declining yearly
+income but declining life expectancy.'° We might call it the one-hoss shay
+case but that would have only poetic value since new rolling stock tends
+in faa to fall rapidly in annual use-value, resulting in the typical ski-slope
+depreciation curve traced by Blue Book values of used cars. The present
+case is more the slum tenement which with advancing years is sub-divided,
+ni*intaining gross income, but accelerating depredation, until one day it is
+condemned and dosed, or perhaps denmlished
+                                -
+                                           due to locational obso-
+lescence.51
+  The present value of this model slum tenement is the sum of the dis-
+counted values of all future incomes:
+(11)              V0 = a,(1 + i)' + a2(1 + i).2 ... . . +a1(1       + i)
+The passage of year zero does not reduce its value much. It might seem
+at first that V0 would fall by the loss of the first term a,(1+i)'t, which
+is the largest term. But that is to reckon without the appreciation of all
+the later terms which move one year closer to the present. When all the
+a values are the same, the end result is to remove the last term, not the first.
+
+    '°Once again, see in. 30.
+    "Thanks go to Dr. Herbert Dorau, who has let the writer examine his unpublished
+integration of the Straight Line Arcrsal in which he treats building depreciation In much
+the nnn,,er that we do here. Earl Bossard has used this method in forecasting the prop-
+erty tax base of Shaker Heights [36,43].
+    Philip Stern points out that this pattern of building depreciation is Implicit In repay-
+ment patterns on mortgage loans in equal monthly installments. LI buildings depreciated
+like cars, owners would soon han no equity and lenders would han insufficient collateral
+security [33, 112-53]. Frederick Babcock's classical Valuation of Real Estate also tate
+depreciation essentially in this manner (chapa 27).
+282        The American Journal of Economics and Sociology
+
+Thus:
+                                           r   1   —''i n—'
+                                                         / _a(1÷i)1
+(12>       d=V0—V1=a(1+i)1—i La
+              = a(1 + 1)-i [1 + i] —a (1— (1 + i)'] = a(1       +i)
+  As a counterpart and confirmation of this definition of depredation,
+note what it implies about the value of income, a —
+(13)           Y a — d = a— a(1 + i)—' a[1 —(1 + i)t]
+                    But
+
+
+                      ..Y=V•i.
+Income is defined now simply as interest on the remaining value of the
+asset, a credible notion in its own right. In early years when value is
+high, the cash flow is mostly income, with only a small depreciation write-
+off; in later years the cash flow is mostly depredation. This also accords
+nicely with the observed fact that older buildings usually pass into high
+density use, occupied by lower status tenants who tend to have higher pro-
+pensity to wear and tear in using the premises.
+   The acute reader will have noted that our definition of income now
+leads directly to the conclusion of making the income tax bear on build-
+ings in the same time pattern as the property tax: high in early years, low
+in later years, taking always a constant share of a base which varies di-
+rectly with the capital value. This harmonizes with our conclusion about
+the tax on timber, and is subject to the same severe qualification. The
+tax on buildings, is a damaging tax. Hardly anyone has a good word for
+it, least of all the present writer. But it is visibly damaging precisely
+because it does what it is alleged to do, it taxes the possession of capital
+and is not avoidable, save by emigration. If the income tax is less dam-
+aging it is not because it is a better way to tax property, but a way to let
+property avoid taxes and shift more burden to labor. In the process of
+avoidance, capital twists and contorts itself into uneconomic time-patterns,
+abandoning urgent needs and superior before-tax returns to sequester itself
+in an inadequate number of excessively durable buildings.
+   Having defined true depreciation, we have completed Step 2 of this
+project. That brings us to Step 3, which is substituting true depreciation
+into Equation (10). This is a delicate stage of the operation. We must
+sum the elements of the present value of depreciation in one simple a-
+pression. There are several points where one misstep would ruin the
+whole job.
+  A touchy matter is to get the end points right.38 Depreciation during
+   82credit is due to Professor Samuel Thorndike1 Jr., for raising this point.
+   SSTInnb are due to Professor Robert San Souci for repeated emphasis on this as the
+key to the mathematics of Cn.n
+                 Tax-Induced Slow Turnover of C4itaI, III                      283
+
+the first year of life is, we have shown, a(1+i)_Z, representing the loss
+of the present value of a, (the a due at the end of the last year, 1.) Suc-
+ceeding discount powers would fall by one each year, giving exponents
+of i—I, 2—i, 3—I, etc. The last term is not, however, raised to the
+power 1—1 or 0, but rather—i, or l—1-- 1. Because depreciation during
+the last year of life cannot be the full value of a, which by assumption is
+receivedattheendoftheyear. Thevalueoftheassetatthebeginning
+of the year is a(1 + i)4, and that, obviously, is all there is left to depreciate
+during year 1.
+  In general, then, for any year n, the depreciation is a(1 + j)fl - -' [23,
+341).
+  A dose look at year 1 also tells us why we use i rather than r to define
+depreciation. Income in year 1 is now a — a(1 + i)1 = a(1 — (1 + 1)-I) =
+[a(1 + i)-1)i. That is, income is interest on the value of the asset when
+the year began. Now, this income is our tax base. if we used r instead
+of i to define it, the tax base would be the after-tax income, an obvious
+error."
+  It might seem that the market value of the asset at the begnnng of
+year 1 would be a(1 + r)-1, making our depreciation schedule arbitrary,
+and departing from market values which would be set by discounting at r.
+But remember there are two tolls to pay for passage through the year:
+after-tax interest, r, and also taxes themselves. To be worth a price r on
+January 1, our asset maturing on December 31 must return not just r + rr
+butalsorittopaytaxes. But r+it=i, so.ir(1+r+it)=ir(1+i). From
+that it follows directly that r=a(1+i)1, where a is a payment due at
+year-end.
+  The rate the taxpayer uses for discounting future writeoff rebates is,
+however, r,as in Equation (10). That is because the rebates are his with-
+out additional taxes.
+  Now we may find the present value of all write-offs, PVW, for substitu-
+tion in Equation (10).
+
+(14)
+                    f(1+i)-' (1+i)1t           (1+i)-1
+            vWs.aL(l) + (1+r)' ++(1+r)_i
+  The brackets enclose a geometric progression whose first term is
+(1+i)1                       .
+            whose multiplier is ___ , and whose terms number 1.
+(1+r)                                1+r
+   'We believe that Professor Musgrave falls into this error in his definition of the
+"annuity method" [23, 341]. It ii perhaps this which prevented his finding a general
+solution.
+284         The American Journal of Economics and Sociology
+
+                          ri +iI
+(14)          PVW(l+i)-.'L1+rJfl÷i)4_(l+r)-i
+               a         1+r               1+1            f—i
+                                           l+r
+Substituting (14a) in (10)
+(ba)            1 —a(1—t) (1+r)4 (1+_.d1÷04
+                                     1
+               Recallthata.
+                               1— (1+i)—'
+                                        1— (1 + r)4
+               1 — (1÷1)—'
+                     I
+                             =a'    /        r        + (1 +i)—  (1 +r)4
+                                                              r.—i
+Now to Step 4: does r vary with life, 1?
+  Equation (ba) is too formidable to solve directly for r. Fortunately
+there is an easier way. We simply test a hypothesis: is the equation satis-
+fied if rti(1_t)? A few substitutions and cancellations answer the
+question.
+(lob)          l_(1+i)4?(l)i_(1÷r)-4÷(1+i)4_(i+r)4
+                             i(1—t)       i—it—i
+               1— (1 +i)- ? l—(l ÷r)4 (1 +i)-'—. (1 .j-r)4
+                     I              i0—0                 i
+
+(lob) istrueforailvalues of 1. Thismeansthattheuseoftruede-
+predation as the basis for tax write-off gives us an income tax that is
+free of interteniporal bias. The taxpayer's yearly rate of return is re-
+duced by the full tax rate, regardless of the life of his investment.
+  This completes the fourth and last step of the operation. We have
+discovered that the income tax on depreciating asseS may be freed of
+intertemporal bias by writing off capital at the time it is recovered. This
+reinforces our earlier findings for appreciating assets like trees and full
+salvage assets like the Bessie model. By following the simple rules of
+taxing appreciation and deducting depredation we not only make the tax
+neutral within each class but also among classes, for in all cases the rules
+make r=i(1—t).
+ The result is of practical interest as a benchmark against which to
+judge present write-off formulae. It is even more interesting as a prac-
+tical reform proposal in its own right, because it is operational. It is
+simply the ad valorem property tax! The basic rules to follow are simple.
+It may have appeared complicated to prove that the rules led to unbiased
+results, but applying the rules poses no such problem. It is even simpler
+                Tax-Induced Slow Turnover of Capital, Ill                           285
+
+than following market depreciation downwards, or appreciation upwards.
+The practical "operafiona1it' of our system may be better appreciated by
+realizing it does not call for a fine appraisal of each year's change in asset
+value, an apparent practical barrier that has dampened the ardor of some
+theoretical supporters. Rather, it defines income as a percentage of asset
+value, so that one capital value is all we need to know, as with the prop-
+erty tax, and an assessed approximation is tolerably acceptable. We will
+see that this principle holds as well for appreciating land values. Yearly
+reassessment is best, but not absolutely essential for a workable system.
+The idea is, if we know the market value we know how to allocate cash
+flow between income and depredation, not perfectly, but much better than
+under any of the arbitrary formulae now in use.
+  To criticize our method, as some will, on the grounds that property
+appraisal is impracticable, would be merely captious, because all spstdns
+of taxing property income require property appraisal at some critical points.
+Furthermore, if property appraisal is impractical it is not just taxation but
+the free market mechanism that stands condemned, for how else do peo-
+ple buy and pledge property?
+  We have not as yet produced a completely general proot However,
+we will from here on regard the pmposition as proven, for three reasons:
+ (1) it is proven for point-input point-output, and all cases are
+tions of point cases; (2) we have illustrated the proof in two models
+which were summations of point cases; and (3) we provide a completely
+general mathematical proof in an appendix.
+   Now we are in a position to see clearly some further biases to longevity
+inherent in current income tax practice. If an asset yielding a constant
+annuity like our slum tenement model were to receive straight line deprecia-
+tion, that would be too fast. True depreciation begins low and rises like
+a compound interest curve. Figure 2 points up the contrast. Granting
+straight line depreciation on the asset writes it off at a faster rate than the
+true one and therefore raises r above i(1 — t).
+   The resulting bias to longevity inside the subclass of tenement models
+(i.e. constant finite annuities) is only moderate. In the appendix we show
+how r varies with 1, under straight line depreciation applied to an annuity.
+   But the bias is much greater if we compare constant annuities with
+assets yielding declining streams of income, like trucks. Their true
+    t5Professor Musgrave has worked through an arithmetic example leading toward con-
+clusions consistent with ours (23, 340]. HIs treatment is limited, however, to one case of
+straight line depreciation. We do not know what his position would be on our allegation
+that a neutral income tax is the property tax.
+286      -   The American Journal of Economics and Sociology
+
+depreciation is much faster than the tenement model's, even assuming
+equal total lives. But here we again run afoul of lawyers who think in
+categories and not continua. En tax law, "pigs is pigs"8° and "life is life,"
+the number of years between birth and scrapping, so trucks and tene-
+merits of the same "life" would be written off at the same rate regardless
+of the faster true depreciation of the trucks. This tends to make tene-
+ments relatively more attractive after tax than before. Trucks might very
+wellendupyieldinganr < i (1—t);andthatwouldobviouslybesoif,
+for example, half the value were recovered in one year and write-off took
+ten. Tax liability would then precede the mean write-off by five years.
+   In general, arbitrary write-off schedules based on "life" favor assets
+yielding steady or rising income streams and penalize their opposite nurn-
+bets yielding falling income streams. Thus they encourage investors to
+build more durability into assets than they would in the absence of taxes;                     H
+and they open a wide avenue of tax avoidance.
+                                       Figure 2
+  True depreciation and straight line depreciaticn for an Meat
+             yielding a constant annuity over life
+
+
+
+$                                                                   True aepreLatson
+                                                                                               (
+
+
+
+                                                                    Strc4qht line
+                                                                    depreciatica
+                                                                L 1_(141).R,
+                                                                I
+                                                                           Years(n)
+
+    80Por the benefit of younger readers, the allusion is to a tale by Ellis Parker Butler
+                                                                                               3
+wherein a narrow-gauged freight agent insists On shipping Guinea Pigs at the Swine rate.
+    3TM realistically, between birth and statute life, based on broad guidelines depend-
+big on the category in which the asset's legal name places it, and only remotely related to
+economic life of the particular asset.
+    It is not just lawyers who may fall into this error. The Chairman of the President's
+Council of Economic Advisors, in L. B. Jc&nson's Administration, in seeking to deny that
+capital-intensity implies durability of capital instruments, makes his case with an aan,ple
+in which he alleges that three methods of production all involve capital of the same "life"
+because the fixed capital lasts for 10 years in each method. But the lives are the same only
+in the most superficial sense because diey use different amounts of working capitaL
+G. Ackley, Macroeconomic Theory [1,467-69].
+                 Tax4nduced Slow Turnover of Capital, III                               281
+
+   In fact, the tax laws have moved towards tax exemption for durable
+capital by accelerated depreciation, capital gains treatment, declining ba!-
+ance depreciation, sum of the years' digits, the investment tax credit,
+expensing of some durable investments, implicit expensing through alloca-
+ting owned resources to building durable capital, (extra-legal) use of cx-
+pensable hired resources to build durable capital, super-accelerated write-
+off for buildings placed on leased land, etc. In the abstract, these devices
+could benefit short maturities as much as long. In practice they usually
+benefit the long. First, they are mostly reserved for assets more long-
+lived than specified minimum lives;8 second, they tend to make write-off
+schedules more and more independent of actual lives and time-patterns of
+income streams.
+  In addition, as everyone knows and most economists deplore, use of
+the realized-cash definition of income exempts altogether the implicit
+income from owner-occupied residences and other consumer capital. This
+creates in the income tax an additional bias to longevity. Of course short-
+lived consumer capital benefits as much as long from this exemption.
+The bias to longevity comes because the individual piling up tax-exempt
+consumer capital has to reduce its turnover rate to avoid increasing his rate
+of real consumption. Also, he now discounts future implicit income at
+the lower after-tax rate of return, r, which favors longer lived investments.
+   These various practices are not without short run macrn-economic bene-
+fits. They raise the marginal efficiency of capital and encourage net new
+investment. They let capital avoid taxation at home and prevent its flight
+overseas. But they do so at a fearful price. They shift the burden of
+taxes from property to labor (land escaping also by various ruses we have
+mentioned and others yet to be shown). They misallocate capital into
+more long-lived forms than would best meet consumer demands. And
+they retard replacement in all future years, lowering gross investment in
+any year and thus lowering the sum of income-creating expenditures and
+the demand for labor.
+                              (Continued)
+Resources /or the Future, inc.
+Washington, D.C. 20036
+    38For example, Congress in 1962 plugged a loophole by denying to personal property
+the privilege of capital gains treatment on the excess of sale value over book value resulting
+from excessive depreciation—but let real estate retain the privilege [33, 153]. Recapture
+of excess sale values is at a sliding scale of rates that declines with the period of time
+a building is held [33, 155—56]. The idea seems to be that long term investors are 'legit-
+imate," while others are "fast-buck artists." We think that the fast buck is socially
+superior to the slow one.
+    Congress' special partiality for real estate investors shows up again in the 1960 law
+letting Real Estate Investment Trusts deduct their Ihilenis (sic) from taxable income.
+       -     -—       —,_•-—--_.-.__•_n_...-. rfl...   .c.r— rr..-rr-r.   _______   -
+                                                                                        ...•
+
+
+
+
+        Tax-Induced Slow Turnover of Capital, IV
+                              By MA.soN GAFFNEY
+
+                                             V
+                                           Land
+WE HAVE ANALYZED three classes of durable capital assets: appreciating,
+full salvage, and depredating. Finally we come to the fourth and last,
+land. Land differs so much from the first three that many economists
+regard it as a dass ml generis, and so do we, but the reader may prefer his
+own taxonomy and still note with us that land yields income in perpetuity;
+land purchase is not income-creating, macro-economically speaking; land
+never turns over in the Austrian sense of production and liquidation; land
+is immobile among taxing jurisdictions; land i5 periodically salvaged by
+demolition of old buildings and renewed with new ones; land grades off
+from the best down to a marginal supply which is virtually free.
+   Land has long been regarded as a peculiarly promising tax base because
+it cannot emigrate from a jurisdiction, nor be used up, nor otherwise flee
+from taxes. Marginal land is not sterilized by taxes on land rent or land
+value, because marginal land has neither (a point known to fame since
+Ricardo's Principles, Chap. X, "Taxes on Rents" [26]). So if an inter-
+temporally neutral tax should fall on land rent the tax would not be shifted,
+but would remain neutral. It would never, like a tax on capital, lower
+the marginal efficiency of capital. To what extent does our present tax
+system take advantage of these opportunities?
+  Beginning with the excise tax, it favors land enormously because land
+never turns over. Only the net income of land could be subject to a retail
+sales tax. In practice, even that is often exempt. Whoever heard of an
+excise tax on ground rents from long term leases, for example, or on slum
+rentals, or on landlords' crop shares, or on implicit income from owner-
+occupied residences, or on parking fees? Excise taxes are a landowner's
+best friend. The doctrine that a general retail sales tax such as exists in
+many states is approximately neutral in its effects on sellers by virtue of its
+general application should be thoroughly discredited.
+   The income tax is quite another matter. Costs are deductible, so there
+is no tax on turnover, and no inherent bias in favor of land. On the con-
+trary, the various devices for advancing write-off of depreciable or recov-
+erable capital before capital recovery, although they do bias investors to
+longevity, should not bias them toward land, the most long-lived of assets,
+because land is not supposed to be written off at all. Rather, they tend
+410         The Amerkan Journal of Economics and Sociology
+                                                                                            I
+by partially exempting capital from taxes to throw more burden onto land.                   4
+  A simple tax on the net income of land would, so long as the land is
+unappreciating, lower income by the full tax rate, just as with Bessie's
+milk; and that would seem to be the end of it.
+   But it is hardly the bginning. In fact, land escapes the full impact
+of the tax rate in several ways: by being written off in disregard of law;
+by appreciating; by yielding deferred periodic incomes; by capturing the
+value of land development investments; and by submitting to capture under
+the rule of prescription. We will treat these in order.
+   Taxpayers have not found it very difficult to write off land purchases.
+Would that the I.R.S. offered as little resistance to the efforts of profes-
+sional men to write off training costs. It is only necessary that one buy
+land under an old building. Then he allocates most of the purchase price
+to the depreciable building, and writes it off as depreciation—never mind
+how many times it has been written off before.° Thus land which the
+law says is not depredable at all, may be written off not just once, but sev-
+eral times!
+   Were it not for this device the income tax would serve as an effective
+stimulus to urban renewal. Once the cost of an old building was corn-
+pletely written off the current operating income would be fully tanhle.
+The law would recognize it for what it is, pure ground rent, and recognize
+the building for what it is, art empty shell, a shade enduring a life-after-
+death. Thus in the year after the last write-off the slum owner would
+suddenly face a much higher tax bill, which he could then mitigate by
+giving consumers what they want, a new building, and writing off its cost.
+  But under present practice the surest way to lose the privilege of writing
+oilthecostoflandistodearitanderectanewbuilding. Forthenthe
+I.R.S., seeing through a glass darkly, finally perceives that what you
+bought really was not the old building but the land beneath it—and denies
+write-off. (After all, someone has to pay taxes to finance those Urban
+Renewal subsidies!) The net effect is this: you can depreciate land so
+long as you do not improve it.
+  The fact that land can be written off, even if only once, casts an entirely
+different light on the question of tax bias. To write off something which
+lasts forever is to receive from the Treasury a large share of the cost of an
+asset which continues to yield its income to you in perpetuity After the
+last write.off the Treasury gets only a return on its investment The land-
+
+   80ff challenged, he can refer to the local assessor's allocation, which almost always
+understates the land component, partly no doubt to accommodate local people in their
+dealings with I.R.S., which accepts the local assessor's breakdown as concluain evidence.   .1
+
+
+                                                                                            I
+                 Tax-Induced Slow Turnover of Capita!, IV                            411
+
+owner's equity is reduced by the full amount of the rebate, and on that
+reduced investment he receives an income 100 per cent tax-free. From
+the moment of fuli write-off, the land purchase has been handled as if it
+were a current expense,'° like a disposable paper towel.
+   It has been suggested in the past that the fiscal authority should buy from
+landowners the right to tax them, i.e. it should compensate landowners
+before raising their taxes. By letting them write off land, that is exactly
+what it has done. Only the operation has been quiet and unacknowledged,
+and has not been matched by equal generosity to salaried men, 'who pay
+taxes for the original sin of being born, the curse of Adam, the privilege of
+giving involuntary military service, and the folly of voting for men who
+show them their interest in their ruin and their ruin in their interest How
+the ancient gods must be laughing!
+   Not all land is written off, to be sure. It has to be income property;
+it has to be bought for a good price and under an old building. Owner-
+occupied residential land and the houses on it are exempt, as everyone
+knows, because implicit income is tax-free. Fringe land, we will show,
+is largely exempt because of appreciation. But there is another large class
+of land that achieves its exemption by write-off: minerals. I have treated
+this case elsewhere [14; see Editorial Conclusions]. Suffice it here that
+the depletion allowance lets the investor recover, tax free, not only his
+discovery and development costs (which have already achieved tax exemp-
+tion by being written off as expenses), but the value of the mineral rights
+before discovery, a pure rent, a value that grew up from nothing and on
+which no income tax was ever levied.
+   A second way that land receives a lower effective tax rate is through
+appreciation. If the land is held idle while appreciating, the case is like
+that of the tree. In an informed market the market value grows at com-
+pound interest, so that each year's gain is automatically plowed back into
+the base and earns interest in the following years. But this income is not
+taxed year by year as it is constuctively received and goes to work earning
+more income. The tax is deferred until sale, at which time the rate is one-
+half or less that on ordinary income.
+   It is sometimes alleged that land and common stock price increments
+are not income because they are the price of future income; and that to
+tax them as well as the future ordinary income they yield is double taxation.
+   If he sells, the landowner is taxed on the gain, seemingly limhing the time of the
+exemption. But he need never sell; and if he does the tax is deferred, and at capital-gains
+rates. Remember, too, that most of the write-off is taken well before the year of fail
+write-off. Remember, £nafly, that the new owner may, and does, repeat the process, until
+the time of demolition and renewaL
+412       The American font-nd of Economics and Sociology
+
+Fortunately this is not a great issue—the law does recognize such gains as
+income. Anyone denying that the increment is truly income must be hard
+put to explain why the investor has kept his money tied up in idle land
+for 20 years. But the fayored treatment capital gains receive may reflect
+some residual influence of the double taxation notion, so let us refute it.
+  Land prices rise because the passage of time brings higher future in-
+comes closer to the present. This is a benefit above and beyond the
+incomes themselves. Value rises from the approach of higher future
+incomes, without any of them having necessarily been received. It is true
+that part of the future incomes will be taken by taxes; but land prices stem
+from the income after taxes, and price increments arise from the temporal
+approach of these higher after-tax incomes.
+   Putting it another way, suppose that after 20 years the original owner
+sold his appreciated land, and invested the gain in an earning asset.
+The land yields an income for the new owner; the new asset yields another
+income to the original owner. But now there are two incomes where there
+was one before. Or suppose the original owner spends the gain on
+consumption. He has consumed his entire income—yet the new owner
+continues to receive income, unabated, and the old owner has not drawn
+down his original capital but just consumed from income.
+  Appreciation is income for the same reason that depreciation is deduct-
+ible from income. True depreciation is the present value of a loss
+or deferral of future income; appreciation is the present value of a gain.
+or advance of future income. Indeed, referring back to Equation (12) it
+is evident that true depreciation is net of the unrealized appreciation of
+the unexhausted parts of an asset. So true depreciation already entails
+the concept of taxing unrealized appreciation. Annual taxation of un-
+realized appreciation is consistent with our definition of true depreciation,
+and not to tax the former would be inconsistent and unbalanced and would
+result in a distorted tax system.
+  ,So land appreciation is income, just like tree appreciation, and a neutral
+tax would take it as it accrues each year. The present system of deferred
+taxation grants it a lower effective rate, thus making purchase of land with
+appreciation potential relatively more attractive than it would be in the
+absence of taxes.
+  Another way of perceiving the point, one which would apply as well to
+the tree case, is to think of tax deferment on unrealized appreciation as
+tantamount to plowing back income into the land investment and auto-
+matically allowing it to be written off as expenses, deferring the tax until
+later. Thus the principle of taxing realized rather than accrued income is
+                                                                                             ______________
+                                                                                                -J
+
+
+
+
+                 Tax4nduced Slow Turnover of Capital, IV                             413
+
+the same as granting the expensing privilege to each year's added incre-
+mental investment in the land value.
+ The privileged nature of this treatment may be appreciated by compar-
+ing the tax treatment of an E bond held in one's safe-deposit box. The
+law is explicit: declare and pay tax on the yearly interest, even though
+you never touch it and indeed cannot do so without penalty. Or consider
+the treatment of contributions to some pension funds. These are involun-
+tary; withheld from wages; non-transferable; forfeitable; non-bankable---
+but fully taxable in the year withheld.41 Or compare the ELC.A. payroll
+tax. Employees pay income tax on gross salary before the F.I.C.A. deduc-
+tion, even though benefits are deferred to age 65—for those who survive.
+   Appreciating land enjoys further advantages due to its permanence.
+Comparing land with trees, land gets the better tax break because trees
+have to be cut and sold when ripe. Not so with land: it need never be
+sold, and if the owner has bought it for "expansion" in the future, he
+will have achieved a tax-free income when his need arrives. (He gets
+free something he would have paid for.) If the owner can hold on until
+death do the land and him part, his heir begins again with the higher basis,
+the tax being forgiven forever [311. If he sells his "residence"—or a
+large lot around his house which a complaisant I.R.S. accepts as such—he
+can defer the tax by reinvesting in another residence within one year of
+sale. If his land is condemned he can do the same. if he is 65 or over
+hemaybeabletoavoidthetaxunderanewlaw. Or if thelandisa
+"farm" he can barter it, tax-free, for a larger "like property" further out
+of town, letting the new owner with a higher basis subdivide the appre-
+ciated one." Or he can donate appreciated land to charity or education,
+writing off the appraised value without ever having paid a tax on the
+appreciation, and enjoy use of the land until death. All the local taxes and
+interest that he may pay during his wait are expensable even though they
+are properly viewed as part of the long-term investment itself and should
+
+   '1Latn growth of the fund at interest is not usually taxable until later, softening the
+contrast in treatment. Some pension fund contributions are not taxable even initially..
+There is great individual variation, much of it capricious. Contributions to the Wisconsin
+State Employees Betirement Fund, for one example, are taxable although not received.
+   '2Section 1031 of the Internal Revenue Code provides: 'No gain or loss shall be
+recognized if property held for productive use in trade or business or for investment (not
+including stock, etc.) is exchanged solely for property of a like kind to be held either
+for productive use in trade or business or for investment."
+   There is a good deal of "tailoring" of transactions to fit the letter. A prospective
+buyer of a suburban farm for cash may instead buy a rural farm (satisfactory to the
+prospective seller) and then swap farms with him. The rural land of like kind" Sght
+also be a golf course, airport, cemetery, quarry, dump, etc. A network of brokers' clubs
+has developed to arrange such bartering.
+414          The American Journd of Economics and Sociology
+
+be capitalized [8].       If he loses on a sale he can deduct the loss from
+ordinary income, often selecting the year of loss realization for his greatest
+convenience, lie can sell on the installment plan and pay taxes only as
+the installments come in. He can sell on a contingent price basis and
+count all payments as non-taxable capital recovery until he has recovered
+his full basis, and only then start paying taxes—another long deferral of
+liability.If overall losses pile up, he can delay realization until after
+merger with a proñt-making business. If the landowner is a church,
+school, charitable or fraternal or cemetery organization, its — may be
+exempt even though the same organizations would be taxed if they made
+money by rendering services. It is no straight narrow path that leads
+down to exemption, but a royal road, toll-free, posted and blazed all the
+way, with dergymen and educators for respectable companionship.43
+  A neutral income tax on increments to land value would take as its base
+the annual appreciation. In equilibrium the appreciation will just covet
+interest on the value at the beginning of the year (assuming, for simplicity,
+noothertaxesorothercarryingtosts). Here,justasinthetreecase,the
+neutral income tax base transforms the income tax into the property tax.
+IfSsitevalueinanyyear,theneutralincometaxbaseisS3.i. The
+property tax base is S. In this case i is not lowered by the tax—land
+supply being lixed, the tax is entirely absorbed by land in lower values of
+S0, following the traditional theory of land tax capitalization worked out
+by Jensen [19]. TM anticipation lowers S0—the early value base from
+which appreciation begins—by whatever amount may be necessary to let
+the holder earn 1 per cent while he holds it idle for appreciation.
+   A long-standing criticism of the property tax applied to suburban land
+that is rising in value is that use of capital value rather than current annual
+value as the base results in overtaxation of the land. The implicit assump-
+tion is that appreciation is not income and should be tax-free. The reason
+land sells for more than capitalized current income is the expectation of
+higher future income. This is not a static condition, but a journey between
+equilibria." Each year the higher future moves doser to the present, a
+blessing signalized by the value's rising at i per cent. That is an income.
+Once that be accepted, and the bias of deferred taxation be accepted, then
+itfoliows thatthecapitalvaluebaseis awayto taxthis income, audmore-
+
+    On these matters the writer has received valuable insig%ts from John Denton, Doug-
+las Kilbourn, Daniel K. Dixon, and Ben Muss, to .11 of whom he offers sincere thank
+An excellent treatment I. found in William Scolield's "Value and Competition for Land"
+(27].
+    "This helps explain the profusion's dilliculcy In coming to grips with the question.
+'e ban all been nursed on statics.
+                                                                                               I
+                 Tax-induced Slow Turnover of Capital, IV                             415
+
+over the best way, a neutral way. It may be done by use of either the
+property tax or the income In.
+  In the analogous tree case we had to qualify our conclusions drastically
+on considering shifting. Here the analogy ceases, for there is no shifting
+of the land tax. It does not lower the rate of return in the first place, but
+rather the cost of buying the asset on which the return is reckoned. The
+asset being fixed in supply, that ends the chain of reaction." There is no
+destruction of marginal supply, because the tax on marginal land is zero.
+There is no flight of tax base by emigration, by retarded turnover, or dis-
+saving.
+  These matters may be clarified by constructing a model of land which
+appreciates and at the same time yields ordinary income. We call it the
+"Perpetual Appreciation" or PA model.
+  Suppose a (piece of) land yields a yearly income above current costs
+thatgrowsbygpercenteachyear.'° Lettheincomeattheendofthe
+initial year be 1. The site value, S0, is the sum of the progression:
+
+(15)                                                                    (g<i)
+                        1+i          1+g 1+i—1—g 1—8
+                                      14-i
+  From (15) it follows that
+(ISa)        S0i—1+S.g
+That means that Si> 1. i is the yearly cash income. Therefore the
+income is too little to cover carrying costs and to warrant anyone's hold-
+ing the land, with or without taxes. Shall we then conclude that no one
+can afford to own this land at the alleged price
+   How can anyonebehave economically in this rising land market and add
+enough land to his holdings to equate marginal net yields with marginal
+carrying costs? Very simple: he counts the yearly increment as income
+in the year it accrues in the form of higher land priceP Anyone denying
+this must also deny that the land market works economically. The yearly
+deficit he must cover is S0i —1, which from (iSa) equals S0g. But S,g is
+
+    '50r it would, if truth were altogether that simple. Ye still must consider die prac-
+tical effect of lower land prices on the production of 'Vickseli's "rent-goods," or land dc-
+velopnient investments. Ye table that question for a few paragraphs. For the present,
+consider these investments to be skilfully deducted by die assessor in measuring the land
+value tax base which rises because of the approach of die city and publicly £nanced works
+exogenous to the owner.
+    4'For a thorough discussion of this case see Leon VeIns [40].
+     41The writer is indebted to Mr. Nicolaus 'fideman for introducing this concept.
+416        The American Journd o/ Economics and Sociology
+
+exactly the yearly appreciation of S0:
+
+(16)            S1—S0
+   Therefore the cost of carrying land each year at the-price-S is just cov-
+ered by the sum of net caAh income plus current appreciation. Thus, if
+traditional valuation theory is correct, investors put a value on appreciating
+land which treats current appreciation as current income. Why, then,
+should an income tax on it be deferred? No reason in the world unless
+we intend, as a matter of deliberate public policy, to give partial tax exemp-
+tion to landowners. For that is just what the present policy does when
+it defers taxation of capital gains until time of cash sale.
+    In this case, as in all previous cases analyzed, an intertemporally neutral
+tax is one that taxes a constant percentage of current income, and current
+income is a constant percentage of capital value.
+    We emphasize that the PA model dears away an alleged practical diffi-
+culty of induding asset accretion in current income. Henry Simons, Wil-
+liam Vickrey, and Irving Fisher all saw the intertémporal neutrality of the
+accrued basis. They hesitated before the practical problem of appraising
+property each year to tax the increment. The 1961 Joint Economic Com-
+mittee added a jaundiced caveat [43, 69], as did Lawrence Seltzer [28, 40].
+    What we have just shown, however, is that the property tax that takes
+a percentage of capital value aulomatically taxes increments. No further
+increment tax is needed. So what we propose is not an innovation with no
+practical possibilities, but a strengthening and extension of the property
+tax on capital value, which we have always had. Be it further noted that
+it is quite inconsistent to claim that alleged practical difficulties prevent
+annual tax recognition of positive appredation in a system that has devised
+several ways to allow negative appreciation annually.
+  A third general way for landowners to receive a lower tax rate is to
+select time patterns of land use that sacrifice smaller early rents for larger
+late rents. This is a form of investment, on the whole a legitimate one.
+Like all investments, these may enjoy some tax abatement by deferral of
+realization. The cost is the early foregone rent, the payout is the later
+premium rent Not all land offers opportunity for this maneuver. There
+must be some intertemporal interdependence of rents. Examples are:
+starting new orchards (which require 5—10 barren early land-years as an
+input); forestry, deferral of mineral extraction (the L. C. Gray example
+with which we opened our Introduction); deferring site renewal in transi-
+tional land-use areas awaiting greater "ripeness" or certainty."
+   '°Another example is writing long term ground leases wherein early rents are low
+                                                                   I                         ____
+
+
+                 Tax-Induced Slow Turnover of Capital, IV                           417
+
+   The cost is not explicit, but is still as good as expensable since no tax
+is due on the foregone rent that would otherwise have been taxable cash
+income. That is, the effect is the same as though the early rent were re-
+ceived in cash and then reinvested and expensed. A good term for this
+is "implicit expensing." It is not reserved to landowners. The student
+who foregoes present income to devote his time to an education for en-
+hanced future income is implicitly expensing the investment of his time
+as well. But land is a convenient vehicle for a great deal of this kind of
+thing, more so than other assets, because of its infinite life. Expensing,
+as we have seen, is tantamount to complete tax exemption. That is not
+to say that the entire land rent achieves exemption, but the gain from
+deferral does.
+   Inthiscasethatisnotnecessarilyabadthing. Itmeansthatataxon
+land income, taken by itself, is intertemporally neutral.
+   Let us take a point-input point-output case on good land, where the
+investment has to grow fast enough to yield a rent (or a market return on
+the site value) as well as interest on the initial non-land costs, There
+is a periodic surplus of gross income over compounded C0, which surplus
+wecalitheperiodicrent,A. mistheyearof maturity, andAisthe
+periodic equivalent of a, the annuity rent. Am and a are related by a stan-
+dard tabulated financial formula:
+
+(17)
+At the interest rate i the investor is indifferent between the yearly rent and
+a periodic rent, Am.
+   Intheabsenceofanydisturbancetoi,ataxonA.isequivalenttoatax
+on a, and leaves the indifference unchanged. That is:
+
+(17a)                 a(1—t) eAm(1t) (1+i)a_1
+reduces to (17) because the factor (1- t) cancels. The tax on rent does
+not itself disturb i, and so long as nothing else does either, the tax is neu-
+tral. The reason the tax does not change i is that it is fully absorbed into
+
+and later ones high. Thismightscemtobeoffsetbyanequalandoppositetaxdisad-
+vantage to die lessee, but on the other hand it is a means of extending him credit at a
+time when be needs a lot and it reduces his cost deduction during early years of high
+write-off, so it often suits nicely to mxmfre blat (after-tn) beneSts of lessor and
+lea One also has the option of selling for capital — just before the higher rent
+takes effect.
+    Another device is to allow lower rent in consideration for the lessen leaving a good
+building at lease-end, which the fe-holder acquires tax free (taxable as a capital gain if
+he should ever sell) (H, 1N6—fl].
+418        The American Journal of Economics and Sociology
+
+lower site values, S. One continues to earn a market return on the re-
+duced base. There is no loss of marginal production, and hence no shift-
+iag, because on marginal land the tax base is zero.
+  Why is the taxpayer indifferent between an earlier and a later tax in
+this case? Because the dater tax is higher. Am, the later tax base, is
+            in
+greater than Za21, the earlier tax base. (17) is derived by compounding
+              1
+                                        in
+eacha forward to year m, so AmnIa,i(1+i)m. The excess of Am
+                                        1
+      in
+over Xa0 is compound interest On the earlier payments foregone. Am is a
+     1
+sinking fund which grows each year by the current payment plus interest
+on accrued payments. So the tax liability deferred each year grows at com-
+pound interest, and the taxpayer does not abate the tax by deferring rnlin.
+tion.
+   It might seem now that the tax on deferred land income is also a tax on
+the interest earned by deferral of use. But it definitely is not so, and it is
+important to understand why not, both to clarify the present point and for
+all analysis of the fascinating relationships of rent and interest So far in
+this paper we have skirted the second matter, which is, however, central
+to any analysis of tax shifting.
+   Consider one year's rent, a1, due at the end of year zero. Suppose the
+landowner defers it. He is plowing it back into his land-use plan. At the
+end of yearmberealizesitatcompound interest,anditisworth a (1+i)".
+  The tax on it, T, also grows at compound interest. Had it been taxed
+at the end of year zero, T1 — t'a2; being taxed at the end of year m, Tm —
+ta1 (1 +i)m, so TmttTi (1 +i).
+  But if we were taxing interest, Tm would have to be greater than
+T2 (l+i)m,tocutintoi. WhenTeTj(ii)mwearelettingtheIand
+owner earn the gross-of-tax rate return on his investment in deferral of
+land rent We just aren't letting him earn any more than that. But we
+are not taxing interest.
+  This explains the L. C. Gray example of minerals conservation with
+which we opened our Introduction. The miner who defers extraction is
+foregoing, and thereby investing, current rent to gain enhanced future
+rent. A tax on the pure rent income is intertemporally neutral because
+the after-tax rent grows over time at the same percentage as the full rent"
+   "For modem treatmenti of Gray's principle s Orris Herfindahl, "Depletion and
+Economic Theory" (17]; and William Vickrey, 'ECOnOIIIIC Criteria for Optimum Rita
+                                               .1                     ••__
+
+
+
+                Tax-Induced Slow Turnover of Capital, IV                       419
+
+  So the part of the income tax that falls on land rent is intertemporally
+neutral. But let there be a tax on interest, so r < i, and there is a pre-
+mium on deferring realization of land rents, just as there is on other de-
+ferrals of tax liability. Any deferral that yields at the rate i now yields the
+investor more than r, the after-tax yield on alternative investments. So
+landowners alter their use plans toward the ftbre until they reach a new
+equilibrium.
+  Referring back to equation (17) since a Am           ___
+                                                        (1 + i)m —1
+                                                                        then
+
+
+
+a<Am(l)ml. It now requires a higher annuity, a', to be as at-
+tractive to taxpayers as A,, and lower and later deferred rents that were
+submarginal now become interesting for landowners.
+   A good way to perceive this, a way that is equivalent to the use of
+calculus, is to think of how to maximize a when Am is a positive function
+ofm. areachesitsmaximumintheyearwhenthepercentageincreaseof
+numerator and denominator in (17) are equal, which could be phrased
+"when the elasticity of the ratio equals one." The percentage increase of
+the denominator is positively related to i or r, whichever is used; and for
+large values of rn becomes virtually equal to i or r. The year when unit
+elasticity is reached wing i, the elasticity using r is still greater than one, be-
+cause r < i. So at the after-tax rate, r, the taxpayer maximizes a by
+choosing longer cycles. In general, all later rents gain lustre relative to
+earlier ones, so all land-use plans are re-timed towards the future.
+  The lowering of r below i lightens the tax burden on the landowner
+who defers rent in three ways:
+   Amconvertstoahigherannuityatrthanati. (Amremainsthesame
+by the assumption of no tax shifting.)
+— the annuity value rises as Am is deferred to (m + x) in response to the
+lower rate of return.
+— the annuity is capitalized into land value at r instead of i. Since
+r=i(1—t), and the annuity falls by less than the factor (1—t) due to
+deferral of Am to (m + x), the capital value of land will actually rise—a
+little capital gain on top of everything else!
+   But what if the tax on capital is shifted, so that raib (recall that b
+the base rate of return in the absence of taxes)? In general the shifting
+will be to land, if the tax jurisdiction is small, because then wage rates,
+
+of Depletion" (39]. Both appear in Mason Gaffney (editor) Extractive Resources eisd
+Taxation (14]. The editor in his Conclusion then seeks to expand the principle to ac-
+count for durable investments in mining improvements.
+                                                                                                     )
+
+
+
+
+420        The American lourn4 o/ Economics and Sociology
+
+interest rates, material costs, and product prices are parameters exogenously
+set, and land may be treated as the residual claimant in the simple old
+manner of classical theory. Then the value A, the periodic land rent,
+becomes smaller by the anount necessary to absorb the tax; and site value,
+5, drops in the sante propdrtion.
+   But this drop in land rent tends to retard the maturity of investments
+on the land. Timbei, for example, is finandally mature when its yearly
+growth increment, g', is no longer enough to cover interest on the sum of                     I. -
+
+its salvage or stumpage value, g, plus the site value, S. If site value is                    4-
+lower, and all other parameters remain the same, harvest comes later.5°
+As a secondary effect, this will somewhat abate the drop of site value, re-
+flecting the value of tax avoidance.
+   The essence of the matter may be grasped from the equation relating                        -1
+rate of return to site value. If we require a tree to yield a return on the
+land it uses, as well as the depreciable costs, the return is defined by equa-
+tion (18).
+(18)
+                          (1+i)m_1
+  After a tax, fully shifted to S:
+(19)                      (1+i)m_+m0)
+It requires a lower value of S to satisfy (19) than (18), so the marginal
+rowth of R., that was just enough to pay the carrying costs on R, and S
+is now superabundant, and enough to carry the tree a few years longer.
+                                                                                              1
+   Another, but equivalent, approach is to solve for S and maximize it:
+
+  9aj                     s Rm_t(Rmc)_c(1+i)m
+                                          (1 ÷i)m_1
+Deducting taxes from the numerator increases its percentage growth rate
+and defers the date of m at which s is maximized.
+  So a tax on interest income, whether or not shifted, tends to favor time-
+patterns of land use that emphasize future over present realization of tax-
+able rent income. The present paper only scratches the surface of the
+relationships between interest income and rent. We regard this as of
+first priority for extended treatment in a sequel. But to hold the present
+paper within bounds, we dose the matter here.
+   A fourth way that land achieves tax exemption is by its dose associa-
+tion with the production of Wicksell's "rent-goods," perdurable invest-
+   ° This is based on the Faustmann formula of classical forestry economics. For an       -   -:
+extended treatment of this point sa M. Gaffney, Cencefrts of Fiwicid Maturity of Timber
+(13].
+
+
+
+
+                                                                                              4
+                                                                                               1
+———,— ——                             -    —. ..——.       ..   . ...   .     -   .. '.—        .   -_,   ——. —.— p..—.
+
+
+
+
+                          Tax-Induced Slow Turnover of Capital, IV                   421
+
+       nients in laud development which take on some of the character of land
+       itself, and whose life span is so long that for most practical purposes they
+       may be treated as permanent These include cuts and fills, some kinds of
+       grading draining, damming, etc. Professor Martin Bailey has taken fills
+       in shallow water to represent the genus, and we borrow his example [2].
+          To begin, these investments produce land substitutes. Anything that
+       raises the price of land tends to divert investment into land substitutes.
+       The first three biases above tend to raise land prices and thus to stimulate
+           the production of these land substitutes.
+              Any permanent fill whose cost may be written off, however slowly, finally
+           achieves complete exemption from income tax, following the reasoning
+           already expounded. Thus the after-tax yearly rate of return, r, for fill-type
+           investments is made higher than for shorter ones yielding the same pretax
+           rate of return, i. "Grading' is part of the land investment and non-de-
+           preciable, but many other investments of this type may be written off quite
+           legally. Those that are not depreciated are prorated among the lots and
+           written off as lots are sold—a sort of depletion allowance for land devel-
+           opers—so that land development firms often snake their taxable profit
+           entirely on the last few lots sold, deferring taxes to the very end of the sales
+           operation. This kind of tax advantage is hard to come by in enterprises
+           that produce in an endless stream.
+              But all that is disequilibrating and leads to shifting. The premium
+           on fill returns draws investors into fills until the v's are equalized on all
+           investments. The beneficiary of shifting is then the owner of land under
+           shallow water. The price of such land, whose supply is limited and in-
+           elastic, rises to absorb the premium on fill returns.
+              Some of the premium might conceivably be shifted forward to land
+           users in lower rents and sale prices. However, filled land is not a dif-
+           ferentiated commodity but a perfect substitute for naturally city land, so
+           the shifting forward, if any, is trifling compared to the shifting backward
+            (in this case "downward!") to the owners of sites under shallow water,
+           which are scarce and differentiated. The capital frozen in fill-type invest-
+           ments is permanently preempted from alternative uses on superior land,
+            some of which land is thus withdrawn from use. The net result prob-
+           ably is to reduce the effective land supply.
+             Sometimes the "fill" is financed not by landowners as individuals but
+           by landowners collectively, organized in that syndicate of landowners
+           known as municipal government. Now we are speaking of "public"
+           works. This subsidy takes the form of the exemption of municipal bonds
+           from federal income tax, so landowners can sell them for a better price and
+422         The Amnkan Journal of Economics and Sociology
+
+plan more long-lived investments, coupled with the deductibility of local
+taxes by which landowners pay off these bonds—a double subsidy when
+one considers that bond service indudes repayment of principal faster than
+the works depreciate.5t If the works are federal, there are no increased
+local taxes at all, and the longevity of investments is calculated at interest
+rates far below the market, sometimes zero. This advantage goes into
+enhancing land values.
+  This gives us an insight into shifting that applies over the whole range
+of topics we have covered. The specific beneficiary of the premium on
+longevity is the owner of those lands which are better suited to long in-
+vestments. The specific sufferer is the owner of land on which short
+investments are better. That is as far as partial analysis can take us. The
+wider effects are those of retarding the turnover and replacement of a
+nation's capital, which shifts the whole burden from property to labor,
+following WickseWs analysis. To Wicksell we add that slowing replace-
+ment also means piling up limited capital on fewer sites which are cleared
+and renewed less often, enhancing the bargaining position of land relative
+to labor. The ultimate victim is in general labor.
+   A fifth means by which land benefits from tax bias is through that per-
+vading institution, the rule of prescription. Submarginal land, whose
+tenure is often uncertain, is subject to capture by virtue of occupancy and
+use. No one would use submarginal land, ideally. But people will use
+it if both (a) they expect it to become rentable in the future, and (b)
+present use establishes future ownership. The appropriative doctrine of
+water law in the 17 Western states is a splendid example of the rule of
+prescription.
+   The result is to cause investors to develop and use resources while they
+are still submarginal. They suffer early losses, many of them in the guise
+of expensable current cos% in order to establish their history of use. The
+payoff on this investment is the effective ownership of the resource in the
+future, when it will bear rent.
+   Our income tax system, with its bias to longevity puts a special premium
+on this kind of land acquisition. The 'purchase price" of land—the early
+
+    BI Who else gets to deduct repayment of principal at all?
+    520n might think that these subsidies to land development would in the aggregate
+result in more land development, eventuating in an artificial abundance of land, shifting
+the tax burden to landowners in lower rents. But that would be to assume a limitless
+supply of capital. In fact, the more capital we sink into developing submarginal land, the
+less remains to improve and fructify naturally superior land, and to complement labor in
+enterprises where capital cycles faster. In a nutshell, capital complements labor by turning
+over, which requires labor, and complements land by standing still, which requires land,
+so slow turnover favors land over labor. Cf.      footnotes 5, 20.
+                Tax-Induced Slow Turnover of Capital, 1V                423
+
+losses—is fully deductible, much of it immediately as current expense.
+The payoff—the ownership of title to the appreciated resource—is not tax-
+able at all unless or until sold. Thus the premature use of submarginal
+resources, which would be uneconomical enough in the absence of any
+taxes, receives an added stimulus from the income tax.
+ This kind of investment motivation, even in its pure form, is much
+more widespread than one would guess from the silence it has evoked.
+Minerals exploration, acquisition of television frequencies (often with pre-
+clusive or preemptive overtones), and premature extension of utility lines
+to capture developing territory are obvious examples.
+   But when we extend the concept a bit, the generality of it beomes re-
+markable. Wicksell once noted that:                of the local character of
+the firm and its market,".. . "the large enterprise has an actual monopoly
+simply because it comes first on the scene, and this monopoly may be as
+good as a monopoly which is legally established." Competition by a sec-
+ond firm "would only lead to the ruin of both." [41, 131].
+   Now look at retailers jockeying for position around every growing city,
+to appreciate the man's prescience. Where there is only room for one
+storeofakindnanarea,tobethereflrstistowinasortoffranchiseor
+prescriptive right to the territory.
+   There is also the zoning matter. The more offensive a land use is to
+its neighbor; the more important for the firm to establish the use early
+and establish a history of noise, air pollution, heavy traffic, garish signs,
+apartments, or whatever, long before a municipality begins zoning. Thus
+submarginal gasoline stations, for example, sprout up at every crossroads
+in suburbia and exurbia in one of the greatest urban land speculations in
+history by the largest corporations in the world, the international major oil
+companies. The early losses are expensable, the future preferential zoning
+is tax-free. Land is the vehicle by which the gains are secured, and the
+income tax is the supercharger on the motor.
+   Once one sees the pattern, the examples are legion, and every reader
+can supply his own. "Possession is nine points of the law," "grandfather
+clause," "vested interest," "sooner," "racing for position," "right of cus-
+tomary usage," "rule of capture," "seniority," "adverse possession," "squat-
+ter's rights," "historical base period," "residence requirement," "proving a
+claim," "finders keepers," "old-law tenements," "prior appropriation,"
+"prescriptive right," "captive market," "a defensive position," "goodwill,"
+"spheres of influence," 'franchise," "service area" are familiar phrases
+betraying the uneconomic favor that society has always granted to prior
+position. Under the income tax this favor has risen greatly in relative
+value.
+                                                             j.—...-....:.          —.—   ———... ——
+            -    —— — —.-——.-—.. __...,.'aPC4..
+
+
+
+
+424         The American Journal of Economics and Sociology
+
+  Summarizing, we find a market bias in favor of land, because of its
+longevity; because it does not turn over; because it may in fact be written
+off; because it appreciates; because its rent may be deferred; because it may
+be enhanced by invesbnent of the most durable kinds; and because it may
+be captured, and/or its value to the individual owner enhanced, by absorb-
+ing early losses.
+  This bias has implications for distribution, allocation, and macmao-
+nomics. Distributionally, the lower effective rate on land means higher
+rates are imposed on labor and capital. Allocationally, the high price of
+land motivates diversion of capital to land substitute; both private and
+public, whose longevity is extreme; and the favor given these investments
+adds to the motivation. Macroeconomically, much capital is destroyed
+by the losses taken to secure prescriptive rights to land, and that which
+remains has a replacement rate far slower than would be optimal.
+                              (Con/kited)
+Resources for the Future, Inc.
+Washington, 0. C. 20036
+
+
+           Children's Plight in Developing Countries
+"Evay HALF MINUTE, 100 children are born in developing countries.
+Twentyofthemwilldiewithintheyear. OfthesOwhosun'ive,6Owill
+have no access to modern medical care during their childhood. An —              H
+
+number will suffer from malnutrition during their crucial early years,
+with the possibility of irreversible physical and mental damage. Their
+chancesofdyingearlywillbe2oto4otiineshigherthanfftheylived
+in Europe or North America.
+   "Of those who live to school age, only a little more than half will ever
+setfoot in aclassroom, and less than 4 out of 10 of those who do will
+complete the elementary grades."
+  These few blunt facts might be called portents of the "State of the
+World for the Year 2000," for they are from a recent report of the UN
+Secretary-General, U Thant. He didn't have too add that todafs children
+are tomorrow's adults.
+   The United Nations Children's Fund is the agency of the UN family
+charged with special concern for the children of the world. UNICEF has
+just decided to try to double—within the next five years—the assistance               H
+
+it is now providing 112 developing countries to help their children. It
+has taken the Children's Fund 24 years to reach its present income level,
+yet its sense of uigency is so great that UNICEF hopes to do twice as
+much by 1975. [From the U.S. Committee for UNICEF.)
+                  —.-—    ———— —-                                                It
+
+
+
+
+        Tax-Induced Slow Turnover of Capital, V
+                            By MAsoN GAFFNEY
+
+                                      VI
+                                    Summnry
+To SUMMAPJZ€ the entire paper, we find that excise and income taxation
+in their present forms tend to bias investors to longevity. We divide
+assets into four classes: appreciating, constant-valued, depreciating, and
+land. We find a bias to longevity within each class. Among dasses, we
+find a bias for appreciating assets and land.
+   As a general policy we recommend that the income tax be modified so
+as to tax appreciation and deduct depreciation at the times when they
+accrue. We note that this modification makes the income tax, insofar as
+it falls on property income, much like the property tax. We note that the
+neutrality is impaired by shifting; and the only part of the income tax that
+may be made perfectly neutral is the part that falls on land income.
+  Our definition of income, if correct, opens a fascinating legal point.
+If the income tax, properly construed, is a property tax, then the 16th
+Amendment may authorize Congress to tax property free of the crippling
+rule of apportionment among states by population. The 16th Amendment
+authorizes taxation of tincomes £ mm whatever source derived." The
+realization doctrine is not in the Amendment, but rests on the shaky case
+of Eisner v. Macomber (1920) [12]. Harold Somers has compiled sew
+eral opinions suggesting the vulnerability of the doctrine. [32, 143—44].
+As economics, the decision. is dearly a primitive, nothing worthy of awe
+for its substance but only for the sheltered interests that would rally behind
+it.
+    The last 15 yeags may have witnessed a cyclical resurgence of the prop-
+erty tax, but the last 50 have seen a secular displacement of it by income
+and excise taxes. "Tax sharing" proposals keep nudging us along the
+same route. The result is a sloughing of ancient tax burdens from prop-
+erty to labor. To redress the balance it would help to give the income tax
+more of the character of a property tax.
+   The decision would be made by lawyers and judges. But they would
+solicit the professional advice of modern economists on modem economic
+concepts and definitions of income. What counsel would they receive?
+Resources for the Future, inc.
+Washington, D.C. 20036
+106      The American Journal of Economics and Sociology
+
+                               APPENDIX   I
+          By William Vickrey, }ttthew Gafthey, Jr.
+                        and Joseph Hoizinger*
+     Proof that effective after-tax rate of return rises with
+life of investment (point-input point-output case), ithen gain
+at maturity is subject to a tax at rate tE(o,           i).
+     Notation is the same as in the text, except that con—
+tinuous interest is used and r and I are used for the don-
+tinuous interest rates corresponding to the annual rates
+designated byr and I in the text.    This is done simply to
+facilitate recognition. i>O; m,'O.
+
+          rm =(1 - t)eim +        t   f(m)                            ci)
+
+          V(n) = (1 - t)ieim                                          (2)
+
+          rm=inf(rn)
+
+
+               (;ii2 lnf(m)=[% -lnf(m (3)
+      Since 2>O,       it suffices to show right hand factor of (3)
+is positive.
+
+           Let u       elm, then in ln U
+
+           Let s E 1       t
+                         t(m) = elm +          =   + s
+           From Ci),
+                                          1
+           lnf(m)=i.n(1-t)+ln(u+s)                                    (It)
+
+
+      Row the right hand faôtor of (3) is defined as:
+
+           6(u) =              - ln(1 - t) - ln(u + s)                (5)
+           g(l)=o•                                                           nj
+      If g' (u)> 0 for u=.1, then g(u)O for u.2. and..for nO.
+
+                   —   (u + s) [in u +    i] - u in u         u+s
+                                                                  1
+                                  (ui's)2
+               ltfl10 for u-]..                           .E,D.
+
+* Credits arc difficult to assign.   There s*s an earlier proof
+by 14. Consigny, superseded by Vickrey' s more direct proof. This
+Isas simplified by lttthew Gaffney, Jr., with advice fran Ralph
+Krause. A final simplifying substitution was contributed by-
+Joseph Hoizinger, and the present proof is his.
+              Tax-induced Slow Turnover of Ca/fl/al, V               107
+
+                          Affen&ix II
+           By William Viciwey and W.cheia Cbnsigny*
+Proof that an inco tax using true depreciation is inter-
+temporally nettral
+    let A(x) be a (continupus) cash or service stream bought
+for c(o), 0 being the tine of purchase aM x the time of pqnent,
+it being the date of mtwity or final paytent.     let P(x) be the
+present value at tine 0 of a pa&nent of $3. at tine x.       The
+
+instantaneous short term rate of interest at tine zis then
+h(x)=-. (Theannualrateofinterestisi=e'-l.)
+c(y), the value at tine y of the remaining payments from y to
+in, is then given by P(y).C(y) = rP(x).A(x) x.                     (1)
+      The depreciatian in capita]. value at tine y is then
+obtained from (i) by differentiating with respect to y:
+     P    +C      = - P(y).A(y), and by solving for the de-
+
+preciation,     we get D(y) = -    = A(y) +      = A - bC          (2)
+Now let, a tax be imposed at a rate t(y) dn the net intone
+after depreciation Y = A - D, so that the tax is
+t(y) LACY) - D(y)] and the net receipts alter tax are then
+N = A — t(A-D) = A - thc.    Then there exists a private           (2a)
+discount function R(y), such that for any asset with a
+stream of pqments A(y), the ciwrent value of the asset can
+be obtained eoyafly from discounting the grosspaynents A
+with the public discount function P, or the vet proceeds ic
+
+* Again, credit is hard to allocate precisely. Miss Consigny
+first formulated. the problem and. proved the theorem. Professor
+Viclwey great3y shortened and generalized, the proof and brought
+it to its present form. A third proof by 3tthev P. Gathfl,
+Jr., might equally 'weu have been presented.
+                                                                                        )
+108        The American Journal of Economics and Sociology
+
+  with the private discount function B:                             dy =   dy.
+
+  The private discount function B ifl be relateà to P and t by
+  the equation
+           ldR                                           laP
+                                                                                  (3)
+
+
+  ihere P, R, t, and h are an functions of y, h being the
+  public rate of discount and r being the private rate of
+  discount,      flo) = R(O) = 1.
+      We have (y) N(y) dy
+       =
+           0"R(y) [A(y) - t(y) h(y) C(y)J '13' [using (2a)}                      (it)
+       =
+           0B(y) [A(y) - t(y) h(y) y.r ft3 A(x) dx) dy,                          (5)
+
+  [using (])J
+       =    fl(y) A(y)       -       r'
+                                 yo x—y
+                                                        t(y) h(y) R(y)
+                                                             P(y)
+
+       P(x) A(x) dx '13'                                                          (6)
+
+  which becomes, by inverting the order of integration
+
+                                                        t (y) h(y) R(y)
+       =
+           f'(3') A(y) dy -      x=olJ    y=o.                P(y)
+
+
+       dy P(x) A(x) dx                                                           (7)
+  Prom (s), we have lit =
+                          idE + h -_ldB - laP                                    (6)
+  so that 3') h(y) R(y) dy =              dIR   -        ap = a1), so             (9)
+                  Py)
+  that (7) becones                              x
+                 A(y) '1 - J°m 1R(y).                    P(x) A(x) dx            (io)
+
+
+            x)
+                               )
+                   A(x) dx - Nx)
+       =                                            -
+                                                        1] P(x) A(x) &
+                             0'-
+
+       =                   -
+           or                            A(x) + P(x) A(x)) dx
+       =
+            f'p(x) A(x) dx = c(o).
+                                                          Q2.D.
+                     Tax4nduced Slow Turnover of Ca/il/al, V                          109
+
+      Errata: In "Tax.Induced Slow Turnover of Capital, II," p. 181, n. 14, the equation
+should read:
+                                   In (I—i)
+                                   m=
+                                           [l+i(I—t)
+                                               1+1
+                                           L
+On p. 187, line 18, for [shifting] "would push i up to a new level, i" read "would push
+4 up to a new level, i." And read in line 31"... the premium of short i over long
+          And read p. 188, line 15 ". . . the fact that i     " And read p. 195, line 29
+"Capital must now earn i               And   on p. 196 read line 6 ". . . to earn i before
+taxes." And read line 7 "at the higher rate of interest, i           And in iFik!., III, on
+p. 283, line 8, read a(l + i)' as a(l + i)1.
+
+                                     Bibliography
+1. Ackley, Gardner. Macroeconomic Theory. New York: The Macmillan Company,
+      1961.
+2. Bailey, Martin. National income and the Price Level. New York: McGraw-Hill Book
+      Co., 1962.
+3. Barlow, B., H. Brazer, and 5. Morgan. Economic Behavior of the Affluent. Wash-
+     ington: The Ikookings Institution, 1966.
+4. v. Bohm-Bawerk, F. Positive Theory of Capita!. Vol. 2 of Capital and Interest.
+     S. Holland, III.: Libertarian Press, 1959.
+5. Brems, H. Output, Employment, Capital, and Grow/b. New York: Harper & Bros.,
+     1959, chs. 18, 19.
+6. Brown, E. Cary, "Business-Income Taxation and Investment Incentives." In income,
+    Employment and Public Policy; Essays in Honor of Alvin II. Hanson. New York:
+      V. V. Norton & Co., Inc., 1948. Reprinted in B. A. Musgrave and Carl Shoup
+      (eds.), Readings in the Economics of Taxation. Homewood: RichardS D. Irwin, Inc.,
+      1959, ch. 32, pp. 521—37.
+7.            "The New Depreciation Policy under the Income Tax: An Economic An-
+    alysis." National Tax Journal, 8, pp. 81—98.
+8. Denton, John. "The Land Speculators." Frontier, August 1960, pp. 14-16.
+9. Domar, E. Essays in the Theory of Economic Growth. New York: Oxford Uni..
+      versity Press, 1917.
+10. Dorau, Herbert. integration of the Straight Line Accrual. Unpublished manuscript.
+11. Dorfman, B. "Waiting and the Period of Production." Quarterly Journal of Eco-
+      nomics, 73 (August 1959), pp. 351—72.
+12. Eisner v. Macomber (1920). 252 U.S. 189, 40 S. Ct. 189.
+13. Gaffney, Mason. Concepts of Financial Maturity of Timber. Raleigh: North Caro-
+      lina State College1 Department of Agricultural Economics Information Series No. 62,
+      1957.
+14.                (ed.) Extractive Resources and Taxation. Madison: University of Wis-
+      consin Press, 1967.
+15. Gray, L. C. "Rent under the Assumption of Exhaustibility." Quarterly Journal of
+      Economics, 28 (May 1914), pp. 464—89.
+16. Haig, Robert M. "Some Probable Effects of the Exemption of Improvements from
+    Taxation in die City of New York." Report to Commission on Taxation for the
+    City of New York, 1915.
+17. Herflndahl, Orris. "Depletion and Economic Theory." In M. Gaffney, (S.), Er-
+      tractive Resources and Taxation. Madison: University of Wisconsin Press, 1967.
+                                                                                           )
+
+110           The American Journal of Economics and Sociology
+
+18. Hotelling, Harold. "Economics of Exhaustible Resources," Journal of Political Econ..
+     amy, 39 (April 1931),pp. 137—75.
+19. Jensen, Jens. The Property Tax in the United Stales. Chicago: University of Clii-
+      cago Press, 1931, ch. 3.
+20. McDonald, Stephen L. "The Effects of Severance vs. Property Taxes on Petroleum
+    Conservation." In 1965 Proceedings of the National Tax Association, pp. 320—27.
+21.         . "Percentage Depletion and the Allocation of Resources." National Tax
+      Journal, 14- (December 1961), pp. 323—36.
+22.            . "Percentage Depletion, Expensing of Intangibles and Petroleum Conser-
+      vation." In M. Gaffney (ed.), Extractive Resources and Taxation. Madison: 1.lni—
+      versity of Wisconsin Press, 1967.
+23. Musgrave, R. A. Theory of Public Finance. New York: McGraw-Hill Book Co.,
+      1959.
+24. Oppenheimer, H. L. Cowboy Arithmetic. Danville: The Interstate Publishers, 1961.
+25. Pechinan, Joseph A. Federal Tax Policy. Washington: Brookings Institution, 1966.
+26. R.icardo, David. Principles of Political Economy and Taxation. London: 1*17, cli.
+     10, "Taxes on Rent."                                                          4
+27. ScoCeld, William H. "Values and Competition for Land." 1963 Yearbook of Agri-
+      culture, pp. 64—72.
+28. Seltzer, Lawrence. The Nature and Tax Treatment of Capital Gains and Losses.
+      New York; National Bureau of Economic Research, 1951.
+29. Shoup, Carl. "Incidence of the Corporation Income Tax: Capital Structure and
+     Turnover Rates." In National Tax Journal, March 1948, Vol. I, No. 1. Reprinted
+     in K. A. Musgrave and Carl Shoup (eds.), Readings in the Economics of Taxation.
+     Homewood: Richard D. Irwin, Inc., ch. 20, pp. 322—29.
+30. Solomon, Ezra. "Return on Investment: The Relation of Book Yield to True Yield."
+     In Research In Accounting Measurement, American Accounting Association, Col-
+      lected Papers, 1966.
+31. Somers, Harold. Capital Gains, Death and Gift Taxation. California State Legisla-
+      ture (Assembly), 196%.
+32.            . "Taxation of Capital Gains at Death." In Paul itleinsorge (ed.), Pub-
+      lic Finance and Welfare: Essays in Honor of C. Ward Macy. Eugene: University
+      of Oregon Books, 1966, pp. *36—55.
+33. Stern, Philip. The Great Treasury Raid. New York: Random House, 1962.
+34. StOCkfiSCh, J. A. "The Capitalization, Allocation, and Investment Effects of Asset
+     Taxation." Southern Economic Journal, 22 (January 1956), pp. 3 17—29.
+35.           . "Investment Incentive, Taxation and Accelerated Depreciation." fbi?,
+     24 (July 1957), pp. 2*.-40.
+36. Styche, Leonard G., and Associates, Inc., Don M. Hisata and Associates, Architects.
+     Red Estate Base: The City of Shaker Heights, Ohio, Report to the City Council,
+      1967.
+37. Terborgh, C. Bogey of Economic Maturily. Chicago: Machinery & Allied Products
+    Institute, 1945, cli. 7.
+38. Vickrcy, William S. Agenda for Progressive Taxation. New York: The Ronald
+      Press Co., 1947.
+39.            . "Economic Criteria for Optimum Rates of Depletion." In Iii. Gaffney
+      (ci), Extractive Resources and Taxation. Madison: University of Wisconsin Press,
+      197.
+                 Tax-induced Slow Turnover of Capital, V                        111
+
+40. Walras, Lion. Etudes d'ECOSOInIC Soci1e (Thiork Ic Ia Repartition 4 Ia Richesse
+    Soclale). 2nd Ed. Lausanne: F. Rouge cc Ce., S. A., 1936. Book 3, "The Mathe-
+    maücal Theory of the Price of Land and of its Redemption by the State," u. by
+    M. Gaffney, to be published as a chapter in forthcoming Readings in the Theory oj
+    Land Value Taxation.
+41. WickseU, K. Lectures on Political &onomy. Vol. 1 (E. Classen, tr.). New York:
+    The Macmillan Co., 1938.
+42. 'WiCkSCII, K. Value, Capital, and Rent, (S. H. Frowein, tr.). New York: Rinehart
+     & Co., 1954.
+43. The Federal Revenue System: Facts and Problems 1961. Joint Economic Committee.
+     87th Cong., 1st Session, 1961.
+
+
+
+
+                The Quality of Existence on Welfare
+The Diary of A. N.: The Story of the House on West 104th Street.
+    By Julius Horwitz. New York: Coward—McCann, Inc., 1970, 220
+    pp., $5.95.
+JULIUs HORW1TZ SPENT eight years as a welfare caseworker and as
+consultant to the majority leader of the New York State Senate on prob-
+lems of social welfare. Out of his intimate knowledge of the life a-
+periences of welfare clients, out of his experience with the working and
+malfunctioning of the welfare system, and out of piles of case notes and
+records of interviews with hundreds of children, black and whit; second
+or third generation wards of the system, he has written this sociological
+novel which deserves a place beside the works of Victor Hugo and Upton
+Sinclair.
+   The book, presented as the diary of a 15-year-old black girl setting
+down her experiences and observations, is a savage attack on a welfare
+system which, instead of providing equal opportunity, offers its bene-
+ficiaries just enough of a dole to keep them alive in a life style of con-
+tinuing degradation. The book lets the facts of life on Manhattan's
+upper West Side make their own argument. This contributes to its
+powerful impact.
+  At the end A. N. gets caught up in one of the anti-poverty programs
+intended to break the cycle of dependency. Will she make it? The
+social scientist-turned-novelist so successfully involves the reader by the
+artifices of the story teller that the reader hopes so.
+   Julius Horwitz's previous book, The W.AS.P., was pronounced "the
+best American novel published in England in 1968." Surely the present
+one will win accolades, not only from general readers but from social
+

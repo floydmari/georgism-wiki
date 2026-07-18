@@ -206,7 +206,14 @@ and proved the theorem. Professor Vickrey greatly shortened and generalized the
 proof and brought it to its present form. A third proof by Matthew P. Gaffney,
 Jr., might equally well have been presented" — so the joint Vickrey/Consigny
 credit is accurate, and the proof sits within Gaffney's own AJES article rather
-than a separate Vickrey–Consigny paper.[6][7] The unsigned Appendix K,
+than a separate Vickrey–Consigny paper.[6][7] **Follow-on (2026-07-18):** the full
+five-part series is now read and mined on its own dedicated page,
+[Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/),
+which also covers a second, previously uncited proof from the same series —
+Appendix I, credited to Vickrey, Matthew Gaffney Jr., and Joseph Holzinger, proving
+the after-tax return on an investment rises with its life — and the series' verbal
+derivation of the neutral-depreciation theorem that Appendix II proves formally.
+The unsigned Appendix K,
 "Financial Characteristics of Energy Firms Operating in Alaska," compiles Fortune
 500 data showing large integrated energy firms are markedly less labor-intensive
 than either smaller energy firms or large non-energy industrials (net worth per
@@ -377,6 +384,7 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/) — the distribution-side claim this report predates
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the later essay documenting the same ad valorem/in-situ property-tax design in California, and its loss to Proposition 13
+- [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/) — the source of Appendix J's reprinted Vickrey/Consigny neutral-depreciation proof, now read and mined in full
 - [Alaska](/wiki/alaska/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 - [Resource Rents](/wiki/resource-rents/)

@@ -1772,3 +1772,47 @@ districts said only "a subsequent amendment"), flagged as Gaffney's account
 not legislatively cross-checked. Gaffney's own "(data needed)" sub-theses
 excluded. Registry +2; triage ranked list: #1-#6 ALL STRUCK; only the unranked
 minor bundle remains. Inventory regenerated. 887 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: I11 capital-theory-cluster follow-on (READ&MINE, resolves prior wave's "declined-as-tangential" flag)
+
+I11 "Tax-Induced Slow Turnover of Capital" (5-part *AJES* series, 1970-71) —
+declined-as-tangential in the I-series wave, then surfaced twice more today (I1's
+footnote-40 precursor; the series whose Part V appendix is the Vickrey/Consigny
+proof already pinned on the Alaska page) — read in full this wave (all five parts,
+obtained as Gaffney's own unabridged posted text, already OCR'd this session at
+/tmp/ilnoz_txt/, ~2725 lines). Verdict: **genuine derivational hub, not
+tangential** — strict delta against the four named anchor pages found original
+content the wiki previously touched only at second hand: (1) Part II derives that
+universal capital-expensing converts a corporate income tax into a de facto land-
+rent tax — a 1970 formal precursor to the ATCOR mechanism, 24 years before the
+wiki's next-earliest dated statement (1994's "negative shifting"); (2) Part IV
+applies the 1957 Financial-Maturity-of-Timber Faustmann condition, for the first
+time in Gaffney's corpus, to how a tax-driven fall in site value delays optimal
+harvest timing — the missing derivational middle term between the 1957 monograph
+and the 1976 Full-Employment K·T=F macro model; (3) Appendix I (Vickrey/Matthew
+Gaffney Jr./Holzinger — "after-tax return rises with investment life") is a
+second, previously-uncited proof distinct from the Appendix II proof already
+reprinted on the Alaska page; (4) the body-text verbal derivation of the neutral-
+depreciation theorem (Parts III-IV) was itself new to the wiki, which had only the
+Alaska page's formal Appendix II proof. Given a dedicated page,
+[research/gaffney-tax-induced-slow-turnover](/wiki/gaffney-tax-induced-slow-turnover/)
+(tier `core`). Deltas added to research/gaffney-full-employment-limited-land
+(Bears On + See Also), research/gaffney-financial-maturity-timber (Bears On + See
+Also), research/gaffney-alaska-oil-leasing (follow-on note pointing to the new
+page), concepts/atcor (precursor-dating paragraph), people/mason-gaffney (new
+works-list bullet); concepts/marginal-productivity's Wicksell material noted in
+prose only (K2008 remains the fuller Wicksell-specific citation). O11 ("Time,
+Taxes, Turnover" — the "technical rejoinder" companion) fetched and read for
+context per the triage's own characterization; confirmed as a priority/
+terminology dispute restating rather than extending I11, not separately mined.
+Theoretical (Type-C) throughout — kept out of every `supported_by` array, per the
+same discipline applied to I1's Appendix 3 result. Text mirrors saved to
+`sources/gaffney/text/I11-TaxInducedSlowTurnoverofCapital.CV.txt` and
+`sources/gaffney/text/O11Time_Taxes_Turnover.CV.txt`. Registry: I11's existing row
+updated (Wiki Page → new dedicated page, Scan Depth Light → Heavy, Tier
+supplementary → core, authors extended to credit Appendix I's Vickrey/M. Gaffney
+Jr./Holzinger); +1 new row for O11 (supplementary, Light). Triage file's I11/O11
+entries marked RESOLVED with cross-references. Single writer for
+sources/registry.csv this wave; wiki-inventory.csv intentionally not regenerated
+per instructions (a separate T3 annotation agent is concurrently active on
+non-Gaffney pages). `lint_wiki.py`: 0 errors.
