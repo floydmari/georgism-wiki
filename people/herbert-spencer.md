@@ -11,7 +11,8 @@ stub: false
 born: 1820
 died: 1903
 excerpt: "English philosopher whose early Social Statics (1851) argued that private property in land violates equal freedom — a position he later retracted, making him the central subject of Henry George's A Perplexed Philosopher (1892)."
-last_reviewed: 2026-07-07
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -30,11 +31,27 @@ Crucially, Spencer did *not* argue for confiscation or for equal physical subdiv
 
 Spencer's argument belongs to a natural-rights tradition of reasoning about land whose best-known earlier statement is [John Locke](/wiki/john-locke/)'s proviso that private appropriation is just only where "enough, and as good" is left in common for others — a tradition George drew on and extended.
 
+### George's own use of the passage in *Progress and Poverty* (1879)
+
+George did not merely cite Spencer's conclusion secondhand — he quoted the *Social Statics* remedy passage at length in [*Progress and Poverty*](/wiki/progress-and-poverty-full-text/) itself, Book VIII, ch. II ("How Equal Rights to the Land May Be Asserted and Secured"), as the immediate springboard for his own proposal. Introducing his plan to abolish private land titles and re-let land publicly, George wrote that the scheme "has (with the exception that he suggests compensation to the present holders of land — undoubtedly a careless concession which he upon reflection would reconsider) been indorsed by no less eminent a thinker than Herbert Spencer," and quoted directly:
+
+> "Such a doctrine is consistent with the highest state of civilization; may be carried out without involving a community of goods, and need cause no very serious revolution in existing arrangements. The change required would simply be a change of landlords. Separate ownership would merge into the joint-stock ownership of the public... Instead of paying his rent to the agent of Sir John or his Grace, he would pay it to an agent or deputy agent of the community... Clearly, therefore, on such a system, the earth might be enclosed, occupied and cultivated, in entire subordination to the law of equal freedom." (George 1879, Book VIII, ch. II, quoting *Social Statics*, Ch. IX, Sec. 8)
+
+George then distinguished his own remedy from Spencer's: rather than formally confiscating and re-letting all land through state machinery, "It is not necessary to confiscate land; it is only necessary to confiscate rent" — i.e., taxation of land values in place of Spencer's literal land nationalization. The single tax is thus presented in George's own text as a simpler, administratively lighter route to the same equal-rights end Spencer's early *Social Statics* had endorsed. (A-claim; direct quotation, verified verbatim against the repository's hosted full text.)
+
 ## The Reversal
 
 Spencer retreated from the *Social Statics* position over the following decades. The most direct evidence is textual: the chapter "The Right to the Use of the Earth" was omitted from the revised and abridged 1892 edition of *Social Statics*, and in *Justice* (1891) — Part IV of his *Principles of Ethics* — he appended a treatment of "The Land Question" that reworked his earlier view. There he held that although absolute equity does not permit private property in land, nationalising land *without* compensation to existing owners would be unjust (society having sanctioned private ownership), while nationalising it *with* compensation would "do no good" — a combination that removed land nationalisation as a practical programme.
 
 Spencer's own defence was that his principles had never changed: he maintained that he still affirmed society's ultimate title to land and required only that improvements and acquired interests be respected. Critics — George foremost — read the shift in emphasis, and the quiet removal of the chapter, as a substantive retreat under the pressure of respectability and landed interest. Both readings are on the record, and the dispute over how to characterise the change remains genuinely contested (see below).
+
+Even before the 1891–92 reversal proper, George had already flagged an inconsistency in Spencer's *early* position. In *Progress and Poverty* Book VII, ch. III ("Claim of Land Owners to Compensation"), George noted that Spencer — having "so clearly demonstrated the invalidity of every title by which the exclusive possession of land is claimed" — nonetheless gave "countenance" to compensating existing landholders, calling the just estimation of their claims "one of the most intricate problems society will one day have to solve" (*Social Statics*, p. 142, as cited by George). George read this concession as already in tension with Spencer's own equal-rights premise, years ahead of the fuller retreat in *Justice*.
+
+A footnote George added in the 1897 Memorial Edition of *Progress and Poverty* — appended to that same Book VII, ch. III discussion — is itself a primary, contemporaneous account of the reversal's mechanics, corroborating the account above from George's own vantage point:
+
+> "At that time 'Social Statics' was repudiated, and a new edition under the name of 'Social Statics, abridged and revised,' has taken its place. From this, all that the first Social Statics had said in denial of property in land has been eliminated... Mr. Spencer has also been driven by the persistent heckling of the English single tax men... to bring out a small volume, entitled 'Mr. Herbert Spencer on the Land Question,' in which are reprinted in parallel columns Chapter IX of Social Statics, with what he considers valid answers to himself as given in 'Justice,' 1891... [it] constitutes, I think, the very funniest answer to himself ever made by a man who claimed to be a philosopher." (George, *Progress and Poverty*, Book VII, ch. III, footnote 50, 1897 Memorial Edition)
+
+George's footnote is also the primary source for the detail that the original *Social Statics* was published by D. Appleton & Co. "with his consent, from 1864 to 1892" before the abridged edition superseded it — dating the reversal's public, textual expression to that window. (A-claim; direct quotation, verified verbatim against the repository's hosted full text.)
 
 ## George's Critique in *A Perplexed Philosopher*
 
@@ -51,6 +68,7 @@ Spencer occupies a distinctive place in Georgist intellectual history: not as a 
 ## See Also
 
 - [The Right to the Use of the Earth (Spencer, 1851)](/wiki/social-statics-right-to-use-earth/) — the full text of *Social Statics* Ch. IX
+- [Progress and Poverty (full text)](/wiki/progress-and-poverty-full-text/) — where George quotes and engages Spencer's early land views directly, Book VII ch. III and Book VIII ch. II
 - [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) — Henry George's 1892 critique of Spencer's reversal
 - [Henry George](/wiki/henry-george/) — the Georgist thinker who engaged Spencer most extensively
 - [John Locke](/wiki/john-locke/) — the earlier natural-rights theorist whose proviso prefigures the equal-right-to-land argument
@@ -65,3 +83,4 @@ Spencer occupies a distinctive place in Georgist intellectual history: not as a 
 3. Henry George (1892), *A Perplexed Philosopher*. Full text via the Henry George Institute. [henrygeorge.org](https://www.henrygeorge.org/) — used for the book's status as a sustained critique of Spencer's reversal on land rights; Spencer is the central subject.
 4. [A Perplexed Philosopher](/wiki/a-perplexed-philosopher/) (wiki research page) — used for the summary of George's argument and his treatment of the reversal as a case study in intellectual accommodation.
 5. [Henry George](/wiki/henry-george/) (wiki people page) — used for biographical context on George and his relationship to Spencer's ideas.
+6. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book VII, ch. III ("Claim of Land Owners to Compensation") and Book VIII, ch. II ("How Equal Rights to the Land May Be Asserted and Secured") — used for George's own quotation and engagement with Spencer's *Social Statics* remedy (the "joint-stock ownership of the public" passage George builds his single-tax proposal against), George's early-flagged inconsistency over Spencer's compensation concession ("one of the most intricate problems..."), and the 1897 footnote's contemporaneous, primary-source account of the *Social Statics* abridgment and the "Mr. Herbert Spencer on the Land Question" pamphlet (all quotations verified verbatim against the repository's hosted full text). [Full hosted text](/wiki/progress-and-poverty-full-text/); [wiki summary](/wiki/progress-and-poverty/).

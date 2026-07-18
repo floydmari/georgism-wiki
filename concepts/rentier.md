@@ -4,7 +4,8 @@ category: concepts
 tags: [concepts, rentier, rentier-capitalism, economic-rent, keynes, hudson, mazzucato]
 stub: false
 excerpt: "A rentier is an economic actor whose income derives from ownership of scarce assets — historically land, extended by modern critics to finance, IP, and digital platforms — rather than from productive labor or enterprise."
-last_reviewed: 2026-07-10
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -20,6 +21,14 @@ In classical political economy, the rentier was closely associated with the **la
 **John Maynard Keynes** gave the concept one of its most famous formulations in Chapter 24 of *The General Theory of Employment, Interest and Money* (1936). Arguing that capital could be made abundant enough that its scarcity return would fall toward zero, he wrote that such a state of affairs "would mean the euthanasia of the rentier, and, consequently, the euthanasia of the cumulative oppressive power of the capitalist to exploit the scarcity-value of capital."[15] The analogy he drew is explicitly Ricardian: "Interest to-day rewards no genuine sacrifice, any more than does the rent of land. The owner of capital can obtain interest because capital is scarce, just as the owner of land can obtain rent because land is scarce."[15] He stressed the transition would be gradual — "the euthanasia of the rentier, of the functionless investor, will be nothing sudden … and will need no revolution."[15]
 
 Keynes's usage is significant because it reframed the rentier not merely as a landowner but as any recipient of income from capital ownership who performs no productive function — a broader category that prefigures the modern "rentier capitalism" literature.
+
+## A 19th-Century Antecedent: George on Monopoly Beyond Land
+
+The modern extension of "rentier" beyond land is often presented as a late-20th-century move, but George himself gestured at it in 1879. In *Progress and Poverty*, Book III, ch. IV ("Of Spurious Capital and of Profits Often Mistaken for Interest"), George distinguishes ordinary capital income from a second category he calls "the element of monopoly" — profits that resemble interest but are not, because they derive from an exclusive legal privilege rather than from capital's productive use. His illustration is the royal patent James I granted to Buckingham for gold and silver thread manufacture, which functioned as "in reality the power to levy a tax for his own purposes upon all the users of such thread"; he extends the same logic to patents and tariff-protected monopolies, and then to a form he judged "far more insidious and far more general" — the aggregation of capital under common control:
+
+> "In the aggregation of large masses of capital under a common control there is developed a new and essentially different power from that power of increase which is a general characteristic of capital and which gives rise to interest. While the latter is, so to speak, constructive in its nature, the power which, as aggregation proceeds, rises upon it is destructive." (Book III, ch. IV)
+
+George's period examples — a railroad company threatening to route two miles around a town "as a highwayman approaches his victim," trunk lines pooling earnings to fix rates, and a telegraph company (evidently Western Union) using its market power to "tamper with correspondence and crush out newspapers which offend it" — are Gilded Age instances of what he treats as *monopoly rent distinct from land rent*: income "not to be confounded with the legitimate returns of capital as an agent of production," attributable instead to "a maladjustment of forces in the legislative department of government" (Book III, ch. IV). This is the same conceptual move the modern rentier-capitalism literature makes — separating a productive return to capital from an extractive return to concentrated control — a full century before Hudson's FIRE-sector critique or Mazzucato's value-extraction framework, though George's target (railroad and telegraph monopolies, patent grants) is period-specific and his treatment is a page of illustrative argument, not an empirical measurement; it should be read as an early conceptual antecedent, not as evidence for any modern magnitude claim. (C-claim; George's own argument, attributed; quotations verified verbatim against the repository's hosted full text.)
 
 ## Modern Rentier-Capitalism Literature
 
@@ -66,6 +75,7 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 ## See Also
 
 - [Christophers (2020): Rentier Capitalism](/wiki/christophers-rentier-capitalism/) — book-length survey of seven UK rentier sectors (land, finance, IP, natural resources, contracts) applying the rentier concept across the whole economy
+- [Progress and Poverty (full text)](/wiki/progress-and-poverty-full-text/) — George's 1879 "spurious capital" chapter, the historical antecedent above
 - [Economic Rent](/wiki/economic-rent/)
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [FIRE Sector](/wiki/fire-sector/)
@@ -91,3 +101,4 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 13. "Objection: The Austrian Critique of LVT" — [wiki page](/wiki/lvt-austrian-critique/) — used for the challenge to the land/capital distinction that underpins the rentier/producer framing.
 14. "Rentier," *Online Etymology Dictionary*. [etymonline.com/word/rentier](https://www.etymonline.com/word/rentier) — used for the 1847 English borrowing from French *rentier* ("holder of rental properties or investments that pay income," from *rente*, "profit, income") and the definition "one who has a fixed income from investment" (fetched directly this session).
 15. John Maynard Keynes (1936), *The General Theory of Employment, Interest and Money*, Ch. 24, "Concluding Notes on the Social Philosophy towards which the General Theory might Lead," §II. [Full text (Project Gutenberg Australia)](https://gutenberg.net.au/ebooks03/0300071h/printall.html) — used for the verbatim "euthanasia of the rentier" passages, the interest/land-rent scarcity analogy, and the "nothing sudden … will need no revolution" characterisation of the transition (all quotations verified against the full text, fetched directly this session).
+16. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book III, ch. IV ("Of Spurious Capital and of Profits Often Mistaken for Interest") — used for the 1879 antecedent distinguishing monopoly-derived profit from ordinary capital income: the Buckingham gold-thread patent, and the railroad/telegraph concentrated-capital illustrations (C-claim; George's own argument, attributed; quotations verified verbatim against the repository's hosted full text). [Full hosted text](/wiki/progress-and-poverty-full-text/); see also [FIRE Sector](/wiki/fire-sector/), which covers this chapter's separate "spurious capital" (fictitious-capital) argument.
