@@ -1003,3 +1003,16 @@ Big honest genre sweep: 20 prose sources (biographies, pre-1931 texts, essay col
 no-chart; 12 in-copyright chart-bearing books blocked:book-scan → the Hermes lane;
 guettabi + martinez blocked on gated fetches. Queue 257 open, 3 re-embed placements left;
 22 pages carry figures.
+
+**Wave 10 (2026-07-18g):** pure triage/bookkeeping wave — no embeds survived the bar.
+Verified no-charts: goldsmith + brown-1927 (zero figures), bc-basic-income (recommendation
+report), schwerhoff-imf (charts reproduce Garbinti/Bricker data; headline analytical),
+brockmeyer (welfare comparison headline, RD plots are intermediates). Mirror-blocked:
+foldvary-cycle-synthesis, cunningham, mieszkowski, banzhaf-lavery, hilber-vermeulen,
+hartwick, andelson-lvt-around-the-world. Final 3 auto-placements REJECTED on anchor grounds
+(ownership-distribution and generational claims not carried by aggregate charts) — the
+re-embed placement list is now fully drained: every wired placement either embedded (7) or
+reasoned out (9, recorded in REJECTED_PLACEMENTS). Exit NOT declared: famous-chart papers
+remain untriaged below the queue's structural top (barkai, saez-zucman, davis-heathcote,
+world-bank-changing-wealth, mian-sufi-verner, borio, case-shiller) — wave 11 triages them
+by name, then reassesses exit.

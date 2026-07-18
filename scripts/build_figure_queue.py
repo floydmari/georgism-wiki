@@ -201,6 +201,13 @@ def main():
             "cycle history ≠ LVT-dampens-speculation claim (wave 9)",
         ("benefits/lvt-dampens-land-speculation.md", "dors-land-taxes-housing-prices"):
             "capitalization evidence ≠ speculation-dampening claim (wave 9)",
+        ("benefits/land-value-tax-can-be-progressive.md", "bonnet-land-is-back"):
+            "aggregate wealth ratios ≠ ownership-distribution claim (wave 10)",
+        ("benefits/land-value-tax-can-be-progressive.md", "rognlie-capital-share"):
+            "income-share decomposition ≠ ownership-distribution claim (wave 10)",
+        ("problems/young-locked-out-of-land-wealth.md",
+         "knoll-schularick-steger-house-prices"):
+            "land-price series is the premise, not the generational claim (wave 10)",
     }
 
     # re-embed placement candidates: evidence pages wired to figure-bearing entries
