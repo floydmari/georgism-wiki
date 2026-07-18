@@ -246,6 +246,7 @@ undermined by other policies (a wage tax), or subverted by assessment practice.
 ## See Also
 
 - [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — fuller workpaper-level detail on the Cleveland and Chicago cases, plus Detroit/Michigan (1890-2008) and Johannesburg/Cape Town, not covered by this survey
+- [San Francisco](/wiki/san-francisco/) — the city's own page, covering this 1906 rebuild episode alongside modern-day supply-constraint and land-value evidence
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/)
 - [New York City's 1921–1931 Tax Exemption for New Housing](/wiki/nyc-1920s-tax-exemption/) — the deeper, independently-sourced treatment of the flagship NYC episode

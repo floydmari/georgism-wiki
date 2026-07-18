@@ -173,6 +173,7 @@ those sources were not available to, or cited by, Gaffney in 2006.
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 - [Resource Rents](/wiki/resource-rents/)
 - [Gaffney (2006): New Life in Old Cities](/wiki/gaffney-new-life-in-old-cities/) — Gaffney's companion note on California's pre-Prop-13 land-value tax reliance (San Francisco, 72% statewide land share of the 1917 assessment roll)
+- [San Francisco](/wiki/san-francisco/) — cites this page for the parallel case of Prop 13 curtailing California land/resource-rent capture
 - [Mason Gaffney](/wiki/mason-gaffney/)
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the modern neutral-design instrument (Norway) that the net-proceeds approach anticipates
 - [Economic Rent](/wiki/economic-rent/)

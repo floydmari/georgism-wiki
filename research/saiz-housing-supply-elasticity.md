@@ -62,6 +62,7 @@ Saiz's paper supports the **land-scarcity mechanism** that motivates the Georgis
 ## See Also
 
 - [Glaeser & Gyourko (2018), The Economic Implications of Housing Supply](/wiki/glaeser-gyourko-housing-supply/)
+- [San Francisco](/wiki/san-francisco/) — the paper's ~0.66 elasticity estimate and inelastic-metro ranking, applied to San Francisco's own housing shortage
 
 - [Housing Constraints and Spatial Misallocation (Hsieh & Moretti 2019)](/wiki/hsieh-moretti-spatial-misallocation/)
 - [No Price Like Home: Global House Prices, 1870–2012 (Knoll, Schularick & Steger 2017)](/wiki/knoll-schularick-steger-house-prices/)

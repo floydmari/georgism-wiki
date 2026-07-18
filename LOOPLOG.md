@@ -1870,3 +1870,19 @@ SKIPPED with reasons: ryan-collins + patel (held material already fully cited �
 no padding), san-francisco (477w/49 inbound, time-boxed; Saiz/Albouy/Gaffney
 material identified for a future wave). Zero new external fetches; zero registry
 changes needed. 888 pages, lint 0 errors, warnings baseline-identical.
+
+## 2026-07-18 (cont.) — Wave: San Francisco expansion + loop-state checks
+
+places/san-francisco.md 477→~1,260 prose words, stub→false (49 inbound): Saiz
+supply-elasticity (~0.66, non-LVT-argument caveat kept), Albouy land-value
+standing (both papers, "should not be interpreted causally" kept), the 1906
+land-tax-financed rebuild as a surgical summary linking the Gaffney page (D-claim
+sequence-not-consequence caveat via link-out, plus WP020's corroborating line
+cited the same narrow way california-irrigation-districts already does), and a
+Prop-13 section explicitly flagged as the statewide mechanism applied to SF, not
+an SF-specific study. Bidirectional wiring across 7 held pages. STATE CHECKS:
+wiki-queue EMPTY (no arrivals since Cincinnati); all 3 blocked VERIFY rows
+rechecked once each and HONESTLY LEFT BLOCKED (WorldCat now 429s; archive.org
+JS-rendered listing unfetchable; WP041/042 still undated on the source site) —
+no marker changes on failure, per convention. Inventory regenerated (SF
+stub-flag change absorbed). 888 pages, lint 0 errors.

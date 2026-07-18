@@ -51,6 +51,7 @@ Proposition 13 helped touch off a wider tax-limitation wave; the best-known para
 ## See Also
 
 - [Cabral & Hoxby (2012): The Hated Property Tax](/wiki/cabral-hoxby-hated-property-tax/) — the empirical paper explaining property-tax unpopularity via salience, a mechanism underlying revolts like Proposition 13
+- [San Francisco](/wiki/san-francisco/) — Prop 13's ~1% rate cap and acquisition-value lock-in applied to a supply-constrained, high-land-value city
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Transitional Gains Trap](/wiki/transitional-gains-trap/)
 - [Tax Capitalization](/wiki/tax-capitalization/)

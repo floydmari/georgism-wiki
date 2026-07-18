@@ -60,6 +60,7 @@ The Wright Act's effect on farm size was real but partial, and did not eliminate
 - [Henry George](/wiki/henry-george/) — whose anti-monopoly writings shaped C. C. Wright's proposal
 - [Land Speculation](/wiki/land-speculation/) — the behaviour the improvements exemption discouraged
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) — the modern policy family the improvements exemption anticipates
+- [San Francisco](/wiki/san-francisco/) — cites this page's WP020 source for a briefer, independent corroboration of the 1906 earthquake land-tax rebuild episode
 
 ## Sources
 

@@ -78,6 +78,7 @@ The assigned second wiring, **land-rent-could-fund-government**, is **not suppor
 ## See Also
 
 - [David Albouy](/wiki/david-albouy/)
+- [San Francisco](/wiki/san-francisco/) — the paper's highest-ranked city by inferred land-rent differential and total value
 
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Henry George Theorem](/wiki/henry-george-theorem/)
