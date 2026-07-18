@@ -177,6 +177,7 @@ quantified natural experiments.
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the later, more formally developed version of this essay's severance-tax design critique
 - [Gaffney (1977): Oil and Gas Leasing Policy for Alaska](/wiki/gaffney-alaska-oil-leasing/) — Gaffney's contemporaneous resource-leasing design work for a different state, same year
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — concentrated absentee resource holding as a parallel institutional-failure mode, from that page's own cross-reference
 - [Land Value Tax](/wiki/land-value-tax/) · [Unearned Increment](/wiki/unearned-increment/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 

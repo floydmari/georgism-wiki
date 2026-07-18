@@ -205,6 +205,10 @@ argument, attributed.)
 - [Land Monopoly](/wiki/land-monopoly/)
 - [Gaffney (1973): Tax Reform to Release Land](/wiki/gaffney-tax-reform-release-land/)
 - [Gaffney (1972–73): Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/)
+- [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/)
+  — the immediate predecessor in the credit-access concentration lineage: this
+  essay's temporal (current-use vs. speculative-tail) decomposition is the
+  chronologically-latest formal statement of the same mechanism
 - [Gaffney (1993/2005): How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/)
 - [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/)
 - [Mason Gaffney](/wiki/mason-gaffney/)

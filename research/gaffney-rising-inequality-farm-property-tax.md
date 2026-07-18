@@ -163,6 +163,8 @@ open discovery item for a future wave.
 ## See Also
 
 - [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — the theoretical essay whose B-8/B-9 "strong hands" concentration mechanism this paper tests empirically
+- [Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — the earlier, general companion argument this paper's farmland Gini-ratio data corroborates
+- [Gaffney (1966): The Benefits of Farm Programs — Incidence, Shifting, and Dissipation](/wiki/gaffney-benefits-farm-programs/) — the wiki's other farmland-focused Gaffney study, a different policy lever (subsidy incidence vs. property tax)
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Land Monopoly](/wiki/land-monopoly/)
 - [Split-Rate Taxation](/wiki/split-rate-taxation/)

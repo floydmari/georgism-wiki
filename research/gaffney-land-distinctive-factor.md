@@ -244,6 +244,9 @@ read alongside the wiki's own honest-limits treatment of that dispute.
 
 - [Mason Gaffney](/wiki/mason-gaffney/) — the author
 - [The Neoclassical Stratagem](/wiki/gaffney-neoclassical-stratagem/) — Gaffney's companion argument on how land was purged from economic theory, on the political-history side
+- [Gaffney (1961): The Unwieldy Time-Dimension of Space](/wiki/gaffney-time-dimension-of-space/) — the 1961 theoretical essay whose credit-concentration mechanism feeds into this essay's B-8/B-9 argument
+- [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the earlier, more fully worked original of the credit-discrimination "strong hands" mechanism this essay restates in condensed form
+- [Gaffney (2013): Great Expectations — How Credit Markets Twist Land](/wiki/gaffney-great-expectations-bidding-power/) — the later, chronologically-latest formal statement of the same credit-access concentration mechanism, isolating credit access alone (no tax)
 - [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) — Gaffney's own quantitative test of the B-8/B-9 concentration claim
 - [Missemer & Pottier, Land, Labor, Capital](/wiki/missemer-pottier-land-labor-capital/) — the 2025 peer-reviewed reassessment of the merger's history
 - [Objection: "Land Is Just a Form of Capital"](/wiki/land-is-just-capital/)

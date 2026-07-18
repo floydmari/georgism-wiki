@@ -1995,3 +1995,72 @@ cross-tied. Reverse keyword sweep confirmed the rest of the corpus already
 well-wired. AXIS CLOSED for the cohort; surfaced remainder: gaffney-to-gaffney
 sibling wiring (water↔alaska, urban-land-rent↔synergistic-city etc.) — a
 distinct axis queued next. 888 pages, lint 0 errors, warnings baseline.
+
+## 2026-07-18 (cont. 2) — Wave: gaffney-to-gaffney sibling cross-references (final wiring axis)
+
+Mechanical sibling matrix across all 45 research/gaffney-*.md pages (grepped
+each page for every other slug) found 127 directed edges, 73 one-way. Judged
+each one-way edge against the pair's own stated relationship rather than
+forcing full reciprocity — most one-way citations are legitimate hub pointers
+(california-severance-tax, land-booms-destroy-capital, extractive-resources-
+taxation, noyes-income-stimulating-property-tax, atcor) that would only add
+noise if reciprocated. 25 links added across 13 files where a specific,
+already-articulated relationship was missing its return link: the water↔oil/
+mineral cluster (alaska-oil-leasing gained 4 backlinks incl. water-rent-
+taxation, closing the named example gap; california-severance-tax, mineral-
+leasing-tax-reform, montana-land-policy, capital-gains-free-enterprise, and
+financial-maturity-timber each gained one); the 1961→1972-73→1994→2013 credit-
+concentration lineage (time-dimension-of-space→urban-land-rent→land-
+distinctive-factor→great-expectations-bidding-power) now walkable in both
+directions at every link, land-distinctive-factor being the worst-wired node
+(3 missing links, none); the 1964 urban-sprawl root (containment-policies-
+urban-sprawl) gained backlinks from land-planning-property-tax and urban-land-
+rent; the farm-property-tax trio (property-tax-progressive, rising-inequality-
+farm-property-tax, benefits-farm-programs) closed; neoclassical-stratagem
+gained its first-ever See Also section (two backlinks from land-distinctive-
+factor and two-centuries-land-taxation, both of which named it as a companion
+without it naming them back). Verified urban-land-rent↔synergistic-city (the
+sweep's other named example) was already bidirectional — no action needed.
+Confirmed via re-grep matrix: all 22 targeted pairs now bidirectional. Skipped
+with reasons: extractive-resources-taxation and noyes reciprocating every
+citing case study (hub-page noise); tax-reform-release-land↔containment/
+synergistic-city (bare-link citations, no distinct textual relation, already
+2-hop reachable); peace-dividends-land-booms↔corporate-power-military/rent-
+seeking-global-conflict (no textual overlap — different mechanism, fiscal-
+cycle vs. active rent-capture-protection); land-planning-property-tax↔hidden-
+taxable-capacity (minor shared-dataset footnote, 2-hop reachable via
+philosophy-of-public-finance). The military pair (rent-seeking-global-conflict
+1988 ↔ corporate-power-military 2018) and the turnover-identity chain (tax-
+induced-slow-turnover 1970-71 → full-employment-limited-land 1976 → real-
+assets-model-china 2015) were both already fully wired going in — no changes
+needed. GAFFNEY WIRING AXIS CLOSED — this was the last surfaced axis from the
+reciprocal sweep; no further Gaffney cross-link gaps queued. 888 pages, lint 0
+errors, 50 warnings (unchanged from baseline).
+
+## 2026-07-18 (cont.) — Wave: sibling wiring — GAFFNEY WIRING FULLY CLOSED
+
+45-page matrix (127 directed edges): 25 links added across 13 files closing all
+22 genuinely-warranted pairs — oil/mineral cluster interconnected, credit-
+concentration lineage (1961→1972-73→1994→2013) and urban lineage (1964→1969→
+1972-73→1978→1988) now walkable both directions, farm-tax trio and history-of-
+thought companions tied; turnover lineage and military pair verified already
+wired. 5 skip classes documented (hub pages deliberately one-way; 2-hop-
+reachable footnote pairs; no-textual-overlap pairs). Post-edit re-grep confirms
+bidirectionality. NO further Gaffney cross-link gaps queued — the corpus lane
+and both its wiring axes are now fully closed. 888 pages, lint 0 errors.
+
+## 2026-07-18 — SESSION CAPSTONE (loop day complete)
+
+~29 waves closed this session. Pages 855→888 (+33), lint 0 errors throughout.
+LANES CLOSED TODAY: WS-TECH-RENTS (discovery a-d + gated T1 synthesis: grades
+table now 7 families with the Korinek-Lockwood cross-check); GAFFNEY CORPUS
+(190/190 files verdicted, ~40 works read in full, 6 priority corrections, both
+wiring axes closed); THIN-ARTICLE BURN-DOWN (5 tiers, 27 pages expanded, seam
+formally mined out); T3 ANNOTATIONS (debt paid — later cohorts verified
+compliant); TERMINOLOGY (canonical forms recorded in EDITORIAL); VERIFY channel
+at ground truth (13 deliberate / 3 blocked-documented / 8 resolved today);
+BACKLOG reconciled to truth. REMAINING WORK IS GATED ON FLOYD: Option 3 v2
+manifest review (on hold at his word); branch merge decision (~50 commits ahead);
+provenance attestation; Hermes port; book-copy-blocked verification rows; future
+wiki-queue arrivals (queue empty). Loop continues at maintenance cadence:
+check-ins watch for queue arrivals, Routine firings, and Floyd's return.

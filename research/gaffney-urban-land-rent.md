@@ -273,12 +273,19 @@ extrapolation, attributed rather than treated as demonstrated fact.
 ## See Also
 
 - [Mason Gaffney](/wiki/mason-gaffney/) — the author
+- [Gaffney (1961): The Unwieldy Time-Dimension of Space](/wiki/gaffney-time-dimension-of-space/)
+  — the earlier, less fully worked original statement of the
+  credit-discrimination "strong hands" mechanism this pair's Part II.A
+  restates
 - [Gaffney (1994): Land as a Distinctive Factor of
   Production](/wiki/gaffney-land-distinctive-factor/) — the later essay
   where the credit-discrimination mechanism (this pair's Part II.A)
   reappears in condensed form
 - [The Synergistic City](/wiki/gaffney-synergistic-city/) — Gaffney's 1978
   elaboration of this pair's third rent-source (synergism) alone
+- [Gaffney (1964): Containment Policies for Urban Sprawl](/wiki/gaffney-containment-policies-urban-sprawl/)
+  — the earlier statement of the credit-discrimination and logrolling sprawl
+  mechanisms this pair develops eight to nine years later
 - [Henry George Theorem](/wiki/henry-george-theorem/) · [Agglomeration
   Economies](/wiki/agglomeration-economies/) · [Economic
   Rent](/wiki/economic-rent/) · [Land Monopoly](/wiki/land-monopoly/)

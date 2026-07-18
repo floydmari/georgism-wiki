@@ -174,6 +174,7 @@ attributed.)
 - [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the later, more fully worked restatement of the same credit-concentration mechanism
 - [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) — the flagship theoretical essay this paper's mechanism feeds into
 - [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) — the empirical farmland test of the same mechanism
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the wiki's other earliest-1961 Gaffney item, disambiguated: that page's water-rights case does *not* state the credit-concentration mechanism documented here
 - [Land Monopoly](/wiki/land-monopoly/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 

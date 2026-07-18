@@ -308,6 +308,7 @@ corpus already on the wiki.
 - [Gaffney (1991): "Capital" Gains and the Future of Free Enterprise](/wiki/gaffney-capital-gains-free-enterprise/) — the general land-gains thesis this essay extends with oil/gas-specific tax mechanics
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/)
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/)
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the same institutional-leakage logic applied to water
 - [Resource Rents](/wiki/resource-rents/)
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page

@@ -238,6 +238,7 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
 - [Resource Rents](/wiki/resource-rents/)
 - [ATCOR](/wiki/atcor/) — the general land-value-tax-neutrality thesis this
   monograph derives independently for a time-allocation problem
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — that page's priority note identifies this 1957 monograph as the earliest work in the wiki's Gaffney corpus overall
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 
 ## Sources

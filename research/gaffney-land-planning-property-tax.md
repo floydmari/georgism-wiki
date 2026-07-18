@@ -161,6 +161,7 @@ not empirically tested.)
 
 - [Gaffney (1998): The Philosophy of Public Finance](/wiki/gaffney-philosophy-of-public-finance/) — carries this article's Milwaukee isovalic study and Marine Plaza case in full, restated in 1998
 - [Gaffney (1978): The Synergistic City](/wiki/gaffney-synergistic-city/) — the companion argument on agglomeration and urban rent this article's opening section echoes
+- [Gaffney (1964): Containment Policies for Urban Sprawl](/wiki/gaffney-containment-policies-urban-sprawl/) — the earlier Gaffney statement of a related sprawl mechanism, five years before this article
 - [Land value taxation reduces urban sprawl](/wiki/lvt-reduces-sprawl/)
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page

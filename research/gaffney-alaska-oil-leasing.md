@@ -385,6 +385,10 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/) — the distribution-side claim this report predates
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the later essay documenting the same ad valorem/in-situ property-tax design in California, and its loss to Proposition 13
 - [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/) — the source of Appendix J's reprinted Vickrey/Consigny neutral-depreciation proof, now read and mined in full
+- [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — this report reuses that essay's timing theory (Figure C.4) as an appendix
+- [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — the tax-code-side companion to this report's leasing-instrument design
+- [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — Gaffney's contemporaneous resource-leasing design work for a different state, same year
+- [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the closest structural parallel for another resource, a public-landlord rent-capture design
 - [Alaska](/wiki/alaska/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 - [Resource Rents](/wiki/resource-rents/)
