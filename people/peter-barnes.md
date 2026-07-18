@@ -40,4 +40,4 @@ Peter Barnes (1942–) is an American journalist, entrepreneur, and author who h
 
 1. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (San Francisco: Berrett-Koehler, 2006). — used for the commons-sector thesis, Sky Trust proposal, and Capitalism 1.0/2.0/3.0 framework (C/D-claims). [book page](/wiki/capitalism-3-0/)
 2. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the universal dividend argument (D-claim).
-3. Peter Barnes, *Who Owns the Sky?* (Island Press, 2001) — predecessor work on carbon cap-and-dividend (C-claim).
+3. Peter Barnes, *Who Owns the Sky?* (Island Press, 2001) — predecessor work on carbon cap-and-dividend (C-claim) — used for the origin of the "Sky Trust" cap-and-dividend proposal (§"The 'Sky Trust'" above).

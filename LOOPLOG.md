@@ -1333,3 +1333,19 @@ because the state already owned the oil). Grades table now 7 rows + K-L
 cross-check note; patents-exclusion heading retitled (numbering went stale);
 AI coda hand-off line closed out; honest-limits bullet extended. 863 pages,
 lint 0 errors. WS-TECH-RENTS lane (a,b,c,d + synthesis) is DONE.
+
+## 2026-07-18 (cont.) — Wave: T3 mechanical debt batch
+
+Source annotations: 23 entries across 15 most-neglected pages (no last_reviewed at
+all) annotated with usage DERIVED from each page's body — 1 honestly left
+unannotated with an inline note (economic-rent's Mill entry: role not determinable
+from page text; flagged, not invented). Thin-article burn-down, 4 high-inbound
+pages, all expanded from material ALREADY in the repo (no new external claims):
+henry-george-theorem 358→749 words (Behrens second-best extension + Feldstein
+capitalization challenge with CKR/Fane replies — the wiki's own research pages
+finally surfaced on the concept page; one garbled Feldstein sentence fixed at T1);
+rent-seeking 346→802 (growth-cost + tax-design sections); split-rate-taxation
+322→632 (Harrisburg + practical obstacles from Cohen-Coughlin); 1909-peoples-budget
+355→673 (the four land-value duties with statutory rates from the book page).
+Warning count verified unchanged vs baseline (git-stash comparison). ~400 pages
+from later cohorts left for future recurring batches. 863 pages, lint 0 errors.

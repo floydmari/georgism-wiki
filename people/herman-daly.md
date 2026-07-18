@@ -44,5 +44,5 @@ Herman E. Daly (1938–2022) was an American ecological economist, widely regard
 ## Sources
 
 1. Herman E. Daly, *Ecological Economics and the Ecology of Economics: Essays in Criticism* (Cheltenham: Edward Elgar, 1999). — used for steady-state economics, throughput, uneconomic growth, and the Solow/Stiglitz critique (A/C/D-claims). [book page](/wiki/ecological-economics-daly/)
-2. Herman E. Daly, *Steady-State Economics* (San Francisco: Freeman, 1977; 2nd ed. Island Press, 1991) — foundational text for steady-state theory (C-claim).
+2. Herman E. Daly, *Steady-State Economics* (San Francisco: Freeman, 1977; 2nd ed. Island Press, 1991) — foundational text for steady-state theory (C-claim) — used for the origin of the steady-state framework summarized in §"Steady-state economics" above.
 3. Herman E. Daly & John B. Cobb Jr., *For the Common Good* (Boston: Beacon Press, 1989; 2nd ed. 1994) — used for the economic-ecological integration (D-claim).

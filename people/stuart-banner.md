@@ -36,5 +36,5 @@ Stuart Banner is an American legal historian and professor at UCLA School of Law
 ## Sources
 
 1. Stuart Banner, *How the Indians Lost Their Land: Law and Power on the Frontier* (Cambridge, MA: Harvard University Press/Belknap Press, 2005). — used for the sovereignty/property distinction, the challenge to the conquest consensus, and the Johnson v. M'Intosh analysis (A/D-claims). [book page](/wiki/how-the-indians-lost-their-land/)
-2. Robert Williams, *The American Indian in Western Legal Thought* (Oxford University Press, 1990) — the leading study Banner argues against (D-claim).
-3. *Johnson v. M'Intosh*, 21 U.S. (8 Wheat.) 543 (1823) — the foundational Supreme Court case Banner analyzes (A-claim).
+2. Robert Williams, *The American Indian in Western Legal Thought* (Oxford University Press, 1990) — the leading study Banner argues against (D-claim) — used for the "conquest consensus" position Banner's revisionist argument is set against (§"Challenging the 'conquest' consensus" above).
+3. *Johnson v. M'Intosh*, 21 U.S. (8 Wheat.) 543 (1823) — the foundational Supreme Court case Banner analyzes (A-claim) — used for the 1823 opinion Banner argues misrepresented colonial practice (§"Johnson v. M'Intosh as misrepresentation" above).

@@ -42,6 +42,6 @@ Phillip J. Bryson is an academic economist whose work focuses on central Europea
 ## Sources
 
 1. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011). ISBN 978-0-230-11585-9. — used for all claims about George's methodology, distribution theory, free trade arguments, and rehabilitation thesis (A/C/D-claims). [book page](/wiki/economics-of-henry-george/)
-2. Joseph Schumpeter, *History of Economic Analysis* (Oxford University Press, 1954) — assessment of George as "very orthodox economist," cited by Bryson p. 5 (D-claim).
-3. Henry George, *Progress and Poverty* (1879) — the work Bryson analyzes in depth (A-claim).
-4. Henry George, *The Science of Political Economy* (1898) — George's methodology work, discussed in Bryson Ch. 1 (C-claim).
+2. Joseph Schumpeter, *History of Economic Analysis* (Oxford University Press, 1954) — assessment of George as "very orthodox economist," cited by Bryson p. 5 (D-claim) — used for the Schumpeter assessment quoted in §"George as 'orthodox economist'" above.
+3. Henry George, *Progress and Poverty* (1879) — the work Bryson analyzes in depth (A-claim) — used to identify the primary text Bryson's distribution-theory chapter (§"Distribution theory" above) analyzes.
+4. Henry George, *The Science of Political Economy* (1898) — George's methodology work, discussed in Bryson Ch. 1 (C-claim) — used to identify the source of George's three-methods framework (induction, deduction, tentative deduction) in §"Methodological sophistication" above.

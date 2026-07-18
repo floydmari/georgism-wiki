@@ -36,5 +36,5 @@ J.M. (Jeanette M.) Neeson is a historian of eighteenth-century England, now Prof
 ## Sources
 
 1. J.M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993, Past and Present Publications). — used for common rights as lived practice, the social cost of enclosure, and the Northamptonshire case study (A/B/D-claims). [book page](/wiki/commoners-neeson/)
-2. E.P. Thompson, *Customs in Common* (London: Penguin, 1991) — related work by Neeson's doctoral supervisor (D-claim).
-3. Donald N. McCloskey, "The Enclosure of Open Fields" (1972) — counter-argument on enclosure productivity that Neeson engages with (B-claim).
+2. E.P. Thompson, *Customs in Common* (London: Penguin, 1991) — related work by Neeson's doctoral supervisor (D-claim) — used for the background scholarly context of Neeson's supervision and the common-rights literature she builds on.
+3. Donald N. McCloskey, "The Enclosure of Open Fields" (1972) — counter-argument on enclosure productivity that Neeson engages with (B-claim) — used for the productivity-gains position Neeson's distributional critique is set against (§"Counter to productivity arguments" above).
