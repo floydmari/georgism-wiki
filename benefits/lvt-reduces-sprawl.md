@@ -26,6 +26,24 @@ The theoretical argument runs as follows. A tax on land value cannot reduce the 
 
 This connects to broader Georgist concerns about [land speculation](/wiki/land-speculation/) and [speculative vacancy](/wiki/speculative-vacancy/): idle land held for appreciation is the low-density frontier of sprawl, and LVT is designed precisely to penalise that behaviour. The [ecological Georgism](/wiki/ecological-georgism/) framing extends the argument further — denser development means less land conversion, lower per-capita infrastructure costs, and reduced transportation externalities.
 
+The theoretical case predates Brueckner's formal model by over a decade. Mason
+Gaffney's 1973 essay argues taxing land, rather than buildings, removes a
+specific bias toward sprawl built into credit markets: because land holding
+costs (absent taxes) are pure interest, and interest is systematically
+cheaper for wealthy "strong hands" than for credit-constrained buyers,
+appreciating fringe land tends to gravitate to owners who can afford to hold
+it idle, while builders "keep trying... to find weak sellers," who are
+"likely to hold less eligible land, far out, or on flood plains" — pushing
+development outward past better-located but strong-hand-held parcels rather
+than infilling them.[6] Gaffney separately argues untaxed rent biases public
+spending itself toward sprawl through **logrolling**: without a tax mechanism
+to recapture the value public works create, city councils trade project
+approvals across every ward regardless of merit, favoring dispersed
+"over-decentralization" of infrastructure investment.[6] Both mechanisms are
+Gaffney's own theoretical argument, not independently tested claims, and are
+cited here for their historical priority and mechanism detail rather than as
+additional empirical evidence for the metropolitan-level sprawl claim above.
+
 ## The Evidence
 
 The evidence is best read in three tiers — theory, direct LVT evidence, and
@@ -96,6 +114,7 @@ The honest assessment is that the theoretical mechanism is well-established and 
 - [Objection: LVT Causes Over-Development and Environmental Harm](/wiki/lvt-causes-overdevelopment/) — the environmentalist mirror-image objection: the same density mechanism this page credits as a benefit in cities is argued to pressure development of ecologically valuable land
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Banzhaf & Lavery (2010) — Can the Land Tax Help Curb Urban Sprawl?](/wiki/banzhaf-lavery-pa-sprawl/)
+- [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the pre-Brueckner theoretical statement of the credit-discrimination and logrolling mechanisms
 - [Ecological Georgism](/wiki/ecological-georgism/)
 - [Land Speculation](/wiki/land-speculation/)
 - [Speculative Vacancy](/wiki/speculative-vacancy/)
@@ -108,3 +127,4 @@ The honest assessment is that the theoretical mechanism is well-established and 
 3. Daniel T. McGrath (2005), "More evidence on the spatial scale of cities," *Journal of Urban Economics* 58(1):1–10. [DOI](https://doi.org/10.1016/j.jue.2005.01.003) — [wiki summary](/wiki/mcgrath-spatial-scale-cities/) — used for the metro-level result that higher fringe agricultural land rent significantly reduces urbanized land area (the mechanism's direction at metro scale), and for the honest bound that standard economic factors explain ~90% of metropolitan land area with no tax variable tested. Directly fetched and read this pass.
 4. Wallace E. Oates & Robert M. Schwab (1997), "The Impact of Urban Land Taxation: The Pittsburgh Experience," *National Tax Journal* 50(1):1–21 — [wiki summary](/wiki/oates-schwab-pittsburgh/) — used for the broader split-rate construction evidence that Banzhaf & Lavery confirm and extend.
 5. Florenz Plassmann & Nicolaus Tideman (2000), "A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction," *Journal of Urban Economics* 47(2):216–247 — [wiki summary](/wiki/plassmann-tideman-construction/) — used for the same comparison.
+6. Mason Gaffney (1973), "Land Rent, Taxation, and Public Policy: Taxation and the Functions of Urban Land Rent," *American Journal of Economics and Sociology* 32(1): 17–34 — used for the pre-Brueckner theoretical statement of the credit-discrimination and logrolling mechanisms behind sprawl (C-claim, attributed, historical context only — not wired as empirical evidence). [wiki summary](/wiki/gaffney-urban-land-rent/) · [PDF](https://masongaffney.org/publications/E12-LandRentTaxation%26PublicPolicy-TaxationUrbanLandRent.CV.pdf)

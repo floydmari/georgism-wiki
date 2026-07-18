@@ -32,6 +32,7 @@ Fred Harrison's *Ricardo's Law* cites Gaffney's paper as documenting how "synerg
 
 ## See Also
 
+- [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — Gaffney's earlier and more systematic essay, where "synergism" is one of three identified sources of urban rent (alongside natural features and public spending) rather than the sole focus
 - [Agglomeration Economies](/wiki/agglomeration-economies/) — the mainstream framework Gaffney's synergy concept parallels and predates in its emphasis on land capture
 - [Mason Gaffney](/wiki/mason-gaffney/) — the author
 - [Economic Rent](/wiki/economic-rent/) — the underlying concept the "synergistic surplus" is an instance of

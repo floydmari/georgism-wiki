@@ -129,8 +129,22 @@ farms.[9] (B-claim; empirical, cross-sectional; Gaffney himself flags the
 direction-of-causation question as open rather than statistically resolved — see
 the page's Standing and Limits.)
 
+Gaffney worked out this "strong hands" mechanism first, and at greater length,
+two decades earlier: his 1972–73 essay "Land Rent, Taxation, and Public
+Policy" attributes the credit gap directly to how carrying costs compound —
+"[t]he basis of allocating credit is not primarily demand, or productivity,
+but collateral security" — and works a specific numerical example: a poor
+buyer's 9% borrowing rate, net of 3% expected land appreciation, falls to an
+effective 6% holding cost, while a rich buyer's 5% opportunity rate falls to
+2%, so the ratio of the poor buyer's holding cost to the rich buyer's *rises*
+from 1.8 to 3.0 as land appreciates — a "principle of leverage" that widens
+the credit-access gap specifically for land, since land (unlike depreciating
+assets) carries no cost but interest.[10] (C-claim; Gaffney's own theoretical
+argument and worked example, attributed.)
+
 See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/) ·
-[Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/)
+[Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) ·
+[Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/)
 
 ## See Also
 
@@ -167,3 +181,4 @@ See: [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-
 7. Pete Daniel, *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (Chapel Hill: UNC Press, 2013) — used for the systematic land-deprivation account (B/D-claims). [Book page](/wiki/dispossession-daniel/)
 8. Mason Gaffney (1994), "Land as a Distinctive Factor of Production," in Nicolaus Tideman, ed., *Land and Taxation*, Shepheard-Walwyn — used for the credit/collateral concentration mechanism (D-claim, attributed). [Wiki summary](/wiki/gaffney-land-distinctive-factor/) · [PDF](https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf)
 9. Mason Gaffney (1992), "Rising Inequality and Falling Property Tax Rates," Chapter 10 in Gene Wunderlich, ed., *Ownership, Tenure, and Taxation of Agricultural Land*, Westview Press — used for the 1930–1987 Gini-ratio and property-tax-rate data (B-claim, empirical). [Wiki summary](/wiki/gaffney-rising-inequality-farm-property-tax/) · [PDF](https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf)
+10. Mason Gaffney (1973), "Land Rent, Taxation, and Public Policy: Taxation and the Functions of Urban Land Rent," *American Journal of Economics and Sociology* 32(1): 17–34 — used for the earlier (1972–73), more fully worked original of the credit-discrimination "strong hands" mechanism and its numerical leverage example (C-claim, attributed). [Wiki summary](/wiki/gaffney-urban-land-rent/) · [PDF](https://masongaffney.org/publications/E12-LandRentTaxation%26PublicPolicy-TaxationUrbanLandRent.CV.pdf)

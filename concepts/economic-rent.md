@@ -50,6 +50,28 @@ A related modern concept is **rent-seeking** (coined by Gordon Tullock, 1967; na
 
 Mason Gaffney argues in *The Corruption of Economics* (1994, Ch. 7) that Vilfredo Pareto deliberately redefined rent as "the gain from reallocating a resource — any resource," demoting Ricardian land rent to "just a particular case." Gaffney contends this was "calculated to divert attention from land rent as a taxable surplus": by generalizing rent to cover all opportunity-cost differentials, the neoclassical tradition made land rent invisible as a distinct, policy-relevant category. Clark's "jelly capital" theory compounded this by merging land into capital, so that rent and interest became indistinguishable (Gaffney & Harrison, *The Corruption of Economics*, Chs. 1, 7). See [*The Corruption of Economics* (book page)](/wiki/gaffney-harrison-corruption-of-economics/). The standard modern survey and typology of which rent types are efficiently taxable is [Schwerhoff, Edenhofer & Fleurbaey (2020)](/wiki/schwerhoff-taxation-economic-rents/), which concludes that land rents are "one of the few true scarcity rents."
 
+## Gaffney: The Three Sources of Urban Rent
+
+Where Ricardo and George explain rent's *emergence* at the margin of
+production, Mason Gaffney's 1972–73 essay "Land Rent, Taxation, and Public
+Policy" asks a complementary question: operationally, what generates the
+rent of a given urban parcel? His answer is a tripartite typology: "Land rent
+is the joint product of three things: natural features, public spending, and
+private activity by others than the landowner" (Gaffney's term for the
+third is "synergism" — the surplus created when a land market brings
+independent actors into mutual access, so that, in his words, "the whole
+comes to exceed the sum of its parts. The excess is rent."). Gaffney also
+argues rent plays only one of the two roles most factor prices play: it
+**rations** the fixed supply of land among competing uses, but — because
+privately collected rent does not itself call forth more public spending or
+more of the neighboring private activity that created it — it does not
+**elicit** additional supply the way wages or interest can call forth more
+labor or capital. (C-claim; Gaffney's own theoretical framework, primary
+source, attributed.) See [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/)
+for the fuller argument, including the companion taxation essay's five
+mechanisms by which taxing rent (rather than income or buildings) lets it
+perform this rationing function.
+
 ## Land as a Share of Modern Wealth
 
 Lars Doucet reports that land constitutes approximately **40% of US household wealth** (citing OECD via Tideman), and 70.9% of urban real estate value in San Francisco (AEI, 2020). In New York City, land accounts for ~93% of total real estate value. Globally, land is ~39% of all real assets (McKinsey, 2021). These figures underscore that land rent — the surplus George and Ricardo identified — remains economically dominant in the modern economy, not a relic of agrarian ages (Doucet, *Land is a Big Deal*, Ch. 14). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
@@ -95,3 +117,4 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 6. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 14 — used for land as ~40% of US household wealth and land share of urban real estate (B-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 7. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the definition of rent as surplus above competitive costs and the argument that rent is neglected in public discourse (C/D-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 8. Martin Adams, *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — used for the argument that rent privatization drives wealth inequality (D/B-claims). [Book page](/wiki/land-a-new-paradigm/)
+9. Mason Gaffney (1972), "Land Rent, Taxation, and Public Policy: The Sources, Nature and Functions of Urban Land Rent," *American Journal of Economics and Sociology* 31(3): 241–258 — used for the tripartite (natural features / public spending / synergism) typology of urban rent sources and the rationing-not-eliciting distinction (C-claim). [wiki summary](/wiki/gaffney-urban-land-rent/) · [Free PDF](https://masongaffney.org/publications/E11-LandRentTaxation%26PublicPolicy-SourcesUrbanLandRent.CV.pdf)

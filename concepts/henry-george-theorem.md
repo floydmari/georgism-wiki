@@ -12,7 +12,7 @@ The **Henry George Theorem** states that, in a city of optimal size with public 
 
 ## Origin
 
-Though named for Henry George — who argued informally that public investment is capitalised into land values — the theorem was formalised in modern welfare economics by Joseph Stiglitz and others in the late 1970s, most canonically in [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/).
+Though named for Henry George — who argued informally that public investment is capitalised into land values — the theorem was formalised in modern welfare economics by Joseph Stiglitz and others in the late 1970s, most canonically in [Arnott & Stiglitz (1979)](/wiki/arnott-stiglitz-henry-george-theorem/). Between George and Stiglitz, Mason Gaffney's 1972–73 essay [The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) restated the capitalization mechanism informally — "for every added user charge there is an equal and opposite reaction in the form of lower rents" — six or seven years before the formal theorem, an intermediate data point in the Georgist tradition's approach toward the eventual formalization.
 
 ## The Intuition
 
@@ -45,3 +45,4 @@ The theorem's mechanism — that public spending capitalises fully into land ren
 2. Joseph Stiglitz (1977), "The Theory of Local Public Goods" — used for the theorem's naming and original derivation (A-claim). [wiki summary](/wiki/stiglitz-theory-local-public-goods/)
 3. Kristian Behrens, Yoshitsugu Kanemoto & Yasusada Murata (2015), "The Henry George Theorem in a second-best world," *Journal of Urban Economics* — used for the second-best extension showing the theorem's rent-equals-public-goods equality survives increasing returns, agglomeration economies, and pre-existing distortionary taxes (§"Extensions" above). [wiki summary](/wiki/behrens-hgt-second-best/) · [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0094119014000771)
 4. Martin Feldstein (1977), "The Surprising Incidence of a Tax on Pure Rent: A New Answer to an Old Question," *Journal of Political Economy* 85(2) — used for the mainstream general-equilibrium challenge to full capitalization of a land tax that qualifies the theorem's incidence assumption, and the replies (Calvo–Kotlikoff–Rodriguez 1979; Fane 1984) restoring the classical result (§"Limits" above). [wiki summary](/wiki/feldstein-incidence-pure-rent/)
+5. Mason Gaffney (1972), "Land Rent, Taxation, and Public Policy: The Sources, Nature and Functions of Urban Land Rent," *American Journal of Economics and Sociology* 31(3): 241–258 — used for the pre-Stiglitz informal statement of the capitalization mechanism (§"Origin" above). [wiki summary](/wiki/gaffney-urban-land-rent/)

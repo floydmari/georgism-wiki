@@ -1390,3 +1390,24 @@ around (%26 refetch; archive mirror 404s — known B5-class issue). Registry: C9
 row Light→Heavy, D1 new row, + 7 deferred stub-wave rows merged (Parliament
 Act/House-Historian/BC-Assessment sources). Inventory regenerated (5 new pages
 absorbed). 867 pages, lint 0 errors, warnings back to 32.
+
+## 2026-07-18 (cont.) — Wave: Gaffney E11/E12 urban-land-rent pair (+ BACKLOG reconciliation committed separately)
+
+research/gaffney-urban-land-rent.md created (868th page, Core tier) — the 1972-73
+AJES two-parter read in full (ampersand mirror-rot hit as predicted; %26 refetch;
+BOTH stale 404-stub mirror files REPAIRED in cache so future sessions don't
+re-hit it). Part I: tripartite urban-rent sources (natural features, public
+spending, synergism); rent rations land, never elicits supply. Part II: five
+taxation mechanisms, fullest being the strong-hands/weak-hands credit
+discrimination argument WITH worked leverage arithmetic (poor buyer's holding-cost
+ratio 1.8→3.0 as land appreciates) — the earlier original of C9's B-8/B-9
+mechanism, cross-wired. Also mined: a pre-Stiglitz informal HGT capitalization
+statement ("conservation of economic energy," crediting Jensen 1931) — added to
+henry-george-theorem's Origin as an intermediate data point, strict-delta with the
+just-shipped Behrens/Feldstein material; and a logrolling political-economy
+argument absent from later Gaffney. Honest limits: advocacy-toned theory, one
+descriptive Milwaukee cross-section, several claims on Gaffney's own authority.
+Congestion section deliberately NOT wired (no matching objection page — recorded,
+not forced). sprawl page addition explicitly kept OUT of supported_by (theoretical
+context, not evidence). Registry +2 rows; triage rows checked; inventory
+regenerated. 868 pages, lint 0 errors.

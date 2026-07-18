@@ -1,0 +1,783 @@
+                               Land Rent, Taxation
+                                and Public Policy:
+                            Taxation and the Functions
+                              of Urban Land Rent*
+
+                                   By MASON GPNEY
+
+                                                I
+                      TAXATION AND THE FUNCTIONS OF RENT
+    MANY, IF NOT ALL economists now agree that the fisc may tax away rent
+    without impairing any economic function. It is only necessary that the tax
+    be independent of landowner behavior.
+      What is less widely understood is that not taxing rent obstructs its
+    proper functioning. Untaxed landowners through the centuries have
+    manifested a propensity for passive withdrawal that is simply too wide-
+    spread to overlook and too well proven to redocument.
+      Some who have advocated (or opposed) "taxing land into use," while
+    correct in their prediction of results, have basically iniscontrued the nature
+    of the policy: they see the tax as being piled on top of market rent, and
+
+
+'   amending the market. This is to be innocent of the basic process of land
+    tax capitalization, briefly summarized by Jensen (1931)t (and curiously
+    missing from the literature since). The costs of carrying or holding land
+    each year are interest and property taxes, each being a percentage (respec-
+    tively i and t) of selling price (P). If tax rate (t) rises, P falls, reducing
+    the interest burden (P x i) by the same amount that taxes rise. Taxes
+    and interest between them always just exhaust the total rent (a) (1).
+    The public share of rent is
+                                     t+i ; the private share is t+i
+       Those who do understand tax capitalization sometimes note that land
+    taxes are not necessary to make landowners economize, but simply sub-
+    stitute a tax cost for an interest cost. They are right in a limited way.
+    But the naive fellow who thinks taxes force land into use is right, too.
+       * Based on a paper delivered at the 15th annual meeting of the Regional Science
+    Association, Cambridge, Mass., November 9, 1968. Portions of die study appear in
+    Papers of the Regional Science Association; thanks are due the editor for permission to
+    reprint. This article continues the discussion in my previous paper: "Land Rent, Taxation,
+    and Public Policy: The Sources, Nature and Functions of Urban Land Rent," Am. J.
+    Ecos. Sociol., 31 (July, 1972).
+       t Bibliograjthical citations are to items in "Selected Bibliography on Land Rent Taxa-
+    don," Am. J. Econ. Sociol., 31 (July 1972).
+          The American Journal of Economics and Sociology
+
+The operation of the tax is simply more subtle than at first glance. I will
+enumerate five ways that land taxation helps rent perform its functions: by
+by-passing price discrimination in credit; by reducing land appreciation;
+by obviating other taxes which bias land use choices; by replacing log-
+rolling as a paramount guide to public spending; and by overcoming land
+market imperfections.
+
+A. Price Discrimination in Credit. The poor pay more for credit. They
+get less, and for shorter periods. The basis of allocating credit is not
+primarily demand, or productivity, but collateral security. It is the credit
+rating of the borrower that covers the lenderts risk, regardless of the pur-
+pose of a loan.
+   And so capital markets make liquid assets flow uphill, from poorer
+lenders, who prize liquid investments like bank accounts, to richer bor-
+rowers, to whom banks lend money because, in the popular phrase, they
+don't need it; who are big enough to diversify to cover risks, and to pay
+regular interest while awaiting late-blooming returns.
+   Many affluent landowners are even stronger; they do not have to borrow
+at all. The interest cost they feel when holding land is only imputed
+interest, at their opportunity rate. Capital markets are extremely insular,
+with high transfer costs. Many corporations plow back earnings to defer
+taxes, aggrandize management, inflate (rail and utility) rate bases, etc.
+Many heirs, heiresses, and retired farmers are not sharply aware of or re-
+sponsive to mere imputed costs that cause no cash drain; and the absence
+of cash drain over several years also protects them from a "wealth effect,"
+a loss of net wealth that otherwise finally would force their attention
+upon any drain. So the force of imputed interest as a holding cost is
+wealdy felt by affluent landowners, as compared to an explicit cash pay-
+ment of rent or taxes.
+  The price one pays for land, as a yearly cost, is proportional to an in-
+terest rate. The relevant rate is one's borrowing rate—or, for equity in-
+vestment, one's opportunity rate. And so rich and poor pay different
+prices for holding the same land. This is price discrimination, but in
+reverse. The usual discrimination, with lower prices to weaker buyers,
+can be socially useful by broadening markets for decreasing-cost opera-
+tions. This reverse discrimination in credit, on the other hand, redoubles
+the ineffectiveness of the demand of the poor for land.
+   There is no factor that acts with as much force as land cost, therefore,
+to screen out the bottom of the market for housing, small business, and
+other land-using activities. Look at it as adding to yearly interest cost, as
+                 Land Rent, Taxation and Public Policy                     19
+
+above; or look at it as inflating the buyer's capital requirement: either way,
+it hits the poor with differential severity.
+    It is natural that the poor should demand somewhat less land, in pro-
+portion to their lesser incomes, and even in lesser proportion than that
+because land as a consumer good, after a bare minimum, is a "superior"
+one, a luxury (Eichler-Kaplan 1967). But these are demand factors, not
+to be confused with the matter of credit, which is an added cost of supply.
+Credit discrimination means the poor pay more for any piece of land.
+    Of course, credit discrimination also means the poor pay more for all
+durable goods. But the interest share of the cost of any asset varies with
+its durability. The other share of cost is depreciation or capital depletion,
+which God sendeth upon poor and rich alike. An asset must have a useful
+life of 30—40 years before interest is as large a share of its yearly cost as
+depreciation (2). But land does not depreciate as a matter of course at
+all, so its entire holding cost (in the absence of taxes) is interest.
+    More, land often appreciates. The coming event casts its shadow be-
+fore it in premium land prices. The interest cost of holding appreciating
+land now outvalues its current service flow—just the opposite from build-
+ings. The poor man's handicap grows heavier—he requires more credit
+to finance each dollar of current cash income.
+    If we treat appreciation as a deduction from holding costs, and deduct
+a given amount—say 3 per cent of value—from the interest holding costs
+of poor and rich, it is dear how this factor exacerbates any differences in
+basic interest costs. It is a principle of leverage. A poor man's basic
+interest rate of 9 per cent falls to a net holding cost of 6 per cent; a rich
+man's 5 per cent falls to 2 per cent. The ratio of the poor man's cost to
+ the rich man's rises from 9/5 = 1.8 to 6/2 3 (3).
+    Then there is the matter of risk. We have seen that land, functionally,
+ is a "hired" factor like labor that must be paid in advance. A tenant pay-
+ing cash rent would not think he could reduce risk by hiring more land.
+Much less would an impecunious buyer reduce risk by assuming a full
+mortgage to add land whose marginal service flow didn't even cover the
+ debt service Inventories and operating capital return prinapal in a few
+ months. Even buildings begin to in a few years, and a small shoestring
+ operator can often finance a building with a little "front money" of his
+ own But land income never returns principal, unless by error of the
+ seller. The weak hand can return the principal of a land loan only by
+drawing on other assets, or by net saving from income. From the view-
+ point of borrower as well as lender, risk is a mimum.
+   But when a debt-free landowner is the entrepreneur, he already owns
+20        The American Journal of Economics and Sociology
+
+the principal, and the payment of imputed rent becomes optional. Each
+year's optional rent payment then becomes something he can draw on to
+meet deficits. Analytically, the income is implicitly paid (free of income
+tax, incidentally) but saved, converted to capital and consumed to meet
+the deficit. More than that, he can draw on the capital value of his land
+to meet deficits, by banking it. The capital value is 10 to 20 times the
+yearly service flow, and more if the land value is rising, so the cushion
+against risk is enormous.
+   A "weak hand" minimizes risk by hiring or financing a minimum of
+land. He selects factor proportions heavy on family labor. He turns his
+limited capital fast, to achieve enough volume to realize necessary econo-
+mies of scale and keep himseslf fully employed. He keeps most of his
+limited net worth in circulating capital, which he can deplete to meet the
+risk of a surge in demand, or hold in the face of reduced demand. Lack-
+ing reserves of wealth to seize bargains and other timely opportunities,
+he compensates by constantly liquidating and reinvesting his capital. Each
+recycling gives him a chance to gain from the positive risks of business,
+and substitutes for possession of great reserves for contingencies.
+  A "strong hand" owns land outright He does not regard it as a risky
+investment. Its value to him depends on its long term performance—he
+does not need cash every year. Even if it gives him a bad year, or severaI
+there is no cash drain. Indeed, he can convert it to cash any time by bor-
+rowing or selling. Its capital value for sale or collateral is not usually
+much shaken by short run reverses, and often mounts imperturbably to-
+ward some higher use. Its capital value is all available to draw on to meet
+risk. This capital value is very high relative to current income, espedaliy
+for appreciating land. It is not risked with each throw of the dice.
+  A strong hand minimizes risk by underusing land. The fact that its
+capital value is twenty times its service flow means an incremental land
+investment (holding other inputs constant) of $1 adds 5 to expected
+annual volume (assume a per cent interest rate). The 5 is well cush-
+ioned. An incremental investment in capital (holding land constant) of
+$1 adds to volume $1 times the yearly turnover of the capital, plus 5
+interest (4). This volume is much less well cushioned.
+   Thus it is very common for economists to advise landowners to avoid
+improving land to the "theoretically" optimal intensity where the mar-
+ginal product of capital equals its marginal cost (5). The last quarter
+or so of gross income is said to be of "low quality," because the added
+income is so little more than the added cost that it adds to risk out of
+proportion to the added net income. In all the years that this doctrine has
+                    Land Rent, Taxation and Public Policy                       21
+
+   flourished, no one has raised the obvious counter-argument that the mar-
+   ginal productivity theory is symmetrical: that underimproving land implies
+   over-applying land to the improvement so the last quarter of income from
+   incremental land is of low quality. Why has it not been raised? Possibly
+   economists subconsciously assume the viewpoint of the equity owner of
+   land; and from this view, land represents so little personal risk that it is
+   ignored.
+     Note that the strong hand who regards land holding as a low risk
+   investment is minimizing his own risk, not social risk. Because the land
+   value on which be draws to meet contingencies is not social capital—it is
+   not thrown into any social breach to supply real goods, it is not depleted
+   and used. Rather, he uses it to draw on the pool of real social capital,
+   taking from others who lack equal collateral. Social contingencies and
+   risks are met from real circulating capital. From the national view, it is
+   the "weak hand" with his stock of circulating capital who supplies the
+   resiliency to bear social risks.
+   •  Finally there is the matter of management capacity. A weak hand, we
+   have seen, turns his small capital fast in order to employ himself fully.
+   Strong hands have the opposite problem. They turn their capital as slowly
+   as possible, to minimize their involvement in small decisions, continual
+   replacement, hired labor, and customer relations. Land, which never turns
+   over, but often appreciates of its own accord, serves them ideally.
+      Sometimes a strong hand erects a handsome, prestigious building on
+   land, appearing to use it intensively. These are conspicuous, and create
+   a widespread impression that richer men improve land more. These pres-
+   tige buildings tend to substitute longevity for yearly service flow, so it is
+   evident their true intensity is less than their marble columns at first suggest.
+   The invisible land input is to commit land for a century to a building that
+   will be obsolete and depreciated in half that time. Even less visible is
+  the same owner's control of surrounding air rights for his building's view;
+r of surrounding land to pick up spillovers from his building; of the land
+  under his building for years before he built it; and of dozens of parcels
+   of unused land here and there around the world. These matters defy
+   most empirical studies because of secrecy, indirect ownership, and world-
+   wide ownership by the wealthy. We must therefore give more weight to
+   a priori analysis, and its teaching is dear. The comparative advantage of
+   the strong hand lies usually in land ownership.
+.:    Now we begin to see the significance of substituting tax costs for interest
+   costs of holding land. It removes a cost that varies directly with a person's
+   poverty, and replaces it with a cOst that bears impartially on all. To be
+22         The American Journal of Economics and Sociology
+
+sure, this hangs on the assumption that tax assessors are less partial to
+the wealthy than bankers are. Some studies have shown assessment bias
+favoring larger owners. Others have not, however, and this bias is less
+universal than tle bankers'. It is also illegal, and more open to reform.
+   The greater effectiveness of tax than interest costs in making rent fulfill
+its function surfaces for observation wherever low-density zoners are cam-
+paigning to prevent rent from functioning to enforce economy of scarce
+land. There is some rhetoric against "greedy" "fast-buck" landowners
+who succumb to the temptations of opportunity rent, but the main thrust
+is against tax assessors. Low-density zoning keeps down land taxes, and
+so removes from most landowners the effective force that stirs them to
+economize on land the way economic theory says they should.
+  The bad results of not taxing land are severaL First, the poor live
+much more crowded than the rich. A study of residential density in Mil-
+waukee County (Gaffney 1972), for example, shows 23 per cent of the
+population occupying 3 per cent of the residential land area. In terms
+of land quality, much of this 3 per cent is in blighted neighborhoods. The
+rich preempt the choice neighborhoods and natural features at low density.
+Four per cent of the families have 30 per cent of the residential land area.
+The exception is the rich in luxury high-rise apartments, but these are
+limited by overtaxation and low-rise zoning as not to loom large in overall
+datL
+   Of course, the poor would live somewhat more crowded than the rich
+anyway, because land as a consumer good is a superior good. The rich
+like space and they like good neighborhoods, while the first concern of the
+poor is better shelter, i.e., the building. But this means that by not taxing
+land we are losing an opportunity to tax progressively.
+   Second, small business competes at a disadvantage. The seven inter-
+national major oil companies like to preempt promising corners. They can
+wait for future income; it is their special skill: who can wait as well as
+they?
+  Third, expanding cities are made to sprawl. Appreciating suburban
+land levitates to strong hands, so builders are not often snapping up bar-
+gains from hungry peasants. They do keep trying, however, to find weak
+sellers. The problem is that weak sellers are more or less randomly located.
+Worse: they are likely to hold less eligible land, far out, or on flood plains,
+or without good roads and utilities. For strong hands take the best land,
+leaving the scraps for the weak. The result is a denial of all those benefits
+that rent, by forcing economy of land, would bring. There is waste of
+good natural features; of public spending; and of unrealized synergism,
+                    Land Rent, Taxation and Public Policy                   23
+
+  in all its varied aspects. Among other problems, sprawl aggravates the
+  disadvantages of smaller businesses, because they need the city, whereas
+  giant business substitutes its internal synergism for the market's.
+
+  B. Land Appreciation. We have already seen that land appreciation
+   exacerbates the allocative bias resulting from credit discrimination. Taxing
+   land meliorates this problem by substituting a tax charge for the discrim-
+   inatory interest charge. There is much to add to that.
+     Land appreciation receives extraordinarily favorable income tax treat-
+   ment. The details of its privileged position warrant a book (6). Briefly,
+   they consist in that the landowner can take tax-free cash out of appreciated
+   land anytime by banking it (strong hands enjoying lower interest rates in
+   this matter, too), while income on the capital gain is not taxed until sale,
+   and often not then, sometimes not ever. Taxes if finally paid are at low
+   capital-gains rates, carrying costs deductible from ordinary income
+      These and related privileges have made land speculation a sovereign tax
+   loophole, so much so that increments loom much larger in the thinking of
+   many landowners than ordinary taxable income from land use, creating a
+   strong llocative bias for holding Clearly some strong medicine is needed
+   to counter this bias and abate the resulting over-pricing and hoarding of
+   appreciating land Taxation of land is such medicine The income tax as
+   presently administered virtually exempts land increments from taxation
+    (Gaffney 1969) The prospect of heavy land taxation dashes the hopes for
+   such increments, and returns land from hoards to meet the needs of today
+      Sometimes the problem is the reverse one coveted increments motivate
+   premature building in bad locations and add to sprawl This does not
+   come about in the implausible Davenport (1917)-Johnson (1914) pat-
+   tern—they alleged that builders deducted land increments from building
+   costs, and passed the gain on to buyers' Rather, there are circumstances
+   when premature building helps to appropriate some privilege associated
+   with land use An early shopping center in an empty area may exert great
+L leverage over public spending for roads, drawing them to itself with the
+   aid of some political manipulation To secure the resulting land incre-
+   ment, investors prematurely invade unripe territory, neglecting riper lands
+   nearer it Land taxation would press for early use of the riper land and
+   deglamorize the increments from acquisition of green land
+      Again, the apprehension of imminent low-density zoning in loosely
+   organized suburbs stimulates owners to hasten to sink capital into pre-
+   mature high density improvements in order to establish their future grand-
+   fatherhood There is a double bias toward sprawl Snob zoning nearer
+24        The American Journal of Economics and Sociology
+
+in pushes investors outwards; anticipated snob zoning further out, and the
+grandfatherhood instinct, pull them outwards. Grandfatherhood in this
+case means a monopoly rent attached to land. Anticipated rent taxation
+would threaten to ecapture for the public the value of the privilege, and
+so weaken the motive to appropriate new ones.
+   Today, too many allocation decisions are made under the shadow of im-
+pending increments. Visualize the hierarchy of land uses as a series of
+concentric circles. Demand for higher uses is not fully satisfied in their
+proper cirdes, because of land holdouts there. Unmet demand probes
+outwards, casting a diffused "floating value" over outer zones. This float-
+ing value raises land prices enough so the outer land is too high priced to
+renew in its present use, although still unripe for the higher use. What
+is the landowner then to do when his extant buildings get too old to pay
+the land rent?
+  The socially optimal course is to renew the site in its present lower use.
+But the floating value factor discourages that. He is more likely to let
+old buildings keep growing old for a while, reserving land for the higher
+use. Builders needing land for the lower use are forced out another ring,
+casting their floating value over the next lower use, and so on in a series
+of shock waves. Result: more sprawl, at every margin of land use. Again,
+taxing land rent draws floating value back in, focuses it in its proper areas,
+and avoids this travesty of market performance.
+
+C. Recourse to Other Taxes. Not taxing rent means raising necessary tax
+revenues by other means. In a small, open economy like the typical Amer-
+ican local jurisdiction, these other taxes are almost necessarily shifted
+"downwards" to landowners, and so borne indirectly by rent. This is
+because capital and labor are mobile among jurisdictions whereas land is
+not. So labor and capital will not accept substandard returns in one juris-
+diction; but land has no choice. (In this frame of reference it is a good
+convention to describe rent as "residual.")
+   If all taxes are shifted to rent, what difference does it make what kind
+of tax we use? It makes a lot. Taxes shifted into rent get shifted through
+reducing the supply of the thing nominally taxed, as landowners take
+evasive action to avoid heavily taxed land uses. Loss of net benefits from
+the nominal tax base is an "excess burden" from indirect taxation.
+   In every land-use decision, taxation biases owners against the more heav-
+ily taxed use. If the tax base is anything but rent, this bias leads to lower
+intensity of service flow from land and slower replacement of old struc-
+hires. Not only are the allocative effects bad, so are the distributive ones.
+                     Land Rent, Taxation and Public Policy                     25
+
+   Taxing land use, and human activity, leads to heavier taxes on the poor,
+   who crowd onto land more densely than the rich, and fortifies the effects
+   of price discrimination in credit in disabling the poor when they compete
+   against the rich for land.
+     This reasoning rests on assuming a small open economy as the taxing
+   jurisdiction. Many analysts object to assuming that non-land inputs can
+   or will flee from taxes when we broaden the analysis to the national level.
+   I believe they are largely wrong. Take for example the property tax on
+   buildings, and regard it as a national phenomenon.
+      From the national view, driving capital across a local line is not to lose
+   the capital, as it provides services wherever it goes. It may also be driven
+    back by taxes. But investors have other escape routes.
+      First, they may move their capital across the international line. Increas-
+    lag numbers are, aggravating a serious national balance of payments
+    weakness.
+        Second, they may escape into public bonds. Taxation of private capital
+     makes yields on public issues look better. If public capital needs were
+     fixed there would be little drain of capital into public works. But public
+     capital needs are greatly magnified by urban sprawl. Urban sprawl in
+     turn results partly from taxing buildings, for building taxation lowers the
+     optimal intensity of land use.
+        Building taxes contribute to sprawl in other ways than by their general
+: tendency to reduce density. In recent times, as central cities age, the build-
+     lag tax base falls. This forces higher tax rates and poorer services, which
+     in turn drives investors away from the central city where they would be
+   • welcomed only to be exploited as fiscal surplus generators. Investors then
+3; seek hospitable suburbs where new buildings can huddle together, pio-
+     tecting each other by their high taxable valuations from becoming the
+     victims of fiscal exploitation Thus the general use of buildings as a tax
+    base in a metropolitan area tends to sterilize central lands and bias investors
+    outward
+      Applying the same reasoning on a national scale, the older central cities
+  Iof the Northeast especially have made themselves unattractive relative to
+    growth areas in the West and South, which can keep tax rates lower
+    because their buildings, on the average are newer This contributes to
+    "continental sprawl," imposing added social costs of interregional linkage,
+ in a manner quite analogous to urban sprawl.
+       Another aspect is that building taxes make incorporated municipalities
+    with good public facilities look less attractive than they should in compe-
+    tition with incorporated areas with no services but lower tax rates. kt is
+26         The American Journal of Economics and Sociology
+
+not that municipalities should not charge for their services; but that they
+should levy charges in some less dumsy way, that does not make marginal
+investments submarginal as the building tax does.
+   Private utility line costs are equally inflated by sprawl. These are nom-
+inally taxed as improvements, but the tax is partly shifted forward under
+rate regulation procedures into higher user charges.
+   Public works and utility investments are well above average in longevity
+and capital intensity. Thus they absorb much capital and tie it up for long
+decades before returning it. The interest is paid by taxes and user charges
+on the very buildings which compete with the public for capital.
+   A third source of elasticity in the supply of investment is the macro-
+economic. Investment volume is elastic to the tmarginal efficiency of
+capital"—i.e., the investor's rate of return after taxes. An increase of
+investment opportunities brings new capital into being by raising real
+income and saving.
+  Assuming, now, that building taxes are not absorbed by investors in
+lower after-tax returns, they serve to lower urban density and so inflate
+social capital requirements, frustrate potential urban synergism, etc.
+  It is obvious enough why they tend to lower capital intensity on central
+lands. They impose an added marginal cost on every increment to capital
+intensity of land use, be it of height, lot coverage, quality, or advance of
+renewal date. it is less obvious why they let capital move outwards to the
+margins of the city. The same reasoning that says they abort marginal
+investment on central land would also seem to say they make marginal
+land totally submarginal, because marginal land yields no surplus that
+could absorb any tax. That is simply the dassic lesson of Ricardo on
+"Tithes" (1911, ch. 11). But the lesson is too simple. It overlooks the
+human sources of land rent, that is public works and synergism.
+  The marginality of land depends on the extension of public works; also
+on the population and improvement of neighboring land. As capital is
+diverted from central land into public works extensions, peripheral land
+previously marginal becomes supramarginal. Investors may therefore
+build there and still have a surplus to absorb building taxes. People will
+move out—they have to live somewhere. The presence of pioneer settlers
+further enhances the rentability of surrounding lands, attracts more capital,
+builds a base for further extensions, etc. The urban carpet may unroll for
+miles into the countryside this way. Instead of there being diminishing
+returns to aggregate national investment of capital, as in both the Marxian
+and Keynesian schemes, there are probably increasing returns, thanks to
+the highly complementary relations of interdependent individual land im-
+                     Land Rent, Taxation and Public Policy                  27
+
+ provements in growing districts and regions. This synergism is expressed
+ and confirmed in growing land values around cities. It affords an escape
+ route for the capital that is taxed away from its most productive uses in
+ rebuilding central cities.
+       The net national results of taxing buildings then are: 1) a reduction
+ in national capital via capital flight overseas; 2) a reduction of aggregate
+ capital formation via the macro-economic process of reduced investment,
+ income, and saving and 3) a reduction of urban density involving great
+ diversion of capital into public works; a general inflation of the capital
+ requirements of living, characteristic of urban sprawl; and, of course, a
+ great increase in aggregate land needs.
+    So it does matter how we go about taxing rent. Taxing it directly serves
+ the opposite ends: attracts capital from abroad; increases investment, real
+ income, and capital formation; and contains urban sprawl.
+
+  D. Logrolling as a Guide to Public Spending. Land rents are partly the
+  product of public spending, as we have seen. If the public fails to charge
+  landowners for public benefits by taxing rent, every public improvement
+  bestows unearned wealth on a few. There are several bad results.
+    For one, there is no objective criterion for maximizing social benefits
+  in planning public works. Unearned enrichment of a few big speculators
+  or old families or farmers is hardly a "social" benefit The door is open
+  to pressure and corruption. Indeed, there is hardly any alternative—what
+  would be an honest way to give away public money to a privileged few?
+     Second, logrolling sets in and leads to over-decentralization. Land-
+     owners from every quarter of town compete in city councils for their share
+     of unearned wealth. An efficient city calls for neighborhood differentia-
+ tion and specialization, with much heavier public spending and higher
+ rents in some areas than others. If rent were taxed, winning landowners
+1 would compensate losers through the tax mechanism. As it is not taxed,
+ winners compensate losers in another coin: more public works. You vote
+ for my project and I'll support yours, regardless of merit—it is an old
+     familiar tale at every level of government.
+     • Third, unearned enrichment discredits wealth and property. Instead of
+     being a mark of distinction, a symbol of productivity and service, wealth
+     symbolizes predation, dependency, and corruption. Unearned wealth
+     makes for hypocrisy and a mockery of efforts to legitimize property and
+     rationalize capitalism. Parasitic wealth stigmatizes all wealth. The latent
+,is lost between
+     senseof civic community and polity, now so frustrated in American cities,
+                   the avarice of some and the disgust of others. Not to tax
+1.
+    28         The American Journal of Economics and Sociology
+
+    rent, therefore, is to alienate those outside a small circle, and lose a valuable
+    resource of community spirit
+
+    E. Market Impetfections. Because of fixed location and supply of land,
+    the discipline of competition breaks down easily in the land market.
+    Chamberlin (1933), Ise (1940), Hotelling (1929), Hoover (1937) and
+    others have theorized about monopoly elements in urban rent, based on
+    spatial differentiation of sellers of services from land. Curiously, no one
+    has done anything comparable on the much more serious problem of land
+    assembly. Here is bilateral monopoly, secrecy, holdout power, preemption,
+    hoarding, and every nightmare imaginable in trying to make competition
+    work.
+      The response of land buyers to anticipated assembly problems is, as one
+    might expect, to hoard land for future expansion. This is not self-correct-
+    ing but self-reinforcing. Buttressed as it is by all the favors to land
+    appreciation noted above, it is a formidable factor.
+      In a well-oiled market there is pooling of reserves, greatly deflating
+    aggregate needs. In the land market there is little pooling. Everyone
+    must have his own. It is a pattern of vertical integration of firms, with
+    corresponding disintegration of the market pool of land reserves. Indus-
+    tries hold great reserves, of course Homeowners do too— it is nice to
+    have an extra side yard for a possible future wing, and additions to homes
+    are in fact common Shopping centers take more land than they really
+    need for parking, for future additions; and if they can sterilize potentially
+    competitive locations by preempting a few key parcels, why not? Public
+    buyers enter to legitimize the whole process, and few private buyers can
+4   match the hoarding neurosis ("foresight") of park commissions and school
+    boards
+        Another problem is that of the landowners' waiting for greater certainty
+    The certainty is to be bestowed by his neighbors when they commit them-
+     selves to a use The waiter, however, is not producing certainty by waiting
+     He imposes uncertainty on his neighbors by not committing himself The
+     stalemate that sometimes results is far from soaally optimal Something
+     like this has been popularized recently under the name "The Prisoners'
+4    Dilemma," and turned into a game
+        In such a market, a powerful lubricant is essential if there is to be any
+     semblance of an optimal competitive outcome Taxing rent serves the
+     function, ever so much better than games between economists pretending
+     they are prisoners It loosens everyone's hold on land, especially land
+     with monopoly potential (and hence higher assessed value) Releasing
+
+
+
+V
+                    Land Rent, Taxation and Public Policy                    29
+
+    land to commerce is also self-reinforcing, this time constructively. When
+    land ownership turns over faster and easier, everyone's hoarding propensity
+    relaxes. As to the waiting and certainty problem, synchronized assessment
+    increments over whole neighborhoods give the signal that lets every land-
+    owner know the time is nigh, and lets each one avoid narrow self-suffi-
+    ciency and orient his improvement to the immediate prospect of a total
+    interdependent community, complete with Yellow Pages, rising around
+    him.
+                                         II
+                               HOW TO TAX RENT
+    Wi SAW EARLIER that many local taxes are shifted to rent, and are indirect
+    taxes on rent. So the trick for public policy is not just to tax rent, it is
+    to tx it in such a manner as to exploit the fact that rent may be taxed
+    with benefit rather than damage to economic functions.
+
+    A. Fiscal Leverage vs. Fiscal Profit Sharing. The benefits spring, to re-
+    peat, from imposing a regular cash cost on the landholder, a charge that
+    discourages his ever retaining land in uses whose service flows fail to cover
+    it. To this, many have objected that it is too harsh; that land users prefer
+    risk sharing and profit sharing to leverage. They can point to some volun-
+    tary contracts between private lessor and lessee where rent is a share of
+    profit, or of gross. One could point, on the other hand, to ordinary mort-
+    gage terms, with debt service in excess of land rent, which apply more
+    leverage than mere cash rent would. But there are reasons why govern-
+    ment should apply more leverage than a private landlord does to his lessees
+      One, government possesses a power to allow for exogenous risks, a
+    power not generally available to private landowner lessors, by its assess-
+    ment of land That is if, through no fault of a landowner, land on which
+    he had built should suffer a neighborhood decline, a government taxing
+    rent would share the loss by lowering his land assessment If the fault
+were his, on the other hand, he would suffer it all, for there would be no
+  general decline of neighborhood values Likewise, he would reap all the
+    gain from his superior management
+- farm rent payments to some index of market changes For urban land,
+      There are a few instances of private contracts tying interest or wage or
+
+    however, there is no device in private contract that ties payment to an an-
+    nual assessment hence recourse to less perfect devices Government
+    alone is in a position to supply maximum incentive leverage while still
+    sharing exogenous risk. Sharing the latter, it can reasonably be much
+    firmer about the former
+
+
+
+I
+    30        The American Journal of Economics and Sociology
+
+-
+      Two, government as representative of the whole community is interested
+    in fostering cumulative spillover benefits from private investments. It
+    wants private investors to complement its public works with matching
+    private works, contining urban sprawl by meeting demand from good
+    central land. It wants to synchronize interlocking private investments and
+    minimize mutual uncertainty in developing areas. It wants to foster dense
+    population around its retail centers, to support them; and retail centers
+    for its population, to serve them and help pay taxes. It wants to unfreeze
+    the whole land market, discourage hoarding, and prevent all the soda!
+    wastes of blocking competition.
+       Three, private risk-sharing contracts presuppose a large guaranteed
+    lessee investment in a building. There is the leverage. Government can
+    not get involved in everyone's private business like that, telling landowhers
+    when to build and how much they must invest. By charging a regular
+    rent tax, regardless, it assures that landowners will raise buildings in good
+    season.
+       A complicating question in rent taxation has always been the treatment
+    of increments to value; and the choice of capital value or current income
+    (realized or "notional") as the tax base.
+      As to the first, taxation of land value increments obviously lacks the
+    good incentive effects of taxing rent. It is avoidable by not selling, and
+    greatly diluted by deferring sale. It puts a hurdle in the way of sale by
+    investor to builder, and• then applies no leverage to the buyer.
+       Capital value as a tax base has been often criticized as overtaxing rising
+    land whose capital value has risen out of proportion to current cash income.
+    Heilbrun (1966, pp. 123—27) has demolished this argument as it deserves
+    (7). The income from rising land indudes appreciation, at the time it
+    accrues. To get at this income, without waiting for sale, a simple tax on
+    capital value suffices (8). To tax current cash income in the lower use is
+    to miss out altogether on taxing the increment. To tax capital value is to
+    have an increment tax, but one that is not diluted by deferral until sale,
+    and does not discourage timely.ownership turnover.
+
+    B. Rent, Spiiovers, and Congestion of Open Facilities. There are two
+    brakes on increasing returns from urban synergism: internal congestion;
+    and external markets. Here we treat the first.
+      Those who fear congestion of open common space and facilities—streets,
+    schools, parks, air and water—rank high among people who oppose letting
+    rent serve its economic function of forcing land to the best use. They
+    regard congestion of common open space as an external diseconomy fmm
+                Land Rent, Taxation and Public Policy                    31
+
+use of private land: where I have stressed synergistic gains, they see net
+losses. They favor taxes on actively using, rather than passively holding
+land, interpreting user taxes on landowners as user charges for open com-
+mon land and facilities. They favor compulsory land-consumption via
+low-density zoning, the better to insulate man from his neighbor, and
+above all to avoid letting immigrants in cheap housing dilute the school
+tax base. They do not share the Horace Mann philosophy of paying a
+social dividend to the poor man's children by taxing the rich man's land
+for public schools.
+   There is no question of the premise that congestion and pollution are
+bad. What to do about it is something else again.
+   One must concede something to each of the points, but not very much,
+for they are based on a number of confusions.
+   Confusion number 1 is not to hold population constant in the analysis.
+That is, intensive land use is implicitly blamed for the birthrate. Land
+economics takes population as given. Its problem is how to deploy people,
+not to sterilize them. Thus, intensive land use near downtown does not
+in itself increase street loads. Rather, it lets a given number of people
+get downtown by walking or riding buses a few blocks rather than driving
+a few miles and parking all day. Which arrangement imposes less burden
+on streets, air, and open space? Which puts more sprawl between the
+city and recreation in the open country?
+   True, the more efficient city then attracts immigrants. But these bring
+added economies of urban scale. The point of urban planning is to
+achieve a maximum of such positive interdependencies with a minimum of
+negative frictions like congestion. To that end, accommodate efficiently
+each given increment of people, and welcome the next. Those who agree
+with William H. Whyte that "open space is not merely the absence of
+something bad; it is a positive good" will be pleased to note that the im-
+migrants to these efficient cities cannot avoid leaving great realms of empty
+open space behind them, which should greatly shorten the Audubon So-
+ciety's list of threatened rare species.
+   Confusion number 2 is to equate intensity of private land use with con-
+gestion of common space. In fact, private buildings transport people ver-
+tically, substituting elevators for horizontal street movement. If we cut
+off the marginal twentieth story of an apartment or office, and relocate the
+floor space ten miles out at the other margin of the city (the horizontal
+one), we would throw a great new load on ten miles of common streets.
+This is no way to decongest- them.
+  Intensive private land use does not mean an absence of park land. Pop.
+32          The American Journal of Economics and Sociology
+
+ulation around parks justifies the public investment in space, in landscap-
+ing and furnishing it. Putting private land to work meeting the legitimate
+space demand for homes, work, and market relieves the pressure to invade
+park land. Central' city park sites become dearer, it is true. But if urban
+sprawl were contained by intensive central development, fringe lands now
+eyed by subdividers would revert to low values and open recreational use.
+  Confusion number 3 is to overlook the factor of age and quality of
+buildings. Taxes on buildings and low-density zoning are. thought to
+screen out marginal buildings and their inhabitants. But they screen in
+buildings that become marginal by virtue of senility.
+  Confusion number 4 is to conceive of congestion in short run terms.
+An overloaded sewer, for example, is a sign of short run increasing costs,
+but not long run. It is a signal to replace the mains with larger ones,
+achieving in the process great economies of scale. Car-choked streets man-
+ifest increasing social cost of cars, but not of transport. They are a signal
+to tax cars and promote mass transit, again achieving economies of scale.
+Crowded schools do not reflect overpopulation but inadequate schools, and
+failure to take advantage of Conant's Law of increasing returns to scale
+of schooL
+   There is such a thing as true congestion. There comes a scale of city
+so large and central density so high that an absolute space limit is ap-
+proached. The "linkage sector" of the city (transport and utilities) moves
+into the stage of long run increasing costs. In this extremity the optimal
+solution is not to abandon the principle of taxing rent, but to extend it to
+the linkage sector, which now yields rents, too. In this case the object of
+the charge is to limit use and space-consumption in the linkage sector, and
+so it should take the form of a user charge.
+  Use of unfenced open space without tenure protection is temporary
+tenure of the space. So a "use" tax on open space is analogous to a flat
+tax on the rent of land in formal private tenure. It is not analogous to a
+tax on the use of private land, but exactly the reverse. To tax the use of
+private land is to untax the non-use of it. This lets owners hold the space
+without charge, which is analogous to letting them "use" public space free.
+  The optimal user. charge would be selective, hitting and screening out
+congesting and polluting uses, reserving limited downtown street space for
+for higher and less congesting uses. With such a concept in hand, and
+someone like Professor William Vickrey or James Nelson to administer it,
+there might indeed be no limit on the optimal size of a city. May we be
+so lucky as to find out soon! Meantime we already observe progress in
+this direction on many fronts, from parking meters to pollution police.
+                      Land Rent, Taxation and Public Policy                   33
+
+        Confusion number 5 would be to think of school congestion as a space
+     problem. It is a problem of finance and distributi'e equity. The solution,
+     I am sure, is to support schools in part by state or federal aids based on
+     population or attendance. Redistributing wealth and paying social divi-
+     dends are not functions we can realistically expect of local government in a
+     mobile age.
+
+     C. Intergovernmental Relations. The second brake on increasing returns
+     from urban synergism is the external market. Many cities fear growth
+     because they think their market is limited.
+       If a private firm reasoned that way, economists would identify it as a
+     monopoly and evaluate the attitude accordingly. To cities we give more
+     rope: they represent the public. But what "public?" Only the land-
+     owners of the city. They are all too happy to exploit other "publics" in the
+     old Hanseatic tradition documented by Schmoller (1884).
+        Central government represents the larger public. Its interest is to apply
+     more positive leverage to cities than they might apply to themselves, to
+     counter any monopoly restriction or stodginess. One such kind of leverage
+     I have already mentioned, the payment of school subventions based on
+     population. Legislative reapportionment based on population affords
+     another growth motive, praises be to Baker vs. Carr.
+        A third kind might be a state tax on rent, as now proposed in Oregon
+     by Dean Lindholm. State government finances many of the public works
+     that generate urban rent. It has a legitimate interest in being recompensed.
+     It stands toward cities much as they stand toward private individual land-
+     owners. The state spends to give the city opportunities. Many cities
+     fail to respond with spending on local feeders and network lines to match
+     the state's trunks. The state needs to apply tax leverage.
+        It has the institutional power. State taxation of real estate is not dead,
+     it is alive and well in Nebraska, and merely quiescent in other states.
+     Anglo-Saxon-Norman law makes no bones about the ultimate underlying
+     eminent domain of the state over all land. Some creative economist needs
+     to propose a specific formula for sharing rents between state and city. The
+     important thing is the general purpose: collect state-created rents to prompt
+     cities to spend to generate more rents. In sharing these new rents between
+     state and city, both can afford to be generous. Synergism yields a corn-
+:
+T
+     fortable surplus for the city. As for the state's tax base, Adam Smith noted
+     196 years ago that the "Commerce of the Towns Contributed to the mi-
+     provement of the Country" (1776, Book III, ch. 4).
+;.      Thestatehasthemoralauthoritytotaxrent. Inthepast,manypeople
+                                                                                              I
+
+
+34           The American Journal of Economics and Sociology
+
+shied away from 'conflscatory" taxation. But now that question is obso-
+lete. We already have confiscatory taxation. The only question is what
+shall we confiscate? fs it land that belongs to the state, or people? That
+is the alternative. We have gone a long way towards socializing people
+in this century. We draft young men and we tax human talent, in Toyn-
+bee's words, as though the talented ones had committed some pre-natal
+crime against humanity; and we take a regressive payroll tax from every
+worker. Every bit of rent we confiscate now lets us un-confiscate that
+much of ourselves as huimin beings.
+Resource: for the Future, Inc.
+Washington, D.C. 20036
+
+
+     1. Algebraically, P =
+
+        Carrying cost    (i + t)P = (i + t)        =a
+     For derivation and elaboration see Mason Gaffney (1962).
+    2. A building of 40-year life, and initial cost of 1, depreciates in a straight line at
+21/2 per cent yearly. Mean capital investment over life is 1/2. Interest at 1 per cent
+on is 2 '/ per cent.
+    For more precision one would elaborate from empirical data on depreciation patterns
+on the following lines. Mean yearly depreciation is I/L, where L is life. The level cash
+or service flow of an asset whose present value is one is —        , where I is interest
+                                                                (11+ •)
+rate. The share of this level flow that is depreciation is:
+                                      1
+                                     L        = 1_(1+iyL
+                                 ______              Li
+                                 l_(l+i)L
+IfL=4Oandi=.05,theshareis"14
+                     40 x .01
+                              .43.
+     If the service flow is not level but declining (the normal pattern) then the deprecia-
+tion share is larger.
+    3 For an elaboration of these points see Mason Gaffney (1961)
+    4. For example, if capital turns in 4 years, added yearly volume is 214+14 =304.
+    S. A particularly conspicuous landowner to receive this advice from many prominent
+economists is the U.S. Government. Economists who advise citing public works on
+public lands so as to maximize the "Benefit: Cost Ratio" usually assign no cost to the
+public land, even though it may be a scarce and valuable damsite. Thus they are advising
+against intensity great enough to equate marginal product and marginal cost of non-land
+inputs. The practical error is often compensated by understating non-land costs, especially
+interest. But the analytical error is no less glaring and mischievous in its overall con-
+fusing effect on the minds of economists.
+   6. An effort to sum them up has been made by Mason Gaffney (1969, 1967b).
+   7. For mathematical treatments see Gaffney (1967b, pp. 308—13 and 321—22) and
+(1969).
+   8. The tax is a fixed percentage of the capital value. So, in equilibrium, is the yearly
+appreciation. Therefore the tax is a fixed percentage of the appreciation.
+

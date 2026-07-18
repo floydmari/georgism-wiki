@@ -13,8 +13,57 @@ gaffney-excess-burden-shiftable-taxes, gaffney-philosophy-of-public-finance,
 gaffney-alaska-oil-leasing, gaffney-land-market-distortions, gaffney-california-severance-tax,
 gaffney-financial-maturity-timber, gaffney-forest-taxation, gaffney-soil-depletion-land-rent,
 gaffney-capital-gains-free-enterprise, gaffney-montana-land-policy,
-gaffney-rising-inequality-farm-property-tax;
+gaffney-rising-inequality-farm-property-tax, gaffney-urban-land-rent;
 narratives/the-corruption-of-economics; people/mason-gaffney.
+
+**2026-07-18 (urban-land-rent pair, T2 wave):** `E11-LandRentTaxation&PublicPolicy-
+SourcesUrbanLandRent.CV.pdf` ("The Sources, Nature and Functions of Urban Land
+Rent," *AJES* 31(3), July 1972) and `E12-...-TaxationUrbanLandRent.CV.pdf`
+("Taxation and the Functions of Urban Land Rent," *AJES* 32(1), January 1973)
+read as a pair and merged into one page,
+[research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/) — they are
+Parts I and II of a single argument based on a 1968 Regional Science
+Association talk, not two independent works. **Mirror/encoding note (repeat of
+the D1 problem):** both filenames contain a literal ampersand; the local mirror
+at `scratchpad/cache/gaffney-mirror/publications/` held cached 404 HTML pages
+for both (236 bytes each, `<title>404 Not Found</title>`) rather than the PDFs.
+Worked around by fetching directly from masongaffney.org with the ampersand
+percent-encoded (`%26`) in the request URL — confirms this is a general fix for
+every `&`-bearing masongaffney.org filename, not a one-off for D1. Both PDFs
+carry native, `pdftotext`-extractable text layers (no OCR needed), though the
+text layer itself shows scanning-era OCR noise (e.g. "GPNEY" for "Gaffney,"
+"dassical" for "classical") — quotes were checked against surrounding context
+before use. E11 (18pp, ~8,000 words) derives a tripartite typology of urban
+rent sources (natural features, public spending, "synergism") and argues rent
+only *rations* land, never *elicits* its own supply. E12 (18pp, ~8,150 words)
+argues five mechanisms by which taxing rent (not income/buildings) lets it
+perform that function, the most developed being a credit-discrimination
+"strong hands vs. weak hands" argument with a worked numerical leverage
+example — the earlier (1972-73), fuller original of the mechanism Gaffney
+restated in condensed form in the already-wired 1994 [Land as a Distinctive
+Factor](/wiki/gaffney-land-distinctive-factor/) essay (there, B-8/B-9). Also
+notable: an informal, pre-Stiglitz (1977) statement of the Henry George
+Theorem's capitalization mechanism ("conservation of economic energy" /
+explicit tax-capitalization arithmetic crediting Jensen 1931), and a
+distinctive political-economy argument — untaxed rent biases public spending
+toward **logrolling** — absent from the 1994 essay. Graded **Core** (like the
+1994 essay): a first-principles, ~16,000-word pair developing the wiki's
+central urban-rent-sources and taxation-mechanism arguments at length, not a
+supplementary aside. Wired with surgical, non-duplicative additions (checked
+against the just-expanded Henry George Theorem page and the already-deep
+`benefits/lvt-reduces-sprawl` and `problems/public-investment-capitalizes-into-
+land` evidence pages before adding — all Gaffney material added as attributed
+historical/theoretical context, never as a substitute for the modern
+econometric anchors already wired there): concepts/economic-rent (new
+subsection, the tripartite typology), concepts/land-monopoly (the earlier
+"strong hands" original with its leverage arithmetic, appended to the existing
+Gaffney-1994 paragraph), benefits/lvt-reduces-sprawl and
+problems/public-investment-capitalizes-into-land (both: prose context
+paragraphs, cited but explicitly *not* added to `supported_by` — old advocacy
+theory does not belong in a ranked empirical-evidence table), and light
+See-Also cross-links from concepts/henry-george-theorem,
+concepts/agglomeration-economies, research/gaffney-synergistic-city, and
+people/mason-gaffney. `lint_wiki.py`: 0 errors.
 
 **2026-07-18 (Alaska Part II backlog resolution):** *Oil and Gas Leasing Policy for
 Alaska* (1977), **Part II: Appendices A–L**, read and mined — the companion volume
@@ -176,8 +225,8 @@ added for D1.
 - [x] `D1Rising_Inequality_&amp;_Falling_Prop_Tax_Rates.CV.pdf` — https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf — [research/gaffney-rising-inequality-farm-property-tax](/wiki/gaffney-rising-inequality-farm-property-tax/), 2026-07-18. Confirmed via C9's bibliography as Chapter 10 in Gene Wunderlich (ed.), *Ownership, Tenure, and Taxation of Agricultural Land* (Westview Press, 1992). The R2-mirrored copy at this literal-ampersand filename is a cached 404 page (0.2KB), not the PDF — the working fetch requires percent-encoding the ampersand (`%26`); archive.progress.org's mirror also 404s on this file. Fetched directly from masongaffney.org this session (native text, 19pp, no OCR).
 - [ ] `D3-BenefitsofFarmPrograms.CV.CV.pdf` — https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf
 - [ ] `E10-Land_Planning_and_the_Property_Tax_AIP.pdf` — https://masongaffney.org/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf
-- [ ] `E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf
-- [ ] `E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf
+- [x] `E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E11-LandRentTaxation&amp;PublicPolicy-SourcesUrbanLandRent.CV.pdf — [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/), 2026-07-18 (Part I; merged with E12). Confirmed via masongaffney.org as *American Journal of Economics and Sociology* 31(3): 241-258 (July 1972). Same literal-ampersand mirror-404 problem as D1; fetched directly from masongaffney.org with `%26` percent-encoding.
+- [x] `E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf` — https://masongaffney.org/publications/E12-LandRentTaxation&amp;PublicPolicy-TaxationUrbanLandRent.CV.pdf — [research/gaffney-urban-land-rent](/wiki/gaffney-urban-land-rent/), 2026-07-18 (Part II; merged with E11). Confirmed via masongaffney.org as *AJES* 32(1): 17-34 (January 1973). Same mirror/encoding workaround as E11/D1.
 - [ ] `E13Changes_in_Land_Policy.CV.pdf` — https://masongaffney.org/publications/E13Changes_in_Land_Policy.CV.pdf
 - [ ] `E14Synergistic_City.CV.pdf` — https://masongaffney.org/publications/E14Synergistic_City.CV.pdf
 - [ ] `E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf` — https://masongaffney.org/publications/E15-ReviewHeilbrunRealEstateTaxes&amp;UrbanHousing.CV.pdf
