@@ -1,16 +1,16 @@
 ---
-title: "Equal Land Share"
-category: concepts
-tags: [concepts, citizens-dividend, land-value-tax, predistribution, equal-land-share]
-stub: false
-excerpt: "A predistributive formulation of Georgist rent-sharing: set each citizen's equal per-capita share of national land value as a threshold — those holding less receive payments in proportion, those holding more pay in. One straight-line schedule, no separate tax and dividend."
+title: "Groundshare — the Equal Land Share proposal"
+status: draft — private development workspace, NOT a wiki page, do not sync to Ghost
 last_reviewed: 2026-07-17
 ---
 
-> **Status: proposal under development.** This page formulates and analyzes a scheme
-> proposed by [Floyd Marinescu](/wiki/floyd-marinescu/) (2026). Its components are each
-> well-attested in the literature cited below; the combined single-instrument
-> formulation does not appear as a named proposal in the corpus this wiki has surveyed.
+> **Status: proposal under active development** by Floyd Marinescu with Claude, in the
+> `groundshare/` workspace of this repo. Not published to the wiki. The movement name
+> **Groundshare** was coined by Sean Platt (MMT Nemacolin, 2026-04-23/24), evolving
+> Floyd's earlier "earth-sharing" framing; companion tagline **"natural equity."**
+> The mechanism's components are each well-attested in the literature cited below;
+> the combined single-instrument formulation does not appear as a named proposal in
+> the corpus the wiki has surveyed.
 
 ## Definition
 
@@ -76,9 +76,9 @@ land-value-tax credit design uses the same netting logic at municipal scale — 
 credit guarantees no overall increase for below-break-even homeowners rather than
 routing both flows separately (City of Detroit 2023). (D-claim; design analysis.)
 
-![The equal-land-share payment schedule — one straight line through the per-capita threshold](/docs/figures/equal-land-share-schedule.svg)
+![The equal-land-share payment schedule — one straight line through the per-capita threshold](site/schedule.svg)
 
-![Net annual transfer by land-wealth decile — most deciles receive; the top decile pays most](/docs/figures/equal-land-share-deciles.svg)
+![Net annual transfer by land-wealth decile — most deciles receive; the top decile pays most](site/deciles.svg)
 
 *Both figures use illustrative round numbers (V̄ = $100,000 per citizen, r = 5%) and
 an illustrative right-skewed decile distribution; they are not estimates for any
@@ -134,6 +134,51 @@ one's share is transferred, and the private return to holding land above one's
 share — the speculative motive — is eliminated. Presenting the scheme as
 "threshold plus proportion" moves the rate out of the moral foreground, but the
 parameter remains, and assessments must be maintained exactly as under an LVT.
+
+## What Would the Equal Share Be Worth in Canada?
+
+First-pass estimate, built from the numbers already verified in the wiki's
+[Common Wealth Canada research page](/wiki/natural-common-wealth-economic-rent-canada/)
+(all figures verified there against the primary PDFs):
+
+**The base.** Statistics Canada's National Balance Sheet Accounts (Table
+36-10-0580-01) put Canada's total land value at roughly **$5.8 trillion (2022)**
+(the July 2023 CWC revision's StatCan measurement; the January 2023 version used
+$6.4T). Land rent at CWC's long-term 5.5% capitalization rate: **≈ $320 billion/year**.
+
+**The equal share.** Two design choices give two thresholds:
+
+| Design | Population base | Equal share V̄ | Max annual receipt (landless person, r = 5.5%) |
+|---|---|---|---|
+| Per resident (incl. children) | ≈ 40 million (2022–23) | **≈ $145,000** | **≈ $8,000/yr** |
+| Per adult | 26.6 million (CWC's 2022 figure) | **≈ $219,000** | **≈ $12,000/yr** |
+
+**Worked examples (per-resident design, r = 5.5%):**
+- A renter family of four holds $0 of land against a combined threshold of ≈ $580,000 → receives **≈ $32,000/yr**.
+- A homeowner family of four whose home sits on $250,000 of land value → receives **≈ $18,000/yr**.
+- A holder of $1M of land value (single person) → pays **≈ $47,000/yr** (5.5% of the $855k excess).
+
+**Method sensitivity (state it up front).** CWC's own two editions bracket the range:
+the January 2023 growth-proxy method (8.32%/yr of $6.4T) implies annual land rent of
+≈ $534B — roughly **$13,000/yr per resident** at full settlement — while the July 2023
+capitalization-rate method gives the ≈ $320B / **$8,000/yr** figure above. The publisher
+cut its own headline by ~46% between editions; any Groundshare claim should quote the
+conservative figure and show the range. Both use 2022 data; a loop task is to refresh
+against the latest StatCan release and to add a distributional cut (who holds how much
+land, by decile) from SFS microdata rather than the illustrative distribution used in
+the figures.
+
+## The Name
+
+**Groundshare** (Sean Platt, MMT Nemacolin 2026): "ground-rents → ground-share —
+share the ground-rents" roots the name in Adam Smith's vocabulary rather than in
+Henry George's surname. Sean's framing: the word "sounds like an idea instead of a
+policy," conjures shared town-square ground rather than taxation, and pairs with
+**"natural equity"** — what you create is private equity; what nature provides is
+natural equity, shared by all. Names considered and set aside: Groundright,
+Earthright, Natural Equity (kept as tagline), earth-sharing (original).
+"Equal Land Share" remains the *mechanism's* descriptive name inside the proposal;
+Groundshare is the movement and brand.
 
 ## Honest Limits
 
