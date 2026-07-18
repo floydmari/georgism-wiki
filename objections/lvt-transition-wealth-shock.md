@@ -5,7 +5,8 @@ tags: [objections, transition, capitalization, fairness, critique]
 stub: false
 status: "Addressed — a real, one-time transition cost managed by phase-in; the depth of the shock turns on capitalization, which is itself empirically contested (opposing Danish quasi-experiments)"
 excerpt: "Introducing LVT capitalizes into an immediate fall in land prices, hitting current owners who bought at untaxed prices — how a phased transition addresses it, and why the size of the shock is contested."
-last_reviewed: 2026-07-13
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -21,6 +22,42 @@ The transition cost is **real** but **manageable**, and distinct from the steady
 3. **Pair with cuts to other taxes.** Funding income- or sales-tax reductions with the LVT cushions owners who are also workers and consumers (the [ATCOR](/wiki/atcor/) logic).
 4. **Deferral and compensation options** exist for hardship cases (see [asset-rich/cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/)); some proposals even compensate existing owners during transition.
 5. **The full-capitalization premise — the depth of the shock — is itself contested.** The objection assumes the future tax lands entirely and immediately on today's owners. But a Danish quasi-experiment by [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) estimates a "precise zero effect of land taxes on residential home prices," explicitly ruling out full capitalization and implying the burden is "shared with tenants and future purchasers" rather than falling wholly on the transition generation. That sits in direct tension with the [Danish Economic Councils' full-capitalization finding](/wiki/dors-land-taxes-housing-prices/) above — two quasi-experiments in the same country reaching opposite conclusions — so the *size* of the one-time shock is an open empirical question, not a settled worst case.
+
+## George's Own (Harder) Line on Compensation
+
+The phase-in and deferral answers above are modern Georgist accommodations; George's
+own position in *Progress and Poverty* was considerably less conciliatory, and an
+honest page should say so. Addressing proposals current among British land reformers of
+his day to compensate landowners for lost rent — whether by outright purchase or
+[John Stuart Mill](/wiki/john-stuart-mill/)'s more modest plan to nationalize only
+future increments — George rejected compensation as a matter of principle, not merely
+of cost:
+
+> "They will not trouble themselves about compensating the proprietors of land... Nor
+> is it right that there should be any concern about the proprietors of land."
+> (*Progress and Poverty*, Book VII, Ch. III)[4]
+
+He drew the analogy directly to abolition: "The anti-slavery movement in the United
+States commenced with talk of compensating owners, but when four millions of slaves
+were emancipated, the owners got no compensation, nor did they clamor for any" (Book
+VII, Ch. III)[4] — treating the landowner's claim as no stronger, in justice, than the
+slaveholder's had been, on the ground that private property in land was never a
+rightful title to begin with (Book VII, Ch. I). He did concede one thing to current
+possessors: "Let the land owners retain their improvements and personal property in
+secure possession" (Book VII, Ch. III)[4] — the land *value*, not the buildings or
+capital upon it, is what he proposed to take.
+
+This matters for the objection because it shows the "manageable one-time cost" framing
+above is a *later, softer* Georgist position, not George's own. The modern case for
+phase-in, deferral, and partial compensation is a practical and political
+accommodation — plausibly a wiser one, given how politically explosive the objection
+notes the shock to be — but it should not be presented as continuous with George's own
+argument, which held that current owners have no just claim to compensation for a value
+he considered them never to have rightfully owned. A reader weighing the objection
+should know both positions exist within the Georgist tradition: George's hard
+no-compensation line, grounded in the injustice-of-title argument of Book VII, and the
+modern phase-in consensus, grounded in transition-era political and administrative
+pragmatism.
 
 ## Limits and Caveats
 
@@ -43,3 +80,4 @@ The transition is the **strongest practical obstacle** to LVT and the main reaso
 1. Discussion of capitalisation and transition in [Dye & England (2010)](/wiki/dye-england-assessing-lvt/), Lincoln Institute — used for the mechanism by which an LVT capitalises into a one-time fall in land prices borne by current owners.
 2. Lars Doucet, *Does Georgism Work?* — transition discussion. [wiki summary](/wiki/doucet-does-georgism-work/) — used for the phase-in and grandfathering options that soften the transition shock.
 3. Ulf Nielsson, Caleb Wroblewski & Anders Yding (2024), "The Incidence and Efficiency of Land Value Taxation," working paper — [wiki summary](/wiki/nielsson-wroblewski-yding-danish-lvt/) — used for the precise-zero capitalization estimate and the "shared with tenants and future purchasers" incidence reading that bounds the size of the transition shock (quotes verbatim from the abstract). Working paper, not yet peer-reviewed.
+4. Henry George, *Progress and Poverty*, 1879, Book VII, Ch. III ("Claim of Land Owners to Compensation"). Verified verbatim against the [wiki's full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for George's own uncompromising rejection of landowner compensation, his abolition analogy, and his concession that only improvements (not land value) would remain with current owners (D-claim; quotations from a public-domain work, EDITORIAL §3b).

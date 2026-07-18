@@ -5,7 +5,8 @@ tags: [objections, land-nationalization, public-ownership, socialism, land-value
 stub: false
 status: "Partly addressed for the specific cases examined — Yugoslav, Israeli, and Swedish public land ownership did not, on Harrison's account, stop land-value inflation or private capture of rent — but this rests on a small, one-author comparative set, not a systematic survey of all public-ownership regimes."
 excerpt: "If the state simply owns all land, do speculation and unearned rent disappear without needing a land value tax? Comparative cases from Yugoslavia, Israel, and Sweden suggest ownership form alone is not enough — rent still has to be priced and collected."
-last_reviewed: 2026-07-13
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -25,6 +26,46 @@ If public ownership alone solved the land problem, it would make the entire Geor
 - **Sweden.** Stockholm operated one of Western Europe's largest municipal land banks, acquiring land ahead of development and leasing rather than selling it. Harrison, drawing on Ann Strong's 1979 study of European land banking, argues the program still failed to neutralize the land-value cycle (Ch. 14, pp. 187–190).
 
 Independent academic research on the Stockholm case is broadly consistent with that conclusion. A. D. Ratzka's 1981 evaluation of Stockholm's municipal leasehold system, covering 1910–1970, found that while the city's land bank earned a positive return overall, ground rents were set below market rates and land-value increments "mainly benefit[ed]" private leaseholders rather than the public purse — public title to the land did not by itself capture the rent it generated.[2]
+
+## George's Own Argument Against Nationalization by Purchase (1879)
+
+Harrison's cases test one version of "nationalize instead" — the state *becomes* the
+landlord and rent still goes uncaptured. George anticipated a related but distinct
+version of the objection nearly a century earlier: the proposal, current among British
+land reformers of his own day, "that the government shall purchase at its market price
+the individual proprietorship of the land of the country" (*Progress and Poverty*,
+Book VI, Ch. I) — nationalization *with* compensation. He rejected it not merely as
+impractical but because compensated purchase would, in his analysis, reproduce the very
+problem it claimed to solve:
+
+> "To buy up individual property rights would merely be to give the land holders in
+> another form a claim of the same kind and amount that their possession of land now
+> gives them; it would be to raise for them by taxation the same proportion of the
+> earnings of labor and capital that they are now enabled to appropriate in rent."
+> (*Progress and Poverty*, Book VII, Ch. III)[3]
+
+Because market land prices already capitalize the *expectation* of future rent
+increases, George argued a state that bought land at market rates and financed the
+purchase through borrowing would end up transferring more to landowners than they
+currently collect in rent, not less: "it would be, virtually, the state taking a
+perpetual lease from the present land holders at a considerable advance in rent over
+what they now receive" (Book VII, Ch. III).[3] He reserved particular criticism for
+John Stuart Mill's more modest compromise — nationalizing only the *future* increase in
+land value while leaving present value and current rent untouched — arguing it "would
+not add to the injustice of the present distribution of wealth, but... would not remedy
+it" (Book VII, Ch. III).[3]
+
+George's own conclusion was that formal nationalization — transferring legal title to
+the state — was neither necessary nor, in its compensated form, effective: what
+mattered was capturing the rent, not who held the deed. Anticipating land reformers who
+called for the state to "buy out the landlords" (Book VI, Ch. I), he predicted that a
+public aroused enough to nationalize land outright "will not trouble themselves about
+compensating the proprietors of land" and would act instead "in a much more direct and
+easy way than by purchase" (Book VI, Ch. I)[3] — that is, by taxing the rent while
+leaving title in private hands. This is the primary-source root of the modern Georgist
+position this page defends: the operative variable is whether rent is priced and
+collected, not whether the state holds formal title — the same conclusion Harrison's
+Yugoslavia, Israel, and Sweden cases reach empirically over a century later.
 
 ## Limits and Caveats
 
@@ -49,3 +90,4 @@ The evidence assembled here supports a narrower claim than "socialism or nationa
 
 1. Fred Harrison (1983), *The Power in the Land: An Inquiry into Unemployment, the Profits Crisis and Land Speculation*, Ch. 13–14, pp. 175–190 — discovery source and primary basis for the Yugoslavia, Israel, and Sweden case summaries, via the wiki's research summary of the book. [Publisher page](https://shepheardwalwyn.com/product/the-power-in-the-land/)
 2. A. D. Ratzka (1981), "Land Banking in Stockholm: An Evaluation of Municipal Residential Leasehold as a Public Finance and Housing Subsidy Instrument," *Journal of the American Planning Association* 47(3), pp. 279–288 — used as independent, web-verified corroboration that Stockholm's municipal land bank did not fully capture land-value increments for the public. [Taylor & Francis abstract / DOI](https://www.tandfonline.com/doi/abs/10.1080/01944368108976510)
+3. Henry George, *Progress and Poverty*, 1879, Book VI, Ch. I ("Insufficiency of Remedies Currently Advocated," §VI "From a More General Distribution of Land") and Book VII, Ch. III ("Claim of Land Owners to Compensation"). Verified verbatim against the [wiki's full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for George's own primary-source rejection of nationalization-by-purchase, his critique of Mill's future-increment plan, and his argument that capturing rent (not holding title) is the operative mechanism (D-claim; quotations from a public-domain work, EDITORIAL §3b).

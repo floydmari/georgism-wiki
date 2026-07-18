@@ -8,7 +8,8 @@ narrative_type: economic
 supported_by: [lvt-dampens-land-speculation]
 related_people: [henry-george, fred-harrison, fred-foldvary, akhil-patel, mason-gaffney]
 related_places: [estonia]
-last_reviewed: 2026-07-10
+pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 *This page covers the persuasive claim that land speculation drives the business cycle.
@@ -68,6 +69,42 @@ rather than merely regulating the credit that finances it.
   1982 working notes, "[Causes of Downturns](/wiki/gaffney-causes-of-downturns/)" — a fact
   that supports reading the synthesis as a recognized line of Georgist thinking rather than
   a single scholar's one-off argument.[17]
+
+## George's Own Statement of the Mechanism (Book V, Ch. I)
+
+The citation to Book V above has so far paraphrased George's argument rather than
+quoting it. The primary text (public domain; the 50-word quote cap is waived per
+EDITORIAL §3b) states the causal claim and its resolution more precisely than any
+secondary summary:
+
+> "A consideration of the manner in which the speculative advance in land values cuts
+> down the earnings of labor and capital and checks production leads, I think,
+> irresistibly to the conclusion that this is the main cause of those periodical
+> industrial depressions to which every civilized country, and all civilized countries
+> together, seem increasingly liable." (*Progress and Poverty*, Book V, Ch. I)[1]
+
+George explicitly names this the *primary*, not the sole, cause — a concession worth
+crediting to George himself rather than treating as a modern qualification. He lists
+"the growing complexity and interdependence of the machinery of production," currencies
+that "contract when most needed," volatile commercial credit, and protective tariffs as
+contributing "proximate causes" that "undoubtedly bear important part in producing and
+continuing" hard times, before concluding "the great initiatory cause is to be looked
+for in the speculative advance of land values" (Book V, Ch. I).[1]
+
+George also gives the mechanism a built-in resolution — a depression ends only when one
+of three things happens:
+
+> "The period of depression thus ensuing would continue until (1) the speculative
+> advance in rents had been lost; or (2) the increase in the efficiency of labor, owing
+> to the growth of population and the progress of improvement, had enabled the normal
+> rent line to overtake the speculative rent line; or (3) labor and capital had become
+> reconciled to engaging in production for smaller returns." (*Progress and Poverty*,
+> Book V, Ch. I)[1]
+
+This three-way resolution is the textual root of the "boom, bust, re-equilibration"
+cycle this narrative describes — and it is explicitly non-periodic: nowhere in this
+chapter does George commit to a fixed interval between cycles, which bears directly on
+the "lead with the mechanism, not the number" deployment guidance below.
 
 ## Research That Supports It
 
@@ -337,11 +374,15 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 
 ## Sources
 
-1. Henry George, *Progress and Poverty*, 1879, Book V ("The Problem Solved") and the
-   full subtitle's reference to "industrial depressions."
-   [Full text (Project Gutenberg)](https://www.gutenberg.org/ebooks/55308) — used for
-   George's original theory that speculative land withholding causes depressions
-   (C-claim).
+1. Henry George, *Progress and Poverty*, 1879, Book V, Ch. I ("The Primary Cause of
+   Recurring Paroxysms of Industrial Depression") and the full subtitle's reference to
+   "industrial depressions." Verified verbatim against the
+   [wiki's full text](/wiki/progress-and-poverty-full-text/)
+   ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for
+   George's original theory that speculative land withholding causes depressions, the
+   direct quotation of the causal mechanism, his own concession that land speculation is
+   the *primary* rather than sole cause, and the three-way resolution of a depression
+   (C-claim; quotations from a public-domain work, EDITORIAL §3b).
 2. Fred Harrison, *The Power in the Land*, Shepheard-Walwyn, 1983; on Hoyt's Chicago data
    see also Harrison, "The Hoyt Heist," reprinted at
    [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
