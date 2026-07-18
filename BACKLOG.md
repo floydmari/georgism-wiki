@@ -303,13 +303,26 @@ provenance — do not re-plan.]**
       split-rate-taxation (322→632), 1909-peoples-budget (355→673). ~400 pages from later
       cohorts still remain for future recurring batches; over-cap quote trimming untouched
       this round.
-- [~] [EXPAND] tier:T2 status:in-progress — cohesion items from the 2026-07-04 audit:
+- [x] [EXPAND] tier:T2 status:done (2026-07-18) — cohesion items from the 2026-07-04 audit:
       BC/Vancouver scope split is DONE (executed in the 2026-07-11 addendum wave —
       british-columbia.md carries province/SVT context, vancouver.md carries city
       history/EHT, each cross-linking to the other for its complementary scope;
-      re-confirmed live 2026-07-18 while checking the SVT rates above). Remaining open:
-      terminology normalization pass (citizen's dividend / 18-year cycle / single-tax
-      variants) — not touched this session.
+      re-confirmed live 2026-07-18 while checking the SVT rates above). **Terminology
+      normalization pass shipped 2026-07-18** (wave "cohesion terminology-normalization
+      pass"): wiki-wide grep audit of citizen's dividend / 18-year cycle / single-tax
+      variants against the house style already ruled in EDITORIAL.md §Terminology
+      (2026-07-11) found the corpus already ~98% compliant. 10 mechanical fixes across
+      8 files: 5 stray "Citizen's Dividend" mid-sentence capitals (concepts/benefits.md,
+      3x in sources/books/summaries/land-is-a-big-deal-research-summary.md,
+      books/land-is-a-big-deal.md) normalized to lowercase; 5 single-tax casing/hyphenation
+      fixes (places/denmark.md, research/doucet-does-georgism-work.md x2,
+      organizations/commonwealth-land-party.md, people/william-s-uren.md, one summary
+      table cell). 18-year cycle family needed zero content fixes — 18.6-year is already
+      correctly gated to Anderson-attributed claims throughout, with explicit sourcing
+      caveats already in place. EDITORIAL.md §Terminology extended with the audit findings
+      and the "18-year land cycle" vs "property cycle" distinction so future waves don't
+      re-litigate. Lint: 0 errors, 31 warnings (unchanged from baseline). This item is
+      now fully closed — both halves done.
 - [x] [EXPAND] tier:T3 status:done (2026-07-18) — stub-queue leftovers, wave "stub-queue
       leftovers (3 backfills created, 4 honest skips)": all three NAMED candidates
       (concepts/sector-model, margin-of-production, progress-and-poverty-institute) turned

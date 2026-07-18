@@ -216,7 +216,7 @@ Converting selling values to annual land rents using cap rates of 5–8%:
 ### 5.10 Citizen's Dividend Calculation (Ch. 17)
 
 Using the most pessimistic land rent figure ($1.2T/year) split among ~209M US adults over 18:
-- Any property worth less than ~$230,000 → net positive under LVT + Citizen's Dividend
+- Any property worth less than ~$230,000 → net positive under LVT + citizen's dividend
 - With two adults in household → break-even at ~$500,000 property value
 - "This is not a recipe for bankrupting the middle class." (Ch. 17)
 
@@ -342,7 +342,7 @@ Doucet's policy agenda, drawn from the book's conclusions:
 1. **Implement LVT at the highest practical rate** (~85% suggested as realistic target; partial LVT yields partial benefits)
 2. **Abolish taxes on improvements** — remove the portion of property tax falling on buildings
 3. **Replace inefficient taxes** — shift from income, sales, and capital taxes toward land rents (per ATCOR, this is revenue-neutral or revenue-positive)
-4. **Distribute a Citizen's Dividend (UBI)** — return excess land rent revenue equally to all citizens; at $1.2T/year, anyone with property under ~$230K benefits
+4. **Distribute a citizen's dividend (UBI)** — return excess land rent revenue equally to all citizens; at $1.2T/year, anyone with property under ~$230K benefits
 5. **Improve assessment accuracy** — even without changing laws, raising assessed land values to true market values effectively increases the hidden LVT in existing property taxes
 6. **Repeal restrictive zoning** — LVT-aligned cities have incentives to allow development; zoning reform and LVT are complementary
 7. **Deferment options for owner-occupiers** — Nate Blair's proposal: allow deferring LVT payments until sale/transfer, with nominal interest, to protect elderly/retired homeowners during transition
@@ -410,7 +410,7 @@ Doucet's policy agenda, drawn from the book's conclusions:
 | **Nicolaus Tideman** | Co-authored "Post-Corona Balanced-Budget Super-Stimulus" (2021); open letter to Gorbachev (1990) |
 | **Michael Hudson** | Critique of Federal Reserve land value methodology; bank credit drives housing prices |
 | **Matthew Rognlie** | Piketty's "capital" returns are almost entirely housing (2015) |
-| **William F. Buckley Jr.** | Self-identified Georgist and Single-Taxer (2000 C-SPAN interview) |
+| **William F. Buckley Jr.** | Self-identified Georgist and single-taxer (2000 C-SPAN interview) |
 | **Friedrich Hayek** | Allegedly inspired by Georgism to pursue economics |
 | **Karl Marx** | Hostile — called George's ideas "a last-ditch attempt to save capitalist domination" |
 | **Noah Smith** | "Land is underrated as a source of wealth" (2018) |
@@ -429,7 +429,7 @@ This source is relevant to the following wiki topics:
 - **Henry George Theorem** — Ch. 15 explains Stiglitz's contribution
 - **Deadweight loss** — Ch. 10 explains why LVT uniquely avoids deadweight loss
 - **Land assessment** — Part IV surveys modern mass appraisal methods
-- **Universal basic income** — Citizen's Dividend as Georgist policy (Ch. 10, 17)
+- **Universal basic income** — citizen's dividend as Georgist policy (Ch. 10, 17)
 - **Housing affordability** —贯穿 throughout as motivating problem
 
 ---

@@ -36,7 +36,7 @@ Doucet frames Part 1 as a reply to Paul Krugman, whom he quotes conceding the th
 - **Land share of urban property value is high** — his San Francisco "spot check" (a vacant lot vs. an adjacent sold townhouse) yields ~76% land, congruent with the [AEI Land Price Indicators](/wiki/aei-land-price-indicators/) 70.9% county figure for SF (2020).
 - **Land rents cover a sizable share of budgets.** Converting land values to rents at urban cap rates of **5–8%**, Doucet argues even the low Fed/5% estimate is "enough to cover any one of Defense, Social Security, or Medicare + Medicaid, all by itself," while Smith's figure at 8% approaches a federal "Single Tax" (Part 1).
 
-Doucet is explicit that the Single-Tax question turns on which estimate and cap rate one accepts, and that his bullish lines are back-extrapolations "just to set an upper bound" — a caveat that should travel with any citation of the $44T / Single-Tax figures.
+Doucet is explicit that the single-tax question turns on which estimate and cap rate one accepts, and that his bullish lines are back-extrapolations "just to set an upper bound" — a caveat that should travel with any citation of the $44T / single-tax figures.
 
 ### Part 1 citation ledger (de-referenced)
 

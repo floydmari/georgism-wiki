@@ -45,5 +45,5 @@ Every entry here cleared the bar: at least two independent big-name anchors, cla
 ## See also
 
 - [The Problems](/wiki/problems/) — the diagnosis these policies answer
-- [Land value tax](/wiki/land-value-tax/) and [Citizen's dividend](/wiki/citizens-dividend/) — the instruments
+- [Land value tax](/wiki/land-value-tax/) and [citizen's dividend](/wiki/citizens-dividend/) — the instruments
 - [Georgism](/wiki/georgism/) and [Geoism](/wiki/geoism/) — the traditions

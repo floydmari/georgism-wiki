@@ -1429,3 +1429,21 @@ and linked to the existing book page rather than re-read. verification-queue.md
 rewritten in 3-way classified format; backlog narrative dated; hermes-workorder
 auto-regenerated. VERIFY warnings 30→25 (exactly the 5 resolutions). 868 pages,
 lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: terminology normalization (the 2026-07-04 audit's last open half)
+
+EDITORIAL §Terminology's 2026-07-11 rulings applied (they win over de facto counts).
+Corpus found ~98% compliant already: citizen's-dividend family — 5 stray
+mid-sentence capitals fixed (24 grep outliers all turned out to be out-of-scope
+scratchpad files); 18-year-cycle family — ZERO fixes needed, all ~26 "18.6-year"
+instances already correctly gated to Anderson's specific claim with caveats,
+"property cycle" correctly recognized as a different term and left alone;
+single-tax family — 6 genuine violations fixed out of ~1,900 raw instances
+(the rest legitimate proper names/titles/quotes). Judgment calls recorded IN
+EDITORIAL (not silently): "Single Tax movement" kept as historiographic
+capitalization; Anderson's branded "Citizen's Dividend concept" kept. EDITORIAL
+§Terminology extended with the cycle-naming distinction + closeout note so this
+never re-litigates. BACKLOG cohesion item fully closed. No anchor breaks (no
+heading edits). 868 pages, lint 0 errors, warnings unchanged — audit-grade no-op
+where the corpus was already right, which is the correct outcome for a
+normalization pass on a well-maintained corpus.
