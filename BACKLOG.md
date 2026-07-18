@@ -84,10 +84,9 @@ commit+push+preview — publishing is Floyd's process.
       Eric Goldman, William Redfearn. Then move the TODO file to sources/inbox/consumed/.
 
 ### VERIFY burn-down (queue regenerated this shift: 121 markers on wiki pages)
-- [ ] [VERIFY] tier:T1 status:recurring — the **unclassified channel (82 markers)** is the
-      biggest lane: triage each into a channel or resolve directly. Recent pace: 4–8
-      markers/wave (waves 10–11). Channels snapshot: owner-input 2 · book-copy 8 ·
-      unblocked-web 23 · new-source 6 · unclassified 82. Queue file is ground truth.
+- [ ] [VERIFY] tier:T1 status:recurring — **queue nearly drained (2026-07-17 wave: 27 → 8
+      markers; 14 resolved by 5 parallel workers, see commit 2aec2b5)**. Channels snapshot:
+      book-copy 1 · unblocked-web 2 · unclassified 5. Queue file is ground truth.
 - [ ] [FIND] tier:T2 status:todo — the 6 **needs-new-source** markers each want a forage
       task; top: Cherokee casino-dividend primary (Costello/Akee line — do NOT cite from
       memory; feeds resource-rent-dividends-work AND benefit 10), Letchworth empirical data,
