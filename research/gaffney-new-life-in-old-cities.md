@@ -138,9 +138,14 @@ or NYC, the city did not control its own assessments — the Allegheny County as
 "systematically" undervalued land, which by 2000 was reportedly only **10% of
 Pittsburgh's property tax base**, a figure Gaffney attributes to a contract assessor
 (George Donatello of Sabre Systems) and a city councilman (Daniel Cohen) quoted in
-local news coverage.[1] **[VERIFY: the 10%-of-base figure and the assessor-undervaluation
-claim rest on Gaffney's citation of 1999–2000 Pittsburgh newspaper reporting, not
-independently re-fetched here.]** (4) Pittsburgh's construction gains were
+local news coverage.[1] **Resolved 2026-07-18:** independently corroborated via Mark
+Alan Hughes's Lincoln Institute working paper (source 7 below), which cites the same
+figure and attribution — "City Council [member] Dan Cohen claimed that land accounted
+for 10 percent of total property value in the city in 2000" — to a specific,
+identifiable article: Christopher Snowbeck, "Murphy: Land Tax Values Illogical,"
+*Pittsburgh Post-Gazette*, January 15, 2001. The claim is now traced to a named,
+dated newspaper article via an independent academic secondary source, rather than
+resting solely on Gaffney's own citation.[2] (4) Pittsburgh's construction gains were
 commercial/industrial, which can compete with residential land use rather than
 complement it. Gaffney's conclusion is that construction growth and population growth
 are *distinct* outcomes that a partial, poorly-assessed graded tax can decouple.
@@ -215,3 +220,11 @@ undermined by other policies (a wage tax), or subverted by assessment practice.
    the Pittsburgh anomaly and its four explanations, the "pro-labor mayors" argument,
    and Gaffney's own methodological hedges. [PDF](https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf) · [archived](https://archive.progress.org/gaffney/publications/2006_New_Life_in_Old_Cities.pdf)
    (verified against the PDF directly for all direct quotations on this page).
+2. Mark Alan Hughes, "Why So Little Georgism in America: Using the Pennsylvania Case
+   Files to Understand the Slow, Uneven Progress of Land Value Taxation," Lincoln
+   Institute of Land Policy Working Paper WP06ZK1, 2006 — fetched and read this
+   session; used to independently corroborate the Pittsburgh 10%-of-base land-value
+   figure and its attribution to city councilman Dan Cohen (p. 14 of the working
+   paper, its own endnote 42), and to trace that claim to its underlying newspaper
+   article: Christopher Snowbeck, "Murphy: Land Tax Values Illogical," *Pittsburgh
+   Post-Gazette*, January 15, 2001. [PDF (Lincoln Institute)](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/1275_hughes_final.pdf)

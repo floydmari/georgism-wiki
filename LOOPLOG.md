@@ -1411,3 +1411,21 @@ Congestion section deliberately NOT wired (no matching objection page — record
 not forced). sprawl page addition explicitly kept OUT of supported_by (theoretical
 context, not evidence). Registry +2 rows; triage rows checked; inventory
 regenerated. 868 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: VERIFY-channel regeneration + 5 resolutions
+
+Ground-truth census regenerated: 30 live markers → classified 13 DELIBERATE-SCOPED
+(honest records, stay), 6 RETRYABLE (queued with approach), 3 BLOCKED (attempted
+this wave: Samuelson 1976 paywalled everywhere free; 1971 Milwaukee Journal not
+digitized; unpublished Andelson address untraceable), 5 RESOLVED with real fetches:
+Vickrey/Consigny proof pinned to its exact primary (Appendix II, Gaffney
+"Tax-Induced Slow Turnover of Capital" Part V, AJES 30(1) 1971 pp. 105-111,
+fetched from masongaffney.org and cross-checked word-for-word vs the Alaska-report
+reprint); South Korea BIEN presentation URL reconstructed + author-name corrected
+(Nam Hoon Kang); Pittsburgh 10%-of-base figure corroborated via Hughes 2006
+Lincoln WP tracing to Snowbeck, Post-Gazette 15-Jan-2001; forest-taxation venue
+identified (Knedlick ed., Lincoln 1980); Now-the-Synthesis publication confirmed
+and linked to the existing book page rather than re-read. verification-queue.md
+rewritten in 3-way classified format; backlog narrative dated; hermes-workorder
+auto-regenerated. VERIFY warnings 30→25 (exactly the 5 resolutions). 868 pages,
+lint 0 errors.

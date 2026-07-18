@@ -19,6 +19,58 @@ but JSTOR / publisher / a purchased e-book / a working archive.org lending link 
 game now. Book-copy items are also tracked in `sources/wanted-books.md` (deliver a PDF/EPUB or
 a working link there and each has a ready wiki target).
 
+## 2026-07-18 — T1 VERIFY-channel pass (in-page marker burn-down, wave continuing ab63114)
+Regenerated ground truth from scratch: a full `grep [VERIFY|CITATION NEEDED` sweep across
+every content category (not just `scripts/verification_queue.py`'s CATS list) found **30**
+live markers (23 caught by the script's strict regex + 2 `[VERIFY — PENDING]` time-locked
+markers the regex deliberately doesn't match + 5 more the script *does* match once its
+regex quirks are accounted for — see `sources/verification-queue.md`'s header for the
+reconciliation). Classified every marker DELIBERATE-SCOPED (13, honest scope notes — OCR
+caveats, session-boundary notes, a source-internal inconsistency, time-locked forecasts —
+left in place) / RETRYABLE (started at 9, worked down) / BLOCKED (book copy, paywall, or
+no-longer-extant primary). Worked the RETRYABLE queue, highest-value first, **5 resolved**:
+- `research/gaffney-alaska-oil-leasing.md` — the Vickrey/Consigny neutral-depreciation proof
+  (Appendix J of the report's Part II) was pinned to its exact primary source: it is
+  Appendix II of Gaffney's own 5-part AJES series "Tax-Induced Slow Turnover of Capital"
+  (Part V, *AJES* 30(1), 1971, pp. 105–111), fetched directly from masongaffney.org's own
+  posted unabridged text (`pdftotext -layout` recovered an embedded OCR text layer; no
+  image OCR needed) and cross-checked word-for-word against the Alaska-report reprint
+  already OCR'd locally. Confirms the joint Vickrey/Consigny credit is accurate (per the
+  document's own authorship footnote) and that the proof sits inside Gaffney's article
+  rather than a separate Vickrey–Consigny paper. New registry row added.
+- `places/south-korea.md` — the truncated basicincomekorea.org PDF URL was reconstructed
+  via web search and fetched in full (`pdftotext`); corrected the presentation's exact
+  title ("Common Wealth Rent and **Common Wealth** Basic Income," not "...and Basic
+  Income") and the author's name ("Nam Hoon Kang," two words, not "Namhoon"). Registry
+  row updated in place (Status: Referenced → Scanned).
+- `research/gaffney-new-life-in-old-cities.md` — the Pittsburgh "10% of property tax base"
+  land-value figure (attributed to councilman Dan Cohen) was independently corroborated —
+  not via Gaffney's own citation, but via Mark Alan Hughes's 2006 Lincoln Institute working
+  paper (already in the registry for the Pennsylvania page), whose own footnote 42 traces
+  the identical claim to a named, dated article: Christopher Snowbeck, "Murphy: Land Tax
+  Values Illogical," *Pittsburgh Post-Gazette*, January 15, 2001. New Sources entry added
+  to the page; registry row's citation count bumped.
+- `research/gaffney-forest-taxation.md` — "Number 43, March 1980"'s publication venue was
+  identified via masongaffney.org's own publication catalog (not stated in the document
+  itself): Will Knedlick (ed.), *State Taxation of Forest and Land Resources*, Lincoln
+  Institute of Land Policy, 1980, pp. 5–16; "Number 43" is Gaffney's UC Riverside working-
+  paper number, not a separate lecture series as the prior text speculated.
+- `research/gaffney-capital-gains-free-enterprise.md` — confirmed the host volume (Richard
+  Noyes ed., *Now the Synthesis*) did complete publication as the source document's own
+  "being expanded for Shepheard-Walwyn" note anticipated (Shepheard-Walwyn/Holmes & Meier,
+  1991) — the wiki already has this book fully primary-verified at Heavy scan depth
+  (`books/now-the-synthesis.md`), so this resolution links there rather than duplicating
+  the read.
+
+3 more RETRYABLE items were attempted and moved to BLOCKED after failing (Samuelson 1976,
+paywalled/403'd on every free channel tried; a 1971 Milwaukee Journal article, no free
+digitized copy; an unpublished Andelson conference address, no trace found online) — see
+`sources/verification-queue.md` BLOCKED section for detail. 6 RETRYABLE rows remain open
+for the next wave (WP041/WP042 date, Alaska report circulation history, the Clawson $42bn
+figure, the Jarvis Prop-13 slogan, a citation-count check, and the T&F PDF cross-check for
+`august-rental-financialization`). Lint 0 errors before and after; queue script's marker
+count 28→23 (the 5 resolutions; the 2 PENDING markers were never in its count).
+
 ## RETRYABLE — primary exists, we couldn't reach it this session
 | Page | What's still unverified | Unblock channel |
 |------|-------------------------|-----------------|

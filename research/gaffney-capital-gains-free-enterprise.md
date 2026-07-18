@@ -35,10 +35,12 @@ year: 1991
 "'Capital' Gains and the Future of Free Enterprise" is a chapter Mason Gaffney
 originally wrote in mid-1991 (revised December 1991) for Richard Noyes's edited
 volume *Now the Synthesis*, with the text on masongaffney.org noting it was "being
-expanded for Shepheard-Walwyn, London" — publication status beyond that note is not
-established from the document itself.[1] `[VERIFY: final publication venue/date —
-not confirmed beyond the "Now the Synthesis" / Shepheard-Walwyn note on the source
-document]` Its target is the 1989–90 U.S. political fight over President George H.
+expanded for Shepheard-Walwyn, London." **Resolved 2026-07-18:** the volume did
+complete publication as noted — Richard Noyes (ed.), *Now the Synthesis:
+Capitalism, Socialism, and the New Social Contract* (London: Shepheard-Walwyn;
+New York: Holmes & Meier, 1991) — already independently verified elsewhere on this
+wiki against the full primary text (see [books/Now the Synthesis](/wiki/now-the-synthesis/),
+Scan Depth: Heavy).[1][4] Its target is the 1989–90 U.S. political fight over President George H.
 W. Bush's proposal to cut the capital-gains tax rate, which Gaffney reads through a
 single interpretive lens: **most of what U.S. tax law calls "capital gains" are not
 gains to capital at all, but unearned gains to land** — and the tax code contains a
@@ -263,3 +265,11 @@ verified here.)
    Policy, Taoyuan, Republic of China, November 1988) — used, via Gaffney's
    citation, for the Taiwan land-value-increment-tax revenue comparison. Not
    independently located or reviewed for this page.
+4. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism, and the New
+   Social Contract* (London: Shepheard-Walwyn; New York: Holmes & Meier, 1991) —
+   used only to confirm this chapter's host volume completed publication as the
+   source document's own note anticipated; this page does not re-read the volume,
+   which the wiki has separately verified in full (Scan Depth: Heavy) at
+   [books/Now the Synthesis](/wiki/now-the-synthesis/) via the [full chapter
+   scans](https://cooperative-individualism.org/noyes-richard_now-the-synthesis-1991.htm)
+   hosted by the School of Cooperative Individualism.

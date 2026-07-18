@@ -39,10 +39,11 @@ taxed or captured — from opposite institutional settings: **private** forest
 taxation and **public** (National Forest) management.
 
 **"Alternative Ways of Taxing Forests"** (March 1980) is a systematic tax-design
-survey, "Number 43" in an unidentified lecture or proceedings series `[VERIFY:
-the publication venue for "Number 43, March 1980" was not identified this
-session — no journal name, publisher, or conference appears in the document
-itself]`.[1] Gaffney opens by noting that Henry Aaron's and Dick Netzer's
+survey. **Resolved 2026-07-18:** "Number 43" is Gaffney's UC Riverside working-paper
+number, not a lecture/proceedings series — the document itself carries no venue
+statement, but masongaffney.org's own publication catalog identifies the print
+venue as Will Knedlick (ed.), *State Taxation of Forest and Land Resources*,
+Lincoln Institute of Land Policy, 1980, pp. 5–16.[1] Gaffney opens by noting that Henry Aaron's and Dick Netzer's
 Brookings Institution books on property taxation — "establishmentarian" surveys
 that "would appear to constitute definitive works on the subject" — say nothing
 about forest taxation at all, and frames his own essay as a corrective: a general
@@ -245,7 +246,11 @@ resembling Gaffney's proposed reforms is covered by this page.
 
 ## Sources
 
-1. Mason Gaffney, "Alternative Ways of Taxing Forests," No. 43, March 1980 —
+1. Mason Gaffney, "Alternative Ways of Taxing Forests," UCR Working Paper No. 43,
+   March 1980; print venue per masongaffney.org's publication catalog: Will
+   Knedlick (ed.), *State Taxation of Forest and Land Resources*, Lincoln
+   Institute of Land Policy, 1980, pp. 5–16 (venue confirmed 2026-07-18; not
+   stated in the document itself) —
    used for the entire "Taxing Private Forests" section: the four-base survey,
    the 38%-equivalent-yield-tax-rate calculation, and Gaffney's stated ranking.
    Text OCR'd and mirrored to

@@ -12,11 +12,10 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
 - `research/giovannoni-labor-share-decomposition.md` — **VERIFY** whether the financial-sector compensation gains documented here are substantially rent (e.g., from land-collateralized lending) versus a return to scarce financ
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 3 of 3
+## needs-unblocked-web (proxy allowlist or manual fetch) — 2 of 2
 
-- `places/south-korea.md` — **VERIFY** the direct PDF URL was truncated in the harvest data and could not be reconstructed this session; the file lives under basicincomekorea.org/wp-content/uploads/2
 - `research/august-rental-financialization.md` — **VERIFY** the mirror was not cross-checked page-by-page against the official Taylor & Francis PDF, since that PDF could not be fetched directly in this session.
-- `research/gaffney-new-life-in-old-cities.md` — **VERIFY** the 10%-of-base figure and the assessor-undervaluation claim rest on Gaffney's citation of 1999–2000 Pittsburgh newspaper reporting, not independently re-fetche
+- `research/gaffney-alaska-oil-leasing.md` — **VERIFY** checked only against these appendices as OCR'd from the archived PDF, not against any transmittal letter, legislative testimony, or correspondence that might re
 
 
-*4 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
+*3 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*

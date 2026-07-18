@@ -192,13 +192,21 @@ in the interest rate or the ad valorem charge" — direct numerical support for 
 I's claim that the AVC does not meaningfully bias extraction speed.[6] Appendix J,
 "The Future Shift Effect," derives algebraically that a royalty (unlike the AVC)
 biases the optimal extraction schedule toward slower, longer production, and closes
-by reprinting a formal proof — attributed to **William Vickrey** and Michele
-Consigny and headed "Tax-Induced Slow Turnover of Capital," citing the *American
-Journal of Economics and Sociology* (page 107 per the reprint's running head) —
-that an income tax computed on true economic depreciation is intertemporally
-neutral. `[VERIFY: this page cites the Vickrey/Consigny proof only as reprinted in
-Appendix J of this OCR'd PDF; the original AJES article has not been independently
-located or read this session]`[6] The unsigned Appendix K,
+by reprinting a formal proof — headed "Appendix II" and credited to **William
+Vickrey** and Michèle Consigny — that an income tax computed on true economic
+depreciation is intertemporally neutral. **Resolved 2026-07-18:** the reprint is
+itself Appendix II of Gaffney's own five-part AJES series "Tax-Induced Slow
+Turnover of Capital" (running head "Tax-Induced Slow Turnover of Capital, V,"
+*American Journal of Economics and Sociology* 30(1), 1971, pp. 105–111) — verified
+directly against Gaffney's own unabridged posted text of the full series
+(masongaffney.org, source 7 below; free, JSTOR-free, matches the Alaska-report
+reprint word for word modulo OCR noise). The authorship footnote there reads:
+"credit is hard to allocate precisely. Miss Consigny first formulated the problem
+and proved the theorem. Professor Vickrey greatly shortened and generalized the
+proof and brought it to its present form. A third proof by Matthew P. Gaffney,
+Jr., might equally well have been presented" — so the joint Vickrey/Consigny
+credit is accurate, and the proof sits within Gaffney's own AJES article rather
+than a separate Vickrey–Consigny paper.[6][7] The unsigned Appendix K,
 "Financial Characteristics of Energy Firms Operating in Alaska," compiles Fortune
 500 data showing large integrated energy firms are markedly less labor-intensive
 than either smaller energy firms or large non-energy industrials (net worth per
@@ -427,3 +435,14 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
    [archived](https://archive.progress.org/gaffney/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf);
    local mirror at
    `scratchpad/cache/gaffney-mirror/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf`.
+7. Mason Gaffney, "Tax-Induced Slow Turnover of Capital" (unabridged, 5 parts,
+   including Appendix II by William Vickrey and Michèle Consigny), *American
+   Journal of Economics and Sociology* 29–30, 1970–1971 (Part V, with the
+   Vickrey/Consigny appendix, at 30(1): 105–111) — used to independently confirm,
+   against Gaffney's own posted unabridged full text (free, no paywall), the exact
+   heading, authorship footnote, and journal page numbers (107–108) of the proof
+   reprinted as Appendix J of the Alaska report's Part II, resolving the prior
+   verification gap on that citation. Fetched and OCR'd this session (`pdftotext -layout`
+   recovered an embedded text layer directly, no image OCR needed) — text matches
+   the Alaska-report reprint word for word modulo scan noise.
+   [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I11-TaxInducedSlowTurnoverofCapital.CV.CV.pdf)
