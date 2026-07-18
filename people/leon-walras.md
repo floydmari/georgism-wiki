@@ -72,7 +72,7 @@ relic incompatible with rigorous marginal analysis.
 - [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/) — the wiki's roster of mainstream economists reaching Georgist conclusions
 - [Philip Wicksteed](/wiki/philip-wicksteed/) — the other marginalist Blaug groups with Walras on land nationalization
 - [William Vickrey](/wiki/william-vickrey/) — a later Nobel laureate in the same mechanism-design lineage
-- [Henry George](/wiki/henry-george/) · [Citizens Dividend](/wiki/citizens-dividend/)
+- [Henry George](/wiki/henry-george/) · [Citizen's Dividend](/wiki/citizens-dividend/)
 
 ## Sources
 

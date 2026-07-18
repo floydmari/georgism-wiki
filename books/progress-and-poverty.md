@@ -11,7 +11,7 @@ sources: [george-1879]
 source_url: https://www.gutenberg.org/ebooks/55308
 excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepens amid material progress, and the single-tax remedy. One of the best-selling economics books of the 19th century and the founding text of the Georgist movement. The complete text is hosted on the wiki."
 pd_quotes: true
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 bears_on_objections: [overpopulation-causes-poverty]
 ---
 
@@ -34,6 +34,8 @@ George's argument proceeds in three major stages:
 2. **The cause of industrial depressions.** George argues that land speculation — anticipation of future rent increases — causes land to be withheld from productive use, periodically creating crises of unemployment and depression. This analysis prefigured later work on the role of land and credit cycles in economic instability.
 
 3. **The remedy.** George proposes a single tax on land values — sufficient to replace all other taxes — which would capture the unearned increment for the community while leaving wages and capital untaxed.
+
+The walk-through above covers Books I–VI; George does not stop at the remedy. Books VII–X go on to argue the remedy's justice (the case against private property in land and against compensating owners), its practical application (tried against the canons of taxation), its effects on production, distribution, and social life, and finally George's own theory of civilization and human progress.
 
 ## In George's Own Words
 

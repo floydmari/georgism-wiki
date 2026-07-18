@@ -7,7 +7,7 @@ year: 1902
 tier: important
 stub: false
 excerpt: "Howard's 1902 manifesto proposing Garden Cities—new towns combining town and country advantages on communally-owned land, financed by land-value capture. A foundational text in urban planning and the Garden City movement. PUBLIC DOMAIN (pre-1929)."
-last_reviewed: 2026-07-07
+last_reviewed: 2026-07-18
 supports_outcomes: []
 public_domain: true
 ---
@@ -27,11 +27,11 @@ Howard's central thesis is that the migration of people from countryside to over
 
 ### The Three Magnets (Introduction, Ch. I)
 
-Howard frames the urban-rural problem using a "Three Magnets" diagram: the Town magnet (high wages, social opportunity, but slums, high rents, poor air), the Country magnet (nature, health, low rents, but low wages, isolation, lack of amusements), and the proposed Town-Country magnet (combining the advantages of both). He argues that the migration to cities is not inevitable but results from the absence of a third alternative offering both economic opportunity and natural beauty (Howard 1902, pp. 2–8).
+Howard frames the urban-rural problem using a "Three Magnets" diagram: the Town magnet (high wages, social opportunity, but slums, high rents, poor air), the Country magnet (nature, health, low rents, but low wages, isolation, lack of amusements), and the proposed Town-Country magnet (combining the advantages of both). He argues that the migration to cities is not inevitable but results from the absence of a third alternative offering both economic opportunity and natural beauty (Howard 1902, Introduction, pp. 9–19).
 
 ### Communal Land Ownership and Revenue (Ch. II–IV)
 
-Howard proposes that Garden City be built on land purchased by a company at agricultural value, with the community retaining ownership. As the town develops and land values rise, the "unearned increment" — the increase in land value created by the community rather than individual effort — would be captured for public revenue. Howard estimates that on a 6,000-acre estate with 30,000 residents, the rate-rent (land rent) could yield approximately £50,000 per annum at the outset, rising as the town prospered (Howard 1902, Ch. II, pp. 20–28).
+Howard proposes that Garden City be built on land purchased by a company at agricultural value, with the community retaining ownership. As the town develops and land values rise, the "unearned increment" — the increase in land value created by the community rather than individual effort — would be captured for public revenue. Howard estimates that on a 6,000-acre estate with 30,000 residents, the rate-rent (land rent) could yield approximately £50,000 per annum at the outset, rising as the town prospered (Howard 1902, Ch. I–III, pp. 20–43 — the estate purchase is set out in Ch. I, the rate-rent/unearned-increment mechanism in Ch. II, and the £50,000 revenue table specifically in Ch. III).
 
 ### Municipal Enterprise and Semi-Municipal Enterprise (Ch. V–VI)
 
@@ -77,9 +77,9 @@ Howard envisions Garden Cities proliferating in a network, with each city of ~30
 
 > "It is this arrangement which will be seen to give Garden City much of its magnetic power. The site of Garden City we have taken to be worth at the time of its purchase £40 an acre, or £240,000." — Ebenezer Howard, Ch. II, The Revenue of Garden City
 
-> "The term 'rent' has, in Garden City, acquired a new meaning. That part of the rent which represents interest on debentures will be hereafter called 'landlord's rent'; that part which represents repayment of purchase-money 'sinking fund'; that part which is devoted to public purposes 'rates'; while the sum will be termed 'rate-rent.'" — Ebenezer Howard, Ch. II, The Revenue of Garden City
+> "The term 'rent' has, in Garden City, acquired a new meaning. That part of the rent which represents interest on debentures will be hereafter called 'landlord's rent'; that part which represents repayment of purchase-money 'sinking fund'; that part which is devoted to public purposes 'rates'; while the total sum will be termed 'rate-rent.'" — Ebenezer Howard, Ch. II, The Revenue of Garden City
 
-> "Under this system, while it would be impossible for the tenant to secure to himself any undue share of that natural increment of land-value which would be brought about by the general growth in well-being of the town, he would yet have, as tenants in possession all probably should have, a preference over any new-comer." — Ebenezer Howard, Ch. II, The Agricultural Estate
+> "Under this system, while it would be impossible for the tenant to secure to himself any undue share of that natural increment of land-value which would be brought about by the general growth in well-being of the town, he would yet have, as all tenants in possession probably should have, a preference over any new-comer." — Ebenezer Howard, Ch. II, The Agricultural Estate
 
 > "The increased rents which follow from this form of competition are common or municipal property, and by far the larger part of them are expended in permanent improvements." — Ebenezer Howard, Ch. I, The Town-Country Magnet
 
@@ -87,7 +87,7 @@ Howard envisions Garden Cities proliferating in a network, with each city of ~30
 
 - [Land Value Tax](/wiki/land-value-tax/) — Howard's rate-rent proposal is a form of LVT applied at the municipal level
 - [Land Speculation](/wiki/land-speculation/) — Howard's model explicitly seeks to prevent land speculation through communal ownership
-- [Citizens Dividend](/wiki/citizens-dividend/) — the surplus revenue from rate-rent funding social welfare echoes the citizen's dividend concept
+- [Citizen's Dividend](/wiki/citizens-dividend/) — the surplus revenue from rate-rent funding social welfare echoes the citizen's dividend concept
 - [Georgism](/wiki/georgism/) — Howard was influenced by Henry George; the land-value capture mechanism is Georgist in inspiration
 - [Ebenezer Howard](/wiki/ebenezer-howard/) — author page
 
@@ -97,7 +97,7 @@ Howard envisions Garden Cities proliferating in a network, with each city of ~30
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Land Speculation](/wiki/land-speculation/)
 - [Georgism](/wiki/georgism/)
-- [Citizens Dividend](/wiki/citizens-dividend/)
+- [Citizen's Dividend](/wiki/citizens-dividend/)
 
 ## Sources
 

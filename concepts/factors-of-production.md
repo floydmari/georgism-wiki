@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, land, labour, capital, classical-economics, neoclassical-economics, history-of-economics]
 stub: false
 excerpt: "The classical division of production into land, labour, and capital — each with its own return of rent, wages, and interest — and the contested nineteenth-century shift that collapsed land into capital, erasing a distinction Georgists consider essential."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -13,7 +13,7 @@ The **factors of production** are the inputs an economy combines to produce good
 
 ## The Classical Three-Factor Framework
 
-Smith's *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776) opens its account of price with the claim that "wages, profit, and rent, are the three original sources of all revenue as well as of all exchangeable value," and that "in every improved society, all the three enter, more or less, as component parts, into the price of the far greater part of commodities" (Book I, Ch. 6).[1] In Smith's scheme, rent is the return to the landlord, wages the return to the labourer, and profit the return to the capital-owning employer. [David Ricardo](/wiki/david-ricardo/) sharpened the land side of this framework in *On the Principles of Political Economy and Taxation* (1817): rent is not simply "the price of land" but a *differential surplus* — the excess a given site produces over what the same labour and capital could obtain from the least productive land in use, the [margin of production](/wiki/margin-of-production/).[2] [John Stuart Mill](/wiki/john-stuart-mill/) carried the tripartite framework into the mid-nineteenth-century textbook tradition in his *Principles of Political Economy* (1848), and it remained the standard classification through the 1870s.
+Smith's *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776) opens its account of price with the claim that "wages, profit, and rent, are the three original sources of all revenue, as well as of all exchangeable value," and that "in every improved society, all the three enter, more or less, as component parts, into the price of the far greater part of commodities" (Book I, Ch. 6).[1] In Smith's scheme, rent is the return to the landlord, wages the return to the labourer, and profit the return to the capital-owning employer. [David Ricardo](/wiki/david-ricardo/) sharpened the land side of this framework in *On the Principles of Political Economy and Taxation* (1817): rent is not simply "the price of land" but a *differential surplus* — the excess a given site produces over what the same labour and capital could obtain from the least productive land in use, the [margin of production](/wiki/margin-of-production/).[2] [John Stuart Mill](/wiki/john-stuart-mill/) carried the tripartite framework into the mid-nineteenth-century textbook tradition in his *Principles of Political Economy* (1848), and it remained the standard classification through the 1870s.
 
 ## The Georgist Elaboration
 

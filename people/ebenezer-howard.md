@@ -5,6 +5,7 @@ tags: [people, howard, garden-cities, urban-planning, ground-rent]
 stub: false
 excerpt: "Founder of the garden-city movement, who designed self-financing planned towns funded by the rising ground rents the community itself created."
 pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -25,7 +26,7 @@ Howard founded Letchworth (1903) and Welwyn Garden City (1920) on these principl
 
 *Garden Cities of To-morrow* (1902) is Howard's only book and the fullest expression of his thought. Howard (1850–1928) was not a professional planner or economist but a court stenographer who, after reading Henry George and other reform thinkers, developed a comprehensive vision for combining the advantages of town and country in planned new communities on communally-owned land. (A-claim; factual)
 
-Howard framed the urban-rural problem using his famous "Three Magnets" diagram: the Town magnet (high wages, social opportunity, but slums, high rents, poor air), the Country magnet (nature, health, low rents, but low wages, isolation), and the proposed Town-Country magnet (combining the advantages of both). He argued that migration to cities was not inevitable but resulted from the absence of a third alternative (Howard 1902, Ch. I, pp. 2–8). (C-claim; theoretical)
+Howard framed the urban-rural problem using his famous "Three Magnets" diagram: the Town magnet (high wages, social opportunity, but slums, high rents, poor air), the Country magnet (nature, health, low rents, but low wages, isolation), and the proposed Town-Country magnet (combining the advantages of both). He argued that migration to cities was not inevitable but resulted from the absence of a third alternative (Howard 1902, Introduction, pp. 9–19). (C-claim; theoretical)
 
 The book's financial architecture is its most Georgist element. Howard estimated that a 6,000-acre garden city with 30,000 residents could generate approximately £50,000 per annum in rate-rent (land rent) at the outset, rising as the town prospered. This revenue would fund public works, pensions for the aged, healthcare, and education — a comprehensive public-finance system based entirely on land value capture (Howard 1902, Ch. II–VI). (A-claim; factual)
 

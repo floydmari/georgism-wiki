@@ -4,7 +4,7 @@ category: guides
 tags: [guides, advocate, quotes, debate, quotable, endorsements]
 stub: false
 excerpt: "The most powerful verbatim lines on land, rent, and the single tax — from Adam Smith and Henry George to Milton Friedman and Joseph Stiglitz — each with attribution and the page that carries and verifies it. The cross-spectrum endorsements are the point: this is not a fringe idea, and the quotes prove it out loud."
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-18
 ---
 
 ## How to use this
@@ -19,19 +19,19 @@ The single most useful move here is the **cross-spectrum endorsement** — that 
 
 **Henry George** — the thesis in one sentence:
 > "We may safely leave them the shell, if we take the kernel. It is not necessary to confiscate land; it is only necessary to confiscate rent."
-> — *Progress and Poverty* (1879), Book VIII. → [Henry George](/wiki/henry-george/) · [Progress and Poverty](/wiki/progress-and-poverty/)
+> — *Progress and Poverty* (1879), Book VIII, Ch. II. → [Henry George](/wiki/henry-george/) · [Progress and Poverty](/wiki/progress-and-poverty/)
 
 **Adam Smith** — the father of free-market economics, on why land rent is the ideal tax base:
-> "Ground-rents are a still more proper subject of taxation than the rent of houses. A tax upon ground-rents … discourages no industry and falls wholly on the owner."
+> "Ground-rents are a still more proper subject of taxation than the rent of houses. A tax upon ground-rents would not raise the rent of houses; it would fall altogether upon the owner of the ground-rent, who acts always as a monopolist."
 > — *The Wealth of Nations* (1776), Book V. → [Adam Smith](/wiki/adam-smith/) · [Taxes upon Rent (Smith)](/wiki/smith-taxes-upon-rent-1776/)
 
 And Smith on the landlord's unearned take:
 > "As soon as the land of any country has all become private property, the landlords, like all other men, love to reap where they never sowed, and demand a rent even for its natural produce."
 > — *The Wealth of Nations* (1776), Book I. → [Adam Smith](/wiki/adam-smith/)
 
-**John Stuart Mill** — who coined the term, on why the increment is unearned:
-> Landlords "grow richer, as it were in their sleep, without working, risking, or economizing."
-> — *Principles of Political Economy* (1848); Mill named this the **"unearned increment."** → [John Stuart Mill](/wiki/john-stuart-mill/) · [unearned increment](/wiki/unearned-increment/)
+**John Stuart Mill** — who gave the idea its classical statement (his own words were "unearned appendage"; the phrase "unearned increment" came from his editors and followers), on why the increment is unearned:
+> Landlords "grow richer, as it were, in their sleep, without working, risking, or economizing."
+> — *Principles of Political Economy* (1848), Book V, Ch. II §5; the concept later standardized as the **"unearned increment."** → [John Stuart Mill](/wiki/john-stuart-mill/) · [unearned increment](/wiki/unearned-increment/)
 
 **Thomas Paine** — the moral root, and the first citizen's-dividend proposal:
 > The earth is "the common property of the human race."

@@ -5,7 +5,7 @@ tags: [objections, land-nationalization, public-ownership, socialism, land-value
 stub: false
 status: "Partly addressed for the specific cases examined — Yugoslav, Israeli, and Swedish public land ownership did not, on Harrison's account, stop land-value inflation or private capture of rent — but this rests on a small, one-author comparative set, not a systematic survey of all public-ownership regimes."
 excerpt: "If the state simply owns all land, do speculation and unearned rent disappear without needing a land value tax? Comparative cases from Yugoslavia, Israel, and Sweden suggest ownership form alone is not enough — rent still has to be priced and collected."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 ---
 
 ## The Objection
@@ -17,6 +17,8 @@ A recurring objection to Georgism holds that land value taxation is an unnecessa
 If public ownership alone solved the land problem, it would make the entire Georgist policy apparatus — land value assessment, a dedicated tax base, capitalization theory — unnecessary machinery for a problem solvable by a much simpler act of expropriation or municipalization. It is also a politically potent alternative: "just make land public" sounds more direct than "tax land at its rental value," and has attracted socialist and municipalist movements independently of Georgism.
 
 ## The Response
+
+**George's own historical comparative case (1879).** Before Harrison's 20th-century evidence, [Henry George](/wiki/henry-george/) himself weighed this objection — in a broader form — against five other proposed remedies for poverty in Book VI, Chapter I of [*Progress and Poverty*](/wiki/progress-and-poverty/), titled "Insufficiency of Remedies Currently Advocated." George reviews, in turn, greater economy in government, the education and improved habits of the working classes, combinations of workmen (unions), co-operation between labor and capital, "governmental direction and interference" (the socialistic remedies, including state land ownership), and a more general distribution of land — and argues each fails for the same underlying reason: none touches the rent that landownership commands. On unions, he argues owners of land can simply outlast any strike, since "land will not starve like laborers or go to waste like capital — its owners can wait." On breaking up or redistributing landed estates, he concludes the measure treats a symptom, not the disease: "An equal distribution of land is impossible, and anything short of that would be only a mitigation, not a cure, and a mitigation that would prevent the adoption of a cure." George's own remedy — a tax that captures rent rather than any redivision or transfer of title — follows directly from this comparative dismissal: he holds that only capturing the rent itself, not changing who formally holds the deed, reaches the mechanism he blames for poverty. This is George's own attributed argument (a D-claim, not a settled finding), made a century before the Yugoslav, Israeli, and Swedish cases below, but it previews the same conclusion Harrison's later evidence arrives at empirically: ownership form is not the load-bearing variable.
 
 [Fred Harrison](/wiki/fred-harrison/), in [*The Power in the Land*](/wiki/harrison-power-in-the-land/) (1983), examines several 20th-century cases where land was taken out of ordinary private-title markets and finds that removing formal private ownership did not, on its own, remove the land-price dynamics Georgists attribute to land monopoly:
 
@@ -39,6 +41,7 @@ The evidence assembled here supports a narrower claim than "socialism or nationa
 
 ## See Also
 
+- [Henry George](/wiki/henry-george/) · [Progress and Poverty](/wiki/progress-and-poverty/) — George's own Book VI comparative case against rival remedies, including land redistribution and state land ownership
 - [Fred Harrison](/wiki/fred-harrison/) — author of the primary source for this objection
 - [The Power in the Land](/wiki/harrison-power-in-the-land/) — Harrison's 1983 book, Ch. 13–14
 - [Land Value Tax](/wiki/land-value-tax/) — the Georgist alternative to abolishing private ownership outright
@@ -49,3 +52,4 @@ The evidence assembled here supports a narrower claim than "socialism or nationa
 
 1. Fred Harrison (1983), *The Power in the Land: An Inquiry into Unemployment, the Profits Crisis and Land Speculation*, Ch. 13–14, pp. 175–190 — discovery source and primary basis for the Yugoslavia, Israel, and Sweden case summaries, via the wiki's research summary of the book. [Publisher page](https://shepheardwalwyn.com/product/the-power-in-the-land/)
 2. A. D. Ratzka (1981), "Land Banking in Stockholm: An Evaluation of Municipal Residential Leasehold as a Public Finance and Housing Subsidy Instrument," *Journal of the American Planning Association* 47(3), pp. 279–288 — used as independent, web-verified corroboration that Stockholm's municipal land bank did not fully capture land-value increments for the public. [Taylor & Francis abstract / DOI](https://www.tandfonline.com/doi/abs/10.1080/01944368108976510)
+3. Henry George (1879), *Progress and Poverty*, Book VI, Ch. I ("Insufficiency of Remedies Currently Advocated") — used for George's own comparative critique of six rival remedies for poverty, including land redistribution and governmental/socialistic land ownership, and his argument that only rent capture (not a change in title) reaches the mechanism he blames for poverty (D-claim; quotations verified verbatim, public domain). **Complete text hosted on this wiki:** [Progress and Poverty — full text](/wiki/progress-and-poverty-full-text/). Georgist-lens summary: [Progress and Poverty](/wiki/progress-and-poverty/).

@@ -7,8 +7,8 @@ excerpt: Tideman and Plassmann's chapter in The Losses of Nations (Harrison ed.,
   quantifying the deadweight losses of conventional taxation across the G7 and the
   output gains from shifting to rent-based revenue — the movement's headline excess-burden
   calculation.
-last_reviewed: 2026-07-06
-source_url: https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf
+last_reviewed: 2026-07-17
+source_url: https://books.google.com/books/about/The_losses_of_nations.html?id=bertAAAAMAAJ
 stub: false
 subcategory: wiki-research-lvt
 supports_outcomes:
@@ -67,6 +67,24 @@ Harrison's *Boom Bust* Ch. 14 §2 states. Pending recovery of the primary text, 
 GDP *level* documented above rather than treated as a verified aggregate G7 foregone-
 output loss.
 
+**Second corroboration pass (2026-07-17).** The chapter's exact identity is now
+pinned: **"Taxed Out of Work and Wealth: The Costs of Taxing Labour and Capital"**,
+Chapter 6 of the volume (citation confirmed verbatim in the Labour Land Campaign's
+*Cut Out the Deadweight* briefing, fn. xiv).[2] Two independent secondaries now give
+identical figures — 1993 US GDP of $5.495 trillion versus a $7.097 trillion
+counterfactual (a ~23% US deadweight loss), with European losses nearer 50% owing
+to VATs[3] — so the reading above (US counterfactual *level*, not a G7 aggregate
+loss) is corroborated rather than resting on one summary. The same briefing adds a
+per-country UK result: 1993 UK output at **55% of its counterfactual** under the
+rent-shift regime (per-capita net domestic product of £15,000 actual versus
+£27,000 counterfactual) — further evidence the chapter reports country-by-country
+results. One loose end: that UK figure implies an output gain of ~80%, slightly
+below this page's earlier "over 90% in higher-tax European countries" paraphrase;
+which country (if any) reaches 90%+ can only be settled against the primary
+chapter. The book remains undigitized (not on the Internet Archive; Google Books
+holds a metadata-only record), so the primary text is still on the wanted-books
+list.
+
 ## See Also
 
 - [Deadweight Loss](/wiki/deadweight-loss/) · [Land rent could fund government](/wiki/land-rent-could-fund-government/)
@@ -75,9 +93,18 @@ output loss.
 
 ## Sources
 
-1. Nicolaus Tideman & Florenz Plassmann, in Fred Harrison (ed.), *The Losses of
-   Nations* (Othila Press, 1998).
-   [PDF (sharetherents mirror)](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
-   — used for thesis and venue (A-claims; full text unfetched from this
-   environment). Carried into the wiki via
+1. Nicolaus Tideman & Florenz Plassmann, "Taxed Out of Work and Wealth: The Costs
+   of Taxing Labour and Capital", Ch. 6 in Fred Harrison (ed.), *The Losses of
+   Nations* (Othila Press, 1998). Primary text not independently obtained — the
+   former [sharetherents mirror](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
+   returns 404 and the book is undigitized
+   ([Google Books record](https://books.google.com/books/about/The_losses_of_nations.html?id=bertAAAAMAAJ)).
+   — used for thesis and venue (A-claims). Carried into the wiki via
    [*Boom Bust*](/wiki/harrison-boom-bust/), Ch. 14 §2 (Heavy scan).
+2. Labour Land Campaign, [*Cut Out the Deadweight*](https://www.labourland.org/wp-content/uploads/2019/05/Cut-out-the-deadweight.pdf)
+   (briefing), pp. 7–8 and fn. xiv — confirms the chapter title and citation, the
+   aggregate-production-function method on 1993 data, and the UK per-country
+   result (output at 55% of counterfactual; per-capita NDP £15,000 vs £27,000).
+3. Matt Leichter, ["Actually, There's Quite a Bit of Research on Land Taxes"](https://lawschooltuitionbubble.wordpress.com/2013/10/18/actually-theres-quite-a-bit-of-research-on-land-taxes/)
+   (2013) — independently states the Ch. 6 figures: 1993 US GDP $5.495tn actual vs
+   $7.097tn counterfactual (~23% US deadweight loss; ~50% for VAT-heavy Europe).

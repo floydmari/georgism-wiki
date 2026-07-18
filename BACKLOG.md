@@ -15,6 +15,13 @@ scripts/_secrets.py (op item get fallback for the em-dash item name).
 **Standing rules in force:** Floyd's UBI scope rule (EDITORIAL §0, 2026-07-15 — UBI only
 with rent/commons tie); loop priority = enrich benefits/problems/objections lanes.
 
+**Reconciliation pass (2026-07-18, T2 worker, BACKLOG.md-only):** audited every open item in
+NOW/NEXT/GATED-PARKED (plus the addendum logs below them) against actual repo state — lint,
+LOOPLOG, registry.csv, sources/verification-queue.md, sources/public-domain-texts.md. Roughly
+two-thirds of open items were already done (files existed, ledgers reconciled, LOOPLOG recorded
+completion weeks earlier) but left unchecked. Marked done/partial/refreshed below; this lane's
+plan and claim are untouched. See the bottom of this file for the audit's own summary note.
+
 **Next iteration plan (in order):**
 1. TIER-2 citation wave continuation — remaining ~90 scope-relevant rows in
    `sources/slack-research-triage-2026-07-14.json` (tier=TIER2, Status still "Not scanned"),
@@ -51,7 +58,8 @@ commit+push+preview — publishing is Floyd's process.
 
 ---
 
-## NOW (in flight today, 2026-07-10)
+## NOW (opened 2026-07-10; 2026-07-18 reconciliation — nearly every lane below is DONE, see
+## per-item evidence. The live NOW work is upstream in RESUME HERE's TIER-2 continuation.)
 
 ### Source figures — embed the load-bearing charts (Floyd + Liam's ask, 2026-07-16; EDITORIAL §3c)
 - [x] [EXPAND] tier:T1 status:done — figure pipeline (`scripts/source_figures.py`) + first
@@ -76,91 +84,135 @@ commit+push+preview — publishing is Floyd's process.
 
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
 ### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
-- [~] [PROBLEM-BUILD] tier:T2 status:in-progress — problems 1–6 (PLAN §Gap analysis):
-      (1) rising land values/housing costs drive poverty; (2) homelessness is a housing-cost
-      problem (Colburn-Aldern anchor); (3) housing unaffordability is a land problem
-      (KSS/Glaeser-Gyourko/Hsieh-Moretti — first stub landed this shift:
-      problems/housing-unaffordability-is-a-land-problem.md); (4) rent-seeking drags growth
-      (Murphy-Shleifer-Vishny, Baumol); (5) the young are locked out of land wealth;
-      (6) land underuse / speculative vacancy in high-demand cities.
-- [~] [BENEFIT-BUILD] tier:T2 status:in-progress — benefits 7, 8, 10 (PLAN):
-      (7) taxing land/rents increases productivity (OECD WP620 w/ Xing caveat, HGT, ATCOR as
-      attributed theory); (8) LVT reduces the cost of housing (land PRICES well-supported vs
-      RENTS paid weaker — say so); (10) rent dividends reduce poverty/inequality
-      (Jones-Marinescu, Segal, WITH the Goldsmith correction from this shift's purge).
-      Benefit 9 (construction/density) already exists — [EXPAND] split-rate-increases-
-      construction with Oates-Schwab + Song-Zenou at next touch, don't duplicate.
-- [~] [PROBLEM-BUILD] tier:T1 status:in-progress — justice pair 11–12 (T1 drafts personally,
-      highest editorial sensitivity): (11) land justice & Indigenous reconciliation;
-      (12) land & the Black-white wealth gap. Rule: document the intersection (shared
-      diagnosis, divergent remedies), do NOT overclaim geoism = reconciliation/reparations.
-- [ ] [SYNTHESIZE] tier:T1 status:todo — as each new page ships: add it to
-      concepts/the-problems.md / concepts/the-benefits.md indexes (lint requires claim_type;
-      indexes must stay current per EDITORIAL §5b).
+- [x] [PROBLEM-BUILD] tier:T2 status:done (verified 2026-07-18) — problems 1–6 all shipped and
+      well past the acceptance bar: rising-land-costs-drive-poverty.md (9/5 anchors),
+      homelessness-is-housing-cost-problem.md (5/5), housing-unaffordability-is-a-land-
+      problem.md (11/5 — the "first stub" is long since expanded), rent-seeking-drags-
+      growth.md (7/5), young-locked-out-of-land-wealth.md (7/5), speculative-vacancy-
+      wastes-cities.md (8/5). Evidence: `python3 scripts/lint_wiki.py` COVERAGE block shows
+      all 6 at ≥5 supporting papers (well above EDITORIAL §5b's ≥2-anchor bar).
+- [x] [BENEFIT-BUILD] tier:T2 status:done (verified 2026-07-18) — benefits 7, 8, 10 all shipped:
+      taxing-land-raises-productivity.md (13/5), lvt-improves-housing-affordability.md (11/5),
+      rent-dividends-reduce-poverty.md (8/5). Benefit 9 (split-rate-increases-construction.md)
+      also at 15/5. All confirmed via lint COVERAGE block.
+- [x] [PROBLEM-BUILD] tier:T1 status:done (verified 2026-07-18) — justice pair 11–12 shipped:
+      narratives/land-justice-and-indigenous-reconciliation.md and narratives/land-and-the-
+      black-white-wealth-gap.md, both `last_reviewed: 2026-07-18`, both hold the intersection
+      framing (shared diagnosis / divergent remedy) without overclaiming.
+- [x] [SYNTHESIZE] tier:T1 status:done (verified 2026-07-18) — indexes are concepts/problems.md
+      and concepts/benefits.md (not concepts/the-problems.md/the-benefits.md as literally
+      named here — stale filenames, corrected). Checked: all 6 problem pages and all 4 benefit
+      pages above are listed in their respective index. Recurring task — recheck each time a
+      new problem/benefit page ships.
 
 ### People stubs from book scanning (sources/inbox/T1-TODO-people-pages-from-book-scanning.md)
-- [~] [EXPAND] tier:T2 status:in-progress — 10 of the listed authors already have pages
-      (Andelson, Barnes, Daly, Daniel, Barker, Neeson, Banner, Bryson, Howard, Adams).
-      Remaining this wave, standard triage bar applies: K.W. Burgess, John Noyes,
-      Eric Goldman, William Redfearn. Then move the TODO file to sources/inbox/consumed/.
+- [x] [EXPAND] tier:T2 status:done (Wave 12a, verified 2026-07-18) — all 4 remaining authors
+      now have pages: people/ronald-burgess.md, people/richard-noyes.md, people/eric-
+      goldman.md, people/david-redfearn.md (all stub:false). All 14 listed authors are live.
+      NOTE: the source TODO file is still at sources/inbox/ (not moved to consumed/) — a
+      one-line housekeeping move, out of scope for this BACKLOG-only pass; flagged for the
+      next session touching sources/inbox/.
 
 ### VERIFY burn-down (queue regenerated this shift: 121 markers on wiki pages)
-- [ ] [VERIFY] tier:T1 status:recurring — the **unclassified channel (82 markers)** is the
-      biggest lane: triage each into a channel or resolve directly. Recent pace: 4–8
-      markers/wave (waves 10–11). Channels snapshot: owner-input 2 · book-copy 8 ·
-      unblocked-web 23 · new-source 6 · unclassified 82. Queue file is ground truth.
-- [ ] [FIND] tier:T2 status:todo — the 6 **needs-new-source** markers each want a forage
-      task; top: Cherokee casino-dividend primary (Costello/Akee line — do NOT cite from
-      memory; feeds resource-rent-dividends-work AND benefit 10), Letchworth empirical data,
-      COST self-assessment evidence, symmetry/decrement objection's best academic statement.
+- [x] [VERIFY] tier:T1 status:steady-state (verified 2026-07-18) — queue is now down to **2
+      markers total**, both structurally blocked, not actionable by scouting:
+      research/giovannoni-labor-share-decomposition.md (needs-book-copy) and research/august-
+      rental-financialization.md (needs-unblocked-web, T&F paywall). See
+      sources/verification-queue.md (regenerated 2026-07-18). This is steady state, not a
+      to-do list — recurring only in the sense that new pages may add markers; there is
+      currently nothing to burn down.
+- [x] [FIND] tier:T2 status:done (verified 2026-07-18) — the needs-new-source items this line
+      named are all resolved: Cherokee/GSMS casino-dividend primary → research/great-smoky-
+      mountains-casino-dividend.md; Letchworth empirical data → places/letchworth.md +
+      narratives/community-creates-land-value.md; COST self-assessment evidence → the
+      radical-markets research cluster (research/vickrey-counterspeculation-auctions.md,
+      research/buterin-on-radical-markets.md, concepts/harberger-tax.md); symmetry/decrement
+      objection steelman → objections/symmetry-decrement-objection.md (full page, not a stub).
 
 ### Public-domain texts program (sources/public-domain-texts.md; 12 texts/ pages live)
-- [ ] [READ&MINE] tier:T2 status:todo — NEXT TARGET: Henry George Jr., *The Life of Henry
-      George* (1900), archive.org lifeofhenrygeorg00geor — book-length, so
-      `sources/publicdomain/` channel (not texts/); already cited as primary on 3+ pages.
-      Then per the file's list: Mill Principles (Gutenberg 30107), Progress & Poverty
-      (55308), Garden Cities (46134), Pigou Welfare (Econlib), Hoyt 1933 (check renewal).
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-18 against sources/public-domain-
+      texts.md, which is the ledger of record) — every title this line still listed as a
+      "next target" is ingested: Mill *Principles* (sources/publicdomain/principles-of-
+      political-economy.md, ledger-reconciled 2026-07-18 with a documented Laughlin-abridged-
+      edition scoping decision), *Progress & Poverty* (texts/progress-and-poverty-full-
+      text.md, ledger-reconciled 2026-07-18), *Garden Cities* (sources/publicdomain/garden-
+      cities-of-to-morrow.md), Hoyt 1933 (sources/publicdomain/hoyt-100-years-chicago-land-
+      values.md, 35,499 lines — supersedes the earlier "do NOT ingest yet" verdict). Pigou's
+      *Economics of Welfare* was deliberately NOT ingested (a considered decision, not a gap):
+      only the 1920 1st ed. is PD-clear, and its LVT-relevant ~15pp were extracted as quotes
+      into research/pigou-land-taxation.md instead of a full `texts/`/`publicdomain/` page —
+      see the ledger's own reasoning. *Life of Henry George* also confirmed reconciled. This
+      program line can retire; any further PD acquisitions should open as a fresh line
+      referencing sources/public-domain-texts.md directly.
 
 ---
 
 ## NEXT (pick up when a NOW lane clears)
 
-- [ ] [SYNTHESIZE] tier:T1 status:todo — the last missing objection steelman from the 9→15
-      build-out: public-choice "government will waste the rent" (Buchanan lens). The other
-      five shipped (revenue insufficiency, transition shock, homevoter, credit-cycles,
-      assessment critique) — objections now 13 pages.
-- [ ] [FIND] tier:T2 status:todo — WS-TECH-RENTS remaining discovery, in order:
-      (a) DSTs-as-tried (France/UK/India incidence; Amazon UK pass-through as the
-      badly-aimed-rent-tax failure case; Pillar One/Two); (b) attention/ad rents (Romer's
-      progressive digital ad tax); (c) rent DISSOLUTION vs capture (antitrust/DMA/interop);
-      (d) is-it-rent diagnosis update (Furman Review, Korinek-Stiglitz AI rents). THEN the
-      gated synthesis: concepts/taxing-tech-rents instrument comparison (ACE/DBCFT vs DST vs
-      ad tax vs data dividend vs antitrust, graded). Rent-gradient rule applies hardest here.
-- [ ] [FIND] tier:T2 status:todo — WS-GEOISM remaining domain sweep: financial rents &
-      seigniorage (Hudson, Bezemer, Philippon, BIS/Borio steelman — honest FIRE grading);
-      plus the IP-rents remainder (Boldrin-Levine, prize-vs-patent) to finish the
-      platform/data/IP lane (concepts/data-rents already live).
-- [ ] [READ&MINE] tier:T2 status:todo — research/foldvary-reply-gochenour-caplan (RAE 27(4),
-      verified to exist; completes the Austrian-objection dialectic).
-- [ ] [EXPAND] tier:T2 status:todo — lvt-reduces-sprawl toward 5/5 supporters: check the
-      COVERAGE gauge first (song-zenou + taranu-verbeeck now live), then brueckner-kim-sprawl
-      and one of Burchfield 2006/McGrath 2005 if still short.
-- [ ] [READ&MINE] tier:T2 status:todo — Doucet ACX de-referencing Parts 1 & 3 (enumerate
-      actual citations, diff vs registry, ingest missing); landlords-outcome Ch. 21 cluster
-      (Borge-Rattsø, Capozza-Green-Hendershott, Hilber 2017, Buettner, Choi-Sjoquist).
-- [ ] [FIND] tier:T2 status:todo — research/raley-citizens-dividend candidate (verify
-      author/venue before drafting; would give citizens-dividend its first scholarly source
-      beyond George + Alaska).
-- [ ] [EXPAND] tier:T3 status:recurring — mechanical debt, batched: annotate unannotated
-      Sources (~25/wave, oldest pages first); thin-article burn-down (3–5/wave by inbound
-      links); trim/attribute over-cap quotes; UPDATE places/british-columbia.md stale SVT
-      rates (0.5%/2% → 1%/3% for 2026; vancouver.md has fresh cites).
-- [ ] [EXPAND] tier:T2 status:todo — cohesion items from the 2026-07-04 audit:
-      BC/Vancouver scope split; terminology normalization pass (citizen's dividend /
-      18-year cycle / single-tax variants).
-- [ ] [EXPAND] tier:T3 status:todo — stub-queue leftovers at next [PRIORITIZE]:
-      concepts/sector-model, margin-of-production, progress-and-poverty-institute;
-      candidate events/orgs from the lloyd-george/BC backfills (accept bar applies).
+- [x] [SYNTHESIZE] tier:T1 status:done 2026-07-17 — public-choice "government will waste
+      the rent": folded into objections/public-choice-critique.md (which already carried
+      the Leviathan side) as objection prong 4 (Buchanan's Level-2/3 budget rent-seeking +
+      Niskanen) and response move 5 (Buchanan's own nondifferential-distribution escape
+      valve = the dividend design; fiscal-illusion visibility). A separate page would have
+      duplicated the existing one.
+- [x] [FIND] tier:T2 status:done (verified 2026-07-18; also recorded in the 2026-07-11
+      addendum below as "WS-GEOISM complete" but never checked off here) — WS-TECH-RENTS
+      remaining discovery all shipped: (a) DSTs-as-tried → research/digital-services-tax-
+      incidence.md; (b) attention/ad rents → research/romer-digital-advertising-tax.md;
+      (c) rent dissolution vs capture → research/dma-interoperability-dissolution.md;
+      (d) is-it-rent diagnosis update → research/furman-review-digital-competition.md +
+      research/korinek-stiglitz-ai-rents.md. Gated synthesis also live: concepts/taxing-
+      tech-rents.md (instrument comparison).
+- [x] [FIND] tier:T2 status:done (verified 2026-07-18; same stale-checkbox situation as
+      above) — WS-GEOISM domain sweep complete: financial rents & seigniorage →
+      research/bezemer-hudson-finance-is-not-the-economy.md, research/borio-financial-
+      cycle.md, research/philippon-great-reversal.md, research/philippon-finance-
+      efficiency.md; IP-rents remainder → research/boldrin-levine-against-intellectual-
+      monopoly.md, research/prizes-vs-patents.md. concepts/data-rents.md already live.
+- [x] [READ&MINE] tier:T2 status:done (pre-2026-07-17, confirmed this date) —
+      research/foldvary-reply-gochenour-caplan exists (abstract-sourced, honestly flagged);
+      full text re-confirmed paywall-blocked everywhere 2026-07-17 (foldvary.net is
+      domain-squatted; bepress discontinued; SSRN/RG bot-gated). Institutional access only.
+- [x] [EXPAND] tier:T2 status:done (stale item, closed 2026-07-17) — lvt-reduces-sprawl
+      gauge already at 6/5; brueckner-kim exists as research/brueckner-kim-sprawl.md,
+      correctly wired as challenged_by (theoretical ambiguity); McGrath 2005 already in
+      supported_by. No work was needed.
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-18 against sources/inbox/T1-TODO-
+      doucet-parts-1-3-dereferencing.md, the citation-ledger audit itself) — de-referencing
+      is done and its own top-ranked MISSING shortlist is now ingested: AEI Land Price
+      Indicators → research/aei-land-price-indicators.md, Bencure iLVM →
+      research/bencure-ilvm-baybay-philippines.md, Saez-Zucman → research/saez-zucman-
+      wealth-inequality.md, Barr-Smith-Kulkarni → research/barr-smith-kulkarni-manhattan-
+      land.md, Kolbe adaptive-weights companion + Artola Blanco Spain + McKinsey balance
+      sheet all have registry rows. landlords-outcome Ch. 21 cluster complete: Borge-Rattsø,
+      Capozza-Green-Hendershott, Hilber (hilber-capitalization-synthesis.md + hilber-
+      vermeulen-england-supply.md), Buettner, and Choi-Sjoquist (research/site-value-ge-
+      simulations.md) all exist. Remaining tail is low-value registry-rows-only per the
+      TODO file's own tail list (Yalpir & Unel, Kilić, Raslanas, Aragonés-Beltrán, Xue,
+      Kettani) — not worth a dedicated wave; move sources/inbox/T1-TODO-doucet-parts-1-3-
+      dereferencing.md to consumed/ next time inbox/ is touched.
+- [x] [FIND] tier:T2 status:done (verified 2026-07-18) — research/raley-citizens-dividend.md
+      exists and is wired (see concepts/citizens-dividend.md, narratives/citizens-dividend-
+      narrative.md).
+- [x] [EXPAND] tier:T3 status:done (verified 2026-07-18, recurring — recheck each wave) —
+      mechanical debt is at zero right now: `python3 scripts/lint_wiki.py` shows 0 "not
+      annotated" Sources warnings, 0 thin-article warnings, 0 quote-cap warnings (11 total
+      warnings, all unrelated — banned-certainty words + the 2 live VERIFY markers). BC SVT
+      rates sub-item already closed per the note kept here. Since this is explicitly a
+      recurring/batched debt category rather than a one-shot deliverable, it isn't "gone"
+      forever — flag it again if a future lint run shows nonzero counts.
+- [x] [EXPAND] tier:T2 status:done (verified 2026-07-18) — both cohesion items closed:
+      BC/Vancouver scope split executed (research/vancouver-empty-homes-tax.md +
+      places/vancouver + places/british-columbia now split per the 2026-07-11 addendum
+      below); terminology normalization ruled and in force (EDITORIAL.md §6 "Terminology
+      (house style, ruled 2026-07-11)" — citizen's dividend / single-tax / 18-year-cycle
+      forms all specified).
+- [x] [EXPAND] tier:T3 status:done (verified 2026-07-18) — all three named stubs backfilled:
+      concepts/sector-model.md (118 lines, stub:false), concepts/margin-of-production.md
+      (110 lines, stub:false), organizations/progress-and-poverty-institute.md (backfilled
+      per LOOPLOG 2026-07-06). "Candidate events/orgs from the lloyd-george/BC backfills" is
+      too vague to verify against a specific artifact — left as CANNOT VERIFY; if this is
+      still a live idea it needs a named candidate list to be actionable.
 
 ---
 
@@ -172,15 +224,25 @@ commit+push+preview — publishing is Floyd's process.
   grouping. Do not start early; the split touches 400+ pages of links.
 - **learning-paths** — **PARKED by Floyd.** Do not start.
 - **Provenance attestation** (books/economic-theory-in-retrospect, books/rethinking-
-  economics-land-housing) — blocked on Floyd confirming legal copies; scan-depth upgrades
-  stay frozen until then (the 2 needs-owner-input markers).
-- **needs-book-copy channel (8 markers)** + wanted-books DEEPEN-SCANs (sources/
-  wanted-books.md, ~20 titles incl. Rothstein *Color of Law* for justice page 12) —
-  unblock as Floyd supplies copies; spawn one [READ&MINE] per title as they land.
-- **needs-unblocked-web channel (23 markers)** + Exa people-enrichment sweep — proxy
-  allowlist (api.exa.ai, ssrn, nber, worldbank, etc.) or route via Hermes.
-- **Hermes lane** — sources/hermes-workorder.md (31 items, regenerated this shift); T1
-  reviews deliveries against provenance rules before merge.
+  economics-land-housing) — **still genuinely blocked** (re-verified 2026-07-18: both pages
+  still carry the unresolved `[BLOCKED — legal provenance attestation...]` flag in their
+  `provenance` field); scan-depth upgrades stay frozen until Floyd confirms a legitimately
+  owned/licensed copy of each. Note: Rothstein *Color of Law* (justice page 12,
+  narratives/land-and-the-black-white-wealth-gap.md) is now cited via secondary sourcing —
+  the full book is still wanted for deeper mining but isn't blocking the page.
+- **needs-book-copy channel — now 1 marker, not 8** (re-verified 2026-07-18 against
+  sources/verification-queue.md: only research/giovannoni-labor-share-decomposition.md).
+  The broader wanted-books DEEPEN-SCAN wishlist (sources/wanted-books.md, ~20 titles across
+  3 tiers) is separate and still substantially open — unblock as Floyd supplies copies;
+  spawn one [READ&MINE] per title as they land.
+- **needs-unblocked-web channel — now 1 marker, not 23** (re-verified 2026-07-18: only
+  research/august-rental-financialization.md, T&F paywall). Exa people-enrichment sweep
+  status unchanged — proxy allowlist (api.exa.ai, ssrn, nber, worldbank, etc.) or route via
+  Hermes.
+- **Hermes lane — now 2 items, not 31** (re-verified 2026-07-18 against sources/hermes-
+  workorder.md, regenerated same day: the 2 needs-book-copy/needs-unblocked-web items above,
+  routed there because only Hermes's environment can reach them). T1 reviews deliveries
+  against provenance rules before merge.
 - **progress.org full scan** — blocked on Ghost Content API key or allowlist (TOP-16
   triage is COMPLETE 16/16). **gameofrent.com + Progress & Poverty Substack** — future
   loops per Floyd, do not scan yet.
@@ -257,35 +319,65 @@ Memorial Ed. 1898), **Wealth of Nations (381.9k w, Georgist-lens book page)** al
 sources/publicdomain/.
 
 **New queue items:**
-- [ ] [READ&MINE] tier:T2 status:todo — DEEPEN-SCAN Progress & Poverty: mine the full text
-      systematically into argument pages (Scan Depth currently Medium; target Heavy).
-- [ ] [READ&MINE] tier:T2 status:todo — DEEPEN-SCAN Wealth of Nations beyond Book V Ch. II /
-      Book I (Light outside the mined chapters); candidate: Smith on primogeniture/entails
-      (Book III) for the land-concentration pages.
-- [ ] [SYNTHESIZE] tier:T3 status:todo — concepts/canons-of-taxation stub (two linking pages
-      now exist: books/wealth-of-nations, concepts/land-value-tax).
-- [ ] [FIND] tier:T2 status:todo — Doucet Part-1 minors still unregistered: Steven Cord ~24%
-      estimate, Ebeling federal-lands figure, PLACES Lab ML estimate.
-- [ ] [VERIFY] tier:T1 status:recurring — remaining channels: needs-book-copy 6 (incl. Daniel
-      Francis L.D. Taylor bio), Foldvary-reply Springer paywall (needs institutional access),
-      natural-common-wealth independent assessment (genuine forage).
+- [x] [READ&MINE] tier:T2 status:done 2026-07-18 — DEEPEN-SCAN Progress & Poverty executed:
+      Book-by-Book scout mapped all 10 Books against existing coverage; four T1-approved
+      enrichments shipped (Bk IX -> benefits/taxing-land-raises-productivity; Bk VI Ch I
+      six-way rival-remedies critique -> objections/nationalization-solves-the-land-problem;
+      Bk VII Ch III no-compensation position, paired with Mill's design ->
+      objections/lvt-transition-wealth-shock; Bk I -> concepts/wages-fund-doctrine
+      stub-to-full upgrade). Registry Scan Depth bumped Medium -> Heavy. Scout's do-NOT-do
+      list honored (Bk III interest theory, Bk IV granularity, Bk VII history, Conclusion).
+- [ ] [SYNTHESIZE] tier:T1 status:blocked-on-Floyd — the one remaining P&P gap: Book X
+      (Law of Human Progress — association+equality theory of civilization, Rome analogy)
+      has zero wiki footprint. It is George's most speculative, least evidential material;
+      a concepts/law-of-human-progress page is a legitimate but discretionary addition.
+      FLOYD'S CALL whether the wiki should carry it.
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-18) — DEEPEN-SCAN Wealth of Nations:
+      the named candidate (Smith on primogeniture/entails, Book III Ch. II) is mined and
+      verified verbatim into people/adam-smith.md and concepts/land-monopoly.md (both note
+      "verified verbatim against the repo-hosted text 2026-07-11/12"). Registry Scan Depth
+      is Heavy. Beyond Book I/III/V (this line's ask), no further systematic gap identified.
+- [x] [SYNTHESIZE] tier:T3 status:done (verified 2026-07-18) — concepts/canons-of-taxation.md
+      exists (stub:false).
+- [x] [FIND] tier:T2 status:done (verified 2026-07-18) — all three now registered and wired
+      into problems/land-rent-could-fund-government.md: Steven Cord (registry.csv row 570),
+      Ebeling (row 571), PLACES Lab (row 572); people/steven-cord.md and organizations/
+      places-lab.md also exist.
+- [x] [VERIFY] tier:T1 status:done/steady-state (verified 2026-07-18) — needs-book-copy is
+      down to 1 (not 6; Daniel Francis L.D. Taylor bio no longer listed there — people/l-d-
+      taylor.md exists and covers the subject from other sources); Foldvary-reply Springer
+      paywall still genuinely blocked (unchanged, see NEXT section above); natural-common-
+      wealth independent assessment → research/natural-common-wealth-economic-rent-
+      canada.md exists.
 - SPN sweep: retry pass running (first pass 163 archived / 205 retryable overload fails).
-- [ ] [READ&MINE] tier:T2 status:todo — Hoyt 1933 One Hundred Years of Land Values in Chicago:
-      PD CONFIRMED 2026-07-11 (no CCE renewal 1959-62; IA scan open) — now eligible for the
-      sources/publicdomain/ channel (xxxii+519pp; the 18-year cycle chapter is the priority mine).
+      [Not re-verified this pass — no current SPN sweep log checked; leave as-is, low stakes.]
+- [x] [READ&MINE] tier:T2 status:done (verified 2026-07-18 against sources/public-domain-
+      texts.md) — Hoyt ingested: sources/publicdomain/hoyt-100-years-chicago-land-values.md
+      (35,499 lines), ledger-reconciled 2026-07-18.
 
 ## Steady state — end of loop session 2026-07-11 (16 waves)
 All workable queues cleared. What remains needs inputs beyond this environment:
-- [ ] [VERIFY] tier:Floyd — book-copy channel (~10 items): Harrison Boom Bust Ch.7 / Ricardo's
-      Law Ch.11 / Power in the Land pagination, Reid Secondary Banking Crisis, Cannon Land
-      Boomers, Jackson Crabgrass Frontier, Samuelson Economics editions, Daniel Francis L.D.
-      biography, Barnes/Widerquist-Howard book texts (see hermes-workorder + queue).
-- [ ] [VERIFY] tier:Floyd — institutional access: Foldvary RAE 27(4) reply full text;
-      Cunningham JUE regression tables; Light JUH 2010.
-- [ ] [VERIFY] status:calendar-gated — 2026-forecast markers (year-end); Duggan governor race
-      (Nov 2026) for the Detroit LVT revival; Oxford Review cycle piece.
-- [ ] Publishing: merge claude/wiki-loop-2026-07-11 (carries BOTH campaigns, 770 pages,
-      lint 0/0) then Ghost-sync; wiki-problems/wiki-benefits tags exist on Ghost already.
+- [ ] [VERIFY] tier:Floyd — book-copy channel: **re-verified 2026-07-18, this list is stale.**
+      Current sources/wanted-books.md still wants (unstruck): Harrison *Power in the Land*
+      pagination detail, Reid *Secondary Banking Crisis*, Cannon *Land Boomers*, Jackson
+      *Crabgrass Frontier*, Samuelson *Economics* editions, Barnes *Who Owns the Sky?*.
+      Widerquist-Howard PFD volume got a partial unblock (Ch. 12 obtained 2026-07-14 via a
+      contributor PDF; Goldsmith's central Ch. gap still open). Daniel Francis L.D. Taylor
+      biography specifically is no longer needed as a blocker — people/l-d-taylor.md exists,
+      built from other sources. Genuinely still Floyd-gated; not actionable by scouting.
+- [ ] [VERIFY] tier:Floyd — institutional access: Foldvary RAE 27(4) reply full text (still
+      paywalled, re-verified 2026-07-18) and Cunningham JUE regression tables (still
+      paywalled, research/cunningham-seattle-options.md documents the exhausted attempt) both
+      still open. Light JUH 2010 — no page or registry row found for this title; unclear if
+      it was ever started. Genuinely still Floyd-gated.
+- [~] [VERIFY] status:calendar-gated — **partially resolved 2026-07-18:** the Oxford Review
+      cycle piece is no longer calendar-gated — research/oxford-review-george-2025.md exists,
+      fully ingested, no VERIFY markers, wired to objections/progress-and-poverty-outdated.md.
+      Still genuinely gated: Duggan Michigan governor race (Nov 2026, hasn't happened yet) for
+      the Detroit LVT revival; other 2026-forecast/year-end markers.
+- [x] Publishing: status:done (verified 2026-07-18) — claude/wiki-loop-2026-07-11 was merged
+      long ago; repo is now well past that state (834 pages, Ghost fully deployed through
+      2026-07-15 per the RESUME HERE block above). This line is obsolete.
 
 ### Wave-20 flags (2026-07-12, next-wave review)
 - DONE (same day): kolbe-berlin-land-value-map and barr-manhattan-land-values were Doucet-discovery duplicate stubs of the fuller verified pages (kolbe-berlin-land-value-appraisal, barr-smith-kulkarni-manhattan-land); folded, links repointed, registry repointed. The Barr stub also carried a $1.74T transposition of the verified $1.47T figure — corrected at the repointed link.
@@ -349,20 +441,63 @@ Ghost API state: 771 wiki posts published; next full sync adds guides/ + wave-21
       (registry rows suffice). Candidates parked as future research entries rather than citations:
       PPI land-value-taxes-in-college-towns reports; the NYC 1920s new-building tax exemption
       episode (morehousing post is navigation-tier — needs primary sources).
-- [ ] [PROBLEM-BUILD/OBJECTION] tier:T1 status:todo — **objections/ubi-targeting-efficiency gap** (flagged
-      by all three UBI entries): no objection page covers "universal transfers are a costly way to cut
-      poverty vs targeted" — BC panel + PBO entries are the ready evidence base, steelman from the
-      panel's 1,640 simulations; Woo/Forget rebuttals for the response side.
-- [ ] [VERIFY] tier:T2 status:todo — Forget 2011 CPP published text (utppublishing 403 here): confirm the
-      8.5% hospitalization figure against the primary once access exists (currently verified via BC panel
-      quotation; flagged on-page).
-- [ ] [BULK] tier:T3 status:todo — dead-link mirror hunt for the 12 "Dead link" triage rows (UBC David
-      Green papers ×4, IPPR Our Common Wealth, Remodelling Capitalism, Reid Foundation universalism,
-      Brookfield, Rewheel, Reform Scotland SWAY, OECD LVC flyer, Green Party costing) — most have
-      archive.org or publisher-migration mirrors.
+- [x] [PROBLEM-BUILD/OBJECTION] tier:T1 status:done (Wave 30, 2026-07-15, verified 2026-07-18)
+      — **objections/ubi-targeting-efficiency gap** closed: objections/universal-transfers-
+      are-inefficient.md exists, steelmanned from the BC panel's 1,640 simulations exactly as
+      asked, with both Woo's fixed-budget-framing critique and Forget's response wired in.
+- [x] [VERIFY] tier:T2 status:done (resolved 2026-07-17, verified 2026-07-18) — the 8.5%
+      hospitalization figure is independently corroborated via two non-BC-panel channels
+      (IDEAS/RePEc published abstract + Green 2022's direct pagination-cited quotation of
+      Forget 2011) — see research/forget-mincome-town-with-no-poverty.md's own "resolved on
+      that basis" note. The utppublishing.com 403 is still up (re-checked), so this is
+      resolved by independent corroboration, not primary-text access — flagged as such
+      on-page; a first-hand read is still preferable if the paywall ever clears.
+- [x] [BULK] tier:T3 status:done (Wave 30, 2026-07-15, verified 2026-07-18) — all 12 dead
+      links repaired with verified-200 mirrors (per LOOPLOG's Wave 30 entry); registry.csv
+      currently shows **0 dead links** (confirmed against the RESUME HERE block's own
+      "registry 1,098 rows, 0 dead links" state).
 
 **Skipped (with reasons, machine-readable in the triage JSON):** 13 already-ingested mirrors
 (Jones-Marinescu WP, Goodhart-stimulus ×2, Schwerhoff ×2, Haughwout, DØRS, OECD WP620, England AJES,
 Capitalism 3.0, Paine, Ricardo, Goldsmith ×2, Guettabi, Flomenhoft Vermont, Noah Smith) · 9 truncated
 Slack-ellipsis URLs · 5 archive wrappers · 7 homepages/portals · 6 in-list dupes · ephemeral
 attachments (Trello/Mailchimp) · petitions · 1 sci-hub link (EDITORIAL free/legal rule) · social/profile pages.
+
+---
+
+## Reconciliation pass, 2026-07-18 (T2 worker, BACKLOG.md-only — closes out the file-rot problem)
+
+Audited every `[ ]`/`[~]` item in NOW, NEXT, and GATED/PARKED (plus the addendum logs strung
+below them, which carry just as many stale checkboxes) against the actual repo: lint output,
+LOOPLOG.md, sources/registry.csv, sources/verification-queue.md, sources/public-domain-texts.md,
+sources/wanted-books.md, sources/hermes-workorder.md, and direct file/grep checks for the
+artifact each item implied.
+
+**Counts:** ~34 open items audited · **24 marked done** (file/registry/LOOPLOG evidence found)
+· 5 left genuinely open (refreshed with current details) · 2 marked partial · 1 line judged
+unverifiable-as-written (too vague to check against an artifact) · 1 line left untouched as
+another session's active claim (Slack TIER-2 wave, udw74p).
+
+**What's genuinely still open — the real next-wave menu:**
+1. **DEEPEN-SCAN Progress & Poverty** to Heavy scan depth (full text is in, systematic mining
+   into new argument pages is not) — NEXT section.
+2. **Provenance attestations** for books/economic-theory-in-retrospect and books/rethinking-
+   economics-land-housing — blocked on Floyd confirming a legitimately owned/licensed copy;
+   not scoutable.
+3. **wanted-books.md tier-1/2/3 wishlist** (~20 titles) — Floyd-gated book supply, not scoutable.
+4. **Institutional-access channel** — Foldvary RAE 27(4) full reply text, Cunningham JUE
+   regression tables, Light JUH 2010 (status unclear, possibly never started) — Floyd-gated.
+5. **Duggan Michigan governor race** (Nov 2026, hasn't happened) and other 2026 year-end
+   calendar-gated markers.
+6. Everything already flagged GATED/PARKED by Floyd (learning-paths, Phase 3 split docs,
+   registry Sheet import, gameofrent.com/P&P Substack scans) — unchanged, still correctly gated.
+
+**Surprising finding:** the rot runs both directions. Most stale items were quietly finished
+(problems/benefits Phase 2, both WS-TECH-RENTS/WS-GEOISM sweeps, the Doucet de-referencing
+cluster, the UBI-targeting-efficiency objection page, the dead-link mirror hunt) but never
+checked off — but a few *counts* were stale in the other direction too: the GATED/PARKED
+section's needs-book-copy and needs-unblocked-web marker counts (8 and 23) were each roughly
+an order of magnitude too high; the real current counts are 1 and 1. The Hermes lane's "31
+items" is now 2. None of this reflects badly on prior sessions — the queue-regeneration scripts
+(`verification_queue.py`) run fresh each time and the file was simply never re-synced against
+their output.

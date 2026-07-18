@@ -5419,7 +5419,7 @@ no value.[32]
 
 Thus rent or land value does not arise from the productiveness or
 utility of land. It in no wise represents any help or advantage given
-to production, but simply the power of securing apart of the results
+to production, but simply the power of securing a part of the results
 of production. No matter what are its capabilities, land can yield
 no rent and have no value until some one is willing to give labor or
 the results of labor for the privilege of using it; and what any one

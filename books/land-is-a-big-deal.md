@@ -14,7 +14,7 @@ scan_tier: "T1"
 scanned_by: hermes
 scan_date: 2026-07-05
 tags: [land-value-tax, georgism, empirical-evidence, atcor, henry-george-theorem, citizens-dividend, land-assessment]
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 # Land is a Big Deal
@@ -151,9 +151,9 @@ At 85% LVT, even ±15% assessment error stays within safe bounds (max 97.75% of 
 
 ## Key Quotes
 
-> "It is not necessary to confiscate land; it is only necessary to confiscate rent." — Henry George, quoted Ch. 10
+> "It is not necessary to confiscate land; it is only necessary to confiscate rent." — Henry George, quoted Ch. 10 (*Progress and Poverty*, Book VIII, Ch. II)
 
-> "Rent, in short, is the price of monopoly, arising from the reduction to individual ownership of natural elements which human exertion can neither produce nor increase." — Henry George, quoted Ch. 6
+> "Rent, in short, is the price of monopoly, arising from the reduction to individual ownership of natural elements which human exertion can neither produce nor increase." — Henry George, quoted Ch. 6 (*Progress and Poverty*, Book III, Ch. II)
 
 > "The least bad tax, is a property tax on the unimproved value of land, the Henry George argument of many many years ago." — Milton Friedman, quoted Ch. 15
 
@@ -161,7 +161,7 @@ At 85% LVT, even ±15% assessment error stays within safe bounds (max 97.75% of 
 
 > "The unaffordability of housing appears to be not a mere symptom of inequality but rather a key driver of it." — Doucet, Ch. 16
 
-> "Without doing one stroke of work, without adding one iota of wealth to the community, in ten years you will be rich!" — Henry George, quoted Ch. 7
+> "Without doing one stroke of work, without adding one iota to the wealth of the community, in ten years you will be rich!" — Henry George, quoted Ch. 7 (*Progress and Poverty*, Book V, Ch. II)
 
 > "Nothing good ever came without a struggle." — Doucet, Ch. 26
 

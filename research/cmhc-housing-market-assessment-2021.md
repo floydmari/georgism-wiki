@@ -3,7 +3,7 @@ authors:
 - Canada Mortgage and Housing Corporation
 category: research
 excerpt: "CMHC's Sept. 2021 Housing Market Assessment rates Canada 'high' vulnerability (price acceleration plus overvaluation), with Toronto and Montreal high and Vancouver low; it explicitly finds quick-resale speculation was not the main driver of Montreal's price acceleration."
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-17
 source_url: https://eppdscrmssa01.blob.core.windows.net/cmhcprodcontainer/sf/project/archive/housing_markets/housingmarketassessmentcanada/housing-market-assessment-2021-09-en.pdf
 stub: false
 subcategory: wiki-research-housing
@@ -44,7 +44,7 @@ CMHC's HMA is a technocratic risk-monitoring exercise with no rent-theory or lan
 
 ## Nuances and Limits
 
-This is one quarterly vintage of a recurring assessment; CMHC revises its methodology between editions (the September 2021 edition notes refinements to the price-acceleration and terminology sections relative to March 2021), so ratings for the same CMA can shift with methodology changes as well as market conditions. [VERIFY: whether CMHC revised the four-factor framework further in later years was not checked; readers citing CMHC on current Canadian housing vulnerability should consult the latest edition.] The report is explicitly *not* an affordability assessment and should not be cited as evidence about cost burden — only about price-level risk relative to historical fundamentals. The speculation finding is scoped to one city (Montreal) and one channel (quick resales within a year); it does not address land-banking, foreign-buyer activity, or investor-owned vacancy, covered by other wiki sources (e.g., [Prosper Australia](/wiki/prosper-speculative-vacancies/), [Vancouver's Empty Homes Tax](/wiki/vancouver-empty-homes-tax/)).
+This is one quarterly vintage of a recurring assessment; CMHC revises its methodology between editions (the September 2021 edition notes refinements to the price-acceleration and terminology sections relative to March 2021), so ratings for the same CMA can shift with methodology changes as well as market conditions. CMHC did not revise the four-factor framework further in later years because there were no later years to revise it in: a notice on the report's own landing page, dated March 8, 2022, states "we've decided to discontinue our Housing Market Assessment," explaining CMHC is "refocusing our resources to get a better understanding of housing supply and affordability issues across Canada." The September 2021 edition analyzed here was the final edition of the series; readers seeking current Canadian housing-market analysis should consult CMHC's newer housing-supply-focused publications (e.g. its Housing Supply Report and Housing Market Outlook) rather than expect an updated Housing Market Assessment. The report is explicitly *not* an affordability assessment and should not be cited as evidence about cost burden — only about price-level risk relative to historical fundamentals. The speculation finding is scoped to one city (Montreal) and one channel (quick resales within a year); it does not address land-banking, foreign-buyer activity, or investor-owned vacancy, covered by other wiki sources (e.g., [Prosper Australia](/wiki/prosper-speculative-vacancies/), [Vancouver's Empty Homes Tax](/wiki/vancouver-empty-homes-tax/)).
 
 ## Bears On
 
@@ -65,3 +65,4 @@ This is one quarterly vintage of a recurring assessment; CMHC revises its method
 ## Sources
 
 1. Canada Mortgage and Housing Corporation, *Housing Market Assessment, Canada* (Housing Market Information), Date Released: September 2021. [PDF](https://eppdscrmssa01.blob.core.windows.net/cmhcprodcontainer/sf/project/archive/housing_markets/housingmarketassessmentcanada/housing-market-assessment-2021-09-en.pdf) — used for the full text: the four-factor HMA framework and its statistical methodology (Appendix I), the September 2021 national vulnerability rating (Moderate to High) and its Toronto/Montreal-high, Vancouver-low metro findings, and the Montreal quick-resale-speculation discussion.
+2. Canada Mortgage and Housing Corporation, "Housing Market Assessment" (report landing page, discontinuation notice dated March 8, 2022). [CMHC](https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/housing-market/housing-market-assessment) — used for confirming the HMA series was discontinued after the edition covered by this entry, and for the exact discontinuation wording.

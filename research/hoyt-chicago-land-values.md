@@ -7,7 +7,7 @@ category: research
 excerpt: Homer Hoyt's 1933 University of Chicago dissertation traces Chicago land
   values from 1830 to 1933, documenting a recurring boom-bust rhythm in land prices
   — the founding empirical study behind the Georgist 18-year land cycle.
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 source_url: https://archive.org/details/onehundredyearso00hoytrich
 stub: false
 subcategory: wiki-research-housing
@@ -60,7 +60,8 @@ Hoyt's central empirical finding is that Chicago's land-value history divides in
 sequence of distinct boom-and-bust episodes rather than smooth growth. Part I of the book
 is organized into exactly five chapters, one per major boom cycle; Hoyt states plainly that
 "each of the five chapters in the first part of this work deals" with a distinct cyclical
-episode (p. 5, "The Five Major Real Estate Cycles of Chicago"). His own chapter titles and
+episode (p. 5, in §A, "Introduction: Objectives of the Study" — the phrase "five major real
+estate cycles" itself appears in the body text at pp. 374 and 391, not as a section heading). His own chapter titles and
 dates are: **I. The Canal Land Boom, 1830–42**; **II. The Land Boom of the Railroad Era,
 1843–62**; **III. The Land Boom That Followed a Panic, a Civil War, and a Fire [1863–77]**;
 **IV. The Land Boom of the First Skyscrapers and the First World's Fair [1878–98]**; and
@@ -73,7 +74,7 @@ Chicago real estate cycle as "the composite effect of the cyclical movements of 
 forces that are to a certain degree independent and yet which communicate impulses to each
 other in a time sequence, so that when the initial or primary factor appears it tends to set
 the others in motion in a definite order."[1] He then traces an explicitly numbered sequence
-of **twenty steps** (pp. 373–391), running from step 1 ("The initial impulse — a sudden
+of **twenty steps** (pp. 373–403), running from step 1 ("The initial impulse — a sudden
 spurt in population growth") through rising gross and net rents (steps 1–2), rising prices
 of existing buildings (step 3), new construction and easy credit (steps 4–6), the land boom
 as new buildings absorb vacant land (step 8), speculative subdivision (steps 9–10), the peak
@@ -188,25 +189,27 @@ deals with a complete cycle" statement (p. 5); the twenty-step sequence (present
 pp. 373–403); Table LXVII giving average phase intervals *within* a cycle, not a fixed period
 *between* booms (p. 409/410); and the racial/nationality ranking (pp. 314–316).
 
-**FLAGGED — mismatches found, not silently corrected in the older text above:**
+**FLAGGED (2026-07-11) — RESOLVED (2026-07-18 T2 quote-verification pass):** the four mismatches
+below were found during the 2026-07-11 ingest but left uncorrected in the body text at the time.
+All four are now fixed in the "Core Argument" and "Nuances and Limits" sections above/below.
 
-- **Step-20 / sequence page range.** The "Core Argument" section above cites the twenty-step
+- **Step-20 / sequence page range.** The "Core Argument" section had cited the twenty-step
   sequence as "pp. 373–391" and step 20 ("Ready for another boom which does not come
-  automatically") as **p. 391**. Against the scan, step 20 is on **p. 403**, and the sequence
+  automatically") as p. 391. Against the scan, step 20 is on **p. 403**, and the sequence
   runs pp. 373–**403**. Page 391 is where the subdivision peak-year passage (quote 3 above) sits,
-  not step 20. The "(p. 391)" cite for step 20 should read **p. 403** and the range **373–403**.
-- **Seventeen-year-interval passage.** The "Nuances and Limits" section cites Hoyt's
-  "at seventeen-year intervals prior to 1890" / "no general boom in 1907" remark as **p. 217**.
+  not step 20. Fixed: both the "Core Argument" range and the "Nuances and Limits" step-20 cite
+  now read p. 403 / pp. 373–403.
+- **Seventeen-year-interval passage.** The "Nuances and Limits" section had cited Hoyt's
+  "at seventeen-year intervals prior to 1890" / "no general boom in 1907" remark as p. 217.
   In the scan it is on **p. 219** (running head "A NEW ERA THAT FOLLOWED A WORLD WAR 219"). The
-  quotation itself is verbatim-accurate; only the page number is off by two.
-- **Mis-attributed section title.** The "Core Argument" section attributes the p. 5 quote to a
+  quotation itself was already verbatim-accurate; only the page number was off by two. Fixed.
+- **Mis-attributed section title.** The "Core Argument" section had attributed the p. 5 quote to a
   section headed *"The Five Major Real Estate Cycles of Chicago"* (p. 5). No such section heading
   exists; the quote sits inside §A, "Introduction: Objectives of the Study," and the phrase
   "five major real estate cycles" appears only in body text (pp. 374, 391). The p. 5 quote and
-  page are correct; the parenthetical section title is not.
-- **"behaviour" vs. "behavior."** The "Nuances and Limits" section quotes Hoyt's passing-phase
-  line as "mode of behaviour"; the original American spelling is "behavior" (p. 423). Trivial,
-  but it is inside quotation marks.
+  page were correct; the parenthetical section title was not. Fixed: now cites §A by its real title.
+- **"behaviour" vs. "behavior."** The "Nuances and Limits" section had quoted Hoyt's passing-phase
+  line as "mode of behaviour"; the original American spelling is "behavior" (p. 423). Fixed.
 - **Population figure (not an error — OCR note).** The DJVU OCR renders the 1930 population as
   "3,376,436" (p. 3, fn. 1); the figure stated on this page and elsewhere, **3,376,438**, is the
   correct 1930 census count and matches Hoyt's evident intent — the OCR simply garbled the final
@@ -259,11 +262,11 @@ outcome claim.**
   movements in land, commodities, and stocks are separated by long intervals of time, and
   **there is no definite period of years between one boom and the next.** Chicago land booms
   have occurred less frequently since 1873 than before, until thirty-five years elapsed from
-  the hectic land market of 1890 to that of 1925."[1] Earlier (p. 217) he notes booms had
+  the hectic land market of 1890 to that of 1925."[1] Earlier (p. 219) he notes booms had
   recurred "at seventeen-year intervals prior to 1890," but stresses that this pattern then
   broke: "Although seventeen years had passed since the peak of 1890, there was no general
   boom in 1907."[1] The final step of his twenty-step cycle sequence is titled "Ready for
-  another boom **which does not come automatically**" (p. 391).[1] Hoyt's Table LXVII gives
+  another boom **which does not come automatically**" (p. 403).[1] Hoyt's Table LXVII gives
   *average* time intervals only for the phases *within* a cycle (rise-to-peak, peak-to-bottom),
   not a fixed period *between* successive booms.[1] The crisp ~18 (or 18.6)-year figure was
   extracted and popularised chiefly by later writers (Roy Wenzlick, Harrison, Foldvary,
@@ -274,7 +277,7 @@ outcome claim.**
 - **Hoyt later disavowed the cycle's continued operation entirely — and the cycle
   literature is built *against* that disavowal.** The 1933 book itself anticipates its own
   obsolescence: Hoyt writes the events described "may in the future be of interest only to
-  historians… and the knowledge of the mode of behaviour of forces in the real estate cycle
+  historians… and the knowledge of the mode of behavior of forces in the real estate cycle
   will have no value in forecasting the trend of future events."[1] Thirty-five years later he
   concluded "his prescience was warranted": **"The fluctuations in the real estate cycle which
   characterised our economy in the 150 years prior to 1933, have ceased"** (Hoyt, ULI Technical
@@ -410,7 +413,7 @@ any rights reason.*
 *Verification note (2026-07): The key empirical claims on this page have been checked
 directly against the Internet Archive full text (DJVU OCR) of Hoyt's 1933 book. Confirmed
 against the primary source: the "composite effect... communicate impulses to each other in a
-time sequence" quotation (p. 371); the twenty-step numbered cycle sequence (pp. 373–391); the
+time sequence" quotation (p. 371); the twenty-step numbered cycle sequence (pp. 373–403); the
 peak-year list 1836, 1856, 1872, 1890, 1925 in Hoyt's own words (p. 391); the five-chapter
 period structure and boundary dates (Part I, pp. 3–232); the 103-figure/103-table scale
 (Fig. 103, Table CIII); and the headline figures of 211 square miles, a 1930 population of

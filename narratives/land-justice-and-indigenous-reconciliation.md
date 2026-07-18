@@ -8,7 +8,7 @@ narrative_type: moral
 supported_by: []
 related_people: [henry-george]
 related_places: [new-zealand]
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-18
 ---
 
 ## What This Page Is — and Is Not
@@ -77,7 +77,7 @@ back."[3]
 ### Value created by the community, not the owner
 
 The second shared premise is that land's *value* is socially created. George's
-equal-rights claim in *Progress and Poverty* (1879, Book VII) — "The equal right of
+equal-rights claim in *Progress and Poverty* (1879, Book VII, Ch. I) — "The equal right of
 all men to the use of land is as clear as their equal right to breathe the air"[4] —
 grounds the Georgist argument that rising land value is an
 [unearned increment](/wiki/unearned-increment/) belonging to the community that

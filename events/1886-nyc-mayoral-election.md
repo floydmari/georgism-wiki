@@ -17,7 +17,9 @@ George was drafted by a coalition of labour unions and reformers and campaigned 
 
 ## The Result
 
-George finished **second**, defeated by the Tammany Hall Democrat Abram Hewitt, but **ahead of the third-place Republican candidate, the 28-year-old Theodore Roosevelt** — a future US president. Georgists have long argued the count was affected by Tammany's machine; regardless, polling ahead of a future president demonstrated the movement's genuine electoral reach.
+George finished **second**, defeated by the Tammany Hall Democrat Abram Hewitt, but **ahead of the third-place Republican candidate, the 28-year-old Theodore Roosevelt** — a future US president. The official canvass, as recorded in his son's biography: **Hewitt 90,552, George 68,110, Roosevelt 60,135**.[3] The biography also preserves the campaign's closing scene — a rain-soaked election-eve parade of labour-union marchers past Union Square — and records that George himself believed he had been "counted out" by the Tammany machine; that belief was widely shared in the movement, though it is George's camp's own claim, not an independently established fact.[3]
+
+Two nights after the vote, at Cooper Union, George gave the movement its lasting frame for the defeat: "It is not the end of the campaign; it is the beginning. We have fought the first skirmish."[3]
 
 ## Significance
 
@@ -31,3 +33,4 @@ The 1886 race marked the peak of Georgism as a mass political force in the Unite
 
 1. Christopher England (2023), *Land and Liberty: Henry George and the Crafting of Modern Liberalism*, Johns Hopkins University Press — used for the campaign's events and the movement context. [Publisher](https://www.press.jhu.edu/books/title/12372/land-and-liberty)
 2. Henry George (1879), *Progress and Poverty* — used for George's platform and public standing entering the race. [wiki summary](/wiki/progress-and-poverty/)
+3. Henry George Jr. (1900), *The Life of Henry George*, pp. 480–483 — used for the official vote tallies (Hewitt 90,552; George 68,110; Roosevelt 60,135), the election-eve labour parade, George's "counted out" belief (attributed as the camp's own claim), and the Cooper Union "first skirmish" speech of 6 November 1886; read against the archive.org scan (`lifeofhenrygeorg00geor`) this session. Full transcription on this wiki: [Life of Henry George](/wiki/life-of-henry-george/). A son's biography is a sympathetic primary source; the tallies match the official canvass it reproduces.
