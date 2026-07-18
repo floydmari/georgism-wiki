@@ -9,7 +9,7 @@ tier: Supplementary
 source_url: https://books.google.co.uk/books/about/Building_cycles_and_Britain_s_growth.html?id=WoEkAAAAMAAJ&redir_esc=y
 stub: false
 excerpt: "J. Parry Lewis's 1965 economic history traces British building activity from 1700 to 1950 and finds a recurring construction-cycle rhythm — the UK data source Fred Harrison cites for a 17.4-year average cycle duration, the British counterpart to Hoyt's Chicago study."
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-17
 ---
 
 ## Summary
@@ -50,6 +50,27 @@ index confirms the digit string "17.4" occurs exactly once in the scanned text
 no snippet or page number is visible. This narrows but does not close the gap: the
 figure's existence in the book is now corroborated by an independent index, but its
 context, table, and exact page still are not.
+
+**Checked again 2026-07-17 — page now pinned, context still unread.** Two
+independently digitized HathiTrust library scans of the book (University of
+Michigan copies, search-only tier: items `mdp.39015007186649` and
+`mdp.39015030457421`) each report exactly one occurrence of "17.4" in the full
+text, and both place it at **printed page 314** of Lewis's book. That triples the
+independent-index corroboration (Google Books plus two HathiTrust scans) and, for
+the first time, gives the figure a location in the primary text. What it does not
+give is context: the search-only tier shows no snippet, so whether p. 314 states
+the 17.4-year average as Lewis's own summary figure (p. 314 falls late in the
+book, where a recap table is plausible) or in some other role remains unread.
+Note the page number is not in tension with Harrison — his "Table 5.1, p. 74"
+citation locates his own table in *Boom Bust*, not a page of Lewis. Two further
+probes this pass: Barras's 2009 synthesis (searchable preview) contains no "17.4"
+anywhere and quotes Lewis only for methodology (its preface quotes Lewis 1965,
+p. 1, on the building cycle presenting "a problem of method as well as of
+theory"); and a second Internet Archive copy surfaced
+(`buildingcyclesbr0000unse_b5o0`, University of Victoria), under the same
+controlled-digital-lending restriction. The cheapest remaining unblock is a free
+archive.org account plus a one-hour lending loan of either copy, turning to
+p. 314 directly.
 
 ## Relation to the Georgist Case
 
@@ -109,7 +130,13 @@ long-run historical pattern in more than one country.
    bibliographic record was fetched this session; its full text sits behind the EJ
    paywall, so it anchors the book's scholarly standing rather than the specific
    17.4-year figure, which remains sourced to Harrison.
-4. Richard Barras, *Building Cycles: Growth and Instability* (Wiley-Blackwell, 2009),
+4. M. C. Fleming (1966), review of J. P. Lewis, *Building Cycles and Britain's
+   Growth*, *The Economic History Review*, New Series 19(2), pp. 435–436. DOI:
+   [10.2307/2592282](https://doi.org/10.2307/2592282) — a second contemporary
+   peer-reviewed notice of the book, located 2026-07-17; used (alongside
+   Cairncross) to anchor the book's scholarly reception. Full text behind the
+   JSTOR paywall; not used for the 17.4-year figure.
+5. Richard Barras, *Building Cycles: Growth and Instability* (Wiley-Blackwell, 2009),
    esp. Ch. 3 ("The Nature of Building Cycles," including its survey of historical
    building-cycle research) and Ch. 5's UK building-cycle chronology (1785–2005). DOI:
    [10.1002/9781444310009](https://doi.org/10.1002/9781444310009) — the standard modern
