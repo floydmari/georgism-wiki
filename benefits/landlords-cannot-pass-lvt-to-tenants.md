@@ -21,6 +21,11 @@ A landlord cannot raise rents to pass a land value tax on to tenants. The tax is
 borne by the **landowner**, showing up as a lower land sale price and lower net
 rental income — not as higher rents.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/dors-fig1.png" alt="Line chart of average prices for Danish single-family homes, 2000 to 2008, in thousands of DKK, split into areas where the land tax would later fall versus rise. The two lines track each other until the 2004 reform announcement (first vertical line), then diverge: by the 2007 implementation (second vertical line) homes in lower-land-tax areas sell for roughly 100,000 DKK more, about 1,600 versus 1,490 thousand DKK by 2008." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Incidence, observed: Danish single-family house prices where the 2007 amalgamation reform lowered versus raised the land tax (grundskyld). Identical trends before the 2004 announcement; afterwards prices rise less where the land tax rose — the tax landing on the owner as a lower asset price, exactly as capitalization theory predicts. (A second Danish quasi-experiment disputes the magnitude — see the counter-evidence below.) <span class="figure-credit">Source: Høj, Jørgensen &amp; Schou, <em>Land Taxes and Housing Prices</em>, De Økonomiske Råd Working Paper 2017:1, Figure 1 — reproduced for comment and review. See the wiki's entry on <a href="/wiki/dors-land-taxes-housing-prices/">the study</a>.</span></figcaption>
+</figure>
+
 ## Why — the Incidence Argument
 
 Rents are set by supply and demand for the *use* of land, which the tax does not

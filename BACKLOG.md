@@ -61,6 +61,27 @@ commit+push+preview — publishing is Floyd's process.
 ## NOW (opened 2026-07-10; 2026-07-18 reconciliation — nearly every lane below is DONE, see
 ## per-item evidence. The live NOW work is upstream in RESUME HERE's TIER-2 continuation.)
 
+### Source figures — embed the load-bearing charts (Floyd + Liam's ask, 2026-07-16; EDITORIAL §3c)
+- [x] [EXPAND] tier:T1 status:done — figure pipeline (`scripts/source_figures.py`) + first
+      four embeds: Bonnet Fig 1 (bonnet-land-is-back), Rognlie Fig 3 (rognlie-capital-share),
+      Jordà-Schularick-Taylor Fig 2 (great-mortgaging), KSS Fig 27
+      (knoll-schularick-steger-house-prices). Branch claude/wiki-image-sourcing-ij2cr3.
+- [x] [EXPAND] tier:T1 status:done (2026-07-16) — loop machinery shipped: `LOOP-FIGURES.md`
+      (runbook) + `scripts/build_figure_queue.py` → `sources/figure-queue.md` (341 candidates
+      scored by tier/inbound/outcomes/PDF-access; 13 re-embed placements). First four synced
+      live to Ghost same day.
+- [x] [EXPAND] tier:T1 status:done (2026-07-18) — 12-wave autonomous campaign complete:
+      29 pages carry figures (22 source entries + 7 evidence-page re-embeds), all synced
+      live. Queue machinery in steady-state.
+- [ ] [EXPAND] tier:T2 status:todo — figure loop STEADY-STATE: future shifts work
+      sources/figure-queue.md as normal editorial work (no self-wakeup chain). Restart
+      triggers: (a) new research entries land (queue regenerates and surfaces them);
+      (b) Hermes delivers book scans (12 chart-bearing books blocked:book-scan) or WP
+      mirrors (saiz, brueckner, plassmann-tideman, barkai, davis-heathcote Fed WP,
+      cunningham, foldvary-cycle, hilber-vermeulen LSE repo, bezemer-samarina DNB WP,
+      guettabi, dye-england, world-bank-changing-wealth fetch); (c) Floyd/Liam point at a
+      chart. Per-figure protocol unchanged: LOOP-FIGURES.md step 4.
+
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
 ### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
 - [x] [PROBLEM-BUILD] tier:T2 status:done (verified 2026-07-18) — problems 1–6 all shipped and

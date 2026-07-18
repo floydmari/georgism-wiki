@@ -878,6 +878,181 @@ TIER-2 remainder by target page, then BACKLOG NOW lanes.
 
 ---
 
+## 2026-07-16 — Source figures: the load-bearing charts go into the entries (session ij2cr3)
+
+Floyd relayed Liam's ask: where a paper's own graphic does the work, put it in the entry.
+Built the pipeline (`scripts/source_figures.py` — declarative FIGURES manifest: source PDF
+URL → PyMuPDF page-region crop → Ghost image store upload → `<figure>` block; provenance
+lives in the manifest, PNGs not committed, same convention as the share cards) and shipped
+the first four figures, each verified visually in the preview before embedding:
+
+- **bonnet-land-is-back** — Bonnet et al. 2021 Fig 1 (HAL OA PDF, p.7): the six-panel
+  national-capital decomposition (FR/UK/CA/DE/US + land-share panel) — the chart Floyd's
+  ask started from.
+- **rognlie-capital-share** — Rognlie 2015 Fig 3 (Brookings PDF, p.44): housing vs
+  non-housing net capital share, G7 1948–2010.
+- **great-mortgaging** — Jordà–Schularick–Taylor Fig 2 (NBER w20501, p.11): mortgage vs
+  non-mortgage lending to GDP, 17 countries 1870–2011.
+- **knoll-schularick-steger-house-prices** — KSS Fig 27 (CESifo WP 5006, p.31): mean real
+  house vs imputed land prices, 14 countries — the ~80%-is-land decomposition.
+
+Policy codified as EDITORIAL §3c (load-bearing only, one per entry after the Summary, crop
+the figure body, mandatory credit line "— reproduced for comment and review" marking the
+CC-BY-4.0 carve-out, mandatory descriptive alt text, prefer OA versions, hosted-URL embed).
+Linter taught that HTML attribute values (alt text) are not quotations (the 50-word quote
+cap no longer false-positives on figure alts). Next-candidates list added to BACKLOG NOW
+(Piketty U-curve, Larson, Davis-Heathcote, Hoyt PD-check, etc.). Lint 0 errors.
+
+---
+
+## 2026-07-16b — Figures live on Ghost + the figure-sourcing loop stood up (session ij2cr3)
+
+Floyd's follow-up: sync + design the loop. (1) The four figure-bearing pages synced to
+Ghost and verified live (figure + caption + credit + alt each; Ghost's Lexical round-trip
+strips the class attribute but keeps the <figure> markup): bonnet-land-is-back ·
+rognlie-capital-share · great-mortgaging · knoll-schularick-steger-house-prices.
+(2) The one-off became a loop, WS9: `LOOP-FIGURES.md` (runbook: ≤4 figures/shift, T1 picks
+the load-bearing chart, mandatory visual verification, no-chart/blocked stamps are
+findings) + `scripts/build_figure_queue.py` (deterministic pre-pass — scores all
+research/books entries by tier, inbound links, outcome wiring, PDF accessibility; skips
+figure-bearing entries) + seeded `sources/figure-queue.md` (341 open candidates, top-40
+queued, 13 re-embed placements). EDITORIAL §3c gains the re-embed rule (outcome/problem/
+benefit pages may re-show a hosted figure that directly evidences their headline claim;
+source entry stays the canonical home). Wired: ROADMAP WS9 row, LOOP.md Related loops,
+BACKLOG lane flipped to "work the queue".
+
+---
+
+## 2026-07-17 — Figure loop waves 1–3 (autonomous, session ij2cr3; Floyd's go 2026-07-17)
+
+T1 selection protocol tightened per Floyd's re-review ask (LOOP-FIGURES step 4: enumerate
+all figures, anchor to entry text, rank + justify, adversarial pass, high-confidence-or-
+nothing). Waves shipped, each figure visually verified and synced live on commit:
+
+- **Wave 1:** glaeser-gyourko-housing-supply (w23833 Fig 3, HP/MPPC vs permitting — Fig 2
+  rejected as three-case anecdote) · jones-marinescu-alaska-pfd (w24312 Fig 2, both
+  panels incl. placebo band; caption flags the part-time response).
+- **Wave 2:** larson-us-land-value (BEA Fig 3, $20.8T→$26.2T→$23T; US federal work =
+  public domain credit) · gyourko-krimmel-zoning-tax (w28993 Fig 4, zoning-tax IQR —
+  carries the entry's own $ figures).
+- **Wave 3:** dors-land-taxes-housing-prices (DØRS 2017:1 Fig 1, the capitalization
+  quasi-experiment made visible).
+
+Stamps (findings, survive queue regeneration — builder now carries them + lists a
+Stamped section): no-chart = oates-schwab, arnott-stiglitz-HGT, gaffney-hidden-taxable-
+capacity, hsieh-moretti, mazzucato-mapping-rents, stiglitz-land-credit, doucet-does-
+georgism-work (charts are reproductions), gaffney-neoclassical-stratagem, progress-and-
+poverty, mirrlees-review. blocked = dye-england (Lincoln form gate), albouy-ehrlich-shin
+(needs mirror), harrison-power-in-the-land (book scan → Hermes). Queue: 323 open
+candidates, 22 re-embed placements pending. 9 entries now carry figures.
+
+**Wave 4 (2026-07-18a):** hoyt-chicago-land-values (Fig 76, p. 348 — the century semi-log
+chart with the 1836/1856/1873/1892/1926 waves; Fig 90's five-panel cycle plate rejected as
+illegible at column width) · bakker-land-rents-tfp (IMF 23/170 Fig 6.1 — Singapore TFP flat
+in PWT vs doubling once land rents split out; Fig 5.3 rejected as input, not finding).
+Stamps: davis-larson-oliner-shui (no-chart, dataset paper), zodrow (blocked, Rice repo
+empty response). 11 entries figured; queue 319 open.
+
+**Wave 5 (2026-07-18b):** first re-embed wave per §3c — rognlie-fig3 →
+problems/capital-share-rise-is-land · kss-fig27 → problems/housing-unaffordability-is-a-
+land-problem · larson-fig3 → problems/land-rent-could-fund-government (each placed directly
+under "The Claim" it evidences, captions cross-link the source entries). New-embed triage
+came up empty honestly: AJR-Botswana (institution scatters, not the rent-capture claim),
+Baunsgaard-Vernon (design note), OECD tax-and-growth (regression tables) all no-chart;
+foldvary-public-revenue paywalled book, dwyer PDF link dead, both Harrison books need scans
+→ blocked. Queue 312 open; 11 source entries + 3 evidence pages carry figures.
+
+**Wave 6 (2026-07-18c):** three more re-embeds, each anchor-verified against the page's own
+"At a glance" wiring — dors-fig1 → benefits/landlords-cannot-pass-lvt-to-tenants (caption
+explicitly points at the counter-study so the chart can't read as settled) · gm-fig2 →
+problems/finance-growth-is-land-credit · jm-fig2 → benefits/resource-rent-dividends-work
+(framed as the workability test). Two placements REJECTED on anchor grounds and recorded in
+the builder's REJECTED_PLACEMENTS (employment chart ≠ poverty claim; Bonnet Fig 1 ≠
+efficiency-swap result). Mirror sweep resolved the rest of the paywalled top: oates-1969
+no-chart (verified tables-only), albouy-ehrlich-shin no-chart (author-posted PDF reviewed —
+headline lives in Tables 2-3), saiz/brueckner/plassmann-tideman/tomson blocked:needs-mirror
+(course-site copies rejected as non-legal), ryan-collins blocked (lending-only scan). Queue
+306 open, 11 re-embed placements left; 17 pages carry figures.
+
+**Wave 7 (2026-07-18d):** la-cava-housing-capital-share (BIS WP 572 Fig 4 — actual vs
+constant-1980-price counterfactual: the housing income-share rise is all relative price) ·
+loffler-siegloch-german-pass-through (IZA DP 14195 Fig 2 — the pass-through event study,
+captioned as the wiki's strongest CONTRASTING incidence evidence, with the land-vs-buildings
+scope note). Honest stamps: total-resource-rents-australia + imf-taxing-immovable-property
+(headlines in tables/text) and a genre sweep of commentary pages (podcasts, video
+explainers, blog compilations — 7 rows, no source figures by construction). Queue 295 open;
+13 source entries + 6 evidence pages figured. Exit condition NOT met — score-7/8 open-PDF
+tier still holds plausible carriers (kolbe-berlin, schwerhoff, martinez-colombia, PD
+diagrams in Howard's Garden Cities, etc.).
+
+**Wave 8 (2026-07-18e):** first PUBLIC-DOMAIN figure — Howard's "Three Magnets" diagram
+(1902 scan via Internet Archive) on books/garden-cities-of-to-morrow, credit line "Public
+domain" per §3c · kolbe-berlin-land-value-appraisal gets the paper's finding as a PAIRED
+figure (Figs 1+5, expert BRW map vs kernel-regression map on the same colour scale — two
+unaltered crops in one <figure>; the match IS the claim, so a single map couldn't carry it).
+Stamps: korinek-stiglitz-ai-rents (theory, no figures), wealth-of-nations (1776 text),
+stiglitz-theory-local-public-goods (1977 theory), guettabi (blocked, wayback returns text).
+Queue 289 open; 15 source entries + 6 evidence pages figured.
+
+**Wave 9 (2026-07-18f):** re-embed kss-fig27 → problems/rising-land-costs-drive-poverty
+(caption explicitly scoped to the land-cost link, matching the page's component-level
+framing). Four placements REJECTED on anchor grounds (GG fig3 ≠ LVT-affordability claim;
+hoyt/gyourko-krimmel/dors ≠ vacancy or speculation-dampening claims) — recorded in
+REJECTED_PLACEMENTS. Schwerhoff rent-taxation survey no-chart (definitional diagrams).
+Big honest genre sweep: 20 prose sources (biographies, pre-1931 texts, essay collections)
+no-chart; 12 in-copyright chart-bearing books blocked:book-scan → the Hermes lane;
+guettabi + martinez blocked on gated fetches. Queue 257 open, 3 re-embed placements left;
+22 pages carry figures.
+
+**Wave 10 (2026-07-18g):** pure triage/bookkeeping wave — no embeds survived the bar.
+Verified no-charts: goldsmith + brown-1927 (zero figures), bc-basic-income (recommendation
+report), schwerhoff-imf (charts reproduce Garbinti/Bricker data; headline analytical),
+brockmeyer (welfare comparison headline, RD plots are intermediates). Mirror-blocked:
+foldvary-cycle-synthesis, cunningham, mieszkowski, banzhaf-lavery, hilber-vermeulen,
+hartwick, andelson-lvt-around-the-world. Final 3 auto-placements REJECTED on anchor grounds
+(ownership-distribution and generational claims not carried by aggregate charts) — the
+re-embed placement list is now fully drained: every wired placement either embedded (7) or
+reasoned out (9, recorded in REJECTED_PLACEMENTS). Exit NOT declared: famous-chart papers
+remain untriaged below the queue's structural top (barkai, saez-zucman, davis-heathcote,
+world-bank-changing-wealth, mian-sufi-verner, borio, case-shiller) — wave 11 triages them
+by name, then reassesses exit.
+
+**Wave 11 (2026-07-18h) — the famous-chart sweep:** four of the literature's iconic charts
+shipped: saez-zucman (QJE Fig I — the top-0.1% wealth U-curve, author-posted PDF) ·
+mian-sufi-verner (Fig 2 — household-debt rises predict weaker growth, firm debt doesn't) ·
+borio-financial-cycle (Graph 1 — financial vs business cycle; embedded under the entry's
+explicit steelman framing, dual-credited to Drehmann et al.) · case-shiller-2003 (Fig 2 —
+CA/MA price-income waves vs flat Wisconsin). Triage stamps: 10 tabular-genre rows no-chart,
+5 paywalled blocked, patel book-scan; two of my own stamps corrected after protocol review
+(CWON re-marked blocked pending a working fetch — it likely DOES hold charts; kuminoff-pope
+returned to todo). Queue 224 open; 19 source entries + 6 evidence pages figured. Exit not
+yet: famous-tail remains (piketty open figures, de-loecker markups, barr-smith-kulkarni
+Manhattan, bezemer-samarina-zhang, albouy-what-are-cities-worth) — one more named sweep,
+then the loop downshifts.
+
+---
+
+## 2026-07-18i — Wave 12 (famous-tail) + DOWNSHIFT: the figure campaign wraps
+
+Final hourly wave: piketty-capital-21st-century (Figure 5.3 from the author-posted figure
+set — the private-capital U-trend the wiki's capital-share cluster decomposes; caption makes
+that framing explicit) · de-loecker-eeckhout-unger-markups (w23687 Fig 1 — the rising-markups
+chart, 1.21→1.67) · barr-smith-kulkarni-manhattan-land (working-paper Fig 4 — Manhattan land
+vs sales indices 1950–2014). Stamps: albouy-what-are-cities-worth + blanco + kuminoff-pope
+no-chart (reviewed), bezemer-samarina-zhang blocked (DNB mirror to chase).
+
+**Campaign totals (waves 1–12, 2026-07-16→18):** 29 pages carry figures — 22 source entries
+(incl. 1 public-domain diagram, 1 paired-map figure, 2 explicitly contrasting/steelman
+charts) + 7 evidence pages under their "The Claim" sections. Every figure: manifest
+provenance, visual crop verification, preview render check, anchored caption with credit
+line, descriptive alt text, synced live on commit. ~60 no-chart stamps and ~30 blocked
+stamps (mirrors/book scans → Hermes) recorded and regeneration-proof. 9 auto-suggested
+re-embed placements rejected on anchor grounds. The loop is now STEADY-STATE per BACKLOG
+WS9 — no self-wakeup chain; new entries, delivered scans/mirrors, or an editor's ask re-arm
+it.
+
+---
+
 ## 2026-07-18 — T2 quote-verification sweep: hosted speech/pamphlet primaries (Paine, Spencer,
 Lloyd George, Mill/LTRA, George shorts, Saratoga, Johnson 1914)
 

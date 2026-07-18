@@ -48,6 +48,11 @@ partly cuts against the reading of financial expansion as, at bottom, the capita
 [land rent](/wiki/economic-rent/). But its own empirical anatomy puts *property prices* at
 the centre — so it also, on closer reading, hands the land account much of what it needs.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/borio-g1.png" alt="Chart of the financial cycle versus the business cycle in the United States, early 1970s to 2011. A blue financial-cycle line (credit and property prices) traces long, large waves peaking around 1989 and 2007; a red GDP-cycle line wiggles in much shorter, smaller cycles around zero. Grey bands mark NBER recessions; orange and green bars mark financial-cycle peaks and troughs." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Graph 1 from the paper: the financial cycle (credit plus property prices, blue) against the GDP business cycle (red) in the United States, 1970–2011. The financial cycle runs far longer and larger than the business cycle — and its peaks (1989, 2007) sit just before the deepest recessions. <span class="figure-credit">Source: Borio, BIS Working Paper 395 (2012), Graph 1 — there reproduced from Drehmann, Borio &amp; Tsatsaronis (2012) — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Key Findings
 
 - **The cycle is credit + property prices.** "Arguably, the most parsimonious description

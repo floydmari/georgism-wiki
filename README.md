@@ -35,6 +35,7 @@ python3 scripts/lint_wiki.py                       # quality gate (zero deps); -
 python3 scripts/build_preview.py                   # render the branch to preview/
 python3 -m http.server -d preview 8000             # browse locally before publishing
 python3 scripts/pull_from_ghost.py <folder> <slug> # reconcile a page that drifted onto Ghost
+python3 scripts/source_figures.py [key]            # extract a paper's key chart → Ghost image store (EDITORIAL §3c)
 ```
 Nothing publishes until `scripts/sync_to_ghost.py` runs — GitHub is the master record.
 

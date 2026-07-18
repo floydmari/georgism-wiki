@@ -32,6 +32,11 @@ year: 2018
 
 [Lars Doucet](/wiki/doucet-does-georgism-work/) cites the study in *Does Georgism Work? Part 1* as one of the twelve methods spanning his ~$19–65 trillion aggregate US land-value range: Barr et al. supply a rigorously estimated, transaction-based value for a single ultra-dense market. Its methodological importance is larger than its single number — it shows that even in the most built-up city in the United States, enough pure-land sales occur to construct a defensible land-value surface, which bears directly on the [assessment objection](/wiki/land-cannot-be-assessed/).
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/barr-fig4.png" alt="Line chart on a log scale of a Manhattan land values index and a Manhattan real estate sales price index, 1950 to 2014. The two series track each other: roughly flat to 1970, a deep trough in the mid-1970s for land, then both climbing steeply from about 1980 to 2014, with land swinging harder than sales prices." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 4 from the working-paper version: Manhattan land values against real-estate sales prices (log scale), 1950–2014. Land tracks the market but swings harder — collapsing in the 1970s, then climbing relentlessly from 1980 — the century-scale appreciation behind the paper's estimate that Manhattan's land alone was worth about $1.74&nbsp;trillion by 2014. <span class="figure-credit">Source: Barr, Smith &amp; Kulkarni, <em>What's Manhattan Worth?</em> (working paper, 2015), Figure 4; published in <em>Regional Science and Urban Economics</em> 70, 2018 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Key Findings
 
 From the paper's abstract and results (verified verbatim against the working paper):[1]

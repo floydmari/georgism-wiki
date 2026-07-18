@@ -34,6 +34,11 @@ evidence the [banking-is-land-credit claim](/wiki/finance-growth-is-land-credit/
 to argue that much of what is called "financial deepening" is not the productive
 allocation of capital it appears to be.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/msv-fig2.png" alt="Line chart of estimated effects of a three-year rise in debt to GDP on subsequent GDP growth over one to five year horizons, with confidence bands. The household-debt coefficient falls steadily to about minus 0.6 by year five; the non-financial firm-debt coefficient stays near zero." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 2 from the working-paper version: the effect of a three-year rise in debt-to-GDP on subsequent growth. A household-debt expansion predicts progressively weaker growth over the next five years, while an equal firm-debt expansion predicts none — the household/mortgage credit channel that drives boom–bust cycles. <span class="figure-credit">Source: Mian, Sufi &amp; Verner, <em>Household Debt and Business Cycles Worldwide</em> (working paper), Figure 2; published in <em>Quarterly Journal of Economics</em> 132(4), 2017 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Why the Debt Is Mortgage Debt
 
 Household borrowing in these advanced economies is overwhelmingly mortgage borrowing,
