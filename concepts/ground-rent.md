@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, ground-rent, land-rent, classical-economics, unearned-increment, leasehold]
 stub: false
 excerpt: "The rent attributable to the land (location) itself, as distinct from the buildings on it — the specific quantity a land value tax targets. Distinct from the legal 'ground rent' a leaseholder pays a freeholder, which is a contract, not the economic thing."
-last_reviewed: 2026-07-07
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -48,7 +48,7 @@ Ground rent is the quantity the classical economists singled out as the natural 
 
 - **[Adam Smith](/wiki/adam-smith/)** (1776) held that "Ground-rents are a still more proper
   subject of taxation than the rent of houses," because a tax on them "would not raise the
-  rents of houses" — the burden could not be shifted, since the supply of ground is
+  rent of houses" — the burden could not be shifted, since the supply of ground is
   fixed.[1]
 - **[David Ricardo](/wiki/david-ricardo/)**'s [law of rent](/wiki/law-of-rent/) explained
   *where* ground rent comes from: rent is the differential advantage of a better site over

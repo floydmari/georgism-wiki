@@ -9,7 +9,7 @@ tier: Core
 source_url: https://www.econlib.org/library/Mill/mlP.html
 stub: false
 excerpt: "Mill's Book V land-taxation chapters argue that the future unearned increase of rent may justly be taxed without disturbing existing purchases — a direct forerunner of Georgism that stops well short of it."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 supports_outcomes: []
 ---
 
@@ -128,12 +128,16 @@ existing owners are left exactly as well off as before the tax is announced — 
 already paid for is taken from them. George rejected this constraint. He held that private
 property in land was never legitimately acquired to begin with (the argument of *Progress
 and Poverty*, Book VII), so no compensation was owed for capturing rent that already
-existed. In the dedicated chapter on the question — Book VII, Ch. III, "The Claim of Land
-Owners to Compensation" — George holds "that land owners can make no just claim to
-compensation if society choose to resume its right," and treats the buy-out proposals of his
-day as descendants of the same compensation impulse that led, "in abolishing slavery in the
-British West Indies, [to] $100,000,000… paid the slaveholders." In the same chapter George
-names Mill's design directly: this compensation idea, he writes, "led John Stuart Mill, although clearly perceiving the essential injustice of private property in land, to advocate, not a full resumption of the land, but only a resumption of accruing advantages in the future."[10]
+existed. George states the conclusion in his Preface to the Fourth Edition's synopsis of the
+argument: "that land owners can make no just claim to compensation if society choose to
+resume its right." He develops the argument at length in the dedicated chapter on the
+question — Book VII, Ch. III, "Claim of Land Owners to Compensation" — which treats the
+buy-out proposals of his day as descendants of the same compensation impulse that led, "in
+abolishing slavery in the British West Indies, [to] $100,000,000… paid the slaveholders." In
+the same chapter George names Mill's design directly: this compensation idea, he writes, "led
+John Stuart Mill, although clearly perceiving the essential injustice of private property in
+land, to advocate, not a full resumption of the land, but only a resumption of accruing
+advantages in the future."[10]
 
 Whether Mill's narrower, prospective design or George's full-capture design is the more
 defensible policy is a normative question the wiki treats elsewhere — see the
@@ -258,11 +262,13 @@ descendant of this objection.
    cited on this wiki's [unearned-increment narrative page](/wiki/unearned-increment-narrative/)
    — used for the "single tax" proposal and George's rejection of the purchaser defense
    (C/D-claim).
-10. Henry George, *Progress and Poverty*, Book VII, Ch. III, "The Claim of Land Owners to
-    Compensation" — used for George's rejection of compensation ("land owners can make no just
-    claim to compensation"), the British West Indies slaveholder-compensation reference
-    ("$100,000,000… paid the slaveholders"), and George's naming of Mill's prospective-only
-    plan. Verified verbatim against Project Gutenberg #55308 (2026-07-07). [Gutenberg
+10. Henry George, *Progress and Poverty*: the compensation conclusion ("land owners can make
+    no just claim to compensation…") appears in the Preface to the Fourth Edition's synopsis
+    of the argument; Book VII, Ch. III, "Claim of Land Owners to Compensation," develops the
+    case at length and supplies the British West Indies slaveholder-compensation reference
+    ("$100,000,000… paid the slaveholders") and George's naming of Mill's prospective-only
+    plan. Verified verbatim against Project Gutenberg #55308 (2026-07-18; corrected from an
+    earlier pass that attributed all three quotations to Book VII, Ch. III). [Gutenberg
     #55308](https://www.gutenberg.org/ebooks/55308)
 11. Andrew Phemister, "The Right to Life, the Right to Nature, and the Impact of Irish Land
     on Political Thought in the 1880s," *The Historical Journal* 66:3 (June 2023), 573–592
