@@ -3,8 +3,9 @@ title: "Land Speculation"
 category: concepts
 tags: [concepts, land-speculation, option-value, carrying-cost, appreciation]
 stub: false
+pd_quotes: true
 excerpt: "The practice of holding land for expected appreciation rather than productive use — driven by option value and low carrying costs, and distinct from speculative vacancy (a symptom) and the 18-year cycle (a pattern)."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -52,6 +53,14 @@ Land speculation matters because it:
 
 ## Book Findings
 
+### George: How Speculation Forces the Margin Outward
+
+Before George reaches the depressions argument (Book V), *Progress and Poverty* Book IV, Ch. IV ("Effect of the Expectation Raised by Material Progress") lays out the underlying mechanism: the "confident expectation of the future enhancement of land values, which arises in all progressive countries from the steady increase of rent... leads to speculation, or the holding of land for a higher price than it would then otherwise bring" (Book IV, ch. IV). Land owners, in effect, act as an informal cartel — George writes that the expectation of higher prices "produces, to a greater or less extent, the effects of a combination among land holders" — withholding land from use and forcing the actual margin of production **beyond** the margin production alone would require. His illustrations anticipate the modern vacant-lot and land-banking literature almost exactly:
+
+> *If the land of superior quality as to location were always fully used before land of inferior quality were resorted to, no vacant lots would be left as a city extended, nor would we find miserable shanties in the midst of costly buildings. These lots, some of them extremely valuable, are withheld from use, or from the full use to which they might be put, because their owners... prefer, in expectation of the advance of land values, to hold them for a higher rate than could now be obtained from those willing to improve them.*
+
+George gives concrete cases: a settler heading west "must, like the man who swam the river to get a drink, pass for long distances through half-tilled farms, and traverse vast areas of virgin soil" before reaching land actually free of rent; a "fine belt of redwood timber" in Marin County, California sits uncut while lumber is hauled past it from farther away, because its owner "prefers to hold for the greater price it will bring in the future"; and speculators who "remain poor, sometimes almost to deprivation, because they insist on holding land... at prices at which no one else can profitably use it" earn the folk label "land poor" (Book IV, ch. IV). This chapter is the theoretical foundation the later depressions chapter (Book V, ch. I, below) builds on — it is speculation forcing the margin outward, not merely the extension of cultivation to naturally inferior land, that George blames for the gap between rising rent and stagnant wages. (C-claim; George's own theoretical argument, attributed.)
+
 ### George: Speculation as the Primary Cause of Depressions
 
 The thesis that land speculation is a *cause of industrial depressions* — not merely a symptom of them — originates with [Henry George](/wiki/henry-george/). In [*Progress and Poverty*](/wiki/progress-and-poverty/) (1879), Book V, Ch. I ("The Primary Cause of Recurring Paroxysms of Industrial Depressions"), George argued that because land is fixed in supply, its price can be bid up speculatively past the point where labour and capital can profitably engage in production; the resulting squeeze on the [margin of production](/wiki/margin-of-production/) periodically checks output and triggers a slump:
@@ -89,4 +98,4 @@ See: [Land: A New Paradigm (Adams)](/wiki/land-a-new-paradigm/)
 4. Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010*. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for the revived 18-year cycle framework and its speculative mechanism (attributed practitioner claim; see the [narrative page](/wiki/land-speculation-causes-cycles/) for the full evidence assessment).
 5. Karl E. Case & Robert J. Shiller (2003), "Is There a Bubble in the Housing Market?," *Brookings Papers on Economic Activity*, 2003(2), pp. 299–362. [Free PDF (Brookings)](https://www.brookings.edu/wp-content/uploads/2003/06/2003b_bpea_caseshiller.pdf) — used for the four-city homebuyer survey evidence on ten-year price-appreciation expectations (11.7–15.7%/year means, p. 324); see also the [Case-Shiller research page](/wiki/case-shiller-2003-bubble/).
 6. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the entry-monopoly framing and the 18-year cycle evidence (B/C/D-claims). [Book page](/wiki/land-a-new-paradigm/)
-7. Henry George (1879), *Progress and Poverty*, Book V, Ch. I ("The Primary Cause of Recurring Paroxysms of Industrial Depressions"). [Full text (Project Gutenberg #55308)](https://www.gutenberg.org/ebooks/55308) — used for George's originating statement of the speculation-as-cause-of-depressions thesis (verbatim quotation, attributed C-claim).
+7. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book IV, Ch. IV ("Effect of the Expectation Raised by Material Progress") and Book V, Ch. I ("The Primary Cause of Recurring Paroxysms of Industrial Depressions"). [Full text (Project Gutenberg #55308)](https://www.gutenberg.org/ebooks/55308); quotations verified verbatim against the repository's hosted full text, [/wiki/progress-and-poverty-full-text/](/wiki/progress-and-poverty-full-text/) — used for George's account of how the expectation of rising land values forces the margin of production outward (vacant lots, the Marin County redwood and western-settler examples, "land poor," Book IV ch. IV) and for his originating statement of the speculation-as-cause-of-depressions thesis (Book V ch. I; verbatim quotations, attributed C-claims).

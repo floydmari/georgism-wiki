@@ -32,6 +32,18 @@ Five families are in play, and they split across the two poles the
 5. **Rent dissolution via antitrust, the DMA and interoperability** — destroy the moat
    instead of capturing what it throws off.
 
+*A 145-year-old antecedent:* the automation-concentrates-rent worry this page addresses is
+not new. George reasoned through the limiting case in 1879: "as we can assign no limits to
+the progress of invention, neither can we assign any limits to the increase of rent, short
+of the whole produce. For, if labor-saving inventions went on until perfection was
+attained... Wages would be nothing, and interest would be nothing, while rent would take
+everything" (*Progress and Poverty*, Book IV ch. III ([full text](/wiki/progress-and-poverty-full-text/));
+his "point... toward which the march of invention is every day more strongly tending").
+George's mechanism ran through land rent specifically; the modern AI-rents debate
+([Korinek–Stiglitz, Korinek–Ng](/wiki/korinek-ng-digital-superstars/)) asks whether the
+same concentration logic now runs through compute, data, and platform moats — which is
+precisely the is-it-rent dispute graded below.
+
 ## Read This First — the Gradient Is Steepest Here
 
 The wiki's [rent gradient](/wiki/geoism/) rule (EDITORIAL §0) applies harder in this domain

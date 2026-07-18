@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, core-concept, wages, rent, ricardo, henry-george, distribution]
 stub: false
 excerpt: "The least productive land in use sets the baseline for wages and the yardstick for rent: workers can earn no less than the margin offers, and landowners can charge no more than the excess above it. Ricardo's law of rent, George's law of wages, and the doctrine's modern career."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -68,6 +68,10 @@ decisions bind.
   accept — the fringe apartment, the remote office — and central rents measure
   the advantage over it, the same structure
   [agglomeration economics](/wiki/duranton-puga-urban-growth/) formalizes.
+
+## Why the Margin Falls as Progress Advances
+
+*Progress and Poverty* Book IV devotes three chapters to explaining what actually pushes the margin down as material progress proceeds — population growth increasing the *latent capability* of land already in use (ch. II), labor-saving invention extending demand for land even with population held constant (ch. III), and speculative withholding forcing the margin outward faster than production requires (ch. IV). See [Rising land values and housing costs drive poverty](/wiki/rising-land-costs-drive-poverty/) for the full treatment of these three mechanisms, with George's own illustrations and the limiting case — "as we can assign no limits to the progress of invention, neither can we assign any limits to the increase of rent, short of the whole produce" (Book IV, ch. III) — in which the margin is driven to zero.
 
 ## Nuances and Limits
 

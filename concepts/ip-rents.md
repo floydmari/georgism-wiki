@@ -4,9 +4,14 @@ category: concepts
 tags: [concepts, ip-rents, patents, copyright, monopoly, innovation, geoism, quasi-rent]
 stub: false
 supports_outcomes: []
+pd_quotes: true
 excerpt: "A patent or copyright is a government-granted temporary monopoly — a deliberately-created rent. It is the most contested rent in the Geoist file, because here the rent is supposed to BE the incentive. Yet the evidence that IP monopoly is necessary for innovation is surprisingly weak, and prize/buyout designs can reward invention without the monopoly."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-18
 ---
+
+## Historical Antecedent
+
+The idea that patent income is a *monopoly* return rather than a return to capital predates the modern IP-rents literature by well over a century. In *Progress and Poverty* (1879), Book III, Ch. IV ("Of Spurious Capital and of Profits Often Mistaken for Interest"), Henry George grouped patent income with tariff protection as instances of the same phenomenon — a legally created exclusive privilege, distinct from both interest (the return to capital) and "wages of superintendence" (the return to skill and enterprise): "Receipts from the patents granted for a limited term of years for the purpose of encouraging invention are clearly attributable to this source [monopoly], as are the returns derived from monopolies created by protective tariffs under the pretense of encouraging home industry." George's illustrative case is King James I's grant to Buckingham of the exclusive privilege of making gold and silver thread — "in reality the power to levy a tax for his own purposes upon all the users of such thread" — offered as the archetype of a government-granted monopoly whose income belongs to the same category as a modern patent's. George does not weigh the innovation-incentive case for patents one way or the other here; the point is purely classificatory, distinguishing monopoly-derived income from capital's genuine returns — the same classificatory move this page's "rent" framing makes for IP. (C-claim; George's own theoretical argument, attributed; quotations verified verbatim against the repository's hosted full text, [/wiki/progress-and-poverty-full-text/](/wiki/progress-and-poverty-full-text/).)
 
 ## Definition
 
@@ -103,3 +108,10 @@ blanket levy — and the calibration is where the genuine disagreement lives.
    prize mechanism and the 1839 Daguerreotype precedent (C/A-claims).
    [QJE](https://academic.oup.com/qje/article-abstract/113/4/1137/1916997) ·
    [Harvard DASH PDF](https://dash.harvard.edu/bitstream/handle/1/3693705/Kremer_PatentBuyouts.pdf)
+4. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book III, Ch. IV
+   ("Of Spurious Capital and of Profits Often Mistaken for Interest") — used for the
+   1879 classification of patent income (and tariff-protection income) as monopoly
+   return, distinct from interest and from wages of superintendence, and the
+   Buckingham gold-thread-monopoly illustration (C-claim; George's own argument,
+   attributed; quotations verified verbatim against the repository's hosted full
+   text). [Full hosted text](/wiki/progress-and-poverty-full-text/)

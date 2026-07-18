@@ -3,8 +3,9 @@ title: "FIRE Sector"
 category: concepts
 tags: [concepts, fire-sector, hudson, finance, financialization, rent-extraction, mortgages]
 stub: false
+pd_quotes: true
 excerpt: "Finance, Insurance, and Real Estate — an official national-accounts grouping that Michael Hudson turned into the analytical core of the rentier-economy critique: banks lend against land, credit capitalizes into land prices, and much recorded financial 'output' is a claim on rent. The scale data, the Hudson thesis, and the mainstream counter-view."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -74,6 +75,10 @@ compensation shift itself: the US manufacturing compensation share fell about
 of income toward FIRE that the paper reports without itself characterizing it
 as rent extraction.
 
+## A Historical Antecedent: George on "Spurious Capital"
+
+Hudson's title for his fullest statement of the thesis — *The Bubble and Beyond: **Fictitious Capital**, Debt Deflation and the Global Crisis* (2012) — echoes a distinction Henry George drew in 1879. In *Progress and Poverty*, Book III, Ch. IV ("Of Spurious Capital and of Profits Often Mistaken for Interest"), George argued that government bonds, watered railroad stock, and similar financial instruments are commonly mistaken for capital but are not: "Nothing can be capital... that does not consist of actual, tangible things... which have in themselves, and not by proxy, the power of directly or indirectly ministering to human desire." A government bond, he wrote, "does not represent capital at all" but "a solemn declaration that the government will, some time or other, take by taxation from the then existing stock of the people, so much wealth" — and he documents contemporary railroad companies issuing "certificates for two, three, four, five, or even ten" dollars against every dollar of capital actually invested, with dividends paid on the inflated total (Book III, ch. IV). The parallel to Hudson's "fictitious capital" is close but not identical: George's target is financial paper that misrepresents *how much real capital exists*, while Hudson's is credit that inflates *land prices* specifically — but both isolate a category of recorded "capital income" that is not a return to productive investment, a full century apart. (C-claim; George's own argument, attributed; quotation verified verbatim against the repository's hosted full text.)
+
 ## Why It Matters to the Rent Debate
 
 The FIRE framing connects classical Georgist rent theory to modern banking: if the
@@ -122,6 +127,7 @@ property prices at the centre of the cycle.
 - [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the peer-reviewed statement of the "finance income is rent" thesis · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the steelman that credit booms are a general monetary phenomenon
 
 - [Michael Hudson](/wiki/michael-hudson/) · [Killing the Host](/wiki/hudson-killing-the-host/)
+- [Progress and Poverty (full text)](/wiki/progress-and-poverty-full-text/) — George's 1879 "spurious capital" chapter, the historical antecedent above
 - [Outcome: Banking growth is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/) — the strong, evidence-carried version of the finance–land claim
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the persuasive deployment
 - [Rethinking the Economics of Land and Housing](/wiki/ryan-collins-rethinking-land-housing/) — the land–credit loop
@@ -176,3 +182,9 @@ property prices at the centre of the cycle.
    Perspectives* 27(2), 2013, pp. 29–50.
    [Open access (AEA)](https://www.aeaweb.org/articles?id=10.1257/jep.27.2.29) —
    used as the strongest citable counter-view (E-claim).
+9. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book III, Ch. IV
+   ("Of Spurious Capital and of Profits Often Mistaken for Interest") — used for the
+   1879 antecedent of the "fictitious capital" framing: government bonds and watered
+   railroad stock as financial paper mistaken for real capital (C-claim; George's own
+   argument, attributed; quotation verified verbatim against the repository's hosted
+   full text). [Full hosted text](/wiki/progress-and-poverty-full-text/)

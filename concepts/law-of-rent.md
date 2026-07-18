@@ -3,8 +3,9 @@ title: "Law of Rent"
 category: concepts
 tags: [law-of-rent, ricardo, rent-theory, margin-of-production, classical-economics, georgism]
 stub: false
+pd_quotes: true
 excerpt: "Ricardo's principle that land rent is a differential surplus determined by the gap in productivity between superior land and the least productive (marginal) land in use — the theoretical engine Henry George generalised to the whole economy."
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -56,6 +57,14 @@ The Law of Rent and the [margin of production](/wiki/margin-of-production/) are 
 
 This connection is central to George's argument in *Progress and Poverty* that wages are set by productivity at the margin, not by average productivity across all land. George states this law explicitly in Book III, Chapter VI ("Wages and the Law of Wages"): "*Wages depend upon the margin of production, or upon the produce which labor can obtain at the highest point of natural productiveness open to it without the payment of rent.*" He presents this law of wages as the direct counterpart of Ricardo's law — "Like Ricardo's law of rent of which it is the corollary, this law of wages carries with it its own proof and becomes self-evident by mere statement."
 
+Book III, Chapter VII ("Correlation and Co-ordination of these Laws") makes the three-way relationship explicit by setting the current (wages-fund) theory of distribution against his own, side by side:
+
+> *RENT depends on the margin of cultivation, rising as it falls and falling as it rises.*
+> *WAGES depend on the margin of cultivation, falling as it falls and rising as it rises.*
+> *INTEREST (its ratio with wages being fixed by the net power of increase which attaches to capital) depends on the margin of cultivation, falling as it falls and rising as it rises.*
+
+— restated from the "current statement," in which the three laws "have no common center, no mutual relation" (rent set by the margin, wages by the labor/capital ratio, interest by supply and demand for capital), to his own, in which "they spring from one point, support and supplement each other, and form the correlating divisions of a complete whole" (Book III, ch. VII). Chapter VIII draws the conclusion the whole book has been building toward, in George's own summary sentence: "Rent swallows up the whole gain and pauperism accompanies progress" (Book III, ch. VIII, "The Statics of the Problem Thus Explained").
+
 ## Significance for Georgism
 
 The Law of Rent is the analytical engine of Georgist political economy. It explains:
@@ -92,7 +101,7 @@ The Law of Rent, as a theoretical model, has been subject to several lines of cr
 ## Sources
 
 1. David Ricardo (1817), *On the Principles of Political Economy and Taxation*, Ch. 2 "On Rent." [Full text via EconLib](https://www.econlib.org/library/Ricardo/ricP.html); quotations verified against the [Project Gutenberg edition (#33310)](https://www.gutenberg.org/ebooks/33310) — used for the original formulation of the Law of Rent, the differential surplus mechanism, the intensive-margin passage ("capital can be employed more productively on those lands which are already in cultivation"), and the principle that rent is price-determined, not price-determining.
-2. Henry George (1879), *Progress and Poverty*, Book III, Ch. VI "Wages and the Law of Wages." [Full text online](https://www.gutenberg.org/ebooks/55308) — used for George's extension of Ricardo's law from agriculture to the urban economy and all natural resources, and for the statement of the law of wages ("Wages depend upon the margin of production…") as the corollary of the law of rent.
+2. Henry George (1879), *Progress and Poverty* (Memorial Ed. 1898), Book III, chs. VI–VIII "Wages and the Law of Wages," "Correlation and Co-ordination of these Laws," and "The Statics of the Problem Thus Explained." [Full text online](https://www.gutenberg.org/ebooks/55308); quotations verified verbatim against the repository's hosted full text, [/wiki/progress-and-poverty-full-text/](/wiki/progress-and-poverty-full-text/) — used for George's extension of Ricardo's law from agriculture to the urban economy and all natural resources, the statement of the law of wages ("Wages depend upon the margin of production…") as the corollary of the law of rent, the side-by-side "current statement" vs. George's statement of the three laws of distribution (ch. VII), and the summary sentence "Rent swallows up the whole gain and pauperism accompanies progress" (ch. VIII).
 3. This wiki's [Economic Rent](/wiki/economic-rent/) page — used for the definition of economic rent as payment in excess of what is required to bring a factor into use, and for the summary of Ricardo's and George's contributions.
 4. This wiki's [David Ricardo](/wiki/david-ricardo/) page — used for the characterisation of rent as a differential surplus and the significance of the law for Georgist theory.
 5. This wiki's [Margin of Production](/wiki/margin-of-production/) page — used for the connection between the margin and the determination of wages and rent.

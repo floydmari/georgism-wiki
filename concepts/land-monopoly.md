@@ -7,6 +7,7 @@ excerpt: "The structural condition in which private ownership of land — a gift
 sources: [george-1879]
 excerpt: "In Georgist analysis, land monopoly is the structural condition in which private landownership lets owners collect economic rent — value created by nature and community growth — without contributing to production, since land cannot be reproduced in response to price."
 pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## The Argument
@@ -26,6 +27,14 @@ Critics of Georgism sometimes conflate land and capital, treating land as simply
 Land monopoly has direct implications for housing affordability. When land in desirable locations is held speculatively rather than developed, the supply of housing is restricted below what the market could produce. The owner benefits from rising land values (fuelled by others' economic activity and public investment) while contributing nothing. An LVT penalises this behaviour by making idle land holding costly, incentivising either development or sale to someone who will develop.
 
 ## Book Findings
+
+### George: Rent as "the Price of Monopoly"
+
+The term's originating definition is George's own, and it is sharper than the paraphrase above suggests. In *Progress and Poverty*, Book III, Ch. II ("Rent and the Law of Rent"), George derives rent's monopoly character directly from the mechanics of the [law of rent](/wiki/law-of-rent/): rent tracks not the absolute productiveness of a piece of land but its advantage over the best land obtainable *for nothing*, so that scarcity of free alternatives — not any service the owner performs — is what creates the payment:
+
+> *Thus rent or land value does not arise from the productiveness or utility of land. It in no wise represents any help or advantage given to production, but simply the power of securing a part of the results of production... Rent, in short, is the price of monopoly, arising from the reduction to individual ownership of natural elements which human exertion can neither produce nor increase.*
+
+George immediately generalizes this to the limiting case: "If one man owned all the land accessible to any community, he could, of course, demand any price or condition for its use that he saw fit; and, as long as his ownership was acknowledged, the other members of the community would have but death or emigration as the alternative to submission to his terms." He then notes that *actual* land monopoly is diffuse rather than singular — land is "in the hands of too many different persons to permit the price... to be fixed by mere caprice," which is precisely why a *law* of rent (competition among many small monopolists) is needed rather than a simple story of one owner's demand (Book III, ch. II). This is the theoretical core the "Land vs. Capital" and "Implications for Housing" sections above restate in modern terms: monopoly here means exclusive legal control over an unreproducible natural element, not necessarily concentration in a single hand. (A-claim; direct quotation, verified verbatim against the repository's hosted full text.)
 
 ### Smith: Primogeniture and Entails as Concentration Mechanisms (1776)
 
@@ -89,7 +98,7 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) — used for the concept's definition and the monopoly framing (A-claims).
+1. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book III, Ch. II ("Rent and the Law of Rent") — [wiki summary](/wiki/progress-and-poverty/) · [full hosted text](/wiki/progress-and-poverty-full-text/) — used for the concept's originating definition, the "price of monopoly" quotation, and the single-owner limiting-case illustration (A-claims; quotations verified verbatim against the repository's hosted full text).
 2. Adam Smith (1776), *The Wealth of Nations*, Book III, Ch. II — used for primogeniture and entails as concentration mechanisms and the "equal right to the earth" passage (A-claims for the quotations, public domain, verified verbatim against the repo-hosted text 2026-07-11; D-claim for the Georgist framing). **Complete text held in this repository:** [`sources/publicdomain/wealth-of-nations.md`](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/wealth-of-nations.md) (Project Gutenberg #3300). Georgist-lens summary: [The Wealth of Nations](/wiki/wealth-of-nations/).
 3. Henry George (1883), *Social Problems* — used for George's popular restatement of the land-monopoly argument (A-claim). [wiki summary](/wiki/social-problems/)
 4. J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (Cambridge: Cambridge University Press, 1993) — used for the enclosure-as-monopoly-mechanism account (A/B-claims). [Book page](/wiki/commoners-neeson/)
