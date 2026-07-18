@@ -7,7 +7,7 @@ excerpt: 'Gaffney''s historical survey of nine US and Canadian cities, 1890-1930
   transit and parks from the land-value base — coincided with outsized population
   growth, with New York City''s 1920s building-tax exemption as the flagship case
   and Pittsburgh''s building-without-population growth as an explicit anomaly.'
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf
 stub: false
 subcategory: wiki-research-urban
@@ -173,6 +173,38 @@ controlled comparison; Gaffney's own causal mechanism is that these administrati
 happened to combine land-value taxation, low transit/utility fares, and heavy public
 investment — not that left-wing governance is generically pro-growth.
 
+## A Negative Case: New Orleans After Katrina
+
+A later Gaffney essay, "Repopulating New Orleans: How did San Francisco do
+what a top economist says New Orleans cannot?" (*Dollars & Sense*,
+March/April 2006), uses the same San Francisco 1906-30 case above as one side
+of an explicit contrast — this time against a city where the same recovery
+did *not* happen, offering a negative case rather than another growth
+success.[3] The essay opens with Nobel laureate Thomas Schelling's post-Katrina
+verdict that rebuilding New Orleans was "essentially a problem of coordinating
+expectations" that "seems impossible" to solve — Gaffney's rebuttal is that
+American cities have solved exactly this "coordination" problem repeatedly
+after disasters (London 1666, Lisbon 1755, Chicago 1871, Tokyo 1923 and 1945,
+San Francisco 1906), historically through a mechanism John Stuart Mill's 1848
+*Principles* had already identified — but that mechanism, Gaffney argues, was
+specifically a **land-focused property tax that pressures every landowner to
+rebuild or sell at the same time**, not "coordination" as some free-floating
+psychological state.[3] New Orleans differed from San Francisco, in this
+essay's diagnosis, not in tax structure but in wealthy absentee "bottom-
+fishers" buying up flooded lots to hold for a future price rise — free-riding
+on the eventual rebuilding efforts of others while the tax system, "as nearly
+everywhere else," penalized active builders and spared idle speculative
+holders. The essay's separate discussion of Mississippi-flood-control
+politics (the 1927 dynamiting of the St. Bernard/Plaquemines levee to save
+New Orleans, which helped elect Huey Long governor the following year) is
+background context, not independently verified here. Gaffney offers no
+tax-policy prescription unique to disaster recovery beyond the wiki's
+existing land-value-tax case; the essay's distinctive contribution is the
+comparative framing itself — speculative absentee holding as the specific
+obstacle a disaster-recovery "coordination" story otherwise leaves
+unexplained, a mechanism this wiki elsewhere treats under [speculative
+vacancy](/wiki/speculative-vacancy-wastes-cities/).
+
 ## Standing and Limits
 
 **Claim class.** This is a historical-quantitative synthesis by a committed Georgist
@@ -240,3 +272,9 @@ undermined by other policies (a wage tax), or subverted by assessment practice.
    paper, its own endnote 42), and to trace that claim to its underlying newspaper
    article: Christopher Snowbeck, "Murphy: Land Tax Values Illogical," *Pittsburgh
    Post-Gazette*, January 15, 2001. [PDF (Lincoln Institute)](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/1275_hughes_final.pdf)
+3. Mason Gaffney, "Repopulating New Orleans: How did San Francisco do what a top
+   economist says New Orleans cannot?," *Dollars & Sense*, March/April 2006 — used
+   for the New Orleans negative-case section above (Schelling's "coordination"
+   verdict, the absentee-bottom-fisher mechanism, and the 1927 levee/Huey Long
+   background). Read in full 2026-07-18; no prior wiki coverage. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Repopulating_New_Orleans_dollarsandsense.pdf);
+   local mirror at `sources/gaffney/text/RepopulatingNewOrleans.txt`.

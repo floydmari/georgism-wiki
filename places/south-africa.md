@@ -4,7 +4,7 @@ category: places
 tags: [places, south-africa, site-value-rating, katz-commission, municipal-property-tax]
 stub: false
 excerpt: "South Africa has one of the world's longest municipal site-value-rating histories, running from the Transvaal Local Authority Rates Ordinance through the 2004 Municipal Property Rates Act, and a post-apartheid Katz Commission inquiry (1998–99) that examined and ultimately did not lead to a national land tax."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -18,6 +18,28 @@ For much of the twentieth century, South African municipalities rated property u
 ## The Katz Commission and the National Land Tax Debate
 
 After the end of apartheid, the Katz Commission — a tax-reform commission appointed by the new government — examined whether South Africa should adopt a national or rural land tax. Its **Eighth Interim Report**, *The Implications of Introducing a Land Tax in South Africa* (signed at Johannesburg in September 1998; briefed to Parliament's Finance Committee on 21 September 1999), concluded that a land tax could be a good revenue source, especially at local government level, but identified **limited administrative capacity to value and collect the tax**, particularly on communal and tribal land — where the report notes "market values could not be ascertained" and mass valuation of use values would be required — as the main obstacle to implementation.[2][3] The Commission set out "minimum requirements" a land tax would need to meet — including that the taxing authority be local, not national — but the recommendation was not enacted into a comprehensive land tax; subsequent policy discussions, including a 2017 land-audit report and ongoing National Treasury analysis, have continued to raise a land value tax as an option for funding land reform without it being adopted.[3][4]
+
+**A contemporary Georgist critique of the underlying report (2026-07-18).**
+Mason Gaffney reviewed a draft chapter of the report — "The Economic Effect of
+a Land Tax on Agriculture," dated internally to March 1999 — and argued its
+negative findings on agricultural land taxation rested on a methodologically
+flawed and ideologically loaded analysis, not neutral economics.[6] His
+specific objections: the report's linear-programming model is presented as a
+"black box" without its assumptions, data, or workings disclosed, so its
+results (e.g., that a 1% land tax lowers land prices by 5.3%) cannot be
+replicated or checked against standard capitalization theory, which Gaffney
+calculates should show an 11.1% decline at the report's own 8% assumed
+interest rate; a separate passage's arithmetic (a drop from R297.75 to
+R218.40) is stated as "12.32%" when it is actually 27%.[6] Gaffney also
+argues the report begs the question by treating the pre-tax status quo as the
+efficiency baseline against which any land tax is scored a "distortion," and
+by conflating "farmers" with "landowners" throughout — obscuring absentee and
+institutional ownership of farmland (his own California comparison: the
+82,000-acre San Simeon estate). This critique — a named economist's detailed,
+publicly circulated rebuttal of the Commission's own working paper — is not
+itself evidence the Commission's ultimate administrative-capacity conclusion
+above was wrong, but it complicates a reading of the Eighth Interim Report as
+simply a neutral technical assessment.
 
 ## Gaffney's Johannesburg-Cape Town Comparison
 
@@ -55,3 +77,4 @@ South Africa shows that long, granular experience administering site-value ratin
 4. South Africa, *Land Audit Report* (November 2017) — used for the post-Katz recommendation to fund a Land Reform Fund partly through a land value tax under the Municipal Property Rates Act (B-claim, secondary reference within source 3's briefing).
 5. Riël C.D. Franzsen (2003), *Property Taxation within the Southern African Development Community (SADC): Current Status and Future Prospects of Land Value Taxation — Botswana, Lesotho, Namibia, South Africa and Swaziland*, Lincoln Institute of Land Policy Working Paper WP03RF1 — [Lincoln Institute PDF](https://www.lincolninst.edu/app/uploads/2024/04/franzsen-wp03rf1.pdf) — read this session; used as a post-2000 academic account confirming that site-value rating persisted in roughly a third of South African municipalities (including Johannesburg and Tshwane) while national framework legislation was already moving the country toward a capital-improved-value base, the trajectory that became the 2004 Municipal Property Rates Act.
 6. Mason Gaffney, "Enterprising Johannesburg and Sleepy Cape Town: A Contrast" (workpaper WP077, undated, c. 1991-92) — read in full; used for the Johannesburg-Cape Town growth-comparison argument. Full detail and confounders on this wiki's [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) page.
+7. Mason Gaffney, "Critique of South African Katz Commission Reports" (workpaper WP078, comments dated 28 March 1999, on a draft chapter emailed to Gaffney by Fred Harrison, sourced from Peter Meakin) — used for the critique section above. Read in full 2026-07-18; no prior wiki coverage. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP078%20Critique%20of%20South%20African%20Katz%20Commision%20(sic)%20Reports.pdf); local mirror at `sources/gaffney/text/WP078-CritiqueSouthAfricanKatzCommission.txt`.

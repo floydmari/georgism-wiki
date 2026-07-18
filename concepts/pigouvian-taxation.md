@@ -5,7 +5,7 @@ tags: [concepts, pigouvian-taxation, externalities, carbon-pricing, environmenta
 stub: false
 supports_outcomes: [carbon-pricing-cuts-emissions]
 excerpt: "The externality-pricing tradition that charges for socially costly use of shared resources — and its Georgist kinship, which frames pollution and extraction as unpriced takings from the commons."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -59,6 +59,38 @@ where the price-correction model needs a land-market answer instead. See
 [research/gaffney-nonpoint-pollution](/wiki/gaffney-nonpoint-pollution/) for
 the full argument. (C-claim; Gaffney's own applied argument, attributed.)
 
+## Institutional Capture: Why Coase Displaced Pigou
+
+Beyond the toolkit's technical limits, Gaffney's memoir essay "Sleeping with
+the Enemy: Economists who Side with Polluters" (*Groundswell*, 2011) argues a
+second, institutional reason Pigouvian charges lost ground to Coasian tradable
+permits from the 1970s onward: funding capture, not superior economics.[10]
+Gaffney, a firsthand participant, describes **Resources for the Future
+(RFF)** shifting its research program from Allen Kneese's Pigovian
+effluent-charge advocacy (Kneese's showcase result was cleaning up the Ruhr
+Valley's wastewater with charges) toward Ronald Coase's and George Stigler's
+tradable-permit framework after the Ford Foundation phased out its
+unconditional grant around 1973 and RFF began depending on corporate
+funding.[10] He documents the practical result in Los Angeles's RECLAIM
+smog-credit market: broker **Anne Sholtz** was investigated by the South
+Coast Air Quality Management District starting July 2002 for allegedly
+selling the same tradable pollution credit to several different buyers — a
+concrete fraud case in a market Gaffney argues was structurally invited by
+grandfathering permits to "ancient and therefore honorable" polluters rather
+than auctioning them.[10] The essay also cites Kneese and Herfindahl's 1965
+finding that survey respondents' "willingness to accept" (WTA) compensation
+for giving up an entitlement runs far higher than their "willingness to pay"
+(WTP) to acquire the same entitlement — evidence, Gaffney argues, that
+initial entitlement assignment is not the distributionally neutral
+technicality Coase's theorem treats it as, since contingent-valuation
+researchers Mitchell and Carson routinely discarded WTA responses exceeding
+WTP by more than 5% as "methodological artifacts."[10] This is Gaffney's own
+attributed institutional history (a D-claim resting on personal recollection
+and named but not independently re-verified episodes), not a peer-reviewed
+finding, and it is a distinct argument from the essay's account of RFF's
+handling of Gaffney's own forestry and military-spending research — that
+biographical material is not carried on this wiki.
+
 ## Relationship to Deadweight Loss
 
 Pigouvian taxes occupy an unusual position in tax theory. Most taxes create [deadweight loss](/wiki/deadweight-loss/) by discouraging beneficial activity — the lost transactions would have been mutually beneficial. A Pigouvian tax, by contrast, is designed to discourage a *harmful* activity whose private cost understates its social cost. Under the standard theoretical model, a correctly calibrated Pigouvian tax improves allocative efficiency rather than reducing it.
@@ -110,3 +142,4 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 7. Lawrence H. Goulder, "Environmental Taxation and the 'Double Dividend': A Reader's Guide," *International Tax and Public Finance* 2(2) (1995), pp. 157–183 — used for the weak/strong double-dividend distinction and the tax-interaction effects that qualify it. DOI [10.1007/BF00877495](https://doi.org/10.1007/BF00877495) (also [NBER WP 4896](https://www.nber.org/papers/w4896)).
 8. Alanna Hartzok (2008), *The Earth Belongs to Everyone*, Institute for Economic Democracy Press — referenced in this wiki's ecological-georgism page for the land-rent-capture / environmental-justice convergence. No stable external URL for this book has been confirmed; it carries no load-bearing claim on this page — the peer-reviewed weight for the carbon-rent framing rests on Boyce (sources 4–5).
 9. Mason Gaffney (1988/89), "Nonpoint Pollution: Tractable Solutions to Intractable Problems," *JBA* 18(1&2): 133–154 — used for the critique of surrogate-tax Pigouvian remedies for diffuse pollution and the land-market alternative (C-claim, attributed). [Wiki summary](/wiki/gaffney-nonpoint-pollution/) · [PDF](https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf)
+10. Mason Gaffney (2011), "Sleeping with the Enemy: Economists who Side with Polluters," *Groundswell*, Jan-Feb and May-June 2011 — used for the institutional-capture narrative above (RFF's Pigou-to-Coase shift, the Anne Sholtz RECLAIM tradable-permit fraud case, and the WTA/WTP asymmetry evidence). Read in full 2026-07-18; no prior wiki coverage. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Sleeping_with_the_Enemy.pdf); local mirror at `sources/gaffney/text/SleepingWithTheEnemy.txt`.

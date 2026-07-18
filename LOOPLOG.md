@@ -1834,3 +1834,23 @@ his four research pages); organizations/schalkenbach-foundation 217→545
 (18 inbound — Critics funding history, 2025 P&P-Institute rename). Zero new
 external fetches — every claim traces to a held source. Warnings identical to
 stash-verified baseline. 888 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: minor bundle final sweep — GAFFNEY CORPUS LANE CLOSED
+
+All 19 bundle items READ IN FULL (agent exceeded the skim brief), 19/19
+verdicted: 10 FOLDED (Mendocino TPZ case → forest-taxation; Sales_Tax_Bias 2011
+→ PRIORITY note on europes-fatal-affair-with-vat — Mill Effect stated 5 years
+before the 2016 chapter; WP001/040 1830s canal-boom narrative → 18-year-cycle;
+Sleeping_with_the_Enemy → pigouvian-taxation's new Institutional Capture section
+(RFF Pigou-to-Coase shift); Repopulating_New_Orleans → new-life-in-old-cities as
+a NEGATIVE-case coda; Great_Crash_of_2008 → priority notes, predates the 2009
+AJES paper by 14 months; Katz Commission critique → south-africa; two Russia
+rent-privatization papers incl. 1999 Duma testimony → russia-post-soviet-
+transition), 8 declined-thin, 1 declined-duplicate, 0 unresolved, ZERO new pages
+(closure standard held). CORPUS CLOSURE entry written in the triage as the
+lane's handoff record. Registry +10 supplementary rows; 19 text mirrors.
+888 pages, lint 0 errors. GAFFNEY LANE FINAL STATE: 190-file corpus fully
+triaged and worked — ~40 works read in full onto dedicated/updated pages,
+~20 folded, remainder declined with recorded reasons; 5 priority corrections
+shipped today alone (1961 credit mechanism, 1969 Milwaukee primary, 1991 peace
+dividend, 1972 caciques, 2011 Mill Effect).

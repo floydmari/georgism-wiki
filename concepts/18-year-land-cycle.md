@@ -142,12 +142,60 @@ Gaffney's description. Readers should treat this as an open, as-yet-unadjudicate
 Gaffney prediction, not a confirmed data point, and should not infer either
 outcome from its presence on this page.
 
+**An earlier, real-time companion piece (2026-07-18 addition).** Gaffney's
+2012 AFEE lecture and 2009 *After the Crash* retrospective (below) were not
+his first statement on the 2008 crash: "The Great Crash of 2008," written 17
+August 2008 while the crisis was still unfolding, states the same Hoyt-cycle
+mechanism and closes with an honor roll of four Georgist-tradition economists
+— Fred Foldvary, Fred Harrison, Michael Hudson, and Bryan Kavanagh — who had
+forecast the crash in print in advance, a different and earlier list than the
+Harrison/Foldvary pair the 2009 paper cites.[10] It also derives, algebraically,
+why a land-price plateau cannot be permanent (`V = a/(i-g)`; a falling growth
+expectation "g" collapses V faster than it falls), extends the land-cycle
+chronology back through the 1720 Mississippi Bubble, the 1630s Amsterdam
+"Tulip Bubble" housing-price data, and a 1454 Florence peace-dividend
+boom/bust under the Medici bank, and gives the same San Francisco-1906
+recovery case study documented at greater length on [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/).
+This wiki treats the essay's "Great Crash of 2008" framing as documented from
+17 August 2008 — 14 months before the October 2009 *AJES* special issue — a
+dated, checkable priority fact, not a claim that the underlying land-cycle
+theory itself originates here (see the Hoyt/Harrison/Anderson sections above
+for that lineage).
+
 The Pecora Hearings framing that opens Gaffney's lecture — his account of how
 Ferdinand Pecora's 1933 Senate investigation into Wall Street practices produced
 Glass-Steagall, the Securities Act, and the SEC, and his argument that no
 comparable public reckoning followed the 2008 crash — is background scene-setting
 for the credit-quality argument above rather than a separate empirical claim, and
 is not otherwise carried on this page.
+
+## Gaffney's Narrative Case Study: The 1830s Canal Boom and Chicago Bust
+
+Two companion Gaffney working-paper notes — "The U.S. Canal Boom and Bust,
+1820-1842" (WP001, May 1993, updated 2009) and "Chicago Boom and Bust,
+1830-1840: A Cycle of Capital Waste" (WP040), explicitly cross-referenced to
+each other and built in part on Hoyt's Chapter I data — narrate the mechanism
+behind this page's 1836 peak in far more causal detail than Hoyt's own
+descriptive dissertation supplies.[8][9] Gaffney documents a **60-fold rise in
+Chicago land prices, 1830-36**, and shows the market's blind spot at the peak:
+by 1836 the city had subdivided enough land to house **50,000 people against
+an actual population of 4,000**, and when the crash came, federal land sales
+in Illinois fell to **3.6% of their 1836 level** in 1837 as asking prices held
+steady while buyers vanished.[9] Both notes distinguish "winners" — self-financing
+"revolving funds" like the Erie Canal, which paid its own way segment by
+segment before completion — from "losers": overbuilt "gold-plated monuments"
+like the Chesapeake & Ohio Canal, and states like Pennsylvania that spread
+credit too thin across cross-subsidized feeder lines. WP040 also supplies a
+positive-feedback-loop diagram for the mechanism this page's "Reverberations"
+section (below) describes narratively for 1990-2008: Chicago's basic economy
+→ speculative land prices → state-chartered Illinois banks → state bonds →
+the state's canal-building program → back to the local economy — with the
+banks' collateral resting on speculative land value as "the great secret that
+macro-economists never tell."[9] Both notes are workpaper-level historical
+narrative (D-claims, Gaffney's own attributed interpretation of the Hoyt-era
+data), not a new empirical dataset, and their 60-fold and 3.6% figures are
+Gaffney's own citations of Carter Goodrich's and Hoyt's underlying sources,
+not independently re-verified here.
 
 ## Significance
 
@@ -200,3 +248,6 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 5. Guntermann, K., "The Current Real Estate Cycle," cited in Harrison 2005, Ch. 5 §4, p.82 — used for the 70% speculative premium figure (B-claim; empirical).
 6. Weber, B., house-property sales data for Glasgow 1872–1907, cited in Harrison 2005, Ch. 5 §5, p.86, Table 5.5 — used for the 13.85 years' purchase empirical corroboration (B-claim; empirical).
 7. Mason Gaffney (2012), "Reverberations Between Immoderate Land-Price Cycles and Banking Cycles," Association for Evolutionary Economics (AFEE) annual meeting, Chicago, Jan. 8, 2012, footnoted by Polly Cleveland and John Tepper Marlin — used for the peace-dividend overlay-cycle argument, the Pecora-hearings background, the 1990–2008 "perfect 18-year cycle" claim, and the 2026 forecast (all D/C-claims; Gaffney's own attributed interpretive framework, not independently tested by this wiki). Read in full this session. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf); local mirror at `scratchpad/cache/gaffney-mirror/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf`; extracted text at `sources/gaffney/text/I2012Gaffney_Reverberations_AFEE_lecture_2012.txt`.
+8. Mason Gaffney, "The U.S. Canal Boom and Bust, 1820-1842," working paper WP001, notes dated May 1993, updated 2009 — used for the 60-fold Chicago land-price rise (1830-36) and the 1837 federal-land-sales collapse to 3.6% of 1836 levels, per Gaffney's own citation of Carter Goodrich, *Government Promotion of American Canals and Railroads* (1960). Read in full 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP001%20The_US_Canal_Boom_and_Bust_1820-42_WP01.pdf); local mirror at `sources/gaffney/text/WP001-USCanalBoomAndBust.txt`.
+9. Mason Gaffney, "Chicago Boom and Bust, 1830-1840: A Cycle of Capital Waste," working paper WP040 — used for the 50,000-vs-4,000 subdivision figure, the positive-feedback-loop diagram, and the "Type A/Type B" land-holder taxonomy in the section above; built in part on Homer Hoyt's data (see [Hoyt (1933)](/wiki/hoyt-chicago-land-values/) for the primary empirical source). Read in full 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP040%20Chicago%20boom%20and%20bust%20-%20A%20cycle%20of%20capital%20waste.pdf); local mirror at `sources/gaffney/text/WP040-ChicagoBoomAndBust.txt`.
+10. Mason Gaffney, "The Great Crash of 2008," *Progress* (Melbourne), August 2008; also published in *The Georgist Journal* #110-111 (2008) and as Davies (ed.), *The Great Crash of 2008* (Henry George Institute, 2008) — used for the dated-forecast note below: this real-time essay, written 17 August 2008 as the crisis unfolded, independently lists four Georgist economists (Fred Foldvary, Fred Harrison, Michael Hudson, Bryan Kavanagh) who forecast the crash in print before it happened, extends the historical land-cycle chronology back through the 1720 Mississippi Bubble, the 1630s Amsterdam "Tulip Bubble" (via Eichholtz's housing-price research), and a 1454 Florence peace-dividend boom/bust under the Medici, and states the same `V = a/(i-g)` valuation-plateau algebra later used on [How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/). Read in full 2026-07-18; see also the priority note on [Gaffney (2009), After the Crash](/wiki/gaffney-after-the-crash/). [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Great_Crash_of_2008.pdf); local mirror at `sources/gaffney/text/GreatCrashOf2008.txt`.

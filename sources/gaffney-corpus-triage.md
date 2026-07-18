@@ -22,6 +22,121 @@ gaffney-full-employment-limited-land, gaffney-tax-reform-release-land,
 gaffney-peace-dividends-land-booms;
 narratives/the-corruption-of-economics; people/mason-gaffney.
 
+**2026-07-18 (CORPUS CLOSURE — the final Gaffney sweep, the unranked "minor
+candidates" bundle, item #7 below, closed out):** This is the lane's handoff
+record. All 19 works in the bundle were fetched fresh from masongaffney.org
+(with the `%26`-encoding fix where needed), extracted with `pdftotext`, and
+**read in full** — none skimmed. Per-item verdicts:
+
+- **10 folded** (a fact or argument added to an existing page, no new
+  dedicated page): **WP061** ("Token Timber Taxation: Case of Mendocino
+  County, CA," 2000) — a county-level TPZ assessment case study folded into
+  [research/gaffney-forest-taxation](/wiki/gaffney-forest-taxation/).
+  **`Sales_Tax_Bias_Against_Turnover`** (2011) — a priority-correction note
+  on [research/gaffney-europes-fatal-affair-with-vat](/wiki/gaffney-europes-fatal-affair-with-vat/)
+  (the 2011 essay states the same "Mill Effect" argument and Groves table five
+  years earlier and in fuller form, with a Dorfman/Wicksell/Vickrey citation
+  apparatus the 2016 chapter lacks), cross-linked to
+  [research/gaffney-tax-induced-slow-turnover](/wiki/gaffney-tax-induced-slow-turnover/).
+  **WP001** ("The U.S. Canal Boom and Bust, 1820-1842") **+ WP040** ("Chicago
+  Boom and Bust, 1830-1840") — a companion pair folded together into
+  [concepts/18-year-land-cycle](/wiki/18-year-land-cycle/) as Gaffney's own
+  narrative case study of the page's 1836 peak (60-fold Chicago land-price
+  rise, subdivision for 50,000 against an actual population of 4,000, federal
+  land sales collapsing to 3.6% of 1836 levels in 1837). **`Sleeping_with_the_Enemy`**
+  (2011) — an institutional-capture narrative (RFF's Pigou-to-Coase shift
+  after 1973 funding changes; the Anne Sholtz RECLAIM tradable-permit fraud
+  case; WTA/WTP asymmetry evidence) folded into
+  [concepts/pigouvian-taxation](/wiki/pigouvian-taxation/). **`Repopulating_New_Orleans`**
+  (2006) — a negative-case coda (Katrina-era New Orleans contrasted with the
+  same 1906 San Francisco recovery this wiki already documents in detail) folded
+  into [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/).
+  **`Great_Crash_of_2008`** — a real-time essay dated 17 August 2008, 14 months
+  before Gaffney's 2009 *AJES* retrospective, folded as a priority note into
+  both [research/gaffney-after-the-crash](/wiki/gaffney-after-the-crash/) and
+  [concepts/18-year-land-cycle](/wiki/18-year-land-cycle/) (a different
+  four-name honor roll of Georgists who called the crash, an explicit
+  `V=a/(i-g)` valuation-plateau derivation, and an extended historical
+  chronology back to 1454 Florence). **WP078** ("Critique of South African Katz
+  Commission Reports," 1999) — Gaffney's own technical rebuttal of the report
+  [places/south-africa](/wiki/south-africa/) already summarizes neutrally,
+  folded in as a named, dated dissent (disclosed arithmetic errors, an
+  undisclosed "black box" linear-programming methodology). **WP079**
+  ("Privatizing Land Without Giveaway," c. 1991) **+ WP080** ("The Taxable
+  Surplus in Russian Land," Duma testimony, 19 January 1999) — folded together
+  into [places/russia-post-soviet-transition](/wiki/russia-post-soviet-transition/)
+  as independent, primary-source corroboration (a named Duma committee chair,
+  a direct reference to Dmitri Lvov as a co-speaker) of the Georgist advocacy
+  effort that page's Harrison-tweet-derived sourcing otherwise carries alone.
+- **8 declined as thin** (read in full, no checkable claim clearing the
+  established fold/page bar): **WP051** ("Who Owns Southern California?") — an
+  unfinished ("TO BE CONCLUDED?") press-clipping notebook of landholding
+  gossip, none of it independently checkable. **WP062** ("Observed Behavior
+  vs. A Priori Dogmatism in Land Markets: Henry George as a Behavioral
+  Economist," 1988 conference notes) — an eleven-bullet list restating
+  arguments (rent-seeking, land concentration, synergistic cities) already
+  covered elsewhere in the corpus under a new label, with no case developed
+  for the "behavioral economics" framing itself. **WP084** ("Sales-tax
+  Suicides Through History") — a 35-item, self-selected list of politicians
+  who lost office after championing consumption taxes, with the correlation's
+  obvious survivorship bias undercut by Gaffney's own item #33 exception.
+  **WP087** ("Sales Tax Leakages") — a 29-item loophole list whose substance
+  (land-use categories exempt from sales tax) is already carried, in
+  narrative form, inside the folded `Sales_Tax_Bias_Against_Turnover` essay
+  above. **WP100** ("The OECD vs. 'Harmful Tax Competition,'" 1999) — a
+  distinctive argument (California pre-1978 and Hong Kong as "magnetic"
+  land-tax structures that attract rather than repel mobile capital) but one
+  that substantially overlaps ground already covered by
+  [places/hong-kong](/wiki/hong-kong/), the California city-growth material on
+  [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/),
+  and the capital-mobility element of
+  [research/gaffney-hidden-taxable-capacity](/wiki/gaffney-hidden-taxable-capacity/);
+  declined for this closure wave rather than folded piecemeal into three
+  pages for one OECD-critique essay. **`The_Red_and_the_Blue`** (2004) — a
+  short, explicitly speculative *Groundswell* column ("What that means for
+  social psychology and voting patterns I leave to you") correlating 2004
+  election results with tenancy rates and land-value-driven cost-of-living
+  gaps; no wiki page on voting behavior or imputed-rent statistics exists to
+  anchor it, and its own evidentiary standard is below the wiki's fold bar.
+  **`Philippines_Land_Reform`** (1987 speech notes) — a rich but heavily
+  personal-anecdote (1945 GI-experience) historical-political narrative on
+  Spanish/American colonial land tenure, with only one hard data point
+  (Sorongon 1955: 600 entities held 13% of Philippine farm area); no anchor
+  page exists, and per the prior wave's own assessment this international
+  cluster was "thinner than the Peace Dividends and city-growth clusters,"
+  confirmed on a full read. **WP083** ("Land Rent in a Tax-free Economy," 1996
+  Moscow Congress outline) — a shorter restatement of the same general
+  Georgist rent-theory ground as WP079/WP080 above, with no Russia-specific
+  fact beyond examples (Vancouver's 73% land-value ratio, the McCaw/AT&T
+  spectrum sale) already available via other means; declined as redundant
+  once WP079/WP080 were folded.
+- **1 declined as duplicate**: **WP076** ("South African Diary, March 17-30,
+  1992") — a 14-page travel diary (smoking habits, airline complaints, South
+  African slang) whose one substantive claim, the reported 4% Johannesburg
+  site-value-tax rate, is already sourced from the companion workpaper WP077
+  on both [places/south-africa](/wiki/south-africa/) and
+  [research/gaffney-georgist-city-growth-cases](/wiki/gaffney-georgist-city-growth-cases/).
+
+**Census: 19/19 read in full, 19/19 verdicted, 10 folded, 8 declined-thin, 1
+declined-duplicate, 0 unresolved.** Ten new registry rows (all tier
+`supplementary`, Scan Depth Medium, Status "Referenced" — cited but not
+dedicated-page-mined, per the established convention for fold-only sources);
+no registry rows for the 9 declined works, per the standing convention. Text
+mirrors for all 19 works (folded and declined alike, since all were read in
+full) at `sources/gaffney/text/` — see each folded page's Sources section for
+the exact filename; the 9 declined works are mirrored as
+`WP051-WhoOwnsSouthernCalifornia.txt`, `WP062-ObservedBehaviorVsAprioriDogmatism.txt`,
+`WP084-SalestaxSuicidesThroughHistory.txt`, `WP087-SalestaxLeakages.txt`,
+`WP100-OECDHarmfulTaxCompetition.txt`, `TheRedAndTheBlue.txt`,
+`PhilippinesLandReformThroughTaxReform.txt`, `WP076-SouthAfricanDiary1992.txt`,
+and `WP083-RussianLandRentInATaxFreeEconomy.txt`, kept for provenance though
+not cited from any wiki page. `lint_wiki.py`: 0 errors. **This closes the
+Gaffney corpus triage lane in full: 0 unresolved rows remain anywhere —
+across the original 95-row workpapers/essays/publications sweep, the six
+individually-ranked future candidates, and this final unranked bundle.** Any
+further Gaffney-corpus work from here is a fresh, explicitly-scoped
+initiative, not a continuation of this triage.
+
 **2026-07-18 (Peace Dividends pair mined + 1972 priority correction — first
 future-wave-candidate pass):** Mined the top two ranked future candidates from
 the burn-down wave below. **WP048 + WP049** ("Peace Dividends, Land Bubbles and
@@ -291,7 +406,7 @@ OCR needed). Text mirrored to `sources/gaffney/text/E4-TaxReformtoReleaseLand.CV
    below); folded as a narrow, dated delta into
    [research/california-irrigation-districts](/wiki/california-irrigation-districts/)
    instead (no new dedicated page).
-7. Minor candidates (not independently ranked): WP051 (Southern California
+7. ~~Minor candidates (not independently ranked): WP051 (Southern California
    land-concentration data), WP061 (Mendocino timber-tax case study), WP062
    (George as behavioral economist), WP084 + WP087 + `Sales_Tax_Bias_Against_Turnover`
    (a sales-tax-critique cluster), WP100 (OECD tax competition), WP001/Canal-Boom
@@ -302,7 +417,10 @@ OCR needed). Text mirrored to `sources/gaffney/text/E4-TaxReformtoReleaseLand.CV
    forecast), Philippines_Land_Reform + the South Africa (WP076/WP078) and
    Russia (WP079/WP080/WP083) clusters (an "international land-reform
    advocacy" grouping, thinner than the Peace Dividends and city-growth
-   clusters above but potentially worth a combined future pass).
+   clusters above but potentially worth a combined future pass).~~ — **SWEPT
+   2026-07-18, all 19 items verdicted, 0 unresolved.** See the CORPUS CLOSURE
+   entry below for the complete per-item disposition. No individually-ranked
+   or unranked candidate is left open anywhere in the corpus.
 
 **Cross-links added this wave:** [concepts/nimbyism](/wiki/nimbyism/)
 (priority-correction note), [concepts/land-monopoly](/wiki/land-monopoly/)

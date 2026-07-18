@@ -1,0 +1,679 @@
+                                                                                                      1
+
+
+                     Sales-Tax Bias against Turnover and Jobs
+                                          Mason Gaffney
+                                 Insights August-September 2011
+
+Foreword
+   My thesis is that retail sales taxes, however "general" or universal in their apparent coverage,
+tax capital for turning over; turnover means replacement; and replacement sustains demand for
+labor. Replacement does not just depend on sales, it anticipates them, and thereby generates the
+consumer incomes that finance them: thus it can take the lead in the otherwise circular and now
+vicious circle of macro-economics in which employers wait for consumers, while consumers
+wait for jobs. Turnover is measured by the sales/capital ratio, which is highly variable among
+different firms, products, locations, stages of the cycle - and tax regimes, which economists
+influence. Sales taxes depress it heavily.
+    Public officials at all levels feel major pressure to make jobs, as they should. But how? We
+begin with the physician’s motto, primum non nocere (first, do no harm). This is not a mindless
+grouch at all taxes, for we need public revenues, and some taxes have positive effects. This is a
+rifle-shot at retail sales taxes. These are a major source of state revenues today, they have grown
+fast since about 1932, and many politicians and lobbyists and academic and think-tank
+economists are agitating to raise them, and to add a Federal sales tax or VAT.
+
+The Prevailing Canon
+    Standard textbooks and learned papers tell us that a truly general retail sales tax, unlike an
+excise tax, is neutral as between one commodity and another. A statewide tax is also neutral
+between locations, since it is the same in one town or region as another. Those conditions are
+never approached in practice, but in the sales-tax canon that merely means reformers should
+extend the reach of the tax, as California is trying to do against Amazon today – setting a
+precedent that would apply to every State. Authoritative economists, whether liberal or
+conservative, are rooting for California to win over Amazon, and for years have been
+conditioning students' minds to favor taxing interstate commerce. Thus, Buchanan and Flowers
+wrote "If the tax is uniformly imposed on the sale of all commodities and services, there can be
+no real shifting of resources from taxed employments to nontaxed employments. The shift in
+relative prices occasioned by the partial tax cannot occur under a truly general sales tax" (1975,
+p. 399). Even Harry G. Brown, no fan of sales taxes, wrote "if there is a tax on the production of
+all commodities and services … there is no advantage in leaving one taxed line for another line
+which is taxed to the same extent." (1939, p.254). Earl Rolph and George Break, who bend
+toward agonizing agnosticism on most issues, commit to this view (p.117). So does Harold
+Somers, a little less guardedly (pp. 17, 26). Bernard Herber (p.254) chimes in cautiously, citing
+other work by Friedman, Musgrave, and I.M.D. Little. David Hyman finesses the question of
+forward vs. backward shifting as he segues seamlessly from a "consumption tax" based on
+income less saving to a retail sales tax (2005 pp.617-26). Charles McLure, mincing no words,
+wants Congress to outlaw " ... the ridiculously unfair and distortionary de facto exemption of
+interstate sales by mail-order houses" (2005).
+  The extreme outcome of such reasoning is Somers' implausible advice to the California State
+Legislature that a tax on gross sales is the same as a tax on net income (p.27). We return to this
+                                                                                                   2
+
+
+later under "The Mill Effect". Here we just note that there is another part of the canon, The
+Ramsey Rule, saying that sales tax rates, to be allocationally neutral, should not be uniform at
+all, but inversely proportional to elasticities of supply and demand. The writer has addressed this
+issue elsewhere (2009, pp. 52-53 ), quoting A.C. Pigou (p.105):
+   "If there is any commodity for which either the demand or the supply is absolutely inelastic,
+   the formula implies that the rate of tax imposed on every other commodity must be nil, i.e.
+   that the whole of the revenue wanted must be raised on that commodity."
+   That reasoning leads straight as a guided missile to levying taxes EXCLUSIVELY on the
+value of land, because its supply is absolutely inelastic. Whether Pigou knew what he was saying
+we may never know, for he was guarded and cautious and indirect and often obscure and coded,
+like so many academics fearful of witch-hunters. His Chapter XIV, "Taxes on the Public Value
+of Land", does clearly favor such taxes, but is more hedged and two-handed. Meantime, modern
+academics manage to square the circle by citing and then ignoring Ramsey's Rule. Richard
+Musgrave, whose admiring students are visible leaders in the field everywhere, leaves Ramsey
+completely out of his classic Theory of Public Finance. More commonly, writers misquote the
+Rule, having it apply only to demand elasticities, omitting supply elasticities, even though these
+are the more important part of the original rule. Professor Allyn Young of Harvard started this
+ball rolling in reviewing Pigou in 1929: "I shall assume that costs are constant. It will be
+unnecessary, therefore, to take account of elasticity of supply as something apart from elasticity
+of demand" (Young, p.15). Boom, just like that, ex cathedra! So much for the fixity of land
+supply.
+   David Hyman's treatment, changing from one edition to the next, is too Protean to pin down.
+Jonathan Gruber contrives to cite the rule correctly but then turn it upside down (p.588) first by
+omitting supply (which he has just included), and then by "balancing" it with the broad-base rule,
+offering no rationale. John Kay purges supply from the rule, turns it into a case for a poll tax,
+rejects that, and by a path obscure and lonely concludes by favoring levying a tax uniformly over
+a broad base. The notable exception is Joseph Stiglitz. Consistently, Stiglitz often writes in favor
+of taxing land values (2010).
+   Modern writers deplore the exemption of "services" from the sales tax base. These writers and
+teachers refer in their contexts only to labor services, ignoring the service flows of land or
+capital. This is not from ignorance: they know that the "service-flow" of an owner's home has
+long been included in NIPA as a form of income, income consumed by the owner-occupant as
+the real estate yields it. They just blank that out when it comes to taxing services to the "final"
+consumer (Anderson, p.252). This attitude suggests a bias among economic authorities - a bias
+self-perpetuated over time by the selective processes familiar to anyone whose brain remains
+intact after traversing the echo-chambers of graduate training in Economics. This bias even
+affected Harry G. Brown, leading academic Georgist of about 1920-50. Brown published that
+"wages are a much larger part of the total product of industry than is either interest on capital or
+rent of land" (1939, p.256) – a standard line used to support "broad-based taxes" in lieu of taxes
+that zero in on land rents, the kind that Brown championed. (For a detailed refutation of this
+view, see Gaffney, 2009.)
+   Sales taxes in the U.S.A. are not "general"; lawgivers do not intend them to be. Sales taxes
+apply by law only to sales of personal property, i.e. the lawgivers knowingly exempt that other
+kind of legal property, real property, meaning LAND and anything affixed to it. They exempt
+                                                                                                    3
+
+
+real estate sales, debt service, rent, sales commissions, crop shares, royalties, bonus payments for
+leases, imputed consumption of owner-occupied grounds, gains in value, gifts, bequests …
+almost everything to do with land, which the law treats quite separately from personal (movable)
+property. (An exception is the tax on hotel and motel rents, presumably in the belief that
+transients bear the tax and do not vote here.) On top of that many tenures to natural resources are
+not even real property, or any kind of property in the law, but licenses, e.g. to appropriate water,
+and not subject to any tax.
+   An exception is when a producer of "tangible personal property" uses the time-consuming
+services of land to add value to the goods, i.e. to convert the untaxed service of real property into
+taxed personal property. However, when one uses land-service directly, as for parking, riding to
+the hounds, shooting, golfing, housing, waste-disposing, yachting, or exhausting aquifers to
+water lawns, there is no sales or other "consumer" tax. Standard texts and authorities ignore and
+thereby accept this loophole, silently telling readers to conform with the custom, to take it as
+dogma, time-honored and regular. Thus Rolph and Break, who refer to sales taxes only as
+"commodity taxes", say that "optimal pricing refers to price relations among products only …"
+(n. 15, p.120).
+No State, to my knowledge, sales-taxes interest on consumer loans, e.g. on buying cars on time,
+and the dealer retains title to secure payment (Somers, p.11). The legal tax base is simply the
+invoiced price when the buyer takes possession, even though interest may add 50% to that price.
+Sales of arms and supplies to the U.S. Government, to be used up in warfare, are also exempt.
+   John Due, a standard authority, wrote in 1963 that the Feds have preempted the income tax
+base, so the States "are virtually compelled to turn to sales taxation" (p.296) - no mention that
+they might turn to property taxes, as they did from colonial days to 1930 or so. Actually, the
+retail sales tax is a recent interloper in western fiscal systems. "The sales tax existed …
+intermittently, in various European countries to about 1800, but in the 19th Century it played no
+part in the fiscal development of the important nations, … " (Shoup and Haimoff, 1934, p.811;
+National Industrial Conference Board, 1929, pp. 163-66). Professor Due did not note how states
+may also, besides property taxes, impose severance taxes, carbon taxes, franchise taxes, fees for
+using state property like water (falling, ground, and surface), commercial fishing licenses, or
+other means of raising revenue from land and natural resources.
+    Neither did Professor Due note that millions of parcels of rental property, commercial and
+industrial property, and vacation and other extra homes of the most affluent belong to people
+who live and travel and consume out of the state or the nation. From a worldwide viewpoint they
+may (or may not) pay sales taxes elsewhere, but it belies Due's dictum that each State is
+"virtually compelled to turn to sales taxation". On the contrary, turning to property taxation
+would close the gaping hole of absentee ownership, which sales taxes do not. It would also
+attract droves of buyers from nearby states, as Delaware, Oregon and New Hampshire do so
+successfully (Sullivan, 2011).
+   Due also writes (p.295) that taxing residential rents is unfair to tenants because there is no tax
+on the imputed rent that owners pay to themselves – no mention that we could balance taxes
+fairly by taxing the latter instead of continuing to exempt the former. Anderson's and Due's
+views seem to reflect the profession's blind spot on matters pertaining to land, or tacit approval
+of raising sales taxes to avoid taxing land or its rent.
+                                                                                                     4
+
+
+    Some economists speculate that any tax on or shifted to workers, whether as such or as
+consumers, may make them work harder and longer. It is called a "backward-bending supply
+curve", caused by an "income effect" (Somers, p.27), a bloodless way of describing putting
+mothers and children and cripples and invalids and illegal immigrants and students and the aged
+in the labor force – thus combating unemployment by lowering pay rates. Most economists
+choose examples revealing that they would apply the idea only to labor supply; many, like
+George Stigler of Chicago and Robert Rector of The Heritage Foundation, tell us this is good
+policy, that the minimum wage and union scales are too high anyway and everyone deserves a
+"right to work" for less. Prof. Jack Stockfisch (1954) even applied it to owners of capital and the
+supply of investment, but this has not caught on. Prof. Nicolaus Tideman has correctly applied it
+to landowners with respect to a tax on land values, but not otherwise, which makes sense since
+sales taxes, and most (but not all) other taxes, lower returns on productive capital and drive
+investors into buying land as a long-term store of value, like gold – a point that Hendershott,
+Follain and Ling have recognized ((1986).
+    Sales taxes are said to fall on "consumption", and so to encourage "saving", but one searches
+in vain for any general principled definition of "consume" or "consumption" in the sales tax
+literature. Shoup and Haimoff (1934) are among the few who at least try to define key terms, but
+lose us in a thicket of minor technicalities, legalisms and ambiguities. Tax simplifier and lawyer
+Bernard Wolfman wrote in 1969, “If the statute were simpler, and spoke more in principles, the
+courts would feel a broad mandate to enforce the law and honor the intentions of lawgivers”
+General principles are what economists should supply, what the present canon lacks, and what
+we seek here. (Cf. also Gaffney, 2009, "Four Vampires")
+    What does it mean to consume land, for example? Perhaps the unwritten assumption is that
+we cannot consume land because it does not wear out, but we certainly can consume time slots of
+it, and like the lawyer and doctor, time is its stock in trade. Man cannot destroy matter or energy
+or space, but wasted time is lost forever. If we convert 160 acres from growing walnuts to
+golfing, or from pasturing cows to sheltering foxes to chase or birds to shoot, or riparian land
+from landing food-fish to harboring yachts, we are re-allocating the land from production to
+having its time consumed for the owner's pleasure, right? So to make sense of sales taxation we
+must change existing literature and its paradigms, which now lead us as by a ring in the nose to
+ends selected by an apostolic succession of authorities steeped in what may be false doctrines.
+We must think the matter through afresh, with our own minds.
+
+The Mill Effect
+   In this paper I take the above as too obvious to labor further, and focus on a more subtle but
+deeper and more general matter: how sales taxes penalize and slow down the turnover of capital,
+and the frequency with which a given capital is reinvested to make jobs. John Stuart Mill, with
+his philosophical bent, looked deeper than modern writers on sales taxation, and pointed out a
+systemic bias inherent in the tax.
+   "… if there were a tax on all commodities, exactly proportioned to their value, there would,
+   ….. as Mr. M'Culloch has pointed out, be a 'disturbance' of values,… owing to … the different
+   durability of the capital employed in different occupations. … in two different occupations …
+   if a greater proportion of one than of the other is fixed capital, or if that fixed capital is more
+   durable, there will be a less consumption of capital in the year, and less will be required to
+   replace it, so that the profit, if absolutely the same, will form a greater proportion of the
+                                                                                                       5
+
+
+    annual returns. To derive from a capital of £1,000 a profit of £100, the one producer may
+    have to sell produce to the value of £1,100, the other only to the value of £500. (I.e., where
+    capital is less durable, you must sell more gross to get the same net profit.)
+    "If on these two branches of industry a tax be imposed … the one commodity must rise in
+    price, or the other must fall, or both: commodities made chiefly by immediate labor must rise
+    in value, as compared with those which are chiefly made by machinery. … " -- (1848, Book V,
+    Chapter IV, pp. 504-05).
+   How memorable is Mill's word "Disturbance", 150 years before Darth Vader in Star Wars
+sensed a "Disturbance in The Force"! In Mill's and M'Culloch's usage, "The Force" is value as
+determined in a market before or without taxes based on gross sales.
+    Mill hid this light under a bushel, by offering just one example of a small difference,
+arithmetic only, and easy to overlook in passing, which is what later standard economists have
+done. We should, rather, set this light in a tower on a hilltop as a beacon sending its gleam across
+the wave to save the foundering ship of state.
+   Harold Groves, a clearer expositor than Mill, makes the point in a simple table (p.113). "Store
+A is engaged in a trade which has a very slow turnover, such as the furniture business; Store B is
+one with a rapid turnover, perhaps a meat shop".
+
+                    I         II           III          IV          V         VI
+Store          Operating  Gross Sales Sales/Capital Profit      Tax at 5% Tax/Capital
+               Capital                              Before Tax of Sales
+A                 $30,000    $30,000              1        $300        $150    0.5%
+B                  $2,000   $100,000            50         $200        $500      25%
+
+   The sales tax, which is based on Column (II), gathers much more from B, the meat shop, than
+from A, the furniture store, because of B's higher turnover and greater volume. B's little capital
+of $2,000 turns over 50 times and is taxed 50 times a year, while A's $30,000 turns over and is
+taxed just once. Groves uses this table for another purpose, but it serves to make Mill's point as
+well.
+    Again, compare a parking lot with a cafeteria. Suppose both to be taxed on gross sales,
+including services. The inventory of fresh food in the cafeteria is taxed daily, as it sells out and
+turns over. The payrolls are taxed daily too, for they add to the gross value of sales. The value
+they add to the purchased stock of food is capital, too: "working capital". Or, if one prefers to
+ignore capital of life so brief and so small a claim on the final product, the sales tax is simply a
+tax on labor. The gross sales of parking lots, at the other extreme, include no turnover of capital
+at all, unless perhaps a minuscule Capital Consumption Allowance (CCA) on the paving and
+striping.
+   More generally, as Dan Sullivan points out, sales taxes penalize high-volume low-markup
+marketing strategies as against their opposite. Lest one turn up his nose at, say, Walmart, its low
+prices do not reflect low markup so much as low labor-service per dollar of inventory. It also
+provides acres of free parking, a service of land, like other big-box stores. Sullivan also notes
+that sellers in better locations, say Rodeo Drive, can have higher markups, so sales taxation
+favors better locations over marginal ones. New businesses with high startup costs can deduct
+                                                                                                         6
+
+
+them from taxable income, but not from gross sales. Clifford Cobb notes that ghettos have many
+barber shops and beauty parlors but few shops carrying commodities.
+   What Mill means by "capital" is clear from his memorable saying, "Capital is kept in
+existence from age to age not by preservation but by continual reproduction". For a mnemonic,
+call it the "Millwheel Principal", a superior ancestor of modern macro-economics that later
+writers have obscured and then lost completely behind the veil of money. Capital is not a specific
+concrete good, like a chair in the furniture shop. Rather, it is a quantum of value that we can, and
+normally do, keep existing by using the cash from sales to "meet the next payroll", as they say, to
+replace the chair. It needn't be an identical chair, or any chair at all, for capital in this transition is
+totally fungible in form and location.
+
+Illustrations and Analogies
+   Within each business there are also differences among kinds of capital. In a retail bakery, for
+example, there are pies and pie-shelves. The pies come and go, perhaps several times a day; the
+shelves last for years; the ovens for decades; the buildings even longer; the sites forever. Many a
+needy widow with hardly any capital has earned her mite by baking, while renting the site,
+building and hardware. Her sales/capital ratio is high in contrast with that of the landlord, and
+orbital in contrast to, say, Georgia-Pacific or Weyerhaueser timber corporations.
+   The case is even clearer when we compare two uses competing for the same land. The one
+with more turnover pays more sales tax per dollar of capital invested. The tax drives away capital
+that turns over fast, and reallocates the land to capital that turns slower, or to uses requiring less
+capital, or no capital at all, like the parking lot. As to the lot itself, it never turns over in the
+relevant sense of wearing out and being replaced. Curiously, Harry G. Brown, a stern critic of
+holding land idle, as well as of taxes with excess burdens, does not connect his two goals in one
+consistent system (1939, p. 254). He does not recognize that sales taxes inhibit using land
+intensively, if at all. His mentor and role model Irving Fisher may have confused him, as he has
+others. In Fisher's tax theory, all taxes should fall on consumption, and capital gains are not
+income at all.
+   Chemists have a vocabulary for it. Land in production is like a chemical "catalyst": it
+facilitates a process without disappearing into the product. Its "quantum of value" remains in the
+land. Working capital is, at the other extreme, like a "reactant”: its corpus and its quantum of
+value go into the product. That means they get sales-taxed with each turnover – the basis of the
+Mill Effect.
+   Physiologists have a name for it, too: what is metabolism but the turnover of protoplasm in
+cells? One could elaborate, and find analogies from other sciences, but the point is made, and
+will be made once more below with Dorfman's essay on hydraulic engineering.
+
+Difficulties, Solutions, and Measures
+   "Fixed" (durable) capital is a mixed story. The corpus of fixed capital as a catalyst does not
+get sales-taxed, only its income plus a little extra for depreciation get sales-taxed. Separating the
+catalyst from the reactant in fixed or durable capital is a trifle less simple than with working
+capital, but only marginally so. The basic mathematics of finance tells us exactly how to divide
+the product between interest, the net income of capital, and depreciation, which corresponds to
+the recovery or turnover of capital (and is labeled a "Capital Consumption Allowance" (CCA) in
+                                                                                                                7
+
+
+NIPA). We do not repeat the mathematics here, but lenders, mortgagors, bankers, and I.R.S.
+agents use it every day. So do millions of innumerate consumers who buy on the installment
+plan, taking the mathematics on faith.
+    A unit or "quantum" of fixed capital embodied and frozen into, say, Hoover Dam, or grading
+building sites, or land-fill in shallow water, or a tunnel, or The Pyramids, or The Brooklyn
+Bridge, or the marble cladding of Nelson Rockefeller's Parthenon in Albany, turns over so
+slowly that its net product or service after O&M is mostly pure income. That product or service
+as a tax base, however we measure it, includes little recovery of capital. Too often, indeed, there
+is none at all, thanks to engineering megalomania coupled with the "irrational exuberance" of
+land speculators and "earmarking" politicians who subsidize them.
+    As to land, this never turns over. Its ownership may turn over many times, but that is an
+entirely different meaning of "turnover": it entails no depreciation and ultimate replacement of
+the lot, and no routine recovery of the original purchase price through a CCA (Capital
+Consumption Allowance). In a rational market, land is priced so high that its cash flow is just
+enough to cover interest on its price, with nothing left over for a CCA. In a rising but still
+rational market, indeed, interest on the price is greater than cash flow by an amount equal to
+annual appreciation. In a market with "irrational exuberance", which comes along every 18 years
+or so, interest often exceeds the sum of cash flow and appreciation, as we learned so well in
+1990, promptly forgot, and went through again in 2008.
+    Many economists disregard The Mill Effect by assuming, too blithely, that sales taxes are all
+shifted forward to "consumers". Even if that were 100% true it would certainly depress demand
+for the overtaxed items. Most economists today share some, at least, of the paradigm of
+Buchanan and Flowers wherein sales taxes are shifted backwards to factors of production. There
+is a hint of this in Mill (Bk V, Chap 5, p.517), but the stronger recent statement is in Harry G.
+Brown (1939). Earl Rolph, crediting Brown, agrees (1952). Richard Musgrave, crediting both
+Brown and Rolph, endorses this approach in the main, too (1953, p. 318; 1959, p.379). Many of
+us now hew to the Physiocratic doctrine that All Taxes Come Out of Rents (ATCOR). Either
+way, sales taxes create "A disturbance in The Force" – a massive and basic disturbance. To fuss
+over trivia, while missing the Mill Effect, would be to strain at gnats while swallowing a camel.
+For examples of such straining see Shoup and Haimoff, Somers, Rolph/Break, and almost any
+popular text on public finance.
+    Many texts on public finance compare a retail sales tax favorably with a "turnover tax", since
+the latter taxes every transaction up to and including the retail stage. Thus they dispose of
+"turnover" by giving it an entirely different meaning than that used by Mill, and used here. They
+criticize a "turnover tax" (as sometimes used in Germany, and in the former Soviet Union, and
+now in Ohio) for taxing the same capital several times, "in cascade", as it moves from owner to
+owner in successive transactions through the "stages" of production. They then criticize how
+firms may avoid it by integrating vertically. Fair enough, but then they dust off their hands as
+though done, leaving us the retail sales tax, imposed at only one "stage" of production, as though
+it were free of taxing turnover.1 Thus they purge The Mill Effect, the "Disturbance in The
+Force", from modern fiscal economics.
+
+
+1
+ While they are at it, Buchanan and Flowers want to tax people for "consuming leisure", a euphemism that includes
+being involuntarily unemployed. The idea goes back to Chicago's Henry Simons (1938). Buchanan and Flowers do
+                                                                                                                     8
+
+
+   One of the few mainline fiscal economists to address Mill's kind of turnover was Carl Shoup
+(1948). Shoup, with Vickrey, did monumental public service in redrafting the Japanese tax code
+under MacArthur' reign, and warrants respect. Shoup's work is of limited value to us here,
+however, for five reasons. One, he writes of turnover only in connection with the corporation
+income tax, not the sales tax. Second, he alternates between using "turnover" as the sales/taxable-
+income ratio (p.326) and then the ratio of sales to "total property", closer to Mill's meaning (pp.
+327 and 328), but confusing readers. Third, he digresses into details of corporate organization
+that distract us, and perhaps Shoup himself, from the main themes, the general economic
+principles at issue. These are what concerned Mill and should concern us. Fourth, he writes that
+differences in turnover ratios only cause tax bias if they are "in the same industry" – i.e. inter-
+industry bias is of no account (p.328). The last belief is so indefensible I will not labor the
+obvious.
+   Fifth, Shoup inexplicably backs away from drawing any practical conclusions, pleading lack
+of data (p.328), implying a grant request is coming. That is infra dig. One does not need any
+National Bureau data and tedious analysis to observe that capital in the baker's pies turns over
+about daily, or 365 times a year, while capital used to reforest cutover lands in boreal climes may
+take over 70 years, or 26,000 times as long as the pie.
+   Austrian economist Mark Skousen, presents an enigma. He presents a long valuable list of
+previous texts and learned writings supporting Austrian capital theory (Chap. 4, pp. 84-130 et
+passim), the product of extensive research in deep tomes and articles. He argues persuasively
+against policies that drive capital away from "lower order" capital goods that turn over quickly
+because they are near to the final consumer. You would therefore expect him to take the lead
+against retail sales taxes, with their bias against these lower order goods.
+    Instead, Skousen suddenly reverses himself and favors sales taxes on the grounds that final
+consumers bear them. "… a consumption tax … would be highly favorable toward the earlier
+stages of production," he writes (p.345). But "earlier stages of production" means UNripe capital,
+at farthest remove from final consumers, capital that ripens and turns over slowly, the kind that
+Austrian theory tells us to treat LESS favorably, or at least NOT favorably. Let us hope that
+Skousen, who is still active and even crusading for his views, will take notice of this apparent
+flip-flop and explain it for us. I will not labor the obvious contradiction, but simply express
+wonder that no Austrian economist, to my knowledge, has ever used Austrian-derived paradigms
+to criticize sales taxes.
+   Skousen also gives priority to repealing the "capital gains tax", evidently believing that it is a
+tax on capital, as its name misleadingly suggests. Actually, most unearned increments of value
+come from land. Taxing or untaxing them has no direct effect on the structure of capital proper.
+Most real capital depreciates with time. There are some exceptions, like commercial timber and
+other biological capital that does add value with time. Here, a pure gains tax would indeed
+contain a small bias in favor of slow turnover, since the tax is deferred until sale (Gaffney, 1957,
+1970-71, 2006; Vickrey, 1971). The capital gains tax as we know it in practice, however, is
+structured to impose higher rates on faster turnovers.
+  Richard Musgrave, a literate German native and Heidelberg graduate, does cite the "Swedish
+Austrian", Wicksell, who published in German and on tax policy, and with great insight.
+
+not call this a poll tax, for they disapprove of "emotive terms". Yet they do not suggest taxing idle or underused land
+or capital for taking leisure, suggesting a bias against labor.
+                                                                                                    9
+
+
+Penetrating Musgrave's arduous and obscure prose, and adding some leaps of faith, we do find
+that a tax on a base variably defined first as "production", then as "production or gross receipts",
+and finally again as "production" (pp.396-97), "leads to a lengthening of the average period of
+investment" (p.397). With effort one could take this as endorsing The Mill Effect, but Musgrave
+obscures it inside so many reservations and qualifications and disclaimers and digressions that
+one only can count him as hinting faintly, in the approved professorial two-handed hedging style,
+with little conviction, that there may be something to it (pp. 392-99).
+   As to definitions and measurement, some economists see nothing but insoluble problems in
+measuring or even conceiving of the lifetime of a simple capital item, and even worse problems
+with the average lifetime of a collection of heterogeneous items. The matter may be made to
+seem hopelessly complex, and a battery of economists, following J.B. Clark and Frank Knight,
+ever stand too ready to oblige.
+   Fred Foldvary, an "Austrian" thinker, solves the problem by describing specific concrete
+embodiments of capital as "capital goods", while the word "capital" standing alone means the
+quantum of value. This quantum of value is relayed from one concrete capital good to another
+with each turnover (cycle of liquidation and replacement). In this relaying the capital becomes
+completely fungible in form and composition and location. Fungibility is a concept that most
+economists grasp and teach, although some resist, or quibble over the idea of capital as a
+quantum of value – something more obvious to accountants, however, and, as we shall see, to
+hydraulic engineers.
+    Hydraulic physics and engineering provide a simple solution, ably expounded by Robert
+Dorfman in an article I cannot praise too highly (1959). Dorfman whimsically calls it "The
+Bathtub Theorem", and properly acknowledges Knut Wicksell's priority with his "grape-juice
+model", although Dorfman's model is more general. The average transit time of a molecule of
+liquid through a reservoir is basically the flow/fund ratio: in economic terms, the sales/capital
+ratio (p.353 et passim). For the lady baking pies and selling out daily the annual ratio is 365. For
+the boreal forester the annual ratio is 1/70. Both figures may be modified slightly for elegant
+variations on the main point, but the difference of 26,000 times illustrates the Mill Effect so
+starkly, why bother with more? For doubters and masochists Dorfman provides many equations,
+but ends them delightfully saying "It is nice that this elaborate calculation is really unnecessary"
+(p.372).
+    Dorfman does not treat land separately, which is a fault. Neither does he analyze sales taxes
+and their effects. This writer has tried to supply the lack (1976, mathematical appendix). For now
+it is enough that we can measure turnover simply, and it varies hugely among sales-taxable items
+and firms.
+    Professor William Vickrey (1971) favored me by contributing a general mathematical model
+published as an Appendix to my "Tax-induced Slow Turnover of Capital", showing how "Yield
+Taxes" (sales taxes on timber harvests) slow down average rotation periods. He equates average
+tree life with the sales/capital ratio simply by inverting the order of integration – a new trick for
+most of us, a simple trick for him, a math major (1971). It was consistent with his lifelong efforts
+to tax capital gains as they accrue, following the Haig-Simons definition of income.
+                                                                                                  10
+
+
+Summary
+    We are left with this. Jobs depend on turnover. Turnover is measured by the sales/capital
+ratio, which is varies hugely among different firms, products, locations, stages of the cycle - and
+tax regimes. Elected officials control the last, and we as economists influence elected officials.
+Sales taxes, rampant and rising in our times, depress turnover heavily, and so depress demand for
+labor – both the number of jobs and their pay rates. Property taxes have the opposite effect, and
+so may some aspects of income taxation. We do not here address how both property and income
+taxes may be modified for the better, although they may and should be. Our main point here is
+that sales taxes (and their twin, VAT) are among the worst possible choices when the objective is
+to make jobs and raise pay rates.
+
+Appendix I: How Gigantism in Banking Reinforces the Bias Against Turnover
+  The following is an excerpt from Stacy Mitchell, "How State Banks Bring the Money Home",
+Nation of Change.org, Sept 15 2011
+   One of the most significant, but least noticed, consequences of the rapid and dramatic
+consolidation of the banking industry over the last decade is how much it has hindered the U.S.
+economy’s ability to create jobs.
+    To begin to understand this, take a look at each end of the banking spectrum. On one end are
+the nation’s 6,900 small, locally owned, community banks. These institutions control $1.4
+trillion in assets. That’s 11 percent of all bank assets. They currently have $257 billion in loans
+to small businesses and farms on their books.
+   On the other end, four giant banks—JP Morgan Chase, Bank of America, Citibank, and Wells
+Fargo—now command $5.4 trillion in assets, or 40 percent of the total. Given that they are
+nearly four times as large as all local banks combined, one might expect that they would have
+made four times the small-business loans, or about $1 trillion. In fact, these banks have a mere
+$85 billion in small-business and farm loans on their balance sheets.
+   Why do giant banks make so few small-business loans? Automation is the short answer. The
+only way these sprawling institutions can function efficiently is by taking a mass production
+approach to lending: Plug credit score, income, and appraisal into the computer—out comes the
+loan. That’s why the mortgage business was supposed to be so safe. The economic meltdown of
+2007 shows that it’s actually very risky.
+   Small-business loans are not so easily mechanized. Each is a custom job, requiring human
+judgment to evaluate the risk associated with a particular entrepreneur, a particular business plan,
+and a particular market. Community banks excel at this. Their lending decisions are made
+locally, informed by face-to-face relationships with borrowers and an intimate understanding of
+their hometown economies. Big banks, whose decision-making is long-distance and dictated
+more by computer models than judgment, are pretty bad at it. So they don’t make many small-
+business loans.
+   It’s no wonder, then, that unemployment has been so persistent. Our financial system is top-
+heavy with big banks that are scaled to meet the needs of large multinational corporations. The
+Commerce Department estimates that U.S.-based multinationals have eliminated 3 million
+American jobs over the last decade. Meanwhile, small businesses, historically responsible for
+about two-thirds of new jobs, have found it harder and harder to obtain credit.
+                                                                                                11
+
+
+   In short, we have a financial system that is mismatched to the economic needs of American
+communities. This mismatch will become more acute as we attempt to transition to a carbon-
+efficient economy, which, by its very nature, will be the domain of small-scale enterprises: local
+food producers, community-owned wind and solar electricity, neighborhood stores that provide
+goods within walking distance of homes, and so on. To take root, these businesses will need a
+robust array of community-based financial institutions capable of meeting their capital and credit
+needs.
+
+BIBLIOGRAPHY to Mason Gaffney, Sales-tax Bias against Turnover and Jobs
+
+Note: Relevant works by Mason Gaffney are listed separately, below this bibliography.
+
+Anderson, John E., 2003. Public Finance. Boston: Houghton Mifflin Co.
+Brown, Harry G., 1939, "The Incidence of a General Output or a General Sales Tax". JPE
+47(2):254-62
+Buchanan, James, and Marilyn R. Flowers, 1975, The Public Finances, 4th Ed., Homewood, IL,
+Richard D. Irwin Inc.
+Dorfman, Robert, 1959, "Waiting and the Period of Production". QJE 73:3):351-72
+Due, John F. 1963. Government Finance. 3rd Ed. Homewood, IL: Richard D. Irwin Inc.
+Gaffney, Mason, 2009, "The Hidden Taxable Capacity of Land", The International Journal of
+Social Economcs 36(4):328-411
+Groves, Harold, (revised ed.) 1946. Financing Government. New York: Henry Holt and
+Company
+Gruber, Jonathan, 2007, Public Finance and Public Policy, New York: Worth Publishers, 2nd Ed.
+Hendershott, Patric H., James R. Follain, and David C. Ling, Real Estate and the Tax Reform Act
+of 1986 (December 1986). NBER Working Paper Series, Vol. 2098. Available at SSRN:
+http://ssrn.com/abstract=227265).
+Herber, Bernard, 1983. Modern Public Finance, 5th Ed. Homewood, IL: Richard D. Irwin, Inc.
+Hudson, Michael, and Kris Feder, 1997-a, Real Estate and the Capital Gains Debate, Annandale-
+on-Hudson, Jerome Levy Institute, Working Paper #187
+Hudson, Michael, and Kris Feder, 1997-b, What’s Missing from the Capital Gains Debate.
+Annandale-on-Hudson, Jerome Levy Institute, Public Policy Brief #32, p.20
+Hudson, Michael, and Kris Feder, 1997-c. "The Capital Gains Controversy". A module from the
+above.
+Hyman, David N., 1990. Public Finance, 3rd Ed. Chicago: The Dryden Press
+Hyman, David N., 2005. Public Finance, 8th Ed. Mason, Ohio: Thomson
+Kay, John, 1987, "Indirect Taxes", The New Palgrave London: Macmillan and Co. Ltd., II: 787-
+88
+                                                                                               12
+
+
+McCulloch, John Ramsay, 1821. The Opinions of Messrs. Say, Sismondi and Malthus, on
+Effects of Machinery and Accumulation", 1821, Edinburgh Review
+McLure, Charles E., Jr., 2005. Testimony, Advisory Committee on Federal Tax Reform,
+Washington, D.C., May 11
+Mill, John Stuart, 1848. Principles of Political Economy. Book V, Chapter IV, "Of taxes on
+commodities". People's Edition. Boston: Lee and Shepard
+Mitchell, Stacy, 2011, "How State Banks Bring the Money Home", Nationofchange.org Sept 15
+2011
+Musgrave, Richard, 1953. "On Incidence". JPE 61 (August)
+Musgrave, Richard, 1959, The Theory of Public Finance. NY: McGraw-Hill
+National Industrial Conference Board, 1929, General Sales or Turnover Taxation, New York
+Peirce, William, 2011. Letter to the writer, Sept. 19, on Ohio's turnover tax
+Pigou, Arthur C., orig. 1928, A Study in Public Finance. 3rd (revised) Ed., 1947, rpt. 1949.
+London: Macmillan & Co. Ltd.
+Rolph, Earl, 1952, "A Proposed Revision of Excise Tax Theory" JPE 60 (April):102-17
+Rolph, Earl, 1956. The Theory of Fiscal Economics. Berkeley: U.C. Press, Chap. 6
+Rolph, Earl, and George Break, 1949, "The Welfare Aspects of Excise Taxes", JPE 47(1). Rpt.
+In Musgrave, Richard, and Carl Shoup, acting as a Committee of The AEA, 1959 (Homewood,
+IL: Richard D. Irwin Inc.), Readings in the Economics of Taxation, pp. 110-22
+Ryan, Christopher K., 2002. Harry Gunnison Brown. Malden, MA: Blackwell Publishing
+Shoup, Carl, 1948, "Incidence of the Corporation Income Tax: Capital Structure and Turnover
+Rates", NTJ. Rpt. In Musgrave, Richard, and Carl Shoup, acting as a Committee of The AEA,
+1959 (Homewood, IL: Richard D. Irwin Inc.), Readings in the Economics of Taxation, pp.322-
+29
+Shoup, Carl, and Louis Haimoff, 1934, "The Sales Tax", Columbia Law Review 34(5):809-30
+Somers, Harold, 1964. The Sales Tax. Sacramento: ASSEMBLY, California Legislature
+Sullivan, Dan, 2011. "Sales Tax Destroys Commerce". http://savingcommunities.org
+Ulbrich, Holley, 2003. Public Finance. Mason, Ohio: Thomson
+Young, Allyn, 1929. Review of "A.C. Pigou: A Study in Public Finance". E.J. 39 (March). Rpt.
+In Musgrave, Richard, and Carl Shoup, acting as a Committee of The AEA, 1959 (Homewood,
+IL: Richard D. Irwin Inc.), Readings in the Economics of Taxation, pp. 13-18
+Stiglitz, Joseph, 1986. Economics of the Public Sector. New York & London: W.W. Norton.
+Stiglitz, Joseph, 2010. Principles and Guidelines for Deficit Reduction. Hyde Park: The
+Roosevelt Institution, Working Paper #6
+Vickrey, William, 1971. Mathematical Appendix to Mason Gaffney, "Tax-induced Slow
+Turnover of Capital." AJES 30(1): 105-11, at p. 111
+Wolfman, Bernard, cited in obit, The New York Times, August 31 2011
+                                                                                                13
+
+
+BIBLIOGRAPHY of works by Mason Gaffney that are cited in or relevant to "Sales-tax
+Bias against Turnover and Jobs"
+NOTE: Most of the following works are available online at www.masongaffney.org.
+1957. Concepts of Financial Maturity of Timber and Other Assets. Agricultural Information
+Series #62, N.C. State College, Raleigh, 1957. 105 pages. 2nd Impression 1960. (N.C. State is
+out of stock; copies available online and from writer. Not copyrighted, widely copied.)
+1967. "Tax-induced Slow Turnover of Capital." Western Economic Journal, Sept. 1967, pp. 308-
+23. Abridged.
+1970-71. Unabridged. "Tax-induced Slow Turnover of Capital." AJES 29(1):25-32 (Jan. 1970);
+29(2):179-97 (April 1970); 29(3):277-87 (July 1970); 29(4):409-24 (Oct. 1970); 30(1):105-11
+(January 1971).
+1973. "A Critique of Federal Water Policy." In Robert Haveman and Robert Hamrin (eds.) The
+Political Economy of Federal Policy. New York etc., Harper and Row, 1973, pp.191-99.
+1975. Chairman, Conference on "Full Employment on a Small Planet." 1975 Annual Meeting of
+the Committee on Taxation, Resources, and Economic Development (TRED), Madison.
+1976-a. "Full Employment and the Environment." In George Rohrlich (ed.), Environmental
+Management - Economic and Social Dimensions. Cambridge: Ballinger Press, 1976, pp. 81-102.
+Republished by Resources for the Future Inc., Full Employment and the Environment, Reprint
+No. 128, 1976.
+1976-b. "Replacement anticipates liquidation". Excerpt from Gaffney, Mason, 1976, "Toward
+Full Employment with Limited Land and Capital", pp. 141-43, from "Toward Full Employment
+with Limited Land and Capital." In Arthur Lynn, Jr. (ed.), Property Taxation, Land Use and
+Public Policy. Madison: Univ. of Wisconsin Press, 1976, pp. 99-166.
+1976-c. "Toward Full Employment with Limited Land and Capital." In Arthur Lynn, Jr. (ed.),
+Property Taxation, Land Use and Public Policy. Madison: Univ. of Wisconsin Press, 1976, pp.
+99-166.
+1976-d, "Capital Requirements for Economic Growth." Joint Economic Committee, Congress of
+the United States, U.S. Economic Growth from 1976 to 1986: Prospects, Problems and Patterns.
+Vol. 8, pp. 56-75.
+1978. "Taxes, Capital and Jobs." Invited Paper delivered to NTA, special meeting, Chicago,
+August 1978.
+1980. "Alternative Ways of Taxing Forests." In Will Knedlick (ed.), State Taxation of Forest and
+Land Resources. Cambridge: Lincoln Institute of Land Policy, 1980, pp. 5-16.
+1982-a. "Harry Gunnison Brown as an Old Master." 2nd Annual University Lecture in honor of
+Harry Gunnison Brown, University of Missouri, Columbia, April 1982.
+1982-b. "Supply-side Economics." Paper delivered at seminar held for the purpose by and at The
+Center for the Study of Democratic Institutions, Sta. Barbara, January 1982.
+1987. "Brown, Harry Gunnison." In Eatwell, John; Peter Newman, and Murray Milgate (eds.)
+The New Palgrave Dictionary of Political Economy (London: The Macmillan Press, Ltd., 1987).
+                                                                                                14
+
+
+1988. Working paper. "Production Economics: Variable Proportions of Inputs." 1988, pp.1-60,
+in three installments.
+1991, Working Paper. "Capital, Turnover and Payback Time," 1991, pp. 1-8.
+1992. Working Paper, "Calculating Mean Periods of Investment by means of Normalized
+Models." Rev. 1992, pp. 1-26.
+1993-a. "Tax Policy and Capital Formation," pp. 1-46. Pilot paper, Conference on Tax
+Incentives, Capital Formation, Capital Conservation, and Capital Allocation, August, 1993. The
+American Institute for Economic Research, Great Barrington MA.
+1993-b. "Full Employment through Total Tax Reform." Papers on Employment for All, (ISBN: 0
+646 186140), pp. 1-27. Melbourne: Georgist Council of Australia (31 Hardware Street, Australia
+3000). [Was Keynote Paper, Biennial Meeting, International Union, sponsored by Tax Reform
+Australia, Melbourne, at Ormond College, University of Melbourne, 27 September, 1993.]
+1993-c. "The Taxable Capacity of Land," 1993. In Patricia Salkin (ed.), Land Value Taxation,
+Papers from a Conference sponsored by The Government Law Center of Albany Law School,
+The Senate Environmental Conservation Committee, and the New York State Division of
+Equalization and Assessment. Albany: The Government Law Center, pp. 59-82. There is also a
+Proceedings, with court-reported discussion, that the Government Law Center of Albany Law
+School published separately: Land Value Taxation, pp. 60-74.
+1994-a. "Macroeconomic Chokes," pp. 1-25. Pilot Paper, Conference on Land Speculation and
+the Banking Collapse, October 20-22, 1994. American Institute for Economic Research, Great
+Barrington, MA.
+1994-b. "Consuming Land". Excerpt from Gaffney, Mason, 1994, “Land as a Distinctive Factor
+of Production”, a chapter in Tideman, Nicolaus (Ed.), Land and Taxation. London: Shepheard-
+Walwyn (Publishers) Ltd., pp. 39-102]
+2000-a. "Why Sales Taxes?" State Tax Notes 18(7):529-31, Feb 14 2000.
+2000-b. “More on Clarifying Sales Tax History. a response to John Mikesell.” State Tax Notes,
+April 3, 2000
+2001-date, "Sales-tax Suicides through History" Leaders retired by voters (or other public) after
+they championed consumer taxes. List accumulating on hard disk of Mason Gaffney: additions
+welcomed.
+2003. “Taxes, Capital and Jobs: the Variability of Valences”. Geophilos 3(1), Spring, pp. 62-74
+2006-a. “A simple general test for tax bias”. In Moss, Laurence S. (ed.), Natural Resources,
+Taxation and Regulation. Oxford: Blackwell Publishing, pp. 261-78. Also published 2006 in
+AJES 65(3):733-49, July
+2006-b. “Keeping Land in Capital Theory: Ricardo, Faustmann, Wicksell, and George”. A paper
+for annual meeting of History of Economics Society (H.E.S.), Grinnell College, June 25, 2006.
+Published in 2008, Moss, Laurence S. (ed.), q.v., and in AJES, 2008, q.v.
+2007. “Stimulus: the False and the True”. Progress (Melbourne, Australia) March-April, pp. 13-
+16
+2008-a, “The Great Crash of 2008”. Progress (Melbourne, Australia), July-August.
+                                                                                            15
+
+
+2008-b. (Lindy Davies, ed.) The Great Crash of 2008, and How to Thaw Credit: Now and
+Permanently (bound together. New York: The Henry George Institute
+2009-a, “The Four Vampires of Capital”. Land and Liberty, Summer 2009, pp. 12-17.
+2009-b, “A New Framework for Macroeconomics”. AJES 68(4):889-981 (October). Also
+published as Chapter 2 of 2009, After the Crash: Designing a Depression-free Economy. Malden,
+MA, and Oxford: Wiley-Blackwell.
+=====================================================================
+The articles below were published in Groundswell, edited by Nadine Stoner, Beloit, WI
+2004, August, “John Stuart Mill on Luddism”
+2004, October, “Sounding the Revenue Potential of Land: 15 Submerged Elements”
+2005, April, “The Sales Tax: History of a Noxious Idea”
+2005, October, “Defining ‘Consumption’”
+2008, February, “Stimulus: the False and the True”
+2008 June, “Full Employment and the Environment”
+2008, August, “The Great Crash of 2008”
+2008, “How to Thaw Credit, Now and Permanently”
+2009, February, “Empty Spaces”
+2011-08, "Why Sales Taxes?"
+====================================================================
+The articles below were published in The Georgist Journal. Winter-Spring 2001 to Autumn
+2009, after vetting by Editor Lindy Davies. The numbers refer to editions of the Journal.
+#94, 2001, Fall. “Georgist Analysis: Some Room for Improvement”. Pp. 18-21, 25-28. Digested
+from “Full Employment on a Small Planet”, a paper prepared for and delivered at the Conference
+on Growth, Poverty and the Environment, sponsored by the Center for Process Studies of the
+Claremont School of Theology and the Claremont Graduate University, John Cobb, Chairman.
+October 18-21, 2001.
+
+
+#96, 2002, Fall, “Rent-seeking and Global Conflict”. Pp. 6-11
+#100, 2004, Spring, “The Danger of Favoring Capital over Labor”. Pp. 30-34
+#105, 2006, Autumn. “Money, Credit, and Crisis”. Pp. 18-21+35
+#106, 2007, Winter, “Land Booms and Peace Dividends”, pp. 18-23 + 35
+#107, 2007, Spring. “Denying Inflation: Who, Why, and How”. Pp. 26-33
+#110, 2008, Summer. “The Great Crash of 2008”, Part 1 of 2, pp. 10-15, 28-30.
+#111, 2008, Autumn. “The Great Crash of 2008”, Part 2 of 2
+#112, 2008-09, Winter. “How to Thaw Capital, Now and Permanently”.
+                                                                   16
+
+
+#114, 2009, Summer. “Four Vampires of Capital”
+====================================================================
+

@@ -185,6 +185,36 @@ little of everything everywhere" spread of resources across marginal, high-cost
 terrain — citing William Hyde's contemporaneous Resources for the Future
 research on the same overdecentralization problem.[2]
 
+## The Mendocino County Case (2000): A Yield Tax at 7% of True Value
+
+A short 2000 working paper, "Token Timber Taxation: Case of Mendocino County,
+CA," supplies a concrete, county-level empirical illustration of the yield-tax
+critique the 1980 survey makes in the abstract.[3] Mendocino's redwood country
+levies its yield tax at 2.9% on stumpage value at harvest — a rate Gaffney
+calculates is roughly an order of magnitude too low to be revenue-equivalent to
+a 1% annual property tax, since a one-time 2.9% levy at year 60 is worth far
+less, discounted, than 1% collected every year starting in year one; he puts
+the equivalent yield-tax rate at "25% or so."[3] The result in practice: in
+1993 Mendocino's yield tax raised $3.9 million against $45 million from all
+other property — even though the county's annual timber harvest value exceeded
+the combined value of all its other agricultural output (including fishing)
+two-to-one.[3] Underlying this is California's Timber Preserve Zone (TPZ) law,
+which assesses TPZ land only at its "putative value for raising timber,"
+regardless of market value or non-timber income (grazing, resorts, vacation
+homes, and even unrecorded marijuana cultivation are among the "compatible"
+uses the statute does not tax); Gaffney calculates a medium-grade ("Site III")
+acre's true site value for redwood culture alone at roughly $2,100, against a
+TPZ-assessed value of $136 — about **7% of true value** — so that even 60 years
+of accumulated, compounded land tax at that assessed rate would total only
+1/54th of the eventual $20,000 stumpage harvest, a token burden by design.[3]
+The paper also documents that the law was drafted at industry's request (led by
+Southern Pacific, California's largest private timberland owner at 520,000
+acres) and that Georgia-Pacific and Louisiana-Pacific alone, both absentee
+owners, held 58% of Mendocino's timberland in 2000.[3] This is a narrow,
+dated, checkable delta on the 1980 survey's abstract 38%-equivalent-rate
+calculation — a single county's real assessment roll bearing out the same
+critique with named statutory and ownership detail.
+
 ## Standing and Limits
 
 **Claim class.** Both pieces are **advocacy essays/addresses by a credentialed
@@ -293,3 +323,10 @@ resembling Gaffney's proposed reforms is covered by this page.
    remains his own citation, not independently re-derived from Clawson's text).
    [PubMed record](https://pubmed.ncbi.nlm.nih.gov/17754173/) ·
    [DOI: 10.1126/science.191.4228.762](https://doi.org/10.1126/science.191.4228.762)
+3. Mason Gaffney, "Token Timber Taxation: Case of Mendocino County, CA,"
+   working paper WP061, 2000 — used for the Mendocino County TPZ case study:
+   the 2.9% yield-tax rate, the $3.9m/$45m revenue comparison, the $136-vs-$2,100
+   assessed-vs-true site value figures, and the Georgia-Pacific/Louisiana-Pacific
+   ownership-concentration detail. Read in full this session; no prior wiki
+   coverage of this county-level case. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP061%20Token_Timber_Taxation_Mendocino_County_2000.pdf);
+   local mirror at `sources/gaffney/text/WP061-TokenTimberTaxationMendocino.txt`.

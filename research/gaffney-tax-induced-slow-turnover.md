@@ -203,6 +203,12 @@ wiki's radar via the Alaska report, now placed in their original context:
   in Part I of this 1970 series; cited in prose only, not added to that page's
   citation apparatus, since the 2008 paper remains the fuller treatment of Wicksell
   specifically.
+- **Research:** [Gaffney (2016), Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/)
+  — added 2026-07-18: Gaffney's 2011 "Sales-Tax Bias against Turnover and Jobs"
+  essay (the fuller, earlier statement of that page's "Mill Effect" argument)
+  cites this series' Vickrey mathematical appendix directly, applying the same
+  sales/capital-ratio turnover identity to VAT and retail sales taxes rather
+  than the income-tax context this page covers.
 
 ## Standing and Limits
 

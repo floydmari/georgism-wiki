@@ -4,7 +4,7 @@ category: places
 tags: [places, russia, soviet-transition, land-rent, natural-resource-rent, oligarchs, shock-therapy, dmitry-lvov]
 stub: false
 excerpt: "In the 1990s, economist Dmitry Lvov proposed funding post-Soviet Russia from land and natural-resource rent instead of privatizing it; Yeltsin's government chose voucher privatization and the 1995 loans-for-shares scheme instead, creating Russia's oligarch class."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 ---
 
 ## Overview
@@ -14,6 +14,36 @@ Post-Soviet Russia is treated in Georgist literature as a large-scale missed opp
 ## The Road Not Taken: Lvov's Rent-Based Proposal
 
 Dmitry Lvov, an economist associated with the Russian Academy of Sciences, argued through the 1990s that Russia's natural-resource wealth — oil, gas, minerals, and land — should remain formally on the state's books and be charged for as rent, rather than transferred into private ownership.[1] Fred Harrison has described working with Lvov's team on a rent-as-revenue alternative for Russia during this period.[1] In a State Duma address (translated and archived by a third-party outlet), Lvov argued for treating natural-resource wealth as a public asset to be placed "on the books of the state" and its income directed into the treasury, rather than redistributed through privatization.[5] The address has now been located and dated: it is Lvov's testimony of **29 June 2001** to the State Duma official hearing "On Measures To Ensure the Development of the Russian Economy Under Conditions of a Destabilization of the World Financial System," archived (as "Russia Must Initiate Solutions to the Crisis") by the LaRouche-affiliated Schiller Institute. The wiki's paraphrase is confirmed verbatim against that transcript: Lvov says the natural resources "are all public property and belong to all, and the rental income" should not be appropriated privately, urging the state to "Put it on the public balance sheet, put it on the books of the state" so that "everything will flow into the Treasury." The transcript remains a LaRouche/Schiller-Institute translation and reposting, not an official Duma stenographic record: the date, title, and quoted wording are pinned to that archived source, but a primary Duma stenographic transcript has not been located, so the wording is presented as that translation records it.
+
+**Independent corroboration: Gaffney's own direct advocacy (2026-07-18).**
+Mason Gaffney's own papers confirm this Georgist advocacy effort was real and
+international, from a source independent of the Harrison-tweet chain above.
+"Privatizing Land Without Giveaway: Embracing Capitalism without Kleptocracy"
+(workpaper WP079) was delivered at a "Conference on Social Collection of Rent
+in the Soviet Union" in New York and was slated for a 1991 collection edited
+by Nicolaus Tideman and Adele Wick — the same early-1990s window as the
+proposals this page documents — arguing against mass privatization of Soviet
+land on the grounds that a fire-sale would fetch only a fraction of land's
+value, would hand disproportionate shares to wealthy foreign bidders, and
+would forfeit perpetual revenue for a one-time windfall governments
+historically dissipate as current spending.[6] More directly, Gaffney's
+"The Taxable Surplus in Russian Land" (workpaper WP080) is the transcript of
+his own testimony to a **Duma Parliamentary Hearing on Land Revenues**,
+chaired by Vyacheslav Zvolinsky (Chair, the Duma's Committee on Natural
+Resources), Moscow, 19 January 1999 — published the same year in the Duma's
+own proceedings volume.[7] The testimony names **Dmitri Lvov** as a
+co-speaker at the same or a closely related hearing series ("Your expert,
+Dmitri Lvov from the Russian Academy of Sciences... has written that you
+could cover most of your national budget from your enormous production of
+oil and gas"), giving a dated, primary-source confirmation — independent of
+the LaRouche/Schiller Institute archive this page's Lvov citation otherwise
+relies on — that Western Georgist economists and Lvov's rent-based program
+were advocated together, directly to Duma committees, as early as January
+1999, over two years before the 29 June 2001 testimony documented above.[7]
+Gaffney's own recommendations to the hearing — untax labor and capital, tax
+the net product of land alone, and use Alaska's Permanent Fund dividend as a
+distributional model — track the Lvov program closely but are Gaffney's
+independent argument, not a restatement of Lvov's.
 
 ## Shock Therapy and the Rise of the Oligarchs
 
@@ -41,3 +71,5 @@ The Russian case is presented in Georgist sources as the clearest large-scale in
 3. "Open letter to Gorbachev," [Wikipedia](https://en.wikipedia.org/wiki/Open_letter_to_Gorbachev); [wiki summary](/wiki/open-letter-to-gorbachev/) — used for the earlier, 1990 Soviet-era instance of the same proposal.
 4. Greg Rosalsky, "How 'shock therapy' created Russian oligarchs and paved the path for Putin," *NPR Planet Money*, 22 March 2022. [npr.org](https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin) — free web source; used for the shock-therapy timeline, voucher privatization figures, the loans-for-shares mechanics, and the Sibneft example.
 5. Dmitri Lvov, testimony of 29 June 2001 to the State Duma hearing "On Measures To Ensure the Development of the Russian Economy Under Conditions of a Destabilization of the World Financial System," archived as "Russia Must Initiate Solutions to the Crisis" by the Schiller Institute (LaRouche movement). [archive.schillerinstitute.com](http://www.archive.schillerinstitute.com/duma/duma_lvov.html) — the third-party archive underlying source 1's chain; directly fetched this pass, confirming the "public property," "on the books of the state," and "flow into the Treasury" wording. Lvov's decades-long "natural rent" advocacy is independently corroborated by Petr Ermilin, "Natural rent: The controversy continues," *Pravda* (English), 5 December 2003 [english.pravda.ru](https://english.pravda.ru/russia/4256-rent/), which quotes him arguing Russia "might in general do without any labour and capital taxation" and that "Russia lives off its resources, and so its budget must be 70% or so made up of the rent from them." Both remain secondary or translated sources; no official Duma stenographic transcript was located, so Lvov's words are reported here as those translations render them.
+6. Mason Gaffney, "Privatizing Land Without Giveaway: Embracing Capitalism without Kleptocracy," workpaper WP079, delivered at the Conference on Social Collection of Rent in the Soviet Union, New York, for a collection scheduled for 1991 publication edited by Nicolaus Tideman and Adele Wick — used for the independent-corroboration paragraph above. Read in full 2026-07-18; no prior wiki coverage. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP079%20Privatization%20without%20giveaway-capitalism%20without%20kleptocracy.pdf); local mirror at `sources/gaffney/text/WP079-PrivatizingLandWithoutGiveaway.txt`.
+7. Mason Gaffney, "The Taxable Surplus in Russian Land," workpaper WP080, testimony to the Duma Parliamentary Hearings on Land Revenues, Moscow, 19 January 1999, chaired by Vyacheslav Zvolinsky; published in Vyacheslav Zvolinsky (ed.), *Prirodniye resursi — natsionalnoyeh bogatstvo Rossii* [Natural resources — the national wealth of Russia] (Moscow: The Duma, August 1999), pp. 47–60 — used for the Duma-testimony detail and the direct reference to Dmitri Lvov as a co-speaker. Read in full 2026-07-18; no prior wiki coverage. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP080%20Taxable%20Surplus%20in%20Russian%20Land.pdf); local mirror at `sources/gaffney/text/WP080-TaxableSurplusInRussianLand.txt`.

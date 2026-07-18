@@ -7,7 +7,7 @@ excerpt: 'Gaffney''s 2016 essay arguing VAT and general sales taxes carry a hidd
   investment toward slow-turnover capital — and that Europe''s reliance on VAT,
   not exhausted taxable capacity, explains its stagnation relative to the property-tax-reliant
   USA.'
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -41,6 +41,34 @@ Gaffney extends the mechanism to macroeconomic and Austrian capital theory: beca
 
 A second strand argues that property-based taxes raise revenue through a different channel than income or sales taxes: a "wealth effect" (the incentive that flows from a lump-sum-like charge on an asset) that can be strong even where marginal disincentive effects are weak. Gaffney's illustration is West Germany's 1948 currency reform under Ludwig Erhard, which he reads as an involuntary "confiscation" of accumulated Reichsmark wealth that nonetheless preceded the *Wirtschaftswunder* — evidence, in his argument, that a strong wealth effect can motivate work and investment even as it strips accumulated assets, in contrast to VAT, which he says "fits the Laffer model like a glove: strong effects on marginal incentives, and minimal wealth effects."[1] He contrasts this with the historical US tax structure — no national sales tax or VAT, a comparatively higher reliance on property and income-from-property taxation, and the Commerce Clause preserving interstate tax competition, a legacy he traces to Turgot's influence on the framers via Jefferson, Madison, and Franklin.[1] Gaffney's policy conclusion is that "Europe has not reached the limit of its taxable capacity" — he reads persistently high European land prices relative to the US as evidence of untapped capacity — and that its post-2008 stagnation and record youth unemployment (he cites Eurostat-era figures: euro-area unemployment at 10.4%, youth unemployment 23.3%, with Greece at 55.6% and Spain at 54.2%) trace to VAT-driven excess burden rather than to having exhausted what governments can tax.[1] The essay explicitly invokes the Physiocratic doctrine his own 2005 paper later named: "Many of us now hew to the Physiocratic doctrine that All Taxes Come Out of Rents (ATCOR)" — see [ATCOR](/wiki/atcor/) and [Gaffney's 2005 paper](/wiki/gaffney-atcor/) for the wiki's fuller treatment of that theorem; this essay does not develop it further and is cited here only for the VAT-specific argument.[1]
 
+## Priority Correction: The Mill Effect Was Fully Worked Out Five Years Earlier
+
+**2026-07-18.** This essay's central theoretical move — the "Mill Effect,"
+illustrated with the Groves table contrasting a $30,000-capital, $30,000-sales
+furniture store (0.5% effective tax on capital) against a $2,000-capital,
+$100,000-sales butcher shop (25% effective tax on capital) — is not new to
+this 2016 chapter.[3] Gaffney worked the identical argument, with the identical
+table and figures, five years earlier in "Sales-Tax Bias against Turnover and
+Jobs" (*Insights*, Aug.-Sept. 2011), and in considerably fuller theoretical
+form: that essay adds a literature survey of the "truly general sales tax is
+neutral" canon (Buchanan & Flowers, Harry Gunnison Brown, Rolph & Break,
+Somers), a discussion of the Ramsey Rule's supply-elasticity term being
+routinely dropped by textbook writers, Robert Dorfman's 1959 "Bathtub Theorem"
+and Knut Wicksell's "grape-juice model" as formal restatements of the same
+sales/capital-ratio identity, and William Vickrey's mathematical appendix
+applying the same mechanism to timber "yield taxes" (published as an appendix
+to Gaffney's own "[Tax-Induced Slow Turnover of
+Capital](/wiki/gaffney-tax-induced-slow-turnover/)").[3] None of this
+literature-survey and formal-citation apparatus appears in the 2016 VAT
+chapter, which states the Mill Effect and the Groves table but does not cite
+Dorfman, Wicksell, or Vickrey by name. The 2016 chapter's distinctive
+contributions — the wealth-effect/Erhard-currency-reform argument, the
+US-vs-Europe historical contrast, and the ATCOR aside — are not present in the
+2011 essay, so this page's overview above still describes the *2016* chapter's
+argument; but readers citing the Mill Effect itself to this page should be
+aware Gaffney's fullest and earliest-dated statement of it is the 2011 essay,
+not this one.
+
 ## Standing and Limits
 
 - **Genre.** This is a political-advocacy chapter in a short, Georgist-published book aimed at the 2016 Brexit tax-policy debate, not a peer-reviewed paper — the register is rhetorical throughout (a "Disturbance in The Force" pun on Mill, VAT as a "python" that must not "wrap us in its coils"). It was never submitted to academic review, and the wiki treats its policy conclusions as Gaffney's attributed argument, not as settled findings.
@@ -55,6 +83,7 @@ A second strand argues that property-based taxes raise revenue through a differe
 - [Gaffney (2005): The Physiocratic Concept of ATCOR](/wiki/gaffney-atcor/) — the paper that names and states the theorem this essay invokes in passing
 - [ATCOR](/wiki/atcor/) — the wiki's concept page for that theorem
 - [Gaffney (2005): A Better Way of Gauging the Excess Burden of Shiftable Taxes](/wiki/gaffney-excess-burden-shiftable-taxes/) — Gaffney's own, more formal excess-burden method, contrasted above with this essay's rhetorical €1 trillion figure
+- [Gaffney (1970-71): Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/) — carries the Vickrey mathematical appendix the 2011 essay (priority-correction note above) cites for the same sales/capital-ratio turnover identity
 - [Deadweight Loss](/wiki/deadweight-loss/)
 - [Mason Gaffney](/wiki/mason-gaffney/) · [Fred Harrison](/wiki/fred-harrison/)
 
@@ -62,3 +91,4 @@ A second strand argues that property-based taxes raise revenue through a differe
 
 1. Mason Gaffney (2016), "Europe's fatal affair with VAT," in Fred Harrison & Mason Gaffney, *Beyond Brexit: The Blueprint* (London: Land Research Trust, 2016), pp. 100–135 — used for all claims, figures, and quotations on this page; read in full for this page, and key passages spot-checked against the source PDF. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf) · [archived](https://archive.progress.org/gaffney/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf)
 2. Mason Gaffney (2013), "Europe's fatal affair with VAT" (earlier unedited draft) — noted for the version distinction only; not separately scanned for this page. [PDF (masongaffney.org)](https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_071713a.pdf) · [archived](https://archive.progress.org/gaffney/essays/Europes_Fatal_Affair_with_VAT_071713a.pdf)
+3. Mason Gaffney (2011), "Sales-Tax Bias against Turnover and Jobs," *Insights*, Aug.-Sept. 2011 — used for the priority-correction note above: the identical Mill Effect argument and Groves table, stated five years earlier and in fuller form, with a literature survey and formal citations (Dorfman, Wicksell, Vickrey) absent from the 2016 chapter. Read in full this session. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Sales_Tax_Bias_Against_Turnover.pdf); local mirror at `sources/gaffney/text/SalesTaxBiasAgainstTurnover.txt`.
