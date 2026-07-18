@@ -5,7 +5,7 @@ authors:
 - Dylan Simone
 category: research
 excerpt: "University of Toronto study: income inequality and polarization rose in Toronto/York Region since 1990, with neighbourhood-level segregation growing faster than aggregate inequality — the spatial geography housing costs and land values operate on, not a study of land rent."
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-17
 source_url: http://neighbourhoodchange.ca/documents/2016/05/walks-etal-2016-income-inequality-toronto-york-rp-238.pdf
 stub: false
 subcategory: wiki-research-inequality
@@ -47,7 +47,7 @@ This tie is deliberately thin and should be reported honestly: the report **does
 
 - **Descriptive, not causal.** The report documents levels and trends; it does not model land price, zoning, or housing-policy effects on polarization.
 - **Data seams.** Pre-2006 census data lacks after-tax income, so the report uses before-tax-after-transfer income throughout — the authors argue this likely understates the "true" rise in inequality. The 2012 socio-spatial figures blend a different source (Environics Analytics/CRA tax-filer estimates) than the 1980–2005 census data; bridged with inflation-adjusted cut-points (Appendix 2), but a real methodological seam.
-- **Gentrification and self-segregation as drivers are partly interpretive** — the most plausible reading of the results plus cited literature, not a formally isolated causal estimate; a promised **Part II** was to examine drivers by demographic group. [VERIFY: whether Part II was published and what it found.]
+- **Gentrification and self-segregation as drivers are partly interpretive** — the most plausible reading of the results plus cited literature, not a formally isolated causal estimate; a promised **Part II** was to examine drivers by demographic group. No report titled "Part II" of Research Paper 238 was located, but the same three co-authors delivered the promised demographic-driver analysis through a different, United Way-branded lineage: *Rebalancing the Opportunity Equation* (United Way Greater Toronto, May 2019) — its own foreword calls it "this third instalment in our Opportunity Equation research" — breaks down GTA (Peel, Toronto, York Region) income-inequality trends from 1980–2015 by age, immigration status, gender, and racialized status, finding young adults, immigrants, and racialized residents increasingly disadvantaged relative to seniors, the Canadian-born, and white residents respectively.
 - **Institutional working paper, not peer review**, though the polarization index used is grounded in Walks' separately published work (2013).
 - **Regional scope.** Findings are specific to Toronto and York Region; Vancouver and Montreal appear only as benchmarks.
 
@@ -66,3 +66,4 @@ Feeds spatial/housing context for [The young are increasingly locked out of land
 ## Sources
 
 1. Alan Walks, Mihaela Dinca-Panaitescu, and Dylan Simone, "Income Inequality and Polarization in the City of Toronto and York Region, Part I: Examining Levels and Trends from Spatial and Non-Spatial Perspectives," Neighbourhood Change Research Partnership Research Paper 238, University of Toronto, May 2016. [PDF](http://neighbourhoodchange.ca/documents/2016/05/walks-etal-2016-income-inequality-toronto-york-rp-238.pdf) — fetched and read in full — used for the author list, methodology (Gini coefficient and coefficient of polarization), all non-spatial and socio-spatial inequality/polarization figures, the cited drivers (deindustrialization, immigration, tax-transfer erosion, gentrification, self-segregation), and the absence of any land-rent argument.
+2. Mihaela Dinca-Panaitescu, Laura McDonough, Dylan Simone, Ben Johnson, Stephanie Procyk, Michelynn Lafleche, and Alan Walks, *Rebalancing the Opportunity Equation*, United Way Greater Toronto, in partnership with the Neighbourhood Change Research Partnership, May 2019. [PDF](https://www.unitedwaygt.org/wp-content/uploads/2021/10/2019_OE_fullreport_FINAL-1.pdf) — fetched and read (front matter, foreword, contents); used only to confirm this report — not titled "Part II" but sharing three of Part I's co-authors — delivered the demographic-driver breakdown (age, immigration status, gender, racialized status) that Part I's own text promised as a future Part II.
