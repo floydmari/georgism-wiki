@@ -6,6 +6,7 @@ stub: false
 excerpt: "The political-economic philosophy, named for Henry George, holding that the value of land and natural resources is created by the community and therefore belongs to the public, while the fruits of individual labour and capital should be left untaxed with those who produce them."
 sources: [george-1879, andelson-2003]
 pd_quotes: true
+last_reviewed: 2026-07-18
 ---
 
 ## Definition
@@ -34,16 +35,60 @@ improvement once the demands of mere maintenance and conflict are met, is freed 
 cooperation and dissipated by inequality and injustice: "Association in equality is the
 law of progress. Association frees mental power for expenditure in improvement, and
 equality, or justice, or freedom... prevents the dissipation of this power in fruitless
-struggles" (Book X, Ch. III). On this reading, land monopoly is not only an economic
-injustice but the specific mechanism by which advancing civilizations generate their own
-decline, since it recreates the inequality that consumes the mental power progress
-requires — a claim George states as "both a menace and a promise" in the book's closing
-chapter (Book X, Ch. V). This civilizational claim is broader than, and independent of,
-the narrower tax-incidence and productivity arguments carried elsewhere on the wiki
-(e.g. [Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/));
-it has not been and likely cannot be tested empirically in the way those claims are, and
-is carried here as George's own theory of history, not as an evidenced finding (D-claim,
-interpretive).
+struggles" (Book X, Ch. III). Surveying Rome, Egypt, and Greece, George frames the point
+starkly: "The earth is the tomb of the dead empires, no less than of dead men" (Book X,
+Ch. I) — every prior civilization he could identify eventually petrified or decayed, and
+inequality of wealth and power is, on his account, the recurring cause in each case,
+Rome above all: "Great estates had ruined Italy. Inequality had dried up the strength and
+destroyed the vigor of the Roman world... The barbarism which overwhelmed Rome came not
+from without, but from within" (Book X, Ch. III).
+
+Chapter IV, "How Modern Civilization May Decline," turns this into a direct warning about
+George's own country. Its thesis is blunt: "What has destroyed every previous civilization
+has been the tendency to the unequal distribution of wealth and power. This same tendency,
+operating with increasing force, is observable in our civilization to-day" (Book X, Ch. IV).
+George's specific mechanism is political, not merely economic: political equality
+(universal suffrage) does not by itself prevent land-driven inequality, and once wealth
+concentrates, that same universal suffrage becomes the *route* to despotism rather than a
+defense against it, because a corrupt democracy systematically promotes the wrong people —
+"in a corrupt democracy the tendency is always to give power to the worst... The best
+gravitate to the bottom, the worst float to the top." Where wealth is roughly equal,
+George argues, "the more democratic the government the better it will be; but where there
+is gross inequality in the distribution of wealth, the more democratic the government the
+worse it will be." Poverty itself corrupts the franchise that is supposed to check power:
+"To give the suffrage to tramps, to paupers, to men to whom the chance to labor is a boon,
+to men who must beg, or steal, or starve, is to invoke destruction." As a contemporary
+illustration George points to the political machines running American cities of his day,
+casting their bosses as the modern equivalent of the imperial guard: "They stand to the
+government of these cities as the Prætorian Guards did to that of declining Rome" (all
+Book X, Ch. IV). He reads rising pauperism, crime, and vote-buying as early symptoms —
+"twinges and shocks which precede paralysis" — of the same disease that killed Rome, and
+frames the stakes as civilizational: "the civilized world is trembling on the verge of a
+great movement. Either it must be a leap upward... or it must be a plunge downward, which
+will carry us back toward barbarism" (Book X, Ch. IV).
+
+On this reading, land monopoly is not only an economic injustice but the specific
+mechanism by which advancing civilizations generate their own decline, since it recreates
+the inequality that consumes the mental power progress requires — a claim George states as
+"both a menace and a promise" in the book's closing chapter (Book X, Ch. V).
+
+This civilizational claim is broader than, and independent of, the narrower tax-incidence
+and productivity arguments carried elsewhere on the wiki (e.g.
+[Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/)); it
+has not been and likely cannot be tested empirically in the way those claims are, and is
+carried here as George's own theory of history, not as an evidenced finding (D-claim,
+interpretive). It is also worth reading with George's method in view: his comparative
+history of Rome, Egypt, and Greece is 1870s armchair synthesis — pre-archaeological,
+built from classical historians and secondary works rather than primary evidence or
+quantitative comparison, in the mode of contemporaries like Herbert Spencer and Henry
+Thomas Buckle rather than modern comparative historiography. Later historians of economic
+thought engage George seriously as a *classical political economist* (see
+[Progress and Poverty Was Thirty Years Out of Date](/wiki/progress-and-poverty-outdated/)
+for that debate), but the wiki is not aware of any modern historian or archaeologist who
+treats Book X's account of Rome's fall, specifically, as authoritative comparative
+history; it functions here as *Progress and Poverty*'s philosophical and rhetorical
+capstone — the moral stakes George attaches to the land question — rather than as a
+claim the wiki endorses on the evidence.
 
 ## Variants and Related Traditions
 
@@ -118,7 +163,7 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 
 ## Sources
 
-1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/); Book X, Chs. III and V specifically used for the civilizational-argument quotations, verified verbatim against the [repository full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain, EDITORIAL §3b).
+1. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/); Book X, Chs. I, III, IV, and V specifically used for the civilizational-argument quotations (Ch. IV added 2026-07-18: the decline-mechanism material — political corruption, the corrupted-suffrage/"government of the worst" argument, the Prætorian Guard analogy for city political machines), verified verbatim against the [repository full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) (public domain, EDITORIAL §3b).
 2. Robert Andelson (ed., 2001), *Land-Value Taxation Around the World* (3rd ed.) — used for the implementation survey (A/B-claims; the standard comparative reference).
 3. [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — used for the editions of George's works cited throughout (custodial source).
 4. Robert V. Andelson and James M. Dawsey, *From Wasteland to Promised Land: Liberation Theology for a Post-Marxist World* (Orbis Books / Shepheard-Walwyn, 1992) — used for the liberation theology framing of Georgism (D-claims). [Book page](/wiki/from-wasteland-to-promised-land/)

@@ -11,7 +11,7 @@ sources: [george-1879]
 source_url: https://www.gutenberg.org/ebooks/55308
 excerpt: "Henry George's 1879 masterwork — the inquiry into why poverty deepens amid material progress, and the single-tax remedy. One of the best-selling economics books of the 19th century and the founding text of the Georgist movement. The complete text is hosted on the wiki."
 pd_quotes: true
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-18
 bears_on_objections: [overpopulation-causes-poverty]
 ---
 
@@ -34,6 +34,15 @@ George's argument proceeds in three major stages:
 2. **The cause of industrial depressions.** George argues that land speculation — anticipation of future rent increases — causes land to be withheld from productive use, periodically creating crises of unemployment and depression. This analysis prefigured later work on the role of land and credit cycles in economic instability.
 
 3. **The remedy.** George proposes a single tax on land values — sufficient to replace all other taxes — which would capture the unearned increment for the community while leaving wages and capital untaxed.
+
+Book X, the closing book, adds a fourth, philosophical argument beyond these three: a
+theory of civilizational rise and decline (association and equality drive progress;
+inequality arrests and reverses it), applied as a direct warning that American democracy
+itself risks decay into "government of the worst" if land monopoly persists — political
+corruption, a corrupted franchise among the poor, and city political machines George
+likens to the Prætorian Guards of declining Rome. See
+[Georgism § The Civilizational Argument (Book X)](/wiki/georgism/) for the full argument
+and verbatim quotations, including Ch. IV's "How Modern Civilization May Decline."
 
 ## How the Book Was Written
 
@@ -76,6 +85,7 @@ Academic economics largely sidelined George's work by the early 20th century, a 
 - [Thomas Robert Malthus](/wiki/thomas-malthus/) — the population theorist George devotes Book II to refuting, and an independent 1815 co-discoverer of the theory of rent
 - [Overpopulation Causes Poverty (Malthusianism)](/wiki/overpopulation-causes-poverty/) — the rival explanation of poverty that Book II of this work is devoted to refuting
 - [Margin of Production](/wiki/margin-of-production/)
+- [Georgism](/wiki/georgism/) — carries Book X's civilizational-decline argument (association and equality vs. inequality; the political-corruption mechanism of Ch. IV) in full
 
 - [Henry George](/wiki/henry-george/) — the author
 - [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the primary biography's account of the book's writing, full public-domain text in-repo

@@ -1227,3 +1227,22 @@ BACKLOG item checked off. Registry: no new rows (all 5 pre-existed); rows 564/63
 Referenced→Scanned, Light→Heavy, citations updated. Inventory regenerated.
 860 pages, lint 0 errors. All five Doucet Ch. 21 citations now rest on primary
 text — none abstract-only, none second-hand.
+
+## 2026-07-18 (cont.) — Wave: P&P Book X Ch. IV decline mechanism (strict delta)
+
+The last uncovered candidate from the all-10-books P&P deepen-scan closed. Pre-check
+confirmed Ch. IV was genuinely unmined and that the natural home already existed
+(concepts/georgism.md "The Civilizational Argument (Book X)" section — so NO new
+law-of-human-progress page, per delta rule). Ch. IV read in full plus Chs. I/III/V:
+the political mechanism mined (universal suffrage as route TO despotism once wealth
+concentrates; "government of the worst"; corrupted-franchise/tramp-pauper argument;
+Prætorian Guard analogy for city machines; "leap upward or plunge downward"), plus
+the "tomb of the dead empires" and Rome-from-within passages backing the thesis
+paragraph. Method caveat extended honestly: 1870s pre-archaeological armchair
+comparative history, carried as P&P's philosophical capstone, NOT an evidenced
+collapse theory the wiki endorses. Ch. II correctly skipped (Spencer-critique
+preamble, no distinct claim); Ch. V rhetoric not over-mined. All quotes T1
+re-verified verbatim (5/5) against texts/progress-and-poverty-full-text.md.
+books/progress-and-poverty.md gains the fourth-argument note + cross-link. New lint
+warning is George's own quoted "always" — correct as a quote. No registry change
+(source already Core/Heavy). 860 pages, lint 0 errors.
