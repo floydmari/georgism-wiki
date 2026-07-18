@@ -6,7 +6,7 @@ excerpt: 'Gaffney''s 1993 keynote address arguing that taxing land value while u
   labour and capital ("True Fiscal Stimulus") raises both employment and output
   at once, reconciling supply-side and demand-side policy rather than trading one
   off against the other.'
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/essays/Full_employment_thru_total_tax_reform_1993.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -40,12 +40,14 @@ Gaffney supports the argument mostly with historical illustration rather than fo
 ## Standing and Limits
 
 - **Genre and register.** This is a conference keynote address to a Georgist advocacy organization, later printed in that conference's own proceedings — not a peer-reviewed paper, and not intended as one. Roughly half the text (Part I) is explicitly motivational rhetoric addressed to fellow activists, not argument.
+- **The technical derivation lives in an earlier, fuller paper.** This keynote asserts the "True Fiscal Stimulus" mechanism rhetorically, aimed at a Georgist advocacy audience, without deriving it. The mathematical and empirical groundwork — mixed-factor demonstrations, a full tax-bias catalogue, and calculus derivations of how capital turnover responds to land rent and interest rates — is worked out at length seventeen years earlier in Gaffney's 68-page "[Toward Full Employment with Limited Land and Capital](/wiki/gaffney-full-employment-limited-land/)" (1976). A reader wanting the argument's technical foundation, not just its rhetorical statement, should start there.
 - **The "True Fiscal Stimulus" mechanism is a theoretical/attributed claim, not a modeled or empirically tested one.** Gaffney asserts that a land-value tax shift raises both labour demand and labour supply-side incentives simultaneously; he does not present a formal general-equilibrium model, elasticity estimates, or a natural experiment isolating the claim from other contemporaneous policy changes. It is best read alongside [ATCOR](/wiki/atcor/) and [EBCOR](/wiki/ebcor/) as part of Gaffney's wider, internally consistent but empirically untested framework connecting land taxation to macroeconomic outcomes — this wiki's [benefits page on land taxation and productivity](/wiki/taxing-land-raises-productivity/) already carries that framework as attributed Georgist theory, distinct from its better-evidenced "least-harmful-tax" claim.
 - **The historical illustrations are single-case and Gaffney's own selection.** The Chicago 1908–1915 example rests on a secondary citation to Hoyt (1933) rather than on Gaffney's own analysis of the underlying data, and no comparison is offered to booms that occurred under different tax regimes elsewhere in the same period.
 - **The nineteen-point "reconciliations" list is rhetorical enumeration, not a set of independently derived or evidenced propositions** — several restate the same underlying mechanism (the fixed land charge plus untaxing labour/capital) in different policy language.
 
 ## See Also
 
+- [Gaffney (1976), Toward Full Employment with Limited Land and Capital](/wiki/gaffney-full-employment-limited-land/) — the fuller, earlier, technically derived version of this keynote's argument
 - [Taxing land and rents increases productivity](/wiki/taxing-land-raises-productivity/) — the benefit claim this page's argument supports (as attributed theory, not independent evidence)
 - [ATCOR](/wiki/atcor/) · [EBCOR](/wiki/ebcor/) — the related Georgist theorems this keynote's "True Fiscal Stimulus" argument sits alongside
 - [Gaffney (2005): The Physiocratic Concept of ATCOR](/wiki/gaffney-atcor/)
@@ -55,3 +57,4 @@ Gaffney supports the argument mostly with historical illustration rather than fo
 ## Sources
 
 1. Mason Gaffney (1993), "Full Employment through Total Tax Reform," Keynote Paper, Biennial Meeting, International Union for Land Value Taxation and Free Trade, Melbourne, 27 September 1993, published in *Conference Papers*, 1994 — used for all claims and quotations on this page; read in full for this page. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Full_employment_thru_total_tax_reform_1993.pdf) · [archived](https://archive.progress.org/gaffney/essays/Full_employment_thru_total_tax_reform_1993.pdf)
+2. Mason Gaffney (1976), "Toward Full Employment with Limited Land and Capital" — [wiki summary](/wiki/gaffney-full-employment-limited-land/) — used for the technical-precursor note in Standing and Limits above.

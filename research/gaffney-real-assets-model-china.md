@@ -179,6 +179,16 @@ one downstream symptom.
 - **Native text, no OCR.** The masongaffney.org copy and the Wiley-hosted
   published version were both consulted; the working text mirror is drawn from
   a cleanly `pdftotext`-extractable copy, no OCR needed.
+- **Priority note (2026-07-18).** The K·T = F capital-turnover identity this
+  paper states and attributes, without novelty claims, to "Smith, Ricardo,
+  Wicksell, and Turgot" is not new to Gaffney's own corpus either: he derives
+  the identical mechanism at much greater length and with full mathematical
+  derivation — including how land rent shortens the optimal capital-recovery
+  cycle (`dR/dn = i(R+S)`) — in his 68-page 1976 chapter "[Toward Full Employment
+  with Limited Land and Capital](/wiki/gaffney-full-employment-limited-land/)."
+  That paper's employment framing is distinct from this one's business-cycle
+  framing, but the underlying turnover mechanism is the same one Gaffney worked
+  out nearly forty years earlier.
 
 ## Bears On
 
@@ -193,6 +203,7 @@ one downstream symptom.
 
 ## See Also
 
+- [Gaffney (1976), Toward Full Employment with Limited Land and Capital](/wiki/gaffney-full-employment-limited-land/) — the earlier, fuller mathematical derivation of the K·T = F capital-turnover mechanism this paper uses
 - [Gaffney (1982), Causes of Downturns: an Austro-Georgist Synthesis](/wiki/gaffney-causes-of-downturns/) — the earlier, unpublished working-notes version of a similar land-price-to-credit-collapse sequence
 - [Gaffney, How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/) — the short-form statement of the capital-turnover/capital-destruction mechanism
 - [After the Crash: Designing a Depression-Free Economy (2009)](/wiki/gaffney-after-the-crash/) — Gaffney's book-length treatment this paper's model summarizes and extends to China

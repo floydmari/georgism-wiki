@@ -1671,3 +1671,25 @@ never flipped). 3 more ampersand 404 stubs recovered + CACHE REPAIRED for future
 sessions. Registry: I2015 Light→Heavy + 2 new rows. Remaining unchecked tail: 95
 rows — 73 workpapers + essays dir + 5 stray publications (C2, E4, E5, E7, E9).
 Inventory regenerated. 882 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: I1 full-employment READ&MINE + I2012 fold + I16 decline
+
+I1 "Toward Full Employment with Limited Land and Capital" (Lynn ed., Property
+Taxes, Land Use and Public Policy, U. Wisconsin Press 1976, pp. 99-166 —
+provenance confirmed from the running head, NOT the Lindholm volume) → research/
+gaffney-full-employment-limited-land.md (883rd page): the Great Revolving Fund
+K·T=F model with full worked derivations — the mathematical machinery the 2015
+China paper USES WITHOUT DERIVING (priority note added there); dR/dn = i(R+S)
+(higher land rent shortens optimal capital-recovery cycles — the paper's most
+policy-relevant original result); monuments/frontiers/war capital-sink taxonomy
+(distinct from WP041/042's five-fold micro version); the neo-Georgist/Keynesian
+"benefits to capital are benefits to labor" critique. Appendices are derivations
+from assumed parameters, not data fits — flagged. I2012 folded into
+18-year-land-cycle: peace-dividend overlay, the 1990-2008 "perfect cycle" claim,
+and Gaffney's own 2012 forecast of a crash "in about 2026" — carried as an OPEN
+dated forecast, deliberately unadjudicated (today sits inside the window; no
+evidence sought either way). I16 skim-confirmed as I1-minus (identical tables/
+epigraph), declined without registry row. Registry +2 rows (I1 Heavy, I2012
+Heavy). I11 surfaced as a related precursor — left flagged for a future
+capital-theory cluster, not chased mid-wave. Inventory regenerated. 883 pages,
+lint 0 errors.
