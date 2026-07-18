@@ -161,6 +161,7 @@ honest reading keeps both edges.
 - [Leduc & Liu — Automation, Bargaining Power, and Labor Market Fluctuations](/wiki/leduc-liu-automation-bargaining/) — a complementary mechanism: automation *threats* erode bargaining power and shift income to capital owners even absent deployment
 - [Furman Review — Unlocking Digital Competition](/wiki/furman-review-digital-competition/) — the dissolve-the-rent pole; its forward warning that AI may entrench incumbents "because of the importance of data"
 - [Korinek & Ng — digital superstars](/wiki/korinek-ng-digital-superstars/) — Korinek's companion model of how digitization creates superstar rents
+- [Korinek & Vipra — Concentrating Intelligence](/wiki/korinek-vipra-ai-concentration/) — the short-run market-structure evidence behind this paper's long-run theory · [Korinek & Lockwood — Public Finance in the Age of AI](/wiki/korinek-lockwood-ai-public-finance/) — the tax-instrument design this paper's "non-distortionary taxation" claim is built out into
 - [Economic Rent](/wiki/economic-rent/) · [Quasi-Rent](/wiki/quasi-rent/) · [Law of Rent](/wiki/law-of-rent/) · [ATCOR](/wiki/atcor/)
 - [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) — the innovation-incentive cost the authors' second-best model itself weighs
 - [Geoism](/wiki/geoism/) — the rent-domain program and its gradient

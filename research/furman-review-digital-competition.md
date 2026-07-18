@@ -166,6 +166,7 @@ durable, and a strong reminder that on the digital frontier the right instrument
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — the graded synthesis of capture vs dissolution instruments
 - [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/) — whether this report's dissolve-not-capture prescription has actually worked, checked against the 2025-26 DMA and US antitrust enforcement record
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+- [Korinek & Vipra — Concentrating Intelligence](/wiki/korinek-vipra-ai-concentration/) — checks this review's 2019 forward warning about AI and data entrenchment against 2023–24 foundation-model market evidence
 
 - [Platform and Data Rents](/wiki/data-rents/) — the diagnosis the review corroborates
 - [Romer's digital advertising tax](/wiki/romer-digital-advertising-tax/) — the capture-side alternative to the review's dissolve-side remedies

@@ -334,6 +334,24 @@ patent length against a distortionary capital tax — i.e. they take the
 case is strongest exactly where their logic is strongest — on the fixed factor — and should
 claim no more certainty than that on the AI frontier.
 
+**Two 2024–26 follow-ups update the diagnosis with checkable, near-term evidence rather than
+long-run theory.** [Korinek & Vipra (2025)](/wiki/korinek-vipra-ai-concentration/), peer-reviewed
+in *Economic Policy*, identify the specific mechanism that could turn AI profit into rent —
+massive fixed compute costs, a near-monopoly compute supplier (Nvidia at 92–98% of the GPU
+market), and an "intelligence feedback loop" with no platform-era analogue — and use the
+authors' own word for the outcome if it tips: **"monopoly rents."** But the same paper's
+snapshot of the foundation-model market finds fierce, margin-erasing competition among frontier
+labs — "close to Bertrand competition" — meaning the rent the mechanism could produce had not,
+as of their evidence, arrived. And [Korinek & Lockwood (2026)](/wiki/korinek-lockwood-ai-public-finance/)
+supply the instrument-design mirror: an optimal-taxation framework whose central efficiency
+principle — tax the rents of fixed factors "such as unimproved land, spectrum rights, unique
+datasets" heavily, exempt the normal return — is the wiki's own [law of rent](/wiki/law-of-rent/)
+logic, arrived at independently, and mapped directly onto the live AI-tax proposals (compute,
+token, robot, digital-services taxes) this page grades. **Neither paper resolves the is-it-rent
+question; both narrow it** — one by pinning down the mechanism and showing it has not yet fired,
+the other by supplying the tax-design vocabulary the next revision of this page's instrument
+table should use.
+
 ## Counter-Evidence and Honest Limits
 
 - **The base may not be rent at all.** The single largest limit is the one the gradient names:
@@ -369,6 +387,7 @@ claim no more certainty than that on the AI frontier.
 - [Furman Review](/wiki/furman-review-digital-competition/) · [The Digital Markets Act](/wiki/dma-interoperability-dissolution/) — the dissolve pole, diagnosis and legislation
 - [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/) — the 2025 DMA fines, the rejected Google breakup, the FTC's Meta loss, and the honest counter-case that dissolution can destroy real efficiencies too
 - [Korinek & Stiglitz — AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory
+- [Korinek & Vipra — Concentrating Intelligence](/wiki/korinek-vipra-ai-concentration/) · [Korinek & Lockwood — Public Finance in the Age of AI](/wiki/korinek-lockwood-ai-public-finance/) — the 2024–26 diagnosis and instrument-design update
 - [Superstar Firms (Autor et al.)](/wiki/autor-superstar-firms/) · [Corporate profits increasingly rents](/wiki/corporate-profits-increasingly-rents/) — the efficiency counter-reading
 - [Harberger Tax (COST)](/wiki/harberger-tax/) · [Radical Markets](/wiki/radical-markets/) — the data-as-labor / self-assessment program
 - [Objection: Taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/) — the mandatory counterweight to every instrument above
@@ -472,3 +491,14 @@ draws on; DST and DMA figures come from working papers and primary legislation a
     tax." [CBS News](https://www.cbsnews.com/news/trump-digital-services-tax-tariff-europe/)
     — used for the Pillar One withdrawal-and-standstill design, its unsigned status, and the
     Canada/tariff-threat unwind. Via [Digital Services Taxes as Actually Implemented](/wiki/digital-services-taxes/).
+21. Anton Korinek & Jai Vipra (2024/2025), "Concentrating Intelligence: Scaling and Market
+    Structure in Artificial Intelligence," INET Working Paper 228; *Economic Policy* 40(121),
+    225–256 (2025). [INET PDF](https://www.ineteconomics.org/uploads/papers/WP_228-Korinek-and-Vipra.pdf)
+    — used for the compute-concentration diagnosis (Nvidia 92–98% of the GPU market), the
+    "monopoly rents" and "intelligence feedback loop" language, and the Bertrand-competition
+    counter-evidence. Via [Korinek & Vipra — Concentrating Intelligence](/wiki/korinek-vipra-ai-concentration/).
+22. Anton Korinek & Lee M. Lockwood (2026), "Public Finance in the Age of AI: A Primer," NBER
+    Working Paper 34873. [NBER PDF](https://www.nber.org/system/files/working_papers/w34873/w34873.pdf)
+    — used for the fixed-factor rent-taxation principle (land, spectrum, datasets) and the
+    compute/token/robot/DST instrument mapping. Via [Korinek & Lockwood — Public Finance in the
+    Age of AI](/wiki/korinek-lockwood-ai-public-finance/).

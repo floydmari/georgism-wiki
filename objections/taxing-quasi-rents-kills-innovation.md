@@ -200,6 +200,7 @@ evidence base thins exactly where the claimed rents persist longest.
 ## See Also
 
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated
+- [Korinek & Vipra — Concentrating Intelligence](/wiki/korinek-vipra-ai-concentration/) — the same paper's Bertrand-competition evidence that frontier AI labs were, as of late 2024, competing away margins rather than banking rents · [Korinek & Lockwood — Public Finance in the Age of AI](/wiki/korinek-lockwood-ai-public-finance/) — concedes in practice that "distinguishing true rents from returns... necessary to incentivize continued innovation" is unsolved even in their own tax-design framework
 - [Rent Dissolution vs. Rent Capture: the Enforcement Record](/wiki/tech-rent-dissolution-vs-capture/) — whether dissolving a rent avoids this objection's costs, or just moves them
 
 - [Quasi-Rent](/wiki/quasi-rent/) — the concept doing the work

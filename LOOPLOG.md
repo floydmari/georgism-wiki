@@ -1268,3 +1268,26 @@ Wired: taxing-tech-rents §5, quasi-rents objection Limits, DMA page, Furman pag
 data-rents. Registry +16 rows. Inventory regenerated. 861 pages, lint 0 errors.
 WS-TECH-RENTS: only (d) is-it-rent diagnosis update remains before the gated
 instrument-comparison synthesis.
+
+## 2026-07-18 (cont.) — Wave: is-it-rent diagnosis update (WS-TECH-RENTS part d — lane discovery COMPLETE)
+
+Assigned targets (Furman diagnosis, Korinek-Stiglitz 2017, De Loecker markups) all
+verified as ALREADY Heavy-scanned from earlier waves — three verified no-ops, no
+churn. Agent instead found and mined two genuinely new on-point papers:
+(1) research/korinek-vipra-ai-concentration.md (862nd page) — INET WP 228 / Economic
+Policy 2025, read in full: the rent MECHANISM specified (fixed compute costs, Nvidia
+92-98% GPU share — internal 92 vs cited-Wells-Fargo 98 discrepancy flagged not
+resolved; intelligence feedback loop), authors' own phrase "monopoly rents" — BUT
+their own Sept-2024 market snapshot shows near-Bertrand pricing among frontier labs:
+diagnosis carried as mechanism-present/rent-not-yet-realized. (2) research/
+korinek-lockwood-ai-public-finance.md (863rd) — NBER WP 34873 Feb-2026, read in
+substantial part (formal proofs §§3-4 honestly NOT relied on beyond authors' prose):
+independently derives the wiki's own rent-gradient principle ("tax rents of fixed
+factors... unimproved land, spectrum rights, unique datasets... no distortion") and
+maps every live AI-tax proposal onto capital-vs-consumption logic. Wired into
+taxing-tech-rents (AI coda + Sources 21-22), data-rents, both existing Korinek/
+Furman pages, quasi-rents objection. Registry +2 rows. 863 pages, lint 0 errors.
+GATE OPEN: WS-TECH-RENTS a-d all done → instrument-comparison synthesis unlocked.
+Synthesis must reconcile against Korinek-Lockwood Table 3 (DST/robot-services =
+consumption-tax-like vs compute/robot-ownership = capital taxes) and decide
+include-or-exclude-with-reason for their SWF/windfall-clause/UBC family.
