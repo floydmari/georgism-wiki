@@ -298,11 +298,19 @@ Memorial Ed. 1898), **Wealth of Nations (381.9k w, Georgist-lens book page)** al
 sources/publicdomain/.
 
 **New queue items:**
-- [ ] [READ&MINE] tier:T2 status:todo — **still genuinely open** (re-verified 2026-07-18):
-      DEEPEN-SCAN Progress & Poverty — full text is ingested (texts/progress-and-poverty-
-      full-text.md) and its citing pages got a quote-verification pass 2026-07-18, but
-      registry.csv still shows Scan Depth **Medium** (30 in-wiki citations), not Heavy —
-      systematic mining into new argument pages hasn't happened. Real remaining work.
+- [x] [READ&MINE] tier:T2 status:done 2026-07-18 — DEEPEN-SCAN Progress & Poverty executed:
+      Book-by-Book scout mapped all 10 Books against existing coverage; four T1-approved
+      enrichments shipped (Bk IX -> benefits/taxing-land-raises-productivity; Bk VI Ch I
+      six-way rival-remedies critique -> objections/nationalization-solves-the-land-problem;
+      Bk VII Ch III no-compensation position, paired with Mill's design ->
+      objections/lvt-transition-wealth-shock; Bk I -> concepts/wages-fund-doctrine
+      stub-to-full upgrade). Registry Scan Depth bumped Medium -> Heavy. Scout's do-NOT-do
+      list honored (Bk III interest theory, Bk IV granularity, Bk VII history, Conclusion).
+- [ ] [SYNTHESIZE] tier:T1 status:blocked-on-Floyd — the one remaining P&P gap: Book X
+      (Law of Human Progress — association+equality theory of civilization, Rome analogy)
+      has zero wiki footprint. It is George's most speculative, least evidential material;
+      a concepts/law-of-human-progress page is a legitimate but discretionary addition.
+      FLOYD'S CALL whether the wiki should carry it.
 - [x] [READ&MINE] tier:T2 status:done (verified 2026-07-18) — DEEPEN-SCAN Wealth of Nations:
       the named candidate (Smith on primogeniture/entails, Book III Ch. II) is mined and
       verified verbatim into people/adam-smith.md and concepts/land-monopoly.md (both note
