@@ -183,6 +183,16 @@ def main():
             except Exception as e:
                 c["pdf_note"] += f" · HEAD failed ({type(e).__name__})"
 
+    # placements evaluated by a T1 shift and rejected — the chart does not carry that
+    # page's headline claim (LOOP-FIGURES step 7). Keyed (target page, source slug).
+    REJECTED_PLACEMENTS = {
+        ("benefits/rent-dividends-reduce-poverty.md", "jones-marinescu-alaska-pfd"):
+            "employment chart ≠ the poverty-reduction claim (wave 6)",
+        ("benefits/lvt-can-replace-capital-taxes-without-efficiency-loss.md",
+         "bonnet-land-is-back"):
+            "Fig 1 shows wealth ratios, not the efficiency-swap result (wave 6)",
+    }
+
     # re-embed placement candidates: evidence pages wired to figure-bearing entries
     placements = []
     for rel in sorted(has_figure):
@@ -191,7 +201,8 @@ def main():
         for out_slug in (fm.get("supports_outcomes") or []):
             for f in ("outcomes", "problems", "benefits"):
                 target = f"{f}/{out_slug}.md"
-                if target in pages and "<figure" not in bodies[target]:
+                if (target in pages and "<figure" not in bodies[target]
+                        and (target, fig_slug) not in REJECTED_PLACEMENTS):
                     placements.append((target, fig_slug))
 
     lines = [

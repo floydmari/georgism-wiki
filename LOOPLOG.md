@@ -961,3 +961,15 @@ came up empty honestly: AJR-Botswana (institution scatters, not the rent-capture
 Baunsgaard-Vernon (design note), OECD tax-and-growth (regression tables) all no-chart;
 foldvary-public-revenue paywalled book, dwyer PDF link dead, both Harrison books need scans
 → blocked. Queue 312 open; 11 source entries + 3 evidence pages carry figures.
+
+**Wave 6 (2026-07-18c):** three more re-embeds, each anchor-verified against the page's own
+"At a glance" wiring — dors-fig1 → benefits/landlords-cannot-pass-lvt-to-tenants (caption
+explicitly points at the counter-study so the chart can't read as settled) · gm-fig2 →
+problems/finance-growth-is-land-credit · jm-fig2 → benefits/resource-rent-dividends-work
+(framed as the workability test). Two placements REJECTED on anchor grounds and recorded in
+the builder's REJECTED_PLACEMENTS (employment chart ≠ poverty claim; Bonnet Fig 1 ≠
+efficiency-swap result). Mirror sweep resolved the rest of the paywalled top: oates-1969
+no-chart (verified tables-only), albouy-ehrlich-shin no-chart (author-posted PDF reviewed —
+headline lives in Tables 2-3), saiz/brueckner/plassmann-tideman/tomson blocked:needs-mirror
+(course-site copies rejected as non-legal), ryan-collins blocked (lending-only scan). Queue
+306 open, 11 re-embed placements left; 17 pages carry figures.
