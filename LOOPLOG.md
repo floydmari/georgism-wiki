@@ -1854,3 +1854,19 @@ triaged and worked — ~40 works read in full onto dedicated/updated pages,
 ~20 folded, remainder declined with recorded reasons; 5 priority corrections
 shipped today alone (1961 credit mechanism, 1969 Milwaukee primary, 1991 peace
 dividend, 1972 caciques, 2011 Mill Effect).
+
+## 2026-07-18 (cont.) — Wave: thin-article burn-down (systematic survey, 5 expansions, 3 honest skips)
+
+Survey ranked all pages by words-ascending/inbound-descending. Expanded from held
+sources ONLY: michael-hudson 340→798 (49 inbound — his own Bezemer 2016 paper
+kept as contested interpretation, the Fed negative-$4B land-value accounting
+critique, the previously-uncited 2008 George's-political-critics AJES piece);
+nicolaus-tideman 275→517 (both quantified papers with verification caveats
+carried); lars-doucet 343→540 (ACX dates, Center for Land Economics founding);
+prosper-australia 207→408 (SV11 5.2% Melbourne vacancy, Renegade Economists
+run); new-york-city 462→872 (54 inbound — 1921-31 exemption episode with
+causation caveats + Jan-2025 congestion-pricing eval flagged working-paper).
+SKIPPED with reasons: ryan-collins + patel (held material already fully cited —
+no padding), san-francisco (477w/49 inbound, time-boxed; Saiz/Albouy/Gaffney
+material identified for a future wave). Zero new external fetches; zero registry
+changes needed. 888 pages, lint 0 errors, warnings baseline-identical.
