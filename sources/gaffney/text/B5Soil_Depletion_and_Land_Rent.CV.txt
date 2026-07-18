@@ -1,0 +1,1024 @@
+:
+ot
+H
+:
+|
+|
+{
+i
+|
+j
+:
+‘
+H
+!
+$
+i
+H
+
+‘
+
+SOIL DEPLETION AND LAND RENT
+M. MASON GAFFNEY*
+
+This paper attempts to define land rent net of soil depletion.
+The paper is an outgrowth of a larger study’ of the meaning and
+function of land rent, and is not represented as more than a subspe-
+cialized monograph focused on its fragment of the wider topic.
+Some economists will challenge one or more of its implicit postulates,
+but it offers only an introductory gesture at their defense, as that
+would otherwise constitute a separate subject. The paper does sow,
+where germane, some wild oats, hopefully germinable, on issues in
+conservation, tax policy, and mineral depletion, but only as obiter
+dicta.
+
+In the last few years, economists’ interest in land rent and land
+
+- values has reversed a long downtrend and shown a lusty new vigor.
+
+As recently as 1953 it was possible to write of “The Declining Eco-
+nomic Importance of Agricultural Land.”? Since then, the value of
+farm real estate in forty-eight states, as estimated by the Eco-
+nomic Research Service of the United States Department of Agricul-
+ture, has risen from 97 billion dollars to 155 billion dollars, or about
+58 per cent, in spite of real estate taxes having risen to some one and
+one-half billion dollars yearly, and mortgage rates having risen to
+over 6 per cent. The percentage of “real estate” which is “land”——or
+at least is not “buildings’’—has risen to 74 per cent. Since 1953, the
+mean annual increment to farm real estate values, 5 billion dollars,
+has equalled roughly 30-40 per cent of net income of farm operators.
+Since then, it has become widely recognized that the vested interest
+of farm landholders in values sustained by farm programs is a major
+obstacle to rational readjustment of obsolete farm programs. Since
+then, the Soil Bank programs have demonstrated that an annual out-
+lay of about 700 million dollars, for bare land alone, was enough to
+entice only 28 million acres into retirement, or 8 per cent of our
+cropland area, suggesting that the imputed rental value of land not
+retired may be enough to absorb the lion’s share of net farm income.
+Since then it has been rediscovered that high land prices are a prime
+barrier to entry of young men into farming.
+
+* Chairman, Department of Economics, University of Wisconsin, Milwaukee.
+
+1, M. M. Gaffney, Ground Rent and the Allocation of Land among Firms, in Rent
+Theory, Problems and Practices (Miller ed., North Central Land Tenure Research
+Committee 1962) (Mo. Research Bulletin No. 810).
+
+2. T. Schultz, The Economic Organization of Agriculture, ch. 8 (McGraw-Hill 1953).
+
+ofp sere ie ree
+
+é
+
+538 NATURAL RESOURCES JOURNAL EVob. 4
+
+A shower of scholarly works has accompanied the resurgence of
+land rents and prices.*
+
+It is no longer necessary to emphasize, therefore, the importance
+of agricultural land. There is no longer any question that there is
+such a thing, that it is extremely valuable, takes a large share of farm
+income, and plays a vital role in human affairs.
+
+If land and rent are topical, they are also of enduring significance .
+to economics. It is net land rent, not contract rent, that determines
+the allocation of land at the margins between farms. It is land rent
+that helps determine the optimal allocation of land between present
+and future uses, and is thus a vital element in determining replace-
+ment policy :* replacement of buildings, orchards, machines, terraces,
+pastures, livestock, timber and other capital items. It is land rent that
+perdures, extending into the indefinite future, and is capitalized into
+land values so high that the investor ordinarily can expect to receive
+only a return on his investment, not a return of it. It is the enchance-
+ment of land rent, and of land values capitalized from it, that pro-
+vides a main rationale for outlays on public works projects that im-
+prove lands (as what projects do not?), whereby ground rent helps
+
+3. Hawtrey, Production Functions and Land—A New Approach, 70 Economic J. 114
+(1960) ; D. R. Denman & V. F. Stewart, Farm Rents (George Allen and Unwin 1959) ;
+Bellerby, Gross and Net Farm Rent in the United Kingdom, J. of the Proceedings of the
+Agricultural Economics Soc’y 356 (1954); Whetham, Rent and Agricultural Price
+Review, 68 Economic J. 605 (1958); Stigler, Ricardo and the 93% Labor Theory of
+Value, 48 Am. Econ. Rev. 355 (1958); Samuelson, 4 Modern Treatment of the Ricard-
+ian Economy, 73 Q. J. Econ. 217 (1959) ; Johnson, Allocation of Agricultural Income, 30
+J. of Farm Economics 724 (1948) ; Ruttan & Stout, Regional Differences in Factor Shares
+in American Agriculture, 42 J. of Farm Economics $2 (1960); J. S. Keiper, E. Kurnow,
+C. D. Clark & H. H. Segal, Theory and Measurement of Rent (Chilton 1961) ; Mishan,
+Rent as a Measure of Welfare Change, 49 Am. Econ. Rev. 386 (1959); W. Vickrey,
+General and Specific Financing of Urban Services, in Conference on Public Expenditure
+Decisions in the Urban Community (Resources for the Future, Inc. 1962); Aandahl,
+Scholter, & Murray, Economic Rating of Soils for Tax Assessment, 36 J. of Farm Eco-
+nomics 483 (1954).
+
+4. It is I believe a lapse in several recent works on replacement policy to have over- -
+looked this. E.g., Faris, Analytical Techniques used in Determining the Optimum Re-
+placement Pattern, 42 J .of Farm Economics 755 (1960). Professor Faris’s difficulties
+with his critics, Professors Winder and Trant [Comments on Faris, Determining the
+Optimum Replacement Pattern, 43 J. of Farm Economics 939 (1961)] stem from his
+overlooking the role of land rent in replacement policy, and their failure, in turn, to
+have any impact on Professor Faris’ thinking might well be attributed to the devious
+exposition (of their quite correct conclusions) necessitated by their forbearance from
+using any term so concrete as “land.” Other recent studies are by F. A. Lutz & D. C.
+Hague, The Theory of Capital (MacMillan 196t) ; V. L. Smith, Investment and Produc-
+tion (Harvard Univ. Press 1961). For the writer’s position on the question, see M. M.
+Gaffney, Concepts of Financial Maturity of ‘Timber and Other Assets (N.C. State Col-
+lege Dept. of Agricultural Economics Information Series No. 62, 1957, 1960); M. M.
+Gaffney, Land and Rent in Welfare Economics, in Land Economics Research (Acker-
+man, Clawson & Harris ed., Resources for the Future, Inc. 1962).
+
+January, 1965] SOIL DEPLETION AND LAND RENT 539
+
+guide the allocation of devclopmental resources. It is, finally, land
+rent which, if we can cleanly distinguish it from other distributive
+shares, constitutes probably an ideal tax base, and certainly a very
+practicable one, in a world increasingly in need of ideal and practic-
+able tax bases.
+
+A. major barrier to useful applications of the land rent concept,
+however, has ever been the problem of imputation, The anti-imputa-
+tionists, who are always with us, point out that you cannot unscram-
+ble an omelette. One may concede the point, but yet wonder if we
+can’t still tell the omelette from the frying pan.
+
+The distinction of urban sites from buildings is fairly clear cut.
+Site value is what would remain after a good fire. Farm soils, on the
+other hand, provide good sport for the “omelette school,” for here
+parts of the frying pan appear to merge with the omelette. Farm
+soils are not only amended by and mixed with man-made nutrients,
+but some of them, and some parts of all of them, appear to lack
+the distinctly longer life-expectancy, and potentiality of salvage
+and re-use, that so clearly distinguishes sites from buildings, and
+frying pans from omelettes.
+
+The “omelette school” may revel, therefore, in the difficulties fac-
+ing economists who seek means to impute returns to specific inputs
+used in conjunction with soil, and to soil itself. The difficulties are un-
+deniable, affording easy debaters’ points for the captious. The sub-
+stantive formidability of the difficulties, however, is largely a function
+of the economist's will to overcome them constructively. I suggest
+the effort is well warranted.
+
+It is truc of any situation, indeed, that the finer we can break down
+its elements, and their individual workings, the more effective control
+we can exercise, for private and public ends. Some private ends of
+rent imputation are these: Imputation is essential for optimal com-
+bination of inputs; for economical allocation of land among farms, or
+between one’s farm and the Soil Bank; for optimal timing of replacc-
+ment; for rent determination. On the public level, imputation is es-
+sential to tax policy, conservation policy, analysis of true net social
+capital formation, administration of public lands, and benefit-cost
+analysis of public works (where much of the benefit appears as en-
+hanced rents). These ends seem adequate to motivate economists to
+scour their frying pans,* and, where the omelette defies conventional
+detergents, to synthesize more specific ones. That is the object of this
+
+paper.
+
+5. Bracing ourselves for the inevitable wit who will ask if we are not rather falling
+out of those frying pans into the fire.
+
+540 NATURAL RESOURCES JOURNAL [Vor 4
+
+I
+FOUR ECONOMIC CATEGORIES FOR SOIL ANALYSIS
+
+Land rent is an income, corresponding to a flow of services from a
+durable resource. Rent is analogous to the legal concept of usufruct,
+the right to the income of an estate without impairment of its sub-
+stance. Land rent is net of depletion of virgin fertility, for depletion
+constitutes sale of the substance of the resource, and the correspond-
+ing payment is not income but a transfer, the liquidation or amortiza-
+tion of a fund, comparable to sale of title to part of the land itself.
+Of course, rent is also net of depreciation and obsolescence of im-
+provements on and in the ground; and among improvements we tnust
+include artificial fertility.
+
+Some writers have seemed to fail to deduct depletion when reckon-
+ing rent. Thus Bunce writes that, under exploitation, “the net income
+accruing to the land will be higher than it would be when fertility has
+to be maintained.”’* Again, federal law forbids farmers’ deducting
+soil depletion from taxable income. Yet, again, keepers of the na-
+tional income accounts deduct nothing for soil depletion. Are they
+thus tending to overstate aggregate farm income, and to overstate
+net farm capital formation by a yet larger percentage ? It may be that
+part of what we call “net capital formation,” and impute to thrift, is
+rather the metamorphosis of natural geological fund resources into
+man-made capital, through liquidation and reinvestment. Or is the
+proper depletion charge too small to warrant the trouble of find-:
+ing it?
+
+It is easy to say we should acknowledge soil depletion with some
+charge. But the problem of distinguishing income, or rent, from
+depletion is not simple. What is the proper depletion allowance when
+a farmer liquidates soil fertility? And there is another question: is
+the true income, net of depletion, that imputes to exhaustible but un-
+exhausted soil fertility, properly rent, or is it classical ‘‘interest”’? Is
+is, like rent, an income imputable to natural and social forces—Mar-
+shall’s ‘public value” of land—exogenous to the individual atomistic
+landholder? Or is it, like interest, the reward of an owner’s past
+restraint in sparing the soil, and a socially functional incentive for
+him to conserve it in the future? To unravel these knotty topics it is
+useful to define at least four separate aspects of virgin soil fertility,
+distinguishing the four on the basis of economic concepts and criteria.
+
+6. A. C, Bunce, The Economics of Soil Conservation 45 (Jowa State College Press
+1942), We will see that Bunce was not entirely wrong.
+January, 1965] SOIL DEPLETION AND LAND RENT 541
+
+Prevailing soils terminology, like that in so many disciplines, re-
+flects a conceptual framework developed by natural scientists for
+their purposes, and not oriented toward economic problems and
+distinctions. It is therefore legitimate for economists to develop their
+own categories where necessary to analyze the economic aspects of
+soil.
+
+Lassume my readers are conversant with the fund-flow distinction.
+The first soil category I propose is the pure flow resource, that is, the
+enduring matrix of the ground, with its location, subsoil and drain-
+age, macro-relief, climate, and those nutrients which, like iron, are
+present in such abundance, relative to prospective withdrawals, as to
+be inexhaustible.” .
+
+The matrix is not changceless, for nature is still dynamic and may
+impair or improve it. Even man might conceivably destroy a matrix,
+if he deliberately and wantonly sct out to do so. Non-farm earth-
+moving like strip mining or road cuts may destroy a matrix. The
+matrix is however, “indestructible” in this important sense: it
+maintains itself without human aid, and despite human neglect and
+abuse incident to farm operations.
+
+The economic value of the matrix is not insusceptible to human
+influence. The physical matrix is humanly indestructible in the sense
+explained above, but the economic value of a location—part of the
+matrix concept—is very much the product of surrounding human
+activitics, public and private. But the location value is only negligibly
+the product of the activities of the atomistic individual landholder as
+such. It is rather the sum of the spillover effects, or external econo-
+mies, received from surrounding human activities.
+
+The second category is a degree less permanent. It is the “‘conserv-
+able flow” element of soil, that which it is possible, but not economi-
+cal, to destroy in production. More positively, the ‘“conservable
+flow” element is that which it is economical to take pains to conserve,
+because it is expected to yield future incomes whose present value
+exceeds the present value of conservation costs.* At the core, this
+category is as enduring as the matrix, and its income, net of conserva-
+tion costs, is part of ground rent. At the fringes, its income is still rent,
+but is subject to change of classification as economic parameters
+change, and therefore to some uncertainty at all times, since these
+parameters are mostly forecasts of future prices and costs. I would
+
+7. An infinite fund is similar to a perpetual flow.
+8. Current liquidation value is included among these costs, because generally that is
+nothing more than the obviation of current conservation cost.
+542 NATURAL RESOURCES JOURNAL {Vor. 4
+
+dispute, however, anyone alleging the concept therefore to be useless,
+for there is hardly to be found an economic concept without compar-
+able penumbra problems.
+
+The third category comprises the “revolving fund” of soil nutri-
+ents. These leave the soil and the site, embodied in crops and live-
+stock, but are economical to replace or renew. This class is best likened
+to aninventory. :
+
+The fourth category is the “expendable surplus.” It includes finite
+fund resources, which yield a liquidation value but are not economical
+to renew or replace. It also includes redundant flow resources that
+are not economical to conserve, and which yield a “liquidation value”’
+in the sense of obviating conservation costs. For an oversimplified
+example, if a uniform topsoil is sixty inches deep, and plant roots
+can use only forty inches, then twenty inches is expendable surplus.
+The top twenty inches does not increase yields, but has the value of
+obviating conservation costs as it is allowed to erode off.
+
+The proportion of soil value in each of the four categories varies
+greatly with the individual soil. Alluvial bottom, renewed by periodic
+flood and aeolian deposits, is largely permanent and resistant to
+abuse. On the other hand, thin erosive steep soils in zones of tor-
+rential rains or drought and windstorm have little permanent use
+value.
+
+The proportion also changes with price and cost parameters. When
+land is cheap, much topsoil seems “expendable” that later becomes
+“conservable.” Thus at today’s high land prices (assuming them to
+continue), the exploitive practices of 1940 and 1950 are no longer
+appropriate: a great deal of “expendable” soil has become ‘‘con-
+
+9. “Conservable,” that is, in the prevailing opinion of the market. ‘he market may
+be quite wrong in its outlook. Objectively, however, that judgment can only be passed
+ex post. To give the categories objective boundaries, ex ante, we must use the predomi-
+nant forecast implicit in the market prices. That docs not prevent individuals from
+disagreeing with the market—they can couch their dissent in terms of what physical
+soil quantities are conservable and expendable, and whether they choose to buy or sell
+at market prices.
+
+The present situation is blurred by the fact that high land prices are in some (un-
+known) part the resul? of the growth of the belief that modern developments obviate
+many costly conservation practices previously believed necessary for sustained output.
+That is, modern thinking (whether or not correct) has enlarged the matrix and reduced
+the conseryable, flow, and that has increased land rents and values. ‘Thus, a lesser inter-
+est in conservation is contemporaneous with higher land values, but as cause, not effect.
+
+High land values will stimulate conservation effort if (1) they impute to the con-
+servable element of the soil; (2) they derive from expectations of the remote as well as
+the near future; and (3) they do not trap many farmers in low-equity positions that
+force liquidation.
+January, 1965] SOIL DEPLETION AND LAND RENT 543
+
+servable.”® Again, when fertilizer is cheaper, more of the soil be-
+comes replaceable, and less soil is expendable; likewise, less soil is
+conservable.
+
+The proportions also tend to change over time. There is a tendency
+for expendable virgin surpluses to be expended, and the remainder to
+approach zere, but the tendency plods far behind changes in demand
+and technology. There is always some expendable soil. Around grow-
+ing cities, soil destined for urbanization becomes largely expendable.
+And whenever falling farm prices are anticipated there is an extra
+premium on current over future output that shifts some soil to the
+expendable class.
+
+The proportions also depend on location. An erosive soil in a
+prime location might be economical to conserve because to expend
+it would be to lose the future usé of the valuable site. The same
+soil on a remote site might be expendable.
+
+Objective definition and measurement of rent in relation to soil
+fertility has been hindered by the penchant of some debaters to throw
+all soils into one of our categories. There are the soils fundamen-
+talists and Malthusians, to whom most soils are irreplaceable and
+who object to regarding much of them as permanent, or replaceable,
+or—perish the myopic thought—expendable! Then there is the pri-
+vate property fundamentalist who gives nature little credit: all honor
+to the sturdy pioneers who created Heaven and earth from primor-
+dial chaos, or at the very least wrested earth from the elements, like
+Dutch polders from the North Sea. ‘Vo this fundamentalist, soil fer-
+tility is largely man-made, hence renewable by man like the revolving
+fund of an inventory.
+
+Ricardo is often accused of fundamentalism in describing soil as
+“indestructible.” He may be more the victim of a hasty turn of phrase
+than a true extremist. Operationally, the most extreme “indestruc-
+tible” position is held by those who say the least about it, but by their
+silence implicitly assume indestructibility. These are the production
+economists who arrive at this or that optimal combination of inputs
+without heed to different rates of soil loss associated with different
+input combinations. To them we should add ‘The Explaincrs” of
+farm tenancy, who tell us how a young farmer can rent more assets
+than he can borrow, but are silent about what havoc he may wreak on
+those rented soil assets. [t is hardly necessary to add that some farm-
+ers have behaved as though all soils are expendable, to be looted and
+left languishing as quickly as possible.
+544 NATURAL RESOURCES JOURNAL [Vor 4
+
+The four categories of soil suggested here let us acknowledge the
+existence of soil elements answering to all the extreme assumptions,
+but permit us to balance out the picture and analyze the diversity of
+individual soils. Let us then look a little closer at the four categories.
+
+II
+THE MATRIX
+
+The matrix is the perdurable base of the soil. We have seen that it
+is indestructible by the neglect and abuse incident to farm operations.
+What clements does it comprehend? First is the site, or extension
+plus location relative to markets and sources of complementary in-
+puts. Access to hard-surface roads is a large clement in farm land
+values. Access to water is paramount in arid states. Next is the
+climate holding sway over that site, important for its own sake and
+also as a major soil-building agent. Then is the macro-relief; the un-
+derlying rock from which the soil is formed, or the mantle of till or
+loess where those are the source of the soil, or the complex of condi-
+tions that cause alluvium or loess to be deposited currently.
+
+Another important element of the matrix is the subsoil, especially
+as it affects drainage. “Crop production is as dependent on the subsoil
+as on the surface layer.” Below that lies the parent material with
+its balance of nutrient and perhaps toxic elements. The upper layer
+of parent material is usually under attack by soil-forming chemical
+and physical processes. Soil formation is a continuous process, with
+a moving profile cutting down continually into parent material."
+
+Below the parent material may be aquifers whose capacity to re-
+ceive, store, and release water is of great value to farm operations
+on the surface, especially in this age of cheap rural power and tur-
+bine pumps.
+
+We have mentioned that inexhaustible funds of common mineral
+nutrients are in effect perpetual flows, hence part of the perdurable
+matrix. The same may be said of layers of topsoil that are clearly
+redundant, for example some valley soils that are over thirty feet
+deep. In general, topsoil below plant root levels is trapped in un-
+
+10. H. H. Krusekopf, in Missouri 29 (Gist ed., Curators of the Univ. of Missouri
+1950).
+
+a: C. Kellogg, The Soils that Support Us 46 (Macmillan 1941). “Moderate geologic
+erosion gradually removes the leached surface layers, but it permits the formation of a
+deep soil profile whose nutrient supply is constantly replenished from the unleached
+‘parent material beneath.” H. Kohnke & A. Bertrand, Soi! Conservation 50 (McGraw-
+Hill 1959).
+January, 1965] SOIL DEPLETION AND LAND RENT 545
+
+productive cold storage. The loss of top inches lets roots penetrate
+deeper and use the idle lower layers, and so such loss hardly warrants
+much of a depletion charge until the roots approach bottom.
+
+Even then the loss is not an unmixed evil, for the deep root penetra-
+tion accelerates soil-building processes that convert subsoil to topsoil ;
+but by that time soil value would have crossed the threshold beyond
+which it pays us to take some heed of soil loss, even if we still counten-
+ance it, and redundant topsoil would properly be classed as expend-
+able surplus, and some depletion charged as it leaves us. The “thresh-
+old” is reconsidered below under the treatment of expendable surplus.
+
+The several elements of the matrix determine not only much of a
+soil’s productivity and versatility, but also its responsiveness to man-
+agement and the duration of its response to soil amendments and
+other improvements. ‘Chere is a tendency in some quarters to credit
+management with the entire net increase of output from this or that
+worthy improvement, but management only exploits potentialities
+latent in the land. The same ainendment to a poorer matrix might
+last only half the time and give only one-third the increase, so the
+better matrix must receive due credit for its contribution to the
+joint product.
+
+The matrix is probably more important than the other three soil
+categories. Were that not so we would find little use for soil maps,
+or Soil Conservation Service land-use capability tables, nor would
+we find a corn, wheat, or cotton belt. Soils are the product of mas-
+sive, prolonged, and transcendent natural forces not lightly over-
+borne, for better or worse, by man’s efforts. ‘Soils then do not
+wear out,’ wrote Charles Kellogg, “in the sense that an automobile
+wears out. They may become poorer . . . as a result of improper
+management. . . . But usually they can be brought back to a good
+state whenever men know what to do and want to do it.” ” Through-
+out history until recent times the major restorative treatment given
+to tired land has been simply to let it rest, fallow, so its natural
+regenerative powers might catch up with man’s withdrawals. On
+the other hand, Kellogg advises us that our “‘wornout” Eastern soils
+never were of much value, and that those built up by men easily
+decline, when neglected, to their original state."
+
+Next let us examine those elements of soil which it is possible, if
+
+12. Kellogg, op. cit. supra note 11, at 271. cf.Q. Lindsey, 4 Procedure for the Equitable
+Assessment of Nebraska Farm Land, Nebraska Agricultural Experiment Sta. Bull. 410
+(1950).
+
+13. Kellogg, of. cit. supra, note 11, at 263.
+546 NATURAL RESOURCES JOURNAL [Vor 4
+
+not always economical, to destroy by neglect and abuse incident to
+farm operations. We have three categories of these: the “conserv-
+able how” element, which is destructible, but whose emplaced value
+exceeds its liquidation value; the “revolving fund” clement which it ts
+economical to deplete and then replace or rencw; and the “expend-
+able surplus” which it pays to liquidate, but not to renew.
+
+IU
+‘THE CONSERVABLE FLOW
+
+The “‘conservable flow” element of virgin soil fertility is that
+which it takes some pains to keep in its original state, but is worth
+those pains because they are less than the cost of replacement and
+Jess than the present value of future income from the clement. An
+example of conservable flow would be a rather thin surface layer of
+superior exogenous soil—loess, or glacial till—underlain by an in-
+ferior country rock. In all soils, a good share of virgin soil texture—
+the friability, and capacity to receive, store, and release moisture and
+nutrients—would also ordinarily be a conservable flow element, for
+texture may be maintained at some cost in the form of outlay or
+foregone gain, or both, but will deteriorate without such sacrifices.
+Virgin humus, a component of soil texture, may be a conservable flow
+element—its distinction from the revolving fund elements is dis-
+cussed later.
+
+The concept of ‘‘conservable flow” affords an important by-prod-
+uct, which is a distinctive and objective meaning for the chameleon-
+word “conservation.” “Conservation” is effort effectively devoted
+to reduce the loss of virgin flow resources that may be, but need not
+be, deteriorated by use. The definition may be given normative con-
+tent, without loss of objectivity, by limiting it to virgin flow-resource
+endowments whose emplaced value exceeds their liquidation value,
+and which are therefore worth conserving. Liquidation of such con-
+servable flows is properly described as “irreversible” loss, not be-
+cause the soil cannot be rebuilt, but because it can never be rebuilt so
+cheaply as the cost of conserving the virgin soil.’
+
+Some readers will doubtless wonder if ‘conservation,’ so defined,
+differs significantly from the “maintenance” of old buildings and
+other man-made products, In the short run there is clearly a parallel,
+
+14. The definition might also be broadened to include retarding the depletion of
+geological funds, and made normative by defining optimal rates of depletion. In either
+case, “conservation” is given a unique application to virgin endowments, not to man-
+made resources.
+January, 1965] SOIL DEPLETION AND LAND RENT ‘ 547
+
+just as there is a short-run analogy between land rent and quasi-rent
+attaching to buildings. In the long run, however, I belicve the differ-
+ences are profound.
+
+The differences rest on the natural origin of virgin soil in contrast
+to the human origin of buildings. The word “conserve” is peculiarly
+fitted to natural gifts whose supply is.fixed beyond human control,
+which man can husband and develop, but not reproduce." The word
+is also peculiarly fitted to resources that can be kept indefinitely. Be-
+ing a natural product, soil is intrinsically able to sustain itself in per-
+petuity without human agency—that is how nature came to leave it to
+us in the first place. Conservation measures consist in merely forbear-
+ing from interfering with that natural perpetuity, or in compen-
+sating for man’s threats to it.
+
+Building maintenance, on the other hand, is ineluctably only a
+delaying action. All structures, all human products, are something
+of an affront to the elements, which gnaw at them continually so that
+they ultimately decompose.
+
+Something there is that doesn’t love a wall,
+
+That sends the frozen-ground-swell under it,
+
+And spills the upper boulders in the sun;
+
+The gaps I mean,
+
+No one has seen them made or heard them made,
+
+But at spring mending-time we find them there. [Frost, “Mending Wall.” ]
+
+Virgin soil, in contrast, is already the product of long decomposi-
+tion. It has long since reached the angle of repose, and a chemistry
+of stability to match. ‘True, parts of the soil itself are in a process
+of slow decomposition, but it is a selective sort of decomposition,
+the most refractory and terminal stages of decomposition which
+have resisted the buffeting of nature so successfully as usually to
+have reached a natural equilibrium with increments of fresh un-
+decomposed material from the matrix and atmosphere and vegeta-
+tion.
+
+Thus structures deteriorate with time, which nature uses to under-
+mine the work of man; soils deteriorate with use, whereby man un-
+dermines the work of nature. Maintenance is man’s struggle against
+time and nature; conservation is his struggle against use, and himself.
+Maintenance is also sometimes a struggle against man, for structures
+may deteriorate with usc, or abuse, as well as time. But conservation
+
+‘15. He may contrive partial substitutes for superior resource A; but he does so by
+developing other natural resources, B,C, D . . . ete.
+548 NATURAL RESOURCES JOURNAL [Vor 4
+
+is not a struggle against time. On the,contrary, time works toward
+conservation, since time lets Nature work to restore the status quo
+ante hominem, a status of no structures but of virgin soils.
+
+Probably a primary reason why many economists have been
+tempted to blur any distinctions between natural funds [like erosive
+soil] and artifacts [like buildings] is that our inherited intellectual
+equipment, the traditional fund-flow dichotomy, is too limited.
+Specifically, it is ambiguous in its classification of assets that de-
+preciate with time rather than use. Are buildings flow resources or
+fund resources? Like funds, they are finite in time; but like flows,
+they yield services as a function of time. If we have only two classes,
+fund and flow, we lump buildings and exhaustible nutrients together
+because of their similarities, ignoring their differences. The solu-
+tion is a third class, for assets that undergo time-depreciation. Let
+us call them “flowing funds,” (or ‘finite flows’).
+
+Land does not as a rule undergo time-depreciation, and does
+not fall in the class of ‘flowing funds.” The permanent elements are
+flow resources; the expendable elements are fund resources. The
+only element of land valuc that may be regarded as subject to time-
+depreciation in any widespread way is the value attributable to
+spillover benefits from nearby artifacts; but this depreciation is
+derived from that of artifacts and is not inherent in the physical
+properties of land. In most arcas it is offset by maintenance and
+replacement of the artifacts.
+
+The difference between conservation and maintenance may be ex-
+emplified by an example from among conservation practices. Con-
+sider a terrace designed and built to conserve soil. The terrace
+structure may last twenty years with maintenance, before deprecia-
+tion, otters, and obsolescence prescribe a new one. But the soil that
+the terrace has conserved is still in place, still usable, still conservable
+by a new terrace. Maintenance of structures merely postpones their
+inevitable depreciation; conservation of soil can stop depletion al-
+together, or at least reduce it to the rate of natural replacement.
+
+One practical consequence is immediately evident: conservation
+investments look much further into the future than do ordinary main-
+tenance investments. A higher outlay is warranted to conserve a
+given future income stream in perpetuity than mercly to maintain it
+for a few years.
+
+Some other distinctions are worth noting. Virgin soil being a
+natural resource, human contributions are generally sharply set apart
+from it. Structures being man-made, maintenance is a continuation of
+January, 1965] SOIL DEPLETION AND LAND RENT 549
+
+the original building process, often indistinguishable from it. Only
+parts of an old structure are literally maintained; many are replaced
+outright and the building rebuilt piece by piece, like the storied in-
+destructible axe that had lasted for fifty years with only six new heads
+and twenty handles. A building that is “conserved” for generations
+is more accurately described as a slowly revolving fund, and more
+truly likened to the revolving fund element of soil fertility, than it is
+likened to virgin soil conserved by man.
+
+Other parts of an old structure, that do endure, are often but-
+tressed, shored up, covered over, and so on, so they are replaced
+functionally if not physically. Materials fatigue and warp, rot and
+molder, crack and scttle, corrode and burn, fade and peel, so main-
+tenance grows ever costlier as time exacts its inexorable toll. Soil
+conservation, in contrast, is much the same task today that it was
+3000 years ago, or whenever man first drove his herds to graze on
+the land, and has no prospect of being terminated by demolition for
+renewal.
+
+Time also imposes obsolescence on structures, for artifacts are in
+competition with an endless outpouring of more modern ones on
+other sites, and challengers for their own sites to which they gen-
+erally become less and less appropriate as a dynamic society evolves.
+Soils, by contrast, are not generally subject to Schumpeter’s “gale
+of creative destruction” from new products. Perhaps they might be
+so subject had nature been stingier, so that man was continually
+employed in pulverizing rock with guano and raking it out on alkali
+flats to create most of his soil supplies; and insofar as soils are artifi-
+cial they do resemble other artifacts, and obsolesce, as well as depre-
+ciate, like them. But nature has supplied us with such an abundance
+of virgin soi], of such stable and conservable qualities, that for the
+most part it is more economical to conserve the old than create new,
+and obsolescence is generally a negligible factor. As to “demolition”
+of obsolete soils, it is practically unheard of. If an old soil is to be re-
+placed by new, it is almost always done by amending the old, not
+scraping it off and beginning fresh. Obsolete structures, on the other
+hand, can rarely be mingled with new ones. They are torn down and
+the ground cleared for a new start.
+
+There are man-made soils, of course, and most soils contain some
+“revolving fund” elements supplied by man. But such artificial soils
+and soil elements are generally out of balance with their natural en-
+vironment and therefore unstable. Virgin soil is largely the product
+of the local matrix and climate; these are basic determinants which
+550 NATURAL RESOURCES JOURNAL [Vou 4
+
+work ceaselessly to reduce all interloping alien elements to the like-
+ness of the virgin soil. Artificial soils, and amendments in soils, are
+therefore depreciable, like structures, with time, and of course they
+also are vulnerable to obsolescence.
+
+Virgin soil, then, is genuinely a unique resource, differing signifi-
+cantly from artifacts, even its closest substitutes. And conservation
+of virgin soils differs significantly from maintenance of artifacts,
+cnough so, surely, to warrant a separate entry in the dictionary of
+economics.
+
+Returning, now, to the meaning of “rent,” all the above bears on
+the question. The net income imputable to conservable flow elements
+of the soil, above conservation costs, is part of ground rent. Looking
+to the past, virgin soil is by origin a natural endowment, like the
+matrix. Looking to the future, the conservable flow element of virgin
+soil, while destructible, is not economical to destroy. It does have a
+liquidation value, unlike the matrix, but the liquidation value is by
+definition always less then the emplaced value. And so the consery-
+able flow has the same long life expectancy as the matrix, assuming
+an institutional environment which imposes or permits of economic
+decisions. The net rent of the conservable flow element of virgin soil
+is reduced by conservation costs; but there remains, except in mar-
+ginal cases, a surplus over conservation cost, which surplus is part of
+rent. As such it is a gift of nature, subject to all the generalizations
+economists make about rent, including its peculiar suitability for
+taxation.
+
+Some readers may object to that line of reasoning, saying that the
+conservable flow clements of soil are really human contributions:
+man has abstained from liquidating them in the past, and requires
+incentives to ensure future forbearance.
+
+That objection must fall, however, because the liquidation value
+the landholder denies himself never exceeds the emplaced value he
+chooses instead. His contribution is simply to allocate the soil to its
+most lucrative use over time. He abstains only from shedding his
+own blood.
+
+The point is quite clear when the landholder’s choice is between
+alternatives at the same point of time, or over the same period. An
+urban landholder, for example, who devotes a site to the highest
+commercial use thereby sacrifices many less remunerative alternative
+uses, but the maximurn commercial rent, al! of it, is no less the ground
+rent. For the essence of ground rent is not the excess over some
+alternative use, or opportunity cost—that is a different and, I be-
+January, 1965] SOIL DEPLETION AND LAND RENT 551
+
+lieve, undefinable’* usage of the word ‘‘rent,” which we will hence-
+forth differentiate with the name “‘transfer-rent.” he essence of
+ground rent is the excess of gross yield over the human contribution,
+that is, the non-land inputs.
+
+The conserving Jandholder’s sacrifice of quick liquidation values
+from virgin soil is the sacrifice of an uneconomical time-distribution
+of future revenues. The optimal time-distribution of future net
+revenues from the land yields a rent which is no less completely
+ground rent on account of the possibility of choosing less-than-op-
+timal time-distributions.
+
+An operational test of whether a payment for the use of matrix
+and soil is properly “rent” is whether the landholder would, in the
+long run, fail to supply the resource, or would withdraw it once sup-
+plied, if the full latent rent were charged to him as a periodic lump
+sum, a function of time uncontingent on his allocative decisions.
+Natural origin is of the essence here: the prospect of such a tax or
+charge would deter anyone from creating the tax base initially, but
+nature has already created virgin soil. Conservability is also of the
+essence: a landholder faced with the prospect of uncontingent rent
+charges would not be moved to liquidate conservable flow clements of
+the soil, since he would thereby simply lower his income, the tax be-
+ing uncontingent on conservation and therefore not declining in
+result of depletion.
+
+Such a tax would, if anything, sharpen his incentives to adopt
+optimal conservation practices. For the tax puts him in a high-lever-
+age position, analogous to that of a stockholder in a heavily bonded
+corporation. The percentage rise in his net income from making right
+decisions is much higher than when he has no fixed charges to mect.
+
+That conclusion presumes that abandonment is not a possibility.
+In practice that means that the landholder has some appreciable
+equity in the total bundle of real estate. Tenure institutions, and/or
+cyclical situations, that permit men to hold tenure with little equity,
+in soils with a high proportion of conservable flow elements, pose the
+danger of liquidation followed by abandonment to creditors, land-
+lords, or taxing agencies—let us borrow a term from the Jaw of entail
+and lump the last group as “remaindermen.” In such situations, it
+behooves the private or public remainderman to recognize that con-
+servable flow elements are destructible, and their income, for the
+duration of the situation, should not be treated like the ground rent
+
+16. Indeed, such a usage would lead to a negative rent whenever land is misallocated,
+which is often.
+$52 NATURAL RESOURCES JOURNAL [VoL. 4
+
+of the truly indestructible matrix. But it also behooves social philoso-
+phers to recognize the abnormal crisis aspect of such pathological
+situations, and not treat them as the standard norm.
+
+Abandonment situations can be minimized by intelligent social
+policy. They have ariscn historically largely in the backwash of some
+of our more extreme land booms, when over-extended debtors were
+left without equity; on lands which had been farmed exploitively and
+not much improved ; where improvements were subject to heavy taxes,
+along with the land; and in jurisdictions which winked at prolonged
+tax delinquencies and endless legal delays in foreclosure proceedings.
+This is not the place to go into public policies, other than to assert
+that effective policies are feasible to preclude anyone from reaping
+the benefits of soil liquidation without bearing the costs—the absence
+of such policies is indeed virtually the absence of law and order, As-
+suming such policies to be in effect, the income of conservable flow
+elements of virgin soil is part of ground rent. .
+
+Some readers will still object to regarding incomes from conserv-
+able flow elements as rent, on the grounds that they are rather fruits
+of the landlord’s good judgment. If the landholder gets no credit
+for forbearance, perhaps he should get credit for decision-making.
+
+Where the disclosure of outcomes is immediate, it is hard to allow
+much to a landholder for allocating land to its best use, which-re-
+quires only that he distinquish higher from lower numbers of dollars.
+But where disclosure of outcomes is deferred, as with conservation
+decisions which involve time-distribution of future costs and revenues,
+allocation involves judgment, forecasting, risk-bearing, and there-
+fore a higher input of management.
+
+Those inputs are sometimes identified as the source of rent, on
+the grounds that the land alone could yield nothing. That, however,
+is rather a primitive fallacy of the ‘omelette school.’ Rent is never a
+value that the land yields without human help, but is rather the yield
+in excess of the human input. The valuation of managerial inputs in-
+volving judgment is trickier than pricing elementary labor inputs, but
+that such imputation occurs is manifest in the salaries of hired man-
+agers; that it leaves the total product unexhausted is manifest in the
+prices paid for raw land.
+
+As to productive risk-taking, I would suggest that that is not a
+function of the landholder as such, but of the investor as such, mean-
+ing by “investor” the one who carries the financing of current output.
+He may or may not be the same individual who carries the land title,
+because deferment of liquidation is the special province and function
+January, 1965] SOIL DEPLETION AND LAND RENT $53
+
+of capital, not land. Risk-taking is economic shock-absorption. Only
+funds can absorb economic shocks. Land is largely a flow resource,
+and land as such is hired from day to day and paid a steady periodic
+hire by the risk-taker as such.
+
+IV
+THE REVOLVING FUND
+
+Now let us turn to the third element of virgin soil fertility, the
+“revolving fund.” It is that element which is not economical to con-
+serve, but is economical to replace or renew with matcrials imported
+from offsite. It is like an inventory. Examples of revolving funds are
+the scarce nutrients nitrogen, potassium, phosphorus, and calcium,
+which are removed from the site, embodied in crops and livestock,
+or leached off in the productive process, then replaced commercially.
+Another revolving fund is ground water in areas like the San Joaquin
+Valley in California, where water is pumped down, but is also re-
+chargeable by human hand. Ground water in the high plains of west
+Texas, on the other hand, is not a revolving fund resource but an
+expendable surplus, because there is no economical source of recharge.
+
+Revolving funds are largely a feature of commercial agriculture,
+in which crops are exported from their sites so that nutrients are not
+entirely replaced by the closed cycles of natural conditions, and so
+must be imported. Closed natural cycles are not “‘revolving”’ of funds,
+as the phrase is used here. Some readers might wonder if there is any
+meaningful distinction between these closed natural cycles and the
+revolving fund process. I believe there is, and it is important for the
+definition of rent because (a) the income imputable to revolving funds
+is not part of rent, and (b) the important soil element humus moves
+in a natural cycle but is largely a conservable flow resource. Let us
+elaborate.
+
+Humus is derived from surface organic matter. Minerals circulate
+from humus to crops to humus. But the circulation is vertical, that is
+on-site, as opposed to the horizontal or offsite circulation of revolv-
+ing funds.
+
+Why is that distinction important? Because the humus circulation
+is self-sustaining, like other conservable flow elements without human
+interposition, Humus differs from them in being a living process as
+much as a static structure, but it is a permanent and stable process, a
+sort of perpetual motion machine bequeathed by nature, which man
+can control, and in which man can participate without destroying.
+554 NATURAL RESOURCES JOURNAL [Vo 4
+
+It might be thought that when man intercedes in the natural cycle,
+by controlling surface culture, humus would become a revolving fund,
+as the term is used here. But it retains more of the attributes of a con-
+servable flow. The humus still feeds the crops, which are controlled
+but not nourished by man. The humus is not withdrawn and then
+replaced exogenously. It fecds the crops that then renew it, in a
+continuous integral process. Humus cannot usually be withdrawn and
+then replaced, economically: without humus, poor crops; with poor
+crops, little humus-increment. To a degree, humus reserves can be
+drawn down for later recharge. But-on the whole, the mechanism
+must be kept in continuous operation, for liquidation is not reversible
+except at a much advanced cost. Those are traits of what we have
+called the conservable flow clements of virgin soil, not the revolving
+fund.
+
+Hummus can of course be liquidated without replacement, which
+puts some of it in the “expendable surplus” category.
+
+The income imputable to revolving funds in the soil is not part of
+ground rent, but the return to an improvement to the site, quite
+analogous to a return on the capital tied up in stores of silage.
+After the initial depletion, each decision to reinvest is an indepen-
+dent one which requires its incentive and represents a sacrifice of
+human alternatives.
+
+There is an interesting point of similarity between revolving funds
+and the matrix, in respect to interest rates and tax rates. Because of
+their high time-rate of turnover, the gross return from revolving
+funds is largely amortization, net income being a small part only.
+As with all funds that turn over quickly, the supply is not very
+clastic either to interest rates, or to ad valorem general property tax
+rates, these burdens being low relative to the total amortization
+value. If, therefore, ad valorem tax assessments should be raised in
+result of soil amendments, it would be much less discouraging than
+is the ad valorem tax on structures, or timber, which pay the tax many
+times before they are amortized. In respect to property-tax-clasticity
+of supply, revolving funds arc a little like the completely inclastic
+matrix and conservable flow clements. In respect to a turnover or
+sales tax, on the other hand, they are quite elastic because of the
+frequency with which they pass through the market place. So while
+one might argue that the return to revolving funds somewhat resem-
+bles true rent in one instance, it is far removed in the second, and in
+general cannot be treated as rent.
+
+January, 1965] SOIL DEPLETION AND LAND RENT 555
+
+As to the liquidation of the initial endowment, that is of course
+amortization, not income. There ts a further value to consider, the
+appreciation of the virgin fund before liquidation, which is income
+and a form of rent. That question, however, we defer to the discus-
+sion of expendable surpluses, which we now take up.
+
+v
+THE EXPENDABLE. SURPLUS
+
+Expendable surplus elements are those whose liquidation value ex-
+ceeds their emplaced valuc, or is expected to in the foresceable fu-
+ture ;!? and which are not economical to replace when expended.
+
+Expendable surplus might seem at the farthest remove from the
+perdurable matrix. And at the core, the two concepts are indeed
+
+‘sharply different. But the line between them is not casy to draw. We
+
+have noted that some soil elements, like iron, are so abundant and
+inexhaustible as to constitute part of the permanent matrix, an in-
+finite fund being tantamount to a perpetual flow. Expendable sur-
+pluses are not infinite funds, but they are often very large ones, whose
+emplaced value is very low, per unit, and hardly perceptible.
+
+An expendable surplus is a finite fund which grows small enough,
+relative to demand, so that the emplaced value of a year’s with-
+drawals enters over the threshold of our perception. That threshold
+is inevitably an arbitrary Jine—Ict us suggest the line where emplaced
+value surpasses 3% of liquidation value. More generally, it would
+be that emplaced value which was great enough to warrant a man-
+ager’s beginning to bestir himself, or make some cultural adapta-
+tions, to decelerate the losses.
+
+Fortunately for the definition of rent, the element of arbitrariness
+in defining the threshold line has no large effect on what is rent and
+what is not. When the fund is “infinite,” the imputed return is all
+income, all rent. When the fund becomes finite, a depletion charge is
+in order, but at first that charge is very small, and the excess of
+imputed yield over depletion allowance is still rent.
+
+Some readers might object to that analysis on the grounds that the
+depletion allowance should be equal to the liquidation value, or at
+least next year’s liquidation value discounted back over just one year.
+
+17. There is an optimal rate at which to deplete, so a surplus is expended over a
+long period. Just how much will ultimately be expended is uncertain today. Fortunately,
+this element of fuzziness docs not significantly affect the division of receipts between in-
+come and depletion, as we will see.
+556 NATURAL RESOURCES JOURNAL [Vou. 4
+
+But that procedure strikes this writer as being seriously in error. For
+next year’s liquidation is not sacrificed by this year’s withdrawal from
+the finite fund; only the terminal liquidation is sacrificed, far in the
+future. If, for example, a soil has a fifty-year fund of calcium, the
+withdrawal of year onc does not sacrifice the withdrawal of year two,
+but of year fifty. The emplaced value, which equals the depletion
+charge, is the liquidation value expected in year fifty discounted back
+over fifty years to the present. That is all one can net off as depletion
+allowance. The rest is income: land-rent.
+
+If I may offer a homely analogy, the toothpaste one squeezes from
+the tube tonight docs not constitute a sacrifice of tomorrow night’s
+supply. One rather rolls up the end of the tube, which may be likened
+to the exhaustion date of the fund resource, and brings it nearer to
+the orifice, which represents the present. It is next month’s supply
+which is sacrificed, and if toothpaste tubes lasted long enough for
+compound interest to be perceptible, the depletion value would fall
+below the liquidation value.
+
+If one objected that the sum of all depletion allowances would
+then fail to exhaust the initial cost, the answer would be No, it is
+rather that the sum of liquidation values would exceed the inittal cost,
+
+’ the excess being an income, the return on the investment carried over
+time. So with geological funds: their present values fall well below
+the sum of their future liquidation values, the difference being com-
+pound interest on the present values of the quantities destined for
+withdrawal in each future year, That excess is a species of income
+that the unexhausted fund earns over time, and I believe we state it
+correctly by using a depletion allowance equal to the discounted value
+of the most remote future liquidation receipt. I also believe we are
+generally correct to identify that excess as part of land rent.”
+
+The extended implications of that simple conclusion in relation to
+mines and oil reserves should be exciting. If the conclusion is valid, oil
+depletion allowances as presently reckoned are even more of an out-
+rage than we already know them to be for other reasons, and should
+approach liquidation values only when oil reserves approach exhaus-
+tion, Oil and mines are able to bear much higher taxes, both income
+and ad valorem, than is currently believed. But we are overstepping
+the bounds of this brief paper, and will close that toothpaste tube
+until a sequel.
+
+18. Cf. E. Bohm-Bawerk, Positive ‘Vheory of Capital 335 (Libertarian Press 1959).
+January, 1965] SOIL DEPLETION AND LAND RENT 557
+
+CONCLUSION
+
+The upshot is that depletion of virgin fertility, or the possibility
+of it, does not ordinarily detract much from ground rent. Matrix
+income is all rent. So is conservable flow income, only net of conser-
+vation costs. Revolving funds supplied by man yield gross incomes
+that are not rent, but largely amortization, with a small net income
+that is not rent either, but the yield on an investment of man-made
+capital. Expendable surpluses yield liquidation values from which
+only a small depletion charge, based on remote future liquidation, is
+properly deductable, so that their liquidation yields are largely a
+species of rent income.
+
+Only when the economic exhaustion of a geologic fund is imminent
+does the depletion element loom larger than the income element. In
+this case, modifications of private and public policies that acknowl-
+edge the replacement of income by depletion are appropriate. For
+example, the gradual or partial replacement of ad valorem by sever-
+ance taxes would make sense as exhaustion approaches. But the need
+for such policies in some times and places should not blind us to the
+general prevalence of conditions where exhaustion is not imminent,
+and the returns to landholders are true rent, a form of net income.2®
+
+19. Cf. J. R. Commons, A Progressive Tax on Bare Land Value, 37 Pol. Sci. Q. 41
+(1922) ; L. C. Gray, Rent under the Assumption of Exhaustibility, 28 Q. J. Econ. 466
+(1914).
