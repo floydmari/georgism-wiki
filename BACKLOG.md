@@ -120,9 +120,49 @@ provenance — do not re-plan.]**
       research/great-smoky-mountains-casino-dividend.md rebuilt with an Access Level section;
       registry.csv rows corrected (Costello Scan Depth Deep→Medium, Akee 2010 Deep→Heavy,
       new Akee 2018 row added); wired into resource-rent-dividends-work.md and
-      rent-dividends-reduce-poverty.md. Remaining 5 needs-new-source markers (Letchworth
-      empirical data, COST self-assessment evidence, symmetry/decrement objection's best
-      academic statement, + 2 others) still open.
+      rent-dividends-reduce-poverty.md.
+- [x] [FIND] tier:T2 status:done (2026-07-18) — 3 of the "5 needs-new-source markers" this
+      note flagged were **already resolved** (Loop wave 4, 2026-07-11, "forage x8" —
+      commit ed8f40b) and this note was stale; re-verified genuinely this session (fetched
+      primaries, not memory) rather than re-foraged from scratch:
+      (1) **Letchworth empirical data** — concepts/garden-city-movement.md's "Letchworth:
+      the empirical record" section already anchors on Katie O'Sullivan, *Berkeley Planning
+      Journal* 28 (2017, peer-reviewed) + the Heritage Foundation's audited *Report &
+      Accounts 2024*; both re-fetched this session and every quoted figure verified verbatim
+      (O'Sullivan's abstract language matches exactly; the Report's £14.4m income, "65p
+      managing / 34p reinvestment," and £600k grants figures all confirmed via pdftotext
+      against the actual PDF). No further action needed — RESOLVED, not open.
+      (2) **COST/Harberger-tax self-assessment evidence** — concepts/harberger-tax.md's
+      Evidence section already had genuine field/theory sourcing (Weyl-Zhang 2022 *AEJ:EP*,
+      Gstach 2009 *Metroeconomica*, Taiwan's Equalization of Land Rights Act Art. 16, all
+      re-verified this session). ENRICHED further: Alven Lam & Steve Tsui's Lincoln
+      Institute working paper (1998) — already a Light-scanned registry row used on
+      land-value-increment-tax.md — was read in full this session (pdftotext) and yields
+      real performance data absent from the page: Taiwan's owner-self-declaration-plus-
+      purchase-right design was superseded by a government-set "publicly declared value"
+      benchmark from 1968/1977 on, and measured LVIT capture (Taipei City 1979-1993) ran
+      far below statutory rates (~32% of the assessed-value increment vs. 40-100% statutory;
+      an estimated <20-24% of true market-value gains). Registry Scan Depth Light→Heavy,
+      citations 1→2. Also logged (not cited — genuinely paywalled, no free mirror on
+      Springer/SSRN/ResearchGate/Academia.edu): Niou & Tan, "An Analysis of Dr. Sun
+      Yat-sen's Self-Assessment Scheme for Land Taxation," *Public Choice* 78(1), 1994 —
+      new registry row, flagged for the Hermes unblocked-web channel.
+      (3) **Symmetry/decrement objection's academic anchor** — objections/
+      symmetry-decrement-objection.md already carries Hagman 1977 (*Univ. Queensland Law
+      J.*, re-verified via search-indexed exact-quote match after AustLII 403'd this
+      session), the Uthwatt Report (1942), Hagman & Misczynski's *Windfalls for Wipeouts*
+      (1978, the field's canonical statement — its title literally is the objection), and
+      Alterman's cross-national durability analysis. This is already the strongest
+      available academic anchor; checked the task's Hayek *Constitution of Liberty* ch. 22
+      lead and it does not hold up — ch. 22 is "The Monetary Framework," not betterment
+      levies, so no substitution needed. No further action — RESOLVED, not open.
+      Net: BACKLOG's "5 remaining" count was wrong; 3 were already shipped. lint 0 errors
+      after registry edits; dated export sources/exports/registry-export-2026-07-18.csv
+      regenerated. The other "+2 others" referenced in the old note were not identified
+      (no matching marker found anywhere in the repo) and are presumed to be a similarly
+      stale reference — a future VERIFY-burn-down wave should re-run
+      `python3 scripts/verification_queue.py` and treat its live output as ground truth
+      over old BACKLOG prose.
 
 ### Public-domain texts program (sources/public-domain-texts.md; 12 texts/ pages live)
 - [ ] [READ&MINE] tier:T2 status:todo — NEXT TARGET: Henry George Jr., *The Life of Henry

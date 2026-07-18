@@ -1033,3 +1033,17 @@ George's 1897 footnote; land-monopoly Book VIII ch.I; rentier 1879 antecedent; R
 Fawcett series; black-death<->Clark 2007 tie. Infra: B5 ampersand key broke the public
 mirror URL — re-uploaded ampersand-free, manifest updated, live 200. Gaffney corpus now
 15 research pages + person page; remaining tier-2 queued in triage ledger. lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: WoN Book III + needs-new-source forage trio
+
+WoN Book III: ch.IV mined (ch.II found already covered — correctly skipped); land-monopoly
++ book page (first Book III section, honest open question on commerce-vs-LVT) + adam-smith
++ highland-clearances (Smith's 1776 near-contemporary account). Jeffery-J.-Smith-vs-Adam
+citation trap caught. Forage trio: all three items RESOLVED — Letchworth and symmetry/
+decrement were already shipped (wave 4, ed8f40b) but BACKLOG never flipped; both
+independently re-verified against primaries (O'Sullivan BPJ 2017 verbatim; Letchworth
+2024 accounts figures exact; Hagman/Uthwatt anchors re-confirmed; the Hayek ch.22 lead
+DEBUNKED — it's monetary policy, not betterment). COST enriched with real Taiwan
+performance data (Lam & Tsui 1998 read in full: LVIT capture ~32% of assessed vs 40-100%
+statutory, Taipei 1979-93); Niou & Tan 1994 genuinely paywalled, logged for Hermes.
+needs-new-source channel now EMPTY. 846 pages, lint 0 errors.
