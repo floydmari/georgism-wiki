@@ -1140,3 +1140,23 @@ unconfirmed for 2011 print. 5 inbound links wired (bar ≥2): iaao-standards,
 mass-appraisal-international-cases, almy-oecd, doucet-does-georgism-work (moved
 from "second-hand only" list), mass-appraisal-methods. Registry: FMA row →
 Scanned, 4 new source rows. 856 pages, lint 0 errors.
+
+## 2026-07-18 (cont.) — Wave: Gloudemans LVT feasibility papers + BC SVT rate check
+
+research/gloudemans-lvt-assessment-feasibility.md created (857th page): BOTH Lincoln
+working papers (WP00RG1 2000, WP02RG1 2002) fetched via curl+pdftotext and read in
+full. Mined: improved-only baseline CODs 5.87/5.75/8.82; combined vacant+improved
+model barely moved improved accuracy (5.97/5.55) while fixing the land/building
+split; vacant CODs 9.55-22.96 (consistent with IAAO's wider vacant tolerance, carried
+honestly); the "no or few vacant sales" headline conclusion; PLUS the 2000 paper's
+distributional caution (land-ratio shift correlates with age/size/quality, r=.63-.71,
+"less advantageous to lower-value... properties") — a counter-evidence find carried
+into land-cannot-be-assessed Limits. Provenance stated plainly: single-author,
+Lincoln-funded, "not subject to detailed review," inconsistent fellowship names
+between the papers' own citations (flagged, not reconciled), inconsistent Ada County
+sample counts, no independent replication found. Wired: land-cannot-be-assessed
+(Response 3d + Limits), fundamentals-of-mass-appraisal, mass-appraisal-methods.
+BC SVT rate backlog item: NO EDIT NEEDED — british-columbia.md already carries the
+2026 1%/3% rates with a sound gov.bc.ca cite, independently re-verified by fresh
+fetch this session (backlog note about vancouver.md carrying the figures was wrong).
+857 pages, lint 0 errors. Registry rows deferred to DST-wave commit (single-writer).
