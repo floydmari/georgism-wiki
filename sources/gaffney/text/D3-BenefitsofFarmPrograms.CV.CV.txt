@@ -1,0 +1,949 @@
+               The Benefits of Farm Programs:*
+                Incidence, Shifting, and Dissipation
+                            By MAsoN WnNEY
+                                        I
+                                  Introduction
+I WRiTE AS ONE who has spent half his career inside and half outside agri-
+cultural economics. That makes me less familiar than many agricultural
+economists with the details of farm programs, and this will be the kind of
+treatment where you cannot see the trees for the forest. What I had in
+mind when I undertook this inquiry into farm programs is that, like a man
+from Mars, I may be able to contribute something useful with an outsider's
+perspective. At the same time, as a land economist who has studied the
+southward movement of subsidized California water to irrigate subsidized
+cotton developed by subsidized research to replace eastern lands idled by
+public expenditures, I have some feel for the tensions and contradictions of
+that set of random programs, agencies, and appropriations which we laugh-
+ingly refer to as a farm policy.
+   But I do not wish to scold agriculture for outstanding iniquity. As farm
+spokesmen have always argued, other industries are worse. Restrictive
+farm programs do not yet match the production allowable prorate of major
+oil-producing states which let wells produce something like seven days
+out of each month. The numbers of farm firms have never fallen so low as
+auto-manufacturing firms. And farmers have never conspired so easily in
+restraint of trade as Main Street merchants in the typical county seat. I
+never cared for the implied philosophy that Billy may cheat because Johnny
+started it: we try to teach our children better. But I do not question that
+Johnny started it.
+   I do wish to argue that the farmer's "countervailing power" in which we
+put our faith is exercised for the benefit of a minority in agriculture; that
+inter-industry equity is a meaningless idea, and our efforts to achieve it are
+purchased at the cost of greater inequity inside agriculture, and of unac-
+ceptable social cost greater than any benefits; and that even the benefits may
+be transitory.
+                                        U
+                       The Proximate Incidence of Gains
+THE flOXThfAfl BENEFICIARY of most farm programs is the landowner
+   'A paper ddivered at the annual meetings of the American Farm Economics Maccia-
+don, Stillwater, Oklahoma, August, 1965.
+238         The American Journal of Economics and Sociology
+
+per se. Farmers who are not landowners, like the migrant harvesters who
+get down to 25 cents an hour in some places, do not gain, but suffer from
+lower demand for their srevices. Landowners who are not farmers, such
+as the matinee idols, senators, industrial executives, and country bankers
+who sink their spare change in rural real estate, benefit greatly. In the
+short run some tenants with long leases, or rthewable ones under custom-
+bound crop shares, may gain a good deal. But these tenants really have a
+species of equity in land, and it hardly rises above the dignity of a quibble
+to cite them to refute what is otherwise too obvious for serious question.1
+   Agricultural economists are becoming increasingly vocal on this subject
+which, as farm land values continue to soar in defiance of falling "farm"
+income, is increasingly apparent. The work inspired by Walter Chryst is
+outstanding.2
+   His findings really should not surprise us. The surprise is why it took
+the profession so long to catch up with David Ricardo. In analyzing the
+corn laws—the farm price supports of his day—he made the same point,
+and on the side enunciated the law of rent and founded classical economics.
+   Ricardo must be qualified, some say completely rejected. It is true that
+the increase of rent in one industry is limited because in the long run we
+can increase the land supply. But we do so only at progressively higher
+cost. That is why the low-cost lands yield rent—which, after all, is about
+what Ricardo said.
+   Others point out that, if landlords gain from higher prices, they also are
+the ones who have to withdraw a resource from production. True enough
+.—but they get paid for it. Here is where the farm landowner has it over
+the members of privately financed cartels. The oil man idles his well at his
+own expense. The farm landowner gets paid for idling land, and he has
+the choice of banking land or not, as his personal circumstances dictate. No
+wonder the other cartels complain—they should be jealous.
+   It is precisely the fact that land is selected as the input to be idled that
+makes the "f arm" programs really landowners' programs. If we idld
+labor, labor would become artificially scarce. Likewise, if we sought to re-
+strict output by limiting the input of barns, hay balers, or peach trees, we
+would make them scarce and put them in position to capture the benefits of
+    'A few programs may give quotas to tenants rather than landowners. Such a quota,
+if permanent, is a new kind of property which would stand to capture the benefits of farm
+programs.
+   2Por example, It. P. Boxlcy, Jr., and V. L. Gibson, Jr., Peanut Acreage Allotment
+and Farm Land Values, Va. A.E.S., T.B. 175, 1964; F. a Maler, J. L Hedrick and V. I..
+Gibson, Jr., The Sale Value of Flue-cured Tobacco Allotments, Va. A.ES., T.B. 14S
+1960; J. L. Hedrick, "The Effects of the Price-support Program for Peanuts on the Sale
+Value of Farms," Journal of Farm Economics, Vol. 44(5), December, 1962.
+                       Benefits of Farm Programs                        239
+
+price supports and technical progress. If we idled some of all inputs in
+farm industry, we might properly call it a "farm program." But we single
+out one input, land. One result, as everyone knows, has been to weaken
+production control so much that one is tempted to wonder if that ever
+was the prime objective. The greater effect has been to change the relative
+bargaining power of different inputs inside agriculture vis-â-vis one another
+and shift the terms of trade to favor land.
+   As among landowners, the programs also have a systematic bias in favor
+of larger ones. Larger landowners can spare marginal acres easier than
+smaller ones. Their factor-mix is already lean on labor and machines rela-
+tive to land—we usually perceive that as lower costs per aEre. Smaller
+farmers, below optimum acreage, are by definition in the stage of increasing
+returns to land, with marginal value greater than average. Those programs
+that cut back everyone by a fixed per cent of his land are therefore harder
+on smaller landowners whose marginal acres mean more to them.
+   The bias is only slightly offset by exempting minuscule farms from cut-
+backs in some commodity programs: these are charity cases. There may be
+a greater offset in basing quotas on histories of production rather than
+owned acres, because smaller landowners have tended, more than large
+ones, to push their land to its capacity and grow intensive crops where they
+could. But negating that is the fact that larger landowners tend to hold
+the best land, of which a larger share would under an opHmal program have
+historically been devoted to supported products.
+   The commodities enjoying strongest support are on the whole land-using:
+cash grain, wheat, rice, and cotton are prime examples. The littler fellows
+who feed the grain to fatten hogs and cattle are not quite so well treatçd,
+nor are those who grow their own. The argument that they are protected by
+limiting feed grains hardly bears examination, and the quixotic behavior of
+the National Farmers Organization would suggest a membership frustrated
+to the point of irrationality.
+   The pinch of land-idling on the interfactor terms of trade is accentuated
+today when various pressures to substitute capital for labor have tended to
+increase the optimum landholding. At a time when pressure to expand has
+not yet worked itself out by consolidation and cannibalization of weaker
+farms, most farms are in the stage of increasing returns to land, with the
+marginal value of land greater than the average. In that context, programs
+that cut back on land put on it an even greater premium than under static
+conditions.
+   Now at the same time we are thus manipulating factor proportions and
+terms of interfactor bargaining, another set of farm programs seem calu-
+                                                                                    I
+240        The American Journd of Economics and Sociology
+
+lated to inure to the benefit of farm landowners in another way. These are
+programs of public works that bring to land water, or cheap power, or flood
+control, or improved access, or what have you. Here I am using "farm pro-
+gram" broadly—these are not operations of the Commodity Credit Corpo-
+ration. They are, however, very much a part of the total bundle for agri-
+culture secured in the political process—the Great American system of
+public works for private profit. They are sponsored by organized farm
+groups, and it is this larger picture with which this paper is concerned.
+   Let us, without pretending to comprehensiveness, remind ourselves of
+the richness and variety of these programs by enumerating several.
+  The federal reclamation program is most often cited. In one way it
+represents the genus poorly, because of the so-called "anti-speculation"
+provisions which purport, with varying success, to ration the conversion of
+public investment into private land values to a maximum 320 acres per
+family. But small, medium, or large, it is still obviously a program to in-
+crease land value and may reasonably be taken as the prototype of public
+works programs. Other water supply agencies, notably the Army Engi-
+neers, make no bones at all about their work enhancing private farm land
+value for the benefit of a few.
+   In multipurpose projects, by whatever agency, farm landowners usually
+receive benefits of price discrimination, getting power or water at much
+lower rates than city consumers. In federal redamation projects, which do
+ask farms to help repay some costs, the irrigation component gets interest-
+free money.
+   But while reclamation is the most conspicuous of the expansive genus of
+"farm programs," it is not, I think, the most pervasive. That distinction
+belongs to the way we handle the layout and financing of distributive net-
+works generally—that is, our utility and transportation lines.
+  Most distributive networks consist of a rich, densely peopled center
+grading off toward the fringes into marginal territory that barely repays the
+cost of service, and submarginal territory that is carried by the surplus.
+yielding center: perhaps promotionally, looking to a better future, but
+often unwillingly by force of state law. It is almost universal practice that
+charges throughout this network are either uniform—the postage-stamp
+pricing principle—or insufficiently differentiated to reflect differential costs.
+The charges may be rates, with private utilities or carriers, or taxes, with
+public roads.
+  The proximate beneficiaries of submarginal extensions are dearly those
+whose lands they serve. The benefit is not universally diffused, but local-
+ized within the ring served by submarginal extensions. To enjoy the
+                        Benefits of Farm Programs                         241
+
+benefit, one must locate where it is to be had, and of course pay the price in
+rent or land value.
+  We can all supply examples—the only problem is where to stop. Local
+rural roads are everywhere costlier than farmers would or could pay for
+themselves, and state financing means tapping the urban tax base for rural
+works. Small feeder airlines serving rural areas require and get heavy
+subsidies. Sparsely populated western states have many more miles per
+capita of federally financed highways than do urban eastern states, reflecting
+what the Indiana senator, Albert Beveridge, once styled "the free coinage
+of western senators." The Rural Electrification Administration funnels
+cheap credit to distribute farm power. Rural Free Delivery carries the mails
+to whereever a farmer may choose to locate. Western irrigation districts
+carry water up hills and over dales without surcharge at the end of the line.
+And so on.
+   Common carriers' freight rate structures generally discriminate against
+high-value cargo, to give lower rates to bulk cargo, and farm landowners
+gain preference from that because farm products generally fall in the bulky
+low-rate classes.
+   Then there are the ACP programs which help the farm landowner build
+up the value of his property: establishing cover, liming, controlling erosion
+by tillage, strip cropping, and contouring. There are water conservation
+works—some doubling as farm swimming pools—built with the help of
+the Soil Conservation Service and other agencies.
+   We also try to spread credit around rural areas at lower interest rates than
+would obtain in the absence of the Federal Land Bank, the Production
+Credit Administration, the Farm Home Administration, etc. Short and
+intermediate credit, used for production, tends to increase the annual value
+of land. Long-term credit, used to buy land itself, tends to lower capitaliza-
+tion rates and increase the land value derived from any level or annual
+values. There was once some thought that rural credit programs might
+work to offset the bias, in private lending, of credit rationing based on
+lateral security. But I believe that is now regarded as a visionary scheme
+unworthy of hardheaded bankers, and credit agencies tend to prefer credit-
+worthy borrowers, much as other lenders always have. So the net effect has
+been to increase land value by lowering the structure of interest rates avail-
+able to landowners.
+   Some would place Agricultural Experiment Station research on top of
+any list of farm programs. Research might seem to be an objective activity,
+pushing back frontiers of knowledge, but is it? When did you last heat
+anyone frame a research project to help labor get by with less land? Are
+242       The American Journal of Economics and Sociology
+
+we not rather oriented to the landowner, who wants to "cut cost" by using
+less labor? If we ever teach labor to cut costs by dispensing with land, it
+is incidental to teaching landowners to raise yields per acre. Landowners
+are the effective dient group to whom the AES's staff address themselves.
+                                                                                 &s
+   I will not labor the income tax advantages of farms—expensing of capi-
+tal investments in 'conservation," taking capital gains on sales of breeding
+stock, disguising consumption expenditures as business costs, and preferen-
+Si laxity of enforcement—because others also receive tax concessions, and
+I am not at all sure farmers do as well as oil men or suburban real estate
+speculators. But it is interesting how the tax cards are stacked for the
+larger landowners. The breeders, whose ranches on the average not only
+outspread but outvalue other farm firms, and whose taxable income is
+largely land rent, get capital gains. The feeders pay on ordinary income.
+   Last, we should mention agriculture's peculiar institution, the bracero. I
+can imagine clever arguments delaying our recognition that primarily land-
+owners benefit from some other programs, but who would ever have the
+effrontery to tell us that cheap contract Mexican labor was imported for any
+purpose but to increase the economic rent of farm land at the expense of
+labor's share? Exemption of native farm labor from minimum wage laws
+and social security would seem to have a like purpose and outcome.
+   Having taken all the above steps to raise land value, we cap the perfor-
+mance by paying the landowner for the privilege of holding idle some of
+his bad we have enhanced, so we may pay him more for the produce of his
+other lands and lower the bargaining power of his labor and other hired
+inputs. It is little wonder, then, that some people feel the "farm" pro-
+grams are not that at all, but landowners' programs.
+
+                                     Ill
+                           The Shifting of Benefits
+WE CANNOT BEGIN to rest, however, with the simple onclusion above.
+Piecemeal analysis of each program shows the systematic bias for land-
+owners, but beware the fallacy of composition. Critics of the landowner-
+conspiracy approach have long pointed out that new lands opened up by
+public works, etc., compete with old lands for customers and men and
+supplies. Higher yields from landowner-oriented research tend to flood
+markets and lower prices.
+   The obvious power of landowners over individual decisions may lead us
+to overestimate their aggregate power and lead them to their own undoing.
+Landowners are organized well, but not perfectly. They dispute the
+division of the spoils, and eath state has two senators wherewith to claim its
+                                                              -
+         -.   -         -         -                                               r
+
+
+
+
+                        Benefits of Farm Programs                         243
+
+share. The logrolling process therefore becomes the basic mechanism for
+allocating quotas and other benefits among the senators' clients.
+   Logrolling is a process whereby we generally get more river and harbor
+improvements then we need. Is it not to be expected, by analogy, that
+interstate rivalry for production rights would lead us to grant more than a
+monolithic and calculating monopolist would allow? It is the nature of
+the political process to give away more than there is. It is the nature of
+cartels to stimulate excess capacity. Here we have a mixture of both.
+   Some analysts have alleged that lower costs of production will be passed
+on to consumers, but that is bad economics. Prices are determined by
+supply and demand. If landowners could control aggregate supply they
+could capture and keep all the benefits of lower production costs. Whether
+benefits are shifted depends on what happens to aggregate supply.
+  In a very few programs supply is effectively controlled. Tobacco is the
+outstanding case. Just why tobacco programs are so much tighter than
+others I am not sure, but I suggest several plausible reasons. There are no
+farm consumers of the raw material to apply counterpressures, as with feed
+grains. Demand is exceptionally inelastic, there being no near substitutes.
+Production control is not a novel idea but goes back to the seventeenth
+century. And the public tolerates control on sumptuary grounds much as it
+would opium control (except opium is not carcinogenic).
+   Most other programs suffer from serious leakage. Not being an active
+farm economist, and never having been a policy man, I observe these from
+the sidelines, but if my examples are unbalanced or obsolete, I'm sure the
+farm economists can improve on them.
+   Marketing orders applied to fruit, for example, generally limit output
+by proration from existing groves. But there is no effective restraint on
+the entry of new groves, except that they, too, are required to create a capac-
+ity to produce more than they are allowed to produce, inflating costs all
+around. Taking California as the national problem in microcosm, state
+and federal subsidies are abetting the entry of new groves by bringing
+generous new water supplies to lands with soils and thermal conditions
+that fit them for horticulture.
+  Voluntary land-retirement programs, like soil bank and emergency feed
+grain, do nothing to prevent new acres being plowed up to replace the
+banked ones, sometimes by the same man, sometimes in different regions.
+The wheat boom in southeastern Colorado, for example, has uncovered a
+million acres or so of grassland to replace less erosive land idled elsewhere.
+Some acreage control programs are intermittent. Cotton is one. During
+wars and other periods of release, new regions hasten to expand their
+                                                                                C
+244       The American Journal of Economics and Sociology
+
+plantings to establish histories of production as a basis for future quotas—
+how else has California dealt itself into the cartel?
+   Some programs are limited to so-called "commercial" counties, where
+production is centered. The predictable result is the spread of the con-
+trolled and supported crop to noncommercial counties. Some crops, like
+wheat, grow better in noncommercial counties anyway and the eastward
+backlash of wheat has done much to help burst controls on that crop.
+  Some programs let "non-compliance pmducers" sell whatever they will
+without subsidy.
+   Some programs reap a whirlwind of substitution. The corn program is
+the most extreme case in point. It seems that the American hog and steer
+are quite omnivorous and thrive on small grains too. So the corn program
+has become the feed-grain program, but the net has yet to be cast wide
+enough to stop the principle that scarcity breeds substitution. The animals
+also like silage, sorghums, soybeans, concentrates, hay, pasture, and who
+knows what else? One can only hope that the easterly movement of wheat
+and the westerly movement of feed grains may stop short of complete
+reversal of regional specialization based on comparative advantage.
+   It also seems the American consumer is willing to substitute cheap white
+meat for dear red meat within some limits, and feed-conversion ratios in
+all livestock enterprises are subject to remarkable improvement under the
+pressure of dear feed. It's no great trick, after all, to dop off a few
+marginal months before slaughter, and that is only one of many ways to
+cut down on the beasts' board bills. Consumers also take synthetic fibers,
+worry about lung cancer, and heaven knows where this weight-reduction
+fad may lead.
+  Substitution can also work for feed grains. When we limit a "milkshed"
+by marketing order, we run into what Arthur C. Bunce called the "second-
+ary elasticity of production." Producers, that is, can import feed from
+outside the millcshed. That is like importing land.
+   In fine, farm commodity groups face the dassical problem of all cartels,
+the price-umbrella syndrome. Organized owners of superior resources cut
+back output to maintain price, and, under this "umbrella," outsiders expand
+output and find loopholes to invade the sheltered market. The cartel a-
+pands to control the interlopers and new ones appear, until a final dissolu-
+tion which leaves a legacy of excess capacity, much of it irreversible. Eco-
+nomic history is littered with the corpses of cartels thus destroyed by their
+own machinations.
+   The farm commodity cartels are rather more vulnerable to overexpansion
+because their board of directors is the Congress of the United States, which
+
+
+
+
+                                                                                I
+                                                                                  .
+
+
+
+
+                        Benefits of Farm Programs                        245
+
+includes the voices of fifty major and countless minor jurisdictions, plus the
+increasingly restive consumers. So, politically, the stage is set for a-
+pansion. Economically, there is hardly a state within which several com-
+modities cannot be produced at support prices. The long-run supply
+elasticity of farm products is high, within the relevant range. Let us enum-
+erate several reasons why.
+   A. There is ample marginal land to bring in, wherever politics allows it.
+In a few cases, like tobacco, land as such has almost ceased to be a meaning-
+ful constraint on output—only the right to use it has value. In some con-
+texts we may properly speak of land as £xed in supply—in tax matters, the
+supply in one taxing jurisdiction is fixed. But in commodity matters, land
+is versatile. Since "farm" programs are specific commodity programs, all
+land used for other commodities may be transferred over. In the Tulare
+Basin counties, for example, there are countless thousands of acres in
+alfalfa and pasture, using four or five feet of water per year, just panting
+for the signal to shift over to cotton. In the nation there are millions of
+acres of crop land in pasture.
+   In the aggregate, the supply of farm land is of course less elastic, but yet
+quite responsive in the long run to high prices and advancing knowledge
+and technique. The quiet resurrection of the dust bowl through adaptation
+of culture and species to local conditions is one of the monuments of our
+times. The conversion of badly drained hardpan Putnam soils of central
+Missouri to first-class crop land required mainly better traction and cheaper
+lime and nitrogen. Alkali "wasteland" around Raisin City, California, is
+now growing cotton and grapes, thanks to gypsum and lower water tables.
+Deep-well turbine pumps and cheap rural power have reopened many desert
+lands to settlement. In all states, expansion and improvement of the state
+and local networks of rural roads and utilities has brought immense new
+land supplies into contact with the market.
+  B. Political-economic power attaches to many marginal lands. The
+owners have the muscle to claim that combination of public works and
+production rights that rations out shares in the American way of life. The
+Free Coinage of Western Senators is only one example—its effect on the
+westward movement of farm production is not hard to trace.
+  Some marginal lands, especially hard scrabble hill lands, attract the
+politically inert. Other lands, presently submarginal but potentially supe-
+rior, gravitate to very different kinds of owners. These lands fall to
+"strong hands," to those who can afford to pay a present price for a remote
+future chance of great gain, and who know how to bring political pressure
+to assure the gains. The west side of the San Joaquin Valley and the
+246         The American Journal of Economics and Sociology
+
+Mississippi Delta are in point. The strong hands provide political leader-
+ship and money. Many weaker hands provide votes. Together they keep                        a
+bringing new lands into production.
+    C. "Marginal" land often produces high yields per acre. "Marginal"
+land evokes the image of low yields, frequent drought and crop failure,
+and the like, and to be sure that is one side of it. But land may be mar-                      H
+
+ginal due to high costs rather than low yields. It may be separated from
+its market by high transportation costs. It may require heavy capital out-
+lays for water supply or drainage. It may need heavy doses of labor or
+fertilizer, or heavy farm investment in trees, stock, or buildings. And then
+it may outyield superior lands by many fold, even though its net rent after
+costs is dose to nothing.
+    The marginality of lands should not be described or measured in terms
+of yields, nor yet in terms alone of net rents per acre. To foresee the effects
+of price changes we need to know the ratio of non-land costs to gross
+revenues. The difference of those two is net rent; their ratio is an inipor-
+tant supplemental datum which I will christen the "intensity quotient"
+ (i.q.). Marginal land of high i.q. answers to what some writers have de-
+scribed as land of "high capacity and low efficiency." My excuse for new
+terminology is expository—emphasizing the ratio helps bring out important
+leverage effects.
+  The net rent of land of high i.q. is highly leveraged. If i.q. = .95, a
+5 per cent rise of price means a 100 per cent rise of net rent. If i.q. = 1.05,
+the land is submarginal but crosses the threshold of use when price rises,
+or cost falls, by more than 5 per cent.3 And when such land enters the
+game, it throws on the market outputs that answer not to its low net rent but
+to its high gross yields. It is the vehide, if you will, by which large num-
+bers of non-land inputs enter the market on a minimum base of raw land
+value.
+  Speaking broadly, these auxiliary non-land inputs include public ones as
+well as private. Often, as we have seen, public inputs are financed from
+outside the benefitted area and may then be applied even when benefits
+are well below costs. By this means, not just marginal but submarginal
+raw land crosses the threshold and comes on production.
+  The high leverage on the rent of these marginal lands of high i.q. tends
+to make their owners political activists. They have a great deal more to
+gain and lose by higher and lower prices than the well-cushioned owners
+of superior lands of low i.q. Like Avis, they try harder—harder for quotas
+     Bunce makes this point using his tests of "efficiency," "capacity," and "elasticity
+of production." A. C Bunce, Economics of Soil Conservation, p. 38.
+
+                                                                                                   k
+                       Benefits of Farm Programs                         247
+
+and public works. They have everything to gain by getting the outside
+public to assume some small percentage of their costs. And they are
+dogged interlopers, hard to wall out of any sheltered market for long.
+  The type of these marginal lands of high i.q. are irrigated lands in the
+arid states. They are far from market, they require artificial water supply
+and, in some farm enterprises, absorb large inputs of labor and private
+capital per acre. They could flood the Chicago and New York markets
+with potatoes and apples and vegetables and other western specialties with-
+out beginning to return to their owners a net rent at all commensurate with
+their share of the market. Most of the value is added along the way by
+non-land inputs and non-farm inputs.
+   Some of these irrigable lands, to be sure, rise to very high acre values.
+But let us not be deceived into taking that as an index to their net value
+to the economy. Part and often all of the private values represent heavy
+elements of subsidy, including a transcontinental freight rate structure that
+carries potatoes from Kern County, California, to New York City for only
+150 per cent more than the rate from Aroostook County, Maine. Many
+lands now busily supplying large shares of the market and yielding rents
+to their owners are, in an over-all social accounting, well below the margin.
+  The arid states are the type, but not the whole genus by any means.
+There are also marginal lands in the East and Midwest and South. Land
+may be remote not just because it is at the end of continental transportation
+lines; it may be beyond the local networks. And within the farm it may
+be remote from the center of storage and operations. Or it may require
+unusually heavy inputs for draining or fertilizing or stabilizing. The loose
+economy of land which has characterized our entire national experience
+has left a latent reserve of by-passed acres in all regions. Much of this
+marginal land is "high i.q.," with high gross yields per acre.
+   In analyzing aggregate national and world supply, the farm-to-market
+transportation input should certainly be counted heavily as a non-land (or
+non-farm land) input that leverages the net rents of lands at the end of long
+hauls. It may be just an accident of geography, but yet a fact, that our
+greatest national reservoir of good soils fans out west of the Ozarks along
+the tier of prairie states, speciously central yet increasingly remote from
+major populations on the two coasts. These are high-yielding lands, too,
+and a small percentage price rise can convert many of them to feed grains,
+with overwhelming results. Perhaps we should describe much of this as
+transfer of land from pasture to plow, rather than extension of the margin,
+but the effect on output is much the same whatever we call it.
+   Here we should note the differential importance of price stability to the
+
+
+
+
+                                                                                ii
+248        The American Journal of Economics and Sociology
+
+usability of high i.q. lands. The higher the leverage on net rent, the
+greater is the value of price stability to a landowner, because the greater
+is the percentage reduction in variation of his net income. One aim of
+price support programs is, of course, stability. To the extent they succeed,
+they do more for high i.q. land than low. If we include transportation
+among our non-land inputs, we find high leverage lands farther from
+markets. Since the area of a circle increases with the square of its radius,
+and since the great mid-continental Golconda of prairie soils is far from
+markets, price stability acts strongly to bring on new lands of high gross
+yields.
+   I). There is also great supply elasticity from superior lands, through
+elevation of their i.q.'s. This is, indeed, the most commonly cited cause
+for the impotence of acreage restriction as a supply control. We pour
+more non-land inputs onto limited acres and discover, to the evident sur-
+prise of many, that the curves of marginal product and marginal cost run
+parallel and horizontal over a long range so that a slight rise of price or
+drop of costs can lead to great intensification. Lands which Conrad Ham-
+mar thought had "high efficiency but low capacity" now, it seems, also have
+high capacity (as he had originally suspected when he and Muntzell first
+wrote of their surprisingly low man-land ati' The latent capacity
+simply was not fully used.
+   Here, again, our concept of i.q. provides an easy explanation. Suppose
+—and this is realistic—a farmer has a choice between two different inten-
+sities of land use, A and B. A yields slightly less net rent per acre, but at
+a low i.q. of .50. Shifting to B means higher net rent, but at the cost of a
+much higher i.q. of .85. He might very well prefer A. High i.q.'s are
+uncomfortable and risky: a slight fall of price and one is wiped out; a
+strike or labor shortage can be disastrous; bad weather is murder. Or the
+farmer may have taken too seriously the bad advice of certain public ser-
+vants who advise us to maximize benefit-cost ratios on public works—that
+being comparable to minimizing the i.q. The low i.q. enterprise—barley
+or onions, for example—yields much less than the high, but it yields a safe,
+steady return each year, without acute management problems and with
+plenty of slack to cover mistakes and contingencies.
+   Now suppose we support prices 15 per cent above their former level.
+The .85 i.q. enterprise now nets twice as much as formerly, the .50 i.q.
+    'C. Hanmar and J. H. Munazell, "Intensity of Land Use and the Resettlement Prob-
+1cm in Missouri," Journal of Farm Economics, Vol. 17, pp. 409—22 (1935). C. Hsmmar,
+"Intensity and Land Rent," Journal of Farm Economics, Vol. 20, pp. 776—91 (1938).
+I have long been sorry that 1-lammar, in the 1938 article, persuaded himself that the
+factor disproportions disclosed in 1935 were rationalizable. I suspect they betrayed
+seriom economic imbalances.
+                        Benefits of Farm Programs                          249
+
+enterprise only 1.30 times as much. That tends to overcome the land-
+owner's natural aversion to risk and worry and entice him to lay out more
+for non-land inputs. Leverage! How little we have appreciated its latent
+power to multiply yields. Give the farmer a place to stand, and he can
+lift the world.
+   A recent Iowa study of corn yields5 condudes that Iowa alone could
+supply the nation's output of feed grain, if only all farmers improved
+their practices to the standard currently observed by the most advanced
+managers. It is not likely the other states will soon give her the chance
+to prove it; but it gives a notion what giants in the earth we stir when we
+pry open the gap between prices and costs.
+    E. Submarginality of land needs to be conceived over time. Some lands
+yield a nice rent surplus for a few years until some limitational input, like
+ground water, gives out.
+   Now we have established a fairly definite policy of public rescue of such
+areas—their residents do vote, after all, and they also benefit from a pecu-
+liar combination of public admiration for the self-reliant frontiersman and
+pity for the welfare case.
+  That encourages settlement of such lands in anticipation of public
+rescue. As the ground water drops, the legislative wheels grind out canals
+and dams and whatever else it takes to save this "established" area from
+natural disaster. By this process, many lands otherwise submarginal can
+enter production, even before the public works are built on which they
+depend.
+   F. Finally, there is the aversion of the American people to philosophical
+consistency. We may praise it as "pluralism" or damn it as "indecision,"
+but what we do with the right hand we often undo with the left. So if we
+are not quite sure we are doing right to idle land, we support a host of
+counter programs to reclaim new land, and gloss over the contradiction
+with talk of "reserves for future crises" and "interregional equity"—
+euphemisms for excess capacity and senatorial logrolling.
+  Added to that, we have the inertia of existing expansive programs. The
+juggernaut in motion is nearly irresistible. If it meets a few immovable
+objects, it detours them and chugs massively on. The agencies and their
+dient groups are not much concerned with their aggregate supply impact.
+They want their share of the melon in any event. With the innocence of
+babes they tote up benefit-cost ratios based on support prices, and zero-
+interest costs, to justify probing deeper and deeper below the economic
+    5Wm. Shrader and N. Landgren, "Land Use Implications of Agricultural ProducSn
+ Potentals," in L. Fischer (ed.), Shif is in Land Use, Nebraska A.E.S., 1964.
+250        The American Journal of Economics and Sociology
+
+margin of cultivation. The higher we hold price, the greater pressure we
+put behind the movements for developing new lands.
+   Sometimes we hear that new lands do not compete with old but produce
+different crops. That is of course promotional drivel. All foods compete
+for the same shelf space and stomach space and budget dollars. If new
+lands do not compete directly in corn or wheat, they do indirectly by releas-
+ing older lands transferable to corn or wheat.
+  In sum, the supply of farm land in the long run may be regarded as
+quite elastic to price, and the supply of farm products even more so through
+substitution of non-land for land inputs, or intensification. It may be,
+then, that the complex of farm programs is playing the same kind of
+ironic twist on landowners as the Homestead Act and its associated sub-
+sidies to hasten rail penetration of the heartland. The rails, you recall,
+each worked to raise land values near the routes but in the aggregate
+brought in so much land as virtually to destroy its unit value by the 1880's
+and 1890's, bringing on Populism and Bryan. Is that what the omens now
+portend?
+University of Wisconsin-Milwaukee
+
+                                    (Continued)
+
+
+                           Plea of the Newborn
+THE YOUTH, of course, is an innovator by the fact of his birth. There he
+stands, newly born on the planet, a universal beggar, with all the reason of
+things, one would say, on his side. In his first consideration to feed,
+clothe, and warm himself, he is met by warnings on every hand that this
+thing and that thing have owners, and that he must go elsewhere. Then
+he says, "If I am born into the earth, where is my part? Have the good-
+ness, gentlemen of this world, to show me my wood-lot, where I may fell
+my woods, my field where I may plant my corn, my pleasant ground where
+to build my cabin."
+   "Touch any wood, or field, or house-lot, on your peril," cry all the gen-
+tlemen of the world. "But you may come and work in ours and we shall
+give you a piece of bread." [From the essay, "Man, the Conservative."]
+                                                  RALPH WALDO EMERSON
+              The Benefits of Farm Programs, II
+                 Incidence, Shifting, and Dissipation
+                              By MasoN GAFFNEY
+
+                                        Iv
+                         The Dissipation of Net Benefits
+  A. The Short Run
+  If landowners are ruining themselves by too much success, that is not
+yet apparent in the value of farm land, which keeps rising in the face of
+falling farm income. How do we account for this perverse behavior?
+It is a complex phenomenon of many causes. The analysts' problem is
+to get some feel for their relative weight.
+  In part it is a matter of lag and recovery. From 1940 to 1950 land
+values lagged farm income; now they are making it up. But in 1940
+we had great excess capacity in land, a fact which goes far to explain the
+lag of land values in the forties. A return to the low income-value ratio
+of 1940 is not necessarily a return to a stable or desirable norm. Let us
+table this point for later reappraisal.
+   In some areas landowners' share of the product may be rising. Farm
+wage rates, which multiplied in the forties, seem to have dropped in the
+fifties as wartime demands for common labor gave way to the modern
+emphasis on training and skill. Tenants have been displaced, where cus-
+tomary cop shares gave them too much of the pie, by managers and ma-
+chines. Farm expansion pressures in many areas have let land claim a
+marginal value greater than its average net value. Cheaper fertilizer and
+insecticide and herbicide have cut costs. "Conservation" measures once
+thought essential are being abandoned for cheaper alternatives—for er
+ample, cop rotation for continuous corn and fertilizer. If we onsider
+how much we have to pay to get farmers to put a few million acres in retire-
+ment programs, and extrapolate the implied annual value àf land to all
+American farm land, we get an annual value equal to the entire "farm"
+income.
+   Even on such fragmentary evidence it is hard to avoid conceding con-
+siderable weight to the thesis of a rising landowner's share. Since farm
+prices have not been rising, the implication seems to be that lower costs
+have been captured by landowners in higher net rents.
+   * A paper delivered at the annual meetings of the American Farm Economics Minds-
+don, StiHwater, Oklahoma, 1965.
+'   418       The American Journal of Economics and Sociology
+
+       Of course, urban expansion is also boosting land values over many areas.
+    In 1958 1 estimated the area of urban price influence at 100 million acres.
+    It was a safe guess, because it is not a statement subject to precise evalua-
+    tion. What is "urJan price influence," anyway? Farms near town have
+    always been worth more, and "part-time" farmers, both poor and rich,
+    have always drifted back and forth, from commuting to farming, of the dirt
+    or gentleman variety. In this broader sense, 200 or 300 million acres
+    might have been the better figure then, and certainly would be now after
+    another eight years of sprawL
+      We are all familiar with the explosion of recreation demand. This, too,
+    is largely a kind of urban demand: most upper-dass suburbs, indeed,
+    evolved from snnmer resorts. Today, recreation demand in the extended
+    sense dominates some entire states, notably Vermont and New Hampshire;
+    and in all states its force is felt, sometimes over areas as large as Vermont or
+    New Hampshire. It is often the salvation of regions whose net income
+    from farm products would not sustain land values.
+      We should not think of residential-recreational values as spurious "non-
+    farm" influences. They are subject to different cycles than crop income
+    and bear separate analysis on that account. But they represent real eco-
+    nomic values, phychic and implicit though they may be. Improved urban-
+    rural access has genuinely added to the production power of rural land to
+    answer real human wants, of a kind that full-time farmers have always
+    appreciated.
+      In addition to conversion to urban use, and partial conversion of full-time
+    to part-time and recreational farms, there is an important set of indirect
+    effects of urban eicpansion on farm land values. Urban expansion sends
+    out shock waves of land-use conversion that travel through the entire hier-
+    archy of farm enterprises as each beginsto invade lands in the next less
+    intensive use. This effect is most observable in California, with its great
+    variety of enterprise and its steep gradient of intensities. As subdividers
+    pull orchards to Sake way for metropolitan Los Angeles and SAn Francisco,
+    the orchardists push out, carrying with theni a new higher intensity and
+    standard of land values. They sprinkle themselves about here and there
+    in a kind of low-density horticultural sprawl, inflating land values over
+    wider areas than could ever find markets if all were actually in producing
+    groves. The trees drive out vines or vegetables. These replace dairies or
+     cotton, which in turn press on barley, and so clear to the lowliest wilderness
+     use—where they meet the wrath of the Sierra Club.
+       The whole process is calculated to add to farm land values—and perhaps
+                      Jienejtts of Farm Programs, 11                       419
+
+ultimately to farm output. The second, we will see, i5 deferred. The first
+is immediate.
+ Mineral rights is another cause for high farm values. In all areas where
+mineral rights have not yet been reserved from surface rights, the prospect
+of future lease payments and royalties may dominate values. William
+Scofield, who does such an excellent job of reporting on farm real estate
+values, would be hard pressed, I think, with his limited staff, to untie the
+bundle of rights in the Williston Basin, or Oklahoma, or Morrow County,
+Ohio, or Kern County, California, and report only on price changes based
+on farm influences alone. The stepped-up search for oil in the United
+States is no small matter. Oil royalties and leases and bonuses paid to
+passive landowners run $2 to $3 billions yearly, and the hope of cutting
+in on the bonanza certainly boosts farm values in areas of good mineral
+prospects, possibly out of all proportion to the sober probabilities of success.
+  So we are not at a loss for, reasons to explain the paradox of rising farm
+real estate values and falling farm income. But there is another and more
+important reason.
+    Many farm programs, of public works and production research, rnhttnce
+the capacity of land to yield income. Land values respond to that higher
+capacity immediately; actual production comes along much more slowly. A
+handful of alert innovators seize on new possibilities and convert their land
+ to the new uses. In the process they often buy land, at values reflecting in
+ part the income from higher use. Since only 2 to 3 per cent of farms, and
+ a smaller percentage of land, turnover each year, these few-purchases by
+ aggressive innovators loom large in the sales figures which we then blow
+ up to estimate the aggregate value of all land.
+     We need to distinguish carefully a rise in the unit value of land of con-
+ stant quality, and arise in aggregate values brought on by qualifying land
+ for higher use. Consider the analogy of urban expansion. We often read
+ that urban land values are rising, but that has not been generally true for
+ some years. Rather, they are spreading out. Rural land appr&iates when
+ it becomes convertible to urban use. But older urban land is more homo-
+ geneous and a truer indicator of the trend of urban land values per se. It
+ has been falling in many areas.
+     So when new water supply qualifies dry range land for citrus and olives,
+  it is not the unit value of homogeneous land that rises. Rather, the pre-
+  mium value of irrigated land has been spread thinner, to the potential dis-
+  comfiture of owners of older irrigated land.. Older producing areas would
+ give a truer index to the trend of land values of homogeneous quality—if
+  we exclude those that have, in turn, been, invaded by the city.
+    420       The American Journal 0/ Economics and Sociology
+                                                                                    I
+                                                                                    51
+
+                                                                                    I
+       Few conversions of farm land use are as neat and easily defined as the
+    conversion to irrigation. There are many margins and many degrees of
+    intensity, over1appingand intermingled. But the general principle is the
+    same. Conversion ol land to higher use, enabled by new public works,
+    or new techniques, is not the same as a rise in the value of homogeneous
+    land. Conversion increases the aggregate effective supply.
+       The distinction would be less crucial if the new capabilities of land were
+    quickly exploited. Then the new supply would lower prices, older lands'
+    value would suffer, and aggregate land values would accurately reflect land
+     income. But in practice the supersession of land uses is a matter of gen-
+     erations, as Ray Teele, David Weeks and Charles West, Roy Huffman, and
+    other water economists have abundantly demonstrated. In the transition,
+     land has a value based on expectation of higher use but markets no products
+     commensurate with the value. Since this is land of high i.q., as a rule, it
+     must ultimately market products more than commensurate with its value
+     to warrant the value. Just who will buy those products, and at what prices,
+    is a problem we defer. Meantime, we expand the area of land whose
+    value is premised on intensive use. We increase values of those lands
+    without paying the penalty of higher output and lower price.
+      That is, I think, the prime factor in today's land price paradox. It is
+    not in competition with other explanations, but helps tie them together.
+    The lag of land values behind farm income in the 1940's reflected the
+    preexistent excess capacity in land, brought on by premature public works
+4   and production research in the twenties and thirties, and we are now return-
+    ing to a comparable condition. Urban price influence affects an area many
+    times greater than is actually converted to urban use, or ever could be
+    without deflating values to nothing. The larger share of landowners in
+    farm income reflects cost reductions that have not yet brought in enough
+t   new land to shift the benefits forward in lower prices. In the short run,
+    the buildup of new areas even absorbs as inputs some of the output of older
+    areas—breeding stock, seed, or feed, for example. And investment of
+    non-farm inputs in areas requiring heavy public works adds to local de-
+    mands for food and diverts local labor from farming.
+      Thus, if retribution is to come, it is deferred. Meantime, the gratifica-
+    tions of the system are immediate. Higher land values are enjoyed all
+    around. The mere fact that owners do not take quick advantage of them
+    does not mean they do not appreciate them. The individual can always
+    sell, or mortgage, and most of us like to have options that we can exercise
+    at our leisure.
+       A system of instant pleasure and deferred pain lends itself nicely to the
+                      Benefits of Farm Programs, 1!                      421
+
+demands of the American political process. Short-run electoral survival
+is paramount; long-run problems may fall on one's successors, Little won-
+der, then, that we have had so much trouble avoiding contradictions in our
+farm policy.
+
+  B. The Long Run
+  In the long run it seems inevitable that the euphoria induced by the long
+lag of supply response should give way before the weight of massive new
+capacity.
+   In the short run, implicit rent is a lax taskmaster. In a period of rising
+land values it is especially so because the annual increment to value is a
+species of income from land which helps cover carrying costs. Even with
+steady land values, implicit rent merely represents an opportunity, a carrot
+without a stick. It is an option open primarily to those who need it least,
+those affluent enough to own land, and who are least likely to exercise the
+option to its utmost.
+   But over time more of the implicit rent becomes explicit. Fixed charges
+build up. Land changes hands at high values and is mortgaged. Property
+taxes and land assessments respond to the higher base. And of course
+each year a few more owners jump at the carrot, regardless of the stick.
+The demonstration effect of progressive innovators is contagious. Older
+capital depreciates and its replacement affords the occasion to intensify.
+Older farmers retire. The collateral of high land values lures more capital
+into agriculture. High cHng prices for land make intensification an ever
+more attractive alternative to land expansion. And social prestige shifts
+from the old to the new way of life, and the latest equipment becomes a
+status symbol.
+   The result could be a dramatic price collapse, one which would be wor-
+sened by liquidation of farm capital and a panic rush to cash in on fugitive
+opportunities. But we have forestalled much of that by our program of
+price supports. If they cannot hold prices forever in the face of surpluses,
+they can at least preside over an orderly retreat to ever lower percentages of
+parity. Thus farm landowners never have to take the full force of the
+debacle of the cycle of overexpansion in one blow—their world can not end
+with a bang but with a whimper.
+   The trouble with that policy is that supply curves are irreversible. New
+techniques discovered and disseminated under the stimulus of high price
+are not forgotten when prices drop. New regions are not abandoned, new
+roads not, rolled back up, new dams not unbuilt, new quotas and congres-
+sional districts not relinquished. Slow as positive supply response may be,
+                                                                                1:
+
+
+
+
+422       The American Journal of Economics and Sociology
+
+negative response• to lower prices is much slower and in some conditions
+even perverse. So wben we ride down the supply curve by lowering sup-
+port prices, it is not the same curve we rode up, but much steeper.' The             4
+
+new equilibrium price is lower than what we would have obtained had we
+never supported prices. That is the landowners' deferred retribution.
+   The process has some of the marks of a boom and bust cycle like that of
+irrigation from i918—40. But modern farm policy has made it more of a
+continuous process. Suffering and retribution do not always bring educa-
+tion and understanding. No lights flash or bells ring to announce the
+period of retribution and penance. No one resolves to foreswear support-
+ing prices above market. On the contrary, the new free market price at
+the bottom of the steep downwards supply curve generates acute vertigo
+and a firm resolve to avoid the perils of full competition.
+  So, in our "orderly retreat" from insupportable prices, we drop them a
+peg or two but continue to support them above a free market equilibrium,
+which falls progressively lower by virtue of the fact that we are holding
+prices above it. A pretty dilemma, indeed! We fear to unbottle the
+productive genies we have awakened by price supports; but the same high
+prices which we fear they would undercut keep awakening more genies
+than we can control.
+  The result is surpluses and excess capacity—at or below price levels that
+would have prevailed had there been no farm programs. And we con-
+tinue to add to the irreversible excess capadty; not as fast as we would at
+100 per cent of parity, but faster than we would at the new equilibrium
+price.
+  The greatest beneficiaries are the owners of marginal land of high i.q.
+brought into the market by this or that subsidy. The losers include the
+owners of superior land who ultimately have to share what might have been
+their market with 'others whose share of political power exceeded their
+share of natural land value. Consumers may ultimately benefit by lower
+prices, although that depends on the fate of production controls and diver-
+sion programs, and if consumers do finally gain they will have earned it.
+Taxpayers are big losers, and we all, lose as balked consumers of the
+various useful goods and services that might be produced with the non-
+land input poured into needless public works and development of high
+i.q. land. (The argument that these inputs would be wasted anyway
+ hardly warrants a reply.) Recreationists are losers as agriculture invades
+'and redaims more and more wild land it never needed.
+   The distribution of gain and loss is less important than the fact that the
+                      Benefits of Farm Programs, II                      423
+
+aggregate loss exceeds the gain by a wide margin. The ultimate end to-
+wrd which the programs are drifting is dissipation of the benefits in sheer
+waste. The waste consists basically in locking up the latent productive
+power it superior land, duplicating it at great private and social cost on the
+desert, in the swamps, and in the baCkWOOdS, and then locking up part of
+the duplicate land as well. We deny ourselves full advantage of our landed
+heritage and even of the capital we substitute for it. We produce at real
+human cost what nature wants to yield freely above our efforts.
+  Location and regional specialization are badly distorted. Land bat
+suited for corn is diverted to hay or small grain, while corn invades the
+wheatlands and wheat tears the cover off erosive grasslands. Land near
+cities goes into low uses while remote land goes into horticulture magnify-
+ing the transportation bill and the farm-market spread. We spread thin
+the economic rent that would under an economic regimen focus on better
+soils and location. We can hardly blame the trucks and railroads then if
+they take a larger slice of the food budget
+   Public enterprise is magnified at the expense of private. The system is a
+combination of artificial scarcity and artificial abundance of land. Within
+the given framework of social overhead capital and infrastructure we create
+an artificial scarcity by idling land and taxing private capital needed to
+fructify it. Concurrently we create an artificial abundance of land by sub-
+sidizing tax-free public works, transport-utility extensiOns, and jroduthon
+research. The net result is replacement of competitive private by public
+enterprise and semi-public regulated monopoly enterprise. We can hardly
+wonder, then, if taxes rise and if large corporations and bureaus dominate
+more of economic life.
+  Jnswn,weareleftwithheavycostsandfewbenefits. Ashighasfarm
+real estate values have soared, they still hardly represent more than a capi-
+talization at the going rate of the annual budget of the U.S. Department of
+Agriculture, not to mention some $2 billion charged to "foreign aid" that
+really belongs in the agriculture budget, plus public works charged to the
+Department of the Interior, and to the Army, and other billions in the other
+pràgrains mentioned earlier. The benefits are dissipated in the terrible
+contradictions of the programs.
+   In coming to this unhappy state, land plays the role of the Lorelei. The
+siren song that leads the sailors on the shoals is the lure of unearned incre-
+ment. Land is ideally cast for the Lorelei role. It is immobile between
+congressional districts and so captures net benefits to districts brought home
+by the congressmen. That makes it the coin for paying off political re-
+                                                                                I
+424        The American Journal of Economics and Sociology
+
+tainers. It is the ideal medium for promising more than can be delivered,
+because the lag is so long before most landowners capitalize on new op-
+portunities.
+  And so our surplus problem traces back to the implicit national policy of
+high land values for everyone. To straighten out our farm economy we
+need some fundamental reappraisal of the prevailing system of artificial
+scarcity to enhance some land values and public works to enhance others.
+University of Visconsin—M ii wake,
+
+                 Vital Need for Forest Co,snvation
+AT CANADA'S National Forestry Conference in 1966, some forecasts were
+reported by it. It Fowler, president of the Canadian Pulp nd Paper Asso-
+ciation who was chairman of the plenary session. The demand for pulp
+and paper 34 years hence is expected to be 5½ times that of today; require-
+ments of hardwood are expected to nearly double by 1975; the dnnnnd for
+softwood lumber and plywood is expected to grow by nearly 50 per cent
+by 1975 and to double the 1975 figure by 2000. "We can say," the chair-
+man commented, "that a major effort. is going to be needed to obtain these
+possible levels of demAnd. When welook to2000 AD. it is quite dear
+that with present methods and arrangements we will not have enough wood
+to meet the estimated demands."
+   That is the industrial aspect, but we must not forget that the forest has
+other uses and virtues. Visitors find the appearance of the woods enchant-
+big, and every tree, taken singly, is beautiful. These visitors are consumers
+of goods and services. Their expenditures benefit merchants, farmers, la-
+bourers, hotels, and many others. The new money they bring into the
+country is an important factor in our balance of international payments.
+   The tree that is felled and floated or trucked away to the sawmill or
+pulp mill becomes the raw material of another existence, takes on a new
+life. A dead tree put to use becomes something lively and profitable. But
+it must be replaced by a living, growing, tree.
+   The forests are renewable. Nature will see to this if not interfered with.
+But they can be despoiled or killed, not to be renewed in mortal time. If
+we interfere with Nature's way in the forests then we must use our talent
+to maintain them.
+   Good citizenship calls upon every citizen to require and support an
+enduring forestry program, and to accept his own personal responsibility
+for forest conservation. [From the Royal Bank of Canada Monthly Letter.]
+

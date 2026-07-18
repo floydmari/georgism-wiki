@@ -1,0 +1,731 @@
+The AMERICAN JOURNAL of
+ECONOMICS and SOCIOLOGY
+   Published QUARTERLY under grant from the Robert Schalkenbach
+    Foundation in the interest of constructive synthesis in the social sciences.
+
+
+VOLUME 20                    OCTOBER, 1961                           NUMBER 5
+
+          The Unwieldy Time-Dimension of Space
+                             By MASON GAFFNEY
+
+"Cotning events cast their shadows before."—TsioMAs CAMPBELL
+ABSTRACT: This paper introduces the concept of "time-indivisibility,"
+and suggests that it may interfere with optimal allocation of durable
+resources, and especially permanent resources. Space on the earth's stir-
+face is taken as a representative permanent resource. The limitations of
+leasing and lending as time-dividers are briefly sketched. A simple tech-
+nique is advanced for analyzing on an annual basis the effects of time-
+indivisibility, and it is demonstrated that permanent goods do not tend
+to be allocated in keeping with the equimarginal ideal. The technique
+is further developed to analyze the effects on allocation of depreciation
+and appreciation, the latter tending to aggravate and the former to
+meliorate the diseconomies inherent in time-indivisibility.
+                                         I
+                                Time-indivisibility
+IT IS A BASIC MAXIM of economic theory, and rather plain common sense
+as well, that indivisibility of resources tends to interfere with their ideal
+allocation. If Q is inseparable from P. those wanting Q alone must
+settle for less of it, and more of P, than they would most prefer; and vice
+versa. Accordingly, economists have tended to frown on rigid attachments
+such as tie-in sales, appurtenances, all-or-nothing deals, full-line forcing,
+bundles of rights, exclusive patronage contracts, and other artificial limita-
+tions on free choice and the free flow of individual resources to their most
+productive uses.
+   This paper concerns a particular aspect of indivisibility: time-indivisibil-
+ity. By "time-indivisibility" the writer means a tieing of the present to
+466        The American Journal (if Economks and Sociology
+the future such that he who would use a durable good cannot easily buy
+its services from week to week or year to year as he needs them, the way
+he buys his labor and raw materials, but must buy in one piece a claim
+to its services over its full span of years.
+   Time-indivisibility affects the allocation of durable goods in the measure
+of their durability. It hardly affects how the market allocates goods that
+endure only, say, two or three years. Its influence over durable goods
+like buildings is more perceptible. It most affects the allocation of perma-
+nent goods, of which the most evident example is space on the earth's
+surface, or land, which in this study we will let represent the whole genus
+of permanent goods, of which it constitutes a major part. He who buys
+title to land can divide it down to a very small piece in two dimensions,
+and dispense if he will with the third, both aerial and subterranean. But
+the fourth dimension runs from now to doomsday. That is longer than
+he is likely to need it, and costs more money, certainly, than many hard-
+pressed entrepreneurs can conveniently raise at one time.
+   To put it in conventional symbolic terms, the buyer of title to durable
+goods must pay not just for the immediate annual income, a, but for that
+plus a stream of future incomes (which he discounts at a rate 1):
+                      a1    a2
+                      1+1 (1+i) +...+ (i+i)
+                                        a11
+                   a0+—+                                                (1)
+When he buys impermanent products, the anticipated annual incomes
+decline with time and in a few years the series ends. But when he buys
+land, the incomes are not in general expected to decline, and the series is
+infinite. Where n equals inlinity and a and i are constant in perpetuity,
+the series may be simplified, as is well known, to the form:
+                                      a
+                                  a+-,
+                                    1
+                                                                        (2)
+the latter term being much the larger, and generally much larger than a
+corresponding expression for a declining and finite series. This extended
+time-dimension constitutes a costly appurtenance to the current services of
+land.
+   Let us see how time-indivisibility might interfere with optimal allocation
+of permanent resources. Moving a step closer to reality, what one buys, of
+course, is not a specified guaranteed annual income, a, but the use of land,
+call it U, a potentiality from which the user may take various incomes de-
+pending on how he uses it, and how external circumstances develop. Dif-
+ferent persons attach different values to U, depending in general on how
+productive they would make the land. In a perfect market, U would tend
+                   Unwieldy Time-Dimension of Space                      467
+
+to gravitate to holdings in which its marginal productivity would be a
+maximum.
+ Now time-indivisibility would constitute no problem if the highest bidder
+for U could also bid the most, or even the same amount as others, for the
+subsequent terms. But this is not in general the fact. Even assuming for
+brevity's sake that all individuals' valuations of U remain constant in per-
+petuity, there is another element, i, which varies among persons—a crucial
+postulate, which will be defended—and affects what they are willing to pay
+for land titles. Formally i represents the rate of interest at which the indi-
+vidual discounts future values. More generally it may be taken, again for
+brevity's sake, to subsume the individual's inclination to speculate and his
+financial power to indulge it. It is this ability to carry interest burdens, as
+much as the ability to make land productive, that determines who will bid
+highest for land titles.
+   Suppose, for example, the marginal productivity of certain lands would
+be $20 a year in the enterprise of individual A, and twice that, $40 a year,
+in the enterprise of individual B, both in perpetuity. But suppose A has
+funds of his own to invest, whose best alternative yield he reckons at 2 per
+ cent, while B can borrow only at 6 per cent. B, then, can bid no higher
+than $40 plus !, or $707. B could not meet the top bid of A, which is
+$20 plus!, or $1020.
+   This is not to deny that B could realize an income from year to year on
+his investment, a higher income than A could realize. And when his
+need terminated, if we wish to assume that it would, he could sell the title
+probably undepreciated, and often as not appreciated, in the same markets
+open to A, perhaps to A himself. But this in no way disposes of the prob-
+lem of time-indivisibility. For the problem is not that B would have to
+throw money away on a "tie-in" that is entirely worthless to him. The
+problem is rather that he would have to carry the burden of interest on
+this investment over each year he held the title. And this he is less
+well equipped than A to do, for exactly the same reason that he cannot meet
+A's price for :—B must reckon a higher interest rate.
+  Operationally this is probably the most convenient way to pose the prob-
+lem, one which we will pursue from here on. The individual's annual mar-
+ginal cost of holding land is interest on the price of the title. As different
+
+
+
+
+                                                                                  j
+individuals have access to funds at different rates of interest, the marginal
+cost of holding the same lands varies from person to person (and, of course,
+468           The American Journal of Economics and Sociology
+
+from firm to firm). As each individual tends to equate marginal cost with
+marginal productivity on his own holdings, the marginal productivity of
+land comes to vary from holding to holding, contrary to the equimarginal
+ideal. Time indivisibility deters many land-hungry individuals from buy-
+ing at all. Others take some land, but less than if they could buy it a
+month or a year at a time. Because they cannot divide it temporally, they
+divide it spatially, lopping off much needed acres to fit their lands to the
+Procrustean beds of their finances. On the other hand, financially power-
+ful individuals and firms may extend their holdings without much concern
+over productivity, current or future. These are the land-surfeited, holding
+too much to let them earn a very good income from each unit.1
+   Here, then, is a matter of some practical consequence. It is a problem
+with which many economists have grappled when investigating markets for
+land. Here, too, is a matter of important theoretical implications. But
+thus far the investigators have had to proceed without benefit of the sharper
+focus which theory might afford. To be sure several economists, working
+from particulars of the land markets toward generalizations of theory, have
+advanced promising suggestions. But little of their work has found its
+way into that accumulating body of thought which the profession passes on
+as 'the" basic principles of economics. This paper suggests that time-in-
+divisibility might warrant such consideration. And it advances a simple
+technique for integrating it into the structure of economic theory.
+                                 II
+            Leasing and Lending: Imperfect Time-dividers
+THE CRITICAL READER may already have wondered whether our economy
+does not already provide adequate time-dividing facilities in the institutions
+of leasing and lending. Both, without question, are means for dividing up
+the time-dimension of durable goods, and theorists who maintain, with Ely
+and Wehrwein, that "Rent acts as the 'sorter' and 'arranger' of land uses"3
+doubtless do so on the assumption that the time problem can be so disposed
+    1 An important corollary problem is obviously that persons like B must, in order to
+finance that much of U that they do take, sink more of their limited funds than they
+would most prefer into claims to remote future values. This, of course, cuts into alter-
+native investments they might make in, say, machinery and equipment. And persons like
+A sink less of their funds into claims to remote future values than they would most prefer.
+In the present brief paper we will not pursue this corollary problem.
+    2 Some of these are the following: Philip Cornick, "Land Prices in a Commodity Price
+System," Journal of Land and Public Utility Economics 10 (1934), pp. 217—31; Clyde R.
+Chambers, "Farm Land Income and Farm Land Value," American Economic Review 14
+ (1924), pp. 673—98; and David Weeks, "A Suggested Approach to the Farm Land Valua-
+tion Problem," Berkeley, n.d. (typewritten ms. in the Giannini Library, Berkeley, Califor-
+nia).
+        R. '1'. Ely and G. S. Wehrwein, Land Economics, New York, Macmillan, 1940, p.
+139.
+                    Unwieldy Time-Dimension of Space                           469
+
+of. It will be well to digress for a bit, therefore, to outline the reasons why
+leasing and lending appear to be so imperfect and to entail costs so heavy
+that the pressure of economic loss from time-indivisibility must mount high
+before individuals can find any net advantage in relieving it by resort to
+either.
+   From a remote enough vantage, leasing and lending seem to promise
+complete solutions. By leasing land, a user can buy its services a year or
+less at a time, leaving to some absentee landlord the burden of financing
+title. Or, by recourse to lending institutions, a land user can borrow the
+wherewithal to finance title himself. Those who take leasing as a perfect
+substitute for owner-operation may then write of land gravitating to the
+individual in whose care it yields (and who will, therefore, pay) the
+highest rent. Others who put their faith in lending may mention the "nor-
+mal rate" or "the going rate of return" on investments, which by implica-
+tion any investor can get at will and at which any would-be land user can
+borrow.
+  To inspect leasing and lending at all closely, however, is to see that both
+are very imperfect arrangements. They are by no means entirely unwork-
+able, and one must interpret "time-indivisibility" not as an absolute but as
+short for "imperfect time-divisibility." But each involves costs so high
+that the market must tolerate considerable deviation from ideal equimar-
+gina! allocation of land among different owner-operated, self-financed hold-
+ings, before resorting to either. That is, affluent A may extend his lands
+until their marginal productivity becomes a good deal lower than it is on
+the narrow holding of impecunious B without its becoming feasible for A
+either to lease land to B, or lend him the money to buy it.
+   Consider leasing. Sentimental preference for ownership over tenancy
+seems to be the rule, and as all economic value originates in human prefer-
+ence, this one is not to be despised. But the more tangible drawbacks are
+more serious. Leasing, as compared with owner-operation, intrudes into
+management an operationally superfluous human relationship, involving
+extra costs that detract from the net produce of the land, and discords and
+conflicts of interest that tend to preclude full development. The mere cost
+of collecting rent, for example, often consumes an appreciable part of it,
+especially where rent is low. Where collection difficulties warrant it, land-
+lords often resort to sharecropping, or some urban equivalent, arrange-
+ments destructive of much incentive. More important, short-term lessees
+have no interest in the future of the assets they work and manage, and will
+    J. G. Sutherland and C. E. Bishop, Increasing Production and Incomes, N.C.A.E.S.
+Tech. Bul. No. 117, 1955, p. 6; Theodore Morgan, Introduction to Economics, 2d ed.,
+Englewood Cliffs, N. J., Prentice-Hall, 19 6, p. 356.
+470          The American Journal of Economics and Sociology
+
+hardly give them an owner's care. They cannot rationally attach long-term
+improvements to land they may lose at any lease-end, nor can they sacrifice
+any present values to conserve future values either in the soil or in improve-
+ments the landlord provides. They cannot plan ahead, but only from lease
+to lease, although efficient land use requires long-range planning. In all
+their plans they must build in flexibility, at some cost, for the contingency
+of eviction. All this is well enough established, especially among students
+of land tenure, that we need not dwell on it.
+   To obviate part of these extra costs, landlords sometimes grant long-term
+leases, but not as a general rule. There appear to be compelling reasons for
+this. Should economic rent rise above contract rent, the landlord would
+receive none of the increase; while should it fall below, the tenant might
+very likely fail to pay. Too, the landlord who abdicates his power to evict
+cannot protect himself against tenant practices exploitive of the soil or of the
+landlord's improvements; nor is he free to seize the opportunity to sell at
+the most opportune moment.6 For these and for other reasons, long-term
+leases are rare, and short ones, with all their disadvantages, the general rule.
+   Leasing, therefore, is a poor substitute for landownership. As a time-
+divider it leaves much to be desired. Most of the telling points of those
+who advocate tenancy as a social norm seem to be variations on the theme
+that it is a time-divider.7 But other than that, there is little to commend it.
+There are good reasons why land users strongly prefer to couple occupa-
+tion with ownership.
+   Next, consider lending. This lacks the major drawbacks of leasing and,
+like leasing, contributes something toward solving the problem of time-
+indivisibility. It might go far toward solving it satisfactorily were the
+     For example, see the following Interregional Land Tenure Research Committee,
+Agricultural Land Tenure Research, Chicago, Farm Foundation, 1955, pp. 11—14. J. A.
+Baker, "Tenure Status and Land Use Patterns in the Corn Belt," Bureau of Agricultural
+Economics Land Economics Report No. 5, 1939 (mimeographed) Hoyle Southern, "Land
+Tenure and Soil Conservation," in H. Hoffsomer, ed., The Social and Economic Significance
+of Land Tenure in the Southwestern States, pp. 200—24, Chapel Hill, University of North
+Carolina Press, 1950, pp. 216—7; Peter Nelson, "Land Tenure and Agricultural Conserva-
+tion, Current Farm Economics, Vol. 2, No. 2, Stillwater, Oklahoma Agricultural Experi-
+ment Station, April, 1938; Rainer Schikele, et al., Economic Phases of Erosion Control in
+Northern Iowa and Southern Minnesota, Iowa Agricultural Experiment Station Bulletin
+No. 333, June, 1935.
+    8 A persistent tendency grossly to overestimate the possibilities of future resale at ad-
+vanced prices has been noted by the British Uthwatt Committee. (Expert Committee on
+Compensation and Betterment, Final Report, [The Uthwart Reporti, [Csnd. 6386],
+ (1942) paragraphs 23, 24. Cited in G. L. S. Shackle, Expectations in Economics, Cam-
+bridge, the University Press, 1949, pp. 91—3.) The authors write of the "floating value"
+of land in and around urban areas, which they estimate in the aggregate to exceed by many
+times the values that the city can support.
+      The most widely cited example seems to be T. W. Schultz, "Capital Rationing, Un-
+certainty, and Farm-Tenancy Reform," Journal of Political Economy, 48 (1940), pp.
+309—24.
+                    Unwieldy Time-Dimension of Space                          471
+
+money markets able to establish one universal market interest rate, that
+"going rate of return" of ancient legend, at which all lenders might lend
+and any borrower freely borrow any sum for any term. But, of course, the
+markets achieve no such thing. The economic worlds of borrowers and
+lenders remain well insulated by the high cost of transferring funds.
+Keynes called the barrier "lenders' risk," and he incorporated the concept
+most explicitly in his theories as a floor under interest rates.8 Hart and others
+have added "credit rationing" as a barrier to lending; and, from the bor-
+rowers' side, "linkage of risks" and the need to maintain "financial re-
+spectability" as deterrents to borrowing.° If these barriers affect the ag-
+gregates, how much more so the components.
+  Like resistors in an electrical circuit, these "lending costs," if one may
+lump them in that phrase, repel part of the flow. And the funds that do
+trickle through the resistance lose much of their "charge," their economic
+potential. Between affluent A, who deposits surplus funds in the bank for
+2 per cent, and impecunious B, who borrows from it at 6 per cent, there re-
+mains a wide barrier. B, borrowing limited amounts at high rates on short
+terms without guarantee of renewal, and only for specified conservative
+projects approved by the banker and the several regulating, insuring, and
+endorsing agencies who peer over the banker's shoulder, does not by bor-
+rowing acquire the full financial potential of A. When it comes to bid-
+ding for land titles, A and B live, although they may be neighbors, in two
+different economies.
+   Further, among B and C, D, E, and F, each of whom borrows at a dif-
+ferent interest rate in different amounts for different periods and under dif-
+ferent limitations, there is a series of barriers. And between them and
+those many others who cannot borrow at all on any terms, the insulation is
+impenetrable.
+   Were differences in interest rates and other conditions of loans based
+solely on lenders' well-founded judgments of the relative probabilities of
+individual borrowers' producing from loan-financed land the incomes they
+anticipate, there would still be reasons for denying that lending adequately
+solved the problem of time-indivisibility. But there is no need to pursue
+the implications of conditions contrary to fact. The conventional basis of
+lending is set forth clearly by Schikele:
+   The principle of allocation is collateral security, not marginal productiv-
+ity. . - . These two principles tend to work at cross purposes: with increas-
+   8J. M. Keynes, The General Theory of Emj,loyment, Interest, and Money, New York,
+Harcourt, Brace, 1936, pp. 144, 208.
+     £ G. Hart, Money, Debt, and Economic Activity, New York, Prentice-Hall, 1948,
+pp. 202—3.
+472          The American Journal of Economics and Sociology
+
+ing collateral security, the marginal productivity of capital tends to decline,
+and vice versa. Instead of allocating capital to where it is scarce, our credit
+system allocates it to places where it is ample.'°
+Liquid assets do not seem to lap along the horizontal contour of an isopro-
+ductivity shoreline, enveloping headlands and promontories, penetrating
+bays and inlets, seeking a universal level in the impartial way envisaged in
+some of the more hydraulic passages of economic literature. Liquid assets
+often flow uphill; they tend to gravitate towards established nuclei. Not
+only does the market not allocate funds in the most economical way, but it
+allocates them in an especially pernicious way, such as to aggravate and,
+perhaps more than any other factor, to initiate and perpetuate the concen-
+tration of economic power.1'
+   Lenders do not, of course, completely ignore marginal productivity. If
+they did the economic machine might not carry us through the month. But
+certainly they do not accord it the steady primacy that would be necessary
+to let economists take comfort in the thought that lenders effectively deter-
+mine who can afford to take and hold title to much of our land.
+                                  III
+                How Time-indivisibility Affects Allocation
+IT IS OF SOME THEORETICAL INTEREST and practical consequence, therefore,
+to set out precisely the factors that determine the allocation of space and
+other durable goods among different holdings in a world, such as ours,
+where interest rates vary widely among individuals, and leasing so dulls the
+edge of husbandry as not to become a feasible alternative to owner-opera-
+tion until the marginal productivities of land on different owner-operated
+holdings have come to diverge widely.
+   To begin simply, suppose that land prices are expected to remain con-
+stant; that leasing is too costly to consider at all; that there are no taxes of
+any kind; and that the costs of transferring land are negligible. Then
+each individual will extend his landholdings until the last unit just yields
+him his interest rate—that is, until its annual marginal product divided by
+its price equals his interest rate. Algebraically, let R be the revenue prod-
+uct, L the unit of land, P the price per unit of land, and i the individual's
+rate. Then each individual expands his holdings until:
+
+
+                                                                                            (3)
+    10 Rainer Schikele, "Farm Tenure Under the Strain of War," Journal of Farm Econom-
+ics, 25 (Proceedings) (1943), pp. 235—44, p. 240.
+    1i This does not necessarily imply that it is possible or desirable to abolish collateral re-
+quirements. Policy proposals, of which credit reform is only one of many, are beyond
+the scope of this paper.
+                   Unwieldy Time-Dimension of Space                     473
+
+For the annual marginal cost of holding land is its price times the in-
+dividual's interest rate (P1); and the individual expands his use of this,
+as of all resources, until its marginal revenue product equals its marginal
+cost:
+                                 dR =
+
+
+                                             ,
+                                        Pi                             (3a)
+                                             dR
+Figure 1 illustrates the point. MRP, or           represents the annual mar-
+
+
+
+
+                                   LAND
+
+                              Figure 1
+Marginal revenue productivity of land added to fixed complements; and
+        annual marginal cost of land, at 2 per cent and 6 per cent
+ginal revenue product of land added to a fixed complement of men and
+capital. The horizontal broken curves represent the annual cost per unit
+(P1) at 2 per cent and 6 per cent. Messrs. 2 Per Cent and 6 Per Cent pay
+the same price for title to each unit of land but very different prices for
+the annual use of land, due to the difference of their interest rates. Mr.
+2 Per Cent, therefore, will combine a good deal of land with each unit
+of labor and equipment, lavishing it down to low marginal returns. Mr. 6
+Per Cent will economize on land much more stringently, adding it only
+until the last unit yields him $6 for each $100 of land price.
+   Figure 1 has wider bearing than its simplifying and limiting assump-
+tions might suggest. In practice Mr. 2 Per Cent's marginal revenue pro-
+ductivity curve will not look just like Mr. 6 Per Cent's. But of course the
+point is that no matter what the entire curves look like, the marginal re-
+turns to land will differ on their two holdings. Again, of course, neither
+ 474        The' American lournal of Economics and Sociology
+
+ is limited to a fixed complement of men and equipment, but either man
+ can increase them to delay the advent of decreasing returns to additional
+ land. But whatever complement of men and equipment an individual
+ finally musters, he will ultimately encounter some kind of diminishing
+ returns, and he will then increase his landholdings until the last unit
+ just yields him his interest rate. And a third elementary point: the know-
+ ing marginalist need hardly be reminded that Mr. 2 Per Cent tends to
+ spread complementary labor and equipment equally thin over his entire
+ holdings. He tends to work each unit of his lands, and not just, the last
+ acquired, in such a way that its marginal productivity is $2 per $100.
+   Some important results follow immediately. Current doctrine evidently
+ misses the mark. The rent of land, or, if you prefer, its marginal pro-
+ ductivity, does not "sort and arrange" the pattern of land use. This is
+ not to say that it should not. Economists of past and present have
+ demonstrated convincingly that would be ideal. But it does not. Many
+ different land economies exist side by side. One extreme is prodigal of
+ land as of culls from a local mill; the other is precious of land as of rare
+ treasure from Cathay. Actual land use deviates enormously from the
+ equimarginal ideal. Even assuming, as so far we have done, that no one
+ holds land for the rise of price, its marginal revenue productivities on
+ adjacent holdings may diverge as much as the interest rates reckoned by
+ different individuals.
+    These deviations are not just exotics, to be explained ad hoc in each
+ situation and expected to work out ideally "in the long run" or under
+ "normal" conditions. No word has been breathed of "speculators,"
+ scape-goats of many a mono-diabolistic interpretation. Nor is Mr. 2 Per
+ Cent sacrificing present values to conserve more valuable future ones—we
+ assumed yields constant in perpetuity and discovered that Mr. 2 Per Cent
+ would use land less productively in perpetuity. Here, rather, is a perma-
+ nent underlying tendency, a tendency as permanent as the indivisibility of
+  U, the current use of land, from U/i, a claim to future use of land in
+  perpetuity. As long as individuals differ in power to finance claims on
+  the future (which is likely as long as individuals differ at all), there is no
+  reason to expect ideal allocation of U alone. Mr. 2 Per Cent holds land
+  for an annual cost much lower than its social cost, its best alternative use.
+  For Mr. 6 Per Cent, who could earn $6 from land that yields only $2 to
+  Mr. 2 Per Cent, has no way of making Mr. 2 Per Cent feel this social cost
+  as his individual cost, either directly or as foregone gain. To Mr. 2 Per
+• Cent the annual cost is $2 per $100, and that is all. Mr. 6 Per Cent's high
+  productivity is no concern of his.
+                      Unwieldy Time-Dimension of Space                               475
+
+                                           Iv
+                            Appreciation and Depreciation
+WE INFERRED those results simply from incorporating time into the
+analysis. We postulated no changes through time. But when land buyers
+expect changes—and in this world of ebb and flow they usually do—
+practice may depart even further from the equimarginal ideal. Let us
+cease assuming, now, that buyers expect land prices to hold steady, and
+explore the changes which the prospect of change brings. This is perhaps
+the most interesting and rewarding aspect of the study.
+   Suppose, now, buyers expect the value of U to rise, or i to fall, and
+hence P, the price of land, to rise. "Values may be created by the mere
+expectancy of some new use . •" likewise of lower capitalization rates,
+and part of this hope materializes immediately in higher prices for land
+titles. But not all the hope so manifests itself, because some time lies
+between now and its realization. Part of it appears instead as expectations
+of annual increments to land prices. Higher present prices are only the
+embryo of expectation, which takes on more and more substance until the
+moment of birth.
+   Now the individual faces a more complex decision. We can formulate
+it simply, however, by compressing its elements to an annual basis. This
+device is handy for him in practice as for us in theory, which augurs
+well for its realism, since no economizing technique, however valid, is
+likely to find much use unless easily rendered in the common tongue.
+   The individual who expects land prices to rise still higher will now
+consider that increase an additional gain, on top of the annual marginal
+product, to be had by holding land. To the individual, the annual price
+increment becomes part of the annual "yield" of land.13 He may regard
+this aggressively as an increase in the price he can demand of someone
+else; or defensively as an increase in what someone else might demand of
+him: he responds much the same to either feeling. Each individual now
+adds land to his holdings until the last unit thus "yields" him his interest
+rate: until the marginal product plus the price increment, each divided by
+   12 H. M. Lewis, W. D. Heydecker, and R. A. O'Hara, Land Values, Distribution
+VIlthin the New York Region and Relation to Various Factors in Urban Growth, Engi-
+neering Series, Monograph No. 3, Regional Plan of New York and Its Environs, New York,
+I927, p. 31.
+   13 We probably understate the case a good deal by assuming that all parties have equal-
+valued expectations of annual price increments. Financially less powerful individuals, it
+seems plausible, would not always be able to attach as much weight to given price incre-
+ments as would the more powerful, especially if they must commit land to heavy improve-
+ments whose presence tends to preclude quick resale. The possibility of resale in a remote
+and doubtful future may for some of them have very little meaning. Unfortunately we
+cunnot here pursue this thread.
+ 476       The American Journal of Economics and Sociology
+
+ the price, equals his interest rate. Symbolically, until:
+                                dR
+                                       -i
+                                       P-                              (4)
+ This equation epitomizes the whole study. Let us christen it the "dynamic
+ equilibrium equation." It is an instrument of many uses and implications,
+ which we can only begin to explore here.
+     It does not follow that all individuals will extend their holdings, an
+  obvious impossibility. The annual increment that buyers anticipate en-
+- courages every one to buy more land; but higher land prices, the other
+  manifestation of their higher expectations, discourage it. But it does
+  not follow, either, that these two new forces will just offset one another
+  in the reckoning of each individual, so that no one will change his hold-
+ ings. For while the annual increment encourages each in the same measure
+ (assuming, for simplicity, that each anticipates the same increment), the
+ higher price of land titles discourages each buyer in a different measure,
+ in proportion to his interest rate. The net result is that high-interest
+ individuals must contract their already skimpy holdings, some no doubt
+ below the limit of viability, while low-interest individuals may extend
+ theirs.
+    Those who pay or impute low interest rates buy more land because the
+ expected annual price increment exceeds the increase of their interest
+ burden. Those who reckon high interest rates must contract because the
+ increase of their interest burden exceeds the expected annual price in-
+ crement. There is of course some intermediate interest rate, call it j,
+ those reckoning which need neither expand nor contract. j equals the
+ expected annual price increment divided by the price increment that has
+ already materialized. Symbolically,
+                                 J=nAPn0                               (5)
+ where /P is the expected annual increment to land price; P0 is the price
+ that would prevail if buyers expected a and i to hold steady; and P1 is
+ the present price. This value for J derives from observing that the added
+ incentive to hold land is AP, and the added cost is (P1 —P0) i. When
+ the added incentive just equals the added cost, the basic equation still
+ holds true, with no change in the marginal revenue productivity of land
+          This is when:
+ (dL)
+                            AP= (P1—P0) i, or                         (5a)
+                                   AP
+                                1=P1—PoJ                               (5)
+                         Unwieldy Time-Dimension of Space                 477
+
+j is the dividing line between lower interest rates that allow those reckoning
+them to expand, and higher rates that force those reckoning them to
+contract.
+  Returning to Messrs. 2 Per Cent and 6 Per Cent for a numerical ex-
+ample, suppose they expect annual price increments of 2 per cent, and
+suppose land prices have doubled. Mr. 6 Per Cent's marginal revenue
+product, formerly 6 per cent of the price of land, is now become only
+3 per cent of it, too little to justify his holding so much. To this 3 per
+cent he adds the expected 2 per cent price increment, but still lacks some-
+thing of justifying his investment. He must therefore contract until his
+marginal productivity equals 4 per cent of the present price, or 8 per cenV
+of the original price.
+  Now Mr. 2 Per Cent, on the other hand, finds the annual increment of
+2 per cent adequate to warrant his holding land yielding him no marginal
+revenue product whatever. He will expand until the marginal revenue
+productivity of land to him equals zero. This may take the form of
+spreading his men and equipment very thin over a wide area, or of holding
+land completely out of use. One need not search far for examples of
+both practices.
+  The only persons whom these new expectations leave unmoved are the
+Messrs. 4 Per Cent, whose interest rate is the j of this example ($4/$100
+equals 4 per cent). For them the expected price increment of 2 per cent,
+or $4, just offsets the extra interest on the title. All those with lower
+interest rates expand; all with greater ones contract.
+  In result, the marginal productivities of land on different holdings
+come to differ in greater proportion than individuals' interest rates. As
+between Messrs. 2 Per Cent, 4 Per Cent and 6 Per Cent, their interest
+rates are as 1 :2:3, but the marginal productivities of land on their different
+holdings are as 0:2:4.
+  On the other hand, when buyers expect land to depreciate, marginal
+productivities of land in different holdings tend to converge with one
+another. For then interest, the cost that varies most markedly among
+individuals, ceases to be the only annual cost of holding land. It is joined
+by depreciation, a cost which interest rates do not determine and which
+tends, therefore, to afflict all landholders the same. Interest cost loses
+absolute as well as relative weight. For not only may "Values . . . be
+created by the mere expectancy of some new use . . . (but) they may
+depreciate as a result of failure of expectations."14 When buyers foresee
+lower land prices, present prices become somewhat lower, too; and price,
+of course, is the base on which interest cost is reckoned.
+   14
+        Lewis, et a!,, bc cit.
+478        The American Journal of Economics and Sociology
+
+   In terms of the dynamic equilibrium equation (4), let buyers expect
+land prices (P) to fall, and the annual price increment (LP) becomes
+negative. To gather all costs together on the right side, multiply both
+sides by P, and subtract /P from both. The equation becomes:
+
+                                                                           (4a)
+To obviate any confusion in algebraic signs, take the absolute value of
+LP, which here is negative, and write the equation:
+
+                               =Pi+PJ                                      (4b)
+(This form applies only to depreciating assets). Each individual now adds
+
+land to his holdings until its marginal revenue productivity (dL) equals
+interest cost plus depreciation. Depreciation has shouldered its way next
+to interest to stand as a major annual cost and share its previously ex-
+clusive control over marginal revenue productivity. Interest loses in-
+fluence also because the prospect of depreciation has eroded off part of
+its base, P.
+   Reverting to the numerical example of Messrs. 2 Per Cent, 4 Per Cent,
+and 6 Per Cent, suppose they expect land price to depreciate by $2 this
+year, and suppose its price has already dropped to $50. A few simple
+computations establish that they will adjust their holdings until their
+respective marginal productivities stand in the proportion 1 '/2:2:2 '/2,
+closer than their interest rates.
+   It is an exceptional period, to be sure, when people expect land prices
+to depreciate. This second form of the dynamic equilibrium equation has
+its uses, however. Almost all durable assets other than land do depre-
+ciate (and/or obsolesce and/or turn over, which for brevity may be in-
+cluded with depreciation). The equation applies as well to them—let
+us follow the classical terminology and call them 'capital"—as to de-
+preciating lands.
+   The equation, so applied, establishes what intuition suggests, that
+time-indivisibility little perverts the allocation of mortal capital. Most
+capital loses value rapidly with time, much more so than in the numerical
+example just cited, so its annual depreciation exceeds its annual interest
+cost by a good deal. Indeed many, probably most, economists have come
+to doubt that businessmen let interest rates influence their decisions to
+
+   '
+ invest in any but the most durable goods.5
+      M. Moonitz, "The Risk of Obsolescence and the Importance of the Rate of Interest,"
+Journal of Political Economy, 51 (1943), pp. 349—55; F. £ Lutz, "The Interest Rate and
+                      Unwieldy Time-Dimension of Space                               479
+
+  It is, rather, immortal land, and especially appreciating land, whose
+allocation time-indivisibility seriously perverts from the equimarginal
+ideal. With the dynamic equilibrium equation one may contrast the alloca-
+tion of appreciating land with depreciating capital, simply by adjusting P
+(up for land, down for capital), and changing the sign of AP. De-
+preciation, added to an interest cost which its prospect has reduced, so
+dilutes it that large differences among individual's interest rates affect
+allocation only a little; appreciation, subtracted from an interest cost which
+its prospect has magnified, so fortifies it that small differences among
+individuals' interest rates affect allocation a great deal.
+V. Conclusion
+  Ideas come crowding to mind for qualifying, as well as applying the
+dynamic equilibrium equation. Like other abstractions it sacrifices some-
+thing of reality for clarity and generality; to apply it one must reconstitute
+it with ingredients from the particular environment, which would pollute
+such crystalline simplicity and symmetry as it may have with the murkier
+qualities of the world we live in. This would be all to the good, but is
+beyond the scope of a few pages. Here we must leave it, with a brief
+appraisal.
+  The equation as developed thus far is limited by several assumptions:
+no taxes; prohibitive leasing costs; negligible transfer costs; identical and
+certain expectations; permanence of land; and others unspecified. This
+adds up to rather a lavish use of the ceteris paribus prerogative, and in
+application these must all be relaxed. In doing so one would discover,
+not that the equation dissolved, but that it proved a useful instrument
+affording insights, respectively, into tax policy, land tenure, real estate
+markets, forecasting and uncertainty, and conservation, as well as subjects
+such as business cycles and imperfect competition for which its present
+form may be adequately adapted. Thus the equation might serve as a
+vehicle for re-integrating land economics into the broadening mainstream
+of developing economic theory from which, since Ricardo, it has tended
+more and more to flow apart.
+   To be sure, even with the assumptions relaxed, the equation cannot
+
+Investment in a Dynamic Economy," American Economic Review, 35 (194 ), pp. 811—30;
+H. D. Henderson, "The Significance of the Rate of Interest," Oxford Economic Papers,
+No. 1, October, 1938, p. 9; H. C. Wallich, "The Changing Significance of the Interest
+Rate," American Economic Review, 36 (1946), pp. 761—87; J. E. Meade and P. W. S.
+Andrews, "Summary of Replies to Questions on Effect of Interest Rates," Oxford Eco-
+nomic Pafrers, No. 1, October, 1938, pp. 14—31; J. F. Ebersole, "The Influence of Interest
+Rates upon Entrepreneurial Decision, in Business," Harvard Business Review, 17 (1938),
+pp. 35—39. A recent contrary view is expressed in H. W. White, "Interest Inelasticity of
+Investment Demand," American Economic Review, 46 (1956). pp. 565—87.
+4o        The Americdn Journal of Economics iind Sociology
+
+presume to substitute for mature understanding of all that lies behind
+it. In compressing all factors to an annual basis it submerges some of the
+finer points. For example, it subsumes all differences in the terms of
+lending, in prospects for refinancing, all budgetary restraints of any sort,
+in the single symbol i. And it subsumes all prospects for future improved
+incomes, or resale at whatever date, in the single symbol P. Such short-
+hand notation can convey its full meaning only to those knowing some-
+thing of the complexities it represents—and only to them if they are
+willing to translate their knowledge into its terms.
+  But brevity is also a virtue. The equation brings data quickly to focus
+in a workable form which it is hoped the layman may understand and
+the specialist find operable. Simplicity lends it a kind of realism that
+more comprehensive alternative formulations may lack, since probably
+many landholders actually think in its terms. And its compactness has
+let us in a few pages reduce to some order a complex tangle of relationships
+and reach an important substantive conclusion.
+  Let us review the conclusion. Time-indivisibility deflects from the
+equimarginal ideal the allocation of durable goods in proportion to their
+durability: capital, by and large, only a little; stable-priced land more;
+and appreciating land very seriously. In the bidding for appreciating
+lands marginal productivity recedes to a secondary role, and yields place
+to financial power as the prime allocating agent, the "sorter and arranger"
+of land use. Nothing could be more wrong than the often expressed
+
+be stimulated by the prospect of a rise in its          ;'°
+idea that "Careful maintenance and administration of land are likely to
+                                                             That prospect
+even leads financially powerful firms and individuals to hold lands yielding
+them no income at all.
+  This conclusion suggests a different emphasis on land in the thinking
+of economists, many of whom have tended to assess its importance by its
+imputed income. This income, shrouded as it is in "entrepreneurial
+withdrawals" and wreathed in "profits," has not made a very tangible
+object for study. But the importance of land to economic theory, and to
+social welfare, may lie not so much in this unknown figure as in the latent
+income unrealized from lands that the "sorter and arranger" withholds
+from their most productive uses; and from the unemployed and under-
+employed labor and capital these lands might complement. It may lie,
+too, in the distribution of land: the conclusion suggests that land may be,
+contrary to a widespread impression, near the focus of the concentration
+of economic power.
+     Shorey Peterson, Economics, Rev. Ed., New York, Henry Holt, 1954, p. 674.
+                         Unwieldy Time-Dimension of Space              481
+
+   In another era men reproached the "dead hand of the past" for keeping
+land from best use. They had good cause. But is not the unborn hand
+of the future more to blame? Coming events cast their shadows before
+to become substance in the prices of land titles. These are anachronisms
+too, anachronisms out of tomorrow. They ill suffice the needs of the day.
+University of Missouri
+
+
+
+
+               Rural Development in the United States
+"I AM FIRM in my belief that in the future years the Rural Development
+Program will take its place as one of the most beneficial and important
+programs of your administration." This prophecy was made by the U. S.
+Secretary of Agriculture in a letter to the President in 1960 transmitting
+the Fifth Annual Report of the Rural Development Program.
+   The 24-page report is enhanced by an excellent selection of photographs
+which tell in a brief but vivid way the story of five years of progress under
+the national Rural Development Program.
+   The opening paragraph of the report sets the theme for the pages which
+follow. It says, "In spite of many difficult obstacles, the Rural Develop-
+ment Program has consistently beet enlarged and made more effective year
+by year since it was announced in 1955."
+   "In 1956," the report points out, "less than twenty-five counties in only
+a handful of states had begun formal programs. Today, some 210 counties
+in all major sections of the nation have the work underway or in the plan-
+fling stage."
+   The report then reviews what has been done in farm production and
+marketing, forestry and conservation, industrial improvement, youth, health
+services, and community clubs. Another section of the report gives an
+account of contributions and activities of various groups and agencies, fed-
+eral, state, local, and private. A full-page map shows where the program
+is in operation and the report concludes with a list of Rural Development
+Program counties and areas as of July 1960.
+                                                      MILTON MANGUM
+USDA,
+Washington, D. C.
+

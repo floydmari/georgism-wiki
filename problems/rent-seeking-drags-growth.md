@@ -117,6 +117,27 @@ This section is the reason the claim is graded Moderate rather than Strong.
   [corporate-rents](/wiki/corporate-profits-increasingly-rents/) material. The growth
   cost of rent-seeking cannot be bigger than the rent-seeking actually identified.
 
+## A Historical Illustration: Leverage and Political Mobilization in Farm Programs
+
+Mason Gaffney's 1966 essay "The Benefits of Farm Programs" offers a specific,
+named theoretical account of *which* rent-holders become the most active
+political rent-seekers — a mechanism this page's mainstream anchors do not
+isolate. Gaffney defines the **"intensity quotient"** (the ratio of non-land
+costs to gross revenue on a parcel) and shows that land with a high ratio
+has highly leveraged net rent: a 5% output-price rise can produce a 100%
+rise in net rent on marginal land, versus a much smaller proportional gain
+on low-ratio, already-superior land.[7] Because "the greater is the value
+of price stability to a landowner" scales with this leverage, Gaffney argues
+owners of marginal, capital-intensive land — not owners of already-secure,
+high-quality land — become the most intensely mobilized political actors in
+cartelized commodity programs, providing "political leadership and money"
+while weaker-leveraged interests supply votes.[7] This is a 1960s
+qualitative theoretical argument specific to US agricultural policy, offered
+without econometric testing — cited here as a historical illustration of
+the talent/effort-allocation mechanism (channel 1 above) applied to a
+concrete rent-seeking arena, not as independent evidence for the growth-cost
+magnitude.
+
 ## Strength of Evidence
 
 **Moderate.** The theoretical mechanisms are well established and the historical
@@ -150,6 +171,7 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
 - [Corporate profits are increasingly rents](/wiki/corporate-profits-increasingly-rents/)
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
+- [Gaffney (1966): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the intensity-quotient mechanism linking marginal-land leverage to political mobilization
 
 ## Sources
 
@@ -181,3 +203,8 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
    [wiki summary](/wiki/acemoglu-johnson-robinson-colonial-origins/) — used for the
    instrumented institutional evidence that extractive (rent-transferring) institutions
    causally depress income (A/C-claims; instrument contested per Albouy 2012).
+7. Mason Gaffney (1966), "The Benefits of Farm Programs: Incidence, Shifting, and
+   Dissipation," *American Journal of Economics and Sociology* — [wiki
+   summary](/wiki/gaffney-benefits-farm-programs/) — used for the "intensity quotient"
+   mechanism linking marginal-land leverage to political mobilization (C-claim, Gaffney's
+   own theoretical argument, historical illustration only).

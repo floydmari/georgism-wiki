@@ -1486,3 +1486,27 @@ PD-exempt pages (Pigou/Smith-lectures/Walras/George quotes) correctly left; 4
 apparent offenders cleared as parser false-positives. Baseline warnings verified
 unchanged via git-stash comparison. Inventory regenerated (2 extractive pages
 absorbed, warnings 36→34). 870 pages, lint 0 errors. Task #35 wave complete.
+
+## 2026-07-18 (cont.) — Wave: Gaffney C4/D3/E10 + index sync (verified clean)
+
+Three works, three pages (871st-873rd), two PRIORITY CORRECTIONS: (1) C4 "The
+Unwieldy Time-Dimension of Space" (AJES 1961) is the earliest dated Gaffney in
+the corpus — the algebraic root of the strong-hands credit mechanism, so
+land-monopoly's earliest-statement attribution corrected 1972-73 → 1961; the
+recurring conclusion held as corroboration-only (4th occurrence), page carries
+the genuinely new time-indivisibility/leasing-critique/dynamic-equilibrium
+content. (2) E10 "Land Planning and the Property Tax" (AIP Journal 1969) is the
+PRIMARY of the Milwaukee isovalic 20%/50% study the wiki carried via the 1998
+philosophy-of-public-finance restatement ("galloping merger movement" phrasing
+near-verbatim) — citation priority corrected on that page + split-rate page,
+Milwaukee material NOT re-derived; new page carries only the uncovered
+building-tax credit-leverage mechanics + the seven-point LVT-increases-planning-
+power argument. (3) D3 "Benefits of Farm Programs" (AJES 1966): Ricardian
+subsidy-incidence catalogue + the original intensity-quotient rent-seeking
+mechanism, wired into public-investment-capitalizes and rent-seeking-drags-growth.
+D3 volume/issue unrecoverable from text ([VERIFY], B4 precedent). Index-sync:
+problems (13) and benefits (15) indexes verified complete, zero dead rows, all
+four expanded-page blurbs still accurate, evidence_strength buckets spot-checked
+across all 28 — NO edits needed, verified-clean is the recorded outcome.
+Registry +3 rows; triage 3 rows checked; inventory regenerated. 873 pages,
+lint 0 errors.
