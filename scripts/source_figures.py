@@ -267,6 +267,57 @@ FIGURES = [
                     "Råd Working Paper 2017:1, Figure 1 — reproduced for comment "
                     "and review.</span>"),
     },
+    {
+        "key": "hoyt-fig76",
+        "entry": "research/hoyt-chicago-land-values.md",
+        "pdf_url": ("https://ia801602.us.archive.org/32/items/"
+                    "onehundredyearso00hoytrich/onehundredyearso00hoytrich_bw.pdf"),
+        "page": 384,
+        "clip": (26, 102, 342, 418),
+        "dpi": 300,
+        "alt": ("Hand-drawn semi-log chart from 1933 titled 'The Trend of Chicago "
+                "Land Values, Population and Manufacturing, 1835-1933'. Four "
+                "series climb roughly a thousand-fold over the century: aggregate "
+                "land value in current dollars, population, value of manufactures, "
+                "and site land value measured in days of unskilled labor. The land "
+                "value line surges and pauses in repeated waves, with visible "
+                "peaks in the 1830s, 1850s, early 1870s, early 1890s, and late "
+                "1920s."),
+        "caption": ("Figure 76 from the book (p. 348): a century of Chicago land "
+                    "values, population, and manufacturing on a logarithmic "
+                    "scale, 1835–1933. Aggregate land value climbs roughly a "
+                    "thousand-fold with the city's growth — but in recurring "
+                    "waves, with the peaks (1836, 1856, 1873, 1892, 1926) that "
+                    "later cycle theorists built on. "
+                    "<span class=\"figure-credit\">Source: Homer Hoyt, <em>One "
+                    "Hundred Years of Land Values in Chicago</em> (University of "
+                    "Chicago Press, 1933), Fig. 76; scan via Internet Archive — "
+                    "reproduced for comment and review.</span>"),
+    },
+    {
+        "key": "bakker-fig61",
+        "entry": "research/bakker-land-rents-tfp.md",
+        "pdf_url": ("https://www.imf.org/-/media/Files/Publications/WP/2023/"
+                    "English/wpiea2023170-print-pdf.ashx"),
+        "page": 28,
+        "clip": (88, 219, 522, 424),
+        "dpi": 220,
+        "alt": ("Two-panel line chart of total factor productivity in Hong Kong "
+                "and Singapore, 1970 to 2020, indexed to 1970=100. Left panel, "
+                "official Penn World Tables: Hong Kong rises to about 175 while "
+                "Singapore stays flat near 100. Right panel, corrected for urban "
+                "land rents: both rise strongly, Singapore more than doubling to "
+                "about 230 and Hong Kong reaching about 320."),
+        "caption": ("Figure 6.1 from the paper (index 1970&nbsp;=&nbsp;100): "
+                    "measured versus corrected TFP for Singapore and Hong Kong. "
+                    "In official Penn World Tables data Singapore's productivity "
+                    "appears flat for fifty years; once the ~25% of GDP flowing "
+                    "to urban land rents is separated from capital income, its "
+                    "true TFP more than doubles — recorded \"capital\" income was "
+                    "substantially land rent. <span class=\"figure-credit\">"
+                    "Source: Bakker, IMF Working Paper 23/170 (2023), Figure 6.1 "
+                    "— reproduced for comment and review.</span>"),
+    },
 ]
 
 

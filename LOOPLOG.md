@@ -945,3 +945,10 @@ georgism-work (charts are reproductions), gaffney-neoclassical-stratagem, progre
 poverty, mirrlees-review. blocked = dye-england (Lincoln form gate), albouy-ehrlich-shin
 (needs mirror), harrison-power-in-the-land (book scan → Hermes). Queue: 323 open
 candidates, 22 re-embed placements pending. 9 entries now carry figures.
+
+**Wave 4 (2026-07-18a):** hoyt-chicago-land-values (Fig 76, p. 348 — the century semi-log
+chart with the 1836/1856/1873/1892/1926 waves; Fig 90's five-panel cycle plate rejected as
+illegible at column width) · bakker-land-rents-tfp (IMF 23/170 Fig 6.1 — Singapore TFP flat
+in PWT vs doubling once land rents split out; Fig 5.3 rejected as input, not finding).
+Stamps: davis-larson-oliner-shui (no-chart, dataset paper), zodrow (blocked, Rice repo
+empty response). 11 entries figured; queue 319 open.

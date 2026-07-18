@@ -49,6 +49,11 @@ concept page and the [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year
 research page already draw on this study; this page is the dedicated source-record for the
 underlying primary text.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/hoyt-fig76.png" alt="Hand-drawn semi-log chart from 1933 titled 'The Trend of Chicago Land Values, Population and Manufacturing, 1835–1933'. Four series climb roughly a thousand-fold over the century: aggregate land value in current dollars, population, value of manufactures, and site land value measured in days of unskilled labor. The land value line surges and pauses in repeated waves, with visible peaks in the 1830s, 1850s, early 1870s, early 1890s, and late 1920s." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 76 from the book (p. 348): a century of Chicago land values, population, and manufacturing on a logarithmic scale, 1835–1933. Aggregate land value climbs roughly a thousand-fold with the city's growth — but in recurring waves, with the peaks (1836, 1856, 1873, 1892, 1926) that later cycle theorists built on. <span class="figure-credit">Source: Homer Hoyt, <em>One Hundred Years of Land Values in Chicago</em> (University of Chicago Press, 1933), Fig. 76; scan via Internet Archive — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## The Core Argument and Findings
 
 Hoyt's central empirical finding is that Chicago's land-value history divides into a
