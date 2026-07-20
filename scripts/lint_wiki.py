@@ -181,6 +181,12 @@ def main():
             if req not in meta:
                 err(f, f"missing required frontmatter field: {req}")
 
+        # Ghost hard-caps custom_excerpt at 300 chars; longer excerpts get
+        # ellipsis-truncated on the live site (sync_to_ghost.fit_excerpt).
+        # Write excerpts that fit so readers see the whole thing.
+        if len(str(meta.get("excerpt") or "")) > 300:
+            warn(f, f"excerpt {len(str(meta['excerpt']))} chars > Ghost's 300-char display cap — will be ellipsis-truncated on the live site; consider shortening")
+
         if meta.get("category") and meta["category"] != p["folder"]:
             err(f, f"category '{meta.get('category')}' != folder '{p['folder']}'")
 

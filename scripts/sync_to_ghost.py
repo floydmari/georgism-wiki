@@ -152,6 +152,24 @@ def build_tags(post, folder):
             print(f"  WARNING: unknown subcategory tag '{subcat}' — add to TAG_IDS")
     return tags
 
+def fit_excerpt(text, limit=300):
+    """Ghost hard-caps custom_excerpt at 300 chars. A blind [:300] cut ends
+    mid-word on ~200 pages (Floyd, 2026-07-18). Prefer the last sentence
+    boundary if it keeps a substantive excerpt; else cut at a word boundary
+    and add an ellipsis. Excerpts already within the cap pass through."""
+    text = (text or "").strip()
+    if len(text) <= limit:
+        return text
+    window = text[: limit - 2]  # room for " …" / "…"
+    best_sentence = max(window.rfind(". "), window.rfind("! "), window.rfind("? "))
+    if best_sentence >= 150:
+        return window[: best_sentence + 1]
+    cut = window.rfind(" ")
+    if cut < 1:
+        cut = limit - 2
+    return window[:cut].rstrip(" ,;:—-") + " …"
+
+
 def upsert(path):
     folder = os.path.basename(os.path.dirname(path))
     fm = frontmatter.load(path)
@@ -162,7 +180,7 @@ def upsert(path):
         "title": fm["title"],
         "slug": slug,
         "html": html,
-        "custom_excerpt": (fm.get("excerpt") or "")[:300],
+        "custom_excerpt": fit_excerpt(fm.get("excerpt")),
         "status": "published",
         "visibility": "public",
         # NOTE: `featured` is intentionally NOT set here. The curated homepage
