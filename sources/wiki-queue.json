@@ -1,5 +1,5 @@
 {
-  "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents/Henry George relevance only. Pure UBI, AI job loss, and non-Georgist content removed 2026-07-20.",
+  "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "queue": [
     {
       "url": "https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102",
@@ -1242,6 +1242,69 @@
       "author": "",
       "queued_at": "2026-07-20T10:04:32Z",
       "reported": false
+    },
+    {
+      "url": "http://FourthSector.org",
+      "source": "random",
+      "reason": "unknown domain with keyword (land value)",
+      "context": "Just got off a call with a super interesting person (Heerad, of <http://FourthSector.org|FourthSector.org>) and he shared a perspective that made complete sense to me: that the Buddha\u2019s Four Noble Truths was, in effect, a problem-solving algorithm; then he proceeded to share how the very first question he entered into ChatGPT when he encountered it was how one could apply the Four Noble Truths to solving climate change. Conversely, he encouraged me to give it a try as well and to use that prompt",
+      "author": "U09GHK05HT8",
+      "queued_at": "2026-07-16T00:12:58.770841+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://drive.google.com/file/u/1/d/1WS9RJDbXjup7CTG56KSjEYkjbDuD-mtT/view?pli=1",
+      "source": "general",
+      "reason": "unknown domain with keyword (economic rent)",
+      "context": "Catching up with Dave Shapiro tomorrow who published a <https://drive.google.com/file/u/1/d/1WS9RJDbXjup7CTG56KSjEYkjbDuD-mtT/view?pli=1|Universal Household Income> whitepaper a few months ago. There is meaningful relevance to UBI and Common Wealth, and at the very least, a stimulating exercise to see our work embedded in a bigger policy toolkit.\n\n*Basic income is the bridge. Common wealth is the destination. UBI Works can help make the bridge case. Common Wealth Canada can help make the ownersh",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-07-16T00:13:01.682599+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://grokipedia.com/page/Universal_basic_income",
+      "source": "general",
+      "reason": "unknown domain with keyword (ubi)",
+      "context": "Grokipedia v0.1 just dropped. Apparently v1.0 will be 10x better\n\nHere are the articles on <https://grokipedia.com/page/Land_value_tax|LVT> and <https://grokipedia.com/page/Universal_basic_income|UBI>, and <https://grokipedia.com/page/Guaranteed_minimum_income|GMI>",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-07-16T00:13:01.684617+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://grokipedia.com/page/Guaranteed_minimum_income",
+      "source": "general",
+      "reason": "unknown domain with keyword (ubi)",
+      "context": "Grokipedia v0.1 just dropped. Apparently v1.0 will be 10x better\n\nHere are the articles on <https://grokipedia.com/page/Land_value_tax|LVT> and <https://grokipedia.com/page/Universal_basic_income|UBI>, and <https://grokipedia.com/page/Guaranteed_minimum_income|GMI>",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-07-16T00:13:01.684638+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://ubiworks-v8.webflow.io",
+      "source": "website",
+      "reason": "unknown domain with keyword (basic income)",
+      "context": "v1 chatbot is now staged across full site, currently gemini-flash-3-preview on 0.2 temperature:\n<https://ubiworks-v8.webflow.io>\n\nRelatively straightforward to\n\u2022 update the vector database with future articles, transcripts, tweets\n\u2022 tweak system prompt (what the chat agent is asked to do -- very sensitive), starter questions, follow-up questions\n\u2022 build one for common wealth's site\nThis agent is able to retrieve LVT and common wealth chunks from the db and can answer questions about that, but is",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-07-16T00:13:03.260010+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188",
+      "source": "lvt-rents-learning",
+      "reason": "unknown domain with keyword (land value)",
+      "context": "Just for fun I asked Hugh to re-analyze the consult we had with Tyler Meredith. Super actionable feedback! It helps that the bot knows us well: <https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188|https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7[\u2026]53f300f5188>, for those not in notion:\n```## Tyler Meredith \u2014 ",
+      "author": "UKQ1MQDMW",
+      "queued_at": "2026-07-16T00:13:09.719456+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.openresearchlab.org/findings/key-findings-employment-and-income",
+      "source": "research-and-policy",
+      "reason": "unknown domain with keyword (ai)",
+      "context": "Interesting, which Ken also highlighted, from <https://www.openresearchlab.org/findings/key-findings-employment-and-income|their employment page>:\n&gt; There was no statistically significant effect on employment or hours worked for recipients over 30.5 In contrast, recipients under 30 were roughly 4 percentage points less likely to be employed and worked an average of 1.8 fewer hours per week compared to control participants.6\nAnd single parents:\n&gt; _Single parents:_ Recipients who were single",
+      "author": "UKQ1MQDMW",
+      "queued_at": "2026-07-16T00:13:11.904238+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -1258,6 +1321,6 @@
       "notes": "Triage + full scan completed (text extraction plus PDF figure/table review for chart data pdftotext dropped). \"From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio\" (Notre Dame Student Policy Network, in partnership with the Center for Land Economics, 15 July 2026) \u2014 a revenue-neutral 4:1 split-rate LVT parcel simulation for Cincinnati, OH, occasioned by Ohio SJR 7. Graded tier: supplementary (undergraduate student report with an advocacy-institute partner, not peer-reviewed; third in the SPN/CLE parcel-simulation series after South Bend and Princeton). Created research/ndspn-cincinnati-lvt-analysis.md; wired one-line mention into organizations/center-for-land-economics.md and cross-linked research/miller-hoskins-college-town-lvt.md, research/oates-schwab-pittsburgh.md, places/pittsburgh.md, places/pennsylvania.md, places/new-south-wales.md, places/australia.md. Not added to benefits/split-rate-increases-construction.md's supported_by (prospective simulation, not new independent evidence, per the delta rule and the precedent set by the sibling South Bend/Princeton reports). No places/cincinnati.md page created (does not clear the \u22652-inbound-link accept bar on its own). registry.csv row added."
     }
   ],
-  "total": 138,
-  "last_updated": "2026-07-20T15:33:25Z"
+  "total": 145,
+  "last_updated": "2026-07-20T15:34:26Z"
 }
