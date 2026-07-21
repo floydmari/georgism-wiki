@@ -1251,6 +1251,33 @@
       "author": "UKQ1MQDMW",
       "queued_at": "2026-07-16T00:13:09.719456+00:00",
       "reported": false
+    },
+    {
+      "url": "https://progressandpoverty.substack.com/p/new-uk-prime-minister-supports-land",
+      "source": "internet-scan",
+      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+      "context": "New UK Prime Minister Supports Land Value Tax. What\u2019s Next?",
+      "author": "research-scanner",
+      "queued_at": "2026-07-21T10:02:27.654031+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/",
+      "source": "social-media-production",
+      "reason": "unknown domain with keyword (lvt)",
+      "context": "Kitty Klitzke, Spokane City Council Member LVT quote\n<https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/|spokesman.com/stories/\u2026/most-spokane-homeowners-would-pay-less-tax-under\u2026>",
+      "author": "UKTJP503G",
+      "queued_at": "2026-07-21T10:02:46.818123+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web",
+      "source": "commonwealth",
+      "reason": "policy domain (substack.com) with keyword (lvt)",
+      "context": "Scott Santens LVT post\n\n<https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web|open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?\u2026>",
+      "author": "UKTJP503G",
+      "queued_at": "2026-07-21T10:02:48.405757+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -1267,6 +1294,6 @@
       "notes": "Triage + full scan completed (text extraction plus PDF figure/table review for chart data pdftotext dropped). \"From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio\" (Notre Dame Student Policy Network, in partnership with the Center for Land Economics, 15 July 2026) \u2014 a revenue-neutral 4:1 split-rate LVT parcel simulation for Cincinnati, OH, occasioned by Ohio SJR 7. Graded tier: supplementary (undergraduate student report with an advocacy-institute partner, not peer-reviewed; third in the SPN/CLE parcel-simulation series after South Bend and Princeton). Created research/ndspn-cincinnati-lvt-analysis.md; wired one-line mention into organizations/center-for-land-economics.md and cross-linked research/miller-hoskins-college-town-lvt.md, research/oates-schwab-pittsburgh.md, places/pittsburgh.md, places/pennsylvania.md, places/new-south-wales.md, places/australia.md. Not added to benefits/split-rate-increases-construction.md's supported_by (prospective simulation, not new independent evidence, per the delta rule and the precedent set by the sibling South Bend/Princeton reports). No places/cincinnati.md page created (does not clear the \u22652-inbound-link accept bar on its own). registry.csv row added."
     }
   ],
-  "total": 139,
-  "last_updated": "2026-07-20T15:34:26Z"
+  "total": 142,
+  "last_updated": "2026-07-21T10:02:58Z"
 }
