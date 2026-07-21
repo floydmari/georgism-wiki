@@ -34,59 +34,95 @@ OP_GHOST_ITEM = os.environ.get("OP_GHOST_ITEM", "dvu2rmbugwj3lhtacwoddb2cja")
 DEFAULT_GHOST_URL = "https://progress-org.ghost.io"
 
 
+# ─── 1Password Python SDK (preferred over op CLI) ───────────────────────────
+_sdk_client = None
+
+def _sdk_available():
+    """Check if the 1Password Python SDK can authenticate."""
+    global _sdk_client
+    token = os.environ.get("OP_SERVICE_ACCOUNT_TOKEN") or os.environ.get("HUGH_OP_SERVICE_ACCOUNT_TOKEN")
+    if not token:
+        return False
+    if _sdk_client is not None:
+        return True
+    try:
+        import asyncio
+        from onepassword.client import Client
+        _sdk_client = asyncio.run(Client.authenticate(
+            auth=token,
+            integration_name="Georgism Wiki Sync",
+            integration_version="1.0.0",
+        ))
+        return True
+    except Exception:
+        return False
+
 def _op_available():
-    return shutil.which("op") and os.environ.get("OP_SERVICE_ACCOUNT_TOKEN")
+    return shutil.which("op") and (os.environ.get("OP_SERVICE_ACCOUNT_TOKEN") or os.environ.get("HUGH_OP_SERVICE_ACCOUNT_TOKEN"))
 
 
 def _op_read(ref):
-    try:
-        out = subprocess.run(["op", "read", ref], capture_output=True, text=True, timeout=30)
-        if out.returncode == 0:
-            return out.stdout.strip()
-    except Exception:
-        pass
+    """Resolve a secret reference using the 1Password Python SDK (no op CLI)."""
+    if _sdk_available():
+        import asyncio
+        try:
+            return asyncio.run(_sdk_client.secrets.resolve(ref))
+        except Exception:
+            pass
+    if _op_available():
+        try:
+            out = subprocess.run(["op", "read", ref], capture_output=True, text=True, timeout=30)
+            if out.returncode == 0:
+                return out.stdout.strip()
+        except Exception:
+            pass
     return None
 
 
 def _op_item_field(vault, item, field):
-    """`op item get` fallback — secret references (`op read`) reject characters
-    like the em-dash in this item's name; item-get handles them."""
-    try:
-        out = subprocess.run(
-            ["op", "item", "get", item, "--vault", vault,
-             "--fields", f"label={field}", "--reveal"],
-            capture_output=True, text=True, timeout=30)
-        if out.returncode == 0:
-            return out.stdout.strip().strip('"')
-    except Exception:
-        pass
+    """`op item get` fallback — for items with names that op:// refs reject."""
+    # Try SDK first with a constructed ref
+    ref = f"op://{vault}/{item}/{field}"
+    val = _op_read(ref)
+    if val:
+        return val
+    # Fall back to op CLI
+    if _op_available():
+        try:
+            out = subprocess.run(
+                ["op", "item", "get", item, "--vault", vault,
+                 "--fields", f"label={field}", "--reveal"],
+                capture_output=True, text=True, timeout=30)
+            if out.returncode == 0:
+                return out.stdout.strip().strip('"')
+        except Exception:
+            pass
     return None
 
 
 def ghost_admin_key():
-    """Return the Ghost Admin key '<id>:<hex>' or None. Tries env, then 1Password fields."""
+    """Return the Ghost Admin key '<id>:<hex>' or None. Tries env, then 1Password via SDK."""
     if os.environ.get("GHOST_ADMIN_KEY"):
         return os.environ["GHOST_ADMIN_KEY"]
-    if _op_available():
-        for vault in OP_VAULTS:
-            for field in ("credential", "password", "api key", "notesPlain"):
-                val = _op_read(f"op://{vault}/{OP_GHOST_ITEM}/{field}") \
-                    or _op_item_field(vault, OP_GHOST_ITEM, field)
-                if val and ":" in val:
-                    return val
+    # Try Hugh's vault (tifwkmlnnjv4plfbnbny6pyylq) first, then others
+    all_vaults = ["tifwkmlnnjv4plfbnbny6pyylq"] + OP_VAULTS
+    for vault in all_vaults:
+        for field in ("api_key", "credential", "password", "api key", "notesPlain"):
+            val = _op_item_field(vault, OP_GHOST_ITEM, field)
+            if val and ":" in val:
+                return val
     return None
 
 
 def ghost_url():
     if os.environ.get("GHOST_URL"):
         return os.environ["GHOST_URL"]
-    if _op_available():
-        for vault in OP_VAULTS:
-            for field in ("url", "website", "server"):
-                val = _op_read(f"op://{vault}/{OP_GHOST_ITEM}/{field}") \
-                    or _op_item_field(vault, OP_GHOST_ITEM, field)
-                if val:
-                    return val.rstrip("/")
+    all_vaults = ["tifwkmlnnjv4plfbnbny6pyylq"] + OP_VAULTS
+    for vault in all_vaults:
+        for field in ("url", "website", "server"):
+            val = _op_item_field(vault, OP_GHOST_ITEM, field)
+            if val:
+                return val.rstrip("/")
     return DEFAULT_GHOST_URL
 
 
