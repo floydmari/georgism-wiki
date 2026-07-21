@@ -5,9 +5,7 @@ category: research
 excerpt: 'Feldstein (JPE 1977) is the canonical mainstream challenge to full capitalization:
   in a growth model where land and capital are competing stores of retirement wealth,
   a tax on pure land rent is ''at least partly shifted'' — the price of land may even
-  rise — because taxing land pushes savings into produced capital. The steelman, plus
-  the replies (Calvo-Kotlikoff-Rodriguez 1979 on bequests; Fane 1984 on compensation)
-  that restore the classical result.'
+  rise — because taxing land pushes savings into.'
 last_reviewed: 2026-07-11
 source_url: https://cooperative-individualism.org/feldstein-martin_the-surprising-incidence-of-a-tax-on-pure-rent-1977-apr.pdf
 stub: false

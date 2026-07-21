@@ -1,12 +1,22 @@
 ---
-title: "Homer Hoyt"
-category: people
-tags: [people, homer-hoyt, land-cycle, real-estate-economics, chicago, fha, urban-planning]
-stub: false
 born: 1895
+category: people
 died: 1984
-excerpt: "American land economist (1895–1984) whose 1933 dissertation One Hundred Years of Land Values in Chicago founded the empirical study of the land cycle; later FHA chief land economist and originator of the urban 'sector model,' whose FHA work also helped formalize racially discriminatory underwriting (redlining)."
+excerpt: American land economist (1895–1984) whose 1933 dissertation One Hundred Years
+  of Land Values in Chicago founded the empirical study of the land cycle; later FHA
+  chief land economist and originator of the urban 'sector model,' whose FHA work
+  also helped formalize racially discriminatory underwriting.
 last_reviewed: 2026-07-12
+stub: false
+tags:
+- people
+- homer-hoyt
+- land-cycle
+- real-estate-economics
+- chicago
+- fha
+- urban-planning
+title: Homer Hoyt
 ---
 
 ## Overview

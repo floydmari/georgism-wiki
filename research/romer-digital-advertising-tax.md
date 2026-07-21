@@ -3,11 +3,7 @@ authors:
 - Paul Romer
 category: research
 excerpt: Nobel laureate Paul Romer proposes a progressive tax on the revenue of targeted
-  digital advertising — the business model behind Google and Facebook. Because ad
-  revenue has a location it can't be shifted offshore like profit, and a rising rate
-  schedule makes the largest platforms pay most, creating a deliberate incentive to
-  break up or move to subscriptions. Acemoglu & Johnson (2024) extend the idea as
-  a flat 'sin tax' above a threshold.
+  digital advertising — the business model behind Google and Facebook.
 last_reviewed: 2026-07-10
 source_url: https://adtax.paulromer.net/
 stub: false

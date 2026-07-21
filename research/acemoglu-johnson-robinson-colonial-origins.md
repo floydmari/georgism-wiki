@@ -6,10 +6,7 @@ authors:
 category: research
 excerpt: The most-cited empirical demonstration that extractive institutions — those
   built to transfer resources to a ruling elite rather than protect production — cause
-  lower long-run income. Using European settler mortality as an instrument for institutions,
-  Acemoglu, Johnson & Robinson estimate large causal effects of institutional quality
-  on income per capita, the institutional-economics backbone for the claim that rewarding
-  extraction over production drags growth.
+  lower long-run income.
 last_reviewed: 2026-07-11
 source_url: https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf
 stub: false

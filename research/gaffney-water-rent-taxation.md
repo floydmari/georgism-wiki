@@ -1,17 +1,34 @@
 ---
-title: "Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-resources
-tags: [research, mason-gaffney, resource-rents, water-rights, water-law, western-water-law, prior-appropriation, severance-tax, rent-seeking, california, water-marketing, irrigation-districts]
-authors: [Mason Gaffney]
-year: 1961
-tier: Core
+excerpt: 'Gaffney''s career-spanning case for treating water like land: an empirical
+  1961 case study of a California river system misallocated by water law, and a 1992
+  systematic proposal to tax water withdrawals the way land rent is taxed — extended
+  with five later Gaffney pieces (1962-1997) on doctrine.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf
 stub: false
+subcategory: wiki-research-resources
 supports_outcomes:
 - resource-rent-capture-works
-excerpt: "Gaffney's career-spanning case for treating water like land: an empirical 1961 case study of a California river system misallocated by water law, and a 1992 systematic proposal to tax water withdrawals the way land rent is taxed — extended with five later Gaffney pieces (1962-1997) on doctrine comparison, federal giveaway policy, market design, and why voluntary water marketing has kept failing to clear."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- resource-rents
+- water-rights
+- water-law
+- western-water-law
+- prior-appropriation
+- severance-tax
+- rent-seeking
+- california
+- water-marketing
+- irrigation-districts
+tier: Core
+title: 'Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable
+  Surplus in Water Resources'
+year: 1961
 ---
 
 ## Overview

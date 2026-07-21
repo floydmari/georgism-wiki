@@ -4,8 +4,8 @@ authors:
 category: research
 excerpt: The finance industry's unit cost of moving $1 from savers to borrowers has
   stayed at ~1.5–2% for 140 years — and did NOT fall as information technology transformed
-  every other data-intensive industry. The single most-cited piece of evidence that
-  finance may capture its productivity gains as rent rather than passing them on.
+  every other data-intensive industry.
+last_reviewed: 2026-07-17
 source_url: https://pages.stern.nyu.edu/~tphilipp/papers/Finance_Efficiency.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -18,7 +18,6 @@ tags:
 - economic-rent
 tier: Core
 title: 'Philippon (2015): Has the US Finance Industry Become Less Efficient?'
-last_reviewed: 2026-07-17
 year: 2015
 ---
 

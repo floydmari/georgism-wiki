@@ -1,10 +1,20 @@
 ---
-title: "Liberation Theology"
 category: concepts
-tags: [concepts, liberation-theology, christian-ethics, land-reform, latin-america, henry-george, marxism, single-tax]
-stub: false
-excerpt: "The Latin American Catholic movement — founded by Gustavo Gutiérrez's A Theology of Liberation (1971) — that reads the Gospel as a summons to liberate the poor from structural injustice. Its Georgist relevance is narrow and specific: Andelson & Dawsey's From Wasteland to Promised Land (1992) argued that Henry George's land-value capture is a sounder economic foundation for the movement's goals than the Marxism it often borrowed."
+excerpt: The Latin American Catholic movement — founded by Gustavo Gutiérrez's A Theology
+  of Liberation (1971) — that reads the Gospel as a summons to liberate the poor from
+  structural injustice.
 last_reviewed: 2026-07-09
+stub: false
+tags:
+- concepts
+- liberation-theology
+- christian-ethics
+- land-reform
+- latin-america
+- henry-george
+- marxism
+- single-tax
+title: Liberation Theology
 ---
 
 ## Overview

@@ -1,15 +1,28 @@
 ---
-title: "Gaffney (1973): Tax Reform to Release Land"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-urban
-tags: [research, mason-gaffney, property-tax, fiscal-zoning, nimbyism, land-speculation, ripening, differential-capitalization, land-monopoly]
-authors: [Mason Gaffney]
-year: 1973
-tier: Important
+excerpt: Gaffney's RFF Forum paper recasting local governments as 'collective landowners'
+  practicing fiscal Mercantilism — a systematic taxonomy of exclusionary zoning, tax-base
+  Balkanization, and regressive utility pricing — plus a formal algebraic model of
+  how building taxes versus land taxes affect the.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/E4-TaxReformtoReleaseLand.CV.pdf
 stub: false
-excerpt: "Gaffney's RFF Forum paper recasting local governments as 'collective landowners' practicing fiscal Mercantilism — a systematic taxonomy of exclusionary zoning, tax-base Balkanization, and regressive utility pricing — plus a formal algebraic model of how building taxes versus land taxes affect the date land 'ripens' into higher use and a differential-capitalization model of why appreciating land gravitates to 'strong hands.'"
-last_reviewed: 2026-07-18
+subcategory: wiki-research-urban
+tags:
+- research
+- mason-gaffney
+- property-tax
+- fiscal-zoning
+- nimbyism
+- land-speculation
+- ripening
+- differential-capitalization
+- land-monopoly
+tier: Important
+title: 'Gaffney (1973): Tax Reform to Release Land'
+year: 1973
 ---
 
 ## Overview

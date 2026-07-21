@@ -1,11 +1,20 @@
 ---
-title: "Herman E. Daly"
-category: people
-tags: [people, daly, ecological-economics, steady-state-economics, world-bank, environmental-economics, entropy]
-stub: false
 born: 1938
+category: people
 died: 2022
-excerpt: "Ecological economist who co-developed steady-state economics and served as senior economist at the World Bank. Author of 'Ecological Economics and the Ecology of Economics' (1999). His work on throughput, limits to growth, and uneconomic growth connects Georgist rent theory to environmental constraints."
+excerpt: Ecological economist who co-developed steady-state economics and served as
+  senior economist at the World Bank. Author of 'Ecological Economics and the Ecology
+  of Economics' (1999).
+stub: false
+tags:
+- people
+- daly
+- ecological-economics
+- steady-state-economics
+- world-bank
+- environmental-economics
+- entropy
+title: Herman E. Daly
 ---
 
 ## Summary

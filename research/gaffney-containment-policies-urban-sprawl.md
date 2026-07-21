@@ -1,15 +1,26 @@
 ---
-title: "Gaffney (1964): Containment Policies for Urban Sprawl"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-urban
-tags: [research, mason-gaffney, urban-sprawl, land-value-tax, zoning, utility-pricing, priority-correction]
-authors: [Mason Gaffney]
-year: 1964
-tier: important
+excerpt: Gaffney's earliest known statement of the site-value-tax anti-sprawl argument
+  — a 1964 book chapter arguing 'negative' containment (greenbelts, zoning) fails
+  because it just displaces sprawl, while distance-graduated utility pricing plus
+  a heavy land tax makes land 'cheap to buy, but dear to hold,'.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/E3Containment_policies.CV.pdf
 stub: false
-excerpt: "Gaffney's earliest known statement of the site-value-tax anti-sprawl argument — a 1964 book chapter arguing 'negative' containment (greenbelts, zoning) fails because it just displaces sprawl, while distance-graduated utility pricing plus a heavy land tax makes land 'cheap to buy, but dear to hold,' the formula the wiki's 1969/1972-73 Gaffney sprawl citations restate nearly a decade later."
-last_reviewed: 2026-07-18
+subcategory: wiki-research-urban
+tags:
+- research
+- mason-gaffney
+- urban-sprawl
+- land-value-tax
+- zoning
+- utility-pricing
+- priority-correction
+tier: important
+title: 'Gaffney (1964): Containment Policies for Urban Sprawl'
+year: 1964
 ---
 
 ## Overview

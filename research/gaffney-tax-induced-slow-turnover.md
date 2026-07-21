@@ -2,12 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s five-part 1970-71 AJES series deriving, from first principles,
-  that ordinary excise and income taxation biases investment toward longer-lived
-  assets and toward land — and that a tax base defined by "true" (economic) depreciation
-  is the one intertemporally neutral form income taxation can take. The derivational
-  hub connecting his 1957 timber-maturity monograph to his 1976 full-employment
-  K·T=F macro model, and, in Part II, an unnoticed 1970 precursor to the ATCOR argument.'
+excerpt: Gaffney's five-part 1970-71 AJES series deriving, from first principles,
+  that ordinary excise and income taxation biases investment toward longer-lived assets
+  and toward land — and that a tax base defined by "true" (economic) depreciation
+  is the one intertemporally neutral form income taxation can.
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/I11-TaxInducedSlowTurnoverofCapital.CV.CV.pdf
 stub: false

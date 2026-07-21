@@ -3,12 +3,9 @@ authors:
 - Sock-Yong Phang
 - Rex S. Toh
 category: research
-excerpt: 'Phang & Toh''s Transportation Journal review is the standard scholarly account
-  of the world''s first successful congestion charge — Singapore''s 1975 Area Licensing
-  Scheme — and its 28-year evolution into Electronic Road Pricing (1998). It is the
-  flagship source behind the wiki''s Singapore figures: the ~76% morning-peak traffic
-  drop in the Restricted Zone, and the honest caution that the early charge over-shifted
-  behaviour and merely moved congestion in time and place.'
+excerpt: Phang & Toh's Transportation Journal review is the standard scholarly account
+  of the world's first successful congestion charge — Singapore's 1975 Area Licensing
+  Scheme — and its 28-year evolution into Electronic Road Pricing (1998).
 last_reviewed: 2026-07-11
 source_url: https://ink.library.smu.edu.sg/soe_research/117/
 stub: false

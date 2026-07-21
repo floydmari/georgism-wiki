@@ -1,14 +1,30 @@
 ---
-title: "Narrative: Green Georgism — Charging for the Earth"
 category: narratives
-tags: [narratives, environmental-argument, ecological-rent, carbon, cap-and-dividend, sky-trust, commons, sprawl]
-stub: false
-excerpt: "The environmental extension of the Georgist principle: pollution and extraction are unpaid takings of common natural wealth, and charging rent for them — capped carbon, resource royalties, land taxes that favour compact use — returns the commons to its owners. The thinnest-evidenced narrative of the twelve, mapped honestly."
-narrative_type: environmental
-supported_by: [resource-rent-dividends-work]
-related_people: [alanna-hartzok, karl-fitzgerald, george-monbiot]
-related_places: [estonia]
+excerpt: 'The environmental extension of the Georgist principle: pollution and extraction
+  are unpaid takings of common natural wealth, and charging rent for them — capped
+  carbon, resource royalties, land taxes that favour compact use — returns the commons
+  to its owners.'
 last_reviewed: 2026-07-05
+narrative_type: environmental
+related_people:
+- alanna-hartzok
+- karl-fitzgerald
+- george-monbiot
+related_places:
+- estonia
+stub: false
+supported_by:
+- resource-rent-dividends-work
+tags:
+- narratives
+- environmental-argument
+- ecological-rent
+- carbon
+- cap-and-dividend
+- sky-trust
+- commons
+- sprawl
+title: 'Narrative: Green Georgism — Charging for the Earth'
 ---
 
 *This narrative deploys the concept defined at

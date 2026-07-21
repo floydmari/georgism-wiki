@@ -1,18 +1,30 @@
 ---
-title: "Gaffney (1966): The Benefits of Farm Programs — Incidence, Shifting, and Dissipation"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-resources
-tags: [research, mason-gaffney, agriculture, rent-capture, capitalization, rent-seeking, subsidy-incidence, land-monopoly]
-authors: [Mason Gaffney]
-year: 1966
-tier: Important
+excerpt: 'Gaffney''s classical-incidence analysis of 1960s US farm programs: price
+  supports, public works, and subsidized rural credit all land on farmland owners
+  rather than farm labor or tenants, are then dissipated through elastic land supply,
+  and generate a self-defeating political economy of cartelized.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf
 stub: false
+subcategory: wiki-research-resources
 supports_outcomes:
 - public-investment-capitalizes-into-land
 - rent-seeking-drags-growth
-excerpt: "Gaffney's classical-incidence analysis of 1960s US farm programs: price supports, public works, and subsidized rural credit all land on farmland owners rather than farm labor or tenants, are then dissipated through elastic land supply, and generate a self-defeating political economy of cartelized landowner rent-seeking — an agricultural case study of unearned-increment capture predating the wiki's urban capitalization literature by decades."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- agriculture
+- rent-capture
+- capitalization
+- rent-seeking
+- subsidy-incidence
+- land-monopoly
+tier: Important
+title: 'Gaffney (1966): The Benefits of Farm Programs — Incidence, Shifting, and Dissipation'
+year: 1966
 ---
 
 ## Overview

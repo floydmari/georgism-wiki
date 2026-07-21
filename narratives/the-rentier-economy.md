@@ -1,14 +1,28 @@
 ---
-title: "Narrative: The Rentier Economy"
 category: narratives
-tags: [narratives, economic-argument, rent-extraction, rentier-capitalism, fire-sector, land-value-tax]
-stub: false
-excerpt: "The claim that a rising share of income rewards asset ownership and economic rent — above all land under housing, and by extension finance and digital platforms — rather than production. Traces Hudson's FIRE-sector critique and Mazzucato's value-extraction framework to the Rognlie/Bonnet evidence, with the contested boundary of 'rent' addressed honestly."
-narrative_type: economic
-supported_by: [capital-share-rise-is-land, high-land-rents-suppress-productivity]
-related_people: [michael-hudson, mariana-mazzucato, joseph-stiglitz, josh-ryan-collins]
-related_places: []
+excerpt: The claim that a rising share of income rewards asset ownership and economic
+  rent — above all land under housing, and by extension finance and digital platforms
+  — rather than production.
 last_reviewed: 2026-07-03
+narrative_type: economic
+related_people:
+- michael-hudson
+- mariana-mazzucato
+- joseph-stiglitz
+- josh-ryan-collins
+related_places: []
+stub: false
+supported_by:
+- capital-share-rise-is-land
+- high-land-rents-suppress-productivity
+tags:
+- narratives
+- economic-argument
+- rent-extraction
+- rentier-capitalism
+- fire-sector
+- land-value-tax
+title: 'Narrative: The Rentier Economy'
 ---
 
 *This page covers the persuasive career of the "rentier economy" critique. For the

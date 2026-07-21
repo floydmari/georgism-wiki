@@ -1,17 +1,32 @@
 ---
-title: "Gloudemans: Can CAMA Estimate Land Value Reliably Enough for LVT? (2000 & 2002 Lincoln Institute Working Papers)"
+authors:
+- Robert J. Gloudemans
+bears_on_objections:
+- land-cannot-be-assessed
 category: research
-subcategory: wiki-research-lvt
-tags: [research, assessment, mass-appraisal, cama, land-building-separation, lincoln-institute, gloudemans, coefficient-of-dispersion, working-paper]
-authors: [Robert J. Gloudemans]
-year: 2000
-tier: Important
+excerpt: Two Lincoln Institute working papers (2000, 2002) empirically test whether
+  computer-assisted mass appraisal can separate land from building value accurately
+  enough for a land value tax — including in neighborhoods with no vacant-land sales
+  at all.
+last_reviewed: 2026-07-18
 source_url: https://www.lincolninst.edu/publications/working-papers/implementing-land-value-tax-urban-residential-communities/
 stub: false
-excerpt: "Two Lincoln Institute working papers (2000, 2002) empirically test whether computer-assisted mass appraisal can separate land from building value accurately enough for a land value tax — including in neighborhoods with no vacant-land sales at all. Both read in full; both are single-author, Lincoln-funded working papers, not peer-reviewed journal articles."
-last_reviewed: 2026-07-18
-bears_on_objections: [land-cannot-be-assessed]
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- assessment
+- mass-appraisal
+- cama
+- land-building-separation
+- lincoln-institute
+- gloudemans
+- coefficient-of-dispersion
+- working-paper
+tier: Important
+title: 'Gloudemans: Can CAMA Estimate Land Value Reliably Enough for LVT? (2000 &
+  2002 Lincoln Institute Working Papers)'
+year: 2000
 ---
 
 ## Overview

@@ -1,16 +1,30 @@
 ---
-title: "Fundamentals of Mass Appraisal"
+authors:
+- Robert J. Gloudemans
+- Richard Almy
 category: books
-tags: [books, books-publications, assessment, mass-appraisal, cama, valuation, land-valuation, ratio-study, iaao, textbook]
-authors: [Robert J. Gloudemans, Richard Almy]
-year: 2011
-tier: important
-publisher: International Association of Assessing Officers (IAAO)
-isbn: "978-0-88329-198-6"
-stub: false
-excerpt: "The assessment profession's standard textbook (IAAO Course 300) on valuing property at scale — market/cost/income models, ratio-study statistics, and land valuation techniques. Not freely available in full; this page works from the publisher's course materials and the profession's own standard, which cites it page-by-page."
+excerpt: The assessment profession's standard textbook (IAAO Course 300) on valuing
+  property at scale — market/cost/income models, ratio-study statistics, and land
+  valuation techniques.
+isbn: 978-0-88329-198-6
 last_reviewed: 2026-07-18
+publisher: International Association of Assessing Officers (IAAO)
+stub: false
 supports_outcomes: []
+tags:
+- books
+- books-publications
+- assessment
+- mass-appraisal
+- cama
+- valuation
+- land-valuation
+- ratio-study
+- iaao
+- textbook
+tier: important
+title: Fundamentals of Mass Appraisal
+year: 2011
 ---
 
 ## Bibliographic Information

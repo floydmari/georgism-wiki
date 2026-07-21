@@ -1,14 +1,37 @@
 ---
-title: "The growth of modern banking is largely mortgage credit against land"
 category: problems
+challenged_by:
+- cochrane-finance-function-matters
 claim_type: problem
-tags: [outcomes, fire-sector, finance-rents, mortgage, land, credit, geoism]
-stub: false
-evidence_strength: "Strong for the composition claim (long-run cross-country data): finance's growth is overwhelmingly real-estate credit, and real-estate value growth is overwhelmingly land. Weaker/contested for the further step that finance income IS land rent."
-supported_by: [great-mortgaging, knoll-schularick-steger-house-prices, mian-sufi-verner-household-debt, greenwood-scharfstein-growth-of-finance, bezemer-hudson-finance-is-not-the-economy, bezemer-samarina-zhang-debt-shift, stiglitz-land-credit-inequality, capozza-green-hendershott-residential-land, vague-brief-history-of-doom, werner-princes-of-the-yen]
-excerpt: "Over the past century the expansion of banking in advanced economies has been, above all, the expansion of mortgage lending — and the value that lending is secured against is overwhelmingly land, not buildings. Much of what looks like 'financial deepening' is the banking system capitalising and collecting land rent."
-challenged_by: [cochrane-finance-function-matters]
+evidence_strength: 'Strong for the composition claim (long-run cross-country data):
+  finance''s growth is overwhelmingly real-estate credit, and real-estate value growth
+  is overwhelmingly land. Weaker/contested for the further step that finance income
+  IS land rent.'
+excerpt: Over the past century the expansion of banking in advanced economies has
+  been, above all, the expansion of mortgage lending — and the value that lending
+  is secured against is overwhelmingly land, not buildings.
 last_reviewed: 2026-07-13
+stub: false
+supported_by:
+- great-mortgaging
+- knoll-schularick-steger-house-prices
+- mian-sufi-verner-household-debt
+- greenwood-scharfstein-growth-of-finance
+- bezemer-hudson-finance-is-not-the-economy
+- bezemer-samarina-zhang-debt-shift
+- stiglitz-land-credit-inequality
+- capozza-green-hendershott-residential-land
+- vague-brief-history-of-doom
+- werner-princes-of-the-yen
+tags:
+- outcomes
+- fire-sector
+- finance-rents
+- mortgage
+- land
+- credit
+- geoism
+title: The growth of modern banking is largely mortgage credit against land
 ---
 
 > **At a glance** — Long-run cross-country data show the growth of modern banking is overwhelmingly mortgage credit against real estate whose rising value is mostly land; the further step that finance income itself is land rent is weaker and contested.

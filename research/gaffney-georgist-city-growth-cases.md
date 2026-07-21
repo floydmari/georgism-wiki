@@ -1,13 +1,15 @@
 ---
-title: "Gaffney's Georgist City-Growth Case Studies: Cleveland, Chicago, Detroit/Michigan, and Johannesburg"
 authors:
 - Mason Gaffney
 category: research
-subcategory: wiki-research-urban
-year: 2008
-tier: important
+excerpt: Four short Gaffney case narratives — Cleveland under Mayors Johnson and Baker,
+  Chicago's 1890s single-tax-adjacent political network, Detroit/Michigan's Pingree-to-Engler
+  century, and Johannesburg vs. Cape Town — argue Georgist-era land-tax choices shaped
+  city growth trajectories.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/essays/Whats_the_Matter_with_Michigan.pdf
 stub: false
+subcategory: wiki-research-urban
 tags:
 - research
 - mason-gaffney
@@ -21,8 +23,10 @@ tags:
 - tom-l-johnson
 - single-tax
 - historical
-excerpt: "Four short Gaffney case narratives — Cleveland under Mayors Johnson and Baker, Chicago's 1890s single-tax-adjacent political network, Detroit/Michigan's Pingree-to-Engler century, and Johannesburg vs. Cape Town — argue Georgist-era land-tax choices shaped city growth trajectories. Attributed historical argument, not causal identification: hand-picked comparisons, no matched controls, and confounders (annexation, national industry cycles, apartheid-era spatial planning) that Gaffney does not quantify."
-last_reviewed: 2026-07-18
+tier: important
+title: 'Gaffney''s Georgist City-Growth Case Studies: Cleveland, Chicago, Detroit/Michigan,
+  and Johannesburg'
+year: 2008
 ---
 
 ## Overview

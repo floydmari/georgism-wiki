@@ -1,14 +1,34 @@
 ---
-title: "The Limehouse Speech (1909)"
+authors:
+- David Lloyd George
 category: texts
-tags: [texts, david-lloyd-george, 1909-peoples-budget, land-value-tax, land-monopoly, unearned-increment]
-authors: [David Lloyd George]
-year: 1909
-public_domain: true
-provenance: "David Lloyd George, \"The Land and the People\" (speech at the Edinburgh Castle public house, Limehouse, East London, 30 July 1909), as printed in *Better Times: Speeches by the Rt. Hon. D. Lloyd George, M.P., Chancellor of the Exchequer* (London: Hodder and Stoughton, 1910), pp. 144-156 (speech no. 7). Transcribed programmatically from the Internet Archive scan (item bettertimes00lloyrich, DJVU OCR text), with OCR line-break de-hyphenation, paragraph rejoining, normalisation of currency glyphs (the scanner rendered the pound sign as a caret), and targeted correction of scanner artifacts (e.g. 'be%i' to 'been', 'tne' to 'the', 'go years' to '90 years'). The one footnote is the 1910 edition's own editorial note, reproduced below the text. Residual OCR errors may remain; a proofreading pass against the page images is queued."
-stub: false
-excerpt: "Lloyd George's 30 July 1909 mass-meeting speech defending the People's Budget's land value duties - the 'golden swamp', the Duke of Northumberland's school site, the Gorringe case, and the warning that landowners who neglect their duties will see 'the conditions under which land is held' reconsidered. Full text from the 1910 Hodder & Stoughton edition."
+excerpt: Lloyd George's 30 July 1909 mass-meeting speech defending the People's Budget's
+  land value duties - the 'golden swamp', the Duke of Northumberland's school site,
+  the Gorringe case, and the warning that landowners who neglect their duties will
+  see 'the conditions under which land is held'.
 last_reviewed: 2026-07-10
+provenance: 'David Lloyd George, "The Land and the People" (speech at the Edinburgh
+  Castle public house, Limehouse, East London, 30 July 1909), as printed in *Better
+  Times: Speeches by the Rt. Hon. D. Lloyd George, M.P., Chancellor of the Exchequer*
+  (London: Hodder and Stoughton, 1910), pp. 144-156 (speech no. 7). Transcribed programmatically
+  from the Internet Archive scan (item bettertimes00lloyrich, DJVU OCR text), with
+  OCR line-break de-hyphenation, paragraph rejoining, normalisation of currency glyphs
+  (the scanner rendered the pound sign as a caret), and targeted correction of scanner
+  artifacts (e.g. ''be%i'' to ''been'', ''tne'' to ''the'', ''go years'' to ''90 years'').
+  The one footnote is the 1910 edition''s own editorial note, reproduced below the
+  text. Residual OCR errors may remain; a proofreading pass against the page images
+  is queued.'
+public_domain: true
+stub: false
+tags:
+- texts
+- david-lloyd-george
+- 1909-peoples-budget
+- land-value-tax
+- land-monopoly
+- unearned-increment
+title: The Limehouse Speech (1909)
+year: 1909
 ---
 
 ## Editorial note

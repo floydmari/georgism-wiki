@@ -5,8 +5,7 @@ authors:
 category: research
 excerpt: 'Prosper Australia''s 2012 documentary (~40 min, dir. Karl Fitzgerald & Gavin
   Emmanuel): the global financial crisis read as a land-speculation crisis, and tax
-  reform off labor onto land as the remedy. The Georgist movement''s most-circulated
-  film; cited as advocacy, with its factual claims sourced to the underlying literature.'
+  reform off labor onto land as the remedy.'
 last_reviewed: 2026-07-06
 source_url: https://www.prosper.org.au/tag/real-estate-4-ransom-film/
 stub: false

@@ -1,21 +1,19 @@
 ---
 authors:
 - Mason Gaffney
+bears_on_objections:
+- land-is-just-capital
 category: research
-excerpt: 'Gaffney''s 1965 Natural Resources Journal paper builds a four-category
-  taxonomy of soil fertility (matrix, conservable flow, revolving fund, expendable
-  surplus) to show that, properly defined, most agricultural land income remains
-  genuine rent even after accounting for exhaustible fertility — and that soil
-  "conservation" is economically distinct from man-made capital "maintenance,"
-  a direct theoretical answer to the claim that depletable land is just capital.'
+excerpt: Gaffney's 1965 Natural Resources Journal paper builds a four-category taxonomy
+  of soil fertility (matrix, conservable flow, revolving fund, expendable surplus)
+  to show that, properly defined, most agricultural land income remains genuine rent
+  even after accounting for exhaustible fertility — and.
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/B5Soil_Depletion_%26_Land_Rent.CV.pdf
 stub: false
 subcategory: wiki-research-georgism
 supports_outcomes:
 - resource-rents
-bears_on_objections:
-- land-is-just-capital
 tags:
 - research
 - mason-gaffney

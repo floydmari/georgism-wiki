@@ -1,10 +1,16 @@
 ---
-title: "Argument Chains: Debate Scripts for the Big Set-Pieces"
 category: guides
-tags: [guides, advocate, debate, argument, reading-path]
-stub: false
-excerpt: "Full move-by-move scripts for the five debates you'll actually have — housing affordability, fairness, efficiency, does-it-work, and the socialism charge. Each chain is a sequence you can walk an audience through: the frame, three or four moves that build on each other with the evidence to cite, the honest caveat to pre-empt, and the close. The narrative companion to the one-liner Rebuttal Cards."
+excerpt: Full move-by-move scripts for the five debates you'll actually have — housing
+  affordability, fairness, efficiency, does-it-work, and the socialism charge.
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- guides
+- advocate
+- debate
+- argument
+- reading-path
+title: 'Argument Chains: Debate Scripts for the Big Set-Pieces'
 ---
 
 ## How to use this

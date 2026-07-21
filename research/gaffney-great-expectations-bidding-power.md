@@ -1,13 +1,15 @@
 ---
-title: "Gaffney (2013): Great Expectations — How Credit Markets Twist Land"
-category: research
-subcategory: wiki-research-georgism
 authors:
 - Mason Gaffney
-year: 2013
-tier: important
+category: research
+excerpt: A short 2013 essay giving Gaffney's clearest, most quotable statement of
+  why cheap long-term credit lets 'Scrooge' out-bid 'Cratchit' 23.9-to-1 for the speculative
+  component of land value — plus a distinct historical illustration of Henry George's
+  land-as-cartel analogy drawn from Depression-era.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/essays/Great_Expectations.pdf
 stub: false
+subcategory: wiki-research-georgism
 tags:
 - research
 - mason-gaffney
@@ -18,8 +20,9 @@ tags:
 - capitalization
 - great-depression
 - henry-george
-excerpt: "A short 2013 essay giving Gaffney's clearest, most quotable statement of why cheap long-term credit lets 'Scrooge' out-bid 'Cratchit' 23.9-to-1 for the speculative component of land value — plus a distinct historical illustration of Henry George's land-as-cartel analogy drawn from Depression-era withholding schemes (NRA, AAA, Texas oil prorating, ALCOA)."
-last_reviewed: 2026-07-18
+tier: important
+title: 'Gaffney (2013): Great Expectations — How Credit Markets Twist Land'
+year: 2013
 ---
 
 ## Overview

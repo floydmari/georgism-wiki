@@ -5,10 +5,7 @@ category: research
 excerpt: 'Gaffney''s 1991 essay argues that what U.S. tax law calls "capital gains"
   are overwhelmingly land gains in disguise: a systematic catalogue of income-tax
   loopholes (deferral, covert land depreciation, step-up of basis at death, indexing)
-  lets landowners escape tax that falls in full on productive capital and labor —
-  and that this asymmetry, not "capitalism" itself, is the structural flaw
-  discrediting free enterprise. Includes a Georgist origin story for the U.S. income
-  tax itself.'
+  lets landowners escape tax that falls in full on productive.'
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf
 stub: false

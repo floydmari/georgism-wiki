@@ -1,14 +1,32 @@
 ---
-title: "Programme of the Land Tenure Reform Association, with an Explanatory Statement (Mill, 1871)"
+authors:
+- John Stuart Mill
 category: texts
-tags: [texts, john-stuart-mill, unearned-increment, land-tenure-reform-association, land-value-tax, land-reform]
-authors: [John Stuart Mill]
-year: 1871
-public_domain: true
-provenance: "Programme of the Land Tenure Reform Association, with an Explanatory Statement by John Stuart Mill (London: Longmans, Green, Reader, and Dyer, 1871). Text from The Collected Works of John Stuart Mill, Vol. V — Essays on Economics and Society Part II (Toronto: University of Toronto Press / Online Library of Liberty PDF), 'Land Tenure Reform, 1871'; the ten Programme articles and the Explanatory Statement verified against the Dissertations and Discussions Vol. IV (1875) reprint scan at archive.org (dli.bengal.10689.4992). The one substantive variant between the 1871 pamphlet and the 1875 reprint follows the 1875 reading."
-stub: false
-excerpt: "Mill's 1871 manifesto for the Land Tenure Reform Association — the founding document of unearned-increment taxation, claiming 'for the benefit of the State, the interception by taxation of the future unearned increase of the rent of land.' Full text of the ten-article Programme and Mill's Explanatory Statement."
+excerpt: Mill's 1871 manifesto for the Land Tenure Reform Association — the founding
+  document of unearned-increment taxation, claiming 'for the benefit of the State,
+  the interception by taxation of the future unearned increase of the rent of land.'
+  Full text of the ten-article Programme and Mill's.
 last_reviewed: 2026-07-09
+provenance: 'Programme of the Land Tenure Reform Association, with an Explanatory
+  Statement by John Stuart Mill (London: Longmans, Green, Reader, and Dyer, 1871).
+  Text from The Collected Works of John Stuart Mill, Vol. V — Essays on Economics
+  and Society Part II (Toronto: University of Toronto Press / Online Library of Liberty
+  PDF), ''Land Tenure Reform, 1871''; the ten Programme articles and the Explanatory
+  Statement verified against the Dissertations and Discussions Vol. IV (1875) reprint
+  scan at archive.org (dli.bengal.10689.4992). The one substantive variant between
+  the 1871 pamphlet and the 1875 reprint follows the 1875 reading.'
+public_domain: true
+stub: false
+tags:
+- texts
+- john-stuart-mill
+- unearned-increment
+- land-tenure-reform-association
+- land-value-tax
+- land-reform
+title: Programme of the Land Tenure Reform Association, with an Explanatory Statement
+  (Mill, 1871)
+year: 1871
 ---
 
 ## Editorial note

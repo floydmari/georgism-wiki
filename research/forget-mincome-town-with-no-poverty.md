@@ -5,8 +5,7 @@ category: research
 excerpt: Forget's study of Manitoba's 1974-79 Mincome experiment finds hospitalizations
   in the saturation town of Dauphin fell relative to controls, concentrated in accident/injury
   and mental-health admissions, with higher high-school continuation — though a published
-  reanalysis (Green 2022) disputes the causal read and argues the pre-trend-adjusted data
-  point the other way.
+  reanalysis (Green 2022) disputes the.
 last_reviewed: 2026-07-18
 source_url: https://utppublishing.com/doi/pdf/10.3138/cpp.37.3.283
 stub: false

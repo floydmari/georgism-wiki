@@ -1,16 +1,33 @@
 ---
-title: "He, Sun, Li & Webster (2024): New Metro and Housing Price and Rent Premiums — A Natural Experiment in China"
+authors:
+- Dongsheng He
+- Guibo Sun
+- Ling Li
+- Chris Webster
 category: research
-subcategory: wiki-research-urban
-tags: [research, capitalization, transit, land-value-capture, natural-experiment, difference-in-differences, china, shenzhen]
-authors: [Dongsheng He, Guibo Sun, Ling Li, Chris Webster]
-year: 2024
-tier: important
+excerpt: A stringent natural-experiment DID study of new Shenzhen metro lines finds
+  housing rents rose significantly and consistently after the metro opened, with a
+  rent premium gradient falling with distance to stations — modern causal evidence
+  that public transit investment capitalizes into land.
+last_reviewed: 2026-07-13
 source_url: https://doi.org/10.1177/00420980231208560
 stub: false
-supports_outcomes: [public-investment-capitalizes-into-land]
-excerpt: "A stringent natural-experiment DID study of new Shenzhen metro lines finds housing rents rose significantly and consistently after the metro opened, with a rent premium gradient falling with distance to stations — modern causal evidence that public transit investment capitalizes into land, motivating value capture."
-last_reviewed: 2026-07-13
+subcategory: wiki-research-urban
+supports_outcomes:
+- public-investment-capitalizes-into-land
+tags:
+- research
+- capitalization
+- transit
+- land-value-capture
+- natural-experiment
+- difference-in-differences
+- china
+- shenzhen
+tier: important
+title: 'He, Sun, Li & Webster (2024): New Metro and Housing Price and Rent Premiums
+  — A Natural Experiment in China'
+year: 2024
 ---
 
 ## Summary

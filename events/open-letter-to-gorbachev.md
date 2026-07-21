@@ -1,11 +1,21 @@
 ---
-title: "Open Letter to Gorbachev (1990)"
 category: events
-tags: [events, open-letter-to-gorbachev, soviet-transition, land-rent, nobel-laureates]
-stub: false
-excerpt: "'Socialise the Rent' (7 November 1990): thirty Western economists — including Nobel laureates Modigliani, Tobin, Solow, and Vickrey — urged the Soviet Union to keep land in public ownership and fund government from land rent during the transition. Organized by Nicolaus Tideman; the advice was not taken."
-related_people: [nicolaus-tideman, mason-gaffney, william-vickrey]
+excerpt: '''Socialise the Rent'' (7 November 1990): thirty Western economists — including
+  Nobel laureates Modigliani, Tobin, Solow, and Vickrey — urged the Soviet Union to
+  keep land in public ownership and fund government from land rent during the transition.'
 last_reviewed: 2026-07-06
+related_people:
+- nicolaus-tideman
+- mason-gaffney
+- william-vickrey
+stub: false
+tags:
+- events
+- open-letter-to-gorbachev
+- soviet-transition
+- land-rent
+- nobel-laureates
+title: Open Letter to Gorbachev (1990)
 ---
 
 ## Overview

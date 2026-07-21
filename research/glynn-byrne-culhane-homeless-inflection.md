@@ -4,11 +4,8 @@ authors:
 - Thomas H. Byrne
 - Dennis P. Culhane
 category: research
-excerpt: 'Glynn, Byrne & Culhane''s Annals of Applied Statistics paper drops the usual
-  linear assumption and lets the data find thresholds. Its central result: a community''s
-  expected homeless rate begins to climb sharply once median rent exceeds ~32% of
-  median income — an empirical inflection point that lands almost exactly on the government''s
-  30% housing-cost-burden line.'
+excerpt: Glynn, Byrne & Culhane's Annals of Applied Statistics paper drops the usual
+  linear assumption and lets the data find thresholds.
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1214/20-AOAS1414
 stub: false

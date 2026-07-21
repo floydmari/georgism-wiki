@@ -1,15 +1,29 @@
 ---
-title: "The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist"
+authors:
+- Phillip J. Bryson
 category: books
-tags: [research, books-publications, henry-george, economic-theory, distribution-theory, free-trade, land-policy, classical-economics, physiocrats, palgrave-macmillan]
-authors: [Phillip J. Bryson]
-year: 2011
-tier: core
+excerpt: Bryson's 2011 academic monograph provides a comprehensive analysis of Henry
+  George's economic theory, covering methodology, distribution theory, free trade,
+  and land policy.
+last_reviewed: 2026-07-07
 source_url: https://link.springer.com/book/10.1057/9780230119987
 stub: false
-excerpt: "Bryson's 2011 academic monograph provides a comprehensive analysis of Henry George's economic theory, covering methodology, distribution theory, free trade, and land policy. Argues that George was 'a very orthodox economist' (Schumpeter) whose insights on land and rent remain relevant to modern economics."
-last_reviewed: 2026-07-07
 supports_outcomes: []
+tags:
+- research
+- books-publications
+- henry-george
+- economic-theory
+- distribution-theory
+- free-trade
+- land-policy
+- classical-economics
+- physiocrats
+- palgrave-macmillan
+tier: core
+title: 'The Economics of Henry George: History''s Rehabilitation of America''s Greatest
+  Early Economist'
+year: 2011
 ---
 
 ## Summary

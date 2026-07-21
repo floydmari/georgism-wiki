@@ -2,10 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'A polemical Gaffney essay arguing Henry George''s program does not trade
-  off efficiency against equity, or demand-side against supply-side stimulus, but
-  resolves nineteen such "dismal trade-offs" into free-lunch synergies — an advocacy
-  synthesis of Gaffney''s own technical work, not a peer-reviewed or empirical paper.'
+excerpt: A polemical Gaffney essay arguing Henry George's program does not trade off
+  efficiency against equity, or demand-side against supply-side stimulus, but resolves
+  nineteen such "dismal trade-offs" into free-lunch synergies — an advocacy synthesis
+  of Gaffney's own technical work, not a peer-reviewed.
 last_reviewed: 2026-07-16
 source_url: https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf
 stub: false
@@ -19,7 +19,7 @@ tags:
 - efficiency-equity
 - essay
 tier: Supplementary
-title: "Gaffney: George's Economics of Abundance"
+title: 'Gaffney: George''s Economics of Abundance'
 year: 1994
 ---
 

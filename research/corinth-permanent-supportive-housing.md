@@ -5,7 +5,7 @@ category: research
 excerpt: A HUD-panel and instrumental-variables study finding that adding one permanent
   supportive housing bed reduces the homeless count by far less than one person —
   a caveat on how mechanically 'more housing units' translates into fewer homeless
-  people, even as it leaves the rent-geography evidence intact.
+  people, even as it leaves the rent-geography evidence.
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1016/j.jhe.2017.01.006
 stub: false

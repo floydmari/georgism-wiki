@@ -1,17 +1,34 @@
 ---
-title: "Korinek & Vipra — Concentrating Intelligence: Scaling and Market Structure in Artificial Intelligence"
+authors:
+- Anton Korinek
+- Jai Vipra
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-subcategory: wiki-research-resources
-tags: [research, artificial-intelligence, foundation-models, market-concentration, natural-monopoly, antitrust, compute, economic-rent, geoism]
-authors: [Anton Korinek, Jai Vipra]
-year: 2024
-tier: Important
+excerpt: The wiki's first AI-rents anchor written after the foundation-model boom
+  began. Korinek and Vipra trace how compute, data and talent economies of scale push
+  the foundation-model market toward concentration — but their own evidence (Bertrand-like
+  pricing, a 17-month new entrant reaching the top.
+last_reviewed: 2026-07-17
 source_url: https://www.nber.org/system/files/working_papers/w33139/w33139.pdf
 stub: false
-excerpt: "The wiki's first AI-rents anchor written after the foundation-model boom began. Korinek and Vipra trace how compute, data and talent economies of scale push the foundation-model market toward concentration — but their own evidence (Bertrand-like pricing, a 17-month new entrant reaching the top three) shows no rent yet extracted, only the structural tendency toward one."
-last_reviewed: 2026-07-17
-supports_outcomes: [corporate-profits-increasingly-rents]
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
+subcategory: wiki-research-resources
+supports_outcomes:
+- corporate-profits-increasingly-rents
+tags:
+- research
+- artificial-intelligence
+- foundation-models
+- market-concentration
+- natural-monopoly
+- antitrust
+- compute
+- economic-rent
+- geoism
+tier: Important
+title: 'Korinek & Vipra — Concentrating Intelligence: Scaling and Market Structure
+  in Artificial Intelligence'
+year: 2024
 ---
 
 ## Summary

@@ -3,11 +3,9 @@ authors:
 - Patrick Bayer
 - Michaël Aklin
 category: research
-excerpt: 'Bayer & Aklin show the EU Emissions Trading System cut roughly 1.2 billion
+excerpt: Bayer & Aklin show the EU Emissions Trading System cut roughly 1.2 billion
   tonnes of CO2 between 2008 and 2016 — about 3.8% of EU-wide emissions, almost half
-  the EU''s Kyoto target — even though permit prices stayed low. The lesson: a credible
-  carbon market works through the expectation of future stringency, not only through
-  a high current price.'
+  the EU's Kyoto target — even though permit prices stayed low.
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1073/pnas.1918128117
 stub: false

@@ -1,14 +1,34 @@
 ---
-title: "Land underuse and speculative vacancy persist in high-demand cities"
 category: problems
+challenged_by:
+- glaeser-gyourko-housing-supply
 claim_type: problem
-tags: [outcomes, speculative-vacancy, empty-homes, land-banking, underuse, housing]
-stub: false
-evidence_strength: "Moderate (phenomenon well documented across independent methods; magnitude and causal attribution contested)"
-supported_by: [segu-vacancy-tax-france, gyourko-krimmel-zoning-tax, vancouver-empty-homes-tax, letwin-build-out-review, prosper-speculative-vacancies, cunningham-seattle-options, hoyt-chicago-land-values, simpson-real-estate-speculation-depression, gaffney-new-life-in-old-cities]
-challenged_by: [glaeser-gyourko-housing-supply]
-excerpt: "Even where housing demand is most acute, homes sit empty for years and valuable land is used far below its potential — documented by quasi-experimental tax evidence from France, vacant-lot price data from US metros, a UK government build-out review, and water-meter counts in Melbourne. Magnitude and cause remain contested."
+evidence_strength: Moderate (phenomenon well documented across independent methods;
+  magnitude and causal attribution contested)
+excerpt: Even where housing demand is most acute, homes sit empty for years and valuable
+  land is used far below its potential — documented by quasi-experimental tax evidence
+  from France, vacant-lot price data from US metros, a UK government build-out review,
+  and water-meter counts in Melbourne.
 last_reviewed: 2026-07-13
+stub: false
+supported_by:
+- segu-vacancy-tax-france
+- gyourko-krimmel-zoning-tax
+- vancouver-empty-homes-tax
+- letwin-build-out-review
+- prosper-speculative-vacancies
+- cunningham-seattle-options
+- hoyt-chicago-land-values
+- simpson-real-estate-speculation-depression
+- gaffney-new-life-in-old-cities
+tags:
+- outcomes
+- speculative-vacancy
+- empty-homes
+- land-banking
+- underuse
+- housing
+title: Land underuse and speculative vacancy persist in high-demand cities
 ---
 
 > **At a glance** — Even in cities where housing demand is most acute, a persistent stock of dwellings sits empty and valuable land is used well below its potential; the phenomenon is well documented across independent methods, though how much is speculative withholding rather than friction or zoning is contested.

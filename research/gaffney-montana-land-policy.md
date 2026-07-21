@@ -2,12 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s 1977 address to a Montana conference frames the state as an
-  internal resource colony — absentee-owned minerals and coal, mercantilist
-  transport-rate structures, and tax favoritism for extractive industry — and
-  prescribes land value taxation, with historical case studies from British Columbia
-  and California, as the counter-colonial policy: it attracts productive capital
-  while specifically discouraging absentee land ownership.'
+excerpt: Gaffney's 1977 address to a Montana conference frames the state as an internal
+  resource colony — absentee-owned minerals and coal, mercantilist transport-rate
+  structures, and tax favoritism for extractive industry — and prescribes land value
+  taxation, with historical case studies from British.
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf
 stub: false

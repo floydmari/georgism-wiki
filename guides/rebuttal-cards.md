@@ -1,10 +1,18 @@
 ---
-title: "Rebuttal Cards: Every Objection, Answered in One Breath"
 category: guides
-tags: [guides, advocate, objections, rebuttal, debate, quotable]
-stub: false
-excerpt: "Someone just threw an objection at you. Find it here: what they say, what you say back in one or two sentences, the honest concession to make first where the criticism has real force, and the page to cite. Combat-ready phrasing for the advocate mid-argument — the defensive companion to the Advocate's Arsenal."
+excerpt: 'Someone just threw an objection at you. Find it here: what they say, what
+  you say back in one or two sentences, the honest concession to make first where
+  the criticism has real force, and the page to cite.'
 last_reviewed: 2026-07-15
+stub: false
+tags:
+- guides
+- advocate
+- objections
+- rebuttal
+- debate
+- quotable
+title: 'Rebuttal Cards: Every Objection, Answered in One Breath'
 ---
 
 ## How to use this

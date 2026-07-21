@@ -1,16 +1,33 @@
 ---
-title: "Rent Dissolution vs. Rent Capture — the Enforcement Record on Antitrust, the DMA, and Interoperability"
+authors:
+- European Commission
+- U.S. Department of Justice
+- Federal Trade Commission
+- Stigler Center Committee for the Study of Digital Platforms
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-subcategory: wiki-research-resources
-tags: [research, antitrust, digital-markets-act, interoperability, platform-economy, data-rents, geoism, rent-gradient, quasi-rent]
-authors: [European Commission, U.S. Department of Justice, Federal Trade Commission, Stigler Center Committee for the Study of Digital Platforms]
-year: 2025
-tier: Important
+excerpt: Land rent cannot be dissolved by competition — the supply is fixed, so capture
+  is the only remedy. A platform rent sustained by artificial switching costs sometimes
+  can be dissolved instead.
+last_reviewed: 2026-07-18
 source_url: https://digital-markets-act.ec.europa.eu/commission-finds-apple-and-meta-breach-digital-markets-act-2025-04-23_en
 stub: false
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
-last_reviewed: 2026-07-18
-excerpt: "Land rent cannot be dissolved by competition — the supply is fixed, so capture is the only remedy. A platform rent sustained by artificial switching costs sometimes can be dissolved instead. This page tracks what two years of DMA fines, a rejected Google breakup, forced data-syndication, and a lost FTC case against Meta actually show about whether dissolution works — and the honest counter-case that breakups and interoperability mandates can destroy real efficiencies too."
+subcategory: wiki-research-resources
+tags:
+- research
+- antitrust
+- digital-markets-act
+- interoperability
+- platform-economy
+- data-rents
+- geoism
+- rent-gradient
+- quasi-rent
+tier: Important
+title: Rent Dissolution vs. Rent Capture — the Enforcement Record on Antitrust, the
+  DMA, and Interoperability
+year: 2025
 ---
 
 ## Summary

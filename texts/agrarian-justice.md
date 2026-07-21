@@ -1,14 +1,41 @@
 ---
-title: "Agrarian Justice (Thomas Paine, 1797)"
+authors:
+- Thomas Paine
 category: texts
-tags: [texts, thomas-paine, citizens-dividend, ground-rent, natural-rights, national-fund, universal-dividend]
-authors: [Thomas Paine]
-year: 1797
-public_domain: true
-provenance: "Thomas Paine, Agrarian Justice (written winter 1795–96; first published Paris and London, 1797). Base text: The Writings of Thomas Paine, Volume III (1791–1804), ed. Moncure Daniel Conway (New York & London: G. P. Putnam's Sons, 1895), chapter XXVIII — transcribed from Project Gutenberg ebook #31271 (pg31271.txt). The commonly cited constitution.org transcription was cross-checked and REJECTED as the base text because it carries OCR corruptions absent from the Conway edition (e.g. 'parable connection' for 'inseparable connection', 'fund prod' for 'fund proposed', 'ought to considered', 'civilization begin'). Mechanical cleanup only: Gutenberg's hard line-wrapping reflowed into paragraphs; Gutenberg underscore-italics converted to markdown emphasis; the two calculation tables (rendered as images in Gutenberg) reconstructed from the figures in the text and cross-checked against constitution.org; three residual Gutenberg OCR artifacts corrected ('that.. property'→'that property'; 'sentence axe omitted'→'sentence are omitted'; 'get cut of that state'→'get out of that state'; '5,666,6667L.'→'5,666,666L.'). Paine's period spellings preserved (shew, hypocracy, numeraire, per cent,). Conway's editor's introduction is omitted; his two editorial footnotes are retained as marked notes. Residual OCR may remain; a proofreading pass against the 1797 first edition is queued."
-stub: false
-excerpt: "Paine's 1797 pamphlet proposing a National Fund financed by a 10% levy on inherited property, paying every person £15 at age 21 and £10 a year from age 50 — 'not charity but a right.' Grounds the scheme in land as 'the common property of the human race' and a ground-rent owed to the community: the citizen's-dividend argument 82 years before Henry George. Full text."
+excerpt: 'Paine''s 1797 pamphlet proposing a National Fund financed by a 10% levy
+  on inherited property, paying every person £15 at age 21 and £10 a year from age
+  50 — ''not charity but a right.'' Grounds the scheme in land as ''the common property
+  of the human race'' and a ground-rent owed to the community: the.'
 last_reviewed: 2026-07-10
+provenance: 'Thomas Paine, Agrarian Justice (written winter 1795–96; first published
+  Paris and London, 1797). Base text: The Writings of Thomas Paine, Volume III (1791–1804),
+  ed. Moncure Daniel Conway (New York & London: G. P. Putnam''s Sons, 1895), chapter
+  XXVIII — transcribed from Project Gutenberg ebook #31271 (pg31271.txt). The commonly
+  cited constitution.org transcription was cross-checked and REJECTED as the base
+  text because it carries OCR corruptions absent from the Conway edition (e.g. ''parable
+  connection'' for ''inseparable connection'', ''fund prod'' for ''fund proposed'',
+  ''ought to considered'', ''civilization begin''). Mechanical cleanup only: Gutenberg''s
+  hard line-wrapping reflowed into paragraphs; Gutenberg underscore-italics converted
+  to markdown emphasis; the two calculation tables (rendered as images in Gutenberg)
+  reconstructed from the figures in the text and cross-checked against constitution.org;
+  three residual Gutenberg OCR artifacts corrected (''that.. property''→''that property'';
+  ''sentence axe omitted''→''sentence are omitted''; ''get cut of that state''→''get
+  out of that state''; ''5,666,6667L.''→''5,666,666L.''). Paine''s period spellings
+  preserved (shew, hypocracy, numeraire, per cent,). Conway''s editor''s introduction
+  is omitted; his two editorial footnotes are retained as marked notes. Residual OCR
+  may remain; a proofreading pass against the 1797 first edition is queued.'
+public_domain: true
+stub: false
+tags:
+- texts
+- thomas-paine
+- citizens-dividend
+- ground-rent
+- natural-rights
+- national-fund
+- universal-dividend
+title: Agrarian Justice (Thomas Paine, 1797)
+year: 1797
 ---
 
 ## Editorial note

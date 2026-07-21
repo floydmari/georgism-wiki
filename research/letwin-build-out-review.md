@@ -1,16 +1,27 @@
 ---
-title: "Independent Review of Build Out: Final Report (Letwin Review)"
+authors:
+- Oliver Letwin
 category: research
-subcategory: wiki-research-housing
-tags: [research, build-out, land-banking, housing-supply, uk, absorption-rate, government-review, underuse]
-authors: [Oliver Letwin]
-year: 2018
-tier: important
+excerpt: A 2018 UK government review commissioned to explain the gap between planning
+  permissions and housing completions on large sites in high-demand areas.
+last_reviewed: 2026-07-13
 source_url: https://www.gov.uk/government/publications/independent-review-of-build-out-final-report
 stub: false
-supports_outcomes: [speculative-vacancy-wastes-cities]
-excerpt: "A 2018 UK government review commissioned to explain the gap between planning permissions and housing completions on large sites in high-demand areas. It found the median large site takes 15.5 years to build out, and attributes the slow rate to the 'market absorption rate' and product homogeneity rather than to deliberate land banking — an institutional, mainstream account of why permissioned land sits underdeveloped."
-last_reviewed: 2026-07-13
+subcategory: wiki-research-housing
+supports_outcomes:
+- speculative-vacancy-wastes-cities
+tags:
+- research
+- build-out
+- land-banking
+- housing-supply
+- uk
+- absorption-rate
+- government-review
+- underuse
+tier: important
+title: 'Independent Review of Build Out: Final Report (Letwin Review)'
+year: 2018
 ---
 
 ## Summary

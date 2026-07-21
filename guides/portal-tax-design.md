@@ -1,10 +1,16 @@
 ---
-title: "Tax Design: LVT as Policy Machinery"
 category: guides
-tags: [guides, portal, tax-design]
-stub: false
-excerpt: "The policymaker's-staffer hub on land value taxation as design machinery: how you assess land, what rate and revenue it can bear (ATCOR/EBCOR as attributed hypotheses), how you manage the transition wealth shock, whether it is progressive, how split-rate is actually implemented, and how it scores against the classical canons."
+excerpt: 'The policymaker''s-staffer hub on land value taxation as design machinery:
+  how you assess land, what rate and revenue it can bear (ATCOR/EBCOR as attributed
+  hypotheses), how you manage the transition wealth shock, whether it is progressive,
+  how split-rate is actually implemented, and how it scores.'
 last_reviewed: 2026-07-12
+stub: false
+tags:
+- guides
+- portal
+- tax-design
+title: 'Tax Design: LVT as Policy Machinery'
 ---
 
 # Tax Design: LVT as Policy Machinery

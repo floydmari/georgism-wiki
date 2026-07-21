@@ -1,10 +1,16 @@
 ---
-title: "Climate & the Commons: Rents Beyond Land"
 category: guides
-tags: [guides, portal, climate-and-commons]
-stub: false
-excerpt: "A curated hub on rent capture beyond land — the atmosphere, road space, and natural resources: carbon-pricing evidence with its new meta-analytic backbone, congestion pricing's quasi-experiments, resource-rent capture and dividends, and the rent-gradient honesty rule that keeps these apart from the clean land case."
+excerpt: 'A curated hub on rent capture beyond land — the atmosphere, road space,
+  and natural resources: carbon-pricing evidence with its new meta-analytic backbone,
+  congestion pricing''s quasi-experiments, resource-rent capture and dividends, and
+  the rent-gradient honesty rule that keeps these apart from the.'
 last_reviewed: 2026-07-12
+stub: false
+tags:
+- guides
+- portal
+- climate-and-commons
+title: 'Climate & the Commons: Rents Beyond Land'
 ---
 
 # Climate & the Commons: Rents Beyond Land

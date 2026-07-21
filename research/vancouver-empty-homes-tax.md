@@ -7,8 +7,7 @@ category: research
 excerpt: 'North America''s first municipal vacancy tax (2017): 1% rising to 3%, on
   empty Vancouver homes. The City reports a 54% fall in vacant properties since 2017;
   an independent difference-in-differences study finds a smaller, cleanly causal ~21%
-  (1.5pp) reduction — and no effect on rents. One of three vacancy levies that can
-  stack on the same dwelling.'
+  (1.5pp) reduction — and no effect on rents.'
 last_reviewed: 2026-07-11
 source_url: https://vancouver.ca/home-property-development/empty-homes-tax.aspx
 stub: false

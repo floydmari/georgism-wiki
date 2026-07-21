@@ -1,11 +1,21 @@
 ---
-title: "Platform and Data Rents"
 category: concepts
-tags: [concepts, data-rents, platform-economy, network-effects, superstar-firms, geoism, quasi-rent]
+excerpt: 'The returns a handful of digital firms earn from network-effect moats, accumulated
+  data, and gatekeeping — the ''land-like positions'' of the digital economy. The
+  most contested rent in the file, alongside IP: is big-tech profit unearned rent,
+  or the quasi-rent that rewards genuine innovation?'
+last_reviewed: 2026-07-18
 stub: false
 supports_outcomes: []
-excerpt: "The returns a handful of digital firms earn from network-effect moats, accumulated data, and gatekeeping — the 'land-like positions' of the digital economy. The most contested rent in the file, alongside IP: is big-tech profit unearned rent, or the quasi-rent that rewards genuine innovation? The evidence is real but its interpretation is disputed."
-last_reviewed: 2026-07-18
+tags:
+- concepts
+- data-rents
+- platform-economy
+- network-effects
+- superstar-firms
+- geoism
+- quasi-rent
+title: Platform and Data Rents
 ---
 
 ## Definition

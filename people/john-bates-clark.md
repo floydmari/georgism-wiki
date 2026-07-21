@@ -1,12 +1,21 @@
 ---
-title: "John Bates Clark"
-category: people
-tags: [people, john-bates-clark, neoclassical-economics, marginal-productivity, history-of-economics, henry-george]
-stub: false
 born: 1847
+category: people
 died: 1938
-excerpt: "American neoclassical economist whose marginal-productivity theory — developed, by his own preface, in response to Henry George's wage doctrine — treated land as a form of capital. Gaffney reads the merger as the move that buried George; mainstream historiography reads it as analytic development. Both accounts, attributed."
+excerpt: American neoclassical economist whose marginal-productivity theory — developed,
+  by his own preface, in response to Henry George's wage doctrine — treated land as
+  a form of capital. Gaffney reads the merger as the move that buried George; mainstream
+  historiography reads it as analytic development.
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- people
+- john-bates-clark
+- neoclassical-economics
+- marginal-productivity
+- history-of-economics
+- henry-george
+title: John Bates Clark
 ---
 
 ## Overview

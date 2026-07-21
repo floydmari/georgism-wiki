@@ -2,11 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s 2005 working paper proposing that excess burden be measured
-  by tax-induced shifting of land to lower uses rather than by conventional Harberger-triangle
-  excise-tax modeling — showing that only a tax on site value itself is neutral,
-  while taxes on costs, gross revenue, or building value all bias landowners toward
-  less intensive land use.'
+excerpt: Gaffney's 2005 working paper proposing that excess burden be measured by
+  tax-induced shifting of land to lower uses rather than by conventional Harberger-triangle
+  excise-tax modeling — showing that only a tax on site value itself is neutral, while
+  taxes on costs, gross revenue, or building value.
 last_reviewed: 2026-07-16
 source_url: https://masongaffney.org/workpapers/A_better_way_of_gauging_excess_burden_of_shiftable_taxes_2005.CV.pdf
 stub: false

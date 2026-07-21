@@ -1,10 +1,22 @@
 ---
-title: "The Garden City Movement"
 category: concepts
-tags: [concepts, garden-city, ebenezer-howard, land-value-capture, rate-rent, letchworth, welwyn, community-land, town-planning]
-stub: false
-excerpt: "The town-planning movement launched by Ebenezer Howard's Garden Cities of To-morrow (1902): planned new towns built on communally-held land, where the rising land value — Howard's 'rate-rent' — is captured for the community rather than private landlords. Letchworth (1903) and Welwyn Garden City (1920) put it into practice; a foundational land-value-capture precedent whose freehold estate still funds the town today."
+excerpt: 'The town-planning movement launched by Ebenezer Howard''s Garden Cities
+  of To-morrow (1902): planned new towns built on communally-held land, where the
+  rising land value — Howard''s ''rate-rent'' — is captured for the community rather
+  than private landlords.'
 last_reviewed: 2026-07-11
+stub: false
+tags:
+- concepts
+- garden-city
+- ebenezer-howard
+- land-value-capture
+- rate-rent
+- letchworth
+- welwyn
+- community-land
+- town-planning
+title: The Garden City Movement
 ---
 
 ## Overview

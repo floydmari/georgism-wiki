@@ -5,13 +5,9 @@ authors:
 - Floyd Marinescu
 - Ken Yang
 category: research
-excerpt: 'A 2023 working paper from the Canadian advocacy organization Common Wealth
-  Canada estimating the additional economic rent from Canada''s land and natural resources
-  that could be newly captured as public revenue. Two versions exist with materially
-  different land figures: January 2023 v.3 estimates ~$421 billion/year of new rent
-  ($362.5B from a national LVT, via a land-price-growth method); the July 2023 Final
-  revision replaces that method with a 5.5% capitalization rate, cutting the totals
-  to $241 billion/year ($194B from LVT).'
+excerpt: A 2023 working paper from the Canadian advocacy organization Common Wealth
+  Canada estimating the additional economic rent from Canada's land and natural resources
+  that could be newly captured as public revenue.
 last_reviewed: 2026-07-18
 source_url: https://www.commonwealth.ca/s/Natural-Common-Wealth-and-Economic-Rent-in-Canada_Jan-2023.pdf
 stub: false

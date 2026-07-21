@@ -1,11 +1,24 @@
 ---
-title: "Phillip J. Anderson"
 category: people
-tags: [people, phil-anderson, georgism, land-cycle, 18-year-cycle, real-estate, banking, citdiv, property-sharemarket-economics, shepheard-walwyn]
-stub: false
-excerpt: "Australian analyst and author of The Secret Life of Real Estate and Banking (2008), the banking-credit account of the 18-year land cycle; runs the commercial cycle-research service PSE and the citdiv.org dividend-advocacy site. Advocate-practitioner — his investment service's claims are its own marketing."
-sources: [anderson-2008]
+excerpt: Australian analyst and author of The Secret Life of Real Estate and Banking
+  (2008), the banking-credit account of the 18-year land cycle; runs the commercial
+  cycle-research service PSE and the citdiv.org dividend-advocacy site.
 last_reviewed: 2026-07-06
+sources:
+- anderson-2008
+stub: false
+tags:
+- people
+- phil-anderson
+- georgism
+- land-cycle
+- 18-year-cycle
+- real-estate
+- banking
+- citdiv
+- property-sharemarket-economics
+- shepheard-walwyn
+title: Phillip J. Anderson
 ---
 
 ## Overview

@@ -1,16 +1,31 @@
 ---
-title: "The Wealth of Nations (Smith)"
+authors:
+- Adam Smith
 category: books
-tags: [books-publications, adam-smith, wealth-of-nations, classical-economics, ground-rent, land-value-tax, economic-rent, taxation, physiocrats, canons-of-taxation, public-domain]
-authors: [Adam Smith]
-year: 1776
-tier: core
+excerpt: Adam Smith's 1776 founding text of modern economics — read here through a
+  Georgist lens. Book V argues that ground-rents are 'a still more proper subject
+  of taxation than the rent of houses' and 'owe their existence to the good government
+  of the sovereign'; Book I calls the rent of land 'naturally.
+last_reviewed: 2026-07-18
+pd_quotes: true
 source_url: https://www.gutenberg.org/ebooks/3300
 stub: false
-excerpt: "Adam Smith's 1776 founding text of modern economics — read here through a Georgist lens. Book V argues that ground-rents are 'a still more proper subject of taxation than the rent of houses' and 'owe their existence to the good government of the sovereign'; Book I calls the rent of land 'naturally a monopoly price.' Smith is not a Georgist, but George built on him, and these passages are classical roots of the land-value-tax case."
-last_reviewed: 2026-07-18
 supports_outcomes: []
-pd_quotes: true
+tags:
+- books-publications
+- adam-smith
+- wealth-of-nations
+- classical-economics
+- ground-rent
+- land-value-tax
+- economic-rent
+- taxation
+- physiocrats
+- canons-of-taxation
+- public-domain
+tier: core
+title: The Wealth of Nations (Smith)
+year: 1776
 ---
 
 ## Summary

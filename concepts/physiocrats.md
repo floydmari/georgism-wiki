@@ -1,11 +1,25 @@
 ---
-title: "The Physiocrats"
 category: concepts
-tags: [concepts, physiocrats, single-tax, impot-unique, history-of-economics, quesnay, turgot, france, net-product, adam-smith, wealth-of-nations]
-stub: false
-excerpt: "The 18th-century French school led by François Quesnay, A.R.J. Turgot, and the elder Mirabeau, whose doctrine that only land yields a true surplus (the produit net) and whose proposed impôt unique — a single tax on that net product — are the direct intellectual ancestors of Henry George's single tax on land values."
+excerpt: The 18th-century French school led by François Quesnay, A.R.J. Turgot, and
+  the elder Mirabeau, whose doctrine that only land yields a true surplus (the produit
+  net) and whose proposed impôt unique — a single tax on that net product — are the
+  direct intellectual ancestors of Henry George's single.
 last_reviewed: 2026-07-18
 pd_quotes: true
+stub: false
+tags:
+- concepts
+- physiocrats
+- single-tax
+- impot-unique
+- history-of-economics
+- quesnay
+- turgot
+- france
+- net-product
+- adam-smith
+- wealth-of-nations
+title: The Physiocrats
 ---
 
 ## Overview

@@ -1,10 +1,21 @@
 ---
-title: "San Francisco"
 category: places
-tags: [places, san-francisco, housing-affordability, land-value, zoning, geographic-supply-constraints, 1906-earthquake, proposition-13]
-stub: false
-excerpt: "San Francisco is a flagship modern case for the land-driven housing crisis: land accounts for roughly 71% of average home value in the city, it is among the most geographically supply-constrained and highest land-rent metros in mainstream economics research, and its 1906 earthquake rebuild is Mason Gaffney's leading case of land-tax-financed reconstruction."
+excerpt: 'San Francisco is a flagship modern case for the land-driven housing crisis:
+  land accounts for roughly 71% of average home value in the city, it is among the
+  most geographically supply-constrained and highest land-rent metros in mainstream
+  economics research, and its 1906 earthquake rebuild is Mason.'
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- places
+- san-francisco
+- housing-affordability
+- land-value
+- zoning
+- geographic-supply-constraints
+- 1906-earthquake
+- proposition-13
+title: San Francisco
 ---
 
 ## Overview

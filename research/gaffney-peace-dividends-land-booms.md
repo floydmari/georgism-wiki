@@ -1,15 +1,17 @@
 ---
-title: "Gaffney (1991/2005): Peace Dividends, Land Bubbles, and Land Booms"
-category: research
-subcategory: wiki-research-georgism
 authors:
 - Mason Gaffney
-year: 1991
-tier: important
-source_url: https://masongaffney.org/workpapers/WP048%20Peace%20Dividends,%20Land%20Bubbles%20and%20Economic%20Disasters%20in%20U.S.%20History.pdf
 bears_on_objections:
 - cycles-are-credit-not-land
+category: research
+excerpt: 'A two-paper set (1991 US history; 2005 world history) giving Gaffney''s
+  fullest statement of a peace-treaty-driven overlay cycle: major peace settlements
+  repeatedly cut taxes and release land rent to speculation, triggering booms and
+  busts across seven centuries — predating his 2012 AFEE restatement.'
+last_reviewed: 2026-07-18
+source_url: https://masongaffney.org/workpapers/WP048%20Peace%20Dividends,%20Land%20Bubbles%20and%20Economic%20Disasters%20in%20U.S.%20History.pdf
 stub: false
+subcategory: wiki-research-georgism
 tags:
 - research
 - mason-gaffney
@@ -20,8 +22,9 @@ tags:
 - war-finance
 - taxation
 - henry-george
-excerpt: "A two-paper set (1991 US history; 2005 world history) giving Gaffney's fullest statement of a peace-treaty-driven overlay cycle: major peace settlements repeatedly cut taxes and release land rent to speculation, triggering booms and busts across seven centuries — predating his 2012 AFEE restatement of the same thesis by up to 21 years."
-last_reviewed: 2026-07-18
+tier: important
+title: 'Gaffney (1991/2005): Peace Dividends, Land Bubbles, and Land Booms'
+year: 1991
 ---
 
 ## Overview

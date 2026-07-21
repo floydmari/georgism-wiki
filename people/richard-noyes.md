@@ -1,11 +1,21 @@
 ---
-title: "Richard Noyes"
 category: people
-tags: [people, noyes, editor, now-the-synthesis, shepheard-walwyn, land-value-tax, incentive-taxation, georgist-movement]
-stub: false
 died: 2009
-excerpt: "American Georgist activist and New Hampshire newspaper publisher (c. 1923–2009), editor of 'Now the Synthesis' (1991), a multi-author volume arguing that land value taxation represents the synthesis of liberal, socialist, and environmentalist concerns. Published by Shepheard-Walwyn and Centre for Incentive Taxation."
+excerpt: American Georgist activist and New Hampshire newspaper publisher (c. 1923–2009),
+  editor of 'Now the Synthesis' (1991), a multi-author volume arguing that land value
+  taxation represents the synthesis of liberal, socialist, and environmentalist concerns.
 last_reviewed: 2026-07-11
+stub: false
+tags:
+- people
+- noyes
+- editor
+- now-the-synthesis
+- shepheard-walwyn
+- land-value-tax
+- incentive-taxation
+- georgist-movement
+title: Richard Noyes
 ---
 
 ## Summary

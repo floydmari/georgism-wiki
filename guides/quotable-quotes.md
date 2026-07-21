@@ -1,10 +1,18 @@
 ---
-title: "Quotable Quotes: Lines You Can Drop in an Argument"
 category: guides
-tags: [guides, advocate, quotes, debate, quotable, endorsements]
-stub: false
-excerpt: "The most powerful verbatim lines on land, rent, and the single tax — from Adam Smith and Henry George to Milton Friedman and Joseph Stiglitz — each with attribution and the page that carries and verifies it. The cross-spectrum endorsements are the point: this is not a fringe idea, and the quotes prove it out loud."
+excerpt: The most powerful verbatim lines on land, rent, and the single tax — from
+  Adam Smith and Henry George to Milton Friedman and Joseph Stiglitz — each with attribution
+  and the page that carries and verifies it.
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- guides
+- advocate
+- quotes
+- debate
+- quotable
+- endorsements
+title: 'Quotable Quotes: Lines You Can Drop in an Argument'
 ---
 
 ## How to use this

@@ -4,10 +4,8 @@ authors:
 category: research
 excerpt: 'Two complementary Gaffney forest-policy pieces: a 1980 tax-economist''s
   survey weighing property, site-value, yield, and income taxes as bases for taxing
-  private forests ("Alternative Ways of Taxing Forests"), and a 1977 address to
-  the Western Timber Association applying Faustmann/site-rent logic to attack the
-  US Forest Service''s management of the National Forests as a $42-billion,
-  return-free capital hoard ("Greater Social Benefits from our National Forests").'
+  private forests ("Alternative Ways of Taxing Forests"), and a 1977 address to the
+  Western Timber Association applying Faustmann/site-rent logic to.'
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf
 stub: false

@@ -1,17 +1,32 @@
 ---
-title: "Gaffney: Objectives of Government Policy in Leasing Mineral Lands (c. 1975) & Oil and Gas: The Unfinished Tax Reform (1982)"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-resources
-tags: [research, mason-gaffney, resource-rents, leasing-policy, oil-and-gas, tax-loopholes, capital-gains, depletion-allowance, canada, property-tax]
-authors: [Mason Gaffney]
-year: 1975
-tier: Important
+excerpt: 'Two Gaffney essays on how resource rent leaks away from the public purse
+  through two different institutional channels: weak Canadian crown-land leasing design
+  (eight named errors) and US federal income-tax loopholes specific to oil and gas
+  (led by an 80%-of-cost leasehold-abandonment deduction.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf
 stub: false
+subcategory: wiki-research-resources
 supports_outcomes:
 - resource-rent-capture-works
-excerpt: "Two Gaffney essays on how resource rent leaks away from the public purse through two different institutional channels: weak Canadian crown-land leasing design (eight named errors) and US federal income-tax loopholes specific to oil and gas (led by an 80%-of-cost leasehold-abandonment deduction Gaffney says the reform literature had entirely missed)."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- resource-rents
+- leasing-policy
+- oil-and-gas
+- tax-loopholes
+- capital-gains
+- depletion-allowance
+- canada
+- property-tax
+tier: Important
+title: 'Gaffney: Objectives of Government Policy in Leasing Mineral Lands (c. 1975)
+  & Oil and Gas: The Unfinished Tax Reform (1982)'
+year: 1975
 ---
 
 ## Overview

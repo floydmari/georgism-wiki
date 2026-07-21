@@ -4,9 +4,8 @@ authors:
 category: research
 excerpt: 'Gaffney''s longest and most technical employment treatise (68pp, 1976):
   a mathematically derived argument that tax bias favoring long-lived, land-substituting
-  capital over labor and short-lived capital is a structural cause of chronic
-  unemployment, built on a "Great Revolving Fund" model of capital turnover that
-  reappears, unformalized, in his 1993 and 2015 macro writing.'
+  capital over labor and short-lived capital is a structural cause of chronic unemployment,
+  built on a "Great Revolving Fund" model of capital.'
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/I1Full_Employment_Limited_Land_&Capital.CV.pdf
 stub: false

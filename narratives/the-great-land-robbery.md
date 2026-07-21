@@ -1,14 +1,27 @@
 ---
-title: "Narrative: The Great Land Robbery"
 category: narratives
-tags: [narratives, historical-argument, enclosure, dispossession, land-titles, restitution, colonialism]
-stub: false
-excerpt: "The justice narrative: existing land titles descend from enclosure, conquest, and dispossession, not production — so capturing land rent going forward is restitution without confiscation, advocates argue. The history, the revisionist counter-evidence, the strongest objection, and careful deployment guidance."
-narrative_type: historical
-supported_by: [capital-share-rise-is-land]
-related_people: [henry-george, alfred-russel-wallace, leo-tolstoy]
-related_places: []
+excerpt: 'The justice narrative: existing land titles descend from enclosure, conquest,
+  and dispossession, not production — so capturing land rent going forward is restitution
+  without confiscation, advocates argue.'
 last_reviewed: 2026-07-12
+narrative_type: historical
+related_people:
+- henry-george
+- alfred-russel-wallace
+- leo-tolstoy
+related_places: []
+stub: false
+supported_by:
+- capital-share-rise-is-land
+tags:
+- narratives
+- historical-argument
+- enclosure
+- dispossession
+- land-titles
+- restitution
+- colonialism
+title: 'Narrative: The Great Land Robbery'
 ---
 
 *A note on the title: "The Great Land Robbery" is most prominently used today as the

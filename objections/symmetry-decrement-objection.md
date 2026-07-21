@@ -1,11 +1,28 @@
 ---
-title: "Objection: If the Public Owns the Increment, It Must Compensate the Decrement (The Symmetry Objection)"
 category: objections
-tags: [objections, unearned-increment, betterment, worsenment, compensation, uthwatt, hagman, land-value-tax, symmetry]
-stub: false
-status: "Partly conceded, largely answered — the symmetry is real and correct, and it is decisive against one-off increment taxes and betterment levies; but a recurrent land value tax already satisfies it automatically (falling land value → lower tax), so the objection sharpens the design case for annual site-value taxation rather than refuting the georgist programme."
-excerpt: "The georgist case says socially created land-value increases belong to the public. By symmetry, the objection runs, socially created land-value decreases (blight, decline, disaster) must be the public's loss too — the community owes owners compensation when values fall, just as it claims the gains when they rise. The strongest academic statement is the British compensation-and-betterment literature (Uthwatt 1942; Hagman & Misczynski's 'windfalls for wipeouts'). The steelman and the georgist replies, both at strength."
+excerpt: The georgist case says socially created land-value increases belong to the
+  public. By symmetry, the objection runs, socially created land-value decreases (blight,
+  decline, disaster) must be the public's loss too — the community owes owners compensation
+  when values fall, just as it claims the gains.
 last_reviewed: 2026-07-11
+status: Partly conceded, largely answered — the symmetry is real and correct, and
+  it is decisive against one-off increment taxes and betterment levies; but a recurrent
+  land value tax already satisfies it automatically (falling land value → lower tax),
+  so the objection sharpens the design case for annual site-value taxation rather
+  than refuting the georgist programme.
+stub: false
+tags:
+- objections
+- unearned-increment
+- betterment
+- worsenment
+- compensation
+- uthwatt
+- hagman
+- land-value-tax
+- symmetry
+title: 'Objection: If the Public Owns the Increment, It Must Compensate the Decrement
+  (The Symmetry Objection)'
 ---
 
 ## The Objection

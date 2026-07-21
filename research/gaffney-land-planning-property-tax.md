@@ -1,18 +1,29 @@
 ---
-title: "Gaffney (1969): Land Planning and the Property Tax"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-resources
-tags: [research, mason-gaffney, urban-planning, split-rate, land-value-tax, milwaukee, zoning]
-authors: [Mason Gaffney]
-year: 1969
-tier: Important
+excerpt: 'Gaffney''s 1969 AIP Journal article for professional city planners: the
+  primary source of the Milwaukee ''isovalic'' renewal study already covered via its
+  1998 restatement, plus a genuinely new argument — a systematic case that shifting
+  the property tax to land value gives planners more leverage over.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf
 stub: false
+subcategory: wiki-research-resources
 supports_outcomes:
 - lvt-reduces-sprawl
 - split-rate-increases-construction
-excerpt: "Gaffney's 1969 AIP Journal article for professional city planners: the primary source of the Milwaukee 'isovalic' renewal study already covered via its 1998 restatement, plus a genuinely new argument — a systematic case that shifting the property tax to land value gives planners more leverage over private development, not less."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- urban-planning
+- split-rate
+- land-value-tax
+- milwaukee
+- zoning
+tier: Important
+title: 'Gaffney (1969): Land Planning and the Property Tax'
+year: 1969
 ---
 
 ## Overview

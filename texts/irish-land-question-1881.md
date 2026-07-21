@@ -1,14 +1,32 @@
 ---
-title: "The Irish Land Question (Henry George, 1881)"
+authors:
+- Henry George
 category: texts
-tags: [texts, henry-george, irish-land-war, land-question, land-monopoly, single-tax]
-authors: [Henry George]
-year: 1881
-public_domain: true
-provenance: "Henry George, The Irish Land Question: What It Involves and How Alone It Can Be Settled (New York: D. Appleton and Company, 1881; first edition). Transcribed programmatically from the archive.org scan (item irishlandquestio00geor, DJVU OCR text), with OCR line-break de-hyphenation, paragraph rejoining, and targeted correction of scanner artifacts; chapter headings restored from the book's own table of contents (the scan's OCR mangled several roman numerals, including Chapter IV, recovered from context). Residual OCR errors may remain — a T2 proofreading pass against the page images is queued. In later collected editions George retitled the work The Land Question."
-stub: false
-excerpt: "George's 1881 Land War pamphlet arguing that the Irish land question is simply the universal land question — 'the great social problem of the age' — that peasant proprietorship and the Three F's are inadequate remedies, and that the only settlement is to abolish private property in land by taxing land values. The full text of all seventeen chapters."
+excerpt: George's 1881 Land War pamphlet arguing that the Irish land question is simply
+  the universal land question — 'the great social problem of the age' — that peasant
+  proprietorship and the Three F's are inadequate remedies, and that the only settlement
+  is to abolish private property in land by taxing.
 last_reviewed: 2026-07-10
+provenance: 'Henry George, The Irish Land Question: What It Involves and How Alone
+  It Can Be Settled (New York: D. Appleton and Company, 1881; first edition). Transcribed
+  programmatically from the archive.org scan (item irishlandquestio00geor, DJVU OCR
+  text), with OCR line-break de-hyphenation, paragraph rejoining, and targeted correction
+  of scanner artifacts; chapter headings restored from the book''s own table of contents
+  (the scan''s OCR mangled several roman numerals, including Chapter IV, recovered
+  from context). Residual OCR errors may remain — a T2 proofreading pass against the
+  page images is queued. In later collected editions George retitled the work The
+  Land Question.'
+public_domain: true
+stub: false
+tags:
+- texts
+- henry-george
+- irish-land-war
+- land-question
+- land-monopoly
+- single-tax
+title: The Irish Land Question (Henry George, 1881)
+year: 1881
 ---
 
 ## Editorial note

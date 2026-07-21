@@ -1,17 +1,28 @@
 ---
-title: "Gaffney (1961): The Unwieldy Time-Dimension of Space"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-resources
-tags: [research, mason-gaffney, land-monopoly, credit-discrimination, tax-capitalization, land-tenure, theory]
-authors: [Mason Gaffney]
-year: 1961
-tier: Important
+excerpt: 'Gaffney''s earliest (1961) formal theoretical paper: land ownership requires
+  financing a perpetual claim rather than renting services year-to-year, and because
+  interest rates differ by wealth, this ''time-indivisibility'' channels land toward
+  financially strong holders regardless of who would use it.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf
 stub: false
+subcategory: wiki-research-resources
 supports_outcomes:
 - high-land-rents-suppress-productivity
-excerpt: "Gaffney's earliest (1961) formal theoretical paper: land ownership requires financing a perpetual claim rather than renting services year-to-year, and because interest rates differ by wealth, this 'time-indivisibility' channels land toward financially strong holders regardless of who would use it most productively — the earliest known statement, with a derived equation, of the credit-concentration mechanism Gaffney restated for the rest of his career."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- land-monopoly
+- credit-discrimination
+- tax-capitalization
+- land-tenure
+- theory
+tier: Important
+title: 'Gaffney (1961): The Unwieldy Time-Dimension of Space'
+year: 1961
 ---
 
 ## Overview

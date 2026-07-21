@@ -1,11 +1,22 @@
 ---
-title: "Objection: The Search-Theoretic Critique of Georgism"
 category: objections
-tags: [objections, land-value-tax, search-theory, entrepreneurship, austrian, quasi-rent]
-stub: false
-status: "Open — the strongest form targets 100% rent capture; sub-100% rates and discovery subsidies answer the practical version at the cost of conceding some rent stays private"
-excerpt: "Gochenour & Caplan's peer-reviewed critique: much of what looks like land rent is really the reward for costly discovery — finding what a site is worth is itself production — so taxing 100% of land value taxes discovery at a 100% marginal rate, and search stops. The steelman, the replies, and what each side concedes."
+excerpt: 'Gochenour & Caplan''s peer-reviewed critique: much of what looks like land
+  rent is really the reward for costly discovery — finding what a site is worth is
+  itself production — so taxing 100% of land value taxes discovery at a 100% marginal
+  rate, and search stops.'
 last_reviewed: 2026-07-12
+status: Open — the strongest form targets 100% rent capture; sub-100% rates and discovery
+  subsidies answer the practical version at the cost of conceding some rent stays
+  private
+stub: false
+tags:
+- objections
+- land-value-tax
+- search-theory
+- entrepreneurship
+- austrian
+- quasi-rent
+title: 'Objection: The Search-Theoretic Critique of Georgism'
 ---
 
 ## The Objection

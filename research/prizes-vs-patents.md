@@ -8,8 +8,7 @@ category: research
 excerpt: 'The prize-alternative literature: reward invention without the monopoly.
   Wright (1983) frames patents/prizes/contracts as a choice under asymmetric information;
   Kremer (1998) proposes buying out patents at auction-estimated value and placing
-  them in the public domain; the pneumococcal Advance Market Commitment is the modern
-  working example — ~$1.5bn, 150M+ children immunized, ~700,000 lives saved.'
+  them in the public domain; the pneumococcal Advance.'
 last_reviewed: 2026-07-11
 source_url: https://dash.harvard.edu/bitstream/handle/1/3693705/Kremer_PatentBuyouts.pdf
 stub: false

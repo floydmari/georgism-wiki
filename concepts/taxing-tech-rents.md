@@ -1,10 +1,21 @@
 ---
-title: "Taxing Tech Rents — an Instrument Comparison"
 category: concepts
-tags: [concepts, data-rents, platform-economy, rent-targeting-taxes, digital-services-tax, interoperability, geoism, quasi-rent]
-stub: false
-excerpt: "How would you actually capture platform and data rents? Five instrument families graded — rent-targeting corporate taxes (ACE/DBCFT), digital services taxes, Romer's progressive ad tax, data dividends, and rent-dissolution via antitrust/DMA — against one hard prior: whether big-tech profit is rent or the quasi-rent that rewards real innovation is genuinely disputed."
+excerpt: 'How would you actually capture platform and data rents? Five instrument
+  families graded — rent-targeting corporate taxes (ACE/DBCFT), digital services taxes,
+  Romer''s progressive ad tax, data dividends, and rent-dissolution via antitrust/DMA
+  — against one hard prior: whether big-tech profit is rent.'
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- concepts
+- data-rents
+- platform-economy
+- rent-targeting-taxes
+- digital-services-tax
+- interoperability
+- geoism
+- quasi-rent
+title: Taxing Tech Rents — an Instrument Comparison
 ---
 
 ## The Question

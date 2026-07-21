@@ -1,11 +1,23 @@
 ---
-title: "Objection: if LVT is so good, why has almost no one adopted it?"
 category: objections
-tags: [objections, adoption, political-economy, revealed-preference, implementation, critique]
-stub: false
-status: "Partly conceded — the endorsement-vs-adoption gap is real and the rollback record (UK 1931, Altoona, Pittsburgh) shows the transition and assessment problems are not merely theoretical; but 'revealed preference proves it's wrong' overreaches, since diluted forms are in fact widespread and non-adoption is exactly what political economy predicts for a reform that gores a concentrated interest."
-excerpt: "The revealed-preference challenge: a tax that economists from Smith to Friedman call near-perfect, yet almost no jurisdiction runs in pure form and several have repealed — surely that absence is itself evidence against it. The steelman, the actual adoption record, why good policies routinely go unadopted, and what the rollbacks really show."
+excerpt: 'The revealed-preference challenge: a tax that economists from Smith to Friedman
+  call near-perfect, yet almost no jurisdiction runs in pure form and several have
+  repealed — surely that absence is itself evidence against it.'
 last_reviewed: 2026-07-13
+status: Partly conceded — the endorsement-vs-adoption gap is real and the rollback
+  record (UK 1931, Altoona, Pittsburgh) shows the transition and assessment problems
+  are not merely theoretical; but 'revealed preference proves it's wrong' overreaches,
+  since diluted forms are in fact widespread and non-adoption is exactly what political
+  economy predicts for a reform that gores a concentrated interest.
+stub: false
+tags:
+- objections
+- adoption
+- political-economy
+- revealed-preference
+- implementation
+- critique
+title: 'Objection: if LVT is so good, why has almost no one adopted it?'
 ---
 
 ## The Objection

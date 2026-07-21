@@ -4,13 +4,14 @@ authors:
 category: research
 excerpt: 'Hilber''s survey of the capitalization literature establishes the key conditional:
   fiscal variables capitalize into house prices more fully where housing supply is
-  inelastic (regulatory or geographical constraints), and less where supply can respond.
-  The nuance that connects the property-tax record to the pure-land-tax case.'
+  inelastic (regulatory or geographical constraints), and less where supply can respond.'
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1111/1540-6229.12129
 stub: false
-supports_outcomes: [public-investment-capitalizes-into-land, landlords-cannot-pass-lvt-to-tenants]
 subcategory: wiki-research-resources
+supports_outcomes:
+- public-investment-capitalizes-into-land
+- landlords-cannot-pass-lvt-to-tenants
 tags:
 - research
 - tax-capitalization

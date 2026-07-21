@@ -1,16 +1,30 @@
 ---
-title: "Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide"
+authors:
+- Atif Mian
+- Amir Sufi
+- Emil Verner
 category: research
-subcategory: wiki-research-finance
-tags: [research, credit, mortgage, household-debt, business-cycle, financialization, finance-rents]
-authors: [Atif Mian, Amir Sufi, Emil Verner]
-year: 2017
-tier: Important
+excerpt: A 30-country panel (1960–2012) showing that a rise in the household debt
+  to GDP ratio — household borrowing being overwhelmingly mortgage credit — predicts
+  lower subsequent GDP growth, not the investment boom a productivity story would
+  imply, and is driven by credit-supply shocks proxied by.
+last_reviewed: 2026-07-12
 source_url: https://bfi.uchicago.edu/wp-content/uploads/MianSufiVerner_worlddebt-1.pdf
 stub: false
-excerpt: "A 30-country panel (1960–2012) showing that a rise in the household debt to GDP ratio — household borrowing being overwhelmingly mortgage credit — predicts lower subsequent GDP growth, not the investment boom a productivity story would imply, and is driven by credit-supply shocks proxied by mortgage spreads. The distinct macro result behind the 'financial deepening is really land-credit' reading."
-last_reviewed: 2026-07-12
-supports_outcomes: [finance-growth-is-land-credit]
+subcategory: wiki-research-finance
+supports_outcomes:
+- finance-growth-is-land-credit
+tags:
+- research
+- credit
+- mortgage
+- household-debt
+- business-cycle
+- financialization
+- finance-rents
+tier: Important
+title: 'Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide'
+year: 2017
 ---
 
 ## Summary

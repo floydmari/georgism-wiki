@@ -13,9 +13,7 @@ evidence_strength: Moderate (direct poverty evidence is descriptive or simulated
 excerpt: Descriptive and causal evidence from Alaska's Permanent Fund Dividend, a
   second oil-royalty-funded dividend in Maricá, Brazil, and a peer-reviewed global
   simulation indicate that distributing rent as equal per-capita dividends reduces
-  poverty and compresses the income distribution — though one econometric study finds
-  inequality worsened and a lump-sum-timing study finds a short-run substance-abuse
-  spike.
+  poverty and compresses the income distribution — though one.
 last_reviewed: 2026-07-18
 stub: false
 supported_by:

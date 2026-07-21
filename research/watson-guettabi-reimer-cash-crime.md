@@ -6,8 +6,7 @@ authors:
 category: research
 excerpt: 'A quasi-experimental study of Alaska''s Permanent Fund Dividend and crime:
   the annual payment raises substance-abuse incidents in the days after disbursement
-  but lowers property crime, with small net effects on an annual basis. Mixed evidence
-  — a genuine downside of lump-sum universal transfers, honestly carried.'
+  but lowers property crime, with small net effects on an annual basis.'
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1162/rest_a_00834
 stub: false

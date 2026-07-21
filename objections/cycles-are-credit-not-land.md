@@ -1,11 +1,23 @@
 ---
-title: "Objection: property cycles are driven by credit, not land"
 category: objections
-tags: [objections, business-cycle, credit, finance, land-speculation, 18-year-cycle, critique]
-stub: false
-status: "Partly conceded — the pure 'autonomous land clock' claim is the wiki's weakest, and the credit critique lands against it; the defensible claim is that land is the dominant collateral through which credit booms run, so the two accounts describe one machine and their remedies are complements."
-excerpt: "The credit school argues the boom-bust regularity that actually predicts crises is credit growth, not land speculation (Schularick & Taylor: 'credit booms gone wrong'), and Minsky-style leverage dynamics need no land to generate cycles. The steelman, why land and credit are largely the same phenomenon in the mortgage book, and what the wiki should stop overselling."
+excerpt: 'The credit school argues the boom-bust regularity that actually predicts
+  crises is credit growth, not land speculation (Schularick & Taylor: ''credit booms
+  gone wrong''), and Minsky-style leverage dynamics need no land to generate cycles.'
 last_reviewed: 2026-07-18
+status: Partly conceded — the pure 'autonomous land clock' claim is the wiki's weakest,
+  and the credit critique lands against it; the defensible claim is that land is the
+  dominant collateral through which credit booms run, so the two accounts describe
+  one machine and their remedies are complements.
+stub: false
+tags:
+- objections
+- business-cycle
+- credit
+- finance
+- land-speculation
+- 18-year-cycle
+- critique
+title: 'Objection: property cycles are driven by credit, not land'
 ---
 
 ## The Objection

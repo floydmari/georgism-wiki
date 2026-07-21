@@ -1,17 +1,32 @@
 ---
-title: "IAAO Standards: Ratio Studies & Property Tax Policy"
+authors:
+- International Association of Assessing Officers
+bears_on_objections:
+- land-cannot-be-assessed
 category: research
-subcategory: wiki-research-lvt
-tags: [research, assessment, mass-appraisal, ratio-study, cod, prd, prb, standards, iaao, property-tax]
-authors: [International Association of Assessing Officers]
-year: 2013
-tier: Important
+excerpt: The canonical, freely-downloadable IAAO standards behind the wiki's assessment-quality
+  metrics (COD, PRD, PRB) and the profession's own core principles for property tax
+  policy — read first-hand rather than at second hand through Doucet or Hefferan &
+  Boyd.
+last_reviewed: 2026-07-18
 source_url: https://www.iaao.org/wp-content/uploads/Standard_on_Ratio_Studies.pdf
 stub: false
-excerpt: "The canonical, freely-downloadable IAAO standards behind the wiki's assessment-quality metrics (COD, PRD, PRB) and the profession's own core principles for property tax policy — read first-hand rather than at second hand through Doucet or Hefferan & Boyd. The policy standard says essentially nothing about land value taxation."
-last_reviewed: 2026-07-18
-bears_on_objections: [land-cannot-be-assessed]
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- assessment
+- mass-appraisal
+- ratio-study
+- cod
+- prd
+- prb
+- standards
+- iaao
+- property-tax
+tier: Important
+title: 'IAAO Standards: Ratio Studies & Property Tax Policy'
+year: 2013
 ---
 
 ## Summary

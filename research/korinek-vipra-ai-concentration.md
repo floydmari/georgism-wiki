@@ -1,16 +1,32 @@
 ---
-title: "Korinek & Vipra — Concentrating Intelligence: Scaling and Market Structure in AI"
+authors:
+- Anton Korinek
+- Jai Vipra
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-subcategory: wiki-research-resources
-tags: [research, artificial-intelligence, market-concentration, economic-rent, antitrust, compute, data-rents, geoism, quasi-rent]
-authors: [Anton Korinek, Jai Vipra]
-year: 2025
-tier: Important
+excerpt: 'The freshest official diagnosis of whether AI-firm profit is rent: foundation
+  models combine massive fixed compute costs with near-zero marginal cost, a near-monopoly
+  compute supplier (Nvidia), and talent bottlenecks — a textbook setup for ''monopoly
+  rents,'' the authors'' own phrase.'
+last_reviewed: 2026-07-18
 source_url: https://www.ineteconomics.org/uploads/papers/WP_228-Korinek-and-Vipra.pdf
 stub: false
-excerpt: "The freshest official diagnosis of whether AI-firm profit is rent: foundation models combine massive fixed compute costs with near-zero marginal cost, a near-monopoly compute supplier (Nvidia), and talent bottlenecks — a textbook setup for 'monopoly rents,' the authors' own phrase. But the same paper documents fierce Bertrand-like price competition among frontier labs, cutting against the rent reading in the here-and-now."
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
-last_reviewed: 2026-07-18
+subcategory: wiki-research-resources
+tags:
+- research
+- artificial-intelligence
+- market-concentration
+- economic-rent
+- antitrust
+- compute
+- data-rents
+- geoism
+- quasi-rent
+tier: Important
+title: 'Korinek & Vipra — Concentrating Intelligence: Scaling and Market Structure
+  in AI'
+year: 2025
 ---
 
 ## Summary

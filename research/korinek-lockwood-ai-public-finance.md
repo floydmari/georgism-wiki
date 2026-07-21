@@ -1,16 +1,32 @@
 ---
-title: "Korinek & Lockwood — Public Finance in the Age of AI: A Primer"
+authors:
+- Anton Korinek
+- Lee Lockwood
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-subcategory: wiki-research-resources
-tags: [research, artificial-intelligence, taxation, economic-rent, cash-flow-tax, land-value-tax, sovereign-wealth-fund, universal-basic-capital, geoism, quasi-rent]
-authors: [Anton Korinek, Lee Lockwood]
-year: 2026
-tier: Important
+excerpt: 'The freshest tax-design theory for AI rents, and unexpectedly Georgist in
+  structure: the authors'' central efficiency principle — do not tax the normal return
+  to capital, but tax rents from fixed factors (their own example: ''unimproved land,
+  spectrum rights, unique datasets'') at rates approaching.'
+last_reviewed: 2026-07-18
 source_url: https://www.nber.org/system/files/working_papers/w34873/w34873.pdf
 stub: false
-excerpt: "The freshest tax-design theory for AI rents, and unexpectedly Georgist in structure: the authors' central efficiency principle — do not tax the normal return to capital, but tax rents from fixed factors (their own example: 'unimproved land, spectrum rights, unique datasets') at rates approaching 100% because they are 'by definition not necessary to induce the activity generating them.' Maps every live AI-tax proposal (robot, compute, token, digital-services) onto that rent/normal-return line."
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
-last_reviewed: 2026-07-18
+subcategory: wiki-research-resources
+tags:
+- research
+- artificial-intelligence
+- taxation
+- economic-rent
+- cash-flow-tax
+- land-value-tax
+- sovereign-wealth-fund
+- universal-basic-capital
+- geoism
+- quasi-rent
+tier: Important
+title: 'Korinek & Lockwood — Public Finance in the Age of AI: A Primer'
+year: 2026
 ---
 
 ## Summary

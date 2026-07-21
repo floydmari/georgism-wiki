@@ -3,13 +3,14 @@ category: benefits
 challenged_by:
 - sachs-warner-resource-curse
 claim_type: benefit
-evidence_strength: "Strong for the flagship case (Norway), conditional in general — capture works where fiscal design and institutions are strong; the resource curse is real where they are weak"
-last_reviewed: 2026-07-18
+evidence_strength: Strong for the flagship case (Norway), conditional in general —
+  capture works where fiscal design and institutions are strong; the resource curse
+  is real where they are weak
 excerpt: 'High-rate capture of natural-resource rent is workable and durable: Norway
   taxes petroleum at a 78% marginal rate on a cash-flow basis, has banked over $2
   trillion in the world''s largest sovereign wealth fund, and spends only ~3% a year
-  — the textbook escape from the resource curse. But the escape is institutional,
-  not automatic; where institutions are weak, resource rents are still a curse.'
+  — the textbook escape from the resource curse.'
+last_reviewed: 2026-07-18
 stub: false
 supported_by:
 - resource-rents

@@ -1,16 +1,35 @@
 ---
-title: "The Short-Run Effects of Congestion Pricing in New York City (Cook, Kreidieh & Vasserman et al.)"
+authors:
+- Cody Cook
+- Aboudy Kreidieh
+- Shoshana Vasserman
+- Hunt Allcott
+- Neha Arora
+- Freek van Sambeek
+- Andrew Tomkins
+- Eray Turkel
 category: research
-subcategory: wiki-research-georgism
-tags: [research, congestion-pricing, road-pricing, new-york, synthetic-control, pigouvian, road-space-rents, welfare]
-authors: [Cody Cook, Aboudy Kreidieh, Shoshana Vasserman, Hunt Allcott, Neha Arora, Freek van Sambeek, Andrew Tomkins, Eray Turkel]
-year: 2025
-tier: Important
+excerpt: The first causal evaluation of New York's January 2025 CBD Tolling Program
+  — the first cordon congestion charge in the US.
+last_reviewed: 2026-07-12
 source_url: https://doi.org/10.3386/w33584
 stub: false
-excerpt: "The first causal evaluation of New York's January 2025 CBD Tolling Program — the first cordon congestion charge in the US. A generalized synthetic-controls design finds CBD road speeds rose 11%, with faster trips spilling over across the metro area and driver-welfare gains of at least $14.3 million/week, though little-to-no effect on air quality."
-last_reviewed: 2026-07-12
-supports_outcomes: [congestion-pricing-reduces-traffic]
+subcategory: wiki-research-georgism
+supports_outcomes:
+- congestion-pricing-reduces-traffic
+tags:
+- research
+- congestion-pricing
+- road-pricing
+- new-york
+- synthetic-control
+- pigouvian
+- road-space-rents
+- welfare
+tier: Important
+title: The Short-Run Effects of Congestion Pricing in New York City (Cook, Kreidieh
+  & Vasserman et al.)
+year: 2025
 ---
 
 ## Summary

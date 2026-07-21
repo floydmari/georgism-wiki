@@ -4,12 +4,8 @@ authors:
 - State of Maryland
 - U.S. Court of Appeals for the Fourth Circuit
 category: research
-excerpt: 'Romer''s proposal did not stay theoretical: Maryland enacted the first
-  US digital advertising tax in 2021 after Romer testified for it. Five years on,
-  the tax has collected roughly $90-120m/year against a $250m projection, survived
-  a Maryland Supreme Court procedural ruling, and lost its "pass-through ban" to
-  a unanimous Fourth Circuit First Amendment ruling in 2025 — while the core
-  constitutional merits case is still unresolved.'
+excerpt: 'Romer''s proposal did not stay theoretical: Maryland enacted the first US
+  digital advertising tax in 2021 after Romer testified for it.'
 last_reviewed: 2026-07-18
 source_url: https://services.marylandcomptroller.gov/taxes?id=kb_article_view&sysparm_article=KB0010082
 stub: false

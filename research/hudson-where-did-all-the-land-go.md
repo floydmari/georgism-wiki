@@ -4,8 +4,7 @@ authors:
 category: research
 excerpt: Michael Hudson's 2001 critique of how the Federal Reserve's balance-sheet
   accounting imputes land value as a residual — a method that drove implied US corporate
-  land values negative. The accounting critique is checkable and independently corroborated;
-  Hudson's political interpretations stay attributed.
+  land values negative.
 last_reviewed: 2026-07-10
 source_url: https://michael-hudson.com/2001/03/where-did-all-the-land-go-the-feds-new-balance-sheet-calculationsa-critique-of-land-value-statistics/
 stub: false

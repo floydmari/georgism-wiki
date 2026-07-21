@@ -1,17 +1,31 @@
 ---
-title: "The Deportations Delirium of Nineteen-Twenty (Louis F. Post, 1923)"
+authors:
+- Louis F. Post
 category: books
-tags: [books, louis-f-post, single-tax, the-public, civil-liberties, palmer-raids, red-scare, deportation, progressive-era, primary-source]
-stub: false
-excerpt: "Louis F. Post's 1923 first-hand account of the 1919–20 Palmer Raids, written by the Assistant Secretary of Labor and single-tax editor who reviewed ~1,600 deportation cases, cancelled well over 1,500 warrants as unlawfully obtained, and beat an impeachment attempt for it. Public domain — full text hosted in this repository."
-authors: [Louis F. Post]
-year: 1923
-tier: Important
-publisher: "Charles H. Kerr & Company, Chicago"
-page_count: 332
-scanned_by: campaign-transcription
-scan_date: 2026-07-10
+excerpt: Louis F. Post's 1923 first-hand account of the 1919–20 Palmer Raids, written
+  by the Assistant Secretary of Labor and single-tax editor who reviewed ~1,600 deportation
+  cases, cancelled well over 1,500 warrants as unlawfully obtained, and beat an impeachment
+  attempt for it.
 last_reviewed: 2026-07-10
+page_count: 332
+publisher: Charles H. Kerr & Company, Chicago
+scan_date: 2026-07-10
+scanned_by: campaign-transcription
+stub: false
+tags:
+- books
+- louis-f-post
+- single-tax
+- the-public
+- civil-liberties
+- palmer-raids
+- red-scare
+- deportation
+- progressive-era
+- primary-source
+tier: Important
+title: The Deportations Delirium of Nineteen-Twenty (Louis F. Post, 1923)
+year: 1923
 ---
 
 ## What It Is

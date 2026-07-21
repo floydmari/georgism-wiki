@@ -2,11 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s September 1957 monograph deriving the Faustmann formula from
-  marginalist first principles and applying it to US forestry policy — his most
-  academically cited work, credited by economists (including Gaffney''s own later
-  account) with helping trigger the 1957-76 revival of interest in Faustmann''s
-  formula that culminated in Paul Samuelson''s landmark 1976 endorsement.'
+excerpt: Gaffney's September 1957 monograph deriving the Faustmann formula from marginalist
+  first principles and applying it to US forestry policy — his most academically cited
+  work, credited by economists (including Gaffney's own later account) with helping
+  trigger the 1957-76 revival of interest in.
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf
 stub: false

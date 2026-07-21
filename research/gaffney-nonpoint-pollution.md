@@ -1,17 +1,31 @@
 ---
-title: "Gaffney (1988/89): Nonpoint Pollution — Tractable Solutions to Intractable Problems"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-resources
-tags: [research, mason-gaffney, pollution, pigouvian-taxation, nonpoint-pollution, urban-sprawl, forestry, land-use, environmental-economics]
-authors: [Mason Gaffney]
-year: 1988
-tier: Important
+excerpt: Gaffney's critique of the standard Pigouvian toolkit (effluent charges, taxed
+  surrogates, tradeable pollution rights) for diffuse 'nonpoint' pollution — runoff
+  has no meterable point to tax — arguing the deeper cause is land-market failure
+  (sprawl, absentee speculation, tax-distorted timing) and.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf
 stub: false
+subcategory: wiki-research-resources
 supports_outcomes:
 - lvt-reduces-sprawl
-excerpt: "Gaffney's critique of the standard Pigouvian toolkit (effluent charges, taxed surrogates, tradeable pollution rights) for diffuse 'nonpoint' pollution — runoff has no meterable point to tax — arguing the deeper cause is land-market failure (sprawl, absentee speculation, tax-distorted timing) and the fix is land-value taxation and compact settlement, not a cleverer emissions tax."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- pollution
+- pigouvian-taxation
+- nonpoint-pollution
+- urban-sprawl
+- forestry
+- land-use
+- environmental-economics
+tier: Important
+title: 'Gaffney (1988/89): Nonpoint Pollution — Tractable Solutions to Intractable
+  Problems'
+year: 1988
 ---
 
 ## Overview

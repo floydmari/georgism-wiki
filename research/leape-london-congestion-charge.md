@@ -2,10 +2,8 @@
 authors:
 - Jonathan Leape
 category: research
-excerpt: 'Leape''s Journal of Economic Perspectives review of London''s 2003 congestion
-  charge — the standard economist''s evaluation. Traffic and congestion fell substantially
-  and stayed down, and Leape reads the scheme as ''a triumph of economics'': public
-  recognition of congestion as an externality and road pricing as the correct response.'
+excerpt: Leape's Journal of Economic Perspectives review of London's 2003 congestion
+  charge — the standard economist's evaluation.
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1257/jep.20.4.157
 stub: false

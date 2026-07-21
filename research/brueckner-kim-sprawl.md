@@ -3,10 +3,9 @@ authors:
 - Jan K. Brueckner
 - Hyun-A Kim
 category: research
-excerpt: 'Brueckner & Kim''s 2003 theoretical paper shows the conventional property
+excerpt: Brueckner & Kim's 2003 theoretical paper shows the conventional property
   tax has two opposing effects on city size, so its net effect on sprawl is ambiguous
-  — and under low substitution the tax can actually encourage sprawl. Carried here
-  as counter-evidence: the anti-sprawl case cannot rest on the property tax alone.'
+  — and under low substitution the tax can actually encourage sprawl.
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1023/A:1022260512147
 stub: false

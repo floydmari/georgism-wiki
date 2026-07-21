@@ -5,9 +5,7 @@ category: research
 excerpt: 'The U.S. Government Accountability Office''s 2020 report is where the wiki''s
   load-bearing within-market estimate comes from: in a weighted fixed-effects panel
   of HUD Continuum-of-Care communities over 2012–2018, a $100 increase in a community''s
-  median rent is associated with about a 9 percent increase in its homelessness rate.
-  The report is simultaneously a critique of HUD''s point-in-time counts, which makes
-  its own caveats part of the evidence.'
+  median rent is associated with about a 9 percent.'
 last_reviewed: 2026-07-11
 source_url: https://www.gao.gov/products/gao-20-433
 stub: false

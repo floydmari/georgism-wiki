@@ -5,8 +5,7 @@ authors:
 category: research
 excerpt: Thirty years of European data show carbon taxes did not shrink GDP or employment
   — the point estimates are zero to modestly positive — while still delivering a cumulative
-  4–6% emissions cut for a $40/tonne tax covering 30% of emissions. The evidence for
-  the 'without wrecking growth' half of the carbon-pricing claim.
+  4–6% emissions cut for a $40/tonne tax covering 30% of emissions.
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1257/mac.20210052
 stub: false

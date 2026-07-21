@@ -1,13 +1,23 @@
 ---
-title: "Progress and Poverty, Book X: The Law of Human Progress"
+authors:
+- Henry George
 category: books
-tags: [books-publications, progress-and-poverty, henry-george, georgism, philosophy-of-history, public-domain]
-authors: [Henry George]
-year: 1879
-tier: core
-stub: false
-excerpt: "A summary of Book X of Henry George's Progress and Poverty — his own speculative theory of civilization: a critique of Spencerian evolutionary progress, the association-and-equality thesis, Rome as the case study in inequality-driven collapse, and his warning that democratic civilization could decline the same way."
+excerpt: 'A summary of Book X of Henry George''s Progress and Poverty — his own speculative
+  theory of civilization: a critique of Spencerian evolutionary progress, the association-and-equality
+  thesis, Rome as the case study in inequality-driven collapse, and his warning that
+  democratic civilization could.'
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- books-publications
+- progress-and-poverty
+- henry-george
+- georgism
+- philosophy-of-history
+- public-domain
+tier: core
+title: 'Progress and Poverty, Book X: The Law of Human Progress'
+year: 1879
 ---
 
 ## Overview

@@ -1,10 +1,20 @@
 ---
-title: "House Price-Credit Feedback Cycle"
 category: concepts
-tags: [concepts, business-cycle, credit, mortgage, land, finance, stub]
-stub: true
-excerpt: "A self-reinforcing loop in which mortgage credit bids up land prices, the resulting higher collateral values support even larger loans, and the cycle repeats until a shock triggers defaults and a crash — the macro-financial mechanism at the center of Ryan-Collins, Lloyd & Macfarlane's land-and-housing analysis."
+excerpt: A self-reinforcing loop in which mortgage credit bids up land prices, the
+  resulting higher collateral values support even larger loans, and the cycle repeats
+  until a shock triggers defaults and a crash — the macro-financial mechanism at the
+  center of Ryan-Collins, Lloyd & Macfarlane's.
 last_reviewed: 2026-07-11
+stub: true
+tags:
+- concepts
+- business-cycle
+- credit
+- mortgage
+- land
+- finance
+- stub
+title: House Price-Credit Feedback Cycle
 ---
 
 ## Overview

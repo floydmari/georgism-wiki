@@ -1,15 +1,29 @@
 ---
-title: "Tolstoy: Principles for a New World Order"
+authors:
+- Redfearn
+- R.K.
 category: books
-tags: [research, books-publications, leo-tolstoy, henry-george, single-tax, land-value-tax, anarchism, russian-reform, shepheard-walwyn, fred-harrison]
-authors: [Redfearn, R.K.]
-year: 1992
-tier: important
-stub: false
-excerpt: "Redfearn's 1992 book traces Tolstoy's engagement with Henry George's land reform ideas, documenting Tolstoy's advocacy of the single tax, his critique of state violence, and the connection between Georgism and Tolstoy's Christian anarchism. Published by Shepheard-Walwyn with Fred Harrison's encouragement."
+excerpt: Redfearn's 1992 book traces Tolstoy's engagement with Henry George's land
+  reform ideas, documenting Tolstoy's advocacy of the single tax, his critique of
+  state violence, and the connection between Georgism and Tolstoy's Christian anarchism.
 last_reviewed: 2026-07-07
-supports_outcomes: []
 pd_quotes: true
+stub: false
+supports_outcomes: []
+tags:
+- research
+- books-publications
+- leo-tolstoy
+- henry-george
+- single-tax
+- land-value-tax
+- anarchism
+- russian-reform
+- shepheard-walwyn
+- fred-harrison
+tier: important
+title: 'Tolstoy: Principles for a New World Order'
+year: 1992
 ---
 
 ## Summary

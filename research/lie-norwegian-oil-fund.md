@@ -1,17 +1,29 @@
 ---
-title: "Learning by Failing: The Origins of the Norwegian Oil Fund (Lie)"
+authors:
+- Einar Lie
+bears_on_objections:
+- rent-revenue-breeds-corruption
 category: research
-subcategory: wiki-research-lvt
-tags: [research, resource-rents, sovereign-wealth-fund, norway, fiscal-rule, institutions, economic-history]
-authors: [Einar Lie]
-year: 2018
-tier: important
+excerpt: An economic-historian's archival account of how Norway's oil fund and fiscal
+  rule were built — the institutional design that lets high-rate rent capture actually
+  work.
+last_reviewed: 2026-07-12
 source_url: https://doi.org/10.1080/03468755.2018.1430657
 stub: false
-excerpt: "An economic-historian's archival account of how Norway's oil fund and fiscal rule were built — the institutional design that lets high-rate rent capture actually work. The fund channels all petroleum revenue abroad and allows only the return to be spent, an explicit device to avoid the Dutch disease that curses other producers."
-supports_outcomes: [resource-rent-capture-works]
-last_reviewed: 2026-07-12
-bears_on_objections: [rent-revenue-breeds-corruption]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- resource-rent-capture-works
+tags:
+- research
+- resource-rents
+- sovereign-wealth-fund
+- norway
+- fiscal-rule
+- institutions
+- economic-history
+tier: important
+title: 'Learning by Failing: The Origins of the Norwegian Oil Fund (Lie)'
+year: 2018
 ---
 
 ## Summary

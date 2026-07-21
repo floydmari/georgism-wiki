@@ -1,14 +1,27 @@
 ---
-title: "The Budget Resolutions (Churchill, House of Commons, 4 May 1909)"
+authors:
+- Winston Churchill
 category: texts
-tags: [texts, winston-churchill, unearned-increment, 1909-peoples-budget, land-value-tax, land-monopoly]
-authors: [Winston Churchill]
-year: 1909
-public_domain: true
-provenance: "Winston S. Churchill, 'The Budget Resolutions,' House of Commons, 4 May 1909, as collected in his Liberalism and the Social Problem (London: Hodder & Stoughton, 1909). Text from Project Gutenberg #18419 (the Gutenberg transcription's dateline misprints the year as '1903'; the book's own table of contents dates the speech May 4, 1909, consistent with the Budget's April 29, 1909 introduction). Churchill's two footnotes identifying the members referred to are retained."
-stub: false
-excerpt: "Churchill's Commons defence of the People's Budget land taxes, 4 May 1909 — the parliamentary companion to his Edinburgh 'Mother of All Monopolies' speech. Contains his answer to the 'why not tax the unearned increment on stocks?' objection: the land increment 'arises from a wholly sterile process' while other investment carries service and risk. The full speech."
+excerpt: Churchill's Commons defence of the People's Budget land taxes, 4 May 1909
+  — the parliamentary companion to his Edinburgh 'Mother of All Monopolies' speech.
 last_reviewed: 2026-07-09
+provenance: 'Winston S. Churchill, ''The Budget Resolutions,'' House of Commons, 4
+  May 1909, as collected in his Liberalism and the Social Problem (London: Hodder
+  & Stoughton, 1909). Text from Project Gutenberg #18419 (the Gutenberg transcription''s
+  dateline misprints the year as ''1903''; the book''s own table of contents dates
+  the speech May 4, 1909, consistent with the Budget''s April 29, 1909 introduction).
+  Churchill''s two footnotes identifying the members referred to are retained.'
+public_domain: true
+stub: false
+tags:
+- texts
+- winston-churchill
+- unearned-increment
+- 1909-peoples-budget
+- land-value-tax
+- land-monopoly
+title: The Budget Resolutions (Churchill, House of Commons, 4 May 1909)
+year: 1909
 ---
 
 ## Editorial note

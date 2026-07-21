@@ -7,7 +7,7 @@ category: research
 excerpt: 'AER quasi-experimental study of 6,800 German municipal tax changes: workers
   bear about half the corporate tax burden, transmitted through rent-sharing in wage
   bargaining — the mechanism by which even a pure rent tax can be partly shifted to
-  labor. The most important incidence complication in the rent-targeting tax file.'
+  labor.'
 last_reviewed: 2026-07-06
 source_url: https://www.aeaweb.org/articles?id=10.1257/aer.20130570
 stub: false

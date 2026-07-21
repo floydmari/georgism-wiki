@@ -9,7 +9,7 @@ category: research
 excerpt: A De Nederlandsche Bank study assembling a new disaggregated bank-credit
   dataset for 74 economies, 1990–2013/2016, documenting a 'debt shift' in bank lending
   away from non-financial business and toward household mortgages — the broadest-panel
-  confirmation that modern bank credit growth is real-estate credit.
+  confirmation that modern bank credit growth is.
 last_reviewed: 2026-07-13
 source_url: https://ssrn.com/abstract=2992621
 stub: false

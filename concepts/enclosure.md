@@ -1,10 +1,18 @@
 ---
-title: "Enclosure"
 category: concepts
-tags: [concepts, enclosure, land-monopoly, commons, land-rights, unearned-increment, england]
-stub: false
-excerpt: "The legal conversion of commonly-used land — open fields and commons — into exclusive private property, extinguishing the use-rights of commoners. In England, carried out on a vast scale by parliamentary Inclosure Acts; the historical mechanism of land dispossession that the Georgist land-robbery narrative invokes."
+excerpt: The legal conversion of commonly-used land — open fields and commons — into
+  exclusive private property, extinguishing the use-rights of commoners.
 last_reviewed: 2026-07-09
+stub: false
+tags:
+- concepts
+- enclosure
+- land-monopoly
+- commons
+- land-rights
+- unearned-increment
+- england
+title: Enclosure
 ---
 
 ## Overview

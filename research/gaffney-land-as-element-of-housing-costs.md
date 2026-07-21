@@ -1,15 +1,27 @@
 ---
-title: "Gaffney (1968): Land as an Element of Housing Costs"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-housing
-tags: [research, mason-gaffney, housing-costs, property-tax, capitalization, capital-gains, zoning, tax-assessment]
-authors: [Mason Gaffney]
-year: 1968
-tier: important
+excerpt: 'Gaffney''s 1968 IDA/HUD study essay: an early, pre-Oates statement that
+  cutting property taxes generally just enriches landowners rather than lowering housing
+  costs, plus an exhaustive catalogue of Federal income-tax provisions — accelerated
+  land depreciation write-offs, capital-gains deferral.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/E22-LandasanElementofHousingCosts.CV.pdf
 stub: false
-excerpt: "Gaffney's 1968 IDA/HUD study essay: an early, pre-Oates statement that cutting property taxes generally just enriches landowners rather than lowering housing costs, plus an exhaustive catalogue of Federal income-tax provisions — accelerated land depreciation write-offs, capital-gains deferral, Section 1031 barter, exemptions at death — that specifically reward holding land off the market, raising the price builders must pay for it."
-last_reviewed: 2026-07-18
+subcategory: wiki-research-housing
+tags:
+- research
+- mason-gaffney
+- housing-costs
+- property-tax
+- capitalization
+- capital-gains
+- zoning
+- tax-assessment
+tier: important
+title: 'Gaffney (1968): Land as an Element of Housing Costs'
+year: 1968
 ---
 
 ## Overview

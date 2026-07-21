@@ -1,14 +1,32 @@
 ---
-title: "Resource-rent dividends are workable and durable"
 category: benefits
+challenged_by:
+- martinez-colombia-resource-rents
 claim_type: benefit
-tags: [outcomes, resource-rents, citizens-dividend, alaska]
-stub: false
-evidence_strength: "Strong (two decades-to-generation-long real-world dividends — Alaska since 1982, the Cherokee casino dividend since 1996 — plus a newer oil-royalty case in Maricá, Brazil)"
-supported_by: [jones-marinescu-alaska-pfd, guettabi-pfd-effects-survey, goldsmith-alaska-pfd-wealth-distribution, great-smoky-mountains-casino-dividend, segal-resource-dividend, marica-brazil-basic-income, widerquist-howard-pfd, hartwick-rule]
-excerpt: "Alaska's decades-long Permanent Fund Dividend shows that capturing natural-resource rent and distributing it as a citizen's dividend is administratively and politically durable — and it is no longer the only case: the Cherokee casino dividend has run since 1996 and Maricá, Brazil now pays an oil-royalty dividend."
-challenged_by: [martinez-colombia-resource-rents]
+evidence_strength: Strong (two decades-to-generation-long real-world dividends — Alaska
+  since 1982, the Cherokee casino dividend since 1996 — plus a newer oil-royalty case
+  in Maricá, Brazil)
+excerpt: 'Alaska''s decades-long Permanent Fund Dividend shows that capturing natural-resource
+  rent and distributing it as a citizen''s dividend is administratively and politically
+  durable — and it is no longer the only case: the Cherokee casino dividend has run
+  since 1996 and Maricá, Brazil now pays an.'
 last_reviewed: 2026-07-18
+stub: false
+supported_by:
+- jones-marinescu-alaska-pfd
+- guettabi-pfd-effects-survey
+- goldsmith-alaska-pfd-wealth-distribution
+- great-smoky-mountains-casino-dividend
+- segal-resource-dividend
+- marica-brazil-basic-income
+- widerquist-howard-pfd
+- hartwick-rule
+tags:
+- outcomes
+- resource-rents
+- citizens-dividend
+- alaska
+title: Resource-rent dividends are workable and durable
 ---
 
 > **At a glance** — Capturing a natural resource's rent and paying it out as an equal per-capita dividend is administratively simple and politically durable — Alaska's dividend has run continuously since 1982 across four decades and changing administrations.

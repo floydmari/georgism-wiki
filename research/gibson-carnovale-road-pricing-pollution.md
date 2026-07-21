@@ -5,8 +5,7 @@ authors:
 category: research
 excerpt: 'The cleanest causal evidence on cordon pricing: an unanticipated court injunction
   suspended Milan''s Area C charge for eight weeks, creating a sharp on/off natural
-  experiment. Pricing cut vehicle entries by 14.5% and air pollution by 6–17%, with
-  welfare gains the authors value at roughly $3 billion a year.'
+  experiment.'
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1016/j.jue.2015.06.005
 stub: false

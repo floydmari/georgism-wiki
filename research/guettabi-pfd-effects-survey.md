@@ -1,16 +1,28 @@
 ---
-title: "What do we know about the effects of the Alaska PFD? (Guettabi 2019)"
+authors:
+- Mouhcine Guettabi
 category: research
-subcategory: wiki-research-resources
-tags: [research, citizens-dividend, resource-rents, alaska, poverty, inequality, universal-income, literature-review]
-authors: [Mouhcine Guettabi]
-year: 2019
-tier: important
+excerpt: The authoritative literature synthesis of the Alaska Permanent Fund Dividend's
+  socio-economic effects.
+last_reviewed: 2026-07-12
 source_url: http://web.archive.org/web/20260331013108/https://scholarworks.alaska.edu/bitstream/handle/11122/10581/2019_05_20-EffectsOfAKPFD.pdf
 stub: false
-excerpt: "The authoritative literature synthesis of the Alaska Permanent Fund Dividend's socio-economic effects. Its verdict: the PFD has produced 'substantial poverty reductions for rural Alaska Natives' with no negative labor-market effect — but, in the most unexpected result, the evidence suggests it has increased measured income inequality."
-supports_outcomes: [rent-dividends-reduce-poverty, resource-rent-dividends-work]
-last_reviewed: 2026-07-12
+subcategory: wiki-research-resources
+supports_outcomes:
+- rent-dividends-reduce-poverty
+- resource-rent-dividends-work
+tags:
+- research
+- citizens-dividend
+- resource-rents
+- alaska
+- poverty
+- inequality
+- universal-income
+- literature-review
+tier: important
+title: What do we know about the effects of the Alaska PFD? (Guettabi 2019)
+year: 2019
 ---
 
 ## Summary

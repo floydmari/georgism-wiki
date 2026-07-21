@@ -1,11 +1,23 @@
 ---
-title: "Objection: Universal Transfers Are an Inefficient Way to Reduce Poverty"
 category: objections
-tags: [objections, basic-income, citizens-dividend, targeting, transfers, fiscal-policy, welfare-design]
-stub: false
-status: "Substantially valid as arithmetic at a fixed budget — the BC panel's simulations are not disputed; contested as framing (net-vs-gross accounting, take-up/stigma, political durability) and partially inapplicable to rent-funded dividends, which draw on revenue not currently collected."
-excerpt: "The targeting-efficiency objection to universal payments, steelmanned from the BC Expert Panel's 1,640 simulations: at the same budget, an income-tested transfer lifts several times more people out of poverty than a universal one. What it proves, what it assumes, and where a rent-funded citizen's dividend does and doesn't escape it."
+excerpt: 'The targeting-efficiency objection to universal payments, steelmanned from
+  the BC Expert Panel''s 1,640 simulations: at the same budget, an income-tested transfer
+  lifts several times more people out of poverty than a universal one.'
 last_reviewed: 2026-07-17
+status: Substantially valid as arithmetic at a fixed budget — the BC panel's simulations
+  are not disputed; contested as framing (net-vs-gross accounting, take-up/stigma,
+  political durability) and partially inapplicable to rent-funded dividends, which
+  draw on revenue not currently collected.
+stub: false
+tags:
+- objections
+- basic-income
+- citizens-dividend
+- targeting
+- transfers
+- fiscal-policy
+- welfare-design
+title: 'Objection: Universal Transfers Are an Inefficient Way to Reduce Poverty'
 ---
 
 ## The Objection

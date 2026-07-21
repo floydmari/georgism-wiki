@@ -6,8 +6,7 @@ category: research
 excerpt: 'Hornbeck & Moretti estimate the incidence of local productivity growth using
   four instruments: locally, renters'' higher earnings are ''largely offset by increased
   cost of living'' and gains capitalize into land — an explicit revival of Ricardo
-  — but once worker mobility is counted, landowner impacts are ''largely a transfer
-  from one location to another'' and net incidence falls mainly on workers.'
+  — but once worker mobility is counted, landowner impacts.'
 source_url: https://www.nber.org/system/files/working_papers/w24661/w24661.pdf
 stub: false
 subcategory: wiki-research-inequality

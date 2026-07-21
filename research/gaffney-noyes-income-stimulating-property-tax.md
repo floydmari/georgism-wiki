@@ -1,12 +1,14 @@
 ---
-title: "Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax"
+authors:
+- Mason Gaffney
+- Richard Noyes
 category: research
-subcategory: wiki-research-urban
-authors: [Mason Gaffney, Richard Noyes]
-year: 1998
-tier: important
+excerpt: 'Chapter 8 of Fred Harrison''s The Losses of Nations (1998): a 50-state cross-sectional
+  comparison arguing heavier reliance on the property tax (vs.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf
 stub: false
+subcategory: wiki-research-urban
 supports_outcomes:
 - taxing-land-raises-productivity
 tags:
@@ -19,8 +21,10 @@ tags:
 - proposition-13
 - resource-rents
 - spectrum
-excerpt: "Chapter 8 of Fred Harrison's The Losses of Nations (1998): a 50-state cross-sectional comparison arguing heavier reliance on the property tax (vs. income/sales taxes) is associated with higher personal income per capita, anchored by a New Hampshire/California pair, plus a solo Gaffney appendix cataloguing rent-yielding resources omitted from conventional land-value measurement."
-last_reviewed: 2026-07-18
+tier: important
+title: 'Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property
+  Tax'
+year: 1998
 ---
 
 ## Overview

@@ -1,10 +1,20 @@
 ---
-title: "The Policymaker's Brief"
 category: guides
-tags: [guides, reading-path, policymaker, design, implementation, assessment, transition]
-stub: false
-excerpt: "You're writing the memo. The design choices in the order you face them — tax base, rate and phase-in, assessment machinery and its real costs, transition relief, revenue expectations with honest ranges, and interactions with zoning — each linked to the governing evidence, including the counter-evidence you'll be asked about."
+excerpt: You're writing the memo. The design choices in the order you face them —
+  tax base, rate and phase-in, assessment machinery and its real costs, transition
+  relief, revenue expectations with honest ranges, and interactions with zoning —
+  each linked to the governing evidence, including the.
 last_reviewed: 2026-07-12
+stub: false
+tags:
+- guides
+- reading-path
+- policymaker
+- design
+- implementation
+- assessment
+- transition
+title: The Policymaker's Brief
 ---
 
 ## For the staffer writing the memo

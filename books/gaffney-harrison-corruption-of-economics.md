@@ -1,18 +1,31 @@
 ---
-title: "The Corruption of Economics"
+authors:
+- Mason Gaffney
+- Fred Harrison
+- Kris Feder
 category: books
-stub: false
-excerpt: "Gaffney and Harrison's 1994 polemical history arguing neoclassical economics was deliberately reshaped — by Clark, Ely, Seligman and their patrons — to bury George's land question by merging land into capital. The wiki's corruption narrative rests on it; an argument, not a detached survey. Book summary page."
-authors: [Mason Gaffney, Fred Harrison, Kris Feder]
-year: 1994
-publisher: "Shepheard-Walwyn / Centre for Incentive Taxation"
-isbn: "978-1-8568-3552-0"
-type: book
-tier: 1
-scan_tier: "T1"
-scanned_by: hermes
+excerpt: Gaffney and Harrison's 1994 polemical history arguing neoclassical economics
+  was deliberately reshaped — by Clark, Ely, Seligman and their patrons — to bury
+  George's land question by merging land into capital. The wiki's corruption narrative
+  rests on it; an argument, not a detached survey.
+isbn: 978-1-8568-3552-0
+publisher: Shepheard-Walwyn / Centre for Incentive Taxation
 scan_date: 2026-07-05
-tags: [neoclassical-economics, henry-george, gaffney, land-capital-merger, atcor-precursor, intellectual-history, single-tax]
+scan_tier: T1
+scanned_by: hermes
+stub: false
+tags:
+- neoclassical-economics
+- henry-george
+- gaffney
+- land-capital-merger
+- atcor-precursor
+- intellectual-history
+- single-tax
+tier: 1
+title: The Corruption of Economics
+type: book
+year: 1994
 ---
 
 # The Corruption of Economics

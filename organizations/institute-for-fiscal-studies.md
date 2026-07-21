@@ -1,12 +1,23 @@
 ---
-title: "Institute for Fiscal Studies"
 category: organizations
-tags: [organizations, ifs, uk, tax-policy, public-finance, meade-report, mirrlees-review, allowance-for-corporate-equity]
-url: https://ifs.org.uk/
+excerpt: The UK's leading independent public-finance research institute. Not a Georgist
+  organisation — but the institutional home of three landmark studies the wiki leans
+  on (the Meade Report, the Mirrlees Review, and the Capital Taxes Group's ACE), each
+  of which arrived at a rent-taxing conclusion from.
 founded: 1969
-stub: false
-excerpt: "The UK's leading independent public-finance research institute. Not a Georgist organisation — but the institutional home of three landmark studies the wiki leans on (the Meade Report, the Mirrlees Review, and the Capital Taxes Group's ACE), each of which arrived at a rent-taxing conclusion from inside the professional mainstream."
 last_reviewed: 2026-07-07
+stub: false
+tags:
+- organizations
+- ifs
+- uk
+- tax-policy
+- public-finance
+- meade-report
+- mirrlees-review
+- allowance-for-corporate-equity
+title: Institute for Fiscal Studies
+url: https://ifs.org.uk/
 ---
 
 ## Overview

@@ -7,9 +7,7 @@ category: research
 excerpt: Sen's classic study argues that major famines — including the 1943 Bengal
   famine that killed roughly three million people — resulted not from an aggregate
   decline in food availability but from collapses in particular groups' "entitlements"
-  (their command over food via production, trade, own-labour, and transfers), directly
-  undercutting the Malthusian claim that poverty and famine track sheer population
-  against food supply.
+  (their command over food via production, trade, own-labour.
 last_reviewed: 2026-07-13
 source_url: https://global.oup.com/academic/product/poverty-and-famines-9780198284635
 stub: false

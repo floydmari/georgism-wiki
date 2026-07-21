@@ -6,9 +6,7 @@ bears_on_objections:
 category: research
 excerpt: The German Empire's Reich-level land-value-increment tax was introduced in
   1911 and effectively repealed by 1913 — the canonical cautionary case of a national
-  increment tax that neither curbed speculation nor raised enough revenue. Driven
-  by Adolf Damaschke's land-reform movement, its colonial testbed at Kiautschou also
-  seeded the Georgist lineage that reached Sun Yat-sen and, later, Taiwan.
+  increment tax that neither curbed speculation nor raised enough revenue.
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1515/jbwg-2022-0007
 stub: false

@@ -1,14 +1,31 @@
 ---
-title: "Taxes upon Rent (Smith, 1776)"
+authors:
+- Adam Smith
 category: texts
-tags: [texts, adam-smith, wealth-of-nations, ground-rent, land-value-tax, taxation, classical-economics, public-domain]
-authors: [Adam Smith]
-year: 1776
-public_domain: true
-provenance: "Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776), Book V, Chapter II, Part II, Article I ('Taxes upon Rent — Taxes upon the Rent of Land' and 'Taxes upon the Rent of Houses'). Excerpted verbatim from the complete text held in this repository at sources/publicdomain/wealth-of-nations.md (transcribed from Project Gutenberg #3300, fetched 2026-07-11; Gutenberg wrapper stripped, no modernization). Paragraphs reflowed from the source's hard-wrapped lines; no words altered. Verified against the repo-hosted text 2026-07-11."
-stub: false
-excerpt: "Adam Smith's complete Book V article on taxing rent — the source of 'Ground-rents are a still more proper subject of taxation than the rent of houses' and the argument that a tax on ground-rents discourages no industry and falls wholly on the owner. The classical antecedent of the LVT efficiency case."
+excerpt: Adam Smith's complete Book V article on taxing rent — the source of 'Ground-rents
+  are a still more proper subject of taxation than the rent of houses' and the argument
+  that a tax on ground-rents discourages no industry and falls wholly on the owner.
 last_reviewed: 2026-07-11
+provenance: 'Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations
+  (1776), Book V, Chapter II, Part II, Article I (''Taxes upon Rent — Taxes upon the
+  Rent of Land'' and ''Taxes upon the Rent of Houses''). Excerpted verbatim from the
+  complete text held in this repository at sources/publicdomain/wealth-of-nations.md
+  (transcribed from Project Gutenberg #3300, fetched 2026-07-11; Gutenberg wrapper
+  stripped, no modernization). Paragraphs reflowed from the source''s hard-wrapped
+  lines; no words altered. Verified against the repo-hosted text 2026-07-11.'
+public_domain: true
+stub: false
+tags:
+- texts
+- adam-smith
+- wealth-of-nations
+- ground-rent
+- land-value-tax
+- taxation
+- classical-economics
+- public-domain
+title: Taxes upon Rent (Smith, 1776)
+year: 1776
 ---
 
 ## Editorial note

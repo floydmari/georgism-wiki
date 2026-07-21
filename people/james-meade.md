@@ -1,11 +1,21 @@
 ---
-title: "James Meade"
-category: people
-tags: [people, james-meade, social-dividend, citizens-dividend, expenditure-tax, nobel, public-ownership]
-stub: false
 born: 1907
+category: people
 died: 1995
-excerpt: "British Nobel-laureate economist (1907–1995) who reached a Geoist-adjacent conclusion from Keynesian premises: the state should own a large share of productive capital and pay its return to every citizen as an unconditional 'social dividend.' Also chaired the 1978 Meade Report on expenditure taxation."
+excerpt: 'British Nobel-laureate economist (1907–1995) who reached a Geoist-adjacent
+  conclusion from Keynesian premises: the state should own a large share of productive
+  capital and pay its return to every citizen as an unconditional ''social dividend.''
+  Also chaired the 1978 Meade Report on expenditure.'
+stub: false
+tags:
+- people
+- james-meade
+- social-dividend
+- citizens-dividend
+- expenditure-tax
+- nobel
+- public-ownership
+title: James Meade
 ---
 
 ## Overview

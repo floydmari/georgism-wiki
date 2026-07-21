@@ -1,17 +1,31 @@
 ---
-title: "Buettner (2003): Tiebout Visits Germany — Land Tax Capitalization in a Sample of German Municipalities"
+authors:
+- Thiess Buettner
+bears_on_objections:
+- lvt-destroys-its-own-tax-base
 category: research
-subcategory: wiki-research-finance
-tags: [research, tax-capitalization, land-value-tax, germany, incidence, gmm, spatial-econometrics]
-authors: [Thiess Buettner]
-year: 2003
-tier: Important
+excerpt: Buettner's 2003 study of 675 Baden-Württemberg municipalities finds land
+  taxes capitalize into land values (elasticity ≈ −0.31, GMM) at a rate well beyond
+  what simple full capitalization predicts, while monthly rents — measured gross,
+  including the cost items landlords normally pass through — show.
+last_reviewed: 2026-07-18
 source_url: https://gwern.net/doc/economics/georgism/2003-buettner.pdf
 stub: false
-supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
-excerpt: "Buettner's 2003 study of 675 Baden-Württemberg municipalities finds land taxes capitalize into land values (elasticity ≈ −0.31, GMM) at a rate well beyond what simple full capitalization predicts, while monthly rents — measured gross, including the cost items landlords normally pass through — show no significant relationship to the local land tax rate."
-last_reviewed: 2026-07-18
-bears_on_objections: [lvt-destroys-its-own-tax-base]
+subcategory: wiki-research-finance
+supports_outcomes:
+- landlords-cannot-pass-lvt-to-tenants
+tags:
+- research
+- tax-capitalization
+- land-value-tax
+- germany
+- incidence
+- gmm
+- spatial-econometrics
+tier: Important
+title: 'Buettner (2003): Tiebout Visits Germany — Land Tax Capitalization in a Sample
+  of German Municipalities'
+year: 2003
 ---
 
 ## Overview

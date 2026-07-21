@@ -8,8 +8,7 @@ category: research
 excerpt: 'Brennan & Buchanan''s constitutional theory of taxation: model government
   as a revenue-maximizing ''Leviathan,'' and the orthodox case for a broad, efficient,
   comprehensive tax base inverts — the very base that minimizes deadweight loss is
-  the one Leviathan can exploit most fully. The public-choice challenge to the efficiency
-  case for LVT.'
+  the one Leviathan can exploit most fully.'
 last_reviewed: 2026-07-10
 source_url: https://oll.libertyfund.org/titles/brennan-the-collected-works-of-james-m-buchanan-vol-9-the-power-to-tax
 stub: false

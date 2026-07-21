@@ -1,14 +1,38 @@
 ---
-title: "The Saratoga Single Tax Debate: The George–Seligman Exchange (1890)"
+authors:
+- Henry George
+- Edwin R. A. Seligman
 category: texts
-tags: [texts, henry-george, era-seligman, single-tax, saratoga-1890, tax-incidence, academic-reception]
-authors: [Henry George, Edwin R. A. Seligman]
-year: 1890
-public_domain: true
-provenance: "Journal of Social Science, Containing the Proceedings of the American Social Science Association, No. XXVII (October 1890) — the papers and debate of the single-tax session held at Saratoga, New York, on 5 September 1890 (F. B. Sanborn, Secretary and editor; debate arranged by Acting Secretary John Graham Brooks). Also issued separately by the Association as The Single Tax Discussion, Held at Saratoga, Sept. 5, 1890 (Concord, Mass.). Transcribed programmatically from the Internet Archive scan (item sim_journal-of-social-science-proceedings_1890-10_27, DjVuTXT OCR layer). This page reproduces three of the session's thirteen pieces — Seligman's opening address (pp. 34–44), George's consolidated remarks (pp. 73–86), and Seligman's reply (pp. 87–98), the core George–Seligman exchange; the other ten pieces are omitted (see the editorial note). Mechanical processing only: running-head and page-number removal, line-break de-hyphenation, paragraph rejoining across page breaks, and targeted correction of clear scanner artifacts (e.g. 'impôt', 'quid pro quo', 'pro tanto', numerals '4½' and '90'). Residual OCR errors may remain; a T2 proofreading pass against the page images is queued."
-stub: false
-excerpt: "The core of the September 5, 1890 Saratoga single-tax debate before the American Social Science Association: E. R. A. Seligman's academic case against the single tax, Henry George's reply on compensation and the moral claim to land, and Seligman's rebuttal on tax incidence, capitalization, and 'ability to pay.' Full text of the three-part exchange."
+excerpt: 'The core of the September 5, 1890 Saratoga single-tax debate before the
+  American Social Science Association: E. R. A.'
 last_reviewed: 2026-07-10
+provenance: 'Journal of Social Science, Containing the Proceedings of the American
+  Social Science Association, No. XXVII (October 1890) — the papers and debate of
+  the single-tax session held at Saratoga, New York, on 5 September 1890 (F. B. Sanborn,
+  Secretary and editor; debate arranged by Acting Secretary John Graham Brooks). Also
+  issued separately by the Association as The Single Tax Discussion, Held at Saratoga,
+  Sept. 5, 1890 (Concord, Mass.). Transcribed programmatically from the Internet Archive
+  scan (item sim_journal-of-social-science-proceedings_1890-10_27, DjVuTXT OCR layer).
+  This page reproduces three of the session''s thirteen pieces — Seligman''s opening
+  address (pp. 34–44), George''s consolidated remarks (pp. 73–86), and Seligman''s
+  reply (pp. 87–98), the core George–Seligman exchange; the other ten pieces are omitted
+  (see the editorial note). Mechanical processing only: running-head and page-number
+  removal, line-break de-hyphenation, paragraph rejoining across page breaks, and
+  targeted correction of clear scanner artifacts (e.g. ''impôt'', ''quid pro quo'',
+  ''pro tanto'', numerals ''4½'' and ''90''). Residual OCR errors may remain; a T2
+  proofreading pass against the page images is queued.'
+public_domain: true
+stub: false
+tags:
+- texts
+- henry-george
+- era-seligman
+- single-tax
+- saratoga-1890
+- tax-incidence
+- academic-reception
+title: 'The Saratoga Single Tax Debate: The George–Seligman Exchange (1890)'
+year: 1890
 ---
 
 ## Editorial note

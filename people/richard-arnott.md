@@ -1,14 +1,17 @@
 ---
-title: "Richard Arnott"
 category: people
-tags:
-  - urban-economics
-  - henry-george-theorem
-  - public-goods
-  - public-economics
-stub: false
-excerpt: "Richard Arnott (1949–2023) was an urban and public economist who co-authored the canonical formalization of the Henry George Theorem with his doctoral advisor Joseph Stiglitz (1979) and wrote a 2004 retrospective assessing its practical utility — finding the theorem generalizes broadly but remains an unproven empirical tool."
+excerpt: Richard Arnott (1949–2023) was an urban and public economist who co-authored
+  the canonical formalization of the Henry George Theorem with his doctoral advisor
+  Joseph Stiglitz (1979) and wrote a 2004 retrospective assessing its practical utility
+  — finding the theorem generalizes broadly but remains.
 last_reviewed: 2026-07-10
+stub: false
+tags:
+- urban-economics
+- henry-george-theorem
+- public-goods
+- public-economics
+title: Richard Arnott
 ---
 
 ## Overview

@@ -1,16 +1,26 @@
 ---
-title: "The Life of Henry George (Henry George Jr., 1900)"
+authors:
+- Henry George Jr.
 category: books
-tags: [books, henry-george, henry-george-jr, biography, single-tax, primary-source]
-stub: false
-excerpt: "The standard primary biography of Henry George, written by his son three years after George's death: thirty-five chapters from the Philadelphia childhood and years before the mast through Progress and Poverty, the Irish Land War, the 1886 New York mayoralty, and the final 1897 campaign. Public domain — full text hosted in this repository."
-authors: [Henry George Jr.]
-year: 1900
-tier: Core
-publisher: "Doubleday & McClure Company, New York"
-scanned_by: campaign-transcription
-scan_date: 2026-07-10
+excerpt: 'The standard primary biography of Henry George, written by his son three
+  years after George''s death: thirty-five chapters from the Philadelphia childhood
+  and years before the mast through Progress and Poverty, the Irish Land War, the
+  1886 New York mayoralty, and the final 1897 campaign.'
 last_reviewed: 2026-07-10
+publisher: Doubleday & McClure Company, New York
+scan_date: 2026-07-10
+scanned_by: campaign-transcription
+stub: false
+tags:
+- books
+- henry-george
+- henry-george-jr
+- biography
+- single-tax
+- primary-source
+tier: Core
+title: The Life of Henry George (Henry George Jr., 1900)
+year: 1900
 ---
 
 ## What It Is

@@ -1,14 +1,35 @@
 ---
-title: "Rent-targeting corporate taxes reduce debt bias without penalizing marginal investment"
 category: benefits
+challenged_by:
+- hebous-ruf-ace
 claim_type: benefit
-tags: [outcomes, ace, cash-flow-tax, corporate-tax, debt-bias, tech-rents, geoism, contested-frontier]
-stub: false
-evidence_strength: "Strong quasi-experimental for the debt-bias/leverage effect; positive quasi-experimental for expensing→investment; contested for multinationals' real investment; risk-neutrality is theoretical and conditional on loss offset"
-supported_by: [zwick-mahon-expensing, branzoli-caiumi-italy-ace, panier-perez-gonzalez-villanueva-belgium-ace, petutschnig-runger-austria-ace, power-frerick-excess-returns, domar-musgrave-risk, baunsgaard-vernon-windfall-profits]
-challenged_by: [hebous-ruf-ace]
-excerpt: "Corporate tax bases that exempt the normal return and tax only above-normal returns — the ACE and cash-flow designs — demonstrably remove the tax subsidy to leverage and, in the expensing variant, stimulate investment. The honest limits: multinationals arbitraged unilateral versions, every full European ACE was repealed, and some of what such taxes reach is quasi-rent."
+evidence_strength: Strong quasi-experimental for the debt-bias/leverage effect; positive
+  quasi-experimental for expensing→investment; contested for multinationals' real
+  investment; risk-neutrality is theoretical and conditional on loss offset
+excerpt: Corporate tax bases that exempt the normal return and tax only above-normal
+  returns — the ACE and cash-flow designs — demonstrably remove the tax subsidy to
+  leverage and, in the expensing variant, stimulate investment.
 last_reviewed: 2026-07-13
+stub: false
+supported_by:
+- zwick-mahon-expensing
+- branzoli-caiumi-italy-ace
+- panier-perez-gonzalez-villanueva-belgium-ace
+- petutschnig-runger-austria-ace
+- power-frerick-excess-returns
+- domar-musgrave-risk
+- baunsgaard-vernon-windfall-profits
+tags:
+- outcomes
+- ace
+- cash-flow-tax
+- corporate-tax
+- debt-bias
+- tech-rents
+- geoism
+- contested-frontier
+title: Rent-targeting corporate taxes reduce debt bias without penalizing marginal
+  investment
 ---
 
 > **At a glance** — Rent-targeting corporate taxes — the allowance for corporate equity and cash-flow taxes — reduce the tax subsidy to debt and leave marginal investment untaxed, strongly supported by quasi-experiments for the leverage effect and positively for expensing-driven investment, though effects on multinationals' real investment are contested.

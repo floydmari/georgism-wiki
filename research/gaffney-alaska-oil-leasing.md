@@ -2,10 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s February 1977 report to Governor Hammond and the Alaska Legislature
+excerpt: Gaffney's February 1977 report to Governor Hammond and the Alaska Legislature
   on oil-and-gas leasing policy, commissioned three months after voters created the
-  Permanent Fund, proposing an "ad valorem charge" on reserves in place as the state''s
-  primary instrument for capturing oil rent before a barrel is produced.'
+  Permanent Fund, proposing an "ad valorem charge" on reserves in place as the state's
+  primary instrument for capturing oil rent before a.
 last_reviewed: 2026-07-18
 source_url: https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf
 stub: false

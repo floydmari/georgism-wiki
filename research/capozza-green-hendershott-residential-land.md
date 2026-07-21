@@ -6,14 +6,14 @@ authors:
 category: research
 excerpt: Capozza, Green & Hendershott estimate a user-cost model across US metros
   and find income-tax preferences for owner-occupied housing are fully capitalized
-  into house — chiefly residential land — prices. Removing the mortgage-interest and
-  property-tax deductions would cut housing values ~13–17% on average, borne by owners
-  at the moment of change.
+  into house — chiefly residential land — prices.
 last_reviewed: 2026-07-11
 source_url: https://www.academia.edu/2820554/Taxes_Mortgage_Borrowing_and_House_Prices
 stub: false
-supports_outcomes: [finance-growth-is-land-credit, landlords-cannot-pass-lvt-to-tenants]
 subcategory: wiki-research-resources
+supports_outcomes:
+- finance-growth-is-land-credit
+- landlords-cannot-pass-lvt-to-tenants
 tags:
 - research
 - tax-capitalization

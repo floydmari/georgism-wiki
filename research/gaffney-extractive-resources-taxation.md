@@ -1,17 +1,30 @@
 ---
-title: "Gaffney (1967, ed.): Extractive Resources and Taxation"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-resources
-tags: [research, mason-gaffney, resource-rents, severance-tax, property-tax, deadweight-loss, exhaustible-resources, oil-and-gas, tred]
-authors: [Mason Gaffney]
-year: 1967
-tier: Important
+excerpt: Gaffney's editorial framing and closing theoretical synthesis for the 1967
+  TRED symposium volume he edited — the earliest systematic academic statement of
+  how to tax exhaustible-resource rent without distorting either extraction timing
+  or exploration effort, including a novel taxonomy of nine.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf
 stub: false
+subcategory: wiki-research-resources
 supports_outcomes:
 - resource-rent-capture-works
-excerpt: "Gaffney's editorial framing and closing theoretical synthesis for the 1967 TRED symposium volume he edited — the earliest systematic academic statement of how to tax exhaustible-resource rent without distorting either extraction timing or exploration effort, including a novel taxonomy of nine reasons institutions overmotivate premature prospecting."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- resource-rents
+- severance-tax
+- property-tax
+- deadweight-loss
+- exhaustible-resources
+- oil-and-gas
+- tred
+tier: Important
+title: 'Gaffney (1967, ed.): Extractive Resources and Taxation'
+year: 1967
 ---
 
 ## Overview

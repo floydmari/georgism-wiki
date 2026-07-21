@@ -1,10 +1,20 @@
 ---
-title: "William Vickrey"
 category: people
-tags: [people, vickrey, nobel, public-finance, congestion-pricing, henry-george-theorem, auctions]
-stub: false
-excerpt: "Columbia economist and 1996 Nobel laureate (auctions, asymmetric information) and the most distinguished modern economist to identify openly with the Georgist tradition: Henry George Theorem contributor, congestion-pricing pioneer, co-author of a formal capital-neutrality proof with Mason Gaffney, 1990 Gorbachev-letter signatory, and the mechanism-design ancestor Posner & Weyl build on."
+excerpt: 'Columbia economist and 1996 Nobel laureate (auctions, asymmetric information)
+  and the most distinguished modern economist to identify openly with the Georgist
+  tradition: Henry George Theorem contributor, congestion-pricing pioneer, co-author
+  of a formal capital-neutrality proof with Mason Gaffney.'
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- people
+- vickrey
+- nobel
+- public-finance
+- congestion-pricing
+- henry-george-theorem
+- auctions
+title: William Vickrey
 ---
 
 ## Overview

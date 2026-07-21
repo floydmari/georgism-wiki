@@ -1,11 +1,23 @@
 ---
-title: "Congestion Pricing"
 category: concepts
-tags: [concepts, congestion-pricing, road-pricing, vickrey, pigouvian-taxation, commons, geoism, road-space-rents]
-stub: false
-supports_outcomes: [congestion-pricing-reduces-traffic]
-excerpt: "Charging drivers for the scarce, commonly-owned road space they occupy at peak times — the road-space analogue of charging for land. Pioneered in theory by William Vickrey; implemented in Singapore (1975), London (2003) and Stockholm (2006), each with large, measured traffic reductions. The strongest quasi-experimental evidence in the non-land Geoist file."
+excerpt: Charging drivers for the scarce, commonly-owned road space they occupy at
+  peak times — the road-space analogue of charging for land. Pioneered in theory by
+  William Vickrey; implemented in Singapore (1975), London (2003) and Stockholm (2006),
+  each with large, measured traffic reductions.
 last_reviewed: 2026-07-06
+stub: false
+supports_outcomes:
+- congestion-pricing-reduces-traffic
+tags:
+- concepts
+- congestion-pricing
+- road-pricing
+- vickrey
+- pigouvian-taxation
+- commons
+- geoism
+- road-space-rents
+title: Congestion Pricing
 ---
 
 ## Definition

@@ -2,11 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s 2016 essay arguing VAT and general sales taxes carry a hidden
-  excess burden — the "Mill Effect" of taxing capital as it turns over, biasing
-  investment toward slow-turnover capital — and that Europe''s reliance on VAT,
-  not exhausted taxable capacity, explains its stagnation relative to the property-tax-reliant
-  USA.'
+excerpt: Gaffney's 2016 essay arguing VAT and general sales taxes carry a hidden excess
+  burden — the "Mill Effect" of taxing capital as it turns over, biasing investment
+  toward slow-turnover capital — and that Europe's reliance on VAT, not exhausted
+  taxable capacity, explains its stagnation relative to the.
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/essays/Europes_Fatal_Affair_with_VAT_Harrison_2016.pdf
 stub: false

@@ -1,15 +1,25 @@
 ---
-title: "Phelps Brown & Weber (1953): Accumulation, Productivity and Distribution in the British Economy, 1870-1938"
+authors:
+- E. H. Phelps Brown
+- Bernard Weber
 category: research
-subcategory: wiki-research-housing
-tags: [research, land-cycle, economic-history, capital-returns]
-authors: [E. H. Phelps Brown, Bernard Weber]
-year: 1953
-source_url: https://academic.oup.com/ej/article-abstract/63/250/263/5258652
-tier: Important
-stub: false
-excerpt: "A 1953 Economic Journal article reconstructing British capital accumulation and factor returns, 1870-1938, that Fred Harrison cites as the empirical basis for the declining-returns-to-capital blade of his 'scissors mechanism' — its own capital-return figures (10-11% falling to ~7%) confirmed against the primary text via a free Internet Archive scan."
+excerpt: A 1953 Economic Journal article reconstructing British capital accumulation
+  and factor returns, 1870-1938, that Fred Harrison cites as the empirical basis for
+  the declining-returns-to-capital blade of his 'scissors mechanism' — its own capital-return
+  figures (10-11% falling to ~7%) confirmed.
 last_reviewed: 2026-07-14
+source_url: https://academic.oup.com/ej/article-abstract/63/250/263/5258652
+stub: false
+subcategory: wiki-research-housing
+tags:
+- research
+- land-cycle
+- economic-history
+- capital-returns
+tier: Important
+title: 'Phelps Brown & Weber (1953): Accumulation, Productivity and Distribution in
+  the British Economy, 1870-1938'
+year: 1953
 ---
 
 ## Overview

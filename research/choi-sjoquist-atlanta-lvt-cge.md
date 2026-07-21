@@ -1,15 +1,31 @@
 ---
-title: "Choi & Sjoquist (2015): Economic and Spatial Effects of Land Value Taxation in an Urban Area"
+authors:
+- Ki-Whan Choi
+- David L. Sjoquist
 category: research
-subcategory: wiki-research-housing
-tags: [research, tax-capitalization, land-value-tax, general-equilibrium, simulation, urban-economics, atlanta, incidence, model-evidence, progressivity]
-authors: [Ki-Whan Choi, David L. Sjoquist]
-year: 2015
-tier: Important
+excerpt: 'An Atlanta-calibrated urban CGE model of switching from a capital property
+  tax to a land value tax: full capitalization onto landowners, a large welfare gain
+  (18–19% of tax revenue, roughly triple DiMasi''s 1987 estimate), and — the paper''s
+  most distinctive result — a progressive incidence across.'
+last_reviewed: 2026-07-18
 source_url: https://doi.org/10.3368/le.91.3.536
 stub: false
-last_reviewed: 2026-07-18
-excerpt: "An Atlanta-calibrated urban CGE model of switching from a capital property tax to a land value tax: full capitalization onto landowners, a large welfare gain (18–19% of tax revenue, roughly triple DiMasi's 1987 estimate), and — the paper's most distinctive result — a progressive incidence across income groups."
+subcategory: wiki-research-housing
+tags:
+- research
+- tax-capitalization
+- land-value-tax
+- general-equilibrium
+- simulation
+- urban-economics
+- atlanta
+- incidence
+- model-evidence
+- progressivity
+tier: Important
+title: 'Choi & Sjoquist (2015): Economic and Spatial Effects of Land Value Taxation
+  in an Urban Area'
+year: 2015
 ---
 
 ## Overview

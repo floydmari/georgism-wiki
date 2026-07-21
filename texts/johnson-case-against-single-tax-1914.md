@@ -1,14 +1,36 @@
 ---
-title: "The Case Against the Single Tax (Alvin S. Johnson, 1914)"
+authors:
+- Alvin S. Johnson
 category: texts
-tags: [texts, objections, single-tax, alvin-johnson, atlantic-monthly, unearned-increment, confiscation, middle-class]
-authors: [Alvin S. Johnson]
-year: 1914
-public_domain: true
-provenance: "Alvin Saunders Johnson, \"The Case against the Single Tax,\" The Atlantic Monthly, Vol. 113, No. 1 (January 1914), pp. 27–37. Transcribed programmatically from the Internet Archive scan of the January 1914 issue (item sim_atlantic_1914-01_113_1, DJVU OCR text), with OCR line-break de-hyphenation, paragraph rejoining, removal of running page headers and page numbers, restoration of the nine section dividers (Roman numerals I–IX, several of which the OCR mangled — e.g. V read as 'Vv', VII as 'vil', VIII as 'Vill', IX as 'Ix'), and targeted correction of unambiguous scanner artifacts (e.g. the drop-cap opening 'Or'→'Of', 'ic despoils'→'it despoils', 'iis bare hands'→'his bare hands', run-together words such as 'Anannual'→'An annual', 'It isa'→'It is a'). Residual OCR errors may remain — a T2 proofreading pass against the page images is queued. The full-volume Internet Archive full-view scan (item atlanticmonthly1131unse, 'v. 113, 1914 Jan.–Jun.') is an alternative source for that proofread."
-stub: false
-excerpt: "Alvin S. Johnson's January 1914 Atlantic Monthly essay — the Progressive Era's most prominent mainstream-press case against the single tax. Johnson concedes George's premises but argues the single tax is 'a propaganda for the universal confiscation of land' that would chiefly despoil the middle class, and that the 'unearned increment' is not functionless but the very engine that opened the American West. The full text of all nine sections."
+excerpt: Alvin S. Johnson's January 1914 Atlantic Monthly essay — the Progressive
+  Era's most prominent mainstream-press case against the single tax.
 last_reviewed: 2026-07-10
+provenance: Alvin Saunders Johnson, "The Case against the Single Tax," The Atlantic
+  Monthly, Vol. 113, No. 1 (January 1914), pp. 27–37. Transcribed programmatically
+  from the Internet Archive scan of the January 1914 issue (item sim_atlantic_1914-01_113_1,
+  DJVU OCR text), with OCR line-break de-hyphenation, paragraph rejoining, removal
+  of running page headers and page numbers, restoration of the nine section dividers
+  (Roman numerals I–IX, several of which the OCR mangled — e.g. V read as 'Vv', VII
+  as 'vil', VIII as 'Vill', IX as 'Ix'), and targeted correction of unambiguous scanner
+  artifacts (e.g. the drop-cap opening 'Or'→'Of', 'ic despoils'→'it despoils', 'iis
+  bare hands'→'his bare hands', run-together words such as 'Anannual'→'An annual',
+  'It isa'→'It is a'). Residual OCR errors may remain — a T2 proofreading pass against
+  the page images is queued. The full-volume Internet Archive full-view scan (item
+  atlanticmonthly1131unse, 'v. 113, 1914 Jan.–Jun.') is an alternative source for
+  that proofread.
+public_domain: true
+stub: false
+tags:
+- texts
+- objections
+- single-tax
+- alvin-johnson
+- atlantic-monthly
+- unearned-increment
+- confiscation
+- middle-class
+title: The Case Against the Single Tax (Alvin S. Johnson, 1914)
+year: 1914
 ---
 
 ## Editorial note
@@ -152,4 +174,3 @@ It was Aristotle who first pointed out the dependence of political stability and
 We may contrast our confidence in the stability of our own liberal institutions with our skepticism of attempts to introduce similar institutions in countries in a different stage of social development. It is hard to believe that constitutionalism can be more than a name in Russia and Turkey, or that democracy in Mexico can signify anything but a cloak for force. It is not that we doubt the political capacity of Slavs and Moslems and Mexicans. But those nations lack the chief prerequisite of political freedom and order: a vigorous middle class.
 
 Not all will agree, it is true, that the liberal régime is the best conceivable political order. The Socialists are especially violent in their attacks upon it. And every Socialist recognizes that constitutionalism and free enterprise are bound up with the fortunes of the middle class. Eliminate the middle class, and there will remain no serious obstacle to the progress of Socialism. Accordingly, it is difficult to understand the impatience which the Socialist usually manifests toward the Single-Taxer. The latter, indeed, is not a Socialist, but he is laboring valiantly to produce the conditions under which alone Socialism has any chance whatsoever of success. Transform our four million independent farmers into tenants of the state; despoil an equal number of our middle-class townsmen of their one solid possession, and the expropriation of the remaining private owners of property will be easily accomplished. Despite the sentimental antipathies of their respective adherents, then, the Single Tax and Socialism are closely related. Their relation is that of means and end.
-

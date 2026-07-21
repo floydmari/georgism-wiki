@@ -1,11 +1,23 @@
 ---
-title: "Objection: Taxing Quasi-Rents Kills Innovation"
 category: objections
-tags: [objections, schumpeter, quasi-rent, innovation, tech-rents, rent-gradient, corporate-tax, geoism]
-stub: false
-status: "Substantially valid at the frontier — it gates every non-land rent-capture claim; answered in theory by designs (full loss offset, normal-return exemption) that no real system fully implements; no purchase on land itself"
-excerpt: "The Schumpeterian objection to generalized rent capture, steelmanned: innovation profits are quasi-rents — the ex-post prize that motivated the ex-ante gamble — so taxing 'excess returns' taxes the incentive itself. The strongest reason Geoism's certainty about land cannot be extended to platforms, patents, and superstar firms."
+excerpt: 'The Schumpeterian objection to generalized rent capture, steelmanned: innovation
+  profits are quasi-rents — the ex-post prize that motivated the ex-ante gamble —
+  so taxing ''excess returns'' taxes the incentive itself.'
 last_reviewed: 2026-07-18
+status: Substantially valid at the frontier — it gates every non-land rent-capture
+  claim; answered in theory by designs (full loss offset, normal-return exemption)
+  that no real system fully implements; no purchase on land itself
+stub: false
+tags:
+- objections
+- schumpeter
+- quasi-rent
+- innovation
+- tech-rents
+- rent-gradient
+- corporate-tax
+- geoism
+title: 'Objection: Taxing Quasi-Rents Kills Innovation'
 ---
 
 ## The Objection

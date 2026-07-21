@@ -2,11 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s historical survey of nine US and Canadian cities, 1890-1930,
-  arguing that Georgist tax shifts — untaxing buildings, taxing land, financing
-  transit and parks from the land-value base — coincided with outsized population
-  growth, with New York City''s 1920s building-tax exemption as the flagship case
-  and Pittsburgh''s building-without-population growth as an explicit anomaly.'
+excerpt: Gaffney's historical survey of nine US and Canadian cities, 1890-1930, arguing
+  that Georgist tax shifts — untaxing buildings, taxing land, financing transit and
+  parks from the land-value base — coincided with outsized population growth, with
+  New York City's 1920s building-tax exemption as the.
 last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/2006_New_Life_in_Old_Cities.pdf
 stub: false

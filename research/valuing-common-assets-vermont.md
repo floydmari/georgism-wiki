@@ -6,9 +6,7 @@ category: research
 excerpt: The 2008 University of Vermont report (Vermont Green Tax and Common Assets
   Project, Gund Institute) that inventoried the economic rent of Vermont's natural
   and social common assets — land, water, air, spectrum, minerals, wind, the internet,
-  and financial commons — and estimated roughly $1.2 billion/year in uncollected rent,
-  enough for a $1,972 annual dividend to every Vermonter or nearly half of the state's
-  in-state revenue.
+  and financial commons — and estimated roughly $1.2.
 last_reviewed: 2026-07-10
 source_url: https://www.uvm.edu/~gflomenh/projects/documents/Valuing_Common_Assets_web_final.pdf
 stub: false

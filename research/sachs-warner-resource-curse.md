@@ -3,6 +3,12 @@ authors:
 - Jeffrey D. Sachs
 - Andrew M. Warner
 category: research
+excerpt: 'The landmark resource-curse paper: countries with great natural-resource
+  wealth have tended to grow more slowly than resource-poor countries, a pattern not
+  easily explained away by other variables.'
+last_reviewed: 2026-07-13
+source_url: https://www.sciencedirect.com/science/article/abs/pii/S0014292101001258
+stub: false
 subcategory: wiki-research-resources
 tags:
 - research
@@ -14,10 +20,6 @@ tags:
 tier: Important
 title: 'Sachs & Warner (2001): The Curse of Natural Resources'
 year: 2001
-source_url: https://www.sciencedirect.com/science/article/abs/pii/S0014292101001258
-last_reviewed: 2026-07-13
-stub: false
-excerpt: "The landmark resource-curse paper: countries with great natural-resource wealth have tended to grow more slowly than resource-poor countries, a pattern not easily explained away by other variables. A conditional challenge to the claim that capturing resource rent works — most economies that hold the rent have not thrived."
 ---
 
 ## Overview

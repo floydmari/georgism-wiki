@@ -6,7 +6,7 @@ category: research
 excerpt: Gibbons and Machin's quasi-experimental study of late-1990s London rail expansions
   (Jubilee Line Extension, DLR), finding house prices rose roughly 9.3 percentage
   points more in areas gaining station access than in unaffected areas — direct causal
-  evidence that transit investment capitalizes into property and land values.
+  evidence that transit investment capitalizes into.
 last_reviewed: 2026-07-10
 source_url: https://doi.org/10.1016/j.jue.2004.10.002
 stub: false

@@ -1,11 +1,21 @@
 ---
-title: "FIRE Sector"
 category: concepts
-tags: [concepts, fire-sector, hudson, finance, financialization, rent-extraction, mortgages]
-stub: false
-pd_quotes: true
-excerpt: "Finance, Insurance, and Real Estate — an official national-accounts grouping that Michael Hudson turned into the analytical core of the rentier-economy critique: banks lend against land, credit capitalizes into land prices, and much recorded financial 'output' is a claim on rent. The scale data, the Hudson thesis, and the mainstream counter-view."
+excerpt: 'Finance, Insurance, and Real Estate — an official national-accounts grouping
+  that Michael Hudson turned into the analytical core of the rentier-economy critique:
+  banks lend against land, credit capitalizes into land prices, and much recorded
+  financial ''output'' is a claim on rent.'
 last_reviewed: 2026-07-18
+pd_quotes: true
+stub: false
+tags:
+- concepts
+- fire-sector
+- hudson
+- finance
+- financialization
+- rent-extraction
+- mortgages
+title: FIRE Sector
 ---
 
 ## Definition

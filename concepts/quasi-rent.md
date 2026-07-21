@@ -1,10 +1,18 @@
 ---
-title: "Quasi-Rent"
 category: concepts
-tags: [concepts, quasi-rent, economic-rent, marshall, innovation, rent-gradient, geoism]
-stub: false
-excerpt: "Marshall's term for returns that look like rent in the short run but are incentive payments in the long run — the reward that motivated a sunk investment. The distinction between pure rent and quasi-rent is the load-bearing wall of the Geoist rent gradient: taxing the first is free, taxing the second is not."
+excerpt: Marshall's term for returns that look like rent in the short run but are
+  incentive payments in the long run — the reward that motivated a sunk investment.
 last_reviewed: 2026-07-06
+stub: false
+tags:
+- concepts
+- quasi-rent
+- economic-rent
+- marshall
+- innovation
+- rent-gradient
+- geoism
+title: Quasi-Rent
 ---
 
 ## Definition

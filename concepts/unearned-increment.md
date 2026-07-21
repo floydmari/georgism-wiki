@@ -1,12 +1,20 @@
 ---
-title: "Unearned Increment"
 category: concepts
-tags: [unearned-increment, economic-rent, georgism, land-value-tax, john-stuart-mill]
-stub: false
-excerpt: "The rise in land value that comes not from the owner's effort but from the growth of the surrounding community and public investment. John Stuart Mill gave the concept its classical statement and proposed taxing the future increment — the idea and the policy that bridge classical rent theory to Georgism."
-sources: [mill-1848, george-1879]
-pd_quotes: true
+excerpt: The rise in land value that comes not from the owner's effort but from the
+  growth of the surrounding community and public investment.
 last_reviewed: 2026-07-18
+pd_quotes: true
+sources:
+- mill-1848
+- george-1879
+stub: false
+tags:
+- unearned-increment
+- economic-rent
+- georgism
+- land-value-tax
+- john-stuart-mill
+title: Unearned Increment
 ---
 
 ## Definition

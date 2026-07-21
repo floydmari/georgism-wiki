@@ -7,9 +7,7 @@ authors:
 category: research
 excerpt: Digital services taxes (DSTs) are the first real-world attempt to tax platform
   rents. In theory (Cui & Hashimzade) a DST is a tax on location-specific rent, the
-  digital cousin of a resource royalty. In practice (Muddasani & Langenmayr) the UK
-  levy was largely passed through — Amazon raised seller fees ~2%, sellers passed
-  most to consumers — making it the wiki's cleanest 'badly-aimed rent tax' case.
+  digital cousin of a resource royalty.
 last_reviewed: 2026-07-18
 source_url: https://research.wu.ac.at/ws/portalfiles/portal/76680012/2025_05_DST_2_.pdf
 stub: false

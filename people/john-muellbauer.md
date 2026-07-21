@@ -1,11 +1,21 @@
 ---
-title: "John Muellbauer"
-category: people
-tags: [people, housing, credit, property-tax, land-value-tax, oxford, stub]
-stub: true
 born: 1944
-excerpt: "Oxford economist (Nuffield College; INET Oxford) best known for the Deaton–Muellbauer Almost Ideal Demand System, who since the late 1980s has focused on housing, credit, and consumption — and who wrote the foreword to Rethinking the Economics of Land and Housing and has proposed a 'green land value tax' for the UK."
+category: people
+excerpt: Oxford economist (Nuffield College; INET Oxford) best known for the Deaton–Muellbauer
+  Almost Ideal Demand System, who since the late 1980s has focused on housing, credit,
+  and consumption — and who wrote the foreword to Rethinking the Economics of Land
+  and Housing and has proposed a 'green land.
 last_reviewed: 2026-07-11
+stub: true
+tags:
+- people
+- housing
+- credit
+- property-tax
+- land-value-tax
+- oxford
+- stub
+title: John Muellbauer
 ---
 
 ## Overview

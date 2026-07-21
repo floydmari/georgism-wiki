@@ -1,16 +1,27 @@
 ---
-title: "Your Citizen's Dividend (Anderson eBook)"
+authors:
+- Phillip J. Anderson
 category: books
-tags: [books, citizens-dividend, crown-estate, advocacy, anderson, citdiv, economic-rent]
-authors: [Phillip J. Anderson]
-year: 2024
-tier: Supplementary
-page_count: 16
-scanned_by: T1 (owner-supplied copy, 2026-07-06)
-scan_date: 2026-07-06
-stub: false
-excerpt: "Phillip J. Anderson's 16-page advocacy eBook (Property Sharemarket Economics, ©2024, distributed free via citdiv.org): the Crown Estate as the model for collecting all economic rent through a politically insulated special-purpose vehicle and returning it as a citizen's dividend, replacing all taxes. Advocacy source — its claims are its own."
+excerpt: 'Phillip J. Anderson''s 16-page advocacy eBook (Property Sharemarket Economics,
+  ©2024, distributed free via citdiv.org): the Crown Estate as the model for collecting
+  all economic rent through a politically insulated special-purpose vehicle and returning
+  it as a citizen''s dividend, replacing all.'
 last_reviewed: 2026-07-12
+page_count: 16
+scan_date: 2026-07-06
+scanned_by: T1 (owner-supplied copy, 2026-07-06)
+stub: false
+tags:
+- books
+- citizens-dividend
+- crown-estate
+- advocacy
+- anderson
+- citdiv
+- economic-rent
+tier: Supplementary
+title: Your Citizen's Dividend (Anderson eBook)
+year: 2024
 ---
 
 ## What It Is

@@ -9,8 +9,7 @@ category: research
 excerpt: The UK Treasury's 2019 expert-panel report, chaired by Jason Furman, on competition
   in digital markets. Its diagnosis — that network effects and returns to scale on
   data 'tip' digital markets to a durable single winner — is a leading is-it-a-rent
-  source. But its prescription is to *dissolve* the advantage through interoperability,
-  data mobility and antitrust, not to *capture* it through a rent tax.
+  source.
 last_reviewed: 2026-07-18
 source_url: https://assets.publishing.service.gov.uk/media/5c88150ee5274a230219c35f/unlocking_digital_competition_furman_review_web.pdf
 stub: false

@@ -1,14 +1,28 @@
 ---
-title: "The Mother of All Monopolies (Churchill, 1909)"
+authors:
+- Winston Churchill
 category: texts
-tags: [texts, winston-churchill, land-monopoly, unearned-increment, 1909-peoples-budget, land-value-tax]
-authors: [Winston Churchill]
-year: 1909
-public_domain: true
-provenance: "The land-monopoly section of Winston Churchill's speech at the King's Theatre, Edinburgh, 17 July 1909, widely reproduced under the title 'The Mother of All Monopolies.' Full text via cooperative-individualism.org, cross-checked against the Land Value Tax Campaign and grundskyld.dk transcriptions; verified against the quotations used on this wiki's Churchill pages, 2026-07-07."
-stub: false
-excerpt: "The land-monopoly passage of Churchill's 17 July 1909 Edinburgh speech — 'the mother of all other forms of monopoly,' the landlord who 'sits still' while the community enriches him, and the Thames toll-bridge whose removal was absorbed into rents. The full text of the most-quoted single-tax-adjacent speech in British politics."
+excerpt: The land-monopoly passage of Churchill's 17 July 1909 Edinburgh speech —
+  'the mother of all other forms of monopoly,' the landlord who 'sits still' while
+  the community enriches him, and the Thames toll-bridge whose removal was absorbed
+  into rents.
 last_reviewed: 2026-07-07
+provenance: The land-monopoly section of Winston Churchill's speech at the King's
+  Theatre, Edinburgh, 17 July 1909, widely reproduced under the title 'The Mother
+  of All Monopolies.' Full text via cooperative-individualism.org, cross-checked against
+  the Land Value Tax Campaign and grundskyld.dk transcriptions; verified against the
+  quotations used on this wiki's Churchill pages, 2026-07-07.
+public_domain: true
+stub: false
+tags:
+- texts
+- winston-churchill
+- land-monopoly
+- unearned-increment
+- 1909-peoples-budget
+- land-value-tax
+title: The Mother of All Monopolies (Churchill, 1909)
+year: 1909
 ---
 
 ## Editorial note

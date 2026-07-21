@@ -1,14 +1,27 @@
 ---
-title: "Narrative: The Corruption of Economics"
 category: narratives
-tags: [narratives, historical-argument, gaffney, neoclassical-economics, history-of-economics, john-bates-clark]
-stub: false
-excerpt: "The insider narrative — Gaffney's argument that early neoclassical economists, patronized by landed interests, collapsed land into capital to bury Henry George — presented against the mainstream historiography that the two-factor turn was analytic. Both accounts, attributed; deployment guidance says use sparingly."
-narrative_type: historical
-supported_by: [capital-share-rise-is-land]
-related_people: [mason-gaffney, fred-harrison, john-bates-clark, henry-george]
-related_places: []
+excerpt: The insider narrative — Gaffney's argument that early neoclassical economists,
+  patronized by landed interests, collapsed land into capital to bury Henry George
+  — presented against the mainstream historiography that the two-factor turn was analytic.
 last_reviewed: 2026-07-05
+narrative_type: historical
+related_people:
+- mason-gaffney
+- fred-harrison
+- john-bates-clark
+- henry-george
+related_places: []
+stub: false
+supported_by:
+- capital-share-rise-is-land
+tags:
+- narratives
+- historical-argument
+- gaffney
+- neoclassical-economics
+- history-of-economics
+- john-bates-clark
+title: 'Narrative: The Corruption of Economics'
 ---
 
 *This page reports a contested historiographical narrative. The wiki takes no

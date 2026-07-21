@@ -1,14 +1,47 @@
 ---
-title: "Progress and Poverty (Henry George, 1879; Memorial Edition, 1898)"
+authors:
+- Henry George
 category: texts
-tags: [texts, henry-george, progress-and-poverty, single-tax, land-value-tax, economic-rent, margin-of-production, political-economy]
-authors: [Henry George]
-year: 1879
-public_domain: true
-provenance: "Henry George, Progress and Poverty: An Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth — The Remedy. Text as reproduced in the Memorial Edition of the Writings of Henry George, Volume I (New York: Doubleday and McClure Company, 1898; this transcribed copy is No. 4 of a limited printing of one thousand numbered copies). The Memorial Edition reproduces George's standard revised text — the author's preface here is the 'Preface to Fourth Edition,' dated New York, November 1880; the title page carries 'Copyright, 1891, by Henry George.' Transcribed text from Project Gutenberg eBook #55308 (https://www.gutenberg.org/cache/epub/55308/pg55308.txt), fetched 2026-07-11. Public domain: the work was first published 1879 and the author, Henry George, died in 1897 — clear in the US (published well before 1931) and under life+70. Mechanical cleanup only, no modernization: the Project Gutenberg header, license paragraph, bibliographic metadata block (Title/Author/Release date/Credits) and the START marker were removed from the top (source lines 1-27), and the bottom Transcriber's Notes block plus the Project Gutenberg END marker and license boilerplate were removed from the bottom. Everything the printed book itself carries is retained: the limited-edition notice, the Marcus Aurelius epigraph, the title page, the dedication, the verse epigraph, the Preface to the Fourth Edition, the full ten-Book text (Introductory through Book X), and the book's own Index. No words were altered, added, or paraphrased; spelling, punctuation, [Illustration:] markers, and the Gutenberg italics convention (_underscores_) are reproduced exactly as transcribed. Per the source's own Transcriber's Note, obvious typographical errors were silently corrected and hyphenation standardised by the Gutenberg transcribers; all other spelling and punctuation is unchanged."
-stub: false
-excerpt: "The complete text of Henry George's 1879 Progress and Poverty — the inquiry into why poverty deepens amid material progress and the single-tax remedy — as reproduced in the 1898 Memorial Edition of his Writings. All ten Books, the Introductory, the prefaces, and the book's own index. Public domain; full text hosted in this repository."
+excerpt: The complete text of Henry George's 1879 Progress and Poverty — the inquiry
+  into why poverty deepens amid material progress and the single-tax remedy — as reproduced
+  in the 1898 Memorial Edition of his Writings. All ten Books, the Introductory, the
+  prefaces, and the book's own index.
 last_reviewed: 2026-07-11
+provenance: 'Henry George, Progress and Poverty: An Inquiry into the Cause of Industrial
+  Depressions and of Increase of Want with Increase of Wealth — The Remedy. Text as
+  reproduced in the Memorial Edition of the Writings of Henry George, Volume I (New
+  York: Doubleday and McClure Company, 1898; this transcribed copy is No. 4 of a limited
+  printing of one thousand numbered copies). The Memorial Edition reproduces George''s
+  standard revised text — the author''s preface here is the ''Preface to Fourth Edition,''
+  dated New York, November 1880; the title page carries ''Copyright, 1891, by Henry
+  George.'' Transcribed text from Project Gutenberg eBook #55308 (https://www.gutenberg.org/cache/epub/55308/pg55308.txt),
+  fetched 2026-07-11. Public domain: the work was first published 1879 and the author,
+  Henry George, died in 1897 — clear in the US (published well before 1931) and under
+  life+70. Mechanical cleanup only, no modernization: the Project Gutenberg header,
+  license paragraph, bibliographic metadata block (Title/Author/Release date/Credits)
+  and the START marker were removed from the top (source lines 1-27), and the bottom
+  Transcriber''s Notes block plus the Project Gutenberg END marker and license boilerplate
+  were removed from the bottom. Everything the printed book itself carries is retained:
+  the limited-edition notice, the Marcus Aurelius epigraph, the title page, the dedication,
+  the verse epigraph, the Preface to the Fourth Edition, the full ten-Book text (Introductory
+  through Book X), and the book''s own Index. No words were altered, added, or paraphrased;
+  spelling, punctuation, [Illustration:] markers, and the Gutenberg italics convention
+  (_underscores_) are reproduced exactly as transcribed. Per the source''s own Transcriber''s
+  Note, obvious typographical errors were silently corrected and hyphenation standardised
+  by the Gutenberg transcribers; all other spelling and punctuation is unchanged.'
+public_domain: true
+stub: false
+tags:
+- texts
+- henry-george
+- progress-and-poverty
+- single-tax
+- land-value-tax
+- economic-rent
+- margin-of-production
+- political-economy
+title: Progress and Poverty (Henry George, 1879; Memorial Edition, 1898)
+year: 1879
 ---
 
 ## Editorial note

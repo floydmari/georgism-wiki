@@ -1,16 +1,29 @@
 ---
-title: "Hebous & Ruf (2017): ACE Systems, Multinational Debt Financing and Investment"
+authors:
+- Shafik Hebous
+- Martin Ruf
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-subcategory: wiki-research-resources
-tags: [research, ace, corporate-tax, debt-bias, profit-shifting, quasi-experimental, tech-rents]
-authors: [Shafik Hebous, Martin Ruf]
-year: 2017
-tier: Important
+excerpt: 'The strongest-identified evaluation of allowance-for-corporate-equity systems:
+  using administrative data on German multinationals, ACE regimes reduced affiliate
+  debt ratios and raised passive intra-group lending — but had no detectable effect
+  on real production investment, exposing the ''double dip''.'
+last_reviewed: 2026-07-12
 source_url: https://doi.org/10.1016/j.jpubeco.2017.02.011
 stub: false
-excerpt: "The strongest-identified evaluation of allowance-for-corporate-equity systems: using administrative data on German multinationals, ACE regimes reduced affiliate debt ratios and raised passive intra-group lending — but had no detectable effect on real production investment, exposing the 'double dip' problem of unilateral rent-only taxes."
-last_reviewed: 2026-07-12
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
+subcategory: wiki-research-resources
+tags:
+- research
+- ace
+- corporate-tax
+- debt-bias
+- profit-shifting
+- quasi-experimental
+- tech-rents
+tier: Important
+title: 'Hebous & Ruf (2017): ACE Systems, Multinational Debt Financing and Investment'
+year: 2017
 ---
 
 ## Summary

@@ -2,11 +2,10 @@
 authors:
 - John H. Cochrane
 category: research
-excerpt: 'The strongest citable mainstream reply to the "finance grew, so finance
-  extracts rent" reading. Cochrane argues the right question is whether finance
-  functions well, not how large it is — and that most of the sector''s apparent
-  growth (asset-management fees, mortgage-refinancing fees) is the ordinary market
-  response to a shift in demand, not evidence of rent capture.'
+excerpt: The strongest citable mainstream reply to the "finance grew, so finance extracts
+  rent" reading. Cochrane argues the right question is whether finance functions well,
+  not how large it is — and that most of the sector's apparent growth (asset-management
+  fees, mortgage-refinancing fees) is the.
 source_url: https://johnhcochrane.com/s/Cochrane_jep_function_size_final.pdf
 stub: false
 subcategory: wiki-research-finance

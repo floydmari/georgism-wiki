@@ -1,12 +1,22 @@
 ---
-title: "Intellectual-Property Rents"
 category: concepts
-tags: [concepts, ip-rents, patents, copyright, monopoly, innovation, geoism, quasi-rent]
+excerpt: A patent or copyright is a government-granted temporary monopoly — a deliberately-created
+  rent. It is the most contested rent in the Geoist file, because here the rent is
+  supposed to BE the incentive.
+last_reviewed: 2026-07-18
+pd_quotes: true
 stub: false
 supports_outcomes: []
-pd_quotes: true
-excerpt: "A patent or copyright is a government-granted temporary monopoly — a deliberately-created rent. It is the most contested rent in the Geoist file, because here the rent is supposed to BE the incentive. Yet the evidence that IP monopoly is necessary for innovation is surprisingly weak, and prize/buyout designs can reward invention without the monopoly."
-last_reviewed: 2026-07-18
+tags:
+- concepts
+- ip-rents
+- patents
+- copyright
+- monopoly
+- innovation
+- geoism
+- quasi-rent
+title: Intellectual-Property Rents
 ---
 
 ## Historical Antecedent

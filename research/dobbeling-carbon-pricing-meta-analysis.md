@@ -1,16 +1,44 @@
 ---
-title: "Systematic Review and Meta-Analysis of Ex-Post Evaluations on the Effectiveness of Carbon Pricing (Döbbeling-Hildebrandt et al.)"
+authors:
+- Niklas Döbbeling-Hildebrandt
+- Klaas Miersch
+- Tarun M. Khanna
+- Marion Bachelet
+- Stephan B. Bruns
+- Max Callaghan
+- Ottmar Edenhofer
+- Christian Flachsland
+- Piers M. Forster
+- Matthias Kalkuhl
+- Nicolas Koch
+- William F. Lamb
+- Nils Ohlendorf
+- Jan Christoph Steckel
+- Jan C. Minx
 category: research
-subcategory: wiki-research-resources
-tags: [research, carbon-pricing, carbon-tax, emissions-trading, meta-analysis, ecological-georgism, pigouvian, atmosphere-commons]
-authors: [Niklas Döbbeling-Hildebrandt, Klaas Miersch, Tarun M. Khanna, Marion Bachelet, Stephan B. Bruns, Max Callaghan, Ottmar Edenhofer, Christian Flachsland, Piers M. Forster, Matthias Kalkuhl, Nicolas Koch, William F. Lamb, Nils Ohlendorf, Jan Christoph Steckel, Jan C. Minx]
-year: 2024
-tier: Important
+excerpt: 'The machine-learning-assisted meta-analysis of carbon-pricing effectiveness:
+  483 effect sizes from 80 causal ex-post evaluations across 21 schemes show introducing
+  a carbon price yielded immediate, substantial emissions cuts for at least 17 policies
+  (–5% to –21%; –4% to –15% after publication-bias.'
+last_reviewed: 2026-07-12
 source_url: https://doi.org/10.1038/s41467-024-48512-w
 stub: false
-excerpt: "The machine-learning-assisted meta-analysis of carbon-pricing effectiveness: 483 effect sizes from 80 causal ex-post evaluations across 21 schemes show introducing a carbon price yielded immediate, substantial emissions cuts for at least 17 policies (–5% to –21%; –4% to –15% after publication-bias correction), despite low prices. The synthesis capstone for the carbon-pricing claim."
-last_reviewed: 2026-07-12
-supports_outcomes: [carbon-pricing-cuts-emissions]
+subcategory: wiki-research-resources
+supports_outcomes:
+- carbon-pricing-cuts-emissions
+tags:
+- research
+- carbon-pricing
+- carbon-tax
+- emissions-trading
+- meta-analysis
+- ecological-georgism
+- pigouvian
+- atmosphere-commons
+tier: Important
+title: Systematic Review and Meta-Analysis of Ex-Post Evaluations on the Effectiveness
+  of Carbon Pricing (Döbbeling-Hildebrandt et al.)
+year: 2024
 ---
 
 ## Summary

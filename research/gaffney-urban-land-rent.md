@@ -1,15 +1,28 @@
 ---
-title: "Gaffney (1972–73): The Sources and Taxation of Urban Land Rent"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-urban
-tags: [research, gaffney, urban-land-rent, agglomeration, synergism, tax-capitalization, credit-discrimination, land-value-tax, henry-george-theorem]
-authors: [Mason Gaffney]
-year: 1972
-tier: Core
+excerpt: Gaffney's two-part 1972–73 theoretical statement of where urban land rent
+  comes from (natural features, public spending, and 'synergism') and why taxing it,
+  rather than income or buildings, is what lets rent perform its economic function
+  — including an informal, pre-Stiglitz statement of the Henry.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/E11-LandRentTaxation%26PublicPolicy-SourcesUrbanLandRent.CV.pdf
 stub: false
-excerpt: "Gaffney's two-part 1972–73 theoretical statement of where urban land rent comes from (natural features, public spending, and 'synergism') and why taxing it, rather than income or buildings, is what lets rent perform its economic function — including an informal, pre-Stiglitz statement of the Henry George Theorem's capitalization logic."
-last_reviewed: 2026-07-18
+subcategory: wiki-research-urban
+tags:
+- research
+- gaffney
+- urban-land-rent
+- agglomeration
+- synergism
+- tax-capitalization
+- credit-discrimination
+- land-value-tax
+- henry-george-theorem
+tier: Core
+title: 'Gaffney (1972–73): The Sources and Taxation of Urban Land Rent'
+year: 1972
 ---
 
 ## Overview

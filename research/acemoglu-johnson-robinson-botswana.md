@@ -1,17 +1,32 @@
 ---
-title: "An African Success Story: Botswana (Acemoglu, Johnson & Robinson)"
+authors:
+- Daron Acemoglu
+- Simon Johnson
+- James A. Robinson
+bears_on_objections:
+- rent-revenue-breeds-corruption
 category: research
-subcategory: wiki-research-lvt
-tags: [research, resource-rents, resource-curse, botswana, diamonds, institutions, sovereign-wealth-fund]
-authors: [Daron Acemoglu, Simon Johnson, James A. Robinson]
-year: 2003
-tier: important
+excerpt: The strongest non-Nordic case that capturing resource rent works where institutions
+  are strong. Botswana turned diamond rents into the fastest per-capita growth of
+  any country on earth over 1965–98 — 7.7% a year — by channelling mineral rents through
+  strong institutions of private property and.
+last_reviewed: 2026-07-12
 source_url: https://economics.mit.edu/sites/default/files/publications/An%20African%20Success%20Story%20Botswana.pdf
 stub: false
-excerpt: "The strongest non-Nordic case that capturing resource rent works where institutions are strong. Botswana turned diamond rents into the fastest per-capita growth of any country on earth over 1965–98 — 7.7% a year — by channelling mineral rents through strong institutions of private property and prudent, anti-Dutch-disease fiscal policy."
-supports_outcomes: [resource-rent-capture-works]
-last_reviewed: 2026-07-12
-bears_on_objections: [rent-revenue-breeds-corruption]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- resource-rent-capture-works
+tags:
+- research
+- resource-rents
+- resource-curse
+- botswana
+- diamonds
+- institutions
+- sovereign-wealth-fund
+tier: important
+title: 'An African Success Story: Botswana (Acemoglu, Johnson & Robinson)'
+year: 2003
 ---
 
 ## Summary

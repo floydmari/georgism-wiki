@@ -1,14 +1,27 @@
 ---
-title: "Land Justice and Indigenous Reconciliation — An Honest Intersection"
 category: narratives
-tags: [narratives, moral-argument, dispossession, indigenous-land, land-back, reconciliation, restitution, colonialism, resource-rents]
-stub: false
-excerpt: "Geoism and Indigenous land justice share a diagnosis — that dispossession enclosed a common inheritance and that land value is community-created — but diverge sharply on the remedy: rent capture versus restitution, jurisdiction, and Land Back. Where Indigenous scholars reject market-framework remedies, this page says so."
-narrative_type: moral
-supported_by: []
-related_people: [henry-george]
-related_places: [new-zealand]
+excerpt: 'Geoism and Indigenous land justice share a diagnosis — that dispossession
+  enclosed a common inheritance and that land value is community-created — but diverge
+  sharply on the remedy: rent capture versus restitution, jurisdiction, and Land Back.'
 last_reviewed: 2026-07-18
+narrative_type: moral
+related_people:
+- henry-george
+related_places:
+- new-zealand
+stub: false
+supported_by: []
+tags:
+- narratives
+- moral-argument
+- dispossession
+- indigenous-land
+- land-back
+- reconciliation
+- restitution
+- colonialism
+- resource-rents
+title: Land Justice and Indigenous Reconciliation — An Honest Intersection
 ---
 
 ## What This Page Is — and Is Not

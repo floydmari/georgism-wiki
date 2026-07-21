@@ -1,11 +1,19 @@
 ---
-title: "Adam Smith"
 category: people
-tags: [people, adam-smith, classical-economics, ground-rent, wealth-of-nations]
-stub: false
-excerpt: "The father of economics (1723–1790) argued in The Wealth of Nations that ground-rents are an especially suitable subject of taxation, that land rent is 'naturally a monopoly price,' and that entails deny each generation's 'equal right to the earth' — and he was already teaching the land-tax doctrine at Glasgow a decade earlier. A classical antecedent of Georgism, not a single-taxer."
+excerpt: The father of economics (1723–1790) argued in The Wealth of Nations that
+  ground-rents are an especially suitable subject of taxation, that land rent is 'naturally
+  a monopoly price,' and that entails deny each generation's 'equal right to the earth'
+  — and he was already teaching the land-tax.
 last_reviewed: 2026-07-18
 pd_quotes: true
+stub: false
+tags:
+- people
+- adam-smith
+- classical-economics
+- ground-rent
+- wealth-of-nations
+title: Adam Smith
 ---
 
 ## Overview

@@ -1,17 +1,34 @@
 ---
-title: "The Price of Residential Land for Counties, ZIP Codes, and Census Tracts in the United States"
+authors:
+- Morris A. Davis
+- William D. Larson
+- Stephen D. Oliner
+- Jessica Shui
+bears_on_objections:
+- land-cannot-be-assessed
 category: research
-subcategory: wiki-research-housing
-tags: [research, land-prices, land-share, data, fhfa, assessment, mass-appraisal]
-authors: [Morris A. Davis, William D. Larson, Stephen D. Oliner, Jessica Shui]
-year: 2019
-tier: core
+excerpt: 'The FHFA''s tract-level land-price project (WP 19-01; published JME 2021):
+  millions of appraisals 2012–2019 turned into land prices and land shares for counties,
+  ZIP codes, and census tracts across the US — simultaneously the best modern land-value
+  dataset and a demonstration that land can be valued.'
+last_reviewed: 2026-07-12
 source_url: https://www.fhfa.gov/research/papers/wp1901
 stub: false
-excerpt: "The FHFA's tract-level land-price project (WP 19-01; published JME 2021): millions of appraisals 2012–2019 turned into land prices and land shares for counties, ZIP codes, and census tracts across the US — simultaneously the best modern land-value dataset and a demonstration that land can be valued separately from structures at scale."
-last_reviewed: 2026-07-12
-bears_on_objections: [land-cannot-be-assessed]
-supports_outcomes: [housing-unaffordability-is-a-land-problem]
+subcategory: wiki-research-housing
+supports_outcomes:
+- housing-unaffordability-is-a-land-problem
+tags:
+- research
+- land-prices
+- land-share
+- data
+- fhfa
+- assessment
+- mass-appraisal
+tier: core
+title: The Price of Residential Land for Counties, ZIP Codes, and Census Tracts in
+  the United States
+year: 2019
 ---
 
 ## Summary

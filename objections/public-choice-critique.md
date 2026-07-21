@@ -1,11 +1,24 @@
 ---
-title: "Objection: The Public-Choice Critique (Government Failure Won't Stop at the Assessor's Door)"
 category: objections
-tags: [objections, public-choice, buchanan, tullock, leviathan, rent-seeking, land-value-tax]
-stub: false
-status: "Open and partly conceded — the symmetry argument is valid (LVT faces public-choice failure like any tax), but it is not disqualifying: LVT's base is unusually transparent and hard to game, and Buchanan's own rent-seeking analysis endorses a flat distribution rule (the dividend design) as the fix for the spending side; the design burden both impose is real"
-excerpt: "The Buchanan–Tullock objection: Georgists apply optimistic assumptions to government and pessimistic ones to markets. If rent-seeking is real, it does not stop at the assessor's door — assessment discretion is a surface for political favoritism, a revenue-maximizing 'Leviathan' would prize the land tax precisely because it is inescapable, Tullock's transitional-gains trap explains why the reform is so hard to enact, and even a captured rent draws rent-seekers into the budget that holds it. The steelman and the georgist replies — including Buchanan's own nondifferential-distribution escape valve."
+excerpt: 'The Buchanan–Tullock objection: Georgists apply optimistic assumptions to
+  government and pessimistic ones to markets.'
 last_reviewed: 2026-07-17
+status: 'Open and partly conceded — the symmetry argument is valid (LVT faces public-choice
+  failure like any tax), but it is not disqualifying: LVT''s base is unusually transparent
+  and hard to game, and Buchanan''s own rent-seeking analysis endorses a flat distribution
+  rule (the dividend design) as the fix for the spending side; the design burden both
+  impose is real'
+stub: false
+tags:
+- objections
+- public-choice
+- buchanan
+- tullock
+- leviathan
+- rent-seeking
+- land-value-tax
+title: 'Objection: The Public-Choice Critique (Government Failure Won''t Stop at the
+  Assessor''s Door)'
 ---
 
 ## The Objection

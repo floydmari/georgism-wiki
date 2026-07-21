@@ -9,12 +9,10 @@ authors:
 - Ki-Whan Choi
 - David L. Sjoquist
 category: research
-excerpt: 'A cluster of computable general-equilibrium (CGE) models — DiMasi (1987),
+excerpt: A cluster of computable general-equilibrium (CGE) models — DiMasi (1987),
   Follain & Miyake (1986), Haughwout (2001) on New York City, and others — that simulate
   shifting taxation onto land. They consistently predict lower land rents and house
-  prices, higher wages, and welfare gains. This is model evidence: internally rigorous
-  but hinging on assumed elasticities, and weaker than the wiki''s quasi-experimental
-  sources.'
+  prices, higher wages, and welfare gains.
 last_reviewed: 2026-07-18
 source_url: https://doi.org/10.1086/NTJ41788697
 stub: false

@@ -1,16 +1,30 @@
 ---
-title: "Petutschnig & Rünger (2022): Austria's Allowance for Corporate Equity and Capital Structure"
+authors:
+- Matthias Petutschnig
+- Silke Rünger
 category: research
-subcategory: wiki-research-finance
-tags: [research, ace, corporate-tax, debt-bias, austria, quasi-experimental, capital-structure]
-authors: [Matthias Petutschnig, Silke Rünger]
-year: 2022
-tier: important
+excerpt: 'Peer-reviewed firm-level evaluation of Austria''s allowance for corporate
+  equity finding it raised corporate equity ratios by roughly 1.4–2.3 percentage points
+  — a third-country replication of the ACE debt-bias correction (after Italy and Belgium),
+  with an honest nuance: constrained-dividend costs.'
+last_reviewed: 2026-07-12
 source_url: https://research.wu.ac.at/en/publications/the-effect-of-an-allowance-for-corporate-equity-on-capital-struct/
 stub: false
-supports_outcomes: [rent-targeting-taxes-reduce-debt-bias]
-excerpt: "Peer-reviewed firm-level evaluation of Austria's allowance for corporate equity finding it raised corporate equity ratios by roughly 1.4–2.3 percentage points — a third-country replication of the ACE debt-bias correction (after Italy and Belgium), with an honest nuance: constrained-dividend costs sometimes exceeded the tax benefit, and dispersed-ownership firms declined to use it."
-last_reviewed: 2026-07-12
+subcategory: wiki-research-finance
+supports_outcomes:
+- rent-targeting-taxes-reduce-debt-bias
+tags:
+- research
+- ace
+- corporate-tax
+- debt-bias
+- austria
+- quasi-experimental
+- capital-structure
+tier: important
+title: 'Petutschnig & Rünger (2022): Austria''s Allowance for Corporate Equity and
+  Capital Structure'
+year: 2022
 ---
 
 ## Summary

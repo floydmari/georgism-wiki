@@ -3,11 +3,9 @@ authors:
 - Mason Gaffney
 category: research
 excerpt: 'Two short, undated Mason Gaffney working papers (WP041, WP042, internally
-  dated to circa 1993) on how overpriced land distorts capital allocation: WP041
-  restates the "cash cow"/CCA mechanism already covered on the wiki''s companion
-  page; WP042 supplies the genuinely new material — a five-fold taxonomy of
-  land-substituting capital and a buyer typology (overbuilders vs. withholders)
-  explaining how land booms misdirect real investment.'
+  dated to circa 1993) on how overpriced land distorts capital allocation: WP041 restates
+  the "cash cow"/CCA mechanism already covered on the wiki''s companion page; WP042
+  supplies the genuinely new material — a five-fold.'
 last_reviewed: 2026-07-17
 source_url: https://masongaffney.org/workpapers/Land_Markets_Lead_to_Misallocating_Capital_WP042%20.pdf
 stub: false

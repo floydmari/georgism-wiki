@@ -153,21 +153,23 @@ def build_tags(post, folder):
     return tags
 
 def fit_excerpt(text, limit=300):
-    """Ghost hard-caps custom_excerpt at 300 chars. A blind [:300] cut ends
-    mid-word on ~200 pages (Floyd, 2026-07-18). Prefer the last sentence
-    boundary if it keeps a substantive excerpt; else cut at a word boundary
-    and add an ellipsis. Excerpts already within the cap pass through."""
+    """Ghost hard-caps custom_excerpt at 300 chars. Always cut at a sentence
+    boundary (no ellipsis). If no sentence boundary in window, cut at word
+    boundary and add a period. Excerpts within the cap pass through."""
     text = (text or "").strip()
     if len(text) <= limit:
         return text
-    window = text[: limit - 2]  # room for " …" / "…"
+    window = text[:limit]
     best_sentence = max(window.rfind(". "), window.rfind("! "), window.rfind("? "))
-    if best_sentence >= 150:
+    if best_sentence >= 100:
         return window[: best_sentence + 1]
     cut = window.rfind(" ")
     if cut < 1:
-        cut = limit - 2
-    return window[:cut].rstrip(" ,;:—-") + " …"
+        cut = limit
+    result = window[:cut].rstrip(" ,;:—-")
+    if result and result[-1] not in ".!?":
+        result += "."
+    return result
 
 
 def upsert(path):

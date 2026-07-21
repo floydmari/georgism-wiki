@@ -1,11 +1,21 @@
 ---
-title: "Cash-Flow Tax"
 category: concepts
-tags: [concepts, cash-flow-tax, dbcft, corporate-tax, rent-targeting-taxes, meade-report, geoism]
-stub: false
-supports_outcomes: [resource-rent-capture-works]
-excerpt: "A business tax on net cash flows with immediate expensing of investment: the normal return drops out of the base in present value, leaving only economic rent. Canonized by the Meade Report (1978); the destination-based variant (DBCFT) nearly became US law in 2017; Norway's petroleum tax became one in 2022."
+excerpt: 'A business tax on net cash flows with immediate expensing of investment:
+  the normal return drops out of the base in present value, leaving only economic
+  rent.'
 last_reviewed: 2026-07-06
+stub: false
+supports_outcomes:
+- resource-rent-capture-works
+tags:
+- concepts
+- cash-flow-tax
+- dbcft
+- corporate-tax
+- rent-targeting-taxes
+- meade-report
+- geoism
+title: Cash-Flow Tax
 ---
 
 ## Definition

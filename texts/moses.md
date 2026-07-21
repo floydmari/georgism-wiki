@@ -1,14 +1,30 @@
 ---
-title: "Moses (1878)"
+authors:
+- Henry George
 category: texts
-tags: [texts, henry-george, land-as-commons, single-tax, moral-argument, public-domain]
-authors: [Henry George]
-year: 1878
-public_domain: true
-provenance: "Henry George, 'Moses,' a lecture first delivered in San Francisco, June 1878, and again at Steinway Hall, New York, November 27, 1887 (the American text, reprinted here, adds a few passages on American conditions). Full text from the Internet Archive scan mosesandcrimeofp0000henr (a combined 'Moses / The Crime of Poverty' edition). Obvious OCR artifacts silently corrected against sense: running page-headers removed, end-of-line hyphenation rejoined, and an ornamental drop-cap restored."
-stub: false
-excerpt: "Henry George's lecture reading Moses not as a myth but as the greatest of social reformers — a lawgiver whose institutions (the Jubilee, the inalienability of land, the release of debts) were built to prevent a permanent division of society into rich and poor. The moral-religious statement of George's conviction that land is the common gift of the Creator."
+excerpt: Henry George's lecture reading Moses not as a myth but as the greatest of
+  social reformers — a lawgiver whose institutions (the Jubilee, the inalienability
+  of land, the release of debts) were built to prevent a permanent division of society
+  into rich and poor.
 last_reviewed: 2026-07-06
+provenance: 'Henry George, ''Moses,'' a lecture first delivered in San Francisco,
+  June 1878, and again at Steinway Hall, New York, November 27, 1887 (the American
+  text, reprinted here, adds a few passages on American conditions). Full text from
+  the Internet Archive scan mosesandcrimeofp0000henr (a combined ''Moses / The Crime
+  of Poverty'' edition). Obvious OCR artifacts silently corrected against sense: running
+  page-headers removed, end-of-line hyphenation rejoined, and an ornamental drop-cap
+  restored.'
+public_domain: true
+stub: false
+tags:
+- texts
+- henry-george
+- land-as-commons
+- single-tax
+- moral-argument
+- public-domain
+title: Moses (1878)
+year: 1878
 ---
 
 ## Headnote

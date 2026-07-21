@@ -1,11 +1,21 @@
 ---
-title: "The Saratoga Single Tax Debate (1890)"
 category: events
-tags: [events, saratoga-1890, single-tax, henry-george, academic-reception]
-stub: false
-excerpt: "The September 1890 Saratoga session on the single tax — the set-piece confrontation between Henry George and the rising academic economics profession, with J.B. Clark pressing 'The Moral Basis of Property in Land' and Seligman among the academic critics. The moment the George-vs-academy battle line was drawn in person."
-related_people: [henry-george, john-bates-clark, era-seligman]
+excerpt: The September 1890 Saratoga session on the single tax — the set-piece confrontation
+  between Henry George and the rising academic economics profession, with J.B. Clark
+  pressing 'The Moral Basis of Property in Land' and Seligman among the academic critics.
 last_reviewed: 2026-07-18
+related_people:
+- henry-george
+- john-bates-clark
+- era-seligman
+stub: false
+tags:
+- events
+- saratoga-1890
+- single-tax
+- henry-george
+- academic-reception
+title: The Saratoga Single Tax Debate (1890)
 ---
 
 ## Overview

@@ -1,12 +1,16 @@
 ---
-title: "Gaffney & Cobb (2018): Corporate Power and Expansive U.S. Military Policy"
+authors:
+- Mason Gaffney
+- John B. Cobb Jr.
 category: research
-subcategory: wiki-research-resources
-authors: [Mason Gaffney, John B. Cobb Jr.]
-year: 2018
-tier: important
+excerpt: A 2018 draft co-authored with John B. Cobb Jr. arguing U.S. military spending
+  is not a public good but a subsidy that manufactures and defends corporate land
+  and resource tenure abroad — from Cold War coups (Mossadegh, Arbenz, Lumumba, Allende)
+  to modern defense-contractor pork — recasting a.
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/L2018_Gaffney-Cobb-draft-Corporate-Power-%26-Military-2018-07-22.pdf
 stub: false
+subcategory: wiki-research-resources
 tags:
 - research
 - mason-gaffney
@@ -16,8 +20,9 @@ tags:
 - imperialism
 - public-goods
 - corporate-welfare
-excerpt: "A 2018 draft co-authored with John B. Cobb Jr. arguing U.S. military spending is not a public good but a subsidy that manufactures and defends corporate land and resource tenure abroad — from Cold War coups (Mossadegh, Arbenz, Lumumba, Allende) to modern defense-contractor pork — recasting a century of U.S. foreign policy as rent-seeking on a geopolitical scale."
-last_reviewed: 2026-07-18
+tier: important
+title: 'Gaffney & Cobb (2018): Corporate Power and Expansive U.S. Military Policy'
+year: 2018
 ---
 
 ## Overview

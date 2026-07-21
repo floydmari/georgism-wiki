@@ -1,10 +1,22 @@
 ---
-title: "Seigniorage"
 category: concepts
-tags: [concepts, seigniorage, money-creation, bank-money-creation, monetary-reform, sovereign-money, huber, positive-money, finance-rents, economic-rent]
-stub: false
-excerpt: "The profit from issuing money — traditionally a sovereign prerogative, historically captured by the state, and now, monetary reformers argue, captured mostly by commercial banks when they create deposit money through lending. The Huber-Robertson 'sovereign money' case for treating it as public revenue, its explicit debt to Georgist land-rent thinking, and the honest limits of the analogy."
+excerpt: The profit from issuing money — traditionally a sovereign prerogative, historically
+  captured by the state, and now, monetary reformers argue, captured mostly by commercial
+  banks when they create deposit money through lending.
 last_reviewed: 2026-07-18
+stub: false
+tags:
+- concepts
+- seigniorage
+- money-creation
+- bank-money-creation
+- monetary-reform
+- sovereign-money
+- huber
+- positive-money
+- finance-rents
+- economic-rent
+title: Seigniorage
 ---
 
 ## Definition

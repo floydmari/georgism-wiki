@@ -5,8 +5,7 @@ category: research
 excerpt: 'The European replication of Philippon''s puzzle: the unit cost of financial
   intermediation across Germany, France, the UK and other economies sat around 2%
   for decades and ROSE after 1970 — it did not fall despite the deregulation meant
-  to cut it. Independent, peer-reviewed corroboration that finance did not pass its
-  efficiency gains through.'
+  to cut it.'
 source_url: https://www.ipp.eu/wp-content/uploads/2014/06/n10-IPP-policy-brief-june2014.pdf
 stub: false
 subcategory: wiki-research-housing

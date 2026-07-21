@@ -1,11 +1,21 @@
 ---
-title: "Johnson v. M'Intosh (1823)"
 category: events
-tags: [events, land-dispossession, discovery-doctrine, indigenous-land, marshall-court, land-title, united-states]
-stub: false
-year: 1823
-excerpt: "The 1823 U.S. Supreme Court decision (Marshall, C.J.) establishing the 'discovery doctrine' — that European discovery gave the discovering sovereign title to Indian land, reducing Native nations to a right of occupancy only, and that individuals could not buy land directly from Indian tribes. A foundational land-dispossession precedent invoked in the great-land-robbery narrative."
+excerpt: The 1823 U.S. Supreme Court decision (Marshall, C.J.) establishing the 'discovery
+  doctrine' — that European discovery gave the discovering sovereign title to Indian
+  land, reducing Native nations to a right of occupancy only, and that individuals
+  could not buy land directly from Indian tribes.
 last_reviewed: 2026-07-09
+stub: false
+tags:
+- events
+- land-dispossession
+- discovery-doctrine
+- indigenous-land
+- marshall-court
+- land-title
+- united-states
+title: Johnson v. M'Intosh (1823)
+year: 1823
 ---
 
 ## Overview

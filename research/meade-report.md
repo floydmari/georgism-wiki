@@ -1,16 +1,28 @@
 ---
-title: "The Meade Report (1978): The Structure and Reform of Direct Taxation"
+authors:
+- James Meade (chair)
+bears_on_objections:
+- taxing-quasi-rents-kills-innovation
 category: research
-subcategory: wiki-research-resources
-tags: [research, meade-report, cash-flow-tax, expenditure-tax, corporate-tax, ifs, rent-targeting-taxes]
-authors: [James Meade (chair)]
-year: 1978
-tier: Core
+excerpt: The Institute for Fiscal Studies' landmark 1978 committee report, chaired
+  by Nobel laureate James Meade, arguing for a shift from taxing income to taxing
+  expenditure — and setting out the cash-flow bases for corporation tax (R, R+F, S)
+  that later became the reference designs for taxing only.
+last_reviewed: 2026-07-12
 source_url: https://ifs.org.uk/sites/default/files/output_url_files/meade.pdf
 stub: false
-excerpt: "The Institute for Fiscal Studies' landmark 1978 committee report, chaired by Nobel laureate James Meade, arguing for a shift from taxing income to taxing expenditure — and setting out the cash-flow bases for corporation tax (R, R+F, S) that later became the reference designs for taxing only above-normal returns."
-last_reviewed: 2026-07-12
-bears_on_objections: [taxing-quasi-rents-kills-innovation]
+subcategory: wiki-research-resources
+tags:
+- research
+- meade-report
+- cash-flow-tax
+- expenditure-tax
+- corporate-tax
+- ifs
+- rent-targeting-taxes
+tier: Core
+title: 'The Meade Report (1978): The Structure and Reform of Direct Taxation'
+year: 1978
 ---
 
 ## Summary

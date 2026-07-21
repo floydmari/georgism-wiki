@@ -1,17 +1,36 @@
 ---
-title: "Tideman, Akobundu, Johns & Wutthicharoen, \"The Avoidable Excess Burden of Broad-Based U.S. Taxes\""
+authors:
+- Nicolaus Tideman
+- Ebere Akobundu
+- Andrew Johns
+- Prapaiporn Wutthicharoen
+bears_on_objections:
+- lvt-not-enough-revenue
 category: research
-subcategory: wiki-research-housing
-tags: [research, excess-burden, deadweight-loss, land-value-tax, atcor, ebcor, cge, general-equilibrium, efficiency]
-authors: [Nicolaus Tideman, Ebere Akobundu, Andrew Johns, Prapaiporn Wutthicharoen]
-year: 2002
-tier: important
+excerpt: 'The independent CGE quantification behind ATCOR/EBCOR: a dynamic general-equilibrium
+  model estimating how much U.S. excess burden could be recovered by shifting five
+  broad-based taxes onto land.'
+last_reviewed: 2026-07-12
 source_url: https://doi.org/10.1177/109114210203000506
 stub: false
-excerpt: "The independent CGE quantification behind ATCOR/EBCOR: a dynamic general-equilibrium model estimating how much U.S. excess burden could be recovered by shifting five broad-based taxes onto land. The net welfare gain from shifting as much taxation to land as 90% of land rent would finance is estimated at ~14% of net domestic product in 2002, rising to ~26.6% by 2042."
-last_reviewed: 2026-07-12
-supports_outcomes: [taxing-land-raises-productivity, lvt-can-replace-capital-taxes-without-efficiency-loss]
-bears_on_objections: [lvt-not-enough-revenue]
+subcategory: wiki-research-housing
+supports_outcomes:
+- taxing-land-raises-productivity
+- lvt-can-replace-capital-taxes-without-efficiency-loss
+tags:
+- research
+- excess-burden
+- deadweight-loss
+- land-value-tax
+- atcor
+- ebcor
+- cge
+- general-equilibrium
+- efficiency
+tier: important
+title: Tideman, Akobundu, Johns & Wutthicharoen, "The Avoidable Excess Burden of Broad-Based
+  U.S. Taxes"
+year: 2002
 ---
 
 ## Summary

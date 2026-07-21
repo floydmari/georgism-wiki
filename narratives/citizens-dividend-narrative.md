@@ -1,14 +1,27 @@
 ---
-title: "Narrative: A Dividend from Common Wealth"
 category: narratives
-tags: [narratives, moral-argument, citizens-dividend, basic-income, alaska, resource-rents, common-wealth]
-stub: false
-excerpt: "The moral story that rent from land and natural resources is common property — paid out equally, it gives everyone a visible stake in the commons. Alaska's forty-year dividend is the anchor fact; the honest caveats are that it is oil rent, not location rent, and that windfalls can corrode as well as fund."
-narrative_type: moral
-supported_by: [resource-rent-dividends-work, land-rent-could-fund-government]
-related_people: [henry-george, alanna-hartzok]
-related_places: [british-columbia]
+excerpt: The moral story that rent from land and natural resources is common property
+  — paid out equally, it gives everyone a visible stake in the commons.
 last_reviewed: 2026-07-10
+narrative_type: moral
+related_people:
+- henry-george
+- alanna-hartzok
+related_places:
+- british-columbia
+stub: false
+supported_by:
+- resource-rent-dividends-work
+- land-rent-could-fund-government
+tags:
+- narratives
+- moral-argument
+- citizens-dividend
+- basic-income
+- alaska
+- resource-rents
+- common-wealth
+title: 'Narrative: A Dividend from Common Wealth'
 ---
 
 *This narrative deploys the concept defined at

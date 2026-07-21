@@ -1,14 +1,29 @@
 ---
-title: "The Crime of Poverty (1885)"
+authors:
+- Henry George
 category: texts
-tags: [texts, henry-george, single-tax, land-monopoly, moral-argument, public-domain]
-authors: [Henry George]
-year: 1885
-public_domain: true
-provenance: "Henry George, 'The Crime of Poverty,' an address delivered in the Opera House, Burlington, Iowa, April 1, 1885, under the auspices of Burlington Assembly No. 3135, Knights of Labor (which afterwards distributed fifty thousand copies as a tract). Full text from the Internet Archive scan crimeofpoverty00geor (a Joseph Fels Fund of America printing). Obvious OCR artifacts silently corrected against sense: systematic 'li'→'h' substitutions, end-of-line hyphenation rejoined, and an ornamental drop-cap artifact removed."
-stub: false
-excerpt: "Henry George's most famous popular lecture (Burlington, Iowa, 1885): poverty amid plenty is not natural or the fault of the poor but 'a crime' — the socially produced result of monopolised land. The accessible, moral-rhetorical companion to Progress and Poverty, distributed as a Knights of Labor tract in tens of thousands."
+excerpt: 'Henry George''s most famous popular lecture (Burlington, Iowa, 1885): poverty
+  amid plenty is not natural or the fault of the poor but ''a crime'' — the socially
+  produced result of monopolised land.'
 last_reviewed: 2026-07-06
+provenance: 'Henry George, ''The Crime of Poverty,'' an address delivered in the Opera
+  House, Burlington, Iowa, April 1, 1885, under the auspices of Burlington Assembly
+  No. 3135, Knights of Labor (which afterwards distributed fifty thousand copies as
+  a tract). Full text from the Internet Archive scan crimeofpoverty00geor (a Joseph
+  Fels Fund of America printing). Obvious OCR artifacts silently corrected against
+  sense: systematic ''li''→''h'' substitutions, end-of-line hyphenation rejoined,
+  and an ornamental drop-cap artifact removed.'
+public_domain: true
+stub: false
+tags:
+- texts
+- henry-george
+- single-tax
+- land-monopoly
+- moral-argument
+- public-domain
+title: The Crime of Poverty (1885)
+year: 1885
 ---
 
 ## Headnote

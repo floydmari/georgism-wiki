@@ -1,16 +1,29 @@
 ---
-title: "Stewart (2022): How Important Are Land Values in House Price Growth? Evidence from Canadian Cities"
+authors:
+- Kenneth G. Stewart
 category: research
-subcategory: wiki-research-housing
-tags: [research, land-share, house-prices, decomposition, canada, growth-accounting, cobb-douglas]
-authors: [Kenneth G. Stewart]
-year: 2022
-tier: important
+excerpt: A Canadian growth-accounting decomposition using directly observed (not imputed)
+  land prices finds land is the dominant contributor to new-home price growth in some
+  cities but not uniformly — the land share 'varies greatly by city,' disciplining
+  the universal reading while confirming the.
+last_reviewed: 2026-07-13
 source_url: https://doi.org/10.1111/caje.12585
 stub: false
-supports_outcomes: [housing-unaffordability-is-a-land-problem]
-excerpt: "A Canadian growth-accounting decomposition using directly observed (not imputed) land prices finds land is the dominant contributor to new-home price growth in some cities but not uniformly — the land share 'varies greatly by city,' disciplining the universal reading while confirming the land/structure framework."
-last_reviewed: 2026-07-13
+subcategory: wiki-research-housing
+supports_outcomes:
+- housing-unaffordability-is-a-land-problem
+tags:
+- research
+- land-share
+- house-prices
+- decomposition
+- canada
+- growth-accounting
+- cobb-douglas
+tier: important
+title: 'Stewart (2022): How Important Are Land Values in House Price Growth? Evidence
+  from Canadian Cities'
+year: 2022
 ---
 
 ## Summary

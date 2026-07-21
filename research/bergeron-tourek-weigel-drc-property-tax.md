@@ -1,16 +1,30 @@
 ---
-title: "The State Capacity Ceiling on Tax Rates: Randomized Property-Tax Abatements in the DRC (Bergeron, Tourek & Weigel, 2024)"
+authors:
+- Augustin Bergeron
+- Gabriel Tourek
+- Jonathan Weigel
 category: research
-subcategory: wiki-research-lvt
-tags: [research, property-tax, developing-countries, state-capacity, field-experiment, drc, revenue, empirical]
-authors: [Augustin Bergeron, Gabriel Tourek, Jonathan Weigel]
-year: 2024
-tier: Important
+excerpt: An Econometrica field experiment randomizing property-tax rates across 38,028
+  owners in Kananga, DR Congo — the first to randomize tax rates.
+last_reviewed: 2026-07-12
 source_url: https://doi.org/10.3982/ecta19959
 stub: false
-excerpt: "An Econometrica field experiment randomizing property-tax rates across 38,028 owners in Kananga, DR Congo — the first to randomize tax rates. It shows property taxation is a valuable fiscal-capacity lever in a very poor state, but that weak enforcement sets a binding ceiling on how far rates can be raised."
-last_reviewed: 2026-07-12
-supports_outcomes: [property-tax-raises-welfare-developing]
+subcategory: wiki-research-lvt
+supports_outcomes:
+- property-tax-raises-welfare-developing
+tags:
+- research
+- property-tax
+- developing-countries
+- state-capacity
+- field-experiment
+- drc
+- revenue
+- empirical
+tier: Important
+title: 'The State Capacity Ceiling on Tax Rates: Randomized Property-Tax Abatements
+  in the DRC (Bergeron, Tourek & Weigel, 2024)'
+year: 2024
 ---
 
 ## Summary

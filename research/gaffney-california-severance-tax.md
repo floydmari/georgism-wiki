@@ -2,11 +2,10 @@
 authors:
 - Mason Gaffney
 category: research
-excerpt: 'Gaffney''s 2006 policy essay, drafted for a California Assembly committee
-  amid the Prop. 87 campaign, arguing a well-designed severance tax on California oil
-  would fall mostly on rent rather than consumers, and that a "net proceeds" tax base
-  approximates a pure rent tax better than a flat wellhead levy — written after
-  Prop. 13 (1978) gutted the state''s older in-situ property tax on oil reserves.'
+excerpt: Gaffney's 2006 policy essay, drafted for a California Assembly committee
+  amid the Prop. 87 campaign, arguing a well-designed severance tax on California
+  oil would fall mostly on rent rather than consumers, and that a "net proceeds" tax
+  base approximates a pure rent tax better than a flat wellhead.
 last_reviewed: 2026-07-16
 source_url: https://masongaffney.org/essays/2006_Severance_Tax_on_California_Oil.pdf
 stub: false

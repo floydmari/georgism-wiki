@@ -1,17 +1,46 @@
 ---
-title: "Mass Appraisal Across Six Jurisdictions: A Synthesis of Thin Case Studies"
+authors:
+- Jelena Kilić
+- Katarina Rogulj
+- Nikša Jajac
+- Mürşide Şükran Yalpır
+- Fatma Bünyan Ünel
+- Saulius Raslanas
+- Edmundas Kazimieras Zavadskas
+- Artūras Kaklauskas
+- Arūnas Remigijus Zabulėnas
+- Pablo Aragonés-Beltrán
+- Jerónimo Aznar
+- Jesús Ferrís-Oñate
+- Mónica García-Melón
+- Yaolin Xue
+- Yuting Hu
+- Jingyao Yang
+- Qiu Chen
+- Ossama Kettani
+- Karim Khelifi
+bears_on_objections:
+- land-cannot-be-assessed
 category: research
-subcategory: wiki-research-lvt
-tags: [research, assessment, mass-appraisal, valuation, international, synthesis, cama]
-authors: [Jelena Kilić, Katarina Rogulj, Nikša Jajac, Mürşide Şükran Yalpır, Fatma Bünyan Ünel, Saulius Raslanas, Edmundas Kazimieras Zavadskas, Artūras Kaklauskas, Arūnas Remigijus Zabulėnas, Pablo Aragonés-Beltrán, Jerónimo Aznar, Jesús Ferrís-Oñate, Mónica García-Melón, Yaolin Xue, Yuting Hu, Jingyao Yang, Qiu Chen, Ossama Kettani, Karim Khelifi]
-year: 2019
-tier: Supplementary
+excerpt: Six single-country land/property valuation studies (Croatia, Turkey, Lithuania,
+  Spain, China, Quebec) from the tail of Doucet's Part 3 citation list, each individually
+  thin, read and graded honestly by access level.
+last_reviewed: 2026-07-18
 source_url: https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=324144
 stub: false
-excerpt: "Six single-country land/property valuation studies (Croatia, Turkey, Lithuania, Spain, China, Quebec) from the tail of Doucet's Part 3 citation list, each individually thin, read and graded honestly by access level. Their collective weight is breadth — non-Anglophone, non-elite-journal evidence that statistical and expert-weighted land valuation is attempted worldwide — not depth on any single case."
-last_reviewed: 2026-07-18
-bears_on_objections: [land-cannot-be-assessed]
+subcategory: wiki-research-lvt
 supports_outcomes: []
+tags:
+- research
+- assessment
+- mass-appraisal
+- valuation
+- international
+- synthesis
+- cama
+tier: Supplementary
+title: 'Mass Appraisal Across Six Jurisdictions: A Synthesis of Thin Case Studies'
+year: 2019
 ---
 
 ## Summary

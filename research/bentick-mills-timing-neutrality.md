@@ -8,8 +8,7 @@ category: research
 excerpt: 'The standard theoretical counter to land-tax neutrality: Bentick (JPE 1979)
   and Mills (NTJ 1981) show a tax on land''s market value can distort development
   timing — biasing owners toward quick-yield projects and potentially hastening fringe
-  conversion. Tideman''s 1982 rebuttal locates the flaw in the assessment basis, not
-  the land tax itself.'
+  conversion.'
 last_reviewed: 2026-07-05
 source_url: https://www.journals.uchicago.edu/doi/abs/10.1086/260797
 stub: false

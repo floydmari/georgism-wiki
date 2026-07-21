@@ -1,11 +1,20 @@
 ---
-title: "Denmark"
 category: places
-tags: [denmark, grundskyld, land-value-tax, georgism, scandinavia, fiscal-policy]
-stub: false
-sources: [tideman-1999]
-excerpt: "Denmark’s grundskyld (“ground duty”) is one of the developed world’s longest-standing land taxes — a recurrent levy assessed on land value, separate from and in addition to any tax on buildings. Two recent quasi-experiments on the same 2007 municipal reform reach opposite conclusions on whether it capitalizes into prices."
+excerpt: Denmark’s grundskyld (“ground duty”) is one of the developed world’s longest-standing
+  land taxes — a recurrent levy assessed on land value, separate from and in addition
+  to any tax on buildings.
 last_reviewed: 2026-07-18
+sources:
+- tideman-1999
+stub: false
+tags:
+- denmark
+- grundskyld
+- land-value-tax
+- georgism
+- scandinavia
+- fiscal-policy
+title: Denmark
 ---
 
 ## Overview

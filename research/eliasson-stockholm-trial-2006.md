@@ -10,7 +10,7 @@ category: research
 excerpt: 'The evaluation team''s overview of Stockholm''s seven-month 2006 congestion-charging
   trial: cordon traffic fell ~22%, peak travel-time delays fell by a third to a half,
   CO2 from inner-city traffic fell ~14% — and the visibly felt time savings flipped
-  hostile public opinion into a majority ''yes'' at the September 2006 referendum.'
+  hostile public opinion into a majority ''yes'' at.'
 last_reviewed: 2026-07-11
 source_url: https://doi.org/10.1016/j.tra.2008.09.007
 stub: false

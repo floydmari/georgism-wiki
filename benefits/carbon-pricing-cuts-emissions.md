@@ -9,8 +9,7 @@ evidence_strength: Moderate-to-strong for real, measurable emissions reductions 
 excerpt: 'Pricing the scarce right to emit — charging for use of the atmospheric commons
   — measurably reduces emissions wherever it has been tried, at little cost to growth:
   British Columbia''s revenue-neutral carbon tax cut per-capita fuel use ~19% while
-  GDP outpaced the rest of Canada; a meta-analysis of 80 causal evaluations, cross-country
-  and EU-ETS evidence agree the effect is real, if modest.'
+  GDP outpaced the rest of Canada; a meta-analysis of 80.'
 last_reviewed: 2026-07-13
 stub: false
 supported_by:

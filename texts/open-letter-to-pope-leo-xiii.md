@@ -1,14 +1,56 @@
 ---
-title: "The Condition of Labour: An Open Letter to Pope Leo XIII"
+authors:
+- Henry George
 category: texts
-tags: [texts, henry-george, land-value-tax, single-tax, economic-rent, georgism]
-authors: [Henry George]
-year: 1891
-public_domain: true
-provenance: "First published as *The Condition of Labor: An Open Letter to Pope Leo XIII* (New York: United States Book Company, successors to John W. Lovell Company, 1891; copyright Henry George, 1891), in reply to Pope Leo XIII's encyclical Rerum Novarum (15 May 1891). CORRECTED 2026-07-18: the text below replaces a ~1,500-word fabricated pastiche that occupied this page from an earlier loop — see LOOPLOG.md 2026-07-18 (T2 quote-verification sweep) for the discovery, and the 2026-07-18 re-acquisition entry for this fix. Re-transcribed from the Internet Archive scan of the 1891 first edition, item conditionoflabor00georuoft (University of Toronto copy, digitized 2007; https://archive.org/details/conditionoflabor00georuoft), djvu.txt OCR layer fetched 2026-07-18. This edition bound George's letter with the official English translation of Rerum Novarum as an appendix; only George's own letter (title page through his 11 September 1891 signature) is reproduced here — the appendix is a separate document not included. Cleanup was mechanical and targeted only at unambiguous OCR/scan artifacts: running page headers ('THE CONDITION OF LABOR.' / 'OPEN LETTER TO POPE LEO XIII.' with page numbers, in wildly inconsistent OCR case and spacing) were stripped; line-wrap hyphenation was rejoined; a handful of unambiguous scanner misreadings were corrected (e.g. 'tbe'→'the', a stray '%' used where the scan's question marks were misread, 'Qod'→'God', 'JSulty'→'Nulty' for the Right Rev. Dr. Thomas Nulty, Bishop of Meath, quoted at length by George). No wording was added, removed, or paraphrased. Two independently-verified anchor points confirm this is the genuine text: the opening line reads 'I have read with care your Encyclical letter on the condition of labor, addressed, through the Patriarchs, Primates, Archbishops and Bishops of your faith, to the Christian World' (matching the wording independently attested at henrygeorgefoundation.org that the prior fabricated version diverged from), and George's Rerum Novarum quotation reads '\"God has not granted the earth to mankind in general in the sense that all without distinction can deal with it as they please,\"' (matching the wording the prior fabricated version diverged from). Residual OCR errors may remain in a document this length (~34,400 words) — notably two garbled numeric citations to Encyclical paragraph numbers in George's own footnotes/proposition list (rendered in the source scan as '(1J/.-17.)' and '(SI.)') were left as transcribed rather than guessed at; a further proofreading pass against the archive.org page images is queued. Public domain: first published 1891; Henry George died 1897 — long out of copyright in the US and clear under life+70 in every jurisdiction."
-stub: false
-excerpt: "Henry George's 1891 open letter to Pope Leo XIII, written in reply to Rerum Novarum. George argues that the encyclical's condemnation of socialism is correct but that its defence of private property in land confounds God-made land with man-made capital — that private property in land is 'the same in essence' as chattel slavery, that the land question is the labor question, and that a single tax on land values (not compensated land nationalization, not socialism) is the Christian remedy. Full text of George's letter, in four numbered parts."
+excerpt: Henry George's 1891 open letter to Pope Leo XIII, written in reply to Rerum
+  Novarum. George argues that the encyclical's condemnation of socialism is correct
+  but that its defence of private property in land confounds God-made land with man-made
+  capital — that private property in land is 'the same.
 last_reviewed: 2026-07-18
+provenance: 'First published as *The Condition of Labor: An Open Letter to Pope Leo
+  XIII* (New York: United States Book Company, successors to John W. Lovell Company,
+  1891; copyright Henry George, 1891), in reply to Pope Leo XIII''s encyclical Rerum
+  Novarum (15 May 1891). CORRECTED 2026-07-18: the text below replaces a ~1,500-word
+  fabricated pastiche that occupied this page from an earlier loop — see LOOPLOG.md
+  2026-07-18 (T2 quote-verification sweep) for the discovery, and the 2026-07-18 re-acquisition
+  entry for this fix. Re-transcribed from the Internet Archive scan of the 1891 first
+  edition, item conditionoflabor00georuoft (University of Toronto copy, digitized
+  2007; https://archive.org/details/conditionoflabor00georuoft), djvu.txt OCR layer
+  fetched 2026-07-18. This edition bound George''s letter with the official English
+  translation of Rerum Novarum as an appendix; only George''s own letter (title page
+  through his 11 September 1891 signature) is reproduced here — the appendix is a
+  separate document not included. Cleanup was mechanical and targeted only at unambiguous
+  OCR/scan artifacts: running page headers (''THE CONDITION OF LABOR.'' / ''OPEN LETTER
+  TO POPE LEO XIII.'' with page numbers, in wildly inconsistent OCR case and spacing)
+  were stripped; line-wrap hyphenation was rejoined; a handful of unambiguous scanner
+  misreadings were corrected (e.g. ''tbe''→''the'', a stray ''%'' used where the scan''s
+  question marks were misread, ''Qod''→''God'', ''JSulty''→''Nulty'' for the Right
+  Rev. Dr. Thomas Nulty, Bishop of Meath, quoted at length by George). No wording
+  was added, removed, or paraphrased. Two independently-verified anchor points confirm
+  this is the genuine text: the opening line reads ''I have read with care your Encyclical
+  letter on the condition of labor, addressed, through the Patriarchs, Primates, Archbishops
+  and Bishops of your faith, to the Christian World'' (matching the wording independently
+  attested at henrygeorgefoundation.org that the prior fabricated version diverged
+  from), and George''s Rerum Novarum quotation reads ''"God has not granted the earth
+  to mankind in general in the sense that all without distinction can deal with it
+  as they please,"'' (matching the wording the prior fabricated version diverged from).
+  Residual OCR errors may remain in a document this length (~34,400 words) — notably
+  two garbled numeric citations to Encyclical paragraph numbers in George''s own footnotes/proposition
+  list (rendered in the source scan as ''(1J/.-17.)'' and ''(SI.)'') were left as
+  transcribed rather than guessed at; a further proofreading pass against the archive.org
+  page images is queued. Public domain: first published 1891; Henry George died 1897
+  — long out of copyright in the US and clear under life+70 in every jurisdiction.'
+public_domain: true
+stub: false
+tags:
+- texts
+- henry-george
+- land-value-tax
+- single-tax
+- economic-rent
+- georgism
+title: 'The Condition of Labour: An Open Letter to Pope Leo XIII'
+year: 1891
 ---
 
 ## Editorial note

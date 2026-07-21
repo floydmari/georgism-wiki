@@ -1,10 +1,20 @@
 ---
-title: "Spectrum Auctions"
 category: concepts
-tags: [concepts, spectrum-auctions, coase, auction-design, commons, geoism, natural-monopoly, rent-capture]
-stub: false
-excerpt: "Auctioning the right to use scarce radio spectrum — a finite, publicly-owned natural resource — so the public captures its scarcity rent instead of gifting it to incumbents. Proposed by Ronald Coase in 1959, adopted by the FCC in 1994, and now the standard worldwide: over $200 billion raised in the US alone. A relatively clean non-land rent-capture case, with a live 'sell-once vs lease' tension."
+excerpt: Auctioning the right to use scarce radio spectrum — a finite, publicly-owned
+  natural resource — so the public captures its scarcity rent instead of gifting it
+  to incumbents.
 last_reviewed: 2026-07-06
+stub: false
+tags:
+- concepts
+- spectrum-auctions
+- coase
+- auction-design
+- commons
+- geoism
+- natural-monopoly
+- rent-capture
+title: Spectrum Auctions
 ---
 
 ## Definition

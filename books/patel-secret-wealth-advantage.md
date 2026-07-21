@@ -1,15 +1,27 @@
 ---
-title: "The Secret Wealth Advantage"
+authors:
+- Akhil Patel
 category: books
-tags: [research, books-publications, land-cycle, 18-year-cycle, real-estate, investment, akhil-patel, harriman-house]
-authors: [Akhil Patel]
-year: 2023
-tier: supplementary
+excerpt: Akhil Patel's 2023 book presents the ~18-year real estate cycle from an investment
+  perspective, tracing the lineage from Henry George through Fred Harrison and Homer
+  Hoyt.
+last_reviewed: 2026-07-05
 source_url: https://harriman-house.com/the-secret-wealth-advantage
 stub: false
-excerpt: "Akhil Patel's 2023 book presents the ~18-year real estate cycle from an investment perspective, tracing the lineage from Henry George through Fred Harrison and Homer Hoyt. The book argues the cycle is driven by land speculation and the law of economic rent, with stock market gains of ~450% from cycle start to summit."
-last_reviewed: 2026-07-05
-supports_outcomes: [lvt-dampens-land-speculation]
+supports_outcomes:
+- lvt-dampens-land-speculation
+tags:
+- research
+- books-publications
+- land-cycle
+- 18-year-cycle
+- real-estate
+- investment
+- akhil-patel
+- harriman-house
+tier: supplementary
+title: The Secret Wealth Advantage
+year: 2023
 ---
 
 ## Summary

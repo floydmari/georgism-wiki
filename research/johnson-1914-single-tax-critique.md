@@ -6,7 +6,7 @@ category: research
 excerpt: Alvin Johnson's January 1914 Atlantic Monthly attack — the single tax as
   'propaganda for the universal confiscation of land' — was the Progressive Era's
   most prominent mainstream critique; Fred Foldvary's 2017 point-by-point rebuttal
-  is the modern Georgist reply. The wiki carries the exchange as a pair.
+  is the modern Georgist reply.
 last_reviewed: 2026-07-06
 source_url: https://www.theatlantic.com/magazine/archive/1914/01/
 stub: false

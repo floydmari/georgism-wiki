@@ -1,17 +1,29 @@
 ---
-title: "Gaffney (1971): The Property Tax Is A Progressive Tax"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-urban
-tags: [research, mason-gaffney, property-tax, land-monopoly, tax-incidence, wealth-concentration, split-rate-taxation, regressivity]
-authors: [Mason Gaffney]
-year: 1971
-tier: Important
+excerpt: 'Gaffney''s four-part rebuttal of the ''regressive property tax'' consensus:
+  property ownership is far more concentrated than income (a multi-study wealth-concentration
+  table), the tax on capital is not chiefly shifted forward, standard studies commit
+  a regression fallacy by ranking on income rather.'
+last_reviewed: 2026-07-18
 source_url: https://masongaffney.org/publications/G17Property_Tax_Progressive_Tax.CV.pdf
 stub: false
+subcategory: wiki-research-urban
 supports_outcomes:
 - landlords-cannot-pass-lvt-to-tenants
-excerpt: "Gaffney's four-part rebuttal of the 'regressive property tax' consensus: property ownership is far more concentrated than income (a multi-study wealth-concentration table), the tax on capital is not chiefly shifted forward, standard studies commit a regression fallacy by ranking on income rather than wealth, and AGI understates property owners' true income — a wealth-based equity argument published the same year Mieszkowski's capital-mobility 'new view' reached a related but analytically distinct conclusion."
-last_reviewed: 2026-07-18
+tags:
+- research
+- mason-gaffney
+- property-tax
+- land-monopoly
+- tax-incidence
+- wealth-concentration
+- split-rate-taxation
+- regressivity
+tier: Important
+title: 'Gaffney (1971): The Property Tax Is A Progressive Tax'
+year: 1971
 ---
 
 ## Overview

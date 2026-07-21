@@ -1,12 +1,15 @@
 ---
-title: "Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash in 2015?"
+authors:
+- Mason Gaffney
 category: research
-subcategory: wiki-research-georgism
-authors: [Mason Gaffney]
-year: 2015
-tier: important
+excerpt: 'Gaffney''s 2015 peer-reviewed American Journal of Economics and Sociology
+  paper: a four-element ''real-assets'' model of boom-bust crises (land-price rises,
+  marginal-site construction, circulating-to-fixed capital displacement, bank over-leverage)
+  applied to the 2008 crash and used to forecast a.'
+last_reviewed: 2026-07-18
 source_url: https://onlinelibrary.wiley.com/doi/10.1111/ajes.12093
 stub: false
+subcategory: wiki-research-georgism
 supports_outcomes:
 - resource-rent-capture-works
 tags:
@@ -18,8 +21,10 @@ tags:
 - capital-theory
 - banking
 - land-speculation
-excerpt: "Gaffney's 2015 peer-reviewed American Journal of Economics and Sociology paper: a four-element 'real-assets' model of boom-bust crises (land-price rises, marginal-site construction, circulating-to-fixed capital displacement, bank over-leverage) applied to the 2008 crash and used to forecast a Chinese property-sector contraction in 2015 — a forecast subsequently corroborated by events."
-last_reviewed: 2026-07-18
+tier: important
+title: 'Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash
+  in 2015?'
+year: 2015
 ---
 
 ## Overview
