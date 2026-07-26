@@ -4,7 +4,7 @@ category: places
 tags: [places, public-land-leasing, leasehold, canberra, australia, land-value-capture, henry-george]
 stub: false
 excerpt: "Australia's national capital was founded in 1911 on public leasehold, deliberately designed on Georgist lines to keep the 'unearned increment' in public hands — a design that was progressively undermined and largely abandoned by 1971."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-26
 ---
 
 ## Overview
@@ -31,6 +31,7 @@ Canberra remains, in name, an all-leasehold city, and later inquiries — includ
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Hong Kong](/wiki/hong-kong/)
 - [Singapore](/wiki/singapore/)
+- [Ethiopia](/wiki/ethiopia/) — a leasehold system undermined by administrative-capacity failures rather than Canberra's political abandonment of revaluation
 - [New South Wales](/wiki/new-south-wales/)
 - [Land Speculation](/wiki/land-speculation/)
 

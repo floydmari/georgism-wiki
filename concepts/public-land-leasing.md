@@ -6,7 +6,7 @@ excerpt: The state keeps title and leases land long-term instead of taxing it an
   — Hong Kong, Singapore, and Canberra are the working examples. It captures land
   value at grant and renewal rather than as a flow, which is both its fiscal power
   and, for Georgists, its structural weakness.
-last_reviewed: 2026-07-05
+last_reviewed: 2026-07-26
 stub: false
 tags:
 - concepts
@@ -48,6 +48,15 @@ still fund themselves from land.[1]
   territory be sold freehold, and the first 99-year residential leases were
   auctioned on 12 December 1924 — explicitly so that future increases in land
   value would remain in the public purse.[5]
+- **Ethiopia.** A stronger public-ownership base than any of the above — all
+  urban land has been state property outright since the Derg's 1975
+  nationalization — paired with a market leasehold system introduced in 1993
+  and revised in 2002 and 2011. An independent academic review and a former
+  municipal land administrator's own account both find the system persistently
+  undercut by bid collusion, corruption, and weak enforcement of its
+  anti-speculation rules — an administrative-capacity failure rather than
+  Canberra's political abandonment of rent revaluation.[9] See
+  [Ethiopia](/wiki/ethiopia/) for the full case.
 
 ## The Georgist Reading — and the Structural Caveat
 
@@ -132,3 +141,8 @@ Public Land* (Lincoln Institute, 2003).[8]
    2003, ISBN 978-1-55844-155-2.
    [Lincoln](https://www.lincolninst.edu/publications/books/leasing-public-land/)
    — used as the standard international survey (A-claims).
+9. Zelalem Yirga Adamu, "Critical Analysis of Ethiopian Urban Land Lease Policy
+   Reform Since Early 1990s," FIG Congress 2014.
+   [fig.net PDF](http://www.fig.net/pub/fig2014/papers/ts07k/TS07K_adamu_6825.pdf)
+   — used for the Ethiopia summary; full sourcing on the
+   [Ethiopia](/wiki/ethiopia/) page (B-claim).

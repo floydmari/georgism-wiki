@@ -5,7 +5,7 @@ tags: [concepts, land-value-capture, betterment, public-finance, infrastructure]
 stub: false
 excerpt: "The broad family of public-finance tools that recover, for public benefit, the land-value increases created by public investment and community growth."
 pd_quotes: true
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-26
 ---
 
 ## Definition
@@ -20,6 +20,7 @@ last_reviewed: 2026-07-18
 - **Public land leasing** — the state retains ownership and leases land, capturing appreciation directly (as in [Singapore](/wiki/singapore/) and [Hong Kong](/wiki/hong-kong/)).
 - **Land Value Increment Tax** — taxing the gain at transfer (as in [Taiwan](/wiki/taiwan/)).
 - **Community benefit charges** — Ontario's CBC (collected since 2022, capped at 4% of land value at building-permit issuance) is a live Canadian example; [Dachis (2023)](/wiki/dachis-buyers-beware-housing-barriers/) recommends raising its cap while cutting per-unit development charges, arguing land-value capture is the right tool for financing amenities where user fees don't fit.
+- **Negotiated PILOTs and community-benefit funds** — for large, discrete land uses without a formula-based instrument, capture is sometimes bargained case-by-case instead. Data centers, now among the highest-value land uses in many US jurisdictions, show how much this depends on negotiating leverage: Loudoun County, Virginia's data-center tax base generates roughly $1.3 billion a year (about 45% of the county's total tax revenue), letting the county cut its residential property-tax rate over a decade, while Columbus, Ohio granted a 100%, 15-year property-tax abatement worth roughly $54 million to a Google data center that created only about 20 jobs — the same land use, capturing public value or forfeiting it entirely, depending on the deal a local government secures.[4]
 
 For a current practitioner-level survey of these instruments — Canadian and international case studies, mechanism comparisons, and an honest account of administrative complexity and typical yields — see the [CIB-commissioned Land Value Capture Study](/wiki/cib-land-value-capture-study/) (Siemiatycki, Fagan & Arku, 2023).
 
@@ -66,3 +67,4 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 1. Lincoln Institute studies of land value capture (Taiwan, Hong Kong case studies) — used for the instrument taxonomy and the operating examples (A/B-claims). [Taiwan PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/144_lamtsui98.pdf)
 2. Dye & England (2010) — used for the relationship between value capture and land value taxation (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
 3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II — used for the rate-rent mechanism as LVC (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)
+4. Greg Miller, "Don't Reject Data Centers. Negotiate Harder.", *Progress and Poverty* (Substack), 6 May 2026. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/dont-reject-data-centers-negotiate) — used for the Loudoun County (VA) and Columbus (OH) data-center tax-revenue and abatement figures (B-claim, advocacy-institute source).

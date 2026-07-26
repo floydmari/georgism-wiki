@@ -56,24 +56,6 @@
    "author": "UKTJP503G"
   },
   {
-   "url": "https://deanbaker22.substack.com/p/land-value-taxes-and-progressive",
-   "source": "commonwealth",
-   "reason": "essay platform with keyword in path (land value)",
-   "queued_at": "2026-07-16T00:13:07.079863+00:00",
-   "reported": false,
-   "context": "<https://deanbaker22.substack.com/p/land-value-taxes-and-progressive>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.billtrack50.com/billdetail/1967655",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (property tax)",
-   "queued_at": "2026-07-16T00:13:07.080153+00:00",
-   "reported": false,
-   "context": "\"The legislature in Kentucky, our neighbor to the east, is considering <https://www.billtrack50.com/billdetail/1967655|a bill that would,> among other things, allow cities to separate property taxes into land and improvements.\"",
-   "author": "UKTJP503G"
-  },
-  {
    "url": "https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/",
    "source": "commonwealth",
    "reason": "unknown domain with keyword (land tax)",
@@ -254,15 +236,6 @@
    "author": "UNYCKRMC6"
   },
   {
-   "url": "https://progressandpoverty.substack.com/p/boom-lvt-candidates-get-elected-landscape?utm_campaign=email-half-post&amp;r=27da6&amp;utm_source=substack&amp;utm_medium=email",
-   "source": "lvt-rents-learning",
-   "reason": "policy domain (substack.com) with keyword (poverty)",
-   "queued_at": "2026-07-16T00:13:09.722575+00:00",
-   "reported": false,
-   "context": "from Greg Miller's very outstanding substack on LVT Landscape\n\n<https://progressandpoverty.substack.com/p/boom-lvt-candidates-get-elected-landscape?utm_campaign=email-half-post&amp;r=27da6&amp;utm_source=substack&amp;utm_medium=email|https://progressandpoverty.substack.com/p/boom-lvt-candidates-get-",
-   "author": "UNYCKRMC6"
-  },
-  {
    "url": "https://www.realtor.com/advice/buy/monopoly-real-estate-atlantic-city-prices/",
    "source": "lvt-rents-learning",
    "reason": "unknown domain with keyword (henry george)",
@@ -389,66 +362,12 @@
    "author": "UNYCKRMC6"
   },
   {
-   "url": "https://progressandpoverty.substack.com/p/land-value-capture-in-practice-reflections",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.845463+00:00",
-   "reported": false,
-   "context": "Land Value Capture in Practice: Reflections on Ethiopia’s Urban Land Lease System",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/you-can-now-vibe-code-land-value",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.860383+00:00",
-   "reported": false,
-   "context": "You Can Now Vibe Code Land Value Tax Modeling",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic-de5",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.866480+00:00",
-   "reported": false,
-   "context": "Land value taxes are winning: LVT Landscape Live",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/how-replacing-council-tax-with-a",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.872586+00:00",
-   "reported": false,
-   "context": "How replacing council tax with a flat land value tax would affect households in the UK",
-   "author": "research-scanner"
-  },
-  {
    "url": "https://progressandpoverty.substack.com/p/property-taxes-are-not-land-value",
    "source": "internet-scan",
    "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
    "queued_at": "2026-07-17T23:44:18.890631+00:00",
    "reported": false,
    "context": "Property Taxes are Not Land Value Taxes",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/dont-reject-data-centers-negotiate",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: cities)",
-   "queued_at": "2026-07-17T23:44:18.896437+00:00",
-   "reported": false,
-   "context": "Don’t Reject Data Centers. Negotiate Harder.",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/just-put-it-on-a-map",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: urban)",
-   "queued_at": "2026-07-17T23:44:18.916662+00:00",
-   "reported": false,
-   "context": "Just Put It On a Map",
    "author": "research-scanner"
   },
   {
@@ -1496,8 +1415,116 @@
    "disposition": "used",
    "disposition_reason": "people/andy-burnham.md (PM status independently corroborated NPR/CNN/NBC)",
    "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://deanbaker22.substack.com/p/land-value-taxes-and-progressive",
+   "source": "commonwealth",
+   "reason": "essay platform with keyword in path (land value)",
+   "queued_at": "2026-07-16T00:13:07.079863+00:00",
+   "reported": false,
+   "context": "<https://deanbaker22.substack.com/p/land-value-taxes-and-progressive>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "folded into concepts/land-value-tax.md Progressivity Design section",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://www.billtrack50.com/billdetail/1967655",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (property tax)",
+   "queued_at": "2026-07-16T00:13:07.080153+00:00",
+   "reported": false,
+   "context": "\"The legislature in Kentucky, our neighbor to the east, is considering <https://www.billtrack50.com/billdetail/1967655|a bill that would,> among other things, allow cities to separate property taxes into land and improvements.\"",
+   "author": "UKTJP503G",
+   "disposition": "folded",
+   "disposition_reason": "duplicate: same KY HB 607 already covered in events/2026-state-lvt-enablement-wave.md",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/boom-lvt-candidates-get-elected-landscape?utm_campaign=email-half-post&amp;r=27da6&amp;utm_source=substack&amp;utm_medium=email",
+   "source": "lvt-rents-learning",
+   "reason": "policy domain (substack.com) with keyword (poverty)",
+   "queued_at": "2026-07-16T00:13:09.722575+00:00",
+   "reported": false,
+   "context": "from Greg Miller's very outstanding substack on LVT Landscape\n\n<https://progressandpoverty.substack.com/p/boom-lvt-candidates-get-elected-landscape?utm_campaign=email-half-post&amp;r=27da6&amp;utm_source=substack&amp;utm_medium=email|https://progressandpoverty.substack.com/p/boom-lvt-candidates-get-",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "partial fold: MN Fateh / OH Blessing sponsor names into event page; minor races ephemeral",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/land-value-capture-in-practice-reflections",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.845463+00:00",
+   "reported": false,
+   "context": "Land Value Capture in Practice: Reflections on Ethiopia’s Urban Land Lease System",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "NEW places/ethiopia.md (corroborated vs FIG 2014 Adamu paper)",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/you-can-now-vibe-code-land-value",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.860383+00:00",
+   "reported": false,
+   "context": "You Can Now Vibe Code Land Value Tax Modeling",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "folded into organizations/center-for-land-economics.md (LVTShift AI commands)",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic-de5",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.866480+00:00",
+   "reported": false,
+   "context": "Land value taxes are winning: LVT Landscape Live",
+   "author": "research-scanner",
+   "disposition": "rejected",
+   "disposition_reason": "ephemeral event recap; all durable facts already sourced from stronger primaries",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/how-replacing-council-tax-with-a",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.872586+00:00",
+   "reported": false,
+   "context": "How replacing council tax with a flat land value tax would affect households in the UK",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "folded into people/andy-burnham.md as third distributional model (PolicyEngine Ahmadi/Ghenis)",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/dont-reject-data-centers-negotiate",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: cities)",
+   "queued_at": "2026-07-17T23:44:18.896437+00:00",
+   "reported": false,
+   "context": "Don’t Reject Data Centers. Negotiate Harder.",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "folded into concepts/land-value-capture.md Negotiated PILOTs bullet",
+   "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/just-put-it-on-a-map",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: urban)",
+   "queued_at": "2026-07-17T23:44:18.916662+00:00",
+   "reported": false,
+   "context": "Just Put It On a Map",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "folded into organizations/center-for-land-economics.md (CivicMapper/Put It On A Map)",
+   "consumed_at": "2026-07-26T15:05:43Z"
   }
  ],
- "total": 86,
- "last_updated": "2026-07-26T14:52:35Z"
+ "total": 77,
+ "last_updated": "2026-07-26T15:05:43Z"
 }

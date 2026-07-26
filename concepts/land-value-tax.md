@@ -5,7 +5,7 @@ tags: [lvt, taxation, georgism, fiscal-policy, land]
 stub: false
 excerpt: "A levy on the unimproved value of land, excluding buildings and improvements — held by economists across the ideological spectrum to be the least distortionary of all taxes, because land's supply is fixed and cannot shrink in response to the tax."
 sources: [george-1879, mirrlees-2011, tideman-1999]
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-26
 pd_quotes: true
 ---
 
@@ -54,6 +54,10 @@ Milton Friedman called LVT "the least bad tax" — the strongest endorsement fro
 ## Modern Extensions: Posner & Weyl's COST
 
 Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radical Markets* (2018, Ch. 1). Their **Common Ownership Self-Assessed Tax (COST)** combines LVT with Harberger self-assessment: possessors declare their asset's value, pay an annual tax on it (~7% for typical assets), and must sell to anyone willing to pay the declared price. Unlike George's 100% land-rent tax, the COST sets the rate below full rent to preserve investment incentives, and extends the tax base beyond land to all property — a departure George himself would have resisted, since he distinguished land (natural, taxable) from "artificial capital" (human-made, exempt). See [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/).
+
+## Progressivity Design: Pairing a Flat LVT with Progressive Rates
+
+Economist Dean Baker — co-founder of the Center for Economic and Policy Research (CEPR) — argues that a pure land value tax, precisely because it does not touch behavior, would itself be **mildly regressive**: land is typically a smaller share of a high-value home's assessed worth than of a modest home's, since expensive properties carry proportionally more building value.[16] Baker's proposed fix keeps the land-only base rather than abandoning it: pair a modest flat-rate LVT with **progressive marginal rates layered on top of total property value**, illustrating with a stylized three-property example ($200K/$400K/$1.5M homes, land assumed at one-fifth of value) that raising rates only above a high threshold requires no more than adjusting "the rates that apply... on an Excel spreadsheet."[16] Baker offers no jurisdiction-level data or incidence estimate — the piece is a worked illustration of the mechanism, not an empirical study — but it is a notable progressivity-design response from a prominent non-Georgist economist, distinct from the deferral/circuit-breaker remedies the wiki documents for the related [asset-rich, cash-poor objection](/wiki/lvt-hurts-asset-rich-cash-poor/), since Baker's concern is cross-sectional regressivity by income rather than transition-timing liquidity. (D-claim; interpretive design proposal.)
 
 ## Book Findings
 
@@ -117,6 +121,7 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 - [Henry George](/wiki/henry-george/) — the economist who made LVT the centrepiece of a global movement
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — a documented American implementation
 - [Objection: if LVT is so good, why has almost no one adopted it?](/wiki/lvt-not-widely-adopted/) — the adoption record and what the rollbacks show
+- [Objection: LVT hurts the "asset-rich, cash-poor"](/wiki/lvt-hurts-asset-rich-cash-poor/) — a related but distinct fairness concern (transition-timing liquidity, not cross-sectional regressivity)
 - [ATCOR](/wiki/atcor/) — the theorem that all taxes come out of rent
 - [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/) — Howard's rate-rent as practical LVT
 - [Robert V. Andelson](/wiki/robert-v-andelson/) — editor of *Critics of Henry George*
@@ -143,3 +148,4 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 13. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015) — used for the contemporary popular LVT case and the land/capital distinction (D-claim). [Book page](/wiki/land-a-new-paradigm/)
 14. Sightline Institute (2026), "Yes, a Land Value Tax Is Possible in Washington State." [sightline.org](https://www.sightline.org/2026/06/03/yes-a-land-value-tax-is-possible-in-washington-state) — used for the Washington State legal-feasibility point in Real-World Implementations (advocacy think-tank analysis, cited as such).
 15. New York State Senate, Bill S7871 (2023–2024 session): directs a land-value-assessment pilot program. [nysenate.gov](https://www.nysenate.gov/legislation/bills/2023/S7871) — used for the US legislative-activity point (primary legal text; a bill, not enacted law).
+16. Dean Baker, "Land Value Taxes and Progressivity," *Beat the Press* (Substack), 16 April 2026. [deanbaker22.substack.com](https://deanbaker22.substack.com/p/land-value-taxes-and-progressive) — used for the regressivity concern and the progressive-property-tax-layered-on-LVT proposal (D-claim).

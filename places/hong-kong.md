@@ -4,7 +4,7 @@ category: places
 tags: [places, hong-kong, land-leasing, public-finance, land-value-capture]
 stub: false
 excerpt: "Hong Kong funds much of its government from land — the state owns nearly all land and leases it, capturing land value as a primary public revenue source."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-26
 ---
 
 ## Overview
@@ -34,6 +34,7 @@ It also illustrates a tension: because the government benefits from high land pr
 - [MTR Corporation](/wiki/mtr-corporation/) — the rail operator whose Rail + Property model captures land-value uplift to fund transit
 - [CIB Land Value Capture Study (Siemiatycki, Fagan & Arku, 2023)](/wiki/cib-land-value-capture-study/) — the international benchmarking study behind the HK$171.8bn MTR figure and the Crossrail/Scarborough comparisons
 - [Public Land Leasing](/wiki/public-land-leasing/) — the mechanism, with the Hong Kong, Singapore, and Canberra cases
+- [Ethiopia](/wiki/ethiopia/) — a contrasting leasehold case where weak enforcement, not repricing lags, is the binding constraint on capture
 - [Land Value Capture](/wiki/land-value-capture/) · [Singapore](/wiki/singapore/) · [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/)
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the outcome these cases partially evidence
 - [Public investment capitalizes into land values](/wiki/public-investment-capitalizes-into-land/) — the general pattern the MTR case illustrates at rail-station scale
