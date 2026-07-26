@@ -2,42 +2,6 @@
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
  "queue": [
   {
-   "url": "https://www.theurbanist.org/author/aaron/",
-   "source": "social-media-production",
-   "reason": "unknown domain with keyword (urban)",
-   "queued_at": "2026-07-16T00:13:05.331966+00:00",
-   "reported": false,
-   "context": "The Urbanist - LVT opinion piece by cartographer <https://www.theurbanist.org/author/aaron/|Aaron Schechter> (June 07, 2026)\n<https://www.theurbanist.org/op-ed-the-case-for-shifting-to-a-land-value-tax/>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.theage.com.au/property/news/property-investors-are-fleeing-victoria-over-soaring-land-taxes-20240608-p5jk9c.html#selection-3779.27-3783.172",
-   "source": "social-media-production",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:05.333717+00:00",
-   "reported": false,
-   "context": "The Age - Property investors are fleeing Victoria over soaring land taxes (June 9, 2024)\n<https://www.theage.com.au/property/news/property-investors-are-fleeing-victoria-over-soaring-land-taxes-20240608-p5jk9c.html#selection-3779.27-3783.172>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.propertycouncil.com.au/media-releases/global-investors-abandon-victoria-as-land-tax-surcharges-bite",
-   "source": "social-media-production",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:05.333749+00:00",
-   "reported": false,
-   "context": "Property Council AU - Global investors abandon Victoria as land tax surcharges bite (29 October 2025)\n<https://www.propertycouncil.com.au/media-releases/global-investors-abandon-victoria-as-land-tax-surcharges-bite>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:07.077529+00:00",
-   "reported": false,
-   "context": "broadandliberty - *_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/|Russell Richie:>_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/| Philadelphia’s job-killing wag",
-   "author": "UKTJP503G"
-  },
-  {
    "url": "https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/",
    "source": "commonwealth",
    "reason": "unknown domain with keyword (land tax)",
@@ -155,15 +119,6 @@
    "author": "UNYCKRMC6"
   },
   {
-   "url": "https://www.realtor.com/advice/buy/monopoly-real-estate-atlantic-city-prices/",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (henry george)",
-   "queued_at": "2026-07-16T00:13:09.722896+00:00",
-   "reported": false,
-   "context": "> Elizabeth Magie created what she called “The Landlord’s Game,” which she described as “practical demonstration of the present system of land-grabbing with all its usual outcomes and consequences.”\n> \n> Her vision was based on the ideas of 19th‑century economist Henry George, who argued that govern",
-   "author": "UNYCKRMC6"
-  },
-  {
    "url": "https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975",
    "source": "lvt-rents-learning",
    "reason": "unknown domain with keyword (ai)",
@@ -171,33 +126,6 @@
    "reported": false,
    "context": "&gt; _“Redistributing gains from the [land] tax in the form of land dividends would benefit the overwhelming majority of Koreans” -_ Young Seong-yoo et al. (<https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975|2022>) Gyeonggi R",
    "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/property-taxes-are-not-land-value",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.890631+00:00",
-   "reported": false,
-   "context": "Property Taxes are Not Land Value Taxes",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpovertyinstitute.org/wp-content/uploads/2026-PoI-RFP-description-LVT.pdf",
-   "source": "internet-scan",
-   "reason": "Progress and Poverty Institute LVT RFP description (2026)",
-   "context": "Progress and Poverty Institute LVT RFP description (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web",
-   "source": "commonwealth",
-   "reason": "policy domain (substack.com) with keyword (lvt)",
-   "context": "Scott Santens LVT post\n\n<https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web|open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?…>",
-   "author": "UKTJP503G",
-   "queued_at": "2026-07-21T10:02:48.405757+00:00",
-   "reported": false
   }
  ],
  "consumed": [
@@ -1688,8 +1616,104 @@
    "disposition": "rejected",
    "disposition_reason": "internal Notion notes, not a source",
    "consumed_at": "2026-07-26T19:50:31Z"
+  },
+  {
+   "url": "https://www.theurbanist.org/author/aaron/",
+   "source": "social-media-production",
+   "reason": "unknown domain with keyword (urban)",
+   "queued_at": "2026-07-16T00:13:05.331966+00:00",
+   "reported": false,
+   "context": "The Urbanist - LVT opinion piece by cartographer <https://www.theurbanist.org/author/aaron/|Aaron Schechter> (June 07, 2026)\n<https://www.theurbanist.org/op-ed-the-case-for-shifting-to-a-land-value-tax/>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "Schechter op-ed located and folded into washington-state.md Seattle section",
+   "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://www.theage.com.au/property/news/property-investors-are-fleeing-victoria-over-soaring-land-taxes-20240608-p5jk9c.html#selection-3779.27-3783.172",
+   "source": "social-media-production",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:05.333717+00:00",
+   "reported": false,
+   "context": "The Age - Property investors are fleeing Victoria over soaring land taxes (June 9, 2024)\n<https://www.theage.com.au/property/news/property-investors-are-fleeing-victoria-over-soaring-land-taxes-20240608-p5jk9c.html#selection-3779.27-3783.172>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "australia.md new Victoria investor-exit section (measured vs asserted separated)",
+   "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://www.propertycouncil.com.au/media-releases/global-investors-abandon-victoria-as-land-tax-surcharges-bite",
+   "source": "social-media-production",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:05.333749+00:00",
+   "reported": false,
+   "context": "Property Council AU - Global investors abandon Victoria as land tax surcharges bite (29 October 2025)\n<https://www.propertycouncil.com.au/media-releases/global-investors-abandon-victoria-as-land-tax-surcharges-bite>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same section; attributed as industry-advocacy release (Mandala 53% figure)",
+   "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:07.077529+00:00",
+   "reported": false,
+   "context": "broadandliberty - *_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/|Russell Richie:>_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/| Philadelphia’s job-killing wag",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "pennsylvania.md new Philadelphia wage-tax-alternative section (Harvard jobs estimate VERIFY-flagged)",
+   "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://www.realtor.com/advice/buy/monopoly-real-estate-atlantic-city-prices/",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (henry george)",
+   "queued_at": "2026-07-16T00:13:09.722896+00:00",
+   "reported": false,
+   "context": "> Elizabeth Magie created what she called “The Landlord’s Game,” which she described as “practical demonstration of the present system of land-grabbing with all its usual outcomes and consequences.”\n> \n> Her vision was based on the ideas of 19th‑century economist Henry George, who argued that govern",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "elizabeth-magie.md fold (search-sourced, VERIFY on date/full text)",
+   "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/property-taxes-are-not-land-value",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.890631+00:00",
+   "reported": false,
+   "context": "Property Taxes are Not Land Value Taxes",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "Miller-Doucet production-margin rebuttal folded into land-value-tax.md property-tax distinction section",
+   "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://progressandpovertyinstitute.org/wp-content/uploads/2026-PoI-RFP-description-LVT.pdf",
+   "source": "internet-scan",
+   "reason": "Progress and Poverty Institute LVT RFP description (2026)",
+   "context": "Progress and Poverty Institute LVT RFP description (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "PoI RFP bullet on org page (read in full)",
+   "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web",
+   "source": "commonwealth",
+   "reason": "policy domain (substack.com) with keyword (lvt)",
+   "context": "Scott Santens LVT post\n\n<https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web|open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?…>",
+   "author": "UKTJP503G",
+   "queued_at": "2026-07-21T10:02:48.405757+00:00",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "Santens rent-dividend framing + revenue figures folded into citizens-dividend.md (first wiki mention)",
+   "consumed_at": "2026-07-26T19:56:34Z"
   }
  ],
- "total": 22,
- "last_updated": "2026-07-26T19:50:31Z"
+ "total": 14,
+ "last_updated": "2026-07-26T19:56:34Z"
 }

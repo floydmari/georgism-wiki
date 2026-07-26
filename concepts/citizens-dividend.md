@@ -4,6 +4,7 @@ category: concepts
 tags: [concepts, citizens-dividend, basic-income, land-rent, alaska]
 stub: false
 excerpt: "The distribution of collected land and resource rent equally to all citizens as a cash dividend — proposed by Henry George and exemplified by the Alaska Permanent Fund."
+last_reviewed: 2026-07-26
 ---
 
 ## Definition
@@ -15,6 +16,8 @@ A **citizen's dividend** is the equal distribution to all residents of the publi
 Henry George anticipated the idea: once land rent funds the legitimate functions of government, any surplus could be distributed to citizens directly. The citizen's dividend is the bridge between Georgism and the modern **universal basic income** debate — a UBI funded not from taxes on labour but from the common rent of land and resources.
 
 The same destination has been reached from outside the Georgist tradition. The Nobel economist [James Meade](/wiki/james-meade/) argued the state should hold a large share of a society's productive capital and pay its return to every citizen as an unconditional **social dividend** — the Georgist logic (socialise ownership returns, not labour) applied to capital in general rather than land rent specifically. Meade's independent convergence is why the idea has mainstream as well as Georgist parentage.
+
+A prominent contemporary UBI advocate making the LVT-dividend bridge explicit is **Scott Santens**, who argues a land value tax is UBI's most defensible funding source because, unlike other forms of wealth, "land cannot be wired to the Cayman Islands," and projects that a 1% US land value tax could raise roughly $360 billion/year (about $90/month per person), rising to roughly $1.8 trillion/year (about $470/month per person) at a 5% rate.[6] Santens is otherwise a general-UBI advocate whose broader platform is not rent-funded, so per the wiki's UBI scope rule this piece is cited narrowly for its rent-dividend framing and revenue figures, not as blanket coverage of his wider UBI advocacy.
 
 ## Real-World Example
 
@@ -69,3 +72,4 @@ Bill Raley's BIEN Congress 2018 paper [*The Citizen's Dividend*](/wiki/raley-cit
 3. Peter Barnes, *With Liberty and Dividends for All* (Berrett-Koehler, 2014) — used for the universal dividend from co-owned wealth proposal and the Paine lineage (C/A-claims). [Book page](/wiki/with-liberty-and-dividends-for-all/)
 4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend mechanism (C-claim). [Book page](/wiki/capitalism-3-0/)
 5. Bill Raley, "The Citizen's Dividend," 18th BIEN Congress (Tampere, 2018) — used for the Locke–Paine–George entitlement rationale and the VAT-funded proposal (attributed; grey-literature conference paper). [Research page](/wiki/raley-citizens-dividend/)
+6. Scott Santens, "Land Value Tax + Dividend = UBI," *Scott Santens* (Substack), 2026. [scottsantens.substack.com](https://scottsantens.substack.com/p/land-value-tax-dividend-ubi) — used for the "cannot be wired to the Cayman Islands" framing and the 1%/5% US LVT revenue-per-person estimates (advocacy source, attributed; D-claim for the framing, unverified back-of-envelope figures for the revenue estimates).

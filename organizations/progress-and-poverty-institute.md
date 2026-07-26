@@ -4,7 +4,7 @@ category: organizations
 tags: [organizations, research, land-value-tax, advocacy, schalkenbach, henry-george]
 stub: false
 excerpt: "The renamed Robert Schalkenbach Foundation (rebranded at its 2025 centennial): a century-old Georgist institution now operating as a research institute — scholarship and grant programs, a researcher registry, and the 2025 LVT research-priorities agenda."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-07-26
 ---
 
 ## Overview
@@ -35,6 +35,7 @@ Progress and Poverty Substack.)
 - **Funding and infrastructure.** Scholarship and grant programs (including a
   National Tax Association grant presence) and a registry of researchers working
   on land-value taxation.[2][4]
+- **2026 grant cycle.** PPI's 2026 "Progress of Ideas" grant program invited proposals (due April 6, 2026, from US 501(c)(3) organizations) on LVT valuation methods, fiscal/distributional modeling, political economy and messaging, and legal/institutional constraints, offering grants of up to $10,000 for projects of up to two years.[5]
 - **Publishing lineage.** As Schalkenbach, the organization spent a century
   keeping George's works in print and funding scholarship — the publishing
   history documented on the [Schalkenbach page](/wiki/schalkenbach-foundation/),
@@ -64,3 +65,8 @@ Progress and Poverty Substack.)
 4. National Tax Association, "Progress & Poverty Institute Grant" (2026).
    [NTA](https://ntanet.org/2026/02/progress-poverty/) — used for the grant
    program's external footprint (A-claim).
+5. Progress and Poverty Institute, "2026 Progress of Ideas Grant Application:
+   Land Value Taxation" (RFP document, 2026).
+   [PDF](https://progressandpovertyinstitute.org/wp-content/uploads/2026-PoI-RFP-description-LVT.pdf)
+   — used for the 2026 grant cycle's scope, eligibility, deadline, and award
+   size (A-claim; primary source).
