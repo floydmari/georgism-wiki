@@ -956,24 +956,6 @@
    "reported": false
   },
   {
-   "url": "https://www.wvxu.org/politics/2026-07-20/land-value-tax-cincinnati",
-   "source": "social-media-production",
-   "reason": "unknown domain with keyword (lvt)",
-   "context": "WVXU NPR Network - Cincinnati LVT report (July 20)\n<https://www.wvxu.org/politics/2026-07-20/land-value-tax-cincinnati|wvxu.org/politics/2026-07-20/land-value-tax-cincinnati>",
-   "author": "UKTJP503G",
-   "queued_at": "2026-07-22T10:01:32.945872+00:00",
-   "reported": false
-  },
-  {
-   "url": "https://landeconomics.org/reports/cincinnati-report",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land value)",
-   "context": "*From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio* (*July 2026)*\n<https://landeconomics.org/reports/cincinnati-report|landeconomics.org/reports/cincinnati-report>",
-   "author": "UKTJP503G",
-   "queued_at": "2026-07-22T10:01:34.660746+00:00",
-   "reported": false
-  },
-  {
    "url": "https://www.sciencedirect.com/science/article/pii/S0264275126005263",
    "source": "commonwealth",
    "reason": "unknown domain with keyword (land value)",
@@ -1427,8 +1409,32 @@
    "disposition": "rejected",
    "disposition_reason": "duplicate of arxiv.org/abs/2511.21766 (kept in queue)",
    "consumed_at": "2026-07-26T14:39:58Z"
+  },
+  {
+   "url": "https://www.wvxu.org/politics/2026-07-20/land-value-tax-cincinnati",
+   "source": "social-media-production",
+   "reason": "unknown domain with keyword (lvt)",
+   "context": "WVXU NPR Network - Cincinnati LVT report (July 20)\n<https://www.wvxu.org/politics/2026-07-20/land-value-tax-cincinnati|wvxu.org/politics/2026-07-20/land-value-tax-cincinnati>",
+   "author": "UKTJP503G",
+   "queued_at": "2026-07-22T10:01:32.945872+00:00",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "Reception section on research/ndspn-cincinnati-lvt-analysis.md + org page center-for-land-economics.md",
+   "consumed_at": "2026-07-26T14:43:22Z"
+  },
+  {
+   "url": "https://landeconomics.org/reports/cincinnati-report",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land value)",
+   "context": "*From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio* (*July 2026)*\n<https://landeconomics.org/reports/cincinnati-report|landeconomics.org/reports/cincinnati-report>",
+   "author": "UKTJP503G",
+   "queued_at": "2026-07-22T10:01:34.660746+00:00",
+   "reported": false,
+   "disposition": "folded",
+   "disposition_reason": "duplicate of ndspn-cincinnati-lvt-analysis source PDF; noted as CLE-hosted alternate URL on that page",
+   "consumed_at": "2026-07-26T14:43:22Z"
   }
  ],
- "total": 109,
- "last_updated": "2026-07-26T14:39:58Z"
+ "total": 107,
+ "last_updated": "2026-07-26T14:43:22Z"
 }

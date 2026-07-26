@@ -4,7 +4,7 @@ authors:
 - Rowan Miller
 category: research
 excerpt: "Notre Dame student-policy parcel simulation (with the Center for Land Economics) of a revenue-neutral 4:1 split-rate LVT shift for Cincinnati: vacant land's bill up a median 126%, most homeowners save modestly (~$26/yr), multi-family cuts 16-17%, and the burden shifts up the income scale."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-26
 source_url: https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf
 stub: false
 subcategory: wiki-research-lvt
@@ -211,6 +211,30 @@ consistency with a modeled result is not the same as confirming it: this report 
   land-to-improvement ratios, nor test how the results would change under a milder or more
   aggressive split.
 
+## Reception
+
+**WVXU** (Cincinnati Public Radio, NPR member station), reporting 20 July 2026, is the
+first independent press coverage of the report and its Ohio SJR 7 backdrop.[5] Cincinnati
+City Council member **Mark Jeffreys**, chair of the Housing and Growth Committee, gave a
+cautiously supportive reaction — agreeing that surface parking lots underutilize valuable
+urban land, while flagging that any change would need to weigh "the entire ecosystem of
+incentives and property taxes," not the land-tax rate in isolation. CLE director **Greg
+Miller** repeated the report's framing for a general audience: "the current winners of our
+property tax system... are the people who build less, particularly the vacant landowner."
+
+The article also updates the legislative status of **Ohio SJR 7**, the constitutional
+amendment (introduced by state Sen. **Bill Blessing**, R-Colerain Twp.) that this report's
+scenario depends on: Blessing told WVXU the resolution is unlikely to advance before the
+General Assembly's December 2026 adjournment, but he plans to reintroduce it next session.
+SJR 7 would still need three-fifths approval in both chambers before reaching Ohio voters —
+underscoring that, as of this reporting, no Ohio municipality has any legal path to a split
+rate or land value tax yet.
+
+The Center for Land Economics also hosts the identical report directly on its own site,
+[landeconomics.org/reports/cincinnati-report](https://landeconomics.org/reports/cincinnati-report)
+— the same PDF, same authors, and same findings documented above under a CLE-branded
+landing page rather than the direct file link; it is not a separate analysis.
+
 ## Bears On
 
 These findings are directionally relevant to three existing wiki claim pages, but — matching
@@ -267,3 +291,8 @@ new independent evidence.
    [Progress and Poverty Institute](/wiki/progress-and-poverty-institute/) — [wiki summary](/wiki/miller-hoskins-college-town-lvt/) —
    used as the comparison genre (the same SPN/CLE partnership's prior South Bend and
    Princeton simulations) and for the grading pattern this entry follows.
+5. Becca Costello (2026-07-20), "Land value tax," WVXU (Cincinnati Public Radio, NPR member
+   station). [wvxu.org](https://www.wvxu.org/politics/2026-07-20/land-value-tax-cincinnati) —
+   used for the Reception section: Council member Mark Jeffreys's reaction, Greg Miller's
+   general-audience framing, and Sen. Bill Blessing's update on Ohio SJR 7's legislative
+   status; fetched and read in full this session.

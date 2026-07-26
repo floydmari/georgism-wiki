@@ -5,7 +5,7 @@ tags: [organizations, research, assessment, lvt, doucet]
 url: https://landeconomics.org/
 stub: false
 excerpt: "A US nonprofit research and education organisation launched in 2025 by Greg Miller and Lars Doucet, focused on equitable land assessment and open-source tools for modelling land value tax shifts."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-26
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ The **Center for Land Economics** (CLE) is a US nonprofit research and education
 
 ## Focus
 
-The Center's central concern is **land assessment** — building better methods and data to value land separately from improvements, directly tackling the most common [objection to LVT](/wiki/land-cannot-be-assessed/), that land value cannot be assessed accurately. Its flagship tool, **LVTShift**, is an open-source modelling platform that lets a city estimate the effect of a land-value-tax shift on property tax bills by property type and neighbourhood, drawing on parcel-level data about vacant and underutilised land and land-to-improvement ratios.[4] The Center has also published empirical studies of assessment failures — including analyses of the systematic undervaluation of vacant land in Baltimore and across Maryland (2024–2026), arguing that such undervaluation shifts tax burdens and rewards speculative blight.[5] It has also partnered with student policy teams on city-level parcel simulations, including the University of Notre Dame Student Policy Network's South Bend and Princeton reports and, most recently, [an analysis of a hypothetical land value tax shift for Cincinnati, Ohio](/wiki/ndspn-cincinnati-lvt-analysis/) (July 2026).
+The Center's central concern is **land assessment** — building better methods and data to value land separately from improvements, directly tackling the most common [objection to LVT](/wiki/land-cannot-be-assessed/), that land value cannot be assessed accurately. Its flagship tool, **LVTShift**, is an open-source modelling platform that lets a city estimate the effect of a land-value-tax shift on property tax bills by property type and neighbourhood, drawing on parcel-level data about vacant and underutilised land and land-to-improvement ratios.[4] The Center has also published empirical studies of assessment failures — including analyses of the systematic undervaluation of vacant land in Baltimore and across Maryland (2024–2026), arguing that such undervaluation shifts tax burdens and rewards speculative blight.[5] It has also partnered with student policy teams on city-level parcel simulations, including the University of Notre Dame Student Policy Network's South Bend and Princeton reports and, most recently, [an analysis of a hypothetical land value tax shift for Cincinnati, Ohio](/wiki/ndspn-cincinnati-lvt-analysis/) (July 2026, also published directly on the Center's own site as "From the Ground Up"). That report drew the partnership's first independent press coverage — WVXU (Cincinnati's NPR station) covered it on July 20, 2026, reporting a cautiously supportive reaction from Cincinnati City Council member Mark Jeffreys and an update on the pending Ohio SJR 7 constitutional amendment its scenario depends on.[6]
 
 ## Significance
 
@@ -35,3 +35,4 @@ Where older organisations preserve and teach the tradition, the Center for Land 
 3. Center for Land Economics, "About Us." [landeconomics.org/about-us](https://landeconomics.org/about-us) — used for Greg Miller's prior HUD Office of Policy Development and Research role and the co-founders' backgrounds.
 4. Center for Land Economics, "LVTShift." [landeconomics.org/lvtshift](https://landeconomics.org/lvtshift) — used for the description of the open-source LVTShift land-value-tax modelling tool and its capabilities.
 5. Center for Land Economics, "Reports." [landeconomics.org/reports](https://landeconomics.org/reports) — used for the Baltimore and Maryland vacant-land undervaluation studies (2024–2026) and their argument about burden-shifting and speculative blight.
+6. Becca Costello (2026-07-20), "Land value tax," WVXU (Cincinnati Public Radio, NPR member station). [wvxu.org](https://www.wvxu.org/politics/2026-07-20/land-value-tax-cincinnati) — used for the Cincinnati report's press reception, Council member Mark Jeffreys's reaction, and the Ohio SJR 7 legislative status update; see full treatment on [the Cincinnati report's research page](/wiki/ndspn-cincinnati-lvt-analysis/).
