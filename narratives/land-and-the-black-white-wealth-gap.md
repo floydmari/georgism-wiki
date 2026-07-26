@@ -203,6 +203,15 @@ taken; the other is a rule about a flow going forward. The dispossession record 
 common ground; the remedy each side draws from it is not the same instrument. (D-claim;
 this page's framing of the distinction.)
 
+The same conclusion is reached independently, for a different country, from inside the
+Georgist scholarly tradition itself: Franklin Obeng-Odoom argues that Henry George's
+"progress and poverty" paradox omitted race, and — drawing on Walter Rodney's account of
+post-emancipation Guyana, where racialized property in labor became racialized property
+in land — concludes that "neither socialism nor a Georgist single tax can remedy" that
+history; his proposed fix pairs Georgist land-value capture with a reparations program.[13]
+See [Obeng-Odoom (2026)](/wiki/obeng-odoom-rodney-legacy/) for the fuller (abstract-level)
+account. (D-claim; abstract-sourced, attributed.)
+
 ## Honest Limits
 
 - **No quantified bridge.** The wiki has no study estimating how much of the *present*
@@ -223,6 +232,7 @@ this page's framing of the distinction.)
 ## See Also
 
 - [The Great Land Robbery](/wiki/the-great-land-robbery/) — the general dispossession-justice narrative this page specialises
+- [Obeng-Odoom (2026): Progress and Poverty — Walter Rodney's Legacy](/wiki/obeng-odoom-rodney-legacy/) — the same rent-capture-is-not-reparations conclusion, reached independently for Guyana
 - [Dispossession (Daniel)](/wiki/dispossession-daniel/) — book-length record of USDA discrimination against Black farmers
 - [Fairhope Single Tax Corporation](/wiki/fairhope-single-tax-corporation/) · [The Single-Tax Colonies](/wiki/single-tax-colonies/) — the in-movement failure case
 - [Unearned Increment](/wiki/unearned-increment/) — the land-appreciation the housing channel privatised
@@ -307,3 +317,8 @@ this page's framing of the distinction.)
     — used for the 10–13% higher assessment-ratio finding for Black and Hispanic
     homeowners, cited as the closest empirical evidence on the racial incidence of
     property taxation (B-claim, peer-reviewed).
+13. Franklin Obeng-Odoom, "Progress and Poverty: Walter Rodney's Legacy,"
+    *American Journal of Economics and Sociology*, 2026, doi:[10.1111/ajes.70021](https://doi.org/10.1111/ajes.70021)
+    — used for the independent, internationally-sourced version of the
+    rent-capture-is-not-reparations argument (D-claim, abstract only).
+    [wiki summary](/wiki/obeng-odoom-rodney-legacy/)

@@ -115,6 +115,7 @@ enough to matter — is well documented:
   George's Captain Kidd answer (continuing appropriation needs no living
   culprit[1]) persuades committed audiences while conceding nothing to the
   purchaser — which is exactly why modern deployment leads with phase-ins instead.
+- **International corroboration that rent capture alone is not a racial remedy.** Franklin Obeng-Odoom — a scholar working within the Georgist tradition itself — argues in a 2026 paper that George's "progress and poverty" paradox omitted race, and that "neither socialism nor a Georgist single tax can remedy" the racialized land-and-labor dispossession Walter Rodney documented for post-emancipation Guyana; his proposed remedy pairs Georgist land-value capture with a reparations program.[12] This extends, from inside the movement's own scholarship, the same insufficiency point the US-focused [wealth-gap narrative](/wiki/land-and-the-black-white-wealth-gap/) reaches independently. (D-claim; abstract-sourced, [VERIFY: full text not accessible this session].)
 - **The quantitative bridge is partial and cuts both ways.** For the US Black
   land-loss case, Francis, Hamilton, Mitchell, Rosenberg and Stucki estimate the
   present, compounded value of Black agricultural land lost between 1920 and 1997
@@ -236,6 +237,7 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
 - [Sharecropping](/wiki/sharecropping/) — the post-slavery tenure system that made land monopoly's rent-extraction mechanism concrete for millions of landless Southern farmers
 - [Land and the Black–white wealth gap](/wiki/land-and-the-black-white-wealth-gap/) — the measured US case this narrative generalizes: farmland loss, redlined-out equity, heirs’ property, and the rent-capture-is-not-reparations distinction
+- [Obeng-Odoom (2026): Progress and Poverty — Walter Rodney's Legacy](/wiki/obeng-odoom-rodney-legacy/) — the international (Guyana) version of the same insufficiency argument, from within Georgist scholarship
 - [Land justice and Indigenous reconciliation](/wiki/land-justice-and-indigenous-reconciliation/) — the shared-diagnosis, divergent-remedies treatment of Indigenous land claims
 
 - [Johnson V Mcintosh](/wiki/johnson-v-mcintosh/) — the 1823 'discovery doctrine' case underpinning US land dispossession
@@ -302,3 +304,8 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
     · [open manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC5436311/) — used
     for the counter-evidence that the 1832 Cherokee land-lottery windfall did not
     persist across winners' generations (B-claim, challenge side).
+12. Franklin Obeng-Odoom, "Progress and Poverty: Walter Rodney's Legacy,"
+    *American Journal of Economics and Sociology*, 2026, doi:[10.1111/ajes.70021](https://doi.org/10.1111/ajes.70021)
+    — used for the argument that George's paradox omitted race and that neither
+    socialism nor a Georgist single tax alone remedies racialized land dispossession
+    (D-claim, abstract only). [wiki summary](/wiki/obeng-odoom-rodney-legacy/)

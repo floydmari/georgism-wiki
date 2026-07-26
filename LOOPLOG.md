@@ -2477,3 +2477,34 @@ surviving work); relaunched on the 19:00 UTC routine firing and completed.
 **Ledgers:** 13 items consumed (queue 69→56); registry +8 rows +1 update; inventory
 909 pages, 0 orphans; lint 0 errors. [VERIFY] added: 4 (Yang published-version deltas;
 Grand Paris; CaCHE; Fiorentino-Moogan modelling details).
+
+---
+
+## 2026-07-26 — Queue wave 4: journals identification + Canada/BC folds (30 items, 915 pages)
+
+- **Journals batch (13 items)** — all identified via Crossref/OpenAlex/Unpaywall. The
+  AJES items proved to be a 2026 Georgism special-issue crop: 6 NEW pages
+  (`xu-huang-li-china-hcrs-george`, `obeng-odoom-rodney-legacy`,
+  `loehr-george-gesell-odd-couple` + `people/silvio-gesell` stub — Gesell's first wiki
+  coverage, `kakumu-kenya-site-value-tax`, `hernandi-salad-indonesia-lvt` read in full
+  via MDPI OA), 3 folds (Sun Yat-sen intellectual roots; Roosevelt-after-1886;
+  Azevedo/AB 362 California proposal → proposition-13), 5 honest declines (Li Dazhao
+  speculative-convergence; Czech + Catalonia off-topic; Jambi compliance regression and
+  Ukraine wartime expenditures both read in full and confirmed non-Georgist). Wiley's
+  bot-wall blocked even confirmed-CC-BY full texts — all abstract-only pages carry
+  explicit VERIFY markers for a future full-text pass.
+- **Canada/BC/AU folds (17 items incl. dup URL)** — 11 folds, 5 rejects, 0 new pages.
+  New "Municipal Vacant-Land and Underused-Housing Taxes Beyond BC" section on
+  canada.md anchored by Québec's Bill 39 (2023, c.33 — verified from the statute: 2×→4×
+  vacant-serviced-lot cap; Amqui at 3×). BC page gains Wilkinson-sourced history
+  (Bob Williams recruiting Gaffney; Habitat I Rec D.3, UN-corroborated), CWC split-rate
+  scenarios, school-tax and polling facts. CORRECTIONS: Gwartney was Schalkenbach
+  Executive Director (page said president); Vancouver's Dec 2018 LVC motion attributed
+  to Cllr Christine Boyle (queue context named an activist). IBA Australia asset-model
+  facts folded into australia.md.
+
+**Ledgers:** 30 items consumed (queue 56→26); registry +22 rows; inventory 915 pages,
+0 orphans; lint 0 errors. Remaining 26: Land Trap book, Magie/Monopoly realtor piece,
+Korea GRI report, showme ×6, PoI RFP, Urbanist Schechter, FT-adjacent stragglers,
+Landscape candidates-elected leftovers, arXiv v1 dup handled, misc. Next routine
+firing (03:00 UTC) works the tail.

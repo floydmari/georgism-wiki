@@ -214,6 +214,7 @@ one downstream symptom.
 - [After the Crash: Designing a Depression-Free Economy (2009)](/wiki/gaffney-after-the-crash/) — Gaffney's book-length treatment this paper's model summarizes and extends to China
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 - [Mason Gaffney](/wiki/mason-gaffney/)
+- [Xu, Huang & Li (2026): Did Henry George Inspire China's Economic Miracle?](/wiki/xu-huang-li-china-hcrs-george/) — a different China argument (land-tenure structure, not the business cycle) drawing a structural analogy between the Household Contract Responsibility System and Georgist land-value capture
 
 ## Sources
 

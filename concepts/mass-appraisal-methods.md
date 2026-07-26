@@ -90,6 +90,7 @@ A direct empirical test of these methods against real sales data comes from [Glo
 - [Gloudemans & Almy, *Fundamentals of Mass Appraisal*](/wiki/fundamentals-of-mass-appraisal/) — the IAAO textbook backbone behind the technique inventory (comparable sales, allocation, abstraction, residual estimation) this page describes
 - [Gloudemans: LVT Assessment Feasibility](/wiki/gloudemans-lvt-assessment-feasibility/) — the same author's direct empirical test of CAMA land models, both papers read in full
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
+- [Hernandi et al. (2026): The SALAD Model, Indonesia](/wiki/hernandi-salad-indonesia-lvt/) — a Land Value Zone / Social Validation Weight model field-tested for community acceptance, not just technical accuracy
 
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Land Value Tax](/wiki/land-value-tax/)

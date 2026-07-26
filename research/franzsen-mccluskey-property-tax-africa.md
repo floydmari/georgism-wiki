@@ -53,6 +53,7 @@ The book should **not** be read as evidence that raising rates increases welfare
 
 ## See Also
 
+- [K'Akumu (2026): Site Value Taxation Policy in Kenya](/wiki/kakumu-kenya-site-value-tax/) — the historical-diffusion companion to this book's administrative account, tracing how George's site-value idea reached Kenya via South Africa and the British Liberal Party
 - [Bergeron, Tourek & Weigel (2024): The State Capacity Ceiling](/wiki/bergeron-tourek-weigel-drc-property-tax/) — the randomized DRC tax-rate experiment showing enforcement capacity binds property-tax rates in low-capacity settings
 - [Brockmeyer et al., Taxing Property in Developing Countries](/wiki/brockmeyer-property-tax-developing/)
 - [IMF, Taxing Immovable Property](/wiki/imf-taxing-immovable-property/)
