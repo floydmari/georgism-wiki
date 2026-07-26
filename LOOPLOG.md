@@ -2508,3 +2508,43 @@ Grand Paris; CaCHE; Fiorentino-Moogan modelling details).
 Korea GRI report, showme ×6, PoI RFP, Urbanist Schechter, FT-adjacent stragglers,
 Landscape candidates-elected leftovers, arXiv v1 dup handled, misc. Next routine
 firing (03:00 UTC) works the tail.
+
+---
+
+## 2026-07-26 — Queue wave 5 (tail) + QUEUE DRAINED TO ZERO (917 pages)
+
+Final two lanes closed the day's drain:
+
+- **News/orgs folds (8 items)** — all folds, no new pages: Schechter Urbanist op-ed
+  (article located from bare author-page link) → washington-state; Victoria post-2023
+  land-tax investor-exit pair (The Age + Property Council, advocacy attributed,
+  measured-vs-asserted separated) → australia.md — NOTE: surfaced that the wiki has NO
+  objections page on capital-flight/investment-deterrence; logged as a future
+  candidate. Philly wage-tax-vs-LVT (Broad + Liberty/PPI) → pennsylvania.md new
+  Philadelphia section; Miller-Doucet "Property Taxes are Not Land Value Taxes"
+  production-margin rebuttal → land-value-tax.md; PoI 2026 RFP → org page; Santens
+  LVT-dividend (first wiki mention) → citizens-dividend.md; Magie/Monopoly realtor
+  color → elizabeth-magie.md.
+- **Identification tail (14 items)** — headline: NEW `books/bird-the-land-trap.md` —
+  *The Land Trap: A New History of the World's Oldest Asset*, Mike Bird (The
+  Economist), Portfolio/PRH Nov 2025, FT Business Book longlist; wired into
+  finance-growth-is-land-credit supported_by; sourced from publisher + Doucet review +
+  Mercatus podcast + Washington Examiner review + Wealthsimple interview. Show-Me
+  Institute ×6 all fetched (2010-2026 sustained free-market Missouri LVT advocacy,
+  KC land-only Parkway/Trafficway levies) → new united-states.md Missouri section +
+  organizations/show-me-institute.md stub. Saskatchewan cluster → canada.md section
+  (mill-rate factors by class; two RMs split base tax into land+improvement — narrow
+  real precedent); CBC data-centre piece rejected (no land angle). landforall.kr
+  correctly re-identified as Jinsu Lee's parcel-valuation map (not an org);
+  Land+Freedom Institute (Nam Ki-eop) added → south-korea.md. GRI Gyeonggi report
+  blocked (503 + unlocatable; retry condition logged).
+
+**DAY TOTAL:** queue 145 → 0 in 5 waves + coordinator passes. 59 rejects/blocked with
+reasons, ~86 used/folded. 18 new pages (andy-burnham, 2026-state-lvt-enablement-wave,
+washington-state, wales, ethiopia, silvio-gesell stub, show-me-institute stub,
+bird-the-land-trap + 10 research pages), ~45 pages enriched, 917 pages total,
+0 orphans, lint 0 errors all day. Registry 1274 → 1376 rows. The wiki-queue-loop
+routine (03:00/11:00/19:00 UTC) now holds steady state: each firing drains whatever
+the ~10:00 UTC daily scan delivers. All work is on
+claude/georgism-wiki-interlink-publish-2z2oww — no Ghost publish, no merge without
+Floyd's word.

@@ -10,7 +10,7 @@ evidence_strength: 'Strong for the composition claim (long-run cross-country dat
 excerpt: Over the past century the expansion of banking in advanced economies has
   been, above all, the expansion of mortgage lending — and the value that lending
   is secured against is overwhelmingly land, not buildings.
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-26
 stub: false
 supported_by:
 - great-mortgaging
@@ -23,6 +23,7 @@ supported_by:
 - capozza-green-hendershott-residential-land
 - vague-brief-history-of-doom
 - werner-princes-of-the-yen
+- bird-the-land-trap
 tags:
 - outcomes
 - fire-sector
@@ -144,7 +145,7 @@ foremost, in the business of lending against land.
 
 **Adjacent, distinct channels — do not merge.** Two related literatures sit next to this page's claim without being evidence for it: [August (2020)](/wiki/august-rental-financialization/) documents the *equity* side of housing financialization in Canada (which entities own rental buildings and how they reprice them — REITs from 0% to ~10% of the stock, 1996–2017), complementary to this page's *credit*-composition evidence but a different channel; and [Lapavitsas](/wiki/lapavitsas-financialization/) reads mortgage profit as "financial expropriation" of the debtor's wage income — a Marxist mechanism located in the income stream, not in the appreciating land collateral this page's sources identify. Citing either as if it established the land-credit composition claim would overstate both.
 
-**Further corroboration.** [Stiglitz (2015)](/wiki/stiglitz-land-credit-inequality/) supplies the theoretical land–credit link: looser financial policy inflates land-backed wealth without adding productive capacity. [Capozza, Green & Hendershott](/wiki/capozza-green-hendershott-residential-land/) find mortgage-related tax preferences capitalize fully into residential land prices — the credit-to-land link at the metro level. [Vague's](/wiki/vague-brief-history-of-doom/) survey of six countries over two centuries finds real-estate lending the dominant component of the private-debt run-ups before crises, and [Werner](/wiki/werner-princes-of-the-yen/) documents bank credit steered into real estate through Japan's 'window guidance' (a contested credit-school account).
+**Further corroboration.** [Stiglitz (2015)](/wiki/stiglitz-land-credit-inequality/) supplies the theoretical land–credit link: looser financial policy inflates land-backed wealth without adding productive capacity. [Capozza, Green & Hendershott](/wiki/capozza-green-hendershott-residential-land/) find mortgage-related tax preferences capitalize fully into residential land prices — the credit-to-land link at the metro level. [Vague's](/wiki/vague-brief-history-of-doom/) survey of six countries over two centuries finds real-estate lending the dominant component of the private-debt run-ups before crises, and [Werner](/wiki/werner-princes-of-the-yen/) documents bank credit steered into real estate through Japan's 'window guidance' (a contested credit-school account). Mike Bird's 2025 financial-history *[The Land Trap](/wiki/bird-the-land-trap/)* reaches the same composition point from journalism rather than economics — land's unique suitability as bank collateral (fixed, non-depreciating, immovable) is, in his account, the recurring mechanism behind credit booms from colonial America to modern China — and pairs it with Singapore's land-rent-capture system as a comparative case where that collateral channel was defused by public landlordship rather than private speculation.
 
 ## See Also
 

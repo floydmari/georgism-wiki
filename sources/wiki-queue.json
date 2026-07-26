@@ -1,133 +1,6 @@
 {
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
- "queue": [
-  {
-   "url": "https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:07.080267+00:00",
-   "reported": false,
-   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:07.080327+00:00",
-   "reported": false,
-   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://showmeinstitute.org/article/municipal-policy/untitled-2012-08-02-102631/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:07.080383+00:00",
-   "reported": false,
-   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://showmeinstitute.org/article/taxes/untitled-2012-07-20-214958/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:07.080440+00:00",
-   "reported": false,
-   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://showmeinstitute.org/article/taxes/untitled-2015-07-15-000000-2/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:07.080496+00:00",
-   "reported": false,
-   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://showmeinstitute.org/article/taxes/its-time-to-phase-out-the-earnings-tax-honestly-nothing-else-has-worked/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:07.080581+00:00",
-   "reported": false,
-   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.saskatchewan.ca/government/municipal-administration/taxation-and-service-fees/municipal-property-tax-tools#tax-tools",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:09.718735+00:00",
-   "reported": false,
-   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
-   "author": "UKD25NV0A"
-  },
-  {
-   "url": "https://rmnorthquappelle.ca/lets-talk-taxes/",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:09.718781+00:00",
-   "reported": false,
-   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
-   "author": "UKD25NV0A"
-  },
-  {
-   "url": "https://rmbritannia.com/p/property-taxes",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:09.718831+00:00",
-   "reported": false,
-   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
-   "author": "UKD25NV0A"
-  },
-  {
-   "url": "https://www.cbc.ca/news/canada/saskatchewan/ai-data-rm-of-sherwood-9.7130417",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:09.718877+00:00",
-   "reported": false,
-   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
-   "author": "UKD25NV0A"
-  },
-  {
-   "url": "https://landforall.kr",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:09.721256+00:00",
-   "reported": false,
-   "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://tldr-archive.wealthsimple.com/archive/33-%F0%9F%AA%A4-its-a-trap-a-land-trap",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (speculation)",
-   "queued_at": "2026-07-16T00:13:09.721978+00:00",
-   "reported": false,
-   "context": "<https://tldr-archive.wealthsimple.com/archive/33-%F0%9F%AA%A4-its-a-trap-a-land-trap>\n\nWealthsimple newsletter showcases Land Trap interview with Wall St. Editor at The Economist, Mike Bird, author of <https://www.amazon.ca/Land-Trap-History-Worlds-Oldest/dp/0593719719?lid=e37u5te964w8>\n\n> This is ",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.amazon.ca/Land-Trap-History-Worlds-Oldest/dp/0593719719?lid=e37u5te964w8",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (speculation)",
-   "queued_at": "2026-07-16T00:13:09.722079+00:00",
-   "reported": false,
-   "context": "<https://tldr-archive.wealthsimple.com/archive/33-%F0%9F%AA%A4-its-a-trap-a-land-trap>\n\nWealthsimple newsletter showcases Land Trap interview with Wall St. Editor at The Economist, Mike Bird, author of <https://www.amazon.ca/Land-Trap-History-Worlds-Oldest/dp/0593719719?lid=e37u5te964w8>\n\n> This is ",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:09.724586+00:00",
-   "reported": false,
-   "context": "&gt; _“Redistributing gains from the [land] tax in the form of land dividends would benefit the overwhelming majority of Koreans” -_ Young Seong-yoo et al. (<https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975|2022>) Gyeonggi R",
-   "author": "UNYCKRMC6"
-  }
- ],
+ "queue": [],
  "consumed": [
   {
    "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -1712,8 +1585,176 @@
    "disposition": "used",
    "disposition_reason": "Santens rent-dividend framing + revenue figures folded into citizens-dividend.md (first wiki mention)",
    "consumed_at": "2026-07-26T19:56:34Z"
+  },
+  {
+   "url": "https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:07.080267+00:00",
+   "reported": false,
+   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "Show-Me cluster: new Missouri section on united-states.md + org stub",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:07.080327+00:00",
+   "reported": false,
+   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same Missouri section",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://showmeinstitute.org/article/municipal-policy/untitled-2012-08-02-102631/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:07.080383+00:00",
+   "reported": false,
+   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same Missouri section (KC Parkway/Trafficway land-only levies)",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://showmeinstitute.org/article/taxes/untitled-2012-07-20-214958/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:07.080440+00:00",
+   "reported": false,
+   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same Missouri section (Haslag & Stokes)",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://showmeinstitute.org/article/taxes/untitled-2015-07-15-000000-2/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:07.080496+00:00",
+   "reported": false,
+   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same Missouri section (Rathbone, Columbia)",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://showmeinstitute.org/article/taxes/its-time-to-phase-out-the-earnings-tax-honestly-nothing-else-has-worked/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:07.080581+00:00",
+   "reported": false,
+   "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same Missouri section (Stokes 2026 post-tornado)",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://www.saskatchewan.ca/government/municipal-administration/taxation-and-service-fees/municipal-property-tax-tools#tax-tools",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:09.718735+00:00",
+   "reported": false,
+   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "canada.md Saskatchewan municipal tax tools section (mill-rate factors by class)",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://rmnorthquappelle.ca/lets-talk-taxes/",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:09.718781+00:00",
+   "reported": false,
+   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "same section — RM splits base/minimum tax into land + improvement components",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://rmbritannia.com/p/property-taxes",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:09.718831+00:00",
+   "reported": false,
+   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "same section",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://www.cbc.ca/news/canada/saskatchewan/ai-data-rm-of-sherwood-9.7130417",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:09.718877+00:00",
+   "reported": false,
+   "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
+   "author": "UKD25NV0A",
+   "disposition": "rejected",
+   "disposition_reason": "reviewed: no land-value/tax angle (jobs and general revenue only)",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://landforall.kr",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:09.721256+00:00",
+   "reported": false,
+   "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "corrected identification: Jinsu Lee valuation-map tool, not an org; south-korea.md Georgist Civil Society paragraph",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://tldr-archive.wealthsimple.com/archive/33-%F0%9F%AA%A4-its-a-trap-a-land-trap",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (speculation)",
+   "queued_at": "2026-07-16T00:13:09.721978+00:00",
+   "reported": false,
+   "context": "<https://tldr-archive.wealthsimple.com/archive/33-%F0%9F%AA%A4-its-a-trap-a-land-trap>\n\nWealthsimple newsletter showcases Land Trap interview with Wall St. Editor at The Economist, Mike Bird, author of <https://www.amazon.ca/Land-Trap-History-Worlds-Oldest/dp/0593719719?lid=e37u5te964w8>\n\n> This is ",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "Wealthsimple TLDR Bird interview cited on the book page",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://www.amazon.ca/Land-Trap-History-Worlds-Oldest/dp/0593719719?lid=e37u5te964w8",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (speculation)",
+   "queued_at": "2026-07-16T00:13:09.722079+00:00",
+   "reported": false,
+   "context": "<https://tldr-archive.wealthsimple.com/archive/33-%F0%9F%AA%A4-its-a-trap-a-land-trap>\n\nWealthsimple newsletter showcases Land Trap interview with Wall St. Editor at The Economist, Mike Bird, author of <https://www.amazon.ca/Land-Trap-History-Worlds-Oldest/dp/0593719719?lid=e37u5te964w8>\n\n> This is ",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "NEW books/bird-the-land-trap.md — Mike Bird (The Economist), Portfolio/PRH Nov 2025, FT longlist; wired into finance-growth-is-land-credit",
+   "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:09.724586+00:00",
+   "reported": false,
+   "context": "&gt; _“Redistributing gains from the [land] tax in the form of land dividends would benefit the overwhelming majority of Koreans” -_ Young Seong-yoo et al. (<https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975|2022>) Gyeonggi R",
+   "author": "UNYCKRMC6",
+   "disposition": "blocked",
+   "disposition_reason": "gri.re.kr 503; report/author unlocatable in EN+KR search; retry when full author name known",
+   "consumed_at": "2026-07-26T20:03:19Z"
   }
  ],
- "total": 14,
- "last_updated": "2026-07-26T19:56:34Z"
+ "total": 0,
+ "last_updated": "2026-07-26T20:03:19Z"
 }
