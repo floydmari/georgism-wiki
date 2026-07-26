@@ -28,6 +28,33 @@ For a current practitioner-level survey of these instruments — Canadian and in
 
 LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments that would never embrace a "single tax" routinely use betterment levies and lease revenue. It is a major research focus of the [Lincoln Institute](/wiki/lincoln-institute/).
 
+## Recent Case Studies and Critiques (2025–26)
+
+- **Grand Paris Express (France).** [Maulat & Aveline-Dubach (2025)](https://doi.org/10.1016/j.landusepol.2025.107854),
+  in *Land Use Policy*, trace how the Société des Grands Projets — the state body building
+  Europe's largest ongoing metro expansion — shifted its land-value-capture approach from
+  tax-based instruments toward development-based ones, enabling over 100 real-estate
+  projects on metro-acquired public land near future stations. The paper reports
+  considerable heterogeneity across these projects in partnerships, programme mix, and
+  affordable-housing share, shaped by local negotiation and trade-offs between the state
+  developer, municipalities, and private developers. **[VERIFY]:** the wiki could not access
+  the paper's full text (both the ScienceDirect publisher page and the authors' HAL preprint
+  sit behind bot-protection this session); the summary above is built from the published
+  abstract and consistent third-party characterizations of the paper's argument, not a
+  direct read.
+- **England ("Who should own the value of land?", 2026).** A UK Collaborative Centre for
+  Housing Evidence (CaCHE) report by **Edward Shepherd and Tim White** (Cardiff
+  University) argues that land value capture, as currently practised in England, "manages"
+  the structural flaws of the existing land, housing, and development settlement without
+  resolving them — that the persistence of unequal land-value gains is not a technical
+  policy-design failure but a structural one, and that closing the gap would require more
+  ambitious social-redistributive measures alongside a wider range of less speculative
+  development models. **[VERIFY]:** this characterization is drawn from the CaCHE project
+  page's own description and consistent secondary summaries; the wiki could not retrieve
+  the report's PDF directly (the Cardiff University ORCA repository copy sits behind a
+  bot-challenge this session), so no direct quotation or page-level claim from the report
+  itself is reproduced here.
+
 ## Book Findings
 
 ### Howard: Garden City as LVT Application
@@ -56,6 +83,10 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 - [Telosa](/wiki/telosa/) — a high-profile contemporary attempt to build a new city on Georgist land-value-capture principles ('Equitism')
 - [Garden City Movement](/wiki/garden-city-movement/) — Howard's Garden Cities — a built land-value-capture precedent
 - [Betterment Levy](/wiki/betterment-levy/)
+- [O'Brien & Dembski: Land Value Capture for Place Quality](/wiki/obrien-dembski-lvc-place-quality/) — comparative Scotland/Netherlands/Germany evidence on what makes LVC actually deliver design quality
+- [McAllister: Developer or Land Owner Contributions?](/wiki/mcallister-developer-contributions-tpr/) — a taxonomy of England's developer-contribution instruments and their incidence
+- [Medda & Modelewska: Land Value Capture and the Warsaw Metro](/wiki/medda-modelewska-warsaw-metro/) — hedonic evidence that Warsaw metro access (built and merely planned) raised nearby house prices 6.7–7.1%, plus a comparative table of Helsinki, Copenhagen, Toronto, and Milan metro-financing schemes
+- [Fiorentino & Moogan: LVT and Urban Agglomeration Dynamics](/wiki/fiorentino-moogan-agglomeration/) — a Cambridge Land Economy model of how LVT interacts with agglomeration efficiency and equity
 
 - [Unearned Increment](/wiki/unearned-increment/) · [Taiwan](/wiki/taiwan/) · [Singapore](/wiki/singapore/)
 - [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — the empirical basis LVC mechanisms recover
@@ -68,3 +99,5 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 2. Dye & England (2010) — used for the relationship between value capture and land value taxation (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
 3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II — used for the rate-rent mechanism as LVC (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)
 4. Greg Miller, "Don't Reject Data Centers. Negotiate Harder.", *Progress and Poverty* (Substack), 6 May 2026. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/dont-reject-data-centers-negotiate) — used for the Loudoun County (VA) and Columbus (OH) data-center tax-revenue and abatement figures (B-claim, advocacy-institute source).
+5. Juliette Maulat & Natacha Aveline-Dubach, "Shifting land value capture instruments for the Grand Paris Express metro," *Land Use Policy* 161 (2026): 107854. [DOI](https://doi.org/10.1016/j.landusepol.2025.107854) — used for the Grand Paris Express case (B-claim, abstract-level; full text not accessed — see [VERIFY] note above).
+6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument (D-claim, secondary characterization; full text not accessed — see [VERIFY] note above).

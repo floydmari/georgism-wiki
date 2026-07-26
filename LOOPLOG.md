@@ -2444,3 +2444,36 @@ capture papers (Cardiff/ScienceDirect/T&F/Liverpool/McAllister/E&Y), split-rate 
 history, gensqueeze, commonwealth.ca research posts, UofT), Land Trap book, Monopoly/
 Magie realtor piece, Korea GRI report, IBA Australia, showme ×6, PoI RFP. Next firings
 work these; the 03:00/11:00/19:00 UTC routine is armed.
+
+---
+
+## 2026-07-26 — Queue wave 3: LVC cluster + split-rate/site-value cluster (13 items, 909 pages)
+
+Both writers were killed mid-run by a 15:19 UTC session interruption (clean tree, no
+surviving work); relaunched on the 19:00 UTC routine firing and completed.
+
+- **Split-rate/site-value (5 items)** — exemplary dedup: Taranu-Verbeeck pair (SD
+  paywall + UHasselt manuscript) confirmed already covered; Kwak Hawaii WP folded as
+  delta (Halekulani anecdote → lvt-causes-overdevelopment; selection-bias methodology
+  → new Caveat 7 on split-rate-increases-construction); Murray-Hermans OSF paper NOT a
+  Yang preprint — its uncaptured progressivity finding (SV/CIV rises with income) added
+  to victoria-svr-nav-comparison + wired as 9th supporter on
+  land-value-tax-can-be-progressive. ONE new page:
+  `research/yang-split-rate-spillover-employment.md` (JREFE 2024 via open Lincoln
+  WP15ZY1 precursor) — no own-jurisdiction employment effect, near-negative (5-10mi) /
+  far-positive (15-20mi) spillover; wired as challenged_by on the construction claim.
+- **Land-value capture (8 items)** — 3 NEW pages: `obrien-dembski-lvc-place-quality`
+  (disP 2026, full text via Glasgow Enlighten; Scotland/NL/Germany comparative),
+  `mcallister-developer-contributions-tpr` (TPR 2025, abstract-only, honestly flagged;
+  Liverpool/centaur URLs confirmed same paper), `medda-modelewska-warsaw-metro`
+  (the "E&Y report" = Medda & Modelewska 2010; full text via hlrn.org mirror; 6.7%/7.1%
+  hedonic premiums; wired into public-investment-capitalizes-into-land supported_by).
+  Fiorentino-Moogan Cities 2026 already had a page from the SSRN preprint — enriched
+  with journal DOI + tier bump + Honest Limits. 2 abstract-only folds with [VERIFY]
+  (Grand Paris Express instruments; CaCHE "Who should own the value of land?") — both
+  bot-walled (Anubis/sg-captcha). 1 blocked (Tianren Yang Cities in-press, no abstract
+  anywhere yet; retry condition noted in consumed ledger).
+
+**Ledgers:** 13 items consumed (queue 69→56); registry +8 rows +1 update; inventory
+909 pages, 0 orphans; lint 0 errors. [VERIFY] added: 4 (Yang published-version deltas;
+Grand Paris; CaCHE; Fiorentino-Moogan modelling details).

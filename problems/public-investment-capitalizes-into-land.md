@@ -6,7 +6,7 @@ tags: [outcomes, capitalization, infrastructure, transit, land-value-capture]
 stub: false
 last_reviewed: 2026-07-13
 evidence_strength: "Strong (large, consistent empirical literature)"
-supported_by: [gibbons-machin-rail-access, mohammad-rail-meta-analysis, oates-1969-capitalization, albouy-what-are-cities-worth, arnott-stiglitz-henry-george-theorem, he-sun-metro-housing-premiums, gibbons-machin-school-premiums, hilber-capitalization-synthesis]
+supported_by: [gibbons-machin-rail-access, mohammad-rail-meta-analysis, oates-1969-capitalization, albouy-what-are-cities-worth, arnott-stiglitz-henry-george-theorem, he-sun-metro-housing-premiums, gibbons-machin-school-premiums, hilber-capitalization-synthesis, medda-modelewska-warsaw-metro]
 excerpt: "Transit lines, parks, and public services raise the value of nearby land — the empirical foundation for the Henry George Theorem and land value capture."
 ---
 
@@ -50,7 +50,12 @@ difference-in-differences, that "housing rents increased significantly and
 consistently after the metro entered operation," with the rent premium showing
 "a price gradient over the distance to stations" — the signature of locational
 value capitalizing into land, and evidence the authors read as a basis for
-value-capture financing.
+value-capture financing. A hedonic (non-quasi-experimental) study of Warsaw by
+[Medda & Modelewska (2010)](/wiki/medda-modelewska-warsaw-metro/) finds a
+similar-order effect outside the Anglo-American/Chinese literature: houses
+within 1 km of Warsaw's Bielany metro station carry a 6.7% price premium, and
+houses near a *planned* Line 2 station in Targówek an estimated 7.1% premium —
+suggesting anticipated, not just built, transit access capitalizes into price.
 
 On the practitioner side, the [University of Toronto's CIB-commissioned Land
 Value Capture Study](/wiki/cib-land-value-capture-study/) (Siemiatycki, Fagan &

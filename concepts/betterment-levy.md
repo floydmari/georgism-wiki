@@ -46,6 +46,24 @@ Each attempt was repealed within roughly a decade of enactment — a pattern the
 
 In the modern UK system, the closest surviving analogue to a betterment levy is **planning gain** — contributions extracted from developers as a condition of planning permission, typically through **Section 106 agreements** (planning obligations under the Town and Country Planning Act 1990, s. 106, as amended), alongside the fixed-tariff **Community Infrastructure Levy** (introduced 2010).[8] Section 106 obligations are negotiated case-by-case rather than set by a fixed levy rate, and they fund affordable housing, infrastructure, and community facilities; their case-by-case character is widely criticised as opaque and under-yielding relative to the uplift they capture.[7][8]
 
+[McAllister (2025)](/wiki/mcallister-developer-contributions-tpr/) supplies an analytical
+taxonomy for exactly this instrument, classifying developer contributions as *enabling*,
+*commercial*, *compensatory*, *supplementary*, *redistributive*, or *subsidised* — a
+distinction that matters because several of these categories (commercial, subsidised) do
+not actually constitute land-value capture at all, even though they are commonly bundled
+together as "developer contributions" in policy discussion. A comparative study by
+[O'Brien & Dembski (2026)](/wiki/obrien-dembski-lvc-place-quality/) shows the England/
+Scotland pattern is not universal: in interviews across Scotland, the Netherlands, and
+Germany, they find Scottish (and by extension English-style) local planning authorities
+cannot bind developers to placemaking standards because developers can appeal
+design-based refusals to a national appeals body — whereas the Netherlands and Germany's
+"neo-performative" planning systems make the local authority itself the final arbiter of
+design quality, giving planners real leverage that England and Scotland's more litigable,
+appeals-prone system lacks. Their reading directly complicates any assumption that a
+developer-contribution regime automatically captures value for public purposes: whether it
+does depends on whether the planning system gives the local authority real bargaining
+power, not merely on whether a contributions mechanism exists on paper.
+
 ## Theoretical and Practical Considerations
 
 ### Advantages
@@ -86,6 +104,8 @@ Betterment levies in various forms exist or have existed in several countries be
 - [David Lloyd George](/wiki/david-lloyd-george/) — the Chancellor who introduced the 1909 land value duties
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the valuation challenge that repeatedly undermined UK betterment levies
 - [Objection: the symmetry/decrement objection](/wiki/symmetry-decrement-objection/) — why event-based betterment capture that ignores "worsenment" is the instrument most exposed to the compensation-symmetry critique (the Uthwatt compensation-and-betterment problem)
+- [McAllister: Developer or Land Owner Contributions?](/wiki/mcallister-developer-contributions-tpr/) — a taxonomy of developer-contribution mechanisms and their incidence
+- [O'Brien & Dembski: Land Value Capture for Place Quality](/wiki/obrien-dembski-lvc-place-quality/) — comparative evidence that planning-system design, not just instrument choice, determines whether betterment-style capture works
 
 ## Sources
 

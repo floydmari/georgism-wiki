@@ -488,69 +488,6 @@
    "reported": false
   },
   {
-   "url": "https://orca.cardiff.ac.uk/id/eprint/186157/",
-   "source": "internet-scan",
-   "reason": "Cardiff: Land Value Capture report (2026)",
-   "context": "Cardiff: Land Value Capture report (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.sciencedirect.com/science/article/pii/S0264275126004385",
-   "source": "internet-scan",
-   "reason": "ScienceDirect: Land value capture / urban policy (2026)",
-   "context": "ScienceDirect: Land value capture / urban policy (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.sciencedirect.com/science/article/pii/S0264837725003886",
-   "source": "internet-scan",
-   "reason": "ScienceDirect: Land value capture / property tax (2026)",
-   "context": "ScienceDirect: Land value capture / property tax (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.tandfonline.com/doi/abs/10.1080/02513625.2026.2650026",
-   "source": "internet-scan",
-   "reason": "T&F: Land value capture policy (2026)",
-   "context": "T&F: Land value capture policy (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.liverpooluniversitypress.co.uk/doi/abs/10.3828/tpr.2025.42",
-   "source": "internet-scan",
-   "reason": "Liverpool UP: Land value capture / planning policy",
-   "context": "Liverpool UP: Land value capture / planning policy",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://centaur.reading.ac.uk/125148/1/McAllister%20TPR%20paper%20141025.pdf",
-   "source": "internet-scan",
-   "reason": "McAllister: Land value capture / property tax paper",
-   "context": "McAllister: Land value capture / property tax paper",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.academia.edu/download/125354269/ernst_young_Land_Value_capture.pdf",
-   "source": "internet-scan",
-   "reason": "E&Y: Land Value Capture report",
-   "context": "E&Y: Land Value Capture report",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
    "url": "https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188",
    "source": "lvt-rents-learning",
    "reason": "unknown domain with keyword (land value)",
@@ -566,15 +503,6 @@
    "context": "Scott Santens LVT post\n\n<https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web|open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?…>",
    "author": "UKTJP503G",
    "queued_at": "2026-07-21T10:02:48.405757+00:00",
-   "reported": false
-  },
-  {
-   "url": "https://www.sciencedirect.com/science/article/pii/S0264275126005263",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land value)",
-   "context": "New paper from Adam Moogan and *<https://x.com/fiorentino_stef|Stefania Fiorentino> (*Associate Prof <https://x.com/Cambridge_uni|@Cambridge_uni>)  *on the benefits of land value taxation for agglomeration:*\n<https://www.sciencedirect.com/science/article/pii/S0264275126005263|sciencedirect.com/science/article/pii/…>",
-   "author": "UKTJP503G",
-   "queued_at": "2026-07-22T10:01:34.660845+00:00",
    "reported": false
   }
  ],
@@ -1562,8 +1490,104 @@
    "disposition": "duplicate",
    "disposition_reason": "same Taranu & Verbeeck accepted manuscript, already used by the existing page",
    "consumed_at": "2026-07-26T19:25:04Z"
+  },
+  {
+   "url": "https://orca.cardiff.ac.uk/id/eprint/186157/",
+   "source": "internet-scan",
+   "reason": "Cardiff: Land Value Capture report (2026)",
+   "context": "Cardiff: Land Value Capture report (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "folded",
+   "disposition_reason": "Shepherd & White CaCHE report: bot-walled everywhere; abstract-level paragraph with VERIFY on concepts/land-value-capture.md",
+   "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://www.sciencedirect.com/science/article/pii/S0264275126004385",
+   "source": "internet-scan",
+   "reason": "ScienceDirect: Land value capture / urban policy (2026)",
+   "context": "ScienceDirect: Land value capture / urban policy (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "blocked",
+   "disposition_reason": "Tianren Yang Cities 2026 (10.1016/j.cities.2026.107206): no abstract on Crossref/S2 yet, likely in-press; retry when OA/abstract appears",
+   "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://www.sciencedirect.com/science/article/pii/S0264837725003886",
+   "source": "internet-scan",
+   "reason": "ScienceDirect: Land value capture / property tax (2026)",
+   "context": "ScienceDirect: Land value capture / property tax (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "folded",
+   "disposition_reason": "Maulat & Aveline-Dubach Grand Paris Express LUP 2026: abstract-only fold with VERIFY on concepts/land-value-capture.md (HAL preprint Anubis-blocked)",
+   "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://www.tandfonline.com/doi/abs/10.1080/02513625.2026.2650026",
+   "source": "internet-scan",
+   "reason": "T&F: Land value capture policy (2026)",
+   "context": "T&F: Land value capture policy (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW research/obrien-dembski-lvc-place-quality.md (full text via Glasgow Enlighten OA)",
+   "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://www.liverpooluniversitypress.co.uk/doi/abs/10.3828/tpr.2025.42",
+   "source": "internet-scan",
+   "reason": "Liverpool UP: Land value capture / planning policy",
+   "context": "Liverpool UP: Land value capture / planning policy",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW research/mcallister-developer-contributions-tpr.md (abstract-only, flagged; same paper as centaur PDF)",
+   "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://centaur.reading.ac.uk/125148/1/McAllister%20TPR%20paper%20141025.pdf",
+   "source": "internet-scan",
+   "reason": "McAllister: Land value capture / property tax paper",
+   "context": "McAllister: Land value capture / property tax paper",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "duplicate of Liverpool TPR item — same McAllister paper, centaur copy bot-walled",
+   "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://www.academia.edu/download/125354269/ernst_young_Land_Value_capture.pdf",
+   "source": "internet-scan",
+   "reason": "E&Y: Land Value Capture report",
+   "context": "E&Y: Land Value Capture report",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW research/medda-modelewska-warsaw-metro.md (full text via hlrn.org mirror; wired into public-investment-capitalizes-into-land)",
+   "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://www.sciencedirect.com/science/article/pii/S0264275126005263",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land value)",
+   "context": "New paper from Adam Moogan and *<https://x.com/fiorentino_stef|Stefania Fiorentino> (*Associate Prof <https://x.com/Cambridge_uni|@Cambridge_uni>)  *on the benefits of land value taxation for agglomeration:*\n<https://www.sciencedirect.com/science/article/pii/S0264275126005263|sciencedirect.com/science/article/pii/…>",
+   "author": "UKTJP503G",
+   "queued_at": "2026-07-22T10:01:34.660845+00:00",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "Moogan & Fiorentino Cities 2026: page already existed (fiorentino-moogan-agglomeration) — enriched with journal DOI, tier bump, Honest Limits",
+   "consumed_at": "2026-07-26T19:30:39Z"
   }
  ],
- "total": 64,
- "last_updated": "2026-07-26T19:25:04Z"
+ "total": 56,
+ "last_updated": "2026-07-26T19:30:39Z"
 }
