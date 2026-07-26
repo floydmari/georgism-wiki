@@ -4,7 +4,7 @@ category: places
 tags: [places, united-kingdom, enclosure, peoples-budget, betterment, land-value-tax, housing-crisis, financialisation]
 stub: false
 excerpt: "The UK anchors the Georgist historical record — parliamentary enclosure, the 1909 People's Budget, the 1947 planning settlement — and current data showing land at roughly three-fifths of national net worth amid a decades-long housing affordability crisis."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-26
 ---
 
 ## Overview
@@ -29,7 +29,7 @@ Ryan-Collins, Lloyd and Macfarlane's *Rethinking the Economics of Land and Housi
 
 ## The 2026 LVT Moment: Andy Burnham's Premiership
 
-Land value taxation returned to the centre of British politics in 2026. Campaigning to succeed Keir Starmer as Labour leader, then-Mayor of Greater Manchester **[Andy Burnham](/wiki/andy-burnham/)** told *The Times* (22 May 2026) that he had "long been persuaded of the argument for a Land Value Tax" and wanted to reform a council tax system he called "highly regressive" and still built on "not justifiable" 1991 property valuations.[5] Coverage through June 2026 attached Burnham to Fairer Share's proposal for a 0.48% annual proportional property tax (on land and buildings together, though widely covered under the "land tax" banner) replacing both council tax and stamp duty, with estimates that a UK-wide levy of this scale could raise on the order of £35 billion a year — alongside serious warnings, from figures such as former Bank of England economist Charles Goodhart, about the transition risk of moving quickly on such a large asset-price shift.[5] The debate also drew a public intervention from **Murad Qureshi**, Chair of the **[Labour Land Campaign](/wiki/labour-land-campaign/)**, whose 29 May 2026 *Financial Times* letter urged Burnham not to hesitate on LVT as a response to stagnant growth and a post-2008 shift of wealth toward asset owners.[5] Burnham was elected Labour leader unopposed on 17 July 2026 and became Prime Minister on 20 July 2026; as of this page's last review it remained undecided whether, or in what form, his government would legislate an LVT. Full timeline, figures, and sourcing live on the [Andy Burnham](/wiki/andy-burnham/) page, per the wiki's one-home-per-finding rule.
+Land value taxation returned to the centre of British politics in 2026. Campaigning to succeed Keir Starmer as Labour leader, then-Mayor of Greater Manchester **[Andy Burnham](/wiki/andy-burnham/)** told *The Times* (22 May 2026) that he had "long been persuaded of the argument for a Land Value Tax" and wanted to reform a council tax system he called "highly regressive" and still built on "not justifiable" 1991 property valuations.[5] Coverage through June 2026 attached Burnham to Fairer Share's proposal for a 0.48% annual proportional property tax (on land and buildings together, though widely covered under the "land tax" banner) replacing both council tax and stamp duty, with estimates that a UK-wide levy of this scale could raise on the order of £35 billion a year — alongside serious warnings, from figures such as former Bank of England economist Charles Goodhart, about the transition risk of moving quickly on such a large asset-price shift.[5] The debate also drew a public intervention from **Murad Qureshi**, Chair of the **[Labour Land Campaign](/wiki/labour-land-campaign/)**, whose 29 May 2026 *Financial Times* letter urged Burnham not to hesitate on LVT as a response to stagnant growth and a post-2008 shift of wealth toward asset owners.[5] Burnham was elected Labour leader unopposed on 17 July 2026 and became Prime Minister on 20 July 2026; as of this page's last review it remained undecided whether, or in what form, his government would legislate an LVT. Full timeline, figures, and sourcing live on the [Andy Burnham](/wiki/andy-burnham/) page, per the wiki's one-home-per-finding rule. Devolved [Wales](/wiki/wales/) has run its own, longer-running parallel inquiry into LVT as a council-tax and business-rates replacement, most recently a February 2026 government-adjacent evidence review and valuation-methodology scoping exercise — see [the dedicated research page](/wiki/welsh-lvt-valuation-testing/) for findings.
 
 ## See Also
 
@@ -40,6 +40,8 @@ Land value taxation returned to the centre of British politics in 2026. Campaign
 - [Town and Country Planning Act 1947](/wiki/town-and-country-planning-act-1947/) · [Betterment Levy](/wiki/betterment-levy/) — the planning-based value-capture attempt and its repeal
 - [Land Value Tax](/wiki/land-value-tax/) — the policy the People's Budget and later reformers have proposed reviving
 - [Rethinking the Economics of Land and Housing (book)](/wiki/rethinking-economics-land-housing/) · [Land Is a Big Deal (book)](/wiki/land-is-a-big-deal/) — the sources behind the contemporary housing-crisis data
+- [A Modern System for Fair Rents (NEF, 2026)](/wiki/nef-modern-system-fair-rents/) — a 2026 proposal for national rent controls tracing the PRS affordability crisis to 1980s-90s deregulation
+- [Wales](/wiki/wales/) — the devolved nation's own, decade-long parallel inquiry into LVT as a council-tax and rates replacement
 
 ## Sources
 

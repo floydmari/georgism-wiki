@@ -254,15 +254,6 @@
    "author": "UNYCKRMC6"
   },
   {
-   "url": "https://www.southwalesguardian.co.uk/news/25231358.land-value-tax-wales-replace-council-tax-rates/",
-   "source": "lvt-rents-learning",
-   "reason": "policy domain (guardian.co.uk) with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:09.725117+00:00",
-   "reported": false,
-   "context": "<https://www.southwalesguardian.co.uk/news/25231358.land-value-tax-wales-replace-council-tax-rates/>\n\n&gt; He explained that the Welsh Government has invited tenders to test approaches to valuing land, with submissions for every aspect of the work.",
-   "author": "UKD25NV0A"
-  },
-  {
    "url": "https://www.ibanet.org/land-value-tax-in-Australia#:~:text=Land%20tax%20is%20levied%20according,direct%20or%20through%20a%20trust.",
    "source": "research-and-policy",
    "reason": "unknown domain with keyword (land value)",
@@ -375,42 +366,6 @@
    "source": "internet-scan",
    "reason": "Progress and Poverty Institute LVT RFP description (2026)",
    "context": "Progress and Poverty Institute LVT RFP description (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.gov.wales/sites/default/files/publications/2026-02/testing-land-valuation-methods-a-land-value-tax-for-wales-valuation-methodologies-summary.pdf",
-   "source": "internet-scan",
-   "reason": "Welsh Government: Testing Land Valuation Methods for LVT in Wales (2026)",
-   "context": "Welsh Government: Testing Land Valuation Methods for LVT in Wales (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.gov.wales/sites/default/files/publications/2026-02/testing-land-valuation-methods-a-land-value-tax-for-wales-claims-and-contexts-report.pdf",
-   "source": "internet-scan",
-   "reason": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
-   "context": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://eprints.glos.ac.uk/15859/",
-   "source": "internet-scan",
-   "reason": "Goodwin-Hawkins (2026): A land value tax for Wales",
-   "context": "Goodwin-Hawkins (2026): A land value tax for Wales",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://eprints.glos.ac.uk/15861/",
-   "source": "internet-scan",
-   "reason": "Goodwin-Hawkins (2026): A land value tax for Wales — valuation methodologies",
-   "context": "Goodwin-Hawkins (2026): A land value tax for Wales — valuation methodologies",
    "author": "",
    "queued_at": "2026-07-20T10:04:32Z",
    "reported": false
@@ -1532,8 +1487,68 @@
    "disposition": "used",
    "disposition_reason": "NEW research/nef-modern-system-fair-rents.md (read in full; advocacy caveats + rent-control-vs-LVC framing note)",
    "consumed_at": "2026-07-26T15:06:44Z"
+  },
+  {
+   "url": "https://www.southwalesguardian.co.uk/news/25231358.land-value-tax-wales-replace-council-tax-rates/",
+   "source": "lvt-rents-learning",
+   "reason": "policy domain (guardian.co.uk) with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:09.725117+00:00",
+   "reported": false,
+   "context": "<https://www.southwalesguardian.co.uk/news/25231358.land-value-tax-wales-replace-council-tax-rates/>\n\n&gt; He explained that the Welsh Government has invited tenders to test approaches to valuing land, with submissions for every aspect of the work.",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "welsh page + places/wales.md (Drakeford Senedd statement; article is Jun 2025 not 2026 as queue implied)",
+   "consumed_at": "2026-07-26T15:10:27Z"
+  },
+  {
+   "url": "https://www.gov.wales/sites/default/files/publications/2026-02/testing-land-valuation-methods-a-land-value-tax-for-wales-valuation-methodologies-summary.pdf",
+   "source": "internet-scan",
+   "reason": "Welsh Government: Testing Land Valuation Methods for LVT in Wales (2026)",
+   "context": "Welsh Government: Testing Land Valuation Methods for LVT in Wales (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "research/welsh-lvt-valuation-testing.md (4-page summary of CCRI WP2, cross-check copy)",
+   "consumed_at": "2026-07-26T15:10:27Z"
+  },
+  {
+   "url": "https://www.gov.wales/sites/default/files/publications/2026-02/testing-land-valuation-methods-a-land-value-tax-for-wales-claims-and-contexts-report.pdf",
+   "source": "internet-scan",
+   "reason": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
+   "context": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "research/welsh-lvt-valuation-testing.md (primary 74pp systematic review, read in full)",
+   "consumed_at": "2026-07-26T15:10:27Z"
+  },
+  {
+   "url": "https://eprints.glos.ac.uk/15859/",
+   "source": "internet-scan",
+   "reason": "Goodwin-Hawkins (2026): A land value tax for Wales",
+   "context": "Goodwin-Hawkins (2026): A land value tax for Wales",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "research/welsh-lvt-valuation-testing.md (same work, eprints copy; date discrepancy flagged)",
+   "consumed_at": "2026-07-26T15:10:27Z"
+  },
+  {
+   "url": "https://eprints.glos.ac.uk/15861/",
+   "source": "internet-scan",
+   "reason": "Goodwin-Hawkins (2026): A land value tax for Wales — valuation methodologies",
+   "context": "Goodwin-Hawkins (2026): A land value tax for Wales — valuation methodologies",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "research/welsh-lvt-valuation-testing.md (full WP2 valuation methodologies, 41pp, read in full)",
+   "consumed_at": "2026-07-26T15:10:27Z"
   }
  ],
- "total": 74,
- "last_updated": "2026-07-26T15:06:44Z"
+ "total": 69,
+ "last_updated": "2026-07-26T15:10:27Z"
 }

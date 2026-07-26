@@ -96,9 +96,13 @@ treats it as a serious source rather than an advocacy piece:
 3. **Historical implementation failures, cited by Neidle as reasons for caution rather than
    reasons to abandon the idea:** the under-yielding 1909–1914 Lloyd George land duties, the
    suspension of Denmark's [grundskyld](/wiki/denmark/) valuation base at points in its history,
-   and a Welsh Government research finding that no assessment methodology tested was yet
-   accurate enough for live implementation — see [the dedicated research page](/wiki/welsh-lvt-valuation-testing/)
-   on that Welsh programme for the fuller picture (and an honest-limits caveat on this framing).
+   and Welsh Government valuation research, which Neidle reads as showing no assessment
+   methodology is yet accurate enough for live implementation. That last reading overstates
+   the primary sources: the Welsh programme's published papers are desk-based scoping
+   reviews proposing five method families *for future field testing* (tendered in 2025,
+   results not yet published), not completed accuracy tests — see
+   [the dedicated research page](/wiki/welsh-lvt-valuation-testing/) for what the
+   programme has actually found so far.
 4. **No modelling of farmland relief, social housing treatment, or council-tax-support
    scheme interactions** — all of which any real bill would have to address and none of which
    the static model attempts.

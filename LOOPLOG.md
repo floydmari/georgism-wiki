@@ -2403,3 +2403,44 @@ timetable; BVerfG complaint post-BFH; none on Cincinnati).
 valuation cluster, split-rate studies (Lincoln/UHasselt/ScienceDirect), land-value
 capture cluster, Schlaepfer Switzerland rents, NEF report, arXiv LVT dynamics — plus
 Canada/BC items and the Land Trap book. Next firings work these in batches.
+
+---
+
+## 2026-07-26 — Queue wave 2: Wales programme, Landscape triage, academic singles (17 items, 905 pages)
+
+Three lanes, same shift as wave 1:
+
+- **Wales cluster (5 items)** — NEW `research/welsh-lvt-valuation-testing.md` (both
+  Goodwin-Hawkins/CCRI working papers read in full, 74pp + 41pp) + NEW `places/wales.md`.
+  **Editorial catch:** the Welsh programme is a desk-based scoping review proposing five
+  valuation-method families *for future field testing* (tendered Jun 2025, unreported) —
+  NOT a completed test that found methods inaccurate. The "no methodology accurate enough
+  to be deployed" wording that entered via Neidle's TPA article was softened on both
+  citing pages (tpa-what-would-lvt-do, andy-burnham) to attribute the reading to Neidle
+  and link the corrective. Guardian article also re-dated (Jun 2025, not 2026).
+- **Landscape/news triage (9 items)** — 6 folds (Dean Baker progressivity → land-value-tax;
+  PolicyEngine 0.77%/68%-gain microsimulation → andy-burnham as third UK model; data-center
+  PILOTs → land-value-capture; LVTShift vibe-code + Put It On a Map → CLE org page; MN/OH
+  sponsor names → enablement event page), 1 confirmed duplicate (BillTrack KY = HB 607),
+  1 ephemeral reject (Landscape Live recap), 1 NEW page `places/ethiopia.md` (urban land
+  lease system, substack corroborated against FIG 2014 Adamu paper; wired to
+  public-land-leasing / Canberra / Hong Kong leasehold cluster).
+- **Academic singles (3 items)** — NEW `research/spring-ragain-lvt-dynamics.md` (spatial
+  PDE model; flagged unreviewed preprint, author-background caution, supplementary tier);
+  NEW `research/schlaepfer-swiss-resource-rents.md` (Ecological Economics 2026, CHF 298bn
+  = 42% GDP, 89% urban land; abstract+companion-paper sourced, 298-vs-159bn discrepancy
+  flagged; wired as 11th supporter on land-rent-could-fund-government); NEW
+  `research/nef-modern-system-fair-rents.md` (read in full; advocacy caveat + explicit
+  rent-control-vs-land-value-capture framing note; org page linked).
+
+**Ledgers:** 17 items consumed (queue 86→69); registry +15 rows; inventory 905 pages,
+0 orphans; lint 0 errors. [VERIFY] added: 4 (Welsh framing corrective; Ethiopia
+proclamation number; Schläpfer discrepancy/full-text; NEF vs skeptical rent-control lit).
+
+**Queue at 69:** biggest remaining clusters — AJES ×6 (paywalled abstracts), land-value
+capture papers (Cardiff/ScienceDirect/T&F/Liverpool/McAllister/E&Y), split-rate studies
+(Lincoln kwak/ScienceDirect/UHasselt), Springer/OSF site-value pair, misc journals
+(SAGE/Emerald/MDPI/IJBESD/Cornell/Biblioteka), Canada/BC cluster (Gwartney bio, BC
+history, gensqueeze, commonwealth.ca research posts, UofT), Land Trap book, Monopoly/
+Magie realtor piece, Korea GRI report, IBA Australia, showme ×6, PoI RFP. Next firings
+work these; the 03:00/11:00/19:00 UTC routine is armed.
