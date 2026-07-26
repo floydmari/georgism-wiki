@@ -128,24 +128,6 @@
    "author": "UKD25NV0A"
   },
   {
-   "url": "https://www.civicmapper.org",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:09.721102+00:00",
-   "reported": false,
-   "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "http://PutItOnAMap.com",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:09.721180+00:00",
-   "reported": false,
-   "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
-   "author": "UNYCKRMC6"
-  },
-  {
    "url": "https://landforall.kr",
    "source": "lvt-rents-learning",
    "reason": "unknown domain with keyword (land value)",
@@ -191,15 +173,6 @@
    "author": "UNYCKRMC6"
   },
   {
-   "url": "https://ubiworks.notion.site/Revenue-Raise-Needed-From-Rents-to-Reduce-Various-Levels-of-Income-Tax-17612a5a3bc1453fa08220ee3c76cb61",
-   "source": "research-and-policy",
-   "reason": "unknown domain with keyword (ubi)",
-   "queued_at": "2026-07-16T00:13:11.906166+00:00",
-   "reported": false,
-   "context": "Made this channel to discuss random research requests unrelated to any specific project, following the pipeline we have.\n\nI asked Richard to look into this task:\n<https://ubiworks.notion.site/Revenue-Raise-Needed-From-Rents-to-Reduce-Various-Levels-of-Income-Tax-17612a5a3bc1453fa08220ee3c76cb61>\n\nHe",
-   "author": "UKQ1MQDMW"
-  },
-  {
    "url": "https://progressandpoverty.substack.com/p/property-taxes-are-not-land-value",
    "source": "internet-scan",
    "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
@@ -215,15 +188,6 @@
    "context": "Progress and Poverty Institute LVT RFP description (2026)",
    "author": "",
    "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (land value)",
-   "context": "Just for fun I asked Hugh to re-analyze the consult we had with Tyler Meredith. Super actionable feedback! It helps that the bot knows us well: <https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188|https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7[…]53f300f5188>, for those not in notion:\n```## Tyler Meredith — ",
-   "author": "UKQ1MQDMW",
-   "queued_at": "2026-07-16T00:13:09.719456+00:00",
    "reported": false
   },
   {
@@ -1676,8 +1640,56 @@
    "disposition": "used",
    "disposition_reason": "NEW research/loehr-george-gesell-odd-couple.md + NEW people/silvio-gesell.md stub",
    "consumed_at": "2026-07-26T19:48:51Z"
+  },
+  {
+   "url": "https://www.civicmapper.org",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:09.721102+00:00",
+   "reported": false,
+   "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
+   "author": "UNYCKRMC6",
+   "disposition": "folded",
+   "disposition_reason": "CivicMapper already covered on center-for-land-economics.md via the Put It On a Map fold (wave 2)",
+   "consumed_at": "2026-07-26T19:50:17Z"
+  },
+  {
+   "url": "http://PutItOnAMap.com",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:09.721180+00:00",
+   "reported": false,
+   "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
+   "author": "UNYCKRMC6",
+   "disposition": "folded",
+   "disposition_reason": "same — covered on center-for-land-economics.md (wave 2)",
+   "consumed_at": "2026-07-26T19:50:17Z"
+  },
+  {
+   "url": "https://ubiworks.notion.site/Revenue-Raise-Needed-From-Rents-to-Reduce-Various-Levels-of-Income-Tax-17612a5a3bc1453fa08220ee3c76cb61",
+   "source": "research-and-policy",
+   "reason": "unknown domain with keyword (ubi)",
+   "queued_at": "2026-07-16T00:13:11.906166+00:00",
+   "reported": false,
+   "context": "Made this channel to discuss random research requests unrelated to any specific project, following the pipeline we have.\n\nI asked Richard to look into this task:\n<https://ubiworks.notion.site/Revenue-Raise-Needed-From-Rents-to-Reduce-Various-Levels-of-Income-Tax-17612a5a3bc1453fa08220ee3c76cb61>\n\nHe",
+   "author": "UKQ1MQDMW",
+   "disposition": "rejected",
+   "disposition_reason": "internal Notion notes, not a source",
+   "consumed_at": "2026-07-26T19:50:31Z"
+  },
+  {
+   "url": "https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (land value)",
+   "context": "Just for fun I asked Hugh to re-analyze the consult we had with Tyler Meredith. Super actionable feedback! It helps that the bot knows us well: <https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188|https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7[…]53f300f5188>, for those not in notion:\n```## Tyler Meredith — ",
+   "author": "UKQ1MQDMW",
+   "queued_at": "2026-07-16T00:13:09.719456+00:00",
+   "reported": false,
+   "disposition": "rejected",
+   "disposition_reason": "internal Notion notes, not a source",
+   "consumed_at": "2026-07-26T19:50:31Z"
   }
  ],
- "total": 26,
- "last_updated": "2026-07-26T19:48:51Z"
+ "total": 22,
+ "last_updated": "2026-07-26T19:50:31Z"
 }
