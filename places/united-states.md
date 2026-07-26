@@ -23,6 +23,10 @@ The clearest US concentration of land value taxation is in **[Pennsylvania](/wik
 - **[Proposition 13](/wiki/proposition-13/)** (California, 1978) shows the opposite political pole: the country's most consequential property-tax *revolt*, capping assessed-value growth rather than shifting the tax base toward land.
 - **[1886 New York City mayoral election](/wiki/1886-nyc-mayoral-election/)** — Henry George's own campaign, and the highest-profile electoral moment in American Georgist history.
 
+## 2026: A Wave of State Enablement Legislation
+
+2026 brought the country's most active year yet for *state-level* land value tax enablement, though still no enacted LVT anywhere in the country. **New York, Virginia, and Kentucky** each passed or renewed state legislation letting specific local governments adopt land-value-based taxation — see **[The 2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/)** for the details (and the important caveat that enablement is not enactment). **[Washington State](/wiki/washington-state/)** saw a parallel but earlier-stage push the same year: a legal-feasibility analysis for working around its constitutional uniformity clause, a Spokane City Council member's parcel study, and Seattle Mayor Katie Wilson's stated intent to pursue a land value tax — none of which had produced even enabling legislation by mid-2026.
+
 ## Honest Limits
 
 The US case is a patchwork, not a program: Pennsylvania's split-rate cities are real but small and often under-assessed; Pittsburgh's own system was repealed; Altoona's full-LVT experiment lasted five years; and Alaska's dividend applies to oil rents specifically, not land generally. No large US city or state currently runs land value taxation at a rate high enough to test the strong Georgist claims at scale.
@@ -35,8 +39,10 @@ The US case is a patchwork, not a program: Pennsylvania's split-rate cities are 
 - [Proposition 13](/wiki/proposition-13/) — the countervailing property-tax revolt
 - [Henry George](/wiki/henry-george/) · [1886 NYC Mayoral Election](/wiki/1886-nyc-mayoral-election/)
 - [Progressive Era Georgism](/wiki/progressive-era-georgism/) — the movement's historical high-water mark in US politics
+- [The 2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/) · [Washington State](/wiki/washington-state/) — the country's most active recent burst of state-level LVT enablement activity
 
 ## Sources
 
 1. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, Zed Books — the discovery source for this page (Ch. 5, Ch. 7, discussing US non-recourse mortgage law, Pennsylvania split-rate taxation, and antitrust history); not independently re-read chapter-by-chapter this session. [wiki summary](/wiki/rethinking-economics-land-housing/) · [Publisher/NEF summary](https://neweconomics.org/2017/02/britains-housing-crisis-get)
 2. Wikipedia, "Land value tax in the United States" — used for the Hyattsville (1898), Fairhope/Arden single-tax colonies, Pennsylvania split-rate city count, Pittsburgh 1913–2001 dates, and Altoona 2011–2016 episode (A-claims; basic facts). [Wikipedia](https://en.wikipedia.org/wiki/Land_value_tax_in_the_United_States)
+3. See the [2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/) and [Washington State](/wiki/washington-state/) pages for full sourcing on the 2026 New York/Virginia/Kentucky enablement legislation and the Washington State feasibility/Spokane/Seattle activity summarized above.

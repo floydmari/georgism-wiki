@@ -1,0 +1,57 @@
+---
+title: "The 2026 State Land Value Tax Enablement Wave (New York, Virginia, Kentucky)"
+category: events
+tags: [events, land-value-tax, split-rate-taxation, state-legislation, transit-value-capture, usa, new-york, virginia, kentucky, 2026]
+year: 2026
+stub: false
+excerpt: "In spring 2026, New York, Virginia, and Kentucky each passed or renewed state legislation letting specific local governments move toward land value taxation — a wave of enablement, not an enacted land value tax anywhere."
+last_reviewed: 2026-07-26
+---
+
+## Overview
+
+Between **April and June 2026**, three US states took legislative action that widened the door to [land value taxation](/wiki/land-value-tax/) at the local level: **Virginia** (HB 282, signed April 6), **Kentucky** (HB 607, enacted mid-April via veto override), and **New York** (a General Municipal Law renewal folded into the FY2027 state budget, signed by Governor Kathy Hochul in late May/June). Advocacy trackers, including the [Center for Land Economics](/wiki/center-for-land-economics/)'s legislation tracker and the *Progress and Poverty* Substack's recurring "LVT Landscape" roundup, framed 2026 as a breakthrough year for state-level enablement.[1][6]
+
+**None of the three actions is itself an enacted land value tax.** Each is *enabling* legislation: it grants a specific local government (or set of local governments) the legal authority to adopt a split-rate or land-value-capture design if that government's own council subsequently chooses to act. As of this writing, no city touched by any of the three 2026 bills has actually implemented a land value tax under the new authority.
+
+## New York: Reauthorizing Transit Value Capture (Section 119-r)
+
+New York's action was narrower than Virginia's or Kentucky's, and easy to overstate. **Section 119-r of the New York General Municipal Law**, originally enacted in 2016 to let the state's transit agencies and New York City capture rising land values near new transit investment, had lapsed; Governor Hochul's **FY2027 executive budget**, signed in 2026, renewed it through April 2027.[2][3] Section 119-r authorizes three distinct value-capture mechanisms for transit corridors: **special transit assessments** (a levy on nearby land and improvements together), **land value taxes** (a levy on land alone), and **tax increment financing**, under which an agency such as the Metropolitan Transportation Authority (MTA) borrows against the future property-tax revenue a project is expected to generate.[2][3]
+
+The renewal's most-cited application is the **Interborough Express (IBX)**, a proposed Brooklyn–Queens transit line. Using the precedent of land-value uplift measured near the Second Avenue Subway, advocates estimate the IBX corridor could generate on the order of **$1.5–3.3 billion** in capturable land value, depending on the buffer distance and uplift rate assumed — an estimate of *potential* capturable value, not a revenue projection for any tax actually levied.[2][3]
+
+**This is enablement, not a new NYC tax.** The renewed authority sits with New York City: the City Council must still designate a specific value-capture district along a specific corridor, and the mayor must approve it, before any assessment or land-value levy exists.[3] A separate, broader bill — **Senate Bill S1131** (companion Assembly bill A3339), which would direct a state pilot program letting up to five municipalities test general local land value taxation — remained in committee as of early 2026 and had **not** passed; it is a distinct proposal from the Section 119-r renewal and should not be conflated with it.[7] [VERIFY: S1131's final 2026 disposition — this entry reflects its status as of the sources checked (amended to print 1131B, still in committee as of January 2026); if it advanced further before this page's last review, that should be confirmed against the New York State Senate's bill-tracking page.]
+
+## Virginia: Four More Cities Get Split-Rate Authority (HB 282)
+
+Virginia has expanded its list of cities authorized to levy [split-rate taxation](/wiki/split-rate-taxation/) incrementally since a 1998 Attorney General opinion first found the design constitutionally permissible; Fairfax (2002), Roanoke (2003), Poquoson (2011), and Richmond (2020) were added one bill at a time.[4] **HB 282**, passed by the House 91–8 on January 27, 2026, cleared the Senate unanimously, and was signed by Governor Abigail Spanberger on **April 6, 2026**, added four more: **Charlottesville, Falls Church, Fredericksburg, and Newport News**.[4][5] The bill authorizes each city to "levy a tax on the improvements to real property at a different rate than the tax imposed upon the land," with the improvement rate barred from exceeding the land rate.[4] Eight Virginia cities — including Richmond (pop. ~235,000) and Newport News (pop. ~185,000), together roughly **7% of the state's population** — now hold this authority, though as with earlier grants, adoption by any individual city council remains voluntary and separate from the state authorization itself.[4][5]
+
+## Kentucky: Louisville Metro's Urban Services District (HB 607)
+
+Kentucky's route to enablement was the most contested of the three. **HB 607**, a broader bill reforming aspects of Kentucky's "consolidated local government" structure — a distinct statutory category under KRS Chapter 67C that applies uniquely to Louisville Metro, separate from Kentucky's other city/county classifications — included a provision letting the **Louisville Metro Council** adopt a split-rate property tax within the Urban Services District — roughly the boundaries of the pre-1970s-merger City of Louisville.[8] The provision requires any resulting change to be **revenue-neutral** and bars the council from taxing land alone (a floor above zero on the improvement rate remains required, mirroring Virginia's cap-in-reverse). Governor Andy Beshear vetoed HB 607; Kentucky's Republican legislative supermajority **overrode the veto in mid-April 2026**, and the bill took effect.[8]
+
+## What "Enablement" Does — and Doesn't — Mean
+
+All three 2026 actions hand a *choice* to a local legislative body; none creates a tax by itself. New York City's Council and mayor must still designate an IBX value-capture district; Charlottesville, Falls Church, Fredericksburg, and Newport News city councils must each separately vote to use their new Virginia authority (and most of Virginia's earlier-authorized cities, including Fairfax and Roanoke, have not adopted split-rate taxation in the two decades since gaining the power); and Louisville Metro Council must act within Kentucky's revenue-neutral constraint. Other 2026 state bills tracked by the Center for Land Economics — including proposals in Colorado, Maryland, Maine, Minnesota, Ohio, and New Hampshire — remained pending or stalled and did not pass this session, underscoring that 2026's wave was real but partial: three states expanded the *legal possibility* of land value taxation, none mandated or enacted it.[1]
+
+Washington State's parallel 2026 push — a legal-feasibility analysis, a Spokane council-commissioned parcel study, and Seattle's mayor stating an intent to pursue a land value tax — did not produce even enabling legislation in 2026; see [Washington State](/wiki/washington-state/) for that earlier-stage case.
+
+## See Also
+
+- [Land Value Tax](/wiki/land-value-tax/) — the underlying policy concept
+- [Split-Rate Taxation](/wiki/split-rate-taxation/) — the design Virginia and Kentucky's bills authorize
+- [New York City](/wiki/new-york-city/) — the locality whose transit authority the Section 119-r renewal affects
+- [Washington State](/wiki/washington-state/) — a comparable 2026 push that remained at the proposal stage
+- [United States](/wiki/united-states/) — the wiki's US hub page
+- [Detroit Land Value Tax Proposal (2023–24)](/wiki/detroit-lvt-proposal/) — a comparable 2023–24 state-enablement effort that, unlike these three, failed to pass
+
+## Sources
+
+1. Center for Land Economics, "Land Value Tax Legislation Tracker." [landeconomics.org/lvt-legislation](https://landeconomics.org/lvt-legislation) — used for the roster of 2026 state bills (passed, pending, and stalled) across New York, Virginia, Kentucky, Maryland, Colorado, Maine, Minnesota, Ohio, and New Hampshire, and for confirming which did not pass this session.
+2. Niskanen Center, "New York State authorizes a land value tax that could provide billions for transit investment" (28 May 2026). [niskanencenter.org](https://www.niskanencenter.org/new-york-state-authorizes-a-land-value-tax-that-could-provide-billions-for-transit-investment/) — used for the Section 119-r mechanics (special assessments / land value taxes / TIF), the FY2027 budget renewal, and the IBX $1.5–3.3B capturable-value estimate.
+3. Greg Miller, *Progress and Poverty* (Substack), "New York Authorizes a Land Value Tax to Fund Transit and More" — LVT Landscape #9. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/new-york-authorizes-a-land-value) — used for confirming the Section 119-r renewal is enabling-only (City Council + mayoral approval still required), the IBX focus, and that this was the only NY item in that roundup (no S1131 or Buffalo-resolution mention in this piece).
+4. Progress and Poverty Institute, "Virginia takes four more steps towards LVT." [progressandpovertyinstitute.org](https://progressandpovertyinstitute.org/virginia-takes-four-more-steps-towards-lvt/) — used for HB 282's exact statutory language, the 1998 AG opinion origin, the Fairfax/Roanoke/Poquoson/Richmond prior grants and their dates, and the "8 cities / ~7% of state population" figures.
+5. Greg Miller, *Progress and Poverty* (Substack), "Boom! Unanimous Vote Puts Land Value Tax Enablement on Governor's Desk" and "Two States Pass Land Value Tax Enablement" (LVT Landscape #8). [progressandpoverty.substack.com/p/boom-unanimous-vote-puts-land-value](https://progressandpoverty.substack.com/p/boom-unanimous-vote-puts-land-value) and [progressandpoverty.substack.com/p/two-states-pass-land-value-tax-enablement](https://progressandpoverty.substack.com/p/two-states-pass-land-value-tax-enablement) — used for the Senate's unanimous HB 282 vote, the April 6, 2026 Spanberger signature, and the pairing with Kentucky's HB 607 as the session's "two states."
+6. Corroborating legislative detail (House 91–8 vote on January 27, 2026) via LegiScan, Virginia HB282 (2026 Regular Session). [legiscan.com/VA/bill/HB282/2026](https://legiscan.com/VA/bill/HB282/2026) — used to verify the House floor vote margin and date.
+7. New York State Senate, Bill S1131 (2025–26 session, print 1131B) and companion Assembly Bill A3339 — a proposed state pilot program directing land value taxation trials in up to five municipalities. [nysenate.gov/legislation/bills/2025/S1131](https://www.nysenate.gov/legislation/bills/2025/S1131) — used to confirm this is a distinct, still-pending proposal separate from the Section 119-r budget renewal (not itself passed as of the sources checked).
+8. Ryan Van Velzer, "Louisville could reform property taxes to cut down on surface parking lots," Louisville Public Media (2 April 2026). [lpm.org](https://www.lpm.org/news/2026-04-02/one-idea-for-increasing-development-in-downtown-louisville-more-taxes-on-parking-lots) — used for HB 607's Urban Services District scope, the revenue-neutrality requirement, the bar on taxing land alone, and Governor Beshear's veto and its April 2026 legislative override.

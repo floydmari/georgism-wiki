@@ -2,15 +2,6 @@
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
  "queue": [
   {
-   "url": "https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102",
-   "source": "random",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:12:58.770025+00:00",
-   "reported": false,
-   "context": "<https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102|archive.is/20260606061953/…/andy-burnham-land-tax-rock-house-prices#…>\n\nthis article itself is internally inconsistent. half the article talks about h",
-   "author": "UNYCKRMC6"
-  },
-  {
    "url": "https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/",
    "source": "social-media-production",
    "reason": "unknown domain with keyword (housing)",
@@ -26,24 +17,6 @@
    "queued_at": "2026-07-16T00:13:05.331966+00:00",
    "reported": false,
    "context": "The Urbanist - LVT opinion piece by cartographer <https://www.theurbanist.org/author/aaron/|Aaron Schechter> (June 07, 2026)\n<https://www.theurbanist.org/op-ed-the-case-for-shifting-to-a-land-value-tax/>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616",
-   "source": "social-media-production",
-   "reason": "policy domain (ft.com) with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:05.332309+00:00",
-   "reported": false,
-   "context": "Financial Times - Letter: Burnham and the case for a land value tax - Murad Qureshi, Chair of Labour Land Campaign (May 28, 2026)\n<https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616>\n\n<https://archive.is/20260529033150/https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616#sele",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://archive.is/20260529033150/https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616#selection-1481.8-1481.49",
-   "source": "social-media-production",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:05.332336+00:00",
-   "reported": false,
-   "context": "Financial Times - Letter: Burnham and the case for a land value tax - Murad Qureshi, Chair of Labour Land Campaign (May 28, 2026)\n<https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616>\n\n<https://archive.is/20260529033150/https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616#sele",
    "author": "UKTJP503G"
   },
   {
@@ -65,66 +38,12 @@
    "author": "UKTJP503G"
   },
   {
-   "url": "https://bsky.app/profile/mayorofseattle.bsky.social",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:07.074714+00:00",
-   "reported": false,
-   "context": "<https://bsky.app/profile/mayorofseattle.bsky.social|Mayor Katie B. Wilson> Seattle\n\"Finally, under my leadership Seattle will join Spokane in advocating for a Land Value Tax as an alternative option to the property tax, that would also create an incentive to put rundown properties to better use.\"\n<",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.wilsonforseattle.com/progressiverevenue",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:07.074804+00:00",
-   "reported": false,
-   "context": "<https://bsky.app/profile/mayorofseattle.bsky.social|Mayor Katie B. Wilson> Seattle\n\"Finally, under my leadership Seattle will join Spokane in advocating for a Land Value Tax as an alternative option to the property tax, that would also create an incentive to put rundown properties to better use.\"\n<",
-   "author": "UKTJP503G"
-  },
-  {
    "url": "https://www.baytoday.ca/local-news/mattawa-approves-2026-tax-rates-considers-raising-vacant-land-tax-12408119",
    "source": "commonwealth",
    "reason": "unknown domain with keyword (land tax)",
    "queued_at": "2026-07-16T00:13:07.076632+00:00",
    "reported": false,
    "context": "Mattwawa Ontario - *Mattawa approves 2026 tax rates, considers raising vacant land tax (*Jun 12, 2026)\n<https://www.baytoday.ca/local-news/mattawa-approves-2026-tax-rates-considers-raising-vacant-land-tax-12408119>\n\nCouncillor Levesque suggested council ask staff to see what the town can do, within ",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.theguardian.com/politics/2026/jun/04/i-wouldnt-flinch-burnham-on-social-care-markets-brexit-and-the-prospect-of-a-general-election",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:07.077065+00:00",
-   "reported": false,
-   "context": "Andy Burnham is currently the bookies' favorite to succeed Sir Keir Starmer as the next Prime Minister of the United Kingdom.\n\nPushing for LVT\n\n&gt; Burnham suggested *replacing “iniquitous” council tax with a land value tax*, and said public sector procurement should prioritise British industry.\n<h",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.niskanencenter.org/new-york-state-authorizes-a-land-value-tax-that-could-provide-billions-for-transit-investment/",
-   "source": "commonwealth",
-   "reason": "policy domain (niskanencenter.org) with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:07.077095+00:00",
-   "reported": false,
-   "context": "Niskanen Center - New York State authorizes a land value tax that could provide billions for transit investment (May 28, 2026)\n<https://www.niskanencenter.org/new-york-state-authorizes-a-land-value-tax-that-could-provide-billions-for-transit-investment/>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://muradqureshi.com/i-am-a-georgist/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (georgist)",
-   "queued_at": "2026-07-16T00:13:07.077122+00:00",
-   "reported": false,
-   "context": "<https://muradqureshi.com/i-am-a-georgist/>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:07.077215+00:00",
-   "reported": false,
-   "context": "\"The favourite to be Britain’s next prime minister backs a tax revolution that has painful repercussions\"\n<https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/>",
    "author": "UKTJP503G"
   },
   {
@@ -137,30 +56,12 @@
    "author": "UKTJP503G"
   },
   {
-   "url": "https://www.msn.com/en-gb/news/insight/burnham-seeks-sue-gray-advice-as-35bn-tax-plans-stir-debate/gm-GM3DBF5AF5?gemSnapshotKey=GM3DBF5AF5-snapshot-5",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:07.078594+00:00",
-   "reported": false,
-   "context": "UK MP positioning himself for a leadership bid against the PM is backing LVT. <https://www.msn.com/en-gb/news/insight/burnham-seeks-sue-gray-advice-as-35bn-tax-plans-stir-debate/gm-GM3DBF5AF5?gemSnapshotKey=GM3DBF5AF5-snapshot-5>",
-   "author": "UKD25NV0A"
-  },
-  {
    "url": "https://deanbaker22.substack.com/p/land-value-taxes-and-progressive",
    "source": "commonwealth",
    "reason": "essay platform with keyword in path (land value)",
    "queued_at": "2026-07-16T00:13:07.079863+00:00",
    "reported": false,
    "context": "<https://deanbaker22.substack.com/p/land-value-taxes-and-progressive>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/two-states-pass-land-value-tax-enablement",
-   "source": "commonwealth",
-   "reason": "policy domain (substack.com) with keyword (poverty)",
-   "queued_at": "2026-07-16T00:13:07.080084+00:00",
-   "reported": false,
-   "context": "<https://progressandpoverty.substack.com/p/two-states-pass-land-value-tax-enablement>",
    "author": "UKTJP503G"
   },
   {
@@ -225,24 +126,6 @@
    "reported": false,
    "context": "sharing showme institute LVT links could be useful (wasn't aware of them)\n2010: <https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/|A Land Tax Is Preferable to the Earnings Tax>\n2010: <https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/|Great Article A",
    "author": "UKTJP503G"
-  },
-  {
-   "url": "https://taxpolicy.org.uk/2024/06/09/the-lib-dem-buyback-tax-wont-raise-2bn-and-could-raise-nothing/",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:09.718215+00:00",
-   "reported": false,
-   "context": "Really bad model given its limitations...but really excellent write up. I've never read a pro lvt report that was so intellectually honest with unknowns and consequences. Per the early reference to the state of research on these workups you can really see where we'll fit in!\n\n> *A <https://taxpolicy",
-   "author": "UKD25NV0A"
-  },
-  {
-   "url": "https://taxpolicy.org.uk/2026/07/12/what-would-a-land-value-tax-actually-do/#tpal-footnote-ref-30",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:09.718414+00:00",
-   "reported": false,
-   "context": "Really bad model given its limitations...but really excellent write up. I've never read a pro lvt report that was so intellectually honest with unknowns and consequences. Per the early reference to the state of research on these workups you can really see where we'll fit in!\n\n> *A <https://taxpolicy",
-   "author": "UKD25NV0A"
   },
   {
    "url": "https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/",
@@ -515,15 +398,6 @@
    "author": "research-scanner"
   },
   {
-   "url": "https://progressandpoverty.substack.com/p/new-york-authorizes-a-land-value",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.854785+00:00",
-   "reported": false,
-   "context": "New York Authorizes a Land Value Tax to Fund Transit and More — Landscape 9",
-   "author": "research-scanner"
-  },
-  {
    "url": "https://progressandpoverty.substack.com/p/you-can-now-vibe-code-land-value",
    "source": "internet-scan",
    "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
@@ -551,24 +425,6 @@
    "author": "research-scanner"
   },
   {
-   "url": "https://progressandpoverty.substack.com/p/yes-a-land-value-tax-is-possible",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.878833+00:00",
-   "reported": false,
-   "context": "Yes, a Land Value Tax Is Possible in Washington State",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/contra-watling-on-the-failure-of",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.884750+00:00",
-   "reported": false,
-   "context": "Contra Watling on \"The failure of the land value tax\"",
-   "author": "research-scanner"
-  },
-  {
    "url": "https://progressandpoverty.substack.com/p/property-taxes-are-not-land-value",
    "source": "internet-scan",
    "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
@@ -587,30 +443,12 @@
    "author": "research-scanner"
   },
   {
-   "url": "https://progressandpoverty.substack.com/p/a-german-state-quietly-implemented",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.910753+00:00",
-   "reported": false,
-   "context": "A German State Quietly Implemented a Land Value Tax",
-   "author": "research-scanner"
-  },
-  {
    "url": "https://progressandpoverty.substack.com/p/just-put-it-on-a-map",
    "source": "internet-scan",
    "reason": "rss (progressandpoverty.substack.com, keyword: urban)",
    "queued_at": "2026-07-17T23:44:18.916662+00:00",
    "reported": false,
    "context": "Just Put It On a Map",
-   "author": "research-scanner"
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/boom-unanimous-vote-puts-land-value",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
-   "queued_at": "2026-07-17T23:44:18.924260+00:00",
-   "reported": false,
-   "context": "BOOM: Unanimous Vote Puts Land Value Tax Enablement on Governor’s Desk",
    "author": "research-scanner"
   },
   {
@@ -645,15 +483,6 @@
    "source": "internet-scan",
    "reason": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
    "context": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://taxpolicy.org.uk/2026/07/12/what-would-a-land-value-tax-actually-do/",
-   "source": "internet-scan",
-   "reason": "Tax Policy Associates: What would a land value tax actually do? (Jul 2026)",
-   "context": "Tax Policy Associates: What would a land value tax actually do? (Jul 2026)",
    "author": "",
    "queued_at": "2026-07-20T10:04:32Z",
    "reported": false
@@ -926,24 +755,6 @@
    "context": "Just for fun I asked Hugh to re-analyze the consult we had with Tyler Meredith. Super actionable feedback! It helps that the bot knows us well: <https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188|https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7[…]53f300f5188>, for those not in notion:\n```## Tyler Meredith — ",
    "author": "UKQ1MQDMW",
    "queued_at": "2026-07-16T00:13:09.719456+00:00",
-   "reported": false
-  },
-  {
-   "url": "https://progressandpoverty.substack.com/p/new-uk-prime-minister-supports-land",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
-   "context": "New UK Prime Minister Supports Land Value Tax. What’s Next?",
-   "author": "research-scanner",
-   "queued_at": "2026-07-21T10:02:27.654031+00:00",
-   "reported": false
-  },
-  {
-   "url": "https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/",
-   "source": "social-media-production",
-   "reason": "unknown domain with keyword (lvt)",
-   "context": "Kitty Klitzke, Spokane City Council Member LVT quote\n<https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/|spokesman.com/stories/…/most-spokane-homeowners-would-pay-less-tax-under…>",
-   "author": "UKTJP503G",
-   "queued_at": "2026-07-21T10:02:46.818123+00:00",
    "reported": false
   },
   {
@@ -1433,8 +1244,260 @@
    "disposition": "folded",
    "disposition_reason": "duplicate of ndspn-cincinnati-lvt-analysis source PDF; noted as CLE-hosted alternate URL on that page",
    "consumed_at": "2026-07-26T14:43:22Z"
+  },
+  {
+   "url": "https://bsky.app/profile/mayorofseattle.bsky.social",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:07.074714+00:00",
+   "reported": false,
+   "context": "<https://bsky.app/profile/mayorofseattle.bsky.social|Mayor Katie B. Wilson> Seattle\n\"Finally, under my leadership Seattle will join Spokane in advocating for a Land Value Tax as an alternative option to the property tax, that would also create an incentive to put rundown properties to better use.\"\n<",
+   "author": "UKTJP503G",
+   "disposition": "folded",
+   "disposition_reason": "Bluesky unfetchable; identical quote verified on campaign site instead",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://www.wilsonforseattle.com/progressiverevenue",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:07.074804+00:00",
+   "reported": false,
+   "context": "<https://bsky.app/profile/mayorofseattle.bsky.social|Mayor Katie B. Wilson> Seattle\n\"Finally, under my leadership Seattle will join Spokane in advocating for a Land Value Tax as an alternative option to the property tax, that would also create an incentive to put rundown properties to better use.\"\n<",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "places/washington-state.md (Wilson LVT commitment, quote verified)",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://www.niskanencenter.org/new-york-state-authorizes-a-land-value-tax-that-could-provide-billions-for-transit-investment/",
+   "source": "commonwealth",
+   "reason": "policy domain (niskanencenter.org) with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:07.077095+00:00",
+   "reported": false,
+   "context": "Niskanen Center - New York State authorizes a land value tax that could provide billions for transit investment (May 28, 2026)\n<https://www.niskanencenter.org/new-york-state-authorizes-a-land-value-tax-that-could-provide-billions-for-transit-investment/>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "event page 2026-state-lvt-enablement-wave + NYC pointer",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/two-states-pass-land-value-tax-enablement",
+   "source": "commonwealth",
+   "reason": "policy domain (substack.com) with keyword (poverty)",
+   "queued_at": "2026-07-16T00:13:07.080084+00:00",
+   "reported": false,
+   "context": "<https://progressandpoverty.substack.com/p/two-states-pass-land-value-tax-enablement>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "event page (Virginia + Kentucky)",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/new-york-authorizes-a-land-value",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.854785+00:00",
+   "reported": false,
+   "context": "New York Authorizes a Land Value Tax to Fund Transit and More — Landscape 9",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "event page (Section 119-r renewal)",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/yes-a-land-value-tax-is-possible",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.878833+00:00",
+   "reported": false,
+   "context": "Yes, a Land Value Tax Is Possible in Washington State",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "places/washington-state.md (cross-checked against Sightline original)",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/boom-unanimous-vote-puts-land-value",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.924260+00:00",
+   "reported": false,
+   "context": "BOOM: Unanimous Vote Puts Land Value Tax Enablement on Governor’s Desk",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "event page (Virginia HB 282 — queue framing said NY, actually VA)",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/",
+   "source": "social-media-production",
+   "reason": "unknown domain with keyword (lvt)",
+   "context": "Kitty Klitzke, Spokane City Council Member LVT quote\n<https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/|spokesman.com/stories/…/most-spokane-homeowners-would-pay-less-tax-under…>",
+   "author": "UKTJP503G",
+   "queued_at": "2026-07-21T10:02:46.818123+00:00",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "places/washington-state.md (Spokane 50+50 study)",
+   "consumed_at": "2026-07-26T14:48:51Z"
+  },
+  {
+   "url": "https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102",
+   "source": "random",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:12:58.770025+00:00",
+   "reported": false,
+   "context": "<https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102|archive.is/20260606061953/…/andy-burnham-land-tax-rock-house-prices#…>\n\nthis article itself is internally inconsistent. half the article talks about h",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "people/andy-burnham.md (via Yahoo Finance mirror of the Lawford Telegraph piece)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616",
+   "source": "social-media-production",
+   "reason": "policy domain (ft.com) with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:05.332309+00:00",
+   "reported": false,
+   "context": "Financial Times - Letter: Burnham and the case for a land value tax - Murad Qureshi, Chair of Labour Land Campaign (May 28, 2026)\n<https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616>\n\n<https://archive.is/20260529033150/https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616#sele",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "people/andy-burnham.md + labour-land-campaign.md (via labourland.org republication)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://archive.is/20260529033150/https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616#selection-1481.8-1481.49",
+   "source": "social-media-production",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:05.332336+00:00",
+   "reported": false,
+   "context": "Financial Times - Letter: Burnham and the case for a land value tax - Murad Qureshi, Chair of Labour Land Campaign (May 28, 2026)\n<https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616>\n\n<https://archive.is/20260529033150/https://www.ft.com/content/7a3ac0df-c835-43cc-8561-36113c710616#sele",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same FT letter, mirror unreachable; labourland.org republication used",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://www.theguardian.com/politics/2026/jun/04/i-wouldnt-flinch-burnham-on-social-care-markets-brexit-and-the-prospect-of-a-general-election",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:07.077065+00:00",
+   "reported": false,
+   "context": "Andy Burnham is currently the bookies' favorite to succeed Sir Keir Starmer as the next Prime Minister of the United Kingdom.\n\nPushing for LVT\n\n&gt; Burnham suggested *replacing “iniquitous” council tax with a land value tax*, and said public sector procurement should prioritise British industry.\n<h",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "people/andy-burnham.md (headline/date framing; paywalled)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://muradqureshi.com/i-am-a-georgist/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (georgist)",
+   "queued_at": "2026-07-16T00:13:07.077122+00:00",
+   "reported": false,
+   "context": "<https://muradqureshi.com/i-am-a-georgist/>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "organizations/labour-land-campaign.md",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:07.077215+00:00",
+   "reported": false,
+   "context": "\"The favourite to be Britain’s next prime minister backs a tax revolution that has painful repercussions\"\n<https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "people/andy-burnham.md (via Yahoo Finance mirror)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://www.msn.com/en-gb/news/insight/burnham-seeks-sue-gray-advice-as-35bn-tax-plans-stir-debate/gm-GM3DBF5AF5?gemSnapshotKey=GM3DBF5AF5-snapshot-5",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:07.078594+00:00",
+   "reported": false,
+   "context": "UK MP positioning himself for a leadership bid against the PM is backing LVT. <https://www.msn.com/en-gb/news/insight/burnham-seeks-sue-gray-advice-as-35bn-tax-plans-stir-debate/gm-GM3DBF5AF5?gemSnapshotKey=GM3DBF5AF5-snapshot-5>",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "people/andy-burnham.md (via Yahoo News UK mirror)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://taxpolicy.org.uk/2024/06/09/the-lib-dem-buyback-tax-wont-raise-2bn-and-could-raise-nothing/",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:09.718215+00:00",
+   "reported": false,
+   "context": "Really bad model given its limitations...but really excellent write up. I've never read a pro lvt report that was so intellectually honest with unknowns and consequences. Per the early reference to the state of research on these workups you can really see where we'll fit in!\n\n> *A <https://taxpolicy",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "one sentence on research/tpa-what-would-lvt-do.md (reputation context)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://taxpolicy.org.uk/2026/07/12/what-would-a-land-value-tax-actually-do/#tpal-footnote-ref-30",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:09.718414+00:00",
+   "reported": false,
+   "context": "Really bad model given its limitations...but really excellent write up. I've never read a pro lvt report that was so intellectually honest with unknowns and consequences. Per the early reference to the state of research on these workups you can really see where we'll fit in!\n\n> *A <https://taxpolicy",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "research/tpa-what-would-lvt-do.md (new page) + andy-burnham.md",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/contra-watling-on-the-failure-of",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.884750+00:00",
+   "reported": false,
+   "context": "Contra Watling on \"The failure of the land value tax\"",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "research/watling-doucet-lvt-failure-exchange.md (new page, incl. Works in Progress original)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/a-german-state-quietly-implemented",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
+   "queued_at": "2026-07-17T23:44:18.910753+00:00",
+   "reported": false,
+   "context": "A German State Quietly Implemented a Land Value Tax",
+   "author": "research-scanner",
+   "disposition": "used",
+   "disposition_reason": "places/germany.md Baden-Württemberg section (+ Bundesfinanzhof April 2026 ruling added)",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://taxpolicy.org.uk/2026/07/12/what-would-a-land-value-tax-actually-do/",
+   "source": "internet-scan",
+   "reason": "Tax Policy Associates: What would a land value tax actually do? (Jul 2026)",
+   "context": "Tax Policy Associates: What would a land value tax actually do? (Jul 2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "research/tpa-what-would-lvt-do.md (new page) + andy-burnham.md",
+   "consumed_at": "2026-07-26T14:52:35Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/new-uk-prime-minister-supports-land",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+   "context": "New UK Prime Minister Supports Land Value Tax. What’s Next?",
+   "author": "research-scanner",
+   "queued_at": "2026-07-21T10:02:27.654031+00:00",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "people/andy-burnham.md (PM status independently corroborated NPR/CNN/NBC)",
+   "consumed_at": "2026-07-26T14:52:35Z"
   }
  ],
- "total": 107,
- "last_updated": "2026-07-26T14:43:22Z"
+ "total": 86,
+ "last_updated": "2026-07-26T14:52:35Z"
 }

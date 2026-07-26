@@ -2351,3 +2351,55 @@ a generic cooperative-individualism.org homepage link to the actual archive.org 
 Depth Medium→Heavy); this LOOPLOG entry.
 
 Lint: `texts/open-letter-to-pope-leo-xiii.md` — see lint run below.
+
+---
+
+## 2026-07-26 — Queue-consumption loop resumed (wave 1: 59 items dispositioned, 5 new pages, 899 total)
+
+Floyd re-opened the loop with a new standing shape: the daily internet scan (Hugh's
+scanners) feeds `sources/wiki-queue.json` on main at ~10:00 UTC, and this session now
+runs a durable routine (`wiki-queue-loop`, 03:00/11:00/19:00 UTC) that syncs main,
+takes ~10–12 items per firing, and stays repo-side (no Ghost publish, no merge without
+Floyd's word). Branch restarted from origin/main post-merge (`claude/georgism-wiki-interlink-publish-2z2oww`).
+
+**Wave 1 (this shift):** queue arrived at 145 items after the scanner's own LLM
+triage/dedup passes. 36 rejected as non-source material (internal docs/Notion/LinkedIn/
+Zoom/ephemeral social/video clips), 23 processed through four parallel writer lanes:
+
+- **UK/Burnham cluster (8 items)** — NEW `people/andy-burnham.md`: Andy Burnham became
+  UK Prime Minister 20 July 2026 (tier-A, corroborated NPR/CNN/NBC+); LVT advocacy
+  timeline 2010→2026, Fairer Share 0.48% proportional-property-tax proposal (corrected
+  in T1 review: it taxes property value, not land value, and the Brent/Hartlepool
+  £13,224/£16,387 figures are house-price changes, not bills), Goodhart transition
+  warning, Qureshi FT letter. `places/united-kingdom.md` 2026-moment section;
+  `organizations/labour-land-campaign.md` Qureshi chairmanship. T1 review also removed
+  a content-farm source (britaintodaynews.com) and re-anchored its claims to TPA/Yahoo
+  mirrors or dropped them.
+- **US enablement cluster (8 items)** — NEW `events/2026-state-lvt-enablement-wave.md`:
+  queue framing corrected — two "NY" items were actually Virginia HB 282 and Kentucky
+  HB 607; page covers all three states' 2026 enablement acts (NY §119-r transit
+  value-capture renewal / IBX, VA's four new split-rate cities, Louisville's USD
+  authority via veto override), enablement-vs-enactment held strictly. NEW
+  `places/washington-state.md` (uniformity clause, Vibrant Cities Act, Spokane 50+50
+  study, Mayor Wilson's Seattle commitment). Pointer sections in `new-york-city.md`,
+  `united-states.md`. Byline fix in T1 review: LVT Landscape posts are Greg Miller's,
+  not Doucet's (verified against post bylines).
+- **Cincinnati (2 items)** — CLE landing page identified as duplicate of the
+  already-covered NDSPN report (same PDF); WVXU reception + Ohio SJR 7 status folded
+  into `research/ndspn-cincinnati-lvt-analysis.md` + org page. No new page (delta rule).
+- **Critique cluster (5 items)** — NEW `research/tpa-what-would-lvt-do.md` (Neidle's
+  July 2026 UK model, steelmanned); NEW `research/watling-doucet-lvt-failure-exchange.md`
+  (Works in Progress critique + Doucet reply, verified bylines); `places/germany.md`
+  Baden-Württemberg Bodenwertsteuer section incl. Bundesfinanzhof 22 Apr 2026
+  constitutionality ruling (II R 26/24, II R 27/24) the substack piece predates.
+
+**Ledgers:** 59 queue items dispositioned (36 rejected + 23 used/folded), queue
+145→86; registry +32 rows (incl. merged TPA dupe, byline fixes); inventory
+regenerated 899 pages, 0 orphans. Lint 0 errors throughout. [VERIFY] added: 5
+(S1131 final disposition; Wilson post-inauguration action; Burnham legislation
+timetable; BVerfG complaint post-BFH; none on Cincinnati).
+
+**Remaining queue (86):** dominated by academic/report backlog — AJES ×6, Wales
+valuation cluster, split-rate studies (Lincoln/UHasselt/ScienceDirect), land-value
+capture cluster, Schlaepfer Switzerland rents, NEF report, arXiv LVT dynamics — plus
+Canada/BC items and the Land Trap book. Next firings work these in batches.
