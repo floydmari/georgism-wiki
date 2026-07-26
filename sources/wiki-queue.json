@@ -488,24 +488,6 @@
    "reported": false
   },
   {
-   "url": "https://link.springer.com/article/10.1007/s11146-024-09995-y",
-   "source": "internet-scan",
-   "reason": "Springer: Site value taxation / land tax empirical study",
-   "context": "Springer: Site value taxation / land tax empirical study",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://osf.io/download/mxg3j",
-   "source": "internet-scan",
-   "reason": "OSF: Site value taxation empirical evidence paper",
-   "context": "OSF: Site value taxation empirical evidence paper",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
    "url": "https://orca.cardiff.ac.uk/id/eprint/186157/",
    "source": "internet-scan",
    "reason": "Cardiff: Land Value Capture report (2026)",
@@ -564,33 +546,6 @@
    "source": "internet-scan",
    "reason": "E&Y: Land Value Capture report",
    "context": "E&Y: Land Value Capture report",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.lincolninst.edu/app/uploads/2024/04/1591_808_kwak_final.pdf",
-   "source": "internet-scan",
-   "reason": "Lincoln Institute: Split-rate property tax study",
-   "context": "Lincoln Institute: Split-rate property tax study",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.sciencedirect.com/science/article/pii/S0264837722003623",
-   "source": "internet-scan",
-   "reason": "ScienceDirect: Split-rate property tax / land value tax study",
-   "context": "ScienceDirect: Split-rate property tax / land value tax study",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://documentserver.uhasselt.be/bitstream/1942/38117/5/LUP-D-20-00221_R3.pdf",
-   "source": "internet-scan",
-   "reason": "UHasselt: Split-rate / graded property tax analysis",
-   "context": "UHasselt: Split-rate / graded property tax analysis",
    "author": "",
    "queued_at": "2026-07-20T10:04:32Z",
    "reported": false
@@ -1547,8 +1502,68 @@
    "disposition": "used",
    "disposition_reason": "research/welsh-lvt-valuation-testing.md (full WP2 valuation methodologies, 41pp, read in full)",
    "consumed_at": "2026-07-26T15:10:27Z"
+  },
+  {
+   "url": "https://link.springer.com/article/10.1007/s11146-024-09995-y",
+   "source": "internet-scan",
+   "reason": "Springer: Site value taxation / land tax empirical study",
+   "context": "Springer: Site value taxation / land tax empirical study",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW research/yang-split-rate-spillover-employment.md (via open Lincoln WP15ZY1 precursor; published-version deltas flagged VERIFY)",
+   "consumed_at": "2026-07-26T19:25:04Z"
+  },
+  {
+   "url": "https://osf.io/download/mxg3j",
+   "source": "internet-scan",
+   "reason": "OSF: Site value taxation empirical evidence paper",
+   "context": "OSF: Site value taxation empirical evidence paper",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "Murray & Hermans Victoria progressivity: enhanced research/victoria-svr-nav-comparison.md + wired as 9th supporter on land-value-tax-can-be-progressive (not a Yang preprint)",
+   "consumed_at": "2026-07-26T19:25:04Z"
+  },
+  {
+   "url": "https://www.lincolninst.edu/app/uploads/2024/04/1591_808_kwak_final.pdf",
+   "source": "internet-scan",
+   "reason": "Lincoln Institute: Split-rate property tax study",
+   "context": "Lincoln Institute: Split-rate property tax study",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "folded",
+   "disposition_reason": "Kwak WP09SK1 Hawaii: delta folded into lvt-causes-overdevelopment + selection-bias caveat on split-rate-increases-construction (sibling Kwak-Mak 2011 already covered)",
+   "consumed_at": "2026-07-26T19:25:04Z"
+  },
+  {
+   "url": "https://www.sciencedirect.com/science/article/pii/S0264837722003623",
+   "source": "internet-scan",
+   "reason": "ScienceDirect: Split-rate property tax / land value tax study",
+   "context": "ScienceDirect: Split-rate property tax / land value tax study",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "duplicate",
+   "disposition_reason": "Taranu & Verbeeck 2022 — already fully covered by research/taranu-verbeeck-property-tax-sprawl.md",
+   "consumed_at": "2026-07-26T19:25:04Z"
+  },
+  {
+   "url": "https://documentserver.uhasselt.be/bitstream/1942/38117/5/LUP-D-20-00221_R3.pdf",
+   "source": "internet-scan",
+   "reason": "UHasselt: Split-rate / graded property tax analysis",
+   "context": "UHasselt: Split-rate / graded property tax analysis",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "duplicate",
+   "disposition_reason": "same Taranu & Verbeeck accepted manuscript, already used by the existing page",
+   "consumed_at": "2026-07-26T19:25:04Z"
   }
  ],
- "total": 69,
- "last_updated": "2026-07-26T15:10:27Z"
+ "total": 64,
+ "last_updated": "2026-07-26T19:25:04Z"
 }

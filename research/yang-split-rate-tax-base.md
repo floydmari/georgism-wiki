@@ -60,6 +60,7 @@ This paper is **complementary, supporting evidence for the split-rate policy cas
 - [Split-Rate Taxation](/wiki/split-rate-taxation/)
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction (Plassmann & Tideman, 2000)](/wiki/plassmann-tideman-construction/)
+- [The Spillover Effects of Land Value Taxation (Yang, 2024)](/wiki/yang-split-rate-spillover-employment/) — the same author's companion study of inter-jurisdictional employment spillovers, rather than within-jurisdiction tax-base effects
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/)
 

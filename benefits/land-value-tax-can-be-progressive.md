@@ -5,14 +5,14 @@ claim_type: benefit
 tags: [outcomes, equity, progressivity, lvt, wealth]
 stub: false
 evidence_strength: "Strong that LVT falls on concentrated land wealth and can be made progressive by design (optimal-tax theory + wealth-concentration data); household-level incidence is jurisdiction- and design-dependent, and one revenue-neutral case (Dover, NH) was regressive absent a credit"
-supported_by: [schwerhoff-imf-equity-efficiency, schwerhoff-taxation-economic-rents, plummer-lvt-distribution, bowman-bell-lvt-distribution, rognlie-capital-share, cwc-distributional-impacts-lvt, saez-zucman-wealth-inequality, bonnet-land-is-back]
+supported_by: [schwerhoff-imf-equity-efficiency, schwerhoff-taxation-economic-rents, plummer-lvt-distribution, bowman-bell-lvt-distribution, rognlie-capital-share, cwc-distributional-impacts-lvt, saez-zucman-wealth-inequality, bonnet-land-is-back, victoria-svr-nav-comparison]
 challenged_by: [england-zhao-lvt-distribution, wyatt-critical-view-lvt]
 excerpt: "Because land ownership is concentrated among the wealthy, a land value tax falls disproportionately on high-wealth households — making it both efficient and progressive. Household-level incidence is design-dependent; a flat refundable credit or citizen's dividend makes it sharply progressive."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-26
 ---
 
 > **At a glance** — Because land ownership is heavily concentrated among wealthier households, a land value tax can be made progressive without sacrificing efficiency — though household-level incidence is design- and jurisdiction-dependent, and at least one revenue-neutral case was regressive without a credit.
-> **Evidence:** Strong that LVT falls on concentrated land wealth and can be made progressive by design (optimal-tax theory + wealth-concentration data); household-level incidence is jurisdiction- and design-dependent, and one revenue-neutral case (Dover, NH) was regressive absent a credit · **8 supporting** sources · **2 challenging**
+> **Evidence:** Strong that LVT falls on concentrated land wealth and can be made progressive by design (optimal-tax theory + wealth-concentration data); household-level incidence is jurisdiction- and design-dependent, and one revenue-neutral case (Dover, NH) was regressive absent a credit · **9 supporting** sources · **2 challenging**
 > **Strongest support:** [Schwerhoff, Edenhofer & Fleurbaey (2022)](/wiki/schwerhoff-imf-equity-efficiency/) — optimal-tax theory shows LVT can improve both equity and efficiency. **Strongest counter:** [England & Zhao (2005)](/wiki/england-zhao-lvt-distribution/) — a revenue-neutral two-rate shift in Dover, NH was regressive among residential owners absent a uniform credit.
 
 ## The Claim
@@ -23,6 +23,7 @@ A land value tax is **not** regressive. Because the ownership of land and land-h
 
 - [Schwerhoff, Edenhofer & Fleurbaey (2022, IMF)](/wiki/schwerhoff-imf-equity-efficiency/) show formally, using optimal-taxation theory with heterogeneous households, that LVT can improve **both** equity and efficiency.
 - The concentration premise is supported by wealth data and by [Rognlie (2015)](/wiki/rognlie-capital-share/) / [Bonnet et al. (2021)](/wiki/bonnet-land-is-back/): the wealth gains of recent decades are land gains, accruing to existing property owners. [Saez & Zucman (2016)](/wiki/saez-zucman-wealth-inequality/) supply the underlying concentration series — US wealth, land included, is heavily concentrated at the top, so a tax on the land component of wealth falls disproportionately on the wealthiest households.
+- Outside the US, [Murray & Hermans (2019/2021)](/wiki/victoria-svr-nav-comparison/) find the same pattern directly in property-tax data: across three levels of geographic aggregation in Victoria, Australia, the ratio of site value to total (capital-improved) property value rises significantly with household income — a 1-point rise in area income is associated with a 0.10–0.57 point rise in the site-value share — so a council raising the same revenue from site value rather than total value would shift the burden toward higher-income areas.
 
 ## A Caveat
 
@@ -113,3 +114,8 @@ additional statistical evidence for the modern progressivity finding.
    regression-fallacy critique of income-ranked incidence studies (C/D-claim,
    attributed; historical corroboration, not counted among the 8 supporting
    sources above). [wiki summary](/wiki/gaffney-property-tax-progressive/)
+5. Cameron K. Murray & Jesse Benjamin Hermans (2019/2021), "Land value is a
+   progressive and efficient property tax base: Evidence from Victoria," OSF
+   Preprints — used for the Australian finding that the site-value/capital-
+   improved-value ratio rises significantly with household income across three
+   geographic aggregations in Victoria. [wiki summary](/wiki/victoria-svr-nav-comparison/)
