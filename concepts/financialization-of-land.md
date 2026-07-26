@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, land, housing, financialization, mortgage-credit, rentier]
 stub: false
 excerpt: "The process by which land and housing shift from being valued as places to live and work into being valued primarily as collateral and investment assets — driven by the feedback loop between mortgage credit and land prices."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-26
 ---
 
 ## Overview
@@ -54,6 +54,7 @@ argument rather than independent evidence for it.[2]
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the periodicity claim built on related credit–land dynamics
 - [The Rentier Economy](/wiki/the-rentier-economy/) — the broader narrative of asset-income displacing production
 - [2008 Financial Crisis](/wiki/2008-financial-crisis/) — the crisis event most cited as the feedback loop's culmination
+- [A Modern System for Fair Rents (NEF, 2026)](/wiki/nef-modern-system-fair-rents/) — a 2026 UK case study of the buy-to-let-mortgage/tenancy-deregulation mechanism at street level
 
 ## Sources
 

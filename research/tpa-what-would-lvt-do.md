@@ -97,7 +97,8 @@ treats it as a serious source rather than an advocacy piece:
    reasons to abandon the idea:** the under-yielding 1909–1914 Lloyd George land duties, the
    suspension of Denmark's [grundskyld](/wiki/denmark/) valuation base at points in its history,
    and a Welsh Government research finding that no assessment methodology tested was yet
-   accurate enough for live implementation.
+   accurate enough for live implementation — see [the dedicated research page](/wiki/welsh-lvt-valuation-testing/)
+   on that Welsh programme for the fuller picture (and an honest-limits caveat on this framing).
 4. **No modelling of farmland relief, social housing treatment, or council-tax-support
    scheme interactions** — all of which any real bill would have to address and none of which
    the static model attempts.
@@ -164,6 +165,9 @@ do to specific households — not as a peer-reviewed incidence estimate.
   record this proposal sits within
 - [Institute for Fiscal Studies](/wiki/institute-for-fiscal-studies/) — the mainstream UK
   public-finance institute whose independent buyback-tax conclusion corroborated TPA's 2024 work
+- [The Dynamic of a Tax on Land Value (Spring-Ragain, 2025)](/wiki/spring-ragain-lvt-dynamics/) —
+  a contrasting theoretical/dynamic spatial model of LVT, versus this page's empirical/static
+  microsimulation of a real jurisdiction
 
 ## Sources
 

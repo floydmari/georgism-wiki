@@ -3,7 +3,7 @@ authors:
 - Martine August
 category: research
 excerpt: "Canadian case study: REITs and other 'financialized' landlords grew from owning zero to ~10% of Canada's private apartment stock (1996-2017) and now comprise nine of the ten biggest landlords, with penetration concentrated in provinces with weak rent control."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-26
 source_url: https://www.tandfonline.com/doi/abs/10.1080/07352166.2019.1705846
 stub: false
 subcategory: wiki-research-housing
@@ -56,6 +56,7 @@ August's paper does not measure the land-rent share of financialized landlords' 
 - [The Rentier Economy](/wiki/the-rentier-economy/)
 - [Canada](/wiki/canada/)
 - [Housing unaffordability is a land problem, not a construction-cost problem](/wiki/housing-unaffordability-is-a-land-problem/)
+- [A Modern System for Fair Rents (NEF, 2026)](/wiki/nef-modern-system-fair-rents/) — the UK equivalent: buy-to-let-mortgage-driven landlordism rather than REIT consolidation
 
 ## Sources
 

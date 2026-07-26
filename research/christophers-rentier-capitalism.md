@@ -9,7 +9,7 @@ source_url: https://www.versobooks.com/products/871-rentier-capitalism
 tier: important
 stub: false
 excerpt: "A 2020 book by geographer Brett Christophers arguing that the UK economy's 'commanding heights' are dominated by rentiers extracting income from scarce assets — land, finance, IP, natural resources, digital platforms, and outsourcing contracts — rather than by productive enterprise."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-26
 ---
 
 ## Overview
@@ -24,6 +24,7 @@ Christophers's taxonomy extends the classical land-rent analysis that anchors Ge
 - [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/) — a companion academic framework covering land, finance, and platform rents
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the wiki's assessment of how far the rentier critique extends beyond land
 - [IP Rents](/wiki/ip-rents/) · [Resource Rents](/wiki/resource-rents/) — two of the rent categories Christophers surveys
+- [A Modern System for Fair Rents (NEF, 2026)](/wiki/nef-modern-system-fair-rents/) — a concrete UK case study of landlords extracting "scarcity rents," in the same vein as Christophers's land chapter
 
 ## Sources
 

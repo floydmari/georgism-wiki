@@ -389,15 +389,6 @@
    "reported": false
   },
   {
-   "url": "https://arxiv.org/abs/2511.21766",
-   "source": "internet-scan",
-   "reason": "arXiv: The dynamic of a tax on land value (2025)",
-   "context": "arXiv: The dynamic of a tax on land value (2025)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
    "url": "https://www.gov.wales/sites/default/files/publications/2026-02/testing-land-valuation-methods-a-land-value-tax-for-wales-claims-and-contexts-report.pdf",
    "source": "internet-scan",
    "reason": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
@@ -456,24 +447,6 @@
    "source": "internet-scan",
    "reason": "MDPI: Land / property tax study (2026)",
    "context": "MDPI: Land / property tax study (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://www.researchgate.net/profile/Felix-Schlaepfer/publication/396308783_Total_rents_from_natural_resources_Framework_and_preliminary_estimates_for_Switzerland",
-   "source": "internet-scan",
-   "reason": "Schlaepfer: Total rents from natural resources — framework and estimates for Switzerland (2026)",
-   "context": "Schlaepfer: Total rents from natural resources — framework and estimates for Switzerland (2026)",
-   "author": "",
-   "queued_at": "2026-07-20T10:04:32Z",
-   "reported": false
-  },
-  {
-   "url": "https://thinkhouse.org.uk/site/assets/files/3393/nef0526.pdf",
-   "source": "internet-scan",
-   "reason": "NEF (New Economics Foundation): Rents and land economics report (2026)",
-   "context": "NEF (New Economics Foundation): Rents and land economics report (2026)",
    "author": "",
    "queued_at": "2026-07-20T10:04:32Z",
    "reported": false
@@ -1523,8 +1496,44 @@
    "disposition": "used",
    "disposition_reason": "folded into organizations/center-for-land-economics.md (CivicMapper/Put It On A Map)",
    "consumed_at": "2026-07-26T15:05:43Z"
+  },
+  {
+   "url": "https://arxiv.org/abs/2511.21766",
+   "source": "internet-scan",
+   "reason": "arXiv: The dynamic of a tax on land value (2025)",
+   "context": "arXiv: The dynamic of a tax on land value (2025)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW research/spring-ragain-lvt-dynamics.md (flagged: unreviewed preprint, supplementary tier)",
+   "consumed_at": "2026-07-26T15:06:44Z"
+  },
+  {
+   "url": "https://www.researchgate.net/profile/Felix-Schlaepfer/publication/396308783_Total_rents_from_natural_resources_Framework_and_preliminary_estimates_for_Switzerland",
+   "source": "internet-scan",
+   "reason": "Schlaepfer: Total rents from natural resources — framework and estimates for Switzerland (2026)",
+   "context": "Schlaepfer: Total rents from natural resources — framework and estimates for Switzerland (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW research/schlaepfer-swiss-resource-rents.md (via OpenAlex + open companion paper; RG/SD blocked)",
+   "consumed_at": "2026-07-26T15:06:44Z"
+  },
+  {
+   "url": "https://thinkhouse.org.uk/site/assets/files/3393/nef0526.pdf",
+   "source": "internet-scan",
+   "reason": "NEF (New Economics Foundation): Rents and land economics report (2026)",
+   "context": "NEF (New Economics Foundation): Rents and land economics report (2026)",
+   "author": "",
+   "queued_at": "2026-07-20T10:04:32Z",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW research/nef-modern-system-fair-rents.md (read in full; advocacy caveats + rent-control-vs-LVC framing note)",
+   "consumed_at": "2026-07-26T15:06:44Z"
   }
  ],
- "total": 77,
- "last_updated": "2026-07-26T15:05:43Z"
+ "total": 74,
+ "last_updated": "2026-07-26T15:06:44Z"
 }
