@@ -2,15 +2,6 @@
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
  "queue": [
   {
-   "url": "https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/",
-   "source": "social-media-production",
-   "reason": "unknown domain with keyword (housing)",
-   "queued_at": "2026-07-16T00:13:05.331704+00:00",
-   "reported": false,
-   "context": "*Projet Montréal calls for a tax on vacant housing (2026 june 17)*\n<https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/>",
-   "author": "UKTJP503G"
-  },
-  {
    "url": "https://www.theurbanist.org/author/aaron/",
    "source": "social-media-production",
    "reason": "unknown domain with keyword (urban)",
@@ -35,15 +26,6 @@
    "queued_at": "2026-07-16T00:13:05.333749+00:00",
    "reported": false,
    "context": "Property Council AU - Global investors abandon Victoria as land tax surcharges bite (29 October 2025)\n<https://www.propertycouncil.com.au/media-releases/global-investors-abandon-victoria-as-land-tax-surcharges-bite>",
-   "author": "UKTJP503G"
-  },
-  {
-   "url": "https://www.baytoday.ca/local-news/mattawa-approves-2026-tax-rates-considers-raising-vacant-land-tax-12408119",
-   "source": "commonwealth",
-   "reason": "unknown domain with keyword (land tax)",
-   "queued_at": "2026-07-16T00:13:07.076632+00:00",
-   "reported": false,
-   "context": "Mattwawa Ontario - *Mattawa approves 2026 tax rates, considers raising vacant land tax (*Jun 12, 2026)\n<https://www.baytoday.ca/local-news/mattawa-approves-2026-tax-rates-considers-raising-vacant-land-tax-12408119>\n\nCouncillor Levesque suggested council ask staff to see what the town can do, within ",
    "author": "UKTJP503G"
   },
   {
@@ -110,15 +92,6 @@
    "author": "UKTJP503G"
   },
   {
-   "url": "https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (speculation)",
-   "queued_at": "2026-07-16T00:13:09.718622+00:00",
-   "reported": false,
-   "context": "Also this was totally new to me... Québec passed a special vacant/underused tax authority for municipalities in 2023.\n\nHere's a random example of a municipality that is using it. <https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/>\n\nWhy did they apply this charge you mig",
-   "author": "UKD25NV0A"
-  },
-  {
    "url": "https://www.saskatchewan.ca/government/municipal-administration/taxation-and-service-fees/municipal-property-tax-tools#tax-tools",
    "source": "lvt-rents-learning",
    "reason": "unknown domain with keyword (land value)",
@@ -155,33 +128,6 @@
    "author": "UKD25NV0A"
   },
   {
-   "url": "https://www.bcgeu.ca/bc_polling_shows_that_the_housing_crisis_has_worsened_and_a_majority_of_residents_confirm_that_all_levels_of_government_need_to_enact_further_measures_to_fix_it",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (housing)",
-   "queued_at": "2026-07-16T00:13:09.718989+00:00",
-   "reported": false,
-   "context": "<https://www.bcgeu.ca/bc_polling_shows_that_the_housing_crisis_has_worsened_and_a_majority_of_residents_confirm_that_all_levels_of_government_need_to_enact_further_measures_to_fix_it>",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://newsletter.economics.utoronto.ca/is-a-land-value-tax-the-solution-to-canadas-housing-crisis/",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (housing)",
-   "queued_at": "2026-07-16T00:13:09.719914+00:00",
-   "reported": false,
-   "context": "<https://newsletter.economics.utoronto.ca/is-a-land-value-tax-the-solution-to-canadas-housing-crisis/>\n\nUofT econ undergrad on LVT. I'm gonna reach out to meet, and possibly get a way in with UofT Econ. Was a youth organizer with Chrystia Freeland and Ontario Young Liberals Treasurer (<https://www.l",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://landeconomics.org/problem",
-   "source": "lvt-rents-learning",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:09.720997+00:00",
-   "reported": false,
-   "context": "He says a big part of their traction has been good inbound, thanks to publications like the 1-pager they produced on LVT Shift\n(found at the bottom of <https://landeconomics.org/problem> - wow he made the 1-pager the metadata thumbnail)\n\ngreat resource for us to replicate - but honestly theirs is re",
-   "author": "UNYCKRMC6"
-  },
-  {
    "url": "https://www.civicmapper.org",
    "source": "lvt-rents-learning",
    "reason": "unknown domain with keyword (land value)",
@@ -206,15 +152,6 @@
    "queued_at": "2026-07-16T00:13:09.721256+00:00",
    "reported": false,
    "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics#:~:text=StatCan%20claims%20there%20are%20about,further%20investigation%20into%20these%20datasets",
-   "source": "lvt-rents-learning",
-   "reason": "policy domain (commonwealth.ca) with keyword (housing)",
-   "queued_at": "2026-07-16T00:13:09.721631+00:00",
-   "reported": false,
-   "context": "Interesting. Our article by Jack Jol is being used as a top reference for total value of land in Canada.\n<https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics#:~:text=StatCan%20claims%20there%20are%20about,further%20investigation%20into%20these%20datasets>.",
    "author": "UNYCKRMC6"
   },
   {
@@ -254,51 +191,6 @@
    "author": "UNYCKRMC6"
   },
   {
-   "url": "https://www.ibanet.org/land-value-tax-in-Australia#:~:text=Land%20tax%20is%20levied%20according,direct%20or%20through%20a%20trust.",
-   "source": "research-and-policy",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:11.903739+00:00",
-   "reported": false,
-   "context": "To me the most valuble part of this is the Asset-based model exploration and brackets (starting pg. 7. The background info on political support and wealth disparity in BC is interesting but not key to the task at hand.  Could be repurposed in some way in the final publication and as support for othe",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics",
-   "source": "research-and-policy",
-   "reason": "policy domain (commonwealth.ca) with keyword (housing)",
-   "queued_at": "2026-07-16T00:13:11.904522+00:00",
-   "reported": false,
-   "context": "<https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics>",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.commonwealth.ca/research",
-   "source": "research-and-policy",
-   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:11.904620+00:00",
-   "reported": false,
-   "context": "<https://www.commonwealth.ca/research>\n\nExperimenting with a new Research collection that's actually a blog to organize our research notes.\n\n<https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value>\n<https://www.commonwealth.ca/research/distributional-impacts>\nnext is B",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value",
-   "source": "research-and-policy",
-   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:11.904684+00:00",
-   "reported": false,
-   "context": "<https://www.commonwealth.ca/research>\n\nExperimenting with a new Research collection that's actually a blog to organize our research notes.\n\n<https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value>\n<https://www.commonwealth.ca/research/distributional-impacts>\nnext is B",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.commonwealth.ca/research/distributional-impacts",
-   "source": "research-and-policy",
-   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:11.904759+00:00",
-   "reported": false,
-   "context": "<https://www.commonwealth.ca/research>\n\nExperimenting with a new Research collection that's actually a blog to organize our research notes.\n\n<https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value>\n<https://www.commonwealth.ca/research/distributional-impacts>\nnext is B",
-   "author": "UNYCKRMC6"
-  },
-  {
    "url": "https://ubiworks.notion.site/Revenue-Raise-Needed-From-Rents-to-Reduce-Various-Levels-of-Income-Tax-17612a5a3bc1453fa08220ee3c76cb61",
    "source": "research-and-policy",
    "reason": "unknown domain with keyword (ubi)",
@@ -306,51 +198,6 @@
    "reported": false,
    "context": "Made this channel to discuss random research requests unrelated to any specific project, following the pipeline we have.\n\nI asked Richard to look into this task:\n<https://ubiworks.notion.site/Revenue-Raise-Needed-From-Rents-to-Reduce-Various-Levels-of-Income-Tax-17612a5a3bc1453fa08220ee3c76cb61>\n\nHe",
    "author": "UKQ1MQDMW"
-  },
-  {
-   "url": "https://www.commonwealth.ca/blog/history-of-bc",
-   "source": "bc-lvt",
-   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:12.966931+00:00",
-   "reported": false,
-   "context": "By Liam Wilkinson - fascinating chronicle of BC's history with land value taxation, the colourful roster of champions, and the influences of George\n\n<https://www.commonwealth.ca/blog/history-of-bc>",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://cooperative-individualism.org/gwartney-ted_biography-2000.htm",
-   "source": "bc-lvt",
-   "reason": "unknown domain with keyword (henry george)",
-   "queued_at": "2026-07-16T00:13:12.967304+00:00",
-   "reported": false,
-   "context": "Interesting find: Former ED of the Schalkenbach Foundation and President of Common Ground USA, Ted Gwartney, was CEO of BC Assessments. He went to Henry George School in San Diego and studied the single tax.\n\n<https://cooperative-individualism.org/gwartney-ted_biography-2000.htm>",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze",
-   "source": "bc-lvt",
-   "reason": "unknown domain with keyword (land value)",
-   "queued_at": "2026-07-16T00:13:12.968080+00:00",
-   "reported": false,
-   "context": "There are some interesting possible narratives <https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze|coming out of the findings here form gensqueeze> on the BC budget:\n• if BC still had just 10 per cent of its population over age",
-   "author": "UKQ1MQDMW"
-  },
-  {
-   "url": "https://www.commonwealth.ca/bc-lvt",
-   "source": "bc-lvt",
-   "reason": "policy domain (commonwealth.ca) with keyword (property tax)",
-   "queued_at": "2026-07-16T00:13:12.970462+00:00",
-   "reported": false,
-   "context": "<https://www.commonwealth.ca/bc-lvt>\n\nsome new numbers in for our Split-Rate Property Tax replacement scenario. This article has now replaced the 2 previous BC LVT ones, with 1 single entry point from navbar and home.",
-   "author": "UNYCKRMC6"
-  },
-  {
-   "url": "https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-land-value-tax-motion",
-   "source": "bc-lvt",
-   "reason": "unknown domain with keyword (ai)",
-   "queued_at": "2026-07-16T00:13:12.971362+00:00",
-   "reported": false,
-   "context": "Had a meeting with Andrew Rose to organize an event in Vic &amp; Van, possibly oct (minus halloween week), with a key elements:\n• presenting our latest BC model\n• preview of new statcan partnership\n• speaker idea: Jenn Bradshaw  <https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-",
-   "author": "UNYCKRMC6"
   },
   {
    "url": "https://progressandpoverty.substack.com/p/property-taxes-are-not-land-value",
@@ -1586,8 +1433,212 @@
    "disposition": "used",
    "disposition_reason": "Moogan & Fiorentino Cities 2026: page already existed (fiorentino-moogan-agglomeration) — enriched with journal DOI, tier bump, Honest Limits",
    "consumed_at": "2026-07-26T19:30:39Z"
+  },
+  {
+   "url": "https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/",
+   "source": "social-media-production",
+   "reason": "unknown domain with keyword (housing)",
+   "queued_at": "2026-07-16T00:13:05.331704+00:00",
+   "reported": false,
+   "context": "*Projet Montréal calls for a tax on vacant housing (2026 june 17)*\n<https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/>",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "Canadian vacancy-tax section on canada.md (403; corroborated via Journal Metro, VERIFY flagged)",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.baytoday.ca/local-news/mattawa-approves-2026-tax-rates-considers-raising-vacant-land-tax-12408119",
+   "source": "commonwealth",
+   "reason": "unknown domain with keyword (land tax)",
+   "queued_at": "2026-07-16T00:13:07.076632+00:00",
+   "reported": false,
+   "context": "Mattwawa Ontario - *Mattawa approves 2026 tax rates, considers raising vacant land tax (*Jun 12, 2026)\n<https://www.baytoday.ca/local-news/mattawa-approves-2026-tax-rates-considers-raising-vacant-land-tax-12408119>\n\nCouncillor Levesque suggested council ask staff to see what the town can do, within ",
+   "author": "UKTJP503G",
+   "disposition": "used",
+   "disposition_reason": "same canada.md section (403; search-excerpt sourced, VERIFY flagged)",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (speculation)",
+   "queued_at": "2026-07-16T00:13:09.718622+00:00",
+   "reported": false,
+   "context": "Also this was totally new to me... Québec passed a special vacant/underused tax authority for municipalities in 2023.\n\nHere's a random example of a municipality that is using it. <https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/>\n\nWhy did they apply this charge you mig",
+   "author": "UKD25NV0A",
+   "disposition": "used",
+   "disposition_reason": "Quebec Bill 39 (2023 c.33) 4x vacant-lot rate cap verified from statute; canada.md section",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.bcgeu.ca/bc_polling_shows_that_the_housing_crisis_has_worsened_and_a_majority_of_residents_confirm_that_all_levels_of_government_need_to_enact_further_measures_to_fix_it",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (housing)",
+   "queued_at": "2026-07-16T00:13:09.718989+00:00",
+   "reported": false,
+   "context": "<https://www.bcgeu.ca/bc_polling_shows_that_the_housing_crisis_has_worsened_and_a_majority_of_residents_confirm_that_all_levels_of_government_need_to_enact_further_measures_to_fix_it>",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "46% BC LVT support (Research Co. 2024) folded into british-columbia.md",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://newsletter.economics.utoronto.ca/is-a-land-value-tax-the-solution-to-canadas-housing-crisis/",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (housing)",
+   "queued_at": "2026-07-16T00:13:09.719914+00:00",
+   "reported": false,
+   "context": "<https://newsletter.economics.utoronto.ca/is-a-land-value-tax-the-solution-to-canadas-housing-crisis/>\n\nUofT econ undergrad on LVT. I'm gonna reach out to meet, and possibly get a way in with UofT Econ. Was a youth organizer with Chrystia Freeland and Ontario Young Liberals Treasurer (<https://www.l",
+   "author": "UNYCKRMC6",
+   "disposition": "rejected",
+   "disposition_reason": "student newsletter profile, no original data",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://landeconomics.org/problem",
+   "source": "lvt-rents-learning",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:09.720997+00:00",
+   "reported": false,
+   "context": "He says a big part of their traction has been good inbound, thanks to publications like the 1-pager they produced on LVT Shift\n(found at the bottom of <https://landeconomics.org/problem> - wow he made the 1-pager the metadata thumbnail)\n\ngreat resource for us to replicate - but honestly theirs is re",
+   "author": "UNYCKRMC6",
+   "disposition": "rejected",
+   "disposition_reason": "generic problem framing already covered by CLE org page",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics#:~:text=StatCan%20claims%20there%20are%20about,further%20investigation%20into%20these%20datasets",
+   "source": "lvt-rents-learning",
+   "reason": "policy domain (commonwealth.ca) with keyword (housing)",
+   "queued_at": "2026-07-16T00:13:09.721631+00:00",
+   "reported": false,
+   "context": "Interesting. Our article by Jack Jol is being used as a top reference for total value of land in Canada.\n<https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics#:~:text=StatCan%20claims%20there%20are%20about,further%20investigation%20into%20these%20datasets>.",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "Jack Jol BC stats: BC ~$1.97T / Canada ~$6.75T folded into british-columbia + org page (vintage difference vs StatCan flagged)",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.ibanet.org/land-value-tax-in-Australia#:~:text=Land%20tax%20is%20levied%20according,direct%20or%20through%20a%20trust.",
+   "source": "research-and-policy",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:11.903739+00:00",
+   "reported": false,
+   "context": "To me the most valuble part of this is the Asset-based model exploration and brackets (starting pg. 7. The background info on political support and wealth disparity in BC is interesting but not key to the task at hand.  Could be repurposed in some way in the final publication and as support for othe",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "asset-based model/aggregation/exemptions folded into australia.md (rates corroborated vs Victoria SRO)",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics",
+   "source": "research-and-policy",
+   "reason": "policy domain (commonwealth.ca) with keyword (housing)",
+   "queued_at": "2026-07-16T00:13:11.904522+00:00",
+   "reported": false,
+   "context": "<https://www.commonwealth.ca/research/a-look-into-bcs-land-value-and-housing-statistics>",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "Jack Jol BC stats: BC ~$1.97T / Canada ~$6.75T folded into british-columbia + org page (vintage difference vs StatCan flagged)",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.commonwealth.ca/research",
+   "source": "research-and-policy",
+   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:11.904620+00:00",
+   "reported": false,
+   "context": "<https://www.commonwealth.ca/research>\n\nExperimenting with a new Research collection that's actually a blog to organize our research notes.\n\n<https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value>\n<https://www.commonwealth.ca/research/distributional-impacts>\nnext is B",
+   "author": "UNYCKRMC6",
+   "disposition": "rejected",
+   "disposition_reason": "index page, no unique content",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value",
+   "source": "research-and-policy",
+   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:11.904684+00:00",
+   "reported": false,
+   "context": "<https://www.commonwealth.ca/research>\n\nExperimenting with a new Research collection that's actually a blog to organize our research notes.\n\n<https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value>\n<https://www.commonwealth.ca/research/distributional-impacts>\nnext is B",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "Jol 15-yr land-vs-structure appreciation gap folded into canada.md + org page",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.commonwealth.ca/research/distributional-impacts",
+   "source": "research-and-policy",
+   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:11.904759+00:00",
+   "reported": false,
+   "context": "<https://www.commonwealth.ca/research>\n\nExperimenting with a new Research collection that's actually a blog to organize our research notes.\n\n<https://www.commonwealth.ca/research/economic-indicators-and-their-ties-to-land-value>\n<https://www.commonwealth.ca/research/distributional-impacts>\nnext is B",
+   "author": "UNYCKRMC6",
+   "disposition": "rejected",
+   "disposition_reason": "already fully covered on canada.md and org page",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.commonwealth.ca/blog/history-of-bc",
+   "source": "bc-lvt",
+   "reason": "policy domain (commonwealth.ca) with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:12.966931+00:00",
+   "reported": false,
+   "context": "By Liam Wilkinson - fascinating chronicle of BC's history with land value taxation, the colourful roster of champions, and the influences of George\n\n<https://www.commonwealth.ca/blog/history-of-bc>",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "Wilkinson BC history: Bob Williams/Gaffney recruitment + Habitat I Rec D.3 folded into british-columbia.md (UN-corroborated)",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://cooperative-individualism.org/gwartney-ted_biography-2000.htm",
+   "source": "bc-lvt",
+   "reason": "unknown domain with keyword (henry george)",
+   "queued_at": "2026-07-16T00:13:12.967304+00:00",
+   "reported": false,
+   "context": "Interesting find: Former ED of the Schalkenbach Foundation and President of Common Ground USA, Ted Gwartney, was CEO of BC Assessments. He went to Henry George School in San Diego and studied the single tax.\n\n<https://cooperative-individualism.org/gwartney-ted_biography-2000.htm>",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "ted-gwartney.md enriched; corrected Schalkenbach role president->Executive Director; edition discrepancies VERIFY-flagged",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze",
+   "source": "bc-lvt",
+   "reason": "unknown domain with keyword (land value)",
+   "queued_at": "2026-07-16T00:13:12.968080+00:00",
+   "reported": false,
+   "context": "There are some interesting possible narratives <https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze|coming out of the findings here form gensqueeze> on the BC budget:\n• if BC still had just 10 per cent of its population over age",
+   "author": "UKQ1MQDMW",
+   "disposition": "used",
+   "disposition_reason": "BC additional school tax fact corroborated against official province page; folded into british-columbia.md",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.commonwealth.ca/bc-lvt",
+   "source": "bc-lvt",
+   "reason": "policy domain (commonwealth.ca) with keyword (property tax)",
+   "queued_at": "2026-07-16T00:13:12.970462+00:00",
+   "reported": false,
+   "context": "<https://www.commonwealth.ca/bc-lvt>\n\nsome new numbers in for our Split-Rate Property Tax replacement scenario. This article has now replaced the 2 previous BC LVT ones, with 1 single entry point from navbar and home.",
+   "author": "UNYCKRMC6",
+   "disposition": "used",
+   "disposition_reason": "CWC BC split-rate scenarios (0.8/1.8/0.7%, $12B) folded into british-columbia + org page",
+   "consumed_at": "2026-07-26T19:46:24Z"
+  },
+  {
+   "url": "https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-land-value-tax-motion",
+   "source": "bc-lvt",
+   "reason": "unknown domain with keyword (ai)",
+   "queued_at": "2026-07-16T00:13:12.971362+00:00",
+   "reported": false,
+   "context": "Had a meeting with Andrew Rose to organize an event in Vic &amp; Van, possibly oct (minus halloween week), with a key elements:\n• presenting our latest BC model\n• preview of new statcan partnership\n• speaker idea: Jenn Bradshaw  <https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-",
+   "author": "UNYCKRMC6",
+   "disposition": "folded",
+   "disposition_reason": "Bradshaw is an activist not councillor; underlying Dec 2018 motion correctly attributed to Cllr Christine Boyle on vancouver.md via Daily Hive",
+   "consumed_at": "2026-07-26T19:46:24Z"
   }
  ],
- "total": 56,
- "last_updated": "2026-07-26T19:30:39Z"
+ "total": 39,
+ "last_updated": "2026-07-26T19:46:24Z"
 }
