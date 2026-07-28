@@ -1305,6 +1305,15 @@
       "author": "UKTJP503G",
       "queued_at": "2026-07-22T10:01:34.660845+00:00",
       "reported": false
+    },
+    {
+      "url": "https://claude.ai/chat/359cc1d5-8007-48bc-9ef2-fbfbbc532199",
+      "source": "bc-lvt",
+      "reason": "unknown domain with keyword (land value)",
+      "context": "Just wrapped an absolutely enormous amount of research, strategizing, framing, drafting, redrafting, etc to hook Boyle. You can see some (not all) of my work process in this in-depth chat with Claude <https://claude.ai/chat/359cc1d5-8007-48bc-9ef2-fbfbbc532199|claude.ai/chat/359cc1d5-8007-48bc-9ef2-fbfbbc532199>\n\nThe big email to Boyle's office is, on Claude's advice, scheduled for 09:30 Tuesday morning so as to avoid being triaged out of the Monday rush. I'll paste its text and the PDF of the d",
+      "author": "U09GHJWK47Q",
+      "queued_at": "2026-07-28T10:01:08.499604+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -1321,6 +1330,6 @@
       "notes": "Triage + full scan completed (text extraction plus PDF figure/table review for chart data pdftotext dropped). \"From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio\" (Notre Dame Student Policy Network, in partnership with the Center for Land Economics, 15 July 2026) \u2014 a revenue-neutral 4:1 split-rate LVT parcel simulation for Cincinnati, OH, occasioned by Ohio SJR 7. Graded tier: supplementary (undergraduate student report with an advocacy-institute partner, not peer-reviewed; third in the SPN/CLE parcel-simulation series after South Bend and Princeton). Created research/ndspn-cincinnati-lvt-analysis.md; wired one-line mention into organizations/center-for-land-economics.md and cross-linked research/miller-hoskins-college-town-lvt.md, research/oates-schwab-pittsburgh.md, places/pittsburgh.md, places/pennsylvania.md, places/new-south-wales.md, places/australia.md. Not added to benefits/split-rate-increases-construction.md's supported_by (prospective simulation, not new independent evidence, per the delta rule and the precedent set by the sibling South Bend/Princeton reports). No places/cincinnati.md page created (does not clear the \u22652-inbound-link accept bar on its own). registry.csv row added."
     }
   ],
-  "total": 145,
-  "last_updated": "2026-07-22T10:01:45Z"
+  "total": 146,
+  "last_updated": "2026-07-28T10:01:44Z"
 }
