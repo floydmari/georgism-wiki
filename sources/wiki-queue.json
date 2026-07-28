@@ -1753,8 +1753,20 @@
    "disposition": "blocked",
    "disposition_reason": "gri.re.kr 503; report/author unlocatable in EN+KR search; retry when full author name known",
    "consumed_at": "2026-07-26T20:03:19Z"
+  },
+  {
+   "url": "https://claude.ai/chat/359cc1d5-8007-48bc-9ef2-fbfbbc532199",
+   "source": "bc-lvt",
+   "reason": "unknown domain with keyword (land value)",
+   "context": "Just wrapped an absolutely enormous amount of research, strategizing, framing, drafting, redrafting, etc to hook Boyle. You can see some (not all) of my work process in this in-depth chat with Claude <https://claude.ai/chat/359cc1d5-8007-48bc-9ef2-fbfbbc532199|claude.ai/chat/359cc1d5-8007-48bc-9ef2-fbfbbc532199>\n\nThe big email to Boyle's office is, on Claude's advice, scheduled for 09:30 Tuesday morning so as to avoid being triaged out of the Monday rush. I'll paste its text and the PDF of the d",
+   "author": "U09GHJWK47Q",
+   "queued_at": "2026-07-28T10:01:08.499604+00:00",
+   "reported": false,
+   "disposition": "rejected",
+   "disposition_reason": "internal AI chat share (member work-process link), not a source",
+   "consumed_at": "2026-07-28T11:07:26Z"
   }
  ],
  "total": 0,
- "last_updated": "2026-07-26T20:03:19Z"
+ "last_updated": "2026-07-28T11:07:26Z"
 }
