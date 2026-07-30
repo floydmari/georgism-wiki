@@ -1,16 +1,6 @@
 {
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
- "queue": [
-  {
-   "url": "https://progressandpoverty.substack.com/p/dalt-depreciation-assisted-land-value",
-   "source": "internet-scan",
-   "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
-   "context": "DALT: Depreciation-Assisted Land Value Tax",
-   "author": "research-scanner",
-   "queued_at": "2026-07-30T10:02:26.024889+00:00",
-   "reported": false
-  }
- ],
+ "queue": [],
  "consumed": [
   {
    "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -1775,8 +1765,20 @@
    "disposition": "rejected",
    "disposition_reason": "internal AI chat share (member work-process link), not a source",
    "consumed_at": "2026-07-28T11:07:26Z"
+  },
+  {
+   "url": "https://progressandpoverty.substack.com/p/dalt-depreciation-assisted-land-value",
+   "source": "internet-scan",
+   "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+   "context": "DALT: Depreciation-Assisted Land Value Tax",
+   "author": "research-scanner",
+   "queued_at": "2026-07-30T10:02:26.024889+00:00",
+   "reported": false,
+   "disposition": "used",
+   "disposition_reason": "NEW concepts/dalt-depreciation-assisted-lvt.md (stub, single-source flagged) + wired into land-cannot-be-assessed, mass-appraisal-methods, nyc-1920s-tax-exemption",
+   "consumed_at": "2026-07-30T11:13:36Z"
   }
  ],
- "total": 1,
- "last_updated": "2026-07-30T11:04:34Z"
+ "total": 0,
+ "last_updated": "2026-07-30T11:13:36Z"
 }

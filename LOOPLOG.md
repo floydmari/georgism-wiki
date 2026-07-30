@@ -2548,3 +2548,23 @@ routine (03:00/11:00/19:00 UTC) now holds steady state: each firing drains whate
 the ~10:00 UTC daily scan delivers. All work is on
 claude/georgism-wiki-interlink-publish-2z2oww — no Ghost publish, no merge without
 Floyd's word.
+
+---
+
+## 2026-07-30 — Steady-state firing: DALT concept page (918 pages)
+
+Scanner delivered one item (11:00 UTC firing after the 10:01 UTC scan push):
+Doucet's "DALT: Depreciation-Assisted Land Value Tax" (published 2026-07-29).
+NEW `concepts/dalt-depreciation-assisted-lvt.md` (stub — day-old single-source
+proposal, honestly flagged): keep a unified property tax but exempt new-construction
+improvement value for the first half of building lifetime; front-loaded depreciation +
+present-value math make it track a pure LVT in fast-depreciating markets without a
+full land/building assessment split. Wired into land-cannot-be-assessed (design
+workaround, not a solution), mass-appraisal-methods, and — coordinator addition —
+reciprocally with research/nyc-1920s-tax-exemption.md, the wiki's existing deep page
+on DALT's named precedent. 2 VERIFY markers (no antecedent literature; no independent
+evaluation). Registry +2 (Doucet piece; CHPC 1960 retrospective). Also this cycle:
+2026-07-28 scanner merge brought 1 item (claude.ai chat share — rejected as internal).
+Union-merge protocol working: consumed ledger preserved through both merges; noted for
+Floyd that the scanner dedupes against main, so merging this branch would restore
+scanner-side dedup accuracy. Queue: 0. Inventory 918 pages, 0 orphans; lint 0 errors.

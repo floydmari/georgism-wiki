@@ -54,6 +54,7 @@ Conyngton's own verdict is also more measured than the boom statistics alone sug
 ## See Also
 
 - [Split-rate taxation](/wiki/split-rate-taxation/)
+- [DALT (Depreciation-Assisted Land Value Tax)](/wiki/dalt-depreciation-assisted-lvt/) — a 2026 proposal that formalizes this exemption's mechanism into a named LVT-approximating tax design
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
 - [Oates & Schwab: The Impact of Urban Land Taxation (Pittsburgh)](/wiki/oates-schwab-pittsburgh/)
 - [New York City](/wiki/new-york-city/)

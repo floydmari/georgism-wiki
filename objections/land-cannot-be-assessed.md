@@ -5,7 +5,7 @@ tags: [objections, assessment, valuation, lvt, critique]
 stub: false
 status: "Addressed — assessment is a known, solvable problem"
 excerpt: "The most common practical objection to LVT — that you can't separate land value from building value — and the empirical and methodological responses to it."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-30
 ---
 
 ## The Objection
@@ -34,6 +34,8 @@ The objection is serious but is generally treated as a **solvable engineering pr
 
 **4. Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet). Independent evidence bears this out: hedonic decomposition of over a million home sales separates land from structure at scale ([Kuminoff & Pope](/wiki/kuminoff-pope-land-values/)), and Australian mass-appraisal appeal rates run well below the internationally accepted 2% benchmark ([Hefferan & Boyd](/wiki/hefferan-boyd-mass-appraisal-australia/)) — revealed taxpayer acceptance that value-based land assessment is treated as reliable.
 
+**5. Where the split remains politically or legally blocked, some designs avoid needing it at all.** Doucet's 2026 [DALT proposal](/wiki/dalt-depreciation-assisted-lvt/) keeps a single, conventional property-tax rate but fully exempts new-construction improvement value for roughly the first half of a building's expected lifetime — approximating a pure LVT's incentives in fast-depreciating markets without ever separately assessing the land under an existing building. This is a design workaround for legal/political barriers, not a solution to the assessment problem itself, and as of this writing it is an untested, non-empirical proposal.
+
 ## Limits and Caveats
 
 - **The profession's own quality bands tolerate *more* dispersion for vacant land than for improved residential property**, not less. The [IAAO Standard on Ratio Studies](/wiki/iaao-standards/) sets an acceptable coefficient-of-dispersion range of 5.0–25.0 for vacant land against 5.0–10.0/15.0 for improved single-family residential — the opposite of what a naive reading of "land is spatially smooth, therefore easier" would predict. The more likely explanation is thinner vacant-land sales samples (fewer transactions mechanically widen dispersion measures), not that land is intrinsically harder to value than buildings — but the wiki should carry this as an open nuance rather than only citing evidence for the "land is easier" framing.
@@ -51,6 +53,7 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 - [Johannesburg Site Value Rating](/wiki/johannesburg-site-value-rating/) — a documented site-value-only tax base run at municipal scale from 1918/1919, cited by Fred Harrison as evidence against the claim that isolating land value is impossible
 - [Ted Gwartney](/wiki/ted-gwartney/) — career assessor whose British Columbia and Connecticut work is cited as practical counter-evidence to this objection
 - [Kuminoff & Pope](/wiki/kuminoff-pope-land-values/) — tract-level hedonic land/structure separation at million-transaction scale
+- [DALT: Depreciation-Assisted Land Value Tax](/wiki/dalt-depreciation-assisted-lvt/) — a 2026 design that sidesteps the land/building split entirely via a new-construction improvement-value exemption
 
 - [Kolbe et al.: Berlin land-value appraisal](/wiki/kolbe-berlin-land-value-appraisal/) — the accuracy evidence, first-hand · [Almy: OECD valuation survey](/wiki/almy-oecd-valuation-assessment/) — the cost evidence · [Hefferan & Boyd: Australian mass appraisal](/wiki/hefferan-boyd-mass-appraisal-australia/) — revealed taxpayer acceptance
 - [Bencure et al.: iLVM, Baybay City, Philippines](/wiki/bencure-ilvm-baybay-philippines/) — the developing-country / thin-data case · [Barr, Smith & Kulkarni: What's Manhattan Worth?](/wiki/barr-smith-kulkarni-manhattan-land/) — vacant-land sales in the densest US market
@@ -69,3 +72,4 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 4. International Association of Assessing Officers (2013), *Standard on Ratio Studies*. [wiki summary](/wiki/iaao-standards/) · [PDF](https://www.iaao.org/wp-content/uploads/Standard_on_Ratio_Studies.pdf) — used for the land-only ratio-study instruction and the vacant-land coefficient-of-dispersion tolerance range cited in Limits and Caveats.
 5. Saulius Raslanas, Edmundas Kazimieras Zavadskas, Artūras Kaklauskas & Arūnas Remigijus Zabulėnas (2010), "Land Value Tax... Part II: ...the Case of Vilnius," *International Journal of Strategic Property Management* 14(2). [wiki summary](/wiki/mass-appraisal-international-cases/) · [PDF](https://journals.vilniustech.lt/index.php/IJSPM/article/download/5723/4969) — used for the Lithuanian three-method valuation divergence cited in Limits and Caveats.
 6. Robert J. Gloudemans (2000, 2002), *Implementing a Land Value Tax in Urban Residential Communities* and *An Empirical Analysis of the Incidence of Location on Land and Building Values*, Lincoln Institute of Land Policy Working Papers WP00RG1/WP02RG1 — [wiki summary, both read in full](/wiki/gloudemans-lvt-assessment-feasibility/) — used for the direct empirical test of CAMA land-value estimation in neighborhoods without vacant-land sales, and for the working-paper/funding-provenance and distributional caveats in Limits and Caveats.
+7. Lars Doucet (2026), "DALT: Depreciation-Assisted Land Value Tax," *Progress and Poverty* (Substack, Center for Land Economics), July 29, 2026. [Article](https://progressandpoverty.substack.com/p/dalt-depreciation-assisted-land-value) — [wiki summary](/wiki/dalt-depreciation-assisted-lvt/) — used for the DALT design as a workaround that avoids needing a land/building assessment split for existing structures.
