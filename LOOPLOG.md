@@ -2585,3 +2585,18 @@ full publish (c18ac33) synced to Ghost with 0 failures; live spot-checks 200 on
 andy-burnham, dalt-depreciation-assisted-lvt, bird-the-land-trap,
 2026-state-lvt-enablement-wave, washington-state. The July-26 drain (19 new pages,
 ~45 enriched) is now live on progress.org/wiki.
+
+---
+
+## 2026-07-31 — Loop wave: daily scan batch (3 items) — Landscape LIVE fold
+
+Scanner delivered 3 items at 10:00 UTC. Dispositions:
+- LVT Landscape LIVE transcript (P&P Substack, 9 Jun): FOLD into
+  2026-state-lvt-enablement-wave — Blessing's SJR-7-as-counter-to-Ohio-abolition-ballot-
+  measure framing + efficiency quote, Virginia July 2026 effective date (Solla-Yates);
+  added as source [10]. CLE AI-tool announcement already covered (CLE page source 7).
+- Sightline "Yes, an LVT Is Possible in Washington State": DUPLICATE — already source [1]
+  on places/washington-state.md.
+- propertysharemarketeconomics.com ebook signup: REJECT — marketing page, 403, no citable
+  content; 18-year cycle + stamp-duty excess-burden comparison already covered.
+Queue 0, consumed 151. Lint 0 errors, 918 pages.
