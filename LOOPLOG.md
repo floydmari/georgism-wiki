@@ -2568,3 +2568,20 @@ evaluation). Registry +2 (Doucet piece; CHPC 1960 retrospective). Also this cycl
 Union-merge protocol working: consumed ledger preserved through both merges; noted for
 Floyd that the scanner dedupes against main, so merging this branch would restore
 scanner-side dedup accuracy. Queue: 0. Inventory 918 pages, 0 orphans; lint 0 errors.
+
+---
+
+## 2026-07-31 — PROTOCOL CHANGE: standing merge authorization + catch-up publish
+
+Floyd (2026-07-31): "I retract the no merge without my word rule. you can be merging at
+the end of every loop, unless you have a question you need me to resolve." The
+wiki-queue-loop routine prompt now ends every loop with: merge branch → main, push,
+Ghost-sync changed pages (sync_changed.py, retry-hardened), spot-check a live URL —
+holding only if a loop surfaces something needing Floyd's judgment.
+
+Catch-up executed this turn: branch merged to main (fast-forward to 6f07aff, pushed) —
+Hermes's queue view and dedup baseline now current. 287 pages changed since the last
+full publish (c18ac33) synced to Ghost with 0 failures; live spot-checks 200 on
+andy-burnham, dalt-depreciation-assisted-lvt, bird-the-land-trap,
+2026-state-lvt-enablement-wave, washington-state. The July-26 drain (19 new pages,
+~45 enriched) is now live on progress.org/wiki.
