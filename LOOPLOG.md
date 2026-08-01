@@ -2667,3 +2667,17 @@ saez-zucman on lvt-can-be-progressive (overall wealth concentration ≠ the land
 progressivity claim) and case-shiller on lvt-dampens-speculation (bubble-exists premise ≠
 the LVT-effect claim). furman-fig8 on the same problems page resolved by one-figure-per-
 page. Queue now regenerates to 0 re-embed candidates.
+
+---
+
+## 2026-08-01 (c) — queue wave 6: four scanner items, all dispositioned at the cheap end
+
+Today's scan delivered 4 items. Deterministic dedup (the T0 pipeline's step 1) caught
+3/4 without spending a model token: progress.org (our own site, already in the ledger)
+and both progressandpoverty.substack.com pieces (already consumed and cited on
+events/2026-state-lvt-enablement-wave and places/washington-state). The single remaining
+item — henry.hgsss.org/chat/henry-george-dinner-hgsss — resolved by direct fetch: it's
+an AI chat-with-Henry-George app ("Historacle"), not a citable source → reject. T0
+brief step skipped this wave (cheapest-check-first: a digest run for one obvious reject
+would be waste); first real T0 batch awaits a scan with substantive survivors. No pages
+changed, no Ghost sync needed. Queue: 0 pending / 155 consumed.
