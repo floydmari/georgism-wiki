@@ -208,6 +208,12 @@ def main():
         ("problems/young-locked-out-of-land-wealth.md",
          "knoll-schularick-steger-house-prices"):
             "land-price series is the premise, not the generational claim (wave 10)",
+        ("benefits/land-value-tax-can-be-progressive.md",
+         "saez-zucman-wealth-inequality"):
+            "overall wealth concentration ≠ land-ownership progressivity claim "
+            "(2026-08-01)",
+        ("benefits/lvt-dampens-land-speculation.md", "case-shiller-2003-bubble"):
+            "bubble-exists premise ≠ LVT-dampens-speculation claim (2026-08-01)",
     }
 
     # re-embed placement candidates: evidence pages wired to figure-bearing entries

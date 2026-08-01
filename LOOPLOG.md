@@ -2657,3 +2657,13 @@ mirror hunt. Queue regenerated: 26 entries now carry figures, 4 re-embed candida
 parked for a future shift. Also reconciled BACKLOG's stub-wave section: benefits
 7/8/10 and the justice pair verified shipped (the pair as narratives), both claim
 indexes audited complete (13 problems, 15 benefits).
+
+Re-embed pass (same shift): of the queue's four placement candidates, one accepted —
+de-loecker-eeckhout-unger Fig 1 re-embedded on problems/corporate-profits-increasingly-
+rents.md (the markup series is the page's own "strongest support" evidence leg; caption
+keeps the WP-version numbers readable off the chart and points the rent-vs-intangibles
+contest at the page's counter-case). Declined and stamped in REJECTED_PLACEMENTS:
+saez-zucman on lvt-can-be-progressive (overall wealth concentration ≠ the land-ownership
+progressivity claim) and case-shiller on lvt-dampens-speculation (bubble-exists premise ≠
+the LVT-effect claim). furman-fig8 on the same problems page resolved by one-figure-per-
+page. Queue now regenerates to 0 re-embed candidates.

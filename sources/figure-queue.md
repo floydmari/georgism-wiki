@@ -169,7 +169,4 @@ Evidence pages wired to a figure-bearing source entry that do not yet show a
 figure themselves. Re-embed only where the chart directly evidences the page's
 headline claim; same caption + credit, link back to the source entry.
 
-- [ ] `benefits/land-value-tax-can-be-progressive.md` ← figure from `saez-zucman-wealth-inequality`
-- [ ] `benefits/lvt-dampens-land-speculation.md` ← figure from `case-shiller-2003-bubble`
-- [ ] `problems/corporate-profits-increasingly-rents.md` ← figure from `de-loecker-eeckhout-unger-markups`
-- [ ] `problems/corporate-profits-increasingly-rents.md` ← figure from `furman-orszag-firm-rents`
+*(none right now)*

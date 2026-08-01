@@ -19,6 +19,11 @@ last_reviewed: 2026-07-13
 
 An increasing share of corporate profit in the United States (and, more weakly, other developed economies) is **economic rent** — returns above what is needed to compensate capital and effort in a competitive market — rather than the ordinary reward for investment. This matters for the Georgist framework because it extends the classical rent analysis from land to other non-reproducible positions: market power, network position, regulatory protection, and control of scarce intangibles.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/07/dlu-fig1.png" alt="Line chart of the sales-weighted average markup of US firms, 1960 to 2014. The line drifts between 1.16 and 1.32 until about 1980, dips to 1.18, then climbs steadily to 1.67 by 2014." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>The claim's strongest single series: the sales-weighted average markup of US firms, 1960–2014, from the working-paper version. Flat around 1.2–1.3 for two decades, then climbing from 1980 to 1.67 — the average firm charged 67% over marginal cost in 2014 versus 18% in 1980. Whether that rise is rent or mismeasured intangibles is the contest this page documents. <span class="figure-credit">Source: De Loecker, Eeckhout &amp; Unger, NBER Working Paper 23687 (2017), Figure 1; published in <em>Quarterly Journal of Economics</em> 135(2), 2020 — reproduced for comment and review. See the wiki's entry on <a href="/wiki/de-loecker-eeckhout-unger-markups/">the paper</a>.</span></figcaption>
+</figure>
+
 ## The Evidence
 
 Several independent methodologies converge on the same direction:
