@@ -2614,3 +2614,20 @@ model IDs with a silent-downgrade path on the T1 judge, (A3) new-page-shaped
 pipeline vs. a mostly-fold/reject queue + missing consumed-ledger/union-merge
 discipline. Recommended shadow mode with Claude Code retained as tool-equipped
 T1 merge+publish gate.
+
+---
+
+## 2026-08-01 — T0 context engine adopted into the loop (Floyd's ask, from the Hermes plan)
+
+Integrated the one clearly-good idea from Hugh's loop plan: a T0 context-engine step,
+with Sonnet (1M window) in the role instead of GLM (GLM/glm_draft_worker.py remains the
+offline fallback). Shipped: scripts/build_corpus_digest.py (919 pages → ~70K-token
+digest, regenerated per wave, never committed); LOOP.md "T0 — the context engine" tier +
+"The T0 brief step" procedure (deterministic URL dedup first, one Sonnet T0 agent per
+batch, briefs advisory — T1 disposes everything); docs/loop-diagram.md synced (T0 node +
+corrected main→Ghost edge to the 2026-07-31 standing-sync reality); wiki-queue-loop
+routine prompt updated to run the T0 step in stage (3). Validation: ground-truth test on
+the dispositioned 2026-07-31 batch — 3/3 disposition match, and the T0 briefs surfaced
+two relevant existing pages (organizations/property-sharemarket-economics,
+people/phillip-j-anderson) that manual triage had missed; briefs archived as
+sources/context-briefs/2026-08-01-validation.json. Cost ≈170K tokens/batch.

@@ -1,0 +1,52 @@
+{
+ "_note": "T0 validation run (2026-08-01): ground-truth test of the T0 context-engine step on the already-dispositioned 2026-07-31 scan batch. Briefs produced by a Sonnet agent from the full corpus digest (919 pages, ~70K tokens) + repo grep access, blind to the recorded dispositions. Result: 3/3 disposition match (reject / duplicate / duplicate), with better recall than the manual triage — it surfaced organizations/property-sharemarket-economics and people/phillip-j-anderson, which the manual pass had missed. See LOOP.md 'The T0 brief step'.",
+ "briefs": [
+  {
+   "item_url": "https://realestate.propertysharemarketeconomics.com/the-real-asset-behind-global-power-ebook/?utm_source=twitter&utm_medium=post&utm_campaign=ebooksignup_realassetglobalpower_philpl",
+   "existing_coverage": {
+    "has_existing_page": true,
+    "relevant_slugs": ["organizations/property-sharemarket-economics", "people/phillip-j-anderson", "people/akhil-patel", "concepts/deadweight-loss", "research/mirrlees-review", "places/australia", "benefits/lvt-can-replace-capital-taxes-without-efficiency-loss", "narratives/tax-land-not-labor"],
+    "delta_assessment": "PSE/Phillip Anderson is already documented as a page (marketing/forecasting arm, cited as advocacy not audited record), and the general 'stamp duty is inefficient, land tax is efficient' comparative case is already covered in depth via the Mirrlees Review, Australia's Henry Tax Review/AHURI study, and the deadweight-loss/efficiency benefit pages. The only unverified new element is the specific quantified claim ('every $100m raised via stamp duty costs ~$140m vs ~$100m for land tax') and the ebook title itself, both sourced only to a UTM-tracked ebook-signup landing page reached via an X post image caption — not a primary dataset or study."
+   },
+   "recommended_disposition": "reject",
+   "disposition_reason": "The source is a marketing/lead-gen landing page for an ebook, not substantive analysis, and its core claim (stamp duty's inefficiency vs. land tax) duplicates better-sourced content already on the wiki (Mirrlees Review, Henry Tax Review/AHURI).",
+   "cross_link_targets": [
+    {"slug": "organizations/property-sharemarket-economics", "reason": "Same Phillip Anderson/PSE marketing operation already documented as a stub"},
+    {"slug": "research/mirrlees-review", "reason": "Already carries the authoritative stamp-duty-vs-land-tax efficiency argument and abolition recommendation"}
+   ],
+   "confidence": "medium",
+   "_ground_truth": "rejected (marketing signup page, 403, content already covered) — MATCH"
+  },
+  {
+   "item_url": "https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic-de5",
+   "existing_coverage": {
+    "has_existing_page": true,
+    "relevant_slugs": ["events/2026-state-lvt-enablement-wave", "organizations/center-for-land-economics", "places/new-york-city", "research/ndspn-cincinnati-lvt-analysis"],
+    "delta_assessment": "This exact URL is already cited as source [10] on events/2026-state-lvt-enablement-wave.md, used for Sen. Louis Blessing's SJR 7 framing as a counter to Ohio's property-tax-abolition ballot measure, his 'if you don't tax improvements' quote, and Virginia's July 2026 effective date. Louisville/Kentucky split-rate, NY Section 119-r/Interborough Express, and the Center for Land Economics' June 2026 AI-agent LVTShift tool launch are all already documented in full (the latter on organizations/center-for-land-economics.md). No new facts in the queue context are missing from the wiki."
+   },
+   "recommended_disposition": "duplicate",
+   "disposition_reason": "The exact source URL is already cited and its content (Blessing/SJR7, Louisville, Virginia effective date, NY 119-r/IBX, CLE's AI modeling tool) is fully reflected across existing pages.",
+   "cross_link_targets": [
+    {"slug": "events/2026-state-lvt-enablement-wave", "reason": "Already cites this exact webinar transcript as source [10]"},
+    {"slug": "organizations/center-for-land-economics", "reason": "Already documents the June 2026 AI-agent LVTShift tool announcement"}
+   ],
+   "confidence": "high",
+   "_ground_truth": "used (folded into 2026-state-lvt-enablement-wave on 2026-07-31; the brief ran AFTER the fold, so 'duplicate' is the correct post-fold reading — it correctly detected the fold via source [10]) — MATCH"
+  },
+  {
+   "item_url": "https://progressandpoverty.substack.com/p/yes-a-land-value-tax-is-possible",
+   "existing_coverage": {
+    "has_existing_page": true,
+    "relevant_slugs": ["places/washington-state", "concepts/land-value-tax", "organizations/center-for-land-economics"],
+    "delta_assessment": "This exact URL is already cited as source [1] on places/washington-state.md, which covers the uniformity clause barrier, the building-exemption workaround, the Vibrant Cities Act, Rep. Natasha Hill's sponsorship, and the 2026-not-ready/2027-target status verbatim to the queue context. No new information."
+   },
+   "recommended_disposition": "duplicate",
+   "disposition_reason": "The exact source URL and every fact in the queue context (uniformity clause, building-exemption workaround, Vibrant Cities Act, Natasha Hill, 2027 target) is already documented on places/washington-state.md.",
+   "cross_link_targets": [
+    {"slug": "places/washington-state", "reason": "Already cites this exact Sightline/Substack piece as source [1] with full detail"}
+   ],
+   "confidence": "high",
+   "_ground_truth": "duplicate (already source [1] on places/washington-state.md) — MATCH"
+  }
+ ]
+}

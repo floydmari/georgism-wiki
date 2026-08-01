@@ -55,8 +55,11 @@ flowchart LR
 ```mermaid
 flowchart TD
     subgraph CAMPAIGN["Campaign desk (this container, claude/* branch)"]
+        T0["T0 context engine (Sonnet, 1M)\nfull-corpus digest → per-item briefs\nadvisory only — never authors or gates"]
         ED["T1 editor — judgment, review,\nflagship pages, the publish gate"]
         WR["T2/T3 writers & copy desk\n(≤3-4 concurrent subagents)"]
+        T0 -->|"context briefs\n(sources/context-briefs/)"| WR
+        T0 -.->|"disposition\nrecommendations"| ED
     end
     subgraph FIELD["Hermes — the field agent (Floyd's machine, hermes/* branches)"]
         HB["Works the auto-generated\nsources/hermes-workorder.md:\nblocked-web fact-checks + book scans\n(Floyd's library, legal copies only)\n+ files discovery reports"]
@@ -68,7 +71,7 @@ flowchart TD
     Q -->|"work order, regenerated\neach shift"| HB
     HB -->|"PR — never self-merged"| ED
     ED -->|merge| MAIN["main = master record"]
-    MAIN -->|"Floyd's separate process"| GHOST["progress.org/wiki"]
+    MAIN -->|"end-of-loop Ghost sync\n(standing authorization, 2026-07-31)"| GHOST["progress.org/wiki"]
 ```
 
 ## 4. The honesty machinery (what keeps it truthful)

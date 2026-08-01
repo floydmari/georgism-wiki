@@ -50,6 +50,15 @@ diagram in the same commit.
 
 Each `BACKLOG.md` task is tagged `tier:T1|T2|T3` — editorial roles, not just model sizes:
 
+- **T0 — the context engine** (Sonnet-class with a 1M window; GLM 5.2 via ollama as
+  fallback — see `glm_draft_worker.py`): corpus-scale awareness, no authorship. Before a
+  queue batch is dispatched, one T0 agent loads the full corpus digest
+  (`python3 scripts/build_corpus_digest.py`, ~70K tokens for 900+ pages) plus the batch
+  items and emits a per-item **context brief**: existing-coverage delta, recommended
+  disposition (`new_page | enrich:<slug> | duplicate | reject`), cross-link targets, and
+  category. Briefs are **advisory** — T1 makes every disposition call; a brief never
+  creates, edits, or rejects anything by itself. Added 2026-08-01, adapted from the
+  Hermes loop plan (see `docs/HERMES-LOOP-PLAN-REVIEW.md` §D).
 - **T1 — the editor** (Fable 5 preferred; any frontier model as stand-in): judgment calls —
   what the evidence collectively justifies, whether a claim's wording matches its source's
   strength, review of everyone else's drafts. `[DESIGN] [JUDGE] [REVIEW] [AUDIT]` tasks and
@@ -60,6 +69,36 @@ Each `BACKLOG.md` task is tagged `tier:T1|T2|T3` — editorial roles, not just m
   the registry and reading list, keep lint green. `[BULK] [RECONCILE]`.
 
 If unsure whether a task needs editorial judgment, leave it for T1.
+
+### The T0 brief step (scan-queue batches — added 2026-08-01)
+
+When a loop wave takes a batch off `sources/wiki-queue.json`, corpus awareness runs as a
+pipeline, cheapest check first:
+
+1. **Deterministic dedup (T3, scripted — always first).** Exact-URL grep against
+   `sources/registry.csv`, the wiki's Sources sections, and the queue's consumed ledger.
+   A URL the wiki already cites is a `duplicate` before any model spends a token on it.
+2. **Digest.** `python3 scripts/build_corpus_digest.py --out <scratchpad>/corpus-digest.txt`
+   — regenerated fresh every wave (a pure function of the repo, never committed).
+3. **One T0 agent per batch** (not per item): Sonnet, with the full digest + all batch
+   items + repo grep access. Output: one context brief per item — existing-coverage
+   delta, recommended disposition (`new_page | enrich:<category/slug> | duplicate |
+   reject`), cross-link targets, suggested category, confidence. Briefs are saved to
+   `sources/context-briefs/<date>.json` (committed — the audit trail for why the wave
+   dispositioned each item as it did).
+4. **T1 disposes.** Briefs are advisory. The editor makes every disposition call, spot-
+   checking brief claims against the repo; when the wave's disposition follows the brief,
+   `disposition_reason` may cite it; when the editor overrides a brief, the override and
+   its reason go in the LOOPLOG entry. Writers dispatched for `new_page`/`enrich` items
+   receive their item's brief (pre-wired cross-links, delta boundary) alongside the
+   source and EDITORIAL rules.
+
+Validation (2026-08-01): a ground-truth test on the 2026-07-31 batch — briefs matched all
+three known dispositions (fold/duplicate/reject) and surfaced two relevant existing pages
+(`organizations/property-sharemarket-economics`, `people/phillip-j-anderson`) that the
+manual triage of the same batch had missed. Cost ≈ 170K tokens per batch. Origin: the
+Hermes loop plan's T0 concept (`docs/HERMES-LOOP-PLAN-REVIEW.md` §D), adopted with Sonnet
+in the role; `glm_draft_worker.py`'s GLM digest machinery is the offline fallback.
 
 ## One shift (an iteration)
 
