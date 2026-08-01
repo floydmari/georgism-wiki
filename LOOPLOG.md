@@ -2600,3 +2600,17 @@ Scanner delivered 3 items at 10:00 UTC. Dispositions:
 - propertysharemarketeconomics.com ebook signup: REJECT — marketing page, 403, no citable
   content; 18-year cycle + stamp-duty excess-burden comparison already covered.
 Queue 0, consumed 151. Lint 0 errors, 918 pages.
+
+---
+
+## 2026-08-01 — Review of Hermes loop-takeover plan (Floyd's ask)
+
+Reviewed Hugh's Notion plan ("Georgism Wiki Evolution Loop — System Design Plan",
+2026-07-31) for running the queue loop from a Hermes cron instead of Claude Code.
+Full review at docs/HERMES-LOOP-PLAN-REVIEW.md. Verdict: architecture sound, T0
+GLM context-engine idea worth adopting; three blocking fixes before any cutover —
+(A1) no publish step + silently reverts the 2026-07-31 merge protocol, (A2) stale
+model IDs with a silent-downgrade path on the T1 judge, (A3) new-page-shaped
+pipeline vs. a mostly-fold/reject queue + missing consumed-ledger/union-merge
+discipline. Recommended shadow mode with Claude Code retained as tool-equipped
+T1 merge+publish gate.
