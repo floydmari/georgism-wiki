@@ -2631,3 +2631,29 @@ the dispositioned 2026-07-31 batch — 3/3 disposition match, and the T0 briefs 
 two relevant existing pages (organizations/property-sharemarket-economics,
 people/phillip-j-anderson) that manual triage had missed; briefs archived as
 sources/context-briefs/2026-08-01-validation.json. Cost ≈170K tokens/batch.
+
+---
+
+## 2026-08-01 (b) — figure shift: rents-cluster four (Autor / Crouzet-Eberly / Bezemer-Hudson / Furman-Orszag) + BACKLOG reconciliation
+
+Queue lane drained (151 consumed, 0 pending), so the loop moved to the figure lane —
+restart condition (a) of the steady-state item: the queue waves landed new research
+entries and the regenerated queue held 219 open candidates. Shift cap of 4, all selected
+under the T1 protocol (enumerate → anchor → read the charts → adversarial pass):
+autor-superstar-firms Fig 6 (Δlabor-share on ΔCR20, all six sectors negative — the
+superstar result itself, chosen over Fig 4 which only shows concentration rising);
+crouzet-eberly-intangibles Fig 6(a) (investment gap before/after controlling for
+intangible share — the gap-closure headline, chosen over Fig 3 which only shows the
+input); bezemer-hudson Fig 3 (debt shift: business credit flat ~40% GDP, mortgages
+21→51%, the finding the wiki's finance-growth-is-land-credit outcome actually cites —
+chosen over Fig 1's decoupling; the Böckler PDF carries the JEI 50(3) journal
+pagination, p. 755); furman-orszag Fig 8 (90th-percentile ROIC pulling away from a flat
+median, 90/50 under 3 → ~10). All four uploaded, embedded after each entry's opening
+section, and byte-verified: the served progress.org URLs hash-match the visually
+reviewed crops (sandbox Chromium can't use the TLS proxy, so the rendered-page check
+was caption/layout in preview + served-bytes hash, not a full remote render). Goodhart
+DP16652 stayed unfetchable (SSRN/CEPR/EconStor all gated) — left in the queue for a
+mirror hunt. Queue regenerated: 26 entries now carry figures, 4 re-embed candidates
+parked for a future shift. Also reconciled BACKLOG's stub-wave section: benefits
+7/8/10 and the justice pair verified shipped (the pair as narratives), both claim
+indexes audited complete (13 problems, 15 benefits).

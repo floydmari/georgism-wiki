@@ -583,6 +583,113 @@ FIGURES = [
                     "piketty.pse.ens.fr/capital21c — reproduced for comment and "
                     "review.</span>"),
     },
+    {
+        "key": "autor-fig6",
+        "entry": "research/autor-superstar-firms.md",
+        "pdf_url": "https://www.nber.org/system/files/working_papers/w23396/w23396.pdf",
+        "page": 38,
+        "clip": (108, 140, 482, 392),
+        "dpi": 200,
+        "alt": ("Coefficient plot of the relationship between the change in an "
+                "industry's labor share and the change in its twenty-firm "
+                "concentration ratio, 1982-2012, for six U.S. sectors and all "
+                "combined. Every estimate is negative — finance -0.27, services "
+                "-0.13, utilities and transport -0.12, manufacturing and retail "
+                "-0.09, wholesale -0.04, all combined -0.09 — with 95% "
+                "confidence intervals that exclude zero in most sectors."),
+        "caption": ("Figure 6 from the paper: OLS estimates of the change in an "
+                    "industry's labor share on the change in its 20-firm sales "
+                    "concentration (stacked five-year changes, 1982–2012). In "
+                    "every sector the industries that concentrated most are the "
+                    "industries where labor's share fell most — the paper's "
+                    "central superstar-firms result, and the leading rival to "
+                    "the land/housing account of rising non-labor income. "
+                    "<span class=\"figure-credit\">Source: Autor, Dorn, Katz, "
+                    "Patterson &amp; Van Reenen, Figure 6, NBER Working Paper "
+                    "23396 (published in <em>QJE</em> 135(2), 2020) — "
+                    "reproduced for comment and review.</span>"),
+    },
+    {
+        "key": "crouzet-fig6a",
+        "entry": "research/crouzet-eberly-intangibles.md",
+        "pdf_url": "https://www.nber.org/system/files/working_papers/w25869/w25869.pdf",
+        "page": 49,
+        "clip": (90, 35, 508, 288),
+        "dpi": 200,
+        "alt": ("Line chart of the U.S. industry-level investment gap, 1990-2015, "
+                "with a two-standard-error band. The solid line (the raw gap) "
+                "falls to about minus 9 percent by 2015; the dashed line (the "
+                "residual gap after controlling for each industry's intangible "
+                "capital share) stays far closer to zero, ending near minus 3 "
+                "percent."),
+        "caption": ("Figure 6, panel (a) from the paper: the economy-wide "
+                    "investment gap before (solid) and after (dashed) "
+                    "controlling for industries' intangible-capital shares. "
+                    "Counting intangibles closes roughly three quarters of the "
+                    "measured industry-level shortfall in physical investment — "
+                    "the paper's core evidence that 'missing' investment went "
+                    "into software, IP and brand rather than vanishing. "
+                    "<span class=\"figure-credit\">Source: Crouzet &amp; Eberly "
+                    "(2019), Figure 6(a), NBER Working Paper 25869 (Jackson "
+                    "Hole symposium paper) — reproduced for comment and "
+                    "review.</span>"),
+    },
+    {
+        "key": "bezemer-fig3",
+        "entry": "research/bezemer-hudson-finance-is-not-the-economy.md",
+        "pdf_url": "https://www.boeckler.de/pdf/v_2016_10_21_hudson.pdf",
+        "page": 12,
+        "clip": (47, 382, 371, 603),
+        "dpi": 200,
+        "alt": ("Line chart of bank credit stocks as a percent of GDP across 14 "
+                "OECD economies, 1990-2011, in four categories. Credit to "
+                "non-financial business stays roughly flat around 40 percent of "
+                "GDP; household mortgage credit climbs steadily from about 21 "
+                "to 51 percent of GDP, overtaking business credit by 2008; "
+                "consumption credit and credit to financial business stay "
+                "below 20 percent."),
+        "caption": ("Figure 3 from the paper — \"Debt Shift, or How Bank Credit "
+                    "Was Biased Toward Household Mortgages\": on a balanced "
+                    "panel of 14 OECD economies, 1990–2011, credit to "
+                    "non-financial business stagnates near 40% of GDP while "
+                    "household mortgage credit climbs from ~21% to ~51% — the "
+                    "debt shift behind the authors' claim that modern bank "
+                    "lending bids up existing assets (above all land under "
+                    "housing) rather than funding production. "
+                    "<span class=\"figure-credit\">Source: Bezemer &amp; Hudson "
+                    "(2016), Figure 3 (data: Bezemer, Grydaki &amp; Zhang), "
+                    "<em>Journal of Economic Issues</em> 50(3), p. 755 — "
+                    "reproduced for comment and review.</span>"),
+    },
+    {
+        "key": "furman-fig8",
+        "entry": "research/furman-orszag-firm-rents.md",
+        "pdf_url": ("https://obamawhitehouse.archives.gov/sites/default/files/"
+                    "page/files/20151016_firm_level_perspective_on_role_of_"
+                    "rents_in_inequality.pdf"),
+        "page": 10,
+        "clip": (180, 152, 432, 356),
+        "dpi": 200,
+        "alt": ("Line chart of the return on invested capital excluding "
+                "goodwill for U.S. publicly traded non-financial firms, 1965 to "
+                "2014, at the 25th percentile, median, 75th percentile and 90th "
+                "percentile. The 25th percentile, median and 75th percentile "
+                "stay comparatively flat, while the 90th percentile climbs from "
+                "roughly 25 percent to around 100 percent, accelerating sharply "
+                "after the mid-1990s."),
+        "caption": ("Figure 8 from the paper: the distribution of returns on "
+                    "invested capital (excluding goodwill) across publicly "
+                    "traded U.S. non-financial firms, 1965–2014. The 90th "
+                    "percentile pulls away from an almost flat median — the "
+                    "90/50 ratio rises from under 3 to roughly 10 — the "
+                    "dispersion that Furman and Orszag read as evidence of "
+                    "growing firm-level rents rather than economy-wide returns "
+                    "to capital. <span class=\"figure-credit\">Source: Furman "
+                    "&amp; Orszag (2015), Figure 8 (data: Koller et al. 2015 / "
+                    "McKinsey), \"A Firm-Level Perspective on the Role of Rents "
+                    "in the Rise in Inequality\" — reproduced for comment and "
+                    "review.</span>"),
+    },
 ]
 
 

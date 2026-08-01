@@ -43,6 +43,11 @@ claim that land rent is the central driver of rising non-labor income, this pape
 precisely because it is the most credible **rival** explanation of the same broad phenomenon —
 and it deserves to be represented on its own terms, not as a strawman.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/08/autor-fig6.png" alt="Coefficient plot of the relationship between the change in an industry&#x27;s labor share and the change in its twenty-firm concentration ratio, 1982-2012, for six U.S. sectors and all combined. Every estimate is negative — finance -0.27, services -0.13, utilities and transport -0.12, manufacturing and retail -0.09, wholesale -0.04, all combined -0.09 — with 95% confidence intervals that exclude zero in most sectors." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 6 from the paper: OLS estimates of the change in an industry's labor share on the change in its 20-firm sales concentration (stacked five-year changes, 1982–2012). In every sector the industries that concentrated most are the industries where labor's share fell most — the paper's central superstar-firms result, and the leading rival to the land/housing account of rising non-labor income. <span class="figure-credit">Source: Autor, Dorn, Katz, Patterson &amp; Van Reenen, Figure 6, NBER Working Paper 23396 (published in <em>QJE</em> 135(2), 2020) — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Findings
 
 **The mechanism.** The authors set out a "superstar firm" model: if globalization or

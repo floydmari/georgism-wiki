@@ -106,20 +106,20 @@ provenance — do not re-plan.]**
       problems/housing-unaffordability-is-a-land-problem.md); (4) rent-seeking drags growth
       (Murphy-Shleifer-Vishny, Baumol); (5) the young are locked out of land wealth;
       (6) land underuse / speculative vacancy in high-demand cities.
-- [~] [BENEFIT-BUILD] tier:T2 status:in-progress — benefits 7, 8, 10 (PLAN):
-      (7) taxing land/rents increases productivity (OECD WP620 w/ Xing caveat, HGT, ATCOR as
-      attributed theory); (8) LVT reduces the cost of housing (land PRICES well-supported vs
-      RENTS paid weaker — say so); (10) rent dividends reduce poverty/inequality
-      (Jones-Marinescu, Segal, WITH the Goldsmith correction from this shift's purge).
-      Benefit 9 (construction/density) already exists — [EXPAND] split-rate-increases-
-      construction with Oates-Schwab + Song-Zenou at next touch, don't duplicate.
-- [~] [PROBLEM-BUILD] tier:T1 status:in-progress — justice pair 11–12 (T1 drafts personally,
-      highest editorial sensitivity): (11) land justice & Indigenous reconciliation;
-      (12) land & the Black-white wealth gap. Rule: document the intersection (shared
-      diagnosis, divergent remedies), do NOT overclaim geoism = reconciliation/reparations.
-- [ ] [SYNTHESIZE] tier:T1 status:todo — as each new page ships: add it to
-      concepts/the-problems.md / concepts/the-benefits.md indexes (lint requires claim_type;
-      indexes must stay current per EDITORIAL §5b).
+- [x] [BENEFIT-BUILD] tier:T2 status:done (verified 2026-08-01) — benefits 7, 8, 10 all
+      shipped: benefits/taxing-land-raises-productivity.md,
+      benefits/lvt-improves-housing-affordability.md (prices-vs-rents distinction kept),
+      benefits/rent-dividends-reduce-poverty.md (three evidence classes kept distinct).
+      Benefit 9 note honored — split-rate-increases-construction expanded, not duplicated.
+- [x] [PROBLEM-BUILD] tier:T1 status:done (verified 2026-08-01) — justice pair 11–12
+      shipped as narratives (correct home for intersection-not-overclaim framing):
+      narratives/land-justice-and-indigenous-reconciliation.md,
+      narratives/land-and-the-black-white-wealth-gap.md.
+- [x] [SYNTHESIZE] tier:T1 status:done-as-standing-rule (audited 2026-08-01) — both
+      indexes verified complete against the page inventory: concepts/problems.md carries
+      all 13 problems/ pages, concepts/benefits.md all 15 benefits/ pages, each with an
+      evidence grade. Standing rule remains: every new claim page lands in its index in
+      the same shift (EDITORIAL §5b).
 
 ### People stubs from book scanning (sources/inbox/T1-TODO-people-pages-from-book-scanning.md)
 - [x] [EXPAND] tier:T2 status:done (verified 2026-07-18) — stale duplicate of the

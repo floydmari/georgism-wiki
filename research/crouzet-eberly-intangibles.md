@@ -49,6 +49,11 @@ it is statistically associated with genuine productivity gains from intangible i
 just market power — while being careful to show that the two mechanisms operate differently
 across sectors rather than claiming efficiency explains everything.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/08/crouzet-fig6a.png" alt="Line chart of the U.S. industry-level investment gap, 1990-2015, with a two-standard-error band. The solid line (the raw gap) falls to about minus 9 percent by 2015; the dashed line (the residual gap after controlling for each industry&#x27;s intangible capital share) stays far closer to zero, ending near minus 3 percent." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 6, panel (a) from the paper: the economy-wide investment gap before (solid) and after (dashed) controlling for industries' intangible-capital shares. Counting intangibles closes roughly three quarters of the measured industry-level shortfall in physical investment — the paper's core evidence that 'missing' investment went into software, IP and brand rather than vanishing. <span class="figure-credit">Source: Crouzet &amp; Eberly (2019), Figure 6(a), NBER Working Paper 25869 (Jackson Hole symposium paper) — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## The Core Argument and Findings
 
 **The puzzle.** Physical (PP&E) investment in the U.S. corporate sector was unusually weak

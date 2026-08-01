@@ -54,6 +54,11 @@ macroeconomist (his prediction-record audit is on the wiki as
 carries their central *interpretive* claim as attributed, not settled — see What It Cuts
 Against.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/08/bezemer-fig3.png" alt="Line chart of bank credit stocks as a percent of GDP across 14 OECD economies, 1990-2011, in four categories. Credit to non-financial business stays roughly flat around 40 percent of GDP; household mortgage credit climbs steadily from about 21 to 51 percent of GDP, overtaking business credit by 2008; consumption credit and credit to financial business stay below 20 percent." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 3 from the paper — "Debt Shift, or How Bank Credit Was Biased Toward Household Mortgages": on a balanced panel of 14 OECD economies, 1990–2011, credit to non-financial business stagnates near 40% of GDP while household mortgage credit climbs from ~21% to ~51% — the debt shift behind the authors' claim that modern bank lending bids up existing assets (above all land under housing) rather than funding production. <span class="figure-credit">Source: Bezemer &amp; Hudson (2016), Figure 3 (data: Bezemer, Grydaki &amp; Zhang), <em>Journal of Economic Issues</em> 50(3), p. 755 — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## Key Findings
 
 - **Credit decoupled from income after the mid-1980s.** The authors argue bank credit

@@ -50,6 +50,11 @@ firm-level evidence for a broad, generalized rise in economic rents carries weig
 outside-the-movement corroboration of a claim central to the Georgist case — while also being
 explicit that the authors regard their own hypothesis as exploratory rather than settled.
 
+<figure class="wiki-figure">
+  <img src="https://www.progress.org/content/images/2026/08/furman-fig8.png" alt="Line chart of the return on invested capital excluding goodwill for U.S. publicly traded non-financial firms, 1965 to 2014, at the 25th percentile, median, 75th percentile and 90th percentile. The 25th percentile, median and 75th percentile stay comparatively flat, while the 90th percentile climbs from roughly 25 percent to around 100 percent, accelerating sharply after the mid-1990s." loading="lazy" style="width:100%;height:auto;"/>
+  <figcaption>Figure 8 from the paper: the distribution of returns on invested capital (excluding goodwill) across publicly traded U.S. non-financial firms, 1965–2014. The 90th percentile pulls away from an almost flat median — the 90/50 ratio rises from under 3 to roughly 10 — the dispersion that Furman and Orszag read as evidence of growing firm-level rents rather than economy-wide returns to capital. <span class="figure-credit">Source: Furman &amp; Orszag (2015), Figure 8 (data: Koller et al. 2015 / McKinsey), "A Firm-Level Perspective on the Role of Rents in the Rise in Inequality" — reproduced for comment and review.</span></figcaption>
+</figure>
+
 ## The Core Argument and Findings
 
 **Motivation: the aggregate rents story doesn't fit the timing.** The authors open by testing
