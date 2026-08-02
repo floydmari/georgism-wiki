@@ -2681,3 +2681,14 @@ an AI chat-with-Henry-George app ("Historacle"), not a citable source → reject
 brief step skipped this wave (cheapest-check-first: a digest run for one obvious reject
 would be waste); first real T0 batch awaits a scan with substantive survivors. No pages
 changed, no Ghost sync needed. Queue: 0 pending / 155 consumed.
+
+---
+
+## 2026-08-02 — queue wave 7: scanner resurrection guard
+
+Today's scan re-emitted two progressandpoverty.substack.com URLs already dispositioned
+in the consumed ledger (both exact-URL matches; both dispositioned as duplicates in
+wave 6 and cited on wiki pages). Dropped from the queue under the never-resurrect rule —
+no re-disposition, ledger untouched. Second consecutive scan to re-offer these two; if
+it recurs, the scanner-side dedup should learn to read the consumed ledger. Queue:
+0 pending / 155 consumed. No pages changed.
