@@ -2692,3 +2692,16 @@ wave 6 and cited on wiki pages). Dropped from the queue under the never-resurrec
 no re-disposition, ledger untouched. Second consecutive scan to re-offer these two; if
 it recurs, the scanner-side dedup should learn to read the consumed ledger. Queue:
 0 pending / 155 consumed. No pages changed.
+
+---
+
+## 2026-08-03 — queue wave 8: third resurrection; guard scripted
+
+The scan re-emitted the same two already-dispositioned Substack URLs for the third
+consecutive day. Dropped again (never-resurrect rule) and the cleanup is now a
+committed one-liner: `scripts/clean_wiki_queue.py` — run after every scanner
+union-merge; idempotent; drops pending items whose exact URL is already in the
+consumed ledger without touching the ledger. The real fix is scanner-side (its
+triage dedup doesn't read the consumed ledger) — flagged to Floyd; the scanner runs
+outside this repo/session, so it can't be patched from here. Queue: 0 pending /
+155 consumed. No pages changed.
