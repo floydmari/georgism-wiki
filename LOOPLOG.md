@@ -2705,3 +2705,11 @@ consumed ledger without touching the ledger. The real fix is scanner-side (its
 triage dedup doesn't read the consumed ledger) — flagged to Floyd; the scanner runs
 outside this repo/session, so it can't be patched from here. Queue: 0 pending /
 155 consumed. No pages changed.
+
+---
+
+## 2026-08-04 — queue wave 9: guard's first automated catch
+
+Fourth consecutive scan re-emitting the same two dispositioned Substack URLs;
+`scripts/clean_wiki_queue.py` dropped both in one pass. Nothing else in the scan.
+Queue: 0 pending / 155 consumed. Scanner-side dedup fix still pending on Floyd/Hermes.
