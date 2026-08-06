@@ -18,6 +18,24 @@
       "author": "research-scanner",
       "queued_at": "2026-08-05T10:01:27.963066+00:00",
       "reported": false
+    },
+    {
+      "url": "https://davidgoodhart.substack.com/p/good-luck-andy",
+      "source": "social-media-production",
+      "reason": "policy domain (substack.com) with keyword (lvt)",
+      "context": "David Goodhart LVT Quote (found from MoneyWeek above article reference)\n<https://davidgoodhart.substack.com/p/good-luck-andy|davidgoodhart.substack.com/p/good-luck-andy>",
+      "author": "UKTJP503G",
+      "queued_at": "2026-08-06T10:00:50.780078+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://moneyweek.com/personal-finance/tax/what-is-a-land-value-tax-and-how-would-it-work",
+      "source": "social-media-production",
+      "reason": "unknown domain with keyword (land value)",
+      "context": "Money Week - What is a land value tax and how would it work? (July 2026)\n<https://moneyweek.com/personal-finance/tax/what-is-a-land-value-tax-and-how-would-it-work|moneyweek.com/personal-finance/tax/what-is-a-land-value-tax-and-how-would-it-work>",
+      "author": "UKTJP503G",
+      "queued_at": "2026-08-06T10:00:50.780181+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -1878,6 +1896,6 @@
       "disposition_reason": "already consumed and cited on places/washington-state (2026-08-01 wave; deterministic dedup caught 3/4, T0 step skipped: single remaining item settled by direct fetch)"
     }
   ],
-  "total": 2,
-  "last_updated": "2026-08-05T10:01:43Z"
+  "total": 4,
+  "last_updated": "2026-08-06T10:01:52Z"
 }
