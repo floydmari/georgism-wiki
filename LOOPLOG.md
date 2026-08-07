@@ -2880,3 +2880,16 @@ GITHUB_TOKEN` (a fine-grained PAT: contents:write + pull_requests:write on this 
 only; the theme/wiki PAT in the Hugh vault works and was used for the local run via
 git-ignored .dev.vars). Turnstile is wired-but-disabled pending a site key. Production
 route (`www.progress.org/wiki/*/edit`) is a second, separate approval.
+
+---
+
+## 2026-08-07 (b) — wave 11: first suggestion through the full pipeline + day-six resurrections
+
+Scanner brought only the same two resurrected URLs (day six — guard dropped them;
+scanner-side fix still pending). The real work: **PR #29, the diff editor's first
+suggestion, went through the complete editorial pipeline** — T1 review found the right
+idea with the wrong anchor (the link hid under the word "grundskyld", where a reader
+expects a definition, not a 2017 capitalization study), amended it on the suggest/
+branch to an explicit natural-experiment clause, lint green, squash-merged with the
+Suggested-by credit preserved. The pipeline did what it was designed to do on its very
+first item: improve the suggestion rather than rubber-stamp or reject it.
