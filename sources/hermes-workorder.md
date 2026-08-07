@@ -12,7 +12,9 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
 - `research/giovannoni-labor-share-decomposition.md` — **VERIFY** whether the financial-sector compensation gains documented here are substantially rent (e.g., from land-collateralized lending) versus a return to scarce financ
 
-## needs-unblocked-web (proxy allowlist or manual fetch) — 2 of 2
+## needs-unblocked-web (proxy allowlist or manual fetch) — 3 of 3
+
+- `people/andy-burnham.md` — **VERIFY** the 2010 Labour-leadership primary: a *Guardian* comment piece Burnham wrote during the contest making the case for taxing land values. theguardian.com is blocked to this environment's fetcher. Confirm verbatim, with headline + date, the quotes "an annual tax on the market rental value of land" and stamp duty as "a tax on the aspirations of young people" (currently carried on Wikipedia's authority alone), and settle whether he framed it as "aspirational socialism" — attributed to his 2010 position by a 2026 MoneyWeek explainer but unverifiable from here, so not asserted on the page.
 
 - `research/august-rental-financialization.md` — **VERIFY** the mirror was not cross-checked page-by-page against the official Taylor & Francis PDF, since that PDF could not be fetched directly in this session.
 - `research/gaffney-alaska-oil-leasing.md` — **VERIFY** checked only against these appendices as OCR'd from the archived PDF, not against any transmittal letter, legislative testimony, or correspondence that might re

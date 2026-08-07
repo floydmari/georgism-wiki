@@ -80,7 +80,22 @@ Every marker below is classified into exactly one of three buckets:
   false-positive keyword match on "lending" inside the claim text, not an actual
   book-copy need.)
 
-## RETRYABLE (0) — none open; the prior 6 were worked this pass
+## RETRYABLE (1) — routed to Hermes
+
+- `people/andy-burnham.md` (source note 4, added 2026-08-05) — the 2010 leadership-bid
+  quotes ("an annual tax on the market rental value of land"; stamp duty as "a tax on
+  the aspirations of young people") are carried on Wikipedia's authority only. A
+  *Guardian* comment piece Burnham wrote during the 2010 contest arguing for taxing
+  land values appears to be the primary. **Attempted** (2026-08-05): `theguardian.com`
+  is not reachable by this environment's fetcher (blocked to the user agent), and web
+  search returns only summaries partly derived from this wiki's own page and a 2026
+  MoneyWeek explainer — circular, not verification. **Channel: needs-unblocked-web
+  (Hermes).** Confirm the two quotes verbatim with headline and date, and settle
+  whether Burnham framed the proposal as "aspirational socialism" — a phrase the
+  MoneyWeek piece attributes to his 2010 position but which no primary source
+  reachable from here supports, and which this wiki therefore does not assert.
+
+## RETRYABLE — worked and cleared (the prior 6, 2026-07-18)
 
 All 6 rows queued in the previous pass were worked in a same-day continuation
 (2026-07-18). **3 resolved:**

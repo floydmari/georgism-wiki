@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-05",
+  "wave": "queue wave 10",
+  "t0_model": "sonnet (context engine, full 919-page corpus digest ~70K tokens)",
+  "note": "Briefs are advisory. T1 disposition and any override are recorded in t1_disposition/t1_note below and in LOOPLOG.",
+  "briefs": [
+    {
+      "url": "https://davidgoodhart.substack.com/p/good-luck-andy",
+      "title": "Good Luck Andy!",
+      "what_it_is": "A David Goodhart political-commentary Substack post (14 July 2026) on new PM Andy Burnham's prospects at bridging Britain's 'Anywhere/Somewhere' divide. LVT appears as one section: Goodhart calls it 'one of the biggest ideas' Burnham could pursue, cites land as ~half of house value, floats a 1.2% rate to replace GBP 100bn of property taxes, estimates ~20% of homeowners would pay more, and proposes his own phase-in (0.4% initially, retaining council tax). Also namechecks Lloyd George's failed pre-WWI land tax.",
+      "existing_coverage_delta": "The wiki already covers Burnham's LVT advocacy far more deeply on people/andy-burnham (2010 and 2026 timeline, Fairer Share 0.48% proposal, PolicyEngine 0.77% microsimulation, Neidle/TPA 1.28-1.46% model) and places/united-kingdom. Lloyd George's land duties are on people/david-lloyd-george and events/1909-peoples-budget. Goodhart's figures are his own back-of-envelope commentary, superseded in rigour by the modelling already cited. David Goodhart (distinct from economist Charles Goodhart, who IS cited on andy-burnham) has zero prior wiki presence.",
+      "recommended_disposition": "reject",
+      "disposition_reason": "Opinion commentary with no new verifiable claim, named-politician position, or policy episode beyond what the wiki already carries in better-sourced form.",
+      "crosslink_targets": ["people/andy-burnham", "places/united-kingdom", "people/david-lloyd-george"],
+      "suggested_category": null,
+      "confidence": "high",
+      "t1_disposition": "reject",
+      "t1_note": "Accepted as briefed."
+    },
+    {
+      "url": "https://moneyweek.com/personal-finance/tax/what-is-a-land-value-tax-and-how-would-it-work",
+      "title": "What is a Land Value Tax and How Would It Work?",
+      "what_it_is": "A Simon Wilson consumer-finance explainer (MoneyWeek, 25 July 2026) covering LVT mechanics, historical proponents (Smith, Ricardo, George, Churchill, Friedman's 'least bad tax'), international examples (Australia, Canada, Denmark, Estonia, Singapore, Taiwan), UK rate proposals (TPA ~1.3%, others 0.48-1%, Neidle's 63%-better-off finding), and implementation challenges. Notes Burnham backed LVT in his 2010 leadership bid, calling it 'aspirational socialism'.",
+      "existing_coverage_delta": "Near-total overlap with existing pages: the Smith/Ricardo/George lineage on concepts/land-value-tax and people/henry-george; Churchill on people/winston-churchill and texts/churchill-budget-resolutions-1909; Friedman's 'least bad tax' verbatim on people/milton-friedman; Denmark and Estonia with far more empirical depth (incl. the 2007 DORS natural experiment) on concepts/land-value-tax; Neidle/TPA figures in much greater detail on research/tpa-what-would-lvt-do; Lloyd George on people/david-lloyd-george. The one item not in the wiki is the 'aspirational socialism' attribution for Burnham's 2010 framing.",
+      "recommended_disposition": "enrich:people/andy-burnham",
+      "disposition_reason": "Not citable as its own page, but the 'aspirational socialism' datapoint is specific and on-topic.",
+      "crosslink_targets": ["people/andy-burnham", "research/tpa-what-would-lvt-do", "concepts/land-value-tax", "people/milton-friedman", "people/david-lloyd-george"],
+      "suggested_category": null,
+      "confidence": "medium",
+      "t1_disposition": "reject (OVERRIDE of the brief's enrich recommendation)",
+      "t1_note": "The proposed enrichment was checked and declined. people/andy-burnham's 2010 quotes already rest on Wikipedia's authority alone, with an explicit unverified flag; adding a second 2010 quote sourced to a 2026 consumer-finance explainer would compound a restatement chain rather than fix it. Attempted verification: web search traced 'aspirational socialism' no further than the MoneyWeek piece itself, with other summaries partly derived from this wiki's own page (circular). The search did surface a genuine lead - a Guardian comment piece Burnham wrote during the 2010 contest - but theguardian.com is blocked to this environment's fetcher. Routed as a fact-check instead: new RETRYABLE row in sources/verification-queue.md and a needs-unblocked-web item on sources/hermes-workorder.md, plus a [VERIFY] marker on the page's source note 4 naming the primary and explicitly recording that the phrase is NOT asserted."
+    }
+  ]
+}

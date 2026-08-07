@@ -2713,3 +2713,41 @@ outside this repo/session, so it can't be patched from here. Queue: 0 pending /
 Fourth consecutive scan re-emitting the same two dispositioned Substack URLs;
 `scripts/clean_wiki_queue.py` dropped both in one pass. Nothing else in the scan.
 Queue: 0 pending / 155 consumed. Scanner-side dedup fix still pending on Floyd/Hermes.
+
+---
+
+## 2026-08-05 — queue wave 10: first real T0 batch (2 survivors), one T1 override
+
+Two scanner commits merged; the guard dropped the same two resurrected Substack URLs
+(day five) and two genuinely new items survived: a David Goodhart Substack post and a
+MoneyWeek LVT explainer. First production run of the T0 brief step — one Sonnet agent
+over the full 919-page digest, briefs archived at
+`sources/context-briefs/2026-08-05.json`.
+
+**Goodhart post → reject** (brief agreed, high confidence): unsourced back-of-envelope
+LVT figures superseded by the Neidle/TPA and PolicyEngine modelling already cited on
+people/andy-burnham.
+
+**MoneyWeek explainer → reject, OVERRIDING the brief's `enrich:people/andy-burnham`.**
+The brief's sole delta was the phrase "aspirational socialism" for Burnham's 2010 LVT
+framing. Checked before accepting: the Burnham page's 2010 quotes already rest on
+Wikipedia's authority with an explicit unverified flag, so bolting on a second 2010
+quote sourced to a 2026 consumer-finance explainer would deepen a restatement chain
+rather than repair it. Attempted verification traced the phrase no further than
+MoneyWeek itself — other search summaries derive partly from our own page (circular).
+The search did surface a real lead: a *Guardian* comment piece Burnham wrote during the
+2010 contest arguing for taxing land values, i.e. the actual primary behind the page's
+two flagged quotes. theguardian.com is blocked to this environment's fetcher, so it
+went to the Fact-Check Desk rather than being guessed at: a `[VERIFY]` marker on the
+page's source note 4 naming the primary and stating the phrase is NOT asserted, a
+RETRYABLE row in `sources/verification-queue.md`, and a needs-unblocked-web item on
+`sources/hermes-workorder.md`. Net: the wave shipped no prose but converted a
+low-value explainer into a routed fix for a real sourcing weakness.
+
+Tooling note: `scripts/verification_queue.py` was run to regenerate the work order and
+**its output was reverted** — it replaces the hand-curated 25-marker T1 classification
+(DELIBERATE-SCOPED / RETRYABLE / BLOCKED, with resolution history) with a raw 85-marker
+dump and mangles marker text mid-sentence. Both files were edited by hand instead. The
+script needs a merge-not-clobber mode before it is run again; until then treat
+`sources/verification-queue.md` and `sources/hermes-workorder.md` as hand-maintained.
+Queue: 0 pending / 157 consumed.
