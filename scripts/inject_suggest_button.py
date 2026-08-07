@@ -32,13 +32,25 @@ BEGIN = "<!-- BEGIN wiki-edit-suggest-btn (scripts/inject_suggest_button.py) -->
 END = "<!-- END wiki-edit-suggest-btn -->"
 
 BLOCK = BEGIN + """
-<script>
+<script data-cfasync="false">
 (function(){
+  // data-cfasync=false: Rocket Loader rewrites inline scripts' type and defers
+  // them through its own loader, which left this one unexecuted (observed
+  // 2026-08-07). This attribute is Cloudflare's documented opt-out.
   var m = location.pathname.match(/^\\/wiki\\/([a-z0-9-]+)\\/?$/);
   if (!m || m[1] === 'admin') return;
+  var editUrl = 'https://wiki-edit.progress.org/wiki/' + m[1] + '/edit';
+  // Preferred placement: the theme's Entry Metadata card ships an unwired
+  // "Edit" placeholder (href=/wiki/about/) — claim it.
+  var wired = false;
+  document.querySelectorAll('.wiki-meta-card__actions a').forEach(function(b){
+    if (b.textContent.trim() === 'Edit') { b.href = editUrl; wired = true; }
+  });
+  if (wired) return;
+  // Fallback for layouts without the card: floating pill.
   var a = document.createElement('a');
   a.id = '""" + MARK + """';
-  a.href = 'https://wiki-edit.progress.org/wiki/' + m[1] + '/edit';
+  a.href = editUrl;
   a.textContent = '\\u270F\\uFE0F Suggest an edit';
   a.setAttribute('style','position:fixed;right:1.1em;bottom:1.1em;z-index:999;background:#2b6cb0;color:#fff;padding:.55em 1em;border-radius:999px;font:600 .85em system-ui,sans-serif;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.25)');
   document.body.appendChild(a);
