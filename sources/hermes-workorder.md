@@ -21,3 +21,26 @@ Capped at 60 items per run; the full ledger is `sources/verification-queue.md`.
 
 
 *3 items assigned this order. When a page's flags are all resolved, note it in the PR so the editor can upgrade its scan depth.*
+
+
+## Unrouted field items (auto-generated)
+
+*Machine-maintained by `scripts/verification_queue.py`. Everything above this
+heading is hand-curated and is never rewritten. Rows here are markers no human
+has routed yet; route one by moving it into a curated bucket above.*
+
+<!-- AUTOGEN:START -->
+*Regenerated 2026-08-07: 6 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
+
+### needs-book-copy (see sources/wanted-books.md) (1 of 1)
+
+- `research/gaffney-mineral-leasing-tax-reform.md` — **VERIFY** exact publication year and venue not established this session — the essay reads as a book chapter or commissioned report for a Canadian audience, but no publisher or journal name survives in the text extracted
+
+### needs-unblocked-web (proxy allowlist or manual fetch) (5 of 5)
+
+- `concepts/land-value-capture.md` — **VERIFY** this characterization is drawn from the CaCHE project page's own description and consistent secondary summaries; the wiki could not retrieve the report's PDF directly (the Cardiff University ORCA repository copy sits beh
+- `people/elizabeth-magie.md` — **VERIFY** exact publication date of the Realtor.com piece not confirmed — the page could not be directly fetched and this is drawn from a search-engine summary of its content.
+- `places/australia.md` — **VERIFY** exact article URL/slug reconstructed via search rather than direct fetch — the page returned a fetch error, likely a paywall or bot block
+- `research/gaffney-water-rent-taxation.md` — **VERIFY** OCR quality — the masongaffney.org PDF's embedded text layer is a low-quality legacy scan extraction; this page's quotations and figures are drawn from a fresh re-OCR (pdftoppm 250dpi + Tesseract 5.3.4) of the same PDF,
+- `books/bird-the-land-trap.md` — **VERIFY** original study(ies) behind this range not independently identified this session — cited via Doucet's review, not read in Bird's primary text
+<!-- AUTOGEN:END -->

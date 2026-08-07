@@ -2751,3 +2751,30 @@ dump and mangles marker text mid-sentence. Both files were edited by hand instea
 script needs a merge-not-clobber mode before it is run again; until then treat
 `sources/verification-queue.md` and `sources/hermes-workorder.md` as hand-maintained.
 Queue: 0 pending / 157 consumed.
+
+---
+
+## 2026-08-05 (b) — verification_queue.py: merge, don't clobber (Floyd's ask)
+
+Fixed the regression flagged in wave 10. The script now owns only the region between
+`<!-- AUTOGEN:START/END -->` markers; everything outside is hand-curated and never
+touched, and a file *without* those markers is refused rather than overwritten
+(`--init` adds a block once). A marker whose page is already routed by hand in the
+curated region is dropped from the generated block, so that block is a worklist of
+what no human has triaged yet — not a census that duplicates the curation. Added
+`--check` (reports drift, writes nothing) for CI.
+
+Also fixed the extraction that was mangling rows mid-sentence. The old regex ran to
+the next `]` anywhere in the file, so any markdown link inside a marker truncated it
+and the rest of the paragraph leaked in. Now the two marker shapes are handled
+separately — `[VERIFY: why]` is read to its real closing bracket with depth tracking,
+a bare `[VERIFY]` takes the sentence it precedes — and rows are link-stripped and
+sentence-bounded. Effect on the Hermes order: 14 rows → 6, because the old rows were
+being bucketed on garbage trailing prose (a stray "PDF" in a Sources annotation put
+unrelated pages in needs-unblocked-web).
+
+Scope note: the broader regex + two more folders scanned (`texts/`, `guides/`) find 88
+live markers against the curated header's 25 — the curated count used a stricter
+pattern and excluded self-closed `[VERIFY]`. Not reconciled here; the generated block
+surfaces the 65 unrouted ones for a future triage pass rather than silently asserting
+either number is "the" total.
