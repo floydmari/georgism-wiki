@@ -2778,3 +2778,41 @@ live markers against the curated header's 25 — the curated count used a strict
 pattern and excluded self-closed `[VERIFY]`. Not reconciled here; the generated block
 surfaces the 65 unrouted ones for a future triage pass rather than silently asserting
 either number is "the" total.
+
+---
+
+## 2026-08-05 (c) — Stages 3–5 architecture (Floyd's re-architecture ask)
+
+Wrote `docs/ARCHITECTURE-COMMUNITY.md` (the design + build plan for the community layer,
+autonomous maintenance, and authority/discovery) and baked WS10/WS11/WS12 into ROADMAP.md
+with pointers to it. Grounded on infrastructure checked live rather than assumed:
+Cloudflare fronts Ghost Pro on progress.org (so Workers/Access/Pages are available),
+`/tag/wiki/rss/` already returns 200, and the Ghost sitemap index already exists — two
+Stage 3/5 line items were partly done already.
+
+The architecture turns on one constraint (§0): **git is the source of truth, Ghost is a
+render target.** `sync_to_ghost.py` upserts by slug, so anything edited in Ghost is
+silently destroyed on the next sync. That rules out the obvious reading of "a CMS at
+/wiki/admin" — it must be git-backed (edits Markdown, opens a PR) or it produces
+un-diagnosable data loss. It also means merging to main *is* publishing, which sets the
+risk budget for auto-merge.
+
+Three places where I pushed back on the brief rather than just scheduling it:
+1. **Auto-merge can't rest on author trust.** Lint is structural — green lint coexists
+   with a changed numeral, a deleted `challenged_by`, a rewritten source annotation, or a
+   `[VERIFY]` marker removed without the verification happening. Specified
+   `scripts/diff_guard.py` + a Tier A/Tier B split so evidence-bearing diffs always reach
+   T1 regardless of who sent them.
+2. **Wikipedia link campaign — recommended against.** It's the pattern COI/refspam rules
+   target; at scale it risks blacklisting the domain and the reputation the stage exists
+   to build. Proposed instead: fix Wikipedia's citations to the primaries we've already
+   verified, and Talk-page proposals with COI disclosure.
+3. **"Submit sitemap to Common Crawl" isn't a mechanism.** No submission channel
+   guarantees inclusion. The real levers are crawlability, stable URLs, clean HTML, and
+   inbound links — so the deliverable became a documented robots.txt crawler policy,
+   flagged as a values decision for Floyd.
+
+Stage 4 was reframed honestly: ~70% of it already runs (daily scan, T0 briefs, consumed
+ledger, census Action), so the remaining work is productionizing and containment — and the
+first item is fixing the scanner's dedup, a live defect, before adding volume on top of it.
+Four open decisions left for Floyd at the end of the doc.

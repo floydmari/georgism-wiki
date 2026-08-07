@@ -47,6 +47,37 @@ Success metrics: articles 139→300+ (now 240), research 47→100+ (now ~85), na
 outcomes each ≥5 supporting papers, zero fabricated citations ever (enforced by
 `[CITATION NEEDED]`/`[VERIFY]` discipline + lint).
 
+## Stages 3–5 — the platform arc (added 2026-08-05, Floyd's re-architecture ask)
+
+The work streams above grow the *corpus*. These three stages grow the *platform*: who can
+edit it, how much of it maintains itself, and whether the rest of the world treats it as
+canonical. **Architecture and build plan: `docs/ARCHITECTURE-COMMUNITY.md`** — read it
+before starting any row below; the summaries here are pointers, not specs.
+
+| Stage | Stream | Status |
+|---|---|---|
+| 3 | **WS10 — Community layer.** Suggest-a-change form on every page · git-backed editor CMS at `/wiki/admin` · Cloudflare Access editor accounts · tiered auto-merge · weekly digest newsletter | ⚪ planned — architecture done, nothing built |
+| 4 | **WS11 — Autonomous maintenance.** Widened source scan · Issue→queue responder · stub detector · citation health check · chat trigger | 🟡 **~70% already running** (daily scan, T0 briefs, consumed ledger, census Action); remainder is productionizing + containment |
+| 5 | **WS12 — Authority & discovery.** JSON-LD with real citation graphs · citable-URL widget · institutional partnerships · author outreach · crawler policy | ⚪ planned — sitemap + wiki RSS already live |
+
+**The one constraint that governs all three (ARCHITECTURE §0):** git is the source of
+truth and Ghost is a render target. `sync_to_ghost.py` upserts by slug, so *any* edit made
+in Ghost is silently destroyed on the next sync. Every editing feature must terminate in a
+git commit; no feature may write page content to Ghost. This is why the `/wiki/admin` CMS
+must be git-backed rather than a Ghost editor, and why merging to `main` **is** publishing.
+
+**Three judgment calls flagged for Floyd** (detail and reasoning in the architecture doc):
+- *Auto-merge cannot rest on author trust alone.* Lint is structural — it cannot see a
+  changed numeral, a deleted `challenged_by`, or a `[VERIFY]` marker removed without the
+  verification happening. A new `scripts/diff_guard.py` classifies diffs so that
+  evidence-bearing changes always reach T1 no matter who sent them (§3.3).
+- *A Wikipedia link campaign is recommended against* — it's what COI/refspam rules target
+  and risks blacklisting. Better: fix Wikipedia's citations to the primaries we've already
+  verified, and propose our pages on Talk with COI disclosure (§5.2).
+- *"Submit a sitemap to Common Crawl" isn't a real mechanism.* What determines AI-dataset
+  presence is crawlability, stable URLs, clean HTML, and inbound links — so the deliverable
+  is a documented `robots.txt` crawler policy, which is a values decision (§5.4).
+
 ## The growth flywheel (added 2026-07-04)
 
 Ingest → extract → **discover across all categories** → stub immediately (sourced, visible,
