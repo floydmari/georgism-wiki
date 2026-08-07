@@ -2963,3 +2963,19 @@ WRITE settings (403 on codeinjection_foot PUT), so the site-wide "Suggest an edi
 button needs 30 seconds of staff hands in Ghost Admin (snippet handed to Floyd via
 scripts/inject_suggest_button.py, append-only + idempotent + --remove, kept for a
 staff-session future or manual paste).
+
+---
+
+## 2026-08-07 (e) — captcha armed, button live: the community edit path is fully open
+
+Floyd added the Turnstile scope and pasted the footer snippet. Widget created via API
+(sitekey 0x4AAAAAAEJUnjIdNAl_3zV0 — public by design, it ships in the page HTML),
+TURNSTILE_SECRET set on the worker (never in git; scratchpad copy deleted),
+REQUIRE_TURNSTILE=1 deployed (version 025fb0d9). Verified live: /api/health reports
+turnstile:true; a submit WITHOUT a challenge token is rejected 403; the editor page
+carries the widget; and progress.org wiki pages now show the "✏️ Suggest an edit"
+button (grep confirms the injected block on the live land-value-tax page). Floyd also
+added Workers AI scope to the token — unused for now; candidate future use is an
+on-submit spam/quality classifier in front of the PR, noted in the architecture doc's
+open list. Every piece of Stage 3 §3.1 Tier 1 is now live end to end: button → editor
+→ captcha → rate-limited submit → contained PR → T1 review → merge → Ghost sync.
