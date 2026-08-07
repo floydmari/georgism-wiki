@@ -2816,3 +2816,38 @@ Stage 4 was reframed honestly: ~70% of it already runs (daily scan, T0 briefs, c
 ledger, census Action), so the remaining work is productionizing and containment — and the
 first item is fixing the scanner's dedup, a live defect, before adding volume on top of it.
 Four open decisions left for Floyd at the end of the doc.
+
+---
+
+## 2026-08-05 (d) — Stage 3 revised: one diff editor replaces form + Decap (Floyd's questions)
+
+Floyd asked three things: could submitters get a real CMS/track-changes experience; could
+"suggest an edit" open a Google Doc in suggesting mode; and could editors just work in
+Ghost with a write-back to GitHub. Verified the Ghost specifics against Ghost's own docs
+rather than answering from memory — `post.edited`/`post.published.edited` webhooks exist,
+but **Ghost has no role that can edit an existing published post without also being able
+to publish it** (Contributors edit only their own drafts; Editor is the minimum for
+someone else's published post, and Editor publishes).
+
+Net effect: the first question improved the plan and collapsed two components into one.
+§3.1 is now a single browser diff editor at `/wiki/<slug>/edit` with two permission tiers
+— public gets one `##` section at a time with a live red/green diff (that *is* the
+track-changes UI, computed client-side); trusted editors get the full file plus
+frontmatter fields generated from lint's own schema, behind Cloudflare Access with GitHub
+OAuth for commit attribution. Both submit a PR, because the submission is already a diff
+and filing it as an Issue would just force someone to transcribe it back. This drops the
+Decap/Sveltia dependency and deletes the schema-drift bug class (no second schema to
+drift), at a cost of ~1-2 extra build days.
+
+Google Docs: declined. Suggestions come back as text ranges in a document that has lost
+the Markdown structure, so every accepted change is manual re-application; plus doc
+sprawl, a probable sign-in requirement that kills anonymity, a Google service account
+that ROADMAP already lists as unprovisioned, and a defacement surface.
+
+Ghost write-back: feasible, not the primary path. Four problems recorded — frontmatter has
+nowhere to live in Ghost, round-trip Markdown→Lexical→Markdown produces whole-file diff
+noise that destroys reviewability, two-master races with no lock, and the disqualifying
+one: it inverts the publish gate, since anyone who can fix a page in Ghost can also push
+it live before lint/diff_guard/T1. Kept as an optional later convenience with a narrow
+scope (Tier A changes, block-level diffing, per-slug lease), sequenced after the diff
+editor — if that editor is good, most demand for Ghost editing disappears.

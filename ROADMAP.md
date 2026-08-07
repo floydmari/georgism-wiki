@@ -56,7 +56,7 @@ before starting any row below; the summaries here are pointers, not specs.
 
 | Stage | Stream | Status |
 |---|---|---|
-| 3 | **WS10 — Community layer.** Suggest-a-change form on every page · git-backed editor CMS at `/wiki/admin` · Cloudflare Access editor accounts · tiered auto-merge · weekly digest newsletter | ⚪ planned — architecture done, nothing built |
+| 3 | **WS10 — Community layer.** One browser diff editor at `/wiki/<slug>/edit`, two tiers (public section-level with live track-changes; editors get full file + frontmatter behind Cloudflare Access) · tiered auto-merge gated by `diff_guard` · weekly digest newsletter | ⚪ planned — architecture done (rev. 2026-08-05), nothing built |
 | 4 | **WS11 — Autonomous maintenance.** Widened source scan · Issue→queue responder · stub detector · citation health check · chat trigger | 🟡 **~70% already running** (daily scan, T0 briefs, consumed ledger, census Action); remainder is productionizing + containment |
 | 5 | **WS12 — Authority & discovery.** JSON-LD with real citation graphs · citable-URL widget · institutional partnerships · author outreach · crawler policy | ⚪ planned — sitemap + wiki RSS already live |
 

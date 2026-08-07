@@ -37,14 +37,11 @@ carries the result to Ghost.
 ```mermaid
 flowchart TD
     subgraph IN["Edit paths (Stage 3)"]
-        R["Reader\n'Suggest a change' form"]
-        E["Trusted editor\ngit-backed CMS at /wiki/admin"]
+        ED["/wiki/&lt;slug&gt;/edit — one diff editor, two tiers\nTier 1 public: one section, live red/green diff\nTier 2 editors: full file + frontmatter (Access)"]
         A["Agents\nthe loop (T0-T3)"]
         H["Hermes\nfield fact-checks"]
     end
-    R -->|"Cloudflare Worker\n→ GitHub Issue"| Q["Suggestion queue\n(labelled Issues)"]
-    Q -->|"triaged by the loop"| PR
-    E -->|"commit to cms/* branch"| PR["Pull request"]
+    ED -->|"Cloudflare Worker\n→ branch + commit"| PR["Pull request"]
     A --> PR
     H -->|"hermes/* branch"| PR
     PR --> G{"GATES\nlint · diff_guard · T1 review\n(EDITORIAL is the constitution)"}
@@ -67,97 +64,132 @@ therefore auto-publish, and must be scoped accordingly (§3.3).
 Goal: let the Georgist community contribute without GitHub knowledge, without weakening
 the evidence standard that makes the wiki worth citing.
 
-### 3.1 "Suggest a change" on every article page
+### 3.1 The edit surface — one app, two tiers
 
-**What it is.** A button on every `/wiki/<slug>/` page opening a short form. No account,
-no GitHub, no login.
+*Revised 2026-08-05 after Floyd asked whether submitters could get a real CMS/track-changes
+experience rather than a form. The answer collapsed two planned components into one.*
 
-**Path:** Ghost theme → Cloudflare Worker → GitHub Issue → loop triage → PR → T1 → main.
+The first draft of this plan had **two** separate things: a suggestion *form* for the
+public and an off-the-shelf git-backed CMS (Decap/Sveltia) for editors. That's two
+codebases, two UX conventions, and — because the CMS config restates the frontmatter
+schema that `lint_wiki.py` already owns — a whole class of schema-drift bugs.
 
-**Why an Issue and not a PR.** Anonymous submitters cannot be given branch-write, and a
-PR from an unknown party still costs a full review. An Issue is a queue item the loop
-already knows how to work, it contains spam, and it keeps the T1 gate intact.
+**Build one browser-based diff editor instead, with two permission tiers.** It gives the
+public genuine track-changes editing, gives editors a real CMS, and removes the Decap
+dependency entirely.
 
-**Components**
+**Route:** `/wiki/<slug>/edit`, served by Cloudflare Pages + a Worker (not Ghost). The
+theme's only job is the "Suggest an edit" / "Edit" button linking to it.
 
-| Piece | Where | Notes |
-|---|---|---|
-| Button + modal | `progress-org-theme`, `custom-wiki-entry.hbs` | Separate repo. Ships as a theme PR, same route as the "Related on the wiki" box. Fallback: `codeinjection_foot` if a theme release is slow. |
-| Form handler | Cloudflare Worker, `suggest.progress.org` | Holds the GitHub App private key as a Worker secret. Never in the theme — the theme is public HTML. |
-| Abuse control | Worker | Cloudflare Turnstile token, per-IP rate limit in Workers KV, honeypot field, hard length caps, HTML stripped. |
-| Issue creation | GitHub App (not a PAT) | Scoped to `issues: write` on this one repo. A PAT would carry far more authority than this needs. |
+**How it works, both tiers:**
 
-**Form fields** — the design point is that *the form carries the editorial standard into
-the UI*:
+1. Worker fetches the page's current Markdown from GitHub.
+2. Browser renders it in a Markdown editor (CodeMirror-class) with **a live inline diff
+   against the original** — red/green as you type. *That is the track-changes UI*, and it
+   is computed client-side, so it needs no backend session.
+3. A preview toggle renders the Markdown as it will appear.
+4. On submit: Worker validates, creates a branch, commits, and **opens a PR**.
 
-- **What kind of problem?** factual error · broken link · unclear wording · missing
-  evidence · something else
-- **Which passage?** (pre-filled from the reader's text selection where possible)
-- **What should it say instead?** (free text, optional)
-- **Source for the correction** — URL or citation. **Required when "factual error" is
-  selected.**
-- **Your name** (optional, for the commit trailer if the suggestion is used)
+**Tier 1 — public, no login.** Edits **one `##` section at a time**, not the whole file:
+a 400-line page is intimidating and a whole-file textarea invites accidental damage.
+Requires a rationale, and a source URL when the edit touches a factual claim — with the
+standard stated in the UI next to the field: *"We cite every substantive claim. A
+suggestion without a source can still flag a problem for us — but we can't publish a claim
+we can't verify."* That is EDITORIAL rule 2 expressed as UX. Cloudflare Turnstile,
+per-IP rate limits in Workers KV, length caps, HTML stripped. The PR is authored by the
+GitHub App with the submitter credited in a `Suggested-by:` commit trailer, labelled
+`suggestion`.
 
-The source field is the whole game. The form should say plainly, near it: *"We cite every
-substantive claim. A suggestion without a source can still flag a problem for us — but we
-can't publish a claim we can't verify."* That is EDITORIAL rule 2 expressed as UX, and it
-sets expectations before someone spends effort on a suggestion we can't act on.
+**Tier 2 — trusted editors, behind Cloudflare Access.** Same app, more surface: the whole
+file, plus **frontmatter as structured form fields generated from lint's own schema** —
+so evidence wiring (`supported_by`, `challenged_by`, `evidence_strength`) is editable with
+validation, and there is no second schema to drift. Commits are attributed to the editor's
+own GitHub identity via OAuth, because "who changed this claim" must survive in `git log`.
 
-**Issue body** is structured YAML in a fenced block so the triage bridge parses it rather
-than guessing:
+**Why a PR and not an Issue** (this reverses the first draft): the submission *is already
+a diff*, so filing it as an Issue would just force someone to transcribe it back into one.
+A PR runs lint and `diff_guard` automatically and reviews in the normal place. Spam PRs
+are noisier than spam Issues — if that becomes real, downgrade Tier 1 to Issues-first and
+promote on triage.
 
-```yaml
-slug: benefits/lvt-dampens-land-speculation
-kind: factual-error
-passage: "…the quoted sentence…"
-proposed: "…"
-source: "https://doi.org/…"
-submitter: "optional name"
-```
+**Auth stays two-layer for Tier 2:** Cloudflare Access decides *who reaches the page*;
+GitHub OAuth decides *whose name is on the commit*. Access alone would collapse every
+editor into one bot identity in the history.
 
-Labels: `suggestion`, `from-web`, plus `needs-source` when the source field is empty.
+**Trade-off, stated honestly:** this is more custom code than configuring Decap (~3–4 days
+versus ~2). What it buys: no upstream-maintenance risk, one UI instead of two, and the
+schema-drift failure mode disappears rather than needing a CI check to catch it. Given the
+wiki's lifespan is measured in years, I'd take the extra day.
 
-**Effort:** ~1 day Worker + form, ~0.5 day theme PR.
+### 3.2 Two alternatives considered and not taken
 
-### 3.2 Editor CMS at `/wiki/admin`
+Recording these with reasons so the decision doesn't get relitigated from scratch.
 
-**For editors who want a web UI instead of Git.** Hard requirement from §0: it edits
-**Markdown in the repo**, never Ghost.
+#### Google Docs in suggesting mode — **not recommended**
 
-**Recommendation: an off-the-shelf git-backed CMS, not a bespoke build.** Candidates are
-Decap CMS and its actively-maintained drop-in fork Sveltia CMS, plus TinaCMS. All three
-are config-driven: a YAML file declares collections and fields, and the CMS commits
-Markdown with frontmatter to a branch and opens a PR. *Evaluate current upstream
-maintenance at build time before committing to one* — that is the main selection risk,
-and the configs are close enough that switching later is cheap.
+The idea: "Suggest an edit" opens a Google Doc pre-filled with the page, set to suggesting
+mode, and we harvest the tracked changes. Appealing because everyone already knows the UI.
 
-**Hosting.** The admin app is static. Host on **Cloudflare Pages** and attach it at
-`progress.org/wiki/admin` with a Cloudflare route. Ghost never serves it, and no Ghost
-theme change is needed.
+Why it doesn't pay off:
 
-**Auth — two layers, both doing distinct jobs:**
+- **The hard part gets harder, not easier.** Google returns suggestions as text ranges in
+  a document that has *lost the Markdown structure* — headings, links, frontmatter,
+  `<figure>` blocks. Mapping an accepted suggestion back onto the source file is manual
+  work per suggestion. The diff editor in §3.1 produces a patch that applies to the source
+  file directly.
+- **Doc sprawl.** One document per suggestion per page, each needing permissions and
+  garbage collection.
+- **It probably breaks anonymity** — creating tracked *suggestions* generally requires
+  being signed in to a Google account, which removes the main advantage of a web form.
+  (Verify before dismissing on this ground alone.)
+- **New blocked dependency.** It needs a Google service account, which ROADMAP already
+  lists as unprovisioned — the registry Sheets mirror is blocked on exactly this.
+- **Abuse surface.** A link-shared, editable document under the project's name is a
+  defacement and phishing target.
 
-1. **Cloudflare Access** in front of the `/wiki/admin` route (GitHub or Google OAuth, per
-   Floyd's note) — decides *who can reach the page at all*. An editor allowlist lives
-   here.
-2. **The CMS's own GitHub OAuth** — decides *whose name is on the commit*. Attribution
-   matters: the wiki's audit trail is its credibility, and "who changed this claim" must
-   survive in `git log`.
+The one genuine benefit — a familiar track-changes experience — is what §3.1 provides
+natively.
 
-Access alone would give every editor a shared bot identity in the history; GitHub OAuth
-alone would let anyone with a GitHub account load the admin UI. Both.
+#### Ghost as the editing platform, with write-back to GitHub — **feasible, but not the primary path**
 
-**The schema-drift trap.** The CMS config duplicates knowledge that already lives in
-`scripts/lint_wiki.py` (required frontmatter per category, `claim_type` values, the
-evidence-wiring fields). If they drift, editors get a UI that cheerfully produces
-lint-failing pages. **Mitigation: a CI check that diffs the CMS config's field list
-against lint's required-field table and fails on mismatch.** Small script, prevents a
-whole class of confusing failures. Build it in the same PR as the CMS.
+The idea: editors edit the wiki page in Ghost's own admin UI; a webhook fires; something
+converts it back to Markdown and opens a PR. Ghost is already the publishing surface, so
+this is the least new UI of any option.
 
-**Workflow:** editor saves → commit to `cms/<editor>/<slug>` → PR opened automatically →
-lint + `diff_guard` run → §3.3 decides auto-merge or T1 review.
+**It is technically possible.** Ghost fires `post.edited` and `post.published.edited`
+webhooks (verified against Ghost's webhook docs), and the Admin API can return the post
+body, so a Worker can convert and open a PR.
 
-**Effort:** ~2 days (config + Pages + Access + the drift check).
+Four problems, in ascending order of severity:
+
+1. **Frontmatter has nowhere to live.** `supported_by`, `challenged_by`,
+   `evidence_strength`, `claim_type`, `last_reviewed` have no Ghost field. The most
+   consequential edits simply can't be made there, and write-back must merge body-only
+   while preserving git's frontmatter.
+2. **Diff noise destroys reviewability.** Markdown → HTML → Ghost Lexical → back to
+   Markdown will not round-trip byte-identically. Naive write-back produces a PR that
+   rewrites the entire file, so "one sentence changed" and "400 lines reformatted" look
+   the same to a reviewer. Fixable — normalize both sides and patch only changed blocks —
+   but it's fiddly, and it needs re-testing whenever Ghost's editor output shifts.
+3. **Two masters, no lock.** Sync is one-way today, so no race exists. Make Ghost writable
+   and an agent merging to `main` can collide with an editor mid-edit; last writer wins,
+   silently. Needs a per-slug lease that blocks sync while a Ghost edit is outstanding.
+4. **It inverts the publish gate — the disqualifying one.** Ghost's role model, checked
+   against Ghost's staff-roles documentation, has **no role that can edit an existing
+   published post without also being able to publish it**: Contributors can only edit
+   *their own drafts*, and the minimum role for editing someone else's published post is
+   **Editor**, which publishes. So anyone who can fix a wiki page in Ghost can also push it
+   live instantly — before lint, before `diff_guard`, before T1. The write-back PR would
+   then document a change that is *already public*, turning review-then-publish into
+   publish-then-review on a site whose whole claim is that every assertion was checked
+   first.
+
+**If you want it anyway** — and there's a fair case for a "fix an obvious typo without
+leaving the site" path — the narrow version is: allow it, scope it to Tier A-shaped changes
+(§3.3), implement block-level diffing and the per-slug lease, and accept publish-then-review
+with a bot that opens the PR and pings T1 immediately. **Sequence it after §3.1**, because
+if the diff editor is good, most of the demand for editing in Ghost disappears — and it
+would then be an optional convenience rather than the load-bearing editor path.
 
 ### 3.3 Trust model and auto-merge — the part that needs care
 
@@ -236,17 +268,21 @@ lead the digest, not be a footnote.
 
 ### Stage 3 build order
 
-1. **diff_guard + editors.yml** (§3.3) — the gate must exist before any path that could
-   auto-merge into it. Nothing else in Stage 3 is safe first.
-2. **Suggest-a-change** (§3.1) — highest value per unit effort, lowest risk (Issues only,
-   no write path to content).
-3. **Digest** (§3.4) — independent, gives the community something to subscribe to before
-   the CMS lands.
-4. **CMS** (§3.2) — largest surface, most upstream risk; do it once the gates and the
-   contribution norms are proven.
+1. **diff_guard + editors.yml** (§3.3) — the gate must exist before any path that opens
+   PRs into it. Nothing else in Stage 3 is safe first.
+2. **Diff editor, Tier 1** (§3.1) — public section-level editing with the live diff.
+   Highest value per unit effort, and it proves the submit→PR pipeline end to end.
+3. **Digest** (§3.4) — independent of the rest; gives the community something to
+   subscribe to while Tier 2 is built.
+4. **Diff editor, Tier 2** (§3.1) — Cloudflare Access, full-file editing, frontmatter
+   fields generated from lint's schema, GitHub OAuth attribution.
+5. *Optional, only if still wanted:* the narrow Ghost write-back path (§3.2).
 
-A `CONTRIBUTING.md` should land with step 2 — the suggestion form needs something to link
-to that explains the evidence standard in full.
+A `CONTRIBUTING.md` should land with step 2 — the editor needs something to link to that
+explains the evidence standard in full.
+
+**Total: roughly 6–8 days of build**, against ~5–6 for the original two-component plan.
+The extra day or two removes the Decap dependency and the schema-drift bug class.
 
 ---
 
