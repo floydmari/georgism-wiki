@@ -76,9 +76,13 @@ export default {
           EDITOR_HTML.replaceAll("__SLUG__", m[1])
                      .replaceAll("__TS_SITEKEY__", env.TURNSTILE_SITEKEY || ""));
       if ((m = pathname.match(/^\/wiki\/([a-z0-9-]+)\/history\/?$/)))
-        return pageHistory(m[1], env);
+        return Response.redirect(`https://www.progress.org/wiki-history/?slug=${m[1]}`, 302);
       if ((m = pathname.match(/^\/wiki\/([a-z0-9-]+)\/cite\/?$/)))
-        return pageCite(m[1], env);
+        return Response.redirect(`https://www.progress.org/wiki-cite/?slug=${m[1]}`, 302);
+      if ((m = pathname.match(/^\/api\/history\/([a-z0-9-]+)$/)))
+        return apiHistory(m[1], env);
+      if ((m = pathname.match(/^\/api\/cite\/([a-z0-9-]+)$/)))
+        return apiCite(m[1], env);
       if (pathname === "/api/comment" && request.method === "POST")
         return apiComment(request, env);
       if ((m = pathname.match(/^\/api\/page\/([a-z0-9-]+)$/)))
@@ -368,47 +372,48 @@ async function apiComment(request, env) {
   return json({ ok: true, issue: { number: issue.number, url: issue.html_url } });
 }
 
-/* ── History: reader-facing timeline from the commits API ────────────────── */
+/* ── History + Cite JSON APIs (consumed by the Ghost pages /wiki-history/ and
+      /wiki-cite/ on progress.org — the reader-facing chrome lives in the theme,
+      the data lives here; CORS-restricted to the site) ─────────────────────── */
 
-const historyCache = new Map();   // slug -> {at, html}
+const SITE_ORIGIN = "https://www.progress.org";
+const corsJson = (obj, status = 200) =>
+  new Response(JSON.stringify(obj), {
+    status,
+    headers: {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": SITE_ORIGIN,
+      "Cache-Control": "public, max-age=600",
+    },
+  });
 
-async function pageHistory(slug, env) {
+const historyCache = new Map();   // slug -> {at, data}
+
+async function apiHistory(slug, env) {
   const cached = historyCache.get(slug);
-  if (cached && Date.now() - cached.at < 10 * 60_000) return htmlResponse(cached.html);
+  if (cached && Date.now() - cached.at < 10 * 60_000) return corsJson(cached.data);
   const path = await slugToPath(slug, env);
-  if (!path) return json({ error: `no wiki page for slug '${slug}'` }, 404);
+  if (!path) return corsJson({ error: `no wiki page for slug '${slug}'` }, 404);
   const commits = await gh(env, "GET",
     `/repos/${env.OWNER}/${env.REPO}/commits?path=${encodeURIComponent(path)}&per_page=50`);
-  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const rows = commits.map((c) => {
-    const msg = c.commit.message;
-    const subject = esc(msg.split("\n")[0]);
-    const cred = (msg.match(/^Suggested-by: (.+)$/m) || [])[1];
-    const date = (c.commit.author?.date || "").slice(0, 10);
-    return `<li><span class="d">${date}</span> <span class="s">${subject}</span>` +
-      (cred ? ` <span class="cred">· suggested by ${esc(cred)}</span>` : "") +
-      ` <a class="diff" href="${c.html_url}" rel="nofollow">view change</a></li>`;
-  }).join("\n");
-  const html = CHROME_HTML
-    .replace("__TITLE__", `History — ${esc(slug)}`)
-    .replace("__BODY__", `
-  <h1>Edit history — <code>${esc(slug)}</code></h1>
-  <p class="sub">Every change to this page, oldest at the bottom. This is the unedited
-  record from the wiki's <a href="https://github.com/${env.OWNER}/${env.REPO}">public
-  source repository</a> — entries by the editorial loop are authored as Progress LLM and
-  reviewed before publish; community suggestions carry their submitter's credit.</p>
-  <ul class="hist">${rows || "<li>No history found.</li>"}</ul>
-  <p><a href="https://github.com/${env.OWNER}/${env.REPO}/commits/${env.BASE_BRANCH}/${path}">Full history with diffs on GitHub →</a></p>
-  <p><a href="https://www.progress.org/wiki/${esc(slug)}/">← Back to the article</a></p>`);
-  historyCache.set(slug, { at: Date.now(), html });
-  return htmlResponse(html);
+  const data = {
+    slug, path,
+    repoUrl: `https://github.com/${env.OWNER}/${env.REPO}`,
+    fullHistoryUrl: `https://github.com/${env.OWNER}/${env.REPO}/commits/${env.BASE_BRANCH}/${path}`,
+    commits: commits.map((c) => ({
+      date: (c.commit.author?.date || "").slice(0, 10),
+      subject: c.commit.message.split("\n")[0],
+      suggestedBy: (c.commit.message.match(/^Suggested-by: (.+)$/m) || [])[1] || null,
+      diffUrl: c.html_url,
+    })),
+  };
+  historyCache.set(slug, { at: Date.now(), data });
+  return corsJson(data);
 }
 
-/* ── Cite: revision-pinned, copy-ready citations ─────────────────────────── */
-
-async function pageCite(slug, env) {
+async function apiCite(slug, env) {
   const path = await slugToPath(slug, env);
-  if (!path) return json({ error: `no wiki page for slug '${slug}'` }, 404);
+  if (!path) return corsJson({ error: `no wiki page for slug '${slug}'` }, 404);
   const [commits, fileRes] = await Promise.all([
     gh(env, "GET", `/repos/${env.OWNER}/${env.REPO}/commits?path=${encodeURIComponent(path)}&per_page=1`),
     fetch(`https://raw.githubusercontent.com/${env.OWNER}/${env.REPO}/${env.BASE_BRANCH}/${path}`,
@@ -417,66 +422,16 @@ async function pageCite(slug, env) {
   const md = await fileRes.text();
   const title = (md.match(/^title:\s*["']?(.+?)["']?\s*$/m) || [, slug])[1];
   const sha = commits[0]?.sha || "";
-  const shortSha = sha.slice(0, 7);
   const editDate = (commits[0]?.commit?.author?.date || new Date().toISOString()).slice(0, 10);
-  const year = editDate.slice(0, 4);
-  const today = new Date().toISOString().slice(0, 10);
-  const url = `https://www.progress.org/wiki/${slug}/`;
-  const perma = `https://github.com/${env.OWNER}/${env.REPO}/blob/${sha}/${path}`;
-  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const T = esc(title);
-  const cites = {
-    APA: `Progress.org Georgism Wiki. (${year}). <i>${T}</i> (rev. ${shortSha}). Progress.org. Retrieved ${today}, from ${url}`,
-    Chicago: `Progress.org Georgism Wiki. "${T}." Revision ${shortSha}, last modified ${editDate}. ${url}.`,
-    MLA: `"${T}." <i>Progress.org Georgism Wiki</i>, rev. ${shortSha}, ${editDate}, ${url}. Accessed ${today}.`,
-    BibTeX: esc(`@misc{georgismwiki-${slug},
-  title        = {${title}},
-  author       = {{Progress.org Georgism Wiki}},
-  year         = {${year}},
-  howpublished = {\\url{${url}}},
-  note         = {Revision ${shortSha} (${editDate}); permanent version: ${perma}}
-}`).replace(/\n/g, "<br>"),
-  };
-  const blocks = Object.entries(cites).map(([k, v]) =>
-    `<h2>${k}</h2><div class="cite" id="c-${k}">${v}</div>
-     <button class="copy" data-t="c-${k}">Copy</button>`).join("\n");
-  const html = CHROME_HTML
-    .replace("__TITLE__", `Cite — ${T}`)
-    .replace("__BODY__", `
-  <h1>Cite this page</h1>
-  <p class="sub"><b>${T}</b> — the citation is pinned to revision
-  <a href="${perma}"><code>${shortSha}</code></a> (${editDate}), so what you cite
-  never changes even when the page does.</p>
-  ${blocks}
-  <p><a href="https://www.progress.org/wiki/${esc(slug)}/">← Back to the article</a></p>
-  <script data-cfasync="false">
-  document.querySelectorAll(".copy").forEach(function(b){
-    b.addEventListener("click", function(){
-      var el = document.getElementById(b.dataset.t);
-      navigator.clipboard.writeText(el.innerText).then(function(){ b.textContent = "Copied!"; });
-    });
+  return corsJson({
+    slug, title, sha,
+    shortSha: sha.slice(0, 7),
+    editDate,
+    year: editDate.slice(0, 4),
+    url: `https://www.progress.org/wiki/${slug}/`,
+    permaUrl: `https://github.com/${env.OWNER}/${env.REPO}/blob/${sha}/${path}`,
   });
-  </script>`);
-  return htmlResponse(html);
 }
-
-const CHROME_HTML = `<!doctype html>
-<html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>__TITLE__</title>
-<style>
-  body { font-family:system-ui,sans-serif; color:#1a202c; background:#f7fafc; margin:0 }
-  main { max-width:46em; margin:2em auto; padding:0 1.2em; line-height:1.55 }
-  h1 { font-size:1.3em } h2 { font-size:.95em; margin:1.4em 0 .3em }
-  .sub { color:#555; font-size:.92em }
-  .hist { list-style:none; padding:0 } .hist li { padding:.45em 0; border-bottom:1px solid #e2e8f0; font-size:.9em }
-  .hist .d { color:#666; font-family:ui-monospace,monospace; margin-right:.6em }
-  .hist .cred { color:#2b6cb0 }
-  .hist .diff { float:right; font-size:.85em; color:#2b6cb0 }
-  .cite { background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:.8em; font-size:.9em }
-  .copy { margin:.4em 0 0; font:inherit; font-size:.8em; padding:.3em .9em; border:1px solid #cbd5e0; border-radius:6px; background:#fff; cursor:pointer }
-  a { color:#2b6cb0 }
-</style></head><body><main>__BODY__</main></body></html>`;
 
 /* ── plumbing ───────────────────────────────────────────────────────────── */
 

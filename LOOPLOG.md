@@ -3013,3 +3013,22 @@ against the unpatched file and "succeeded", leaving the UI half-built until a
 grep caught the missing tab markup. Patch scripts now write-per-step or assert
 first, and the lesson is logged here so the next builder greps for the feature
 string after any multi-part patch.
+
+---
+
+## 2026-08-07 (g) — Cite + History moved inside the progress.org UX (Floyd's ask)
+
+The two utility surfaces are now real Ghost pages rendered in the site's own chrome —
+/wiki-history/?slug=… and /wiki-cite/?slug=… — created idempotently by
+scripts/create_utility_pages.py (pages API accepts integration writes, unlike
+settings). Content fills client-side from new CORS-restricted JSON endpoints on the
+worker (/api/history/<slug>, /api/cite/<slug>, allow-origin www.progress.org only,
+10-min cache). The worker's old /wiki/<slug>/history|cite HTML pages became 302s to
+the Ghost pages, so the already-pasted footer snippet keeps working with NO repaste.
+Two implementation facts recorded: Ghost's ?source=html conversion STRIPS raw
+divs/scripts unless the block is wrapped in kg-card-begin/end html markers (verified
+by a live upsert that lost the fetch script); and these utility pages sit deliberately
+outside the git page corpus — sync_to_ghost.py never touches page-type resources, so
+§0's one-way rule holds, with create_utility_pages.py as their single source of truth.
+Verified live: 302 redirect chain, both pages 200 with scripts intact, cite JSON
+pinned to b2d375c, CORS header present.
