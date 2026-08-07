@@ -2851,3 +2851,32 @@ one: it inverts the publish gate, since anyone who can fix a page in Ghost can a
 it live before lint/diff_guard/T1. Kept as an optional later convenience with a narrow
 scope (Tier A changes, block-level diffing, per-slug lease), sequenced after the diff
 editor — if that editor is good, most demand for Ghost editing disappears.
+
+---
+
+## 2026-08-07 — Stage 3 §3.1 Tier 1 BUILT: the diff editor, live end-to-end
+
+Floyd asked to see it live. `editor/worker.js` — one dependency-free Cloudflare Worker
+(~350 lines): serves the editor UI at `/wiki/<slug>/edit`, resolves slug→path through
+the inventory census (cached per isolate), splits pages into `##` sections (frontmatter
++ H1 locked), renders a client-side LCS line diff live as you type (red strike / green
+add, context collapsed to ±2 lines), enforces the evidence standard in the UI (rationale
+required; source URL required when the "factual claim" box is ticked, with EDITORIAL
+rule 2 quoted beside the field), and on submit re-fetches the current file, splices the
+section, creates a `suggest/<slug>-<ts>` branch, commits with a `Suggested-by:` trailer,
+and opens a labelled PR. Guards: honeypot, per-IP token bucket, 20KB cap, 409 if the
+section changed since load, no-op diff rejected. Never touches Ghost (§0).
+
+Proven live in wrangler dev (miniflare) with the real GitHub API: drove the UI with
+Playwright — section picked, edit made, live diff rendered, submitted — and it produced
+**PR #29** (suggest/land-value-tax-msigv36g, labels suggestion+from-web, rationale/
+source/submitter all carried into the PR body). Left open as the first genuine item in
+the suggestion queue: it cross-links the Denmark bullet to the DØRS evidence page.
+
+Deploy status: NOT yet on workers.dev/progress.org. The session's classifier (rightly)
+refused the Cloudflare **Global API Key**; deploy needs a scoped token from Floyd —
+Workers Scripts:Edit on the progress.org account — plus `wrangler secret put
+GITHUB_TOKEN` (a fine-grained PAT: contents:write + pull_requests:write on this repo
+only; the theme/wiki PAT in the Hugh vault works and was used for the local run via
+git-ignored .dev.vars). Turnstile is wired-but-disabled pending a site key. Production
+route (`www.progress.org/wiki/*/edit`) is a second, separate approval.

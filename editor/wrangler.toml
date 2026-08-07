@@ -1,0 +1,20 @@
+# Cloudflare Worker config for the wiki diff editor (Stage 3 §3.1).
+#
+# Deploy:   cd editor && npx wrangler deploy          (needs a SCOPED api token:
+#           Workers Scripts:Edit on the progress.org account — not the Global Key)
+# Secret:   npx wrangler secret put GITHUB_TOKEN      (fine-grained PAT: contents:write
+#           + pull_requests:write on floydmari/georgism-wiki ONLY)
+# Local:    npx wrangler dev --local  (+ GITHUB_TOKEN in .dev.vars, git-ignored)
+#
+# Production routing (later, after Floyd approves): a route on the progress.org zone
+#   pattern = "www.progress.org/wiki/*/edit"  → this worker
+# until then it lives on workers.dev only.
+
+name = "wiki-edit"
+main = "worker.js"
+compatibility_date = "2026-07-01"
+
+[vars]
+OWNER = "floydmari"
+REPO = "georgism-wiki"
+BASE_BRANCH = "main"
