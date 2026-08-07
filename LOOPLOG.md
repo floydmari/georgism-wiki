@@ -2921,3 +2921,45 @@ already gone through review→amend→merge→Ghost sync, so every stage of the 
 now run against production infrastructure. Remaining before announcing to the community:
 Turnstile + rate limits on the Worker (abuse controls), the theme's "Suggest an edit"
 button, and CONTRIBUTING.md.
+
+---
+
+## 2026-08-07 (d) — editor hardened: Turnstile wired, real rate limits, injection containment
+
+Floyd's ask: captcha, rate limits, and prompt-injection protection on the live editor.
+All deployed to wiki-edit.progress.org (worker version ba456a1e→2a3f5fd9):
+
+**Injection containment** (threat model: every submission is adversarial and will later
+be read by human editors AND AI reviewing agents): (1) capability containment — the
+worker can only open a PR on suggest/* in one repo, so a "successful" injection is just
+spam; (2) invisible-character stripping (bidi overrides, zero-width, C0/C1) from every
+field including the proposed text — RLO tricks can make a diff RENDER differently than
+it applies, which attacks the review step itself; (3) untrusted-content envelope — all
+free-text is fenced as literal blocks under a GitHub CAUTION banner stating it is data,
+not instructions, with backticks swapped for U+02CB so the fence can't be terminated;
+(4) newline-stripping on everything reaching commit messages/titles/trailers (trailer
+forgery), and the section heading used in messages is the one FOUND in the file, not
+the client's copy. Same policy stated for reviewers in CONTRIBUTING.md (new).
+
+**Rate limits**: native Cloudflare ratelimit binding (atomic, cross-isolate, 5/min/IP)
++ KV hourly ledger (10/hr/IP) + the in-isolate bucket as local-dev fallback. Diagnostic
+note: initial live tests showed zero 429s across 12 rapid posts — root cause was NOT
+the limiter but the agent sandbox's egress proxy rotating IPs per request (verified via
+ipify: 4 requests, 4 IPs), so every probe looked like a new client. /api/health (new)
+confirms limiter+kv bindings attached; a single-IP client tripping 429s is the one
+remaining manual check (Floyd can hammer submit 6× to see it).
+
+**Turnstile**: wired end to end (server-side siteverify + widget render), dormant
+behind REQUIRE_TURNSTILE=0 because widget creation needs the Turnstile:Edit scope the
+API token lacks. One step to arm it.
+
+**Same-origin check** on submit (cross-origin POST → 403, verified live). **Deploy
+quirk documented**: a `routes` entry in wrangler.toml makes wrangler fail AFTER upload
+(zone-scope read it lacks) and silently never activate the new version — the custom
+domain is attached server-side and deliberately not declared in config.
+
+**Ghost button**: BLOCKED on a real Ghost limitation — integrations can read but not
+WRITE settings (403 on codeinjection_foot PUT), so the site-wide "Suggest an edit"
+button needs 30 seconds of staff hands in Ghost Admin (snippet handed to Floyd via
+scripts/inject_suggest_button.py, append-only + idempotent + --remove, kept for a
+staff-session future or manual paste).
