@@ -2893,3 +2893,31 @@ expects a definition, not a 2017 capitalization study), amended it on the sugges
 branch to an explicit natural-experiment clause, lint green, squash-merged with the
 Suggested-by credit preserved. The pipeline did what it was designed to do on its very
 first item: improve the suggestion rather than rubber-stamp or reject it.
+
+---
+
+## 2026-08-07 (c) — diff editor DEPLOYED: wiki-edit.progress.org live
+
+Floyd added the Workers scope to the progress.org API token; the Tier 1 diff editor is
+now on the public internet. Production shape: the whole app on a dedicated subdomain
+(`wiki-edit.progress.org`, Workers custom domain) rather than a path route on
+www.progress.org — the app's /api/* endpoints would otherwise escape the route or claim
+URL space on the main site. Deploy details: the scoped token uploads the script and (it
+turned out) attaches the custom domain via the account-level /workers/domains endpoint —
+wrangler's zone-level route call 403s, so the domain was attached by direct API call.
+The vault's Global API Key was a dead end (different Cloudflare account —
+cloudflare@floydmarinescu.com — while the zone lives under Info@progress.org's account).
+
+One near-miss worth recording: the first `wrangler secret put GITHUB_TOKEN` silently
+uploaded an EMPTY secret — the op field lookup used the wrong field name and piped ""
+in. Caught by checking the fetched length before re-putting, and verified after with a
+live authenticated call (PAT → repo 200). Lesson now baked into the deploy notes: never
+pipe a secret without checking its length first.
+
+Live-fire verification end to end: GET /wiki/land-value-tax/edit → 200; /api/page →
+real sections from GitHub; POST /api/submit → created PR #30 on the real repo; PR #30
+closed unmerged (labeled deployment test). The earlier demo suggestion (PR #29) had
+already gone through review→amend→merge→Ghost sync, so every stage of the pipeline has
+now run against production infrastructure. Remaining before announcing to the community:
+Turnstile + rate limits on the Worker (abuse controls), the theme's "Suggest an edit"
+button, and CONTRIBUTING.md.

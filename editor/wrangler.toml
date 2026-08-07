@@ -6,13 +6,20 @@
 #           + pull_requests:write on floydmari/georgism-wiki ONLY)
 # Local:    npx wrangler dev --local  (+ GITHUB_TOKEN in .dev.vars, git-ignored)
 #
-# Production routing (later, after Floyd approves): a route on the progress.org zone
-#   pattern = "www.progress.org/wiki/*/edit"  → this worker
-# until then it lives on workers.dev only.
+# Production routing (deployed 2026-08-07, Floyd's go-ahead): the whole app lives on a
+# dedicated subdomain — wiki-edit.progress.org — as a Workers custom domain. A path route
+# on www.progress.org was rejected because the app's /api/* endpoints would either escape
+# the route or claim URL space on the main site. The theme's "Suggest an edit" button
+# links to https://wiki-edit.progress.org/wiki/<slug>/edit.
 
 name = "wiki-edit"
 main = "worker.js"
 compatibility_date = "2026-07-01"
+workers_dev = false
+
+routes = [
+  { pattern = "wiki-edit.progress.org", custom_domain = true }
+]
 
 [vars]
 OWNER = "floydmari"
