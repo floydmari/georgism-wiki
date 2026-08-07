@@ -191,6 +191,60 @@ with a bot that opens the PR and pings T1 immediately. **Sequence it after §3.1
 if the diff editor is good, most of the demand for editing in Ghost disappears — and it
 would then be an optional convenience rather than the load-bearing editor path.
 
+### 3.2b The metadata card trio: Edit · History · Cite (+ general suggestions)
+
+*Added 2026-08-07, after the Tier 1 editor went live. The theme's Entry Metadata card
+ships three placeholder buttons (all pointing at `/wiki/about/`); Edit is now wired to
+the live editor via the footer snippet. This section designs the other two, plus Floyd's
+ask that people can leave a general suggestion without editing text.*
+
+All three extend the **existing wiki-edit Worker** — it already resolves slug→path via
+the inventory, holds the scoped GitHub token, and carries the Turnstile/rate-limit/
+sanitization stack. No new services, no new secrets. The footer snippet wires the two
+remaining card buttons the same way it wired Edit.
+
+**History — `wiki-edit.progress.org/wiki/<slug>/history`.** A reader-facing timeline of
+every change to the page: the Worker calls the GitHub commits API for the file's path
+(response cached ~10 min per slug) and renders date · commit subject · `Suggested-by`
+credit when present · a "view exact change" link to the GitHub diff, with a "full
+history on GitHub" link at the bottom (verified live: the public commits URL for a page
+file returns 200). Honesty note, by design: commit subjects are shown as they are —
+including the editorial loop's wave-jargon ones — because the unedited record *is* the
+feature; the page frames agent commits with the same "Progress LLM" attribution the
+metadata card already uses. Read-only route, no auth, inherits the Worker's rate
+limiting.
+
+**Cite — `wiki-edit.progress.org/wiki/<slug>/cite`.** The Worker fetches the page's
+frontmatter (title) plus the file's latest commit sha/date, and renders copy-ready
+citations in APA, Chicago, MLA and BibTeX, each with a copy button. Two details that
+make it worth citing rather than generically linkable:
+- **Revision pinning**: every citation carries "Revision `<short-sha>`, <date>" and a
+  permalink to the GitHub blob at that sha — the page *as cited*, immune to later
+  edits. This is the §5.3 "cite this page" widget, pulled forward.
+- Author is "Progress.org Georgism Wiki" with the entry title quoted — matching how
+  style guides cite collectively-authored encyclopedic sources, not pretending a
+  personal author.
+
+**General suggestions — no text edit required (Floyd, 2026-08-07).** The editor page
+gains a second mode: alongside "edit the text," a plain **"Leave a general
+suggestion"** path — for "this page should cover X," "this claim seems off but I can't
+fix it," reading recommendations. Mechanics:
+- UI: a toggle on the same `/wiki/<slug>/edit` page (one URL to wire), swapping the
+  section-editor panes for a single comment box + optional source URL + optional name.
+- Backend: `POST /api/comment` → a GitHub **Issue** (labels `suggestion`, `general`),
+  NOT a PR — there is no diff to preserve, which is precisely the case where the
+  original Issue design (§3.1 first draft) was correct. The PR-vs-Issue rule in one
+  line: **diff → PR; prose → Issue.**
+- Same protections as submit: Turnstile, both rate-limit layers, honeypot,
+  invisible-char stripping, and the untrusted-content envelope (CAUTION banner +
+  fenced text) in the Issue body. The PAT needs `issues: write` added to its scopes.
+- Triage: labelled Issues join the loop's queue lane — the wakeup routine disposes
+  them like scanner items (the T0 brief step applies unchanged: a suggestion that
+  names a source is a queue item with a URL).
+
+Effort, all three together: roughly a day in the existing Worker + one footer-snippet
+update + `issues: write` on the PAT.
+
 ### 3.3 Trust model and auto-merge — the part that needs care
 
 Floyd's spec: *"PRs from known editors with passing lint merge automatically."*
