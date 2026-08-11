@@ -5,7 +5,7 @@ category: research
 excerpt: 'Gaffney''s 1992 study of US farmland: a 40% fall in farm property tax
   rates (1930-87) coincided with farm concentration nearly doubling, and states
   with higher rates show more equal, more intensively improved farmland.'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf
 stub: false
 subcategory: wiki-research-urban

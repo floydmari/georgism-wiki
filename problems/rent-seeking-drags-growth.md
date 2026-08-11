@@ -8,7 +8,7 @@ evidence_strength: "Moderate (strong theory and historical evidence; direct empi
 supported_by: [murphy-shleifer-vishny-allocation-talent, murphy-shleifer-vishny-rent-seeking-growth, baumol-unproductive-entrepreneurship, rothschild-scheuer-rent-seeking, acemoglu-johnson-robinson-colonial-origins, tullock-transitional-gains-trap, mazzucato-mapping-rents]
 challenged_by: [ansolabehere-money-in-politics]
 excerpt: "When capturing existing wealth pays better than creating new wealth, talent and effort flow into rent-seeking and growth suffers — the mainstream-economics core of the Georgist diagnosis, with strong theory and historical evidence but contested magnitudes."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-08-10
 ---
 
 > **At a glance** — When capturing existing wealth pays better than creating it, talent and resources shift from production into rent-seeking and growth falls — a mechanism strongly grounded in theory and history, though its aggregate magnitude is not pinned down.

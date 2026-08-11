@@ -4,7 +4,7 @@ category: problems
 claim_type: problem
 tags: [outcomes, capitalization, infrastructure, transit, land-value-capture]
 stub: false
-last_reviewed: 2026-07-13
+last_reviewed: 2026-08-10
 evidence_strength: "Strong (large, consistent empirical literature)"
 supported_by: [gibbons-machin-rail-access, mohammad-rail-meta-analysis, oates-1969-capitalization, albouy-what-are-cities-worth, arnott-stiglitz-henry-george-theorem, he-sun-metro-housing-premiums, gibbons-machin-school-premiums, hilber-capitalization-synthesis, medda-modelewska-warsaw-metro]
 excerpt: "Transit lines, parks, and public services raise the value of nearby land — the empirical foundation for the Henry George Theorem and land value capture."
