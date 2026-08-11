@@ -145,7 +145,7 @@ peak-year list, in Hoyt's own words:
 sequence of events (steps 1–20) runs from p. 373 to p. 403, and Hoyt closes it by explicitly
 denying that the cycle is self-perpetuating:
 
-> 20. Ready for another boom which does not come automatically.—From this account it might be
+> 20\. Ready for another boom which does not come automatically.—From this account it might be
 > inferred that the real estate cycle automatically repeats itself. Such is by no means the
 > case.... the recurrence of land booms in Chicago in the future will depend on the expansion
 > of industrial opportunities which attract a sudden accession of population.

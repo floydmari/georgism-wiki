@@ -47,7 +47,35 @@ import frontmatter
 import markdown as md
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _secrets import require_ghost   # resolves from env or 1Password (op)
+from _secrets import require_ghost, _op_item_field   # resolves from env or 1Password (op)
+
+# ─── Ghost→git write-back echo suppression (2026-08-15) ────────────────────
+# Every upsert below makes Ghost fire its post.published.edited webhook at the
+# wiki-edit worker (the Ghost→git write-back path). Marking the slug right
+# after pushing lets the worker recognize that webhook as OUR OWN echo and
+# skip it. Best-effort: if the key is unreachable the worker falls back to
+# its content-comparison echo-guard, so syncs never fail over this.
+WORKER_URL = "https://wiki-edit.progress.org"
+_WEBHOOK_KEY_ITEM = "m7iaupaha7o3wl24lmbn32lokq"   # "Wiki Ghost Webhook Key (wiki-edit worker)"
+_webhook_key = None
+
+def _get_webhook_key():
+    global _webhook_key
+    if _webhook_key is None:
+        _webhook_key = (os.environ.get("GHOST_WEBHOOK_KEY")
+                        or _op_item_field("Emma - Floyd Agent", _WEBHOOK_KEY_ITEM, "credential")
+                        or "")
+    return _webhook_key
+
+def mark_synced(slug):
+    key = _get_webhook_key()
+    if not key:
+        return
+    try:
+        requests.post(f"{WORKER_URL}/api/sync-mark",
+                      params={"key": key, "slug": slug}, timeout=10)
+    except Exception:
+        pass
 
 _KEY, GHOST_URL = require_ghost()
 GHOST_URL = GHOST_URL.rstrip("/")
@@ -195,6 +223,11 @@ def upsert(path):
         "authors": [{"slug": "progress-llm"}],             # all wiki entries attributed to Progress LLM
         "tags": build_tags(fm, folder),
     }
+
+    # Mark BEFORE pushing — Ghost fires the webhook on the PUT itself, so marking
+    # afterwards can lose the race. A mark with no webhook (failed upsert) is
+    # harmless: it just expires.
+    mark_synced(slug)
 
     # Does it already exist?
     r = requests.get(f"{GHOST_URL}/ghost/api/admin/posts/slug/{slug}/", headers=headers())
