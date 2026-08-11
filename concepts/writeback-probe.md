@@ -8,23 +8,19 @@ last_reviewed: 2026-08-15
 ---
 ## Overview
 
-This is a temporary probe page created by the wiki maintenance loop to test the Ghost-to-git write-back pipeline. It was edited by a trusted admin in Ghost and exercises **bold**, *italic*, and a [link to the wiki index](https://www.progress.org/wiki/land-value-tax/).
+This is a temporary probe page created by the wiki maintenance loop to test the Ghost-to-git write-back pipeline. It was edited by a trusted admin in Ghost and exercises **bold**, *italic*, and a [link to the wiki index](/wiki/land-value-tax/).
 
 ## A list section
 
-- First bullet with a [link](https://www.progress.org/wiki/henry-george/)
-- Second bullet, definitive-test edit
+- First bullet with a [link](/wiki/henry-george/)
+- Second bullet, definitive-test edit, final round
 - Third bullet added in Ghost
 - Fourth bullet, second admin edit
 
 ## A table section
 
-<!--kg-card-begin: html-->
-
 | Column A | Column B |
 | --- | --- |
 | one | two |
-
-<!--kg-card-end: html-->
 
 > A short blockquote to round-trip. Third edit for tail visibility.
