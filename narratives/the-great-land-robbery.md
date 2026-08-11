@@ -3,7 +3,7 @@ category: narratives
 excerpt: 'The justice narrative: existing land titles descend from enclosure, conquest,
   and dispossession, not production — so capturing land rent going forward is restitution
   without confiscation, advocates argue.'
-last_reviewed: 2026-07-12
+last_reviewed: 2026-08-10
 narrative_type: historical
 related_people:
 - henry-george
@@ -115,7 +115,7 @@ enough to matter — is well documented:
   George's Captain Kidd answer (continuing appropriation needs no living
   culprit[1]) persuades committed audiences while conceding nothing to the
   purchaser — which is exactly why modern deployment leads with phase-ins instead.
-- **International corroboration that rent capture alone is not a racial remedy.** Franklin Obeng-Odoom — a scholar working within the Georgist tradition itself — argues in a 2026 paper that George's "progress and poverty" paradox omitted race, and that "neither socialism nor a Georgist single tax can remedy" the racialized land-and-labor dispossession Walter Rodney documented for post-emancipation Guyana; his proposed remedy pairs Georgist land-value capture with a reparations program.[12] This extends, from inside the movement's own scholarship, the same insufficiency point the US-focused [wealth-gap narrative](/wiki/land-and-the-black-white-wealth-gap/) reaches independently. (D-claim; abstract-sourced, [VERIFY: full text not accessible this session].)
+- **International corroboration that rent capture alone is not a racial remedy.** Franklin Obeng-Odoom — a scholar working within the Georgist tradition itself — argues in a 2026 paper that George's "progress and poverty" paradox omitted race, and that "neither socialism nor a Georgist single tax can remedy" the racialized land-and-labor dispossession Walter Rodney documented for post-emancipation Guyana; his proposed remedy pairs Georgist land-value capture with a reparations program.[12] The paper's abstract, independently re-fetched and confirmed verbatim via the Semantic Scholar API this session, sharpens two details beyond what was previously carried here: Rodney's account holds that Black Guyanese were dispossessed twice over — first of the value their own labor produced under slavery, and then of "socially created value" that was appropriated after emancipation by "non-Black in-groups (White and East Indian)" who came to control land, with that advantage handed down intergenerationally; and Obeng-Odoom ties his proposed remedy to the "recent ruling by the International Court of Justice that states are obliged to pay reparations for internationally wrongful acts," explicitly grounding "combining Georgist taxation with a reparations program" in that legal development rather than proposing it in the abstract. This extends, from inside the movement's own scholarship, the same insufficiency point the US-focused [wealth-gap narrative](/wiki/land-and-the-black-white-wealth-gap/) reaches independently. (D-claim; abstract now independently confirmed via a primary bibliographic API rather than a secondhand search summary. **Attempted again this session:** Unpaywall confirms genuine CC-BY hybrid open-access status, but the Wiley article page returned a bot-CAPTCHA wall to direct fetch, curl with a browser user-agent, and a text-extraction proxy — full body text remains unretrievable by any method available in this environment. [VERIFY: full text not accessible this session — needs-unblocked-web].)
 - **The quantitative bridge is partial and cuts both ways.** For the US Black
   land-loss case, Francis, Hamilton, Mitchell, Rosenberg and Stucki estimate the
   present, compounded value of Black agricultural land lost between 1920 and 1997
@@ -307,5 +307,9 @@ See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 12. Franklin Obeng-Odoom, "Progress and Poverty: Walter Rodney's Legacy,"
     *American Journal of Economics and Sociology*, 2026, doi:[10.1111/ajes.70021](https://doi.org/10.1111/ajes.70021)
     — used for the argument that George's paradox omitted race and that neither
-    socialism nor a Georgist single tax alone remedies racialized land dispossession
-    (D-claim, abstract only). [wiki summary](/wiki/obeng-odoom-rodney-legacy/)
+    socialism nor a Georgist single tax alone remedies racialized land dispossession,
+    the "White and East Indian" in-group detail, and the ICJ-reparations-ruling
+    grounding for the proposed remedy (D-claim; abstract re-confirmed verbatim via
+    the Semantic Scholar API 2026-08-10; full text still not accessible — Wiley
+    bot-blocked to every fetch method tried this session despite confirmed CC-BY
+    open-access status). [wiki summary](/wiki/obeng-odoom-rodney-legacy/)

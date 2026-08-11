@@ -91,7 +91,7 @@ evidence for the capitalization finding itself.
 The modern transit-uplift literature above is overwhelmingly urban. An
 earlier Gaffney essay documents the same capitalization mechanism in a
 different domain entirely: 1960s US federal agricultural policy. In "The
-Benefits of Farm Programs" (1966), Gaffney catalogues how federal
+Benefits of Farm Programs" (1967), Gaffney catalogues how federal
 reclamation projects, price-discriminated rural power and water rates,
 uniform "postage-stamp" utility and freight pricing that subsidizes remote
 extensions from an urban rate base, disproportionate rural highway mileage,
@@ -138,7 +138,7 @@ here (Gibbons–Machin, He et al.) rely on quasi-experimental designs.
 - [He, Sun, Li & Webster (2024): New Metro and Housing Price and Rent Premiums — A Natural Experiment in China](/wiki/he-sun-metro-housing-premiums/) — a modern causal (natural-experiment DID) corroboration from Shenzhen, with a rent-distance gradient
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
 - [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the pre-Stiglitz informal statement of the same capitalization mechanism
-- [Gaffney (1966): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the same capitalization mechanism documented in 1960s US rural public works, a pre-1970s agricultural case
+- [Gaffney (1967): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the same capitalization mechanism documented in 1960s US rural public works, a pre-1970s agricultural case
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Henry George Theorem](/wiki/henry-george-theorem/) · [Unearned Increment](/wiki/unearned-increment/)
 
@@ -156,7 +156,7 @@ here (Gibbons–Machin, He et al.) rely on quasi-experimental designs.
    17–34 — used for the pre-Stiglitz informal statement of the capitalization mechanism
    and the logrolling argument (C-claim, attributed, historical context only). [wiki
    summary](/wiki/gaffney-urban-land-rent/)
-4. Mason Gaffney (1966), "The Benefits of Farm Programs: Incidence, Shifting, and
+4. Mason Gaffney (1967), "The Benefits of Farm Programs: Incidence, Shifting, and
    Dissipation," *American Journal of Economics and Sociology* — used for the
    rural-public-works and subsidized-credit capitalization catalogue (B-claim,
    descriptive survey, historical context only). [wiki summary](/wiki/gaffney-benefits-farm-programs/)

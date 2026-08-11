@@ -6,7 +6,7 @@ excerpt: 'Two Gaffney essays on how resource rent leaks away from the public pur
   through two different institutional channels: weak Canadian crown-land leasing design
   (eight named errors) and US federal income-tax loopholes specific to oil and gas
   (led by an 80%-of-cost leasehold-abandonment deduction.'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -51,10 +51,16 @@ constitutional question of provincial versus federal taxing power over Crown
 lands under section 125 of the British North America Act.[1] Internal
 references to a 1974 royalty-deductibility fight and 1975 British Columbia
 gas-pricing data place it in the mid-1970s; masongaffney.org does not date it
-more precisely. `[VERIFY: exact publication year and venue not established
-this session — the essay reads as a book chapter or commissioned report for
-a Canadian audience, but no publisher or journal name survives in the text
-extracted]`
+more precisely. **Channels exhausted, 2026-08-10:** exact publication year
+and venue remain unconfirmed despite this session's search (library-catalog-
+style searches and Fraser Institute/Canadian Tax Foundation/IRPP searches
+all came up empty). One point is now confirmed rather than inferred,
+though: the essay's own text states "[t]he positive art of securing rent
+from minerals is the subject of *other articles in this volume*" (emphasis
+added) — direct internal evidence this is a chapter in a multi-author
+edited volume, not a solo report, tightening (without fully resolving) the
+earlier "reads as a book chapter or commissioned report" guess. The
+volume's editor and publisher were not identified this session.
 
 **"Oil and Gas: The Unfinished Tax Reform"** is a US federal tax-policy essay
 citing 1981 tax-law changes and *Business Week*/*Los Angeles Times* reporting
@@ -287,8 +293,9 @@ side, examined here from the tax-code side instead.
 ## Standing and Limits
 
 Both essays are **advocacy/policy pieces**, not peer-reviewed articles — B4
-is undated on masongaffney.org and this page's publication year is a
-`[VERIFY]`ed estimate from internal evidence; B13's factual claims (the
+is undated on masongaffney.org and this page's publication year is an
+estimate from internal evidence (see the channels-exhausted note above);
+B13's factual claims (the
 12.4% average tax rate, the 188-million-acre figure, the Getty reserve
 data) rest on Gaffney's own citations of 1980–82 trade press (*Business
 Week*, *Los Angeles Times*) and SEC filings rather than on independently
@@ -334,8 +341,9 @@ corpus already on the wiki.
    — used for the entire Part I section: the eight named leasing errors, the
    rent/profit accounting identity, and the British North America Act
    section 125 constitutional discussion. Native, `pdftotext`-extractable
-   text (no OCR needed); publication venue and precise year not established
-   this session — `[VERIFY]`. Fetched this session from the local mirror.
+   text (no OCR needed); publication venue and precise year remain
+   unconfirmed (channels exhausted 2026-08-10 — see Overview and Standing
+   and Limits). Fetched this session from the local mirror.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf);
    local mirror at
    `scratchpad/cache/gaffney-mirror/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf`;

@@ -5,7 +5,7 @@ tags: [concepts, land-value-capture, betterment, public-finance, infrastructure]
 stub: false
 excerpt: "The broad family of public-finance tools that recover, for public benefit, the land-value increases created by public investment and community growth."
 pd_quotes: true
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-10
 ---
 
 ## Definition
@@ -31,29 +31,40 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 ## Recent Case Studies and Critiques (2025–26)
 
 - **Grand Paris Express (France).** [Maulat & Aveline-Dubach (2025)](https://doi.org/10.1016/j.landusepol.2025.107854),
-  in *Land Use Policy*, trace how the Société des Grands Projets — the state body building
-  Europe's largest ongoing metro expansion — shifted its land-value-capture approach from
-  tax-based instruments toward development-based ones, enabling over 100 real-estate
-  projects on metro-acquired public land near future stations. The paper reports
-  considerable heterogeneity across these projects in partnerships, programme mix, and
-  affordable-housing share, shaped by local negotiation and trade-offs between the state
-  developer, municipalities, and private developers. **[VERIFY]:** the wiki could not access
-  the paper's full text (both the ScienceDirect publisher page and the authors' HAL preprint
-  sit behind bot-protection this session); the summary above is built from the published
-  abstract and consistent third-party characterizations of the paper's argument, not a
-  direct read.
+  in *Land Use Policy*, examine the land-value-capture (LVC) mechanisms adopted for the
+  Grand Paris Express — one of Europe's largest ongoing urban transit projects, led by the
+  state-owned Société des Grands Projets (SGP) — combining LVC literature with the
+  sociology of policy instruments, drawing on documentary analysis and interviews with SGP
+  and transport/planning-institution representatives. They find a shift in LVC from a
+  tax-based to a development-based instrument, resulting in **around eighty** real-estate
+  projects launched on land acquired for the metro. While the resulting projects — shaped
+  by local trade-offs and marked by heterogeneity — support transit-oriented development
+  and housing production near stations, the paper's own conclusion is sharper than mere
+  variation: "the design of the development-based instrument undermines the provision of
+  affordable housing," and the authors call for further research on the interconnections
+  between infrastructure financing, LVC policy instrumentation, and urban planning. The
+  wiki's earlier draft of this paragraph overstated the project count (previously "over
+  100," corrected to the abstract's own "around eighty") and understated the affordable-
+  housing finding (previously read as neutral "heterogeneity," corrected to the paper's own
+  claim that the instrument's *design* undermines affordable-housing provision). This
+  correction is sourced from the paper's full bilingual abstract, retrieved this session via
+  the CORE.ac.uk aggregator's mirror of the HAL repository record — the underlying
+  ScienceDirect and HAL pages themselves remained bot-blocked (Anubis/Cloudflare
+  challenges) to every fetch method tried; no claim below the abstract level is made.
 - **England ("Who should own the value of land?", 2026).** A UK Collaborative Centre for
-  Housing Evidence (CaCHE) report by **Edward Shepherd and Tim White** (Cardiff
-  University) argues that land value capture, as currently practised in England, "manages"
-  the structural flaws of the existing land, housing, and development settlement without
-  resolving them — that the persistence of unequal land-value gains is not a technical
-  policy-design failure but a structural one, and that closing the gap would require more
-  ambitious social-redistributive measures alongside a wider range of less speculative
-  development models. **[VERIFY]:** this characterization is drawn from the CaCHE project
-  page's own description and consistent secondary summaries; the wiki could not retrieve
-  the report's PDF directly (the Cardiff University ORCA repository copy sits behind a
-  bot-challenge this session), so no direct quotation or page-level claim from the report
-  itself is reproduced here.
+  Housing Evidence (CaCHE) report by **Edward Shepherd** (Cardiff University) and
+  **Tim White** (King's College London), drawing on over 50 interviews, argues that land
+  value capture, as currently practised in England, "manages and holds together the
+  structural flaws of the existing land, housing and development settlement without
+  resolving them" — that the persistence of unequal land-value gains is not a technical
+  policy-design failure but a structural one, and that "what is truly needed are more
+  ambitious social-redistributive measures involving landed property and its value
+  combined with a wider range of less speculative development models." This wording is
+  quoted directly from the CaCHE project page's own summary of the report, fetched
+  successfully this session; the report's full PDF (Cardiff University's ORCA repository
+  copy) remained behind a bot-challenge on every fetch attempt this session, so no
+  page-level or section-level claim from the full report is made — only the project page's
+  own two direct quotations above.
 
 ## Book Findings
 
@@ -99,5 +110,5 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 2. Dye & England (2010) — used for the relationship between value capture and land value taxation (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
 3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II — used for the rate-rent mechanism as LVC (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)
 4. Greg Miller, "Don't Reject Data Centers. Negotiate Harder.", *Progress and Poverty* (Substack), 6 May 2026. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/dont-reject-data-centers-negotiate) — used for the Loudoun County (VA) and Columbus (OH) data-center tax-revenue and abatement figures (B-claim, advocacy-institute source).
-5. Juliette Maulat & Natacha Aveline-Dubach, "Shifting land value capture instruments for the Grand Paris Express metro," *Land Use Policy* 161 (2026): 107854. [DOI](https://doi.org/10.1016/j.landusepol.2025.107854) — used for the Grand Paris Express case (B-claim, abstract-level; full text not accessed — see [VERIFY] note above).
-6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument (D-claim, secondary characterization; full text not accessed — see [VERIFY] note above).
+5. Juliette Maulat & Natacha Aveline-Dubach, "Shifting land value capture instruments for the Grand Paris Express metro," *Land Use Policy* 161 (2026): 107854. [DOI](https://doi.org/10.1016/j.landusepol.2025.107854) — used for the Grand Paris Express case (B-claim, full bilingual abstract read via [CORE.ac.uk's mirror of the HAL repository record](https://api.core.ac.uk/v3/search/works/?q=doi:10.1016/j.landusepol.2025.107854), fetched 2026-08-10; the ScienceDirect and HAL full-text pages themselves remain bot-blocked).
+6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument, now with two direct quotations from the project page's own summary, fetched successfully 2026-08-10 (D-claim; the full report PDF remains bot-blocked, so quotation is limited to what the project page itself reproduces).

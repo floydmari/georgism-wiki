@@ -201,18 +201,19 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-07: 65 of 88 marker(s) not yet routed by hand (18 page(s) already curated above).*
+*Regenerated 2026-08-10: 28 of 51 marker(s) not yet routed by hand (18 page(s) already curated above).*
 
-### needs-book-copy (see sources/wanted-books.md) (1)
+### needs-unblocked-web (proxy allowlist or manual fetch) (10)
 
-- `research/gaffney-mineral-leasing-tax-reform.md` — **VERIFY** exact publication year and venue not established this session — the essay reads as a book chapter or commissioned report for a Canadian audience, but no publisher or journal name survives in the text extracted
-
-### needs-unblocked-web (proxy allowlist or manual fetch) (5)
-
-- `concepts/land-value-capture.md` — **VERIFY** this characterization is drawn from the CaCHE project page's own description and consistent secondary summaries; the wiki could not retrieve the report's PDF directly (the Cardiff University ORCA repository copy sits beh
 - `people/elizabeth-magie.md` — **VERIFY** exact publication date of the Realtor.com piece not confirmed — the page could not be directly fetched and this is drawn from a search-engine summary of its content.
+- `people/silvio-gesell.md` — **VERIFY** this page's account of Gesell's own doctrine (source 1, Die natürliche Wirtschaftsordnung) still rests on standard secondary reference knowledge, not a fresh read of Gesell's primary text or of Loehr's full body text thi
+- `people/sun-yat-sen.md` — **VERIFY** the wiki still has not read this paper's body text — direct fetch of the Wiley article page returned HTTP 403/a bot-CAPTCHA wall via three independent methods this session (direct fetch, curl with a browser user-agent, a
 - `places/australia.md` — **VERIFY** exact article URL/slug reconstructed via search rather than direct fetch — the page returned a fetch error, likely a paywall or bot block
-- `research/gaffney-water-rent-taxation.md` — **VERIFY** OCR quality — the masongaffney.org PDF's embedded text layer is a low-quality legacy scan extraction; this page's quotations and figures are drawn from a fresh re-OCR (pdftoppm 250dpi + Tesseract 5.3.4) of the same PDF,
+- `narratives/the-great-land-robbery.md` — **VERIFY** full text not accessible this session — needs-unblocked-web
+- `research/fiorentino-moogan-agglomeration.md` — **VERIFY** exact modelling approach, calibration, and any quantitative results once full text is accessible — needs-unblocked-web.
+- `research/kakumu-kenya-site-value-tax.md` — **VERIFY** full text unread. Re-confirmed closed on 2026-08-10 via Unpaywall (isoa: false), a direct SAGE fetch (paywalled), and the author's own Academia.edu profile (access error, no self-archived copy found).
+- `research/xu-huang-li-china-hcrs-george.md` — **VERIFY** full text unread — Wiley's bot-detection has now blocked four independent retrieval methods across two review passes (2026-07-26, 2026-08-10); the depth of the analogy, and any qualifications the authors attach to it, ca
+- `research/yang-split-rate-spillover-employment.md` — **VERIFY** confirm whether the published 2024 version updates the 1980–2010 sample period or coefficient magnitudes reported in the 2015 working paper — needs-unblocked-web, a proxy or institutional-access channel this environment
 - `books/bird-the-land-trap.md` — **VERIFY** original study(ies) behind this range not independently identified this session — cited via Doucet's review, not read in Bird's primary text
 
 ### needs-new-source (research/forage task) (2)
@@ -220,63 +221,22 @@ has routed yet; route one by moving it into a curated bucket above.*
 - `concepts/dalt-depreciation-assisted-lvt.md` — **VERIFY** no antecedent academic source for this exact mechanism was found in a search beyond the NYC 1920s policy episode and Doucet's own piece — treat DALT as newly named/formalized in 2026 pending independent citation.
 - `research/nef-modern-system-fair-rents.md` — **VERIFY** the wiki has not independently reviewed the broader empirical rent-control literature (including the specific Autor–Palmer–Pathak Cambridge, MA and Diamond–McQuade–Qian San Francisco quasi-experimental studies commonly c
 
-### unclassified (T1 triage) (57)
+### unclassified (T1 triage) (16)
 
 - `concepts/dalt-depreciation-assisted-lvt.md` — **VERIFY** no independent economic modelling or evaluation of DALT located as of 2026-07-30.
-- `concepts/land-value-capture.md` — **VERIFY** the wiki could not access the paper's full text (both the ScienceDirect publisher page and the authors' HAL preprint sit behind bot-protection this session); the summary above is built from the published abstract and con
-- `concepts/land-value-capture.md` — **VERIFY** note above).
-- `concepts/land-value-capture.md` — **VERIFY** note above).
 - `concepts/spectrum-auctions.md` — **VERIFY** .)
-- `people/silvio-gesell.md` — **VERIFY** full text of source 3 was not accessible — Wiley blocks automated retrieval even though Semantic Scholar records it as CC-BY open access; this page's account of Gesell's own doctrine (source 1) rests on standard secondar
-- `people/sun-yat-sen.md` — **VERIFY** the wiki has not read this paper's body text; the relative weight the authors assign to Chinese versus Georgist roots cannot be assessed from the abstract alone
-- `people/ted-gwartney.md` — **VERIFY** exact start year, 1975 vs. 1976, and parcel count, 1,350,000 vs. 1,500,000
-- `places/british-columbia.md` — **VERIFY** full release not directly read
-- `places/british-columbia.md` — **VERIFY** full Generation Squeeze article not directly read
-- `places/canada.md` — **VERIFY** no evidence found this session of any Saskatchewan municipality or the province itself considering a full land-only tax; the CBC's 2026 coverage of a proposed AI data centre in the RM of Sherwood, near Regina, discusses
-- `places/canada.md` — **VERIFY** full cultmtl.com article not directly read
-- `places/canada.md` — **VERIFY** full article not directly read
-- `places/canada.md` — **VERIFY** provincial primary-source page not directly read
-- `places/ethiopia.md` — **VERIFY** the exact 2002 proclamation number appears inconsistently even within its own standard secondary source; not independently confirmed against Ethiopia's official gazette
-- `places/germany.md` — **VERIFY** whether a Bundesverfassungsgericht complaint has actually been filed post-ruling was not confirmed this session — this pass found only that the door remains open, not that it has been used.
-- `places/pennsylvania.md` — **VERIFY** the op-ed cites a Harvard-affiliated estimate of roughly 26,000 jobs having relocated out of Philadelphia because of the wage tax; this wiki has not independently verified that estimate, its authors, or the underlying pa
-- `places/south-korea.md` — **VERIFY** Land+Freedom Institute's specific research outputs and any direct affiliation with Landforall.kr not confirmed this session
-- `places/united-states.md` — **VERIFY** exact enactment date not confirmed this session
+- `places/canada.md` — **VERIFY** no evidence found this session, or in a reattempt on 2026-08-10, of any Saskatchewan municipality or the province itself considering a full land-only tax; the CBC's 2026 coverage of a proposed AI data centre in the RM of
+- `places/germany.md` — **VERIFY** as of this session (2026-08-10), only the announcement of intent to file was found — no confirmed Bundesverfassungsgericht case number or filing date for a complaint specifically against the Baden-Württemberg law was loc
+- `places/south-korea.md` — **VERIFY** the exact nature of the Land+Freedom Institute's relationship to Landforall.kr — formal project, funder, or informal endorsement — not confirmed this session; would need a direct inquiry to either party or a Korean-langu
+- `places/united-states.md` — **VERIFY** exact enactment date not confirmed. Attempted 2026-08-10: the Kansas City Clerk's legislation portal (clerk.kcmo.gov) surfaces only current annual rate-setting ordinances (e.g. Ordinance 250169, setting FY2025-26 rates u
 - `places/washington-state.md` — **VERIFY** whether Wilson's office has taken any further, post-inauguration action on this commitment — e.g., a formal city legislative-agenda item or public support for the Vibrant Cities Act — beyond the campaign-platform stateme
 - `events/1886-nyc-mayoral-election.md` — **VERIFY** abstract only, full text not retrievable this session, Wiley blocks automated access
-- `events/2026-state-lvt-enablement-wave.md` — **VERIFY** S1131's final 2026 disposition — this entry reflects its status as of the sources checked (amended to print 1131B, still in committee as of January 2026); if it advanced further before this page's last review, that shoul
 - `benefits/resource-rent-capture-works.md` — **VERIFY** note; corroborating, not load-bearing).
-- `narratives/the-great-land-robbery.md` — **VERIFY** full text not accessible this session
-- `research/fiorentino-moogan-agglomeration.md` — **VERIFY** exact modelling approach, calibration, and any quantitative results once full text is accessible.
-- `research/gaffney-benefits-farm-programs.md` — **VERIFY** volume/issue number
-- `research/gaffney-benefits-farm-programs.md` — **VERIFY** .
-- `research/gaffney-economics-of-abundance.md` — **VERIFY** exact publication year not given by the source; inferred from internal topical references only.
-- `research/gaffney-extractive-resources-taxation.md` — **VERIFY** this page covers only Gaffney's editorial framing (Introduction and Conclusion); the volume's fourteen signed chapters by other contributors are not read or summarized here
-- `research/gaffney-mineral-leasing-tax-reform.md` — **VERIFY** ed estimate from internal evidence; B13's factual claims (the 12.4% average tax rate, the 188-million-acre figure, the Getty reserve data) rest on Gaffney's own citations of 1980–82 trade press (Business Week, Los Angele
-- `research/gaffney-mineral-leasing-tax-reform.md` — **VERIFY** .
-- `research/gaffney-nonpoint-pollution.md` — **VERIFY** ), Vol.
-- `research/gaffney-nonpoint-pollution.md` — **VERIFY** ).
-- `research/gaffney-nonpoint-pollution.md` — **VERIFY** ), Vol.
-- `research/gaffney-noyes-income-stimulating-property-tax.md` — **VERIFY** .)
-- `research/gaffney-noyes-income-stimulating-property-tax.md` — **VERIFY** exact cell values in Tables 8:III and 8:IV
-- `research/gaffney-water-rent-taxation.md` — **VERIFY** the "Chinatown Syndrome" attribution and the specific insider-prepurchase claim rest on Gaffney's own summary in both pieces; this page does not independently verify the Owens Valley land-purchase history against primary
-- `research/gaffney-water-rent-taxation.md` — **VERIFY** H22's named-speculator and political-history claims are drawn from Gaffney's own citations to contemporary press and secondary sources (Fulton 1996; Worster 1985; Kirkendall 1964, 1966); this page relays them as Gaffney'
-- `research/gaffney-water-rent-taxation.md` — **VERIFY** flag above — its text was recovered via fresh OCR of a poor legacy scan rather than a native text layer, so exact figures should be treated as approximate.
-- `research/gaffney-water-rent-taxation.md` — **VERIFY** note above.
 - `research/kakumu-kenya-site-value-tax.md` — **VERIFY** .
-- `research/kakumu-kenya-site-value-tax.md` — **VERIFY** full text unread.
 - `research/loehr-george-gesell-odd-couple.md` — **VERIFY** .
-- `research/loehr-george-gesell-odd-couple.md` — **VERIFY** the wiki has not read this paper's body text.
+- `research/loehr-george-gesell-odd-couple.md` — **VERIFY** the wiki has not read this paper's body text — full text remains genuinely CC-BY licensed but mechanically unreachable; four retrieval methods failed identically across two review passes (2026-07-26, 2026-08-10). The the
 - `research/obeng-odoom-rodney-legacy.md` — **VERIFY** .
-- `research/obeng-odoom-rodney-legacy.md` — **VERIFY** the wiki has not read this paper's body text.
-- `research/schlaepfer-swiss-resource-rents.md` — **VERIFY** the wiki has not read the paper's full body text — figures below come from the verified abstract plus a corroborating open-access companion paper, not from the complete methods/results sections.
-- `research/schlaepfer-swiss-resource-rents.md` — **VERIFY** the CHF 298bn/42%-of-GDP figure in the framework paper and the CHF 159bn/~20%-of-GDP figure in the companion paper are not directly comparable on their face — they likely reflect a narrower category set or refined data i
-- `research/schlaepfer-swiss-resource-rents.md` — **VERIFY** full methods and data-source detail — particularly how "resource gain" is separated from ordinary land-price appreciation, and how the external-cost figures underlying "resource externality" were sourced — should be conf
-- `research/spring-ragain-lvt-dynamics.md` — **VERIFY** peer-review status — this is a preprint only; no journal publication, referee reports, or citations from established urban-economics scholars were found at time of writing.
-- `research/spring-ragain-lvt-dynamics.md` — **VERIFY** author background
-- `research/spring-ragain-lvt-dynamics.md` — **VERIFY** the paper is not yet peer-reviewed; its conclusions have not been independently checked by other economists at time of writing.
-- `research/welsh-lvt-valuation-testing.md` — **VERIFY** Two pages already on this wiki — research/tpa-what-would-lvt-do and people/andy-burnham — cite this Welsh Government programme for the claim that it found "no [assessment] methodology...
+- `research/obeng-odoom-rodney-legacy.md` — **VERIFY** the wiki has not read this paper's body text — full text remains genuinely CC-BY licensed but mechanically unreachable; four retrieval methods failed identically across two review passes (2026-07-26, 2026-08-10). The spe
 - `research/xu-huang-li-china-hcrs-george.md` — **VERIFY** .
-- `research/xu-huang-li-china-hcrs-george.md` — **VERIFY** full text unread — the depth of the analogy, and any qualifications the authors attach to it, cannot be assessed from the abstract.
-- `research/yang-split-rate-spillover-employment.md` — **VERIFY** confirm whether the published 2024 version updates the 1980–2010 sample period or coefficient magnitudes reported in the 2015 working paper.
 - `books/bird-the-land-trap.md` — **VERIFY** absence of Economist/WSJ reviews reflects a search gap, not necessarily their non-existence
 <!-- AUTOGEN:END -->

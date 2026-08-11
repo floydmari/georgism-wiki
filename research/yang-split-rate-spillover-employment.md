@@ -2,12 +2,11 @@
 authors:
 - Zhou Yang
 category: research
-excerpt: Spatial panel study of Pennsylvania's split-rate municipalities finds the
-  tax slows employment growth in close neighboring jurisdictions (within 5-10 miles)
-  but speeds it up in more distant ones (15-20 miles) — a "zero-sum near, win-win far"
-  spillover pattern, with no significant effect on employment in the taxing
-  jurisdiction itself.
-last_reviewed: 2026-07-26
+excerpt: A spatial panel study finds Pennsylvania split-rate taxation slows job
+  growth in close neighboring towns (5-10 miles) but speeds it in more distant
+  ones (15-20 miles), a zero-sum-near, win-win-far pattern, with no measurable
+  employment effect where the tax itself is adopted.
+last_reviewed: 2026-08-10
 source_url: https://doi.org/10.1007/s11146-024-09995-y
 stub: false
 subcategory: wiki-research-lvt
@@ -132,8 +131,18 @@ jurisdiction, cannot see.
   paper, whose abstract and headline results match the 2024 *Journal of Real
   Estate Finance and Economics* publication's abstract; the published version
   may have refined specifications or an extended sample not reflected here.
-  [VERIFY: confirm whether the published 2024 version updates the 1980–2010
-  sample period or coefficient magnitudes reported in the 2015 working paper.]
+  **Attempted (2026-08-10):** the published abstract itself could not be
+  independently read this session — SpringerLink's article page returns a bot
+  "Client Challenge" wall to direct fetch, and Semantic Scholar's bibliographic
+  API marks the abstract field "elided by the publisher" (closed, not indexed).
+  Search-engine summaries consistently describe the published paper's sample as
+  "Pennsylvania... 1980–2010," matching the working paper, but this could not be
+  confirmed against the actual publisher-hosted abstract text and may simply be
+  search engines echoing the working paper via secondary citations — not treated
+  as independent confirmation. **[VERIFY: confirm whether the published 2024
+  version updates the 1980–2010 sample period or coefficient magnitudes
+  reported in the 2015 working paper — needs-unblocked-web, a proxy or
+  institutional-access channel this environment lacks.]**
 - **Pennsylvania-only external validity**, as with the rest of the wiki's
   split-rate evidence base — few other US states have enough adopting
   municipalities for this kind of spatial analysis.

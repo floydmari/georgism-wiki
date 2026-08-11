@@ -6,7 +6,7 @@ excerpt: 'Gaffney''s classical-incidence analysis of 1960s US farm programs: pri
   supports, public works, and subsidized rural credit all land on farmland owners
   rather than farm labor or tenants, are then dissipated through elastic land supply,
   and generate a self-defeating political economy of cartelized.'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -23,8 +23,8 @@ tags:
 - subsidy-incidence
 - land-monopoly
 tier: Important
-title: 'Gaffney (1966): The Benefits of Farm Programs — Incidence, Shifting, and Dissipation'
-year: 1966
+title: 'Gaffney (1967): The Benefits of Farm Programs — Incidence, Shifting, and Dissipation'
+year: 1967
 ---
 
 ## Overview
@@ -35,11 +35,19 @@ Wisconsin-Milwaukee) published in *The American Journal of Economics and
 Sociology*, based on a paper delivered at the American Farm Economics
 Association's annual meeting, Stillwater, Oklahoma, August 1965.[1] Both
 parts carry the *AJES* running header directly ("The American Journal of
-Economics and Sociology," pp. 237–250 and 417–424), confirming the venue;
-the exact volume and issue number are not recoverable from the extracted
-text — `[VERIFY: volume/issue number]` — but internal evidence (the 1965
-delivery date, the pagination) places publication in 1966, consistent with
-*AJES*'s practice of continuous annual-volume pagination.
+Economics and Sociology," pp. 237–250 and 417–424), confirming the venue.
+**Resolved 2026-08-10, with a correction:** the exact volume/issue number
+was not recoverable from the extracted text, so this page previously
+inferred **1966** publication from the 1965 delivery date. The Internet
+Archive's digitized index for *AJES* Volume 26 (1967) confirms Part I
+("The Benefits of Farm Programs: Incidence, Shifting, and Dissipation,"
+Mason Gaffney, p. 237) ran in **No. 3 (July 1967)** and Part II ("...II:
+Incidence, Shifting, and Dissipation," p. 417) ran in **No. 4 (October
+1967)** — both page numbers matching this page's citation exactly. The
+correct publication year is therefore **1967**, not 1966 (a two-year gap
+from the 1965 conference delivery, longer than this page previously
+assumed); the year has been corrected throughout this page's frontmatter
+and citations.
 
 Gaffney applies classical Ricardian rent theory to a subject rarely analyzed
 that way at the time: US federal agricultural policy. His central claim,
@@ -51,7 +59,7 @@ resulting land-value gains are then substantially **dissipated** through the
 same elastic land supply that classical rent theory predicts. This is a
 distinct domain from the wiki's existing farmland Gaffney coverage — [Rising
 Inequality and Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/)
-(1992) is a 50-state property-tax-and-concentration cross-section; this 1966
+(1992) is a 50-state property-tax-and-concentration cross-section; this 1967
 paper is an incidence analysis of federal commodity and public-works
 subsidies, a different policy lever entirely.
 
@@ -179,8 +187,9 @@ attributed — not a formal cost-benefit estimate.)
 ## Standing and Limits
 
 - **Genre and date.** A conference paper turned peer-reviewed *AJES*
-  article, delivered 1965 and internally dated to 1966 publication by
-  pagination; not independently replicated as an empirical study — the
+  article, delivered 1965 and published in 1967 (confirmed via the
+  Internet Archive's *AJES* Vol. 26 index — see Overview); not independently
+  replicated as an empirical study — the
   paper's own claims about program-by-program incidence are Gaffney's
   qualitative survey, not an econometric decomposition. He does cite
   contemporaneous quantitative work (Boxley & Gibson on peanut allotments,
@@ -224,14 +233,19 @@ attributed — not a formal cost-benefit estimate.)
 ## Sources
 
 1. Mason Gaffney, "The Benefits of Farm Programs: Incidence, Shifting, and
-   Dissipation," *The American Journal of Economics and Sociology*, Parts I
-   and II (1966; paper delivered at the American Farm Economics Association
-   annual meeting, Stillwater, Oklahoma, August 1965) — used for the entire
-   page: the landowner-incidence argument, the rural-public-works
+   Dissipation," *The American Journal of Economics and Sociology*, Vol. 26,
+   No. 3 (July 1967): 237–250 (Part I) and Vol. 26, No. 4 (October 1967):
+   417–424 (Part II); paper delivered at the American Farm Economics
+   Association annual meeting, Stillwater, Oklahoma, August 1965 — used for
+   the entire page: the landowner-incidence argument, the rural-public-works
    capitalization catalogue, the subsidized-credit mechanism, the
    "intensity quotient" concept, and the dissipation analysis. Native,
-   `pdftotext`-extractable text (no OCR needed); exact volume/issue number
-   `[VERIFY]`. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf);
+   `pdftotext`-extractable text (no OCR needed); volume/issue/date resolved
+   2026-08-10 against the Internet Archive's digitized index for *AJES*
+   Volume 26 (1967) — a correction from this page's earlier 1966 estimate.
+   [Free PDF (masongaffney.org)](https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf);
    local mirror at
    `scratchpad/cache/gaffney-mirror/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf`;
-   extracted text at `sources/gaffney/text/D3-BenefitsofFarmPrograms.CV.CV.txt`.
+   extracted text at `sources/gaffney/text/D3-BenefitsofFarmPrograms.CV.CV.txt`;
+   volume/issue confirmed via [Internet Archive, *AJES* Vol. 26 (1967) Index
+   & Table of Contents](https://archive.org/details/sim_american-journal-of-economics-and-sociology_1967_26_index-contents).

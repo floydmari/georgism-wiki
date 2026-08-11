@@ -6,7 +6,7 @@ excerpt: Gaffney's critique of the standard Pigouvian toolkit (effluent charges,
   surrogates, tradeable pollution rights) for diffuse 'nonpoint' pollution — runoff
   has no meterable point to tax — arguing the deeper cause is land-market failure
   (sprawl, absentee speculation, tax-distorted timing) and.
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -31,10 +31,16 @@ year: 1988
 ## Overview
 
 "Nonpoint Pollution: Tractable Solutions to Intractable Problems" is a Mason
-Gaffney essay published in *JBA* (the printed running header gives only this
-abbreviation; the full journal title is not stated in the document itself —
-`[VERIFY]`), Vol. 18, Nos. 1 and 2 (1988/89), pp. 133–154, while Gaffney was
-at the University of California, Riverside.[1] An acknowledgement note dates
+Gaffney essay published in the *Journal of Business Administration* (the
+masongaffney.org PDF's running header gives only the abbreviation "JBA";
+the full title is confirmed by an independent transcription hosted at
+wealthandwant.com, which cites it as "Reprinted in J. of Business
+Administration 18(1 & 2), 1988/89 (Special Issue: Future Directions for
+Economics), pp. 133-54" — matching this page's volume, issue, year, and
+pagination exactly[3]), Vol. 18, Nos. 1 and 2 (1988/89), Special Issue
+"Future Directions for Economics," pp. 133–154, while Gaffney was
+at the University of California, Riverside.[1] This session did not
+independently confirm the journal's publishing institution. An acknowledgement note dates
 an earlier version to a conference on "Political, Institutional and Fiscal
 Alternatives to Accelerate Nonpoint Pollution Programs," Milwaukee, December
 9, 1987.[1] The masongaffney.org mirror carries two scanned copies of the
@@ -200,9 +206,13 @@ technique]... the proper watchword."
   worked examples and citations to others' findings (Hall & Norgaard 1973;
   Lipsey & Lancaster 1956–57 for the second-best point), not a Gaffney
   original econometric contribution.
-- **The venue could not be fully verified.** Only the abbreviation "JBA" and
-  "Vol. 18, No. 1 and 2, 1988/89" appear in the scanned document; the full
-  journal title is unconfirmed (`[VERIFY]`).
+- **The venue's full name was confirmed independently this session (2026-08-10).**
+  The masongaffney.org scan gives only the abbreviation "JBA" and "Vol. 18,
+  No. 1 and 2, 1988/89," but an independent transcription (wealthandwant.com)
+  expands this to *Journal of Business Administration*, Special Issue "Future
+  Directions for Economics," matching volume/issue/year/pagination exactly.
+  This wiki has not independently confirmed the journal's publishing
+  institution.
 - **The land-value-tax solution is asserted, not tested against nonpoint
   pollution outcomes specifically.** No study cited in the essay (or found
   independently for this page) measures runoff or water-quality outcomes
@@ -278,10 +288,10 @@ abridged/unabridged pair).
 ## Sources
 
 1. Mason Gaffney, "Nonpoint Pollution: Tractable Solutions to Intractable
-   Problems," *JBA* (full journal title unconfirmed — `[VERIFY]`), Vol. 18,
-   Nos. 1 and 2 (1988/89), pp. 133–154 — used for the entire page. Scanned
-   PDF, legacy OCR text layer; re-OCR'd this session at 250dpi with
-   Tesseract 5.3.4. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf);
+   Problems," *Journal of Business Administration*, Vol. 18, Nos. 1 and 2
+   (1988/89), Special Issue "Future Directions for Economics," pp. 133–154 —
+   used for the entire page. Scanned PDF, legacy OCR text layer; re-OCR'd
+   this session at 250dpi with Tesseract 5.3.4. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf);
    duplicate scan (not separately used): [F8](https://masongaffney.org/publications/F8-NonpointPollution.CV.CV.pdf);
    local mirror at `sources/gaffney/text/F7-NonpointPollution.CV.txt`.
 2. Mason Gaffney, "Welfare Economics and Environmental Quality: Comments on
@@ -290,3 +300,9 @@ abridged/unabridged pair).
    — read and declined a dedicated page this session (see Standing and
    Limits); cited only for the land-rent-as-pollution-benefit-measure point.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/F2QWelfareEconomics_and_Environmental_Quality.CV.pdf)
+3. wealthandwant.com, transcription of Mason Gaffney, "Nonpoint Pollution:
+   Tractable Solutions to Intractable Problems" — used this session (2026-08-10)
+   only to independently confirm the source's full journal title (item 1
+   above expands the masongaffney.org scan's bare "JBA" abbreviation); not
+   used as a content source for this page's claims. [Free HTML
+   (wealthandwant.com)](https://wealthandwant.com/docs/Gaffney_Nonpoint.html)

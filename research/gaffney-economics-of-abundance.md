@@ -6,7 +6,7 @@ excerpt: A polemical Gaffney essay arguing Henry George's program does not trade
   efficiency against equity, or demand-side against supply-side stimulus, but resolves
   nineteen such "dismal trade-offs" into free-lunch synergies — an advocacy synthesis
   of Gaffney's own technical work, not a peer-reviewed.
-last_reviewed: 2026-07-16
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf
 stub: false
 subcategory: wiki-research-georgism
@@ -30,9 +30,18 @@ and Synergies" is a workpaper-length essay (masongaffney.org workpaper WP018) by
 **Mason Gaffney**.[1] The source carries no publication date; internal references to
 "California Governor Pete Wilson" (in office 1991–99) and to "President and Mrs.
 Clinton" then proposing "the new health plan" (1993–94) place its composition in that
-window — this page dates it **1994** as an approximation, not a stated fact. **[VERIFY:
-exact publication year not given by the source; inferred from internal topical
-references only.]**
+window — this page dates it **1994** as an approximation, not a stated fact.
+**Corroborated 2026-08-10 (still an approximation):** a later version of this same
+essay was delivered at the Eastern Economics Association meeting (New York City,
+February 27–March 1, 2009) and reprinted in *GroundSwell* (March–April 2009) — but
+that 2009 text retains the *identical* "Governor Pete Wilson" and "President... Mrs.
+Clinton... new health plan" references, only shifting their verb tense from present
+to past ("has adopted"→"adopted," "now speak"→"spoke"), rather than updating the
+examples to Gaffney's then-current governor or president.[2] This independently
+confirms the essay's substantive content was composed in the Wilson-governor/
+Clinton-health-plan window and simply reused, largely unchanged, fifteen years
+later — strengthening rather than resolving the **c. 1994** composition estimate,
+since no source states an exact original date.
 
 The essay's organizing conceit, stated in its introduction, is that "it is part of
 George's genius that his proposals solve one problem by resolving it with another,
@@ -133,3 +142,10 @@ Schwerhoff et al.).
    structural/macro arguments, the Riverside anecdote, the common-rights-and-tenure
    argument, and the closing political epilogue. [PDF](https://masongaffney.org/workpapers/WP018%20George's%20Economics%20of%20Abundance.pdf) · [archived](https://archive.progress.org/gaffney/workpapers/WP018 George's Economics of Abundance.pdf)
    (verified against the PDF directly for all direct quotations on this page).
+2. Mason Gaffney, "George's Economics of Abundance: Replacing Dismal Choices With
+   Practical Resolutions and Synergies," paper delivered at the Eastern Economics
+   Association meeting, New York City, February 27–March 1, 2009; reprinted in
+   *GroundSwell*, March–April 2009 — used only to corroborate this page's dating of
+   the essay's original composition (see Overview); not used as a separate content
+   source, since its substantive text is essentially identical to WP018 (item 1).
+   [Transcription (cooperative-individualism.org)](https://www.cooperative-individualism.org/gaffney-mason_henry-george's-economics-of-abundance-2009.htm).

@@ -5,7 +5,7 @@ authors:
 category: research
 excerpt: 'Chapter 8 of Fred Harrison''s The Losses of Nations (1998): a 50-state cross-sectional
   comparison arguing heavier reliance on the property tax (vs.'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/G45The_Income-Stimulating_Incentives_of_the_Property_Tax.pdf
 stub: false
 subcategory: wiki-research-urban
@@ -188,9 +188,15 @@ explicitly through the "strong hands" concentration lens the wiki's
 [Land Monopoly](/wiki/land-monopoly/) page already documents for land: "[l]ike
 other untaxed natural resources, spectrum is being concentrated in a few
 strong hands." (D-claim: an advocacy essay's contemporaneous business-press
-citations, not independently re-verified against the original 1993–95
-press reports — treat the specific dollar figures as Gaffney's own
-citations, `[VERIFY]`.)
+citations. *Independently confirmed, 2026-08-10:* both headline dollar
+figures check out against contemporary wire and business-press reporting —
+AT&T's agreement to acquire McCaw Cellular in an all-stock deal "valued at
+$12.6 billion" was announced August 16, 1993 (UPI, *Seattle Times*, *Deseret
+News*), and Disney's acquisition of Capital Cities/ABC for $19 billion
+closed in 1995 (contemporary business press) — matching Gaffney's figures
+exactly. The Buffett "$2 billion unearned increment" figure and the
+Cohen 1995 cellular-turnover statistic were not independently re-checked
+this session.)
 
 ### "Falsified Land Values" — A 23-Point Measurement Taxonomy
 
@@ -229,8 +235,13 @@ argument](/wiki/gaffney-hidden-taxable-capacity/).
   prose summaries of the table findings (which restate the headline
   figures cleanly in running text) rather than the raw table cells where
   the two diverge; readers checking exact state-by-state figures should
-  consult the source PDF directly. `[VERIFY: exact cell values in Tables
-  8:III and 8:IV]`.
+  consult the source PDF directly. **Channels exhausted, 2026-08-10:** *The
+  Losses of Nations* has no free digitized copy (Internet Archive, Google
+  Books, and JSTOR-style searches all came up empty this session; it is
+  sold only as a print/commercial book), so the exact Table 8:III/8:IV cell
+  values cannot currently be independently verified beyond the
+  masongaffney.org scan already used. Left as a standing limit rather than
+  resolved.
 
 ## Bears On
 

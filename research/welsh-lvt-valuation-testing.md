@@ -22,7 +22,7 @@ tags:
 - systematic-review
 stub: false
 excerpt: "A UKRI-funded review for Wales's finance-reform programme finds LVT's benefits 'plausible in theory but... highly contingent in practice' and proposes five valuation methods for future testing — an evidence review ahead of field trials, not a completed accuracy test."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-10
 ---
 
 ## Overview
@@ -198,7 +198,8 @@ finding that any tested method failed an accuracy bar.
 
 ## What the Programme Actually Found — and How It Has Been Cited Elsewhere
 
-**[VERIFY]:** Two pages already on this wiki — [research/tpa-what-would-lvt-do](/wiki/tpa-what-would-lvt-do/)
+**Finding (resolved, this page's own primary-source read — not an open verification
+question):** Two pages already on this wiki — [research/tpa-what-would-lvt-do](/wiki/tpa-what-would-lvt-do/)
 and [people/andy-burnham](/wiki/andy-burnham/) — cite this Welsh Government
 programme for the claim that it found "no [assessment] methodology... yet accurate
 enough for live implementation" / "none 'accurate enough to be deployed in a live land

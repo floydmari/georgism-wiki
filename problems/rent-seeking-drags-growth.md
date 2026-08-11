@@ -119,7 +119,7 @@ This section is the reason the claim is graded Moderate rather than Strong.
 
 ## A Historical Illustration: Leverage and Political Mobilization in Farm Programs
 
-Mason Gaffney's 1966 essay "The Benefits of Farm Programs" offers a specific,
+Mason Gaffney's 1967 essay "The Benefits of Farm Programs" offers a specific,
 named theoretical account of *which* rent-holders become the most active
 political rent-seekers — a mechanism this page's mainstream anchors do not
 isolate. Gaffney defines the **"intensity quotient"** (the ratio of non-land
@@ -188,7 +188,7 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
 - [Corporate profits are increasingly rents](/wiki/corporate-profits-increasingly-rents/)
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
-- [Gaffney (1966): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the intensity-quotient mechanism linking marginal-land leverage to political mobilization
+- [Gaffney (1967): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the intensity-quotient mechanism linking marginal-land leverage to political mobilization
 - [Gaffney & Cobb (2018): Corporate Power and Expansive U.S. Military Policy](/wiki/gaffney-corporate-power-military/) — military spending as a subsidy defending corporate resource tenure abroad
 
 ## Sources
@@ -221,7 +221,7 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
    [wiki summary](/wiki/acemoglu-johnson-robinson-colonial-origins/) — used for the
    instrumented institutional evidence that extractive (rent-transferring) institutions
    causally depress income (A/C-claims; instrument contested per Albouy 2012).
-7. Mason Gaffney (1966), "The Benefits of Farm Programs: Incidence, Shifting, and
+7. Mason Gaffney (1967), "The Benefits of Farm Programs: Incidence, Shifting, and
    Dissipation," *American Journal of Economics and Sociology* — [wiki
    summary](/wiki/gaffney-benefits-farm-programs/) — used for the "intensity quotient"
    mechanism linking marginal-land leverage to political mobilization (C-claim, Gaffney's

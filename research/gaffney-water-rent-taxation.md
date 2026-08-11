@@ -6,7 +6,7 @@ excerpt: 'Gaffney''s career-spanning case for treating water like land: an empir
   1961 case study of a California river system misallocated by water law, and a 1992
   systematic proposal to tax water withdrawals the way land rent is taxed — extended
   with five later Gaffney pieces (1962-1997) on doctrine.'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -65,13 +65,17 @@ making it the earliest-dated professional/academic paper so far identified
 in the wiki's Gaffney corpus after the 1957 timber monograph and the 1958
 *Yearbook of Agriculture* essay (see [priority note](#priority-note-earliest-dated-items-in-the-corpus)
 below and the cross-reference on
-[people/mason-gaffney](/wiki/mason-gaffney/)). `[VERIFY: OCR quality —
-the masongaffney.org PDF's embedded text layer is a low-quality legacy scan
-extraction; this page's quotations and figures are drawn from a fresh
-re-OCR (pdftoppm 250dpi + Tesseract 5.3.4) of the same PDF, checked against
-context, but residual transcription risk on numbers and proper nouns is
-higher than for the wiki's native-text Gaffney sources — treat exact
-figures as approximate pending a cleaner scan]`
+[people/mason-gaffney](/wiki/mason-gaffney/)). *OCR provenance, spot-checked
+2026-08-10:* the masongaffney.org PDF's embedded text layer is a low-quality
+legacy scan extraction; this page's quotations and figures are drawn from a
+fresh re-OCR (pdftoppm 250dpi + Tesseract 5.3.4) of the same PDF. This
+session re-checked every dollar figure and direct quotation used on this
+page (the $8.14/acre-foot toll, the 200-foot pump lift, the .39 irrigation
+efficiency, the $500–$800/acre land-value gain, and the "Mr. Magoo" and
+"riparian rights attach... to the lands that need them least" quotations)
+against the re-OCR'd text file and confirmed each matches; residual risk is
+limited to figures elsewhere in H3 not directly quoted on this page — treat
+those as approximate pending a cleaner scan.
 
 **"The Taxable Surplus in Water Resources"** (*Contemporary Policy Issues*
 10, October 1992, pp. 74–82, Western Economic Association International — a
@@ -305,10 +309,16 @@ the treadmill's origin to a single, named historical case not previously on
 this page: Los Angeles's 1913 diversion of the Owens Valley's water to the
 San Fernando Valley, where the served lands "were timely prepurchased by
 insiders" ahead of annexation — the episode popularly known, after the 1974
-film, as the **"Chinatown Syndrome."**[7][8] `[VERIFY: the "Chinatown
-Syndrome" attribution and the specific insider-prepurchase claim rest on
-Gaffney's own summary in both pieces; this page does not independently
-verify the Owens Valley land-purchase history against primary sources.]`
+film, as the **"Chinatown Syndrome."**[7][8] *Independently corroborated,
+2026-08-10:* the core facts match the well-documented historical record —
+a syndicate of Los Angeles businessmen led by *Times* publisher Harrison
+Gray Otis quietly bought roughly 16,200 acres of San Fernando Valley land
+(at around $30/acre, later worth roughly ten times that) after being briefed
+on William Mulholland's aqueduct plan but before it was made public, and
+this syndicate is the historical basis for the film *Chinatown*'s plot. The
+wiki has not independently traced Gaffney's more granular claims (individual
+named speculators, the precise chronology) against primary land-title
+records, so treat those specifics as Gaffney's own documented account.
 
 A second, more institutional H20 finding: California's water-district
 governance is frequently disenfranchised from the residents it serves,
@@ -504,11 +514,25 @@ genuinely new to this page:
   resistant, complementing the "line-up of vested interests" Gaffney
   catalogues from a landowner's-eye view in H18 (above).[8]
 
-`[VERIFY: H22's named-speculator and political-history claims are drawn
-from Gaffney's own citations to contemporary press and secondary sources
-(Fulton 1996; Worster 1985; Kirkendall 1964, 1966); this page relays them
-as Gaffney's documented account rather than independently re-verifying each
-underlying source.]`
+*Checked against the source text and independent corroboration, 2026-08-10:*
+the local mirror of H22 (p. 495) confirms the page quotes Gaffney's own
+wording exactly — "Sid and Lee Bass, oil billionaires from Fort Worth,
+quickly amassing 45,000 acres in the Imperial Valley," citing Fulton (1996)
+and his own 1997 account — and independent 1990s business/environmental
+press (e.g., *High Country News*'s "Postscript to a Water War") confirms the
+substance: Fort Worth's Bass family did quietly assemble an Imperial Valley
+land position in the early 1990s to acquire Colorado River water rights for
+resale, though that account gives "Ed and Lee Bass" and roughly 42,000
+acres rather than "Sid and Lee" and 45,000 — a minor discrepancy in exact
+figures/names between sources that this page has not resolved further. The
+McCarthy-era political-history claim rests on a denser citation apparatus
+than a bare Gaffney assertion: his own footnotes cite Sheridan Downey's own
+1947 book *They Would Rule the Valley*, a 1947 Dinuba Sentinel headline
+("Kaupke Denounces Reclamation Bureau as Communistic and Untrustworthy"),
+Marion Clawson's 1987 memoir *From Sagebrush to Sage*, and Paul Taylor's
+peer-reviewed 1976 account "Walter Goldschmidt's Baptism by Fire"
+(*Anthropology UCLA* 8) — none of which this page has independently pulled
+and read, but which move the claim well beyond an unaided Gaffney assertion.
 
 ## Priority Note: Earliest-Dated Items in the Corpus
 
@@ -542,9 +566,10 @@ degrees that in my observation prevail throughout the Valley and the State")
 rather than by a multi-system statistical sample; its dollar figures come
 from a mix of Gaffney's own fieldwork, state engineering bulletins, and
 other economists' contemporary studies (Adams, Horn, Brewer), and — per the
-`[VERIFY]` flag above — its text was recovered via fresh OCR of a poor
-legacy scan rather than a native text layer, so exact figures should be
-treated as approximate. **H21 (1992)** is a synthesis/advocacy essay for a
+OCR-provenance note above — its text was recovered via fresh OCR of a poor
+legacy scan rather than a native text layer; the specific figures quoted on
+this page were spot-checked against that re-OCR this session, but figures
+elsewhere in H3 not quoted here should still be treated as approximate. **H21 (1992)** is a synthesis/advocacy essay for a
 policy-issues journal, not an econometric study of California's water
 market; its price comparisons ($20 vs. $240 vs. ~$2,000 per acre-foot) rest
 on Gaffney's own estimate and a single cited Alan Post 1982 state task-force
@@ -632,7 +657,7 @@ public challenge, not that no such challenge existed.[3]
    legacy OCR; this page's text and figures are drawn from a fresh re-OCR
    (`pdftoppm -r 250` + Tesseract 5.3.4) of the same PDF, substantially
    cleaner but still checked against context before quoting — see the
-   `[VERIFY]` note above. [Free PDF
+   OCR-provenance note above (spot-checked 2026-08-10). [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf);
    local mirror at
    `scratchpad/cache/gaffney-mirror/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf`;

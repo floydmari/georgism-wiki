@@ -21,7 +21,7 @@ tags:
 tier: Important
 title: LVT and Urban Agglomeration Dynamics
 year: 2026
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-10
 ---
 
 ## Summary
@@ -50,7 +50,13 @@ documented by [Bakker (2023)](/wiki/bakker-land-rents-tfp/) — high privately-c
 rents distort urban allocation, and taxing them helps. The working paper's extensive
 reference list (174 sources) draws on the core agglomeration-economics literature (Glaeser,
 Duranton, Fujita), grounding the argument in mainstream urban economics rather than
-purely Georgist theory.
+purely Georgist theory. Cambridge's own Department of Land Economy news announcement of
+the published paper quotes Fiorentino stating the paper's argument that "a LVT aligns
+landowner incentives with agglomeration productivity gains," and that "taxing land value
+mitigates holdouts, reduces urban sprawl and fosters responsive development and optimal
+urban density" — a slightly more specific mechanism list (holdout mitigation, sprawl
+reduction) than the working-paper-level characterization above, though still short of the
+model and results themselves.
 
 ## Bears On
 
@@ -61,11 +67,17 @@ purely Georgist theory.
 ## Honest Limits
 
 - The wiki has not read the paper's full model or results section — only its working-paper
-  framing (via SSRN's bibliographic metadata) and the abstract-level description
-  corroborated by search-engine indexing. The "Key Finding" above should be read as a
-  characterization of the paper's stated contribution, not a verified summary of its
-  formal results. [VERIFY: exact modelling approach, calibration, and any quantitative
-  results once full text is accessible.]
+  framing (via SSRN's bibliographic metadata), the abstract-level description
+  corroborated by search-engine indexing, and (added this session) a direct quotation from
+  the Cambridge Land Economy department's own news announcement. The "Key Finding" above
+  should be read as a characterization of the paper's stated contribution, not a verified
+  summary of its formal results. **Attempted (2026-08-10):** Unpaywall confirms the
+  published *Cities* article is genuinely hybrid open-access (CC-BY), but the publisher
+  page itself (ScienceDirect) returned a bot/CAPTCHA challenge to every fetch method tried
+  this session (direct fetch, curl with a browser user-agent, and a text-extraction proxy),
+  and no independent aggregator (CORE.ac.uk) has indexed a copy. [VERIFY: exact modelling
+  approach, calibration, and any quantitative results once full text is accessible —
+  needs-unblocked-web.]
 - This is a **theoretical/modelling paper**, not an empirical estimate — its `supports_outcomes`
   wiring should be read as theoretical support, alongside the empirical evidence already
   carried on those outcome pages.

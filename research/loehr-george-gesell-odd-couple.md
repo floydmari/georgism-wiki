@@ -10,12 +10,14 @@ subcategory: wiki-research-georgism
 stub: false
 excerpt: "A 2026 comparative paper argues Henry George's land value tax and Silvio Gesell's demurrage-money reform are complements, not rivals — addressing land, money, and taxation together — with modern echoes in infrastructure self-financing and negative-interest debates."
 tags: [research, henry-george, silvio-gesell, monetary-reform, demurrage, land-value-tax, ajes]
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-10
 ---
 
 ## Overview
 
-"Henry George and Silvio Gesell: The Odd Couple" is a 2026 article by **Dirk Loehr** in the *American Journal of Economics and Sociology*, doi:[10.1111/ajes.70039](https://doi.org/10.1111/ajes.70039).[1] It compares the reform programs of [Henry George](/wiki/henry-george/) (1839–1897) and [Silvio Gesell](/wiki/silvio-gesell/) (1862–1930) — two contemporaries who both advocated land reform, free markets, and rejection of protectionism, but who diverged sharply on money, interest, and taxation.[1] The article is confirmed genuinely open access (CC BY, via Semantic Scholar's record of the DOI) as part of a themed AJES issue, but the wiki was unable to retrieve the full text — Wiley's site returns a bot-detection block to automated fetchers regardless of license status. This page is therefore built from the paper's published abstract only; claims beyond it are marked [VERIFY].
+"Henry George and Silvio Gesell: The Odd Couple" is a 2026 article by **Dirk Loehr** in the *American Journal of Economics and Sociology*, published online 2 April 2026, doi:[10.1111/ajes.70039](https://doi.org/10.1111/ajes.70039).[1] It compares the reform programs of [Henry George](/wiki/henry-george/) (1839–1897) and [Silvio Gesell](/wiki/silvio-gesell/) (1862–1930) — two contemporaries who both advocated land reform, free markets, and rejection of protectionism, but who diverged sharply on money, interest, and taxation.[1] Crossref does not yet assign this article a volume/issue (it carries an April 2026 "version of record" date, ahead of print), so — unlike this wiki's [Xu, Huang & Li](/wiki/xu-huang-li-china-hcrs-george/) and [Obeng-Odoom](/wiki/obeng-odoom-rodney-legacy/) AJES pages, both confirmed to share AJES vol. 85, no. 2's themed "Special Issue: Henry George" — it is not yet confirmed whether this piece belongs to that same special issue or a later regular issue.
+
+The article is confirmed genuinely open access (CC-BY, via both Crossref's license record and Semantic Scholar's record of the DOI). On re-check (2026-08-10), the wiki was still unable to retrieve the full text: Wiley's Cloudflare bot-detection blocked a direct request, a browser-user-agent `curl` request, a text-extraction proxy, and the publisher's own CC-BY `pdfdirect` download link, all identically — the same pattern seen across all three AJES pages in this batch, regardless of confirmed license status. This page is therefore built from the paper's published abstract only; claims beyond it are marked [VERIFY].
 
 ## The Comparison
 
@@ -23,7 +25,7 @@ Per the abstract, George treated [land value taxation](/wiki/land-value-tax/) as
 
 ## Standing and Limits
 
-- **Abstract-only scan.** [VERIFY: the wiki has not read this paper's body text.] The theoretical-foundations comparison, the specific critiques each thinker is said to answer, and the "enduring influence" claims are all abstract-level summaries; the underlying argument may contain nuance, caveats, or counter-readings this page cannot represent.
+- **Abstract-only scan.** [VERIFY: the wiki has not read this paper's body text — full text remains genuinely CC-BY licensed but mechanically unreachable; four retrieval methods failed identically across two review passes (2026-07-26, 2026-08-10). The theoretical-foundations comparison, the specific critiques each thinker is said to answer, and the "enduring influence" claims are all abstract-level summaries; the underlying argument may contain nuance, caveats, or counter-readings this page cannot represent.]
 - **Novel topic for the wiki.** Before this page, Silvio Gesell had no coverage anywhere on the wiki — the free-money/demurrage tradition and its historical overlap with land reform (both parties to the same early-20th-century monetary-and-land-reform ferment) was a real gap. This page and the companion [Silvio Gesell](/wiki/silvio-gesell/) stub close it, on Loehr's authority for the comparison specifically.
 - **Tier.** Rated Supplementary given the abstract-only scan depth; if the full text becomes accessible, this should be revisited (`[DEEPEN-SCAN tier:T2]` candidate per the wiki's scan-depth policy once source access improves).
 
@@ -36,4 +38,4 @@ Per the abstract, George treated [land value taxation](/wiki/land-value-tax/) as
 
 ## Sources
 
-1. Dirk Loehr, "Henry George and Silvio Gesell: The Odd Couple," *American Journal of Economics and Sociology*, published online 2 April 2026, doi:[10.1111/ajes.70039](https://doi.org/10.1111/ajes.70039) — used for all claims on this page (abstract only; confirmed CC-BY/hybrid open access per Semantic Scholar, but full text was not retrievable this session due to Wiley's bot-detection blocking automated access). [Crossref record](https://api.crossref.org/works/10.1111/ajes.70039) · [Semantic Scholar record](https://api.semanticscholar.org/graph/v1/paper/DOI:10.1111/ajes.70039)
+1. Dirk Loehr, "Henry George and Silvio Gesell: The Odd Couple," *American Journal of Economics and Sociology*, published online 2 April 2026, doi:[10.1111/ajes.70039](https://doi.org/10.1111/ajes.70039) — used for all claims on this page (abstract only; confirmed CC-BY/hybrid open access per Crossref and Semantic Scholar, but full text was not retrievable across two review passes despite four retrieval methods tried, all blocked by Wiley's Cloudflare bot-detection). [Crossref record](https://api.crossref.org/works/10.1111/ajes.70039) · [Semantic Scholar record](https://api.semanticscholar.org/graph/v1/paper/DOI:10.1111/ajes.70039)

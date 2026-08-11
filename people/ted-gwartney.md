@@ -4,7 +4,7 @@ category: people
 tags: [people, assessment, mass-appraisal, land-valuation, british-columbia, practitioner]
 stub: false
 excerpt: "Career real-estate assessor (MAI) who ran British Columbia's province-wide land assessment authority and later assessed Greenwich, Connecticut — practitioner counter-evidence to the objection that land value cannot be separately assessed."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-10
 ---
 
 ## Overview
@@ -12,14 +12,18 @@ last_reviewed: 2026-07-26
 Ted Gwartney, MAI, is a career real-estate assessor whose decades of practical
 mass-appraisal work are cited in the Georgist movement as evidence that
 unimproved land value *can* be routinely separated from building value at scale.
-From 1975 to 1986 he served as CEO / Assessment Commissioner of the **British
-Columbia Assessment Authority**, where his office valued on the order of
-1,350,000 land parcels a year using a computerized land-valuation system with
-multiple-regression analysis of sales data.[1] (An earlier, 2000 edition of the
-same biographical source instead dates the appointment to 1976 and puts the
-province-wide caseload at 1,500,000 parcels — a discrepancy between the source's
-own two editions that has not been resolved. [VERIFY: exact start year, 1975 vs.
-1976, and parcel count, 1,350,000 vs. 1,500,000].[3]) Earlier in his career he was
+In **1976** he became CEO / Assessment Commissioner of the **British
+Columbia Assessment Authority**, where his office implemented an annual
+province-wide revaluation of **1,500,000** land parcels using a computerized
+land-valuation system with multiple-regression analysis of sales data.[1] (A
+prior version of this page carried "1975" and "1,350,000 parcels," attributed
+to a 2002 edition of the source distinct from a 2000 edition. Both
+cooperative-individualism.org URLs were directly fetched and read in full this
+session — a successful direct fetch, unlike the earlier pass, which could only
+reach this source via a search-engine summary after a direct-fetch HTTP 403 —
+and both now serve byte-identical text stating 1976 and 1,500,000 parcels; no
+"1975 / 1,350,000" wording appears in either. The discrepancy is resolved in
+favor of the figures both editions currently agree on.[1][3]) Earlier in his career he was
 Deputy County Assessor of Sacramento, California, before becoming City Assessor
 of Southfield, Michigan and of Hartford, Connecticut.[3] He also worked as an
 assessor in Bridgeport and Greenwich, Connecticut (retiring as Greenwich's
@@ -52,8 +56,14 @@ value assessment is actually done, and is the text
 1. "Ted Gwartney / Biography," cooperative-individualism.org (2000, updated
    2002) — used for the British Columbia Assessment Authority role and parcel
    count, Connecticut/Michigan assessor positions, and Council of Georgist
-   Organizations / Robert Schalkenbach Foundation presidencies (search-indexed
-   summary; direct fetch returned HTTP 403 in this research pass — see note).
+   Organizations / Robert Schalkenbach Foundation presidencies. **Directly
+   fetched and read in full 2026-08-10** (superseding the earlier pass, whose
+   direct fetch returned HTTP 403 and relied on a search-indexed summary): the
+   page states "In 1976 he became the Assessment Commissioner and Chief
+   Executive Officer of the British Columbia Assessment Authority and
+   implemented an annual Province-wide revaluation of the 1,500,000 land
+   parcels" — 1976 and 1,500,000, not the 1975/1,350,000 figures an earlier
+   pass had attributed to this URL from its search-indexed summary.
    [cooperative-individualism.org](https://cooperative-individualism.org/gwartney-ted_biography-2002.htm)
 2. Ted Gwartney, "Estimating Land Values" (c. 1999) and Lars Doucet, "Does
    Georgism Work? Part 3," Astral Codex Ten (December 2021) — this wiki's
@@ -75,8 +85,9 @@ value assessment is actually done, and is the text
    **Executive Director** ("Currently, he is Executive Director of the Robert
    Schalkenbach Foundation," updated in the 2002 edition to "Until November
    2000, he was the Executive Director...") rather than president, as an
-   earlier version of this wiki page stated. This 2000 edition also gives a
-   1976 start year and a 1,500,000-parcel caseload for the BC Assessment
-   Authority role, differing from the 1975/1,350,000 figures carried from
-   source 1 (the 2002 edition) — flagged above as unresolved rather than
-   silently reconciled.
+   earlier version of this wiki page stated. This 2000 edition gives the same
+   1976 start year and 1,500,000-parcel caseload for the BC Assessment
+   Authority role as source 1 above — as of this session's fetch, both URLs
+   serve byte-identical page content, so the two editions no longer disagree
+   (if they ever did; the earlier "1975/1,350,000" reading was never
+   independently confirmed against either page's actual text).

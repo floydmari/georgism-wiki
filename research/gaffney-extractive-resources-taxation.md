@@ -6,7 +6,7 @@ excerpt: Gaffney's editorial framing and closing theoretical synthesis for the 1
   TRED symposium volume he edited — the earliest systematic academic statement of
   how to tax exhaustible-resource rent without distorting either extraction timing
   or exploration effort, including a novel taxonomy of nine.
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/B1Extractive_Resources_Intro.CV.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -231,10 +231,14 @@ This is an **edited-volume introduction and closing essay**, not a
 peer-reviewed article: Gaffney is explicit that the Conclusion's Policy
 Conclusions section states "individual conclusions of the editor" and "do not
 purport to express any consensus among the conferees," distinct from the
-opening Consensus section, which he does attribute to the group. `[VERIFY:
-this page covers only Gaffney's editorial framing (Introduction and
-Conclusion); the volume's fourteen signed chapters by other contributors are
-not read or summarized here]`. The Conclusion's central theoretical
+opening Consensus section, which he does attribute to the group. **Scope
+note (not an open verification question):** this page deliberately covers
+only Gaffney's own editorial framing (the Introduction and Conclusion); the
+volume's fourteen signed chapters by other named contributors (Scott,
+Herfindahl, Vickrey, McDonald, Pontecorvo, Steele, Gardner, and others —
+see Overview) are not read or summarized here and would need their own
+scan if the wiki extends coverage of this 1967 symposium beyond Gaffney's
+own contribution. The Conclusion's central theoretical
 apparatus — a formal model of "time-indivisibility" in staggered mine
 reserves, used to define depletion and the optimal reserve-output ratio
 rigorously — is highly technical and is **not summarized on this page**: it

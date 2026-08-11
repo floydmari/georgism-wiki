@@ -19,14 +19,14 @@ tags:
 - preprint
 stub: false
 excerpt: "An unreviewed 2025 arXiv preprint models land value and built capital as a spatial PDE system, finding a 'transcritical bifurcation' tax rate above which LVT shifts a city from a rent-dominated to a production-dominated equilibrium — rigorous but entirely uncalibrated theory."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-10
 ---
 
 ## Summary
 
-**"The dynamic of a tax on land value: concepts, models and impact scenario"** is a November 2025 arXiv preprint by **Hugo Spring-Ragain**, a doctoral student at the Centre d'études diplomatiques et stratégiques (CEDS) in Paris.[1] It has not (as of this wiki's review, 2026-07-26) appeared in any peer-reviewed venue — it is a single-author, self-declared unfunded working paper posted to arXiv's general-economics category. [VERIFY: peer-review status — this is a preprint only; no journal publication, referee reports, or citations from established urban-economics scholars were found at time of writing.] The paper builds a **spatial-dynamic mathematical model** of how a [land value tax](/wiki/land-value-tax/) reshapes land value and construction activity across an urban area over time, extending the static comparative-statics tradition that dominates most LVT modeling (including the wiki's own [Neidle/TPA model](/wiki/tpa-what-would-lvt-do/)) into an explicitly time- and space-varying framework.
+**"The dynamic of a tax on land value: concepts, models and impact scenario"** is a November 2025 arXiv preprint by **Hugo Spring-Ragain**, a doctoral student at the Centre d'études diplomatiques et stratégiques (CEDS) in Paris.[1] Re-checked 2026-08-10: it still has not appeared in any peer-reviewed venue. IDEAS/RePEc carries it only as an arXiv working paper — it was picked up by the NEP-URE "New Economic Papers" report for Urban and Real Estate Economics on 2025-12-15, which is an automated keyword-routed circulation digest, not a peer-review process — and lists no citing works.[2] No journal submission, referee report, or citation from an established urban-economics scholar was found. It is a single-author, self-declared unfunded working paper posted to arXiv's general-economics category. The paper builds a **spatial-dynamic mathematical model** of how a [land value tax](/wiki/land-value-tax/) reshapes land value and construction activity across an urban area over time, extending the static comparative-statics tradition that dominates most LVT modeling (including the wiki's own [Neidle/TPA model](/wiki/tpa-what-would-lvt-do/)) into an explicitly time- and space-varying framework.
 
-[VERIFY: author background] Spring-Ragain's institutional affiliation (CEDS, a diplomatic-studies school, not an economics department) and his other 2025 arXiv preprint — on an "action constant for quantum economics," an unconventional econophysics framework — suggest a non-specialist author working outside mainstream urban/public economics. The paper should be read as a rigorous but unvalidated theoretical exercise, not as evidence with the standing of peer-reviewed urban economics.
+Spring-Ragain's institutional affiliation and other published work corroborate that he is a non-specialist author working outside mainstream urban/public economics. CEDS, per its own site and Wikipedia's summary, is "an accredited postgraduate school and think tank in diplomacy and international relations" whose doctoral program trains "serving diplomats," military officers, and senior civil servants — not an economics department.[3] Spring-Ragain's public author bio (The Conversation) self-describes him as "Économiste" specializing in "questions macro-économiques, l'économie publique ainsi que... l'économie de l'innovation et de l'industrie," with doctoral research on transposing quantum-mechanics concepts into macroeconomics.[4] His other 2025 arXiv preprint, "ℏE: an action constant for quantum economics," develops this quantum-economics framework directly — defining an economic analogue to Planck's constant and studying regime transitions via non-commuting operators on Hilbert spaces — confirming the unconventional-econophysics side of his output.[5] The paper on this page should be read as a rigorous but unvalidated theoretical exercise, not as evidence with the standing of peer-reviewed urban economics.
 
 ## Model and Method
 
@@ -44,7 +44,7 @@ The model's parameters (productivity, discount rate, tax sensitivity, diffusion 
 
 ## Limits and Honest Assessment
 
-This is a **theoretical contribution only**: an internally consistent mathematical restatement and extension of the Georgist claim that LVT does not distort land use, cast in the language of reaction-diffusion dynamical systems. Its value to the wiki is illustrative — it shows that the standard static-neutrality result (Appendix A) survives the addition of space, time, diffusion, and stochastic shocks in at least one stylized model — but it carries **none of the empirical weight** of, for instance, the Pennsylvania split-rate literature or Denmark/Estonia implementation data already on this wiki. No claim in this paper should be cited as evidence about a real jurisdiction's likely LVT outcomes. [VERIFY: the paper is not yet peer-reviewed; its conclusions have not been independently checked by other economists at time of writing.]
+This is a **theoretical contribution only**: an internally consistent mathematical restatement and extension of the Georgist claim that LVT does not distort land use, cast in the language of reaction-diffusion dynamical systems. Its value to the wiki is illustrative — it shows that the standard static-neutrality result (Appendix A) survives the addition of space, time, diffusion, and stochastic shocks in at least one stylized model — but it carries **none of the empirical weight** of, for instance, the Pennsylvania split-rate literature or Denmark/Estonia implementation data already on this wiki. No claim in this paper should be cited as evidence about a real jurisdiction's likely LVT outcomes — as confirmed above (2026-08-10 re-check), it remains an unreviewed preprint with no independent check by other economists on record.
 
 ## Bears On
 
@@ -64,6 +64,23 @@ This is a **theoretical contribution only**: an internally consistent mathematic
 
 1. Hugo Spring-Ragain (2025), "The dynamic of a tax on land value: concepts, models and impact
    scenario," arXiv:2511.21766 [econ.GN], submitted 25 November 2025 — used for the full model,
-   all findings, and the author-affiliation statement (CEDS, Paris) on the paper's title page.
+   all findings, and the author-affiliation statement (CEDS, Paris) on the paper's title page;
+   full text read and checked against the page's specific figures (e.g. the Gini 0.394→0.377
+   range), which match the PDF exactly.
    [arxiv.org/abs/2511.21766](https://arxiv.org/abs/2511.21766) ·
    [full-text PDF](https://arxiv.org/pdf/2511.21766).
+2. IDEAS/RePEc record for arXiv:2511.21766 — used to confirm the paper's only circulation is as
+   an arXiv working paper and its NEP-URE dissemination (2025-12-15), with no journal listing and
+   no recorded citing works. [ideas.repec.org/p/arx/papers/2511.21766.html](https://ideas.repec.org/p/arx/papers/2511.21766.html).
+3. Centre d'Études Diplomatiques et Stratégiques (CEDS) — official site and Wikipedia summary —
+   used to confirm CEDS is a diplomacy/international-relations postgraduate school and think tank,
+   not an economics department. [ceds.fr/en](https://www.ceds.fr/en/ceds-center-for-diplomatic-strategic-studies/) ·
+   [Wikipedia](https://en.wikipedia.org/wiki/Centre_d%27Etudes_Diplomatiques_et_Strat%C3%A9giques).
+4. Hugo Spring-Ragain, author profile, The Conversation — used for the author's own bio statement
+   (self-described economist, macro/public/innovation economics, doctoral work on quantum-economics
+   modeling). [theconversation.com/profiles/hugo-spring-ragain-2264853](https://theconversation.com/profiles/hugo-spring-ragain-2264853).
+5. Hugo Spring-Ragain (2025), "ℏE: an action constant for quantum economics," arXiv:2509.02647
+   [econ.GN] — used to confirm the content of the author's other 2025 preprint (an econophysics
+   framework applying quantum-mechanical operators to macroeconomic variables), corroborating the
+   author-background assessment above.
+   [arxiv.org/abs/2509.02647](https://arxiv.org/abs/2509.02647).
