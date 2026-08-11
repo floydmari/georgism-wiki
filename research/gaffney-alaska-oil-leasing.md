@@ -6,7 +6,7 @@ excerpt: Gaffney's February 1977 report to Governor Hammond and the Alaska Legis
   on oil-and-gas leasing policy, commissioned three months after voters created the
   Permanent Fund, proposing an "ad valorem charge" on reserves in place as the state's
   primary instrument for capturing oil rent before a.
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -212,7 +212,7 @@ five-part series is now read and mined on its own dedicated page,
 which also covers a second, previously uncited proof from the same series —
 Appendix I, credited to Vickrey, Matthew Gaffney Jr., and Joseph Holzinger, proving
 the after-tax return on an investment rises with its life — and the series' verbal
-derivation of the neutral-depreciation theorem that Appendix II proves formally.
+derivation of the neutral-depreciation theorem for which Appendix II is the formal proof.
 The unsigned Appendix K,
 "Financial Characteristics of Energy Firms Operating in Alaska," compiles Fortune
 500 data showing large integrated energy firms are markedly less labor-intensive

@@ -19,7 +19,7 @@ tags:
 - rebuttal
 stub: false
 excerpt: "Samuel Watling's Works in Progress essay generalizes from the 1909 British land duties' failure to conclude a pure LVT has never worked anywhere; Lars Doucet's rebuttal disputes that, citing Vancouver, Houston, 1920s New York, and Qingdao."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-10
 ---
 
 ## Summary
@@ -73,8 +73,7 @@ methods, and South Korea's annual national land-valuation system.
 On the "never successfully implemented" claim, Doucet cites contemporaneous and later cases he
 argues Watling's generalization ignores:
 
-- **[Vancouver](/wiki/vancouver/)** (land-value-only taxation, 1890–1984) — "credited even by
-  its opponents as leading to an undeniable building boom."
+- **[Vancouver](/wiki/vancouver/)** (land-value-only taxation, 1890–1984) — "credited even by its opponents as leading to an undeniable building boom."
 - **The [Houston Plan of Taxation](/wiki/houston-plan-of-taxation/)** (1912–1915) — Doucet's
   reading of the same episode Watling treats as evidence against LVT: "Houston accomplished in
   two short years, efficiently and effectively, what 'the failure of the land value tax'

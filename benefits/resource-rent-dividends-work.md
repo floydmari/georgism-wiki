@@ -8,9 +8,9 @@ evidence_strength: Strong (two decades-to-generation-long real-world dividends �
   in Maricá, Brazil)
 excerpt: 'Alaska''s decades-long Permanent Fund Dividend shows that capturing natural-resource
   rent and distributing it as a citizen''s dividend is administratively and politically
-  durable — and it is no longer the only case: the Cherokee casino dividend has run
-  since 1996 and Maricá, Brazil now pays an.'
-last_reviewed: 2026-07-18
+  durable — joined more recently by the Cherokee casino dividend (since 1996) and Maricá,
+  Brazil''s oil-royalty dividend.'
+last_reviewed: 2026-08-10
 stub: false
 supported_by:
 - jones-marinescu-alaska-pfd
@@ -64,7 +64,7 @@ And the model is no longer confined to rich or isolated economies. [Maricá, Bra
 
 Not every resource-rent windfall behaves like Alaska's transparent, per-capita dividend. [Martinez (2018)](/wiki/martinez-colombia-resource-rents/) finds that in Colombia, municipalities receiving large resource-rent transfers show *weaker* local tax effort and accountability — a local "resource curse" that cuts the other way. The lesson is that *how* rent is captured and distributed (transparent, equal, direct dividend vs. opaque government transfer) matters as much as the fact of capture itself.
 
-The clearest failure mode on record is **Mongolia's Human Development Fund** (2010–12), the only national UBI to date, reviewed in the [World Bank's UBI guide](/wiki/worldbank-exploring-ubi/): transfer levels were set by electoral promise against *future* mining revenue rather than paid from realized fund earnings, the shortfall was debt-financed (public debt rose from 31% to 48% of GDP in two years), and the program was replaced by a targeted child grant. The design lesson runs the same direction as Alaska's success: durability requires the dividend to track actual realized rent, not projected rent.
+The clearest failure mode on record is **Mongolia's Human Development Fund** (2010–12) — which the [World Bank's UBI guide](/wiki/worldbank-exploring-ubi/) calls "the only country that has ever had a full-fledged UBI": transfer levels were set by electoral promise against *future* mining revenue rather than paid from realized fund earnings, the shortfall was debt-financed (public debt rose from 31% to 48% of GDP in two years), and the program was replaced by a targeted child grant. The design lesson runs the same direction as Alaska's success: durability requires the dividend to track actual realized rent, not projected rent.
 
 ## The Evidence in Detail
 

@@ -166,9 +166,7 @@ excess burden either in the form of accelerated or retarded depletion."[1]
 
 **Government ownership**, the third instrument, he ranks below both taxes on
 efficiency grounds despite endorsing it as "thinkable" in the consensus
-section above: "governments own so much that they almost always administer
-their holdings monopolistically, however enlightened they may be in other
-ways," citing Alberta (provincial mineral owner and, in his account, "just
+section above: "governments own so much that they almost always administer their holdings monopolistically, however enlightened they may be in other ways," citing Alberta (provincial mineral owner and, in his account, "just
 another member of the world cartel") and OPEC as governments whose ownership
 produced cartel behavior rather than efficient extraction.[1]
 

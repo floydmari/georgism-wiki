@@ -6,7 +6,7 @@ stub: false
 excerpt: "The political-economic philosophy, named for Henry George, holding that the value of land and natural resources is created by the community and therefore belongs to the public, while the fruits of individual labour and capital should be left untaxed with those who produce them."
 sources: [george-1879, andelson-2003]
 pd_quotes: true
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 ---
 
 ## Definition
@@ -50,9 +50,7 @@ operating with increasing force, is observable in our civilization to-day" (Book
 George's specific mechanism is political, not merely economic: political equality
 (universal suffrage) does not by itself prevent land-driven inequality, and once wealth
 concentrates, that same universal suffrage becomes the *route* to despotism rather than a
-defense against it, because a corrupt democracy systematically promotes the wrong people —
-"in a corrupt democracy the tendency is always to give power to the worst... The best
-gravitate to the bottom, the worst float to the top." Where wealth is roughly equal,
+defense against it, because a corrupt democracy systematically promotes the wrong people — "in a corrupt democracy the tendency is always to give power to the worst... The best gravitate to the bottom, the worst float to the top." Where wealth is roughly equal,
 George argues, "the more democratic the government the better it will be; but where there
 is gross inequality in the distribution of wealth, the more democratic the government the
 worse it will be." Poverty itself corrupts the franchise that is supposed to check power:

@@ -8,7 +8,7 @@ excerpt: British Columbia's expert panel simulated 1,640 basic-income designs an
   concluded against a universal basic income, recommending targeted reforms instead
   — though its own simulations show a UBI cuts poverty sharply, at far higher cost
   per poor person helped than targeted transfers.
-last_reviewed: 2026-07-14
+last_reviewed: 2026-08-10
 source_url: https://bcbasicincomepanel.ca/wp-content/uploads/2021/01/Final_Report_BC_Basic_Income_Panel.pdf
 stub: false
 subcategory: wiki-research-inequality
@@ -53,7 +53,7 @@ This report concerns **general-revenue-financed** basic income — Ontario-pilot
 ## Nuances and Limits
 
 - **The panel does not dispute that a UBI reduces poverty** — its own simulation shows a poverty-line UBI "effectively eliminating poverty." Its objection is cost-effectiveness relative to targeted alternatives at the same budget, plus a broader "justice" framework (weighted toward autonomy *and* social connection/reciprocity) the panel itself designed.
-- **Contested framing.** Senator Yuen Pau Woo (who separately requested the PBO's 2020 GBI costing) argued the panel's comparison is structurally unfair to UBI: "an unconditional basic income can never improve on targeted outcomes when compared with conditional benefits that are, well, targeted — for the same amount of investment," and that its normative "just society" framework (emphasizing paid work and reciprocity) was not the only defensible one.
+- **Contested framing.** Senator Yuen Pau Woo (who separately requested the PBO's 2020 GBI costing) argued the panel's comparison is structurally unfair to UBI: "an unconditional basic income can never improve on targeted outcomes when compared with conditional benefits that are, well, targeted — for the same amount of investment," and that the panel's "just society" framework (emphasizing paid work and reciprocity) rests on premises whose relaxation "does not imply a less just society, only a different conception of what a just society means."
 - **Evelyn Forget's response** did not dispute the panel's numbers but argued its scope was too conservative: "I don't disagree with any changes they recommend. I just don't think they go far enough," criticizing the targeted-groups approach for reproducing a "deserving and the undeserving" distinction, and noting a basic income "doesn't require ... a lot of personal oversight" the panel's preferred programs still impose.
 - **BC-specific fiscal structure.** The financing conclusions turn partly on BC's unusually low bottom tax bracket; compare the [PBO's national costing](/wiki/pbo-guaranteed-basic-income-costing/), which finds a much larger *fully offset* gross cost and a comparatively small net/behavioural cost federally.
 - **Pilot rejection is contested.** The panel's argument against piloting (short pilots can't capture permanence-dependent behavioural change or test financing effects) is a judgment call some researchers dispute; Ontario's own pilot was cancelled early, which the panel treats as informative about political durability.

@@ -96,10 +96,7 @@ reclamation projects, price-discriminated rural power and water rates,
 uniform "postage-stamp" utility and freight pricing that subsidizes remote
 extensions from an urban rate base, disproportionate rural highway mileage,
 Rural Free Delivery, and Agricultural Conservation Program cost-sharing all
-land, as a matter of program design, on farmland owners: "the proximate
-beneficiaries of submarginal extensions are clearly those whose lands they
-serve... to enjoy the benefit, one must locate where it is to be had, and of
-course pay the price in rent or land value."[10] He further documents a
+land, as a matter of program design, on farmland owners: "the proximate beneficiaries of submarginal extensions are clearly those whose lands they serve... to enjoy the benefit, one must locate where it is to be had, and of course pay the price in rent or land value."[10] He further documents a
 government-*subsidized* credit channel with the same capitalization effect —
 distinct from the private credit-discrimination mechanism on [Land
 Monopoly](/wiki/land-monopoly/) — arguing federal rural-lending agencies

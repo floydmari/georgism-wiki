@@ -9,7 +9,7 @@ tier: Core
 source_url: https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf
 stub: false
 excerpt: "Gaffney's systematic catalogue of ten primary reasons land differs economically from capital, and eighteen policy consequences that follow — the fullest single statement of the theoretical case against merging land into general capital theory."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 bears_on_objections: [land-is-just-capital, lvt-austrian-critique, marshall-single-tax-objection]
 ---
 
@@ -150,8 +150,7 @@ Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/),
 supplies Gaffney's own quantitative test of the resulting concentration claim, using
 US Census of Agriculture data.
 
-**B-11: land is a natural basis for market power.** "Amassing land is always done,
-can only be done, by shrinking the holdings of others" — a zero-sum property
+**B-11: land is a natural basis for market power.** "Amassing land is always done, can only be done, by shrinking the holdings of others" — a zero-sum property
 Gaffney contrasts with capital and labor, both of which one party can accumulate
 without diminishing what remains for others.[1] He cites a concrete 1993 case: a
 California grocery chain bought and shuttered a competitor's high-traffic sites

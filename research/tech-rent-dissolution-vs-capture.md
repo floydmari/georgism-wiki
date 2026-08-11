@@ -10,7 +10,7 @@ category: research
 excerpt: Land rent cannot be dissolved by competition — the supply is fixed, so capture
   is the only remedy. A platform rent sustained by artificial switching costs sometimes
   can be dissolved instead.
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://digital-markets-act.ec.europa.eu/commission-finds-apple-and-meta-breach-digital-markets-act-2025-04-23_en
 stub: false
 subcategory: wiki-research-resources
@@ -57,7 +57,7 @@ supply is fixed by nature; no policy can manufacture more usable land at a given
 the *only* way to deal with land rent is to **capture** it — tax it and either keep it public
 or redistribute it, because the rent will exist and accrue to *someone* regardless of what the
 state does. That is the entire argument for the [LVT](/wiki/land-value-tax/): capture is not
-merely the best option, it is the only one that does not require conjuring competition that
+merely the best option, it is the sole one that does not require conjuring competition that
 cannot exist.
 
 A platform moat is different in kind, and the difference is the whole reason this page and its
@@ -176,7 +176,7 @@ Judge Leonie Brinkema ruled on 17 April 2025 that Google illegally monopolized t
 ad-server** and **ad-exchange** markets (dismissing a third claim about advertiser ad networks for
 lack of a distinct relevant market).[12] Unlike the search case, the DOJ here is seeking genuine
 structural relief: divestiture of Google's ad exchange (AdX), with publisher ad server (DFP)
-divestiture as a fallback if AdX alone proves insufficient, plus open-sourcing the ad-auction
+divestiture as a fallback if AdX alone turns out to be insufficient, plus open-sourcing the ad-auction
 algorithm and mandated interoperability APIs so rival ad servers and exchanges can plug in.[13]
 The remedies trial ran September–November 2025 with closing arguments on 21 November 2025; as of
 this research pass **no ruling has issued**, with observers expecting a decision sometime in
@@ -257,7 +257,7 @@ it — is itself evidence that the security concern is not merely rhetorical opp
 as engineering caution.
 
 **None of this is a case that dissolution never works — it is a case that "moat" and "genuine
-scale" are not always cleanly separable, and a regulator or court can get the call wrong in either
+scale" are not cleanly separable in every case, and a regulator or court can get the call wrong in either
 direction.** Epic's stalled iOS store adoption could reflect either Apple's obstruction (the
 dissolution-favorable reading) or a genuine, if unwelcome, consumer preference for Apple's
 integrated store (the counter-case reading); the evidence assembled here cannot fully adjudicate

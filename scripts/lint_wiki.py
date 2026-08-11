@@ -290,6 +290,10 @@ def main():
             # within a "double-quoted span", the same intent as the public_domain
             # exemption above.
             quoted = [(m.start(), m.end()) for m in re.finditer(r'"[^"\n]*"', body)]
+            # same exemption for curly-quoted spans and markdown blockquote
+            # lines (> …), which also carry a source's own words verbatim
+            quoted += [(m.start(), m.end()) for m in re.finditer(r'“[^”\n]*”', body)]
+            quoted += [(m.start(), m.end()) for m in re.finditer(r'^[ \t]*>.*$', body, re.M)]
             in_quote = lambda pos: any(s <= pos < e for s, e in quoted)
             # proper-noun acronym expansion that legitimately contains a banned
             # word: ATCOR = "All Taxes Come Out of Rent" (and its EBCOR sibling).

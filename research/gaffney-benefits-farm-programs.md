@@ -95,10 +95,7 @@ submarginal rural extensions from a dense urban rate base; disproportionate
 per-capita federal highway mileage in sparsely populated states (quoting
 Senator Albert Beveridge's phrase, "the free coinage of western senators");
 Rural Free Delivery mail service; and Agricultural Conservation Program
-cost-sharing for erosion control and land improvement.[1] "The proximate
-beneficiaries of submarginal extensions are clearly those whose lands they
-serve... to enjoy the benefit, one must locate where it is to be had, and of
-course pay the price in rent or land value."[1] (B-claim; Gaffney's own
+cost-sharing for erosion control and land improvement.[1] "The proximate beneficiaries of submarginal extensions are clearly those whose lands they serve... to enjoy the benefit, one must locate where it is to be had, and of course pay the price in rent or land value."[1] (B-claim; Gaffney's own
 descriptive survey of federal program design, not econometrically tested in
 this paper.)
 
@@ -111,11 +108,7 @@ government-*subsidized* credit channel with the same land-value effect.
 Federal rural-credit institutions (the Federal Land Bank, the Production
 Credit Administration, the Farm Home Administration) were originally
 intended, Gaffney notes, partly to *offset* private credit rationing based on
-collateral security — but "I believe that is now regarded as a visionary
-scheme unworthy of hardheaded bankers, and credit agencies tend to prefer
-credit-worthy borrowers, much as other lenders always have. So the net
-effect has been to increase land value by lowering the structure of interest
-rates available to landowners."[1] Because land purchase is financed at a
+collateral security — but "I believe that is now regarded as a visionary scheme unworthy of hardheaded bankers, and credit agencies tend to prefer credit-worthy borrowers, much as other lenders always have. So the net effect has been to increase land value by lowering the structure of interest rates available to landowners."[1] Because land purchase is financed at a
 capitalization rate, subsidized long-term credit used to buy land (rather
 than improve it) directly raises the land value derived from a given rent
 stream. He also notes agricultural land eligible for mineral rights sees

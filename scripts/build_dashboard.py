@@ -199,7 +199,7 @@ def render(problems, benefits):
           'excerpt: "The whole graded case at a glance: every problem and benefit claim in '
           'the wiki, with its evidence grade, supporting and challenging study counts, and a '
           'one-line verdict."\n'
-          'last_reviewed: 2026-07-12\n'
+          'last_reviewed: 2026-08-10\n'
           '---\n\n'
           '# The Evidence Dashboard\n\n')
     body = INTRO + "\n"

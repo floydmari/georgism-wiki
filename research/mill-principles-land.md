@@ -9,7 +9,7 @@ tier: Core
 source_url: https://www.econlib.org/library/Mill/mlP.html
 stub: false
 excerpt: "Mill's Book V land-taxation chapters argue that the future unearned increase of rent may justly be taxed without disturbing existing purchases — a direct forerunner of Georgism that stops well short of it."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 supports_outcomes: []
 ---
 
@@ -134,10 +134,7 @@ resume its right." He develops the argument at length in the dedicated chapter o
 question — Book VII, Ch. III, "Claim of Land Owners to Compensation" — which treats the
 buy-out proposals of his day as descendants of the same compensation impulse that led, "in
 abolishing slavery in the British West Indies, [to] $100,000,000… paid the slaveholders." In
-the same chapter George names Mill's design directly: this compensation idea, he writes, "led
-John Stuart Mill, although clearly perceiving the essential injustice of private property in
-land, to advocate, not a full resumption of the land, but only a resumption of accruing
-advantages in the future."[10]
+the same chapter George names Mill's design directly: this compensation idea, he writes, "led John Stuart Mill, although clearly perceiving the essential injustice of private property in land, to advocate, not a full resumption of the land, but only a resumption of accruing advantages in the future."[10]
 
 Whether Mill's narrower, prospective design or George's full-capture design is the more
 defensible policy is a normative question the wiki treats elsewhere — see the

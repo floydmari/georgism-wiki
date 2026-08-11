@@ -64,11 +64,11 @@ states by the ratio of property tax to total state/local tax revenue, then
 compare **unweighted means of the top ten and bottom ten states** (and, in an
 earlier pass, the top/bottom five and top/bottom eleven) on personal income per
 capita, total tax burden, and property tax burden. Moving from the Bottom Ten's
-mean to the Top Ten's mean: personal income per capita rises 48%, all taxes
+mean to the Top Ten's mean: personal income per capita rises 48%, total taxes
 rise 71%, and the property tax itself rises 173%.[1] The authors' causal
 argument is an elimination test, not an identification strategy: a 52% income
 gap between the "New Hampshire five" and their comparison group cannot
-plausibly explain a 92% gap in all taxes and a 173% gap in property taxes if
+plausibly explain a 92% gap in total taxes and a 173% gap in property taxes if
 income were driving the tax mix, so — they reason — the tax mix more plausibly
 drives the income difference.[1] No regression, confidence interval, or control
 for omitted state characteristics (education, urbanization, industry mix,
@@ -76,8 +76,7 @@ proximity to major metros) appears anywhere in the chapter.
 
 ### New Hampshire
 
-New Hampshire anchors the case: it is "the only state in the Union where more
-than half of all government revenue... comes from the property tax" (64% of
+New Hampshire anchors the case: it is "the only state in the Union where more than half of all government revenue... comes from the property tax" (64% of
 state/local revenue in 1992, versus a US mean of 32%), while running a top-five
 lowest overall state tax burden and no broad sales or income tax.[1] The
 authors report New Hampshire's personal-income-per-capita rank rising from

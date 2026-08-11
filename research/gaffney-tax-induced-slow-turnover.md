@@ -6,7 +6,7 @@ excerpt: Gaffney's five-part 1970-71 AJES series deriving, from first principles
   that ordinary excise and income taxation biases investment toward longer-lived assets
   and toward land — and that a tax base defined by "true" (economic) depreciation
   is the one intertemporally neutral form income taxation can.
-last_reviewed: 2026-07-18
+last_reviewed: 2026-08-10
 source_url: https://masongaffney.org/publications/I11-TaxInducedSlowTurnoverofCapital.CV.CV.pdf
 stub: false
 subcategory: wiki-research-georgism
@@ -94,8 +94,8 @@ note:** this is a formal 1970 statement of the mechanism the wiki's ATCOR page
 currently traces only to 1994's "negative shifting" language in *The Corruption of
 Economics* — see the cross-link added to [concepts/atcor.md](/wiki/atcor/) below.
 It is narrower than the full ATCOR claim (Gaffney derives it specifically for
-capital-expensing under the corporate income tax, not as a general theorem about
-all taxes), so it is presented as a precursor to the mechanism, not a restatement of
+capital-expensing under the corporate income tax, not as a general theorem covering
+every tax), so it is presented as a precursor to the mechanism, not a restatement of
 ATCOR itself.
 
 ## Parts III-IV: The True-Depreciation Neutrality Theorem
@@ -112,7 +112,7 @@ equals `i(1-t)` for every asset life once true depreciation is allowed — which
 IV/V carries to completion in the body text.[1] This body-text derivation is the
 general theorem that the series' Appendix II (credited to Vickrey and Consigny, and
 already noted on the [Alaska report page](/wiki/gaffney-alaska-oil-leasing/) as
-reprinted there) proves formally with continuous-time calculus: **an income tax
+reprinted there) establishes as a formal continuous-time-calculus proof: **an income tax
 using true economic depreciation is intertemporally neutral.** The wiki's prior
 touch on this result via the Alaska report captured only the formal proof; this page
 is the first to carry the verbal derivation and worked numerical example (Table 2,
@@ -143,9 +143,7 @@ development on one mechanism, not three independent treatments.
 
 ## Part V: Summary, a Constitutional Aside, and the Two Mathematical Appendices
 
-Part V's own summary states the series' upshot plainly: the only part of the income
-tax that can be made "perfectly neutral" is the part that falls on land income,
-because land rent is a residual that cannot be shifted away by the owner the way
+Part V's own summary states the series' upshot in its own words: "the neutrality is impaired by shifting; and the only part of the income tax that may be made perfectly neutral is the part that falls on land income" — because land rent is a residual that cannot be shifted away by the owner the way
 capital and labor returns can.[1] Gaffney adds a legal aside — since his
 true-depreciation definition of taxable income makes an income tax "much like the
 property tax," he suggests the 16th Amendment's authorization of taxes on "incomes
@@ -158,13 +156,13 @@ The series closes with two distinct mathematical proofs, both already partly on 
 wiki's radar via the Alaska report, now placed in their original context:
 
 - **Appendix I**, credited to William Vickrey, Matthew Gaffney Jr., and Joseph
-  Holzinger, proves that the effective after-tax rate of return on a point-input,
+  Holzinger, is a formal proof that the effective after-tax rate of return on a point-input,
   point-output investment *rises* with the investment's life, for any tax rate on
   the maturity gain strictly between 0 and 1 — the formal version of the longevity-
   bias claim worked more roughly with Table 2 in Part III.[1] This proof is
   **not** the one reprinted in the Alaska report; it has no prior wiki citation.
 - **Appendix II**, credited to Michèle Consigny (original formulation) and William
-  Vickrey (the shortened, generalized form Gaffney published), proves the general
+  Vickrey (the shortened, generalized form Gaffney published), is the formal proof of the general
   intertemporal-neutrality theorem stated in Part III: using continuous-time present-
   value calculus, it shows that taxing net income after true depreciation leaves the
   private and public discount functions related by an identity that makes the
@@ -181,7 +179,7 @@ wiki's radar via the Alaska report, now placed in their original context:
   expensing-converts-the-income-tax-to-a-land-tax derivation is a 1970 formal
   precursor to the shifting-onto-rent mechanism, predating the 1994 "negative
   shifting" language in *The Corruption of Economics* by 24 years. Narrower in scope
-  (capital-expensing specifically, not a general theorem about all taxes), so framed
+  (capital-expensing specifically, not a general theorem covering every tax), so framed
   as a precursor mechanism, not an earlier coining of ATCOR itself.
 - **Research:** [Gaffney (1976), Toward Full Employment with Limited Land and
   Capital](/wiki/gaffney-full-employment-limited-land/) — this series is the
@@ -223,7 +221,7 @@ short quotations rather than reproducing text; the full unabridged series was OC
 from Gaffney's own posted PDF and is not currently mirrored to the wiki as a `texts/`
 page. O11, the 1971 rejoinder to Thomson and Goldstein, was fetched and read for
 context only (confirming the triage's "technical rejoinder" characterization) and is
-not separately mined; if it later proves to contain content beyond restating the
+not separately mined; if it later turns out to contain content beyond restating the
 parent series, that is future-wave work, not resolved here.
 
 ## Sources
