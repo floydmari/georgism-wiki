@@ -581,6 +581,9 @@ async function processGhostEdit(slug, post, env, ctx) {
       await gh(env, "PUT", `/repos/${env.OWNER}/${env.REPO}/pulls/${pr.number}/merge`, {
         merge_method: "squash", commit_title: `ghost-edit(${slug}): persist trusted-admin edit (#${pr.number})`,
       });
+      // delete the merged branch (best-effort — one branch per Ghost edit adds up)
+      await fetch(`${GH}/repos/${env.OWNER}/${env.REPO}/git/refs/heads/${branch}`,
+        { method: "DELETE", headers: ghHeaders(env) }).catch(() => {});
       return console.log(`writeback ${slug}: merged #${pr.number}`);
     } catch (e) { lastErr = e; }
   }
