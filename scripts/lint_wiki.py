@@ -305,8 +305,10 @@ def main():
                     if not in_quote(m.start()) and not in_allowed(m.start()):
                         warn(f, f"banned-certainty word '{m.group(0)}' — verify source supports it")
                         break
-        cn = len(re.findall(r"\[CITATION NEEDED", body))
-        vf = len(re.findall(r"\[VERIFY", body))
+        # backtick-quoted `[VERIFY]` mentions (boilerplate/cross-references)
+        # are not live markers — same rule as scripts/verification_queue.py
+        cn = len(re.findall(r"(?<!`)\[CITATION NEEDED", body))
+        vf = len(re.findall(r"(?<!`)\[VERIFY", body))
         if cn: warn(f, f"{cn} unresolved [CITATION NEEDED] marker(s)")
         if vf: warn(f, f"{vf} unresolved [VERIFY] marker(s)")
         if "## Sources" in body and not re.search(r"—\s*[Uu]sed\s+(?:for|as|in|to)\b", body):

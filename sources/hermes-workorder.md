@@ -30,17 +30,21 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-11: 10 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
+*Regenerated 2026-08-11: 14 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
 
-### needs-unblocked-web (proxy allowlist or manual fetch) (10 of 10)
+### needs-unblocked-web (proxy allowlist or manual fetch) (14 of 14)
 
 - `people/elizabeth-magie.md` — **VERIFY** exact publication date of the Realtor.com piece not confirmed — the page could not be directly fetched and this is drawn from a search-engine summary of its content.
 - `people/silvio-gesell.md` — **VERIFY** this page's account of Gesell's own doctrine (source 1, Die natürliche Wirtschaftsordnung) still rests on standard secondary reference knowledge, not a fresh read of Gesell's primary text or of Loehr's full body text thi
 - `people/sun-yat-sen.md` — **VERIFY** the wiki still has not read this paper's body text — direct fetch of the Wiley article page returned HTTP 403/a bot-CAPTCHA wall via three independent methods this session (direct fetch, curl with a browser user-agent, a
 - `places/australia.md` — **VERIFY** exact article URL/slug reconstructed via search rather than direct fetch — the page returned a fetch error, likely a paywall or bot block
+- `places/united-states.md` — **VERIFY** needs-unblocked-web — exact enactment date not confirmed; the 2012 KCMO report PDF returned 403 (manual fetch needed). Attempted 2026-08-10: the Kansas City Clerk's legislation portal (clerk.kcmo.gov) surfaces only curre
+- `events/1886-nyc-mayoral-election.md` — **VERIFY** needs-unblocked-web — abstract only; full text not retrievable, Wiley blocked automated access across retrieval methods
 - `narratives/the-great-land-robbery.md` — **VERIFY** full text not accessible this session — needs-unblocked-web
 - `research/fiorentino-moogan-agglomeration.md` — **VERIFY** exact modelling approach, calibration, and any quantitative results once full text is accessible — needs-unblocked-web.
 - `research/kakumu-kenya-site-value-tax.md` — **VERIFY** full text unread. Re-confirmed closed on 2026-08-10 via Unpaywall (isoa: false), a direct SAGE fetch (paywalled), and the author's own Academia.edu profile (access error, no self-archived copy found).
+- `research/loehr-george-gesell-odd-couple.md` — **VERIFY** needs-unblocked-web — the wiki has not read this paper's body text; full text remains genuinely CC-BY licensed but mechanically unreachable (Wiley bot-detection); four retrieval methods failed identically across two revi
+- `research/obeng-odoom-rodney-legacy.md` — **VERIFY** needs-unblocked-web — the wiki has not read this paper's body text; full text remains genuinely CC-BY licensed but mechanically unreachable (Wiley bot-detection); four retrieval methods failed identically across two revi
 - `research/xu-huang-li-china-hcrs-george.md` — **VERIFY** full text unread — Wiley's bot-detection has now blocked four independent retrieval methods across two review passes (2026-07-26, 2026-08-10); the depth of the analogy, and any qualifications the authors attach to it, ca
 - `research/yang-split-rate-spillover-employment.md` — **VERIFY** confirm whether the published 2024 version updates the 1980–2010 sample period or coefficient magnitudes reported in the 2015 working paper — needs-unblocked-web, a proxy or institutional-access channel this environment
 - `books/bird-the-land-trap.md` — **VERIFY** original study(ies) behind this range not independently identified this session — cited via Doucet's review, not read in Bird's primary text

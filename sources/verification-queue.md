@@ -31,7 +31,26 @@ Every marker below is classified into exactly one of three buckets:
   doesn't appear to exist online (unpublished address, undated site, paywalled
    archive). Reason given per row.
 
-## DELIBERATE-SCOPED (13) — stay in place, no action needed
+## DELIBERATE-SCOPED (18) — stay in place, no action needed
+
+*Routed 2026-08-11 (T1 triage of the unclassified channel) — monitoring-type markers
+awaiting a future event or a channel this environment cannot work; revisit notes per row:*
+
+- `places/canada.md` (L58) — negative result honestly recorded: no evidence of any
+  Saskatchewan land-only-tax consideration after two search passes (2026-08-10).
+  Nothing to fetch; revisit only if new Saskatchewan coverage appears in the queue.
+- `places/germany.md` (L28) — calendar-gated: plaintiff associations announced intent
+  to file a Verfassungsbeschwerde against the Baden-Württemberg law, but no BVerfG
+  case number or filing date exists yet (checked 2026-08-10). Revisit ~quarterly.
+- `places/washington-state.md` (L32) — calendar-gated: whether Mayor Wilson's office
+  takes post-inauguration action on the LVT commitment (legislative agenda, Vibrant
+  Cities Act support). Revisit on Seattle news or ~2026-10.
+- `places/south-korea.md` (L28) — needs direct inquiry or Korean-language archival
+  search to pin the Land+Freedom Institute ↔ Landforall.kr relationship; not
+  resolvable from English-language web. Leave until a Korean-capable channel exists.
+- `concepts/dalt-depreciation-assisted-lvt.md` (L25) — documents an absence: no
+  independent economic modelling of DALT exists yet (mechanism newly named in 2026).
+  The marker is the honest state of the literature; revisit ~2027 or on new citation.
 
 - `narratives/land-speculation-causes-cycles.md` (×2, L58, L324) — Foldvary's 2026
   forecast is time-locked; cannot be assessed until the year closes. Revisit after
@@ -201,42 +220,26 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-11: 28 of 51 marker(s) not yet routed by hand (18 page(s) already curated above).*
+*Regenerated 2026-08-11: 15 of 29 marker(s) not yet routed by hand (23 page(s) already curated above).*
 
-### needs-unblocked-web (proxy allowlist or manual fetch) (10)
+### needs-unblocked-web (proxy allowlist or manual fetch) (14)
 
 - `people/elizabeth-magie.md` — **VERIFY** exact publication date of the Realtor.com piece not confirmed — the page could not be directly fetched and this is drawn from a search-engine summary of its content.
 - `people/silvio-gesell.md` — **VERIFY** this page's account of Gesell's own doctrine (source 1, Die natürliche Wirtschaftsordnung) still rests on standard secondary reference knowledge, not a fresh read of Gesell's primary text or of Loehr's full body text thi
 - `people/sun-yat-sen.md` — **VERIFY** the wiki still has not read this paper's body text — direct fetch of the Wiley article page returned HTTP 403/a bot-CAPTCHA wall via three independent methods this session (direct fetch, curl with a browser user-agent, a
 - `places/australia.md` — **VERIFY** exact article URL/slug reconstructed via search rather than direct fetch — the page returned a fetch error, likely a paywall or bot block
+- `places/united-states.md` — **VERIFY** needs-unblocked-web — exact enactment date not confirmed; the 2012 KCMO report PDF returned 403 (manual fetch needed). Attempted 2026-08-10: the Kansas City Clerk's legislation portal (clerk.kcmo.gov) surfaces only curre
+- `events/1886-nyc-mayoral-election.md` — **VERIFY** needs-unblocked-web — abstract only; full text not retrievable, Wiley blocked automated access across retrieval methods
 - `narratives/the-great-land-robbery.md` — **VERIFY** full text not accessible this session — needs-unblocked-web
 - `research/fiorentino-moogan-agglomeration.md` — **VERIFY** exact modelling approach, calibration, and any quantitative results once full text is accessible — needs-unblocked-web.
 - `research/kakumu-kenya-site-value-tax.md` — **VERIFY** full text unread. Re-confirmed closed on 2026-08-10 via Unpaywall (isoa: false), a direct SAGE fetch (paywalled), and the author's own Academia.edu profile (access error, no self-archived copy found).
+- `research/loehr-george-gesell-odd-couple.md` — **VERIFY** needs-unblocked-web — the wiki has not read this paper's body text; full text remains genuinely CC-BY licensed but mechanically unreachable (Wiley bot-detection); four retrieval methods failed identically across two revi
+- `research/obeng-odoom-rodney-legacy.md` — **VERIFY** needs-unblocked-web — the wiki has not read this paper's body text; full text remains genuinely CC-BY licensed but mechanically unreachable (Wiley bot-detection); four retrieval methods failed identically across two revi
 - `research/xu-huang-li-china-hcrs-george.md` — **VERIFY** full text unread — Wiley's bot-detection has now blocked four independent retrieval methods across two review passes (2026-07-26, 2026-08-10); the depth of the analogy, and any qualifications the authors attach to it, ca
 - `research/yang-split-rate-spillover-employment.md` — **VERIFY** confirm whether the published 2024 version updates the 1980–2010 sample period or coefficient magnitudes reported in the 2015 working paper — needs-unblocked-web, a proxy or institutional-access channel this environment
 - `books/bird-the-land-trap.md` — **VERIFY** original study(ies) behind this range not independently identified this session — cited via Doucet's review, not read in Bird's primary text
 
-### needs-new-source (research/forage task) (2)
+### needs-new-source (research/forage task) (1)
 
-- `concepts/dalt-depreciation-assisted-lvt.md` — **VERIFY** no antecedent academic source for this exact mechanism was found in a search beyond the NYC 1920s policy episode and Doucet's own piece — treat DALT as newly named/formalized in 2026 pending independent citation.
 - `research/nef-modern-system-fair-rents.md` — **VERIFY** the wiki has not independently reviewed the broader empirical rent-control literature (including the specific Autor–Palmer–Pathak Cambridge, MA and Diamond–McQuade–Qian San Francisco quasi-experimental studies commonly c
-
-### unclassified (T1 triage) (16)
-
-- `concepts/dalt-depreciation-assisted-lvt.md` — **VERIFY** no independent economic modelling or evaluation of DALT located as of 2026-07-30.
-- `concepts/spectrum-auctions.md` — **VERIFY** .)
-- `places/canada.md` — **VERIFY** no evidence found this session, or in a reattempt on 2026-08-10, of any Saskatchewan municipality or the province itself considering a full land-only tax; the CBC's 2026 coverage of a proposed AI data centre in the RM of
-- `places/germany.md` — **VERIFY** as of this session (2026-08-10), only the announcement of intent to file was found — no confirmed Bundesverfassungsgericht case number or filing date for a complaint specifically against the Baden-Württemberg law was loc
-- `places/south-korea.md` — **VERIFY** the exact nature of the Land+Freedom Institute's relationship to Landforall.kr — formal project, funder, or informal endorsement — not confirmed this session; would need a direct inquiry to either party or a Korean-langu
-- `places/united-states.md` — **VERIFY** exact enactment date not confirmed. Attempted 2026-08-10: the Kansas City Clerk's legislation portal (clerk.kcmo.gov) surfaces only current annual rate-setting ordinances (e.g. Ordinance 250169, setting FY2025-26 rates u
-- `places/washington-state.md` — **VERIFY** whether Wilson's office has taken any further, post-inauguration action on this commitment — e.g., a formal city legislative-agenda item or public support for the Vibrant Cities Act — beyond the campaign-platform stateme
-- `events/1886-nyc-mayoral-election.md` — **VERIFY** abstract only, full text not retrievable this session, Wiley blocks automated access
-- `benefits/resource-rent-capture-works.md` — **VERIFY** note; corroborating, not load-bearing).
-- `research/kakumu-kenya-site-value-tax.md` — **VERIFY** .
-- `research/loehr-george-gesell-odd-couple.md` — **VERIFY** .
-- `research/loehr-george-gesell-odd-couple.md` — **VERIFY** the wiki has not read this paper's body text — full text remains genuinely CC-BY licensed but mechanically unreachable; four retrieval methods failed identically across two review passes (2026-07-26, 2026-08-10). The the
-- `research/obeng-odoom-rodney-legacy.md` — **VERIFY** .
-- `research/obeng-odoom-rodney-legacy.md` — **VERIFY** the wiki has not read this paper's body text — full text remains genuinely CC-BY licensed but mechanically unreachable; four retrieval methods failed identically across two review passes (2026-07-26, 2026-08-10). The spe
-- `research/xu-huang-li-china-hcrs-george.md` — **VERIFY** .
-- `books/bird-the-land-trap.md` — **VERIFY** absence of Economist/WSJ reviews reflects a search gap, not necessarily their non-existence
 <!-- AUTOGEN:END -->

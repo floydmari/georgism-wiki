@@ -108,6 +108,11 @@ def collect_markers():
         for path in sorted(glob.glob(f"{cat}/*.md")):
             body = open(path, encoding="utf-8").read()
             for m in re.finditer(r"\[(CITATION NEEDED|VERIFY)(\s*[:—–]|\])", body):
+                # a backtick-quoted `[VERIFY]` is a mention of the marker
+                # convention (boilerplate, cross-references to another page's
+                # marker), not a live marker on this page — skip it
+                if m.start() > 0 and body[m.start() - 1] == "`":
+                    continue
                 kind, sep = m.group(1), m.group(2)
                 if sep == "]":
                     detail = _following_sentence(body, m.end())
