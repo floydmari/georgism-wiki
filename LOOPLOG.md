@@ -3167,3 +3167,37 @@ Two things the demo taught, both worth keeping:
    the environment; today's build re-fetched the Cloudflare token on every deploy and
    the Ghost key on every script, which is what burned the quota. Approval never
    depended on the email — adding the floyd-approved label by hand is the same trigger.
+
+## 2026-08-15 (d) — echo-guard: two real bugs found by a third false alarm
+
+Wakeup found Issue #40 (rising-land-costs-drive-poverty) — another
+"could not be auto-converted" filed against a plain sync echo, this time WITH the
+morning's loose echo-guard already deployed. Diagnosed against the page's real Ghost
+html rather than by inspection; two genuine defects in normLoose:
+
+1. **Asymmetric syntax stripping.** `[#>*_`|]` was stripped from the markdown side
+   only, so any LITERAL such character diverged. Here: the DOI `REST_a_00550` →
+   "REST a 00550" on the git side, unchanged on the Ghost side. Fix: the syntax strip
+   is now a common final pass applied to both sides.
+2. **Over-greedy tag stripping.** `<[^>]+>` matched the literal "<" in "poverty spells
+   <1 year" and deleted everything to the next ">", silently removing real prose from
+   the git side. Fix: `TAG_RE = /<\/?[a-zA-Z][^>]*>/g` — a tag needs a letter after the
+   angle bracket, the same rule markdown itself uses.
+
+Verified against all three figure pages that produced false alarms today (#37, #38,
+#40): each now compares equal on a sync echo, and a one-word change to any of them is
+still detected. Corpus regression unchanged (915/918, 0 mismatches).
+
+Lesson worth keeping: the first echo-guard was written from reasoning about what Ghost
+does to markup, and it was wrong twice in the same function. Both bugs only surfaced by
+diffing REAL Ghost html against the real page source. Normalization pairs must be tested
+against live data, never argued into correctness.
+
+Deploy blocked: the loop's 1Password quota (see entry (c)) is still exhausted and the
+Cloudflare token lives there, so the fix is committed but not live; a deploy is armed to
+fire on quota reset. Until it lands, figure-page syncs may file more false Issues —
+harmless, closable unread.
+
+Rest of the pass: queue 0 pending (157 consumed), no new suggestion PRs or Issues, no
+open ghost-edit PRs. PR #41 (the demo submission) still sits at awaiting-floyd — correct,
+the merge gate needs Floyd's label and nothing else was due.

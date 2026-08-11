@@ -663,22 +663,29 @@ function normText(s) {
 /* Loose text-level comparison for the refusal path: words only — html tags
    stripped, markdown syntax stripped, link/image URLs dropped entirely (Ghost
    absolutizes hrefs and re-hosts images, so URLs never compare stable). */
+/* Only real tags: a literal "<" in prose ("poverty spells <1 year") must not eat
+   the rest of the sentence up to the next ">" — that silently deleted text from
+   the git side of the comparison and made a sync echo look like an edit. */
+const TAG_RE = /<\/?[a-zA-Z][^>]*>/g;
+
 function normLoose(s, isHtml) {
   let t = clean(s).replace(/<!--[\s\S]*?-->/g, " ");
   if (isHtml) {
-    t = decodeEntities(t.replace(/<[^>]+>/g, " "));
+    t = decodeEntities(t.replace(TAG_RE, " "));
   } else {
     t = decodeEntities(t                           // figure html carries &amp; etc.
       .replace(/^---\n[\s\S]*?\n---\n/, "")
-      .replace(/<[^>]+>/g, " ")                    // raw html blocks (figures)
+      .replace(TAG_RE, " ")                        // raw html blocks (figures)
       .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
       .replace(/\[([^\]]*)\]\([^)]*\)/g, " $1 ")
       .replace(/^\s*(?:[-+*]|\d+\.)\s+/gm, " ")
-      .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " ")
-      .replace(/\\/g, "")
-      .replace(/[#>*_`|]+/g, " "));
+      .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " "));
   }
-  return t.replace(/\s+/g, " ").trim();
+  // Syntax-character strip runs on BOTH sides. Doing it on the markdown side only
+  // (as this did until 2026-08-15) makes any LITERAL such character diverge: a DOI
+  // like REST_a_00550 became "REST a 00550" in git and stayed "REST_a_00550" in
+  // Ghost, so a plain sync echo of that page looked like an edit (Issue #40).
+  return t.replace(/\\/g, "").replace(/[#>*_`|]+/g, " ").replace(/\s+/g, " ").trim();
 }
 
 /* ── HTML → markdown, closed vocabulary ──────────────────────────────────── */
