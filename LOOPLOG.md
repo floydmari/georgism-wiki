@@ -3068,3 +3068,42 @@ prerequisite for any trusted-editor fast lane.
 Governance note: this materially changes the suggestion pipeline — merge gate is now
 Floyd's explicit approval per PR, with T1 recommending rather than deciding. The loop's
 own editorial waves keep the standing authorization.
+
+## 2026-08-15 — Ghost→git write-back: Ghost login is now the trusted-admin credential
+
+Floyd, replying to the token handoff: `#editor` "doesn't seem to work", where do tokens
+get managed, and — the real directive — "I'd rather trusted admins work via ghost, and
+there changes auto-persist to github … without using tokens or additional management
+burdens." Three deliverables:
+
+**1. `#editor` fix.** Root cause: typing `#editor` into the URL bar of an already-open
+edit page is a hash-only navigation — no reload, and the client had no `hashchange`
+listener, so the token prompt never appeared. Added the listener + a re-prompt when a
+stored token is rejected. (Tokens stay as the fallback path for frontmatter edits;
+there is no self-serve token tooling by design — minting/rotating is "ask the loop",
+KV `editor:<token>`.)
+
+**2. Ghost→git write-back (ARCHITECTURE §3.2 decision REVERSED by Floyd, "Built" block
+added).** A `post.published.edited` webhook (integration-owned, created via Admin API)
+posts to `wiki-edit.progress.org/webhook/ghost?key=…`. The worker: slug→path via the
+inventory census (non-wiki posts ignored); rendered HTML → markdown via a NEW
+closed-vocabulary converter (h2–h6, p, lists incl. `start`, tables, blockquote, links,
+strong/em, code/pre, br/hr, comments preserved, `<figure>` verbatim by source-slicing —
+anything else REFUSES); body-only commit with git's frontmatter preserved; PR on
+`ghost-edit/*` auto-merged (the edit is already live in Ghost — git must not drift).
+Refusal → review Issue with fenced HTML + email to Floyd (content-hash deduped).
+Corpus-validated before deploy: 915/918 pages round-trip echo-stable, 3 known refusals
+(inline `<sup>` footnotes ×2, blockquote-in-list ×1). Also fixed en route: hoyt page's
+`> 20.` rendered as "1." on the live site (python-markdown renumbering) — now `20\.`.
+
+**3. Echo containment.** sync_to_ghost.py's own PUTs fire the same webhook. Two
+layers: sync_to_ghost marks each slug at `/api/sync-mark` (180 s TTL) BEFORE pushing,
+so its echo is skipped without any GitHub calls; a normalized-text comparison
+(formatting stripped, words + link URLs kept) is the backstop. Webhook key vaulted as
+"Wiki Ghost Webhook Key (wiki-edit worker)"; worker secret GHOST_WEBHOOK_KEY.
+
+Verified live end to end with a temporary probe page (concepts/writeback-probe,
+deleted after): Ghost API edit → webhook → converted commit auto-merged to main →
+sync echo correctly skipped. Caveats documented in ARCHITECTURE + CONTRIBUTING: Ghost
+edits are body-only (title/frontmatter revert on next sync), publish-then-persist is
+accepted for trusted admins by decision, and Ghost's staff roles are the ACL.

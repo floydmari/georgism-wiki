@@ -41,6 +41,15 @@ integration of any community change is approved by the publisher before it goes 
 Suggestions are often merged *amended* — the idea kept, the wording or anchoring
 adjusted. You're credited via a `Suggested-by:` trailer.
 
+### Trusted admins: just edit in Ghost
+
+Staff with a Ghost login on progress.org don't need any of the above: edit the wiki
+page in the Ghost editor as usual and click Update. A webhook persists the change back
+to this repository automatically (body text only — frontmatter, titles and the page's
+evidence wiring still live in git and must change by PR). Your Ghost login is the
+credential; there are no separate tokens to manage. Caveat: Ghost edits are live on
+the site immediately, so this path is for people the publisher already trusts.
+
 ### 2. Open a pull request directly (GitHub users)
 
 Fork, branch, edit, PR. Before submitting, run the lint gate locally:

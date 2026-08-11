@@ -35,7 +35,10 @@ TURNSTILE_SITEKEY = "0x4AAAAAAEJUnjIdNAl_3zV0"
 FLOYD_EMAIL = "floydmarinescu@gmail.com"
 # Additional secrets (wrangler secret put ...): GMAIL_CLIENT_ID, GMAIL_CLIENT_SECRET,
 # GMAIL_REFRESH_TOKEN (send-as Floyd; gmail.modify covers send — verified live),
-# APPROVAL_SECRET (HMAC key for one-click approve/reject links).
+# APPROVAL_SECRET (HMAC key for one-click approve/reject links),
+# GHOST_WEBHOOK_KEY (shared secret in the Ghost webhook target URL and
+# /api/sync-mark — Ghost→git write-back; vaulted as "Wiki Ghost Webhook Key
+# (wiki-edit worker)" in the agent vault).
 
 # Rate limiting, two layers with different jobs:
 #  - LIMITER (native ratelimit binding): the burst gate — atomic, cross-isolate,

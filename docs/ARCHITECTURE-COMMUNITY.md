@@ -150,7 +150,7 @@ Why it doesn't pay off:
 The one genuine benefit — a familiar track-changes experience — is what §3.1 provides
 natively.
 
-#### Ghost as the editing platform, with write-back to GitHub — **feasible, but not the primary path**
+#### Ghost as the editing platform, with write-back to GitHub — **BUILT 2026-08-15 as the trusted-admin path (decision reversed by Floyd; see the "Built" block below the original analysis)**
 
 The idea: editors edit the wiki page in Ghost's own admin UI; a webhook fires; something
 converts it back to Markdown and opens a PR. Ghost is already the publishing surface, so
@@ -190,6 +190,43 @@ leaving the site" path — the narrow version is: allow it, scope it to Tier A-s
 with a bot that opens the PR and pings T1 immediately. **Sequence it after §3.1**, because
 if the diff editor is good, most of the demand for editing in Ghost disappears — and it
 would then be an optional convenience rather than the load-bearing editor path.
+
+**Built (2026-08-15).** Floyd chose exactly this trade-off for trusted admins: "I'd
+rather trusted admins work via ghost, and there changes auto-persist to github …
+having ones logged in ghost profile enable the editor mode automatically, without
+using tokens or additional management burdens." Ghost's own staff login IS the
+credential — no worker tokens, no separate ACL to manage. What shipped, and how each
+of the four problems above was answered:
+
+- **Mechanism**: a Ghost `post.published.edited` webhook (created via the Admin API,
+  integration-owned) fires at `POST wiki-edit.progress.org/webhook/ghost?key=…`
+  (shared-secret URL key; key vaulted as "Wiki Ghost Webhook Key (wiki-edit worker)").
+  The worker converts the rendered HTML back to markdown, commits on a `ghost-edit/*`
+  branch, opens a PR for the audit trail, and **auto-merges it** — the edit is already
+  live on the site the moment the admin clicks Update, so git must not drift behind
+  reality (problem 4 accepted by decision: for *trusted admins* publish-then-persist
+  is the point, and Ghost's role system is the trust boundary).
+- **Frontmatter (problem 1)**: write-back is body-only; frontmatter is preserved
+  verbatim from git. Frontmatter/evidence-wiring edits still need the worker editor's
+  token mode (kept as fallback) or a normal git PR. Title edits in Ghost do NOT
+  persist and will be reverted by the next sync — title lives in frontmatter.
+- **Round-trip fidelity (problem 2)**: a CLOSED-vocabulary HTML→markdown converter
+  (h2–h6, p, ul/ol incl. `start`, tables, blockquote, links, strong/em, code/pre,
+  br/hr, comments, verbatim `<figure>` passthrough). Validated over the full corpus:
+  915/918 pages round-trip echo-stable; the 3 refusals (inline footnote `<sup>`,
+  blockquote-in-list) go to a **review Issue** with the raw HTML fenced + an email to
+  Floyd, never a mangled commit. Any tag outside the vocabulary refuses rather than
+  guesses.
+- **Echo loops / two masters (problem 3)**: `sync_to_ghost.py` marks each slug at the
+  worker (`/api/sync-mark`, 180 s TTL) *before* pushing, so the webhook its own PUT
+  triggers is skipped outright; a normalized-text comparison (formatting stripped,
+  words + link URLs kept) is the second line of defense. Race of two rapid admin
+  edits: the second PR fails to auto-merge, stays open labeled `ghost-edit`, Floyd
+  gets an email, the loop reconciles.
+- **Failure honesty**: if conversion refuses or the merge fails, the Ghost edit is
+  live-but-unpersisted and the next sync of that page could clobber it — every
+  fallback path says so explicitly (Issue banner + email) and is deduped by content
+  hash so sync echoes can't spam.
 
 ### 3.2b The metadata card trio: Edit · History · Cite (+ general suggestions)
 
