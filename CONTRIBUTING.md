@@ -24,14 +24,22 @@ Every wiki article has a **✏️ Suggest an edit** button, or go directly to:
 
     https://wiki-edit.progress.org/wiki/<slug>/edit
 
-Pick a section, edit the Markdown, watch the live diff, say why, and submit. Your
-suggestion becomes a pull request that an editor reviews before anything publishes.
-If your edit changes a factual claim — a number, a finding, who-said-what — a source
-URL is required.
+Pick a section, edit the Markdown, watch the live diff, say why, and submit — or use
+the **"Leave a general suggestion"** tab if you'd rather describe a problem than edit
+text. If your edit changes a factual claim — a number, a finding, who-said-what — a
+source URL is required.
 
-What happens next: an editor (human, with AI assistance) reviews the PR against
-`EDITORIAL.md`. Suggestions are often merged *amended* — the idea kept, the wording or
-anchoring adjusted. You're credited via a `Suggested-by:` trailer if you leave a name.
+**Identity:** we ask for your name (credited publicly in the page's permanent edit
+history) and your email, plus an optional line about your background. **Your email and
+bio are never published** — they're used to send you a copy of your submission, to
+follow up if an editor has questions, and they're deleted from our systems after 180
+days. No account is needed.
+
+What happens next: you get an automatic email copy of your submission; an editor
+(human, with AI assistance) reviews the PR against `EDITORIAL.md`; and the final
+integration of any community change is approved by the publisher before it goes live.
+Suggestions are often merged *amended* — the idea kept, the wording or anchoring
+adjusted. You're credited via a `Suggested-by:` trailer.
 
 ### 2. Open a pull request directly (GitHub users)
 

@@ -31,6 +31,11 @@ BASE_BRANCH = "main"
 # Widget creation needs the Turnstile:Edit scope on the API token (or 30s in dash).
 REQUIRE_TURNSTILE = "1"
 TURNSTILE_SITEKEY = "0x4AAAAAAEJUnjIdNAl_3zV0"
+# Where submission notifications and T1 verdict emails go.
+FLOYD_EMAIL = "floydmarinescu@gmail.com"
+# Additional secrets (wrangler secret put ...): GMAIL_CLIENT_ID, GMAIL_CLIENT_SECRET,
+# GMAIL_REFRESH_TOKEN (send-as Floyd; gmail.modify covers send — verified live),
+# APPROVAL_SECRET (HMAC key for one-click approve/reject links).
 
 # Rate limiting, two layers with different jobs:
 #  - LIMITER (native ratelimit binding): the burst gate — atomic, cross-isolate,

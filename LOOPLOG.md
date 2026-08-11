@@ -3032,3 +3032,39 @@ outside the git page corpus — sync_to_ghost.py never touches page-type resourc
 §0's one-way rule holds, with create_utility_pages.py as their single source of truth.
 Verified live: 302 redirect chain, both pages 200 with scripts intact, cite JSON
 pinned to b2d375c, CORS header present.
+
+---
+
+## 2026-08-14 — submission oversight shipped: identity, emails, one-click approval, trusted-editor mode
+
+Floyd's five asks, all live (worker version 4e1b5db7):
+
+**Identity**: the form now requires name + email with an optional bio line. PII policy
+enforced in code: name is public (PR credit + edit history); email/bio go ONLY to KV
+(sub:<n>, 180-day TTL) and Floyd's notification email — never public PR/Issue bodies.
+CONTRIBUTING.md states the policy to submitters.
+
+**Emails**: Gmail API, send-as Floyd, using the restricted-scope vault token
+(gmail.modify covers send — proven live, message 19fef6068bbf3326, before building on
+it). At submit time the worker fire-and-forgets two mails: a thank-you to the submitter
+with a full copy of their edit + PR link, and a notification to Floyd with submitter
+details. Mail failure never fails a submission. Loop-side, scripts/send_email.py gives
+T1 the same channel for verdict emails.
+
+**One-click approval**: /approve on the worker — HMAC-signed expiring capability links
+(secret in worker env + vaulted as "Wiki Approval HMAC Secret"). Clicking labels the PR
+floyd-approved / floyd-rejected; the loop merges ONLY floyd-approved suggestion PRs
+(routine prompt updated: the 2026-07-31 standing merge authorization now explicitly
+excludes community-suggestion PRs). Verified live: tampered sig rejected, valid signed
+link labeled closed test PR #30 (label removed after).
+
+**Trusted-editor mode (Tier 2 v1)**: personal tokens in KV (editor:<token> → name);
+/wiki/<slug>/edit#editor prompts once, then unlocks whole-file editing including
+frontmatter via /api/raw (403 on bad token — verified). Still PR-only, labeled
+trusted-editor, same verdict/approval flow. Floyd's token minted and handed over in
+chat. The Access+OAuth version stays the §3.1 upgrade path; diff_guard remains the
+prerequisite for any trusted-editor fast lane.
+
+Governance note: this materially changes the suggestion pipeline — merge gate is now
+Floyd's explicit approval per PR, with T1 recommending rather than deciding. The loop's
+own editorial waves keep the standing authorization.

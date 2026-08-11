@@ -65,7 +65,7 @@ const fence = (s, cap = 2000) =>
   "```text\n" + clean(s).slice(0, cap).replaceAll("`", "\u02CB") + "\n```";
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const { pathname } = url;
 
@@ -83,12 +83,16 @@ export default {
         return apiHistory(m[1], env);
       if ((m = pathname.match(/^\/api\/cite\/([a-z0-9-]+)$/)))
         return apiCite(m[1], env);
+      if (pathname === "/approve")
+        return apiApprove(url, env);
       if (pathname === "/api/comment" && request.method === "POST")
-        return apiComment(request, env);
+        return apiComment(request, env, ctx);
       if ((m = pathname.match(/^\/api\/page\/([a-z0-9-]+)$/)))
         return apiPage(m[1], env);
+      if ((m = pathname.match(/^\/api\/raw\/([a-z0-9-]+)$/)))
+        return apiRaw(m[1], request, env);
       if (pathname === "/api/submit" && request.method === "POST")
-        return apiSubmit(request, env);
+        return apiSubmit(request, env, ctx);
       if (pathname === "/api/health")
         return json({ ok: true, limiter: !!env.LIMITER, kv: !!env.RL,
                       turnstile: env.REQUIRE_TURNSTILE === "1" });
@@ -99,6 +103,75 @@ export default {
     }
   },
 };
+
+/* ── email (Gmail API) + one-click approval helpers ──────────────────────────
+   Secrets: GMAIL_CLIENT_ID / GMAIL_CLIENT_SECRET / GMAIL_REFRESH_TOKEN (send-as
+   Floyd; gmail.modify verified to cover send), APPROVAL_SECRET (HMAC key for
+   one-click approve/reject links), FLOYD_EMAIL var.
+   Submitter PII policy: name is public (PR credit); email + bio go ONLY to KV
+   (`sub:<n>`, 180-day TTL) and into the notification email — never into public
+   PR/Issue bodies. */
+
+async function gmailSend(env, to, subject, body) {
+  const tok = await fetch("https://oauth2.googleapis.com/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({
+      client_id: env.GMAIL_CLIENT_ID, client_secret: env.GMAIL_CLIENT_SECRET,
+      refresh_token: env.GMAIL_REFRESH_TOKEN, grant_type: "refresh_token" }),
+  }).then((r) => r.json());
+  if (!tok.access_token) throw new Error("gmail token refresh failed");
+  const mime = [`To: ${to}`, `Subject: ${subject}`,
+    "Content-Type: text/plain; charset=utf-8", "", body].join("\r\n");
+  const raw = btoa(String.fromCharCode(...new TextEncoder().encode(mime)))
+    .replaceAll("+", "-").replaceAll("/", "_").replace(/=+$/, "");
+  const res = await fetch("https://gmail.googleapis.com/gmail/v1/users/me/messages/send", {
+    method: "POST",
+    headers: { Authorization: `Bearer ${tok.access_token}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ raw }),
+  });
+  if (!res.ok) throw new Error(`gmail send ${res.status}`);
+}
+
+/* Fire-and-forget wrapper: submission emails must never fail the submission. */
+function trySend(env, ctx, to, subject, body) {
+  const p = gmailSend(env, to, subject, body).catch((e) => console.log("email fail:", e.message));
+  if (ctx && ctx.waitUntil) ctx.waitUntil(p);
+  return p;
+}
+
+async function hmacHex(secret, msg) {
+  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(secret),
+    { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const sig = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(msg));
+  return [...new Uint8Array(sig)].map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+async function approvalLink(env, origin, pr, action, days = 14) {
+  const exp = Date.now() + days * 86_400_000;
+  const sig = await hmacHex(env.APPROVAL_SECRET, `${pr}:${action}:${exp}`);
+  return `${origin}/approve?pr=${pr}&action=${action}&exp=${exp}&sig=${sig}`;
+}
+
+/* GET /approve — Floyd's one-click verdict on a T1-recommended change.
+   Capability URL: HMAC-signed, expiring, single-purpose. Applies a label; the
+   loop does the actual merge (lint and gates intact) on its next wakeup. */
+async function apiApprove(url, env) {
+  const pr = url.searchParams.get("pr"), action = url.searchParams.get("action");
+  const exp = url.searchParams.get("exp"), sig = url.searchParams.get("sig");
+  const page = (msg) => htmlResponse(
+    `<!doctype html><meta charset=utf-8><body style="font-family:system-ui;max-width:34em;margin:15vh auto;line-height:1.5;text-align:center"><h2>${msg}</h2>`);
+  if (!/^\d+$/.test(pr || "") || !["approve", "reject"].includes(action) || !exp || !sig)
+    return page("Malformed approval link.");
+  if (Date.now() > Number(exp)) return page("This approval link has expired — ask the editor for a fresh one.");
+  const want = await hmacHex(env.APPROVAL_SECRET, `${pr}:${action}:${exp}`);
+  if (sig !== want) return page("Invalid approval link.");
+  const label = action === "approve" ? "floyd-approved" : "floyd-rejected";
+  await gh(env, "POST", `/repos/${env.OWNER}/${env.REPO}/issues/${pr}/labels`, { labels: [label] });
+  return page(action === "approve"
+    ? `✅ Approved. #${pr} is labeled <code>floyd-approved</code> — the editorial loop will merge and publish it on its next pass.`
+    : `❌ Rejected. #${pr} is labeled <code>floyd-rejected</code> — the editorial loop will close it with a note.`);
+}
 
 /* ── GitHub helpers ─────────────────────────────────────────────────────── */
 
@@ -159,6 +232,20 @@ function splitSections(markdown) {
   return sections;
 }
 
+/* Full raw file (frontmatter included) — trusted editors only. */
+async function apiRaw(slug, request, env) {
+  const token = clean(request.headers.get("X-Editor-Token") || "").trim();
+  const editorName = token && env.RL ? await env.RL.get(`editor:${token}`) : null;
+  if (!editorName) return json({ error: "invalid editor token" }, 403);
+  const path = await slugToPath(slug, env);
+  if (!path) return json({ error: `no wiki page for slug '${slug}'` }, 404);
+  const res = await fetch(
+    `https://raw.githubusercontent.com/${env.OWNER}/${env.REPO}/${env.BASE_BRANCH}/${path}`,
+    { headers: { "User-Agent": "georgism-wiki-editor" } });
+  if (!res.ok) return json({ error: `page fetch ${res.status}` }, 502);
+  return json({ slug, path, editor: editorName, markdown: await res.text() });
+}
+
 async function apiPage(slug, env) {
   const path = await slugToPath(slug, env);
   if (!path) return json({ error: `no wiki page for slug '${slug}'` }, 404);
@@ -188,7 +275,7 @@ function rateLimited(ip) {
   return false;
 }
 
-async function apiSubmit(request, env) {
+async function apiSubmit(request, env, ctx) {
   const ip = request.headers.get("CF-Connecting-IP") || "local";
   // Burst gate: native ratelimit binding — atomic and cross-isolate (the in-isolate
   // bucket below is only a fallback for local dev where the binding is absent).
@@ -233,13 +320,34 @@ async function apiSubmit(request, env) {
       return json({ error: "could not verify you are human — reload and try again" }, 403);
   }
 
-  const { slug, sectionHeading, newText, rationale, factual, source, name } = b;
-  if (!slug || !sectionHeading || typeof newText !== "string")
+  const { slug, sectionHeading, newText, rationale, factual, source, name,
+          email, bio, editorToken, fullFile } = b;
+  if (!slug || typeof newText !== "string" || (!fullFile && !sectionHeading))
     return json({ error: "missing slug/sectionHeading/newText" }, 400);
   if (!rationale || clean(rationale).trim().length < 10)
     return json({ error: "a rationale of at least 10 characters is required" }, 400);
   if (factual && !/^https?:\/\/\S+/.test(clean(source || "")))
     return json({ error: "edits to factual claims require a source URL — we can't publish a claim we can't verify" }, 400);
+
+  // Identity (Floyd, 2026-08-14): name + a working email are required; a short
+  // bio is optional. Email + bio are PII: KV + notification email only, never
+  // the public PR body.
+  const safeName2 = oneLine(name || "", 80);
+  const safeEmail = oneLine(email || "", 120);
+  const safeBio = oneLine(bio || "", 300);
+  if (safeName2.length < 2) return json({ error: "your name is required" }, 400);
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(safeEmail))
+    return json({ error: "a valid email address is required — we use it to thank you and follow up, and we never publish it" }, 400);
+
+  // Trusted-editor mode: a valid personal token (KV editor:<token> -> name)
+  // unlocks full-file editing incl. frontmatter; PRs get the trusted-editor label.
+  let editorName = null;
+  if (editorToken && env.RL) {
+    editorName = await env.RL.get(`editor:${clean(editorToken).trim()}`);
+    if (!editorName) return json({ error: "invalid editor token" }, 403);
+  }
+  if (fullFile && !editorName)
+    return json({ error: "full-file editing requires a trusted-editor token" }, 403);
 
   const path = await slugToPath(slug, env);
   if (!path) return json({ error: `no wiki page for slug '${slug}'` }, 404);
@@ -249,19 +357,26 @@ async function apiSubmit(request, env) {
   const current = atob(file.content.replace(/\n/g, ""));
   const decoded = new TextDecoder().decode(Uint8Array.from(current, (c) => c.charCodeAt(0)));
 
-  const sections = splitSections(decoded);
-  const target = sections.find((s) => s.heading === sectionHeading);
-  if (!target)
-    return json({ error: `section '${sectionHeading}' no longer exists — the page changed since you loaded it; reload and re-apply` }, 409);
-
-  const lines = decoded.split("\n");
-  const oldSection = lines.slice(target.start, target.end).join("\n");
   const cleanText = clean(newText);           // invisible/bidi chars never enter the repo
-  if (oldSection.trim() === cleanText.trim())
-    return json({ error: "no change detected in the section" }, 400);
-
-  const updated = [...lines.slice(0, target.start), ...cleanText.replace(/\n+$/, "").split("\n"), "", ...lines.slice(target.end)]
-    .join("\n").replace(/\n{3,}/g, "\n\n");
+  let updated, sectionLabel;
+  if (fullFile) {
+    if (decoded.trim() === cleanText.trim())
+      return json({ error: "no change detected" }, 400);
+    updated = cleanText.replace(/\n+$/, "") + "\n";
+    sectionLabel = "(full file)";
+  } else {
+    const sections = splitSections(decoded);
+    const target = sections.find((s) => s.heading === sectionHeading);
+    if (!target)
+      return json({ error: `section '${sectionHeading}' no longer exists — the page changed since you loaded it; reload and re-apply` }, 409);
+    const lines = decoded.split("\n");
+    const oldSection = lines.slice(target.start, target.end).join("\n");
+    if (oldSection.trim() === cleanText.trim())
+      return json({ error: "no change detected in the section" }, 400);
+    updated = [...lines.slice(0, target.start), ...cleanText.replace(/\n+$/, "").split("\n"), "", ...lines.slice(target.end)]
+      .join("\n").replace(/\n{3,}/g, "\n\n");
+    sectionLabel = target.heading;
+  }
 
   // Branch from the current tip of base.
   const ref = await gh(env, "GET", `/repos/${env.OWNER}/${env.REPO}/git/ref/heads/${env.BASE_BRANCH}`);
@@ -271,11 +386,10 @@ async function apiSubmit(request, env) {
   });
 
   // Everything user-controlled that reaches a commit message, title or trailer is
-  // newline-stripped and capped; the section heading used here is the one FOUND in
-  // the file, not the client's copy.
-  const safeHeading = oneLine(target.heading, 80);
-  const safeName = name ? oneLine(name, 80) : "";
-  const trailer = safeName ? `\n\nSuggested-by: ${safeName}` : "";
+  // newline-stripped and capped; the section label is server-derived.
+  const safeHeading = oneLine(sectionLabel, 80);
+  const safeName = editorName ? oneLine(editorName, 80) : safeName2;
+  const trailer = `\n\nSuggested-by: ${safeName}`;
   const b64 = btoa(String.fromCharCode(...new TextEncoder().encode(updated)));
   await gh(env, "PUT", `/repos/${env.OWNER}/${env.REPO}/contents/${path}`, {
     message: `suggest(${slug}): edit section "${safeHeading}"${trailer}`,
@@ -283,7 +397,7 @@ async function apiSubmit(request, env) {
   });
 
   const pr = await gh(env, "POST", `/repos/${env.OWNER}/${env.REPO}/pulls`, {
-    title: `Suggestion: ${slug} — ${safeHeading}`,
+    title: `${editorName ? "Editor edit" : "Suggestion"}: ${slug} — ${safeHeading}`,
     head: branch, base: env.BASE_BRANCH,
     body: [
       `> [!CAUTION]`,
@@ -297,21 +411,46 @@ async function apiSubmit(request, env) {
       `**Rationale (submitter's words):**`,
       fence(rationale, 600),
       factual ? `\n**Claimed source for the factual change** (unverified):\n${fence(source, 500)}` : ``,
-      safeName ? `\n*Submitted by (self-reported): ${safeName}*` : `\n*Submitted anonymously*`,
+      `\n*Submitted by${editorName ? " (trusted editor)" : " (self-reported)"}: ${safeName}*`,
       ``, `---`, `_Review per EDITORIAL.md — lint + diff_guard run in CI; T1 is the gate to main._`,
     ].join("\n"),
   });
 
   try {
-    await gh(env, "POST", `/repos/${env.OWNER}/${env.REPO}/issues/${pr.number}/labels`, { labels: ["suggestion", "from-web"] });
+    const labels = editorName ? ["suggestion", "from-web", "trusted-editor"] : ["suggestion", "from-web"];
+    await gh(env, "POST", `/repos/${env.OWNER}/${env.REPO}/issues/${pr.number}/labels`, { labels });
   } catch { /* labels are cosmetic; never fail the submission over them */ }
+
+  // PII to KV only (180 days), then the two submission emails (fire-and-forget).
+  if (env.RL) {
+    await env.RL.put(`sub:${pr.number}`,
+      JSON.stringify({ name: safeName, email: safeEmail, bio: safeBio, slug, at: new Date().toISOString() }),
+      { expirationTtl: 180 * 86400 }).catch(() => {});
+  }
+  const editCopy = `Page: ${slug}\nSection: ${safeHeading}\n\nYour rationale:\n${clean(rationale).slice(0, 600)}\n\nYour proposed text:\n${"-".repeat(40)}\n${cleanText.slice(0, 4000)}\n${"-".repeat(40)}`;
+  trySend(env, ctx, safeEmail,
+    `Thank you for your suggestion to the Georgism Wiki (${slug})`,
+    `Hi ${safeName},\n\nThank you for suggesting an improvement to the Progress.org Georgism Wiki. ` +
+    `Your edit is now in our editorial review queue — every change is checked against sources before it publishes.\n\n` +
+    `For your records, here is a copy of what you submitted:\n\n${editCopy}\n\n` +
+    `You can follow its progress here: ${pr.html_url}\n\n` +
+    `If we publish it, you'll be credited as "${safeName}" in the page's permanent edit history.\n\n` +
+    `— The Progress.org editorial desk\nhttps://www.progress.org/wiki/`);
+  trySend(env, ctx, env.FLOYD_EMAIL || "floydmarinescu@gmail.com",
+    `[Wiki] New ${editorName ? "TRUSTED-EDITOR edit" : "suggestion"}: ${slug} — ${safeHeading} (#${pr.number})`,
+    `New submission on the wiki editor.\n\n` +
+    `Page: ${slug}\nSection: ${safeHeading}\nPR: ${pr.html_url}\n\n` +
+    `Submitter: ${safeName}${editorName ? " (trusted editor)" : ""}\nEmail: ${safeEmail}\nBio: ${safeBio || "(none given)"}\n\n` +
+    `Rationale:\n${clean(rationale).slice(0, 600)}\n\n` +
+    (factual ? `Claimed source: ${clean(source).slice(0, 300)}\n\n` : "") +
+    `The T1 editor will review it against EDITORIAL.md and email you a verdict with one-click approve/reject links. No action needed yet.`);
 
   return json({ ok: true, pr: { number: pr.number, url: pr.html_url } });
 }
 
 /* ── general suggestions: prose -> Issue (diff -> PR; prose -> Issue) ────── */
 
-async function apiComment(request, env) {
+async function apiComment(request, env, ctx) {
   const ip = request.headers.get("CF-Connecting-IP") || "local";
   if (env.LIMITER) {
     const { success } = await env.LIMITER.limit({ key: ip });
@@ -344,13 +483,18 @@ async function apiComment(request, env) {
       return json({ error: "could not verify you are human — reload and try again" }, 403);
   }
 
-  const { slug, comment, source, name } = b;
+  const { slug, comment, source, name, email, bio } = b;
   if (!slug || !comment || clean(comment).trim().length < 15)
     return json({ error: "a suggestion of at least 15 characters is required" }, 400);
   const path = await slugToPath(slug, env);
   if (!path) return json({ error: `no wiki page for slug '${slug}'` }, 404);
 
-  const safeName = name ? oneLine(name, 80) : "";
+  const safeName = oneLine(name || "", 80);
+  const safeEmail = oneLine(email || "", 120);
+  const safeBio = oneLine(bio || "", 300);
+  if (safeName.length < 2) return json({ error: "your name is required" }, 400);
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(safeEmail))
+    return json({ error: "a valid email address is required — we use it to thank you and follow up, and we never publish it" }, 400);
   const issue = await gh(env, "POST", `/repos/${env.OWNER}/${env.REPO}/issues`, {
     title: `Suggestion: ${slug} (general)`,
     labels: ["suggestion", "general", "from-web"],
@@ -366,9 +510,30 @@ async function apiComment(request, env) {
       `**Suggestion (submitter's words):**`,
       fence(comment, 4000),
       source ? `\n**Claimed source** (unverified):\n${fence(source, 500)}` : ``,
-      safeName ? `\n*Submitted by (self-reported): ${safeName}*` : `\n*Submitted anonymously*`,
+      `\n*Submitted by (self-reported): ${safeName}*`,
     ].join("\n"),
   });
+
+  if (env.RL) {
+    await env.RL.put(`sub:${issue.number}`,
+      JSON.stringify({ name: safeName, email: safeEmail, bio: safeBio, slug, at: new Date().toISOString() }),
+      { expirationTtl: 180 * 86400 }).catch(() => {});
+  }
+  trySend(env, ctx, safeEmail,
+    `Thank you for your suggestion to the Georgism Wiki (${slug})`,
+    `Hi ${safeName},\n\nThank you for your suggestion about the Progress.org Georgism Wiki page "${slug}". ` +
+    `It's now in our editorial queue.\n\nFor your records, here is what you submitted:\n\n` +
+    `${clean(comment).slice(0, 4000)}\n\n` +
+    `You can follow it here: ${issue.html_url}\n\n— The Progress.org editorial desk\nhttps://www.progress.org/wiki/`);
+  trySend(env, ctx, env.FLOYD_EMAIL || "floydmarinescu@gmail.com",
+    `[Wiki] New general suggestion: ${slug} (#${issue.number})`,
+    `New general suggestion (no text edit) on the wiki editor.\n\n` +
+    `Page: ${slug}\nIssue: ${issue.html_url}\n\n` +
+    `Submitter: ${safeName}\nEmail: ${safeEmail}\nBio: ${safeBio || "(none given)"}\n\n` +
+    `Suggestion:\n${clean(comment).slice(0, 1500)}\n\n` +
+    (source ? `Claimed source: ${clean(source).slice(0, 300)}\n\n` : "") +
+    `The editorial loop will triage this like a queue item. No action needed yet.`);
+
   return json({ ok: true, issue: { number: issue.number, url: issue.html_url } });
 }
 
@@ -519,8 +684,12 @@ const EDITOR_HTML = `<!doctype html>
       <div class="evidence"><b>Our standard:</b> we cite every substantive claim. A suggestion without a
         source can still flag a problem — but we can't publish a claim we can't verify.</div>
     </div>
-    <label>Your name <span class="hint">(optional — credited in the change record)</span>
-      <input type="text" id="name" maxlength="80"></label>
+    <label>Your name <span class="hint">(required — credited in the page's permanent edit history)</span>
+      <input type="text" id="name" maxlength="80" required></label>
+    <label>Your email <span class="hint">(required — we send you a copy and follow up if needed; <b>never published</b>)</span>
+      <input type="email" id="email" maxlength="120" required></label>
+    <label>About you <span class="hint">(optional — affiliation or background, helps our editors weigh expertise)</span>
+      <input type="text" id="bio" maxlength="300" placeholder="e.g. economics PhD student; member of Prosper Australia; longtime reader"></label>
     <input class="hp" type="text" id="website" tabindex="-1" autocomplete="off">
     <div id="ts-slot" style="margin-top:.8em"></div>
     <button id="submit">Submit suggestion</button>
@@ -553,6 +722,7 @@ async function load() {
   sel.onchange = pick; pick();
 }
 function pick() {
+  if (editorFull) return;
   const i = +document.getElementById("section").value || 0;
   original = sections[i].text;
   document.getElementById("src").value = original;
@@ -597,7 +767,29 @@ document.getElementById("src").addEventListener("input",renderDiff);
 document.getElementById("factual").addEventListener("change",e=>{
   document.getElementById("srcwrap").style.display=e.target.checked?"":"none";
 });
-let mode = "edit";
+let mode = "edit", editorFull = false;
+
+/* Trusted-editor mode: /wiki/<slug>/edit#editor prompts once for a personal
+   token (stored locally); a valid token unlocks whole-file editing including
+   frontmatter. Everything still goes through a PR. */
+async function tryEditorMode(){
+  let tok = localStorage.getItem("wikiEditorToken");
+  if (location.hash === "#editor" && !tok) {
+    tok = prompt("Trusted editor token:") || "";
+    if (tok) localStorage.setItem("wikiEditorToken", tok.trim());
+  }
+  if (!tok) return;
+  const r = await fetch("/api/raw/" + slug, { headers: { "X-Editor-Token": tok.trim() } });
+  if (!r.ok) { if (location.hash === "#editor") { localStorage.removeItem("wikiEditorToken"); alert("Editor token rejected."); } return; }
+  const d = await r.json();
+  editorFull = true;
+  original = d.markdown;
+  document.getElementById("src").value = original;
+  document.getElementById("sectionwrap").style.display = "none";
+  const h = document.querySelector("header .std");
+  if (h) h.innerHTML = '<b>Editor mode — ' + esc(d.editor) + '.</b> Whole file including frontmatter. Your change still opens a pull request.';
+  renderDiff();
+}
 function setMode(m){
   mode = m;
   const isEdit = m === "edit";
@@ -622,6 +814,8 @@ document.getElementById("submit").addEventListener("click",async()=>{
     const body={slug,comment:document.getElementById("comment").value,
       source:document.getElementById("csource").value,
       name:document.getElementById("name").value,
+      email:document.getElementById("email").value,
+      bio:document.getElementById("bio").value,
       website:document.getElementById("website").value,
       turnstileToken:tsToken};
     r=await fetch("/api/comment",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
@@ -629,12 +823,17 @@ document.getElementById("submit").addEventListener("click",async()=>{
     if(r.ok&&d.issue){st.innerHTML='✅ Thank you! Your suggestion was filed as <a target="_blank" href="'+d.issue.url+'">#'+d.issue.number+"</a> for the editors.";return;}
   }else{
     const i=+document.getElementById("section").value||0;
-    const body={slug,sectionHeading:sections[i].heading,
+    const body={slug,
+      sectionHeading:editorFull?null:sections[i].heading,
+      fullFile:editorFull,
+      editorToken:editorFull?localStorage.getItem("wikiEditorToken"):null,
       newText:document.getElementById("src").value,
       rationale:document.getElementById("rationale").value,
       factual:document.getElementById("factual").checked,
       source:document.getElementById("source").value,
       name:document.getElementById("name").value,
+      email:document.getElementById("email").value,
+      bio:document.getElementById("bio").value,
       website:document.getElementById("website").value,
       turnstileToken:tsToken};
     r=await fetch("/api/submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
@@ -643,5 +842,5 @@ document.getElementById("submit").addEventListener("click",async()=>{
   }
   st.textContent="⚠️ "+(d.error||"submission failed");btn.disabled=false;
 });
-load();
+load().then(tryEditorMode);
 </script></body></html>`;

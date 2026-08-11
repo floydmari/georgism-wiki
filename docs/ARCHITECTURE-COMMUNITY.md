@@ -245,6 +245,32 @@ fix it," reading recommendations. Mechanics:
 Effort, all three together: roughly a day in the existing Worker + one footer-snippet
 update + `issues: write` on the PAT.
 
+### 3.2c The oversight layer (built 2026-08-14, Floyd's ask)
+
+The public-submission process now runs with Floyd in the loop, end to end:
+
+- **Identity**: the form requires name + email and offers an optional bio line.
+  PII policy: name is public (PR credit + edit history); **email and bio go only to
+  Workers KV (`sub:<n>`, 180-day TTL) and Floyd's notification email — never into
+  public PR/Issue bodies.**
+- **Automatic emails at submit time** (Gmail API, send-as Floyd; fire-and-forget so
+  mail failures never fail a submission): a thank-you to the submitter with a full
+  copy of their edit + the PR link, and a notification to Floyd with the submitter's
+  details and rationale.
+- **T1 verdict + one-click approval**: after reviewing (and possibly amending) a
+  suggestion, the T1 editor emails Floyd a verdict containing HMAC-signed, expiring
+  approve/reject links (`/approve` on the worker — a capability URL; clicking labels
+  the PR `floyd-approved`/`floyd-rejected`). **Community-suggestion PRs merge ONLY
+  with the `floyd-approved` label** — the loop's standing merge authorization covers
+  its own editorial work, not community PRs. On publish, the submitter gets a
+  "your change is live" email.
+- **Trusted-editor mode (Tier 2 v1)**: a personal token (KV `editor:<token>` →
+  name) unlocks whole-file editing including frontmatter at `/wiki/<slug>/edit#editor`.
+  Still PR-only, labeled `trusted-editor`, same verdict/approval flow for now; the
+  Cloudflare-Access + GitHub-OAuth version in §3.1 remains the eventual upgrade,
+  and `diff_guard` (§3.3) is what would let trusted-editor Tier A changes skip the
+  approval queue later.
+
 ### 3.3 Trust model and auto-merge — the part that needs care
 
 Floyd's spec: *"PRs from known editors with passing lint merge automatically."*
