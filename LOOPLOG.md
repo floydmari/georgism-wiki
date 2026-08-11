@@ -3107,3 +3107,30 @@ deleted after): Ghost API edit → webhook → converted commit auto-merged to m
 sync echo correctly skipped. Caveats documented in ARCHITECTURE + CONTRIBUTING: Ghost
 edits are body-only (title/frontmatter revert on next sync), publish-then-persist is
 accepted for trusted admins by decision, and Ghost's staff roles are the ACL.
+
+## 2026-08-15 (b) — write-back false-alarm fix: echo-guard on the refusal path
+
+Loop wakeup found Issues #37/#38 ("Ghost edit could not be auto-converted") on two
+figure pages, created minutes after another session's wave-13 Ghost-sync — that
+session was still running the pre-mark_synced sync script, so its own webhooks came
+back unmarked and the converter's refusal path filed Issues (+2 emails to Floyd) for
+edits nobody made. Verified word-identical vs git; closed both as false alarms.
+
+Three worker hardenings shipped (deployed 1a17b152):
+1. **Loose echo-guard on the refusal path** — before filing a fallback Issue, compare
+   Ghost html vs git body at the pure-text level (tags stripped, link/image URLs
+   dropped, entities decoded both sides). Survives every transform Ghost's renderer
+   applies; an unmarked echo of an unconvertible page is now silently skipped, while
+   a real wording edit still reaches the Issue+email path (both proven against the
+   live Ghost html).
+2. **Ghost-flattened blockquotes convert** — Lexical renders blockquote content as
+   bare inline children (no <p>); mdBlocks now collects inline runs into paragraphs.
+3. **Ghost-native figure cards refuse** — Ghost's html→lexical turns a
+   figure+img+figcaption into a kg-image-card with the image re-hosted on
+   storage.ghost.io; committing that would swap the wiki-figure wiring for Ghost
+   internals. Any <figure class="kg-*"> now refuses (echo → absorbed by guard #1;
+   real edit → human folds it from the Issue).
+
+Rest of the pass was quiet: queue 0 pending (157 consumed), no suggestion PRs/Issues,
+no open ghost-edit PRs. Corpus round-trip regression: 915/918 echo-stable, 0
+mismatches, same 3 known refusals.

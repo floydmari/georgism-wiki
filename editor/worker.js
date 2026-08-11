@@ -535,6 +535,14 @@ async function processGhostEdit(slug, post, env, ctx) {
   try {
     converted = htmlToMarkdown(String(post.html || ""));
   } catch (e) {
+    // Refusal path echo-guard (added 2026-08-15 after false alarms): an
+    // UNMARKED sync echo of an unconvertible page (stale sync script, mark
+    // race) must not file an Issue. Compare at the loose text level — tags
+    // stripped, link URLs dropped — which survives every transform Ghost's
+    // renderer applies (absolutized links, re-hosted images, flattened
+    // blockquotes). Only a real wording change gets through to the fallback.
+    if (normLoose(String(post.html || ""), true) === normLoose(gitBody, false))
+      return console.log(`writeback ${slug}: unconvertible but text-identical (sync echo)`);
     return void await writebackFallback(env, ctx, slug, path, post, e.message);
   }
 
@@ -652,6 +660,27 @@ function normText(s) {
     .trim();
 }
 
+/* Loose text-level comparison for the refusal path: words only — html tags
+   stripped, markdown syntax stripped, link/image URLs dropped entirely (Ghost
+   absolutizes hrefs and re-hosts images, so URLs never compare stable). */
+function normLoose(s, isHtml) {
+  let t = clean(s).replace(/<!--[\s\S]*?-->/g, " ");
+  if (isHtml) {
+    t = decodeEntities(t.replace(/<[^>]+>/g, " "));
+  } else {
+    t = decodeEntities(t                           // figure html carries &amp; etc.
+      .replace(/^---\n[\s\S]*?\n---\n/, "")
+      .replace(/<[^>]+>/g, " ")                    // raw html blocks (figures)
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
+      .replace(/\[([^\]]*)\]\([^)]*\)/g, " $1 ")
+      .replace(/^\s*(?:[-+*]|\d+\.)\s+/gm, " ")
+      .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " ")
+      .replace(/\\/g, "")
+      .replace(/[#>*_`|]+/g, " "));
+  }
+  return t.replace(/\s+/g, " ").trim();
+}
+
 /* ── HTML → markdown, closed vocabulary ──────────────────────────────────── */
 
 const HTML_ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ",
@@ -750,7 +779,12 @@ function mdInline(nodes) {
       }
       case "br": s += "  \n"; break;
       case "span": s += mdInline(n.children); break;
-      case "img": s += `![${n.attrs.alt || ""}](${n.attrs.src || ""})`; break;
+      case "img":
+        // The wiki embeds images only via raw <figure class="wiki-figure">
+        // blocks. Ghost's renderer DESTROYS those (re-hosts the image on
+        // storage.ghost.io, drops the figure markup), so a bare <img> in a
+        // Ghost edit means figure damage the converter must not commit.
+        throw new Error("image outside a wiki-figure block (Ghost re-rendered a figure — fold manually)");
       default:
         throw new Error(`inline <${n.tag}> is outside the converter vocabulary`);
     }
@@ -807,13 +841,21 @@ function mdTable(node) {
   return out + "\n";
 }
 
+const INLINE_TAGS = new Set(["#text", "strong", "b", "em", "i", "a", "code", "br", "span", "img"]);
+
 function mdBlocks(nodes) {
   let out = "";
+  let run = [];   // Ghost's Lexical renderer flattens blockquote content to bare
+                  // inline children (no <p>) — collect inline runs into paragraphs
+  const flush = () => {
+    if (run.length) { const t = mdInline(run).trim(); if (t) out += t + "\n\n"; run = []; }
+  };
   for (const n of nodes) {
-    if (n.tag === "#text") {
-      if (/\S/.test(n.text)) out += n.text.replace(/\s+/g, " ").trim() + "\n\n";
+    if (INLINE_TAGS.has(n.tag)) {
+      if (n.tag !== "#text" || /\S/.test(n.text) || run.length) run.push(n);
       continue;
     }
+    flush();
     if (n.tag === "#comment") { out += n.raw + "\n\n"; continue; }
     switch (n.tag) {
       case "h1": case "h2": case "h3": case "h4": case "h5": case "h6":
@@ -832,6 +874,13 @@ function mdBlocks(nodes) {
       case "pre": out += "```\n" + mdText(n.children).replace(/\n+$/, "") + "\n```\n\n"; break;
       case "hr": out += "---\n\n"; break;
       case "figure":
+        // A kg-* class means Ghost re-rendered the figure as a NATIVE card
+        // (image re-hosted on storage.ghost.io, wiki-figure markup gone).
+        // Committing that would trade the wiki's figure wiring for Ghost
+        // internals — refuse; echoes are absorbed by the loose guard and
+        // real edits go to a human via the fallback Issue.
+        if (/(^|\s)kg-/.test(n.attrs.class || ""))
+          throw new Error("Ghost-native figure card (re-rendered figure) — fold manually");
         if (!n.raw) throw new Error("figure without captured source HTML");
         out += n.raw + "\n\n";
         break;
@@ -844,6 +893,7 @@ function mdBlocks(nodes) {
         throw new Error(`block <${n.tag}> is outside the converter vocabulary`);
     }
   }
+  flush();
   return out;
 }
 
