@@ -3201,3 +3201,42 @@ harmless, closable unread.
 Rest of the pass: queue 0 pending (157 consumed), no new suggestion PRs or Issues, no
 open ghost-edit PRs. PR #41 (the demo submission) still sits at awaiting-floyd — correct,
 the merge gate needs Floyd's label and nothing else was due.
+
+## 2026-08-15 (e) — Turnstile rejected the FIRST real public submission
+
+Floyd tried the public editor for real and got "could not verify you are human" with the
+widget showing Success. This is the first time anyone submitted through the form with a
+genuine Turnstile token — every earlier test either bypassed the captcha or never reached
+it — so the gate had never actually been exercised end to end. Lesson: "the widget renders"
+is not "the gate works"; a control that has only been tested from the side that skips it
+has not been tested.
+
+Diagnosis (op quota had recovered by then): pulled the widget from the Cloudflare API —
+sitekey 0x4AAAAAAEJUnjIdNAl_3zV0, domain wiki-edit.progress.org, mode managed, all correct
+— and tested its secret against siteverify with a dummy token. It returned
+invalid-input-response (secret good, token bad), versus invalid-input-secret for a
+deliberately wrong secret. So the canonical secret verifies; what the worker actually held
+could not be read back, which is precisely the problem.
+
+Three fixes, deployed (493decac):
+1. **Re-put TURNSTILE_SECRET** from the widget's canonical value. A probe against the
+   deployed worker with a bogus token now returns invalid-input-response, proving the
+   worker's secret is accepted by Cloudflare. Whether the old value was wrong or empty
+   cannot be established retroactively — worker secrets are write-only — but an empty
+   secret is the same failure mode as the GITHUB_TOKEN incident on 2026-08-07.
+2. **Never submit a stale token.** Turnstile tokens die ~5 minutes after the challenge is
+   solved, and filling this form honestly takes longer; the widget can read "Success!"
+   over a dead token. The client now timestamps each token and, if it is older than four
+   minutes at submit time, silently re-runs the challenge and waits for a fresh one.
+   refresh-expired/retry are set to auto explicitly rather than relying on defaults.
+3. **Make the failure diagnosable.** The 403 now carries Cloudflare's own error codes
+   (non-sensitive) and logs them, so "the token expired" and "our secret is wrong" are
+   distinguishable from outside instead of collapsing into one opaque message. On a
+   captcha rejection the client resets the widget and tells the user to press Submit
+   again, keeping their text.
+
+Also done this pass, now that op recovered: PR #41's T1 verdict email sent with signed
+one-click approve/reject links (message 19ff3af4f69ff35a), and the submitter record
+written to KV sub:41 so the published-notification path has contact details. Note for
+future sessions: the wrangler flag is --ttl, not --expiration-ttl; the wrong flag prints
+usage and writes nothing.

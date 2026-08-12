@@ -322,8 +322,16 @@ async function apiSubmit(request, env, ctx) {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ secret: env.TURNSTILE_SECRET, response: b.turnstileToken || "", remoteip: ip }),
     }).then((r) => r.json()).catch(() => ({ success: false }));
-    if (!tv.success)
-      return json({ error: "could not verify you are human — reload and try again" }, 403);
+    if (!tv.success) {
+      // Surface Cloudflare's own error codes: they are non-sensitive, and they are
+      // the difference between "the token expired" (timeout-or-duplicate — a retry
+      // fixes it) and "our secret is wrong" (invalid-input-secret — only we can fix
+      // it). Without them this failure is undiagnosable from outside.
+      const codes = (tv["error-codes"] || []).join(",");
+      console.log(`turnstile reject: ${codes || "no codes"}`);
+      return json({ error: "could not verify you are human — the check may have expired while you were writing; it has been reset, please submit again",
+                    turnstile: codes }, 403);
+    }
   }
 
   const { slug, sectionHeading, newText, rationale, factual, source, name,
@@ -942,8 +950,16 @@ async function apiComment(request, env, ctx) {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ secret: env.TURNSTILE_SECRET, response: b.turnstileToken || "", remoteip: ip }),
     }).then((r) => r.json()).catch(() => ({ success: false }));
-    if (!tv.success)
-      return json({ error: "could not verify you are human — reload and try again" }, 403);
+    if (!tv.success) {
+      // Surface Cloudflare's own error codes: they are non-sensitive, and they are
+      // the difference between "the token expired" (timeout-or-duplicate — a retry
+      // fixes it) and "our secret is wrong" (invalid-input-secret — only we can fix
+      // it). Without them this failure is undiagnosable from outside.
+      const codes = (tv["error-codes"] || []).join(",");
+      console.log(`turnstile reject: ${codes || "no codes"}`);
+      return json({ error: "could not verify you are human — the check may have expired while you were writing; it has been reset, please submit again",
+                    turnstile: codes }, 403);
+    }
   }
 
   const { slug, comment, source, name, email, bio } = b;
@@ -1162,16 +1178,34 @@ const EDITOR_HTML = `<!doctype html>
 <script>
 const slug = "__SLUG__";
 const tsSitekey = "__TS_SITEKEY__";
-let sections = [], original = "", tsToken = "";
+let sections = [], original = "", tsToken = "", tsAt = 0, tsWidget = null, tsWaiter = null;
 
 if (tsSitekey) {
   const s = document.createElement("script");
   s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=tsReady";
   s.async = true; document.head.appendChild(s);
-  window.tsReady = () => turnstile.render("#ts-slot", {
+  window.tsReady = () => { tsWidget = turnstile.render("#ts-slot", {
     sitekey: tsSitekey,
-    callback: (t) => { tsToken = t; },
-    "expired-callback": () => { tsToken = ""; },
+    "refresh-expired": "auto",
+    "retry": "auto",
+    callback: (t) => { tsToken = t; tsAt = Date.now();
+                       if (tsWaiter) { const w = tsWaiter; tsWaiter = null; w(t); } },
+    "expired-callback": () => { tsToken = ""; tsAt = 0; },
+  }); };
+}
+
+/* Turnstile tokens expire ~5 minutes after the challenge is solved, and filling
+   this form honestly takes longer than that — the widget can still read
+   "Success!" while the token behind it is dead (Floyd hit exactly this,
+   2026-08-15). So never submit a stale token: if it's older than 4 minutes,
+   silently re-run the challenge and wait for the fresh one. */
+function freshToken() {
+  if (!tsSitekey) return Promise.resolve("");
+  if (tsToken && Date.now() - tsAt < 240000) return Promise.resolve(tsToken);
+  return new Promise((resolve) => {
+    tsWaiter = resolve;
+    try { turnstile.reset(tsWidget); } catch (e) { /* widget not ready */ }
+    setTimeout(() => { if (tsWaiter) { tsWaiter = null; resolve(tsToken || ""); } }, 15000);
   });
 }
 
@@ -1279,6 +1313,7 @@ document.getElementById("tab-comment").addEventListener("click",()=>setMode("com
 document.getElementById("submit").addEventListener("click",async()=>{
   const btn=document.getElementById("submit"),st=document.getElementById("status");
   btn.disabled=true;st.textContent="Submitting…";
+  const tsFresh=await freshToken();
   let r,d;
   if(mode==="comment"){
     const body={slug,comment:document.getElementById("comment").value,
@@ -1287,7 +1322,7 @@ document.getElementById("submit").addEventListener("click",async()=>{
       email:document.getElementById("email").value,
       bio:document.getElementById("bio").value,
       website:document.getElementById("website").value,
-      turnstileToken:tsToken};
+      turnstileToken:tsFresh};
     r=await fetch("/api/comment",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
     d=await r.json();
     if(r.ok&&d.issue){st.innerHTML='✅ Thank you! Your suggestion was filed as <a target="_blank" href="'+d.issue.url+'">#'+d.issue.number+"</a> for the editors.";return;}
@@ -1305,10 +1340,16 @@ document.getElementById("submit").addEventListener("click",async()=>{
       email:document.getElementById("email").value,
       bio:document.getElementById("bio").value,
       website:document.getElementById("website").value,
-      turnstileToken:tsToken};
+      turnstileToken:tsFresh};
     r=await fetch("/api/submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
     d=await r.json();
     if(r.ok&&d.pr){st.innerHTML='✅ Thank you! Your suggestion is now <a target="_blank" href="'+d.pr.url+'">pull request #'+d.pr.number+"</a> awaiting editorial review.";return;}
+  }
+  if(r&&r.status===403&&/human/.test(d.error||"")){
+    try{turnstile.reset(tsWidget);}catch(e){}
+    tsToken="";tsAt=0;
+    st.textContent="⚠️ The human check expired while you were writing. It has been reset — press Submit again (your text is kept).";
+    btn.disabled=false;return;
   }
   st.textContent="⚠️ "+(d.error||"submission failed");btn.disabled=false;
 });
