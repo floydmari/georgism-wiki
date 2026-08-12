@@ -3,10 +3,10 @@
 send_email.py — send wiki-editorial email via the Gmail API (stdlib only).
 
 Used by the loop for T1 verdict emails to Floyd (public-suggestion oversight,
-Floyd's ask 2026-08-14) and available to any editorial script that must notify
+Floyd's ask 2026-08-11) and available to any editorial script that must notify
 a human. Sends from floyd@floydmarinescu.com using the restricted-scope token
 "Gmail Token - Floyd mail box modify (JSON)" in the agent vault (gmail.modify
-covers messages.send; verified live 2026-08-14, message id 19fef6068bbf3326).
+covers messages.send; verified live 2026-08-11, message id 19fef6068bbf3326).
 
 Usage:
     python3 scripts/send_email.py --to floydmarinescu@gmail.com \

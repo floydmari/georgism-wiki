@@ -3035,7 +3035,7 @@ pinned to b2d375c, CORS header present.
 
 ---
 
-## 2026-08-14 — submission oversight shipped: identity, emails, one-click approval, trusted-editor mode
+## 2026-08-11 — submission oversight shipped: identity, emails, one-click approval, trusted-editor mode
 
 Floyd's five asks, all live (worker version 4e1b5db7):
 
@@ -3069,7 +3069,7 @@ Governance note: this materially changes the suggestion pipeline — merge gate 
 Floyd's explicit approval per PR, with T1 recommending rather than deciding. The loop's
 own editorial waves keep the standing authorization.
 
-## 2026-08-15 — Ghost→git write-back: Ghost login is now the trusted-admin credential
+## 2026-08-11 (b) — Ghost→git write-back: Ghost login is now the trusted-admin credential
 
 Floyd, replying to the token handoff: `#editor` "doesn't seem to work", where do tokens
 get managed, and — the real directive — "I'd rather trusted admins work via ghost, and
@@ -3108,7 +3108,7 @@ sync echo correctly skipped. Caveats documented in ARCHITECTURE + CONTRIBUTING: 
 edits are body-only (title/frontmatter revert on next sync), publish-then-persist is
 accepted for trusted admins by decision, and Ghost's staff roles are the ACL.
 
-## 2026-08-15 (b) — write-back false-alarm fix: echo-guard on the refusal path
+## 2026-08-11 (c) — write-back false-alarm fix: echo-guard on the refusal path
 
 Loop wakeup found Issues #37/#38 ("Ghost edit could not be auto-converted") on two
 figure pages, created minutes after another session's wave-13 Ghost-sync — that
@@ -3135,7 +3135,7 @@ Rest of the pass was quiet: queue 0 pending (157 consumed), no suggestion PRs/Is
 no open ghost-edit PRs. Corpus round-trip regression: 915/918 echo-stable, 0
 mismatches, same 3 known refusals.
 
-## 2026-08-15 (c) — pipeline demo for Floyd + a 1Password budget lesson
+## 2026-08-11 (d) — pipeline demo for Floyd + a 1Password budget lesson
 
 Floyd asked to see the community-submission pipeline end to end and to exercise the
 approve button himself. Built PR #41 (link the first mention of "ground rent" in the
@@ -3168,7 +3168,7 @@ Two things the demo taught, both worth keeping:
    the Ghost key on every script, which is what burned the quota. Approval never
    depended on the email — adding the floyd-approved label by hand is the same trigger.
 
-## 2026-08-15 (d) — echo-guard: two real bugs found by a third false alarm
+## 2026-08-11 (e) — echo-guard: two real bugs found by a third false alarm
 
 Wakeup found Issue #40 (rising-land-costs-drive-poverty) — another
 "could not be auto-converted" filed against a plain sync echo, this time WITH the
@@ -3202,7 +3202,7 @@ Rest of the pass: queue 0 pending (157 consumed), no new suggestion PRs or Issue
 open ghost-edit PRs. PR #41 (the demo submission) still sits at awaiting-floyd — correct,
 the merge gate needs Floyd's label and nothing else was due.
 
-## 2026-08-15 (e) — Turnstile rejected the FIRST real public submission
+## 2026-08-12 — Turnstile rejected the FIRST real public submission
 
 Floyd tried the public editor for real and got "could not verify you are human" with the
 widget showing Success. This is the first time anyone submitted through the form with a
@@ -3241,7 +3241,7 @@ written to KV sub:41 so the published-notification path has contact details. Not
 future sessions: the wrangler flag is --ttl, not --expiration-ttl; the wrong flag prints
 usage and writes nothing.
 
-## 2026-08-15 (f) — the census emails, and the live-site rendering bug behind them
+## 2026-08-12 (b) — the census emails, and the live-site rendering bug behind them
 
 Floyd asked why GitHub kept emailing him "wiki-inventory census workflow run". Two
 findings, one trivial and one that had been wrong on the live site for months.
@@ -3286,3 +3286,42 @@ Ghost renders a real list and the round trip is stable rather than merely quiet.
 Root-cause note worth keeping: three separate "write-back damage" reports this week all
 traced to the git→Ghost RENDER, not the write-back. The write-back is an honest mirror;
 what it reflected was a rendering bug nobody could see from the source side.
+
+## 2026-08-12 (c) — PRs #42–#45 were not edits at all; plus a date-drift correction
+
+The other T1 session reported that the write-back "damaged structure" on
+books/barker-henry-george-biography with zero content change, reverted it, and asked for
+converter fixes. Investigated before acting on the request, and the premise turns out to
+be wrong in an important way: **nobody edited those pages in Ghost.**
+
+Evidence: PRs #42 (edward-mcglynn), #43 (henry-george-jr) and #44 (barker) were created
+at 01:17:49, 01:17:50 and 01:17:54 — three different pages in five seconds, which no
+human produces. #45 landed at 02:00:01, seconds after wave 15's revert re-synced the page.
+These were the loop's OWN Ghost syncs echoing back through the webhook and being taken
+for trusted-admin edits. Two failures had to line up:
+
+1. `mark_synced()` needs the webhook key from 1Password, the quota was exhausted at the
+   time, and it returned "" — so the "this is our own sync" mark was never set, silently.
+2. The content-comparison backstop then mis-compared, because the echo-guard stripped list
+   markers only at line start and the page's list had been flattened by the git→Ghost
+   render bug (entry (b)). A pure echo therefore looked like a real edit.
+
+So the write-back was not mangling anyone's work; it was faithfully mirroring a rendering
+bug, on a page nobody had touched. Both failures are now closed: the bullet asymmetry is
+fixed, the render bug is fixed at source, and mark_synced no longer fails silently — it
+prints a loud warning when the key is unavailable.
+
+On the other session's two suggestions: (a) "emit ul/li as real `- ` lines" — the converter
+already does; the flattening came from Ghost's HTML containing a paragraph, because the
+source lacked the blank line python-markdown needs. Splitting merged blockquotes is not
+recoverable at the converter (python-markdown merges adjacent `>` blocks at render time, so
+the boundary is gone before Ghost sees it) — instead the echo-guard now treats merged and
+split forms as equal, so they never churn git. (b) "add a no-op guard" — one exists
+(normText); it had the line-start bug above, now fixed.
+
+**Date drift, correctly flagged by that session.** LOOPLOG headers read 2026-08-14/15 for
+work actually done 08-11/08-12, and the same wrong stamps had spread into worker.js,
+sync_to_ghost.py, send_email.py and ARCHITECTURE-COMMUNITY.md (15 occurrences). All
+corrected against git commit dates and the system clock. Cause: I took "today" from
+conversation context carried across a compaction rather than from the environment. Rule
+going forward: date stamps come from `date -u` or `git log`, never from memory.

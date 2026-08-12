@@ -343,7 +343,7 @@ async function apiSubmit(request, env, ctx) {
   if (factual && !/^https?:\/\/\S+/.test(clean(source || "")))
     return json({ error: "edits to factual claims require a source URL — we can't publish a claim we can't verify" }, 400);
 
-  // Identity (Floyd, 2026-08-14): name + a working email are required; a short
+  // Identity (Floyd, 2026-08-11): name + a working email are required; a short
   // bio is optional. Email + bio are PII: KV + notification email only, never
   // the public PR body.
   const safeName2 = oneLine(name || "", 80);
@@ -464,7 +464,7 @@ async function apiSubmit(request, env, ctx) {
 
 /* ── Ghost → git write-back (trusted admins edit in Ghost) ─────────────────
  *
- * Floyd's ask 2026-08-15: trusted admins should work in the Ghost editor they
+ * Floyd's ask 2026-08-11: trusted admins should work in the Ghost editor they
  * are already logged into — no tokens, no extra credentials — and their changes
  * must persist back to GitHub (git stays the source of truth; without this,
  * the next sync_to_ghost.py run would silently destroy any Ghost-side edit).
@@ -474,7 +474,7 @@ async function apiSubmit(request, env, ctx) {
  * the URL is known only to Ghost's webhook config). The handler:
  *   1. Ignores non-wiki posts (slug must resolve via the inventory census).
  *   2. Converts the rendered HTML back to markdown with a CLOSED-vocabulary
- *      converter (audited over the whole corpus 2026-08-15: h2-h4, p, ul/ol,
+ *      converter (audited over the whole corpus 2026-08-11: h2-h4, p, ul/ol,
  *      table, blockquote, a, strong/em, code/pre, br/hr). Any tag outside the
  *      vocabulary (footnotes, embeds, cards) throws → we file a review Issue
  *      with the raw HTML fenced instead of committing mangled markdown, and
@@ -543,7 +543,7 @@ async function processGhostEdit(slug, post, env, ctx) {
   try {
     converted = htmlToMarkdown(String(post.html || ""));
   } catch (e) {
-    // Refusal path echo-guard (added 2026-08-15 after false alarms): an
+    // Refusal path echo-guard (added 2026-08-11 after false alarms): an
     // UNMARKED sync echo of an unconvertible page (stale sync script, mark
     // race) must not file an Issue. Compare at the loose text level — tags
     // stripped, link URLs dropped — which survives every transform Ghost's
@@ -695,7 +695,7 @@ function normLoose(s, isHtml) {
       .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " "));
   }
   // Syntax-character strip runs on BOTH sides. Doing it on the markdown side only
-  // (as this did until 2026-08-15) makes any LITERAL such character diverge: a DOI
+  // (as this did until 2026-08-11) makes any LITERAL such character diverge: a DOI
   // like REST_a_00550 became "REST a 00550" in git and stayed "REST_a_00550" in
   // Ghost, so a plain sync echo of that page looked like an edit (Issue #40).
   return t.replace(/\\/g, "").replace(/[#>*_`|]+/g, " ")
@@ -1203,7 +1203,7 @@ if (tsSitekey) {
 /* Turnstile tokens expire ~5 minutes after the challenge is solved, and filling
    this form honestly takes longer than that — the widget can still read
    "Success!" while the token behind it is dead (Floyd hit exactly this,
-   2026-08-15). So never submit a stale token: if it's older than 4 minutes,
+   2026-08-11). So never submit a stale token: if it's older than 4 minutes,
    silently re-run the challenge and wait for the fresh one. */
 function freshToken() {
   if (!tsSitekey) return Promise.resolve("");
@@ -1361,7 +1361,7 @@ document.getElementById("submit").addEventListener("click",async()=>{
 });
 /* hash-only navigation (typing #editor into the URL bar on an already-loaded
    page) fires hashchange, not a reload — without this listener the prompt
-   never appears (Floyd hit exactly this, 2026-08-15) */
+   never appears (Floyd hit exactly this, 2026-08-11) */
 window.addEventListener("hashchange", () => { if (location.hash === "#editor") tryEditorMode(); });
 load().then(tryEditorMode);
 </script></body></html>`;

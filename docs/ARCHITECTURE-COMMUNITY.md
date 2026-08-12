@@ -150,7 +150,7 @@ Why it doesn't pay off:
 The one genuine benefit — a familiar track-changes experience — is what §3.1 provides
 natively.
 
-#### Ghost as the editing platform, with write-back to GitHub — **BUILT 2026-08-15 as the trusted-admin path (decision reversed by Floyd; see the "Built" block below the original analysis)**
+#### Ghost as the editing platform, with write-back to GitHub — **BUILT 2026-08-11 as the trusted-admin path (decision reversed by Floyd; see the "Built" block below the original analysis)**
 
 The idea: editors edit the wiki page in Ghost's own admin UI; a webhook fires; something
 converts it back to Markdown and opens a PR. Ghost is already the publishing surface, so
@@ -191,7 +191,7 @@ with a bot that opens the PR and pings T1 immediately. **Sequence it after §3.1
 if the diff editor is good, most of the demand for editing in Ghost disappears — and it
 would then be an optional convenience rather than the load-bearing editor path.
 
-**Built (2026-08-15).** Floyd chose exactly this trade-off for trusted admins: "I'd
+**Built (2026-08-11).** Floyd chose exactly this trade-off for trusted admins: "I'd
 rather trusted admins work via ghost, and there changes auto-persist to github …
 having ones logged in ghost profile enable the editor mode automatically, without
 using tokens or additional management burdens." Ghost's own staff login IS the
@@ -282,7 +282,7 @@ fix it," reading recommendations. Mechanics:
 Effort, all three together: roughly a day in the existing Worker + one footer-snippet
 update + `issues: write` on the PAT.
 
-### 3.2c The oversight layer (built 2026-08-14, Floyd's ask)
+### 3.2c The oversight layer (built 2026-08-11, Floyd's ask)
 
 The public-submission process now runs with Floyd in the loop, end to end:
 

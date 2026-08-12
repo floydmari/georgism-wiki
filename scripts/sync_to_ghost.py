@@ -49,7 +49,7 @@ import markdown as md
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from _secrets import require_ghost, _op_item_field   # resolves from env or 1Password (op)
 
-# ─── Ghost→git write-back echo suppression (2026-08-15) ────────────────────
+# ─── Ghost→git write-back echo suppression (2026-08-11) ────────────────────
 # Every upsert below makes Ghost fire its post.published.edited webhook at the
 # wiki-edit worker (the Ghost→git write-back path). Marking the slug right
 # after pushing lets the worker recognize that webhook as OUR OWN echo and
@@ -67,15 +67,33 @@ def _get_webhook_key():
                         or "")
     return _webhook_key
 
+_warned = False
+
 def mark_synced(slug):
+    """Tell the worker this upsert is ours so its webhook echo is ignored.
+
+    NOT silent on failure. On 2026-08-12 the loop's 1Password quota was
+    exhausted, this returned "" for the key, marking silently did nothing, and
+    four of the loop's own Ghost syncs came back through the webhook looking
+    like trusted-admin edits (PRs #42-#45) — one of which fought a revert for
+    two rounds. The content-comparison guard is the backstop, but a mark that
+    can't be set is worth saying out loud.
+    """
+    global _warned
     key = _get_webhook_key()
     if not key:
+        if not _warned:
+            print("  ⚠️  GHOST_WEBHOOK_KEY unavailable — sync echoes are NOT being marked.\n"
+                  "     The worker's content comparison still guards against false\n"
+                  "     write-backs, but set GHOST_WEBHOOK_KEY in the environment to\n"
+                  "     restore the fast path.")
+            _warned = True
         return
     try:
         requests.post(f"{WORKER_URL}/api/sync-mark",
                       params={"key": key, "slug": slug}, timeout=10)
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"  ⚠️  could not mark {slug} as a sync echo ({e.__class__.__name__})")
 
 _KEY, GHOST_URL = require_ghost()
 GHOST_URL = GHOST_URL.rstrip("/")

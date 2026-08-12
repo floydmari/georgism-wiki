@@ -2,7 +2,7 @@
 """
 fix_list_spacing.py — insert the blank line Markdown needs before a list.
 
-THE BUG (found 2026-08-15, via the Ghost write-back). Python-Markdown — the
+THE BUG (found 2026-08-12, via the Ghost write-back). Python-Markdown — the
 renderer sync_to_ghost.py uses — only starts a list when a blank line precedes
 it. A list written directly under its lead-in paragraph:
 
@@ -91,7 +91,7 @@ def main():
         # round-trips the YAML through a parser, which reorders keys alphabetically,
         # expands inline lists to block lists and re-wraps the excerpt — hundreds of
         # lines of churn in a change that is supposed to add blank lines and nothing
-        # else (caught in review before it was committed, 2026-08-15).
+        # else (caught in review before it was committed, 2026-08-12).
         raw = open(path, encoding="utf-8").read()
         m = re.match(r"^(---\n.*?\n---\n)(.*)$", raw, re.S)
         if not m:
