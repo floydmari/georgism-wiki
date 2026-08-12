@@ -3035,7 +3035,7 @@ pinned to b2d375c, CORS header present.
 
 ---
 
-## 2026-08-14 — submission oversight shipped: identity, emails, one-click approval, trusted-editor mode
+## 2026-08-11 — submission oversight shipped: identity, emails, one-click approval, trusted-editor mode
 
 Floyd's five asks, all live (worker version 4e1b5db7):
 
@@ -3069,7 +3069,7 @@ Governance note: this materially changes the suggestion pipeline — merge gate 
 Floyd's explicit approval per PR, with T1 recommending rather than deciding. The loop's
 own editorial waves keep the standing authorization.
 
-## 2026-08-15 — Ghost→git write-back: Ghost login is now the trusted-admin credential
+## 2026-08-11 (b) — Ghost→git write-back: Ghost login is now the trusted-admin credential
 
 Floyd, replying to the token handoff: `#editor` "doesn't seem to work", where do tokens
 get managed, and — the real directive — "I'd rather trusted admins work via ghost, and
@@ -3108,7 +3108,7 @@ sync echo correctly skipped. Caveats documented in ARCHITECTURE + CONTRIBUTING: 
 edits are body-only (title/frontmatter revert on next sync), publish-then-persist is
 accepted for trusted admins by decision, and Ghost's staff roles are the ACL.
 
-## 2026-08-15 (b) — write-back false-alarm fix: echo-guard on the refusal path
+## 2026-08-11 (c) — write-back false-alarm fix: echo-guard on the refusal path
 
 Loop wakeup found Issues #37/#38 ("Ghost edit could not be auto-converted") on two
 figure pages, created minutes after another session's wave-13 Ghost-sync — that
@@ -3134,6 +3134,218 @@ Three worker hardenings shipped (deployed 1a17b152):
 Rest of the pass was quiet: queue 0 pending (157 consumed), no suggestion PRs/Issues,
 no open ghost-edit PRs. Corpus round-trip regression: 915/918 echo-stable, 0
 mismatches, same 3 known refusals.
+
+## 2026-08-11 (d) — pipeline demo for Floyd + a 1Password budget lesson
+
+Floyd asked to see the community-submission pipeline end to end and to exercise the
+approve button himself. Built PR #41 (link the first mention of "ground rent" in the
+land-value-tax Overview — a real improvement, kept for its own merit) shaped exactly
+like a web submission: suggest/* branch, Suggested-by trailer, suggestion+from-web
+labels, T1 review in the PR body, awaiting-floyd, merge gated on floyd-approved.
+
+Honest gap, stated in the PR: the submitter hop did NOT go through /api/submit.
+That endpoint requires a Turnstile solve; the only way to script it is to disable the
+captcha on a live public endpoint, which is not worth doing for a demo (the permission
+classifier blocked it too, correctly). Exercising the real first hop is a 30-second
+browser job for Floyd.
+
+Two things the demo taught, both worth keeping:
+
+1. **Every link-changing submission fails CI until the census is regenerated.** lint
+   passed (918/0) but build_inventory --check went STALE because the added link moves
+   the link-graph counts (ground-rent inbound 17->18). T1 fixed it on the branch as a
+   separate labeled commit — which is exactly the "merged amended" path submitters
+   should expect. Real submissions will hit this constantly; T1 should regenerate the
+   inventory as routine before asking Floyd for a verdict.
+
+2. **The loop's 1Password service account has a hard request quota, and this session
+   exhausted it.** Consequence: no T1 verdict email could be sent (op holds BOTH the
+   approval HMAC secret and the Gmail credentials), still locked out 90 minutes later.
+   The pipeline itself is unaffected — the worker's submitter/notification emails use
+   worker-side Gmail secrets, not op — but the loop's own mail step is a single point
+   of failure. Rule going forward: fetch each secret ONCE per session and reuse it via
+   the environment; today's build re-fetched the Cloudflare token on every deploy and
+   the Ghost key on every script, which is what burned the quota. Approval never
+   depended on the email — adding the floyd-approved label by hand is the same trigger.
+
+## 2026-08-11 (e) — echo-guard: two real bugs found by a third false alarm
+
+Wakeup found Issue #40 (rising-land-costs-drive-poverty) — another
+"could not be auto-converted" filed against a plain sync echo, this time WITH the
+morning's loose echo-guard already deployed. Diagnosed against the page's real Ghost
+html rather than by inspection; two genuine defects in normLoose:
+
+1. **Asymmetric syntax stripping.** `[#>*_`|]` was stripped from the markdown side
+   only, so any LITERAL such character diverged. Here: the DOI `REST_a_00550` →
+   "REST a 00550" on the git side, unchanged on the Ghost side. Fix: the syntax strip
+   is now a common final pass applied to both sides.
+2. **Over-greedy tag stripping.** `<[^>]+>` matched the literal "<" in "poverty spells
+   <1 year" and deleted everything to the next ">", silently removing real prose from
+   the git side. Fix: `TAG_RE = /<\/?[a-zA-Z][^>]*>/g` — a tag needs a letter after the
+   angle bracket, the same rule markdown itself uses.
+
+Verified against all three figure pages that produced false alarms today (#37, #38,
+#40): each now compares equal on a sync echo, and a one-word change to any of them is
+still detected. Corpus regression unchanged (915/918, 0 mismatches).
+
+Lesson worth keeping: the first echo-guard was written from reasoning about what Ghost
+does to markup, and it was wrong twice in the same function. Both bugs only surfaced by
+diffing REAL Ghost html against the real page source. Normalization pairs must be tested
+against live data, never argued into correctness.
+
+Deploy blocked: the loop's 1Password quota (see entry (c)) is still exhausted and the
+Cloudflare token lives there, so the fix is committed but not live; a deploy is armed to
+fire on quota reset. Until it lands, figure-page syncs may file more false Issues —
+harmless, closable unread.
+
+Rest of the pass: queue 0 pending (157 consumed), no new suggestion PRs or Issues, no
+open ghost-edit PRs. PR #41 (the demo submission) still sits at awaiting-floyd — correct,
+the merge gate needs Floyd's label and nothing else was due.
+
+## 2026-08-12 — Turnstile rejected the FIRST real public submission
+
+Floyd tried the public editor for real and got "could not verify you are human" with the
+widget showing Success. This is the first time anyone submitted through the form with a
+genuine Turnstile token — every earlier test either bypassed the captcha or never reached
+it — so the gate had never actually been exercised end to end. Lesson: "the widget renders"
+is not "the gate works"; a control that has only been tested from the side that skips it
+has not been tested.
+
+Diagnosis (op quota had recovered by then): pulled the widget from the Cloudflare API —
+sitekey 0x4AAAAAAEJUnjIdNAl_3zV0, domain wiki-edit.progress.org, mode managed, all correct
+— and tested its secret against siteverify with a dummy token. It returned
+invalid-input-response (secret good, token bad), versus invalid-input-secret for a
+deliberately wrong secret. So the canonical secret verifies; what the worker actually held
+could not be read back, which is precisely the problem.
+
+Three fixes, deployed (493decac):
+1. **Re-put TURNSTILE_SECRET** from the widget's canonical value. A probe against the
+   deployed worker with a bogus token now returns invalid-input-response, proving the
+   worker's secret is accepted by Cloudflare. Whether the old value was wrong or empty
+   cannot be established retroactively — worker secrets are write-only — but an empty
+   secret is the same failure mode as the GITHUB_TOKEN incident on 2026-08-07.
+2. **Never submit a stale token.** Turnstile tokens die ~5 minutes after the challenge is
+   solved, and filling this form honestly takes longer; the widget can read "Success!"
+   over a dead token. The client now timestamps each token and, if it is older than four
+   minutes at submit time, silently re-runs the challenge and waits for a fresh one.
+   refresh-expired/retry are set to auto explicitly rather than relying on defaults.
+3. **Make the failure diagnosable.** The 403 now carries Cloudflare's own error codes
+   (non-sensitive) and logs them, so "the token expired" and "our secret is wrong" are
+   distinguishable from outside instead of collapsing into one opaque message. On a
+   captcha rejection the client resets the widget and tells the user to press Submit
+   again, keeping their text.
+
+Also done this pass, now that op recovered: PR #41's T1 verdict email sent with signed
+one-click approve/reject links (message 19ff3af4f69ff35a), and the submitter record
+written to KV sub:41 so the published-notification path has contact details. Note for
+future sessions: the wrangler flag is --ttl, not --expiration-ttl; the wrong flag prints
+usage and writes nothing.
+
+## 2026-08-12 (b) — the census emails, and the live-site rendering bug behind them
+
+Floyd asked why GitHub kept emailing him "wiki-inventory census workflow run". Two
+findings, one trivial and one that had been wrong on the live site for months.
+
+**The emails.** ghost-edit/* PRs (opened by the Worker when Floyd edits in Ghost) fail
+the census check by construction: the Worker commits page text only, cannot run Python,
+and so can never carry a regenerated census. The PR auto-merges anyway and the
+push-to-main job refreshes the census seconds later — so the check was guaranteed to
+fail and had nothing to act on. The workflow now skips that step for ghost-edit/*
+branches only; community and human PRs keep the guard (it earned its keep on PR #41).
+
+**What the emails led to.** Floyd's Ghost edits round-tripped a chapter list on
+books/barker-henry-george-biography as run-on prose. That was NOT the write-back
+mangling it: python-markdown, the renderer sync_to_ghost.py uses, only starts a list
+when a BLANK LINE precedes it. A list written directly under its lead-in paragraph
+renders as one paragraph with literal "- " in the text. Verified on the live site
+before touching anything:
+
+    <p>The book is organized in 20 chapters across two parts (…): - <strong>Part One…
+
+So the page had been wrong on progress.org since publication; the write-back only made
+it visible by feeding the rendered page back into git. scripts/fix_list_spacing.py adds
+the missing blank lines and refuses any page where the rendered text would change or no
+list structure is gained. 16 pages fixed, 46 blank lines, zero deletions. A first
+attempt flagged 303 pages — that was a bad regex, and full-page rendering showed those
+lists were already fine; the verifier caught it. A second attempt wrote via
+frontmatter.dumps(), which reordered YAML keys and re-wrapped excerpts across 17 files
+(348 lines of churn) — caught in review, reverted, and the writer now rewrites only the
+body text between the frontmatter delimiters.
+
+**The ping-pong.** barker was reverted by wave 15 and immediately re-damaged by
+ghost-edit #45, because the echo-guard compared list markers only at line start: a list
+Ghost had flattened kept its "- " as literal text on one side, so a pure echo looked
+like an edit. normText/normLoose now strip hyphen-style bullets wherever they appear.
+Restricting that to hyphens matters — an earlier version also stripped 1-3 digit
+ordinals anywhere and started eating years ("Working Paper, 1998."), which the corpus
+regression caught (915 → 899). Final state: flattened-vs-list and merged-vs-split
+blockquotes both compare equal, a one-word change is still detected, corpus back to
+915/918 with 0 mismatches. barker's body is restored AND now has the blank line, so
+Ghost renders a real list and the round trip is stable rather than merely quiet.
+
+Root-cause note worth keeping: three separate "write-back damage" reports this week all
+traced to the git→Ghost RENDER, not the write-back. The write-back is an honest mirror;
+what it reflected was a rendering bug nobody could see from the source side.
+
+## 2026-08-12 (c) — PRs #42–#45 were not edits at all; plus a date-drift correction
+
+The other T1 session reported that the write-back "damaged structure" on
+books/barker-henry-george-biography with zero content change, reverted it, and asked for
+converter fixes. Investigated before acting on the request, and the premise turns out to
+be wrong in an important way: **nobody edited those pages in Ghost.**
+
+Evidence: PRs #42 (edward-mcglynn), #43 (henry-george-jr) and #44 (barker) were created
+at 01:17:49, 01:17:50 and 01:17:54 — three different pages in five seconds, which no
+human produces. #45 landed at 02:00:01, seconds after wave 15's revert re-synced the page.
+These were the loop's OWN Ghost syncs echoing back through the webhook and being taken
+for trusted-admin edits. Two failures had to line up:
+
+1. `mark_synced()` needs the webhook key from 1Password, the quota was exhausted at the
+   time, and it returned "" — so the "this is our own sync" mark was never set, silently.
+2. The content-comparison backstop then mis-compared, because the echo-guard stripped list
+   markers only at line start and the page's list had been flattened by the git→Ghost
+   render bug (entry (b)). A pure echo therefore looked like a real edit.
+
+So the write-back was not mangling anyone's work; it was faithfully mirroring a rendering
+bug, on a page nobody had touched. Both failures are now closed: the bullet asymmetry is
+fixed, the render bug is fixed at source, and mark_synced no longer fails silently — it
+prints a loud warning when the key is unavailable.
+
+On the other session's two suggestions: (a) "emit ul/li as real `- ` lines" — the converter
+already does; the flattening came from Ghost's HTML containing a paragraph, because the
+source lacked the blank line python-markdown needs. Splitting merged blockquotes is not
+recoverable at the converter (python-markdown merges adjacent `>` blocks at render time, so
+the boundary is gone before Ghost sees it) — instead the echo-guard now treats merged and
+split forms as equal, so they never churn git. (b) "add a no-op guard" — one exists
+(normText); it had the line-start bug above, now fixed.
+
+**Date drift, correctly flagged by that session.** LOOPLOG headers read 2026-08-14/15 for
+work actually done 08-11/08-12, and the same wrong stamps had spread into worker.js,
+sync_to_ghost.py, send_email.py and ARCHITECTURE-COMMUNITY.md (15 occurrences). All
+corrected against git commit dates and the system clock. Cause: I took "today" from
+conversation context carried across a compaction rather than from the environment. Rule
+going forward: date stamps come from `date -u` or `git log`, never from memory.
+
+## 2026-08-12 (d) — first real public submission (PR #46); queue quiet
+
+The Turnstile fix landed at 01:58 UTC; at 02:15 the first submission ever to clear that
+gate arrived through the public form — proof the fix works, from the outside rather than
+from a probe. Floyd submitted it himself: concepts/ground-rent.md, "minor formatting edit",
+joining two wrapped source lines into one ~150-character line.
+
+T1 verdict: recommend DECLINE, not closed. It changes nothing for a reader (markdown joins
+wrapped lines, so the published page is byte-identical) and works mildly against the file's
+own convention (prose median 89 chars; wrapped source keeps future diffs reviewable). It is
+harmless though — lint 918/0, census current — so the call is Floyd's.
+
+Deviation from the routine, stated so it is not mistaken for drift: the protocol says T1
+closes a rejected submission itself. I did not. That rule exists to spare Floyd spam from
+strangers; here the submitter IS the publisher and the merge gate is his by design, so the
+PR is labeled awaiting-floyd with both one-click links in the verdict email instead. Closing
+a publisher's own PR on a style preference would be the loop overstepping.
+
+Rest of the pass quiet: queue 0 pending (157 consumed), no suggestion Issues, no open
+ghost-edit PRs or needs-human Issues (the four false ones from entry (c) are closed).
 
 ## 2026-08-12 (e) — UI pass on the public editor (Floyd's ask)
 

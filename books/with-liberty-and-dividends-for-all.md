@@ -51,6 +51,7 @@ The book's Appendix presents "back-of-the-envelope" estimates of the dividend po
 ## Policy Recommendations
 
 Barnes proposes (Ch. 7, 9):
+
 1. Identify co-owned wealth: atmosphere, electromagnetic spectrum, mineral resources, intellectual property commons, financial infrastructure
 2. Establish trusts to manage these assets on behalf of present and future generations
 3. Charge rent for private use of common assets

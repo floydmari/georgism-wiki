@@ -43,6 +43,7 @@ Banner documents a critical conceptual shift: Indian land rights were gradually 
 ### Removal, Reservations, and Allotment (Chs. 6–8)
 
 The book traces the progressive dispossession mechanisms:
+
 - **Removal** (Ch. 6, p. 191ff): forced relocation of Indian tribes, particularly under the 1830 Indian Removal Act
 - **Reservations** (Ch. 7, p. 228ff): confinement to defined areas, representing a further restriction of land rights
 - **Allotment** (Ch. 8, p. 257ff): the Dawes Act (1887) and related legislation that broke up communal tribal lands into individual allotments, accelerating land loss

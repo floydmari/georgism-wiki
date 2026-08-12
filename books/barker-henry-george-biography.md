@@ -15,13 +15,14 @@ supports_outcomes: []
 
 *Henry George* is a scholarly biography by **Charles Albro Barker** (1904–), originally published by Oxford University Press in 1955 and reprinted by Greenwood Press in 1974 (ISBN 0-8371-7775-8). Barker was a professor at Johns Hopkins University. The biography draws on the Henry George Collection at the New York Public Library, the Huntington Library, the Bancroft Library, and the Library of Congress (Barker 1955, pp. 15–16). Barker acknowledges that he began the project "without the slightest hostage in the Henry George camp," having been raised Republican, voted for Norman Thomas, and supported the New Deal (Barker 1955, p. 11).
 
-Barker's thesis is that George's intellectual development followed Jeffersonian and Jacksonian principles — "destroying private economic monopolies and advancing freedom and equal opportunity for everyone" — consistently from his Philadelphia boyhood through his California years to his death (Barker 1955, p. 13). The biography is divided into two parts: Part One, "A California Protest" (1839–1879), covering George's origins through *Progress and Poverty*; and Part Two covering his post-publication career in New York, England, and the single-tax movement through his death in 1897.
+Barker's thesis is that George's intellectual development followed Jeffersonian and Jacksonian principles — "destroying private economic monopolies and advancing freedom and equal opportunity for everyone" — consistently from his Philadelphia boyhood through his California years to his death (Barker 1955, p. 13). The biography is divided into two parts: Part One, "A California Protest" (1839–1879), covering George's origins through *Progress and Poverty*; and Part Two covering his post-publication career in New York, England, and the single-tax movement through his [death in 1897](/wiki/1897-nyc-mayoral-campaign/).
 
 ## Core Findings
 
 ### Structure
 
 The book is organized in 20 chapters across two parts (Barker 1955, pp. 19–21):
+
 - **Part One: A California Protest (1839–1879)**: Ch. I–IX, covering George's birth in Philadelphia (1839), immigration to California (1855), journalism career, and the writing of *Progress and Poverty* (1879)
 - **Part Two**: Ch. X–XX, covering George's career from 1880 through his death in 1897, including his influence in England, the 1886 New York mayoral campaign, the single-tax movement, and his "triple legacy of Georgism"
 

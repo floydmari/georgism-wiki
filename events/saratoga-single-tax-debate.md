@@ -34,7 +34,7 @@ Concord, Mass.).[2] The session crystallized the George-versus-academy antagonis
 for American economics — an interpretation to read as Gaffney's, though the debate
 itself is documented record. Gaffney's account adds one further biographical detail
 to that framing: Clark had been recruited to Columbia by Seth Low, who was at the time
-preparing his own run for Mayor of New York against George — placing an academic
+preparing his own [run for Mayor of New York](/wiki/1897-nyc-mayoral-campaign/) against George — placing an academic
 appointment inside the same 1886–90 political rivalry the debate grew out of.[1]
 
 ## The Session and Its Wider Cast

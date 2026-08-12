@@ -57,8 +57,17 @@ jobs:
 
       # On PRs: verify the census is current; fail if a contributor forgot to
       # regenerate it (non-mutating).
+      #
+      # Skipped for ghost-edit/* branches. Those PRs are opened by the wiki-edit
+      # Worker when a trusted admin edits in Ghost, and they auto-merge on arrival
+      # (the change is already live on the site; git must not lag it). The Worker
+      # commits page text only — it cannot run Python, so its branch can never
+      # carry a regenerated census, and the push-to-main job below refreshes the
+      # census seconds later anyway. Before this exclusion every link-changing
+      # Ghost edit sent Floyd a red "workflow run failed" email for a check that
+      # was guaranteed to fail and had nothing to act on.
       - name: Verify census is current (PR)
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request' && !startsWith(github.head_ref, 'ghost-edit/')
         run: python3 scripts/build_inventory.py --check
 
       # On push to main: regenerate and commit if it changed. The commit touches

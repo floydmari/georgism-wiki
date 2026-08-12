@@ -334,8 +334,16 @@ async function apiSubmit(request, env, ctx) {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ secret: env.TURNSTILE_SECRET, response: b.turnstileToken || "", remoteip: ip }),
     }).then((r) => r.json()).catch(() => ({ success: false }));
-    if (!tv.success)
-      return json({ error: "could not verify you are human — reload and try again" }, 403);
+    if (!tv.success) {
+      // Surface Cloudflare's own error codes: they are non-sensitive, and they are
+      // the difference between "the token expired" (timeout-or-duplicate — a retry
+      // fixes it) and "our secret is wrong" (invalid-input-secret — only we can fix
+      // it). Without them this failure is undiagnosable from outside.
+      const codes = (tv["error-codes"] || []).join(",");
+      console.log(`turnstile reject: ${codes || "no codes"}`);
+      return json({ error: "could not verify you are human — the check may have expired while you were writing; it has been reset, please submit again",
+                    turnstile: codes }, 403);
+    }
   }
 
   const { slug, sectionHeading, newText, rationale, factual, source, name,
@@ -347,7 +355,7 @@ async function apiSubmit(request, env, ctx) {
   if (factual && !/^https?:\/\/\S+/.test(clean(source || "")))
     return json({ error: "edits to factual claims require a source URL — we can't publish a claim we can't verify" }, 400);
 
-  // Identity (Floyd, 2026-08-14): name + a working email are required; a short
+  // Identity (Floyd, 2026-08-11): name + a working email are required; a short
   // bio is optional. Email + bio are PII: KV + notification email only, never
   // the public PR body.
   const safeName2 = oneLine(name || "", 80);
@@ -468,7 +476,7 @@ async function apiSubmit(request, env, ctx) {
 
 /* ── Ghost → git write-back (trusted admins edit in Ghost) ─────────────────
  *
- * Floyd's ask 2026-08-15: trusted admins should work in the Ghost editor they
+ * Floyd's ask 2026-08-11: trusted admins should work in the Ghost editor they
  * are already logged into — no tokens, no extra credentials — and their changes
  * must persist back to GitHub (git stays the source of truth; without this,
  * the next sync_to_ghost.py run would silently destroy any Ghost-side edit).
@@ -478,7 +486,7 @@ async function apiSubmit(request, env, ctx) {
  * the URL is known only to Ghost's webhook config). The handler:
  *   1. Ignores non-wiki posts (slug must resolve via the inventory census).
  *   2. Converts the rendered HTML back to markdown with a CLOSED-vocabulary
- *      converter (audited over the whole corpus 2026-08-15: h2-h4, p, ul/ol,
+ *      converter (audited over the whole corpus 2026-08-11: h2-h4, p, ul/ol,
  *      table, blockquote, a, strong/em, code/pre, br/hr). Any tag outside the
  *      vocabulary (footnotes, embeds, cards) throws → we file a review Issue
  *      with the raw HTML fenced instead of committing mangled markdown, and
@@ -547,7 +555,7 @@ async function processGhostEdit(slug, post, env, ctx) {
   try {
     converted = htmlToMarkdown(String(post.html || ""));
   } catch (e) {
-    // Refusal path echo-guard (added 2026-08-15 after false alarms): an
+    // Refusal path echo-guard (added 2026-08-11 after false alarms): an
     // UNMARKED sync echo of an unconvertible page (stale sync script, mark
     // race) must not file an Issue. Compare at the loose text level — tags
     // stripped, link URLs dropped — which survives every transform Ghost's
@@ -664,10 +672,11 @@ function normText(s) {
     .replace(/https?:\/\/(www\.)?progress\.org\//g, "/")   // absolute↔relative internal links compare equal
     .replace(/```([\s\S]*?)```/g, " $1 ")
     .replace(/\[([^\]]*)\]\(([^)]+)\)/g, " $1 $2 ")
-    .replace(/^\s*(?:[-+*]|\d+\.)\s+/gm, " ")
+    .replace(/^\s*(?:[-+*]|\d+\.)\s+/gm, " ")        // list markers at line start
     .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " ")   // table separator rows
     .replace(/\\/g, "")          // markdown escapes (\. \-) vanish, not space out
     .replace(/[#>*_`|]+/g, " ")
+    .replace(BULLETS, " ")        // list markers ANYWHERE, not just line-start
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -675,22 +684,34 @@ function normText(s) {
 /* Loose text-level comparison for the refusal path: words only — html tags
    stripped, markdown syntax stripped, link/image URLs dropped entirely (Ghost
    absolutizes hrefs and re-hosts images, so URLs never compare stable). */
+/* Only real tags: a literal "<" in prose ("poverty spells <1 year") must not eat
+   the rest of the sentence up to the next ">" — that silently deleted text from
+   the git side of the comparison and made a sync echo look like an edit. */
+const TAG_RE = /<\/?[a-zA-Z][^>]*>/g;
+/* A bullet is a marker surrounded by whitespace, wherever it sits. Anchoring this
+   to line starts made "a: - one - two" (a list Ghost flattened into a paragraph)
+   compare unequal to the same list in git. Hyphens inside words are untouched. */
+const BULLETS = /(^|\s)[-+*](?=\s)/g;
+
 function normLoose(s, isHtml) {
   let t = clean(s).replace(/<!--[\s\S]*?-->/g, " ");
   if (isHtml) {
-    t = decodeEntities(t.replace(/<[^>]+>/g, " "));
+    t = decodeEntities(t.replace(TAG_RE, " "));
   } else {
     t = decodeEntities(t                           // figure html carries &amp; etc.
       .replace(/^---\n[\s\S]*?\n---\n/, "")
-      .replace(/<[^>]+>/g, " ")                    // raw html blocks (figures)
+      .replace(TAG_RE, " ")                        // raw html blocks (figures)
       .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
       .replace(/\[([^\]]*)\]\([^)]*\)/g, " $1 ")
       .replace(/^\s*(?:[-+*]|\d+\.)\s+/gm, " ")
-      .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " ")
-      .replace(/\\/g, "")
-      .replace(/[#>*_`|]+/g, " "));
+      .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " "));
   }
-  return t.replace(/\s+/g, " ").trim();
+  // Syntax-character strip runs on BOTH sides. Doing it on the markdown side only
+  // (as this did until 2026-08-11) makes any LITERAL such character diverge: a DOI
+  // like REST_a_00550 became "REST a 00550" in git and stayed "REST_a_00550" in
+  // Ghost, so a plain sync echo of that page looked like an edit (Issue #40).
+  return t.replace(/\\/g, "").replace(/[#>*_`|]+/g, " ")
+          .replace(BULLETS, " ").replace(/\s+/g, " ").trim();
 }
 
 /* ── HTML → markdown, closed vocabulary ──────────────────────────────────── */
@@ -947,8 +968,16 @@ async function apiComment(request, env, ctx) {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ secret: env.TURNSTILE_SECRET, response: b.turnstileToken || "", remoteip: ip }),
     }).then((r) => r.json()).catch(() => ({ success: false }));
-    if (!tv.success)
-      return json({ error: "could not verify you are human — reload and try again" }, 403);
+    if (!tv.success) {
+      // Surface Cloudflare's own error codes: they are non-sensitive, and they are
+      // the difference between "the token expired" (timeout-or-duplicate — a retry
+      // fixes it) and "our secret is wrong" (invalid-input-secret — only we can fix
+      // it). Without them this failure is undiagnosable from outside.
+      const codes = (tv["error-codes"] || []).join(",");
+      console.log(`turnstile reject: ${codes || "no codes"}`);
+      return json({ error: "could not verify you are human — the check may have expired while you were writing; it has been reset, please submit again",
+                    turnstile: codes }, 403);
+    }
   }
 
   const { slug, comment, source, name, email, bio } = b;
@@ -1275,16 +1304,34 @@ const EDITOR_HTML = `<!doctype html>
 <script>
 const slug = "__SLUG__";
 const tsSitekey = "__TS_SITEKEY__";
-let sections = [], original = "", tsToken = "";
+let sections = [], original = "", tsToken = "", tsAt = 0, tsWidget = null, tsWaiter = null;
 
 if (tsSitekey) {
   const s = document.createElement("script");
   s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=tsReady";
   s.async = true; document.head.appendChild(s);
-  window.tsReady = () => turnstile.render("#ts-slot", {
+  window.tsReady = () => { tsWidget = turnstile.render("#ts-slot", {
     sitekey: tsSitekey,
-    callback: (t) => { tsToken = t; },
-    "expired-callback": () => { tsToken = ""; },
+    "refresh-expired": "auto",
+    "retry": "auto",
+    callback: (t) => { tsToken = t; tsAt = Date.now();
+                       if (tsWaiter) { const w = tsWaiter; tsWaiter = null; w(t); } },
+    "expired-callback": () => { tsToken = ""; tsAt = 0; },
+  }); };
+}
+
+/* Turnstile tokens expire ~5 minutes after the challenge is solved, and filling
+   this form honestly takes longer than that — the widget can still read
+   "Success!" while the token behind it is dead (Floyd hit exactly this,
+   2026-08-11). So never submit a stale token: if it's older than 4 minutes,
+   silently re-run the challenge and wait for the fresh one. */
+function freshToken() {
+  if (!tsSitekey) return Promise.resolve("");
+  if (tsToken && Date.now() - tsAt < 240000) return Promise.resolve(tsToken);
+  return new Promise((resolve) => {
+    tsWaiter = resolve;
+    try { turnstile.reset(tsWidget); } catch (e) { /* widget not ready */ }
+    setTimeout(() => { if (tsWaiter) { tsWaiter = null; resolve(tsToken || ""); } }, 15000);
   });
 }
 
@@ -1433,6 +1480,7 @@ document.getElementById("tab-comment").addEventListener("click",()=>setMode("com
 document.getElementById("submit").addEventListener("click",async()=>{
   const btn=document.getElementById("submit"),st=document.getElementById("status");
   btn.disabled=true;st.textContent="Submitting…";
+  const tsFresh=await freshToken();
   let r,d;
   if(mode==="comment"){
     const body={slug,comment:document.getElementById("comment").value,
@@ -1441,7 +1489,7 @@ document.getElementById("submit").addEventListener("click",async()=>{
       email:document.getElementById("email").value,
       bio:document.getElementById("bio").value,
       website:document.getElementById("website").value,
-      turnstileToken:tsToken};
+      turnstileToken:tsFresh};
     r=await fetch("/api/comment",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
     d=await r.json();
     if(r.ok&&d.issue){st.innerHTML='✅ Thank you! Your suggestion was filed as <a target="_blank" href="'+d.issue.url+'">#'+d.issue.number+"</a> for the editors.";return;}
@@ -1458,16 +1506,22 @@ document.getElementById("submit").addEventListener("click",async()=>{
       email:document.getElementById("email").value,
       bio:document.getElementById("bio").value,
       website:document.getElementById("website").value,
-      turnstileToken:tsToken};
+      turnstileToken:tsFresh};
     r=await fetch("/api/submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
     d=await r.json();
     if(r.ok&&d.pr){st.innerHTML='✅ Thank you! Your suggestion is now <a target="_blank" href="'+d.pr.url+'">pull request #'+d.pr.number+"</a> awaiting editorial review.";return;}
+  }
+  if(r&&r.status===403&&/human/.test(d.error||"")){
+    try{turnstile.reset(tsWidget);}catch(e){}
+    tsToken="";tsAt=0;
+    st.textContent="⚠️ The human check expired while you were writing. It has been reset — press Submit again (your text is kept).";
+    btn.disabled=false;return;
   }
   st.textContent="⚠️ "+(d.error||"submission failed");btn.disabled=false;
 });
 /* hash-only navigation (typing #editor into the URL bar on an already-loaded
    page) fires hashchange, not a reload — without this listener the prompt
-   never appears (Floyd hit exactly this, 2026-08-15) */
+   never appears (Floyd hit exactly this, 2026-08-11) */
 window.addEventListener("hashchange", () => { if (location.hash === "#editor") tryEditorMode(); });
 load().then(tryEditorMode);
 </script></body></html>`;

@@ -33,6 +33,7 @@ last_reviewed: 2026-07-12
 *Economic Theory in Retrospect* is a history of economic thought from David Hume to Milton Friedman, consistently focused on theoretical analysis rather than biographical or doctrinal history. It includes detailed Reader's Guides to nine major texts: Smith, Ricardo, Mill, Marx, [Marshall](/wiki/alfred-marshall/), [Wicksteed](/wiki/philip-wicksteed/), Wicksell, Walras, and Keynes. The fifth edition added new Reader's Guides to Walras and Keynes, with major additions to chapters on marginal productivity theory, general equilibrium theory, and welfare economics.
 
 For Georgist purposes, the most relevant sections are:
+
 - **Chapter 3:** Population, Diminishing Returns and Rent (including §11: Site Value Taxation)
 - **Chapter 4:** Ricardo's System (the corn model, theory of wheat profits, rent as surplus)
 - **Chapter 8:** The Marginal Revolution (treatment of land in marginal utility theory)
@@ -164,6 +165,7 @@ Blaug occupies a centrist position on Georgism. He does not endorse the single t
 ## Relevance to Georgism
 
 Blaug's *Economic Theory in Retrospect* is valuable for the Georgist wiki as:
+
 - A mainstream, authoritative history of economic thought that treats Georgism with analytical respect
 - The most detailed academic treatment of site value taxation within a general history of economic thought textbook
 - A bridge between classical rent theory (Ricardo, Mill) and the marginal revolution's dissolution of land as a distinct factor

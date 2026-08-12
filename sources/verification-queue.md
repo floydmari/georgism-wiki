@@ -220,7 +220,11 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-11: 15 of 29 marker(s) not yet routed by hand (23 page(s) already curated above).*
+*Regenerated 2026-08-11: 17 of 31 marker(s) not yet routed by hand (23 page(s) already curated above).*
+
+### needs-book-copy (see sources/wanted-books.md) (1)
+
+- `people/henry-george-jr.md` — **CITATION NEEDED** a modern scholarly assessment of the book's reception or influence — none was located this session; it does not appear to be discussed in the corpus works already mined for this page (Barker 1955, England 2023, Bryson 20
 
 ### needs-unblocked-web (proxy allowlist or manual fetch) (14)
 
@@ -239,7 +243,8 @@ has routed yet; route one by moving it into a curated bucket above.*
 - `research/yang-split-rate-spillover-employment.md` — **VERIFY** confirm whether the published 2024 version updates the 1980–2010 sample period or coefficient magnitudes reported in the 2015 working paper — needs-unblocked-web, a proxy or institutional-access channel this environment
 - `books/bird-the-land-trap.md` — **VERIFY** original study(ies) behind this range not independently identified this session — cited via Doucet's review, not read in Bird's primary text
 
-### needs-new-source (research/forage task) (1)
+### needs-new-source (research/forage task) (2)
 
+- `people/henry-george-jr.md` — **VERIFY** a primary citation for the marriage date and Hitch's biographical details is still wanted — currently corroborated only by the English Wikipedia article; a period newspaper (December 1897 New Orleans or New York press) o
 - `research/nef-modern-system-fair-rents.md` — **VERIFY** the wiki has not independently reviewed the broader empirical rent-control literature (including the specific Autor–Palmer–Pathak Cambridge, MA and Diamond–McQuade–Qian San Francisco quasi-experimental studies commonly c
 <!-- AUTOGEN:END -->
