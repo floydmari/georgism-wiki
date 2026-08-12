@@ -3135,6 +3135,73 @@ Rest of the pass was quiet: queue 0 pending (157 consumed), no suggestion PRs/Is
 no open ghost-edit PRs. Corpus round-trip regression: 915/918 echo-stable, 0
 mismatches, same 3 known refusals.
 
+## 2026-08-15 (c) — pipeline demo for Floyd + a 1Password budget lesson
+
+Floyd asked to see the community-submission pipeline end to end and to exercise the
+approve button himself. Built PR #41 (link the first mention of "ground rent" in the
+land-value-tax Overview — a real improvement, kept for its own merit) shaped exactly
+like a web submission: suggest/* branch, Suggested-by trailer, suggestion+from-web
+labels, T1 review in the PR body, awaiting-floyd, merge gated on floyd-approved.
+
+Honest gap, stated in the PR: the submitter hop did NOT go through /api/submit.
+That endpoint requires a Turnstile solve; the only way to script it is to disable the
+captcha on a live public endpoint, which is not worth doing for a demo (the permission
+classifier blocked it too, correctly). Exercising the real first hop is a 30-second
+browser job for Floyd.
+
+Two things the demo taught, both worth keeping:
+
+1. **Every link-changing submission fails CI until the census is regenerated.** lint
+   passed (918/0) but build_inventory --check went STALE because the added link moves
+   the link-graph counts (ground-rent inbound 17->18). T1 fixed it on the branch as a
+   separate labeled commit — which is exactly the "merged amended" path submitters
+   should expect. Real submissions will hit this constantly; T1 should regenerate the
+   inventory as routine before asking Floyd for a verdict.
+
+2. **The loop's 1Password service account has a hard request quota, and this session
+   exhausted it.** Consequence: no T1 verdict email could be sent (op holds BOTH the
+   approval HMAC secret and the Gmail credentials), still locked out 90 minutes later.
+   The pipeline itself is unaffected — the worker's submitter/notification emails use
+   worker-side Gmail secrets, not op — but the loop's own mail step is a single point
+   of failure. Rule going forward: fetch each secret ONCE per session and reuse it via
+   the environment; today's build re-fetched the Cloudflare token on every deploy and
+   the Ghost key on every script, which is what burned the quota. Approval never
+   depended on the email — adding the floyd-approved label by hand is the same trigger.
+
+## 2026-08-15 (d) — echo-guard: two real bugs found by a third false alarm
+
+Wakeup found Issue #40 (rising-land-costs-drive-poverty) — another
+"could not be auto-converted" filed against a plain sync echo, this time WITH the
+morning's loose echo-guard already deployed. Diagnosed against the page's real Ghost
+html rather than by inspection; two genuine defects in normLoose:
+
+1. **Asymmetric syntax stripping.** `[#>*_`|]` was stripped from the markdown side
+   only, so any LITERAL such character diverged. Here: the DOI `REST_a_00550` →
+   "REST a 00550" on the git side, unchanged on the Ghost side. Fix: the syntax strip
+   is now a common final pass applied to both sides.
+2. **Over-greedy tag stripping.** `<[^>]+>` matched the literal "<" in "poverty spells
+   <1 year" and deleted everything to the next ">", silently removing real prose from
+   the git side. Fix: `TAG_RE = /<\/?[a-zA-Z][^>]*>/g` — a tag needs a letter after the
+   angle bracket, the same rule markdown itself uses.
+
+Verified against all three figure pages that produced false alarms today (#37, #38,
+#40): each now compares equal on a sync echo, and a one-word change to any of them is
+still detected. Corpus regression unchanged (915/918, 0 mismatches).
+
+Lesson worth keeping: the first echo-guard was written from reasoning about what Ghost
+does to markup, and it was wrong twice in the same function. Both bugs only surfaced by
+diffing REAL Ghost html against the real page source. Normalization pairs must be tested
+against live data, never argued into correctness.
+
+Deploy blocked: the loop's 1Password quota (see entry (c)) is still exhausted and the
+Cloudflare token lives there, so the fix is committed but not live; a deploy is armed to
+fire on quota reset. Until it lands, figure-page syncs may file more false Issues —
+harmless, closable unread.
+
+Rest of the pass: queue 0 pending (157 consumed), no new suggestion PRs or Issues, no
+open ghost-edit PRs. PR #41 (the demo submission) still sits at awaiting-floyd — correct,
+the merge gate needs Floyd's label and nothing else was due.
+
 ## 2026-08-15 (e) — Turnstile rejected the FIRST real public submission
 
 Floyd tried the public editor for real and got "could not verify you are human" with the
