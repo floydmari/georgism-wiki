@@ -3240,3 +3240,49 @@ one-click approve/reject links (message 19ff3af4f69ff35a), and the submitter rec
 written to KV sub:41 so the published-notification path has contact details. Note for
 future sessions: the wrangler flag is --ttl, not --expiration-ttl; the wrong flag prints
 usage and writes nothing.
+
+## 2026-08-15 (f) — the census emails, and the live-site rendering bug behind them
+
+Floyd asked why GitHub kept emailing him "wiki-inventory census workflow run". Two
+findings, one trivial and one that had been wrong on the live site for months.
+
+**The emails.** ghost-edit/* PRs (opened by the Worker when Floyd edits in Ghost) fail
+the census check by construction: the Worker commits page text only, cannot run Python,
+and so can never carry a regenerated census. The PR auto-merges anyway and the
+push-to-main job refreshes the census seconds later — so the check was guaranteed to
+fail and had nothing to act on. The workflow now skips that step for ghost-edit/*
+branches only; community and human PRs keep the guard (it earned its keep on PR #41).
+
+**What the emails led to.** Floyd's Ghost edits round-tripped a chapter list on
+books/barker-henry-george-biography as run-on prose. That was NOT the write-back
+mangling it: python-markdown, the renderer sync_to_ghost.py uses, only starts a list
+when a BLANK LINE precedes it. A list written directly under its lead-in paragraph
+renders as one paragraph with literal "- " in the text. Verified on the live site
+before touching anything:
+
+    <p>The book is organized in 20 chapters across two parts (…): - <strong>Part One…
+
+So the page had been wrong on progress.org since publication; the write-back only made
+it visible by feeding the rendered page back into git. scripts/fix_list_spacing.py adds
+the missing blank lines and refuses any page where the rendered text would change or no
+list structure is gained. 16 pages fixed, 46 blank lines, zero deletions. A first
+attempt flagged 303 pages — that was a bad regex, and full-page rendering showed those
+lists were already fine; the verifier caught it. A second attempt wrote via
+frontmatter.dumps(), which reordered YAML keys and re-wrapped excerpts across 17 files
+(348 lines of churn) — caught in review, reverted, and the writer now rewrites only the
+body text between the frontmatter delimiters.
+
+**The ping-pong.** barker was reverted by wave 15 and immediately re-damaged by
+ghost-edit #45, because the echo-guard compared list markers only at line start: a list
+Ghost had flattened kept its "- " as literal text on one side, so a pure echo looked
+like an edit. normText/normLoose now strip hyphen-style bullets wherever they appear.
+Restricting that to hyphens matters — an earlier version also stripped 1-3 digit
+ordinals anywhere and started eating years ("Working Paper, 1998."), which the corpus
+regression caught (915 → 899). Final state: flattened-vs-list and merged-vs-split
+blockquotes both compare equal, a one-word change is still detected, corpus back to
+915/918 with 0 mismatches. barker's body is restored AND now has the blank line, so
+Ghost renders a real list and the round trip is stable rather than merely quiet.
+
+Root-cause note worth keeping: three separate "write-back damage" reports this week all
+traced to the git→Ghost RENDER, not the write-back. The write-back is an honest mirror;
+what it reflected was a rendering bug nobody could see from the source side.

@@ -31,6 +31,7 @@ year: 2024
 "Assessing the Distributional Impacts of a Land Value Tax Coupled with Income Tax Reform" is a 2024 policy research note by **Liam Wilkinson**, published by [Common Wealth Canada](/wiki/common-wealth-canada/), a Canadian think tank that advocates for taxing land and resource rents (see its flagship report, [*Economic Rents in Canada*](https://commonwealth.ca/report), 2023). The note models a **hypothetical national land value tax (LVT)** paired with a specific income-tax reform package, and asks who ends up better or worse off.
 
 The note models the LVT against **two alternative** revenue-neutral income-tax reforms (not both at once):
+
 - an enlarged **0% federal income-tax bracket** (raising the basic personal amount to **$88,100**), or
 - a **flat, per-household refundable tax credit of $12,700**, structured similarly to the Canada Carbon Rebate but paid at a fixed rate per household rather than scaled to income.
 

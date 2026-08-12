@@ -38,6 +38,7 @@ Barnes's earlier "sky trust" proposal — a trust to manage the atmosphere on be
 ### The Commons Trust Model
 
 Barnes proposes commons trusts as "market-based legal entities with the power to limit use of scarce commons, charge rent, and pay dividends — in both cash and services — to everyone" (Barnes 2006, p. 2). Key features include (Barnes 2006, Ch. 5–6):
+
 1. Property rights assigned to trusts on behalf of future generations
 2. Trusts charge for use of scarce common assets (atmosphere, spectrum, water)
 3. Revenue distributed as per-capita dividends to all citizens
@@ -51,6 +52,7 @@ Barnes cites E.F. Schumacher's *Small Is Beautiful* (1973) as a formative influe
 ## Policy Recommendations
 
 Barnes proposes a suite of commons-based institutional reforms (Barnes 2006, Ch. 5–9):
+
 1. Establish commons trusts for the atmosphere, water, forests, and other shared assets
 2. Assign property rights in common assets to trusts on behalf of future generations
 3. Charge rent for use of scarce commons and distribute as universal dividends

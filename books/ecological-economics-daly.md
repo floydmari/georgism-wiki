@@ -22,6 +22,7 @@ Daly's thesis is that ecological economics "sees the economy as a subsystem of a
 ### Structure
 
 The book is organized in seven parts (Daly 1999, pp. 7–11):
+
 - **Part I**: On the Roots of Error in Growth Economics (Ch. 1–6)
 - **Part II**: On Some Specific Errors in Growth Economics (Ch. 5–7)
 - **Part III**: On Economists' Misunderstanding of Thermodynamics (Ch. 9–12)
@@ -67,6 +68,7 @@ Ch. 15, "Free trade, sustainable development and growth: some serious contradict
 ## Policy Recommendations
 
 Daly advocates (throughout, especially Ch. 6 and Ch. 17):
+
 1. Steady-state economy: maintaining throughput within ecosystem absorptive and regenerative capacity
 2. Capital controls and limits on international trade to keep production aligned with consumption
 3. Shift from growth to development (qualitative improvement without quantitative throughput growth)

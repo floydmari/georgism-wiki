@@ -67,6 +67,7 @@ The book provides an extended treatment of Henry George as a key intellectual pr
 - The board game Monopoly was originally *The Landlord's Game* (1904), designed by [Elizabeth Magie](/wiki/elizabeth-magie/) to educate the public about George's ideas (p. 43)
 
 **Georgism's identified defects:**
+
 1. **Investment inefficiency:** Taxing away all land value removes incentives to invest in or care for the land (p. 44)
 2. **Administrative difficulty:** Distinguishing land value from structure value is "fiendishly difficult" — e.g., the Empire State Building defines its neighborhood, so the pure land value is inseparable from the building (pp. 44–45)
 3. **Natural resource waste:** If all land value is taxed away, possessors of depletable resources (oil, minerals) extract them as quickly as possible (p. 44)
@@ -85,11 +86,13 @@ William Vickrey (1914–1996, Nobel Laureate 1996) is the book's intellectual he
 The authors' central proposal synthesizes George, Vickrey, Harberger, and Cramton et al.:
 
 **Historical precedents:**
+
 - Athenian *antidosis* (exchange): self-assessment with forced sale as enforcement (p. 55)
 - Sun Yat-sen's self-assessment land tax in Taiwan (pp. 56–57)
 - Arnold Harberger's 1962 proposal: self-declare property value, pay tax on it, must sell to anyone willing to pay the declared value (pp. 57–58)
 
 **The COST mechanism:**
+
 - Possessors self-assess the value of each asset
 - They pay an annual tax (the COST) on that self-assessed value
 - Anyone can buy the asset at the self-assessed price
@@ -99,6 +102,7 @@ The authors' central proposal synthesizes George, Vickrey, Harberger, and Cramto
 - **Recommended rate:** ~7% annually for typical assets (based on ~14-year average turnover) (p. 66)
 
 **Balancing allocative and investment efficiency:**
+
 - The social loss from monopoly power grows *quadratically* with the extent of that power
 - Reducing the markup by one-third eliminates ~5/9 of the allocative harm
 - A 10% tax achieves 5/9 of the allocative benefit at only 1/9 of the investment cost (pp. 60–61)
@@ -167,12 +171,14 @@ Sun Yat-sen is noted as a Georgist who made George's philosophy "the economic pi
 ## Relationship to Georgism
 
 **What the book takes from George:**
+
 - Land value taxation as the starting point for common ownership
 - The monopoly problem as inherent in private property
 - The social dividend concept (revenue returned to citizens equally)
 - George's intellectual lineage from Smith through the marginal revolution
 
 **Where the book departs from George:**
+
 - Extends the tax to *all* property, not just land — George distinguished land (natural, taxable) from "artificial capital" (human-made, exempt)
 - Sets the tax rate *below* 100% of rent — George advocated taxing away all land rent; the COST rate (~7%) is far lower
 - Adds self-assessment — George relied on government appraisers; the COST uses individual self-declaration with forced sale as enforcement
@@ -181,6 +187,7 @@ Sun Yat-sen is noted as a Georgist who made George's philosophy "the economic pi
 
 **Critique of George:**
 The authors identify three defects in George's original proposal (pp. 44–45):
+
 1. Investment inefficiency — no incentive to maintain land if all rent is taxed away
 2. Administrative difficulty — separating land value from structure value is "fiendishly difficult"
 3. Resource depletion — possessors of oil/mineral lands extract resources as fast as possible

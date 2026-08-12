@@ -42,6 +42,7 @@ Daniel connects the historical discrimination to the 1999 Pigford v. Glickman cl
 ### USDA Agencies Examined
 
 Daniel focuses on three agencies (Daniel 2013, p. 22):
+
 - **ASCS** (Agricultural Stabilization and Conservation Service): controlled acreage allotments and subsidy distribution through county committees dominated by white landowners
 - **FES** (Federal Extension Service): provided agricultural education and information, with segregated "Negro Extension Service" for Black farmers
 - **FmHA** (Farmers Home Administration): disbursed loans, with systematic discrimination in lending

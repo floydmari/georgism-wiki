@@ -660,10 +660,11 @@ function normText(s) {
     .replace(/https?:\/\/(www\.)?progress\.org\//g, "/")   // absolute↔relative internal links compare equal
     .replace(/```([\s\S]*?)```/g, " $1 ")
     .replace(/\[([^\]]*)\]\(([^)]+)\)/g, " $1 $2 ")
-    .replace(/^\s*(?:[-+*]|\d+\.)\s+/gm, " ")
+    .replace(/^\s*(?:[-+*]|\d+\.)\s+/gm, " ")        // list markers at line start
     .replace(/^\s*\|?[\s|:-]+\|[\s|:-]*$/gm, " ")   // table separator rows
     .replace(/\\/g, "")          // markdown escapes (\. \-) vanish, not space out
     .replace(/[#>*_`|]+/g, " ")
+    .replace(BULLETS, " ")        // list markers ANYWHERE, not just line-start
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -675,6 +676,10 @@ function normText(s) {
    the rest of the sentence up to the next ">" — that silently deleted text from
    the git side of the comparison and made a sync echo look like an edit. */
 const TAG_RE = /<\/?[a-zA-Z][^>]*>/g;
+/* A bullet is a marker surrounded by whitespace, wherever it sits. Anchoring this
+   to line starts made "a: - one - two" (a list Ghost flattened into a paragraph)
+   compare unequal to the same list in git. Hyphens inside words are untouched. */
+const BULLETS = /(^|\s)[-+*](?=\s)/g;
 
 function normLoose(s, isHtml) {
   let t = clean(s).replace(/<!--[\s\S]*?-->/g, " ");
@@ -693,7 +698,8 @@ function normLoose(s, isHtml) {
   // (as this did until 2026-08-15) makes any LITERAL such character diverge: a DOI
   // like REST_a_00550 became "REST a 00550" in git and stayed "REST_a_00550" in
   // Ghost, so a plain sync echo of that page looked like an edit (Issue #40).
-  return t.replace(/\\/g, "").replace(/[#>*_`|]+/g, " ").replace(/\s+/g, " ").trim();
+  return t.replace(/\\/g, "").replace(/[#>*_`|]+/g, " ")
+          .replace(BULLETS, " ").replace(/\s+/g, " ").trim();
 }
 
 /* ── HTML → markdown, closed vocabulary ──────────────────────────────────── */
