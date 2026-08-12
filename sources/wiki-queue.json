@@ -1,6 +1,25 @@
 {
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic-de5",
+      "source": "internet-scan",
+      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+      "context": "Land value taxes are winning: LVT Landscape Live",
+      "author": "research-scanner",
+      "queued_at": "2026-08-12T10:02:10.460543+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://progressandpoverty.substack.com/p/yes-a-land-value-tax-is-possible",
+      "source": "internet-scan",
+      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+      "context": "Yes, a Land Value Tax Is Possible in Washington State",
+      "author": "research-scanner",
+      "queued_at": "2026-08-12T10:02:10.462765+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -1881,6 +1900,6 @@
       "disposition_reason": "MoneyWeek explainer: near-total overlap with concepts/land-value-tax, research/tpa-what-would-lvt-do, people/milton-friedman, people/david-lloyd-george. T1 OVERRIDE of the T0 brief's enrich:people/andy-burnham \u2014 its sole delta ('aspirational socialism' framing of Burnham's 2010 LVT position) could not be traced to any primary 2010 source, so citing a 2026 consumer-finance explainer for a 16-year-old quote would compound the page's existing unverified-quote problem rather than fix it. Routed instead as a fact-check: the underlying Guardian 2010 primary is now a RETRYABLE row on the Hermes work order. (2026-08-05 wave 10; T0 briefs: sources/context-briefs/2026-08-05.json)"
     }
   ],
-  "total": 0,
-  "last_updated": "2026-08-11T10:02:38Z"
+  "total": 2,
+  "last_updated": "2026-08-12T10:02:26Z"
 }
