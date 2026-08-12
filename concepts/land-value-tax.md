@@ -11,7 +11,7 @@ pd_quotes: true
 
 ## Overview
 
-A **land value tax** (LVT) — also called a site value tax or ground rent — is a levy applied to the assessed unimproved value of land, explicitly excluding the value of any buildings, crops, or other improvements made by the owner. It is among the oldest proposals in political economy and is considered by a broad range of economists across the ideological spectrum to be the least economically distortionary form of taxation.
+A **land value tax** (LVT) — also called a site value tax or [ground rent](/wiki/ground-rent/) — is a levy applied to the assessed unimproved value of land, explicitly excluding the value of any buildings, crops, or other improvements made by the owner. It is among the oldest proposals in political economy and is considered by a broad range of economists across the ideological spectrum to be the least economically distortionary form of taxation.
 
 ## How It Differs from a Property Tax
 
