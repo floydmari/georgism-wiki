@@ -39,7 +39,7 @@ Murray documents how the Budget was "enormously popular" among a large segment o
 
 ### The Constitutional Crisis (Ch. VIII–X, pp. 236–290)
 
-The Budget's rejection by the Unionist-dominated House of Lords triggered a constitutional crisis. Two general elections followed (January and December 1910). The Budget was eventually passed in April 1910 after the Lords' veto was overridden following the January 1910 election.
+The Budget's rejection by the Unionist-dominated House of Lords triggered a constitutional crisis. Two general elections followed (January and December 1910). The Budget was eventually passed in April 1910 after the Lords' veto was overridden following the January 1910 election; the veto itself was curtailed the following year by the [Parliament Act 1911](/wiki/parliament-act-1911/).
 
 ### The Land-Value Duties
 

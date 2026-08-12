@@ -220,7 +220,11 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-11: 15 of 29 marker(s) not yet routed by hand (23 page(s) already curated above).*
+*Regenerated 2026-08-11: 19 of 33 marker(s) not yet routed by hand (23 page(s) already curated above).*
+
+### needs-book-copy (see sources/wanted-books.md) (1)
+
+- `people/henry-george-jr.md` — **CITATION NEEDED** a modern scholarly assessment of the book's reception or influence — none was located this session; it does not appear to be discussed in the corpus works already mined for this page (Barker 1955, England 2023, Bryson 20
 
 ### needs-unblocked-web (proxy allowlist or manual fetch) (14)
 
@@ -242,4 +246,10 @@ has routed yet; route one by moving it into a curated bucket above.*
 ### needs-new-source (research/forage task) (1)
 
 - `research/nef-modern-system-fair-rents.md` — **VERIFY** the wiki has not independently reviewed the broader empirical rent-control literature (including the specific Autor–Palmer–Pathak Cambridge, MA and Diamond–McQuade–Qian San Francisco quasi-experimental studies commonly c
+
+### unclassified (T1 triage) (3)
+
+- `people/henry-george-jr.md` — **VERIFY** the marriage date and Hitch's biographical details are corroborated only by the English Wikipedia article in this session, not independently cross-checked against a primary genealogical or newspaper record.
+- `people/henry-george-jr.md` — **VERIFY** which specific New York district(s) he represented in each Congress is unresolved between sources found this session — the English Wikipedia article gives the 17th district for the 62nd Congress (1911–1913) and the 21st
+- `events/parliament-act-1911.md` — **VERIFY** whether the Parliament Act's suspensory mechanism was specifically invoked to pass the Government of Ireland Act 1914 over a third Lords rejection, and the precise fate of that Act's implementation, needs a primary or Ha
 <!-- AUTOGEN:END -->

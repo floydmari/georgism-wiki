@@ -27,7 +27,7 @@ set-piece debates, most famously the **1903 Cooper Union debate against
 [John Bates Clark](/wiki/john-bates-clark/)** on the single tax, and he worked the
 [Joseph Fels](/wiki/joseph-fels/) Lecture Bureau circuit that carried the argument across
 the country.[1] Through *The Public* Post kept George's programme in front of a
-progressive-era audience long after George's death in 1897.
+progressive-era audience long after George's [death in 1897](/wiki/1897-nyc-mayoral-campaign/).
 
 ## The Palmer-Raid Stand
 

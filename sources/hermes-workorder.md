@@ -30,7 +30,11 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-11: 14 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
+*Regenerated 2026-08-11: 15 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
+
+### needs-book-copy (see sources/wanted-books.md) (1 of 1)
+
+- `people/henry-george-jr.md` — **CITATION NEEDED** a modern scholarly assessment of the book's reception or influence — none was located this session; it does not appear to be discussed in the corpus works already mined for this page (Barker 1955, England 2023, Bryson 20
 
 ### needs-unblocked-web (proxy allowlist or manual fetch) (14 of 14)
 
