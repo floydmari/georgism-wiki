@@ -45,6 +45,7 @@ Tolstoy argued that the state's abolition of slavery was done "under pressure, a
 Redfearn traces Tolstoy's encounter with Henry George's ideas, beginning with George's early observations in San Francisco. George noticed that "while in old countries wages are low, in new countries they are always high" — a paradox that led him to his central insight about land (Redfearn 1992, p.94). George's moment of illumination came when he asked a teamster about land prices near Oakland: "Like a flash it came upon me that there was the reason of advancing poverty with advancing wealth. With the growth of population, land grows in value, and the men who work it must pay more for the privilege" (Redfearn 1992, p.96).
 
 Redfearn presents George's definitions as refined in his final works:
+
 - **Land**: "All the material universe outside of man and his products" (Redfearn 1992, p.97)
 - **Labour**: "All human exertion, mental or physical, directed towards the production of wealth" (Redfearn 1992, p.97)
 - **Wealth**: material things produced by human labor using land (Redfearn 1992, p.97)

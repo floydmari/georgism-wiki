@@ -133,6 +133,7 @@ The authors present LVT as the most economically efficient form of taxation, cit
 > "The economic case for taxing land itself is very strong... Its supply is fixed and cannot be affected by the introduction of a tax... the incentive to buy, develop, or use land would not change. Economic activity that was previously worthwhile remains worthwhile." (Mirrlees and Adam, 2011, p. 371, quoted Ch. 7)
 
 Key advantages cited:
+
 - LVT diminishes speculative incentives by imposing a holding cost on land
 - Encourages efficient land use; discourages developers from hoarding undeveloped land
 - Land cannot be hidden or moved to a tax haven — difficult to evade

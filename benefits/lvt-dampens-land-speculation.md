@@ -32,16 +32,19 @@ A shorter, later [Gaffney essay (2013)](/wiki/gaffney-great-expectations-bidding
 The supporting studies divide into three tiers, and it matters which claim each one actually supports:
 
 **1. The speculative phenomenon is real, large, and recurring** (premise-level evidence — these studies never test a land tax):
+
 - [Hoyt (1933)](/wiki/hoyt-chicago-land-values/) documents a century of recurring boom-bust rhythm in Chicago land values — the founding empirical study of the land cycle.
 - [Glaeser (2013)](/wiki/glaeser-real-estate-bubbles/) traces speculative real-estate episodes across US history from a mainstream, non-Georgist standpoint.
 - [Case & Shiller (2003)](/wiki/case-shiller-2003-bubble/) measure the speculative-expectations mechanism directly in homebuyer surveys (double-digit annual price expectations at the bubble's peak).
 - [Kuminoff & Pope (2013)](/wiki/kuminoff-pope-land-boom-bust/) decompose over a million sales across ten metros hedonically and find low-value fringe land — not structures — was the most volatile component of home prices through the 2000s boom and bust: price volatility is predominantly a land phenomenon.
 
 **2. The carrying-cost mechanism** (theory and micro-evidence that holding costs change speculative behaviour):
+
 - [Cunningham (2006)](/wiki/cunningham-seattle-options/) shows vacant Seattle land is priced and held as a real option on future appreciation — exactly the option value an annual land tax erodes.
 - [Foldvary (1997)](/wiki/foldvary-business-cycle-synthesis/) argues the geo-Austrian case that public collection of rent removes the speculative profit motive, and used the model to forecast the 2008 downturn a decade in advance.
 
 **3. Policy evidence from actual LVT regimes** (the scarcest tier):
+
 - [Tomson (2016)](/wiki/tomson-estonia-lvt/) finds denser, more active development in pure-LVT Tallinn than in comparable Riga — consistent with less idle, speculatively-held land.
 - Studies of Estonia's 2008 experience have examined (with mixed conclusions) whether its land tax moderated the housing crash.
 - A 19th-century historical case: [California's irrigation districts under the Wright Act (1887)](/wiki/california-irrigation-districts/) financed dams and canals through an assessment on **land value alone**, with improvements exempt — so an owner holding land idle paid the same as one farming it intensively. Contemporary observers credited the design with breaking up large speculative ranch holdings into smaller, intensively farmed tracts (the Modesto district's formation was opposed almost entirely by owners of 70,000 of its 108,000 acres), and the US Supreme Court upheld the land-value assessment in *Fallbrook Irrigation District v. Bradley* (1896). The effect on farm concentration was real but partial — roughly 62% of California's agricultural land remained in 1,000-acre-plus ownerships circa 1900 — and the fuller narrative rests substantially on Georgist-movement sources; the case page carries the caveats.

@@ -74,6 +74,7 @@ Converting selling values to annual rents at 5–8% cap rates:
 | Smith ($44T) | $2.2–$3.5T/year |
 
 **Key comparisons (2019 federal budget = $4.4T):**
+
 - Defense ($676B): covered by even the lowest estimate
 - Social Security ($1T): covered by even the lowest estimate
 - Federal tax receipts: land rents cover 30–103%
@@ -95,6 +96,7 @@ Converting selling values to annual rents at 5–8% cap rates:
 ### Citizen's Dividend Calculation (Ch. 17)
 
 Using the most pessimistic land rent ($1.2T/year) split among ~209M US adults:
+
 - Anyone with property worth less than ~$230,000 → net positive under LVT + dividend
 - Two-adult household → break-even at ~$500,000 property value
 - "This is not a recipe for bankrupting the middle class." (Ch. 17)
@@ -130,6 +132,7 @@ Doucet surveys 13+ additional studies, with 12 supporting full capitalization an
 ## Land Assessment (Part IV, Chs. 22–25)
 
 Three standard approaches:
+
 1. **Market approach:** comparable sales (most common)
 2. **Cost approach:** replacement cost minus depreciation (tends to overvalue structures)
 3. **Income approach:** net operating income ÷ cap rate
