@@ -3380,3 +3380,72 @@ Verified by rendering the deployed page against a stubbed API in headless Chromi
 with curl and loaded from file://): desktop and mobile screenshots reviewed, and six
 interactions exercised — section switch, filter, live diff, comment-mode toggle, return to
 edit mode, and the factual-claim checkbox revealing the source field.
+
+---
+
+## 2026-08-12 (f) — daily verification wave: the Barker quotes are real, the structure wasn't
+
+Commit `4322c6c`. Markers **31 → 29**; lint 0 errors, warnings 31 → 27. The queue loop
+added **no new pages** in the preceding 26 hours (its commits were enrichment and
+infrastructure), so there was no new-page audit to run; the wave went after the marker
+backlog and the integrity of what the Ghost write-back round-trip had touched.
+
+**Two markers resolved, both `needs-new-source`** — the only bucket in the auto-queue
+that this environment can actually work (14 of the 17 unrouted rows are
+`needs-unblocked-web`, and the wave skipped them per standing routing).
+
+- `research/nef-modern-system-fair-rents` — the page had been reporting NEF's own
+  treatment of the rent-control debate without ever reading the skeptical literature.
+  Both canonical quasi-experimental studies were read in full from free PDFs
+  (Autor–Palmer–Pathak on Cambridge decontrol, NBER w18125; Diamond–McQuade–Qian on
+  San Francisco, Stanford draft) and the page now adjudicates: Cambridge gives NEF's
+  "design flaw" reply nothing to work with, while San Francisco's landlord-exit channel
+  genuinely does run through a specific exemption for new construction and conversions.
+  The rent-gradient rule was live here — this is a price-control question, and none of
+  the land-tax certainty was allowed to leak into it.
+- `people/henry-george-jr` — the December 2, 1897 marriage rested on English Wikipedia
+  alone. Three contemporary wire-service reports resolve it **and correct it**: the
+  ceremony was in **Chicago**, at the home of the bride's father Capt. Ebenezer V. Hitch;
+  Orleans Parish was the family's earlier residence, not the wedding site.
+
+**Quote audit of `books/barker-henry-george-biography`** — the page the Ghost write-back
+mangled twice, carrying six blockquotes added in the same wave that produced three
+fabricated quotes on a sibling page. **All six are verbatim.** RSF's complete reprint of
+Barker 1955 turns out to be freely readable, which settled every quote and every trailing
+paraphrase. The page's real defects were elsewhere:
+
+- the part boundary was wrong (Part One is **Ch. I–X**, not I–IX; Ch. X, "Before the
+  World: *Progress and Poverty*," closes it), and Part Two's title, "A Christian Effort,"
+  was missing entirely — an even 10/10 split, read off the book's own Contents;
+- the Wicksteed quotation put "fallen" **inside** the quotation marks where Barker's
+  Preface has it outside;
+- the arabic page citations (pp. 11–16, 19–21, 25–26) point at Preface and Contents
+  material that sits in the 1955 OUP edition's roman-numbered front matter. They cannot
+  be right and could not be repaired — the RSF reprint is an unpaginated reflow and the
+  archive.org copy is lending-restricted with no search-inside index — so they were
+  replaced with Preface/Contents/chapter references rather than reproduced. Recorded in
+  the backlog as re-openable only if a page-stamped copy turns up.
+
+**A third finding, from the cheapest task on the list.** The banned-certainty sweep on
+`research/cohen-coughlin-two-rate-taxation` was supposed to be a wording fix. Oates &
+Schwab's actual paper says: "Of all the cities in our sample, only Pittsburgh in Model 1
+exhibits a positive and statistically significant coefficient... In Model 2, both
+Pittsburgh and Buffalo have significant dummy variables." The wiki's flat "Pittsburgh the
+only one of the 15" was a real overclaim, and it appeared **twice** — the second instance
+carried no banned word and lint had never flagged it. Lesson for future waves: the
+banned-certainty list finds the sentence, not the error; check the source when clearing
+one, and grep the page for the same claim stated in unflagged words.
+
+**Method note.** Four background agents with disjoint file ownership; every quote and
+figure they produced was re-checked by the orchestrator against the source text before
+commit. That caught one imprecision (the Cambridge 12% is measured at the sample's mean
+rent-control exposure, not unconditionally) and one thing worth recording as a *good*
+outcome: an agent discarded a "5.1% citywide rent increase" figure a fetch summary had
+handed it, because the number was nowhere in the paper.
+
+**Carried forward.** LOC returned 403 to every orchestrator re-fetch after the marriage
+sources were first pulled, so those three OCR transcriptions were not independently
+re-read before commit; `people/henry-george-jr` source 7 says so on the page, and the
+Chicago substance is separately corroborated by genealogical records. Ghost sync of all
+five changed pages succeeded, but `GHOST_WEBHOOK_KEY` was unset — echoes are not being
+marked, and the worker is falling back to content comparison alone.
