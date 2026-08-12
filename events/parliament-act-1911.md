@@ -130,11 +130,14 @@ long outlasted, the specific tax measures that triggered it.
   fight: McLean records that a Home Rule bill "would have been (and later was,
   in 1912, 1913, and 1914) thrown out by a huge Lords majority," and that when
   war broke out "Home Rule was put into cold storage" — a wider constitutional
-  story this page does not cover in depth.[7] [VERIFY: whether the Parliament Act's
-  suspensory mechanism was specifically invoked to pass the Government of
-  Ireland Act 1914 over a third Lords rejection, and the precise fate of that
-  Act's implementation, needs a primary or Hansard-level source before being
-  asserted on this wiki.]
+  story this page does not cover in depth.[7] The UK Parliament's own account
+  confirms the sequel: the Home Rule Bill introduced in 1912 "was finally
+  passed under the Parliament Act 1911 and given Royal Assent on 18 September
+  1914" as the Government of Ireland Act 1914 (c. 90) — but "on the same day a
+  Suspensory Act was also passed," initially postponing it for 12 months
+  because of the war, and after the Easter Rising and further postponements it
+  "never came into effect"; a repealing Government of Ireland Act followed in
+  1920, and in 1922 Ireland was instead partitioned.[8]
 
 ## See Also
 
@@ -209,3 +212,4 @@ long outlasted, the specific tax measures that triggered it.
    Act was later applied to Irish Home Rule legislation are left as an
    open verification item in the body text above rather than asserted from
    this source alone.
+8. UK Parliament, "Government of Ireland Act 1914," *Living Heritage: Parliament and Ireland* (Parliamentary Archives catalogue HL/PO/PU/1/1914/4&5G5c90). [parliament.uk](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/home-rule-1914/gov-of-ireland-act-1914/) — used for the Act's passage under the Parliament Act 1911, the 18 September 1914 royal assent, the same-day Suspensory Act, and its never coming into effect (A-claims; institutional account read directly 2026-08-11).

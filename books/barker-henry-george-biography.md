@@ -10,6 +10,7 @@ excerpt: "Charles Albro Barker's definitive 1955 biography traces Henry George's
 last_reviewed: 2026-07-07
 supports_outcomes: []
 ---
+
 ## Summary
 
 *Henry George* is a scholarly biography by **Charles Albro Barker** (1904–), originally published by Oxford University Press in 1955 and reprinted by Greenwood Press in 1974 (ISBN 0-8371-7775-8). Barker was a professor at Johns Hopkins University. The biography draws on the Henry George Collection at the New York Public Library, the Huntington Library, the Bancroft Library, and the Library of Congress (Barker 1955, pp. 15–16). Barker acknowledges that he began the project "without the slightest hostage in the Henry George camp," having been raised Republican, voted for Norman Thomas, and supported the New Deal (Barker 1955, p. 11).
@@ -20,7 +21,9 @@ Barker's thesis is that George's intellectual development followed Jeffersonian 
 
 ### Structure
 
-The book is organized in 20 chapters across two parts (Barker 1955, pp. 19–21): - **Part One: A California Protest (1839–1879)**: Ch. I–IX, covering George's birth in Philadelphia (1839), immigration to California (1855), journalism career, and the writing of *Progress and Poverty* (1879) - **Part Two**: Ch. X–XX, covering George's career from 1880 through his death in 1897, including his influence in England, the 1886 New York mayoral campaign, the single-tax movement, and his "triple legacy of Georgism"
+The book is organized in 20 chapters across two parts (Barker 1955, pp. 19–21):
+- **Part One: A California Protest (1839–1879)**: Ch. I–IX, covering George's birth in Philadelphia (1839), immigration to California (1855), journalism career, and the writing of *Progress and Poverty* (1879)
+- **Part Two**: Ch. X–XX, covering George's career from 1880 through his death in 1897, including his influence in England, the 1886 New York mayoral campaign, the single-tax movement, and his "triple legacy of Georgism"
 
 (A-claim; factual)
 
@@ -70,20 +73,21 @@ Published in 1955, the biography predates much subsequent Georgist scholarship, 
 
 Barker devotes disproportionate attention to the California period, which he acknowledges. While this reflects his thesis about the regional origins of George's thought, readers seeking the post-1879 political career in detail may find Part Two compressed.
 
+
 ## Key Quotes
 
-> "Three generations ago Henry George electrified great numbers of our ancestors on both sides of the Atlantic and in Australia and New Zealand. In the history of the English-speaking world there is no other figure who quite compares with him. […]" — Charles Albro Barker, Henry George, Preface. Driven by an inner force combining love of God, love of man, and desire for fame, Barker continues, George found the language to say what many were ready — and some longing — to hear.  
->   
-> "No other book of the industrial age, dedicated to social reconstruction and conceived within the Western traditions of Christianity and democracy, commanded so much attention as did Progress and Poverty. […]" — Charles Albro Barker, Henry George, Preface. Only *Das Kapital*, conceived outside that tradition, is fairly comparable in reconstructive purpose, Barker adds — and it was much slower to catch on.  
->   
-> "From the very first until the very last, from the political ideas acquired in his parents' home to the campaign that made him a martyr, seventeen years after he had left California, the axioms of his thought were always the same. […]" — Charles Albro Barker, Henry George, Preface. Those axioms, Barker writes, were the Jeffersonian and Jacksonian principles of destroying private economic monopolies and advancing freedom and equal opportunity for everyone.  
->   
-> "His liberal first principles inform every one of the major items of the economic program he conceived on the West coast: absolute free trade, the abolition of private-property values in land, the repeal of discriminatory taxes, and the public ownership of telegraph lines and other public utilities." — Charles Albro Barker, Henry George, Preface  
->   
-> "When Georgism seized minds of legalistic bent, like Thomas Shearman's, it impelled the single-tax movement, which began during 1887 and 1888 in New York. […]" — Charles Albro Barker, Henry George, Preface. When it seized practical and political minds like Tom Loftin Johnson's, Barker continues, Georgism entered near its source the stream that broadened into the twentieth-century progressive movement.  
->   
-> "Above all the place of his origin gave George as birthright the right to speak for the people of the world's great cities. Philosopher of the land though he became, he was always a city man." — Charles Albro Barker, Henry George, Chapter 1  
->   
+> "Three generations ago Henry George electrified great numbers of our ancestors on both sides of the Atlantic and in Australia and New Zealand. In the history of the English-speaking world there is no other figure who quite compares with him. […]" — Charles Albro Barker, Henry George, Preface. Driven by an inner force combining love of God, love of man, and desire for fame, Barker continues, George found the language to say what many were ready — and some longing — to hear.
+
+> "No other book of the industrial age, dedicated to social reconstruction and conceived within the Western traditions of Christianity and democracy, commanded so much attention as did Progress and Poverty. […]" — Charles Albro Barker, Henry George, Preface. Only *Das Kapital*, conceived outside that tradition, is fairly comparable in reconstructive purpose, Barker adds — and it was much slower to catch on.
+
+> "From the very first until the very last, from the political ideas acquired in his parents' home to the campaign that made him a martyr, seventeen years after he had left California, the axioms of his thought were always the same. […]" — Charles Albro Barker, Henry George, Preface. Those axioms, Barker writes, were the Jeffersonian and Jacksonian principles of destroying private economic monopolies and advancing freedom and equal opportunity for everyone.
+
+> "His liberal first principles inform every one of the major items of the economic program he conceived on the West coast: absolute free trade, the abolition of private-property values in land, the repeal of discriminatory taxes, and the public ownership of telegraph lines and other public utilities." — Charles Albro Barker, Henry George, Preface
+
+> "When Georgism seized minds of legalistic bent, like Thomas Shearman's, it impelled the single-tax movement, which began during 1887 and 1888 in New York. […]" — Charles Albro Barker, Henry George, Preface. When it seized practical and political minds like Tom Loftin Johnson's, Barker continues, Georgism entered near its source the stream that broadened into the twentieth-century progressive movement.
+
+> "Above all the place of his origin gave George as birthright the right to speak for the people of the world's great cities. Philosopher of the land though he became, he was always a city man." — Charles Albro Barker, Henry George, Chapter 1
+
 > "George's ideas deepened the Fabian movement; they helped to give force to trade unions; and they inspired the Radicals who were rising in the Liberal party." — Charles Albro Barker, Henry George, Preface
 
 ## Bears On
@@ -101,6 +105,7 @@ Barker devotes disproportionate attention to the California period, which he ack
 ## See Also
 
 - [The Life of Henry George (George Jr., 1900)](/wiki/life-of-henry-george/) — the son's primary biography this academic life builds on and argues with
+
 - [Henry George](/wiki/henry-george/)
 - [Progress and Poverty](/wiki/progress-and-poverty/)
 - [Single Tax](/wiki/single-tax/)
