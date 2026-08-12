@@ -9,7 +9,7 @@ tier: core
 source_url: https://doi.org/10.1016/0047-2727(72)90020-5
 stub: false
 excerpt: "The founding paper of the 'new view' of property tax incidence: a general-equilibrium model in which the average burden of the property tax falls on capital owners nationally, local rate differentials act as excise taxes, and the land portion is borne entirely by landowners."
-last_reviewed: 2026-08-10
+last_reviewed: 2026-08-12
 supports_outcomes: [landlords-cannot-pass-lvt-to-tenants]
 bears_on_objections: [lvt-destroys-its-own-tax-base]
 ---
@@ -49,7 +49,7 @@ For the Georgist case specifically, all three views agree on one point that matt
 
 ## An Independent, Non-Overlapping Argument for a Related Conclusion
 
-The "new view" is not the only 1971–72 argument against the traditional
+The "new view" was not the sole 1971–72 argument against the traditional
 regressive-excise picture of the property tax; it is the mainstream
 general-equilibrium version of a conclusion **Mason Gaffney** reached the
 same year by an entirely different route. Gaffney's "The Property Tax Is A

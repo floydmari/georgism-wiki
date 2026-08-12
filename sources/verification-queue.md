@@ -13,7 +13,18 @@ and this repo's own meta-docs, none of which carry live in-page markers).
 This wave resolved **5**, then a same-day continuation pass worked the 6 RETRYABLE
 rows queued below and resolved **3** more (see `sources/verification-backlog.md`
 for both dated entries) — **22 live markers remain**, down from 30 at the start of
-this pass. Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2).
+this pass.
+
+**Update 2026-08-12 (daily loop wave).** Live count **31 → 29**. Two markers resolved
+against primary sources read this run, both from the `needs-new-source` bucket:
+`research/nef-modern-system-fair-rents.md` (the skeptical rent-control literature —
+Autor–Palmer–Pathak on Cambridge and Diamond–McQuade–Qian on San Francisco, both read
+in full from free NBER/Stanford PDFs) and `people/henry-george-jr.md` (the December 2,
+1897 marriage, resolved against three contemporary wire-service reports via LOC
+*Chronicling America*, which also **corrected** the wedding's location from Orleans
+Parish to Chicago). No marker was deleted without a cited resolution.
+
+Markers are the wiki's anti-fabrication firewall (EDITORIAL rule 2).
 **Never delete a marker without either resolving the claim (cite what was
 verified) or downgrading it (weaken the claim to what's verifiable, note the
 downgrade).**
@@ -220,11 +231,7 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-11: 17 of 31 marker(s) not yet routed by hand (23 page(s) already curated above).*
-
-### needs-book-copy (see sources/wanted-books.md) (1)
-
-- `people/henry-george-jr.md` — **CITATION NEEDED** a modern scholarly assessment of the book's reception or influence — none was located this session; it does not appear to be discussed in the corpus works already mined for this page (Barker 1955, England 2023, Bryson 20
+*Regenerated 2026-08-12: 14 of 29 marker(s) not yet routed by hand (25 page(s) already curated above).*
 
 ### needs-unblocked-web (proxy allowlist or manual fetch) (14)
 
@@ -242,9 +249,4 @@ has routed yet; route one by moving it into a curated bucket above.*
 - `research/xu-huang-li-china-hcrs-george.md` — **VERIFY** full text unread — Wiley's bot-detection has now blocked four independent retrieval methods across two review passes (2026-07-26, 2026-08-10); the depth of the analogy, and any qualifications the authors attach to it, ca
 - `research/yang-split-rate-spillover-employment.md` — **VERIFY** confirm whether the published 2024 version updates the 1980–2010 sample period or coefficient magnitudes reported in the 2015 working paper — needs-unblocked-web, a proxy or institutional-access channel this environment
 - `books/bird-the-land-trap.md` — **VERIFY** original study(ies) behind this range not independently identified this session — cited via Doucet's review, not read in Bird's primary text
-
-### needs-new-source (research/forage task) (2)
-
-- `people/henry-george-jr.md` — **VERIFY** a primary citation for the marriage date and Hitch's biographical details is still wanted — currently corroborated only by the English Wikipedia article; a period newspaper (December 1897 New Orleans or New York press) o
-- `research/nef-modern-system-fair-rents.md` — **VERIFY** the wiki has not independently reviewed the broader empirical rent-control literature (including the specific Autor–Palmer–Pathak Cambridge, MA and Diamond–McQuade–Qian San Francisco quasi-experimental studies commonly c
 <!-- AUTOGEN:END -->

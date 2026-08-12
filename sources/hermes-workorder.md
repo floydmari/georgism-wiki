@@ -30,7 +30,7 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-11: 15 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
+*Regenerated 2026-08-12: 15 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
 
 ### needs-book-copy (see sources/wanted-books.md) (1 of 1)
 

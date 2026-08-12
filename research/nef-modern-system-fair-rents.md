@@ -22,7 +22,7 @@ tags:
 - new-economics-foundation
 stub: false
 excerpt: "A May 2026 NEF working paper traces four decades of UK private-rental deregulation (Housing Act 1988, buy-to-let mortgages from 1996) letting landlords extract 'scarcity rents,' and proposes a national rent-control system alongside tenure and tax reforms."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-08-12
 ---
 
 ## Summary
@@ -45,7 +45,7 @@ This report corroborates, with fresh UK data, the account already carried on thi
 
 ## Limits and Honest Assessment
 
-**This is an advocacy working paper from a self-described progressive think tank, not a peer-reviewed academic study** — NEF is transparent about its policy position throughout (the paper opens by proposing a named policy programme, not a neutral literature review), and its case-study selection favors jurisdictions (Ireland, Spain, Vienna) where rent controls are argued to have worked, while treating the standard economist critique of rent control — that price ceilings on rent tend to reduce the quantity and/or quality of rental housing supplied over time — mainly through the two examples (San Francisco, Sweden) its critics cite, arguing these reflect design flaws (uneven application, insufficient accompanying housebuilding) rather than a general problem with price controls. [VERIFY: the wiki has not independently reviewed the broader empirical rent-control literature (including the specific Autor–Palmer–Pathak Cambridge, MA and Diamond–McQuade–Qian San Francisco quasi-experimental studies commonly cited on the skeptical side) to assess how strongly it cuts against this paper's framing; this page reports NEF's own treatment of the debate, not an independent adjudication of it.]
+**This is an advocacy working paper from a self-described progressive think tank, not a peer-reviewed academic study** — NEF is transparent about its policy position throughout (the paper opens by proposing a named policy programme, not a neutral literature review), and its case-study selection favors jurisdictions (Ireland, Spain, Vienna) where rent controls are argued to have worked, while treating the standard economist critique of rent control — that price ceilings on rent tend to reduce the quantity and/or quality of rental housing supplied over time — mainly through the two examples (San Francisco, Sweden) its critics cite, arguing these reflect design flaws (uneven application, insufficient accompanying housebuilding) rather than a general problem with price controls. Independently reading the two most-cited quasi-experimental studies on the skeptical side shows they present a real, only partly answered challenge to NEF's design-flaw framing.[2][3] Autor, Palmer & Pathak's study of Cambridge, Massachusetts's 1995 rent-decontrol found ending a comprehensive, decades-long rent-control regime raised the value of never-controlled housing at the sample's mean level of nearby rent-control exposure (34% of units within 0.2 miles) by roughly 12% relative to houses with no controlled neighbors, and raised the assessed values of directly decontrolled units by 18–25%, adding roughly $1.8 billion — about a quarter of the area's residential price appreciation — to Cambridge's housing stock between 1994 and 2004; the authors attribute most of this to improved neighborhood amenities and reduced tenant-housing mismatch rather than new investment, and conclude "the efficiency cost of Cambridge's rent control policy was large relative to the size of the transfer to renters," a finding that does not hinge on the kind of implementation flaw (uneven application, insufficient housebuilding) NEF cites, since Cambridge's controls were comprehensive and long-running. Diamond, McQuade & Qian's study of San Francisco's 1994 rent-control expansion found covered tenants were 10–20% more likely to remain at their address in the medium-to-long term (helping prevent displacement, especially of racial minorities), but that landlords responded by converting or redeveloping buildings to escape the law, shrinking rental housing supply in treated buildings by 15% — a response the authors argue drove up rents for future tenants and contributed to gentrification, "the exact opposite of the policy's intended goal." San Francisco's landlord-exit channel does depend on a specific design feature (new construction and converted units were exempt from control), giving NEF's design-flaw reply some real purchase there; Cambridge's result offers no comparable design-flaw opening, so this page treats the skeptical literature as a genuine, unresolved objection to NEF's framing rather than one NEF's own treatment has adequately answered.
 
 **A Georgist framing note:** the paper's own preferred remedy — price controls on rent plus expanded state/community acquisition of rental housing — targets the *symptom* (the price tenants pay) rather than *capturing the land rent directly* the way an [LVT](/wiki/land-value-tax/) would. The paper's own Step 4 (extending national-insurance contributions to rental income) is the closest point of contact with the wiki's usual land-rent-capture framework, and it treats this as a minor, secondary reform rather than a central mechanism. Readers using this page as ammunition for a Georgist argument should note that "unaffordable rents are a transfer from landlords to tenants" (Section 2.3) is the paper's strongest Georgist-adjacent claim; the rent-control apparatus that follows from it is a different policy family from land-value taxation, with its own separate and more contested evidence base.
 
@@ -65,3 +65,17 @@ This report corroborates, with fresh UK data, the account already carried on thi
    2026 — used for all historical claims, figures, and policy proposals above; fetched and
    read in full (50 pages) from the hosted PDF.
    [thinkhouse.org.uk/site/assets/files/3393/nef0526.pdf](https://thinkhouse.org.uk/site/assets/files/3393/nef0526.pdf).
+2. David H. Autor, Christopher J. Palmer & Parag A. Pathak (2014), "Housing Market
+   Spillovers: Evidence from the End of Rent Control in Cambridge, Massachusetts," *Journal
+   of Political Economy* 122(3), 661–717 (NBER Working Paper No. 18125, June 2012 draft) —
+   used for the Cambridge decontrol price-spillover and efficiency-cost findings in the
+   Limits section above (B-claim; peer-reviewed quasi-experimental study, read directly
+   2026-08-12).
+   [nber.org/system/files/working_papers/w18125/w18125.pdf](https://www.nber.org/system/files/working_papers/w18125/w18125.pdf).
+3. Rebecca Diamond, Tim McQuade & Franklin Qian (2019), "The Effects of Rent Control
+   Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco," *American
+   Economic Review* 109(9), 3365–3394 (NBER Working Paper No. 24181; working-paper draft
+   dated March 4, 2019) — used for the San Francisco supply-reduction, tenant-mobility, and
+   gentrification findings in the Limits section above (B-claim; peer-reviewed
+   quasi-experimental study, read directly 2026-08-12).
+   [web.stanford.edu/~diamondr/DMQ.pdf](https://web.stanford.edu/~diamondr/DMQ.pdf).
