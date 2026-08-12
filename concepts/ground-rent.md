@@ -70,8 +70,7 @@ created**. A site is worth more because of the roads, transit, jobs, and neighbo
 it — none of which the owner provided. Taxing that value therefore takes nothing the owner
 made, discourages no production (the land is there regardless), and returns to the public a
 value the public generated. This is why the incidence evidence is so clean: a tax on ground
-rent [cannot be passed on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/), because
-the site's supply does not shrink when it is taxed.
+rent [cannot be passed on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/), because the site's supply does not shrink when it is taxed.
 
 ## Ground Rent and Land Price
 
