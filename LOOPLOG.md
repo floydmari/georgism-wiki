@@ -3325,3 +3325,24 @@ sync_to_ghost.py, send_email.py and ARCHITECTURE-COMMUNITY.md (15 occurrences). 
 corrected against git commit dates and the system clock. Cause: I took "today" from
 conversation context carried across a compaction rather than from the environment. Rule
 going forward: date stamps come from `date -u` or `git log`, never from memory.
+
+## 2026-08-12 (d) — first real public submission (PR #46); queue quiet
+
+The Turnstile fix landed at 01:58 UTC; at 02:15 the first submission ever to clear that
+gate arrived through the public form — proof the fix works, from the outside rather than
+from a probe. Floyd submitted it himself: concepts/ground-rent.md, "minor formatting edit",
+joining two wrapped source lines into one ~150-character line.
+
+T1 verdict: recommend DECLINE, not closed. It changes nothing for a reader (markdown joins
+wrapped lines, so the published page is byte-identical) and works mildly against the file's
+own convention (prose median 89 chars; wrapped source keeps future diffs reviewable). It is
+harmless though — lint 918/0, census current — so the call is Floyd's.
+
+Deviation from the routine, stated so it is not mistaken for drift: the protocol says T1
+closes a rejected submission itself. I did not. That rule exists to spare Floyd spam from
+strangers; here the submitter IS the publisher and the merge gate is his by design, so the
+PR is labeled awaiting-floyd with both one-click links in the verdict email instead. Closing
+a publisher's own PR on a style preference would be the loop overstepping.
+
+Rest of the pass quiet: queue 0 pending (157 consumed), no suggestion Issues, no open
+ghost-edit PRs or needs-human Issues (the four false ones from entry (c) are closed).
