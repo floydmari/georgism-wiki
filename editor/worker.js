@@ -75,7 +75,7 @@ export default {
       let m;
       if ((m = pathname.match(/^\/wiki\/([a-z0-9-]+)\/edit\/?$/)))
         return htmlResponse(
-          EDITOR_HTML.replaceAll("__SLUG__", m[1])
+          EDITOR_HTML.replaceAll("__TITLE__", m[1]).replaceAll("__SLUG__", m[1])
                      .replaceAll("__TS_SITEKEY__", env.TURNSTILE_SITEKEY || ""));
       if ((m = pathname.match(/^\/wiki\/([a-z0-9-]+)\/history\/?$/)))
         return Response.redirect(`https://www.progress.org/wiki-history/?slug=${m[1]}`, 302);
@@ -261,11 +261,23 @@ async function apiPage(slug, env) {
   );
   if (!res.ok) return json({ error: `page fetch ${res.status}` }, 502);
   const markdown = await res.text();
-  const sections = splitSections(markdown).map((s) => ({
-    heading: s.heading,
-    text: markdown.split("\n").slice(s.start, s.end).join("\n"),
-  }));
-  return json({ slug, path, sections });
+  const sections = splitSections(markdown).map((s) => {
+    const text = markdown.split("\n").slice(s.start, s.end).join("\n");
+    // A one-line gist per section so the picker can show what each one is about
+    // without the reader opening them one by one.
+    const body = text.split("\n").slice(1).join(" ")
+      .replace(/<[^>]*>/g, " ")
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
+      .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+      .replace(/[#>*_`|]+/g, " ")
+      .replace(/\s+/g, " ").trim();
+    return { heading: s.heading, text, preview: body.slice(0, 150), words: body ? body.split(" ").length : 0 };
+  });
+  // Title comes from frontmatter; the category is the folder the page lives in.
+  const fm = markdown.match(/^---\n([\s\S]*?)\n---/);
+  const titleLine = fm && fm[1].match(/^title:\s*["']?(.+?)["']?\s*$/m);
+  const title = titleLine ? titleLine[1] : slug;
+  return json({ slug, path, title, category: path.split("/")[0], sections });
 }
 
 /* ── submit: validate → branch → commit → PR ────────────────────────────── */
@@ -1101,84 +1113,192 @@ e.g. <a href="/wiki/land-value-tax/edit">/wiki/land-value-tax/edit</a>.</p>`;
 const EDITOR_HTML = `<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Suggest an edit — __SLUG__</title>
+<title>Suggest an edit — __TITLE__ | Progress.org Georgism Wiki</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
 <style>
-  :root { --red:#fdd; --green:#dfd; --ink:#1a202c; --line:#e2e8f0; --accent:#2b6cb0; }
+  /* Design tokens lifted from the live theme (assets/css/screen.css) so the
+     editor reads as part of progress.org rather than a bolted-on form. */
+  :root {
+    --ink:#253122; --ink-2:#566057; --ink-3:#9aa08f;
+    --accent:#e0481f; --accent-2:#37503a; --hair:#ecdcab;
+    --bg:#ffffff; --surface:#faf0d2; --paper:#fbf9f4;
+    --sans:"IBM Plex Sans",system-ui,-apple-system,BlinkMacSystemFont,sans-serif;
+    --serif:"Source Serif 4","Source Serif Pro",Georgia,"Times New Roman",serif;
+    --del:#fbe4e0; --ins:#e4efe2;
+  }
   * { box-sizing:border-box }
-  body { font-family:system-ui,sans-serif; color:var(--ink); margin:0; background:#f7fafc }
-  header { background:#fff; border-bottom:1px solid var(--line); padding:.8em 1.2em; display:flex; gap:1em; align-items:baseline; flex-wrap:wrap }
-  header h1 { font-size:1.05em; margin:0 }
-  header .std { font-size:.8em; color:#555; max-width:46em }
-  main { max-width:1100px; margin:1em auto; padding:0 1em }
-  select,textarea,input[type=text],input[type=url] { width:100%; font:inherit; padding:.5em; border:1px solid var(--line); border-radius:6px }
-  textarea#src { font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.85em; min-height:16em; resize:vertical }
-  .cols { display:grid; grid-template-columns:1fr 1fr; gap:1em }
-  @media (max-width:900px){ .cols{grid-template-columns:1fr} }
-  .panel { background:#fff; border:1px solid var(--line); border-radius:8px; padding:1em; margin-top:1em }
-  .panel h2 { font-size:.85em; text-transform:uppercase; letter-spacing:.05em; color:#666; margin:0 0 .6em }
-  #diff { font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.8em; white-space:pre-wrap; overflow-x:auto; max-height:24em; overflow-y:auto }
-  #diff .d { background:var(--red); text-decoration:line-through; display:block }
-  #diff .a { background:var(--green); display:block }
-  #diff .c { color:#888; display:block }
-  .meta label { display:block; margin-top:.8em; font-size:.9em; font-weight:600 }
-  .meta .hint { font-weight:400; color:#666; font-size:.85em }
-  .evidence { border-left:3px solid var(--accent); background:#ebf4ff; padding:.6em .8em; font-size:.85em; margin-top:.8em; border-radius:0 6px 6px 0 }
-  button#submit { margin-top:1em; background:var(--accent); color:#fff; border:0; padding:.7em 1.6em; border-radius:6px; font:inherit; cursor:pointer }
-  button#submit:disabled { background:#a0aec0; cursor:not-allowed }
-  #status { margin-top:.8em; font-size:.9em }
-  #status a { color:var(--accent) }
+  body { font-family:var(--sans); color:var(--ink); margin:0; background:var(--paper); line-height:1.55 }
+  a { color:var(--accent); text-underline-offset:2px }
+
+  /* ── masthead: which article am I editing ─────────────────────────────── */
+  .mast { background:var(--surface); border-bottom:1.5px solid var(--rule,var(--ink)); }
+  .mast__in { max-width:1180px; margin:0 auto; padding:22px 24px 20px }
+  .eyebrow { font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-2); font-weight:600; margin:0 0 6px }
+  .eyebrow a { color:var(--ink-2); text-decoration:none; border-bottom:1px solid var(--ink-3) }
+  .mast h1 { font-family:var(--serif); font-size:clamp(26px,4.2vw,40px); line-height:1.12; margin:0 0 4px; font-weight:700 }
+  .mast h1 .kicker { display:block; font-family:var(--sans); font-size:13px; font-weight:600; letter-spacing:.02em;
+                     text-transform:none; color:var(--accent); margin-bottom:6px }
+  .mast__meta { font-size:13px; color:var(--ink-2); display:flex; gap:14px; flex-wrap:wrap; align-items:center; margin-top:10px }
+  .mast__meta a { color:var(--ink); text-decoration:none; border-bottom:1px solid var(--hair) }
+  .mast__meta a:hover { border-bottom-color:var(--accent) }
+  .pill { display:inline-block; font-size:11px; letter-spacing:.08em; text-transform:uppercase; font-weight:600;
+          background:var(--bg); border:1px solid var(--hair); border-radius:999px; padding:3px 10px; color:var(--ink-2) }
+  .note { font-size:13.5px; color:var(--ink-2); max-width:62ch; margin:10px 0 0 }
+
+  main { max-width:1180px; margin:0 auto; padding:22px 24px 60px }
+
+  /* ── mode tabs ────────────────────────────────────────────────────────── */
+  .tabs { display:flex; gap:8px; margin-bottom:18px; flex-wrap:wrap }
+  .tab { font:inherit; font-size:14px; font-weight:500; padding:9px 16px; border:1px solid var(--hair);
+         border-radius:999px; background:var(--bg); cursor:pointer; color:var(--ink-2); transition:.12s }
+  .tab:hover { border-color:var(--ink-3); color:var(--ink) }
+  .tab.on { background:var(--ink); border-color:var(--ink); color:#fff; font-weight:600 }
+
+  /* ── layout: section rail + workbench ─────────────────────────────────── */
+  .work { display:grid; grid-template-columns:290px 1fr; gap:20px; align-items:start }
+  @media (max-width:980px){
+    .work { grid-template-columns:1fr }
+    .rail { position:static }
+    #seclist { max-height:none }
+  }
+
+  .card { background:var(--bg); border:1px solid var(--hair); border-radius:10px; padding:16px 18px }
+  .card + .card { margin-top:16px }
+  .card__h { font-family:var(--sans); font-size:11px; font-weight:600; letter-spacing:.12em; text-transform:uppercase;
+             color:var(--ink-2); margin:0 0 12px; display:flex; align-items:center; gap:8px }
+  .card__h .n { display:inline-flex; align-items:center; justify-content:center; width:19px; height:19px; border-radius:50%;
+                background:var(--ink); color:#fff; font-size:11px; letter-spacing:0 }
+
+  /* section rail — replaces the old dropdown */
+  .rail { position:sticky; top:16px }
+  #secfilter { width:100%; font:inherit; font-size:13.5px; padding:8px 10px; border:1px solid var(--hair);
+               border-radius:7px; background:var(--paper); margin-bottom:10px }
+  #secfilter:focus { outline:2px solid var(--accent); outline-offset:1px; background:var(--bg) }
+  #seclist { list-style:none; margin:0; padding:0; max-height:min(58vh,560px); overflow-y:auto }
+  #seclist li { margin:0 0 2px }
+  .sec { display:block; width:100%; text-align:left; font:inherit; cursor:pointer; background:transparent;
+         border:0; border-left:3px solid transparent; border-radius:0 7px 7px 0; padding:9px 11px; transition:.12s }
+  .sec:hover { background:var(--paper) }
+  .sec.on { background:var(--surface); border-left-color:var(--accent) }
+  .sec__t { display:block; font-size:14px; font-weight:600; color:var(--ink); line-height:1.3 }
+  .sec.on .sec__t { color:var(--ink) }
+  .sec__p { display:block; font-size:12px; color:var(--ink-3); margin-top:3px; overflow:hidden;
+            display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical }
+  .sec__n { float:right; font-size:11px; color:var(--ink-3); font-variant-numeric:tabular-nums; margin-left:8px }
+  .rail__foot { font-size:12px; color:var(--ink-3); margin-top:10px; border-top:1px solid var(--hair); padding-top:9px }
+
+  /* editor + diff */
+  .pair { display:grid; grid-template-columns:1fr 1fr; gap:16px }
+  @media (max-width:1500px){ .pair { grid-template-columns:1fr } }
+  #nowediting { font-family:var(--serif); font-size:17px; font-weight:600; margin:0 0 10px; color:var(--ink) }
+  textarea, input[type=text], input[type=url], input[type=email] {
+    width:100%; font:inherit; font-size:14px; padding:9px 11px; border:1px solid var(--hair);
+    border-radius:8px; background:var(--bg); color:var(--ink) }
+  textarea:focus, input:focus { outline:2px solid var(--accent); outline-offset:1px }
+  textarea#src { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:13px;
+                 line-height:1.6; min-height:23em; resize:vertical }
+  textarea#comment { min-height:9em }
+  #diff { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:12.5px; line-height:1.6;
+          white-space:pre-wrap; overflow:auto; max-height:30em; background:var(--paper);
+          border:1px solid var(--hair); border-radius:8px; padding:10px }
+  #diff .d { background:var(--del); text-decoration:line-through; display:block; padding:0 3px }
+  #diff .a { background:var(--ins); display:block; padding:0 3px }
+  #diff .c { color:var(--ink-3); display:block; padding:0 3px }
+
+  /* about-this-change */
+  .meta label { display:block; margin-top:15px; font-size:13.5px; font-weight:600 }
+  .meta label:first-of-type { margin-top:0 }
+  .hint { font-weight:400; color:var(--ink-2); font-size:12.5px }
+  .meta input[type=checkbox] { width:auto; margin-right:7px; accent-color:var(--accent) }
+  .check { display:flex !important; align-items:flex-start; gap:2px; font-weight:500 !important; line-height:1.45 }
+  .evidence { border-left:3px solid var(--accent-2); background:var(--surface); padding:10px 13px;
+              font-size:13px; margin-top:11px; border-radius:0 8px 8px 0; color:var(--ink) }
   .hp { position:absolute; left:-9999px }
-  .tabs { display:flex; gap:.5em; margin-top:1em }
-  .tab { font:inherit; padding:.5em 1.1em; border:1px solid var(--line); border-radius:8px 8px 0 0; background:#edf2f7; cursor:pointer; color:#555 }
-  .tab.on { background:#fff; color:var(--ink); font-weight:600; border-bottom-color:#fff }
+  #submit { margin-top:18px; background:var(--accent); color:#fff; border:0; padding:12px 26px; border-radius:8px;
+            font:inherit; font-size:15px; font-weight:600; cursor:pointer; transition:.12s }
+  #submit:hover { background:#c53d18 }
+  #submit:disabled { background:var(--ink-3); cursor:not-allowed }
+  #status { margin-top:12px; font-size:14px }
+  #status a { color:var(--accent) }
+  .ok { color:var(--accent-2); font-weight:600 }
 </style></head><body>
-<header>
-  <h1>Suggest an edit — <code>__SLUG__</code></h1>
-  <div class="std">Changes open a <b>pull request</b> reviewed by an editor before anything publishes. Frontmatter and the page's evidence wiring aren't editable here.</div>
-</header>
+<div class="mast"><div class="mast__in">
+  <p class="eyebrow"><a href="https://www.progress.org/wiki/">Progress.org Georgism Wiki</a></p>
+  <h1><span class="kicker">You are suggesting an edit to</span><span id="arttitle">__SLUG__</span></h1>
+  <div class="mast__meta">
+    <span class="pill" id="artcat">wiki entry</span>
+    <a id="artlink" href="https://www.progress.org/wiki/__SLUG__/" target="_blank" rel="noopener">Read the live article &#8599;</a>
+    <a id="arthist" href="https://www.progress.org/wiki-history/?slug=__SLUG__" target="_blank" rel="noopener">Edit history</a>
+  </div>
+  <p class="note">Your change opens a <b>pull request</b> that an editor reviews against our
+  sourcing standard before anything publishes. The page's frontmatter and evidence wiring
+  aren't editable here.</p>
+</div></div>
 <main>
   <div class="tabs">
-    <button id="tab-edit" class="tab on">✏️ Edit the text</button>
-    <button id="tab-comment" class="tab">💬 Leave a general suggestion</button>
+    <button id="tab-edit" class="tab on">&#9998; Edit the text</button>
+    <button id="tab-comment" class="tab">&#128172; Leave a general suggestion</button>
   </div>
-  <div class="panel" id="commentwrap" style="display:none">
-    <h2>Your suggestion</h2>
-    <p class="hint" style="margin-top:0">No text edit needed — tell the editors what this
-    page should cover, what seems off, or what's missing. A source link makes any
-    suggestion far more actionable.</p>
-    <textarea id="comment" style="min-height:9em" placeholder="e.g. This page doesn't mention the 2026 Danish reassessment — worth covering because…"></textarea>
-    <label style="display:block;margin-top:.8em;font-size:.9em;font-weight:600">Source URL <span class="hint">(optional)</span>
+
+  <div class="card" id="commentwrap" style="display:none">
+    <h2 class="card__h"><span class="n">1</span> Your suggestion</h2>
+    <p class="hint" style="margin:0 0 10px">No text edit needed — tell the editors what this page
+    should cover, what seems off, or what's missing. A source link makes any suggestion far
+    more actionable.</p>
+    <textarea id="comment" placeholder="e.g. This page doesn't mention the 2026 Danish reassessment — worth covering because…"></textarea>
+    <label style="display:block;margin-top:12px;font-size:13.5px;font-weight:600">Source URL <span class="hint">(optional)</span>
       <input type="url" id="csource" placeholder="https://…"></label>
   </div>
-  <div class="panel" id="sectionwrap">
-    <h2>1 · Pick the section to edit</h2>
-    <select id="section"><option>Loading…</option></select>
-  </div>
-  <div class="cols">
-    <div class="panel"><h2>2 · Edit (Markdown)</h2><textarea id="src" spellcheck="true"></textarea></div>
-    <div class="panel"><h2>Your change (live diff)</h2><div id="diff"><span class="c">Edit the text to see the diff…</span></div></div>
-  </div>
-  <div class="panel meta">
-    <h2>3 · About this change</h2>
-    <label>Why this change? <span class="hint">(required)</span>
-      <input type="text" id="rationale" maxlength="500" placeholder="e.g. The 2024 figure is out of date — the 2026 report revises it to…"></label>
-    <label><input type="checkbox" id="factual" style="width:auto"> This edit changes a factual claim (a number, a finding, who-said-what)</label>
-    <div id="srcwrap" style="display:none">
-      <label>Source URL for the correction <span class="hint">(required for factual changes)</span>
-        <input type="url" id="source" placeholder="https://…"></label>
-      <div class="evidence"><b>Our standard:</b> we cite every substantive claim. A suggestion without a
-        source can still flag a problem — but we can't publish a claim we can't verify.</div>
+
+  <div class="work">
+    <div id="sectionwrap">
+      <div class="card rail">
+        <h2 class="card__h"><span class="n">1</span> Choose a section</h2>
+        <input type="text" id="secfilter" placeholder="Filter sections…" autocomplete="off">
+        <ul id="seclist"><li class="hint" style="padding:8px 11px">Loading the article…</li></ul>
+        <div class="rail__foot" id="seccount"></div>
+      </div>
     </div>
-    <label>Your name <span class="hint">(required — credited in the page's permanent edit history)</span>
-      <input type="text" id="name" maxlength="80" required></label>
-    <label>Your email <span class="hint">(required — we send you a copy and follow up if needed; <b>never published</b>)</span>
-      <input type="email" id="email" maxlength="120" required></label>
-    <label>About you <span class="hint">(optional — affiliation or background, helps our editors weigh expertise)</span>
-      <input type="text" id="bio" maxlength="300" placeholder="e.g. economics PhD student; member of Prosper Australia; longtime reader"></label>
-    <input class="hp" type="text" id="website" tabindex="-1" autocomplete="off">
-    <div id="ts-slot" style="margin-top:.8em"></div>
-    <button id="submit">Submit suggestion</button>
-    <div id="status"></div>
+
+    <div>
+      <div class="pair">
+        <div class="card">
+          <h2 class="card__h"><span class="n">2</span> Edit the text</h2>
+          <p id="nowediting">&nbsp;</p>
+          <textarea id="src" spellcheck="true"></textarea>
+        </div>
+        <div class="card">
+          <h2 class="card__h">Your change, live</h2>
+          <p id="nowediting2" class="hint" style="margin:0 0 10px">Red is removed, green is added.</p>
+          <div id="diff"><span class="c">No changes yet — edit the section above and your change shows up here.</span></div>
+        </div>
+      </div>
+
+      <div class="card meta">
+        <h2 class="card__h"><span class="n">3</span> About this change</h2>
+        <label>Why this change? <span class="hint">(required)</span>
+          <input type="text" id="rationale" maxlength="500" placeholder="e.g. The 2024 figure is out of date — the 2026 report revises it to…"></label>
+        <label class="check"><input type="checkbox" id="factual"> This edit changes a factual claim (a number, a finding, who-said-what)</label>
+        <div id="srcwrap" style="display:none">
+          <label>Source URL for the correction <span class="hint">(required for factual changes)</span>
+            <input type="url" id="source" placeholder="https://…"></label>
+          <div class="evidence"><b>Our standard:</b> we cite every substantive claim. A suggestion without
+            a source can still flag a problem for us — but we can't publish a claim we can't verify.</div>
+        </div>
+        <label>Your name <span class="hint">(required — credited in the page's permanent edit history)</span>
+          <input type="text" id="name" maxlength="80" required></label>
+        <label>Your email <span class="hint">(required — we send you a copy and follow up if needed; <b>never published</b>)</span>
+          <input type="email" id="email" maxlength="120" required></label>
+        <label>About you <span class="hint">(optional — affiliation or background, helps our editors weigh expertise)</span>
+          <input type="text" id="bio" maxlength="300" placeholder="e.g. economics PhD student; member of Prosper Australia; longtime reader"></label>
+        <input class="hp" type="text" id="website" tabindex="-1" autocomplete="off">
+        <div id="ts-slot" style="margin-top:14px"></div>
+        <button id="submit">Submit suggestion</button>
+        <div id="status"></div>
+      </div>
+    </div>
   </div>
 </main>
 <script>
@@ -1215,21 +1335,57 @@ function freshToken() {
   });
 }
 
+let current = 0;   // index of the section being edited
+
 async function load() {
   const r = await fetch("/api/page/" + slug);
   const d = await r.json();
   if (!r.ok) { document.getElementById("status").textContent = d.error; return; }
   sections = d.sections;
-  const sel = document.getElementById("section");
-  sel.innerHTML = sections.map((s,i)=>'<option value="'+i+'">'+esc(s.heading)+'</option>').join("");
-  sel.onchange = pick; pick();
+  // Say plainly which article this is — the slug alone made people guess.
+  if (d.title) {
+    document.getElementById("arttitle").textContent = d.title;
+    document.title = "Suggest an edit — " + d.title + " | Progress.org Georgism Wiki";
+  }
+  if (d.category) document.getElementById("artcat").textContent = d.category.replace(/s$/, "") + " entry";
+  renderRail();
+  select(0);
 }
-function pick() {
+
+/* The section rail replaces a <select>: every heading is visible at once with a
+   line of its own text, so a contributor can see where their change belongs
+   instead of opening a dropdown and reading headings one at a time. */
+function renderRail(filter) {
+  const q = (filter || "").trim().toLowerCase();
+  const list = document.getElementById("seclist");
+  const hits = sections.map((s, i) => ({ s, i })).filter(({ s }) =>
+    !q || s.heading.toLowerCase().includes(q) || (s.preview || "").toLowerCase().includes(q));
+  list.innerHTML = hits.length ? hits.map(({ s, i }) =>
+    '<li><button type="button" class="sec' + (i === current ? ' on' : '') + '" data-i="' + i + '">' +
+      '<span class="sec__n">' + (s.words || 0) + ' words</span>' +
+      '<span class="sec__t">' + esc(s.heading) + '</span>' +
+      (s.preview ? '<span class="sec__p">' + esc(s.preview) + '</span>' : '') +
+    '</button></li>').join("")
+    : '<li class="hint" style="padding:8px 11px">No section matches that.</li>';
+  list.querySelectorAll(".sec").forEach((b) =>
+    b.addEventListener("click", () => select(+b.dataset.i)));
+  document.getElementById("seccount").textContent =
+    sections.length + (sections.length === 1 ? " section" : " sections") +
+    (q ? " · " + hits.length + " shown" : "") + " · one section per suggestion";
+}
+
+function select(i) {
   if (editorFull) return;
-  const i = +document.getElementById("section").value || 0;
+  current = i;
   original = sections[i].text;
   document.getElementById("src").value = original;
+  document.getElementById("nowediting").textContent = sections[i].heading;
+  document.querySelectorAll(".sec").forEach((b) => b.classList.toggle("on", +b.dataset.i === i));
   renderDiff();
+  // on a phone the rail sits above the editor, so a tap should move you to it
+  if (window.innerWidth <= 980 && document.getElementById("seclist").dataset.ready)
+    document.getElementById("src").scrollIntoView({ behavior: "smooth", block: "center" });
+  document.getElementById("seclist").dataset.ready = "1";
 }
 function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 
@@ -1254,7 +1410,7 @@ function renderDiff(){
   const ops=diffLines(original,now);
   const changed=ops.some(o=>o[0]!=="c");
   const el=document.getElementById("diff");
-  if(!changed){el.innerHTML='<span class="c">No changes yet.</span>';return;}
+  if(!changed){el.innerHTML='<span class="c">No changes yet — edit the section above and your change shows up here.</span>';return;}
   // context-collapse: show changed lines with 2 lines of context
   const keep=new Set();
   ops.forEach((o,k)=>{if(o[0]!=="c")for(let d=-2;d<=2;d++)keep.add(k+d);});
@@ -1267,6 +1423,7 @@ function renderDiff(){
   el.innerHTML=html;
 }
 document.getElementById("src").addEventListener("input",renderDiff);
+document.getElementById("secfilter").addEventListener("input", (e) => renderRail(e.target.value));
 document.getElementById("factual").addEventListener("change",e=>{
   document.getElementById("srcwrap").style.display=e.target.checked?"":"none";
 });
@@ -1296,6 +1453,8 @@ async function tryEditorMode(){
   original = d.markdown;
   document.getElementById("src").value = original;
   document.getElementById("sectionwrap").style.display = "none";
+  document.querySelector(".work").style.gridTemplateColumns = "1fr";
+  document.getElementById("nowediting").textContent = "Whole file, including frontmatter";
   const h = document.querySelector("header .std");
   if (h) h.innerHTML = '<b>Editor mode — ' + esc(d.editor) + '.</b> Whole file including frontmatter. Your change still opens a pull request.';
   renderDiff();
@@ -1307,7 +1466,9 @@ function setMode(m){
   document.getElementById("tab-comment").classList.toggle("on", !isEdit);
   document.getElementById("commentwrap").style.display = isEdit ? "none" : "";
   document.getElementById("sectionwrap").style.display = isEdit ? "" : "none";
-  document.querySelector(".cols").style.display = isEdit ? "" : "none";
+  document.querySelector(".pair").style.display = isEdit ? "" : "none";
+  // give the form the full width when the section rail is hidden
+  document.querySelector(".work").style.gridTemplateColumns = isEdit ? "" : "1fr";
   document.getElementById("rationale").parentElement.style.display = isEdit ? "" : "none";
   document.getElementById("factual").parentElement.style.display = isEdit ? "" : "none";
   document.getElementById("srcwrap").style.display = (isEdit && document.getElementById("factual").checked) ? "" : "none";
@@ -1333,9 +1494,8 @@ document.getElementById("submit").addEventListener("click",async()=>{
     d=await r.json();
     if(r.ok&&d.issue){st.innerHTML='✅ Thank you! Your suggestion was filed as <a target="_blank" href="'+d.issue.url+'">#'+d.issue.number+"</a> for the editors.";return;}
   }else{
-    const i=+document.getElementById("section").value||0;
     const body={slug,
-      sectionHeading:editorFull?null:sections[i].heading,
+      sectionHeading:editorFull?null:sections[current].heading,
       fullFile:editorFull,
       editorToken:editorFull?localStorage.getItem("wikiEditorToken"):null,
       newText:document.getElementById("src").value,

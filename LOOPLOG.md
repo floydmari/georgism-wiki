@@ -3346,3 +3346,37 @@ a publisher's own PR on a style preference would be the loop overstepping.
 
 Rest of the pass quiet: queue 0 pending (157 consumed), no suggestion Issues, no open
 ghost-edit PRs or needs-human Issues (the four false ones from entry (c) are closed).
+
+## 2026-08-12 (e) — UI pass on the public editor (Floyd's ask)
+
+Floyd: make the community edit page beautiful, make it obvious which article is being
+edited, and find something better than a dropdown for choosing a section.
+
+**Which article.** The page said "Suggest an edit — ground-rent" and nothing else; a
+contributor arriving from a link had to infer the article from a slug. /api/page now
+returns the frontmatter title and the category, and the masthead leads with the real title
+("Ground Rent") set in Source Serif at display size, with the category as a pill and links
+to the live article and its edit history. The browser tab title carries it too.
+
+**Section picker.** The <select> is gone. In its place a persistent rail lists every
+section at once — heading, a two-line gist of its actual text, and a word count — with the
+current one marked by an accent bar, plus a filter box for long pages (searches headings
+AND body text, so "price" finds the section that discusses it even if the word isn't in
+the heading). Rationale: a dropdown hides the shape of the article; the point of this
+screen is to help someone decide where their change belongs.
+
+**Visual pass.** Design tokens lifted from the live theme's own stylesheet (--ink #253122,
+--accent #e0481f, --surface #faf0d2, --hair #ecdcab, IBM Plex Sans + Source Serif 4), so
+the editor reads as part of progress.org instead of a bolted-on form: cream masthead with
+the site's rule, numbered step cards, pill tabs, accent focus rings, a diff panel in the
+paper palette.
+
+Layout notes: editor and diff stack vertically below 1500px — side by side inside a
+1180px shell left both panes ~370px wide and neither usable. Below 980px the rail
+un-sticks and flows, and tapping a section scrolls the editor into view.
+
+Verified by rendering the deployed page against a stubbed API in headless Chromium
+(the sandbox's TLS proxy blocks browser traffic to the live host, so the page was fetched
+with curl and loaded from file://): desktop and mobile screenshots reviewed, and six
+interactions exercised — section switch, filter, live diff, comment-mode toggle, return to
+edit mode, and the factual-claim checkbox revealing the source field.
