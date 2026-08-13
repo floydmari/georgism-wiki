@@ -1,6 +1,25 @@
 {
-  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [],
+  "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
+  "queue": [
+    {
+      "url": "https://progressandpoverty.substack.com/p/land-value-return-is-needed-pragmatic-de5",
+      "source": "internet-scan",
+      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+      "context": "Land value taxes are winning: LVT Landscape Live",
+      "author": "research-scanner",
+      "queued_at": "2026-08-13T10:02:54.476325+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://progressandpoverty.substack.com/p/yes-a-land-value-tax-is-possible",
+      "source": "internet-scan",
+      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+      "context": "Yes, a Land Value Tax Is Possible in Washington State",
+      "author": "research-scanner",
+      "queued_at": "2026-08-13T10:02:54.478447+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -12,7 +31,7 @@
       "verdict": "accepted",
       "wiki_page": "/wiki/ndspn-cincinnati-lvt-analysis/",
       "triage_date": "2026-07-18",
-      "notes": "Triage + full scan completed (text extraction plus PDF figure/table review for chart data pdftotext dropped). \"From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio\" (Notre Dame Student Policy Network, in partnership with the Center for Land Economics, 15 July 2026) — a revenue-neutral 4:1 split-rate LVT parcel simulation for Cincinnati, OH, occasioned by Ohio SJR 7. Graded tier: supplementary (undergraduate student report with an advocacy-institute partner, not peer-reviewed; third in the SPN/CLE parcel-simulation series after South Bend and Princeton). Created research/ndspn-cincinnati-lvt-analysis.md; wired one-line mention into organizations/center-for-land-economics.md and cross-linked research/miller-hoskins-college-town-lvt.md, research/oates-schwab-pittsburgh.md, places/pittsburgh.md, places/pennsylvania.md, places/new-south-wales.md, places/australia.md. Not added to benefits/split-rate-increases-construction.md's supported_by (prospective simulation, not new independent evidence, per the delta rule and the precedent set by the sibling South Bend/Princeton reports). No places/cincinnati.md page created (does not clear the ≥2-inbound-link accept bar on its own). registry.csv row added."
+      "notes": "Triage + full scan completed (text extraction plus PDF figure/table review for chart data pdftotext dropped). \"From the Ground Up: An Analysis of Land Value Tax in Cincinnati, Ohio\" (Notre Dame Student Policy Network, in partnership with the Center for Land Economics, 15 July 2026) \u2014 a revenue-neutral 4:1 split-rate LVT parcel simulation for Cincinnati, OH, occasioned by Ohio SJR 7. Graded tier: supplementary (undergraduate student report with an advocacy-institute partner, not peer-reviewed; third in the SPN/CLE parcel-simulation series after South Bend and Princeton). Created research/ndspn-cincinnati-lvt-analysis.md; wired one-line mention into organizations/center-for-land-economics.md and cross-linked research/miller-hoskins-college-town-lvt.md, research/oates-schwab-pittsburgh.md, places/pittsburgh.md, places/pennsylvania.md, places/new-south-wales.md, places/australia.md. Not added to benefits/split-rate-increases-construction.md's supported_by (prospective simulation, not new independent evidence, per the delta rule and the precedent set by the sibling South Bend/Princeton reports). No places/cincinnati.md page created (does not clear the \u22652-inbound-link accept bar on its own). registry.csv row added."
     },
     {
       "url": "https://unitism.com/game",
@@ -20,7 +39,7 @@
       "reason": "unknown domain with keyword (zoning)",
       "queued_at": "2026-07-16T00:12:58.770475+00:00",
       "reported": false,
-      "context": "Hello all :wave: Yesterday, using Fable, I built a kind of SimCity for zoning and urban tax policy! It’s miraculous how you can now build something over the course of an afternoon that a mere year or two ago would have taken a team of engineers months to build.\n\nI instructed the AI model to ground a",
+      "context": "Hello all :wave: Yesterday, using Fable, I built a kind of SimCity for zoning and urban tax policy! It\u2019s miraculous how you can now build something over the course of an afternoon that a mere year or two ago would have taken a team of engineers months to build.\n\nI instructed the AI model to ground a",
       "author": "U09GHK05HT8",
       "disposition": "rejected",
       "disposition_reason": "community hobby project, not citable source",
@@ -32,7 +51,7 @@
       "reason": "unknown domain with keyword (georgist)",
       "queued_at": "2026-07-16T00:12:58.772899+00:00",
       "reported": false,
-      "context": "From a Georgist perspective, I have some serious concerns about SpaceX/Starlink… and have been having them for many years. For one, Starlink is using up the commons (orbits) without compensating humanity for it, but what’s actually terrifying is the danger of a collision, which is increasingly likel",
+      "context": "From a Georgist perspective, I have some serious concerns about SpaceX/Starlink\u2026 and have been having them for many years. For one, Starlink is using up the commons (orbits) without compensating humanity for it, but what\u2019s actually terrifying is the danger of a collision, which is increasingly likel",
       "author": "U09GHK05HT8",
       "disposition": "rejected",
       "disposition_reason": "tangential to channel discussion (Starlink); source itself not Georgism-relevant",
@@ -80,7 +99,7 @@
       "reason": "unknown domain with keyword (ubi)",
       "queued_at": "2026-07-16T00:13:05.331411+00:00",
       "reported": false,
-      "context": "Robert Inman, Wharton Prof LVT Quote (+ bonus clips)\n<https://app.notion.com/p/ubiworks/Robert-Inman-Wharton-Prof-LVT-388a9ac7ed73808d9b85f46d87493c4c?d=390a9ac7ed7380b5b6de001cad1d7e06#390a9ac7ed7380dbaa5dd66fc38d4d18|app.notion.com/p/ubiworks/…/Robert-Inman…?d=390a9ac7ed7380b5b6de…#…>",
+      "context": "Robert Inman, Wharton Prof LVT Quote (+ bonus clips)\n<https://app.notion.com/p/ubiworks/Robert-Inman-Wharton-Prof-LVT-388a9ac7ed73808d9b85f46d87493c4c?d=390a9ac7ed7380b5b6de001cad1d7e06#390a9ac7ed7380dbaa5dd66fc38d4d18|app.notion.com/p/ubiworks/\u2026/Robert-Inman\u2026?d=390a9ac7ed7380b5b6de\u2026#\u2026>",
       "author": "UKTJP503G",
       "disposition": "rejected",
       "disposition_reason": "inaccessible internal Notion clip",
@@ -164,7 +183,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:09.718950+00:00",
       "reported": false,
-      "context": "Last 30 days skill used on LVT. Excellent newsletter / twitter thread material!\n\nAlso shows what Lars’ group is accomplished focusing on government / politico lobbying and education. I want to see us playing that game too. \n<https://claude.ai/share/684fa97f-7962-4eff-aa7c-5cb3101161f9>",
+      "context": "Last 30 days skill used on LVT. Excellent newsletter / twitter thread material!\n\nAlso shows what Lars\u2019 group is accomplished focusing on government / politico lobbying and education. I want to see us playing that game too. \n<https://claude.ai/share/684fa97f-7962-4eff-aa7c-5cb3101161f9>",
       "author": "UKQ1MQDMW",
       "disposition": "rejected",
       "disposition_reason": "internal AI chat share, not a source",
@@ -236,7 +255,7 @@
       "reason": "unknown domain with keyword (monopoly)",
       "queued_at": "2026-07-16T00:13:09.722723+00:00",
       "reported": false,
-      "context": "Wow. <http://Realtor.com|Realtor.com> implicitly admitting that real estate is a monopoly business. “_Even more shocking: The game’s original ethos was meant to teach the dangers of monopolies, not encourage them._”",
+      "context": "Wow. <http://Realtor.com|Realtor.com> implicitly admitting that real estate is a monopoly business. \u201c_Even more shocking: The game\u2019s original ethos was meant to teach the dangers of monopolies, not encourage them._\u201d",
       "author": "U09GHK05HT8",
       "disposition": "rejected",
       "disposition_reason": "bare domain link (substantive article queued separately)",
@@ -438,7 +457,7 @@
       "url": "http://arxiv.org/abs/2511.21766v1",
       "source": "internet-scan",
       "reason": "arxiv paper (strong keyword: land value tax)",
-      "context": "The dynamic of a tax on land value : concepts, models and impact scenario — This paper develops a spatial-dynamic framework to analyze the theoretical and quantitative effects of a Land Value Tax (LVT) on urban land markets, capital accumulation, and spatial redistribution. Building upon the Georgis",
+      "context": "The dynamic of a tax on land value : concepts, models and impact scenario \u2014 This paper develops a spatial-dynamic framework to analyze the theoretical and quantitative effects of a Land Value Tax (LVT) on urban land markets, capital accumulation, and spatial redistribution. Building upon the Georgis",
       "author": "research-scanner",
       "queued_at": "2026-07-18T10:02:36.674601+00:00",
       "reported": false,
@@ -524,7 +543,7 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
       "queued_at": "2026-07-17T23:44:18.854785+00:00",
       "reported": false,
-      "context": "New York Authorizes a Land Value Tax to Fund Transit and More — Landscape 9",
+      "context": "New York Authorizes a Land Value Tax to Fund Transit and More \u2014 Landscape 9",
       "author": "research-scanner",
       "disposition": "used",
       "disposition_reason": "event page (Section 119-r renewal)",
@@ -548,17 +567,17 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
       "queued_at": "2026-07-17T23:44:18.924260+00:00",
       "reported": false,
-      "context": "BOOM: Unanimous Vote Puts Land Value Tax Enablement on Governor’s Desk",
+      "context": "BOOM: Unanimous Vote Puts Land Value Tax Enablement on Governor\u2019s Desk",
       "author": "research-scanner",
       "disposition": "used",
-      "disposition_reason": "event page (Virginia HB 282 — queue framing said NY, actually VA)",
+      "disposition_reason": "event page (Virginia HB 282 \u2014 queue framing said NY, actually VA)",
       "consumed_at": "2026-07-26T14:48:51Z"
     },
     {
       "url": "https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/",
       "source": "social-media-production",
       "reason": "unknown domain with keyword (lvt)",
-      "context": "Kitty Klitzke, Spokane City Council Member LVT quote\n<https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/|spokesman.com/stories/…/most-spokane-homeowners-would-pay-less-tax-under…>",
+      "context": "Kitty Klitzke, Spokane City Council Member LVT quote\n<https://www.spokesman.com/stories/2026/jun/04/most-spokane-homeowners-would-pay-less-tax-under-r/|spokesman.com/stories/\u2026/most-spokane-homeowners-would-pay-less-tax-under\u2026>",
       "author": "UKTJP503G",
       "queued_at": "2026-07-21T10:02:46.818123+00:00",
       "reported": false,
@@ -572,7 +591,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:12:58.770025+00:00",
       "reported": false,
-      "context": "<https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102|archive.is/20260606061953/…/andy-burnham-land-tax-rock-house-prices#…>\n\nthis article itself is internally inconsistent. half the article talks about h",
+      "context": "<https://archive.is/20260606061953/https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/#selection-5617.1-5633.102|archive.is/20260606061953/\u2026/andy-burnham-land-tax-rock-house-prices#\u2026>\n\nthis article itself is internally inconsistent. half the article talks about h",
       "author": "UNYCKRMC6",
       "disposition": "used",
       "disposition_reason": "people/andy-burnham.md (via Yahoo Finance mirror of the Lawford Telegraph piece)",
@@ -608,7 +627,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:07.077065+00:00",
       "reported": false,
-      "context": "Andy Burnham is currently the bookies' favorite to succeed Sir Keir Starmer as the next Prime Minister of the United Kingdom.\n\nPushing for LVT\n\n&gt; Burnham suggested *replacing “iniquitous” council tax with a land value tax*, and said public sector procurement should prioritise British industry.\n<h",
+      "context": "Andy Burnham is currently the bookies' favorite to succeed Sir Keir Starmer as the next Prime Minister of the United Kingdom.\n\nPushing for LVT\n\n&gt; Burnham suggested *replacing \u201ciniquitous\u201d council tax with a land value tax*, and said public sector procurement should prioritise British industry.\n<h",
       "author": "UKTJP503G",
       "disposition": "used",
       "disposition_reason": "people/andy-burnham.md (headline/date framing; paywalled)",
@@ -632,7 +651,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:07.077215+00:00",
       "reported": false,
-      "context": "\"The favourite to be Britain’s next prime minister backs a tax revolution that has painful repercussions\"\n<https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/>",
+      "context": "\"The favourite to be Britain\u2019s next prime minister backs a tax revolution that has painful repercussions\"\n<https://www.telegraph.co.uk/business/2026/06/06/andy-burnham-land-tax-rock-house-prices/?WT.mc_id=tmgoff_tw_post_land-tax-rock-house-prices/>",
       "author": "UKTJP503G",
       "disposition": "used",
       "disposition_reason": "people/andy-burnham.md (via Yahoo Finance mirror)",
@@ -695,7 +714,7 @@
       "context": "A German State Quietly Implemented a Land Value Tax",
       "author": "research-scanner",
       "disposition": "used",
-      "disposition_reason": "places/germany.md Baden-Württemberg section (+ Bundesfinanzhof April 2026 ruling added)",
+      "disposition_reason": "places/germany.md Baden-W\u00fcrttemberg section (+ Bundesfinanzhof April 2026 ruling added)",
       "consumed_at": "2026-07-26T14:52:35Z"
     },
     {
@@ -714,7 +733,7 @@
       "url": "https://progressandpoverty.substack.com/p/new-uk-prime-minister-supports-land",
       "source": "internet-scan",
       "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
-      "context": "New UK Prime Minister Supports Land Value Tax. What’s Next?",
+      "context": "New UK Prime Minister Supports Land Value Tax. What\u2019s Next?",
       "author": "research-scanner",
       "queued_at": "2026-07-21T10:02:27.654031+00:00",
       "reported": false,
@@ -764,7 +783,7 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: land value)",
       "queued_at": "2026-07-17T23:44:18.845463+00:00",
       "reported": false,
-      "context": "Land Value Capture in Practice: Reflections on Ethiopia’s Urban Land Lease System",
+      "context": "Land Value Capture in Practice: Reflections on Ethiopia\u2019s Urban Land Lease System",
       "author": "research-scanner",
       "disposition": "used",
       "disposition_reason": "NEW places/ethiopia.md (corroborated vs FIG 2014 Adamu paper)",
@@ -812,7 +831,7 @@
       "reason": "rss (progressandpoverty.substack.com, keyword: cities)",
       "queued_at": "2026-07-17T23:44:18.896437+00:00",
       "reported": false,
-      "context": "Don’t Reject Data Centers. Negotiate Harder.",
+      "context": "Don\u2019t Reject Data Centers. Negotiate Harder.",
       "author": "research-scanner",
       "disposition": "used",
       "disposition_reason": "folded into concepts/land-value-capture.md Negotiated PILOTs bullet",
@@ -845,8 +864,8 @@
     {
       "url": "https://www.researchgate.net/profile/Felix-Schlaepfer/publication/396308783_Total_rents_from_natural_resources_Framework_and_preliminary_estimates_for_Switzerland",
       "source": "internet-scan",
-      "reason": "Schlaepfer: Total rents from natural resources — framework and estimates for Switzerland (2026)",
-      "context": "Schlaepfer: Total rents from natural resources — framework and estimates for Switzerland (2026)",
+      "reason": "Schlaepfer: Total rents from natural resources \u2014 framework and estimates for Switzerland (2026)",
+      "context": "Schlaepfer: Total rents from natural resources \u2014 framework and estimates for Switzerland (2026)",
       "author": "",
       "queued_at": "2026-07-20T10:04:32Z",
       "reported": false,
@@ -893,8 +912,8 @@
     {
       "url": "https://www.gov.wales/sites/default/files/publications/2026-02/testing-land-valuation-methods-a-land-value-tax-for-wales-claims-and-contexts-report.pdf",
       "source": "internet-scan",
-      "reason": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
-      "context": "Welsh Government: LVT for Wales — Claims and Contexts Report (2026)",
+      "reason": "Welsh Government: LVT for Wales \u2014 Claims and Contexts Report (2026)",
+      "context": "Welsh Government: LVT for Wales \u2014 Claims and Contexts Report (2026)",
       "author": "",
       "queued_at": "2026-07-20T10:04:32Z",
       "reported": false,
@@ -917,8 +936,8 @@
     {
       "url": "https://eprints.glos.ac.uk/15861/",
       "source": "internet-scan",
-      "reason": "Goodwin-Hawkins (2026): A land value tax for Wales — valuation methodologies",
-      "context": "Goodwin-Hawkins (2026): A land value tax for Wales — valuation methodologies",
+      "reason": "Goodwin-Hawkins (2026): A land value tax for Wales \u2014 valuation methodologies",
+      "context": "Goodwin-Hawkins (2026): A land value tax for Wales \u2014 valuation methodologies",
       "author": "",
       "queued_at": "2026-07-20T10:04:32Z",
       "reported": false,
@@ -971,7 +990,7 @@
       "queued_at": "2026-07-20T10:04:32Z",
       "reported": false,
       "disposition": "duplicate",
-      "disposition_reason": "Taranu & Verbeeck 2022 — already fully covered by research/taranu-verbeeck-property-tax-sprawl.md",
+      "disposition_reason": "Taranu & Verbeeck 2022 \u2014 already fully covered by research/taranu-verbeeck-property-tax-sprawl.md",
       "consumed_at": "2026-07-26T19:25:04Z"
     },
     {
@@ -1055,7 +1074,7 @@
       "queued_at": "2026-07-20T10:04:32Z",
       "reported": false,
       "disposition": "used",
-      "disposition_reason": "duplicate of Liverpool TPR item — same McAllister paper, centaur copy bot-walled",
+      "disposition_reason": "duplicate of Liverpool TPR item \u2014 same McAllister paper, centaur copy bot-walled",
       "consumed_at": "2026-07-26T19:30:39Z"
     },
     {
@@ -1074,12 +1093,12 @@
       "url": "https://www.sciencedirect.com/science/article/pii/S0264275126005263",
       "source": "commonwealth",
       "reason": "unknown domain with keyword (land value)",
-      "context": "New paper from Adam Moogan and *<https://x.com/fiorentino_stef|Stefania Fiorentino> (*Associate Prof <https://x.com/Cambridge_uni|@Cambridge_uni>)  *on the benefits of land value taxation for agglomeration:*\n<https://www.sciencedirect.com/science/article/pii/S0264275126005263|sciencedirect.com/science/article/pii/…>",
+      "context": "New paper from Adam Moogan and *<https://x.com/fiorentino_stef|Stefania Fiorentino> (*Associate Prof <https://x.com/Cambridge_uni|@Cambridge_uni>)  *on the benefits of land value taxation for agglomeration:*\n<https://www.sciencedirect.com/science/article/pii/S0264275126005263|sciencedirect.com/science/article/pii/\u2026>",
       "author": "UKTJP503G",
       "queued_at": "2026-07-22T10:01:34.660845+00:00",
       "reported": false,
       "disposition": "used",
-      "disposition_reason": "Moogan & Fiorentino Cities 2026: page already existed (fiorentino-moogan-agglomeration) — enriched with journal DOI, tier bump, Honest Limits",
+      "disposition_reason": "Moogan & Fiorentino Cities 2026: page already existed (fiorentino-moogan-agglomeration) \u2014 enriched with journal DOI, tier bump, Honest Limits",
       "consumed_at": "2026-07-26T19:30:39Z"
     },
     {
@@ -1088,7 +1107,7 @@
       "reason": "unknown domain with keyword (housing)",
       "queued_at": "2026-07-16T00:13:05.331704+00:00",
       "reported": false,
-      "context": "*Projet Montréal calls for a tax on vacant housing (2026 june 17)*\n<https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/>",
+      "context": "*Projet Montr\u00e9al calls for a tax on vacant housing (2026 june 17)*\n<https://cultmtl.com/2026/06/projet-montreal-calls-for-a-tax-on-vacant-housing/>",
       "author": "UKTJP503G",
       "disposition": "used",
       "disposition_reason": "Canadian vacancy-tax section on canada.md (403; corroborated via Journal Metro, VERIFY flagged)",
@@ -1112,7 +1131,7 @@
       "reason": "unknown domain with keyword (speculation)",
       "queued_at": "2026-07-16T00:13:09.718622+00:00",
       "reported": false,
-      "context": "Also this was totally new to me... Québec passed a special vacant/underused tax authority for municipalities in 2023.\n\nHere's a random example of a municipality that is using it. <https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/>\n\nWhy did they apply this charge you mig",
+      "context": "Also this was totally new to me... Qu\u00e9bec passed a special vacant/underused tax authority for municipalities in 2023.\n\nHere's a random example of a municipality that is using it. <https://amqui.ca/a-propos/taxes-municipales/taxation-terrains-vagues-desservis/>\n\nWhy did they apply this charge you mig",
       "author": "UKD25NV0A",
       "disposition": "used",
       "disposition_reason": "Quebec Bill 39 (2023 c.33) 4x vacant-lot rate cap verified from statute; canada.md section",
@@ -1256,7 +1275,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:12.968080+00:00",
       "reported": false,
-      "context": "There are some interesting possible narratives <https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze|coming out of the findings here form gensqueeze> on the BC budget:\n• if BC still had just 10 per cent of its population over age",
+      "context": "There are some interesting possible narratives <https://www.gensqueeze.ca/2026_bc_budget_analysis?utm_campaign=march_2026_newsletter&utm_medium=email&utm_source=gensqueeze|coming out of the findings here form gensqueeze> on the BC budget:\n\u2022 if BC still had just 10 per cent of its population over age",
       "author": "UKQ1MQDMW",
       "disposition": "used",
       "disposition_reason": "BC additional school tax fact corroborated against official province page; folded into british-columbia.md",
@@ -1280,7 +1299,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:12.971362+00:00",
       "reported": false,
-      "context": "Had a meeting with Andrew Rose to organize an event in Vic &amp; Van, possibly oct (minus halloween week), with a key elements:\n• presenting our latest BC model\n• preview of new statcan partnership\n• speaker idea: Jenn Bradshaw  <https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-",
+      "context": "Had a meeting with Andrew Rose to organize an event in Vic &amp; Van, possibly oct (minus halloween week), with a key elements:\n\u2022 presenting our latest BC model\n\u2022 preview of new statcan partnership\n\u2022 speaker idea: Jenn Bradshaw  <https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-",
       "author": "UNYCKRMC6",
       "disposition": "folded",
       "disposition_reason": "Bradshaw is an activist not councillor; underlying Dec 2018 motion correctly attributed to Cllr Christine Boyle on vancouver.md via Daily Hive",
@@ -1427,7 +1446,7 @@
       "queued_at": "2026-07-20T10:04:32Z",
       "reported": false,
       "disposition": "rejected",
-      "disposition_reason": "Meng et al. Li Dazhao paper: abstract concedes no direct citations — speculative thematic convergence, too thin",
+      "disposition_reason": "Meng et al. Li Dazhao paper: abstract concedes no direct citations \u2014 speculative thematic convergence, too thin",
       "consumed_at": "2026-07-26T19:48:51Z"
     },
     {
@@ -1448,7 +1467,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:09.721102+00:00",
       "reported": false,
-      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
+      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n\u2022 Spokane Report &amp; Syracuse Report decks (attached PDFs)\n\u2022 Civic Mapper (by CLE) - <h",
       "author": "UNYCKRMC6",
       "disposition": "folded",
       "disposition_reason": "CivicMapper already covered on center-for-land-economics.md via the Put It On a Map fold (wave 2)",
@@ -1460,10 +1479,10 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:09.721180+00:00",
       "reported": false,
-      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
+      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n\u2022 Spokane Report &amp; Syracuse Report decks (attached PDFs)\n\u2022 Civic Mapper (by CLE) - <h",
       "author": "UNYCKRMC6",
       "disposition": "folded",
-      "disposition_reason": "same — covered on center-for-land-economics.md (wave 2)",
+      "disposition_reason": "same \u2014 covered on center-for-land-economics.md (wave 2)",
       "consumed_at": "2026-07-26T19:50:17Z"
     },
     {
@@ -1482,7 +1501,7 @@
       "url": "https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188",
       "source": "lvt-rents-learning",
       "reason": "unknown domain with keyword (land value)",
-      "context": "Just for fun I asked Hugh to re-analyze the consult we had with Tyler Meredith. Super actionable feedback! It helps that the bot knows us well: <https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188|https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7[…]53f300f5188>, for those not in notion:\n```## Tyler Meredith — ",
+      "context": "Just for fun I asked Hugh to re-analyze the consult we had with Tyler Meredith. Super actionable feedback! It helps that the bot knows us well: <https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7381069a3bf53f300f5188|https://www.notion.so/ubiworks/Tyler-Meredith-Transcribe-Summarize-Notes-347caf64cc1f488e8b14a9b72547444b?source=copy_link#343a9ac7ed7[\u2026]53f300f5188>, for those not in notion:\n```## Tyler Meredith \u2014 ",
       "author": "UKQ1MQDMW",
       "queued_at": "2026-07-16T00:13:09.719456+00:00",
       "reported": false,
@@ -1532,7 +1551,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:07.077529+00:00",
       "reported": false,
-      "context": "broadandliberty - *_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/|Russell Richie:>_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/| Philadelphia’s job-killing wag",
+      "context": "broadandliberty - *_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/|Russell Richie:>_<https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/| Philadelphia\u2019s job-killing wag",
       "author": "UKTJP503G",
       "disposition": "used",
       "disposition_reason": "pennsylvania.md new Philadelphia wage-tax-alternative section (Harvard jobs estimate VERIFY-flagged)",
@@ -1544,7 +1563,7 @@
       "reason": "unknown domain with keyword (henry george)",
       "queued_at": "2026-07-16T00:13:09.722896+00:00",
       "reported": false,
-      "context": "> Elizabeth Magie created what she called “The Landlord’s Game,” which she described as “practical demonstration of the present system of land-grabbing with all its usual outcomes and consequences.”\n> \n> Her vision was based on the ideas of 19th‑century economist Henry George, who argued that govern",
+      "context": "> Elizabeth Magie created what she called \u201cThe Landlord\u2019s Game,\u201d which she described as \u201cpractical demonstration of the present system of land-grabbing with all its usual outcomes and consequences.\u201d\n> \n> Her vision was based on the ideas of 19th\u2011century economist Henry George, who argued that govern",
       "author": "UNYCKRMC6",
       "disposition": "used",
       "disposition_reason": "elizabeth-magie.md fold (search-sourced, VERIFY on date/full text)",
@@ -1578,7 +1597,7 @@
       "url": "https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web",
       "source": "commonwealth",
       "reason": "policy domain (substack.com) with keyword (lvt)",
-      "context": "Scott Santens LVT post\n\n<https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web|open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?…>",
+      "context": "Scott Santens LVT post\n\n<https://open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?utm_campaign=post-expanded-share&amp;utm_medium=web|open.substack.com/pub/scottsantens/p/land-value-tax-dividend-ubi?\u2026>",
       "author": "UKTJP503G",
       "queued_at": "2026-07-21T10:02:48.405757+00:00",
       "reported": false,
@@ -1679,7 +1698,7 @@
       "context": "You know how we have always said that if we found the right project, such as a city or municipality actually willing to implement some version of LVT, we would drop a lot of other work to make it happen?\n\nI think I may have found a plausible candidate path.\n\nI was putting together notes on the juris",
       "author": "UKD25NV0A",
       "disposition": "used",
-      "disposition_reason": "same section — RM splits base/minimum tax into land + improvement components",
+      "disposition_reason": "same section \u2014 RM splits base/minimum tax into land + improvement components",
       "consumed_at": "2026-07-26T20:03:19Z"
     },
     {
@@ -1712,7 +1731,7 @@
       "reason": "unknown domain with keyword (land value)",
       "queued_at": "2026-07-16T00:13:09.721256+00:00",
       "reported": false,
-      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n• Spokane Report &amp; Syracuse Report decks (attached PDFs)\n• Civic Mapper (by CLE) - <h",
+      "context": "Had a nice chat with Lars Doucet today with Floyd. The premise was to talk about UBI + LVT developments in South Korea, the former of which could open doors for the latter politically. He shared some resources\n\n\u2022 Spokane Report &amp; Syracuse Report decks (attached PDFs)\n\u2022 Civic Mapper (by CLE) - <h",
       "author": "UNYCKRMC6",
       "disposition": "used",
       "disposition_reason": "corrected identification: Jinsu Lee valuation-map tool, not an org; south-korea.md Georgist Civil Society paragraph",
@@ -1739,7 +1758,7 @@
       "context": "<https://tldr-archive.wealthsimple.com/archive/33-%F0%9F%AA%A4-its-a-trap-a-land-trap>\n\nWealthsimple newsletter showcases Land Trap interview with Wall St. Editor at The Economist, Mike Bird, author of <https://www.amazon.ca/Land-Trap-History-Worlds-Oldest/dp/0593719719?lid=e37u5te964w8>\n\n> This is ",
       "author": "UNYCKRMC6",
       "disposition": "used",
-      "disposition_reason": "NEW books/bird-the-land-trap.md — Mike Bird (The Economist), Portfolio/PRH Nov 2025, FT longlist; wired into finance-growth-is-land-credit",
+      "disposition_reason": "NEW books/bird-the-land-trap.md \u2014 Mike Bird (The Economist), Portfolio/PRH Nov 2025, FT longlist; wired into finance-growth-is-land-credit",
       "consumed_at": "2026-07-26T20:03:19Z"
     },
     {
@@ -1748,7 +1767,7 @@
       "reason": "unknown domain with keyword (ai)",
       "queued_at": "2026-07-16T00:13:09.724586+00:00",
       "reported": false,
-      "context": "&gt; _“Redistributing gains from the [land] tax in the form of land dividends would benefit the overwhelming majority of Koreans” -_ Young Seong-yoo et al. (<https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975|2022>) Gyeonggi R",
+      "context": "&gt; _\u201cRedistributing gains from the [land] tax in the form of land dividends would benefit the overwhelming majority of Koreans\u201d -_ Young Seong-yoo et al. (<https://gri.re.kr/web/contents/resreport.do?schM=view&amp;schPrjType=ALL&amp;schProjectNo=20220169&amp;schBookResultNo=14975|2022>) Gyeonggi R",
       "author": "UNYCKRMC6",
       "disposition": "blocked",
       "disposition_reason": "gri.re.kr 503; report/author unlocatable in EN+KR search; retry when full author name known",
@@ -1782,7 +1801,7 @@
       "url": "https://realestate.propertysharemarketeconomics.com/the-real-asset-behind-global-power-ebook/?utm_source=twitter&amp;utm_medium=post&amp;utm_campaign=ebooksignup_realassetglobalpower_philpl",
       "source": "lvt-rents-learning",
       "reason": "unknown domain with keyword (land value)",
-      "context": "Interesting comparative frame to other taxes. I could see us doing something like this too. What do other taxes actually cost vs LVT?\n&gt; Abolishing stamp duty already has strong support from the property industry lobby and economists. Every $100 million raised through stamp duty costs about $140m while land tax is much less painful at about $100m.\n\n\n## Transcription of the newspaper-image from the X post (main feature)\n\nMAIN HEADER (folded)\n• LAND HOLDS THE\n• REAL POWER\nSTANDFLOWS\n\n• Upper (le",
+      "context": "Interesting comparative frame to other taxes. I could see us doing something like this too. What do other taxes actually cost vs LVT?\n&gt; Abolishing stamp duty already has strong support from the property industry lobby and economists. Every $100 million raised through stamp duty costs about $140m while land tax is much less painful at about $100m.\n\n\n## Transcription of the newspaper-image from the X post (main feature)\n\nMAIN HEADER (folded)\n\u2022 LAND HOLDS THE\n\u2022 REAL POWER\nSTANDFLOWS\n\n\u2022 Upper (le",
       "author": "UKQ1MQDMW",
       "queued_at": "2026-07-31T10:00:31.909766+00:00",
       "reported": false,
@@ -1811,7 +1830,7 @@
       "queued_at": "2026-07-31T10:01:08.277641+00:00",
       "reported": false,
       "disposition": "duplicate",
-      "disposition_reason": "Already fully folded — exact URL is source [1] on places/washington-state.md (uniformity clause, building-exemption workaround, Vibrant Cities Act, Hill, 2027 target).",
+      "disposition_reason": "Already fully folded \u2014 exact URL is source [1] on places/washington-state.md (uniformity clause, building-exemption workaround, Vibrant Cities Act, Hill, 2027 target).",
       "consumed_at": "2026-07-31T11:06:47.335830+00:00"
     },
     {
@@ -1823,7 +1842,7 @@
       "queued_at": "2026-08-01T10:00:08.010886+00:00",
       "reported": false,
       "disposition": "reject",
-      "disposition_reason": "AI chatbot app ('Historacle — Chat with Historical Figures', HGSSS Henry George persona) — not a citable source, no evidence or literature to mine (2026-08-01 wave; deterministic dedup caught 3/4, T0 step skipped: single remaining item settled by direct fetch)"
+      "disposition_reason": "AI chatbot app ('Historacle \u2014 Chat with Historical Figures', HGSSS Henry George persona) \u2014 not a citable source, no evidence or literature to mine (2026-08-01 wave; deterministic dedup caught 3/4, T0 step skipped: single remaining item settled by direct fetch)"
     },
     {
       "url": "http://progress.org",
@@ -1878,9 +1897,9 @@
       "queued_at": "2026-08-06T10:00:50.780181+00:00",
       "reported": false,
       "disposition": "reject",
-      "disposition_reason": "MoneyWeek explainer: near-total overlap with concepts/land-value-tax, research/tpa-what-would-lvt-do, people/milton-friedman, people/david-lloyd-george. T1 OVERRIDE of the T0 brief's enrich:people/andy-burnham — its sole delta ('aspirational socialism' framing of Burnham's 2010 LVT position) could not be traced to any primary 2010 source, so citing a 2026 consumer-finance explainer for a 16-year-old quote would compound the page's existing unverified-quote problem rather than fix it. Routed instead as a fact-check: the underlying Guardian 2010 primary is now a RETRYABLE row on the Hermes work order. (2026-08-05 wave 10; T0 briefs: sources/context-briefs/2026-08-05.json)"
+      "disposition_reason": "MoneyWeek explainer: near-total overlap with concepts/land-value-tax, research/tpa-what-would-lvt-do, people/milton-friedman, people/david-lloyd-george. T1 OVERRIDE of the T0 brief's enrich:people/andy-burnham \u2014 its sole delta ('aspirational socialism' framing of Burnham's 2010 LVT position) could not be traced to any primary 2010 source, so citing a 2026 consumer-finance explainer for a 16-year-old quote would compound the page's existing unverified-quote problem rather than fix it. Routed instead as a fact-check: the underlying Guardian 2010 primary is now a RETRYABLE row on the Hermes work order. (2026-08-05 wave 10; T0 briefs: sources/context-briefs/2026-08-05.json)"
     }
   ],
   "total": 2,
-  "last_updated": "2026-08-12T10:02:26Z"
+  "last_updated": "2026-08-13T10:03:09Z"
 }
