@@ -100,6 +100,20 @@ mechanically depresses both labor's and capital's share of a economy increasingl
 high-markup, high-profit firms, and weakens the entry and reallocation dynamics associated with
 vigorous competition.
 
+**International evidence: the United Kingdom.** The pattern is not US-only. A Bank of England
+staff working paper — Aquilante, Chowla, Dacic, **Haldane** (then the Bank's Chief Economist),
+Masolo, Schneider, Seneca & Tatomir, "Market power and monetary policy" (SWP 798, May 2019) —
+finds that UK firm-level markups have risen noticeably, **concentrated among top-performing
+firms rather than reflecting a broad rise in market concentration**, with globally-oriented
+firms driving the increase more than domestic ones — the same tail-driven shape De Loecker,
+Eeckhout & Unger document for the US. The BoE paper's own focus is monetary policy: greater
+pricing power steepens the Phillips curve, and while rising markups may increase inflation
+variability, secular markup growth can enhance a central bank's ability to stabilise inflation
+without large output movements; it also notes higher markups correlate with reduced firm-level
+investment at the extremes. For this wiki's purposes its value is as a **non-advocacy,
+central-bank confirmation** that the concentrated markup rise appears in a second economy on
+independent data (B-claim; landing-page summary read directly, not a full-text scan).[9]
+
 ## Relation to the Georgist Case
 
 Georgist analysis is built on a specific claim: that a persistent, growing share of national
@@ -311,6 +325,15 @@ have roughly tripled since 1980" as settled fact.
 8. [Wiki: Autor, Dorn, Katz, Patterson & Van Reenen — superstar firms](/wiki/autor-superstar-firms/) —
    internal navigation only (not used as external evidentiary support); records the direct rival
    efficiency-side reading of the same firm-concentration pattern.
+
+9. Tommaso Aquilante, Shiv Chowla, Nikola Dacic, Andrew Haldane, Riccardo Masolo, Patrick
+   Schneider, Martin Seneca & Srdan Tatomir (2019), "Market power and monetary policy," Bank of
+   England Staff Working Paper No. 798 (3 May 2019).
+   [bankofengland.co.uk](https://www.bankofengland.co.uk/working-paper/2019/market-power-and-monetary-policy) —
+   used for the UK companion evidence: rising, top-firm-concentrated UK markups without a broad
+   concentration trend, the globally-oriented-firms finding, the Phillips-curve and
+   inflation-stabilisation implications, and the markup–investment correlation (landing-page
+   summary fetched and read 2026-08-14; not a full-text scan, B-claims only).
 
 The **2017 NBER working paper** (source 1) and the **authors' final copy of the published 2020
 QJE version** (janeeckhout.com, dated November 15, 2019) have both been fetched and read

@@ -66,6 +66,25 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   page-level or section-level claim from the full report is made — only the project page's
   own two direct quotations above.
 
+- **Tax increment financing in practice: San Antonio's TIRZ system (2026).** For a
+  ground-level picture of how TIF actually operates — and where it drifts from the
+  value-capture ideal — the *San Antonio Report*'s explainer on Texas's **Tax Increment
+  Reinvestment Zones** (TIRZ) is instructive. San Antonio has nine zones (five downtown)
+  in which growth in property-tax value above a frozen base is redirected from citywide
+  coffers to improvements within the zone; in fiscal 2025 roughly **$45 million — about 5%
+  of the city's $819 million in levied property tax — was captured in TIRZes**, and 14% of
+  a $160 million minor-league ballpark is slated to be funded through the Houston Street
+  TIRZ. The piece airs a structural critique from property-law scholar Heather Way (UT
+  Austin): because a wealthier area generates more increment, TIRZ revenue "is being
+  captured within the TIRZ and is not going to fund other parts of the city," and zones
+  originally justified as short-term (typical 20-year sunset) have been extended decades
+  past their end dates, becoming standing authorities spending what "otherwise should be
+  going to the general fund." Transparency is thin — one major zone's board went two years
+  without meeting, and minutes are available only on written request. The Georgist reading:
+  TIF captures publicly created increments, but *where the captured value goes* is a
+  distributional design choice — a zone-bound TIF can entrench geographic inequality in a
+  way a citywide land value tax cannot.[7]
+
 ## Book Findings
 
 ### Howard: Garden City as LVT Application
@@ -112,3 +131,4 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 4. Greg Miller, "Don't Reject Data Centers. Negotiate Harder.", *Progress and Poverty* (Substack), 6 May 2026. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/dont-reject-data-centers-negotiate) — used for the Loudoun County (VA) and Columbus (OH) data-center tax-revenue and abatement figures (B-claim, advocacy-institute source).
 5. Juliette Maulat & Natacha Aveline-Dubach, "Shifting land value capture instruments for the Grand Paris Express metro," *Land Use Policy* 161 (2026): 107854. [DOI](https://doi.org/10.1016/j.landusepol.2025.107854) — used for the Grand Paris Express case (B-claim, full bilingual abstract read via [CORE.ac.uk's mirror of the HAL repository record](https://api.core.ac.uk/v3/search/works/?q=doi:10.1016/j.landusepol.2025.107854), fetched 2026-08-10; the ScienceDirect and HAL full-text pages themselves remain bot-blocked).
 6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument, now with two direct quotations from the project page's own summary, fetched successfully 2026-08-10 (D-claim; the full report PDF remains bot-blocked, so quotation is limited to what the project page itself reproduces).
+7. Shari Biediger, "TIRZ explained: It's how SA will fund the new ballpark, Spurs arena," *San Antonio Report*, August 2026. [sanantonioreport.org](https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/) — article fetched and read 2026-08-14; used for the nine-zone count, the FY2025 $45M/~5%-of-$819M capture figures (attributed in the article to city CFO Troy Elliott), the ballpark financing shares, the Heather Way quotations and sunset-extension critique, and the board-meeting/minutes transparency details (B-claims; local journalism, quoted figures are the article's own).

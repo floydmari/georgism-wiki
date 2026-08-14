@@ -52,6 +52,7 @@ The paper is the strongest experimental complement to [Brockmeyer et al.'s Mexic
 
 ## See Also
 
+- [Tourek et al. (2026): Does Progressivity Raise Tax Capacity?](/wiki/tourek-drc-progressive-property-tax/) — the same team's follow-on experiment randomizing the *shape* of the schedule (progressive vs. proportional) rather than the rate level
 - [Higher property-tax rates raise welfare in developing countries](/wiki/property-tax-raises-welfare-developing/)
 - [Brockmeyer et al., Taxing Property in Developing Countries](/wiki/brockmeyer-property-tax-developing/)
 - [Property Tax in Africa (Franzsen & McCluskey)](/wiki/franzsen-mccluskey-property-tax-africa/)
