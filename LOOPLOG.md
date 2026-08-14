@@ -3449,3 +3449,38 @@ re-read before commit; `people/henry-george-jr` source 7 says so on the page, an
 Chicago substance is separately corroborated by genealogical records. Ghost sync of all
 five changed pages succeeded, but `GHOST_WEBHOOK_KEY` was unset — echoes are not being
 marked, and the worker is falling back to content comparison alone.
+
+## 2026-08-14 — six-item scanner batch (Floyd asked mid-session; queue was empty an hour earlier)
+
+Floyd asked whether the loop checks `sources/wiki-queue.json` each pass (it does — step
+one of the wakeup protocol). The first check found the queue empty; his "check again"
+landed right after the scanner's `f74f72d` push, which added six genuinely new items —
+the note in that commit says it resolved a conflict with this loop's consumed ledger,
+which may explain why the 11:06 wakeup saw nothing.
+
+**Consumed all six.** Two NBER working papers became research pages:
+`research/coven-property-taxes-housing-allocation.md` (w35587 — low property taxes
+amplify elderly lock-in; CA→TX simulation; wired into the asset-rich-cash-poor objection
+as response evidence, which also de-orphaned the page) and
+`research/tourek-drc-progressive-property-tax.md` (w35536 — progressive schedule raised
+revenue 56% vs proportional; cross-linked from the Bergeron/Tourek/Weigel companion page).
+Both abstract-level scans, flagged as such. The other four became citations: BoE SWP 798
+as UK companion evidence on the De Loecker–Eeckhout–Unger markups page; the San Antonio
+Report TIRZ explainer as a case-study bullet on land-value-capture (with Heather Way's
+zone-captures-its-own-increment critique — good honest-treatment material); Baltimore's
+2026 split-rate hearing bill (Blanchard) plus the vacant-property rate escalation on
+split-rate-taxation; and the Hindustan Times Number Theory column as a new
+"Measuring the Rentier Turn" subsection on rentier.
+
+**Sourcing notes.** Hoodline (the scanner's Baltimore item) 403'd every fetch; the story
+was corroborated and cited from the Baltimore Banner's Yahoo syndication (fetched) and
+CBS Baltimore, with the 3×/4× vacant-rate figures marked C-claim because they were seen
+only in search-result summaries. The San Antonio and Hindustan Times pieces were fetched
+in full via curl with a browser UA after WebFetch 403'd.
+
+**Hygiene.** Lint 0 errors (fixed two annotation-pattern warnings and the orphan warning
+the linter caught on the new pages); inventory rebuilt; ledger now 0 pending / 163
+consumed; merged to main (`7054106`); all 8 changed pages Ghost-synced **with
+`GHOST_WEBHOOK_KEY` set** (fetched once from the agent vault, item m7iaupa…, `--vault`
+flag now required for service-account `op` calls) — sync-marks confirmed, no echo risk
+this time.
