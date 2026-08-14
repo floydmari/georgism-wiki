@@ -231,7 +231,7 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-08-12: 14 of 29 marker(s) not yet routed by hand (25 page(s) already curated above).*
+*Regenerated 2026-08-14: 14 of 29 marker(s) not yet routed by hand (25 page(s) already curated above).*
 
 ### needs-unblocked-web (proxy allowlist or manual fetch) (14)
 

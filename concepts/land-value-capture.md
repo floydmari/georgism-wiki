@@ -79,8 +79,11 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   captured within the TIRZ and is not going to fund other parts of the city," and zones
   originally justified as short-term (typical 20-year sunset) have been extended decades
   past their end dates, becoming standing authorities spending what "otherwise should be
-  going to the general fund." Transparency is thin — one major zone's board went two years
-  without meeting, and minutes are available only on written request. The Georgist reading:
+  going to the general fund." Transparency is thin: the Houston Street TIRZ board — the very
+  zone underwriting the ballpark — had not met in the current year at the time of writing and
+  did not meet the year before either, having gathered twice the year prior to that; and while
+  the Texas Open Meetings Act requires agendas to be posted, it does not require minutes or
+  recordings, which the city makes available only on written request after board approval. The Georgist reading:
   TIF captures publicly created increments, but *where the captured value goes* is a
   distributional design choice — a zone-bound TIF can entrench geographic inequality in a
   way a citywide land value tax cannot.[7]

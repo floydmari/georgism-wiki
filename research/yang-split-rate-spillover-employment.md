@@ -6,7 +6,7 @@ excerpt: A spatial panel study finds Pennsylvania split-rate taxation slows job
   growth in close neighboring towns (5-10 miles) but speeds it in more distant
   ones (15-20 miles), a zero-sum-near, win-win-far pattern, with no measurable
   employment effect where the tax itself is adopted.
-last_reviewed: 2026-08-10
+last_reviewed: 2026-08-14
 source_url: https://doi.org/10.1007/s11146-024-09995-y
 stub: false
 subcategory: wiki-research-lvt
@@ -139,10 +139,30 @@ jurisdiction, cannot see.
   "Pennsylvania... 1980–2010," matching the working paper, but this could not be
   confirmed against the actual publisher-hosted abstract text and may simply be
   search engines echoing the working paper via secondary citations — not treated
-  as independent confirmation. **[VERIFY: confirm whether the published 2024
-  version updates the 1980–2010 sample period or coefficient magnitudes
-  reported in the 2015 working paper — needs-unblocked-web, a proxy or
-  institutional-access channel this environment lacks.]**
+  as independent confirmation.
+  **Attempted again (2026-08-14), wider channel sweep, same result:**
+  (1) Semantic Scholar API, both a title search and a direct DOI lookup —
+  `abstract` field null both times. (2) Crossref API, bibliographic search and
+  direct `/works/10.1007/s11146-024-09995-y` record — no `abstract` field in
+  either response. (3) OpenAlex API — `abstract_inverted_index` null, record
+  flagged closed access. (4) SpringerLink's article page, fetched directly and
+  via `curl` with a browser user-agent string — both returned the identical bot
+  "Client Challenge" JavaScript wall, no article content. (5) Internet Archive
+  Wayback Machine `/wayback/available` check for the SpringerLink URL — no
+  archived snapshot exists. (6) ResearchGate's Zhou Yang contributions page —
+  HTTP 403 Forbidden. (7) IDEAS/RePEc — its single indexed "Zhou Yang" author
+  profile belongs to a different economist (Virginia Tech, a 2006 discrete-games
+  working paper), not this paper's author (Robert Morris University), and the
+  paper does not surface in the JREFE journal-listing searches tried. (8) Google
+  Scholar and general web search — return only a search-engine-synthesized
+  summary repeating the "Pennsylvania... 1980–2010" phrasing already noted
+  above, not publisher-sourced abstract text; not treated as independent
+  confirmation for the same reason as 2026-08-10. No channel tried across either
+  session produced independently readable published-abstract text.
+  **[VERIFY: confirm whether the published 2024 version updates the 1980–2010
+  sample period or coefficient magnitudes reported in the 2015 working paper —
+  needs-unblocked-web, a proxy or institutional-access channel this environment
+  lacks.]**
 - **Pennsylvania-only external validity**, as with the rest of the wiki's
   split-rate evidence base — few other US states have enough adopting
   municipalities for this kind of spatial analysis.
@@ -178,7 +198,11 @@ jurisdiction, cannot see.
    Affect Your Neighbors' Job Growth?" *The Journal of Real Estate Finance and
    Economics*, online 5 September 2024. [Publisher/DOI](https://doi.org/10.1007/s11146-024-09995-y)
    (paywalled) — used for the published citation and confirmation this is the
-   peer-reviewed version of the working paper below.
+   peer-reviewed version of the working paper below. Its abstract remains
+   unread as of 2026-08-14 despite an eight-channel attempt (Semantic Scholar,
+   Crossref, OpenAlex, direct SpringerLink fetch, Wayback Machine, ResearchGate,
+   IDEAS/RePEc, Google Scholar — see the Nuances and Limits section); the
+   sample-period/coefficient-update question stays an open `[VERIFY]`.
 2. Zhou Yang (2015), "The Spillover Effects of the Two-Rate Property Taxes in
    Pennsylvania: A Zero-Sum Game or a Win-Win Game?" Lincoln Institute of Land
    Policy Working Paper WP15ZY1. [Free PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/2502_1846_Yang%20WP15ZY1.pdf)

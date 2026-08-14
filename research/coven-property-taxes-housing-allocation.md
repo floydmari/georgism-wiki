@@ -42,7 +42,7 @@ In the paper's overlapping-generations model, raising California's property-tax 
 
 ## Relation to the Georgist Case
 
-This is the intergenerational-allocation version of a core Georgist argument: **a low holding cost on valuable locations subsidizes incumbency and idle or under-intensive use, and a recurring levy on that value prices the location to its highest-value user.** The paper's California-vs-Texas contrast is, in substance, a study of [Proposition 13](/wiki/san-francisco/)-style tax suppression: California's capped assessments are the canonical modern case of lock-in, long noted on this wiki's [San Francisco](/wiki/san-francisco/) and [Silicon Valley](/wiki/silicon-valley/) pages, and the paper supplies a formal mechanism and quantified simulation for what those caps do to who gets to live in the housing stock.
+This is the intergenerational-allocation version of a core Georgist argument: **a low holding cost on valuable locations subsidizes incumbency and idle or under-intensive use, and a recurring levy on that value prices the location to its highest-value user.** The paper's California-vs-Texas contrast is, in substance, a study of [Proposition 13](/wiki/proposition-13/)-style tax suppression: California's capped assessments are the canonical modern case of lock-in, long noted on this wiki's [San Francisco](/wiki/san-francisco/) and [Silicon Valley](/wiki/silicon-valley/) pages, and the paper supplies a formal mechanism and quantified simulation for what those caps do to who gets to live in the housing stock.
 
 It also cuts directly into the ["asset-rich, cash-poor" objection](/wiki/lvt-hurts-asset-rich-cash-poor/). That objection frames the elderly owner facing a land-value tax as the sympathetic victim; this paper makes the distributional flip side explicit — the *absence* of a holding cost is itself a transfer, from young families priced out by higher upfront costs to incumbent owners whose tenure is subsidized. The Georgist reply to the objection (deferral converts the annual bill into a lien settled at sale) is compatible with both: deferral preserves the price-capitalization benefit to young buyers while removing the forced-move hardship.
 
@@ -57,6 +57,7 @@ Two honest limits. First, the paper studies the conventional **property tax**, w
 ## See Also
 
 - [Cabral & Hoxby: The Hated Property Tax](/wiki/cabral-hoxby-hated-property-tax/) — why salient recurring property taxes are politically disfavored despite their efficiency properties
+- [Proposition 13](/wiki/proposition-13/) — the California assessment cap whose lock-in effect this paper models
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Objection: LVT hurts the 'asset-rich, cash-poor'](/wiki/lvt-hurts-asset-rich-cash-poor/)
 
