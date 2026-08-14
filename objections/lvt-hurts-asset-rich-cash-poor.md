@@ -33,7 +33,7 @@ The asset-rich/cash-poor case is a **design consideration** — with a genuinely
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - **Steelman evidence:** [Pigou (1920)](/wiki/pigou-land-taxation/) — the classical statement that a heavy site-value tax's capitalized burden lands unfairly on current owners · [CWC distributional impacts of LVT](/wiki/cwc-distributional-impacts-lvt/) — the concrete land-rich, income-poor case: retired homeowners are hit hardest, with modelled income declines up to ~43% before offsets · [England & Zhao](/wiki/england-zhao-lvt-distribution/) — an LVT can be regressive relative to *current* income, the pattern this objection describes
-- **Response evidence:** [Plummer (2010)](/wiki/plummer-lvt-distribution/) — residential tax liability falls ~30% on average regardless of household income, evidence against the strongest form of the objection · [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) — incidence turns on a parcel's land-share, not the owner's income
+- **Response evidence:** [Plummer (2010)](/wiki/plummer-lvt-distribution/) — residential tax liability falls ~30% on average regardless of household income, evidence against the strongest form of the objection · [Bowman & Bell (2008)](/wiki/bowman-bell-lvt-distribution/) — incidence turns on a parcel's land-share, not the owner's income · [Coven, Golder, Gupta & Ndiaye (2026)](/wiki/coven-property-taxes-housing-allocation/) — the other side of the ledger: low holding taxes amplify elderly lock-in and limit young families' access to housing, so exempting the "little old lady" is itself a transfer with identifiable losers
 
 ## Sources
 
