@@ -234,6 +234,9 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
   — a 1965 companion piece extending rent theory to exhaustible soil fertility,
   which cites this monograph directly for "the writer's position" on financial
   maturity and replacement policy
+- [Article 33 Indonesia: Economic Rent of Forest Resources Extraction](/wiki/article33-indonesia-forest-rent/)
+  — a contemporary empirical case study in the same resource (timber) of how state
+  levies can fail to capture the rent this monograph's theory identifies
 - [Resource Rents](/wiki/resource-rents/)
 - [ATCOR](/wiki/atcor/) — the general land-value-tax-neutrality thesis this
   monograph derives independently for a time-allocation problem

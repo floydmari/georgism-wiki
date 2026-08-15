@@ -59,6 +59,7 @@ Conyngton's own verdict is also more measured than the boom statistics alone sug
 - [Oates & Schwab: The Impact of Urban Land Taxation (Pittsburgh)](/wiki/oates-schwab-pittsburgh/)
 - [New York City](/wiki/new-york-city/)
 - [Henry George](/wiki/henry-george/)
+- [Baldomero-Quintana & Singh (2026): NYC Property Tax Incentives and Residential Investment](/wiki/baldomero-quintana-singh-nyc-tax-reform/) — the modern (2006/2008 reform) counterpart to this 1920s NYC case
 
 ## Sources
 

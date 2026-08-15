@@ -60,6 +60,7 @@ The book should **not** be read as evidence that raising rates increases welfare
 - [World Bank, Determinants of Property Tax Revenue](/wiki/world-bank-property-tax-determinants/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/)
+- [Sistemas del impuesto predial en América Latina y el Caribe (2nd ed.)](/wiki/lincoln-institute-latam-property-tax-book/) — the Lincoln Institute's regional-survey counterpart for Latin America and the Caribbean
 
 ## Sources
 

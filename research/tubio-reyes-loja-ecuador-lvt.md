@@ -40,6 +40,7 @@ The paper is a **nuanced supporter** of the [housing-affordability outcome](/wik
 - [Oates (1969), the founding capitalization study](/wiki/oates-1969-capitalization/)
 - [Saiz (2010): the geographic determinants of housing supply](/wiki/saiz-housing-supply-elasticity/)
 - [Land Taxes and Housing Prices (Danish Economic Councils)](/wiki/dors-land-taxes-housing-prices/)
+- [Sistemas del impuesto predial en América Latina y el Caribe (2nd ed.)](/wiki/lincoln-institute-latam-property-tax-book/) — the regional property-tax survey covering Ecuador and 12 other Latin American/Caribbean countries
 
 ## Sources
 

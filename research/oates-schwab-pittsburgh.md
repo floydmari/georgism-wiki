@@ -51,6 +51,7 @@ Oates and Schwab are careful not to claim the tax was the sole cause: Pittsburgh
 ## Bears On
 
 - **Outcome:** [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/)
+- **Research:** [Baldomero-Quintana & Singh (2026): NYC Property Tax Incentives and Residential Investment](/wiki/baldomero-quintana-singh-nyc-tax-reform/) — a modern natural-experiment analogue in a different city, same underlying construction-response mechanism
 
 ## Sources
 

@@ -3484,3 +3484,67 @@ consumed; merged to main (`7054106`); all 8 changed pages Ghost-synced **with
 `GHOST_WEBHOOK_KEY` set** (fetched once from the agent vault, item m7iaupa…, `--vault`
 flag now required for service-account `op` calls) — sync-marks confirmed, no echo risk
 this time.
+
+## 2026-08-14 — 14-item scanner batch (T0/T1 pipeline, full run)
+
+First full run of the T0-brief pipeline (LOOP.md's "T0 brief step") since it was
+documented: built the corpus digest, spawned one Sonnet T0 agent over all 14 fresh items
+with the digest + repo access, and disposed each item against its brief rather than
+starting research from scratch. The T0 agent flagged two India mining-royalty items
+(theprint.in, thebarbulletin.com) as the same story before I'd read either — a genuine
+save, since without that flag they'd likely have become two overlapping pages.
+
+**Dispositions: 7 new pages, 3 enrichments, 1 duplicate-merge, 3 rejects.**
+
+New pages: `research/henry-george-foundation-hybrid-lvt-proposal.md` (HGF UK's hybrid
+land-value-plus-statutory-building-charge critique of the existing TPA/Neidle model —
+cross-linked both directions), `research/baldomero-quintana-singh-nyc-tax-reform.md`
+(NYC's 2006/2008 tax-exemption reform, 10,735 excess housing starts short-run + a large
+long-run construction effect), `research/australia-mining-royalties-prrt.md` (state
+ad-valorem royalties vs. the federal 40%-profit PRRT, and the MRRT's royalty-crediting
+design flaw as a cautionary case), `events/2024-india-mineral-royalty-tax-ruling.md` (the
+9-judge Supreme Court "royalty is/isn't a tax" split, Nagarathna's lone dissent, and the
+2026 amendment that codified it — built from both flagged-duplicate sources),
+`research/article33-indonesia-forest-rent.md` (a rent-capture-failure case study: a levy
+literally named "Forest Resource Rent Provision" still leaking rent through uncosted
+externalities, informal fees, and stale valuation formulas), and two Lincoln Institute
+pieces — `research/lincoln-institute-past-forward-property-tax-history.md` (Amsterdam's
+frontage/window taxes as physical history) and
+`research/lincoln-institute-latam-property-tax-book.md` (13-country LatAm/Caribbean
+property-tax survey, revenue stuck at ~0.35–0.41% of GDP for two decades vs. >1% OECD).
+
+Enrichments: `research/murphy-seegert-implicit-land-taxes.md` was a genuine gap — the
+existing page cited only the 2023 Maxwell working paper as a one-paragraph stub; the same
+paper is now published in the *Journal of Public Economics*, so this became a real rewrite
+with the actual abstract (parcel-level assessor-vs-hedonic methodology, the density/
+business/earnings growth findings) rather than a citation bump.
+`narratives/unearned-increment-narrative.md` got a short, clearly-flagged-as-opinion
+subsection on the Stevenson/Neidle/George reception-gap parallel.
+`objections/planning-restrictions-cause-high-prices.md` got Wiebe's zoning-vs-upzoning
+land-value distinction as Response point 4.
+
+Rejects: the CEPR tariff-incidence paper (out of EDITORIAL §0's rent-domain scope — trade
+economics, not a rent-capture instrument); the Michael Hudson essay (michael-hudson.com
+serves its own CAPTCHA/sgcaptcha gate — zero content past a redirect stub on two fetch
+methods; not drafted from a title alone given 4 existing Hudson pages already cover this
+ground); and the China land-requisition Springer paper (Semantic Scholar returned the
+title/authors/venue but the abstract field itself is publisher-elided — `"status":
+"CLOSED"`, `abstract: null` — too thin to write from). None of the three blocked/rejected
+items were left in the pending queue, since that would just resurrect them against the
+same block every wave; noted as retry candidates for a session with different network
+access or institutional credentials.
+
+**Orphan lesson.** All 7 new pages briefly lint-flagged as orphans in two separate
+passes — the "Bears On"/"See Also" links I'd written all pointed *out* from the new page,
+which does nothing for its own discoverability; the delta-rule habit of editing existing
+pages made it easy to forget the new page also needs *inbound* links from ≥2 existing
+pages (LOOP.md's own stated convention). Fixed by adding reciprocal links on
+`concepts/resource-rents.md`, `organizations/lincoln-institute.md`,
+`research/mintz-chen-capturing-resource-rents.md`, `research/oates-schwab-pittsburgh.md`,
+`research/nyc-1920s-tax-exemption.md`, `research/franzsen-mccluskey-property-tax-africa.md`,
+`research/tubio-reyes-loja-ecuador-lvt.md`, and `concepts/split-rate-taxation.md`. One
+edit (`research/gaffney-financial-maturity-timber.md`) initially split a sentence across
+two bullets when the new bullet was inserted mid-list-item — caught before commit by
+re-reading the file, not by lint (lint doesn't parse prose continuity).
+
+Lint 0 errors throughout. Queue ledger: 0 pending, 177 consumed.

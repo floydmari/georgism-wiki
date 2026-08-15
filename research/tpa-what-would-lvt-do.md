@@ -165,6 +165,9 @@ do to specific households — not as a peer-reviewed incidence estimate.
   the deferral and transitional-relief remedies Neidle independently arrives at
 - [Contra Watling on "The Failure of the Land Value Tax"](/wiki/watling-doucet-lvt-failure-exchange/) —
   the parallel debate over the same historical implementation failures Neidle cites as caution
+- [Henry George Foundation (UK): A Hybrid LVT Response to This Model](/wiki/henry-george-foundation-hybrid-lvt-proposal/) —
+  a Georgist advocacy organization's critical response, proposing a hybrid land-value/
+  statutory-building-charge design as an alternative to this report's pure-LVT model
 - [United Kingdom](/wiki/united-kingdom/) — the 1909 People's Budget and the wider UK land-tax
   record this proposal sits within
 - [Institute for Fiscal Studies](/wiki/institute-for-fiscal-studies/) — the mainstream UK

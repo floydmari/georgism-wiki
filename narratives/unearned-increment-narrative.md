@@ -8,7 +8,7 @@ narrative_type: moral
 supported_by: [public-investment-capitalizes-into-land, capital-share-rise-is-land, land-value-tax-can-be-progressive]
 related_people: [john-stuart-mill, henry-george, joseph-stiglitz, ebenezer-howard]
 related_places: [taiwan, denmark]
-last_reviewed: 2026-07-03
+last_reviewed: 2026-08-14
 ---
 
 *This page covers the persuasive career of the unearned-increment argument. For the
@@ -178,6 +178,27 @@ values — is among the better-evidenced propositions in the wiki:
   the community retaining the ground-rent increase its own growth created — the
   narrative implemented voluntarily at town scale.
 
+## A 2026 Echo: The Reception Gap Between Wealth Taxes and Land Taxes
+
+A minor but pointed contemporary data point on how differently the unearned-increment
+argument is received depending on its target. In mid-2026, economist and commentator
+**Gary Stevenson** proposed an annual wealth tax of 2% on individual wealth over £10
+million, which he argued would raise roughly £24 billion; the proposal drew sharp
+pushback, including from tax lawyer **Dan Neidle**, who urged Stevenson to "separate
+[his] emotional reaction to inequality from a rational assessment" and called the plan
+"populist claptrap" — while pointing Stevenson toward a land value tax instead.[11]
+Commentator Liam McNulty drew the historical parallel directly: George himself was
+labelled "a quack" and worse by the London press during his 1884–85 speaking tour, and
+the intensity of establishment resistance to a broad-based wealth tax today echoes the
+resistance land reformers faced over a century ago — even as land value taxation
+specifically has gained mainstream traction, up to and including [Prime Minister Andy
+Burnham's](/wiki/andy-burnham/) 2026 campaign advocacy.[11] The episode is a useful
+illustration for **How to Deploy It** below: land value taxation's Ricardian logic (it
+targets a fixed, non-produced factor, so it distorts no production decision) appears to
+draw less reflexive hostility than a broad wealth tax that reaches produced capital —
+though this is one commentator's reading of one news cycle, not a systematic finding, and
+should be presented as such.
+
 ## How to Deploy It
 
 - **Audience.** The broadest-reach moral framing in the Georgist repertoire: it needs
@@ -267,3 +288,11 @@ values — is among the better-evidenced propositions in the wiki:
    objection to this narrative (that unearned-increment capture logically implies
    compensating unearned-decrement losses), which this page defers to the dedicated
    objection page rather than answering in-line.
+
+11. Liam McNulty, "Gary Stevenson, Henry George and taxes on land" (Substack, 2026).
+   [lmcnulty.substack.com](https://lmcnulty.substack.com/p/gary-stevenson-henry-george-and-taxes) —
+   article fetched and read 2026-08-14; used for the Stevenson 2%/£10m wealth-tax proposal
+   and its £24bn estimate, Dan Neidle's "populist claptrap"/rational-assessment quotes and
+   his pointing Stevenson toward LVT instead, and the George 1884–85 hostile-press parallel
+   ("a quack"). Independent political-opinion commentary, not peer-reviewed (D-claim); the
+   Andy Burnham cross-reference is independently sourced on [that page](/wiki/andy-burnham/).

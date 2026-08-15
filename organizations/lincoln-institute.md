@@ -33,6 +33,7 @@ For a wiki organised around evidence, the Lincoln Institute matters because so m
 - [Pennsylvania](/wiki/pennsylvania/) — the split-rate "natural laboratory" much of the Institute's PA-focused research covers
 - [Council of Georgist Organizations](/wiki/council-of-georgist-organizations/) · [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) — the movement's advocacy/education organizations, distinct from the Institute's research role
 - [Land Value Tax](/wiki/land-value-tax/) · [Henry George](/wiki/henry-george/)
+- [Past Forward: Tracing the Property Tax Through Time and Place](/wiki/lincoln-institute-past-forward-property-tax-history/) — a *Land Lines* interview on historical property-tax design's physical traces on the built environment
 
 ## Sources
 
