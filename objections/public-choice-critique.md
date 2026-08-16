@@ -2,7 +2,7 @@
 category: objections
 excerpt: 'The Buchanan–Tullock objection: Georgists apply optimistic assumptions to
   government and pessimistic ones to markets.'
-last_reviewed: 2026-07-17
+last_reviewed: 2026-08-16
 status: 'Open and partly conceded — the symmetry argument is valid (LVT faces public-choice
   failure like any tax), but it is not disqualifying: LVT''s base is unusually transparent
   and hard to game, and Buchanan''s own rent-seeking analysis endorses a flat distribution
@@ -96,7 +96,18 @@ homes**) show that even routine property valuation is neither neutral nor unifor
 accurate, and the errors track political and economic power. Special carve-outs,
 use-value assessment for favored classes (farmland, "agricultural" estates near cities),
 and abatements handed to mobile employers are ordinary features of real tax codes, not
-aberrations. The transitional-gains logic is visible wherever a licensed rent —
+aberrations. A live example, from a commentator who otherwise accepts the underlying
+economics: **Tim Worstall** argues UK business rates — "the closest thing we've got to an
+LVT" — already show carve-out politics eroding a land-adjacent base through entirely legal
+means rather than corruption, pointing to a 2026 relief scheme offering pubs a 20%
+discount while singling out vape shops as businesses that "do not make a positive
+contribution to communities." Worstall's own concession matters as much as his
+example: "taxing the value of land cannot reduce the supply of land," since "land does
+not stop existing because it has been taxed" — the efficiency case is sound. His claim is
+narrower and more damaging to real-world implementation than a rejection of the theory:
+once a legislature starts taxing land differently by *use* rather than by *value*, "an LVT
+with deadweights is not, in fact, an LVT" — the ordinary, non-corrupt operation of
+democratic politics reintroduces exactly the distortion the tax was designed to avoid.[10] The transitional-gains logic is visible wherever a licensed rent —
 [taxi medallions](/wiki/tullock-transitional-gains-trap/), sugar quotas, grazing rights —
 has proven politically immortal despite obvious inefficiency. And the Leviathan concern
 is grounded in the plain fact that governments given a productive new revenue source have
@@ -296,3 +307,11 @@ stands.
    to Public Choice Analysis," *American Journal of Economics and Sociology* 57(2), 1998,
    pp. 173–182. [JSTOR](https://www.jstor.org/stable/3487491) — paywalled; used only for
    its abstract-level thesis, explicitly flagged as verified no further than the abstract.
+10. Tim Worstall, "A British Land Value Tax Would Be An Abject Failure" (Substack, 2026).
+   [timworstall.substack.com](https://timworstall.substack.com/p/a-british-land-value-tax-would-be) —
+   article fetched and read 2026-08-16; used for the "cannot reduce the supply of land"/
+   "does not stop existing because it has been taxed" concession, the 2026 UK business-rates
+   pub-discount/vape-shop example, and the "An LVT with deadweights is not, in fact, an LVT"
+   conclusion (D-claim; independent commentary, not peer-reviewed, cited as a concrete
+   illustrative case for the carve-out mechanism this section already treats as a live
+   worry).

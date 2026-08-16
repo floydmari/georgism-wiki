@@ -63,6 +63,7 @@ The paper's rent-neutrality claim carries the standard caveats of rent-tax theor
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Henry George](/wiki/henry-george/)
 - [Mineral Area Development Authority v. Steel Authority of India (2024)](/wiki/2024-india-mineral-royalty-tax-ruling/) — a live tax-vs-consideration classification dispute over mining royalty, with a multi-level-coordination failure mode this typology predicts
+- [New Zealand Minerals Royalty Regime Review (Deloitte, 2026)](/wiki/nz-minerals-royalty-regime-review/) — a first-since-2012 government review finding legacy permits still dominate current royalty revenue
 
 ## Sources
 

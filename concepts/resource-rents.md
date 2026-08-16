@@ -261,6 +261,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Australia's Mining Tax System: State Royalties, the PRRT, and the Failed MRRT](/wiki/australia-mining-royalties-prrt/) — a live case study contrasting a revenue royalty against a genuine profits-based rent tax
 - [Article 33 Indonesia: Economic Rent of Forest Resources Extraction](/wiki/article33-indonesia-forest-rent/) — a rent-capture-failure case study in Indonesian timber extraction
 - [Mineral Area Development Authority v. Steel Authority of India (2024)](/wiki/2024-india-mineral-royalty-tax-ruling/) — the Indian Supreme Court's tax-vs-consideration classification dispute over mining royalty
+- [New Zealand Minerals Royalty Regime Review (Deloitte, 2026)](/wiki/nz-minerals-royalty-regime-review/) — 97% of 2025 royalty revenue still came from pre-2013 legacy permits, a case study in how slowly royalty reforms show up in actual revenue
 
 - [Economic Rent](/wiki/economic-rent/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/) · [Citizen's Dividend](/wiki/citizens-dividend/)
 - [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's rent capture framework for common assets

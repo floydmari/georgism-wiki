@@ -3548,3 +3548,71 @@ two bullets when the new bullet was inserted mid-list-item — caught before com
 re-reading the file, not by lint (lint doesn't parse prose continuity).
 
 Lint 0 errors throughout. Queue ledger: 0 pending, 177 consumed.
+
+## 2026-08-16 — 12-item scanner batch (T0/T1 pipeline, second full run)
+
+**Dedup catch before T0.** One item (Dye & England's Lincoln Institute LVT report) was an
+exact-URL duplicate of the existing `research/dye-england-assessing-lvt.md` page — caught
+by a plain grep before spending a T0 token on it, which the queue's own deterministic-dedup
+step should have caught automatically but apparently didn't (the URL wasn't in the consumed
+ledger). Worth a look at why the scanner re-surfaced a URL the wiki has cited since at
+least mid-July.
+
+**Dispositions on the remaining 11: 4 new pages, 5 enrichments, 1 duplicate-merge (2
+sources), 1 reject-merge (2 sources).**
+
+New pages: `research/india-mohua-value-capture-framework.md` (India's 2017 national
+value-capture framework — six instruments, real examples from Mumbai/Ahmedabad/Delhi, and
+a property-tax take under 0.2% of GDP against ~1.1% OECD; **overrode T0's alternative
+suggestion of a full `places/india.md` country profile** — one policy-analysis article
+doesn't support a comprehensive country page, so scoped the page to the framework itself),
+`events/2026-nyc-interborough-express-value-capture.md` (a live NYC transit-financing
+proposal that names Henry George directly — the Second Avenue Subway's 8%/$5.5B uplift
+with only ~30% publicly captured is as clean a real-dollar illustration of the
+capitalization mechanism as this wiki has), `research/gans-market-power-in-ai.md`
+(Joshua Gans's three-market AI-competition framework — training data, input data,
+predictions — the competition-policy half of the AI-rents question the wiki's existing
+Korinek/Stiglitz cluster leaves open; Annual Reviews paywalled, so pulled the full text
+from the free NBER working-paper PDF via `pypdf` after WebFetch couldn't parse the raw
+binary), and `research/nz-minerals-royalty-regime-review.md` (a NZ government review
+finding 97% of 2025 mineral-royalty revenue still came from pre-2013 legacy permits — a
+clean illustration of how slowly royalty reform shows up in actual collections; primary
+PDF Incapsula-blocked, built from two independent, cross-checked secondary sources
+instead).
+
+Enrichments: `research/mcallister-developer-contributions-tpr.md` got the paper's own
+featured-article author interview — a sharper, verbatim incidence-mechanism quote the
+existing abstract-only page didn't have. `people/andy-burnham.md` got the first sourced
+internal-Labour skepticism about LVT timeline (Blunkett, Rotheram) — **re-verified the
+quotes myself against the raw fetched HTML rather than trusting the T0 brief's paraphrase,
+and two details needed correcting before publishing**: the brief's "1990 poll tax" framing
+wasn't in the source at all, and Rotheram's "more losers than winners" was posed as a
+question in the article, not asserted as a warning. `objections/public-choice-critique.md`
+got Tim Worstall's UK business-rates carve-out example — a distinct mechanism (legislative
+use-based exemption creep) from the assessor-corruption and homevoter cases already on the
+page, from a commentator who concedes the underlying theory. `places/south-korea.md` got
+both Korea Herald items together: the baseline dual-property-tax structure (Korea is the
+only one of 9 nations studied with both a local property tax and a national comprehensive
+real estate tax), and — more consequentially — the Lee administration's actual 2026
+jongbusae reform, which **raises exemption thresholds and rewards owner-occupancy rather
+than moving toward the land-dividend design** his provincial-era platform promised. Wrote
+this up as a real complication of the page's own open question, not a confirmation.
+
+Reject/duplicate: two Delaware "split-rate property tax" stories (delawarepublic.org,
+spotlightdelaware.org) turned out to be the same HB 462 story from two outlets **and** a
+terminology false-friend — Delaware's "split rate" is a residential-vs-commercial
+property-*class* differential, unrelated to the land-vs-building split-rate taxation this
+wiki documents, despite the identical phrase. Added a one-line disambiguation footnote to
+`concepts/split-rate-taxation.md` so a future scanner pass (or a reader who searches
+"split-rate property tax") isn't misled by the coincidence.
+
+**Orphan pattern repeated, fixed faster this time.** All 4 new pages lint-flagged as
+orphans on the first pass — same lesson as the 08-14 batch, now a recognized habit to
+check for immediately after writing new pages rather than after a full lint run. Fixed
+with inbound links from `guides/portal-rent-frontier.md`,
+`research/korinek-vipra-concentrating-intelligence.md`,
+`problems/public-investment-capitalizes-into-land.md`, `concepts/land-value-capture.md`,
+`concepts/resource-rents.md`, `research/mintz-chen-capturing-resource-rents.md`, and
+`research/franzsen-mccluskey-property-tax-africa.md`.
+
+Lint 0 errors throughout. Queue ledger: 0 pending, 189 consumed.

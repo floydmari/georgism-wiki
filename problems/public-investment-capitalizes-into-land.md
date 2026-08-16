@@ -135,6 +135,7 @@ here (Gibbons–Machin, He et al.) rely on quasi-experimental designs.
 - [He, Sun, Li & Webster (2024): New Metro and Housing Price and Rent Premiums — A Natural Experiment in China](/wiki/he-sun-metro-housing-premiums/) — a modern causal (natural-experiment DID) corroboration from Shenzhen, with a rent-distance gradient
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
 - [Gaffney (1972–73): The Sources and Taxation of Urban Land Rent](/wiki/gaffney-urban-land-rent/) — the pre-Stiglitz informal statement of the same capitalization mechanism
+- [Could a Land Value Tax Fund the Interborough Express? (NYC, 2026)](/wiki/2026-nyc-interborough-express-value-capture/) — a live, current-dollar illustration: the Second Avenue Subway's 8%/$5.5B uplift with only ~30% publicly captured
 - [Gaffney (1967): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the same capitalization mechanism documented in 1960s US rural public works, a pre-1970s agricultural case
 
 - [Land Value Capture](/wiki/land-value-capture/) · [Henry George Theorem](/wiki/henry-george-theorem/) · [Unearned Increment](/wiki/unearned-increment/)

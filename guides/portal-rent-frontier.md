@@ -65,6 +65,7 @@ prior question, *is this a rent at all?*, is exactly what is in dispute.
 
 - [Korinek & Stiglitz on AI rents](/wiki/korinek-stiglitz-ai-rents/) — the frontier of the frontier: whether AI concentrates a new, capturable surplus, and whether capturing it would blunt the very innovation that creates it.
 - [Korinek & Vipra: Concentrating Intelligence](/wiki/korinek-vipra-concentrating-intelligence/) — the foundation-model-era companion (2024): compute, data, and talent scale economies push toward concentration, while today's thin-margin, contestable market shows no rent yet captured.
+- [Gans: Market Power in Artificial Intelligence](/wiki/gans-market-power-in-ai/) — the competition-economics half of the same question: a three-market framework (training data, input data, predictions) finding market power hinges on whether data can be traded across firm boundaries.
 
 ---
 **Guides:** [Start Here](/wiki/start-here/) · [Evidence Dashboard](/wiki/evidence-dashboard/) · [How We Verify](/wiki/how-we-verify/)
