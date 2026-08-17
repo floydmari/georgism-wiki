@@ -127,6 +127,7 @@ municipal tax base cannot.
 - [Franzsen & McCluskey: Property Tax in Africa](/wiki/franzsen-mccluskey-property-tax-africa/)
 - [World Bank: Determinants of Property Tax Revenue](/wiki/world-bank-property-tax-determinants/)
 - [Hong Kong](/wiki/hong-kong/) · [Singapore](/wiki/singapore/) — the wiki's other major Asian land-value-capture case studies
+- [Danandjojo, Ramezani & Woltjer (2026): Layered Land Rights and LVC in Jakarta](/wiki/danandjojo-jakarta-lvc-governance/) — a comparable developing-Asia LVC-implementation case study, with a different (decentralized-governance) primary obstacle
 
 ## Sources
 

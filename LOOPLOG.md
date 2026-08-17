@@ -3616,3 +3616,41 @@ with inbound links from `guides/portal-rent-frontier.md`,
 `research/franzsen-mccluskey-property-tax-africa.md`.
 
 Lint 0 errors throughout. Queue ledger: 0 pending, 189 consumed.
+
+## 2026-08-17 — ledger-clobber repair, then a 2-item batch
+
+**Incident: upstream scanner commit silently dropped 12 consumed entries.** This
+wakeup's `git fetch` showed main had moved by one commit (`0e4b5f7`, "add 2 new academic
+sources," authored by Hugh's scanner bot). The merge was a clean fast-forward — no
+conflict markers — but the consumed ledger count dropped from 189 to 177 on merge: a
+2,123-insertion/2,236-deletion diff for what the commit message described as adding two
+items. Diffing against the last commit where the full ledger was known-good (`89bd5de`)
+confirmed the missing 177→189 gap was exactly my previous session's 12-item batch —
+the scanner's commit had regenerated `wiki-queue.json` from a base that predated that
+merge landing on main, and its write silently overwrote rather than appended.
+`scripts/clean_wiki_queue.py` doesn't cover this case (it only drops *pending* items that
+duplicate the *current* consumed ledger — it can't detect or repair a consumed ledger
+that's itself gone stale). Restored the 12 entries by union-merging against `89bd5de`'s
+copy of the file, re-ran `clean_wiki_queue.py` to confirm no pending item now duplicated a
+restored URL (0 dropped), and committed the repair with an explicit incident note
+(`1b32de1`). **Flag for Hugh/scanner-side:** the scanner's queue-file write doesn't appear
+to always be based on the latest `main` — worth checking whether it fetches immediately
+before writing or works from a cached checkout.
+
+**The 2 genuinely new items, once the ledger was sound again:** New page
+`research/danandjojo-jakarta-lvc-governance.md` — a qualitative study of Jakarta's MRT
+project finding that *layered, multi-tiered land rights under decentralized governance*,
+not instrument design, is what actually blocks land-value-capture implementation; a third
+distinct LVC-failure mode alongside India's capacity gap and Australia's MRRT
+crediting-incentive flaw already on the wiki. Enriched `concepts/monopsony.md` with
+Caldwell, Dube & Naidu's August 2026 NBER survey — a three-source elasticity typology and
+a methodological caution against reading any single elasticity estimate as a ready-made
+wage-markdown figure, directly reinforcing the page's existing "contested frontier"
+framing with the field's own current state of play.
+
+**Process note.** Given the batch was only 2 items (well under the ~10-12 the T0-brief
+pipeline is scaled for), skipped the full corpus-digest-plus-subagent pipeline and did the
+dedup/assessment directly — proportionate judgment call, not a protocol deviation; both
+items got the same fetch-and-verify treatment as a full batch would.
+
+Lint 0 errors throughout. Queue ledger: 0 pending, 191 consumed.

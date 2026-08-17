@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, monopsony, labor-market, market-power, rent-gradient]
 stub: false
 excerpt: "Buyer-side market power — most commonly an employer's power to hold wages below the competitive level — that lets firms extract a rent from workers, extending rent analysis from sellers (land, monopoly) to a channel on the buying side of a market."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-08-17
 ---
 
 ## Overview
@@ -33,6 +33,33 @@ exercising monopsony power.[2] This literature — along with related work on
 non-compete clauses and no-poach agreements — has become a central input into
 US antitrust discussions of labor markets since the mid-2010s.
 
+## The State of the Measurement Debate (2026)
+
+**Sydnee Caldwell, Arindrajit Dube, and Suresh Naidu** — three of the field's leading
+empirical labor economists — published a comprehensive survey, "Monopsony Makes it Big,"
+as [NBER Working Paper 35608](https://www.nber.org/papers/w35608) in August 2026. The
+survey organizes monopsony power around a single central measure — the **firm-specific
+labor supply elasticity** — and identifies **three distinct sources** that can generate
+it: search frictions (Manning's original mechanism, above), preference heterogeneity
+(workers value non-wage job attributes differently, so firms don't compete on wage alone),
+and employer concentration (Azar, Marinescu & Steinbaum's mechanism, above). Distinguishing
+these sources matters because they imply different policy responses: a search-friction
+story points toward reducing job-search costs, while a concentration story points toward
+antitrust enforcement.
+
+The survey's most consequential methodological contribution is a caution about **relating
+estimated elasticities to actual wage markdowns**: because firms differ in how they set
+wages in practice (posted wages, individual bargaining, or something in between), the same
+underlying elasticity estimate can imply very different amounts of rent actually captured
+by the employer — a warning against reading any single elasticity number as a
+ready-made "monopsony rent" figure. The paper also examines how monopsony interacts with
+**efficiency wages** (employers paying above the market-clearing wage to elicit effort or
+reduce turnover, a competing explanation for wage patterns sometimes mistaken for
+monopsony's opposite), and surveys the resulting policy implications across antitrust,
+labor regulation, immigration policy, and macroeconomics — closing with the authors' own
+list of open research priorities, i.e. this remains an active, unsettled measurement
+frontier rather than a solved one.
+
 ## Relevance to the Rent Debate
 
 Monopsony matters to this wiki because it is a **buyer-side** rent channel, distinct
@@ -46,7 +73,9 @@ substitute for, seller-side market power in explaining the falling labor share.
 Per the wiki's rent-gradient rule, monopsony sits well out on the contested frontier:
 unlike land, which is fixed in supply, labor markets are not literally scarce in the
 same sense, and the size of monopsony's aggregate effect on wages remains an active
-empirical dispute rather than a settled fact.
+empirical dispute rather than a settled fact — a judgment the Caldwell-Dube-Naidu survey
+above reinforces directly: even the field's own leading empiricists treat the
+elasticity-to-markdown mapping as unresolved, not merely under-measured.
 
 [*Radical Markets*](/wiki/posner-weyl-radical-markets/) (Posner & Weyl, 2018) applies
 the concept in two chapters: Ch. 3 proposes a [Visas Between Individuals Program](/wiki/visas-between-individuals-program/) partly
@@ -80,3 +109,11 @@ input rather than let platforms capture it for free.
    discovery source; used for the VIP migrant-labor-monopsony proposal and the
    data-platform-monopsony argument. See also the
    [wiki book summary](/wiki/posner-weyl-radical-markets/).
+4. Sydnee Caldwell, Arindrajit Dube & Suresh Naidu (2026), "Monopsony Makes it Big,"
+   NBER Working Paper 35608 (August 2026). [nber.org/papers/w35608](https://www.nber.org/papers/w35608) —
+   abstract fetched and read 2026-08-17; used for the firm-specific-labor-supply-elasticity
+   framing, the three-source typology (search frictions, preference heterogeneity, employer
+   concentration), the elasticity-to-wage-markdown measurement caution, the efficiency-wage
+   interaction, and the antitrust/labor-regulation/immigration/macro policy scope. Scan
+   depth: abstract only (B-claim); the full survey was not independently obtained this
+   session.

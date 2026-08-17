@@ -55,6 +55,7 @@ The paper's practical recommendations — transparent disclosure of the assessme
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/)
 - [Land Value Tax](/wiki/land-value-tax/)
+- [Danandjojo, Ramezani & Woltjer (2026): Layered Land Rights and LVC in Jakarta](/wiki/danandjojo-jakarta-lvc-governance/) — a companion 2026 Indonesian case study on decentralized-governance obstacles to land value capture specifically
 
 ## Sources
 

@@ -1,25 +1,6 @@
 {
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
- "queue": [
-  {
-   "url": "https://research.rug.nl/en/publications/layered-land-rights-under-government-led-decentralization-implica/",
-   "source": "lvt-paper-scanner",
-   "reason": "Academic research from University of Groningen on land value capture implementation challenges in Jakarta due to layered/overlapping land rights structures under decentralization. Directly relevant to LVC/LVT wiki content.",
-   "context": "Layered land rights under government-led decentralization: Implications for land value capture implementation in Jakarta, Indonesia — University of Groningen, Urban and Regional Studies Institute. 2026. Multiple land rights holders and layered land rights structures create fundamental challenges for implementing land-based financing mechanisms.",
-   "author": "",
-   "queued_at": "2026-08-17T11:04:13.405814+00:00",
-   "reported": false
-  },
-  {
-   "url": "https://www.nber.org/papers/w35608",
-   "source": "lvt-paper-scanner",
-   "reason": "NBER working paper by Caldwell, Dube & Naidu — comprehensive guide to monopsony/labor market power literature. Relevant to wiki pages on economic rent, monopoly/monopsony power, and firm-level rents.",
-   "context": "Monopsony Makes it Big — Sydnee Caldwell, Arindrajit Dube & Suresh Naidu. NBER Working Paper w35608, August 2026. Guide to imperfect competition in labor markets covering firm-specific labor supply elasticity, search frictions, job differentiation, and concentration as sources of monopsony power.",
-   "author": "",
-   "queued_at": "2026-08-17T11:04:13.405814+00:00",
-   "reported": false
-  }
- ],
+ "queue": [],
  "consumed": [
   {
    "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2250,8 +2231,30 @@
    "reported": false,
    "disposition": "consumed",
    "disposition_reason": "New page research/nz-minerals-royalty-regime-review.md. Primary PDF Incapsula-blocked on every fetch method; built from two independent, cross-checked secondary sources (NZ government press release + Infrastructure News NZ) that quote the review directly and agree on all figures (97% legacy-permit revenue, government-take comparability finding). (2026-08-16 T0/T1 batch, 12-item wave)"
+  },
+  {
+   "url": "https://research.rug.nl/en/publications/layered-land-rights-under-government-led-decentralization-implica/",
+   "source": "lvt-paper-scanner",
+   "reason": "Academic research from University of Groningen on land value capture implementation challenges in Jakarta due to layered/overlapping land rights structures under decentralization. Directly relevant to LVC/LVT wiki content.",
+   "context": "Layered land rights under government-led decentralization: Implications for land value capture implementation in Jakarta, Indonesia — University of Groningen, Urban and Regional Studies Institute. 2026. Multiple land rights holders and layered land rights structures create fundamental challenges for implementing land-based financing mechanisms.",
+   "author": "",
+   "queued_at": "2026-08-17T11:04:13.405814+00:00",
+   "reported": false,
+   "disposition": "consumed",
+   "disposition_reason": "New page research/danandjojo-jakarta-lvc-governance.md — Jakarta MRT case study on how layered land rights under decentralized governance block LVC implementation, distinct from India's capacity-gap and Australia's crediting-incentive failure modes already documented. (2026-08-17 wave)"
+  },
+  {
+   "url": "https://www.nber.org/papers/w35608",
+   "source": "lvt-paper-scanner",
+   "reason": "NBER working paper by Caldwell, Dube & Naidu — comprehensive guide to monopsony/labor market power literature. Relevant to wiki pages on economic rent, monopoly/monopsony power, and firm-level rents.",
+   "context": "Monopsony Makes it Big — Sydnee Caldwell, Arindrajit Dube & Suresh Naidu. NBER Working Paper w35608, August 2026. Guide to imperfect competition in labor markets covering firm-specific labor supply elasticity, search frictions, job differentiation, and concentration as sources of monopsony power.",
+   "author": "",
+   "queued_at": "2026-08-17T11:04:13.405814+00:00",
+   "reported": false,
+   "disposition": "consumed",
+   "disposition_reason": "Enriched concepts/monopsony.md with the Caldwell/Dube/Naidu 2026 survey — three-source elasticity typology (search frictions, preference heterogeneity, employer concentration) and the elasticity-to-wage-markdown measurement caution, reinforcing the page's existing 'contested frontier' framing. (2026-08-17 wave)"
   }
  ],
- "total": 2,
- "last_updated": "2026-08-17T11:06:10.777070+00:00"
+ "total": 0,
+ "last_updated": "2026-08-17T11:09:07.943515+00:00"
 }
