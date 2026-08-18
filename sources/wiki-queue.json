@@ -9,6 +9,33 @@
       "author": "UKTJP503G",
       "queued_at": "2026-08-18T10:00:43.145115+00:00",
       "reported": false
+    },
+    {
+      "url": "https://lup.lub.lu.se/record/ada01c8a-4652-4a0e-9fd8-8ce9deda0368",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic book critiquing David Harvey's theory of urban land rent, arguing Harvey's replacement of Marx's absolute rent with class-monopoly rent is theoretically inadequate. Relevant to Georgist rent theory debates.",
+      "context": "Land Rent, Capital, Rate of Profit \u2014 Ilia Farahani. Lund University, 2026. Critiques Harvey's urban land rent theory.",
+      "author": null,
+      "queued_at": "2026-08-18T11:04:35.868136+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://washingtonsignal.com/dc-council-weighs-land-value-tax-as-congress-threatens-revenue-veto/",
+      "source": "lvt-paper-scanner",
+      "reason": "News on DC Council formally deliberating a land value tax bill, with Congressional fiscal veto threats. Policy-relevant for LVT adoption in US cities.",
+      "context": "DC Council Weighs Land Value Tax as Congress Threatens Revenue Veto \u2014 Washington Signal, Jul 2026.",
+      "author": null,
+      "queued_at": "2026-08-18T11:04:35.868136+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://wdcnews6.com/dc-city-council-considers-esoteric-scheme-to-tax-land-values/",
+      "source": "lvt-paper-scanner",
+      "reason": "Coverage of DC Councilmember Brianne Nadeau's bill to shift DC property taxes to a land tax system. Policy-relevant for LVT adoption.",
+      "context": "DC City Council Considers Esoteric Scheme To Tax Land Values \u2014 WDC NEWS 6, Jul 2026. Covers Nadeau LVT bill.",
+      "author": null,
+      "queued_at": "2026-08-18T11:04:35.868136+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -2265,6 +2292,6 @@
       "disposition_reason": "Enriched concepts/monopsony.md with the Caldwell/Dube/Naidu 2026 survey \u2014 three-source elasticity typology (search frictions, preference heterogeneity, employer concentration) and the elasticity-to-wage-markdown measurement caution, reinforcing the page's existing 'contested frontier' framing. (2026-08-17 wave)"
     }
   ],
-  "total": 1,
-  "last_updated": "2026-08-18T10:02:47Z"
+  "total": 4,
+  "last_updated": "2026-08-18T11:04:35.868136+00:00"
 }
