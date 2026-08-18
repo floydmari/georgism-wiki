@@ -1,6 +1,34 @@
 {
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
- "queue": [],
+ "queue": [
+  {
+   "url": "https://lup.lub.lu.se/record/ada01c8a-4652-4a0e-9fd8-8ce9deda0368",
+   "source": "lvt-paper-scanner",
+   "reason": "Academic book critiquing David Harvey's theory of urban land rent, arguing Harvey's replacement of Marx's absolute rent with class-monopoly rent is theoretically inadequate. Relevant to Georgist rent theory debates.",
+   "context": "Land Rent, Capital, Rate of Profit — Ilia Farahani. Lund University, 2026. Critiques Harvey's urban land rent theory.",
+   "author": null,
+   "queued_at": "2026-08-18T11:04:35.868136+00:00",
+   "reported": false
+  },
+  {
+   "url": "https://washingtonsignal.com/dc-council-weighs-land-value-tax-as-congress-threatens-revenue-veto/",
+   "source": "lvt-paper-scanner",
+   "reason": "News on DC Council formally deliberating a land value tax bill, with Congressional fiscal veto threats. Policy-relevant for LVT adoption in US cities.",
+   "context": "DC Council Weighs Land Value Tax as Congress Threatens Revenue Veto — Washington Signal, Jul 2026.",
+   "author": null,
+   "queued_at": "2026-08-18T11:04:35.868136+00:00",
+   "reported": false
+  },
+  {
+   "url": "https://wdcnews6.com/dc-city-council-considers-esoteric-scheme-to-tax-land-values/",
+   "source": "lvt-paper-scanner",
+   "reason": "Coverage of DC Councilmember Brianne Nadeau's bill to shift DC property taxes to a land tax system. Policy-relevant for LVT adoption.",
+   "context": "DC City Council Considers Esoteric Scheme To Tax Land Values — WDC NEWS 6, Jul 2026. Covers Nadeau LVT bill.",
+   "author": null,
+   "queued_at": "2026-08-18T11:04:35.868136+00:00",
+   "reported": false
+  }
+ ],
  "consumed": [
   {
    "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2266,6 +2294,6 @@
    "disposition_reason": "Enriched places/new-zealand.md's Current Debate section with The Opportunity Party's 2026 election land tax (1.75% urban/0.5% rural) + citizen's income platform — directly answers that section's own prior 'no current 2025-2026 proposal identified' gap with a live, sourced national (not just local-rating) proposal. (2026-08-19 wave)"
   }
  ],
- "total": 0,
- "last_updated": "2026-08-18T11:05:39.495506+00:00"
+ "total": 3,
+ "last_updated": "2026-08-18T11:06:35.918576+00:00"
 }
