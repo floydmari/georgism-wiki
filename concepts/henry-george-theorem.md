@@ -38,6 +38,7 @@ The theorem's mechanism — that public spending capitalises fully into land ren
 - [Optimal City Size](/wiki/optimal-city-size/)
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [ATCOR](/wiki/atcor/)
+- [Hirano & Stiglitz: Henry George, Land Speculation, and Economic Growth](/wiki/oxford-review-george-2025/) — Stiglitz's second major formal engagement with George's legacy, this time on the growth side rather than the revenue side this theorem addresses
 
 ## Sources
 

@@ -157,6 +157,8 @@ foremost, in the business of lending against land.
 - [The Great Mortgaging](/wiki/great-mortgaging/) · [No Price Like Home](/wiki/knoll-schularick-steger-house-prices/) — the two supporting studies
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the income-side evidence, kept honest
 - [Mian, Sufi & Verner (2017): Household Debt and Business Cycles Worldwide](/wiki/mian-sufi-verner-household-debt/) — the independent 30-country result that the mortgage-credit expansion predicts *slower* growth, not the productive deepening it is taken for
+- [Hirano & Stiglitz: Credit, Land Speculation, and Growth](/wiki/hirano-stiglitz-credit-land-speculation-growth/) — the formal growth-theoretic counterpart: real-estate-directed credit is growth-retarding, manufacturing-directed credit is growth-enhancing
+- [Hirano & Stiglitz: Growth and Fluctuations in Economies with Land Speculation](/wiki/hirano-stiglitz-growth-fluctuations-land-speculation/) — accommodative monetary/fiscal policy can backfire by channeling resources into land speculation
 - [Bezemer & Hudson: Finance Is Not the Economy](/wiki/bezemer-hudson-finance-is-not-the-economy/) — the interpretive companion that reads this composition as rent · [Borio: the financial cycle](/wiki/borio-financial-cycle/) — the credit-side steelman
 - [Cochrane (2013): Finance — Function Matters, Not Size](/wiki/cochrane-finance-function-matters/) — the strongest cited challenge to reading finance's growth as rent capture
 - [Bezemer, Samarina & Zhang: The Shift in Bank Credit Allocation](/wiki/bezemer-samarina-zhang-debt-shift/) — the widest-panel (74-economy) confirmation of the debt shift toward mortgage credit

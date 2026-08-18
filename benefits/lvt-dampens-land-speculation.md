@@ -92,6 +92,8 @@ The honest counterweight is that the mechanism's core assumption — that the ta
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) · [Land Monopoly](/wiki/land-monopoly/) · [Estonia](/wiki/estonia/) · [2008 Financial Crisis](/wiki/2008-financial-crisis/)
 - [Harrison, The Power in the Land](/wiki/harrison-power-in-the-land/) — the Australian SVR vs NAV evidence
+- [Hirano & Stiglitz: Land Speculation and Wobbly Dynamics](/wiki/hirano-stiglitz-wobbly-dynamics-land-speculation/) — the formal OLG counterpart, with a genuine complication: an isolated land tax can widen fluctuation ranges away from the (unstable) steady state
+- [Hirano & Stiglitz: Henry George, Land Speculation, and Economic Growth](/wiki/oxford-review-george-2025/) — the flagship modern theoretical vindication of this page's mechanism
 - [Victoria's SVR vs NAV rating comparison (1966–78)](/wiki/victoria-svr-nav-comparison/) — the Australian natural-experiment case page
 - [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — the 19th-century land-value-financing case that pressured speculative holdings to develop or sell
 - [Split-Rate Taxation Increases Construction](/wiki/split-rate-increases-construction/) — the companion outcome page with the same Australian data

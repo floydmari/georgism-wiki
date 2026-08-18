@@ -83,6 +83,7 @@ Beyond the mainstream results sit two Georgist claims that, if true, would make 
 - [Deadweight Loss](/wiki/deadweight-loss/) · [Henry George Theorem](/wiki/henry-george-theorem/) · [ATCOR](/wiki/atcor/) · [EBCOR](/wiki/ebcor/)
 - [Gaffney (1993): Full Employment through Total Tax Reform](/wiki/gaffney-full-employment-tax-reform/) — the "True Fiscal Stimulus" argument, attributed theory
 - [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — the US-state-level New Hampshire/California echo, cited as context
+- [Hirano & Stiglitz: Credit, Land Speculation, and Growth](/wiki/hirano-stiglitz-credit-land-speculation-growth/) — a formal channel for this outcome: a land tax redirecting credit toward productive investment directly raises the equilibrium growth rate
 - [The Benefits](/wiki/benefits/) — index of benefit claims
 
 ## Sources

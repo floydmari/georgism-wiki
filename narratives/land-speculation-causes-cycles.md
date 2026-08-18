@@ -146,11 +146,12 @@ the "lead with the mechanism, not the number" deployment guidance below.
   This is independent of Georgist framing and lends the *general* claim (credit-financed
   asset speculation predictably produces crises) more credibility than the *specific*
   18-year periodicity claim.
-- **[Oxford Review of Economic Policy survey (2025)](/wiki/oxford-review-george-2025/)**
-  situates George's land-speculation-and-depression analysis within current mainstream
-  research on land, growth, and instability — a marker that the underlying question is
-  being taken seriously again in flagship venues, whatever view is eventually taken of
-  the periodicity claim.[12]
+- **[Hirano & Stiglitz (2025)](/wiki/oxford-review-george-2025/)**, in the *Oxford
+  Review of Economic Policy*, build a formal growth model showing land speculation
+  depresses productive investment and long-run growth — a Nobel laureate's formal
+  vindication of George's land-speculation-and-depression analysis in a flagship venue,
+  though (like every other paper in this section) it makes no periodicity claim of any
+  kind.[12]
 - A dedicated wiki page examines the empirical basis for the periodicity claim itself in
   more depth: [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/).
 - **Why the boom self-destructs, mechanically.** Gaffney's short working notes
@@ -441,11 +442,12 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
     — used for independent, non-Georgist corroboration that Harrison issued
     detailed public warnings ahead of the 2008 crisis; Foldvary is not among Bezemer's
     twelve analysts (B-claim).
-12. "Henry George, land speculation, and economic growth and transformation," *Oxford
-    Review of Economic Policy* 41(2), 2025 — [wiki summary](/wiki/oxford-review-george-2025/)
-    · [article (may be paywalled)](https://academic.oup.com/oxrep/article/41/2/326/8320563)
-    — used for the claim that the topic has renewed standing in mainstream economics
-    (A-claim).
+12. Tomohiro Hirano & Joseph E. Stiglitz (2025), "Henry George, land speculation, and
+    economic growth and transformation," *Oxford Review of Economic Policy* 41(2):
+    326–357 — [wiki summary](/wiki/oxford-review-george-2025/)
+    · [article (paywalled)](https://academic.oup.com/oxrep/article/41/2/326/8320563)
+    — used for the paper's formal argument and its renewed standing for the topic in
+    mainstream economics (B-claim; abstract-level scan, per the wiki summary page).
 13. Òscar Jordà, Moritz Schularick & Alan M. Taylor, "The Great Mortgaging: Housing
     Finance, Crises, and Business Cycles," NBER Working Paper 20501, 2014.
     [PDF (NBER)](https://www.nber.org/system/files/working_papers/w20501/w20501.pdf) —

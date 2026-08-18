@@ -3654,3 +3654,59 @@ dedup/assessment directly — proportionate judgment call, not a protocol deviat
 items got the same fetch-and-verify treatment as a full batch would.
 
 Lint 0 errors throughout. Queue ledger: 0 pending, 191 consumed.
+
+## 2026-08-18 — Stiglitz & Hirano: a whole research program was missing
+
+Floyd asked directly: make sure all of Stiglitz's recent land-related papers are in the
+wiki, and specifically look at Stiglitz and Hirano. This wasn't a queue item — it was a
+direct request, and it surfaced a real gap the loop's normal scanning hadn't caught: a
+coherent, six-paper Hirano-Stiglitz research program (2022–2026) building formal OLG
+models of land speculation, credit, and growth, of which the wiki had exactly one thin,
+**misattributed** stub — `research/oxford-review-george-2025.md` credited the paper to
+"Various" authors and described it as a generic "survey," when it is in fact a specific,
+named, formal-theoretic model paper by Hirano and Stiglitz that puts Henry George's name
+in its own title.
+
+**Found via Hirano's own research page** (sites.google.com/site/tomohih/research), which
+lists every Stiglitz collaboration: two 2022 NBER papers founding the "wobbly dynamics"
+mechanism (29745, land-and-capital; 29806, the land-free general case), a 2024/2025 credit
+paper circulating under two NBER numbers with near-identical abstracts (32479, 33661 —
+documented as likely the same evolving project rather than two distinct papers, flagged
+for a future split if a full-text comparison ever finds real differences), a 2025 paper
+combining land/credit/endogenous-tech (33589), a 2025 general OLG-multiplicity theorem
+(34193) — and the flagship, explicitly Georgist-titled paper this whole program built
+toward.
+
+**Pulled full text where NBER allowed it.** Three of the five NBER PDFs (29745, 29806,
+32479) downloaded cleanly via curl+UA; extracted with `pypdf` since WebFetch chokes on raw
+PDF binary. This mattered: the full text of 29745 surfaced a genuinely important
+complication a title-only citation would have missed — the paper's own policy section
+finds a land tax raises steady-state capital and welfare **but can widen, not narrow, the
+range of land-price fluctuations** once the (unstable) steady state is left behind, with
+credible policy commitment — not the tax alone — doing the real work of stopping the
+wobbling. Wrote that nuance up plainly rather than citing only the parts that sound like a
+clean Georgist win; the companion credit paper (32479) has a cleaner, more
+straightforwardly supportive result (a land tax redirecting credit toward the productive
+sector directly raises the equilibrium growth rate) and both are represented honestly on
+their own pages. The two newest papers (33589, 34193) and the flagship Oxford Review paper
+stayed abstract-only — NBER gates the newest working papers behind a 403 this session
+couldn't get past, and OUP's Oxford Review pages sit behind a Cloudflare challenge.
+
+**New:** 5 companion research pages plus a `people/tomohiro-hirano.md` bio (PhD Tokyo;
+Royal Holloway/LSE/Canon Institute; his own pre-Stiglitz bubble-theory work with Yanagawa
+and Inaba going back to 2015). **Rewrote in place** (same filename, to preserve the 5
+existing inbound links) `research/oxford-review-george-2025.md` with the correct authors
+and real content. **Corrected the same "anonymous survey" mischaracterization everywhere
+else it had propagated**: `objections/progress-and-poverty-outdated.md` (both body text
+and its Sources entry), and two mentions in `narratives/land-speculation-causes-cycles.md`
+and `narratives/_framework.md` — a small reminder that a thin/wrong stub doesn't just sit
+quietly, it gets cited elsewhere in its own wrong form. Updated
+`people/joseph-stiglitz.md` with a full section on the collaboration, and cross-linked the
+whole cluster into `benefits/lvt-dampens-land-speculation.md`,
+`problems/finance-growth-is-land-credit.md`, `benefits/taxing-land-raises-productivity.md`,
+`concepts/henry-george-theorem.md`, and `concepts/18-year-land-cycle.md` — no orphans this
+time on the first lint pass, since every new page was written with its companions already
+linked both directions from the start.
+
+Lint 0 errors, 0 orphans. This is a direct request outside the queue-loop rhythm, so no
+queue-ledger entry — noting it here for the record instead.

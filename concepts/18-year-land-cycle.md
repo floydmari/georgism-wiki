@@ -209,6 +209,7 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 - [Kuznets Cycles](/wiki/kuznets-cycles/) — the mainstream-recognized ~15-25 year construction/demographic cycle Harrison cites as independent corroboration of the 18-year land cycle
 - [Panic of 1907](/wiki/panic-of-1907/) — the J.P. Morgan-led private bailout that Patel's cycle chronology lists as a documented US real-estate peak year, and that directly led to the founding of the Federal Reserve
 - [Skyscraper Index](/wiki/skyscraper-index/) — the record-tall-building indicator Anderson and Patel cite as a credit-ease and land-speculation signal within the cycle
+- [Hirano & Stiglitz: Land Speculation and Wobbly Dynamics](/wiki/hirano-stiglitz-wobbly-dynamics-land-speculation/) — a formal model of endogenous land-price boom-bust cycles with no fixed periodicity, a useful contrast to this page's fixed-cycle-length claim
 - [Terminating Building Societies](/wiki/terminating-societies/) — the 1775 Birmingham mutual-credit innovation Harrison identifies as seeding the institutional framework behind the cycle
 - [Objection: The 1929 Stock Crash Caused the Great Depression](/wiki/stock-crash-caused-great-depression/) — the land-cycle rebuttal to the conventional Depression narrative, dating the causal real-estate peak to 1926
 - [Roy Wenzlick](/wiki/roy-wenzlick/) — independently found the same ~18-year real-estate cycle from 120+ U.S. cities' data, corroborating Hoyt's Chicago findings

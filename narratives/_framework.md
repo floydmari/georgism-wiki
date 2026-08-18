@@ -183,7 +183,7 @@ the narrative page covers its persuasive career from
   Poverty* ([research page](/wiki/progress-and-poverty/)).
 - **Supporting evidence:** [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/)
   (moderate); [speculative vacancy](/wiki/speculative-vacancy/);
-  [Oxford Review survey](/wiki/oxford-review-george-2025/);
+  [Hirano & Stiglitz (2025)](/wiki/oxford-review-george-2025/);
   [land monopoly](/wiki/land-monopoly/).
 - **Weak or missing:** the cycle literature is largely practitioner-authored, not
   peer-reviewed; the prediction record is anecdotal rather than systematic; direct
