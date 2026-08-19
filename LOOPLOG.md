@@ -3710,3 +3710,32 @@ linked both directions from the start.
 
 Lint 0 errors, 0 orphans. This is a direct request outside the queue-loop rhythm, so no
 queue-ledger entry — noting it here for the record instead.
+
+## 2026-08-19 (b) — domain-migration false alarm: 11 of 14 "new" items were the same Substack
+
+This wakeup's queue batch had 14 items. Before running the T0 pipeline on all 14, a quick
+title scan against the corpus turned up something off: 11 of them, all hosted at
+`blog.landeconomics.org`, had titles identical to Progress and Poverty Substack articles
+already in the consumed ledger — "Yes, a Land Value Tax Is Possible in Washington State,"
+"Contra Watling on 'The failure of the land value tax,'" and so on. Checked by comparing
+each URL's `/p/<slug>` path against every consumed `progressandpoverty.substack.com` URL's
+slug: all 11 matched exactly. The publication appears to have migrated its domain wholesale
+while keeping identical slugs — the scanner's exact-URL dedup can't see through a domain
+change, so it re-queued the entire back catalog as "new." Dropped all 11 (commit
+`8730f2d`), documented the slug-matching method so a future pass can repeat it if this
+happens again, and flagged it as a scanner-side fix candidate (normalize dedup by path,
+not full URL, or at minimum record known domain migrations).
+
+**The 3 genuinely new items, from unrelated domains:** enriched `places/jamaica-land-value-tax.md`
+with a "2026 Revaluation" section — the NLA's fresh island-wide revaluation of ~900,000
+parcels under the same unimproved-land-value base the page has documented since 1957, with
+current 0.5–1.5% rates and a CAPRI economist's efficiency defense of frequent revaluation.
+Enriched `people/andy-burnham.md` with a UK law firm's skeptical client-advisory take on
+his stamp-duty-to-LVT proposal — a distinct "redistributes rather than reduces the burden"
+concern from the transition-cost and political-timeline caveats already on the page.
+Rejected the Haryana property-tax item: it's a uniform *capital*-value assessment
+formula — no land-value or split-rate element anywhere in the reform — a keyword
+false-positive on "property tax formula," not a Georgism-relevant story.
+
+Lint 0 errors, no orphans (both changes were enrichments, no new pages). Queue ledger:
+0 pending, 198 consumed.

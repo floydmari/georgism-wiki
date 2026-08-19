@@ -1,34 +1,6 @@
 {
  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
- "queue": [
-  {
-   "url": "https://www.wilkinchapmanrollits.co.uk/news/stamp-duty-reform-back-in-the-spotlight-but-would-a-land-value-tax-really-benefit-homebuyers",
-   "source": "lvt-paper-scanner",
-   "reason": "Practitioner analysis of LVT replacing SDLT in UK — relevant to LVT policy design and implementation debates.",
-   "context": "Stamp duty reform back in the spotlight – but would a land value tax really benefit homebuyers? — Caroline Fletcher-Shaw. Wilkin Chapman Rollits (UK law firm), 2026-07-21. UK legal analysis of replacing Stamp Duty Land Tax with an annual land value tax under PM Burnham — examines design challenges and impact on homebuyers.",
-   "author": "lvt-paper-scanner",
-   "queued_at": "2026-08-19T11:02:32.680941+00:00",
-   "reported": false
-  },
-  {
-   "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-clears-new-property-tax-formula-housing-policy/articleshow/132691861.cms",
-   "source": "lvt-paper-scanner",
-   "reason": "Property tax reform in Indian state — case study for wiki coverage of LVT/property tax transitions in developing economies.",
-   "context": "Haryana clears new property tax formula, housing policy — Manvir Saini. Times of India, 2026-07-28. Haryana cabinet approves new formula-based property tax regime for all urban local bodies, alongside housing policy reforms.",
-   "author": "lvt-paper-scanner",
-   "queued_at": "2026-08-19T11:02:32.680941+00:00",
-   "reported": false
-  },
-  {
-   "url": "https://jamaica-gleaner.com/article/business/20260812/nla-revalue-some-900000-land-parcels-property-taxes-expected-rise",
-   "source": "lvt-paper-scanner",
-   "reason": "Land valuation reform in Caribbean economy — directly relevant to land value assessment practice and property tax adequacy.",
-   "context": "NLA to revalue some 900,000 land parcels; property taxes expected to rise — Jamaica Gleaner. Jamaica Gleaner / Financial Gleaner, 2026-08-12. Jamaica's National Land Agency revaluing 900,000 land parcels on unimproved value basis for first time in nearly a decade — economist Dr Damien King argues up-to-date valuations essential for property tax legitimacy.",
-   "author": "lvt-paper-scanner",
-   "queued_at": "2026-08-19T11:02:32.680941+00:00",
-   "reported": false
-  }
- ],
+ "queue": [],
  "consumed": [
   {
    "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2325,8 +2297,41 @@
    "reported": false,
    "disposition": "duplicate",
    "disposition_reason": "Same story as washingtonsignal.com (DC B26-0777). Folded into events/2026-dc-land-value-assessment-bill.md as source 2 (fetched via curl, WebFetch 403'd) -- this outlet supplied the sponsor name/quote, the Chicago Fed/DC Policy Center citations, and the quarterly-billing provision the other source lacked. (2026-08-19 wave)"
+  },
+  {
+   "url": "https://www.wilkinchapmanrollits.co.uk/news/stamp-duty-reform-back-in-the-spotlight-but-would-a-land-value-tax-really-benefit-homebuyers",
+   "source": "lvt-paper-scanner",
+   "reason": "Practitioner analysis of LVT replacing SDLT in UK — relevant to LVT policy design and implementation debates.",
+   "context": "Stamp duty reform back in the spotlight – but would a land value tax really benefit homebuyers? — Caroline Fletcher-Shaw. Wilkin Chapman Rollits (UK law firm), 2026-07-21. UK legal analysis of replacing Stamp Duty Land Tax with an annual land value tax under PM Burnham — examines design challenges and impact on homebuyers.",
+   "author": "lvt-paper-scanner",
+   "queued_at": "2026-08-19T11:02:32.680941+00:00",
+   "reported": false,
+   "disposition": "consumed",
+   "disposition_reason": "Enriched people/andy-burnham.md with a practitioner-side skeptical read (UK law firm client advisory) questioning whether replacing SDLT with an annual LVT reduces or merely redistributes the homebuyer's financial burden. (2026-08-19 wave, post domain-migration cleanup)"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-clears-new-property-tax-formula-housing-policy/articleshow/132691861.cms",
+   "source": "lvt-paper-scanner",
+   "reason": "Property tax reform in Indian state — case study for wiki coverage of LVT/property tax transitions in developing economies.",
+   "context": "Haryana clears new property tax formula, housing policy — Manvir Saini. Times of India, 2026-07-28. Haryana cabinet approves new formula-based property tax regime for all urban local bodies, alongside housing policy reforms.",
+   "author": "lvt-paper-scanner",
+   "queued_at": "2026-08-19T11:02:32.680941+00:00",
+   "reported": false,
+   "disposition": "rejected",
+   "disposition_reason": "Haryana's new property tax formula is a uniform CAPITAL-value-based assessment (plot size + usage category) replacing a 2013 framework -- no land-value or split-rate element anywhere in the reform. Keyword false-positive ('property tax formula'), out of EDITORIAL scope. (2026-08-19 wave, post domain-migration cleanup)"
+  },
+  {
+   "url": "https://jamaica-gleaner.com/article/business/20260812/nla-revalue-some-900000-land-parcels-property-taxes-expected-rise",
+   "source": "lvt-paper-scanner",
+   "reason": "Land valuation reform in Caribbean economy — directly relevant to land value assessment practice and property tax adequacy.",
+   "context": "NLA to revalue some 900,000 land parcels; property taxes expected to rise — Jamaica Gleaner. Jamaica Gleaner / Financial Gleaner, 2026-08-12. Jamaica's National Land Agency revaluing 900,000 land parcels on unimproved value basis for first time in nearly a decade — economist Dr Damien King argues up-to-date valuations essential for property tax legitimacy.",
+   "author": "lvt-paper-scanner",
+   "queued_at": "2026-08-19T11:02:32.680941+00:00",
+   "reported": false,
+   "disposition": "consumed",
+   "disposition_reason": "Enriched places/jamaica-land-value-tax.md with a new '2026 Revaluation' section -- the NLA's fresh island-wide revaluation of the same unimproved-land-value tax base the page documents historically since 1957, plus current 0.5-1.5% rate structure and revenue-share figures. (2026-08-19 wave, post domain-migration cleanup)"
   }
  ],
- "total": 3,
- "last_updated": "2026-08-19T11:05:08.300058+00:00"
+ "total": 0,
+ "last_updated": "2026-08-19T11:07:25.973497+00:00"
 }
