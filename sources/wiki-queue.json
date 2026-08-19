@@ -99,6 +99,33 @@
       "author": "research-scanner",
       "queued_at": "2026-08-19T10:01:50.605436+00:00",
       "reported": false
+    },
+    {
+      "url": "https://www.wilkinchapmanrollits.co.uk/news/stamp-duty-reform-back-in-the-spotlight-but-would-a-land-value-tax-really-benefit-homebuyers",
+      "source": "lvt-paper-scanner",
+      "reason": "Practitioner analysis of LVT replacing SDLT in UK \u2014 relevant to LVT policy design and implementation debates.",
+      "context": "Stamp duty reform back in the spotlight \u2013 but would a land value tax really benefit homebuyers? \u2014 Caroline Fletcher-Shaw. Wilkin Chapman Rollits (UK law firm), 2026-07-21. UK legal analysis of replacing Stamp Duty Land Tax with an annual land value tax under PM Burnham \u2014 examines design challenges and impact on homebuyers.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-19T11:02:32.680941+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-clears-new-property-tax-formula-housing-policy/articleshow/132691861.cms",
+      "source": "lvt-paper-scanner",
+      "reason": "Property tax reform in Indian state \u2014 case study for wiki coverage of LVT/property tax transitions in developing economies.",
+      "context": "Haryana clears new property tax formula, housing policy \u2014 Manvir Saini. Times of India, 2026-07-28. Haryana cabinet approves new formula-based property tax regime for all urban local bodies, alongside housing policy reforms.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-19T11:02:32.680941+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://jamaica-gleaner.com/article/business/20260812/nla-revalue-some-900000-land-parcels-property-taxes-expected-rise",
+      "source": "lvt-paper-scanner",
+      "reason": "Land valuation reform in Caribbean economy \u2014 directly relevant to land value assessment practice and property tax adequacy.",
+      "context": "NLA to revalue some 900,000 land parcels; property taxes expected to rise \u2014 Jamaica Gleaner. Jamaica Gleaner / Financial Gleaner, 2026-08-12. Jamaica's National Land Agency revaluing 900,000 land parcels on unimproved value basis for first time in nearly a decade \u2014 economist Dr Damien King argues up-to-date valuations essential for property tax legitimacy.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-19T11:02:32.680941+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -2399,6 +2426,6 @@
       "disposition_reason": "Same story as washingtonsignal.com (DC B26-0777). Folded into events/2026-dc-land-value-assessment-bill.md as source 2 (fetched via curl, WebFetch 403'd) -- this outlet supplied the sponsor name/quote, the Chicago Fed/DC Policy Center citations, and the quarterly-billing provision the other source lacked. (2026-08-19 wave)"
     }
   ],
-  "total": 11,
-  "last_updated": "2026-08-19T10:02:05Z"
+  "total": 14,
+  "last_updated": "2026-08-19T11:03:12.241125+00:00"
 }
