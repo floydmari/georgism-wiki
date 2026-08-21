@@ -8,7 +8,7 @@ category: research
 excerpt: NBER working paper arguing low property taxes amplify lock-in among elderly
   homeowners and limit housing access for young families — raising California's rates
   to Texas levels would shift homeownership toward the young.
-last_reviewed: 2026-08-14
+last_reviewed: 2026-08-21
 source_url: https://www.nber.org/papers/w35587
 stub: false
 subcategory: wiki-research-housing
@@ -40,6 +40,8 @@ The authors identify two mechanisms by which **higher** recurrent property taxes
 
 In the paper's overlapping-generations model, raising California's property-tax rates to Texas levels **increases young homeownership and decreases elderly homeownership**. Eliminating the step-up basis at death (the inheritance provision that wipes out accrued capital-gains liability) would further reduce elderly homeownership — evidence that tax advantages to holding until death substantially prop up incumbent tenure.
 
+A secondary write-up by Greg Miller of the [Center for Land Economics](/wiki/center-for-land-economics/) reports more granular figures from the paper's North Carolina reassessment analysis than the abstract states: a one-percentage-point property tax increase is associated with roughly a **22% fall in home value**, and doubling the property tax rate raised homeownership among 25–34 year-olds by **4.3 percentage points** while lowering it among the oldest cohort by about 4 points. The write-up frames the finding as a live policy contrast, citing Florida Governor Ron DeSantis's 2026 proposal to expand the state's homestead exemption to $250,000 as a policy moving in the opposite direction from the paper's implied prescription — since baby boomers hold nearly $20 trillion in US residential real estate (roughly half the total), and the paper's step-up-basis result implies eliminating that provision could free upward of 2 million housing units currently held by owners over 75.[2] These figures are Miller's characterization of the underlying working paper rather than this page's own reading of the full text, which remains paywalled to this session; graded C-claim (secondary coverage) pending direct verification against the paper itself.
+
 ## Relation to the Georgist Case
 
 This is the intergenerational-allocation version of a core Georgist argument: **a low holding cost on valuable locations subsidizes incumbency and idle or under-intensive use, and a recurring levy on that value prices the location to its highest-value user.** The paper's California-vs-Texas contrast is, in substance, a study of [Proposition 13](/wiki/proposition-13/)-style tax suppression: California's capped assessments are the canonical modern case of lock-in, long noted on this wiki's [San Francisco](/wiki/san-francisco/) and [Silicon Valley](/wiki/silicon-valley/) pages, and the paper supplies a formal mechanism and quantified simulation for what those caps do to who gets to live in the housing stock.
@@ -64,3 +66,4 @@ Two honest limits. First, the paper studies the conventional **property tax**, w
 ## Sources
 
 1. Joshua Coven, Sebastian Golder, Arpit Gupta & Abdoulaye Ndiaye (2026), "Property Taxes and Housing Allocation Under Financial Constraints," NBER Working Paper 35587 (August 2026). [nber.org/papers/w35587](https://www.nber.org/papers/w35587) — abstract fetched and read 2026-08-14 — used for the lock-in headline claim, the two mechanisms (price capitalization as embedded leverage; holding costs on incumbents), the California-to-Texas simulation result, and the step-up-basis finding. Scan depth: abstract only (B-claims); the full paper is paywalled to this session, so no claim below the abstract level is made.
+2. Greg Miller (Center for Land Economics), "Low property taxes freeze the youth out of the economy," *blog.landeconomics.org*, 18 August 2026. [blog.landeconomics.org](https://blog.landeconomics.org/p/low-property-taxes-freeze-the-youth) — fetched and read 2026-08-21; used for the more granular North Carolina reassessment figures (22% home-value fall per 1pp tax increase; 4.3pp homeownership gain among 25–34 year-olds from a doubled tax rate), the $20 trillion baby-boomer real-estate-holdings figure, the ~2 million-unit step-up-basis estimate, and the DeSantis homestead-exemption policy contrast (C-claim; secondary coverage of the same NBER paper, not independently verified against its full text).

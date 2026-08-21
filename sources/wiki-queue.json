@@ -1,52 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://www.armstrongwatson.co.uk/news/2026/08/could-uk-introduce-land-value-tax",
-      "source": "lvt-paper-scanner",
-      "reason": "UK tax practitioner analysis of LVT implementation — relevant to LVT policy design and UK reform debates.",
-      "context": "Could the UK introduce a Land Value Tax? — Paul Clark (Private Tax Partner). Armstrong Watson (UK accounting firm), 2026-08-19. Practitioner analysis of LVT feasibility under the Burnham government, examining design challenges and revenue potential.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-21T11:03:55.060050+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.mondaq.com/australia/property-taxes/1832948/victorian-property-tax-explained-windfall-gains-tax-wgt",
-      "source": "lvt-paper-scanner",
-      "reason": "Land value capture mechanism (windfall gains tax on rezoning uplift) — directly relevant to LVT/value capture practice.",
-      "context": "Victorian Property Tax Explained: Windfall Gains Tax (WGT) — Fasiha Rose. Mondaq / Australia, 2026-08-19. Explains Victoria's Windfall Gains Tax, a land value capture mechanism taxing uplift from rezoning.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-21T11:03:55.060050+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://inews.co.uk/news/council-tax-reform-affect-how-much-pay-area-4671672",
-      "source": "lvt-paper-scanner",
-      "reason": "UK property tax reform policy news — covers LVT as one of two reform models being considered by Treasury.",
-      "context": "How council tax reform could affect how much you pay — by area — Adam Forrest. inews (UK), 2026-07-28. Coverage of UK council tax reform options under PM Burnham, including proportional property tax and land value tax models.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-21T11:03:55.060050+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://blog.landeconomics.org/p/low-property-taxes-freeze-the-youth",
-      "source": "lvt-paper-scanner",
-      "reason": "Center for Land Economics analysis of property tax incidence on intergenerational equity — relevant to LVT advocacy evidence base.",
-      "context": "Low property taxes freeze the youth out of the economy — Lars Doucet. Center for Land Economics blog (blog.landeconomics.org), 2026-07. Discusses a new paper showing low property taxes lock young families out of homeownership.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-21T11:03:55.060050+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://progressandpovertyinstitute.org/modeling-land-values-in-baltimore/",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic research on land value assessment methodology (hedonic modeling) — directly relevant to LVT implementation and valuation challenges.",
-      "context": "Modeling Land Values in Baltimore — Dr. Chester Harvey. Progress and Poverty Institute, 2026-08. Research on using hedonic price models to estimate land value for LVT assessment, with Baltimore case study.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-21T11:03:55.060050+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2376,6 +2330,61 @@
       "reported": false,
       "disposition": "consumed",
       "disposition_reason": "Enriched places/jamaica-land-value-tax.md with a new '2026 Revaluation' section -- the NLA's fresh island-wide revaluation of the same unimproved-land-value tax base the page documents historically since 1957, plus current 0.5-1.5% rate structure and revenue-share figures. (2026-08-19 wave, post domain-migration cleanup)"
+    },
+    {
+      "url": "https://www.armstrongwatson.co.uk/news/2026/08/could-uk-introduce-land-value-tax",
+      "source": "lvt-paper-scanner",
+      "reason": "UK tax practitioner analysis of LVT implementation — relevant to LVT policy design and UK reform debates.",
+      "context": "Could the UK introduce a Land Value Tax? — Paul Clark (Private Tax Partner). Armstrong Watson (UK accounting firm), 2026-08-19. Practitioner analysis of LVT feasibility under the Burnham government, examining design challenges and revenue potential.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-21T11:03:55.060050+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added as a second UK LVT practitioner take (Paul Clark/Armstrong Watson) to people/andy-burnham.md — international comparison, sectoral impact, 28 Oct 2026 Budget date."
+    },
+    {
+      "url": "https://www.mondaq.com/australia/property-taxes/1832948/victorian-property-tax-explained-windfall-gains-tax-wgt",
+      "source": "lvt-paper-scanner",
+      "reason": "Land value capture mechanism (windfall gains tax on rezoning uplift) — directly relevant to LVT/value capture practice.",
+      "context": "Victorian Property Tax Explained: Windfall Gains Tax (WGT) — Fasiha Rose. Mondaq / Australia, 2026-08-19. Explains Victoria's Windfall Gains Tax, a land value capture mechanism taxing uplift from rezoning.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-21T11:03:55.060050+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added full Victoria Windfall Gains Tax mechanics to concepts/betterment-levy.md International Context, plus a new section on places/australia.md; cross-linked from organizations/prosper-australia.md."
+    },
+    {
+      "url": "https://inews.co.uk/news/council-tax-reform-affect-how-much-pay-area-4671672",
+      "source": "lvt-paper-scanner",
+      "reason": "UK property tax reform policy news — covers LVT as one of two reform models being considered by Treasury.",
+      "context": "How council tax reform could affect how much you pay — by area — Adam Forrest. inews (UK), 2026-07-28. Coverage of UK council tax reform options under PM Burnham, including proportional property tax and land value tax models.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-21T11:03:55.060050+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Brash/Dixon PPT area-level figures, the £1,200 cap/deferral design, Neidle's 1.28%/69%/31% LVT figure and PPT-disincentivizes-improvement critique, and Fell's simplicity argument to people/andy-burnham.md."
+    },
+    {
+      "url": "https://blog.landeconomics.org/p/low-property-taxes-freeze-the-youth",
+      "source": "lvt-paper-scanner",
+      "reason": "Center for Land Economics analysis of property tax incidence on intergenerational equity — relevant to LVT advocacy evidence base.",
+      "context": "Low property taxes freeze the youth out of the economy — Lars Doucet. Center for Land Economics blog (blog.landeconomics.org), 2026-07. Discusses a new paper showing low property taxes lock young families out of homeownership.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-21T11:03:55.060050+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Secondary coverage of an already-covered paper (NBER w35587, research/coven-property-taxes-housing-allocation.md). Added the blog's more granular NC figures (22% home-value fall, 4.3pp young-homeownership gain), the $20T baby-boomer holdings figure, and the DeSantis homestead-exemption policy contrast, graded C-claim."
+    },
+    {
+      "url": "https://progressandpovertyinstitute.org/modeling-land-values-in-baltimore/",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic research on land value assessment methodology (hedonic modeling) — directly relevant to LVT implementation and valuation challenges.",
+      "context": "Modeling Land Values in Baltimore — Dr. Chester Harvey. Progress and Poverty Institute, 2026-08. Research on using hedonic price models to estimate land value for LVT assessment, with Baltimore case study.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-21T11:03:55.060050+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Chester Harvey's Baltimore hedonic land-value case study to concepts/mass-appraisal-methods.md, cross-linked from concepts/split-rate-taxation.md's existing Baltimore paragraph."
     }
   ],
   "total": 203,
