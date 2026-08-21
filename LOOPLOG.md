@@ -3739,3 +3739,39 @@ false-positive on "property tax formula," not a Georgism-relevant story.
 
 Lint 0 errors, no orphans (both changes were enrichments, no new pages). Queue ledger:
 0 pending, 198 consumed.
+
+## 2026-08-21 — third recurrence of the mirror-duplicate batch, plus a 5-item genuine batch
+
+The `blog.landeconomics.org` mirror-duplicate problem (see 2026-08-19b above) recurred for
+the third time this session: the very next scanner triage commit (`0652e27`) re-queued the
+identical 11-article back catalog. Dropped them again with the same `/p/<slug>` matching
+method (commit `bb27c7a`), explicitly flagging in the commit message that this is now a
+confirmed *recurring* pattern, not a one-off — still unresolved at the scanner level. A
+follow-up scanner commit (`4fa6b37`) then produced a real git merge conflict on
+`wiki-queue.json` (main had re-added the same 11 mirror-dups again, on top of 5 genuinely
+new items); resolved by re-applying the slug filter to the union rather than trusting
+either side's queue state directly.
+
+The 5 genuinely new items were a coherent enough batch to work through directly (no full
+T0 pipeline): Victoria, Australia's Windfall Gains Tax — a rare *surviving* modern
+betterment levy, unlike the UK's four repeals — got full mechanics (rates, thresholds,
+30-year deferral) added to `concepts/betterment-levy.md`, `places/australia.md`, and
+`organizations/prosper-australia.md`. Two UK pieces enriched `people/andy-burnham.md`: an
+Armstrong Watson practitioner take (international comparison, sectoral impact, a 28 Oct
+2026 Budget date to watch) and *The i Paper*'s area-level breakdown of the
+proportional-property-tax option (Brash's Wandsworth/Hartlepool contrast, Dixon's
+per-town savings figures and the £1,200 transition cap, Neidle's simpler 1.28%/69%/31%
+LVT headline and his genuinely new point that a PPT — unlike a pure LVT — disincentivizes
+home improvement by taxing extensions, and Fell's counter that PPT is administratively
+simpler). A Baltimore hedonic land-value case study (Chester Harvey, ~85% explained
+variance) was added to `concepts/mass-appraisal-methods.md` and cross-linked to the
+existing Baltimore split-rate paragraph in `concepts/split-rate-taxation.md` — two
+unconnected Baltimore stories (can land be assessed there vs. should it be taxed
+differently) now point at each other. The fifth item turned out to be secondary coverage
+of a paper already on the wiki (NBER w35587, `research/coven-property-taxes-housing-allocation.md`,
+completed in an earlier pass) — added its more granular NC figures and the DeSantis
+policy-contrast angle as an explicitly graded C-claim addition rather than upgrading the
+existing B-claim abstract citation.
+
+Lint 0 errors, 0 orphans. Queue ledger: 0 pending, 203 consumed. All 7 touched pages
+Ghost-synced; spot-checked `betterment-levy` live (200, redirects to www.progress.org).
