@@ -85,6 +85,7 @@ Henry George's analysis located unearned income in land; the modern rent literat
 - [Superstar Firms](/wiki/superstar-firms/) · [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) · [The Rentier Economy](/wiki/the-rentier-economy/) · [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)
 - [Philippon (2015): the finance-efficiency puzzle](/wiki/philippon-finance-efficiency/) — the parallel evidence in the financial sector
 - [Kerspien, Madsen & Strulik (2025): Capital Composition and the Decline of the Labor Share](/wiki/kerspien-madsen-strulik-buildings-labor-share/) — a non-market-power account of the same labour-share decline, attributing it to rising real building prices rather than to rising markups (a reminder that the falling labour share is over-determined)
+- [Commander, Estrin, Thomas & Lingineni: Business Groups, Concentration and Market Power in India](/wiki/commander-estrin-india-business-groups/) — the same falling-concentration-but-rising-markups pattern documented outside the US, in Indian family-owned business groups
 
 ## Sources
 

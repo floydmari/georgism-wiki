@@ -1,25 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://openknowledge.worldbank.org/entities/publication/3c635bec-0a77-55e1-bc22-40083ce8c8a0",
-      "source": "lvt-paper-scanner",
-      "reason": "World Bank Policy Research Working Paper on land rights reform and agricultural investment in Vietnam — relevant to Georgist land policy and international land tenure evidence.",
-      "context": "Land Rights and Economic Development: Evidence from Vietnam — Do, Quy-Toan & Iyer, Lakshmi. World Bank Policy Research Working Paper No. 3120, 2003. Examines the impact of land reform in Vietnam giving households the power to exchange, transfer, lease, inherit, and mortgage land-use rights, using difference-in-differences estimation. Finds significant increases in multi-year crop investment.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-22T11:02:31.316746+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://ideas.repec.org/p/ehl/lserod/138970.html",
-      "source": "lvt-paper-scanner",
-      "reason": "LSE research paper on market concentration, markups, and monopoly power of family-owned business groups in India (2000-2020) — directly relevant to economic rent / monopoly rent / rent-seeking.",
-      "context": "Business groups, concentration and market power in India — Commander, Simon & Estrin, Saul & Thomas, Naveen Joseph & Lingineni, Varun. LSE Research Online Documents on Economics 138970, 2026. Analyses market structure evolution in India 2000-2020, finding declining concentration but rising markups linked to high-concentration sectors, with family-owned business groups entrenching across the economy.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-22T11:02:31.316746+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2404,6 +2385,28 @@
       "reported": false,
       "disposition": "enriched",
       "disposition_reason": "Added Chester Harvey's Baltimore hedonic land-value case study to concepts/mass-appraisal-methods.md, cross-linked from concepts/split-rate-taxation.md's existing Baltimore paragraph."
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/3c635bec-0a77-55e1-bc22-40083ce8c8a0",
+      "source": "lvt-paper-scanner",
+      "reason": "World Bank Policy Research Working Paper on land rights reform and agricultural investment in Vietnam — relevant to Georgist land policy and international land tenure evidence.",
+      "context": "Land Rights and Economic Development: Evidence from Vietnam — Do, Quy-Toan & Iyer, Lakshmi. World Bank Policy Research Working Paper No. 3120, 2003. Examines the impact of land reform in Vietnam giving households the power to exchange, transfer, lease, inherit, and mortgage land-use rights, using difference-in-differences estimation. Finds significant increases in multi-year crop investment.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-22T11:02:31.316746+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/do-iyer-vietnam-land-rights.md — Vietnam 1993 Land Law tenure-security study; carefully distinguished from LVT taxation claims in the body."
+    },
+    {
+      "url": "https://ideas.repec.org/p/ehl/lserod/138970.html",
+      "source": "lvt-paper-scanner",
+      "reason": "LSE research paper on market concentration, markups, and monopoly power of family-owned business groups in India (2000-2020) — directly relevant to economic rent / monopoly rent / rent-seeking.",
+      "context": "Business groups, concentration and market power in India — Commander, Simon & Estrin, Saul & Thomas, Naveen Joseph & Lingineni, Varun. LSE Research Online Documents on Economics 138970, 2026. Analyses market structure evolution in India 2000-2020, finding declining concentration but rising markups linked to high-concentration sectors, with family-owned business groups entrenching across the economy.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-22T11:02:31.316746+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/commander-estrin-india-business-groups.md — Indian business-group market concentration/markup study; cross-linked into rent-seeking/corporate-profits-rents problem pages."
     }
   ],
   "last_updated": "2026-08-22T11:02:31.316746+00:00",

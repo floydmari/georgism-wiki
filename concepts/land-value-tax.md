@@ -116,6 +116,7 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 - [Veil of Secrecy over Land Ownership and Values](/wiki/land-ownership-secrecy/) — Harrison's account of systematic suppression of land ownership and price data as a standing obstacle to assessment and rent capture
 - [Physiocrats](/wiki/physiocrats/) — the *produit net* / *impôt unique* forerunners of land-value taxation
 - [Site Value](/wiki/site-value/)
+- [Do & Iyer: Land Rights and Economic Development — Evidence from Vietnam](/wiki/do-iyer-vietnam-land-rights/) — a tenure-security (not taxation) study worth distinguishing carefully from LVT's separate claim that taxing land rent does not discourage improvement investment
 
 - [Land Value Capture](/wiki/land-value-capture/)
 

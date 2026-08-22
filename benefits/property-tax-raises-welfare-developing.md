@@ -66,6 +66,7 @@ constraint is loosenable, not that loosening it delivers measured welfare gains.
 - [Bergeron, Tourek & Weigel (2024): randomized property-tax rates in the DRC](/wiki/bergeron-tourek-weigel-drc-property-tax/)
 - [Almy (OECD, 2014): valuation and assessment across 172 countries](/wiki/almy-oecd-valuation-assessment/) — the administrative-feasibility evidence
 - [Bencure et al. (2019): mass appraisal in Baybay City, Philippines](/wiki/bencure-ilvm-baybay-philippines/) — developing-country valuation done
+- [Do & Iyer: Land Rights and Economic Development — Evidence from Vietnam](/wiki/do-iyer-vietnam-land-rights/) — a related but distinct developing-country finding: secure, transferable tenure (not taxation) raises long-horizon agricultural investment
 - [Land Value Tax](/wiki/land-value-tax/) · [Deadweight Loss](/wiki/deadweight-loss/)
 
 ## Sources

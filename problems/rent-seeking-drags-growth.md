@@ -187,6 +187,7 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
 - [Optimal Taxation with Rent-Seeking (Rothschild & Scheuer)](/wiki/rothschild-scheuer-rent-seeking/)
 - [Corporate profits are increasingly rents](/wiki/corporate-profits-increasingly-rents/)
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
+- [Commander, Estrin, Thomas & Lingineni: Business Groups, Concentration and Market Power in India](/wiki/commander-estrin-india-business-groups/) — a national case study of entrenched non-land economic rent among family-owned conglomerates
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
 - [Gaffney (1967): The Benefits of Farm Programs](/wiki/gaffney-benefits-farm-programs/) — the intensity-quotient mechanism linking marginal-land leverage to political mobilization
 - [Gaffney & Cobb (2018): Corporate Power and Expansive U.S. Military Policy](/wiki/gaffney-corporate-power-military/) — military spending as a subsidy defending corporate resource tenure abroad
