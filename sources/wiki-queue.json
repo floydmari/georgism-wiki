@@ -99,6 +99,24 @@
       "author": "research-scanner",
       "queued_at": "2026-08-22T10:02:32.185684+00:00",
       "reported": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/3c635bec-0a77-55e1-bc22-40083ce8c8a0",
+      "source": "lvt-paper-scanner",
+      "reason": "World Bank Policy Research Working Paper on land rights reform and agricultural investment in Vietnam \u2014 relevant to Georgist land policy and international land tenure evidence.",
+      "context": "Land Rights and Economic Development: Evidence from Vietnam \u2014 Do, Quy-Toan & Iyer, Lakshmi. World Bank Policy Research Working Paper No. 3120, 2003. Examines the impact of land reform in Vietnam giving households the power to exchange, transfer, lease, inherit, and mortgage land-use rights, using difference-in-differences estimation. Finds significant increases in multi-year crop investment.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-22T11:02:31.316746+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://ideas.repec.org/p/ehl/lserod/138970.html",
+      "source": "lvt-paper-scanner",
+      "reason": "LSE research paper on market concentration, markups, and monopoly power of family-owned business groups in India (2000-2020) \u2014 directly relevant to economic rent / monopoly rent / rent-seeking.",
+      "context": "Business groups, concentration and market power in India \u2014 Commander, Simon & Estrin, Saul & Thomas, Naveen Joseph & Lingineni, Varun. LSE Research Online Documents on Economics 138970, 2026. Analyses market structure evolution in India 2000-2020, finding declining concentration but rising markups linked to high-concentration sectors, with family-owned business groups entrenching across the economy.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-22T11:02:31.316746+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -2487,6 +2505,5 @@
       "disposition_reason": "Added Chester Harvey's Baltimore hedonic land-value case study to concepts/mass-appraisal-methods.md, cross-linked from concepts/split-rate-taxation.md's existing Baltimore paragraph."
     }
   ],
-  "total": 11,
-  "last_updated": "2026-08-22T10:02:47Z"
+  "last_updated": "2026-08-22T11:02:31.316746+00:00"
 }
