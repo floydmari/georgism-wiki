@@ -3775,3 +3775,25 @@ existing B-claim abstract citation.
 
 Lint 0 errors, 0 orphans. Queue ledger: 0 pending, 203 consumed. All 7 touched pages
 Ghost-synced; spot-checked `betterment-levy` live (200, redirects to www.progress.org).
+
+## 2026-08-22 — 4th mirror-dup recurrence; two new research pages
+
+Two quiet passes (main unchanged, no submissions, no queue items), then the 10:00 UTC
+scanner run produced 13 items — 11 of them the *same* `blog.landeconomics.org` back
+catalog for the fourth confirmed time this session. Dropped again with the same
+`/p/<slug>` script (commit `f0b9e19`); still unresolved at the scanner level. The 2
+genuinely new items were unrelated academic papers with no existing coverage: **Commander,
+Estrin, Thomas & Lingineni** (LSE, 2026) on Indian business-group market concentration —
+falling headline concentration masking a persistent high-concentration bloc and rising
+post-2013 markups, family conglomerates entrenching economic share — got a new page
+cross-linked into `problems/rent-seeking-drags-growth.md` and
+`problems/corporate-profits-increasingly-rents.md`. **Do & Iyer** (World Bank, 2003) on
+Vietnam's 1993 Land Law also got a new page; worth noting this one required care to place
+correctly — it's a *tenure-security* study (transferable land-use rights raising long-horizon
+crop and irrigation investment), not a taxation study, so the page's "Relation to the
+Georgist Case" section explicitly distinguishes it from LVT's separate claim that taxing
+land rent (as opposed to insecure tenure) doesn't discourage investment, rather than letting
+"land rights" in the title imply it's evidence for or against LVT itself.
+
+Lint 0 errors, 0 orphans, 941 pages. Queue ledger: 0 pending, 205 consumed. Both new pages
+plus 4 cross-linked pages Ghost-synced; spot-checked `do-iyer-vietnam-land-rights` live (200).
