@@ -20,6 +20,7 @@ The Northern Pacific grant is also the clearest case of railroad land grants fee
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the pattern the Panic of 1873 exemplifies
 - [The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — discovery source situating the Northern Pacific grant within the 18-year land cycle
 - [Narrative: The Great Land Robbery](/wiki/the-great-land-robbery/) — the broader justice narrative about how existing land titles were acquired
+- [Foldvary: Ground Rent Seeking in U.S. Economic History](/wiki/foldvary-ground-rent-seeking-us-history/) — the public-choice mechanism behind grants like these, reframed as off-budget deficits
 
 ## Sources
 

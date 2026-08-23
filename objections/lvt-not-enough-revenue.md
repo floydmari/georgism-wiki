@@ -111,6 +111,28 @@ advocates concede full replacement is uncertain:
 - ATCOR, the strongest expansion argument, is the least empirically tested.
 - Blaug's "rapidly growing cities" point has real content: rent is geographically
   concentrated, so a national LVT's yield depends heavily on metro land markets.
+- A skeptical-but-sympathetic estimate lands squarely in this dispute's low range.
+  Economist Pierre Lemieux, writing at Econlib in 2018, put total US land value at
+  roughly $50 trillion and, at a 5% capitalization rate, total annual land rent at
+  about $2.5 trillion — against roughly $6 trillion in total US government
+  spending, or **42%** of the total. That figure sits toward the low end of the
+  ranges already surveyed above (Doucet's $1.2–3.5T, Larson's $23T land-value
+  total), so it does not by itself resolve the dispute, but it is a useful
+  independently-derived middle figure from a source arguing LVT is efficient and
+  ethically sound (endorsing Friedman's "least bad tax" line) while still doubting
+  it can fund government alone. Lemieux raises two further objections worth
+  flagging but addressed more fully elsewhere on the wiki: an
+  **expropriation** concern — a new land tax "expropriates, at least partly, the
+  current owners of land, who paid for the capitalized value of future non-taxed
+  (or lightly taxed) rents when they purchased their land," a transition-fairness
+  point the wiki's [transition wealth shock](/wiki/lvt-transition-wealth-shock/)
+  objection page treats in depth — and a **Leviathan** concern, following Brennan
+  & Buchanan, that an unrestrained government land-tax monopoly could "charge in
+  taxes what the market will bear," risking a slow-motion land nationalization in
+  substance if not in name, a state-power-concentration worry closer in kind to
+  the wiki's [public-choice critique](/wiki/public-choice-critique/) and
+  [LVT is socialism](/wiki/lvt-is-socialism/) pages than to this one's narrower
+  revenue-arithmetic question.
 
 ## Net Assessment
 
@@ -126,6 +148,7 @@ theory.
 - [Land Is Not a Big Deal Anymore (Krugman Objection)](/wiki/land-no-longer-matters/) — the broader claim that land itself is now economically trivial in a services economy, distinct from this page's narrower revenue-sufficiency dispute
 - [Single Tax](/wiki/single-tax/) · [ATCOR](/wiki/atcor/)
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the evidence page
+- [Foldvary: Geo-Rent, A Plea to Public Economists](/wiki/foldvary-geo-rent-plea-public-economists/) — a more optimistic ~50%-of-revenue synthesis estimate, worth reading alongside this page's more conservative figures
 - [Land is a Big Deal (book)](/wiki/land-is-a-big-deal/) · [Blaug, Economic Theory in Retrospect (book)](/wiki/economic-theory-in-retrospect/)
 
 ## Sources
@@ -160,3 +183,9 @@ theory.
    prediction rather than evidence (D-claim, public domain, verified verbatim
    against the [repository full text](/wiki/progress-and-poverty-full-text/),
    EDITORIAL §3b).
+8. Pierre Lemieux, "Land Taxes: The Return of Henry George," *Econlib* (Liberty
+   Fund), 17 August 2018. [econlib.org](https://www.econlib.org/land-taxes-the-return-of-henry-george/) —
+   fetched and read 2026-08-23; used for the $50T land-value/$2.5T annual
+   rent/42%-of-$6T-spending estimate, the Friedman "least bad tax" endorsement,
+   the expropriation-of-current-owners objection, and the Brennan & Buchanan
+   Leviathan/land-nationalization-risk objection (B-claim).

@@ -88,6 +88,28 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   distributional design choice — a zone-bound TIF can entrench geographic inequality in a
   way a citywide land value tax cannot.[7]
 
+- **A second, mechanically distinct TIF side-effect: Wisconsin's levy-limit interaction
+  (2026).** San Antonio's TIRZ problem is about *where* captured value goes; Wisconsin
+  surfaces a different failure mode entirely — TIF can mechanically **raise** tax bills for
+  residents entirely outside the TIF district. Wisconsin caps how much a municipality's
+  total property-tax levy can grow each year, tying the allowed increase to the percentage
+  of "net new construction" added to the tax base. New construction *inside* a TIF district
+  counts toward that allowed levy increase, but the district's added assessed value is
+  *excluded* from the tax base used to spread the resulting levy across taxpayers — so, per
+  the Wisconsin Legislative Council's own explanation, "the mill rate will increase from the
+  prior year, because the mill rate's numerator increases while the denominator stays the
+  same." The effect is not intrinsic to TIF itself — a city could avoid it simply by not
+  levying the full increase it's permitted — but Badger Institute reporting notes some local
+  officials deny the mechanism occurs until shown the Legislative Council's own
+  documentation, and cites a 647-acre former-farmland TIF district near Port Washington,
+  created to fund water and sewer infrastructure for a data-center project, as a live
+  current example. Read together, San Antonio and Wisconsin show TIF's distributional risk
+  cuts two ways: value can be captured *and hoarded* within a wealthy zone (Texas), or a
+  zone's construction can be counted for levy purposes while its added value is excluded
+  from the base that spreads the resulting bill (Wisconsin) — two structurally different
+  routes to the same outcome, non-TIF taxpayers paying more than the "growth pays for
+  itself" framing implies.[8]
+
 ## Book Findings
 
 ### Howard: Garden City as LVT Application
@@ -137,3 +159,4 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 5. Juliette Maulat & Natacha Aveline-Dubach, "Shifting land value capture instruments for the Grand Paris Express metro," *Land Use Policy* 161 (2026): 107854. [DOI](https://doi.org/10.1016/j.landusepol.2025.107854) — used for the Grand Paris Express case (B-claim, full bilingual abstract read via [CORE.ac.uk's mirror of the HAL repository record](https://api.core.ac.uk/v3/search/works/?q=doi:10.1016/j.landusepol.2025.107854), fetched 2026-08-10; the ScienceDirect and HAL full-text pages themselves remain bot-blocked).
 6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument, now with two direct quotations from the project page's own summary, fetched successfully 2026-08-10 (D-claim; the full report PDF remains bot-blocked, so quotation is limited to what the project page itself reproduces).
 7. Shari Biediger, "TIRZ explained: It's how SA will fund the new ballpark, Spurs arena," *San Antonio Report*, August 2026. [sanantonioreport.org](https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/) — article fetched and read 2026-08-14; used for the nine-zone count, the FY2025 $45M/~5%-of-$819M capture figures (attributed in the article to city CFO Troy Elliott), the ballpark financing shares, the Heather Way quotations and sunset-extension critique, and the board-meeting/minutes transparency details (B-claims; local journalism, quoted figures are the article's own).
+8. Patrick McIlheran, "How a development tool can increase property taxes," *Badger Institute*, 20 August 2026. [badgerinstitute.org](https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/) — fetched and read 2026-08-23; used for the Wisconsin net-new-construction levy-limit mechanism, the Wisconsin Legislative Council's own mill-rate explanation (quoted verbatim), the up-to-27-year TIF diversion period, the local-official-denial point, and the Port Washington-area 647-acre data-center TIF example (B-claim; local policy journalism from a free-market-oriented think tank).

@@ -1,70 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://insights.kghub.ca/development-economics/unlocking-land-value-effective-strategies-for-analysis-in-urban-development/",
-      "source": "lvt-paper-scanner",
-      "reason": "Land value analysis — residual value modeling, highest and best use, and value capture — to unlock housing supply and smarter growth in Canadian cities.",
-      "context": "Unlocking Land Value: A Guide for Urban Development — web, 2026. Found by LVT paper scanner.",
-      "author": "hugh-ai",
-      "queued_at": "2026-08-23T11:04:08.434540+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://progressandpovertyinstitute.org/the-henry-george-theorem/",
-      "source": "lvt-paper-scanner",
-      "reason": "By Nicolaus Tideman. The postulate that, under certain circumstances, a public service will increase land rent enough that, if collected as public revenue, this revenue will be sufficient to pay for t",
-      "context": "The Henry George Theorem — web, . Found by LVT paper scanner.",
-      "author": "hugh-ai",
-      "queued_at": "2026-08-23T11:04:08.434540+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://link.springer.com/chapter/10.1007/1-4020-7864-1_7",
-      "source": "lvt-paper-scanner",
-      "reason": "Springer Nature Link chapter on Public Revenue from Land Rent.",
-      "context": "Public Revenue from Land Rent — springer, . Found by LVT paper scanner.",
-      "author": "hugh-ai",
-      "queued_at": "2026-08-23T11:04:08.434540+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://econjwatch.org/articles/geo-rent-a-plea-to-public-economists",
-      "source": "lvt-paper-scanner",
-      "reason": "Fred E. Foldvary. This paper presents an analysis of what is termed 'geo-rent,' what the plot-devoid-of-improvements would rent for.",
-      "context": "Geo-Rent: A Plea to Public Economists — web, . Found by LVT paper scanner.",
-      "author": "hugh-ai",
-      "queued_at": "2026-08-23T11:04:08.434540+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.sjsu.edu/economics/docs/pub-fac/foldvary-sep19.pdf",
-      "source": "lvt-paper-scanner",
-      "reason": "Fred E. Foldvary. The term 'rent' originally meant the return on land in classical economics, and later also came to mean economic rent.",
-      "context": "Ground Rent Seeking in US Economic History — web, . Found by LVT paper scanner.",
-      "author": "hugh-ai",
-      "queued_at": "2026-08-23T11:04:08.434540+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.econlib.org/land-taxes-the-return-of-henry-george/",
-      "source": "lvt-paper-scanner",
-      "reason": "Pierre Lemieux, Aug 17 2018. An article in The Economist suggests reconsidering the land-value tax advocated by Henry George.",
-      "context": "Land Taxes: The Return of Henry George — web, . Found by LVT paper scanner.",
-      "author": "hugh-ai",
-      "queued_at": "2026-08-23T11:04:08.434540+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/",
-      "source": "lvt-paper-scanner",
-      "reason": "Patrick McIlheran. Development-spurring TIF has consequences in Wisconsin's taxpayer-protecting levy limits.",
-      "context": "How a development tool can increase property taxes — web, 2026. Found by LVT paper scanner.",
-      "author": "hugh-ai",
-      "queued_at": "2026-08-23T11:04:08.434540+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2471,6 +2407,83 @@
       "reported": false,
       "disposition": "published",
       "disposition_reason": "New page research/commander-estrin-india-business-groups.md — Indian business-group market concentration/markup study; cross-linked into rent-seeking/corporate-profits-rents problem pages."
+    },
+    {
+      "url": "https://insights.kghub.ca/development-economics/unlocking-land-value-effective-strategies-for-analysis-in-urban-development/",
+      "source": "lvt-paper-scanner",
+      "reason": "Land value analysis — residual value modeling, highest and best use, and value capture — to unlock housing supply and smarter growth in Canadian cities.",
+      "context": "Unlocking Land Value: A Guide for Urban Development — web, 2026. Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "Real-estate developer SEO/content-marketing blog post; no original data or citations; everything substantive already covered more rigorously elsewhere on the wiki."
+    },
+    {
+      "url": "https://progressandpovertyinstitute.org/the-henry-george-theorem/",
+      "source": "lvt-paper-scanner",
+      "reason": "By Nicolaus Tideman. The postulate that, under certain circumstances, a public service will increase land rent enough that, if collected as public revenue, this revenue will be sufficient to pay for t",
+      "context": "The Henry George Theorem — web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Tideman's four practical preconditions and two real-world caveats to concepts/henry-george-theorem.md."
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/1-4020-7864-1_7",
+      "source": "lvt-paper-scanner",
+      "reason": "Springer Nature Link chapter on Public Revenue from Land Rent.",
+      "context": "Public Revenue from Land Rent — springer, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added as an additional academic-handbook citation to research/foldvary-public-revenue.md (metadata-only, paywalled, C-claim)."
+    },
+    {
+      "url": "https://econjwatch.org/articles/geo-rent-a-plea-to-public-economists",
+      "source": "lvt-paper-scanner",
+      "reason": "Fred E. Foldvary. This paper presents an analysis of what is termed 'geo-rent,' what the plot-devoid-of-improvements would rent for.",
+      "context": "Geo-Rent: A Plea to Public Economists — web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/foldvary-geo-rent-plea-public-economists.md — full PDF read; notable EJW paper previously only cited secondarily, never given its own page."
+    },
+    {
+      "url": "https://www.sjsu.edu/economics/docs/pub-fac/foldvary-sep19.pdf",
+      "source": "lvt-paper-scanner",
+      "reason": "Fred E. Foldvary. The term 'rent' originally meant the return on land in classical economics, and later also came to mean economic rent.",
+      "context": "Ground Rent Seeking in US Economic History — web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/foldvary-ground-rent-seeking-us-history.md — public-choice history of US land rent-seeking, full PDF read."
+    },
+    {
+      "url": "https://www.econlib.org/land-taxes-the-return-of-henry-george/",
+      "source": "lvt-paper-scanner",
+      "reason": "Pierre Lemieux, Aug 17 2018. An article in The Economist suggests reconsidering the land-value tax advocated by Henry George.",
+      "context": "Land Taxes: The Return of Henry George — web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Lemieux's $2.5T/$6T (42%) revenue-gap estimate and expropriation/Leviathan objections to objections/lvt-not-enough-revenue.md."
+    },
+    {
+      "url": "https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/",
+      "source": "lvt-paper-scanner",
+      "reason": "Patrick McIlheran. Development-spurring TIF has consequences in Wisconsin's taxpayer-protecting levy limits.",
+      "context": "How a development tool can increase property taxes — web, 2026. Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Wisconsin's TIF/levy-limit mechanism as a second, mechanically distinct TIF side-effect to concepts/land-value-capture.md."
     }
   ],
   "last_updated": "2026-08-23T11:04:30.876008+00:00",

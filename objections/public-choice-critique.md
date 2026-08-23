@@ -257,6 +257,7 @@ stands.
 - [Objection: land value can't be assessed](/wiki/land-cannot-be-assessed/) — the technical sibling of the discretion worry
 - [Objection: LVT transition wealth shock](/wiki/lvt-transition-wealth-shock/) · [Objection: homevoters will block LVT](/wiki/homevoters-will-block-lvt/)
 - [Harberger Tax / COST](/wiki/harberger-tax/) — self-assessment as a discretion-removing mechanism
+- [Foldvary: Ground Rent Seeking in U.S. Economic History](/wiki/foldvary-ground-rent-seeking-us-history/) — a public-choice historian applying this objection's own framework to land policy, concluding the failure mode is exactly what LVT-style reforms target
 
 ## Sources
 

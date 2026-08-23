@@ -26,6 +26,30 @@ The theorem gives Georgism a rigorous foundation in mainstream theory: it is not
 
 The original Arnott–Stiglitz result holds under **first-best conditions**: an optimally sized city, no pre-existing distortions, and idealised public-goods provision. [Behrens, Kanemoto & Murata (2015)](/wiki/behrens-hgt-second-best/), writing in the *Journal of Urban Economics*, tested whether the equality survives once those simplifications are dropped — admitting increasing returns, agglomeration economies, and pre-existing distortionary taxes such as ordinary property taxes. They find a "second-best" version of the theorem still holds: land rents remain tightly linked to the optimal financing of local public goods even in a more realistic economy, which makes the theoretical case for rent-funded public goods considerably more robust than the stylised first-best version alone would suggest.
 
+## Practical Application: Preconditions and Caveats
+
+Beyond the theoretical extensions above, [Nicolaus Tideman](/wiki/nicolaus-tideman/) sets out
+four practical preconditions that must hold for a specific public service to actually pay for
+itself through captured land rent, as the theorem predicts: the service's benefits must be
+worth at least its cost; those benefits must be **geographically bounded** rather than
+universally available (a local park capitalizes into nearby land rent; a public good with no
+locational specificity, like most of the internet, does not); rents must be set in a genuinely
+**free market**, since rent controls sever the link between benefit and capitalized value; and
+residents must have roughly **uniform benefit-to-land ratios** — similar incomes and
+preferences at a given distance from the amenity — for the aggregate rent increase to track
+the aggregate benefit.
+
+Tideman also flags two real-world complications the classical statement abstracts away.
+First, when residents differ meaningfully in income and taste, some genuine benefit will not
+show up as increased land rent, so rent capture alone will systematically **undercollect**
+relative to total benefit in an unequal population. Second, a full cost-benefit accounting of
+any project financed this way needs to net out **hidden costs** the rent-capitalization
+framing can obscure: new infrastructure can render nearby existing structures economically
+obsolete (a subway line can devalue buildings ill-suited to the new land use it enables), and
+amenity-driven rent increases can displace lower-income residents unable to afford the new
+rents — a real social cost that does not appear in the land-value ledger even though it is a
+direct consequence of the same capitalization the theorem relies on.
+
 ## Limits: The Capitalization Premise Under Challenge
 
 The theorem's mechanism — that public spending capitalises fully into land rent, which a tax can then recover — depends on the classical assumption that a tax on land rent is fully unshifted and fully capitalized into a lower land price. [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/) is the canonical mainstream challenge to that premise: in a general-equilibrium growth model where land and produced capital compete as vehicles for life-cycle saving, Feldstein showed a tax on pure land rent can be **partly shifted** onto capital (lower yield) and labor (higher wages), with the land price potentially *rising* rather than falling. Two later replies — Calvo, Kotlikoff & Rodriguez (1979) and Fane (1984) — show the classical full-capitalization result returns once bequests/intergenerational altruism or a properly compensated tax experiment are admitted; see the [Feldstein research page](/wiki/feldstein-incidence-pure-rent/) for the full exchange. The theorem's practical takeaway is disturbed only under Feldstein's specific assumptions — no bequest motive, with land serving as the life-cycle savings vehicle — and most economies' bequest behaviour pushes the result back toward the classical full-capitalization case.
@@ -47,3 +71,4 @@ The theorem's mechanism — that public spending capitalises fully into land ren
 3. Kristian Behrens, Yoshitsugu Kanemoto & Yasusada Murata (2015), "The Henry George Theorem in a second-best world," *Journal of Urban Economics* — used for the second-best extension showing the theorem's rent-equals-public-goods equality survives increasing returns, agglomeration economies, and pre-existing distortionary taxes (§"Extensions" above). [wiki summary](/wiki/behrens-hgt-second-best/) · [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0094119014000771)
 4. Martin Feldstein (1977), "The Surprising Incidence of a Tax on Pure Rent: A New Answer to an Old Question," *Journal of Political Economy* 85(2) — used for the mainstream general-equilibrium challenge to full capitalization of a land tax that qualifies the theorem's incidence assumption, and the replies (Calvo–Kotlikoff–Rodriguez 1979; Fane 1984) restoring the classical result (§"Limits" above). [wiki summary](/wiki/feldstein-incidence-pure-rent/)
 5. Mason Gaffney (1972), "Land Rent, Taxation, and Public Policy: The Sources, Nature and Functions of Urban Land Rent," *American Journal of Economics and Sociology* 31(3): 241–258 — used for the pre-Stiglitz informal statement of the capitalization mechanism (§"Origin" above). [wiki summary](/wiki/gaffney-urban-land-rent/)
+6. Nicolaus Tideman, "The Henry George Theorem," *Progress and Poverty Institute* (Center for Land Economics), undated explainer. [progressandpovertyinstitute.org](https://progressandpovertyinstitute.org/the-henry-george-theorem/) — fetched and read 2026-08-23; used for the four practical preconditions (worthwhile service, geographically bounded benefit, free-market rent-setting, uniform benefit-to-land ratios) and the two real-world caveats (uneven benefit distribution, hidden costs from structural devaluation and displacement) in §"Practical Application" above (B-claim).
