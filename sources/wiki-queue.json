@@ -99,6 +99,69 @@
       "author": "research-scanner",
       "queued_at": "2026-08-23T10:01:25.026246+00:00",
       "reported": false
+    },
+    {
+      "url": "https://insights.kghub.ca/development-economics/unlocking-land-value-effective-strategies-for-analysis-in-urban-development/",
+      "source": "lvt-paper-scanner",
+      "reason": "Land value analysis \u2014 residual value modeling, highest and best use, and value capture \u2014 to unlock housing supply and smarter growth in Canadian cities.",
+      "context": "Unlocking Land Value: A Guide for Urban Development \u2014 web, 2026. Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://progressandpovertyinstitute.org/the-henry-george-theorem/",
+      "source": "lvt-paper-scanner",
+      "reason": "By Nicolaus Tideman. The postulate that, under certain circumstances, a public service will increase land rent enough that, if collected as public revenue, this revenue will be sufficient to pay for t",
+      "context": "The Henry George Theorem \u2014 web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/1-4020-7864-1_7",
+      "source": "lvt-paper-scanner",
+      "reason": "Springer Nature Link chapter on Public Revenue from Land Rent.",
+      "context": "Public Revenue from Land Rent \u2014 springer, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://econjwatch.org/articles/geo-rent-a-plea-to-public-economists",
+      "source": "lvt-paper-scanner",
+      "reason": "Fred E. Foldvary. This paper presents an analysis of what is termed 'geo-rent,' what the plot-devoid-of-improvements would rent for.",
+      "context": "Geo-Rent: A Plea to Public Economists \u2014 web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.sjsu.edu/economics/docs/pub-fac/foldvary-sep19.pdf",
+      "source": "lvt-paper-scanner",
+      "reason": "Fred E. Foldvary. The term 'rent' originally meant the return on land in classical economics, and later also came to mean economic rent.",
+      "context": "Ground Rent Seeking in US Economic History \u2014 web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.econlib.org/land-taxes-the-return-of-henry-george/",
+      "source": "lvt-paper-scanner",
+      "reason": "Pierre Lemieux, Aug 17 2018. An article in The Economist suggests reconsidering the land-value tax advocated by Henry George.",
+      "context": "Land Taxes: The Return of Henry George \u2014 web, . Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/",
+      "source": "lvt-paper-scanner",
+      "reason": "Patrick McIlheran. Development-spurring TIF has consequences in Wisconsin's taxpayer-protecting levy limits.",
+      "context": "How a development tool can increase property taxes \u2014 web, 2026. Found by LVT paper scanner.",
+      "author": "hugh-ai",
+      "queued_at": "2026-08-23T11:04:08.434540+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -2509,6 +2572,6 @@
       "disposition_reason": "New page research/commander-estrin-india-business-groups.md \u2014 Indian business-group market concentration/markup study; cross-linked into rent-seeking/corporate-profits-rents problem pages."
     }
   ],
-  "last_updated": "2026-08-23T10:01:40Z",
-  "total": 11
+"last_updated": "2026-08-23T11:04:30.876008+00:00",
+  "total": 18
 }
