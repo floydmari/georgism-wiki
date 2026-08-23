@@ -3797,3 +3797,38 @@ land rent (as opposed to insecure tenure) doesn't discourage investment, rather 
 
 Lint 0 errors, 0 orphans, 941 pages. Queue ledger: 0 pending, 205 consumed. Both new pages
 plus 4 cross-linked pages Ghost-synced; spot-checked `do-iyer-vietnam-land-rights` live (200).
+
+## 2026-08-23 — mirror-dup email escalation; first full T0-pipeline batch in a while
+
+Two quiet passes, then the mirror-dup batch resurfaced for a 5th time. Rather than just
+noting it in another commit message, sent Floyd an actual email (`scripts/send_email.py`)
+summarizing the pattern across all five recurrences and proposing two concrete scanner-side
+fixes (path-only dedup key, or a known-mirror-domain list) — five silent commit-message
+flags with no visible fix felt like the wrong way to keep handling it. Dropped the 11 items
+(commit `34db754`) and pushed, then hit a real merge conflict on the next fetch: a *sixth*
+recurrence had landed on main in the gap, bundled with 7 genuinely new items. Resolved by
+re-applying the slug filter to the union, same as prior conflicts.
+
+The surviving 7-item batch was worked through the full **T0 brief step** for the first time
+in a few passes — corpus digest, one Sonnet agent producing `sources/context-briefs/2026-08-23.json`
+with per-item existing-coverage checks and disposition recommendations, T1 (me) verifying
+each against the primary source before acting rather than trusting the brief blind. All 7
+T0 dispositions held up: **new pages** for two under-served Fred Foldvary papers — "Geo-Rent:
+A Plea to Public Economists" (2005 EJW, full PDF read; the source of the wiki's existing
+"~50% of government revenue" figure, now traced to its actual passage) and "Ground Rent
+Seeking in U.S. Economic History" (2014 SJSU seminar paper, full PDF read; the Founders'
+own land speculation as a driver of the Constitutional Convention, per Beard and
+Friedenberg) — both previously cited only secondhand or not at all despite the wiki's
+established one-page-per-major-Foldvary-paper pattern. **Enrichments**: Tideman's four
+practical preconditions for the Henry George Theorem to hold in application, added to
+`concepts/henry-george-theorem.md`; Lemieux's independent $2.5T/$6T (42%) revenue estimate
+plus his expropriation and Leviathan objections into `objections/lvt-not-enough-revenue.md`;
+a second, mechanically distinct TIF failure mode (Wisconsin's levy-limit interaction, which
+raises bills for residents *outside* a TIF district — the mirror image of San Antonio's
+already-documented capture-and-hoard problem) into `concepts/land-value-capture.md`; and a
+paywalled Springer handbook chapter cited at metadata-level only into
+`research/foldvary-public-revenue.md`. **Rejected**: a real-estate developer's SEO blog post
+with no original content.
+
+Lint 0 errors, 0 orphans, 943 pages. Queue ledger: 0 pending, 212 consumed. All 10 touched
+pages Ghost-synced; spot-checked `foldvary-geo-rent-plea-public-economists` live (200).
