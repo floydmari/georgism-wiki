@@ -99,6 +99,42 @@
       "author": "research-scanner",
       "queued_at": "2026-08-24T10:02:23.577174+00:00",
       "reported": false
+    },
+    {
+      "url": "https://doi.org/10.1177/04866134261452322",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Review of Radical Political Economics). Critique of technofeudal hypothesis and theories of digital capitalism. Counters the argument that technology industry revenues constitute rents rathe",
+      "context": "A Refutation of \"Rent\" in Technofeudalism and Knowledge-Commodity Theories: Toward a Theory of Surplus Profits \u2014 A. K. Norris, Tavo Espinosa. Review of Radical Political Economics, 2026-08-05.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://doi.org/10.22296/2317-1529.rbeur.202625en",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Revista Brasileira de Estudos Urbanos e Regionais). Examines how financialization of real estate has undermined access to housing for low-income populations in Brazil by driving up urban and peri-urban ",
+      "context": "Financialization of the real estate sector and costly access to low-income housing \u2014 Norma Lacerda, Raul Fiorentino. Revista Brasileira de Estudos Urbanos e Regionais, 2026-08-21.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://doi.org/10.1177/02637758261472243",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Environment and Planning D: Society and Space). Argues that entitlement has become a defining affect of contemporary capitalism, analyzing how the rentier and monopolistic order is organized around ",
+      "context": "Entitlement, aspiration, and the spatial politics of exemption \u2014 Ilan Kapoor. Environment and Planning D: Society and Space, 2026-07-27.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://doi.org/10.1080/09644016.2026.2714728",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Environmental Politics). Challenges the view that resource curse only affects authoritarian regimes, arguing democratic institutions may be weakened by resource discovery.",
+      "context": "Are liberal democracies immune to the democratic resource curse? \u2014 Ariel Paz-Sawicki, Lior Herman. Environmental Politics, 2026-08-14.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -2586,6 +2622,6 @@
       "disposition_reason": "Added Wisconsin's TIF/levy-limit mechanism as a second, mechanically distinct TIF side-effect to concepts/land-value-capture.md."
     }
   ],
-  "last_updated": "2026-08-24T10:02:43Z",
-  "total": 11
+  "last_updated": "2026-08-24T11:03:14.579475+00:00",
+  "total": 18
 }
