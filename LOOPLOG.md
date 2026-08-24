@@ -3832,3 +3832,33 @@ with no original content.
 
 Lint 0 errors, 0 orphans, 943 pages. Queue ledger: 0 pending, 212 consumed. All 10 touched
 pages Ghost-synced; spot-checked `foldvary-geo-rent-plea-public-economists` live (200).
+
+## 2026-08-24 — 7th mirror-dup recurrence; a dissenting view worth publishing
+
+Two quiet passes, then the mirror-dup batch resurfaced for a 7th time, still unresolved
+scanner-side despite Wednesday's email to Floyd. Dropped again (commit `6cdc239`) — this
+time the merge to main was a clean fast-forward, no conflict. The 4 genuinely new items were
+all peer-reviewed papers reachable only at abstract level (three of four blocked by
+paywalls/Cloudflare on direct fetch), so every claim from them is explicitly graded C-claim
+with no verbatim quotation offered.
+
+The most interesting item: Norris & Espinosa's *Review of Radical Political Economics* paper
+argues, from the Marxian labor theory of value, that technofeudalism/knowledge-commodity
+theorists are simply wrong to call tech-sector profit "rent" — directly disputing the
+extension of Marx's own ground-rent category to "technological rents," on the grounds that
+software and data lack land's fixed-supply scarcity. This is a substantive dissenting view
+against a framing the wiki's own `concepts/data-rents.md` and `concepts/technofeudalism.md`
+pages treat as a live, worth-taking-seriously hypothesis — worth publishing precisely
+*because* it argues against the wiki's more permissive instinct on tech rents, not despite
+it. Gave it a full page and cross-linked it as a third distinct critique alongside the
+already-documented Morozov rebuttal on `technofeudalism.md`. The remaining three were
+smaller enrichments: a Brazil case study (Lacerda & Fiorentino) into
+`financialization-of-land.md`, a psychoanalytic "entitlement/exemption" framing (Kapoor)
+into `rentier.md`, and a democratic-resource-curse complication (Paz-Sawicki & Herman) into
+`sachs-warner-resource-curse.md`'s Limits section.
+
+Lint 0 errors, 0 orphans, 944 pages. Queue ledger: 0 pending, 216 consumed. All 7 touched
+pages Ghost-synced (GHOST_WEBHOOK_KEY unresolved this session — a 1Password rate-limit, not
+a credential problem — but GHOST_ADMIN_KEY, the credential sync actually needs, was set, so
+the sync itself was unaffected); spot-checked `norris-espinosa-refutation-technofeudalism-rent`
+live (200).
