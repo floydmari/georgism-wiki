@@ -47,6 +47,20 @@ the same diagnosis as UK policy advocacy — "how to fix the broken land system 
 the heart of our housing crisis" — a think-tank statement of this concept's
 argument rather than independent evidence for it.[2]
 
+A 2026 developing-world case study extends the diagnosis beyond the UK/Canadian
+settings above: Norma Lacerda (Federal University of Pernambuco) and Raúl
+Fiorentino (Catholic University of Salta), writing in *Revista Brasileira de
+Estudos Urbanos e Regionais*, use historical-institutional and oligopoly-theory
+methods to argue that financialization of Brazil's real-estate sector has
+concentrated urban and peri-urban land acquisition and property production
+among a small number of large corporations, directly worsening housing access
+for low-income populations through rising land prices and rents. The authors
+situate Brazil's experience alongside comparative cases in France, Spain,
+Argentina, and Chile, examining which national land-policy responses have and
+have not blunted the same concentration dynamic. This adds a Latin American
+data point to a literature otherwise anchored in UK and Canadian evidence
+above.[3]
+
 ## See Also
 
 - [Rethinking the Economics of Land and Housing (research summary)](/wiki/ryan-collins-rethinking-land-housing/) — the primary source for this concept
@@ -67,3 +81,4 @@ argument rather than independent evidence for it.[2]
    feedback loop mechanism, the UK lending-share statistics, and the bank
    money-creation point summarized above.
 2. New Economics Foundation (2018), *What Lies Beneath: How to Fix the Broken Land System at the Heart of Our Housing Crisis*. [PDF](https://neweconomics.org/uploads/files/what-lies-beneath.pdf) — used for the UK advocacy restatement of the financialization-of-land diagnosis (think-tank report, cited as the advocates' own position).
+3. Norma Lacerda & Raúl Fiorentino (2026), "Financialization of the real estate sector and costly access to low-income housing," *Revista Brasileira de Estudos Urbanos e Regionais* 28(1), 21 August 2026, DOI 10.22296/2317-1529.rbeur.202625en. [rbeur.anpur.org.br](https://rbeur.anpur.org.br/rbeur/article/view/8465) — fetched and read (abstract/summary level) 2026-08-24; used for the Brazil case, the market-concentration/oligopoly-theory framing, and the France/Spain/Argentina/Chile comparative scope (B-claim; full text not independently verified).

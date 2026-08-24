@@ -35,6 +35,13 @@ A parallel critique comes from economist Marjan Fadavi Ardekani's academic revie
 
 The wiki's standing rule applies with full force here: this narrative should not borrow the certainty of the airtight land case. Varoufakis's own terminology ("cloudalists," "cloud serfs," "cloud fiefs") is deliberately evocative rather than a measured decomposition, and the underlying question — is platform power better modeled as rent on a controlled position, or as profit from capital-intensive production under imperfect competition — remains open among economists who broadly agree on the *fact* of platform concentration.
 
+A third, more formal line of critique comes from within the Marxist tradition itself:
+[Norris & Espinosa (2026)](/wiki/norris-espinosa-refutation-technofeudalism-rent/) use the
+labor theory of value to argue directly against extending Marx's own ground-rent category to
+"technological rents" — where Morozov's objection is to the feudal *label*, Norris and
+Espinosa's is to the *rent* label specifically, contending land's fixed, non-reproducible
+supply has no true analogue in software or data infrastructure.
+
 ## See Also
 
 - [Platform and Data Rents](/wiki/data-rents/) — the wiki's main treatment of the underlying contested-rent question this framing dramatizes
@@ -42,6 +49,7 @@ The wiki's standing rule applies with full force here: this narrative should not
 - [Radical Markets (book scan)](/wiki/posner-weyl-radical-markets/) — the data-as-labor programme developed from Lanier's diagnosis
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the broader claim that rent extraction, not production, increasingly drives income
 - [Superstar Firms](/wiki/superstar-firms/) · [Economic Rent](/wiki/economic-rent/)
+- [Norris & Espinosa: A Refutation of "Rent" in Technofeudalism Theories](/wiki/norris-espinosa-refutation-technofeudalism-rent/) — a Marxian labor-theory-of-value critique of the rent framing this page documents
 
 ## Sources
 

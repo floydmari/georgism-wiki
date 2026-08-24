@@ -1,43 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://doi.org/10.1177/04866134261452322",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper (Review of Radical Political Economics). Critique of technofeudal hypothesis and theories of digital capitalism. Counters the argument that technology industry revenues constitute rents rathe",
-      "context": "A Refutation of \"Rent\" in Technofeudalism and Knowledge-Commodity Theories: Toward a Theory of Surplus Profits — A. K. Norris, Tavo Espinosa. Review of Radical Political Economics, 2026-08-05.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-24T11:03:14.579475+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.22296/2317-1529.rbeur.202625en",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper (Revista Brasileira de Estudos Urbanos e Regionais). Examines how financialization of real estate has undermined access to housing for low-income populations in Brazil by driving up urban and peri-urban ",
-      "context": "Financialization of the real estate sector and costly access to low-income housing — Norma Lacerda, Raul Fiorentino. Revista Brasileira de Estudos Urbanos e Regionais, 2026-08-21.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-24T11:03:14.579475+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1177/02637758261472243",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper (Environment and Planning D: Society and Space). Argues that entitlement has become a defining affect of contemporary capitalism, analyzing how the rentier and monopolistic order is organized around ",
-      "context": "Entitlement, aspiration, and the spatial politics of exemption — Ilan Kapoor. Environment and Planning D: Society and Space, 2026-07-27.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-24T11:03:14.579475+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1080/09644016.2026.2714728",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper (Environmental Politics). Challenges the view that resource curse only affects authoritarian regimes, arguing democratic institutions may be weakened by resource discovery.",
-      "context": "Are liberal democracies immune to the democratic resource curse? — Ariel Paz-Sawicki, Lior Herman. Environmental Politics, 2026-08-14.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-24T11:03:14.579475+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2521,6 +2484,50 @@
       "reported": false,
       "disposition": "enriched",
       "disposition_reason": "Added Wisconsin's TIF/levy-limit mechanism as a second, mechanically distinct TIF side-effect to concepts/land-value-capture.md."
+    },
+    {
+      "url": "https://doi.org/10.1177/04866134261452322",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Review of Radical Political Economics). Critique of technofeudal hypothesis and theories of digital capitalism. Counters the argument that technology industry revenues constitute rents rathe",
+      "context": "A Refutation of \"Rent\" in Technofeudalism and Knowledge-Commodity Theories: Toward a Theory of Surplus Profits — A. K. Norris, Tavo Espinosa. Review of Radical Political Economics, 2026-08-05.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/norris-espinosa-refutation-technofeudalism-rent.md — a substantive dissenting Marxian view against the wiki's own tech-rent framing, cross-linked from technofeudalism.md, data-rents.md, taxing-quasi-rents-kills-innovation.md."
+    },
+    {
+      "url": "https://doi.org/10.22296/2317-1529.rbeur.202625en",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Revista Brasileira de Estudos Urbanos e Regionais). Examines how financialization of real estate has undermined access to housing for low-income populations in Brazil by driving up urban and peri-urban ",
+      "context": "Financialization of the real estate sector and costly access to low-income housing — Norma Lacerda, Raul Fiorentino. Revista Brasileira de Estudos Urbanos e Regionais, 2026-08-21.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Brazil case study to concepts/financialization-of-land.md — first Latin American data point in that section, alongside existing UK/Canada evidence."
+    },
+    {
+      "url": "https://doi.org/10.1177/02637758261472243",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Environment and Planning D: Society and Space). Argues that entitlement has become a defining affect of contemporary capitalism, analyzing how the rentier and monopolistic order is organized around ",
+      "context": "Entitlement, aspiration, and the spatial politics of exemption — Ilan Kapoor. Environment and Planning D: Society and Space, 2026-07-27.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Kapoor's psychoanalytic entitlement/exemption framing to concepts/rentier.md as a complement to the page's economic accounts (C-claim, abstract-level)."
+    },
+    {
+      "url": "https://doi.org/10.1080/09644016.2026.2714728",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper (Environmental Politics). Challenges the view that resource curse only affects authoritarian regimes, arguing democratic institutions may be weakened by resource discovery.",
+      "context": "Are liberal democracies immune to the democratic resource curse? — Ariel Paz-Sawicki, Lior Herman. Environmental Politics, 2026-08-14.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-24T11:03:14.579475+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added democratic-resource-curse complication to research/sachs-warner-resource-curse.md's Limits section (C-claim, abstract-level, source blocked)."
     }
   ],
   "last_updated": "2026-08-24T11:03:14.579475+00:00",

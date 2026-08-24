@@ -107,7 +107,12 @@ This is the frontier, not the clean case. The rent share of tech profit is genui
 disputed; the network effects that create the moat also deliver real consumer value; and
 every capture instrument here is either untested (data dividends), hard to design
 (valuing data), or blunt (antitrust). The wiki's standing rule applies with full force:
-never let the airtight land case lend its certainty to this domain.
+never let the airtight land case lend its certainty to this domain. [Norris & Espinosa
+(2026)](/wiki/norris-espinosa-refutation-technofeudalism-rent/) press the dispute furthest:
+arguing from the Marxian labor theory of value that the tech sector's profits are genuine
+value production rather than rent at all, they reject the extension of Marx's own
+ground-rent category to "technological rents" on the grounds that software and data lack
+land's defining fixed-supply scarcity.
 
 ## See Also
 
