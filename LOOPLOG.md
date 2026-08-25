@@ -3898,3 +3898,67 @@ minimal given the abstract-only, foreign-language sourcing) round out the batch.
 
 Lint 0 errors, 0 orphans, 948 pages. Queue ledger: 0 pending, 225 consumed. All 14 touched
 pages Ghost-synced; spot-checked `li-dazhao` live (200).
+
+---
+
+## 2026-08-25 (verification wave) — three bad quotes, a corrected statute reading, and a new channel around the paywalls
+
+Commit `95d52b7`. This is the verification/integrity lane, not the queue lane.
+
+**Three integrity findings, in order of seriousness.** `research/kakumu-kenya-site-value-tax.md`
+quoted K'Akumu's abstract as saying George's African influence "has not **[previously been]**
+explored." The abstract says only "has not been explored" — a word invented inside a bracket,
+which is the exact failure mode the wiki's re-verify rule exists to catch. `people/li-dazhao.md`,
+added the day before, rendered the same abstract phrase two different ways on one page ("an
+absence of direct citations" / "despite the absence of direct citations"); only the second is
+verbatim. Both fixed against the Crossref-deposited abstracts.
+
+The third is not a quote but a reading. `events/2024-india-mineral-royalty-tax-ruling.md` asserted
+that the 2026 MMDR Amendment "clarifies by statute that royalty **does** constitute a tax." The
+bill's own text, downloaded from PRS and read this wave, does nothing of the kind: new section 9D
+bars *State* governments from levying on mineral rights or mineral-bearing lands, and
+retrospectively voids any such levy "not deposited ... or recovered" before commencement. The
+amendment removes the practical consequence of the majority ruling without disturbing its holding
+on royalty's contractual character. "Royalty itself a tax" was *The Print*'s headline framing and
+had been absorbed into the page as if it were the statute. Lesson worth keeping: a secondary
+source's framing of a primary document is a B-claim about the document, not the document.
+
+**Gesell, read rather than summarised.** `people/silvio-gesell.md` had rested on standard
+reference knowledge. Pye's translation of *Die natürliche Wirtschaftsordnung* is on the Internet
+Archive with clean OCR (the 1919 German third edition is also there but is Fraktur-set and
+unquotable). Reading it corrected the page's central claim: Gesell's Free-Land is a **compensated**
+buyout — the State purchases all land at rent capitalised at the mortgage rate, pays owners in
+interest-bearing securities, and the rent then services that debt — which puts him at the opposite
+end of the compensation question from George, not merely "public ownership." It also surfaced a
+per-child rent dividend the wiki had no record of: rent "distributed monthly in equal shares to
+mothers according to the number of their young children." Page promoted from stub.
+
+**The new channel: Crossref-deposited reference lists.** Twelve markers were parked as
+needs-unblocked-web because Wiley/SAGE/Elsevier/Springer bot-detection defeats every fetch method.
+Confirmed again this wave — including through Ollama Cloud's server-side fetcher, a genuinely
+different egress, which Wiley also refuses. But `api.crossref.org` serves the publishers' own
+deposited bibliographies, and every one of the eight blocked papers had one (10 to 184 entries).
+That is A-grade evidence for "this paper cites X" and evidence of nothing else — it does not
+license any statement about what a paper argues. Eight pages gained a "What the Paper Builds On"
+section on that basis and had their markers **narrowed rather than deleted**: the gap is now the
+body text specifically, not the paper's scope or scholarly context. Future waves should reach for
+Crossref before re-attempting a known-blocked publisher.
+
+**Two markers resolved outright.** The India ruling (above, against the bill's primary text) and
+`books/bird-the-land-trap.md`, whose entrepreneurship-discouragement claim had been carried on
+Doucet's review alone — traced to Li & Wu, *J. Comparative Economics* 42(2) 2014, whose abstract
+also shows the claim is more conditional than Bird's sentence admits (negative for non-owners
+priced out; for owners a positive wealth effect partly offset by mortgage burden). Live markers
+32 → 29.
+
+**Lint 73 → 24 warnings.** The largest bucket was a false alarm worth recording: 26 "Sources
+section not annotated" warnings across ten days of queue-loop output were **formatting only** —
+the annotations existed but were written `; used for` where `lint_wiki.py` requires an em-dash
+immediately before "used". Nothing was actually unannotated. Normalised in place rather than
+relaxing the rule. One banned-certainty hit was likewise a lint artifact: "almost always" sat
+inside a Hermans quotation that wrapped across two lines, and the checker's quoted-region regex
+does not cross newlines — reflowed, not reworded. The other four were real and rewritten.
+Plus 12 excerpts trimmed under Ghost's 300-char cap and 2 bidirectional gaps closed.
+
+948 pages, 0 errors. **Ghost sync skipped this wave** — the admin key lives under `/private/tmp`
+and its whole session directory is gone; 41 changed pages are pushed to git but not yet live.
