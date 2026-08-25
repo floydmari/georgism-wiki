@@ -9,7 +9,7 @@ last_reviewed: 2026-08-16
 source_url: https://www.mbie.govt.nz/dmsdocument/32323-deloitte-report-new-zealand-minerals-royalty-regime-review
 tier: important
 stub: false
-excerpt: "New Zealand's first review of its minerals royalty regime since 2012 finds the government's overall take from mining broadly comparable with peer countries — but that 97% of 2025 royalty revenue still came from permits operating under pre-2013 legacy rules, sharply limiting how quickly any reform could change actual Crown revenue."
+excerpt: "New Zealand's first review of its minerals royalty regime since 2012 finds the government's overall take from mining broadly comparable with peer countries — but 97% of 2025 royalty revenue still came from permits under pre-2013 legacy rules, limiting how fast reform could change Crown revenue."
 ---
 
 ## Summary
@@ -108,7 +108,7 @@ first permitted.
 2. Hon Shane Jones (Minister for Resources), "Minerals Royalty Regime: Transparent, Fair,"
    New Zealand Government press release, 6 August 2026, via
    [Scoop](https://www.scoop.co.nz/stories/PA2608/S00043/minerals-royalty-regime-transparent-broadly-fair.htm) —
-   fetched and read 2026-08-16; used for the release date, the minister's identity, the
+   fetched and read 2026-08-16 — used for the release date, the minister's identity, the
    "broadly comparable with other countries" quotation, the 97%-legacy-permits figure, the
    "decade or more to become a producing mine" quotation, and the 2027/next-government
    timeline (B-claim; direct government press release quoting the review).

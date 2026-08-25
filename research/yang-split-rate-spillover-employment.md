@@ -115,6 +115,29 @@ is not simply zero-sum or simply win-win, but **both, depending on distance** �
 a nuance the wiki's other split-rate pages, which measure only the adopting
 jurisdiction, cannot see.
 
+## What the Paper Builds On
+
+Crossref carries the publisher-deposited reference list for the published *Journal of
+Real Estate Finance and Economics* version in full — 36 entries, read via the Crossref
+API on 2026-08-25. As with the abstract (see below), Crossref deposits no abstract
+field for this DOI, so the quote-verification step used elsewhere in this batch does
+not apply; the paper's quotes on this page remain sourced to the freely available 2015
+Lincoln Institute working paper, not to Crossref. The reference list is a
+Pennsylvania/split-rate-specific bibliography rather than a broad survey: it includes
+[Henry George](/wiki/henry-george/)'s *Progress and Poverty* (1879), and the same
+empirical Pennsylvania literature this page's own "See Also" and "Sources" sections
+already cite directly — [Oates & Schwab (1997) on
+Pittsburgh](/wiki/oates-schwab-pittsburgh/), [Banzhaf & Lavery (2010) on
+sprawl](/wiki/banzhaf-lavery-pa-sprawl/), and [Plassmann & Tideman (2000) on
+construction](/wiki/plassmann-tideman-construction/) — plus Yang's own earlier work (the
+2014 and 2018 papers, and the 2022 Yang & Hawley tax-base study already linked below),
+Hanson (2022) on split-rate taxation and business-establishment location, Zodrow &
+Mieszkowski's 1986 "Pigou, Tiebout, Property Taxation, and the Underprovision of Local
+Public Goods," and the spatial-econometrics methodology sources (Kelejian & Prucha 1998;
+LeSage 2009) that underpin the spatial Durbin model this page's "Core Argument" section
+describes. This is reference-list evidence only: it confirms the paper's methodological
+and empirical lineage, not what the (still-unread) published body text argues.
+
 ## Nuances and Limits
 
 - **Employment, not construction or tax base.** This paper's dependent
@@ -162,7 +185,11 @@ jurisdiction, cannot see.
   **[VERIFY: confirm whether the published 2024 version updates the 1980–2010
   sample period or coefficient magnitudes reported in the 2015 working paper —
   needs-unblocked-web, a proxy or institutional-access channel this environment
-  lacks.]**
+  lacks. The publisher-deposited reference list (36 entries) was read in full via
+  Crossref on 2026-08-25 — see "What the Paper Builds On" above — confirming Crossref
+  itself deposits no abstract for this DOI (consistent with the eight-channel sweep
+  above); this narrows the gap to the body text and published abstract specifically,
+  not the paper's scope or scholarly lineage.]**
 - **Pennsylvania-only external validity**, as with the rest of the wiki's
   split-rate evidence base — few other US states have enough adopting
   municipalities for this kind of spatial analysis.
@@ -220,3 +247,7 @@ jurisdiction, cannot see.
    Base," *Public Finance Review* 50(6) — [wiki summary](/wiki/yang-split-rate-tax-base/)
    — the same author's companion study of within-jurisdiction tax-base effects,
    used for comparison/contrast.
+5. Crossref API record for doi:10.1007/s11146-024-09995-y, queried 2026-08-25 —
+   used for the deposited reference list (36 entries), read 2026-08-25; confirms
+   no abstract field is deposited at this DOI, consistent with the eight-channel
+   abstract-retrieval sweep documented above. [https://api.crossref.org/works/10.1007/s11146-024-09995-y](https://api.crossref.org/works/10.1007/s11146-024-09995-y)

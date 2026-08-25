@@ -98,7 +98,7 @@ implementation can fail, worth keeping distinct in the wiki's growing catalogue 
    land rights under government-led decentralization: Implications for land value capture
    implementation in Jakarta, Indonesia," *Land Use Policy* (December 2026).
    [research.rug.nl](https://research.rug.nl/en/publications/layered-land-rights-under-government-led-decentralization-implica/) —
-   abstract fetched and read 2026-08-17; used for the paper's method (qualitative,
+   abstract fetched and read 2026-08-17 — used for the paper's method (qualitative,
    interviews and regulatory-document analysis), the Jakarta MRT case, the
    layered-rights/fragmented-coordination argument, the instrument-to-rights-holder
    mapping contribution, and the three practical recommendations. Scan depth: abstract

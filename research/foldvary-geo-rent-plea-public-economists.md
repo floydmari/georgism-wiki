@@ -4,7 +4,7 @@ authors:
 bears_on_objections:
 - lvt-not-enough-revenue
 category: research
-excerpt: "Foldvary's 2005 Econ Journal Watch article argues mainstream public economics systematically undervalues land rent — showing that textbook 'producer surplus,' properly traced, is mostly unrecognized geo-rent — and surveys estimates putting geo-rent's revenue potential at roughly half of all-level US government tax revenue."
+excerpt: "Foldvary's 2005 Econ Journal Watch article argues public economics systematically undervalues land rent — showing textbook \"producer surplus,\" properly traced, is mostly unrecognized geo-rent — and surveys estimates putting its revenue potential at roughly half of all-level US tax revenue."
 last_reviewed: 2026-08-23
 source_url: https://econjwatch.org/articles/geo-rent-a-plea-to-public-economists
 stub: false
@@ -50,7 +50,7 @@ sharpest claims:
   to the fixed factor, land: "producer surplus does not go to producers at all; it is a
   payment to landowners who have never produced a thing. It is really the *non-producer
   surplus*."
-- **Deadweight-loss analysis already proves the case, but doesn't apply it.** Textbooks
+- **Deadweight-loss analysis already makes the case, but textbooks don't apply it.** Textbooks
   teach that a tax on a perfectly inelastic supply has zero excess burden, and some note
   that land's fixed supply makes it a candidate — but, Foldvary observes, few mention that
   Adam Smith and John Stuart Mill both proposed exactly this, and public-finance textbooks
@@ -67,8 +67,8 @@ land-capital elasticity of substitution of 0.5, raises capital goods 122% and ou
 Tideman et al.'s model). Weighing this evidence, Foldvary concludes the tax base is
 "substantial, most likely in the range of 50 percent of all-level government tax revenues"
 — the origin of the "roughly half" figure the wiki's Foldvary bio page already cites. He
-contrasts this with the official U.S. national accounts, where the only line item called
-"rent" ("rental income of persons") was $150 billion in 2004, under 1.5% of GDP — evidence,
+contrasts this with the official U.S. national accounts, where just one line item is
+named "rent" ("rental income of persons"), at $150 billion in 2004, under 1.5% of GDP — evidence,
 in his reading, of how thoroughly geo-rent is undercounted by measuring only its narrowest,
 most visible slice rather than the land-rent embedded throughout the economy's capitalized
 values.
@@ -143,7 +143,7 @@ land rent misattributed to capital or entrepreneurship.
 1. Fred E. Foldvary (2005), "Geo-Rent: A Plea to Public Economists," *Econ Journal Watch*
    2(1): 106–132, April 2005. [econjwatch.org](https://econjwatch.org/articles/geo-rent-a-plea-to-public-economists) ·
    [PDF](https://econjwatch.org/File+download/66/2005-04-foldvary-tyranny-statquo.pdf) —
-   full text downloaded and read 2026-08-23; used for the eight-compartment framework, the
+   full text downloaded and read 2026-08-23 — used for the eight-compartment framework, the
    producer-surplus and deadweight-loss arguments (with verbatim quotations), the
    capitalization/residual-claimancy argument, the Cord/Miles/Tideman-et-al. revenue
    estimates and the "50 percent of all-level government tax revenues" synthesis figure,

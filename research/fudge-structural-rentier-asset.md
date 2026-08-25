@@ -4,7 +4,7 @@ authors:
 bears_on_objections:
 - lvt-hurts-asset-rich-cash-poor
 category: research
-excerpt: "A working-paper formalization arguing that an asset combining fixed-supply scarcity, bank-collateral status, and tax-preferential treatment has no stable equilibrium — it terminates either in policy intervention or a Minsky-style crash, crowding out productive capital while GDP mismeasurement hides the shrinking productive base."
+excerpt: "A working-paper formalization: an asset combining fixed-supply scarcity, bank-collateral status, and tax-preferential treatment has no stable equilibrium, ending in policy intervention or a Minsky-style crash — crowding out capital while GDP mismeasurement hides the shrinking productive base."
 last_reviewed: 2026-08-25
 source_url: https://doi.org/10.2139/ssrn.7179858
 stub: false
@@ -103,7 +103,7 @@ redistributive intervention.
 1. Henry Fudge (2026), "The Structural Rentier Asset," SSRN Electronic Journal, DOI
    10.2139/ssrn.7179858. [ssrn.com/abstract=7179858](https://www.ssrn.com/abstract=7179858) —
    fetch blocked (Cloudflare) to this session 2026-08-25; summary built from search-indexed
-   abstract/summary detail. Used for the three-property (fixed supply, collateral,
+   abstract/summary detail — used for the three-property (fixed supply, collateral,
    tax-preferential) definition of a "structural rentier asset," the no-interior-steady-state
    argument, the policy-intervention-or-Minsky-crash terminus, and the GDP-mismeasurement
    consequence (C-claim; not independently verified against the paper's own text, no

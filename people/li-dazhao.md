@@ -25,8 +25,9 @@ Thread: The Influence of Henry George on Early Chinese Communist Leaders—The C
 Dazhao" (*American Journal of Economics and Sociology*), argues that [Henry
 George](/wiki/henry-george/)'s critique of land monopoly and his land-justice framing
 thematically converged with, and may have subtly informed, Li's own attention to rural
-poverty, labor dignity, and land reform — even though, as the authors are explicit, there is
-"an absence of direct citations" linking the two in Li's own writing. The argument rests on
+poverty, labor dignity, and land reform — even though, as the authors are explicit,
+their case is made "despite the absence of direct citations" linking the two in Li's own
+writing. The argument rests on
 shared exposure to a common pool of global reformist discourse circulating in China's
 intellectual world in the 1910s–20s (the same period George's ideas reached Sun Yat-sen
 through more directly documented channels — see below) rather than on a demonstrated textual
@@ -79,8 +80,10 @@ different figures in China's revolutionary generation by different, less traceab
    *American Journal of Economics and Sociology*, published online 31 December 2025, DOI
    10.1111/ajes.70025. [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/10.1111/ajes.70025) —
    full-text fetch blocked (403) to this session 2026-08-25; summary drawn from the paper's
-   abstract and title. Used for Li Dazhao's biographical facts (co-founder of the CCP,
+   abstract (read verbatim this session, 2026-08-25, via search-indexed abstract text) and
+   title — used for Li Dazhao's biographical facts (co-founder of the CCP,
    Peking University librarian/professor, mentor to Mao, executed 1927 — cross-checked
    against general historical knowledge, not solely this paper) and the paper's central
    thematic-convergence argument, including the explicit "absence of direct citations"
-   framing (C-claim; abstract-level, no verbatim quotation from the full text offered).
+   framing (C-claim; abstract-level — the two quoted phrases on this page are verbatim from
+   the published abstract, not from the paywalled full text).

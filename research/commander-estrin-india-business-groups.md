@@ -9,7 +9,7 @@ last_reviewed: 2026-08-22
 source_url: https://ideas.repec.org/p/ehl/lserod/138970.html
 tier: supplementary
 stub: false
-excerpt: "An LSE study of Indian industry 2000–2020 finds overall market concentration falling even as a persistent bloc of high-concentration sectors remains, and markups rising sharply after 2013 — with family-owned business groups diversifying across industries and entrenching an outsized, and growing, share of the economy."
+excerpt: "An LSE study of Indian industry 2000–2020 finds market concentration falling overall even as a persistent bloc of high-concentration sectors remains, and markups rising sharply after 2013 — with family-owned business groups diversifying and entrenching a growing, outsized share of the economy."
 ---
 
 ## Summary
@@ -91,7 +91,7 @@ industry HHI alone.
 1. Simon Commander, Saul Estrin, Naveen Joseph Thomas & Varun Lingineni (2026), "Business
    Groups, Concentration and Market Power in India," LSE Research Online Documents on
    Economics 138970. [ideas.repec.org](https://ideas.repec.org/p/ehl/lserod/138970.html) —
-   fetched and read (abstract/summary level) 2026-08-22; used for the falling-concentration
+   fetched and read (abstract/summary level) 2026-08-22 — used for the falling-concentration
    /rising-markup finding, the post-2013 markup shift, the business-group diversification
    pattern, and the entrenchment/monopoly-power headline conclusion (B-claim; abstract-level
    scan, full working paper not independently retrieved).

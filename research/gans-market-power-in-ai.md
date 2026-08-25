@@ -9,7 +9,7 @@ last_reviewed: 2026-08-16
 source_url: https://www.nber.org/papers/w32270
 tier: important
 stub: false
-excerpt: "A survey by IO economist Joshua Gans of how market power emerges and persists across three distinct AI markets — training data, input data, and predictions themselves — arguing that whether data can be traded across firm boundaries is the single biggest determinant of whether AI markets stay competitive."
+excerpt: "A survey by IO economist Joshua Gans of how market power emerges and persists across three AI markets — training data, input data, and predictions themselves — arguing that whether data can be traded across firm boundaries is the biggest determinant of whether AI markets stay competitive."
 ---
 
 ## Summary
@@ -127,7 +127,7 @@ centuries of assessment and taxation practice to draw on).
    [Annual Reviews (paywalled)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051624-061832) —
    the NBER working-paper PDF (the free, open-access version; the Annual Reviews version
    of record is paywalled and returned a 403 to direct fetch) was downloaded and read in
-   full 2026-08-16; used for the abstract, the three-market framework (training data,
+   full 2026-08-16 — used for the abstract, the three-market framework (training data,
    input data, predictions) and its entry-vs-competitiveness distinction, the
    non-rival-but-withheld characterization of training data, the data-trading-markets
    headline finding, the multi-market-integration complication, and the verbatim

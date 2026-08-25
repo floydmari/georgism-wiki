@@ -98,7 +98,7 @@ levy "resource rent provision" does not, by itself, make it one in practice.
 1. Riko Wahyudi, "Understanding Aspects of Economic Rent of Forest Resources Extraction in
    Indonesia" (working paper), Article 33 Indonesia, July 2026.
    [article33.or.id](https://www.article33.or.id/en/2026/07/working-paper-understanding-aspects-of-economic-rent-of-forest-resources-extraction-in-indonesia/) —
-   article/working-paper summary fetched and read 2026-08-14; used for the five-instrument
+   article/working-paper summary fetched and read 2026-08-14 — used for the five-instrument
    levy taxonomy (IIUPH, PSDH, DR, PNBP, DBH), the three rent-leakage mechanisms
    (uncalculated socio-ecological costs, informal fees, outdated valuation formulas), the
    deforestation/GDP connection, and the policy recommendations. Working-paper tier, no

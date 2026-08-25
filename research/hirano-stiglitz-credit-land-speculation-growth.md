@@ -138,7 +138,7 @@ sector that generates spillover-driven growth.
 1. Tomohiro Hirano & Joseph E. Stiglitz (2024), "Credit, Land Speculation, and Long-Run
    Economic Growth," NBER Working Paper 32479 (May 2024).
    [NBER PDF](https://www.nber.org/system/files/working_papers/w32479/w32479.pdf) —
-   downloaded and read (abstract, introduction, and conclusion; 54-page paper) 2026-08-18;
+   downloaded and read (abstract, introduction, and conclusion; 54-page paper) 2026-08-18 —
    used for the two-sector model setup, the sectoral-composition-matters-more-than-
    aggregate-volume finding, the Verner (2019) and Müller & Verner (2023) empirical
    citations, the finite-land-price-despite-r<g result, the land-tax-raises-growth
@@ -147,7 +147,7 @@ sector that generates spillover-driven growth.
 2. Tomohiro Hirano & Joseph E. Stiglitz (2025), "Credit, Land Speculation, and
    Low-Interest-Rate Policy," NBER Working Paper 33661 (April 2025).
    [nber.org/papers/w33661](https://www.nber.org/papers/w33661) — abstract fetched and
-   read 2026-08-18 (full PDF blocked); used for confirming the same central findings
+   read 2026-08-18 (full PDF blocked) — used for confirming the same central findings
    recur in this later-numbered version (B-claim; abstract-level only for this specific
    working paper).
 3. Emil Verner (2019), cited in source 1 — credit-expansion-predicts-growth-slowdowns

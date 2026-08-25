@@ -4,7 +4,7 @@ authors:
 bears_on_objections:
 - public-choice-critique
 category: research
-excerpt: "Foldvary's 2014 public-choice history argues US land policy, from the Founders' own land speculation through 19th-century railroad grants, was driven by concentrated-benefit, dispersed-cost rent-seeking rooted in mass democracy's structure — and proposes small-group voting reform as the structural fix."
+excerpt: "Foldvary's 2014 public-choice history argues US land policy, from the Founders' own land speculation through 19th-century railroad grants, was driven by concentrated-benefit, dispersed-cost rent-seeking rooted in mass democracy's structure — and proposes small-group voting reform as the fix."
 last_reviewed: 2026-08-23
 source_url: https://www.sjsu.edu/economics/docs/pub-fac/foldvary-sep19.pdf
 stub: false
@@ -140,7 +140,7 @@ Foldvary's own conclusion.
 1. Fred E. Foldvary (2014), "Ground Rent Seeking in U.S. Economic History," seminar
    workshop paper, Department of Economics, San José State University, 19 September 2014.
    [PDF](https://www.sjsu.edu/economics/docs/pub-fac/foldvary-sep19.pdf) — full text
-   downloaded and read 2026-08-23; used for the Rowley/Olson public-choice framing, the
+   downloaded and read 2026-08-23 — used for the Rowley/Olson public-choice framing, the
    Beard/Friedenberg/Curtis account of the Founders' land speculation and the
    Constitutional Convention coalition, the Proclamation of 1763 and Quebec Act episodes,
    the 1871 land-acreage figure and off-budget-deficit accounting argument, and the

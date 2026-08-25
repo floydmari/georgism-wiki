@@ -10,7 +10,7 @@ source_url: https://danpmurphy.com/2026/07/24/implicit-land-taxes-and-their-effe
 tier: important
 stub: false
 supports_outcomes: [split-rate-increases-construction, taxing-land-raises-productivity]
-excerpt: "Constructs a measure of 'implicit' land taxes from the gap between assessed and market land values using parcel-level U.S. data; counties with higher implicit land taxes see faster growth in density, business formation, earnings, and demographic diversity. Now published in the Journal of Public Economics."
+excerpt: "Constructs a measure of implicit land taxes from the gap between assessed and market land values using parcel-level U.S. data; counties with higher implicit land taxes see faster growth in density, business formation, earnings, and demographic diversity; now in Journal of Public Economics."
 ---
 
 ## Summary

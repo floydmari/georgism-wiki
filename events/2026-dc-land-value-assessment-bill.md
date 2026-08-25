@@ -4,7 +4,7 @@ category: events
 tags: [events, campaigns, washington-dc, split-rate, modern, usa, congress]
 year: 2026
 stub: false
-excerpt: "DC Councilmember Brianne Nadeau introduced a bill requiring the District to assess land value separately from improvements — laying the groundwork for a future split-rate system, without itself changing any tax rate — amid a fiscal crisis and a Congressional bill that would let the House veto any new District tax."
+excerpt: "DC Councilmember Brianne Nadeau introduced a bill requiring the District to assess land value separately from improvements, laying groundwork for a split-rate system without changing any tax rate — amid a fiscal crisis and a Congressional bill letting the House veto new District taxes."
 ---
 
 ## Overview
@@ -98,21 +98,21 @@ jurisdiction's more basic fiscal-autonomy fight.
 
 1. "DC Council Weighs Land Value Tax as Congress Threatens Revenue Veto," *Washington
    Signal*, 31 July 2026. [washingtonsignal.com](https://washingtonsignal.com/dc-council-weighs-land-value-tax-as-congress-threatens-revenue-veto/) —
-   fetched and read 2026-08-19; used for the land-and-buildings-separate-rates framing,
+   fetched and read 2026-08-19 — used for the land-and-buildings-separate-rates framing,
    the $837 million structural deficit figure, the Business Activity Tax companion
    proposal, and the D.C. Taxing Authority Review Act's 60-day Congressional veto window
    (B-claim).
 2. Tristan Navera, "DC City Council Considers Esoteric Scheme To Tax Land Values," *WDC
    News 6* (via Washington Business Journal / Bloomberg Law reporter byline), 2026.
    [wdcnews6.com](https://wdcnews6.com/dc-city-council-considers-esoteric-scheme-to-tax-land-values/) —
-   fetched via curl (WebFetch 403'd) and read 2026-08-19; used for Councilmember Nadeau's
+   fetched via curl (WebFetch 403'd) and read 2026-08-19 — used for Councilmember Nadeau's
    identity and quotation, the Chicago Fed and DC Policy Center study citations, the
    quarterly-billing provision, the $589,721 median DC listing price and D+ Realtor.com
    affordability grade, the $1 billion federal-funding-driven shortfall figure, and the
    context on office-vacancy-driven flat property tax revenue (B-claim).
 3. Center for Land Economics, "Land Value Tax Legislation Tracker" — entry for DC
    B26-0777. [landeconomics.org/lvt-legislation](https://landeconomics.org/lvt-legislation) —
-   fetched and read 2026-08-19; used for the precise bill title ("Revenue Stabilization
+   fetched and read 2026-08-19 — used for the precise bill title ("Revenue Stabilization
    and Land Value Assessment Amendment Act of 2026"), the 14 July 2026 introduction date,
    the "assess... as if vacant at its highest and best use" mechanics, and confirmation
    that the bill does not itself change tax rates (B-claim; a tracker page, not the bill

@@ -136,7 +136,7 @@ would be overclaiming what the formal theory actually shows.
 1. Tomohiro Hirano & Joseph E. Stiglitz (2022), "Land Speculation and Wobbly Dynamics with
    Endogenous Phase Transitions," NBER Working Paper 29745 (February 2022).
    [NBER PDF](https://www.nber.org/system/files/working_papers/w29745/w29745.pdf) —
-   downloaded and read in full (77 pages) 2026-08-18; used for the abstract, the OLG
+   downloaded and read in full (77 pages) 2026-08-18 — used for the abstract, the OLG
    model setup and phase-transition mechanism, the land-tax/capital-gains-tax/capital-tax
    policy analysis in §6 (including the land-tax-widens-fluctuations finding and
    Proposition 5's credible-commitment result), and the concluding remarks on scope and

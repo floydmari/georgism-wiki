@@ -115,7 +115,7 @@ does not resolve empirically.
 
 1. Henry George Foundation (UK), "Land Value Tax in Practice — Grounds for Cautious
    Optimism?" (Substack, July 2026). [thehenrygeorgefoundation.substack.com](https://thehenrygeorgefoundation.substack.com/p/land-value-tax-in-practice-grounds) —
-   article fetched and read 2026-08-14; used for the points of agreement with Neidle's
+   article fetched and read 2026-08-14 — used for the points of agreement with Neidle's
    model, the three critiques (revenue neutrality, incomplete diagnosis, single-instrument
    risk), the three revenue-allocation options, the hybrid land-value-plus-statutory-
    building-charge design, the "valuation paradox" framing, and the direct quotations.

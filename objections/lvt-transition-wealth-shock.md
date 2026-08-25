@@ -63,6 +63,7 @@ pragmatism.
 ## Limits and Caveats
 
 - The steady-state case for LVT is unaffected by the transition; but the transition is nonetheless the objection's real content, and where capitalization *is* full (the DØRS result) recent and highly-leveraged buyers do take a concentrated, involuntary loss that a phase-in softens but does not erase.
+- Transaction taxes are a tempting softer substitute, and the modelling argues against them: [Chu (2026)](/wiki/chu-taiwan-property-tax-incidence/), a DSGE model calibrated to Taiwan's 2011–2015 housing boom, finds a recurring property tax produces prolonged effects on speculation and prices while a one-off transfer tax and tighter loan-to-value limits fade. If that holds, avoiding the transition shock by reaching for a transaction tax instead buys a temporary effect rather than a smaller version of the same one (a calibrated model, not a natural experiment, and property rather than land-only taxation).
 - The incidence evidence points both ways. Reading Nielsson et al.'s zero-capitalization result as reassurance on the wealth shock cuts the other way on the affordability case — a tax that does not capitalize into lower prices also does less of the price-lowering work Georgists claim elsewhere. The honest position holds both: the shock may be smaller than the objection assumes *and* the mechanism is genuinely contested.
 
 ## Net Assessment

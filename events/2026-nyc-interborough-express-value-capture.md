@@ -101,7 +101,7 @@ and the broader [2026 state LVT enablement wave](/wiki/2026-state-lvt-enablement
 
 1. Dave Colon, "By George! Could A 'Land Value Tax' Fund The Interborough Express?",
    *Streetsblog NYC*, 4 August 2026. [nyc.streetsblog.org](https://nyc.streetsblog.org/2026/08/04/by-george-value-capture-ibx) —
-   article fetched and read 2026-08-16; used for the IBX's $5.5B total cost and $2.75B
+   article fetched and read 2026-08-16 — used for the IBX's $5.5B total cost and $2.75B
    funding gap, the 2016 NY value-capture law's three mechanisms (TIF, property value tax,
    land value tax), the Hudson Yards PILOT precedent, the Second Avenue Subway 8%/$5.5B/30%
    figures, and the Greg Miller and Alex Armlovich quotations (both verified verbatim

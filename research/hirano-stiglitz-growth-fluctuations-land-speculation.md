@@ -103,7 +103,7 @@ mechanism) contributes to macro instability.
 1. Tomohiro Hirano & Joseph E. Stiglitz (2025), "Growth and Fluctuations Economies with
    Land Speculation," NBER Working Paper 33589 (March 2025).
    [nber.org/papers/w33589](https://www.nber.org/papers/w33589) — abstract fetched and
-   read 2026-08-18; full PDF blocked (403) on every fetch method tried. Used for the
+   read 2026-08-18; full PDF blocked (403) on every fetch method tried — used for the
    model's combination of rational expectations, land, credit constraints, and endogenous
    technology, the multiple-equilibria finding, the technology-can-destabilize result, the
    land-widens-fluctuations finding, and the accommodative-policy-can-reduce-growth result

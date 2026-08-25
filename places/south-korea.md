@@ -25,7 +25,7 @@ South Korea is unusual in having land-rent ideas near the center of national pol
 
 **The existing tax structure his reforms operate on.** Korea's baseline is unusual by
 international comparison: a July 2026 National Assembly Budget Office report found Korea
-is the only one of nine major economies studied to combine **two separate,
+was, among nine major economies studied, alone in combining **two separate,
 government-level recurring property levies** — a local property tax (progressive rates
 0.05–0.4%) and a national **comprehensive real estate tax** (종합부동산세, jongbusae,
 0.5–5.0%) layered on top of it. Most peer nations (the US, Canada, the UK, France,

@@ -116,7 +116,7 @@ over how quickly supply responds to policy change once the incentive is in place
    abstract retrieved via the Semantic Scholar API (`api.semanticscholar.org`) 2026-08-14
    and verified verbatim against the returned abstract text, after both WebFetch and curl
    were blocked by a Springer bot-check page (SpringerLink "Client Challenge") on the
-   article and PDF URLs directly. Used for the 2006/2008 reform mechanics, the
+   article and PDF URLs directly — used for the 2006/2008 reform mechanics, the
    short-run excess-starts estimate (10,735 units / 1% of 2007 rental stock), the
    difference-in-differences long-run estimates (0.58–0.81 buildings, 22.25–22.75 units per
    tract per year; 0.3x–0.4x and 2.4x–2.5x the sample median), and the authors' two stated

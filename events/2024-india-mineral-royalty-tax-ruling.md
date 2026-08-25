@@ -66,15 +66,28 @@ attract investment.
 
 ## The 2026 Amendment: Codifying the Dissent
 
-The **Mines and Minerals (Development and Regulation) Amendment Bill, 2026**, now passed
-by the Indian Parliament, clarifies by statute that royalty **does** constitute a tax on
-mineral rights — explicitly preventing states from layering additional levies under either
-Entry 49 or Entry 50. In substance, the amendment legislates Justice Nagarathna's
-dissenting reasoning into law, reversing the practical effect of the majority's 2024
-holding even though the Court's constitutional ruling on the *contractual* character of
-royalty itself stands. [VERIFY: this wiki has not independently confirmed the amendment
-bill's exact passage date, vote, or full text — the account above is drawn from
-secondhand legal-affairs journalism, not the bill's primary text or Parliamentary record.]
+The **Mines and Minerals (Development and Regulation) Amendment Bill, 2026** was
+introduced in the Lok Sabha on 10 August 2026, passed the Lok Sabha on 12 August 2026 and
+the Rajya Sabha on 13 August 2026.[3] Its operative provision inserts a new **section 9D**
+into the principal Act, whose text reads: "No tax, cess or such other levy (by whatever
+name called) shall be imposed by the State Government on— (a) mineral rights; or
+(b) mineral bearing lands, either based on mineral quantity or mineral value or royalty
+payable or otherwise, except in accordance with such conditions or restrictions as may be
+prescribed by the Central Government."[4] A second sub-section applies retrospectively:
+notwithstanding "any judgment, decree or order of any court," any such state levy "not
+deposited with the State Government or recovered by it" before the Act's commencement is
+"deemed to be invalid at all material times," while amounts already collected are not
+refundable.[4]
+
+**What the statute does and does not say.** Legal-affairs coverage framed the amendment as
+establishing that royalty is itself a tax, echoing Justice Nagarathna's dissent.[1] The
+bill's own text does not make that characterization: it does not re-classify royalty, and
+the Court's holding on royalty's *contractual* character is left standing. What section 9D
+does instead is remove the practical consequence of the majority ruling — by barring states
+from exercising the taxing power the Court had just affirmed, and by voiding the
+retrospective recoveries the 2024 judgment had opened up. The result matches the outcome
+Nagarathna's dissent would have produced while resting on Parliament's own legislative
+authority rather than on her constitutional reasoning.
 
 ## Relation to the Georgist Case
 
@@ -110,16 +123,33 @@ bottom" Nagarathna warned an uncoordinated multi-level royalty system would prod
 
 1. "'Royalty itself a tax': In mining law amendment, echo of SC judge Nagarathna's dissent
    in key 2024 order," *The Print* (India), 2026. [theprint.in](https://theprint.in/judiciary/royalty-itself-a-tax-in-mining-law-amendment-echo-of-sc-judge-nagarathnas-dissent-in-key-2024-order/3013478/) —
-   article fetched and read 2026-08-14; used for the 8:1 vote and holding, Chandrachud's
+   article fetched and read 2026-08-14 — used for the 8:1 vote and holding, Chandrachud's
    role, Nagarathna's dissent (statutory-levy and Entry 49/50 reasoning, "race to the
    bottom" quotation), and the account that the 2026 Amendment Bill codifies her dissenting
    position (B-claim; the amendment's connection to the dissent is this outlet's framing,
-   flagged accordingly, and the bill's precise text was not independently retrieved this
-   session — see the body [VERIFY] note).
+   flagged accordingly — the bill's own text, retrieved 2026-08-25 as sources 3-4 below,
+   does not itself re-characterize royalty as a tax, and the body section notes the
+   distinction).
 2. "Supreme Court Holds Royalty Is Not a Tax, Redefines Fiscal Federalism in Mining," *The
    Bar Bulletin*, 2026. [thebarbulletin.com](https://thebarbulletin.com/supreme-court-royalty-not-tax-fiscal-federalism-mining/) —
-   article fetched and read 2026-08-14; used for the fuller case-history chain (*India
+   article fetched and read 2026-08-14 — used for the fuller case-history chain (*India
    Cement* 1990 → *Kesoram Industries* 2004 → 2011 referral → 14 August 2024 ruling), the
    exact majority quotation ("definitively not a tax. It is a contractual consideration"),
    and the federal-supremacy-vs-state-autonomy framing of the constitutional question. This
    source does not mention the 2026 amendment bill; that detail is sourced to item 1 only.
+3. "The Mines and Minerals (Development and Regulation) Amendment Bill, 2026," PRS
+   Legislative Research bill track.
+   [prsindia.org](https://prsindia.org/billtrack/the-mines-and-minerals-development-and-regulation-amendment-bill-2026) —
+   read 2026-08-25 — used for the introduction date (10 August 2026, Lok Sabha) and the two
+   passage dates (Lok Sabha 12 August 2026; Rajya Sabha 13 August 2026). PRS records no
+   division count for either House, so this page asserts passage dates but no vote figures
+   (A-claim for the dates; the absence of a recorded vote is noted rather than filled in).
+4. *The Mines and Minerals (Development and Regulation) Amendment Bill, 2026*, Bill text as
+   introduced in the Lok Sabha, clauses 2-4.
+   [prsindia.org (PDF)](https://prsindia.org/files/bills_acts/bills_parliament/2026/MMDR_(Amendment)_Bill_2026.pdf) —
+   PDF downloaded and text-extracted 2026-08-25 — used for the verbatim text of new section
+   9D(1) and 9D(2) including the "deemed to be invalid at all material times" retrospective
+   clause and the no-refund proviso, and for the new section 3(ada) definition of "mineral
+   bearing land" (A-claim, primary legislative text). Caveat: this is the Bill **as
+   introduced**; the wiki has not obtained the as-passed Act text, so any amendment made
+   during passage through either House would not be reflected here.

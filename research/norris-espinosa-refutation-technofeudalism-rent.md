@@ -125,7 +125,7 @@ counter-position rather than dismissed.
    10.1177/04866134261452322. [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/04866134261452322) —
    fetch blocked (403) to this session; summary built from search-engine-indexed abstract
    synthesis and coverage of the authors' related ASSA 2026 / Historical Materialism 2025
-   conference presentations, fetched 2026-08-24. Used for the three-appearances-of-knowledge
+   conference presentations, fetched 2026-08-24 — used for the three-appearances-of-knowledge
    framework, the labor-theory-of-value counter-argument, and the direct engagement with
    Marx's ground-rent category and its extension by Mandel and others to "technological
    rents" (C-claim; full text not independently verified, no verbatim quotation offered).

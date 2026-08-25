@@ -114,7 +114,7 @@ Speculation](/wiki/hirano-stiglitz-growth-fluctuations-land-speculation/)).
 1. Tomohiro Hirano & Joseph E. Stiglitz (2022), "The Wobbly Economy: Global Dynamics with
    Phase and State Transitions," NBER Working Paper 29806 (February 2022).
    [NBER PDF](https://www.nber.org/system/files/working_papers/w29806/w29806.pdf) —
-   downloaded and read (abstract and introduction, 71-page paper) 2026-08-18; used for
+   downloaded and read (abstract and introduction, 71-page paper) 2026-08-18 — used for
    the abstract, the phase-transition and state-transition/hysteresis mechanism, and the
    explicit confirmation that the model is the standard Diamond life-cycle model without
    land (A-claim for the abstract/intro material read; full technical sections not read

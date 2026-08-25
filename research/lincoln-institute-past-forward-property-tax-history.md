@@ -43,8 +43,7 @@ warp physical development in visible, lasting ways.
   sometimes occupies private property; when polder boards perform maintenance on those
   sections, the affected owners receive a property-tax exemption on that portion of land.
 
-Hermans's summary framing: "we think an exemption is just impacting the property tax, but
-it's also almost always very impactful to our built environment."
+Hermans's summary framing: "we think an exemption is just impacting the property tax, but it's also almost always very impactful to our built environment."
 
 ## Relation to the Georgist Case
 
@@ -86,7 +85,7 @@ split-rate taxation, predictably changes what gets built.
 1. Luc Hermans, interviewed in "Past Forward: Tracing the Property Tax Through Time and
    Place," *Land Lines* (Lincoln Institute of Land Policy), 2026.
    [lincolninst.edu](https://www.lincolninst.edu/publications/land-lines-magazine/articles/past-forward-tracing-the-property-tax-through-time-and-place/) —
-   article fetched and read 2026-08-14; used for Hermans's credentials, the
+   article fetched and read 2026-08-14 — used for Hermans's credentials, the
    Amsterdam frontage-tax and window-tax examples, the London agricultural-relief "snail
    farm" example, the Dutch polder-maintenance exemption, and the closing quotation. Magazine
    interview, illustrative-history tier (C-claim; not a research finding).

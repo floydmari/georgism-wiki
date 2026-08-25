@@ -9,7 +9,7 @@ last_reviewed: 2026-08-14
 source_url: https://kurums.com/australia-mining-royalties-prrt-resource-rent/
 tier: supplementary
 stub: false
-excerpt: "Australia runs two structurally different mineral-tax instruments side by side — state ad valorem royalties (e.g. WA's 7.5% iron-ore rate) and the federal 40% profits-based Petroleum Resource Rent Tax — plus a cautionary case study in the failed 2012–14 Minerals Resource Rent Tax, whose royalty-crediting design let states quietly absorb the revenue it was meant to raise."
+excerpt: "Australia runs two mineral-tax instruments side by side — state ad valorem royalties (WA iron ore: 7.5%) and the federal 40% profits-based Petroleum Resource Rent Tax — plus the failed 2012–14 Minerals Resource Rent Tax, whose royalty-crediting design let states absorb the revenue it targeted."
 ---
 
 ## Summary
@@ -108,7 +108,7 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
 
 1. "Australia Mining Royalties, PRRT and Resource Rent Tax Explained," Kurums.com (2026).
    [kurums.com](https://kurums.com/australia-mining-royalties-prrt-resource-rent/) —
-   article fetched and read 2026-08-14; used for the WA iron-ore and Queensland coal
+   article fetched and read 2026-08-14 — used for the WA iron-ore and Queensland coal
    royalty rate structures, the royalty-vs-rent-tax distinction quotation, the PRRT's 40%
    profits-based design and 2023/2024 deduction-cap reform, and the MRRT's 2012–2014
    history and royalty-crediting design flaw. Business-intelligence source, not government

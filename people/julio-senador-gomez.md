@@ -76,7 +76,7 @@ increment tax.
    published online 28 November 2025, DOI 10.7203/ciriec-jur.48.28742.
    [doi.org](https://doi.org/10.7203/ciriec-jur.48.28742) — full-text fetch blocked
    (Cloudflare) to this session 2026-08-25; summary drawn from the Crossref-indexed abstract,
-   translated from Spanish. Used for Senador Gómez's identification as a leading Spanish
+   translated from Spanish — used for Senador Gómez's identification as a leading Spanish
    Georgist popularizer, his regeneracionista affiliation, and the characterization of his
    engagement with Georgist theory as deeper than his contemporaries' (C-claim; abstract-level,
    no verbatim quotation offered, original in Spanish).

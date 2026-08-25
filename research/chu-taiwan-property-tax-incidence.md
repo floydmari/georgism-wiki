@@ -90,7 +90,7 @@ incidence literature (Mieszkowski, Song & Zenou), most of which is US/UK-anchore
    *International Tax and Public Finance*, DOI 10.1007/s10797-026-09991-3.
    [doi.org](https://doi.org/10.1007/s10797-026-09991-3) — fetch blocked (Cloudflare
    "Client Challenge") to both WebFetch and curl this session 2026-08-25; summary drawn
-   from third-party search-result descriptions of the paper. Used for the DSGE model's
+   from third-party search-result descriptions of the paper — used for the DSGE model's
    2011–2015 Taiwan calibration, the owner-occupier/speculator distinction, and the
    recurring-tax-durable-vs-transfer-tax-transient central finding (C-claim; **[VERIFY]**
    against primary source when accessible, no verbatim quotation offered).

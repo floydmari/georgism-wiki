@@ -85,7 +85,7 @@ wiki's citation of those papers can point to the general theorem underneath them
 ## Bears On
 
 - **Research:** [Hirano & Stiglitz: Henry George, Land Speculation, and Economic Growth](/wiki/oxford-review-george-2025/) — the companion flagship paper in the same Oxford Review issue, applying this paper's general theorem to land specifically.
-- **Research:** [Hirano & Stiglitz: Land Speculation and Wobbly Dynamics](/wiki/hirano-stiglitz-wobbly-dynamics-land-speculation/) — the land-and-capital application of the multiplicity result this paper proves in general.
+- **Research:** [Hirano & Stiglitz: Land Speculation and Wobbly Dynamics](/wiki/hirano-stiglitz-wobbly-dynamics-land-speculation/) — the land-and-capital application of the multiplicity result this paper establishes in general.
 
 ## See Also
 
@@ -101,7 +101,7 @@ wiki's citation of those papers can point to the general theorem underneath them
    10.1093/oxrep/graf026](https://doi.org/10.1093/oxrep/graf026) · also [NBER Working
    Paper 34193](https://www.nber.org/papers/w34193) — abstract and search-result
    characterization retrieved 2026-08-18; both the NBER PDF and the Oxford Academic PDF
-   were blocked on every fetch method tried. Used for the three-result structure
+   were blocked on every fetch method tried — used for the three-result structure
    (multiple steady states; multiple momentary equilibria; complex-but-bounded
    fluctuations), the "quite general conditions... general utility and production
    functions" framing, and the paper's role as the mathematical foundation for the wider

@@ -3,7 +3,7 @@ title: "Joseph Stiglitz"
 category: people
 tags: [people, stiglitz, henry-george-theorem, public-economics, nobel]
 stub: false
-excerpt: "Nobel laureate economist who coined and formalized the Henry George Theorem, has repeatedly argued that land and rent are the proper base for taxation, has spent 2022–2026 building a formal land-speculation-and-growth research program with Tomohiro Hirano that engages Henry George directly, and — with Anton Korinek — extends the same rent-based framework to AI-era 'innovator rents.'"
+excerpt: "Nobel laureate who coined and formalized the Henry George Theorem, argues land and rent are the proper tax base, built a 2022–2026 land-speculation-and-growth program with Tomohiro Hirano engaging George directly, and with Anton Korinek extends the framework to AI-era \"innovator rents.\""
 last_reviewed: 2026-08-18
 ---
 

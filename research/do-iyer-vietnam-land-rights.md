@@ -9,7 +9,7 @@ last_reviewed: 2026-08-22
 source_url: https://ideas.repec.org/p/wbk/wbrwps/3120.html
 tier: supplementary
 stub: false
-excerpt: "A World Bank study of Vietnam's 1993 Land Law reform — which gave households the right to exchange, transfer, lease, inherit, and mortgage land-use rights — finds that expanded land rights increased multi-year crop cultivation and irrigation investment, with the strongest effects where reform arrived earliest."
+excerpt: "A World Bank study of Vietnam's 1993 Land Law reform — which gave households rights to exchange, transfer, lease, inherit, and mortgage land-use rights — finds expanded land rights increased multi-year crop cultivation and irrigation investment, strongest where reform arrived earliest."
 ---
 
 ## Summary
@@ -92,7 +92,7 @@ LVT does not touch the return to improvements).
    Vietnam," World Bank Policy Research Working Paper 3120, August 2003.
    [ideas.repec.org/p/wbk/wbrwps/3120.html](https://ideas.repec.org/p/wbk/wbrwps/3120.html) ·
    [openknowledge.worldbank.org listing](https://openknowledge.worldbank.org/entities/publication/3c635bec-0a77-55e1-bc22-40083ce8c8a0) —
-   abstract and RePEc summary read 2026-08-22; used for the 1993 Land Law's land-use-rights
+   abstract and RePEc summary read 2026-08-22 — used for the 1993 Land Law's land-use-rights
    provisions, the provincial-variation identification strategy, the multi-year-crop and
    irrigation-investment findings, and the earlier-reform-stronger-effect result (B-claim;
    the World Bank's hosted PDF and the modern listing page were not retrievable to automated
