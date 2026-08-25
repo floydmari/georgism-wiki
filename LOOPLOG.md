@@ -3862,3 +3862,39 @@ pages Ghost-synced (GHOST_WEBHOOK_KEY unresolved this session — a 1Password ra
 a credential problem — but GHOST_ADMIN_KEY, the credential sync actually needs, was set, so
 the sync itself was unaffected); spot-checked `norris-espinosa-refutation-technofeudalism-rent`
 live (200).
+
+## 2026-08-25 — 8th and 9th mirror-dup recurrences; a new duplicate pattern; a real 9-item T0 batch
+
+Mirror-dups resurfaced for the 8th time (commit `7f56ae0`, clean fast-forward this time).
+Then, on the very next fetch, a second scanner commit landed with 10 new items — and among
+them the *same* 11-item back-catalog for a 9th time, but also a **new kind of duplicate**:
+the DOI-form URL (`doi.org/10.3386/w35587`) for a paper already fully covered under its
+`nber.org/papers/w35587` form (`research/coven-property-taxes-housing-allocation.md`),
+invisible to both the exact-URL check and the `/p/<slug>` mirror filter. Extended the
+cleanup script with an NBER-ID normalizer (matching `10.3386/wNNNNN` against
+`nber.org/papers/wNNNNN`) to catch it — the same underlying problem as the domain-migration
+mirror-dups (same content, different URL format) showing up in a second guise. Worth
+watching for further variants (arXiv vs. journal-of-record URLs, SSRN abstract-ID vs. DOI,
+etc.) as the scanner keeps running.
+
+The surviving 9-item batch went through the full T0 brief step
+(`sources/context-briefs/2026-08-25.json`) and was substantial enough to be worth it: T0
+caught one genuine duplicate on its own (Baldomero-Quintana & Singh — literally the same
+paper, same DOI, as an item published eleven days earlier in this same pipeline) and two
+confirmed-thin/false-positive rejects (a Physiocrats desk review in a journal whose own
+website returned "Account Suspended," and a cultural-anthropology piece where "Internet of
+Landlords" turned out to be a platform-economy metaphor for Indian home-kitchen content
+creators — no land content at all). Of the 4 new pages: `people/li-dazhao.md` and
+`people/julio-senador-gomez.md` are genuinely new territory — a third, more tenuous Chinese
+Georgism connection (thematic parallel, not documented influence, honestly flagged as such)
+and the wiki's first Spanish-Georgism-history page. `research/fudge-structural-rentier-
+asset.md` and `research/chu-taiwan-property-tax-incidence.md` are both graded C-claim with
+explicit non-verification notes — Fudge is a non-peer-reviewed SSRN preprint by an
+independent "Rentier Black Hole" commentator, and Chu's Taiwan DSGE paper was Cloudflare-
+blocked to every fetch attempt, drawn from third-party summaries only with a `[VERIFY]` flag
+for a future session. Two enrichments (Wet'suwet'en pipeline rentierism into the
+Indigenous-reconciliation narrative; a Turkish Georgism-synthesis citation, deliberately kept
+minimal given the abstract-only, foreign-language sourcing) round out the batch.
+
+Lint 0 errors, 0 orphans, 948 pages. Queue ledger: 0 pending, 225 consumed. All 14 touched
+pages Ghost-synced; spot-checked `li-dazhao` live (200).
