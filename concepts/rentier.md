@@ -98,6 +98,7 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 ## See Also
 
 - [Christophers (2020): Rentier Capitalism](/wiki/christophers-rentier-capitalism/) — book-length survey of seven UK rentier sectors (land, finance, IP, natural resources, contracts) applying the rentier concept across the whole economy
+- [Fudge: The Structural Rentier Asset](/wiki/fudge-structural-rentier-asset/) — a formal working-paper argument that an asset combining fixed supply, collateral status, and tax preference has no stable equilibrium
 - [Progress and Poverty (full text)](/wiki/progress-and-poverty-full-text/) — George's 1879 "spurious capital" chapter, the historical antecedent above
 - [Economic Rent](/wiki/economic-rent/)
 - [Rent-Seeking](/wiki/rent-seeking/)

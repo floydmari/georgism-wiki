@@ -82,6 +82,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 - [Centre Point](/wiki/centre-point/) — London's landmark case: a 34-storey tower left completely empty for nine years by its developer while waiting for a single high-paying tenant
 - [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/) — the measured evidence, by method, with the zoning-vs-speculation split carried honestly
+- [Chu: Property Tax Incidence and Housing Market in Taiwan](/wiki/chu-taiwan-property-tax-incidence/) — a DSGE model finding recurring property tax has durable anti-speculation effects a one-off transfer tax lacks
 
 - [Land Monopoly](/wiki/land-monopoly/) · [LVT dampens land speculation](/wiki/lvt-dampens-land-speculation/) · [Prosper Australia](/wiki/prosper-australia/)
 - [Cunningham (2006), Seattle](/wiki/cunningham-seattle-options/) — the option-value evidence

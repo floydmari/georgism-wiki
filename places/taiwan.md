@@ -40,6 +40,7 @@ Persistence, however, is not the same as effective capture. Because officially d
 
 - [Taiwan Land Reform (1950s)](/wiki/taiwan-land-reform-1950s/) — the reforms that established the framework
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) · [Sun Yat-sen](/wiki/sun-yat-sen/) · [Unearned Increment](/wiki/unearned-increment/) · [Land Value Tax](/wiki/land-value-tax/)
+- [Chu: Property Tax Incidence and Housing Market in Taiwan](/wiki/chu-taiwan-property-tax-incidence/) — a modern DSGE-model complement to this page's historical land-reform coverage
 - [Singapore](/wiki/singapore/) · [Hong Kong](/wiki/hong-kong/) — the leasehold cousins of Taiwan's tax-based capture
 - [Betterment Levy](/wiki/betterment-levy/) · [The German Reich Wertzuwachssteuer (1911–1913)](/wiki/wertzuwachssteuer-germany/) — the short-lived increment-tax comparators
 

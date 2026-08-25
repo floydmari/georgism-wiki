@@ -39,6 +39,7 @@ The paper extends the land-decomposition literature associated with [Matthew Rog
 - [Land is a Big Deal](/wiki/land-is-a-big-deal/) — the book that surfaces this paper's findings (Ch. 6, 17)
 - [Rognlie, "Deciphering the Fall and Rise in the Net Capital Share"](/wiki/rognlie-capital-share/) — the parallel US/cross-country decomposition this paper extends to Spain
 - [Bonnet et al., "Land is Back, It Should Be Taxed, It Can Be Taxed"](/wiki/bonnet-land-is-back/) — the equivalent French/European confirmation
+- [Julio Senador Gómez](/wiki/julio-senador-gomez/) — an unrelated, much earlier Spanish page: the country's leading early-20th-century Georgist popularizer, rather than this paper's wealth-inequality data reconstruction
 
 ## Sources
 

@@ -94,6 +94,15 @@ claim the wiki endorses on the evidence.
 - **Left-Georgism** — pairs LVT with a universal basic income funded from land rent (the "citizen's dividend" George himself proposed)
 - **Ecological Georgism** — extends the analysis to all natural resources and environmental externalities, supporting taxes on pollution and resource extraction
 
+A 2026 Turkish academic synthesis by Musa Kızıltepe (Hacettepe University) argues Georgism's
+treatment in the academic literature has been fragmentary — its theoretical structure, its
+ideological position between capitalism and socialism, and its practical applications
+typically discussed in isolation from each other — and proposes a unified framework
+analyzing the doctrine along four axes (theory, ideological position, intellectual
+contribution, and practical application) to recover it as a systematic "third way." This is
+a synthesis and framing contribution rather than a new empirical finding, and this page has
+not independently verified it beyond the abstract (the article is in Turkish; C-claim).
+
 ## Contemporary Organisations
 
 The tradition continues through the [Henry George Foundation](https://www.henrygeorgefoundation.org/) (UK), the [Lincoln Institute of Land Policy](https://www.lincolninst.edu/) (US), [Prosper Australia](https://www.prosper.org.au/), the [Robert Schalkenbach Foundation](https://www.schalkenbach.org/), and numerous policy institutes that advocate land value taxation without necessarily using the Georgist label.
@@ -168,3 +177,4 @@ See: [Now the Synthesis (Noyes)](/wiki/now-the-synthesis/)
 5. Robert V. Andelson (ed.), *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (New York: Robert Schalkenbach Foundation, 1979) — used for the defense against critics, the "conspiracy of silence" thesis, and Schumpeter's assessment (D-claims). [Book page](/wiki/critics-of-henry-george/)
 6. Phillip J. Bryson, *The Economics of Henry George: History's Rehabilitation of America's Greatest Early Economist* (New York: Palgrave Macmillan, 2011) — used for the rehabilitation thesis, George's methodology, and distribution theory (C/D-claims). [Book page](/wiki/economics-of-henry-george/)
 7. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism and the New Social Contract* (London: Shepheard-Walwyn, 1991) — used for the post-Cold War synthesis framing, Tideman's constitutional argument, Harrison's planning gain analysis, and Richards's Green-Georgist connection (C/D-claims). [Book page](/wiki/now-the-synthesis/)
+8. Musa Kızıltepe (2026), "Georgist İdeoloji ve Ekonomi Politik: Kuram, Konum, Katkı, Kılgı" ["Georgist Ideology and Political Economy: Theory, Position, Contribution, Practice"], *Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi* 44(1), published 23 March 2026, DOI 10.17065/huniibf.1677079. [doi.org](https://doi.org/10.17065/huniibf.1677079) — fetch blocked to this session 2026-08-25; summary drawn from the article's own abstract (Turkish; not independently translated in full). Used for the four-axis unified-framework characterization of the paper's argument (C-claim; abstract-level only).

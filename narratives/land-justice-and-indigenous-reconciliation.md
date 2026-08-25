@@ -174,7 +174,16 @@ Indigenous claims touch — each of which comes bundled with its own limit.
   But the Yellowhead Red Paper classifies benefit- and revenue-sharing under
   "Recognition" — "the limited land rights offered by the Crown and industry" — as
   falling *short* of jurisdiction, not as its fulfilment.[3] The practical contact and
-  the critique are the same fact seen from two sides.
+  the critique are the same fact seen from two sides. A 2026 University of Ottawa
+  thesis by Sarah Robidoux examines a concrete instance of this same tension: the 2020
+  Wet'suwet'en pipeline protests, read through a "state-corporate rentierism" and
+  Nancy Fraser "boundary struggles" lens, arguing that dominant discourses (equity
+  agreements, clean-energy narratives) prevailed over Indigenous counter-hegemonic
+  claims to preserve extraction-friendly conditions — a memorandum of understanding
+  was eventually reached, but the underlying jurisdictional conflict was left
+  unresolved.[10] This is exactly the pattern the paragraph above describes in the
+  abstract: a benefit-sharing-style settlement that resolves the immediate dispute
+  without resolving the deeper question of whose jurisdiction governs the land.
 - **Sovereign funds and dividends.** Advocacy proposals such as
   [Common Wealth Canada](/wiki/common-wealth-canada/)'s national land value tax feeding a
   sovereign [Common Wealth Fund](/wiki/sovereign-wealth-fund/) that pays a
@@ -304,3 +313,11 @@ Indigenous claims touch — each of which comes bundled with its own limit.
    [PDF](https://www.waitangitribunal.govt.nz/assets/Rangahaua-whanui/THEME/Theme-I-Bennion-Rating.pdf).
    Used to corroborate that Māori and rating law constitutes a recognized Treaty grievance
    theme (A-claim; official tribunal research report).
+10. Sarah Robidoux (2026), "Why We Can't Afford Pipelines: State-Corporate Rentierism on
+    Wet'suwet'en Territory," University of Ottawa master's thesis, uOttawa institutional
+    repository, DOI 10.20381/ruor-32155. [doi.org](https://doi.org/10.20381/ruor-32155) —
+    fetch blocked to this session 2026-08-25; summary drawn from the thesis's own abstract
+    and keywords (Rentier Capitalism, State-Corporate Crime, Indigenous Protests). Used for
+    the 2020 Wet'suwet'en pipeline protest case, the state-corporate-rentierism/Fraser
+    "boundary struggles" framing, and the memorandum-of-understanding-without-resolution
+    outcome (C-claim; unpublished thesis, not peer-reviewed, abstract-level only).

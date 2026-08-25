@@ -56,6 +56,7 @@ hosted in full.
 - [Churchill, "The Mother of Monopolies" (1909)](/wiki/churchill-mother-of-monopolies-1909/) — the land-monopoly speech (public-domain text).
 - [Elizabeth Magie](/wiki/elizabeth-magie/) — inventor of *The Landlord's Game*, the Georgist teaching tool that became Monopoly.
 - [Single-tax colonies](/wiki/single-tax-colonies/) — Fairhope and Arden, the movement's living experiments.
+- [Julio Senador Gómez](/wiki/julio-senador-gomez/) — the movement's leading popularizer in early-20th-century Spain, who fused Georgism with the *regeneracionismo* national-renewal current.
 
 ## The critics, graded
 

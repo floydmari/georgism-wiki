@@ -38,6 +38,7 @@ This is a different topic from the wiki's existing China material. [Gaffney's 20
 ## See Also
 
 - [Sun Yat-sen](/wiki/sun-yat-sen/) — the wiki's page on George's *directly attested* historical influence on Chinese land policy, via Sun and Taiwan
+- [Li Dazhao](/wiki/li-dazhao/) — a third, still-less-direct Chinese connection: a thematic (not documented) parallel between George's ideas and the CCP co-founder's attention to rural poverty
 - [Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash in 2015?](/wiki/gaffney-real-assets-model-china/) — the wiki's other China research page, addressing the property-cycle/banking mechanism rather than land tenure design
 - [Land Value Tax](/wiki/land-value-tax/) · [Henry George](/wiki/henry-george/)
 

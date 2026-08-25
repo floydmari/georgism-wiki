@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://doi.org/10.1007/s10797-026-09995-z",
+    "title": "The Impact of Property Tax Incentives on Residential Investment",
+    "existing_coverage": "Fully covered by research/baldomero-quintana-singh-nyc-tax-reform.md, published 2026-08-14 in the same 14-item T0/T1 wave — same authors (Luis Baldomero-Quintana, Divya Singh), same journal (International Tax and Public Finance, 2026), and the exact same DOI (10.1007/s10797-026-09995-z), confirmed against both the doi.org and springer.com URL forms logged as 'consumed' in sources/wiki-queue.json.",
+    "disposition": "duplicate",
+    "reasoning": "Not merely the same authors/topic as the NOTE warned to check for — this is the literal same paper, same DOI, already drafted into a full research page eleven days ago in this same editorial pipeline. No action needed.",
+    "cross_link_targets": ["research/baldomero-quintana-singh-nyc-tax-reform"],
+    "suggested_category": "research",
+    "confidence": "high",
+    "source_notes": "Baldomero-Quintana & Singh, International Tax and Public Finance (2026). Studies NYC's 2006-announced/2008-implemented 421-a exemption reform: 10,735 excess short-run rental starts (grace-period effect) and 22-23 more long-run new rental units/tract/year in strict-eligibility tracts vs. lenient ones. Already fully written up; nothing further to do."
+  },
+  {
+    "url": "https://doi.org/10.2139/ssrn.7179858",
+    "title": "The Structural Rentier Asset",
+    "existing_coverage": "No existing coverage of this paper or author. The wiki has substantial adjacent theory at concepts/rentier.md (Hudson, Mazzucato, Keynes's 'euthanasia of the rentier'), concepts/financialization-of-land.md (the mortgage-credit/land-price collateral feedback loop, Ryan-Collins et al.), and research/christophers-rentier-capitalism.md, but nothing on a formal no-steady-state/Minsky-correction model of a 'structural rentier asset.'",
+    "disposition": "new_page",
+    "reasoning": "This is a genuine formal-theory contribution distinct from the wiki's existing rentier literature: it derives, via six numbered propositions, why a fixed-supply asset that is both loan collateral and tax-preferred has no equilibrium and terminates in policy intervention or a Minsky-type crash, with a claim that GDP mismeasurement (imputed rental income) masks a shrinking productive base. It's a working paper, not peer-reviewed — the author (Henry Fudge) is a former wealth manager turned Substack/TikTok commentator publishing under the 'Rentier Black Hole' brand — so this should be flagged as a preprint/non-peer-reviewed source, not treated with the confidence of a journal article.",
+    "cross_link_targets": ["concepts/financialization-of-land", "concepts/rentier", "research/christophers-rentier-capitalism", "narratives/the-rentier-economy", "concepts/18-year-land-cycle"],
+    "suggested_category": "research",
+    "confidence": "medium",
+    "source_notes": "Henry Fudge, SSRN Electronic Journal (2026), working paper (not peer-reviewed). Defines a 'structural rentier asset' as one whose supply elasticity toward capital inflow tends to zero; if it also serves as bank collateral and receives preferential tax treatment, risk-adjusted return diverges monotonically from productive assets with no interior steady state, ending in policy intervention or a Minsky correction, while productive capital is crowded out and GDP mismeasurement hides the shrinking productive base. Author is a public-facing 'Rentier Black Hole' commentator (Substack, TikTok, prior related SSRN paper 'The Housing Theory of Everything'), not a traditional academic — note this when drafting."
+  },
+  {
+    "url": "https://doi.org/10.1111/ajes.70025",
+    "title": "The Unseen Thread: The Influence of Henry George on Early Chinese Communist Leaders—The Case of Li Dazhao",
+    "existing_coverage": "No dedicated page on Li Dazhao exists. The wiki has deep coverage of the parallel, better-documented Sun Yat-sen → George lineage (people/sun-yat-sen.md, places/tsingtao-land-tax.md, places/taiwan.md, concepts/land-value-increment-tax.md) and a companion 2026 AJES paper on Sun Yat-sen (research/xu-huang-li-china-hcrs-george.md covers a *different*, Deng-era HCRS paper; the Sun Yat-sen 'creative transformation' paper by Wang, Guo, Tong & Li, doi:10.1111/ajes.70017, is cited on people/sun-yat-sen.md but has no page of its own). This is a distinct paper, distinct DOI, distinct historical figure (Li Dazhao, a CCP founder, not Sun).",
+    "disposition": "new_page",
+    "reasoning": "Fills a genuine gap — no page treats Li Dazhao at all, and this is the only source found connecting Georgist ideas to the founding generation of Chinese communism rather than to Sun's nationalist land program. The authors are explicit that the connection is thematic/parallel rather than documented direct citation ('despite the absence of direct citations'), so this should be graded honestly as a C/D-claim, similar to how the wiki already flags the Sun Yat-sen companion paper's abstract-only status.",
+    "cross_link_targets": ["people/sun-yat-sen", "research/xu-huang-li-china-hcrs-george", "places/tsingtao-land-tax", "people/henry-george"],
+    "suggested_category": "people",
+    "confidence": "high",
+    "source_notes": "Baoqin Meng, Yanfang Han, Junfeng Wang & Xiaoqi Guan, American Journal of Economics and Sociology (published online 2025-12-31). Argues that although Li Dazhao (1889-1927, CCP co-founder and pioneer of Marxist thought in China) never directly cited George, George's critique of land monopoly and land justice thematically converged with and subtly informed Li's attention to rural poverty, labor dignity, and land reform, via shared exposure to global reformist discourse — an argument from intellectual-historical parallel, not documented direct influence."
+  },
+  {
+    "url": "https://doi.org/10.7203/ciriec-jur.48.28742",
+    "title": "La herencia y la evolución del georgismo español: el caso de Julio Senador Gómez",
+    "existing_coverage": "No page on Julio Senador Gómez, on the Spanish Georgist movement, or on Spain's Georgist history exists. The only Spain-adjacent pages are events/valencia-land-grab-law.md (a 1994 land-value-capture scheme gone wrong — a different topic) and research/blanco-spain-two-lands.md (a wealth-inequality data reconstruction, not a Georgism-history piece).",
+    "disposition": "new_page",
+    "reasoning": "Genuinely new territory: no history of the Spanish Georgist movement or any of its figures exists on the wiki. Julio Senador Gómez was, per this paper, one of the most influential Spanish popularizers of Georgist ideas in the first third of the 20th century, blending them with Spain's own 'regeneracionismo' reform movement — a distinct national-reception story worth documenting the way the wiki already documents George's reception in China, Germany, and elsewhere.",
+    "cross_link_targets": ["people/henry-george", "guides/portal-history-and-people", "events/valencia-land-grab-law", "research/blanco-spain-two-lands"],
+    "suggested_category": "people",
+    "confidence": "medium",
+    "source_notes": "Mo Chen, CIRIEC-España, revista jurídica de economía social y cooperativa (published 2025-11-28). In Spanish; summarized here in English from the Crossref abstract (full text was Cloudflare-gated). Argues Julio Senador Gómez was among the most influential public voices of Spanish Georgism in the early 20th century; while sharing other Spanish Georgists' tendency to simplify the doctrine, he engaged more deeply with its theoretical core, and as a 'regeneracionista' (member of Spain's post-1898 national-renewal reform movement) he extended Georgism by fusing it with regeneracionista and specifically 'Spanish-ized' ideas rather than adopting it unmodified."
+  },
+  {
+    "url": "https://doi.org/10.20381/ruor-32155",
+    "title": "Why We Can't Afford Pipelines: State-Corporate Rentierism on Wet'suwet'en Territory",
+    "existing_coverage": "No page on Wet'suwet'en or Canadian pipeline politics exists. The closest existing coverage is narratives/land-justice-and-indigenous-reconciliation.md (the wiki's honest-intersection treatment of geoism vs. Indigenous land-justice/Land Back demands) and places/canada.md (national economic-rent estimates, resource rents, sovereign wealth fund proposals) — neither discusses a specific pipeline conflict or 'rentierism' applied to state-corporate extraction from Indigenous land.",
+    "disposition": "enrich:narratives/land-justice-and-indigenous-reconciliation",
+    "reasoning": "This is a University of Ottawa master's thesis (not a peer-reviewed journal article), applying critical discourse analysis and Nancy Fraser's 'boundary struggles' framework to the 2020 Wet'suwet'en pipeline protests — useful as a concrete, recent Canadian case study of 'rentier capitalism' language applied to resource extraction and Indigenous sovereignty, but the analytical apparatus (state-corporate crime theory, hegemonic-discourse analysis) is political-science/critical-theory rather than land-value-tax economics, and its direct Georgist content is thin. A citation enriching the existing land-justice narrative is a better fit than a dedicated page.",
+    "cross_link_targets": ["narratives/land-justice-and-indigenous-reconciliation", "places/canada", "concepts/rentier", "research/berman-alaska-indigenous-poverty"],
+    "suggested_category": "narratives",
+    "confidence": "low",
+    "source_notes": "Sarah Robidoux, University of Ottawa thesis (uOttawa institutional repository, dated 2026-08-18). Examines the 2020 Wet'suwet'en pipeline protests through a rentier-capitalism/state-corporate-crime lens, arguing 'dominant discourses' (equity agreements, clean-energy narratives) overcame Indigenous counter-hegemonic claims to preserve extraction-friendly conditions; a memorandum of understanding was reached but the underlying conflict was left unresolved. Keywords: Rentier Capitalism, State-Corporate Crime, Indigenous Protests."
+  },
+  {
+    "url": "https://doi.org/10.17065/huniibf.1677079",
+    "title": "Georgist İdeoloji ve Ekonomi Politik: Kuram, Konum, Katkı, Kılgı (Georgist Ideology and Political Economy: Theory, Position, Contribution, Practice)",
+    "existing_coverage": "concepts/georgism.md is the wiki's general overview/definition page for the philosophy; guides/portal-history-and-people.md surveys the intellectual lineage from the Physiocrats through George; objections/marxist-critique-of-georgism.md covers the ideological-positioning debate (is Georgism capitalist, socialist, or neither) that this paper also addresses. No Turkey-specific page exists.",
+    "disposition": "enrich:concepts/georgism",
+    "reasoning": "This is a broad four-part theoretical synthesis (theory, ideological position, intellectual contribution, and practical application) rather than a novel empirical or historical finding — its stated motivation is that Georgism's treatment in the literature is 'fragmented' and it aims to unify it. That's a survey/synthesis contribution best used as a citation supporting the general Georgism overview page's framing of the doctrine as a systematic 'third way' between capitalism and socialism, not a strong enough standalone finding for a dedicated page.",
+    "cross_link_targets": ["concepts/georgism", "guides/portal-history-and-people", "objections/marxist-critique-of-georgism", "concepts/single-tax"],
+    "suggested_category": "concepts",
+    "confidence": "low",
+    "source_notes": "Musa Kızıltepe, Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, Vol. 44 No. 1 (published 2026-03-23). In Turkish. Argues Georgism has been treated fragmentarily in the literature (its theoretical integrity, ideological originality, and practical applications discussed separately) and presents a unified four-axis framework (theory, position, contribution, practice) to recover Georgism as a systematic alternative to both capitalist and socialist orthodoxy, addressing land value taxation, rent capture, economic-crisis theory, and poverty reduction."
+  },
+  {
+    "url": "https://doi.org/10.1007/s10797-026-09991-3",
+    "title": "Property tax incidence and housing market in Taiwan",
+    "existing_coverage": "places/taiwan.md, concepts/land-value-increment-tax.md, and events/taiwan-land-reform-1950s.md cover Taiwan's Sun Yat-sen-derived land value increment tax and 1950s land reform in depth, but nothing modern/quantitative on Taiwan's *recurring* property tax incidence or housing-market dynamics. The wiki has ~19 other property-tax-incidence research pages (e.g. research/mieszkowski-property-tax-incidence.md, research/song-zenou-property-tax-sprawl.md) but none specific to Taiwan or using a DSGE approach.",
+    "disposition": "new_page",
+    "reasoning": "Genuinely new empirical/modeling territory for the wiki: a DSGE model finding that a recurring residential property tax (unlike a one-off transfer tax or LTV changes) durably curbs speculative housing transactions and has prolonged price-taming effects — directly on-point evidence for the Georgist claim that recurring land/property taxation, not transaction taxes, is the effective anti-speculation lever, and a natural companion to the wiki's existing Taiwan land-policy pages and its broader property-tax-incidence literature.",
+    "cross_link_targets": ["places/taiwan", "concepts/land-value-increment-tax", "research/mieszkowski-property-tax-incidence", "research/song-zenou-property-tax-sprawl", "concepts/speculative-vacancy", "events/taiwan-land-reform-1950s"],
+    "suggested_category": "research",
+    "confidence": "high",
+    "source_notes": "Shiou-Yen Chu, International Tax and Public Finance (2026). Crossref returned no abstract text and the Springer article/PDF pages were bot-blocked to both WebFetch and curl; content below is drawn from independent web search results describing the paper. Builds a DSGE model of Taiwan's housing market (calibrated to 2011-2015, when a real-estate transfer tax and lower loan-to-value ratio were introduced) distinguishing wealth-accumulation owner-occupiers from speculative investors; finds a recurring residential property tax (or higher interest rates) has durable, prolonged effects curbing speculative transactions and taming price growth, while a transfer tax or LTV reduction has only short-lived effects. [VERIFY: full abstract/paper not directly read — drawn from third-party search-result summaries, not the primary source text; a future session with different network egress should re-attempt the Springer PDF directly.]"
+  },
+  {
+    "url": "https://doi.org/10.57233/gujeds.v7i1.07",
+    "title": "Land Taxation and Revenue Generation: Revisiting the Physiocrats' Single Tax Theory and Its Implications to Current Economic Realities",
+    "existing_coverage": "concepts/physiocrats.md and concepts/physiocracy.md already give the Physiocrats' single-tax/impôt-unique theory a thorough, sourced treatment including George's own engagement with it. All three of this paper's cited case examples (Estonia, South Korea, Kenya) already have dedicated, deeper wiki coverage: places/estonia.md + research/tomson-estonia-lvt.md, places/south-korea.md, and research/kakumu-kenya-site-value-tax.md respectively.",
+    "disposition": "reject",
+    "reasoning": "This is a 'desk review and comparative case analysis' — not original data — published in a low-visibility Nigerian journal whose own hosting site returned an 'Account Suspended' page during retrieval, a signal of a marginal publication venue. Every substantive claim it makes (Physiocratic theory, Estonia/South Korea/Kenya as land-tax examples, developing-country over-reliance on VAT) is already covered on the wiki in more depth and with primary sourcing, exactly the 'thin, generic textbook restatement' pattern flagged for review. Not worth a dedicated page or enrichment.",
+    "cross_link_targets": ["concepts/physiocrats", "places/estonia", "research/tomson-estonia-lvt", "places/south-korea", "research/kakumu-kenya-site-value-tax"],
+    "suggested_category": "concepts",
+    "confidence": "high",
+    "source_notes": "Edema Odeworitse Meshach, Gusau Journal of Economics and Development Studies, Vol. 7 No. 1 (published 2026-08-10). A desk review and comparative case analysis (not primary data) arguing land taxation is a fair, sustainable revenue source for developing countries over-reliant on VAT/indirect taxes, citing Estonia, South Korea, and Kenya as examples where strong institutions and clear land records enabled effective land tax regimes. Journal's own website returned an 'Account Suspended' hosting-provider notice when fetched."
+  },
+  {
+    "url": "https://doi.org/10.14506/ca41.3.02",
+    "title": "The Hindu Home Kitchen and the Internet of Landlords: Understanding the Creator Economy",
+    "existing_coverage": "concepts/technofeudalism.md covers the platforms-as-rent-lords framing in general (Lanier's 'siren servers,' Varoufakis's 'technofeudalism') but this article's actual subject — Indian home-kitchen content creators, caste, gender, and household labor on YouTube/Instagram — has no wiki relevance and is not cited there.",
+    "disposition": "reject",
+    "reasoning": "Confirmed a keyword false positive of exactly the kind the brief warned about: 'Internet of Landlords' is a purely metaphorical framing borrowed from platform-economy critique ('platforms, as monopolistic digital intermediaries, act as rent-seeking landlords') applied to a cultural-anthropology study of caste, gender, and labor in India's home-kitchen creator economy. There is no land, property, or land-value-tax content whatsoever — the piece belongs to feminist/Marxist labor and media studies, not Georgism.",
+    "cross_link_targets": [],
+    "suggested_category": "concepts",
+    "confidence": "high",
+    "source_notes": "Sucharita Kanjilal, Cultural Anthropology, Vol. 41, No. 3 (2026), pp. 510-536. Examines Indian food content creators on YouTube/Instagram, arguing that domestic-kitchen content creation resurrects household-based piecework as commodified labor under an 'entrepreneurial household start-up' guise, obscuring exploitation and reinforcing caste/gender hierarchies via platform capitalism. 'Landlord' is used only as a metaphor for rent-extracting digital platforms (à la the wiki's existing technofeudalism concept), not in any literal land-rent sense; core subject is unrelated to Georgism."
+  }
+]

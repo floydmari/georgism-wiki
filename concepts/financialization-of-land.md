@@ -64,6 +64,7 @@ above.[3]
 ## See Also
 
 - [Rethinking the Economics of Land and Housing (research summary)](/wiki/ryan-collins-rethinking-land-housing/) — the primary source for this concept
+- [Fudge: The Structural Rentier Asset](/wiki/fudge-structural-rentier-asset/) — a formal argument that the land-credit feedback loop this page documents has no stable equilibrium, only intervention or crisis as an endpoint
 - [The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/) — the narrative this mechanism supports
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the periodicity claim built on related credit–land dynamics
 - [The Rentier Economy](/wiki/the-rentier-economy/) — the broader narrative of asset-income displacing production

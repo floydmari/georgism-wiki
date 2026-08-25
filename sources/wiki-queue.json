@@ -1,88 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://doi.org/10.1007/s10797-026-09995-z",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper on NYC property tax reform impact on residential investment — relevant to property tax reform",
-      "context": "The impact of property tax incentives on residential investment — Baldomero-Quintana, Singh. International Tax and Public Finance, 2026.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.2139/ssrn.7179858",
-      "source": "lvt-paper-scanner",
-      "reason": "SSRN paper on rentier assets and economic rent theory — relevant to rentier capitalism / economic rent",
-      "context": "The Structural Rentier Asset — Fudge. SSRN Electronic Journal, 2026.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1111/ajes.70025",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper on Henry George influence on Chinese Communist leaders — directly Georgist",
-      "context": "The Unseen Thread: The Influence of Henry George on Early Chinese Communist Leaders—The Case of Li Dazhao — Meng, Han, Wang. AJES, 2025.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.7203/ciriec-jur.48.28742",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper on Spanish Georgist intellectual history — directly Georgist",
-      "context": "La herencia y la evolución del georgismo español: el caso de Julio Senador Gómez — Chen. CIRIEC-España, 2025.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.20381/ruor-32155",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper on state-corporate rentierism and resource extraction — relevant to rentier capitalism",
-      "context": "Why We Can't Afford Pipelines: State-Corporate Rentierism on Wet'suwet'en Territory — Robidoux. Open MIND, 2026.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.17065/huniibf.1677079",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper on Georgist ideology and political economy — directly Georgist",
-      "context": "Georgist Ideology and Political Economy — Kiziltepe. Hacettepe University, 2026.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1007/s10797-026-09991-3",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper on property tax incidence in Taiwan using DSGE model — relevant to property tax/land rent theory",
-      "context": "Property tax incidence and housing market in Taiwan — Chu. International Tax and Public Finance, 2026.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.57233/gujeds.v7i1.07",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper revisiting Physiocrat single tax theory and land taxation — directly Georgist/LVT",
-      "context": "Land Taxation and Revenue Generation: Revisiting the Physiocrats Single Tax Theory — Meshach. Gusau J. Econ Dev Studies, 2026.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.14506/ca41.3.02",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper on platform rent-seeking and digital landlordism — relevant to economic rent / rent-seeking theory",
-      "context": "The Hindu Home Kitchen and the Internet of Landlords — Kanjilal. Cultural Anthropology, 2026.",
-      "author": null,
-      "queued_at": "2026-08-25T11:03:21.127973+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2610,6 +2528,105 @@
       "reported": false,
       "disposition": "enriched",
       "disposition_reason": "Added democratic-resource-curse complication to research/sachs-warner-resource-curse.md's Limits section (C-claim, abstract-level, source blocked)."
+    },
+    {
+      "url": "https://doi.org/10.1007/s10797-026-09995-z",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on NYC property tax reform impact on residential investment — relevant to property tax reform",
+      "context": "The impact of property tax incentives on residential investment — Baldomero-Quintana, Singh. International Tax and Public Finance, 2026.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "duplicate",
+      "disposition_reason": "Exact same paper (same authors, journal, DOI) already published as research/baldomero-quintana-singh-nyc-tax-reform.md 2026-08-14."
+    },
+    {
+      "url": "https://doi.org/10.2139/ssrn.7179858",
+      "source": "lvt-paper-scanner",
+      "reason": "SSRN paper on rentier assets and economic rent theory — relevant to rentier capitalism / economic rent",
+      "context": "The Structural Rentier Asset — Fudge. SSRN Electronic Journal, 2026.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/fudge-structural-rentier-asset.md — formal working-paper argument that a fixed-supply+collateral+tax-preferred asset has no steady state. Non-peer-reviewed SSRN preprint, graded C-claim."
+    },
+    {
+      "url": "https://doi.org/10.1111/ajes.70025",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on Henry George influence on Chinese Communist leaders — directly Georgist",
+      "context": "The Unseen Thread: The Influence of Henry George on Early Chinese Communist Leaders—The Case of Li Dazhao — Meng, Han, Wang. AJES, 2025.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page people/li-dazhao.md — a third, thematic (not documented) Chinese Georgism connection alongside Sun Yat-sen and the HCRS paper; explicitly graded as intellectual-parallel, not proven influence."
+    },
+    {
+      "url": "https://doi.org/10.7203/ciriec-jur.48.28742",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on Spanish Georgist intellectual history — directly Georgist",
+      "context": "La herencia y la evolución del georgismo español: el caso de Julio Senador Gómez — Chen. CIRIEC-España, 2025.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page people/julio-senador-gomez.md — first Spanish-Georgism-history coverage on the wiki. Spanish-language source, abstract-level (Cloudflare-gated full text)."
+    },
+    {
+      "url": "https://doi.org/10.20381/ruor-32155",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper on state-corporate rentierism and resource extraction — relevant to rentier capitalism",
+      "context": "Why We Can't Afford Pipelines: State-Corporate Rentierism on Wet'suwet'en Territory — Robidoux. Open MIND, 2026.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added Wet'suwet'en pipeline case study to narratives/land-justice-and-indigenous-reconciliation.md's Resource-rent-sharing section as a concrete illustration of the recognition-vs-jurisdiction tension. Unpublished uOttawa thesis, C-claim."
+    },
+    {
+      "url": "https://doi.org/10.17065/huniibf.1677079",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper on Georgist ideology and political economy — directly Georgist",
+      "context": "Georgist Ideology and Political Economy — Kiziltepe. Hacettepe University, 2026.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added minimal citation to concepts/georgism.md — a Turkish four-axis synthesis framework, low confidence, abstract-level only, Turkish-language."
+    },
+    {
+      "url": "https://doi.org/10.1007/s10797-026-09991-3",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on property tax incidence in Taiwan using DSGE model — relevant to property tax/land rent theory",
+      "context": "Property tax incidence and housing market in Taiwan — Chu. International Tax and Public Finance, 2026.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/chu-taiwan-property-tax-incidence.md — DSGE evidence that recurring property tax has durable anti-speculation effects vs. transient transfer-tax effects. Full text bot-blocked, C-claim with [VERIFY] flag."
+    },
+    {
+      "url": "https://doi.org/10.57233/gujeds.v7i1.07",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper revisiting Physiocrat single tax theory and land taxation — directly Georgist/LVT",
+      "context": "Land Taxation and Revenue Generation: Revisiting the Physiocrats Single Tax Theory — Meshach. Gusau J. Econ Dev Studies, 2026.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "Thin desk review in a marginal/suspended-hosting journal; all case examples (Estonia, S. Korea, Kenya) already covered in more depth with primary sourcing elsewhere on the wiki."
+    },
+    {
+      "url": "https://doi.org/10.14506/ca41.3.02",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on platform rent-seeking and digital landlordism — relevant to economic rent / rent-seeking theory",
+      "context": "The Hindu Home Kitchen and the Internet of Landlords — Kanjilal. Cultural Anthropology, 2026.",
+      "author": null,
+      "queued_at": "2026-08-25T11:03:21.127973+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "Confirmed keyword false positive: 'landlord' is a platform-economy metaphor in a cultural-anthropology piece about caste/gender/creator-economy labor in India; no actual land-rent content."
     }
   ],
   "last_updated": "2026-08-25T11:04:03.800308+00:00",
