@@ -33,6 +33,8 @@ The colonies are living, century-long demonstrations that community land ownersh
 - [Land and the Black–white Wealth Gap](/wiki/land-and-the-black-white-wealth-gap/) — carries Fairhope's whites-only history as an honest, documented in-movement failure
 - [Community Land Trust](/wiki/community-land-trust/) — the modern nonprofit analogue to the colonies' land-holding model
 - [Letchworth Garden City](/wiki/letchworth/) — a contemporaneous English land-value-capture town, built on Ebenezer Howard's related but distinct model
+- [Genovese: The Earth for All](/wiki/genovese-earth-for-all/) — a 2025 book situating Fairhope and Arden within the broader utopian-communities tradition, asking what made any such community durable
+- [Condon: Broken City](/wiki/condon-broken-city/) — a contemporary Georgist housing-crisis book, unrelated to the colonies but part of the wiki's Georgist books shelf
 
 ## Sources
 

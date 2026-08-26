@@ -48,6 +48,8 @@ This study bears on the wiki as a **conditional challenge** to [Capturing resour
 - [Natural Resource Rents, Local Taxes, and Government Performance: Colombia (Martinez)](/wiki/martinez-colombia-resource-rents/) — the sub-national analogue
 - [Acemoglu, Johnson & Robinson: Botswana](/wiki/acemoglu-johnson-robinson-botswana/) — a second institutional escape from the curse
 - [Resource Rents](/wiki/resource-rents/) — the underlying concept
+- [Namo et al.: Nasarawa State Solid Minerals](/wiki/namo-nasarawa-solid-minerals-rentier-state/) — a subnational rentier-state case within a federal system, distinct from the national-level curse this paper documents
+- [Medrano-Sanchez & Mamani-Salinas: Peru's Mining Canon](/wiki/medrano-mamani-peru-mining-canon/) — a quantified case where rent redistribution's *design* determines whether capture actually reduces poverty
 
 ## Sources
 

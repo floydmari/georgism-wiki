@@ -27,6 +27,8 @@ Municipalities receiving large resource-rent transfers exhibit **lower tax effor
 - **Concept:** [Resource Rents](/wiki/resource-rents/)
 - **Outcome:** [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/) — the contrapositive: rents captured without institutional discipline weaken governance, showing the institutional channel is decisive.
 - **Outcome:** [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
+- **Research:** [Medrano-Sanchez & Mamani-Salinas: Peru's Mining Canon](/wiki/medrano-mamani-peru-mining-canon/) — a contrasting Latin American subnational case where rent IS transferred by formula, yet still fails to reach need due to territorial-equity design flaws
+- **Research:** [Namo et al.: Nasarawa State Solid Minerals](/wiki/namo-nasarawa-solid-minerals-rentier-state/) — a Nigerian case with the opposite structural problem: no local rent capture at all
 
 ## Sources
 

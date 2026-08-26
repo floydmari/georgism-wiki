@@ -38,7 +38,12 @@ To the extent a firm's returns come from *occupying* such a position rather than
 outcompeting rivals on price and quality, they resemble economic rent: income from an
 exclusive, hard-to-reproduce position rather than from the marginal product of what the
 firm adds. That is the digital-economy analogue of land rent, and why the question sits
-in this file.
+in this file. Ünsal Özdilek — the same economist behind the wiki's [Shapley-value
+land/building separation method](/wiki/mass-appraisal-methods/) — makes this analogy
+explicit in a 2026 paper tracing "digital rent" back to classical natural-advantage and
+locational-rent theory, arguing platform operators capture unearned surpluses from user
+data and attention in a way structurally continuous with, rather than categorically
+different from, land rent.[3]
 
 ## Why It's the Steepest Part of the Gradient
 
@@ -144,3 +149,9 @@ land's defining fixed-supply scarcity.
    [Korinek & Ng](/wiki/korinek-ng-digital-superstars/) (digital superstars), and
    [Crouzet & Eberly](/wiki/crouzet-eberly-intangibles/) (the intangibles counter) —
    used, respectively, for the rent reading and its efficiency rebuttal.
+3. Ünsal Özdilek (2026), "Digital rent: From natural advantages to data-driven surpluses
+   in the platform economy," *Journal of Digital Economy* 5: 257–270. [doi.org/10.1016/j.jdec.2026.06.005](https://doi.org/10.1016/j.jdec.2026.06.005) —
+   fetch blocked (Elsevier/ScienceDirect) to this session 2026-08-26; summary drawn from
+   search-indexed secondary characterization, not the paper's own text. Used only for the
+   natural-advantage/locational-rent framing of digital rent (C-claim; not independently
+   verified, no verbatim quotation offered).

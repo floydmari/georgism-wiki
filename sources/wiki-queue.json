@@ -1,88 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://doi.org/10.1145/3839228",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. rentier capitalism in software engineering education",
-      "context": "Software & Its Workers: Teaching Software Engineering to Students for the Rentier Economy — Molly Q Feldman, Amanda Zadorian. ACM Transactions on Computing Education, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252453+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.51583/ijltemas.2026.150600171",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. rentier state theory, solid minerals governance",
-      "context": "Political Economy of Solid Minerals Governance in Nasarawa State, Nigeria: A Rentier State Analysis (1999 - 2020) — Innocent Benjamin Namo et al.. Int'l Journal of Latest Technology in Engineering Management & Applied Science, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252463+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.3389/fpos.2026.1863029",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. mining canon and royalty transfers, SDG progress in Peru",
-      "context": "Extractive fiscal governance and subnational SDG progress: a systemic analysis of mining canon redistribution in Peru, 2012-2024 — Emilio J. Medrano-Sanchez, Alfredo Mamani-Salinas. Frontiers in Political Science, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252465+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.25064/mulkiye.1724378",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. Georgism's influence on Sun Yat-sen and Taiwan (Turkish)",
-      "context": "Georgizmin Sun Yat-sen ve Tayvan Üzerindeki Etkisi — Musa Kızıltepe. Mülkiye Dergisi, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252466+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1016/j.jdec.2026.06.005",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. economic rent in digital platforms, Rent I/II/III typology",
-      "context": "Digital rent: From natural advantages to data-driven surpluses in the platform economy — Ünsal Özdilek. Journal of Digital Economy, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252467+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.56949/1xka3791",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. review of Broken City, land value speculation, Henry George",
-      "context": "Review of Patrick M. Condon 2024: Broken City: Land speculation, Inequality, and Urban Crisis — Susan S. Fainstein. International Journal of Urban and Regional Research, 2025.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252468+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1111/1468-2427.70024",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. Henry George, land value capture, China's land finance",
-      "context": "CHINA'S LAND FINANCE AS ACTIVE MODE OF LAND DEVELOPMENT AND INFRASTRUCTURE DELIVERY — Nannan Xu. International Journal of Urban and Regional Research, 2025.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252469+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.9707/0739-1250.1006",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. review of book on Henry George, utopian communities",
-      "context": "Review of The Earth for All: Henry George, Utopian Communities, and Market Socialism — Neil Wright. Communal Societies, 2025.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252474+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1007/s00168-024-01353-3",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic paper. LVT implementation in Bizkaia, Spain, ecological tax reform",
-      "context": "Paving the way towards predistribution: a study on the introduction of a land value tax — Jesús Olea, David Hoyos, Javier García Enríquez. The Annals of Regional Science, 2025.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-26T11:03:40.252476+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2709,6 +2627,105 @@
       "reported": false,
       "disposition": "rejected",
       "disposition_reason": "Confirmed keyword false positive: 'landlord' is a platform-economy metaphor in a cultural-anthropology piece about caste/gender/creator-economy labor in India; no actual land-rent content."
+    },
+    {
+      "url": "https://doi.org/10.1145/3839228",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. rentier capitalism in software engineering education",
+      "context": "Software & Its Workers: Teaching Software Engineering to Students for the Rentier Economy — Molly Q Feldman, Amanda Zadorian. ACM Transactions on Computing Education, 2026.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252453+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "CS-education pedagogy paper, not primary research on rent/land value; the wiki's existing technofeudalism/data-rents pages cover the underlying concepts more directly."
+    },
+    {
+      "url": "https://doi.org/10.51583/ijltemas.2026.150600171",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. rentier state theory, solid minerals governance",
+      "context": "Political Economy of Solid Minerals Governance in Nasarawa State, Nigeria: A Rentier State Analysis (1999 - 2020) — Innocent Benjamin Namo et al.. Int'l Journal of Latest Technology in Engineering Management & Applied Science, 2026.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252463+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/namo-nasarawa-solid-minerals-rentier-state.md — a subnational rentier-state case (federal licensing + oil-transfer dependence) distinct from existing Colombia/Botswana cases."
+    },
+    {
+      "url": "https://doi.org/10.3389/fpos.2026.1863029",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. mining canon and royalty transfers, SDG progress in Peru",
+      "context": "Extractive fiscal governance and subnational SDG progress: a systemic analysis of mining canon redistribution in Peru, 2012-2024 — Emilio J. Medrano-Sanchez, Alfredo Mamani-Salinas. Frontiers in Political Science, 2026.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252465+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/medrano-mamani-peru-mining-canon.md — 13-year panel study complicating the resource-rent-capture-works claim: capture without territorial-equity design still under-delivers."
+    },
+    {
+      "url": "https://doi.org/10.25064/mulkiye.1724378",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. Georgism's influence on Sun Yat-sen and Taiwan (Turkish)",
+      "context": "Georgizmin Sun Yat-sen ve Tayvan Üzerindeki Etkisi — Musa Kızıltepe. Mülkiye Dergisi, 2026.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252466+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added as a supplementary citation to people/sun-yat-sen.md — a distinct paper by the same author already cited on georgism.md, but its case-study content is already well-covered with primary sourcing, so no new page warranted."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jdec.2026.06.005",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. economic rent in digital platforms, Rent I/II/III typology",
+      "context": "Digital rent: From natural advantages to data-driven surpluses in the platform economy — Ünsal Özdilek. Journal of Digital Economy, 2026.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252467+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Added minimal citation to concepts/data-rents.md — full text paywall-blocked, low confidence, existing digital-rents cluster already covers the ground."
+    },
+    {
+      "url": "https://doi.org/10.56949/1xka3791",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. review of Broken City, land value speculation, Henry George",
+      "context": "Review of Patrick M. Condon 2024: Broken City: Land speculation, Inequality, and Urban Crisis — Susan S. Fainstein. International Journal of Urban and Regional Research, 2025.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252468+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page books/condon-broken-city.md — first wiki page for this explicitly Georgist housing-crisis book, using Fainstein's IJURR review (fetched and read directly, with verbatim quotes) for argument and balanced reception."
+    },
+    {
+      "url": "https://doi.org/10.1111/1468-2427.70024",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. Henry George, land value capture, China's land finance",
+      "context": "CHINA'S LAND FINANCE AS ACTIVE MODE OF LAND DEVELOPMENT AND INFRASTRUCTURE DELIVERY — Nannan Xu. International Journal of Urban and Regional Research, 2025.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252469+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/xu-china-land-finance-active-mode.md — explicitly Georgist 'active mode' land-value-capture framing of China's land finance system, distinct from existing HCRS/macro-financial China pages."
+    },
+    {
+      "url": "https://doi.org/10.9707/0739-1250.1006",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. review of book on Henry George, utopian communities",
+      "context": "Review of The Earth for All: Henry George, Utopian Communities, and Market Socialism — Neil Wright. Communal Societies, 2025.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252474+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page books/genovese-earth-for-all.md — first wiki page for this book on Georgist utopian communities; built from publisher TOC/description since the review itself was Cloudflare-blocked."
+    },
+    {
+      "url": "https://doi.org/10.1007/s00168-024-01353-3",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic paper. LVT implementation in Bizkaia, Spain, ecological tax reform",
+      "context": "Paving the way towards predistribution: a study on the introduction of a land value tax — Jesús Olea, David Hoyos, Javier García Enríquez. The Annals of Regional Science, 2025.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-26T11:03:40.252476+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/olea-hoyos-bizkaia-land-value-tax.md — first Spain/Basque LVT coverage: a rigorous hedonic simulation finding 1.05% suffices to displace real-estate tax plus lower-income-tax burden."
     }
   ],
   "last_updated": "2026-08-26T11:03:40.252476+00:00",

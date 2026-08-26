@@ -29,6 +29,7 @@ The Foundation's practical importance to recent Canadian rent-capture research i
 - [Common Wealth Canada](/wiki/common-wealth-canada/) · [Natural Common Wealth and Economic Rent in Canada](/wiki/natural-common-wealth-economic-rent-canada/)
 - [Economic Rent](/wiki/economic-rent/) · [Resource Rents](/wiki/resource-rents/)
 - [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/) · [International Union for Land Value Taxation](/wiki/international-union-lvt/)
+- [Condon: Broken City](/wiki/condon-broken-city/) — the book this organization published an earlier (Nov 2024) review of, ahead of the academic IJURR review this wiki page draws on
 
 ## Sources
 

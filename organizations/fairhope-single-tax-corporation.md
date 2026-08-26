@@ -46,6 +46,7 @@ For the broader Georgist case, Fairhope stands alongside other long-running land
 - [The Single-Tax Colonies (Fairhope & Arden)](/wiki/single-tax-colonies/) — the broader founding episode
 - [Single Tax](/wiki/single-tax/) — the underlying idea the Corporation was founded to demonstrate
 - [Henry George](/wiki/henry-george/) — the thinker whose ideas inspired the colony
+- [Genovese: The Earth for All](/wiki/genovese-earth-for-all/) — a 2025 book naming Arden and the Georgist Utopias tradition Fairhope belongs to
 - [Community Land Trust](/wiki/community-land-trust/) — the modern nonprofit analogue to the Corporation's land-holding model
 - [Public Land Leasing](/wiki/public-land-leasing/) — the broader family of state-leasehold land-value-capture systems
 

@@ -149,6 +149,7 @@ theory.
 - [Single Tax](/wiki/single-tax/) · [ATCOR](/wiki/atcor/)
 - [Land rent could fund government](/wiki/land-rent-could-fund-government/) — the evidence page
 - [Foldvary: Geo-Rent, A Plea to Public Economists](/wiki/foldvary-geo-rent-plea-public-economists/) — a more optimistic ~50%-of-revenue synthesis estimate, worth reading alongside this page's more conservative figures
+- [Olea, Hoyos & García Enríquez: Bizkaia Land Value Tax](/wiki/olea-hoyos-bizkaia-land-value-tax/) — a rigorous, jurisdiction-specific worked simulation (1.05% suffices) rather than a national estimate
 - [Land is a Big Deal (book)](/wiki/land-is-a-big-deal/) · [Blaug, Economic Theory in Retrospect (book)](/wiki/economic-theory-in-retrospect/)
 
 ## Sources

@@ -106,6 +106,7 @@ Rather than improving land/building separation techniques, some designs try to a
 - [Research: Dye & England, Assessing the Theory and Practice of Land Value Taxation](/wiki/dye-england-assessing-lvt/)
 - [Research: Doucet, Does Georgism Work?](/wiki/doucet-does-georgism-work/)
 - [Center for Land Economics](/wiki/center-for-land-economics/)
+- [Olea, Hoyos & García Enríquez: Bizkaia Land Value Tax](/wiki/olea-hoyos-bizkaia-land-value-tax/) — a hedonic spatial model applying this page's methodology to simulate a specific LVT rate for a real jurisdiction
 
 ## Sources
 
