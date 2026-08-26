@@ -3899,6 +3899,41 @@ minimal given the abstract-only, foreign-language sourcing) round out the batch.
 Lint 0 errors, 0 orphans, 948 pages. Queue ledger: 0 pending, 225 consumed. All 14 touched
 pages Ghost-synced; spot-checked `li-dazhao` live (200).
 
+## 2026-08-26 — merged a separate quote-audit loop's work; 10th mirror-dup; the two new book pages
+
+A quiet wakeup landed mid-conversation with an unexpected commit already on main from a
+different session ("daily loop: quote audit, marker burndown 32→29, Crossref reference-list
+channel," authored by Floyd's own machine, co-authored by a separate Claude Opus 5 session).
+Confirmed it was legitimate collaborative editing — not a conflict — and merged cleanly; it
+had independently touched several pages this loop created the previous day (Fudge, Chu,
+Julio Senador Gómez, Li Dazhao, the Foldvary/Norris-Espinosa/Do-Iyer/Commander-Estrin pages),
+tightening claim grades and closing `[VERIFY]` markers. Worth noting for the record: this
+repo now has at least two independent editorial loops operating on it concurrently
+(this wiki-queue loop and Floyd's own quote-audit loop), and merges between them have so far
+been clean.
+
+Mirror-dups resurfaced for the 10th time (commit dropping 11 items, clean fast-forward). The
+surviving 9-item batch went through the full T0 pipeline (`sources/context-briefs/2026-08-26.json`)
+and was unusually rich: **6 new pages** survived T1 verification (several sources re-fetched
+directly rather than trusted from the brief) — a Nigerian subnational rentier-state case
+(Nasarawa), a rigorously quantified Peruvian mining-canon study finding capture-without-
+territorial-equity still under-delivers on poverty reduction, a paper framing China's land
+finance as a rare "active mode" Georgist value-capture case (explicit, by name), first-ever
+Spain/Basque LVT coverage (a hedonic simulation finding 1.05% suffices), and — new territory
+for the wiki's shelf — **two book pages** built from reviews rather than the books
+themselves: Condon's *Broken City* (Fainstein's IJURR review fetched and read directly, full
+verbatim quotes) and Genovese's *The Earth for All* (built from the publisher's own TOC and
+description since the one existing review was Cloudflare-blocked throughout — a case where
+grading the citation honestly meant explicitly *not* using material T0's brief had described
+but couldn't actually retrieve). One reject (a CS-education pedagogy paper borrowing
+"rentier capitalism" as a classroom framing device, no primary rent research) and two
+deliberately light-touch enrichments (a Turkish case-study paper substantially restating
+existing, better-sourced Sun Yat-sen/Taiwan coverage; a paywall-blocked digital-rent paper
+added at C-claim) rounded out the batch.
+
+Lint 0 errors, 0 orphans, 954 pages. Queue ledger: 0 pending, 234 consumed. All 17 touched
+pages Ghost-synced; spot-checked `condon-broken-city` live (200).
+
 ---
 
 ## 2026-08-25 (verification wave) — three bad quotes, a corrected statute reading, and a new channel around the paywalls
