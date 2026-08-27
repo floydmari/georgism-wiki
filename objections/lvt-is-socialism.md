@@ -139,6 +139,7 @@ more than a fact in dispute.
 - [Economic Rent](/wiki/economic-rent/) · [Rent-Seeking](/wiki/rent-seeking/) — the specific, bounded category of income Georgists propose to tax, as distinct from labor or capital income
 - [Geolibertarianism](/wiki/geolibertarianism/) — the libertarian tradition that embraces land value taxation as the one legitimate tax, the clearest counter to the socialism charge
 - [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/) — the roll-call of mainstream and free-market economists (Friedman, Vickrey, Stiglitz) endorsing LVT
+- [Forrester: Property Rights and Natural Resources](/wiki/forrester-property-rights-natural-resources/) — a philosophical rebuttal turning Nozick's own "taxation as forced labor" argument against private natural-resource ownership itself
 - [Single Tax](/wiki/single-tax/) · [Adam Smith](/wiki/adam-smith/)
 
 ## Sources

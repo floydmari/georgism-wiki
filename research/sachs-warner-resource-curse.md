@@ -50,6 +50,7 @@ This study bears on the wiki as a **conditional challenge** to [Capturing resour
 - [Resource Rents](/wiki/resource-rents/) — the underlying concept
 - [Namo et al.: Nasarawa State Solid Minerals](/wiki/namo-nasarawa-solid-minerals-rentier-state/) — a subnational rentier-state case within a federal system, distinct from the national-level curse this paper documents
 - [Medrano-Sanchez & Mamani-Salinas: Peru's Mining Canon](/wiki/medrano-mamani-peru-mining-canon/) — a quantified case where rent redistribution's *design* determines whether capture actually reduces poverty
+- [Gala & Gabriel: Latin America's Natural Resources Trap](/wiki/gala-gabriel-latin-america-resource-trap/) — a regional comparative account of why the same commodity windfall produced divergent outcomes in Latin America versus East Asia
 
 ## Sources
 

@@ -1,115 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://blog.landeconomics.org/p/property-tax-reform-takes-center",
-      "source": "internet-scan",
-      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
-      "context": "Property tax reform takes center stage — Landscape 10",
-      "author": "research-scanner",
-      "queued_at": "2026-08-27T10:01:29.436848+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.56201/ijgem.vol.12.no5.2026.pg336.349",
-      "source": "lvt-paper-scanner",
-      "reason": "Housing policy paper analyzing rent control and subsidy failures in a developing economy context — relevant to Georgist housing/rent policy discussions.",
-      "context": "Housing Subsidies and Rent Control in Nigeria — Walson Ngo Jack. IIARD Int. J. Geography and Environmental Management, 2026-08-24. Examines Nigeria's housing crisis, analyzing the failure of subsidies and rent control measures, with policy recommendations.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1016/j.jebo.2026.107724",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper on how housing supply constraints amplify rent increases — directly relevant to land use regulation and rent economics.",
-      "context": "Annual overseas migration and housing markets: Evidence from Australian neighborhoods — Marcel Peruffo, Madeleine Check. Journal of Economic Behavior & Organization, 2026-08-19. Finds migration raises rents and prices, amplified by housing supply constraints (low dwelling approvals).",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.66393/j7q8n338",
-      "source": "lvt-paper-scanner",
-      "reason": "Directly evaluates property/real estate tax policy impacts on housing affordability — core Georgist policy territory.",
-      "context": "Reconstruction of Local Tax System and Improvement of Urban Housing Affordability: Evaluation Based on the Synthetic Control Method of Real Estate Tax Pilot — Yuan Liu. Journal of Applied Economics and Social Dynamics, 2026-08-19. Evaluates Shanghai/Chongqing property tax pilots (2011-) using synthetic control method; finds improved housing affordability.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.66393/meye8c66",
-      "source": "lvt-paper-scanner",
-      "reason": "Theoretical framework on land use regulation and housing affordability — central to Georgist land policy analysis.",
-      "context": "Urban Land Use Regulation and Housing Affordability: Theoretical Frameworks and Research Advances — Yihan Yang. Journal of Applied Economics and Social Dynamics, 2026-08-19. Comprehensive theoretical framework linking urban land regulation to housing affordability, integrating Glaeser-Gyourko foundations with China's land management system.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1080/20780389.2026.2713694",
-      "source": "lvt-paper-scanner",
-      "reason": "Resource rent and rentier capitalism analysis — directly relevant to economic rent themes in the wiki.",
-      "context": "Natural resources trap and regressive specialisation: Global integration and the destruction of productive capabilities in Latin America — Paulo Gala, João Paulo Nicolini Gabriel. Economic History of Developing Regions, 2026-08-18. Develops 'natural resources trap' concept — commodity booms reinforce rentier coalitions, Dutch disease, and deindustrialization in Latin America.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1057/s41599-026-08643-5",
-      "source": "lvt-paper-scanner",
-      "reason": "Land marketization and fiscal policy in China — relevant to land reform and land value taxation discussions.",
-      "context": "Land marketization, fiscal decentralization and carbon emissions — Wenfang Pu, Lanjiao Wen, Anlu Zhang. Humanities and Social Sciences Communications, 2026-08-13. Investigates whether China's land marketization reforms reduce carbon emissions in the context of fiscal decentralization.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1016/j.cities.2026.107352",
-      "source": "lvt-paper-scanner",
-      "reason": "Novel land value capture mechanism — ecosystem service value capture is directly related to Georgist value capture concepts.",
-      "context": "Urban green credits: Capturing ecosystem service value in housing markets for redistributive urban planning — Emília Malcata Rebelo, Letícia de Paula. Cities, 2026-07-15. Introduces Urban Green Credits framework linking ecological performance to fiscal instruments; value capture from ecosystem services in housing markets.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1111/roiw.70086",
-      "source": "lvt-paper-scanner",
-      "reason": "Capital income taxation and returns to capital — relevant to economic rent and tax policy discussions on the wiki.",
-      "context": "Tackling the Regressivity at the Top of the Italian Tax System: An Optimal Taxation Framework With Heterogeneous Returns to Capital — Matteo Dalle Luche, Demetrio Guzzardi, Elisa Palagi, Andrea Roventini et al.. Review of Income and Wealth, 2026-07-08. Shows capital income is more concentrated than previously estimated; top wealth earners get lower tax rates due to preferential capital income treatment.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1016/j.cities.2026.107329",
-      "source": "lvt-paper-scanner",
-      "reason": "Directly about Land Value Capture (LVC) in practice — a core Georgist policy tool. High-priority wiki source.",
-      "context": "A return ticket for transport investment: How Land Value Capture supported London's Crossrail — M L Smith, Dominic Brown, Richard J. Dunning, Alex Lord. Cities, 2026-07-07. Case study of Land Value Capture mechanisms used to fund London's Crossrail/Elizabeth Line — practical LVC implementation analysis.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1016/j.scs.2026.107595",
-      "source": "lvt-paper-scanner",
-      "reason": "Explicitly uses Georgist terminology ('unearned increment') and proposes technical methods for land value capture. Highly relevant.",
-      "context": "A causal GeoAI framework for capturing the unearned increment to self-finance public infrastructure — Okan Yılmaz, Mehmet Alkan, Alihan Teke. Sustainable Cities and Society, 2026-06-11. Uses GeoAI/causal inference to identify and capture the 'unearned increment' (George's term) in land value to self-finance infrastructure.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://doi.org/10.1007/s10982-026-09566-7",
-      "source": "lvt-paper-scanner",
-      "reason": "Philosophical paper on natural resource property rights, directly engaging with the Lockean proviso and land value — relevant to Georgist theoretical foundations.",
-      "context": "Property Rights and Natural Resources — Paul Forrester. Law and Philosophy, 2026-05-20. Philosophy paper correcting Locke's conflation of natural resource value vs. labor-added value; argues land/natural resources have been neglected by distributive justice theorists.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-27T11:03:17.192003+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -2835,6 +2726,138 @@
       "reported": false,
       "disposition": "published",
       "disposition_reason": "New page research/olea-hoyos-bizkaia-land-value-tax.md — first Spain/Basque LVT coverage: a rigorous hedonic simulation finding 1.05% suffices to displace real-estate tax plus lower-income-tax burden."
+    },
+    {
+      "url": "https://blog.landeconomics.org/p/property-tax-reform-takes-center",
+      "source": "internet-scan",
+      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+      "context": "Property tax reform takes center stage — Landscape 10",
+      "author": "research-scanner",
+      "queued_at": "2026-08-27T10:01:29.436848+00:00",
+      "reported": false,
+      "disposition": "enriched",
+      "disposition_reason": "Routed facts to 3 existing pages: places/pittsburgh.md (2026 Allegheny County court-ordered reassessment), events/2026-state-lvt-enablement-wave.md (Louisville Metro Ordinance 8062725 follow-through), concepts/split-rate-taxation.md (Baltimore vacant-property reassessment results, $159M added value)."
+    },
+    {
+      "url": "https://doi.org/10.56201/ijgem.vol.12.no5.2026.pg336.349",
+      "source": "lvt-paper-scanner",
+      "reason": "Housing policy paper analyzing rent control and subsidy failures in a developing economy context — relevant to Georgist housing/rent policy discussions.",
+      "context": "Housing Subsidies and Rent Control in Nigeria — Walson Ngo Jack. IIARD Int. J. Geography and Environmental Management, 2026-08-24. Examines Nigeria's housing crisis, analyzing the failure of subsidies and rent control measures, with policy recommendations.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "Nigeria housing-subsidy/rent-control policy paper with no land-value, economic-rent, or LVC content."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jebo.2026.107724",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on how housing supply constraints amplify rent increases — directly relevant to land use regulation and rent economics.",
+      "context": "Annual overseas migration and housing markets: Evidence from Australian neighborhoods — Marcel Peruffo, Madeleine Check. Journal of Economic Behavior & Organization, 2026-08-19. Finds migration raises rents and prices, amplified by housing supply constraints (low dwelling approvals).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/peruffo-check-australia-migration-housing.md — shift-share IV study, migration-driven rent effects concentrated in supply-constrained neighborhoods."
+    },
+    {
+      "url": "https://doi.org/10.66393/j7q8n338",
+      "source": "lvt-paper-scanner",
+      "reason": "Directly evaluates property/real estate tax policy impacts on housing affordability — core Georgist policy territory.",
+      "context": "Reconstruction of Local Tax System and Improvement of Urban Housing Affordability: Evaluation Based on the Synthetic Control Method of Real Estate Tax Pilot — Yuan Liu. Journal of Applied Economics and Social Dynamics, 2026-08-19. Evaluates Shanghai/Chongqing property tax pilots (2011-) using synthetic control method; finds improved housing affordability.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/liu-shanghai-chongqing-property-tax-pilots.md — synthetic-control evaluation of China's only recurrent property tax pilots, distinct from existing land-finance coverage."
+    },
+    {
+      "url": "https://doi.org/10.66393/meye8c66",
+      "source": "lvt-paper-scanner",
+      "reason": "Theoretical framework on land use regulation and housing affordability — central to Georgist land policy analysis.",
+      "context": "Urban Land Use Regulation and Housing Affordability: Theoretical Frameworks and Research Advances — Yihan Yang. Journal of Applied Economics and Social Dynamics, 2026-08-19. Comprehensive theoretical framework linking urban land regulation to housing affordability, integrating Glaeser-Gyourko foundations with China's land management system.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "Pure literature-review/theoretical-synthesis paper restating Glaeser-Gyourko, already the wiki's key citation on this exact question; no new empirical contribution."
+    },
+    {
+      "url": "https://doi.org/10.1080/20780389.2026.2713694",
+      "source": "lvt-paper-scanner",
+      "reason": "Resource rent and rentier capitalism analysis — directly relevant to economic rent themes in the wiki.",
+      "context": "Natural resources trap and regressive specialisation: Global integration and the destruction of productive capabilities in Latin America — Paulo Gala, João Paulo Nicolini Gabriel. Economic History of Developing Regions, 2026-08-18. Develops 'natural resources trap' concept — commodity booms reinforce rentier coalitions, Dutch disease, and deindustrialization in Latin America.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/gala-gabriel-latin-america-resource-trap.md — structuralist account of Latin America/East Asia divergence during the commodity supercycle."
+    },
+    {
+      "url": "https://doi.org/10.1057/s41599-026-08643-5",
+      "source": "lvt-paper-scanner",
+      "reason": "Land marketization and fiscal policy in China — relevant to land reform and land value taxation discussions.",
+      "context": "Land marketization, fiscal decentralization and carbon emissions — Wenfang Pu, Lanjiao Wen, Anlu Zhang. Humanities and Social Sciences Communications, 2026-08-13. Investigates whether China's land marketization reforms reduce carbon emissions in the context of fiscal decentralization.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "No abstract or content accessible beyond title/authors/venue after multiple fetch attempts (Nature/Springer auth-walled); deferred rather than publishing speculative content."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cities.2026.107352",
+      "source": "lvt-paper-scanner",
+      "reason": "Novel land value capture mechanism — ecosystem service value capture is directly related to Georgist value capture concepts.",
+      "context": "Urban green credits: Capturing ecosystem service value in housing markets for redistributive urban planning — Emília Malcata Rebelo, Letícia de Paula. Cities, 2026-07-15. Introduces Urban Green Credits framework linking ecological performance to fiscal instruments; value capture from ecosystem services in housing markets.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "No abstract or content accessible beyond title/authors/venue after multiple fetch attempts (Elsevier-blocked, no Crossref/Semantic Scholar abstract); deferred rather than publishing speculative content."
+    },
+    {
+      "url": "https://doi.org/10.1111/roiw.70086",
+      "source": "lvt-paper-scanner",
+      "reason": "Capital income taxation and returns to capital — relevant to economic rent and tax policy discussions on the wiki.",
+      "context": "Tackling the Regressivity at the Top of the Italian Tax System: An Optimal Taxation Framework With Heterogeneous Returns to Capital — Matteo Dalle Luche, Demetrio Guzzardi, Elisa Palagi, Andrea Roventini et al.. Review of Income and Wealth, 2026-07-08. Shows capital income is more concentrated than previously estimated; top wealth earners get lower tax rates due to preferential capital income treatment.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "rejected",
+      "disposition_reason": "Italian capital-income-tax-regressivity paper with no land-value content; too generic a link to the wiki's wealth-tax-vs-LVT comparison to force Georgist relevance."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cities.2026.107329",
+      "source": "lvt-paper-scanner",
+      "reason": "Directly about Land Value Capture (LVC) in practice — a core Georgist policy tool. High-priority wiki source.",
+      "context": "A return ticket for transport investment: How Land Value Capture supported London's Crossrail — M L Smith, Dominic Brown, Richard J. Dunning, Alex Lord. Cities, 2026-07-07. Case study of Land Value Capture mechanisms used to fund London's Crossrail/Elizabeth Line — practical LVC implementation analysis.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/smith-brown-dunning-lord-crossrail-lvc.md — independent academic evaluation of Crossrail's MCIL financing, deepening existing London/CIB coverage; flagged an unresolved figure discrepancy with existing wiki data."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.scs.2026.107595",
+      "source": "lvt-paper-scanner",
+      "reason": "Explicitly uses Georgist terminology ('unearned increment') and proposes technical methods for land value capture. Highly relevant.",
+      "context": "A causal GeoAI framework for capturing the unearned increment to self-finance public infrastructure — Okan Yılmaz, Mehmet Alkan, Alihan Teke. Sustainable Cities and Society, 2026-06-11. Uses GeoAI/causal inference to identify and capture the 'unearned increment' (George's term) in land value to self-finance infrastructure.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/yilmaz-alkan-teke-geoai-unearned-increment.md — causal GeoAI framework addressing the 'sequencing paradox' in self-financing infrastructure design."
+    },
+    {
+      "url": "https://doi.org/10.1007/s10982-026-09566-7",
+      "source": "lvt-paper-scanner",
+      "reason": "Philosophical paper on natural resource property rights, directly engaging with the Lockean proviso and land value — relevant to Georgist theoretical foundations.",
+      "context": "Property Rights and Natural Resources — Paul Forrester. Law and Philosophy, 2026-05-20. Philosophy paper correcting Locke's conflation of natural resource value vs. labor-added value; argues land/natural resources have been neglected by distributive justice theorists.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-08-27T11:03:17.192003+00:00",
+      "reported": false,
+      "disposition": "published",
+      "disposition_reason": "New page research/forrester-property-rights-natural-resources.md — rigorous Georgist philosophy paper turning Nozick's forced-labor objection against private natural-resource ownership; fills a gap in existing Locke coverage."
     }
   ],
   "last_updated": "2026-08-27T11:03:17.192003+00:00",

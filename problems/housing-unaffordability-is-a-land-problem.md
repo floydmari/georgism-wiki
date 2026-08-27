@@ -72,6 +72,7 @@ If unaffordability were a construction-cost problem, the remedies would be indus
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/) — the same decomposition at the income/wealth level
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/) — the macro cost of the same scarcity
 - [Stewart (2022), How Important Are Land Values in House Price Growth? Evidence from Canadian Cities](/wiki/stewart-canadian-land-house-prices/) — a directly-measured Canadian decomposition whose city-by-city heterogeneity sharpens the claim's scope
+- [Peruffo & Check: Overseas Migration and Australian Housing Markets](/wiki/peruffo-check-australia-migration-housing/) — a well-identified demand-shock case showing migration raises rents most where supply is most constrained
 - [Saiz (2010), The Geographic Determinants of Housing Supply](/wiki/saiz-housing-supply-elasticity/) · [Barker Review](/wiki/barker-review-housing-supply/) · [Ryan-Collins, Lloyd & Macfarlane, Rethinking the Economics of Land and Housing](/wiki/ryan-collins-rethinking-land-housing/)
 - [Economic Rent](/wiki/economic-rent/) · [Land Value Tax](/wiki/land-value-tax/)
 

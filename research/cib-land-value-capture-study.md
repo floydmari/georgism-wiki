@@ -64,6 +64,7 @@ Transit-driven land value capture sits on the clean end of the rent gradient: th
 - [Public investment capitalizes into land values](/wiki/public-investment-capitalizes-into-land/)
 - [Dachis, "Buyers Beware: Cost Barriers to Building Housing"](/wiki/dachis-buyers-beware-housing-barriers/)
 - [Land Value Tax](/wiki/land-value-tax/)
+- [Smith, Brown, Dunning & Lord: How Land Value Capture Supported Crossrail](/wiki/smith-brown-dunning-lord-crossrail-lvc/) — an independent academic evaluation of Crossrail's MCIL revenue, whose figure does not straightforwardly reconcile with this report's £300m CIL figure
 
 ## Sources
 

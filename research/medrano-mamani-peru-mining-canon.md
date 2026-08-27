@@ -105,6 +105,7 @@ failure means the policy still under-delivers on its own poverty-reduction goal.
 - [Resource Rent Dividends Work](/wiki/resource-rent-dividends-work/)
 - [Martinez: Colombia's Local Resource Rents](/wiki/martinez-colombia-resource-rents/)
 - [Sachs & Warner: The Curse of Natural Resources](/wiki/sachs-warner-resource-curse/)
+- [Gala & Gabriel: Latin America's Natural Resources Trap](/wiki/gala-gabriel-latin-america-resource-trap/) — a complementary regional account: reinvestment-design (not just redistribution-design) determines whether resource rents build lasting productive capacity
 
 ## Sources
 

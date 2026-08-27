@@ -35,6 +35,7 @@ The demographic thesis correctly identifies that population age structure affect
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the land-speculation-driven cycle model Harrison offers as the better explanation
 - [Land Speculation Causes Cycles](/wiki/land-speculation-causes-cycles/) — the Georgist alternative explanation this objection page contests
 - [Saiz Housing Supply Elasticity](/wiki/saiz-housing-supply-elasticity/) — supply-side research relevant to how demand shocks (demographic or speculative) translate into price changes
+- [Peruffo & Check: Overseas Migration and Australian Housing Markets](/wiki/peruffo-check-australia-migration-housing/) — a distinct demographic mechanism (international migration, not domestic cohort effects), also mediated by supply constraint
 - [Glaeser & Gyourko, Housing Supply](/wiki/glaeser-gyourko-housing-supply/) — mainstream housing-economics literature bearing on this debate
 
 ## Sources

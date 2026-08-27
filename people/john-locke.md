@@ -47,6 +47,7 @@ See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
 - [ATCOR](/wiki/atcor/) — the fiscal descendant of Locke's 1691 observation
 - [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/) — Locke's property theory in colonial context
+- [Forrester: Property Rights and Natural Resources](/wiki/forrester-property-rights-natural-resources/) — a 2026 philosophy paper diagnosing Locke's value/labor conflation and turning Nozick's forced-labor objection against private natural-resource ownership
 
 ## Sources
 

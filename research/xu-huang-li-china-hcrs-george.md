@@ -46,6 +46,7 @@ The publisher-deposited reference list (Crossref, retrieved 2026-08-25) runs to 
 - [Xu: China's Land Finance as Active Mode of Land Development](/wiki/xu-china-land-finance-active-mode/) — a different Xu, on urban land finance rather than rural tenure, framed explicitly in Georgist terms
 - [Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash in 2015?](/wiki/gaffney-real-assets-model-china/) — the wiki's other China research page, addressing the property-cycle/banking mechanism rather than land tenure design
 - [Land Value Tax](/wiki/land-value-tax/) · [Henry George](/wiki/henry-george/)
+- [Liu: Shanghai and Chongqing's Real Estate Tax Pilots](/wiki/liu-shanghai-chongqing-property-tax-pilots/) — a distinct, recurrent-property-tax pilot rather than the land-tenure system this page addresses
 
 ## Sources
 

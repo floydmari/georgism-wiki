@@ -1,0 +1,134 @@
+[
+  {
+    "url": "https://blog.landeconomics.org/p/property-tax-reform-takes-center",
+    "title": "Property Tax Reform Takes Center Stage — Landscape 10",
+    "existing_coverage": "events/2026-state-lvt-enablement-wave.md already covers the spring 2026 NY/VA/KY enablement wave (including Kentucky HB 607's Louisville Metro provision); places/pittsburgh.md covers Pittsburgh's 1913-2001 split-rate history and the 1997-2001 Sabre reassessment but stops there (last_reviewed 2026-07-11, predates any 2026 reassessment news); organizations/center-for-land-economics.md covers the org generally; concepts/split-rate-taxation.md covers Baltimore's July 2026 vacant-property hearing bill. No existing page covers Louisville's follow-through land/improvement ordinance, the new 2026 Allegheny County court-ordered reassessment, DC's valuation-modernization ordinance, Maryland's $150k TOD-corridor LVT study, the Seattle/King County assessor race, or the NYC IBX LVT funding events.",
+    "disposition": "enrich:events/2026-state-lvt-enablement-wave",
+    "reasoning": "This is a genuine, dated roundup of concrete 2026 developments across seven jurisdictions, several of which extend or update pages the wiki already maintains rather than duplicating them (Louisville's actual council ordinance following its HB 607 authorization; a new court-ordered Allegheny County reassessment distinct from the 1997 one already documented). It is not part of the recurring mirror-duplicate batch. A T1 editor should route facts to the specific existing pages (events/2026-state-lvt-enablement-wave, places/pittsburgh, concepts/split-rate-taxation for Baltimore) and may judge some jurisdictions (DC, Seattle, NYC IBX) warrant their own short additions or a new companion events page if the enablement-wave page is judged already too long.",
+    "cross_link_targets": ["2026-state-lvt-enablement-wave", "pittsburgh", "split-rate-taxation", "center-for-land-economics", "mass-appraisal-methods", "new-york-city"],
+    "suggested_category": "events",
+    "confidence": "medium",
+    "source_notes": "Greg Miller (Executive Director, Center for Land Economics), blog.landeconomics.org, published 2026-08-26 — the tenth installment of his 'LVT Landscape' series. Covers: Louisville Metro Council's ordinance formally splitting land/improvement tax categories; a court order forcing Allegheny County (Pittsburgh) to reassess properties unchanged since 2012; a DC ordinance modernizing land valuation methodology; Maryland's $150,000 state-funded LVT study for transit-oriented corridors and Baltimore's split-rate consideration; a pro-LVT primary win in the King County assessor race and a supportive Seattle council candidate; and NYC events on using LVT to fund the Inter-Borough Express."
+  },
+  {
+    "url": "https://doi.org/10.56201/ijgem.vol.12.no5.2026.pg336.349",
+    "title": "Housing Subsidies and Rent Control in Nigeria",
+    "existing_coverage": "No existing wiki coverage of Nigeria, Lagos, or African rent control. research/franzsen-mccluskey-property-tax-africa.md and places/south-africa.md are the wiki's only sub-Saharan Africa content, both about property-tax administration rather than housing subsidies/rent control. No objections/rent-control page exists.",
+    "disposition": "reject",
+    "reasoning": "This is a policy-implementation paper about Nigeria's housing subsidy programs and rent-control enforcement (National Housing Fund, Lagos Tenancy Bill, informal-sector financial exclusion) with no land-value-tax, economic-rent, or land-value-capture content in the abstract obtained. It is thin (a short IIARD regional journal article) and off the wiki's core scope — it would need to be forced into relevance rather than naturally supporting a page.",
+    "cross_link_targets": [],
+    "suggested_category": "research",
+    "confidence": "medium",
+    "source_notes": "Jack Walson Ngo and Anthony Dornubari Enwin, IIARD International Journal of Geography and Environmental Management, Vol. 12 No. 5, published 2026-08-25. Documents Nigeria's 15.2-28 million unit housing shortage, the poor reach of National Housing Fund/Federal Mortgage Bank subsidies, weak enforcement of the 2025 Lagos State Tenancy and Recovery of Premises Bill, and the ~80% of the workforce excluded from formal housing finance by informality; recommends institutional strengthening and harmonized federal-state rules."
+  },
+  {
+    "url": "https://doi.org/10.1016/j.jebo.2026.107724",
+    "title": "Annual overseas migration and housing markets: Evidence from Australian neighborhoods",
+    "existing_coverage": "problems/housing-unaffordability-is-a-land-problem.md documents that supply constraints (zoning, land scarcity) are what convert demand shocks into land-price increases, citing glaeser-gyourko-housing-supply.md, hilber-vermeulen-england-supply.md and others; objections/demographics-explain-house-prices.md is the wiki's existing page on population/demographic drivers of house prices (Mankiw-Weil baby-boom thesis). No existing page addresses immigration/overseas-migration specifically, and no Australia-specific housing-supply research page exists.",
+    "disposition": "new_page",
+    "reasoning": "This is a rigorous, well-identified (shift-share IV) study in a strong journal showing migration-driven price/rent effects are amplified in supply-constrained neighborhoods — directly reinforcing the wiki's core land-scarcity/zoning-constraint argument with a new demand-side shock and a new country case (Australia). It complements rather than duplicates demographics-explain-house-prices.md (a different demographic mechanism) and glaeser-gyourko-housing-supply.md (supply elasticity, no migration angle).",
+    "cross_link_targets": ["housing-unaffordability-is-a-land-problem", "demographics-explain-house-prices", "glaeser-gyourko-housing-supply", "nimbyism"],
+    "suggested_category": "research",
+    "confidence": "medium",
+    "source_notes": "Marcel Peruffo and Madeleine Check, Journal of Economic Behavior & Organization, published October 2026. Uses annual neighborhood-level Australian data and a shift-share instrument based on historical immigrant settlement patterns: a 1% rise in net overseas migration (as a share of local population) raises unit rents ~5.0%, unit prices ~1.3%, and house rents ~3.6%; effects are concentrated in areas with low dwelling-approval rates (i.e., supply-constrained), while house prices in some older, low-approval neighborhoods fall, consistent with displacement dynamics."
+  },
+  {
+    "url": "https://doi.org/10.66393/j7q8n338",
+    "title": "Reconstruction of Local Tax System and Improvement of Urban Housing Affordability: Evaluation Based on the Synthetic Control Method of Real Estate Tax Pilot",
+    "existing_coverage": "research/xu-china-land-finance-active-mode.md and research/xu-huang-li-china-hcrs-george.md cover China's land-lease/land-finance system and the Household Contract Responsibility System, respectively — both about state land ownership and land-lease revenue, not the 2011 Shanghai/Chongqing *recurrent property tax* pilots. research/gaffney-real-assets-model-china.md is macro/crisis-focused. No existing page addresses the Shanghai/Chongqing property-tax pilots specifically.",
+    "disposition": "new_page",
+    "reasoning": "This is a distinct, genuinely uncovered topic: China's only-ever pilot of a Western-style recurrent residential property tax (Shanghai and Chongqing since 2011), evaluated with a credible causal method (synthetic control, 2008-2023 panel, placebo tests) finding it improved housing-price-to-income affordability. It is complementary to, not overlapping with, the wiki's existing China land-finance/HCRS research cluster, which concerns the land-lease system rather than a recurring tax on held property.",
+    "cross_link_targets": ["xu-china-land-finance-active-mode", "xu-huang-li-china-hcrs-george", "split-rate-taxation", "housing-unaffordability-is-a-land-problem", "mass-appraisal-methods"],
+    "suggested_category": "research",
+    "confidence": "high",
+    "source_notes": "Yuan Liu, Journal of Applied Economics and Social Dynamics, Vol. 2 No. 5 (2026), Issue 4, published 2026-08-19. Uses the Synthetic Control Method on an urban panel spanning 2008-2023 to evaluate Shanghai and Chongqing's 2011 real-estate tax pilots against synthesized control cities; finds both pilot cities show improved (lower) housing-price-to-income ratios relative to their synthetic controls, with Shanghai's gains growing over time, and placebo tests confirming the effect isn't an artifact of timing; concludes real-estate tax pilots meaningfully improved urban housing affordability and supports broader local tax restructuring."
+  },
+  {
+    "url": "https://doi.org/10.66393/meye8c66",
+    "title": "Urban Land Use Regulation and Housing Affordability: Theoretical Frameworks and Research Advances",
+    "existing_coverage": "research/glaeser-gyourko-housing-supply.md already covers the foundational Glaeser-Gyourko zoning/affordability finding this paper explicitly builds on. problems/housing-unaffordability-is-a-land-problem.md and concepts/nimbyism.md already synthesize the land-use-regulation-and-affordability literature the paper reviews.",
+    "disposition": "reject",
+    "reasoning": "Based on the abstract obtained, this is a literature-review/theoretical-synthesis paper — it explicitly builds on Glaeser and Gyourko (already the wiki's key citation on this exact question) and 'identifies research gaps' rather than reporting new empirical findings or a novel dataset. It is too thin on its own new contribution to support a credible standalone page beyond what the wiki already cites from the primary Glaeser-Gyourko-style literature; a T1 editor could still add it as a single supplementary citation if a review-of-the-literature reference is wanted.",
+    "cross_link_targets": ["glaeser-gyourko-housing-supply", "housing-unaffordability-is-a-land-problem", "nimbyism"],
+    "suggested_category": "research",
+    "confidence": "medium",
+    "source_notes": "Yihan Yang, Journal of Applied Economics and Social Dynamics, Vol. 2 No. 5 (2026), Issue 4, published 2026-08-19. A theoretical/review paper building on Glaeser and Gyourko's work, incorporating China's land-management institutions, that aims to build 'the complete theoretical system linking urban land regulatory rules and housing affordability' and identify research gaps and future directions; no new empirical dataset or finding is described in the available abstract."
+  },
+  {
+    "url": "https://doi.org/10.1080/20780389.2026.2713694",
+    "title": "Natural resources trap and regressive specialisation: Global integration and the destruction of productive capabilities in Latin America",
+    "existing_coverage": "research/sachs-warner-resource-curse.md is the wiki's landmark resource-curse citation (the cross-country growth correlation). A cluster of resource-rent case studies exists (lie-norwegian-oil-fund.md, medrano-mamani-peru-mining-canon.md, martinez-colombia-resource-rents.md, acemoglu-johnson-robinson-botswana.md) but none address the structuralist 'why didn't the rents get reinvested into productive capability' mechanism, or an explicit Latin-America-vs-East-Asia comparison.",
+    "disposition": "new_page",
+    "reasoning": "This paper offers a different explanatory layer than Sachs-Warner's correlation: a structuralist account (regressive specialisation, destroyed productive capabilities) of *why* the 2003-2013 commodity supercycle diverged so sharply between Latin America and East Asia despite similar starting conditions. That is a genuinely new mechanism/comparative angle for the wiki's resource-curse cluster, though it engages industrial policy and trade specialisation more than land-value-capture per se, so its direct Georgist relevance is at the 'resource rents as a governance and reinvestment problem' level rather than the LVT mechanism level.",
+    "cross_link_targets": ["sachs-warner-resource-curse", "resource-rents", "martinez-colombia-resource-rents", "acemoglu-johnson-robinson-botswana", "ecological-georgism"],
+    "suggested_category": "research",
+    "confidence": "medium",
+    "source_notes": "Paulo Gala and João Paulo Nicolini Gabriel, Economic History of Developing Regions, published online 2026-08-18 (open access). Compares Latin America and East Asia over 1995-2022: both regions liberalized trade, stabilized inflation, and integrated into global capital markets, and both rode the same 2003-2013 commodity supercycle, yet their productive trajectories diverged sharply. Argues Latin American governments used the commodity windfall to expand consumption rather than build backward/forward linkages or diversify exports, leaving the region with 'more of the same' extraction rather than resource-financed industrialization — a productivity/capability problem, not a resource-scarcity one."
+  },
+  {
+    "url": "https://doi.org/10.1057/s41599-026-08643-5",
+    "title": "Land marketization, fiscal decentralization and carbon emissions",
+    "existing_coverage": "research/xu-china-land-finance-active-mode.md and research/gaffney-real-assets-model-china.md cover China's land-finance fiscal-decentralization system, but neither addresses its carbon/environmental consequences. concepts/ecological-georgism.md is the wiki's general rent-capture-for-environment page but has no China-land-finance-specific content.",
+    "disposition": "new_page",
+    "reasoning": "This paper sits at a genuine intersection the wiki hasn't covered: how China's land-marketization reforms and fiscal-decentralization incentives (local governments funding themselves through land sales) affect carbon emissions. It is distinct from the existing China land-finance research (which addresses land-finance's development/infrastructure role, not its environmental externality) and from ecological-georgism.md's general framework, and would meaningfully bridge those two existing clusters.",
+    "cross_link_targets": ["xu-china-land-finance-active-mode", "ecological-georgism", "gaffney-real-assets-model-china", "resource-rents"],
+    "suggested_category": "research",
+    "confidence": "medium",
+    "source_notes": "Wenfang Pu, Lanjiao Wen, and Anlu Zhang, Humanities and Social Sciences Communications, published 2026-08-13. Full text was not directly accessible (paywalled/authenticated); title and authors confirmed via Crossref and Semantic Scholar. Based on the authors' related published work, the likely angle is that China's shift from administrative land allocation to market-based land transactions, combined with fiscal-decentralization incentives that push local governments to compete on land-based revenue, has measurable effects (the paper's own emphasis) on carbon emissions — a T1 editor should re-verify with a direct read of the full text (a Nature-hosted reference PDF was retrieved to the scratchpad but a reliable full-text extraction was not completed in this session) before drafting."
+  },
+  {
+    "url": "https://doi.org/10.1016/j.cities.2026.107352",
+    "title": "Urban green credits: Capturing ecosystem service value in housing markets for redistributive urban planning",
+    "existing_coverage": "concepts/ecological-georgism.md is the wiki's general framework for extending rent-capture beyond land to environmental value, but has no specific mechanism for capturing green-space/ecosystem-service value embedded in housing prices. concepts/land-value-capture.md covers LVC instruments generally (betterment levies, TIF, etc.) but not an ecosystem-service-credit variant. No existing 'green space hedonic value' page exists.",
+    "disposition": "new_page",
+    "reasoning": "The title and authors' framing (a credit mechanism that captures ecosystem-service value embedded in housing prices for redistributive planning) is structurally a Georgist land-value-capture argument applied to environmental amenity value rather than pure location value — a natural extension of both ecological-georgism.md and land-value-capture.md that the wiki does not yet have a concrete instrument-level page for. Full text could not be retrieved in this session (Elsevier access-blocked), so a T1 editor should re-fetch before drafting.",
+    "cross_link_targets": ["ecological-georgism", "land-value-capture", "betterment-levy", "community-land-trust"],
+    "suggested_category": "research",
+    "confidence": "low",
+    "source_notes": "Emília Malcata Rebelo and Letícia de Paula, Cities, vol. 178, article 107352, 2026 (November 2026 issue). Full text and abstract were not accessible in this session (ScienceDirect blocked automated access; Semantic Scholar/Crossref returned no abstract). Title indicates the paper proposes a 'green credit' mechanism to capture, for redistributive urban-planning purposes, the ecosystem-service value that green infrastructure adds to nearby housing prices — content should be verified by direct read before any page is drafted."
+  },
+  {
+    "url": "https://doi.org/10.1111/roiw.70086",
+    "title": "Tackling the Regressivity at the Top of the Italian Tax System: An Optimal Taxation Framework With Heterogeneous Returns to Capital",
+    "existing_coverage": "research/sway-lvt-wealth-taxes-review.md compares split-rate LVT against net wealth taxes directly; research/rognlie-piketty-note.md and research/piketty-capital-21st-century.md cover capital-share/inequality debates; people/thomas-piketty.md exists. None of these engage this paper's specific mechanism (heterogeneous after-tax returns to capital driving regressivity at the very top of Italy's income distribution).",
+    "disposition": "reject",
+    "reasoning": "This is a well-executed public-finance paper on capital-income tax regressivity and wealth-tax design, but based on the full abstract obtained it contains no land-value, land-rent, or LVT content whatsoever — its subject is general capital income and returns heterogeneity, not land specifically. It is adjacent to the wiki's existing wealth-tax-vs-LVT comparison (sway-lvt-wealth-taxes-review.md) only at the level of 'both are alternative revenue/progressivity tools,' which is too generic a link to justify forcing a Georgist-relevance frame onto an Italy-specific capital-income-tax paper.",
+    "cross_link_targets": [],
+    "suggested_category": "research",
+    "confidence": "high",
+    "source_notes": "Matteo Dalle Luche, Demetrio Guzzardi, Elisa Palagi, Andrea Roventini, and Alessandro Santoro, Review of Income and Wealth, Vol. 72, Issue 3, published 2026-07-08. Using new ECB wealth-distribution data, finds after-tax capital returns range from 2.5% (bottom 90% of Italian wealth distribution) to 5% (top 10%); Italy's effective tax system is regressive at the very top (top 0.1% pays 32.6%, less than many middle earners); simulates raising the top marginal rate to ~61% for the top 0.1% (would restore progressivity, raise revenue 5-7%) versus an alternative 0.11%-1.5% wealth tax to address income-deferral avoidance strategies among the wealthy."
+  },
+  {
+    "url": "https://doi.org/10.1016/j.cities.2026.107329",
+    "title": "A return ticket for transport investment: How Land Value Capture supported London's Crossrail",
+    "existing_coverage": "places/london.md already covers Crossrail LVC using TfL/GLA's 2017 official report (Jubilee Line Extension precedent, commercial-uplift figures, £87bn eight-project projection). research/cib-land-value-capture-study.md independently confirms Crossrail's Business Rate Supplement (£4.2bn) and Community Infrastructure Levy (£300m) toward an £18.8bn project cost, benchmarked against Hong Kong's rail-plus-property model. problems/public-investment-capitalizes-into-land.md cites Crossrail as one of several transit-uplift confirmations. All existing coverage derives from the 2017 TfL report and the CIB Canadian-focused report — none from a dedicated, recent, peer-reviewed academic study of Crossrail's LVC performance specifically.",
+    "disposition": "new_page",
+    "reasoning": "As flagged, this is high priority: it is a 2026 peer-reviewed academic paper (Cities journal) devoted entirely to evaluating how LVC actually supported Crossrail's financing — exactly the kind of primary, rigorous source that should anchor the wiki's Crossrail case study rather than relying solely on the 2017 TfL self-report and a Canada-focused secondary report. It would substantially deepen concepts/land-value-capture.md and places/london.md with an independent scholarly assessment (the authors' companion working paper on SSRN evaluates the Mayoral Community Infrastructure Levy specifically, which raised over £1bn) and should become a dedicated research page.",
+    "cross_link_targets": ["land-value-capture", "london", "public-investment-capitalizes-into-land", "cib-land-value-capture-study", "betterment-levy", "henry-george-theorem"],
+    "suggested_category": "research",
+    "confidence": "high",
+    "source_notes": "Mark C. Smith, Dominic Brown, Richard J. Dunning, and Alex Lord, Cities, published November 2026 issue (2026.107329). Full journal text was access-blocked in this session, but a closely related open working paper by the same authors ('Just the Ticket for a Global City? Evaluating the Role of the Mayoral Community Infrastructure Levy in Developing London's Crossrail,' SSRN) evaluates MCIL's success using Marsh & McConnell's policy-success framework, and confirms MCIL alone raised over £1 billion for Crossrail; a T1 editor should fetch the full Cities article (or the SSRN companion) directly before drafting, as this session could not retrieve full text past the abstract level."
+  },
+  {
+    "url": "https://doi.org/10.1016/j.scs.2026.107595",
+    "title": "A causal GeoAI framework for capturing the unearned increment to self-finance public infrastructure",
+    "existing_coverage": "concepts/mass-appraisal-methods.md covers hedonic regression, CAMA, and Shapley-value land/building separation methods but nothing on causal-ML/pre-investment uplift estimation. concepts/henry-george-theorem.md and concepts/land-value-capture.md both describe the theoretical self-financing logic (public investment raises land rent, which can then fund the investment) but the wiki has no coverage of the practical measurement problem — that the value uplift needed to size a self-financing levy cannot be observed until after the investment is already made.",
+    "disposition": "new_page",
+    "reasoning": "As flagged, this explicitly uses Georgist framing ('unearned increment,' self-financing infrastructure) and addresses a real methodological gap in the wiki's existing self-financing/LVC coverage: how to causally estimate infrastructure-driven land-value uplift *before* the investment happens (the 'sequencing paradox'), which existing mass-appraisal-methods.md content does not address (it covers ex-post assessment, not ex-ante causal prediction for fiscal-instrument calibration). This is a strong, direct fit.",
+    "cross_link_targets": ["henry-george-theorem", "mass-appraisal-methods", "land-value-capture", "atcor", "public-investment-capitalizes-into-land"],
+    "suggested_category": "research",
+    "confidence": "high",
+    "source_notes": "Okan Yılmaz, Mehmet Alkan, and Alihan Teke, Sustainable Cities and Society, September 2026 issue. Full text was access-blocked in this session; per an SSRN-hosted related listing and search summaries, the paper frames a 'sequencing paradox' in infrastructure self-financing — the land-value increment a public investment will generate cannot be quantified before the investment is made, yet fiscal instruments (levies, TIF, betterment charges) require prior calibration — and proposes a causal GeoAI (geospatial AI / causal machine learning) framework to estimate that increment ex ante so infrastructure can be self-financed; a T1 editor should fetch and read the full article directly before drafting, as this session could only confirm framing, not full methodology or results."
+  },
+  {
+    "url": "https://doi.org/10.1007/s10982-026-09566-7",
+    "title": "Property Rights and Natural Resources",
+    "existing_coverage": "people/john-locke.md already covers the Lockean proviso, labor-mixing theory, and the Georgist reading that it 'concedes the case' for land value taxation, with cross-links to land-as-commons.md and community-creates-land-value.md. No existing wiki page addresses Nozick's 'taxation is forced labor' argument directly, and no page distinguishes left-libertarianism from George's specific self-ownership argument the way this paper does.",
+    "disposition": "new_page",
+    "reasoning": "This is a rigorous, explicitly Georgist academic philosophy paper (cites Henry George's Progress and Poverty directly, engages Locke, Nozick, Marx, and left-libertarianism) making a novel argument the wiki does not yet have: that self-ownership is actually *inconsistent* with Locke's private appropriation of natural resources (rather than grounding it), and that George's rent-payment argument mirrors Nozick's own 'taxation as forced labor' logic — turning a standard libertarian objection back on itself. This meaningfully deepens the wiki's philosophical foundations beyond john-locke.md's existing treatment and fills the current gap on Nozick.",
+    "cross_link_targets": ["john-locke", "land-as-commons", "community-creates-land-value", "geolibertarianism", "georgism", "unearned-increment"],
+    "suggested_category": "objections",
+    "confidence": "high",
+    "source_notes": "Paul Forrester, Law and Philosophy, published 2026-05-20. Full abstract obtained directly. Argues Locke conflated the value of natural resources with the value added by labor upon them, wrongly concluding labor-mixing entitles the laborer to both; following George, argues the community — not the individual improver — is entitled to natural-resource value because the community created it, and that self-ownership actually requires free access to natural resources, making natural-resource owners' extraction of surplus value from non-owners morally equivalent to forced labor (turning Nozick's own taxation-as-forced-labor argument against private resource ownership). Develops an original-acquisition view, inspired by George, distinguished from left-libertarianism: improvers own their improvements, but no one is entitled to natural-resource value."
+  }
+]
