@@ -3934,6 +3934,46 @@ added at C-claim) rounded out the batch.
 Lint 0 errors, 0 orphans, 954 pages. Queue ledger: 0 pending, 234 consumed. All 17 touched
 pages Ghost-synced; spot-checked `condon-broken-city` live (200).
 
+## 2026-08-27 — 11th mirror-dup; a 12-item batch including the wiki's best philosophy find yet
+
+Two quiet passes, then the mirror-dup batch resurfaced for an 11th time, alongside one
+genuinely new blog post from the same feed ("Property tax reform takes center stage") —
+a reminder that dropping the recurring 11 by slug match doesn't risk losing real new posts
+from the same publication, since each item is still checked individually. That post turned
+out to be a multi-jurisdiction roundup rather than a single story, so instead of one
+enrichment it became three: Pittsburgh/Allegheny County's own mid-August 2026 court-ordered
+reassessment (an unmistakable echo of the 1997 Wettick ruling that ultimately ended the
+original split-rate era — worth having caught, since it's exactly the kind of "history
+rhymes" detail a thinner pass would miss), Louisville Metro's actual ordinance following
+through on HB 607's authority, and Baltimore's vacant-property reassessment results ($159M
+added value, >$360M projected over three years).
+
+The surviving 12-item batch went through the full T0 pipeline (`sources/context-briefs/2026-08-27.json`)
+and needed unusually heavy T1 re-verification — five of the twelve sources required
+follow-up WebFetch or WebSearch calls beyond what the brief itself obtained, and two items
+(a China land-marketization/carbon paper, an urban-green-credits paper) were rejected not
+because they were off-topic but because *zero* content beyond title/authors/venue proved
+reachable after exhausting fetch attempts — better to defer than draft from a title alone.
+Of the 6 new pages: the standout is **Forrester's "Property Rights and Natural
+Resources"** (*Law and Philosophy*, 2026) — a rigorous, explicitly Georgist academic
+philosophy paper that diagnoses Locke's conflation of resource-value and labor-value, then
+turns Nozick's own "taxation as forced labor" argument back against private natural-resource
+ownership itself. It fills a real gap: `people/john-locke.md` already noted Locke's proviso
+"concedes the case" for LVT but had no engagement with Nozick specifically, arguably modern
+libertarianism's most influential anti-tax argument. Also notable: a peer-reviewed
+evaluation of Crossrail's Mayoral Community Infrastructure Levy (over £1bn raised) whose
+figure doesn't straightforwardly reconcile with the wiki's existing TfL-sourced £300m CIL
+figure — flagged explicitly rather than silently reconciled, since resolving it needs both
+papers' full methodology; a causal-GeoAI paper naming and addressing a real "sequencing
+paradox" in self-financing infrastructure (uplift can't be measured before the investment,
+yet the levy must be sized before it); a synthetic-control study of China's only recurrent
+property-tax pilots (Shanghai/Chongqing, distinct from the wiki's existing land-finance
+coverage); a well-identified Australian migration/housing-supply study; and a structuralist
+account of Latin America's commodity-supercycle divergence from East Asia.
+
+Lint 0 errors, 0 orphans, 960 pages. Queue ledger: 0 pending, 246 consumed. All 21 touched
+pages Ghost-synced; spot-checked `forrester-property-rights-natural-resources` live (200).
+
 ---
 
 ## 2026-08-25 (verification wave) — three bad quotes, a corrected statute reading, and a new channel around the paywalls
