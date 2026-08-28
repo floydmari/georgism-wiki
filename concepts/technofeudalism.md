@@ -42,6 +42,42 @@ labor theory of value to argue directly against extending Marx's own ground-rent
 Espinosa's is to the *rent* label specifically, contending land's fixed, non-reproducible
 supply has no true analogue in software or data infrastructure.
 
+## A 2026 Special-Issue Exchange: "Rentier Capitalism" as a Rival to "Technofeudalism"
+
+A 2026 exchange in *Area Development and Policy* stakes out a fourth position, distinct from
+Morozov's "still ordinary capitalism" and Norris & Espinosa's labor-theory-of-value
+rejection: that platform dominance **is** best understood through Marx's own rent theory,
+just not through the "feudalism" label Varoufakis and Durand use. **Kohei Saito and Ryuji
+Sasaki**, in "Rentier Capitalism, Technofascism and the Destruction of the Common," revisit
+Marx's "often-overlooked theory of ground rent in Volume III" — drawing on notebooks
+published for the first time in the *Marx-Engels-Gesamtausgabe* (MEGA) — to argue that
+**rentier capitalism**, not technofeudalism, is the more accurate frame for platform giants'
+"cloudalist" power, and that unchecked rentier dominance risks tipping into "technofascism":
+an authoritarian turn they judge "increasingly imminent." **Eric Sheppard** (UCLA), in a
+companion commentary in the same special issue, "Rentiership, rent and (beyond) capitalist
+futures," calls Saito and Sasaki's account "compelling" but argues their Marxian-ground-rent
+framework is more determinist than the evidence requires: bringing in geographical Marxian
+approaches to rent theory, and shifting the lens from advanced-capitalist-nation forms to a
+"more differentiated global capitalist landscape," Sheppard argues rentier and commodity
+capitalism can be read as **co-existing** rather than the former inevitably displacing the
+latter — a less deterministic future than Saito and Sasaki's own framing suggests.[8][9]
+
+A related, independently-published piece reaches a similar diagnosis from outside the
+special issue: **Erik Swyngedouw**'s 2025 chapter "Capitalism Is Over, but the New Is Worse:
+Reflections on Rent, Services, and Capitalist Feudalism" (in *The Value of Place*, eds.
+Moulaert & Mehmood, Edward Elgar) names Google, Meta, Amazon, Alibaba, and Tencent
+specifically as constituting a "capitalist feudalism" whose scale "massively outstrips the
+GDP of most of the world's countries," built on "rent extraction, financialization, and the
+provision of commodified services" drawn from platform users themselves — closer in
+substance to Varoufakis's and Durand's feudal framing than to Saito & Sasaki's, even while
+sharing their emphasis on rent as the operative mechanism.[10]
+
+None of these pieces resolves the underlying dispute this page documents — whether "rent,"
+"feudalism," both, or neither is the right lens for platform power — but they show the
+debate has moved from op-ed polemics (Varoufakis) and single landmark rebuttals (Morozov)
+into a live, multi-sided academic literature with real disagreement inside the pro-rent camp
+itself, not just between rent-skeptics and rent-proponents.
+
 ## See Also
 
 - [Platform and Data Rents](/wiki/data-rents/) — the wiki's main treatment of the underlying contested-rent question this framing dramatizes
@@ -60,3 +96,38 @@ supply has no true analogue in software or data infrastructure.
 5. Marjan Fadavi Ardekani, "Book Review: Technofeudalism by Yanis Varoufakis," *New School Economic Review* 13 (2025), 72–76 — read in full this session. A genuine academic book review (New School for Social Research PhD candidate); used for page-cited detail on cloud capital's "third nature," the cloud-serf/cloud-vassal/precariat typology, and the critique (via Anwar Shaikh's "real competition") that platform dominance may extend rather than end capitalism. [PDF](https://nsereview.org/index.php/NSER/article/download/154/82) · [Article page](https://nsereview.org/index.php/NSER/article/view/154)
 6. Cédric Durand, *Techno-féodalisme: Critique de l'économie numérique* (Paris, 2020); English translation *How Silicon Valley Unleashed Techno-Feudalism: The Making of the Digital Economy* (Verso, 2024) — book itself not independently re-read this session; used via Durand's own direct response to Morozov, "Where Is Digital Technology Taking Us?," *Verso Books blog* (9 December 2025), read in full, for his own-words statement of the thesis ("relationships of dependence," "equipment of capture," "more investment in Big Tech's forces of predation means less investment in the economy as a whole"). [Verso blog](https://www.versobooks.com/blogs/news/where-is-digital-technology-taking-us-cedric-durand-responds-to-evgeny-morozov) · [Publisher](https://www.versobooks.com/products/2790-how-silicon-valley-unleashed-techno-feudalism)
 7. Evgeny Morozov, "Critique of Techno-Feudal Reason," *New Left Review* II/133–134 (January–April 2022) — read in full this session (via a freely accessible course-posted copy of the article). The landmark academic critique of the techno-feudalism framing; used for the "intellectual weakness, rather than media savviness" verdict, the argument (via Marx's *Capital, Vol. 3*, and the Brenner–Wallerstein debates) that platforms like Google remain capitalist producers rather than rentiers, and the assessment of Durand's book as the strongest version of the thesis. [New Left Review (landing page, partially paywalled)](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) · [Full text (freely accessible mirror)](https://eclass.uoa.gr/modules/document/file.php/ECON969/Evgeny%20Morozov%20-%20Critique%20of%20Neofeudal%20Reason.pdf)
+8. Kohei Saito & Ryuji Sasaki (2026), "Rentier Capitalism, Technofascism and the Destruction
+   of the Common," *Area Development and Policy*, DOI 10.1080/23792949.2025.2557911. Full
+   abstract retrieved via Semantic Scholar 2026-08-28 — used for the MEGA-notebooks-sourced
+   ground-rent argument, the "cloudalists" foil, and the technofascism warning quoted above
+   (A-claim for the abstract; full text not read).
+   [doi.org](https://doi.org/10.1080/23792949.2025.2557911)
+9. Eric Sheppard (2026), "Rentiership, rent and (beyond) capitalist futures," *Area
+   Development and Policy* (commentary in the same special issue as source 8), DOI
+   10.1080/23792949.2025.2578770. Full abstract retrieved via Semantic Scholar 2026-08-28 —
+   used for the "compelling but more determinist than needed" response to Saito & Sasaki
+   and the co-existing-rentier-and-commodity-capitalism argument (A-claim for the abstract;
+   full text not read). **Correction note:** this DOI was queued under a different,
+   apparently mismatched title ("The New Urban Enclosures: Algorithmic Rent-Seeking,
+   Corporate Landlordism, and the Financialization of Global Housing") by the scanner that
+   surfaced it; no paper with that title could be located anywhere by this session, while
+   this DOI independently and consistently resolves, across Semantic Scholar and Crossref-
+   adjacent search, to the Sheppard commentary described here. The wiki cites the paper
+   actually at this DOI, not the scanner's title.
+   [doi.org](https://doi.org/10.1080/23792949.2025.2578770)
+10. Erik Swyngedouw (2025), "Capitalism Is Over, but the New Is Worse: Reflections on Rent,
+    Services, and Capitalist Feudalism," Ch. 2 in *The Value of Place*, eds. Frank Moulaert &
+    Abid Mehmood (Edward Elgar Publishing), DOI 10.4337/9781035347926.00009. Content
+    corroborated via WebSearch and an Elgaronline chapter listing 2026-08-28 — used for the
+    named-firm (Google, Meta, Amazon, Alibaba, Tencent) "capitalist feudalism" argument
+    quoted above (B-claim; not independently verified against the chapter's own text, no
+    verbatim quotation offered beyond the short phrases above). **Correction note:** the
+    scanner queued this content under a T&F journal DOI
+    (10.1080/13563467.2025.2599183, "New Political Economy") that independently resolves,
+    via Semantic Scholar, to a different, unrelated paper — José Miguel Ahumada, L. Méndez,
+    Fernando Sossdorf & R. Jára, "Rentier capitalism in the Chilean economy: disconnection
+    between surplus capture and productive investment." The wiki cites Swyngedouw's actual
+    publication (the Elgar book chapter above), not the mismatched journal DOI; the Ahumada
+    et al. Chilean-economy paper is a separate, not-yet-reviewed find flagged for a future
+    session.
+    [doi.org (Elgar chapter)](https://doi.org/10.4337/9781035347926.00009)

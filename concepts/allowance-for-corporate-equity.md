@@ -127,6 +127,7 @@ plainly.[12]
 - [The Mirrlees Review](/wiki/mirrlees-review/) — the canonical modern endorsement
 - [Institute for Fiscal Studies](/wiki/institute-for-fiscal-studies/) — whose Capital Taxes Group coined the ACE
 - [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/) — the diagnosis this instrument would act on
+- [Fox, Liscow & Love: How to Tax Business?](/wiki/fox-liscow-love-tax-business-rents/) — extends the rent-only-base case with an administrability argument: complex pass-through structures have become "illegible" to enforcement, favoring entity-level taxation for the most complex partnerships
 
 ## Sources
 

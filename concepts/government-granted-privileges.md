@@ -78,6 +78,21 @@ itself (Ch. 12, n.15).[2]
   where scale and network effects rather than explicit government grants produce
   similar-looking rents; see [data rents](/wiki/data-rents/).
 
+## A Media-Studies Case: Urban Screens
+
+A 2026 *Journal of Urban Technology* paper by geographer **Lorena Melgaço** extends the
+government-granted-privilege structure to a less obvious case: privileged access to urban
+visual space. Using Times Square and three international cases (Germany's Nightscreen
+gasometer, Australia's Federation Square, Brazil's Ituíta) as studies, Melgaço proposes a
+conceptual model for **class monopoly rent (CMR)** in which property owners, public-screen
+operators, and brand/IP holders collaborate to realize rent from digital-out-of-home (DOOH)
+advertising screens — "smart city" framing marketing the screens as necessary interfaces
+even as they function as a rent-extracting privilege over shared visual space. This is
+critical urban geography and media-studies scholarship, using "rent" in a looser, more
+sociological sense than the wiki's economic-rent definition, but the underlying structure —
+privileged access to a scarce, publicly-visible position, capitalized by those who control
+it — is the same one this page documents for spectrum, medallions, and land titles.[4]
+
 ## Is It Necessarily a "Rent"?
 
 Applying "rent" outward from land is not a neutral move, and the strength of the
@@ -120,3 +135,10 @@ rather than assumed from the land case.
    history, the 2013 peak, the total medallion stock valuation, and the post-2014
    collapse following ride-hailing entry (basic facts; verified 2026-07-11).
    [Wikipedia](https://en.wikipedia.org/wiki/Taxi_medallion)
+4. Lorena Melgaço (2026), "Rent Seeking and the City: The Case of Urban Screens," *Journal
+   of Urban Technology*, DOI 10.1080/10630732.2025.2605620. Full abstract retrieved via
+   Semantic Scholar (CC-BY open access) 2026-08-28 — used for the "class monopoly rent
+   (CMR)" conceptual model, the Times Square/Nightscreen/Federation Square/Ituíta case
+   studies, and the "necessary interfaces" smart-city framing (§"A Media-Studies Case"
+   above) (A-claim for the abstract; full text not read).
+   [doi.org](https://doi.org/10.1080/10630732.2025.2605620)

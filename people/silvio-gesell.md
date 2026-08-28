@@ -65,6 +65,7 @@ Gesell and [Henry George](/wiki/henry-george/) were contemporaries who reached o
 
 - [Henry George](/wiki/henry-george/) — the contemporary whose land-value-tax program is compared and contrasted with Gesell's
 - [Loehr (2026): Henry George and Silvio Gesell — The Odd Couple](/wiki/loehr-george-gesell-odd-couple/) — the wiki's source for this comparison
+- [Loehr (2026): Private Land Ownership — Tax or Socialize?](/wiki/loehr-tax-or-socialize-land/) — the companion paper narrowing the comparison into a concrete hybrid policy (Gesell-style socialization for high-value urban land, George-style LVT for peripheral land)
 - [Economic Rent](/wiki/economic-rent/) — the concept both reformers targeted, via different instruments
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — Gesell's monetary-hoarding mechanism is sometimes discussed alongside land-cycle theories of boom and bust
 

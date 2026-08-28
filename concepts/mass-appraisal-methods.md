@@ -108,6 +108,7 @@ Rather than improving land/building separation techniques, some designs try to a
 - [Center for Land Economics](/wiki/center-for-land-economics/)
 - [Olea, Hoyos & García Enríquez: Bizkaia Land Value Tax](/wiki/olea-hoyos-bizkaia-land-value-tax/) — a hedonic spatial model applying this page's methodology to simulate a specific LVT rate for a real jurisdiction
 - [Yılmaz, Alkan & Teke: A Causal GeoAI Framework for the Unearned Increment](/wiki/yilmaz-alkan-teke-geoai-unearned-increment/) — extends ex-post assessment techniques into ex-ante causal prediction, for sizing self-financing infrastructure levies before the investment occurs
+- [Tubío-Sánchez & Reyes-Bueno: Ecuador LVT Capitalization](/wiki/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization/) — direct evidence that systematic underassessment of fast-appreciating areas, not just the tax rate, determines whether capitalization delivers the tax's intended equity outcome
 
 ## Sources
 

@@ -64,6 +64,7 @@ The theorem's mechanism — that public spending capitalises fully into land ren
 - [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/) · [ATCOR](/wiki/atcor/)
 - [Hirano & Stiglitz: Henry George, Land Speculation, and Economic Growth](/wiki/oxford-review-george-2025/) — Stiglitz's second major formal engagement with George's legacy, this time on the growth side rather than the revenue side this theorem addresses
 - [Yılmaz, Alkan & Teke: A Causal GeoAI Framework for the Unearned Increment](/wiki/yilmaz-alkan-teke-geoai-unearned-increment/) — a modern answer to the theorem's implicit calibration problem: sizing a self-financing levy before the value it captures exists
+- [Giesen: FDR's Self-Financing Highways Proposal](/wiki/giesen-fdr-self-financing-highways/) — a historical US case applying, then abandoning, the theorem's self-financing-infrastructure logic
 
 ## Sources
 

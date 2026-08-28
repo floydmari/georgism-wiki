@@ -83,6 +83,7 @@ incidence literature (Mieszkowski, Song & Zenou), most of which is US/UK-anchore
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/)
 - [Speculative Vacancy](/wiki/speculative-vacancy/)
 - [Mieszkowski: The Property Tax — An Excise Tax or a Profits Tax?](/wiki/mieszkowski-property-tax-incidence/)
+- [Han, Ngai & Sheedy: Transaction Taxes on Housing Markets](/wiki/han-ngai-sheedy-transaction-taxes-tenure/) — a second recurring-vs-transaction-tax contrast, this time via a real natural experiment (Toronto's 2008 Land Transfer Tax) rather than a DSGE model
 
 ## Sources
 

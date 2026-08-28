@@ -121,6 +121,7 @@ domains this instrument is proposed for, not to its resource-sector record.
 - [Geoism](/wiki/geoism/) — the umbrella program this instrument serves
 - [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/) — where captured resource rents go
 - [Objection: Homevoters will block LVT](/wiki/homevoters-will-block-lvt/) — the analogous political-economy problem
+- [Fox, Liscow & Love: How to Tax Business?](/wiki/fox-liscow-love-tax-business-rents/) — argues that once expensing leaves only economic rent in the base, complex partnership structures make that base "illegible" to enforcement unless taxed at the entity level
 
 ## Sources
 

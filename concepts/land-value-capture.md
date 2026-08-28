@@ -144,6 +144,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 - [McAllister: Developer or Land Owner Contributions?](/wiki/mcallister-developer-contributions-tpr/) — a taxonomy of England's developer-contribution instruments and their incidence
 - [Medda & Modelewska: Land Value Capture and the Warsaw Metro](/wiki/medda-modelewska-warsaw-metro/) — hedonic evidence that Warsaw metro access (built and merely planned) raised nearby house prices 6.7–7.1%, plus a comparative table of Helsinki, Copenhagen, Toronto, and Milan metro-financing schemes
 - [Fiorentino & Moogan: LVT and Urban Agglomeration Dynamics](/wiki/fiorentino-moogan-agglomeration/) — a Cambridge Land Economy model of how LVT interacts with agglomeration efficiency and equity
+- [Giesen: FDR's Self-Financing Highways Proposal](/wiki/giesen-fdr-self-financing-highways/) — a 1930s US federal case where excess-condemnation land value capture was proposed for highway finance, then abandoned on feasibility grounds
 
 - [Unearned Increment](/wiki/unearned-increment/) · [Taiwan](/wiki/taiwan/) · [Singapore](/wiki/singapore/)
 - [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — the empirical basis LVC mechanisms recover

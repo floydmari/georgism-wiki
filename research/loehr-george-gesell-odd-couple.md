@@ -55,6 +55,7 @@ cites, not how it uses or evaluates each source.
 ## See Also
 
 - [Silvio Gesell](/wiki/silvio-gesell/) — the wiki's new stub on Gesell, created alongside this page
+- [Loehr (2026): Private Land Ownership — Tax or Socialize?](/wiki/loehr-tax-or-socialize-land/) — Loehr's companion paper, narrowing this comparison into a concrete urban/peripheral policy hybrid
 - [Henry George](/wiki/henry-george/)
 - [Land Value Tax](/wiki/land-value-tax/) · [Economic Rent](/wiki/economic-rent/)
 - [Henry George Theorem](/wiki/henry-george-theorem/) — the infrastructure-self-financing idea the paper connects to modern LVT design

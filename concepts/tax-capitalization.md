@@ -83,6 +83,8 @@ The wiki carries the capitalization literature directly:
 - [Gaffney (1968): Land as an Element of Housing Costs](/wiki/gaffney-land-as-element-of-housing-costs/) — a near-contemporaneous, independently-derived capitalization result, published the year before Oates (1969)
 - [Outcome: Public investment capitalizes into nearby land values](/wiki/public-investment-capitalizes-into-land/) — the same mechanism applied to public-investment uplift
 - [Objection: Homevoters will never allow it](/wiki/homevoters-will-block-lvt/) — the political economy of capitalization
+- [Tubío-Sánchez & Reyes-Bueno: Ecuador LVT Capitalization](/wiki/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization/) — a 2026 Latin American capitalization estimate (~2.5% price fall per 1pp tax rate in Loja's urban core), the first outside the wiki's OECD case cluster
+- [Han, Ngai & Sheedy: Transaction Taxes on Housing Markets](/wiki/han-ngai-sheedy-transaction-taxes-tenure/) — the mirror-image case: a one-off transaction tax visibly distorts the own/rent decision in a way a capitalized recurring land tax does not
 
 ## Sources
 

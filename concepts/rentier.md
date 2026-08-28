@@ -81,6 +81,35 @@ account rather than a competing explanation of it. This page cannot independentl
 claims below the abstract level, since the full article was not accessible to this session
 (C-claim, theoretical/interpretive).
 
+### Smith and Wood: The Edges of Owner-Occupation
+
+A 2026 *Housing, Theory and Society* paper by **Susan J. Smith and Gavin A. Wood** applies
+the rentier-capitalism frame directly to housing tenure. Housing systems, they argue, have
+been reconfigured by "financialization, assetization and rentierization," with housing
+increasingly functioning "as a vehicle for generating rents and accumulating wealth" rather
+than simply as shelter. Their specific contribution is to interrogate the **"edges of
+owner-occupation"** — an expanding cross-tenure zone of housing precarity where owning and
+renting blur together — and to weigh two possible scenarios this precarity could produce:
+the emergence of **asset-class conflict** among home occupiers themselves, or a
+**confrontation between housing activism and rentier capitalism**. They treat these as two
+live possibilities rather than a settled prediction.[19]
+
+### Palma: A Ricardian Reading of the Neoliberal Era
+
+**José Gabriel Palma**'s 2026 *Review of Political Economy* paper — "Ricardo was Right:
+Unless One Can Enforce 'Productive' Behaviour from Rentiers, Sustainable Growth is not an
+Option," written as a tribute to Geoff Harcourt — applies classical Ricardian rent theory
+directly to the neoliberal era. Palma argues that "the 1980s neo-liberal reforms led the
+West — both developed and Latin America — to capitulate to rentiers at the worst possible
+time," producing a "neo-liberal trap" built around a "growth-retarding trilogy":
+market-inequality-augmenting, investment-weakening, and productivity-growth-retarding
+effects. His contrast case is emerging Asia, which he argues "was able to take these
+opportunities by redirecting rentiers' income towards socially desirable investment
+strategies" instead. The paper is explicitly Ricardian in structure — a direct modern echo
+of the classical prediction, covered elsewhere on this wiki at [stationary
+state](/wiki/stationary-state/), that rent absorbs the surplus of economic growth unless
+something actively prevents it.[20]
+
 ## The Contested Boundary of "Rent"
 
 The extension of the rentier concept beyond land to finance, intellectual property, and digital platforms is analytically coherent but empirically thinner than the land-specific case. As the wiki's [rentier economy narrative](/wiki/the-rentier-economy/) notes, there is no Rognlie-style decomposition showing that platform profit margins are predominantly network rent rather than genuine returns to scale, quality, or risk.[11]
@@ -128,3 +157,18 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 16. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*, Book III, ch. IV ("Of Spurious Capital and of Profits Often Mistaken for Interest") — used for the 1879 antecedent distinguishing monopoly-derived profit from ordinary capital income: the Buckingham gold-thread patent, and the railroad/telegraph concentrated-capital illustrations (C-claim; George's own argument, attributed; quotations verified verbatim against the repository's hosted full text). [Full hosted text](/wiki/progress-and-poverty-full-text/); see also [FIRE Sector](/wiki/fire-sector/), which covers this chapter's separate "spurious capital" (fictitious-capital) argument.
 17. Roshan Kishore, "Indian corporates are taking the rentier route to wealth," *Hindustan Times*, Number Theory column, published 30 July 2026. [hindustantimes.com](https://www.hindustantimes.com/editors-pick/indian-corporates-are-taking-the-rentier-route-to-wealth-number-theory-101785373651747.html) — article fetched and read 2026-08-14; used for the three-fold labour/capital/rentier ITR classification, the falling business-income vs. rising rentier-income share finding, the 142→576 ₹100-crore-earners figure (attributed in the column to a July 27 government answer to a parliament question), the CMIE Prowess industrial-sales finding, and the author's interpretive conclusions (B-claims for reported data; the classification scheme is the column's own). **Re-verification note (daily-loop quote audit, 2026-08-14):** `hindustantimes.com` is not reachable by this environment's fetcher, and web search on the headline returns results partly derived from this wiki's own page — circular, not independent confirmation. The article's existence, headline, outlet, and 30 July 2026 publication date were confirmed via a Google News RSS index entry; its body text could not be re-read. Two direct quotations previously carried here were therefore **downgraded to paraphrase** rather than left as unverifiable verbatim quotes — the substance is unchanged and remains attributed to Kishore. Channel: needs-unblocked-web if verbatim quotation is wanted.
 18. Ilan Kapoor (2026), "Entitlement, aspiration, and the spatial politics of exemption," *Environment and Planning D: Society and Space*, published online July 2026, DOI 10.1177/02637758261472243. [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/02637758261472243) — fetch blocked (403) to this session; summary drawn from search-engine-indexed abstract synthesis 2026-08-24, used for the entitlement/exemption psychoanalytic framing of rentier capitalism (C-claim; not independently verified against the paper itself).
+19. Susan J. Smith & Gavin A. Wood (2026), "The Edges of Owner-Occupation versus Rentier
+    Capitalism," *Housing, Theory and Society* 43(2): 125–147, DOI
+    10.1080/14036096.2025.2546307. Full abstract retrieved via Semantic Scholar 2026-08-28
+    — used for the financialization/assetization/rentierization framing, the "edges of
+    owner-occupation" concept, and the two-scenario (asset-class-conflict vs.
+    activism-vs-rentier-capitalism) argument (§"Smith and Wood" above) (A-claim for the
+    abstract; full text not read). [doi.org](https://doi.org/10.1080/14036096.2025.2546307)
+20. José Gabriel Palma (2026), "Ricardo was Right: Unless One Can Enforce 'Productive'
+    Behaviour from Rentiers, Sustainable Growth is not an Option," *Review of Political
+    Economy*, DOI 10.1080/09538259.2025.2533856. Full abstract retrieved via Semantic
+    Scholar 2026-08-28, corroborated against the author's Cambridge working-paper listing
+    (econ.cam.ac.uk/publications/cwpe/2553) — used for the "capitulate to rentiers" and
+    "neo-liberal trap" quotations and the emerging-Asia contrast (§"Palma" above) (A-claim
+    for the abstract; full text not read).
+    [doi.org](https://doi.org/10.1080/09538259.2025.2533856)
