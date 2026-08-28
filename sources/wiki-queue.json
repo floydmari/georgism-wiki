@@ -90,6 +90,159 @@
       "author": "research-scanner",
       "queued_at": "2026-08-28T10:02:14.288540+00:00",
       "reported": false
+    },
+    {
+      "url": "https://academic.oup.com/restud/article-abstract/93/4/2605/8293019",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper analyzing how transaction taxes affect housing markets, buy-to-rent ratios, and price-to-rent dynamics.",
+      "context": "To own or to rent? The effects of transaction taxes on housing markets \u2014 L Han, LR Ngai, KD Sheedy. Review of Economic Studies, 2026. Higher buy-to-rent transactions alongside lower buy-to-own transactions despite both being taxed, lower sales-to-leases ratio, and lower price-to-rent ratio.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2773067026000208",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper reinterpreting economic rent in the digital economy \u2014 agrarian land surpluses (Rent I), capital-intensive improvements (Rent II), and digital rent (Rent III).",
+      "context": "Digital Rent: From Natural Advantages to Data-Driven Surpluses in the Platform Economy \u2014 \u00dc \u00d6zdilek. Journal of Digital Economy, 2026. Historical approach to reinterpret economic rent \u2014 rent formation from agrarian land surpluses to digital rent in the platform economy.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6469682",
+      "source": "lvt-paper-scanner",
+      "reason": "Working paper modeling land rent as a feedback mechanism guiding economic agents toward land-use optimization, with implications for LVT theory.",
+      "context": "Land Rent and Technical Rent in a Dissipative Economy: New Foundations for the Labor Theory of Value \u2014 FG Pieniz. SSRN Working Paper, 2026. Rent acts as a feedback mechanism, guiding economic agents toward land\u2013labor allocation. Relative prices reflect ratio of labor times applied in the marginal framework.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jors.70063",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper empirically testing whether LVT curbs land prices, examining capitalization effects and spatial inequality in Ecuador.",
+      "context": "Do Land Value Taxes Curb Land Prices? Capitalization, Speculation, and Spatial Inequality in Loja, Ecuador \u2014 JM Tub\u00edo-S\u00e1nchez et al.. Journal of Regional Science, 2026. A tax rate falling on land value would, since the income from land is a pure economic rent, be absorbed by the land \u2014 testing this in Loja, Ecuador.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajes.70033",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper comparing George's land value taxation with Gesell's socialization principles for high-value urban land.",
+      "context": "Private Land Ownership: Tax or Socialize? \u2014 D Loehr. American Journal of Economics and Sociology, 2026. Argues for combining Gesell's socialization for high-value urban land and George's LVT for peripheral areas.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajes.70014",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on FDR's proposal to use land value taxation to capture economic rents from federally owned land along highway corridors.",
+      "context": "Self-Financing Highways: Franklin Roosevelt's Land Tax Proposal \u2014 D Giesen. American Journal of Economics and Sociology, 2026. Roosevelt saw land value taxation as an element in his progressive platform \u2014 using economic rents from federally owned land along highways.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206239",
+      "source": "lvt-paper-scanner",
+      "reason": "Working paper arguing that business taxation should target economic rents and discussing reforms to shift the tax base toward rent extraction.",
+      "context": "How to Tax Business? Economic Rents, Legibility, and the Corporate-Pass-Through Divide \u2014 EG Fox, ZD Liscow, M Love. SSRN Working Paper, 2026. Taxation better targets economic rents and acts as a necessary circuit breaker against administrative complexity.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11127-026-01386-6",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper examining the relationship between economic freedom and rent-seeking behavior across US states.",
+      "context": "Economic freedom and rent seeking: evidence from US states \u2014 FAMC D'Andrea et al.. Public Choice, 2026. Empirical evidence on how economic freedom affects rent-seeking across US states.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s00191-026-00979-0",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper rethinking the rent-seeking paradigm in the context of China's state-business relations.",
+      "context": "Symbiotic co-evolution: Toward an evolutionary political economy of state-business relations in China beyond the rent-seeking paradigm \u2014 M Wang. Journal of Evolutionary Economics, 2026. Evolutionary political economy of state-business relations in China beyond the rent-seeking paradigm.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/migrationinequality-debate-a-reassessment-through-rentseeking-theory/904AD731AAD15DE088EAA2B73FDF8FE6",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper reassessing the migration-inequality relationship through the lens of rent-seeking theory.",
+      "context": "The migration-inequality debate: a reassessment through rent-seeking theory \u2014 F Facchini, L Jaeck, H Kratou. Journal of Institutional Economics, 2026. Reassessment of the migration-inequality debate through rent-seeking theory.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/10630732.2025.2605620",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on rent-seeking in urban infrastructure, specifically digital urban screens.",
+      "context": "Rent Seeking and the City: The Case of Urban Screens \u2014 L Melga\u00e7o. Journal of Urban Technology, 2026. Rent-seeking behavior in the context of urban digital infrastructure.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0313592626000019",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on how short-term credit allocation affects rent-seeking tension in the banking sector.",
+      "context": "Impact of short-term credit allocation on the rent-seeking tension between banks and enterprises \u2014 L Xiaojing, W Qin, F Xianhui. Economic Analysis and Policy, 2026. Impact of short-term credit allocation on rent-seeking tension between banks and enterprises.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/23792949.2025.2557911",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on rentier capitalism, its connection to technofascism, and destruction of the commons.",
+      "context": "Rentier capitalism, technofascism and the destruction of the common \u2014 K Saito, R Sasaki. Area Development and Policy, 2026. Rentier capitalism, technofascism and the destruction of the common.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/14036096.2025.2546307",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on the tension between owner-occupation and rentier capitalism in housing.",
+      "context": "The edges of owner-occupation versus rentier capitalism \u2014 SJ Smith, GA Wood. Housing, Theory and Society, 2026. The edges of owner-occupation versus rentier capitalism.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/23792949.2025.2578770",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on algorithmic rent-seeking by corporate landlords and the financialization of housing.",
+      "context": "The New Urban Enclosures: Algorithmic Rent-Seeking, Corporate Landlordism, and the Financialization of Global Housing \u2014 E Sheppard. Area Development and Policy, 2026. Algorithmic rent-seeking, corporate landlordism, and the financialization of global housing.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/13563467.2025.2599183",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper on the rise of neo-feudal rent extraction and the shift from productive capitalism to rent-seeking.",
+      "context": "Capitalism is over, but the new is worse: reflections on rent, services, and capitalist feudalism \u2014 E Swyngedouw. New Political Economy, 2025. Reflections on rent, services, and capitalist feudalism.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/09538259.2025.2533856",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper arguing that without enforcing productive behavior from rentiers, sustainable growth is impossible \u2014 comparing emerging Asia's success with Western rentier dominance.",
+      "context": "Ricardo was Right: Unless One Can Enforce Productive Behaviour from Rentiers, Sustainable Growth is not an Option \u2014 JG Palma. Review of Political Economy, 2026. Unless one can enforce productive behaviour from rentiers, sustainable growth is not an option \u2014 while emerging Asia succeeded, the West did not.",
+      "author": null,
+      "queued_at": "2026-08-28T11:03:35.754830+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -2951,6 +3104,6 @@
       "disposition_reason": "New page research/forrester-property-rights-natural-resources.md \u2014 rigorous Georgist philosophy paper turning Nozick's forced-labor objection against private natural-resource ownership; fills a gap in existing Locke coverage."
     }
   ],
-  "last_updated": "2026-08-28T10:02:33Z",
-  "total": 10
+  "last_updated": "2026-08-28T11:10:00.000000+00:00",
+  "total": 27
 }
