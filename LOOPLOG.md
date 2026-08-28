@@ -4037,3 +4037,62 @@ Plus 12 excerpts trimmed under Ghost's 300-char cap and 2 bidirectional gaps clo
 
 948 pages, 0 errors. **Ghost sync skipped this wave** — the admin key lives under `/private/tmp`
 and its whole session directory is gone; 41 changed pages are pushed to git but not yet live.
+
+---
+
+## 2026-08-28 — 12th mirror-dup recurrence, properly recorded this time; a 17-item academic batch
+
+Two housekeeping fixes ahead of the batch. First, main had moved to a fresh scanner-triage
+commit adding 17 new academic items just as the queue was merged, so the merge resolution
+had to union three states at once (working branch's 10-mirror-dup drop, main's 17 new items,
+and the existing consumed ledger) rather than the usual two. Second, and more consequentially:
+reviewing the drop commits for recurrences 1–11 showed every one of them **deleted** the
+mirror-dup items outright instead of recording them in the consumed ledger — which is
+exactly why `clean_wiki_queue.py`'s exact-URL match against consumed could never catch their
+re-emission. This 12th recurrence is the first one recorded properly (`verdict: rejected`,
+full notes, in the ledger), so if the scanner re-emits these exact `blog.landeconomics.org`
+URLs again, the cleanup script should now catch them automatically without manual
+intervention — a real fix, not just another instance of the same workaround.
+
+The surviving 17-item batch (all genuinely new, no exact-URL duplicates against registry.csv)
+went through the full T0 pipeline, then three parallel T1 verification agents re-checked
+every item independently rather than trusting the brief. Two of those checks caught the
+batch's most interesting finding: **two of the scanner's queued URLs didn't match their own
+attached titles.** One queued as Eric Sheppard's "The New Urban Enclosures" — a title that
+doesn't exist anywhere, on any index — while its DOI independently and consistently resolves
+to a different, real Sheppard piece, "Rentiership, rent and (beyond) capitalist futures," a
+commentary in the same *Area Development and Policy* special issue as a different paper in
+this same batch (Saito & Sasaki). Another queued as Swyngedouw's "Capitalism Is Over, but
+the New Is Worse" under a *New Political Economy* DOI that actually belongs to an unrelated
+Chilean-economy paper by Ahumada et al.; Swyngedouw's real piece turned out to be a 2025
+Edward Elgar book chapter, tracked down separately. Both were cited under their *actual*
+content rather than the scanner's mismatched metadata, with the discrepancy documented in
+both the page sources and the queue ledger — the Ahumada et al. Chile paper itself is a
+serendipitous find, not yet reviewed, flagged for a future pass. A third near-miss: Özdilek's
+"Digital Rent" paper, which T0 flagged as new content, turned out to already be cited on
+`concepts/data-rents.md` since 2026-08-26 — the scanner re-surfacing its own prior find.
+
+Five new pages, the most substantive being **Han, Ngai & Sheedy's Toronto Land Transfer Tax
+study** (*Review of Economic Studies*) — full working-paper PDF read directly, a genuine
+natural experiment showing *why* a transaction tax pushes households from owning to renting
+even though both sides are taxed (owner-occupiers re-transact far more often than landlords,
+so the same rate falls harder on ownership in present-value terms). It isn't an LVT paper,
+but the paper's own literature review cites the Mirrlees and Henry Reviews recommending LVT
+over transaction taxes for exactly this reason — a strong contrast case rather than a
+tangent. Also new: the first empirical Latin American LVT capitalization study (Loja,
+Ecuador — confirms capitalization but also finds systematic underassessment of
+fast-appreciating areas undercutting the tax's equity promise); a companion piece to the
+wiki's existing Loehr/George/Gesell page, narrowing the comparison into a concrete
+tax-vs-socialize hybrid; a historical vignette on FDR's abandoned 1938 excess-condemnation
+highway-finance proposal; and a Yale/Michigan Law working paper on rent-based corporate
+taxation's "legibility" problem in complex partnership structures. Seven items were folded
+into existing pages as citations (rent-seeking, government-granted-privileges,
+technofeudalism ×3, rentier ×2) rather than given standalone pages. Five rejected: the two
+metadata-corrected items landed as accepts once their real content was found, but Özdilek
+(duplicate), an SSRN paper too thin to verify beyond fragments, and three "rent-seeking" hits
+that turned out to be public-choice/institutional-economics keyword collisions with no
+land-rent content at all.
+
+Lint 0 errors, 0 orphans, 965 pages. Queue ledger: 0 pending, 268 consumed. All 19 touched
+pages Ghost-synced (5 created, 14 updated); spot-checked `han-ngai-sheedy-transaction-taxes-tenure`
+live (200 after redirect).
