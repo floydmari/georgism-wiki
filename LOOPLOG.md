@@ -4096,3 +4096,61 @@ land-rent content at all.
 Lint 0 errors, 0 orphans, 965 pages. Queue ledger: 0 pending, 268 consumed. All 19 touched
 pages Ghost-synced (5 created, 14 updated); spot-checked `han-ngai-sheedy-transaction-taxes-tenure`
 live (200 after redirect).
+
+---
+
+## 2026-08-29 — a real dedup fix committed, and the largest single-day batch yet (12 new pages)
+
+Two housekeeping items before the batch. First, this pass's 18-item scanner commit re-queued
+Norris & Espinosa's technofeudalism refutation — already published — under a `journals.
+sagepub.com/doi/<doi>` URL, while the consumed ledger held it under `doi.org/<doi>`. Same DOI,
+different URL shape, invisible to exact-URL matching. Rather than filtering it by hand again
+(the pattern from all three prior duplicate-detection gaps this session: mirror slugs, NBER
+IDs, now DOI formats), `clean_wiki_queue.py` was generalized to normalize and match on DOI,
+slug, and NBER id, not just exact URL — and it caught this one automatically on its very first
+run. Second: the mirror-dup batch that recurred 12 times through 2026-08-28 did not resurface
+today at all, consistent with the ledger-recording fix from that pass actually working.
+
+The surviving 17-item batch produced this session's largest single-day output: **12 new
+pages**, all independently re-verified past the T0 brief by three parallel verification
+agents before drafting. Two verification upgrades stand out. First, a Copenhagen public-
+land-development paper T0 could only find bare metadata for (grading it D, "recommendation
+rests on topical fit alone") turned out to have a full public abstract sitting one scroll
+past the paywall gate on the live publisher page — T0 apparently stopped at the initial
+403/redirect. Re-fetching it directly surfaced the paper's actual argument (Copenhagen's
+state pursues "state monopoly rent" by consolidating all developable land under one entity),
+upgrading it to a confirmed new page rather than a defer. Second, a Toronto Metropolitan
+University report queued as "...Through the Lens of Smith, Ricardo, and **Marx**" doesn't
+exist under that title anywhere — the actual title says **Rawls**. RShare's own web interface
+was Cloudflare-blocked to every fetch method, including a Wayback Machine snapshot; the
+breakthrough was routing through Figshare's public API (RShare is a TMU-branded Figshare
+instance) to pull the real PDF directly and confirm the title correction plus the underlying
+"sovereign corporations" argument.
+
+Among the strongest new pages: a DSGE simulation (Hou, Kumhof & Shao) finding a 10-point LVT
+increase in China leaves GDP flat-to-rising while an equivalent income-tax increase costs 8%
+of GDP — read in full from a free CESifo mirror after SSRN itself blocked, with genuinely
+extensive direct engagement of Henry George and Gaffney in the paper's own lit review, not a
+token citation. A PolicyEngine UK microsimulation of replacing council tax with a 0.77–0.79%
+LVT, where the SSRN academic write-up's own headline figures turned out to differ subtly from
+the team's public blog dashboard (0.79%/£58.5bn/63-76% gaining vs. 0.77%/£57.6bn/68%) — both
+cited, attributed separately, not conflated. And a genuinely unusual argument channel for
+LVT this wiki hadn't seen before: national defense costs are borne universally while its
+benefit (territorial protection) accrues to landowners — sourced to a single truncated
+abstract paragraph with zero other footprint anywhere online, published as a short page that
+says exactly that about its own thinness rather than padding it out.
+
+Three items were folded into existing pages rather than given new ones: a Ukraine renewable-
+energy rent-seeking case study, an "Amazon isn't actually a monopoly" counter-case (Marxian
+"real competition" theory, a different tradition than this wiki's usual rent lens, added as
+a dissenting citation not a rebuttal), and a third commentary in the same *Area Development
+and Policy* special-issue exchange (Saito & Sasaki vs. Sheppard) this wiki started covering
+yesterday — Wainwright's piece argues the techno-feudalism hypothesis fails on political
+grounds specifically, a third independent axis of objection alongside the economic and
+labelling ones already on the page. Two rejected: an AI-infrastructure rent-seeking book
+chapter unverifiable beyond bare metadata after two independent attempts, and a Swiss
+resource-rent paper the scanner re-surfaced that the wiki already has a detailed page on.
+
+Lint 0 errors, 0 orphans, 977 pages. Queue ledger: 0 pending, 285 consumed. All 33 touched
+pages Ghost-synced (12 created, 21 updated); spot-checked `hou-kumhof-shao-china-lvt-simulation`
+live (200 after redirect).
