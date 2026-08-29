@@ -101,6 +101,7 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
 
 - [Australia](/wiki/australia/)
 - [Resource Rents](/wiki/resource-rents/)
+- [Nassios: Structural Limits to Resource Rent Taxation — Australia's LNG Industry](/wiki/nassios-australia-lng-prrt-structural-limits/) — a follow-up structural diagnosis of PRRT's LNG-sector shortfall and reform options
 - [Dwyer: The Taxable Capacity of Australian Land and Resources](/wiki/dwyer-taxable-capacity-australia/)
 - [Mintz & Chen: Capturing Economic Rents from Resources through Royalties and Taxes](/wiki/mintz-chen-capturing-resource-rents/)
 

@@ -34,6 +34,7 @@ The objection correctly identifies a real interaction effect — zoning caps blu
 
 - [Land value tax](/wiki/land-value-tax/) — the instrument this objection concerns
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) — the affordability channel the objection targets, already rated contested
+- [Bengtsson: Land Development Regulation and Housing Affordability](/wiki/bengtsson-land-regulation-rent-seeking/) — a public-choice account of why restrictive zoning persists politically, bearing directly on how hard "zoning reform first" actually is
 - [Glaeser & Gyourko: Housing Supply](/wiki/glaeser-gyourko-housing-supply/) — the regulation-constrained-supply research underlying the worry
 - [Speculative vacancy](/wiki/speculative-vacancy/) — the land-banking mechanism LVT is meant to discourage
 - [The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/) — the narrative this objection bears on

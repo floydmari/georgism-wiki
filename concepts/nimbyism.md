@@ -20,6 +20,8 @@ Mason Gaffney diagnosed the same shift from a land economist's vantage point jus
 ## See Also
 
 - [Objection: Homevoters will never allow it](/wiki/homevoters-will-block-lvt/) — the asset-protection theory of why homeowners, specifically, resist development and land value capture
+- [Törnberg: The City as an Anti-Growth Machine](/wiki/tornberg-anti-growth-machine/) — a named theoretical framework (inverting Logan & Molotch's "growth machine") for the mechanism this page documents
+- [Bengtsson: Land Development Regulation and Housing Affordability](/wiki/bengtsson-land-regulation-rent-seeking/) — a formal Tullock-style decomposition of who gains and loses from the regulation NIMBYism produces
 - [Glaeser & Gyourko: Housing Supply](/wiki/glaeser-gyourko-housing-supply/) — research linking land-use restriction to elevated urban land rents
 - [Rethinking the Economics of Land and Housing (book)](/wiki/rethinking-economics-land-housing/) — discovery source discussing homeowner resistance as a channel of land scarcity
 - [The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/) — the broader narrative NIMBYism feeds into

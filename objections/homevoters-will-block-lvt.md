@@ -98,6 +98,7 @@ afterthought.
 ## See Also
 
 - [NIMBYism](/wiki/nimbyism/) — the broader political phenomenon of local development resistance that the homevoter mechanism theorizes as asset-value protection
+- [Törnberg: The City as an Anti-Growth Machine](/wiki/tornberg-anti-growth-machine/) — a fuller theoretical account of why restricting supply is individually rational for asset-holding homevoters under financialized housing markets
 - [LVT transition wealth shock](/wiki/lvt-transition-wealth-shock/) · [Asset-rich, cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/)
 - [Detroit LVT proposal](/wiki/detroit-lvt-proposal/) · [Pittsburgh](/wiki/pittsburgh/)
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)

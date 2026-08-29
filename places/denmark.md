@@ -57,6 +57,7 @@ Denmark's 2007 municipal-boundary reform — which reshuffled grundskyld rates a
 
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Estonia](/wiki/estonia/) — a more complete national LVT implementation
+- [Anderson & Dascher: The Land Rent Dynamics of Public Land Development in Copenhagen](/wiki/anderson-dascher-copenhagen-land-rent/) — how Copenhagen's state land-development corporation model pursues "state monopoly rent," a complement to Denmark's grundskyld
 - [Harrisburg, Pennsylvania](/wiki/harrisburg-pennsylvania/) — US split-rate case study
 - [Tax Capitalization](/wiki/tax-capitalization/) — the general mechanism the 2007-reform studies test
 - [Land Taxes and Housing Prices (Danish Economic Councils, 2017)](/wiki/dors-land-taxes-housing-prices/) — finds full capitalization

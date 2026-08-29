@@ -42,6 +42,7 @@ The publisher-deposited reference list (Crossref, retrieved 2026-08-25) runs to 
 ## See Also
 
 - [Sun Yat-sen](/wiki/sun-yat-sen/) — the wiki's page on George's *directly attested* historical influence on Chinese land policy, via Sun and Taiwan
+- [Hou, Kumhof & Shao: LVT Simulation for China](/wiki/hou-kumhof-shao-china-lvt-simulation/) — the quantitative DSGE simulation this institutional/historical argument lacked, engaging George directly by name
 - [Li Dazhao](/wiki/li-dazhao/) — a third, still-less-direct Chinese connection: a thematic (not documented) parallel between George's ideas and the CCP co-founder's attention to rural poverty
 - [Xu: China's Land Finance as Active Mode of Land Development](/wiki/xu-china-land-finance-active-mode/) — a different Xu, on urban land finance rather than rural tenure, framed explicitly in Georgist terms
 - [Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash in 2015?](/wiki/gaffney-real-assets-model-china/) — the wiki's other China research page, addressing the property-cycle/banking mechanism rather than land tenure design

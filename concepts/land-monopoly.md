@@ -220,6 +220,7 @@ and Limits.)
 ## See Also
 
 - [Enclosure of the English Commons](/wiki/enclosure-movement/) — the historical event that created the private land market and landless wage class underlying land monopoly
+- [Anderson: The Commodification Gap and Cultural Monopoly Rent — Insights from Kyoto](/wiki/anderson-kyoto-cultural-monopoly-rent/) — a case where selective commodification, not simple concentration, is the mechanism of monopoly rent capture
 - [Scottish Highland Clearances (c. 1750–1860)](/wiki/highland-clearances/) — the major British historical episode of forced eviction by landholding lairds, a canonical instance of land monopoly's human cost
 - [James Harrington](/wiki/james-harrington/) — 17th-century political theorist whose Oceana (1656) argued that political power follows the distribution of land, a structural pre-Georgist ancestor of the land-monopoly concept
 - [Henry Miller (Cattle King of California)](/wiki/henry-miller-cattle-king/) — a 19th-century case study of land monopoly built through manipulation of federal land-grant laws

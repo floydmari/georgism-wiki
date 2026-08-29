@@ -209,6 +209,7 @@ one downstream symptom.
 ## See Also
 
 - [Gaffney (1976), Toward Full Employment with Limited Land and Capital](/wiki/gaffney-full-employment-limited-land/) — the earlier, fuller mathematical derivation of the K·T = F capital-turnover mechanism this paper uses
+- [Hou, Kumhof & Shao: LVT Simulation for China](/wiki/hou-kumhof-shao-china-lvt-simulation/) — a proposed tax-shifting remedy for the land-dependent growth model this paper's crisis mechanism describes
 - [Gaffney (1982), Causes of Downturns: an Austro-Georgist Synthesis](/wiki/gaffney-causes-of-downturns/) — the earlier, unpublished working-notes version of a similar land-price-to-credit-collapse sequence
 - [Gaffney, How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/) — the short-form statement of the capital-turnover/capital-destruction mechanism
 - [After the Crash: Designing a Depression-Free Economy (2009)](/wiki/gaffney-after-the-crash/) — Gaffney's book-length treatment this paper's model summarizes and extends to China

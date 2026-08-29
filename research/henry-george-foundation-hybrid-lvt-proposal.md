@@ -107,6 +107,7 @@ does not resolve empirically.
 
 - [Tax Policy Associates: What Would a Land Value Tax Actually Do?](/wiki/tpa-what-would-lvt-do/)
 - [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/)
+- [Ahmadi & Ghenis: Replacing Council Tax With a Land Value Tax](/wiki/ahmadi-ghenis-uk-council-tax-lvt-microsimulation/) — a distinct UK LVT design (PolicyEngine microsimulation) worth comparing against this hybrid proposal
 - [Welsh LVT Valuation Testing](/wiki/welsh-lvt-valuation-testing/)
 - [United Kingdom](/wiki/united-kingdom/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)

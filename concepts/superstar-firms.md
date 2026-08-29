@@ -67,6 +67,7 @@ growing rent extraction: the shift of national income away from labor.
 ## See Also
 
 - [Autor, Dorn, Katz, Patterson & Van Reenen — superstar firms](/wiki/autor-superstar-firms/) — the source paper, with full caveats
+- [Coppack: The Competition Paradox — Sovereign Corporations](/wiki/coppack-competition-paradox-sovereign-corporations/) — engages the same "is this rent or legitimate scale" question via Smith/Ricardo/Rawls rather than modern empirical markup literature
 - [De Loecker, Eeckhout & Unger (2020) — markups](/wiki/de-loecker-eeckhout-unger-markups/) · [The Great Reversal (Philippon)](/wiki/philippon-great-reversal/) — the market-power side
 - [Corporate profits are increasingly rents](/wiki/corporate-profits-increasingly-rents/) — the outcome this concept qualifies
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/)

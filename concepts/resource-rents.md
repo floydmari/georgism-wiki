@@ -251,6 +251,9 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 ## See Also
 
 - [OPEC](/wiki/opec/) — the largest real-world example of collective natural-resource rent capture, via production quotas rather than public taxation
+- [Nassios: Structural Limits to Resource Rent Taxation — Australia's LNG Industry](/wiki/nassios-australia-lng-prrt-structural-limits/) — a case where tax base design, not the statutory rate, determines how much rent is actually captured
+- [Tarras-Wahlberg & Uggla: A Golden Limit to Neo-Extractivism in Bolivia](/wiki/tarras-wahlberg-uggla-bolivia-gold-rent/) — a case where organized domestic political economy, not technical design, limits rent capture
+- [Amedanou, Laporte, Ouédraogo & Rouamba: Economic Sanctions and Taxation of Natural Resource Rent](/wiki/amedanou-laporte-sanctions-resource-rent-tax/) — how external geopolitical pressure shapes resource-tax policy
 - [Natural Asset Companies](/wiki/natural-asset-companies/) — NYSE/Intrinsic Exchange Group proposal to securitize ecosystem-service rents as tradable equity, withdrawn from SEC consideration in 2024
 - [DST incidence](/wiki/digital-services-tax-incidence/) — Cui–Hashimzade's framing of digital platform revenue as location-specific rent, royalty-style · [DSTs as actually implemented](/wiki/digital-services-taxes/) — the revenue collected and the stalled OECD Pillar One bargain
 

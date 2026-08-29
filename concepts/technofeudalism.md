@@ -62,6 +62,17 @@ approaches to rent theory, and shifting the lens from advanced-capitalist-nation
 capitalism can be read as **co-existing** rather than the former inevitably displacing the
 latter — a less deterministic future than Saito and Sasaki's own framing suggests.[8][9]
 
+A third commentary in the same special issue, **Joel Wainwright**'s "The techno-feudalism
+hypothesis is also wrong on political grounds," takes a different tack again: rather than
+directly engaging Saito and Sasaki's economic rent-theory argument, Wainwright argues the
+techno-feudalism hypothesis *also* fails on its own political-science terms — that whatever
+the correct economic description of platform power, "feudalism" does not describe
+contemporary politics compellingly either. It is a short, fast-tracked commentary (received
+and accepted within ten days) rather than a full paper, but it adds a third, independent axis
+of objection to the technofeudalism framing — economic (Norris & Espinosa), historical/
+labelling (Morozov), and now explicitly political (Wainwright) — alongside Saito and Sasaki's
+rival rent-theoretic account and Sheppard's less-deterministic response to it.[11]
+
 A related, independently-published piece reaches a similar diagnosis from outside the
 special issue: **Erik Swyngedouw**'s 2025 chapter "Capitalism Is Over, but the New Is Worse:
 Reflections on Rent, Services, and Capitalist Feudalism" (in *The Value of Place*, eds.
@@ -131,3 +142,12 @@ itself, not just between rent-skeptics and rent-proponents.
     et al. Chilean-economy paper is a separate, not-yet-reviewed find flagged for a future
     session.
     [doi.org (Elgar chapter)](https://doi.org/10.4337/9781035347926.00009)
+11. Joel Wainwright (2026), "The techno-feudalism hypothesis is also wrong on political
+    grounds," *Area Development and Policy* 11(1): 16–20, received 8 August 2025, accepted 18
+    August 2025, DOI 10.1080/23792949.2025.2557909. [doi.org](https://doi.org/10.1080/23792949.2025.2557909) —
+    fetch blocked (403) to this session 2026-08-29; Crossref confirmed the short (5-page),
+    fast-tracked commentary format and reference count (12), but no abstract field; content
+    drawn from a WebSearch-synthesized description — used for the "also wrong on political
+    grounds" companion response to Saito & Sasaki, in the same special issue (§"A 2026
+    Special-Issue Exchange" above) (C-claim; secondary description only, no primary-text
+    quotation obtained).

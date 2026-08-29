@@ -1,160 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223168",
-      "source": "lvt-paper-scanner",
-      "reason": "Develops a theoretical framework for LVT in China, where land wealth is 55% of net wealth. Simulates effects of a land asset value tax.",
-      "context": "The Potential and Utility of Land Value Taxation: A Theoretical Framework and Simulation for China — Y Hou, M Kumhof, S Lei. SSRN Working Paper, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7107758",
-      "source": "lvt-paper-scanner",
-      "reason": "Identifies a concrete case where land value taxes lose their canonical efficiency due to parcel improvements and spatial effects.",
-      "context": "Drawing the Line: The Spatial Non-Neutrality of Land Value Taxation — P Aldighieri. SSRN Working Paper, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7242479",
-      "source": "lvt-paper-scanner",
-      "reason": "Household-level microsimulation framework for replacing UK council tax (still on 1991 valuations) with LVT.",
-      "context": "Replacing Council Tax With a Land Value Tax: A Household-Level Microsimulation for the UK — V Ahmadi, M Ghenis. SSRN Working Paper, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6367198",
-      "source": "lvt-paper-scanner",
-      "reason": "Derives normative case for LVT from national defense cost-benefit asymmetry rather than efficiency arguments.",
-      "context": "Whose Land Do They Die For? The Cost-Benefit Asymmetry of National Defense and the Normative Case for Land Value Taxation — H Moon. SSRN Working Paper, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.sciencedirect.com/science/article/pii/S2214629625005584",
-      "source": "lvt-paper-scanner",
-      "reason": "Examines rent-seeking in Ukraines renewable energy development, with broader insights for energy transition governance.",
-      "context": "From public goals to private gains: Rent-seeking and corruption in the development of renewable energy — J Osicka, A Pushko. Energy Research & Social Science, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/9781003581581-6&type=chapterpdf",
-      "source": "lvt-paper-scanner",
-      "reason": "Investigates rent-seeking behavior of dominant AI infrastructure providers as a factor shaping digital sovereignty challenges.",
-      "context": "Rent-seeking in AI infrastructure: a structural threat to digital sovereignty and cybersecurity — M Kianpour, IM Windekilde. Taylor & Francis (book chapter), 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.70145",
-      "source": "lvt-paper-scanner",
-      "reason": "Analyzes how urban land and rentier capitalism create structural incentives for asset ownership and monopoly rent extraction.",
-      "context": "The City as an Anti-Growth Machine — P Tornberg. Antipode, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.13368",
-      "source": "lvt-paper-scanner",
-      "reason": "Examines cultural monopoly rent extraction by landowners in Kyoto, with implications for urban land theory.",
-      "context": "The commodification gap and the contradictory dynamics of cultural monopoly rent: Insights from Kyoto — MB Anderson. International Journal of Urban and Regional Research, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/04866134261415639",
-      "source": "lvt-paper-scanner",
-      "reason": "Challenges rentier capitalism framing of Amazon, distinguishing monopoly rent from competitive returns.",
-      "context": "Monopoly or competition? Unraveling the Amazon paradox — S Maher, S Aquanno. Review of Radical Political Economics, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/23792949.2025.2557909",
-      "source": "lvt-paper-scanner",
-      "reason": "Critiques techno-feudalism hypothesis on political grounds, arguing contemporary capitalism remains capitalist not feudal.",
-      "context": "The techno-feudalism hypothesis is also wrong on political grounds — J Wainwright. Area Development and Policy, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://rshare.library.torontomu.ca/ndownloader/files/65647782",
-      "source": "lvt-paper-scanner",
-      "reason": "Examines the tension between competition and monopoly, oligopoly, regulatory capture, and rent through classical political economy.",
-      "context": "The Competition Paradox: Markets, Rent, and Sovereign Corporations Through the Lens of Smith, Ricardo, and Marx — P Coppack. Toronto Metropolitan University (thesis), 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/01436597.2026.2661233",
-      "source": "lvt-paper-scanner",
-      "reason": "Analyzes whether Bolivias neo-extractive policies generalize rent-maximization across extractive sectors or face limits.",
-      "context": "A golden limit to neo-extractivism: policies and patterns of resource rent capture in Bolivia — H Tarras-Wahlberg, F Uggla. Third World Quarterly, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.70118",
-      "source": "lvt-paper-scanner",
-      "reason": "Examines how sanctioned countries adjust formal tax policy to capture resource rents amid sanctions.",
-      "context": "Economic sanctions and taxation of natural resource rent: Evidence from spatial analysis — I Amedanou, B Laporte, M Ouedraogo. The World Economy, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.copsmodels.com/ftp/workpapr/g-372.pdf",
-      "source": "lvt-paper-scanner",
-      "reason": "Analyzes structural limits to resource rent taxation using Australias LNG industry, examining why rent taxes fail to capture economic rents.",
-      "context": "Structural Limits to Resource Rent Taxation: Evidence from Australias LNG Industry — J Nassios. Centre of Policy Studies Working Paper G-372, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0921800925003040",
-      "source": "lvt-paper-scanner",
-      "reason": "Estimates total natural resource rents for Switzerland: CHF 78bn resource rent, CHF 167bn resource gain. Framework for measuring rent.",
-      "context": "Total rents from natural resources: Framework and preliminary estimates for Switzerland — F Schlapfer. Ecological Economics, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/02723638.2026.2682863",
-      "source": "lvt-paper-scanner",
-      "reason": "Examines land rent dynamics in Copenhagens public land development, with implications for housing affordability.",
-      "context": "The land rent dynamics of public land development in Copenhagen — MB Anderson, ED Dascher. Urban Geography, 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://lucris.lub.lu.se/ws/portalfiles/portal/246348875/Ingemar_Bengtsson_PCS_2026.pdf",
-      "source": "lvt-paper-scanner",
-      "reason": "Public choice perspective on how land-use regulation facilitates rent-seeking that harms housing affordability.",
-      "context": "Land Development Regulation and Housing Affordability: How Rent-Seeking Reallocates Resources — I Bengtsson. Lund University (working paper), 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-29T11:02:47.340683+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -3276,8 +3122,212 @@
       "wiki_page": "/wiki/rentier/",
       "triage_date": "2026-08-28",
       "notes": "Enrichment. Palma (2026), Review of Political Economy — Ricardian rent-vs-growth argument, 'neo-liberal trap' framing West/Latin America vs. emerging Asia. Full abstract confirmed via Semantic Scholar + Cambridge working-paper page. Added as new subsection + source 20 on concepts/rentier.md."
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223168",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The Potential and Utility of Land Value Taxation: A Theoretical Framework and Simulation for China — Y Hou, M Kumhof, S Lei. SSRN Working Paper, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/hou-kumhof-shao-china-lvt-simulation/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Hou, Kumhof & Shao (2026), CESifo WP 12476 — DSGE simulation of China LVT. Full 61-page text read via free CESifo mirror (A-claim). Extensive direct engagement with Henry George, Gaffney."
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7107758",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Drawing the Line: The Spatial Non-Neutrality of Land Value Taxation — P Aldighieri. SSRN Working Paper, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/aldighieri-spatial-nonneutrality-lvt/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Aldighieri (2026) SSRN — spatial spillover capitalization breaks LVT's Arnott-Stiglitz neutrality result; Cook County DiD evidence. Verbatim Crossref abstract (B-claim)."
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7242479",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Replacing Council Tax With a Land Value Tax: A Household-Level Microsimulation for the UK — V Ahmadi, M Ghenis. SSRN Working Paper, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/ahmadi-ghenis-uk-council-tax-lvt-microsimulation/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Ahmadi & Ghenis (2026) SSRN/PolicyEngine — UK council-tax-to-LVT microsimulation. Companion blog read in full (A-claim); SSRN abstract itself B-claim, two slightly different figure sets both cited and distinguished."
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6367198",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Whose Land Do They Die For? The Cost-Benefit Asymmetry of National Defense and the Normative Case for Land Value Taxation — H Moon. SSRN Working Paper, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/moon-national-defense-lvt-normative-case/",
+      "triage_date": "2026-08-29",
+      "notes": "New page (short, heavily hedged). Moon (2026) SSRN — national-defense cost-benefit-asymmetry normative case for LVT. Extremely thin sourcing: single truncated Crossref abstract paragraph, no author trace anywhere online (C-claim). Page explicitly flags this as the weakest-verified item in the batch."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214629625005584",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "From public goals to private gains: Rent-seeking and corruption in the development of renewable energy — J Osicka, A Pushko. Energy Research & Social Science, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/rent-seeking/",
+      "triage_date": "2026-08-29",
+      "notes": "Enrichment. Osicka & Pushko (2026) — Ukraine renewable-energy feed-in-tariff rent-seeking/corruption case study. Added as new subsection + source 9 on concepts/rent-seeking.md (C-claim, secondary description only)."
+    },
+    {
+      "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/9781003581581-6&type=chapterpdf",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Rent-seeking in AI infrastructure: a structural threat to digital sovereignty and cybersecurity — M Kianpour, IM Windekilde. Taylor & Francis (book chapter), 2026.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-29",
+      "notes": "REJECT — unverifiable. Kianpour & Windekilde, 'Rent-seeking in AI infrastructure' book chapter (Routledge). Publisher API returned 503, Semantic Scholar 404, no abstract or content found anywhere despite two independent attempts (T0 + this pass). Title/topic is plausibly relevant but nothing beyond bare Crossref metadata (title/authors/page range) could be confirmed; drafting from that would be speculation. Revisit if full-text access improves."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.70145",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The City as an Anti-Growth Machine — P Tornberg. Antipode, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/tornberg-anti-growth-machine/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Törnberg (2026), Antipode — 'anti-growth machine' inversion of Logan & Molotch. Full text read directly, CC-BY confirmed (A-claim)."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.13368",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The commodification gap and the contradictory dynamics of cultural monopoly rent: Insights from Kyoto — MB Anderson. International Journal of Urban and Regional Research, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/anderson-kyoto-cultural-monopoly-rent/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Anderson (2025), IJURR — Kyoto heritage tourism and cultural monopoly rent via selective (de)commodification. Full verbatim abstract + reference list read (B-claim)."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/04866134261415639",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Monopoly or competition? Unraveling the Amazon paradox — S Maher, S Aquanno. Review of Radical Political Economics, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/corporate-profits-increasingly-rents/",
+      "triage_date": "2026-08-29",
+      "notes": "Enrichment. Maher & Aquanno (2026) — 'Amazon paradox,' argues against reading Amazon as monopoly rent via Marxian 'real competition' theory. Added to problems/corporate-profits-increasingly-rents.md's Counter-Case section as source 10 (B-claim)."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/23792949.2025.2557909",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The techno-feudalism hypothesis is also wrong on political grounds — J Wainwright. Area Development and Policy, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/technofeudalism/",
+      "triage_date": "2026-08-29",
+      "notes": "Enrichment. Wainwright (2026) — 'techno-feudalism hypothesis is also wrong on political grounds,' third commentary in the same Area Development and Policy special issue as Saito & Sasaki / Sheppard (already covered 2026-08-28). Extended the existing 'A 2026 Special-Issue Exchange' section + added as source 11 (C-claim)."
+    },
+    {
+      "url": "https://rshare.library.torontomu.ca/ndownloader/files/65647782",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The Competition Paradox: Markets, Rent, and Sovereign Corporations Through the Lens of Smith, Ricardo, and Marx — P Coppack. Toronto Metropolitan University (thesis), 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/coppack-competition-paradox-sovereign-corporations/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Coppack (2026) self-published TMU RShare report — 'sovereign corporations' via Smith/Ricardo/Rawls. Scanner mislabeled title's third theorist as 'Marx'; actual title names Rawls, corrected on the wiki page. Full 50-page text read via Figshare API after RShare's own web interface proved inaccessible (A-claim). Rated Supplementary tier: self-published, not peer-reviewed."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01436597.2026.2661233",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "A golden limit to neo-extractivism: policies and patterns of resource rent capture in Bolivia — H Tarras-Wahlberg, F Uggla. Third World Quarterly, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/tarras-wahlberg-uggla-bolivia-gold-rent/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Tarras-Wahlberg & Uggla (2026), Third World Quarterly — Bolivia gold 'rent capture from below,' reversing the neo-extractivism pattern. CC-BY, well-corroborated abstract via OpenAlex + Uppsala DiVA repository record (B-claim; DiVA itself down this session)."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.70118",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Economic sanctions and taxation of natural resource rent: Evidence from spatial analysis — I Amedanou, B Laporte, M Ouedraogo. The World Economy, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/amedanou-laporte-sanctions-resource-rent-tax/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Amedanou, Laporte, Ouédraogo & Rouamba (2026), The World Economy — sanctions and resource-rent tax policy, Spatial Durbin Model. Verbatim abstract from two independent author-archived HAL/CERDI preprints (B-claim); scanner's author list corrected to include 4th author Rouamba."
+    },
+    {
+      "url": "https://www.copsmodels.com/ftp/workpapr/g-372.pdf",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Structural Limits to Resource Rent Taxation: Evidence from Australias LNG Industry — J Nassios. Centre of Policy Studies Working Paper G-372, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/nassios-australia-lng-prrt-structural-limits/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Nassios (2026), CoPS WP G-372 — structural limits to Australia's PRRT on LNG (transfer pricing + deduction deferral, not the rate). Full 33-page text read directly, independently confirmed twice (A-claim)."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0921800925003040",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Total rents from natural resources: Framework and preliminary estimates for Switzerland — F Schlapfer. Ecological Economics, 2026.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-29",
+      "notes": "REJECT — already covered. Schläpfer (2026), Swiss total resource rents (CHF 78bn/167bn/298bn figures) is already a detailed existing wiki page, research/schlaepfer-swiss-resource-rents.md (last reviewed 2026-08-10), built via OpenAlex/Crossref plus two independently read companion documents. Scanner re-surfaced its own prior find; no action needed beyond confirming the existing page is current."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/02723638.2026.2682863",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The land rent dynamics of public land development in Copenhagen — MB Anderson, ED Dascher. Urban Geography, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/anderson-dascher-copenhagen-land-rent/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Anderson & Dascher (2026), Urban Geography — Copenhagen public land development and 'state monopoly rent' via a single state-owned development entity. T0 initially graded this D (metadata only); independent re-verification found the full verbatim abstract on the live T&F page, upgrading to B-claim. Companion to the Kyoto paper (same lead author, same Bernt 2022 'commodification gap' framework)."
+    },
+    {
+      "url": "https://lucris.lub.lu.se/ws/portalfiles/portal/246348875/Ingemar_Bengtsson_PCS_2026.pdf",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Land Development Regulation and Housing Affordability: How Rent-Seeking Reallocates Resources — I Bengtsson. Lund University (working paper), 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/bengtsson-land-regulation-rent-seeking/",
+      "triage_date": "2026-08-29",
+      "notes": "New page. Bengtsson (2026), Lund/Public Choice Society conference draft — Tullock-style decomposition of land-use regulation's winners and losers. Full 21-page text read directly, independently confirmed twice (A-claim)."
     }
   ],
-  "total": 268,
-  "last_updated": "2026-08-29T11:02:47.340683+00:00"
+  "total": 285,
+  "last_updated": "2026-08-29"
 }

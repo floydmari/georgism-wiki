@@ -37,6 +37,7 @@ Burnham won the Makerfield by-election on 18 June 2026 with 54.8% of the vote, a
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) — the policy instrument at the centre of Burnham's 2026 campaign and premiership debate
+- [Ahmadi & Ghenis: Replacing Council Tax With a Land Value Tax](/wiki/ahmadi-ghenis-uk-council-tax-lvt-microsimulation/) — a quantitative microsimulation of exactly the reform Burnham's campaign has debated
 - [Labour Land Campaign](/wiki/labour-land-campaign/) — the UK advocacy body whose Chair, Murad Qureshi, wrote publicly urging Burnham toward LVT
 - [United Kingdom](/wiki/united-kingdom/) — the jurisdiction profile covering Britain's longer Georgist history, including the 1909 People's Budget
 - [Dave Wetzel](/wiki/dave-wetzel/) — an earlier Labour-aligned LVT campaigner within British transport and local-government politics

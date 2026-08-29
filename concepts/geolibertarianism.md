@@ -43,6 +43,7 @@ Geolibertarianism's practical force depends on land rent being large enough to f
 ## See Also
 
 - [Georgism](/wiki/georgism/) · [Land Value Tax](/wiki/land-value-tax/) · [Objection: the Austrian critique](/wiki/lvt-austrian-critique/) · [Objection: the search-theoretic critique](/wiki/search-theoretic-critique/)
+- [Moon: The Normative Case for LVT from National Defense](/wiki/moon-national-defense-lvt-normative-case/) — a related normative argument: public spending should be funded from the rents it makes possible, applied here to defense specifically
 - [Rhee, Fairness of Land Value Taxation: A Rawlsian Derivation](/wiki/rhee-rawlsian-lvt/) — a distinct, non-libertarian moral foundation for the same policy conclusion
 - [Fred Foldvary](/wiki/fred-foldvary/) — who coined the term
 - [Gochenour & Caplan, An Entrepreneurial Critique of Georgism](/wiki/gochenour-caplan-search-theoretic/) · [Foldvary's reply](/wiki/foldvary-reply-gochenour-caplan/) — the second Austrian challenge and its peer-reviewed answer

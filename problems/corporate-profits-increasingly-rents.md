@@ -45,6 +45,19 @@ The main rival reading is that measured profits reward genuine efficiency and in
 
 These are not fully exculpatory: rents on intangibles and network positions are still returns to scarcity and position rather than to marginal production, which is why parts of this literature (e.g., [Mazzucato, Ryan-Collins & Gouzoulis 2023](/wiki/mazzucato-mapping-rents/)) treat them as the modern frontier of rent analysis. But they mean the *size* of the pure-rent component is genuinely contested.
 
+A firm-specific counter-case: a 2026 *Review of Radical Political Economics* paper by
+**Stephen Maher and Scott Aquanno**, "Monopoly or competition? Unraveling the Amazon
+paradox," argues directly against reading Amazon's dominance as monopoly rent extraction —
+"Amazon does not exhibit the conventional signs of monopoly because it is not a monopoly."
+The authors propose a classical Marxian theory of "real competition" (rivalry intensified by
+scale and reinvestment rather than textbook perfect competition) as a more coherent account
+of Amazon's position than either standard monopoly-power framing or the wiki's own rent
+lens. This is a different theoretical tradition than the Georgist/mainstream-economics rent
+analysis this page otherwise draws on, and it is itself contested within its own literature,
+but it is a legitimate dissenting single-firm case worth flagging: not every large, dominant
+platform firm is a settled instance of rent extraction, and the Amazon case specifically
+remains argued both ways.
+
 A separate, short-run caution: [Bank of Canada staff analysis (Bouras, Bustamante, Guo & Short 2023)](/wiki/boc-firm-profits-inflation/) finds Canadian markup *growth* explained less than one-tenth of 2021 inflation and was near zero or negative by 2022 — evidence against attributing that specific inflationary episode to firms flexing market power. It is a timing test of markup *growth* in one episode, not a rebuttal of the long-run markup-*level* literature this page rests on, but it warns against stretching this page's claim into a "greedflation" story about any particular price surge.
 
 ## The Evidence in Detail
@@ -98,3 +111,9 @@ Henry George's analysis located unearned income in land; the modern rent literat
 7. David Autor, David Dorn, Lawrence Katz, Christina Patterson & John Van Reenen (2020), "The Fall of the Labor Share and the Rise of Superstar Firms," *QJE* 135(2). [NBER](https://www.nber.org/papers/w23396) — used for the winner-take-most efficiency counter-reading.
 8. Mariana Mazzucato, Josh Ryan-Collins & Giorgos Gouzoulis (2023), "Mapping Modern Economic Rents," *Cambridge Journal of Economics* (venue per the wiki's [research page](/wiki/mazzucato-mapping-rents/)). [UCL](https://discovery.ucl.ac.uk/id/eprint/10172018/1/bead013.pdf) — used for treating intangible/platform returns as the modern frontier of rent analysis.
 9. Laura Power & Austin Frerick (2016), "Have Excess Returns to Corporations Been Increasing Over Time?", *National Tax Journal* / Treasury OTA WP 111. [Treasury](https://home.treasury.gov/system/files/131/wp-111.pdf) — used for the tax-return decomposition of normal vs excess returns. Magnitudes verified against the Treasury PDF (abstract): the fraction of the C-corporation tax base attributable to the risk-free return "has gradually declined over time, averaging 40 percent from 1992–2002 and 25 percent from 2003–2013."
+10. Stephen Maher & Scott Aquanno (2026), "Monopoly or competition? Unraveling the Amazon
+    paradox," *Review of Radical Political Economics*, published online 5 March 2026, DOI
+    10.1177/04866134261415639. [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/04866134261415639) —
+    fetch blocked (403) to this session 2026-08-29; verbatim abstract obtained via the
+    Crossref API — used for the "real competition" counter-argument against reading Amazon
+    as a monopoly-rent case (§"The Counter-Case" above) (B-claim; abstract-level).

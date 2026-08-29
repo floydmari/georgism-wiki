@@ -110,6 +110,7 @@ Daly argues that the costs of depletion — "depletion, pollution, disruption of
 ## See Also
 
 - [Agrarian Justice (Paine, 1797) — full text](/wiki/agrarian-justice/) — the ground-rent obligation argued 82 years before George
+- [Anderson: The Commodification Gap and Cultural Monopoly Rent — Insights from Kyoto](/wiki/anderson-kyoto-cultural-monopoly-rent/) — extends ground-rent theory to heritage/cultural character as a publicly-created, privately-captured asset
 
 - [Economic Rent](/wiki/economic-rent/) — the general category ground rent belongs to
 - [Law of Rent](/wiki/law-of-rent/) — Ricardo's account of how ground rent is determined
