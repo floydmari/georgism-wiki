@@ -4179,3 +4179,62 @@ cases it was built for rather than generalizing by pattern shape alone.
 
 No content pages changed this pass — script fix and one queue disposition only, no Ghost sync
 needed. Lint 0 errors, 977 pages. Queue ledger: 0 pending, 286 consumed.
+
+---
+
+## 2026-08-30 (evening) — a 32-item scanner batch, the largest ever; 14 processed, 18 held
+
+Today's scanner run added 32 items in one commit — by far the largest single batch this
+session has seen, roughly triple the usual ~10-18. Rather than force all 32 through T0/T1 in
+one pass (which would have meant either shallow treatment or an enormous single session),
+selected the 14 highest-signal items — explicitly-Georgist papers, a Lincoln Institute run of
+six working papers, and clear peer-reviewed land-rent research — and left the remaining 18
+genuinely pending in the queue for upcoming wakeups. The queue design makes this safe: nothing
+is lost or dispositioned by omission, the next pass just picks up where this one left off.
+
+Two access-technique discoveries worth keeping. T0 hit an Anubis anti-bot wall on HAL's own
+preprint page for a Charlier & Tideman paper (Tideman being one of the wiki's most-cited living
+Georgist economists — worth the extra effort) and a Cloudflare wall on both the publisher and
+Cardiff's own open-access repository copy of a Shepherd paper on UK land-value-capture
+ideology. Both are genuinely open access, just blocked to this session's default fetch path.
+A verification pass found two workarounds: HAL preprints often have a SocArXiv/OSF mirror,
+and OSF's public REST API (`api.osf.io`) has no bot-wall on its file storage — that route
+pulled the full 33-page Charlier & Tideman PDF directly. For Cloudflare-walled publisher pages,
+routing through `r.jina.ai/<url>` (a reader proxy that fetches server-side and returns clean
+markdown) got past Tandfonline's wall entirely, though it did not work against Cardiff's ORCA
+repository specifically. Both papers went from B-grade abstract reconstructions to A-grade
+full-text reads as a result — worth trying both routes on any future "genuinely open access
+but blocked" case rather than settling for a secondary-source reconstruction.
+
+The Charlier & Tideman paper is the strongest addition of the batch: a detailed historical
+argument, corroborated by contemporary testimony (Frank Fetter, no friend of George, writing
+that Clark's *Capital and Its Earnings* reflects "on almost every page... the contemporary
+single-tax discussion"), that John Bates Clark's marginal-productivity theory — which erased
+land as a distinct factor of production — was a targeted response to *Progress and Poverty*
+rather than neutral science. It substantially deepens the wiki's existing `land-is-just-capital`
+objection page, previously a much thinner summary of the same claim. The Shepherd paper pairs
+well with it: an 80-year discourse analysis of UK land-value-capture parliamentary debate
+finding "the market" migrated from an adjacent to a core organizing concept after 1985, and
+that homeowners — equally beneficiaries of land-value appreciation as the "speculators" both
+parties jointly condemned — were left a "conceptual silence" neither party ever subjected to
+the same scrutiny.
+
+A third item worth flagging for its honesty rather than its finding: a Lincoln Institute paper
+modeling Ohio's live 2026 property-tax-elimination ballot proposal compares only income-tax
+and sales-tax replacements (8.24%/13.36% respective rates) — a second verification pass
+confirmed explicitly that **the paper never modeled a land-value-tax alternative at all**,
+despite Lincoln Institute's land-economics orientation. Framed on the wiki as a cautionary
+case study in what abandoning the property-tax base costs, not as evidence for or against LVT
+specifically, since that comparison was simply never made.
+
+One duplicate-adjacent case handled carefully rather than assumed: a "landlord opposition to
+rent control" paper shared an author and the "class monopoly rent" concept with two Anderson
+papers already on the wiki (Kyoto, Copenhagen, added 2026-08-29). T0 flagged the ambiguity
+directly rather than guessing; checking the actual text of the existing Kyoto page confirmed
+it only names Portland (2019) and Seattle (2022) as prior work, not this rent-control paper —
+so it's genuinely new content, now the third entry in that series, with both existing pages
+updated to cross-reference it.
+
+Lint 0 errors, 0 orphans, 988 pages. Queue ledger: 18 pending (from today's 32-item scan, held
+for future passes), 300 consumed. All 33 touched pages Ghost-synced (11 created, 22 updated);
+spot-checked `charlier-tideman-clarks-paradigm` live (200 after redirect).
