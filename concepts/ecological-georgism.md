@@ -39,6 +39,7 @@ Gaffney's own resolution routes the problem back to land rather than to a clever
 ## See Also
 
 - [Geoism](/wiki/geoism/) — the umbrella scope
+- [Williams: Nature, Rent and the Persistence of Inequality — A Georgist Political Ecology](/wiki/williams-georgist-political-ecology/) — argues Georgist rent theory should be foundational to political ecology as a discipline
 
 - [Barnes — Who Owns the Sky? (sky trust)](/wiki/barnes-sky-trust/)
 

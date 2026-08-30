@@ -44,6 +44,7 @@ The objection is **partially valid and important, not a refutation of the land-r
 
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/)
 - [Objection: Land capture didn't make housing cheap (Singapore/Hong Kong)](/wiki/land-capture-didnt-make-housing-cheap/)
+- [Alvarez & Biderman: Market Power in Housing Markets](/wiki/lincoln-sao-paulo-market-power-housing/) — a complication for pure supply-restriction stories: developer market power in constrained markets may blunt the price effect of deregulation alone
 - [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
 - [Glaeser and Gyourko: The Economic Implications of Housing Supply](/wiki/glaeser-gyourko-housing-supply/)
 - [Saiz: The Geographic Determinants of Housing Supply](/wiki/saiz-housing-supply-elasticity/)

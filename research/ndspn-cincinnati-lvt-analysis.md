@@ -261,6 +261,7 @@ new independent evidence.
 ## See Also
 
 - [Miller & Hoskins — College-Town LVT Shift Simulations (South Bend, IN and Princeton, NJ)](/wiki/miller-hoskins-college-town-lvt/) — the same SPN/CLE partnership's two prior reports
+- [Walczak: Replacing the Irreplaceable — Ohio Property Tax Revenue Alternatives](/wiki/lincoln-ohio-property-tax-alternatives/) — a useful counterpoint: quantifies Ohio's income/sales-tax replacement options for property tax elimination without ever modeling an LVT alternative
 - [Center for Land Economics](/wiki/center-for-land-economics/) — the report's partner organization
 - [Oates & Schwab (1997): The Pittsburgh Experience](/wiki/oates-schwab-pittsburgh/) · [Pittsburgh, Pennsylvania](/wiki/pittsburgh/) · [Pennsylvania](/wiki/pennsylvania/)
 - [New South Wales](/wiki/new-south-wales/) · [Australia](/wiki/australia/)

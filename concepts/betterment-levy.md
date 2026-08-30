@@ -97,6 +97,8 @@ Betterment levies in various forms exist or have existed in several countries be
 ## See Also
 
 - [Valorization Tax (Contribución de Valorización)](/wiki/valorization-tax/) — Colombia's version of the betterment levy, in continuous use in Bogotá since the 1950s-60s
+- [Shepherd: The Ideological Morphology of Land Value Capture](/wiki/shepherd-ideological-morphology-lvc/) — a political-theory account of the contested concepts (value, property, community) underlying the UK's repeated betterment-levy enact-and-repeal cycle
+- [K'Akumu: The Principles of Land Value Capture in the Perspective of Georgist Political Economy](/wiki/kakumu-lvc-georgist-political-economy/) — draws the conceptual distinction between site-value taxation and betterment-family instruments like this one
 - [Prosper Australia](/wiki/prosper-australia/) — the Melbourne organisation whose decades of advocacy the WGT's 2023 passage is credited with vindicating
 - [Land Value Capture](/wiki/land-value-capture/) — the broader family of instruments this levy belongs to
 - [Land Value Tax](/wiki/land-value-tax/) — the recurrent alternative to event-based betterment charges

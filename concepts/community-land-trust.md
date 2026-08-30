@@ -97,6 +97,16 @@ Howard emphasized that no single element was novel — communal land ownership, 
 
 See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
+## Conservation Land Trusts Moving Into Housing
+
+A 2026 Lincoln Institute of Land Policy working paper by **Steve Rosenberg** documents a
+related but distinct trend: **conservation land trusts** — a broader category than CLTs,
+traditionally focused on preserving open space and farmland rather than housing
+affordability — increasingly branching into affordable-housing support, under a
+"community-centered conservation" framing. The paper documents obstacles that complicate this
+pivot and some successful initiatives, though without the depth of case detail this page's
+other sources carry.[4]
+
 ## See Also
 
 - [Garden City Movement](/wiki/garden-city-movement/) — the trustee-held Garden City land model the CLT descends from
@@ -120,3 +130,10 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
    International Center for Community Land Trusts and Swann biography this session).
    [cltweb.org — New Communities](https://www.cltweb.org/resources/clt-case-studies/new-communities/)
 3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II, XI — used for the communal land ownership model as CLT precursor (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)
+4. Steve Rosenberg (2026), "Why Land Trusts Are Taking Steps to Support Affordable Housing,"
+   Lincoln Institute of Land Policy Working Paper, 19 pp., published June 2026.
+   [lincolninst.edu](https://www.lincolninst.edu/publication/working-papers/why-land-trusts-are-taking-steps-to-support-affordable-housing/) —
+   fetched directly 2026-08-30 (not paywalled) — used for the conservation-land-trust
+   pivot toward affordable housing (§"Conservation Land Trusts Moving Into Housing" above)
+   (C-claim; the fetched landing page did not surface a detailed abstract, specific
+   findings, or conclusions beyond high-level framing).

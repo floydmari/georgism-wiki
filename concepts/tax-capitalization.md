@@ -76,6 +76,7 @@ The wiki carries the capitalization literature directly:
 ## See Also
 
 - [Capitalization Rate](/wiki/capitalization-rate/) — the stock-to-flow (price ÷ rent) conversion factor used to turn land selling-value estimates into annual rent estimates, central to LVT revenue debates
+- [McCanless: Constructing Public Rent — Property Tax Appeals and Rentier Capitalism](/wiki/mccanless-property-tax-appeals-rentier/) — a channel by which sophisticated owners lower their effective assessed value through unequal appeals access
 - [Aldighieri: The Spatial Non-Neutrality of Land Value Taxation](/wiki/aldighieri-spatial-nonneutrality-lvt/) — a technical qualification: when spillovers capitalize across parcel boundaries, LVT stops being neutral
 - [Borge & Rattsø (2014), Capitalization of Property Taxes in Norway](/wiki/borge-rattso-norway-capitalization/) — Norwegian evidence of near-full capitalization, extending the pass-through evidence base beyond Denmark and Germany
 - [Enterprise Zones](/wiki/enterprise-zones/) — 1980s UK tax-and-rates subsidy zones as a policy case of the capitalization mechanism, with the Isle of Dogs' tenfold land-value rise as documented evidence

@@ -33,6 +33,7 @@ Cohen & Coughlin (2005) is candid about the difficulties, drawing on Edwin Mills
 ## See Also
 
 - [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) — the canonical theory of why grading the tax toward land raises building intensity
+- [Walczak: Replacing the Irreplaceable — Ohio Property Tax Revenue Alternatives](/wiki/lincoln-ohio-property-tax-alternatives/) — a cautionary quantification of the cost of abandoning the property tax base for income/consumption taxes instead of shifting it toward land
 
 - [Land Value Tax](/wiki/land-value-tax/) · [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) · [Pittsburgh](/wiki/pittsburgh/)
 - [Detroit Land Value Tax Proposal (2023–24)](/wiki/detroit-lvt-proposal/) — a recent attempt to bring split-rate taxation to a major US city outside Pennsylvania

@@ -128,6 +128,10 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 
 - [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — the early American land-value-financed infrastructure experiment
+- [Shepherd: The Ideological Morphology of Land Value Capture](/wiki/shepherd-ideological-morphology-lvc/) — a political-theory account of why UK LVC policy has cycled between active and passive state roles for 80 years
+- [Alvarez & Biderman: Market Power in Housing Markets](/wiki/lincoln-sao-paulo-market-power-housing/) — uses a São Paulo LVC instrument's own rate-schedule kinks to measure builder market power
+- [Turkienicz: Synchronous TDR Credits](/wiki/lincoln-synchronous-tdr-credits/) — the wiki's first dedicated coverage of Transferable Development Rights as an LVC instrument
+- [K'Akumu: The Principles of Land Value Capture in the Perspective of Georgist Political Economy](/wiki/kakumu-lvc-georgist-political-economy/) — a unifying taxonomy distinguishing Georgist site-value taxation from non-Georgist betterment strategies
 - [Netherlands](/wiki/netherlands/) — municipal 'active land policy' (land acquisition, servicing, and resale/lease) as a non-tax model of land value capture, alongside near-universal developer obligations
 - [London](/wiki/london/) — case study: TfL/GLA found the Jubilee Line Extension, DLR, and North London Line produced 52%, 23%, and 6% land value uplifts respectively, mostly uncaptured by the public
 - [New Towns Act 1946](/wiki/new-towns-act-1946/) — the UK program that built 32 new towns on land bought at agricultural prices, capturing the planning-driven uplift to fund development

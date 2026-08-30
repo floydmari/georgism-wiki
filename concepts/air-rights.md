@@ -16,6 +16,7 @@ For the Georgist wiki, air rights are worth noting as a real-world demonstration
 ## See Also
 
 - [Land Value Capture](/wiki/land-value-capture/) — public mechanisms for capturing location value, of which air-rights markets are a private-market cousin
+- [Turkienicz: Synchronous TDR Credits](/wiki/lincoln-synchronous-tdr-credits/) — a closely related mechanism (separable, tradable development value) that moves rights between parcels rather than selling them outright above a single site
 - [Betterment Levy](/wiki/betterment-levy/) — a public charge on value uplift, contrasted with the private sale of development rights
 - [Site Value](/wiki/site-value/) — the underlying concept that air rights trade a piece of
 - [Harrison, *The Power in the Land*](/wiki/harrison-power-in-the-land/) — the source discussing the Tiffany's air-rights sale

@@ -207,6 +207,7 @@ economics, unresolved by the 2025 literature this page cites.
 ## See Also
 
 - [John Bates Clark](/wiki/john-bates-clark/) — the economist whose theory made the conflation explicit
+- [Charlier & Tideman: Henry George and Clark's Paradigm](/wiki/charlier-tideman-clarks-paradigm/) — a full historical case that Clark's theory was a deliberate, targeted response to George rather than neutral science
 - [Philip Wicksteed](/wiki/philip-wicksteed/) — a fellow marginalist who did not make the same move
 - [Neo-classical Economics as a Stratagem Against Henry George](/wiki/gaffney-neoclassical-stratagem/) — the contested political history
 - [Revisiting Land, Labor, and Capital in Neoclassical Economics (Missemer & Pottier)](/wiki/missemer-pottier-land-labor-capital/) — the 2025 peer-reviewed reassessment

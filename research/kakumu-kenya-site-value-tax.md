@@ -64,6 +64,7 @@ question raised just below.
 - [Franzsen & McCluskey (2017): Property Tax in Africa](/wiki/franzsen-mccluskey-property-tax-africa/) — the administrative companion to this paper's historical account, covering Kenya's present-day valuation and collection practice
 - [Andelson: Land Value Taxation Around the World](/wiki/andelson-lvt-around-the-world/) — the wiki's comparative international-diffusion source, into which this Kenyan case now feeds
 - [Land Value Tax](/wiki/land-value-tax/)
+- [K'Akumu: The Principles of Land Value Capture in the Perspective of Georgist Political Economy](/wiki/kakumu-lvc-georgist-political-economy/) — the same author's foundational taxonomic review, extending this case study into a general framework
 
 ## Sources
 

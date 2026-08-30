@@ -97,6 +97,7 @@ the wiki's existing capitalization and assessment-quality caveats.
 - [Public Land Leasing](/wiki/public-land-leasing/)
 - [Land Value Capture](/wiki/land-value-capture/)
 - [Anderson: The Commodification Gap and Cultural Monopoly Rent — Insights from Kyoto](/wiki/anderson-kyoto-cultural-monopoly-rent/)
+- [Anderson, Zickefoose, Andrie & Newton: Landlord Opposition to Rent Control and the Politics of Class Monopoly Rent](/wiki/anderson-landlord-rent-control-class-monopoly/) — a third entry in the same series, on US landlord political rhetoric rather than urban development
 - [Land Banking](/wiki/land-banking/)
 
 ## Sources

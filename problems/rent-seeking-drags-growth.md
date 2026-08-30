@@ -117,6 +117,21 @@ This section is the reason the claim is graded Moderate rather than Strong.
   [corporate-rents](/wiki/corporate-profits-increasingly-rents/) material. The growth
   cost of rent-seeking cannot be bigger than the rent-seeking actually identified.
 
+## A Formal Counterpoint: Monopolization Can Raise the Growth Rate
+
+Not every formal model in this literature points the same direction. A 2025 *De Economist*
+paper by **Ben J. Heijdra and Pim Heijnen** builds an overlapping-generations model driven by
+human-capital accumulation, introducing monopolization as a rent source and modeling
+heterogeneous agents who can invest either in human capital or in rent-capturing ability.
+Their headline result, in their own words: "monopolization increases the growth rate. The
+effect of rent-seeking on growth is ambiguous, but it increases wealth inequality." Although
+some highly capable rent-seekers fully abandon productive labor in the model, the aggregate
+resources wasted on rent-seeking turn out to be small, and growth barely drops. This is a
+general (non-land-specific) formal-theory result, not an empirical estimate, and it does not
+overturn this page's mainstream anchors — but it is a useful, honest complication: even within
+formal rent-seeking theory, the growth-rate effect of rent-seeking itself is not settled,
+though the inequality effect is robust across the model's parameter space.[9]
+
 ## A Historical Illustration: Leverage and Political Mobilization in Farm Programs
 
 Mason Gaffney's 1967 essay "The Benefits of Farm Programs" offers a specific,
@@ -232,3 +247,11 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
    summary](/wiki/gaffney-corporate-power-military/) — used for the military-spending
    rent-seeking illustration (D-claim, historical-narrative argument, illustration
    only).
+9. Ben J. Heijdra & Pim Heijnen (2025), "Rent-Seeking, Capital Accumulation, and
+   Macroeconomic Growth," *De Economist* 173(3): 475–518 (originally circulated as CESifo
+   WP 10771, 2023). [Springer](https://link.springer.com/article/10.1007/s10645-025-09456-8) —
+   publisher page redirected to a login wall; verbatim abstract obtained via the Crossref
+   API — used for the OLG monopolization/rent-seeking model and the "monopolization
+   increases the growth rate... ambiguous [rent-seeking] effect... increases wealth
+   inequality" quotation (§"A Formal Counterpoint" above) (B-claim; abstract-level, full
+   model and proofs not read).

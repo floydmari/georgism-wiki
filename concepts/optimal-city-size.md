@@ -62,6 +62,7 @@ The practical caveats identified by Arnott (2004) and the provisional, indirect 
 
 - [Henry George Theorem](/wiki/henry-george-theorem/)
 - [Agglomeration Economies](/wiki/agglomeration-economies/)
+- [Webster, Chen, Zhang, Chau & Ren: City-Size Tax, Henry George and Urban Scaling](/wiki/webster-city-size-tax-henry-george/) — extends single-city optimal-size theory into a national-scale, urban-scaling-law-calibrated tax design
 - [Arnott & Stiglitz (1979): Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size](/wiki/arnott-stiglitz-henry-george-theorem/)
 - [Does the Henry George Theorem Provide a Practical Guide to Optimal City Size? (Arnott 2004)](/wiki/arnott-hgt-practical-guide/)
 - [Agglomeration Economies and a Test for Optimal City Sizes in Japan (Kanemoto et al. 1996)](/wiki/kanemoto-ohkawara-suzuki-optimal-city-size/)

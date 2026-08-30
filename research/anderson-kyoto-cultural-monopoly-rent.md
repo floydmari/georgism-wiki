@@ -83,6 +83,7 @@ companion study by the same author on Copenhagen's public land development (see 
 - [Land Monopoly](/wiki/land-monopoly/)
 - [Rentier](/wiki/rentier/)
 - [Anderson & Dascher: The Land Rent Dynamics of Public Land Development in Copenhagen](/wiki/anderson-dascher-copenhagen-land-rent/)
+- [Anderson, Zickefoose, Andrie & Newton: Landlord Opposition to Rent Control and the Politics of Class Monopoly Rent](/wiki/anderson-landlord-rent-control-class-monopoly/) — a third entry in the same series, on US landlord political rhetoric rather than urban development
 
 ## Sources
 

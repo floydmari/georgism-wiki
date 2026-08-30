@@ -19,6 +19,18 @@ Under active land policy, a Dutch municipality "acquire[s] and retain[s] land in
 
 Separately, Dutch municipalities in nearly all cases charge **developer obligations** (*exploitatiebijdrage*/*exploitatieplan*, under the 2016 *Omgevingswet*, the Environmental and Planning Act) to recoup the infrastructure costs new development imposes. Around 95% of these are voluntary agreements in which developers provide land, public space, and roads directly rather than cash; if social housing is part of the obligation, the units must be built on-site and are typically owned and operated long-term by non-profit housing associations.[1]
 
+## The 2024 Environment and Planning Act
+
+A 2026 Lincoln Institute working paper by **Pieter Jong and Fred Hobma** documents how the
+**Environment and Planning Act (Omgevingswet)**, in force since 2024, restructured the legal
+mechanisms described above. The Act governs value-increase recovery from land development
+through **four primary mechanisms**: land sales proceeds and ground rent payments (used when
+municipalities own the land, as in active land policy), and private agreements or
+regulatory requirements embedded in environmental permits (used when developers hold the
+property). The paper frames this as a formal consolidation and update of the prior 2008
+Spatial Planning Act's provisions, with parliamentary proposals under discussion for further
+strengthening cost-recovery instruments.[3]
+
 ## Comparative Context
 
 Josh Ryan-Collins, Toby Lloyd, and Laurie Macfarlane's *[Rethinking the Economics of Land and Housing](/wiki/ryan-collins-rethinking-land-housing/)* (2017) discusses the Netherlands' land-pooling approach (Ch. 4 §4.5, Ch. 7 §7.2) as a comparator to the UK's more passive, developer-led land system, associating it with new homes built larger, on average, than equivalent UK new-builds — though the book's own evidentiary focus is the UK, and this comparison should be read as illustrative rather than a controlled cross-country estimate.
@@ -34,3 +46,11 @@ Josh Ryan-Collins, Toby Lloyd, and Laurie Macfarlane's *[Rethinking the Economic
 
 1. OECD & Lincoln Institute of Land Policy, *Global Compendium of Land Value Capture Policies* (2022), country profile: "Netherlands," pp. 177–179. [PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/06/global-compendium-of-land-value-capture-policies_64f3c257/4f9559ee-en.pdf) — used for the mechanics of active municipal land policy, its legal basis, the developer-obligation regime, and the four-city public-leasing detail (quotes ≤50 words, verified against the PDF text this session).
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, London: Zed Books, Ch. 4 §4.5, Ch. 7 §7.2 — discovery source; cites the Netherlands for municipal land pooling and comparatively larger new-build homes than the UK.
+3. Pieter Jong & Fred Hobma (2026), "A Brief Commentary on Value Capture under the New
+   Environment and Planning Act of the Netherlands," Lincoln Institute of Land Policy
+   Working Paper, published June 2026.
+   [lincolninst.edu](https://www.lincolninst.edu/publications/working-papers/brief-commentary-value-capture-new-environment-and-planning-act-netherlands/) —
+   fetched and read directly 2026-08-30 (not paywalled) — used for the post-2024
+   Omgevingswet four-mechanism framework and the transition from the 2008 Spatial Planning
+   Act (§"The 2024 Environment and Planning Act" above) (A-claim; working-paper page read
+   directly).

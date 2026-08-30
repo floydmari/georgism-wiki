@@ -26,6 +26,7 @@ Tideman bridges the Georgist tradition and rigorous modern economics — he is t
 ## See Also
 
 - [Open Letter to Gorbachev (1990)](/wiki/open-letter-to-gorbachev/) — the letter he organized
+- [Charlier & Tideman: Henry George and Clark's Paradigm](/wiki/charlier-tideman-clarks-paradigm/) — a 2025 co-authored historical case for why Clark's theory erased land from mainstream economics
 - [Taxation and the Losses of Nations (Tideman & Plassmann, 1998)](/wiki/tideman-plassmann-losses-of-nations/) — the G7 deadweight-loss calculation
 - [The Avoidable Excess Burden of Broad-Based U.S. Taxes (2002)](/wiki/tideman-avoidable-excess-burden/) — the independent CGE quantification behind ATCOR/EBCOR
 - [Henry George Theorem](/wiki/henry-george-theorem/) — his own practical-preconditions explainer of the theorem is cited in this page's "Practical Application" section
