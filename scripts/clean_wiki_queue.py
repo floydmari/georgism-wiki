@@ -33,7 +33,13 @@ import re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUEUE = os.path.join(ROOT, "sources", "wiki-queue.json")
 
-SLUG_RE = re.compile(r"/p/([a-z0-9-]+)")
+# Scoped to the two known Substack-style mirror domains only. A bare `/p/<slug>`
+# pattern matched against *any* domain is too broad — it false-matched on 2026-08-30
+# against app.notion.com/p/<workspace>/<Page-Title>, where `/p/` denotes a Notion
+# workspace shared by many unrelated pages, not a per-post slug the way Substack
+# uses it. Never widen this beyond domains actually confirmed to mirror each other.
+MIRROR_DOMAINS = r"(?:blog\.landeconomics\.org|progressandpoverty\.substack\.com)"
+SLUG_RE = re.compile(MIRROR_DOMAINS + r"/p/([a-z0-9-]+)")
 NBER_RES = [re.compile(r"10\.3386/(w\d+)"), re.compile(r"nber\.org/papers/(w\d+)")]
 DOI_RES = [
     re.compile(r"doi\.org/(10\.\d{4,9}/\S+)", re.I),
