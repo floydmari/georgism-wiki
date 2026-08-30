@@ -4154,3 +4154,28 @@ resource-rent paper the scanner re-surfaced that the wiki already has a detailed
 Lint 0 errors, 0 orphans, 977 pages. Queue ledger: 0 pending, 285 consumed. All 33 touched
 pages Ghost-synced (12 created, 21 updated); spot-checked `hou-kumhof-shao-china-lvt-simulation`
 live (200 after redirect).
+
+---
+
+## 2026-08-30 — the mirror-slug dedup fix from two days ago caught a false positive
+
+Two quiet passes, then today's scanner batch (one item) surfaced a real bug in Friday's
+generalization of `clean_wiki_queue.py`: the mirror-slug matcher used a bare `/p/<slug>`
+pattern against *any* domain, and today's single new item —
+`app.notion.com/p/ubiworks/Victoria-Vancouver-Meetups-Q4-2026` — got dropped as a "duplicate"
+of an unrelated, already-rejected Notion page that happened to sit under the same
+`/p/ubiworks/` path (`app.notion.com/p/ubiworks/Robert-Inman-Wharton-Prof-LVT`). Notion's URL
+shape isn't like Substack's: `/p/<workspace>/<Page-Title>` puts a *shared workspace name* — not
+a per-post slug — in the position the matcher assumed was unique. Scoped the regex to the two
+domains it was actually built for (`blog.landeconomics.org`, `progressandpoverty.substack.com`)
+rather than any host with a `/p/` path, restored the wrongly-dropped item, and re-ran the
+corrected script clean. On its own merits the item was still a reject — internal Slack-sourced
+notes on courting BC Conservative politicians for LVT advocacy, not a citable source — but it
+needed to be *seen* and dispositioned properly rather than silently eaten by an overbroad
+pattern match. Worth remembering: every dedup heuristic this session has added started from a
+real false-negative (something that should have matched and didn't) — this is the first case
+of the opposite failure mode, and a reminder to scope pattern-based matching to the specific
+cases it was built for rather than generalizing by pattern shape alone.
+
+No content pages changed this pass — script fix and one queue disposition only, no Ghost sync
+needed. Lint 0 errors, 977 pages. Queue ledger: 0 pending, 286 consumed.
