@@ -130,6 +130,7 @@ The theoretical case for Pigouvian taxation — that charging for externalities 
 - [Citizen's Dividend](/wiki/citizens-dividend/) — distributing captured rent equally to all citizens
 - [Land Value Tax](/wiki/land-value-tax/) — the Georgist policy that shares the efficiency-correcting property with Pigouvian taxes
 - [Pigou on Taxing Land Values, Windfalls, and Increments](/wiki/pigou-land-taxation/) — the same author's direct treatment of land taxation in *The Economics of Welfare* (1920): he grants the LVT efficiency case and then bounds it on equity grounds
+- [Desrochers & Smith: Rent-Seeking and the Meatpacking Industry](/wiki/desrochers-smith-meatpacking-rent-seeking/) — a historical case arguing competitive markets, not regulation, drove a 19th-century environmental improvement, a direct counterpoint to the standard case for corrective taxation
 
 ## Sources
 

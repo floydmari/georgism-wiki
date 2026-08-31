@@ -61,6 +61,25 @@ creation. This is general corporate-finance rent-seeking theory, not land-specif
 supplies a modern mechanism — technological improvement in the *tools* of rent-seeking, not
 just in production — worth adding alongside this page's classical Tullock/Krueger framing.
 
+## A Historical Case: Dismantling an Efficiency Gain
+
+Rent-seeking is usually framed as resources diverted *toward* capturing a rent rather than
+producing wealth. A 2026 *Small Business Economics* paper by **Pierre Desrochers and Andrew
+Smith** documents a case where rent-seeking went further: it actively **dismantled** an
+already-existing efficiency gain. Large, vertically integrated Chicago meatpackers of the
+1880s cut beef and pork prices "typically on the order of 30 to 40%" by monetizing waste
+(blood, offal) into soap, glue, fertilizer, and lubricants — turning pollution into
+by-product revenue. Smaller, less efficient rival packers, organized as the Butchers
+National Protective Association, spent decades lobbying against this system, framing their
+campaign as public-health regulation; it culminated in a 1920 antitrust consent decree
+forcing vertical disintegration of the large packers. The authors' causal claim: "this
+rent-seeking behavior by one coalition of entrepreneurs then results in state interventions
+that undermine... the institutional arrangements that other entrepreneurs developed to
+create wealth out of waste." It is a useful complement to this page's classical
+Tullock/Krueger framing of rent-seeking as wasted competitive expenditure: here, the waste is
+the destruction of an existing productive arrangement, not merely the cost of competing for
+one.
+
 ## Tax-Design Implications
 
 Two public-finance papers extend rent-seeking theory into optimal-tax design. [Rothschild & Scheuer (2011)](/wiki/rothschild-scheuer-rent-seeking/) show that when part of top incomes reflects rent extraction rather than production, higher marginal tax rates on those incomes can be efficient — discouraging the wasteful activity without sacrificing genuine output. [Kaplow (2019)](/wiki/kaplow-market-power/) is a more cautious counterpoint: modelling market power and profit dissipation directly, he finds standard optimal-tax and competition-policy prescriptions survive largely intact once the income tax is allowed to do the redistributive work — a caution against assuming that identifying a rent, by itself, licenses more aggressive taxation of the sector it appears in.
@@ -77,6 +96,8 @@ Two public-finance papers extend rent-seeking theory into optimal-tax design. [R
 - [FIRE Sector](/wiki/fire-sector/)
 
 - [Economic Rent](/wiki/economic-rent/) · [Land Monopoly](/wiki/land-monopoly/) · [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/)
+
+- [Desrochers & Smith: Rent-Seeking and the Meatpacking Industry](/wiki/desrochers-smith-meatpacking-rent-seeking/) — a historical case where rent-seeking dismantled, rather than merely diverted resources around, an existing efficiency and environmental gain
 
 ## Sources
 
@@ -103,3 +124,10 @@ Two public-finance papers extend rent-seeking theory into optimal-tax design. [R
     page — used for the surplus-creating/surplus-appropriating allocation model and the
     technology-induced-reallocation finding (§"Technology and the Allocation Toward
     Rent-Seeking" above) (B-claim; abstract-level, full model not read).
+11. Pierre Desrochers & Andrew Smith (2026), "Does rent-seeking entrepreneurship hurt the
+    environment? Historical insights from the US meatpacking industry," *Small Business
+    Economics*, open access (CC-BY 4.0).
+    [link.springer.com](https://link.springer.com/article/10.1007/s11187-026-01241-4) — used
+    for the Chicago by-product-innovation case, the 30-40% price-decline figure, and the 1920
+    antitrust consent-decree sequence (§"A Historical Case" above). [wiki
+    summary](/wiki/desrochers-smith-meatpacking-rent-seeking/)
