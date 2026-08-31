@@ -4238,3 +4238,53 @@ updated to cross-reference it.
 Lint 0 errors, 0 orphans, 988 pages. Queue ledger: 18 pending (from today's 32-item scan, held
 for future passes), 300 consumed. All 33 touched pages Ghost-synced (11 created, 22 updated);
 spot-checked `charlier-tideman-clarks-paradigm` live (200 after redirect).
+
+---
+
+## 2026-08-31 — the 18 held-over items, cleared; four more full-text upgrades via reader-proxy
+
+Cleared the 18 items held from yesterday's 32-item scan, bringing that whole batch to zero
+pending across the two passes. Two rounds of parallel verification agents, eight items each,
+turned four more abstract-level B-grade briefs into full-text A-grade reads: a Sydney "value
+switching" paper (via UNSW's institutional repository), a RealPage algorithmic-rent-fixing
+paper and an Indonesian land-banking paper (both MDPI — genuinely open access, but blocked to
+this session's default fetch path on both direct and `/pdf`-suffix URLs; the `r.jina.ai/<url>`
+reader-proxy route got past the block on both), and a Utrecht planning-theory preprint (via an
+alternate repository URL pattern, `/ws/files/...` instead of the blocked `/files/...`). Worth
+keeping all three routes — OSF's API, the alternate `/ws/files/` repository pattern, and the
+jina reader-proxy — in mind for any future "confirmed open access but blocked anyway" case,
+which has now come up in three of the last four passes.
+
+The Utrecht paper (Nielsen, Buitelaar & van den Hurk) is this pass's standout: 21 numbered
+principles drawn substantially from *Progress and Poverty* itself, organizing a genuinely new
+theoretical move for the wiki — arguing LVT isn't merely an efficient or equitable tax, but
+the paradigm case of a *type* of good institutional design (a Hayekian "anticipatory framework
+rule" that prevents harm using only principle-level knowledge, contrasted with zoning's
+"patterning rules" that overprescribe specific outcomes and rent control's "reactive rules"
+that respond to visible symptoms without addressing causes). The paper is admirably honest
+about its own gaps — ATCOR/EBCOR still "largely empirically unexplored," LVT's distributional
+findings genuinely mixed — and that honesty was preserved rather than smoothed over.
+
+The Sydney "value switching" paper needed a careful editorial call rather than a straight
+accept: its own abstract frames itself as an alternative to rent theory, but reading the full
+text shows the authors explicitly disclaim that framing ("the 'rent' and 'value' gap notions
+are not incompatible, but neither are they the same") — the honest summary is that it's a
+genuine extension for a specific case (planning-triggered speculation), not a rejection, and
+the wiki page says so rather than repeating the more dramatic abstract-only framing. Its
+transaction data is some of the starkest unearned-increment evidence on the wiki either way: a
+Randwick site sold for A$290 million one month after a rezoning approval, most of the site
+originally acquired for a small fraction of that.
+
+A fourth Matthew B. Anderson "class monopoly rent" paper surfaced in this batch (RealPage's
+algorithmic rent-setting software) — now four entries in that series, all cross-linked to each
+other. Seven items rejected this pass, four of them a specific, now-familiar pattern:
+public-choice/institutional-economics papers using "rent-seeking" for bureaucratic or
+regulatory friction rather than land rent, a keyword collision this session has learned to
+spot on sight from the journal (Public Choice, China Economic Review) and topic (environmental
+regulation, small-business survival) alone, cross-checked against title conventions rather
+than full text every time content proved unobtainable behind a wall.
+
+Lint 0 errors, 0 orphans, 996 pages. Queue ledger: 0 pending — the 32-item batch from
+2026-08-30 is now fully cleared — 318 consumed. All 24 touched pages Ghost-synced (8 created,
+16 updated); spot-checked `nielsen-buitelaar-spatial-planning-anticipatory-rules` live (200
+after redirect).
