@@ -162,6 +162,7 @@ caveats a fair reader should know:
 ## See Also
 
 - [Choi & Sjoquist (2015)](/wiki/choi-sjoquist-atlanta-lvt-cge/) — an Atlanta-calibrated CGE simulation finding full capitalization onto landowners under fixed boundaries plus a progressive welfare gain across income groups (model evidence; full findings on its dedicated page, part of the [site-value GE simulations cluster](/wiki/site-value-ge-simulations/))
+- [Karp: Private Government at Home — Landlord Power and Rental Residential Domination](/wiki/karp-landlord-private-government/) — a political-theory register on the same landlord-tenant relationship this page treats through tax-incidence economics
 - [Buettner (2003): Tiebout Visits Germany](/wiki/buettner-german-land-tax-capitalization/) — German municipal-level evidence that variation in local land tax rates capitalizes into land prices without raising rents.
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/) · [Tax Capitalization](/wiki/tax-capitalization/)
 - [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/) · [Zodrow (2001)](/wiki/zodrow-three-views/) — the theory

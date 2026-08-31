@@ -47,6 +47,20 @@ subsidy rather than land rent specifically, but it illustrates the same underlyi
 this page documents: wherever government creates a valuable, scarce entitlement, resources
 will be spent competing to capture it rather than to produce.
 
+## Technology and the Allocation Toward Rent-Seeking
+
+A 2025 *Review of Financial Studies* paper by **Vincent Glode and Guillermo Ordoñez** models
+how firms allocate resources between "surplus-creating (i.e., productive) and
+surplus-appropriating (i.e., rent-seeking) activities." Their central prediction: industry-wide
+technological advances — the paper's example is recent progress in data collection and
+processing — induce "a disproportionate and socially inefficient reallocation of resources
+toward surplus-appropriating activities." In other words, better technology does not
+automatically translate into more genuine production; it can just as easily make rent-seeking
+itself more efficient, tilting firms' internal resource allocation toward capture rather than
+creation. This is general corporate-finance rent-seeking theory, not land-specific, but it
+supplies a modern mechanism — technological improvement in the *tools* of rent-seeking, not
+just in production — worth adding alongside this page's classical Tullock/Krueger framing.
+
 ## Tax-Design Implications
 
 Two public-finance papers extend rent-seeking theory into optimal-tax design. [Rothschild & Scheuer (2011)](/wiki/rothschild-scheuer-rent-seeking/) show that when part of top incomes reflects rent extraction rather than production, higher marginal tax rates on those incomes can be efficient — discouraging the wasteful activity without sacrificing genuine output. [Kaplow (2019)](/wiki/kaplow-market-power/) is a more cautious counterpoint: modelling market power and profit dissipation directly, he finds standard optimal-tax and competition-policy prescriptions survive largely intact once the income tax is allowed to do the redistributive work — a caution against assuming that identifying a rent, by itself, licenses more aggressive taxation of the sector it appears in.
@@ -81,3 +95,11 @@ Two public-finance papers extend rent-seeking theory into optimal-tax design. [R
    paraphrase (no verbatim abstract obtained), used for the Ukraine renewable-energy
    feed-in-tariff subsidy-capture case (§"A Case Study" above) (C-claim; secondary
    description only, not independently verified against the paper itself).
+10. Vincent Glode & Guillermo Ordoñez (2025), "Technological Progress and Rent Seeking," *The
+    Review of Financial Studies* 38(4): 1259–1289, DOI 10.1093/rfs/hhae031 (also circulated
+    as NBER Working Paper w32359).
+    [academic.oup.com](https://academic.oup.com/rfs/article-abstract/38/4/1259/7717356) —
+    partial abstract obtained directly; full quotation confirmed via the NBER working-paper
+    page — used for the surplus-creating/surplus-appropriating allocation model and the
+    technology-induced-reallocation finding (§"Technology and the Allocation Toward
+    Rent-Seeking" above) (B-claim; abstract-level, full model not read).

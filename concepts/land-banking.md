@@ -25,6 +25,7 @@ Harrison's account treats Stockholm's land bank as a partial success at best: de
 
 - [Public Land Leasing](/wiki/public-land-leasing/) — the related but distinct strategy of retaining public title and leasing rather than taxing
 - [Ortiz Beleño, Alvayay Torrejón & Paredes: Measuring Land Value Increments — Detroit Auction Program](/wiki/lincoln-detroit-land-value-increments/) — direct evidence on whether a public land-disposition program raises neighboring values
+- [Rahmawati, Samsura & van der Krabben: Public Land Policies and Private-Sector Housing Development in Indonesia](/wiki/rahmawati-indonesia-land-banking-housing/) — a governance case showing how discretionary enforcement can undercut a land-banking instrument's public-interest intent
 - [Land Value Tax](/wiki/land-value-tax/) — the recurring-flow alternative to one-off land purchase or lease capture
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the speculative cycle Harrison judges Stockholm's land bank did not neutralise
 - [The Power in the Land (book)](/wiki/harrison-power-in-the-land/) — the discovery source for this page

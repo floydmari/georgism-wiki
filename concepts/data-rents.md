@@ -122,6 +122,7 @@ land's defining fixed-supply scarcity.
 ## See Also
 
 - [Virtual Land and Metaverse Real Estate](/wiki/virtual-land/) — a further, more speculative test case: does location-based rent appear even when scarcity is coded rather than natural?
+- [Reisman, Fairbairn & Kish: Agrarian Platform Capitalism](/wiki/reisman-fairbairn-kish-agrarian-platform-capitalism/) — extends platform-rent theory into agriculture, where digital rentiership meets farmland financialization
 - [Technofeudalism and Siren Servers](/wiki/technofeudalism/) — the polemical feudal-landlord framing of platform dominance (Lanier's "siren servers," Varoufakis's "cloud rent"), a contested narrative extension of this page's core rent question
 - [Data as Labor](/wiki/data-as-labor/) — the leading redistribution proposal for platform/data rents: compensating users as producers of the data platforms use
 - [Korinek–Stiglitz: AI and income distribution](/wiki/korinek-stiglitz-ai-rents/) — the AI-rents theory (non-reproducible factors absorb the gains; taxing them is non-distortionary) · [DMA interoperability](/wiki/dma-interoperability-dissolution/) — the dissolve pole as legislated

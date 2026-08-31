@@ -84,6 +84,7 @@ companion study by the same author on Copenhagen's public land development (see 
 - [Rentier](/wiki/rentier/)
 - [Anderson & Dascher: The Land Rent Dynamics of Public Land Development in Copenhagen](/wiki/anderson-dascher-copenhagen-land-rent/)
 - [Anderson, Zickefoose, Andrie & Newton: Landlord Opposition to Rent Control and the Politics of Class Monopoly Rent](/wiki/anderson-landlord-rent-control-class-monopoly/) — a third entry in the same series, on US landlord political rhetoric rather than urban development
+- [Zimmerman & Anderson: Nefarious Algorithms — RealPage and Class Monopoly Rent](/wiki/zimmerman-anderson-realpage-algorithmic-rent/) — a fourth entry, extending the concept to algorithmic rent-fixing software
 
 ## Sources
 

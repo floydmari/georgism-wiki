@@ -128,6 +128,9 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 
 - [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — the early American land-value-financed infrastructure experiment
+- [Sampat: The Rentier Economy of Growth Infrastructures in India](/wiki/sampat-india-rentier-growth-infrastructure/) — a cautionary case where value capture by capital outpaces actual infrastructure delivery
+- [Troy, Randolph & Pinnegar: Value Switching — Extracting Profit from the City](/wiki/troy-randolph-pinnegar-value-switching/) — Sydney evidence of hundred-million-dollar value uplifts triggered by rezoning decisions alone
+- [Liu & Zhu: Contested Rent-Based Urban Governance in China](/wiki/liu-zhu-china-scalar-rent-politics/) — even public capture of land rent raises live governance questions about which government tier captures it
 - [Shepherd: The Ideological Morphology of Land Value Capture](/wiki/shepherd-ideological-morphology-lvc/) — a political-theory account of why UK LVC policy has cycled between active and passive state roles for 80 years
 - [Alvarez & Biderman: Market Power in Housing Markets](/wiki/lincoln-sao-paulo-market-power-housing/) — uses a São Paulo LVC instrument's own rate-schedule kinks to measure builder market power
 - [Turkienicz: Synchronous TDR Credits](/wiki/lincoln-synchronous-tdr-credits/) — the wiki's first dedicated coverage of Transferable Development Rights as an LVC instrument

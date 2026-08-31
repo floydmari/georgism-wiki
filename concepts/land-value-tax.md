@@ -112,6 +112,7 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 ## See Also
 
 - [Canons of Taxation](/wiki/canons-of-taxation/) — how LVT scores against Smith's four maxims and George's four conditions
+- [Nielsen, Buitelaar & van den Hurk: Spatial Planning as Eliminating Land Rents](/wiki/nielsen-buitelaar-spatial-planning-anticipatory-rules/) — a planning-theory argument that LVT is the paradigm case of a preventive "anticipatory framework rule"
 - [Ramin Shokrizade](/wiki/ramin-shokrizade/) — game economist who independently re-derived a land-value-tax-style holding fee to fix EVE Online's virtual land speculation, without prior knowledge of Georgist theory
 - [Veil of Secrecy over Land Ownership and Values](/wiki/land-ownership-secrecy/) — Harrison's account of systematic suppression of land ownership and price data as a standing obstacle to assessment and rent capture
 - [Physiocrats](/wiki/physiocrats/) — the *produit net* / *impôt unique* forerunners of land-value taxation

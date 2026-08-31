@@ -73,6 +73,17 @@ of objection to the technofeudalism framing — economic (Norris & Espinosa), hi
 labelling (Morozov), and now explicitly political (Wainwright) — alongside Saito and Sasaki's
 rival rent-theoretic account and Sheppard's less-deterministic response to it.[11]
 
+A fourth, independent line of critique comes from sociology: **Nicholas Gane**'s "Capitalism
+is capitalism, not technofeudalism" (*Journal of Classical Sociology*, 2025) argues, in a
+different register from Morozov's "still ordinary capitalist production" claim, that
+capitalism has mutated into new configurations that operate beyond nation-state control
+rather than being genuinely supplanted by feudalism's return. Gane also identifies a specific
+internal contradiction in Varoufakis's own proposed remedy: Varoufakis advocates
+consumer-driven market disruption as a corrective, while simultaneously arguing markets are
+no longer central to how technofeudalism actually operates — a tension Gane reads as
+undermining the coherence of the technofeudalism framework's own prescriptive half, not just
+its diagnostic half.[12]
+
 A related, independently-published piece reaches a similar diagnosis from outside the
 special issue: **Erik Swyngedouw**'s 2025 chapter "Capitalism Is Over, but the New Is Worse:
 Reflections on Rent, Services, and Capitalist Feudalism" (in *The Value of Place*, eds.
@@ -151,3 +162,10 @@ itself, not just between rent-skeptics and rent-proponents.
     grounds" companion response to Saito & Sasaki, in the same special issue (§"A 2026
     Special-Issue Exchange" above) (C-claim; secondary description only, no primary-text
     quotation obtained).
+12. Nicholas Gane (2025), "Capitalism is capitalism, not technofeudalism," *Journal of
+    Classical Sociology*, DOI 10.1177/1468795X241269293.
+    [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/1468795X241269293) —
+    publisher page returned only template content to this session 2026-08-31; verbatim
+    abstract obtained via the Crossref API — used for the mutated-beyond-the-nation-state
+    argument and the internal-contradiction critique of Varoufakis's proposed remedy (§"A
+    2026 Special-Issue Exchange" above) (B-claim; abstract-level, full text not read).

@@ -107,6 +107,19 @@ affordability — increasingly branching into affordable-housing support, under 
 pivot and some successful initiatives, though without the depth of case detail this page's
 other sources carry.[4]
 
+## ACME: Redirecting Land Rent to Artists in London
+
+A 2026 paper by **Michael Lithgow and Karen Wall** (Athabasca University) examines **ACME**,
+England's largest provider of permanent affordable artist studios (800+ artists across 15
+buildings, founded 1972), as a smaller-scale, single-institution analogue to the CLT model:
+by holding studio space outside the speculative market, ACME redirects what would otherwise
+be captured land rent toward subsidized space for artists. The paper's title explicitly
+invokes Henry George's "land rent" concept, and examines a documented tension in the model —
+artists whose presence raises a neighborhood's cultural value can eventually find themselves
+priced out of that same value they helped create, echoing the wiki's [land-monopoly](/wiki/land-monopoly/)
+and gentrification coverage. No abstract for this paper could be located beyond title-level
+detail, so its specific findings are not independently verified here.[5]
+
 ## See Also
 
 - [Garden City Movement](/wiki/garden-city-movement/) — the trustee-held Garden City land model the CLT descends from
@@ -137,3 +150,11 @@ other sources carry.[4]
    pivot toward affordable housing (§"Conservation Land Trusts Moving Into Housing" above)
    (C-claim; the fetched landing page did not surface a detailed abstract, specific
    findings, or conclusions beyond high-level framing).
+5. Michael Lithgow & Karen Wall (2026), "The alchemy of ACME: turning 'land rent' into art
+   in the London real estate market," *International Journal of Cultural Policy*, published
+   online 10 January 2026, DOI 10.1080/10286632.2025.2608325.
+   [tandfonline.com](https://www.tandfonline.com/doi/10.1080/10286632.2025.2608325) —
+   no abstract text located via Crossref, Semantic Scholar, or WebSearch despite repeated
+   attempts 2026-08-31; used only for the ACME case's existence, scale (800+ artists, 15
+   buildings, founded 1972), and its explicit Henry George framing per the title (§"ACME"
+   above) (D-claim; title/metadata only, no verified findings).

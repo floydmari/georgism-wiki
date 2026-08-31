@@ -127,6 +127,7 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 ## See Also
 
 - [Christophers (2020): Rentier Capitalism](/wiki/christophers-rentier-capitalism/) — book-length survey of seven UK rentier sectors (land, finance, IP, natural resources, contracts) applying the rentier concept across the whole economy
+- [Sampat: The Rentier Economy of Growth Infrastructures — Value Appropriation Without Adequate Accumulation in India](/wiki/sampat-india-rentier-growth-infrastructure/) — a large national case of land rent appropriation via growth-infrastructure projects
 - [Coppack: The Competition Paradox — Sovereign Corporations](/wiki/coppack-competition-paradox-sovereign-corporations/) — a fresh vocabulary ("sovereign corporations") for the same modern-monopoly-rent question, via Smith, Ricardo, and Rawls
 - [Fudge: The Structural Rentier Asset](/wiki/fudge-structural-rentier-asset/) — a formal working-paper argument that an asset combining fixed supply, collateral status, and tax preference has no stable equilibrium
 - [Progress and Poverty (full text)](/wiki/progress-and-poverty-full-text/) — George's 1879 "spurious capital" chapter, the historical antecedent above

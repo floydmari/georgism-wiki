@@ -90,6 +90,7 @@ levy "resource rent provision" does not, by itself, make it one in practice.
 
 - [Resource Rents](/wiki/resource-rents/)
 - [Economic Rent](/wiki/economic-rent/)
+- [Rahmawati, Samsura & van der Krabben: Public Land Policies and Private-Sector Housing Development in Indonesia](/wiki/rahmawati-indonesia-land-banking-housing/) — the wiki's other Indonesian case study, on urban land banking rather than forestry
 - [Gaffney: The Faustmann Formula and Financial Maturity of Timber](/wiki/gaffney-financial-maturity-timber/)
 - [Mintz & Chen: Capturing Economic Rents from Resources through Royalties and Taxes](/wiki/mintz-chen-capturing-resource-rents/)
 

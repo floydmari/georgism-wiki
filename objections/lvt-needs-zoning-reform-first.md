@@ -33,6 +33,7 @@ The objection correctly identifies a real interaction effect — zoning caps blu
 ## See Also
 
 - [Land value tax](/wiki/land-value-tax/) — the instrument this objection concerns
+- [Nielsen, Buitelaar & van den Hurk: Spatial Planning as Eliminating Land Rents](/wiki/nielsen-buitelaar-spatial-planning-anticipatory-rules/) — argues conventional zoning is itself a structurally flawed "patterning rule" LVT-style anticipatory rules should replace, not merely precede
 - [LVT improves housing affordability](/wiki/lvt-improves-housing-affordability/) — the affordability channel the objection targets, already rated contested
 - [Bengtsson: Land Development Regulation and Housing Affordability](/wiki/bengtsson-land-regulation-rent-seeking/) — a public-choice account of why restrictive zoning persists politically, bearing directly on how hard "zoning reform first" actually is
 - [Glaeser & Gyourko: Housing Supply](/wiki/glaeser-gyourko-housing-supply/) — the regulation-constrained-supply research underlying the worry

@@ -98,6 +98,7 @@ the wiki's existing capitalization and assessment-quality caveats.
 - [Land Value Capture](/wiki/land-value-capture/)
 - [Anderson: The Commodification Gap and Cultural Monopoly Rent — Insights from Kyoto](/wiki/anderson-kyoto-cultural-monopoly-rent/)
 - [Anderson, Zickefoose, Andrie & Newton: Landlord Opposition to Rent Control and the Politics of Class Monopoly Rent](/wiki/anderson-landlord-rent-control-class-monopoly/) — a third entry in the same series, on US landlord political rhetoric rather than urban development
+- [Zimmerman & Anderson: Nefarious Algorithms — RealPage and Class Monopoly Rent](/wiki/zimmerman-anderson-realpage-algorithmic-rent/) — a fourth entry, extending the concept to algorithmic rent-fixing software
 - [Land Banking](/wiki/land-banking/)
 
 ## Sources

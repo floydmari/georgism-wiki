@@ -1,169 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/1468795X241269293",
-      "source": "lvt-paper-scanner",
-      "reason": "Engages with rent theory beyond land — relevant to economic rent debates.",
-      "context": "Capitalism is capitalism, not technofeudalism — N Gane. Journal of Classical Sociology, 2025. Critique of technofeudalism thesis, arguing rent extraction from online territories is still capitalism.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.70061",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed analysis of rentier capitalism and land value appropriation in India.",
-      "context": "The rentier economy of growth infrastructures: Value appropriation without adequate accumulation in India — P Sampat. Antipode, 2025. India's post-liberalisation land price spirals and emergence of corporate rentier capitalism.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/20438206241253590",
-      "source": "lvt-paper-scanner",
-      "reason": "Engages with land value capture and ground rent theory.",
-      "context": "State property, venture capital and the urbanisation of state capitalism — I Alami. Dialogues in Human Geography, 2025. Land value capture policies rooted in capitalisation of expected future ground rent payments.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/26349825241269224",
-      "source": "lvt-paper-scanner",
-      "reason": "Theoretical paper on land value regimes and rentier capitalism.",
-      "context": "Value switching: Extracting profit from the city — L Troy, B Randolph, S Pinnegar. Environment and Planning, 2025. Conceptualises regimes of land value and the land question beyond conventional land rent theory.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.13107",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper on digital rentiership and land.",
-      "context": "Agrarian platform capitalism: Digital rentiership comes to farming — E Reisman, M Fairbairn, Z Kish. Antipode, 2025. Intensification of rentier profit models in agriculture, particularly in relation to land.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/10286632.2025.2608325",
-      "source": "lvt-paper-scanner",
-      "reason": "Directly engages with Henry George's land rent concept in a practical cultural policy context.",
-      "context": "The alchemy of ACME: turning 'land rent' into art in the London real estate market — M Lithgow, K Wall. International Journal of Cultural Policy, 2026. How ACME redistributes Henry George's 'land rent' value into the hands of artists in London.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6973338",
-      "source": "lvt-paper-scanner",
-      "reason": "Directly about Georgism, land rent capture, and citizen's dividend.",
-      "context": "A Common-Axes Framework Placing Architecture Among Universal Basic Income, Social Security, Sovereign Wealth Funds, and Georgism — N Solon. SSRN, 2026. Framework comparing Georgism with UBI, social security, and sovereign wealth funds. 70% rent capture rate funds per-person dividend.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0264837725002261",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper connecting land rent theory and land value capture.",
-      "context": "Contested rent-based urban governance: Land rent dissipation and redistribution under scalar politics in China — J Liu, J Zhu. Land Use Policy, 2025. Land rent connecting economic rent theory and land value capture in China's urban entrepreneurialism.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0743016726001877",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed on rural land value capture — directly relevant to Georgist LVC policy.",
-      "context": "Reciprocal reconstruction of regulatory and capital power: A dynamic interaction between local governments and land buyers in rural land value capture — W Wang. Journal of Rural Studies, 2026. Rural land marketization reform and land value capture dynamics in China.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://academic.oup.com/rfs/article-abstract/38/4/1259/7717356",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed model of rent-seeking behavior — relevant to economic rent theory.",
-      "context": "Technological progress and rent seeking — V Glode, G Ordonez. The Review of Financial Studies, 2025. Models firms' allocation of resources across surplus-creating and surplus-appropriating (rent-seeking) activities.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.sciencedirect.com/science/article/pii/S1043951X26000118",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed on rent-seeking society — relevant to economic rent literature.",
-      "context": "How do very small businesses survive in a rent-seeking society? Evidence from China — Z Dong, Y Zhang. China Economic Review, 2026. Rent-seeking dynamics and their impact on small businesses in China.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://link.springer.com/article/10.1007/s11127-026-01465-8",
-      "source": "lvt-paper-scanner",
-      "reason": "Book review on property rights and rent-seeking.",
-      "context": "Where's Coase? The implications of economic property rights or rent-seeking in forming institutions — SM Smith (review of Gary D. Libecap). Springer, 2026. Review of Libecap's work on economic property rights and rent-seeking in institutional formation.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://link.springer.com/article/10.1007/s11127-024-01189-7",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed on rent-seeking behavior.",
-      "context": "Environmental regulation, regulatory spillovers and rent-seeking — JP Gonzalez. Public Choice, 2025. How special interests react to increased regulatory burden — rent-seeking response to environmental regulation.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0959652625025600",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed on political rent-seeking.",
-      "context": "Environmental automated monitoring technology and political rent-seeking in industrial enterprises — Various. Journal of Cleaner Production, 2025. Automated monitoring technology and its effect on political rent-seeking in industrial enterprises.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.mdpi.com/2413-8851/9/8/315",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed on algorithmic rent-fixing and class monopoly rent.",
-      "context": "Nefarious Algorithms: Rent-Fixing via Algorithmic Collusion and the Role of Intentionality in the Pursuit of Class Monopoly Rent — AJ Zimmerman, MB Anderson. Urban Science, 2025. RealPage's practices as technologically advanced strategy of pursuing class monopoly rent.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.mdpi.com/2073-445X/14/5/916",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed on land value capture and public land policy.",
-      "context": "From policy to practice: How public land policies shape private-sector housing development — An Indonesian case — D Rahmawati, DAA Samsura, E Krabben. Land, 2025. Land value capture mechanisms and public land policy in Indonesian housing development.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://research-portal.uu.nl/en/publications/spatial-planning-as-eliminating-land-rents-from-symptom-treatment/",
-      "source": "lvt-paper-scanner",
-      "reason": "Directly engages Henry George and land rent elimination through spatial planning.",
-      "context": "Spatial planning as eliminating land rents: From symptom treatment to prevention — VM Nielsen, E Buitelaar, M van den Hurk. 2026. Revisits Henry George — argues planning should eliminate land rents rather than treat symptoms.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/00323292241285289",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed on class-monopoly rent and landlord power.",
-      "context": "Private government at home: landlord power and rental residential domination in the United States — S Karp. Politics & Society, 2025. Marxian class-monopoly rent theory applied to landlord domination in US rental housing.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-08-30T11:07:12.520091+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -3669,8 +3506,224 @@
       "wiki_page": "/wiki/rent-seeking-drags-growth/",
       "triage_date": "2026-08-30",
       "notes": "Enrichment. Heijdra & Heijnen (2025), De Economist — OLG model where monopolization raises the growth rate while rent-seeking's growth effect is ambiguous (though wealth inequality rises). Added as new subsection + source 9 on problems/rent-seeking-drags-growth.md. B-claim."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/1468795X241269293",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Capitalism is capitalism, not technofeudalism — N Gane. Journal of Classical Sociology, 2025. Critique of technofeudalism thesis, arguing rent extraction from online territories is still capitalism.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/technofeudalism/",
+      "triage_date": "2026-08-31",
+      "notes": "Enrichment. Gane (2025), J. Classical Sociology — argues capitalism mutated beyond nation-state control rather than being replaced by feudalism; identifies internal contradiction in Varoufakis's proposed remedy. Added as 4th rebuttal voice + source 12 on concepts/technofeudalism.md. B-claim."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.70061",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The rentier economy of growth infrastructures: Value appropriation without adequate accumulation in India — P Sampat. Antipode, 2025. India's post-liberalisation land price spirals and emergence of corporate rentier capitalism.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/sampat-india-rentier-growth-infrastructure/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Sampat (2025), Antipode — India's growth-infrastructure land rent appropriation (Dholera, Goa SEZs), 'value appropriation without adequate accumulation.' B-claim."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/20438206241253590",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "State property, venture capital and the urbanisation of state capitalism — I Alami. Dialogues in Human Geography, 2025. Land value capture policies rooted in capitalisation of expected future ground rent payments.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-31",
+      "notes": "REJECT — scanner context mismatch. Alami's paper on state venture capital and urbanisation of state capitalism does not engage ground-rent theory as the scanner's context claimed; actual abstract is about state-backed VC, derisking developmentalism, techno-nationalism. Tangential to Georgism/LVT."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/26349825241269224",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Value switching: Extracting profit from the city — L Troy, B Randolph, S Pinnegar. Environment and Planning, 2025. Conceptualises regimes of land value and the land question beyond conventional land rent theory.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/troy-randolph-pinnegar-value-switching/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Troy, Randolph & Pinnegar (2025), Environment and Planning F — 'value switching' framework, Sydney rezoning transaction data (Randwick A$290M, Erskineville A$380M). Full text via UNSW repository (A-claim)."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.13107",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Agrarian platform capitalism: Digital rentiership comes to farming — E Reisman, M Fairbairn, Z Kish. Antipode, 2025. Intensification of rentier profit models in agriculture, particularly in relation to land.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/reisman-fairbairn-kish-agrarian-platform-capitalism/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Reisman, Fairbairn & Kish (2025), Antipode — 'agrarian platform capitalism,' digital rentiership in farming, Farmer's Business Network/ADM case. B-claim (detailed secondary source)."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/10286632.2025.2608325",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "The alchemy of ACME: turning 'land rent' into art in the London real estate market — M Lithgow, K Wall. International Journal of Cultural Policy, 2026. How ACME redistributes Henry George's 'land rent' value into the hands of artists in London.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/community-land-trust/",
+      "triage_date": "2026-08-31",
+      "notes": "Enrichment. Lithgow & Wall (2026) — ACME artist-studio charity redirecting London land rent to artists, explicit Henry George framing. Added as new subsection + source 5 on concepts/community-land-trust.md. D-claim (title/metadata only, no abstract locatable)."
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6973338",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "A Common-Axes Framework Placing Architecture Among Universal Basic Income, Social Security, Sovereign Wealth Funds, and Georgism — N Solon. SSRN, 2026. Framework comparing Georgism with UBI, social security, and sovereign wealth funds. 70% rent capture rate funds per-person dividend.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-31",
+      "notes": "REJECT (deferred then rejected) — unverifiable. Solon's 'Common-Axes Framework' SSRN preprint could not be located anywhere beyond the scanner's own one-line description across two independent verification attempts (Crossref, Semantic Scholar, repeated WebSearch). Genuinely Georgist-relevant topic but insufficient content to draft from without speculation; revisit if the preprint gains an independent footprint."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264837725002261",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Contested rent-based urban governance: Land rent dissipation and redistribution under scalar politics in China — J Liu, J Zhu. Land Use Policy, 2025. Land rent connecting economic rent theory and land value capture in China's urban entrepreneurialism.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/liu-zhu-china-scalar-rent-politics/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Liu & Zhu (2025), Land Use Policy — Zhongshan case, intergovernmental-tier rent contestation in China, distinct from existing state-vs-developer China cluster. B+-claim (CC-BY but full text inaccessible)."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0743016726001877",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Reciprocal reconstruction of regulatory and capital power: A dynamic interaction between local governments and land buyers in rural land value capture — W Wang. Journal of Rural Studies, 2026. Rural land marketization reform and land value capture dynamics in China.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-31",
+      "notes": "REJECT (deferred then rejected) — unverifiable. Wang's rural land value capture paper could not be located beyond the scanner's one-line description despite two independent verification attempts. Plausibly distinct from existing urban-focused China cluster but insufficient content to draft from; revisit if full-text access improves."
+    },
+    {
+      "url": "https://academic.oup.com/rfs/article-abstract/38/4/1259/7717356",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Technological progress and rent seeking — V Glode, G Ordonez. The Review of Financial Studies, 2025. Models firms' allocation of resources across surplus-creating and surplus-appropriating (rent-seeking) activities.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/rent-seeking/",
+      "triage_date": "2026-08-31",
+      "notes": "Enrichment. Glode & Ordoñez (2025), Review of Financial Studies — models firms allocating resources between surplus-creating and surplus-appropriating activities; technology tilts allocation toward rent-seeking. Added as new subsection + source 10 on concepts/rent-seeking.md. B-claim; public-choice/corporate-finance tradition, not land-specific."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S1043951X26000118",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "How do very small businesses survive in a rent-seeking society? Evidence from China — Z Dong, Y Zhang. China Economic Review, 2026. Rent-seeking dynamics and their impact on small businesses in China.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-31",
+      "notes": "REJECT — keyword collision. Dong & Zhang's small-business rent-seeking paper (China Economic Review) uses 'rent-seeking' in the bureaucratic/institutional-friction public-choice sense, not land rent. No Georgist content."
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11127-026-01465-8",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Where's Coase? The implications of economic property rights or rent-seeking in forming institutions — SM Smith (review of Gary D. Libecap). Springer, 2026. Review of Libecap's work on economic property rights and rent-seeking in institutional formation.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-31",
+      "notes": "REJECT — general institutional economics. Smith's book review of Libecap's property-rights/rent-seeking program (water rights, oil-field unitization) is public-choice/law-and-economics tradition, not land-specific or Georgist."
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11127-024-01189-7",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Environmental regulation, regulatory spillovers and rent-seeking — JP Gonzalez. Public Choice, 2025. How special interests react to increased regulatory burden — rent-seeking response to environmental regulation.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-31",
+      "notes": "REJECT — keyword collision. Gonzalez's environmental-regulation rent-seeking paper (Public Choice) is the institutional/regulatory tradition, unrelated to land rent or Georgism."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0959652625025600",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Environmental automated monitoring technology and political rent-seeking in industrial enterprises — Various. Journal of Cleaner Production, 2025. Automated monitoring technology and its effect on political rent-seeking in industrial enterprises.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-08-31",
+      "notes": "REJECT — keyword collision. Chinese firm-level political rent-seeking around environmental-monitoring compliance; public-choice/regulatory-economics tradition, no land-rent or Georgist content evident."
+    },
+    {
+      "url": "https://www.mdpi.com/2413-8851/9/8/315",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Nefarious Algorithms: Rent-Fixing via Algorithmic Collusion and the Role of Intentionality in the Pursuit of Class Monopoly Rent — AJ Zimmerman, MB Anderson. Urban Science, 2025. RealPage's practices as technologically advanced strategy of pursuing class monopoly rent.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/zimmerman-anderson-realpage-algorithmic-rent/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Zimmerman & Anderson (2025), Urban Science — RealPage algorithmic rent-fixing, 4th entry in Anderson's class-monopoly-rent series. Full text via reader-proxy after MDPI itself unexpectedly blocked (A-claim)."
+    },
+    {
+      "url": "https://www.mdpi.com/2073-445X/14/5/916",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "From policy to practice: How public land policies shape private-sector housing development — An Indonesian case — D Rahmawati, DAA Samsura, E Krabben. Land, 2025. Land value capture mechanisms and public land policy in Indonesian housing development.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/rahmawati-indonesia-land-banking-housing/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Rahmawati, Samsura & van der Krabben (2025), Land — Surabaya land banking, discretionary PSU-obligation enforcement. Full text via reader-proxy after MDPI itself unexpectedly blocked (A-claim)."
+    },
+    {
+      "url": "https://research-portal.uu.nl/en/publications/spatial-planning-as-eliminating-land-rents-from-symptom-treatment/",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Spatial planning as eliminating land rents: From symptom treatment to prevention — VM Nielsen, E Buitelaar, M van den Hurk. 2026. Revisits Henry George — argues planning should eliminate land rents rather than treat symptoms.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/nielsen-buitelaar-spatial-planning-anticipatory-rules/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Nielsen, Buitelaar & van den Hurk (2026) preprint — LVT as the paradigm 'anticipatory framework rule' in planning theory, extensively Georgist (21 principles from Progress and Poverty). Full 85-page text read directly (A-claim)."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/00323292241285289",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Private government at home: landlord power and rental residential domination in the United States — S Karp. Politics & Society, 2025. Marxian class-monopoly rent theory applied to landlord domination in US rental housing.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/karp-landlord-private-government/",
+      "triage_date": "2026-08-31",
+      "notes": "New page. Karp (2024), Politics & Society — Elizabeth Anderson's 'private government' applied to landlord-tenant domination, tenant-union remedy modeled on NLRA. A-claim for verbatim abstract; B-claim for mechanism detail (author's own companion writing)."
     }
   ],
   "total": 318,
-  "last_updated": "2026-08-30"
+  "last_updated": "2026-08-31"
 }
