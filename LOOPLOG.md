@@ -4288,3 +4288,43 @@ Lint 0 errors, 0 orphans, 996 pages. Queue ledger: 0 pending — the 32-item bat
 2026-08-30 is now fully cleared — 318 consumed. All 24 touched pages Ghost-synced (8 created,
 16 updated); spot-checked `nielsen-buitelaar-spatial-planning-anticipatory-rules` live (200
 after redirect).
+
+## 2026-08-31 (evening) — a small 3-item batch; one duplicate, one unreachable, one solid new page
+
+Main had moved since the last pass — a fresh 3-item drop from the scanner — no queue-cleaner
+resurrections, no open community-submission PRs or Issues. Small enough to process whole
+rather than split.
+
+Two of the three were quick dispositions. The Jakarta land-value-capture paper
+(Danandjojo, Ramezani & Woltjer) turned out to be the *same* paper the wiki already covers at
+`danandjojo-jakarta-lvc-governance` — the scanner re-surfaced it under a different
+ScienceDirect PII/DOI than its original 2026-08-17 triage URL, confirmed via a direct
+Crossref DOI lookup rather than trusting the title match alone. The Shao & Zhang paper on
+Chinese resource-nationalism-driven mining FDI was a genuine reject-for-access-failure: no
+abstract anywhere — not Crossref, not Semantic Scholar, not Unpaywall, not a single OA mirror
+or preprint via search — only a 56-item reference list (via Crossref) whose topic clustering
+lets you guess the paper's shape but not verify it. Rejected rather than published on
+inference; worth re-queuing if a future scan turns up an accessible copy.
+
+The third, a Desrochers & Smith *Small Business Economics* paper on 1880s Chicago
+meatpacking, became this pass's one new page. It's a genuinely interesting rent-seeking case:
+large packers turned slaughterhouse waste (blood, offal) into by-product revenue (soap, glue,
+fertilizer), cutting meat prices 30-40% along the way — and smaller, less efficient rivals,
+organized as the Butchers National Protective Association, spent decades lobbying against
+that system under public-health cover, eventually winning a 1920 antitrust consent decree
+that forced the large packers to break the vertically integrated system apart. It's a useful
+addition to the wiki's rent-seeking evidence base precisely because it's a different
+mechanism than the usual Tullock-style "resources wasted competing for a rent" story: here
+rent-seeking *dismantled* an already-existing efficiency and environmental gain, which also
+makes it a pointed counter-example to place against the Pigouvian-taxation page's standard
+"markets need correction, not competition" framing. T0's first extraction came through an
+AI-summarization layer (reader-proxy fetch), so the specific factual claims — the consent
+decree's date and signatory, the *Swift & Co.* Supreme Court enforcement, the BNPA's name,
+the 30-40% figure — were independently re-verified against a second, separate extraction
+before publishing, per the wiki's standing re-verification discipline. Cross-linked from
+`rent-seeking` (new subsection + source 11), `baumol-unproductive-entrepreneurship`, and
+`pigouvian-taxation`.
+
+Lint 0 errors, 0 orphans, 997 pages. Queue ledger: 0 pending, 321 consumed. 5 touched pages
+Ghost-synced (1 created, 4 updated); spot-checked `desrochers-smith-meatpacking-rent-seeking`
+live.

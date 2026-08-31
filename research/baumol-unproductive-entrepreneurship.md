@@ -82,6 +82,7 @@ the connection is structural, and pages citing him should keep it attributed.
 - [The Allocation of Talent (MSV 1991)](/wiki/murphy-shleifer-vishny-allocation-talent/) — builds directly on Baumol
 - [Why Is Rent-Seeking So Costly to Growth? (MSV 1993)](/wiki/murphy-shleifer-vishny-rent-seeking-growth/)
 - [Rent-Seeking](/wiki/rent-seeking/) · [Rentier](/wiki/rentier/)
+- [Desrochers & Smith: Rent-Seeking and the Meatpacking Industry](/wiki/desrochers-smith-meatpacking-rent-seeking/) — a single-industry historical case extending Baumol's productive/unproductive framing to a case where rent-seeking dismantled an existing efficiency gain
 
 ## Sources
 
