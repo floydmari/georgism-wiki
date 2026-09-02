@@ -9,6 +9,33 @@
       "author": "UKTJP503G",
       "queued_at": "2026-09-02T10:01:27.090354+00:00",
       "reported": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w35610",
+      "source": "lvt-paper-scanner",
+      "reason": "NBER working paper. Property tax re-assessments in India - government vs private outsourcing efficiency.",
+      "context": "The Limits of Government Outsourcing: Property Tax Re-Assessments in India - Esther Duflo, Rema Hanna, Benjamin A. Olken, Shreya Tandon. NBER, 2026.",
+      "author": null,
+      "queued_at": "2026-09-02T11:05:30.608909+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w35632",
+      "source": "lvt-paper-scanner",
+      "reason": "NBER working paper. Field experiment on AI-assisted property tax appeals.",
+      "context": "Taxpayer Behavior in the Age of AI: A Field Experiment on Property Tax Appeals - Justin E. Holz, Ricardo Perez-Truglia, Andrew Simon, Alejandro Zentner. NBER, 2026.",
+      "author": null,
+      "queued_at": "2026-09-02T11:05:30.608909+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w35640",
+      "source": "lvt-paper-scanner",
+      "reason": "NBER working paper. Labor market monopsony power and welfare costs with worker/firm heterogeneity.",
+      "context": "Labor Market Power with Worker and Firm Heterogeneity - David W. Berger, Kyle F. Herkenhoff, Jaehun Mongey. NBER, 2026.",
+      "author": null,
+      "queued_at": "2026-09-02T11:05:30.608909+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -3770,6 +3797,6 @@
       "notes": "Rejected as duplicate \u2014 confirmed via Crossref (DOI 10.1016/j.landusepol.2026.108270) to be the same paper (same title, same three authors Danandjojo/Ramezani/Woltjer, same journal) already covered at research/danandjojo-jakarta-lvc-governance.md (triaged 2026-08-17). Scanner re-surfaced under a different ScienceDirect PII than the original triage URL."
     }
   ],
-  "total": 1,
-  "last_updated": "2026-09-02T10:02:11Z"
+  "total": 4,
+  "last_updated": "2026-09-02T11:05:30.608909+00:00"
 }
