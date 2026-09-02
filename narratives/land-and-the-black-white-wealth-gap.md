@@ -133,7 +133,13 @@ evidence is on the *status quo*: Avenancio-León and Howard document a nationwid
 "assessment gap" under which, holding jurisdiction and tax rate fixed, Black and
 Hispanic homeowners face a 10–13% higher property-tax assessment ratio than white
 homeowners — showing the racial incidence of land-and-property taxation is real and
-measurable, but not what a Georgist reform of it would deliver.[12])
+measurable, but not what a Georgist reform of it would deliver.[12] A 2026 field
+experiment — [Holz, Perez-Truglia, Simon & Zentner](/wiki/holz-perez-truglia-simon-zentner-ai-tax-appeals/)
+— finds the same disparity can persist even in an intervention explicitly designed to
+narrow it: an AI chatbot that substantially raised property-tax appeal filing rates
+overall in Dallas County produced a smaller gain for less-educated, lower-home-value, and
+minority homeowners, suggestive evidence that a technology built to lower the cost of
+contesting an assessment can still reproduce the access gap it was meant to close.[14])
 
 There is also a framing caution native to the Georgist tradition. Henry George argued in
 universal terms — land monopoly as a wrong done to *everyone* landless — and that
@@ -240,6 +246,7 @@ account. (D-claim; abstract-sourced, attributed.)
 - [Citizen's Dividend](/wiki/citizens-dividend-narrative/) — the universal payout weighed here against targeted reparations
 - [Land Value Tax](/wiki/land-value-tax/) · [Land Monopoly](/wiki/land-monopoly/) — the instrument and the structural claim
 - [Objection: transition wealth shock](/wiki/lvt-transition-wealth-shock/) — the stock-vs-flow problem in its general form
+- [Holz, Perez-Truglia, Simon & Zentner: AI and Property Tax Appeals](/wiki/holz-perez-truglia-simon-zentner-ai-tax-appeals/) — a 2026 field experiment finding an AI-assisted appeals tool widened, rather than closed, existing racial and socioeconomic disparities in who successfully contests an assessment
 
 ## Sources
 
@@ -322,3 +329,8 @@ account. (D-claim; abstract-sourced, attributed.)
     — used for the independent, internationally-sourced version of the
     rent-capture-is-not-reparations argument (D-claim, abstract only).
     [wiki summary](/wiki/obeng-odoom-rodney-legacy/)
+14. Justin E. Holz, Ricardo Perez-Truglia, Andrew Simon & Alejandro Zentner (2026),
+    "Taxpayer Behavior in the Age of AI: A Field Experiment on Property Tax Appeals," NBER
+    Working Paper 35632 — used for the finding that AI-chatbot assistance raised property-tax
+    appeal filing rates overall but by less for less-educated, lower-home-value, and minority
+    homeowners (A-claim, full text read). [wiki summary](/wiki/holz-perez-truglia-simon-zentner-ai-tax-appeals/)

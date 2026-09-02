@@ -1,34 +1,6 @@
 {
-  "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://www.nber.org/papers/w35610",
-      "source": "lvt-paper-scanner",
-      "reason": "NBER working paper. Property tax re-assessments in India - government vs private outsourcing efficiency.",
-      "context": "The Limits of Government Outsourcing: Property Tax Re-Assessments in India - Esther Duflo, Rema Hanna, Benjamin A. Olken, Shreya Tandon. NBER, 2026.",
-      "author": null,
-      "queued_at": "2026-09-02T11:05:30.608909+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.nber.org/papers/w35632",
-      "source": "lvt-paper-scanner",
-      "reason": "NBER working paper. Field experiment on AI-assisted property tax appeals.",
-      "context": "Taxpayer Behavior in the Age of AI: A Field Experiment on Property Tax Appeals - Justin E. Holz, Ricardo Perez-Truglia, Andrew Simon, Alejandro Zentner. NBER, 2026.",
-      "author": null,
-      "queued_at": "2026-09-02T11:05:30.608909+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.nber.org/papers/w35640",
-      "source": "lvt-paper-scanner",
-      "reason": "NBER working paper. Labor market monopsony power and welfare costs with worker/firm heterogeneity.",
-      "context": "Labor Market Power with Worker and Firm Heterogeneity - David W. Berger, Kyle F. Herkenhoff, Jaehun Mongey. NBER, 2026.",
-      "author": null,
-      "queued_at": "2026-09-02T11:05:30.608909+00:00",
-      "reported": false
-    }
-  ],
+  "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -3798,8 +3770,44 @@
       "wiki_page": null,
       "triage_date": "2026-09-02",
       "notes": "Rejected — a YouTube video (Fred Harrison speaking, apparently mentioning Common Wealth Canada) surfaced via a Slack keyword-matched social-media feed rather than the academic scanner. YouTube's page is JS-rendered and returned no transcript, title, or description through any fetch method available this session, and no video metadata was locatable via search under this video ID. Both Fred Harrison (people/fred-harrison.md) and Common Wealth Canada (organizations/common-wealth-canada.md) already have substantial dedicated wiki coverage; without accessible content confirming this specific talk contains a genuinely new argument, data point, or event, there is nothing to verify or add. Revisit if a transcript or description becomes accessible."
+    },
+    {
+      "url": "https://www.nber.org/papers/w35610",
+      "source": "lvt-paper-scanner",
+      "author": null,
+      "date": null,
+      "context": "The Limits of Government Outsourcing: Property Tax Re-Assessments in India - Esther Duflo, Rema Hanna, Benjamin A. Olken, Shreya Tandon. NBER, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/duflo-hanna-olken-tandon-chennai-outsourcing/",
+      "triage_date": "2026-09-02",
+      "notes": "New page. Duflo, Hanna, Olken & Tandon (2026), NBER WP 35610 — Chennai RCT: government tax inspectors raised valuations 84% vs 54% for outsourced private firms, 87% more revenue, independently verified more accurate; procurement rigidity (lowest-bid rules) and workforce skill gap drove the difference, not weak incentives. Full text read directly (A-claim). Enriched objections/land-cannot-be-assessed.md (new 3g point) and objections/lvt-invites-assessment-corruption.md (new paragraph)."
+    },
+    {
+      "url": "https://www.nber.org/papers/w35632",
+      "source": "lvt-paper-scanner",
+      "author": null,
+      "date": null,
+      "context": "Taxpayer Behavior in the Age of AI: A Field Experiment on Property Tax Appeals - Justin E. Holz, Ricardo Perez-Truglia, Andrew Simon, Alejandro Zentner. NBER, 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/holz-perez-truglia-simon-zentner-ai-tax-appeals/",
+      "triage_date": "2026-09-02",
+      "notes": "New page. Holz, Perez-Truglia, Simon & Zentner (2026), NBER WP 35632 — Dallas County RCT: AI chatbot raised property-tax appeal filing 41.4%->50.5%, nearly double a prior mailed-guide intervention, but with a smaller gain for less-educated/lower-value-home/minority households. Full text read directly (A-claim). Enriched research/mccanless-property-tax-appeals-rentier.md and narratives/land-and-the-black-white-wealth-gap.md (new source 14)."
+    },
+    {
+      "url": "https://www.nber.org/papers/w35640",
+      "source": "lvt-paper-scanner",
+      "author": null,
+      "date": null,
+      "context": "Labor Market Power with Worker and Firm Heterogeneity - David W. Berger, Kyle F. Herkenhoff, Jaehun Mongey. NBER, 2026.",
+      "topics": [],
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-09-02",
+      "notes": "Rejected as off-topic. Berger, Herkenhoff, Jeong & Mongey (2026), NBER WP 35640 — a structural labor-economics/optimal-income-tax-progressivity model of wage markdowns under employer market power. Matched the scanner's 'labor market power'/'rent' keywords, but the paper never engages land, location rent, or any rent-capture policy instrument; its normative payload is income-tax progressivity design. The wiki's existing concepts/monopsony.md page already carries the more directly relevant, more current 2026 survey of the monopsony-measurement literature (Caldwell-Dube-Naidu). Read directly (A-claim on the reject determination itself)."
     }
   ],
-  "total": 322,
+  "total": 325,
   "last_updated": "2026-09-02"
 }

@@ -4351,3 +4351,61 @@ inference from a title and a one-line context note.
 
 No content changes this pass — ledger update only. Lint 0 errors, 0 orphans, 997 pages
 (unchanged). Queue ledger: 0 pending, 322 consumed. No Ghost-sync needed.
+
+## 2026-09-02 (later) — two NBER property-tax-administration papers; one labor-econ reject
+
+Main moved twice mid-pass: once for a 3-item NBER drop, and a second time — after this
+pass's ledger-only commit was already pushed — for another. The second collision produced
+a real merge conflict in `sources/wiki-queue.json` (both sides touched the queue array),
+resolved by hand: kept the incoming NBER items in queue, dropped the already-consumed
+YouTube item since it was already recorded on this branch's side. Worth a note for future
+passes — concurrent scanner commits landing mid-loop are now a recurring event, not a
+one-off, and the fix is always the same (union the queue array, never let a resolved
+conflict silently drop a disposition already recorded).
+
+Of the 3-item NBER batch, two were strong, on-topic accepts and one a clean reject. Both
+accepts got the full independent-PDF-read treatment: NBER's abstract page is JS-rendered
+and returns nothing to a direct fetch, but the PDF itself fetches fine, and this pass
+parsed both papers' PDFs locally (via `pypdf`) as a second, independent extraction against
+the T0 brief's own PDF read — full agreement on every figure checked.
+
+**Duflo, Hanna, Olken & Tandon's Chennai experiment** is the sharper of the two: government
+tax inspectors, given the same job as outsourced private contractors, raised valuations 84%
+on average versus the private firms' 54%, collected 87% more revenue per property, and came
+out *more* accurate under independent third-party verification — the opposite of the
+usual "government is inefficient, outsource it" prior. The mechanism the authors trace is
+specific and a little uncomfortable: it wasn't weak private incentives (a fixed-fee vs.
+incentive-contract randomization found no difference), it was the government's own
+anti-corruption procurement rule — mandatory lowest-bid selection, no discretion to pay more
+for a better firm — that drove away the more competent contractors, leaving 1.4-years-average
+private-firm workers up against 11-years-average government inspectors. That's a genuinely
+new complication for the wiki's assessment-corruption objection page: a rule built to prevent
+one failure mode (bribery, favoritism) produced a different one (adverse selection among
+bidders). Added as a new 3g point on `land-cannot-be-assessed` and a new paragraph on
+`lvt-invites-assessment-corruption`.
+
+**Holz, Perez-Truglia, Simon & Zentner's Dallas chatbot experiment** pairs naturally with the
+existing McCanless appeals-inequality page — McCanless documents who already exploits the
+appeals process (institutional landlords, 6x homeowners' rate); this one studies whether a
+tool built to *lower* the cost of appealing closes that gap or reproduces it. It nearly
+doubled the filing rate of a prior mailed-guide intervention (9.1pp vs. 4.98pp), but the gain
+was smaller for less-educated, lower-home-value, and minority households — a direct, current
+data point for the wiki's black-white-wealth-gap narrative, which already covers Avenancio-León
+& Howard's property-tax assessment-gap finding; the two now sit side by side as a broader
+point about equal *nominal* access not producing equal *effective* access. Hit two banned-
+certainty-word lint warnings ('always', in negated/hedged sentences that the naive regex still
+flagged) — fixed by rewording rather than arguing with the linter, and by keeping one
+attributed quote on a single line so the quote-exemption regex could actually see it.
+
+The third item, **Berger, Herkenhoff, Jeong & Mongey on labor-market monopsony and optimal
+tax progressivity**, was a clean reject: it matched the scanner's "labor market power/rent"
+keywords but is pure structural labor/public-finance theory — wage markdowns and income-tax
+design, no land, no location rent, no rent-capture policy angle anywhere in it. The wiki's
+existing `concepts/monopsony.md` page already carries a more directly relevant, more current
+survey of the same measurement literature. Also caught and corrected a byline error in the
+scanner's own queue context note: the paper's fourth author is two people (Jaehun Jeong and
+Simon Mongey), not one "Jaehun Mongey" as the scanner's context string had it — didn't matter
+for the reject decision, but worth flagging in case that garbled byline resurfaces elsewhere.
+
+Lint 0 errors, 0 orphans, 999 pages. Queue ledger: 0 pending, 325 consumed. 6 touched pages
+Ghost-synced (2 created, 4 updated).
