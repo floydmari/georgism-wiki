@@ -78,6 +78,7 @@ consideration LVT proposals need to account for explicitly rather than assume aw
 - [Tax Capitalization](/wiki/tax-capitalization/)
 - [Objection: Land Value Can't Be Assessed Accurately](/wiki/land-cannot-be-assessed/)
 - [Rentier](/wiki/rentier/)
+- [Holz, Perez-Truglia, Simon & Zentner: AI and Property Tax Appeals](/wiki/holz-perez-truglia-simon-zentner-ai-tax-appeals/) — the demand-side companion: even a free, AI-assisted appeals tool can widen the same access disparities this paper documents on the supply side
 
 ## Sources
 
