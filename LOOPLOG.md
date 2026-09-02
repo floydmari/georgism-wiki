@@ -4328,3 +4328,26 @@ before publishing, per the wiki's standing re-verification discipline. Cross-lin
 Lint 0 errors, 0 orphans, 997 pages. Queue ledger: 0 pending, 321 consumed. 5 touched pages
 Ghost-synced (1 created, 4 updated); spot-checked `desrochers-smith-meatpacking-rent-seeking`
 live.
+
+## 2026-09-02 — one Slack-sourced YouTube item, rejected for inaccessible content
+
+Main had moved (a fresh LLM-filtered/deduped triage commit); no cleaner resurrections, no
+open community-submission PRs or Issues. Only one clean item in the batch: a YouTube link
+(`youtu.be/u3Pdr_7_oNc`, "Fred Harrison speak LVT ... common wealth canada segment"),
+surfaced via a Slack keyword-matched social-media feed rather than the usual academic
+scanner — a new source type (`social-media-production`) worth watching for in future
+batches, since it clearly triages differently than the paper-scanner items.
+
+Rejected rather than published. YouTube serves a JS-rendered page with no fetchable
+transcript, title, or description through any method available this session, and a
+targeted search under the video ID turned up nothing identifying. Both subjects the
+context snippet names — Fred Harrison and Common Wealth Canada — already have
+substantial, well-sourced dedicated pages (`people/fred-harrison.md`,
+`organizations/common-wealth-canada.md`); without any accessible content from the video
+itself, there was no way to confirm it contains a genuinely new argument, data point, or
+event rather than a restatement of ground the wiki already covers. Same discipline as the
+Shao & Zhang paper two passes ago: reject on access failure rather than publish on
+inference from a title and a one-line context note.
+
+No content changes this pass — ledger update only. Lint 0 errors, 0 orphans, 997 pages
+(unchanged). Queue ledger: 0 pending, 322 consumed. No Ghost-sync needed.
