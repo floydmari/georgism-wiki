@@ -30,6 +30,7 @@ As of 2026, the Campaign's Chair is **Murad Qureshi**, a former London Assembly 
 - [Andy Burnham](/wiki/andy-burnham/) — UK Prime Minister from July 2026 and the addressee of Qureshi's 2026 FT letter, whose own LVT advocacy and premiership are covered on his page
 - [Fabian Society](/wiki/fabian-society/) — the 1884 organisation whose early economics drew heavily on Henry George's rent theory before broadening into state socialism; the historical predecessor this Campaign's land-focused advocacy echoes.
 - [1909 People's Budget](/wiki/1909-peoples-budget/) · [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/) · [Land Value Tax](/wiki/land-value-tax/)
+- [Coalition for Economic Justice](/wiki/coalition-for-economic-justice/) — the cross-party UK LVT coalition the Campaign works alongside
 
 ## Sources
 

@@ -19,6 +19,7 @@ The model depends on an institutional arrangement in which a single, partly gove
 - [Hong Kong](/wiki/hong-kong/) — the leasehold land system that enables the R+P model
 - [Public Land Leasing](/wiki/public-land-leasing/) — the underlying land-tenure arrangement
 - [Betterment Levy](/wiki/betterment-levy/) — a related, tax-based way of capturing infrastructure-driven land value
+- [Andrew Purves](/wiki/andrew-purves/) — author of a book-length study of MTR's Rail + Property model, later cited in UK land-value-capture policy submissions
 
 ## Sources
 
