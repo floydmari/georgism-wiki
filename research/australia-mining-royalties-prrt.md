@@ -5,7 +5,7 @@ subcategory: wiki-research-resources
 tags: [research, resource-rents, australia, mining, royalties, prrt, mrrt, taxation]
 authors: []
 year: 2026
-last_reviewed: 2026-08-14
+last_reviewed: 2026-09-03
 source_url: https://kurums.com/australia-mining-royalties-prrt-resource-rent/
 tier: supplementary
 stub: false
@@ -63,6 +63,24 @@ federal instrument was designed to capture nationally. The MRRT's underperforman
 this reading, not a demand-side surprise but a predictable consequence of its own credit
 mechanism.
 
+## 2026 Update: A Concrete Case Where Royalties Outperformed PRRT
+
+Writing in *The Conversation* (2026), Monash Business School's Diane Kraal reviews economist
+Richard Denniss's proposal for a 25% Australian gas export tax, and argues the underlying
+problem Denniss identifies — the PRRT's poor revenue performance — is real, but that a better
+fix is reforming the **royalty** side rather than adding a new export tax. Kraal supplies the
+concrete mechanism this page's PRRT section describes in the abstract: gas companies carry
+forward roughly **AU$282 billion in expenditure** before PRRT liability accrues, meaning
+projects can generate substantial revenue for years while owing little or no PRRT. She cites
+**Queensland's onshore gas industry** as a direct, named illustration of this page's
+royalty-vs-rent-tax distinction in practice: after PRRT-equivalent arrangements produced **zero
+revenue** from the sector, Queensland reintroduced a conventional royalty and began collecting
+again — a real-world instance of a revenue-royalty outperforming a profits-based rent tax when
+the rent tax's cost-deduction structure lets a project defer liability indefinitely. She also
+notes Western Australia reserves 15% of extracted gas for in-state consumer and business use,
+and that the 2017 Callaghan Review of the PRRT identified the underlying political-economy
+failures but resulted only in "minor tweaks."[2]
+
 ## Relation to the Georgist Case
 
 Australia's parallel system is a clean natural illustration of a design lesson the wiki's
@@ -115,3 +133,11 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
    history and royalty-crediting design flaw. Business-intelligence source, not government
    or peer-reviewed (C-claim); specific rates and figures should be corroborated against
    ATO/Treasury/state primary sources before being treated as definitive.
+2. Diane Kraal (2026), "Richard Denniss is calling for a gas export tax, but an effective
+   royalty system would be a better option," *The Conversation*, August 2026.
+   [theconversation.com](https://theconversation.com/richard-denniss-is-calling-for-a-gas-export-tax-but-an-effective-royalty-system-would-be-a-better-option-289720) —
+   article fetched and read directly 2026-09-03 — used for the AU$282bn carried-forward
+   expenditure figure, the Queensland onshore-gas royalty-reintroduction case, the WA 15%
+   domestic gas reservation, and the 2017 Callaghan Review finding (§"2026 Update" above).
+   Author is an academic (Monash Business School) writing in a policy-commentary venue, not
+   a peer-reviewed journal (B/C-claim).
