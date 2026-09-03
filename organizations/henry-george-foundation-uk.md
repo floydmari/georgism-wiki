@@ -29,6 +29,8 @@ The Foundation's "main publication is the journal *Land & Liberty*," described a
 
 - [1909 People's Budget](/wiki/1909-peoples-budget/) · [International Union for Land Value Taxation](/wiki/international-union-lvt/) · [Labour Land Campaign](/wiki/labour-land-campaign/) · [Henry George Foundation of Canada](/wiki/henry-george-foundation-canada/)
 - [A Hybrid LVT Response to the TPA/Neidle Model](/wiki/henry-george-foundation-hybrid-lvt-proposal/) — the Foundation's 2026 critique and alternative design proposal
+- [School of Economic Science](/wiki/school-of-economic-science/) — the Foundation operates "c/o" this organization at the same Mandeville Place address
+- [Andrew Purves](/wiki/andrew-purves/) · [Coalition for Economic Justice](/wiki/coalition-for-economic-justice/) — contributors and events published in or connected to *Land & Liberty*'s orbit
 
 ## Sources
 

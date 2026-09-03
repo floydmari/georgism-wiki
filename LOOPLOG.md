@@ -4409,3 +4409,54 @@ for the reject decision, but worth flagging in case that garbled byline resurfac
 
 Lint 0 errors, 0 orphans, 999 pages. Queue ledger: 0 pending, 325 consumed. 6 touched pages
 Ghost-synced (2 created, 4 updated).
+
+## 2026-09-03 — a UK Georgist institutional cluster, including one organization's hard history
+
+A 9-item batch, but 8 of the 9 were really one Slack message: a colleague of Floyd's
+mentioned meeting "two prominent Georgists at London's SES" — Andrew Purves and, by
+extension, the School of Economic Science / School of Philosophy and Economic Science
+(SPES) — and the scanner had split every URL in that message into its own queue item. The
+9th (Mark Garman's "Citizens' Equity," a corporate-funded sovereign-wealth-fund UBI
+proposal with no land or rent angle anywhere in it) was unrelated and a clean reject.
+
+The cluster itself turned into three new pages: `people/andrew-purves`,
+`organizations/coalition-for-economic-justice`, and
+`organizations/school-of-economic-science`. All three institutions were previously
+uncovered on the wiki despite real, ongoing UK LVT policy engagement — Purves and Dr Peter
+Bowman's March 2018 written evidence to a UK Parliament land-value-capture inquiry (read in
+full via a reader-proxy after Parliament's own site Cloudflare-blocked this session
+outright), Purves's 2018 *Land & Liberty* cover story tied to a formal SES submission to the
+Scottish Land Commission, and the Coalition for Economic Justice's decade-plus record of
+London Assembly, Westminster, and Scottish-government engagement (read directly from both
+its OPDC submission and its own 2016-17 annual report).
+
+The School of Economic Science page needed unusual care. Its founding is genuinely
+Georgist — 1937/38, Andrew MacLaren MP, originally the "Henry George School of Economics"
+— but his son Leon MacLaren broadened it over decades into a Plato/Ouspensky-Gurdjieff/
+Maharishi-meditation/Advaita-Vedanta philosophy school, and the organization carries a
+separate, serious, and well-documented history: a 2005 inquiry (chaired by QC James
+Townsend) that found children "criminally assaulted" at SES-linked schools 1975-1985, a
+December 2020 BBC report of 45 former students receiving settlements up to £30,000 each,
+a related Dutch police investigation and prosecution at an Amsterdam sister school, and
+decades of "cult" characterization by journalists (Hounam & Hogg's 1984 book *Secret
+Cult*) and named former members (actress Emily Watson, 2019) — alongside named defenders
+and a couple of accounts (Colin Slee, Jules Evans) that moved toward a milder view over
+time. This is exactly the kind of institutional history the wiki's Fairhope precedent says
+to report plainly rather than launder — SES's continuing, credentialed Georgist policy work
+today does not erase that record, and the record does not erase the policy work; the page
+keeps the two threads factually separate rather than letting either soften the other.
+Independently verified the Wikipedia article and SES's own history page directly (both
+fetched and read this session, not trusted from the T0 brief's paraphrase alone) before
+writing anything, given how much weight rests on getting the sourcing right for claims like
+this about a real, currently-operating organization.
+
+A minor recurring-technique note: Parliament's committees.parliament.uk site and
+Sourcewatch both Cloudflare-blocked this session on both direct fetch and the `r.jina.ai`
+reader-proxy for Sourcewatch — but the reader-proxy *did* get through on the Parliament PDF,
+so it's worth trying per-URL even when a sibling URL on the same access route failed.
+Sourcewatch stayed inaccessible either way and was not used as a direct citation; Wikipedia
+carried the controversy-sourcing load instead, with its own footnoted primary sources
+(the 1984 book, the 2005 inquiry, the BBC report) doing the real evidentiary work.
+
+Lint 0 errors, 0 orphans, 1002 pages. Queue ledger: 0 pending, 334 consumed. 8 touched pages
+Ghost-synced (3 created, 5 updated).
