@@ -1,6 +1,25 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://www.cambridge.org/engage/coe/article-details/6a858048d1922e37d57f58e1",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic preprint on resource rents and the \"paradox of plenty\" — how natural-resource rents coexist with under-provision of public goods in Azerbaijan. Relevant to resource rent taxation.",
+      "context": "Assessing the Economic Potential of Public Goods in Azerbaijan — Nihad Isgandarov, Ilkin Mustafayev. Cambridge Open Engage, Aug 2026.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-09-03T11:05:38.596313+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://theconversation.com/richard-denniss-is-calling-for-a-gas-export-tax-but-an-effective-royalty-system-would-be-a-better-option-289720",
+      "source": "lvt-paper-scanner",
+      "reason": "Academic analysis by tax law expert (Monash Business School) comparing Australia's PRRT resource rent tax with royalty systems. Relevant to resource rent taxation.",
+      "context": "Richard Denniss is calling for a gas export tax, but an effective royalty system would be a better option — Diane Kraal. The Conversation, Aug 2026.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-09-03T11:05:38.596313+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
