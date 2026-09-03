@@ -4460,3 +4460,30 @@ carried the controversy-sourcing load instead, with its own footnoted primary so
 
 Lint 0 errors, 0 orphans, 1002 pages. Queue ledger: 0 pending, 334 consumed. 8 touched pages
 Ghost-synced (3 created, 5 updated).
+
+## 2026-09-03 (later) — a corrupted queue array, and two small clean items
+
+The end-of-loop merge for the SES/Purves batch hit a real infrastructure bug, not just the
+usual concurrent-scanner-commit collision: main's own prior commit had somehow duplicated
+its entire queue array (11 genuine items appearing twice, 22 total). Hand-editing the merge
+conflict made this worse before I noticed — resolved properly by aborting, re-merging, and
+fixing it programmatically instead: read both sides via `git show`, dedupe main's queue by
+URL, drop anything already in this branch's consumed ledger, and rebuild the file from a
+clean base. Worth remembering next time a wiki-queue.json conflict looks unusually large —
+check for exact-duplicate entries before assuming it's just two legitimate additions.
+
+The 2 items that survived dedup were both worth a few minutes: Diane Kraal's Conversation
+piece on Australia's PRRT vs. royalty systems supplied a concrete case this wiki's existing
+PRRT page only had in the abstract — Queensland's onshore gas industry reintroduced a
+conventional royalty after PRRT-equivalent arrangements produced zero revenue, a real
+instance of a revenue royalty outperforming a profits-based rent tax in practice. Enriched
+research/australia-mining-royalties-prrt.md rather than a new page, since it's a shorter
+commentary piece extending an existing case study rather than a standalone paper.
+Isgandarov & Mustafayev's Azerbaijan working paper got a new page (the wiki's first Caucasus/
+Caspian resource-rent case) plus a places/azerbaijan.md stub, since no Azerbaijan page
+existed at all — its finding (SOFAZ has ample fiscal capacity; institutional quality, not
+fund size, is what actually constrains public-goods delivery) is a useful qualifier to the
+wiki's more success-flavored Norway/Alaska sovereign-wealth-fund coverage.
+
+Lint 0 errors, 0 orphans, 1004 pages. Queue ledger: 0 pending, 336 consumed. 4 touched pages
+Ghost-synced (2 created, 2 updated).

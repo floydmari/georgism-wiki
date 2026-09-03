@@ -92,6 +92,7 @@ The commons trust framework also addresses a gap in the sovereign wealth fund mo
 - [Hartwick Rule](/wiki/hartwick-rule/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 - [Capitalism 3.0](/wiki/capitalism-3-0/) — Barnes's commons trusts as sovereign wealth mechanism
+- [Isgandarov & Mustafayev: Public Goods in Azerbaijan](/wiki/isgandarov-mustafayev-azerbaijan-public-goods/) — a case where fund capacity alone did not translate into public-goods outcomes, absent institutional quality
 
 ## Sources
 

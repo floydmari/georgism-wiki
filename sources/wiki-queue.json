@@ -1,25 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://www.cambridge.org/engage/coe/article-details/6a858048d1922e37d57f58e1",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic preprint on resource rents and the \"paradox of plenty\" — how natural-resource rents coexist with under-provision of public goods in Azerbaijan. Relevant to resource rent taxation.",
-      "context": "Assessing the Economic Potential of Public Goods in Azerbaijan — Nihad Isgandarov, Ilkin Mustafayev. Cambridge Open Engage, Aug 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-09-03T11:05:38.596313+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://theconversation.com/richard-denniss-is-calling-for-a-gas-export-tax-but-an-effective-royalty-system-would-be-a-better-option-289720",
-      "source": "lvt-paper-scanner",
-      "reason": "Academic analysis by tax law expert (Monash Business School) comparing Australia's PRRT resource rent tax with royalty systems. Relevant to resource rent taxation.",
-      "context": "Richard Denniss is calling for a gas export tax, but an effective royalty system would be a better option — Diane Kraal. The Conversation, Aug 2026.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-09-03T11:05:38.596313+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -3933,8 +3914,32 @@
       "wiki_page": "/wiki/school-of-economic-science/",
       "triage_date": "2026-09-03",
       "notes": "Enriches new /wiki/school-of-economic-science/ page (same disposition target as the SPES history page above). Fetched and read directly, with precise quotation and footnote-number preservation requested. Anchor source for the organization's founding/evolution and its controversy record (2005 Townsend inquiry child-abuse findings at St James/St Vedast, Dec 2020 BBC settlement report, decades of 'cult' characterization with named critics and defenders) — reported honestly per the wiki's practice of not laundering organizational history."
+    },
+    {
+      "url": "https://www.cambridge.org/engage/coe/article-details/6a858048d1922e37d57f58e1",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Assessing the Economic Potential of Public Goods in Azerbaijan — Nihad Isgandarov, Ilkin Mustafayev. Cambridge Open Engage, Aug 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/isgandarov-mustafayev-azerbaijan-public-goods/",
+      "triage_date": "2026-09-03",
+      "notes": "New research page (plus a places/azerbaijan.md stub, previously missing). Isgandarov & Mustafayev (2026) working paper on Azerbaijan's 'paradox of plenty' — SOFAZ provides fiscal capacity, but institutional quality (fiscal-rule credibility, project-selection discipline) is the binding constraint on public-goods delivery. B-claim (summary extraction)."
+    },
+    {
+      "url": "https://theconversation.com/richard-denniss-is-calling-for-a-gas-export-tax-but-an-effective-royalty-system-would-be-a-better-option-289720",
+      "source": "lvt-paper-scanner",
+      "author": "lvt-paper-scanner",
+      "date": null,
+      "context": "Richard Denniss is calling for a gas export tax, but an effective royalty system would be a better option — Diane Kraal. The Conversation, Aug 2026.",
+      "topics": [],
+      "verdict": "accepted",
+      "wiki_page": "/wiki/australia-mining-royalties-prrt/",
+      "triage_date": "2026-09-03",
+      "notes": "Enriches existing research/australia-mining-royalties-prrt.md with a new subsection. Kraal (2026), The Conversation — AU$282bn PRRT carried-forward-expenditure figure, Queensland's onshore-gas royalty reintroduction after PRRT produced zero revenue, WA's 15% domestic gas reservation, and the 2017 Callaghan Review."
     }
   ],
-  "total": 334,
+  "total": 336,
   "last_updated": "2026-09-03"
 }
