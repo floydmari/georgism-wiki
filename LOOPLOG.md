@@ -4487,3 +4487,53 @@ wiki's more success-flavored Norway/Alaska sovereign-wealth-fund coverage.
 
 Lint 0 errors, 0 orphans, 1004 pages. Queue ledger: 0 pending, 336 consumed. 4 touched pages
 Ghost-synced (2 created, 2 updated).
+
+## 2026-09-04 — a batch of blogs and op-eds; four rejects, no new pages
+
+Unusual batch composition: 7 items, almost all web sources — a blog explainer, two op-eds, a
+paywalled Substack, a magazine interview, a university research-portal listing, and two pieces
+from sites that turned out not to survive scrutiny. Nothing here warranted a new page; three
+became enrichments and four were rejected. Worth recording because the reject reasoning is the
+substance of this pass.
+
+Two rejects were about source *provenance*, not topic. The Kazakhstan CBAM piece looked
+credible in isolation — EUR-Lex regulation citations, Eurostat Comext data, named Kazakh
+enterprises, specific carbon-rent leakage figures — but checking the site's homepage showed it
+was one entry in a templated "CBAM Country Intelligence: <Country> 2026" series spanning Libya,
+Mauritania, Oman, Namibia, Mozambique, Algeria and more, with no named author on the piece,
+implausible 49-80 minute stated read times, and unrelated political content elsewhere on the
+site. That's a programmatic content operation wearing nonprofit branding, and plausible-looking
+figures from such a source can't be trusted without independent verification the wiki would have
+to do from scratch anyway. The "Rentier Asset Black Hole" piece failed similarly: a
+single-operator investment blog whose own About page describes a different author than the
+byline on the article, citing UK house-price and productivity figures to an unnamed "Oxford
+Review of Economic Policy" and "Cambridge productivity research network." Its actual thesis is
+already covered, better sourced, at `research/fudge-structural-rentier-asset`. The lesson worth
+keeping: when a source's *content* is on-topic and superficially well-cited, check the
+publisher's other output before trusting it — the tell is upstream of the article.
+
+The other two rejects were more ordinary. Richard Murphy is a genuinely notable commentator but
+this particular post was an uncited introductory explainer restating what `concepts/economic-rent`
+already covers with citations (and one idiosyncratic claim, that government bond interest is
+rent "because the money already exists," that isn't standard Georgist rent theory). Deirdre
+Kent's NZ land-tax history is exactly the kind of thing the wiki wants, but it's paywalled —
+neither direct fetch nor the reader-proxy got past the teaser, so there was nothing verifiable
+to use.
+
+Of the three accepts, the Ballard one is the most useful: Aaron Schechter — already cited on
+`places/washington-state` for a June op-ed arguing the general LVT case — returned in August
+with a concrete application, modeling a TIF district around the proposed Ballard Link station
+against King County Assessor data ($1.93bn of land within 2,000 feet; $2.59bn projected over 30
+years against a ~$10bn ST3 gap). Every figure was re-verified directly against the article
+rather than taken from the T0 brief. The page carries it as one advocate's own calculation, and
+notably Schechter himself calls his 2,000-foot radius "arbitrary" — which is the honest framing,
+so the wiki says it too. Also added a verbatim Jean Drèze quote to `concepts/rent-seeking` on
+inequality as a possible *outcome* of rent-seeking rather than a by-product of growth (flagged
+as attributed opinion — he cites no data in the interview), and a genuinely nice
+mechanism-design result to `concepts/ip-rents`: Choi's *Journal of Industrial Economics* paper
+showing per-unit patent royalties function as a "rent-protection device" against future hold-up
+claims — the IP analogue of the wiki's land-assembly holdout problem, where a costly workaround
+is itself a measure of the underlying privilege's social cost.
+
+Lint 0 errors, 0 orphans, 1004 pages (no new pages). Queue ledger: 0 pending, 343 consumed.
+3 touched pages Ghost-synced.

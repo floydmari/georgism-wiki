@@ -18,6 +18,8 @@ The behaviour was analysed by Gordon Tullock (1967) and named "rent-seeking" by 
 
 Georgist analysis treats private capture of land rent as the foundational form of rent-seeking — value extracted from the community's activity without contribution. Modern work such as [Mazzucato et al. (2023)](/wiki/mazzucato-mapping-rents/) extends the framework from land to finance and digital platforms, and [Stiglitz](/wiki/joseph-stiglitz/) places rent-seeking at the center of inequality.
 
+The development economist **Jean Drèze** made the same causal point compactly in a September 2026 interview, resisting the reading of inequality as a mere side-effect of growth: "when economic growth is associated with rising inequality, it does not mean that inequality is a by-product of growth. It can also be an outcome of predatory or rent-seeking activities."[12] Drèze's examples — large firms crowding out small producers, wealthy individuals capturing wealth through policy influence — are asserted rather than evidenced in the interview itself, so this is carried as a notable economist's framing of the causal question, not as empirical support for it. The wiki's [India rentier-growth](/wiki/sampat-india-rentier-growth-infrastructure/) and [business-group concentration](/wiki/commander-estrin-india-business-groups/) research pages carry the evidence-level treatment of the same Indian case.
+
 ## The Growth Cost
 
 Tullock's original 1967 insight was that the resources spent *competing* for a monopoly rent or privilege — lobbying, litigation, lawyering — are themselves a social loss over and above the standard deadweight loss of the privilege itself: a bid for a $1 million licence can rationally absorb close to $1 million in real resources with nothing produced in return. The wiki's [rent-seeking drags economic growth](/wiki/rent-seeking-drags-growth/) page assembles the mainstream — not Georgist — literature on this: [Murphy, Shleifer & Vishny (1991)](/wiki/murphy-shleifer-vishny-allocation-talent/) find that where a society's rules of the game reward capture, its ablest people become rent-seekers rather than entrepreneurs, at a measurable cost to innovation; [Baumol (1990)](/wiki/baumol-unproductive-entrepreneurship/) documents historical cases (Ancient Rome, Medieval China) where inventive societies stagnated once payoff structures rewarded office and litigation over enterprise. The evidence is graded Moderate rather than Strong: the mechanism and historical pattern are well established, but direct cross-country magnitude estimates are fragile, and measured political rent-seeking spending in the US is surprisingly small relative to the rents at stake ([Ansolabehere et al. 2003](/wiki/ansolabehere-money-in-politics/)) — a genuine counter-data-point the wiki's problem page treats as the reason for the Moderate grade rather than Strong.
@@ -131,3 +133,11 @@ Two public-finance papers extend rent-seeking theory into optimal-tax design. [R
     for the Chicago by-product-innovation case, the 30-40% price-decline figure, and the 1920
     antitrust consent-decree sequence (§"A Historical Case" above). [wiki
     summary](/wiki/desrochers-smith-meatpacking-rent-seeking/)
+12. Jean Drèze, interviewed by Parth Singh, "Rising Inequality An Outcome Of Predatory Or
+    Rent-Seeking Activities, Says Economist Jean Drèze," *Outlook Business*, 1 September 2026.
+    [outlookbusiness.com](https://www.outlookbusiness.com/magazine/rising-inequality-an-outcome-of-predatory-or-rent-seeking-activities-says-economist-jean-dr%C3%A8ze) —
+    fetched and read in full 2026-09-04, quotation verified verbatim against the interview text
+    — used for Drèze's framing of inequality as a possible outcome of predatory or rent-seeking
+    activity rather than a by-product of growth (§"Connection to Georgism" above). Magazine
+    interview; Drèze cites no data or studies anywhere in it, so this supports an attributed
+    opinion only, not an empirical claim (C-claim).
