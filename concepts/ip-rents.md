@@ -3,7 +3,7 @@ category: concepts
 excerpt: A patent or copyright is a government-granted temporary monopoly — a deliberately-created
   rent. It is the most contested rent in the Geoist file, because here the rent is
   supposed to BE the incentive.
-last_reviewed: 2026-07-18
+last_reviewed: 2026-09-04
 pd_quotes: true
 stub: false
 supports_outcomes: []
@@ -81,6 +81,28 @@ preserving the incentive** — the IP analogue of a rent tax:
   non-obviousness standards shrink the rent toward the minimum needed to induce the
   invention.
 
+## Royalties as a Rent-Protection Device
+
+A 2026 *Journal of Industrial Economics* paper by **Jay Pil Choi** (Yonsei University) supplies
+a mechanism-design result on the contract side of IP rents: why licensors so often charge
+per-unit royalties rather than a simple fixed fee. Choi models a non-competing licensor
+contracting with a monopolistic manufacturer that faces "the risk of future infringement claims
+by unknown patent holders" — the hold-up problem created by patents that surface only after a
+product is already on the market. Absent that risk, fixed-fee licensing is optimal. But Choi
+shows "the possibility of future patent claims makes it optimal to include a per-unit royalty,"
+because the royalty "reduces the surplus available to potential third-party claimants and serves
+as a **rent-protection device**, trading off allocative inefficiency against hold-up risk."[5]
+
+The Geoist interest here is that the inefficiency is deliberately incurred *to defend a rent
+against another rent-claimant* — the licensor accepts a distortion in output (the classic
+objection to per-unit royalties) specifically to shrink what a future patent holder could
+extract. This is the IP analogue of the [holdout problem](/wiki/holdout-problem/) the wiki
+documents for land assembly: in both cases a party with a blocking legal claim can appropriate
+surplus it did nothing to create, and in both cases the costly workarounds that emerge are
+themselves a measure of the underlying privilege's social cost. It is also a caution for the
+"just calibrate term and scope" conclusion above — some of IP's deadweight loss lives in
+contracting behavior downstream of the patent grant, not only in the grant's own breadth.
+
 ## Honest Limits
 
 The strong-abolitionist position overreaches. Where R&D costs are enormous and imitation
@@ -127,3 +149,11 @@ blanket levy — and the calibration is where the genuine disagreement lives.
    Buckingham gold-thread-monopoly illustration (C-claim; George's own argument,
    attributed; quotations verified verbatim against the repository's hosted full
    text). [Full hosted text](/wiki/progress-and-poverty-full-text/)
+5. Jay Pil Choi (2026), "Lurking Patent Claims and Strategic Royalty Contracts," *Journal of
+   Industrial Economics*, accepted/in press, DOI 10.1111/joie.70031.
+   [yonsei.elsevierpure.com](https://yonsei.elsevierpure.com/en/publications/lurking-patent-claims-and-strategic-royalty-contracts/) —
+   abstract fetched and read verbatim 2026-09-04 from the author's institutional research
+   portal — used for the fixed-fee-vs-per-unit-royalty result and the "rent-protection device"
+   framing, both quoted directly from the abstract (§"Royalties as a Rent-Protection Device"
+   above). Peer-reviewed, but abstract-level only: the full paper is paywalled at the journal
+   and its model, assumptions, and secondary results were not read (B-claim).
