@@ -4537,3 +4537,56 @@ is itself a measure of the underlying privilege's social cost.
 
 Lint 0 errors, 0 orphans, 1004 pages (no new pages). Queue ledger: 0 pending, 343 consumed.
 3 touched pages Ghost-synced.
+
+## 2026-09-06 — four enrichments, no new pages; a syndication dedup gap and one T0 override
+
+Six items. Three accepted as enrichments, three rejected, nothing new-page-worthy.
+
+The reject worth flagging structurally: Diane Kraal's PRRT-vs-royalty piece came back a
+second time, this time as the Monash Lens republication of the Conversation article already
+accepted on 2026-09-03 and used on `australia-mining-royalties-prrt`. The page carries an
+explicit "republished from The Conversation" notice, so it's unambiguous — but no amount of
+URL normalisation in `clean_wiki_queue.py` will catch cross-domain syndication of the same
+article. That's a dedup gap to live with by checking author+headline against the consumed
+ledger when a familiar-looking item appears, which is how it was caught here.
+
+The Ghana item was rejected for thinness rather than topic, and is worth a second look later:
+a single paraphrased quote from Finance Minister Ato Forson about resource owners benefiting
+alongside shareholders, with no rates or figures, in an outlet carrying no factuality rating.
+But the underlying policy — a sliding-scale gold royalty reportedly running 5%-12% and hitting
+its top rate near $4,500/oz — is real and would sit naturally beside the Queensland tiered coal
+royalty and the NZ minerals review. Ghana has no wiki page at all. Noted in the ledger for a
+future pass to chase via a primary government source.
+
+**T0 override.** T0 recommended a new events page for the BC gas-royalty story. I didn't take
+it: the central allegation — that Budget 2026 omitted transportation and processing cost
+deductions from the plant-inlet-price royalty calculation, costing ~$500m/year — rests on one
+economist's verification reported by one outlet, is denied by Premier Eby ("not familiar with
+any error"), and has had no audit or second-source confirmation. That's too unsettled to anchor
+its own page. The material went instead into `places/british-columbia` as an explicitly-flagged
+live dispute, wrapped around the parts that *aren't* contested and are genuinely valuable: the
+Montney's ~$1tn scale, royalties doing 94% of BC's fossil-fuel revenue capture against 5% carbon
+tax and 1% corporate income tax, Olewiler's 2021 review calling the system "broken," and the
+2024 joint government/Treaty 8 analysis conceding the 2022 framework would capture 20-30%
+against its own stated 50% target.
+
+The best find in the batch was buried in that same article and had nothing to do with the
+dispute: Alberta's Heritage Fund reached $31.9bn by late 2025 against an estimated $577-688bn
+had it kept its original 30%-of-revenue savings rate (halved 1983, halted 1987). That went to
+`research/hartwick-rule`, which until now had been purely theoretical — a three-page AER note
+plus the genuine-savings literature, with no real-world case of the rule being tried and
+abandoned. Antweiler's framing sharpens it further in a specifically Georgist direction: where
+private firms extract, much of the intergenerational transfer is already gone in dividends
+before any savings decision gets made, so under-capture at the royalty stage cannot be fixed by
+saving harder afterward. Royalty design is upstream of Hartwick.
+
+Also: the Guardian's Burnham explainer resolved part of that page's open [VERIFY] — a property-
+tax overhaul is ruled out for the 28 October 2026 Budget, with 2027 the reported window after
+Louise Casey's social-care report. That directly contradicts an existing source on the page
+(Armstrong Watson had flagged the October Budget as a plausible announcement date), so the page
+now carries both with the correction visible. And NBER's own digest of Wasi & White supplied
+Prop 13 lock-in breakdowns the page lacked — including the counter-intuitive one that renters'
+tenure rose more in proportional terms than owners', despite renters holding no Prop 13 base.
+
+Lint 0 errors, 0 orphans, 1004 pages (no new pages). Queue ledger: 0 pending, 349 consumed.
+4 touched pages Ghost-synced.
